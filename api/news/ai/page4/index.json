@@ -2,6 +2,104 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-17-ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week.md",
+      "title": "AI fighter pilot vs. Air Force pilot: Dogfight showdown scheduled for this week",
+      "excerpt": "DARPA is conducting its third AlphaDogfight Trials. The winning AI will be pitted against a human pilot in a human vs. algorithm aerial showdown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/08/17/cd1f7430-be29-406a-aae8-89be51fffecd/resize/1200x/eb87a4489df268a654643e7145b88d8e/darpa.jpg",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/",
+      "publishedDateTime": "2020-08-17T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-researchers-use-ai-to-combat-and-quantify-browser-fingerprinting.md",
+      "title": "Researchers use AI to combat and quantify browser fingerprinting",
+      "excerpt": "To combat fingerprinting in particular, in a recent study, researchers at The University of Iowa, Mozilla, and the University of California, Davis investigated a machine learning-based approach called FP-Inspector that trains classifiers to learn fingerprinting.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/GettyImages-1062283972-e1575563910607.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/amp/",
+      "publishedDateTime": "2020-08-17T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-ai-based-traffic-management-gets-green-light.md",
       "title": "AI-based traffic management gets green light",
       "excerpt": "Technology convergence allows for safer automated traffic lights with less waiting. When it's time to contract with an outside vendor for IT solutions, you need an easy way to compare the relative merits and faults of competing providers.",
@@ -1321,88 +1419,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-controversial-face-recognition-firm-clearview-ai-is-teaming-up-with-ice.md",
-      "title": "Controversial Face Recognition Firm Clearview AI Is Teaming Up With ICE",
-      "excerpt": "In a pairing that has all the makings of a privacy and/or human rights nightmare waiting to happen, the dystopian facial recognition software maker Clearview AI secured an ongoing contract with U.S. Immigration and Customs Enforcement this week.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lvngekwv9r2xiehaguxj.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp",
-      "publishedDateTime": "2020-08-15T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-with-self-driving-tech-was-new-a-road-trip-paved-the-way.md",
-      "title": "With self-driving tech was new, a road trip paved the way",
-      "excerpt": "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/entertainment/celebrities/article244877067.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/entertainment/celebrities/article244877067.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/entertainment/celebrities/article244877067.html",
-      "publishedDateTime": "2020-08-15T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

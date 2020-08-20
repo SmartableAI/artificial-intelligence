@@ -120,6 +120,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Court ruling paves the way for Facebook to settle its facial recognition lawsuit"
+    excerpt: "A judge gave Facebook preliminary approval to settle its Illinois facial recogntion lawsuit that was filed under the Biometric Information Privacy Act."
+    publishedDateTime: 2020-08-20T20:15:00Z
+    webUrl: "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/"
+    ampWebUrl: "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Global Facial Recognition Market Forecast 2019-2028"
     excerpt: "KEY FINDINGS The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security,"
     publishedDateTime: 2020-08-20T00:12:00Z

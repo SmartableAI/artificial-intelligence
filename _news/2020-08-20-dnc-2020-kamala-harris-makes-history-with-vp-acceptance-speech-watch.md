@@ -2,18 +2,18 @@
 category: news
 title: "DNC 2020: Kamala Harris makes history with VP acceptance speech | WATCH"
 excerpt: "Kamala Harris has formally accepted the Democratic nomination for vice president. She addressed the Democratic National Convention's third night after former President Barack Obama warned that American democracy itself was at risk if President Donald Trump wins reelection this fall."
-publishedDateTime: 2020-08-20T10:22:00Z
-webUrl: "https://6abc.com/kamala-harris-speech-dnc-biden/6378391/"
-ampWebUrl: "https://6abc.com/amp/kamala-harris-speech-dnc-biden/6378391/"
-cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/kamala-harris-speech-dnc-biden/6378391/"
+publishedDateTime: 2020-08-20T20:56:00Z
+webUrl: "https://abc7ny.com/kamala-harris-speech-dnc-biden/6378391/"
+ampWebUrl: "https://abc7ny.com/amp/kamala-harris-speech-dnc-biden/6378391/"
+cdnAmpWebUrl: "https://abc7ny-com.cdn.ampproject.org/c/s/abc7ny.com/amp/kamala-harris-speech-dnc-biden/6378391/"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: 6abc News
-  domain: 6abc.com
+  name: abc7NY
+  domain: abc7ny.com
 
 topics:
   - Natural Language Processing
@@ -59,6 +59,6 @@ related:
         height: 422
         isCached: true
 
-secured: "L22FtvwlFgpNQt4A/aeLgXFPVuGAoqjjXTYJKx5abVTCHXcpeNfDpoWmYvB5QvsyE9eU3LwBrGk3Ds08X+52TM9sqaq7wnmM7caaP+fOE1sYb8EzOp6wGQHU5OuC03vWPaeWxzzE4zM0YxlcsGssYXnmqzBTHqNfF9wyRhiIbK/XKqUOi6MQBpvvD9grD3qZV1JOp13qxG2TB5hJ2Mj2BWPSRjBGhZhcgYNiTHRI4+bOwdHxXDy9DoU9oaCHuyIYh3go6kRQDCNGie9DANBIBGwmaJIEpquABfGo375H5UVODQV4QV+RVXaUYKa80dCJrU6ZajodIc8AFb2w4+q0hXidh4ILgZHonZvTqUlctYrVxtxord3Y27OcG5Fnkc0RO1z0k1j2J2CA2J78uNWQBUaHw5KzG/PCZvLEGzuATVYPy3X+3Qm39/Xat0QpFydu+eSvFJTcpje8gJXCrLkffwj8NX7pFhKFCJF8hpHdhqH3R++m/IX43zYlSaGUo+NXSNPFo5YZ6ZgyezGdaVPyKA==;UdcjcNyuRr8LSXnaDoUm9g=="
+secured: "F+z3E3PHOCsmj2+aMLMzAOXssydSkyjTCE5ZTnx0h3ev3dlNg6xB3/5vh50ACrjtXFypTXYLGguqVsDcWJGxprTNHzAb650fRY+41b91tHfeyaSzWkV5luz+LT+EG182k0pu9GlFvBbP7zY5IbnkXLQg4eUadrHo2ygcp9KgF2GRbqVbi5p9N7rpFYVepy54tdAxyhlHHzYzYA/HaqEUIrN2ZbsLiOGeQxfzaL6V4uEDf8es4qoH+mejVsFjbCwwyLwRtgsvgpqirJpE/Yzfci38yhHuho8NPtHhyrPtKSYF0KLi0qWAdJn1cafFsowxg2EY7U4IXdn5efAEOO8bHA==;gXmsHJb98egfBANEtrJCfw=="
 ---
 

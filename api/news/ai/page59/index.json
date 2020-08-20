@@ -2,6 +2,97 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-06-26-amazon-automates-media-analysis-for-rekognition-video.md",
+      "title": "Amazon Automates Media Analysis for Rekognition Video",
+      "excerpt": "Amazon says that the Rekognition Video provides the exact frame number when it detects a relevant segment of video. It handles various video format rates, such as drop frame and fractional frame rates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvtechnology.com/equipment/amazon-automates-media-analysis-for-rekognition-video",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rBkVtATHfAGckySg6qHgWb-1200-80.png",
+          "width": 1024,
+          "height": 576,
+          "title": "Amazon Automates Media Analysis for Rekognition Video",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/equipment/amazon-automates-media-analysis-for-rekognition-video",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/amazon-automates-media-analysis-for-rekognition-video",
+      "publishedDateTime": "2020-06-26T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-amazon-buys-self-driving-technology-company-zoox.md",
+      "title": "Amazon buys self-driving technology company Zoox",
+      "excerpt": "Amazon is jumping deeper into the market for autonomous driving with the purchase of Zoox, which was valued at over $3 billion in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105525572-1540337875521main.00_02_15_18.still007.jpg?v=1540337919",
+          "width": 1920,
+          "height": 1080,
+          "title": "Amazon buys self-driving technology company Zoox",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
+      "publishedDateTime": "2020-06-26T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-volvo-cars-waymo-partner-to-build-self-driving-vehicles.md",
       "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
       "excerpt": "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles. The companies said Waymo will work with Volvo’s global brands ...",
@@ -1277,106 +1368,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-facebook-releases-ai-development-tool-based-on-nethack.md",
-      "title": "Facebook releases AI development tool based on NetHack",
-      "excerpt": "Facebook released the NetHack Learning Environment, a research tool based on the Atari game NetHack that's designed to benchmark and train AI agents.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/25/facebook-releases-ai-development-tool-based-on-nethack/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook releases AI development tool based on NetHack",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/25/facebook-releases-ai-development-tool-based-on-nethack/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/facebook-releases-ai-development-tool-based-on-nethack/amp/",
-      "publishedDateTime": "2020-06-25T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-ai-system-designed-to-aid-or-perhaps-replace-human-lifeguards.md",
-      "title": "AI system designed to aid – or perhaps replace – human lifeguards",
-      "excerpt": "Lifeguards do play a vital role in the prevention of drownings, but at large busy beaches, they can't always keep track of all the swimmers at all times. That's where Sightbit is designed to come in,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/outdoors/sightbit-ai-lifeguard/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/02e33c7/2147483647/strip/true/crop/884x589+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbb%2F70%2F6ea849894374b9603d9d13d5ba5a%2Fscreen-shot-2020-06-25-at-1.29.25%20PM.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI system designed to aid – or perhaps replace – human lifeguards",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/outdoors/sightbit-ai-lifeguard/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/outdoors/sightbit-ai-lifeguard/?amp=true",
-      "publishedDateTime": "2020-06-25T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

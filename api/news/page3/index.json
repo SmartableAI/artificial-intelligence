@@ -2,29 +2,128 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-08-19-meet-your-post-pandemic-coworker-an-ai-bot.md",
-      "title": "Meet Your Post-Pandemic Coworker: An AI Bot",
-      "excerpt": "Ready to swap your old cube-mate for a disembodied AI? IPsoft CEO Chetan Dube, creator of AI co-worker AMELIA, gives his take on the post-COVID office landscape.",
+      "path": "_news/2020-08-19-five-ways-ai-can-help-revolutionize-mental-healthcare.md",
+      "title": "Five Ways AI Can Help Revolutionize Mental Healthcare",
+      "excerpt": "AI has the potential to revolutionize mental healthcare, ultimately making care more accessible, more responsive and more affordable.",
       "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/five-ways-ai-can-help-revolutionize-mental-healthcare/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://i.pcmag.com/imagery/articles/0135CL3x7Ndpnrl5Ngopfgj-3.1597702316.fit_lim.size_1200x630.jpg",
-          "width": 2309,
-          "height": 1299,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bd781a3e144a79d4653a1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot?amp=true",
-      "publishedDateTime": "2020-08-19T05:14:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/five-ways-ai-can-help-revolutionize-mental-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/19/five-ways-ai-can-help-revolutionize-mental-healthcare/amp/",
+      "publishedDateTime": "2020-08-19T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting.md",
+      "title": "14 Ways Artificial Intelligence Will Disrupt Job Searches And Recruiting",
+      "excerpt": "With AI being increasingly used in hiring and recruiting, company leaders need to be thinking of how they can effectively utilize it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/08/19/14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3af16974bbc69e4903f35b%2F0x0.jpg",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/08/19/14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/08/19/14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting/amp/",
+      "publishedDateTime": "2020-08-19T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-meet-your-post-pandemic-coworker-an-ai-bot.md",
+      "title": "Meet Your Post-Pandemic Coworker: An AI Bot",
+      "excerpt": "Ready to swap your old cube-mate for a disembodied AI? IPsoft CEO Chetan Dube, creator of AI co-worker AMELIA, gives his take on the post-COVID office landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/m/meet-your-/meet-your-post-pandemic-coworker-an-ai-bot_vxzc.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1",
+      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1",
+      "publishedDateTime": "2020-08-19T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",
@@ -47,6 +146,7 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1097,88 +1197,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-global-artificial-intelligence-in-medical-imaging-market.md",
-      "title": "Global Artificial Intelligence in Medical Imaging Market",
-      "excerpt": "The report, titled “Global Artificial Intelligence in Medical Imaging Market” defines and briefs readers about its products, applications, and specifications. The research lists key companies operating in the global market and also highlights the key ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2115681/global-artificial-intelligence-in-medical-imaging-market",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T818478022_g.jpg",
-          "width": 800,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2115681/global-artificial-intelligence-in-medical-imaging-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2115681/global-artificial-intelligence-in-medical-imaging-market",
-      "publishedDateTime": "2020-08-18T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml.md",
-      "title": "Flipkart signs pact with IIT-Patna for joint research in AI, ML",
-      "excerpt": "Walmart-owned Flipkart on Tuesday said it has inked an agreement with IIT-Patna to help create industry-focused applied research in the areas of artificial intelligence (AI ... languages. “At the same time, (it) will ensure that the translation process ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2020/08/1-494.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/lite/",
-      "publishedDateTime": "2020-08-18T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

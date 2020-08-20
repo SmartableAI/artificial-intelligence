@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-18/facial-recogn
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
 type: article
 quality: 89
-heat: 309
+heat: 319
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-17T150750.023-796x417.png"
         width: 796
         height: 417
+        isCached: true
+  - title: "Court ruling paves the way for Facebook to settle its facial recognition lawsuit"
+    excerpt: "A judge gave Facebook preliminary approval to settle its Illinois facial recogntion lawsuit that was filed under the Biometric Information Privacy Act."
+    publishedDateTime: 2020-08-20T20:15:00Z
+    webUrl: "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/"
+    ampWebUrl: "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Controversial facial recognition tech firm Clearview AI inks deal with ICE"
     excerpt: "The US Department of Homeland Security (DHS) has signed a contract with Clearview AI to give Immigration and Customs Enforcement (ICE) access to the controversial facial recognition firm's technology."

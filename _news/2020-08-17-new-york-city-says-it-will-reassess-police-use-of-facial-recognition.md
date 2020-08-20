@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T22:45:00Z
 webUrl: "https://www.engadget.com/new-york-city-facial-recongition-223931035.html"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://media.nbcmiami.com/2020/08/CLEARVIEW-UPDATE-PHOTO.png?fit=1200%2C662"
         width: 1200
         height: 662
-        isCached: true
-  - title: "Facebook’s Instagram accused of illegal facial recognition scans of millions of users"
-    excerpt: "Facebook allegedly used facial recognition technology without Instagram users' consent, opening the company up to a lawsuit worth half a trillion dollars."
-    publishedDateTime: 2020-08-16T03:15:00Z
-    webUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/"
-    ampWebUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
-    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
-    type: article
-    provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 52
-    images:
-      - url: "https://www.komando.com/wp-content/uploads/2020/08/kk-article-20200816-instagram-harvested-users-biometric-data-lawsuit-1200x675-1.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "De Blasio Will Reassess NYPD's Use Of Facial Recognition Tech After Protester Arrest"
     excerpt: "Currently, the department’s Patrol Guide allows police to run facial recognition searches on anyone suspected of a crime or anyone who may have witnessed a crime."

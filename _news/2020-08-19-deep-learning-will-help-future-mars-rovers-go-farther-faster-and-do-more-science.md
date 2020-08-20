@@ -8,8 +8,8 @@ ampWebUrl: "https://phys.org/news/2020-08-deep-future-mars-rovers-faster.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-deep-future-mars-rovers-faster.amp"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Phys.org
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Deep learning will help future Mars rovers go farther, faster, and do more science"
+    excerpt: "NASA JPL are developing autonomous capabilities that could allow future Mars rovers to go farther, faster and do more science. Training machine learning models on the Maverick2, their team developed and optimized models for Drive-By Science and Energy-Optimal Autonomous Navigation."
+    publishedDateTime: 2020-08-20T20:11:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/08/200819120700.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 43
   - title: "Deep Learning to Help Mars Rovers Go Farther, Faster"
     excerpt: "NASA's Mars rovers have been one of the great scientific and space successes of the past two decades. Four generations of rovers have traversed the red planet gathering scientific data, sending back evocative photographs,"
     publishedDateTime: 2020-08-20T14:42:00Z

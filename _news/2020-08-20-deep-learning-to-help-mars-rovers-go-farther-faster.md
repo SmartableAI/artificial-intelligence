@@ -40,6 +40,15 @@ related:
         width: 1440
         height: 683
         isCached: true
+  - title: "Deep learning will help future Mars rovers go farther, faster, and do more science"
+    excerpt: "NASA JPL are developing autonomous capabilities that could allow future Mars rovers to go farther, faster and do more science. Training machine learning models on the Maverick2, their team developed and optimized models for Drive-By Science and Energy-Optimal Autonomous Navigation."
+    publishedDateTime: 2020-08-20T20:11:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/08/200819120700.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 43
 
 secured: "qba7O5QqQh42JjJXhWW1fcwz2IXn2pFxgcLxxS23U4akipNSkMAp0pqfLFwWw2mEGJb8IpJkA80/qpLSUIJk/0g/xcEXdhKQMuF/oTEEaDIJ96l8DQ1vBxxCBCS38fWGFuSojFMW9GQCQJxDzmVuwo3w3HT8Ua18I4z87TUuQqq+C0yoZBlaiI0AM+1gp8vHUZsJDQqEOOcGWhD+VpVmkKOVI7cAva+Le4OW2xuODXXo+/gqdBjoEvLjhzWoKmig9OOCjIF/PvkB25+bC3DiPn1PeITlZqm+G8cin1OiFK/rRq70Q8/37wcD6RKN5WDehmO7xAdRsf8ce45ED/BnUw==;e6Hd1FXb+sOluqxhCF6mlg=="
 ---

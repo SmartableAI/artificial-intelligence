@@ -2,6 +2,106 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-08-11-a-no-code-environment-brings-ai-to-the-business-user.md",
+      "title": "A No-Code Environment Brings AI To The Business User",
+      "excerpt": "For financial services organizations to truly reap the benefits AI can bring to efficiency and ROI, they need to empower business users to take the lead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/11/a-no-code-environment-brings-ai-to-the-business-user/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f31c65b669f3bb05a4ef108%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/11/a-no-code-environment-brings-ai-to-the-business-user/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/08/11/a-no-code-environment-brings-ai-to-the-business-user/amp/",
+      "publishedDateTime": "2020-08-11T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-atomwises-machine-learning-based-drug-discovery-service-raises-123-million.md",
+      "title": "Atomwise’s machine learning-based drug discovery service raises $123 million",
+      "excerpt": "With a slew of partnerships with large pharmaceutical companies under its belt and the successful spin out of at least one new company, Atomwise has already proved the value of its machine learning platform for discovering and commercializing potential small molecule therapies for a host of",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-20-at-7.58.55-PM.png?w=1024",
+          "width": 1024,
+          "height": 519,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/amp/",
+      "publishedDateTime": "2020-08-11T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-peer-reviewed-research-shows-babylons-latest-artificial-intelligence-could-help-doctors-improve-diagnosis-particularly-for-complex-cases.md",
       "title": "Peer-reviewed research shows Babylon's latest Artificial Intelligence could help doctors improve diagnosis, particularly for complex cases",
       "excerpt": "This is the first known time that AI has used causation instead of correlations to support doctors with diagnosis in simulated cases.In a peer-reviewed study tasked with diagnosing written test cases it scored higher than 72% (32 of 44) of General Practitioner (GP) doctorsEach GP assessed an average of 159 cases and achieved a mean score of 71.",
@@ -1298,91 +1398,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-artificial-intelligence-and-data-privacy-turning-a-risk-into-a-benefit.md",
-      "title": "Artificial Intelligence And Data Privacy – Turning A Risk Into A Benefit",
-      "excerpt": "Artificial intelligence applications are not open, and can put privacy at risk. The addition of good tools to address privacy for data being used by AI systems is an important early step in adding trust into the AI equation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/08/10/artificial-intelligence-and-data-privacy--turning-a-risk-into-a-benefit/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-10T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-online-payment-market-to-reach-usd-1764335-billion-by-2027-rising-usage-of-ai-to-detect-frauds-will-favor-growth-fortune-business-insights.md",
-      "title": "Online Payment Market to Reach USD 17,643.35 Billion by 2027; Rising Usage of AI to Detect Frauds will Favor Growth: Fortune Business Insights™",
-      "excerpt": "The global online payment market is set to gain traction from the increasing deployment of artificial intelligence (AI) for",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/g17013736/online-payment-market-to-reach-usd-17-643-35-billion-by-2027-rising-usage-of-ai-to-detect-frauds-w",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17013736",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17013736",
-      "publishedDateTime": "2020-08-10T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

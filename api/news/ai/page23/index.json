@@ -2,6 +2,96 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-07-28-tasers-a-pink-diary-and-a-bulge-in-the-front-of-his-pants-the-inside-story-of-an-albany-meth-dealers-violent-run-ins-with-police.md",
+      "title": "Tasers, a pink diary and a bulge in the front of his pants — the inside story of an Albany meth dealer’s violent run-ins with police",
+      "excerpt": "Convicted Albany meth dealer Nicholas Knight broke down in tears in court last week as he was sentenced to prison in a hearing that revealed dramatic details of his violent run-ins with police.",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
+          "width": 530,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The West Australian",
+        "domain": "thewest.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-mind-controlled-drones-and-robots-how-thought-reading-tech-will-change-the-face-of-warfare.md",
+      "title": "Mind-controlled drones and robots: How thought-reading tech will change the face of warfare",
+      "excerpt": "DARPA is funding a number of brain-computer interface projects to enable soliders to control equipment at the speed of thought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/28/b6169b0b-a114-488f-bf41-f99025d6be35/thumbnail/1200x675/316e4bcea8de79eea954e2fead27af0f/istock-477598506.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/",
+      "publishedDateTime": "2020-07-28T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read.md",
       "title": "Embarking on a Python journey? Then ‘Hands-on Machine Learning’ is a must read",
       "excerpt": "Writing an all-encompassing book on Python machine learning is difficult, given how expansive the field is. But reviewing one is not an easy feat either, especially when it’s a highly acclaimed title such as Hands-On Machine Learning with Scikit-Learn,",
@@ -1221,96 +1311,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-bird-identifying-ai-could-put-an-end-to-leg-bands.md",
-      "title": "Bird-identifying AI could put an end to leg bands",
-      "excerpt": "If you saw a finch one time, chances are you'd have great difficulty picking it out from a large group of finches later on. A new artificial intelligence-based system can do just that, though, potentially making life much easier for both biologists and the birds that they study.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/science/bird-identifying-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0ce9b3d/2147483647/strip/true/crop/3360x2240+1+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F12%2Ffc%2F72ed33164940919758665930dc15%2F20great20tit20with20the20bounding20box20illustrating20the20individual20identification20performed20by20the20computer20redits20ndr3920erreira.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/science/bird-identifying-ai/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/bird-identifying-ai/?amp=true",
-      "publishedDateTime": "2020-07-27T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-wisekey-to-showcase-its-cybersecurity-solutions-for-artificial-intelligence-used-in-drones-and-robots-at-sido-2020.md",
-      "title": "WISeKey to Showcase its Cybersecurity Solutions for Artificial Intelligence Used in Drones and Robots at SIDO 2020",
-      "excerpt": "WISeKey to Showcase its Cybersecurity Solutions for Artificial Intelligence Used in Drones and Robots at SIDO 2020 Drones and robotics sensitive",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/wisekey-to-showcase-its-cybersecurity-solutions-for-artificial-intelligence-used-in-drones-and-robots-at-sido-2020-1029434905",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -397,22 +397,31 @@
     {
       "path": "_news/2020-08-15-with-self-driving-tech-was-new-a-road-trip-paved-the-way.md",
       "title": "With self-driving tech was new, a road trip paved the way",
-      "excerpt": "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan.",
+      "excerpt": "Neither was driving. The van, a 1990 Pontiac Trans Sport dubbed “Navlab 5,” was loaded up with the latest self-driving technology developed at CMU. Its pilot was called the Rapidly Adapting Lateral Position Handler, or, RALPH for short, and it had the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/entertainment/celebrities/article244877067.html",
+      "webUrl": "https://www.sacbee.com/entertainment/celebrities/article244877067.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/591af3f6-28c4-448a-a2ba-cc36b68a574a/2a1ca734-0780-4e0c-b453-c4c5786caefe/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/entertainment/celebrities/article244877067.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/entertainment/celebrities/article244877067.html",
-      "publishedDateTime": "2020-08-15T00:01:00-07:00",
+      "ampWebUrl": "https://amp.sacbee.com/entertainment/celebrities/article244877067.html",
+      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/entertainment/celebrities/article244877067.html",
+      "publishedDateTime": "2020-08-15T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
+        "name": "Sacramento Bee",
+        "domain": "sacbee.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,107 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-29-google-claims-its-new-tpus-are-27-times-faster-than-the-previous-generation.md",
+      "title": "Google claims its new TPUs are 2.7 times faster than the previous generation",
+      "excerpt": "Google points to the latest MLPerf benchmark results as evidence its newest TPUs are up to 2.7 times faster than the previous generation in AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/29/google-claims-its-new-tpus-are-2-7-times-faster-than-the-previous-generation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/29/google-claims-its-new-tpus-are-2-7-times-faster-than-the-previous-generation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/29/google-claims-its-new-tpus-are-2-7-times-faster-than-the-previous-generation/amp/",
+      "publishedDateTime": "2020-07-29T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook.md",
+      "title": "Microsoft: We're taking over Windows 10 PyTorch AI library from Facebook",
+      "excerpt": "Facebook has used PyTorch and deep-learning framework Caffe2 for Translate, an AI tool that powers translations for the 48 most commonly used languages on Facebook. PyTorch, as the name suggests, is a package for the hugely popular Python programming language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/07/28/09edeebe-5d34-4c16-b517-2f5431d51418/thumbnail/1200x675/ead4664afaffff3e1ed47e906cacf503/developersistock-665158684a.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/",
+      "publishedDateTime": "2020-07-29T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-china-is-the-first-surveillance-superpower.md",
       "title": "China Is the First Surveillance Superpower",
       "excerpt": "Xi’s pronouncements on AI have a sinister edge. Artificial intelligence has applications in nearly every human domain, from the instant translation of spoken language to early viral-outbreak detection. But Xi also wants to use AI’s awesome analytical ...",
@@ -1251,88 +1352,6 @@
       "provider": {
         "name": "Biometric Companies",
         "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-google-launches-hieroglyphics-translator-that-uses-ai-to-to-decipher-ancient-egyptian-script.md",
-      "title": "Google launches hieroglyphics translator that uses AI to to decipher Ancient Egyptian script",
-      "excerpt": "The new Google tool teaches the basics of hieroglyphics but also uses machine learning to give academics a fast way to decode hieroglyphics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8540329/amp/Google-launches-hieroglyphics-translator-uses-AI-decipher-Ancient-Egyptian-script.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/07/20/11/30970914-0-image-a-15_1595241610437.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8540329/amp/Google-launches-hieroglyphics-translator-uses-AI-decipher-Ancient-Egyptian-script.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8540329/amp/Google-launches-hieroglyphics-translator-uses-AI-decipher-Ancient-Egyptian-script.html",
-      "publishedDateTime": "2020-07-20T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs.md",
-      "title": "Google Launches AI Tool that Translates Ancient Egyptian Hieroglyphs",
-      "excerpt": "The new AI-powered tool from Google decodes ancient Egyptian hieroglyphics, and even lets you translate modern words and emojis into the 5,000-year-old symbols. The tool works by analysing historical records and definitions of the language. It explores the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2020/07/75c5eeba-ancient-egyptian-gods-and-heiroglyphs.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/amp/",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/amp/",
-      "publishedDateTime": "2020-07-20T00:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
         "images": null,
         "publishers": null,
         "authors": null

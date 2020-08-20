@@ -72,22 +72,6 @@ related:
         width: 1200
         height: 662
         isCached: true
-  - title: "Facebook’s Instagram accused of illegal facial recognition scans of millions of users"
-    excerpt: "Facebook allegedly used facial recognition technology without Instagram users' consent, opening the company up to a lawsuit worth half a trillion dollars."
-    publishedDateTime: 2020-08-16T03:15:00Z
-    webUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/"
-    ampWebUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
-    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
-    type: article
-    provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 52
-    images:
-      - url: "https://www.komando.com/wp-content/uploads/2020/08/kk-article-20200816-instagram-harvested-users-biometric-data-lawsuit-1200x675-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Study Finds Face Coverings Reduce Accuracy of Facial Recognition Technology"
     excerpt: "Even the best of the 89 commercial facial recognition algorithms tested had error rates between 5% and 50% in matching digitally applied face masks with photos of the same person without a mask, according to NIST."
     publishedDateTime: 2020-08-19T09:43:00Z

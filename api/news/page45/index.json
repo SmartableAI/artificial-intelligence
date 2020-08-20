@@ -2,6 +2,96 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-07-15-how-chase-is-using-ai-to-update-banking.md",
+      "title": "How Chase is using AI to update banking",
+      "excerpt": "Last Chance: Register for Transform, VB's AI event of the year, hosted online July 15-17. As one of the so-called “big four” U.S. banks, Chase needs little in the way of introduction.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/JPMorganChase.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/amp/",
+      "publishedDateTime": "2020-07-15T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-how-to-annotate-images-for-deep-learning-image-annotation-techniques.md",
+      "title": "How To Annotate Images For Deep Learning: Image Annotation Techniques",
+      "excerpt": "Machine learning including deep learning feels like something right out of a science fiction story, and it’s here to be utilized. Deep learning extracts patterns from all sorts of data including images, and the following will help you understand how this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/how-to-annotate-images-for-deep-learning-image-annotation-techniques/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/07/shutterstock_618887135.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/how-to-annotate-images-for-deep-learning-image-annotation-techniques/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-to-annotate-images-for-deep-learning-image-annotation-techniques/amp/",
+      "publishedDateTime": "2020-07-15T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-how-intuit-is-moving-from-mobile-first-to-ai-first.md",
       "title": "How Intuit is moving from mobile-first to AI-first",
       "excerpt": "App developers will increasingly have to adopt an \"AI-first\" mindset by default, according to Intuit chief technology officer Marianna Tessel.",
@@ -1082,97 +1172,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-new-constructs-nominated-for-benzinga-fintech-listmakers.md",
-      "title": "New Constructs Nominated for Benzinga Fintech Listmakers",
-      "excerpt": "The Benzinga Fintech Listmakers is a compilation of companies within various fintech categories that are working to revolutionize the industry. The voting process will close on Oct. 20. Vote for New Constructs at this link.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/new-constructs-nominated-for-benzinga-fintech-listmakers-1029396377",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/new-constructs-nominated-for-benzinga-fintech-listmakers-1029396377",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/new-constructs-nominated-for-benzinga-fintech-listmakers-1029396377",
-      "publishedDateTime": "2020-07-15T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-ai-in-enabled-computer-vision-market-will-register-a-cagr-of-about-22-between-2020-and-2027-covid19-impact-analysis-on-ecosystem.md",
-      "title": "AI in Enabled Computer Vision Market will Register a CAGR of about 22% between 2020 and 2027 | COVID19 Impact Analysis on Ecosystem",
-      "excerpt": "Jul 15, 2020 (The Expresswire) -- AI in Enabled Computer Vision Market Ecosystem: The ripple effect of Coronavirus-COVID19 on the AI in Enabled Computer Vision Ecosystem needs to become part of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-enabled-computer-vision-market-will-register-a-cagr-of-about-22-between-2020-and-2027-covid19-impact-analysis-on-ecosystem-2020-07-15?mod=mw_quote_news",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

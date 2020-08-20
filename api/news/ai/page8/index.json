@@ -2,6 +2,105 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-08-12-ai-magic-makes-century-old-films-look-new.md",
+      "title": "AI Magic Makes Century-Old Films Look New",
+      "excerpt": "Denis Shiryaev uses algorithms to colorize and sharpen old movies, bumping them up to a smooth 60 frames per second. The result is a stunning glimpse at the past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-magic-makes-century-old-films-look-new/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f32e8e634cbc2004e146e77/master/pass/Science_film_962963136.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-magic-makes-century-old-films-look-new/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-magic-makes-century-old-films-look-new/amp",
+      "publishedDateTime": "2020-08-12T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-more-countries-are-demanding-an-international-treaty-to-ban-killer-robots.md",
+      "title": "More Countries are Demanding an International Treaty to Ban ‘Killer Robots’",
+      "excerpt": "Now, eight years into their push for new international legislation regarding LAWS, HRW has announced in a new report that 30 countries—including Argentina, Iraq, Pakistan, Palestine, Zimbabwe, Colombia—are now finally explicitly seeking a ban on the use of these weapons.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f33d111f7a95c009efe2f15/lede/1597231383355-000arp3501469-1.jpeg?crop=1xw:0.844xh;0xw,0.1274xh",
+          "width": 3997,
+          "height": 2245,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty",
+      "publishedDateTime": "2020-08-12T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-lantronix-open-q-610-som-to-bring-advanced-ai-and-machine-learning-capabilities-to-smart-cameras.md",
       "title": "Lantronix Open-Q 610 μSOM to Bring Advanced AI and Machine Learning Capabilities to Smart Cameras",
       "excerpt": "(NASDAQ: LTRX), a global provider of intelligent edge and secure data management solutions for the Industrial Internet of Things (IoT), today announced its new Lantronix Open-Q(TM) 610 μSOM. Scheduled for delivery later this year,",
@@ -1319,106 +1418,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-a-no-code-environment-brings-ai-to-the-business-user.md",
-      "title": "A No-Code Environment Brings AI To The Business User",
-      "excerpt": "For financial services organizations to truly reap the benefits AI can bring to efficiency and ROI, they need to empower business users to take the lead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/11/a-no-code-environment-brings-ai-to-the-business-user/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f31c65b669f3bb05a4ef108%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/11/a-no-code-environment-brings-ai-to-the-business-user/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/08/11/a-no-code-environment-brings-ai-to-the-business-user/amp/",
-      "publishedDateTime": "2020-08-11T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-atomwises-machine-learning-based-drug-discovery-service-raises-123-million.md",
-      "title": "Atomwise’s machine learning-based drug discovery service raises $123 million",
-      "excerpt": "With a slew of partnerships with large pharmaceutical companies under its belt and the successful spin out of at least one new company, Atomwise has already proved the value of its machine learning platform for discovering and commercializing potential small molecule therapies for a host of",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-20-at-7.58.55-PM.png?w=1024",
-          "width": 1024,
-          "height": 519,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/amp/",
-      "publishedDateTime": "2020-08-11T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

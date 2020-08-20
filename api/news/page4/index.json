@@ -2,6 +2,88 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-18-global-artificial-intelligence-in-medical-imaging-market.md",
+      "title": "Global Artificial Intelligence in Medical Imaging Market",
+      "excerpt": "The report, titled “Global Artificial Intelligence in Medical Imaging Market” defines and briefs readers about its products, applications, and specifications. The research lists key companies operating in the global market and also highlights the key ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2115681/global-artificial-intelligence-in-medical-imaging-market",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T818478022_g.jpg",
+          "width": 800,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2115681/global-artificial-intelligence-in-medical-imaging-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2115681/global-artificial-intelligence-in-medical-imaging-market",
+      "publishedDateTime": "2020-08-18T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml.md",
+      "title": "Flipkart signs pact with IIT-Patna for joint research in AI, ML",
+      "excerpt": "Walmart-owned Flipkart on Tuesday said it has inked an agreement with IIT-Patna to help create industry-focused applied research in the areas of artificial intelligence (AI ... languages. “At the same time, (it) will ensure that the translation process ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2020/08/1-494.jpg",
+          "width": 660,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/lite/",
+      "publishedDateTime": "2020-08-18T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri.md",
       "title": "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI",
       "excerpt": "Researchers at Facebook Inc. and NYU Langone Health said Tuesday that a two-year experiment demonstrates how artificial intelligence can produce a fourfold increase in the speed of magnetic resonance imaging. The results of the joint effort, which ...",
@@ -349,7 +431,7 @@
       "webUrl": "https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 309,
+      "heat": 319,
       "tags": null,
       "images": [
         {
@@ -640,7 +722,7 @@
       "webUrl": "https://www.engadget.com/new-york-city-facial-recongition-223931035.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1099,96 +1181,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-microsoft-flight-simulator-is-finally-back-and-the-reviews-are-in.md",
-      "title": "'Microsoft Flight Simulator' is finally back and the reviews are in",
-      "excerpt": "Its latest iteration goes back to the original naming convention of \" Microsoft Flight Simulator ,\" but pretty much everything else about it is shiny and new. The 2020 edition – which is also the first new one since 2014 – gives virtual pilots access to a full planet's worth of skyways.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/microsoft-flight-simulator-2020-review-round-up/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F08%252F17%252F1e%252Ff7bc72f777f345c4a4a60d886b84fc97.35db3.jpg%252F1200x630.jpg?signature=OdciJ1t1j63J4p3v2fK3hwa06YE=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/microsoft-flight-simulator-2020-review-round-up.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-flight-simulator-2020-review-round-up.amp",
-      "publishedDateTime": "2020-08-17T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-the-meatpacking-industry-is-an-incubator-for-ai-automation-and-covid-19.md",
-      "title": "The meatpacking industry is an incubator for AI, automation, and COVID-19",
-      "excerpt": "As the pandemic stretches on, the threat to meatpacking, meat processing, and distribution center employees has researchers seeking a new production model.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/17/the-meatpacking-industry-is-an-incubator-for-ai-automation-and-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Meatpacking-automation-covid-19.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/17/the-meatpacking-industry-is-an-incubator-for-ai-automation-and-covid-19/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/the-meatpacking-industry-is-an-incubator-for-ai-automation-and-covid-19/amp/",
-      "publishedDateTime": "2020-08-17T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -122,6 +122,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Court ruling paves the way for Facebook to settle its facial recognition lawsuit"
+    excerpt: "A judge gave Facebook preliminary approval to settle its Illinois facial recogntion lawsuit that was filed under the Biometric Information Privacy Act."
+    publishedDateTime: 2020-08-20T20:15:00Z
+    webUrl: "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/"
+    ampWebUrl: "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Controversial facial recognition tech firm Clearview AI inks deal with ICE"
     excerpt: "The US Department of Homeland Security (DHS) has signed a contract with Clearview AI to give Immigration and Customs Enforcement (ICE) access to the controversial facial recognition firm's technology."
     publishedDateTime: 2020-08-17T09:21:00Z

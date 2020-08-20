@@ -2,6 +2,97 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-07-30-ibm-and-influential-launch-watson-advertising-social-targeting-solution.md",
+      "title": "IBM and Influential Launch Watson Advertising Social Targeting Solution",
+      "excerpt": "IBM has launched Watson Advertising Social Targeting with Influential, a solution that harnesses artificial intelligence (AI) to help companies identify influencers that best align with their brand values. The new solution within the Watson Advertising ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=142117",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/101348-Featured-News-Finger-on-Touch-Screen-ORG.jpg",
+          "width": 580,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-30T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-whats-this-a-bipartisan-plan-for-ai-and-national-security.md",
+      "title": "What’s This? A Bipartisan Plan for AI and National Security",
+      "excerpt": "Republican Will Hurd and Democrat Robin Kelly want more Pentagon spending, a Cold War-style “hotline,” and a curb on chip exports to China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/bipartisan-plan-ai-national-security/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f2240e32c5af566ee4afe17/master/pass/business_military_535764174.jpg",
+          "width": 2170,
+          "height": 1446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/bipartisan-plan-ai-national-security/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bipartisan-plan-ai-national-security/amp",
+      "publishedDateTime": "2020-07-30T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-google-supercomputer-nvidia-gpus-break-ai-performance-records.md",
       "title": "Google supercomputer, Nvidia GPUs break AI performance records",
       "excerpt": "\"We achieved these results with ML model implementations in TensorFlow, JAX and Lingvo. Four of the eight models were trained from scratch in under 30 seconds,\" Naveen Kumar from Google AI said.",
@@ -1012,96 +1103,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-apple-tried-to-lure-amazons-video-app-by-offering-a-lower-15-fee-email-shows.md",
-      "title": "Apple tried to lure Amazon's video app by offering a lower 15% fee, email shows",
-      "excerpt": "In an email sent from Apple executive Eddy Cue to Amazon CEO Jeff Bezos in 2016, Apple said it would offer a 15% revenue share to Amazon for customers that sign up for Prime Video through Apple's payments system.",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T18:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-apptek-announces-expansion-of-languages-for-automatic-speech-recognition-and-neural-machine-translation-available-through-the-modzy-ai-platform.md",
-      "title": "AppTek Announces Expansion of Languages for Automatic Speech Recognition and Neural Machine Translation Available through the Modzy™ AI Platform and Marketplace",
-      "excerpt": "--(BUSINESS WIRE)--AppTek, a leader in Artificial Intelligence (AI), Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT) and Natural Language Understanding ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200730005924/en/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200730005924/en/702088/23/AppTek_logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
