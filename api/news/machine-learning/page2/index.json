@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-11-deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025.md",
+      "title": "Deep Learning Market 2020 by Size, Share, Latest Global Trends, Leading Key Players, Future Growth, Revenue, Demand Forecast To 2025",
+      "excerpt": "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-11T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-artificial-intelligence-drug-discovery-startup-atomwise-raises-123m.md",
       "title": "Artificial intelligence drug discovery startup Atomwise raises $123M",
       "excerpt": "Artificial intelligence drug discovery startup Atomwise Inc. announced today it has raised $123 million in new funding to scale up its AI technology platform. The Series B round was led by B Capital Group and Sanabil Investments and included DCVC,",
@@ -425,6 +475,47 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-algorithm-created-by-deep-learning-finds-potential-therapeutic-targets-throughout-genome.md",
+      "title": "Algorithm created by deep learning finds potential therapeutic targets throughout genome",
+      "excerpt": "In order to address this issue plaguing the research community, CAG and its partners at NJIT turned to deep learning. Zhi Wei, PhD, a professor of computer science at NJIT and a senior co-author ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/08/200806122637.htm",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1264,88 +1355,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of-dreams.md",
-      "title": "How Artificial Neural Networks Paved the Way For A Dramatic New Theory of Dreams",
-      "excerpt": "Machine learning experts struggle to deal with \"overfitting\" in neural networks. Evolution solved it with dreams, says new theory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ctfassets.net/cnu0m8re1exe/69s4baeiws1AUtljCB0OVF/ee3650537550ae64aaef7cc3d00bff98/shutterstock_498959041.jpg?w=650&h=433&fit=fill",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-31T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Discover Magazine",
-        "domain": "discovermagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-dinoedge-ai-platform-for-health-safety-monitoring-solutions.md",
-      "title": "DinoEdge AI Platform for Health & Safety Monitoring Solutions",
-      "excerpt": "The platform features an open full-stack for AI (OSA), including a powerful AI inference engine hardware, driver, API, compiler and optimization tools (AutoML, sparsity and low-bit quantization), support for open source frameworks. The Health & Safety ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded-computing.com/home-page/dinoedge-ai-platform-for-health-safety-monitoring-solutions",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5f233ed396b28-76219803_cover_design.jpg&size=1&version=1596145650&sig=7ea38959f2da1fe785f0d3b794759236&default=hubs%2Ftilebg-blogs.jpg",
-          "width": 500,
-          "height": 272,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-30T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded Computing Design",
-        "domain": "embedded-computing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

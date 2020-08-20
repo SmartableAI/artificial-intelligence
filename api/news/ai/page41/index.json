@@ -2,6 +2,128 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-07-13-female-robot-erica-slated-as-actress-for-new-movie-woefully-miscasts-ai-repercussions-for-self-driving-cars.md",
+      "title": "Female Robot Erica Slated As ‘Actress’ For New Movie Woefully Miscasts AI, Repercussions For Self-Driving Cars",
+      "excerpt": "You might be puzzled as to why any undue notice would come from opting to use a robot in a sci-fi movie, which has otherwise seemingly been the case for decades. Here’s the twist. The backers of the film are alleging that the robot will use AI and essentially act or perform in the same manner that a human actor might do so,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/13/female-robot-erica-slated-as-actress-for-new-movie-woefully-miscasts-ai-repercussions-for-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1045998850%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/13/female-robot-erica-slated-as-actress-for-new-movie-woefully-miscasts-ai-repercussions-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/13/female-robot-erica-slated-as-actress-for-new-movie-woefully-miscasts-ai-repercussions-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-07-13T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-07-13-ghost-recon-breakpoint-details-ai-teammates-and-new-event.md",
+      "title": "Ghost Recon Breakpoint details AI Teammates and new Event",
+      "excerpt": "The biggest of those is the addition of AI Teammates for gamers who want to experience the game in solo mode. Check out the trailer for that here! Leave it to Ubisoft to turn around a ship that’s steered towards the cliffs. Time and time again has the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamezone.com/news/ghost-recon-breakpoint-details-ai-teammates-and-new-event/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3mgvd43kcscx1ru2dy3rvnub-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/far-cry-6-3.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gamezone.com/news/ghost-recon-breakpoint-details-ai-teammates-and-new-event/amp/",
+      "cdnAmpWebUrl": "https://www-gamezone-com.cdn.ampproject.org/c/s/www.gamezone.com/news/ghost-recon-breakpoint-details-ai-teammates-and-new-event/amp/",
+      "publishedDateTime": "2020-07-13T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameZone",
+        "domain": "gamezone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-13-kidney-diagnostics-developer-renalytix-ai-sets-terms-for-78-million-us-ipo.md",
+      "title": "Kidney diagnostics developer Renalytix AI sets terms for $78 million US IPO",
+      "excerpt": "Renalytix AI, which is commercializing AI-powered diagnostic tests for kidney disease, announced terms for its IPO on Monday. The Cardiff, United Kingdom-based company plans to raise $78 million by offering 5.5 million ADSs at $14.22, the as-converted last ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/kidney-diagnostics-developer-renalytix-ai-sets-terms-for-%2478-million-us-ipo-2020-07-13",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/kidney-diagnostics-developer-renalytix-ai-sets-terms-for-%2478-million-us-ipo-2020-07-13?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/kidney-diagnostics-developer-renalytix-ai-sets-terms-for-%2478-million-us-ipo-2020-07-13?amp",
+      "publishedDateTime": "2020-07-13T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-as-remote-work-remains-in-place-ai-helps-businesses-accelerate-collaboration.md",
       "title": "As remote work remains in place, AI helps businesses accelerate collaboration",
       "excerpt": "The past few weeks and months have presented unprecedented challenges to businesses. From those struggling to survive to those that have found their products and services to be in high demand ...",
@@ -1227,137 +1349,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-dairies-to-housekeeping-robots-find-their-way-into-new-spaces.md",
-      "title": "Dairies to housekeeping, robots find their way into new spaces",
-      "excerpt": "They rely on tracks or magnetic strips to cover fixed routes. But mobile robots are becoming more autonomous, with a push from advances in computer vision and artificial intelligence. We read about self-driving cars and driverless delivery vans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces-11594561056223.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/07/12/600x338/startup2_1594561294476_1594561303895.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces/amp-11594561056223.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces/amp-11594561056223.html",
-      "publishedDateTime": "2020-07-12T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-op-ed-hyperwar-is-coming-america-needs-to-bring-ai-into-the-fight-to-win-with-caution.md",
-      "title": "Op-ed: Hyperwar is coming. America needs to bring AI into the fight to win — with caution",
-      "excerpt": "Superpower standoffs like those between the U.S. and China in the South China Sea are occurring amid the rise of artificial intelligence. AI will speed up military decision-making, but it is risky.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/07/12/why-america-needs-to-bring-ai-into-the-upcoming-hyperwar-to-win.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106607613-1594222426860gettyimages-1130698394.jpeg?v=1594222523",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/07/12/why-america-needs-to-bring-ai-into-the-upcoming-hyperwar-to-win.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/12/why-america-needs-to-bring-ai-into-the-upcoming-hyperwar-to-win.html",
-      "publishedDateTime": "2020-07-12T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-google-machine-translation-helping-disseminate-covid-19-information.md",
-      "title": "Google Machine Translation Helping Disseminate COVID-19 Information",
-      "excerpt": "This tool translates web page content into over 100 different languages, and nearly all new information is coming in as PDFs several times a day",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.sg/google-machine-translation-helping-disseminate-covid-19-information-48353",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.ibtimes.sg/en/full/29052/google-logo.png",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.sg/google-machine-translation-helping-disseminate-covid-19-information-48353",
-      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/google-machine-translation-helping-disseminate-covid-19-information-48353",
-      "publishedDateTime": "2020-07-12T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ellen",
-        "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

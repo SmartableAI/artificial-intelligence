@@ -2,6 +2,156 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-17-how-robotics-and-automation-could-create-new-jobs-in-the-new-normal.md",
+      "title": "How robotics and automation could create new jobs in the new normal",
+      "excerpt": "The COVID-19 crisis could accelerate a robotics revolution and impact jobs -- but it's not necessarily all bad news for workers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/robotics-automation-new-jobs.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/amp/",
+      "publishedDateTime": "2020-08-17T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip.md",
+      "title": "Photonics startup Lightmatter details P1, its AI optical accelerator chip",
+      "excerpt": "Ahead of the Hot Chips 2020 conference this week, photonics chip startup Lightmatter detailed its forthcoming P1 accelerator hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/17/photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/2d3585e0-3f62-4759-bf51-85ee9f7404af-e1597264833261.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/17/photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip/amp/",
+      "publishedDateTime": "2020-08-17T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-artificial-intelligence-chip-market-forecast-report-2020-2027-top-key-players-analysis.md",
+      "title": "Artificial Intelligence Chip Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
+      "excerpt": "This report researches and evaluates the impact of COVID-19 outbreak on the market, including potential opportunities and challenges, drivers, and risks associated with the market. We present a detailed assessment of market growth based on numerous scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-forecast-report-2020---2027---top-key-players-analysis-2020-08-17",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-17T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-ibm-unveils-its-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing.md",
       "title": "IBM unveils its first seven-nanometre chip for next-generation hybrid cloud computing",
       "excerpt": "IBM has announced the tenth generation of its flagship Power processors, a smaller, faster, more energy-efficient seven-nanometre chip that businesses can expect to deploy inside their data centres in the second half of 2021.",
@@ -816,20 +966,20 @@
       "title": "With self-driving tech was new, a road trip paved the way",
       "excerpt": "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan.",
       "sourceUrl": null,
-      "webUrl": "https://www.thenewstribune.com/entertainment/celebrities/article244877067.html",
+      "webUrl": "https://www.miamiherald.com/entertainment/celebrities/article244877067.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.thenewstribune.com/entertainment/celebrities/article244877067.html",
-      "cdnAmpWebUrl": "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/entertainment/celebrities/article244877067.html",
+      "ampWebUrl": "https://amp.miamiherald.com/entertainment/celebrities/article244877067.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/entertainment/celebrities/article244877067.html",
       "publishedDateTime": "2020-08-15T00:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "News Tribune",
-        "domain": "thenewstribune.com",
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1040,147 +1190,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-automl.md",
-      "title": "Настройка гиперпараметров и AutoML",
-      "excerpt": "В приведенном ниже комплексном примере записной книжки с помощью Hyperopt и SparkTrials выполняется параллельный перебор гиперпараметров для одновременного обучения нескольких моделей.The following en",
-      "sourceUrl": null,
-      "webUrl": "https://docs.microsoft.com/ru-ru/azure/databricks/applications/machine-learning/automl-hyperparam-tuning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-optimalizace-hyperparametru-a-automl.md",
-      "title": "Optimalizace hyperparametrů a AutoML",
-      "excerpt": "AutoML (automatizované strojové učení) označuje automatizaci procesu vývoje modelů strojového učení. Databricks Runtime pro Machine Learning zahrnuje MLflow a Hyperopt. Tyto dva opensourcové nástroje",
-      "sourceUrl": null,
-      "webUrl": "https://docs.microsoft.com/cs-cz/azure/databricks/applications/machine-learning/automl-hyperparam-tuning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-military-takes-robot-interaction-to-the-next-damn-level-with-new-speech-recognition-system.md",
-      "title": "Military takes robot interaction to the next damn level with new speech recognition system",
-      "excerpt": "Waking up Alexa or Google with a question works well enough in the relatively unchanging home environment. But when trying to control robots in a combat environment, asking Alexa politely to find",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202008/military-takes-robot-interaction-to-the-next-damn-level-with-new-speech-recognition-system",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162655/voice-biometrics-large1.jpg",
-          "width": 1600,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

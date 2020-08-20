@@ -5,6 +5,9 @@ excerpt: "The TensorFlow project announced the release of version 2.3.0, featuri
 publishedDateTime: 2020-08-18T13:16:00Z
 webUrl: "https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: InfoQ

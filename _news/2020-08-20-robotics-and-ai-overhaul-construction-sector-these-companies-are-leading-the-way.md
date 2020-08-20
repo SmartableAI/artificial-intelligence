@@ -5,6 +5,9 @@ excerpt: "Robots are heading to the job site eventually, but first we'll see a p
 publishedDateTime: 2020-08-20T18:14:00Z
 webUrl: "https://www.zdnet.com/video/robotics-and-ai-overhaul-construction-sector-these-companies-are-leading-the-way/"
 type: article
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: ZDNet
@@ -17,6 +20,12 @@ provider:
 topics:
   - AI
 
-secured: "FBh8TrXO9AMvnbhy9BJ5jzEDRO1Cbjs7hR6R++SkxpTm9kQnsXeneCw4wZxMZAgNOMcZC/ftKQi0gGsZRylbAuCDxxbBQEOTSs9x1KkGK4XMlAalFC9Ze2NsoJUs1Ns6UNyywaxIJUHCfYiAlMnqI76CDuc9vv+LSyCdLiQS8obbDWrnNQlIvUj2UgDipGXeT437xYgZrR++u6EvNOJUOmADVJ+CKK/H5YJPwU3EyfofcgM3qbNZCh0BHtuEiMdcsPO4mwY6dcDUCLf7CpzP8HDZKuAHjKhCaRk1biLn9wHIexX8lMpdrKWbpQJGtYCjLn9fGLB1jXUNY9iMxQL7TJsYpsgQGDAfihFbmt5Ymz9b3V8SUG8aZm8vJOIyswMuODskyllW2ClkW8moVU1BFUW+TFpTsTKY9EDI06F28ChAHTNB337CEzPeEpPZTowKG0ziABhOTxdnyUQtwZ54ba4VRkBHXlNVFuNCDATEHCbUlP3/U716arZThYhzQBxlp1d1y+wZN1NXFnRX39TSTQ==;yjgdtafMexX1M4tomZc8Bw=="
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/08/18/e416e609-92bd-43b0-99d9-3833b58e509f/thumbnail/770x578/28855ed2f3a12f020de3c9e0aaed6b50/cyborg-construction-workers-and-the-ques-5f3a80c5836f8056920022a5-1-aug-18-2020-20-26-06-poster.jpg"
+    width: 770
+    height: 578
+    isCached: true
+
+secured: "sdu6vbvyT9lPezKGfM3NtTI1Z/Mez1Ox8cNo+tPHw2AeGSpaWHcRPrPyI3lUcVxYH52G7yPwu7DZeqrSDXfcEiRB2pdZBN5k0xPAxd4bQkbBLQ1MZ8EIZmJBZ/lhqKeu9pnLpiXPrJ33b77B4WK83XKtLK9oOXXWfPS3bB+lNzW7SxQUFDXFGo2ej0DFzHocdv23fHEwlVZzwNZJ0fkbBedYuHObdFjddCj9iPYX6J6oIX+vU+9/uMKd1hC0jktrhjvKYDJAgb+pXTzi4jOmRljCOAdKndDNPq8uy7ppfYwE/UJJqYr8vKb9gBEon8WD2TP7wMpaQWRAmMtr6GWS5w==;JuVafXOfiK4R5G9xxqZBvg=="
 ---
 

@@ -7,6 +7,9 @@ webUrl: "https://www.techrepublic.com/article/throwing-a-fastball-how-the-minnes
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/throwing-a-fastball-how-the-minnesota-twins-are-using-machine-learning-to-analyze-mounds-of-data/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/throwing-a-fastball-how-the-minnesota-twins-are-using-machine-learning-to-analyze-mounds-of-data/"
 type: article
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: TechRepublic
@@ -20,6 +23,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "MROsECABnLp0dXUOc/pmn83meTfLgc8GbnEwi3TQF0sQwCSZo3Y8we9kDW3WCq/Jkv0ywcWWXAncvb+0zNbhaL3mcFrDYqWt09iRHqbXAtBgQFBoSWxx25MjzheQGqzOkYRhLuouWjeLyQF2jPPwLtL8Id0ubaC6FwKJgkW2maHlIVBhVZ8jgprrDg9TGDHNRU6YGxOPeyO01qao5Q2y1sDgT9WCGiQz3h9UJABMiJr2/ja8GHVCqr7QysGzTgMiXn63lVVT7nCMTslCoRctHOHYHL7w3WVI6IRZlHRNa7fUNJ3Q7dbHvZwotO1QvhXX7gQ61KDz9iR/fCBy5RdPMa8iLu20qTqvmJpF5roGIVjQDkNrD3Hc8dZfEK7AB5ViDrSTvB2BdhwAOuvaSJfuFJMt74ImCZizTLsSFueFoqkbWG76qy62f69Iu3edjXI+j4VOj2McU3Wx0Dw1Ok+7g7IsIQvSeAScfot/1V0PBYfZobZ3bP3xN7YT9f9qyjT42V3+Exgd6pu/85lZktUfUA==;R25rWmSoC7qbb7dZB/BvxQ=="
+images:
+  - url: "https://tr4.cbsistatic.com/hub/i/r/2020/08/20/2f98c64a-7115-4526-9444-e6789caa8ec3/resize/1200x/4099a21013ed7a2f802d7238fdfcba2c/20200818-baseball-karen-2.jpg"
+    width: 1200
+    height: 674
+    isCached: true
+
+secured: "rFFFMBYAu+5femR9D89djO6l1lyeV9lfIWe4GMERhxceabyw/kLyaNJl68aud53aHw2t7848C8gzJ4MkRDI0ZULWmtNWwamPuetuoJK1wcK8XG7UOiM/3ncd9vebOmHDO1F6re+nk7GO+IkSLfenoYPIUqpmNVmcKWfYPEXNaIi6gOzW5jt2oesk1kF3EfrUpGgY6T+ZWM7xu4rul+CVhAk3ep2hfLMQEev5A7b1QmEywdEIthgfks4XOjnnxgrpBOs3DMqn6NJMF2JHJNi0OOE2Stiuoo6nrQAf3vlyTGRNE5iEKETW0iPX+11UfI5kYmWQkPwwjf3p8fTOFVcPFA==;FTbe8GC+5doRUHxwEJ0x6w=="
 ---
 

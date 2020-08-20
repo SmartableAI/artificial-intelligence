@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
 type: article
-quality: 84
-heat: 164
+quality: 86
+heat: 166
 published: true
 
 provider:

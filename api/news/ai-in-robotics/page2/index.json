@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-08-before-we-put-100-billion-into-ai.md",
+      "title": "Before we put $100 billion into AI",
+      "excerpt": "America is poised to invest billions of dollars in AI, but this funding could have bad effects if it's not tied to accountability for equal opportunity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/billions_of_dollars.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/amp/",
+      "publishedDateTime": "2020-08-08T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-3-daunting-ways-ai-will-transform-the-world-of-work.md",
       "title": "3 Daunting Ways AI Will Transform The World Of Work",
       "excerpt": "It shouldn’t be a surprise to anyone that artificial intelligence is going to change the jobs we will do in the future and redefine the role of humans in the workplace. Here we look at the three ways AI will change the world of work.",
@@ -1294,56 +1345,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-demand-for-autonomous-delivery-robots-rises-as-pandemic-continues.md",
-      "title": "Demand For Autonomous Delivery Robots Rises As Pandemic Continues",
-      "excerpt": "Answering the need for deliveries that minimize human contact, companies are stepping up R&D efforts in autonomous robot development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1f969d138498e307bb28ad%2F0x0.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/amp/",
-      "publishedDateTime": "2020-07-27T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

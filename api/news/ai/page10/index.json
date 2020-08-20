@@ -2,6 +2,104 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-08-10-the-changes-ai-will-bring.md",
+      "title": "The Changes AI Will Bring",
+      "excerpt": "More efficient criminal justice, ‘fancy’ digital assistants and a potential catastrophe in the stock market: Six experts weigh in on the biggest challenges—and opportunities—of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-changes-ai-will-bring-11597072070",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-217825/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/the-changes-ai-will-bring-11597072070",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-changes-ai-will-bring-11597072070",
+      "publishedDateTime": "2020-08-10T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-convegenius-acquires-gray-matters-to-boosts-ai-based-assessment-products.md",
+      "title": "ConveGenius Acquires Gray Matters To Boosts AI-Based Assessment Products",
+      "excerpt": "EdTech for Naya Bharat campaign that aims to empower 100 million students at the bottom of the education funnel",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/354504",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1597068275-DSC-02271.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/354504",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354504",
+      "publishedDateTime": "2020-08-10T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-artificial-intelligence-ai-market-industry-development-scenario-and-forecast-to-2025.md",
       "title": "Artificial Intelligence (AI) Market : Industry Development Scenario and Forecast to 2025",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Aug 10, 2020 (AmericaNewsHour) -- Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of ...",
@@ -1264,105 +1362,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-e-commerce.md",
-      "title": "Hypotenuse AI wants to take the strain out of copywriting for e-commerce",
-      "excerpt": "Imagine buying a dress online because a piece of code sold you on its ‘flattering, feminine flair’ — or convinced you ‘romantic floral details’ would outline your figure with ‘timeless style’. The very same day your friend buy the same dress from the same",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1158990325.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/amp/",
-      "publishedDateTime": "2020-08-07T18:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-nypd-besieges-a-protest-leader-as-he-broadcasts-live.md",
-      "title": "N.Y.P.D. Besieges a Protest Leader as He Broadcasts Live",
-      "excerpt": "A helicopter and dozens of officers, some in tactical gear, were deployed for an arrest at a Manhattan apartment but withdrew after protesters arrived.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/08/07/nyregion/nypd-derrick-ingram-protester.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/08/07/nyregion/07NYPROTEST/07NYPROTEST-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/08/07/nyregion/nypd-derrick-ingram-protester.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/07/nyregion/nypd-derrick-ingram-protester.amp.html",
-      "publishedDateTime": "2020-08-07T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

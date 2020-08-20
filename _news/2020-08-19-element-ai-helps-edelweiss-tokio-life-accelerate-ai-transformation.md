@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17149897"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17149897"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "AirAsia accelerates digital transformation with robotic process automation in partnership with JIFFY.ai"
-    excerpt: "PALO ALTO, Calif., /PRNewswire/ -- AirAsia Group is accelerating its ongoing digital transformation journey further by implementing robotic process automation (RPA) in collaboration with Silicon Valley and India-based enterprise automation platform JIFFY."
-    publishedDateTime: 2020-08-16T01:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffyai-2020-08-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "zrVKslpyC21Y5CPEnatjYh3j6crmEjLGe/5A4HECxHZf3upEf5BPXZ5jpTMp3xJv/4wecOETP2xDNVHkkt5Ofcxehl2u8r54cqU4wmIOJRMLMQTsCQWgdY/ZL6nGxqj5i1iDw/YP4xHIR9g2QQZMkIa/9eTe0wyExm+PyS26kbUyC+znDSs6qf/4co1mjbMfyOg4Zl5tByfBJMijLyl1WzxxZjjdCVRh+NJQIYGAclt45H1rc+2rq6pRxwYmN3w7d/qPD6JtMicv3oMag+xAWCJDoSciDuPrGRtPw4ae4Pl5PC7FdhvlSPL/CCcwqIrwMTEYHlOfGfKiCHBjU9kj30uzMD+Nra/PZT9R1T1StdrVN7M48hRucP2+Z+1Dh4mfq8pyBZzv666D9lGZtFzivIFO9ZQX5wPPs36N1+woq8B0vQL8htYmJSEFQnUcNOtRW1gqhZ+1o5ZnkwXc8wfewsua3DwciNfDt1j5IJ09ng9Ofj8L/WON6qoV/2/proQZ63atmpB+bc+PVJUm4aOIow==;sbkeo0qinXR5oK0AZE7rwQ=="
 ---

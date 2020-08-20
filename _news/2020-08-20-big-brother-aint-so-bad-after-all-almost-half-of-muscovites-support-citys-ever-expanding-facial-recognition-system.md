@@ -7,6 +7,9 @@ webUrl: "https://www.rt.com/russia/498569-47-percent-muskovites-support-cameras/
 ampWebUrl: "https://www.rt.com/russia/498569-47-percent-muskovites-support-cameras/amp/"
 cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/russia/498569-47-percent-muskovites-support-cameras/amp/"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: RT

@@ -2,6 +2,138 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-08-04-inspur-nf5488a5-breaks-ai-server-performance-record-in-latest-mlperf-benchmarks.md",
+      "title": "Inspur NF5488A5 Breaks AI Server Performance Record in Latest MLPerf Benchmarks",
+      "excerpt": "and intelligent language processing. About Inspur Inspur Electronic Information Industry Co., LTD is a leading provider of data center infrastructure, cloud computing, and AI solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200804005429/en/Inspur-NF5488A5-Breaks-AI-Server-Performance-Record",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200804005429/en/810139/23/inspur_logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-lt-technology-services-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions.md",
+      "title": "L&T Technology Services expands collaboration with Microsoft to offer workplace transformation solutions",
+      "excerpt": "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimise business metrics leveraging advanced IoT based Edge Analytics and machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/lt-technology-services-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/2044273/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2020/08/LT-Technology-Services.jpg",
+          "width": 660,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/lt-technology-services-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/2044273/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/lt-technology-services-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/2044273/lite/",
+      "publishedDateTime": "2020-08-04T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online.md",
+      "title": "Why we need more image masking tools to avoid facial recognition systems from identifying us online",
+      "excerpt": "For the past couple of weeks, a new tool to save your photos from facial recognition algorithms has been doing rounds. The tool, called Fawkes, is developed by researchers at the University of ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/amp/",
+      "publishedDateTime": "2020-08-04T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-for-robots-its-a-time-to-shine-and-maybe-disinfect.md",
       "title": "For Robots, It’s a Time to Shine (and Maybe Disinfect)",
       "excerpt": "The pandemic has turned cleaning and other mundane building tasks into a challenge, stoking interest in machines as cost-effective solutions.",
@@ -1169,137 +1301,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-this-ai-powered-choose-your-own-adventure-text-game-is-super-fun-and-makes-no-sense.md",
-      "title": "This AI-Powered Choose-Your-Own-Adventure Text Game Is Super Fun and Makes No Sense",
-      "excerpt": "AI Dungeon debuted as a free text adventure game. Now the game’s AI system has been upgraded to GPT-3, or Generative Pre-trained Transformer, which has a language model that uses deep learning to produce human-like text.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-ai-powered-choose-your-own-adventure-text-game-is-1844593111",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bh9ni0rqlv4zfseavxe4.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-ai-powered-choose-your-own-adventure-text-game-is-1844593111/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-ai-powered-choose-your-own-adventure-text-game-is-1844593111/amp",
-      "publishedDateTime": "2020-08-03T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-rite-aid-facial-recognition-security-was-uncovered-are-you-prepared.md",
-      "title": "Rite Aid Facial Recognition Security Was Uncovered, Are You Prepared?",
-      "excerpt": "This Reuters article delivers an in-depth review of how Rite Aid used facial recognition to detect repeat offenders, and probably",
-      "sourceUrl": null,
-      "webUrl": "https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.paymentsjournal.com/wp-content/uploads/2018/06/flat-3252983_1280.png",
-          "width": 1280,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/amp/",
-      "cdnAmpWebUrl": "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/amp/",
-      "publishedDateTime": "2020-08-03T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PaymentsJournal",
-        "domain": "paymentsjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-top-5-robotics-and-artificial-intelligence-stocks-to-buy-according-to-hedge-funds.md",
-      "title": "Top 5 Robotics and Artificial Intelligence Stocks To Buy According to Hedge Funds",
-      "excerpt": "What are the best robotics and artificial intelligence stocks to buy today? In this time of uncertainty characterized by volatile market movements,",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/top-5-robotics-and-artificial-intelligence-stocks-to-buy-according-to-hedge-funds-868578/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/08/14050949/robot-1635794_1920.jpg",
-          "width": 1920,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

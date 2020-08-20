@@ -2,6 +2,56 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-08-kai-fu-lee-gives-ai-a-b-minus-grade-in-the-covid-19-fight.md",
+      "title": "Kai-Fu Lee Gives AI a B-Minus Grade in the Covid-19 Fight",
+      "excerpt": "Robots and computer programs can help with social distancing and food delivery, but have been less helpful in developing a vaccine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5efe3bf5f435e6f478b28aac/master/pass/business_kai-fu_1052208482.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Kai-Fu Lee Gives AI a B-Minus Grade in the Covid-19 Fight",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/amp",
+      "publishedDateTime": "2020-07-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-robots-drones-and-surveillance-apps-the-unexpected-future-of-medicine.md",
       "title": "Robots, drones and surveillance apps: The unexpected future of medicine",
       "excerpt": "Healthcare has traditionally been cautious about new technologies. But a new wave of innovation is likely to change all of that.",
@@ -1306,47 +1356,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-meet-the-college-dropout-who-just-raised-nearly-13-million-to-create-smart-robots.md",
-      "title": "Meet The College Dropout Who Just Raised Nearly $13 Million To Create Smart Robots",
-      "excerpt": "Robotics company Elementary Robotics, started in 2017 by Under 30 honoree Arye Barnehama, today announced a $12.7 million Series A round led by Threshold Ventures (formerly DFJ), with participation from existing investors Fika Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/06/30/meet-the-college-dropout-who-just-raised-nearly-13-million-to-create-smart-robots/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/06/30/meet-the-college-dropout-who-just-raised-nearly-13-million-to-create-smart-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2020/06/30/meet-the-college-dropout-who-just-raised-nearly-13-million-to-create-smart-robots/amp/",
-      "publishedDateTime": "2020-06-30T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -7,6 +7,9 @@ webUrl: "https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot"
 ampWebUrl: "https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot?amp=true"
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot?amp=true"
 type: article
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: PC Magazine

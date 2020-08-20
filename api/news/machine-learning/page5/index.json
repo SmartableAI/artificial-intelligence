@@ -2,6 +2,88 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-16-altair-releases-new-version-of-altair-knowledge-studio-market-leading-machine-learning-and-predictive-analytics-solution.md",
+      "title": "Altair Releases New Version of Altair® Knowledge Studio® Market-leading Machine Learning and Predictive Analytics Solution",
+      "excerpt": "Altair Knowledge Studio’s AutoML wizard automatically selects the top variables, which is useful when there are hundreds of variables. Alternatively, the user can select the number manually and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/altair-releases-new-version-of-altairr-knowledge-studior-market-leading-machine",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-16T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-why-supervised-learning-is-more-common-than-reinforcement-learning.md",
+      "title": "Why supervised learning is more common than reinforcement learning",
+      "excerpt": "Unlike supervised learning, reinforcement learning algorithms must observe, and that can take time, said UC Berkeley professor Ion Stoica at Transform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/why-supervised-learning-is-more-common-than-reinforcement-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ion-stoica.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/why-supervised-learning-is-more-common-than-reinforcement-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/why-supervised-learning-is-more-common-than-reinforcement-learning/amp/",
+      "publishedDateTime": "2020-07-15T16:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-the-right-data-transforms-panel-of-experts-weigh-in.md",
       "title": "The right data: Transform’s panel of experts weigh in",
       "excerpt": "Data is the bedrock of AI and machine learning -- at Transform 2020 we queried some leading data experts about the trends they're seeing.",
@@ -1306,88 +1388,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-school-debate-president-trump-pushes-for-in-person-learning-to-resume.md",
-      "title": "School debate: President Trump pushes for in-person learning to resume",
-      "excerpt": "Breaking tonight, how to get students back to school safely amid the coronavirus pandemic? The president and first lady participating in what was billed as a national dialogue on the subject earlier today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1e786f4-809a-4cdd-9722-7073e51af51b/bf181f1d-83c9-4e48-9f79-10247b07dd6a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "School debate: President Trump pushes for in-person learning to resume",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume.amp",
-      "publishedDateTime": "2020-07-08T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-imec-and-globalfoundries-announce-breakthrough-in-ai-chip-bringing-deep-neural-network-calculations-to-iot-edge-devices.md",
-      "title": "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip, Bringing Deep Neural Network Calculations to IoT Edge Devices",
-      "excerpt": "Imec and GLOBALFOUNDRIES® (GF®) today announced a hardware demonstration of a new artificial intelligence chip - GLOBALFOUNDRIES.com / imec-int.com.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/173239/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

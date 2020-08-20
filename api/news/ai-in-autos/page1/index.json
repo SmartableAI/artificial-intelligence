@@ -9,7 +9,7 @@
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 164,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -48,7 +48,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -398,20 +399,20 @@
       "title": "With self-driving tech was new, a road trip paved the way",
       "excerpt": "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan.",
       "sourceUrl": null,
-      "webUrl": "https://www.thenewstribune.com/entertainment/celebrities/article244877067.html",
+      "webUrl": "https://www.miamiherald.com/entertainment/celebrities/article244877067.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.thenewstribune.com/entertainment/celebrities/article244877067.html",
-      "cdnAmpWebUrl": "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/entertainment/celebrities/article244877067.html",
+      "ampWebUrl": "https://amp.miamiherald.com/entertainment/celebrities/article244877067.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/entertainment/celebrities/article244877067.html",
       "publishedDateTime": "2020-08-15T00:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "News Tribune",
-        "domain": "thenewstribune.com",
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
         "images": null,
         "publishers": null,
         "authors": null

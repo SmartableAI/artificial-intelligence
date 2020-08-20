@@ -200,22 +200,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Kamala Harris’ speech at the DNC: Full transcript and video"
-    excerpt: "We are a nation that’s grieving. Grieving the loss of life, the loss of jobs, the loss of opportunities, the loss of normalcy.’"
-    publishedDateTime: 2020-08-20T11:39:00Z
-    webUrl: "https://www.mercurynews.com/2020/08/20/kamala-harris-speech-at-the-dnc-full-transcript-and-video/"
-    ampWebUrl: "https://www.mercurynews.com/2020/08/20/kamala-harris-speech-at-the-dnc-full-transcript-and-video/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/08/20/kamala-harris-speech-at-the-dnc-full-transcript-and-video/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 44
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/hypatia-h_89b571ab504f65035807fe170a349a1f-h_e4f033ad8426720a786fb13604b202ef.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Michelle Obama’s full speech to the Democratic National Convention, annotated"
     excerpt: "Former first lady Michelle Obama's speech took on Trump and Trumpism more directly than she did in her well-received 2016 DNC speech."
     publishedDateTime: 2020-08-18T04:28:00Z

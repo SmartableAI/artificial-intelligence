@@ -5,6 +5,9 @@ excerpt: "For some organizations, AI tools may have been perceived as “nice-to
 publishedDateTime: 2020-08-20T19:18:43Z
 webUrl: "https://www.ibm.com/blogs/watson/2020/08/ai-is-already-building-a-more-resilient-post-pandemic-world/"
 type: article
+quality: 102
+heat: 102
+published: true
 
 provider:
   name: IBM

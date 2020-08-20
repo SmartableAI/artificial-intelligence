@@ -5,6 +5,9 @@ excerpt: "During the Fireside Chat both experts will discuss the exciting benefi
 publishedDateTime: 2020-08-17T18:03:00Z
 webUrl: "https://apnews.com/1782e6a777a9fe417da1dfcfdfe4be09"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Associated Press

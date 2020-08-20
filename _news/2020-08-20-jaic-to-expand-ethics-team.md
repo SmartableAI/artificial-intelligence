@@ -5,6 +5,9 @@ excerpt: "Jane Pinelis, theJoint Artificial Intelligence Center's chief of testi
 publishedDateTime: 2020-08-20T13:14:00Z
 webUrl: "https://gcn.com/articles/2020/08/19/williams-jaic-ethics-tts.aspx?admgarea=TC_EmergingTech"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: GCN
@@ -14,6 +17,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "+HufUn/H42Ci02yekD9RjF2XREx31jdvdg5v7hO1kVEO+KFTRhwQucojkRg1fy932pNHBgwXWP2xZ85tdBaJC/4ZXX3zS3lpp2ZbYCgnYc2sww5pH+LbJasKQwrOrsOwaGNNOF3d4Sw9ojb2ewMwF1EPm86lW5ca8jxBstnb1ibcUiSPkCXlTZI//0sk32/V1Hj3rzWQs61y3IVJAOe81rPtQ/phwF/Q1w0FCfyCHESHiqD8L8fVzdLaktw3BI/kENpb1fMQImpQ2XeMEGvll6owsKRAp7GouO0sQ4QehanTnkyDcrJWbNWE7OyuciNOn03JGvgJYCCLi1cTvS6lwkVUm8yIbu1V/6uHj1mqnmMg73HnuZq/jFtZZlgp/N4WLyoox4Lbx29OjTe09VeCvM3tB37mjy6+EJ5ojYaV6ZhLkppDmzUySh0xjE5iGkvN1BUDilNbrNmHPjf6a716QvtJOtOVi/mkLuwMtK5CfhZGwPkmqwq1Htojguq+vcDQDLNPGf+Vc8vtxrW39vrmOg==;Gr4W8j/gn8Sl9m8gVjijAQ=="
+images:
+  - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/aigovernment.png"
+    width: 760
+    height: 368
+    isCached: true
+
+secured: "uI2G/AdjnQxfUKFWFAt9CeEt3/7q7Ou0/B/UNBL/qaXMLeL/MZBQSZczEXcK3nXTneuYz1mm7SVF2o9j688ajvT5qZCNDQMMGsWaCWjk58gYiefuPG62V2UrL8tSlkvKzm2viBTNbIbo6FkeEDV6rsPby0RT9NBrPKgH1hWNWYQXpnLx1aov5mQcD9MOcK2a6rnOhmR5DGaMkOwjY82nUOqO3RiXvwJFs+4nwl8KDqkKTGnRrQWCcfN7AG6H6IgXxeN0eIlQ4ln2Gk7rzUNrJnQM8A2DRyca5Aa4AiltmD8Z26vhuOvcjDjes3qirI97XmMDpxLzsDDOPyZo/IGd7w==;KC1/ZC7pm6egIDg0ejrlvA=="
 ---
 

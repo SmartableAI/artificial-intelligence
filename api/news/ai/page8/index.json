@@ -2,6 +2,107 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-08-12-lantronix-open-q-610-som-to-bring-advanced-ai-and-machine-learning-capabilities-to-smart-cameras.md",
+      "title": "Lantronix Open-Q 610 μSOM to Bring Advanced AI and Machine Learning Capabilities to Smart Cameras",
+      "excerpt": "(NASDAQ: LTRX), a global provider of intelligent edge and secure data management solutions for the Industrial Internet of Things (IoT), today announced its new Lantronix Open-Q(TM) 610 μSOM. Scheduled for delivery later this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/lantronix-open-q-610-som-to-bring-advanced-ai-and-machine-learning-capabilities-to-smart-cameras-2020-08-12-71841522",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-police-facial-recognition-use-unlawfuluk-court-of-appeal-makes-landmark-ruling.md",
+      "title": "Police Facial Recognition Use Unlawful—U.K. Court Of Appeal Makes Landmark Ruling",
+      "excerpt": "Privacy rights and data protection breaches cited alongside an inability to verify no bias on the grounds of race or sex, as the U.K. Court of Appeal rules law enforcement facial recognition usage unlawful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/daveywinder/2020/08/12/police-facial-recognition-use-unlawful-uk-court-of-appeal-makes-landmark-ruling/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33c790032d66b3ff669e61%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/daveywinder/2020/08/12/police-facial-recognition-use-unlawful-uk-court-of-appeal-makes-landmark-ruling/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daveywinder/2020/08/12/police-facial-recognition-use-unlawful-uk-court-of-appeal-makes-landmark-ruling/amp/",
+      "publishedDateTime": "2020-08-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-ai-based-approach-to-make-the-supply-chain-more-sustainable.md",
       "title": "AI-Based Approach To Make the Supply Chain More Sustainable",
       "excerpt": "It has become imperative to leverage the wonders of AI to make the supply-chains immersive, improved and hassle-free",
@@ -1318,96 +1419,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-peer-reviewed-research-shows-babylons-latest-artificial-intelligence-could-help-doctors-improve-diagnosis-particularly-for-complex-cases.md",
-      "title": "Peer-reviewed research shows Babylon's latest Artificial Intelligence could help doctors improve diagnosis, particularly for complex cases",
-      "excerpt": "This is the first known time that AI has used causation instead of correlations to support doctors with diagnosis in simulated cases.In a peer-reviewed study tasked with diagnosing written test cases it scored higher than 72% (32 of 44) of General Practitioner (GP) doctorsEach GP assessed an average of 159 cases and achieved a mean score of 71.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/peer-reviewed-research-shows-babylons-latest-artificial-intelligence-could-help-doctors-improve-diagnosis-particularly-for/article_5f8fa2d3-727e-575b-bfbe-93ab1b4a2428.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-artificial-intelligence-these-criminal-applications-of-ai-are-a-big-threat.md",
-      "title": "Artificial intelligence: These criminal applications of AI are a big threat",
-      "excerpt": "A new report tells us which criminal applications of AI we should really worry about. Share. Contact. Read full article: Evil AI: These are the 20 most dangerous crimes that artif",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/artificial-intelligence-these-criminal-applications-of-ai-are-a-big-threat/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/08/11/9ce4b925-7033-4a63-aa84-22894e173fe1/thumbnail/770x578/0a6b92c34dfc126b0f0a0859b61af053/artificial-intelligence-these-criminal-a-5f2bce12717231042a0ac533-1-aug-11-2020-11-05-55-poster.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

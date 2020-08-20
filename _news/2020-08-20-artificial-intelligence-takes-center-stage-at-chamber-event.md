@@ -5,6 +5,9 @@ excerpt: "The Greater Summerville Chamber of Commerce along with Dorchester Econ
 publishedDateTime: 2020-08-20T13:23:00Z
 webUrl: "https://www.postandcourier.com/journal-scene/news/artificial-intelligence-takes-center-stage-at-chamber-event/article_5907bcbc-e2e8-11ea-a0d3-f3f6ce2e639f.html"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Post and Courier Charleston

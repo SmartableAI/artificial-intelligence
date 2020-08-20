@@ -7,6 +7,9 @@ webUrl: "https://www.forbes.com/sites/davidteich/2020/08/20/technology-comes-tog
 ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/08/20/technology-comes-together-artificial-intelligence-augmented-reality-and-5g-combine-to-aid-surgeons/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/08/20/technology-comes-together-artificial-intelligence-augmented-reality-and-5g-combine-to-aid-surgeons/amp/"
 type: article
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -19,6 +22,12 @@ provider:
 topics:
   - AI
 
-secured: "wTAa9NuBqhqrp9PqvHbFbQzjVpRuwUWFvO7iwcStf8/OhAdYwMM0IMiZEOJd8NN8Z4UTw37+MJZ1D37l9sE4U4bjMkNVLJ6noq5gU7SzCgwq5R3eQrhJvXtdxYkMM0uchhSQRAkCD7yme0WaaG9AZvZCzVvXWg8I9oY1ffc9hxkr0YIiK8bEh+4UJWIVQKMZ81R9bSBVDGiwjFc4Gr+/0DPSUwNdSE6HD/nv5Xkj0qNf5hI8ThJHOpgpsz4z1vCS8S3EEqyT1YrFlYeJFYykPFn/ZTOrN2D2KVScP4XtkrCgcUWvYCRAtfejZfPpnhBLQ9L41AxiQLJhgPZpze+v+DhLSgi9QUMHW+g70E7E3jXSorKAanvUzAMCFNPE4fHcfcAnPh6/7dnM8MIaeyYn1w+LJUv/r/ajng/gWABGtOUksHz7mZKTkSpjwXVsrpjJ6uh9IHpSpxutmFxmCjoOep3SVcuPXsI55HkO1jmLBKLq3NvxLilP7bnxEFGXYyvm8g/mRCZX7qYOA7UbW7ecsQ==;QaWMRxLakj52jm0UwNja/A=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
+    width: 876
+    height: 548
+    isCached: true
+
+secured: "A72ForIS6SzH9kP5r6K8WOyH5PbbnBkk95RQq2OYZklttGf+GwRYJXjAJN+sjAk9db8vogql7tP6iWWAC639WIfAZ0s/vn2MF3Ol6iei1Za2RJBfH+9adrW0S9aaD2Yvugi/2SAiBsewqAQIhUXyKXYQulRbTeAspc+4r6p8N8yqxc5EY+mCDoYN9wVo2lvhYaS0wt1JdlQC2Ma9AgFDjKlzVz6IZ1GwTbMS+8u7q+RKmLfcaEwm+MTHObjuWZyiazcwIqUeVRnEKvCTyuoAJiEu1EGLY9n6bhgFydVy1k1khWTD/oKVaroTQ2LLKyjkvpJVNJt3wvFDC92My8ctgQ==;ncZ/U6jkBDEApgQKGOm6Ww=="
 ---
 

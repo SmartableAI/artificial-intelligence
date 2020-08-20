@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.ibm.com/blogs/watson/2020/08/ai-is-already-building-a-more-resilient-post-pandemic-world/</loc>
+    <lastmod>2020-08-20T12:18:43-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/davidteich/2020/08/20/technology-comes-together-artificial-intelligence-augmented-reality-and-5g-combine-to-aid-surgeons/</loc>
+    <lastmod>2020-08-20T11:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/08/20/microsofts-seeing-ai-founder-saqib-shaikh-is-speaking-at-sight-tech-global/</loc>
+    <lastmod>2020-08-20T11:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/throwing-a-fastball-how-the-minnesota-twins-are-using-machine-learning-to-analyze-mounds-of-data/</loc>
+    <lastmod>2020-08-20T11:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/</loc>
     <lastmod>2020-08-20T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -123,12 +147,6 @@
   <url>
     <loc>https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/</loc>
     <lastmod>2020-08-19T22:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.vox.com/policy-and-politics/2020/8/19/21376798/read-kamala-harris-acceptance-speech-vice-president-nomination-democratic-national-convention</loc>
-    <lastmod>2020-08-19T20:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -283,8 +301,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot</loc>
-    <lastmod>2020-08-19T05:00:00-07:00</lastmod>
+    <loc>https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot</loc>
+    <lastmod>2020-08-19T05:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -703,7 +721,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.thenewstribune.com/entertainment/celebrities/article244877067.html</loc>
+    <loc>https://www.miamiherald.com/entertainment/celebrities/article244877067.html</loc>
     <lastmod>2020-08-15T00:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1976,6 +1994,12 @@
   </url>
   <url>
     <loc>https://www.techrepublic.com/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/</loc>
+    <lastmod>2020-08-06T12:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.sciencedaily.com/releases/2020/08/200806122637.htm</loc>
     <lastmod>2020-08-06T12:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
