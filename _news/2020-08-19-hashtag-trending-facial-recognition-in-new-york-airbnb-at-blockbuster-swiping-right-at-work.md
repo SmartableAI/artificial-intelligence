@@ -40,21 +40,21 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "Gujarat Police Tests Facial Recognition System To Track Missing Offenders"
-    excerpt: "Gujarat Police has successfully tested a facial recognition system (FRS) based on artificial intelligence in Vadodara city to strengthen its law enforcement system and curb crime."
-    publishedDateTime: 2020-08-15T13:17:00Z
-    webUrl: "https://www.ndtv.com/india-news/gujarat-police-tests-artificial-intelligence-based-facial-recognition-system-to-track-missing-offenders-2280011"
-    ampWebUrl: "https://www.ndtv.com/india-news/gujarat-police-tests-artificial-intelligence-based-facial-recognition-system-to-track-missing-offenders-2280011?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/gujarat-police-tests-artificial-intelligence-based-facial-recognition-system-to-track-missing-offenders-2280011?amp=1&akamai-rum=off"
+  - title: "Miami Police Used Facial Recognition Technology in Protester's Arrest"
+    excerpt: "NBC 6 Investigators found a facial recognition program was used to identify a woman accused of throwing rocks at Miami Police officers during a protest on May 30."
+    publishedDateTime: 2020-08-17T22:15:00Z
+    webUrl: "https://www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/"
+    ampWebUrl: "https://www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/?amp"
+    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/?amp"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 58
+      name: NBC 6 South Florida
+      domain: nbcmiami.com
+    quality: 59
     images:
-      - url: "https://c.ndtvimg.com/2019-05/ituc17b_cctv-generic_625x300_29_May_19.jpg"
-        width: 650
-        height: 400
+      - url: "https://media.nbcmiami.com/2020/08/CLEARVIEW-UPDATE-PHOTO.png?fit=1200%2C662"
+        width: 1200
+        height: 662
         isCached: true
   - title: "Facebook’s Instagram accused of illegal facial recognition scans of millions of users"
     excerpt: "Facebook allegedly used facial recognition technology without Instagram users' consent, opening the company up to a lawsuit worth half a trillion dollars."
@@ -71,6 +71,36 @@ related:
       - url: "https://www.komando.com/wp-content/uploads/2020/08/kk-article-20200816-instagram-harvested-users-biometric-data-lawsuit-1200x675-1.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "De Blasio Will Reassess NYPD's Use Of Facial Recognition Tech After Protester Arrest"
+    excerpt: "Currently, the department’s Patrol Guide allows police to run facial recognition searches on anyone suspected of a crime or anyone who may have witnessed a crime."
+    publishedDateTime: 2020-08-17T18:08:00Z
+    webUrl: "https://gothamist.com/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
+    ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
+    cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
+    type: article
+    provider:
+      name: Gothamist
+      domain: gothamist.com
+    quality: 52
+    images:
+      - url: "https://cms.prod.nypr.digital/images/310236/original"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Study Finds Face Coverings Reduce Accuracy of Facial Recognition Technology"
+    excerpt: "Even the best of the 89 commercial facial recognition algorithms tested had error rates between 5% and 50% in matching digitally applied face masks with photos of the same person without a mask, according to NIST."
+    publishedDateTime: 2020-08-19T09:43:00Z
+    webUrl: "https://www.campussafetymagazine.com/public/study-finds-face-coverings-reduce-accuracy-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 37
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/08/AdobeStock_334270594-scaled.jpeg"
+        width: 2560
+        height: 1709
         isCached: true
 
 secured: "5NkrKiaNt+43GgIODzlREJHQZ4fkk+51M09G56VXwtg6+gsWVakjQG4oABf53AIAp6ortoC5V58QH2MI96/t6tCbWcXGIqNlhqdyAWXHTTA+2XVYyA5DqycZOiVJyr9wnsQ9diQMyqMfhwP5ketut0YYhMwX+7MVlgZJoChEeiyefoF/09Y+pnZ1BJW1gWR+uh4F/H1lzb93Uvv20EsHz0VaZdJkJVItoyl3E07vxyxbp4+XcCsz8xQp5tR2p8tm9D9e8W1n4CAf6EHIvV9SomNBs+y7zSw648RxVDpnrSVL7PWwe6ZJpXMZhqsUw+KPHkqc8IL3rFLKWwjeY18KmQ==;PXlLc4UwjUAWoKUhIbrK5Q=="

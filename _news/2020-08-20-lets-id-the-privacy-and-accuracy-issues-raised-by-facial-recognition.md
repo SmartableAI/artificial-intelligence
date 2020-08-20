@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-20T05:11:00Z
 webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     height: 674
     isCached: true
 
-secured: "9eviuXh5OuHHlbvn01Pehl9J+q6u0+7OPpwBL4tvPu5qPylZZTayGXyBDPBlFWdHsKHLWQvY+aK/BAaiuWD8iHC1FXjbimITTCni0pcX83++7V6r2YEV5fViULKxUgrzgscStUYgj2b55Sc1nX/BBb0b/B/6mkoWrfrCgg5P4FaBYKP4R6rf9PHk77XXLWsY0mdXlpIZ7eyD1bNbMr2YuZC6gAbCymHFZtD3yKN6oSUpKoimoBVp3NwGQeMvh6lC9sH32JdkndHHubSXUaDuN5MNlnoWKeT4azO6WAwH8ti7uj0Q5a0jDe2t7LmPuqjDlfRcWjdYGGvZa5Vf/4Cw+Q==;atcghGCzCL3NRHMzDq402A=="
+related:
+  - title: "New report points to privacy, accuracy concerns with facial recognition technology"
+    excerpt: "WASHINGTON, D.C. — More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19. “The market is definitely growing,” said Alicia Puente Cackley, Director in the ..."
+    publishedDateTime: 2020-08-18T20:21:00Z
+    webUrl: "https://www.wpxi.com/news/washington-news-bureau/new-report-points-privacy-accuracy-concerns-with-facial-recognition-technology/QEWNWCGJAZD5ZJJU3UGHFFOUJM/"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 33
+    images:
+      - url: "https://www.wpxi.com/resizer/-nittaDLfS5Blfji2XXyH8wFsH4=/1200x628/d1hfln2sfez66z.cloudfront.net/08-18-2020/t_e409325f18a2475aaa8ef89c032632a0_name_https___www_whio_com__rw_Pub_p5_News965_2014_06_18_Images_photos_medleyphoto_5395453.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+
+secured: "otmof3gCj0Gast9wnHbT4jv/IFwKanx03Tr4N0mBMNosqRCx6EdZffMsC2NqPW8VnBqLHCJC+ROs9nUc7N6WprYKiD05QNIILpyQ9IdU/+RPwB8Gt6ogqzOf5thvesLiMLpC4+C1Mh3EAG9WRR9vvdW6NTY1c7K71Kw3B47T/10f84zHtc7RwZHb3yqiU5kW3lKYDPDKI5S+835xISoUoXJUV+6pPInItMzSkuFX9eaDx1GyrgyH8u6AWqA5ZxIDHOW1hEf4zbk9sZ0Zajr+8+ZSTXuHEgyKL16rzsJE4SZ0+LEA/FeZ9px8+nNDC6MPN+ZRMvWCzVsytVKlTY/63dr0wCQL1VUF+BiM0de0668O29cpqPfVMtDJKHEiHqO879DnLl35hWb8qw9Cp+dvwc3FCdg6lzJrKT5LWzCF3jXGNrqucNb8eAOvS8AwbdHDvpq5dq3Q+dYqvRQmNWSbLTsyQqouRwBgMrnXIA+2v3xuAz+5btXK6eVSCRH1SRjAjhGIyU1SWUySwl9wQJWqaw==;aGL+BI1qFB3U8r+v8BQ8qg=="
 ---
 

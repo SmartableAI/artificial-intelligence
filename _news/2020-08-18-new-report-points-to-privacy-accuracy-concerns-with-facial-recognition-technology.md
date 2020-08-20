@@ -24,111 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Black Lives Matter Activist Hunted by NYPD Facial Recognition Technology"
-    excerpt: "\"We're being specifically targeted with this technology because of what we're protesting,\" Derrick Ingram said."
-    publishedDateTime: 2020-08-15T14:57:00Z
-    webUrl: "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335"
-    ampWebUrl: "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1"
+  - title: "Let's ID the Privacy and Accuracy Issues Raised by Facial Recognition"
+    excerpt: "PRO's Rob Thompkins covers privacy issues around facial recognition technologies The tremendous benefits of facial recognition technology for law enforcement identification applications have brought with them unparalleled challenges."
+    publishedDateTime: 2020-08-20T05:11:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 88
+      name: Officer
+      domain: officer.com
+    quality: 54
     images:
-      - url: "https://d.newsweek.com/en/full/1622897/derrick-ingram.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Cops in Miami, NYC arrest protesters from facial recognition matches"
-    excerpt: "Law enforcement in several cities, including New York and Miami, have reportedly been using controversial facial recognition software to track down and arrest individuals who allegedly participated in criminal activity during Black Lives Matter protests months after the fact."
-    publishedDateTime: 2020-08-19T20:45:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/08/cops-in-miami-nyc-arrest-protesters-from-facial-recognition-matches/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-1238438366-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Miami Police Used Facial Recognition Technology in Protester's Arrest"
-    excerpt: "NBC 6 Investigators found a facial recognition program was used to identify a woman accused of throwing rocks at Miami Police officers during a protest on May 30."
-    publishedDateTime: 2020-08-17T22:15:00Z
-    webUrl: "https://www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/"
-    ampWebUrl: "https://www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/?amp"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/?amp"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 59
-    images:
-      - url: "https://media.nbcmiami.com/2020/08/CLEARVIEW-UPDATE-PHOTO.png?fit=1200%2C662"
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2020/07/16x9/GettyImages_1139860049_copy.5f1f2e6319195.png?auto=format&fit=max&w=1200"
         width: 1200
-        height: 662
-        isCached: true
-  - title: "De Blasio calls for ‘clear standards’ for facial recognition tech for NYPD"
-    excerpt: "Mayor Bill de Blasio called for “clear standards” for the NYPD when using facial recognition tech after officers were spotted using information from the department’s unit when"
-    publishedDateTime: 2020-08-17T08:14:00Z
-    webUrl: "https://nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/"
-    ampWebUrl: "https://nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/08/081120_Bill_de_Blasio_8A.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "De Blasio Will Reassess NYPD's Use Of Facial Recognition Tech After Protester Arrest"
-    excerpt: "Currently, the department’s Patrol Guide allows police to run facial recognition searches on anyone suspected of a crime or anyone who may have witnessed a crime."
-    publishedDateTime: 2020-08-17T18:08:00Z
-    webUrl: "https://gothamist.com/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
-    ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
-    cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
-    quality: 52
-    images:
-      - url: "https://cms.prod.nypr.digital/images/310236/original"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Convenience store boosts security with facial recognition technology"
-    excerpt: "For a start, the 24-hour convenience store has installed facial recognition technology on closed-circuit TV cameras at 100 of its 458 branches throughout the country, with an allocation of RM800,000."
-    publishedDateTime: 2020-08-18T00:46:00Z
-    webUrl: "https://www.thestar.com.my/metro/metro-news/2020/08/18/convenience-store-boosts-security-with-facial-recognition-technology"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/08/18/823669.jpg"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "Study Finds Face Coverings Reduce Accuracy of Facial Recognition Technology"
-    excerpt: "Even the best of the 89 commercial facial recognition algorithms tested had error rates between 5% and 50% in matching digitally applied face masks with photos of the same person without a mask, according to NIST."
-    publishedDateTime: 2020-08-19T09:43:00Z
-    webUrl: "https://www.campussafetymagazine.com/public/study-finds-face-coverings-reduce-accuracy-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 37
-    images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/08/AdobeStock_334270594-scaled.jpeg"
-        width: 2560
-        height: 1709
+        height: 674
         isCached: true
 
 secured: "AGBX7IXvFTTQN4XHwRgYCb0y9xkObKrhSwqcSJAoCYo+g6mkpKIF9jnNQaZhtED7z+tVbqL0XmHCvWp8dyD1sk6zrnTsPtM3wkVsl3gdknn/ZNIVOI5samHkw7VbSO0wn/UchyrWMHmtLIoWYcvW4SkJpFt6GUmrorqWDpCChzvwB1GmTSX8PdDWpCzqiZn1IWVPIiJLJ4dZfotkJmzF1GYvvDt6n9nE6O2GzcB5kPxwxpEJWAXAVgtutBzIWbnBmCTWRlVfyARjBsfRONXJwRzGJzE/p+Mp1WvCjyEcZaJqvnqSy3YoIhci8M5Tpn6sN7WMWZ1Q1J8XyUq5sVW/FHk5fPqQAuEnOPkKCaCrL1nfmXrRajF78fQQWNeoOoZzHd2tzIop+oc1tP0svHOlKuHzZaleJihvrnD3BOg7yyZjvhCbije6ald3WzJnQgJXWeKNKh1NB3iFFjiCvlFc6r8utT8Dxx+W3fNSHyX9AFimielL3n0ePz8IPyOLssyIe0xTyFOP7nlID40E+TJs7A==;Dzgcek1YZxiuhZaKjcCgLw=="

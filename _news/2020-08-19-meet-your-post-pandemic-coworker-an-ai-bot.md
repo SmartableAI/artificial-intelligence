@@ -2,13 +2,13 @@
 category: news
 title: "Meet Your Post-Pandemic Coworker: An AI Bot"
 excerpt: "Ready to swap your old cube-mate for a disembodied AI? IPsoft CEO Chetan Dube, creator of AI co-worker AMELIA, gives his take on the post-COVID office landscape."
-publishedDateTime: 2020-08-19T12:14:00Z
-webUrl: "https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot"
-ampWebUrl: "https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot?amp=true"
-cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot?amp=true"
+publishedDateTime: 2020-08-19T12:00:00Z
+webUrl: "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot"
+ampWebUrl: "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1"
+cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -20,14 +20,15 @@ provider:
       height: 50
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/0135CL3x7Ndpnrl5Ngopfgj-3.1597702316.fit_lim.size_1200x630.jpg"
-    width: 2309
-    height: 1299
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/meet-your-/meet-your-post-pandemic-coworker-an-ai-bot_vxzc.620.jpg"
+    width: 620
+    height: 349
     isCached: true
 
-secured: "KzuKOkhJTATOfMqGZjP2SkoIMkNZaDUojBz/GGG2e3N8VMDNpodcQFgoOoKbwy10EFNEMTfif3rDp0JVf1g+u8EWbyVc+wCKneoAEBC3TudQ7oKy6mmUv6Qj7zeI4iMjVQGkPYGnKrKpNzQwl4mKEupHQhGk1ly6DTbzO/Awa0dRP4v//Z7BAh5xcyfpsMwBv9MsJn+b4EE+AD6sRRbDvis451IEGqu3iPgCTAaPfx8iBpPQuhtfmOghBw8ZwNEZ+bHsV6FY7RTTrzEYPDfGBZvwo3zrgTV8PSTOdIFK8O2Dy6HS35oyO/4trwoEpKCw/5ouJghizyRkLfdhKMSzSQ==;W5pqxb5l9M20HFCMWiruMQ=="
+secured: "ZPk/1CvlyoCHelJYQl5hSvWS4maypCZ5gk0OxTkymgzhvgXRZ7/pA0ckZNToo4PBkEfHa6A0pJggPO+bkMrSl6uKwG/acKc9xzAwFMLyiIdmE7ywkLR7Mh7beiBWtcsOgI0VN/Qk8D6mBoAFODqmHqVgZX0omb7HNPfvH6ZD2Pwdr4EcofYOwRh2bIqq9/ubdELPEwCPIpH0LlslkA9gDG7Pm0oANiUpRPufqHuCoDr2pD+HwNm0nuSb6UtjHNqfiLfzkZy4Tk+bvayoPCN3NswVbfdlXn5D1YxwJPTByDi9Mbx/lGQuzTH95d+MDQqh4lmSDXw2dlJk5wen5yCimQ==;XyS8bLajd1f+LvFJhp3Xrw=="
 ---
 

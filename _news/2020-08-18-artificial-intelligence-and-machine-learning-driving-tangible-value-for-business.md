@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "What robots want: Using machine-learning to teach effectively"
-    excerpt: "By Hyunsoo (Hyun) Kim, co-founder and CEO of Superb AI AI is having a moment. One need only casually scan the news each week to see that the topics of artificial intelligence and machine learning"
-    publishedDateTime: 2020-08-17T13:20:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/08/17/what-robots-want-using-machine-learning-to-teach-effectively/35249/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 21
 
 secured: "8sOFBW8t50HvswNPpJZu9fIHb+bXlygiKXQ7lQ1tMzjPsIB0sXQE27allUBQd2JYPWCRx746NtoSTgUwjYghRvl7KNX8AtasFIaEyqLcj92NMobxYaJyB4zqFgp1fEiE1ZDDd1ch6gw7bDlPKqwCofb+10fo1R6/RZNGph2YvpAksTScGDK94YkIsWbRnJeZbA4FdKD83HCnNjFl7dDaLrnizf0fLUTUbx9mO2z4StDRG2FW6jXJsbjlcBb/SpuRYgCOVqVYkQmurtOIhzEJSi+ws8iDRAuGOHrHRVsJQMvsw0PcjUG7vBWd/sdId6n7erGa9f79w3RV3RwQVL5r/11KMrg9XnyswSIrjegxMJBg5yGIwC89diPLGMRUHaNt7lH/zCU5qgnSsq7FMyh6ibh/LTZI3uNx6r84v7tgnehRT1NBAs1LrXk2/0IhZtnumm00ZnS6B8/Kl8o0+9pZ8Ajz1Z4WXTfggxaTZgPrMA0VqTm2PZ6Kwp0tssBuatmr8vP27oi5vVdfXh3gSPa7UA==;Fvbh35bzlZ6EesHnP1Zzvw=="
 ---

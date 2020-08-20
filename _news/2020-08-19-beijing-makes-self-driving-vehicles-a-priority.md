@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-se
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-self-driving-vehicles-apriority/amp/"
 type: article
 quality: 74
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -75,22 +75,6 @@ related:
       - url: "https://media.itpro.co.uk//image/upload/v1597828845/itpro/AutonomousLaneKeepingSystems_shutterstock.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Michigan is devoting a 40-mile stretch of highway to testing self-driving cars and improving public transportation"
-    excerpt: "The route from Detroit to Ann Arbor will soon have lanes set aside for autonomous buses and cars in the hopes of advancing self-driving tech."
-    publishedDateTime: 2020-08-15T13:25:00Z
-    webUrl: "https://www.businessinsider.com/michigan-sets-40-mile-highway-aside-for-self-driving-infrastructure-2020-8"
-    ampWebUrl: "https://www.businessinsider.com/michigan-sets-40-mile-highway-aside-for-self-driving-infrastructure-2020-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michigan-sets-40-mile-highway-aside-for-self-driving-infrastructure-2020-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://i.insider.com/5f36e5a9e89ebf001f044d08?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "UK government takes the next step in bringing self-driving cars to motorways"
     excerpt: "A new consultation aims to explore how autonomous technology can be used safely on UK roads. The UK government has launched a call for evidence that self-driving vehicles can be driven safely on city streets and motorways."

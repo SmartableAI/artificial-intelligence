@@ -56,21 +56,51 @@ related:
         width: 620
         height: 250
         isCached: true
-  - title: "Gujarat Police Tests Facial Recognition System To Track Missing Offenders"
-    excerpt: "Gujarat Police has successfully tested a facial recognition system (FRS) based on artificial intelligence in Vadodara city to strengthen its law enforcement system and curb crime."
-    publishedDateTime: 2020-08-15T13:17:00Z
-    webUrl: "https://www.ndtv.com/india-news/gujarat-police-tests-artificial-intelligence-based-facial-recognition-system-to-track-missing-offenders-2280011"
-    ampWebUrl: "https://www.ndtv.com/india-news/gujarat-police-tests-artificial-intelligence-based-facial-recognition-system-to-track-missing-offenders-2280011?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/gujarat-police-tests-artificial-intelligence-based-facial-recognition-system-to-track-missing-offenders-2280011?amp=1&akamai-rum=off"
+  - title: "Miami Police Used Facial Recognition Technology in Protester's Arrest"
+    excerpt: "NBC 6 Investigators found a facial recognition program was used to identify a woman accused of throwing rocks at Miami Police officers during a protest on May 30."
+    publishedDateTime: 2020-08-17T22:15:00Z
+    webUrl: "https://www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/"
+    ampWebUrl: "https://www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/?amp"
+    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/?amp"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 58
+      name: NBC 6 South Florida
+      domain: nbcmiami.com
+    quality: 59
     images:
-      - url: "https://c.ndtvimg.com/2019-05/ituc17b_cctv-generic_625x300_29_May_19.jpg"
-        width: 650
-        height: 400
+      - url: "https://media.nbcmiami.com/2020/08/CLEARVIEW-UPDATE-PHOTO.png?fit=1200%2C662"
+        width: 1200
+        height: 662
+        isCached: true
+  - title: "De Blasio Will Reassess NYPD's Use Of Facial Recognition Tech After Protester Arrest"
+    excerpt: "Currently, the department’s Patrol Guide allows police to run facial recognition searches on anyone suspected of a crime or anyone who may have witnessed a crime."
+    publishedDateTime: 2020-08-17T18:08:00Z
+    webUrl: "https://gothamist.com/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
+    ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
+    cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
+    type: article
+    provider:
+      name: Gothamist
+      domain: gothamist.com
+    quality: 52
+    images:
+      - url: "https://cms.prod.nypr.digital/images/310236/original"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Study Finds Face Coverings Reduce Accuracy of Facial Recognition Technology"
+    excerpt: "Even the best of the 89 commercial facial recognition algorithms tested had error rates between 5% and 50% in matching digitally applied face masks with photos of the same person without a mask, according to NIST."
+    publishedDateTime: 2020-08-19T09:43:00Z
+    webUrl: "https://www.campussafetymagazine.com/public/study-finds-face-coverings-reduce-accuracy-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 37
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/08/AdobeStock_334270594-scaled.jpeg"
+        width: 2560
+        height: 1709
         isCached: true
 
 secured: "xC5pHHpDV4g+FMZcY49jgO8DOiyZ8NUO/RQ8kBMYZ+M1nSreKG3GxvPn4MHOv5hyLOc7Jr33xj+7vCEJXPcmYbhLX2Ajz/mDpKIXVawQKMdSn+f0v8U43fE01yb5iVB8mBdOuAr5J9ocB/0g08W/EW2DlENEI9a52c8p6ciCS5w32WQdaF4STx5tmD12kab0Y7DL+M5MP9+zejc67UTEI9Yq7sNhBc1a9EtsT9BVg1f4qXxx6G6G7xwe1jUlTmm0uwPWOqX9JpDtlh4oqiFaR3zdQvoZxkOQWRwb0V9qOK7PidAz8PPBLfcQwxJ5WlObV3PaiqLSjEIBfcP6sjQpjKHM8wC58zlsho8KP4dcKIHil8I4t1Q6BINI/eqHdsDWliz0NmZebaPorJ1tBawCI28PlCoyjSKRDH2OQaLC1NmEX4hVmSnqAqkSi9jNn32SeyJxHLyJBPkvxM6goctNyliTCj4786iMce5eazwt3bZC85y54L82PzrRI5SaeXu6wyQVtNBPrkKEEuCkzlgFGw==;ANliOOx/OA778a9g7y6AKQ=="

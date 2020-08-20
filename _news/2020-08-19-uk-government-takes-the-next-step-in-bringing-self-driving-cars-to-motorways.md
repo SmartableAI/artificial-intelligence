@@ -86,22 +86,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Michigan is devoting a 40-mile stretch of highway to testing self-driving cars and improving public transportation"
-    excerpt: "The route from Detroit to Ann Arbor will soon have lanes set aside for autonomous buses and cars in the hopes of advancing self-driving tech."
-    publishedDateTime: 2020-08-15T13:25:00Z
-    webUrl: "https://www.businessinsider.com/michigan-sets-40-mile-highway-aside-for-self-driving-infrastructure-2020-8"
-    ampWebUrl: "https://www.businessinsider.com/michigan-sets-40-mile-highway-aside-for-self-driving-infrastructure-2020-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michigan-sets-40-mile-highway-aside-for-self-driving-infrastructure-2020-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://i.insider.com/5f36e5a9e89ebf001f044d08?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Nio names new head of self-driving unit"
     excerpt: "The change comes as Nio works to catch up with peers in the self-driving car race after securing $1 billion in funding from the Chinese government."
     publishedDateTime: 2020-08-17T06:55:00Z

@@ -26,35 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Black Lives Matter Activist Hunted by NYPD Facial Recognition Technology"
-    excerpt: "\"We're being specifically targeted with this technology because of what we're protesting,\" Derrick Ingram said."
-    publishedDateTime: 2020-08-15T14:57:00Z
-    webUrl: "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335"
-    ampWebUrl: "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1"
+  - title: "New York City says it will reassess police use of facial recognition"
+    excerpt: "\"That's something I will do with my team and the NYPD.\" The question came after NYPD admitted it had used facial"
+    publishedDateTime: 2020-08-17T22:45:00Z
+    webUrl: "https://www.engadget.com/new-york-city-facial-recongition-223931035.html"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 88
-    images:
-      - url: "https://d.newsweek.com/en/full/1622897/derrick-ingram.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Cops in Miami, NYC arrest protesters from facial recognition matches"
-    excerpt: "Law enforcement in several cities, including New York and Miami, have reportedly been using controversial facial recognition software to track down and arrest individuals who allegedly participated in criminal activity during Black Lives Matter protests months after the fact."
-    publishedDateTime: 2020-08-19T20:45:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/08/cops-in-miami-nyc-arrest-protesters-from-facial-recognition-matches/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
+      name: Engadget
+      domain: engadget.com
     quality: 69
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-1238438366-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2Fbce7cf20-ecf2-11e9-b372-50ae8ac12a88&client=amp-blogside-v2&signature=e638e7e15835c15f1e753686f1b886881e7c5556"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Hashtag Trending – Facial recognition in New York; Airbnb at Blockbuster; Swiping right at work"
+    excerpt: "The New York City Police Department uses facial recognition to find a man who allegedly shouted into a police officer’s ear with a bullhorn, you may soon be able to experience the nostalgia of BlockBuster,"
+    publishedDateTime: 2020-08-19T12:02:00Z
+    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727"
+    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 62
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg"
+        width: 620
+        height: 250
         isCached: true
   - title: "Miami Police Used Facial Recognition Technology in Protester's Arrest"
     excerpt: "NBC 6 Investigators found a facial recognition program was used to identify a woman accused of throwing rocks at Miami Police officers during a protest on May 30."
@@ -72,35 +72,21 @@ related:
         width: 1200
         height: 662
         isCached: true
-  - title: "De Blasio calls for ‘clear standards’ for facial recognition tech for NYPD"
-    excerpt: "Mayor Bill de Blasio called for “clear standards” for the NYPD when using facial recognition tech after officers were spotted using information from the department’s unit when"
-    publishedDateTime: 2020-08-17T08:14:00Z
-    webUrl: "https://nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/"
-    ampWebUrl: "https://nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/amp/"
+  - title: "Facebook’s Instagram accused of illegal facial recognition scans of millions of users"
+    excerpt: "Facebook allegedly used facial recognition technology without Instagram users' consent, opening the company up to a lawsuit worth half a trillion dollars."
+    publishedDateTime: 2020-08-16T03:15:00Z
+    webUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/"
+    ampWebUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
+      name: Kim Komando
+      domain: komando.com
+    quality: 52
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/08/081120_Bill_de_Blasio_8A.jpg?quality=90&strip=all&w=1200"
+      - url: "https://www.komando.com/wp-content/uploads/2020/08/kk-article-20200816-instagram-harvested-users-biometric-data-lawsuit-1200x675-1.jpg"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "Convenience store boosts security with facial recognition technology"
-    excerpt: "For a start, the 24-hour convenience store has installed facial recognition technology on closed-circuit TV cameras at 100 of its 458 branches throughout the country, with an allocation of RM800,000."
-    publishedDateTime: 2020-08-18T00:46:00Z
-    webUrl: "https://www.thestar.com.my/metro/metro-news/2020/08/18/convenience-store-boosts-security-with-facial-recognition-technology"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/08/18/823669.jpg"
-        width: 1240
-        height: 826
+        height: 675
         isCached: true
   - title: "Study Finds Face Coverings Reduce Accuracy of Facial Recognition Technology"
     excerpt: "Even the best of the 89 commercial facial recognition algorithms tested had error rates between 5% and 50% in matching digitally applied face masks with photos of the same person without a mask, according to NIST."
@@ -115,20 +101,6 @@ related:
       - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/08/AdobeStock_334270594-scaled.jpeg"
         width: 2560
         height: 1709
-        isCached: true
-  - title: "New report points to privacy, accuracy concerns with facial recognition technology"
-    excerpt: "WASHINGTON, D.C. — More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19. “The market is definitely growing,” said Alicia Puente Cackley, Director in the ..."
-    publishedDateTime: 2020-08-18T20:21:00Z
-    webUrl: "https://www.wpxi.com/news/washington-news-bureau/new-report-points-privacy-accuracy-concerns-with-facial-recognition-technology/QEWNWCGJAZD5ZJJU3UGHFFOUJM/"
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 33
-    images:
-      - url: "https://www.wpxi.com/resizer/-nittaDLfS5Blfji2XXyH8wFsH4=/1200x628/d1hfln2sfez66z.cloudfront.net/08-18-2020/t_e409325f18a2475aaa8ef89c032632a0_name_https___www_whio_com__rw_Pub_p5_News965_2014_06_18_Images_photos_medleyphoto_5395453.jpg"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "wwnbGw2NEaAqVZjkNLN7zdpKCqf3hsKzelh9gKop1VmpTlMienflEXz5cz13lxTi20lUKzWLKdwPuSpOm/NLEXAmq/M0rEwzcsNE/lOm/DoS7ZWMyjYv8SwrDmzBXrLUvXAc59KoEAlNVIbotkWQND54tfp9JJqK7XXip7kiJMGYEOYNQTk/wS0aF3WwH3mCu/T62/fkX1HAwrx3zA3/IzNN6yhdS2UGUykbTNMveVYVTEt+bZZDYFab2xUyrkykpmNYALUMzdYGLEoJcmWspMSPwDc6v8rUOEqduQCOhk2hWnDvQBk4twIqN9Wm+FTO2DK+3hRKeO2WpjnhAvazcHL87+/ol537ZLisrs6k3P9pstQTGV9sFrhEF+1QtWMTxE3sXyOkcWxTEfYfYwm9mXhHpDFfcE35s1tDk6p10rM54W6VaoztZ3YgAu6Ux9oymyXDbahwcofxBdowPdmht/stOatxxChf0bYKW09fqwRYGSsrw6uGpx+FTQAZekhkFY9OTAdPTtBmsjhn5hqsFA==;4odTwv7bov/ZzWYcPemb3Q=="

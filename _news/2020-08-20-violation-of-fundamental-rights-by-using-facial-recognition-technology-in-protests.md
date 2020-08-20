@@ -118,17 +118,6 @@ related:
     quality: 82
   - title: "Global Facial Recognition Market Forecast 2019-2028"
     excerpt: "KEY FINDINGS The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security,"
-    publishedDateTime: 2020-08-19T15:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-forecast-2019-2028-1029517397"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-facial-recognition-market-forecast-2019-2028-1029517397"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-facial-recognition-market-forecast-2019-2028-1029517397"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "Global Facial Recognition Market Forecast 2019-2028"
-    excerpt: "KEY FINDINGS The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security,"
     publishedDateTime: 2020-08-20T00:12:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-market-forecast-2019-2028-2020-08-19"
     type: article
@@ -270,6 +259,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Global Facial Recognition Market Forecast 2019-2028"
+    excerpt: "The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security ..."
+    publishedDateTime: 2020-08-19T14:34:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-facial-recognition-market-forecast-2019-2028-301114914.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Facial recognition technology riddled with racial bias; cities are fighting back"
     excerpt: "In the wake of the George Floyd protests, many cities and technology conglomerates are banning police agencies from utilizing facial recognition technology, citing racial discrimination as a vital concern."
     publishedDateTime: 2020-08-17T17:53:00Z
@@ -285,6 +288,6 @@ related:
         height: 616
         isCached: true
 
-secured: "y33zYOj3eGp57PMIA3Jkr3fvGKfuauB8zqxxcWo2Hj52zeAfMPV+//RrR2egZNTqlbZa4o990U+Ng6QNWPWjma9q9aaMCnDXXLwavsnLnHoHYZNPY/DrHLlvvq9T8IbFOfMYVApo1yvRdnJKR8eRGOjFrbfwNFLHRs/uxPoIX85d0vzmmGAJL/C6UaYXF8gl9lfjcH17P+xPLkL6Rrf2nt3i7Kf6Dy6ZnmsHGuYxfdxCzIckQCIg9iMxl10jVvyFbyOkZIrvFwboMsMWskOU4PO3UepCkgN7WNwNBTAfRfKr3ejz2yUxTvEKtC107l7uJ5bLlNn3hm9tlWeWMpxX2g==;W1wn8zih1NI+jBD+LCzxVQ=="
+secured: "cawhzvgdQ1xZk7aNkpSMR9iS6FFscEjtYmT3vRr5F/gDEFTAPRRB+2sSkkavQ5q0h1W+0U+5coE39n7cCOrAAXL9JMPTIoATHtp/MfsK/7ZI9QgvTDUzMq4EGbHZqV9D2h4l837st0fD5OTQfIJg2nqJH+FAI64fARPhX2XSD0bfqntl39iZ0j/oDD9EpTkKlUBx45UnfUoUU3C1ArzEepzd2O7X5UcRJEBrjODF6hbrkWlL2BkEafw4rXOVgoRf9jtbXw6gC8SWm7msiXArAHzDMjacm1UtDh0Z+8LppY8Phi1IJu34G5IE6YWLfUI87r4uxA7SRzqlBKH2VdG3Fts5Ey0ewqrYXQAvs+JxzVbfpkWQcmy3fZNU760t29VRhOJl5jctfZNJKNy/W0NP0W3k6ygnE5AF4SOsTHE3opuxheqQ3kqf33uThn2/H68/IdBUrBpY1gEfZkadP2KX22jK77X294koKrr0feS2vjgOnLEmZbY09LS9nrUkcOe1jv8QfdeyGsRpUwgaa4xAaQ==;rlD6YL7ZMz3Iqm0px6fghA=="
 ---
 

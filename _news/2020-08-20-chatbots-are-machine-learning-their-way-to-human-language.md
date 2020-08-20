@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-m
 ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3b8a4e25cb6511b0099a7f%2F0x0.jpg"
@@ -29,6 +30,17 @@ images:
     height: 779
     isCached: true
 
-secured: "CNZUyTrqDMvGAx/PvfqXPyBjvX7pW3neq2Wk2BhjuJXwxU/jqWJzkL5rS0lOvcdKLPLFEua04rCSRcp2pZggFUoIy3cYIg0DjORW88+gcOalRQ2NphhYyy0P5f1YrpTsudPrsRkewQw0P4zMuRBdeuZsOWEGdp+lylNRILAWp54gf44Uqr1lVvOZIewPNYp8OdjewqBYW8MLMyIlhRsUfKytFvlXfr4HZKRCJsV7KVMoiqnVqGb5wWobKLS7JNYzbThRWVyLDe7VEzSH2eDbcwfkE84AgK8oNWbOEpb2eb9qvoBBTwAnO7yalMnhs7FblFTl+mBsrLZZiHHJKh3CLQ==;IkHtkA8+s9t6CkvcOBJn1Q=="
+related:
+  - title: "What robots want: Using machine-learning to teach effectively"
+    excerpt: "By Hyunsoo (Hyun) Kim, co-founder and CEO of Superb AI AI is having a moment. One need only casually scan the news each week to see that the topics of artificial intelligence and machine learning"
+    publishedDateTime: 2020-08-17T13:20:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/08/17/what-robots-want-using-machine-learning-to-teach-effectively/35249/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 21
+
+secured: "syAWCGfaqcHkCoduZlT6PoZV8OGMIRIyF8t9CvyG8pELSz0YqCariS8UZTB+LYW+8RN15VTSwmXB5JSWXcC1AbrKHrPbipZj7Y84m6oJ5s96SpRp0kSmNffGeWtMpR3gvEr5f9xK7CcQRH144Jhw/tUYcSPj5aUWwSCBJbyXKlULwJnk6RrqVWvk3lp5VidZMV6i6OnqdzUv4aj5xth+TXvSkJMk3LZzUXxLrSkLoirKK3DSHzyeESy4QCGANXv4bNwjqOVjtbmOLREIBZW+r0J4dC56A//U/eJjfXHPl/yCrznZpUlFIQ+Fml6JGEz+1mOCVYSMA2EFKCep7bWSlXXi4G5LEhJPQKlI6eB281DbrsO8K58mwvPWHyUbJIxZWt1x/c8CoGQYTikQfC9SLMRAA60gfIcMtq7RAyXEgNPOYlHRWArZ4css3W2+2DtJwRA/JMG3kpt03shaCWpL4gbuZMyiQmy55+KvIL6ObgSBID3A+qdn2lQrx1wkzXN2huYTg2W7Qh0APRYvCEmLdw==;69QayHnghlRrX60jb78cjQ=="
 ---
 

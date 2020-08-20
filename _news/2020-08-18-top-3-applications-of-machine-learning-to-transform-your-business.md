@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/kasiaborowska/2020/08/18/top-3-applicat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kasiaborowska/2020/08/18/top-3-applications-of-machine-learning-to-transform-your-business/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "What robots want: Using machine-learning to teach effectively"
-    excerpt: "By Hyunsoo (Hyun) Kim, co-founder and CEO of Superb AI AI is having a moment. One need only casually scan the news each week to see that the topics of artificial intelligence and machine learning"
-    publishedDateTime: 2020-08-17T13:20:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/08/17/what-robots-want-using-machine-learning-to-teach-effectively/35249/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 21
 
 secured: "RnFDjZ3cRA8lgCkoZeBL34AX4oBdPC9AqKT5PqLT/M6+flVyayohEgbz0dVQYHUzXABkQZMrO4RViK31EpE+4mKQf9eQKpapTKUc729/HjklETBo0Ch1/9+R6xaU+EiRKeK37So8qZi9yYQSi91P9ccJRad70Ci8ovUrXWlWwFkqsxmZMDuQyJUEIpy3gqVTNPUwVYu8bG3hIduvsAMfBSssKeIH4akkGbYTYTGiO4AKQ3GwqVxbOF9lXlhsWHBABMibLg41qfAKjgRTaVMPmcSfx1McQddH+6PMjhyPwkL469qnprP0DJRox9rHjyUB1KPIEa13N92+XwNymJjYooVR0lHP8Ascl1pXSb/4mJlzW1GWGspGJvUnKn9+rVpMuQp5Gf1FsDEVT7mNGwusDOiHp04Mu/SYB0+XlPGZZlPyNNmV6qhfz0zho+LPV6/9n05cuk/RVshqSFgWk1Q/h73rFkADChgCPgr+FiXzOQhD6CxXSrOHsxYl5V/s+hNu;Vwpi0096MhKZXaBdItJMTQ=="
 ---
