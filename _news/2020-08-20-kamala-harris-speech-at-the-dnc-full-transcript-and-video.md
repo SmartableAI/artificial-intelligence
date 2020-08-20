@@ -74,6 +74,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Michelle Obama’s DNC Speech Hid A Secret Lesson For Every Leader (And It’s Only 13-Sentences Long)"
+    excerpt: "Michelle Obama’s speech on the opening night of the Democratic National ... the ability to walk in someone else's shoes, the recognition that someone else's experience has value, too. Most of us practice this without a second thought."
+    publishedDateTime: 2020-08-20T13:54:00Z
+    webUrl: "https://www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/"
+    ampWebUrl: "https://www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3e7b6012c4c78778bb3bfe%2F0x0.jpg"
+        width: 1200
+        height: 792
+        isCached: true
   - title: "Trump hits back at Michelle Obama after searing DNC speech, says he 'would not be here' if not for Obama"
     excerpt: "MICHELLE OBAMA, IN DNC SPEECH, RIPS TRUMP WHITE HOUSE FOR 'CHAOS' AND 'LACK ... \"The ability to walk in someone else's shoes. The recognition that someone else's experience has values too,\" she said. \"Most of us practice this without a second thought.”"
     publishedDateTime: 2020-08-18T11:49:00Z
@@ -407,6 +423,6 @@ related:
         height: 892
         isCached: true
 
-secured: "tAvrGsnVoXXYn85z4z6VIdxF5dQM+qLp0XnffBudt91srWw8Ko9gUpZIlf09GyAuHo/CqoadXZAznkImcFPmUXA80Ng3++RpvSh74be3s3q0iVNi7VN585YPzvbvGogBZDEzFCup4CBhO0MJq8fxBcSnEl26krVmniWu0GwexoaDB1PEF2ahhf/hMzjqeKoiRgALcLLae/8zzYRQr4/CjG76XfZNuF2Rz1k7ofL2krY8EF6tgVR85AnhbGpvsXthfb9d5PThdr6yFxtaDSawUhKBSTJtDsop2NtAeG9NjZhtzZmkhiJH6FOHUa7LcUZSvEKif4OHV6X/Z6alBxu8Dw==;Ch21J0jzaYbJdWaCneYy7w=="
+secured: "Gi3XTQQxukJoSHPHhpnr2QHsUnWX8tEaP84aLS4K+ylA5U0YdbiqBZUkRVDDB5wLmVOrgJeX5QOotmmfscTwfBQrRagmQTM/QqhERerNfpH+uBsSk/IXB3ZrlRySvK79t8R8cM5zYyejAzLTIQlhl75Bpk0cwIl/JbJXgtCQOC/ZgtVPvyl00qPwE3+EzCz2UQjjfYkFBb6oYUGmrDt/5z5QAghlj120ML9InkDjiWR9ZRPT3sW/qUKwtLE1cwWaWnRLos0POd6PiYENzgOcsfEoF0g4X92xA7wl70YPSV0YptBnNAcvOpkJIGgkEwRPVvB8RBGC40YhD+wwOzANeuovlt9eZ1aBcFO0xifdCTt1FD73XsOw8tj4X6lfBtUjI0bj7fqwE01Ckte8UEewJDe8RE3VmYI+DEa0tAlMAIUtP6VH9LDS9TdHR8bj6y5MBpkKeIRPdwpZ567/onhYQVW7yyYclJxgPpWjRxuDOnq5Vs09wU0CD0Ro/S9/5vNOm98baa/YPey+Up7Bhk920g==;4hB/g2yXbABCTTJ/O++ACg=="
 ---
 

@@ -2,6 +2,203 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-20-oral-bs-absurd-200-ai-toothbrush-is-finally-available.md",
+      "title": "Oral-B's absurd $200 AI toothbrush is finally available",
+      "excerpt": "Oral-B showed off its flashy new AI-powered iO toothbrush at CES 2020. It threw around phrases like “linear magnetic drive” and \"oscillating, rotating movements,” but the company didn’t reveal the price.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/oral-b-io-ai-electric-toothbrush-134200732.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fdea8dcc0-e2e8-11ea-bfb6-b7b4137f6a14&client=amp-blogside-v2&signature=3b0d459a01e7add35947ee45129431c67c45d91a",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/oral-b-io-ai-electric-toothbrush-134200732.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/oral-b-io-ai-electric-toothbrush-134200732.html",
+      "publishedDateTime": "2020-08-20T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-ai-based-customer-engagement-platform-ikala-raises-17-million-to-expand-in-southeast-asia.md",
+      "title": "AI-based customer engagement platform iKala raises $17 million to expand in Southeast Asia",
+      "excerpt": "Taiwanese startup iKala, which offers an artificial intelligence-based customer acquisition and engagement platform, will expand into new Southeast Asian markets after raising a $17 million Series B.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/19/ikala-an-ai-based-customer-engagement-platform-raises-17-million-to-expand-in-southeast-asia/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/ikala.jpg?w=1024",
+          "width": 1024,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/19/ikala-an-ai-based-customer-engagement-platform-raises-17-million-to-expand-in-southeast-asia/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/19/ikala-an-ai-based-customer-engagement-platform-raises-17-million-to-expand-in-southeast-asia/amp/",
+      "publishedDateTime": "2020-08-20T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-ai-as-a-blueprint-for-fintech-startups.md",
+      "title": "AI as a blueprint for fintech startups",
+      "excerpt": "FINRA’s AI Report is particularly interesting for fintechs since it explores how firms are deploying AI as well as the agency's expectations for AI oversight.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1155413889.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/amp/",
+      "publishedDateTime": "2020-08-20T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-this-cto-says-ai-technology-will-accelerate-sustainable-investing-and-create-a-more-equitable-society.md",
+      "title": "This CTO Says AI Technology Will Accelerate Sustainable Investing And Create A More Equitable Society",
+      "excerpt": "ESG investing, which accounts for a company’s environmental, social and governance ratings alongside traditional financial metrics, and the concept of “stakeholder capitalism” over shareholder profitability had been growing trends even before the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/08/20/this-cto-says-ai-technology-will-accelerate-sustainable-investing-and-create-a-more-equitable-society/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3d4b948c2be25133e3bf10%2F0x0.jpg",
+          "width": 960,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/08/20/this-cto-says-ai-technology-will-accelerate-sustainable-investing-and-create-a-more-equitable-society/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesmarketplace/2020/08/20/this-cto-says-ai-technology-will-accelerate-sustainable-investing-and-create-a-more-equitable-society/amp/",
+      "publishedDateTime": "2020-08-20T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open.md",
       "title": "Self-Driving Cars To Transport Golfers And Caddies At The Wales Open",
       "excerpt": "One of the first deployments of autonomous vehicles at a major sporting event will transport players from clubhouse to tee",
@@ -372,7 +569,7 @@
       "webUrl": "https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1173,7 +1370,7 @@
       "webUrl": "https://venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1214,195 +1411,6 @@
         "AI",
         "Facebook AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world.md",
-      "title": "Tune in today to discuss COVID-19’s impact on the startup world",
-      "excerpt": "We can’t help but wonder what the future of work will look like in the wake of this global pandemic. That’s the timely topic of today’s interactive webinar, COVID-19’s Impact on the Startup World. The second of three in our free series of interactive webinars — exclusively for founders",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/19/tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/45390120154_d2864e1953_c.jpg?w=799",
-          "width": 799,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/19/tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/19/tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world/amp/",
-      "publishedDateTime": "2020-08-19T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer.md",
-      "title": "Cerebras puts ‘world’s largest computer chip’ in Lassen supercomputer",
-      "excerpt": "Lawrence Livermore National Laboratory said it has integrated Cerebras Systems' wafer-scale computer chip into its Lassen supercomputer.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/19/cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/cerebras.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/19/cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer/amp/",
-      "publishedDateTime": "2020-08-19T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-webchartai-accelerates-machine-learning-adoption.md",
-      "title": "WebChartAi Accelerates Machine Learning Adoption",
-      "excerpt": "\"WebChartAi lowers the technology barrier to entry, enabling a broader base of companies to more easily harness the power of NLP-driven task automation.\" In machine learning applications utilizing natural language processing (NLP),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/webchartai-accelerates-machine-learning-adoption-1029517519",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/webchartai-accelerates-machine-learning-adoption-1029517519",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/webchartai-accelerates-machine-learning-adoption-1029517519",
-      "publishedDateTime": "2020-08-19T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-artificial-intelligence-ai-market-is-estimated-to-achieve-cagr-of-49-by-2027.md",
-      "title": "Artificial Intelligence (AI) Market is Estimated to Achieve CAGR of 49% By 2027",
-      "excerpt": "The global Artificial Intelligence (AI) Market is estimated to grow at a healthy CAGR of over 49% from 2020 to 2027 and reach a valuation of over US$ 49 billion. The report provides an analysis of Artificial Intelligence (AI) Market for the period 2016-2027,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-is-estimated-to-achieve-cagr-of-49-by-2027-2020-08-19",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-19T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

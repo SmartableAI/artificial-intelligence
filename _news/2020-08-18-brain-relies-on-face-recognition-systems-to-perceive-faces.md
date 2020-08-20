@@ -68,6 +68,22 @@ related:
         width: 3413
         height: 1920
         isCached: true
+  - title: "Facebook Gets Preliminary Approval To Settle Facial Recognition Lawsuit"
+    excerpt: "Facebook allegedly violated an Illinois law requires companies collecting biometric data to obtain prior consent from consumers."
+    publishedDateTime: 2020-08-20T13:35:00Z
+    webUrl: "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/"
+    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3e77f47d7294f03eab9638%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook wins preliminary approval to settle facial recognition lawsuit"
     excerpt: "Facebook Inc won preliminary approval late on Wednesday from a federal court for settlement of a lawsuit that claimed it illegally collected and stored biometric data of millions of users without their consent."
     publishedDateTime: 2020-08-20T02:57:00Z
@@ -140,6 +156,22 @@ related:
       - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/08/19/iStock-1188510725.jpg?w=700&h=393.75&fit=crop&auto=format"
         width: 700
         height: 394
+        isCached: true
+  - title: "Who thought it was a good idea to have facial recognition foftware?"
+    excerpt: "It’s about time someone asked that question about facial recognition software. It would oblige the developers and users of the technology to explain exactly why they think it’"
+    publishedDateTime: 2020-08-20T13:45:00Z
+    webUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/"
+    ampWebUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/amp/"
+    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/amp/"
+    type: article
+    provider:
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 59
+    images:
+      - url: "https://www.brookings.edu/wp-content/uploads/2020/08/Facial-recognition-technology-cameras.jpg"
+        width: 5472
+        height: 3648
         isCached: true
   - title: "Victory for campaigners in face recognition case is ‘cautionary tale’"
     excerpt: "Organisations must absorb the lessons of verdict in South Wales Police case, when it comes to the use of AI and automation, argues HR director."

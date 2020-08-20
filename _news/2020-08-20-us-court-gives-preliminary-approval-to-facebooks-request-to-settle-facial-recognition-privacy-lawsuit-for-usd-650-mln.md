@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Court Grants Facebook Preliminary OK to Settle Facial Recognition Privacy Claims"
+    excerpt: "Facebook Inc. won preliminary approval late on Wednesday from a federal court for settlement of a lawsuit that claimed it illegally collected and stored"
+    publishedDateTime: 2020-08-20T12:10:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/08/20/579687.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 49
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2020/08/facebook-facial-recognition-image-woman.jpg"
+        width: 600
+        height: 430
+        isCached: true
   - title: "New report points to privacy, accuracy concerns with facial recognition technology"
     excerpt: "WASHINGTON, D.C. — More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19. “The market is definitely growing,” said Alicia Puente Cackley, Director in the ..."
     publishedDateTime: 2020-08-18T20:21:00Z

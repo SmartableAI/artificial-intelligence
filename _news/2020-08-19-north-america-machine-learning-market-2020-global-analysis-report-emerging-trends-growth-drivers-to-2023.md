@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning Market Evolving Technology and Growth Outlook 2020 to 2024"
-    excerpt: "Global Artificial Intelligence and Machine Learning Market Size, Status and Forecast 2020-2024 is latest research study released, highlighting, opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The ..."
-    publishedDateTime: 2020-08-15T19:40:00Z
-    webUrl: "https://www.openpr.com/news/2113476/artificial-intelligence-and-machine-learning-market-evolving"
-    ampWebUrl: "https://www.openpr.com/amp/2113476/artificial-intelligence-and-machine-learning-market-evolving"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2113476/artificial-intelligence-and-machine-learning-market-evolving"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 58
-    images:
-      - url: "https://cdn.openpr.com/T/8/T815418051_g.jpg"
-        width: 562
-        height: 313
-        isCached: true
   - title: "Deep Learning Market New Innovations Trends, Research, Global Share and Growth Factor till 2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 19, 2020 (Global QYResearch via COMTEX) -- The global Deep Learning Market is estimated to grow at a healthy CAGR of over 51.1% from 2020 to 2027 and reach a valuation of ..."
     publishedDateTime: 2020-08-19T13:58:00Z

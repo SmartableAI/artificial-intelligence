@@ -2,56 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-07-19-gpt-3-is-amazingand-overhyped.md",
-      "title": "GPT-3 Is Amazing—And Overhyped",
-      "excerpt": "GPT-3 is the most powerful language model ever built. This is due more than anything to its size: the model has a whopping 175 billion parameters. To put that figure into perspective, its predecessor model GPT-2—which was considered state-of-the-art and shockingly massive when it was released last year—had 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/07/19/gpt-3-is-amazingand-overhyped/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f14cd53a96672000703212d%2F0x0.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/07/19/gpt-3-is-amazingand-overhyped/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/07/19/gpt-3-is-amazingand-overhyped/amp/",
-      "publishedDateTime": "2020-07-19T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-17-ai-weekly-transform-2020-showcased-the-practical-side-of-ai-and-ml.md",
       "title": "AI Weekly: Transform 2020 showcased the practical side of AI and ML",
       "excerpt": "Luminaries including Google Brain ethicist Timnit Gebru and IBM AI ethics leader Francesca Rossi spoke about how women are advancing AI and leading the trend of AI fairness, ethics, and human ...",
@@ -1449,6 +1399,38 @@
         "AI in Finance",
         "Natural Language Processing",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-natural-language-processing-nlp-market-to-reach.md",
+      "title": "Natural Language Processing (NLP) Market to reach...",
+      "excerpt": "Dallas, Texas, July 10, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing (NLP) Market by Application (Machine Translation, Information Extraction, Automatic Summarization, Text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/g16582536/natural-language-processing-nlp-market-to-reach-us-41-billion-by-2025-global-insights-on-trends-le",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16582536",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16582536",
+      "publishedDateTime": "2020-07-10T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

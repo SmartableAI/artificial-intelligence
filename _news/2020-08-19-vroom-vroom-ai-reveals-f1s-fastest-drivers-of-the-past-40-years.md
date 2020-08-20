@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "The fastest driver in Formula 1"
+    excerpt: "This blog post was co-authored, and includes an introduction, by Rob Smedley, Director of Data Systems at Formula 1 Formula 1 (F1) racing is the most complex sport in the world. It is the blended perfection of human and machine that create the winning formula. It is this blend that makes F1 racing, or"
+    publishedDateTime: 2020-08-20T13:03:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/the-fastest-driver-in-formula-1/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/19/fastestdriver-1-1.jpg"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Official F1 study reveals fastest driver in last 40 years according to machine learning algorithm"
     excerpt: "The research used AWS's machine learning software to conduct a theoretical qualifying 'lap' which saw Senna come out 0.114s quicker than Schumacher , with six-time champion Hamilton 0.275s back in ..."
     publishedDateTime: 2020-08-19T00:16:00Z

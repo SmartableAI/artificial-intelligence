@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Develop A Conversational AI Road Map To Drive Your Company Forward"
+    excerpt: "Scaling and communicating quickly and accurately with customers and employees across all channels are value propositions no company can afford to ignore."
+    publishedDateTime: 2020-08-20T12:42:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/20/develop-a-conversational-ai-road-map-to-drive-your-company-forward/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/20/develop-a-conversational-ai-road-map-to-drive-your-company-forward/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/08/20/develop-a-conversational-ai-road-map-to-drive-your-company-forward/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "FwhblFid8Zrv/5tiEIUgdPhh9uPVGmhu9OEWjceRZhd5lL/xH5Laqko4Vk9k6bRD/RhMckIpPocgGbQibbcCw6EKHGWRArd7CYvNPSN14w0I/+stZJ0clejPAmHBKNHbQ9J4hpbFe8lRYQnQhY9+fI05LuJpPaNbSSHCBZVZLXi3QWhLqeUCq3rYiNY/fhLbzV+u4SFgARwOJYS1xMdyzOlFFiwgS5RwCgiq7Tg5oNAd+QfjbtKl2ohbhIL0TvTWk6ysQKj+DLja6RxQmBBwVBIOEijREZNc+XsnlLODzkpAHnjf/o6dfs+JJ2+T1hdbQvNvNk0Kx/W9T4PHJjKBs7FH1LEN6zpJV/LSWbW1kTdr0BXQkrg4UnFZ1yFH7GJhrR47X+lMN/rKaxjysedLCoyvKrvXNDgldgHQj5sq099rUUDef0h1v567pvLvNoKxtT8QwJmexUMuXB1h0+Z//SKk5V1ri3rpwcCZhom3AjE6Gpw0alXFkUm7DL+WFwtPeetkqmCMcIQ5sOvsFitLXQ==;fjpbFWRSKZ7mXQmFOT1NVw=="
 ---

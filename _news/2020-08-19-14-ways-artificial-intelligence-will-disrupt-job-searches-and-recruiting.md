@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2020/08/19/14-ways-ar
 ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2020/08/19/14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/08/19/14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting/amp/"
 type: article
-quality: 86
-heat: 86
+quality: 186
+heat: 186
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 819
     isCached: true
 
-secured: "6XRpuD5sU10WZM8/2R7SLh+K4rPTuoLePt4u21vuGksUMA6kU8/uSSVUwb4FUPx/Kp5ERvMhLaPKKUOmjXVQ+D9FkVZFUzuauijil1x9J+c7cdRqOR3BGMxCAOAs0Ra0ZMb8xHD74dMeVST6Na2cPz9aL535BCEfMzsEQVukmLtCeMiL7Y5+2PA7lgVZ8x/MgnLYucTBcfGl3G717UVofa1rdqECSSlXU0GcKrsIvbctjb98Apmtl8RJ6tWMet9WvQXHAjNxShMBdv1LtaknRZWrb5j7EKTZ9r8IVJrfl0KO9e8jWkfA1VlZaHcdNjwdc5ZcdmzKklG/r/5j7tuxoUSaHK57MRb65KRQ49KEVOmXcg+dC/v7J9owP6PtagUy4quyPRnlRKUnBVB325kNMb+Yyd2e9TPqTAysMIeHxKqKx8SdqJD0qwMQ2N+Yh04eozzNUdqfT4HrQ1ylOymzkfCoCZke1DotKxSUyWs1f+2j2SxDRa306pq2QH5OAjjjw66e+KJBgPaPultQA1tmlA==;sjWClEv4GLk1H1ngLZCV0A=="
+secured: "rJqVzs27MTpk586nufO+2XzIrLrh9xTsO0Fp5Y09w56Oj84S4C+1mJTgZQ4i0q9gzcsykFQsSehtkl97f2inQz3S65ptcDKCyPNvDXl/AQpPbG6QVMjMh3J/5pwk9IFrYrNt59oPGwB8wW9gv04a4JioIM7GYkhUSisze4VjrLoQ/0L2VHDNrpVxU0hywmViLCr9TMHWHKEj8hbEI0302jNVASOiIjqxVfGma3PLxjJXgPb2hOM1fwPHgMf+fOfDmPJ8HN6g7fmsWRHQlhJLbXI2xrR6ycC/Gvn03XmvSncTnTWqRpC2noYymkw+6MEeqb0bbT3P9sL9UySld7G8xDQviicrWFDLYOHXayFvOdIXek85p1RBGUikDcvehmbdrF/TW1DSV6FDST2p2laYmgUPwljOdhs+1YT7RqKIXjxMsDg6iMAMVdJ7fBrBhJvzFGRu2BuddKlEZQZwxC1dk9cHPvLhDKs7BnBcPnVk47YmWZVZj9YOf8NQkR6De64jW4LyIHh3IY5IoidWXFQFTbMjGgfp/lw7zrpuiyp62vU=;AWt9bTwVRxQpkZzzmX8I4Q=="
 ---
 

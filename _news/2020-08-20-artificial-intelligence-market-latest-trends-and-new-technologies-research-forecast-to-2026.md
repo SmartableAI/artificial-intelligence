@@ -5,7 +5,7 @@ excerpt: "The Artificial Intelligence Market report upholds the future market pr
 publishedDateTime: 2020-08-20T10:34:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-and-new-technologies-research-forecast-to-2026-2020-08-20"
 type: article
-quality: 57
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

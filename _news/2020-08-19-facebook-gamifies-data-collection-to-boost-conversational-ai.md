@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/19/facebook-gamifies-data-collection
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Develop A Conversational AI Road Map To Drive Your Company Forward"
+    excerpt: "Scaling and communicating quickly and accurately with customers and employees across all channels are value propositions no company can afford to ignore."
+    publishedDateTime: 2020-08-20T12:42:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/20/develop-a-conversational-ai-road-map-to-drive-your-company-forward/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/20/develop-a-conversational-ai-road-map-to-drive-your-company-forward/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/08/20/develop-a-conversational-ai-road-map-to-drive-your-company-forward/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Global Conversational AI Market Analysis 2020-2025"
     excerpt: "The \"Conversational AI Market by Component (Platform and Services), Type (IVA and Chatbots), Technology (ML and Deep Learning,"
     publishedDateTime: 2020-08-17T12:13:00Z

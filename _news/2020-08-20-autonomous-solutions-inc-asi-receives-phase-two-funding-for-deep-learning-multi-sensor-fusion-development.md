@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Autonomous Solutions, Inc. (ASI) Receives Phase Two Funding for Deep Learning Multi-Sensor Fusion Development"
-excerpt: "PRNewswire-PRWeb/ -- Autonomous Solutions, Inc. (ASI) has been awarded a Phase Two grant from the U.S. Army Combat Capabilities Development"
+excerpt: "Autonomous Solutions, Inc. (ASI) receives phase two funding for deep learning multi-sensor fusion development. New architecture to increase situational awareness and safety in"
 publishedDateTime: 2020-08-20T11:35:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/08/n17170127/autonomous-solutions-inc-asi-receives-phase-two-funding-for-deep-learning-multi-sensor-fusion-deve"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17170127"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17170127"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/p17170136/autonomous-solutions-inc-asi-receives-phase-two-funding-for-deep-learning-multi-sensor-fusion-deve"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17170136"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17170136"
 type: article
 quality: 20
 heat: 20
@@ -19,6 +19,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "GifMTwgaC8QpQVOMTLfuwcrJyDohLO09bE/39rtT7HtbVxpzO3woWhX7nSLC7ARbDMvWdKpbJU/TiH+CWSWAPtazUg2dwwcQNyxI0KFClcyGlvacYDM+WmPZmiLX/RiEmZY1tDowyzCcVYDjMnjJWScwZamkCFMWr2FZ5bA2zqUwEumYeh//ci8uy4+KurUsUGk8qjI89NdkDBg8r3bMaf31a7sWkikaO5XoTFVU7SK8TfjekF65tLR4bh4q+Wy5R6ZEEoa+BA5dCVHsZ2ll89j42NiLXlMA/Kgx+ppciLjnWyOEEmR4u6TMnWKQ76UGVyViABfLHMOx021En9NAh0ZOGKKa0OXJK6Eib0jx+4W6oBO9XXuzMtzdX/sddQpu3j3tDXfHA6LgP3I1E+Bl8hQUJD0YSEdodBMv886mp+eit/9eQurI1SEiiOITVfGTNyPIh/r513vryFEGtZoNwR9FocVS72ezheeEsG9enLnLmTBW3OffXuRm0lEXyo8d8xgwbg5EfVY23IhpOy2L8Q==;ckinSTSJ7cjEVVYX3sxYuw=="
+secured: "jCnM/AH+4JesR94O6zk/61ka0IPJTJ+ruhjA0tEq5dyTAVx+bmSPCOUyJwt7H1hTpStU+TMKPAlxvGUmhH8jdRILeDv3Iec2Z47VaJj4IUpN7XxfkZP9m3aTTWQyV3qvPS1tXNWpe4iYjEt3yYoumhCJ5Xmx5b5gXcZ3npHPeWabjyegb89ebS5RlaYSdlHVZzYzGOXuQ4luAIIQ4qGVsCXZpmu/txlO7yOVXxN/2TvZOigE7Bktxb89e6ab21laz9pwIroSc/qHcOpqPzrgi3nNoHAtw9yBB6ZtagZkKDZXvL0O57MA1abhxhKhRuEs9X2WalUBv3lP9U/05qXtKx9OTvEOG19V6lFnPZp4Pyd8NFFj5oIcsH+t7orBL2n4Z8KrAPpLg5L1BC4mh4Yd+/jM7MUzShQdf4X+slAx9bIbqFC5KYxChU8wHo0lZmLVLuUxaGB33JedDzxBKfStY7nMmLMi0LheICNoeSiFjx0V4e4RNq+TMiEswvPfD3ceXGNFyZvTzpLyDKg9Qpx1cg==;SZPAFQiG+UawpgfhyBD6Jw=="
 ---
 

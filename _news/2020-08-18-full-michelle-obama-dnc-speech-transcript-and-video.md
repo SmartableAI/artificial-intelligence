@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.amp.html"
 type: article
 quality: 74
-heat: 324
+heat: 334
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fa79067-14b5-4f80-a84f-b91be86aa96f/6662dee7-74d1-42d0-a0b1-46be7c1e818b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Michelle Obama’s DNC Speech Hid A Secret Lesson For Every Leader (And It’s Only 13-Sentences Long)"
+    excerpt: "Michelle Obama’s speech on the opening night of the Democratic National ... the ability to walk in someone else's shoes, the recognition that someone else's experience has value, too. Most of us practice this without a second thought."
+    publishedDateTime: 2020-08-20T13:54:00Z
+    webUrl: "https://www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/"
+    ampWebUrl: "https://www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3e7b6012c4c78778bb3bfe%2F0x0.jpg"
+        width: 1200
+        height: 792
         isCached: true
   - title: "Trump hits back at Michelle Obama after searing DNC speech, says he 'would not be here' if not for Obama"
     excerpt: "MICHELLE OBAMA, IN DNC SPEECH, RIPS TRUMP WHITE HOUSE FOR 'CHAOS' AND 'LACK ... \"The ability to walk in someone else's shoes. The recognition that someone else's experience has values too,\" she said. \"Most of us practice this without a second thought.”"
