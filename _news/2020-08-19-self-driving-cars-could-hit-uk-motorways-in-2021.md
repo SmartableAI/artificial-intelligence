@@ -131,6 +131,22 @@ related:
         width: 579
         height: 466
         isCached: true
+  - title: "Suddenly self-driving cars are a step closer, writes RAY MASSEY"
+    excerpt: "Because, of course, relying on computers isn't always fail-safe. Two years ago, for instance, a woman was run over and killed by an Uber self-driving car in Arizona. Yet despite that tragedy — which the U.S. National Transportation Safety Board later ..."
+    publishedDateTime: 2020-08-20T00:03:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8645301/Suddenly-self-driving-cars-step-closer-writes-RAY-MASSEY.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8645301/amp/Suddenly-self-driving-cars-step-closer-writes-RAY-MASSEY.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8645301/amp/Suddenly-self-driving-cars-step-closer-writes-RAY-MASSEY.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 44
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/08/20/01/32156050-0-image-a-171_1597883504912.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "40 Miles Of Highway Turned Into Testing Ground For Self-Driving Cars In Michigan"
     excerpt: "The future is here, and it’s Google-funded. The state of Michigan in the United States has unveiled its plans to begin testing self-driving cars as part of its long-term initiative to improve public transport over the coming years."
     publishedDateTime: 2020-08-17T14:28:00Z
@@ -146,6 +162,20 @@ related:
       - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/08/selfdrivingCAVNUE.jpg&quality=70&width=808"
         width: 808
         height: 424
+        isCached: true
+  - title: "Wales Open 2020 tees up self-driving vehicle to shuttle golfers from clubhouse"
+    excerpt: "European Tour Pro Golfer Ross Fisher stands next to the Aurrigo x Vodafone Driverless Shuttle in Celtic Manor (Photo: Aurrigo/Vodafone) Some of the world’s best golfers will swap their buggies ..."
+    publishedDateTime: 2020-08-19T23:35:00Z
+    webUrl: "https://inews.co.uk/news/technology/wales-open-golf-tournament-self-driving-vehicle-583021"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 20
+    images:
+      - url: "https://i.inews.co.uk/content/uploads/2020/08/PRI_161652189.jpg"
+        width: 1654
+        height: 1010
         isCached: true
 
 secured: "LaKLme4wM+5DfMyxaa0Raf7ousumi08wlA1HPd9utSzrka5PaOkWNYE3/KXjh8w41QjE1ppqy/jVz7s7zkI1YVyE0LhJyMcaUncunfPyg7fnA+4s5CyLyhFolF0qvUJRc6yJNL28vTW8tHDZdfL5iAdFIq3jWvu2690PvvZLKMz/9K35PZNEJ/OyJnCKtNR0LXupzlV9BarhqSKyH74AWrnw4mTak+/+wFd/1ZLfM4sNoK/zQkkWEMr42Q1MZnQm/T57c8AEMG/eaBm905PzuAqnC5F7VMY5n1v0E5kput4tqoHb+V3rvSGwJqBA99r+hhTADTJw1+XltZnzg4Bfjw==;g5HNMnzjxdMBnCWG/rAW7A=="

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-r
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/08/18/823669.jpg"
         width: 1240
         height: 826
+        isCached: true
+  - title: "New report points to privacy, accuracy concerns with facial recognition technology"
+    excerpt: "WASHINGTON, D.C. — More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19. “The market is definitely growing,” said Alicia Puente Cackley, Director in the ..."
+    publishedDateTime: 2020-08-18T20:21:00Z
+    webUrl: "https://www.wpxi.com/news/washington-news-bureau/new-report-points-privacy-accuracy-concerns-with-facial-recognition-technology/QEWNWCGJAZD5ZJJU3UGHFFOUJM/"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 33
+    images:
+      - url: "https://www.wpxi.com/resizer/-nittaDLfS5Blfji2XXyH8wFsH4=/1200x628/d1hfln2sfez66z.cloudfront.net/08-18-2020/t_e409325f18a2475aaa8ef89c032632a0_name_https___www_whio_com__rw_Pub_p5_News965_2014_06_18_Images_photos_medleyphoto_5395453.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "268s/21ex39KIn9/QjmTmfd/hoOFAcr0oSPvn8RHKlqyMmCaOP5t3CjF8w5jMHsvxJfcg2E5N5VdG70cGIomikIrzhyqLqooh/QnN04oah95J6ltleG5Ie0RyfgYtdMyGWEwGncd/G7W0dMMYWZKFOLHooZKu3uQBpqrS2YggZKR1djkHDHtELgniay1DY4pVFVdY79fmwLwdDI8as46SlOJey1QFUk37WoMCBZ0Vqb4SBpncVKredNg7e35DvHY1oqG1XTNIy0FM6NSv5EbcTbKVMnOla2/iuWZTtq20WAVII32/CK3bnhzbdfhIfxjcspn/FxWZWBj+6g1cALVKTtws8sBk5U2xrWZYfKNhGYjLOQDx8AIAqj6CPq1Miv+s1Xej0RkBvLz9BPdOdRYqGjFYt92xxUWhH8jH3jzrM3Ms/2cH5NAZ89qh5W0vRWVLNDg6Dz9vDaWi3+FTtBE3Y0DkLUYHt5rjyaN8IlSwpKatAPy5RljZUtC+rVntjw5bOMyiQDFp1hoy/0RAAM67w==;Ge9Gropec9AcM0BWt7XG8Q=="

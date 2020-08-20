@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/</loc>
+    <lastmod>2020-08-19T18:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19</loc>
     <lastmod>2020-08-19T14:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -19,7 +25,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/sg/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai</loc>
+    <loc>https://www.techradar.com/au/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai</loc>
     <lastmod>2020-08-19T12:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -913,6 +919,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/large-provider-of-veterinary-products-selects-celebros-ai-search-to-power-their-ecommerce-search-experience-2020-08-12</loc>
+    <lastmod>2020-08-12T15:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.prnewswire.com/news-releases/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-301110499.html</loc>
     <lastmod>2020-08-12T13:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1195,6 +1207,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/08/g17029904/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries</loc>
+    <lastmod>2020-08-11T06:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8</loc>
     <lastmod>2020-08-11T06:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1203,12 +1221,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11</loc>
     <lastmod>2020-08-11T06:39:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries-1029492002</loc>
-    <lastmod>2020-08-11T06:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2071,7 +2083,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025-2020-08-05?dist=bigcharts&amp;tesla=y</loc>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025-2020-08-05</loc>
     <lastmod>2020-08-05T03:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

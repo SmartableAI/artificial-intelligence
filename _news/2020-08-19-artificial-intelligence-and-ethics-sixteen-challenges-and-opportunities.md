@@ -5,8 +5,8 @@ excerpt: "Artificial intelligence offers great opportunity, but it also brings p
 publishedDateTime: 2020-08-19T11:27:00Z
 webUrl: "https://www.scu.edu/ethics/all-about-ethics/artificial-intelligence-and-ethics-sixteen-challenges-and-opportunities/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.scu.edu/media/ethics-center/all-about-ethics/AI_Car-Image-360x225.jpg"

@@ -84,6 +84,47 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Controversial facial recognition tech firm Clearview AI inks deal with ICE"
+    excerpt: "The US Department of Homeland Security (DHS) has signed a contract with Clearview AI to give Immigration and Customs Enforcement (ICE) access to the controversial facial recognition firm's technology."
+    publishedDateTime: 2020-08-17T09:21:00Z
+    webUrl: "https://www.zdnet.com/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+  - title: "Global Facial Recognition Market Forecast 2019-2028"
+    excerpt: "KEY FINDINGS The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security,"
+    publishedDateTime: 2020-08-20T00:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-market-forecast-2019-2028-2020-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global facial recognition company working closely with NZ govt"
+    excerpt: "NEC itself is on the wrong side of a pushback against facial recognition in the US. There, three tech giants Amazon, IBM and Microsoft in June called a halt to supplying the tech to US police in a moratorium over brutality against black people. But NEC ..."
+    publishedDateTime: 2020-08-19T02:46:00Z
+    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/global-facial-recognition-company-working-closely-nz-govt"
+    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDglMkYxOSUyRmZhY2lhbC1yZWNvZ25pdGlvbg=="
+    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDglMkYxOSUyRmZhY2lhbC1yZWNvZ25pdGlvbg=="
+    type: article
+    provider:
+      name: TVNZ 1
+      domain: tvnz.co.nz
+    quality: 59
+    images:
+      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/08/19/iStock-1188510725.jpg?w=700&h=393.75&fit=crop&auto=format"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Victory for campaigners in face recognition case is ‘cautionary tale’"
     excerpt: "Organisations must absorb the lessons of verdict in South Wales Police case, when it comes to the use of AI and automation, argues HR director."
     publishedDateTime: 2020-08-19T07:54:00Z
@@ -157,6 +198,34 @@ related:
       - url: "https://www.futurity.org/wp/wp-content/uploads/2020/08/fawkes-facial-recognition_1600.jpg"
         width: 1600
         height: 915
+        isCached: true
+  - title: "QNAP QVR Face facial recognition solution for NVR and NAS"
+    excerpt: "Networking, and storage design and manufacturing company QNAP, as this week announced that its rackmount NAS models now support QVR Face, the QNAP"
+    publishedDateTime: 2020-08-17T11:02:00Z
+    webUrl: "https://www.geeky-gadgets.com/facial-recognition-17-08-2020/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/08/facial-recognition.jpg"
+        width: 700
+        height: 500
+        isCached: true
+  - title: "Global facial recognition company working closely with Government"
+    excerpt: "A major company at the centre of controversies over facial recognition technology in the US and UK is working closely with the Government. Tokyo-based NEC, which has resisted a Black Lives Matter-inspired ban in America, is updating passport systems here ..."
+    publishedDateTime: 2020-08-19T01:46:00Z
+    webUrl: "https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12357892"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 39
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/LPJS9sjmabN3rfygjtobjESobCE=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/NC7R4CQRM5F37CYKZHOTPN5HQE.jpg"
+        width: 1200
+        height: 750
         isCached: true
   - title: "Global Facial Recognition Market Forecast 2019-2028"
     excerpt: "The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security ..."

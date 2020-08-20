@@ -2,57 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-08-19-worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai.md",
-      "title": "World’s largest chip gets beefier: 850 thousand cores for AI",
-      "excerpt": "Announed at the Hot Chips 2020 conference, the new chip — which is as large as a single 300-mm wafer — packs over two times more transistors as well as a whopping number of AI-optimized cores. The Cerebras Wafer Scale Engine Generation 2 has a die size of approximately 46,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/J4gMaC6kRdNLhVRDjnqSNU-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
-      "publishedDateTime": "2020-08-19T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-08-19-the-sound-of-indias-ai-potential.md",
       "title": "The sound of India’s AI potential",
       "excerpt": "On August 15, India’s Independence Day, it’s customary to sing Jana Gana Mana: the Indian national anthem, originally composed by the poet Rabindranath Tagore and adopted as the anthem after India gained full independence.  This year, together with Prasar Bharati and Virtual Bharat, we offered Indians",
@@ -1415,6 +1364,47 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-26-deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions.md",
+      "title": "DeepMind’s Newest AI Programs Itself to Make All the Right Decisions",
+      "excerpt": "When Deep Blue defeated world chess champion Garry Kasparov in 1997, it may have seemed artificial intelligence had finally arrived. A computer had just taken down one of the top chess players of all time.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2020/07/26/deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/07/red-dice-black-background-probability.jpg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/07/26/deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/07/26/deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions/amp/",
+      "publishedDateTime": "2020-07-26T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     }
   ],

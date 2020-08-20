@@ -2,6 +2,97 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-07-25-why-the-complete-version-of-tesla-full-self-driving-will-take-longer-than-elon-musk-says-it-will.md",
+      "title": "Why the complete version of Tesla Full Self-Driving will take longer than Elon Musk says it will",
+      "excerpt": "Driving, or FSD, today for $8,000, but it's not feature complete. CNBC explores why the complete version of FSD has yet to be released.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104243259-GettyImages-609781368.jpg?v=1532563927",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html",
+      "publishedDateTime": "2020-07-25T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-25-uae-china-to-collaborate-on-fintech-ai-as-part-of-chinas-belt-and-road-initiative.md",
+      "title": "UAE, China to collaborate on fintech, AI as part of China's belt and road initiative",
+      "excerpt": "Dubai International Financial Centre has signed a memorandum of understanding with China’s Jiaozi Fintech Dreamworks as part of China’s belt and road economic initiative to co",
+      "sourceUrl": null,
+      "webUrl": "https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vid.alarabiya.net/images/2020/02/11/e79c4b09-e7dc-4d68-8c39-7489ad4704ae/e79c4b09-e7dc-4d68-8c39-7489ad4704ae_16x9_600x338.jpg?width=466",
+          "width": 466,
+          "height": 263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://english.alarabiya.net/en/amp/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative",
+      "cdnAmpWebUrl": "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative",
+      "publishedDateTime": "2020-07-25T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "العربية.نت",
+        "domain": "alarabiya.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-25-chemists-just-worked-out-how-to-recycle-some-of-our-toughest-single-use-plastics.md",
       "title": "Chemists Just Worked Out How to Recycle Some of Our Toughest Single-Use Plastics",
       "excerpt": "That could change with the help of new research into the chemical bonds ... of thermoset with this basic architecture,\" says chemist Jeremiah Johnson, from the Massachusetts Institute of ...",
@@ -1257,106 +1348,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-machine-learning-how-embeddings-make-complex-data-simple.md",
-      "title": "Machine learning: How embeddings make complex data simple",
-      "excerpt": "Working with non-numerical data can be tough, even for experienced data scientists. A typical machine learning model expects its features to be numbers, not words, emails, website pages ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/a1-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/amp/",
-      "publishedDateTime": "2020-07-23T23:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-us-artificial-intelligence-in-manufacturing-market-top-companies-microsoft-ibm-intel-siemens-aws.md",
-      "title": "US Artificial Intelligence In Manufacturing Market Top Companies: Microsoft, IBM, Intel, Siemens, AWS",
-      "excerpt": "Jul 24, 2020 (Market Insight Reports) -- The 'Artificial Intelligence in Manufacturing Market' research report provides a succinct analysis on the recent market trends. In addition, the report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/us-artificial-intelligence-in-manufacturing-market-top-companies-microsoft-ibm-intel-siemens-aws-2020-07-24",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-23T21:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

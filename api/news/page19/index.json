@@ -2,6 +2,106 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-08-02-baidu-completes-its-computer-for-self-driving-cars.md",
+      "title": "Baidu completes its computer for self-driving cars",
+      "excerpt": "The firm isn’t the only one working on self-driving computers. NVIDIA is quickly landing deals with GM, Toyota and others that could make it a powerhouse, for instance. However, Baidu might be the first to put a platform into real-world (albeit limited) use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/baidu-self-driving-car-computer-ready-081925160.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F7325be30-d435-11ea-bfb1-aefda5da57d0&client=amp-blogside-v2&signature=9f70eab165ef74f9f781ff7fef9669edcdb62fe8",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html",
+      "publishedDateTime": "2020-08-02T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market – Global Industry Analysis, Size, Share, Trends, and Latest Research Report, 2020-2025",
+      "excerpt": "The latest research report on Artificial Intelligence (AI) in Healthcare Market delivers a comprehensive study",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025-2020-08-01",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-01T15:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-01-former-ceo-of-artificial-intelligence-company-buys-historic-napa-valley-winery.md",
       "title": "Former CEO Of Artificial Intelligence Company Buys Historic Napa Valley Winery",
       "excerpt": "Padilla, who has been the CEO of an artificial intelligence (AI) company in France and has held other key positions in the telecommunications and financial investment world, decided to take the opportunity to buy the historic Napa Valley 26 acre Sullivan Rutherford Estate.",
@@ -1062,106 +1162,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-announcing-the-aws-deepcomposer-chartbusters-spin-the-model-challenge.md",
-      "title": "Announcing the AWS DeepComposer Chartbusters Spin the Model challenge",
-      "excerpt": "Whether your jam is reggae, hip-hop or electronic you can get creative and enter the latest AWS DeepComposer Chartbusters challenge! The Spin the Model challenge launches today and is open until August 23, 2020. AWS DeepComposer gives developers a creative way to get started with machine learning. Chartbusters",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/30/spin-the-model-025.jpg",
-          "width": 1000,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-31T11:35:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-probeat-slowing-aws-microsoft-azure-and-google-cloud-revenue-growth-is-a-good-thing.md",
-      "title": "ProBeat: Slowing AWS, Microsoft Azure, and Google Cloud revenue growth is a good thing",
-      "excerpt": "Amazon Web Services revenue slowed to 29%, Microsoft Azure revenue slowed to 47%, and Google Cloud revenue slowed to 43%. Blame the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/31/probeat-slowing-aws-microsoft-azure-and-google-cloud-revenue-growth-is-a-good-thing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/cloud-revenue-growth-q2-2020.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/31/probeat-slowing-aws-microsoft-azure-and-google-cloud-revenue-growth-is-a-good-thing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/31/probeat-slowing-aws-microsoft-azure-and-google-cloud-revenue-growth-is-a-good-thing/amp/",
-      "publishedDateTime": "2020-07-31T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 708
     height: 393
     isCached: true
+
+related:
+  - title: "Microsoft Azure Adds A100 GPU Instances for ‘Supercomputer-Class AI’ in the Cloud"
+    excerpt: "Microsoft Azure continues to infuse its cloud platform with HPC- and AI-directed technologies. Today the cloud services purveyor announced a new virtual machine family aimed at “supercomputer-class AI,” backed by Nvidia A100 Ampere GPUs, AMD Eypc Rome ..."
+    publishedDateTime: 2020-08-19T00:00:00Z
+    webUrl: "https://www.hpcwire.com/2020/08/19/microsoft-azure-adds-a100-gpu-instances/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 64
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/cloud-circuit-board-performance-computing-rwd-1536x864-1.jpg"
+        width: 1536
+        height: 864
+        isCached: true
 
 secured: "z8uNxrB6wnzDJx1rZMAz1jOpPehNh77qKYum4sRVEkSgBfBMoO8BVqeDpqToR4wBS8zTaqvkAfPT522cT/uJiGeJVS1MWQrCCnNfJnVTXIRwnIEV5fmKXWfftyL1Fb4Z6U26xVtWetvqKytAK/TdM9deNCnynVSqzKhdWP/CbhEnNc2t8AXxJn27l1MtglBEecyRmlgVUaMupls+snpCf/NCpyuvXyyEcUL/pDhQlzxteDHz5WVRCJ0kkPchBAvqa80p0s9Dew1OzgeyzfCFX8/ACClwjQzmbO/GbI3gDT+XrEML+QtJfyTgOZe7g22VBKW4o5DGaF4gWcLnKl1lA2LbVvdQUeRxrZGKcohrFqDgjsgPRttNCVpuU88bf61ngSbf/Cqb6Cd2WlJMvFcUZg6CBU1gL4KYUMs2dUhCiP4tdoyZfIrV6QCAI3C9otqf+aHgkycH0p8NHhFDIYzrC13a/hT4R3qsvYwh8NAn+KfYKVQOXYKSjZutJdQ2ntURLa3Ik9h17bzhb3LIkTSB4Q==;kATtxbc0D8dnAz4hnXYLkQ=="
 ---

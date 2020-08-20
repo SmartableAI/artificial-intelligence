@@ -147,6 +147,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Suddenly self-driving cars are a step closer, writes RAY MASSEY"
+    excerpt: "Because, of course, relying on computers isn't always fail-safe. Two years ago, for instance, a woman was run over and killed by an Uber self-driving car in Arizona. Yet despite that tragedy — which the U.S. National Transportation Safety Board later ..."
+    publishedDateTime: 2020-08-20T00:03:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8645301/Suddenly-self-driving-cars-step-closer-writes-RAY-MASSEY.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8645301/amp/Suddenly-self-driving-cars-step-closer-writes-RAY-MASSEY.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8645301/amp/Suddenly-self-driving-cars-step-closer-writes-RAY-MASSEY.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 44
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/08/20/01/32156050-0-image-a-171_1597883504912.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Wales Open 2020 tees up self-driving vehicle to shuttle golfers from clubhouse"
+    excerpt: "European Tour Pro Golfer Ross Fisher stands next to the Aurrigo x Vodafone Driverless Shuttle in Celtic Manor (Photo: Aurrigo/Vodafone) Some of the world’s best golfers will swap their buggies ..."
+    publishedDateTime: 2020-08-19T23:35:00Z
+    webUrl: "https://inews.co.uk/news/technology/wales-open-golf-tournament-self-driving-vehicle-583021"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 20
+    images:
+      - url: "https://i.inews.co.uk/content/uploads/2020/08/PRI_161652189.jpg"
+        width: 1654
+        height: 1010
+        isCached: true
 
 secured: "lcPFZXkoN7CUbfitcuYxADdOpwmOGPKUCN9m2Dz1lLd/whzlB9XRd2O7j+GCKyoZ0g+wy0feiJ/2RxbOyUKu6g+Gotr7xiI5bxoO9ziEsDiVVEgGqpE2twV3EaUqcB7sp95EZAD/BlHjkg/v8ryQ9W3yLmJMgja1O4Mz+pj7gqsDVJzVq7uVUc291DOyhvQUQi36ge1WfjlA729CR8CYDAkM/aBFdFASEFBwEdlwG1XHDOnYzTKPVjzhM+2YAAFAaG69w3VbTUkzmstogus5Y82/eyWOmZQEwMrFApFSdJg1U4Nl/Q6sqDXPIj360TgvG88Z8ykmv7rO8l1DgSYdPA==;DuMWtuar2/J+lXScwSLlZA=="
 ---

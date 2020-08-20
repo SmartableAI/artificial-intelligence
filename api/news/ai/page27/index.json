@@ -2,6 +2,97 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-07-22-increasing-engagement-with-personalized-online-sports-content.md",
+      "title": "Increasing engagement with personalized online sports content",
+      "excerpt": "This is a guest post by Mark Wood at Pulselive. In their own words, “Pulselive, based out of the UK, is the proud digital partner to some of the biggest names in sports.” At Pulselive, we create experiences sports fans can’t live without; whether that’s the official Cricket World Cup website or the English",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/increasing-engagement-with-personalized-online-sports-content/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/21/pulselive-2.jpg",
+          "width": 800,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T11:27:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-microsoft-canada-congratulates-the-winners-of-its-2020-impact-awards.md",
+      "title": "Microsoft Canada congratulates the winners of its 2020 IMPACT Awards",
+      "excerpt": "AI & Machine Learning IMPACT Award MediaValet, solved that problem. It automated the process by using Microsoft Azure Cognitive Services. By doing so, it dramatically reduced tagging time and improved asset discoverability for its customers. “We feel so ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/sponsored/microsoft-canada-congratulates-the-winners-of-its-2020-impact-awards",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/07/Digital-Transformation_Impact-Awards-Image.jpg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-retrievegan-ai-tool-combines-scene-fragments-to-create-new-images.md",
       "title": "RetrieveGAN AI tool combines scene fragments to create new images",
       "excerpt": "Researchers developed an AI system that takes scene descriptions and learns to select compatible image patches to create entirely new images.",
@@ -1236,88 +1327,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-modern-development-splice-machine-a-new-strategy-for-application-first-storage.md",
-      "title": "Modern development - Splice Machine: A new strategy for application-first storage",
-      "excerpt": "This contribution comes from Monte Zweben, CEO of Splice Machine — the company is known for its scale-out database built with Machine Learning (ML ... and MapR that were late to the cloud. AWS, Azure and GCP nearly eliminate the operational complexity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Modern-development-Splice-Machine-A-new-strategy-for-application-first-storage",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Modern-development-Splice-Machine-A-new-strategy-for-application-first-storage?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/Modern-development-Splice-Machine-A-new-strategy-for-application-first-storage?amp=1",
-      "publishedDateTime": "2020-07-22T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-tencent-and-chinese-scientists-use-deep-learning-to-predict-fatal-covid-19-cases.md",
-      "title": "Tencent and Chinese scientists use deep learning to predict fatal COVID-19 cases",
-      "excerpt": "Tech firms around the world are in an overdrive to help battle the coronavirus pandemic. Research showed that 6.5% of COVID-19 patients can suddenly progress to serious illness, and among them the mortality rate can be as high as 49%.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1209271729.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/",
-      "publishedDateTime": "2020-07-21T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

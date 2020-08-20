@@ -24,76 +24,97 @@ images:
     isCached: true
 
 related:
-  - title: "Controversial Face Recognition Firm Clearview AI Is Teaming Up With ICE"
-    excerpt: "In a pairing that has all the makings of a privacy and/or human rights nightmare waiting to happen, the dystopian facial recognition software maker Clearview AI secured an ongoing contract with U.S. Immigration and Customs Enforcement this week."
-    publishedDateTime: 2020-08-15T08:19:00Z
-    webUrl: "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876"
-    ampWebUrl: "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp"
+  - title: "Black Lives Matter Activist Hunted by NYPD Facial Recognition Technology"
+    excerpt: "\"We're being specifically targeted with this technology because of what we're protesting,\" Derrick Ingram said."
+    publishedDateTime: 2020-08-15T14:57:00Z
+    webUrl: "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335"
+    ampWebUrl: "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 104
+      name: Newsweek
+      domain: newsweek.com
+    quality: 88
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lvngekwv9r2xiehaguxj.jpg"
-        width: 800
-        height: 450
+      - url: "https://d.newsweek.com/en/full/1622897/derrick-ingram.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Controversial facial recognition tech firm Clearview AI inks deal with ICE"
-    excerpt: "The US Department of Homeland Security (DHS) has signed a contract with Clearview AI to give Immigration and Customs Enforcement (ICE) access to the controversial facial recognition firm's technology."
-    publishedDateTime: 2020-08-17T09:21:00Z
-    webUrl: "https://www.zdnet.com/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
+  - title: "Cops in Miami, NYC arrest protesters from facial recognition matches"
+    excerpt: "Law enforcement in several cities, including New York and Miami, have reportedly been using controversial facial recognition software to track down and arrest individuals who allegedly participated in criminal activity during Black Lives Matter protests months after the fact."
+    publishedDateTime: 2020-08-19T20:45:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/08/cops-in-miami-nyc-arrest-protesters-from-facial-recognition-matches/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-  - title: "Global facial recognition company working closely with NZ govt"
-    excerpt: "NEC itself is on the wrong side of a pushback against facial recognition in the US. There, three tech giants Amazon, IBM and Microsoft in June called a halt to supplying the tech to US police in a moratorium over brutality against black people. But NEC ..."
-    publishedDateTime: 2020-08-19T02:46:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/global-facial-recognition-company-working-closely-nz-govt"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDglMkYxOSUyRmZhY2lhbC1yZWNvZ25pdGlvbg=="
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDglMkYxOSUyRmZhY2lhbC1yZWNvZ25pdGlvbg=="
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-1238438366-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Miami Police Used Facial Recognition Technology in Protester's Arrest"
+    excerpt: "NBC 6 Investigators found a facial recognition program was used to identify a woman accused of throwing rocks at Miami Police officers during a protest on May 30."
+    publishedDateTime: 2020-08-17T22:15:00Z
+    webUrl: "https://www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/"
+    ampWebUrl: "https://www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/?amp"
+    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/?amp"
     type: article
     provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
+      name: NBC 6 South Florida
+      domain: nbcmiami.com
     quality: 59
     images:
-      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/08/19/iStock-1188510725.jpg?w=700&h=393.75&fit=crop&auto=format"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "QNAP QVR Face facial recognition solution for NVR and NAS"
-    excerpt: "Networking, and storage design and manufacturing company QNAP, as this week announced that its rackmount NAS models now support QVR Face, the QNAP"
-    publishedDateTime: 2020-08-17T11:02:00Z
-    webUrl: "https://www.geeky-gadgets.com/facial-recognition-17-08-2020/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/08/facial-recognition.jpg"
-        width: 700
-        height: 500
-        isCached: true
-  - title: "Global facial recognition company working closely with Government"
-    excerpt: "A major company at the centre of controversies over facial recognition technology in the US and UK is working closely with the Government. Tokyo-based NEC, which has resisted a Black Lives Matter-inspired ban in America, is updating passport systems here ..."
-    publishedDateTime: 2020-08-19T01:46:00Z
-    webUrl: "https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12357892"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 39
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/LPJS9sjmabN3rfygjtobjESobCE=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/NC7R4CQRM5F37CYKZHOTPN5HQE.jpg"
+      - url: "https://media.nbcmiami.com/2020/08/CLEARVIEW-UPDATE-PHOTO.png?fit=1200%2C662"
         width: 1200
-        height: 750
+        height: 662
+        isCached: true
+  - title: "De Blasio calls for ‘clear standards’ for facial recognition tech for NYPD"
+    excerpt: "Mayor Bill de Blasio called for “clear standards” for the NYPD when using facial recognition tech after officers were spotted using information from the department’s unit when"
+    publishedDateTime: 2020-08-17T08:14:00Z
+    webUrl: "https://nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/"
+    ampWebUrl: "https://nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/08/081120_Bill_de_Blasio_8A.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "De Blasio Will Reassess NYPD's Use Of Facial Recognition Tech After Protester Arrest"
+    excerpt: "Currently, the department’s Patrol Guide allows police to run facial recognition searches on anyone suspected of a crime or anyone who may have witnessed a crime."
+    publishedDateTime: 2020-08-17T18:08:00Z
+    webUrl: "https://gothamist.com/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
+    ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
+    cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
+    type: article
+    provider:
+      name: Gothamist
+      domain: gothamist.com
+    quality: 52
+    images:
+      - url: "https://cms.prod.nypr.digital/images/310236/original"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Convenience store boosts security with facial recognition technology"
+    excerpt: "For a start, the 24-hour convenience store has installed facial recognition technology on closed-circuit TV cameras at 100 of its 458 branches throughout the country, with an allocation of RM800,000."
+    publishedDateTime: 2020-08-18T00:46:00Z
+    webUrl: "https://www.thestar.com.my/metro/metro-news/2020/08/18/convenience-store-boosts-security-with-facial-recognition-technology"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/08/18/823669.jpg"
+        width: 1240
+        height: 826
         isCached: true
 
 secured: "AGBX7IXvFTTQN4XHwRgYCb0y9xkObKrhSwqcSJAoCYo+g6mkpKIF9jnNQaZhtED7z+tVbqL0XmHCvWp8dyD1sk6zrnTsPtM3wkVsl3gdknn/ZNIVOI5samHkw7VbSO0wn/UchyrWMHmtLIoWYcvW4SkJpFt6GUmrorqWDpCChzvwB1GmTSX8PdDWpCzqiZn1IWVPIiJLJ4dZfotkJmzF1GYvvDt6n9nE6O2GzcB5kPxwxpEJWAXAVgtutBzIWbnBmCTWRlVfyARjBsfRONXJwRzGJzE/p+Mp1WvCjyEcZaJqvnqSy3YoIhci8M5Tpn6sN7WMWZ1Q1J8XyUq5sVW/FHk5fPqQAuEnOPkKCaCrL1nfmXrRajF78fQQWNeoOoZzHd2tzIop+oc1tP0svHOlKuHzZaleJihvrnD3BOg7yyZjvhCbije6ald3WzJnQgJXWeKNKh1NB3iFFjiCvlFc6r8utT8Dxx+W3fNSHyX9AFimielL3n0ePz8IPyOLssyIe0xTyFOP7nlID40E+TJs7A==;Dzgcek1YZxiuhZaKjcCgLw=="

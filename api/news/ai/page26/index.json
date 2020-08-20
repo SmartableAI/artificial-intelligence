@@ -2,6 +2,105 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-07-23-stuffthatworks-raises-9-million-to-build-an-ai-powered-crowdsourced-medical-knowledge-platform.md",
+      "title": "StuffThatWorks raises $9 million to build an AI-powered, crowdsourced medical knowledge platform",
+      "excerpt": "StuffThatWorks, a startup leveraging AI, crowdsourcing, and machine learning to match patients with treatments, today closed a $9 million seed round. CEO Yael Elish says the proceeds will be used ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/23/stuffthatworks-raises-9-million-to-build-an-ai-powered-crowdsourced-medical-knowledge-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/the-patient-is-in-stuffthatworks-I7vtKVruFcP-dbH9wJ2Scrp.1400x1400-e1594919808858.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/23/stuffthatworks-raises-9-million-to-build-an-ai-powered-crowdsourced-medical-knowledge-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/stuffthatworks-raises-9-million-to-build-an-ai-powered-crowdsourced-medical-knowledge-platform/amp/",
+      "publishedDateTime": "2020-07-23T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-dynatrace-announces-enhanced-ai-powered-observability-for-microsoft-azure.md",
+      "title": "Dynatrace Announces Enhanced AI-powered Observability for Microsoft Azure",
+      "excerpt": "Software intelligence company Dynatrace (NYSE: DT), announced today the extension of its Software Intelligence Platform to automatically ingest metrics",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/dynatrace-announces-enhanced-ai-powered-observability-for-microsoft-azure-2020-07-21-81591442",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-23T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-technological-advancement-and-growth-analysis-to-2026.md",
       "title": "Artificial Intelligence And Robotics In Aerospace And Defense Market Technological Advancement and Growth Analysis to 2026",
       "excerpt": "The Global Artificial Intelligence And Robotics In Aerospace And Defense Market Research Report 2020-2026 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic ...",
@@ -1322,97 +1421,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-increasing-engagement-with-personalized-online-sports-content.md",
-      "title": "Increasing engagement with personalized online sports content",
-      "excerpt": "This is a guest post by Mark Wood at Pulselive. In their own words, “Pulselive, based out of the UK, is the proud digital partner to some of the biggest names in sports.” At Pulselive, we create experiences sports fans can’t live without; whether that’s the official Cricket World Cup website or the English",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/increasing-engagement-with-personalized-online-sports-content/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/21/pulselive-2.jpg",
-          "width": 800,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T11:27:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-microsoft-canada-congratulates-the-winners-of-its-2020-impact-awards.md",
-      "title": "Microsoft Canada congratulates the winners of its 2020 IMPACT Awards",
-      "excerpt": "AI & Machine Learning IMPACT Award MediaValet, solved that problem. It automated the process by using Microsoft Azure Cognitive Services. By doing so, it dramatically reduced tagging time and improved asset discoverability for its customers. “We feel so ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/sponsored/microsoft-canada-congratulates-the-winners-of-its-2020-impact-awards",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/07/Digital-Transformation_Impact-Awards-Image.jpg",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

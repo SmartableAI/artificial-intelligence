@@ -102,6 +102,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "New report points to privacy, accuracy concerns with facial recognition technology"
+    excerpt: "WASHINGTON, D.C. — More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19. “The market is definitely growing,” said Alicia Puente Cackley, Director in the ..."
+    publishedDateTime: 2020-08-18T20:21:00Z
+    webUrl: "https://www.wpxi.com/news/washington-news-bureau/new-report-points-privacy-accuracy-concerns-with-facial-recognition-technology/QEWNWCGJAZD5ZJJU3UGHFFOUJM/"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 33
+    images:
+      - url: "https://www.wpxi.com/resizer/-nittaDLfS5Blfji2XXyH8wFsH4=/1200x628/d1hfln2sfez66z.cloudfront.net/08-18-2020/t_e409325f18a2475aaa8ef89c032632a0_name_https___www_whio_com__rw_Pub_p5_News965_2014_06_18_Images_photos_medleyphoto_5395453.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "wwnbGw2NEaAqVZjkNLN7zdpKCqf3hsKzelh9gKop1VmpTlMienflEXz5cz13lxTi20lUKzWLKdwPuSpOm/NLEXAmq/M0rEwzcsNE/lOm/DoS7ZWMyjYv8SwrDmzBXrLUvXAc59KoEAlNVIbotkWQND54tfp9JJqK7XXip7kiJMGYEOYNQTk/wS0aF3WwH3mCu/T62/fkX1HAwrx3zA3/IzNN6yhdS2UGUykbTNMveVYVTEt+bZZDYFab2xUyrkykpmNYALUMzdYGLEoJcmWspMSPwDc6v8rUOEqduQCOhk2hWnDvQBk4twIqN9Wm+FTO2DK+3hRKeO2WpjnhAvazcHL87+/ol537ZLisrs6k3P9pstQTGV9sFrhEF+1QtWMTxE3sXyOkcWxTEfYfYwm9mXhHpDFfcE35s1tDk6p10rM54W6VaoztZ3YgAu6Ux9oymyXDbahwcofxBdowPdmht/stOatxxChf0bYKW09fqwRYGSsrw6uGpx+FTQAZekhkFY9OTAdPTtBmsjhn5hqsFA==;4odTwv7bov/ZzWYcPemb3Q=="
 ---
