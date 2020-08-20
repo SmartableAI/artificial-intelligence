@@ -167,6 +167,22 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "Who thought it was a good idea to have facial recognition software?"
+    excerpt: "It’s about time someone asked that question about facial recognition software. It would oblige the developers and users of the technology to explain exactly why they think it’"
+    publishedDateTime: 2020-08-20T13:45:00Z
+    webUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/"
+    ampWebUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/amp/"
+    type: article
+    provider:
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 59
+    images:
+      - url: "https://www.brookings.edu/wp-content/uploads/2020/08/Facial-recognition-technology-cameras.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "Brain Relies on Face Recognition Systems to Perceive Faces"
     excerpt: "just like computer face recognition systems such as those used by Facebook and Google,\" explains co-author Brad Duchaine, a professor of psychological and brain sciences and the principal investigator of the Social Perception Lab at Dartmouth College."
     publishedDateTime: 2020-08-18T10:30:00Z
@@ -337,6 +353,6 @@ related:
         height: 616
         isCached: true
 
-secured: "qzLhm/GwUI5TEsnJ4gKIx7Al31wnpIFP2OrXt3yTIB/O3AfkvtLccLZAEGdkYtbrydS192GarrMc/DWDwhzyJI7Igz5p4ufxzGcspLMNqJma1c51B2D094HA4Qgtf2lj+oDvn8YHet4io7SNC8+p8fYWzUHhHlzlgFqSgSIuQJ2A2VBPFcKxtt0Nh3Qqcf+VfuqIIQTJrmsz3vutUUvhEMz1YRpcAqf1QFihLTDd2PLEbJtJZu0zBd6AHwdSIq/h5r2GykdYdR7+kKuEj47cFFUdprMOgSiKmerIyPuAOYO1tne2oqN2Y3ILJNcCUl9i/65qO5BfeqTyhjGh4ymJvA==;5HsPdgVrRcpBUV2czKLLmg=="
+secured: "Xu4w5FNwlThLAp0Jex91ne6eAVmu6ECYNtYxXQdV/nqqilXXlNH+SqMZyRrorSJCHgbcEq4BB/Pl5XjUDLpOBV66etVC6BTJ5Y6+q9qolfRC7J/wzrfzwyfKlZscGCmcJlCUP3uDNMVUb6afSom4wqKi5Zgg3Gjm34hnwmEjNIqd+OmUj0yP9qEGmkFHTvbfrfssucOe5aap8upmrl6uEOMC3OQSNQQd6zz0nOAiMDKWI4MZYpxBVfh5kVb+ADF1wzj4r3lRWu+feltD6fN8gf5YhYz3cc/cN3exrzPh4y8D6l/Ze7SgoRwp5R9rhxUCYqdhFTRj0RJZyrku0eUgnkx4fAVdo3rZmvhwnRXIrlgnYizFwVs19P2mMvoneV8LdyZUNl5pGjnjWahAQ0e5+DS2jAybwLCqNVuVQ06FwDJw4Bp7xVgp2Dx1iqvFi9QlXlkGZRIvEQF3vdqn7GcAR1R0wPayKBMP9+LcwKZ1nV+4g1TyAg8xcxux71FOnHCnGpfF43heD6ZGZFcrUWgJXg==;ZjJQb9U1SLOdU/GWzzN8Uw=="
 ---
 

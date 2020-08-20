@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-18T13:52:00Z
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-report-2020-global-industry-analysis-by-trends-revenue-share-revenue-and-forecast-to-2026-2020-08-17"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -28,19 +28,33 @@ images:
     isCached: true
 
 related:
-  - title: "Global Conversational AI Market Worth $13.9 Billion by 2025 - Revenues/Shares by Component, Type, Technology, Application, Deployment Mode, Vertical and Region ..."
-    excerpt: "The \"Conversational AI Market by Component (Platform and Services), Type (IVA and Chatbots), Technology (ML and Deep Learning, NLP, and ASR), Application, Deployment Mode (Cloud and On-premises), Vertical,"
-    publishedDateTime: 2020-08-17T10:45:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200817005260/en/Global-Conversational-AI-Market-Worth-13.9-Billion"
+  - title: "Global Service Robotics Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026"
+    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
+    publishedDateTime: 2020-08-20T15:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-service-robotics-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2020-08-20"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: "https://mms.businesswire.com/media/20200817005260/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
+        isCached: true
+  - title: "Global Natural Language Processing Market Latest Industry Trends, Future Growth, Market Share, Revenue, Size and 2026 Forecast Research Report"
+    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
+    publishedDateTime: 2020-08-20T15:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-market-latest-industry-trends-future-growth-market-share-revenue-size-and-2026-forecast-research-report-2020-08-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "9cozRD5RbqIN/vWYmtayZLc26jrgTZVe2IUt0UyKtJ12VcmeNYcxZSxYM2acS/IQZ1wwOxrGYQeVedUjNTatGYLUbavfIz64GIj8DJSi/MdYNaJeTIf9jsoCzwndsWVxIJBDfY4/YSTy4yk7KKHo5fEFy+9oiBoA+u53P4Z46EGHFbuZBULi/jBGpwqUTdohB8AqlDo3LmHNsw1n4K2qVgoYB+xrEhApURmvzENinpXfSIchW0RHKDK0Su11K5YqAHi5HcBXcEGB5RAczb1c6EbgWwmNOC2nefArNU71CGO8BG3hQiNdsCetm5euVrpxiTil5UKwfPVMwFf+iDW9pg==;3lpr0OIGEwvqrZOgfOxCwQ=="

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-18/facial-recogn
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
 type: article
 quality: 89
-heat: 299
+heat: 309
 published: true
 
 provider:
@@ -157,6 +157,22 @@ related:
     webUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/"
     ampWebUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/amp/"
     cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/amp/"
+    type: article
+    provider:
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 59
+    images:
+      - url: "https://www.brookings.edu/wp-content/uploads/2020/08/Facial-recognition-technology-cameras.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
+  - title: "Who thought it was a good idea to have facial recognition software?"
+    excerpt: "It’s about time someone asked that question about facial recognition software. It would oblige the developers and users of the technology to explain exactly why they think it’"
+    publishedDateTime: 2020-08-20T13:45:00Z
+    webUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/"
+    ampWebUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/amp/"
     type: article
     provider:
       name: Brookings Institution

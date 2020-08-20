@@ -163,6 +163,22 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "Who thought it was a good idea to have facial recognition software?"
+    excerpt: "It’s about time someone asked that question about facial recognition software. It would oblige the developers and users of the technology to explain exactly why they think it’"
+    publishedDateTime: 2020-08-20T13:45:00Z
+    webUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/"
+    ampWebUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/amp/"
+    type: article
+    provider:
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 59
+    images:
+      - url: "https://www.brookings.edu/wp-content/uploads/2020/08/Facial-recognition-technology-cameras.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "Brain Relies on Face Recognition Systems to Perceive Faces"
     excerpt: "just like computer face recognition systems such as those used by Facebook and Google,\" explains co-author Brad Duchaine, a professor of psychological and brain sciences and the principal investigator of the Social Perception Lab at Dartmouth College."
     publishedDateTime: 2020-08-18T10:30:00Z

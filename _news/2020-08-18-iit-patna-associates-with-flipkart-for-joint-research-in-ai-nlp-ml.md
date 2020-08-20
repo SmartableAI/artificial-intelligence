@@ -72,6 +72,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Flipkart enters into academic collaboration with IIT Patna"
+    excerpt: "The MoU of Flipkart with IIT Patna will focus on applied research in the areas of Artificial Intelligence (AI), Natural Language ... largely on machine translation of languages."
+    publishedDateTime: 2020-08-18T10:15:00Z
+    webUrl: "https://yourstory.com/2020/08/flipkart-academic-collaboration-iit-patna-machine-learning-translation"
+    ampWebUrl: "https://yourstory.com/2020/08/flipkart-academic-collaboration-iit-patna-machine-learning-translation/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/flipkart-academic-collaboration-iit-patna-machine-learning-translation/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/flipkart-data-1597743133342.png?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
   - title: "IIT Patna, Flipkart partner for joint research in AI and ML"
     excerpt: "The e-commerce platform expects to foster an environment of collaboration in the areas of automation, AI, NLP and ML ... the Indian vernacular languages, according to the Institute. \"And at the same time will ensure that the translation process should ..."
     publishedDateTime: 2020-08-19T00:14:00Z

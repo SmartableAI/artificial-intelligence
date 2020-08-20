@@ -23,19 +23,19 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Technology Market Size Report 2020 Global Industry Analysis by Trends, Revenue, Share, Revenue and Forecast to 2026"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Technology Market” research report offers the breakdown of the industry by market size, rate of development,"
-    publishedDateTime: 2020-08-18T13:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-report-2020-global-industry-analysis-by-trends-revenue-share-revenue-and-forecast-to-2026-2020-08-17"
+  - title: "Global AI in Healthcare Market Worth $99,491.58 million by 2027 - Analysis by Offering, Application, End-user, Algorithm and Region"
+    excerpt: "Global AI in Healthcare Market Worth 9949158 million by 2027 ndash Analysis by Offering Application End-user Algorithm and Region"
+    publishedDateTime: 2020-08-19T15:49:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266140921/global-ai-in-healthcare-market-worth-9949158-million-by-2027---analysis-by-offering-application-end-user-algorithm-and-region"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.bignewsnetwork.com/cus1597838421142.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "Bbw4I3MSaFZBjLvft67pVBCec+B0hiLejdy2t8JzerKYRyoAajfnejc9jODkeMfgdr561BVUrOmOjq0v/KHjvMLK26ibP+X4SbcG76B9fvjuqD5OXT2TPIagj6aHEPo1Hdfx19ap8sN3Oa6DE2uaaREk8tRJtoAmy2i+1F2Xs4lE12T4H8MRvId9Ne8N5LgXR2CT3s8N7UcdauWo3Wp8kDne6PVkU4MoE3WGGG8wc89fnppXZChEAkYBatSNmAOdcA0Vzt1MO56E8xhMcliH1NEBUvlhWXeWXH+0Zs4KYJJOivHPlKfnBN+o5sTcEnNSHmueV5WCqx8dacmg5KuLkQ==;fPQbiSybMTskWXX/FyOidA=="

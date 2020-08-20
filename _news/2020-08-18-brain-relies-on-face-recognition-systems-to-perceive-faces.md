@@ -173,6 +173,22 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "Who thought it was a good idea to have facial recognition software?"
+    excerpt: "It’s about time someone asked that question about facial recognition software. It would oblige the developers and users of the technology to explain exactly why they think it’"
+    publishedDateTime: 2020-08-20T13:45:00Z
+    webUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/"
+    ampWebUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/amp/"
+    type: article
+    provider:
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 59
+    images:
+      - url: "https://www.brookings.edu/wp-content/uploads/2020/08/Facial-recognition-technology-cameras.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "Victory for campaigners in face recognition case is ‘cautionary tale’"
     excerpt: "Organisations must absorb the lessons of verdict in South Wales Police case, when it comes to the use of AI and automation, argues HR director."
     publishedDateTime: 2020-08-19T07:54:00Z

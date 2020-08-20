@@ -8,7 +8,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/flipkart-signs-pact-with-i
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/lite/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://images.livemint.com/img/2020/08/18/600x338/oped1-kC7G--621x414@LiveMint_1597733354727.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Flipkart enters into academic collaboration with IIT Patna"
+    excerpt: "The MoU of Flipkart with IIT Patna will focus on applied research in the areas of Artificial Intelligence (AI), Natural Language ... largely on machine translation of languages."
+    publishedDateTime: 2020-08-18T10:15:00Z
+    webUrl: "https://yourstory.com/2020/08/flipkart-academic-collaboration-iit-patna-machine-learning-translation"
+    ampWebUrl: "https://yourstory.com/2020/08/flipkart-academic-collaboration-iit-patna-machine-learning-translation/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/flipkart-academic-collaboration-iit-patna-machine-learning-translation/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/flipkart-data-1597743133342.png?fm=png&auto=format"
+        width: 800
+        height: 400
         isCached: true
   - title: "IIT Patna Associates with Flipkart for Joint Research in AI, NLP & ML"
     excerpt: "World’s most renowned e-Commerce major Flipkart announced an MoU with IIT Patna to help create industry focused applied research in the areas of Artificial Intelligence (AI), Natural Language Processing ... robust machine translation techniques for ..."

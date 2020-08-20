@@ -129,16 +129,16 @@ related:
   - title: "Read, watch Kamala Harris' acceptance speech from the Democratic National Convention"
     excerpt: "California Sen. Kamala Harris gave her vice presidential nomination acceptance speech on the third night of the 2020 Democratic National Convention."
     publishedDateTime: 2020-08-20T08:41:00Z
-    webUrl: "https://www.ksdk.com/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
-    ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
-    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
+    webUrl: "https://www.khou.com/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
     type: article
     provider:
-      name: KSDK
-      domain: ksdk.com
+      name: KHOU 11
+      domain: khou.com
     quality: 37
     images:
-      - url: "https://media.ksdk.com/assets/CCT/images/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80_750x422.jpg"
+      - url: "https://media.khou.com/assets/CCT/images/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80_750x422.jpg"
         width: 750
         height: 422
         isCached: true

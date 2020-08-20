@@ -5,7 +5,7 @@ excerpt: "The photonic processor runs PyTorch, TensorFlow and other standard mac
 publishedDateTime: 2020-08-18T00:01:00Z
 webUrl: "https://www.hpcwire.com/2020/08/18/photonics-processor-aimed-at-ai-inference/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/LightMatter_board-crop_800x.jpg"

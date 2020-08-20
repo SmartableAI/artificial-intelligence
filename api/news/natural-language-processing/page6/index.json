@@ -2,6 +2,156 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-30-boris-johnson-economy-speech-fact-checked.md",
+      "title": "Boris Johnson: Economy speech fact-checked",
+      "excerpt": "Boris Johnson compared his plan with former US President Franklin Delano Roosevelt's New Deal. Reality Check has taken a closer look at some of the announcements: Boris Johnson said: \"It sounds like a New",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/53236921",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/85D0/production/_113165243_0c060e20-65f6-43bc-baf1-ece77fcc1a24.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Boris Johnson: Economy speech fact-checked",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/53236921",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/53236921",
+      "publishedDateTime": "2020-06-30T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-singapore-hyperlocal-ai-startup-snags-7m-in-series-a.md",
+      "title": "Singapore 'hyperlocal' AI startup snags $7M in Series A",
+      "excerpt": "NextBillion.ai secures $7 million in its Series A round and plans to use the funds to expand its team and boost product and research development, which focuses on customised \"hyperlocal\" artificial intelligence-powered applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-hyperlocal-ai-startup-snags-7m-in-series-a/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/08/15/3865d5a7-ceeb-4bd0-b6bf-f531d5aa6638/thumbnail/1200x675/47f51ee7827b80c38dbb69764b1247c0/iotsecurity.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Singapore 'hyperlocal' AI startup snags $7M in Series A",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-hyperlocal-ai-startup-snags-7m-in-series-a/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-hyperlocal-ai-startup-snags-7m-in-series-a/",
+      "publishedDateTime": "2020-06-29T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-the-3-weeks-that-changed-everything.md",
+      "title": "The 3 Weeks That Changed Everything",
+      "excerpt": "Imagine if the National Transportation Safety Board investigated America’s response to the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/politics/archive/2020/06/how-white-house-coronavirus-response-went-wrong/613591/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/c7zPQiFShImvsFvzoeKHqUhwbLA=/570x321/filters:format(png)/media/img/mt/2020/06/Atlantic_NTSB_v2/original.png",
+          "width": 570,
+          "height": 321,
+          "title": "The 3 Weeks That Changed Everything",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/613591/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/613591/",
+      "publishedDateTime": "2020-06-29T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-28-machines-that-can-understand-human-speech-the-conversational-pattern-of-ai.md",
       "title": "Machines That Can Understand Human Speech: The Conversational Pattern Of AI",
       "excerpt": "Conversation and human language is a particularly challenging area for computers, since words and communication is not precise. Learn more about the conversational pattern of AI.",
@@ -1211,108 +1361,7 @@
         "Natural Language Processing",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2020-06-19-global-voice-recognition-market-to-reach-usd-1605-billion-by-2027.md",
-      "title": "Global Voice recognition Market to reach USD 160.5 billion by 2027",
-      "excerpt": "Bizwit Research & Consulting LLP's Recent Analysis on Global Voice recognition Market is poised to raise up to USD 160.5 billion by 2027. The Voice recognition market has been on the surging trend on the global scenario.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-voice-recognition-market-to-reach-usd-1605-billion-by-2027-2020-06-19",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Voice recognition Market to reach USD 160.5 billion by 2027",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-19T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-everything-you-need-to-know-about-recurrent-neural-networks.md",
-      "title": "Everything you need to know about recurrent neural networks",
-      "excerpt": "The human mind has different mechanisms for processing individual pieces of information and sequences. For instance, we have a definition of the word “like.” But we also know that how “like” is used in a sentence depends on the words that come before and after it.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/06/18/everything-you-need-to-know-about-recurrent-neural-networks/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/1-copy-4-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Everything you need to know about recurrent neural networks",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/18/everything-you-need-to-know-about-recurrent-neural-networks/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/18/everything-you-need-to-know-about-recurrent-neural-networks/amp/",
-      "publishedDateTime": "2020-06-18T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 7
 }

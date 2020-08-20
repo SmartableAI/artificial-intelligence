@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startup
 ampWebUrl: "https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1155413889.jpg?w=1024"
@@ -28,6 +29,6 @@ images:
     height: 683
     isCached: true
 
-secured: "R64mlip89t2dsfZAc3ZHjob9/ctm1MnbITKRJdIL6Nk8jyIG/HGPtGB6kYxldmQtsJshN+zyE25no49TWJgi62Bv60lFlH8QkLh2Rd2T+Uhjn+KJcxErBMpGNDYzwJ2O5BRD20sPr2xDdHAC/i4qDn6mTODDdcDK0vXBI2paqIsnfCk8KYOnbt3w9t+C0aLi6HlUNppNLpMd7b/5K60afrhi/atguJ+pOJhddYQE8qEZWOa5t92PnPAOFbo3YjpHlJunFjrQCSRdXMDDxqm+3NvTLwqB/Xkg6CsOpa2q9ZNRZO0ZpTMM+RZiLcCU/zwBkPjfREbqGAkRaqHRCenBow==;nYr4+nx4yxj1gXVudpuBwg=="
+secured: "c2KEAp6xZ0z41XeaTulCm2TugUVmbC+FV/hoKtn/FrQHKL3k1tx9j4ZCIuXI9gc91XT2ZZp7eSPwh+E8vF1hLNvkMElEvj5ydeBdvibR9/EJ0XqbL7OhoEfRppbUPuCjQtjDv0shbNEOqLGChPz5v/xPuT59fI1+zRLNL0dyiwdP8/QwIuS/Fg805TJsvywPoyCrq4bscc9JQN3EXr48wsxZcuXdLRvUudun63BkX0wlUgh1Q8DbwC6nJkMVVAT1+Xm93U02U+caKBmKxAfuzeU1DCJXdvonE8bnPg5X+w9Lel9v/MndSnoahs+cv1U5b5MZ71d52lvSnN54AG/Yi32WBLxZg7O4azqaVbvNuj+VIOR8x4ZYU8esHXy02YOufSwIfNIGmfJMGS+8EpPzzBPoFqwGaRkLxN6qr1wCcpBFnMtkqFa8zLzoxShijV2CgbNV7LZFmAD/yIaWajZQBsvGyg2GSeIGgTyQyWnSgwiUPNA2j98+PpXj/vZSNQNzatYYx4eLMWnfzJkYEa84eg==;LJrFMUH6NstF/s0UguEGCA=="
 ---
 
