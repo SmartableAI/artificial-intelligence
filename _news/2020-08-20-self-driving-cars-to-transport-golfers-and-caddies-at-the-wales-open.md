@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,36 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Wales Open 2020 to feature self-driving vehicles to shuttle golfers"
+    excerpt: "Golfers participating in the Wales Open 2020 this week will be among the first sportspeople to be shuttled around in autonomous cars. Used in place of buggies, the shuttles will be able to run three golfers and their caddies at a time from the Twenty Ten Club House at the Celtic Manor near Newport to the first tee,"
+    publishedDateTime: 2020-08-20T11:39:00Z
+    webUrl: "https://www.shropshirestar.com/news/motors/2020/08/20/wales-open-2020-to-feature-self-driving-vehicles-to-shuttle-golfers/"
+    type: article
+    provider:
+      name: Shropshire Star
+      domain: shropshirestar.com
+    quality: 24
+    images:
+      - url: "https://www.shropshirestar.com/resizer/MoqecRx7CCy_LbUju-Hviu-AsHY=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/shropshirestar.mna/AQROZUGT35ATDOCNLVSFQW3BDQ.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Wales Open 2020 tees up self-driving vehicle to shuttle golfers from clubhouse"
+    excerpt: "European Tour Pro Golfer Ross Fisher stands next to the Aurrigo x Vodafone Driverless Shuttle in Celtic Manor (Photo: Aurrigo/Vodafone) Some of the world’s best golfers will swap their buggies ..."
+    publishedDateTime: 2020-08-19T23:35:00Z
+    webUrl: "https://inews.co.uk/news/technology/wales-open-golf-tournament-self-driving-vehicle-583021"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 20
+    images:
+      - url: "https://i.inews.co.uk/content/uploads/2020/08/PRI_161652189.jpg"
+        width: 1654
+        height: 1010
+        isCached: true
 
 secured: "2IIhTZGbeRPdSrGnxSTQ5lBvvietlW55m8U2UIFW31IbGkqS43D+OwgsWfVIIuStiGuEZbMFXgPmkC2F2b26X/qIXF/2cMfdv8gqZCTESDIT/dQd0PHzeEuQPGG61FzuUNvv8UpsuLXHAov8KXGV9emAHsO1/svw5FFPLTNkWXbN6Xu8gAZflOCys2IBVNNF7JAAUnit4G4PjfZ8Bd1CDN+f2F+3ZvUVVoRpg3wx2KAYYBxJNQ6pM5lAhuxDlkc2IfdYJYFLKldj0HD8bMAwBa8sKhBx6XqRBhwzum5NTASaxke0RsK999w5Oyp+fhPGTxLHd1weTn3J1RJQJZx3VOkriR5YpdJkJB5gOJle5PF8TVq4D2+z9D/ZT90zKoQl3IScfFzWzwa515LrgmMrAUk2WgyQL33YlQqLYkORUm8uTgp/mZF8kZhu+5ro3bhO7NN0AMWPU50pjEDC7F3JU4AZMKGWWxZ6VNf+3kEoGpS7VLDi2noLEGcWn92QxqjuvckwrkJOqee2rh4oBYyjNA==;ZH2JUhiD4G699ucN1c/E6w=="
 ---

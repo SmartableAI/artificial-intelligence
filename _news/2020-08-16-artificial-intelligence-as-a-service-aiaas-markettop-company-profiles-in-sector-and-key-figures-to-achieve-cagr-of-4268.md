@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Manufacturing Market Likely to Grow at a 57.5 CAGR and projected to grow for estimate of USD 1 billion in 2019"
+    excerpt: "The global Artificial Intelligence in Manufacturing market is anticipated to garner a revenue of $USD 1 billion"
+    publishedDateTime: 2020-08-20T16:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-manufacturing-market-likely-to-grow-at-a-575-cagr-and-projected-to-grow-for-estimate-of-usd-1-billion-in-2019-2020-08-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MTt6IVSndQDx4xMNOVECNoru0sP5BVX0EAwPEwjkyLvNAxH7UeLkFFX1PT1x/GBIo9I44sragvoQbDpLNF57tEazG6wwtbZmWnW/NcE0gZKZPPcDITC8tAPVsUDdstMXmczTyIzIEfM4wLEi/qGyosYoJRY3plYeEwXo9MwEGCWVWpRSHENsSclbIGn8+52BHZt++g2GQyRGDuwC6XFh6TBW+MHA4qc2XCKrKEEi8i3duzqU0i1tes6oYpgTseCdrFHNNCkUaO2avQLLu8FDr477VqmKoGomHKjA73AOpuZFHyutgFhlUJAenimEIbKYUdOvUkNFsm1zi56666FFQg==;jrHJ/irJVhaOh8OUXmQ3Fw=="
 ---

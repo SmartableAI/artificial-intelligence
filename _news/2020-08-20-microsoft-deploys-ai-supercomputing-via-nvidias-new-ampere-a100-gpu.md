@@ -5,7 +5,7 @@ excerpt: "Microsoft is ramping up a new set of AI instances for its customers. T
 publishedDateTime: 2020-08-20T14:02:00Z
 webUrl: "https://www.extremetech.com/computing/314034-microsoft-deploys-ai-supercomputing-via-nvidias-new-ampere-a100-gpu"
 type: article
-quality: 54
+quality: 71
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.extremetech.com/wp-content/uploads/2020/05/Nvidia-A100-GPU-Ampere.jpg"
@@ -55,6 +56,6 @@ related:
         height: 393
         isCached: true
 
-secured: "DovijoZ8oYaJS6qbIMqXSOkd70MP7lovaNW+Mh8OOQKGLKx8KEecNllAYGOYlrEFc8qv59nvwELnJ6RhobHrwavm5ZDMGXbHUOWQ6NMS0eYFLkEDcoiv7FcafUo6tGw94G5zU2CktynmO2V/s3NMqPYX4mzoU/bLeJUc+rvftsIz+zMbhIy32AwOM2k/C3Gh8VB/Z45wdtY/LxcSLuIMHFIDnjMVFAtUR6RPlMeJpMpOxzG+iL48Dw6bhFRGonDAdmCBLfpc2H+Qsi47X702EGx3X7Vgzk5VL4QsDwGuaCND4ZNURKMblNUUwN+R+Y4nNYi+K8D+vpSPX/DAlSdGLw==;8fDABp+bodiumxzUajWbXA=="
+secured: "wEnjn/NujP5721hmtQJjgk08NVUtb6Keh/Ygmupl5nDhmramOQMTBpg62ysMAe1zrfbeLn4RmsVMQnPkNtPWN0DU58kwct/IHE3FMgTFsHUEqxgEk5h27jc68Ok7X0rzFZh8yamDRSNaedUlh9+tOawU/rRACShBY+qXZ2E3XHvAPtyGNY3qShutkBcaD8y86pNyldPxwQTATOOYrZN93ZZCcuqkZ2gu9ajW8Vb9QeYwAHGehNPH0raVUpNEPMlAtHA6C23u598ukuXiFBJZRUzzzd26qF98N7E0adW2Vs2kc6KOuz/fRJcThkFwgFq/Fu43oKz99lT9YUTpAEFvLYYbMl616q33Y2+wWKSgyxF3bE0PTU7sN9/fXh3L5o2BhqgmxLhanrzKQlERFRdzvJiyfrqSKWyPpAH6lwFrIMv3pR48xZE/1nKgUhw6vq4qU+aaSfcY23q3kR8pgR6XJxfFF8JN6i6plNBzzeG7OvLVe3XLRGPnVmSFx5Cc6svNuXBVAhyUB4173dyIAK6/lQ==;8SAVeSsq/0uAhakprZL9EQ=="
 ---
 

@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Allscripts and Sheba Medical Center Launch Partnership to Further Healthcare Innovation"
-excerpt: "Healthcare IT vendor and Israeli hospital collaborate to create network of innovators Allscripts (NASDAQ:MDRX) and Israel's Sheba Medical Center have formed a partnership"
-publishedDateTime: 2020-08-19T12:01:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/08/b17153786/allscripts-and-sheba-medical-center-launch-partnership-to-further-healthcare-innovation"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17153786"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17153786"
+excerpt: "Allscripts (NASDAQ: MDRX) and Israel’s Sheba Medical Center have formed a partnership to accelerate the pace of artificial intelligence technologies a"
+publishedDateTime: 2020-08-19T13:02:00Z
+webUrl: "https://www.businesswire.com/news/home/20200819005037/en/"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://mms.businesswire.com/media/20200819005037/en/745337/23/Allscripts-Logo.jpg"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "Allscripts' Collaboration to Advance Healthcare Innovation"
@@ -43,6 +47,6 @@ related:
       domain: benzinga.com
     quality: 19
 
-secured: "kvKCLhcO7Wddu4j+AjvmDXSmgDXDwAuJkz9NInWEEbv6jY+6seq8KQLCwDRClTmwkMQ43f5BrzhECgLXvRb+k45KkRYnFhq7cLWowMSE8gnqKceIE0yhtqVRxz+QzYK8m3yeYJirCNbCLyO0j5VYDpe2hTS3fxOJNujvFvQ5hseVaHoQkyTngVkedgbdEURIdsnpT50M+YQA9VJRGzEnR3pgt72Na73M/u4W2TMNYpJ6lKWOy3bC13gZBsvtLi4r0CEAC1eHjdwBy4Imn5XeN+leS7T+1UequFIG95IOPISbK9ow3mc1OCtHW4e691OhRDDGDbLKPgYDjltoxhiDGx94TINeQgKS3lJrwWvRKHhzECaqnrH5jiQ6JDrKCZNR3fOggNzeKSG0Ei1g1YvBZ89xN8mqmlPYfXOdgJIkihpg09jbO1We7G6qO04Y/kyfsxT0e7Me+6STOUiPUVYG9H7xyY9nlO9ymHeoQVT+Ni5qW4BAjIbqEgg9sExaVwqgJXlBseHyFN8M4pd/Ndn3uw==;jiywVx/vQrosPVMB+CiiAQ=="
+secured: "uWTbkDkg5nbBeHDpHtftertKfep9pD8+33rj2olGIBmatGRdVv2smT3LFdh9YJN7bvkRrZsGsr/050M/w85VH7GEIU/YX7xswl2AGOkVw4K6MRMBi3H4n8K/HhXyZh6ZA9jfr1mwZ7eJnzHwan4JU/sgjVfHrQUtXf5zsqO8FaniKw/JhxoBiQ10F8jc0dAO3cvVweZ4dWF9LZVVCSWTyu3r6b/LHZQeg3EszxZzq0RmnnTIpsXZIG22wG6w3ZUsmx2YJaTyh/W4AY1ku2Y6PggHPOkPhbb6S2D9VeYm6vEYMoRvOc3kEgWbjAiDDfPHHjA0rWJy+KT40wnuGfRDWg==;eVfoXFgj+U7JQj87nTCkJw=="
 ---
 

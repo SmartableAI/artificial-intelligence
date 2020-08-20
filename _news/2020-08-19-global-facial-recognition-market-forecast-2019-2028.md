@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Global Facial Recognition Market Forecast 2019-2028"
-excerpt: "The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security ..."
-publishedDateTime: 2020-08-19T14:34:00Z
-webUrl: "https://www.prnewswire.com/news-releases/global-facial-recognition-market-forecast-2019-2028-301114914.html"
+excerpt: "KEY FINDINGS The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security,"
+publishedDateTime: 2020-08-19T15:28:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-forecast-2019-2028-1029517397"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/global-facial-recognition-market-forecast-2019-2028-1029517397"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-facial-recognition-market-forecast-2019-2028-1029517397"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Facial Recognition Lobby Urges Caution on U.S. Zeal to Regulate"
@@ -349,6 +349,6 @@ related:
         height: 616
         isCached: true
 
-secured: "WxjOX9mImuxVrLL0WKE97nreyaYcqZ1rjD5XXVB2qE3ZM2IZ9Oe0Qb/YFTgeyDvW/3lKH6XyoRGuqGlkU0LojbW+XHv704zayh47ceBUkFzKskaurMXzmgoLKmPtoicpt9K3MZbxSA8yrXYFuyDq41kBO75mETXW+nd+DywkPudsTdxfaJJ2ktXNrkKIQJGuAZehLCViGofa/SFj67pwjJN3eiC5uWvIMuBF2kjoOxqmt1wgDvSEHNRmwyK4/G1MWW68/TUPF6OL/cySASy7HhSrP2+Ztd968A9K8Q0AWE3BUHqrNa+9n0btjPke4LzXdhcUzeM7cEXy8zOF514uVQ==;6FKwLcTapZmPXmy7TYAtYQ=="
+secured: "a7+e5GMcJUutAcGI+VlZu7dggbJs1VIFNVpcS60Goi44pCWPQhRhjy+phfTuyZy6j2vXTAU6YxwyM/mQZfTQMQcbLoaWE4als69muM46C8xKLKGmsXpJbDkMC2tS5CKf/4Oz1p16nEbY7Ag4Fw8wIzsCwN4XjC3a0laoRudP+ljsTm2mWDUMIj9sEBheZm2In1/vUPC3s5ewHSL/zeG20VQfEgdz/mIYPcR2O2DPX0j8i1bmLSBZDGBjpJwZjvSHjppSS/u0+hvzDHr8L0M1rJQ2FrQGt4amPHd+GqoI6zkToRH07/Em1IT4LjrKugBSlv8/PqAyVIkycdJ9xE/OfA==;oekt0rNebbRD5plpXxSyuQ=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "Enhancing Rackspace Technology’s comprehensive multicloud platform w
 publishedDateTime: 2020-08-20T15:10:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/rackspace-technology-announces-moogsoft-aiops-platform-integration-into-rackspace-fabric-1029521413"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -20,8 +20,23 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 related:
+  - title: "Onica, a Rackspace Technology Company, Introduces Contact Center Intelligence Solution Built on Amazon Web Services"
+    excerpt: "Onica, a Rackspace Technology Company, Introduces Contact Center Intelligence Solution Built on Amazon Web Services"
+    publishedDateTime: 2020-08-18T20:28:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/onica-a-rackspace-technology-company-introduces-contact-center-intelligence-solution-built-on-amazon-web-services-9210250"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 17
+    images:
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Rackspace Technology, Inc.: Rackspace Technology Announces Moogsoft AIOps Platform Integration into Rackspace Fabric"
     excerpt: "Enhancing Rackspace Technology's comprehensive multicloud platform with AIOps SAN ANTONIO, Aug. 20, 2020 (GLOBE NEWSWIRE) -- Rackspace Technology (NASDAQ: RXT) announced today the latest release"
     publishedDateTime: 2020-08-20T15:17:00Z

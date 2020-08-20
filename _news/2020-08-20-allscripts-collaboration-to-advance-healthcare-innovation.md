@@ -21,16 +21,19 @@ topics:
 
 related:
   - title: "Allscripts and Sheba Medical Center Launch Partnership to Further Healthcare Innovation"
-    excerpt: "Healthcare IT vendor and Israeli hospital collaborate to create network of innovators Allscripts (NASDAQ:MDRX) and Israel's Sheba Medical Center have formed a partnership"
-    publishedDateTime: 2020-08-19T12:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/b17153786/allscripts-and-sheba-medical-center-launch-partnership-to-further-healthcare-innovation"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17153786"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17153786"
+    excerpt: "Allscripts (NASDAQ: MDRX) and Israel’s Sheba Medical Center have formed a partnership to accelerate the pace of artificial intelligence technologies a"
+    publishedDateTime: 2020-08-19T13:02:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200819005037/en/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 31
+    images:
+      - url: "https://mms.businesswire.com/media/20200819005037/en/745337/23/Allscripts-Logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Intelligent Locations and SAS collaborate to support healthcare organizations' IoT and contact tracing efforts"
     excerpt: "Intelligent Locations and SAS have formed a new partnership that gives healthcare organizations access to industry ... organizations will be able to accelerate the use of machine learning and artificial intelligence (AI) technologies in ways that super ..."
     publishedDateTime: 2020-08-19T14:34:00Z

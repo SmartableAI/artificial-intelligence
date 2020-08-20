@@ -2,6 +2,56 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-07-30-whats-this-a-bipartisan-plan-for-ai-and-national-security.md",
+      "title": "What’s This? A Bipartisan Plan for AI and National Security",
+      "excerpt": "Republican Will Hurd and Democrat Robin Kelly want more Pentagon spending, a Cold War-style “hotline,” and a curb on chip exports to China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/bipartisan-plan-ai-national-security/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f2240e32c5af566ee4afe17/master/pass/business_military_535764174.jpg",
+          "width": 2170,
+          "height": 1446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/bipartisan-plan-ai-national-security/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bipartisan-plan-ai-national-security/amp",
+      "publishedDateTime": "2020-07-30T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-google-supercomputer-nvidia-gpus-break-ai-performance-records.md",
       "title": "Google supercomputer, Nvidia GPUs break AI performance records",
       "excerpt": "\"We achieved these results with ML model implementations in TensorFlow, JAX and Lingvo. Four of the eight models were trained from scratch in under 30 seconds,\" Naveen Kumar from Google AI said.",
@@ -1266,55 +1316,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-gaetz-hammers-google-for-support-of-chinese-military-despite-ethical-concerns-over-helping-us-forces.md",
-      "title": "Gaetz hammers Google for support of Chinese military despite 'ethical concerns' over helping US forces",
-      "excerpt": "In a virtual testimony before congress Wednesday, Google CEO Sundar Pichai was grilled by Rep. Matt Gaetz, R-Fla., over allegations of advancing China’s Artificial Intelligence (AI) capabilities after refusing to work with the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/gaetz-google-us-chinese-military-support",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ec594e6-1da3-40d7-b00e-61ed4e1dda62/9b5d95fa-946e-490d-a746-1440b3028ca0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gaetz-google-us-chinese-military-support.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gaetz-google-us-chinese-military-support.amp",
-      "publishedDateTime": "2020-07-29T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,56 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-07-14-supermarket-chain-mercadona-faces-gdpr-probe-over-facial-recognition-system.md",
+      "title": "Supermarket chain Mercadona faces GDPR probe over facial recognition system",
+      "excerpt": "Spanish supermarket chain Mercadona is under investigation by the country’s data protection regulator over the use of a new facial recognition system in 40 of its stores. The company introduced the AI-powered facial recognition system on 2 July in the cities of Zaragoza and Mallorca,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1594717953/itpro/2020/07/shutterstock_mercadona_supermarket.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp",
+      "publishedDateTime": "2020-07-14T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry.md",
       "title": "White Castle Selects Miso Robotics for a New Era of Artificial Intelligence in the Fast Food Industry",
       "excerpt": "PRNewswire/ -- White Castle®, the country's first fast-food hamburger chain, announced today a planned pilot with Miso Robotics – creators of the first autonomous grilling and frying kitchen assistant,",
@@ -1286,55 +1336,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-as-remote-work-remains-in-place-ai-helps-businesses-accelerate-collaboration.md",
-      "title": "As remote work remains in place, AI helps businesses accelerate collaboration",
-      "excerpt": "The past few weeks and months have presented unprecedented challenges to businesses. From those struggling to survive to those that have found their products and services to be in high demand ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/13/as-remote-work-remains-in-place-ai-helps-businesses-accelerate-collaboration/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Working-from-home.GettyImages-1219924018.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/13/as-remote-work-remains-in-place-ai-helps-businesses-accelerate-collaboration/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/as-remote-work-remains-in-place-ai-helps-businesses-accelerate-collaboration/amp/",
-      "publishedDateTime": "2020-07-13T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

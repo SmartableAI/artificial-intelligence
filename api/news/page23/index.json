@@ -2,6 +2,56 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-07-30-machine-learning-and-organizational-change-at-southern-california-edison.md",
+      "title": "Machine Learning And Organizational Change At Southern California Edison",
+      "excerpt": "The team took all the time needed to get stakeholders engaged. Moore came into the project in the summer of 2018, and he was able to get a machine learning model up and running in a month or so, but presenting it, socializing it, and gaining buy-in for it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/07/30/machine-learning-and-organizational-change-at-southern-california-edison/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f22d3eeae7184e9e77bca33%2F0x0.jpg",
+          "width": 1200,
+          "height": 889,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/07/30/machine-learning-and-organizational-change-at-southern-california-edison/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/07/30/machine-learning-and-organizational-change-at-southern-california-edison/amp/",
+      "publishedDateTime": "2020-07-30T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-nvidias-a100-tensor-core-ampere-gpu-just-set-a-flurry-of-ai-benchmark-records.md",
       "title": "NVIDIA's A100 Tensor Core Ampere GPU Just Set A Flurry Of AI Benchmark Records",
       "excerpt": "For the third time in a row, NVIDIA ran a clean sweep of MLPerf's set of AI and machine learning performance benchmarking suite. This time, however, the distinction of fastest GPU went to NVIDIA's ...",
@@ -1052,55 +1102,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-gaetz-hammers-google-for-support-of-chinese-military-despite-ethical-concerns-over-helping-us-forces.md",
-      "title": "Gaetz hammers Google for support of Chinese military despite 'ethical concerns' over helping US forces",
-      "excerpt": "In a virtual testimony before congress Wednesday, Google CEO Sundar Pichai was grilled by Rep. Matt Gaetz, R-Fla., over allegations of advancing China’s Artificial Intelligence (AI) capabilities after refusing to work with the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/gaetz-google-us-chinese-military-support",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ec594e6-1da3-40d7-b00e-61ed4e1dda62/9b5d95fa-946e-490d-a746-1440b3028ca0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gaetz-google-us-chinese-military-support.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gaetz-google-us-chinese-military-support.amp",
-      "publishedDateTime": "2020-07-29T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

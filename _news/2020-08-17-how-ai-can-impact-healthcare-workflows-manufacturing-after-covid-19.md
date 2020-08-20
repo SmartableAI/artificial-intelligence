@@ -8,7 +8,7 @@ ampWebUrl: "https://sociable.co/technology/how-ai-can-impact-healthcare-workflow
 cdnAmpWebUrl: "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/technology/how-ai-can-impact-healthcare-workflows-manufacturing-after-covid-19/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1000
     height: 667
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Indian Manufacturing Market"
+    excerpt: "A new research document is added in HTF MI database of 56 pages titled as Artificial Intelligence in Indian Manufacturing Industry 2020 with detailed analysis Competitive landscape forecast and strategies The study covers geographic analysis that includes regions and important"
+    publishedDateTime: 2020-08-17T07:35:00Z
+    webUrl: "https://www.openpr.com/news/2113931/artificial-intelligence-in-indian-manufacturing-market-may-see"
+    ampWebUrl: "https://www.openpr.com/amp/2113931/artificial-intelligence-in-indian-manufacturing-market-may-see"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2113931/artificial-intelligence-in-indian-manufacturing-market-may-see"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/8/T817462239_g.jpg"
+        width: 600
+        height: 399
+        isCached: true
 
 secured: "V26XtnubPw/wLHu6Hop3YuqB6Zm9qmUiBRWb84Nzca2sDkLSPhrKaPmfjYODvShIJApwhJtA4YXDvFdTCN6ZXD8Dw9xsX2jpraBEfwPg4wvY/1EPdd2ksskr1s9xFBj/PT/rARuxbEtO+klf31t6kqY8nNKh/83y4fUMR8YixCfGHnKIBl1jS8nB7PagbiEMOxnqTFMRMJcWKEU0f/ZcR9W5KopHoJcyNJkojc1HrfUr1YyvgNxvZSpUWNiA2h3s9lHo5h2iJgjbtfjdU80MDD/tBu2E00vmp1wIez5twJFBXz5EW8X2vrJFFhWx7naCUl5UuYmSchEmwmPAD0VV771tGoLkDP1fglai2OxGHzFuJwRx5zmM1poQWqoQspBahJ3eQPTbTk6uV1VX1lawtTt+4vBJ4joudh3onbff2XojZrOir4KdbZXEG42VhwaPkVcHKcHUTYE6sFSv/SOKrR/hxDr9g2DeXTusa5xDSRPPsgdML6SVuWDZS5M0Sw+30cmXcGy2yh+H64r1VQPqvw==;CZBJpswpWE/QI8/tAk50CA=="
 ---

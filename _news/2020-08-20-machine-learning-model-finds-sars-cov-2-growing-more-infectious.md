@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning reveals role of culture in shaping meanings of words"
-    excerpt: "What do we mean by the word beautiful? It depends not only on whom you ask, but in what language you ask them. According to a machine learning analysis of dozens of languages conducted at Princeton University,"
-    publishedDateTime: 2020-08-17T13:27:00Z
-    webUrl: "https://phys.org/news/2020-08-machine-reveals-role-culture-words.html"
-    ampWebUrl: "https://phys.org/news/2020-08-machine-reveals-role-culture-words.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-machine-reveals-role-culture-words.amp"
+  - title: "Explainable AI: From the peak of inflated expectations to the pitfalls of interpreting machine learning models"
+    excerpt: "We have reached peak hype for explainable AI. But what does this actually mean, and what will it take to get there?"
+    publishedDateTime: 2020-08-20T15:29:00Z
+    webUrl: "https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/41-machinelearn.jpg"
-        width: 1260
-        height: 709
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2017/03/29/0c4abc45-b355-444e-845a-a2d15fae3123/group-of-people-on-peak-mountain.jpg"
+        width: 770
+        height: 558
         isCached: true
 
 secured: "sIaR573jaNn0KAV8wi/0/1Qc4VVeLePeTj2kCher6Hm8BdFhd5aaZEcraT8ACbZDlZL4rF5dKhk+0Gy8rgup044XR0IBYeJJa50KicahVqNUee6FidXIdQl8cmZNpoXS6qoJXkKyQ5BIY0MIkoOMrxDC1Tf9PswkagAVz2m9WqG2+CXGRZhtsZLThgLTnqo2+0GWjAiR0TBx936WitYy4EJu7176mVQCWRlQkEXD311my0jFwd8/fb4O72EmZOLUvym4ZcOmiMHP71zh6KI9a9m8Uhj0y9MISwPv3mQhfrT5MFQiI4lplPZ6WoRhwZlsXEWL76LOTV0mEQSzwtBnepeAyoyocT4lpeRk6CZCnM5VEfkKmpuyS1hEqq6/cSNVnmN+ypuoffHmUCoPj8y8mPLnymqdF3f1pXenjWZwzFpzCI1V0xeqjdL6JCzoe/WccpWKCZNVpx3XpfOPvEM4nf/8aRIsY90ShljRNFOGYuuiqm09PxLfUv2MovWeuLNrWDNt4tolt76yfxP+CU8wWw==;xTHH4OpxAyvfPN4BezJDZA=="

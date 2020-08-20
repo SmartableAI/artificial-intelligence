@@ -50,7 +50,7 @@ related:
     provider:
       name: ExtremeTech
       domain: extremetech.com
-    quality: 54
+    quality: 71
     images:
       - url: "https://www.extremetech.com/wp-content/uploads/2020/05/Nvidia-A100-GPU-Ampere.jpg"
         width: 1024

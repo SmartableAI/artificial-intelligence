@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/18/self-driving-cars
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/18/self-driving-cars-allowed-motorways-industry-risk"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "UK to consult on tech that could see self-driving vehicles on freeways by 2021"
+    excerpt: "Self-driving technology could transform the way people undertake car journeys. The U.K. government's announcement was welcomed by a number of organizations. The U.K. government has started a consultation on the use of Automated Lane Keeping System technology on Britain's freeways."
+    publishedDateTime: 2020-08-19T15:38:00Z
+    webUrl: "https://www.cnbc.com/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106670012-1597848598442-gettyimages-1060939028-img_7450.jpeg?v=1597848845"
+        width: 3648
+        height: 2736
+        isCached: true
+  - title: "Self-driving cars could hit UK motorways in 2021"
+    excerpt: "Self-driving vehicles could be on the British roads as early as spring 2021 after the government launched a consultation on incorporating automated technology into cars. The Transport Ministry said it would allow a system to take control of the car at low speeds to keep in lane on motorways for an extended period of time."
+    publishedDateTime: 2020-08-19T08:55:00Z
+    webUrl: "https://www.thenational.ae/business/technology/self-driving-cars-could-hit-uk-motorways-in-2021-1.1065707"
+    ampWebUrl: "https://amp.thenational.ae/business/technology/self-driving-cars-could-hit-uk-motorways-in-2021-1.1065707"
+    cdnAmpWebUrl: "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/technology/self-driving-cars-could-hit-uk-motorways-in-2021-1.1065707"
+    type: article
+    provider:
+      name: The National Blogs
+      domain: thenational.ae
+    quality: 44
+    images:
+      - url: "https://www.thenational.ae/image/policy:1.1065779:1597835831/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self driving cars to get go ahead on UK roads next year"
     excerpt: "The Department for Transport has announced that Self driving vehicles could be allowed on UK roads by next year. The government are currently considering proposals for automated lane keeping technology and collision avoidance technology and these could be ..."
     publishedDateTime: 2020-08-19T10:58:00Z

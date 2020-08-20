@@ -5,8 +5,8 @@ excerpt: "A global summit which aims to boost effective collaboration between ex
 publishedDateTime: 2020-08-20T14:53:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoe-eeo_2082020.php"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
@@ -23,6 +24,6 @@ images:
     height: 675
     isCached: true
 
-secured: "ylHXb95HFLNLvoATyK+AC8uq1ROAgdGKqrt4O5suu4S6Xdg4InD8T3QelBH3gj574rh9loUKF2Cny/N5muDT065/YY1DW4l477grs7o7xFWCCEtYvsjqavgrsIQktpXl6HfdSgTVXN/eJaqRVWWAhYo0MtIm1z+36EPv+iXCR6MtRHwP953YlSNX1T9qO1LartyaHIUNIas1uPWTUNTnlTAwOxzGnC6FT/rlzOSaHaFRshAzkOmoRnn/DzZgeNraWbgqzZtT5TyriBS0u7l5K2XkfNnpd1G33JwLFXpWXJKUU6X/ny7GQ0nQayH3ky1Sv3hNmoX4UY6ZzgpMwzBJYg==;edD1J1lzFyfcznBUy17y9w=="
+secured: "/FvMWCKw7y5qxqo3/VsrGS9XeHcunmsnOf4NPAiHHqAwPPIZmkYUgVDuZj0ftUepUWq8gxPY4TlmVbGWb084HhX21T6W0fmQhxD6AXCGKVrgfd0aIddDN1WXuEgrpK8Fk0w9/cATyQoP2Gk9GfFRo++8F0AouTY6Ks4EyzP4B20X5lsKqWe4GW8RnHq+Oq384QDongl+Dy+/KzkF5CXrkrpFcmmGfSxxBgyMNIx0W4+AtFUJmztB+fEmOH15wIdu5ZeS3tvlRRmFdWi4sJtQ8AUJVC/N9c0igasiII+lBKsC1gy3wIs6UUUjfEoa0DVXzv5q3ZVjBHlPf1VXrXw83boh+nPEQL5WmZlOPw3XtW1K0QKbbwN9J02TWs80PQxMtGttTbCxaT4930JXBg3zUuvHds1EzGb+JAdF0MNeI3f3yFT3qmW263AwMfPPjaKLgNej+1QrlPZjHjvO3lV/pjX8ofxuHqxdgS20Y1y03Q6Jxhc+4l40fQyXTqw0NFcc5Nm694LyvoAbbqSE6mdwPg==;Ys7aQ4e+xwDgAfx6V4C+ZA=="
 ---
 

@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "AI As Being Truthful Or A Liar, Including While At The Wheel Of Self-Driving Cars"
+    excerpt: "AI as teller of truth or potential untruths. getty. Will AI lie to you? Sure, why not. Most people assume that AI is dispassionate, unbiased, objective rather than subjective, and"
+    publishedDateTime: 2020-08-20T16:29:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3c3ffe7e15267c1d38cc1a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D455%26cropY2%3D3267"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self Driving Wheelchair Market"
+    excerpt: "The Self Driving Wheelchair Market report includes overview which interprets value chain structure industrial environment regional analysis applications market size and forecast This is a latest report covering the current COVID 19 impact on the market The pandemic of Coronavirus"
+    publishedDateTime: 2020-08-17T13:29:00Z
+    webUrl: "https://www.openpr.com/news/2114444/self-driving-wheelchair-market-to-2026-high-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2114444/self-driving-wheelchair-market-to-2026-high-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2114444/self-driving-wheelchair-market-to-2026-high-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/T/8/T817502014_g.jpg"
+        width: 800
+        height: 529
+        isCached: true
   - title: "Beijing Makes Self-Driving Vehicles A Priority"
     excerpt: "The Chinese government has designated autonomous driving, along with 5G and artificial intelligence, as one of the strategic technologies to counteract the economic impact of the COVID-19 pandemic, boosted by state investment fund that has breathed new life into the ecosystem."
     publishedDateTime: 2020-08-19T09:26:00Z
@@ -45,22 +77,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3ceed42f88cd00669b3aa7%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "UK to consult on tech that could see self-driving vehicles on freeways by 2021"
-    excerpt: "Self-driving technology could transform the way people undertake car journeys. The U.K. government's announcement was welcomed by a number of organizations. The U.K. government has started a consultation on the use of Automated Lane Keeping System technology on Britain's freeways."
-    publishedDateTime: 2020-08-19T15:38:00Z
-    webUrl: "https://www.cnbc.com/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106670012-1597848598442-gettyimages-1060939028-img_7450.jpeg?v=1597848845"
-        width: 3648
-        height: 2736
         isCached: true
   - title: "Self-driving cars could be on UK roads by spring 2021"
     excerpt: "The UK government has put out a call for evidence on Automated Lane Keeping Systems (ALKS), a function used on self-driving cars that can take control of a vehicle at low speeds. Industry experts have said that ALKS in new cars would reduce road accidents and could be ready by the start of 2021."
@@ -87,54 +103,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 51
-  - title: "Nio names new head of self-driving unit"
-    excerpt: "The change comes as Nio works to catch up with peers in the self-driving car race after securing $1 billion in funding from the Chinese government."
-    publishedDateTime: 2020-08-17T06:55:00Z
-    webUrl: "https://technode.com/2020/08/17/nio-names-new-head-of-self-driving-unit/"
-    ampWebUrl: "https://technode.com/2020/08/17/nio-names-new-head-of-self-driving-unit/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/08/17/nio-names-new-head-of-self-driving-unit/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 44
-    images:
-      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2020/08/640.png?fit=579%2C466&ssl=1"
-        width: 579
-        height: 466
-        isCached: true
-  - title: "Self-driving cars could hit UK motorways in 2021"
-    excerpt: "Self-driving vehicles could be on the British roads as early as spring 2021 after the government launched a consultation on incorporating automated technology into cars. The Transport Ministry said it would allow a system to take control of the car at low speeds to keep in lane on motorways for an extended period of time."
-    publishedDateTime: 2020-08-19T08:55:00Z
-    webUrl: "https://www.thenational.ae/business/technology/self-driving-cars-could-hit-uk-motorways-in-2021-1.1065707"
-    ampWebUrl: "https://amp.thenational.ae/business/technology/self-driving-cars-could-hit-uk-motorways-in-2021-1.1065707"
-    cdnAmpWebUrl: "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/technology/self-driving-cars-could-hit-uk-motorways-in-2021-1.1065707"
-    type: article
-    provider:
-      name: The National Blogs
-      domain: thenational.ae
-    quality: 44
-    images:
-      - url: "https://www.thenational.ae/image/policy:1.1065779:1597835831/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Suddenly self-driving cars are a step closer, writes RAY MASSEY"
-    excerpt: "Because, of course, relying on computers isn't always fail-safe. Two years ago, for instance, a woman was run over and killed by an Uber self-driving car in Arizona. Yet despite that tragedy — which the U.S. National Transportation Safety Board later ..."
-    publishedDateTime: 2020-08-20T00:03:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8645301/Suddenly-self-driving-cars-step-closer-writes-RAY-MASSEY.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8645301/amp/Suddenly-self-driving-cars-step-closer-writes-RAY-MASSEY.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8645301/amp/Suddenly-self-driving-cars-step-closer-writes-RAY-MASSEY.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 44
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/08/20/01/32156050-0-image-a-171_1597883504912.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "40 Miles Of Highway Turned Into Testing Ground For Self-Driving Cars In Michigan"
     excerpt: "The future is here, and it’s Google-funded. The state of Michigan in the United States has unveiled its plans to begin testing self-driving cars as part of its long-term initiative to improve public transport over the coming years."
     publishedDateTime: 2020-08-17T14:28:00Z
@@ -151,47 +119,33 @@ related:
         width: 808
         height: 424
         isCached: true
-  - title: "Wales Open 2020 to feature self-driving vehicles to shuttle golfers"
-    excerpt: "Golfers participating in the Wales Open 2020 this week will be among the first sportspeople to be shuttled around in autonomous cars. Used in place of buggies, the shuttles will be able to run three golfers and their caddies at a time from the Twenty Ten Club House at the Celtic Manor near Newport to the first tee,"
-    publishedDateTime: 2020-08-20T11:39:00Z
-    webUrl: "https://www.shropshirestar.com/news/motors/2020/08/20/wales-open-2020-to-feature-self-driving-vehicles-to-shuttle-golfers/"
+  - title: "How Self-Driving Systems are Ushering in a New Era of Transportation"
+    excerpt: "Self-driving vehicles like robo-taxis are one way that people will be able to get around while also social distancing. AVs and other self-driving applications have already proven helpful in the fight against the virus in China by transporting essential ..."
+    publishedDateTime: 2020-08-18T13:45:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21139392/how-selfdriving-systems-are-ushering-in-a-new-era-of-transportation"
     type: article
     provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
+      name: Electronic Design
+      domain: electronicdesign.com
     quality: 24
     images:
-      - url: "https://www.shropshirestar.com/resizer/MoqecRx7CCy_LbUju-Hviu-AsHY=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/shropshirestar.mna/AQROZUGT35ATDOCNLVSFQW3BDQ.jpg"
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/08/Q_A_promo___recrop.5f3bd8d655db4.png?auto=format&fit=max&w=1200"
         width: 1200
-        height: 900
+        height: 676
         isCached: true
-  - title: "Wales Open 2020 tees up self-driving vehicle to shuttle golfers from clubhouse"
-    excerpt: "European Tour Pro Golfer Ross Fisher stands next to the Aurrigo x Vodafone Driverless Shuttle in Celtic Manor (Photo: Aurrigo/Vodafone) Some of the world’s best golfers will swap their buggies ..."
-    publishedDateTime: 2020-08-19T23:35:00Z
-    webUrl: "https://inews.co.uk/news/technology/wales-open-golf-tournament-self-driving-vehicle-583021"
+  - title: "How to hack a self-driving car"
+    excerpt: "A car packed with self-driving features could be the ultimate prize for hackers who can’t resist a challenge. Hacking the Model 3 was the final test in the 2019 round of the prestigious Pwn2Own annual hacking event. The competition is lucrative ..."
+    publishedDateTime: 2020-08-18T09:21:00Z
+    webUrl: "https://physicsworld.com/a/how-to-hack-a-self-driving-car/"
     type: article
     provider:
-      name: i
-      domain: inews.co.uk
-    quality: 20
+      name: Physics World
+      domain: physicsworld.com
+    quality: 24
     images:
-      - url: "https://i.inews.co.uk/content/uploads/2020/08/PRI_161652189.jpg"
-        width: 1654
-        height: 1010
-        isCached: true
-  - title: "Self-driving startup AutoX launches public test rides in its self-driving vehicles"
-    excerpt: "A fleet of self-driving cars are seen at Cangzhou economic development zone in Cangzhou City, north China's Hebei Province, May 14, 2020. The road test area for intelligent connected vehicles (ICVs) was extended from Cangzhou economic development zone to main urban areas of the city on Thursday."
-    publishedDateTime: 2020-08-18T15:46:00Z
-    webUrl: "https://www.globaltimes.cn/content/1198172.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 18
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-05-15/cbdf30ab-ac5d-40a4-9a91-70dddd24472e.jpeg"
-        width: 500
-        height: 300
+      - url: "https://physicsworld.com/wp-content/uploads/2020/08/car-hacker-1197675498-iStock_peshkov.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "a+mNPIwNUV86Cai2wYrOGI259km94JpyVemnWy0ZbA5jTcqd4U85LUYcdAr+nk/xLdfdLg3PiVe4Y1wLLavcVEqOW0YyTFImte+Y5mz3yI6tffjMM+Qp3/tAl9KirUbvXqsQaCNjC4PeI79ypLVegehUlTx65j4Lyh55Z0WgUQDiR0KDs/V5GL4fcN0jpKvNPVGs2YmGZcPZ3Hr448f7ZnKQtYpNaiRfPiRLZu4f4dKHfclaCOqOV/s/qSCOFDwdMx7WLPLySCYDZAQF/j7/YRZW2IbMp2BgatVpxl4AKdeH2kiqRRfuQjtAFjG1prhpRuidSzE4pEcrkMCSOHhlksUD0+71zo6cW2GPbWhOVRPv60BZoWWxY8Wtp2vBvOwEof/FUqJJn6kbPigRee3S6M4WiLLphNzz8uhB11g8Q76jdbXlkXJYo7CkrfoC/tQ82/SniATr6sJEaeEXlY3RXwNrzsqMnyLS5XIeuzSsvi26iPD82coT081tmHWSZuMavIwvuO/WttSdspcpPCFEmg==;+23+jm1AxaJ7Rli54rKKeA=="

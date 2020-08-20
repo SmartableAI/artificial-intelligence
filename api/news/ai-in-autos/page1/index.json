@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-20-ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars.md",
+      "title": "AI As Being Truthful Or A Liar, Including While At The Wheel Of Self-Driving Cars",
+      "excerpt": "AI as teller of truth or potential untruths. getty. Will AI lie to you? Sure, why not. Most people assume that AI is dispassionate, unbiased, objective rather than subjective, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3c3ffe7e15267c1d38cc1a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D455%26cropY2%3D3267",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/",
+      "publishedDateTime": "2020-08-20T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open.md",
       "title": "Self-Driving Cars To Transport Golfers And Caddies At The Wales Open",
       "excerpt": "One of the first deployments of autonomous vehicles at a major sporting event will transport players from clubhouse to tee",
@@ -9,7 +59,7 @@
       "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 74,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -52,36 +102,36 @@
       ]
     },
     {
-      "path": "_news/2020-08-19-beijing-makes-self-driving-vehicles-a-priority.md",
-      "title": "Beijing Makes Self-Driving Vehicles A Priority",
-      "excerpt": "The Chinese government has designated autonomous driving, along with 5G and artificial intelligence, as one of the strategic technologies to counteract the economic impact of the COVID-19 pandemic, boosted by state investment fund that has breathed new life into the ecosystem.",
+      "path": "_news/2020-08-19-uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways-by-2021.md",
+      "title": "UK to consult on tech that could see self-driving vehicles on freeways by 2021",
+      "excerpt": "Self-driving technology could transform the way people undertake car journeys. The U.K. government's announcement was welcomed by a number of organizations. The U.K. government has started a consultation on the use of Automated Lane Keeping System technology on Britain's freeways.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-self-driving-vehicles-apriority/",
+      "webUrl": "https://www.cnbc.com/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 184,
+      "heat": 110,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3ceed42f88cd00669b3aa7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://image.cnbcfm.com/api/v1/image/106670012-1597848598442-gettyimages-1060939028-img_7450.jpeg?v=1597848845",
+          "width": 3648,
+          "height": 2736,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-self-driving-vehicles-apriority/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-self-driving-vehicles-apriority/amp/",
-      "publishedDateTime": "2020-08-19T02:26:00-07:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html",
+      "publishedDateTime": "2020-08-19T08:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -159,7 +209,7 @@
       "webUrl": "https://newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 114,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -189,47 +239,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-self-driving-wheelchair-market.md",
-      "title": "Self Driving Wheelchair Market",
-      "excerpt": "The Self Driving Wheelchair Market report includes overview which interprets value chain structure industrial environment regional analysis applications market size and forecast This is a latest report covering the current COVID 19 impact on the market The pandemic of Coronavirus",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2114444/self-driving-wheelchair-market-to-2026-high-growth",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T817502014_g.jpg",
-          "width": 800,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2114444/self-driving-wheelchair-market-to-2026-high-growth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2114444/self-driving-wheelchair-market-to-2026-high-growth",
-      "publishedDateTime": "2020-08-17T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -389,20 +398,20 @@
       "title": "With self-driving tech was new, a road trip paved the way",
       "excerpt": "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan.",
       "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/entertainment/celebrities/article244877067.html",
+      "webUrl": "https://www.thenewstribune.com/entertainment/celebrities/article244877067.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/entertainment/celebrities/article244877067.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/entertainment/celebrities/article244877067.html",
+      "ampWebUrl": "https://amp.thenewstribune.com/entertainment/celebrities/article244877067.html",
+      "cdnAmpWebUrl": "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/entertainment/celebrities/article244877067.html",
       "publishedDateTime": "2020-08-15T00:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
+        "name": "News Tribune",
+        "domain": "thenewstribune.com",
         "images": null,
         "publishers": null,
         "authors": null

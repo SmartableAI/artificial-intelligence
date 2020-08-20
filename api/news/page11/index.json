@@ -2,6 +2,55 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-08-11-heres-how-customer-experience-and-ai-are-driving-the-next-gen-of-e-commerce-industry.md",
+      "title": "Here's How Customer Experience And AI Are Driving The Next Gen Of E-commerce Industry",
+      "excerpt": "Brands are shifting their marketing strategies and resources from brick-and-mortar to e-commerce format, striving to create personalized shopping experiences for their customers",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/354565",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1597135156-ecommercebigdata.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/354565",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354565",
+      "publishedDateTime": "2020-08-11T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-singapores-trade-finance-startup-incomlend-raises-20m-led-by-sequoia-capital-india.md",
       "title": "Singapore’s trade finance startup Incomlend raises $20M led by Sequoia Capital India",
       "excerpt": "Incomlend, a Singapore-headquartered startup that operates a trading platform to connect exporters and importers with investors, has raised $20 million in a new financing round, it said on Tuesday. Sequoia India,",
@@ -1107,56 +1156,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-artificial-intelligence-with-great-power-comes-great-responsibility.md",
-      "title": "Artificial Intelligence: With Great Power Comes Great Responsibility",
-      "excerpt": "Those who are driving change with innovations and investments in AI must also be sure that they're steering it in the right direction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/08/10/artificial-intelligence-with-great-power-comes-great-responsibility/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2db3778c8318fd9f4e74dd%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/08/10/artificial-intelligence-with-great-power-comes-great-responsibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/08/10/artificial-intelligence-with-great-power-comes-great-responsibility/amp/",
-      "publishedDateTime": "2020-08-10T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
