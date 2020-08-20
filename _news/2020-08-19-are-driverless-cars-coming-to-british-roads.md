@@ -8,7 +8,7 @@ ampWebUrl: "https://news.sky.com/story/amp/are-driverless-cars-coming-to-british
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/are-driverless-cars-coming-to-british-roads-12052661"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -26,67 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Drive-In Theaters Are Coming Back, But Self-Driving Cars Could Be An Outdoor Movie Spoilsport"
-    excerpt: "For those old enough to remember, the drive-in was once a dominant force in the movie-going foray and enjoyed tremendous success and growth. According to industry stats, in the tail end of the 1950s there were an astounding 4,"
-    publishedDateTime: 2020-08-15T16:06:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/amp/"
+  - title: "Driverless car firm in Oxford analysing drivers' behaviour"
+    excerpt: "Five AI was launched in 2016 by serial entrepreneur Stan Boland, and is currently testing its driverless car technology in London after receiving the single largest investment into an artificial intelligence business from the UK government. The company ..."
+    publishedDateTime: 2020-08-18T21:15:00Z
+    webUrl: "https://www.oxfordmail.co.uk/business/news/17296060.driverless-car-firm-oxford-analysing-drivers-behaviour/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
+      name: Oxford Mail
+      domain: oxfordmail.co.uk
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F471923631%2F0x0.jpg%3FcropX1%3D453%26cropX2%3D5600%26cropY1%3D1191%26cropY2%3D3604"
-        width: 1200
-        height: 563
-        isCached: true
-  - title: "Self-driving cars could be allowed on UK motorways next year"
-    excerpt: "Industry welcomes consultation for use of technology in slow lane but risk concerns some Gwyn Topham Transport correspondent Motorists could be allowed to let their cars drive themselves on motorways, using automated technology, as early as next year ..."
-    publishedDateTime: 2020-08-18T18:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/aug/18/self-driving-cars-allowed-motorways-industry-risk"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/18/self-driving-cars-allowed-motorways-industry-risk"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/18/self-driving-cars-allowed-motorways-industry-risk"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 44
-    images:
-      - url: "https://i.guim.co.uk/img/media/0641f5a38fdc332723e7fa81d9f916ca3f0e17d1/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bce8dafb55ffd04c9f6b9750a9bbabcc"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Self-driving car lanes are coming: Will they help or hinder Level 5 autonomy progress?"
-    excerpt: "Tesla’s long-term Robotaxi plans require Level 5 autonomous driving, i.e., no humans involved, and it certainly sounds like things are moving along quite well. CEO Elon Musk has been chatting about the Full Self-Driving progress on Twitter lately,"
-    publishedDateTime: 2020-08-16T14:13:00Z
-    webUrl: "https://www.teslarati.com/tesla-full-self-driving-lanes-help-hinder-level-5-autonomy/"
-    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-lanes-help-hinder-level-5-autonomy/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-lanes-help-hinder-level-5-autonomy/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 36
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/02/Tesla-Autopilot-300x217.jpg"
-        width: 300
-        height: 217
-        isCached: true
-  - title: "Self-Driving Cars Could be Allowed on UK Motorways by 2021"
-    excerpt: "The running joke that is the development of \"self-driving\" cars could be about to take a huge leap forwards next year, thanks to the government opening up a consultation that may allow a simple version of the tech out on the motorways by 2021."
-    publishedDateTime: 2020-08-19T13:38:00Z
-    webUrl: "https://www.gizmodo.co.uk/2020/08/self-driving-cars-on-uk-motorways/"
-    type: article
-    provider:
-      name: Gizmodo UK
-      domain: gizmodo.co.uk
-    quality: 24
-    images:
-      - url: "https://media.gizmodo.co.uk/wp-content/uploads/2020/08/motorway-self-driving.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.oxfordmail.co.uk/resources/images/9171560/"
+        width: 2400
+        height: 1800
         isCached: true
 
 secured: "43niWCI+ueAz6WwuXAMdOMjifeo15/PjIH1xQfcbj7Xl33bPAzo3iu6GqGV4DlI3NLWMc/LvF3AeQ7PZgwcdJj3nR5yfLMyL8j2bOPqsZjZhJ01OktsbF6LNUGUUayEvay8ioJ2u1LC4w7W2ImQFDzezOaZ9knZZ94LlZMQ7risdWoj/97/rd4hHrZA31EMINezJVAn+optvFcz3mwPz+DH+ulRfe4pJxADSrw33pjQWUlUbJK55YuA11YNEatRDM/Z3WgsL2hPSOOijPVdpsSkzeDZWdRbMQ5dDtT+F1T4cKFVOltVxQoNT71/n9Kxb1NbN+dGJXuxlJ9zLVHc1orh/U4b5tn4JC1GSDZAsLWGtWalIwjzbEpJmeXPz+NM32Vf/a9Knp1pSAms0aJcmMd5M3wLJ5qE9rP4R5xLUVFIvgyOH44TNQPRV/PB/mKOCifueSwjrcDKGG40pd1bLGhbLVSXsMH9OrVg6gwoNlgCPKRDAd046vsTqrimTxFwSpBKCbzaJqXvuWL2SJyEM3w==;YgqIGGsgDOltYuJbgFy/LA=="

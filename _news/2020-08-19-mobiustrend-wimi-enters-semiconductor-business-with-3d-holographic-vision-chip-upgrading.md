@@ -21,6 +21,15 @@ topics:
   - AI Hardware
 
 related:
+  - title: "MobiusTrend: IT Giants Enter into Semiconductor Business with 3D Hologram Vision AI Chip"
+    excerpt: "MobiusTrend, a market research organization in Hong Kong, recently released a research report on ' IT Giants Enter into Semiconductor Business with 3D Hologram Vision AI Chip '. Integrated circuits and software are the cornerstones of the current digital economy and information society."
+    publishedDateTime: 2020-08-20T09:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mobiustrend-it-giants-enter-into-semiconductor-business-with-3d-hologram-vision-ai-chip-1029519467"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
   - title: "MobiusTrend: WIMI Sets Up a Subsidiary to Accelerate Hologram Vision AI Robot and Semiconductor Business"
     excerpt: "MobiusTrend, a market research organization in Hong Kong, recently released a research report on ' WIMI Sets Up a Subsidiary to Accelerate Hologram Vision AI Robot and Semiconductor Business '. WIMI announced the establishment of a wholly-owned subsidiary Lixin Technology Co."
     publishedDateTime: 2020-08-17T11:45:00Z

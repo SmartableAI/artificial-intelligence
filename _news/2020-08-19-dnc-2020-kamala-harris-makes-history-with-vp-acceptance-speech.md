@@ -44,14 +44,14 @@ related:
         isCached: true
   - title: "DNC 2020: Kamala Harris makes history with VP acceptance speech | WATCH"
     excerpt: "Kamala Harris has formally accepted the Democratic nomination for vice president. She addressed the Democratic National Convention's third night after former President Barack Obama warned that American democracy itself was at risk if President Donald Trump wins reelection this fall."
-    publishedDateTime: 2020-08-20T03:45:00Z
-    webUrl: "https://abc7.com/politics/kamala-harris-makes-history-with-vp-acceptance-speech-|-watch/6378391/"
-    ampWebUrl: "https://abc7.com/amp/kamala-harris-speech-dnc-biden/6378391/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/kamala-harris-speech-dnc-biden/6378391/"
+    publishedDateTime: 2020-08-20T08:14:00Z
+    webUrl: "https://abc30.com/kamala-harris-speech-dnc-biden/6378391/"
+    ampWebUrl: "https://abc30.com/amp/kamala-harris-speech-dnc-biden/6378391/"
+    cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/kamala-harris-speech-dnc-biden/6378391/"
     type: article
     provider:
-      name: ABC7
-      domain: abc7.com
+      name: ABC30 Action News
+      domain: abc30.com
     quality: 44
     images:
       - url: "https://cdn.abcotvs.com/dip/images/6379204_081920-cc-DNC-harris-vid.jpg"
@@ -108,17 +108,17 @@ related:
         isCached: true
   - title: "Read, watch Kamala Harris' acceptance speech from the Democratic National Convention"
     excerpt: "California Sen. Kamala Harris gave her vice presidential nomination acceptance speech on the third night of the 2020 Democratic National Convention."
-    publishedDateTime: 2020-08-20T07:41:00Z
-    webUrl: "https://www.11alive.com/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
+    publishedDateTime: 2020-08-20T08:41:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
     type: article
     provider:
-      name: 11Alive
-      domain: 11alive.com
+      name: KHOU 11
+      domain: khou.com
     quality: 37
     images:
-      - url: "https://media.11alive.com/assets/CCT/images/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80_750x422.jpg"
+      - url: "https://media.khou.com/assets/CCT/images/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80_750x422.jpg"
         width: 750
         height: 422
         isCached: true

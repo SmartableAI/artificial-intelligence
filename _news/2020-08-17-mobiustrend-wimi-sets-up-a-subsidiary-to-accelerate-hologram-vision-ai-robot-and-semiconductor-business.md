@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T11:45:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/mobiustrend-wimi-sets-up-a-subsidiary-to-accelerate-hologram-vision-ai-robot-and-semiconductor-business-1029508486"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "MobiusTrend: IT Giants Enter into Semiconductor Business with 3D Hologram Vision AI Chip"
+    excerpt: "MobiusTrend, a market research organization in Hong Kong, recently released a research report on ' IT Giants Enter into Semiconductor Business with 3D Hologram Vision AI Chip '. Integrated circuits and software are the cornerstones of the current digital economy and information society."
+    publishedDateTime: 2020-08-20T09:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mobiustrend-it-giants-enter-into-semiconductor-business-with-3d-hologram-vision-ai-chip-1029519467"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
   - title: "MobiusTrend: WIMI Enters Semiconductor Business with 3D Holographic Vision Chip Upgrading"
     excerpt: "MobiusTrend, a market research organization in Hong Kong, recently released a research report on ‘WIMI Enters Semiconductor Business with 3D"
     publishedDateTime: 2020-08-19T21:21:00Z

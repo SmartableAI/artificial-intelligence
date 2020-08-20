@@ -7,9 +7,9 @@ webUrl: "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-
 ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html"
 cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: The Jakarta Post
@@ -18,6 +18,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://img.jakpost.net/c/profile/picture/235/235.png"
@@ -25,6 +26,6 @@ images:
     height: 473
     isCached: true
 
-secured: "cyEDDN/YKIDYJ1iOcyl7C0iun9ZRvuKvwQ03P00mRfqTXpTHx1zxjhZBtT6G7fenZhQ1U/KLTWtBXS2wTHsejznVkZdH1nKYeX/p1hkIqCVb/9/fWvt4FG2HYBVAGL6sM/RZUgR2t72Jn81Ka0bjuVyw4YehgbE8T+IG/LHgV3GFVCF7gMx5rOSRpm/nbHjacaCll5LZL/24KVQ6eLXAy2nda05q1sASIU7gCmI7LPg3JOgQNxT4kcT6/5ANMyeVW+djdMY2rjahvgRXBJQTlXeslLvVx7kuHc0msr0cdIlqu3+HZFsl+PlR1THRt/KtaldaJwUyfVqxkWl5ifi4gQ==;cs4PgJ3mOZT/l31I5zTPkg=="
+secured: "2SliL8//XRiOC6IDg6HNpIjnAmv8n8u12KXd3kgW1DzdZJnpgV0G8ywg2dsuAg3gdiWs0oYnktvNlcvALr9C0OqcSjG34rX7ajSyMrR5I2+UxlyQ0gjkMzYHBuuEKzds1O55pZUgax07B18XIrGKyTUbRBHuJEd9lpI6CAmptMrKk3Xm/jBc3gMEmoSFvN/jzWk+h56W3iTum4Iq47MJyiDSglungibJh3TspLq1fHlowbLx/7jWqlsK/6B7GmGjDJ+XWQ+wNCuIuFaaD8zJFoN1+y8WMvkaq7RXA0VcfmYD5N83WjKFDftVzFEDC6yRDfuh1t6t7fqKGmGA97XDU7hR+C1p++SeQhVffRCgMypqseD5jJvYrAKFagd0NrGuurYL2LTMfsS9M1NIPBxb1OQ+eTVDzvicgXLQIpi5hI2z1mptnscGBjtBbEoToOrga3XHqlltPJyg/0iOhMDoUxwoBoe466wx8IeKhl3k4+BGiqRF8g5c/DhJjSiLiwSl5f4U+emvIgxmfv/cnW/Hhw==;CbPQDVe23o5xjsiB5osV6w=="
 ---
 

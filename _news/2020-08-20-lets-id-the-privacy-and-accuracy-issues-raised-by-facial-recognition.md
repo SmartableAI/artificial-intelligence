@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-20T05:11:00Z
 webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Officer
@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "US court gives preliminary approval to Facebook's request to settle facial recognition privacy lawsuit for USD 650 mln"
+    excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."
+    publishedDateTime: 2020-08-20T08:41:00Z
+    webUrl: "https://www.telecompaper.com/news/us-court-gives-preliminary-approval-to-facebooks-request-to-settle-facial-recognition-privacy-lawsuit-for-usd-650-mln--1350957"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 0
 
 secured: "otmof3gCj0Gast9wnHbT4jv/IFwKanx03Tr4N0mBMNosqRCx6EdZffMsC2NqPW8VnBqLHCJC+ROs9nUc7N6WprYKiD05QNIILpyQ9IdU/+RPwB8Gt6ogqzOf5thvesLiMLpC4+C1Mh3EAG9WRR9vvdW6NTY1c7K71Kw3B47T/10f84zHtc7RwZHb3yqiU5kW3lKYDPDKI5S+835xISoUoXJUV+6pPInItMzSkuFX9eaDx1GyrgyH8u6AWqA5ZxIDHOW1hEf4zbk9sZ0Zajr+8+ZSTXuHEgyKL16rzsJE4SZ0+LEA/FeZ9px8+nNDC6MPN+ZRMvWCzVsytVKlTY/63dr0wCQL1VUF+BiM0de0668O29cpqPfVMtDJKHEiHqO879DnLl35hWb8qw9Cp+dvwc3FCdg6lzJrKT5LWzCF3jXGNrqucNb8eAOvS8AwbdHDvpq5dq3Q+dYqvRQmNWSbLTsyQqouRwBgMrnXIA+2v3xuAz+5btXK6eVSCRH1SRjAjhGIyU1SWUySwl9wQJWqaw==;aGL+BI1qFB3U8r+v8BQ8qg=="
 ---

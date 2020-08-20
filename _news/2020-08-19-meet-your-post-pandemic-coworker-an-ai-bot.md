@@ -2,13 +2,13 @@
 category: news
 title: "Meet Your Post-Pandemic Coworker: An AI Bot"
 excerpt: "Ready to swap your old cube-mate for a disembodied AI? IPsoft CEO Chetan Dube, creator of AI co-worker AMELIA, gives his take on the post-COVID office landscape."
-publishedDateTime: 2020-08-19T12:00:00Z
-webUrl: "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot"
-ampWebUrl: "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1"
-cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1"
+publishedDateTime: 2020-08-19T12:14:00Z
+webUrl: "https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot"
+ampWebUrl: "https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot?amp=true"
+cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot?amp=true"
 type: article
-quality: 89
-heat: 89
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -20,15 +20,14 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/meet-your-/meet-your-post-pandemic-coworker-an-ai-bot_vxzc.620.jpg"
-    width: 620
-    height: 349
+  - url: "https://i.pcmag.com/imagery/articles/0135CL3x7Ndpnrl5Ngopfgj-3.1597702316.fit_lim.size_1200x630.jpg"
+    width: 2309
+    height: 1299
     isCached: true
 
-secured: "ZPk/1CvlyoCHelJYQl5hSvWS4maypCZ5gk0OxTkymgzhvgXRZ7/pA0ckZNToo4PBkEfHa6A0pJggPO+bkMrSl6uKwG/acKc9xzAwFMLyiIdmE7ywkLR7Mh7beiBWtcsOgI0VN/Qk8D6mBoAFODqmHqVgZX0omb7HNPfvH6ZD2Pwdr4EcofYOwRh2bIqq9/ubdELPEwCPIpH0LlslkA9gDG7Pm0oANiUpRPufqHuCoDr2pD+HwNm0nuSb6UtjHNqfiLfzkZy4Tk+bvayoPCN3NswVbfdlXn5D1YxwJPTByDi9Mbx/lGQuzTH95d+MDQqh4lmSDXw2dlJk5wen5yCimQ==;XyS8bLajd1f+LvFJhp3Xrw=="
+secured: "O2omf8a/EfsbFdJFlGrxlwhalfEk2HFhbjA4mhaoZ65y6ggCGEXVM8VqArZAcepzD7mtzfKuOfcfB65v513FgVmCgrzU8mRB+fl2I410960zIJ1cQ7FK2jQ7eSTsmCiiViyrMcpyy3MD+THOUFG1qRgz+7KFOTrgLrsC62zm2wO0CreWoDwRfcfCsj/3InoQT5r7NYrcer2ViG1rBdZ+48e0QXRaMRIdeIIot+aTXZLTvcxnFknWefFRI3dcoZJ9dDlUFeDVgHC5GXDL5ZedDZlyQzc/WHET+SQsgKRpS3k8FC0pYiapunYsfGf4tPHYEnuZaaF3V12985tOLTUe4A==;voB2Q1MmOKhbHjgWUX0+jA=="
 ---
 

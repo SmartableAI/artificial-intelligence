@@ -5,7 +5,7 @@ excerpt: "Compology CEO Jason Gates and Michael E. Hoffman, Stifel managing dire
 publishedDateTime: 2020-08-20T07:37:00Z
 webUrl: "https://www.waste360.com/fleets-technology/how-artificial-intelligence-can-enhance-waste-collection"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.waste360.com/sites/waste360.com/files/compologystifel.png"

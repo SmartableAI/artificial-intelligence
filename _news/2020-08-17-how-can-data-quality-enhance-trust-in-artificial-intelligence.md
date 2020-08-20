@@ -37,7 +37,7 @@ related:
     provider:
       name: Waste360
       domain: waste360.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.waste360.com/sites/waste360.com/files/compologystifel.png"
         width: 1540
