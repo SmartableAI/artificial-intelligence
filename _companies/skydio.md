@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SkydioHQ"
   url: "https://twitter.com/SkydioHQ"
-  followers: 8762
+  followers: 8768
 
 size: 51-200 employees
 yearFounded: 2014
