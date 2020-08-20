@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.amp.html"
 type: article
 quality: 74
-heat: 314
+heat: 324
 published: true
 
 provider:
@@ -171,6 +171,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/dnc-michelle-obama-3-ap-ps-200817_1597719891484_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Kamala Harris’ speech at the DNC: Full transcript and video"
+    excerpt: "We are a nation that’s grieving. Grieving the loss of life, the loss of jobs, the loss of opportunities, the loss of normalcy.’"
+    publishedDateTime: 2020-08-20T11:39:00Z
+    webUrl: "https://www.mercurynews.com/2020/08/20/kamala-harris-speech-at-the-dnc-full-transcript-and-video/"
+    ampWebUrl: "https://www.mercurynews.com/2020/08/20/kamala-harris-speech-at-the-dnc-full-transcript-and-video/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/08/20/kamala-harris-speech-at-the-dnc-full-transcript-and-video/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 44
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/hypatia-h_89b571ab504f65035807fe170a349a1f-h_e4f033ad8426720a786fb13604b202ef.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Michelle Obama’s DNC Speech And The Emotional Labor Black Women Have Paid For America Time And Time Again"
     excerpt: "And I say that with full recognition of her place as a Black woman ... Harris ticket from the comfort of her home. She began her speech on a macro level, contemplating the story of America and ..."

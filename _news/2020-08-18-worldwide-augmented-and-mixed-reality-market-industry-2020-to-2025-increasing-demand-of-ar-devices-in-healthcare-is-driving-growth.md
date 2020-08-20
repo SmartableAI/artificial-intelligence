@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market latest Trends and New Technologies Research Forecast to 2026"
+    excerpt: "The Artificial Intelligence Market report upholds the future market predictions related to Artificial Intelligence market size, revenue, production, Consumption, gross margin and other substantial factors."
+    publishedDateTime: 2020-08-20T10:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-and-new-technologies-research-forecast-to-2026-2020-08-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "POWER PLAYERS: The 18 leaders at Google Health shaping the tech giant's secretive healthcare business"
     excerpt: "Starting when Dr. David Feinberg joined the company in 2019, the tech giant is consolidating many of its health efforts onto a single team."
     publishedDateTime: 2020-08-17T13:20:00Z

@@ -3,24 +3,24 @@ category: news
 title: "Read, watch Kamala Harris' acceptance speech from the Democratic National Convention"
 excerpt: "California Sen. Kamala Harris gave her vice presidential nomination acceptance speech on the third night of the 2020 Democratic National Convention."
 publishedDateTime: 2020-08-20T08:41:00Z
-webUrl: "https://www.khou.com/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
-ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
-cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
+webUrl: "https://www.ksdk.com/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
+ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
+cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: KHOU 11
-  domain: khou.com
+  name: KSDK
+  domain: ksdk.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media.khou.com/assets/CCT/images/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80_750x422.jpg"
+  - url: "https://media.ksdk.com/assets/CCT/images/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80_750x422.jpg"
     width: 750
     height: 422
     isCached: true
@@ -60,14 +60,14 @@ related:
         isCached: true
   - title: "DNC 2020: Kamala Harris makes history with VP acceptance speech | WATCH"
     excerpt: "Kamala Harris has formally accepted the Democratic nomination for vice president. She addressed the Democratic National Convention's third night after former President Barack Obama warned that American democracy itself was at risk if President Donald Trump wins reelection this fall."
-    publishedDateTime: 2020-08-20T08:14:00Z
-    webUrl: "https://abc30.com/kamala-harris-speech-dnc-biden/6378391/"
-    ampWebUrl: "https://abc30.com/amp/kamala-harris-speech-dnc-biden/6378391/"
-    cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/kamala-harris-speech-dnc-biden/6378391/"
+    publishedDateTime: 2020-08-20T10:22:00Z
+    webUrl: "https://6abc.com/kamala-harris-speech-dnc-biden/6378391/"
+    ampWebUrl: "https://6abc.com/amp/kamala-harris-speech-dnc-biden/6378391/"
+    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/kamala-harris-speech-dnc-biden/6378391/"
     type: article
     provider:
-      name: ABC30 Action News
-      domain: abc30.com
+      name: 6abc News
+      domain: 6abc.com
     quality: 44
     images:
       - url: "https://cdn.abcotvs.com/dip/images/6379204_081920-cc-DNC-harris-vid.jpg"
@@ -106,6 +106,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris’s convention speech, annotated"
+    excerpt: "And at every step of the way, I’ve been guided by the words I spoke from the first time I stood in a courtroom — Kamala Harris for the people. I have fought for children and survivors of sexual assault."
+    publishedDateTime: 2020-08-20T10:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/08/20/kamala-harriss-convention-speech-annotated/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/08/20/kamala-harriss-convention-speech-annotated/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/08/20/kamala-harriss-convention-speech-annotated/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 44
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-20-2020/t_406df99cb6ff42ae8eba5e6f72833e50_name_Toni_L__Sandys_3_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Read Kamala Harris’ full speech at the Democratic National Convention"
     excerpt: "She addressed the Democratic National Convention’s third night after former President Barack Obama warned that American democracy itself was at risk if President Donald Trump wins reelection this fall."
     publishedDateTime: 2020-08-20T03:34:00Z
@@ -123,6 +139,6 @@ related:
         height: 640
         isCached: true
 
-secured: "7JrOWxlO/hi5vbEAw2S2vPonh4j4t5VyBQJHEUD5meabcmNApHxw9yvInKcFUV+yAxyjyxk7PKd9PkD0i5A48W5N7bPVAT39DiWZ+bqEaK3nRbyZ/sK1CdW48ntSUOwGF29AbvwlxZzgzq1pU1ULXTSDpBHfUP+GeG1CmvCzjIIEc04E9YbGPpf3DEmg/Ml9FP4aqInKfEV3x2Ldt6fJbBYNvvlLr28HzWlN01e/BCWpP+BVEYwMZJmBbduYBvO7nkc3xLVz3/kvsFaVUfRkf8dmRgMhV+0bp6vobxV4AiM3l7xmkYnOhf2PWdFsE/ZoYQr4B9nKl1nlxFO//jSs6w==;XjTqHtUqkpA/CkBTS0Ny3A=="
+secured: "8Q0YbrMsERJhk8rR4TtFd2tma4ut7koFGpaJ8ZtMcc7sSJvonYoOAAqO1JXNlBb2wd2KapqcxV2LhbIK6MrKY7qFR9Y7SEbRqBOPT1WTIFQxlKXpVkil86T55CuJV+laqEISFq7Sgrk9/zrsyLF0+3/ghczIamFR/hx9n+mvpulW/R6QynDw4VEAHOFSwJb22j2yg1dLyQcXrrpGzDdw+GOpkpqKMpS164KlBs7r5qXZQyAo9+BiKfUa+fl+gl0b3xF6PGdtT2xgqROK5ys/AC52AZzy+5wTh60quAmM5tmUCCo21O0xtvcNo01YFcl2J1VG1ylIypwVjuJg/9Y8wQ==;0C0wRnI1l7lnOFEgo/uJaA=="
 ---
 

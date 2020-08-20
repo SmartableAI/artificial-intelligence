@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-se
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-self-driving-vehicles-apriority/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -150,6 +150,20 @@ related:
       - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/08/selfdrivingCAVNUE.jpg&quality=70&width=808"
         width: 808
         height: 424
+        isCached: true
+  - title: "Wales Open 2020 to feature self-driving vehicles to shuttle golfers"
+    excerpt: "Golfers participating in the Wales Open 2020 this week will be among the first sportspeople to be shuttled around in autonomous cars. Used in place of buggies, the shuttles will be able to run three golfers and their caddies at a time from the Twenty Ten Club House at the Celtic Manor near Newport to the first tee,"
+    publishedDateTime: 2020-08-20T11:39:00Z
+    webUrl: "https://www.shropshirestar.com/news/motors/2020/08/20/wales-open-2020-to-feature-self-driving-vehicles-to-shuttle-golfers/"
+    type: article
+    provider:
+      name: Shropshire Star
+      domain: shropshirestar.com
+    quality: 24
+    images:
+      - url: "https://www.shropshirestar.com/resizer/MoqecRx7CCy_LbUju-Hviu-AsHY=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/shropshirestar.mna/AQROZUGT35ATDOCNLVSFQW3BDQ.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Wales Open 2020 tees up self-driving vehicle to shuttle golfers from clubhouse"
     excerpt: "European Tour Pro Golfer Ross Fisher stands next to the Aurrigo x Vodafone Driverless Shuttle in Celtic Manor (Photo: Aurrigo/Vodafone) Some of the world’s best golfers will swap their buggies ..."

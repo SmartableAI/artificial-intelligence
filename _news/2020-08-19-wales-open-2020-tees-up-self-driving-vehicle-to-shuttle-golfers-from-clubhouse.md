@@ -161,6 +161,20 @@ related:
         width: 808
         height: 424
         isCached: true
+  - title: "Wales Open 2020 to feature self-driving vehicles to shuttle golfers"
+    excerpt: "Golfers participating in the Wales Open 2020 this week will be among the first sportspeople to be shuttled around in autonomous cars. Used in place of buggies, the shuttles will be able to run three golfers and their caddies at a time from the Twenty Ten Club House at the Celtic Manor near Newport to the first tee,"
+    publishedDateTime: 2020-08-20T11:39:00Z
+    webUrl: "https://www.shropshirestar.com/news/motors/2020/08/20/wales-open-2020-to-feature-self-driving-vehicles-to-shuttle-golfers/"
+    type: article
+    provider:
+      name: Shropshire Star
+      domain: shropshirestar.com
+    quality: 24
+    images:
+      - url: "https://www.shropshirestar.com/resizer/MoqecRx7CCy_LbUju-Hviu-AsHY=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/shropshirestar.mna/AQROZUGT35ATDOCNLVSFQW3BDQ.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Self-driving startup AutoX launches public test rides in its self-driving vehicles"
     excerpt: "A fleet of self-driving cars are seen at Cangzhou economic development zone in Cangzhou City, north China's Hebei Province, May 14, 2020. The road test area for intelligent connected vehicles (ICVs) was extended from Cangzhou economic development zone to main urban areas of the city on Thursday."
     publishedDateTime: 2020-08-18T15:46:00Z

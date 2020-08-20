@@ -273,6 +273,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "SIA Issues Facial Recognition Policy Guidelines"
+    excerpt: "The Security Industry Association says all technology, including facial recognition, must only be used in a lawful, ethical and nondiscriminatory fashion."
+    publishedDateTime: 2020-08-20T09:03:00Z
+    webUrl: "https://www.campussafetymagazine.com/news/sia-issues-facial-recognition-policy-guidelines/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 39
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/08/AdobeStock_331206282-scaled.jpeg"
+        width: 2560
+        height: 1369
+        isCached: true
   - title: "Facial recognition technology riddled with racial bias; cities are fighting back"
     excerpt: "In the wake of the George Floyd protests, many cities and technology conglomerates are banning police agencies from utilizing facial recognition technology, citing racial discrimination as a vital concern."
     publishedDateTime: 2020-08-17T17:53:00Z

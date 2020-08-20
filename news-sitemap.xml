@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/</loc>
+    <lastmod>2020-08-20T04:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/allscripts-collaboration-to-advance-healthcare-innovation-2020-08-20</loc>
+    <lastmod>2020-08-20T04:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/ai-in-the-middle-east-heres-what-you-need-to-know/</loc>
+    <lastmod>2020-08-20T03:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://markets.businessinsider.com/news/stocks/mobiustrend-it-giants-enter-into-semiconductor-business-with-3d-hologram-vision-ai-chip-1029519467</loc>
     <lastmod>2020-08-20T02:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -13,7 +31,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/in/news/aws-reveals-first-quantum-computing-partners</loc>
+    <loc>https://www.techradar.com/sg/news/aws-reveals-first-quantum-computing-partners</loc>
     <lastmod>2020-08-20T01:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -21,6 +39,12 @@
   <url>
     <loc>https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html</loc>
     <lastmod>2020-08-20T00:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/advisor/personal-finance/ways-fintech-can-help-you-automate-your-finances/</loc>
+    <lastmod>2020-08-19T23:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -187,8 +211,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot</loc>
-    <lastmod>2020-08-19T05:14:00-07:00</lastmod>
+    <loc>https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot</loc>
+    <lastmod>2020-08-19T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -625,8 +649,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.idahostatesman.com/entertainment/article244877067.html</loc>
-    <lastmod>2020-08-14T23:01:00-07:00</lastmod>
+    <loc>https://www.miamiherald.com/entertainment/celebrities/article244877067.html</loc>
+    <lastmod>2020-08-15T00:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1719,6 +1743,12 @@
   <url>
     <loc>https://www.forbes.com/sites/cognitiveworld/2020/08/08/how-the-federal-governments-ai-center-of-excellence-is-impacting-government-wide-adoption-of-ai/</loc>
     <lastmod>2020-08-07T22:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.atmarkit.co.jp/ait/articles/1908/08/news032.html</loc>
+    <lastmod>2020-08-07T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
