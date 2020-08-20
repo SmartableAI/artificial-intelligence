@@ -2,6 +2,105 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-17-how-can-data-quality-enhance-trust-in-artificial-intelligence.md",
+      "title": "How Can Data Quality Enhance Trust In Artificial Intelligence?",
+      "excerpt": "As organizations rely more and more on AI, we will see an increase in trust as more regulations ask businesses to identify the source of any data and create transparent and explainable algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/17/how-can-data-quality-enhance-trust-in-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/17/how-can-data-quality-enhance-trust-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/17/how-can-data-quality-enhance-trust-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-08-17T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-elon-musk-hints-at-teslas-not-so-secret-dojo-ai-training-supercomputer-capacity.md",
+      "title": "Elon Musk hints at Tesla’s not-so-secret Dojo AI-training supercomputer capacity",
+      "excerpt": "Elon Musk has made a rare new comment about Tesla’s now not-so-secret ‘Dojo’ program to create an AI-training supercomputer and gave a hint of its capacity. Last year at Tesla’s Autonomy Day, the CEO first confirmed the existence of the ‘Dojo’ program: “We do have a major program at Tesla which we don’t have enough time",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/08/17/elon-musk-tesla-secret-dojo-ai-training-supercomputer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/08/Tesla-supercomputer.jpg?quality=82&strip=all",
+          "width": 2754,
+          "height": 1318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/08/17/elon-musk-tesla-secret-dojo-ai-training-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/08/17/elon-musk-tesla-secret-dojo-ai-training-supercomputer/amp/",
+      "publishedDateTime": "2020-08-17T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-microsoft-translator-now-supports-odia-total-11-languages-in-india-know-details.md",
       "title": "Microsoft Translator now supports Odia, total 11 languages in India: Know details",
       "excerpt": "Microsoft Translator enables professionals to enhance their business and customer interactions with text and speech translation powered by Translator and Microsoft Speech service, and Azure Cognitive Services.",
@@ -331,7 +430,7 @@
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -571,7 +670,7 @@
       "webUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1087,98 +1186,6 @@
         "AI",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-google-open-sources-lit-a-toolset-for-evaluating-natural-language-models.md",
-      "title": "Google open-sources LIT, a toolset for evaluating natural language models",
-      "excerpt": "Google-affiliated researchers developed an open source framework -- Language Interpretability Tool (LIT) designed to explore and audit language models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/14/google-open-sources-lit-a-toolset-for-evaluating-natural-language-models/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/figure-1-e1597419390343.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/14/google-open-sources-lit-a-toolset-for-evaluating-natural-language-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/14/google-open-sources-lit-a-toolset-for-evaluating-natural-language-models/amp/",
-      "publishedDateTime": "2020-08-14T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-michigan-self-driving-vehicle-corridor-aims-to-lead-nation.md",
-      "title": "Michigan Self-Driving Vehicle Corridor Aims to Lead Nation",
-      "excerpt": "Michigan is working to build a first-in-the-nation autonomous vehicle corridor in its southeast corner, a new bid to ensure the region remains the epicenter of an auto industry moving rapidly to a tech-driven future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_614402420.jpg",
-          "width": 840,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP",
-      "publishedDateTime": "2020-08-14T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

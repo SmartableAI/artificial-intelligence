@@ -2,6 +2,97 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-19-is-anthos-the-edge-google-needs-in-enterprise-cloud.md",
+      "title": "Is Anthos the edge Google needs in enterprise cloud?",
+      "excerpt": "In 3rd place in the cloud wars for years, the emergence of Google's Anthos last year was a welcome move that makes a versatile multicloud future for businesses not just a possibility, but a practical option today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/10/2f5cb054-c9f7-4ebb-9c6f-9c1698ba44e9/thumbnail/1200x675/422a12290de5e69249993f300448f6ca/thumb.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/",
+      "publishedDateTime": "2020-08-18T18:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-hot-chips-2020-live-blog-baidu-kunlun-ai-processor-430pm-pt.md",
+      "title": "Hot Chips 2020 Live Blog: Baidu Kunlun AI Processor (4:30pm PT)",
+      "excerpt": "as well as HBM2, and packing 260 TOPs into 150 W. 07:29PM EDT - Last session of Hot Chips is all about ML inference. Starting with Baidu, and its Kunlun AI processor",
+      "sourceUrl": null,
+      "webUrl": "https://www.anandtech.com/show/16008/hot-chips-2020-live-blog-baidu-kunlun-ai-processor-430pm-pt",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.anandtech.com/doci/16008/8%20-%20Baidu_678x452.png",
+          "width": 678,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AnandTech",
+        "domain": "anandtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-cerebras-teases-second-generation-wafer-scale-ai-chip.md",
       "title": "Cerebras teases second-generation wafer-scale AI chip",
       "excerpt": "The existing Gen-1 has 18 gigabytes of DRAM on die. Lie told the audience to wait for details \"in coming months.\" Cerebras competes with established GPU heavyweight Nvidia and other startups such as Graphcore and Tachyum.",
@@ -1328,105 +1419,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-ai-based-traffic-management-gets-green-light.md",
-      "title": "AI-based traffic management gets green light",
-      "excerpt": "Technology convergence allows for safer automated traffic lights with less waiting. When it's time to contract with an outside vendor for IT solutions, you need an easy way to compare the relative merits and faults of competing providers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-based-traffic-management-gets-green-light/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/4583de6c-e053-4b17-b5b9-9a2f1b4b432c/green-go.jpg",
-          "width": 960,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-based-traffic-management-gets-green-light/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-based-traffic-management-gets-green-light/",
-      "publishedDateTime": "2020-08-17T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips.md",
-      "title": "Intel: Data bandwidth, sparsity are the two biggest challenges for AI chips",
-      "excerpt": "The movement of data into and out of the processor is the biggest challenge for AI chips, but sparsity looms as an even greater challenge, according to Intel engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/d7c866cd-2e4e-49d6-a72e-56ffd3c5868a/intel-glimpse-into-the-future-of-connectivity-aug-2020.png",
-          "width": 2948,
-          "height": 1652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
-      "publishedDateTime": "2020-08-17T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -7,9 +7,9 @@ webUrl: "https://www.nasdaq.com/articles/robotics-and-artificial-intelligence-et
 ampWebUrl: "https://www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19?amp"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 101
+heat: 101
+published: true
 
 provider:
   name: Nasdaq
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 secured: "aa04hkExPYTUAQcm0XN3G9pva5D4kHWevTdsqBH7mknMexRl8LBKawUyRG85eYMOTcqCkpS2WggrpcFBaRYIum7bh4OLGsHxuPHS60HtYER7OOLPlaXmn5atMbK91NWruRpODDgZPq+5YzwzkJDCrCFzXYUsbDrVtZwNFYOtfr/sSHCDxLDCko7HfD36K9UMYeyTCFzNOBizIg+FJAIxRGd6EnSBi4Gb4ma0tXcPCh0jb1AfUVYeTSTPARFP2xNpAKBz7Iji1JsDjUOMEZVQcLS+gCNHWyrjfSUC8wHbsF4L97NHY/qNi2fSWRdlC92KgHYXPrccVRe4I4UD+HhAgg==;zGWVbQgpKkjCm3+ZEKyeTA=="
 ---

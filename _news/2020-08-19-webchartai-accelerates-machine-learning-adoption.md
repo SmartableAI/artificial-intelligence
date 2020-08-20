@@ -1,33 +1,33 @@
 ---
 category: news
 title: "WebChartAi Accelerates Machine Learning Adoption"
-excerpt: "JOHNSON CITY, Tenn., Aug. 19, 2020 /PRNewswire/ -- Xelex Digital today announced the release of its new audio and text annotation platform, WebChartAi, designed to accelerate the adoption of machine learning applications by simplifying the creation of ..."
-publishedDateTime: 2020-08-19T15:15:00Z
-webUrl: "https://www.prnewswire.com/news-releases/webchartai-accelerates-machine-learning-adoption-301114486.html"
+excerpt: "\"WebChartAi lowers the technology barrier to entry, enabling a broader base of companies to more easily harness the power of NLP-driven task automation.\" In machine learning applications utilizing natural language processing (NLP),"
+publishedDateTime: 2020-08-19T16:06:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/webchartai-accelerates-machine-learning-adoption-1029517519"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/webchartai-accelerates-machine-learning-adoption-1029517519"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/webchartai-accelerates-machine-learning-adoption-1029517519"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 84
+heat: 94
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
 related:
   - title: "Accelerating AI Adoption For The Modern Data-Driven Enterprise"
     excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
     publishedDateTime: 2020-08-19T16:14:00Z
-    webUrl: "https://www.computerworld.com/resources/207332/accelerating-ai-adoption-for-the-modern-data-driven-enterprise"
+    webUrl: "https://www.computerworld.com/resources/207312/accelerating-ai-adoption-for-the-modern-data-driven-enterprise"
     type: article
     provider:
       name: Computerworld
@@ -39,6 +39,6 @@ related:
         height: 300
         isCached: true
 
-secured: "kKVnlnQN7eGc99JlyuVvxBcm3IQnoF5FJR4RlXFwAR1kch1ZCqlVHoPeMvOvnT1ytAkkg9vpGEF1j/ImOtmE06OJl42xePyRAO/TU1y/j3ihZg4Qp3FTM/P6tpHAXnFxe8OAT6q1ncR7a5dQ5b/6NCELsoIIp2FQFKMO2rrtPFF9d8JjML6YDsM/EjRGAxMV+vB7Sffjq5nXEtuIVPCDo7TYsmlQ3t6jTypS2z77vZuZ1ajM0DLIUDj0ynhhPnmMVII434/WT2byg/APtrXy3UddVzaVvPLM5l4FobkRrdwuO52dqiQFPrlQT3J80HdTPqZjRDhYrg6ilgzAXlq+ww==;9n3QmxqhxRkYQNbH0jsGew=="
+secured: "hiJUVsEtqGgTbbnSZD0TcIMNtQHXeOyN84W2LiTTnfMCXWKeNDhfxyD8IYECv0E2b1THa7Q53MaUD3MqC/jjE+cfx+RUqPYUDCzf7bu2YoPTnkXTDmdd8ciR35VObcrABbYSWTtHhj13NJ7bwelptXXucUjnO8B3uVkoHJjexSn7W+kRGaCH0Dai2wPQns/MmkAwWV+oS0a3Mu6HPhkSXBle39iQUEOcrvc6xji/V4hUd+vVkJvCBOhfyutP4MQ2IJm4ENamt3mtn0dfD1YiLg0iXukArTiP2ge/iZ2nex93K6kF6Vw26GKkimFH7sr91pGG2ZWev8JcFbePzLhrlg==;bdCN08EwrV4EC5zxTX64Hw=="
 ---
 

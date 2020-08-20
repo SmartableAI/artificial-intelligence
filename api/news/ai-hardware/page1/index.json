@@ -2,11 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-19-microsofts-new-azure-servers-deliver-powerful-nvidia-a100-ampere-ai-supercomputing-boost.md",
+      "title": "Microsoft's New Azure Servers Deliver Powerful NVIDIA A100 Ampere AI Supercomputing Boost",
+      "excerpt": "Therefore, Microsoft’s Azure is announcing their powerful ND A100 v4 virtual machine series. Each device will be kitted out with eight impressive NVIDIA Ampere A100 Tensor Core GPUs. The ND A100 v4 won’t work alone,",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/52579/content/azure-machine-learning.jpg",
+          "width": 708,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
+      "publishedDateTime": "2020-08-19T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai.md",
       "title": "World’s largest chip gets beefier: 850 thousand cores for AI",
       "excerpt": "Announed at the Hot Chips 2020 conference, the new chip — which is as large as a single 300-mm wafer — packs over two times more transistors as well as a whopping number of AI-optimized cores. The Cerebras Wafer Scale Engine Generation 2 has a die size of approximately 46,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
+      "webUrl": "https://www.techradar.com/sg/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 116,
@@ -22,8 +64,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
       "publishedDateTime": "2020-08-19T12:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -47,9 +89,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Google AI",
         "AI",
-        "Google AI"
+        "AI Hardware"
       ]
     },
     {
@@ -1301,38 +1343,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-solidus-making-waves-in-the-ai-sector.md",
-      "title": "Solidus making waves in the AI sector",
-      "excerpt": "Established 2017 Solidus Technologies have been raising funds and working on building a data centre built for the purpose of High",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n16891775/solidus-making-waves-in-the-ai-sector",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16891775",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16891775",
-      "publishedDateTime": "2020-08-03T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

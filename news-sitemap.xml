@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19</loc>
+    <lastmod>2020-08-19T14:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/19/could-machine-learning-help-bring-marginalized-voices-into-historical-archives/</loc>
     <lastmod>2020-08-19T13:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -13,7 +19,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/nz/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai</loc>
+    <loc>https://www.techradar.com/sg/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai</loc>
     <lastmod>2020-08-19T12:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -67,6 +73,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/webchartai-accelerates-machine-learning-adoption-1029517519</loc>
+    <lastmod>2020-08-19T09:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-is-estimated-to-achieve-cagr-of-49-by-2027-2020-08-19</loc>
     <lastmod>2020-08-19T06:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -103,8 +115,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot</loc>
-    <lastmod>2020-08-19T05:00:00-07:00</lastmod>
+    <loc>https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot</loc>
+    <lastmod>2020-08-19T05:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1183,12 +1195,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/g17029904/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries</loc>
-    <lastmod>2020-08-11T06:53:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8</loc>
     <lastmod>2020-08-11T06:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1197,6 +1203,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11</loc>
     <lastmod>2020-08-11T06:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries-1029492002</loc>
+    <lastmod>2020-08-11T06:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

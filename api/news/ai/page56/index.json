@@ -2,6 +2,97 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-06-29-waymo-and-volvo-form-exclusive-self-driving-partnership.md",
+      "title": "Waymo And Volvo Form Exclusive Self-Driving Partnership",
+      "excerpt": "Waymo and Volvo announced an “exclusive” partnership to integrate Waymo’s self-driving technology onto Volvo’s vehicular platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef97c751581aa000682bee9%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Waymo And Volvo Form Exclusive Self-Driving Partnership",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/amp/",
+      "publishedDateTime": "2020-06-28T23:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments.md",
+      "title": "Enabling Technologies to Offer Three New Proactive, Painless, and Complimentary Security Assessments",
+      "excerpt": "Enabling Technologies has recognized that attackers are increasing their attacks while organizations are working from home. To as",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367",
+      "publishedDateTime": "2020-06-28T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self-driving-robotaxi-service-in-shanghai.md",
       "title": "Chinese ride-hailing giant Didi Chuxing launches pilot self-driving robotaxi service in Shanghai",
       "excerpt": "Commuters can book free rides in Didi autonomous vehicles within designated areas in Shanghai’s Jiading District but human drivers still required on board for safety",
@@ -1308,87 +1399,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai.md",
-      "title": "Our fragile 40-years-old Banking infrastructure can only be saved with AI",
-      "excerpt": "IT failures are more common than we think. Admitting that you have a problem means there is a risk in doing business with you, and that leads to customer churn. Most companies try to conceal their failures and pretend there is nothing wrong.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/future-artificial-intelligence.jpg",
-          "width": 650,
-          "height": 400,
-          "title": "Our fragile 40-years-old Banking infrastructure can only be saved with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/amp/",
-      "publishedDateTime": "2020-06-26T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-ironscales-adds-natural-language-processing-to-its-email-security-kit.md",
-      "title": "Ironscales Adds Natural-Language Processing To Its Email Security Kit",
-      "excerpt": "Email security firm Ironscales has deployed natural-language processing (NLP) to detect common business email compromise (BEC) attacks. The firm uses machine learning and neural networks to help ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/353068/ironscales-adds-natural-language-processing-to-its.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-26T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

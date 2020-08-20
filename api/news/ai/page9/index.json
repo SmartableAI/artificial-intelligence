@@ -2,6 +2,104 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-08-10-why-do-solar-farms-kill-birds-call-in-the-ai-bird-watcher.md",
+      "title": "Why Do Solar Farms Kill Birds? Call in the AI Bird Watcher",
+      "excerpt": "Solar facilities kill tens of thousands of birds every year, and no one is quite sure why. An artificial-intelligence-powered birder is on the case.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/why-do-solar-farms-kill-birds-call-in-the-ai-bird-watcher/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f2d8dadc693e7df1016520f/master/pass/Science_solarfarms_841997834.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/why-do-solar-farms-kill-birds-call-in-the-ai-bird-watcher/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-do-solar-farms-kill-birds-call-in-the-ai-bird-watcher/amp",
+      "publishedDateTime": "2020-08-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-the-morning-after-watch-an-air-force-pilot-take-on-ai-controlled-fighters-online.md",
+      "title": "The Morning After: Watch an Air Force pilot take on AI-controlled fighters online",
+      "excerpt": "It’ll happen virtually, instead, with participants and viewers watching online as AI algorithms control simulated F-16 fighter planes in aerial combat. By the end of the three-day event, viewers will witness a matchup between the top AI and an experienced Air Force fighter pilot,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/the-morning-after-ai-fighter-pilots-112824955.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fc2c818e0-db0e-11ea-b07f-4ac840ece8a9&client=amp-blogside-v2&signature=876001e9bddc25f4e4ed6fbacc3b80f107eff183",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/the-morning-after-ai-fighter-pilots-112824955.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-ai-fighter-pilots-112824955.html",
+      "publishedDateTime": "2020-08-10T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-ai-needs-to-learn-multi-intent-for-computers-to-show-empathy.md",
       "title": "AI Needs To Learn Multi-Intent For Computers To Show Empathy",
       "excerpt": "Artificial Intelligence (AI) is smart, but it could do better. The software development industry is constantly working to push algorithmic logic beyond the scope of the current computer processing envelope and create new ways for computers to ‘think’ and emulate human beings.",
@@ -1293,97 +1391,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-driverless-cars-gain-speed-despite-global-slowdown.md",
-      "title": "Driverless Cars Gain Speed, Despite Global Slowdown",
-      "excerpt": "The solution, according to today’s most influential automakers, is to accelerate the development of electric, driverless cars programmed by artificial intelligence. For real. Our Meet George Jetson! destiny is not only inevitable, it will arrive sooner ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2d8f331d23de6d2c78380f%2F0x0.jpg",
-          "width": 1200,
-          "height": 825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-07T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management.md",
-      "title": "Buildots raises $16 million as it brings AI computer vision to construction management",
-      "excerpt": "Buildots, the company bringing AI to construction, today announced that it had secured $16 million in… | Construction | London | Funding | Property | Finance | Technology | Investment |",
-      "sourceUrl": null,
-      "webUrl": "https://bdaily.co.uk/articles/2020/08/07/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdaily.co.uk/images/uploads/B6wjx7IkXyZ2kStUZwl8I2vzzkKwp6O7GW1vifbK.jpeg?w=940&h=430&fit=crop-50-50&s=7f1adf0eacaf6994d1eaccd001885187",
-          "width": 940,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-07T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bdaily Business Network",
-        "domain": "bdaily.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,88 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-08-05-hyland-releases-foundation-version-of-brainware-intelligent-capture.md",
+      "title": "Hyland Releases Foundation Version of Brainware Intelligent Capture",
+      "excerpt": "Hyland, a leading content services provider for organizations across the globe, announces Brainware Foundation, the latest release of Hyland's intelligent data extraction and text",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hyland-releases-foundation-version-of-brainware-intelligent-capture/article_9e694b5d-3d3c-5562-9de9-c3aaff952d98.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-expert-system-raises-294-million-for-ai-text-extraction-and-analysis.md",
+      "title": "Expert System raises $29.4 million for AI text extraction and analysis",
+      "excerpt": "Expert System has raised $29.4 million to bolster the development of its natural language processing technologies for enterprise customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/amp/",
+      "publishedDateTime": "2020-08-05T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-sight-diagnostics-raises-71-million-for-blood-testing-computer-vision.md",
       "title": "Sight Diagnostics raises $71 million for blood-testing computer vision",
       "excerpt": "It first “digitizes” blood into over 1,000 high-resolution colored microscope images, and then it runs computer vision algorithms trained on half a petabyte of anonymized data from four years ...",
@@ -1235,95 +1317,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate.md",
-      "title": "IDC: AI market revenues continue to grow but at a slower rate",
-      "excerpt": "IDC has said that it expects to see worldwide revenue in the artificial intelligence (AI) market rise this year by around 12.3% compared to 2019. With the increase factored in, the analyst said that the market could see $156.5 billion in revenue this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/08/1596574155_1920px-international-data-corporation-logo.svg_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate/",
-      "publishedDateTime": "2020-08-04T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-ai-helps-doctors-fight-covid-19-in-brazil.md",
-      "title": "AI Helps Doctors Fight Covid-19 in Brazil",
-      "excerpt": "Under-testing remains a huge problem in the sprawling South American country, but AI is helping fill the gap, thanks to a system called RadVid-19 developed using algorithms from German company Siemens and Chinese firm Huawei. Brazil has been hit harder by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/04/Virus.Favela-scaled.jpg?fit=2560%2C1707&#038;ssl=1",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/",
-      "publishedDateTime": "2020-08-04T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

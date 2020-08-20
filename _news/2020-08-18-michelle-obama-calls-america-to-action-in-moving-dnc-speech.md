@@ -74,6 +74,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Michelle Obama's Speech to the Democratic Convention"
+    excerpt: "Former First Lady's Michelle Obama's speech to the Democratic National Convention, as broadcast: __ Good evening, everyone. It’s a hard time, and everyone’s feel"
+    publishedDateTime: 2020-08-18T03:57:00Z
+    webUrl: "https://www.nytimes.com/aponline/2020/08/17/us/politics/ap-us-election-2020-michelle-obama-transcript.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 54
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Full text: Michelle Obama's speech to Democratic convention"
     excerpt: "Empathy: That's something I've been thinking a lot about lately. The ability to walk in someone else's shoes; the recognition that someone else's experience has value, too. Most of us practice this without a second thought. If we see someone suffering or ..."
     publishedDateTime: 2020-08-18T12:12:00Z
@@ -121,22 +135,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/Vk3_UotvmeNANh-WmVxi6W73LYQ=/0x0:1440x900/1400x1050/filters:focal(605x335:835x565):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67218246/Screen_Shot_2020_08_17_at_10.56.37_PM.0.png"
         width: 1400
         height: 900
-        isCached: true
-  - title: "Michelle Obama's speech to the Democratic convention"
-    excerpt: "Former first lady Michelle Obama's speech to the Democratic National Convention ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought."
-    publishedDateTime: 2020-08-18T14:43:00Z
-    webUrl: "https://www.newsday.com/news/nation/michelle-obama-dnc-speech-1.48240536"
-    ampWebUrl: "https://www.newsday.com/amp/news/nation/michelle-obama-dnc-speech-1.48240536"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/nation/michelle-obama-dnc-speech-1.48240536"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 44
-    images:
-      - url: "https://cdn.newsday.com/polopoly_fs/1.48240537.1597724262!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-        width: 1280
-        height: 719
         isCached: true
   - title: "READ: Michelle Obama's DNC speech"
     excerpt: "Former first lady Michelle Obama capped off the first night of the DNC with a speech that touted Joe Biden's empathy."

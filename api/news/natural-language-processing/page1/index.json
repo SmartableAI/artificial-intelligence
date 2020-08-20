@@ -96,56 +96,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-19-meet-your-post-pandemic-coworker-an-ai-bot.md",
-      "title": "Meet Your Post-Pandemic Coworker: An AI Bot",
-      "excerpt": "Ready to swap your old cube-mate for a disembodied AI? IPsoft CEO Chetan Dube, creator of AI co-worker AMELIA, gives his take on the post-COVID office landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/m/meet-your-/meet-your-post-pandemic-coworker-an-ai-bot_vxzc.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1",
-      "publishedDateTime": "2020-08-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-19-how-duolingo-uses-ai-in-every-part-of-its-app.md",
       "title": "How Duolingo uses AI in every part of its app",
       "excerpt": "We spoke to von Ahn about all the ways Duolingo uses AI and then ... Knowing how to translate individual words isn’t enough for effective communication in a new language. Sentence construction ...",
@@ -1461,6 +1411,47 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020.md",
+      "title": "Behavioral Signals Named as a Sample Vendor in the Gartner Hype Cycle for Natural Language Technologies, 2020",
+      "excerpt": "Natural language process (NLP), Large-Scale Pretrained Language Model, Natural Language Processing(NLP) and Natural Language Understanding also have similar adoption rates. Emotion AI technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020-1029471680",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020-1029471680",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020-1029471680",
+      "publishedDateTime": "2020-08-05T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

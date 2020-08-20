@@ -3,7 +3,7 @@ category: news
 title: "Accelerating AI Adoption For The Modern Data-Driven Enterprise"
 excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
 publishedDateTime: 2020-08-19T16:14:00Z
-webUrl: "https://www.computerworld.com/resources/207332/accelerating-ai-adoption-for-the-modern-data-driven-enterprise"
+webUrl: "https://www.computerworld.com/resources/207312/accelerating-ai-adoption-for-the-modern-data-driven-enterprise"
 type: article
 quality: 37
 heat: -1
@@ -24,20 +24,17 @@ images:
 
 related:
   - title: "WebChartAi Accelerates Machine Learning Adoption"
-    excerpt: "JOHNSON CITY, Tenn., Aug. 19, 2020 /PRNewswire/ -- Xelex Digital today announced the release of its new audio and text annotation platform, WebChartAi, designed to accelerate the adoption of machine learning applications by simplifying the creation of ..."
-    publishedDateTime: 2020-08-19T15:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/webchartai-accelerates-machine-learning-adoption-301114486.html"
+    excerpt: "\"WebChartAi lowers the technology barrier to entry, enabling a broader base of companies to more easily harness the power of NLP-driven task automation.\" In machine learning applications utilizing natural language processing (NLP),"
+    publishedDateTime: 2020-08-19T16:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/webchartai-accelerates-machine-learning-adoption-1029517519"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/webchartai-accelerates-machine-learning-adoption-1029517519"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/webchartai-accelerates-machine-learning-adoption-1029517519"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
 
-secured: "yhwVCu8O34g8YR/4YnviXgJDLvfFrT8ob3CThLvUpIGMKuzyKGS6OgaRi1TFuthIDbzskcGpwmseJpJ1e6PJZBsLg0aJmwRF7mXmSakAvqKV3HFd0c+ZHuVob8EidMmRIjNmzxGGhEEZ6feFvUihTR/iVBK+/5WxeDJaOtphg2dgciL/sf3wN2x7W1oPOG6wGFlyI7qp25J8Xnb44qbRdkfV/QM2VBSFPnGsi70SvGe68tRZZ0RHe5bX3lcfHSpgukH4GsmRugfzQ13+6n8OciAkIhLht7jF4rurLnmLcgP69JdNgBe4mFthgRIKGG7hDPruQPuOMXoRJ3SmLQ5ypQ==;PxLVV+iU1JeXO6EsQwCVwA=="
+secured: "y0pUdewCTgGU7LeX8wpLcut/AXd2LrZu5E8xJJja6s1xV3oT1XgqDamRh/r8jxw8GCVOIS9dTtCGuxA3lWZnUnIkSkfct7aZdwPgnFifTdmltSGcu7+ffE8dqZFUMuYKrfg4LLPqO0Jnk3ALjr6zvpr+oYNyfQ/KObmoiUvh6xsmfdyFQp4Es15MXLhWFtxhGCFh4tHSHoMQIZggR2hL5DlWO1NzLoOJvVbafrL6l8XnV+MYKGlnqgejpC96GON6tvN1uKMhqdjw0S7/iTEtfBBXIAD3r/RftM+lhNWq/SQdPi7M9iJq+blz3y+b7OvJmHhT3FpSc9S6OSssjxmmmA==;PVSmNyuAmDzTQcuKsss7gQ=="
 ---
 

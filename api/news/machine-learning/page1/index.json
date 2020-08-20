@@ -135,6 +135,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-19-webchartai-accelerates-machine-learning-adoption.md",
+      "title": "WebChartAi Accelerates Machine Learning Adoption",
+      "excerpt": "\"WebChartAi lowers the technology barrier to entry, enabling a broader base of companies to more easily harness the power of NLP-driven task automation.\" In machine learning applications utilizing natural language processing (NLP),",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/webchartai-accelerates-machine-learning-adoption-1029517519",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/webchartai-accelerates-machine-learning-adoption-1029517519",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/webchartai-accelerates-machine-learning-adoption-1029517519",
+      "publishedDateTime": "2020-08-19T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices.md",
       "title": "How Can Businesses Take Deep Learning Out Of The Lab And Onto Intelligent Edge Devices?",
       "excerpt": "Despite successful research and developments in lab settings, deep learning has yet to reach its potential in real-world deployments.",
@@ -1353,56 +1394,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-csiro-using-artificial-intelligence-to-map-17m-australian-grain-paddocks.md",
-      "title": "CSIRO using artificial intelligence to map 1.7m Australian grain paddocks",
-      "excerpt": "It developed ePaddocks for the agriculture sector to better understand the boundaries of grain paddocks across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/07/ce1a2d41-b2cf-4532-b208-75d0b6ba0c14/0000102-epaddocks-australian-paddock-boundaries-550.jpg",
-          "width": 550,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
-      "publishedDateTime": "2020-08-06T17:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

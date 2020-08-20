@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/amp/"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Are driverless cars coming to British roads?"
+    excerpt: "Are driverless cars coming to British roads? The news that motorists might be allowed to take their hands off the steering wheel for the first time was portrayed as a \"big step\" in that direction. The truth,"
+    publishedDateTime: 2020-08-19T22:26:00Z
+    webUrl: "https://news.sky.com/story/are-driverless-cars-coming-to-british-roads-12052661"
+    ampWebUrl: "https://news.sky.com/story/amp/are-driverless-cars-coming-to-british-roads-12052661"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/are-driverless-cars-coming-to-british-roads-12052661"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 59
+    images:
+      - url: "https://e3.365dm.com/20/08/1600x900/2372008190132739407_5071250.jpg?20200819210748"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Self-driving cars could be allowed on UK motorways next year"
     excerpt: "Industry welcomes consultation for use of technology in slow lane but risk concerns some Gwyn Topham Transport correspondent Motorists could be allowed to let their cars drive themselves on motorways, using automated technology, as early as next year ..."
     publishedDateTime: 2020-08-18T18:00:00Z

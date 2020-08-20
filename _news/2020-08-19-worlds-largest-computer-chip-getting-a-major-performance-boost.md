@@ -33,9 +33,9 @@ related:
   - title: "World’s largest chip gets beefier: 850 thousand cores for AI"
     excerpt: "Announed at the Hot Chips 2020 conference, the new chip — which is as large as a single 300-mm wafer — packs over two times more transistors as well as a whopping number of AI-optimized cores. The Cerebras Wafer Scale Engine Generation 2 has a die size of approximately 46,"
     publishedDateTime: 2020-08-19T19:30:00Z
-    webUrl: "https://www.techradar.com/nz/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
+    webUrl: "https://www.techradar.com/sg/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
+    ampWebUrl: "https://www.techradar.com/sg/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
     type: article
     provider:
       name: TechRadar
@@ -47,6 +47,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ncteTgf96WGj2XrrkTuFkK0TYqFzmhtGchRwuPdiXacvHjRfELxhugQBDakd/j4mc8Y+LMa+3+NjEQsInBg2l94jKboNxQf0yDFEXDrSRh5vzx6jm7G6A748bhUKnx8nzAHAIa5ngfsuJ6sJR93LDNrZSeiPAqY+HrGQ8/TZNDnltGmV2JWKskMYd8su8h2t0yndKNmgEb84tF3JIIrg70lC3Jey1v10BfT9ALXjO+TSpij9YKKJGeAyFmKv06M5VE1oo20hLZgTqixai/QW0xk3L/jCj1SoVtW2XrQYSLo4ddq19HZMpevqeBKFQRu5D7FQ4f4wjyAIx35T6GHlew==;VcSLvSp3f6cEK92WVzNqFg=="
+secured: "r6q7iXYGA+SsWbLS4klYzcaPTSY+ehSoY+rgj5Q6M3rBLrONo9D0favHPMtX/9PSoniQ3x4LJDGxtIVQuDupYmPCrNPOZeIPJRRv5FHUZ3ibDKlNPJOcaZ/80R7Dgpoza9ibPaxCdclkzycgx1yDATTr+SruQL624n/Q1X+bBqkk2dr6bZvpbZ+TAyfQPDTVt1QeROiwKmGnT2uiQWMIrP1kgT+WGc9qvnptq0H7iPfU0LIezKp5JstqJ7t7Tn3NWb1K/NKWvkJ0P5sfk1zAmIcbMQ9oI/Lgqu0i/B8bF5bJmO78Vto3kuX4GcDaqbwCmSWJnnPo74Sp0xKFWsWlLU5qvxqKiAtCox15lvUGqtsm/ZU4phxGcBt1Ik/gZG56Ve2LbviIXUkhR2omg1mFW2ItKWabGkDnCiMRdLonU05x7rmYgIdv/knTR3/A6E4KXTxC5EFyzP7j1vIFIWKhzVKW7aNp6GXusO3TgM8eR2QJ9R3jc2k54HvrpMRRnALm8rBFInfLm8PSfRC6i2z3Ww==;dFFv3P5VmrROIx6eRA05MA=="
 ---
 

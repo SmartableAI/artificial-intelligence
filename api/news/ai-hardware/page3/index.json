@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-21-nvidia-partners-with-university-of-florida-to-build-ai-supercomputer.md",
+      "title": "Nvidia Partners With University of Florida to Build AI Supercomputer",
+      "excerpt": "Nvidia was long known as a supplier of graphics chips for personal computers to make video games look more realistic, but researchers now also use its chips inside data centers to",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer?context=amp",
+      "publishedDateTime": "2020-07-21T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use.md",
       "title": "Chip Industry Sees Danger of AI in Explosion of Electricity Use",
       "excerpt": "The increasing use of artificial intelligence is going to extract a heavy price in power unless the chip industry steps up and heads that off, according to one of the industry’s biggest companies.",
@@ -1357,56 +1398,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-ai-iot-1000x-more-dense-networking-environments-how-intel-nsf-are-planning-for-tomorrow.md",
-      "title": "AI + IoT = 1000X More Dense Networking Environments: How Intel, NSF Are Planning For Tomorrow",
-      "excerpt": "How will we connect everything at such scale? Intel and the National Science Foundation say we’ll need help from artificial intelligence. And mesh networks. Including, potentially, even SpaceX Starlink satellites in low earth orbit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/07/11/ai--iot--1000x-more-dense-networking-environments-how-intel-nsf-are-planning-for-tomorrow/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0a488c147a4f0006e5bd44%2F0x0.jpg",
-          "width": 1000,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/07/11/ai--iot--1000x-more-dense-networking-environments-how-intel-nsf-are-planning-for-tomorrow/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/07/11/ai--iot--1000x-more-dense-networking-environments-how-intel-nsf-are-planning-for-tomorrow/amp/",
-      "publishedDateTime": "2020-07-11T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

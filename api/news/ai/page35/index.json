@@ -2,6 +2,98 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-07-16-facial-recognition-technology-led-to-this-detroiters-wrongful-arrest.md",
+      "title": "Facial recognition technology led to this Detroiter's wrongful arrest",
+      "excerpt": "Michael Oliver is the latest Detroiter to come forward with a story of a wrongful arrest due to facial recognition technology. The news comes as City Council debates extending DPD's contract with facial recognition technology provider DataWorks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wxyz.com/news/region/detroit/facial-recognition-technology-led-to-this-detroiters-wrongful-arrest",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/60bc0ad/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F6e1%2Fbe88c4e651db4a7dbe102614d7272948%2F6e16c35e0d2047d98eee83f489fccf02%2Fposter_596d4d61d9d747849895a4fa826019f0.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WXYZ Detroit",
+        "domain": "wxyz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-announcing-the-ai-innovation-awards-winners-at-transform-2020.md",
+      "title": "Announcing the AI Innovation Awards winners at Transform 2020",
+      "excerpt": "To kick off three days of AI panels, discussions, fireside chats, and networking at Transform 2020, VentureBeat presented the second annual AI Innovation Awards. Drawn both from our daily editorial coverage and the expertise,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/announcing-the-ai-innovation-awards-winners-at-transform-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/award.GettyImages-sb10063090af-009-e1561064273974.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/announcing-the-ai-innovation-awards-winners-at-transform-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/announcing-the-ai-innovation-awards-winners-at-transform-2020/amp/",
+      "publishedDateTime": "2020-07-15T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-the-top-16-companies-using-artificial-intelligence-to-revolutionize-drug-discovery-according-to-experts.md",
       "title": "The top 16 companies using artificial intelligence to revolutionize drug discovery, according to experts",
       "excerpt": "In 2014, there were an estimated 89 AI-backed companies focused on drug discovery. Now, there are as many as 214.",
@@ -1323,106 +1415,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars.md",
-      "title": "Strong AI Versus Weak AI Is Completely Misunderstood, Including For AI Self-Driving Cars",
-      "excerpt": "Or, if you prefer, you can state it as weak versus strong AI (it’s okay to list them in either order). If you’ve been reading about AI in the popular press, the odds are that you’ve seen references to so-called strong AI and so-called weak AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1098040634%2F0x0.jpg",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2020-07-15T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-mit-researchers-find-systematic-shortcomings-in-imagenet-data-set.md",
-      "title": "MIT researchers find ‘systematic’ shortcomings in ImageNet data set",
-      "excerpt": "MIT researchers say the influential ImageNet data set has \"systematic annotation issues\" when used as a benchmark for evaluating object recognition models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/mit-researchers-find-systematic-shortcomings-in-imagenet-data-set/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/mit1.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/mit-researchers-find-systematic-shortcomings-in-imagenet-data-set/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/mit-researchers-find-systematic-shortcomings-in-imagenet-data-set/amp/",
-      "publishedDateTime": "2020-07-15T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -7,8 +7,8 @@ webUrl: "https://hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-
 ampWebUrl: "https://amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers"
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers"
 type: article
-quality: 80
-heat: 80
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://images.hothardware.com/contentimages/newsitem/52579/content/azure-machine-learning.jpg"
@@ -25,6 +26,6 @@ images:
     height: 393
     isCached: true
 
-secured: "srFyNAjkFSzLLdsU1hbmW0z3ZHAUiUGOfnaMHsAi1H96qY899HtGJOt4vhKGQYT9jtonGMP04lNklc5WVOb3RAoiNaeItxCkhR0WwRTWHXWdb6u0QAoJmsI5/YUXU8/gRVC77BNM+DuAHoooauyEnOoNpmTmpJfhlEYPcVQE2nO2mGTtlamZXzJLvCjTU7L3nO2kRMC7sLSqLrPqWRM34mNoiQR86yvlQ0a7hlAWacrws9Q8Yvupu+jsV2F0KCsfzuOwIVVSa58ATQpryeRUzH3wNZJ6IGWmtR/EXIGG0dEMD9SYnyy6qpIJ4rRrRzUqVfL1ehTrFDb89M1Ilb5qnA==;FoUquy2puJfCa5TBVhBv+w=="
+secured: "z8uNxrB6wnzDJx1rZMAz1jOpPehNh77qKYum4sRVEkSgBfBMoO8BVqeDpqToR4wBS8zTaqvkAfPT522cT/uJiGeJVS1MWQrCCnNfJnVTXIRwnIEV5fmKXWfftyL1Fb4Z6U26xVtWetvqKytAK/TdM9deNCnynVSqzKhdWP/CbhEnNc2t8AXxJn27l1MtglBEecyRmlgVUaMupls+snpCf/NCpyuvXyyEcUL/pDhQlzxteDHz5WVRCJ0kkPchBAvqa80p0s9Dew1OzgeyzfCFX8/ACClwjQzmbO/GbI3gDT+XrEML+QtJfyTgOZe7g22VBKW4o5DGaF4gWcLnKl1lA2LbVvdQUeRxrZGKcohrFqDgjsgPRttNCVpuU88bf61ngSbf/Cqb6Cd2WlJMvFcUZg6CBU1gL4KYUMs2dUhCiP4tdoyZfIrV6QCAI3C9otqf+aHgkycH0p8NHhFDIYzrC13a/hT4R3qsvYwh8NAn+KfYKVQOXYKSjZutJdQ2ntURLa3Ik9h17bzhb3LIkTSB4Q==;kATtxbc0D8dnAz4hnXYLkQ=="
 ---
 

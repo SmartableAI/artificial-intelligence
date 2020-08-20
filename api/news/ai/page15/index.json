@@ -2,6 +2,96 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-08-03-this-startup-aims-to-make-ecommerce-accessible-for-everyone.md",
+      "title": "This Startup Aims To Make Ecommerce Accessible For Everyone",
+      "excerpt": "A new wave of web accessibility solutions like accessiBe are transforming the challenging yet much needed process of making websites accessible to people with disabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonathanmoed/2020/08/03/this-startup-aims-to-make-ecommerce-accessible-for-everyone/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f27b409f1c64c94573c63b1%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonathanmoed/2020/08/03/this-startup-aims-to-make-ecommerce-accessible-for-everyone/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanmoed/2020/08/03/this-startup-aims-to-make-ecommerce-accessible-for-everyone/amp/",
+      "publishedDateTime": "2020-08-03T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-03-artificial-intelligence-in-healthcare-diagnosis.md",
+      "title": "Artificial Intelligence In Healthcare Diagnosis",
+      "excerpt": "Artificial Intelligence in healthcare is one of the most significant technological advances in medicine thus far. Startups developing AI-driven imaging & diagnostic solutions are the major factors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2101970/artificial-intelligence-in-healthcare-diagnosis-market",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T803342396_g.jpg",
+          "width": 650,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2101970/artificial-intelligence-in-healthcare-diagnosis-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2101970/artificial-intelligence-in-healthcare-diagnosis-market",
+      "publishedDateTime": "2020-08-03T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-03-fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai.md",
       "title": "Fifty Years After Designing Electric Lady Studios, Architect Cuts New Track With AI",
       "excerpt": "Architect and acoustician John Storyk, known for designing recording and performance spaces around the world, was frustrated by the limits of the software at his firm’s disposal. So last year, he and his research and development director decided to build their own.",
@@ -1265,105 +1355,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-01-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in August",
-      "excerpt": "Artificial intelligence (AI) is expected to add $15.7 trillion to the global economy by 2030, according to a study by PricewaterhouseCoopers. This huge figure consists of $6.6 trillion in increased productivity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F584910%2Fgettyimages-ai-text.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx",
-      "publishedDateTime": "2020-08-01T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-01-security-news-this-week-rite-aid-used-facial-recognition-in-stores-for-nearly-a-decade.md",
-      "title": "Security News This Week: Rite Aid Used Facial Recognition in Stores for Nearly a Decade",
-      "excerpt": "Rite Aid Used Facial Recognition in Hundreds of Stores for 8 Years Reuters this week published a deep investigation into the use of facial recognition technology by Rite Aid, which the drugstore chain deployed to 200 stores over the last eight years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f2458585fa1be63d9469833/master/pass/Security_riteaid_h_15252547.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/amp",
-      "publishedDateTime": "2020-08-01T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

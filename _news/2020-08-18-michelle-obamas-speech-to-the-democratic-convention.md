@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Michelle Obama's speech to the Democratic convention"
-excerpt: "Former first lady Michelle Obama's speech to the Democratic National Convention ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought."
-publishedDateTime: 2020-08-18T14:43:00Z
-webUrl: "https://www.newsday.com/news/nation/michelle-obama-dnc-speech-1.48240536"
-ampWebUrl: "https://www.newsday.com/amp/news/nation/michelle-obama-dnc-speech-1.48240536"
-cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/nation/michelle-obama-dnc-speech-1.48240536"
+title: "Michelle Obama's Speech to the Democratic Convention"
+excerpt: "Former First Lady's Michelle Obama's speech to the Democratic National Convention, as broadcast: __ Good evening, everyone. It’s a hard time, and everyone’s feel"
+publishedDateTime: 2020-08-18T03:57:00Z
+webUrl: "https://www.nytimes.com/aponline/2020/08/17/us/politics/ap-us-election-2020-michelle-obama-transcript.html"
 type: article
-quality: 44
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Newsday
-  domain: newsday.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://cdn.newsday.com/polopoly_fs/1.48240537.1597724262!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-    width: 1280
-    height: 719
+  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -377,6 +379,6 @@ related:
         height: 892
         isCached: true
 
-secured: "EbcF94jxEgt/HVSa+I7BWPnGxdzWbf/jyw8KMQ3cFwLczbPiPEiuSIfciUGYadhbeAD/IoH+vw5vV6uRm+XdItQ1xCYB/ZAHaHz3b8Yjkom7PtMFQ1RuwpKPxC1dleBTJ09kaT4jqdGOCYVYCp2JqJWAf675JM8KKn7GOdQVdT1/EVcWfi+Ne01pp0z9yFx0CfjBZ40MB56mVntb4ZAtOJTHJGA5m+FUHN8G0zaRjq/Z6JBkpkBHe1Qg9dzUkHLmpBrF4Awqjav7eox+tRkS/9JnQHM1yPGMeAVkT6t0Nin6v9qJmxuEcIVCqgb7yZ/5H9/dcuTs6ob1ezqDpyhmTiVq7IO/lRmSeXc8D/mywhN7EvDMV3vkzgy3HiCmkYQDErDacdnnZAwMbfdOcxcGbyTq1tAc05UmVvySelTR3YPxkLZ9bCtmozydc9+toyyJZbCOt/Mk6CKcolc0JdWtBnL9o+jP5qNVIPLABHYGUf49/418dqTQzS6Hz57T8KmH6KvKhXqbGRz1Zd3f5+eK0w==;C1DJZPrkfxfhPxRTPK7XDA=="
+secured: "sdhKAQ76HoEpygl16Heod5Upq290M8RqqmEeI0yZ9z+AAO4YdxEN0aaF8qZIE9ExID9bkEq4pP1arCR5DsL+Ash9u6k3PU6sNzVG1ri6DLYf9pEYdBxS9h+5QZqmp53fxc9l6TYYHveGg/0fBakgcAUuKW2SgezYKwmvpP+Nrub5ngZfCx4qaBWKh5mUOJ3sP6lmfXSutxvwNSkOQk2/WLaY3/vDQr0zunA61X+HxkB+bWuDDbT5GJYN4vzex3EzOoytffnRghYVrP/NOL2+H2MrZTl6s7lLQGJ7UCprxPs4JKaLNuRtxFPqqqpCalvlXf3eRCKmceI4hYIyFzAOVg==;8kVs/Wnc+hpGyV3OOq6F3g=="
 ---
 

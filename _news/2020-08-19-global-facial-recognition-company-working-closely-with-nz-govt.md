@@ -42,20 +42,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "ICE Signs Contract With Facial Recognition Company Clearview AI"
-    excerpt: "U.S. Immigration and Customs Enforcement signed a contract with Clearview AI, a facial-recognition company that has sparked controversy over its use by law enforcement."
-    publishedDateTime: 2020-08-15T05:52:00Z
-    webUrl: "https://www.wsj.com/articles/ice-signs-contract-with-facial-recognition-company-clearview-ai-11597452727"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-221304/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Controversial facial recognition tech firm Clearview AI inks deal with ICE"
     excerpt: "The US Department of Homeland Security (DHS) has signed a contract with Clearview AI to give Immigration and Customs Enforcement (ICE) access to the controversial facial recognition firm's technology."
     publishedDateTime: 2020-08-17T09:21:00Z

@@ -2,6 +2,88 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-08-04-the-deepmind-scholarship-2020-21.md",
+      "title": "The DeepMind Scholarship 2020-21",
+      "excerpt": "Value: Each DeepMind Scholarship will cover home tuition fees of £10,900, a living allowance of £15,480, an annual £2,000 travel scholarship and a one-off equipment grant of £1,500. The DeepMind Scholarship at Queen Mary University of London is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.qmul.ac.uk/scholarships/items/the-deepmind-scholarship-2020-21-.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Queen Mary University of London",
+        "domain": "qmul.ac.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-how-machine-learning-and-automation-give-brands-a-boost-in-e-commerce-advertising.md",
+      "title": "How Machine Learning And Automation Give Brands A Boost In E-Commerce Advertising",
+      "excerpt": "Advertising, in particular, requires a new approach. In my view, e-commerce advertising has changed permanently, and brands should use automation and machine learning to develop effective campaigns. Here's a bit of history. As their understanding of e ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/04/how-machine-learning-and-automation-give-brands-a-boost-in-e-commerce-advertising/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F696529578%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/04/how-machine-learning-and-automation-give-brands-a-boost-in-e-commerce-advertising/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/04/how-machine-learning-and-automation-give-brands-a-boost-in-e-commerce-advertising/amp/",
+      "publishedDateTime": "2020-08-04T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-study-finds-artificial-intelligence-enhanced-ecgs-speed-heart-failure-diagnosis.md",
       "title": "Study finds artificial intelligence-enhanced ECGs speed heart failure diagnosis",
       "excerpt": "WASHINGTON D.C.: When people seek emergency care for shortness of breath, a routine electrocardiogram (ECG or EKG) enhanced by artificial intelligence (AI) is better than standard blood tests at determining if the cause is heart failure, according to new ...",
@@ -1231,96 +1313,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-this-startup-aims-to-make-ecommerce-accessible-for-everyone.md",
-      "title": "This Startup Aims To Make Ecommerce Accessible For Everyone",
-      "excerpt": "A new wave of web accessibility solutions like accessiBe are transforming the challenging yet much needed process of making websites accessible to people with disabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonathanmoed/2020/08/03/this-startup-aims-to-make-ecommerce-accessible-for-everyone/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f27b409f1c64c94573c63b1%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonathanmoed/2020/08/03/this-startup-aims-to-make-ecommerce-accessible-for-everyone/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanmoed/2020/08/03/this-startup-aims-to-make-ecommerce-accessible-for-everyone/amp/",
-      "publishedDateTime": "2020-08-03T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-artificial-intelligence-in-healthcare-diagnosis.md",
-      "title": "Artificial Intelligence In Healthcare Diagnosis",
-      "excerpt": "Artificial Intelligence in healthcare is one of the most significant technological advances in medicine thus far. Startups developing AI-driven imaging & diagnostic solutions are the major factors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2101970/artificial-intelligence-in-healthcare-diagnosis-market",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T803342396_g.jpg",
-          "width": 650,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2101970/artificial-intelligence-in-healthcare-diagnosis-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2101970/artificial-intelligence-in-healthcare-diagnosis-market",
-      "publishedDateTime": "2020-08-03T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,39 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-19-robotics-and-artificial-intelligence-etf-irbo-at-52-week-high.md",
+      "title": "Robotics and Artificial Intelligence ETF (IRBO) at 52-Week High",
+      "excerpt": "For investors looking for momentum, iShares Robotics and Artificial Intelligence Multisector ETF IRBO is probably a suitable pick. The fund just hit a 52-week high and is up 71.9%",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19?amp",
+      "publishedDateTime": "2020-08-19T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-how-ai-is-helping-find-a-vaccine-for-covid-19.md",
       "title": "How AI is helping find a vaccine for COVID-19",
       "excerpt": "TechRepublic's Karen Roby talked with Dan Drapeau, an artificial intelligence (AI) expert and head of technology ... and it's vital for us to figure out a solution or vaccine therapy as soon as possible. SEE: Natural language processing: A cheat sheet ...",
@@ -434,39 +467,6 @@
         "AI in Healthcare",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries.md",
-      "title": "Artificial Intelligence in China 2020: In-Depth Case Studies of Applied AI Across 8 Industries",
-      "excerpt": "The China Artificial Intelligence (AI) Report 2020 gives you exclusive first-hand insights and data-driven analysis into the latest industry developments, including An up-to-date and comprehensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/g17029904/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17029904",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17029904",
-      "publishedDateTime": "2020-08-11T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
