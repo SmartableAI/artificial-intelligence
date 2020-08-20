@@ -14,6 +14,12 @@ topics:
   - Computer Vision
   - AI
 
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
 secured: "5NNNHtpXREWVkIZ+E4cuPIDvCmrGDSD/Q4XxbcPyLpqw406ana9kqh/DYzk/bP4NZCmqvoqIUX15PfUexjZIA+DSYvjhwSsAqkWwrnk5y2SXowh8GJSfYaq1+D2mSQ06R109STC3jX/0y1fSiAtDj+JZKQKZzal8huW336VmxZi9Mlque5jMkK4BE2Z3O0aOmDSYWE4Ckbu+Bt+4WmBLvlH+7ip7XwZDkYHAktrJE8oFFbyidYA+Qe8HXF9Bivx9KLHwXtVM8RPmkqctM2I02wX4UqbDkx4tNxePnK3XOVNXMLZrF+y9FjN/Twc0sfZI7ukrMdpKiC5dpLOTrNjhMQ==;jrlWRHXc2WOu02ESCjgQRw=="
 ---
 

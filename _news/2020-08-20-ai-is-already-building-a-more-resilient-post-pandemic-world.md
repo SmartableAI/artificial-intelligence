@@ -17,6 +17,12 @@ provider:
 topics:
   - IBM AI
 
+images:
+  - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/08/1110_Watson_Covid-era_Blog_Leadspace_v2-990x498.jpg"
+    width: 990
+    height: 498
+    isCached: true
+
 secured: "X9NUYV4krB6diqlP52scESFuSltiIeLWdadS0sSjg1V92o5azR0puy4BcARA3FIMcHndQyRq5TiAdP9ZLIoM4SkF5l6TRHyDvCid3NZd7qnmI1d8nvnIL0N3c+QmaUM+091xqbS8YNX3xwmWPSDx8CK4+jgqXylDIDgM2CLTsi5uQ852dEZd9y2pFpbKnLJdtEv5Axa3BfcF0igdsLnfHqbsGxMCJS8L/DV4jlmyRvcd2MEljZ8nLprhMpg+nDJMDpcfdW+A/gWPVGFlv/pvG/gQ0nSmvcnGy0/7YWLYOxOAo+YBbc3sYQuX/iI1nDQTvRSvbSPt40R4sY4QtKD0aQ==;65rn+fX3hXCgRz4DA0MYDg=="
 ---
 

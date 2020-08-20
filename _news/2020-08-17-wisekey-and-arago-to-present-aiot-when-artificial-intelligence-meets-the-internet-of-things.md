@@ -13,6 +13,12 @@ provider:
 topics:
   - AI
 
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
 secured: "wJuVRivcEIjiOStUpbDVTq7dnJo0kySpglrg37v7pu/wgm811YMYROk5bFB9lCyKulIwefcZMZ3Zukyeiy0TOeQIknH87+ZND6FDDqe02/FJum863z041ajymDnE24+WHx/q1T3rdjrMUPWNk/uT+1rwZG42tDPKIjbfrv+hUHIEH12QT42tj9oZ/X1aGunfVpwYKXxmIzKHe8zbx42xtmeh0nqAmkwOI3Rb/PMJ7VoGDN+fCoAoi1fC9wOWel5Qj/+O1fnweE6s3M2c5H1hM0bhRVQfSxd4gCqjrVu9rw3nHYm8Sa/92pBi7/WV3m/l12DwWBYTGmJ9qroIIFCvrA==;zKhtNlxoVBlyfEWAQXXZcg=="
 ---
 

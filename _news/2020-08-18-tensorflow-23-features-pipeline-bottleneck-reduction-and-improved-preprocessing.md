@@ -14,6 +14,12 @@ topics:
   - Google AI
   - AI
 
-secured: "DRwI/1OMkWJMknTSAK3xWbFEI+cTN1GQm4oczXTZX5iifsJfFFAvayGA68O1ccDlVvd8inmNQ3CeU58UuZKIbQN8H6HSX7wjoBnxoUwOMROeqfd2R0936pVvzOpUAnFmrsWCKPub034F1jW4rqfSG8Fc7RoV3TKyB43omYGVdLyneteHD6MbrMj6bU5UAy+wwCxEk8+Xjqkw7XOI55BihhTHTsfReDdTh44OCwoF2hyhqwhrIXJcW0Hbvt3nnfGGtmERJofUL0/hx51eu9h6bjQKunVElffQnHlopUpD3kOO7g8BSaUeOG7giJ48nl+RE2UPRCuc+OgthCbIWdQqfu2L3w18soFUyvQ4pZTM5FDvfwp8WqIAxUBIZuj+TMNT3sT91rLkrseXSii6A0EXMWHniPLU97GYC99lxHkJGi1HCHizZIDz+bL8BbQthKsD4wzw5S2czT+AHsMEYQpqHKd9SmzhbP3SQLhLolQHjYsj6LKCDWKGuvhkJG6BorUw250q5KDl4llGld9XDb7keQ==;bIowhtBoseLipRYw/udxsQ=="
+images:
+  - url: "https://res.infoq.com/news/2020/08/tensorflow-improved-pipelines/en/headerimage/tensorflow-improved-pipelines-1596991592701.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "NTH7y8QyTIEe/glHSEmLX22pmYkMaBEPN5kUSflfsTy9NrJwuLZnioP9lNrqFu0fAh6YoClPb6vsPrjWdSg6tYsFT6iF40Q7wvvJ1H/OYlbJQ6M6r3FTDw8FahKzLY/1ksARnEhI0Ioi7ss+IV+Cg1TI0NUdS4UT93GEEec7y86vIn56UfiaXffLxwBzOB54L2/ghZ34EVJkuUj51FNKz/6F8jGNM8Y4V4Nmoi3nAwW9GnNjCB3ypeKvJGp8byta/ODvCFg5T1tNAxorebkJFLDuoLpwZv7fnbJxTA7uYsjImMIHzDHCbj9PqZALJ/QH7sxkRepDb322lyBHqCzf5g==;Fr87xA4aC2snMQQMYIMfUg=="
 ---
 

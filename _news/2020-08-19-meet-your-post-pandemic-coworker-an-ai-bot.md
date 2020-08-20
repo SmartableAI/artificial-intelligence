@@ -19,6 +19,12 @@ provider:
 topics:
   - AI
 
-secured: "bH1M5P4K9VPOYTUeCqqA/oII74e7xlbZ7XpXYnu+M7E428yTA5RiOm35J21vZIG7MyHVuDlcnEiJMx6SAPvSA42he62nMw3dArOFpU6lI02/9jXt9Yl3Uf2uvx7iHIsZ6PvQIG46dchDQKmGWskrvCSXUduHujiGlmHnUWS2MiFDCaljRxnO4l02lISM2rRE2iPTMPSMWnaoR0ANO8BQNy4gR71H4tk9t4tnzjDg4VQ+7y2Cj/vjoa32eidWbvbu0x03RZHuz3ddBxfOkXGDcb+xLV7naMVIP7CQInmDzfKvQ8wmMfpacAcE7pb1ci9RTTb0qhMeu8jDc2I2LjTPU15NgyjfYAk+dyfi+e7X4XgCbs8s+Hs6G/cvyM4l89sDu/8nmeURGluOBMWMEaMm0/OFKlNstz5CPfOzVwe9m5980q/QPamqYqb0moCzwnZ3gDHWXCjR5lnDPS+lqJFZAAuc/uLcGNY7po4ehocixeWLnoO5Eezpe17RVb1iZ8/ACZhi/AS5tGDzygaYMYh7eA==;1/EVZ+uyzIlvIDeiAI3N1Q=="
+images:
+  - url: "https://i.pcmag.com/imagery/articles/0135CL3x7Ndpnrl5Ngopfgj-3.1597702316.fit_lim.size_1200x630.jpg"
+    width: 2309
+    height: 1299
+    isCached: true
+
+secured: "aLMy8MG4JeuRINO3s7tAm5QLk0ritM8pQMyqMefczvgLGyx3kBHlxa20mJvBQ0zpU6nUAZZ7VZ9tdE+DmwNj1ezzDu3bkh2ep7nuphTAZdEJaFevHNc1mEOHsdm0bZe5qdqBWJ2QfPf/PUu2hFWLmKCiZkN/JUXFz7kolCvfet9WsGO6+n8KRcpq6KOziUB3pbhc6fNu/YM97itD4zfuFXqz6/zkBdnUSm7Xfa+bOY7vg/Hx4Zf7cnN6QD0yI8G7NxmeSScpx7VCTGEN1Fl9tKMlL0c7RNssv6/TjJGXh8u0N7Cyo22wDbqbvPyvn/BNGZ1ryoMrkGyo3AVOKB5+ZQ==;s5OUXCEUUl+yR4PfZNcbXA=="
 ---
 
