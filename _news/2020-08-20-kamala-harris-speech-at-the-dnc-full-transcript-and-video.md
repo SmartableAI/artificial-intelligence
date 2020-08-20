@@ -9,7 +9,9 @@ cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynew
 type: article
 quality: 44
 heat: -1
+
 published: false
+removed: true
 
 provider:
   name: Mercury News

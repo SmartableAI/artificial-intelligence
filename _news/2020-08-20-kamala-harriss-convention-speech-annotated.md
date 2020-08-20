@@ -9,7 +9,9 @@ cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washing
 type: article
 quality: 44
 heat: -1
+
 published: false
+removed: true
 
 provider:
   name: Washington Post

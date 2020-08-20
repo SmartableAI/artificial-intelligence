@@ -1,41 +1,23 @@
 ---
 category: news
 title: "Algorithm created by deep learning finds potential therapeutic targets throughout genome"
-excerpt: "A team of researchers from New Jersey Institute of Technology (NJIT) and Children's Hospital of Philadelphia (CHOP) have developed an algorithm through machine learning that helps predict sites of DNA methylation—a process that can change the activity of DNA without changing its overall structure—and could identify disease-causing mechanisms that would otherwise be missed by conventional screening methods."
-publishedDateTime: 2020-08-06T16:08:00Z
-webUrl: "https://phys.org/news/2020-08-algorithm-deep-potential-therapeutic-genome.html"
-ampWebUrl: "https://phys.org/news/2020-08-algorithm-deep-potential-therapeutic-genome.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-algorithm-deep-potential-therapeutic-genome.amp"
+excerpt: "In order to address this issue plaguing the research community, CAG and its partners at NJIT turned to deep learning. Zhi Wei, PhD, a professor of computer science at NJIT and a senior co-author ..."
+publishedDateTime: 2020-08-06T19:54:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/08/200806122637.htm"
 type: article
-quality: 50
-heat: 60
-published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/1-genome.jpg"
-    width: 960
-    height: 1920
-    isCached: true
-
-related:
-  - title: "Algorithm Created By \"Deep Learning\" Identifies Potential Therapeutic Targets Throughout Genome"
-    excerpt: "A team of researchers from New Jersey Institute of Technology (NJIT) and Children's Hospital of Philadelphia (CHOP) have developed an algorithm through machine learning that helps predict sites of DNA methylation – a process that can change the activity of DNA without changing its overall structure – and could identify disease-causing mechanisms that would otherwise be missed by conventional screening methods."
-    publishedDateTime: 2020-08-07T04:26:00Z
-    webUrl: "https://www.medindia.net/health-press-release/Algorithm-Created-By-Deep-Learning-Identifies-Potential-Therapeutic-Targets-Throughout-Genome-481131-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 9
-
-secured: "GLf1sn7Soc2KepAZc4dxwbiwPt5Nd01aXaPekim0qCYbDcHZgmDFAxeafcuquCelUOJo8mtkAhePEVJuhRNUIKPlGhO5gtQOhF26csLIxFAyi1fjAXdeIFrWMJpaUcRPJAPmKcYsHi21+PvlwEc8MTFLRieoHVxklQqbyHauaAE7UGaeFzpshV0pFMbC4iYeG8LaEzhfuRakdqcxUgCkArQetkkYNKB05ul1UzHd3qDPp69AlavDmDKna84Nv/LJ0g/uryO1Il3FrSZk6193Cd7KgbcH6nn89/Jk0j3vAG9BjlxJqHhV3G7A1E/i2nwljE2zzLmIEQlmSSorcyO6p2E2UKC5cuWN6d/bhRn3h2Rbq4LGacZ66Sqr6j8fXV+Zja5qUztpxRkDwUk/tACrXfWbSz1Gyf6RysgsrKxg+3tl6WUnJXcH7LSfsTCxlUy1RhxfYK05EnQ7wJK+P2FC41HPDCeXojtHzGZmese2nhfu4OgqpdnHCYYomYPNgAXl;zXV79REhQEDIlpKZZalosg=="
+secured: "5AdW94wKEfb9rWXF3AJFX5qJADHBqGsopPv2/ZSMQ36Kbnul74V1c7m6SfSmrqcUvPQ5cFq3NsR5wcQSCXTUB/4vxmYQBngmXFuLLKlfUWn3+JZ9FkVOP3197UNYFCgNqtb5E5tAH1MNUHlw0wlpe6dxYEiHOCxDTxmTR8X9YU/KCXKDn6dzjc4k1TeyAbemMCnHItuHz6p4muHSB2SfrQK26qu5/YrRNK8vGKFcysoTNrIGh2H3tc5yponBRp9GNAAFSz8lo/jredeLhTbnj491UVs6pwoicZIKGjJo/ctXH2jD0HgS9yLYgdXa5PxUORtAkznWABWh+AZ5vDSpsQ==;arLHqf7sB3kttWBHu6U03A=="
 ---
 

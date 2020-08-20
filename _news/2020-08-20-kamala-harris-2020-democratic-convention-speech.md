@@ -9,7 +9,9 @@ cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.sunti
 type: article
 quality: 44
 heat: -1
+
 published: false
+removed: true
 
 provider:
   name: Chicago Sun-Times

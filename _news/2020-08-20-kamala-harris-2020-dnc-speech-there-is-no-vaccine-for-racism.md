@@ -8,7 +8,7 @@ type: article
 quality: 24
 heat: 24
 published: false
-
+removed: true
 provider:
   name: RealClearPolitics
   domain: realclearpolitics.com

@@ -9,7 +9,8 @@ cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/a
 type: article
 quality: 74
 heat: 144
-published: true
+published: false
+removed: true
 
 provider:
   name: Vox

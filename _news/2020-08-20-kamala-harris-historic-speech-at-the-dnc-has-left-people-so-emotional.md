@@ -10,7 +10,7 @@ type: article
 quality: 44
 heat: -1
 published: false
-
+removed: true
 provider:
   name: MarieClaire.com
   domain: marieclaire.com

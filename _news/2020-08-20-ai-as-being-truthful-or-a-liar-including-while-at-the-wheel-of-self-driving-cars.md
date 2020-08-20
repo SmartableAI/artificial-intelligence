@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3c3ffe7e15267c1d38cc1a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D455%26cropY2%3D3267"
@@ -148,6 +149,6 @@ related:
         height: 800
         isCached: true
 
-secured: "TaY+8qRTesv6OefIjC/9imjgIk/EuQoHllQbwO8uphTnRRIDPU+6SlVnwPWVHu/O852wkLztwHlb86QaZGevkTwORwXXw/ca/UQ6TRZNn4oP5tC06jzq3dvOA/Xh0tSjh8I3n+jfLuviU3hQsG5FZIjDPt8MM7IA6/bQNAn+lNFNGZy2wGvMFfwk1HGUC5AEezTEQ3AvKIv29zxP22W99AbrxHDWyDWHcttdf1eIpASkVLwAjBvO45HtOUMtCnrVmTicYrQYAMog6GfiYulmid/2dQ6w1GptFTcbMN8fee4qO26WmBAqDcvwh5tAwzlEKT76B6RwjBf94wcf4C9szQ==;UqOB8Wc1J1KYq4lZNFHqaQ=="
+secured: "IRqBBPMgkEXHS00CjCsof3yKyEweIfBISVjAm8t1ll7PhtJ02lQs+LA45d5FwskuYWl7DZKWHks9o3SJDaPOpgvQzAWAjNQMaJQsF6ps1LDSKBKp+bBvCrVEK2Hh9enW6m2Fn5Uy5qwPQ5dWqlEmrgJy0UpQksh9CVqxUp422h17NgwL06GtTjqVOX+owq+p2g2a8tcNAaeWFZc6QWS5q4TQHH9N38fllFcnqhKxMN1OBJyyUdWlkUwxFtNlT99ueXe3fvywd3aNLvfsgnGCejrw7xjLbU128IXV3GX1UaQKfSChFdIX2OJ+eKDMjxLsLIXOutaY5ttJGXvl8+s4+RopzmyojLn3LSCjN6jEitqlVnTBHUdk9LcqFvbInDWtRo619GX0Z3NPJYQCvMmqIRyBp91dmfYMELgierlcKIy1IcO/6FG2saLZDWi4HLsrOYeVT7UxmDkYnY7/t8QSPqnYKY+LvFqZaZoELCDNl29kW4lhk5izILGaDVtbE7lLhrkdi5rmYka6hYp9BN3oYw==;Vsi5qNIn+N+mE/ncMZA+8w=="
 ---
 

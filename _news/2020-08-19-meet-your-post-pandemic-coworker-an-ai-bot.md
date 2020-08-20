@@ -2,14 +2,11 @@
 category: news
 title: "Meet Your Post-Pandemic Coworker: An AI Bot"
 excerpt: "Ready to swap your old cube-mate for a disembodied AI? IPsoft CEO Chetan Dube, creator of AI co-worker AMELIA, gives his take on the post-COVID office landscape."
-publishedDateTime: 2020-08-19T12:00:00Z
-webUrl: "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot"
-ampWebUrl: "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1"
-cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1"
+publishedDateTime: 2020-08-19T12:14:00Z
+webUrl: "https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot"
+ampWebUrl: "https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot?amp=true"
+cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot?amp=true"
 type: article
-quality: 89
-heat: 89
-published: true
 
 provider:
   name: PC Magazine
@@ -20,15 +17,8 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
-images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/meet-your-/meet-your-post-pandemic-coworker-an-ai-bot_vxzc.620.jpg"
-    width: 620
-    height: 349
-    isCached: true
-
-secured: "XqNUgK1HnC2ZhiEAb8j3zXQ17O68EP5hxVDq3ozYA8trJwUWTvyI9owkeSX0I2zvuXS8kvGWQbf6ffXYQX/F/lxIu5AYjnsjQzGctxrt2fMoDhJSW/bhw9uTJIzwUrdsoR7+HRiAi8HV4CKowi6z3Tgy8jpx7Y8VtPTHJCKf7ruKOvRUiHu0acy+ijAcWBJcd0xY4OQpyTlctOSm/YZ4sNV92ThW6hd25N0Q0IHZn2t1QfgG12gIlAW9y8rHtC+e3Zg9eYoX55LUrOLd7zoGW2myj6+Ac4ukTp2W92EjgYuVRK0gW6Li9QnVfEbQDhJiSRSc8Djwg91oL/8oVfhruDz90IepIKddkWwipkCriXdHWAG+CKmfZZdVfNw3V0K38fLKNtTC73GQQkKrKAgkzCUW+bU536bDA1gf3cbBBY1zWqWE44afc6Fxi1eCzSP6ARLh09rZ0zpKwC5V8Oz/EkbLpM/ylRjrvRHdbWGAzSSG532aYfpjAUjardhuHvU8m8lPyBcqnmXlbObozCBfKg==;k7FowOfuwAt1cn+ICtI/DA=="
+secured: "bH1M5P4K9VPOYTUeCqqA/oII74e7xlbZ7XpXYnu+M7E428yTA5RiOm35J21vZIG7MyHVuDlcnEiJMx6SAPvSA42he62nMw3dArOFpU6lI02/9jXt9Yl3Uf2uvx7iHIsZ6PvQIG46dchDQKmGWskrvCSXUduHujiGlmHnUWS2MiFDCaljRxnO4l02lISM2rRE2iPTMPSMWnaoR0ANO8BQNy4gR71H4tk9t4tnzjDg4VQ+7y2Cj/vjoa32eidWbvbu0x03RZHuz3ddBxfOkXGDcb+xLV7naMVIP7CQInmDzfKvQ8wmMfpacAcE7pb1ci9RTTb0qhMeu8jDc2I2LjTPU15NgyjfYAk+dyfi+e7X4XgCbs8s+Hs6G/cvyM4l89sDu/8nmeURGluOBMWMEaMm0/OFKlNstz5CPfOzVwe9m5980q/QPamqYqb0moCzwnZ3gDHWXCjR5lnDPS+lqJFZAAuc/uLcGNY7po4ehocixeWLnoO5Eezpe17RVb1iZ8/ACZhi/AS5tGDzygaYMYh7eA==;1/EVZ+uyzIlvIDeiAI3N1Q=="
 ---
 

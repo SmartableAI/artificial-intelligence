@@ -8,6 +8,7 @@ type: article
 quality: 0
 heat: 0
 published: false
+removed: true
 
 provider:
   name: Detroit Free Press
