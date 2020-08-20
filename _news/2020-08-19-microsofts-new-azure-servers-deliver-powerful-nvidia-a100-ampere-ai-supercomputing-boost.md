@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers"
 type: article
 quality: 82
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: HotHardware
@@ -35,7 +35,7 @@ related:
     provider:
       name: HPCwire
       domain: hpcwire.com
-    quality: 64
+    quality: 83
     images:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/cloud-circuit-board-performance-computing-rwd-1536x864-1.jpg"
         width: 1536

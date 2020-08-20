@@ -5,9 +5,9 @@ excerpt: "Microsoft Azure continues to infuse its cloud platform with HPC- and A
 publishedDateTime: 2020-08-19T00:00:00Z
 webUrl: "https://www.hpcwire.com/2020/08/19/microsoft-azure-adds-a100-gpu-instances/"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 83
+heat: 93
+published: true
 
 provider:
   name: HPCwire
@@ -16,6 +16,8 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
+  - Natural Language Processing
 
 images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/cloud-circuit-board-performance-computing-rwd-1536x864-1.jpg"
@@ -41,6 +43,6 @@ related:
         height: 393
         isCached: true
 
-secured: "+Um0ZpNoBRPvCKSS4qFeQNiGPVpTROHP+QNnoVXQ5GU+E0LGWIeEp+07Tx9TllTzLv3XX+P8SIDgjImGwWPb43kqDWhaCi5SBp5btDa5PEjPsYWJNp6vupA+fNMmm0fZJvLmQ45arnteCEM2QGGKX2VqOawnxweeTa0PxIc9I1w6ki1BYtWK0ELu+ZZLuhd7heX94x58XfxUa1Mlntd2+92F9X+9EH0zCInn8MxvpuYc3DI7Lg5q9nSTSRdz1EZtEszVCgQ4KvYRwVBWW53VHglTtlthvYecHvlOCU2JBuS6SeJOTWxdrPJwfuiDBa9pORiirfBivoWiPEXqJfJwIQ==;emM5ycrQu7OZKVY7yYplAA=="
+secured: "R93J+TQkAIkzdJuioxyE9YanBKjfZNjwZoQfl4gtMdWRYkg2J8u0ugyE+P1zrYlE/cqWW31jM49lusLzvk4StF6rWa4LcNZpr/4Qz5X+jCIxzaMEeVlaKSCqflzbSZs+IGsAF/LF1FV8XWWhlEPFB3IAZYIaL38p3FMUpav8yIbTD4ofeBMTx0pVVHhVjCw1o+uborAGYcq331T6Tdc2yebqaRlIk6bXMAw3ApghAbPYLOMEXnbVZioGFdGR63XTuMs8RiBm6VPNuM7Hd75k1iK3TXqBx9BZwLIF93e8VxoSCa4Kz3F4xDoG9BIxiupj45wJrnDNLRT4S6vpEVzMLcU6Udh0NjH8pow/ok5oWIC9L8bOVlFBsBzV+VkDDFWmg8no8+xAT8nxD0rjr4XKFSa/G9HCQpf7gtOrHVu95mcpLT83xmcB5UgxThTFFY+ZaR2352YUWhXyzq90e/mRovKIWsLfXOXyuPvVeDWXKDQoPtHwwB7yY2gkQaNK2azu;5+4uTnNaSfH7Hpz6neqw3Q=="
 ---
 

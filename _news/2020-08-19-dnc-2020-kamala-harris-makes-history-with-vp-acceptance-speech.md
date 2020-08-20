@@ -1,0 +1,112 @@
+---
+category: news
+title: "DNC 2020: Kamala Harris makes history with VP acceptance speech"
+excerpt: "The stakes are higher than ever before as Harris tries to unite the party behind its presidential candidate, Joe Biden."
+publishedDateTime: 2020-08-19T21:03:00Z
+webUrl: "https://abc13.com/kamala-harris-speech-dnc-biden/6378391/"
+ampWebUrl: "https://abc13.com/amp/kamala-harris-speech-dnc-biden/6378391/"
+cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/kamala-harris-speech-dnc-biden/6378391/"
+type: article
+quality: 44
+heat: -1
+published: false
+
+provider:
+  name: abc13.com
+  domain: abc13.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://cdn.abcotvs.com/dip/images/6379204_081920-cc-DNC-harris-vid.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Read: Kamala Harris’s historic acceptance speech"
+    excerpt: "Harris ended her speech by calling for voters to collaborate with the Biden ... But they were undeterred. Without fanfare or recognition, they organized, testified, rallied, marched, and fought — not just for their vote, but for a seat at the table."
+    publishedDateTime: 2020-08-20T03:53:00Z
+    webUrl: "https://www.vox.com/policy-and-politics/2020/8/19/21376798/read-kamala-harris-acceptance-speech-vice-president-nomination-democratic-national-convention"
+    ampWebUrl: "https://www.vox.com/platform/amp/policy-and-politics/2020/8/19/21376798/read-kamala-harris-acceptance-speech-vice-president-nomination-democratic-national-convention"
+    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/policy-and-politics/2020/8/19/21376798/read-kamala-harris-acceptance-speech-vice-president-nomination-democratic-national-convention"
+    type: article
+    provider:
+      name: Vox
+      domain: vox.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/dGrmQwepJUmMphbTOQcd_gCFtIg=/0x0:3000x2153/1400x1050/filters:focal(1428x697:1908x1177):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67230943/GettyImages_1267247078.0.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
+  - title: "DNC 2020: Kamala Harris makes history with VP acceptance speech | WATCH"
+    excerpt: "Kamala Harris has formally accepted the Democratic nomination for vice president. She addressed the Democratic National Convention's third night after former President Barack Obama warned that American democracy itself was at risk if President Donald Trump wins reelection this fall."
+    publishedDateTime: 2020-08-20T03:45:00Z
+    webUrl: "https://abc7.com/politics/kamala-harris-makes-history-with-vp-acceptance-speech-|-watch/6378391/"
+    ampWebUrl: "https://abc7.com/amp/kamala-harris-speech-dnc-biden/6378391/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/kamala-harris-speech-dnc-biden/6378391/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 44
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/6379204_081920-cc-DNC-harris-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris’ 2020 Democratic Convention speech"
+    excerpt: "Years from now, this moment will have passed. And our children and our grandchildren will look in our eyes and ask us: Where were you when the stakes were so high?\""
+    publishedDateTime: 2020-08-20T03:34:00Z
+    webUrl: "https://chicago.suntimes.com/2020/8/19/21376828/senator-kamala-harris-2020-democratic-convention-speech-text"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/8/19/21376828/senator-kamala-harris-2020-democratic-convention-speech-text"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/8/19/21376828/senator-kamala-harris-2020-democratic-convention-speech-text"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 44
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/cMHCIT60ovFvn9--mz2tv2bziiE=/0x0:4379x3163/1400x1050/filters:focal(1821x950:2521x1650):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67230908/1267247294.jpg.0.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
+  - title: "Read Kamala Harris’ full speech at the Democratic National Convention"
+    excerpt: "She addressed the Democratic National Convention’s third night after former President Barack Obama warned that American democracy itself was at risk if President Donald Trump wins reelection this fall."
+    publishedDateTime: 2020-08-20T03:34:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/read-kamala-harris-full-speech-at-the-democratic-national-convention"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/read-kamala-harris-full-speech-at-the-democratic-national-convention"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/read-kamala-harris-full-speech-at-the-democratic-national-convention"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 44
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/08/2020-08-20T032556Z_2135058083_RC2FHI91HJZ3_RTRMADP_3_USA-ELECTION-CONVENTION-1024x640.jpg"
+        width: 1024
+        height: 640
+        isCached: true
+  - title: "Read, watch Kamala Harris' acceptance speech from the Democratic National Convention"
+    excerpt: "Without fanfare or recognition, they organized ... They went to sleep every night with the sound of his voice reading bedtime stories. And while they endured an unspeakable loss, these two little boys Always knew that they were deeply, unconditionally ..."
+    publishedDateTime: 2020-08-20T03:53:00Z
+    webUrl: "https://www.kvue.com/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
+    ampWebUrl: "https://www.kvue.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 37
+    images:
+      - url: "https://media.kvue.com/assets/CCT/images/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+
+secured: "LXg4xXGOTe9gIJYZy0QA5SkjJ00U8kaFWxP3WoN1Q6QCcm7VVSDASHjkQZvHIS41hxdwQjxzqV1o8WVhEvg8cYXxlg7MPx2F/4bztQC5WsgaGss2db0bjEw2PMZvw484QRXg6F07U75PmrlCbD3oocEssW4rzenQFYa6UtHFjpd8AZ8GAuJE6nnanLPKX8eoQ21GuDHTAiSL5lH0yopC1iuXCRuVAaKPf+Nkh58R0/d8dSfec5lh0fgNjsA7iTbM/oQM786ERItQEMPnIuHpjcXrgWOCAPcLi+Wdhbt2N8K2eEGm9VeB8QUW5hY4BP60Ru9iEPK7QeZCjKeN44wUMA==;xlTcjDiYSOCOHNTHVEmA+g=="
+---
+

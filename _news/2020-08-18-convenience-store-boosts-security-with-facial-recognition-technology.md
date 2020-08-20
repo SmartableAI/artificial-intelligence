@@ -102,6 +102,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Study Finds Face Coverings Reduce Accuracy of Facial Recognition Technology"
+    excerpt: "Even the best of the 89 commercial facial recognition algorithms tested had error rates between 5% and 50% in matching digitally applied face masks with photos of the same person without a mask, according to NIST."
+    publishedDateTime: 2020-08-19T09:43:00Z
+    webUrl: "https://www.campussafetymagazine.com/public/study-finds-face-coverings-reduce-accuracy-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 37
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/08/AdobeStock_334270594-scaled.jpeg"
+        width: 2560
+        height: 1709
+        isCached: true
   - title: "New report points to privacy, accuracy concerns with facial recognition technology"
     excerpt: "WASHINGTON, D.C. — More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19. “The market is definitely growing,” said Alicia Puente Cackley, Director in the ..."
     publishedDateTime: 2020-08-18T20:21:00Z

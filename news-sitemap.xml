@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.vox.com/policy-and-politics/2020/8/19/21376798/read-kamala-harris-acceptance-speech-vice-president-nomination-democratic-national-convention</loc>
+    <lastmod>2020-08-19T20:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/amp-robotics-accelerates-growth-with-key-leadership-hires-2020-08-19?mod=mw_quote_news&amp;tesla=y</loc>
+    <lastmod>2020-08-19T20:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/story/nvidias-server-business-eclipses-gaming-chips-for-first-time-as-earnings-forecast-blow-away-expectations-2020-08-19</loc>
+    <lastmod>2020-08-19T19:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/</loc>
+    <lastmod>2020-08-19T19:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/</loc>
     <lastmod>2020-08-19T18:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.scmp.com/tech/start-ups/article/3097991/pets-china-now-have-their-own-robot-friends-which-can-entertain-and</loc>
+    <lastmod>2020-08-19T15:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -15,12 +45,6 @@
   <url>
     <loc>https://venturebeat.com/2020/08/19/could-machine-learning-help-bring-marginalized-voices-into-historical-archives/</loc>
     <lastmod>2020-08-19T13:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers</loc>
-    <lastmod>2020-08-19T12:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -121,8 +145,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot</loc>
-    <lastmod>2020-08-19T05:14:00-07:00</lastmod>
+    <loc>https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot</loc>
+    <lastmod>2020-08-19T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -189,6 +213,12 @@
   <url>
     <loc>https://www.zdnet.com/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/</loc>
     <lastmod>2020-08-18T18:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.hpcwire.com/2020/08/19/microsoft-azure-adds-a100-gpu-instances/</loc>
+    <lastmod>2020-08-18T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1207,12 +1237,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/g17029904/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries</loc>
-    <lastmod>2020-08-11T06:53:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8</loc>
     <lastmod>2020-08-11T06:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1221,6 +1245,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11</loc>
     <lastmod>2020-08-11T06:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries-1029492002</loc>
+    <lastmod>2020-08-11T06:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2599,6 +2629,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://venturebeat.com/2020/08/03/proposed-voice-analysis-framework-preserves-both-accuracy-and-privacy/</loc>
+    <lastmod>2020-08-03T04:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/03/how-machine-learning-is-powering-a-new-generation-of-app-development/</loc>
     <lastmod>2020-08-03T04:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2859,6 +2895,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/31/probeat-slowing-aws-microsoft-azure-and-google-cloud-revenue-growth-is-a-good-thing/</loc>
     <lastmod>2020-07-31T10:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://menafn.com/1100571755/2020-Speech-Recognition-Market-Key-Opportunity-Analysis-Growth-Trends-2027-Microsoft-Corporation-Nuance-Communications-Raytheon-Technologies-ReadSpeaker</loc>
+    <lastmod>2020-07-31T10:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

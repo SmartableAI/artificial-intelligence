@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Market : Research By Production, Revenue, Growth Rate, Sales Value, Industry Trends, Impact Factors, SWOT Analysis 2027"
+    excerpt: "Aug 19, 2020 (AmericaNewsHour) -- Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to grow with a growth rate of more than 17.20 % over the forecast period 2020-2027. Demand for Voice enabled ..."
+    publishedDateTime: 2020-08-19T23:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-research-by-production-revenue-growth-rate-sales-value-industry-trends-impact-factors-swot-analysis-2027-2020-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "o+WvQU/2jYOPXa6FdNl6tccSJoN51n4yyf5U/+H9MNzyPbINCsN0V/pXIlVrP7XfPXOVBHds+I8tSYuhdS1018QOqi6ThPWc6iEjLqKmwkKrYtnvugfXH9tZf38ySgUcMHqYGXill/Gy4DpslvqsI9QyJNL4UDHQmTqBeEWmkTR/X0GA+F8qXUTG+lxg1kHCual+cPwi1YDvIGxzbqsVUJpQil19li52OOZc6cNM0KzNP3mK9AsoL4cz64PurDTSXqVB5Ll2/Y/2r2wX8/tOHgx8BQRyuNxlkPFLj5RkX96CP8NWgAOavBhfpbZ8ud2YiFjEwaO8uWIGE8DxOQknSg==;MxlulxlJjs24T+VdVaKepg=="
 ---

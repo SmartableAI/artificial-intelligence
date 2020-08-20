@@ -72,6 +72,22 @@ related:
         width: 3413
         height: 1920
         isCached: true
+  - title: "Facebook wins preliminary approval to settle facial recognition lawsuit"
+    excerpt: "Facebook Inc won preliminary approval late on Wednesday from a federal court for settlement of a lawsuit that claimed it illegally collected and stored biometric data of millions of users without their consent."
+    publishedDateTime: 2020-08-20T02:57:00Z
+    webUrl: "https://www.reuters.com/article/us-facebook-privacy-lawsuit-idUSKCN25G08M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN25G08M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN25G08M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200820&t=2&i=1530292134&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7J04P"
+        width: 893
+        height: 545
+        isCached: true
   - title: "British police to trial facial recognition system that detects your mood"
     excerpt: "Lincolnshire police plan to test facial recognition and behavioral tech that infers people's moods and expressions by analyzing CCTV footage."
     publishedDateTime: 2020-08-17T16:22:00Z
@@ -241,6 +257,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Facial recognition technology riddled with racial bias; cities are fighting back"
+    excerpt: "In the wake of the George Floyd protests, many cities and technology conglomerates are banning police agencies from utilizing facial recognition technology, citing racial discrimination as a vital concern."
+    publishedDateTime: 2020-08-17T17:53:00Z
+    webUrl: "https://peoplesworld.org/article/facial-recognition-technology-riddled-with-racial-bias-cities-are-fighting-back/"
+    type: article
+    provider:
+      name: People's World
+      domain: peoplesworld.org
+    quality: 34
+    images:
+      - url: "https://peoplesworld.org/wp-content/uploads/2020/08/facialrec960.jpg"
+        width: 960
+        height: 616
         isCached: true
 
 secured: "lpuBu5C/KtTOtV4pLS7Q5jIuHej3jDv6YHOz0niwQRFqDpoipmLGHmPDaQoAYLCyDVdY9Y3Mol54xWDKQXtezaOxt1jmLpyzIoEGGTqCy8D8MhRI4kTSgNQF4nt57VEbQTiNvOJuosfaG0HR92E0dx9fL5RS4S5w9GxBsbP/+Lk6PUDu2KE80fhjW7b8kX4ebmZ2BkBKcX1sY/8mlSK58hsJzmryZtiIgNZqZflUFKe1FY69/itjJ3EoQVFDwLCKnsQEGoF1JHpYuhl1yyDPxzHkWupkXFUBuca+o3o9EL0D3CVJ1pfxYou760pHObDJlRoDObTUbi1JSi+Bd6HW+jQlvBPiknRsNm0SadNW9An2u4RSVfB+MyKjOfsR88esE3/Q6qNneTaQffq2Sdh9q6PByHJGugAktOMG3JsdZjvHpqvErz8Rv08GtQfck/Y24NiTFOO/eTHBdX3WQw6lySgwLCJDwICGuB1a6k4xHThn2u69lC6x9T02AR4aDtZm0+UPdq/rLvZgxYJp1TqzCw==;ERyEGaW7kbSkTvoqTys5ag=="
