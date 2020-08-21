@@ -1,15 +1,13 @@
 ---
 category: news
 title: "How AI is helping find a vaccine for COVID-19"
-excerpt: "TechRepublic's Karen Roby talked with Dan Drapeau, an artificial intelligence (AI) expert and head of technology ... and it's vital for us to figure out a solution or vaccine therapy as soon as possible. SEE: Natural language processing: A cheat sheet ..."
-publishedDateTime: 2020-08-19T19:26:00Z
-webUrl: "https://www.techrepublic.com/article/how-ai-is-helping-find-a-vaccine-for-covid-19/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-is-helping-find-a-vaccine-for-covid-19/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-helping-find-a-vaccine-for-covid-19/"
+excerpt: "An AI expert discusses how close pharmaceutical companies are getting to finding a coronavirus vaccine or treatment and why the use of the technology is helping."
+publishedDateTime: 2020-08-19T19:15:00Z
+webUrl: "https://www.techrepublic.com/videos/how-ai-is-helping-find-a-vaccine-for-covid-19/"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 47
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -20,15 +18,26 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
-    width: 1200
-    height: 675
-    isCached: true
+related:
+  - title: "AI can expedite drug repurposing process for finding COVID-19 therapies, says GlobalData"
+    excerpt: "Out of all the different approaches available to find new therapies to treat COVID-19, drug repurposing is one of the fastest and safest methods, as the drugs are already being used to treat other conditions therefore leading to fewer chances of adverse reactions."
+    publishedDateTime: 2020-08-21T06:33:00Z
+    webUrl: "https://www.news-medical.net/news/20200821/AI-can-expedite-drug-repurposing-process-for-finding-COVID-19-therapies-says-GlobalData.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200821/AI-can-expedite-drug-repurposing-process-for-finding-COVID-19-therapies-says-GlobalData.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200821/AI-can-expedite-drug-repurposing-process-for-finding-COVID-19-therapies-says-GlobalData.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 48
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
-secured: "zjWCqSTU5gGSHKg+rcMz5NNhCJRxMjeCol+ZTlj5mEtaE1g6NGupZ00uOmCuabxrC2/Ft1bm9qWW7lbjKCMmYpV8vA/pZNu7neaAIL1j+jcfL5KgBlVBWlNY65RQvatjJ0WSXjOncGJ00G1VL6NXfBitNNzXVjUEvuI8FXGh2nHKbJ1A8GcqKRElfiuMnDEiIuuQOTefwk2h1K+A3iMqU7hEiA0FYKa5y9z31P6Goavsu0sIiToK6luDz4yTp1S/Ybtuq9Z7nSD4CNwmX3l6pUoUTOQa3iwRVcwdv0wVkrPQ4NQcrQI2f4Qqa1RNOp5GTkY+CqCRReqTrD4lNv9hpaXckxPyeBnPkksSxVA+wiB+fRTah33RmETtJFo4opYOltAmWu2ZTrdVrHfH0Fs82fUtzTq3z8MzOhjrmlQZV3cAj7Ip0XlIpzBQ2Jx3zJOxqnngdvHVz/mzsU7FFodTxiPWn+GIiN+/hM8UOkwjPO8/H2imr8evvc7SfYKUeK/MTbuaqB7sNbeN9M3HuvsRwA==;UsIbrHNVpax7yMhbsiD5OA=="
+secured: "jxxRW/h7cXWQJeXayVO3aSRlePpubIjOhyWysbWemVjj/ZFoXmum+RTHhQ/h8wruzF9dq2x+9QgD3XvQ4RwTHYou3Do8Z3uX8MZctS6t8Bpvf+FfrFzs6ylgcwUQ5pt32GXzjcor6xc/zQCH0wEmnbwGP/GNS/sefDO18K0tDCiGW60NAlSYOW6EbuIUaNnQryqHj/ly9ABqWGo6jRCJWGmqvmZu0N/h8VK+9VyLLP3t0IKdye+vAjUUTnJPUW2r/4jxH3Mc8NYwGCpACnwYJTWJ/d+GK5iDZw1+N8U/axStXPJsA36pUHNWifalB0WpqzdcBFuahoFjOpdxCMsb8DNYG9g6DG9cFY4knD91OhV1WG2WBaV8XIi8bRGrfbGsAEXHXp0h9N2ZiuLQA8vLi9zUQwdV8IBWP8dXCxzPTuuAUY6GwtcCkJdg2BX9je75pnYltiS2nvAlqhnuN/8uUfirxTVqXHr6US1NCaBMGeda2+6iBfZC8Gqvii5wQLgT;tBqF7KUzXgMhBMIa9LgNHA=="
 ---
 

@@ -1,36 +1,47 @@
 ---
 category: news
-title: "AI As Being Truthful Or A Liar, Including While At The Wheel Of Self-Driving Cars"
-excerpt: "AI as teller of truth or potential untruths. getty. Will AI lie to you? Sure, why not. Most people assume that AI is dispassionate, unbiased, objective rather than subjective, and"
-publishedDateTime: 2020-08-20T16:29:00Z
-webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/"
-ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
+title: "Self-driving trucks: what does the future look like?"
+excerpt: "What progress has the trucking industry made in self-driving trucks, and what impact might it have in the next decade and beyond?"
+publishedDateTime: 2020-08-19T19:51:00Z
+webUrl: "https://munley.com/self-driving-trucks/"
+ampWebUrl: "https://munley.com/self-driving-trucks/amp/"
+cdnAmpWebUrl: "https://munley-com.cdn.ampproject.org/c/s/munley.com/self-driving-trucks/amp/"
 type: article
-quality: 86
-heat: 176
-published: true
+quality: 44
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Munley Law
+  domain: munley.com
 
 topics:
   - AI in Autos
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3c3ffe7e15267c1d38cc1a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D455%26cropY2%3D3267"
-    width: 1200
-    height: 675
+  - url: "https://munley.com/wp-content/uploads/TuSimple_AFN_graphic-300x204.jpg"
+    width: 300
+    height: 204
     isCached: true
 
 related:
+  - title: "AI As Being Truthful Or A Liar, Including While At The Wheel Of Self-Driving Cars"
+    excerpt: "AI as teller of truth or potential untruths. getty. Will AI lie to you? Sure, why not. Most people assume that AI is dispassionate, unbiased, objective rather than subjective, and"
+    publishedDateTime: 2020-08-20T16:29:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3c3ffe7e15267c1d38cc1a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D455%26cropY2%3D3267"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self Driving Wheelchair Market"
     excerpt: "The Self Driving Wheelchair Market report includes overview which interprets value chain structure industrial environment regional analysis applications market size and forecast This is a latest report covering the current COVID 19 impact on the market The pandemic of Coronavirus"
     publishedDateTime: 2020-08-17T13:29:00Z
@@ -104,22 +115,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 51
-  - title: "Self-driving trucks: what does the future look like?"
-    excerpt: "What progress has the trucking industry made in self-driving trucks, and what impact might it have in the next decade and beyond?"
-    publishedDateTime: 2020-08-19T19:51:00Z
-    webUrl: "https://munley.com/self-driving-trucks/"
-    ampWebUrl: "https://munley.com/self-driving-trucks/amp/"
-    cdnAmpWebUrl: "https://munley-com.cdn.ampproject.org/c/s/munley.com/self-driving-trucks/amp/"
-    type: article
-    provider:
-      name: Munley Law
-      domain: munley.com
-    quality: 44
-    images:
-      - url: "https://munley.com/wp-content/uploads/TuSimple_AFN_graphic-300x204.jpg"
-        width: 300
-        height: 204
-        isCached: true
   - title: "40 Miles Of Highway Turned Into Testing Ground For Self-Driving Cars In Michigan"
     excerpt: "The future is here, and it’s Google-funded. The state of Michigan in the United States has unveiled its plans to begin testing self-driving cars as part of its long-term initiative to improve public transport over the coming years."
     publishedDateTime: 2020-08-17T14:28:00Z
@@ -165,6 +160,6 @@ related:
         height: 800
         isCached: true
 
-secured: "IRqBBPMgkEXHS00CjCsof3yKyEweIfBISVjAm8t1ll7PhtJ02lQs+LA45d5FwskuYWl7DZKWHks9o3SJDaPOpgvQzAWAjNQMaJQsF6ps1LDSKBKp+bBvCrVEK2Hh9enW6m2Fn5Uy5qwPQ5dWqlEmrgJy0UpQksh9CVqxUp422h17NgwL06GtTjqVOX+owq+p2g2a8tcNAaeWFZc6QWS5q4TQHH9N38fllFcnqhKxMN1OBJyyUdWlkUwxFtNlT99ueXe3fvywd3aNLvfsgnGCejrw7xjLbU128IXV3GX1UaQKfSChFdIX2OJ+eKDMjxLsLIXOutaY5ttJGXvl8+s4+RopzmyojLn3LSCjN6jEitqlVnTBHUdk9LcqFvbInDWtRo619GX0Z3NPJYQCvMmqIRyBp91dmfYMELgierlcKIy1IcO/6FG2saLZDWi4HLsrOYeVT7UxmDkYnY7/t8QSPqnYKY+LvFqZaZoELCDNl29kW4lhk5izILGaDVtbE7lLhrkdi5rmYka6hYp9BN3oYw==;Vsi5qNIn+N+mE/ncMZA+8w=="
+secured: "hew3QQEGAeZBWnwOib3Vulx8AhWkNHBjrrCh9WUPHF5KFkfi8rB//yHBYC4Hab9oye2WIZlfeL/cMc04HEFqVDnqSK/uwUfDlwY3j9xR7HlaBtgW3RvNYhG9zRyUFA7wtREt35r4AFvpiSjidWvoozqYXR+ndr5yVJ3zMEpoP6wRBTBRBOwmz067fMBnhBtLFTYkNzRz349h3EoVWJDyzvvLkjNHNt/D7qBUw+NiLq+ePr+/Pw86Jdkht0cF5xn73wXz7NOWREQLQC3jMABM8VRdQgFvDP/VlRGZau3jHe/T7qco9KmvSlRwUmzpcoYlfGaNxR18OcxS8MconELGpw==;2C00+VM6s5zDoOsz84dR0w=="
 ---
 

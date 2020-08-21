@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-unveils-first-seven-nan
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/01aaf0236c65f06ffe8ad490efd60948_L.jpg"
         width: 620
         height: 465
+        isCached: true
+  - title: "Lightmatter Introduces Optical Processor to Speed Compute for Next-Generation Artificial Intelligence"
+    excerpt: "Lightmatter, a leader in silicon photonics processors, today announces its artificial intelligence (AI) photonic processor, a general-purpose AI inference accelerator that uses light to compute and transport data."
+    publishedDateTime: 2020-08-17T14:00:00Z
+    webUrl: "https://apnews.com/ecbc61b06dd74c9d888631615550391f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "3zjnVzs+uWYn8WLioRK/BSEBjWerrWUHuwGSxoXdr2gKu6XtMg67Ae+EhD6KDggUCbvQU7pVvLDUWzy6gP6wx0f2H31zl9W5DS8Mu5CV/z06Qnccds79IYOqXdtBsbqDg9KQ5zAV/jdNQz0A2yUlMoF5KrOuPjRkq0I87HF8sNcZWf6qn3g3auDGsYRHU0wjPdY/14Gp9S4lQb7NF3HWGX7DH/EUCAnNgyaZD9DJ4rd6PFS0p2i3JgOdiG5T5rP09AhFjlpzmAAiwK0OA3SriONxHO80RVUNV5sPpnMW4be0U1d9W2jE8v75f8aI5vV7hC4y6jDWjSWJ9LB9X1JmmQZ8cSZpzZq0RASBMySeDO6mu0+cy93yFkoUz4VsR9JbECrTQ0kxHoVCLsRt+qbvFsODf1pX1Z4ATodv2iy059QJ+uG4Z0+0dOQa6rIUW7AGh/6Fnh7FKPFn43WnP0Ldg9X9qWx1yk/SsK2TDjM+U5MMyHZD7BBapIRskMD4vXI58ehsumeedvjjZ9CdIVqLmA==;kAr/OiPsmD/zio4uOrKq5g=="

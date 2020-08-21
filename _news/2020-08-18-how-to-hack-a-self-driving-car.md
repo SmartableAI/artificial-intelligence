@@ -113,6 +113,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 51
+  - title: "Self-driving trucks: what does the future look like?"
+    excerpt: "What progress has the trucking industry made in self-driving trucks, and what impact might it have in the next decade and beyond?"
+    publishedDateTime: 2020-08-19T19:51:00Z
+    webUrl: "https://munley.com/self-driving-trucks/"
+    ampWebUrl: "https://munley.com/self-driving-trucks/amp/"
+    cdnAmpWebUrl: "https://munley-com.cdn.ampproject.org/c/s/munley.com/self-driving-trucks/amp/"
+    type: article
+    provider:
+      name: Munley Law
+      domain: munley.com
+    quality: 44
+    images:
+      - url: "https://munley.com/wp-content/uploads/TuSimple_AFN_graphic-300x204.jpg"
+        width: 300
+        height: 204
+        isCached: true
   - title: "40 Miles Of Highway Turned Into Testing Ground For Self-Driving Cars In Michigan"
     excerpt: "The future is here, and it’s Google-funded. The state of Michigan in the United States has unveiled its plans to begin testing self-driving cars as part of its long-term initiative to improve public transport over the coming years."
     publishedDateTime: 2020-08-17T14:28:00Z

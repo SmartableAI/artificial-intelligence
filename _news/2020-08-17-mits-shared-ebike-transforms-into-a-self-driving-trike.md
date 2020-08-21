@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/urban-transport/mit-shared-ebike-self-driving-t
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/?amp=true"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Self-Driving Systems are Ushering in a New Era of Transportation"
+    excerpt: "This article discusses the roles of software and hardware in the realm of autonomous-vehicle design and how the new generation of transportation will be led by self-driving systems."
+    publishedDateTime: 2020-08-20T04:18:00Z
+    webUrl: "https://www.evaluationengineering.com/industries/automotive/article/21150656/how-selfdriving-systems-are-ushering-in-a-new-era-of-transportation"
+    type: article
+    provider:
+      name: evaluationengineering
+      domain: evaluationengineering.com
+    quality: 24
+    images:
+      - url: "https://img.evaluationengineering.com/files/base/ebm/ee/image/2020/08/eraQ_A_promo___recrop.5f3bd8d655db4.5f3bddda1d0ba.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "The MIT Autonomous Bicycle Is a Regular Bike That Becomes Self-Driving Trike"
     excerpt: "As cities expand and become overcrowded, people have started turning to alternative means of transport. Urban mobility is being redefined by a variety of solutions, with bike-sharing being one of them. Many people living in crowded urban areas don’t want ..."
     publishedDateTime: 2020-08-18T13:10:00Z

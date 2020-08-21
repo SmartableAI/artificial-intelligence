@@ -1,58 +1,74 @@
 ---
 category: news
 title: "Lightmatter Introduces Optical Processor to Speed Compute for Next-Generation Artificial Intelligence"
-excerpt: "Lightmatter, a leader in silicon photonics processors, today announces its artificial intelligence (AI) photonic processor, a general-purpose AI infer"
-publishedDateTime: 2020-08-17T14:20:00Z
-webUrl: "https://www.businesswire.com/news/home/20200817005099/en/Lightmatter-Introduces-Optical-Processor-Speed-Compute-Next-Generation"
+excerpt: "Lightmatter, a leader in silicon photonics processors, today announces its artificial intelligence (AI) photonic processor, a general-purpose AI inference accelerator that uses light to compute and transport data."
+publishedDateTime: 2020-08-17T14:00:00Z
+webUrl: "https://apnews.com/ecbc61b06dd74c9d888631615550391f"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200817005099/en/813075/23/Lightmatter_2.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
-  - title: "Lightmatter Optical Processor to Speed Compute for Next-Gen AI unveiled"
-    excerpt: "Lightmatter’s photonic processor runs standard machine learning frameworks including PyTorch and TensorFlow, enabling state-of-the-art AI algorithms. This new architecture is a massive advancement in the development of photonic processors. The ..."
-    publishedDateTime: 2020-08-18T12:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/lightmatter-optical-processor-18-08-2020/"
+  - title: "IBM unveils its first seven-nanometre chip for next-generation hybrid cloud computing"
+    excerpt: "IBM has announced the tenth generation of its flagship Power processors, a smaller, faster, more energy-efficient seven-nanometre chip that businesses can expect to deploy inside their data centres in the second half of 2021."
+    publishedDateTime: 2020-08-17T13:57:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/08/Lightmatter-Optical-Processor-.jpg"
-        width: 700
-        height: 500
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/b91425a7-67c3-4dd8-b476-c8d464ac9dfd/power-10-08-wafer.jpg"
+        width: 1152
+        height: 768
         isCached: true
-  - title: "Photonics Processor Aimed at AI Inference"
-    excerpt: "The photonic processor runs PyTorch, TensorFlow and other standard machine learning frameworks to generate AI algorithms. Demand for silicon photonics technology is forecast to grow, with some regions expanding at a 25-percent annual clip as optical ..."
-    publishedDateTime: 2020-08-18T00:01:00Z
-    webUrl: "https://www.hpcwire.com/2020/08/18/photonics-processor-aimed-at-ai-inference/"
+  - title: "IBM POWER10 Mega Chip For Hybrid Cloud Is Revealed"
+    excerpt: "The IBM POWER architecture has always delivered high-performance computing for business-critical workloads and looking to build on that legacy, they’ve just released the POWER10, tilting toward support for cloud workloads."
+    publishedDateTime: 2020-08-17T17:19:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/08/17/ibm-power10-mega-chip-for-hybrid-cloud-is-revealed/"
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/LightMatter_board-crop_800x.jpg"
-        width: 800
-        height: 522
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f38a5f091aa14f662ef56fe%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "IBM rolls out seven nano chip"
+    excerpt: "Power to the people Big Blue said it introduced its Power 10 microprocessor, which it claims, delivers up to three times greater energy efficiency and workload capacity. The Power 10 is the first seven nanometre processor and has features over and above its previous iteration."
+    publishedDateTime: 2020-08-17T13:35:00Z
+    webUrl: "https://www.fudzilla.com/news/51362-ibm-rolls-out-seven-nano-chip"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/01aaf0236c65f06ffe8ad490efd60948_L.jpg"
+        width: 620
+        height: 465
         isCached: true
 
-secured: "HpOXeZDxcVYXTZh0BRbR5bjEkJvWB7Vj6hhecxLzBUIArLMPZ9uPXzpOgPqYzFs8EXbiEWj2H5lT+XCespvl1FX6Vm7BKnEslwD1rFuECTG9NVnRsV1mTsgVEvT+cJ1EVy9quHs0snpfPfBVOty/TnAsC1x4msoTzrevnYUneUKVCRBZgJg2g19QpTyA0gjLE6y4mawJQ0r7GF5zVGdLbSOIs/jX7vgm3WULWf9/GsBeyZE1WzCfou4G0BO67c587pzwN0ULFVfUltCFGn1VMwDq/QOqYd2AOC+8DU0uRg1QqKBi9fXLqU+YhvLbT/8CaFwqmmBRfR8eGTPwMBpvzGMzT8pZTfaxQ7u36deRL3R+WI31jxXkdZ//MBMhuFW5sFvBowF56LV3FObYgWso51I3juLeYF364B0IFbXiTE1CAiCPrwSwv4MGGYsKXsPKkzscliyFR9ecX1pDjDLamdslCP4bFrX2YZCOC3yMNx/RUstmp70Dc9T7cEGL4aEc+a2E6VJPa9VsnWT27W2yaA==;84AckOOGWysge0QyTLzDGw=="
+secured: "7Xb8K6QK+DCDa9W/LfcSAx4w7JwphMUbGTU1CBYBGYT2CXMtccGsuh2YI9sbT5vJcLDskZkp8IzzIMkZPKrBe6TRo+3V9SPryYKoEHeNdxQEN4fysHCuKErzXqtmF+KhcRT13KLmE2ppnUtZaPu+H7ugHeI7C7HUnLvk82r7y1GXPji84kPaqB2cOApbkDHXJ9kEvXF9LjYWUbaeGzguK7SYUy1jVlbtre5FaKBEf72WdpFdW82fTjvdzBhoIabXCg9CJC9EZm8i+NrmA0jFEcHKo2LuofqFIYsRoOtB7u97icmF5lypsY6ckzABPuy2gqEbSr5UUFytnDLRwdiFlw==;SBMn0qr05ZvTaxffYXx+aQ=="
 ---
 

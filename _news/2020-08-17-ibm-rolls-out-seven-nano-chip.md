@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Lightmatter Introduces Optical Processor to Speed Compute for Next-Generation Artificial Intelligence"
+    excerpt: "Lightmatter, a leader in silicon photonics processors, today announces its artificial intelligence (AI) photonic processor, a general-purpose AI inference accelerator that uses light to compute and transport data."
+    publishedDateTime: 2020-08-17T14:00:00Z
+    webUrl: "https://apnews.com/ecbc61b06dd74c9d888631615550391f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "3eJetG0ouSSDXf7db2BTqxf4fi0KxIKsgaTY9Lnz7U0Q4IxD4+C+xtKLsFGNYAvWq5DqIlfWrgZnB0GCf0Y2KNalvJ2fSLrD5FqXjeg551MyY7cAWYaLeYexVTTeh86tcon1ve11jJUQt/iHaVq17fKV2I2BOcEFm89l5rXy5Wfji8mG0gRhLcYg28EDxRR3NP3OKMnpnN+da1fkTz0MRYofAlLeiS/cqKyZD+XxMRhojoVQdxtaXMsf1IZDSVIWu4fMl3rti9iuYjv7gBv0VpFg3XoSlFKaSFOiwWeyCh2iDTuXjP8AtbwIfdCkMGp5Lg+Zbjzu4dDbbgk52nIJWAJSR+up46QtCyJUYY29kWTqcCFI+8uUOEFOMcVz7LP5LCNb9hiFTcS8o1n/4ulmt4kj/z9JbSws2KonVqDTFIuhrHRYdng6x5f332aanxsbygyxtKUgVl+OBPSJ1NF/xmSYWznEwsx2olMKCCkMZbYx7uIASWDQi1icoHRRaGoemCFmV9mzGKsD3J0aB/MKTw==;gf43ZRsEuHv47hqWaEPdHw=="
 ---

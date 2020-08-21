@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence (AI) Market Worth $15.9 Billion by 2027 at a CAGR of 39.8%|Pre & Post COVID-19 Market Estimates"
+    excerpt: "According to a new market research report Automotive Artificial Intelligence AI Market by Component Hardware Software Technology Machine Learning Computer Vision Process Signal Recognition Image Recognition and Application Semi Autonomous Driving Global Forecast to 2027 published by Meticulous Research the"
+    publishedDateTime: 2020-08-21T07:30:00Z
+    webUrl: "https://www.openpr.com/news/2118270/automotive-artificial-intelligence-ai-market-worth-15-9"
+    ampWebUrl: "https://www.openpr.com/amp/2118270/automotive-artificial-intelligence-ai-market-worth-15-9"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2118270/automotive-artificial-intelligence-ai-market-worth-15-9"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/T/8/T821866574_g.jpg"
+        width: 800
+        height: 436
+        isCached: true
 
 secured: "U21lO7HaEU48eQqTIi5uvMyyf7ECu9ddcCC+KeP8Kv5PHAqs7fkEsefmOgnTcjllGpG+33HZ0VzulawSI6me2D5IB/zxZPDmP8oaMRVKZ87Y2plylz+XeU1LWTKcQibQrcEPjYbnOgwY9eg5dYrQMSzwEYZZ6KRlfBI0JTYHUVKA68ufeiEVm1qFRY9SZrl8NR8F0014fH0oiT/inf4kwvxf8lEH85TvnK3j5q5s2wxp9gEuynk8l13wcAbXzHL3JXbl+udiRpQKLKHTUb5YA2EpG3YL5dwjXcIXFPxelJjSKvu/7XrVD9Dnc9q5A9lMBGGNntjMw5iHAmSQQHX8xA==;/1hqFomD5Ao0y1jbFezBVA=="
 ---

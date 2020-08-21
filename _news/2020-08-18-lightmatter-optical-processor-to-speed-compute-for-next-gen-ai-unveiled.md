@@ -39,20 +39,6 @@ related:
         width: 800
         height: 522
         isCached: true
-  - title: "Lightmatter Introduces Optical Processor to Speed Compute for Next-Generation Artificial Intelligence"
-    excerpt: "Lightmatter, a leader in silicon photonics processors, today announces its artificial intelligence (AI) photonic processor, a general-purpose AI infer"
-    publishedDateTime: 2020-08-17T14:20:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200817005099/en/Lightmatter-Introduces-Optical-Processor-Speed-Compute-Next-Generation"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
-    images:
-      - url: "https://mms.businesswire.com/media/20200817005099/en/813075/23/Lightmatter_2.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "F8Cl9DjH1hAR+RNf0EN2+rogbSCNEcxoxwW7gAQW9Fyiu6BnYh7fbxP0c1KMwwTOZR8HRoUxd6OCjP//RUz0ChMCZyfRIIa7RYJ0IVvE8NKYH/j2lwZHs3EaSrV5fk175N779q8pSbH5nPah9TWoTDrkI+R8xVh+emvRu7hO0nKIajhbprRFNGZwL20NICCN7Sw5cqIvug/5qOWMw02g7TdQyJlm9sGqukXDWaCVdfVJzoZGUjE5Np6+VpIWT2lUxnPF6C7nQSDuJHEcuNQ/A7/SEavCUE3YUyh7QJ2c6bXDNu7YIf2Gk+89ruQS8ajwn0MUUI2XThI0hAhs9B7akaAJ3mxSTVQr+jUMZ07O0bDv9sIHUms2NE0Xc9e8VzTGQoJSNCqFNyLHn/nFqOAEZkauSNJlwtNTVDOMuNBw99jInefvehe35Op7gfzQ1tZ7xft1w3vKhw74Gh8duI15kHtLdD6sTgj5Od/UX0pL74rmgQ4YJ7PNp6afAVJ/eyj+iFoLxxQnE/ukXgBuFQjyiQ==;2+kua4B7yhaHgzNHlr5jQw=="
 ---

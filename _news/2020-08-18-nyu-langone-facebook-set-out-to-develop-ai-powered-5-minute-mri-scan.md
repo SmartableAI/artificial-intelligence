@@ -82,20 +82,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Facebook and NYU are using AI to dramatically speed up MRI imaging"
-    excerpt: "Researchers have long looked for ways to speed up magnetic resonance imagining (MRI). Two years ago, Facebook’s Artificial Intelligence Research group (FAIR) began collaborating with researchers at New York University’s Medical School on artificial ..."
-    publishedDateTime: 2020-08-18T13:43:00Z
-    webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-facebook-NYU-fast-mri-study.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "yX5GMXSQ8z6H/CPGxvD8QkKi6QvkDh5tYYHEiouAYKq9wvGyFEtHz5s3g12RG2+9pfVHyW29JCjqt2lel066LA2f08/ZPSZpiAxqYsbQXoN1Nt7ZuBlaFm2RVK9M81Ip5RbCIBE77UrOaOBaPJmrLhxgF+IKGWprq9HMuLmz1mqXQxD+queQre42G79HFxaoXDhN29jsfLxJiw+XdEcqvKFxnlDo++Vm3t72/12dA7R5xrpLjL3MLSZ036Ds6TUlTmZ2Qq+oXyAr/iLmpUIMUdAacOZIa3oyF7Yyee57mylTPdcB62eHnBXUJqwo+sBhdvsFc322ZjQgtSckbp8HRQ==;qPfzgkOrR5iiFCdj5U+ufQ=="
 ---

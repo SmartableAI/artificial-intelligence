@@ -1,15 +1,15 @@
 ---
 category: news
-title: "AI Health Startup Can Get 15 Vital Signs Via Your Phone Camera"
-excerpt: "And having the results funneled to your personal medical AI engine to monitor you for any signs of poor health, ready to notify your physician if anything looks out of the ordinary. Like higher temperature,"
-publishedDateTime: 2020-08-19T04:26:00Z
+title: "AI Health Startup Captures Up To 15 Vital Signs Via Your Phone Camera"
+excerpt: "A health woman.. Look into your camera for thirty seconds. You’ve just given your phone enough information to check your heart rate, oxygen satu"
+publishedDateTime: 2020-08-20T16:48:00Z
 webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/"
 ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -29,9 +29,9 @@ images:
     isCached: true
 
 related:
-  - title: "AI Health Startup Captures Up To 15 Vital Signs Via Your Phone Camera"
-    excerpt: "A health woman.. Look into your camera for thirty seconds. You’ve just given your phone enough information to check your heart rate, oxygen satu"
-    publishedDateTime: 2020-08-20T16:48:00Z
+  - title: "AI Health Startup Can Get 15 Vital Signs Via Your Phone Camera"
+    excerpt: "And having the results funneled to your personal medical AI engine to monitor you for any signs of poor health, ready to notify your physician if anything looks out of the ordinary. Like higher temperature,"
+    publishedDateTime: 2020-08-19T04:26:00Z
     webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/"
     ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/amp/"
     cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/amp/"
@@ -46,6 +46,6 @@ related:
         height: 721
         isCached: true
 
-secured: "yQy6btYAJaUfuF00IYIi+MmSYg6e/Uag+80SuxcKI0txPsIxL9+6xg3d8BGQhMHunnErBuUcnmw1l6OJOXozELnzdpV9XX3TzZGxL/jDuujAjbcG2VOsfo1Xs9ckyuZlo3qSC5TBLVTKTD1Swupl5WvwPNlC7SDF4mXSj0lbNhuZTLSnrFkKKE2B1OHirQcNW65tOILmbZ/TN868JE7mR+cHaqONajVhT1uWYVOmSrhHpG+uiBkGF/Ce9jDJxEHhBNnh/8daMDv1WX6lxU+SFH+OB2AbwuBzwc4gKm2JU32RvigqzD7lU4HvSwlYbqLnp1RcnhRah9UTtIim1DZizx2NTWPV6vbEwm8lQ1rnsZGyPWJtxQWUpeRnwDnHkvecpgGFmk5DC49kqKMnwaW6jQ/cx4QB0UgIqmr1VQSPl9UuLE4tFdfXmVEEj4LIQJH50yqw3nEbn3TBWQbVclLtYbXTLAqGhv/yPt91+YCJkuYSm/L0FKQJiuCNrfiN2NAWzXEN9F8Xoh+3r0u8NZ9rxA==;jP5rXCEXxW48KhV8A+u3QQ=="
+secured: "W57DYIrX6fa9itqGvcWEASIwj5lKyFwELpLC2PbxqvLFSjDH1quYMovkP8kIcz1UJSDr8zZ+onZHSEZIf04k1uL2h4FBta2Be4UUAzWA4uDVXFABaUtm8Ym34sw14cHWvo+cnOtleEsj3MI7vg5g1lrR18hf38Jo/TAD/kVjrRUsM0gnkXMmPgCeJW6ITwiMwnfchOMs/by71IGActQGrzbOIxC67WAlvEUnXICwqiYFimltzB7N9tqnqJ2BFycWoJRUyBOvA3Vf6B3gcaYk38nEblbky8rkntkXpNvuhfEVxHLjh3RjKsC276H2pTCfW8xtS8Va47YlSx2c1M9Zyg==;237GhOwNkUOHLhDczFiWlQ=="
 ---
 
