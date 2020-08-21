@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-th
 ampWebUrl: "https://venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/amp/"
 type: article
-quality: 81
-heat: 81
+quality: 83
+heat: 83
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/08/duolingo-duo.png?w=1200&#038;strip=all"
@@ -28,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "SoeHARnSlaqg2P2+JpEQzzaOooHC4lvXCKktJBwx7slnNYXmKMwBj8N53lvZLVjZntVCCSmB8uRjpASB6Vgi6U+vrcPEcetlep66Za7ZzBgep+7Pdlvjf4+wrow6cHfme7f5gjotVDxgwbQ4xRiQkL+AAqabB57cCj9GcAhaYXFlmC3FOAjMyNKb24kMjDUnMorFV6Ov1T4J8mFMG/JVCa2jCADZqucyEehzyaJKgJd2ofrLrD4coCb5aNGZ32CSf7nwgktY8wycsstAhIv4kSXutqTaSavySP3hfDagc5dBguBxH3wVdSCvLELqLChqOJorgT51lXZdzKXyBIhtzQ==;Gy4UxRNBIaarBVg1ddSRrA=="
+secured: "hln4SrBgTSqanEzyRnDKawkT/0epVWgiDg3rK1ME4m68+stLYZiFDQ43dAlgbA9vkMnxCDPqFKDB28Z7CCRusga7lJTo0vLDkrz8x0TXFiy96bScY7cFyk0nySOcqtRSmjjLi08Wf2ZrgFftDQrr8R8goNSaJ6qI1V7hoLWAxhxV8AGeAl1L1jGIkOFqJOmNP5KGeCB0zpPUP5sU0e17The8LgDst5Yh43ZDUrmvEoKQ/IzjAOgPCPp8h/px/05qPngbQuhsD1XVGT+UhV8NrFsIk4feMbGRORyPD1LfY+rbSf8tZ5lk04mvnHcjKihzr1P06j9FWVU2ph91ZcE+eZPCfLi/O595RGuUZdBKuExgYQc2Cnw2UUREVgroAgu1GXttVtAdYU2+z8Bf7g6zAeUHuFDW2lUqJACTxQ8ldAW91eE36Wpb9mEJ/pI3svpLVIEDaR0Gj9zEoW3TJieWaONUeX2SiHbhS5vNRTVDICp946axYQKZEZ1I2i6S2z6iW6lrzChTboayshgY4vXRDQ==;iAHVAhH1qj1/+fvNCfXwkg=="
 ---
 

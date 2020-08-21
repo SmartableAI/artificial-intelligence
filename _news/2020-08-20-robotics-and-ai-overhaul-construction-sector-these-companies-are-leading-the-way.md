@@ -30,7 +30,7 @@ related:
   - title: "Experts at Quantzig Analyze the Correlations and Functionalities of Data Lakes, Analytics, and Machine Learning in Their Recent Article"
     excerpt: "Quantzig announces the completion of its recent article that lists the critical requirements for building and maintaining data lakes."
     publishedDateTime: 2020-08-21T14:35:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200821005014/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200821005014/en/Experts-Quantzig-Analyze-Correlations-Functionalities-Data-Lakes"
     type: article
     provider:
       name: Business Wire

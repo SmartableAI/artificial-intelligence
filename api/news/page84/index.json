@@ -2,6 +2,268 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2020-06-19-google-quietly-launches-an-ai-powered-pinterest-rival-named-keen.md",
+      "title": "Google quietly launches an AI-powered Pinterest rival named Keen",
+      "excerpt": "On Keen [...] you say what you want to spend more time on, and then curate content from the web and people you trust to help make that happen,” writes Adams in a blog post. Y",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/oMLxZlGuSVMylzpxK22gnkGl_Vg=/0x0:1000x502/1400x933/filters:focal(420x171:580x331):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66956670/keen.0.png",
+          "width": 1000,
+          "height": 502,
+          "title": "Google quietly launches an AI-powered Pinterest rival named Keen",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning",
+      "publishedDateTime": "2020-06-19T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges.md",
+      "title": "IBM’S Newly Launched ‘Watson Works’ Uses AI To Help Firms Manage New Work Challenges",
+      "excerpt": "IBM recently launched Watson Works, a curated set of products that uses Watson AI models and applications to manage return to workplace challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/news/i/ibm-gets-w/ibm-gets-woke-pulls-facial-recognition-software-from-law-enf_xmru.620.jpg",
+          "width": 620,
+          "height": 414,
+          "title": "IBM’S Newly Launched ‘Watson Works’ Uses AI To Help Firms Manage New Work Challenges",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges?amp=1",
+      "publishedDateTime": "2020-06-19T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-add-artificial-intelligence-expert-to-your-resume-after-this-35-training.md",
+      "title": "Add 'Artificial Intelligence Expert' to your résumé after this $35 training",
+      "excerpt": "Artificial intelligence experts. Many of today's most exciting technologies have artificial intelligence to thank. Think personalized Netflix queues, self-driving cars, and this app that blurs out the faces of protestors.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F19%252F88%252F2240500266b74523b0293e3e05db6d76.089f6.jpg%252F1200x630.jpg?signature=G-7BbAQ99OQQq5C9x57kGAJsLIs=",
+          "width": 1200,
+          "height": 630,
+          "title": "Add 'Artificial Intelligence Expert' to your résumé after this $35 training",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale.amp",
+      "publishedDateTime": "2020-06-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g.md",
+      "title": "Qualcomm launches its RB5 robotics platform with Artificial Intelligence and 5G",
+      "excerpt": "Qualcomm RB5 robotics platform with Artificial Intelligence and 5G - Check out how the new platform from the fabless company transforms businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st1.bgr.in/wp-content/uploads/2020/06/Qualcomm-RB5.jpg",
+          "width": 810,
+          "height": 460,
+          "title": "Qualcomm launches its RB5 robotics platform with Artificial Intelligence and 5G",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/amp/",
+      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/amp/",
+      "publishedDateTime": "2020-06-19T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "www.bgr.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-ibm-launches-watson-works-to-address-the-challenges-of-returning-to-the-workplace.md",
+      "title": "IBM Launches Watson Works to Address the Challenges of Returning to the Workplace",
+      "excerpt": "IBM (NYSE: IBM) today announced Watson Works, a curated set of products that embeds Watson artificial intelligence (AI) models and applications to help companies navigate many aspects of the return-to-workplace challenge following lockdowns put in place to slow the spread of COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmo.com.au/mediareleases/134132/ibm-launches-watson-works-to-address-the/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo.jpg",
+          "width": 620,
+          "height": 254,
+          "title": "IBM Launches Watson Works to Address the Challenges of Returning to the Workplace",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-ai-recreates-the-painting-techniques-of-famous-artists.md",
+      "title": "AI recreates the painting techniques of famous artists",
+      "excerpt": "Apart from the virtual history lessons, this could be useful for illustrating general painting techniques to relative newcomers — say, starting from the background and working ‘closer’ to the viewer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ai-recreates-painting-techniques-of-famous-artists-022923128.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F080a74b0-b1a3-11ea-bfa7-b98b6051d4be&client=amp-blogside-v2&signature=5d536120550223598bcf3a3cd34a91546508d565",
+          "width": 1200,
+          "height": 425,
+          "title": "AI recreates the painting techniques of famous artists",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-ai-makes-a-splash-in-advertising.md",
       "title": "AI Makes A Splash In Advertising",
       "excerpt": "AI is particularly good at advertising: identifying potential customers through clustering and pattern matching, tailoring messages through AI-enabled hyperpersonalization, and finding the best times and means to communicate through pattern identification.",
@@ -880,279 +1142,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-gpu-accelerated-ml-training-now-available-for-35-million-windows-subsystem-for-linux-users.md",
-      "title": "GPU accelerated ML training now available for 3.5 million Windows Subsystem for Linux users",
-      "excerpt": "Microsoft has announced the availability of GPU Compute on the WSL2, allowing users to run native Linux command-line tools directly on Windows 10",
-      "sourceUrl": null,
-      "webUrl": "https://news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/06/GPU-Compute-WSL-2.jpg",
-          "width": 700,
-          "height": 365,
-          "title": "GPU accelerated ML training now available for 3.5 million Windows Subsystem for Linux users",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/amp/",
-      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/amp/",
-      "publishedDateTime": "2020-06-18T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-ai-model-uses-smartphone-location-data-to-predict-power-grid-usage.md",
-      "title": "AI model uses smartphone location data to predict power grid usage",
-      "excerpt": "Researchers propose an AI model that incorporates smartphone location data to predict power grid usage during the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/18/ai-model-uses-smartphone-location-data-to-predict-power-grid-usage/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/07/australia-powerpack-blog-e1592499666353.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI model uses smartphone location data to predict power grid usage",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/18/ai-model-uses-smartphone-location-data-to-predict-power-grid-usage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/ai-model-uses-smartphone-location-data-to-predict-power-grid-usage/amp/",
-      "publishedDateTime": "2020-06-18T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-medtronics-minimed-780g-with-artificial-pancreas-capabilities-cleared-in-eu.md",
-      "title": "Medtronic’s MiniMed 780G with Artificial Pancreas Capabilities Cleared in EU",
-      "excerpt": "Medtronic won the EU CE Mark for its MiniMed 780G closed loop insulin pump that features both Medtronic’s own SmartGuard algorithm and MD-Logic, an algorithm developed by DreaMed Diabetes, a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2020/06/medtronics-minimed-780g-with-artificial-pancreas-capabilities-cleared-in-eu.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure.md",
-      "title": "Microsoft and Johns Hopkins Medicine announce five-year deal centered around Azure",
-      "excerpt": "With Azure set to become the John Hopkins inHealth precision medicine initiative's preferred cloud platform, JHM will be looking to advance its medical research with Microsoft's assistance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1592497935_microsoft_johns_hopkins_medicine_logo_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft and Johns Hopkins Medicine announce five-year deal centered around Azure",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure/",
-      "publishedDateTime": "2020-06-18T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-the-ai-eye-episode-371-ibm-announces-watson-works-and-intel-introduces-xeon-processors-with-additions-to-ai-portfolio.md",
-      "title": "The AI Eye Episode 371: IBM Announces Watson Works and Intel Introduces Xeon Processors with Additions to AI Portfolio",
-      "excerpt": "Point Roberts, WA and Vancouver, BC - June 18, 2020 (Investorideas.com Newswire) Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-episode-371-ibm-announces-watson-works-and-intel-introduces-xeon-processors-with-additions-to-ai-portfolio-2020-06-18",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye Episode 371: IBM Announces Watson Works and Intel Introduces Xeon Processors with Additions to AI Portfolio",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off.md",
-      "title": "Get this Complete 2020 Big Data and Machine Learning Bundle at 96% off",
-      "excerpt": "With today's highlighted deal, be a modern day tech hero with 68 hours of content on the most in-demand IT expertise including Tensorflow, Keras, Deep Learning, Apache and more at Neowin Deals!",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574762211_1481879523_efa151423bca1f29bdb0870f620e57a112ee9c7b_main_hero_image_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Get this Complete 2020 Big Data and Machine Learning Bundle at 96% off",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off/",
-      "publishedDateTime": "2020-06-18T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

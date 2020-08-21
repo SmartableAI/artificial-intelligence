@@ -3,7 +3,7 @@ category: news
 title: "Experts at Quantzig Analyze the Correlations and Functionalities of Data Lakes, Analytics, and Machine Learning in Their Recent Article"
 excerpt: "Quantzig announces the completion of its recent article that lists the critical requirements for building and maintaining data lakes."
 publishedDateTime: 2020-08-21T14:35:00Z
-webUrl: "https://www.businesswire.com/news/home/20200821005014/en/"
+webUrl: "https://www.businesswire.com/news/home/20200821005014/en/Experts-Quantzig-Analyze-Correlations-Functionalities-Data-Lakes"
 type: article
 quality: 7
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 578
         isCached: true
 
-secured: "/fXz6mKqvlVoi5ld9ZC2UF8316018p+4h5NdXVyebmduCFnCNLyyyiEGMeTjkh1McaZuxQ1NkfsblMhB8xwUqhnoxu+ionhdMn2DtwpkHLuRIJSx+Vouzgby74qgtxEqsIlKkIC8DKCwknzeiI4qMwgHSUkRUSktDbVhaPvgEm7YvZQVY7SnwD0pIgBdd5+Lg5Xz0/PrxV85FElV5Et67kpJv+l1n/CjZszraQBqQWwIlmm+Yu31aghrksO8HOZTY/sI0+wlIPW8XfDBzd+CPaOOwY6Y4kbsXSdBppobNAWViHbwoLHC5XQ8q64BJI7WL5deXTPxdhaCOiOelXJWtGSdN0kwN2Qa6nl0FZHceN8OQvchiCRLazFU3C9mbpv7gc381IJMSjkkYlsPmaqtjS95FzvwPQRpPQnRVrkzIAoEAHp1S9jEP92fYunOBglqBGp84RGkV4rPkvKqpa6aHowlMwme+ooS0tKbXPwF39ZBZUV13ZMt9Zou1ndY6zJPGV29TxcBOnzSqMVcKg8XXw==;pjHQek54qC9SoZYW1xWinQ=="
+secured: "Uh2+A5Ny3dOdSE5zFWXgEvvLTurazWWHnib15ZOEqwWeDZAG1hY9EEUDhJH8CBLfhRbs2P7Cq26syEelffSS/90EkQVDbIiv/BeOKxgaStc29QzEy9gV6v1CTLl9lu1hI5V3ZoE5fQNViRBoV5llIonvdlhYkaG1Ok/4B3gr8XHTEVelYB/sHYNTHXa4oBKCuLjDdJvX7YfJF5hf3juoJhsXNDmGKrl3pm54uJn+xd6cfxLBPc72C2M0QtNYrqwN8SN2DJW6YBiRX5yamRHNFB5AdcaCb1/761L89MelLTNi1W7L2PQzShn7QCesvWMbnkaO5wJZg23EWKCmZLl21Q==;vaEJG+2KbPkGBgiQzfA1uA=="
 ---
 

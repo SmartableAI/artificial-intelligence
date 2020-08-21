@@ -24,6 +24,22 @@ topics:
   - AI
 
 related:
+  - title: "Self-Driving Shuttle Service Launched To Transport Senior Citizens And Underserved To Detroit Hospital"
+    excerpt: "Shuttle connects The Village of Brush Park Manor Paradise Valley and Brewster Homes to Detroit Medical Center Heart Hospital, features ADA compliant wheelchair ramp."
+    publishedDateTime: 2020-08-21T18:59:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/08/21/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/08/21/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/08/21/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 28
+    images:
+      - url: "https://detroit.cbslocal.com/wp-content/uploads/sites/15909782/2020/08/Navya_Autonom_Shuttle.jpg?w=420"
+        width: 420
+        height: 236
+        isCached: true
   - title: "Navya pilots self-driving paratransit shuttle on Detroit streets"
     excerpt: "A self-driving paratransit shuttle pilot is being deployed to help senior citizens in Detroit. Last year, French company Navya received a mobility grant from PlanetM, the Michigan Economic Development Corp."
     publishedDateTime: 2020-08-19T17:35:00Z

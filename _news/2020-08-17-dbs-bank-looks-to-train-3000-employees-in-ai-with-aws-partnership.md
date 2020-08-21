@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-300
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/dbs_building.jpg"
         width: 800
         height: 454
-        isCached: true
-  - title: "DBS to upskill at least 3,000 employees in AI and ML skills this year"
-    excerpt: "To enable this, DBS has collaborated with AWS to launch the DBS x AWS DeepRacer League which will see employees learning the basics of AI and ML in a series of online tutorials before putting their ne"
-    publishedDateTime: 2020-08-17T01:40:00Z
-    webUrl: "https://www.humanresourcesonline.net/dbs-to-upskill-at-least-3-000-employees-in-ai-and-ml-skills-this-year"
-    type: article
-    provider:
-      name: Human Resources Online
-      domain: humanresourcesonline.net
-    quality: 39
-    images:
-      - url: "https://www.humanresourcesonline.net/images/hr-sg/content-images/jerene-aug-2020-machine-learning-123rf.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "DBS partners Amazon to upskills 3,000 employees in AI and machine learning"
     excerpt: "Financial services company DBS has collaborated with Amazon Web Services (AWS) to launch DBS x AWS DeepRacer League in a bid to equip its employees with fundamental skills in artificial intelligence (AI) and machine learning (ML) by the end of the year."

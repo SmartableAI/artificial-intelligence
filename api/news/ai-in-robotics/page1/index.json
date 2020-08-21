@@ -9,7 +9,7 @@
       "webUrl": "https://www.digitaltrends.com/news/facebook-embodied-ai/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 83,
+      "heat": 85,
       "tags": null,
       "images": null,
       "type": "article",
@@ -39,7 +39,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {

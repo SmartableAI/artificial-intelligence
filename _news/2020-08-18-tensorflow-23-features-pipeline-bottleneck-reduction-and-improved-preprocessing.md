@@ -5,8 +5,8 @@ excerpt: "The TensorFlow project announced the release of version 2.3.0, featuri
 publishedDateTime: 2020-08-18T13:16:00Z
 webUrl: "https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/"
 type: article
-quality: 34
-heat: 34
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://res.infoq.com/news/2020/08/tensorflow-improved-pipelines/en/headerimage/tensorflow-improved-pipelines-1596991592701.jpg"
@@ -23,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "pw7AP6Wy4zv+64ZNsfCOo/Jjf62oEJlbFxcEAUphoVWi/J5qRsXB7D4iebPKJuLGpdkKz/goZzzSRPvtNZmZlK2Gp/2sZMtTYI6oN4GM6Ac3qg5VlOX8E8RQi06GzbTtkblYEu9Svo2y3fGAa8pxnfFcYyia0EtRc0ceIfPrWLHLmuxR6D+LCF7C4+Z1OnYZ9mx6704FA3OFUVq9iE0JkGBHO+YXdjcZnFKpWNbD/vygsbKjjSORFFp1fXT6k6+fRJsp+EQWi/dexOFglXVmfYmEynX9G/LGsz3i1ThdW1urrHYwpQyW0412KNRZ6fLCepIkfKZFgT0fpsisJVYbOg==;M+T+fjB7uCAhT5lot9m5HQ=="
+secured: "n92ITXJ4FtSbw3V72OiCOd0iK0fBqgKHQju7KZgmqy898VvoFbHTFT4fWYlXC33UnAQRaK6mHnbLU/m8kvihB8AkikMDoiWieqmcU7SJu2wkZRLdAWYWrMmy0UCX6Z5xigTUcd6sU9e7dCQaWBzVTLozNw+vKH9h0IaevzaeOxcJyWI9lulNSU3r63/Z/bHLamNssiOoEfFtMwE9iydL0kA8giS0mzdJ/KIndPZCguE8bpTLg5kKlq4JrV+K217k4FjxUPmBUjaonl9Rl0LC7NdotPdKWFgMQTTZAc3mBH2LkSZ3758fFLEK0lUqHYHb45hjC4qkPDXyNdA2rFyvLtUeTGFSDm8wOgOh2PayPJEcS88fBy4ADkOVp22toW55sVA1kVBryyLCJJNu5rjCz/+4TN8HX4OInZvE7O+Y/+x083DvXbCwBwKnk5ihRzIAGj+V5sfNNnP1WZh2+KwYdqWyp4F+nL6p+AYMv/aIGTixXSUXC36TDaAfodr4KOQeiRQmb6YZI1esiN8bp65Mzw==;I2ewO5RWNfabyOtHGxvZuQ=="
 ---
 

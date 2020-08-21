@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T22:45:00Z
 webUrl: "https://www.engadget.com/new-york-city-facial-recongition-223931035.html"
 type: article
 quality: 69
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -43,38 +43,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg"
         width: 620
         height: 250
-        isCached: true
-  - title: "Miami Police Used Facial Recognition Technology in Protester's Arrest"
-    excerpt: "NBC 6 Investigators found a facial recognition program was used to identify a woman accused of throwing rocks at Miami Police officers during a protest on May 30."
-    publishedDateTime: 2020-08-17T22:15:00Z
-    webUrl: "https://www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/"
-    ampWebUrl: "https://www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/?amp"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/?amp"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 59
-    images:
-      - url: "https://media.nbcmiami.com/2020/08/CLEARVIEW-UPDATE-PHOTO.png?fit=1200%2C662"
-        width: 1200
-        height: 662
-        isCached: true
-  - title: "De Blasio Will Reassess NYPD's Use Of Facial Recognition Tech After Protester Arrest"
-    excerpt: "Currently, the department’s Patrol Guide allows police to run facial recognition searches on anyone suspected of a crime or anyone who may have witnessed a crime."
-    publishedDateTime: 2020-08-17T18:08:00Z
-    webUrl: "https://gothamist.com/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
-    ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
-    cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
-    quality: 52
-    images:
-      - url: "https://cms.prod.nypr.digital/images/310236/original"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "Study Finds Face Coverings Reduce Accuracy of Facial Recognition Technology"
     excerpt: "Even the best of the 89 commercial facial recognition algorithms tested had error rates between 5% and 50% in matching digitally applied face masks with photos of the same person without a mask, according to NIST."

@@ -1,19 +1,25 @@
 ---
 category: news
 title: "Hyland Releases Foundation Version of Brainware Intelligent Capture"
-excerpt: "Hyland, a leading content services provider for organizations across the globe, announces Brainware Foundation, the latest release of Hyland's intelligent data extraction and text"
-publishedDateTime: 2020-08-05T14:25:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hyland-releases-foundation-version-of-brainware-intelligent-capture/article_9e694b5d-3d3c-5562-9de9-c3aaff952d98.html"
+excerpt: "an intelligent content analysis tool within the portfolio of Microsoft Azure Cognitive Services. The Microsoft engine includes advanced OCR capabilities for extracting difficult handwritten inputs ..."
+publishedDateTime: 2020-08-05T13:57:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/hyland-releases-foundation-version-of-brainware-intelligent-capture-1029473636"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/hyland-releases-foundation-version-of-brainware-intelligent-capture-1029473636"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/hyland-releases-foundation-version-of-brainware-intelligent-capture-1029473636"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "h8gtPZb2NGW3QNgwA6/EO8ABl+QsAH6/rbuozhq/xJsg9liRU89BC5SsytdkS4TEPc3P+Kcf65h/iRv5/KdkIQqPIPqH/E4EpzaGu89BF3W4BNf62S5xER90kWCshx3o2TPstPz3rvz/VmXbP5gDJUd0cDW9Qc2Xsv6WqvBnM4PMQ2cpdwX0nxz1VVGCmZJ/eVSCcQdPYMnuXTDcdZRBemuEeX4kDvqu7p/FtKJuq8aqz8iLRXy360LfGb4UlPy3gM0ljcTo+6kX+yXo0II/8036OX6ylTQv5WHPso3NapZEpKDjn+2jeykj2tp03eR3NrLC/dCCpWohxMF0lv8wIA==;T+q/F9Rg0pBKSBwhabItpA=="
+secured: "PsLleF2HshQ3YpRK/d+fDiAlJAgHQJeQovof8z3R8At93wVGshSH10Pqqr726YnXB1jlL8Kzd/UimBtyJI2lJzQB0jYuGPKaAUutVmGObqzdgMjrgwzBngwCtd7D8eQ5U1k30lqIS5Z0VAVbg9isS1jWwuDvDnM0a74hD1CG/ssJEnZLpftVL59bEI/MxlXeY5E0oz6mlbxyZvB3ydG26APP68+/EJE5NRVghtQ6qnNR6/e/RFHwA74fB2b6VUSwqFFO0hJaL5mdxVtAldHLcYHFtFMf/NL7IW+cQ/Upgq1elbDvN+OsrQzNjNLMdGVHY0bTclp+WUWne8nzPtvqYw==;fXZOJY4j17YtFWsM3YM9Yg=="
 ---
 

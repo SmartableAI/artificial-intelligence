@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-20T09:33:00Z
 webUrl: "https://www.greenbiz.com/article/journey-foods-uses-ai-create-sustainability-recipe-food-manufacturers"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -21,24 +21,6 @@ images:
     width: 2880
     height: 1920
     isCached: true
-
-related:
-  - title: "AI is the future for mobile manufacturers"
-    excerpt: "Pen latency, whereas Apple ‘s idea was to focus on Siri and data processing. Samsung and Apple are not the only two companies fighting over AI. Video-conferencing apps are doing the same. But both represent different aspects."
-    publishedDateTime: 2020-08-17T03:03:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/ai-is-the-future-for-mobile-manufacturers/2057155/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/ai-is-the-future-for-mobile-manufacturers/2057155/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/ai-is-the-future-for-mobile-manufacturers/2057155/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://images.financialexpress.com/2020/08/artificial-intelligence.jpg"
-        width: 660
-        height: 440
-        isCached: true
 
 secured: "zlFWWxVjHBNDiWcVGIPyoYtwOo8V2qV2qPDeBvjstBmniaBFdeJHTQPZbGozKxxrbatAXweSaPuCPMlQhFt9TsR1Ncgt+MfQ0Q+Hjsp8uKaiL34RTncsIe/B9n9rJityWkwcywW4ziT8SJA4G4clSRkeV/NWb5CicYm3I9omVkVvNfa+1BCJwNBun0TtP3/PgcEOMBl7fbYHzql3cNvVe7u42Knq1Ga6djGmq7fHflHpY6HgRg8p/GIQ1cDbiTttvcwZQOBPtQe2uo/xsUdYQ3XIqrsVZe4RNpsRto3c93PE40gVnTKzBD7Ib1wOTL96RZqB0G71A5mg0gvkebSF/w==;qI46PSOwzdj3bIpnHRp52g=="
 ---

@@ -35,6 +35,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
+  - title: "Self-Driving Shuttle Service Launched To Transport Senior Citizens And Underserved To Detroit Hospital"
+    excerpt: "Shuttle connects The Village of Brush Park Manor Paradise Valley and Brewster Homes to Detroit Medical Center Heart Hospital, features ADA compliant wheelchair ramp."
+    publishedDateTime: 2020-08-21T18:59:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/08/21/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/08/21/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/08/21/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 28
+    images:
+      - url: "https://detroit.cbslocal.com/wp-content/uploads/sites/15909782/2020/08/Navya_Autonom_Shuttle.jpg?w=420"
+        width: 420
+        height: 236
+        isCached: true
   - title: "Detroit Medical Center patients offered new self-driving shuttle service"
     excerpt: "Senior citizens and residents of two local Detroit communities now have the option of taking a self-driving shuttle to appointments at Detroit Medical Center Heart Hospital. The complimentary service comes via several partners,"
     publishedDateTime: 2020-08-20T14:52:00Z

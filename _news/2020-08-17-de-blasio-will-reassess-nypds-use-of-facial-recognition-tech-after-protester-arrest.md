@@ -26,35 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "New York City says it will reassess police use of facial recognition"
-    excerpt: "\"That's something I will do with my team and the NYPD.\" The question came after NYPD admitted it had used facial"
-    publishedDateTime: 2020-08-17T22:45:00Z
-    webUrl: "https://www.engadget.com/new-york-city-facial-recongition-223931035.html"
+  - title: "A New Tool Aims to Protect Protesters From Facial Recognition With Deepfakes"
+    excerpt: "In an era in which facial recognition has made it easy for law enforcement and other organizations to search someone’s identity based on their face alone, the question of when it’s appropriate to share identifiable photos of protesters and activists ..."
+    publishedDateTime: 2020-08-21T19:53:00Z
+    webUrl: "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/"
+    ampWebUrl: "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
+      name: Adweek
+      domain: adweek.com
+    quality: 71
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2020/08/deeepfake-tool-PAGE-2020-640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Cops in Miami, NYC arrest protesters from facial recognition matches"
+    excerpt: "Law enforcement in several cities, including New York and Miami, have reportedly been using controversial facial recognition software to track down and arrest individuals who allegedly participated in criminal activity during Black Lives Matter protests months after the fact."
+    publishedDateTime: 2020-08-19T20:45:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/08/cops-in-miami-nyc-arrest-protesters-from-facial-recognition-matches/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 69
     images:
-      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2Fbce7cf20-ecf2-11e9-b372-50ae8ac12a88&client=amp-blogside-v2&signature=e638e7e15835c15f1e753686f1b886881e7c5556"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "Hashtag Trending – Facial recognition in New York; Airbnb at Blockbuster; Swiping right at work"
-    excerpt: "The New York City Police Department uses facial recognition to find a man who allegedly shouted into a police officer’s ear with a bullhorn, you may soon be able to experience the nostalgia of BlockBuster,"
-    publishedDateTime: 2020-08-19T12:02:00Z
-    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727"
-    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 62
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg"
-        width: 620
-        height: 250
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-1238438366-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Miami Police Used Facial Recognition Technology in Protester's Arrest"
     excerpt: "NBC 6 Investigators found a facial recognition program was used to identify a woman accused of throwing rocks at Miami Police officers during a protest on May 30."
@@ -72,19 +72,47 @@ related:
         width: 1200
         height: 662
         isCached: true
-  - title: "Study Finds Face Coverings Reduce Accuracy of Facial Recognition Technology"
-    excerpt: "Even the best of the 89 commercial facial recognition algorithms tested had error rates between 5% and 50% in matching digitally applied face masks with photos of the same person without a mask, according to NIST."
-    publishedDateTime: 2020-08-19T09:43:00Z
-    webUrl: "https://www.campussafetymagazine.com/public/study-finds-face-coverings-reduce-accuracy-of-facial-recognition-technology/"
+  - title: "Court Grants Facebook Preliminary OK to Settle Facial Recognition Privacy Claims"
+    excerpt: "Facebook Inc. won preliminary approval late on Wednesday from a federal court for settlement of a lawsuit that claimed it illegally collected and stored"
+    publishedDateTime: 2020-08-20T12:10:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/08/20/579687.htm"
     type: article
     provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 37
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 49
     images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/08/AdobeStock_334270594-scaled.jpeg"
-        width: 2560
-        height: 1709
+      - url: "https://www.insurancejournal.com/app/uploads/2020/08/facebook-facial-recognition-image-woman.jpg"
+        width: 600
+        height: 430
+        isCached: true
+  - title: "Report points to privacy, accuracy concerns with facial recognition technology"
+    excerpt: "More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19."
+    publishedDateTime: 2020-08-19T01:43:00Z
+    webUrl: "https://www.wsbtv.com/news/washington-news-bureau/report-points-privacy-accuracy-concerns-with-facial-recognition-technology/TNYBKP3JN5HVZN6UHG7JBQZL5E/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 35
+    images:
+      - url: "https://www.wsbtv.com/resizer/pizHIqwlvdVYQfCKDEUxfNhcR74=/1200x628/d1hfln2sfez66z.cloudfront.net/08-18-2020/t_e302f4af08bf47a6a96fcbf20d001f50_name_6PP_FACIAL_RECOGNITION_US_PKG_frame_930.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "New report points to privacy, accuracy concerns with facial recognition technology"
+    excerpt: "WASHINGTON, D.C. — More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19. “The market is definitely growing,” said Alicia Puente Cackley, Director in the ..."
+    publishedDateTime: 2020-08-18T20:21:00Z
+    webUrl: "https://www.wpxi.com/news/washington-news-bureau/new-report-points-privacy-accuracy-concerns-with-facial-recognition-technology/QEWNWCGJAZD5ZJJU3UGHFFOUJM/"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 33
+    images:
+      - url: "https://www.wpxi.com/resizer/-nittaDLfS5Blfji2XXyH8wFsH4=/1200x628/d1hfln2sfez66z.cloudfront.net/08-18-2020/t_e409325f18a2475aaa8ef89c032632a0_name_https___www_whio_com__rw_Pub_p5_News965_2014_06_18_Images_photos_medleyphoto_5395453.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "wwnbGw2NEaAqVZjkNLN7zdpKCqf3hsKzelh9gKop1VmpTlMienflEXz5cz13lxTi20lUKzWLKdwPuSpOm/NLEXAmq/M0rEwzcsNE/lOm/DoS7ZWMyjYv8SwrDmzBXrLUvXAc59KoEAlNVIbotkWQND54tfp9JJqK7XXip7kiJMGYEOYNQTk/wS0aF3WwH3mCu/T62/fkX1HAwrx3zA3/IzNN6yhdS2UGUykbTNMveVYVTEt+bZZDYFab2xUyrkykpmNYALUMzdYGLEoJcmWspMSPwDc6v8rUOEqduQCOhk2hWnDvQBk4twIqN9Wm+FTO2DK+3hRKeO2WpjnhAvazcHL87+/ol537ZLisrs6k3P9pstQTGV9sFrhEF+1QtWMTxE3sXyOkcWxTEfYfYwm9mXhHpDFfcE35s1tDk6p10rM54W6VaoztZ3YgAu6Ux9oymyXDbahwcofxBdowPdmht/stOatxxChf0bYKW09fqwRYGSsrw6uGpx+FTQAZekhkFY9OTAdPTtBmsjhn5hqsFA==;4odTwv7bov/ZzWYcPemb3Q=="

@@ -75,20 +75,6 @@ related:
         width: 800
         height: 454
         isCached: true
-  - title: "DBS to upskill at least 3,000 employees in AI and ML skills this year"
-    excerpt: "To enable this, DBS has collaborated with AWS to launch the DBS x AWS DeepRacer League which will see employees learning the basics of AI and ML in a series of online tutorials before putting their ne"
-    publishedDateTime: 2020-08-17T01:40:00Z
-    webUrl: "https://www.humanresourcesonline.net/dbs-to-upskill-at-least-3-000-employees-in-ai-and-ml-skills-this-year"
-    type: article
-    provider:
-      name: Human Resources Online
-      domain: humanresourcesonline.net
-    quality: 39
-    images:
-      - url: "https://www.humanresourcesonline.net/images/hr-sg/content-images/jerene-aug-2020-machine-learning-123rf.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "mnThJ/WP0ziWY4L1qwFiUgLTKeOiZ62nO9YpXURxccDYsj2i6DwtyUOoYO1ZEinpa3hMEcxgXlXv5Q0ONlwvQEjA2fgzsHvr6rqco6AwhBSD6hBNZYZpCRo+kPVORMJINBusPMJbWOMyhvDYIu79BAFyxISAzSZ+6BuS9FVx2K05mqGBGFxdkKgwbsBtCnHMhU9T4Or44WOCECnQvTi5gXVy2nAyz8xgJXFCaRVRkJwGQK6EJpb65kSCtUs/26Dzy7FqvsgoA77H8qkOwxs1vK84fEnCI4rSttWXVvHOc3SO5B4q51Nk1g6ktfukI/kJNQwsQl9Kte4PtOYhODxIr+IQUpMaMV6vc2e65IG5gxX45tqhn5m/VdMJaGZoxMZC283Vl4WshnqjujHYXhmYi2b+ekE7n0c49tW4OrovENdlBO0JW04gn7kWgYFVSPWgIK2gNt7NYTov3es3MLMtbR3+y79lXKnMe+skSeeY7Obzz8DnP3TDGZMcCHtDFs7mW7VQlbqww6W+alTM9KZwSw==;n6UobuMkzeZ7woj6R06uGw=="
 ---

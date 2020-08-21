@@ -24,19 +24,67 @@ images:
     isCached: true
 
 related:
-  - title: "Let's ID the Privacy and Accuracy Issues Raised by Facial Recognition"
-    excerpt: "PRO's Rob Thompkins covers privacy issues around facial recognition technologies The tremendous benefits of facial recognition technology for law enforcement identification applications have brought with them unparalleled challenges."
-    publishedDateTime: 2020-08-20T05:11:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition"
+  - title: "A New Tool Aims to Protect Protesters From Facial Recognition With Deepfakes"
+    excerpt: "In an era in which facial recognition has made it easy for law enforcement and other organizations to search someone’s identity based on their face alone, the question of when it’s appropriate to share identifiable photos of protesters and activists ..."
+    publishedDateTime: 2020-08-21T19:53:00Z
+    webUrl: "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/"
+    ampWebUrl: "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/"
     type: article
     provider:
-      name: Officer
-      domain: officer.com
-    quality: 54
+      name: Adweek
+      domain: adweek.com
+    quality: 71
     images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2020/07/16x9/GettyImages_1139860049_copy.5f1f2e6319195.png?auto=format&fit=max&w=1200"
+      - url: "https://www.adweek.com/wp-content/uploads/2020/08/deeepfake-tool-PAGE-2020-640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Cops in Miami, NYC arrest protesters from facial recognition matches"
+    excerpt: "Law enforcement in several cities, including New York and Miami, have reportedly been using controversial facial recognition software to track down and arrest individuals who allegedly participated in criminal activity during Black Lives Matter protests months after the fact."
+    publishedDateTime: 2020-08-19T20:45:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/08/cops-in-miami-nyc-arrest-protesters-from-facial-recognition-matches/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-1238438366-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Miami Police Used Facial Recognition Technology in Protester's Arrest"
+    excerpt: "NBC 6 Investigators found a facial recognition program was used to identify a woman accused of throwing rocks at Miami Police officers during a protest on May 30."
+    publishedDateTime: 2020-08-17T22:15:00Z
+    webUrl: "https://www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/"
+    ampWebUrl: "https://www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/?amp"
+    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/?amp"
+    type: article
+    provider:
+      name: NBC 6 South Florida
+      domain: nbcmiami.com
+    quality: 59
+    images:
+      - url: "https://media.nbcmiami.com/2020/08/CLEARVIEW-UPDATE-PHOTO.png?fit=1200%2C662"
         width: 1200
-        height: 674
+        height: 662
+        isCached: true
+  - title: "De Blasio Will Reassess NYPD's Use Of Facial Recognition Tech After Protester Arrest"
+    excerpt: "Currently, the department’s Patrol Guide allows police to run facial recognition searches on anyone suspected of a crime or anyone who may have witnessed a crime."
+    publishedDateTime: 2020-08-17T18:08:00Z
+    webUrl: "https://gothamist.com/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
+    ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
+    cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
+    type: article
+    provider:
+      name: Gothamist
+      domain: gothamist.com
+    quality: 52
+    images:
+      - url: "https://cms.prod.nypr.digital/images/310236/original"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Court Grants Facebook Preliminary OK to Settle Facial Recognition Privacy Claims"
     excerpt: "Facebook Inc. won preliminary approval late on Wednesday from a federal court for settlement of a lawsuit that claimed it illegally collected and stored"
@@ -66,15 +114,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "US court gives preliminary approval to Facebook's request to settle facial recognition privacy lawsuit for USD 650 mln"
-    excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."
-    publishedDateTime: 2020-08-20T08:41:00Z
-    webUrl: "https://www.telecompaper.com/news/us-court-gives-preliminary-approval-to-facebooks-request-to-settle-facial-recognition-privacy-lawsuit-for-usd-650-mln--1350957"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 0
 
 secured: "mE/fncmn0857r403qqqxJ65vtdiIYve6UhWXAGjc88WAQy+Rahg9EsyqM3WBEzxqk1Td8vBH6xH54CleNWn6WySHk2f8+6ONbpT2HXiv8uWZKiGnu3DUcdyfAymUEqK6zrTOJBAS/NJXzouCac31ksolDXcWV4YvuVyvexkmFjTQ0C/kDqNWDuCuzBHxGzXUyW2zREFQExYRvu82uu8hl7cJr25qul4tN+pLmQWblYkM3kBz1G9teDGxuIc2TWIaMAYqL7FSugI22cRencetXIoEtGSdM62CEa/OruPCC0uJQkf/TsHS/WcjrrEZHuW5LMBV7Nuk5Ct26jnpaXL+RA==;dF+mWjtown/FiKCJlbtd3Q=="
 ---
