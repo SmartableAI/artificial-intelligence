@@ -1,30 +1,26 @@
 ---
 category: news
 title: "RenalytixAI to Collaborate with AstraZeneca to Improve Outcomes for Patients with Chronic Disease"
-excerpt: "Renalytix AI plc (LSE: RENX) (NASDAQ: RNLX), today announced a collaboration with AstraZeneca (LSE/STO/NYSE: AZN) to develop and launch precision medicine strategies for cardiovascular, renal and metabolic diseases."
-publishedDateTime: 2020-08-21T07:33:00Z
-webUrl: "https://www.marketwatch.com/press-release/renalytixai-to-collaborate-with-astrazeneca-to-improve-outcomes-for-patients-with-chronic-disease-2020-08-21"
+excerpt: "(GLOBE NEWSWIRE) -- Renalytix AI plc (LSE: RENX) (NASDAQ: RNLX), today announced a collaboration with AstraZeneca (LSE/STO/NYSE: AZN) to develop and launch precision medicine strategies for cardiovascular,"
+publishedDateTime: 2020-08-21T07:00:00Z
+webUrl: "https://apnews.com/bb576a57c6cffad3a648ae0c5ea6e32d"
 type: article
-quality: 56
-heat: 66
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -38,6 +34,6 @@ related:
       domain: seekingalpha.com
     quality: 17
 
-secured: "9f71eVM8d3JzWdKMT6XtewSYeo/FBZXR6EMrTYo/XI1I9+BQLuhD7AzHj0cnmYJ3NhBn5ikEALFuxG6Mro3AMSodFwoilQcR91upb4tlm0sQ/UkSS8TMkmwJqLDJbTmAyF1uDc2+7Yp3vtMg4jtTJBzZjD9uOTomefX0Ihy84cUbrWkDelPcKq5y9SOa+bR5D5wMIPyatVkFxNkJ36GVrLn/dM2/oLfL64g7SoDz0sXKjcRc9153PBm7KJByM1eysojXYZOnTNiHmxpMampwvV3Mg2TROCDnaOUwTNqUbwU+JxHvO83xTRll9svkLssP9nOP+h1K4V7a1v5pEUA71w==;Zjn7h2f3xwx1POGbZLEzJQ=="
+secured: "zFjpVtAF6JF04lbWrgHEKo927GEALJqU7Qv9fNUv4uvUeIv18lUXemVxSTHfbbJqFLRCdTcZoPJ9CH3LTE9ZnlV9neQy7QK7kazSiB+mBnB/CPzqjDu13oqDA6l+QTYGHbt5qmEhaZm1KEiKuFjIaXagKK6C6f4EYL17YMQIfJQfTkXYuyPaYs/8jEX5NMh2Fj1keLg9KOh8/4aAT3pxOi5NLkneGRSZkD8OF69oGrIEcRuAv+lc2KqPsmbm2aommL1Yp0hiF8b1bfEydq/TzMR7/X3dO/IP4UXPbM5dTb1glVxBOoiilAVCh3IleTN8T80lRdnvarPjibaEBfFAYQ==;GyLxnvIWrXNHCBBUt3StDA=="
 ---
 

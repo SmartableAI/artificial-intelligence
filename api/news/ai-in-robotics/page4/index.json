@@ -2,6 +2,47 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-16-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.md",
+      "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Shares Up 5%",
+      "excerpt": "Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) shares shot up 5% on Tuesday . The company traded as high as $123.51 and last traded at $123.51, 10,035 shares were traded during mid-day trading.",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2020/07/15/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2020/07/15/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/07/15/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.html/amp",
+      "publishedDateTime": "2020-07-15T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-human-quirks-health-medicine.md",
       "title": "Human Quirks: Health & Medicine",
       "excerpt": "July 15, 2020 — In a groundbreaking new study, researchers have 3D printed a functioning centimeter-scale human heart pump in the lab. The discovery could have major implications for studying ...",
@@ -1303,47 +1344,6 @@
       "provider": {
         "name": "Datamation",
         "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-welcome-robin-the-ai-robot.md",
-      "title": "Welcome, Robin the AI robot",
-      "excerpt": "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character—one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-07-robin-ai-robot.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/welcomerobin.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-07-robin-ai-robot.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-robin-ai-robot.amp",
-      "publishedDateTime": "2020-07-08T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

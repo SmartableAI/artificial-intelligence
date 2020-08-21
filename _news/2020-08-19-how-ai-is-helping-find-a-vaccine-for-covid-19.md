@@ -2,12 +2,14 @@
 category: news
 title: "How AI is helping find a vaccine for COVID-19"
 excerpt: "An AI expert discusses how close pharmaceutical companies are getting to finding a coronavirus vaccine or treatment and why the use of the technology is helping."
-publishedDateTime: 2020-08-19T19:15:00Z
-webUrl: "https://www.techrepublic.com/videos/how-ai-is-helping-find-a-vaccine-for-covid-19/"
+publishedDateTime: 2020-08-19T19:07:00Z
+webUrl: "https://www.techrepublic.com/article/how-ai-is-helping-find-a-vaccine-for-covid-19/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-is-helping-find-a-vaccine-for-covid-19/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-helping-find-a-vaccine-for-covid-19/"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
   name: TechRepublic
@@ -18,7 +20,14 @@ provider:
       height: 50
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "AI can expedite drug repurposing process for finding COVID-19 therapies, says GlobalData"
@@ -38,6 +47,6 @@ related:
         height: 480
         isCached: true
 
-secured: "jxxRW/h7cXWQJeXayVO3aSRlePpubIjOhyWysbWemVjj/ZFoXmum+RTHhQ/h8wruzF9dq2x+9QgD3XvQ4RwTHYou3Do8Z3uX8MZctS6t8Bpvf+FfrFzs6ylgcwUQ5pt32GXzjcor6xc/zQCH0wEmnbwGP/GNS/sefDO18K0tDCiGW60NAlSYOW6EbuIUaNnQryqHj/ly9ABqWGo6jRCJWGmqvmZu0N/h8VK+9VyLLP3t0IKdye+vAjUUTnJPUW2r/4jxH3Mc8NYwGCpACnwYJTWJ/d+GK5iDZw1+N8U/axStXPJsA36pUHNWifalB0WpqzdcBFuahoFjOpdxCMsb8DNYG9g6DG9cFY4knD91OhV1WG2WBaV8XIi8bRGrfbGsAEXHXp0h9N2ZiuLQA8vLi9zUQwdV8IBWP8dXCxzPTuuAUY6GwtcCkJdg2BX9je75pnYltiS2nvAlqhnuN/8uUfirxTVqXHr6US1NCaBMGeda2+6iBfZC8Gqvii5wQLgT;tBqF7KUzXgMhBMIa9LgNHA=="
+secured: "zz5ficnaG2K/3lnrdQcBvm8taTJFTcaBzHfLNSfMYWgHjxPU36N9QHq15YiI7GCYKUPcvsjRFsbuDQ/LT9m8PgP/PZjLhzr/TQQs2ERAFMiIysNw3JZzpXwekvMU7KZOPWyHZLEjVpZ+hTwa4lSQB93B7eYD7JK9BVApmvMSp1HaEY2+4krqtSnBgOL2H9ap5U8I1ZU3LqamFtbWORcGkaJwVHcDHNuD2VrSgaRN0hr0nkT1/2X9k4vyELfzydUsKShiDSRAsF5uncR9J3ohlDuN0XHPs2bATbR7nn/UJrHEw/q566JuoXsg/ilRX1e6Hz5QmsivqJfuPXo/DmiDWA==;/227Jj4hOtpIpgKLhJNxGQ=="
 ---
 

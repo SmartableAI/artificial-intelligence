@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-18T15:32:00Z
 webUrl: "https://www.newscientist.com/article/2252012-an-ai-built-by-facebook-could-drastically-speed-up-mri-scans/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -26,12 +26,12 @@ related:
   - title: "Facebook and NYU are using AI to dramatically speed up MRI imaging"
     excerpt: "Facebook’s AI researchers gave themself an especially demanding challenge: Use algorithms to fill in the details of an MRI scan. The results are promising."
     publishedDateTime: 2020-08-18T13:00:00Z
-    webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com"
+    webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging"
     type: article
     provider:
       name: Fast Company
       domain: fastcompany.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-facebook-NYU-fast-mri-study.jpg"
         width: 1280

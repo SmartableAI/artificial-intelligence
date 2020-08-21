@@ -2,6 +2,196 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2020-06-19-why-qualcomm-will-be-big-in-robotics-the-next-big-it-wave.md",
+      "title": "Why Qualcomm Will Be Big in Robotics, the Next Big IT Wave",
+      "excerpt": "Qualcomm has an impressive robotics offering in its RB5 robotics platform. The technology, when applied to a full product, has the capability of redefining what an autonomous machine, either fixed or mobile,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/innovation/why-qualcomm-will-be-big-in-robotics-the-next-big-it-wave",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/Human.vs.robot_1.jpg?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": "Why Qualcomm Will Be Big in Robotics, the Next Big IT Wave",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T18:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-artificial-intelligence-systems-need-checks-and-balances-throughout-development.md",
+      "title": "Artificial intelligence systems need ‘checks and balances’ throughout development",
+      "excerpt": "The Department of Defense is moving forward of artificial intelligence projects for lethality. Experts warn that testing, experimentation and human understanding are critical to creating trustworthy systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/it-networks/2020/06/18/artificial-intelligence-systems-need-checks-and-balances-throughout-development/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.armytimes.com/resizer/tw4DuuF_K5QoEibZuKhpeUvKPDQ=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/YFKKAHFIPZB3PMZ4U3C7EBWM2M.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial intelligence systems need ‘checks and balances’ throughout development",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-tesla-admits-its-approach-to-self-driving-is-harder-but-might-be-only-way-to-scale.md",
+      "title": "Tesla admits its approach to self-driving is harder but might be only way to scale",
+      "excerpt": "Tesla’s head of AI admitted that the automaker’s approach to self-driving is harder than what most companies in the industry are doing, but he says it’s the only way to scale. There are dozens of high-profile companies working on solving self-driving and virtually as many different approaches,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/06/Tesla-Autopilot.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 463,
+          "title": "Tesla admits its approach to self-driving is harder but might be only way to scale",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/amp/",
+      "publishedDateTime": "2020-06-18T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-amazon-touts-ai-for-social-distancing-amid-worker-complaints.md",
+      "title": "Amazon Touts AI for Social Distancing Amid Worker Complaints",
+      "excerpt": "Facing criticism over workplace safety, the company is using cameras, sensors, and augmented reality to warn employees when they're too close to one another.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eebf79845997e7f063bebff/master/pass/business_amazon_874678990.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Amazon Touts AI for Social Distancing Amid Worker Complaints",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/amp",
+      "publishedDateTime": "2020-06-18T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-detecting-fraud-in-heterogeneous-networks-using-amazon-sagemaker-and-deep-graph-library.md",
       "title": "Detecting fraud in heterogeneous networks using Amazon SageMaker and Deep Graph Library",
       "excerpt": "Fraudulent users and malicious accounts can result in billions of dollars in lost revenue annually for businesses. Although many businesses use rule-based filters to prevent malicious activity in their systems, these filters are often brittle and may not capture the full range of malicious behavior.",
@@ -1184,188 +1374,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-pg-diploma-in-data-science-and-artificial-intelligence-ai.md",
-      "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
-      "excerpt": "Data Science and Artificial Intelligence (AI), has emerged as a thriving field from Industry Utility and Employability point of view. This market is likely to swell to $20 billion by 2025. Companies a",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_58525325.jpg",
-          "width": 900,
-          "height": 489,
-          "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
-      "publishedDateTime": "2020-06-18T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory.md",
-      "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
-      "excerpt": "Chip giant Intel on Thursday unveiled new 3rd Gen Intel Xeon Scalable processors and additions to its hardware and software AI portfolio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory-news-education-ugsolHgiefahb.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/Hindi-Chini600x600_ugriulddadbea_ugrizcghbbjbg.jpg",
-          "width": 600,
-          "height": 600,
-          "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs.md",
-      "title": "Algoriddim’s Djay Pro AI can transfer vocals and rhythms between songs",
-      "excerpt": "Algoriddim suggests that the feature relies on advanced AI chip features found in Apple’s iOS devices, including the A12Z Bionic in the 2020 iPad Pro. Algoriddim is debuting the AI feature with ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/djayai-2.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Algoriddim’s Djay Pro AI can transfer vocals and rhythms between songs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/amp/",
-      "publishedDateTime": "2020-06-18T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19.md",
-      "title": "IBM launches Watson Works aimed at managing work's new normal amid COVID-19",
-      "excerpt": "IBM launched Watson Works, a set of models and applications designed to manage workspaces, people and facilities as employees return to the office during the COVID-19 pandemic. Wa",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/24/b6e37c98-9f98-43bb-973e-ad26833fda56/thumbnail/1200x675/48665c9939ec4476228e8e8c28322098/qualcomm.png",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM launches Watson Works aimed at managing work's new normal amid COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
-      "publishedDateTime": "2020-06-18T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -2,6 +2,146 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-17-ai-based-traffic-management-gets-green-light.md",
+      "title": "AI-based traffic management gets green light",
+      "excerpt": "Technology convergence allows for safer automated traffic lights with less waiting. When it's time to contract with an outside vendor for IT solutions, you need an easy way to compare the relative merits and faults of competing providers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-based-traffic-management-gets-green-light/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/4583de6c-e053-4b17-b5b9-9a2f1b4b432c/green-go.jpg",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-based-traffic-management-gets-green-light/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-based-traffic-management-gets-green-light/",
+      "publishedDateTime": "2020-08-17T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-5-bleeding-edge-brands-that-are-infusing-retail-with-artificial-intelligence.md",
+      "title": "5 Bleeding-Edge Brands That Are Infusing Retail With Artificial Intelligence",
+      "excerpt": "Watch out, folks, the age of artificial-intelligence-powered retail is upon us, promising an unprecedented amount of data and information that can help merchants grow their businesses. Once the stuff of sci-fi novels,",
+      "sourceUrl": null,
+      "webUrl": "https://www.adweek.com/digital/5-bleeding-edge-brands-are-infusing-retail-artificial-intelligence-175312/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/files/2016_Dec/jan02-cover-01-2016.png",
+          "width": 652,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.adweek.com/digital/5-bleeding-edge-brands-are-infusing-retail-artificial-intelligence-175312/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/5-bleeding-edge-brands-are-infusing-retail-artificial-intelligence-175312/amp/",
+      "publishedDateTime": "2020-08-17T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips.md",
+      "title": "Intel: Data bandwidth, sparsity are the two biggest challenges for AI chips",
+      "excerpt": "The movement of data into and out of the processor is the biggest challenge for AI chips, but sparsity looms as an even greater challenge, according to Intel engineers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/d7c866cd-2e4e-49d6-a72e-56ffd3c5868a/intel-glimpse-into-the-future-of-connectivity-aug-2020.png",
+          "width": 2948,
+          "height": 1652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
+      "publishedDateTime": "2020-08-17T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-ai-enabled-future-crimes-ranked-deepfakes-spearphishing-and-more.md",
       "title": "AI-enabled future crimes ranked: Deepfakes, spearphishing, and more",
       "excerpt": "A study explores the possible range and risk of attacks from military robots and autonomous attack drones to AI-assisted stalking. Here are the top 5.",
@@ -1007,154 +1147,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-16-white-house-budget-proposal-would-hike-ai-and-quantum-funding-by-30-percent.md",
-      "title": "White House budget proposal would hike AI and quantum funding by 30 percent",
-      "excerpt": "If the US is going to build a quantum internet and otherwise claim technical supremacy, it’s going to need appropriate funding — and that might be forthcoming. As the Wall Street Journal reports, The White House has proposed a 2021 non-defense budget that includes a roughly 30 percent increase in spending on AI and quantum computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/white-house-2021-budget-ai-quantum-funding-164719748.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fe1e27aa0-dfcc-11ea-b796-3e1a415df965&client=amp-blogside-v2&signature=039e59703be159e8e2b5a026aef822c741e6d456",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/white-house-2021-budget-ai-quantum-funding-164719748.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/white-house-2021-budget-ai-quantum-funding-164719748.html",
-      "publishedDateTime": "2020-08-16T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport.md",
-      "title": "Drive-In Theaters Are Coming Back, But Self-Driving Cars Could Be An Outdoor Movie Spoilsport",
-      "excerpt": "For those old enough to remember, the drive-in was once a dominant force in the movie-going foray and enjoyed tremendous success and growth. According to industry stats, in the tail end of the 1950s there were an astounding 4,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F471923631%2F0x0.jpg%3FcropX1%3D453%26cropX2%3D5600%26cropY1%3D1191%26cropY2%3D3604",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/amp/",
-      "publishedDateTime": "2020-08-15T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-these-4-drugmakers-are-using-ai-to-improve-their-products-does-it-make-them-better-buys.md",
-      "title": "These 4 Drugmakers Are Using AI to Improve Their Products. Does It Make Them Better Buys?",
-      "excerpt": "AstraZenca, GlaxoSmithKline, Novartis and Eli Lilly are using artificial intelligence systems to help in drug development, decision-making, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F587771%2Fartificial-intelligence-getty-628.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/",
-      "publishedDateTime": "2020-08-15T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

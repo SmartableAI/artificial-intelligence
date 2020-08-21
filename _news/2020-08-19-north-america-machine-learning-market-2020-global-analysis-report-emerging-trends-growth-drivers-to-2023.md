@@ -84,6 +84,48 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Europe Machine Learning Market, Analysis Reports Revenue Growth Globally During The Forecast Period 2020-2023"
+    excerpt: "The value of the machine learning market in Europe is expected to reach USD 3.96 Bn by 2023, expanding at a compound"
+    publishedDateTime: 2020-08-19T04:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-machine-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023-2020-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Europe Machine Learning market 2020-2023 |Size, Share Latest Trends, Development,Future Growth, Revenue Forecast, Demand Forecast"
+    excerpt: "The value of the machine learning market in Europe is expected to reach USD 3.96 Bn by 2023, expanding at a compound"
+    publishedDateTime: 2020-08-19T04:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-machine-learning-market-2020-2023-size-share-latest-trends-developmentfuture-growth-revenue-forecast-demand-forecast-2020-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Covid-19 Impact on Artificial Intelligence in Medical Diagnostics Market: Global Analysis, Industry Growth, Current Trends and Forecast till 2025"
+    excerpt: "A new market study, titled \"Artificial Intelligence in Medical Diagnostics Market Upcoming Trends, Growth Drivers and Challenges\" has been featured on WiseGuyReports. Overviwe:- With the development of deep learning and neural networks,"
+    publishedDateTime: 2020-08-19T08:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-in-medical-diagnostics-market-global-analysis-industry-growth-current-trends-and-forecast-till-2025-2020-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "World Autonomous Aircraft Market 2020-2030: Advancements in Artificial Intelligence is a Key Factor Driving Growth - ResearchAndMarkets.com"
     excerpt: "The global autonomous aircraft market is expected to decline from $0.84 billion in 2019 to $0.79 billion in 2020 at a compound annual growth rate (CAGR) of -6.35%. The decline is mainly due to the COVID-19 outbreak that has led to restrictive containment measures involving social distancing,"
     publishedDateTime: 2020-08-19T14:22:00Z

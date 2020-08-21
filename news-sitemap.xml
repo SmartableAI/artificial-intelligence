@@ -241,6 +241,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.techrepublic.com/article/how-ai-is-helping-find-a-vaccine-for-covid-19/</loc>
+    <lastmod>2020-08-19T12:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://cosmosmagazine.com/earth/earth-sciences/machine-learning-finds-quake-origin-signatures/</loc>
     <lastmod>2020-08-19T11:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -351,6 +357,12 @@
   <url>
     <loc>https://www.zdnet.com/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/</loc>
     <lastmod>2020-08-19T03:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.openpr.com/news/2116297/machine-learning-in-retail-market-to-impressive-growth-2025</loc>
+    <lastmod>2020-08-19T02:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -595,6 +607,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.adweek.com/digital/5-bleeding-edge-brands-are-infusing-retail-artificial-intelligence-175312/</loc>
+    <lastmod>2020-08-17T11:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/</loc>
     <lastmod>2020-08-17T10:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -775,8 +793,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.idahostatesman.com/entertainment/article244877067.html</loc>
-    <lastmod>2020-08-14T23:01:00-07:00</lastmod>
+    <loc>https://www.thenewstribune.com/entertainment/celebrities/article244877067.html</loc>
+    <lastmod>2020-08-15T00:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1309,7 +1327,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/buddy-ai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking/article_2e58ca27-737c-5121-91c8-d73309d7043c.html</loc>
+    <loc>https://www.prnewswire.com/news-releases/buddyai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking-kids-start-talking-in-english-301110900.html</loc>
     <lastmod>2020-08-12T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1411,6 +1429,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://investorplace.com/2020/08/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare/</loc>
+    <lastmod>2020-08-11T09:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.eejournal.com/industry_news/hackster-io-smart-parks-and-key-industry-partners-to-build-worlds-most-advanced-elephant-tracker/</loc>
     <lastmod>2020-08-11T09:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1419,12 +1443,6 @@
   <url>
     <loc>https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/</loc>
     <lastmod>2020-08-11T09:32:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918</loc>
-    <lastmod>2020-08-11T09:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1977,6 +1995,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-insights-technology-advancements-and-global-outlook-2020-2025-2020-08-07</loc>
     <lastmod>2020-08-07T02:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nature.com/articles/s41598-020-70181-0</loc>
+    <lastmod>2020-08-07T02:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3163,8 +3187,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of</loc>
-    <lastmod>2020-07-31T08:15:00-07:00</lastmod>
+    <loc>https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of?ref=hvper.com</loc>
+    <lastmod>2020-07-31T08:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

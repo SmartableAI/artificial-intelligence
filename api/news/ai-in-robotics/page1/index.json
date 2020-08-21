@@ -286,6 +286,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-17-5-bleeding-edge-brands-that-are-infusing-retail-with-artificial-intelligence.md",
+      "title": "5 Bleeding-Edge Brands That Are Infusing Retail With Artificial Intelligence",
+      "excerpt": "Watch out, folks, the age of artificial-intelligence-powered retail is upon us, promising an unprecedented amount of data and information that can help merchants grow their businesses. Once the stuff of sci-fi novels,",
+      "sourceUrl": null,
+      "webUrl": "https://www.adweek.com/digital/5-bleeding-edge-brands-are-infusing-retail-artificial-intelligence-175312/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/files/2016_Dec/jan02-cover-01-2016.png",
+          "width": 652,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.adweek.com/digital/5-bleeding-edge-brands-are-infusing-retail-artificial-intelligence-175312/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/5-bleeding-edge-brands-are-infusing-retail-artificial-intelligence-175312/amp/",
+      "publishedDateTime": "2020-08-17T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-artificial-intelligence-breakthrough-could-allow-ai-to-merge-with-human-brain.md",
       "title": "Artificial Intelligence: Breakthrough could ‘allow AI to merge with human brain’",
       "excerpt": "ARTIFICIAL INTELLIGENCE (AI) experts believe the discovery of a cutting-edge material could finally achieve ambitions of fusing the human brain with machines.",
@@ -938,18 +979,18 @@
     {
       "path": "_news/2020-08-12-buddyai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking-kids-start-talking-in-english.md",
       "title": "Buddy.ai Announces its Launch in Latin America, Where the Company Will Help Spanish-Speaking Kids Start Talking in English",
-      "excerpt": "PRNewswire/ -- Buddy.ai ( -- the creator of Buddy, a virtual English tutor with voice-based AI for kids -- announces the start of its business",
+      "excerpt": "PRNewswire/ -- Buddy.ai ( — the creator of Buddy, a virtual English tutor with voice-based AI for kids — announces the start of its",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/buddy-ai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking/article_2e58ca27-737c-5121-91c8-d73309d7043c.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/buddyai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking-kids-start-talking-in-english-301110900.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/f6/2f6d9c8e-71c5-502e-b4cf-93ebaacb2983/5f33e58016ea9.image.jpg?resize=400%2C300",
-          "width": 400,
-          "height": 300,
+          "url": "https://mma.prnewswire.com/media/1227453/Buddy_ai.jpg?p=facebook",
+          "width": 1367,
+          "height": 716,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -961,8 +1002,8 @@
       "publishedDateTime": "2020-08-12T05:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1319,47 +1360,6 @@
       "provider": {
         "name": "Your Story",
         "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-column-the-reason-were-afraid-of-robots.md",
-      "title": "Column: The reason we're afraid of robots",
-      "excerpt": "When we focus so much of our attention on improbable scenarios, we run the risk of ignoring other problems posed by AI that are pressing and preventable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.milforddailynews.com/news/20200808/column-reason-were-afraid-of-robots",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.milforddailynews.com/apps/pbcsi.dll/bilde?Site=WL&Date=20200808&Category=NEWS&ArtNo=200808218&Ref=AR",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.milforddailynews.com/news/20200808/column-reason-were-afraid-of-robots?template=ampart",
-      "cdnAmpWebUrl": "https://www-milforddailynews-com.cdn.ampproject.org/c/s/www.milforddailynews.com/news/20200808/column-reason-were-afraid-of-robots?template=ampart",
-      "publishedDateTime": "2020-08-08T16:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Milford Daily News",
-        "domain": "milforddailynews.com",
         "images": null,
         "publishers": null,
         "authors": null

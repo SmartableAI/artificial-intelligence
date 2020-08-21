@@ -7,8 +7,8 @@ webUrl: "https://www.psychologytoday.com/za/blog/the-superhuman-mind/202008/arti
 ampWebUrl: "https://www.psychologytoday.com/za/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly?amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - IBM AI
 
 images:
   - url: "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-08/artifical_intelligence_robot_alex_knightpexels.jpeg?itok=jEHYe5Aa"
