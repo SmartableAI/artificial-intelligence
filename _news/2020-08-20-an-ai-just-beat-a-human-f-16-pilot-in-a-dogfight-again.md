@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Just Won A Series Of Simulated Dogfights Against A Human F-16 Pilot, 5-0. What Does That Mean?"
+    excerpt: "On the face of it, man lost badly to machine in DARPA's AlphaDogfight Trials. But that simplification doesn't match current realities."
+    publishedDateTime: 2020-08-21T00:35:00Z
+    webUrl: "https://www.forbes.com/sites/erictegler/2020/08/20/ai-just-won-a-series-of-simulated-dogfights-against-a-human-f-16-pilot-5-to-nothing-what-does-that-mean/"
+    ampWebUrl: "https://www.forbes.com/sites/erictegler/2020/08/20/ai-just-won-a-series-of-simulated-dogfights-against-a-human-f-16-pilot-5-to-nothing-what-does-that-mean/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erictegler/2020/08/20/ai-just-won-a-series-of-simulated-dogfights-against-a-human-f-16-pilot-5-to-nothing-what-does-that-mean/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3edb71b92851002e3794a1%2F0x0.jpg"
+        width: 1200
+        height: 625
+        isCached: true
   - title: "AI Just Won A Series Of Simulated Dogfights Against A Human F-16 Pilot 5 To Nothing. What Does That Mean?"
     excerpt: "On the face of it, man lost badly to machine in DARPA's AlphaDogfight Trials. But that simplification doesn't match current realities."
     publishedDateTime: 2020-08-20T22:42:00Z

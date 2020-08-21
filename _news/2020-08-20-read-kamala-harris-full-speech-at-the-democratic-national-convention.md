@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/politics/read-kamala-harris-full-sp
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/read-kamala-harris-full-speech-at-the-democratic-national-convention"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-20T15:10:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/rackspace-technology-announces-moogsoft-aiops-platform-integration-into-rackspace-fabric-1029521413"
 type: article
 quality: 42
-heat: 62
+heat: 42
 published: false
 
 provider:

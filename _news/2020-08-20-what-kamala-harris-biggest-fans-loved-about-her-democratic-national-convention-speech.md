@@ -7,8 +7,8 @@ webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/08/20/kama
 type: article
 quality: 0
 heat: 0
-published: false
 removed: true
+published: false
 
 provider:
   name: Detroit Free Press
@@ -18,6 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "zx5DN2bMYBzciIR1IPDQpo+vCiP7K+YzTXLAqt7TaPJX7kaDwglhENu6TecpQL2iTv3VjGayMlRB5dxswIxrNBf1VIbwcJktM5G6q2wQwRuVOeLfqV/ISA1uv6mwVR462WYYoaKNcRY4gLXi9fUN0BucsjxpOZZ7Csev8n5x2B5zY16WGlAuB6oKTyESxM8zsQOccCbA7dYp5z7Uup7VdDAMWETDWnnVc0Rrw4uRk30dsrseEXcdSYxbc94KcUGld8ZqiggTb3ce5fY0Gy6wtLjoQycdCb1bVUFS90V1P1z7PF/Upn3n8RrXePHxhHY6djgkyIDvssiCxfir5JeW3w==;w+jGAa7J4arS557qZL79kg=="
+secured: "ikTu55IkWqO6dHpKvtMIN6S67buPfxiwJ2Zt1sWqcyZ/N5CbTz7WjcAS0T2l87Lr+HdQGOXGiJHrt8zhAsKc6K0qPUZoyYHVy6D8bRwNnVQ5B47W5P/ckE6HQi5qJx+V4m8D1PpTDbwSW6btRrZNV4q/1TSkQJ48zFc0cClKi/WZ+U+rjMM9t2uT/QilhukKJCSxh/+qm8z8mIGhWezxU32Xez+pAtag6eOc1Byx3/rxfZonM1uOKHK1NN4rIEZkNFPk7Hz5vfBoMmFyLOp8dZHnhvSEgI7LuYH60F22dInzz2kpTIMbdPCngzqicESJxAS4fnHzdGxIKRaXHhvtCDrYyBMs9rulo38/XoHCfBpQLi5Nc4VGFupMMYeznqAsg00dBNdLuPI7vUp8jzr0whUQgjkqy+w7fjkiSgbgHPFuY/qe7wNbEprMbBbkFebyns+E9FZDTTe2jwC/I9i/m/Ss9dN3/mYTyd96BNX0uUfMjSIrvzvyjcvlyGdt7gg/4Y2hgEpD479EjvatG1Zi6Q==;aztGB6x3H2H/E1pxI5ZJFA=="
 ---
 

@@ -42,22 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "DNC 2020: Kamala Harris makes history with VP acceptance speech | WATCH"
-    excerpt: "Kamala Harris has formally accepted the Democratic nomination for vice president. She addressed the Democratic National Convention's third night after former President Barack Obama warned that American democracy itself was at risk if President Donald Trump wins reelection this fall."
-    publishedDateTime: 2020-08-20T20:56:00Z
-    webUrl: "https://abc7ny.com/kamala-harris-speech-dnc-biden/6378391/"
-    ampWebUrl: "https://abc7ny.com/amp/kamala-harris-speech-dnc-biden/6378391/"
-    cdnAmpWebUrl: "https://abc7ny-com.cdn.ampproject.org/c/s/abc7ny.com/amp/kamala-harris-speech-dnc-biden/6378391/"
-    type: article
-    provider:
-      name: abc7NY
-      domain: abc7ny.com
-    quality: 44
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/6379204_081920-cc-DNC-harris-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "/re1nZczT1IITUDi4EaFKWSMo0Ix9QXRLPfZrRJOR/1fdrkCc5FuOvzGI8LaNtT3dShOpZ6G8dp5U1RC2VIG8w6leR2xXUeVd0Pv9Iq/VHoQvjImimu42Z8dSauXtgIQBCNaEmAfrmt4ltl5p7Z46HNoJwDjTGJmLPsGhCJsinIHyK+aAZnz6o73c0bBIFzWj/uyZlQ9nSXDAnIUgLv5PnaY/tcKfi4WMC1P7QsCHI5cpPpluKliHDkMXdK+96PzdIRBlSodfPJNK43+xeM7rB+ii12HfRXZoNc+kVphn3W0j0MXs1sOlGma300JYANoXo1TrEqb7Dp7aspiaEHH5O+k2w2Tq/q6lZETFOA4VgnfHV91ETBefXbywv4aE4vVBYzka+yezNNGJQRmluhlrzvu6eYq1b41IhzzJWsEgj4IM/OgSkDFs1gH2sqWjpCfpXUnrQugOeyGQv+XtA407QgRAywGKnBubXbg1ZpOxJ/K/oVrac+fwWVAiASa3I4G0B5HFVtZ8pn1XAStZal43w==;FTiWuN2JkylGmwGkr1Hniw=="
 ---

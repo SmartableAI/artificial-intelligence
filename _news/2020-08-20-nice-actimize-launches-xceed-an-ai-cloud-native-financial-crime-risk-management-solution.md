@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-20T02:04:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/08/20/nice-actimize-xceed/"
 type: article
 quality: 30
-heat: 40
+heat: 30
 published: false
 
 provider:

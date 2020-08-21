@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "DNC 2020: Kamala Harris makes history with VP acceptance speech | WATCH"
-    excerpt: "Kamala Harris has formally accepted the Democratic nomination for vice president. She addressed the Democratic National Convention's third night after former President Barack Obama warned that American democracy itself was at risk if President Donald Trump wins reelection this fall."
-    publishedDateTime: 2020-08-20T10:22:00Z
-    webUrl: "https://6abc.com/kamala-harris-speech-dnc-biden/6378391/"
-    ampWebUrl: "https://6abc.com/amp/kamala-harris-speech-dnc-biden/6378391/"
-    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/kamala-harris-speech-dnc-biden/6378391/"
-    type: article
-    provider:
-      name: 6abc News
-      domain: 6abc.com
-    quality: 44
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/6379204_081920-cc-DNC-harris-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Read, watch Kamala Harris' acceptance speech from the Democratic National Convention"
     excerpt: "California Sen. Kamala Harris gave her vice presidential nomination acceptance speech on the third night of the 2020 Democratic National Convention."
     publishedDateTime: 2020-08-20T08:41:00Z

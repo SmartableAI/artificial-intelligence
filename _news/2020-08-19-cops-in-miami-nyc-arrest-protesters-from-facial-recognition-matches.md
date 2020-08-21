@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-19T20:45:00Z
 webUrl: "https://arstechnica.com/tech-policy/2020/08/cops-in-miami-nyc-arrest-protesters-from-facial-recognition-matches/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Ars Technica
@@ -26,17 +26,6 @@ images:
     width: 760
     height: 380
     isCached: true
-
-related:
-  - title: "China watches people in their homes and cars via facial recognition"
-    excerpt: "The Chinese governments surveillance of ethnic minority groups in their own homes, in their cars and via their mobile phones has been exposed in a major security leak."
-    publishedDateTime: 2020-08-16T08:28:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/chinas-watches-people-in-their-homes-and-cars-via-facial-recognition/news-story/2df5d9a2df3a855bd5a96609700e4f34"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "RanikrFhetzGQbLujRrWnJMTyAtAJvWnvSuOut/4Gu2ZKLjX70hNDtcXCicKYzzNMK0+S6Ay3FOffz/CK32HM38dzT3diqvP6tkC/Ula2Ooz7EU2tr5O84+0+iKtddBY10lYIyEtWqTQZDBesEYbCkWVFPWQH9DdOTuRO3He0evkDRsgRSXrJdnnnFh85SDtE2zdr2bt7hc7fWy2b9qyL0GwC2ZmdmaU53DO/oqZmEos+yfIcnvvEqmAckvTIndM3tKd2hcc+Zsce7VwdNBJPdOs8Yof3bZ/dZUysqW+hOy1xKC8G+NMRCYmWJFmVXlvjd+Qk11kuktEm2vYHTv9y3ehTQqunSD95lAR0Kr3K9pvq2G5scvMzPttC1hSIVh5xBtqNVZgUAMlFhrEHTc8N4gddTHrlIc7v/hYtTt4AjNyUXiKmrBRcx5ZsNTn76hGX+tcflNGyftVbQg+xk7Cp1Qbziu+kFhXBROA+uQEJuve0j6luIH1xEXzTaTqzjQMa/fcNkwhOfg8LhBD/i2kqA==;kyeAlfmVfwd+U/+LXro0lw=="
 ---
