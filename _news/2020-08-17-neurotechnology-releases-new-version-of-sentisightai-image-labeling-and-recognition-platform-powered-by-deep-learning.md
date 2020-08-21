@@ -1,28 +1,44 @@
 ---
 category: news
 title: "Neurotechnology Releases New Version of SentiSight.ai Image Labeling and Recognition Platform Powered by Deep Learning"
-excerpt: "PRNewswire/ -- Neurotechnology, a provider of deep learning-based solutions and high-precision biometric identification technologies, today announced"
-publishedDateTime: 2020-08-17T10:08:00Z
-webUrl: "https://www.prnewswire.com/news-releases/neurotechnology-releases-new-version-of-sentisightai-image-labeling-and-recognition-platform-powered-by-deep-learning-301112702.html"
+excerpt: "PRNewswire/ -- Neurotechnology, a provider of deep learning-based solutions and high-precision biometric identification technologies, today announced the release of a new version of its SentiSight.ai"
+publishedDateTime: 2020-08-17T10:42:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/neurotechnology-releases-new-version-of-sentisight-ai-image-labeling-and-recognition-platform-powered-by-deep/article_8b551790-88c6-5760-a8b8-ec44977e79b8.html"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://i.ytimg.com/vi/zPTRh8IoOBo/hqdefault.jpg"
-    width: 480
-    height: 360
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/43/7435d4d0-c105-5221-94a0-831663e18e5c/5f3a5c4e7a348.image.jpg?resize=400%2C267"
+    width: 400
+    height: 267
     isCached: true
 
-secured: "h7DwIyvBzc0i3ItKRqfrkccvUwU/4p/RAMbezo9RaXNHtTANPEiYVOXMr2TNR4fuc0TgSOfIQjZZ+0FeQUZ5NFZniyun5+IgK9lmS8rgng+6sHgGemHoeaPiO6DqiTaE0P6F/H0846IOIZl0eHGBcAdz6fDqvupQ3UUMFPZn3Rte4CmSD74GEq6EG/g7XW5c8FS+RqN4P4G4SmTSp8nVXkk/lLTRLU4zc7sV8oBYwSzqlxJPMJ/xtEVJpDH3OWuy3uQsC08eHPXWhuN0qas0max+umAQXNW+I1yOZSyILRnIreCxvvp18FQYQJOnZ0KNFX1Mac5p+Mt0tpCLVTOprYUVYtUx29L9tRg1cBepHpsuI74v7Ph+nQpoSy1GrtK+jpWo6l5h8QYcen69+heFHChGutRxNTjvdoF9fd9NTsemsqO34EDP96bevFF9IfT8+q0dU2fNTnfWDeDiLe0OX+6WBVjqJ+/ZkDtq4HaFTYI7meFo2h0DkPqXLGCNViV0VwW6Ufi7frOihYN7tdZpGQ==;+98KeZnKd0pnBNh0OAndGg=="
+related:
+  - title: "Huawei Releases Full-Stack Ascend AI Software to Bridge the Divide Between AI Computing and Application"
+    excerpt: "PRNewswire/ -- Huawei released the full-stack Ascend AI software at the Huawei Ascend Innovation (HAI) 2020 conference, setting a new milestone as Huawei"
+    publishedDateTime: 2020-08-17T13:02:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/huawei-releases-full-stack-ascend-ai-software-to-bridge-the-divide-between-ai-computing-and-application-899729046.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "https://mma.prnewswire.com/media/1229165/Tony_Xu_HAI_2020.jpg?p=facebook"
+        width: 1304
+        height: 682
+        isCached: true
+
+secured: "rbCaUCE2GrIlXGPW3ENHUqGaAH0kjKBL6essi5zocKQ/YVx90eWuDTiyIqg7YwibzsV/PVcVIyVNO+nqhDrOmV/gi/EQG7tyY5H0xR2+g/3pcmBRF40BWkKIxSNk+kLKZDeWRp4ljA1KHlXG+tycq+PJemdX9JiLG86ZADtqWb4uVSbJe+dP3PJR8y+b26E7e4xtOHfHqm8Fc7RWBOIPh6dqmrG91GjQ0hxqF+gPwPb7pYDbEPYVoy78Wo3+NbUDjqwRwQpIHK8Us6n/z4w5ZcmhpzVkKFQYHoOlWP8qNQDKoIm31Y2n2eCQfpLtQi49nRWs9ol7IjPDQqoy7pUMBw==;kO0Km6aeNjdnjXz7dAp1nA=="
 ---
 

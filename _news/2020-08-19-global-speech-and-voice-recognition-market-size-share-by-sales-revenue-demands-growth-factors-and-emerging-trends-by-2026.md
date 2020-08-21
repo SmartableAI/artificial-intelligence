@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Automotive Recognition System Market 2020 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2025"
-    excerpt: "A new offering by MarketsandResearch.biz entitled Global Automotive Recognition System Market 2020 by Manufacturers, Countries, Type and Application, Forecast to 2025 offers a meticulous analysis of the market that carefully examines the market segments,"
-    publishedDateTime: 2020-08-16T23:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-recognition-system-market-2020-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2025-2020-08-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "/JGuZFxeYWU4N/OTzHdXTJtXRviFuih6RGm8/6bRTC8+sXnCUW71B5+3lwe3GHLnzZC/pmjA0PE0l9jGmxi1VvQ+Ow5D2/QFiIf6/I59Gr7uDYZu6j9snlXEay1STNXRcBEVbqqjs0v7tFpXhEkIh6HN4RqCfsa37uaIOg0aqahSsWjfE8yS2PmRvtvKfvhcs0zq8sHqY1EbYWhkLSIsbZPFLSswvBcQBraJ6rFL9QIN/wcEIAe6dWEM9gwzQjp+LOmAPvsZ5QP8sIeWZ+L1AnsfKrJOCZmUaqJeoDz27+wYjjM9qgn/w09AUeTswRBmKG6XUT9gXn68FDgiGp32DQ==;hKMFOPw3xG6v3nAnQFp6nQ=="
 ---

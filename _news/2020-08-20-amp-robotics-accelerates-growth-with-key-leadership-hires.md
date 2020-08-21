@@ -1,31 +1,21 @@
 ---
 category: news
 title: "AMP Robotics Accelerates Growth With Key Leadership Hires"
-excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics used to recover commodities reclaimed as raw materials for the"
-publishedDateTime: 2020-08-20T03:39:00Z
-webUrl: "https://www.marketwatch.com/press-release/amp-robotics-accelerates-growth-with-key-leadership-hires-2020-08-19?mod=mw_quote_news&tesla=y"
+excerpt: "AMP Robotics Corp., a pioneer in artificial intelligence (AI) and robotics used to recover commodities reclaimed as raw materials for the global supply"
+publishedDateTime: 2020-08-20T18:57:00Z
+webUrl: "https://wasteadvantagemag.com/amp-robotics-accelerates-growth-with-key-leadership-hires/"
 type: article
-quality: 84
-heat: 94
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Waste Advantage Magazine
+  domain: wasteadvantagemag.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "AMP Robotics Accelerates Growth With Key Leadership Hires"
@@ -42,7 +32,21 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Amp Robotics makes key leadership hires"
+    excerpt: "The company has added a chief commercial officer, vice president of operations, sustainability consultant and leader of talent and culture."
+    publishedDateTime: 2020-08-21T16:19:00Z
+    webUrl: "https://www.wastetodaymagazine.com/article/amp-robotics-hires-key-leadership-roles/"
+    type: article
+    provider:
+      name: Waste Today
+      domain: wastetodaymagazine.com
+    quality: 54
+    images:
+      - url: "https://www.wastetodaymagazine.com/fileuploads/image/2020/08/21/EPAweb.jpg?w=736&h=414&mode=crop"
+        width: 736
+        height: 414
+        isCached: true
 
-secured: "iajPIvopIe4cyxvFRt4YJjZVYH4F0t+RN24ti/UarD2fjQfg3Mg0eBxvid0G7qFKaiw/vKCL+Lxp/hFnVzpgENy3/c/V4vHBSfzINXQHehmhUfQDkWkFC2K4BLW2/Liuln7EPhMVnwlQeK7ndZMw09bCAdS3LBRYds0AvoC593bFiY+XMYwtBcMrLVHKYOA6bPgZam/bSIwVzXGYtj4rqcE7U78jSP5WTa6mq06DQp9zl5LyY6q9dBJ+bXvTkpqxqQLYipUr64ov8njvPNJFUItdQJWfOoHCx5kA5lFwxFhu+aWWSvm4QbhwlJhVhLtFwBjXowEaHWOuNpLJ2PLnMA==;1oc/Xa8HWCnFhe9k3gfeYw=="
+secured: "s7BGmp/jvfZqmWBRRCu2MxCOi+Zi6VZjf/cCVObIpyPurUtn8Gi9C6KnjvRO0xjwkW8OaSHid082xta2BAAy++PiFOdKXr7vsfVomiGkibrcZj4wtb9FTjmcrsy4eUBLypP4Gh9PT4PP2wd95Ko7V3rHI/i8zYzTSnejK7a/azWP0rbfuVrZy6M82R5uholkCNu7EaKA6Qt67DVf0TCjP/PpCytar8ds+MMWP0ctGJ0BR6XV8mMseOwLqyF59pL6ck6ef/IuQP6+TI2g1pKuKHPXELwrbbHHsZK72o55Chg/0+rG0x2J1fHYUmSSW+7K49XBa7ih+0RUWgAgEdQ0BdlQUa2YkoMc+rALqOh5MABYggEA38Knfe3fh53QRjPtOAAP0Ri1gyF8kS/t8PctYQG8iwYoryWRphpEE/qZe0jF3ZGfB3DTb5HRv2Gsi9lU0sFBBD9IWpbTHUKB01nphD2umZQVUiKvrNTKY69PdDNc9Wb2UQt2V0HCqw4N4+3vjQllmciWZtujG3palD84FA==;UgxrT7Yz1o3WUBwE+997Sg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T13:11:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/global-epharmacy-market-size-to-touch-us-177-794-9-mn-by-2026-growth-opportunities-witnessed-around-the-world-to-support-expansion-1029509006"
 type: article
 quality: 3
-heat: -1
+heat: 3
 published: false
 
 provider:
@@ -20,22 +20,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Artificial Intelligence Market Size, Growth Research Analysis and Share to be worth more than $ 54 billion by 2026 - Industry News"
-    excerpt: "Selbyville, Delaware According to Market Study Report, Has Added A New Report On Artificial Intelligence Market"
-    publishedDateTime: 2020-08-21T15:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-research-analysis-and-share-to-be-worth-more-than-54-billion-by-2026---industry-news-2020-08-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "zgw9m9njCOZ665oYHFFbIZtCNLeG4+iDVSp03ZrD5IjScR50aMXNT1kHfPK64JH9hD4wJBST1tlxPRCfxjPaJSI2MLK+HoeYbMDZTYvLTnw8vaZE4XmG6sunT2Y6WHO9pfTyfQq74oS66riYQ89aA6UCRknhBSX1M6wxC6rd39QFVO+WUoJbY1trFTGiE414T1DLD/OsUgktTq0GLw/JLTACZ0d9PMVfTBxxDeZryJsGFxQx60angj2JLaipVPSl4IY37hynUhPmkVMsGFs8cxSJo0D6WH71j90qss1r0Tq2ZRyu85Qil0JQCV4C7sIRu37cNgGHMOghZKbIgWqwsQ==;UM1scrP+Y+Rb8oyR0lKwvg=="
 ---

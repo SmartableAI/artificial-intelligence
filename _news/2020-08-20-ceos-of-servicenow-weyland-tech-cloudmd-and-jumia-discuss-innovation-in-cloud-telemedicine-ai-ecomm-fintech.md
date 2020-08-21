@@ -1,31 +1,25 @@
 ---
 category: news
 title: "CEOs of ServiceNow, Weyland Tech, CloudMD, and Jumia Discuss Innovation in Cloud, Telemedicine, AI, Ecomm & Fintech:"
-excerpt: "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights from leaders at ServiceNow, Inc. (NYSE:NOW), Weyland Tech (OTC: WEYL), CloudMD (OTC: DOCRF) and Jumia Technologies (NYSE: JMIA)."
-publishedDateTime: 2020-08-20T22:12:00Z
-webUrl: "https://www.marketwatch.com/press-release/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-2020-08-20"
+excerpt: "On Journey to $10 Billion in Cloud Revenue - Destiny to Become Defining Enterprise Software Company of 21st century” Earnings call highlights:  Weyland Tech (OTC: WEYL)“The Shopify of Mobile in SE Asia ”w $40+ mil revenues” August 20 12:30EST investor livestream:  CloudMD (OTC: DOCRF): \"The Future of Telemedicine” Video:  Jumia Technologies AG (NYSE: JMIA) CEO Sacha Poignonnec: \"E-Commerce & Mobile Payments Adoption Accelerating in Africa” Earnings call highlights:  Highlights of CEO comments from latest earnings calls and investor conferences: ServiceNow,"
+publishedDateTime: 2020-08-20T15:44:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539"
 type: article
-quality: 46
-heat: 46
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "“NEXT SUPER STOCKS” on the move: CEO’s of WEYL, DOCRF, NEXCF, PMEDF discuss latest advances in Telemedicine, E-Commerce, AI, AR & Healthtech"
@@ -43,6 +37,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Y+8MjtClYjwckjs2pc2783Bn+WAt4ZaetxHJqD37WoOzRv5T0pNyVymWTiisEKqelKJNf6S61hjOIKxsRMf9Vvo++5VNFujsO1QhQQiBeKZ5E/dtL+GTx2+cP1u0ue9hZSnAJ3eaMoUwtY+xgDTnqk5t9dXOQN3dkxAfFD0uj05k8AtC2FISfmFPx91MBYfmZg2Ths3PlKUjJgHIYqp73pkMZTlupYJmf2I6ETz8+gpB6H9Exp+RXUBz+Ltj7aa68GjkGC5fschKMapCRRP9076Jc4XFY3kH91e+gKBKPJNgCAxhlFE+z5TnksihppDR8E+4TdZq0uVCvjN1Ut5JFA==;sDmjuTlVMkTsn8m+y5IwNg=="
+secured: "An8By4TomUKCt0K62Vb5wndYYgxp2ekGs6ch+ah0LapfDyQaFA5IKaWWD3RG+UPp78VGRe4uEj6A27L7qhLwIM+q3sT0KlAmPJMVASglCuAI4GlvaXaS4GpNujv4S2+kL3woPGM7KMaGal01KhiGej45Kr/NvhPr+u8Ube1DlHdNO/C5Ph/TxH7CfvhuA12DuKyu/BCSvVxTNcK9zWQTstYfx8m40hLupKSWy8TLueyNE9Nni9iz4h1Tlmn5ufFKsXRYaKR+g78lUCsLgUFzV4q5mxtJwf25L+93QTRcTGZb6KeTTLH93gFGnyo5gk8BjgxICDUdxp8AKQFWJEuP4A==;TEPd4CBowCYAWSddH3KEQw=="
 ---
 

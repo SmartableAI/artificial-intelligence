@@ -5,8 +5,8 @@ excerpt: "Selbyville, Delaware According to Market Study Report, Has Added A New
 publishedDateTime: 2020-08-21T15:20:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-research-analysis-and-share-to-be-worth-more-than-54-billion-by-2026---industry-news-2020-08-21"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -28,15 +29,48 @@ images:
     isCached: true
 
 related:
-  - title: "Global ePharmacy Market Size to Touch US$ 177,794.9 Mn by 2026; Growth Opportunities Witnessed Around the World to Support Expansion"
-    excerpt: "The company further states that the global market was valued at US$ 49,727.7 Mn in 2018. According to a published report by Fortune Business Insights, titled, “ePharmacy: Global Market Analysis, Insights and Forecast,"
-    publishedDateTime: 2020-08-17T13:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-epharmacy-market-size-to-touch-us-177-794-9-mn-by-2026-growth-opportunities-witnessed-around-the-world-to-support-expansion-1029509006"
+  - title: "Global Service Robotics Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026"
+    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
+    publishedDateTime: 2020-08-20T15:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-service-robotics-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2020-08-20"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 3
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Technology Market Size Report 2020 Global Industry Analysis by Trends, Revenue, Share, Revenue and Forecast to 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Technology Market” research report offers the breakdown of the industry by market size, rate of development,"
+    publishedDateTime: 2020-08-18T13:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-report-2020-global-industry-analysis-by-trends-revenue-share-revenue-and-forecast-to-2026-2020-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Natural Language Processing Market Latest Industry Trends, Future Growth, Market Share, Revenue, Size and 2026 Forecast Research Report"
+    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
+    publishedDateTime: 2020-08-20T15:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-market-latest-industry-trends-future-growth-market-share-revenue-size-and-2026-forecast-research-report-2020-08-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "oszEnTNYP44JADpEL2xM86L0T3bBls+P+KG0RNabRXWX6xiyPXLEiD9hKtv1aqru3iBt1L9eAsYQCFMjhIpL8J1mcqJlzMu1hmVVill094fF51QK8EOAlOr4BcwCiZs/FuNkhDt3vxQy5aAP/UHWEgY7lT2SUl7uPWVba7SQavT8VIviAMPNfeJanllUabQ8AZfuo2TxSV8fF8eR7j818gAvkzLKTYzwIz1CbcAtOSceLwf9wN15ZbLPZhmLtdeeSoT8z9Ii+9vdarqbiSeip4vMGRUkrYwUDIQmgiBeIPNIuihUQ4bVvlDcrvkc6RMUHgqg797h4oZ1MhWbdwRMSg==;m+p89wKDNPZIwBziCeuQMg=="
 ---

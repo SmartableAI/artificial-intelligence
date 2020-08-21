@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-70660-4/MediaObjects/41598_2020_70660_Fig1_HTML.png"
