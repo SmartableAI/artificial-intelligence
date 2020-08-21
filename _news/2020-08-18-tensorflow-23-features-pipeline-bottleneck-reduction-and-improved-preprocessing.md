@@ -3,10 +3,10 @@ category: news
 title: "TensorFlow 2.3 Features Pipeline Bottleneck Reduction and Improved Preprocessing"
 excerpt: "The TensorFlow project announced the release of version 2.3.0, featuring new mechanisms for reducing input pipeline bottlenecks, Keras layers for pre-processing, and memory profiling."
 publishedDateTime: 2020-08-18T13:16:00Z
-webUrl: "https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/"
+webUrl: "https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines"
 type: article
-quality: 51
-heat: 51
+quality: 14
+heat: 14
 published: false
 
 provider:
@@ -16,14 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
-  - TensorFlow
 
-images:
-  - url: "https://res.infoq.com/news/2020/08/tensorflow-improved-pipelines/en/headerimage/tensorflow-improved-pipelines-1596991592701.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "n92ITXJ4FtSbw3V72OiCOd0iK0fBqgKHQju7KZgmqy898VvoFbHTFT4fWYlXC33UnAQRaK6mHnbLU/m8kvihB8AkikMDoiWieqmcU7SJu2wkZRLdAWYWrMmy0UCX6Z5xigTUcd6sU9e7dCQaWBzVTLozNw+vKH9h0IaevzaeOxcJyWI9lulNSU3r63/Z/bHLamNssiOoEfFtMwE9iydL0kA8giS0mzdJ/KIndPZCguE8bpTLg5kKlq4JrV+K217k4FjxUPmBUjaonl9Rl0LC7NdotPdKWFgMQTTZAc3mBH2LkSZ3758fFLEK0lUqHYHb45hjC4qkPDXyNdA2rFyvLtUeTGFSDm8wOgOh2PayPJEcS88fBy4ADkOVp22toW55sVA1kVBryyLCJJNu5rjCz/+4TN8HX4OInZvE7O+Y/+x083DvXbCwBwKnk5ihRzIAGj+V5sfNNnP1WZh2+KwYdqWyp4F+nL6p+AYMv/aIGTixXSUXC36TDaAfodr4KOQeiRQmb6YZI1esiN8bp65Mzw==;I2ewO5RWNfabyOtHGxvZuQ=="
+secured: "ccopnIrwbvfSGfpv4Od6tvqqHUnQGn9BtS/f/tlTY9WwWFKhA7TlWqJnGoKxTHyFyoNs43QBNoP1k3uRLK5cKscPQ6agMY9hVf3paz/e07MhgYMGiDFX2v7bxNj/I3D1EymmscfKxhi6U+ujB5pNlmt+2BSEUAcWaljLGk8yxS3rWAT0hhMMYcPfTjtUm9VpNmlCYDeeKXMSxSV/9S3sglL+6JjemwNyjOjmydpl/YC9M7V0hkepNYdWESMq0RH06A+oZEYgDqERLQWzRu/XIEH5A4PM2kq1aYk/Bw1DZVJoxFmhxlTA2i6856MvO1RrJxCv9lldcV5yYczTLxSvvzgeGfUHCYa4UofUzW57OcnAUuxIFNfmbg8cKMdcx7pexWAxVp2FP7+5C7SGdy5++OcMrx+vJ/4Yv03b+uOsT9Duk2BDBLIJC417Sh2bHRs7mXW45pEJZGDHkylA1xZV6H2jGKiydDyjeLb3S6cq5524EkOz3e1IA6XFgsPcmXcP;8wwRT5i1vvF8Jn7RXIByqQ=="
 ---
 

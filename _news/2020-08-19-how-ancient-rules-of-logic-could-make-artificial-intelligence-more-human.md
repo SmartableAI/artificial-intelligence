@@ -3,7 +3,7 @@ category: news
 title: "How Ancient Rules of Logic Could Make Artificial Intelligence More Human"
 excerpt: "Many attempts to develop artificial intelligence are powered by powerful systems of mathematical logic. They tend to produce results that make logical sense to a computer program — but the result is not very human."
 publishedDateTime: 2020-08-19T09:00:00Z
-webUrl: "https://www.gizmodo.com.au/?p=1256892"
+webUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/"
 ampWebUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 type: article
@@ -20,9 +20,9 @@ topics:
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/348495/original/file-20200720-23-mxxnlu.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-    width: 754
-    height: 922
+  - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/19/aristotle.png"
+    width: 1051
+    height: 597
     isCached: true
 
 related:
@@ -43,6 +43,6 @@ related:
         height: 248
         isCached: true
 
-secured: "/XYGEebDqtHX6sKSRuq4J7TBOUgRxLMwH4BK/JHt30xkFC+Fgv4fVUXhYfd9VItqfI1rXq6HSQz7A6IjRv9fwQMhwCqq0LxrVDkgb08N2xK7WzFMmm5OTDaczWJaFFio/1mwhfFkt1HTYPT38wXRVfB2nw16sXAiIyiivts99mujcOKTc6HSZCVDmJdVQYm9l2kNo7IFmTxP8TJTTY3QNBCleYJlzSx0Gonjl1GDqY9qb13HqYD+ZYKYhHZHsldUFzTlGL9vEr4+UxGCU/msQz8my/DoHrhXtR7QXlI7/lxwPzji8WqrLMNO1NVssL7FwPwM3rwC1bqC2A0CVvPS+Q==;umksS5zvgyBw3ZIB47Qjdg=="
+secured: "Taa0CGpmMaKPJTVUQWiMNZb4mR9CMf4XqqLAmh8HOzdAZEIJMyDKt0laNTX46kqux3ZK7NezflsOx4SVYYHwm5kJQQoPE/8r4gECXzDkyKntp253JGqdNqQNi4mROxuZDSLWPZpEoLD+/OnMI55rfryIX459SwLBatbQ8SyqPbcnEDi5Mjs1432j4pVlJ+bzRK6oL8+asUaZBRPcQ0y6iBrP8LLQYSwueY4CmdRLAR8mz2llAnWTKlymAu0T7QMJyvuiBoiqzbBuQ0dRW1nkraZelehLeKeKboaWouSNugALb2AFFOLQKVAHE3zgw690ds5grdMP01kFahIncIB04g==;r6cdfd8uFlmEbGANjOTl3A=="
 ---
 

@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Precision Medicine Market Trends, Share, Industry Size, Opportunities, Analysis and Forecast by 2025"
+    excerpt: "Selbyville, Delaware Recently, Market Study Report, LLC, added a research on the ‘Artificial Intelligence (AI)"
+    publishedDateTime: 2020-08-21T20:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-trends-share-industry-size-opportunities-analysis-and-forecast-by-2025-2020-08-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence in Medicine Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
     excerpt: "Summary A New Market Study, titled \"Artificial Intelligence in Medicine Market Upcoming Trends, Growth Drivers"
     publishedDateTime: 2020-08-19T08:23:00Z

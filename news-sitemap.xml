@@ -13,6 +13,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672</loc>
+    <lastmod>2020-08-21T12:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.html</loc>
     <lastmod>2020-08-21T12:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -117,12 +123,6 @@
   <url>
     <loc>https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/</loc>
     <lastmod>2020-08-21T01:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.engadget.com/alphadogfight-ai-f-16-pilot-025617519.html</loc>
-    <lastmod>2020-08-20T20:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -363,12 +363,6 @@
   <url>
     <loc>https://www.techrepublic.com/videos/how-ai-is-helping-find-a-vaccine-for-covid-19/</loc>
     <lastmod>2020-08-19T12:15:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.youtube.com/channel/UCD8J_xbbBuGobmw_N5ga3MA</loc>
-    <lastmod>2020-08-19T11:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -835,12 +829,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/cindygordon/2020/08/17/where-is-your-global-organization-at-in-trusted-ai/</loc>
-    <lastmod>2020-08-17T04:04:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://electrek.co/2020/08/17/elon-musk-tesla-secret-dojo-ai-training-supercomputer/</loc>
     <lastmod>2020-08-17T03:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -997,7 +985,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-301112589.html</loc>
+    <loc>https://www.benzinga.com/pressreleases/20/08/n17086830/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability</loc>
     <lastmod>2020-08-14T10:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1351,6 +1339,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/news-releases/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-301110499.html</loc>
+    <lastmod>2020-08-12T13:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/facial-recognition-market-2020-2024-growth-emerging-trends-and-future-opportunities-2020-08-12</loc>
     <lastmod>2020-08-12T13:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1533,12 +1527,6 @@
   <url>
     <loc>https://pocketnow.com/kirin-980-announcement</loc>
     <lastmod>2020-08-11T17:44:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-2020-08-12-9184040</loc>
-    <lastmod>2020-08-11T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2491,14 +2479,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/</loc>
-    <lastmod>2020-08-05T07:00:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hyland-releases-foundation-version-of-brainware-intelligent-capture/article_9e694b5d-3d3c-5562-9de9-c3aaff952d98.html</loc>
+    <lastmod>2020-08-05T07:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/hyland-releases-foundation-version-of-brainware-intelligent-capture-1029473636</loc>
-    <lastmod>2020-08-05T06:57:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/</loc>
+    <lastmod>2020-08-05T07:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

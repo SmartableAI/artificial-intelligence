@@ -2,24 +2,18 @@
 category: news
 title: "Hyland Releases Foundation Version of Brainware Intelligent Capture"
 excerpt: "an intelligent content analysis tool within the portfolio of Microsoft Azure Cognitive Services. The Microsoft engine includes advanced OCR capabilities for extracting difficult handwritten inputs ..."
-publishedDateTime: 2020-08-05T13:57:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/hyland-releases-foundation-version-of-brainware-intelligent-capture-1029473636"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/hyland-releases-foundation-version-of-brainware-intelligent-capture-1029473636"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/hyland-releases-foundation-version-of-brainware-intelligent-capture-1029473636"
+publishedDateTime: 2020-08-05T14:14:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hyland-releases-foundation-version-of-brainware-intelligent-capture/article_9e694b5d-3d3c-5562-9de9-c3aaff952d98.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "PsLleF2HshQ3YpRK/d+fDiAlJAgHQJeQovof8z3R8At93wVGshSH10Pqqr726YnXB1jlL8Kzd/UimBtyJI2lJzQB0jYuGPKaAUutVmGObqzdgMjrgwzBngwCtd7D8eQ5U1k30lqIS5Z0VAVbg9isS1jWwuDvDnM0a74hD1CG/ssJEnZLpftVL59bEI/MxlXeY5E0oz6mlbxyZvB3ydG26APP68+/EJE5NRVghtQ6qnNR6/e/RFHwA74fB2b6VUSwqFFO0hJaL5mdxVtAldHLcYHFtFMf/NL7IW+cQ/Upgq1elbDvN+OsrQzNjNLMdGVHY0bTclp+WUWne8nzPtvqYw==;fXZOJY4j17YtFWsM3YM9Yg=="
+secured: "NwXwRLbBpW4E7Bu+xTwnkyMBLQO+6UgGpyjLou8VdPvPWB3xQEIzzkIrAPs95GnTC8aTo2tT+Bj8l8WznuaXnAQGcxo2jcSIkcitmlLfTaoiY4HBs11WG5pkbQ21OTQv5RFVHzjMmC238/YnEaxdEDCMPrXXh0P5TpezqyoO5EDG9GLYkh/GZijAP4ZWR3k3/TLHuzy7OMtrRc/jb+W77ZsUuFowyzArdOM5HYWytQtVj8SCM4RHi7DQ78KqiL18DCBiF4XOXMglVI/qvFLRSZ2fOMacAi2qCLs6AepvIJzLlrrXeiayZD7VhU/cceSPN/BKKQBnq5FU/Qp96+BGmA==;x1R2eX++v+ejlRqSErqZTQ=="
 ---
 

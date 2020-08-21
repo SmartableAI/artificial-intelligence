@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/08/21/an-ai-just-embarrassed-the-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/21/an-ai-just-embarrassed-the-us-air-force-in-a-virtual-dogfight/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3edb71b92851002e3794a1%2F0x0.jpg"
         width: 1200
         height: 625
+        isCached: true
+  - title: "A US Air Force F-16 pilot just battled AI in 5 simulated dogfights, and the machine emerged victorious every time"
+    excerpt: "A DARPA expert said that the AI demonstrated \"superhuman aiming ability\" during the dogfight. The human pilot never scored a single hit."
+    publishedDateTime: 2020-08-21T20:05:00Z
+    webUrl: "https://www.businessinsider.com/ai-just-beat-a-human-pilot-in-a-simulated-dogfight-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/ai-just-beat-a-human-pilot-in-a-simulated-dogfight-2020-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-just-beat-a-human-pilot-in-a-simulated-dogfight-2020-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://i.insider.com/5f36f6a2e89ebf001f044e87?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The U.S. Air Force Aims to Win the Next War Thanks to Artificial Intelligence"
     excerpt: "Making the best and fastest decision, with lives hanging in the balance, could all be expedited by the life-saving power of blending otherwise divergent technical applications with AI."

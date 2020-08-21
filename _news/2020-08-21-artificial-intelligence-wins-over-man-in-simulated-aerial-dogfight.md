@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Heron Systems' AI pilot just beat a human in a simulated dogfight"
-    excerpt: "A DARPA event pitted AI pilots against each other, and then the winner took on a human pilot wearing a VR helmet. The AI pilot shot down his simulated F-16 in all five rounds."
-    publishedDateTime: 2020-08-21T03:09:00Z
-    webUrl: "https://www.engadget.com/alphadogfight-ai-f-16-pilot-025617519.html"
+  - title: "AI Murder Machine Kicks Air Force Pilot's Ass in DARPA's Simulated Dogfight Contest"
+    excerpt: "Anyone remember the 2005 sci-fi movie Stealth? As far as I can remember, it involves a secret, artificially intelligent U.S. Air Force fighter plane that rebels against its creators when it is struck by lightning."
+    publishedDateTime: 2020-08-21T19:31:00Z
+    webUrl: "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672"
+    ampWebUrl: "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 81
     images:
-      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F3a13c4b0-e359-11ea-8b5f-75ffbab8f926&client=amp-blogside-v2&signature=aa5cd3dcc77471736c8733b40735efeade67fdea"
-        width: 1130
-        height: 630
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pkvkr2tadkg4dlsaanph.png"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "OjnnalPVupUKVDX7At1XA9YphBuTetHzL4oOqA8sPbos2kj2EnbmtRZcWEk8q/GgeS/+QfIGHZZJGX43wZ8JEVzhTvewZBDFI/KC1gMhd8icQEyPW7CIcnI45bDEI6gp54maNV+1JV/K/yApZ34B1VlRhSlin1C+MDMuhp9BYM+4H5ejGEj5bB7/RPepbPIoksOhUGTXAR9R8p1ljmfKWfNQMaOxql5P8vO9KOj7NfP7MrS+qFS0AjH5L1P+kuegmWqlkmDLBVClz9ZBID4NDisD1VB+AHF00T2fq00+JIRoXy6TGv92VyNlphgVAoWYAvnt6g30P7yquUEzia1/H6wph2Iv8mxoBK1z0nQ8QUqFjK7umGRmpMXr9wwCpMhBe9oJMv2WcHN/c9FfdnlFqlrAdkm34yTy7w1MHxqYYyREbd1+R8LYo2WJgBnXxAehEjskxeIZbYjNVFPdXcm7gAsNGsj2Xfvg8J5do6ONkTyQPFJGKWv5exVqnjvJBNhgFwmMu3/IUyTnByVBnXWHzA==;Y1I+uMgHug8hlO677rrrOQ=="

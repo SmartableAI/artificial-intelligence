@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

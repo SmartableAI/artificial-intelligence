@@ -3,7 +3,7 @@ category: news
 title: "Face masks give facial recognition software an identity crisis"
 excerpt: "As tech firms scramble to keep up with reality of coronavirus, some experts say users must change"
 publishedDateTime: 2020-08-21T15:56:00Z
-webUrl: "https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
+webUrl: "https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis?via=indexdotco"
 ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
 type: article
@@ -182,6 +182,22 @@ related:
       - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/08/19/iStock-1188510725.jpg?w=700&h=393.75&fit=crop&auto=format"
         width: 700
         height: 394
+        isCached: true
+  - title: "UK court says face recognition violates human rights"
+    excerpt: "LONDON (AP) — The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive practices by the authorities. In a case trumpeted as ..."
+    publishedDateTime: 2020-08-20T08:21:00Z
+    webUrl: "https://www.chron.com/news/article/UK-court-says-face-recognition-violates-human-15475100.php"
+    ampWebUrl: "https://www.chron.com/news/amp/UK-court-says-face-recognition-violates-human-15475100.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/UK-court-says-face-recognition-violates-human-15475100.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "Who thought it was a good idea to have facial recognition foftware?"
     excerpt: "It’s about time someone asked that question about facial recognition software. It would oblige the developers and users of the technology to explain exactly why they think it’"
@@ -408,6 +424,6 @@ related:
       domain: telecompaper.com
     quality: 12
 
-secured: "fKeC3gf6zOkFh+aGyIYXAj74Lh0jbXQ18Ugi/urg65Kpx21OhZmTWzVvgiGcwBJPN+cQYuuvLRCmFjbPZKbMrgewaqJiq5P4k2DAnEOjLLzzQqoQx3SuBtdp3gURUN9z4VqBeypHK1jQMVoadPVdP20qJ3TgVpLNQ5gGqONJauFNudmUTqVYUNy+oa86WKthtNxQwCvZKDoGpJZoVDWAefOHrHdFP3RaTqa2+FwfU+aP2u5yLwBSzbk7oWJe6NnQW2p/UWJtQymj5qp3Pg7A6IIgZZknO85qTiogejKDTxTjs1kLZqKhVb3mwBIk5Sl3qO1+J/eZtGEyY21IuXI2dO3tKqu0VySS/1bdJwOAWb5PSkAGahHdMs1XEk0lScxqWfki9nIWesLeLwQV3iJRn40q7poxfrb0QfZG37prBqlrHz3x+4wa5lnZoFLM6oT8Pk1XHhWGn7DeMUljA0EzxlPCFViNa/VX/cN8nSZ6l8q9H7b3Hw5Q6biO+hDlq0cjq5y2CAm+jcdtmmKKfIoPTA==;H0tjg9Yna7n+edgZQiLzVw=="
+secured: "rc1X6P3lEr9hjMo7sCFngtZwPVWNF2JQsLWlbj5m6CSfz89vIxXXMrTHQiIjTN44souQ80geLAFllLvqer57M+z8NWWoU7HdtrufFbG0sCSWYFzY55uAnc16w8Nef+TsP0ybYvY1yxDMVX7VDl/yGQlPWue5FCybjKGhTILTkFbMuLGguP69ERz0sXYqhPodA+h7U5IEGOdKDLlVYSkOxyp14O4zG/RjAplPKPCjOlJqqfSjz988hFMgUmj/dSoVLp72R2hfdjBqAOpofd5PeR2ncL6vRAIxpEWnvNxmlSmgG0Bx9dQ4YiZXdpO68uF8bG65mT9/NgOPl0SMCQ2rqA==;selEi8ODFs1mpDyWjCvl5Q=="
 ---
 

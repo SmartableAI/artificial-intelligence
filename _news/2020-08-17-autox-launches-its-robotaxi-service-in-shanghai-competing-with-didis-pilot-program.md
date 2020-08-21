@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/08/16/autox-launches-its-robotaxi-servic
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/16/autox-launches-its-robotaxi-service-in-shanghai-competing-with-didis-pilot-program/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1024
     height: 578
     isCached: true
-
-related:
-  - title: "Chinese self-driving vehicle startup AutoX launches robotaxi service in Shanghai"
-    excerpt: "Chinese self-driving car startup AutoX Inc., a company that also has a presence in Silicon Valley, has launched a publicly available robotaxi ride-hailing service in Shanghai. The service is ..."
-    publishedDateTime: 2020-08-17T03:34:00Z
-    webUrl: "https://siliconangle.com/2020/08/16/chinese-self-driving-vehicle-startup-autox-launches-robotaxi-service-shanghai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/autox1.jpg"
-        width: 1024
-        height: 681
-        isCached: true
 
 secured: "Ej0z5Ol+Y1OpxqEFqAQ9trrUaB66UGcjMRu5s21GVuYcGWXRC9TGELQ2/0EnwIquHWaVFrzDOLoLnkgOaB5FxT4DWM4GS2Sul+AlAnSEvLEBnr0wqFMrvAVFmJUzxYS0KJB83NN2UdM41xsrsY8NuHo3fT5Om1OTfkq4uqAYnzuUxTpxtNVXFoGa4gJ3o3Z3fSeqpx0Y7dZbTR0GSKc3XDt3XDchb8RumGpJGo+DzQCCDdyIR14jTL4wU+8KLffJ9kZPCdBvw5vJo273MA0TcHiDhJPf26oFynnf6b7i6hUqlLIAm5LMA7ctcren6gHkldPSdwGVaxD4poQTrz47XNEK/42+wI6Ide+syh0EDYdpZSjxMA4OzJLe8w4sKZ8qEowL1Um8LukxaCZjZSGcDu7uR/sHF+2xw7ltqZisDDo4XkkhFb+5hJglUpXp68UcPsRQWkC2icjqPl7l5OJmWMDYnweSdBsCrLi5nhqMKnpne2SqK0g9/Ukgqsobi5FwwYzmTVM1gq/voCtbhMM8Ww==;oQ9+VmsEA6HNoQwWOrsB5g=="
 ---

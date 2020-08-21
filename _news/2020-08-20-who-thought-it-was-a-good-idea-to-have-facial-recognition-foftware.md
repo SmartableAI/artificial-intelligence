@@ -179,6 +179,22 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "UK court says face recognition violates human rights"
+    excerpt: "LONDON (AP) — The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive practices by the authorities. In a case trumpeted as ..."
+    publishedDateTime: 2020-08-20T08:21:00Z
+    webUrl: "https://www.chron.com/news/article/UK-court-says-face-recognition-violates-human-15475100.php"
+    ampWebUrl: "https://www.chron.com/news/amp/UK-court-says-face-recognition-violates-human-15475100.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/UK-court-says-face-recognition-violates-human-15475100.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Who thought it was a good idea to have facial recognition software?"
     excerpt: "It’s about time someone asked that question about facial recognition software. It would oblige the developers and users of the technology to explain exactly why they think it’"
     publishedDateTime: 2020-08-20T13:45:00Z
@@ -198,7 +214,7 @@ related:
   - title: "Face masks give facial recognition software an identity crisis"
     excerpt: "As tech firms scramble to keep up with reality of coronavirus, some experts say users must change"
     publishedDateTime: 2020-08-21T15:56:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
+    webUrl: "https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis?via=indexdotco"
     ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
     type: article

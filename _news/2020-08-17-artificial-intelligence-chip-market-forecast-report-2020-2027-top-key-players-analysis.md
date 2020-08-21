@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T13:57:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-forecast-report-2020---2027---top-key-players-analysis-2020-08-17"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
     excerpt: "The rising venture capital investments and the vast availability of big data at the global level are the significant factors contributing to the growth of artificial intelligence in manufacturing market size. Various artificial intelligence technologies ..."
     publishedDateTime: 2020-08-18T06:54:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-forecast-and-trends-analysis-research-report-2020-2027-2020-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Precision Medicine Market Trends, Share, Industry Size, Opportunities, Analysis and Forecast by 2025"
+    excerpt: "Selbyville, Delaware Recently, Market Study Report, LLC, added a research on the ‘Artificial Intelligence (AI)"
+    publishedDateTime: 2020-08-21T20:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-trends-share-industry-size-opportunities-analysis-and-forecast-by-2025-2020-08-21"
     type: article
     provider:
       name: MarketWatch
