@@ -10,7 +10,7 @@ website: https://t.co/UnoPfBvH9V
 twitter:
   username: karpathy
   url: https://twitter.com/karpathy
-  followers: 295702
+  followers: 295714
 
 linkedin:
   url: https://www.linkedin.com/in/andrej-karpathy-9a650716/
@@ -22,7 +22,7 @@ topics:
   - AI
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1262944301866086400/_gcktnbe_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_400x400.jpg
     width: 400
     height: 400
     isCached: true
