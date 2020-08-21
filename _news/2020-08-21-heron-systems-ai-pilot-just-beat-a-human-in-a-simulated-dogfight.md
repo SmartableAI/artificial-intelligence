@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-21T03:09:00Z
 webUrl: "https://www.engadget.com/alphadogfight-ai-f-16-pilot-025617519.html"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,52 +26,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "AI fighter pilot vs. Air Force pilot: Dogfight showdown scheduled for this week"
-    excerpt: "DARPA is conducting its third AlphaDogfight Trials. The winning AI will be pitted against a human pilot in a human vs. algorithm aerial showdown."
-    publishedDateTime: 2020-08-17T19:34:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 83
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/08/17/cd1f7430-be29-406a-aae8-89be51fffecd/resize/1200x/eb87a4489df268a654643e7145b88d8e/darpa.jpg"
-        width: 1200
-        height: 613
-        isCached: true
-  - title: "AI-enabled Air Force unmanned drones will 'dogfight' manned fighter jets"
-    excerpt: "What if an unmanned fighter or advanced drone, operated with various levels of advanced AI-informed algorithms, engaged in fast air-to-air combat maneuvers in a direct dogfight or close-in engagement with a manned enemy fighter? These questions ..."
-    publishedDateTime: 2020-08-18T21:09:00Z
-    webUrl: "https://www.foxnews.com/tech/ai-enabled-air-force-unmanned-drones"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 66
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/a5ad1ce4-f1afb2544a6d29062a0f6a70670046d6.jpg"
-        width: 3000
-        height: 1895
-        isCached: true
-  - title: "AI Will Transform How The Air Force's Next Stealth Fighter Fights"
-    excerpt: "Should the Air Force and Navy prioritize the engineering of an entirely new platform with paradigm-changing technologies for a 6th-Generation fighter, or simply keep upgrading the state of the art 5th-Gen aircraft in the near term?"
-    publishedDateTime: 2020-08-18T01:05:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/ai-will-transform-how-air-forces-next-stealth-fighter-fights-167098"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-07-04T000000Z_1501579324_RC2NMH9PG8VW_RTRMADP_3_USA-JULYFOURTH%20%281%29.JPG"
-        width: 1400
-        height: 933
-        isCached: true
-
-secured: "+WUbzicqIDg4Wp1oJN+6n2uvsFC2b4Zr7qS4ki3YtHl8Aq1a3FfE4xhO3CIh7PaWol7x7C4FCudYeWqBQLF+tmR1GtGwzvj/UGCk53jMpEJyk01uZIGIAW31ay4+xK16zxa/Sjnkzt5ltV7N/zSanN0dFiaYi1e7OlWk69ZtijVeGUrW+3qoZCgFaFlQ8oA1L9D6VFSMxuf46+dDtTwaQO6WI6XKUgoohnK3qj36xp5gLGmAxIOpLsZ4BW5TzeXFXSpbFmWTRgXx0n+E0Mcj9Sg8URwL39rXq3/WMOa+mJ8gIxSr8lx7uxsGsGgofVALGDdNtcxfWep//bq+N2WhsA==;VwN9Jm4QIK3x75v5ENPm+A=="
+secured: "pRFNiQ8HakslS3CWZP2Dmuweej2yNfaxzoxE2AUIFIb/O0XKdoOQdO2xBxeFzrkDWZ6Hu9qvtzhsQtJUbgKItgk2OXUgeiG7L6sbWNlAziCSZx9mrYjiabY9cyS1M1uPEodowiFfULp2TETwvBP7+GnKDk+3RCdBp3Dmxfu32ijGSwcZFTa0AGksxx8g1ccFosdWcfKOYjGQm/pguXBFcD/Fv/fZZJweOFS8d7cUrMYqbG4EtG9USc3Z5RZSFW0ul/a1RVBcsUO18pQZREOgOQEDr1oBAwyy1NdNSEOcw8TL87b7Ljc5yigKEWctEq8Dj6QvIEERhcDZbJw/xz9iOTB5yiIwEFn8vXvJdHp6BQeTZ1HR0hmKTdF5BV9qbhxoEsSYg+LUp8jGvBLnZpMY/535vV/TySt1NpBrr/hKCkh/gpc0BBk0W4GgZD+AkADXnizgjouh4p/Msc4rPPIxatCNNCPfQsOWd393iojDH8fpaCUnjwZR0YltadEjWW9orq92fVVgqBBS6MCseTHawg==;9rg0JjFVLk4aUHPzBkuA/Q=="
 ---
 

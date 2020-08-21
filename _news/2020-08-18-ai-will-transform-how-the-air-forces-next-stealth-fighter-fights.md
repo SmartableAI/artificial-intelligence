@@ -23,36 +23,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI fighter pilot vs. Air Force pilot: Dogfight showdown scheduled for this week"
-    excerpt: "DARPA is conducting its third AlphaDogfight Trials. The winning AI will be pitted against a human pilot in a human vs. algorithm aerial showdown."
-    publishedDateTime: 2020-08-17T19:34:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 83
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/08/17/cd1f7430-be29-406a-aae8-89be51fffecd/resize/1200x/eb87a4489df268a654643e7145b88d8e/darpa.jpg"
-        width: 1200
-        height: 613
-        isCached: true
-  - title: "Heron Systems' AI pilot just beat a human in a simulated dogfight"
-    excerpt: "A DARPA event pitted AI pilots against each other, and then the winner took on a human pilot wearing a VR helmet. The AI pilot shot down his simulated F-16 in all five rounds."
-    publishedDateTime: 2020-08-21T03:09:00Z
-    webUrl: "https://www.engadget.com/alphadogfight-ai-f-16-pilot-025617519.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F3a13c4b0-e359-11ea-8b5f-75ffbab8f926&client=amp-blogside-v2&signature=aa5cd3dcc77471736c8733b40735efeade67fdea"
-        width: 1130
-        height: 630
-        isCached: true
   - title: "AI-enabled Air Force unmanned drones will 'dogfight' manned fighter jets"
     excerpt: "What if an unmanned fighter or advanced drone, operated with various levels of advanced AI-informed algorithms, engaged in fast air-to-air combat maneuvers in a direct dogfight or close-in engagement with a manned enemy fighter? These questions ..."
     publishedDateTime: 2020-08-18T21:09:00Z

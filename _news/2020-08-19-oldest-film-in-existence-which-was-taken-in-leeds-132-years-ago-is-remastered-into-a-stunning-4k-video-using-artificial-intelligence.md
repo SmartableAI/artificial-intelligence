@@ -2,14 +2,12 @@
 category: news
 title: "Oldest film in existence which was taken in Leeds 132 years ago is remastered into a stunning 4K video using artificial intelligence"
 excerpt: "YouTuber Denis Shiryaev has posted a new version of the legendary video on his site, which is now in 4K quality at around 250 frames per second."
-publishedDateTime: 2020-08-19T18:42:00Z
-webUrl: "https://www.dailymail.co.uk/sciencetech/article-8643793/Oldest-film-existence-remastered-AI.html"
-ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8643793/amp/Oldest-film-existence-remastered-AI.html"
-cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8643793/amp/Oldest-film-existence-remastered-AI.html"
+publishedDateTime: 2020-08-19T18:55:00Z
+webUrl: "https://www.youtube.com/channel/UCD8J_xbbBuGobmw_N5ga3MA"
 type: article
-quality: 28
-heat: 28
-published: false
+quality: 106
+heat: 106
+published: true
 
 provider:
   name: Daily Mail
@@ -17,14 +15,13 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
 
 images:
-  - url: "https://i.dailymail.co.uk/1s/2020/08/19/18/32141904-0-image-a-19_1597856818126.jpg"
-    width: 636
-    height: 382
+  - url: "https://yt3.ggpht.com/a/AATXAJzRKI2Ig5U1fK0Zfgy2dFZ5AItBrnPCaoUA08NB_S8=s900-c-k-c0xffffffff-no-rj-mo"
+    width: 900
+    height: 900
     isCached: true
 
-secured: "nweDyYxv4akuxPQaammfSMIViDjaKrQcHtzY7EzFOYea1CfVt/szrU8bViNCM4R2FNS98sAQ6+h8HmlJWnoUgL8u8sAFW0CcNYs7nfNDhfhZ2tSaiV4vKsCV5hDP9sIbo4klVheIAvmFSclL6dxjzBn+XEOI1Ge476Fg17lmrWh9EyMmzr4vYKSPjnOwmJKuEueEDj1J0exRIAo4pO3ef8ezy463F7STdDRLDUDaB0+3aKkREpTmdouD0Zm9pZf0br76h6JoxUJJbKE/ozSR3cL/C1ZkbqCRgw7Apn8ZnfBTmcYdOPuFKb2G+oQmFi+LpynKDKoH5t2uxzTD6tJzI3TunVcOHsDuAxrZQcqgk/lJCbkAZTr2TCnjNyfMdFZqG0TMUAN4ERHGgbftDRgK5D5rjvmllDBzVeFqJCzSH4tyoJY+pUtcqNdz2k4B1lICOEfcsMejQ0+QfZW7ic20JjFgLqTzwQgi5qN6m9es85eZtVrcB82xZAU/meN2kSBt6EDX9FtIhNyzFlu5NxFcDQ==;1tXs1fWzCB4Nu3sxSH7svQ=="
+secured: "dyro5bm9wpxKuFyq0UM8jnnuCYDvD534oiIhC2mWtJLzgZevjyPNDnWXD7SDNPOd9L0cZCn16BbnN+09Z1CkC31tMGMZ+fFa+FvqUHdXdhAGG235elIMkmA0iwtHslL5RQ+IKsxZ8m95WsYgZTAFHZHPiy71DL8rHqRS5/EqAjXEbDwzFkaNfe2rrXS8Nwh3z0UjTbBKNcd4sd3e47CCXVmg98f7vVzy5ZoAgPxt3XSE0Kl7xhnpazcB2CYmSYmwSGByMjoKmbXKZnA9Zs36tNY/FtIcJmKGjxp1B+c0kpAsrRHwMrbrvkYQm2A8V7Ykl9sbtUVJALL9uqtzouakQg==;1njiHX1CqA3VO24gEiAtqw=="
 ---
 

@@ -24,6 +24,38 @@ images:
     isCached: true
 
 related:
+  - title: "An AI just embarrassed the US Air Force in a virtual dogfight"
+    excerpt: "The battle was the grand finale of DARPA's AlphaDogfight Trials, a series of virtual dogfights that sought to test how AI could be used by pilots."
+    publishedDateTime: 2020-08-21T13:34:00Z
+    webUrl: "https://thenextweb.com/neural/2020/08/21/an-ai-just-embarrassed-the-us-air-force-in-a-virtual-dogfight/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/08/21/an-ai-just-embarrassed-the-us-air-force-in-a-virtual-dogfight/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/21/an-ai-just-embarrassed-the-us-air-force-in-a-virtual-dogfight/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design16-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "AI fighter pilot vs. Air Force pilot: Dogfight showdown scheduled for this week"
+    excerpt: "DARPA is conducting its third AlphaDogfight Trials. The winning AI will be pitted against a human pilot in a human vs. algorithm aerial showdown."
+    publishedDateTime: 2020-08-17T19:34:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 83
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/08/17/cd1f7430-be29-406a-aae8-89be51fffecd/resize/1200x/eb87a4489df268a654643e7145b88d8e/darpa.jpg"
+        width: 1200
+        height: 613
+        isCached: true
   - title: "AI Just Won A Series Of Simulated Dogfights Against A Human F-16 Pilot, 5-0. What Does That Mean?"
     excerpt: "On the face of it, man lost badly to machine in DARPA's AlphaDogfight Trials. But that simplification doesn't match current realities."
     publishedDateTime: 2020-08-21T00:35:00Z
@@ -55,6 +87,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3edb71b92851002e3794a1%2F0x0.jpg"
         width: 1200
         height: 625
+        isCached: true
+  - title: "The U.S. Air Force Aims to Win the Next War Thanks to Artificial Intelligence"
+    excerpt: "Making the best and fastest decision, with lives hanging in the balance, could all be expedited by the life-saving power of blending otherwise divergent technical applications with AI."
+    publishedDateTime: 2020-08-18T00:48:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/us-air-force-aims-win-next-war-thanks-artificial-intelligence-167108"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 49
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/32643153097_c9ca1cda64_k%20copy_0.jpg"
+        width: 1800
+        height: 1162
         isCached: true
 
 secured: "eSY/eeH22aNmT/8QlamRT8Rrn9RvbB4ATZo01pB1nc36rOmiBvdjCRIAgMgwl/oEckH3CUH9Z5XVFiO/8s6fLpqM8aNYneEHgWdVPJhk4zO5Fdl8TYxSGRrpKaxoqIQyCUMmkhUVJM+pNkXxdJoqhf9UXAXevbq1WfJ1syFAtOekFnMETmhAEPNgN/+PJu+Ur9sRkXtVIizYGQR4/x6ORz2+h1NbWbiLGkOayFI60SUCVJ+PRcNRfHH03Kzy/VwyS8/l9A2T9/8Vr/16WSLoAS6jKAGCMHOW1FnOBE03+2GR37Gn/kgyIbnlWBs82U/O7bwhgoBsOIeP3WkMvYxBnk/EhNYRH2UOPwz5JhPo5VmESnHfVtZmN2mwgmXu8wzbJZpzk7yUzflK1/9vhBQDT3Xl0jgL6S1Axb7gNnxZf2tYNBkYvo8LexPcPSM0ivWLU1Z0bw78RxY/lJu/Z2o6IbtFBOd1OJDl7uabAnjLIX/XO8TsDEze4BDKun7bBASgPqBI8rre3uPhWNfzx5qZvw==;GX7HIzoHerxUIylpDUYbXA=="

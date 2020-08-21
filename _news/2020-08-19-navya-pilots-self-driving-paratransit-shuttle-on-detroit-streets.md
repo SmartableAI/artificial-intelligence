@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Navya pilots self-driving paratransit shuttle on Detroit streets"
-excerpt: "Detroit has been getting a lot of attention on the self-driving vehicle front recently. Just last week, the State of Michigan said it has embarked on efforts to create a corridor between Detroit and Ann Arbor with infrastructure specifically slated for connected and autonomous vehicles."
+excerpt: "A self-driving paratransit shuttle pilot is being deployed to help senior citizens in Detroit. Last year, French company Navya received a mobility grant from PlanetM, the Michigan Economic Development Corp."
 publishedDateTime: 2020-08-19T17:35:00Z
-webUrl: "https://www.autonews.com/mobility-report/navya-pilots-self-driving-paratransit-shuttle-detroit-streets"
+webUrl: "https://www.crainsdetroit.com/mobility/navya-pilots-self-driving-paratransit-shuttle-detroit-streets"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: Crain's Detroit
+  domain: crainsdetroit.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Navya%20Shuttle-MAIN_i.jpg"
+  - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/Navya%20Shuttle-MAIN_i.jpg"
     width: 800
     height: 600
     isCached: true
@@ -41,6 +41,6 @@ related:
         height: 960
         isCached: true
 
-secured: "2Mm0suQD3Mm7aSw05A9RMP5H5smwCT21d85PKcgvdmuU03JjpA8rLTcmuP7hB3c8oDHf94+W687SO+m9mg9SdJAbwBWtt0vvln7m/3bycdGWQOZx8eM95s9/Z2vTrCWuqIt40f4B35Esyd0EGjS1WfNzbqdh+HeslGjzP3hY+sVLWrUNhhsJrr4A6Ahk+nv/bcBWO6Bho9gp2viH3h5nO8DQ6o52OFsyO+lapW7nHRbGldmJdpImyU8ns1ygmuXtmFNPdpfJGwSsyVc9+ifu3pe5314CvYy9VKhKuD3iq7+luPmpi3FVVDqu0DMC9evhLnNtcSIKg4T0bDyRCPVf2Q==;X3ZDxqCZQH6UZGW3WLrf8A=="
+secured: "Wwh4zn3IRUejJyMzwcP2OB8l7nAMZUek8z892LDJVnxeU647gDsP1M9jLh5rrUlOv6P9aECAcXZHwsj2X+3+QVSGNaZEnz1tCL+wPmY2mwj4gi5TydkK1+KEQSjG8kkmglAAic7wJK3Z9JL/1bl7PNdcPA8WlDxrWRNdDO4ogUrSNjL6mWaG8laSSF+3kTX3yOVjqHQLidR72FpuBilU9tj2AYkWsmw9WOs105vcVwrhO9zJqK/d1hSQnmLVGdd8N4S7QwW3lkj/K6M5oV9SxVq/S2dY5XyZxdmbRxurzW0S8mvqFCWrriYtQUd9WS7zz8X74k1jb7GK0/WqTr0xZQ==;+hVozdMvFva+eP+X/xpy9Q=="
 ---
 
