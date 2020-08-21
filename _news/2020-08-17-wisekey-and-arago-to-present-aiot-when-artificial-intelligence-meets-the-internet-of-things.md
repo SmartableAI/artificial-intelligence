@@ -1,23 +1,27 @@
 ---
 category: news
 title: "WISeKey and ARAGO to Present AIoT: When Artificial Intelligence Meets the Internet of Things"
-excerpt: "WISeKey International Holding Ltd ((\"WISeKey\", NASDAQ:WKEY), a leading cybersecurity and IoT company and ARAGO a leading AI company to discuss AIoT du"
+excerpt: "During the Fireside Chat both experts will discuss the exciting benefits to be had from AIoT resulting from the groundbreaking combination of their industry leading products: ARAGO’s AI based Knowledge Automation and Data platform and WISeKey’s Cybersecurity and IoT technologies."
 publishedDateTime: 2020-08-17T18:03:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/08/g17124927/wisekey-and-arago-to-present-aiot-when-artificial-intelligence-meets-the-internet-of-things"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17124927"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17124927"
+webUrl: "https://apnews.com/1782e6a777a9fe417da1dfcfdfe4be09"
 type: article
 quality: 41
 heat: 41
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "0/N+bHwfP2kfCwcBVy6CSp334vzWh1vTAWjshck0V+xo6SBlTVu5er2M5Jpda4nwKzK4yg0jVR6Cbhj4jWQwd/am6vjKlbM5Bm9mBGQLwMRbHM+K+FWd9Q8yYBn7w+4ee/g7+m7Q8bqLfUOrtigz7Wj1iOtXx1pza/vP4AIj7ovIAY0zX0kqplBfLWVKsUtkRULaik7cJyk6lU8W9nP3aCPD1MB7faOlS9ChgPZAiKiSkY/XVZsUjQf0+z3N2sNOoVfy+x9LUFfcl+HMqGkjl2vO+zRPtYQ364uki2Ovlo+40TmRxzfr1P8VNmGpUh+0FH6ZyyKRKetrsz8UoAtjCAnp86ujjKl22gxnLjoJ2QFXsOzh+WeTm0BhNaFqHnxI29/ZAYz+Tl4MS0PwrR3t/DEsAOySeilkit5Y4Bo+Vn3a99iv2rNYrGGcORi85U4yIzXz+DTrx42R8uIbdeTMpu4ir1Xmo6L16lNAIT3vgj5egvl07wdfksueu5kVrAVCijxVskw08y1QDTT7/ejlTQ==;PGObSvFnaNYfXy43rT4GvA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "uPc2Tv+SsGm1EARRwUYAI+S5M7HaEIIYuf1fH3W16biQIzbMmEyl3Xj5Gn0c5iZhzVT6rwrVag+GdeG1GkJC88ZEV47fb93g1NiU66mG26Qru3/sfkhfOf/ZJoUYuNw75Z5k/FPhlKpHhxVapQ14DXvRoEuoOfFIpA9/Bt8u6M3r5zLVPhCdr4md67GIc3ohMZzJdCsW1wRe/XxPzHo6Ju1JVrpuFjR8Jfevfh5QM+U3m7sX6ahM/QA4RAyZz5Ja+yq8e1XYwdhaac5lvxsD+UNdGEo2wNWzef9/4SW+SQiXXFxK+1BNfPkmC5x4wse80sCcVf4c9aZkUl3gJGRs+w==;1DmDBsSH4DcBK133xuDtFg=="
 ---
 

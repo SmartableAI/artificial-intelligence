@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence-as-a-Service (AIaaS) Market|Top Company Profiles in sector and Key Figures to achieve CAGR of 42.68%"
-    excerpt: "GlobalArtificial Intelligence-as-a-Service (AIaaS) Marketis projected to grow at a CAGR of 42.68% from 2020 to 2024"
-    publishedDateTime: 2020-08-16T09:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-aiaas-markettop-company-profiles-in-sector-and-key-figures-to-achieve-cagr-of-4268-2020-08-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence in Manufacturing Market Likely to Grow at a 57.5 CAGR and projected to grow for estimate of USD 1 billion in 2019"
     excerpt: "The global Artificial Intelligence in Manufacturing market is anticipated to garner a revenue of $USD 1 billion"
     publishedDateTime: 2020-08-20T16:55:00Z
