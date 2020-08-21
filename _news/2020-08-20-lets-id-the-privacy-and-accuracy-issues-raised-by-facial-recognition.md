@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-20T05:11:00Z
 webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2020/08/facebook-facial-recognition-image-woman.jpg"
         width: 600
         height: 430
+        isCached: true
+  - title: "Report points to privacy, accuracy concerns with facial recognition technology"
+    excerpt: "More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19."
+    publishedDateTime: 2020-08-19T01:43:00Z
+    webUrl: "https://www.wsbtv.com/news/washington-news-bureau/report-points-privacy-accuracy-concerns-with-facial-recognition-technology/TNYBKP3JN5HVZN6UHG7JBQZL5E/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 35
+    images:
+      - url: "https://www.wsbtv.com/resizer/pizHIqwlvdVYQfCKDEUxfNhcR74=/1200x628/d1hfln2sfez66z.cloudfront.net/08-18-2020/t_e302f4af08bf47a6a96fcbf20d001f50_name_6PP_FACIAL_RECOGNITION_US_PKG_frame_930.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "New report points to privacy, accuracy concerns with facial recognition technology"
     excerpt: "WASHINGTON, D.C. — More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19. “The market is definitely growing,” said Alicia Puente Cackley, Director in the ..."

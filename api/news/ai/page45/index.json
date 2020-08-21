@@ -2,6 +2,47 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-07-09-vecna-robotics-recognized-for-excellence-in-robotics-supply-chain-and-logistics-automaton.md",
+      "title": "Vecna Robotics Recognized for Excellence in Robotics, Supply Chain and Logistics Automaton",
+      "excerpt": "Vecna Robotics, the autonomous mobile robot and workflow orchestration company, today announced it has been recognized as the recipient of three indus",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200709005592/en/Vecna-Robotics-Recognized-Excellence-Robotics-Supply-Chain",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200709005592/en/804309/23/Vecna_RGB_Large.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-google-cloud-lands-renault-as-analytics-machine-learning-ai-customer.md",
       "title": "Google Cloud lands Renault as analytics, machine learning, AI customer",
       "excerpt": "Automaker Renault said it will use Google Cloud's analytics, machine learning and artificial intelligence services on a wide range of initiatives to make the company more efficien",
@@ -1341,56 +1382,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-microsoft-releases-preview-of-text-analytics-for-health-battle-tested-in-covid-19-partnership.md",
-      "title": "Microsoft releases preview of Text Analytics for health, battle-tested in COVID-19 partnership",
-      "excerpt": "Microsoft’s Azure cloud platform announced a new iteration of its Text Analytics technology for healthcare, bringing to market some of the artificial intelligence that the company",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Smart-Medical-Technology-In-Ho-264657964-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Microsoft releases preview of Text Analytics for health, battle-tested in COVID-19 partnership",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/",
-      "publishedDateTime": "2020-07-08T16:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

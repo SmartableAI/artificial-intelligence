@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-19T15:49:00Z
 webUrl: "https://www.bignewsnetwork.com/news/266140921/global-ai-in-healthcare-market-worth-9949158-million-by-2027---analysis-by-offering-application-end-user-algorithm-and-region"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global Conversational AI Market Worth $13.9 Billion by 2025 - Revenues/Shares by Component, Type, Technology, Application, Deployment Mode, Vertical and Region ..."
-    excerpt: "The \"Conversational AI Market by Component (Platform and Services), Type (IVA and Chatbots), Technology (ML and Deep Learning, NLP, and ASR), Application, Deployment Mode (Cloud and On-premises), Vertical,"
-    publishedDateTime: 2020-08-17T10:45:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200817005260/en/Global-Conversational-AI-Market-Worth-13.9-Billion"
+  - title: "Artificial intelligence applications in health care on the rise"
+    excerpt: "Columbia University professor and robotics engineer Hod Lipson knows the importance of artificial intelligence (AI) on a global level. “It permeates everything we do, from the stock market, from predicting the weather to what product you’re going to buy,"
+    publishedDateTime: 2020-08-20T22:24:00Z
+    webUrl: "https://www.bioworld.com/articles/496865-artificial-intelligence-applications-in-health-care-on-the-rise"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: BioWorld
+      domain: bioworld.com
+    quality: 41
     images:
-      - url: "https://mms.businesswire.com/media/20200817005260/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.bioworld.com/ext/resources/BW-source/2020/Aug-2020/Hod-Lipson-Columbia-University-8-20.png?height=635&t=1597960760&width=1200"
+        width: 847
+        height: 635
         isCached: true
 
 secured: "37+DCRip594xRz9on7t8QSPMzpHbe5O/emHEsZhqJR7noihEGDfMk6tSrcLn3unz018z75WWm8LZw6bi3cXQa7iQ7LTDLTtkuQz/suLhLrOQU8PPHkg8NQHTWf70y7yPaaSmhprUq3aH3XbgBwpO8cvLIENfg8UlZRNvF84K6l3oGamGRp/hAtKf9pPwCmDx+9ovqJ3cK1xZJQ/4StLOv2NdScdzpPeKb7jkL7WFGiRY5raOwYFFtt9nlO2yWIW5fE35YO6h+Pm1Lq9uTRkD2EwfZ85+EWZQMjbWTrQePIVow1zTdD8YuNH/pR47B+KmLBQPQXO9oTOilMYZA38uvQ==;v214jPhhlvzvOdXiE9ls4Q=="

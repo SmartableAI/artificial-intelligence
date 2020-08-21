@@ -52,6 +52,20 @@ related:
         width: 600
         height: 430
         isCached: true
+  - title: "Report points to privacy, accuracy concerns with facial recognition technology"
+    excerpt: "More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19."
+    publishedDateTime: 2020-08-19T01:43:00Z
+    webUrl: "https://www.wsbtv.com/news/washington-news-bureau/report-points-privacy-accuracy-concerns-with-facial-recognition-technology/TNYBKP3JN5HVZN6UHG7JBQZL5E/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 35
+    images:
+      - url: "https://www.wsbtv.com/resizer/pizHIqwlvdVYQfCKDEUxfNhcR74=/1200x628/d1hfln2sfez66z.cloudfront.net/08-18-2020/t_e302f4af08bf47a6a96fcbf20d001f50_name_6PP_FACIAL_RECOGNITION_US_PKG_frame_930.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "US court gives preliminary approval to Facebook's request to settle facial recognition privacy lawsuit for USD 650 mln"
     excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."
     publishedDateTime: 2020-08-20T08:41:00Z

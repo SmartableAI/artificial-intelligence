@@ -8,8 +8,8 @@ ampWebUrl: "https://nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-fo
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: New York Post
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Is facial recognition technology finally being seen for the dystopian threat it is?"
+    excerpt: "In the end, even Silicon Valley has had to admit that there is something a bit sinister about facial recognition"
+    publishedDateTime: 2020-08-21T05:25:00Z
+    webUrl: "https://www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/"
+    ampWebUrl: "https://www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/amp/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 53
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2020/08/869082432.jpg"
+        width: 1024
+        height: 651
+        isCached: true
   - title: "Convenience store boosts security with facial recognition technology"
     excerpt: "For a start, the 24-hour convenience store has installed facial recognition technology on closed-circuit TV cameras at 100 of its 458 branches throughout the country, with an allocation of RM800,000."
     publishedDateTime: 2020-08-18T00:46:00Z

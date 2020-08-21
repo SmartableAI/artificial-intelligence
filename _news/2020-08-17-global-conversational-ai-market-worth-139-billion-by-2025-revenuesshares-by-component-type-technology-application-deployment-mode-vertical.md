@@ -23,20 +23,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI in Healthcare Market Worth $99,491.58 million by 2027 - Analysis by Offering, Application, End-user, Algorithm and Region"
-    excerpt: "Global AI in Healthcare Market Worth 9949158 million by 2027 ndash Analysis by Offering Application End-user Algorithm and Region"
-    publishedDateTime: 2020-08-19T15:49:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266140921/global-ai-in-healthcare-market-worth-9949158-million-by-2027---analysis-by-offering-application-end-user-algorithm-and-region"
+  - title: "Conversational AI Market Worth $18.02 Billion, Globally, by 2027 at 21.02% CAGR: Verified Market Research"
+    excerpt: "Verified Market Research recently published a report, \"Conversational AI Market by Technology (Deep Learning, Automated Speech"
+    publishedDateTime: 2020-08-20T13:27:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/conversational-ai-market-worth-18-02-billion-globally-by-2027-at-21-02-cagr-verified-market-research-820047232.html"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1597838421142.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 2
 
 secured: "Bbw4I3MSaFZBjLvft67pVBCec+B0hiLejdy2t8JzerKYRyoAajfnejc9jODkeMfgdr561BVUrOmOjq0v/KHjvMLK26ibP+X4SbcG76B9fvjuqD5OXT2TPIagj6aHEPo1Hdfx19ap8sN3Oa6DE2uaaREk8tRJtoAmy2i+1F2Xs4lE12T4H8MRvId9Ne8N5LgXR2CT3s8N7UcdauWo3Wp8kDne6PVkU4MoE3WGGG8wc89fnppXZChEAkYBatSNmAOdcA0Vzt1MO56E8xhMcliH1NEBUvlhWXeWXH+0Zs4KYJJOivHPlKfnBN+o5sTcEnNSHmueV5WCqx8dacmg5KuLkQ==;fPQbiSybMTskWXX/FyOidA=="
 ---

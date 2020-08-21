@@ -2,6 +2,56 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-07-07-facial-recognition-market-to-surpass-12-billion-by-2026.md",
+      "title": "Facial recognition market to surpass $12 billion by 2026",
+      "excerpt": "To enhance tracking and security in public spaces, the facial recognition technologies market is expected to surge in the years ahead. In the era of digital transformation, more organizations are utilizing facial recognition technologies for a host of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/facial-recognition-market-to-surpass-12-billion-by-2026/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/07/52407e3d-cfe0-434d-9778-e1df9e7274a5/resize/1200x/dd5a6f0f9bbb18f40fa1b8cffa7ccf91/facial-recognition-primipil.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Facial recognition market to surpass $12 billion by 2026",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/facial-recognition-market-to-surpass-12-billion-by-2026/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-market-to-surpass-12-billion-by-2026/",
+      "publishedDateTime": "2020-07-07T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-autonomous-driving-startup-turns-its-ai-expertise-to-space-for-automated-satellite-operation.md",
       "title": "Autonomous driving startup turns its AI expertise to space for automated satellite operation",
       "excerpt": "Hungarian autonomous driving startup AImotive is leveraging its technology to address a different industry and growing need: autonomous satellite operation. AImotive is teaming up with C3S, a supplier of satellite and space-based technologies,",
@@ -1377,56 +1427,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-chinese-ai-start-up-cambricon-to-raise-us3677-million-through-ipo-on-shanghais-star-market.md",
-      "title": "Chinese AI start-up Cambricon to raise US$367.7 million through IPO on Shanghai’s Star Market",
-      "excerpt": "Cambricon, one of China’s most valuable AI chip start-ups, has set a listing price of 64.39 yuan per share on Shanghai’s Star Market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-cambricon-raise-us3677-million-through-ipo",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/07/dad4dcb4-c017-11ea-8c85-9f30eae6654e_image_hires_143815.jpg?itok=Dc-FV1XS&v=1594103901",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese AI start-up Cambricon to raise US$367.7 million through IPO on Shanghai’s Star Market",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-cambricon-raise-us3677-million-through-ipo",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-cambricon-raise-us3677-million-through-ipo",
-      "publishedDateTime": "2020-07-06T23:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
