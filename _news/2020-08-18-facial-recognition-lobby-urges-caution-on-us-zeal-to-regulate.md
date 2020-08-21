@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-18/facial-recogn
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
 type: article
 quality: 89
-heat: 319
+heat: 339
 published: true
 
 provider:
@@ -340,6 +340,20 @@ related:
         width: 2560
         height: 1369
         isCached: true
+  - title: "Use by police of automated facial recognition is declared unlawful"
+    excerpt: "Court of AppealPublished August 21, 2020Regina (Bridges) v Chief Constable of South Wales PoliceBefore Sir Terence Etherton, Master of the Rolls, Dame Victoria Sharp, President of the Queen’s Bench"
+    publishedDateTime: 2020-08-20T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/use-by-police-of-automated-facial-recognition-is-declared-unlawful-p56vw5jn6"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffc6bba22-e30e-11ea-8ecd-64fc41168b69.jpg?crop=6250%2C3516%2C0%2C326&resize=685"
+        width: 685
+        height: 385
+        isCached: true
   - title: "Violation of Fundamental Rights by using Facial Recognition Technology in Protests"
     excerpt: "Facial Recognition Technology embodies a software that is capable of identifying and authenticating the identity of an individual by recognizing the physical traits of their face. The underlying"
     publishedDateTime: 2020-08-20T03:30:00Z
@@ -368,6 +382,15 @@ related:
         width: 960
         height: 616
         isCached: true
+  - title: "US court gives preliminary approval to Facebook settlement of facial recognition suit"
+    excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."
+    publishedDateTime: 2020-08-20T23:08:00Z
+    webUrl: "https://www.telecompaper.com/news/us-court-gives-preliminary-approval-to-facebook-settlement-of-facial-recognition-suit--1350957"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 12
 
 secured: "z9InDeLavJP/bmWrKr0nCon5LwcOpbmIYDhw8b/U7KNkRAeN0AEi4UZvwfJaj5bIGlnMfrf6b69Hk7xkds8/CVk+FJFtPVKt2CrU7hv196b/Wm1oBjlkxzayVsZHHZFe60UDxcWkpAfn/x1Jru8v2SmmAZ5OLj7/8HdmRcLzTTVBL8K7/hbvdieqfw9JS/0OMvZq/fcKy6Sma+ex0CeitS7CK387S/Qy3K2rIciHAF9rHjef0KmRNZJEsZRT0f1HGUpkP0VW49tyashA7QdEsc7UKeU7wVO9Fis1w3qeoVM1TlWhFu/JU7mD7dYNhzIgok2gnRvPhIrQ4LVie+YJaA==;BAHqHgxxKWbok+hJ2BZjmA=="
 ---

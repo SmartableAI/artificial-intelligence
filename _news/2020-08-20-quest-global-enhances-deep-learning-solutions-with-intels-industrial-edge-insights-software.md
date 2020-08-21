@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-20T11:00:00Z
 webUrl: "https://apnews.com/PR Newswire/04d1e9f2698b96e52ad311ec738c879d"
 type: article
 quality: 28
-heat: 28
+heat: 38
 published: false
 
 provider:

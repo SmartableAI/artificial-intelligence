@@ -5,8 +5,8 @@ excerpt: "The TensorFlow project announced the release of version 2.3.0, featuri
 publishedDateTime: 2020-08-18T13:16:00Z
 webUrl: "https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/"
 type: article
-quality: 34
-heat: 34
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://res.infoq.com/news/2020/08/tensorflow-improved-pipelines/en/headerimage/tensorflow-improved-pipelines-1596991592701.jpg"

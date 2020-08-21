@@ -340,6 +340,20 @@ related:
         width: 2560
         height: 1369
         isCached: true
+  - title: "Use by police of automated facial recognition is declared unlawful"
+    excerpt: "Court of AppealPublished August 21, 2020Regina (Bridges) v Chief Constable of South Wales PoliceBefore Sir Terence Etherton, Master of the Rolls, Dame Victoria Sharp, President of the Queen’s Bench"
+    publishedDateTime: 2020-08-20T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/use-by-police-of-automated-facial-recognition-is-declared-unlawful-p56vw5jn6"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffc6bba22-e30e-11ea-8ecd-64fc41168b69.jpg?crop=6250%2C3516%2C0%2C326&resize=685"
+        width: 685
+        height: 385
+        isCached: true
   - title: "Violation of Fundamental Rights by using Facial Recognition Technology in Protests"
     excerpt: "Facial Recognition Technology embodies a software that is capable of identifying and authenticating the identity of an individual by recognizing the physical traits of their face. The underlying"
     publishedDateTime: 2020-08-20T03:30:00Z
@@ -368,7 +382,16 @@ related:
         width: 960
         height: 616
         isCached: true
+  - title: "US court gives preliminary approval to Facebook settlement of facial recognition suit"
+    excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."
+    publishedDateTime: 2020-08-20T23:08:00Z
+    webUrl: "https://www.telecompaper.com/news/us-court-gives-preliminary-approval-to-facebook-settlement-of-facial-recognition-suit--1350957"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 12
 
-secured: "GK3+uu1uCDRf8v756gp2eAjAjqCHI6WmKsB226XOJfhoF5bpt3tdU57Zxj3XjbaVG+2OvrUjwuaF3rhqczV5tlJ+refx7TBceE9HYSTGtjH9qHc8NsBauk1EESU3/dT2KV4Z1lHDLKxVxk85CN93ETmd+saFysjKtdzP35JIiNihdU3/0cPSPHNJCSDfMYYPrh6tu3fS0QxEWeQVKe1rPphQUOXKwejQ3BnJK1d6l57QKdqHbn6DTorgM+P1z/yfQHgsHsN/9Lsd+XUMC8wc2GK/pnArZtSY7Nmz6JGI+7mGjBZH0dX3YsmwzCWTEBwDsJlG+IPyMMiN3p8Kl0w4rg==;3ZYZNUAECxo641xsySymiA=="
+secured: "m4UymG7oNQREU0BlCpYKpCZ0h6D+GuanC8r7nKeJNJ99+LF0kcgXQ12HYtU1qDojXXsiwy4UDhbX2qiE116QKwxG9nGqGVi2HKolvgUR3n670PTCvE3G4EjC0hJNrCmJop0lMndv/lR/A8nhaeJfkvGJVkXt2AfXdeePIwlExt4INPNFGOk+GU+YQkNgWlsuKdAb+T5RRUt86wJjdaIxg6R4125q3kRRYF1yMAZhSJmhNq3GPOzgxpANk0d2cCDIOJBfMWYQzEi7v/FRALLJE7MSV3pduumcwWlTj+aYV2NGbVv0y8+RlqjeXW7Ke6QluTClA+33M2JRyMhjzWwBke7Ydw73/Ez4XIsiGigJ7TaS7aGsLaCd4ioXEot7gMQQxDvrIB47OXruNahbgBTPq5QRMMndqNf49ODi1NUsEraNFjTj+kwIMdgpH5ct6epDhjP474vD3KDh6fbih8OdqoeO7MVZyxt2BtK0fBdC2KGoodv3T6QJe2dCOb1sbrQeapWZ3UvKo05jXmGsq0Mu6g==;49S/AzUYW3Zssf9B70DAmw=="
 ---
 

@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/08/20/unlocking-the-financial-potential-of
 ampWebUrl: "https://venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/amp/"
 type: article
-quality: 54
-heat: 54
+quality: 76
+heat: 76
 published: false
 
 provider:
@@ -22,7 +22,14 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Finance
 
-secured: "DISUCjTbYl8HSccOLrEInHAAi5ACIjcjimRhXYGfoNM2Mico0q0qPG/DYDJJAJoCLTi3gk5ONxHSuOsxLOuqt2yRy/MDxKjxeiBJoudwgb7DN/HKJE7b0yqpdY0YgRBRdd/X4cX5r06FRzqvFcanPw4mytEW7OVKb3F+unK+70T6KbCQD6bACw1wB7RxiMzmxlkbnU/zm5CZLn24dG0n550/1NbhZcKz0rJ1K2xhkf/O9WIVr9FyNXvrAZ39eXUtrQ09wZdCEivf9UvQva+sMuzJ8g84xEzcIGbNDKwvTpYrCpzPJfapUNb3s5Fq9HrNf4QEFfHP6R8pku7rtAX82JDoWG9YFBdb3BH7h/AA8uz7lmMK3LyxXMcxzUUpvcwmqLlaFYn29O1DB8GGcmd6vqu6CtxAIqpQaY+YZZ7GXobPl6KKLbS1CG7sIodrvihta4N5vanLLb+IdieNrk5iwMmdmAEOwYbCf/rPVJYWHNuZHAS68FDyZq7XQai7lvnsG5xes/ehdZhEzaiSW2Znog==;vBZOUey3JQVrQVxlG3e0ng=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/08/KE.jpg?w=1200&#038;strip=all"
+    width: 1200
+    height: 650
+    isCached: true
+
+secured: "BD6Lvb8sez1Thq5/4tCio/B3unkwSKrSlrJeVvUsN42EXEhqbdO5f2aDicLANzEiBMC3PxHc/vSN+F1ma6kMilvCZiCKxLjDQgtxa7U0M3PYjXS6p5imJn/ua+rz8U3Svb8pCwtPU/4c3BmE5Txu3vIuKlPWBcU6Gpxw2upI9YrjGKeIDwhtk/K8GaPt8vjvC43dNnu98y9Mhdt6prvLCvmYLX54JyGz/nRaJKRTa1NPB6BqHzer6tw7LZI6kdM1eU31uhQfCwzDV7oo+8S5MpqtWg8ZEIfMulbuou3byu+y6hu1yxMkHQ4ABf6vjQ1sEp1sNY30aUxjpgnbAKqM/Q==;Te3pqsiefKoksH7QnT88kw=="
 ---
 

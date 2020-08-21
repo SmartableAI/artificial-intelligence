@@ -1,26 +1,22 @@
 ---
 category: news
 title: "World Autonomous Aircraft Market 2020-2030: Advancements in Artificial Intelligence is a Key Factor Driving Growth - ResearchAndMarkets.com"
-excerpt: "Growth and Change” report has been added to ResearchAndMarkets.com’s offering. The global autonomous aircraft market is expected to decline from $0.84 billion in 2019 to $0.79 billion in 2020 at a compound annual growth rate (CAGR) of -6."
+excerpt: "The global autonomous aircraft market is expected to decline from $0.84 billion in 2019 to $0.79 billion in 2020 at a compound annual growth rate (CAGR) of -6.35%. The decline is mainly due to the COVID-19 outbreak that has led to restrictive containment measures involving social distancing,"
 publishedDateTime: 2020-08-19T14:22:00Z
-webUrl: "https://apnews.com/Business Wire/4ac04352a7db47c5934d8ce48268dcff"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/b17157045/world-autonomous-aircraft-market-2020-2030-advancements-in-artificial-intelligence-is-a-key-factor"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17157045"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17157045"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Deep Learning Market 2020-2023: Growth, Emerging Trends, And Forecast"
@@ -103,6 +99,6 @@ related:
       domain: ipsnews.net
     quality: 0
 
-secured: "e9lSujDKPznVaDSKGUy+SHGtmbEnOLPEyb2jDixrDC1b0H4XSQnwOCyzeDeO6QFPXehmi14lgBkKU7uikUIbfL9qx8xeURvvA2H1wtG9CzjtmKzRLm6e8BMaNLSM6x02P3l+al6pTZdZ/q1JhS83rDFjqZvGKGYl+IjVPvtJH5UsjivyeCwApPzNNenrZAdhW3OTxep9370vN0wCDi1JJIZQfUu9zdV0DRrVx9rC0MDWnXynMgrV92oe2XzsNq36x7rRl8PrVYNE/nOvorYJFyfPt+QuAiUofGfRt4pF1RIsBfzCW9CmGw88fuDaoVWFT1y0JWpFsLPOX4t8Prg9OA==;7oSlUZ/r2+hcZMZSD8AlMw=="
+secured: "ZSmpT0tQxB9uowI1PH7L6adMv3S/0cuEgc8PFq1cTtDFtO4xDYRoM0qqczUqSchmwF1DmPcIIQBzy+VzVKE7/aiG/SpDkTjgHjSoAv2rwbcXAV1HgPP2E4qevq8vXstVokHxZS4ro3LNJAQ1lB2XVrooGCDgE4ZkowDg/qIW2mcnonN/5QfTEfqhWP8wQ3FaV7cXqaiXTcGexq9HXiHfOByeXdf6sNgVa6Je57787CC8X5fhzwL6hVPNXZYbyYYsx9Y48vyG5HhYbvDwrNzZYYBDwIxx7j/LeXNFbs4eLLb1b1s3svjk9xMimniVxA+WmS4vyeSpQTs8oWDI5OMMXqvXNezpR4zjbRsXOd8qHtPJnm6nCw1A0cMQYZO7/7vo/8KeX4v+wRKAffYkDivOggCr8DwzK34sfi1P7La/czH+HbqC42k5tBTdVTsiROchR3wnhvE8fTiHsTiq5MQezcsNJmslms1JBQXgfEBoKPc/9plshqbHzQnF/zob/E4l1/9twwiTtIIR+9tb621F/Q==;RJLbirMpL8iljSsuDBV6uA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-20T13:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-301115686.html"
 type: article
 quality: 26
-heat: 26
+heat: 36
 published: false
 
 provider:

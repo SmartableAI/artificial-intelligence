@@ -8,7 +8,7 @@ ampWebUrl: "https://www.computerworld.com/article/3572089/facebook-portal-adds-z
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3572089/facebook-portal-adds-zoom-cisco-video-app-access.amp.html"
 type: article
 quality: 44
-heat: 44
+heat: 54
 published: false
 
 provider:
