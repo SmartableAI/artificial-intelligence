@@ -10,7 +10,7 @@ website: https://t.co/t9CFIWFMbw
 twitter:
   username: noramayc
   url: https://twitter.com/noramayc
-  followers: 17039
+  followers: 17038
 
 topics:
   - AI
