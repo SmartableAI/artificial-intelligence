@@ -7,8 +7,8 @@ webUrl: "https://medicalxpress.com/news/2020-08-selfies-heart-disease-artificial
 ampWebUrl: "https://medicalxpress.com/news/2020-08-selfies-heart-disease-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-selfies-heart-disease-artificial-intelligence.amp"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/selfie.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1277
     isCached: true
 
-secured: "AGlPiElE7vPdoo7gGDA5K/pK37Wq031gyZq9jlrD6F8J/TlUNqloDkkZCRIDRKbz+XVR1//1KxpQ3hcsoVjK/A1+nhY5ymman3cQrXfUmCJho5isCt2xIjIvHXSdCRSTHJxAkOnZ/2o5nN3Hg1sJKdOU5RyPIRJ9w3AFl+ce/OLC49xIvn7ohM8u1adGv6UHPCn4/4hp01Z+rBiFeaeuCyww+D9j7mISjiIphRREF60g90USs+jA5Jk6MqdoMpPVeOPxMc/tc9GvEyUttzbWNyuxRg6JIiN7aOHWvoNmmLfOODqruAPF4hF/bGgNocQO607gWkHAO6seuwS0g+81/w==;N5MktMcPRi60GbRTxv0hVQ=="
+secured: "Xt/ORcqmNTJZkYkUdPUwFwb9XfY0fph7QGnEjIZqvJB8b77FawTghFfuzrkNxOlN/Z0BD0LG2r5phpHqbbgSnSMGAIWjJluh2sJH4Dfjx5zqM6g6X6Sd5LbkohR56YL0j2fSjVpAFLNCfldAhWMsBWbjksB5yBScIlmSbWFZ7W0ThSY4/UbPXurZZ68yYiWlMSXicruKRkAHcCnP0+m+dR8XulHqa/if33qs3fg4rJf2jNSZFFTQHEdicBNEXW6RyKxn55ivzKfLBBQu6jNY+FF/MhuUl9LcNyxSV7lkoPj/6OQgaLtnAioy+g3L007cWm+LENREcjm1pxT+lY6LuSLZ+Y+bOc7r8jHx6yPhM98Zx1vUCwYdz0dK2NtDhqe6AE+gdVCZxrlS4QnEc3157ZuPlM3m9utEKOB4dOPETv/DEm+Q7ZqS+HBtV2Bi4953FamLh/LLA7tJ/tjxtAELeJ+eAfKScny/b56M7c4DcVwGc9HwvBxZJ/WcHNyYUsfCx7/geb9hK5fNqnwlOEaWAA==;FGQvPIpjvrTUrV6eho7Ltw=="
 ---
 

@@ -28,14 +28,14 @@ images:
 related:
   - title: "Kamala Harris shines spotlight on trailblazing Black women in her 2020 DNC speech"
     excerpt: "Calif., accepted the Democratic Party's nomination for vice president Wednesday night, she did so by recognizing the trailblazing women who came before her. \"That I am here tonight is a testament to the dedication of generations before me,"
-    publishedDateTime: 2020-08-20T17:06:00Z
-    webUrl: "https://www.goodmorningamerica.com/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
-    ampWebUrl: "https://www.goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
-    cdnAmpWebUrl: "https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
+    publishedDateTime: 2020-08-20T17:09:00Z
+    webUrl: "https://abcnews.go.com/GMA/Culture/kamala-harris-shines-spotlight-trailblazing-black-women-2020/story?id=72492044"
+    ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
     type: article
     provider:
-      name: GMA
-      domain: goodmorningamerica.com
+      name: ABC
+      domain: go.com
     quality: 54
     images:
       - url: "https://s.abcnews.com/images/GMA/kamala-harris-dnc-01-ap-iwb-200819_1597933336252_hpMain_16x9_992.jpg"
@@ -91,6 +91,6 @@ related:
         height: 720
         isCached: true
 
-secured: "/pBlNTJx7WP07xLOZWqKqyDtHJQvVyIYqbS0PKQyiZLkZVoy8iBRT4X6ZxFB27vicMueIqVmFZOfRyg9Zz8V4JBAyJqRUY+GSontfX+zJ3X51sZyrxdUM6gun7EaKPj3E1JGgFyErHtexIqINC1cJkfgp4ppAPS95E5/YuQVmVX7PyI2MdTh7eZQy3vGwGCGfGMUc30zFCeAoYKarzgH1WZE6evd/Y/qCTGo4w4XdFdXfsKPcleIoQtv9FOB2XE49iEcwUaXAqIo/ip1j7iAAzx1l2ZDi0bc8n9C17+LV1cQWtzHdyJB+2hR+5xjKNksE7hKytjIjnV+/779gjyxOA==;bgDbiEUlX8oe2LjPmaW42A=="
+secured: "WbKh0oiUOdut3bfJHWoU7zQCpu80C8VE/BKfHjsx8SKOar6HEgKqfItJN4pf5bTHy8iJPE/i2l8DqcauosP/tvlAIzt0GOHfwnvKpG+pWnOuHiPODtvsRVl3IFtpReyiWEus/JDbmBgijW+tZgvuaKrBnZL2zLetjoHNHmySPRV1DUJfdJfm5iqTUe5k5G/VrjGsoqLxKZyZ5kOfaL7wnJngYAqE7t/Ga+M1zFxqQ7+8tmHTKU9py3Qo9qHUtGc4SI0/YJzIvsIp9pKBfo+qu9qzTc6VpE/SG0Ogyp1Vu6wNQJORJoOXR7M15EzIc7mSFbpF40sIOASNMft1+X45/DSY5c55PZtDx7/kkzk3IoDjOkIRQGccH1+ytUPrxCBViHsEkGbd9i8+HdbFAJT2ALOELXXGRS5wqyBoVmmgXcHVHsF1L3Nv4pf46B9AWCUVccDKn5z5iScuHAkw7ZyPJ8hYf0EW+3E9Lpq/bjkJVSnHHUIYPsZwW6ivH3hif4B3;lziLxfHSgoE3RrTHNCt66g=="
 ---
 

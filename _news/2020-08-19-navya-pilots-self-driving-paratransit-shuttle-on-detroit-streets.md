@@ -24,23 +24,32 @@ images:
     isCached: true
 
 related:
-  - title: "‘This is our future’: Fairfax tests region’s first self-driving shuttle for public transit"
-    excerpt: "The Washington region is about to experience self-driving vehicles in public transportation. Fairfax County and Dominion Energy are testing an autonomous electric shuttle that could be carrying passengers between the Dunn Loring-Merrifield Metro station and the county’s eclectic Mosaic District as early as this fall."
-    publishedDateTime: 2020-08-16T22:25:00Z
-    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/this-is-our-future-fairfax-tests-regions-first-self-driving-shuttle-for-public-transit/2020/08/16/c3e7a1ac-dca1-11ea-8051-d5f887d73381_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/this-is-our-future-fairfax-tests-regions-first-self-driving-shuttle-for-public-transit/2020/08/16/c3e7a1ac-dca1-11ea-8051-d5f887d73381_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/this-is-our-future-fairfax-tests-regions-first-self-driving-shuttle-for-public-transit/2020/08/16/c3e7a1ac-dca1-11ea-8051-d5f887d73381_story.html?outputType=amp"
+  - title: "Self-Driving Shuttle Service Launched To Transport Senior Citizens And Underserved To Detroit Hospital"
+    excerpt: "PRNewswire/ -- In a Detroit first, a self-driving, accessible, paratransit shuttle is being deployed to transport senior"
+    publishedDateTime: 2020-08-19T15:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital-1029517471"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital-1029517471"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital-1029517471"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 49
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "Detroit Medical Center patients offered new self-driving shuttle service"
+    excerpt: "Senior citizens and residents of two local Detroit communities now have the option of taking a self-driving shuttle to appointments at Detroit Medical Center Heart Hospital. The complimentary service comes via several partners,"
+    publishedDateTime: 2020-08-20T14:52:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/detroit-medical-center-patients-offered-new-self-driving-shuttle-service.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 23
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3JQGV6G5VMI6VMQF76BY4FNJUY.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/2.jpg"
+        width: 400
+        height: 300
         isCached: true
 
-secured: "Wwh4zn3IRUejJyMzwcP2OB8l7nAMZUek8z892LDJVnxeU647gDsP1M9jLh5rrUlOv6P9aECAcXZHwsj2X+3+QVSGNaZEnz1tCL+wPmY2mwj4gi5TydkK1+KEQSjG8kkmglAAic7wJK3Z9JL/1bl7PNdcPA8WlDxrWRNdDO4ogUrSNjL6mWaG8laSSF+3kTX3yOVjqHQLidR72FpuBilU9tj2AYkWsmw9WOs105vcVwrhO9zJqK/d1hSQnmLVGdd8N4S7QwW3lkj/K6M5oV9SxVq/S2dY5XyZxdmbRxurzW0S8mvqFCWrriYtQUd9WS7zz8X74k1jb7GK0/WqTr0xZQ==;+hVozdMvFva+eP+X/xpy9Q=="
+secured: "G8XgegK0YzoNvlExrVAQIW1OnQmmKMOge2mgmNDlx+y7lq4nSCZBt+4Jb5jzdjd/f/M3Vyt+99WZty4SI3uDu7d3Q07aCQ/Jx4Ib98SPDWeXNcvP20ivpX7ZRe5SQ1A82CQBANL9M25X473MNA+jYgaUIfdTuKY5DfLmVxGHoAv8UaOLxcumAQ5S1U9Kx5MN43xndF8n5GQ2FbrEg8ZJDRJfpjlw7Lx7AV+IUDfTeJmN9gXP5Ej6/pu/0X1/ZKcLvwAa8YzIOhnZAmcFbuWA+Uk8nYiaZLlvNLghn2IavGbcYsApf3gfSXedUYPrCUbmohcM/h1M6j9mvHORLfdiS3a/pIa0eyW3jz1/9YW94J796gFu5qwefey6BYedMcjubccmsW2omxzfBveLb/+Qb203qkLgM8f91/NZi+D+57ldklsjWmJoTX2pMdPDyaHyiWBjRLEuP7JNe6o7+BLU5gUA40CgfV8TilRjQgcuIxCo5Vy7asD37bRs+RYHNm2z;aHCW5jJqffL0eke7eXWzWw=="
 ---
 

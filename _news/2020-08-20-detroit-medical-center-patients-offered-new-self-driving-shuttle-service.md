@@ -35,6 +35,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
+  - title: "Navya pilots self-driving paratransit shuttle on Detroit streets"
+    excerpt: "A self-driving paratransit shuttle pilot is being deployed to help senior citizens in Detroit. Last year, French company Navya received a mobility grant from PlanetM, the Michigan Economic Development Corp."
+    publishedDateTime: 2020-08-19T17:35:00Z
+    webUrl: "https://www.crainsdetroit.com/mobility/navya-pilots-self-driving-paratransit-shuttle-detroit-streets"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/Navya%20Shuttle-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "7nwaNrJiTmGid5KyfU7KMT0tXaraSVf1V+OZUIMlI18q8C7ncjT1gOt8ONjfLA8s/U8+AVYkiHGG19Vx6BhlKYvUVklEwJKy2upsDSqnmaSQ0z+v8EPtpYAPUz5ms3io2YPbHxVcRcH3ccMqRVrduBPFBwQH2paYx8HgR1kyi6xoh6xX1AnC01aXED1xpL9JPX0cfHQBifdOkAjyZDwosZIC2rQXnCHzkcIiesJdc5iuGOWe3jARTQQ5QpUIkagf/NSYeaazMYvjlpTfzbpMZmjaGlpkTur8TcZ2TSrAdg6AYGN/qC/6OXrFR/GrggjvS/hYsa4fMvjZILtYFC+WIg==;SYRucoxhVdTEkUzYhrLiow=="
 ---

@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.theverge.com/2020/8/21/21395115/roman-emperors-photorealistic-portraits-ai-artbreeder-dan-voshart</loc>
+    <lastmod>2020-08-21T08:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/dark-data-may-be-tamed-with-natural-language-processing/</loc>
+    <lastmod>2020-08-21T08:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/guysnodgrass/2020/08/21/darpas-ai-defeats-air-force-pilot-5-0-in-head-to-head-competition/</loc>
+    <lastmod>2020-08-21T07:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/08/21/an-ai-just-embarrassed-the-us-air-force-in-a-virtual-dogfight/</loc>
     <lastmod>2020-08-21T06:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -91,14 +109,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.zdnet.com/video/robotics-and-ai-overhaul-construction-sector-these-companies-are-leading-the-way/</loc>
+    <lastmod>2020-08-20T11:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techrepublic.com/article/throwing-a-fastball-how-the-minnesota-twins-are-using-machine-learning-to-analyze-mounds-of-data/</loc>
     <lastmod>2020-08-20T11:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.goodmorningamerica.com/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044</loc>
-    <lastmod>2020-08-20T10:06:00-07:00</lastmod>
+    <loc>https://abcnews.go.com/GMA/Culture/kamala-harris-shines-spotlight-trailblazing-black-women-2020/story?id=72492044</loc>
+    <lastmod>2020-08-20T10:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -279,12 +303,6 @@
   <url>
     <loc>https://www.techrepublic.com/article/how-ai-is-helping-find-a-vaccine-for-covid-19/</loc>
     <lastmod>2020-08-19T12:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.youtube.com/channel/UCD8J_xbbBuGobmw_N5ga3MA</loc>
-    <lastmod>2020-08-19T11:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -835,8 +853,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.thenewstribune.com/entertainment/celebrities/article244877067.html</loc>
-    <lastmod>2020-08-15T00:40:00-07:00</lastmod>
+    <loc>https://www.idahostatesman.com/entertainment/article244877067.html</loc>
+    <lastmod>2020-08-14T23:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -945,6 +963,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/14/problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai/</loc>
     <lastmod>2020-08-14T06:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.iol.co.za/business-report/international/baidus-revenue-shrinks-under-pressure-from-bytedance-in-ads-853974b1-4538-4ce6-8fc2-9ea2d4455164</loc>
+    <lastmod>2020-08-14T06:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1471,12 +1495,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://investorplace.com/2020/08/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare/</loc>
-    <lastmod>2020-08-11T09:53:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.eejournal.com/industry_news/hackster-io-smart-parks-and-key-industry-partners-to-build-worlds-most-advanced-elephant-tracker/</loc>
     <lastmod>2020-08-11T09:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1485,6 +1503,12 @@
   <url>
     <loc>https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/</loc>
     <lastmod>2020-08-11T09:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918</loc>
+    <lastmod>2020-08-11T09:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2217,6 +2241,12 @@
   <url>
     <loc>https://www.benzinga.com/pressreleases/20/08/n16964889/artificial-intelligence-system-tops-one-billion-neurons-on-a-desktop-computer</loc>
     <lastmod>2020-08-06T05:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.eejournal.com/article/i-just-created-my-first-ai-ml-app-part-1/</loc>
+    <lastmod>2020-08-06T05:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

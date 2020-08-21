@@ -2,6 +2,228 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-06-30-how-a-former-soldier-went-from-self-taught-truck-driver-to-helping-alphabets-waymo-usher-in-the-era-of-self-driving-semis.md",
+      "title": "How a former soldier went from self-taught truck driver to helping Alphabet's Waymo usher in the era of self-driving semis",
+      "excerpt": "Jon Rainwater instructs safety drivers for Waymo Via, the self-driving company's freight and deliveries unit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5efa5b5bf34d0565f1297c75?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "How a former soldier went from self-taught truck driver to helping Alphabet's Waymo usher in the era of self-driving semis",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6?amp",
+      "publishedDateTime": "2020-06-30T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-bny-mellon-launches-new-data-and-analytics-solutions-offerings-collaborates-with-microsoft-to-build-solutions-on-microsoft-azure.md",
+      "title": "BNY Mellon Launches New Data and Analytics Solutions Offerings, Collaborates with Microsoft to Build Solutions on Microsoft Azure",
+      "excerpt": "BNY Mellon has announced the launch of three new Data and Analytics Solutions offerings designed to help investment managers better manage their data, improve the success of US-listed fund launches and support the customisation of investment portfolios to preferred Environmental,",
+      "sourceUrl": null,
+      "webUrl": "https://hubbis.com/news/bny-mellon-launches-new-data-and-analytics-solutions-offerings-collaborates-with-microsoft-to-build-solutions-on-microsoft-azure",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hubbis.com/bundles/app/home/images/icon_search.png",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hubbis",
+        "domain": "hubbis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools.md",
+      "title": "Google’s G Suite finalizes Connected Sheets and introduces AI-driven data cleanup tools",
+      "excerpt": "Google launched Connected Sheets for G Suite users in general availability, and it previewed new AI-powered features: Smart Fill and Smart Cleanup.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/30/googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s G Suite finalizes Connected Sheets and introduces AI-driven data cleanup tools",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/30/googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools/amp/",
+      "publishedDateTime": "2020-06-30T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-notre-dame-ibm-launch-tech-ethics-lab-to-tackle-the-ethical-implications-of-technology.md",
+      "title": "Notre Dame, IBM launch Tech Ethics Lab to tackle the ethical implications of technology",
+      "excerpt": "Notre Dame News gathers and disseminates information that enhances understanding of the University’s academic and research mission and its accomplishments as a Catholic institute of higher learning.",
+      "sourceUrl": null,
+      "webUrl": "https://news.nd.edu/news/notre-dame-ibm-launch-tech-ethics-lab-to-tackle-the-ethical-implications-of-technology/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.nd.edu/assets/394469/1200x630/ibm_blue_feature_2.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Notre Dame News",
+        "domain": "nd.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-artificial-intelligence-the-time-for-ethics-is-over.md",
+      "title": "Artificial Intelligence: The time for ethics is over",
+      "excerpt": "If the rules are too weak, there is a too great a risk that our rights and freedoms will be undermined: This currently applies to all applications of artificial intelligence, […]",
+      "sourceUrl": null,
+      "webUrl": "https://ctovision.com/artificial-intelligence-the-time-for-ethics-is-over/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ctovision.com/wp-content/uploads/space.jpg",
+          "width": 632,
+          "height": 422,
+          "title": "Artificial Intelligence: The time for ethics is over",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ctovision.com",
+        "domain": "ctovision.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-ibm-donates-machine-learning-tooling-to-enable-responsible-ai.md",
       "title": "IBM donates machine learning tooling to enable ‘responsible’ AI",
       "excerpt": "IBM Corp. is donating three open-source artificial intelligence development toolkits to LF AI, an organization within the Linux Foundation that maintains open-source machine learning tools. The LF AI Technical Advisory Committee",
@@ -950,230 +1172,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy.md",
-      "title": "YouTuber Uses Artificial Intelligence To Make Fake Iron Maiden Song, Power Gravy",
-      "excerpt": "Following on from the AI recreations of Metallica’s Deliverance Rides and Nirvana’s Smother, YouTuber and tech wizard Funk Turkey has used artificial intelligence to create a brand new Iron Maiden song",
-      "sourceUrl": null,
-      "webUrl": "https://www.kerrang.com/the-news/youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.kerrangcdn.com/MaidenPowerGravy.jpg?auto=compress&fit=crop&w=1008",
-          "width": 1008,
-          "height": 567,
-          "title": "YouTuber Uses Artificial Intelligence To Make Fake Iron Maiden Song, Power Gravy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.kerrang.com/amp/youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy",
-      "cdnAmpWebUrl": "https://www-kerrang-com.cdn.ampproject.org/c/s/www.kerrang.com/amp/youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy",
-      "publishedDateTime": "2020-06-30T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kerrang!",
-        "domain": "kerrang.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-daimler-backed-momenta-says-its-robotaxis-will-be-fully-driverless-and-profitable-in-2024.md",
-      "title": "Daimler-backed Momenta says its robotaxis will be fully driverless and profitable in 2024",
-      "excerpt": "In China and the U.S., there’s much debate about when and how humans will achieve fully autonomous robotaxis at scale — cars that chauffeur passengers under complex road conditions without safety drivers behind the wheel.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/06/30/momenta-robotaxis/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-30-at-12.08.36-PM-e1593490638906.png?w=680",
-          "width": 680,
-          "height": 362,
-          "title": "Daimler-backed Momenta says its robotaxis will be fully driverless and profitable in 2024",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/30/momenta-robotaxis/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/momenta-robotaxis/amp/",
-      "publishedDateTime": "2020-06-30T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change.md",
-      "title": "Artificial Intelligence Services Global Market Report 2020-30: Covid 19 Growth and Change",
-      "excerpt": "Reportlinker.com announces the release of the report \"Artificial Intelligence Services Global Market Report 2020-30: Covid 19 Growth and Change\" -  The global artificial intelligence services market is expected to decline from $0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change-2020-06-30",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
-      "excerpt": "With support to TensorFlow Lite for Microcontrollers, developers are able to take advantage of the WE-I Plus platform as well as the integrated ecosystem from TensorFlow Lite for Microcontrollers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16443255",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16443255",
-      "publishedDateTime": "2020-06-30T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity.md",
-      "title": "Adoption of software robots by enterprises gains traction to keep business continuity",
-      "excerpt": "Automation Anywhere sees enterprises investing in digital workers to build resiliency in their future business plans",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/bb20c7c0ed449b8d619e48b358411162-1200-80.jpg",
-          "width": 622,
-          "height": 350,
-          "title": "Adoption of software robots by enterprises gains traction to keep business continuity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity",
-      "publishedDateTime": "2020-06-30T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
