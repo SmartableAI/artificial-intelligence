@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-18T05:19:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2020-2027-trends-analysis-segmentation-and-forecast-2020-08-18?mod=mw_quote_news"
 type: article
 quality: 53
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Coronavirus Disease (COVID-19): Speech and Voice Recognition Market- Epidemiology Analysis and Forecast - Aug 2020"
+    excerpt: "The Global Speech and Voice Recognition Market was valued at USD 5.21 billion in 2016 and is projected to reach USD 26.15 billion by 2025, growing at a CAGR of 19.63% from 2017 to 2025. Voice and Speech Recognition is the ability of a machine or program that can identify,"
+    publishedDateTime: 2020-08-20T23:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/coronavirus-disease-covid-19-speech-and-voice-recognition-market--epidemiology-analysis-and-forecast---aug-2020-2020-08-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

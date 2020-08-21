@@ -2,6 +2,247 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-21-how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live.md",
+      "title": "How machine learning helps companies stay agile in a pandemic (VB Live)",
+      "excerpt": "Join this VB LIve event to learn how machine learning has offered companies powerful ways to adapt in these uncertain times.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1204589859-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/amp/",
+      "publishedDateTime": "2020-08-21T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-seven-ways-artificial-intelligence-is-disrupting-the-retail-industry.md",
+      "title": "Seven Ways Artificial Intelligence Is Disrupting The Retail Industry",
+      "excerpt": "If your organization is considering going the AI way, you will do well to know how other retailers have used it to offer disruptive solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/21/seven-ways-artificial-intelligence-is-disrupting-the-retail-industry/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3e72deaffda4d96e00e24e%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/21/seven-ways-artificial-intelligence-is-disrupting-the-retail-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/21/seven-ways-artificial-intelligence-is-disrupting-the-retail-industry/amp/",
+      "publishedDateTime": "2020-08-21T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-can-fight-this-one.md",
+      "title": "AI may not predict the next pandemic, but big data and machine learning can fight this one",
+      "excerpt": "Tech leaders increase project development and implementation (TechRepublic Premium) Admittedly, August is not as bad as March for Spain, but it's still not a situation many foresaw. Arenas' predictions were based on mathematical modeling and underline the important role technology can play in the timing of decisions about the virus and understanding its spread.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-are-key-to-fighting-this-one/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/20/a9b425f0-51b4-478a-b77a-3b4d399855d9/observatoryaipandemica.jpg",
+          "width": 3424,
+          "height": 2568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-are-key-to-fighting-this-one/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-are-key-to-fighting-this-one/",
+      "publishedDateTime": "2020-08-21T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-banks-see-pressure-in-ai-race-from-fintechs-and-big-tech.md",
+      "title": "Banks See Pressure in AI Race From Fintechs and Big Tech",
+      "excerpt": "Fintech and big technology companies could outpace traditional banks in the race to develop AI tools that help personalize services, evaluate credit risk and more, analysts and industry executives say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/banks-see-pressure-in-ai-race-from-fintechs-and-big-tech-11598002201",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-223391/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-21T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-losses-mount-at-british-unicorn-graphcore-as-it-pours-cash-into-ai-chips.md",
+      "title": "Losses mount at British unicorn Graphcore as it pours cash into AI chips",
+      "excerpt": "The Bristol-based company said it had almost doubled the size of its headcount to accelerate development of the technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-1_trans_NvBQzQNjv4BqnY32puTRmJBD0IQz1kt_ZVqZFC3fB4GuhEoILEGfoek.png",
+          "width": 1402,
+          "height": 876,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/amp/",
+      "publishedDateTime": "2020-08-21T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-ai-just-won-a-series-of-simulated-dogfights-against-a-human-f-16-pilot-5-0-what-does-that-mean.md",
       "title": "AI Just Won A Series Of Simulated Dogfights Against A Human F-16 Pilot, 5-0. What Does That Mean?",
       "excerpt": "On the face of it, man lost badly to machine in DARPA's AlphaDogfight Trials. But that simplification doesn't match current realities.",
@@ -448,10 +689,10 @@
       "title": "Kamala Harris shines spotlight on trailblazing Black women in her 2020 DNC speech",
       "excerpt": "Calif., accepted the Democratic Party's nomination for vice president Wednesday night, she did so by recognizing the trailblazing women who came before her. \"That I am here tonight is a testament to the dedication of generations before me,",
       "sourceUrl": null,
-      "webUrl": "https://www.goodmorningamerica.com/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044",
+      "webUrl": "https://abcnews.go.com/GMA/Culture/kamala-harris-shines-spotlight-trailblazing-black-women-2020/story?id=72492044",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -464,13 +705,13 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044",
-      "cdnAmpWebUrl": "https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044",
-      "publishedDateTime": "2020-08-20T10:06:00-07:00",
+      "ampWebUrl": "https://goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044",
+      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044",
+      "publishedDateTime": "2020-08-20T10:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GMA",
-        "domain": "goodmorningamerica.com",
+        "name": "ABC",
+        "domain": "go.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1031,7 +1272,7 @@
       "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1192,238 +1433,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-ibm-uses-ai-to-evaluate-risk-of-developing-genetic-diseases.md",
-      "title": "IBM uses AI to evaluate risk of developing genetic diseases",
-      "excerpt": "In a new Nature Communications study, researchers at IBM, the Broad Institute, and Color find evidence that genetic mutations don't always cause disease.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/20/ibm-uses-ai-to-evaluate-risk-of-developing-genetic-diseases/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/f77d6f41-6a8a-4e8f-bd4b-0be639603669-e1597781187824.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/20/ibm-uses-ai-to-evaluate-risk-of-developing-genetic-diseases/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/ibm-uses-ai-to-evaluate-risk-of-developing-genetic-diseases/amp/",
-      "publishedDateTime": "2020-08-20T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-aws-reveals-first-quantum-computing-partners.md",
-      "title": "AWS reveals first quantum computing partners",
-      "excerpt": "Amazon Web Services (AWS) has announced that it will allow all existing customers to access quantum computers through its cloud service. The quantum computers are early-stage models provided by three technology companies—D-Wave Systems Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/gKk5CXdZ86gaRYtnGWCw2j-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners",
-      "publishedDateTime": "2020-08-20T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-deepracer-womens-league-to-help-women-develop-machine-learning-skills.md",
-      "title": "DeepRacer Women’s League to help women develop machine learning skills",
-      "excerpt": "The Amazon Web Services DeepRacer Women’s League in Southeast Asia aims to give more women the opportunity to develop or fine-tune their machine learning skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jakpost.net/c/profile/picture/235/235.png",
-          "width": 475,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "publishedDateTime": "2020-08-20T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jakarta Post",
-        "domain": "thejakartapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-3-ways-fintech-can-help-you-automate-your-finances-during-covid-19.md",
-      "title": "3 Ways Fintech Can Help You Automate Your Finances During COVID-19",
-      "excerpt": "Even before the bulk of bank branches temporarily closed their brick-and-mortar doors because of the COVID-19 pandemic, a great deal of personal banking was done via click, tap or swipe. Today, demand for digital financial services is going through the roof.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/personal-finance/ways-fintech-can-help-you-automate-your-finances/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbes.com/advisor/wp-content/uploads/2020/07/getty_automate_fintech_081720pm_jpg_wYwcTH6B.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/advisor/personal-finance/ways-fintech-can-help-you-automate-your-finances/?amp",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/personal-finance/ways-fintech-can-help-you-automate-your-finances/?amp",
-      "publishedDateTime": "2020-08-19T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-lets-id-the-privacy-and-accuracy-issues-raised-by-facial-recognition.md",
-      "title": "Let's ID the Privacy and Accuracy Issues Raised by Facial Recognition",
-      "excerpt": "PRO's Rob Thompkins covers privacy issues around facial recognition technologies The tremendous benefits of facial recognition technology for law enforcement identification applications have brought with them unparalleled challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.officer.com/files/base/cygnus/ofcr/image/2020/07/16x9/GettyImages_1139860049_copy.5f1f2e6319195.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-19T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Officer",
-        "domain": "officer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

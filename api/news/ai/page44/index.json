@@ -2,6 +2,236 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-07-10-tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket.md",
+      "title": "Tech News: Neuromorphic computing and the brain-on-a-chip in your pocket",
+      "excerpt": "The human brain is relatively small, uses about 20 Watts of power and can accomplish an amazing number of complex tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/1707x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/07/09/50687754/3589663121.jpg&operation=CROP&offset=0x160&resize=1707x960",
+          "width": 651,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "publishedDateTime": "2020-07-09T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-chinese-self-driving-start-up-weride-to-test-fully-driverless-cars-in-guangzhou.md",
+      "title": "Chinese self-driving start-up WeRide to test fully driverless cars in Guangzhou",
+      "excerpt": "WeRide’s permit for road tests of fully driverless cars on the open road takes it one step closer to the realisation of fully driverless mobility services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/10/f6c28a28-c267-11ea-8c85-9f30eae6654e_image_hires_124612.jpg?itok=sr-PXq_S&v=1594356378",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars",
+      "publishedDateTime": "2020-07-09T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-exclusive-amazon-plans-at-least-100-million-to-keep-zoox-talent-after-13-billion-deal.md",
+      "title": "Exclusive: Amazon plans at least $100 million to keep Zoox talent after $1.3 billion deal",
+      "excerpt": "Amazon.com Inc plans to create at least $100 million in stock awards to retain the 900-plus employees of Zoox, the self-driving car startup it offered to buy last month, and can walk away from the deal if large numbers of them turn down job offers from the technology giant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-amazon-com-zoox-exclusive/exclusive-amazon-plans-at-least-100-million-to-keep-zoox-talent-after-1-3-billion-deal-idUSKBN24A3C8",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200709&t=2&i=1525229344&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG681UD",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24A3C8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24A3C8",
+      "publishedDateTime": "2020-07-09T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023.md",
+      "title": "AI in Fintech Market 2019: UpStream and Downstream Fundamentals, Import-Export Data, Rapidly Increasing Growth Rate and Revenue Share Till 2023",
+      "excerpt": "According to the latest research “AI in Fintech Market” share is predicted to gain better growth in upcoming years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023-2020-07-10",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T18:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-artificial-intelligence-will-aid-in-better-decision-making-capacity.md",
+      "title": "‘Artificial Intelligence will aid in better decision-making capacity’",
+      "excerpt": "MUMBAI: Artificial intelligence (AI) will not only help to resolve complex global problems but can enable businesses make better decisions on a day-to-day basis if applied well, said panelists at the Mint Pivot or Perish webinar on automation in the new normal post covid pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity-11594342977989.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/07/10/600x338/AI-kkGH--621x414@LiveMint_1594343197035.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity/amp-11594342977989.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity/amp-11594342977989.html",
+      "publishedDateTime": "2020-07-09T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-elon-musk-brags-that-tesla-is-very-close-to-full-level-5-self-driving.md",
       "title": "Elon Musk Brags That Tesla Is “Very Close” to Full, Level 5 Self Driving",
       "excerpt": "That dream, formally known as Level 5 autonomy, is probably still many years out — but Tesla CEO Elon Musk believes it could be right around the corner. In a video message recorded for the opening of Shanghai’s annual World Artificial Intelligence Conference (WAIC),",
@@ -1157,222 +1387,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-ai-helps-british-research-center-use-machine-learning-to-fight-covid-19.md",
-      "title": "AI helps British research center use machine learning to fight COVID-19",
-      "excerpt": "Using the Israeli company's technology, the center can now conduct more experiments, utilize resources more efficiently, and speed up completion of data science models",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/cybertech/ai-helps-british-research-center-use-machine-learning-to-fight-covid-19-634506",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/cybertech/ai-helps-british-research-center-use-machine-learning-to-fight-covid-19-634506/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/ai-helps-british-research-center-use-machine-learning-to-fight-covid-19-634506/amp",
-      "publishedDateTime": "2020-07-09T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-imec-and-globalfoundries-announce-breakthrough-in-ai-chip.md",
-      "title": "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip",
-      "excerpt": "Imec, a research and innovation hub in nanoelectronics and digital technologies, and GLOBALFOUNDRIES (GF), a specialty foundry, announced a hardware demonstration of a new artificial intelligence chip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/off-the-wire/imec-and-globalfoundries-announce-breakthrough-in-ai-chip/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/white-house-shutterstock_147037244-copy-405x228.jpg",
-          "width": 405,
-          "height": 228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-jonckers-announces-new-ceo.md",
-      "title": "Jonckers Announces New CEO",
-      "excerpt": "Silke Zschweigert Newly appointed CEO of Jonckers - a global leader in language platform technology and multilingual solutions (Photo: Business Wire) “I’m very privileged to be asked by the Board to be the next CEO of this dynamic and forward-thinking company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.oleantimesherald.com/business/jonckers-announces-new-ceo/article_8f27717f-eec2-50de-bde3-851fcfac9078.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/custom/image/6e0114c2-753e-11e6-8652-4b3e0020306e.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Olean Times Herald",
-        "domain": "oleantimesherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-artificial-intelligence-the-case-for-regulation.md",
-      "title": "Artificial Intelligence: The Case for Regulation",
-      "excerpt": "With every passing day, technology becomes increasingly indispensable in our world. Inventions such as electricity, the motor car, and the internet stand out as technological advancements which have transformed our entire society.",
-      "sourceUrl": null,
-      "webUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cherwell.org/wp-content/uploads/2020/07/08132344/AI-1-e1594305662408.png",
-          "width": 850,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
-      "cdnAmpWebUrl": "https://cherwell-org.cdn.ampproject.org/c/s/cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
-      "publishedDateTime": "2020-07-09T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cherwell Online",
-        "domain": "cherwell.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-ask-a-techspert-how-do-machine-learning-models-explain-themselves.md",
-      "title": "Ask a Techspert: How do machine learning models explain themselves?",
-      "excerpt": "Editor’s Note: Do you ever feel like a fish out of water? Try being a tech novice and talking to an engineer at a place like Google. Ask a Techspert is a series on the Keyword asking Googler experts to explain complicated technology for the rest of us. This isn’t meant to be comprehensive, but just enough",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/-_ky4crC.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/amp/",
-      "publishedDateTime": "2020-07-09T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

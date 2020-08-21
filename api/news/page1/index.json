@@ -2,6 +2,247 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-21-how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live.md",
+      "title": "How machine learning helps companies stay agile in a pandemic (VB Live)",
+      "excerpt": "Join this VB LIve event to learn how machine learning has offered companies powerful ways to adapt in these uncertain times.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1204589859-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/amp/",
+      "publishedDateTime": "2020-08-21T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-seven-ways-artificial-intelligence-is-disrupting-the-retail-industry.md",
+      "title": "Seven Ways Artificial Intelligence Is Disrupting The Retail Industry",
+      "excerpt": "If your organization is considering going the AI way, you will do well to know how other retailers have used it to offer disruptive solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/21/seven-ways-artificial-intelligence-is-disrupting-the-retail-industry/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3e72deaffda4d96e00e24e%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/21/seven-ways-artificial-intelligence-is-disrupting-the-retail-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/21/seven-ways-artificial-intelligence-is-disrupting-the-retail-industry/amp/",
+      "publishedDateTime": "2020-08-21T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-can-fight-this-one.md",
+      "title": "AI may not predict the next pandemic, but big data and machine learning can fight this one",
+      "excerpt": "Tech leaders increase project development and implementation (TechRepublic Premium) Admittedly, August is not as bad as March for Spain, but it's still not a situation many foresaw. Arenas' predictions were based on mathematical modeling and underline the important role technology can play in the timing of decisions about the virus and understanding its spread.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-are-key-to-fighting-this-one/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/20/a9b425f0-51b4-478a-b77a-3b4d399855d9/observatoryaipandemica.jpg",
+          "width": 3424,
+          "height": 2568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-are-key-to-fighting-this-one/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-are-key-to-fighting-this-one/",
+      "publishedDateTime": "2020-08-21T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-banks-see-pressure-in-ai-race-from-fintechs-and-big-tech.md",
+      "title": "Banks See Pressure in AI Race From Fintechs and Big Tech",
+      "excerpt": "Fintech and big technology companies could outpace traditional banks in the race to develop AI tools that help personalize services, evaluate credit risk and more, analysts and industry executives say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/banks-see-pressure-in-ai-race-from-fintechs-and-big-tech-11598002201",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-223391/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-21T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-losses-mount-at-british-unicorn-graphcore-as-it-pours-cash-into-ai-chips.md",
+      "title": "Losses mount at British unicorn Graphcore as it pours cash into AI chips",
+      "excerpt": "The Bristol-based company said it had almost doubled the size of its headcount to accelerate development of the technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-1_trans_NvBQzQNjv4BqnY32puTRmJBD0IQz1kt_ZVqZFC3fB4GuhEoILEGfoek.png",
+          "width": 1402,
+          "height": 876,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/amp/",
+      "publishedDateTime": "2020-08-21T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-ai-just-won-a-series-of-simulated-dogfights-against-a-human-f-16-pilot-5-0-what-does-that-mean.md",
       "title": "AI Just Won A Series Of Simulated Dogfights Against A Human F-16 Pilot, 5-0. What Does That Mean?",
       "excerpt": "On the face of it, man lost badly to machine in DARPA's AlphaDogfight Trials. But that simplification doesn't match current realities.",
@@ -497,10 +738,10 @@
       "title": "Kamala Harris shines spotlight on trailblazing Black women in her 2020 DNC speech",
       "excerpt": "Calif., accepted the Democratic Party's nomination for vice president Wednesday night, she did so by recognizing the trailblazing women who came before her. \"That I am here tonight is a testament to the dedication of generations before me,",
       "sourceUrl": null,
-      "webUrl": "https://www.goodmorningamerica.com/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044",
+      "webUrl": "https://abcnews.go.com/GMA/Culture/kamala-harris-shines-spotlight-trailblazing-black-women-2020/story?id=72492044",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -513,13 +754,13 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044",
-      "cdnAmpWebUrl": "https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044",
-      "publishedDateTime": "2020-08-20T10:06:00-07:00",
+      "ampWebUrl": "https://goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044",
+      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044",
+      "publishedDateTime": "2020-08-20T10:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GMA",
-        "domain": "goodmorningamerica.com",
+        "name": "ABC",
+        "domain": "go.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -954,237 +1195,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-ai-as-a-blueprint-for-fintech-startups.md",
-      "title": "AI as a blueprint for fintech startups",
-      "excerpt": "FINRA’s AI Report is particularly interesting for fintechs since it explores how firms are deploying AI as well as the agency's expectations for AI oversight.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1155413889.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/amp/",
-      "publishedDateTime": "2020-08-20T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-this-cto-says-ai-technology-will-accelerate-sustainable-investing-and-create-a-more-equitable-society.md",
-      "title": "This CTO Says AI Technology Will Accelerate Sustainable Investing And Create A More Equitable Society",
-      "excerpt": "ESG investing, which accounts for a company’s environmental, social and governance ratings alongside traditional financial metrics, and the concept of “stakeholder capitalism” over shareholder profitability had been growing trends even before the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/08/20/this-cto-says-ai-technology-will-accelerate-sustainable-investing-and-create-a-more-equitable-society/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3d4b948c2be25133e3bf10%2F0x0.jpg",
-          "width": 960,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/08/20/this-cto-says-ai-technology-will-accelerate-sustainable-investing-and-create-a-more-equitable-society/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesmarketplace/2020/08/20/this-cto-says-ai-technology-will-accelerate-sustainable-investing-and-create-a-more-equitable-society/amp/",
-      "publishedDateTime": "2020-08-20T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open.md",
-      "title": "Self-Driving Cars To Transport Golfers And Caddies At The Wales Open",
-      "excerpt": "One of the first deployments of autonomous vehicles at a major sporting event will transport players from clubhouse to tee",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3e635ba94645e96df9ef85%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/amp/",
-      "publishedDateTime": "2020-08-20T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-allscripts-collaboration-to-advance-healthcare-innovation.md",
-      "title": "Allscripts' Collaboration to Advance Healthcare Innovation",
-      "excerpt": "ARC Innovation brings in new technologies into the hospital and community healthcare ecosystem to further enhance patient care. Moreover, it aids data fluidity and integration between innovators, scientists,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/allscripts-collaboration-to-advance-healthcare-innovation-2020-08-20",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/allscripts-collaboration-to-advance-healthcare-innovation-2020-08-20?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/allscripts-collaboration-to-advance-healthcare-innovation-2020-08-20?amp",
-      "publishedDateTime": "2020-08-20T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-ai-in-the-middle-east-heres-what-you-need-to-know.md",
-      "title": "AI in the Middle East: Here's what you need to know",
-      "excerpt": "Investment is enabling the Middle East and Africa region to explore the potential that artificial intelligence may deliver.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-in-the-middle-east-heres-what-you-need-to-know/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/08/19/8b2be6c4-d368-4213-bb48-72125da298ba/ibminstituteforbusinessvaluemeai.jpg",
-          "width": 1050,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-in-the-middle-east-heres-what-you-need-to-know/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-in-the-middle-east-heres-what-you-need-to-know/",
-      "publishedDateTime": "2020-08-20T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

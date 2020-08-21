@@ -54,6 +54,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "China's Sanya to develop technologies for self-driving cars and supermarkets"
+    excerpt: "SANYA, August 18. /TASS/. The Sanya authorities will develop technologies for self-driving transport and commercial firms, according to Hianan's Comprehensive Smart Technology Program for 2020 ..."
+    publishedDateTime: 2020-08-18T09:44:00Z
+    webUrl: "https://tass.com/economy/1190827"
+    ampWebUrl: "https://tass.com/economy/1190827/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/economy/1190827/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 21
 
 secured: "aZrqmTWjrVn+DcXG64hyjcp8K5GAQryoO9ijt/vXayt0dn2m0hbGF0FjDNpKT9HdnnRotUnw94MDGkL7RJQgJ3nhOBUzpKDDSziLEkVjb2lifZUlMzqPKzWBkYSMYgWhnowu+HXS+LmESikb2UpoStsNFOshrpfL2y25wP8QFSJagEBzWsg03/hFIiZOiz+8kCciobb9IgJLyNcyUf70E/30kIt/Zk4yGfWQNc1iqlqpF/O2N50+SgeIFEsFAVMdZWHbvhykN+Sah4b6W+QRm9OvZwRNWcapvlGht7FrRUpwYGH23mPNkjGSyj8NcxBsfBstPhZl88K1xArYLao/RQ==;fernGCuUkYscve8cbiuqLA=="
 ---

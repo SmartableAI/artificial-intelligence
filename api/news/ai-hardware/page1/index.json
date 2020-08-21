@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-21-losses-mount-at-british-unicorn-graphcore-as-it-pours-cash-into-ai-chips.md",
+      "title": "Losses mount at British unicorn Graphcore as it pours cash into AI chips",
+      "excerpt": "The Bristol-based company said it had almost doubled the size of its headcount to accelerate development of the technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-1_trans_NvBQzQNjv4BqnY32puTRmJBD0IQz1kt_ZVqZFC3fB4GuhEoILEGfoek.png",
+          "width": 1402,
+          "height": 876,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/amp/",
+      "publishedDateTime": "2020-08-21T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-mobiustrend-it-giants-enter-into-semiconductor-business-with-3d-hologram-vision-ai-chip.md",
       "title": "MobiusTrend: IT Giants Enter into Semiconductor Business with 3D Hologram Vision AI Chip",
       "excerpt": "MobiusTrend, a market research organization in Hong Kong, recently released a research report on ' IT Giants Enter into Semiconductor Business with 3D Hologram Vision AI Chip '. Integrated circuits and software are the cornerstones of the current digital economy and information society.",
@@ -1301,47 +1343,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform.md",
-      "title": "cnvrg.io AI OS Delivers Accelerated ML Workloads of All Sizes with Native Support of NVIDIA A100 Multi-Instance GPU to its ML Platform",
-      "excerpt": "PRNewswire/ -- cnvrg.io AI OS for machine learning today announces native integration of NVIDIA multi-instance GPU (MIG) technology to its data",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1160338/cnvrg_io_Logo.jpg?p=facebook",
-          "width": 796,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

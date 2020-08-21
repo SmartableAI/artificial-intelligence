@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-23-nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry.md",
+      "title": "NVIDIA Considers Arm Acquisition In A Deal That Could Upend The Chip Industry",
+      "excerpt": "Arm deal could send shockwaves far and wide in the chip industry, giving its rivals numerous new reasons to lose sleep",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/07/23/nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f19d9384414eeb1acf187dd%2F0x0.jpg",
+          "width": 800,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2020/07/23/nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/07/23/nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry/amp/",
+      "publishedDateTime": "2020-07-23T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center.md",
       "title": "Elon Musk claims his brain chip can stimulate your pleasure center",
       "excerpt": "Neuralink‘s mission has never quite been clear. We know it’s working on a chip designed to be surgically inserted into the human skull called a brain-computer interface (BCI), but exactly what and who it’s for remains a bit of a mystery.",
@@ -1356,57 +1406,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware.md",
-      "title": "OpenCV AI Kit aims to do for computer vision what Raspberry Pi did for hobbyist hardware",
-      "excerpt": "A new gadget called the OpenCV AI Kit, or OAK, looks to replicate the success of Raspberry Pi and other minimal computing solutions, but for the growing fields of computer vision and 3D perception. Its new multi-camera PCBs pack a lot of capability into a small,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/oak-opencv.gif",
-          "width": 670,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware/amp/",
-      "publishedDateTime": "2020-07-14T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Computer Vision"
       ]
     }
   ],

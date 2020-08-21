@@ -2,6 +2,238 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-08-14-google-open-sources-lit-a-toolset-for-evaluating-natural-language-models.md",
+      "title": "Google open-sources LIT, a toolset for evaluating natural language models",
+      "excerpt": "Google-affiliated researchers developed an open source framework -- Language Interpretability Tool (LIT) designed to explore and audit language models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/14/google-open-sources-lit-a-toolset-for-evaluating-natural-language-models/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/figure-1-e1597419390343.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/14/google-open-sources-lit-a-toolset-for-evaluating-natural-language-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/14/google-open-sources-lit-a-toolset-for-evaluating-natural-language-models/amp/",
+      "publishedDateTime": "2020-08-14T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-michigan-self-driving-vehicle-corridor-aims-to-lead-nation.md",
+      "title": "Michigan Self-Driving Vehicle Corridor Aims to Lead Nation",
+      "excerpt": "Michigan is working to build a first-in-the-nation autonomous vehicle corridor in its southeast corner, a new bid to ensure the region remains the epicenter of an auto industry moving rapidly to a tech-driven future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_614402420.jpg",
+          "width": 840,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP",
+      "publishedDateTime": "2020-08-14T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-giant-lawsuit-alleges-instagram-used-face-recognition-illegally.md",
+      "title": "Giant Lawsuit Alleges Instagram Used Face Recognition Illegally",
+      "excerpt": "A new $500 billion class-action lawsuit alleges Instagram collects and stores people's biometric data without their consent.",
+      "sourceUrl": null,
+      "webUrl": "https://nerdist.com/article/lawsuit-instagram-face-recognition-california/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nerdist.com/wp-content/uploads/2020/08/Lawsuit-against-Instagram-feature-image-08132020.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nerdist.com/article/lawsuit-instagram-face-recognition-california/?amp",
+      "cdnAmpWebUrl": "https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/article/lawsuit-instagram-face-recognition-california/?amp",
+      "publishedDateTime": "2020-08-14T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nerdist",
+        "domain": "nerdist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return.md",
+      "title": "AI, analytics, and NLP are valuable, despite lack of obvious financial return",
+      "excerpt": "Instead of focusing on return to business, consider how technologies can give your business a competitive advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/",
+      "publishedDateTime": "2020-08-14T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai.md",
+      "title": "Problematic study on Indiana parolees seeks to predict recidivism with AI",
+      "excerpt": "A four-year effort to monitor parolees in Indiana with bracelets and use AI algorithms to predict their behavior raises red flags.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/14/problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/d7b050fc-6639-41e3-b2d3-3a13a7ee0bc2-e1597361985605.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/14/problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/14/problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai/amp/",
+      "publishedDateTime": "2020-08-14T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-urban-autonomy-the-next-stage-of-self-driving.md",
       "title": "Urban Autonomy: The Next Stage Of Self-Driving",
       "excerpt": "Driving on city streets versus the highway presents an exponentially more complicated situation stemming from the visual perception problem.",
@@ -1155,256 +1387,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers.md",
-      "title": "IBM launches three free AI-focused online learning platforms for young people and their teachers",
-      "excerpt": "Teachers working with younger students in the K-8 range can use IBM's Teacher Advisor with Watson to better plan lessons that meet the individual needs of their students. Rather than teaching particular AI-based skills and information about emerging ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/",
-      "publishedDateTime": "2020-08-13T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-listen-to-rrelationships-threads-read-by-an-ai-generated-david-attenborough.md",
-      "title": "Listen to r/Relationships Threads Read by an AI-Generated David Attenborough",
-      "excerpt": "\"My boyfriend (22m) insists he was 'joking' with me (20f) after he said he had sex with a coworker after driving her home,\" David ... it to YouTube. The channel updates with new Reddit posts from r/Relationships and r/AskReddit, narrated with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.youtube.com/watch?v=uGAH6nLknNA&feature=youtu.be",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uGAH6nLknNA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-root-ai-raises-72m-seed-round-to-deploy-its-harvesting-robot-amid-covid-19-fueled-demand.md",
-      "title": "Root AI raises $7.2M seed round to deploy its harvesting robot amid COVID-19-fueled demand",
-      "excerpt": "By all accounts, the COVID-19 pandemic has accelerated the adoption of robotics and automation by months, if not years. The reasons are fairly clear — robotics don’t call in sick, nor are they disease vectors in the same manner as their human counterparts.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/unnamed-1.jpg?w=1024",
-          "width": 1024,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/amp/",
-      "publishedDateTime": "2020-08-13T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-gpt-3-explained-this-new-language-ai-is-uncanny-funny-and-a-big-deal.md",
-      "title": "GPT-3, explained: This new language AI is uncanny, funny — and a big deal",
-      "excerpt": "You teach the AI how to produce the outputs ... To do natural language processing (speech recognition, transcription, translation, etc.), they drew on the field of linguistics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/future-perfect/21355768/gpt-3-ai-openai-turing-test-language",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/RFXuHbmdNJbrUXXcT9XZvsIq_4g=/0x0:5308x3539/1400x1050/filters:focal(1249x823:2097x1671):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67198115/1178810737.jpg.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/future-perfect/21355768/gpt-3-ai-openai-turing-test-language",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/future-perfect/21355768/gpt-3-ai-openai-turing-test-language",
-      "publishedDateTime": "2020-08-13T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-book-review-turning-point-an-excellent-introduction-to-policy-issues-involving-artificial-intelligence.md",
-      "title": "Book Review – “Turning Point”, An Excellent Introduction To Policy Issues Involving Artificial Intelligence",
-      "excerpt": "Turning Point” is an excellent book that decision makers can use as a tutorial to understand the growing importance of policy related to AI, policy in both the public and private sectors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/08/13/book-review--turning-point-an-excellent-introduction-to-policy-issues-involving-artificial-intelligence/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/08/13/book-review--turning-point-an-excellent-introduction-to-policy-issues-involving-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/08/13/book-review--turning-point-an-excellent-introduction-to-policy-issues-involving-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-08-13T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

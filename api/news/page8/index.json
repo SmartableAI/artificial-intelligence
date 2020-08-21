@@ -2,6 +2,238 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-08-13-ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots.md",
+      "title": "AI researchers devise cheap data collection method to scale training robots",
+      "excerpt": "Researchers used a GoPro camera and a reacher-grabber device to gather robotic training data, a cheap approach that could someday improve home robots.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/download-1.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/amp/",
+      "publishedDateTime": "2020-08-13T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-drug-discovery-informatics-market-sales-insights-growth-impact-future-dynamics-covid-19-impact-size-projection-and-industry-dynamics-by-2023.md",
+      "title": "Drug Discovery Informatics Market Sales Insights, Growth Impact, Future Dynamics, COVID-19 Impact, Size Projection and Industry Dynamics By 2023",
+      "excerpt": "Drug Discovery Informatics Market Overview: The global report on the drug discovery informatics market, as Market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/drug-discovery-informatics-market-sales-insights-growth-impact-future-dynamics-covid-19-impact-size-projection-and-industry-dynamics-by-2023-2020-08-13?mod=mw_quote_news&tesla=y",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-13T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-improving-online-learning-and-more-with-artificial-intelligence.md",
+      "title": "Improving Online Learning and More with Artificial Intelligence",
+      "excerpt": "Artificial intelligence is gaining traction in classrooms, research labs and physical plants on campus. Tommy Peterson is a freelance journalist who specializes in business and technology and is a frequent contributor to the CDW family of technology magazines.",
+      "sourceUrl": null,
+      "webUrl": "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp",
+      "publishedDateTime": "2020-08-13T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdTech",
+        "domain": "edtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-bright-pattern-selected-as-finalist-for-disruptive-technology-solution-of-the-year-for-customer-contact-week-ccw-excellence-awards.md",
+      "title": "Bright Pattern Selected as Finalist for 'Disruptive Technology Solution of the Year' for Customer Contact Week (CCW) Excellence Awards",
+      "excerpt": "PRNewswire/ -- Bright Pattern, leading provider of AI-powered omnichannel cloud contact center software, announces its placement as a finalist for the",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/in/news-releases/bright-pattern-selected-as-finalist-for-disruptive-technology-solution-of-the-year-for-customer-contact-week-ccw-excellence-awards-822616149.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/634980/Bright_Pattern___Logo.jpg?p=facebook",
+          "width": 1620,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-13T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images.md",
+      "title": "Pro-China Propaganda Act Used Fake Followers Made With AI-Generated Images",
+      "excerpt": "China propaganda campaign on social media has been creating fake followers with the help of AI-generated images of seemingly real, but fictitious people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00UDuUnhr79dyJteBBPWt2c-4.fit_lim.size_1200x630.v_1597339528.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images?amp=true",
+      "publishedDateTime": "2020-08-13T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-expanding-scientific-portfolios-and-adapting-to-a-changing-world-with-amazon-personalize.md",
       "title": "Expanding scientific portfolios and adapting to a changing world with Amazon Personalize",
       "excerpt": "This is a guest blog post by David A. Smith at Thermo Fisher. In their own words, “Thermo Fisher Scientific is the world leader in serving science. Our Mission is to enable our customers to make the world healthier, cleaner, and safer. Whether our customers are accelerating life sciences research, solving",
@@ -950,247 +1182,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Size to Witness Huge Growth by 2025",
-      "excerpt": "Growth forecast report \" Machine Learning as a Service (MLaaS) Market size by Product Type (Special Service and Management Services), By Application (Banking, Financial Services, Insurance, Automobile,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025-2020-08-13",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-global-computer-vision-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2025.md",
-      "title": "Global Computer Vision Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2025",
-      "excerpt": "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an orderly representation of the market that contains the historical data and key insights pertaining to market trends,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2025-2020-08-12",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-inside-track-covid-19-is-forcing-corporate-legal-departments-to-spend-more-on-outside-counsel.md",
-      "title": "Inside Track: COVID-19 Is Forcing Corporate Legal Departments to Spend More on Outside Counsel",
-      "excerpt": "Recent surveys found in-house counsel are spending more on outside counsel to handle mostly urgent and unplanned matters connected to the novel coronavirus. Also, the pandemic has created so many changes that may be hitting legal departments at unexpected angles.",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-amazon-textract-now-available-in-asia-pacific-mumbai-and-eu-frankfurt-regions.md",
-      "title": "Amazon Textract now available in Asia Pacific (Mumbai) and EU (Frankfurt) Regions ",
-      "excerpt": "You can now use Amazon Textract, a machine learning (ML) service that quickly and easily extracts text and data from forms and tables in scanned documents, for workloads in the AWS Asia Pacific (Mumbai) and EU (Frankfurt) Regions. Amazon Textract goes beyond simple optical character recognition (OCR)",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-textract-now-available-in-asia-pacific-mumbai-and-eu-frankfurt-regions/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T15:49:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-large-provider-of-veterinary-products-selects-celebros-ai-search-to-power-their-ecommerce-search-experience.md",
-      "title": "Large Provider of Veterinary Products Selects Celebros AI Search to Power Their eCommerce Search Experience",
-      "excerpt": "(NASDAQ: BLIN), a provider of cloud-based digital experience software, announced today that a leading provider of animal health and veterinary products has selected Celebros Search by Bridgeline as their site search solution for their online store.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/large-provider-of-veterinary-products-selects-celebros-ai-search-to-power-their-ecommerce-search-experience-2020-08-12",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Navya pilots self-driving paratransit shuttle on Detroit streets"
-excerpt: "A self-driving paratransit shuttle pilot is being deployed to help senior citizens in Detroit. Last year, French company Navya received a mobility grant from PlanetM, the Michigan Economic Development Corp."
+excerpt: "Detroit has been getting a lot of attention on the self-driving vehicle front recently. Just last week, the State of Michigan said it has embarked on efforts to create a corridor between Detroit and Ann Arbor with infrastructure specifically slated for connected and autonomous vehicles."
 publishedDateTime: 2020-08-19T17:35:00Z
-webUrl: "https://www.crainsdetroit.com/mobility/navya-pilots-self-driving-paratransit-shuttle-detroit-streets"
+webUrl: "https://www.autonews.com/mobility-report/navya-pilots-self-driving-paratransit-shuttle-detroit-streets"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Crain's Detroit
-  domain: crainsdetroit.com
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/Navya%20Shuttle-MAIN_i.jpg"
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Navya%20Shuttle-MAIN_i.jpg"
     width: 800
     height: 600
     isCached: true
@@ -41,6 +41,6 @@ related:
         height: 960
         isCached: true
 
-secured: "s7JUNSani7DUPlsbLpwYY0lCRSwW4vMoK7JFrV5bl53hf5knyGkOn3goflgueHQdggchwJV8L3EzoLKSm/+i+h9iRUjgLr+nqtm0/vYl/R4OYzFvDjItCpjEvez22KGtn2rFLoWWY7BTwRDou0y+DZCPbPiiK+MllOsUuem43cPUsGZ55W9/NBACcGILmuv5kNW5zEL+VRqD4uEymsr8Ovzxv0WDqxDJI0TyFEAf+prit4RlxTZh6hUFkgG/jjFr12hO1FRElPwObaOyy6bvZ/zk2JZ98kUe1/ZTAkeV3QMl8vUXrstphYV7UfY3hV62vYq3e38HAzgAWYnprxn/LA4JXs2zm3ndzgk6iIHO9ilpT/cmVs1Z4crBOVbggHuer05VhL/QXdEuG41wFSF6SSuLkQAi35MUHgGbRbk5XR/kRE+HKeQOjaQIe/JlAiBJnrkzxP7F9HPewI1Z49YtdmM0yLXQKcL+jE0LxNlkM/a9iLVaGZgER5CqpZ//10IfuTm5VwtjTBBOwpIJPOHuUw==;3hcW//jjErrU3t2IUkb7eg=="
+secured: "2Mm0suQD3Mm7aSw05A9RMP5H5smwCT21d85PKcgvdmuU03JjpA8rLTcmuP7hB3c8oDHf94+W687SO+m9mg9SdJAbwBWtt0vvln7m/3bycdGWQOZx8eM95s9/Z2vTrCWuqIt40f4B35Esyd0EGjS1WfNzbqdh+HeslGjzP3hY+sVLWrUNhhsJrr4A6Ahk+nv/bcBWO6Bho9gp2viH3h5nO8DQ6o52OFsyO+lapW7nHRbGldmJdpImyU8ns1ygmuXtmFNPdpfJGwSsyVc9+ifu3pe5314CvYy9VKhKuD3iq7+luPmpi3FVVDqu0DMC9evhLnNtcSIKg4T0bDyRCPVf2Q==;X3ZDxqCZQH6UZGW3WLrf8A=="
 ---
 

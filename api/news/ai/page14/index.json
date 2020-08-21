@@ -2,6 +2,237 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-08-05-how-blockchain-benefits-from-artificial-intelligence.md",
+      "title": "How Blockchain Benefits From Artificial Intelligence",
+      "excerpt": "Despite being around for many decades, the replication of human intelligence in machines — artificial intelligence — has now become popularized. With many tech companies rushing to adopt the ...",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81MjU3MmFkODM2NDhkNmIwMmMxNmY1MjJlYzdlNmRiZC5qcGc=.jpg",
+          "width": 370,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence/amp",
+      "publishedDateTime": "2020-08-05T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025.md",
+      "title": "Artificial Intelligence Robotics Market: A Straight Overview of Growing Market & Future Trend by 2025",
+      "excerpt": "Growing adoption of automated machinery, as well as Artificial Intelligence (AI), enabled robots in personal use such as commercial applications has propelled the demand for artificial intelligence in robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025-2020-08-05?dist=bigcharts&tesla=y",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre.md",
+      "title": "Artificial Intelligence Robots Market By Size, Growth, Opportunity and Forecast to 2025 – MRE",
+      "excerpt": "Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence. It’s definitely the foremost controversial: everyone agrees that a mechanism will add a production line,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre-2020-08-05",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-why-organizations-might-want-to-design-and-train-less-than-perfect-ai.md",
+      "title": "Why organizations might want to design and train less-than-perfect AI",
+      "excerpt": "These days, artificial intelligence systems make our steering wheels vibrate when we drive unsafely, suggest how to invest our money, and recommend workplace hiring decisions. In these situations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90535790/why-organizations-might-want-to-design-and-train-less-than-perfect-ai",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/imperfect-AI.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-zencity-raises-135-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data.md",
+      "title": "Zencity raises $13.5 million to help cities aggregate community feedback with AI and big data",
+      "excerpt": "Zencity, a platform that meshes AI with big data to give municipalities insights and aggregated feedback into the thoughts and opinions of local citizens, has raised $13.5 million in a round of ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Platform_angle_full.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/amp/",
+      "publishedDateTime": "2020-08-05T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-can-machine-learning-for-enterprise-security-advance-like-voice-recognition.md",
       "title": "Can Machine Learning For Enterprise Security Advance Like Voice Recognition?",
       "excerpt": "The generally touted answer for pinpointing an attacker is machine learning. Finding signs of an attack or attacker is a big data problem involving finding meaningful signs and an accurate understanding. Machine learning is seen as a way of finding ...",
@@ -1074,247 +1305,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-university-of-chicago-researchers-are-building-a-tool-to-protect-your-pictures-from-facial-recognition-systems.md",
-      "title": "University of Chicago researchers are building a tool to protect your pictures from facial recognition systems",
-      "excerpt": "The big picture: Face recognition is quickly becoming one of the biggest threats to our privacy, with many startups looking to create commercial services around this technology while exploiting the immense number of photos we've uploaded online. There is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-04-image-16.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html",
-      "publishedDateTime": "2020-08-04T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-federal-bill-would-ban-corporate-facial-recognition-without-consent.md",
-      "title": "Federal bill would ban corporate facial recognition without consent",
-      "excerpt": "Senator Jeff Merkley introduced a bill on Tuesday to prevent private corporations from collecting facial recognition data without people’s consent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/facial-recognition-silhouette-getty-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp",
-      "publishedDateTime": "2020-08-04T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models.md",
-      "title": "The problem of underrepresented languages snowballs from data sets to NLP models",
-      "excerpt": "Just how comprehensively do natural language processing (NLP) pipelines support widely spoken languages? A recent study coauthored by researchers at Clarkson University and Iona College sought to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/04/the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/04/the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models/amp/",
-      "publishedDateTime": "2020-08-04T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-bernie-sanders-and-jeff-merkley-have-a-plan-to-protect-you-from-facial-recognition.md",
-      "title": "Bernie Sanders and Jeff Merkley have a plan to protect you from facial recognition",
-      "excerpt": "Uncovering and explaining how our digital world is changing — and changing us. Sens. Jeff Merkley and Bernie Sanders are proposing more federal regulation for facial recognition technology. Among other limits, their newly announced National Biometric ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/C2_oi-qdv4rsUQVXp7WfmDZD_zA=/0x0:3000x2000/1400x1050/filters:focal(1488x550:1968x1030):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67155167/GettyImages_857192090.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act",
-      "publishedDateTime": "2020-08-04T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-key-brain-region-was-recycled-as-humans-developed-the-ability-to-read.md",
-      "title": "Key brain region was 'recycled' as humans developed the ability to read",
-      "excerpt": "As one example, they suggest that a part of the visual system that is specialized to perform object recognition has been repurposed for a key component of reading called orthographic processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/miot-kbr080420.php",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

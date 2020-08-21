@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Construction Market Rising Trend, Business Opportunities and Scope 2020-2025"
+    excerpt: "The Global Artificial Intelligence In Construction Market Research Report 2020-2025 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost,"
+    publishedDateTime: 2020-08-21T11:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-rising-trend-business-opportunities-and-scope-2020-2025-2020-08-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "North America Machine Learning Market 2020 Global Analysis, Report | Emerging Trends, Growth Drivers To 2023"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 19, 2020 (AmericaNewsHour) -- The value of the machine learning market in North America is expected to reach USD 8.07 Bn by 2023, expanding at a compound annual growth ..."
     publishedDateTime: 2020-08-19T04:44:00Z

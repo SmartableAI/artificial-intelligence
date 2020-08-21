@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-19T20:51:00Z
 webUrl: "https://siliconangle.com/2020/08/19/microsoft-leads-16m-round-ai-data-science-startup-pachyderm/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ images:
     width: 800
     height: 425
     isCached: true
+
+related:
+  - title: "Drones, data science and innovation at the Microsoft Azure Virtual Hackathon in Asia Pacific"
+    excerpt: "By Ricky Kapur, Vice President of Sales, Marketing and Operations, Pacific Innovation comes when developers tackle challenges in new and creative ways. And a hackathon is an excellent opportunity for them to think outside of the box and flex their problem-solving skills."
+    publishedDateTime: 2020-08-20T07:44:00Z
+    webUrl: "https://news.microsoft.com/apac/2020/08/20/drones-data-science-and-innovation-at-the-microsoft-azure-virtual-hackathon-in-asia-pacific/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 43
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/08/drone3-768x576.jpg"
+        width: 768
+        height: 576
+        isCached: true
 
 secured: "Y5WHLrs70zGVTlJTDuvhqobQBqVc6jUKKquJ9OAcgkmkefU2nR+hCPeHyv1IP2O3cpaQUpJWsPQe/TECLqNspsvW7fUcORG9tHQke+lsDmhduafGnuvtjrEc1bLj5hPxRo7JXHBbau4cvBvQ60baK2ThtudXTFmEAculU+51FTksXFx9FukIifUnAyvjM2w4Z+XWTmYXsRx9bb71v1yQX8L3ZIqetv2hUvHMsQHqEH3JcZRAii/U5BCuz8Zkth/B/JF0xZgpxxClEbQxBSP6E2IG/VmxA6Jxgtc2FjCHEWoWHkTDrBhIbEtYbh2o1aJxmFjt1zXGFThWWt92oIAJULKajO30ZKloLJSnydrCO2teCoedpDso6CQiqbFtJptxHmcAdjr4gSXyDbQ6/JUDPup6qH33HHefpBDOoskkFhGaIgdiMoLfg15pIeb6DaRUqWwae6XNGdWO4fJWNXAF8uO2Mvsafekn1D3UbTToXpB/eKFaLlbZfmPynz/ReQfxuASsKy2yjNz63MydkvTgdg==;TUI6LPtDqXUQUp0nrdxu+A=="
 ---

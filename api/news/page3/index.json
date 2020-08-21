@@ -2,6 +2,240 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-19-can-artificial-intelligence-improve-your-customer-service.md",
+      "title": "Can Artificial Intelligence Improve Your Customer Service?",
+      "excerpt": "Machine learning of AI gives intelligent agents ability to minimize escalation events, promote FCR (first contact resolution) and cuts down agent training cost. A Tata consultancy services recent ... Like other financial structures, Bank of America is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/customer-experience/can-artificial-intelligence-improve-your-customer-service-02336788",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2020/08/aicustomerservice-min-900x506.png",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/customer-experience/can-artificial-intelligence-improve-your-customer-service-02336788/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/customer-experience/can-artificial-intelligence-improve-your-customer-service-02336788/amp",
+      "publishedDateTime": "2020-08-19T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-facebook-gamifies-data-collection-to-boost-conversational-ai.md",
+      "title": "Facebook gamifies data collection to boost conversational AI",
+      "excerpt": "In a preprint paper, Facebook researchers propose a gamified approach to collecting data to train conversational AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/d888b4d3-7da0-4bf8-bd75-2d6bff223d84-e1574450154479.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/amp/",
+      "publishedDateTime": "2020-08-19T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world.md",
+      "title": "Tune in today to discuss COVID-19’s impact on the startup world",
+      "excerpt": "We can’t help but wonder what the future of work will look like in the wake of this global pandemic. That’s the timely topic of today’s interactive webinar, COVID-19’s Impact on the Startup World. The second of three in our free series of interactive webinars — exclusively for founders",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/19/tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/45390120154_d2864e1953_c.jpg?w=799",
+          "width": 799,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/19/tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/19/tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world/amp/",
+      "publishedDateTime": "2020-08-19T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer.md",
+      "title": "Cerebras puts ‘world’s largest computer chip’ in Lassen supercomputer",
+      "excerpt": "Lawrence Livermore National Laboratory said it has integrated Cerebras Systems' wafer-scale computer chip into its Lassen supercomputer.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/19/cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/cerebras.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/19/cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer/amp/",
+      "publishedDateTime": "2020-08-19T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-webchartai-accelerates-machine-learning-adoption.md",
+      "title": "WebChartAi Accelerates Machine Learning Adoption",
+      "excerpt": "\"WebChartAi lowers the technology barrier to entry, enabling a broader base of companies to more easily harness the power of NLP-driven task automation.\" In machine learning applications utilizing natural language processing (NLP),",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/webchartai-accelerates-machine-learning-adoption-1029517519",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/webchartai-accelerates-machine-learning-adoption-1029517519",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/webchartai-accelerates-machine-learning-adoption-1029517519",
+      "publishedDateTime": "2020-08-19T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways-by-2021.md",
       "title": "UK to consult on tech that could see self-driving vehicles on freeways by 2021",
       "excerpt": "Self-driving technology could transform the way people undertake car journeys. The U.K. government's announcement was welcomed by a number of organizations. The U.K. government has started a consultation on the use of Automated Lane Keeping System technology on Britain's freeways.",
@@ -644,7 +878,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19?mod=mw_quote_news&tesla=y",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -975,228 +1209,6 @@
         "AI",
         "AI Hardware",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-hot-chips-2020-live-blog-baidu-kunlun-ai-processor-430pm-pt.md",
-      "title": "Hot Chips 2020 Live Blog: Baidu Kunlun AI Processor (4:30pm PT)",
-      "excerpt": "as well as HBM2, and packing 260 TOPs into 150 W. 07:29PM EDT - Last session of Hot Chips is all about ML inference. Starting with Baidu, and its Kunlun AI processor",
-      "sourceUrl": null,
-      "webUrl": "https://www.anandtech.com/show/16008/hot-chips-2020-live-blog-baidu-kunlun-ai-processor-430pm-pt",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.anandtech.com/doci/16008/8%20-%20Baidu_678x452.png",
-          "width": 678,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AnandTech",
-        "domain": "anandtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-cerebras-teases-second-generation-wafer-scale-ai-chip.md",
-      "title": "Cerebras teases second-generation wafer-scale AI chip",
-      "excerpt": "The existing Gen-1 has 18 gigabytes of DRAM on die. Lie told the audience to wait for details \"in coming months.\" Cerebras competes with established GPU heavyweight Nvidia and other startups such as Graphcore and Tachyum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cerebras-teases-second-generation-wafer-scale-ai-chip/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cerebras-teases-second-generation-wafer-scale-ai-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cerebras-teases-second-generation-wafer-scale-ai-chip/",
-      "publishedDateTime": "2020-08-18T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-mit-sloan-implementing-ai-from-exploration-to-execution.md",
-      "title": "MIT Sloan: Implementing AI from Exploration to Execution",
-      "excerpt": "Artificial intelligence is becoming a key component of business transformation ... Many of these enterprises use Amazon Web Services (AWS) as their technology platform for AI initiatives and access NVIDIA GPUs to speed up their machine learning applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/207272/mit-sloan-implementing-ai-from-exploration-to-execution",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus.md",
-      "title": "Chinese AI Giant Blacklisted By Trump Mints Money From Virus",
-      "excerpt": "The Hong Kong-based startup’s revenue surged 147% to 5 billion yuan ($720 ... to develop its own tech industry and overtake the U.S. in key sectors. Read more: AI Unicorn SenseTime Is Said to Mull Hong Kong, China IPO In the case of facial recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iclFGm8eeMXk/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "publishedDateTime": "2020-08-18T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-5-big-myths-of-ai-and-machine-learning-debunked.md",
-      "title": "5 Big Myths of AI and Machine Learning Debunked",
-      "excerpt": "Artificial intelligence (AI) and machine learning (ML) are already powering tools that can give your business decision making processes a massive upgrade. Here’s what you really need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/207255/5-big-myths-of-ai-and-machine-learning-debunked",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

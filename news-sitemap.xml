@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/</loc>
+    <lastmod>2020-08-21T04:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/21/seven-ways-artificial-intelligence-is-disrupting-the-retail-industry/</loc>
+    <lastmod>2020-08-21T04:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-are-key-to-fighting-this-one/</loc>
+    <lastmod>2020-08-21T03:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/banks-see-pressure-in-ai-race-from-fintechs-and-big-tech-11598002201</loc>
+    <lastmod>2020-08-21T02:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/</loc>
+    <lastmod>2020-08-21T01:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/erictegler/2020/08/20/ai-just-won-a-series-of-simulated-dogfights-against-a-human-f-16-pilot-5-to-nothing-what-does-that-mean/</loc>
     <lastmod>2020-08-20T17:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -61,8 +91,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.goodmorningamerica.com/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044</loc>
-    <lastmod>2020-08-20T10:06:00-07:00</lastmod>
+    <loc>https://abcnews.go.com/GMA/Culture/kamala-harris-shines-spotlight-trailblazing-black-women-2020/story?id=72492044</loc>
+    <lastmod>2020-08-20T10:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -469,8 +499,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/ac17142440/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace</loc>
-    <lastmod>2020-08-18T10:30:00-07:00</lastmod>
+    <loc>https://apnews.com/c6dc3fe157382b0b0e9f44cf7627faa7</loc>
+    <lastmod>2020-08-18T10:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1327,7 +1357,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/buddyai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking-kids-start-talking-in-english-301110900.html</loc>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/buddy-ai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking/article_2e58ca27-737c-5121-91c8-d73309d7043c.html</loc>
     <lastmod>2020-08-12T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1429,12 +1459,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://investorplace.com/2020/08/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare/</loc>
-    <lastmod>2020-08-11T09:53:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.eejournal.com/industry_news/hackster-io-smart-parks-and-key-industry-partners-to-build-worlds-most-advanced-elephant-tracker/</loc>
     <lastmod>2020-08-11T09:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1443,6 +1467,12 @@
   <url>
     <loc>https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/</loc>
     <lastmod>2020-08-11T09:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918</loc>
+    <lastmod>2020-08-11T09:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
