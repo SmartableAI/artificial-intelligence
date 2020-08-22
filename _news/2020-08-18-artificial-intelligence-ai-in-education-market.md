@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2115110/artificial-intelligence-ai-in-edu
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2115110/artificial-intelligence-ai-in-education-market-to-witness"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Education Market Global Industry Analysis Segments Top Key Players Drivers And Trends To 2029"
+    excerpt: "Trends In Artificial Intelligence in Education Market 2020. Straits Research announces the addition of its new research report titled, “Artificial Intelligence in Education Mark"
+    publishedDateTime: 2020-08-19T15:03:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/135039/artificial-intelligence-in-education-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "P4gmDuz0zWD/q9so1D6gWZIKCzDsAuzYHtllbQIO/+lwMQXwThyLFlUp3cZpVe1q4fAMiehw7JaCXpfNEV7bI4kT2vbUsxEkGXGsll5KQ3GTFTBzqBUW+BfEADk2GTNSd273QJ19wrmMzjfy4aHFjXMykLWbgyqjiYS7OOTptxPt9dgDn9KqYfftklG8CH0XPy+yNMgXzk/mzwxspABb5Abwg0+zULbBpJrtmvReviyyDF6IPcTfXeDduT/uK8yVpJfBjXKG8zPT61HI8Jw0eZwBdlQph4MDQfPr+CqSyhUSFnW9plVA15+YhDcqb6zc4+eDJQmUt7tjhQ7CRf/RQhmgF+QHYvYua+afAgLPry2+SJqeF2O/f7n0oIpJyUnUnOcvHVww9OnuAhm7uarwcc5DWhwIVK8ZdlzeMvF8pu+DGbyRTMAFFU3Uzuhj7eNlCmcZBFnFBTxJDqToNIXkCC5Jq6NbUOwvM4nqpngJh3IaP5hoPKZ57AhN5bySGsZNOgpgLjUS3RnCNVUaMPH8cQ==;/pAr+03sUC6cxzw3gjxpGg=="
 ---

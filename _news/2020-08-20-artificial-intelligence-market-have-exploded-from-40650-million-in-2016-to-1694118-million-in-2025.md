@@ -5,8 +5,8 @@ excerpt: "Allied Analytics : The global AI market is divided on the basis of tec
 publishedDateTime: 2020-08-20T05:00:00Z
 webUrl: "https://apnews.com/Wired Release/88020521dba20b15250885bfc49fbe6f"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

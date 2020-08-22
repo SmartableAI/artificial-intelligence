@@ -1,25 +1,21 @@
 ---
 category: news
 title: "AirAsia accelerates digital transformation with robotic process automation in partnership with JIFFY.ai"
-excerpt: "All these benefits will ultimately translate into ... processing and natural language processing to robotic process automation and low Code/no Code development. JIFFY.ai are pioneers in web ..."
-publishedDateTime: 2020-08-13T06:45:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai-1029499616"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai-1029499616"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai-1029499616"
+excerpt: "AirAsia Group is accelerating its ongoing digital transformation journey further by implementing robotic process automation"
+publishedDateTime: 2020-08-13T18:36:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17077288/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jif"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17077288"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17077288"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "zYKhlD95AB3Pqta3iAEEqkxo6LbpB1vaOcW9OZzJBHu6yhADeEvmf34OvMqgV3IIFt14p1xRhau7U0AwfnKB4btBQUYDhUX+MZ8/trnWhmPwRtU7axt6Cv4/JIJv7bvh8x+QWm4WWliA7/8a2KcSyJ1pzbpi+pcYb6O2+TYJ6aUpApAmotiu4QK1hQid9C305yvyOmZ4+dp3GUUsOeP7lANTbzcf+9G8x8qaOHvMNiE6AMxWY+I7H1BDreVm93kIfvdJt4rtAiK36Wsceb70dkd//H7Rd0MUf6HlHBEYYN4LX4ywuYz11Nj6q3RuzMiL6sT4ummAwvoTfwn/KAyIuw==;0EpOYgGN5i16R+N1A9qdOQ=="
+secured: "voSx4fYtlYhHF5qXk60euLet0h0IkKeK60CbTJQrxnrDt5syTBD5QGeOKk/+koLumzekvGi4VZ38H7JOqKqsLUZFYGarXiJO+M8OUFk0TQuYV1WWBzoHPZ1aPIzTrxXhr/QNYrXa5oRq2OuFRYNMPwMRo1Y+3hTGKjGPKpLSuagNRepQWfCAtpMJQ5xmWaRtt/bVLv7KzYDyHFnCDDAX24gQITAt7T5fkD3B7nymf7hWcqM8pIRRnaUoaali1nKimBN6FMMn69oJXgfT1vupMbVep2v855+PgXDny/E+ENy2Gv32SVMut+Bio04IPBGVTgXjpFZQA2PaBpjdNr1b/r4HpMwOPhrBc7v8c33gP5UtVrc6/922yn9r3K68AMmNiYKifXWBMxGDSlf5AdPVjsNMIOrbDX0DOj3IaMaV5Io7CdcoA/8APqoZ9L1fdiPc8Np0Vfrv+u3zXUkRkq+MO0PH33abisHzl+cJDkyMXzLSqStZRS5GUGwCf7PqxGljXzSFTukl7kFeYFDzDFjSWg==;Z0YrIQUiBwp0UdJ4irWDHA=="
 ---
 

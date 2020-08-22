@@ -3,7 +3,7 @@ category: news
 title: "Facebook, NYU use AI to speed up knee MRI scanning process"
 excerpt: "The study found fastMRI’s AI-generated images were created with about 25% data from scanning machines, and they can be replaced with traditional MRI scans for diagnosis."
 publishedDateTime: 2020-08-21T11:27:00Z
-webUrl: "https://www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-speed-up-knee-mri-scanning-process/article32413373.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-speed-up-knee-mri-scanning-process/article32413373.ece#!"
 ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-speed-up-knee-mri-scanning-process/article32413373.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-speed-up-knee-mri-scanning-process/article32413373.ece/amp/"
 type: article
@@ -95,6 +95,6 @@ related:
       domain: sify.com
     quality: 19
 
-secured: "+h+k/7+xJARXlGTe8HkvjDT1HfaAkotRj2BxwANo0EYdgLm2MrZ1/excmgWTwQYe6BqA/mJA7Mofh9p/GOk11XWqHZqLSVpQ3egy6l/n28rC/ukw3o6uvjtNYGD5AAPT+rAh3FK2pPeBFA90/Z/Qa97k7TSBG4y++Qr27erPqsJk2TtLBbJ+d10liC0TFz/gYN0RE7CWt5Vk6s939/VtjSEw0ojF0EFTYlYL/bVhtPK4F7EfD1iUSC2Yirox95LSYwjhnxkIW2srm/GJUGXGeeHDqZftkasuBkfOoUAubV2/e0NrB59xhqLzcUWlc1Bd3QWJyjknBHaPCFvCmUNNdPKx0K8LrK5x+rCITkJ8rYJPgP1+g14OdloZL6bCGMot6PLof5fq14ec8DPGyFr2OCwobRofwnyeAaHPl6adpdb5UZr1u4wme7btNQ7PxEsqgc0lcQq+gZNVSXWF4/TsMUDeXAiOoRhT1bPYRXQER8eTqygV0vVBjAv3bZft/TrfeNBgQTlcFjTDlc2qAreyug==;3eTo6swCQsxIcN14vVBqlQ=="
+secured: "BWxH50KfhGderP6f1+iQO9V7zcK3sp1+Wbw1BamGZSbtNR32Y9BHYovrjWhPybYAlBSMhYbq8L2RTYDQKdJq+NEDqPsoFHrvddRx7LOcNJheK0u4dpPvnTDi2W6XG09FVdRKKq7sBJ8KghO9wKJJGhJd9wkLFnaQ4IHVtx+EOtG+zOvgJHBVJOfz9JQtomEWH3EmuKcY7dOWyEYLAR0ov7NNIk+47Cl4CLUCwyZdEOG5B5XlAF9OvG0cPRrGrcSE+1zeaX3cBl9j6pq5T+Lt45RnGL9+w9merPWNgGKDjkEo5mT7HyDASSaGym6SUH1lht4sGNZCH+GkI9Djhn/UKQ==;wdTPW7LrX3bgpsM4xv45dw=="
 ---
 

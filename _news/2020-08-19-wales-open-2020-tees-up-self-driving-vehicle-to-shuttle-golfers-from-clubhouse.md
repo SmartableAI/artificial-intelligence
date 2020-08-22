@@ -65,6 +65,20 @@ related:
       name: TASS
       domain: tass.com
     quality: 21
+  - title: "How will self-driving cars and autonomous vehicle technology transform society?"
+    excerpt: "Autonomous Driving is the buzzword that brings more excitement than disbelief. Read how the five connectivity requirements for V2X autonomous vehicle technology will redefine the safety, and user experience of the new age autonomous vehicles."
+    publishedDateTime: 2020-08-22T05:34:00Z
+    webUrl: "https://www.analyticsinsight.net/five-connectivity-requirements-v2x-autonomous-vehicle-technology/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 20
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/08/Self-driving-Cars.jpg"
+        width: 3168
+        height: 2000
+        isCached: true
 
 secured: "aZrqmTWjrVn+DcXG64hyjcp8K5GAQryoO9ijt/vXayt0dn2m0hbGF0FjDNpKT9HdnnRotUnw94MDGkL7RJQgJ3nhOBUzpKDDSziLEkVjb2lifZUlMzqPKzWBkYSMYgWhnowu+HXS+LmESikb2UpoStsNFOshrpfL2y25wP8QFSJagEBzWsg03/hFIiZOiz+8kCciobb9IgJLyNcyUf70E/30kIt/Zk4yGfWQNc1iqlqpF/O2N50+SgeIFEsFAVMdZWHbvhykN+Sah4b6W+QRm9OvZwRNWcapvlGht7FrRUpwYGH23mPNkjGSyj8NcxBsfBstPhZl88K1xArYLao/RQ==;fernGCuUkYscve8cbiuqLA=="
 ---

@@ -65,6 +65,20 @@ related:
         width: 1654
         height: 1010
         isCached: true
+  - title: "How will self-driving cars and autonomous vehicle technology transform society?"
+    excerpt: "Autonomous Driving is the buzzword that brings more excitement than disbelief. Read how the five connectivity requirements for V2X autonomous vehicle technology will redefine the safety, and user experience of the new age autonomous vehicles."
+    publishedDateTime: 2020-08-22T05:34:00Z
+    webUrl: "https://www.analyticsinsight.net/five-connectivity-requirements-v2x-autonomous-vehicle-technology/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 20
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/08/Self-driving-Cars.jpg"
+        width: 3168
+        height: 2000
+        isCached: true
 
 secured: "ZnpaUxw6sc6mdim904to3/GPv/sfl+pC+O05Y7z7JFur5nrri2m6iygR191uqflqC07NRfT4yqcpOdwkJ8aElBNa2TAunCAacd7CIokT4zh5ZT+7NqnIU7e2rd61whitBwB/p2C4PS1uGt1Yl/muktGOF9GYM0LCaNw7mA1KrySIEZrSFvzapQJL1n80Y4uJSdLVZIIjJx9/gJAgmXGwfpaqPT751+8ct91VKtUBM8+FW7mzgsdLNP2MJFnnAx3XWtPtY/0kSDiuiGkxcoDIeZzK4sB7rz6aVVzuf0W+Tk9erEuBSCvmdiiUaUHwYXxSXRLPsE/vIx+QemVod3hctjmy91l2iPudVH0a245UGkIDw7iZtPKhZfnMXceL5KCrIrdymzOjJJQwhRiFDeb8Rx+1jXj/32Vayfpo6L39RhbhGlx+lYZ6OGuhH/mRONM8DeySJug8HZcpAZ5fzOn89Ze4PABu6AjM1S4gExxo2GMHpR4Nd1eZidOTMZAlkxVxdZA9G/2oxjWn5hiykF64pg==;Wz5gTlZClw/tHRfo/FN0tw=="
 ---

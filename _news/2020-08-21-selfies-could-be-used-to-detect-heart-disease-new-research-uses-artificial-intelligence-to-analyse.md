@@ -25,6 +25,24 @@ images:
     height: 1277
     isCached: true
 
+related:
+  - title: "‘Selfies’ Have the Potential to Detect Heart Diseases"
+    excerpt: "A deep learning computer algorithm that can analyze human faces from ‘selfies’, has the potential to be used as a screening tool to identify heart disease in people in the general population or in high-risk groups,"
+    publishedDateTime: 2020-08-22T06:50:00Z
+    webUrl: "https://www.medindia.net/news/selfies-have-the-potential-to-detect-heart-diseases-197012-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/selfies-have-the-potential-to-detect-heart-diseases-197012-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/selfies-have-the-potential-to-detect-heart-diseases-197012-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 44
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/tips-for-a-healthy-heart.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
+
 secured: "Xt/ORcqmNTJZkYkUdPUwFwb9XfY0fph7QGnEjIZqvJB8b77FawTghFfuzrkNxOlN/Z0BD0LG2r5phpHqbbgSnSMGAIWjJluh2sJH4Dfjx5zqM6g6X6Sd5LbkohR56YL0j2fSjVpAFLNCfldAhWMsBWbjksB5yBScIlmSbWFZ7W0ThSY4/UbPXurZZ68yYiWlMSXicruKRkAHcCnP0+m+dR8XulHqa/if33qs3fg4rJf2jNSZFFTQHEdicBNEXW6RyKxn55ivzKfLBBQu6jNY+FF/MhuUl9LcNyxSV7lkoPj/6OQgaLtnAioy+g3L007cWm+LENREcjm1pxT+lY6LuSLZ+Y+bOc7r8jHx6yPhM98Zx1vUCwYdz0dK2NtDhqe6AE+gdVCZxrlS4QnEc3157ZuPlM3m9utEKOB4dOPETv/DEm+Q7ZqS+HBtV2Bi4953FamLh/LLA7tJ/tjxtAELeJ+eAfKScny/b56M7c4DcVwGc9HwvBxZJ/WcHNyYUsfCx7/geb9hK5fNqnwlOEaWAA==;FGQvPIpjvrTUrV6eho7Ltw=="
 ---
 

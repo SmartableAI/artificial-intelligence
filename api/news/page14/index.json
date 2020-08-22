@@ -2,6 +2,104 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-08-10-why-do-solar-farms-kill-birds-call-in-the-ai-bird-watcher.md",
+      "title": "Why Do Solar Farms Kill Birds? Call in the AI Bird Watcher",
+      "excerpt": "Solar facilities kill tens of thousands of birds every year, and no one is quite sure why. An artificial-intelligence-powered birder is on the case.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/why-do-solar-farms-kill-birds-call-in-the-ai-bird-watcher/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f2d8dadc693e7df1016520f/master/pass/Science_solarfarms_841997834.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/why-do-solar-farms-kill-birds-call-in-the-ai-bird-watcher/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-do-solar-farms-kill-birds-call-in-the-ai-bird-watcher/amp",
+      "publishedDateTime": "2020-08-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-the-morning-after-watch-an-air-force-pilot-take-on-ai-controlled-fighters-online.md",
+      "title": "The Morning After: Watch an Air Force pilot take on AI-controlled fighters online",
+      "excerpt": "It’ll happen virtually, instead, with participants and viewers watching online as AI algorithms control simulated F-16 fighter planes in aerial combat. By the end of the three-day event, viewers will witness a matchup between the top AI and an experienced Air Force fighter pilot,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/the-morning-after-ai-fighter-pilots-112824955.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fc2c818e0-db0e-11ea-b07f-4ac840ece8a9&client=amp-blogside-v2&signature=876001e9bddc25f4e4ed6fbacc3b80f107eff183",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/the-morning-after-ai-fighter-pilots-112824955.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-ai-fighter-pilots-112824955.html",
+      "publishedDateTime": "2020-08-10T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-ai-needs-to-learn-multi-intent-for-computers-to-show-empathy.md",
       "title": "AI Needs To Learn Multi-Intent For Computers To Show Empathy",
       "excerpt": "Artificial Intelligence (AI) is smart, but it could do better. The software development industry is constantly working to push algorithmic logic beyond the scope of the current computer processing envelope and create new ways for computers to ‘think’ and emulate human beings.",
@@ -1026,105 +1124,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-e-commerce.md",
-      "title": "Hypotenuse AI wants to take the strain out of copywriting for e-commerce",
-      "excerpt": "Imagine buying a dress online because a piece of code sold you on its ‘flattering, feminine flair’ — or convinced you ‘romantic floral details’ would outline your figure with ‘timeless style’. The very same day your friend buy the same dress from the same",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1158990325.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/amp/",
-      "publishedDateTime": "2020-08-07T18:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-nypd-besieges-a-protest-leader-as-he-broadcasts-live.md",
-      "title": "N.Y.P.D. Besieges a Protest Leader as He Broadcasts Live",
-      "excerpt": "A helicopter and dozens of officers, some in tactical gear, were deployed for an arrest at a Manhattan apartment but withdrew after protesters arrived.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/08/07/nyregion/nypd-derrick-ingram-protester.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/08/07/nyregion/07NYPROTEST/07NYPROTEST-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/08/07/nyregion/nypd-derrick-ingram-protester.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/07/nyregion/nypd-derrick-ingram-protester.amp.html",
-      "publishedDateTime": "2020-08-07T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

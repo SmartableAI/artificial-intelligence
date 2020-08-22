@@ -8,7 +8,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/08/20/Challenges-come-when-
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/08/20/Challenges-come-when-NIH-harnesses-AI-to-fight-COVID-19-experts-say/3231597962130/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 535
     isCached: true
-
-related:
-  - title: "How to legally fight COVID-19 with AI"
-    excerpt: "Tonya Hall sits down with Hon. Katherine B. Forrest (Fmr.), partner at Cravath, Swaine & Moore, to learn more about how individuals can protect their 1st, 4th, and 5th Amendment rights while combating COVID-19."
-    publishedDateTime: 2020-08-17T13:30:00Z
-    webUrl: "https://www.zdnet.com/video/how-to-legally-fight-covid-19-with-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/08/17/d0bd4851-0a17-4f91-8a0b-3d47eb3fce52/thumbnail/770x578/24f0a812be4fd3816e11968da6bffa3d/thumb.jpg"
-        width: 770
-        height: 578
-        isCached: true
 
 secured: "9zUECAKpKXNikSq1wzpc8m4NmSKGXCje+2oy13F4acPb2TTWSNqvbOFu/JP2LtT6Bn6IbM9S9rrr8Z+9Xpu5rFEaG/+K5zAD1phctr1zeV6MH5Bs5Hgx+6Hmgr+YLhl6pX3FQhu1H9akdRoSidBcIvrvIEUTI7k1mJApOYfGChvd6Cm0ru6PDBF24OvNFqzoKA/9DbcaXPvxmvvbTmHBmI50zC75ZY5TifH7l7/RtPNriV8wJyuxfB91+pyZYHFSsUEVUHCajpwmSc/yuuWIDWU97E32CRCvhvQadICR2VA5rHKc94HF3a4dZwGwKE3GlYKNSkcxE9zkglDYibPYcAlJ8UXFkhWyveoW3Y1WH4SbwGkCFVpajJRmTKcpByulf2tCp63MhJgp5yK1KHaNqsLY0kJ9ZTpPZO4XqHehlesF/a7GM06FalyCgdYhQCHfVwzAHXl+jSBGtLj4YurSL03wFVd70Dx75RGiWneXyElqmpEljh220T/l+gzvy2geDQabBeD/s0W1/4sIY6TN7Q==;kjW9r2pNpNCc1WwEUV39Mg=="
 ---

@@ -2,6 +2,88 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-07-20-japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.md",
+      "title": "Japanese robot to clock in at a convenience store in test of retail automation",
+      "excerpt": "By Tim Kelly In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation.",
+      "sourceUrl": null,
+      "webUrl": "https://cyprus-mail.com/2020/07/20/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cyprus-mail.com/wp-content/uploads/2020/07/japan-robot-1024x720.jpg",
+          "width": 1024,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cyprus-mail.com/2020/07/20/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/",
+      "cdnAmpWebUrl": "https://cyprus--mail-com.cdn.ampproject.org/c/s/cyprus-mail.com/2020/07/20/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/",
+      "publishedDateTime": "2020-07-20T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cyprus Mail",
+        "domain": "cyprus-mail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-unesco-invites-public-comments-on-ethics-of-ai.md",
+      "title": "Unesco invites public comments on ethics of AI",
+      "excerpt": "Specialised agency UNESCO has rolled out a global online public consultation process on the ethics of artificial intelligence (AI). This move, according to UNESCO, is to give everyone around the world the opportunity to participate in the work of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/LPwQ57l6xJGqNgkj",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/07/AI-laptop-2020.jpg",
+          "width": 2849,
+          "height": 1472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.itweb.co.za/content/LPwQ57l6xJGqNgkj",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPwQ57l6xJGqNgkj",
+      "publishedDateTime": "2020-07-20T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-corporate-execs-are-starting-to-get-skittish-about-ai.md",
       "title": "Corporate execs are starting to get skittish about AI",
       "excerpt": "Corporate boards have begun to worry about the ethical ramifications of turning so much power over to the machines.",
@@ -1311,105 +1393,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-work-at-home-ai-surveillance-is-a-move-in-the-wrong-direction.md",
-      "title": "Work-at-home AI surveillance is a move in the wrong direction",
-      "excerpt": "We are already justifiably worried about being watched while out in public. Now we're increasingly being observed in our homes, too.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/18/work-at-home-ai-surveillance-is-a-move-in-the-wrong-direction/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/surveillance.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/18/work-at-home-ai-surveillance-is-a-move-in-the-wrong-direction/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/18/work-at-home-ai-surveillance-is-a-move-in-the-wrong-direction/amp/",
-      "publishedDateTime": "2020-07-18T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-opencv-to-launch-budget-friendly-4k-spatial-camera-kits-for-ai-diyers.md",
-      "title": "OpenCV to launch budget-friendly 4K spatial camera kits for AI DIYers",
-      "excerpt": "OpenCV, an open source computer vision library, recently announced the crowdfunding launch of two OpenCV AI Kits (OAK-D and OAK-1). While it’s a bit unusual for a library to launch products, and on Kickstarter at that,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/plugged/2020/07/17/opencv-to-launch-budget-friendly-4k-spatial-camera-kits-for-ai-diyers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/opencvoak.jpg",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/plugged/2020/07/17/opencv-to-launch-budget-friendly-4k-spatial-camera-kits-for-ai-diyers/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2020/07/17/opencv-to-launch-budget-friendly-4k-spatial-camera-kits-for-ai-diyers/amp/",
-      "publishedDateTime": "2020-07-18T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

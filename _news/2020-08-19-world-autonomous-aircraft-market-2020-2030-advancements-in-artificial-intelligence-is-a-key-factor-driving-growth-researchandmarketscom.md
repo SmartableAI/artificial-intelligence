@@ -1,22 +1,26 @@
 ---
 category: news
 title: "World Autonomous Aircraft Market 2020-2030: Advancements in Artificial Intelligence is a Key Factor Driving Growth - ResearchAndMarkets.com"
-excerpt: "The global autonomous aircraft market is expected to decline from $0.84 billion in 2019 to $0.79 billion in 2020 at a compound annual growth rate (CAGR) of -6.35%. The decline is mainly due to the COVID-19 outbreak that has led to restrictive containment measures involving social distancing,"
+excerpt: "Growth and Change” report has been added to ResearchAndMarkets.com’s offering. The global autonomous aircraft market is expected to decline from $0.84 billion in 2019 to $0.79 billion in 2020 at a compound annual growth rate (CAGR) of -6."
 publishedDateTime: 2020-08-19T14:22:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/08/b17157045/world-autonomous-aircraft-market-2020-2030-advancements-in-artificial-intelligence-is-a-key-factor"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17157045"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17157045"
+webUrl: "https://apnews.com/Business Wire/4ac04352a7db47c5934d8ce48268dcff"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Deep Learning Market 2020-2023: Growth, Emerging Trends, And Forecast"
@@ -141,6 +145,6 @@ related:
       domain: ipsnews.net
     quality: 0
 
-secured: "ZSmpT0tQxB9uowI1PH7L6adMv3S/0cuEgc8PFq1cTtDFtO4xDYRoM0qqczUqSchmwF1DmPcIIQBzy+VzVKE7/aiG/SpDkTjgHjSoAv2rwbcXAV1HgPP2E4qevq8vXstVokHxZS4ro3LNJAQ1lB2XVrooGCDgE4ZkowDg/qIW2mcnonN/5QfTEfqhWP8wQ3FaV7cXqaiXTcGexq9HXiHfOByeXdf6sNgVa6Je57787CC8X5fhzwL6hVPNXZYbyYYsx9Y48vyG5HhYbvDwrNzZYYBDwIxx7j/LeXNFbs4eLLb1b1s3svjk9xMimniVxA+WmS4vyeSpQTs8oWDI5OMMXqvXNezpR4zjbRsXOd8qHtPJnm6nCw1A0cMQYZO7/7vo/8KeX4v+wRKAffYkDivOggCr8DwzK34sfi1P7La/czH+HbqC42k5tBTdVTsiROchR3wnhvE8fTiHsTiq5MQezcsNJmslms1JBQXgfEBoKPc/9plshqbHzQnF/zob/E4l1/9twwiTtIIR+9tb621F/Q==;RJLbirMpL8iljSsuDBV6uA=="
+secured: "bdc7eev5Vpmt+xtx/7jodUT32XcRi4z+RMhYx/3MFe2u0gA4uauqE+OUWWLMnCICsSUmMPeay5Ij8tu2ollUo9E7ZqeNPEv1RISGre/F2fW8YZZYNQbfaKiGyv5n5khmjQ/skgRQf82FjCq7HQleMxk/2dGYlfo5EMiWLoO1f2A1AYaR5IlnXAqFPF3vVxpX/zLqnmUZlVYwl9n27MQgirNeeZpHnPHLGI+z7OL5qLB7MagdwaF7GG5hgJ/7q4j/uUoTBA8zhy7e6D9Nun2CRgTnyOKcaBr1bCsC5+IePSCk6BZC7H1hHSfhpV6fDkU6uORu546/TALAfHk5IVjQIA==;A/KXkCp3uYK5eomb1yD69Q=="
 ---
 

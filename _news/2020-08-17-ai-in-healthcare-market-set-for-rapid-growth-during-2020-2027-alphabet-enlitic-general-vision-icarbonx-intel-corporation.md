@@ -62,19 +62,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "POWER PLAYERS: The 18 leaders at Google Health shaping the tech giant's secretive healthcare business"
-    excerpt: "Starting when Dr. David Feinberg joined the company in 2019, the tech giant is consolidating many of its health efforts onto a single team."
-    publishedDateTime: 2020-08-17T13:20:00Z
-    webUrl: "https://www.businessinsider.com/the-18-power-players-shaping-googles-burgeoning-healthcare-business-2020-8"
+  - title: "AI in Healthcare Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
+    excerpt: "The Global AI in Healthcare Market size was estimated to be US$ 4.7 billion in 2019. The AI in Healthcare market"
+    publishedDateTime: 2020-08-20T05:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-08-20?mod=mw_quote_news"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://i.insider.com/5f36aa7be89ebf001f04492c?width=1200&format=jpeg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
   - title: "Artificial Intelligence (AI) in Precision Medicine Market Trends, Share, Industry Size, Opportunities, Analysis and Forecast by 2025"
     excerpt: "Selbyville, Delaware Recently, Market Study Report, LLC, added a research on the ‘Artificial Intelligence (AI)"
@@ -85,6 +85,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market Forecast and Trends Analysis Research Report 2020-2027"
+    excerpt: "The rising venture capital investments and the vast availability of big data at the global level are the significant factors contributing to the growth of artificial intelligence in manufacturing market size. Various artificial intelligence technologies ..."
+    publishedDateTime: 2020-08-18T06:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-forecast-and-trends-analysis-research-report-2020-2027-2020-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -103,6 +117,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Global Artificial Intelligence in Medicine Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
+    excerpt: "Summary A New Market Study, titled \"Artificial Intelligence in Medicine Market Upcoming Trends, Growth Drivers"
+    publishedDateTime: 2020-08-19T08:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medicine-market-2020-key-vendors-trends-analysis-segmentation-forecast-to-2025-2020-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial Intelligence in Healthcare Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2029"
     excerpt: "Artificial Intelligence in Healthcare Market Global Trends Market Share Industry Size Growth Opportunities and Market Forecast 2020 to 2029"

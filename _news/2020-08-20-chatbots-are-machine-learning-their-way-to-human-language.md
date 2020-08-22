@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 779
     isCached: true
-
-related:
-  - title: "What robots want: Using machine-learning to teach effectively"
-    excerpt: "By Hyunsoo (Hyun) Kim, co-founder and CEO of Superb AI AI is having a moment. One need only casually scan the news each week to see that the topics of artificial intelligence and machine learning"
-    publishedDateTime: 2020-08-17T13:20:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/08/17/what-robots-want-using-machine-learning-to-teach-effectively/35249/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 21
 
 secured: "l3hz/uTcdL3W8zsQwGmovQfAW2B0GJCWslFl155e3KiDmZwHBzyW1LRGe68ZxLMwGW3+scGlDDL5TrMQYk/sfgS9vyV5H8RrUG20EvvXxIyHtfUvj/uiYUzcmBLkY2QfqnEXgdfI6Z/l3NVwxGaIxtwL8Nn7LZimYn2IGiu6Soxhs7Rj2Dc7DcJ1rsNEBdm64Ag/7qgMQ0/PT5KtMMTwJ8jsacg6amEyqPkxlqA/C1JQQ/tV+Up9+pz7+qeA6uNJA666VGdOsFb2fvJEjRerLzNTIrfB0SyMkuFINWI5CUNmy2HKYa969ygCvCajstc/JcPaTufTClJ4H6F3oTNUq3y1pyvkjJifgNGtbR//09tE9MJPuGm+VraoBKCGE0nrFCsH7kqeJ4ZXTCocdTDn+8LmJJl0xjfnaw3aGRN0ZwPdQOnpJGLkIYTU77r1dAjfzEP81oBZMAur57T2E1eJ6z4bB2Cft8wwLgNqKjQqwrOM1s4Gb+Cc8ce3uMszNCor;2U64AFJ1AU1IlPCcHeFctg=="
 ---

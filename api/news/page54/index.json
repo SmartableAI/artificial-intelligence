@@ -2,6 +2,108 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-07-10-how-ai-could-revolutionize-the-future-of-mobile.md",
+      "title": "How AI Could Revolutionize The Future Of Mobile",
+      "excerpt": "There are a variety of ways in which AI will influence the way we design, program and use mobile apps. In the coming years, AI could lead to improved security, more personalization and overall a better user experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda5daa543d4d0006ab099e%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/amp/",
+      "publishedDateTime": "2020-07-10T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl.md",
+      "title": "AI As A Service Redefines Customer Experiences, But Think Twice Before You Jump Into AutoML",
+      "excerpt": "Keep reading, as this article will help you understand how humans and machines can work together to make machine learning more effective with augmented ML, and most importantly, cover a few key technical debt concerns you need to address prior to jumpstarting your own AutoML (AI for AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f07167161c3150007f84459%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/amp/",
+      "publishedDateTime": "2020-07-10T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance",
+        "Natural Language Processing",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-natural-language-processing-nlp-market-to-reach.md",
       "title": "Natural Language Processing (NLP) Market to reach...",
       "excerpt": "Dallas, Texas, July 10, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing (NLP) Market by Application (Machine Translation, Information Extraction, Automatic Summarization, Text ...",
@@ -1045,96 +1147,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-the-woman-behind-recruitings-most-talked-about-ai-solution.md",
-      "title": "The Woman Behind Recruiting’s Most Talked About AI Solution",
-      "excerpt": "From start-up to thought leader, here's how Andreea Wade rose to the top in the AI world and what led her to iCIMS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.icims.com/hiring-insights/for-employers/article-the-woman-behind-recruiting-s-most-talked-about-ai-solution",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn31.icims.com/icims3/prod/img/blog-posts/d3c4609f7f25164b5114f87e984d49ce.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iCIMS",
-        "domain": "icims.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-clearview-ai-faces-more-scrutiny-from-uk-and-australian-privacy-commissioners.md",
-      "title": "Clearview AI faces more scrutiny from UK and Australian privacy commissioners",
-      "excerpt": "The United Kingdom's Information Commisioner's Office (ICO) and the Office of the Australian Information Commissioner (OAIC) are investigating the matter but have not released much information regarding the probe's goals or what the two bodies wish to learn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/85941-clearview-ai-faces-more-scrutiny-uk-australian-privacy.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/07/2020-07-09-image-18.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85941-clearview-ai-faces-more-scrutiny-uk-australian-privacy.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85941-clearview-ai-faces-more-scrutiny-uk-australian-privacy.html",
-      "publishedDateTime": "2020-07-09T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

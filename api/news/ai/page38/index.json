@@ -2,6 +2,106 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-07-16-graphcore-unveils-new-gc200-chip-and-the-expandable-m2000-ipu-machine-that-runs-on-them.md",
+      "title": "Graphcore unveils new GC200 chip and the expandable M2000 IPU Machine that runs on them",
+      "excerpt": "There is a lot riding on the use of artificial intelligence technology to help us take giant leaps ahead in solving complex challenges — whether it’s medical breakthroughs, building better cybersecurity or creating better navigation systems for cars and other moving objects.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/15/graphcore-second-generation-chip/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GC011_IPURACK_003_W4K.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/15/graphcore-second-generation-chip/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/graphcore-second-generation-chip/amp/",
+      "publishedDateTime": "2020-07-15T18:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-amazon-google-microsoft-sued-over-photos-in-facial-recognition-database.md",
+      "title": "Amazon, Google, Microsoft sued over photos in facial recognition database",
+      "excerpt": "The plaintiffs allege that the tech giants used people's pictures obtained without permission to train their technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/xfPdi1mmwtDzDUGS-y0SixQK_QU=/756x567/2019/03/15/d0e98f89-88ab-436f-8f6d-503a95eb57f0/facial-recognition-face-id-password-6.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/",
+      "publishedDateTime": "2020-07-15T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-facial-recognition-technology-led-to-this-detroiters-wrongful-arrest.md",
       "title": "Facial recognition technology led to this Detroiter's wrongful arrest",
       "excerpt": "Michael Oliver is the latest Detroiter to come forward with a story of a wrongful arrest due to facial recognition technology. The news comes as City Council debates extending DPD's contract with facial recognition technology provider DataWorks.",
@@ -1303,96 +1403,6 @@
       "ampWebUrl": "https://venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/amp/",
       "publishedDateTime": "2020-07-15T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-how-to-annotate-images-for-deep-learning-image-annotation-techniques.md",
-      "title": "How To Annotate Images For Deep Learning: Image Annotation Techniques",
-      "excerpt": "Machine learning including deep learning feels like something right out of a science fiction story, and it’s here to be utilized. Deep learning extracts patterns from all sorts of data including images, and the following will help you understand how this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartdatacollective.com/how-to-annotate-images-for-deep-learning-image-annotation-techniques/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/07/shutterstock_618887135.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.smartdatacollective.com/how-to-annotate-images-for-deep-learning-image-annotation-techniques/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-to-annotate-images-for-deep-learning-image-annotation-techniques/amp/",
-      "publishedDateTime": "2020-07-15T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-how-intuit-is-moving-from-mobile-first-to-ai-first.md",
-      "title": "How Intuit is moving from mobile-first to AI-first",
-      "excerpt": "App developers will increasingly have to adopt an \"AI-first\" mindset by default, according to Intuit chief technology officer Marianna Tessel.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/how-intuit-is-moving-from-mobile-first-to-ai-first/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-940325272.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/how-intuit-is-moving-from-mobile-first-to-ai-first/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/how-intuit-is-moving-from-mobile-first-to-ai-first/amp/",
-      "publishedDateTime": "2020-07-15T09:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

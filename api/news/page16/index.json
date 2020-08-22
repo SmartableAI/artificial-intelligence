@@ -2,6 +2,97 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-08-06-ecobank-group-announces-the-2020-fintech-challenge-finalists.md",
+      "title": "Ecobank Group announces the 2020 Fintech Challenge Finalists",
+      "excerpt": "Ecobank Group( announced the finalists from the 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocdn.eu/pulscms-transforms/1/zb2k9kuTURBXy81OTc0MzEzNS0wYzQyLTQ5MjctOGM2Mi0xZTNlOTBjMTQ0ODQuanBlZ5GTBc0BqczfgaExAA",
+          "width": 425,
+          "height": 223,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp",
+      "cdnAmpWebUrl": "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp",
+      "publishedDateTime": "2020-08-06T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Naija Gist - Latest",
+        "domain": "pulse.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-why-human-like-is-a-low-bar-for-most-ai-projects.md",
+      "title": "Why ‘human-like’ is a low bar for most AI projects",
+      "excerpt": "Show me a human-like machine and I’ll show you a faulty piece of tech. The AI market is expected to eclipse $300 billion by 2025. And the vast majority of the companies trying to cash in on that bonanza are marketing some form of “human-like” AI.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/06/why-human-like-is-a-low-bar-for-most-ai-projects/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/12/robot_teddybear-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/06/why-human-like-is-a-low-bar-for-most-ai-projects/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/06/why-human-like-is-a-low-bar-for-most-ai-projects/amp/",
+      "publishedDateTime": "2020-08-06T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-build-more-effective-conversations-on-amazon-lex-with-confidence-scores-and-increased-accuracy.md",
       "title": "Build more effective conversations on Amazon Lex with confidence scores and increased accuracy",
       "excerpt": "In the rush of our daily lives, we often have conversations that contain ambiguous or incomplete sentences. For example, when talking to a banking associate, a customer might say, “What’s my balance?” This request is ambiguous and it is difficult to disambiguate if the intent of the customer is to check",
@@ -1031,106 +1122,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-why-elon-musk-is-wrong-about-level-5-self-driving-cars.md",
-      "title": "Why Elon Musk is wrong about Level 5 self-driving cars",
-      "excerpt": "I’m extremely confident that level 5 [self-driving cars] or essentially complete autonomy will happen, and I think it will happen very quickly,” Tesla CEO Elon Musk said in a video message to the World Artificial Intelligence Conference in Shanghai earlier this month.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2020/08/06/why-elon-musk-is-wrong-about-level-5-self-driving-cars-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/1-3-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2020/08/06/why-elon-musk-is-wrong-about-level-5-self-driving-cars-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/06/why-elon-musk-is-wrong-about-level-5-self-driving-cars-syndication/amp/",
-      "publishedDateTime": "2020-08-06T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-google-heres-how-much-we-give-to-open-source-through-our-github-activity.md",
-      "title": "Google: Here's how much we give to open source through our GitHub activity",
-      "excerpt": "Google has given an update on its contributions to open-source software, revealing that its employees were active in over 70,000 repositories on GitHub in 2019.  Google's new 'by the numbers' snapshot of its contributions to open source over the past five years to 2019 shows its growing activity on Microsoft-owned Git-based code-hosting site GitHub,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-heres-how-much-we-give-to-open-source-through-our-github-activity/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/23/e1edfa95-fae1-4244-bfc6-3dc4cfd42a7b/thumbnail/1200x675/04a795c35d41b538148d6642a447c62f/open-source-github-buries-archive-in-arc-5f156beaef2c1c64094a982d-1-jul-23-2020-11-36-45-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-heres-how-much-we-give-to-open-source-through-our-github-activity/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-heres-how-much-we-give-to-open-source-through-our-github-activity/",
-      "publishedDateTime": "2020-08-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

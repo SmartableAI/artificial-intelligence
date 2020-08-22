@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Facebook and NYU are using AI to dramatically speed up MRI imaging"
-excerpt: "Facebook’s AI researchers gave themself an especially demanding challenge: Use algorithms to fill in the details of an MRI scan. The results are promising."
-publishedDateTime: 2020-08-18T13:00:00Z
-webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging"
+excerpt: "Two years ago, Facebook’s Artificial Intelligence Research group (FAIR) began collaborating with researchers at New York University’s Medical School on artificial intelligence that held the ..."
+publishedDateTime: 2020-08-18T13:34:00Z
+webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com"
 type: article
 quality: 39
 heat: 39
@@ -14,7 +14,7 @@ provider:
   domain: fastcompany.com
 
 topics:
-  - Facebook AI
+  - AI in Autos
   - AI
 
 images:
@@ -39,6 +39,6 @@ related:
         height: 800
         isCached: true
 
-secured: "qMOgPSDikISYsI7qUVW3oC8BvnARH+dMTDOC1zilyC6nK2lnSFIoq/zcCMVokyeQx9lEetXopxTTRLSoOxiUmCbnngjayj0Ha0ZXiPRY/VOgE3ZHcXs/3CuSad/y/4qrYAlhuJYS1t/++6b1YClJtht3vUmySPTRI7tl3VQkzDOSApLjV9F7lssFW7Tnfzz5aWGwSM//66JH03vtnvPCj5C7SEjMDj9vT3zxIFm17uu/4LNX+/i+CjXVPXn7nD5ZdilynN7am8zbiXlZY6tZc8TjYl51MnD84xHE+ZCYYpMnKFBrnLYrszGvbUgM8EDfvBF3Ou+hqbi2eH0MoMgyIFvfb0iCd0r2OtaA4KUApAdt/UCVVJIoCSGMq1shdvBcm/IDhXwaCt0t/lRNbE7v0rg0SBZ/SjhiPtuYwGTMyblvYIICL58sCXZD/tFgt0ypsSeMzcZicynrAy6xQ+vH0I+a6oyumoycqrXLw6k1D6/Qe+kTb8zH0i1/qDn3Lu4O3IZKkXepYVsR1Z6milRnaw==;UdQsnB+yL7cvPK6DxQtKlg=="
+secured: "rMnOOYZhkLCTPcbtLGLdZFl+F7b1sW8uuU253ur1ZPSB8SJD5sS693HSUEGVrwcgohM5B0JTIiNXs07wC808w0zNmfWR8yDjDQmaiITsgotzxPIATjyJFxzX9k6xztS3tcqwqG7oMY+hrrNoqGtKJzqfWV18qba6RvxXy4kPF+L+oKrWTvAurL1jaBZtqZT3IFCYAamaek6LPtykMUw+FOHtWIVKzdqC/HpHGSFmH0THMogLU1ZuOxcOff7kT+tB2907VHM6kdr/108sSPh0+xhvH7UoH0ig9EsVaanesyOEiZR8P/qNcV7bSKV+WaKG9rNjpKjxqHOL93K1sqpubQ==;uHSW116x2d853cD2s4phzg=="
 ---
 

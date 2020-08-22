@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self Driving Wheelchair Market"
-    excerpt: "The Self Driving Wheelchair Market report includes overview which interprets value chain structure industrial environment regional analysis applications market size and forecast This is a latest report covering the current COVID 19 impact on the market The pandemic of Coronavirus"
-    publishedDateTime: 2020-08-17T13:29:00Z
-    webUrl: "https://www.openpr.com/news/2114444/self-driving-wheelchair-market-to-2026-high-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2114444/self-driving-wheelchair-market-to-2026-high-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2114444/self-driving-wheelchair-market-to-2026-high-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
-    images:
-      - url: "https://cdn.openpr.com/T/8/T817502014_g.jpg"
-        width: 800
-        height: 529
-        isCached: true
   - title: "Beijing Makes Self-Driving Vehicles A Priority"
     excerpt: "The Chinese government has designated autonomous driving, along with 5G and artificial intelligence, as one of the strategic technologies to counteract the economic impact of the COVID-19 pandemic, boosted by state investment fund that has breathed new life into the ecosystem."
     publishedDateTime: 2020-08-19T09:26:00Z
@@ -118,22 +102,6 @@ related:
       - url: "https://munley.com/wp-content/uploads/TuSimple_AFN_graphic-300x204.jpg"
         width: 300
         height: 204
-        isCached: true
-  - title: "40 Miles Of Highway Turned Into Testing Ground For Self-Driving Cars In Michigan"
-    excerpt: "The future is here, and it’s Google-funded. The state of Michigan in the United States has unveiled its plans to begin testing self-driving cars as part of its long-term initiative to improve public transport over the coming years."
-    publishedDateTime: 2020-08-17T14:28:00Z
-    webUrl: "https://www.unilad.co.uk/technology/40-miles-of-highway-turned-into-testing-ground-for-self-driving-cars-in-michigan/"
-    ampWebUrl: "https://www.unilad.co.uk/technology/40-miles-of-highway-turned-into-testing-ground-for-self-driving-cars-in-michigan/amp/"
-    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/40-miles-of-highway-turned-into-testing-ground-for-self-driving-cars-in-michigan/amp/"
-    type: article
-    provider:
-      name: UNILAD
-      domain: unilad.co.uk
-    quality: 39
-    images:
-      - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/08/selfdrivingCAVNUE.jpg&quality=70&width=808"
-        width: 808
-        height: 424
         isCached: true
   - title: "How Self-Driving Systems are Ushering in a New Era of Transportation"
     excerpt: "Self-driving vehicles like robo-taxis are one way that people will be able to get around while also social distancing. AVs and other self-driving applications have already proven helpful in the fight against the virus in China by transporting essential ..."

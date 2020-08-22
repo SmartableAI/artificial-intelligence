@@ -20,6 +20,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/08/17aaug-ms-768x512.jpg"

@@ -23,35 +23,19 @@ images:
     isCached: true
 
 related:
-  - title: "How robotics and automation could create new jobs in the new normal"
-    excerpt: "The COVID-19 crisis could accelerate a robotics revolution and impact jobs -- but it's not necessarily all bad news for workers."
-    publishedDateTime: 2020-08-17T14:13:00Z
-    webUrl: "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/"
-    ampWebUrl: "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/amp/"
+  - title: "3 of the Best Uses for AI in Our New Normal"
+    excerpt: "Artificial intelligence (AI) is the most disruptive innovation of our lifetime. Its adoption has grown 60 percent in the last year, according to an April 2020 report by Narrative Science. The report’s authors say the technology is having a “significant ..."
+    publishedDateTime: 2020-08-18T18:25:00Z
+    webUrl: "https://www.mysanantonio.com/business/article/3-of-the-Best-Uses-for-AI-in-Our-New-Normal-15492802.php"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/robotics-automation-new-jobs.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 599
-        isCached: true
-  - title: "AI the Next Automation: New and Not New"
-    excerpt: "A few years ago, when AI started gaining popularity amongst business thinkers, the term automation was simply not applied into any AI conversation. Now you cannot escape from hearing about it. So, what changed and why does this matter so much for ..."
-    publishedDateTime: 2020-08-19T17:06:00Z
-    webUrl: "https://www.cio.com/article/3571747/ai-the-next-automation-new-and-not-new.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
+      name: My San Antonio
+      domain: mysanantonio.com
     quality: 37
     images:
-      - url: "https://images.idgesg.net/images/article/2020/08/abstract-technology-100855072-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://s.hdnux.com/photos/01/13/50/23/19825899/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "riYAwi6rlRtSqwKu0gkSYE8kwFF3fWuIoHV2vMWbEn/eQ9/P8nSDX/3VmIMzbnitxDPakKvMIW6NASHVwmZkTMUbzoJqDhmKSKPgcfyYYbXRf8Dn7sOsLpAKzOGowpfWnaYPogElYX+QOygJfi8virCMPqsduc0rP8gBHTRViZLpTea9LgC1Wi5S8LKCsQ5datk0Ju1WEdVxCUZa+LfVppd3CKTyM3XhH6keSZunVlkd6NpSHgvgq3ySQ7TNOhahs48eurPenKiqLgapl18T+7bMGt35oy/pYelpcK9gUwPkAHAvYGZ1Ayabvhm45uOjareAt+812F04LH6N1To2djTI8oqR8Zq+lEpk+lYfd8DXYJi4j22OHJgAjQP6JFJP39SFNvEo8UzuJaR+HdJGlYp9rC7KjqsdnuBpvtRC2Cw3Ln0hVXXtM7vTfLgV664azKFw5ho7p55oal9igWoiA0H/AzO0w2eSGGEgqkEwoiyzaUxGmFUTZpeez324R9/YafeNbcnlx8xYHAEVhx4UzA==;c9wld/QIkonhF9jRnXuUdg=="

@@ -301,20 +301,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "‘Fawkes’ tool protects you from facial recognition online"
-    excerpt: "A new software tool called Fawkes can \"cloak\" photos before you upload them to social media to prevent facial recognition algorithms from identifying you."
-    publishedDateTime: 2020-08-17T14:35:00Z
-    webUrl: "https://www.futurity.org/facial-recognition-fawkes-tool-2423462/"
-    type: article
-    provider:
-      name: Futurity News
-      domain: futurity.org
-    quality: 39
-    images:
-      - url: "https://www.futurity.org/wp/wp-content/uploads/2020/08/fawkes-facial-recognition_1600.jpg"
-        width: 1600
-        height: 915
-        isCached: true
   - title: "Global facial recognition company working closely with Government"
     excerpt: "A major company at the centre of controversies over facial recognition technology in the US and UK is working closely with the Government. Tokyo-based NEC, which has resisted a Black Lives Matter-inspired ban in America, is updating passport systems here ..."
     publishedDateTime: 2020-08-19T01:46:00Z

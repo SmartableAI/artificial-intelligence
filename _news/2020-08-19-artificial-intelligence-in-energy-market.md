@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Education Market Global Industry Analysis Segments Top Key Players Drivers And Trends To 2029"
+    excerpt: "Trends In Artificial Intelligence in Education Market 2020. Straits Research announces the addition of its new research report titled, “Artificial Intelligence in Education Mark"
+    publishedDateTime: 2020-08-19T15:03:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/135039/artificial-intelligence-in-education-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "8R4c2+fXsqcSVNa6m6H2op3dWJx572YdiLBedgZ+6y/nY8DhABMqMj5xBT/mGJg9lBZalg6pGB172iaYlJbdof50+XDaq2MacVPAQFKHoR2bm8Iba9oQwDCcrGH0CYAnV1qRK5ee2TDWhPVtDfCRYlrgxcPSZGE+VMQgRfLg5107IMucgUxrFyl6aGi4pVVbUmLi+BZxPtJcIV7KcRym4dc+ioWgggtpCEMEavi50XKEGZQC6lW1/i9YuV3YbqBQ+3oDfzkBC7QydlKvu0Gw/AhTg1tIO7gUh7GvTPlcJSp5hri1DhKP07tIPRfhetzdmsRwGUno+tDOVqRQlVEvsQ==;2xUY7ZAKnwzYQ8hZ2AIXsw=="
 ---

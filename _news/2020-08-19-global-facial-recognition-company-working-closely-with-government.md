@@ -301,20 +301,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "‘Fawkes’ tool protects you from facial recognition online"
-    excerpt: "A new software tool called Fawkes can \"cloak\" photos before you upload them to social media to prevent facial recognition algorithms from identifying you."
-    publishedDateTime: 2020-08-17T14:35:00Z
-    webUrl: "https://www.futurity.org/facial-recognition-fawkes-tool-2423462/"
-    type: article
-    provider:
-      name: Futurity News
-      domain: futurity.org
-    quality: 39
-    images:
-      - url: "https://www.futurity.org/wp/wp-content/uploads/2020/08/fawkes-facial-recognition_1600.jpg"
-        width: 1600
-        height: 915
-        isCached: true
   - title: "Global Facial Recognition Market Forecast 2019-2028"
     excerpt: "The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security ..."
     publishedDateTime: 2020-08-19T14:34:00Z

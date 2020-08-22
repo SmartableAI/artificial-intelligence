@@ -2,6 +2,106 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-07-17-ai-in-fashion-market-growing-at-a-cagr-408-key-player-microsoft-ibm-google-aws-sap.md",
+      "title": "AI in Fashion Market Growing at a CAGR 40.8% | Key Player Microsoft, IBM, Google, AWS, SAP",
+      "excerpt": "The global AI in Fashion Market is expected to grow from USD 228 million in 2019 to USD 1,260 million by 2024, at",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-growing-at-a-cagr-408-key-player-microsoft-ibm-google-aws-sap-2020-07-16",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-17T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-ai-researchers-say-weve-squeezed-nearly-as-much-out-of-modern-computers-as-we-can.md",
+      "title": "AI researchers say we’ve squeezed nearly as much out of modern computers as we can",
+      "excerpt": "Deep learning‘s reached the end of its rope. At least according to a group of MIT researchers who recently conducted an audit of more than 1,000 pre-print papers on arXiv. We’ve run out of compute, basically.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/17/ai-researchers-say-weve-squeezed-nearly-as-much-out-of-modern-computers-as-we-can/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/07/robots-796x433.jpg",
+          "width": 796,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/17/ai-researchers-say-weve-squeezed-nearly-as-much-out-of-modern-computers-as-we-can/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/17/ai-researchers-say-weve-squeezed-nearly-as-much-out-of-modern-computers-as-we-can/amp/",
+      "publishedDateTime": "2020-07-17T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-federal-agencies-concerned-face-masks-will-thwart-facial-recognition-tech.md",
       "title": "Federal agencies concerned face masks will thwart facial recognition tech",
       "excerpt": "The US Department of Homeland Security has raised concerns internally that face masks meant to protect against the spread of COVID-19 may interfere with facial recognition technology, The Intercept reported.",
@@ -1343,88 +1443,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool.md",
-      "title": "Translate ancient hieroglyphs with Google's new AI-powered tool",
-      "excerpt": "It's been 221 years since the discovery of the Rosetta Stone—a key tool for deciphering Egyptian hieroglyphs. To celebrate the anniversary, Google this week launched Fabricius, a new Arts & Culture tool that lets anyone play classical linguist.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/google-ai-ancient-translations-fabricius/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F07%252F16%252Ff6%252F66a780e167964d65ab19a4d99ea58b2b.1facd.png%252F1200x630.png?signature=deLEc7xGcwqwndP88ulKUH8V6sQ=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.md",
-      "title": "Japanese robot to clock in at a convenience store in test of retail automation",
-      "excerpt": "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation.",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2020/07/Japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.jpg",
-          "width": 646,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/",
-      "publishedDateTime": "2020-07-16T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

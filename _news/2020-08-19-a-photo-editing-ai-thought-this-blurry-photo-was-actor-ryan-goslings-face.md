@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/ryan-gosling-face-photo-editor-gigap
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ryan-gosling-face-photo-editor-gigapixel-ai-2020-8?amp"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo"
-    excerpt: "Photographer Jomppe Vaarakallio has been a professional retoucher for 30 years, but he's never seen anything quite like this before. While working on an"
-    publishedDateTime: 2020-08-17T13:39:00Z
-    webUrl: "https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 37
-    images:
-      - url: "https://petapixel.com/assets/uploads/2020/08/ryangosling_feat.jpg"
-        width: 1600
-        height: 840
-        isCached: true
 
 secured: "r9kFdKCua6FNZSWBa6HouyD5qhuiDPwaXY45erh7pCeImkLS2SvhPzcTG9GM+W4fC9+b9HHMsDZ7V9AW95D9XSeq9vX4uIVyOaBB6/U7Zxi7nF2wBuCNW3SxF1NtzC3gyItkKd5YV3DIEo+z6Zji8oYCm0V1idYml0S0NxuLtDQIQJOuRnzE+S7Tqh7kbRo/V6gOJA5BPRyuyvXHDEKwQ+mLPiBPXRGv1o8X8fc+6KHtPSp07BDxYiOPPMJufZx13YJWJuSsG7lU5tVS/Q+hFxSgUuvDp25fS0S2pToniVfZmytHMy8X/7mwxhj67GCDd9JyweCoG8TWk2uYAK44u/Mxmv2a6GM2ubqlfXdaRqkG2KVjgu0Yn1098ugkSG0EkaSmONt3T+sCDDwy+TWgBILZtbAeobEkTYKoAhPhNtxpCZJqE2bPsN/GRVlGIjJBStT4b+oUcMz82wNvlbTCXO7M7r/GWNMQ924dVoPZuHjwzRqtz5MF1J/JziiUv05n;GDE7laNiUfJxltu0HMNCHw=="
 ---
