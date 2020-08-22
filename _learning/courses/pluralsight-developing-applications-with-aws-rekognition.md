@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/aws-rekognition-developing-applicati
 type: course
 price: $$
 length: 1h 27m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

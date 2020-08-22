@@ -2,7 +2,7 @@
 title: "The Best Free PyTorch Learning Resources in 2020"
 excerpt: "A handpicked collection of free PyTorch learning resources. PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing. It is primarily developed by Facebook's AI Research lab."
 type: collection
-heat: 25234
+heat: 75
 
 items:
   - courses/pytorch-deep-learning-with-pytorch-a-60-minute-blitz
@@ -20,8 +20,10 @@ topics:
   - Facebook AI
 
 images:
-  - url: https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png
-    width: 1025
-    height: 205
-    title: PyTorch
+  - url: https://pytorch.org/tutorials/_images/pytorch-logo-flat.png
+    width: 400
+    height: 280
+    title: "Deep Learning with PyTorch: A 60 Minute Blitz"
+
 ---
+

@@ -4,11 +4,10 @@ excerpt: "Master the World of Machine Learning – Even if You’re a Complete B
 webUrl: https://www.amazon.com/Machine-Learning-Mathematics-Artificial-Intelligence-ebook/dp/B07Z413J9J/
 type: book
 price: $19.38
-length: 
 ratings:
   count: 25
   average: 4.5
-heat: -8
+heat: 50
 
 provider:
   name: Amazon

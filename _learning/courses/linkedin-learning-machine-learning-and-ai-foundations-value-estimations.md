@@ -5,7 +5,7 @@ webUrl: https://www.linkedin.com/learning/machine-learning-and-ai-foundations-va
 type: course
 price: $39.99
 length: 1:4
-heat: 0
+heat: 50
 
 provider:
   name: LinkedIn Learning

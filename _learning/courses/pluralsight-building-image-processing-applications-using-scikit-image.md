@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/scikit-image-building-image-processi
 type: course
 price: $$
 length: 1h 49m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

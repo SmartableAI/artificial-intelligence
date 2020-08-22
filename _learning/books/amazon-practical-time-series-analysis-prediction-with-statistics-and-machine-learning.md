@@ -4,11 +4,10 @@ excerpt: "Time series data analysis is increasingly important due to the massive
 webUrl: https://www.amazon.com/Practical-Time-Analysis-Prediction-Statistics/dp/1492041653/
 type: book
 price: $42.99
-length: 
 ratings:
   count: 24
   average: 3.9
-heat: 3
+heat: 50
 
 provider:
   name: Amazon

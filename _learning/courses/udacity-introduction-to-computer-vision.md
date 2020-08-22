@@ -5,7 +5,7 @@ webUrl: https://classroom.udacity.com/courses/ud810
 type: course
 price: Free
 length: 4 Months
-heat: 0
+heat: 50
 
 provider:
   name: Udacity

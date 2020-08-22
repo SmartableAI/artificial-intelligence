@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/devintersection-azureai-session-22
 type: course
 price: $$
 length: 48m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

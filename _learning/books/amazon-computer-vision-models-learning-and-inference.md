@@ -4,11 +4,10 @@ excerpt: "This modern treatment of computer vision focuses on learning and infer
 webUrl: https://www.amazon.com/Computer-Vision-Models-Learning-Inference/dp/1107011795/
 type: book
 price: $47.88
-length: 
 ratings:
   count: 34
   average: 4.4
-heat: 1
+heat: 50
 
 provider:
   name: Amazon

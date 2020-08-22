@@ -4,11 +4,10 @@ excerpt: "Artificial intelligence is a word that carries with it heavy connotati
 webUrl: https://www.amazon.com/Artificial-intelligence-modern-approach-application/dp/1082457264
 type: book
 price: $0.00
-length: 
 ratings:
   count: 15
   average: 4.2
-heat: -15
+heat: 50
 
 provider:
   name: Amazon

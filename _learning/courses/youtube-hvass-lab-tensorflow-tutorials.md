@@ -5,7 +5,7 @@ webUrl: https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ
 type: course
 price: Free
 length: 2 days
-heat: 0
+heat: 50
 
 provider:
   name: Hvass Labs
@@ -25,5 +25,6 @@ images:
     width: 839
     height: 472
     title: "TensorFlow Tutorials"
+
 ---
 

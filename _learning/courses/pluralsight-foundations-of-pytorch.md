@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/foundations-pytorch
 type: course
 price: $$
 length: 2h 51m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

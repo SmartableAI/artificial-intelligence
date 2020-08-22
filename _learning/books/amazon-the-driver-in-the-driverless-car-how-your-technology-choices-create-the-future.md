@@ -4,11 +4,10 @@ excerpt: "Tech experts Vivek Wadhwa and Alex Salkever describe dozens of astonis
 webUrl: https://www.amazon.com/Driver-Driverless-Car-Technology-Choices-ebook/dp/B07PM8QWP9/
 type: book
 price: $11.99
-length: 
 ratings:
   count: 47
   average: 4.2
-heat: 1
+heat: 50
 
 provider:
   name: Amazon

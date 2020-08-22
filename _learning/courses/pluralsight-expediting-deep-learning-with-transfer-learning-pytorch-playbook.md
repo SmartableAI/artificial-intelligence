@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/expediting-deep-learning-transfer-py
 type: course
 price: $$
 length: 1h 46m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

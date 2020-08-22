@@ -4,8 +4,7 @@ excerpt: "The phenomenon that makes machines such as computers or mobile phones 
 webUrl: https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720
 type: article
 price: Free
-length: 
-heat: 0
+heat: 50
 
 provider:
   name: Medium

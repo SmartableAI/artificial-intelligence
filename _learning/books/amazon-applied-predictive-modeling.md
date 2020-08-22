@@ -4,11 +4,10 @@ excerpt: "Applied Predictive Modeling covers the overall predictive modeling pro
 webUrl: https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485/
 type: book
 price: $33.43
-length: 
 ratings:
   count: 126
   average: 4.4
-heat: 8
+heat: 50
 
 provider:
   name: Amazon

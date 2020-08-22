@@ -3,9 +3,7 @@ title: "Chris Urmson: How a driverless car sees the road"
 excerpt: "Statistically, the least reliable part of the car is ... the driver. Chris Urmson heads up Google's driverless car program, one of several efforts to remove humans from the driver's seat. He talks about where his program is right now, and shares fascinating footage that shows how the car sees the road and makes autonomous decisions about what to do next."
 webUrl: https://www.youtube.com/watch?v=tiwVMrTLUWg
 type: video
-price: 
-length: 
-heat: 0
+heat: 50
 
 provider:
   name: YouTube

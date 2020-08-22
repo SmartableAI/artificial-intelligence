@@ -4,11 +4,10 @@ excerpt: "What do flashlights, the British invasion, black cats, and seesaws hav
 webUrl: https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/
 type: book
 price: $21.68
-length: 
 ratings:
   count: 709
   average: 4.7
-heat: 64
+heat: 50
 
 provider:
   name: Amazon

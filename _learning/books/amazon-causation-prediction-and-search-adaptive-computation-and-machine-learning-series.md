@@ -4,11 +4,10 @@ excerpt: "The authors address the assumptions and methods that allow us to turn 
 webUrl: https://www.amazon.com/Causation-Prediction-Adaptive-Computation-Learning/dp/0262527928/
 type: book
 price: $70.00
-length: 
 ratings:
   count: 2
   average: 4.3
-heat: 0
+heat: 50
 
 provider:
   name: Amazon

@@ -5,7 +5,7 @@ webUrl: https://www.edx.org/course/deep-learning-with-python-and-pytorch
 type: course
 price: Free+
 length: 6 Weeks
-heat: 353
+heat: 50
 
 provider:
   name: edX
@@ -37,5 +37,6 @@ images:
     width: 378
     height: 224
     title: "Deep Learning with Python and PyTorch"
+
 ---
 

@@ -4,8 +4,7 @@ excerpt: "Developers often hear about leveraging machine learning algorithms in 
 webUrl: https://algorithmia.com/blog/introduction-machine-learning-developers
 type: article
 price: Free
-length: 
-heat: 0
+heat: 50
 
 provider:
   name: algorithmia.com
@@ -19,5 +18,6 @@ images:
   - url: https://algorithmia.com/blog/wp-content/uploads/2016/10/machine-learning-introduction-fb1.png
     width: 1400
     height: 715
+
 ---
 

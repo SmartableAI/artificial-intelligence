@@ -4,11 +4,10 @@ excerpt: "Linear algebra is relatively easy for students during the early stages
 webUrl: https://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0321385179/
 type: book
 price: $11.98
-length: 
 ratings:
   count: 202
   average: 3.9
-heat: 3
+heat: 50
 
 provider:
   name: Amazon

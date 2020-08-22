@@ -4,8 +4,7 @@ excerpt: "The purpose of this article in the 101 for Dummies like Me series is t
 webUrl: https://towardsdatascience.com/machine-learning-101-for-dummies-like-me-bdc6d03e1a38
 type: article
 price: Free
-length: 
-heat: 0
+heat: 50
 
 provider:
   name: towardsdatascience.com
@@ -19,5 +18,6 @@ images:
   - url: https://miro.medium.com/max/1400/1*yCrFCAmgOukq6SKrO-dBJw.png
     width: 1400
     height: 715
+
 ---
 

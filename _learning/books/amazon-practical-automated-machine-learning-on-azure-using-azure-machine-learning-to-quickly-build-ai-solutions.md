@@ -4,11 +4,10 @@ excerpt: "Develop smart applications without spending days and weeks building ma
 webUrl: https://www.amazon.com/Practical-Automated-Machine-Learning-Azure/dp/149205559X/
 type: book
 price: $44.65
-length: 
 ratings:
   count: 3
   average: 4.3
-heat: 0
+heat: 50
 
 provider:
   name: Amazon

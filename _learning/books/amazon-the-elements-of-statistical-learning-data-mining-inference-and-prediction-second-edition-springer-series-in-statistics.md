@@ -4,11 +4,10 @@ excerpt: "This book describes the important ideas in a variety of fields such as
 webUrl: https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/
 type: book
 price: $62.93
-length: 
 ratings:
   count: 325
   average: 4.2
-heat: 36
+heat: 50
 
 provider:
   name: Amazon

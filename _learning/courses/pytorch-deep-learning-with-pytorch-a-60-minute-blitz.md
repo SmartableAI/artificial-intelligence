@@ -5,7 +5,7 @@ webUrl: https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 type: course
 price: Free
 length: 1 hour
-heat: 3282
+heat: 50
 
 provider:
   name: pytorch.org

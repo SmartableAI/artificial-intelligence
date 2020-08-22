@@ -4,11 +4,10 @@ excerpt: "Through a series of recent breakthroughs, deep learning has boosted th
 webUrl: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/
 type: book
 price: $50.99
-length: 
 ratings:
   count: 745
   average: 4.4
-heat: 93
+heat: 50
 
 provider:
   name: Amazon

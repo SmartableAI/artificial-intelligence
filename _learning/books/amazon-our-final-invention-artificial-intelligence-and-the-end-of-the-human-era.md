@@ -4,11 +4,10 @@ excerpt: "In as little as a decade, artificial intelligence could match and then
 webUrl: https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/1250058783/
 type: book
 price: $10.88
-length: 
 ratings:
   count: 467
   average: 4.1
-heat: 18
+heat: 50
 
 provider:
   name: Amazon

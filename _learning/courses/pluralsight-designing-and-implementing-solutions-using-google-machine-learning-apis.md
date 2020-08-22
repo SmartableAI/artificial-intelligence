@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/google-machine-learning-apis-designi
 type: course
 price: $$
 length: 1h 37m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

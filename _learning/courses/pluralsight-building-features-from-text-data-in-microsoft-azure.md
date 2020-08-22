@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/microsoft-azure-building-features-te
 type: course
 price: $$
 length: 1h 54m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

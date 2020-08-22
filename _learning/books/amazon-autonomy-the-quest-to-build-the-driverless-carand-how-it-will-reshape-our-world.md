@@ -4,11 +4,10 @@ excerpt: "An automotive and tech world insider investigates the quest to develop
 webUrl: https://www.amazon.com/Autonomy-Quest-Driverless-Car-Reshape/dp/0062661124/
 type: book
 price: $13.98
-length: 
 ratings:
   count: 67
   average: 4.1
-heat: 3
+heat: 50
 
 provider:
   name: Amazon

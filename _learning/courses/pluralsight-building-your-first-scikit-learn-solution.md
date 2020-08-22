@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/building-first-scikit-learn-solution
 type: course
 price: $$
 length: 2h 7m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

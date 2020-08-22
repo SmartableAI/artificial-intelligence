@@ -5,7 +5,7 @@ webUrl: https://github.com/oxford-cs-deepnlp-2017/lectures
 type: course
 price: Free
 length: 3 months
-heat: 0
+heat: 50
 
 provider:
   name: Oxford
@@ -23,5 +23,6 @@ images:
     width: 400
     height: 400
     title: "Oxford University"
+
 ---
 

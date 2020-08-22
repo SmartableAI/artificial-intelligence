@@ -5,7 +5,7 @@ webUrl: https://classroom.udacity.com/courses/cs373
 type: course
 price: Free
 length: 2 Months
-heat: 0
+heat: 50
 
 provider:
   name: Udacity

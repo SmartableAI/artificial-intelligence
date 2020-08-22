@@ -4,11 +4,10 @@ excerpt: "Ready to crank up a virtual server and smash through petabytes of data
 webUrl: https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction/dp/1549617214/
 type: book
 price: $13.32
-length: 
 ratings:
   count: 198
   average: 4.4
-heat: 26
+heat: 50
 
 provider:
   name: Amazon

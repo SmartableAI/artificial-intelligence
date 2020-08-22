@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/microsoft-azure-cognitive-services-b
 type: course
 price: $$
 length: 1h 10m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

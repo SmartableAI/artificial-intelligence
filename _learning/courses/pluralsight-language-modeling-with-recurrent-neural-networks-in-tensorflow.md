@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/tensorflow-language-modeling-recurre
 type: course
 price: $$
 length: 2h 35m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

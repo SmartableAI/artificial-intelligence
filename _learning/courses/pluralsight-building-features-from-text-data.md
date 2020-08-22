@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/building-features-text-data
 type: course
 price: $$
 length: 2h 36m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

@@ -4,11 +4,10 @@ excerpt: "Dr. Kai-Fu Lee—one of the world’s most respected experts on AI and
 webUrl: https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/
 type: book
 price: $12.99
-length: 
 ratings:
   count: 562
   average: 4.4
-heat: 66
+heat: 50
 
 provider:
   name: Amazon

@@ -5,7 +5,7 @@ webUrl: https://classroom.udacity.com/courses/ud188
 type: course
 price: Free
 length: 2 Months
-heat: 2120
+heat: 50
 
 provider:
   name: Udacity
@@ -16,6 +16,7 @@ provider:
       height: 50
   publishers:
     - name: Facebook AI
+      domain: 
 
 levels:
   - Advanced
@@ -31,5 +32,6 @@ images:
     width: 280
     height: 240
     title: "Intro to Deep Learning with PyTorch"
+
 ---
 

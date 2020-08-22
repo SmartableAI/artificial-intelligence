@@ -4,11 +4,10 @@ excerpt: "The New York Times bestseller, from leading innovation expert Alec Ros
 webUrl: https://www.amazon.com/Industries-Future-Alec-Ross/dp/1476753660/
 type: book
 price: $10.00
-length: 
 ratings:
   count: 514
   average: 4.4
-heat: 38
+heat: 50
 
 provider:
   name: Amazon

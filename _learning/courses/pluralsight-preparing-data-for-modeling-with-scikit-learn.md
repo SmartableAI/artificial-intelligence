@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/preparing-data-modeling-scikit-learn
 type: course
 price: $$
 length: 3h 40m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

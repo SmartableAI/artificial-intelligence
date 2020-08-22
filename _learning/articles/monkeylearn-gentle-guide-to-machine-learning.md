@@ -4,6 +4,7 @@ excerpt: "Machine Learning is a subfield within Artificial Intelligence that bui
 webUrl: https://monkeylearn.com/blog/gentle-guide-to-machine-learning/
 type: article
 price: Free
+heat: 50
 
 provider:
   name: MonkeyLearn
@@ -18,4 +19,6 @@ images:
     width: 720
     height: 336
     title: "A Gentle Guide to Machine Learning"
+
 ---
+

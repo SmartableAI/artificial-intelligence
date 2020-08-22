@@ -4,11 +4,10 @@ excerpt: "Superintelligence asks the questions: What happens when machines surpa
 webUrl: https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/
 type: book
 price: $9.99
-length: 
 ratings:
   count: 862
   average: 4.1
-heat: 79
+heat: 50
 
 provider:
   name: Amazon

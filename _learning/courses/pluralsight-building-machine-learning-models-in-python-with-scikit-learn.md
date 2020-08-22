@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/python-scikit-learn-building-machine
 type: course
 price: $$
 length: 3h 13m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

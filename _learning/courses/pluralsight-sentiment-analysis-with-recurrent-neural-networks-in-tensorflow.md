@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/tensorflow-sentiment-analysis-recurr
 type: course
 price: $$
 length: 2h 54m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

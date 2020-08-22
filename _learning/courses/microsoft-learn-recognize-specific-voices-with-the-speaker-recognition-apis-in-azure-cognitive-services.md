@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/recognize-voices-with-spe
 type: course
 price: Free
 length: 0:52
-heat: 0
+heat: 50
 
 provider:
   name: Microsoft Learn

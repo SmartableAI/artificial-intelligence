@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/using-pytorch-in-the-cloud-playbook
 type: course
 price: $$
 length: 2h 21m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

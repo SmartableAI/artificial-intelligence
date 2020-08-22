@@ -4,11 +4,10 @@ excerpt: "The book provides an accessible overview of the field of statistical l
 webUrl: https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/
 type: book
 price: $57.65
-length: 
 ratings:
   count: 510
   average: 4.7
-heat: 67
+heat: 50
 
 provider:
   name: Amazon

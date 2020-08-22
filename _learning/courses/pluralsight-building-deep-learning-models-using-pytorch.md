@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/pytorch-building-deep-learning-model
 type: course
 price: $$
 length: 3h 18m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

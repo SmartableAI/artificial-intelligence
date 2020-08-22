@@ -2,7 +2,7 @@
 title: "AWS Machine Learning / AI courses in Pluralsight"
 excerpt: "AWS has a number of machine learning and artificial intelligence services and products that can be used in conjunction with each other to make smart applications. In this path you’ll become familiar with them and see each one in action."
 type: collection
-heat: 13234
+heat: 75
 
 items:
   - courses/pluralsight-getting-started-with-amazon-lex
@@ -23,8 +23,10 @@ topics:
   - AWS AI
 
 images:
-  - url: https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png
-    width: 512
-    height: 512
-    title: "AWS Machine Learning / AI"
+  - url: https://pluralsight.imgix.net/course-images/audience/software-development.jpg
+    width: 1280
+    height: 721
+    title: "Getting Started with Amazon Lex"
+
 ---
+

@@ -4,11 +4,10 @@ excerpt: "A sparse statistical model has only a small number of nonzero paramete
 webUrl: https://www.amazon.com/Statistical-Learning-Sparsity-Generalizations-Probability/dp/1498712169/
 type: book
 price: $83.05
-length: 
 ratings:
   count: 11
   average: 4.8
-heat: 0
+heat: 50
 
 provider:
   name: Amazon

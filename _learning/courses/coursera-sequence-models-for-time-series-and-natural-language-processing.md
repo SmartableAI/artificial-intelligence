@@ -5,7 +5,7 @@ webUrl: https://www.coursera.org/learn/sequence-models-tensorflow-gcp
 type: course
 price: Free+
 length: 13 hours
-heat: 0
+heat: 50
 
 provider:
   name: Coursera

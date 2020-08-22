@@ -4,11 +4,10 @@ excerpt: "Deep Learning with Python introduces the field of deep learning using 
 webUrl: https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/
 type: book
 price: $22.00
-length: 
 ratings:
   count: 379
   average: 4.5
-heat: 53
+heat: 110
 
 provider:
   name: Amazon

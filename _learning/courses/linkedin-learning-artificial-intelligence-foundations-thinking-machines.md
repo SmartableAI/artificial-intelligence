@@ -4,8 +4,7 @@ excerpt: "This course will introduce you to some of the key concepts behind arti
 webUrl: https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines
 type: course
 price: $24.99
-length: 
-heat: 0
+heat: 50
 
 provider:
   name: LinkedIn Learning

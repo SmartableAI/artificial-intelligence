@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/applying-machine-learning-data-gcp
 type: course
 price: $$
 length: 2h 52m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

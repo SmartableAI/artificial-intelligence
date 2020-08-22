@@ -3,9 +3,7 @@ title: "What is the Difference between AI, Machine Learning, and Deep Learning"
 excerpt: "AI means getting a computer to mimic human behavior in some way. Machine learning is a subset of AI, and it consists of the techniques that enable computers to figure things out from the data and deliver AI applications. Deep learning, meanwhile, is a subset of machine learning that enables computers to solve more complex problems."
 webUrl: https://blogs.oracle.com/bigdata/difference-ai-machine-learning-deep-learning
 type: answer
-price: 
-length: 
-heat: 0
+heat: 50
 
 provider:
   name: Oracle

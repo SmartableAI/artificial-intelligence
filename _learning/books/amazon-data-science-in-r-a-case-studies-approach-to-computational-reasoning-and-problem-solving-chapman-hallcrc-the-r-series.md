@@ -4,11 +4,10 @@ excerpt: "The book illustrates the details involved in solving real computationa
 webUrl: https://www.amazon.com/Data-Science-Approach-Computational-Reasoning/dp/1482234815/
 type: book
 price: $63.16
-length: 
 ratings:
   count: 6
   average: 4.2
-heat: 0
+heat: 50
 
 provider:
   name: Amazon

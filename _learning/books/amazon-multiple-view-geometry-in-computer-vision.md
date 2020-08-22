@@ -4,11 +4,10 @@ excerpt: "A basic problem in computer vision is to understand the structure of a
 webUrl: https://www.amazon.com/Multiple-View-Geometry-Computer-Vision/dp/0521540518/
 type: book
 price: $92.19
-length: 
 ratings:
   count: 38
   average: 4.7
-heat: 2
+heat: 50
 
 provider:
   name: Amazon

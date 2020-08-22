@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/employing-ensemble-methods-scikit-le
 type: course
 price: $$
 length: 2h 14m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

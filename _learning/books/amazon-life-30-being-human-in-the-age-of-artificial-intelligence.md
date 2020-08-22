@@ -4,11 +4,10 @@ excerpt: "How will artificial intelligence affect crime, war, justice, jobs, soc
 webUrl: https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/B0742JQF31/
 type: book
 price: $17.00
-length: 
 ratings:
   count: 310
   average: 4.3
-heat: 0
+heat: 50
 
 provider:
   name: Amazon

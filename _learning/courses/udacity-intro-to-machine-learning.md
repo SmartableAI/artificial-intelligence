@@ -5,7 +5,7 @@ webUrl: https://classroom.udacity.com/courses/cs271
 type: course
 price: Free
 length: 10 Weeks
-heat: 0
+heat: 50
 
 provider:
   name: Udacity

@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/smart-analytics-machine-learning-ai-
 type: course
 price: $$
 length: 1h 40m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

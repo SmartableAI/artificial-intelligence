@@ -8,7 +8,7 @@ length: 8 hours
 ratings:
   count: 189
   average: 4.3
-heat: 155
+heat: 50
 
 provider:
   name: Coursera

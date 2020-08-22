@@ -4,11 +4,10 @@ excerpt: "Learn Optimizing Machine Learning Model Performance from Alberta Machi
 webUrl: https://www.coursera.org/learn/optimize-machine-learning-model-performance
 type: course
 price: Free+
-length: 
 ratings:
   count: 0
   average: 0
-heat: 0
+heat: 50
 
 provider:
   name: Coursera

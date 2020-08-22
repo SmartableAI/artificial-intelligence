@@ -4,8 +4,7 @@ excerpt: "A simple, concise, 5 page document about the most common machine learn
 webUrl: https://remicnrd.github.io/the-machine-learning-cheatsheet/
 type: article
 price: Free
-length: 
-heat: 0
+heat: 50
 
 provider:
   name: Rémi Canard's blog

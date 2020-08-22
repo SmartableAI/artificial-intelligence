@@ -4,11 +4,10 @@ excerpt: "If you want a basic understanding of computer vision’s underlying th
 webUrl: https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549/
 type: book
 price: $38.66
-length: 
 ratings:
   count: 34
   average: 3.9
-heat: 1
+heat: 50
 
 provider:
   name: Amazon

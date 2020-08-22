@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/building-neural-networks-scikit-lear
 type: course
 price: $$
 length: 1h 55m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

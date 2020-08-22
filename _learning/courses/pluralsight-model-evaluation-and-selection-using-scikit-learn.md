@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/model-evaluation-selection-scikit-le
 type: course
 price: $$
 length: 1h 17m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

@@ -4,11 +4,10 @@ excerpt: "In the coming decade, intelligent cars and trucks will hit the streets
 webUrl: https://www.amazon.com/Driverless-Intelligent-Cars-Ahead-Press-ebook/dp/B01K13FURS/
 type: book
 price: $9.99
-length: 
 ratings:
   count: 25
   average: 4.4
-heat: 0
+heat: 50
 
 provider:
   name: Amazon

@@ -3,9 +3,7 @@ title: "What is DeepRacer?"
 excerpt: "AWS DeepRacer is an integrated learning system for users of all levels to learn and explore reinforcement learning and to experiment and build autonomous driving applications. It consists of an AWS Machine Learning service, AWS DeepRacer 1/18th scale RC vehicles, and DeepRacer League for paticipants to compete."
 webUrl: https://aws.amazon.com/deepracer/
 type: answer
-price: 
-length: 
-heat: 0
+heat: 50
 
 topics:
   - AI

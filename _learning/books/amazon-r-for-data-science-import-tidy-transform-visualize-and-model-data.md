@@ -4,11 +4,10 @@ excerpt: "Learn how to use R to turn raw data into insight, knowledge, and under
 webUrl: https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/
 type: book
 price: $38.79
-length: 
 ratings:
   count: 386
   average: 4.7
-heat: 56
+heat: 50
 
 provider:
   name: Amazon

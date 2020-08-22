@@ -4,11 +4,10 @@ excerpt: "Third edition of the bestselling, widely acclaimed R machine learning 
 webUrl: https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1788295862/
 type: book
 price: $35.99
-length: 
 ratings:
   count: 41
   average: 4.7
-heat: 5
+heat: 50
 
 provider:
   name: Amazon

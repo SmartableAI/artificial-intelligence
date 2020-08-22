@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/python-natural-language-processing
 type: course
 price: $$
 length: 1h 43m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

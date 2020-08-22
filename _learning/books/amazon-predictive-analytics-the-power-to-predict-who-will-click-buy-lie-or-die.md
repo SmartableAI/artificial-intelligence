@@ -4,11 +4,10 @@ excerpt: "An introduction for everyone. In this rich, fascinating — surprising
 webUrl: https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1119145678/
 type: book
 price: $19.99
-length: 
 ratings:
   count: 211
   average: 4
-heat: 13
+heat: 50
 
 provider:
   name: Amazon

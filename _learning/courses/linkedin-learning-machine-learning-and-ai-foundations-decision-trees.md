@@ -5,7 +5,7 @@ webUrl: https://www.linkedin.com/learning/machine-learning-and-ai-foundations-de
 type: course
 price: $29.99
 length: 1:16
-heat: 0
+heat: 50
 
 provider:
   name: LinkedIn Learning

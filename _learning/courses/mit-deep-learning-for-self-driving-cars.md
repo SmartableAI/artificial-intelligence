@@ -5,7 +5,7 @@ webUrl: https://selfdrivingcars.mit.edu/
 type: course
 price: Free
 length: 2 weeks
-heat: 0
+heat: 50
 
 provider:
   name: MIT

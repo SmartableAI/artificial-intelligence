@@ -4,11 +4,10 @@ excerpt: "An introduction to a broad range of topics in deep learning, covering 
 webUrl: https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/
 type: book
 price: $25.20
-length: 
 ratings:
   count: 704
   average: 4
-heat: 91
+heat: 50
 
 provider:
   name: Amazon

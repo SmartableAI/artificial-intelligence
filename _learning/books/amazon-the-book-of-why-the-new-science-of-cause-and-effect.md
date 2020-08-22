@@ -4,11 +4,10 @@ excerpt: "A Turing Award-winning computer scientist and statistician shows how u
 webUrl: https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/
 type: book
 price: $19.16
-length: 
 ratings:
   count: 295
   average: 4.3
-heat: 43
+heat: 50
 
 provider:
   name: Amazon

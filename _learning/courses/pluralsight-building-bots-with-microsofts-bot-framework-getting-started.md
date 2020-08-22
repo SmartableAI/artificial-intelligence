@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/microsoft-bot-framework-building-bot
 type: course
 price: $$
 length: 3h 27m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

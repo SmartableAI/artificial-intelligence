@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/getting-started-amazon-lex
 type: course
 price: $$
 length: 1h 57m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

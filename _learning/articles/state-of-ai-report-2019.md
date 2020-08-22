@@ -3,9 +3,7 @@ title: "State of AI Report 2019"
 excerpt: "In this report, we set out to capture a snapshot of the exponential progress in AI with a focus on developments in the past 12 months. Consider this report as a compilation of the most interesting things we’ve seen that seeks to trigger an informed conversation about the state of AI and its implication for the future. "
 webUrl: https://www.stateof.ai/
 type: article
-price: 
-length: 
-heat: 0
+heat: 50
 
 provider:
   name: State of AI

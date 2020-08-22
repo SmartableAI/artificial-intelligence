@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/image-classification-pytorch
 type: course
 price: $$
 length: 3h 4m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

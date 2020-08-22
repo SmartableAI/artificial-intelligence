@@ -3,12 +3,10 @@ title: "Learning OpenCV: Computer Vision with the OpenCV Library"
 excerpt: "\"This library is useful for practitioners, and is an excellent tool for those entering the field: it is a set of computer vision algorithms that work as advertised.\"-William T. Freeman, Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology Learning OpenCV puts you in the middle of the rapidly expanding field of computer vision. Written by the creators of the"
 webUrl: https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/B0742JQF31/
 type: book
-price: 
-length: 
 ratings:
   count: 771
   average: 4.3
-heat: 153
+heat: 50
 
 provider:
   name: Amazon

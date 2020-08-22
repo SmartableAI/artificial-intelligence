@@ -4,11 +4,10 @@ excerpt: "This is the first textbook on pattern recognition to present the Bayes
 webUrl: https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/
 type: book
 price: $50.76
-length: 
 ratings:
   count: 324
   average: 4.3
-heat: 32
+heat: 50
 
 provider:
   name: Amazon

@@ -4,11 +4,10 @@ excerpt: "Deep learning is transforming software, facilitating powerful new arti
 webUrl: https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694/
 type: book
 price: $42.05
-length: 
 ratings:
   count: 57
   average: 4.5
-heat: 7
+heat: 50
 
 provider:
   name: Amazon

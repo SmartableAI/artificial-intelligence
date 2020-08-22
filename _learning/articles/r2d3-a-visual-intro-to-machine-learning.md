@@ -4,8 +4,7 @@ excerpt: "In machine learning, computers apply statistical learning techniques t
 webUrl: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 type: article
 price: Free
-length: 
-heat: 0
+heat: 50
 
 provider:
   name: r2d3.us
@@ -18,4 +17,6 @@ images:
   - url: http://www.r2d3.us/static/pages/decision-trees-part-1/preview-en.png
     width: 1120
     height: 600
+
 ---
+

@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/aws-sagemaker-machine-learning-model
 type: course
 price: $$
 length: 2h 40m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

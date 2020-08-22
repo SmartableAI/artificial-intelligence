@@ -5,7 +5,7 @@ webUrl: https://developers.google.com/machine-learning/crash-course/
 type: course
 price: Free
 length: 15 hours
-heat: 0
+heat: 50
 
 provider:
   name: Google Developers

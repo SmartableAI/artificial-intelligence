@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/building-sentiment-analysis-systems-
 type: course
 price: $$
 length: 2h 31m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

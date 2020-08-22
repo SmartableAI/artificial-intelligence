@@ -4,11 +4,10 @@ excerpt: "In this book, you find out types of machine learning techniques, model
 webUrl: https://www.amazon.com/Machine-Learning-Beginners-Understand-Intermediate-ebook/dp/B07RHG1WGF/
 type: book
 price: $18.59
-length: 
 ratings:
   count: 12
   average: 3.5
-heat: -5
+heat: 50
 
 provider:
   name: Amazon

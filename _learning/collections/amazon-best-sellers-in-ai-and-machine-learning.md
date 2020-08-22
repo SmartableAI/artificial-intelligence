@@ -2,7 +2,7 @@
 title: "Amazon Best Sellers in AI and Machine Learning"
 excerpt: "Amazon's most popular books based on sales for AI and Machine Learning."
 type: collection
-heat: 13234
+heat: 75
 
 items:
   - books/amazon-ai-superpowers-china-silicon-valley-and-the-new-world-order
@@ -25,8 +25,10 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=OIP.DMI_A-hPFK6uqXIn0hqo9AHaE8
-    width: 474
-    height: 316
-    title: Amazon Books
+  - url: https://m.media-amazon.com/images/I/81JjMSKLeLL._AC_UY218_ML3_.jpg
+    width: 145
+    height: 218
+    title: "AI Superpowers: China, Silicon Valley, and the New World Order"
+
 ---
+

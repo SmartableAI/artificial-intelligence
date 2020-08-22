@@ -4,11 +4,10 @@ excerpt: "Everything you really need to know in Machine Learning in a hundred pa
 webUrl: https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X/
 type: book
 price: $31.03
-length: 
 ratings:
   count: 326
   average: 4.6
-heat: 35
+heat: 50
 
 provider:
   name: Amazon

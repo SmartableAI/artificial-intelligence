@@ -4,11 +4,10 @@ excerpt: "This book, together with specially prepared online material freely acc
 webUrl: https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069/
 type: book
 price: $28.00
-length: 
 ratings:
   count: 172
   average: 4.5
-heat: 3
+heat: 50
 
 provider:
   name: Amazon

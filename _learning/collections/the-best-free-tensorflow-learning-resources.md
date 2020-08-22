@@ -2,7 +2,7 @@
 title: "The Best Free TensorFlow Learning Resources in 2020"
 excerpt: "A handpicked collection of free TensorFlow learning resources. TensorFlow is an open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks. "
 type: collection
-heat: 24234
+heat: 75
 
 items:
   - courses/coursera-introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning
@@ -33,8 +33,10 @@ tags:
   - TensorFlow
 
 images:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1200px-TensorFlowLogo.svg.png
-    width: 1200
-    height: 1000
-    title: TensorFlow
+  - url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/84/01ea39d1be4ab0aab85911baba4786/TFC1SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF
+    width: 400
+    height: 400
+    title: "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+
 ---
+

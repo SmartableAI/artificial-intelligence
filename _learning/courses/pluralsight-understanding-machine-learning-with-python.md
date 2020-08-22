@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/python-understanding-machine-learnin
 type: course
 price: $$
 length: 1h 53m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

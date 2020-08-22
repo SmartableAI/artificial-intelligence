@@ -4,11 +4,10 @@ excerpt: "Design and develop advanced computer vision projects using OpenCV with
 webUrl: https://www.amazon.com/OpenCV-Python-Blueprints-Michael-Beyeler/dp/1785282697/
 type: book
 price: $37.49
-length: 
 ratings:
   count: 14
   average: 3.9
-heat: 0
+heat: 50
 
 provider:
   name: Amazon

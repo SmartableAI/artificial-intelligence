@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/aws-ami-deep-learning-instances-fram
 type: course
 price: $$
 length: 1h 23m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

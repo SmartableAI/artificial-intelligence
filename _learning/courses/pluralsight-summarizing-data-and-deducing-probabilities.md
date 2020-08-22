@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/summarizing-data-deducing-probabilit
 type: course
 price: $$
 length: 2h 48m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

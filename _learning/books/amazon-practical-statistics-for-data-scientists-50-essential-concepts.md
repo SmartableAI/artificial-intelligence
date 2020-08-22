@@ -4,11 +4,10 @@ excerpt: "Statistical methods are a key part of data science, yet very few data 
 webUrl: https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/
 type: book
 price: $28.40
-length: 
 ratings:
   count: 173
   average: 4.3
-heat: 20
+heat: 50
 
 provider:
   name: Amazon

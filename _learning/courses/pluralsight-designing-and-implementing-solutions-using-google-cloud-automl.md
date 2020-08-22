@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/google-cloud-automl-designing-implem
 type: course
 price: $$
 length: 1h 41m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

@@ -4,8 +4,7 @@ excerpt: "Have you heard of machine learning, and you're trying to figure out ex
 webUrl: https://www.youtube.com/watch?v=elojMnjn4kk
 type: video
 price: Free
-length: 
-heat: 0
+heat: 50
 
 provider:
   name: YouTube

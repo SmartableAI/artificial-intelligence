@@ -4,8 +4,7 @@ excerpt: "A long blog post that explains machine learning in simple terms, with 
 webUrl: https://vas3k.com/blog/machine_learning/
 type: article
 price: Free
-length: 
-heat: 0
+heat: 50
 
 provider:
   name: vas3k blog

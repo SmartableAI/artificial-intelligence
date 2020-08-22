@@ -4,8 +4,7 @@ excerpt: "Early access book that provides basics of machine learning and using R
 webUrl: https://www.manning.com/books/machine-learning-with-r-tidyverse-and-mlr
 type: book
 price: Free+
-length: 
-heat: 0
+heat: 50
 
 provider:
   name: Manning

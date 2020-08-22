@@ -4,11 +4,10 @@ excerpt: "Artificial intelligence does the seemingly impossible, magically bring
 webUrl: https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670/
 type: book
 price: $18.39
-length: 
 ratings:
   count: 184
   average: 4.5
-heat: 23
+heat: 50
 
 provider:
   name: Amazon

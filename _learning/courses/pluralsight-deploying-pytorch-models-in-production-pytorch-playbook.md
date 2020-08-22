@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/deploying-pytorch-models
 type: course
 price: $$
 length: 2h 13m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

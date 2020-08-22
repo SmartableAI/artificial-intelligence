@@ -4,11 +4,10 @@ excerpt: "This book has been written in layman's terms as a gentle introduction 
 webUrl: https://www.amazon.com/Numsense-Data-Science-Layman-Added-ebook/dp/B01N29ZEM6/
 type: book
 price: $27.54
-length: 
 ratings:
   count: 154
   average: 4.6
-heat: 13
+heat: 50
 
 provider:
   name: Amazon

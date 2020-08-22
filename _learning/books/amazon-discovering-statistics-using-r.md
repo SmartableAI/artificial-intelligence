@@ -4,11 +4,10 @@ excerpt: "The R version of Andy Field′s hugely popular Discovering Statistics 
 webUrl: https://www.amazon.com/Discovering-Statistics-Using-Andy-Field/dp/1446200469/
 type: book
 price: $34.99
-length: 
 ratings:
   count: 245
   average: 4.4
-heat: 33
+heat: 50
 
 provider:
   name: Amazon

@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/style-transfer-pytorch
 type: course
 price: $$
 length: 1h 49m
-heat: 0
+heat: 50
 
 provider:
   name: Pluralsight

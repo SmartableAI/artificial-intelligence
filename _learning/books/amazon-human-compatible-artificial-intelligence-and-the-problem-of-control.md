@@ -4,11 +4,10 @@ excerpt: "A leading artificial intelligence researcher lays out a new approach t
 webUrl: https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616/
 type: book
 price: $25.20
-length: 
 ratings:
   count: 74
   average: 4.7
-heat: 12
+heat: 50
 
 provider:
   name: Amazon

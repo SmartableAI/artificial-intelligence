@@ -4,11 +4,10 @@ excerpt: "Linear algebra is a fundamental area of mathematics, and is arguably t
 webUrl: https://www.amazon.com/Linear-Algebra-Step-Kuldeep-Singh-ebook/dp/B016WNBNGI/
 type: book
 price: $37.72
-length: 
 ratings:
   count: 132
   average: 4.8
-heat: 20
+heat: 50
 
 provider:
   name: Amazon
