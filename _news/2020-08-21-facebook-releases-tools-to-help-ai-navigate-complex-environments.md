@@ -3,32 +3,29 @@ category: news
 title: "Facebook releases tools to help AI navigate complex environments"
 excerpt: "Facebook detailed its work in embodied machine learning, including new open source data sets and modules to advance the field."
 publishedDateTime: 2020-08-21T17:00:00Z
-webUrl: "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/"
-ampWebUrl: "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/amp/"
+webUrl: "https://ai.facebook.com/blog/new-milestones-in-embodied-ai"
 type: article
-quality: 89
-heat: 90
+quality: 167
+heat: 167
 published: true
 
 provider:
   name: VentureBeat
   domain: venturebeat.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/08/Title-Image-Updated-e1597900077579.jpg?w=1200&#038;strip=all"
-    width: 1200
-    height: 600
+  - url: "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/118001179_336826857450642_138048930536574310_n.jpg?_nc_cat=104&_nc_sid=ad8a9d&_nc_ohc=86hCvH_xUOsAX9Cd0RG&_nc_ht=scontent-sea1-1.xx&oh=a18aae16ca6818960db81647d365d9b2&oe=5F65DC72"
+    width: 1920
+    height: 910
     isCached: true
 
-secured: "Gq2Pdx2Wgy1aVbwPiIFJwy99xS4Xxd1R2Kiy0K1TTo/yrNjVsA9E5iLgZ1g9XvDoPviVWYJWeDX1NlrbPtI6+OfDEueuVi2731E+5g9DkmhWxGkl6twlPCbM0DmkvIfzhkQYq0bZ/5d/pJB3mHy0SVeqg6FdYVmOlwQp234jx5wPCKktFs8VyYi8VkID0CfrJ2QwO9GqnQMELTnVJuLYuXHtzgHO9S2s1XdSvsItfA92qiQPEO9NH2aNW2NNt28Og5Y+hIZMQs52MVBocu7l1iLzekxCCz9VV3OIFJ8NarfroRjSliAet13DgbLGcxDpXloZG8WmOqLFuMIWjL0cXl7H6CvrDHPeZ9u1Fn0evudwGc00eYmPpseQz0AY9nnOxYPyQXfEYXQIfd+MqNOTzcOhp0JdSOEtSGeHyVQ/Ph/lB5+tML++oJNTuWiO3KaORK6rzMfMhShPYGUKc49NmC7hpwRjaxfGEGPIKHy6MvGDlsmu210ghlPfv2xwOQ/ZalJ9/8PgnGDavPcNS1vakg==;rBRCk1Pgm99rHOX94Tz93Q=="
+secured: "NSrgUILHkVi1EyJqtwyOYlf6+4qJgG4ge73BcKz6E/H5MhBTjNPXP1OBJRoq4IvBa6xc30e+sN2N3ZMPmrMFTi1Pf+xDSE6t2/b3dpBAXje2l6xq65+PKKB5hVvcM09cdSyO0MenIZ9YHQDVPnuYCUc4jufpvYbEty0iTKNdc/5SJcgBxPMi6Ys6CDH3ImCj37P4pf1XHyEqRQmYXA70PC4SZWTtQ5tU1qdqLcUiobEGo3IesCKjy9xmB3Hj46zhMOdujgdlGHgJDOJwhjOhQnVknequ4+qqwqMkabTsVZm/zCgKL2UCIZdg38DRYlPPH7i9SW89amtijMZYnePCdw==;+w2mW1Z5SNmeY8NDq2uf/A=="
 ---
 

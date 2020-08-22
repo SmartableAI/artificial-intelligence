@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-18T21:09:00Z
 webUrl: "https://www.foxnews.com/tech/ai-enabled-air-force-unmanned-drones"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Fox News
@@ -25,22 +25,6 @@ images:
     width: 3000
     height: 1895
     isCached: true
-
-related:
-  - title: "AI Will Transform How The Air Force's Next Stealth Fighter Fights"
-    excerpt: "Should the Air Force and Navy prioritize the engineering of an entirely new platform with paradigm-changing technologies for a 6th-Generation fighter, or simply keep upgrading the state of the art 5th-Gen aircraft in the near term?"
-    publishedDateTime: 2020-08-18T01:05:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/ai-will-transform-how-air-forces-next-stealth-fighter-fights-167098"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-07-04T000000Z_1501579324_RC2NMH9PG8VW_RTRMADP_3_USA-JULYFOURTH%20%281%29.JPG"
-        width: 1400
-        height: 933
-        isCached: true
 
 secured: "eyc8eY9kYthsUnj80KV9YHjtIxM5dEmRhJObvoTrv45oo48DJUwV3KJP6LkQocbKikersC5j/GVwUR5RhztzhwRkq13CFpoBe0LjU5RzrqYkBloTWBdo6gsDdXPaPY/8Qed85TdWyDDy72l8/C1xxOWXcpEIQKISpSOgE0oBZvaiP3ajaDd++l45xHSMCnWza+hTQXEqrnckNtCuAo5jWXE1mj4hSvK2F2+mjFd3eRFutyZrjxAZWPlxggmSTAaf2/Wm4Pcde2i25zhxEa560VAoyVAjTMyU0URCbqxegAOzkPTyCe5tKlbK5wN0cSTEzVh1UZpvUCYTIakvR+3RoIRJu+yhFNrMC8CHw7nYC3c662DxmLcYe45ktBsoQJWy7TRixu07jwQJXMjaXlSi2QFT7oubxeI9iSIHM0dNQQX3/Jyw84uouGgZGs/VG8rFyPVSjt3g7cTSzS1jYRwJQ8hyQ6nw/qDI8bpZg6dORUsO9jiw77tXmg9k84y4R8YBee+9jct9iD0fTeHyKN6Wmg==;gK8kY9JAI5OzbAiCuKa1LQ=="
 ---

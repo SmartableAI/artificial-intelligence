@@ -27,12 +27,12 @@ related:
   - title: "Artificial intelligence applications in health care on the rise"
     excerpt: "Columbia University professor and robotics engineer Hod Lipson knows the importance of artificial intelligence (AI) on a global level. “It permeates everything we do, from the stock market, from predicting the weather to what product you’re going to buy,"
     publishedDateTime: 2020-08-20T22:24:00Z
-    webUrl: "https://www.bioworld.com/articles/496865-artificial-intelligence-applications-in-health-care-on-the-rise"
+    webUrl: "https://www.bioworld.com/articles/496865-artificial-intelligence-applications-in-health-care-on-the-rise?v=preview"
     type: article
     provider:
       name: BioWorld
       domain: bioworld.com
-    quality: 41
+    quality: 39
     images:
       - url: "https://www.bioworld.com/ext/resources/BW-source/2020/Aug-2020/Hod-Lipson-Columbia-University-8-20.png?height=635&t=1597960760&width=1200"
         width: 847
