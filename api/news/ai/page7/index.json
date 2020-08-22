@@ -2,6 +2,135 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-08-14-son-of-minnesotas-attorney-general-i-hereby-declare-officially-my-support-for-antifa.md",
+      "title": "Son of Minnesota’s attorney general: 'I hereby declare, officially, my support for ANTIFA'",
+      "excerpt": "Jeremiah Ellison, who is a member of the Minneapolis ... tweeting in 2018 about a book promoting it. In a post on Twitter, Ellison said that he found the book \"Antifa: The Anti-Fascist Handbook ...",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/yoda69?lang=en",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-latent-ai-wins-2020-startup-of-the-year-award-from-iot-world.md",
+      "title": "Latent AI Wins 2020 Startup of the Year Award from IoT World",
+      "excerpt": "Latent AI, creators of the Latent AI Efficient Inference Platform (LEIP) and the latest spinout from SRI International, has been recognized as the 2020 \"Startup of the Year\" from IoT World during their virtual awards ceremony on August 12,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/latent-ai-wins-2020-startup-of-the-year-award-from-iot-world-1029504377",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/latent-ai-wins-2020-startup-of-the-year-award-from-iot-world-1029504377",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/latent-ai-wins-2020-startup-of-the-year-award-from-iot-world-1029504377",
+      "publishedDateTime": "2020-08-14T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence.md",
+      "title": "EqualAI Challenges Companies and Leaders to Pledge to Reduce Bias in Artificial Intelligence",
+      "excerpt": "There are immediate actions that organizations can take to identify and reduce bias within their existing systems. EqualAI has been seeking out ways that companies can go beyond m",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence-2020-08-13",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T02:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-8-ways-how-artificial-intelligence-can-develop-and-grow-your-business.md",
       "title": "#8 Ways How Artificial Intelligence Can Develop and Grow Your Business",
       "excerpt": "The novel pandemic has further increased the demand for technology. Artificial Intelligence (AI), also referred to as machine intelligence, has been drastically disrupting the world of technology. It is developing at a fast pace and will soon become an ...",
@@ -511,7 +640,7 @@
       "title": "Algorithm created by deep learning finds potential therapeutic targets throughout the human genome",
       "excerpt": "Researchers at the New Jersey Institute of Technology and the Children's Hospital of Philadelphia have developed an algorithm through machine learning that helps predict sites of DNA methylation -- a process that can change the activity of DNA without changing its overall structure.",
       "sourceUrl": null,
-      "webUrl": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061",
+      "webUrl": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061&WT.mc_id=USNSF_1",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1267,137 +1396,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-why-ai-is-the-future-of-delivering-customer-experiences-with-a-human-touch.md",
-      "title": "Why AI Is The Future Of Delivering Customer Experiences With A Human Touch",
-      "excerpt": "Organizations face a new strategic challenge: evaluating how the crisis has changed customer behaviors and what this means for the delivery of a post-Covid-19 customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/13/why-ai-is-the-future-of-delivering-customer-experiences-with-a-human-touch/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33fae78e26add3d640245e%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021.md",
-      "title": "Intel Xe-HPG: gaming GPU with ray tracing tech and GDDR6 ships in 2021",
-      "excerpt": "Intel announces new Xe microarchitecture variant: Xe-HPG -- a gaming-optimized GPU with ray tracing and GDDR6 memory ships in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/index.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tweaktown.com/images/news/7/4/74476_03_intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021.png",
-          "width": 620,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/amp.html",
-      "publishedDateTime": "2020-08-13T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-miso-robotics-names-mike-bell-new-ceo-to-accelerate-operational-growth.md",
-      "title": "Miso Robotics Names Mike Bell New CEO to Accelerate Operational Growth",
-      "excerpt": "Miso Robotics – the startup leading intelligent automation for commercial kitchens – proudly introduces its newly appointed CEO,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/miso-robotics-names-mike-bell-new-ceo-to-accelerate-operational-growth-301111756.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

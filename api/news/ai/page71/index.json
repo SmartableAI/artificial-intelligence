@@ -2,6 +2,138 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2020-06-18-serbian-parliamentary-vote-campaign-taps-greek-beaches-chinese-robots.md",
+      "title": "Serbian parliamentary vote campaign taps Greek beaches, Chinese robots",
+      "excerpt": "On Monday June 15, President Vučić visited the Center for Robotics and Artificial Intelligence in Education (CRVIO) in Belgrade, holding a public meeting with a humanoid robot made in China, called Ema. They held a conversation in Serbian. Vučić ...",
+      "sourceUrl": null,
+      "webUrl": "https://globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://globalvoices.org/wp-content/uploads/2020/06/20200516-Aleksandar-Vucic-online-rally-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Serbian parliamentary vote campaign taps Greek beaches, Chinese robots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/amp/",
+      "cdnAmpWebUrl": "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/amp/",
+      "publishedDateTime": "2020-06-18T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Voices Online",
+        "domain": "globalvoices.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models.md",
+      "title": "Microsoft acquires ADRM Software to beef up Azure with industry data models",
+      "excerpt": "Microsoft announced that it acquired ADRM Software, a provider of large-scale industry data models used by companies as 'information blueprints.'",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft acquires ADRM Software to beef up Azure with industry data models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/",
+      "publishedDateTime": "2020-06-18T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-pg-diploma-in-data-science-and-artificial-intelligence-ai.md",
+      "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
+      "excerpt": "Data Science and Artificial Intelligence (AI), has emerged as a thriving field from Industry Utility and Employability point of view. This market is likely to swell to $20 billion by 2025. Companies a",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_58525325.jpg",
+          "width": 900,
+          "height": 489,
+          "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
+      "publishedDateTime": "2020-06-18T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory.md",
       "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
       "excerpt": "Chip giant Intel on Thursday unveiled new 3rd Gen Intel Xeon Scalable processors and additions to its hardware and software AI portfolio.",

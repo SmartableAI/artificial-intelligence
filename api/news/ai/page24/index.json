@@ -2,6 +2,139 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-07-28-insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure.md",
+      "title": "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure",
+      "excerpt": "Insight Enterprises (NASDAQ:NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
+      "publishedDateTime": "2020-07-28T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-explorium-raises-30-million-to-automate-data-prep-with-ai.md",
+      "title": "Explorium raises $30 million to automate data prep with AI",
+      "excerpt": "Explorium, a Tel Aviv-based startup developing an automated data and feature discovery platform, secured $30 million in financing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/aviv-1024x511.png?w=1200&#038;strip=all",
+          "width": 1024,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/amp/",
+      "publishedDateTime": "2020-07-28T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-commentary-the-real-reason-were-afraid-of-robots.md",
+      "title": "Commentary: The real reason we're afraid of robots",
+      "excerpt": "Artificial intelligence is everywhere. It helps drive your car, recognizes your face at the airport's immigration checkpoint, interprets your CT scans, reads your resume, traces your interactions on social media,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fltimes.com/news/nation/commentary-the-real-reason-were-afraid-of-robots/article_34f7f15b-8a65-5b35-a151-d30f23801663.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-advertima-rings-up-175m-for-computer-vision-powered-behavioral-analytics-for-in-store-retail.md",
       "title": "Advertima rings up $17.5M for computer vision-powered behavioral analytics for in-store retail",
       "excerpt": "Swiss computer vision startup Advertima has raised a €15 million Series A (~$17.5 million) to build out a machine learning platform for physical retail stores to ‘upgrade’ the shopping experience via real-time shopper behavior analytics.",
@@ -1211,129 +1344,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-google-created-ais-that-can-teach-and-program-themselves.md",
-      "title": "Google Created AIs That Can Teach and Program Themselves",
-      "excerpt": "Machine Learning That Writes Itself Meanwhile, another research project at Google, AutoML, is showing that it is not only possible for AI to teach itselff but to program itself. AutoML (short for “automated machine learning”) allows for “controller ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/google-created-ais-can-teach-and-program-themselves",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Go%20Player%20hand.png",
-          "width": 902,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-research-reveals-how-to-optimize-neural-networks-on-a-brain-inspired-computer.md",
-      "title": "Research Reveals How to Optimize Neural Networks on a Brain-Inspired Computer",
-      "excerpt": "Neural networks in both biological settings and artificial intelligence distribute computation across their neurons to solve complex tasks. New research now shows how so-called “critical states” can be used to optimize artificial neural networks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/off-the-wire/research-reveals-how-to-optimize-neural-networks-on-a-brain-inspired-computer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/summit-image-405x228.jpg",
-          "width": 405,
-          "height": 228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-the-nvidia-dgx-2-is-the-worlds-largest-gpu-and-its-made-for-ai.md",
-      "title": "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI",
-      "excerpt": "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/NVIDIA_DGX-2_cropped_1522130618.jpg",
-          "width": 1314,
-          "height": 986,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

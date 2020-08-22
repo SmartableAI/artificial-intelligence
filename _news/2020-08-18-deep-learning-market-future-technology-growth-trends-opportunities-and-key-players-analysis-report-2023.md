@@ -21,26 +21,12 @@ related:
   - title: "Deep Learning Market 2020-2023: Growth, Emerging Trends, And Forecast"
     excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
     publishedDateTime: 2020-08-19T07:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19"
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19?mod=mw_quote_news&tesla=y"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Neural Network Software Market Research By Growth, Competitive Methods And Forecast To 2026"
-    excerpt: "Aug 17, 2020 (Heraldkeepers) -- The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it covers neural network software, services, platform and ..."
-    publishedDateTime: 2020-08-17T10:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-growth-competitive-methods-and-forecast-to-2026-2020-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

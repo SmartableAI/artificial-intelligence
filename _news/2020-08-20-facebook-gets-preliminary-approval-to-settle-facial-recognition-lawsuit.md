@@ -126,17 +126,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Controversial facial recognition tech firm Clearview AI inks deal with ICE"
-    excerpt: "The US Department of Homeland Security (DHS) has signed a contract with Clearview AI to give Immigration and Customs Enforcement (ICE) access to the controversial facial recognition firm's technology."
-    publishedDateTime: 2020-08-17T09:21:00Z
-    webUrl: "https://www.zdnet.com/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
   - title: "Global Facial Recognition Market Forecast 2019-2028"
     excerpt: "KEY FINDINGS The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security,"
     publishedDateTime: 2020-08-20T00:12:00Z
@@ -315,20 +304,6 @@ related:
       - url: "https://www.futurity.org/wp/wp-content/uploads/2020/08/fawkes-facial-recognition_1600.jpg"
         width: 1600
         height: 915
-        isCached: true
-  - title: "QNAP QVR Face facial recognition solution for NVR and NAS"
-    excerpt: "Networking, and storage design and manufacturing company QNAP, as this week announced that its rackmount NAS models now support QVR Face, the QNAP"
-    publishedDateTime: 2020-08-17T11:02:00Z
-    webUrl: "https://www.geeky-gadgets.com/facial-recognition-17-08-2020/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/08/facial-recognition.jpg"
-        width: 700
-        height: 500
         isCached: true
   - title: "Global facial recognition company working closely with Government"
     excerpt: "A major company at the centre of controversies over facial recognition technology in the US and UK is working closely with the Government. Tokyo-based NEC, which has resisted a Black Lives Matter-inspired ban in America, is updating passport systems here ..."

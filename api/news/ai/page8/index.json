@@ -2,6 +2,137 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-08-13-why-ai-is-the-future-of-delivering-customer-experiences-with-a-human-touch.md",
+      "title": "Why AI Is The Future Of Delivering Customer Experiences With A Human Touch",
+      "excerpt": "Organizations face a new strategic challenge: evaluating how the crisis has changed customer behaviors and what this means for the delivery of a post-Covid-19 customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/13/why-ai-is-the-future-of-delivering-customer-experiences-with-a-human-touch/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33fae78e26add3d640245e%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-13T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021.md",
+      "title": "Intel Xe-HPG: gaming GPU with ray tracing tech and GDDR6 ships in 2021",
+      "excerpt": "Intel announces new Xe microarchitecture variant: Xe-HPG -- a gaming-optimized GPU with ray tracing and GDDR6 memory ships in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/index.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tweaktown.com/images/news/7/4/74476_03_intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021.png",
+          "width": 620,
+          "height": 347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/amp.html",
+      "publishedDateTime": "2020-08-13T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-miso-robotics-names-mike-bell-new-ceo-to-accelerate-operational-growth.md",
+      "title": "Miso Robotics Names Mike Bell New CEO to Accelerate Operational Growth",
+      "excerpt": "Miso Robotics – the startup leading intelligent automation for commercial kitchens – proudly introduces its newly appointed CEO,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/miso-robotics-names-mike-bell-new-ceo-to-accelerate-operational-growth-301111756.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-the-newest-fintech-unicorn-is-a-credit-card-and-its-betting-against-big-banks.md",
       "title": "The newest fintech unicorn is a credit card, and it's betting against big banks",
       "excerpt": "Musician John Legend and former AOL CEO Tim Armstrong are among the big money backers behind credit.ai, a new fintech banking and credit platform, including its Unicorn Card, designed for millennials distrustful of big banks.",
@@ -1275,128 +1406,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-facebook-to-engage-external-auditors-to-validate-its-content-review-report.md",
-      "title": "Facebook to engage external auditors to validate its content review report",
-      "excerpt": "Currently, the company reports across 12 areas on Facebook and 10 on Instagram, including bullying, harassment, hate speech, and graphic content.",
-      "sourceUrl": null,
-      "webUrl": "https://transparency.facebook.com/community-standards-enforcement",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/-XM2Nhn2gP6.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning.md",
-      "title": "AI startup steps in to unlock the puzzle of infertility with machine learning",
-      "excerpt": "Computer vision technology helps physicians identify the most viable embyos for implantation, reducing the time to pregnancy for patients on average by 15%.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/12/ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-539667929.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/12/ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/12/ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning/amp/",
-      "publishedDateTime": "2020-08-12T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-artificial-intelligence-ethics-a-primary-concern-for-ibm.md",
-      "title": "Artificial intelligence ethics a 'primary concern' for IBM",
-      "excerpt": "Technology Editor at the Australian David Swan says it is “incredibly important” to address the ethics in artificial intelligence in order to protect the use of Australian data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.adelaidenow.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adelaide Now",
-        "domain": "adelaidenow.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

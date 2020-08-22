@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/</loc>
+    <lastmod>2020-08-21T19:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.fool.com/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/</loc>
     <lastmod>2020-08-21T16:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -349,6 +355,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://news.sky.com/story/are-driverless-cars-coming-to-british-roads-12052661</loc>
+    <lastmod>2020-08-19T15:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.scmp.com/tech/start-ups/article/3097991/pets-china-now-have-their-own-robot-friends-which-can-entertain-and</loc>
     <lastmod>2020-08-19T15:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -517,7 +529,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19</loc>
+    <loc>https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19?mod=mw_quote_news&amp;tesla=y</loc>
     <lastmod>2020-08-19T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -901,6 +913,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/</loc>
+    <lastmod>2020-08-15T08:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.fool.com/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/</loc>
     <lastmod>2020-08-15T08:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1051,8 +1069,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/1f1f18b10965da73be73fd2d6ffb1286</loc>
-    <lastmod>2020-08-14T05:30:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/predictive-oncology-announces-dojolive-interview-with-helomics-cio-mark-collins-can-we-cure-cancer-with-artificial-intelligence-1029504873</loc>
+    <lastmod>2020-08-14T05:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1153,7 +1171,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061</loc>
+    <loc>https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061&amp;WT.mc_id=USNSF_1</loc>
     <lastmod>2020-08-13T13:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

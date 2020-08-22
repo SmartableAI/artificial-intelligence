@@ -8,8 +8,8 @@ ampWebUrl: "https://news.sky.com/story/amp/are-driverless-cars-coming-to-british
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/are-driverless-cars-coming-to-british-roads-12052661"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Sky
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Driverless cars: coming sooner than you think"
+    excerpt: "The higher levels, 4 and 5, are truly driverless, with the former being ... “If you want Artificial Intelligence (AI) in autonomous cars to perform really well then it has to be at the ..."
+    publishedDateTime: 2020-08-19T11:40:00Z
+    webUrl: "https://www.telegraph.co.uk/cars/features/driverless-cars-will-life-imitate-art-comes-safety/"
+    ampWebUrl: "https://www.telegraph.co.uk/cars/features/driverless-cars-will-life-imitate-art-comes-safety/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/cars/features/driverless-cars-will-life-imitate-art-comes-safety/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/cars/2020/08/21/0820_driverless_carsmedium_lead_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7PSsAIeVWg5VsMggdZY7tkY.jpg"
+        width: 2879
+        height: 1799
+        isCached: true
   - title: "Driverless car firm in Oxford analysing drivers' behaviour"
     excerpt: "Five AI was launched in 2016 by serial entrepreneur Stan Boland, and is currently testing its driverless car technology in London after receiving the single largest investment into an artificial intelligence business from the UK government. The company ..."
     publishedDateTime: 2020-08-18T21:15:00Z

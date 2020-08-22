@@ -1,31 +1,25 @@
 ---
 category: news
 title: "CEOs of ServiceNow, Weyland Tech, CloudMD, and Jumia Discuss Innovation in Cloud, Telemedicine, AI, Ecomm & Fintech:"
-excerpt: "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights from leaders at ServiceNow, Inc. (NYSE:NOW), Weyland Tech (OTC: WEYL), CloudMD (OTC: DOCRF) and Jumia Technologies (NYSE: JMIA)."
-publishedDateTime: 2020-08-20T22:12:00Z
-webUrl: "https://www.marketwatch.com/press-release/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-2020-08-20"
+excerpt: "On Journey to $10 Billion in Cloud Revenue - Destiny to Become Defining Enterprise Software Company of 21st century” Earnings call highlights:  Weyland Tech (OTC: WEYL)“The Shopify of Mobile in SE Asia ”w $40+ mil revenues” August 20 12:30EST investor livestream:  CloudMD (OTC: DOCRF): \"The Future of Telemedicine” Video:  Jumia Technologies AG (NYSE: JMIA) CEO Sacha Poignonnec: \"E-Commerce & Mobile Payments Adoption Accelerating in Africa” Earnings call highlights:  Highlights of CEO comments from latest earnings calls and investor conferences: ServiceNow,"
+publishedDateTime: 2020-08-20T15:44:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Weyland Tech Enters Agreement to Acquire Fixel AI, Leading Innovator in AI-Powered Digital Marketing Technology"
@@ -43,6 +37,6 @@ related:
         height: 630
         isCached: true
 
-secured: "NqZUwpMTSzMaocuJaELkruE9D6irBNKDwjcL0x+Oh+AvdltPHuEm15085KtbCkIFs+/6D5uEoFV23pfG1J70qmgF0d1giCqUAa+f4rFjDfEapia6CCndlsJc0Q7xDZd0Q1dFl/F06NP/ZIR7Zeih77MXQdCjzIpqEc9ebYVarryKmYf4Sfh9ryKOL8QY5RUgya5WGHfGRNQTqy7b6D8TA9nStG+OZlC8IivGCJIEcJikZljUbREcqJWrf5lV8/zCC5W5VF8sdcdko4zEuwcDI0rTf4jGroz7FNYO8nQmUy21euYecsPiGaXm0ePrtMByxrof/Vun/P62w9xEej66Sw==;VD89r4lYxi5a1P1B7zBTcg=="
+secured: "i8NuUMC3NCXgCRBwCuPmZfMGNHiCS+20FSl/BDOiTYHDtoXb/I4ATsXmWrggWdpmnG7+mzBLl/jAFaGLsuPwojexHvVRj1OdsY7CrGX5pLFEH30DUxtDMKuLWnmbc/h+0dfj7RoxBICq3dEJqpXUnSfABuHo4f8rqWnTzYVk6q0m1m6OJqAIRvrEXEqpYODNKtRuqpEiFWoa+CRgI63273Ye7v4+G/raQdlzAF+d8kmfa0whWXiRAU4yILQHjKMkQ4VcGVVtrOpuPeEm2pe4yY6V9cR4s3PyOmz03KUu6TfnDiMximYsS1oRNytq5iiGbLn33CioD7QI3Cz1aE6SvQ==;f4Bw4iIZEdJu9HpUIreZFA=="
 ---
 

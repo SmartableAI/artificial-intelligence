@@ -1,9 +1,9 @@
 ---
 category: news
 title: "inVia Recognized by Frost & Sullivan for its Unique Robotics-as-a-Service for Warehouse Operations"
-excerpt: "Contact us: Start the discussion. About inVia Robotics, Inc. inVia Robotics (inviarobotics.com) is an award-winning robotics company that provides the next generation of warehouse automation solutions. Our system leverages autonomous mobile robots and AI ..."
-publishedDateTime: 2020-08-18T19:03:00Z
-webUrl: "https://www.newswiretoday.com/news/173490/inVia-Recognized-by-Frost-and-Sullivan-for-its-Unique-Robotics-as-a-Service-for-Warehouse-Operations/"
+excerpt: "Based on its recent analysis of the North American goods-to-person robotics systems market, Frost & Sullivan recognizes inVia Robotics, Inc. with the 2020 North American New Product Innovation Award."
+publishedDateTime: 2020-08-18T17:12:00Z
+webUrl: "https://www.newswiretoday.com/news/173490/"
 type: article
 quality: 20
 heat: 20
@@ -17,6 +17,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "CWNH5L/ZVJwA7shs/Dh/i3K/XI6tPcabvd1jp+se+472ipcE4hfftW2TFYetQjnp+GSFX3dBjg4xaSr/LLDos7/XACfSAxVzhiR3UQTYK2hzpGVJpfk15C3aptEbxeHks3pQrhOSVklJncqm1Iuh9C0ZUTn1x85HfMofVeuP+9C90YZVMxoLODUcMAQYeIT1afqcAHiWeQ/yh7+2Wi2zW7iJ9dx3N9eFtIRRWVBVLfsdXCZfxoauZ13Z5/jeV3UuMl1rR2zVRAl7zRydUJ5U60W6mRwg2xgHhj+jgbMBj/pMHHuCToElZUGs3lwxZnMiY5BGgSWZuW/BE+WUt5rfBTp9IMeEuIHeJc6+Oj7AM2fASqT740CE3reTaWeGumAb18qIq7v2b/gRMnL/el6q4wPNwO67pd7Nqj2QUKtxloSUnwzqweTa2IrWydGW2ar7Qt26cTS6Zt+p7Sgb2MihOjOLpdCsVso9J7zF0wwWiByvxs2CRtE8tUZBxyWYtZxGSZ/meHUfgVMFhEekpwaYFQ==;/TQBf4iDHyxHzCw1rZHAFA=="
+secured: "j7FSHO7jfP7iNDASJFKZOvbIIjfnD19pjdCfQtgvHn/Q9g8Yr0AhR6gPIhVB1scsxjmEHXxJ0i4JAKrcjXqdj+MnMwvYTp/oC3ztVGIHW5j4XEw+bY98zrIcIA26GIxiEzl4m42n+w5OqxBVjdslDoB9EtPwLRd65n2nXQEG/eN/g2bZyj/0GQgQmUeU0ou/NK3TSve+ylSHKqIZMndgC7Y6UhNQO3LaxjL+glSPWAxUv1wA6XX0yiDcrFtcTUTVSbeCWB9EWHNtB1l0TOiNOz8BU38m06kVuo6DT0jbLGI/l7Kr76JGrO/yr3dzBdb1CQiK2KD6MOKZtJNI0ZzX9gcFw7we2hRczQEMGmVwJ5ddEsNAzfLxiw0DduxUosuDsP4X9v2YyjXzJZa+KQh4PpoS36/Ooa6DwNDkBR5q3QExAHTgk4nwStL4qlrYHGuynKcd6DWUW3AQqzoOHabTOzu636gxNT944A2JG54jt2B+xMHdP6g3HDZETJsZ221H;4xkYYCHZjpI0vhK42GruzQ=="
 ---
 

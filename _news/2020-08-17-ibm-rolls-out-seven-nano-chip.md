@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM rolls out new processor chip for faster AI computing"
-    excerpt: "International Business Machines Corp (IBM) announced on Monday a new processor chip for data centers that it says will be able to handle three times the workload of its predecessor. The IBM-designed Power10 chip will be manufactured by Samsung Electronics Co Ltd and is meant for use by businesses inside data centers,"
-    publishedDateTime: 2020-08-17T10:01:00Z
-    webUrl: "https://www.irishtimes.com/business/technology/ibm-rolls-out-new-processor-chip-for-faster-ai-computing-1.4332024"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 54
-    images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4332023&origw=1440"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Lightmatter Introduces Optical Processor to Speed Compute for Next-Generation Artificial Intelligence"
     excerpt: "Lightmatter, a leader in silicon photonics processors, today announces its artificial intelligence (AI) photonic processor, a general-purpose AI inference accelerator that uses light to compute and transport data."
     publishedDateTime: 2020-08-17T14:00:00Z

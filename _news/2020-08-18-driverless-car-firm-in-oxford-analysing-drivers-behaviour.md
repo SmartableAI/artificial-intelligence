@@ -40,6 +40,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Driverless cars: coming sooner than you think"
+    excerpt: "The higher levels, 4 and 5, are truly driverless, with the former being ... “If you want Artificial Intelligence (AI) in autonomous cars to perform really well then it has to be at the ..."
+    publishedDateTime: 2020-08-19T11:40:00Z
+    webUrl: "https://www.telegraph.co.uk/cars/features/driverless-cars-will-life-imitate-art-comes-safety/"
+    ampWebUrl: "https://www.telegraph.co.uk/cars/features/driverless-cars-will-life-imitate-art-comes-safety/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/cars/features/driverless-cars-will-life-imitate-art-comes-safety/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/cars/2020/08/21/0820_driverless_carsmedium_lead_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7PSsAIeVWg5VsMggdZY7tkY.jpg"
+        width: 2879
+        height: 1799
+        isCached: true
 
 secured: "hNaUUrTjTcAdprpIb4XLu+z8Tk1a0t8GIZxZ30amVcNGdpkOirVBAs8T0J1bynRs6sZ0VgKPaEVWt2sI5knoM03ocqYO4hbzUOsAdFqBr1uOddEUJNoOI0rvvMpJ2pWvnktBjYo0t4DrLmrOWjGZ0ZESPmygJhHgUhyvEJCQVU9yFaXCfGoWbaWghMBnZ1cfAh59ieTmcNqy4h8h1bsbGJwoKyk/IHYnh2iT5aAB1yH7arQva9CK4mNs0UHqwqEjvvM1a/TOSjslUXKcijvvVLmTVnzuJLnKwopGIexIbcXRRTlKXosyo+d9MPb+p0707G6+1E1sLQZsRCv3jIeXpQ==;KmmONxg6TVuO3faX2oe6cg=="
 ---

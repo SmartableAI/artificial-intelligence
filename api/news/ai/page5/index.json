@@ -2,6 +2,106 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-18-cloud-natural-language-processing-nlp-market-2020-2027-trends-analysis-segmentation-and-forecast.md",
+      "title": "Cloud Natural Language Processing (NLP) Market 2020-2027 / Trends, Analysis, Segmentation And Forecast",
+      "excerpt": "Aug 18, 2020 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2020-2027-trends-analysis-segmentation-and-forecast-2020-08-18?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-17T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-full-michelle-obama-dnc-speech-transcript-and-video.md",
+      "title": "Full Michelle Obama DNC Speech Transcript and Video",
+      "excerpt": "Michelle Obama, the former first lady, was the keynote speaker on the first night of the 2020 Democratic National Convention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/17/autossell/Michelle/Michelle-facebookJumbo.png",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.amp.html",
+      "publishedDateTime": "2020-08-17T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-new-york-city-says-it-will-reassess-police-use-of-facial-recognition.md",
       "title": "New York City says it will reassess police use of facial recognition",
       "excerpt": "\"That's something I will do with my team and the NYPD.\" The question came after NYPD admitted it had used facial",
@@ -439,7 +539,7 @@
       "webUrl": "https://www.nasdaq.com/articles/ibm-inks-deal-with-samsung-to-build-its-latest-chip-processor-2020-08-17",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": null,
       "type": "article",
@@ -711,7 +811,7 @@
       "webUrl": "https://www.zdnet.com/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -1295,105 +1395,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport.md",
-      "title": "Drive-In Theaters Are Coming Back, But Self-Driving Cars Could Be An Outdoor Movie Spoilsport",
-      "excerpt": "For those old enough to remember, the drive-in was once a dominant force in the movie-going foray and enjoyed tremendous success and growth. According to industry stats, in the tail end of the 1950s there were an astounding 4,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F471923631%2F0x0.jpg%3FcropX1%3D453%26cropX2%3D5600%26cropY1%3D1191%26cropY2%3D3604",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/amp/",
-      "publishedDateTime": "2020-08-15T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-these-4-drugmakers-are-using-ai-to-improve-their-products-does-it-make-them-better-buys.md",
-      "title": "These 4 Drugmakers Are Using AI to Improve Their Products. Does It Make Them Better Buys?",
-      "excerpt": "AstraZenca, GlaxoSmithKline, Novartis and Eli Lilly are using artificial intelligence systems to help in drug development, decision-making, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F587771%2Fartificial-intelligence-getty-628.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/",
-      "publishedDateTime": "2020-08-15T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

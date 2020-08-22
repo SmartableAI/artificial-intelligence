@@ -3,10 +3,10 @@ category: news
 title: "Deep Learning Market 2020-2023: Growth, Emerging Trends, And Forecast"
 excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
 publishedDateTime: 2020-08-19T07:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19"
+webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19?mod=mw_quote_news&tesla=y"
 type: article
 quality: 69
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Neural Network Software Market Research By Growth, Competitive Methods And Forecast To 2026"
-    excerpt: "Aug 17, 2020 (Heraldkeepers) -- The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it covers neural network software, services, platform and ..."
-    publishedDateTime: 2020-08-17T10:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-growth-competitive-methods-and-forecast-to-2026-2020-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Market New Innovations Trends, Research, Global Share and Growth Factor till 2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 19, 2020 (Global QYResearch via COMTEX) -- The global Deep Learning Market is estimated to grow at a healthy CAGR of over 51.1% from 2020 to 2027 and reach a valuation of ..."
     publishedDateTime: 2020-08-19T13:58:00Z
@@ -161,6 +147,6 @@ related:
       domain: ipsnews.net
     quality: 0
 
-secured: "a8uDbL+6CmoQWXTHexyUGJ+aWFLS1D5XhZHpSzkB58aDbh9p0QXZaiVMdTvSb2dA1aciBE6/vKROrVUZv6vE9zrytUyRGlF+zPQq8hvSwASn+cUuC/jq/I82/uHV9h4iz0hNiheCETu5CrdEzAu1+qJwMVbL0P0h/tHDj6TlxgnGmiVLR+29czPIrCPj2oLUZpPfIzO/NFTTtSghprS9pnjubZO7FUxFL3pv7QV5Tq13rJtiphLeEfWVMbutPtE8cdjtWjXtShxMckrwF2VskN2OZD8FOMsf9Rg4/zM6HXMNg7E9bBgMPY4d4UmuR15hUQ6//xLx+uD1yIU4Y/PdWA==;Qw3EPy1CXbeyE5u3nLx6lQ=="
+secured: "w+zMD/ZOJkspjTXh2ecw5VRQkit0kbCZoHby11PY7Hez8ZVx9g4GattCUD8MGhgYZhRdCU1y9w8e7mYRxobu/+iLGRyfN5PBeey0uQDMr1C4UYxOx74ntiBf83Z4wgbvOrrnvh94czDIDSUFQoSKleHmdJRjtwcXWc8wsDp04cNBVaQXHubfVlLeB8ksOTXUr83neXrtg1jJtFXQmvoU1UZ3P8trl3TnmGDAlPjcoScuDnpGRbTdLmXTSJFnpiqzGNZUoBe6K8fVVMiD0QDfvf9HA+5GpiCcLfS2JB4NV6kNIVv0IbiQg4M2Q4qFR4ADUaRLYPI8CVIjJJrrYVu+lQ==;oRI1TsPRCDEHIsXqO6luZA=="
 ---
 

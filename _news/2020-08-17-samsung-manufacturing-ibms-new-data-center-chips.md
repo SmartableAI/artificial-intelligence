@@ -29,20 +29,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "IBM hires Samsung to manufacture new data centre processor chip"
-    excerpt: "IBM has unveiled its latest processor chip for data centres that it claims can handle three times the workload of its predecessor."
-    publishedDateTime: 2020-08-17T10:43:00Z
-    webUrl: "https://www.siliconrepublic.com/companies/ibm-power-10-chip-data-centres-samsung"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/08/Power10.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "IBM picks Samsung to manufacture new data centre processor chip"
     excerpt: "Highlighting the chip’s AI capabilities, the company added that the Power10 will be up to 20 times faster at calculations for inference workloads than before. This will allow enterprises to train AI models faster and deploy them in the field. The company ..."
     publishedDateTime: 2020-08-19T16:43:00Z

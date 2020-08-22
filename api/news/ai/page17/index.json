@@ -2,6 +2,129 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-08-04-soon-your-brain-will-be-connected-to-a-computer-can-we-stop-hackers-breaking-in.md",
+      "title": "Soon, your brain will be connected to a computer. Can we stop hackers breaking in?",
+      "excerpt": "As the development of brain-computer interface technology speeds up, are security and privacy getting left behind?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/soon-your-brain-will-be-connected-to-a-computer-can-we-stop-hackers-breaking-in/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/soon-your-brain-will-be-connected-to-a-computer-can-we-stop-hackers-breaking-in/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/soon-your-brain-will-be-connected-to-a-computer-can-we-stop-hackers-breaking-in/",
+      "publishedDateTime": "2020-08-04T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-digital-assistants-in-healthcare-2020-2025-artificial-intelligence-ai-has-emerged-as-a-major-boon-amid-covid-19-researchandmarketscom.md",
+      "title": "Digital Assistants in Healthcare 2020-2025: Artificial Intelligence (AI) Has Emerged as a Major Boon Amid COVID-19 - ResearchAndMarkets.com",
+      "excerpt": "The \"Digital Assistants in Healthcare Market - Growth, Trends and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Digital Assistants in the Healthcare Market is projected to register a CAGR of almost 33.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200804005501/en/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200804005501/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-ai-for-ecg-flags-heart-failure-in-emergency-setting.md",
+      "title": "AI for ECG Flags Heart Failure in Emergency Setting",
+      "excerpt": "An ECG algorithm incorporating artificial intelligence (AI ... initiation of guideline directed medical therapy and social work if needed,\" study authors suggested. A limitation of the study ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/cardiology/chf/87884",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://clf1.medpagetoday.net/media/images/87xxx/87884.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions.md",
       "title": "LTTS expands collaboration with Microsoft to offer workplace transformation solutions",
       "excerpt": "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimise business metrics leveraging advanced IoT based Edge Analytics and machine learning algorithms,",
@@ -1198,147 +1321,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-proposed-voice-analysis-framework-preserves-both-accuracy-and-privacy.md",
-      "title": "Proposed voice analysis framework preserves both accuracy and privacy",
-      "excerpt": "Imperial College London researchers claim they’ve developed a voice analysis method that supports applications like speech recognition and identification while removing sensitive attributes such ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/03/proposed-voice-analysis-framework-preserves-both-accuracy-and-privacy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/03/proposed-voice-analysis-framework-preserves-both-accuracy-and-privacy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/03/proposed-voice-analysis-framework-preserves-both-accuracy-and-privacy/amp/",
-      "publishedDateTime": "2020-08-03T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-how-machine-learning-is-powering-a-new-generation-of-app-development.md",
-      "title": "How Machine Learning Is Powering A New Generation Of App Development",
-      "excerpt": "App development integrates many challenges, and these business decisions will trickle down to your user experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/03/how-machine-learning-is-powering-a-new-generation-of-app-development/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f241e89c6dd7fb1c4cf29d5%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/03/how-machine-learning-is-powering-a-new-generation-of-app-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/03/how-machine-learning-is-powering-a-new-generation-of-app-development/amp/",
-      "publishedDateTime": "2020-08-03T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-linode-cloud-gpus-outperform-aws-and-others-for-price-performance.md",
-      "title": "Linode Cloud GPUs Outperform AWS and Others for Price-Performance",
-      "excerpt": "Alternative cloud provider Linode has published a report titled \"GPU Price-Performance Benchmarking,\" highlighting commissioned research by Cloud Spectator evaluating the price-performance of Linode GPU-based virtual machines against those of Amazon Web Services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-9149653",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

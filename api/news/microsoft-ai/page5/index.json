@@ -2,6 +2,38 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-30-cognitive-grc-limited-launches-following-management-buyout-of-cordium-asia-limited.md",
+      "title": "Cognitive GRC Limited launches following management buyout of Cordium Asia Limited",
+      "excerpt": "2020 /PRNewswire/ -- Cognitive GRC Limited (Cognitive GRC), specialist providers of governance, risk and compliance services, announces its launch following a management buyout of Cordium Asia ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/cognitive-grc-limited-launches-following-management-buyout-of-cordium-asia-limited-9021894",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanzen",
+        "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-ibm-is-it-a-good-investment.md",
       "title": "IBM: Is “IT” a Good Investment?",
       "excerpt": "Over the past few years, the company has been transitioning from a computer manufacturer to a leading cloud platform and cognitive solutions company ... AMZN)’s AWS and Microsoft Corporation (NASDAQ:MSFT)’s Azure. Many on Wall Street were optimistic ...",
@@ -1292,47 +1324,6 @@
       "provider": {
         "name": "ITWeb",
         "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-sas-and-microsoft-partner-to-democratise-ai-and-analytics.md",
-      "title": "SAS and Microsoft Partner to Democratise AI and Analytics",
-      "excerpt": "The companies say that this partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform and supports their shared vision to further democratise AI and analytics. “Through this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2020/03/MICROSOFT-696x452.jpg",
-          "width": 696,
-          "height": 452,
-          "title": "SAS and Microsoft Partner to Democratise AI and Analytics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp",
-      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp",
-      "publishedDateTime": "2020-06-18T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -403,32 +403,32 @@
     {
       "path": "_news/2020-08-14-predictive-oncology-announces-dojolive-interview-with-helomics-cio-mark-collins-can-we-cure-cancer-with-artificial-intelligence.md",
       "title": "Predictive Oncology Announces DojoLIVE! Interview with Helomics CIO Mark Collins, ‘Can We Cure Cancer with Artificial Intelligence?’",
-      "excerpt": "The broadcast, titled ‘Can We Cure Cancer With Artificial Intelligence?’, is available for on-demand viewing on the DojoLIVE! website. As noted during the interview, Collins p",
+      "excerpt": "LOS ANGELES, Aug. 14, 2020 (GLOBE NEWSWIRE) -- via NetworkWire — Predictive Oncology Inc. (NASDAQ: POAI), a knowledge-driven company focused on",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/1f1f18b10965da73be73fd2d6ffb1286",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/predictive-oncology-announces-dojolive-interview-with-helomics-cio-mark-collins-can-we-cure-cancer-with-artificial-intelligence-1029504873",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T05:30:00-07:00",
+      "publishedDateTime": "2020-08-14T05:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

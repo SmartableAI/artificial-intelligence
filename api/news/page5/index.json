@@ -2,6 +2,97 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-18-5-big-myths-of-ai-and-machine-learning-debunked.md",
+      "title": "5 Big Myths of AI and Machine Learning Debunked",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML) are already powering tools that can give your business decision making processes a massive upgrade. Here’s what you really need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/207255/5-big-myths-of-ai-and-machine-learning-debunked",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-amazon-now-offers-third-party-solutions-for-contact-center-ai.md",
+      "title": "Amazon now offers third-party solutions for contact center AI",
+      "excerpt": "Amazon today announced the launch of AWS Contact Center Intelligence (CCI) solutions, a combination of services that enables customers to integrate contact centers with AI through partners in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/18/amazon-now-offers-third-party-solutions-for-contact-center-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/18/amazon-now-offers-third-party-solutions-for-contact-center-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/amazon-now-offers-third-party-solutions-for-contact-center-ai/amp/",
+      "publishedDateTime": "2020-08-18T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars.md",
       "title": "Hour One wants synthetic AI characters to be your digital avatars",
       "excerpt": "If you ever wondered how we’ll populate the metaverse, look no further than Hour One, an Israeli startup that is making replicas of people with AI avatars. These avatars can be a near-perfect ...",
@@ -719,7 +810,7 @@
       "webUrl": "https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 359,
+      "heat": 339,
       "tags": null,
       "images": [
         {
@@ -1098,96 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-ai-based-traffic-management-gets-green-light.md",
-      "title": "AI-based traffic management gets green light",
-      "excerpt": "Technology convergence allows for safer automated traffic lights with less waiting. When it's time to contract with an outside vendor for IT solutions, you need an easy way to compare the relative merits and faults of competing providers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-based-traffic-management-gets-green-light/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/4583de6c-e053-4b17-b5b9-9a2f1b4b432c/green-go.jpg",
-          "width": 960,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-based-traffic-management-gets-green-light/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-based-traffic-management-gets-green-light/",
-      "publishedDateTime": "2020-08-17T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-5-bleeding-edge-brands-that-are-infusing-retail-with-artificial-intelligence.md",
-      "title": "5 Bleeding-Edge Brands That Are Infusing Retail With Artificial Intelligence",
-      "excerpt": "Watch out, folks, the age of artificial-intelligence-powered retail is upon us, promising an unprecedented amount of data and information that can help merchants grow their businesses. Once the stuff of sci-fi novels,",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/digital/5-bleeding-edge-brands-are-infusing-retail-artificial-intelligence-175312/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/files/2016_Dec/jan02-cover-01-2016.png",
-          "width": 652,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/digital/5-bleeding-edge-brands-are-infusing-retail-artificial-intelligence-175312/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/5-bleeding-edge-brands-are-infusing-retail-artificial-intelligence-175312/amp/",
-      "publishedDateTime": "2020-08-17T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
