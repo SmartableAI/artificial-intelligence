@@ -1,28 +1,22 @@
 ---
 category: news
 title: "VMware Enhances Self-Driving Operations and Programmable Automation With Updates Across vRealize Cloud Management"
-excerpt: "Consistent Deployment and Operations of Apps, Infrastructure and Platform Services VMware vRealize Cloud Management offers new and innovative capabilities for modern infrastructure automation supporting DevOps principles and self-driving operations."
-publishedDateTime: 2020-08-18T12:12:00Z
-webUrl: "https://www.businesswire.com/news/home/20200818005307/en/"
+excerpt: "(NYSE: VMW) today announced innovations across its portfolio of VMware vRealize Cloud Management on-premises and software as a service (SaaS) offerings. The new and enhanced product capabilities combine to further enable customers to consistently deploy and operate their applications,"
+publishedDateTime: 2020-08-18T12:00:00Z
+webUrl: "https://www.wallstreet-online.de/nachricht/12844999-vmware-enhances-self-driving-operations-and-programmable-automation-with-updates-across-vrealize-cloud-management/all"
 type: article
-quality: 3
-heat: 3
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: wallstreet online
+  domain: wallstreet-online.de
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200818005307/en/782362/23/4284573_300DPIxVMware-logo-grey_highres_.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-
-secured: "ADi46Dln8IqhyOBU3M+ks60kIxkv91OEoyo/et9T3IqUCpZMGCNlpcyxILNlHbjlKMyBIgGmewSJtERk4RPZkaCwQTp5RUxCbCJbhexZ4EjlqORhS6ks8JVxyTV3OBSk/Uy+4c0VloHOAZMQVuh+IZ2P+Kqfo70a/xEoDlpsj5JBA+NARWAFD+24krjKS9RZEL0LCGgo4G8CLIeKvvvhdwwCbMHGOMNlFnD+E7PPUhSbhA0Hh/JprQDvDE6XSFKFef8p+RlQEIvyga0oVpKBRgDi8WU+S6Y7t559FwMTHWlZoJWR09lEByE279qbYwqO0/wr6RWQFMjuOMPR6VjadQ==;6JNb8lx6hLVflIk95kKOFA=="
+secured: "z9uMD7sjYioNCtbK+agX7K9esYgC7q8N58oK6q4W+gPchIpJ6q4ITbxwV02jLc438HurXJCARYu8kpVprIq5LKZO7SNttAkTXq2zXWP6KNka5t0HZH7vRDpqE9mJ8ATPJWu3Nmgq61m8bHYjTdkvwnqa71s7E6fE1mkDSPQkk9cooO4vTYNXEWzyrHlUN0rz2KA0g6hnlzK+C7AOsYrh87vZRSdAUO7KSHSzWNzwgk2i7Jg27/F5Np+Q7EAONHiLkbiJ/MeaWCn3gL5vJNi0rz3Ivd/EsoTsP9spoPPvlBvHJBuC3jEFkPsVkS8DlUYJDCs1AFByrAb6ayhpY62zGQ==;xf8jTBxqL6J/yENgOWSawQ=="
 ---
 

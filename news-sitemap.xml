@@ -763,6 +763,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.infoworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization</loc>
+    <lastmod>2020-08-17T11:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/ai-based-traffic-management-gets-green-light/</loc>
     <lastmod>2020-08-17T11:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2079,6 +2085,12 @@
   <url>
     <loc>https://www.kaggle.com/Cornell-University/arxiv</loc>
     <lastmod>2020-08-08T05:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://menafn.com/1100602854/Healthcare-Natural-Language-Processing-NLP-Market-Next-Big-Thing-Major-Giants-Apple-Microsoft-Dolbey-Systems-NetBase-Solutions</loc>
+    <lastmod>2020-08-08T04:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -38,20 +38,6 @@ related:
         width: 800
         height: 361
         isCached: true
-  - title: "Amazon Personalize can now create up to 50% better recommendations for fast changing catalogs of new products and fresh content"
-    excerpt: "Amazon Personalize now makes it easier to create personalized recommendations for fast-changing catalogs of books, movies, music, news articles, and more, improving recommendations by up to 50% (measured by click-through rate) with just a few clicks in the AWS console. Without needing to change any application"
-    publishedDateTime: 2020-08-17T17:59:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-can-now-create-up-to-50-better-recommendations-for-fast-changing-catalogs-of-new-products-and-fresh-content/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 61
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/17/personalized-exploration-3-1.jpg"
-        width: 633
-        height: 434
-        isCached: true
 
 secured: "XeljMbH8oR971wccJ4QNL3Hw/yASJ4ufaHHqngya5xGdugrpvhjQhO7JvUU28gZD/n/RYRLfefTuBvuy2XhCM8U/XrkDF+eplXRDw6u4BhtkXWH3idQEvlQMEl290zCYAW2BPEBrUXZnnZ3oHUXGsVrs+Yri6kNVuaqdVwsiMy3GDff4ckP5+9vECywcvhNl7DnSSbZOmKkdu/sJVEfT/M/9+/l3fCWNHNcQi5TDrWuduouZdT4+Sti3GP5VwnsE7c//Tcq8JiRS6U8RNPOJ+UjEyMs3lcp/4LXnqc8lu541i0mSMZiDmqTDiapvyLy8YeuwL1lLJxWf+v03TU+taUifFCsxGkThzq6emM5dcdhLm6x3eraBt4aj1UGyMOn1/+0C12zHj/ALHyx1Uabl6Mc7yUazX8XebKP+/m16kSsm9B/aBkOGTg+14mvrKJmIfZOAcdOW+47fhoiked8+eap4lrLwVp3HX21fn+qagzzHK+MjlYS38hgJSlbigRacck7aLTrShW0IqN4ruvkMlg==;eRIS756rX2/q0qqLUZNOZQ=="
 ---

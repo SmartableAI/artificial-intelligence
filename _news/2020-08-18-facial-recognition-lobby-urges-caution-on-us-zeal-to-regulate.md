@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-18/facial-recogn
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
 type: article
 quality: 89
-heat: 329
+heat: 319
 published: true
 
 provider:
@@ -355,20 +355,6 @@ related:
       - url: "https://www.jurist.org/commentary/wp-content/uploads/sites/3/2020/08/artificial_intelligence_1597778810.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Facial recognition technology riddled with racial bias; cities are fighting back"
-    excerpt: "In the wake of the George Floyd protests, many cities and technology conglomerates are banning police agencies from utilizing facial recognition technology, citing racial discrimination as a vital concern."
-    publishedDateTime: 2020-08-17T17:53:00Z
-    webUrl: "https://peoplesworld.org/article/facial-recognition-technology-riddled-with-racial-bias-cities-are-fighting-back/"
-    type: article
-    provider:
-      name: People's World
-      domain: peoplesworld.org
-    quality: 34
-    images:
-      - url: "https://peoplesworld.org/wp-content/uploads/2020/08/facialrec960.jpg"
-        width: 960
-        height: 616
         isCached: true
   - title: "US court gives preliminary approval to Facebook settlement of facial recognition suit"
     excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."

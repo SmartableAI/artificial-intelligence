@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-18T07:33:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -126,17 +126,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Healthcare Market Set for Rapid Growth During 2020 - 2027| Alphabet Enlitic, General Vision, iCarbonX, Intel Corporation"
-    excerpt: "CHAPTER 5:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY ALGORITHM CHAPTER 6:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY APPLICATION CHAPTER 7:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY END USER 1. What is the estimated growth rate of the ..."
-    publishedDateTime: 2020-08-17T17:20:00Z
-    webUrl: "https://www.openpr.com/news/2114689/ai-in-healthcare-market-set-for-rapid-growth-during-2020-2027"
-    ampWebUrl: "https://www.openpr.com/amp/2114689/ai-in-healthcare-market-set-for-rapid-growth-during-2020-2027"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2114689/ai-in-healthcare-market-set-for-rapid-growth-during-2020-2027"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 26
   - title: "Artificial Intelligence in Healthcare Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2029"
     excerpt: "Artificial Intelligence in Healthcare Market Global Trends Market Share Industry Size Growth Opportunities and Market Forecast 2020 to 2029"
     publishedDateTime: 2020-08-19T18:00:00Z

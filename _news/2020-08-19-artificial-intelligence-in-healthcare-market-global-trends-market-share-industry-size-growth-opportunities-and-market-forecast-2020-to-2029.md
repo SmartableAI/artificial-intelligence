@@ -136,17 +136,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Healthcare Market Set for Rapid Growth During 2020 - 2027| Alphabet Enlitic, General Vision, iCarbonX, Intel Corporation"
-    excerpt: "CHAPTER 5:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY ALGORITHM CHAPTER 6:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY APPLICATION CHAPTER 7:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY END USER 1. What is the estimated growth rate of the ..."
-    publishedDateTime: 2020-08-17T17:20:00Z
-    webUrl: "https://www.openpr.com/news/2114689/ai-in-healthcare-market-set-for-rapid-growth-during-2020-2027"
-    ampWebUrl: "https://www.openpr.com/amp/2114689/ai-in-healthcare-market-set-for-rapid-growth-during-2020-2027"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2114689/ai-in-healthcare-market-set-for-rapid-growth-during-2020-2027"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 26
   - title: "Worldwide Augmented and Mixed Reality Market Industry (2020 to 2025) - Increasing Demand of AR Devices in Healthcare is Driving Growth"
     excerpt: "The report also provides specific insights and recommendations for major ecosystem constituents including Advertisers and Media Companies, Artificial Intelligence Providers, Automotive Companies ..."
     publishedDateTime: 2020-08-18T11:56:00Z

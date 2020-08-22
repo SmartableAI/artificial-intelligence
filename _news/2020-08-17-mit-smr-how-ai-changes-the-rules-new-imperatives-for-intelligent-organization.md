@@ -1,28 +1,29 @@
 ---
 category: news
 title: "MIT SMR: How AI changes the rules: New Imperatives for Intelligent Organization"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-08-17T19:38:00Z
-webUrl: "https://www.computerworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization"
+excerpt: "Many leaders are excited about AI’s potential to profoundly transform organizations by making them more innovative and productive. But implementing AI will also lead to significant changes in how organizations are managed,"
+publishedDateTime: 2020-08-17T18:45:00Z
+webUrl: "https://www.infoworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "s7a72l5FTzVbQHKFoYDnZ3t658rZ8ZiE61k3BjyBww78tvSoJ+pICSsfj8mnLNetKIminifRs67Xc3ziZgSFpn5lMkaqs1Uu/LynZKFn7lydXVygAE6wcnE62D0IYj9sexzgudOR4/Fn+CP0oLBahwWVbnvzhxbXN53CHLalaYfEalm/vc2OEUF94CcCSKjJZL1+xmaI8lgaYRuQ/hm6QTkbAI8P8g2Y2tmQjI+jC7wrY62zdcSCGv4JWGYs5GKFAC7T32tj7PehEYy6VG+cHgYhmVPhrZFMxRVFRGw1BYnZ/EPflhW0QaYwsq6mElVYGjFs/RqzhKQkkm29zB4aSg==;hJb6CXmTlYQ5v65F4P9TPw=="
+secured: "3bVMFVf8yat7JbEmL+tMhWgYoUSznelHOCjicZI5UmxFbrGavH38C3ST4ug3O+komHCcBzsHjH5dG6m3dnHU7iXsBrgKaAPNQpcXs7nIvlj25Hc9BSDAB9eyTVPj5UkInICRVyQPvAyFe9ncJ/G+XgfnUbPzE2xIQL9o2rZjyVYJsHuWy9sY9QJLqjd35vyRppXzujhAt4gN81kvCC4V9IGRCZ3GTfb8ScF0helPk+Gy4FxZOzNP1MUOrzJlg5FspqmDFEao8ppzcF/7+Gp839I806WnLQYvMCloowsJJAep98G0+j8d+JMUC5gB4wlWmq+EJ28LMyBu0uTczT5I9w==;Reyop1lsXDuk+3HLxOKjmQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-20T22:07:53Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/using-a-b-testing-to-measure-the-efficacy-of-recommendations-generated-by-amazon-personalize/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Personalize can now create up to 50% better recommendations for fast changing catalogs of new products and fresh content"
-    excerpt: "Amazon Personalize now makes it easier to create personalized recommendations for fast-changing catalogs of books, movies, music, news articles, and more, improving recommendations by up to 50% (measured by click-through rate) with just a few clicks in the AWS console. Without needing to change any application"
-    publishedDateTime: 2020-08-17T17:59:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-can-now-create-up-to-50-better-recommendations-for-fast-changing-catalogs-of-new-products-and-fresh-content/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 61
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/17/personalized-exploration-3-1.jpg"
-        width: 633
-        height: 434
-        isCached: true
   - title: "Deep learning for automated sleep staging using instantaneous heart rate"
     excerpt: "Clinical sleep evaluations currently require multimodal data collection and manual review by human experts, making them expensive and unsuitable for longer term studies. Sleep staging using cardiac rhythm is an active area of research because it can be measured much more easily using a wide variety of both medical and consumer-grade devices."
     publishedDateTime: 2020-08-20T09:15:00Z

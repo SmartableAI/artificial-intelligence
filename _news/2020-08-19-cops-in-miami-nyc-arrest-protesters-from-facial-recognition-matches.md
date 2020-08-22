@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 662
         isCached: true
-  - title: "De Blasio Will Reassess NYPD's Use Of Facial Recognition Tech After Protester Arrest"
-    excerpt: "Currently, the department’s Patrol Guide allows police to run facial recognition searches on anyone suspected of a crime or anyone who may have witnessed a crime."
-    publishedDateTime: 2020-08-17T18:08:00Z
-    webUrl: "https://gothamist.com/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
-    ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
-    cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
-    quality: 52
-    images:
-      - url: "https://cms.prod.nypr.digital/images/310236/original"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Court Grants Facebook Preliminary OK to Settle Facial Recognition Privacy Claims"
     excerpt: "Facebook Inc. won preliminary approval late on Wednesday from a federal court for settlement of a lawsuit that claimed it illegally collected and stored"
     publishedDateTime: 2020-08-20T12:10:00Z
