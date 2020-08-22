@@ -2,27 +2,27 @@
 category: news
 title: "Reinforcement Learning Market to See Massive Growth by 2025 | Bonsai, Deepmind Technologies, Maluuba"
 excerpt: "Global Reinforcement Learning Market Report from AMA Research highlights deep analysis on market characteristics, sizing, estimates and growth by segmentation, regional breakdowns & country along with competitive landscape,"
-publishedDateTime: 2020-08-21T06:43:00Z
-webUrl: "https://ipsnews.net/business/2020/08/21/reinforcement-learning-market-to-see-massive-growth-by-2025-bonsai-deepmind-technologies-maluuba/"
+publishedDateTime: 2020-08-21T05:52:00Z
+webUrl: "https://www.bignewsnetwork.com/news/266157161/reinforcement-learning-market-to-see-massive-growth-by-2025--bonsai-deepmind-technologies-maluuba"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Inter Press Service
-  domain: ipsnews.net
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://icrowdnewswire.com/wp-content/uploads/2020/08/824-1597987804.png"
-    width: 300
-    height: 300
+  - url: "https://cdn.bignewsnetwork.com/cus1598099396939.jpg"
+    width: 630
+    height: 420
     isCached: true
 
-secured: "DOB5zLRdKYDhRwIXget3cukWCgSwqx39abQZsdgmig64sMMj12GxnzcJ/COoXhDh0eyuKuqFTW4OW7bfl9TJ5BlJzYlQVIgx4o95+gY295KURRcbRjuTzeVSSfx2spD/1v6oVo9ZPrAQ+z/PU4IdS0L+AyCUQNFOGY5PgAfMEerCzsxGQRA67KESGZ251EsaduuEDHkdWOv0KGW1BdhG26YK8XFnL3JLc/KcRYmBrWmU55Sb3f0dcM6W9/l7CrifUhGhqrW1mhI4qI2gao1VtdIViNI27SMBfollC9li/cRbuMVaYxbI0PulHFV7WVXteR7/QszblJacWoDu6x02ag==;QWUACwC9n7cNtx0WzL+Gog=="
+secured: "38YjfJhDLqS2tC1KugkNKWQK08aHR1vmKSd8ACRKebDS4tGcqHucd6Rgvf3fF0QWpGFtPJO06mDxZJzJnNKtZjtdx58TYOSawtlesR/A86y+hfKu+qOc4JCtO0nLsFjxaX7WzRAg7AsMQoqYDr+nZ4UeFCJ78ZnQbZ9snMrBt5phxK/ZOHSb5zwyxAkkqkrV90gF6fTII9Tna4YGgFIsvEe+ltCuoMlPzVXPtIP68Uzwj430faKZ/LkHBsux/ysvULDOxwMFdHo+LI9OxLVMtPgiK6aNj1MG6s79uiDNqS0tvv4LFVROVue9zBzL7j0Zbqx0q+2aDf4/96aD5cRafg==;KiyZfo8wx7WS10lZGVMrIw=="
 ---
 

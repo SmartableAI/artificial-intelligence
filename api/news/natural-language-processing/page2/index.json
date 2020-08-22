@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-10-artificial-intelligence-and-data-privacy-turning-a-risk-into-a-benefit.md",
+      "title": "Artificial Intelligence And Data Privacy – Turning A Risk Into A Benefit",
+      "excerpt": "Artificial intelligence applications are not open, and can put privacy at risk. The addition of good tools to address privacy for data being used by AI systems is an important early step in adding trust into the AI equation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/08/10/artificial-intelligence-and-data-privacy--turning-a-risk-into-a-benefit/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-10T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-ai-needs-to-learn-multi-intent-for-computers-to-show-empathy.md",
+      "title": "AI Needs To Learn Multi-Intent For Computers To Show Empathy",
+      "excerpt": "Artificial Intelligence (AI) is smart, but it could do better. The software development industry is constantly working to push algorithmic logic beyond the scope of the current computer processing envelope and create new ways for computers to ‘think’ and emulate human beings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/10/ai-needs-to-learn-multi-intent-for-computers-to-show-empathy/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f311f1dc01c7ae12882d816%2F0x0.jpg",
+          "width": 640,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/10/ai-needs-to-learn-multi-intent-for-computers-to-show-empathy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/08/10/ai-needs-to-learn-multi-intent-for-computers-to-show-empathy/amp/",
+      "publishedDateTime": "2020-08-10T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-08-08-healthcare-natural-language-processing-nlp-market-next-big-thing-major-giants-apple-microsoft-dolbey-systems-netbase-solutions.md",
       "title": "Healthcare Natural Language Processing (NLP) Market Next Big Thing | Major Giants Apple, Microsoft, Dolbey Systems, NetBase Solutions",
       "excerpt": "Latest Market intelligence report released by HTF MI with title \"Global Healthcare Natural Language Processing (NLP) Market Size, Status and Forecast 2025\" is designed covering micro level of ...",
@@ -1331,88 +1435,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-ai-new-gpt-3-language-model-takes-nlp-to-new-heights.md",
-      "title": "AI: New GPT-3 language model takes NLP to new heights",
-      "excerpt": "Natural language processing is still being refined, but its popularity continues to rise. This new, better version is likely to help. When you speak to a computer, whether on the phone, in a chat box, or in your living room, and it understands you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/07/29/e26a5604-2628-4342-9e40-b3a62abeea95/resize/1200x/d908f035ae0c61b5d332a9d65b9493e4/istock-1055662774.jpg",
-          "width": 1200,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/",
-      "publishedDateTime": "2020-07-30T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-nuance-and-cerner-expand-strategic-voice-ai-collaboration-to-include-dragon-medical-virtual-assistant-technology.md",
-      "title": "Nuance and Cerner Expand Strategic Voice AI Collaboration to Include Dragon Medical Virtual Assistant Technology",
-      "excerpt": "PRNewswire/ -- Nuance® Communications, Inc. (NASDAQ: NUAN) today announced that it has expanded its long-standing AI collaboration with Cerner",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/nuance-and-cerner-expand-strategic-voice-ai-collaboration-to-include-dragon-medical-virtual-assistant-technology-301102519.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

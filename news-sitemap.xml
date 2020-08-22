@@ -61,7 +61,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://ai.facebook.com/blog/new-milestones-in-embodied-ai</loc>
+    <loc>https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/</loc>
     <lastmod>2020-08-21T10:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -397,7 +397,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/au/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai</loc>
+    <loc>https://www.techradar.com/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai</loc>
     <lastmod>2020-08-19T12:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -577,6 +577,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.html</loc>
+    <lastmod>2020-08-18T17:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.hpcwire.com/2020/08/19/microsoft-azure-adds-a100-gpu-instances/</loc>
     <lastmod>2020-08-18T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -717,6 +723,12 @@
   <url>
     <loc>https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate</loc>
     <lastmod>2020-08-18T04:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech</loc>
+    <lastmod>2020-08-18T04:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1411,6 +1423,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/news-releases/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-301110499.html</loc>
+    <lastmod>2020-08-12T13:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/facial-recognition-market-2020-2024-growth-emerging-trends-and-future-opportunities-2020-08-12</loc>
     <lastmod>2020-08-12T13:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1593,12 +1611,6 @@
   <url>
     <loc>https://pocketnow.com/kirin-980-announcement</loc>
     <lastmod>2020-08-11T17:44:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-2020-08-12-9184040</loc>
-    <lastmod>2020-08-11T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

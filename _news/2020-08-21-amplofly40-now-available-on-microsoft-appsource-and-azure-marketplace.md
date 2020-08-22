@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
-excerpt: "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace - their online stores"
-publishedDateTime: 2020-08-21T21:50:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html"
+excerpt: "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace"
+publishedDateTime: 2020-08-21T21:32:00Z
+webUrl: "https://www.prnewswire.com/news-releases/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-301116528.html"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/cb/3cbcd9fb-ef6c-5b03-a63d-3d4936dac151/5f4040be60e85.image.jpg?resize=400%2C209"
-    width: 400
-    height: 209
+  - url: "https://mma.prnewswire.com/media/1232052/AmploGlobal_Rocket.jpg?p=facebook"
+    width: 1198
+    height: 628
     isCached: true
 
 related:
@@ -53,6 +53,6 @@ related:
         height: 220
         isCached: true
 
-secured: "nODqYkx9onnevV79sehIwTGbgdUE0/eOnyYG5I/sPBAyEh2Vk3k0NiZ2UbnZfmSKo7rzFGKmuojR5bYKY3mAuNNoPwsBEt5UdpmXwkUFK3TRbfvTSzY70AvbJZk50jl73H0GJJflptsB32R3ht1hht7o4kIqeKlOvQTVLGdsZIiRds1tl9wSQZH1a10lAA1oxrlJ4HFORMDIbdHlZXARxEb/36jRmLQ7MzVsVNqAL/RzZdRzd18izFLylGJzt/nR7pb4ytJ+5gKKSPmPIBmI2vZoQzm7bzn7mVFfoocnYleV+MbAGPGD6fPhjD6GUJvF+Porn9BWH4HkmfBeWVZliatiWWQC2rjJbeT8DATTNaWdPUi5ZsEex9yidKorUMxqyTM00B7nOXjIZ/svYM33berS9rahQ4Ozm9yj99QT84ryJOXyL2UMuSOtLESQd+V/nutcEkxhYQZfqja6t38Vgpe6GcmJyG52i0KLIsRtyB0vfKj7Dez6BDA4Wd/o/9d/f1Wtpndp7jV2m8KXgtLwNw==;etnrgwt6KpBU0NQTzGpgXg=="
+secured: "mKOTqJWymOZKGMdtmvoD203OPRq3zG7RQowgMbP9B4KGK4jjqw9EJa2dsIHi3b4FihFIriJe7mu253IxMzDJ6jEgBaBOPK5pASrwylbezDgRtPboT/WcRrE/2VBeU1y+I7rZG/EltRbkZkuFgkzSzX/BnwnkpHKZF1cjMDRw1l9vsyjbZwbIWHAf8wSTz7A1V8K+RLk+R0+CqDeDTLr6MhSVw1Igl56PKMnPr1MczjuyEtCSKC+AvPv2fpShamE+10+T7ZYDTHMOe1IFOUmAz5cGo9j3ybd9U9Evse1leoBrqCZ+aQaiaR+uYS/lQ6p1DSEEX2tmQwwNnhtiUQh69g==;jFOnLj3bfv8Xraepzd4u/g=="
 ---
 

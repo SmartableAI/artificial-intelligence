@@ -2,6 +2,96 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-07-20-inside-citizen-the-app-that-asks-you-to-report-on-the-crime-next-door.md",
+      "title": "Inside Citizen, the App That Asks You to Report on the Crime Next Door",
+      "excerpt": "From its need to make money to its ever-changing relationship with law enforcement, the hyperlocal news reporting app faces growing pains.",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
+          "width": 530,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-teslas-plan-for-level-5-not-feasible-experts-say.md",
+      "title": "Tesla's plan for Level 5 not feasible, experts say",
+      "excerpt": "During a remote appearance at the World Artificial Intelligence Conference in Shanghai ... For comparison's sake, Waymo, the self-driving company spun from Google, has deployed a handful of ...",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/automakers/teslas-plan-level-5-not-feasible-experts-say",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/3TESLA-MAIN_i.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-deeplearning4j-deep-learning-and-etl-for-the-jvm.md",
       "title": "Deeplearning4j: Deep learning and ETL for the JVM",
       "excerpt": "AI products within an enterprise often have a wider scope than just machine learning. The overall goal of the distribution is to provide smart defaults for building deep learning applications. Deeplearning4j competes, at some level, with every other deep ...",
@@ -1295,105 +1385,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-clearview-ai-the-facial-recognition-company-that-scraped-billions-of-faces-off-the-internet-was-just-hit-with-a-data-privacy-complaint-in-europe.md",
-      "title": "Clearview AI, the facial recognition company that scraped billions of faces off the internet, was just hit with a data privacy complaint in Europe",
-      "excerpt": "Controversial facial recognition firm Clearview AI was hit with a data privacy complained filed to France's privacy regulator on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.markets.businessinsider.com/image/5e8dc3f5d5873a252d6b2153",
-          "width": 1747,
-          "height": 1311,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493",
-      "publishedDateTime": "2020-07-18T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-50-of-food-grown-globally-is-wasted-can-ai-fix-it.md",
-      "title": "50% Of Food Grown Globally Is Wasted. Can AI Fix It?",
-      "excerpt": "We waste 1.6 billion tons of food every year while 25 million starve and another billion are malnourished. Can AI fix it? If one startup in Berlin is successful, just maybe. The global food supply chain is mind-bogglingly complex.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/07/18/50-of-food-grown-globally-is-wasted-can-ai-fix-it/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f136ec41e6baf0007127258%2F0x0.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/07/18/50-of-food-grown-globally-is-wasted-can-ai-fix-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/07/18/50-of-food-grown-globally-is-wasted-can-ai-fix-it/amp/",
-      "publishedDateTime": "2020-07-18T15:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

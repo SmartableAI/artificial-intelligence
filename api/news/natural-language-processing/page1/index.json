@@ -495,6 +495,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-19-full-transcript-of-michelle-obamas-dnc-speech.md",
+      "title": "Full Transcript of Michelle Obama’s D.N.C. Speech",
+      "excerpt": "Michelle Obama, the former first lady, was the keynote speaker on the first night of the 2020 Democratic National Convention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/17/autossell/Michelle/Michelle-facebookJumbo.png",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.amp.html",
+      "publishedDateTime": "2020-08-18T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-microsoft-azure-adds-a100-gpu-instances-for-supercomputer-class-ai-in-the-cloud.md",
       "title": "Microsoft Azure Adds A100 GPU Instances for ‘Supercomputer-Class AI’ in the Cloud",
       "excerpt": "Microsoft Azure continues to infuse its cloud platform with HPC- and AI-directed technologies. Today the cloud services purveyor announced a new virtual machine family aimed at “supercomputer-class AI,” backed by Nvidia A100 Ampere GPUs, AMD Eypc Rome ...",
@@ -616,6 +666,56 @@
         "name": "The Financial Express",
         "domain": "financialexpress.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-trump-hits-back-at-michelle-obama-after-searing-dnc-speech-says-he-would-not-be-here-if-not-for-obama.md",
+      "title": "Trump hits back at Michelle Obama after searing DNC speech, says he 'would not be here' if not for Obama",
+      "excerpt": "MICHELLE OBAMA, IN DNC SPEECH, RIPS TRUMP WHITE HOUSE FOR 'CHAOS' AND 'LACK ... \"The ability to walk in someone else's shoes. The recognition that someone else's experience has values too,\" she said. \"Most of us practice this without a second thought.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech.amp",
+      "publishedDateTime": "2020-08-18T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1326,110 +1426,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-artificial-intelligence-and-data-privacy-turning-a-risk-into-a-benefit.md",
-      "title": "Artificial Intelligence And Data Privacy – Turning A Risk Into A Benefit",
-      "excerpt": "Artificial intelligence applications are not open, and can put privacy at risk. The addition of good tools to address privacy for data being used by AI systems is an important early step in adding trust into the AI equation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/08/10/artificial-intelligence-and-data-privacy--turning-a-risk-into-a-benefit/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-10T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-ai-needs-to-learn-multi-intent-for-computers-to-show-empathy.md",
-      "title": "AI Needs To Learn Multi-Intent For Computers To Show Empathy",
-      "excerpt": "Artificial Intelligence (AI) is smart, but it could do better. The software development industry is constantly working to push algorithmic logic beyond the scope of the current computer processing envelope and create new ways for computers to ‘think’ and emulate human beings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/10/ai-needs-to-learn-multi-intent-for-computers-to-show-empathy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f311f1dc01c7ae12882d816%2F0x0.jpg",
-          "width": 640,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/10/ai-needs-to-learn-multi-intent-for-computers-to-show-empathy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/08/10/ai-needs-to-learn-multi-intent-for-computers-to-show-empathy/amp/",
-      "publishedDateTime": "2020-08-10T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

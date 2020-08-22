@@ -2,6 +2,106 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-13-renewed-sanity-on-campus-yes-to-free-speech-no-to-football.md",
+      "title": "Renewed Sanity On Campus? Yes To Free Speech, No To Football?",
+      "excerpt": "To borrow from the Bard, “To Open, or Not to Open: That is the Question.” Most schools are planning on reopening in some fashion, and in recognition of the fact that interaction between faculty and students, and students with each other, is at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardvedder/2020/07/13/renewed-sanity-on-campus-yes-to-free-speech-no-to-football/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1246069736%2F0x0.jpg",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardvedder/2020/07/13/renewed-sanity-on-campus-yes-to-free-speech-no-to-football/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardvedder/2020/07/13/renewed-sanity-on-campus-yes-to-free-speech-no-to-football/amp/",
+      "publishedDateTime": "2020-07-13T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-13-google-signs-up-verizon-for-its-ai-powered-contact-center-services.md",
+      "title": "Google signs up Verizon for its AI-powered contact center services",
+      "excerpt": "“Instead of telling people, ‘well, ‘here’s our natural language processing tools, here is speech recognition, here is text-to-speech and speech-to-text — and why don’t you just write a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/13/google-signs-up-verizon-for-its-ai-powered-contact-center-services/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1184345208.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/13/google-signs-up-verizon-for-its-ai-powered-contact-center-services/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/13/google-signs-up-verizon-for-its-ai-powered-contact-center-services/amp/",
+      "publishedDateTime": "2020-07-13T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-google-machine-translation-helping-disseminate-covid-19-info.md",
       "title": "Google machine translation helping disseminate Covid-19 info",
       "excerpt": "San Francisco, July 12 (IANS) Google AI and ML translation services are helping health officials communicate with people in languages they understand to disseminate the Covid-19 information, and it means reaching 51 million migrants in at least 350 ...",
@@ -1274,106 +1374,6 @@
         "name": "Field Technologies Online",
         "domain": "fieldtechnologiesonline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias.md",
-      "title": "Salesforce researchers claim new method mitigates AI models’ gender bias",
-      "excerpt": "A new paper from researchers at Salesforce proposes a technique for mitigating gender bias in word embeddings from large data sets.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/IMG_20190530_125848__01-e1593559807331.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Salesforce researchers claim new method mitigates AI models’ gender bias",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/amp/",
-      "publishedDateTime": "2020-07-01T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform.md",
-      "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
-      "excerpt": "Spiketrap has raised $3 million for its AI platform that helps brands understand how they are engaging with consumers on social media.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Spiketrap_Compilation.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/amp/",
-      "publishedDateTime": "2020-07-01T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

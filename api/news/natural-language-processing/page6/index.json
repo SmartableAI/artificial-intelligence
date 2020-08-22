@@ -2,6 +2,106 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-01-salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias.md",
+      "title": "Salesforce researchers claim new method mitigates AI models’ gender bias",
+      "excerpt": "A new paper from researchers at Salesforce proposes a technique for mitigating gender bias in word embeddings from large data sets.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/IMG_20190530_125848__01-e1593559807331.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Salesforce researchers claim new method mitigates AI models’ gender bias",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/amp/",
+      "publishedDateTime": "2020-07-01T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform.md",
+      "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
+      "excerpt": "Spiketrap has raised $3 million for its AI platform that helps brands understand how they are engaging with consumers on social media.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Spiketrap_Compilation.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/amp/",
+      "publishedDateTime": "2020-07-01T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-positive-effects-of-grasping-virtual-objects-on-memory-for-novel-words-in-a-second-language.md",
       "title": "Positive effects of grasping virtual objects on memory for novel words in a second language",
       "excerpt": "Theories of embodied cognition describe language processing and representation as inherently connected to the sensorimotor experiences collected during acquisition. While children grasp their world, collect bodily experiences and name them,",
@@ -1268,106 +1368,6 @@
         "name": "enterprisetimes.co.uk",
         "domain": "enterprisetimes.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-apple-ios-14-the-top-new-features-coming-to-the-iphone.md",
-      "title": "Apple iOS 14: the top new features coming to the iPhone",
-      "excerpt": "Widgets used to be an afterthought in iOS, but starting with iOS 14 the company is changing course and making them a lot more data-rich and customizable. These can now have multiple sizes, and it looks like Apple has",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-22-image-24.jpg",
-          "width": 1248,
-          "height": 857,
-          "title": "Apple iOS 14: the top new features coming to the iPhone",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
-      "publishedDateTime": "2020-06-22T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-ios-14-serves-up-major-updates-for-siri-messages-translate.md",
-      "title": "iOS 14 serves up major updates for Siri, Messages, Translate",
-      "excerpt": "Apple, unsurprisingly, led its WWDC 2020 press conference with the announcement of iOS 14. In the next version of Apple’s latest operating system, we’ll see some improvements to Siri,",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/Apple_Events_-_Special_Event_Stream_-_Apple-25.jpg",
-          "width": 2372,
-          "height": 1332,
-          "title": "iOS 14 serves up major updates for Siri, Messages, Translate",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/amp/",
-      "publishedDateTime": "2020-06-22T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
