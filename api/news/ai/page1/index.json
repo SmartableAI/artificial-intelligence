@@ -487,32 +487,32 @@
       "title": "Facebook releases tools to help AI navigate complex environments",
       "excerpt": "Facebook detailed its work in embodied machine learning, including new open source data sets and modules to advance the field.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/",
+      "webUrl": "https://ai.facebook.com/blog/new-milestones-in-embodied-ai",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 90,
+      "heat": 167,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Title-Image-Updated-e1597900077579.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/118001179_336826857450642_138048930536574310_n.jpg?_nc_cat=104&_nc_sid=ad8a9d&_nc_ohc=86hCvH_xUOsAX9Cd0RG&_nc_ht=scontent-sea1-1.xx&oh=a18aae16ca6818960db81647d365d9b2&oe=5F65DC72",
+          "width": 1920,
+          "height": 910,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/amp/",
-      "publishedDateTime": "2020-08-21T09:07:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-21T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
         "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -528,7 +528,6 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -589,7 +588,7 @@
       "webUrl": "https://www.zdnet.com/article/facebook-is-building-robots-to-help-you-find-your-ringing-phone/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -878,7 +877,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/08/21/an-ai-just-embarrassed-the-us-air-force-in-a-virtual-dogfight/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {

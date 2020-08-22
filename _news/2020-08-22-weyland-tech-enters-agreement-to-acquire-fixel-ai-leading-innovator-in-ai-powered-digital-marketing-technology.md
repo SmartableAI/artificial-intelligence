@@ -29,13 +29,13 @@ images:
 
 related:
   - title: "CEOs of ServiceNow, Weyland Tech, CloudMD, and Jumia Discuss Innovation in Cloud, Telemedicine, AI, Ecomm & Fintech:"
-    excerpt: "On Journey to $10 Billion in Cloud Revenue - Destiny to Become Defining Enterprise Software Company of 21st century” Earnings call highlights:  Weyland Tech (OTC: WEYL)“The Shopify of Mobile in SE Asia ”w $40+ mil revenues” August 20 12:30EST investor livestream:  CloudMD (OTC: DOCRF): \"The Future of Telemedicine” Video:  Jumia Technologies AG (NYSE: JMIA) CEO Sacha Poignonnec: \"E-Commerce & Mobile Payments Adoption Accelerating in Africa” Earnings call highlights:  Highlights of CEO comments from latest earnings calls and investor conferences: ServiceNow,"
-    publishedDateTime: 2020-08-20T15:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539"
+    excerpt: "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights from leaders at ServiceNow, Inc., Weyland Tech, CloudMD and Jumia Technologies."
+    publishedDateTime: 2020-08-20T16:23:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 26
 
 secured: "Ww2heTB+b7zGOOJYRkKkSFVAJFbZlILL4zEtd9AwJ2R/3pQTCG2noPKUA9FMeetevOW35ANzp2Dz+cUeE3rBSQZ2KENp8I6AoyYXGod03Soc8BGU/iGNMtgwjk6SsMDOORj20MO0TW6yRKsoHU5/kP42T0go2Vj3kXHzZ08/LdnoukDDZngw4hbiM3IBmLAWK+DhamEt5qHt+Fz+Js2uM6KmQaT5k7+SEDhCChu557O3hoRbRaSaM6KPkSaj0B/mDAxtLychE1OSrEcOjvMFmFwbXKuLWbU/sIJRp5ZB/rYWcPK+bG6+/y/fcEcn4cmTbl0jVbyNfHo5dHVwnjY+Jg==;zo9raxLwcUkO4jVF50uxrg=="

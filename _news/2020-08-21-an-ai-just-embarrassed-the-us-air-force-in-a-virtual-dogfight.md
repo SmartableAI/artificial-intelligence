@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/08/21/an-ai-just-embarrassed-the-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/21/an-ai-just-embarrassed-the-us-air-force-in-a-virtual-dogfight/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI fighter pilot vs. Air Force pilot: Dogfight showdown scheduled for this week"
-    excerpt: "DARPA is conducting its third AlphaDogfight Trials. The winning AI will be pitted against a human pilot in a human vs. algorithm aerial showdown."
-    publishedDateTime: 2020-08-17T19:34:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 83
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/08/17/cd1f7430-be29-406a-aae8-89be51fffecd/resize/1200x/eb87a4489df268a654643e7145b88d8e/darpa.jpg"
-        width: 1200
-        height: 613
-        isCached: true
   - title: "AI Just Won A Series Of Simulated Dogfights Against A Human F-16 Pilot, 5-0. What Does That Mean?"
     excerpt: "On the face of it, man lost badly to machine in DARPA's AlphaDogfight Trials. But that simplification doesn't match current realities."
     publishedDateTime: 2020-08-21T00:35:00Z

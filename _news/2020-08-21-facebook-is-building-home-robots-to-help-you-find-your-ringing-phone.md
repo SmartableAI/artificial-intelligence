@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-is-building-robots
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-is-building-robots-to-help-you-find-your-ringing-phone/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/08/Screen-Shot-2020-08-21-at-11.08.54-AM-e1598022707937.png?w=1262"
         width: 1262
         height: 708
+        isCached: true
+  - title: "Facebook wants to help build AI that can remember everything for you"
+    excerpt: "Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology — functions in our daily lives."
+    publishedDateTime: 2020-08-22T13:58:00Z
+    webUrl: "https://keyt.com/news/money-and-business/2020/08/22/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 39
+    images:
+      - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech.png"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "E9o7AvjOBVGwuFcHkbBUz43db8U4bWvMumIXsP6loZ5MPfkwteShIWgpZwTS8QzEsuN5mPPEiF94kyxCMzZfjEdempwEtgj4aMAEb6/3n1FE8qgR3V81LvOeu8Ogbqz3HTfPqTVNXQ7sQoWosSZNyKeqf96moTzvCCVdZjMFRCKqwV/UV/+mgFETXHyySUfauNNsTgj94ISA7GcBjXX4b/Ljz18P0t1IMcuM6SeMYJGtCNCtoKLKN/35VRwiHPMo+4LyxyZcJnpos5QFNg+ak0aayC7DwJh85/CSN6lc2qOHiRoQLKRuoRICZUewFMBq/UGiDUGJJuje+bbXejua/1Gnfu0p17DATE0iXwm5JXmLMVK/pmg4BoGYDzX1v4qt7+sXJbofQoWlz67o0aIjwdBCP+Law4dbWi/0ZINAcuJB3R1ZDeU28fHCq5R1JiO3+GVuh36YU8uofrbzS4IqoJgvo6ctH8uvN9wKBWIOUq/Ay4mMhBFvQUsOCuawPVeu;lqdqfj8QhxxMFqC/7/3i6Q=="

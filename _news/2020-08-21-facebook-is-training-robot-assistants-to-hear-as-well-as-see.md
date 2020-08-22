@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 723
         isCached: true
+  - title: "Facebook wants to help build AI that can remember everything for you"
+    excerpt: "Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology — functions in our daily lives."
+    publishedDateTime: 2020-08-22T13:58:00Z
+    webUrl: "https://keyt.com/news/money-and-business/2020/08/22/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 39
+    images:
+      - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech.png"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "8baVO0rq2k2T6Mxhe2Kh0gFDpm9FYBmuinZ0ACwgHVcWoau7B14mTAnaxT0/l1D0fW2kn8UolZJbfVrY2lY8Rf0XJh9KTghuw32f87dT0FIMvhVqQe7D9Vp3fp68CGzjfZzsu5A25qr697tK2c3V97pX9FPkASJiAYDAOBSC2YhEr9tvReMDfSPqKp6IYJ6fwQoV0YCx13n8H7IRspXiQaIoRmlNpjOkLaSY4voKycxnkqEM+ih1HEtJlcGxVw8f02dBqlThw7pnAgWAA0guzOczR8e9VJNQDvBrV3GqXudjF15k1OZc1PigDh5j+FQRA7VNSUN6JkiXsnlSEQTbwut57xNJnKOOlu/YPd32QNFfxBgkBp4AR17F7XqdqtAfghtGOeVizTlZfoDifv03sP9/G3C4cSFH8LkvCDr48d3QJPVz7NCO+OVYRXmEDnHiHD0iK62BKW/loGTrqLkj2vegv8xPXxvXNpiZtoSog74AE0PWelCsg2rhp+pHQQoVgIqK000KjX5LXLa3d0sQ9w==;EkfWVcS9STRwpqIy1yv7RQ=="
 ---
