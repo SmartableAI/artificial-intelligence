@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.fool.com/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/</loc>
+    <lastmod>2020-08-21T16:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techradar.com/sg/news/heres-the-smallest-aiml-supercomputer-ever</loc>
+    <lastmod>2020-08-21T14:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/</loc>
     <lastmod>2020-08-21T12:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -387,12 +399,6 @@
   <url>
     <loc>https://phys.org/news/2020-08-deep-future-mars-rovers-faster.html</loc>
     <lastmod>2020-08-19T09:47:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.business2community.com/customer-experience/can-artificial-intelligence-improve-your-customer-service-02336788</loc>
-    <lastmod>2020-08-19T09:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -829,6 +835,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/cindygordon/2020/08/17/where-is-your-global-organization-at-in-trusted-ai/</loc>
+    <lastmod>2020-08-17T04:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://electrek.co/2020/08/17/elon-musk-tesla-secret-dojo-ai-training-supercomputer/</loc>
     <lastmod>2020-08-17T03:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1039,8 +1051,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/predictive-oncology-announces-dojolive-interview-with-helomics-cio-mark-collins-can-we-cure-cancer-with-artificial-intelligence-1029504873</loc>
-    <lastmod>2020-08-14T05:41:00-07:00</lastmod>
+    <loc>https://apnews.com/1f1f18b10965da73be73fd2d6ffb1286</loc>
+    <lastmod>2020-08-14T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1465,7 +1477,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/buddyai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking-kids-start-talking-in-english-301110900.html</loc>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/buddy-ai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking/article_2e58ca27-737c-5121-91c8-d73309d7043c.html</loc>
     <lastmod>2020-08-12T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

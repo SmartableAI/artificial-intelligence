@@ -2,6 +2,97 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-07-27-nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications.md",
+      "title": "NVMe over Fabrics and GPU Direct Storage Boost HPC and AI Edge Applications",
+      "excerpt": "With the ever advancing capability of GPU subsystems, the bottleneck for many of these applications has moved to the storage subsystem requiring new innovations in data IO architectures.” There are a number of technologies and innovations which address t ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2020/07/nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/07/eos_with_bezel-with-SB2000-24.png",
+          "width": 600,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-face-masks-are-thwarting-even-the-best-facial-recognition-algorithms-study-finds.md",
+      "title": "Face masks are thwarting even the best facial recognition algorithms, study finds",
+      "excerpt": "Researchers from NIST found that face masks are causing facial recognition algorithms to fail as frequently as 50% of the time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/face-masks-are-thwarting-even-the-best-facial-recognition-algorithms-study-finds/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/MXKfN-YizAVPgI2BlAXBDDUGEvY=/756x567/2020/07/27/440f5d19-a0fa-4cb1-ba2d-3d4555ab8581/nist-masks.png",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/face-masks-are-thwarting-even-the-best-facial-recognition-algorithms-study-finds/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/face-masks-are-thwarting-even-the-best-facial-recognition-algorithms-study-finds/",
+      "publishedDateTime": "2020-07-27T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-artificial-intelligence-ai-market-to-reach-us-55084-bn-by-2027.md",
       "title": "Artificial Intelligence (AI) Market to reach US$ 5,508.4 Bn by 2027",
       "excerpt": "According to a new market report pertaining to the global artificial intelligence market published by Transparency Market Research the global artificial intelligence market is projected to reach US$ 5,",
@@ -1262,87 +1353,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-learn-machine-learning-and-ai-online-training-program-93-off.md",
-      "title": "Learn Machine Learning and AI – Online Training Program @ 93% OFF",
-      "excerpt": "Essential AI & Machine Learning Certification Training Bundle aims to help you explore the technology, with four hands-on video courses working towards certification.",
-      "sourceUrl": null,
-      "webUrl": "https://thehackernews.com/2020/07/artificial-intelligence-training.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehackernews.com/images/-FUHLQOfZuO8/Xx6QR2PQ7cI/AAAAAAAAAdQ/P84ceUYGkSkXV_G5w9KVVkijiPJvFfBBACLcBGAsYHQ/s728-e100/machine-learning-artificial-intelligence.jpg",
-          "width": 728,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehackernews.com/2020/07/artificial-intelligence-training.html?amp=1",
-      "cdnAmpWebUrl": "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/07/artificial-intelligence-training.html?amp=1",
-      "publishedDateTime": "2020-07-27T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hacker News",
-        "domain": "thehackernews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh.md",
-      "title": "GMRIT launches artificial intelligence lab in Andhra Pradesh",
-      "excerpt": "The GMR Institute of Technology (GMRIT) at Rajam, Srikakulam district in Andhra Pradesh has inaugurated an artificial intelligence laboratory set up to provide training and certification on AI applications development to its students and faculty through a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/a833rd/article32201679.ece/ALTERNATES/LANDSCAPE_615/bl28-AI",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece/amp/",
-      "publishedDateTime": "2020-07-27T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

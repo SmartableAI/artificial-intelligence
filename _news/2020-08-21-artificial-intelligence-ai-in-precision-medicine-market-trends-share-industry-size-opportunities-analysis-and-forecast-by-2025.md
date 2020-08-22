@@ -5,7 +5,7 @@ excerpt: "Selbyville, Delaware Recently, Market Study Report, LLC, added a resea
 publishedDateTime: 2020-08-21T20:29:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-trends-share-industry-size-opportunities-analysis-and-forecast-by-2025-2020-08-21"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -27,10 +28,10 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chip Market Forecast Report 2020 - 2027 - Top Key Players Analysis"
-    excerpt: "This report researches and evaluates the impact of COVID-19 outbreak on the market, including potential opportunities and challenges, drivers, and risks associated with the market. We present a detailed assessment of market growth based on numerous scenarios."
-    publishedDateTime: 2020-08-17T13:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-forecast-report-2020---2027---top-key-players-analysis-2020-08-17"
+  - title: "Artificial Intelligence In Healthcare Market Growth , Leading Players and Forecast To 2025"
+    excerpt: "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By End User (Healthcare Providers, Pharmaceutical Organizations ..."
+    publishedDateTime: 2020-08-18T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18"
     type: article
     provider:
       name: MarketWatch
@@ -41,71 +42,96 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Healthcare Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
-    excerpt: "The Global AI in Healthcare Market size was estimated to be US$ 4.7 billion in 2019. The AI in Healthcare market"
-    publishedDateTime: 2020-08-20T05:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-08-20?mod=mw_quote_news"
+  - title: "Artificial Intelligence in Healthcare Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
+    excerpt: "Selbyville, Delaware. The report on Artificial Intelligence in Healthcare market is a comprehensive evaluation"
+    publishedDateTime: 2020-08-21T13:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2020-08-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 74
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI for Drug Discovery Market 2020-2025 / Trends Adopted by the Competitors, Regions with Forecast"
-    excerpt: "The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The"
-    publishedDateTime: 2020-08-17T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-2020-2025-trends-adopted-by-the-competitors-regions-with-forecast-2020-08-17"
+  - title: "Artificial Intelligence Market latest Trends and New Technologies Research Forecast to 2026"
+    excerpt: "The Artificial Intelligence Market report upholds the future market predictions related to Artificial Intelligence market size, revenue, production, Consumption, gross margin and other substantial factors."
+    publishedDateTime: 2020-08-20T10:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-and-new-technologies-research-forecast-to-2026-2020-08-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "POWER PLAYERS: The 18 leaders at Google Health shaping the tech giant's secretive healthcare business"
+    excerpt: "Starting when Dr. David Feinberg joined the company in 2019, the tech giant is consolidating many of its health efforts onto a single team."
+    publishedDateTime: 2020-08-17T13:20:00Z
+    webUrl: "https://www.businessinsider.com/the-18-power-players-shaping-googles-burgeoning-healthcare-business-2020-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://i.insider.com/5f36aa7be89ebf001f04492c?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Forecast and Trends Analysis Research Report 2020-2027"
-    excerpt: "The rising venture capital investments and the vast availability of big data at the global level are the significant factors contributing to the growth of artificial intelligence in manufacturing market size. Various artificial intelligence technologies ..."
-    publishedDateTime: 2020-08-18T06:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-forecast-and-trends-analysis-research-report-2020-2027-2020-08-18"
+  - title: "Artificial Intelligence of Things: AIoT Market by Technology and Solutions 2020 - 2025"
+    excerpt: "This AIoT market report provides analysis of technologies, leading companies and solutions. The report also provides quantitative analysis including market sizing and forecasts for AIoT infrastructure, services, and specific solutions for the period 2020 ..."
+    publishedDateTime: 2020-08-18T12:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-of-things-aiot-market-by-technology-and-solutions-2020--2025-301113921.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence in Medicine Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
-    excerpt: "Summary A New Market Study, titled \"Artificial Intelligence in Medicine Market Upcoming Trends, Growth Drivers"
-    publishedDateTime: 2020-08-19T08:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medicine-market-2020-key-vendors-trends-analysis-segmentation-forecast-to-2025-2020-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Artificial Intelligence in Education Market Global Industry Analysis Segments Top Key Players Drivers And Trends To 2029"
-    excerpt: "Trends In Artificial Intelligence in Education Market 2020. Straits Research announces the addition of its new research report titled, “Artificial Intelligence in Education Mark"
-    publishedDateTime: 2020-08-19T15:03:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/135039/artificial-intelligence-in-education-market/"
+  - title: "AI in Healthcare Market Set for Rapid Growth During 2020 - 2027| Alphabet Enlitic, General Vision, iCarbonX, Intel Corporation"
+    excerpt: "CHAPTER 5:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY ALGORITHM CHAPTER 6:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY APPLICATION CHAPTER 7:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY END USER 1. What is the estimated growth rate of the ..."
+    publishedDateTime: 2020-08-17T17:20:00Z
+    webUrl: "https://www.openpr.com/news/2114689/ai-in-healthcare-market-set-for-rapid-growth-during-2020-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2114689/ai-in-healthcare-market-set-for-rapid-growth-during-2020-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2114689/ai-in-healthcare-market-set-for-rapid-growth-during-2020-2027"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 26
+  - title: "Artificial Intelligence in Healthcare Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2029"
+    excerpt: "Artificial Intelligence in Healthcare Market Global Trends Market Share Industry Size Growth Opportunities and Market Forecast 2020 to 2029"
+    publishedDateTime: 2020-08-19T18:00:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266141049/artificial-intelligence-in-healthcare-market-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-2020-to-2029"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 18
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1597838421142.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Worldwide Augmented and Mixed Reality Market Industry (2020 to 2025) - Increasing Demand of AR Devices in Healthcare is Driving Growth"
+    excerpt: "The report also provides specific insights and recommendations for major ecosystem constituents including Advertisers and Media Companies, Artificial Intelligence Providers, Automotive Companies ..."
+    publishedDateTime: 2020-08-18T11:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-augmented-and-mixed-reality-market-industry-2020-to-2025-increasing-demand-of-ar-devices-in-healthcare-is-driving-growth-1029512169"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
 
 secured: "1LNxzd3xHE2sNRvfZCXOmBtOesoX+XmKi8qtynB1da6uVNwaDG2r5SICvzmUtAXBuBprUwZnMc1d2RHKs8we7c3mw0EsAz/+/F0NYQ3CQLuDV1PW4K4cpK9UZHWTcbrj0z5BVMhDVWH/wTPdnJTOrKrbF89vc7ZjlhNW922DDrAlRhMejeViOGU6F123SE1pbRmUc5cnmCCimtNXuqvjS9c2HDYPB42FqsjTXr24Ph3DQCNg8zpIZvOuuBh6OJmTP6GrPU0v5wKcrG1c5bN2+gRfosNSj40wOFz7brvnHjc2H+W5ZYXDOv3RR5ec2yM+HmvaEXUagyVeohIF2IkYPQ==;PCizSmd26T51tIuQYMt4vw=="
 ---

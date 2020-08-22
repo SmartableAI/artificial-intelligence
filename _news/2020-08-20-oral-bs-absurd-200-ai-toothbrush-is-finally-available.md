@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/oral-b-io-ai-electric-toothbrush-134200
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/oral-b-io-ai-electric-toothbrush-134200732.html"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

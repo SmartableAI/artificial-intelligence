@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Image Recognition Market Trends, Competitive Scenario and Segmentation| NEC Corporation, Attrasoft Inc and Google Inc"
-    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of ..."
-    publishedDateTime: 2020-08-17T05:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-trends-competitive-scenario-and-segmentation-nec-corporation-attrasoft-inc-and-google-inc-2020-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Image Recognition Market 2026 | Share, Global Growth, Overview, Size, Opportunities, Leading Company Analysis and Key Country"
     excerpt: "and Support and Maintenance), By Technology (Barcode Recognition, Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented ..."
     publishedDateTime: 2020-08-18T07:41:00Z

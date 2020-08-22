@@ -2,6 +2,97 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2020-06-18-sas-microsoft-partner-to-further-shape-future-of-analytics-and-ai.md",
+      "title": "SAS, Microsoft partner to further shape future of analytics and AI",
+      "excerpt": "Microsoft Corporation and SAS today announced an extensive technology and go-to-market strategic partnership. The two companies will enable customers to easily run their SAS workloads in the cloud, expanding their business solutions and unlocking critical value from their digital transformation initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/KBpdg7pzEAzqLEew",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/k-KrNcDkdz_xM9SDHP5O4k9y9X152gcmWw7DNu7IR_QQRsB5vwbWfcT-f09xWshd5LkFrDfwd6SHQda5Zq9D-lk=w400-h312-c",
+          "width": 400,
+          "height": 312,
+          "title": "SAS, Microsoft partner to further shape future of analytics and AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.itweb.co.za/content/KBpdg7pzEAzqLEew",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/KBpdg7pzEAzqLEew",
+      "publishedDateTime": "2020-06-18T02:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-chinese-ai-researchers-based-overseas-sweep-top-awards-at-leading-computer-vision-conference-cvpr.md",
+      "title": "Chinese AI researchers based overseas sweep top awards at leading computer vision conference CVPR",
+      "excerpt": "At leading computer vision gathering Conference on Computer Vision and Pattern Recognition, Chinese researchers were behind both papers recognised as the best appearing at the event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/18/63f0548c-b132-11ea-953d-a7ecc5cbd229_image_hires_172720.jpg?itok=iSVdn0JI&v=1592472448",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese AI researchers based overseas sweep top awards at leading computer vision conference CVPR",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
+      "publishedDateTime": "2020-06-18T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-everything-you-need-to-know-about-recurrent-neural-networks.md",
       "title": "Everything you need to know about recurrent neural networks",
       "excerpt": "The human mind has different mechanisms for processing individual pieces of information and sequences. For instance, we have a definition of the word “like.” But we also know that how “like” is used in a sentence depends on the words that come before and after it.",

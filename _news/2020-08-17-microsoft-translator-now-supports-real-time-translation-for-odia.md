@@ -101,20 +101,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
-  - title: "Microsoft strengthens translation support for Indian languages, adds Odia to Microsoft Translator"
-    excerpt: "This will be of great advantage in making computing language-agnostic and more inclusive across India. Language translation is AI and Deep Neural Networks enabled and forms a core part of Microsoft products and services. Microsoft Translator enables ..."
-    publishedDateTime: 2020-08-17T05:59:00Z
-    webUrl: "https://news.microsoft.com/en-in/translation-support-odia-latest-indian-languages/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 11
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/08/17aaug-ms-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
 
 secured: "PXrk/rAltbfIipZhPWtsQSUp0zMf7yS+KgtJ4/sDC2tYyjq9yePTNC0XYbvqew56nt3IR2N2iZ6JT992Pxc/lT6X8mZyqpWGDqwCDjBBwxn3qFzMXdo35P/Ii8UeDo6+1+YF5L+tZFFs/c1lYkLtsN6ZlNumNAI92fe9/TgTDK+NwgvVxVda8zt/s0css1Jh4voIpsAPUp4O9QyVhfgB8udpC5pe93ph48fhvz0U+LcTxO9W5+2R9B/okBPOcycDqL4icf0IgfYIu5XUH3goViPEEJWmfulDbINsoIpa826yE1StWOqPGHvW+PKplOs+9oLncWKS0Y3FoKZaC0eiMwqi9qaWXw1zgn4xFFc9HHJEk4KTR6Svo7jBjmUbHz8EdvNTPJhX81ZPPG9dF6mA954O7d2Ewt/9FsdX4Ketp1Po2qxYyld4PGkIHAYkbUY25XKQqaVDnKsb2owwSL4PiQTpdYBPXPomHYQD3ZJSvt0Uoh0cKcUGHZekhTXtBpm8cbwT3/XVPggrD1n0hmvLqQ==;ubBClqFVvjgRTn63h2g5Mg=="
 ---
