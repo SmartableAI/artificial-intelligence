@@ -151,12 +151,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/</loc>
-    <lastmod>2020-08-20T22:25:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.news-medical.net/news/20200820/Exeter-experts-organize-global-AI-summit-to-address-ongoing-healthcare-crisis.aspx</loc>
     <lastmod>2020-08-20T16:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -409,8 +403,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techrepublic.com/videos/how-ai-is-helping-find-a-vaccine-for-covid-19/</loc>
-    <lastmod>2020-08-19T12:15:00-07:00</lastmod>
+    <loc>https://www.techrepublic.com/article/how-ai-is-helping-find-a-vaccine-for-covid-19/</loc>
+    <lastmod>2020-08-19T12:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -685,12 +679,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600</loc>
-    <lastmod>2020-08-18T07:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.wsj.com/articles/microsoft-energy-dept-to-develop-disaster-response-ai-tools-11597755601</loc>
     <lastmod>2020-08-18T06:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -698,6 +686,12 @@
   </url>
   <url>
     <loc>https://www.zdnet.com/article/informatica-buys-ai-startup-for-entity-and-schema-matching/</loc>
+    <lastmod>2020-08-18T06:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click</loc>
     <lastmod>2020-08-18T06:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

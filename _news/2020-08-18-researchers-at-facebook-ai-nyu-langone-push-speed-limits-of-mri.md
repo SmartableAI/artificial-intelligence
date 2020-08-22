@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI"
-excerpt: "Researchers at Facebook Inc. and NYU Langone Health said Tuesday that a two-year experiment demonstrates how artificial intelligence can produce a fourfold increase in the speed of magnetic resonance imaging. The results of the joint effort, which ..."
-publishedDateTime: 2020-08-18T14:11:00Z
-webUrl: "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
+excerpt: "Researchers at Facebook Inc. and NYU Langone Health said Tuesday that a two-year experiment demonstrates how artificial intelligence can produce a ... at NYU Langone Health and a co-author of the research. “Our goal is a five-minute MRI."
+publishedDateTime: 2020-08-18T13:06:00Z
+webUrl: "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
 type: article
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook and NYU Langone's jointly developed machine learning solution can accelerate MRIs"
-    excerpt: "Facebook AI Research and NYU Langone released results of a blind test revealing the effectiveness of their AI system to accelerate MRI scans."
-    publishedDateTime: 2020-08-19T13:30:00Z
-    webUrl: "https://www.businessinsider.com/facebook-nyu-develop-ai-to-accelerate-mri-scans-2020-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-    images:
-      - url: "https://i.insider.com/5f3d25c6cdf25a001e84e190?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facebook AI researchers give MRI scanners a machine learning boost"
     excerpt: "The AI then compared its reconstructed images with the original full-resolution knee scans to hone its accuracy. Facebook’s researchers experimented with several thousand model variations before ..."
     publishedDateTime: 2020-08-18T17:41:00Z
@@ -86,7 +72,21 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "An AI built by Facebook could drastically speed up MRI scans"
+    excerpt: "An AI system, built by researchers at Facebook and NYU Langone, can produce MRI scans with only a quarter of the data normally required, which could speed up the scanning process"
+    publishedDateTime: 2020-08-18T15:32:00Z
+    webUrl: "https://www.newscientist.com/article/2252012-an-ai-built-by-facebook-could-drastically-speed-up-mri-scans/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/08/17134718/ai_blog_fastmri_desktop_web.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "2BGmn2YAIqrLlFlS3T25owBzrD2YDIcNe4R4fOtluphh855maFT+yt0eedXDVsU/UjXjfJG31AmDlfX46q6bhBZs4271BFql6+eUijQQ3ct0PIasUQhJYBJNZH+qYvJDd1pHgea+aMiaTK6qPSQSblWtDDHtwnZORQadrZDFL6sD2uTTjSEc5oe3Ok+AGXGxtiyOJL9Ze2nhQxKlHh9pCUjVyr3zhlK7EwCjLeNkyiAsII2qRS1xXiWutnF8rTDmGhFBMugct+LSZwf824Pims5Xzfw35CnHdHzQgWPpAJSxxPCzdNXEAK57sJ1apc1F8RImZ5afTY36+C6Odo1IRiW4rb2/mcv40YsRVMMeIpIP8yC1fxjfO74BvRw6WK+wijKOMTbSk1jBxtF6fiW2Lqn1vRyvrzDhC4RNWXiHnfKh2vnDsZuYpphexQmNOWmKK5DK7NUfvBpnoDJnYx9yPRn9/mi7SLgMGa9ElimJTYzP5mPb1iLtBeNbY61OOQAl;5y38yt0Dlx6LwLLV1riPjA=="
+secured: "ALSFluhzIlynUptXRC0JopbhAJLKNrS8+YhNsnB0Vd/emD4nwkpV2CywntsxYdcRRcmLWsJmnC+6mHncKyRLGKATb+zOjU4RypmMM/7+p8l4h+IKbzPoCEr17pieaZP/+GgfRX94ICTqTX09BfeSFIKFCPvTYEzbHXAdj4yMA7wmLiyWbKTXvv0OYFIGLI6uwLtv8SaZS+K2A5FiE0VrdSmeeq7xCjrBJL+c0zt8xxO/Yz4ySPARSdpxDUmkE3zCT9LC2jqF9oEwzBhcBDGRzvIOqaJ1Mmt+w5snaCsNXYnou07SGlgPdklDXhsB1i4csjv80OUZubJMTtM6wacrhA==;741mxFqzGzXmxhz/vhRx6g=="
 ---
 

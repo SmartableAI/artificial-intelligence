@@ -27,17 +27,19 @@ images:
 related:
   - title: "How AI is helping find a vaccine for COVID-19"
     excerpt: "An AI expert discusses how close pharmaceutical companies are getting to finding a coronavirus vaccine or treatment and why the use of the technology is helping."
-    publishedDateTime: 2020-08-19T19:15:00Z
-    webUrl: "https://www.techrepublic.com/videos/how-ai-is-helping-find-a-vaccine-for-covid-19/"
+    publishedDateTime: 2020-08-19T19:07:00Z
+    webUrl: "https://www.techrepublic.com/article/how-ai-is-helping-find-a-vaccine-for-covid-19/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-is-helping-find-a-vaccine-for-covid-19/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-helping-find-a-vaccine-for-covid-19/"
     type: article
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 67
+    quality: 87
     images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/08/19/8245d50c-76c0-4b7b-aed0-f8c9cd60fb16/thumbnail/768x432/c9ae7e7970015afa3ee3ea22e98dc774/20200817-aidrugs-karen-1.jpg"
-        width: 768
-        height: 432
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/08/19/8245d50c-76c0-4b7b-aed0-f8c9cd60fb16/thumbnail/1200x675/2b239adc754a2f8ef01edd6fe00ba277/20200817-aidrugs-karen-1.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "fqM9m+JsUMruEFQNxGf04Cd6QVfEvsRZbUD7GZelyTVwS11AkvsGxU2rBVgv/OMBHeN1teNDdzGQVX2H9ceCdotaPz128LiM5KGNddYDP3c9tzRLudQLU+FI+0mTgg6+soOP1OPsZwfBK6T0liS8FxUw2N4gUd/DalWZOo/JGe/TXVO8jW6s2jwVRyVLA+kXYQ3m05KlhMaJes2kBQiD3mOZ5Qxzb7qgC80i0cvWGG9Wix7LvyPNldI+GrVdcMHvi7W8cJuUpakHiLaq0Dtm4LEumxqRR6BhZ6b+XBi52ME3c7SZL1+A9ucOsuXMiOlLoNAS30+N5eTqMoGoNrUasw==;9Eq88VXujNez/AdhU6cCxA=="

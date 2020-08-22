@@ -52,16 +52,16 @@ related:
         height: 236
         isCached: true
   - title: "Navya pilots self-driving paratransit shuttle on Detroit streets"
-    excerpt: "Detroit has been getting a lot of attention on the self-driving vehicle front recently. Just last week, the State of Michigan said it has embarked on efforts to create a corridor between Detroit and Ann Arbor with infrastructure specifically slated for connected and autonomous vehicles."
+    excerpt: "A self-driving paratransit shuttle pilot is being deployed to help senior citizens in Detroit. Last year, French company Navya received a mobility grant from PlanetM, the Michigan Economic Development Corp."
     publishedDateTime: 2020-08-19T17:35:00Z
-    webUrl: "https://www.autonews.com/mobility-report/navya-pilots-self-driving-paratransit-shuttle-detroit-streets"
+    webUrl: "https://www.crainsdetroit.com/mobility/navya-pilots-self-driving-paratransit-shuttle-detroit-streets"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: Crain's Detroit
+      domain: crainsdetroit.com
     quality: 24
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Navya%20Shuttle-MAIN_i.jpg"
+      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/Navya%20Shuttle-MAIN_i.jpg"
         width: 800
         height: 600
         isCached: true

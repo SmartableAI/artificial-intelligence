@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The U.S. Air Force Aims to Win the Next War Thanks to Artificial Intelligence"
-    excerpt: "Making the best and fastest decision, with lives hanging in the balance, could all be expedited by the life-saving power of blending otherwise divergent technical applications with AI."
-    publishedDateTime: 2020-08-18T00:48:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/us-air-force-aims-win-next-war-thanks-artificial-intelligence-167108"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 49
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/32643153097_c9ca1cda64_k%20copy_0.jpg"
-        width: 1800
-        height: 1162
-        isCached: true
   - title: "An AI Just Beat a Human F-16 Pilot In a Dogfight — Again"
     excerpt: "In five rounds, an artificially-intelligent agent showed that it could outshoot other AI’s, and a human. So what happens next with AI in air combat?"
     publishedDateTime: 2020-08-20T21:45:00Z

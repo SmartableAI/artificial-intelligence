@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Navya pilots self-driving paratransit shuttle on Detroit streets"
-excerpt: "Detroit has been getting a lot of attention on the self-driving vehicle front recently. Just last week, the State of Michigan said it has embarked on efforts to create a corridor between Detroit and Ann Arbor with infrastructure specifically slated for connected and autonomous vehicles."
+excerpt: "A self-driving paratransit shuttle pilot is being deployed to help senior citizens in Detroit. Last year, French company Navya received a mobility grant from PlanetM, the Michigan Economic Development Corp."
 publishedDateTime: 2020-08-19T17:35:00Z
-webUrl: "https://www.autonews.com/mobility-report/navya-pilots-self-driving-paratransit-shuttle-detroit-streets"
+webUrl: "https://www.crainsdetroit.com/mobility/navya-pilots-self-driving-paratransit-shuttle-detroit-streets"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: Crain's Detroit
+  domain: crainsdetroit.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Navya%20Shuttle-MAIN_i.jpg"
+  - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/Navya%20Shuttle-MAIN_i.jpg"
     width: 800
     height: 600
     isCached: true
@@ -66,6 +66,6 @@ related:
         height: 300
         isCached: true
 
-secured: "pItgW6H23xSbIXBiamlIVnYhRhq/LNI/9YQ4Kcy8B9OS1NsvKq06bGdbW4FW4UC84V4DF21o1UmJDVSO8R7dzw5MRVnLH7KUJwuHsSZJHBvxBaA/YUbeC1ENZr6mBhuAh9VKr2C7gobb5zLLr5T53WazQ4PFaSaO3aeB4A+x2yXfykp2MS42iWiGIXOOWDaWYGGLTK1P6qZwjPitdzuJt5aa45Y+DGz+zPIhTV2iG4ZlsUQrCBHl0cBGbZIbn+Z2ts8h2ZMrpUrDZh8uITV6MPcTSj3nSdyFF4fuVkyHMb0KZm7/HSreGx9a9tlcHZmyqJcDNJaX3DViaF0za9hzWA==;zWLif3MZwMutyd2md31W/w=="
+secured: "MlN4k2JPsHdLu8yTd2zvlxlEw/pYfgUcwq7jW1/8bUQenxFu59dPgprPeoxTqROAd5gESjcBFdPyOzvIBsAQ7ilBz+HWZG/HtucovAEcN9981bpHye3VHGsf+cj2u2Yy3ku27IioiRgOoeBWPNSpRR3+bf+cNhrxQXbhdIgTDdW8pOW7WD9eg3MgJpGCAwPDepMLmxbJzAUekwTn+EOfGIaO0CwT/drawMSulKfcofaZ1mwuUTPsHNFwAW2X1o4OvJ5PkwlTnfYmkKoSD9WNwCWTJit3SfsE8bgrwvvKqfuiJ7AAqSH8vfZHGp6O7WfPPpdOwnoC2EWhHG9pKODQ2Q==;tiCgAZvnf5qYfVzB/5+q+g=="
 ---
 

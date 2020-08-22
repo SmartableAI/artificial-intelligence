@@ -2,55 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-08-11-singapores-trade-finance-startup-incomlend-raises-20m-led-by-sequoia-capital-india.md",
-      "title": "Singapore’s trade finance startup Incomlend raises $20M led by Sequoia Capital India",
-      "excerpt": "Incomlend, a Singapore-headquartered startup that operates a trading platform to connect exporters and importers with investors, has raised $20 million in a new financing round, it said on Tuesday. Sequoia India,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/10/singapores-trade-finance-startup-incomlend-raises-20m-led-by-sequoia-capital-india/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1143842082.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/10/singapores-trade-finance-startup-incomlend-raises-20m-led-by-sequoia-capital-india/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/10/singapores-trade-finance-startup-incomlend-raises-20m-led-by-sequoia-capital-india/amp/",
-      "publishedDateTime": "2020-08-10T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-11-avanade-named-strategic-go-to-microsoft-azure-partner-in-new-global-alliance-with-databricks.md",
       "title": "Avanade named strategic go-to Microsoft Azure partner in new global alliance with Databricks",
       "excerpt": "Avanade, the leading digital innovator on the Microsoft ecosystem, and Databricks, the leading provider of unified data analytics solutions, have fo",
@@ -1389,6 +1340,47 @@
         "Microsoft AI",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-new-funding-for-racial-justice-ai-and-data-projects.md",
+      "title": "New funding for racial justice AI and data projects",
+      "excerpt": "The Ada Lovelace Institute’s JUST AI programme has launched a £40,000 fund, supported by the Arts and Humanities Research Council (AHRC), for work addressing racial justice and AI ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/new-funding-for-racial-justice-ai-and-data-projects/id/5072562",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5072562&name=new-funding-for-racial-justice-ai-and-data-projects",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5072562&name=new-funding-for-racial-justice-ai-and-data-projects",
+      "publishedDateTime": "2020-08-10T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

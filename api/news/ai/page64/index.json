@@ -2,55 +2,6 @@
   "page": 64,
   "value": [
     {
-      "path": "_news/2020-06-24-taking-on-talent-managements-most-urgent-challenge-with-ai.md",
-      "title": "Taking On Talent Management's Most Urgent Challenge With AI",
-      "excerpt": "The most urgent talent management issue every business is facing today is how to improve Diversity and Inclusion (DI) by reducing the potential of bias and evaluating candidates on capabilities first.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/24/taking-on-talent-managements-most-urgent-challenge-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef3606977416e0007c6d575%2F0x0.jpg",
-          "width": 1199,
-          "height": 458,
-          "title": "Taking On Talent Management's Most Urgent Challenge With AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/24/taking-on-talent-managements-most-urgent-challenge-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/06/24/taking-on-talent-managements-most-urgent-challenge-with-ai/amp/",
-      "publishedDateTime": "2020-06-24T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-24-facial-recognition-to-predict-criminals-sparks-row-over-ai-bias.md",
       "title": "Facial recognition to 'predict criminals' sparks row over AI bias",
       "excerpt": "A US university's claim it can use facial recognition to \"predict criminality\" has renewed debate over racial bias in technology. Harrisburg University researchers said their software \"can predict if someone is a criminal,",
@@ -1360,6 +1311,55 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-how-cloud-and-ai-powered-data-insights-are-helping-f1-attract-new-fans.md",
+      "title": "How Cloud And AI-Powered Data Insights Are Helping F1 Attract New Fans",
+      "excerpt": "F1 chief engineer Rob Smedley explains how and why the sport is unlocking the power of historical and real-time data to engage new and existing fans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef1c4146867d4000608b8f6%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "How Cloud And AI-Powered Data Insights Are Helping F1 Attract New Fans",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/amp/",
+      "publishedDateTime": "2020-06-23T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

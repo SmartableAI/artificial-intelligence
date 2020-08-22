@@ -88,20 +88,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The U.S. Air Force Aims to Win the Next War Thanks to Artificial Intelligence"
-    excerpt: "Making the best and fastest decision, with lives hanging in the balance, could all be expedited by the life-saving power of blending otherwise divergent technical applications with AI."
-    publishedDateTime: 2020-08-18T00:48:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/us-air-force-aims-win-next-war-thanks-artificial-intelligence-167108"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 49
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/32643153097_c9ca1cda64_k%20copy_0.jpg"
-        width: 1800
-        height: 1162
-        isCached: true
 
 secured: "eSY/eeH22aNmT/8QlamRT8Rrn9RvbB4ATZo01pB1nc36rOmiBvdjCRIAgMgwl/oEckH3CUH9Z5XVFiO/8s6fLpqM8aNYneEHgWdVPJhk4zO5Fdl8TYxSGRrpKaxoqIQyCUMmkhUVJM+pNkXxdJoqhf9UXAXevbq1WfJ1syFAtOekFnMETmhAEPNgN/+PJu+Ur9sRkXtVIizYGQR4/x6ORz2+h1NbWbiLGkOayFI60SUCVJ+PRcNRfHH03Kzy/VwyS8/l9A2T9/8Vr/16WSLoAS6jKAGCMHOW1FnOBE03+2GR37Gn/kgyIbnlWBs82U/O7bwhgoBsOIeP3WkMvYxBnk/EhNYRH2UOPwz5JhPo5VmESnHfVtZmN2mwgmXu8wzbJZpzk7yUzflK1/9vhBQDT3Xl0jgL6S1Axb7gNnxZf2tYNBkYvo8LexPcPSM0ivWLU1Z0bw78RxY/lJu/Z2o6IbtFBOd1OJDl7uabAnjLIX/XO8TsDEze4BDKun7bBASgPqBI8rre3uPhWNfzx5qZvw==;GX7HIzoHerxUIylpDUYbXA=="
 ---

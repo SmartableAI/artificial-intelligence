@@ -40,20 +40,6 @@ related:
         width: 884
         height: 441
         isCached: true
-  - title: "Microsoft Turns to 'AIOps' for Better Azure Outage Announcements"
-    excerpt: "Microsoft has streamlined its Azure outage reporting via artificial intelligence (AI) technology. This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform ..."
-    publishedDateTime: 2020-08-18T00:01:00Z
-    webUrl: "https://rcpmag.com/articles/2020/08/18/microsoft-aiops-azure-outage.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 69
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0814vsm_Bowytz.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft strengthens translation support for Indian languages, adds Odia to Microsoft Translator"
     excerpt: "Microsoft India has announced the addition of Odia as the latest Indian language in Microsoft Translator. The cloud-based translation service will now offer real-time translation and transliteration for Odia."
     publishedDateTime: 2020-08-20T04:00:00Z

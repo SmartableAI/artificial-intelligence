@@ -2,57 +2,6 @@
   "page": 52,
   "value": [
     {
-      "path": "_news/2020-07-13-eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans.md",
-      "title": "Eighth grader builds IBM Watson-powered AI chatbot for students making college plans",
-      "excerpt": "Harita Suresh, 13, developer of the AI chatbot Rita. Harita ... TensorFlow (up 62%), ChatBots (up 45%), Microsoft Azure (up 38%) are all on the upswing. Udemy's surprise? Bitcoin and cryptocurrency classes gained popularity by fourfold.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/10/f18246a0-d75c-41fd-a7f4-5514fcb4db8a/resize/1200x/545cbe8ab7e80de2653ef37cf6138ed3/harita.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/",
-      "publishedDateTime": "2020-07-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-13-not-just-the-sprinkles-on-top-baking-ethics-into-ai-design.md",
       "title": "Not Just The Sprinkles On Top: Baking Ethics Into AI Design",
       "excerpt": "Chief Marketing Officer at Interactions, a conversational AI company, where he oversees all aspects of communications, sales and marketing. Let’s face it: When a company develops artificial intelligence (AI) that can offer us a medical diagnosis,",
@@ -1139,6 +1088,56 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-11-zapata-ceo-christopher-savoie-the-qc-and-ml-business-use-case-is-a-when-not-an-if.md",
+      "title": "Zapata CEO Christopher Savoie: The QC and ML business use case is ‘a when, not an if’",
+      "excerpt": "Zapata CEO Christopher Savoie explains the quantum computing and machine learning business use case: \"It's just a matter of timing that nobody knows.\"",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/11/zapata-quantum-computing-machine-learning-business-use-case/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/christopher-savoie.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/11/zapata-quantum-computing-machine-learning-business-use-case/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/11/zapata-quantum-computing-machine-learning-business-use-case/amp/",
+      "publishedDateTime": "2020-07-11T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }
