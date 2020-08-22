@@ -3,7 +3,7 @@ name: "Alice M. Agogino"
 bio: "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway"
 location: UC Berkeley
 type: "profile"
-heat: 57
+heat: 50
 
 website: https://me.berkeley.edu/people/alice-m-agogino/
 
@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Alice M. Agogino"
 
-secured: "TzLQtI0JjNn9unJvsO8oDaC30ffNuJZOLyQ/q8O4Q9+D9qDrti6z62pGkucoG17whjtZNPlHw/EGcz/gpEnZgRgbKKkyv0gr4oGmowcad3UY8LnejeC1WvjxzCoGurXFZssY/cZauIjhdqxj0DcpmAJUFd/t64byPX8atyy32Gyz/EQco7ZYbUIyFUP642H+MUV5oSDOX6VC21jH6ZBXrUzFP4I158xbK39QxHTblPVeHSfHLrzAp+7spFiViW7vAQybz3X4pfvbQyx7OOanJ16bPPlHSTWZBxVDdUy30jOnG7+fc2Z4+/pb4GIyR7xb5vfaJ32B872y+VML1I4A/EJkcVktzOv+W8zkIvy8cEGw1Kf0zpPaFm8QMIiXqT8K;+rGHCGx5asgERfqlhtVTbg=="
+secured: "Yj1q8+n4SQuhrZfbOTSYwXZHHy49Z5GFHx+CtqYcLDc6SXGwQvHrJyqAR9BU72m4mcELjM4PqKaMP8r56gALHgDnoKQ7OzaxfbBR+SPM4eMJpV9kIepZFvkh+ULshsfHjdKgbtKGQga65dne2c9GkMQxBbk6hnYB9DLp7Bt/JCipzAxHPn19qwqu/TbL8esfX+79o9SzW9cYZtTtH2huONMHUNgzNCzKWbTURQcPBwdOg7DbTgxpzETnGNjMWq4B1eUib+NUQE0mMJYruUzQB6b27FT8xNyNPNL/5LWkS2jh/YQhtwRkH7/t3AZLYzThol3bKEzSUG4ZtaQ1OVo56JyMmHrCskpBJvsO/kp9mKEkMBqQIj4ziJ1duW0DvO1v;PQ5aHIAyjkSuEEPcLxus8w=="
 ---
 
