@@ -29,15 +29,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
-  - title: "MobiusTrend: WIMI Sets Up a Subsidiary to Accelerate Hologram Vision AI Robot and Semiconductor Business"
-    excerpt: "MobiusTrend, a market research organization in Hong Kong, recently released a research report on ' WIMI Sets Up a Subsidiary to Accelerate Hologram Vision AI Robot and Semiconductor Business '. WIMI announced the establishment of a wholly-owned subsidiary Lixin Technology Co."
-    publishedDateTime: 2020-08-17T11:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mobiustrend-wimi-sets-up-a-subsidiary-to-accelerate-hologram-vision-ai-robot-and-semiconductor-business-1029508486"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
   - title: "MobiusTrend: WIMI Enters Semiconductor Business with 3D Holographic Vision Chip Upgrading"
     excerpt: "MobiusTrend, a market research organization in Hong Kong, recently released a research report on ‘WIMI Enters Semiconductor Business with 3D"
     publishedDateTime: 2020-08-19T21:21:00Z

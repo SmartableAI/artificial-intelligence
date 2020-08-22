@@ -3,7 +3,7 @@ category: news
 title: "How Ancient Rules of Logic Could Make Artificial Intelligence More Human"
 excerpt: "Many attempts to develop artificial intelligence are powered by powerful systems of mathematical logic. They tend to produce results that make logical sense to a computer program — but the result is not very human."
 publishedDateTime: 2020-08-19T09:00:00Z
-webUrl: "https://www.gizmodo.com.au/?p=1256892"
+webUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/"
 ampWebUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 type: article
@@ -20,9 +20,9 @@ topics:
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/348495/original/file-20200720-23-mxxnlu.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-    width: 754
-    height: 922
+  - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/19/aristotle.png"
+    width: 1051
+    height: 597
     isCached: true
 
 related:
@@ -43,6 +43,6 @@ related:
         height: 248
         isCached: true
 
-secured: "AeHHJfRMTC5yiLRewNHD36oq2EBFpxtCVM5+RH3XYKiNIwkwWuXyuDeEFKAuOJBsKkXAg5uRfdzH/P+yHADeeTizrbhiOUJUAwraU/B4SkWM5KId/t9zsSJf+/7jqrPI1VLderAzPchk8opfaqGLnOtGJXCJ1+O24rinu8t4tY8FsQXg3hBQNUqF6AtA8Sx9Br3/XA5iHzJoDiyWzx+GNaM3o213xUF0MzUd2wmT2lQdl+xPeTXEzsKUySe1wr6gw0ss7XcuX9YFecR7GkZEh88tRfVkl46yQmxOs9S1B76MdWbw5BPf4QQF49Xv0FXbY+QXdbHlhP5gGxobHdovpA==;ymif42H9K7z78+9VpvpCLg=="
+secured: "F84Fj9qlc10EHWIHRBUyFlVfHxunW2ouBmQAqB4D++wQGpNBliS/5+8WU4VIgyHBlmjL2MdB48A4foQ5FwRwMhvJ7DKRupdV1U5BBLif7U/625KtRdXZcp5KwoGJrNKR3j/7BRiwhrSOITMaH6s87PfZQcMem3y3yCch9x60p/dGbtoyeGQROnF2o2LaN27q2JpRD23TCBJIl4/xYg/nHLXIomNC9jWSkAJhUex8WlcEGNI7gWSDlTC60mNdVBmcLrHONjLqH2lSPywNztlExCYzi7Xmz2Nn/DnwlJ8K9ujuhglTgNuzMvRwlkBEpNgEtdRzCRhLHI5b36RRPGhDgw==;OZjcBfNBr6v/svAIKqp6BA=="
 ---
 

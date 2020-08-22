@@ -372,6 +372,17 @@ related:
         width: 685
         height: 385
         isCached: true
+  - title: "Global Facial Recognition Company Working Closely With NZ Govt"
+    excerpt: "A major company at the centre of controversies over facial recognition technology in the US and UK is working closely with the New Zealand government. NeoFace can identify up to 1000 \"persons of interest\" per minute in real-time feeds from CCTV cameras."
+    publishedDateTime: 2020-08-22T05:23:00Z
+    webUrl: "https://www.scoop.co.nz/stories/HL2008/S00168/global-facial-recognition-company-working-closely-with-nz-govt.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/HL2008/S00168/global-facial-recognition-company-working-closely-with-nz-govt.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/HL2008/S00168/global-facial-recognition-company-working-closely-with-nz-govt.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 39
   - title: "Facial recognition technology riddled with racial bias; cities are fighting back"
     excerpt: "In the wake of the George Floyd protests, many cities and technology conglomerates are banning police agencies from utilizing facial recognition technology, citing racial discrimination as a vital concern."
     publishedDateTime: 2020-08-17T17:53:00Z

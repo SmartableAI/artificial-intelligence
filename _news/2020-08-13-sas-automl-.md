@@ -1,27 +1,25 @@
 ---
 category: news
-title: "코오롱베니트, 'SAS AutoML 활용 전략’ 웨비나 개최"
-excerpt: "[파이낸셜뉴스] 코오롱그룹 IT서비스 전문기업 코오롱베니트가 오는 27일 ‘AI기반 의사결정 지원을 위한 SAS AutoML 활용 전략’ 웨비나를 개최한다고 13일 밝혔다. 자동화 머신러닝(AutoML)은 최적의 ..."
-publishedDateTime: 2020-08-13T07:06:00Z
-webUrl: "https://www.fnnews.com/news/202008131602495034"
-ampWebUrl: "https://www.fnnews.com/ampNews/202008131602495034"
-cdnAmpWebUrl: "https://www-fnnews-com.cdn.ampproject.org/c/s/www.fnnews.com/ampNews/202008131602495034"
+title: "코오롱베니트, ‘SAS AutoML(자동화 머신러닝) 활용 전략’ 웨비나 개최"
+excerpt: "코오롱베니트(대표 이진용)가 오는 8월 27일 ‘AI기반 의사결정 지원을 위한 SAS AutoML 활용 전략’ 웨비나를 개최한다고 13일 밝혔다. AutoML(자동화 머신러닝)은 최적의 분석 알고리즘 선택-모델링-평가-보완 작업을 반복적으로 자동 수행하는 기술이다. 분석 전문가가 아닌 기획, 마케팅, 영업, 품질 등 기업 담당자들도 데이터만 있으면 손쉽게"
+publishedDateTime: 2020-08-13T06:52:00Z
+webUrl: "https://www.dailysecu.com/news/articleView.html?idxno=112422"
 type: article
 
 provider:
-  name: 파이낸셜뉴스
-  domain: fnnews.com
+  name: dailysecu.com
+  domain: dailysecu.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://image.fnnews.com/resource/crop_image/2020/08/18/thumb/202008181506500395_1597797299405.jpg"
-    width: 280
-    height: 240
+  - url: "https://www.dailysecu.com/news/photo/202008/112541_132317_5753.jpg"
+    width: 600
+    height: 211
     isCached: true
 
-secured: "uZWTx9vMBabg4sKv/j+TmodT2aNOxcXHpblw0DruF6+PaAxQfYmcHYpxwdjV4nvWA/gZ2PAnUO1wnQjwmOg7wTFRYYu3It6tmXGF4DHgre9Q5QfCWPI6rz7spQOQHm67Pyyz559pwUzJWMzj4WYjc9LCMpRjY9C43W7tbaHVD3w8KanKgaMqvKJj5k25GCkpg7keQaHcaJqqBPM6RYM342O3gF32AKu+Zx/Fd5xHf/EItPX1LsKrt7JerUgjvNDNqL1t12eXMnNSXz4X1/Q9f1APhMSvp9HKgQZWpKWKgulmPlXs+yDQejek13OPmwZWMD3pQgsA5biTgfVVxLz7ng==;degwik/vkBBcy4cmdKOnuQ=="
+secured: "/rJSJWACTw3w8oVEU62OnVENQI3xUdNqhyHix6AB5nmi18tprEpJkzkvsFVYr29aNUX6EYW3cjGUESeqVZXGhCg+vBJ2vhzbSDyifJyOyEsrJbAcINZblTs9daRBSfpBegZq3wWAdebhm5TSMfg/jH+oBJAf6UlpcKvWzWRAx0ilFAai7uloYncunZVXRFjy3eQUzPMbNxvQWon5a9EFtGwxeotwjw6GBdiA1ppZVz59swrTc8xczuFAQR01jR+5Ufen+Dgif/Zun4VxgH8vm8sdUraoOdLzn6tcByC9xvNbs8ihPlenR96LKgNxIPEvn++vBD32YBufoa0tC2pfTQ==;LeFg0f05bHvld4jppBIFTg=="
 ---
 

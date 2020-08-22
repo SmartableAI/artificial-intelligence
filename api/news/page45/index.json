@@ -2,6 +2,129 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-07-16-banking-analytics-helping-banking-financial-services-and-insurance-firms-build-a-robust-risk-culture-quantzig.md",
+      "title": "Banking Analytics: Helping Banking, Financial Services and Insurance Firms Build a Robust Risk Culture | Quantzig",
+      "excerpt": "Quantzig’s comprehensive suite of banking analytics solutions provide an edge by empowering businesses with- A roadmap to strengthen the risk culture and drive improvements across all segments Innovative end-to-end solutions that offer comprehensive insights to drive growth Insights on improving end-to-end processes by embedding analytics into the decision-making processes Advanced methodologies that help drive transformations in the banking and financial services industry Quantzig’s comprehensive suite of banking data analytics solutions provides an edge by empowering banking and financial services companies with advanced solutions that leverage machine learning and NLP-based methodologies.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/d38cd1f8b0b04dea9a5827aea6d53613",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-16T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-igrad-partners-with-florida-international-university-to-provide-ai-powered-student-financial-wellness-platform.md",
+      "title": "iGrad Partners with Florida International University to Provide AI-Powered Student Financial Wellness Platform",
+      "excerpt": "Florida International University (FIU) partners with iGrad to offer interactive financial literacy education to its 58,000 college students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pr.com/press-release/817036",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-16T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR",
+        "domain": "pr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-is-turning-to-ai-in-the-midst-of-a-healthcare-crisis-a-good-idea.md",
+      "title": "Is Turning To AI In The Midst Of A Healthcare Crisis A Good Idea?",
+      "excerpt": "Well, with artificial intelligence (AI), we don't have to ... Especially at the time when our healthcare system is under intense stress. However, my experience in AI security tells me that the implementation of AI into medicine should not be rushed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/16/is-turning-to-ai-in-the-midst-of-a-healthcare-crisis-a-good-idea/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0f06b9db930900063ef98a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/16/is-turning-to-ai-in-the-midst-of-a-healthcare-crisis-a-good-idea/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/16/is-turning-to-ai-in-the-midst-of-a-healthcare-crisis-a-good-idea/amp/",
+      "publishedDateTime": "2020-07-16T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-ibm-and-verizon-business-to-collaborate-on-5g-and-ai-solutions-at-the-enterprise-edge.md",
       "title": "IBM and Verizon Business to Collaborate on 5G and AI Solutions at the Enterprise Edge",
       "excerpt": "Verizon Business (NYSE: VZ) and IBM (NYSE: IBM) today announced they are entering into a collaboration to work together on",
@@ -928,147 +1051,6 @@
       "ampWebUrl": "https://venturebeat.com/2020/07/15/why-supervised-learning-is-more-common-than-reinforcement-learning/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/why-supervised-learning-is-more-common-than-reinforcement-learning/amp/",
       "publishedDateTime": "2020-07-15T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024.md",
-      "title": "Artificial Intelligence In Healthcare Market-Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2024",
-      "excerpt": "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024-2020-07-16",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-aws-announces-amazon-interactive-video-service-amazon-ivs.md",
-      "title": "AWS Announces Amazon Interactive Video Service (Amazon IVS)",
-      "excerpt": "Amazon IVS gives customers the ability to add live and interactive video in their mobile and web applications in minutes, using same tech as Twitch",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200715005929/en/AWS-Announces-Amazon-Interactive-Video-Service-Amazon",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200715005929/en/805839/23/aws-logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-the-right-data-transforms-panel-of-experts-weigh-in.md",
-      "title": "The right data: Transform’s panel of experts weigh in",
-      "excerpt": "Data is the bedrock of AI and machine learning -- at Transform 2020 we queried some leading data experts about the trends they're seeing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-15-at-3.40.29-PM.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/amp/",
-      "publishedDateTime": "2020-07-15T14:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

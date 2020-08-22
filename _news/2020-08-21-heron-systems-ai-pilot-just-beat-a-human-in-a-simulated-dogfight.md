@@ -5,8 +5,8 @@ excerpt: "A DARPA event pitted AI pilots against each other, and then the winner
 publishedDateTime: 2020-08-21T03:09:00Z
 webUrl: "https://www.engadget.com/alphadogfight-ai-f-16-pilot-025617519.html"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F3a13c4b0-e359-11ea-8b5f-75ffbab8f926&client=amp-blogside-v2&signature=aa5cd3dcc77471736c8733b40735efeade67fdea"

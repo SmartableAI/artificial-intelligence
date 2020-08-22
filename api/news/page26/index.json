@@ -2,6 +2,146 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-07-30-self-driving-startup-argo-ai-hits-75-billion-valuation.md",
+      "title": "Self-driving startup Argo AI hits $7.5 billion valuation",
+      "excerpt": "Since then, Argo has focused on developing the virtual driver system — all of the sensors, software and compute platform — as well as high-definition maps designed for Ford’s self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/30/self-driving-startup-argo-ai-hits-7-5-billion-valuation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/argo-ai-ford-miami.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/30/self-driving-startup-argo-ai-hits-7-5-billion-valuation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/30/self-driving-startup-argo-ai-hits-7-5-billion-valuation/amp/",
+      "publishedDateTime": "2020-07-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-which-countries-will-win-the-global-ai-race.md",
+      "title": "Which Countries Will Win the Global AI Race?",
+      "excerpt": "\"It's not that China is trying to get into the AI space; they are in the AI space and they are probably a bigger player in artificial intelligence than most [of our] leaders in the national ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/best-countries/articles/2018-05-23/the-potential-winners-of-the-global-artificial-intelligence-race",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/best-countries/articles/2018-05-23/the-potential-winners-of-the-global-artificial-intelligence-race?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-countries/articles/2018-05-23/the-potential-winners-of-the-global-artificial-intelligence-race?context=amp",
+      "publishedDateTime": "2020-07-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-gaetz-hammers-google-for-support-of-chinese-military-despite-ethical-concerns-over-helping-us-forces.md",
+      "title": "Gaetz hammers Google for support of Chinese military despite 'ethical concerns' over helping US forces",
+      "excerpt": "In a virtual testimony before congress Wednesday, Google CEO Sundar Pichai was grilled by Rep. Matt Gaetz, R-Fla., over allegations of advancing China’s Artificial Intelligence (AI) capabilities after refusing to work with the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/gaetz-google-us-chinese-military-support",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ec594e6-1da3-40d7-b00e-61ed4e1dda62/9b5d95fa-946e-490d-a746-1440b3028ca0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gaetz-google-us-chinese-military-support.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gaetz-google-us-chinese-military-support.amp",
+      "publishedDateTime": "2020-07-29T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-translating-documents-spreadsheets-and-presentations-in-office-open-xml-format-using-amazon-translate.md",
       "title": "Translating documents, spreadsheets, and presentations in Office Open XML format using Amazon Translate",
       "excerpt": "Now you can translate .docx, .xlsx, and .pptx documents using Amazon Translate. Every organization creates documents, spreadsheets, and presentations to communicate and share information with a large group and keep records for posterity. These days, we interact with people who don’t share the same language",
@@ -1019,138 +1159,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-microsoft-azure-is-set-to-be-the-top-cloud-platform.md",
-      "title": "Microsoft Azure is set to be the top cloud platform",
-      "excerpt": "Microsoft signed new deals with PepsiCo and Mastercard to use Azure as their preferred cloud platform. Azure seems to be the top business choice right now.",
-      "sourceUrl": null,
-      "webUrl": "https://windowsreport.com/microsoft-azure-top-cloud-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/07/Microsoft-Azure-is-set-to-be-the-top-cloud-platform.jpg",
-          "width": 1856,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://windowsreport.com/microsoft-azure-top-cloud-platform/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-top-cloud-platform/?amp",
-      "publishedDateTime": "2020-07-29T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-elon-musk-says-deepmind-is-his-top-concern-when-it-comes-to-ai.md",
-      "title": "Elon Musk says DeepMind is his 'top concern' when it comes to A.I.",
-      "excerpt": "Elon Musk believes that DeepMind is a \"top concern\" when it comes to artificial intelligence.  The Tesla and SpaceX boss made his comments in an interview with The New York Times.  Musk invested in DeepMind before it was acquired by Google in 2014.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/07/29/elon-musk-deepmind-ai.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105968995-1560512715227rtx6z8xd.jpg?v=1583511384",
-          "width": 3434,
-          "height": 2289,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/07/29/elon-musk-deepmind-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/29/elon-musk-deepmind-ai.html",
-      "publishedDateTime": "2020-07-29T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-microsoft-gijima-launch-ai-varsity-programme-for-graduates.md",
-      "title": "Microsoft, Gijima launch AI varsity programme for graduates",
-      "excerpt": "The Central University of Technology has set up an artificial intelligence programme to help graduates create the next generation of intelligent solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/wbrpOqgY8YZ7DLZn",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/06/Lillian-Barnard-2020.jpg",
-          "width": 816,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.itweb.co.za/content/wbrpOqgY8YZ7DLZn",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/wbrpOqgY8YZ7DLZn",
-      "publishedDateTime": "2020-07-29T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
