@@ -8,7 +8,7 @@ ampWebUrl: "https://www.express.co.uk/news/science/1323930/artificial-intelligen
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news/amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Groundbreaking new material 'could allow artificial intelligence to merge with the human brain'"
-    excerpt: "Technology could enable new health diagnostics and achieve Elon Musk's goal of integrating with artificial intelligence"
-    publishedDateTime: 2020-08-17T09:02:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-brain-computer-cyborg-elon-musk-neuralink-a9673261.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 40
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/16/19/artificial-intelligence-cyborg-brain.jpg"
-        width: 2349
-        height: 1762
-        isCached: true
   - title: "Groundbreaking new material 'could allow artificial intelligence to merge with the human brain'"
     excerpt: "A Pedot film is likely to help link human brain with artificial intelligence without any scarring or tissue damage"
     publishedDateTime: 2020-08-19T06:33:00Z

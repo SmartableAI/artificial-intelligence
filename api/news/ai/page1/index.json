@@ -56,7 +56,7 @@
       "title": "Here's the smallest AI/ML supercomputer ever",
       "excerpt": "The vector processor, with advanced pipelining, is a technology that proved itself long ago,” wrote Robbert Emery, who is responsible for commercializing NEC Corporation’s advanced technologies in HPC and AI/ML platform solutions.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/heres-the-smallest-aiml-supercomputer-ever",
+      "webUrl": "https://www.techradar.com/uk/news/heres-the-smallest-aiml-supercomputer-ever",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 89,
@@ -72,8 +72,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/heres-the-smallest-aiml-supercomputer-ever",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/heres-the-smallest-aiml-supercomputer-ever",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/heres-the-smallest-aiml-supercomputer-ever",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/heres-the-smallest-aiml-supercomputer-ever",
       "publishedDateTime": "2020-08-21T14:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1111,6 +1111,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-21-is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is.md",
+      "title": "Is facial recognition technology finally being seen for the dystopian threat it is?",
+      "excerpt": "In the end, even Silicon Valley has had to admit that there is something a bit sinister about facial recognition",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2020/08/869082432.jpg",
+          "width": 1024,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/amp/",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/amp/",
+      "publishedDateTime": "2020-08-20T22:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-exeter-experts-organize-global-ai-summit-to-address-ongoing-healthcare-crisis.md",
       "title": "Exeter experts organize global AI summit to address ongoing healthcare crisis",
       "excerpt": "A global summit which aims to boost effective collaboration between experts working in Artificial Intelligence (AI) is being organised by academics at the University of Exeter.",
@@ -1402,55 +1443,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-microsofts-seeing-ai-founder-saqib-shaikh-is-speaking-at-sight-tech-global.md",
-      "title": "Microsoft’s Seeing AI founder Saqib Shaikh is speaking at Sight Tech Global",
-      "excerpt": "When Microsoft CEO Satya Nadella introduced Saqib Shaikh on stage at BUILD in 2016, he was obviously moved by the engineer’s “passion and empathy,” which Nadella said, “is going to change the world.” That assessment was on the mark because Shaikh went on to co-found the mobile app Seeing AI,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/20/microsofts-seeing-ai-founder-saqib-shaikh-is-speaking-at-sight-tech-global/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/MSFT-Saqib-Shaikh-11.jpg?w=1024",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/20/microsofts-seeing-ai-founder-saqib-shaikh-is-speaking-at-sight-tech-global/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/20/microsofts-seeing-ai-founder-saqib-shaikh-is-speaking-at-sight-tech-global/amp/",
-      "publishedDateTime": "2020-08-20T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

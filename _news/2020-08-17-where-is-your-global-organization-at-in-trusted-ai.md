@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-17T11:04:00Z
 webUrl: "https://www.forbes.com/sites/cindygordon/2020/08/17/where-is-your-global-organization-at-in-trusted-ai/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Forbes
@@ -26,22 +26,6 @@ images:
     width: 1199
     height: 674
     isCached: true
-
-related:
-  - title: "MIT SMR: How AI changes the rules: New Imperatives for Intelligent Organization"
-    excerpt: "Many leaders are excited about AI’s potential to profoundly transform organizations by making them more innovative and productive. But implementing AI will also lead to significant changes in how organizations are managed,"
-    publishedDateTime: 2020-08-17T18:45:00Z
-    webUrl: "https://www.infoworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 65
-    images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "H8Qcp4XxNhOyLdBfOsULf+9xzjxp9l9Yb3U6P+GUffyV2LCHpVH6o36IcH6kyYd1YzCqAnnugNH2sgesBblU2cLHrX/opkPtPRxWqjqblC8gB4qYN0dnyAhg1MsuxcCuN1V2HAJeh137gBpEknrO8WxLy4aTFe92mpQdXN42eOnm+2aZMyLpvjfl0G9Ip2WPJJodNrCpOidrzb+NrP2ZeN56WhyQULsQSBJ1Jx5e62VEBaVf9dPbALoyNXuLF7u9z4Y7vgkzhSDi6eMFTkuz28AP2++zo0PB6n9aTA7uahv7hHKYc494gE/xB96mDpDe4sq+DR+8Z+fOQca2PGJN2g18ylTdaTc4PnD4OsK9W842MDhhzQYSLWF08dz7jxATgSpNNe7qsHh6A8VUAwJDxD3JVX6PRiWTIzapZKku384fF9qm4SknRf7/M10Fih2lNXdYBuOgunHvZAn2nNUQsGyPq5BBeZDEOjogGBE6dlIwTNuJ6vHVj3+qF2q6jcI4ylinsMACRT5b7WsjYDrVlA==;okjXjjPmDLJdiCGArZIwMA=="
 ---

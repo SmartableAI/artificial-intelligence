@@ -27,22 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Video Analytics Market 2020: Drivers, Restraints, Opportunities, Threats, Trends, Applications, Growth Analysis and Forecast To 2025"
-    excerpt: "The Global Video Analytics Market was valued at USD 2.06 billion in 2016 and is projected to reach USD 28.6 billion"
-    publishedDateTime: 2020-08-17T07:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-analytics-market-2020-drivers-restraints-opportunities-threats-trends-applications-growth-analysis-and-forecast-to-2025-2020-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "HHXSYFcr+NsY5we12q86/9Wii9/AOfaLBXz3YOAEvK0QGP4rUg1cnPLGhZGRNR2l6iQk7NgqWlw7DrWvOq8vWb0wu0z8DtlAhANkh5tYgOrYOwZ1HCMU/BvdgsBgsXR0PPL4AK3zmvjZ7TXXdUmpFZ9NFtDPFLU2RBAdjxdMjBj6cygMCnbHOIhwdtAc1I3hN0B2CInKWvHxiDhJgQAKoVzkceEQRaa5XptstgPjthqtVGY+X84Bk12y7VOYvQa/T6alFGGIgzg18DK7iiQzGlOF1/4hS0iZE160WE4RMY69sj+0NKyyLYz9quZUefWnf+odDXxnjZi3AyJy4LeERQ==;f5Gx5TdQjOnpFp1cGhPuRw=="
 ---
 
