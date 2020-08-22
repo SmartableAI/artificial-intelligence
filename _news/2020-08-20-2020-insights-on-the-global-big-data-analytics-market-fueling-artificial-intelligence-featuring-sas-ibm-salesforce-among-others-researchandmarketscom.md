@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-20T15:56:00Z
 webUrl: "https://www.businesswire.com/news/home/20200820005636/en/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 1200
     height: 627
     isCached: true
-
-related:
-  - title: "Artificial Intelligence in Agriculture: An Industry Overview (2020-2025) Featuring Microsoft, IBM, and Agribotix Among Other ..."
-    excerpt: "Growth, Trends and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The global Artificial Intelligence (AI) in agriculture market is witnessing a CAGR of 26.2% during the period 2019-2024."
-    publishedDateTime: 2020-08-17T16:39:00Z
-    webUrl: "https://www.dailyrecordnews.com/ap_news/business/artificial-intelligence-in-agriculture-an-industry-overview-2020-2025-featuring-microsoft-ibm-and-agribotix-among/article_09c94850-1383-5de7-bb29-a94bafb6b950.html"
-    type: article
-    provider:
-      name: Ellensburg Daily Record
-      domain: dailyrecordnews.com
-    quality: 8
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Agriculture: An Industry Overview (2020-2025) Featuring Microsoft, IBM, and Agribotix Among Other Major Players - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence in Agriculture Market - Growth, Trends and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The global Artificial Intelligence (AI) in agriculture market is witnessing a CAGR of 26."
-    publishedDateTime: 2020-08-17T16:39:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200817005511/en/Artificial-Intelligence-Agriculture-Industry-Overview-2020-2025-Featuring"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200817005511/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "Zm2wb/0FLXfwCTp9R12zjIwDo4kcsYXiD+0PulxHtuNSUy7+4ieji8CKxK6FFu7+BuBE+xlYL4rmU+DZY8XjptXXgpHg5aZRBjSPnQcw+VueV1Sj6aZGyLkqqB2g/4LAwgdKdKTEIF1WlIaeQb3qmjiyu5j28kNpBmUDnvUUFb25QWr4XtW2tI62RtY+sddUrECm3uu/zX9vyOcDeOWUEy8z2yuevynhWZIVsmtAaZy8IIWr7SchMLg4d2xZb9Yh+anPT2Ax1Gujdd4bCDCK6+gy5jlJiHK1wWikD419ZFdyg6rsP0p9RLhLqVvm+bA9/tyFmMCtyW3hAw3EwFeNIQ==;wBQyZKY9W0xwt86Einaiog=="
 ---

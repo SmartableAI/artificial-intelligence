@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-18/facial-recogn
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
 type: article
 quality: 89
-heat: 339
+heat: 329
 published: true
 
 provider:
@@ -93,22 +93,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200820&t=2&i=1530292134&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7J04P"
         width: 893
         height: 545
-        isCached: true
-  - title: "British police to trial facial recognition system that detects your mood"
-    excerpt: "Lincolnshire police plan to test facial recognition and behavioral tech that infers people's moods and expressions by analyzing CCTV footage."
-    publishedDateTime: 2020-08-17T16:22:00Z
-    webUrl: "https://thenextweb.com/neural/2020/08/17/british-police-to-trial-facial-recognition-system-that-detects-your-mood/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/08/17/british-police-to-trial-facial-recognition-system-that-detects-your-mood/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/17/british-police-to-trial-facial-recognition-system-that-detects-your-mood/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 88
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-17T150750.023-796x417.png"
-        width: 796
-        height: 417
         isCached: true
   - title: "Court ruling paves the way for Facebook to settle its facial recognition lawsuit"
     excerpt: "A judge gave Facebook preliminary approval to settle its Illinois facial recogntion lawsuit that was filed under the Biometric Information Privacy Act."

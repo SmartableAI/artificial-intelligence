@@ -1,15 +1,15 @@
 ---
 category: news
-title: "AI As Being Truthful Or A Liar, Including While At The Wheel Of Self-Driving Cars"
-excerpt: "AI as teller of truth or potential untruths. getty. Will AI lie to you? Sure, why not. Most people assume that AI is dispassionate, unbiased, objective rather than subjective, and"
-publishedDateTime: 2020-08-20T16:29:00Z
-webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/"
-ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
+title: "Full Self-Driving Cars Are Still A Long Way Off – Here’s Why"
+excerpt: "Tesla﻿ makes a lot of noise about its self-driving abilities, and contender Lucid is claiming it will go further with its Air. But is this really all hype, and will we ever really be able to sit back and let the cars do all the work?"
+publishedDateTime: 2020-08-22T09:33:00Z
+webUrl: "https://www.forbes.com/sites/jamesmorris/2020/08/22/full-self-driving-cars-are-still-a-long-way-off--heres-why/"
+ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2020/08/22/full-self-driving-cars-are-still-a-long-way-off--heres-why/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2020/08/22/full-self-driving-cars-are-still-a-long-way-off--heres-why/amp/"
 type: article
-quality: 86
-heat: 166
-published: true
+quality: 74
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -22,15 +22,30 @@ provider:
 topics:
   - AI in Autos
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3c3ffe7e15267c1d38cc1a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D455%26cropY2%3D3267"
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3fe895e0243aa68130748d%2F0x0.jpg"
     width: 1200
-    height: 675
+    height: 800
     isCached: true
 
 related:
+  - title: "AI As Being Truthful Or A Liar, Including While At The Wheel Of Self-Driving Cars"
+    excerpt: "AI as teller of truth or potential untruths. getty. Will AI lie to you? Sure, why not. Most people assume that AI is dispassionate, unbiased, objective rather than subjective, and"
+    publishedDateTime: 2020-08-20T16:29:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3c3ffe7e15267c1d38cc1a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D455%26cropY2%3D3267"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Beijing Makes Self-Driving Vehicles A Priority"
     excerpt: "The Chinese government has designated autonomous driving, along with 5G and artificial intelligence, as one of the strategic technologies to counteract the economic impact of the COVID-19 pandemic, boosted by state investment fund that has breathed new life into the ecosystem."
     publishedDateTime: 2020-08-19T09:26:00Z
@@ -62,22 +77,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Full Self-Driving Cars Are Still A Long Way Off – Here’s Why"
-    excerpt: "Tesla﻿ makes a lot of noise about its self-driving abilities, and contender Lucid is claiming it will go further with its Air. But is this really all hype, and will we ever really be able to sit back and let the cars do all the work?"
-    publishedDateTime: 2020-08-22T09:33:00Z
-    webUrl: "https://www.forbes.com/sites/jamesmorris/2020/08/22/full-self-driving-cars-are-still-a-long-way-off--heres-why/"
-    ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2020/08/22/full-self-driving-cars-are-still-a-long-way-off--heres-why/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2020/08/22/full-self-driving-cars-are-still-a-long-way-off--heres-why/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3fe895e0243aa68130748d%2F0x0.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Self-driving cars could be on UK roads by spring 2021"
     excerpt: "The UK government has put out a call for evidence on Automated Lane Keeping Systems (ALKS), a function used on self-driving cars that can take control of a vehicle at low speeds. Industry experts have said that ALKS in new cars would reduce road accidents and could be ready by the start of 2021."
@@ -149,6 +148,6 @@ related:
         height: 800
         isCached: true
 
-secured: "IRqBBPMgkEXHS00CjCsof3yKyEweIfBISVjAm8t1ll7PhtJ02lQs+LA45d5FwskuYWl7DZKWHks9o3SJDaPOpgvQzAWAjNQMaJQsF6ps1LDSKBKp+bBvCrVEK2Hh9enW6m2Fn5Uy5qwPQ5dWqlEmrgJy0UpQksh9CVqxUp422h17NgwL06GtTjqVOX+owq+p2g2a8tcNAaeWFZc6QWS5q4TQHH9N38fllFcnqhKxMN1OBJyyUdWlkUwxFtNlT99ueXe3fvywd3aNLvfsgnGCejrw7xjLbU128IXV3GX1UaQKfSChFdIX2OJ+eKDMjxLsLIXOutaY5ttJGXvl8+s4+RopzmyojLn3LSCjN6jEitqlVnTBHUdk9LcqFvbInDWtRo619GX0Z3NPJYQCvMmqIRyBp91dmfYMELgierlcKIy1IcO/6FG2saLZDWi4HLsrOYeVT7UxmDkYnY7/t8QSPqnYKY+LvFqZaZoELCDNl29kW4lhk5izILGaDVtbE7lLhrkdi5rmYka6hYp9BN3oYw==;Vsi5qNIn+N+mE/ncMZA+8w=="
+secured: "DFl9WkZJvgbPFEQfjUDLpy5uah0sNqvloHiqrDdM8u+7pKIzNp6AN7u+Dr0V66+RvbO29at0JZNq7pSCwpcKGaNgTWPSSdnXmp3Bx143DfyIbLIMawWQgV5Cy6p8ZyADjf2qr/FPziZCOCJyeBFafhQdhEGlOnkyKg+afbT7LgN1S6dA4O+jbWrm1WCarBjxorwThp9IEFUSbUSAZV5H9TwwlR4Bw7ErcXdAI6wpVe6Lg4IQP73Sev9Onqm5cGrzuxbXn+S4pY96x0hhWChFz7GIX196ic3PKatDzJdKH9i9Rnbd4wx1L2wHt/iuO6FYNZO6lvBQ6S7/nG8qKE6JBw==;Yl1TNYIuRwvL8dXjiowMTg=="
 ---
 

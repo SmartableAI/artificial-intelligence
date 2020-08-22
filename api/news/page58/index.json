@@ -2,6 +2,55 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-07-08-ai-weiwei-yours-truly-review-on-the-irony-of-personal-freedom.md",
+      "title": "‘Ai Weiwei: Yours Truly’ Review: On the Irony of Personal Freedom",
+      "excerpt": "This documentary from Cheryl Haines about Ai, a Chinese artist and activist, explores the tension between the idea of liberty and the fate of those who pursue it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/07/08/movies/ai-weiwei-yours-truly-review.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/07/09/arts/09aiweiwei-art/merlin_174157329_9408a62c-fb78-4b32-9e4d-18fd514a078f-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": "‘Ai Weiwei: Yours Truly’ Review: On the Irony of Personal Freedom",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/07/08/movies/ai-weiwei-yours-truly-review.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/08/movies/ai-weiwei-yours-truly-review.amp.html",
+      "publishedDateTime": "2020-07-08T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-microsoft-continues-to-build-out-its-azure-cognitive-services-api-family.md",
       "title": "Microsoft continues to build out its Azure Cognitive Services API family",
       "excerpt": "The idea behind Azure Cognitive Services is to enable developers to use an API call in building heir apps to add sight, speech, search and other AI capabilities without having to master machine learning techniques first. Microsoft also has made a number ...",
@@ -1117,46 +1166,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-bharat-forge-launches-ai-based-health-risk-monitoring-system.md",
-      "title": "Bharat Forge launches AI-based Health Risk Monitoring System",
-      "excerpt": "Indian multinational company Bharat Forge Limited (BFL), in collaboration with AI start-up Blackstraw, has launched the Health Risk Monitoring System (HRMS), an AI-based solution that enables companies and institutions to comply with government-provided ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/companies/bharat-forge-launches-ai-based-health-risk-monitoring-system/article32019797.ece",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/economy/u9c9mu/article25159265.ece/ALTERNATES/LANDSCAPE_615/BL09P4CIIBABAKALYANI",
-          "width": 615,
-          "height": 384,
-          "title": "Bharat Forge launches AI-based Health Risk Monitoring System",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/companies/bharat-forge-launches-ai-based-health-risk-monitoring-system/article32019797.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/bharat-forge-launches-ai-based-health-risk-monitoring-system/article32019797.ece/amp/",
-      "publishedDateTime": "2020-07-08T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

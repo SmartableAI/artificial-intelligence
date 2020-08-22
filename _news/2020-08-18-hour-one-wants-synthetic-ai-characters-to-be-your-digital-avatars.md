@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-chara
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hour One raises $5M Seed to generate AI-driven synthetic characters from real humans"
-    excerpt: "All of the people pictured above are real, but what you are seeing are synthetically-generated versions of their real selves. And they can be programmed to say anything. Tech futurists have long warned about humans being replaced by life-like AI-driven figures,"
-    publishedDateTime: 2020-08-17T16:45:00Z
-    webUrl: "https://techcrunch.com/2020/08/17/hour-one-raises-5m-seed-to-generate-ai-driven-synthetic-characters-from-real-humans/"
-    ampWebUrl: "https://techcrunch.com/2020/08/17/hour-one-raises-5m-seed-to-generate-ai-driven-synthetic-characters-from-real-humans/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/17/hour-one-raises-5m-seed-to-generate-ai-driven-synthetic-characters-from-real-humans/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/character_sheet3.jpg?w=512"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Israeli company raises $5M to personify AI with life-like synthetic characters"
     excerpt: "Israeli startup Hour One scores Seed round to bring AI to life with characters that look like actually people. Just imagine the"
     publishedDateTime: 2020-08-18T11:21:00Z

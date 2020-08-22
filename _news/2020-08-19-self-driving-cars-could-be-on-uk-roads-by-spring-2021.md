@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Full Self-Driving Cars Are Still A Long Way Off – Here’s Why"
+    excerpt: "Tesla﻿ makes a lot of noise about its self-driving abilities, and contender Lucid is claiming it will go further with its Air. But is this really all hype, and will we ever really be able to sit back and let the cars do all the work?"
+    publishedDateTime: 2020-08-22T09:33:00Z
+    webUrl: "https://www.forbes.com/sites/jamesmorris/2020/08/22/full-self-driving-cars-are-still-a-long-way-off--heres-why/"
+    ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2020/08/22/full-self-driving-cars-are-still-a-long-way-off--heres-why/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2020/08/22/full-self-driving-cars-are-still-a-long-way-off--heres-why/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3fe895e0243aa68130748d%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "UK government takes the next step in bringing self-driving cars to motorways"
     excerpt: "A new consultation aims to explore how autonomous technology can be used safely on UK roads. The UK government has launched a call for evidence that self-driving vehicles can be driven safely on city streets and motorways."
     publishedDateTime: 2020-08-19T09:15:00Z

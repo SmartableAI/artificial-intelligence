@@ -1,28 +1,24 @@
 ---
 category: news
 title: "MRS Announces Further Developments To Artificial Intelligence Tool Have Driven Record Results"
-excerpt: "MRS BPO LLC, a leading provider of services to the accounts receivable management industry, announced that their proprietary conversational"
+excerpt: "MRS BPO LLC, a leading provider of services to the accounts receivable management industry, announced that their"
 publishedDateTime: 2020-08-21T13:01:00Z
-webUrl: "https://www.prnewswire.com/news-releases/mrs-announces-further-developments-to-artificial-intelligence-tool-have-driven-record-results-301116320.html"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17188573/mrs-announces-further-developments-to-artificial-intelligence-tool-have-driven-record-results"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17188573"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17188573"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Natural Language Processing
+  - IBM AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/965010/MRS_BPO_LLC_Logo.jpg?p=facebook"
-    width: 2034
-    height: 1065
-    isCached: true
-
-secured: "c2bUb7qknRg++RMj6uEnKpLD8CuRBDJujcUe21KpaJwVhofIqorg6D9prYfO8xv4zefCS9a2X8DDUnI9EAMDm2NYtmvGjmqDxIx84TkWUuullFi0IuavXI5emnKA1jXKjVeQ3jUPa2pQwlEe5ar8OZ4oZqYWt2LTrd1O1AhtAN9zYSZ2mJzi515cqsOfaPiRMH8qGNEF30J4lhRlZUYIHGbUugr5ZRQE+8jlECHm3/AEzcBhKFQ/cCMa4cofl5tnMmdXUDV6UJe5rm6LPT5i9x6SjbAeyn6hr4D8gjDOJbLWZIEt41pKN6psXVHdVMea2ttmKlw8j4gtzYdywNNfjw==;vBmgAhoMpGtZQfuVK3Jj6Q=="
+secured: "kXKCZBFRsZ4VDynvPy6Q4a6k9lQ6KLtPCuP+ThkDaq+dyCoBjwY5sFcfVYsRchN4l5tmO4ddRjJPML3l046EAmupzXf/DoJkYuZNl8VY1qRbH/Q1r36LFM63rLPLEORxX9/aa9CLFYgk085j5GPOvqvyigTU8S7goFwlG+Lh4dGMjhxACflliF49cUeuhcVRikvn5SfQMPmYGfencQ9K8zfxNDbJz0RgwErmAnc6UbDqw/z9IxyAFTvOg9P9smSt3kborO+/iKV54dNLEu3gCVpaPJ0Q8bmHUKC5Q/qI4FY7B2Tit0ne97MmrhUNhDVvgNqflOzT8IHVlqWmi3q3boKx6Spa1QMX5icqUV9OW2Hm2hi5YgVvDHrORWbXJ86pZ41ud9/gcyOdqFwjWLpUm9fCdwbc2OcPbzwA6o2eptmYcUNGMuaAFiAEVd+v41S3T5Ntkuen8Xrd/2nXqb4jX1Ar/kOvYFH3Cf1WH3xJpougJ1CvG1lULZx1JDmeeBS8Q9tlFi2NT0jFgxT50wYApQ==;OnlCbNrpGTH9yNlT17YjEw=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Blaize Delivers Programmable AI at the Edge"
-    excerpt: "Blaize introduced the company’s first AI computing hardware and software solutions aimed specifically at the Edge of the IoT, dubbed the Pathfinder and Xplorer platforms and the AI Software Suite."
-    publishedDateTime: 2020-08-17T16:42:00Z
-    webUrl: "https://www.embedded-computing.com/articles/blaize-delivers-programmable-ai-at-the-edge"
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 37
-    images:
-      - url: "http://share.opsy.st/5f3aaf7125efc-Blaize+image.png"
-        width: 740
-        height: 649
-        isCached: true
 
 secured: "6mWuSMB/DF1jInYwhNtYNFzSgvOSTz3RuXWMojc5Fi7rtEwhh4vVSUFLmq4PYwRaAPH4rY/qT8B93MVFtaQbKbG8MLMlkE+taGi72V9aD0C/fFtWsAXMZkw8lD1TSmL2pjffDFFNVc5g9N2SCKC4eUcZz+4QyIQy9SCs+FFNH4jJ4cX7kQQXTFO5eZll2kqGlcCJ2UBE9PcJKyuKVdEKdfEXy54dL9VuGAbdQ7kYke0hq1YrWu0ivSPzSMYmBxxqaLGDcvFNiU7BuqdKdePkoK8obEj3dDpwynnq0tb7Z/BnALDZTFsw/a2ATK+pd17jpBKu60g5JmDiJE8DJmIr3nmDlDqcg4sMRaUOzaQMSsmZvUuFivdUMs8QOpVH1TA+e73feRMnT3brS7yaTsBLQ0iBDRIoqTAW4+uJm1D8NMehj60PJGKQ6BK8PlNmk9BqcZqFxOIj148divU/IbWlm+vTxfFGR5LKmG9fBWgoHKqvvnlSJcwGOrbdNkiCRaEVCATowwl4KZCbmmBvxM3zEg==;VXNoTNqsmurxAnlclI6Khg=="
 ---
