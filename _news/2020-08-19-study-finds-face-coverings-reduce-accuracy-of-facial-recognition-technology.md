@@ -24,36 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "New York City says it will reassess police use of facial recognition"
-    excerpt: "\"That's something I will do with my team and the NYPD.\" The question came after NYPD admitted it had used facial"
-    publishedDateTime: 2020-08-17T22:45:00Z
-    webUrl: "https://www.engadget.com/new-york-city-facial-recongition-223931035.html"
+  - title: "Let's ID the Privacy and Accuracy Issues Raised by Facial Recognition"
+    excerpt: "PRO's Rob Thompkins covers privacy issues around facial recognition technologies The tremendous benefits of facial recognition technology for law enforcement identification applications have brought with them unparalleled challenges."
+    publishedDateTime: 2020-08-20T05:11:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
+      name: Officer
+      domain: officer.com
+    quality: 54
     images:
-      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2Fbce7cf20-ecf2-11e9-b372-50ae8ac12a88&client=amp-blogside-v2&signature=e638e7e15835c15f1e753686f1b886881e7c5556"
-        width: 945
-        height: 630
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2020/07/16x9/GettyImages_1139860049_copy.5f1f2e6319195.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 674
         isCached: true
-  - title: "Hashtag Trending – Facial recognition in New York; Airbnb at Blockbuster; Swiping right at work"
-    excerpt: "The New York City Police Department uses facial recognition to find a man who allegedly shouted into a police officer’s ear with a bullhorn, you may soon be able to experience the nostalgia of BlockBuster,"
-    publishedDateTime: 2020-08-19T12:02:00Z
-    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727"
-    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1"
+  - title: "US court gives preliminary approval to Facebook's request to settle facial recognition privacy lawsuit for USD 650 mln"
+    excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."
+    publishedDateTime: 2020-08-20T08:41:00Z
+    webUrl: "https://www.telecompaper.com/news/us-court-gives-preliminary-approval-to-facebooks-request-to-settle-facial-recognition-privacy-lawsuit-for-usd-650-mln--1350957"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 62
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg"
-        width: 620
-        height: 250
-        isCached: true
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 0
 
 secured: "Ex81x3myZLrKO+bt4DC23B9sthZhcWStmWkju2VWwUSbM/MkUoyWRVkavshVdV6Y54obKCZ6gbr2rfdJIoEyqn+in+aFzf6OGTm7OWcpzl4UWKmU4u8jyKnlqHEzmBwyekDjVvVNVStCsSGhlcxcGYpxJie8eMlkwrJvD6ZNvc5JcYN/r5LU6Tkfl3dRJQQ+cPH2C/zFc+zodz3TmlPg8si4WqABcNXOPZEOp8VAg7mCxP/w6MTwX2RKGpLUbYA7iiZSKjJpoOlHjM9GgayKSwunAtdtn+Mz4gG5mFMWhg1lpm7V7OTXPgDKPqXARRUPZtQcDamA+ImOit8p7rydrg==;XfPAxXbcsMAn3R4fq3ZNwg=="
 ---

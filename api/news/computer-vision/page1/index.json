@@ -9,7 +9,7 @@
       "webUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -70,6 +70,47 @@
       "provider": {
         "name": "City A.M.",
         "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-lets-id-the-privacy-and-accuracy-issues-raised-by-facial-recognition.md",
+      "title": "Let's ID the Privacy and Accuracy Issues Raised by Facial Recognition",
+      "excerpt": "PRO's Rob Thompkins covers privacy issues around facial recognition technologies The tremendous benefits of facial recognition technology for law enforcement identification applications have brought with them unparalleled challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.officer.com/files/base/cygnus/ofcr/image/2020/07/16x9/GettyImages_1139860049_copy.5f1f2e6319195.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-19T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Officer",
+        "domain": "officer.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1391,58 +1432,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit.md",
-      "title": "Google adds Digital Ink Recognition API for touch and stylus input to ML Kit",
-      "excerpt": "Google introduced a new API for touch and stylus input to ML Kit, its machine learning development toolkit for Android and iOS.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/amp/",
-      "publishedDateTime": "2020-08-06T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Google AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -2,6 +2,55 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2020-06-23-worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era.md",
+      "title": "‘World’s First’ Digital Human AI Partner Promises Companionship During Coronavirus Era",
+      "excerpt": "Planned before the coronavirus pandemic erupted, the Hybri app lets users create a partner, friend or family member. Once created, the digital partner or friend comes to life using either VR or AR, with users able to interact with them through either a smartphone alone,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef1c3a78d2fdf0006333444%2F0x0.jpg",
+          "width": 1200,
+          "height": 719,
+          "title": "‘World’s First’ Digital Human AI Partner Promises Companionship During Coronavirus Era",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/amp/",
+      "publishedDateTime": "2020-06-23T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-worlds-largest-api-marketplace.md",
       "title": "RapidAPI Expands Support for Microsoft Azure Cognitive Services on the World’s Largest API Marketplace",
       "excerpt": "RapidAPI,the world’s largest API Marketplace that helps developers find and connect to thousands of APIs, announced today that it has added a dozen",
@@ -1299,47 +1348,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-folding-based-compression-of-point-cloud-attributes.md",
-      "title": "Folding-based compression of point cloud attributes",
-      "excerpt": "Folding-based compression of point cloud attributes - mauriceqch/pcc_attr_folding",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/mauriceqch/pcc_attr_folding",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://repository-images.githubusercontent.com/222734193/0b922680-b240-11ea-849c-66c8d6b4652b",
-          "width": 1280,
-          "height": 552,
-          "title": "Folding-based compression of point cloud attributes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

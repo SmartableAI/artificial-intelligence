@@ -2,6 +2,38 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-08-07-weride-chooses-wekaio-to-manage-its-ai-data-pipeline.md",
+      "title": "WeRide Chooses WekaIO to Manage Its AI Data Pipeline",
+      "excerpt": "WekaIO™ (Weka), the innovation leader in high-performance and scalable file storage, announced today that WeRide,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/weride-chooses-wekaio-to-manage-its-ai-data-pipeline/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-3-daunting-ways-ai-will-transform-the-world-of-work.md",
       "title": "3 Daunting Ways AI Will Transform The World Of Work",
       "excerpt": "It shouldn’t be a surprise to anyone that artificial intelligence is going to change the jobs we will do in the future and redefine the role of humans in the workplace. Here we look at the three ways AI will change the world of work.",
@@ -1098,47 +1130,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-deep-learning-market-size.md",
-      "title": "DEEP LEARNING MARKET SIZE",
-      "excerpt": "DEEP LEARNING MARKET SIZE The Global Deep Learning Market size in 2018 was 2 75 Billion and is Anticipated to Grow Exponentially by 2025 With a 33 64 Percent CAGR in 2018 2025 View Full Report https reports valuates com",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2105583/deep-learning-market-size-share-trends-growth-forecast",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T806326785_g.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast",
-      "publishedDateTime": "2020-08-06T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

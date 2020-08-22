@@ -2,6 +2,47 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-08-01-agilox-autonomous-mobile-robots-are-substantially-saving-costs-by-applying-artificial-swarm-intelligence.md",
+      "title": "AGILOX Autonomous Mobile Robots are substantially saving costs by applying Artificial Swarm Intelligence",
+      "excerpt": "Swarm Intelligence (SI) and bio-inspired computing have attracted great interest in almost every area of science and engineering, including robotics, over the last two decades.",
+      "sourceUrl": null,
+      "webUrl": "https://roboticstomorrow.com/story/2020/07/agilox-autonomous-mobile-robots-are-substantially-saving-costs-by-applying-artificial-swarm-intelligence/15483/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.roboticstomorrow.com/images/upload/images/Agilox.jpg",
+          "width": 500,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-01T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-01-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in August",
       "excerpt": "Artificial intelligence (AI) is expected to add $15.7 trillion to the global economy by 2030, according to a study by PricewaterhouseCoopers. This huge figure consists of $6.6 trillion in increased productivity,",
@@ -1096,55 +1137,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-10-ways-ai-is-accelerating-devops.md",
-      "title": "10 Ways AI Is Accelerating DevOps",
-      "excerpt": "Looking to reduce the delays DevOps teams are challenged with, software development tool providers are accelerating the pace of integrating AI- and Machine Learning technologies into their apps and platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/31/10-ways-ai-is-accelerating-devops/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2429e63d796e6d0fcb189a%2F0x0.jpg",
-          "width": 1200,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/31/10-ways-ai-is-accelerating-devops/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/31/10-ways-ai-is-accelerating-devops/amp/",
-      "publishedDateTime": "2020-07-31T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

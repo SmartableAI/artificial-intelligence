@@ -1,26 +1,22 @@
 ---
 category: news
 title: "World Autonomous Aircraft Market 2020-2030: Advancements in Artificial Intelligence is a Key Factor Driving Growth - ResearchAndMarkets.com"
-excerpt: "Growth and Change” report has been added to ResearchAndMarkets.com’s offering. The global autonomous aircraft market is expected to decline from $0.84 billion in 2019 to $0.79 billion in 2020 at a compound annual growth rate (CAGR) of -6."
+excerpt: "The global autonomous aircraft market is expected to decline from $0.84 billion in 2019 to $0.79 billion in 2020 at a compound annual growth rate (CAGR) of -6.35%. The decline is mainly due to the COVID-19 outbreak that has led to restrictive containment measures involving social distancing,"
 publishedDateTime: 2020-08-19T14:22:00Z
-webUrl: "https://apnews.com/Business Wire/4ac04352a7db47c5934d8ce48268dcff"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/b17157045/world-autonomous-aircraft-market-2020-2030-advancements-in-artificial-intelligence-is-a-key-factor"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17157045"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17157045"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Deep Learning Market 2020-2023: Growth, Emerging Trends, And Forecast"
@@ -145,6 +141,6 @@ related:
       domain: ipsnews.net
     quality: 0
 
-secured: "bdc7eev5Vpmt+xtx/7jodUT32XcRi4z+RMhYx/3MFe2u0gA4uauqE+OUWWLMnCICsSUmMPeay5Ij8tu2ollUo9E7ZqeNPEv1RISGre/F2fW8YZZYNQbfaKiGyv5n5khmjQ/skgRQf82FjCq7HQleMxk/2dGYlfo5EMiWLoO1f2A1AYaR5IlnXAqFPF3vVxpX/zLqnmUZlVYwl9n27MQgirNeeZpHnPHLGI+z7OL5qLB7MagdwaF7GG5hgJ/7q4j/uUoTBA8zhy7e6D9Nun2CRgTnyOKcaBr1bCsC5+IePSCk6BZC7H1hHSfhpV6fDkU6uORu546/TALAfHk5IVjQIA==;A/KXkCp3uYK5eomb1yD69Q=="
+secured: "ayMQFbfKazWb8SLhjJIZQksc93j3bNgxWzEwFM397PaCnLx5nbYY5Yyx/hr0TgKtLT0WOL0423HzzEuRSqBnAo402BVXbgv0zZLf6YYSUiy3b7SVMwwK9ms7KypGpyRzH/ws2hslqSJMKXgXKK7ZZZz4uk1w+otvVQ2zos670ZFz0nvbWoeHKP0xtyzcQ7ynHzk2V7ucmyIa9+oMzq6aV+/OFHK+5Jjvg3a1jbxy7UZ8btev0ExFMAWWQOFUYBstbUSl9J1oDHmuB4HFfM84UPYWbzRl1w+V2F6GfpNskRBODhrY60a5AXTgWouwzIjSaNVq1VurgVL/Des9NZn2IMDshtsb9CCf8mhi9z0KWdZOeWOaZQB+TfrnM3Y+5wMZRPyi5FGA2JRg37i/cYVdtVXsvaLyWen3kOIUHbkQJSYvdxtnecnPkI4zagaOs/eF0Uypf9LHoJAVvrzampLtyOrEYg1qMv5kZXf8HrtHjmCUYgf1GayfCzTVRX6FASSMSpFw0MEek1+5Mk45ea36Gg==;7gFyvDG3BkLKDqZQfmpjFw=="
 ---
 

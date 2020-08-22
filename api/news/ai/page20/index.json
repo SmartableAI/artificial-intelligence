@@ -2,6 +2,55 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-07-31-this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic.md",
+      "title": "This CTO Says AI Technology Is Transforming The Pharmacy Industry In Time To Battle The Pandemic",
+      "excerpt": "AI technology can help pharmacists improve the speed and efficiency of manually intensive tasks – verifying medication, counting pills and maintaining adequate staff and inventory – while ensuring patient safety and adherence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f22d7618bde96bcd21f8127%2F0x0.jpg",
+          "width": 960,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/amp/",
+      "publishedDateTime": "2020-07-31T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-three-ai-companies-join-a-business-development-group-built-by-the-london-stock-exchange.md",
       "title": "Three AI companies join a business development group built by the London Stock Exchange",
       "excerpt": "The cohort will get help refining their investment pitches as well as access to the group's network of institutional investors.",
@@ -1312,56 +1361,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-how-to-choose-a-data-analytics-platform.md",
-      "title": "How to choose a data analytics platform",
-      "excerpt": "For these reasons, the pipelines that load and process data are critically important in analytics and machine learning. The major public clouds, including AWS, GCP, and Azure, all have data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3564537/how-to-choose-a-data-analytics-platform.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/ifw_ts_analytics__by-monsitj-getty-images_2400x1600-100851119-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3564537/how-to-choose-a-data-analytics-platform.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3564537/how-to-choose-a-data-analytics-platform.amp.html",
-      "publishedDateTime": "2020-07-30T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -54,22 +54,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Miami Police Used Facial Recognition Technology in Protester's Arrest"
-    excerpt: "NBC 6 Investigators found a facial recognition program was used to identify a woman accused of throwing rocks at Miami Police officers during a protest on May 30."
-    publishedDateTime: 2020-08-17T22:15:00Z
-    webUrl: "https://www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/"
-    ampWebUrl: "https://www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/?amp"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/?amp"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 59
-    images:
-      - url: "https://media.nbcmiami.com/2020/08/CLEARVIEW-UPDATE-PHOTO.png?fit=1200%2C662"
-        width: 1200
-        height: 662
-        isCached: true
   - title: "Report points to privacy, accuracy concerns with facial recognition technology"
     excerpt: "More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19."
     publishedDateTime: 2020-08-19T01:43:00Z

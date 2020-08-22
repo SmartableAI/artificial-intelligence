@@ -2,6 +2,38 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-07-28-future-cars-to-integrate-advanced-healthcare-systems.md",
+      "title": "Future Cars to Integrate Advanced Healthcare Systems",
+      "excerpt": "It is understandable given that driverless cars ... It includes investing in the face recognition Artificial Intelligence (AI) startup Deep Glint which will recognize faces in 3D.",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/future-cars-integrate-advanced-healthcare-systems-1371276",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/future-cars-integrate-advanced-healthcare-systems-1371276",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/future-cars-integrate-advanced-healthcare-systems-1371276",
+      "publishedDateTime": "2020-07-28T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors.md",
       "title": "Advertima raises $17 million for AI that tracks in-store shopping behaviors",
       "excerpt": "Advertima, a startup leveraging AI to customize in-store experiences, today closed a €15 million ($17.3 million) funding round.",
@@ -1277,56 +1309,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-how-to-unlock-your-iphone-without-a-pin-or-face-recognition.md",
-      "title": "How to unlock your iPhone without a PIN or face recognition",
-      "excerpt": "Wearing a mask can be a pain when trying to unlock an iPhone using Face ID. Here's how to unlock your iPhone without a PIN or face recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?itm_source=8&itm_content=1x6&itm_term=2361344",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/man-checking-phone-with-mask-getty-1200x630-c-ar1.91-w.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?amp",
-      "publishedDateTime": "2020-07-27T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

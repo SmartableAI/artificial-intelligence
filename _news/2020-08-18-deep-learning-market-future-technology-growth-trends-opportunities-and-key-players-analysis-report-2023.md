@@ -131,19 +131,16 @@ related:
         height: 630
         isCached: true
   - title: "World Autonomous Aircraft Market 2020-2030: Advancements in Artificial Intelligence is a Key Factor Driving Growth - ResearchAndMarkets.com"
-    excerpt: "Growth and Change” report has been added to ResearchAndMarkets.com’s offering. The global autonomous aircraft market is expected to decline from $0.84 billion in 2019 to $0.79 billion in 2020 at a compound annual growth rate (CAGR) of -6."
+    excerpt: "The global autonomous aircraft market is expected to decline from $0.84 billion in 2019 to $0.79 billion in 2020 at a compound annual growth rate (CAGR) of -6.35%. The decline is mainly due to the COVID-19 outbreak that has led to restrictive containment measures involving social distancing,"
     publishedDateTime: 2020-08-19T14:22:00Z
-    webUrl: "https://apnews.com/Business Wire/4ac04352a7db47c5934d8ce48268dcff"
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/b17157045/world-autonomous-aircraft-market-2020-2030-advancements-in-artificial-intelligence-is-a-key-factor"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17157045"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17157045"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "rnb1ryCwQWyhJ+Wvv1QAL7IVladSI7gBrnFfgcwfe3BxWyF9QuDDZqLJEA+L6MNzqTKYVUFGoYJ9Sgju7bnbM6X3JqSmaj6ImTlmGOwSy6rYvcIcF+UkkKYvsGCczGQp3su5Sfrhg+wzG+KA+86WNs1sRVioyr1r/SlbZ4wZQ1MhzBSSqdgZ+Ph5mnPisaWB4tgHwtAlGYsZA9G107EKl9tjltkBq57pz3yISOtKuQjtULv3zqxYarCLne4oEvcImJoZT7q8aFtZyD00qYK9iZF1y5zLc0INoMw88N4BAMRcb5rf7H5a/Rcdrvkk1V7RxXztwQ8vg4zceoogunoqHA==;wCvdKF3LZZvdNd3ZAmCMjA=="
 ---

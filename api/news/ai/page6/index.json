@@ -2,6 +2,47 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-08-17-de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd.md",
+      "title": "De Blasio calls for ‘clear standards’ for facial recognition tech for NYPD",
+      "excerpt": "Mayor Bill de Blasio called for “clear standards” for the NYPD when using facial recognition tech after officers were spotted using information from the department’s unit when",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/08/081120_Bill_de_Blasio_8A.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/amp/",
+      "publishedDateTime": "2020-08-17T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-autox-launches-its-robotaxi-service-in-shanghai-competing-with-didis-pilot-program.md",
       "title": "AutoX launches its RoboTaxi service in Shanghai, competing with Didi’s pilot program",
       "excerpt": "Autonomous vehicle startup AutoX announced the public launch of of its self-driving taxi service in Shanghai today. Called simply RoboTaxi, AutoX’s offering already faces competition from Didi, China’s largest ride-hailing platform,",
@@ -1334,47 +1375,6 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-michigan-self-driving-vehicle-corridor-aims-to-lead-nation.md",
-      "title": "Michigan Self-Driving Vehicle Corridor Aims to Lead Nation",
-      "excerpt": "Michigan is working to build a first-in-the-nation autonomous vehicle corridor in its southeast corner, a new bid to ensure the region remains the epicenter of an auto industry moving rapidly to a tech-driven future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_614402420.jpg",
-          "width": 840,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP",
-      "publishedDateTime": "2020-08-14T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

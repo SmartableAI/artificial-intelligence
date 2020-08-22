@@ -2,6 +2,55 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-07-30-twitter-gives-trumps-son-a-tweet-timeout.md",
+      "title": "Twitter Gives Trump's Son a Tweet Timeout",
+      "excerpt": "Twitter has temporarily halted President Donald Trump’s son from tweeting after he shared a video riddled with unsupported claims about the coronavirus Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/devpato/status/1288516384679485440",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/EeG6zYzXsAEAutO.png:small",
+          "width": 383,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-pluralsight-inc-ps-ceo-aaron-skonnard-on-q2-2020-results-earnings-call-transcript.md",
       "title": "Pluralsight, Inc. (PS) CEO Aaron Skonnard on Q2 2020 Results - Earnings Call Transcript",
       "excerpt": "The AWS DeepRacer partnership is really focused on providing machine learning specific Skills development to those participants that are engaging in their DeepRacer learning campaign. This is a ...",
@@ -1053,55 +1102,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-intel-researchers-create-ai-system-that-rates-similarity-of-2-pieces-of-code.md",
-      "title": "Intel researchers create AI system that rates similarity of 2 pieces of code",
-      "excerpt": "Machine programming (a term coined by Intel Labs and MIT) aims to tackle this with automated, AI-driven tools. A key technology is code similarity, or systems that attempt to determine whether two ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/29/intel-researchers-create-ai-system-that-rates-similarity-of-two-pieces-of-code/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/29/intel-researchers-create-ai-system-that-rates-similarity-of-two-pieces-of-code/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/29/intel-researchers-create-ai-system-that-rates-similarity-of-two-pieces-of-code/amp/",
-      "publishedDateTime": "2020-07-29T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

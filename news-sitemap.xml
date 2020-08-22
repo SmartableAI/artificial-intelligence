@@ -61,7 +61,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://ai.facebook.com/blog/new-milestones-in-embodied-ai</loc>
+    <loc>https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/</loc>
     <lastmod>2020-08-21T10:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -339,6 +339,12 @@
   <url>
     <loc>https://www.forbes.com/advisor/personal-finance/ways-fintech-can-help-you-automate-your-finances/</loc>
     <lastmod>2020-08-19T23:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition</loc>
+    <lastmod>2020-08-19T22:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1417,12 +1423,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-301110499.html</loc>
-    <lastmod>2020-08-12T13:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/facial-recognition-market-2020-2024-growth-emerging-trends-and-future-opportunities-2020-08-12</loc>
     <lastmod>2020-08-12T13:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1605,6 +1605,12 @@
   <url>
     <loc>https://pocketnow.com/kirin-980-announcement</loc>
     <lastmod>2020-08-11T17:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-2020-08-12-9184040</loc>
+    <lastmod>2020-08-11T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

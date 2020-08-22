@@ -8,7 +8,7 @@ ampWebUrl: "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters
 cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/"
 type: article
 quality: 71
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -39,22 +39,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-1238438366-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Miami Police Used Facial Recognition Technology in Protester's Arrest"
-    excerpt: "NBC 6 Investigators found a facial recognition program was used to identify a woman accused of throwing rocks at Miami Police officers during a protest on May 30."
-    publishedDateTime: 2020-08-17T22:15:00Z
-    webUrl: "https://www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/"
-    ampWebUrl: "https://www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/?amp"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/investigations/miami-police-used-facial-recognition-technology-in-protesters-arrest/2278848/?amp"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 59
-    images:
-      - url: "https://media.nbcmiami.com/2020/08/CLEARVIEW-UPDATE-PHOTO.png?fit=1200%2C662"
-        width: 1200
-        height: 662
         isCached: true
   - title: "Court Grants Facebook Preliminary OK to Settle Facial Recognition Privacy Claims"
     excerpt: "Facebook Inc. won preliminary approval late on Wednesday from a federal court for settlement of a lawsuit that claimed it illegally collected and stored"

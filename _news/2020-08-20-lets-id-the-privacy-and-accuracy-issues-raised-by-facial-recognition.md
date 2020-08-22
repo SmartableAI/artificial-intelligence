@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-20T05:11:00Z
 webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Officer
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Study Finds Face Coverings Reduce Accuracy of Facial Recognition Technology"
+    excerpt: "Even the best of the 89 commercial facial recognition algorithms tested had error rates between 5% and 50% in matching digitally applied face masks with photos of the same person without a mask, according to NIST."
+    publishedDateTime: 2020-08-19T09:43:00Z
+    webUrl: "https://www.campussafetymagazine.com/public/study-finds-face-coverings-reduce-accuracy-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 37
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/08/AdobeStock_334270594-scaled.jpeg"
+        width: 2560
+        height: 1709
+        isCached: true
   - title: "US court gives preliminary approval to Facebook's request to settle facial recognition privacy lawsuit for USD 650 mln"
     excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."
     publishedDateTime: 2020-08-20T08:41:00Z
