@@ -2,7 +2,7 @@
 title: "From Languages to Information | Stanford University"
 excerpt: "The online world has a vast array of unstructured information in the form of language and social networks. Learn how to make sense of it and how to interact with humans via language, from answering questions to giving advice!"
 type: collection
-heat: 150
+heat: 112
 
 provider:
   name: Stanford University
@@ -24,6 +24,12 @@ items:
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg
+    width: 480
+    height: 360
+    isCached: true
 
 ---
 
