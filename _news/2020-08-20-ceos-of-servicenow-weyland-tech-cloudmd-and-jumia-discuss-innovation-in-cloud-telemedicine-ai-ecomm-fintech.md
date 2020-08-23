@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ARK Fintech Innovation ETF has Surged Over 60% in 2020, Other Similar Digital Tech Investments Performing Well during Pandemic"
+    excerpt: "ARK Fintech Innovation ETF has surged over 60% in 2020, other similar digital tech investments performing well during pandemic."
+    publishedDateTime: 2020-08-23T20:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/08/165613-ark-fintech-innovation-etf-has-surged-over-60-in-2020-other-similar-digital-tech-investments-performing-well-during-pandemic/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/08/165613-ark-fintech-innovation-etf-has-surged-over-60-in-2020-other-similar-digital-tech-investments-performing-well-during-pandemic/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/165613-ark-fintech-innovation-etf-has-surged-over-60-in-2020-other-similar-digital-tech-investments-performing-well-during-pandemic/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 16
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Fintech-USA-Dollars-300x225.jpeg"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "zxSBcwl60G7x0HSGYJGZ5zebKExo+642tyfvYohxD+qJLhgCZVQ/jshIa4IWAo+Bkk0G5jEspSy1U612c8IDs9ftO1S18jrgXGDVsHzlZRdOQHXSb/rawQcaSV+okTlXDUbI+l3WA/iWOi3xTTP9ytTCkJDMqS7eFgxjIHQ35PDV7LcTdPM0E4vG/YBTnzZpA8oM8fGESP6l9ikcKzHwLN/bzFO2eD2h5RPLVwtY+BBObgTSgUPwkaholj30y0LayKcZmBPZNDOHaSjPZB8R+s1JHKCVEYHQrrMR1LcgmPUrhFM3isaeZfVbRJvAmpkZ4ApaPFTX9Ltccj/cw/vgDQ==;uNXd5q+yI1X+QlzxXYbr1A=="
 ---

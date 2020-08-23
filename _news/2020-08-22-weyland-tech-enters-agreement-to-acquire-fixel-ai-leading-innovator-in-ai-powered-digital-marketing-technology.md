@@ -37,6 +37,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
+  - title: "ARK Fintech Innovation ETF has Surged Over 60% in 2020, Other Similar Digital Tech Investments Performing Well during Pandemic"
+    excerpt: "ARK Fintech Innovation ETF has surged over 60% in 2020, other similar digital tech investments performing well during pandemic."
+    publishedDateTime: 2020-08-23T20:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/08/165613-ark-fintech-innovation-etf-has-surged-over-60-in-2020-other-similar-digital-tech-investments-performing-well-during-pandemic/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/08/165613-ark-fintech-innovation-etf-has-surged-over-60-in-2020-other-similar-digital-tech-investments-performing-well-during-pandemic/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/165613-ark-fintech-innovation-etf-has-surged-over-60-in-2020-other-similar-digital-tech-investments-performing-well-during-pandemic/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 16
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Fintech-USA-Dollars-300x225.jpeg"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "Ww2heTB+b7zGOOJYRkKkSFVAJFbZlILL4zEtd9AwJ2R/3pQTCG2noPKUA9FMeetevOW35ANzp2Dz+cUeE3rBSQZ2KENp8I6AoyYXGod03Soc8BGU/iGNMtgwjk6SsMDOORj20MO0TW6yRKsoHU5/kP42T0go2Vj3kXHzZ08/LdnoukDDZngw4hbiM3IBmLAWK+DhamEt5qHt+Fz+Js2uM6KmQaT5k7+SEDhCChu557O3hoRbRaSaM6KPkSaj0B/mDAxtLychE1OSrEcOjvMFmFwbXKuLWbU/sIJRp5ZB/rYWcPK+bG6+/y/fcEcn4cmTbl0jVbyNfHo5dHVwnjY+Jg==;zo9raxLwcUkO4jVF50uxrg=="
 ---

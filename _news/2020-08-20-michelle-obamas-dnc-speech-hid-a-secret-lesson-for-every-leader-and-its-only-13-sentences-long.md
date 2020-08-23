@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/amp/"
 type: article
 quality: 60
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.incimages.com/uploaded_files/image/1024x576/GettyImages-1228087357_439425.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Michelle Obama’s speech in full from the 2020 Democratic National Convention"
-    excerpt: "Empathy: that’s something I’ve been thinking a lot about lately. The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
-    publishedDateTime: 2020-08-19T03:38:00Z
-    webUrl: "https://www.independent.co.uk/news/world/americas/us-politics/michelle-obama-2020-dnc-speech-full-trump-george-floyd-a9675441.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 21
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/18/10/gettyimages-1266883426.jpg"
-        width: 2221
-        height: 1666
         isCached: true
 
 secured: "/8Ao5YC5uMNvloeyEnarcQNxkcpzV29dtqF6Grck7J+ZV8aFOJyy3hsNBOT4mDQbgxt/YBVRepcaXYrk7un9zxyER+y2uU/uMkWlSTbc1/gSo6sFhFM5gHR9YF3MBtSkB26vpmPUEFGmiSYZs+63Vp8vRun/VgO//xFG6xqLK1KBlm5bB4Lza+6ddLe+7pB1jl0mze4Q15kaTasmxvykPjMUEDqLaCpXZlLF0j4/05HjlmMvBlyiBJrJmZifsXLiboXO5pBh6peX/uzwdgR+Nh3n4KWQF2Fsf683+iVu2IsNuGpQoyu5wAjMSXPeunYgJJmOVJWWkPVwN/8HsEWeUWoHeNL0HwyTjQe82TZgTytLtcuPbKxlxdoiY69XSHqa2wQ8gQX34aDrwwYYtMkHFaypHrNPFSNlq09Ki0lIW7SjO82Zc4HDp4PYkgn67DjrvdIYEsofvP7dddSqBsF7PCyLC1n3i7vpyRpDsnXfmG+ultmxujRMHGQVyv6D3QLSIePL5GW9gCTdv8yXKJdpFA==;nUJ6jt3DLPd5i5ncMOGpVQ=="

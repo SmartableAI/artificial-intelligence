@@ -2,23 +2,23 @@
 category: news
 title: "Amp Robotics makes key leadership hires"
 excerpt: "The company has added a chief commercial officer, vice president of operations, sustainability consultant and leader of talent and culture."
-publishedDateTime: 2020-08-21T16:19:00Z
-webUrl: "https://www.wastetodaymagazine.com/article/amp-robotics-hires-key-leadership-roles/"
+publishedDateTime: 2020-08-21T23:15:00Z
+webUrl: "https://www.cdrecycler.com/article/amp-robotics-hires-key-leadership-roles/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Waste Today
-  domain: wastetodaymagazine.com
+  name: C&D Recycling
+  domain: cdrecycler.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.wastetodaymagazine.com/fileuploads/image/2020/08/21/EPAweb.jpg?w=736&h=414&mode=crop"
+  - url: "https://www.cdrecycler.com/fileuploads/image/2020/08/21/EPAweb.jpg?w=736&h=414&mode=crop"
     width: 736
     height: 414
     isCached: true
@@ -48,6 +48,6 @@ related:
       domain: wasteadvantagemag.com
     quality: 34
 
-secured: "aaczaWEyfV35cj4Y9YNqf0DgUxGR97gWX7HZZFvhXMyfMp2XI1pBGX47FADWQfnX/heXXODM2WqqWpXQ2Twlf7zUsijHTalK6/+IKz53Gi3nIo9QeEFdQNrrL/NzIudNc4SNjiC2ZRxZ1i2R1YDcu07jxoKq7hBMiJ5nVediTJLj/GmVHzgB1EXix6upbDbuYpkZjlkYEbwDMyxgPrrAjolpwtjmaBNPkCBVSXfKN/TWeVHZVEJAXbz9dnZ9inyzPEoNnYTuNKMizviyTOpm5aMAwy5rAMp3i4VLGaNBykwDZgAjhRQjN38bC8Y7Ei9FZcQfRwzDmUs7RmWtCWJgqinQsgYKC3jmZZqE6Hcf4MlOzkGT2aEpZa7wjN3McSxIe2CqAkdLwkGImtYN4/Seue53WKqOCVQAMv6fAzia/0PSRRj3z+eu8DRYk8IdpikU2TPof5ssuMhfczEbAAuPkqOaXcrCmYYsPhLRioIhZJwGCy132xF4Sslq8nDGU4ol1odqS2NBT7RUB8Tho+O4WQ==;ed89yQ7g0vWPuBgCj9csqg=="
+secured: "P2ZFcBW4wC+akmmiV7ZUhlliIZNfX0P18o2cbkn9ua5hIZj8YYAJVdOx4viHaQHqpebeAdjib003iWiG/CtWMyMYfzoJiGBKWB9BCeMVO15y5hh7T46fcQvxTzYc10B6ctjm2+6gwOJRhxZNp11nnOaJ8ZPVGW1KCWDcq1lRoGKlx2N4BzLIlO29jzzBLs9MMn10bD30sIAr+A8IhQexuDvAr4V8wovy9+7fQNSYNmTnSQzlSJKo2JFTbcFgIRKBaj/m64KOFpeLjpMXPrtISPADXIUCxWDMF+zsBH47FvJi1giL8A8cOb00h03MUpMHl4AMzPvkK4QqfYGm7/Z0BQ==;7NNeqt4tbmGo4dbRId+Fvw=="
 ---
 

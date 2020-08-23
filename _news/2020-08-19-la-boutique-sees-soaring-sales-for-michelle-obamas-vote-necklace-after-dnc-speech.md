@@ -56,20 +56,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Michelle Obama’s speech in full from the 2020 Democratic National Convention"
-    excerpt: "Empathy: that’s something I’ve been thinking a lot about lately. The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
-    publishedDateTime: 2020-08-19T03:38:00Z
-    webUrl: "https://www.independent.co.uk/news/world/americas/us-politics/michelle-obama-2020-dnc-speech-full-trump-george-floyd-a9675441.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 21
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/18/10/gettyimages-1266883426.jpg"
-        width: 2221
-        height: 1666
-        isCached: true
 
 secured: "cYfHPbBP/VBAMTYnNxNV7ZoODem2KBuW+2ojBlDZQocymAepAakpdmKvp0WMzSuKm0vmlv8Y4vi8iTph2AaogKc+Z0njpurPwRbC2nTsT36M7/bs3aG2p6UBdCtqOejsoAltM3AeK43S+icDFQUHUIBTYBLelQyW8XyEtK2ECRNPtYPAjs/Wj/W7Vv4UhRiwF8Ww+pLiRNpdLYeZh0pBNKDJebCE98QpbfxRHzaR9HotK411k34j/lRkXYUzhgqLayqjyu8Yh5E+UzLQH6vw6Aa6r4b4LfgePepZ/KeTF8u6IdcK1M4diVn9HaKxWYd4RLqnzGa/y5uRnGi0J279CnkX8nWu2m0CXnkuSxS9gaSyM0pZBK35t1WPqEPR4AgjljGq18JQUv5l65zvWY7mR6/U0gIjTzxu+z9XYl5OUivjm4y1AmvDS6PCWkvuqNWr9mJSycrd6LwxO7GKBeOMfU4pdtY2BOdg6d5rSOopaHsS0d1QncutNEOoUfs0PuBGI1h/i5SSyFb9Iwmc34o48A==;y1rAs5Vrx/DUWkEUV0xpow=="
 ---
