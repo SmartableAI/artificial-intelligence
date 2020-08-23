@@ -129,20 +129,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "How to hack a self-driving car"
-    excerpt: "A car packed with self-driving features could be the ultimate prize for hackers who can’t resist a challenge. Hacking the Model 3 was the final test in the 2019 round of the prestigious Pwn2Own annual hacking event. The competition is lucrative ..."
-    publishedDateTime: 2020-08-18T09:21:00Z
-    webUrl: "https://physicsworld.com/a/how-to-hack-a-self-driving-car/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 24
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2020/08/car-hacker-1197675498-iStock_peshkov.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "+HopwwhuFkLEhIgR+zgp3KVndlFoqJOTej8RPYaYGe/GWDs/JZZbmEve1npgYuaH2ocu+n1qY/ljyi4LfkEZ+4BsV+ldoWpaTEqc9aBOq6hoLw6dAGS0MMSG7WW8qNtX5O2EO9Q0DpGOYOaHVR1X1TvYv0nNPW5Gyv8NFK9d/1bPxDuuiSk8VLCKHwxszC9YJasi9hjab/WyaauZ3knqFsWOBZcIbamRaKEEI4/d3rkfwUnXxu2NQ2zALkSzDEjuagu/2lAfThBCNmgfg8S6C3j4LMxLUf0/s5WTP4erAUdkjIokz4jilO0ItAef9ySsE1FQWsMjXesSEDAKzyuREYEhAkxQiNymKDuO5u6SqNk6m45yITBqR5+SXqJZHlJNaA6WqnpMiIeEfcmius3zgYsiuCOlSfuWWd+fa6opVve12Z8yWMbl4UbZavGLerpZNw9qhPIqJMud6fRaZePAY5LldLr7UlnXB0+/7adwiYZIPPNBv4PlSeB5vTtqq3L2YOuFCJyj6AzzI3LOySMnpQ==;ywOIv5T+gXd5SYRjThEyog=="
 ---

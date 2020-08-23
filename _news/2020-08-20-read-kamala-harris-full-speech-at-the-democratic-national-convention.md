@@ -25,24 +25,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "How Bill Clinton turned a dreadful convention speech into political stardom"
-    excerpt: "But he had little name recognition beyond the Razorback State. In the summer of 1988, Michael Dukakis’s campaign tasked him with delivering the nominating speech for the presidential candidate, which would serve as Clinton’s introduction to the nation."
-    publishedDateTime: 2020-08-18T10:10:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/08/18/how-bill-clinton-turned-dreadful-convention-speech-into-political-stardom/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/08/18/how-bill-clinton-turned-dreadful-convention-speech-into-political-stardom/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/08/18/how-bill-clinton-turned-dreadful-convention-speech-into-political-stardom/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 42
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KI6LBDSNVAI6VFT34B2NGAWH2Q.jpg&w=1440"
-        width: 1440
-        height: 963
-        isCached: true
-
 secured: "jZt7X7aNLANkiphXNU9eJFoqSsnEEr4xZGRyaLClySo/l/9g1G4ddfKfOxY9liU9b9h12ow4ikjqZ8tebF8BpHgoYpsw+fY8Q52wNr7PWe0VXyBUzGFuWs90x8aUKoKKMA/vbmqbgW+3q1Kp2nLbBLA3HJr7qm57JT3PLGvj1vuEvlkKXJ90FZNpL+87NUAZOmVLBcTQ8rIRZ8qNK27YIQIx2oZK63jz9p2jbIxGXyOwNHJb0ihJiqLkKl9ik5ks3esowmQcTdDy2DN05O1IxSFpb20p88No5+4gRduiRyjZ5KhIyNixLPjqzDTGJHejxKHh7X+N+omyx9CJEe3muP3YrkB3TocKGD9AXMCPePeUMdWvKfD6f7haQLC7Ll0Shace2gsHcQ31MmNyM6Zh+6BXnj3dOnAPDYfKrP6mnWO/U+ckodfhFClayxSAs0Sbwo7TnHLQBkzC+iyI6ivng4RFe9/Qu8eZJvj/+02DLpEyD3h76a3IRtknBhUaUXT0;JyROwG/tMrc+kXAeQaTiUQ=="
 ---
 

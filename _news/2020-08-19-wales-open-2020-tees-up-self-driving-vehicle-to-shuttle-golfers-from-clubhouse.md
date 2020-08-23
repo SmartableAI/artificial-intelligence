@@ -54,17 +54,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "China's Sanya to develop technologies for self-driving cars and supermarkets"
-    excerpt: "SANYA, August 18. /TASS/. The Sanya authorities will develop technologies for self-driving transport and commercial firms, according to Hianan's Comprehensive Smart Technology Program for 2020 ..."
-    publishedDateTime: 2020-08-18T09:44:00Z
-    webUrl: "https://tass.com/economy/1190827"
-    ampWebUrl: "https://tass.com/economy/1190827/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/economy/1190827/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 21
   - title: "How will self-driving cars and autonomous vehicle technology transform society?"
     excerpt: "Autonomous Driving is the buzzword that brings more excitement than disbelief. Read how the five connectivity requirements for V2X autonomous vehicle technology will redefine the safety, and user experience of the new age autonomous vehicles."
     publishedDateTime: 2020-08-22T05:34:00Z

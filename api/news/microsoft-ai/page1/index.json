@@ -669,31 +669,22 @@
     {
       "path": "_news/2020-08-11-avanade-named-strategic-go-to-microsoft-azure-partner-in-new-global-alliance-with-databricks.md",
       "title": "Avanade named strategic go-to Microsoft Azure partner in new global alliance with Databricks",
-      "excerpt": "Avanade, the leading digital innovator on the Microsoft ecosystem, and Databricks, the leading provider of unified data analytics solutions, have fo",
+      "excerpt": "Avanade will become Databricks’ key global partner and benefit from its deep knowledge and experience in massive scale data engineering, and collaborative data science, complementing Avanade’s Azure data and AI capabilities.",
       "sourceUrl": null,
-      "webUrl": "https://www.cmo.com.au/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/",
+      "webUrl": "https://www.reseller.co.nz/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo.jpg",
-          "width": 620,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-08-10T22:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
         "images": null,
         "publishers": null,
         "authors": null

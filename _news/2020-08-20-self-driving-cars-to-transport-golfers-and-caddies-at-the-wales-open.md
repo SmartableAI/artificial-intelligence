@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "China's Sanya to develop technologies for self-driving cars and supermarkets"
-    excerpt: "SANYA, August 18. /TASS/. The Sanya authorities will develop technologies for self-driving transport and commercial firms, according to Hianan's Comprehensive Smart Technology Program for 2020 ..."
-    publishedDateTime: 2020-08-18T09:44:00Z
-    webUrl: "https://tass.com/economy/1190827"
-    ampWebUrl: "https://tass.com/economy/1190827/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/economy/1190827/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 21
   - title: "Wales Open 2020 tees up self-driving vehicle to shuttle golfers from clubhouse"
     excerpt: "European Tour Pro Golfer Ross Fisher stands next to the Aurrigo x Vodafone Driverless Shuttle in Celtic Manor (Photo: Aurrigo/Vodafone) Some of the world’s best golfers will swap their buggies ..."
     publishedDateTime: 2020-08-19T23:35:00Z

@@ -2,56 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2020-08-11-facial-recognition-use-by-south-wales-police-unlawful.md",
-      "title": "Facial recognition use by South Wales Police 'unlawful'",
-      "excerpt": "The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful, the Court of Appeal has ruled. It follows a legal challenge brought by civil rights group Liberty and Ed Bridges,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-wales-53734716",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/uk-wales-53734716",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716",
-      "publishedDateTime": "2020-08-11T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-11-why-covid-19-will-boost-the-use-of-robotics-in-the-wild.md",
       "title": "Why Covid-19 will boost the use of robotics in the wild",
       "excerpt": "What must businesses consider before deploying robotics to ensure the technology is used responsibly and the challenges they’ll need to consider.",
@@ -285,31 +235,22 @@
     {
       "path": "_news/2020-08-11-avanade-named-strategic-go-to-microsoft-azure-partner-in-new-global-alliance-with-databricks.md",
       "title": "Avanade named strategic go-to Microsoft Azure partner in new global alliance with Databricks",
-      "excerpt": "Avanade, the leading digital innovator on the Microsoft ecosystem, and Databricks, the leading provider of unified data analytics solutions, have fo",
+      "excerpt": "Avanade will become Databricks’ key global partner and benefit from its deep knowledge and experience in massive scale data engineering, and collaborative data science, complementing Avanade’s Azure data and AI capabilities.",
       "sourceUrl": null,
-      "webUrl": "https://www.cmo.com.au/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/",
+      "webUrl": "https://www.reseller.co.nz/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo.jpg",
-          "width": 620,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-08-10T22:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1150,6 +1091,55 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-the-changes-ai-will-bring.md",
+      "title": "The Changes AI Will Bring",
+      "excerpt": "More efficient criminal justice, ‘fancy’ digital assistants and a potential catastrophe in the stock market: Six experts weigh in on the biggest challenges—and opportunities—of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-changes-ai-will-bring-11597072070",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-217825/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/the-changes-ai-will-bring-11597072070",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-changes-ai-will-bring-11597072070",
+      "publishedDateTime": "2020-08-10T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

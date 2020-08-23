@@ -2,56 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-08-17-elon-musk-hints-at-teslas-not-so-secret-dojo-ai-training-supercomputer-capacity.md",
-      "title": "Elon Musk hints at Tesla’s not-so-secret Dojo AI-training supercomputer capacity",
-      "excerpt": "Elon Musk has made a rare new comment about Tesla’s now not-so-secret ‘Dojo’ program to create an AI-training supercomputer and gave a hint of its capacity. Last year at Tesla’s Autonomy Day, the CEO first confirmed the existence of the ‘Dojo’ program: “We do have a major program at Tesla which we don’t have enough time",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/08/17/elon-musk-tesla-secret-dojo-ai-training-supercomputer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/08/Tesla-supercomputer.jpg?quality=82&strip=all",
-          "width": 2754,
-          "height": 1318,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/08/17/elon-musk-tesla-secret-dojo-ai-training-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/08/17/elon-musk-tesla-secret-dojo-ai-training-supercomputer/amp/",
-      "publishedDateTime": "2020-08-17T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-17-neurotechnology-releases-new-version-of-sentisightai-image-labeling-and-recognition-platform-powered-by-deep-learning.md",
       "title": "Neurotechnology Releases New Version of SentiSight.ai Image Labeling and Recognition Platform Powered by Deep Learning",
       "excerpt": "PRNewswire/ -- Neurotechnology, a provider of deep learning-based solutions and high-precision biometric identification technologies, today announced",
@@ -1146,6 +1096,47 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-military-takes-robot-interaction-to-the-next-damn-level-with-new-speech-recognition-system.md",
+      "title": "Military takes robot interaction to the next damn level with new speech recognition system",
+      "excerpt": "Waking up Alexa or Google with a question works well enough in the relatively unchanging home environment. But when trying to control robots in a combat environment, asking Alexa politely to find",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202008/military-takes-robot-interaction-to-the-next-damn-level-with-new-speech-recognition-system",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162655/voice-biometrics-large1.jpg",
+          "width": 1600,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

@@ -325,7 +325,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners</loc>
+    <loc>https://www.techradar.com/in/news/aws-reveals-first-quantum-computing-partners</loc>
     <lastmod>2020-08-20T01:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -681,12 +681,6 @@
   <url>
     <loc>https://www.openpr.com/news/2115681/global-artificial-intelligence-in-medical-imaging-market</loc>
     <lastmod>2020-08-18T07:47:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/</loc>
-    <lastmod>2020-08-18T07:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1837,7 +1831,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cmo.com.au/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/</loc>
+    <loc>https://www.reseller.co.nz/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/</loc>
     <lastmod>2020-08-10T22:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2403,6 +2397,12 @@
   <url>
     <loc>https://www.androidpolice.com/2020/08/06/youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels/</loc>
     <lastmod>2020-08-06T06:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fool.com/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx</loc>
+    <lastmod>2020-08-06T06:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

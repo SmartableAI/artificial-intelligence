@@ -44,22 +44,6 @@ related:
         width: 360
         height: 240
         isCached: true
-  - title: "NYPD used facial recognition to track down Black Lives Matter activist"
-    excerpt: "Photo by Ira L. Black - Corbis/Getty Images The New York City Police Department used facial recognition software to track down a Black Lives Matter activist accused of assault after allegedly shouting into a police officer’s ear with a bullhorn."
-    publishedDateTime: 2020-08-18T09:29:00Z
-    webUrl: "https://www.theverge.com/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 89
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/wbKDmXcD3f3Xc3Al7cSJGKGlHQs=/0x0:5472x3648/1400x933/filters:focal(2299x1387:3173x2261):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67218774/1264758330.jpg.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "The best facial recognition cameras to buy in 2020"
     excerpt: "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of ..."
     publishedDateTime: 2020-08-18T23:07:00Z
@@ -204,17 +188,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Brain Relies on Face Recognition Systems to Perceive Faces"
-    excerpt: "just like computer face recognition systems such as those used by Facebook and Google,\" explains co-author Brad Duchaine, a professor of psychological and brain sciences and the principal investigator of the Social Perception Lab at Dartmouth College."
-    publishedDateTime: 2020-08-18T10:30:00Z
-    webUrl: "https://www.medindia.net/news/brain-relies-on-face-recognition-systems-to-perceive-faces-196927-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/brain-relies-on-face-recognition-systems-to-perceive-faces-196927-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/brain-relies-on-face-recognition-systems-to-perceive-faces-196927-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 54
   - title: "Victory for campaigners in face recognition case is ‘cautionary tale’"
     excerpt: "Organisations must absorb the lessons of verdict in South Wales Police case, when it comes to the use of AI and automation, argues HR director."
     publishedDateTime: 2020-08-19T07:54:00Z
