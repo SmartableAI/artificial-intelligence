@@ -99,15 +99,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Worldwide Augmented and Mixed Reality Market Industry (2020 to 2025) - Increasing Demand of AR Devices in Healthcare is Driving Growth"
-    excerpt: "The report also provides specific insights and recommendations for major ecosystem constituents including Advertisers and Media Companies, Artificial Intelligence Providers, Automotive Companies ..."
-    publishedDateTime: 2020-08-18T11:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-augmented-and-mixed-reality-market-industry-2020-to-2025-increasing-demand-of-ar-devices-in-healthcare-is-driving-growth-1029512169"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
 
 secured: "oszEnTNYP44JADpEL2xM86L0T3bBls+P+KG0RNabRXWX6xiyPXLEiD9hKtv1aqru3iBt1L9eAsYQCFMjhIpL8J1mcqJlzMu1hmVVill094fF51QK8EOAlOr4BcwCiZs/FuNkhDt3vxQy5aAP/UHWEgY7lT2SUl7uPWVba7SQavT8VIviAMPNfeJanllUabQ8AZfuo2TxSV8fF8eR7j818gAvkzLKTYzwIz1CbcAtOSceLwf9wN15ZbLPZhmLtdeeSoT8z9Ii+9vdarqbiSeip4vMGRUkrYwUDIQmgiBeIPNIuihUQ4bVvlDcrvkc6RMUHgqg797h4oZ1MhWbdwRMSg==;m+p89wKDNPZIwBziCeuQMg=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fox6now.com/news/trump-hits-back-at-michelle-obama-after
 cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/trump-hits-back-at-michelle-obama-after-searing-dnc-speech-says-he-would-not-be-here-if-not-for-her-husband.amp"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump hits back at Michelle Obama after searing DNC speech, says he 'would not be here' if not for Obama"
-    excerpt: "MICHELLE OBAMA, IN DNC SPEECH, RIPS TRUMP WHITE HOUSE FOR 'CHAOS' AND 'LACK ... \"The ability to walk in someone else's shoes. The recognition that someone else's experience has values too,\" she said. \"Most of us practice this without a second thought.”"
-    publishedDateTime: 2020-08-18T11:49:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 57
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Donald Trump calls Michelle Obama 'extremely divisive' and says 'SHE is in over her head' as he attacks her Democratic convention speech calling him the 'wrong president' for ..."
     excerpt: "Donald Trump criticized Michelle Obama Tuesday for her prerecorded Democratic Convention remarks, claiming the speech where she claimed he is in 'over his head' was 'extremely divisive.'"
     publishedDateTime: 2020-08-18T13:06:00Z

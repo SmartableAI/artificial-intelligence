@@ -384,47 +384,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-11-7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare.md",
-      "title": "7 AI Stocks to Buy for the Increasing Digitization of Healthcare",
-      "excerpt": "Watson is a central brand for the AI solution IBM offers, as well as a part of its hybrid cloud strategy, which IBM advertises may help its clients work through both complex and regulated workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/08/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/10/artificial-intelligence.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/08/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/08/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare/amp/",
-      "publishedDateTime": "2020-08-11T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-11-uncover-hidden-risks-with-ai-enabled-grc-platform.md",
       "title": "Uncover Hidden Risks with AI-Enabled GRC Platform",
       "excerpt": "\nEven before the added pressures caused by COVID-19, we had observed a considerable rise in regulatory fines and regulatory pressures across geographies and industries, and we expect this trend to continue. In financial services in 2019 alone, according to Fenergo research, $8.4 billion in fines were",
@@ -471,6 +430,47 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare.md",
+      "title": "7 AI Stocks to Buy for the Increasing Digitization of Healthcare",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips The increased move to digitization is only one of several trends the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918",
+      "publishedDateTime": "2020-08-11T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {

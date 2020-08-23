@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 792
         isCached: true
-  - title: "Full text: Michelle Obama's speech to Democratic convention"
-    excerpt: "Empathy: That's something I've been thinking a lot about lately. The ability to walk in someone else's shoes; the recognition that someone else's experience has value, too. Most of us practice this without a second thought. If we see someone suffering or ..."
-    publishedDateTime: 2020-08-18T12:12:00Z
-    webUrl: "https://www.upi.com/Top_News/Voices/2020/08/18/Full-text-Michelle-Obamas-speech-to-Democratic-convention/6231597750743/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/Voices/2020/08/18/Full-text-Michelle-Obamas-speech-to-Democratic-convention/6231597750743/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/Voices/2020/08/18/Full-text-Michelle-Obamas-speech-to-Democratic-convention/6231597750743/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 44
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/6231597750743/2020/1/15977524468734/v1.5/Full-text-Michelle-Obamas-speech-to-Democratic-convention.jpg"
-        width: 603
-        height: 402
-        isCached: true
   - title: "Read: Michelle Obama’s full speech from the 2020 Democratic National Convention"
     excerpt: "Former first lady Michelle Obama delivered a straight-forward, taped speech at the Democratic National Convention ... The ability to walk in someone else's shoes; the recognition that someone else's experience has value, too. Most of us practice this ..."
     publishedDateTime: 2020-08-18T15:48:00Z
@@ -103,22 +87,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1266883401.jpg?crop=1.00xw:0.892xh;0,0.0741xh&resize=1200:*"
         width: 1200
         height: 602
-        isCached: true
-  - title: "Read, watch Michelle Obama's full speech from the Democratic National Convention"
-    excerpt: "The following are the full remarks from former First Lady Michelle Obama on the first night of the 2020 Democratic National Convention. This transcript was provided by the Democratic National Committee."
-    publishedDateTime: 2020-08-18T11:34:00Z
-    webUrl: "https://www.kgw.com/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
-    ampWebUrl: "https://www.kgw.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
-    cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
-    type: article
-    provider:
-      name: KGW8
-      domain: kgw.com
-    quality: 39
-    images:
-      - url: "https://media.kgw.com/assets/WZZM/images/cb702bd3-9cd1-4250-9d43-bdafa49dee47/cb702bd3-9cd1-4250-9d43-bdafa49dee47_750x422.jpg"
-        width: 750
-        height: 422
         isCached: true
   - title: "L.A. boutique sees soaring sales for Michelle Obama’s ‘VOTE’ necklace after DNC speech"
     excerpt: "“When the speech started, you had to squint a little ... Obama has continued to use her recognition and her style of politics in her post-White House years, perhaps with more fashion flair ..."
@@ -163,20 +131,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 24
-  - title: "Michelle Obama's Entire DNC Speech"
-    excerpt: "(AllHipHop Opinion) Former First Lady Michelle Obama gave a most riveting keynote speech on the first night ... to walk in someone else’s shoes; the recognition that someone else’s experience ..."
-    publishedDateTime: 2020-08-18T12:12:00Z
-    webUrl: "https://allhiphop.com/opinion/michelle-obama-s-entire-dnc-speech-vLXpGLRKMkWuKJelbk6xpw"
-    type: article
-    provider:
-      name: AllHipHop
-      domain: allhiphop.com
-    quality: 24
-    images:
-      - url: "https://images.saymedia-content.com/.image/MTczMzMyMzExMTEzMjEzODEx/michelle-obama.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Michelle Obama’s speech in full from the 2020 Democratic National Convention"
     excerpt: "Empathy: that’s something I’ve been thinking a lot about lately. The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
     publishedDateTime: 2020-08-19T03:38:00Z

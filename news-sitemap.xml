@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.news-medical.net/news/20200821/Artificial-intelligence-can-help-detect-heart-disease-based-on-facial-photos.aspx</loc>
+    <lastmod>2020-08-22T21:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/</loc>
     <lastmod>2020-08-21T19:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -21,12 +27,6 @@
   <url>
     <loc>https://www.techradar.com/uk/news/heres-the-smallest-aiml-supercomputer-ever</loc>
     <lastmod>2020-08-21T14:30:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/</loc>
-    <lastmod>2020-08-21T12:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -81,6 +81,12 @@
   <url>
     <loc>https://techcrunch.com/2020/08/21/indian-logistics-saas-startup-fareye-bags-13-million/</loc>
     <lastmod>2020-08-21T09:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis?CMP=fb_a-technology_b-gdntech</loc>
+    <lastmod>2020-08-21T08:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -325,7 +331,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/in/news/aws-reveals-first-quantum-computing-partners</loc>
+    <loc>https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners</loc>
     <lastmod>2020-08-20T01:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -511,6 +517,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727</loc>
+    <lastmod>2020-08-19T05:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot</loc>
     <lastmod>2020-08-19T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -531,12 +543,6 @@
   <url>
     <loc>https://www.openpr.com/news/2116297/machine-learning-in-retail-market-to-impressive-growth-2025</loc>
     <lastmod>2020-08-19T02:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/facial-recognition-market---what-are-the-main-factors-that-contributing-towards-industry-growth-2020-08-19</loc>
-    <lastmod>2020-08-19T01:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -603,6 +609,12 @@
   <url>
     <loc>https://www.anandtech.com/show/16008/hot-chips-2020-live-blog-baidu-kunlun-ai-processor-430pm-pt</loc>
     <lastmod>2020-08-18T16:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/</loc>
+    <lastmod>2020-08-18T16:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -721,6 +733,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
+    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/kasiaborowska/2020/08/18/top-3-applications-of-machine-learning-to-transform-your-business/</loc>
     <lastmod>2020-08-18T05:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -741,6 +759,12 @@
   <url>
     <loc>https://electrek.co/2020/08/18/tesla-hw-4-0-self-driving-chip-tsmc-for-mass-production-q4-2021-report/</loc>
     <lastmod>2020-08-18T03:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873</loc>
+    <lastmod>2020-08-18T02:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1549,7 +1573,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/buddy-ai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking/article_2e58ca27-737c-5121-91c8-d73309d7043c.html</loc>
+    <loc>https://www.prnewswire.com/news-releases/buddyai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking-kids-start-talking-in-english-301110900.html</loc>
     <lastmod>2020-08-12T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1575,6 +1599,12 @@
   <url>
     <loc>https://www.forbes.com/sites/daveywinder/2020/08/12/police-facial-recognition-use-unlawful-uk-court-of-appeal-makes-landmark-ruling/</loc>
     <lastmod>2020-08-12T04:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.sourcesecurity.com/news/hanwha-techwin-announces-ai-deep-learning-co-9381-ga-npr.1597220236.html?ref=nav</loc>
+    <lastmod>2020-08-12T02:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1617,12 +1647,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-2020-08-12-9184040</loc>
     <lastmod>2020-08-11T17:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://investorplace.com/2020/08/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare/</loc>
-    <lastmod>2020-08-11T14:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1671,6 +1695,12 @@
   <url>
     <loc>https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/</loc>
     <lastmod>2020-08-11T09:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918</loc>
+    <lastmod>2020-08-11T09:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1831,7 +1861,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reseller.co.nz/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/</loc>
+    <loc>https://www.cmo.com.au/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/</loc>
     <lastmod>2020-08-10T22:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

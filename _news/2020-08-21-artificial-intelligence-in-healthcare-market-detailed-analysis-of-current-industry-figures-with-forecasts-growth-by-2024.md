@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-21T13:23:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2020-08-21"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -98,15 +98,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Worldwide Augmented and Mixed Reality Market Industry (2020 to 2025) - Increasing Demand of AR Devices in Healthcare is Driving Growth"
-    excerpt: "The report also provides specific insights and recommendations for major ecosystem constituents including Advertisers and Media Companies, Artificial Intelligence Providers, Automotive Companies ..."
-    publishedDateTime: 2020-08-18T11:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-augmented-and-mixed-reality-market-industry-2020-to-2025-increasing-demand-of-ar-devices-in-healthcare-is-driving-growth-1029512169"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
 
 secured: "jJQZ+YKv/VV+JjKIe8HPJRDhtRtBr1WGXJwCN2cMx+s/2sSxa0T+nCewXEgB15moFO/LRVZkWwVvm/bVC1S6E1jw8aMmTnXUTE3CE947OjYIDoeaAL9jtHmh0wyeXjUe1SM1HIIawSAM8v3QCcg3Tcnbf/VC38uwTLhqbH9xn5d4M5fK29k3qDSLKbPc4M7Mn8LI4vGHjvs3Wqdf+msl1czZYgw2aiiDAo9Fjc+/wxrAHbWhkaJOqUR8fXIFXyYXuFhuYREEScnK81dlcDwSLRUjigFK5PVjU8SP4KI0MO2PiWZ9trHy/Y45cVSacTR1L83RqbG0CceDxkJJktd0SQ==;L10y39JdGiTSY3lHDc4yRw=="
 ---

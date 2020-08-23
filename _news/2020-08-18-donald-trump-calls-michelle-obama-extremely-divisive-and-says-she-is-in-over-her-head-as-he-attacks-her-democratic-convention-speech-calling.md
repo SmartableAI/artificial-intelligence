@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump hits back at Michelle Obama after searing DNC speech, says he 'would not be here' if not for Obama"
-    excerpt: "MICHELLE OBAMA, IN DNC SPEECH, RIPS TRUMP WHITE HOUSE FOR 'CHAOS' AND 'LACK ... \"The ability to walk in someone else's shoes. The recognition that someone else's experience has values too,\" she said. \"Most of us practice this without a second thought.”"
-    publishedDateTime: 2020-08-18T11:49:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 57
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump hits back at Michelle Obama after searing DNC speech, says he 'would not be here' if not for her husband"
     excerpt: "\"The ability to walk in someone else's shoes. The recognition that someone else's experience has values, too,\" she said. \"Most of us practice this without a second thought.” She went on to say that children in the U.S. \"are seeing what happens when we ..."
     publishedDateTime: 2020-08-18T13:46:00Z

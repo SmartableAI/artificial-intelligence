@@ -1,27 +1,25 @@
 ---
 category: news
 title: "7 AI Stocks to Buy for the Increasing Digitization of Healthcare"
-excerpt: "Watson is a central brand for the AI solution IBM offers, as well as a part of its hybrid cloud strategy, which IBM advertises may help its clients work through both complex and regulated workloads."
-publishedDateTime: 2020-08-11T21:08:00Z
-webUrl: "https://investorplace.com/2020/08/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare/"
-ampWebUrl: "https://investorplace.com/2020/08/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/08/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare/amp/"
+excerpt: "Stock Market News, Stock Advice & Trading Tips The increased move to digitization is only one of several trends the"
+publishedDateTime: 2020-08-11T16:18:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918"
 type: article
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/10/artificial-intelligence.jpg"
-    width: 1600
-    height: 900
-    isCached: true
-
-secured: "kzwfh4SLSb1AmCA+FtaG21Av+X20hXFIoBgM1E0wJfm1OS+HFG6+Le2OUPoAurTJTjvjV7wmbxPTZkVvd3r6Cc/c3Lj+3lS2O49h82Hx8/kDKEQhKJ+GKwJUOPGxTYWblw8APkU0d03kVk+I22jp1CaQmbIZfeoAAhUvAffRbvxGEw4Z9zOss2qAY8JVEIVHNdwPGAvWNf2vVFtxgo8Iqxu8tfeZJc+08106+it1uC1ye/uApUNMp+xbSQWZkRyZpAde9um0eWnQTxkZaOEcpDQtf1RG057oTOo3vNFVgIMZxmoA4mL0WzQQDiOOju6QRBGd7fx5/+uhfkyjXdJzOw==;ePu4RmCInbdAssfvQepvEQ=="
+secured: "QQk6POeY551GYN6v3yqHgSUsfnL1zpmlqwDwpzQbH3VG4M1kgaRONx+mMsDDqTXaq8GArBD7PXzEJouhQ0QGMnOPZyUTfL0gRbKFGEh9kJ/1IPvEOSQf+jEL5FG3UTPhqWkyf4rJNpOgB4/26pX22LtR4qvG6f4xdN9ueK4I5qaA7rA/Y+T1cP4ZfWFcPmYnUW//eOv1W2i+l56zYCn4+4JorVYRku7emy5QmMEr6CM3QZQzE3XCQIuGIqfdy2g0KQmUyysEC6maaceWMrBaoI17VO22+AvvBTHXA5uLq8OG4ExeORnM7JohDPlhZTEDVosieg1DBSqgYCfFw3xkg7bI8VsHvwOby+1MvH7BiUrsuYeyDVmz+hTFJ1r1oeHNgJoNH4YAZ4ao8BpqWQDWHEfpOH2ERjAYSIPApG3TgUALW4BkSrMOXGWH11fIornHllaNYaVCzpG2w3ZfPZQCM4SbLWzBpQhHqLcCliuU/8De6c4QZBm+Hu6eYpHD7EKNTkbUXS5aelL6HPBJI1ZhPw==;8tLAOtdvzRZzPrKYRI57bw=="
 ---
 

@@ -1,19 +1,25 @@
 ---
 category: news
 title: "Avanade named strategic go-to Microsoft Azure partner in new global alliance with Databricks"
-excerpt: "Avanade will become Databricks’ key global partner and benefit from its deep knowledge and experience in massive scale data engineering, and collaborative data science, complementing Avanade’s Azure data and AI capabilities."
+excerpt: "Avanade, the leading digital innovator on the Microsoft ecosystem, and Databricks, the leading provider of unified data analytics solutions, have fo"
 publishedDateTime: 2020-08-11T05:41:00Z
-webUrl: "https://www.reseller.co.nz/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/"
+webUrl: "https://www.cmo.com.au/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/"
 type: article
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: cmo.com.au
+  domain: cmo.com.au
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "Keog2VVoHQzsvtlEbsEk8gUYftjgXnRA4PxFP+MxBtGCVSpSfc698IvByaAM4NYwLpdJSN+GH1UWdL+KfIleWz7GPVMHD/XUKXBZd/1vx8AxH9U4IOICBKspmqp5CdHp9vAgqbTfkyHPlfx3aaO31SJaObw9xodLi/JDQmQBOFkfFrk9ZHC9wD3aB/8S8jWbwNrRweN3xG96BWrlusb5wmJsfKoGp5YCJCWXiaaiYNFtBxpCahJaOjjwjoQCqMyJgOd+NNmPcav8JhMlMryqLb2xvg/JzUqK6JsAdGFKshI6+B//BOOzMubY6c6pSEu231a2m+VD4UvETtarw5sxDw==;YdnorDxyuP9YeifLpfOSyg=="
+images:
+  - url: "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo.jpg"
+    width: 620
+    height: 254
+    isCached: true
+
+secured: "wq5JoxAkGsUruMKaB0aTfiH4Ksw09GvAfXs6mup0kJyYgKkwyEnxpkspwN28xsPrMSOxpcONNzDswLWvvT0GZa4tBRq8bpIOe3b08sEQBYbxuYAUhi9w7xGbQ0kLj+xVWqDOP/dnExgOzgmrOSQmNL4vfPwgcvMPJ5sMI30EqtqIVIcRNrP4dzBxtMV70NPCsNz7dUoayt3TRQFSqsCL2YfjBhNEgsldVjkuzWusU9jxc17BY4+GzqZHPDU093Ms6R4YzSjMzIYGlVjsUYtEYJxaR6rDpw/5gOWvp+cfqB/7tWP+3jwAzY10V9e0jqSEponEtBYq6Jl9gutz9IqbFw==;q3uSp5guQNiZRC7KB5WBUQ=="
 ---
 

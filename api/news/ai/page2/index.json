@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-20-ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.md",
+      "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
+      "excerpt": "Ann Syrdal, a psychologist and computer science researcher who helped develop synthetic voices that sounded like women, laying the groundwork for such modern digital assistants as Apple’s Siri and Amazon’s Alexa,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/20/obituaries/Syrdal1/Syrdal1-facebookJumbo.jpg",
+          "width": 952,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.amp.html",
+      "publishedDateTime": "2020-08-20T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-unlocking-the-financial-potential-of-millions-with-machine-learning.md",
       "title": "Unlocking the financial potential of millions with machine learning",
       "excerpt": "To date, Tala’s innovative machine learning solution has found, scored, and offered more than 5 million customers $2.5 billion in loans.",
@@ -1098,7 +1148,7 @@
       "title": "AWS reveals first quantum computing partners",
       "excerpt": "Amazon Web Services (AWS) has announced that it will allow all existing customers to access quantum computers through its cloud service. The quantum computers are early-stage models provided by three technology companies—D-Wave Systems Inc.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/aws-reveals-first-quantum-computing-partners",
+      "webUrl": "https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 89,
@@ -1114,8 +1164,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/aws-reveals-first-quantum-computing-partners",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/aws-reveals-first-quantum-computing-partners",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners",
       "publishedDateTime": "2020-08-20T01:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1243,7 +1293,7 @@
       "webUrl": "https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1375,56 +1425,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car.md",
-      "title": "Xilinx’s programmable AI chip powers safety sensors in Subaru car",
-      "excerpt": "Xilinx said that its programmable AI chip has been used in the EyeSight safety system in the new Subaru Levorg vehicle.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/xilinx-subaru-automoative-pr-mediakit-1120x560-1.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/amp/",
-      "publishedDateTime": "2020-08-19T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

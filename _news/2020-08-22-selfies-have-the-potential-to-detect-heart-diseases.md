@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence can help detect heart disease based on facial photos"
+    excerpt: "Sending a \"selfie\" to the doctor could be a cheap and simple way of detecting heart disease, according to the authors of a new study published today (Friday) in the European Heart Journal ."
+    publishedDateTime: 2020-08-23T04:57:00Z
+    webUrl: "https://www.news-medical.net/news/20200821/Artificial-intelligence-can-help-detect-heart-disease-based-on-facial-photos.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200821/Artificial-intelligence-can-help-detect-heart-disease-based-on-facial-photos.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200821/Artificial-intelligence-can-help-detect-heart-disease-based-on-facial-photos.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 54
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fHeart_Disease-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Selfies could be used to detect heart disease: New research uses artificial intelligence to analyse"
     excerpt: "Sending a \"selfie\" to the doctor could be a cheap and simple way of detecting heart disease, according to the authors of a new study published today (Friday) in the European Heart Journal."
     publishedDateTime: 2020-08-21T13:35:00Z

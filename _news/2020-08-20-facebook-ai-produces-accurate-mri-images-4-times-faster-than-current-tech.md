@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/?amp=true"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook and NYU use artificial intelligence to make MRI scans four times faster"
-    excerpt: "The reason artificial intelligence can be used to produce the same scans from less data is that the neural network has essentially learned an abstract idea of what a medical scan looks like by examining the training data. It then uses this to make a ..."
-    publishedDateTime: 2020-08-18T13:01:00Z
-    webUrl: "https://www.theverge.com/2020/8/18/21373335/faster-mri-scans-ai-machine-learning-facebook-nyu-research-clinical-study"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/18/21373335/faster-mri-scans-ai-machine-learning-facebook-nyu-research-clinical-study"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/18/21373335/faster-mri-scans-ai-machine-learning-facebook-nyu-research-clinical-study"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 86
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/CFvrv0zRuSDBkcG0cPzvYDqVkiw=/0x0:4254x2837/1400x933/filters:focal(1787x1079:2467x1759):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67219498/1014361038.jpg.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Facebook announces fastMRI—an AI enhancement for MRI machines"
     excerpt: "Facebook has announced on its blog that its AI research team has been working with radiologists at NYU Langone Health to create an AI system that can speed up MRI machines. A paper written by the team describing the new technology is to be published in the American Journal of Roentgenology."
     publishedDateTime: 2020-08-19T13:38:00Z

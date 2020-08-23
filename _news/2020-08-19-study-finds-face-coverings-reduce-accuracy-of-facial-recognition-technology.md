@@ -24,29 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "Let's ID the Privacy and Accuracy Issues Raised by Facial Recognition"
-    excerpt: "PRO's Rob Thompkins covers privacy issues around facial recognition technologies The tremendous benefits of facial recognition technology for law enforcement identification applications have brought with them unparalleled challenges."
-    publishedDateTime: 2020-08-20T05:11:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition"
+  - title: "Face masks give facial recognition software an identity crisis"
+    excerpt: "As tech firms scramble to keep up with reality of coronavirus, some experts say users must change"
+    publishedDateTime: 2020-08-21T15:56:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis?CMP=fb_a-technology_b-gdntech"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
     type: article
     provider:
-      name: Officer
-      domain: officer.com
-    quality: 54
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2020/07/16x9/GettyImages_1139860049_copy.5f1f2e6319195.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 674
+      - url: "https://i.guim.co.uk/img/media/524ed0cbf81e6b545d012ff3f8f87d2543595878/337_455_4041_2425/master/4041.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a594db2b31375d731e5f75d01207d70b"
+        width: 600
+        height: 360
         isCached: true
-  - title: "US court gives preliminary approval to Facebook's request to settle facial recognition privacy lawsuit for USD 650 mln"
-    excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."
-    publishedDateTime: 2020-08-20T08:41:00Z
-    webUrl: "https://www.telecompaper.com/news/us-court-gives-preliminary-approval-to-facebooks-request-to-settle-facial-recognition-privacy-lawsuit-for-usd-650-mln--1350957"
+  - title: "NYC to ‘Reassess’ Police Facial Recognition Software After Raid on BLM Activist"
+    excerpt: "Ingram echoed the same sentiment as he spoke to the Gothamist following the police siege, saying, “We’re being specifically targeted with this [facial recognition] technology because of what ..."
+    publishedDateTime: 2020-08-18T15:11:00Z
+    webUrl: "https://thecrimereport.org/2020/08/18/nyc-to-reassess-police-facial-recognition-software-after-raid-on-blm-activist/"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 0
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 50
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/08/Screen-Shot-2020-08-18-at-10.49.37-AM-1170x803.png"
+        width: 1170
+        height: 803
+        isCached: true
 
 secured: "Ex81x3myZLrKO+bt4DC23B9sthZhcWStmWkju2VWwUSbM/MkUoyWRVkavshVdV6Y54obKCZ6gbr2rfdJIoEyqn+in+aFzf6OGTm7OWcpzl4UWKmU4u8jyKnlqHEzmBwyekDjVvVNVStCsSGhlcxcGYpxJie8eMlkwrJvD6ZNvc5JcYN/r5LU6Tkfl3dRJQQ+cPH2C/zFc+zodz3TmlPg8si4WqABcNXOPZEOp8VAg7mCxP/w6MTwX2RKGpLUbYA7iiZSKjJpoOlHjM9GgayKSwunAtdtn+Mz4gG5mFMWhg1lpm7V7OTXPgDKPqXARRUPZtQcDamA+ImOit8p7rydrg==;XfPAxXbcsMAn3R4fq3ZNwg=="
 ---

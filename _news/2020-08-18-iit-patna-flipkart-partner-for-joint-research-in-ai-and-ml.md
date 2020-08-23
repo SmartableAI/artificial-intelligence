@@ -1,81 +1,27 @@
 ---
 category: news
 title: "IIT Patna, Flipkart partner for joint research in AI and ML"
-excerpt: "The e-commerce platform expects to foster an environment of collaboration in the areas of automation, AI ... languages, according to the Institute. \"And at the same time will ensure that the ..."
-publishedDateTime: 2020-08-18T09:31:00Z
-webUrl: "https://www.sify.com/finance/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-news-topnews-uisjkCadhbdbb.html"
-ampWebUrl: "https://www.sify.com/finance/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-news-topnews-uisjkCadhbdbb.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-news-topnews-uisjkCadhbdbb.html"
+excerpt: "The e-commerce platform expects to foster an environment of collaboration in the areas of automation, AI, NLP and ML ... the Indian vernacular languages, according to the Institute. \"And at the same time will ensure that the translation process should ..."
+publishedDateTime: 2020-08-18T09:05:00Z
+webUrl: "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873"
+ampWebUrl: "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873"
+cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Flipkart signs pact with IIT-Patna for joint research in AI, ML"
-    excerpt: "Walmart-owned Flipkart on Tuesday said it has inked an agreement with IIT-Patna to help create industry-focused applied research in the areas of artificial intelligence (AI ... languages. “At the same time, (it) will ensure that the translation process ..."
-    publishedDateTime: 2020-08-18T14:46:00Z
-    webUrl: "https://www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/"
-    ampWebUrl: "https://www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://images.financialexpress.com/2020/08/1-494.jpg"
-        width: 660
-        height: 440
-        isCached: true
-  - title: "Flipkart enters into academic collaboration with IIT Patna"
-    excerpt: "The MoU of Flipkart with IIT Patna will focus on applied research in the areas of Artificial Intelligence (AI), Natural Language ... largely on machine translation of languages."
-    publishedDateTime: 2020-08-18T10:15:00Z
-    webUrl: "https://yourstory.com/2020/08/flipkart-academic-collaboration-iit-patna-machine-learning-translation"
-    ampWebUrl: "https://yourstory.com/2020/08/flipkart-academic-collaboration-iit-patna-machine-learning-translation/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/flipkart-academic-collaboration-iit-patna-machine-learning-translation/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
-    images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/flipkart-data-1597743133342.png?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "IIT Patna Associates with Flipkart for Joint Research in AI, NLP & ML"
-    excerpt: "World’s most renowned e-Commerce major Flipkart announced an MoU with IIT Patna to help create industry focused applied research in the areas of Artificial Intelligence (AI), Natural Language Processing ... robust machine translation techniques for ..."
-    publishedDateTime: 2020-08-18T10:26:00Z
-    webUrl: "https://www.siliconindia.com/news/business/IIT-Patna-Associates-with-Flipkart-for-Joint-Research-in-AI-NLP--ML-nid-213687-cid-3.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/Lc4CPGi9.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "IIT Patna, Flipkart partner for joint research in AI and ML"
-    excerpt: "The e-commerce platform expects to foster an environment of collaboration in the areas of automation, AI, NLP and ML ... the Indian vernacular languages, according to the Institute. \"And at the same time will ensure that the translation process should ..."
-    publishedDateTime: 2020-08-19T00:14:00Z
-    webUrl: "https://www.sify.com/news/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-news-education-uisjlKhbggehb.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
+images:
+  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_776851092.jpg"
+    width: 900
+    height: 600
+    isCached: true
 
-secured: "/fvQwlCBuwEYs9lyHhJOLsLew/91fIGs5XHLpvlLTHvWIsqMc3ejCMgUYZ/yWuhNN2ztq8XJ+KA1/LYuoDXosCz5gOQJCWTNPNnB+3qOXY0ErXW5VtBY6cqcVweux5P+d1vN5RLy/G7TEOeZPF5yh2WQPbdym5v8LxcepFSAhynD66VbnicsKPq2YqFRhVJOryEuhNKN1r7p98/0N7Y0VLLX7HdN2rQK0/YFHUFJ/gJu5g6oS0XOQkK2P0GHI6b/MKQlQKdv4EcbPjY6YxI7tMAt99m7Occ5PO6433fsU83PqFp0bYe7VdEkBQB2tydoRqAxgxjH+GHyO1/5uAaCYg==;ZHXEpNFeyC85Uq0w+YPspg=="
+secured: "jX2GVCKFGOgNBaORmH4G3pfWSBykVU15IoNFU++9sCieiiJw8wF3iYkVeX/ZG/mnoAXiwbSVHppzCuxyOt2CncsLJB8bhHHyhvV9M7zupiUw9aZw7fPbp/d+4LbXuqhhkLLzeJZFd+YZpmURimTC3DCtoX0qpyAylMXRqPFbk4qqxbOCOr2/+evSCaZbTr228HmNaQkIVZr+iiHs33Gn4dYYHaqKHezle8HIe8c9lWUYXJmVezgyjP25CAiDPoCZsoNGzHaBjG3k/rSPWFNyRSmFpSZvrnzE26IJ4Rh5wucFq8xiLvnrfHFMKyQtMGlRPLQAQOzJ+543Ax85B62FbA==;S1mdZcSlNxs5kpXkVR9uRQ=="
 ---
 
