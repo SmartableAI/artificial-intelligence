@@ -7,7 +7,7 @@ price: $11.99
 ratings:
   count: 47
   average: 4.2
-heat: 110
+heat: 50
 
 provider:
   name: Amazon
