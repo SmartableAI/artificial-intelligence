@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "7bcLlh7JYFBUveTeuwigRJ32AOLS6ErXhxzmQ98CgSCtyOkXwGfusT2nTPHI+3qYtAXYeXR35AYXlCJhS0gm1P7hvlaFxN/a+xfTUvsfAiZOtpibmnDxN9WIt9LbzAsCG/1k1pbsdG9cbgmp8oqR83I4qhoEmzy6ofmD7IlsN9hooTWjU/cpP1PtxGbZJkCmACgTIediAkzoNcKVT2A++lxsgY8BMvhk3TarSDdiDllb0a4PXa4rYLnzMTWeKFsGZ2bOnZ2th16tHv41JbwTckusLqRUQqwZ2mbkEbT0tZhw1vPeZHUaSfV2XgOZgXFIGcTFJGpQG0JsM90/Tw72mA==;UyUoRUmW4gVsVCT+GVP4/Q=="
+secured: "UgVlOWOfEXSkzCmW9Zf1INNn74vEKX5X/ZOPRKYfrHDucEWSHU4AvHvbGi/uponGD8vxIA8iBa8XMvYk88M7Ym+KD58inzqNB3N1LqZwpD/Y4RMmIT0ZyZDePvJsHau9QfNVmCZuVNEZ2sVyZcwi6dwKtCvm+MalScMeftdaCyjqxi684S0Ky//8cqeh+TMl8VeIuQjTs4g1SIsmNAnbZr4zmpWGNlP60n6+aeECjI2/Q8GbW12RFgMWJd/1rwZYGDtvfTEy0mCS4hMIJORNQvTzwKRBsTRs6wtKeFU1tNeUO0SD13meSPrUi6ojGWtSDRHZuBhKVxmQC7dZ33mCrE8m6RdzRrd+6+Rpt8601qWrnwEkNiLZm8DrnLkZWy12myrSK/BG8uafLakdf7HN1nrfbeNMCQDuxHMNg0RoIxPay96B5X32VW5Q7S6t4sH9p6HFrznybj8AtlnoTQ3vLGbjQ37xopXY+jwPGvTj9ZYE/PH/3aolRPl9ozf8TNoPPKFLHcHvo+lbTWK62g0DJQ==;efM4tvYgbI4FifLhrJx+oQ=="
 ---
 

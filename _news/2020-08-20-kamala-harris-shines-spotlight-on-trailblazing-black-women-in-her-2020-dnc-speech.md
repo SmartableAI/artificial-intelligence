@@ -8,7 +8,7 @@ ampWebUrl: "https://www.goodmorningamerica.com/amp/culture/story/kamala-harris-s
 cdnAmpWebUrl: "https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
 type: article
 quality: 54
-heat: 95
+heat: 94
 published: true
 
 provider:

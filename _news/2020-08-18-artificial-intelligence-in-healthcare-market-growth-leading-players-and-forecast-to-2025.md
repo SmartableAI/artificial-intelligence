@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-18T07:33:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Forecast and Trends Analysis Research Report 2020-2027"
-    excerpt: "The rising venture capital investments and the vast availability of big data at the global level are the significant factors contributing to the growth of artificial intelligence in manufacturing market size. Various artificial intelligence technologies ..."
-    publishedDateTime: 2020-08-18T06:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-forecast-and-trends-analysis-research-report-2020-2027-2020-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

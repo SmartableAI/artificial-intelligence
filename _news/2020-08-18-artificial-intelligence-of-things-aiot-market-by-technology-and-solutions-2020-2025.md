@@ -93,20 +93,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Forecast and Trends Analysis Research Report 2020-2027"
-    excerpt: "The rising venture capital investments and the vast availability of big data at the global level are the significant factors contributing to the growth of artificial intelligence in manufacturing market size. Various artificial intelligence technologies ..."
-    publishedDateTime: 2020-08-18T06:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-forecast-and-trends-analysis-research-report-2020-2027-2020-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence in Medicine Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
     excerpt: "Summary A New Market Study, titled \"Artificial Intelligence in Medicine Market Upcoming Trends, Growth Drivers"
     publishedDateTime: 2020-08-19T08:23:00Z

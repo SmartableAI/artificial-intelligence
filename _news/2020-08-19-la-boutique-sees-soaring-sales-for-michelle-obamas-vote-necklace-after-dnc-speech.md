@@ -90,22 +90,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Michelle Obama’s 2020 Democratic convention speech: Transcript"
-    excerpt: "Below, transcript provided by the Democratic National Committee of former first lady Michelle Obama’s 2020 Democratic convention speech ... else’s shoes; the recognition that someone else ..."
-    publishedDateTime: 2020-08-18T06:17:00Z
-    webUrl: "https://chicago.suntimes.com/2020/8/17/21373168/former-first-lady-michelle-obama-2020-democratic-national-convention-speech-transcript"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/8/17/21373168/former-first-lady-michelle-obama-2020-democratic-national-convention-speech-transcript"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/8/17/21373168/former-first-lady-michelle-obama-2020-democratic-national-convention-speech-transcript"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 44
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/Vk3_UotvmeNANh-WmVxi6W73LYQ=/0x0:1440x900/1400x1050/filters:focal(605x335:835x565):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67218246/Screen_Shot_2020_08_17_at_10.56.37_PM.0.png"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "Read: Michelle Obama’s full speech from the 2020 Democratic National Convention"
     excerpt: "Former first lady Michelle Obama delivered a straight-forward, taped speech at the Democratic National Convention ... The ability to walk in someone else's shoes; the recognition that someone else's experience has value, too. Most of us practice this ..."
     publishedDateTime: 2020-08-18T15:48:00Z
@@ -153,22 +137,6 @@ related:
       - url: "https://media.kgw.com/assets/WZZM/images/cb702bd3-9cd1-4250-9d43-bdafa49dee47/cb702bd3-9cd1-4250-9d43-bdafa49dee47_750x422.jpg"
         width: 750
         height: 422
-        isCached: true
-  - title: "Michelle Obama Delivers Epic Speech At Democratic National Convention / Slams Donald Trump"
-    excerpt: "The Former First Lady delivered a resonating speech at the 2020 Democratic National ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value ..."
-    publishedDateTime: 2020-08-18T06:19:00Z
-    webUrl: "https://thatgrapejuice.net/culture/2020/08/michelle-obama-convention-speech/"
-    ampWebUrl: "https://thatgrapejuice.net/culture/2020/08/michelle-obama-convention-speech/?amp"
-    cdnAmpWebUrl: "https://thatgrapejuice-net.cdn.ampproject.org/c/s/thatgrapejuice.net/culture/2020/08/michelle-obama-convention-speech/?amp"
-    type: article
-    provider:
-      name: That Grape Juice
-      domain: thatgrapejuice.net
-    quality: 34
-    images:
-      - url: "https://thatgrapejuice.net/wp-content/uploads/2020/08/michelle-obama-dnc-speech-thatgrapejuice.jpg"
-        width: 708
-        height: 405
         isCached: true
   - title: "‘VOTE’ necklace by L.A.-based jeweler tops Google search during Michelle Obama’s DNC speech"
     excerpt: "The opportunity to have Obama select a piece from a less well-known fashion line often means instant global recognition for the designer. Many iconic looks worn by Obama sell out, sometimes within ..."

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "IIT Patna, Flipkart partner for joint research in AI and ML"
-excerpt: "The e-commerce platform expects to foster an environment of collaboration in the areas of automation, AI, NLP and ML ... the Indian vernacular languages, according to the Institute. \"And at the same time will ensure that the translation process should ..."
-publishedDateTime: 2020-08-18T09:05:00Z
-webUrl: "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873"
-ampWebUrl: "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873"
-cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873"
+excerpt: "The e-commerce platform expects to foster an environment of collaboration in the areas of automation, AI ... languages, according to the Institute. \"And at the same time will ensure that the ..."
+publishedDateTime: 2020-08-18T09:31:00Z
+webUrl: "https://www.sify.com/finance/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-news-topnews-uisjkCadhbdbb.html"
+ampWebUrl: "https://www.sify.com/finance/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-news-topnews-uisjkCadhbdbb.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-news-topnews-uisjkCadhbdbb.html"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Tribune
-  domain: tribuneindia.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_776851092.jpg"
-    width: 900
-    height: 600
-    isCached: true
 
 related:
   - title: "Flipkart signs pact with IIT-Patna for joint research in AI, ML"
@@ -98,6 +92,6 @@ related:
       domain: sify.com
     quality: 19
 
-secured: "iopBdtRWQzYIZpx39maNmo0ajcMFag3LfKmntgyFNkvfx5IP7nDE3bMEF/T0c3fCc+FxhN7pssqBMqHcR+ZjcWx5TnemnCKVmdFrwXOAl3mvF2HQFtEBzbcEUoaiBWBxKQEOIYhJLNg28I/I1sItZg7iME1pOpoL3MeDMMnqeeJKv2yir/yr/7U+mpbeuW8CC67AocnEbmwjTHa/8T+LKJIeWAH01vRS8Vax+An465lAoppAdjKGMIKbMKfyZPY2q4DhISQa+eYBU7/dj39ZxI0Dsmw8bXI1xU4g6LrlLCRLW9P/LMaI3GCFrao9pkmvzQgWyNUwvwYSHD0ZGEEYmg==;CbqNwdbczDH1slNy1oER1g=="
+secured: "/fvQwlCBuwEYs9lyHhJOLsLew/91fIGs5XHLpvlLTHvWIsqMc3ejCMgUYZ/yWuhNN2ztq8XJ+KA1/LYuoDXosCz5gOQJCWTNPNnB+3qOXY0ErXW5VtBY6cqcVweux5P+d1vN5RLy/G7TEOeZPF5yh2WQPbdym5v8LxcepFSAhynD66VbnicsKPq2YqFRhVJOryEuhNKN1r7p98/0N7Y0VLLX7HdN2rQK0/YFHUFJ/gJu5g6oS0XOQkK2P0GHI6b/MKQlQKdv4EcbPjY6YxI7tMAt99m7Occ5PO6433fsU83PqFp0bYe7VdEkBQB2tydoRqAxgxjH+GHyO1/5uAaCYg==;ZHXEpNFeyC85Uq0w+YPspg=="
 ---
 

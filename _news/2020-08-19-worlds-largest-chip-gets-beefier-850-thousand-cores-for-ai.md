@@ -3,9 +3,9 @@ category: news
 title: "World’s largest chip gets beefier: 850 thousand cores for AI"
 excerpt: "Announed at the Hot Chips 2020 conference, the new chip — which is as large as a single 300-mm wafer — packs over two times more transistors as well as a whopping number of AI-optimized cores. The Cerebras Wafer Scale Engine Generation 2 has a die size of approximately 46,"
 publishedDateTime: 2020-08-19T19:30:00Z
-webUrl: "https://www.techradar.com/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
-ampWebUrl: "https://www.techradar.com/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
+webUrl: "https://www.techradar.com/au/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
+ampWebUrl: "https://www.techradar.com/au/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
 type: article
 quality: 104
 heat: 114
@@ -47,6 +47,6 @@ related:
         height: 349
         isCached: true
 
-secured: "qyBaelIbHD3LS6F8xu6Jbo3NkRvicRHxaKBUs3GduQQ6+YPYONqcSuStBDWLeMlmzl1gI8NaX19gZyOKzd8rCpBP4yTr4o47EuBozjXmDjKVq2KVkRd45o8Hg7L4cy+6XHxkoT3kksw3wkU7DEzwfXTcUwmSPPQhTNbL8Z6a7Uowu+nXtxtqtk5wQbIE06t6UqCxGvRow39J0HUzuUU0vbuzyAlBbVfjoyJet+GyHvialY1rFclJCvxJF7iFx9M6idiTtZorpwYJtTrgFaKgjnD2dAmL2um5zSco8lGLCQoVBt3Kr6sHJ+RJNrvAtau0ebP/lIjMoRG/F+SHoM9Lng==;fZ0VuQGKSjGE1G7IpsXMvA=="
+secured: "5m4u/FfJSIfI0dn3se9Gu3cjNjNIXH6MTqea+d+MRpZRFgCx1+laxdtIZJ7T90Z+iMapmBJmjo98atQOVshPdnS9o+WzhV7vT+grB6TRmaOy6q6v7PnOgUK7zc4regdJaF6mmmcKxubbYJ+1wvbdJmJP8SC+GItduraf7gBzcK+IjMZ0dV+52qqGk23TcWbPoD7BK61Ok16ik8oLSfrT1whyXRw50Tb88hA/yL7SLMrZGf1vp9OHGauoSqMH4AhT5LseQ4eqDHi5al/ZA62qf1m3NZODEnZIZS+uJvkO9eG168rndhwzqQsbeLyAAFafc0jOJHqCxJiVRp7ilALdtQ==;HCZgWZlDo2UM38iWZSECuQ=="
 ---
 
