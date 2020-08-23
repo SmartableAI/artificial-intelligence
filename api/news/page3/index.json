@@ -2,6 +2,88 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-20-self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open.md",
+      "title": "Self-Driving Cars To Transport Golfers And Caddies At The Wales Open",
+      "excerpt": "One of the first deployments of autonomous vehicles at a major sporting event will transport players from clubhouse to tee",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3e635ba94645e96df9ef85%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/amp/",
+      "publishedDateTime": "2020-08-20T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-allscripts-collaboration-to-advance-healthcare-innovation.md",
+      "title": "Allscripts' Collaboration to Advance Healthcare Innovation",
+      "excerpt": "ARC Innovation brings in new technologies into the hospital and community healthcare ecosystem to further enhance patient care. Moreover, it aids data fluidity and integration between innovators, scientists,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/allscripts-collaboration-to-advance-healthcare-innovation-2020-08-20",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/allscripts-collaboration-to-advance-healthcare-innovation-2020-08-20?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/allscripts-collaboration-to-advance-healthcare-innovation-2020-08-20?amp",
+      "publishedDateTime": "2020-08-20T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-ev-builder-nio-hopes-to-enter-europe-in-2021.md",
       "title": "EV builder Nio hopes to enter Europe in 2021",
       "excerpt": "Chinese electric vehicle maker Nio hopes to enter international markets from the second half of next year starting with selected European countries, CEO William Li said. Li said the company aimed to enter other markets from 2022.",
@@ -566,56 +648,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-20-facebook-ai-produces-accurate-mri-images-4-times-faster-than-current-tech.md",
-      "title": "Facebook AI produces accurate MRI images 4 times faster than current tech",
-      "excerpt": "A newly published study has validated the efficacy of a novel AI algorithm designed to deliver accurate MRI results from four times less data than usually necessary. This impressive innovation promises to dramatically speed up MRI scans without needing to upgrade pre-existing imaging hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/f12774f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb4%2Fad%2F3947852d441a973d02e8759be072%2Fdepositphotos-10642890-l-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/?amp=true",
-      "publishedDateTime": "2020-08-19T18:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-19-are-driverless-cars-coming-to-british-roads.md",
       "title": "Are driverless cars coming to British roads?",
       "excerpt": "Are driverless cars coming to British roads? The news that motorists might be allowed to take their hands off the steering wheel for the first time was portrayed as a \"big step\" in that direction. The truth,",
@@ -1101,57 +1133,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-facebook-gamifies-data-collection-to-boost-conversational-ai.md",
-      "title": "Facebook gamifies data collection to boost conversational AI",
-      "excerpt": "In a preprint paper, Facebook researchers propose a gamified approach to collecting data to train conversational AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/d888b4d3-7da0-4bf8-bd75-2d6bff223d84-e1574450154479.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/amp/",
-      "publishedDateTime": "2020-08-19T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Natural Language Processing"
       ]
     }
   ],

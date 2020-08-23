@@ -119,20 +119,6 @@ related:
         width: 300
         height: 204
         isCached: true
-  - title: "How Self-Driving Systems are Ushering in a New Era of Transportation"
-    excerpt: "Self-driving vehicles like robo-taxis are one way that people will be able to get around while also social distancing. AVs and other self-driving applications have already proven helpful in the fight against the virus in China by transporting essential ..."
-    publishedDateTime: 2020-08-18T13:45:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21139392/how-selfdriving-systems-are-ushering-in-a-new-era-of-transportation"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 24
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/08/Q_A_promo___recrop.5f3bd8d655db4.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "a+mNPIwNUV86Cai2wYrOGI259km94JpyVemnWy0ZbA5jTcqd4U85LUYcdAr+nk/xLdfdLg3PiVe4Y1wLLavcVEqOW0YyTFImte+Y5mz3yI6tffjMM+Qp3/tAl9KirUbvXqsQaCNjC4PeI79ypLVegehUlTx65j4Lyh55Z0WgUQDiR0KDs/V5GL4fcN0jpKvNPVGs2YmGZcPZ3Hr448f7ZnKQtYpNaiRfPiRLZu4f4dKHfclaCOqOV/s/qSCOFDwdMx7WLPLySCYDZAQF/j7/YRZW2IbMp2BgatVpxl4AKdeH2kiqRRfuQjtAFjG1prhpRuidSzE4pEcrkMCSOHhlksUD0+71zo6cW2GPbWhOVRPv60BZoWWxY8Wtp2vBvOwEof/FUqJJn6kbPigRee3S6M4WiLLphNzz8uhB11g8Q76jdbXlkXJYo7CkrfoC/tQ82/SniATr6sJEaeEXlY3RXwNrzsqMnyLS5XIeuzSsvi26iPD82coT081tmHWSZuMavIwvuO/WttSdspcpPCFEmg==;+23+jm1AxaJ7Rli54rKKeA=="
 ---

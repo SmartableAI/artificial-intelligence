@@ -23,21 +23,21 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI"
-    excerpt: "Researchers at Facebook Inc. and NYU Langone Health said Tuesday that a two-year experiment demonstrates how artificial intelligence can produce a ... at NYU Langone Health and a co-author of the research. “Our goal is a five-minute MRI."
-    publishedDateTime: 2020-08-18T13:06:00Z
-    webUrl: "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
+  - title: "Facebook, NYU use AI to speed up knee MRI scanning process"
+    excerpt: "The study found fastMRI’s AI-generated images were created with about 25% data from scanning machines, and they can be replaced with traditional MRI scans for diagnosis."
+    publishedDateTime: 2020-08-21T11:27:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-speed-up-knee-mri-scanning-process/article32413373.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-speed-up-knee-mri-scanning-process/article32413373.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-speed-up-knee-mri-scanning-process/article32413373.ece/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
     images:
-      - url: "https://images.wsj.net/im-221966/social"
-        width: 960
-        height: 640
+      - url: "https://www.thehindu.com/sci-tech/technology/2fzjbt/article32413244.ece/ALTERNATES/LANDSCAPE_615/Facebook-NYU-MRI"
+        width: 615
+        height: 384
         isCached: true
   - title: "Facebook AI researchers give MRI scanners a machine learning boost"
     excerpt: "The AI then compared its reconstructed images with the original full-resolution knee scans to hone its accuracy. Facebook’s researchers experimented with several thousand model variations before ..."
@@ -53,34 +53,26 @@ related:
         width: 718
         height: 404
         isCached: true
-  - title: "Facebook AI creates MRI images four times faster than normal"
-    excerpt: "Facebook AI researchers worked with doctors and medical imaging experts at NYU Langone Health to solve this problem and advance AI research at the same time. 'We are using AI to create complete images from far less raw data,' Facebook said. 'Since ..."
-    publishedDateTime: 2020-08-18T13:18:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8639049/Facebook-AI-creates-MRI-images-four-times-faster-normal.html"
+  - title: "AI can speed up MRI scans, shows Facebook study"
+    excerpt: "The fastMRI research team removed roughly three ... AI model did not just look like generic MRIs; the AI-generated images matched the ground truth image created by the standard slow MRI process, Facebook said. The study showed that fastMRI can generate ..."
+    publishedDateTime: 2020-08-19T00:14:00Z
+    webUrl: "https://www.sify.com/news/ai-can-speed-up-mri-scans-shows-facebook-study-news-education-uisq5Pdcgejcg.html"
+    ampWebUrl: "https://www.sify.com/news/ai-can-speed-up-mri-scans-shows-facebook-study-news-education-uisq5Pdcgejcg.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/ai-can-speed-up-mri-scans-shows-facebook-study-news-education-uisq5Pdcgejcg.html"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
+      name: Sify.com
+      domain: sify.com
     quality: 39
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/08/18/13/32088024-0-image-a-2_1597755396069.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "NYU Langone, Facebook set out to develop AI-powered 5-minute MRI scan"
-    excerpt: "Researchers at NYU Langone Health and Facebook's artificial intelligence division ... Health's radiology department and also a co-author of the research project. The combination of AI and MRI technology aims to construct images with less data rather ..."
-    publishedDateTime: 2020-08-18T15:50:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/nyu-langone-facebook-set-out-to-develop-ai-powered-5-minute-mri-scan.html"
+  - title: "AI can speed up MRI scans, shows Facebook study"
+    excerpt: "The fastMRI research team removed roughly three ... AI model did not just look like generic MRIs; the AI-generated images matched the ground truth image created by the standard slow MRI process, Facebook said. The study showed that fastMRI can generate ..."
+    publishedDateTime: 2020-08-18T16:37:00Z
+    webUrl: "https://www.sify.com/finance/ai-can-speed-up-mri-scans-shows-facebook-study-news-topnews-uisq5fdaacjcc.html"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
+      name: Sify.com
+      domain: sify.com
+    quality: 19
 
 secured: "0EZ3nrDszbht+ylO9yDLkPbGjXHzhzUJL2L3EKg9VWEsk/mN6mNf0oTKfr6zhDfC9JLFCLUqgwmO2QCUh3lzH2EN1TrkV06+FJUiE5/xS4ZXfh19cyj3UDxRaAv2olbCT+IZWY2Q+jsrn1rTYmoKaONM3D7IAyRvoIn2N2POmljtf93DFk3IRi6RLGokXR9/hefAFh18m/rIH/8WsGwKrGoJeZFumB7k40R2rbo+Axj8QcgSlH06YlELOAeHWXYuDDdaasYf6dbIupzu9PgF8Vg1NGYDP5GTQPmrAPumKoTPeVFmtYoXompTcdT1b4563i1w1RUZK3KynVPLsmTI8UdSnesKxGct+cDwdpH7pXNpxk5BEbrIvaNokRKCobRKvhUOd4sy8jET91b0F/hutxRK616fkiQBGd1nrqwBaItVwZxCaTCUEPZvXAh/t3qWCFXgmxlm7dU6tASw7weSodC6BLh2qIjwTzJvGljwzjGcxd/vF+r1o+/FyvzEco9VmwOY3sJPPIHrRGcYiDpODw==;WOHJB7wTDf+AdCLsvAhqVA=="
 ---

@@ -36,7 +36,7 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fHeart_Disease-620x480.jpg"
         width: 620

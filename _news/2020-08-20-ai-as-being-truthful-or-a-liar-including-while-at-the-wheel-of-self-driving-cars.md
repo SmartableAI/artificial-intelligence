@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truth
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
 type: article
 quality: 86
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -119,20 +119,6 @@ related:
       - url: "https://munley.com/wp-content/uploads/TuSimple_AFN_graphic-300x204.jpg"
         width: 300
         height: 204
-        isCached: true
-  - title: "How Self-Driving Systems are Ushering in a New Era of Transportation"
-    excerpt: "Self-driving vehicles like robo-taxis are one way that people will be able to get around while also social distancing. AVs and other self-driving applications have already proven helpful in the fight against the virus in China by transporting essential ..."
-    publishedDateTime: 2020-08-18T13:45:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21139392/how-selfdriving-systems-are-ushering-in-a-new-era-of-transportation"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 24
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/08/Q_A_promo___recrop.5f3bd8d655db4.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 676
         isCached: true
 
 secured: "IRqBBPMgkEXHS00CjCsof3yKyEweIfBISVjAm8t1ll7PhtJ02lQs+LA45d5FwskuYWl7DZKWHks9o3SJDaPOpgvQzAWAjNQMaJQsF6ps1LDSKBKp+bBvCrVEK2Hh9enW6m2Fn5Uy5qwPQ5dWqlEmrgJy0UpQksh9CVqxUp422h17NgwL06GtTjqVOX+owq+p2g2a8tcNAaeWFZc6QWS5q4TQHH9N38fllFcnqhKxMN1OBJyyUdWlkUwxFtNlT99ueXe3fvywd3aNLvfsgnGCejrw7xjLbU128IXV3GX1UaQKfSChFdIX2OJ+eKDMjxLsLIXOutaY5ttJGXvl8+s4+RopzmyojLn3LSCjN6jEitqlVnTBHUdk9LcqFvbInDWtRo619GX0Z3NPJYQCvMmqIRyBp91dmfYMELgierlcKIy1IcO/6FG2saLZDWi4HLsrOYeVT7UxmDkYnY7/t8QSPqnYKY+LvFqZaZoELCDNl29kW4lhk5izILGaDVtbE7lLhrkdi5rmYka6hYp9BN3oYw==;Vsi5qNIn+N+mE/ncMZA+8w=="

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/nancywang/2020/08/23/first-woman-director-at-mit-cs-ai-lab-want-more-women-in-stem-inspire-them-early/</loc>
+    <lastmod>2020-08-22T23:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.news-medical.net/news/20200821/Artificial-intelligence-can-help-detect-heart-disease-based-on-facial-photos.aspx</loc>
     <lastmod>2020-08-22T21:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -85,7 +91,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis?CMP=fb_a-technology_b-gdntech</loc>
+    <loc>https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis?CMP=Share_AndroidApp_Other</loc>
     <lastmod>2020-08-21T08:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -129,6 +135,12 @@
   <url>
     <loc>https://www.forbes.com/sites/angelicamarideoliveira/2020/08/21/brazil-notes-mobility-unicorn-99-reduces-sexual-harassment-with-ai/</loc>
     <lastmod>2020-08-21T05:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-speed-up-knee-mri-scanning-process/article32413373.ece</loc>
+    <lastmod>2020-08-21T04:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -373,12 +385,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/</loc>
-    <lastmod>2020-08-19T18:27:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://news.sky.com/story/are-driverless-cars-coming-to-british-roads-12052661</loc>
     <lastmod>2020-08-19T15:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -471,6 +477,12 @@
   <url>
     <loc>https://www.cnbc.com/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html</loc>
     <lastmod>2020-08-19T08:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.engadget.com/microsoft-doe-ai-disaster-response-first-five-142941175.html</loc>
+    <lastmod>2020-08-19T07:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -691,8 +703,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.engadget.com/facebook-ai-generates-mri-images-using-4x-less-data-010038608.html</loc>
+    <lastmod>2020-08-18T08:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.openpr.com/news/2115681/global-artificial-intelligence-in-medical-imaging-market</loc>
     <lastmod>2020-08-18T07:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
+    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -729,12 +753,6 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
-    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

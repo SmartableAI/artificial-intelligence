@@ -17,33 +17,76 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence in Medical Imaging Market"
-    excerpt: "The report, titled “Global Artificial Intelligence in Medical Imaging Market” defines and briefs readers about its products, applications, and specifications. The research lists key companies operating in the global market and also highlights the key ..."
-    publishedDateTime: 2020-08-18T14:47:00Z
-    webUrl: "https://www.openpr.com/news/2115681/global-artificial-intelligence-in-medical-imaging-market"
-    ampWebUrl: "https://www.openpr.com/amp/2115681/global-artificial-intelligence-in-medical-imaging-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2115681/global-artificial-intelligence-in-medical-imaging-market"
+  - title: "Speech and Voice Recognition Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
+    excerpt: "The Global Speech amp; Voice Recognition Market size was estimated to be US$ 7.8 billion in 2019. The Speech and"
+    publishedDateTime: 2020-08-19T13:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-08-19"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/T/8/T818478022_g.jpg"
-        width: 800
-        height: 588
-        isCached: true
-  - title: "Change Healthcare buys medical imaging platform Nucleus.io"
-    excerpt: "Nashville-based Change Healthcare Inc. has purchased medical imaging web platform Nucleus.io, according to a news release. Terms of the deal were not disclosed. Nucleus.io is a product of San Diego-based NucleusHealth and is used by more than 7,"
-    publishedDateTime: 2020-08-19T11:30:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2020/08/19/change-healthcare-buys-nucleusio.html"
-    ampWebUrl: "https://www.bizjournals.com/nashville/news/2020/08/19/change-healthcare-buys-nucleusio.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2020/08/19/change-healthcare-buys-nucleusio.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Natural Language Processing Market Latest Industry Trends, Future Growth, Market Share, Revenue, Size and 2026 Forecast Research Report"
+    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
+    publishedDateTime: 2020-08-20T15:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-market-latest-industry-trends-future-growth-market-share-revenue-size-and-2026-forecast-research-report-2020-08-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Coronavirus Disease (COVID-19): Speech and Voice Recognition Market- Epidemiology Analysis and Forecast - Aug 2020"
+    excerpt: "The Global Speech and Voice Recognition Market was valued at USD 5.21 billion in 2016 and is projected to reach USD 26.15 billion by 2025, growing at a CAGR of 19.63% from 2017 to 2025. Voice and Speech Recognition is the ability of a machine or program that can identify,"
+    publishedDateTime: 2020-08-20T23:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/coronavirus-disease-covid-19-speech-and-voice-recognition-market--epidemiology-analysis-and-forecast---aug-2020-2020-08-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Speech and Voice Recognition Market Size & Share by Sales Revenue, Demands, Growth Factors and Emerging Trends by 2026"
+    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
+    publishedDateTime: 2020-08-19T17:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2026-2020-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market : Research By Production, Revenue, Growth Rate, Sales Value, Industry Trends, Impact Factors, SWOT Analysis 2027"
+    excerpt: "Aug 19, 2020 (AmericaNewsHour) -- Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to grow with a growth rate of more than 17.20 % over the forecast period 2020-2027. Demand for Voice enabled ..."
+    publishedDateTime: 2020-08-19T23:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-research-by-production-revenue-growth-rate-sales-value-industry-trends-impact-factors-swot-analysis-2027-2020-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MJhTRLe0eY1Uuct6fTgtfQ+8G89ifKS98SG2fYDqjgT/UBd3gVEr1P7A4AtcAlvujtRvCL4BofSFDE97tmMU2Xfo2SbnMySSlJcE95Nu/c5kGpFOe74mqhv5YGzVs7fTLI3voBqyKd+bn3cYogmRhauZnqbDxgGzdNWmZb0fkPLDasSBl+Ss34u2yJfnmZzFBS9XsJo2IYQcVJSQVN9+InNcEt0NHGeWkSKRifXFWJTgCQaFVD47eLcHKg/T6IdYB7FxxsWACWyeVQu3ne0xiL/ikLJ62BolqtQljMlLpd6xpsNbHyiLLITKSEPlt2XPAtFVJ+wYbhUJUWQCS83Xmg==;DjQHUaJPCOq3ExGfROjNtA=="
 ---

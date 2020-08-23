@@ -7,8 +7,8 @@ webUrl: "https://www.news-medical.net/news/20200821/Artificial-intelligence-can-
 ampWebUrl: "https://www.news-medical.net/amp/news/20200821/Artificial-intelligence-can-help-detect-heart-disease-based-on-facial-photos.aspx"
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200821/Artificial-intelligence-can-help-detect-heart-disease-based-on-facial-photos.aspx"
 type: article
-quality: 54
-heat: 74
+quality: 56
+heat: 76
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fHeart_Disease-620x480.jpg"

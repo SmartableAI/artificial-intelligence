@@ -115,20 +115,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 51
-  - title: "How Self-Driving Systems are Ushering in a New Era of Transportation"
-    excerpt: "Self-driving vehicles like robo-taxis are one way that people will be able to get around while also social distancing. AVs and other self-driving applications have already proven helpful in the fight against the virus in China by transporting essential ..."
-    publishedDateTime: 2020-08-18T13:45:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21139392/how-selfdriving-systems-are-ushering-in-a-new-era-of-transportation"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 24
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/08/Q_A_promo___recrop.5f3bd8d655db4.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "+HopwwhuFkLEhIgR+zgp3KVndlFoqJOTej8RPYaYGe/GWDs/JZZbmEve1npgYuaH2ocu+n1qY/ljyi4LfkEZ+4BsV+ldoWpaTEqc9aBOq6hoLw6dAGS0MMSG7WW8qNtX5O2EO9Q0DpGOYOaHVR1X1TvYv0nNPW5Gyv8NFK9d/1bPxDuuiSk8VLCKHwxszC9YJasi9hjab/WyaauZ3knqFsWOBZcIbamRaKEEI4/d3rkfwUnXxu2NQ2zALkSzDEjuagu/2lAfThBCNmgfg8S6C3j4LMxLUf0/s5WTP4erAUdkjIokz4jilO0ItAef9ySsE1FQWsMjXesSEDAKzyuREYEhAkxQiNymKDuO5u6SqNk6m45yITBqR5+SXqJZHlJNaA6WqnpMiIeEfcmius3zgYsiuCOlSfuWWd+fa6opVve12Z8yWMbl4UbZavGLerpZNw9qhPIqJMud6fRaZePAY5LldLr7UlnXB0+/7adwiYZIPPNBv4PlSeB5vTtqq3L2YOuFCJyj6AzzI3LOySMnpQ==;ywOIv5T+gXd5SYRjThEyog=="
 ---

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Technology Market Size Report 2020 Global Industry Analysis by Trends, Revenue, Share, Revenue and Forecast to 2026"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Technology Market” research report offers the breakdown of the industry by market size, rate of development,"
-    publishedDateTime: 2020-08-18T13:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-report-2020-global-industry-analysis-by-trends-revenue-share-revenue-and-forecast-to-2026-2020-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Coronavirus Disease (COVID-19): Speech and Voice Recognition Market- Epidemiology Analysis and Forecast - Aug 2020"
     excerpt: "The Global Speech and Voice Recognition Market was valued at USD 5.21 billion in 2016 and is projected to reach USD 26.15 billion by 2025, growing at a CAGR of 19.63% from 2017 to 2025. Voice and Speech Recognition is the ability of a machine or program that can identify,"
     publishedDateTime: 2020-08-20T23:36:00Z
@@ -98,6 +84,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Education Market Global Industry Analysis Segments Top Key Players Drivers And Trends To 2029"
+    excerpt: "Trends In Artificial Intelligence in Education Market 2020. Straits Research announces the addition of its new research report titled, “Artificial Intelligence in Education Mark"
+    publishedDateTime: 2020-08-19T15:03:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/135039/artificial-intelligence-in-education-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "2BPTEm6cjgpjhSwJhPwxjiUb6CQRTV2xHeQ+AysnOILcyG9l/d5z6hvHkYNEE7T6lwje5BU2x7eVaBN8NCwHqoli6qpPc0IZyxJPw6H4t7sp0mg9CNcwgk7ACNueABGBDWioqQTBDdlLqFtfyMTPVF+1tzxdkjKOiSWjv97REvXFThI1BtE4Xo3xLPRXxRzuZ9FoEzBc0uCpQlGP4sprLdULTDH00pwLIusIa3IK0nmIRmIF30YMWeLjBKgL4aHEDT3JaF7uQp09rk0nmvdhkCdEA4RluMSmlF95CmqccyZV+QAoinwuHTD2GH2VmXYRuFKdRoQ50Jpk3W5E3zZ6XQ==;Fh/8VV7LdfdsgwL6MLbwzw=="
 ---

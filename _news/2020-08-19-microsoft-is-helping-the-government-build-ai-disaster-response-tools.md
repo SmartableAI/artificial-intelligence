@@ -8,8 +8,8 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-doe-ai-disaster-response-firs
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-doe-ai-disaster-response-first-five-142941175.html"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: Engadget
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft, Energy Dept. to Develop Disaster-Response AI Tools"
-    excerpt: "The Energy Department will spearhead the development and testing efforts. Microsoft will provide technological resources, including its Azure cloud for AI model training and inference. Other organizations, including public- and private-sector entities ..."
-    publishedDateTime: 2020-08-18T13:07:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-energy-dept-to-develop-disaster-response-ai-tools-11597755601"
-    ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-energy-dept-to-develop-disaster-response-ai-tools-11597755601"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-energy-dept-to-develop-disaster-response-ai-tools-11597755601"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 104
-    images:
-      - url: "https://images.wsj.net/im-222032/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Microsoft to provide AI response tools for disaster first responders"
     excerpt: "The US government will co-chair a consortium, which will use deep-learning algorithms for near real-time data to assist in the high-pressure decision making surrounding disasters."
     publishedDateTime: 2020-08-21T15:42:00Z

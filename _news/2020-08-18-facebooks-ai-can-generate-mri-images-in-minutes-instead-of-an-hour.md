@@ -8,8 +8,8 @@ ampWebUrl: "https://www.engadget.com/amp/facebook-ai-generates-mri-images-using-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-generates-mri-images-using-4x-less-data-010038608.html"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Engadget
@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook says AI can help you spend less time getting an MRI scan"
-    excerpt: "Facebook doesn't manufacture MRI machines, but the partnership with NYU is a way for the company to advance AI research. Artificial intelligence is playing a larger role in health care, including in robotic surgery, cancer risk predictions and medical ..."
-    publishedDateTime: 2020-08-18T13:04:00Z
-    webUrl: "https://www.cnet.com/health/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/"
+  - title: "Facebook AI produces accurate MRI images 4 times faster than current tech"
+    excerpt: "A newly published study has validated the efficacy of a novel AI algorithm designed to deliver accurate MRI results from four times less data than usually necessary. This impressive innovation promises to dramatically speed up MRI scans without needing to upgrade pre-existing imaging hardware."
+    publishedDateTime: 2020-08-20T01:27:00Z
+    webUrl: "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/"
+    ampWebUrl: "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/?amp=true"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 189
+      name: New Atlas
+      domain: newatlas.com
+    quality: 88
     images:
-      - url: "https://cnet3.cbsistatic.com/img/6NZnZZ0AB8dzy2ZkAVnZ4My50hc=/756x567/2020/08/17/730ef110-ecbe-451e-a232-5d8aac35ea34/gettyimages-1197376888.jpg"
-        width: 756
-        height: 567
+      - url: "https://assets.newatlas.com/dims4/default/f12774f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb4%2Fad%2F3947852d441a973d02e8759be072%2Fdepositphotos-10642890-l-2015.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Facebook And NYU Using AI Research To Make MRI Scans Faster, Simpler"
     excerpt: "The project, titled fastMRI, pairs the resources of Facebook’s artificial intelligence research (FAIR) team and radiologists at NYU’s Langone Health to create machines that can produce MRI results with less data. The two teams have reported teaching an ..."
@@ -62,42 +62,36 @@ related:
         width: 1200
         height: 814
         isCached: true
-  - title: "Facebook, NYU use AI to speed up knee MRI scanning process"
-    excerpt: "The study found fastMRI’s AI-generated images were created with about 25% data from scanning machines, and they can be replaced with traditional MRI scans for diagnosis."
-    publishedDateTime: 2020-08-21T11:27:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-speed-up-knee-mri-scanning-process/article32413373.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-speed-up-knee-mri-scanning-process/article32413373.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-speed-up-knee-mri-scanning-process/article32413373.ece/amp/"
+  - title: "NYU Langone, Facebook set out to develop AI-powered 5-minute MRI scan"
+    excerpt: "Researchers at NYU Langone Health and Facebook's artificial intelligence division ... Health's radiology department and also a co-author of the research project. The combination of AI and MRI technology aims to construct images with less data rather ..."
+    publishedDateTime: 2020-08-18T15:50:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/nyu-langone-facebook-set-out-to-develop-ai-powered-5-minute-mri-scan.html"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/2fzjbt/article32413244.ece/ALTERNATES/LANDSCAPE_615/Facebook-NYU-MRI"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "AI can speed up MRI scans, shows Facebook study"
-    excerpt: "The fastMRI research team removed roughly three ... AI model did not just look like generic MRIs; the AI-generated images matched the ground truth image created by the standard slow MRI process, Facebook said. The study showed that fastMRI can generate ..."
-    publishedDateTime: 2020-08-19T00:14:00Z
-    webUrl: "https://www.sify.com/news/ai-can-speed-up-mri-scans-shows-facebook-study-news-education-uisq5Pdcgejcg.html"
-    ampWebUrl: "https://www.sify.com/news/ai-can-speed-up-mri-scans-shows-facebook-study-news-education-uisq5Pdcgejcg.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/ai-can-speed-up-mri-scans-shows-facebook-study-news-education-uisq5Pdcgejcg.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 39
-  - title: "AI can speed up MRI scans, shows Facebook study"
-    excerpt: "The fastMRI research team removed roughly three ... AI model did not just look like generic MRIs; the AI-generated images matched the ground truth image created by the standard slow MRI process, Facebook said. The study showed that fastMRI can generate ..."
-    publishedDateTime: 2020-08-18T16:37:00Z
-    webUrl: "https://www.sify.com/finance/ai-can-speed-up-mri-scans-shows-facebook-study-news-topnews-uisq5fdaacjcc.html"
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Facebook’s AI Dubbed As FastMRI Generates Images In Just Minutes By Using a Quarter of Traditional Required Data"
+    excerpt: "MRI images (magnetic resonance imaging) can be generated in just a few minutes using Facebook's artificial intelligence (AI). In collaboration with NYU"
+    publishedDateTime: 2020-08-19T22:55:00Z
+    webUrl: "https://infosurhoy.com/science/facebooks-ai-dubbed-as-fastmri-generates-images-in-just-minutes-by-using-a-quarter-of-traditional-required-data/"
+    ampWebUrl: "https://infosurhoy.com/science/facebooks-ai-dubbed-as-fastmri-generates-images-in-just-minutes-by-using-a-quarter-of-traditional-required-data/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/science/facebooks-ai-dubbed-as-fastmri-generates-images-in-just-minutes-by-using-a-quarter-of-traditional-required-data/amp/"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 38
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/370311/mri-images-can-be-generated-using-facebooks-ai-requiring-only-a-quarter-of-the-traditional-mris.jpg?w=600?w=650"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "GTucw1AETqg08hfdcUjQK4hrh23M0t0HCT2gfp95HIkRPn4jiuYhUGxez9T0Luljp4dbKmkPLSpK3xpZGA3GQd4StYRbRwSUrOjr17EpSZlcLlk57cVpyFb+R409zBjCdkrFfZJpdnK/yNMDTGFx4MwtoXnMeieZ9riqMshmj27AXBUT0FHYdSWjxGRn2aLyH0xnXAE7MHQzEII6gNQFRkhJm4bbzjH4dfUM76wbAJhNDIOZNgMfYp+XkF+H5wC0swW2U72iQrhTxummkZDd57QSNTWzQCjLe+yOTcrB1xujV5ILLJVZOPLPIHNgEwbw5Dm/xeS/7BphQBl1pGOrMzS1sVMw63UeZ8XGpKNTHCVAgtNXF4h1sfnkhjPRYbmePnmYRudoHbuod/mXjLv7NRsCdCerq1ZmJpkvoHDOI51xSHFYB2la4nk+ZX+TLXri30OGumVuMjOBkok6LmKE0K4/hWIMROXgVCxgtRWEz7YgMYuGgpdbgtIb/m0Cgy9hofIslAnuXWbYIrd8lfxBRg==;M1h1M3tCldeHbhchZf0ptA=="
 ---

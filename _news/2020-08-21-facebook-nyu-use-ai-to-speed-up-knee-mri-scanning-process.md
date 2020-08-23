@@ -8,8 +8,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-speed-up-knee-mri-scanning-process/article32413373.ece/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: The Hindu
@@ -26,53 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook says AI can help you spend less time getting an MRI scan"
-    excerpt: "Facebook doesn't manufacture MRI machines, but the partnership with NYU is a way for the company to advance AI research. Artificial intelligence is playing a larger role in health care, including in robotic surgery, cancer risk predictions and medical ..."
-    publishedDateTime: 2020-08-18T13:04:00Z
-    webUrl: "https://www.cnet.com/health/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/"
+  - title: "Facebook AI researchers give MRI scanners a machine learning boost"
+    excerpt: "The AI then compared its reconstructed images with the original full-resolution knee scans to hone its accuracy. Facebook’s researchers experimented with several thousand model variations before ..."
+    publishedDateTime: 2020-08-18T17:41:00Z
+    webUrl: "https://siliconangle.com/2020/08/18/facebook-ai-researchers-give-mri-scanners-machine-learning-boost/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 189
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
     images:
-      - url: "https://cnet3.cbsistatic.com/img/6NZnZZ0AB8dzy2ZkAVnZ4My50hc=/756x567/2020/08/17/730ef110-ecbe-451e-a232-5d8aac35ea34/gettyimages-1197376888.jpg"
-        width: 756
-        height: 567
-        isCached: true
-  - title: "Facebook's AI can generate MRI images in minutes instead of an hour"
-    excerpt: "Now, after two years of research, teams from Facebook AI and NYU Langone Health have developed a neural network that can cut the amount of time people have to spend in an MRI machine from more than an hour to just a few minutes. The network ..."
-    publishedDateTime: 2020-08-18T15:01:00Z
-    webUrl: "https://www.engadget.com/facebook-ai-generates-mri-images-using-4x-less-data-010038608.html"
-    ampWebUrl: "https://www.engadget.com/amp/facebook-ai-generates-mri-images-using-4x-less-data-010038608.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-generates-mri-images-using-4x-less-data-010038608.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F7b125390-e0c1-11ea-afff-bae002526a2b&client=amp-blogside-v2&signature=fae9aeed5a87e0bef456f24a9641ca2c8a4c309c"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Facebook And NYU Using AI Research To Make MRI Scans Faster, Simpler"
-    excerpt: "The project, titled fastMRI, pairs the resources of Facebook’s artificial intelligence research (FAIR) team and radiologists at NYU’s Langone Health to create machines that can produce MRI results with less data. The two teams have reported teaching an ..."
-    publishedDateTime: 2020-08-18T16:16:00Z
-    webUrl: "https://www.ibtimes.com/facebook-nyu-using-ai-research-make-mri-scans-faster-simpler-3030369"
-    ampWebUrl: "https://www.ibtimes.com/facebook-nyu-using-ai-research-make-mri-scans-faster-simpler-3030369?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-nyu-using-ai-research-make-mri-scans-faster-simpler-3030369?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/08/28/mri-scan.jpg"
-        width: 1200
-        height: 814
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/facebook.png"
+        width: 718
+        height: 404
         isCached: true
   - title: "AI can speed up MRI scans, shows Facebook study"
     excerpt: "The fastMRI research team removed roughly three ... AI model did not just look like generic MRIs; the AI-generated images matched the ground truth image created by the standard slow MRI process, Facebook said. The study showed that fastMRI can generate ..."
@@ -85,6 +51,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
+  - title: "An AI built by Facebook could drastically speed up MRI scans"
+    excerpt: "An AI system, built by researchers at Facebook and NYU Langone, can produce MRI scans with only a quarter of the data normally required, which could speed up the scanning process"
+    publishedDateTime: 2020-08-18T15:32:00Z
+    webUrl: "https://www.newscientist.com/article/2252012-an-ai-built-by-facebook-could-drastically-speed-up-mri-scans/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/08/17134718/ai_blog_fastmri_desktop_web.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI can speed up MRI scans, shows Facebook study"
     excerpt: "The fastMRI research team removed roughly three ... AI model did not just look like generic MRIs; the AI-generated images matched the ground truth image created by the standard slow MRI process, Facebook said. The study showed that fastMRI can generate ..."
     publishedDateTime: 2020-08-18T16:37:00Z

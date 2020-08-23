@@ -22,22 +22,6 @@ images:
     height: 1333
     isCached: true
 
-related:
-  - title: "Conversational AI Is Accelerating in the New Normal"
-    excerpt: "Since the start of the pandemic, 35% of US smart speaker owners say ... While voice has taken center stage in many of these conversations, it is not the only conversational AI technology that can help mitigate the risk of infection. COVID-19-specific ..."
-    publishedDateTime: 2020-08-18T14:49:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/conversational-ai-is-accelerating-in-the-new-normal/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 37
-    images:
-      - url: "https://www.cmswire.com/-/media/f71ceb4c201f4a448f4b309195166e3d.ashx"
-        width: 640
-        height: 480
-        isCached: true
-
 secured: "5O2QosXNmWbArFLhfBZT/eZ0+lBwGGnYUDlWcpYmXB1hY7n/jUMaHP8dx9vs0vYl/dKEWeeL5/B9hIlsUSvHI71o64eTNwgi5qHiqmPCcBgto13PgDoYjL2o/Pw6zutMYn8KsAqPNZXV4Sc8WjWDadqvVIaSVhxqlO2cFkf+uqN8fMEYr8X7NT7EcFR1H9luy2YRLUAlJAI1XHx5xra69UL8gJwKGbkfUJtoxl/i/vv2oi4a3wFC0FwW3/khVy4frUnKrU/E2OaRB1CKmUdEZ7ZXg3o6GfC9YN6NfU1On3l7v9sU4wLBT9Ow5FdZWOX9hHBJFrJA9X/cMt/B2g5EfzuxkkhRkIkO9IERxWcs1QPV+aGQiHURg7RZ8DwZRCZHRkCR5udmtfTDuDCmPfeV9e6E1Vt3RqCcd5I+HrVYQn2go7oJZn7HO62BQDTFYJRw5Sw5i4yem4KhBNvIRZ6b3DuITw0gs03bJ4MwqkmOT38jxMU2D3mpx/IsAsd7ETrLrYbfrX4SiapS1qK3EuMhqw==;q8WFFDjuy+d2GltkWZuhxg=="
 ---
 

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Technology Market Size Report 2020 Global Industry Analysis by Trends, Revenue, Share, Revenue and Forecast to 2026"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Technology Market” research report offers the breakdown of the industry by market size, rate of development,"
-    publishedDateTime: 2020-08-18T13:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-report-2020-global-industry-analysis-by-trends-revenue-share-revenue-and-forecast-to-2026-2020-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Natural Language Processing Market Latest Industry Trends, Future Growth, Market Share, Revenue, Size and 2026 Forecast Research Report"
     excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
     publishedDateTime: 2020-08-20T15:43:00Z
@@ -98,6 +84,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Education Market Global Industry Analysis Segments Top Key Players Drivers And Trends To 2029"
+    excerpt: "Trends In Artificial Intelligence in Education Market 2020. Straits Research announces the addition of its new research report titled, “Artificial Intelligence in Education Mark"
+    publishedDateTime: 2020-08-19T15:03:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/135039/artificial-intelligence-in-education-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "lCWmtGw85iwrn7AdKWW7QU/i7Igf+WILuURnrOOmlD3m79GF04Wxr46n47wpYq2EyIYS4G5gxRIY96YVyCwNFw2FUp9ew3GvaXEk5HFtRZxhwl1GXPDFrq85v6vsAgkro6dmEzSGsbxN5ijVeWsWGz0zJA83SVTVB7ryoV8XkQOyFVaekTRw07ZmSO48AUXCmdt6ZYL7MfJeEvjPRTMxRLrghvElCCFufP10Thfc84jixOKrsnjhJ7tByLHHXi0mR7A2u2lWQFjV15SPRwHWlUuvmKTXxg4YSnf/9y0++gOeo90dzcTHlUvtkW2Ip2deu4aCoCMz+dHZP4GgNb+boQ==;B5c0MLP6PtN01/ZtH68zZw=="
 ---
