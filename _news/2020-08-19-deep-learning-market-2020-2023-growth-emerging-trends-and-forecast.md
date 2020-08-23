@@ -3,7 +3,7 @@ category: news
 title: "Deep Learning Market 2020-2023: Growth, Emerging Trends, And Forecast"
 excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
 publishedDateTime: 2020-08-19T07:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19?mod=mw_quote_news&tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19"
 type: article
 quality: 69
 heat: 159
@@ -152,6 +152,6 @@ related:
       domain: benzinga.com
     quality: 18
 
-secured: "w+zMD/ZOJkspjTXh2ecw5VRQkit0kbCZoHby11PY7Hez8ZVx9g4GattCUD8MGhgYZhRdCU1y9w8e7mYRxobu/+iLGRyfN5PBeey0uQDMr1C4UYxOx74ntiBf83Z4wgbvOrrnvh94czDIDSUFQoSKleHmdJRjtwcXWc8wsDp04cNBVaQXHubfVlLeB8ksOTXUr83neXrtg1jJtFXQmvoU1UZ3P8trl3TnmGDAlPjcoScuDnpGRbTdLmXTSJFnpiqzGNZUoBe6K8fVVMiD0QDfvf9HA+5GpiCcLfS2JB4NV6kNIVv0IbiQg4M2Q4qFR4ADUaRLYPI8CVIjJJrrYVu+lQ==;oRI1TsPRCDEHIsXqO6luZA=="
+secured: "w0pu+fUfmzYocWHNn7DPl7rU/hYC/2BPykD28wVzvrqVGsCDb/cUBBWPApAnXS3gmMKJoipxTNT8bVYWWSRd2xaaJ4Re8AkID/i7cyfQuAf6++b6rcsgJOAbPRFihe3XBo/Xqn0b3n5vlaOnqfjYttsLkuw4M6I9XX14NZzG5jTo+tcmpQk40gH+0UugaN6WMmgkXyKO0Dnhh5BN5wq654JNddLSXGMD424Qn8jUwhBT4pU8DJ+w+2WzqYuDMwxOmz+xznvpgdGeDTLLD99isLrCO3yMWbN8JfvUuAETMLgXPnoXglLBtZ16/Rs6l51WpVthgcF34H2t+4ZCwA5uug==;DGoKvNZZWEQCsJHOnDHyWA=="
 ---
 

@@ -43,20 +43,6 @@ related:
         width: 884
         height: 441
         isCached: true
-  - title: "Microsoft Improves Windows Patch and Azure Service Communications"
-    excerpt: "Microsoft has streamlined its Azure outage reporting via artificial intelligence (AI) technology. This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform ..."
-    publishedDateTime: 2020-08-19T01:09:00Z
-    webUrl: "https://redmondmag.com/articles/2020/08/18/windows-patch-azure-service-communications.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0716vrm_Take5.jpg"
-        width: 647
-        height: 450
-        isCached: true
 
 secured: "xjMuph96o8cF8ApYWesCwo2vzuc5lI0v+uBd9Bv52Abr32L5Zfpuy+sWrXmEnIzWc8CPBTaKmx746N3IspV8hGVEA7SWFIDrnVVJAOO/DgkkcPDFrWGU8ItcD1GkMsUAlCYDYBYj2vFT28Ind7XBx0Y7M9RLnlfIYGxEUalfeJeq0lTD+I6LQpmMwPcmKLj44RIRrhyzuJrNEwNtyAKTw9M3ivXPVADRILFO1w2l3nNhO04UCygpyKrkLz3K841QvPgdMoCBa864jSp7gBFmcfU4XSuUvRAdwvAwnQseEBj71uu3+y0GvRDdpswEjmtm3lpi11J2UOd0+1KrwtGI2zFbUkpJ5Ib1cV4CnpCII6er7EHGcj6z8U61ATH2yHcjCO5qMIdCjAqVly4rZucnA1dju2xfV5wPQMS4sLU9Aj/97vahESQ3KH/RLOqgVGqAKcece53erQ9CBmppAi65bkLbDTcec7vuVSE6BcTi422qUjobS2MD7/LI0BLkq9hRayIvBJ4T+Dd183VkzQ4N/w==;qFvvw7EREXlrBefMD+tm/A=="
 ---

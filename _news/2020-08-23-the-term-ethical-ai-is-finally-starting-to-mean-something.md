@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-start
 ampWebUrl: "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/08/data_public.jpg?fit=800%2C450&strip=all"
@@ -28,6 +29,6 @@ images:
     height: 450
     isCached: true
 
-secured: "Aa8yqE4JWDsjuf3YtwY5x36KDGymkkqf5G89TvxuwhjKYsd9EOkFXuYCHIq8aHar7ZVCgoEb7VTawzNE2DVitY6xQhAbzlOsI3RrBA2rO4IpIk4EJmrarpjiax7aPfQMsE0YmAQa/OBfpj1fwQfTUmd1JApnMzR+VwH1htEU5dbWGhcWBFt/he9sSl1KZW+B/rlJcl33raz1L2jP0huP6v2+mDzsyjp9t5tqCfeLp83zHIUNnYr/TFm1JJ0Vnu+GBeoVw43MovOSAwuFK+ZKeqUgCdmdBP1nDdaZ7tLWBhsu0mWBGiQ2vsHGSMn6vZVVuBknQV0ExKjWBoUESHv6/w==;Mw+skYJoJMo360QaOaOWOA=="
+secured: "coTX6HRRFzi1MmR/RwTGrMhQN1JeWjMAmDPe//Q79pz9CxAf6u6vAn0yuXeDdr5TywLkm2BV6hm6uqqWYvW7NT7xRqxZt2dzQWs+loBuOIo8otKnZUQMk6WtG0ec4+DIWJhLHQJlj0DeA3bbTAFm1zo/+AqJpEO+zJVubl6RRNkXWKY8kUFAtzYwhK4OFrn5UxOWXDuAtGvMZe+5hq6s/pokh1zdrGHVXLGSiWxmmP6XeXEIjq0AHdZpJvYc5y1K5i2h4Hd7FnFR7Iv7FAcho62mJvUfXzuqtSO+jvQ8Thj499dtWNqpt2zryYmz/x8p9lIUI3SFhFLJrvusDA9k5v0OC8nfab5UMrtTSfamBAWxmiSalXpBKgiln3isy46VhcLLoG+D/DGjdTVB8FktNeF9Y08ibd2i2iwAzq8hwfAhlY4S0HxvkDRaeGTHFa+OrhfoOINDy35JP8ij59XqkEvovQAZpvOet4QVsdVDkJ8XgHhVXZcB37RbRd0BaqpUo8V1WaRU4FEPgv9jPYVo9A==;1SL1ROgnhioWcrG+2EmKpQ=="
 ---
 

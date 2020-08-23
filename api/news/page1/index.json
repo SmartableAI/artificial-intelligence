@@ -9,7 +9,7 @@
       "webUrl": "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -47,7 +47,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -447,7 +448,7 @@
       "webUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {

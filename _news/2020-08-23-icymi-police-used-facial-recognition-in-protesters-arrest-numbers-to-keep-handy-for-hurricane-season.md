@@ -56,20 +56,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Report points to privacy, accuracy concerns with facial recognition technology"
-    excerpt: "More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19."
-    publishedDateTime: 2020-08-19T01:43:00Z
-    webUrl: "https://www.wsbtv.com/news/washington-news-bureau/report-points-privacy-accuracy-concerns-with-facial-recognition-technology/TNYBKP3JN5HVZN6UHG7JBQZL5E/"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 35
-    images:
-      - url: "https://www.wsbtv.com/resizer/pizHIqwlvdVYQfCKDEUxfNhcR74=/1200x628/d1hfln2sfez66z.cloudfront.net/08-18-2020/t_e302f4af08bf47a6a96fcbf20d001f50_name_6PP_FACIAL_RECOGNITION_US_PKG_frame_930.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "+F+u5RRmfJ2ZrygS/+2FNXgLAFQWhUDM/3vLJkSYmY+1Cf1dMkvv1QRyrq8AX/Jz9YdSEhp4ep2e9o/2iIZicNEAE9fBkUOD/g20S2I2N61oFKxTMnWrZbjZIxx3fwoG5Ik/meS7Tw+kaiiSrNqgolwdpoGVHEGDwXDV4BkglIykht2p1PUXA4EXxgzEhohUEITGNQLlEMRviZHXJwohyMH92ctBns8TKYLMlifY7Ne8GuJyR0HHOSXeD0Ru4ZGAfFLUdpMfzPWYUiOfMTJUGb3se6nIuDAd9Ys7bZCdKy4TAYhNiyCVGmQROhJtz0MpnjggOM7xwTfGV0Ym0fyLFuCsXW9jfdA/AYkI1cUII8cAK1bRaf4zGAHPRFviMS2geoU1DKCLDfPzX/fxbest31yZG3II0VFsGsmDstd5OX3arYPcabw1UYP/N6U6YNBSab5hYm6Zi1LQ4FH7HOp3dBnwdNtJJiPedRTuAyUrE9jSAJZeGfDwXa/5pD30XXY7I8rDH8pneI6dij6TkVBx2w==;aY7w4R8JPt7XTlINNU0guQ=="
 ---

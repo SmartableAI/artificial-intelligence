@@ -24,31 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "The sound of India’s AI potential"
-    excerpt: "On August 15, India’s Independence Day, it’s customary to sing Jana Gana Mana: the Indian national anthem, originally composed by the poet Rabindranath Tagore and adopted as the anthem after India gained full independence.  This year, together with Prasar Bharati and Virtual Bharat, we offered Indians"
-    publishedDateTime: 2020-08-19T02:30:00Z
-    webUrl: "https://blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/"
-    ampWebUrl: "https://blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/amp/"
+  - title: "Adobe launches AI-powered Character Animator features in beta"
+    excerpt: "The latest beta version of Adobe Character Animator adds AI-powered lip-sync and motion capture tools, as well as revamped timeline features."
+    publishedDateTime: 2020-08-19T13:02:00Z
+    webUrl: "https://venturebeat.com/2020/08/19/adobe-launches-ai-powered-character-animator-features-in-beta/"
+    ampWebUrl: "https://venturebeat.com/2020/08/19/adobe-launches-ai-powered-character-animator-features-in-beta/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/adobe-launches-ai-powered-character-animator-features-in-beta/amp/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/500d84ff-924b-400e-9b5f-0c244bc858b2_1.max-1300x1300.png"
-        width: 1260
-        height: 661
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/adobecharactercreator000-e1597841810397.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Google introduces AI-powered 'Sounds of India' app"
-    excerpt: "Google on Wednesday said it is offering a new AI-powered web app called Sounds of India that will allow you to sing Jana Gana Mana into your phone, karaoke-style and it transforms your voice into one of three traditional Indian instruments."
-    publishedDateTime: 2020-08-19T09:57:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200819/3612117.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "3K4hm/r3Ql08NCNQK1mj8/pLia8HTT3cnh5E3fWVnh8pxvCzKCqz3eI4vHD/Xl09t/aVblxSBiBFvBZ9y+PJEJbnHPj5paa5Qrl0vs/p+piREDnYUayHJYsmzjj5xrqhIhKHmptjderVVlGJhSYLZpc91XgyX/OHUrl42tnICwgcTk8BLUlIO2C8wtsyaF27TJNXdpNha+2lYC4Gmh5tHbFcEl6VpRZ4JscNF40kA2Fm4APu0V4dUW85G6KW7iIGwtfv/Q72Bz/+e6UODCi+KqunEXmKFUl5Q8rO67GxSPzNUdI2kPyKvveiTlTXphNaB6PReIPThh3YTIy8EYbYuw==;tUXVJtGzT+pSsknWWftSJA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-has-a-plan-to-try
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Improves Windows Patch and Azure Service Communications"
-    excerpt: "Microsoft has streamlined its Azure outage reporting via artificial intelligence (AI) technology. This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform ..."
-    publishedDateTime: 2020-08-19T01:09:00Z
-    webUrl: "https://redmondmag.com/articles/2020/08/18/windows-patch-azure-service-communications.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0716vrm_Take5.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft strengthens translation support for Indian languages, adds Odia to Microsoft Translator"
     excerpt: "Microsoft India has announced the addition of Odia as the latest Indian language in Microsoft Translator. The cloud-based translation service will now offer real-time translation and transliteration for Odia."
     publishedDateTime: 2020-08-20T04:00:00Z

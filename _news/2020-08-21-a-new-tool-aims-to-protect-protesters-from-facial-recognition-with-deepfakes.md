@@ -8,7 +8,7 @@ ampWebUrl: "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters
 cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://media.nbcmiami.com/2020/08/CLEARVIEW-UPDATE-PHOTO.png?fit=1200%2C662"
         width: 1200
         height: 662
-        isCached: true
-  - title: "Report points to privacy, accuracy concerns with facial recognition technology"
-    excerpt: "More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19."
-    publishedDateTime: 2020-08-19T01:43:00Z
-    webUrl: "https://www.wsbtv.com/news/washington-news-bureau/report-points-privacy-accuracy-concerns-with-facial-recognition-technology/TNYBKP3JN5HVZN6UHG7JBQZL5E/"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 35
-    images:
-      - url: "https://www.wsbtv.com/resizer/pizHIqwlvdVYQfCKDEUxfNhcR74=/1200x628/d1hfln2sfez66z.cloudfront.net/08-18-2020/t_e302f4af08bf47a6a96fcbf20d001f50_name_6PP_FACIAL_RECOGNITION_US_PKG_frame_930.jpg"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "TUaOzpE6rwSw7Cgtf93VGlryCPsZQLyS6boGDZTaVlIRAv/XukYiWA+EoBB5v1KIloqXH4yQJDRpJeXCwHreGeG6TH6gYhu/73ugyrjyaStY1GknSnBKYKjhsC3Au97c3EhcMns6z2OZQLtgUgEQAhZDahEWXvEXZoV5rch6rPGcWfBK3FQZmbljUHFkPet7Lva6SRFtkgbD2Zc503lqSNdnulfPFwslMP1V6NZzrNJQPaB+/5z6fZAT6LKZNpc+hYljzuDugJRtF+vzKFQgvFnUCw8SOR52+J+oEMRuqz5n+7oKoNVA8gU0W77bcIl/EChbcvgag3x6lGSjlmALHOdxNCNBD4cHtrN/zv8ssBMK3s0lzCYc9kr6qIzO/JOLK+VVOMaMKSWiChfWCoA7IkBct+JVOd5TNQpfBFvSjKSHtTJMNT2cyADckqAKn/wb21BLslaEPgVPjACN38hq4T641FmDmx8/WD9ozyj6hFIQKaghDU1U6Ujx5HmwQE5J;fwfXldJbjL9atrK/s4n1uw=="
