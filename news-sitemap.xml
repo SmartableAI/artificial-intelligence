@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/</loc>
+    <lastmod>2020-08-23T10:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/cognitiveworld/2020/08/23/is-ai-a-force-for-good-interview-with-branka-panic-founder-and-executive-director-at-ai-for-peace/</loc>
     <lastmod>2020-08-23T08:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -45,6 +51,12 @@
   <url>
     <loc>https://www.techradar.com/uk/news/heres-the-smallest-aiml-supercomputer-ever</loc>
     <lastmod>2020-08-21T14:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/</loc>
+    <lastmod>2020-08-21T12:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -111,12 +123,6 @@
   <url>
     <loc>https://www.techrepublic.com/article/dark-data-may-be-tamed-with-natural-language-processing/</loc>
     <lastmod>2020-08-21T08:25:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/mobius-logic-brings-drone-flight-management-to-microsoft-azure-1029524393</loc>
-    <lastmod>2020-08-21T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -289,8 +295,26 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/</loc>
+    <lastmod>2020-08-20T06:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/</loc>
+    <lastmod>2020-08-20T06:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/08/19/ikala-an-ai-based-customer-engagement-platform-raises-17-million-to-expand-in-southeast-asia/</loc>
     <lastmod>2020-08-20T06:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/</loc>
+    <lastmod>2020-08-20T06:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -367,12 +391,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition</loc>
-    <lastmod>2020-08-19T22:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/</loc>
     <lastmod>2020-08-19T22:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -411,6 +429,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/19/could-machine-learning-help-bring-marginalized-voices-into-historical-archives/</loc>
     <lastmod>2020-08-19T13:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers</loc>
+    <lastmod>2020-08-19T12:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -499,12 +523,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/facebook-nyu-develop-ai-to-accelerate-mri-scans-2020-8</loc>
-    <lastmod>2020-08-19T06:30:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/08/19/adobe-launches-ai-powered-character-animator-features-in-beta/</loc>
     <lastmod>2020-08-19T06:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -565,6 +583,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/facial-recognition-market---what-are-the-main-factors-that-contributing-towards-industry-growth-2020-08-19</loc>
+    <lastmod>2020-08-19T01:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.openpr.com/news/2116269/artificial-intelligence-ai-in-drug-discovery-market-seeking</loc>
     <lastmod>2020-08-19T01:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -597,6 +621,12 @@
   <url>
     <loc>https://www.bloomberg.com/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus</loc>
     <lastmod>2020-08-18T20:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.tvnz.co.nz/one-news/new-zealand/global-facial-recognition-company-working-closely-nz-govt</loc>
+    <lastmod>2020-08-18T19:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -739,7 +769,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines</loc>
+    <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1903,7 +1933,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reseller.co.nz/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/</loc>
+    <loc>https://www.cmo.com.au/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/</loc>
     <lastmod>2020-08-10T22:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2029,7 +2059,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/stanford-center-for-health-education-launches-online-program-in-artificial-intelligence-in-healthcare-to-improve-patient-outcomes-301108618.html</loc>
+    <loc>https://apnews.com/PR%2520Newswire/56e335acee9728a4dbb3c2cf163211ca</loc>
     <lastmod>2020-08-10T07:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

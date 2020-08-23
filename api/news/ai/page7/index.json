@@ -2,6 +2,230 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-08-15-elon-musk-says-tesla-developing-neural-network-training-computer-for-full-self-driving.md",
+      "title": "Elon Musk Says Tesla Developing Neural Network Training Computer for Full Self-Driving",
+      "excerpt": "With a complete overhaul of the Tesla autopilot software, full self-driving capabilities will be possible as the AI will be able to interpret traffic signals, turns and stops.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/40282/elon-musk.jpg",
+          "width": 923,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
+      "publishedDateTime": "2020-08-15T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellen",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-controversial-face-recognition-firm-clearview-ai-is-teaming-up-with-ice.md",
+      "title": "Controversial Face Recognition Firm Clearview AI Is Teaming Up With ICE",
+      "excerpt": "In a pairing that has all the makings of a privacy and/or human rights nightmare waiting to happen, the dystopian facial recognition software maker Clearview AI secured an ongoing contract with U.S. Immigration and Customs Enforcement this week.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lvngekwv9r2xiehaguxj.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp",
+      "publishedDateTime": "2020-08-15T01:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-with-self-driving-tech-was-new-a-road-trip-paved-the-way.md",
+      "title": "With self-driving tech was new, a road trip paved the way",
+      "excerpt": "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.idahostatesman.com/entertainment/article244877067.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.idahostatesman.com/entertainment/article244877067.html",
+      "cdnAmpWebUrl": "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/entertainment/article244877067.html",
+      "publishedDateTime": "2020-08-14T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Idaho Statesman",
+        "domain": "idahostatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-how-the-us-department-of-health-human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek.md",
+      "title": "How The US Department Of Health & Human Services (HHS) Is Innovating With AI: An Interview With Oki Mek",
+      "excerpt": "Oki Mek, Senior Advisor to HHS CIO shares how HHS is adopting and implementing AI, how adoption of new technologies in the public sectors differs from the private sector, and challenges to AI adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2deca07b28103b194d017c%2F0x0.jpg",
+          "width": 450,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/amp/",
+      "publishedDateTime": "2020-08-14T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast.md",
+      "title": "AI In Computer Vision Market Analysis 2020-2023, Growth Rate Evolving Technology, Size, Share, Data Analysis, SWOT Analysis Forecast",
+      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-15-white-house-aims-to-boost-funding-for-ai-and-quantum-tech-by-30-in-2021.md",
       "title": "White House Aims To Boost Funding For AI And Quantum Tech By 30% In 2021",
       "excerpt": "By committing to invest $2.2 billion next year, the Trump administration says it is on track to honor a pledge to roughly double non-defense R&D spending on the two key technologies between 2020 and 2022.",
@@ -1148,230 +1372,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-melting-frozen-memories-ai-helps-japanese-recall-war-days.md",
-      "title": "Melting ‘frozen memories,’ AI helps Japanese recall war days",
-      "excerpt": "The 75th anniversary of the end of World War II is Saturday, and Niwata, now 18, said she hopes it will bring attention to her project with a Tokyo University professor to painstakingly colorize photos using artificial intelligence and their own research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.klfy.com/international/melting-frozen-memories-ai-helps-japanese-recall-war-days/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.klfy.com/wp-content/uploads/sites/9/2020/08/2685d0a5f54944e7ae7f907aa39e473e.jpg?w=1280&h=720&crop=1",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.klfy.com/international/melting-frozen-memories-ai-helps-japanese-recall-war-days/amp/",
-      "cdnAmpWebUrl": "https://www-klfy-com.cdn.ampproject.org/c/s/www.klfy.com/international/melting-frozen-memories-ai-helps-japanese-recall-war-days/amp/",
-      "publishedDateTime": "2020-08-13T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLFY",
-        "domain": "klfy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-windows-10-app.md",
-      "title": "Microsoft will now let you choose a preferred GPU for every Windows 10 app",
-      "excerpt": "Right now, Windows 10 allows users to choose a GPU for performance-demanding workloads ... case could be using one card for time-consuming AI tasks (video enhancements, perhaps) and another ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/xqtsXikRmR2P9p7hgseakY-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
-      "publishedDateTime": "2020-08-13T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-amazon-ec2-inf1-instances-featuring-aws-inferentia-chips-now-available-in-five-new-regions-and-with-improved-performance.md",
-      "title": "Amazon EC2 Inf1 instances featuring AWS Inferentia chips now available in five new Regions and with improved performance",
-      "excerpt": "Following strong customer demand, AWS has expanded the availability of Amazon EC2 Inf1 instances to five new Regions: US East (Ohio), Asia Pacific (Sydney, Tokyo), and Europe (Frankfurt, Ireland). Inf1 instances are powered by AWS Inferentia chips, which Amazon custom-designed to provide you with the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-ec2-inf1-instances-featuring-aws-inferentia-chips-now-available-in-five-new-regions-and-with-improved-performance/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T14:32:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-baidus-revenue-shrinks-under-pressure-from-bytedance-in-ads.md",
-      "title": "Baidu’s Revenue Shrinks Under Pressure from ByteDance in Ads",
-      "excerpt": "Baidu Inc.’s quarterly revenue shrank 1% and its projections suggest sales could slide again, as rivals like ByteDance Ltd. continue to chip away at its core advertising business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
-      "publishedDateTime": "2020-08-13T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-healthcare-provider-and-payer-execs-point-to-ai-robotics-as-next-industry-disruptors-report.md",
-      "title": "Healthcare provider and payer execs point to AI, robotics as next industry disruptors: report",
-      "excerpt": "Nearly half of healthcare provider and payer executives (45 percent) believe that rapid advancements in new tech and innovations will disrupt the healthcare industry, according to an Aug. 11 Accenture report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/healthcare-provider-and-payer-execs-point-to-ai-robotics-as-next-industry-disruptors-report.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

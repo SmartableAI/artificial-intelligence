@@ -2,6 +2,55 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-21-brazil-notes-mobility-unicorn-99-reduces-sexual-harassment-with-ai.md",
+      "title": "Brazil Notes: Mobility Unicorn 99 Reduces Sexual Harassment With AI",
+      "excerpt": "The São Paulo-based firm launched a number of initiatives around artificial intelligence to tackle safety risks for female travelers",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/08/21/brazil-notes-mobility-unicorn-99-reduces-sexual-harassment-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3fbba6b86e4ddc9e4cdbd8%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/08/21/brazil-notes-mobility-unicorn-99-reduces-sexual-harassment-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2020/08/21/brazil-notes-mobility-unicorn-99-reduces-sexual-harassment-with-ai/amp/",
+      "publishedDateTime": "2020-08-21T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live.md",
       "title": "How machine learning helps companies stay agile in a pandemic (VB Live)",
       "excerpt": "Join this VB LIve event to learn how machine learning has offered companies powerful ways to adapt in these uncertain times.",
@@ -783,7 +832,7 @@
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1116,36 +1165,36 @@
       ]
     },
     {
-      "path": "_news/2020-08-20-ai-based-customer-engagement-platform-ikala-raises-17-million-to-expand-in-southeast-asia.md",
-      "title": "AI-based customer engagement platform iKala raises $17 million to expand in Southeast Asia",
-      "excerpt": "Taiwanese startup iKala, which offers an artificial intelligence-based customer acquisition and engagement platform, will expand into new Southeast Asian markets after raising a $17 million Series B.",
+      "path": "_news/2020-08-20-michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long.md",
+      "title": "Michelle Obama’s DNC Speech Hid A Secret Lesson For Every Leader (And It’s Only 13-Sentences Long)",
+      "excerpt": "Michelle Obama’s speech on the opening night of the Democratic National ... the ability to walk in someone else's shoes, the recognition that someone else's experience has value, too. Most of us practice this without a second thought.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/19/ikala-an-ai-based-customer-engagement-platform-raises-17-million-to-expand-in-southeast-asia/",
+      "webUrl": "https://www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 90,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/ikala.jpg?w=1024",
-          "width": 1024,
-          "height": 673,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3e7b6012c4c78778bb3bfe%2F0x0.jpg",
+          "width": 1200,
+          "height": 792,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/19/ikala-an-ai-based-customer-engagement-platform-raises-17-million-to-expand-in-southeast-asia/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/19/ikala-an-ai-based-customer-engagement-platform-raises-17-million-to-expand-in-southeast-asia/amp/",
-      "publishedDateTime": "2020-08-20T06:41:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/amp/",
+      "publishedDateTime": "2020-08-20T06:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1161,57 +1210,8 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-ai-as-a-blueprint-for-fintech-startups.md",
-      "title": "AI as a blueprint for fintech startups",
-      "excerpt": "FINRA’s AI Report is particularly interesting for fintechs since it explores how firms are deploying AI as well as the agency's expectations for AI oversight.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1155413889.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/amp/",
-      "publishedDateTime": "2020-08-20T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

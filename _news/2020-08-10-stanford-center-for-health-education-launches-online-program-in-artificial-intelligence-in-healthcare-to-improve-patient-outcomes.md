@@ -1,26 +1,25 @@
 ---
 category: news
 title: "Stanford Center for Health Education Launches Online Program in Artificial Intelligence in Healthcare to Improve Patient Outcomes"
-excerpt: "The Stanford Center for Health Education launched an online program in AI and Healthcare this week. The program aims to advance the delivery"
+excerpt: "The Stanford Center for Health Education launched an online program in AI and Healthcare this week. The program aims to advance the delivery of patient care and improve global health outcomes through artificial intelligence and machine learning."
 publishedDateTime: 2020-08-10T14:08:00Z
-webUrl: "https://www.prnewswire.com/news-releases/stanford-center-for-health-education-launches-online-program-in-artificial-intelligence-in-healthcare-to-improve-patient-outcomes-301108618.html"
+webUrl: "https://apnews.com/PR Newswire/56e335acee9728a4dbb3c2cf163211ca"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI Ethics
+  - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "33UM+TRt/ojouKDifiU0EbC7LlDImYTD15DYQYkV2E8soLuTLaAsZ/yugfsK1YnjQ9NJKP0z1NaipFW+BPsMSP7CdKWxlymzIL1Ybm7ATUcRdo49BXAbmXo1JUgcePpEjFBjUbkW5MlZsloOEl+fradDTAwqs45nbFxQiDqGABS5qOP/6qiP0fu/dW4hjgWuO3ssLXhvPsqv5gRL3hMT6/x7tFJyQL7WRdDkFadNXH4TEZ6BmF7XO1MtuAYpQb4wJ31yGclwFOZykPZUAmzc7CpWBQnOn3bEGMwfgffmpLry1FloaK7aRjwyUBpstfy6VTqNY24koUDN/jdNv1gVjw==;U3pA/GMZr8GB/D0o6CUxQw=="
+secured: "IC9yQLcrB78EZc7zNUeFKaEHLAoP4PxYqWzdTQYIDsad88BF40qfz5EzrSjQqhAGlAus6zwGuktyXn55/Kz0xjSgBHPRLOgfZwrgmi387qd75W9YMMPEMkjhnn1tx7lfL9y06AS2WIELrrJq2owuv5XwJkS7Rm2NvL3JOOzZbxPDLFcJltBVd5pxkBDPLDPuvbDCJf/FKbtHQEJbeV4gTiDdF2B4CgsaUKD16aOFlTYlQ8Rfb1qEOSGHz5bq/lVCf1wJdLjnRF8jVdTZI3T0EnG8L0WrnlcpvZ8uknYm+h7aGyEd824KstXarqG8AW8506yrsSg2gbidB5xAXZlRig==;1VuqwA3yGvx0I0KnGh5uwA=="
 ---
 

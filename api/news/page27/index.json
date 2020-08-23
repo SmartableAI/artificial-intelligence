@@ -2,6 +2,219 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-07-30-apple-tried-to-lure-amazons-video-app-by-offering-a-lower-15-fee-email-shows.md",
+      "title": "Apple tried to lure Amazon's video app by offering a lower 15% fee, email shows",
+      "excerpt": "In an email sent from Apple executive Eddy Cue to Amazon CEO Jeff Bezos in 2016, Apple said it would offer a 15% revenue share to Amazon for customers that sign up for Prime Video through Apple's payments system.",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
+          "width": 530,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T18:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-apptek-announces-expansion-of-languages-for-automatic-speech-recognition-and-neural-machine-translation-available-through-the-modzy-ai-platform.md",
+      "title": "AppTek Announces Expansion of Languages for Automatic Speech Recognition and Neural Machine Translation Available through the Modzy™ AI Platform and Marketplace",
+      "excerpt": "--(BUSINESS WIRE)--AppTek, a leader in Artificial Intelligence (AI), Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT) and Natural Language Understanding ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200730005924/en/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200730005924/en/702088/23/AppTek_logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-greenway-health-works-with-aws-to-further-meet-needs-of-ambulatory-care-providers-in-a-post-covid-healthcare-environment.md",
+      "title": "Greenway Health Works with AWS to Further Meet Needs of Ambulatory Care Providers in a Post-COVID Healthcare Environment",
+      "excerpt": "Greenway Insights will leverage AWS cloud services, giving Greenway engineering teams direct access to a robust set of data analytics and machine learning capabilities, such as Amazon SageMaker ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/health-press-release/Greenway-Health-Works-with-AWS-to-Further-Meet-Needs-of-Ambulatory-Care-Providers-in-a-Post-COVID-Healthcare-Environment--479970-1.htm",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
+      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
+      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-self-driving-startup-argo-ai-hits-75-billion-valuation.md",
+      "title": "Self-driving startup Argo AI hits $7.5 billion valuation",
+      "excerpt": "Since then, Argo has focused on developing the virtual driver system — all of the sensors, software and compute platform — as well as high-definition maps designed for Ford’s self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/30/self-driving-startup-argo-ai-hits-7-5-billion-valuation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/argo-ai-ford-miami.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/30/self-driving-startup-argo-ai-hits-7-5-billion-valuation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/30/self-driving-startup-argo-ai-hits-7-5-billion-valuation/amp/",
+      "publishedDateTime": "2020-07-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-which-countries-will-win-the-global-ai-race.md",
       "title": "Which Countries Will Win the Global AI Race?",
       "excerpt": "\"It's not that China is trying to get into the AI space; they are in the AI space and they are probably a bigger player in artificial intelligence than most [of our] leaders in the national ...",
@@ -916,240 +1129,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-service-that-uses-ai-to-identify-gender-based-on-names-looks-incredibly-biased.md",
-      "title": "Service that uses AI to identify gender based on names looks incredibly biased",
-      "excerpt": "Genderify, a new service that promises to identify someone’s gender by analyzing their name, email address, or username with the help AI, looks firmly to be in the latter camp. The company launched on Product Hunt last week,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/7/29/21346310/ai-service-gender-verification-identification-genderify",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/UY1ftBbs-mCrUL2wczCOpYcBknk=/0x0:1200x680/1400x933/filters:focal(172x207:364x399):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67125757/Ec0GHZ0XYAQ_zau.0.jpeg",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/29/21346310/ai-service-gender-verification-identification-genderify",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/29/21346310/ai-service-gender-verification-identification-genderify",
-      "publishedDateTime": "2020-07-29T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-quantum-computing-market-global-outlook-2020-2025-microsoft-google-ibm-intel.md",
-      "title": "Quantum Computing Market Global Outlook 2020-2025: Microsoft, Google, IBM, Intel",
-      "excerpt": "The Global Quantum Computing Market Research Report 2020 2025 is a valuable source of insightful data for business strategists It provides the industry overview with growth analysis and historical futuristic cost revenue demand and supply data as applicable The research",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2098873/quantum-computing-market-global-outlook-2020-2025-microsoft",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T729983952_g.jpg",
-          "width": 409,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2098873/quantum-computing-market-global-outlook-2020-2025-microsoft",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2098873/quantum-computing-market-global-outlook-2020-2025-microsoft",
-      "publishedDateTime": "2020-07-29T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-china-is-the-first-surveillance-superpower.md",
-      "title": "China Is the First Surveillance Superpower",
-      "excerpt": "Xi’s pronouncements on AI have a sinister edge. Artificial intelligence has applications in nearly every human domain, from the instant translation of spoken language to early viral-outbreak detection. But Xi also wants to use AI’s awesome analytical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/KYuGtZFZ7v1t8Z0xCkj1QB6zF-M=/570x320/media/img/2020/07/WEL_Andersen_ChinaOpener/original.gif",
-          "width": 570,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/614197/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/614197/",
-      "publishedDateTime": "2020-07-29T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware",
-        "AI Ethics",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-image-recognition-marketin-depth-analysis-by-total-revenue-and-industry-growth-rate-forecast-till-2026.md",
-      "title": "Image Recognition MarketIn Depth Analysis By Total Revenue And Industry Growth Rate Forecast Till 2026",
-      "excerpt": "The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-marketin-depth-analysis-by-total-revenue-and-industry-growth-rate-forecast-till-2026-2020-08-13",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-microsoft-azure-is-set-to-be-the-top-cloud-platform.md",
-      "title": "Microsoft Azure is set to be the top cloud platform",
-      "excerpt": "Microsoft signed new deals with PepsiCo and Mastercard to use Azure as their preferred cloud platform. Azure seems to be the top business choice right now.",
-      "sourceUrl": null,
-      "webUrl": "https://windowsreport.com/microsoft-azure-top-cloud-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/07/Microsoft-Azure-is-set-to-be-the-top-cloud-platform.jpg",
-          "width": 1856,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://windowsreport.com/microsoft-azure-top-cloud-platform/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-top-cloud-platform/?amp",
-      "publishedDateTime": "2020-07-29T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

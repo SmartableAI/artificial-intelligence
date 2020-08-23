@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-speed-up-knee-mri-scanning-process/article32413373.ece/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 615
     height: 384
     isCached: true
-
-related:
-  - title: "AI can speed up MRI scans, shows Facebook study"
-    excerpt: "The fastMRI research team removed roughly three ... AI model did not just look like generic MRIs; the AI-generated images matched the ground truth image created by the standard slow MRI process, Facebook said. The study showed that fastMRI can generate ..."
-    publishedDateTime: 2020-08-19T00:14:00Z
-    webUrl: "https://www.sify.com/news/ai-can-speed-up-mri-scans-shows-facebook-study-news-education-uisq5Pdcgejcg.html"
-    ampWebUrl: "https://www.sify.com/news/ai-can-speed-up-mri-scans-shows-facebook-study-news-education-uisq5Pdcgejcg.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/ai-can-speed-up-mri-scans-shows-facebook-study-news-education-uisq5Pdcgejcg.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
 
 secured: "Lj5IY5cw5ph9UjItyZiuYVuPhrZqwEMIZ0E4M1LVBFI4OcK/Hk2ut9xZz2im5sSeLHl28z9Yr2x+5c9Sw7If2YMMJON7T0Gw84xr9fU681GCrz8eXBFqYSCD1nxOib1Dhb2cxyrKdAu3O31BJRXUuK92aPWVph6VOuQu7vAycsH2VYGExUAW82LqRfscaD92gdbTF5C37/SqpeJKkYsG4HpAplElOu0gK2RfzvuU7rieokoUYkGz6sHK2aFrQfin6JbZCFqXXhNV6J+RSPB7kAl9+L5qLzkK0GAa2OAEg44gjFSOMTAm0RDIMhJcOxyDeaBbPtLPZNsxAALTKPckNRqwWMrtcCqsxUYuE9MebZ9mv20J1EtQKUcBzC5HrRYuEQYJYTELhwYHnz/4zNTZxUpIyxNPU3PtrWqE1jEmB0gWA1pCs1ZwIkll1UVPXPYiBohK1UHPb/rCDVTBDwCLV1DnRb2Wf2XNOZ6264UlxydGWAnBiq2jFLDOptLIXHI76Jm8aRGrpob1PJBep2+PIw==;1ElGumvuzuL/zPrzzhsrUQ=="
 ---

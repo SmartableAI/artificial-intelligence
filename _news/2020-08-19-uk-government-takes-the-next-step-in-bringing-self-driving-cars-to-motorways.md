@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The AI ‘Intelligence Explosion’ Might Happen This Way, Including For AI Self-Driving Cars"
+    excerpt: "Some vehemently assert that we are potentially going to have an AI “intelligence explosion” that will someday occur, and there are various bets that this might happen somewhere between the year 2050 and the year 2100."
+    publishedDateTime: 2020-08-23T16:21:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F902260582%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Beijing Makes Self-Driving Vehicles A Priority"
     excerpt: "The Chinese government has designated autonomous driving, along with 5G and artificial intelligence, as one of the strategic technologies to counteract the economic impact of the COVID-19 pandemic, boosted by state investment fund that has breathed new life into the ecosystem."
     publishedDateTime: 2020-08-19T09:26:00Z

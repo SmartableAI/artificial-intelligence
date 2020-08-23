@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Speech and Voice Recognition Market Size & Share by Sales Revenue, Demands, Growth Factors and Emerging Trends by 2026"
-    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
-    publishedDateTime: 2020-08-19T17:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2026-2020-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Education Market Global Industry Analysis Segments Top Key Players Drivers And Trends To 2029"
     excerpt: "Trends In Artificial Intelligence in Education Market 2020. Straits Research announces the addition of its new research report titled, “Artificial Intelligence in Education Mark"
     publishedDateTime: 2020-08-19T15:03:00Z

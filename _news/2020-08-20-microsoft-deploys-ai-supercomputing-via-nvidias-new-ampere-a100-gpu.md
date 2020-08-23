@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure Adds A100 GPU Instances for ‘Supercomputer-Class AI’ in the Cloud"
-    excerpt: "Microsoft Azure continues to infuse its cloud platform with HPC- and AI-directed technologies. Today the cloud services purveyor announced a new virtual machine family aimed at “supercomputer-class AI,” backed by Nvidia A100 Ampere GPUs, AMD Eypc Rome ..."
-    publishedDateTime: 2020-08-19T00:00:00Z
-    webUrl: "https://www.hpcwire.com/2020/08/19/microsoft-azure-adds-a100-gpu-instances/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 83
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/cloud-circuit-board-performance-computing-rwd-1536x864-1.jpg"
-        width: 1536
-        height: 864
-        isCached: true
   - title: "Microsoft's New Azure Servers Deliver Powerful NVIDIA A100 Ampere AI Supercomputing Boost"
     excerpt: "Therefore, Microsoft’s Azure is announcing their powerful ND A100 v4 virtual machine series. Each device will be kitted out with eight impressive NVIDIA Ampere A100 Tensor Core GPUs. The ND A100 v4 won’t work alone,"
     publishedDateTime: 2020-08-19T19:58:00Z

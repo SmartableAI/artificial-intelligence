@@ -44,17 +44,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Official F1 study reveals fastest driver in last 40 years according to machine learning algorithm"
-    excerpt: "The research used AWS's machine learning software to conduct a theoretical qualifying 'lap' which saw Senna come out 0.114s quicker than Schumacher , with six-time champion Hamilton 0.275s back in ..."
-    publishedDateTime: 2020-08-19T00:16:00Z
-    webUrl: "https://wwos.nine.com.au/motorsport/f1-all-time-fastest-driver-study/4a8178b3-0728-4ebb-a024-0c2ab71e8a00"
-    ampWebUrl: "https://amp.nine.com.au/article/4a8178b3-0728-4ebb-a024-0c2ab71e8a00"
-    cdnAmpWebUrl: "https://amp-nine-com-au.cdn.ampproject.org/c/s/amp.nine.com.au/article/4a8178b3-0728-4ebb-a024-0c2ab71e8a00"
-    type: article
-    provider:
-      name: Nine.com.au
-      domain: nine.com.au
-    quality: 26
 
 secured: "sD2SVxRuAvhAOx6nF3SAOWm/UlrF0HOodwOMlp2dBZ65K3/KHuQ/aqfLNxAUjYlDcGvUyLpmPAIj+k8lMXIZRy1gRTW0+aiai28F/lG+Ve95fhrlMyaAyfiU9EUW0cMeYPLWGoWG+JLwJdMHckMkCo6aI8hdNb7HORRdTFPe/gRyL4oRSVmYxm+tbf3mafLUpjqA1tZvJUmNo3XiPa+lgdMhuK4OP7H4iYbjzM0x5m4/kl+lSw+vyBBhORPKgnM81iyNyvrKjzT+En54Tka7kWTMoNrqaGP24aNEXYwtKDSTphbyyej7nSonKyKePJz/7mVHtUKGx3ByHa4HcEHTIA==;mwNtn49WlZc2R7j1jM5Q+Q=="
 ---

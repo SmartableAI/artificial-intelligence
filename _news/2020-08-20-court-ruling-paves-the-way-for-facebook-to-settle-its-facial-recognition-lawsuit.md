@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The best facial recognition cameras to buy in 2020"
-    excerpt: "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of ..."
-    publishedDateTime: 2020-08-18T23:07:00Z
-    webUrl: "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/BZx8A20yN8Le8NFHcd363ASKdQM=/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
-        width: 3413
-        height: 1920
-        isCached: true
   - title: "Facebook Gets Preliminary Approval To Settle Facial Recognition Lawsuit"
     excerpt: "Facebook allegedly violated an Illinois law requires companies collecting biometric data to obtain prior consent from consumers."
     publishedDateTime: 2020-08-20T13:35:00Z
@@ -78,50 +62,6 @@ related:
         width: 893
         height: 545
         isCached: true
-  - title: "Facial Recognition market - What Are The Main Factors That Contributing Towards Industry Growth?"
-    excerpt: "Facial Recognition is a biometric application which captures image of an individual and identify it by applying"
-    publishedDateTime: 2020-08-19T08:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market---what-are-the-main-factors-that-contributing-towards-industry-growth-2020-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "A New Tool Aims to Protect Protesters From Facial Recognition With Deepfakes"
-    excerpt: "In an era in which facial recognition has made it easy for law enforcement and other organizations to search someone’s identity based on their face alone, the question of when it’s appropriate to share identifiable photos of protesters and activists ..."
-    publishedDateTime: 2020-08-21T19:53:00Z
-    webUrl: "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/"
-    ampWebUrl: "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 71
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/08/deeepfake-tool-PAGE-2020-640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Cops in Miami, NYC arrest protesters from facial recognition matches"
-    excerpt: "Law enforcement in several cities, including New York and Miami, have reportedly been using controversial facial recognition software to track down and arrest individuals who allegedly participated in criminal activity during Black Lives Matter protests months after the fact."
-    publishedDateTime: 2020-08-19T20:45:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/08/cops-in-miami-nyc-arrest-protesters-from-facial-recognition-matches/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-1238438366-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Global Facial Recognition Market Forecast 2019-2028"
     excerpt: "KEY FINDINGS The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security,"
     publishedDateTime: 2020-08-20T00:12:00Z
@@ -136,111 +76,35 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global facial recognition company working closely with NZ govt"
-    excerpt: "NEC itself is on the wrong side of a pushback against facial recognition in the US. There, three tech giants Amazon, IBM and Microsoft in June called a halt to supplying the tech to US police in a moratorium over brutality against black people. But NEC ..."
-    publishedDateTime: 2020-08-19T02:46:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/global-facial-recognition-company-working-closely-nz-govt"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDglMkYxOSUyRmZhY2lhbC1yZWNvZ25pdGlvbg=="
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDglMkYxOSUyRmZhY2lhbC1yZWNvZ25pdGlvbg=="
+  - title: "Face masks give facial recognition software an identity crisis"
+    excerpt: "As tech firms scramble to keep up with reality of coronavirus, some experts say users must change"
+    publishedDateTime: 2020-08-21T15:56:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
     type: article
     provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
+      name: The Guardian
+      domain: theguardian.com
     quality: 59
     images:
-      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/08/19/iStock-1188510725.jpg?w=700&h=393.75&fit=crop&auto=format"
-        width: 700
-        height: 394
+      - url: "https://i.guim.co.uk/img/media/524ed0cbf81e6b545d012ff3f8f87d2543595878/337_455_4041_2425/master/4041.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a594db2b31375d731e5f75d01207d70b"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Who thought it was a good idea to have facial recognition foftware?"
-    excerpt: "It’s about time someone asked that question about facial recognition software. It would oblige the developers and users of the technology to explain exactly why they think it’"
-    publishedDateTime: 2020-08-20T13:45:00Z
-    webUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/"
-    ampWebUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/amp/"
-    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/amp/"
+  - title: "Court Grants Facebook Preliminary OK to Settle Facial Recognition Privacy Claims"
+    excerpt: "Facebook Inc. won preliminary approval late on Wednesday from a federal court for settlement of a lawsuit that claimed it illegally collected and stored"
+    publishedDateTime: 2020-08-20T12:10:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/08/20/579687.htm"
     type: article
     provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 59
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 49
     images:
-      - url: "https://www.brookings.edu/wp-content/uploads/2020/08/Facial-recognition-technology-cameras.jpg"
-        width: 5472
-        height: 3648
-        isCached: true
-  - title: "Who thought it was a good idea to have facial recognition software?"
-    excerpt: "It’s about time someone asked that question about facial recognition software. It would oblige the developers and users of the technology to explain exactly why they think it’"
-    publishedDateTime: 2020-08-20T13:45:00Z
-    webUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/"
-    ampWebUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/amp/"
-    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/amp/"
-    type: article
-    provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 59
-    images:
-      - url: "https://www.brookings.edu/wp-content/uploads/2020/08/Facial-recognition-technology-cameras.jpg"
-        width: 5472
-        height: 3648
-        isCached: true
-  - title: "Victory for campaigners in face recognition case is ‘cautionary tale’"
-    excerpt: "Organisations must absorb the lessons of verdict in South Wales Police case, when it comes to the use of AI and automation, argues HR director."
-    publishedDateTime: 2020-08-19T07:54:00Z
-    webUrl: "https://www.personneltoday.com/hr/victory-for-campaigners-in-face-recognition-case-is-cautionary-tale/"
-    type: article
-    provider:
-      name: Personnel Today
-      domain: personneltoday.com
-    quality: 54
-    images:
-      - url: "https://www.personneltoday.com/wp-content/uploads/sites/8/2020/08/shutterstock_676438363.jpg"
-        width: 635
-        height: 357
-        isCached: true
-  - title: "To get skin tones right, Pinterest’s AI went way beyond facial recognition"
-    excerpt: "The company says it can now spot skin tones more accurately in a wider array of images to help more people find looks suitable to them."
-    publishedDateTime: 2020-08-20T17:00:00Z
-    webUrl: "https://www.fastcompany.com/90541395/to-get-skin-tones-right-pinterests-ai-went-way-beyond-facial-recognition?partner=feedburner"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 52
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-pinterest-skin-tone.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "ICYMI: Police Used Facial Recognition in Protester's Arrest, Numbers to Keep Handy for Hurricane Season"
-    excerpt: "Here are some of the top stories from the past week you may have missed from NBC 6 News: Miami Police Used Facial Recognition Technology in Protester's Arrest. Police say Oriana A"
-    publishedDateTime: 2020-08-23T14:08:00Z
-    webUrl: "https://www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/"
-    ampWebUrl: "https://www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/?amp"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/?amp"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 43
-    images:
-      - url: "https://media.nbcmiami.com/2020/08/CLEARVIEW-UPDATE-PHOTO.png?fit=1200%2C662"
-        width: 1200
-        height: 662
-        isCached: true
-  - title: "Global facial recognition company working closely with Government"
-    excerpt: "A major company at the centre of controversies over facial recognition technology in the US and UK is working closely with the Government. Tokyo-based NEC, which has resisted a Black Lives Matter-inspired ban in America, is updating passport systems here ..."
-    publishedDateTime: 2020-08-19T01:46:00Z
-    webUrl: "https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12357892"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 39
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/LPJS9sjmabN3rfygjtobjESobCE=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/NC7R4CQRM5F37CYKZHOTPN5HQE.jpg"
-        width: 1200
-        height: 750
+      - url: "https://www.insurancejournal.com/app/uploads/2020/08/facebook-facial-recognition-image-woman.jpg"
+        width: 600
+        height: 430
         isCached: true
   - title: "Global Facial Recognition Market Forecast 2019-2028"
     excerpt: "The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security ..."
@@ -270,17 +134,6 @@ related:
         width: 2560
         height: 1369
         isCached: true
-  - title: "Global Facial Recognition Company Working Closely With NZ Govt"
-    excerpt: "A major company at the centre of controversies over facial recognition technology in the US and UK is working closely with the New Zealand government. NeoFace can identify up to 1000 \"persons of interest\" per minute in real-time feeds from CCTV cameras."
-    publishedDateTime: 2020-08-22T05:23:00Z
-    webUrl: "https://www.scoop.co.nz/stories/HL2008/S00168/global-facial-recognition-company-working-closely-with-nz-govt.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/HL2008/S00168/global-facial-recognition-company-working-closely-with-nz-govt.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/HL2008/S00168/global-facial-recognition-company-working-closely-with-nz-govt.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 39
   - title: "Violation of Fundamental Rights by using Facial Recognition Technology in Protests"
     excerpt: "Facial Recognition Technology embodies a software that is capable of identifying and authenticating the identity of an individual by recognizing the physical traits of their face. The underlying"
     publishedDateTime: 2020-08-20T03:30:00Z

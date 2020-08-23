@@ -2,39 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-08-18-tensorflow-23-features-pipeline-bottleneck-reduction-and-improved-preprocessing.md",
-      "title": "TensorFlow 2.3 Features Pipeline Bottleneck Reduction and Improved Preprocessing",
-      "excerpt": "The TensorFlow project announced the release of version 2.3.0, featuring new mechanisms for reducing input pipeline bottlenecks, Keras layers for pre-processing, and memory profiling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-17-google-claims-tensorflows-opencl-can-double-inference-performance.md",
       "title": "Google claims TensorFlow’s OpenCL can double inference performance",
       "excerpt": "Google has adopted an OpenCL-based inference backened for TensorFlow on mobile devices, which the company claims delivers a significant speedup.",

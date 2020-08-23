@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Full Transcript of Michelle Obama’s D.N.C. Speech"
-    excerpt: "Michelle Obama, the former first lady, was the keynote speaker on the first night of the 2020 Democratic National Convention."
-    publishedDateTime: 2020-08-19T00:05:00Z
-    webUrl: "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.html"
-    ampWebUrl: "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://static01.nyt.com/images/2020/08/17/autossell/Michelle/Michelle-facebookJumbo.png"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Michelle Obama’s DNC Speech Hid A Secret Lesson For Every Leader (And It’s Only 13-Sentences Long)"
     excerpt: "Michelle Obama’s speech on the opening night of the Democratic National ... the ability to walk in someone else's shoes, the recognition that someone else's experience has value, too. Most of us practice this without a second thought."
     publishedDateTime: 2020-08-20T13:54:00Z
@@ -57,22 +41,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3e7b6012c4c78778bb3bfe%2F0x0.jpg"
         width: 1200
         height: 792
-        isCached: true
-  - title: "Read Michelle Obama's Full Speech from the 2020 Democratic National Convention"
-    excerpt: "Read her full speech below. Good evening ... The ability to walk in someone else's shoes, the recognition that someone else's experience has value, too. Most of us practice this without a second thought. If we see someone suffering or struggling, we ..."
-    publishedDateTime: 2020-08-19T00:08:00Z
-    webUrl: "https://www.harpersbazaar.com/culture/politics/a33627441/michelle-obama-democratic-national-convention-2020/"
-    ampWebUrl: "https://www.harpersbazaar.com/culture/politics/amp33627441/michelle-obama-democratic-national-convention-2020/"
-    cdnAmpWebUrl: "https://www-harpersbazaar-com.cdn.ampproject.org/c/s/www.harpersbazaar.com/culture/politics/amp33627441/michelle-obama-democratic-national-convention-2020/"
-    type: article
-    provider:
-      name: Harper's Bazaar
-      domain: harpersbazaar.com
-    quality: 40
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1266883401.jpg?crop=1.00xw:0.892xh;0,0.0741xh&resize=1200:*"
-        width: 1200
-        height: 602
         isCached: true
   - title: "Michelle Obama's DNC Speech Is a Powerful Example of Emotional Intelligence"
     excerpt: "In return, she provided a speech that was highly effective, compelling, and drew on singular emotional intelligence to drive home her points. Here's a look at how she did it. As you might expect, a lot of harsh things were said about president Donald Trump throughout the evening."

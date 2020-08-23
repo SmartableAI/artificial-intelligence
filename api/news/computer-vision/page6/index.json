@@ -2,6 +2,188 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-25-a-black-man-in-detroit-was-arrested-and-detained-for-30-hours-after-being-falsely-identified-by-facial-recognition.md",
+      "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
+      "excerpt": "Activists have objected to the use of facial recognition by law enforcement for years, as the technology has been shown to display racial bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5d9b1756138e4a2e893e4931?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
+      "publishedDateTime": "2020-06-25T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
+      "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
+      "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-a-flawed-facial-recognition-system-sent-this-man-to-jail.md",
+      "title": "A Flawed Facial Recognition System Sent This Man to Jail",
+      "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 364,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ef3e17c6cd63b0e8be2ce66/master/pass/business_facial-recognition_FXJBF0.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "A Flawed Facial Recognition System Sent This Man to Jail",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp",
+      "publishedDateTime": "2020-06-24T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-boston-bans-police-forces-from-using-facial-recognition.md",
+      "title": "Boston Bans Police Forces From Using Facial Recognition",
+      "excerpt": "It’s official, as of today, Boston’s become the second-largest US community to ban police use of facial recognition technology, thanks to a unanimous vote by more than a dozen city council people. The move follows similar bans by the neighboring cities Brookline,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/vedoqaujncze30yfosyq.jpg",
+          "width": 800,
+          "height": 451,
+          "title": "Boston Bans Police Forces From Using Facial Recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp",
+      "publishedDateTime": "2020-06-24T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-aclu-files-first-formal-complaint-over-wrongful-facial-recognition-arrest.md",
       "title": "ACLU files first formal complaint over wrongful facial recognition arrest",
       "excerpt": "The American Civil Liberties Union (ACLU) has filed a formal complaint against Detroit police over what it says is the first known example of a wrongful arrest caused by faulty facial recognition technology.",

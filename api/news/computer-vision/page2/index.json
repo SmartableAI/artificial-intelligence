@@ -2,6 +2,199 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-07-buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management.md",
+      "title": "Buildots raises $16 million as it brings AI computer vision to construction management",
+      "excerpt": "Buildots, the company bringing AI to construction, today announced that it had secured $16 million in… | Construction | London | Funding | Property | Finance | Technology | Investment |",
+      "sourceUrl": null,
+      "webUrl": "https://bdaily.co.uk/articles/2020/08/07/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdaily.co.uk/images/uploads/B6wjx7IkXyZ2kStUZwl8I2vzzkKwp6O7GW1vifbK.jpeg?w=940&h=430&fit=crop-50-50&s=7f1adf0eacaf6994d1eaccd001885187",
+          "width": 940,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bdaily Business Network",
+        "domain": "bdaily.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis.md",
+      "title": "Researchers discover evidence of gender bias in major computer vision APIs",
+      "excerpt": "Researchers at Wunderman Thompson say they've found evidence of gender bias in major computer vision APIs from Google, IBM, and Microsoft.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/b-e1596722973590.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/amp/",
+      "publishedDateTime": "2020-08-06T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-why-microvision-stock-got-decimated-today.md",
+      "title": "Why MicroVision Stock Got Decimated Today",
+      "excerpt": "The computer vision specialist continues to look for a buyer after it said earlier this year that it was hoping to sell itself. Revenue in the second quarter got cut in half to $600,000 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/08/06/why-microvision-stock-got-decimated-today.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F586521%2Fstock-chart-down-3.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/06/why-microvision-stock-got-decimated-today.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/06/why-microvision-stock-got-decimated-today.aspx",
+      "publishedDateTime": "2020-08-06T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-macys-sued-over-use-of-clearview-facial-recognition-software.md",
+      "title": "Macy’s Sued Over Use of Clearview Facial-Recognition Software",
+      "excerpt": "Macy’s Retail Holdings Inc. was targeted in one of the first lawsuits against users of the controversial facial-recognition software made by startup Clearview AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCjoIH.CSaXQ/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
+      "publishedDateTime": "2020-08-06T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit.md",
       "title": "Google adds Digital Ink Recognition API for touch and stylus input to ML Kit",
       "excerpt": "Google introduced a new API for touch and stylus input to ML Kit, its machine learning development toolkit for Android and iOS.",
@@ -1203,208 +1396,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-coronavirus-masks-make-it-harder-for-facial-recognition-algorithms-to-id-people-study-finds.md",
-      "title": "Coronavirus masks make it harder for facial recognition algorithms to ID people, study finds",
-      "excerpt": "Coronavirus face masks can confuse facial recognition technology, government researchers announced Monday after a preliminary study on the issue. Facial recognition algorithms developed before the outbreak struggle to identify people wearing masks or face coverings,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/Face-recognition-with-mask.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp",
-      "publishedDateTime": "2020-07-28T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-rite-aid-used-facial-recognition-in-hundreds-of-stores-for-years.md",
-      "title": "Rite Aid used facial recognition in hundreds of stores for years",
-      "excerpt": "Rite Aid used facial recognition systems in hundreds of its drugstores across the US over the last several years. According to a Reuters investigation, the technology was deployed in “largely lower-income,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/rite-aid-facial-recognition-reuters-183343353.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 324,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Fa12d9400-d102-11ea-bfff-7e127c0f1c8e&client=amp-blogside-v2&signature=bf9cd9495ada5659af3ce77c89c15cef4d3f7e25",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/rite-aid-facial-recognition-reuters-183343353.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/rite-aid-facial-recognition-reuters-183343353.html",
-      "publishedDateTime": "2020-07-28T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores.md",
-      "title": "Rite Aid deployed facial recognition systems in hundreds of U.S. stores",
-      "excerpt": "Rite Aid quietly added facial recognition systems to 200 stores across the United States over about eight years, in one of the largest rollouts of such technology among retailers in the country ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106635454-15959354852020-07-28t010549z_506450208_rc212i92ohp1_rtrmadp_0_usa-riteaid-software.jpeg?v=1595935517",
-          "width": 3500,
-          "height": 2333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
-      "publishedDateTime": "2020-07-28T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision.md",
-      "title": "NVIDIA, BMW, Red Hat, and more on the promise of AI, edge computing, and computer vision",
-      "excerpt": "The limits of compute power on devices keep getting pushed and computer vision models are becoming faster and more accurate.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-28-at-8.51.01-AM.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/",
-      "publishedDateTime": "2020-07-28T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Computer Vision",
-        "Google AI"
       ]
     }
   ],

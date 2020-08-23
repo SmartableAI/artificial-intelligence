@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Is facial recognition technology finally being seen for the dystopian threat it is?"
-    excerpt: "In the end, even Silicon Valley has had to admit that there is something a bit sinister about facial recognition"
-    publishedDateTime: 2020-08-21T05:25:00Z
-    webUrl: "https://www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/"
-    ampWebUrl: "https://www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/amp/"
+  - title: "BrainChip, Magik Eye working on biometric gesture, object recognition, classification"
+    excerpt: "BrainChip Holdings and Magik Eye are jointly developing a system for object detection, object classification and biometric gesture recognition that leverages Magik Eye’s Invertible Light 3D depth"
+    publishedDateTime: 2020-08-20T18:25:00Z
+    webUrl: "https://www.biometricupdate.com/202008/brainchip-magik-eye-working-on-biometric-gesture-object-recognition-classification"
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 53
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 47
     images:
-      - url: "https://www.cityam.com/wp-content/uploads/2020/08/869082432.jpg"
-        width: 1024
-        height: 651
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/20141355/Brainchip-Akida.jpg"
+        width: 800
+        height: 467
         isCached: true
 
 secured: "4OUIC7tWwv+ngFbduyX5YBZ0ljffvXFx/clZCdVPhN9L10CsqLmc2GfYcD6GQE3vPfBZ1qKv3bFw397wuwkk11FDg6lxAIH1H1OhyAymyBzpsQlJKeearYUYc1OER412PhgNErlnLZtvErs2L2pllfYeq9+LMsRIHxur5EaXfBi5g13dM8kr+QD97Q/gVUgB89fYyhYv1IO10ELmIdfg6TiBYOsv+7Bjg0zfVXVJsoU0CCMt7mH4EZGqVJ52p4Lg4p8Kqt4NPunTkImozSikdiQBTit+Vdwh5hyDLEds1v3DpUNHb5LPpduw6Fc5tTsKdyR+YS+oqOavOnOO7Jhj0A==;FzPRqCiaDa9jBAixnktVUw=="

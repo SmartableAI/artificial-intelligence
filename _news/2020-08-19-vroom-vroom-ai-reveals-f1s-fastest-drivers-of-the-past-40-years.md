@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Official F1 study reveals fastest driver in last 40 years according to machine learning algorithm"
-    excerpt: "The research used AWS's machine learning software to conduct a theoretical qualifying 'lap' which saw Senna come out 0.114s quicker than Schumacher , with six-time champion Hamilton 0.275s back in ..."
-    publishedDateTime: 2020-08-19T00:16:00Z
-    webUrl: "https://wwos.nine.com.au/motorsport/f1-all-time-fastest-driver-study/4a8178b3-0728-4ebb-a024-0c2ab71e8a00"
-    ampWebUrl: "https://amp.nine.com.au/article/4a8178b3-0728-4ebb-a024-0c2ab71e8a00"
-    cdnAmpWebUrl: "https://amp-nine-com-au.cdn.ampproject.org/c/s/amp.nine.com.au/article/4a8178b3-0728-4ebb-a024-0c2ab71e8a00"
-    type: article
-    provider:
-      name: Nine.com.au
-      domain: nine.com.au
-    quality: 26
 
 secured: "BF8aRgKMxPtMyTIVO0NdjGnw7Hto/zNian6cZWO4o1rlHSBQ58V/CuLIfpODWcRbSnK2wzQUL2wS3cwJ83SvXnJp6sJrnMmFrwXNum2XUHykWRMrsnrkMDOHBk49UiUjnwHqamoehLStRD+zpGfljxT1oPn2N3e7XYe/F7l3tDeJpKZJPPah8mDxsx+4ZSjgdLSamdvndjHaRAAvyrhhPJ0IPjjd3eAUsGdCmSxvnpzwXs3uHulyDsCppMTJZfemK/f+1l+cNg9n4jwKCTg6KDmAfzapB6DvHstFfAaPDwU9tJkQdwzGsxUCefT1QlnFsp99/vlsPULfxqPPlD6RGg==;2OZJhDIk5PztpmfbGQEcbw=="
 ---

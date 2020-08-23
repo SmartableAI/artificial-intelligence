@@ -2,33 +2,132 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-08-20-lets-id-the-privacy-and-accuracy-issues-raised-by-facial-recognition.md",
-      "title": "Let's ID the Privacy and Accuracy Issues Raised by Facial Recognition",
-      "excerpt": "PRO's Rob Thompkins covers privacy issues around facial recognition technologies The tremendous benefits of facial recognition technology for law enforcement identification applications have brought with them unparalleled challenges.",
+      "path": "_news/2020-08-20-ibm-uses-ai-to-evaluate-risk-of-developing-genetic-diseases.md",
+      "title": "IBM uses AI to evaluate risk of developing genetic diseases",
+      "excerpt": "In a new Nature Communications study, researchers at IBM, the Broad Institute, and Color find evidence that genetic mutations don't always cause disease.",
       "sourceUrl": null,
-      "webUrl": "https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition",
+      "webUrl": "https://venturebeat.com/2020/08/20/ibm-uses-ai-to-evaluate-risk-of-developing-genetic-diseases/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 74,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://img.officer.com/files/base/cygnus/ofcr/image/2020/07/16x9/GettyImages_1139860049_copy.5f1f2e6319195.png?auto=format&fit=max&w=1200",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/f77d6f41-6a8a-4e8f-bd4b-0be639603669-e1597781187824.png?w=1200&#038;strip=all",
           "width": 1200,
-          "height": 674,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-19T22:11:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2020/08/20/ibm-uses-ai-to-evaluate-risk-of-developing-genetic-diseases/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/ibm-uses-ai-to-evaluate-risk-of-developing-genetic-diseases/amp/",
+      "publishedDateTime": "2020-08-20T02:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Officer",
-        "domain": "officer.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-aws-reveals-first-quantum-computing-partners.md",
+      "title": "AWS reveals first quantum computing partners",
+      "excerpt": "Amazon Web Services (AWS) has announced that it will allow all existing customers to access quantum computers through its cloud service. The quantum computers are early-stage models provided by three technology companies—D-Wave Systems Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/gKk5CXdZ86gaRYtnGWCw2j-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners",
+      "publishedDateTime": "2020-08-20T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-deepracer-womens-league-to-help-women-develop-machine-learning-skills.md",
+      "title": "DeepRacer Women’s League to help women develop machine learning skills",
+      "excerpt": "The Amazon Web Services DeepRacer Women’s League in Southeast Asia aims to give more women the opportunity to develop or fine-tune their machine learning skills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jakpost.net/c/profile/picture/235/235.png",
+          "width": 475,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
+      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
+      "publishedDateTime": "2020-08-20T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jakarta Post",
+        "domain": "thejakartapost.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -38,7 +137,58 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-3-ways-fintech-can-help-you-automate-your-finances-during-covid-19.md",
+      "title": "3 Ways Fintech Can Help You Automate Your Finances During COVID-19",
+      "excerpt": "Even before the bulk of bank branches temporarily closed their brick-and-mortar doors because of the COVID-19 pandemic, a great deal of personal banking was done via click, tap or swipe. Today, demand for digital financial services is going through the roof.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/personal-finance/ways-fintech-can-help-you-automate-your-finances/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbes.com/advisor/wp-content/uploads/2020/07/getty_automate_fintech_081720pm_jpg_wYwcTH6B.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/advisor/personal-finance/ways-fintech-can-help-you-automate-your-finances/?amp",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/personal-finance/ways-fintech-can-help-you-automate-your-finances/?amp",
+      "publishedDateTime": "2020-08-19T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -374,6 +524,48 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-microsofts-new-azure-servers-deliver-powerful-nvidia-a100-ampere-ai-supercomputing-boost.md",
+      "title": "Microsoft's New Azure Servers Deliver Powerful NVIDIA A100 Ampere AI Supercomputing Boost",
+      "excerpt": "Therefore, Microsoft’s Azure is announcing their powerful ND A100 v4 virtual machine series. Each device will be kitted out with eight impressive NVIDIA Ampere A100 Tensor Core GPUs. The ND A100 v4 won’t work alone,",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/52579/content/azure-machine-learning.jpg",
+          "width": 708,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
+      "publishedDateTime": "2020-08-19T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1040,57 +1232,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-19-facebook-and-nyu-langones-jointly-developed-machine-learning-solution-can-accelerate-mris.md",
-      "title": "Facebook and NYU Langone's jointly developed machine learning solution can accelerate MRIs",
-      "excerpt": "Facebook AI Research and NYU Langone released results of a blind test revealing the effectiveness of their AI system to accelerate MRI scans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facebook-nyu-develop-ai-to-accelerate-mri-scans-2020-8",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f3d25c6cdf25a001e84e190?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-19T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-19-adobe-launches-ai-powered-character-animator-features-in-beta.md",
       "title": "Adobe launches AI-powered Character Animator features in beta",
       "excerpt": "The latest beta version of Adobe Character Animator adds AI-powered lip-sync and motion capture tools, as well as revamped timeline features.",
@@ -1285,146 +1426,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting.md",
-      "title": "14 Ways Artificial Intelligence Will Disrupt Job Searches And Recruiting",
-      "excerpt": "With AI being increasingly used in hiring and recruiting, company leaders need to be thinking of how they can effectively utilize it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/08/19/14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3af16974bbc69e4903f35b%2F0x0.jpg",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/08/19/14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/08/19/14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting/amp/",
-      "publishedDateTime": "2020-08-19T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work.md",
-      "title": "Hashtag Trending – Facial recognition in New York; Airbnb at Blockbuster; Swiping right at work",
-      "excerpt": "The New York City Police Department uses facial recognition to find a man who allegedly shouted into a police officer’s ear with a bullhorn, you may soon be able to experience the nostalgia of BlockBuster,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1",
-      "publishedDateTime": "2020-08-19T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-meet-your-post-pandemic-coworker-an-ai-bot.md",
-      "title": "Meet Your Post-Pandemic Coworker: An AI Bot",
-      "excerpt": "Ready to swap your old cube-mate for a disembodied AI? IPsoft CEO Chetan Dube, creator of AI co-worker AMELIA, gives his take on the post-COVID office landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/m/meet-your-/meet-your-post-pandemic-coworker-an-ai-bot_vxzc.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1",
-      "publishedDateTime": "2020-08-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

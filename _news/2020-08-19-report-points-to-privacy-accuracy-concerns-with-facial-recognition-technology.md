@@ -24,33 +24,51 @@ images:
     isCached: true
 
 related:
-  - title: "Let's ID the Privacy and Accuracy Issues Raised by Facial Recognition"
-    excerpt: "PRO's Rob Thompkins covers privacy issues around facial recognition technologies The tremendous benefits of facial recognition technology for law enforcement identification applications have brought with them unparalleled challenges."
-    publishedDateTime: 2020-08-20T05:11:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition"
+  - title: "A New Tool Aims to Protect Protesters From Facial Recognition With Deepfakes"
+    excerpt: "In an era in which facial recognition has made it easy for law enforcement and other organizations to search someone’s identity based on their face alone, the question of when it’s appropriate to share identifiable photos of protesters and activists ..."
+    publishedDateTime: 2020-08-21T19:53:00Z
+    webUrl: "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/"
+    ampWebUrl: "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/"
     type: article
     provider:
-      name: Officer
-      domain: officer.com
-    quality: 54
+      name: Adweek
+      domain: adweek.com
+    quality: 71
     images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2020/07/16x9/GettyImages_1139860049_copy.5f1f2e6319195.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 674
+      - url: "https://www.adweek.com/wp-content/uploads/2020/08/deeepfake-tool-PAGE-2020-640x360.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Court Grants Facebook Preliminary OK to Settle Facial Recognition Privacy Claims"
-    excerpt: "Facebook Inc. won preliminary approval late on Wednesday from a federal court for settlement of a lawsuit that claimed it illegally collected and stored"
-    publishedDateTime: 2020-08-20T12:10:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/08/20/579687.htm"
+  - title: "Cops in Miami, NYC arrest protesters from facial recognition matches"
+    excerpt: "Law enforcement in several cities, including New York and Miami, have reportedly been using controversial facial recognition software to track down and arrest individuals who allegedly participated in criminal activity during Black Lives Matter protests months after the fact."
+    publishedDateTime: 2020-08-19T20:45:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/08/cops-in-miami-nyc-arrest-protesters-from-facial-recognition-matches/"
     type: article
     provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 49
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
     images:
-      - url: "https://www.insurancejournal.com/app/uploads/2020/08/facebook-facial-recognition-image-woman.jpg"
-        width: 600
-        height: 430
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-1238438366-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "ICYMI: Police Used Facial Recognition in Protester's Arrest, Numbers to Keep Handy for Hurricane Season"
+    excerpt: "Here are some of the top stories from the past week you may have missed from NBC 6 News: Miami Police Used Facial Recognition Technology in Protester's Arrest. Police say Oriana A"
+    publishedDateTime: 2020-08-23T14:08:00Z
+    webUrl: "https://www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/"
+    ampWebUrl: "https://www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/?amp"
+    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/?amp"
+    type: article
+    provider:
+      name: NBC 6 South Florida
+      domain: nbcmiami.com
+    quality: 43
+    images:
+      - url: "https://media.nbcmiami.com/2020/08/CLEARVIEW-UPDATE-PHOTO.png?fit=1200%2C662"
+        width: 1200
+        height: 662
         isCached: true
 
 secured: "mE/fncmn0857r403qqqxJ65vtdiIYve6UhWXAGjc88WAQy+Rahg9EsyqM3WBEzxqk1Td8vBH6xH54CleNWn6WySHk2f8+6ONbpT2HXiv8uWZKiGnu3DUcdyfAymUEqK6zrTOJBAS/NJXzouCac31ksolDXcWV4YvuVyvexkmFjTQ0C/kDqNWDuCuzBHxGzXUyW2zREFQExYRvu82uu8hl7cJr25qul4tN+pLmQWblYkM3kBz1G9teDGxuIc2TWIaMAYqL7FSugI22cRencetXIoEtGSdM62CEa/OruPCC0uJQkf/TsHS/WcjrrEZHuW5LMBV7Nuk5Ct26jnpaXL+RA==;dF+mWjtown/FiKCJlbtd3Q=="

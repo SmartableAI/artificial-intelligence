@@ -2,6 +2,221 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-08-17-mits-shared-ebike-transforms-into-a-self-driving-trike.md",
+      "title": "MIT's shared ebike transforms into a self-driving trike",
+      "excerpt": "While bicycle-sharing systems certainly are proving to be popular, they still have a few problems, such as the limited availability of bikes. Researchers at the MIT Media Lab are working on a solution,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/d421d8e/2147483647/strip/true/crop/1400x933+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F34%2F8c%2Fcfe1f5214b99b661aa1355c22aea%2Fautonomous-bike.jpeg.1400x1400.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/?amp=true",
+      "publishedDateTime": "2020-08-17T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-google-claims-tensorflows-opencl-can-double-inference-performance.md",
+      "title": "Google claims TensorFlow’s OpenCL can double inference performance",
+      "excerpt": "Google has adopted an OpenCL-based inference backened for TensorFlow on mobile devices, which the company claims delivers a significant speedup.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/amp/",
+      "publishedDateTime": "2020-08-17T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-artificial-intelligence-breakthrough-could-allow-ai-to-merge-with-human-brain.md",
+      "title": "Artificial Intelligence: Breakthrough could ‘allow AI to merge with human brain’",
+      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) experts believe the discovery of a cutting-edge material could finally achieve ambitions of fusing the human brain with machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news-1323930.jpg?r=1597682083508",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news/amp",
+      "publishedDateTime": "2020-08-17T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-ibm-inks-deal-with-samsung-to-build-its-latest-chip-processor.md",
+      "title": "IBM Inks Deal With Samsung to Build its Latest Chip Processor",
+      "excerpt": "International Business Machines Corporation IBM recently unveiled its latest chip processor — IBM POWER 10 — which will be manufactured by Samsung Electronics. The chip is primarily meant for use across data center operations and will be based on Samsung’s 7-nanometer (nm) process technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ibm-inks-deal-with-samsung-to-build-its-latest-chip-processor-2020-08-17",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-inks-deal-with-samsung-to-build-its-latest-chip-processor-2020-08-17?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-inks-deal-with-samsung-to-build-its-latest-chip-processor-2020-08-17?amp",
+      "publishedDateTime": "2020-08-17T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-microsoft-flight-simulator-is-finally-back-and-the-reviews-are-in.md",
+      "title": "'Microsoft Flight Simulator' is finally back and the reviews are in",
+      "excerpt": "Its latest iteration goes back to the original naming convention of \" Microsoft Flight Simulator ,\" but pretty much everything else about it is shiny and new. The 2020 edition – which is also the first new one since 2014 – gives virtual pilots access to a full planet's worth of skyways.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/microsoft-flight-simulator-2020-review-round-up/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F08%252F17%252F1e%252Ff7bc72f777f345c4a4a60d886b84fc97.35db3.jpg%252F1200x630.jpg?signature=OdciJ1t1j63J4p3v2fK3hwa06YE=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/microsoft-flight-simulator-2020-review-round-up.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-flight-simulator-2020-review-round-up.amp",
+      "publishedDateTime": "2020-08-17T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-the-meatpacking-industry-is-an-incubator-for-ai-automation-and-covid-19.md",
       "title": "The meatpacking industry is an incubator for AI, automation, and COVID-19",
       "excerpt": "As the pandemic stretches on, the threat to meatpacking, meat processing, and distribution center employees has researchers seeking a new production model.",
@@ -1161,230 +1376,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-elon-musk-says-tesla-developing-neural-network-training-computer-for-full-self-driving.md",
-      "title": "Elon Musk Says Tesla Developing Neural Network Training Computer for Full Self-Driving",
-      "excerpt": "With a complete overhaul of the Tesla autopilot software, full self-driving capabilities will be possible as the AI will be able to interpret traffic signals, turns and stops.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.ibtimes.sg/en/full/40282/elon-musk.jpg",
-          "width": 923,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
-      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
-      "publishedDateTime": "2020-08-15T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ellen",
-        "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-controversial-face-recognition-firm-clearview-ai-is-teaming-up-with-ice.md",
-      "title": "Controversial Face Recognition Firm Clearview AI Is Teaming Up With ICE",
-      "excerpt": "In a pairing that has all the makings of a privacy and/or human rights nightmare waiting to happen, the dystopian facial recognition software maker Clearview AI secured an ongoing contract with U.S. Immigration and Customs Enforcement this week.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lvngekwv9r2xiehaguxj.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp",
-      "publishedDateTime": "2020-08-15T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-with-self-driving-tech-was-new-a-road-trip-paved-the-way.md",
-      "title": "With self-driving tech was new, a road trip paved the way",
-      "excerpt": "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.idahostatesman.com/entertainment/article244877067.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.idahostatesman.com/entertainment/article244877067.html",
-      "cdnAmpWebUrl": "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/entertainment/article244877067.html",
-      "publishedDateTime": "2020-08-14T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Idaho Statesman",
-        "domain": "idahostatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-how-the-us-department-of-health-human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek.md",
-      "title": "How The US Department Of Health & Human Services (HHS) Is Innovating With AI: An Interview With Oki Mek",
-      "excerpt": "Oki Mek, Senior Advisor to HHS CIO shares how HHS is adopting and implementing AI, how adoption of new technologies in the public sectors differs from the private sector, and challenges to AI adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2deca07b28103b194d017c%2F0x0.jpg",
-          "width": 450,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/amp/",
-      "publishedDateTime": "2020-08-14T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast.md",
-      "title": "AI In Computer Vision Market Analysis 2020-2023, Growth Rate Evolving Technology, Size, Share, Data Analysis, SWOT Analysis Forecast",
-      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

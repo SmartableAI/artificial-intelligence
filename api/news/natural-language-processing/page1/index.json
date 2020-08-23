@@ -293,6 +293,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-20-michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long.md",
+      "title": "Michelle Obama’s DNC Speech Hid A Secret Lesson For Every Leader (And It’s Only 13-Sentences Long)",
+      "excerpt": "Michelle Obama’s speech on the opening night of the Democratic National ... the ability to walk in someone else's shoes, the recognition that someone else's experience has value, too. Most of us practice this without a second thought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3e7b6012c4c78778bb3bfe%2F0x0.jpg",
+          "width": 1200,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/amp/",
+      "publishedDateTime": "2020-08-20T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-chatbots-are-machine-learning-their-way-to-human-language.md",
       "title": "Chatbots Are Machine Learning Their Way To Human Language",
       "excerpt": "Computers are good at long division, but really bad at knowing whether humans are referring to football divisions, parliamentary division lobbies or long division for mathematics. This is because mathematics is formulaic,",
@@ -1384,38 +1434,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-checkalt-and-composable-analytics-launch-scrypt-ai-data-capture-for-document-processing-and-payments.md",
-      "title": "CheckAlt and Composable Analytics Launch Scrypt, AI Data Capture for Document Processing and Payments",
-      "excerpt": "Recognizing the broad impact of artificial intelligence and machine learning in document processing, CheckAlt has launched",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17014425/checkalt-and-composable-analytics-launch-scrypt-ai-data-capture-for-document-processing-and-paymen",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17014425",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17014425",
-      "publishedDateTime": "2020-08-10T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
