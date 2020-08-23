@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-20T10:34:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-and-new-technologies-research-forecast-to-2026-2020-08-20"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence in Agriculture Market Research Report to 2030 - Growth Opportunities from Developing Countries - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue ..."
-    publishedDateTime: 2020-08-18T16:13:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200818005626/en/Global-Artificial-Intelligence-Agriculture-Market-Research-Report"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200818005626/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "itBefm6ta2Z4bK3raeAVjmVhwe9yBRMMxywviK7NzRftZWAsygBezqaCdLgdNnDp9piYxgHVd7e/JBQUU6KRF5JuII8mR3V2GmbtR4h9QsDKszDEvLsvqahCKaPKv5+NE1f/gKxM1IxDeNA/PYtFI9Z1JZNMQvAzigQbbAvXsZ57PNLDMDLI2FNTR2V2J6qvfg9yLgsyGzaEe/jHyAFvDvAn80RJhX5pGpMy4YKm7Nh/HuoWRGkebEtvuxJWTmIX2bLi00YCNfn2p8og6EAaAM3j1JiXz+wqyL/HV49LJ70Xj7als15mrpSBhmNzExIJHrwYH/5fp4zmfPq9pQxsNg==;Ov+W3xgWDekFWlsHKcVPAw=="

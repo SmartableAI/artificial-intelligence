@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "How machine learning is driving new 'smart' farming projects"
-    excerpt: "Owen Hughes says a PyTorch-based machine learning system is being used to train 'intelligent' farming machines, which could help farmers save valuable resources. Read more: https://zd.net/3g5g6U1"
-    publishedDateTime: 2020-08-18T15:47:00Z
-    webUrl: "https://www.zdnet.com/video/how-machine-learning-is-driving-new-smart-farming-projects/"
+  - title: "Xbox Series X Gets Details On Ray Tracing, Machine Learning, And More In Technical Deep Dive"
+    excerpt: "There are also details on machine learning that could see improved AI, resolution scaling and performance boast. Alongside of that is also more details on the system’s Variable Rate Shading (VRS ..."
+    publishedDateTime: 2020-08-19T01:40:00Z
+    webUrl: "https://gamingbolt.com/xbox-series-x-gets-details-on-ray-tracing-machine-learning-and-more-in-technical-deep-dive"
+    ampWebUrl: "https://gamingbolt.com/xbox-series-x-gets-details-on-ray-tracing-machine-learning-and-more-in-technical-deep-dive/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/xbox-series-x-gets-details-on-ray-tracing-machine-learning-and-more-in-technical-deep-dive/amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
+      name: From Software
+      domain: gamingbolt.com
+    quality: 63
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/08/18/98d3b8f1-e85b-4a80-b8d1-3e1e98d6727b/thumbnail/770x578/d9d427e55bb9c10e44c4830b2a1379fe/20200814-owen-karen-weeds.jpg"
-        width: 770
-        height: 578
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
 
 secured: "rRljpOHLn5Op8h/Gyd/eXh1iaEn7Itmy8o0nbFzmPtBWFBE5lcT9kp2Hii0oUrHHH3bzCOw+HrMRqLesi8bw1IA9dN4RCbpshjr2csXhUOhFdB8ZEWtvcrrh1WHeOYa1L4AB4nXRjA9Hb79kg4yttdj8KqkK8VRu3d3GigszncDahEvVrGAOroRH4uJDYuKaKWB8oTmIQfrnbZhXTUnjBEt2AAJmrcmdGg4e6PdYxlSC25fDo2LQ2QY56ANaYZ1Pzihdh+BVfXF6RVFmhzeqrCcEmgmqW9GoK6ZKp79oEfL1oWFb/izoXPP2zkJgoyCJLD9f9arIbGCIi95BL3C5SjUYSRKUbvFbFjzSvFS/LepIzr4ugWMOO2XRCqnceApy5vHyS6fNpTZiHeD612ORd4XnQdcGasNAjciIYTeOkmogcsSkTPTsnLSJBiCwULwfp+xIi5HO2y0WZbscInxeI1LaUtMia/vb67+YQNW0JRPGAsFIbZLPLov71FR8uIvNMyoXVG8wmRF3HAoiGVzEqQ==;2p+owIqW63m5UFJuYv/0yA=="

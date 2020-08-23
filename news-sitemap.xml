@@ -31,6 +31,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html</loc>
+    <lastmod>2020-08-21T14:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techradar.com/uk/news/heres-the-smallest-aiml-supercomputer-ever</loc>
     <lastmod>2020-08-21T14:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -87,12 +93,6 @@
   <url>
     <loc>https://techcrunch.com/2020/08/21/indian-logistics-saas-startup-fareye-bags-13-million/</loc>
     <lastmod>2020-08-21T09:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis?CMP=Share_AndroidApp_Other</loc>
-    <lastmod>2020-08-21T08:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -343,7 +343,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners</loc>
+    <loc>https://www.techradar.com/in/news/aws-reveals-first-quantum-computing-partners</loc>
     <lastmod>2020-08-20T01:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -381,6 +381,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/</loc>
     <lastmod>2020-08-19T19:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/</loc>
+    <lastmod>2020-08-19T18:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -597,6 +603,12 @@
   <url>
     <loc>https://www.zdnet.com/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/</loc>
     <lastmod>2020-08-18T18:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://gamingbolt.com/xbox-series-x-gets-details-on-ray-tracing-machine-learning-and-more-in-technical-deep-dive</loc>
+    <lastmod>2020-08-18T18:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -951,6 +963,12 @@
   <url>
     <loc>https://www.indiatvnews.com/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774</loc>
     <lastmod>2020-08-17T02:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nature.com/articles/s41598-020-70544-7</loc>
+    <lastmod>2020-08-17T02:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1561,8 +1579,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.adelaidenow.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162</loc>
-    <lastmod>2020-08-12T07:18:00-07:00</lastmod>
+    <loc>https://www.heraldsun.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162</loc>
+    <lastmod>2020-08-12T06:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

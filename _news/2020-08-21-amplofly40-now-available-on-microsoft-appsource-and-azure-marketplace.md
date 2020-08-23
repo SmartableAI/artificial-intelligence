@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-21T21:50:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: WFMZ-TV
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
-    excerpt: "Amplo Global Inc announced today that its AI-powered platform is now available on the Microsoft AppSource and  Microsoft Azure Marketplace – their online stores providing applications and services for use on Azure."
-    publishedDateTime: 2020-08-18T17:00:00Z
-    webUrl: "https://apnews.com/c6dc3fe157382b0b0e9f44cf7627faa7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 69
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Amplo Global Inc: amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
     excerpt: "machine learning and design-led strategy necessary to effectively identify, address and achieve their new normal. Brian Bell, Director at Microsoft's Commercial Marketplace, said, \"On Microsoft Azure Marketplace and AppSource, customers around the world ..."
     publishedDateTime: 2020-08-18T17:12:00Z
@@ -53,6 +39,6 @@ related:
         height: 220
         isCached: true
 
-secured: "lGIlwXwhW+dkh03BV0YAVXHyh8QLZ5cGdedgBASToiCYUDRrhf8dyruxrmbHRa7u4DqOZPclROOf5hX++mPXGzpHOGCCr7M7jR2UlSMDI+iLyhurtE3Ybwa8H1WIqdOnvHWNvyOyl2oyujmLJoIZ0+Z7OHROcSGySFD0B8GyIz3lXoG65MC1vy7hQM4xDwx4yNftT1XKC4X7+TuJuXU0SDFDbpn/ShBZzVVbo1AjYvLYsGc/uyu9he12X5ZwyBgKWMVivKckKZ0QTihbJjS2wGAp1j9Lnwnvb4KZJMvZGToRWLzXQdCZ2V9zbIK73q6sxDsmskgzNoYjgBQuHvecjg==;nFZN/QbpnZE1XrzMdV0IBA=="
+secured: "zNQGhdqncOL8WmMMskzd2OYBzsX+ifD9xMoGIoqVyhCPwaGu4JVYEJCcSVzFdf/RXTV9DEZXHx4Is9nZNaoV++NrX8NOmbGzUot3Rv9J6eW/Kte8I5c3SAJkdmPAJUrPY/G+sX2bvjXY6CJER5kr42ZUddggboE6D1IVgeFCz7VxGV60xqgLA1NgpTplZulfZkMWehGJtyLrjO0jONUqYfSlfOkw2g7FgjnxmEcNTMGvCrXcilBVTpeStF6umFWOLo2ZBvR379h03aZgcc74BN8gBp4/iKt7aUE8WILreA/rrS4UoMuJ44KdOWGWvHUeIod1VF7m1adSYzDRWWr0gw76QqEHzVJ1jMqkFvo0dPln9Zkd5V2tRpWb+7jdv26TazssOWUmYacEsY9jys3sSi4P5PgJ/UDYOz58DYMMNk7fP+7Iu0tk2xNxhU4y8Tj0LG2f9UVNUZakdkKOWX35isUozAF/gj3MzTBoreEzfzPHY71Bkekw7yCjeuUh54IzQ+xkN5vHC+Jk8HqH768Rkw==;UcMN9jW+kKIS7pgTdhPeIg=="
 ---
 

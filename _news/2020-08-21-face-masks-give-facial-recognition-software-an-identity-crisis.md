@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/21/face-masks-give-f
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Guardian
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "NYC to ‘Reassess’ Police Facial Recognition Software After Raid on BLM Activist"
-    excerpt: "Ingram echoed the same sentiment as he spoke to the Gothamist following the police siege, saying, “We’re being specifically targeted with this [facial recognition] technology because of what ..."
-    publishedDateTime: 2020-08-18T15:11:00Z
-    webUrl: "https://thecrimereport.org/2020/08/18/nyc-to-reassess-police-facial-recognition-software-after-raid-on-blm-activist/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 50
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2020/08/Screen-Shot-2020-08-18-at-10.49.37-AM-1170x803.png"
-        width: 1170
-        height: 803
-        isCached: true
   - title: "Study Finds Face Coverings Reduce Accuracy of Facial Recognition Technology"
     excerpt: "Even the best of the 89 commercial facial recognition algorithms tested had error rates between 5% and 50% in matching digitally applied face masks with photos of the same person without a mask, according to NIST."
     publishedDateTime: 2020-08-19T09:43:00Z
@@ -59,6 +45,6 @@ related:
         height: 1709
         isCached: true
 
-secured: "J6VZbWg4ONVaxHA9HqutfBRJ0ZOD29HjFB59aWrtziuN42NL/0rttUBm9ASEHbLggYFsVZe58ELIGoPP8nAUXYl3qpyDEy8wv9Jo1k4bTyYtO6LWpvSEzkMZD6fyYmr5/Rkq5Ux6fpxCsQemf++7tvaV5ryVQdFCDD+OObxbnuaFPwPdyQta4BYFh0pWj33FCVeXyunCoUTm4YAkMTgiyHS6mrGOwZkw3f+bMrJwhkqpx1LJD0xDgSCK0yffpqZHuflO17HhbYZuht6F+vMLNi6h+RQ+XUTpgxaIyMiuxvHGRV6kkOgGmcf2an0sV5MulT/4/47SvnYkKlMZcgwt9A==;zYNt9b6CnpfjllwgGWbi+Q=="
+secured: "9wdoSsDC5D7DF+kJSu4dj2NwTh5JOjOP5xlD4BFRPeIPrF1vl13+GPYOvNsk6xuIPYB2GLzUaUz2bqhduKx4vw9qpTj4pkE7CKL3prJ8TRQkVTc5h2hK5Al1Ua9u6OgPoiMOTZ631NzDnqk5xGycH0RWV/S5csX5A6OeJzNmacnyzdFYEtBGiANy+ErEeq+FSJgUi6G2wRFVu+tMz4ClnJXEFhrS/JALwcmel0ENtL4y1+Ios2EAb8bSxGGK6gt1ZdkpSojcyCQwfMJu66d63jvmVm5rRrEUK6thCNXoGoKCX28KfzLo0nh/qiZIWZK6P2agBbmoNQD0+ErMupySVfM17iY5DS6Cq+TyxozbuzqgxPHKwuxHf1cjw2qaWDKCkM8LflODmLXFSQOhRHPXm1/Cazju55/BLZjb/qSmdL9nNvZiHZiEaYmB51iToNgBw1TNv1KWtduRYYhgOdswfuB45d8eA7SO4KUD9A4I+kKtbgZSjLpEOB+bTyp0a+1u;mFhJiL7gbC3pj01SxPeSPw=="
 ---
 

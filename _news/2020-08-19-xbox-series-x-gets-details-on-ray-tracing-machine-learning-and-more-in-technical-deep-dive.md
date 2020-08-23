@@ -8,8 +8,8 @@ ampWebUrl: "https://gamingbolt.com/xbox-series-x-gets-details-on-ray-tracing-mac
 cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/xbox-series-x-gets-details-on-ray-tracing-machine-learning-and-more-in-technical-deep-dive/amp"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: From Software
@@ -24,6 +24,24 @@ images:
     width: 735
     height: 552
     isCached: true
+
+related:
+  - title: "Using Deep Learning For Nuanced Marketing Strategies After COVID-19"
+    excerpt: "However, there are ways that businesses can use big data and machine learning to stay afloat during this crisis. They may want to explore the benefits of deep learning to improve their marketing during and after the pandemic. Deep Learning Will Be Crucial ..."
+    publishedDateTime: 2020-08-18T17:33:00Z
+    webUrl: "https://www.smartdatacollective.com/using-deep-learning-for-nuanced-marketing-strategies-after-covid-19/"
+    ampWebUrl: "https://www.smartdatacollective.com/using-deep-learning-for-nuanced-marketing-strategies-after-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/using-deep-learning-for-nuanced-marketing-strategies-after-covid-19/amp/"
+    type: article
+    provider:
+      name: SmartData Collective
+      domain: smartdatacollective.com
+    quality: 59
+    images:
+      - url: "https://www.smartdatacollective.com/wp-content/uploads/2020/08/deep-learning-with-marketing-strategy.jpg"
+        width: 1000
+        height: 577
+        isCached: true
 
 secured: "9dahr/8HsVQgLmqLBb9gi7yaY2OuLmS4KDoR7U3s/KPfl4lpS0n0z6wFIa5Vxa9ZGDZpysvT4Sz/JTq8Lk8UhqcREPZ10ADpTJFx1/p7qORv8NUTpk8Ox5E3XmWNeUM3/WNazxkw+peKJ1nQPWsTZEsNzciMOHEk21WiJzixI4Xt+ZfBnPQKkOzVg2AgpTbrcWld6L/Qg3gFryRQcTuwRoSu2woGM3S3KJT0ZJ65+NCOwjcynCNSMCpfKgjW450A1dLQMkID7Zfs5sKIOAnABpB2ey4NIbKdnCyb/3TzwfNsNfPHEra84svqf85/AjkYb1deehs5yDzjRpeVlUi0cLHqNXyu7h3kjp1O3Wmc5sHmSl6PX1QzwG3ZcTmBhheq4q2dKWx54Ga1WMsFz5KN487KlAI49pJUaXJIeRWk9g/jcrR5Z77uVnxNb6wq3RAKs5brU4khtNFx34FBUDCnt2riCcns53U4fBvnHgD3aO1vxbcpMS43Yu6EHVssKCZAap6Eetwvt0qYyGPeL40X8A==;zUG374aONhALQep0CdbtbQ=="
 ---

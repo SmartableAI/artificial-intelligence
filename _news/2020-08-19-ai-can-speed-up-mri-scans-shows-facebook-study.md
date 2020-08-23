@@ -50,29 +50,6 @@ related:
         width: 718
         height: 404
         isCached: true
-  - title: "An AI built by Facebook could drastically speed up MRI scans"
-    excerpt: "An AI system, built by researchers at Facebook and NYU Langone, can produce MRI scans with only a quarter of the data normally required, which could speed up the scanning process"
-    publishedDateTime: 2020-08-18T15:32:00Z
-    webUrl: "https://www.newscientist.com/article/2252012-an-ai-built-by-facebook-could-drastically-speed-up-mri-scans/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2020/08/17134718/ai_blog_fastmri_desktop_web.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI can speed up MRI scans, shows Facebook study"
-    excerpt: "The fastMRI research team removed roughly three ... AI model did not just look like generic MRIs; the AI-generated images matched the ground truth image created by the standard slow MRI process, Facebook said. The study showed that fastMRI can generate ..."
-    publishedDateTime: 2020-08-18T16:37:00Z
-    webUrl: "https://www.sify.com/finance/ai-can-speed-up-mri-scans-shows-facebook-study-news-topnews-uisq5fdaacjcc.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
 
 secured: "1UPmGgydoHubk7fcmYM9kHOIVgjdKwA7S4jj8+yVrfFA/9p2qag1p/T15CXB6xACKx5hh5GyTp0wGkBVLVJ6FAb1ZYiO7CzG0ttCGR+OFiP1VIx2HQ7IrvWEGt/IIqdPqPx/mxEwn1aIvgFylHDLPXS+wAB4m7O4oX+e3ODgIF6GCN6xNpLi284TUjRnAMslOWhzAmJCmgp0lo0OLFZOn9YTNSYUYh85yj4srFYoAC9wpSbSTN6l1I1hVfkp1I1TOQ4Fusg0uSp9UCOl1J/I6qpz32yC5TwuqlxmUH9mNNyCT+XTeD4bkmtnCw7G95J7/pXkZ3tuK9QLLTuBVeTjDg==;45F21JnTInaxRgYwwHzXBQ=="
 ---

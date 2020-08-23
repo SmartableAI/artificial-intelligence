@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 792
         isCached: true
-  - title: "Read: Michelle Obama’s full speech from the 2020 Democratic National Convention"
-    excerpt: "Former first lady Michelle Obama delivered a straight-forward, taped speech at the Democratic National Convention ... The ability to walk in someone else's shoes; the recognition that someone else's experience has value, too. Most of us practice this ..."
-    publishedDateTime: 2020-08-18T15:48:00Z
-    webUrl: "https://www.ksat.com/news/national/2020/08/18/read-michelle-obamas-full-speech-from-the-2020-democratic-national-convention/"
-    ampWebUrl: "https://www.ksat.com/news/national/2020/08/18/read-michelle-obamas-full-speech-from-the-2020-democratic-national-convention/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/national/2020/08/18/read-michelle-obamas-full-speech-from-the-2020-democratic-national-convention/?outputType=amp"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 40
-    images:
-      - url: "https://www.ksat.com/resizer/3Lsc5rwtSoaUAh5CKttK_9ZLDYU=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/08-18-2020/t_cf7dcfcd0c394908938e215a26fee9bb_name_image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Read Michelle Obama's Full Speech from the 2020 Democratic National Convention"
     excerpt: "Read her full speech below. Good evening ... The ability to walk in someone else's shoes, the recognition that someone else's experience has value, too. Most of us practice this without a second thought. If we see someone suffering or struggling, we ..."
     publishedDateTime: 2020-08-19T00:08:00Z
@@ -104,33 +88,6 @@ related:
         width: 2811
         height: 1582
         isCached: true
-  - title: "‘VOTE’ necklace by L.A.-based jeweler tops Google search during Michelle Obama’s DNC speech"
-    excerpt: "The opportunity to have Obama select a piece from a less well-known fashion line often means instant global recognition for the designer. Many iconic looks worn by Obama sell out, sometimes within ..."
-    publishedDateTime: 2020-08-18T16:54:00Z
-    webUrl: "https://ktla.com/news/local-news/vote-necklace-by-l-a-based-jeweler-tops-google-search-during-michelle-obamas-dnc-speech/"
-    ampWebUrl: "https://ktla.com/news/local-news/vote-necklace-by-l-a-based-jeweler-tops-google-search-during-michelle-obamas-dnc-speech/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/vote-necklace-by-l-a-based-jeweler-tops-google-search-during-michelle-obamas-dnc-speech/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 34
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/08/GettyImages-1266882695.jpg"
-        width: 5120
-        height: 2880
-        isCached: true
-  - title: "Michelle Obama's DNC speech: read it in full"
-    excerpt: "Empathy: that’s something I’ve been thinking a lot about lately. The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
-    publishedDateTime: 2020-08-18T15:52:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/aug/18/michelle-obama-dnc-speech-full-transcript"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/aug/18/michelle-obama-dnc-speech-full-transcript"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/aug/18/michelle-obama-dnc-speech-full-transcript"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 24
   - title: "Michelle Obama's DNC Speech Is a Powerful Example of Emotional Intelligence"
     excerpt: "In return, she provided a speech that was highly effective, compelling, and drew on singular emotional intelligence to drive home her points. Here's a look at how she did it. As you might expect, a lot of harsh things were said about president Donald Trump throughout the evening."
     publishedDateTime: 2020-08-19T21:54:00Z
