@@ -15,11 +15,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.dailysecu.com/news/photo/202008/112541_132317_5753.jpg"
+  - url: "https://www.dailysecu.com/news/photo/202008/112605_132406_3440.jpg"
     width: 600
-    height: 211
+    height: 400
     isCached: true
 
-secured: "NJaTmSkPAG6DmFy1rRaWvt71yR8r7d0Jyqeg+q02wvEMzoCoYTS1g1NBIUd1fTb6N035CjiyKKMDi3zNEdf3jelbAtzqdQU8w8KJyOI1YMou0g4PKOnSVgJlOq/eGqbWgSW+bDMHCrHmS+oWWJ7AXPleXfJMD88vhN77qCUDbNLpilwKxuriv7IjMznlVdMDUPo+m9nZGql93A/Mzq5JlHImDoxWdEK5/LhmmTZmJoRks5SCN+I15sTaLoWsvVGCkor2e8eTlJfTTYWbqJikHql0klRzMRfWLJ6caQEOLAIpDO5LWwD3ngO2pjttLM8RL42yycONU6CeBr8wEGFKaA==;XHFyxT7qLjedo4tI+II/pw=="
+secured: "FzvFKYSgiHod3dnT5hXEHpHO4r4Cts3a02LOMpQQ76HzZ/0acikibwrrtf1lctgifXw5tEETz4RkJUeFJTCiW2D8C+SizdEm65p6+EaR7dFp+Ka+jdtHFSJ7RxEpeno76vSafRnwgRJnjJBfyhAUFQGsaOUEV43RL+yienwa/Q/GIPeZBma97iRa46oUVtVY4InwRw6pDv7KjhoxrR6X6/4JDZ1zkQ61eHWwGMR9kpyX6IlWp37id79fcEDYSGolZPJZgiD7ACy3BMbhO6lzX4FQ97Gdixytv1BRc8jy211YcIhp+OLIg4ASu8IbgmQVBwvjwRhcu+ZZ3WhMnNKV2Q==;RSZu+vfDdxYWVOGD7mEKRw=="
 ---
 

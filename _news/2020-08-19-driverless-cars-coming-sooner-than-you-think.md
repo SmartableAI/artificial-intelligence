@@ -42,20 +42,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Driverless car firm in Oxford analysing drivers' behaviour"
-    excerpt: "Five AI was launched in 2016 by serial entrepreneur Stan Boland, and is currently testing its driverless car technology in London after receiving the single largest investment into an artificial intelligence business from the UK government. The company ..."
-    publishedDateTime: 2020-08-18T21:15:00Z
-    webUrl: "https://www.oxfordmail.co.uk/business/news/17296060.driverless-car-firm-oxford-analysing-drivers-behaviour/"
-    type: article
-    provider:
-      name: Oxford Mail
-      domain: oxfordmail.co.uk
-    quality: 39
-    images:
-      - url: "https://www.oxfordmail.co.uk/resources/images/9171560/"
-        width: 2400
-        height: 1800
-        isCached: true
 
 secured: "gB7xm/gL0bopFUUzkzYPCaAah8pXx8dfjpWKbeJQyYu0a45f3qVs/4foigBiBVsg/jonuRef0JQB5kpFeSq0bs6LDKoYLu3SFChsBQhZczIO4HW79H8n4HAyNeVponkLnjnG7Q3fI3KFZwnmPJrqSgitAg+6lJeJoh8fRe4qqxEWV3ZecJzNY6GswG3Yg2wh1uxHlIeUGtgqOq+Icm6MlWQm0f4mT10ggUpPbZesoDcjVqJMdf68DQs+6eGq/tLwViBsF80FhtmmC80MdOsZ4YT2CPW2LWirL+D57sJ6gBbCp0J09/LVKhA+PGzqXP6+47g5gfAq9Q4D4qhSbQ/cfZ2X/3ce1wejP0ldc1xc/DcDKb0UWvXOMKcnC+50linLAdxkovYA9GRlX2hqW+RYQnmEMPkGwhxP6ky7mlYNtUW0+PlBu+6z+Ao3Saa9ltEaQyIRDGh6flcasvn/xDGiWhsgVqVKHXHaSvoEFLoinfS/cX8j3G1QYznYdgEeGb0T;XDcXnqQVpvKi5F/9JW5pbA=="
 ---

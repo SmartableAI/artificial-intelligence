@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-se
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
 type: article
 quality: 89
-heat: 279
+heat: 289
 published: true
 
 provider:
@@ -211,6 +211,22 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-pinterest-skin-tone.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "ICYMI: Police Used Facial Recognition in Protester's Arrest, Numbers to Keep Handy for Hurricane Season"
+    excerpt: "Here are some of the top stories from the past week you may have missed from NBC 6 News: Miami Police Used Facial Recognition Technology in Protester's Arrest. Police say Oriana A"
+    publishedDateTime: 2020-08-23T14:08:00Z
+    webUrl: "https://www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/"
+    ampWebUrl: "https://www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/?amp"
+    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/?amp"
+    type: article
+    provider:
+      name: NBC 6 South Florida
+      domain: nbcmiami.com
+    quality: 43
+    images:
+      - url: "https://media.nbcmiami.com/2020/08/CLEARVIEW-UPDATE-PHOTO.png?fit=1200%2C662"
+        width: 1200
+        height: 662
         isCached: true
   - title: "Global facial recognition company working closely with Government"
     excerpt: "A major company at the centre of controversies over facial recognition technology in the US and UK is working closely with the Government. Tokyo-based NEC, which has resisted a Black Lives Matter-inspired ban in America, is updating passport systems here ..."

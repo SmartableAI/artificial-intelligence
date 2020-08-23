@@ -8,8 +8,8 @@ ampWebUrl: "https://news.sky.com/story/amp/are-driverless-cars-coming-to-british
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/are-driverless-cars-coming-to-british-roads-12052661"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Sky
@@ -41,20 +41,6 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/cars/2020/08/21/0820_driverless_carsmedium_lead_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7PSsAIeVWg5VsMggdZY7tkY.jpg"
         width: 2879
         height: 1799
-        isCached: true
-  - title: "Driverless car firm in Oxford analysing drivers' behaviour"
-    excerpt: "Five AI was launched in 2016 by serial entrepreneur Stan Boland, and is currently testing its driverless car technology in London after receiving the single largest investment into an artificial intelligence business from the UK government. The company ..."
-    publishedDateTime: 2020-08-18T21:15:00Z
-    webUrl: "https://www.oxfordmail.co.uk/business/news/17296060.driverless-car-firm-oxford-analysing-drivers-behaviour/"
-    type: article
-    provider:
-      name: Oxford Mail
-      domain: oxfordmail.co.uk
-    quality: 39
-    images:
-      - url: "https://www.oxfordmail.co.uk/resources/images/9171560/"
-        width: 2400
-        height: 1800
         isCached: true
 
 secured: "43niWCI+ueAz6WwuXAMdOMjifeo15/PjIH1xQfcbj7Xl33bPAzo3iu6GqGV4DlI3NLWMc/LvF3AeQ7PZgwcdJj3nR5yfLMyL8j2bOPqsZjZhJ01OktsbF6LNUGUUayEvay8ioJ2u1LC4w7W2ImQFDzezOaZ9knZZ94LlZMQ7risdWoj/97/rd4hHrZA31EMINezJVAn+optvFcz3mwPz+DH+ulRfe4pJxADSrw33pjQWUlUbJK55YuA11YNEatRDM/Z3WgsL2hPSOOijPVdpsSkzeDZWdRbMQ5dDtT+F1T4cKFVOltVxQoNT71/n9Kxb1NbN+dGJXuxlJ9zLVHc1orh/U4b5tn4JC1GSDZAsLWGtWalIwjzbEpJmeXPz+NM32Vf/a9Knp1pSAms0aJcmMd5M3wLJ5qE9rP4R5xLUVFIvgyOH44TNQPRV/PB/mKOCifueSwjrcDKGG40pd1bLGhbLVSXsMH9OrVg6gwoNlgCPKRDAd046vsTqrimTxFwSpBKCbzaJqXvuWL2SJyEM3w==;YgqIGGsgDOltYuJbgFy/LA=="

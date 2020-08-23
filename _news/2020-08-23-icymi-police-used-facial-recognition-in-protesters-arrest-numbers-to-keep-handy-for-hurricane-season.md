@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Court ruling paves the way for Facebook to settle its facial recognition lawsuit"
-excerpt: "A judge gave Facebook preliminary approval to settle its Illinois facial recogntion lawsuit that was filed under the Biometric Information Privacy Act."
-publishedDateTime: 2020-08-20T20:15:00Z
-webUrl: "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/"
-ampWebUrl: "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/"
+title: "ICYMI: Police Used Facial Recognition in Protester's Arrest, Numbers to Keep Handy for Hurricane Season"
+excerpt: "Here are some of the top stories from the past week you may have missed from NBC 6 News: Miami Police Used Facial Recognition Technology in Protester's Arrest. Police say Oriana A"
+publishedDateTime: 2020-08-23T14:08:00Z
+webUrl: "https://www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/"
+ampWebUrl: "https://www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/?amp"
+cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/?amp"
 type: article
-quality: 84
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC 6 South Florida
+  domain: nbcmiami.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&#038;strip=all"
+  - url: "https://media.nbcmiami.com/2020/08/CLEARVIEW-UPDATE-PHOTO.png?fit=1200%2C662"
     width: 1200
-    height: 600
+    height: 662
     isCached: true
 
 related:
@@ -77,6 +73,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200820&t=2&i=1530292134&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7J04P"
         width: 893
         height: 545
+        isCached: true
+  - title: "Court ruling paves the way for Facebook to settle its facial recognition lawsuit"
+    excerpt: "A judge gave Facebook preliminary approval to settle its Illinois facial recogntion lawsuit that was filed under the Biometric Information Privacy Act."
+    publishedDateTime: 2020-08-20T20:15:00Z
+    webUrl: "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/"
+    ampWebUrl: "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Facial Recognition market - What Are The Main Factors That Contributing Towards Industry Growth?"
     excerpt: "Facial Recognition is a biometric application which captures image of an individual and identify it by applying"
@@ -212,22 +224,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "ICYMI: Police Used Facial Recognition in Protester's Arrest, Numbers to Keep Handy for Hurricane Season"
-    excerpt: "Here are some of the top stories from the past week you may have missed from NBC 6 News: Miami Police Used Facial Recognition Technology in Protester's Arrest. Police say Oriana A"
-    publishedDateTime: 2020-08-23T14:08:00Z
-    webUrl: "https://www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/"
-    ampWebUrl: "https://www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/?amp"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/?amp"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 43
-    images:
-      - url: "https://media.nbcmiami.com/2020/08/CLEARVIEW-UPDATE-PHOTO.png?fit=1200%2C662"
-        width: 1200
-        height: 662
-        isCached: true
   - title: "Global facial recognition company working closely with Government"
     excerpt: "A major company at the centre of controversies over facial recognition technology in the US and UK is working closely with the Government. Tokyo-based NEC, which has resisted a Black Lives Matter-inspired ban in America, is updating passport systems here ..."
     publishedDateTime: 2020-08-19T01:46:00Z
@@ -314,6 +310,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "m4UymG7oNQREU0BlCpYKpCZ0h6D+GuanC8r7nKeJNJ99+LF0kcgXQ12HYtU1qDojXXsiwy4UDhbX2qiE116QKwxG9nGqGVi2HKolvgUR3n670PTCvE3G4EjC0hJNrCmJop0lMndv/lR/A8nhaeJfkvGJVkXt2AfXdeePIwlExt4INPNFGOk+GU+YQkNgWlsuKdAb+T5RRUt86wJjdaIxg6R4125q3kRRYF1yMAZhSJmhNq3GPOzgxpANk0d2cCDIOJBfMWYQzEi7v/FRALLJE7MSV3pduumcwWlTj+aYV2NGbVv0y8+RlqjeXW7Ke6QluTClA+33M2JRyMhjzWwBke7Ydw73/Ez4XIsiGigJ7TaS7aGsLaCd4ioXEot7gMQQxDvrIB47OXruNahbgBTPq5QRMMndqNf49ODi1NUsEraNFjTj+kwIMdgpH5ct6epDhjP474vD3KDh6fbih8OdqoeO7MVZyxt2BtK0fBdC2KGoodv3T6QJe2dCOb1sbrQeapWZ3UvKo05jXmGsq0Mu6g==;49S/AzUYW3Zssf9B70DAmw=="
+secured: "AC38yGyF7tHvQRC7ASYpsqXRgKkHM7l9NJ8zQGAcdHPLf/WDcwYJKeDDHoM7krLyFPb+YzDnfjm6isO6GhudWkxzElPX6OQyhtCpKD2Rh5yBJbeuy5SBzg3pVTgx5s4Mc+WoZuMzRlbrIA4dJe5vws+Ek4K1SecIZr3nZnR+aj32Mm//kLWCa94hbDDw8l2Y+x6yi+exDA8yhIbTJtgu5kkoHFYEqDeNyRcG24sRhZY77foJHG40PLzDFXphdAOWgqDu2Rdk8gUclM7h9g43MUnwG+7ct8gD8WNeBXswntzm6d9Qw96Os3tuPVFB8p3BSzuxayaXRVuwBYlOieYo2g==;yeXZ6jttLsNls44XGuGayw=="
 ---
 
