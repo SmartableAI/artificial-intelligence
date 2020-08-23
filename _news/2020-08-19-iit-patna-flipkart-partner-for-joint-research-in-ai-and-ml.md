@@ -34,22 +34,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "IIT Patna ties up with Flipkart for joint research in artificial intelligence"
-    excerpt: "NEW DELHI: Walmart-owned e-commerce major Flipkart today announced an MoU with IIT Patna to help create industry focused applied research in the areas of Artificial Intelligence (AI), Natural Language Processing (NLP) and Machine Learning (ML). The ..."
-    publishedDateTime: 2020-08-18T07:05:00Z
-    webUrl: "https://www.livemint.com/companies/news/iit-patna-ties-up-with-flipkart-for-joint-research-in-artificial-intelligence-11597732603522.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/iit-patna-ties-up-with-flipkart-for-joint-research-in-artificial-intelligence/amp-11597732603522.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/iit-patna-ties-up-with-flipkart-for-joint-research-in-artificial-intelligence/amp-11597732603522.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 54
-    images:
-      - url: "https://images.livemint.com/img/2020/08/18/600x338/oped1-kC7G--621x414@LiveMint_1597733354727.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Flipkart enters into academic collaboration with IIT Patna"
     excerpt: "The MoU of Flipkart with IIT Patna will focus on applied research in the areas of Artificial Intelligence (AI), Natural Language ... largely on machine translation of languages."
     publishedDateTime: 2020-08-18T10:15:00Z

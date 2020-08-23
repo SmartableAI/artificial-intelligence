@@ -2,6 +2,187 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2020-06-25-ai-is-vital-to-cybersecurity-during-covid-19-dont-underestimate-risks.md",
+      "title": "AI Is Vital To Cybersecurity During COVID-19: Don’t Underestimate Risks",
+      "excerpt": "The importance of cybersecurity during COVID-19 is not to be underestimated. AI, or artificial intelligence, plays a key role in this issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/ai-is-vital-to-cybersecurity-during-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/06/shutterstock_619615334.jpg",
+          "width": 1000,
+          "height": 714,
+          "title": "AI Is Vital To Cybersecurity During COVID-19: Don’t Underestimate Risks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/ai-is-vital-to-cybersecurity-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/ai-is-vital-to-cybersecurity-during-covid-19/amp/",
+      "publishedDateTime": "2020-06-25T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-cambricon-once-huaweis-core-ai-chip-supplier-eyes-400m-ipo.md",
+      "title": "Cambricon, once Huawei’s core AI chip supplier, eyes $400M IPO",
+      "excerpt": "One of China’s most valuable artificial intelligence chipmakers, Cambricon, is one step closer to its initial public offering, and its prospectus reveals a rare snapshot of where Chinese companies stand in relation to their international counterparts in this critical field.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/06/24/chip-cambricon-ipo/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/cambricon-.jpg?w=720",
+          "width": 720,
+          "height": 360,
+          "title": "Cambricon, once Huawei’s core AI chip supplier, eyes $400M IPO",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/24/chip-cambricon-ipo/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/24/chip-cambricon-ipo/amp/",
+      "publishedDateTime": "2020-06-25T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity.md",
+      "title": "Inclusive AI: Are AI hiring tools hurting corporate diversity?",
+      "excerpt": "More companies are using AI hiring tools in the hiring process to pinpoint premium candidates. But potential biases in these technologies have raised ethical concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/06/25/93e5c41c-e9fb-4d75-a0da-9f14f5a5d5d3/resize/1200x/42e74b2fc02c29579b0ebee6d0ae7060/jovanmandic.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Inclusive AI: Are AI hiring tools hurting corporate diversity?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/",
+      "publishedDateTime": "2020-06-25T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-variation-in-natural-speech-is-challenging-for-dyslexic-adults.md",
+      "title": "Variation in natural speech is challenging for dyslexic adults",
+      "excerpt": "A new study brings neural-level evidence that the continuous variation in natural speech makes the discrimination of phonemes challenging for adults suffering from developmental reading-deficit dyslexia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20200625/Variation-in-natural-speech-is-challenging-for-dyslexic-adults.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200625/Variation-in-natural-speech-is-challenging-for-dyslexic-adults.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200625/Variation-in-natural-speech-is-challenging-for-dyslexic-adults.aspx",
+      "publishedDateTime": "2020-06-25T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-voice-ai-is-coming-to-the-workplace-loud-and-clear.md",
       "title": "Voice + AI Is Coming To The Workplace Loud And Clear",
       "excerpt": "While many of us have grown to rely on voice-based devices in our personal lives, our professional lives have yet to leverage the power of voice and AI, until now.",
@@ -964,206 +1145,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-gpu-market-to-reach-10360-bn-globally-by-2026-at-30-cagr.md",
-      "title": "GPU Market to Reach $103.60 Bn, Globally by 2026 at 30% CAGR",
-      "excerpt": "The global GPU Market size is expected to reach USD 103.60 billion by 2026, at a significant growth rate of 30 % during the forecasted period from 2020 to 2026. The market report provides an analysis of the global GPU Market for the period 2015-2026,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-market-to-reach-10360-bn-globally-by-2026-at-30-cagr-2020-06-25",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "GPU Market to Reach $103.60 Bn, Globally by 2026 at 30% CAGR",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-ai-is-now-a-c-suite-imperative.md",
-      "title": "AI is now a C-suite imperative",
-      "excerpt": "Machines can work at infinitely higher speed and the pressure on the C-suite has never been higher. Now the execs are turning to AI to help them make the best decisions in as short a time as possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3563885/ai-is-now-a-c-suite-imperative.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/priority_high_priorities_importance_important_urgent_thinkstock_680720450-100749329-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI is now a C-suite imperative",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3563885/ai-is-now-a-c-suite-imperative.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3563885/ai-is-now-a-c-suite-imperative.amp.html",
-      "publishedDateTime": "2020-06-25T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-startup-genome-80-regions-have-produced-unicorns-as-tech-democratizes.md",
-      "title": "Startup Genome: 80 regions have produced unicorns as tech democratizes",
-      "excerpt": "Startup Genome warned of a “mass extinction event” coming because of the pandemic. VB Transform 2020 Online - July 15-17. Join leading AI executives: Register for the free livestream.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/25/startup-genome-80-regions-have-produced-unicorns-with-the-democratization-of-tech-ecosystems/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/sg.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": "Startup Genome: 80 regions have produced unicorns as tech democratizes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/25/startup-genome-80-regions-have-produced-unicorns-with-the-democratization-of-tech-ecosystems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/startup-genome-80-regions-have-produced-unicorns-with-the-democratization-of-tech-ecosystems/amp/",
-      "publishedDateTime": "2020-06-25T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-circadia-gets-fda-nod-for-ai-powered-respiratory-monitor.md",
-      "title": "Circadia Gets FDA Nod for AI-Powered Respiratory Monitor",
-      "excerpt": "Startup Circadia Technologies has received FDA approval for a bedside device that remotely monitors breathing using artificial intelligence and that has been shown to help detect Covid-19 symptoms such as breathlessness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-202428/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Circadia Gets FDA Nod for AI-Powered Respiratory Monitor",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402",
-      "publishedDateTime": "2020-06-25T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

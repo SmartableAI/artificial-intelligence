@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Natural Language Processing Market Latest Industry Trends, Future Growth, Market Share, Revenue, Size and 2026 Forecast Research Report"
+    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
+    publishedDateTime: 2020-08-20T15:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-market-latest-industry-trends-future-growth-market-share-revenue-size-and-2026-forecast-research-report-2020-08-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Coronavirus Disease (COVID-19): Speech and Voice Recognition Market- Epidemiology Analysis and Forecast - Aug 2020"
     excerpt: "The Global Speech and Voice Recognition Market was valued at USD 5.21 billion in 2016 and is projected to reach USD 26.15 billion by 2025, growing at a CAGR of 19.63% from 2017 to 2025. Voice and Speech Recognition is the ability of a machine or program that can identify,"
     publishedDateTime: 2020-08-20T23:36:00Z

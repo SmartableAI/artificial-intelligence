@@ -2,6 +2,106 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-18-top-3-applications-of-machine-learning-to-transform-your-business.md",
+      "title": "Top 3 Applications Of Machine Learning To Transform Your Business.",
+      "excerpt": "We all hear about Artificial intelligence and Machine learning in everyday conversations, the terms are becoming increasingly popular across businesses of all sizes and in all industries. We know AI is the future, but how can it be useful to businesses today?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kasiaborowska/2020/08/18/top-3-applications-of-machine-learning-to-transform-your-business/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bca460f86c4e00774c71f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kasiaborowska/2020/08/18/top-3-applications-of-machine-learning-to-transform-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kasiaborowska/2020/08/18/top-3-applications-of-machine-learning-to-transform-your-business/amp/",
+      "publishedDateTime": "2020-08-18T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-facial-recognition-lobby-urges-caution-on-us-zeal-to-regulate.md",
+      "title": "Facial Recognition Lobby Urges Caution on U.S. Zeal to Regulate",
+      "excerpt": "The trade group representing many of the largest technological security companies is urging regulators not to overreach on facial recognition restrictions even as U.S. lawmakers push to rein in police use of the software. The Security Industry Association ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 319,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iogtWuFQpWGA/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
+      "publishedDateTime": "2020-08-18T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-trump-hits-back-at-michelle-obama-after-searing-dnc-speech-says-he-would-not-be-here-if-not-for-obama.md",
       "title": "Trump hits back at Michelle Obama after searing DNC speech, says he 'would not be here' if not for Obama",
       "excerpt": "MICHELLE OBAMA, IN DNC SPEECH, RIPS TRUMP WHITE HOUSE FOR 'CHAOS' AND 'LACK ... \"The ability to walk in someone else's shoes. The recognition that someone else's experience has values too,\" she said. \"Most of us practice this without a second thought.”",
@@ -1339,88 +1439,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-neurotechnology-releases-new-version-of-sentisightai-image-labeling-and-recognition-platform-powered-by-deep-learning.md",
-      "title": "Neurotechnology Releases New Version of SentiSight.ai Image Labeling and Recognition Platform Powered by Deep Learning",
-      "excerpt": "PRNewswire/ -- Neurotechnology, a provider of deep learning-based solutions and high-precision biometric identification technologies, today announced",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/neurotechnology-releases-new-version-of-sentisightai-image-labeling-and-recognition-platform-powered-by-deep-learning-301112702.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zPTRh8IoOBo/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-17T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-microsoft-translator-now-supports-odia-total-11-languages-in-india-know-details.md",
-      "title": "Microsoft Translator now supports Odia, total 11 languages in India: Know details",
-      "excerpt": "Microsoft Translator enables professionals to enhance their business and customer interactions with text and speech translation powered by Translator and Microsoft Speech service, and Azure Cognitive Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/microsoft-translator-indian-languages-1597657674.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
-      "publishedDateTime": "2020-08-17T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

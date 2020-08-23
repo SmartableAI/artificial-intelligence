@@ -2,6 +2,171 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-08-04-digital-assistants-in-healthcare-2020-2025-artificial-intelligence-ai-has-emerged-as-a-major-boon-amid-covid-19-researchandmarketscom.md",
+      "title": "Digital Assistants in Healthcare 2020-2025: Artificial Intelligence (AI) Has Emerged as a Major Boon Amid COVID-19 - ResearchAndMarkets.com",
+      "excerpt": "The \"Digital Assistants in Healthcare Market - Growth, Trends and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Digital Assistants in the Healthcare Market is projected to register a CAGR of almost 33.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200804005501/en/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200804005501/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-ai-for-ecg-flags-heart-failure-in-emergency-setting.md",
+      "title": "AI for ECG Flags Heart Failure in Emergency Setting",
+      "excerpt": "An ECG algorithm incorporating artificial intelligence (AI ... initiation of guideline directed medical therapy and social work if needed,\" study authors suggested. A limitation of the study ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/cardiology/chf/87884",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://clf1.medpagetoday.net/media/images/87xxx/87884.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions.md",
+      "title": "LTTS expands collaboration with Microsoft to offer workplace transformation solutions",
+      "excerpt": "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimise business metrics leveraging advanced IoT based Edge Analytics and machine learning algorithms,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/software/ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/articleshow/77346713.cms",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-410760,msid-77327714/dodo-drop-the-indian-shareit-developed-by-kashmiri-teenager.jpg",
+          "width": 412,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/software/ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/amp_articleshow/77346713.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/software/ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/amp_articleshow/77346713.cms",
+      "publishedDateTime": "2020-08-04T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-get-over-50-hours-of-training-in-machine-learning-for-under-30.md",
+      "title": "Get over 50 hours of training in machine learning for under £30",
+      "excerpt": "TL;DR: The Machine Learning Master Class bundle is on sale for £29.85 as of August 4, saving you 91% on list price. Thanks to developing artificial intelligence technologies, computer are smarter ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F08%252F04%252Fa2%252F9d02595b494441d2bb4dc704f8ce4b85.1f5fc.jpg%252F1200x630.jpg?signature=Sptw61vujsHeWR7oaA4xnp6uvgw=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/aug-4-machine-learning-online-sale.amp",
+      "publishedDateTime": "2020-08-03T22:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-ai-firm-sues-apple-for-14-billion-alleges-siri-infringes-on-its-patents.md",
       "title": "AI firm sues Apple for $1.4 billion, alleges Siri infringes on its patents",
       "excerpt": "What just happened? Apple's Siri is not the most successful digital assistant, but that didn't stop a Chinese AI company from use it as a means to block sales of Apple devices in the region and potentially score some settlement cash. All of this is ...",
@@ -935,195 +1100,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-artificial-intelligence-in-healthcare-diagnosis.md",
-      "title": "Artificial Intelligence In Healthcare Diagnosis",
-      "excerpt": "Artificial Intelligence in healthcare is one of the most significant technological advances in medicine thus far. Startups developing AI-driven imaging & diagnostic solutions are the major factors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2101970/artificial-intelligence-in-healthcare-diagnosis-market",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T803342396_g.jpg",
-          "width": 650,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2101970/artificial-intelligence-in-healthcare-diagnosis-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2101970/artificial-intelligence-in-healthcare-diagnosis-market",
-      "publishedDateTime": "2020-08-03T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai.md",
-      "title": "Fifty Years After Designing Electric Lady Studios, Architect Cuts New Track With AI",
-      "excerpt": "Architect and acoustician John Storyk, known for designing recording and performance spaces around the world, was frustrated by the limits of the software at his firm’s disposal. So last year, he and his research and development director decided to build their own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai-11596457800",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-215878/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai-11596457800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai-11596457800",
-      "publishedDateTime": "2020-08-03T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-13-tech-experts-share-exciting-uses-of-human-centered-ai.md",
-      "title": "13 Tech Experts Share Exciting Uses Of Human-Centered AI",
-      "excerpt": "As this technology develops and becomes more integrated into our daily lives, the future of human-centered AI is looking brighter than ever. Below, the members of Forbes Technology Council share 13 exciting future uses of human-centered AI to keep an eye on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/03/13-tech-experts-share-exciting-uses-of-human-centered-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f24376198e9a8d4c0cc5da8%2F0x0.jpg",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/03/13-tech-experts-share-exciting-uses-of-human-centered-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/03/13-tech-experts-share-exciting-uses-of-human-centered-ai/amp/",
-      "publishedDateTime": "2020-08-03T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-artificial-intelligence-will-help-brands-align-with-influencers.md",
-      "title": "Artificial Intelligence Will Help Brands Align With Influencers",
-      "excerpt": "One of the biggest challenges brands face today when utilizing social media is finding the right influencer to align with – and while a \"wrong\" choice likely won't hurt a brand in most cases, it could be more of a wasted effort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petersuciu/2020/08/03/artificial-intelligence-will-help-brands-align-with-influencers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f275c0c7eb7d3a4ca89d8de%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petersuciu/2020/08/03/artificial-intelligence-will-help-brands-align-with-influencers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2020/08/03/artificial-intelligence-will-help-brands-align-with-influencers/amp/",
-      "publishedDateTime": "2020-08-03T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

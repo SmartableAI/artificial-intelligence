@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-20T15:48:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-service-robotics-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2020-08-20"
 type: article
 quality: 56
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,47 +28,33 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Size, Growth Research Analysis and Share to be worth more than $ 54 billion by 2026 - Industry News"
-    excerpt: "Selbyville, Delaware According to Market Study Report, Has Added A New Report On Artificial Intelligence Market"
-    publishedDateTime: 2020-08-21T15:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-research-analysis-and-share-to-be-worth-more-than-54-billion-by-2026---industry-news-2020-08-21"
+  - title: "Artificial Intelligence Market latest Trends and New Technologies Research Forecast to 2026"
+    excerpt: "The Artificial Intelligence Market report upholds the future market predictions related to Artificial Intelligence market size, revenue, production, Consumption, gross margin and other substantial factors."
+    publishedDateTime: 2020-08-20T10:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-and-new-technologies-research-forecast-to-2026-2020-08-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Technology Market Size Report 2020 Global Industry Analysis by Trends, Revenue, Share, Revenue and Forecast to 2026"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Technology Market” research report offers the breakdown of the industry by market size, rate of development,"
-    publishedDateTime: 2020-08-18T13:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-report-2020-global-industry-analysis-by-trends-revenue-share-revenue-and-forecast-to-2026-2020-08-17"
+  - title: "Global Artificial Intelligence in Agriculture Market Research Report to 2030 - Growth Opportunities from Developing Countries - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue ..."
+    publishedDateTime: 2020-08-18T16:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200818005626/en/Global-Artificial-Intelligence-Agriculture-Market-Research-Report"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mms.businesswire.com/media/20200818005626/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Natural Language Processing Market Latest Industry Trends, Future Growth, Market Share, Revenue, Size and 2026 Forecast Research Report"
-    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
-    publishedDateTime: 2020-08-20T15:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-market-latest-industry-trends-future-growth-market-share-revenue-size-and-2026-forecast-research-report-2020-08-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+        height: 627
         isCached: true
 
 secured: "DxXdtGkgzKx4GZwqFi47+uph7Xt6MNQTqTWY/JYKFnGrF5+ikAwyD6qgr7OyZkXMN18KwjbwUxT0XpAsIAe5dU6a8txI+YLHHYIPeOxZmpy314Lb78L+PG3OlZE14O6VpituOBb9AfH0dB0XKxVNumXPklV78TwrX3Ck4Bx8o5CFAQ7MUjZIiiVPsiLw4OJ3yO9H+bFTPimWL3G1thPYpGcKJXPh1WwRiftmrWTyN1WEsgwSR8NGrV9xWgYRuQA3po+NjahAEUakMMY0WauRSDQeEBMb9in5UQscpgmv972VLsnfSzs9LmQH0HlIvzXn4n1/nwHYm3AydFuTrs50Ng==;0K0yIc3tPlsjHUUa4xV2/Q=="

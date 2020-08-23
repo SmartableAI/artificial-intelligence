@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-21-losses-mount-at-british-unicorn-graphcore-as-it-pours-cash-into-ai-chips.md",
+      "title": "Losses mount at British unicorn Graphcore as it pours cash into AI chips",
+      "excerpt": "The Bristol-based company said it had almost doubled the size of its headcount to accelerate development of the technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-1_trans_NvBQzQNjv4BqnY32puTRmJBD0IQz1kt_ZVqZFC3fB4GuhEoILEGfoek.png",
+          "width": 1402,
+          "height": 876,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/amp/",
+      "publishedDateTime": "2020-08-21T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-exeter-experts-organize-global-ai-summit-to-address-ongoing-healthcare-crisis.md",
       "title": "Exeter experts organize global AI summit to address ongoing healthcare crisis",
       "excerpt": "A global summit which aims to boost effective collaboration between experts working in Artificial Intelligence (AI) is being organised by academics at the University of Exeter.",
@@ -582,56 +624,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-global-service-robotics-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026.md",
-      "title": "Global Service Robotics Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026",
-      "excerpt": "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-service-robotics-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2020-08-20",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-20T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {

@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market Growth , Leading Players and Forecast To 2025"
-    excerpt: "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By End User (Healthcare Providers, Pharmaceutical Organizations ..."
-    publishedDateTime: 2020-08-18T07:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
     excerpt: "Selbyville, Delaware. The report on Artificial Intelligence in Healthcare market is a comprehensive evaluation"
     publishedDateTime: 2020-08-21T13:23:00Z
@@ -47,20 +33,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market latest Trends and New Technologies Research Forecast to 2026"
-    excerpt: "The Artificial Intelligence Market report upholds the future market predictions related to Artificial Intelligence market size, revenue, production, Consumption, gross margin and other substantial factors."
-    publishedDateTime: 2020-08-20T10:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-and-new-technologies-research-forecast-to-2026-2020-08-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -94,33 +66,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence of Things: AIoT Market by Technology and Solutions 2020 - 2025"
-    excerpt: "This AIoT market report provides analysis of technologies, leading companies and solutions. The report also provides quantitative analysis including market sizing and forecasts for AIoT infrastructure, services, and specific solutions for the period 2020 ..."
-    publishedDateTime: 2020-08-18T12:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-of-things-aiot-market-by-technology-and-solutions-2020--2025-301113921.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 44
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Global Artificial Intelligence in Medicine Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
-    excerpt: "Summary A New Market Study, titled \"Artificial Intelligence in Medicine Market Upcoming Trends, Growth Drivers"
-    publishedDateTime: 2020-08-19T08:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medicine-market-2020-key-vendors-trends-analysis-segmentation-forecast-to-2025-2020-08-19"
+  - title: "Artificial Intelligence Market Size, Growth Research Analysis and Share to be worth more than $ 54 billion by 2026 - Industry News"
+    excerpt: "Selbyville, Delaware According to Market Study Report, Has Added A New Report On Artificial Intelligence Market"
+    publishedDateTime: 2020-08-21T15:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-research-analysis-and-share-to-be-worth-more-than-54-billion-by-2026---industry-news-2020-08-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global AI in Healthcare Market Worth $99,491.58 million by 2027 - Analysis by Offering, Application, End-user, Algorithm and Region"
+    excerpt: "Global AI in Healthcare Market Worth 9949158 million by 2027 ndash Analysis by Offering Application End-user Algorithm and Region"
+    publishedDateTime: 2020-08-19T15:49:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266140921/global-ai-in-healthcare-market-worth-9949158-million-by-2027---analysis-by-offering-application-end-user-algorithm-and-region"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1597838421142.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Worldwide Augmented and Mixed Reality Market Industry (2020 to 2025) - Increasing Demand of AR Devices in Healthcare is Driving Growth"
     excerpt: "The report also provides specific insights and recommendations for major ecosystem constituents including Advertisers and Media Companies, Artificial Intelligence Providers, Automotive Companies ..."

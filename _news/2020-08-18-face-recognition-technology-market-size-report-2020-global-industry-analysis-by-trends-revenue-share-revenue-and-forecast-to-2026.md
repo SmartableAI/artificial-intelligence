@@ -28,47 +28,33 @@ images:
     isCached: true
 
 related:
-  - title: "Global Service Robotics Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026"
-    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
-    publishedDateTime: 2020-08-20T15:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-service-robotics-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2020-08-20"
+  - title: "Artificial Intelligence of Things: AIoT Market by Technology and Solutions 2020 - 2025"
+    excerpt: "This AIoT market report provides analysis of technologies, leading companies and solutions. The report also provides quantitative analysis including market sizing and forecasts for AIoT infrastructure, services, and specific solutions for the period 2020 ..."
+    publishedDateTime: 2020-08-18T12:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-of-things-aiot-market-by-technology-and-solutions-2020--2025-301113921.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Artificial Intelligence Market Size, Growth Research Analysis and Share to be worth more than $ 54 billion by 2026 - Industry News"
-    excerpt: "Selbyville, Delaware According to Market Study Report, Has Added A New Report On Artificial Intelligence Market"
-    publishedDateTime: 2020-08-21T15:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-research-analysis-and-share-to-be-worth-more-than-54-billion-by-2026---industry-news-2020-08-21"
+  - title: "Reinforcement Learning Market to See Massive Growth by 2025 | Bonsai, Deepmind Technologies, Maluuba"
+    excerpt: "Global Reinforcement Learning Market Report from AMA Research highlights deep analysis on market characteristics, sizing, estimates and growth by segmentation, regional breakdowns & country along with competitive landscape,"
+    publishedDateTime: 2020-08-21T05:52:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266157161/reinforcement-learning-market-to-see-massive-growth-by-2025--bonsai-deepmind-technologies-maluuba"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Natural Language Processing Market Latest Industry Trends, Future Growth, Market Share, Revenue, Size and 2026 Forecast Research Report"
-    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
-    publishedDateTime: 2020-08-20T15:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-market-latest-industry-trends-future-growth-market-share-revenue-size-and-2026-forecast-research-report-2020-08-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.bignewsnetwork.com/cus1598099396939.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "9cozRD5RbqIN/vWYmtayZLc26jrgTZVe2IUt0UyKtJ12VcmeNYcxZSxYM2acS/IQZ1wwOxrGYQeVedUjNTatGYLUbavfIz64GIj8DJSi/MdYNaJeTIf9jsoCzwndsWVxIJBDfY4/YSTy4yk7KKHo5fEFy+9oiBoA+u53P4Z46EGHFbuZBULi/jBGpwqUTdohB8AqlDo3LmHNsw1n4K2qVgoYB+xrEhApURmvzENinpXfSIchW0RHKDK0Su11K5YqAHi5HcBXcEGB5RAczb1c6EbgWwmNOC2nefArNU71CGO8BG3hQiNdsCetm5euVrpxiTil5UKwfPVMwFf+iDW9pg==;3lpr0OIGEwvqrZOgfOxCwQ=="

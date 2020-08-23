@@ -1344,6 +1344,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-06-why-microvision-stock-got-decimated-today.md",
+      "title": "Why MicroVision Stock Got Decimated Today",
+      "excerpt": "The computer vision specialist continues to look for a buyer after it said earlier this year that it was hoping to sell itself. Revenue in the second quarter got cut in half to $600,000 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/08/06/why-microvision-stock-got-decimated-today.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F586521%2Fstock-chart-down-3.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/06/why-microvision-stock-got-decimated-today.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/06/why-microvision-stock-got-decimated-today.aspx",
+      "publishedDateTime": "2020-08-06T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-macys-sued-over-use-of-clearview-facial-recognition-software.md",
       "title": "Macy’s Sued Over Use of Clearview Facial-Recognition Software",
       "excerpt": "Macy’s Retail Holdings Inc. was targeted in one of the first lawsuits against users of the controversial facial-recognition software made by startup Clearview AI.",
@@ -1391,58 +1441,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit.md",
-      "title": "Google adds Digital Ink Recognition API for touch and stylus input to ML Kit",
-      "excerpt": "Google introduced a new API for touch and stylus input to ML Kit, its machine learning development toolkit for Android and iOS.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/amp/",
-      "publishedDateTime": "2020-08-06T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Google AI",
-        "Natural Language Processing"
       ]
     }
   ],

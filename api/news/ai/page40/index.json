@@ -2,6 +2,169 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-07-15-alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure.md",
+      "title": "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure",
+      "excerpt": "Alithya Group inc., a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals offering enterprise solutions across Canada, the United States, and Europe, is proud to announce the launch of its AI-FI™ Trade Surveillance solution,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/alithya-launches-ai-fitm-trade-surveillance-solution-powered-by-microsoft-azure-2020",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-navistar-plans-to-launch-truly-driverless-class-8-trucks-by-2024.md",
+      "title": "Navistar plans to launch truly driverless Class 8 trucks by 2024",
+      "excerpt": "Navistar plans to launch the driverless technology on its International ... Netradyne is an artificial intelligence (AI) and edge computing technology company that focuses on driver and fleet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21136631/navistar-and-tusimple-plan-to-launch-truly-driverless-highway-trucks-by-2024",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2020/07/16x9/navistar_international_lt_tusimple_truck.5f0e08ee88826.png?auto=format&fit=max&w=1200",
+          "width": 1112,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-drifts-latinx-founders-beat-long-odds-to-build-360-million-ai-powered-sales-startup.md",
+      "title": "Drift’s Latinx Founders Beat Long Odds To Build $360 Million AI-Powered Sales Startup",
+      "excerpt": "Three companies and 12 years later, Cancel and Torres are the founders of Drift, an AI-powered sales software startup that features on Forbes’ second annual AI 50 list of the most promising U.S.-based startups, one of nine companies building productivity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/15/drift-david-cancel-elias-torres-ai-50-interview/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed96235d5799d0007010974%2F0x0.jpg%3FcropX1%3D454%26cropX2%3D5181%26cropY1%3D0%26cropY2%3D3151",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/15/drift-david-cancel-elias-torres-ai-50-interview/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/07/15/drift-david-cancel-elias-torres-ai-50-interview/amp/",
+      "publishedDateTime": "2020-07-15T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-new-constructs-nominated-for-benzinga-fintech-listmakers.md",
+      "title": "New Constructs Nominated for Benzinga Fintech Listmakers",
+      "excerpt": "The Benzinga Fintech Listmakers is a compilation of companies within various fintech categories that are working to revolutionize the industry. The voting process will close on Oct. 20. Vote for New Constructs at this link.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/new-constructs-nominated-for-benzinga-fintech-listmakers-1029396377",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/new-constructs-nominated-for-benzinga-fintech-listmakers-1029396377",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/new-constructs-nominated-for-benzinga-fintech-listmakers-1029396377",
+      "publishedDateTime": "2020-07-15T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-ai-in-enabled-computer-vision-market-will-register-a-cagr-of-about-22-between-2020-and-2027-covid19-impact-analysis-on-ecosystem.md",
       "title": "AI in Enabled Computer Vision Market will Register a CAGR of about 22% between 2020 and 2027 | COVID19 Impact Analysis on Ecosystem",
       "excerpt": "Jul 15, 2020 (The Expresswire) -- AI in Enabled Computer Vision Market Ecosystem: The ripple effect of Coronavirus-COVID19 on the AI in Enabled Computer Vision Ecosystem needs to become part of ...",
@@ -1237,197 +1400,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages.md",
-      "title": "Microsoft’s SoftNER AI uses unsupervised learning to help triage cloud service outages",
-      "excerpt": "In a new paper, Microsoft researchers detail an AI system that parses cloud service interruption incident descriptions to help with triaging.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages/amp/",
-      "publishedDateTime": "2020-07-14T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020.md",
-      "title": "The nominees for the VentureBeat AI Innovation Awards at Transform 2020",
-      "excerpt": "Here are the nominees for VentureBeat's second annual AI Innovation Awards at Transform 2020. The winners will be announced July 15.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/vb-transform-2020-ai-innovation-awards.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/amp/",
-      "publishedDateTime": "2020-07-14T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-mr-roboto-and-artificial-intelligence-are-social-distancing-winners.md",
-      "title": "Mr. Roboto And Artificial Intelligence Are Social Distancing Winners",
-      "excerpt": "A bevy of themes, including cloud computing, streaming entertainment and video games, are benefiting from shelter-in-place and social distancing",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
-      "publishedDateTime": "2020-07-14T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-virgin-active-south-africa-outlines-plans-for-a-safe-re-opening.md",
-      "title": "Virgin Active South Africa outlines plans for a safe re-opening",
-      "excerpt": "The South African arm of Virgin Active has released the procedures it is going to put in place when it re-opens, including online bookings for attendance, capacity monitoring and employee screening.",
-      "sourceUrl": null,
-      "webUrl": "https://www.htxt.co.za/2020/07/14/virgin-active-south-africa-outlines-plans-for-a-safe-re-opening/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.htxt.co.za/wp-content/uploads/2020/07/Virgin-Active-South-Africa-ReOpen-Image.jpg",
-          "width": 797,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.htxt.co.za/2020/07/14/virgin-active-south-africa-outlines-plans-for-a-safe-re-opening/amp/",
-      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/07/14/virgin-active-south-africa-outlines-plans-for-a-safe-re-opening/amp/",
-      "publishedDateTime": "2020-07-14T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Htxt.Africa",
-        "domain": "htxt.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

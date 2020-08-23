@@ -2,6 +2,178 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-07-29-global-artificial-intelligence-in-retail-markets-2020-2027.md",
+      "title": "Global Artificial Intelligence in Retail Markets, 2020-2027",
+      "excerpt": "The global artificial intelligence in retail market is expected to grow at a CAGR of 34.4% from 2020 to reach $19.9 billion by 2027. The growth in the artificial intelligence in retail market is driven by several factors such as the rising number of internet users,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/g16822677/global-artificial-intelligence-in-retail-markets-2020-2027",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16822677",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16822677",
+      "publishedDateTime": "2020-07-29T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-speech-and-voice-recognition-market-strength-major-type-key-application-and-leading-companies-forecast-till-2026.md",
+      "title": "Speech and Voice Recognition Market Strength, Major Type, Key Application And Leading Companies Forecast Till 2026",
+      "excerpt": "Jul 29, 2020 (The Expresswire) -- The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion by 2026 at a CAGR of 19.8% during the forecast period. Based on deployment, the cloud-based segment will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-strength-major-type-key-application-and-leading-companies-forecast-till-2026-2020-07-29",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.md",
+      "title": "Japanese Robot to Clock In at a Convenience Store in Test of Retail Automation",
+      "excerpt": "Following that trial, store operator FamilyMart says it plans to use robot workers at 20 stores around Tokyo by 2022. At first, people will operate them remotely - until the machines' artificial intelligence (AI) can learn to mimic human movements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/reuters/2020/07/29/business/29reuters-japan-tech-robot.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-chinese-dissident-artist-ai-weiwei-on-masks-uighurs-and-democracy.md",
+      "title": "Chinese Dissident Artist Ai Weiwei On Masks, Uighurs and Democracy",
+      "excerpt": "China’s most famous artist and infamous government critic spills on human rights atrocities in Xinjiang and state attempts to cover up the coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f20f138fcd71c009e8086ca/lede/1595994995279-0001ow9h9.jpeg?crop=1xw:0.8438xh;0xw,0.1562xh",
+          "width": 4241,
+          "height": 2382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy",
+      "publishedDateTime": "2020-07-28T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026.md",
       "title": "Natural Language Processing Market Segmentation, Research Methodology And Revenue Growth Forecast Till 2026",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 29, 2020 (The Expresswire) -- The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion by 2026 at a CAGR of ...",
@@ -1176,197 +1348,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-aws-announces-general-availability-of-amazon-fraud-detector.md",
-      "title": "AWS Announces General Availability of Amazon Fraud Detector",
-      "excerpt": "Amazon Fraud Detector helps businesses identify online identity and payment fraud in real time using machine learning, based on the same technology developed for Amazon.com.",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/cloud/aws-announces-general-availability-of-amazon-fraud-detector/d/d-id/1338466",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twimgs.com/nojitter/darkreading/dr-logo.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-this-ai-will-turn-your-ugly-face-into-a-cute-cartoon.md",
-      "title": "This AI will turn your ugly face into a cute cartoon",
-      "excerpt": "thanks to new AI tool that turns images and videos into cartoons. Mahajan and Pandkar used their open-source implementation to create a publicly-available demo of the system, using GPU (Graphics ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-28T191306.193-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/amp/",
-      "publishedDateTime": "2020-07-28T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-facebook-passes-pytorch-for-windows-development-to-microsoft.md",
-      "title": "Facebook passes PyTorch for Windows development to Microsoft",
-      "excerpt": "Microsoft has pledged to expand its participation in PyTorch to take ownership of the Facebook-led machine learning framework's development on Windows.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/facebook-passes-pytorch-for-windows-development-to-microsoft/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/pytorch-e1576624094357.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/facebook-passes-pytorch-for-windows-development-to-microsoft/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/facebook-passes-pytorch-for-windows-development-to-microsoft/amp/",
-      "publishedDateTime": "2020-07-28T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-how-sncf-reseau-and-olexya-migrated-a-caffe2-vision-pipeline-to-managed-spot-training-in-amazon-sagemaker.md",
-      "title": "How SNCF Réseau and Olexya migrated a Caffe2 vision pipeline to Managed Spot Training in Amazon SageMaker",
-      "excerpt": "This blog post is co-written by guest authors from SNCF and Olexya. Transportation and logistics are fertile ground for machine learning (ML). In this post, we show how the French state-owned railway company Soci&eacute;t&eacute; Nationale des Chemins de fer Fran&ccedil;ais (SNCF) uses ML from AWS with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-sncf-reseau-and-olexya-migrated-a-caffe2-vision-pipeline-to-managed-spot-training-in-amazon-sagemaker/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T09:54:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

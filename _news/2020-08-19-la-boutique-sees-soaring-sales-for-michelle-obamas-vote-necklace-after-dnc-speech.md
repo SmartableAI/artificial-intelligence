@@ -74,22 +74,6 @@ related:
         width: 603
         height: 402
         isCached: true
-  - title: "Michelle Obama Calls America to Action in Moving DNC Speech"
-    excerpt: "Below, her speech in full: Good evening ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone suffering or struggling ..."
-    publishedDateTime: 2020-08-18T07:14:00Z
-    webUrl: "https://www.elle.com/culture/career-politics/a33627392/michelle-obama-dnc-speech/"
-    ampWebUrl: "https://www.elle.com/culture/career-politics/amp33627392/michelle-obama-dnc-speech/"
-    cdnAmpWebUrl: "https://www-elle-com.cdn.ampproject.org/c/s/www.elle.com/culture/career-politics/amp33627392/michelle-obama-dnc-speech/"
-    type: article
-    provider:
-      name: ELLE
-      domain: elle.com
-    quality: 44
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/first-lady-michelle-obama-acknowledges-the-crowd-after-news-photo-1597720278.jpg?crop=1xw:0.75xh;center,top&resize=1200:*"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Read: Michelle Obama’s full speech from the 2020 Democratic National Convention"
     excerpt: "Former first lady Michelle Obama delivered a straight-forward, taped speech at the Democratic National Convention ... The ability to walk in someone else's shoes; the recognition that someone else's experience has value, too. Most of us practice this ..."
     publishedDateTime: 2020-08-18T15:48:00Z

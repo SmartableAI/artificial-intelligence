@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Medicine Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
+    excerpt: "Summary A New Market Study, titled \"Artificial Intelligence in Medicine Market Upcoming Trends, Growth Drivers"
+    publishedDateTime: 2020-08-19T08:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medicine-market-2020-key-vendors-trends-analysis-segmentation-forecast-to-2025-2020-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Covid-19 Impact on Artificial Intelligence in Medical Diagnostics Market: Global Analysis, Industry Growth, Current Trends and Forecast till 2025"
     excerpt: "A new market study, titled \"Artificial Intelligence in Medical Diagnostics Market Upcoming Trends, Growth Drivers and Challenges\" has been featured on WiseGuyReports. Overviwe:- With the development of deep learning and neural networks,"
     publishedDateTime: 2020-08-19T08:48:00Z

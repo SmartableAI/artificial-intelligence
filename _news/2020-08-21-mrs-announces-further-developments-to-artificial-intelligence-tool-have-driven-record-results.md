@@ -1,28 +1,22 @@
 ---
 category: news
 title: "MRS Announces Further Developments To Artificial Intelligence Tool Have Driven Record Results"
-excerpt: "MRS BPO LLC, a leading provider of services to the accounts receivable management industry, announced that their proprietary conversational"
+excerpt: "MRS BPO LLC, a leading provider of services to the accounts receivable management industry, announced that their proprietary conversational IVR tool, Adam,"
 publishedDateTime: 2020-08-21T13:01:00Z
-webUrl: "https://www.prnewswire.com/news-releases/mrs-announces-further-developments-to-artificial-intelligence-tool-have-driven-record-results-301116320.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mrs-announces-further-developments-to-artificial-intelligence-tool-have-driven-record-results/article_72625607-366a-5453-8cb7-4e79df838733.html"
 type: article
-quality: 28
-heat: 28
+quality: 8
+heat: 8
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/965010/MRS_BPO_LLC_Logo.jpg?p=facebook"
-    width: 2034
-    height: 1065
-    isCached: true
-
-secured: "IYHamAd8LFt8Hr+ZdSD07NCfFNVSNopOGdRr/BVZGqIp6GSQkslqiTU8CR6yo+YDn2oz+PsRQ0Z4j2zun4/OLNc2QeaNyOoHnKHR+UbxZQ9qIOulhBOW0R0xyuQGhPLI/OitA3vC8h32sY/1sxt1+fTvqaylnNypTwYVo9HAgiE2yLFVVPNv8mGxFXwRxhntRBhl07xfYb0/IusOPAqGyMVzD8yjjmZ8Q0gPVZNSTwoYAhTAFy5hmTZARSzIq1AvY5sjacoAC8hR2dTUL7PFB+ISZLOtM+V2X3Cwc0O67DG6OHHS+R7c6cn1TeUG1t6NbhOY8Ttf/TeDmDp+Gd8MTg==;7YkHxOrOFahpavEpLpKYGQ=="
+secured: "GBbZKWYKFlxFk54N1WgVhkQIwnd9U1v96d69ZVUC6Eavj+UGwI69J2kvxzEl3/PXa5spUZpXhbjOF1lrba7VSLu4TsxrPDgSjlcEXBpS30Bv222Ui7eniD4OexQv7Pn8KEXhe7h9FoT1VTAzzsv5pz5TlYsKkUrlQ5XaVCGlwG5NhJmpy7/k+9a5vuwa8md4JeX6cpR72o2zTqrdp4Uh4S91RRzAXmUGmrxgTY8NTbaiHFxNAdA7F9R8rXatLEhAPmAlPfLoZQrwy5jm7oCAuQwdHeVszfVEFAx80Gq3dx09IyYrlaoWsTBGbNaqh4LSExC2zc3tp06keZWhNHCwshSLsfOSkrEmwX47UyycKnVrf63drLTG4sDrfn4/iJyYUj6hoT0Y88t8eQaPngtjeZ6ayGdv92ru5usBsPGkEq3WWYuv1luwFBhFQjZC9HnjYysMbMlGslO6idWo7jz0nSv0Pe0TiPoFNbwYhCIGmlSixrUp45u/fOTxtQdSj2VZT+qTM1EBs1lzrFqKoIkvGA==;SmlzjJOfQG/Dmef5g9AEXQ=="
 ---
 

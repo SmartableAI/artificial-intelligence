@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-18T12:09:00Z
 webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-of-things-aiot-market-by-technology-and-solutions-2020--2025-301113921.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -23,113 +23,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market Growth , Leading Players and Forecast To 2025"
-    excerpt: "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By End User (Healthcare Providers, Pharmaceutical Organizations ..."
-    publishedDateTime: 2020-08-18T07:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
-    excerpt: "Selbyville, Delaware. The report on Artificial Intelligence in Healthcare market is a comprehensive evaluation"
-    publishedDateTime: 2020-08-21T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2020-08-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market latest Trends and New Technologies Research Forecast to 2026"
-    excerpt: "The Artificial Intelligence Market report upholds the future market predictions related to Artificial Intelligence market size, revenue, production, Consumption, gross margin and other substantial factors."
-    publishedDateTime: 2020-08-20T10:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-and-new-technologies-research-forecast-to-2026-2020-08-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Healthcare Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
-    excerpt: "The Global AI in Healthcare Market size was estimated to be US$ 4.7 billion in 2019. The AI in Healthcare market"
-    publishedDateTime: 2020-08-20T05:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-08-20?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Precision Medicine Market Trends, Share, Industry Size, Opportunities, Analysis and Forecast by 2025"
-    excerpt: "Selbyville, Delaware Recently, Market Study Report, LLC, added a research on the ‘Artificial Intelligence (AI)"
-    publishedDateTime: 2020-08-21T20:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-trends-share-industry-size-opportunities-analysis-and-forecast-by-2025-2020-08-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence in Medicine Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
-    excerpt: "Summary A New Market Study, titled \"Artificial Intelligence in Medicine Market Upcoming Trends, Growth Drivers"
-    publishedDateTime: 2020-08-19T08:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medicine-market-2020-key-vendors-trends-analysis-segmentation-forecast-to-2025-2020-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2029"
-    excerpt: "Artificial Intelligence in Healthcare Market Global Trends Market Share Industry Size Growth Opportunities and Market Forecast 2020 to 2029"
-    publishedDateTime: 2020-08-19T18:00:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266141049/artificial-intelligence-in-healthcare-market-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-2020-to-2029"
+  - title: "Reinforcement Learning Market to See Massive Growth by 2025 | Bonsai, Deepmind Technologies, Maluuba"
+    excerpt: "Global Reinforcement Learning Market Report from AMA Research highlights deep analysis on market characteristics, sizing, estimates and growth by segmentation, regional breakdowns & country along with competitive landscape,"
+    publishedDateTime: 2020-08-21T05:52:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266157161/reinforcement-learning-market-to-see-massive-growth-by-2025--bonsai-deepmind-technologies-maluuba"
     type: article
     provider:
       name: Big News Network.com
       domain: bignewsnetwork.com
-    quality: 18
+    quality: 39
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1597838421142.jpg"
+      - url: "https://cdn.bignewsnetwork.com/cus1598099396939.jpg"
         width: 630
         height: 420
         isCached: true
-  - title: "Worldwide Augmented and Mixed Reality Market Industry (2020 to 2025) - Increasing Demand of AR Devices in Healthcare is Driving Growth"
-    excerpt: "The report also provides specific insights and recommendations for major ecosystem constituents including Advertisers and Media Companies, Artificial Intelligence Providers, Automotive Companies ..."
-    publishedDateTime: 2020-08-18T11:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-augmented-and-mixed-reality-market-industry-2020-to-2025-increasing-demand-of-ar-devices-in-healthcare-is-driving-growth-1029512169"
+  - title: "Face Recognition Technology Market Size Report 2020 Global Industry Analysis by Trends, Revenue, Share, Revenue and Forecast to 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Technology Market” research report offers the breakdown of the industry by market size, rate of development,"
+    publishedDateTime: 2020-08-18T13:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-report-2020-global-industry-analysis-by-trends-revenue-share-revenue-and-forecast-to-2026-2020-08-17"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "kOERNrk+CtjTL9UMbaQZFCvi3ROZPDLXdiuKUqm0cz/Idf84eYUpF+yGPENigQRvttDS8Vt69CljuadAXfhqnHqJaryQaFoomaSbko8GulFz9MBEaes7OHW81XOyS5bZe1LNxb7IDSMhs3ryG4Gmpq1vPHciVYGK5JcFzVWlN31wcu/zf2iPlQXO1wtOxsSEr79WeoiF76GCEyFNHHPgHoL8tkCJ67nQ2u8lOPXvam3qja9fUxb0D3t04Rb0EDHAKq7zLev6zlkO41ilq+YI+SUVMqiZmpmq2oKKB5iXb6b0KGOCp05p93KE5gi0N9hD8h+s0D5FfB3PdG25kqMpig==;8oaTOC4FlgbUviI15dawDg=="
 ---

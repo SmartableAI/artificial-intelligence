@@ -28,43 +28,43 @@ images:
     isCached: true
 
 related:
-  - title: "Global Service Robotics Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026"
-    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
-    publishedDateTime: 2020-08-20T15:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-service-robotics-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2020-08-20"
+  - title: "Speech and Voice Recognition Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
+    excerpt: "The Global Speech amp; Voice Recognition Market size was estimated to be US$ 7.8 billion in 2019. The Speech and"
+    publishedDateTime: 2020-08-19T13:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size, Growth Research Analysis and Share to be worth more than $ 54 billion by 2026 - Industry News"
-    excerpt: "Selbyville, Delaware According to Market Study Report, Has Added A New Report On Artificial Intelligence Market"
-    publishedDateTime: 2020-08-21T15:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-research-analysis-and-share-to-be-worth-more-than-54-billion-by-2026---industry-news-2020-08-21"
+  - title: "Coronavirus Disease (COVID-19): Speech and Voice Recognition Market- Epidemiology Analysis and Forecast - Aug 2020"
+    excerpt: "The Global Speech and Voice Recognition Market was valued at USD 5.21 billion in 2016 and is projected to reach USD 26.15 billion by 2025, growing at a CAGR of 19.63% from 2017 to 2025. Voice and Speech Recognition is the ability of a machine or program that can identify,"
+    publishedDateTime: 2020-08-20T23:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/coronavirus-disease-covid-19-speech-and-voice-recognition-market--epidemiology-analysis-and-forecast---aug-2020-2020-08-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Technology Market Size Report 2020 Global Industry Analysis by Trends, Revenue, Share, Revenue and Forecast to 2026"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Technology Market” research report offers the breakdown of the industry by market size, rate of development,"
-    publishedDateTime: 2020-08-18T13:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-report-2020-global-industry-analysis-by-trends-revenue-share-revenue-and-forecast-to-2026-2020-08-17"
+  - title: "Speech and Voice Recognition Market : Research By Production, Revenue, Growth Rate, Sales Value, Industry Trends, Impact Factors, SWOT Analysis 2027"
+    excerpt: "Aug 19, 2020 (AmericaNewsHour) -- Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to grow with a growth rate of more than 17.20 % over the forecast period 2020-2027. Demand for Voice enabled ..."
+    publishedDateTime: 2020-08-19T23:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-research-by-production-revenue-growth-rate-sales-value-industry-trends-impact-factors-swot-analysis-2027-2020-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 15
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
