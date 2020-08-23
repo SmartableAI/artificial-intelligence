@@ -2,6 +2,47 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-01-artificial-intelligence-in-healthcare-diagnosis.md",
+      "title": "Artificial Intelligence In Healthcare Diagnosis",
+      "excerpt": "The artificial intelligence in healthcare diagnosis market was valued at US$ 3,639.02 million in 2019 and is projected to reach US$ 66,811.97 million by 2027; it is expected to grow at a CAGR of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2082806/artificial-intelligence-in-healthcare-diagnosis-market",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T701105391_g.jpg",
+          "width": 624,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2082806/artificial-intelligence-in-healthcare-diagnosis-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2082806/artificial-intelligence-in-healthcare-diagnosis-market",
+      "publishedDateTime": "2020-07-01T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-artificial-intelligence-in-medicine-market-to-reach-1812-billion-at-496-cagr-by-2025-says-amr.md",
       "title": "Artificial Intelligence in Medicine Market to Reach $18.12 Billion at 49.6% CAGR by 2025, Says AMR",
       "excerpt": "The growth of the global artificial intelligence (AI) in medicine market is driven by the surge in AI capabilities due to increase in processing power, the need to compensate for the lack of skilled professionals in healthcare,",

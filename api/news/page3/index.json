@@ -2,6 +2,38 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-20-allscripts-collaboration-to-advance-healthcare-innovation.md",
+      "title": "Allscripts' Collaboration to Advance Healthcare Innovation",
+      "excerpt": "ARC Innovation brings in new technologies into the hospital and community healthcare ecosystem to further enhance patient care. Moreover, it aids data fluidity and integration between innovators, scientists,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/allscripts-collaboration-to-advance-healthcare-innovation-2020-08-20",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/allscripts-collaboration-to-advance-healthcare-innovation-2020-08-20?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/allscripts-collaboration-to-advance-healthcare-innovation-2020-08-20?amp",
+      "publishedDateTime": "2020-08-20T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-ev-builder-nio-hopes-to-enter-europe-in-2021.md",
       "title": "EV builder Nio hopes to enter Europe in 2021",
       "excerpt": "Chinese electric vehicle maker Nio hopes to enter international markets from the second half of next year starting with selected European countries, CEO William Li said. Li said the company aimed to enter other markets from 2022.",
@@ -49,7 +81,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-and-new-technologies-research-forecast-to-2026-2020-08-20",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -381,7 +413,7 @@
       "webUrl": "https://www.officer.com/investigations/forensics/facial-recognition/article/21141325/ipro-panasonic-ipro-sensing-solutions-corporation-of-america-pipsa-how-software-solutions-address-privacy-and-accuracy-issues-raised-by-facial-recognition",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -926,47 +958,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-machine-learning-finds-quake-origin-signatures.md",
-      "title": "Machine learning finds quake origin signatures",
-      "excerpt": "Combing through historical seismic data with a machine learning model, US researchers have unearthed distinct statistical features that marked the formative stage of slow-slip ruptures in the Earth’s crust months before tremor or GPS data detected a slip in the tectonic plates.",
-      "sourceUrl": null,
-      "webUrl": "https://cosmosmagazine.com/earth/earth-sciences/machine-learning-finds-quake-origin-signatures/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cosmosmagazine.com/wp-content/uploads/2020/08/200820-Earthquake.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cosmosmagazine.com/earth/earth-sciences/machine-learning-finds-quake-origin-signatures/amp/",
-      "cdnAmpWebUrl": "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/earth/earth-sciences/machine-learning-finds-quake-origin-signatures/amp/",
-      "publishedDateTime": "2020-08-19T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cosmos",
-        "domain": "cosmosmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },

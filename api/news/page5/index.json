@@ -2,6 +2,105 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-19-is-anthos-the-edge-google-needs-in-enterprise-cloud.md",
+      "title": "Is Anthos the edge Google needs in enterprise cloud?",
+      "excerpt": "In 3rd place in the cloud wars for years, the emergence of Google's Anthos last year was a welcome move that makes a versatile multicloud future for businesses not just a possibility, but a practical option today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/10/2f5cb054-c9f7-4ebb-9c6f-9c1698ba44e9/thumbnail/1200x675/422a12290de5e69249993f300448f6ca/thumb.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/",
+      "publishedDateTime": "2020-08-18T18:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-a-photo-editing-ai-thought-this-blurry-photo-was-actor-ryan-goslings-face.md",
+      "title": "A photo-editing AI thought this blurry photo was actor Ryan Gosling's face",
+      "excerpt": "When a photographer used Gigapixel AI to enlarge an image, the software reportedly saw Ryan Gosling's face in a fuzzy part of the picture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ryan-gosling-face-photo-editor-gigapixel-ai-2020-8",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f3bf135a3eafa001de06b7a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ryan-gosling-face-photo-editor-gigapixel-ai-2020-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ryan-gosling-face-photo-editor-gigapixel-ai-2020-8?amp",
+      "publishedDateTime": "2020-08-18T17:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-full-transcript-of-michelle-obamas-dnc-speech.md",
       "title": "Full Transcript of Michelle Obama’s D.N.C. Speech",
       "excerpt": "Michelle Obama, the former first lady, was the keynote speaker on the first night of the 2020 Democratic National Convention.",
@@ -92,47 +191,6 @@
         "AI",
         "AI Hardware",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-hot-chips-2020-live-blog-baidu-kunlun-ai-processor-430pm-pt.md",
-      "title": "Hot Chips 2020 Live Blog: Baidu Kunlun AI Processor (4:30pm PT)",
-      "excerpt": "as well as HBM2, and packing 260 TOPs into 150 W. 07:29PM EDT - Last session of Hot Chips is all about ML inference. Starting with Baidu, and its Kunlun AI processor",
-      "sourceUrl": null,
-      "webUrl": "https://www.anandtech.com/show/16008/hot-chips-2020-live-blog-baidu-kunlun-ai-processor-430pm-pt",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.anandtech.com/doci/16008/8%20-%20Baidu_678x452.png",
-          "width": 678,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AnandTech",
-        "domain": "anandtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -413,6 +471,56 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri.md",
+      "title": "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI",
+      "excerpt": "The results of the joint effort, which originated at Facebook, show that accurate MRIs can be produced more quickly as AI functions with less data, researchers said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-221966/social",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
+      "publishedDateTime": "2020-08-18T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -883,7 +991,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -891,12 +1000,21 @@
       "title": "TensorFlow 2.3 Features Pipeline Bottleneck Reduction and Improved Preprocessing",
       "excerpt": "The TensorFlow project announced the release of version 2.3.0, featuring new mechanisms for reducing input pipeline bottlenecks, Keras layers for pre-processing, and memory profiling.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines",
+      "webUrl": "https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/08/tensorflow-improved-pipelines/en/headerimage/tensorflow-improved-pipelines-1596991592701.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
@@ -915,7 +1033,8 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "TensorFlow"
       ]
     },
     {
@@ -1018,56 +1137,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-18-researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri.md",
-      "title": "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI",
-      "excerpt": "Researchers at Facebook Inc. and NYU Langone Health said Tuesday that a two-year experiment demonstrates how artificial intelligence can produce a ... at NYU Langone Health and a co-author of the research. “Our goal is a five-minute MRI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-221966/social",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "publishedDateTime": "2020-08-18T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-18-facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan.md",
       "title": "Facebook says AI can help you spend less time getting an MRI scan",
       "excerpt": "Facebook doesn't manufacture MRI machines, but the partnership with NYU is a way for the company to advance AI research. Artificial intelligence is playing a larger role in health care, including in robotic surgery, cancer risk predictions and medical ...",
@@ -1098,56 +1167,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-blind-test-shows-ai-enhanced-mri-scans-are-just-as-good-but-4-times-faster.md",
-      "title": "Blind test shows AI-enhanced MRI scans are just as good but 4 times faster",
-      "excerpt": "FastMRI is a project that began in 2015 at NYU and became a team effort with Facebook AI Research (FAIR) almost exactly two years ago. The medical and imaging expertise on NYU’s side was a good ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/18/blind-test-shows-ai-enhanced-mri-scans-are-just-as-good-but-4-times-faster/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/fastmri.jpg?w=1024",
-          "width": 1024,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/18/blind-test-shows-ai-enhanced-mri-scans-are-just-as-good-but-4-times-faster/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/18/blind-test-shows-ai-enhanced-mri-scans-are-just-as-good-but-4-times-faster/amp/",
-      "publishedDateTime": "2020-08-18T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

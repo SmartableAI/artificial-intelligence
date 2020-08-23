@@ -2,6 +2,56 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-07-01-ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027.md",
+      "title": "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027",
+      "excerpt": "This detailed market study covers AI in fashion market growth opportunities and competitive scenarios, which can assist the stakeholders in understanding market trends and prospects in the AI in the fashion market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027-2020-07-01",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-in-these-factories-inspector-robot-will-check-your-work.md",
       "title": "In These Factories, Inspector Robot Will Check Your Work",
       "excerpt": "Artificially intelligent camera systems look for defects and misplaced parts in many industries. The coronavirus pandemic makes them extra useful.",
@@ -1289,55 +1339,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey.md",
-      "title": "Where does your organization stand on the AI curve? (Find out with this survey)",
-      "excerpt": "To learn more about where your company stands now, and how the market is evolving in the AI-first era, take the VB AI Survey now.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/wocintechchat.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Where does your organization stand on the AI curve? (Find out with this survey)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/amp/",
-      "publishedDateTime": "2020-06-30T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

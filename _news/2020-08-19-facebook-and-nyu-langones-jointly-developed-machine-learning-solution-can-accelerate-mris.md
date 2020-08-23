@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-19T13:30:00Z
 webUrl: "https://www.businessinsider.com/facebook-nyu-develop-ai-to-accelerate-mri-scans-2020-8"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Business Insider
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Red Hat’s OpenShift helps users deploy AI and machine-learning solutions"
+    excerpt: "Banks demand security and compliance across mission-critical environments, and one of the largest financial ... them into services.” Another use case for AI and machine-learning deployment ..."
+    publishedDateTime: 2020-08-19T00:23:00Z
+    webUrl: "https://siliconangle.com/2020/08/18/red-hats-openshift-helps-users-deploy-ai-and-machine-learning-solutions-kubecon/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 42
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/Abhinav-Joshi-Tushar-Katarki-KubeCon-2020.jpg"
+        width: 1579
+        height: 851
+        isCached: true
 
 secured: "combj1yAm5NPz24fNXKnCRnvov8y8409dGfB06l+dmeZOHr3ZT+Y84bzx838lYFMrkaQTn2Y3jbhekF5cEJJI73NDyM6ghjVncmq90SbcNzs6GEuo1nwaCkp6O2dOFbTYp1tUEH6zt98ar9916Mc3RtBbRCVaYTM9O0n1+RPJfezR2uyjhCdlTT9aKyOXOByBR7Q5AZo/vi1YpyRER9vdIXtEh2gtPE6jZJb4EiGUaACvVOUydD1RlcPXLF2j8ctmFkw1exMEw7L/dXESbkzXtP4nknEtya4f1jWbgVqCERncCr2bDiQDuvj4g3DMZjtFqWDah/41FsiMTYJDKO7KsSQOH/BtE43qZnGud36kgBd50eApWmpNw90j/L+I1jX0VyzSFfEy2rrafdHPS2XgVeIr+hMq3Tl55nQrpM0ZlNogug5WQygHmGLg1HYrHLOUbV4kX/9rHVUDC46zs+techM3UES57UD4aQhkcPKh5IMwqJYZro7l7jyC6i5d4y3oJPkakvI0gtAP+nM6bgJaQ==;8rs0nuboJC3TSWF/5V3U8Q=="
 ---

@@ -2,6 +2,99 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-28-facebook-rebel-general-ai-algorithm-can-probably-beat-you-at-poker.md",
+      "title": "Facebook ReBel General AI Algorithm Can Probably Beat You At Poker",
+      "excerpt": "A group of researchers from Facebook AI Research has now created a more general AI algorithm dubbed ReBel that can play poker better than at least some",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2018/11/Facebook-Logo-Nov-15-2018-AH.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html/amp",
+      "publishedDateTime": "2020-07-28T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly.md",
+      "title": "Facebook develops AI algorithm that learns to play poker on the fly",
+      "excerpt": "Combining reinforcement learning with search at AI model training and test time has led to a number of advances. Reinforcement learning is where agents learn to achieve goals by maximizing rewards, while search is the process of navigating from a start to a goal state.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/",
+      "publishedDateTime": "2020-07-28T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-facebook-builds-ai-tool-to-identify-harmful-behavior-of-people.md",
       "title": "Facebook Builds AI Tool To Identify Harmful Behavior of People",
       "excerpt": "The latest development can significantly improve software testing for complicated environments, specifically in areas related to privacy, safety and security",
@@ -1347,108 +1440,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-the-us-china-and-the-ai-arms-race-cutting-through-the-hype.md",
-      "title": "The US, China and the AI arms race: Cutting through the hype",
-      "excerpt": "The reality is that US and China efforts to develop AI are entwined, even if the tensions of coronavirus and trade disagreements may spur a separation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/DVYxHNtyKp5XHMiiLCfbwOo6_Yo=/756x567/2020/06/30/fbf0e0ea-8dfc-4bcb-9793-f6eaa8993108/gettyimages-1039282538.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "The US, China and the AI arms race: Cutting through the hype",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
-      "publishedDateTime": "2020-07-08T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-from-ai-to-open-source-how-tech-is-changing-everything-about-the-future-of-healthcare.md",
-      "title": "From AI to open source, how tech is changing everything about the future of healthcare",
-      "excerpt": "The coronavirus pandemic has caused significant shifts in how healthcare is delivered. How many of these advances will last beyond the virus?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/07/cb1aeed9-c3de-46fe-84ef-1334feec0cf8/thumbnail/1200x675/7a57cb88b29b68d90e8c917d264ba786/istock-1180529694.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "From AI to open source, how tech is changing everything about the future of healthcare",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
-      "publishedDateTime": "2020-07-07T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI",
         "Facebook AI"
       ]

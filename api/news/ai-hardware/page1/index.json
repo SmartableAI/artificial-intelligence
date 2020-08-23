@@ -328,47 +328,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-18-hot-chips-2020-live-blog-baidu-kunlun-ai-processor-430pm-pt.md",
-      "title": "Hot Chips 2020 Live Blog: Baidu Kunlun AI Processor (4:30pm PT)",
-      "excerpt": "as well as HBM2, and packing 260 TOPs into 150 W. 07:29PM EDT - Last session of Hot Chips is all about ML inference. Starting with Baidu, and its Kunlun AI processor",
-      "sourceUrl": null,
-      "webUrl": "https://www.anandtech.com/show/16008/hot-chips-2020-live-blog-baidu-kunlun-ai-processor-430pm-pt",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.anandtech.com/doci/16008/8%20-%20Baidu_678x452.png",
-          "width": 678,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AnandTech",
-        "domain": "anandtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-18-cerebras-teases-second-generation-wafer-scale-ai-chip.md",
       "title": "Cerebras teases second-generation wafer-scale AI chip",
       "excerpt": "The existing Gen-1 has 18 gigabytes of DRAM on die. Lie told the audience to wait for details \"in coming months.\" Cerebras competes with established GPU heavyweight Nvidia and other startups such as Graphcore and Tachyum.",
@@ -1343,6 +1302,56 @@
       "topics": [
         "AI",
         "Google AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-global-edge-ai-chips-market-2020-by-key-players-regions-type-and-application-forecast-to-2025.md",
+      "title": "Global Edge AI Chips Market 2020 by Key Players, Regions, Type and Application, Forecast to 2025",
+      "excerpt": "Global Edge AI Chips Market Growth 2020-2025 determines the views and opinions expressed by the consumers. The report gives the estimation of the trends, which are based on the present, future market analysis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-by-key-players-regions-type-and-application-forecast-to-2025-2020-08-04",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "AI Hardware"
       ]
     }

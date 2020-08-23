@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-23-former-microsoft-leader-and-fiftythree-co-founder-georg-petschnigg-on-tiktok-surface-duo-more.md",
+      "title": "Former Microsoft leader and FiftyThree co-founder Georg Petschnigg on TikTok, Surface Duo, more",
+      "excerpt": "Georg Petschnigg learned a lot during an 11-year career at Microsoft, where he worked on various consumer products such as Word and Microsoft Courier. He also got an inside look at how the tech",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/former-microsoft-leader-fiftythree-co-founder-georg-petschnigg-tiktok-surface-duo/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/tiktok-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/former-microsoft-leader-fiftythree-co-founder-georg-petschnigg-tiktok-surface-duo/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/former-microsoft-leader-fiftythree-co-founder-georg-petschnigg-tiktok-surface-duo/amp/",
+      "publishedDateTime": "2020-08-23T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-22-environmental-sustainability-and-ai.md",
       "title": "Environmental Sustainability And AI",
       "excerpt": "AI can contribute to your company's carbon footprint or if managed well, help reduce the impact your company has on the environment.",
@@ -1279,38 +1329,6 @@
       "provider": {
         "name": "Android Police",
         "domain": "androidpolice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-hyland-releases-foundation-version-of-brainware-intelligent-capture.md",
-      "title": "Hyland Releases Foundation Version of Brainware Intelligent Capture",
-      "excerpt": "an intelligent content analysis tool within the portfolio of Microsoft Azure Cognitive Services. The Microsoft engine includes advanced OCR capabilities for extracting difficult handwritten inputs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hyland-releases-foundation-version-of-brainware-intelligent-capture/article_9e694b5d-3d3c-5562-9de9-c3aaff952d98.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

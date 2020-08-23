@@ -2,6 +2,56 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2020-06-19-how-decentralization-could-alleviate-data-biases-in-artificial-intelligence.md",
+      "title": "How Decentralization Could Alleviate Data Biases In Artificial Intelligence",
+      "excerpt": "Data quality concerns continue to plague artificial intelligence. But blockchain-based incentive mechanisms could significantly change that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/oluwaseunadeyanju/2020/06/19/how-decentralization-could-alleviate-data-biases-in-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1200534680%2F0x0.jpg",
+          "width": 1200,
+          "height": 778,
+          "title": "How Decentralization Could Alleviate Data Biases In Artificial Intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/oluwaseunadeyanju/2020/06/19/how-decentralization-could-alleviate-data-biases-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oluwaseunadeyanju/2020/06/19/how-decentralization-could-alleviate-data-biases-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-06-19T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-japans-fujitsu-brings-hand-washing-ai-to-covid-19-fight.md",
       "title": "Japan's Fujitsu brings hand washing AI to COVID-19 fight",
       "excerpt": "Three months after the World Health Organization recommended singing \"Happy Birthday\" twice during hand washing to fight the coronavirus, Japan's Fujitsu Ltd has developed an artificial intelligence monitor it says will ensure healthcare,",
@@ -1098,56 +1148,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-intel-stock-slips-as-new-lines-of-ai-chips-released.md",
-      "title": "Intel stock slips as new lines of AI chips released",
-      "excerpt": "Intel Corp. shares slid with the broader market Thursday as the chip giant introduced several new products to support artificial intelligence and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/intel-stock-slips-as-new-lines-of-ai-chips-released-2020-06-18",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.marketwatch.com/public/resources/images/MW-II855_INTC_0_ZH_20200618120245.jpg",
-          "width": 890,
-          "height": 501,
-          "title": "Intel stock slips as new lines of AI chips released",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/EED0023A-B17A-11EA-8CDA-8F4E519ABD47",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/EED0023A-B17A-11EA-8CDA-8F4E519ABD47",
-      "publishedDateTime": "2020-06-18T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

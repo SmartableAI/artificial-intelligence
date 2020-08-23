@@ -13,6 +13,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Facebook AI
 
 images:
   - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-facebook-NYU-fast-mri-study.jpg"
@@ -20,6 +21,6 @@ images:
     height: 720
     isCached: true
 
-secured: "A4WLJhZWllfED6Od++McMRXge21cZ+JL1MBAEqVkmrXvm3o1vzImsLccDk3Qlc+GYBr/3aHt1qwyb8Tt2mSIiRZrD2e7mnZrgHOiLLpcOlJpgZLR08+gQq7ZrvkZ8gw5a070kPnvOqerPCT1uASvurF0PQuJwPGcNX+ueERDWIhnd7PFsBjoHRTGHkU09PWYALe4+If3wJT+5F/7SqAwfuoL9zcFd31fUtSiNWaABjBnMxPUODOYG/z8ls30bdfRmCpgEdfXDP/FOIMW7a/GH34Xg5ucHSkCEs3vOqBjylEPiQMUZReIONxjbEtyWXLxGP/3jBx8wBMv4+H9OZvrLw==;fsNMkl9HGoMOeetOR7CvzQ=="
+secured: "lD+8DB2TOhiise7VC6xU6KNU4uOASJFevPaVGbEHXQB/wSKU6juf2Q3+6WaeCDRi38sVUzT43Qfom5tgFyrcPxITsoO8smyf9k+1NQTBxbdGjtkHuzhejMOCrQHOiLuxOUqUGMOetNyJR9C26faV3wbQS1Z2jWc4/KBFUnNzBf9XFYmcDmJRc3+raCRJKpo+teMAlk9rDKSiQHT91okZcFTpf9J1fHmxAJJkxctrDwee2QDLZ79br/KQC/94xbpwb4x/WHOg2gh5vfEfoONIHPQf34u7QBjs/3WBRRZWlRzVfA3v8dRDpi5Y0cU+sSJpV7K73KjGesHT8wP4uRidaP8p14qdlsj+iwlpGTQ2lf3jTUuKyATC5xWdfvFjHCf1Sj7Cv1rwHQan8aJLSAsaqVA/CZHGPLuwgcu1iI7E4IPbTV6u77p4GGRgo9To22nRQEK8vTx33WY3IIi+ovZYH7wR9B+/rGNjAD575HC4reTusX7+J/PF+vwF+RZzUul2;BYDrB/WJg6SnT7I07bsGQQ=="
 ---
 

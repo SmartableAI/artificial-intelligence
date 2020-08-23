@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Machine learning unearths signature of slow-slip quake origins in seismic data"
-    excerpt: "\"The machine learning model found that, close to the end of the slow slip cycle, a snapshot of the data is imprinted with fundamental information regarding the upcoming failure of the system ..."
-    publishedDateTime: 2020-08-18T19:54:00Z
-    webUrl: "https://phys.org/news/2020-08-machine-unearths-signature-slow-slip-quake.html"
-    ampWebUrl: "https://phys.org/news/2020-08-machine-unearths-signature-slow-slip-quake.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-machine-unearths-signature-slow-slip-quake.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/43-machinelearn.jpg"
-        width: 2700
-        height: 1800
-        isCached: true
 
 secured: "bNGtp0CoJH95OHgb4Bd1PQTgBcVmBGHiyEmCw1O39kFMS6qVoNu8n45OyQ9BVUzCkRgkKRYdDpJU4VqQBf/oN96F+R+QlbHI+XUTscv1qK86KxfnfKnxZUzBaXHfu9W9nez0ctobMH5MWC9pTTZtiyFUYIvvlCm3Ew6cK04000F5HbfOBqYGL5F0leVassFp8oOFYVJTVRcJxRg/fLeuBpuQrTjlLr9vca/WtT8dTN8uh/q+HsU86k9K5JF+AglKxYiZOq6uLk6SJZMGOz3Kh3n16g5wm6pygEGQMQmp4YIyErl24WAOJcsK0IuPStlRxS+Y7zxYFB+AXRcmnSXXww==;AzXKT4oGfuzRGW5vV8uJiQ=="
 ---

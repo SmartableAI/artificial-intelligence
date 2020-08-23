@@ -2,6 +2,108 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-08-the-us-china-and-the-ai-arms-race-cutting-through-the-hype.md",
+      "title": "The US, China and the AI arms race: Cutting through the hype",
+      "excerpt": "The reality is that US and China efforts to develop AI are entwined, even if the tensions of coronavirus and trade disagreements may spur a separation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/DVYxHNtyKp5XHMiiLCfbwOo6_Yo=/756x567/2020/06/30/fbf0e0ea-8dfc-4bcb-9793-f6eaa8993108/gettyimages-1039282538.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "The US, China and the AI arms race: Cutting through the hype",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
+      "publishedDateTime": "2020-07-08T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-from-ai-to-open-source-how-tech-is-changing-everything-about-the-future-of-healthcare.md",
+      "title": "From AI to open source, how tech is changing everything about the future of healthcare",
+      "excerpt": "The coronavirus pandemic has caused significant shifts in how healthcare is delivered. How many of these advances will last beyond the virus?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/07/cb1aeed9-c3de-46fe-84ef-1334feec0cf8/thumbnail/1200x675/7a57cb88b29b68d90e8c917d264ba786/istock-1180529694.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "From AI to open source, how tech is changing everything about the future of healthcare",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
+      "publishedDateTime": "2020-07-07T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-dont-ask-if-artificial-intelligence-is-good-or-fair-ask-how-it-shifts-power.md",
       "title": "Don’t ask if artificial intelligence is good or fair, ask how it shifts power",
       "excerpt": "Law enforcement, marketers, hospitals and other bodies apply artificial intelligence (AI) to decide on matters such as who is profiled as a criminal, who is likely to buy what product at what price, who gets medical treatment and who gets hired.",

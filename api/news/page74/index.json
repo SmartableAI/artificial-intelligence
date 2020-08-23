@@ -2,6 +2,56 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2020-06-26-robotics-in-business-everything-humans-need-to-know.md",
+      "title": "Robotics in business: Everything humans need to know",
+      "excerpt": "3D gaming sensors are helping robots navigate the clutter of the unstructured human world. And companies like Google, Amazon, and Apple have been hard at work bringing limited Artificial Intelligence platforms online and into homes. This has all been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robotics-in-business-everything-humans-need-to-know/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2017/02/07/0d0d7aa7-1578-4781-b083-4913601d89dc/resize/1200x900/831cf0856b72eff833dd5e676a5302e9/20170207104736-intro.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Robotics in business: Everything humans need to know",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robotics-in-business-everything-humans-need-to-know/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robotics-in-business-everything-humans-need-to-know/",
+      "publishedDateTime": "2020-06-26T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-embracing-ai-technologies-while-harnessing-the-power-of-the-heart.md",
       "title": "Embracing AI Technologies While Harnessing The Power Of The Heart",
       "excerpt": "When the world is moving so fast and the speed of change is dizzying, we must remember who we are to remain fully human.",
@@ -1079,57 +1129,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-facebook-releases-ai-development-tool-based-on-nethack.md",
-      "title": "Facebook releases AI development tool based on NetHack",
-      "excerpt": "Facebook released the NetHack Learning Environment, a research tool based on the Atari game NetHack that's designed to benchmark and train AI agents.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/25/facebook-releases-ai-development-tool-based-on-nethack/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook releases AI development tool based on NetHack",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/25/facebook-releases-ai-development-tool-based-on-nethack/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/facebook-releases-ai-development-tool-based-on-nethack/amp/",
-      "publishedDateTime": "2020-06-25T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI"
       ]
     }
   ],

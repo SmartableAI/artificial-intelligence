@@ -2,6 +2,56 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-07-03-kt-and-hyundai-accelerate-digital-transformation-with-smart-robots.md",
+      "title": "KT and Hyundai Accelerate Digital Transformation with Smart Robots",
+      "excerpt": "Under the contracts, KT will acquire a 10 percent equity stake in Hyundai Robotics, the leader in the Korean industrial robotics market, for 50 billion won. KT also signed a business cooperation agreement with Hyundai Heavy Industries Holdings for joint efforts toward digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/kt-and-hyundai-accelerate-digital-transformation-with-smart-robots-2020-06-17-15183012",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "KT and Hyundai Accelerate Digital Transformation with Smart Robots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-03T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-03-natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025.md",
       "title": "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025",
       "excerpt": "Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023” To Its Research Database This report focuses on the global Natural language processing (NLP) status, future forecast,",
@@ -1295,58 +1345,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots.md",
-      "title": "9 super-smart problem solvers take on bias in AI, microplastics, and language lessons for chatbots",
-      "excerpt": "These members of MIT's latest 35 Under 35 list are engineers, chemists, and researchers working for universities, startups, and big tech companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/07/02/1c42fa20-2dad-4cf9-a8e5-6de52362ba1d/resize/1200x/df859e53ef41149c778c4b7905c4a4bb/istock-1133385995.jpg",
-          "width": 1200,
-          "height": 692,
-          "title": "9 super-smart problem solvers take on bias in AI, microplastics, and language lessons for chatbots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots/",
-      "publishedDateTime": "2020-07-02T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
       ]
     }
   ],

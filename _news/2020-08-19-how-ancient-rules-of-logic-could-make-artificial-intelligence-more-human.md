@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     height: 922
     isCached: true
 
-related:
-  - title: "Aristotle and the chatbot: how ancient rules of logic could make artificial intelligence more human"
-    excerpt: "In our work building therapy chatbots ... could form core components of an artificial general intelligence (AGI). This is a very simple example, but more complex and expressive statements are ..."
-    publishedDateTime: 2020-08-18T20:16:00Z
-    webUrl: "https://theconversation.com/aristotle-and-the-chatbot-how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human-142811"
-    ampWebUrl: "https://theconversation.com/amp/aristotle-and-the-chatbot-how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human-142811"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/aristotle-and-the-chatbot-how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human-142811"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 45
-    images:
-      - url: "https://images.theconversation.com/files/348519/original/file-20200721-174332-o3yr6f.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=248&fit=crop"
-        width: 320
-        height: 248
-        isCached: true
-
-secured: "M5kn+OFsQaxxrI2mukYXBVaGbLAww+LJ693mXGWwUePmrAcxpZ674Cab3Ohwre8BUPTd227UcZorshSUv5tLLiBht+xBc5B/rGYHkRXOWngSLd3AoTeYJx5llGqSjlF2ae9GuwaR8mK62OchnJgnIOs/sKEGxkqY6Q0soad2AmjA40LW8CuxDzApGpE42d6lWl1Qis/DFBqkI2EH+Ey3QAw7acWtLd6e6x+zIIZgE0zmWui0P/eABoM+A9oVny+Wozu2Yld6zwDbgwoUvFGuClup5Cp2ZZd5D6yqVPShPDnwXjGhX39JbvU5/0XGlN2PDoqjPfjFP2d20nOjIbDpaw==;t2+f3YJtzU+hTj4/A95jZw=="
+secured: "OOiyvB9wmSpnJgx7avmNkVmTnhFXZ1zJk44Nk8N+vDX+HoZSYyA3SJcV33Kl+Yrfk8DA18Q5d0vmW8161OeHPf6SZ776Z3oFO9UFexGOKdMMT7rqL7weOobUkapnfOt8nv2X9oNISuN15R53dNpvB5BxIttSJHhHwSIHkuTfHIHtbADJCSjLcoQZZCFoJQdShibrsPKkmkn43CCWZWVguVAPj67FJ/6AECJ3cJzYWJVOxdXUue2g9DAs0y3+kPhoLhw68A/p5ew67wIkyAsLWVKvC6buvxmZz2slaA2MOVAH48wuBbgCzr7N6ceW0hwiQVrxQMHv4GPjJunY1U8f+FGSXHgieRACzLMnIOifdfu+s/K7Chalvlinil7wg61Y8bxt3itsCjPNC65CYvVTD39Fsdh6krrqh7vWMdit2+liG5D7VtO4ynobdU4tCuaX6nm066X22lAu5DAqrd1eN90HW5Meh4kWgtrhkz70gdjoJM2y/AECPkgi1Q/pG3mR;uS6AttXZZDEjBvimeVBYDw=="
 ---
 

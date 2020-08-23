@@ -2,6 +2,47 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-08-13-sas-automl-.md",
+      "title": "코오롱베니트, ‘SAS AutoML(자동화 머신러닝) 활용 전략’ 웨비나 개최",
+      "excerpt": "코오롱베니트(대표 이진용)가 오는 8월 27일 ‘AI기반 의사결정 지원을 위한 SAS AutoML 활용 전략’ 웨비나를 개최한다고 13일 밝혔다. AutoML(자동화 머신러닝)은 최적의 분석 알고리즘 선택-모델링-평가-보완 작업을 반복적으로 자동 수행하는 기술이다. 분석 전문가가 아닌 기획, 마케팅, 영업, 품질 등 기업 담당자들도 데이터만 있으면 손쉽게",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysecu.com/news/articleView.html?idxno=112422",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailysecu.com/news/photo/202008/112541_132317_5753.jpg",
+          "width": 600,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dailysecu.com",
+        "domain": "dailysecu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025.md",
       "title": "Machine Learning as a Service (MLaaS) Market Size to Witness Huge Growth by 2025",
       "excerpt": "Growth forecast report \" Machine Learning as a Service (MLaaS) Market size by Product Type (Special Service and Management Services), By Application (Banking, Financial Services, Insurance, Automobile,",
@@ -910,7 +951,7 @@
       "title": "Artificial intelligence ethics a 'primary concern' for IBM",
       "excerpt": "Technology Editor at the Australian David Swan says it is “incredibly important” to address the ethics in artificial intelligence in order to protect the use of Australian data.",
       "sourceUrl": null,
-      "webUrl": "https://www.heraldsun.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162",
+      "webUrl": "https://www.adelaidenow.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -919,11 +960,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T06:48:00-07:00",
+      "publishedDateTime": "2020-08-12T07:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "heraldsun.com.au",
-        "domain": "heraldsun.com.au",
+        "name": "Adelaide Now",
+        "domain": "adelaidenow.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1366,47 +1407,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-hanwha-techwin-announces-ai-deep-learning-based-video-analytics-social-distance-measuring-application.md",
-      "title": "Hanwha Techwin announces AI deep learning-based video analytics Social Distance Measuring application",
-      "excerpt": "Hanwha Techwin has launched AI deep learning-based video analytics Social Distance Measuring application which, in a COVID-19 affected world, helps businesses to implement their social distancing policies. Developed by A.I Tech, Hanwha Techwin’s award ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/hanwha-techwin-announces-ai-deep-learning-co-9381-ga-npr.1597220236.html?ref=nav",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/cognitive-systems-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/hanwha-techwin-announces-ai-deep-learning-co-9381-ga-npr.1597220236.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/hanwha-techwin-announces-ai-deep-learning-co-9381-ga-npr.1597220236.html",
-      "publishedDateTime": "2020-08-12T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-19T07:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19?mod=mw_quote_news&tesla=y"
 type: article
 quality: 69
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -151,15 +151,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 18
-  - title: "Deep Learning Market: Future Technology, Growth ,Trends , Opportunities and Key Players Analysis Report 2023"
-    excerpt: "Global deep learning market is relied upon to observe significant development during the conjecture time frame. North America is assessed to be a prominent area for deep learning market because of the nearness of key market players, vigorously putting ..."
-    publishedDateTime: 2020-08-18T19:45:00Z
-    webUrl: "https://ipsnews.net/business/2020/08/18/deep-learning-market-future-technology-growth-trends-opportunities-and-key-players-analysis-report-2023/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
 
 secured: "w+zMD/ZOJkspjTXh2ecw5VRQkit0kbCZoHby11PY7Hez8ZVx9g4GattCUD8MGhgYZhRdCU1y9w8e7mYRxobu/+iLGRyfN5PBeey0uQDMr1C4UYxOx74ntiBf83Z4wgbvOrrnvh94czDIDSUFQoSKleHmdJRjtwcXWc8wsDp04cNBVaQXHubfVlLeB8ksOTXUr83neXrtg1jJtFXQmvoU1UZ3P8trl3TnmGDAlPjcoScuDnpGRbTdLmXTSJFnpiqzGNZUoBe6K8fVVMiD0QDfvf9HA+5GpiCcLfS2JB4NV6kNIVv0IbiQg4M2Q4qFR4ADUaRLYPI8CVIjJJrrYVu+lQ==;oRI1TsPRCDEHIsXqO6luZA=="
 ---

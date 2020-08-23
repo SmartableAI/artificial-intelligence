@@ -3,24 +3,24 @@ category: news
 title: "Read, watch Kamala Harris' acceptance speech from the Democratic National Convention"
 excerpt: "California Sen. Kamala Harris gave her vice presidential nomination acceptance speech on the third night of the 2020 Democratic National Convention."
 publishedDateTime: 2020-08-20T08:41:00Z
-webUrl: "https://www.ksdk.com/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
-ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
-cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
+webUrl: "https://www.khou.com/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
+ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
+cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/kamala-harris-dnc-full-speech/507-ece22113-f1e9-4533-b34c-a8778983557e"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: KSDK
-  domain: ksdk.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media.ksdk.com/assets/CCT/images/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80_750x422.jpg"
+  - url: "https://media.khou.com/assets/CCT/images/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80/9c6f01eb-5b4a-4b20-86f7-9e5ba8f36e80_750x422.jpg"
     width: 750
     height: 422
     isCached: true
@@ -43,6 +43,6 @@ related:
         height: 720
         isCached: true
 
-secured: "1duB2xXU5dNrZu2SO8mUAaoeXW9fkOaViKS3JI+yUI1WzRkhTTdblNdbOBODpjLEPTiE6M1jf8KGzQN1ATvAlEFMULLDdUlyiZ3eheHs9GfWODer2WZFqEPSvwQ2IVoClM3B0OyteCHIIfuj15JlrLi9RtKZEkaZWcPmaBGgBWhc9F6K53NQ2kPK2spAPJNxUXCN95kdfh0D/BQ1tm68wJmSGTWl+dfBnUogn/Ge6AKX5E6i3XLwtL8FA7FNZrh9ZpmrGSQXi0F6lrOFovqClx0T/5yb/85uLc0DeudmBpfXy/1X54INCBm24YQyR68g20QA9Jlcl4Vqn7qNNSpQMQ==;iKd6upSjUSZBjjZdNlFO/w=="
+secured: "fM+MXi71Hc9clE27fkX2X3xNMTykXEPrU2e1OAmmZ+sQK2CEmJRSqI2mNrs2qLX4Cbc0KyE7L27aZI71vdgQFBlvrSZPZgPr1i+zC/mbLfpqjZqg1+xwLODaTaWFOjVlZtFjE0YJmUU3PCjHJgKklBFwqXwY9F3Iwr9sHTvWFDZqqxob217/r0qwViQnwwpJDlzrq/5fvJzxJvMiYwIV1Ky52GRWFDM7pLhh4r7rzzjAkqIDw1s0BlIW2y2beVE97MGw/zLAI3itpctOMVafWi9HAxHEytK125+0DMHwzTr+udaGrx19ql3FYGzVtzzD+aV8OUuKFYTZ3lVvZipnxA==;G8uJHLEa/rYj1p3SGZnTsw=="
 ---
 

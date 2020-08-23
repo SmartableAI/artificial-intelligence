@@ -2,38 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-07-01-dynics-announces-ai-enabled-vision-system-powered-by-nvidia-t4-tensor-core-gpu-to-improve-and-automate-3d-vision-applications.md",
-      "title": "Dynics announces AI-enabled vision system powered by NVIDIA T4 Tensor Core GPU to improve and automate 3D vision applications",
-      "excerpt": "AI technology is allowing manufacturers to increase efficiency ... The XiT4 is powered by an NVIDIA T4 Tensor Core GPU, which features 320 NVIDIA Turing™ Tensor Cores and 2,560 NVIDIA CUDA® cores for critical processes that can benefit from processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/dynics-announces-ai-enabled-vision-system-powered-by-nvidia-t4-tensor-core-gpu-to-improve-and-automate-3d-vision-applications-9027172",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-01-nvidia-boosts-virtual-gpu-support-to-help-home-workers.md",
       "title": "Nvidia boosts virtual GPU support to help home workers",
       "excerpt": "The pandemic has changed the way organizations operate and many workers will continue to work from home once their coworkers began returning to the office which is why Nvidia has released a new version of its virtual GPU software,",
@@ -1347,6 +1315,56 @@
         "name": "Business Wire",
         "domain": "businesswire.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-intel-stock-slips-as-new-lines-of-ai-chips-released.md",
+      "title": "Intel stock slips as new lines of AI chips released",
+      "excerpt": "Intel Corp. shares slid with the broader market Thursday as the chip giant introduced several new products to support artificial intelligence and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/intel-stock-slips-as-new-lines-of-ai-chips-released-2020-06-18",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-II855_INTC_0_ZH_20200618120245.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "Intel stock slips as new lines of AI chips released",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/EED0023A-B17A-11EA-8CDA-8F4E519ABD47",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/EED0023A-B17A-11EA-8CDA-8F4E519ABD47",
+      "publishedDateTime": "2020-06-18T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,56 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-07-24-our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars.md",
+      "title": "Our Neanderthal DNA Might Get Triggered By AI, Initially Set Off By Self-Driving Cars",
+      "excerpt": "Modern-day genetic hunters are using all the tricks of the trade-in conducting DNA analyses to possibly discover a fluke or some standout innate genomic characteristic that might account for the widespread differences in how people react upon COVID-19 exposure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1186943945%2F0x0.jpg",
+          "width": 1200,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/amp/",
+      "publishedDateTime": "2020-07-24T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-apple-acquires-more-ai-startups-than-any-other-tech-company.md",
       "title": "Apple Acquires More AI Startups Than Any Other Tech Company",
       "excerpt": "Of the 489 companies to buy an AI startup over the last decade, 431 of them purchased only one company. That means these tech giants—and Apple, specifically—are dominating this AI arms race. Related: How to Use Your iPad as a Second Monitor on Any ...",
@@ -1101,56 +1151,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-closing-data-gaps-with-lacuna-fund.md",
-      "title": "Closing data gaps with Lacuna Fund",
-      "excerpt": "Machine learning has shown enormous promise for social good, whether in helping respond to global health pandemics or reach citizens before natural disasters hit. But even as machine learning technology becomes increasingly accessible, social innovators still face significant barriers in their efforts",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Wadhwani_2.jpg",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/amp/",
-      "publishedDateTime": "2020-07-23T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

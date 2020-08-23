@@ -2,6 +2,56 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-22-fortude-first-from-sri-lanka-to-join-microsoft-ai-for-accessibility-program.md",
+      "title": "Fortude first from Sri Lanka to join Microsoft AI for Accessibility program",
+      "excerpt": "The work they have done is an important step in scaling accessible technology and building on our recent advancements in Microsoft Cognitive Services and Machine Learning to develop accessible and intelligent AI solutions for all,” added Hasitha.",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/apac/2020/06/22/fortude-first-from-sri-lanka-to-join-microsoft-ai-for-accessibility-program/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/06/Fortude-AI4A-Sri-Lanka-768x512.jpg",
+          "width": 768,
+          "height": 512,
+          "title": "Fortude first from Sri Lanka to join Microsoft AI for Accessibility program",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-21T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-microsoft-acquires-adrm-software-to-develop-data-models-for-azure.md",
       "title": "Microsoft Acquires ADRM Software to Develop Data Models for Azure",
       "excerpt": "Microsoft has announced the purchase of data model develop ADRM, which will be incorporated into its Microsoft Azure division.",

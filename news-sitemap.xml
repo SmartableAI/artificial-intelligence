@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.geekwire.com/2020/former-microsoft-leader-fiftythree-co-founder-georg-petschnigg-tiktok-surface-duo/</loc>
+    <lastmod>2020-08-23T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/nancywang/2020/08/23/first-woman-director-at-mit-cs-ai-lab-want-more-women-in-stem-inspire-them-early/</loc>
     <lastmod>2020-08-22T23:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -421,12 +427,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://cosmosmagazine.com/earth/earth-sciences/machine-learning-finds-quake-origin-signatures/</loc>
-    <lastmod>2020-08-19T11:48:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://siliconangle.com/2020/08/19/microsoft-targets-fastest-azure-ai-instance-date-large-neural-networks/</loc>
     <lastmod>2020-08-19T10:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -489,6 +489,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/19/is-your-bi-team-ai-ready-enter-automl-2-0/</loc>
     <lastmod>2020-08-19T06:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/facebook-nyu-develop-ai-to-accelerate-mri-scans-2020-8</loc>
+    <lastmod>2020-08-19T06:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -583,6 +589,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.bloomberg.com/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus</loc>
+    <lastmod>2020-08-18T20:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/</loc>
     <lastmod>2020-08-18T19:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -609,12 +621,6 @@
   <url>
     <loc>https://www.hpcwire.com/2020/08/19/microsoft-azure-adds-a100-gpu-instances/</loc>
     <lastmod>2020-08-18T17:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.anandtech.com/show/16008/hot-chips-2020-live-blog-baidu-kunlun-ai-processor-430pm-pt</loc>
-    <lastmod>2020-08-18T16:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -651,6 +657,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/18/amazon-now-offers-third-party-solutions-for-contact-center-ai/</loc>
     <lastmod>2020-08-18T12:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600</loc>
+    <lastmod>2020-08-18T11:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -715,7 +727,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines</loc>
+    <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -728,12 +740,6 @@
   </url>
   <url>
     <loc>https://www.zdnet.com/article/informatica-buys-ai-startup-for-entity-and-schema-matching/</loc>
-    <lastmod>2020-08-18T06:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click</loc>
     <lastmod>2020-08-18T06:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1567,8 +1573,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.heraldsun.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162</loc>
-    <lastmod>2020-08-12T06:48:00-07:00</lastmod>
+    <loc>https://www.adelaidenow.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162</loc>
+    <lastmod>2020-08-12T07:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2011,7 +2017,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/PR%2520Newswire/56e335acee9728a4dbb3c2cf163211ca</loc>
+    <loc>https://www.prnewswire.com/news-releases/stanford-center-for-health-education-launches-online-program-in-artificial-intelligence-in-healthcare-to-improve-patient-outcomes-301108618.html</loc>
     <lastmod>2020-08-10T07:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2077,7 +2083,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-governance-market-seeking-excellent-growth-ibm-google-facebook-2020-08-10?tesla=y</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-governance-market-seeking-excellent-growth-ibm-google-facebook-2020-08-10</loc>
     <lastmod>2020-08-09T21:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

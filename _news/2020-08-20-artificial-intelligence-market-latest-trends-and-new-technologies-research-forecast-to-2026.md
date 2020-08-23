@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-20T10:34:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-and-new-technologies-research-forecast-to-2026-2020-08-20"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Software Market Size by Production, Top Countries Import-Export and Consumption Forecast & Regional Analysis by 2024"
+    excerpt: "Artificial Intelligence Software Market\" 2020-2024 Report Provides Market Share, CAGR, Production, Consumption,"
+    publishedDateTime: 2020-08-20T15:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-size-by-production-top-countries-import-export-and-consumption-forecast-regional-analysis-by-2024-2020-08-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

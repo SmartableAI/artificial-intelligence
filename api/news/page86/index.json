@@ -2,6 +2,56 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2020-06-18-intel-stock-slips-as-new-lines-of-ai-chips-released.md",
+      "title": "Intel stock slips as new lines of AI chips released",
+      "excerpt": "Intel Corp. shares slid with the broader market Thursday as the chip giant introduced several new products to support artificial intelligence and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/intel-stock-slips-as-new-lines-of-ai-chips-released-2020-06-18",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-II855_INTC_0_ZH_20200618120245.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "Intel stock slips as new lines of AI chips released",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/EED0023A-B17A-11EA-8CDA-8F4E519ABD47",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/EED0023A-B17A-11EA-8CDA-8F4E519ABD47",
+      "publishedDateTime": "2020-06-18T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-this-startup-uses-machine-learning-to-change-the-way-drugs-are-developed.md",
       "title": "This startup uses machine learning to change the way drugs are developed",
       "excerpt": "Insitro, the startup founded by Daphne Koller, is taking a radical new approach to drug development. The company uses a team of biologists and machine learning experts to help develop new drugs that are more likely to succeed.",
@@ -1071,56 +1121,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-businesses-put-ai-innovation-on-hold-to-avoid-public-backlash.md",
-      "title": "Businesses put AI innovation on hold to avoid public backlash",
-      "excerpt": "Several significant barriers to building AI embedded with ethical principles are contributing to swelling public distrust in automated and data-driven technologies and software, according to the Centre for Data Ethics and Innovation (CDEI). A number of UK ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356122/significant-public-distrust-deterring-businesses-from",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570815804/itpro/2017/05/sad_robot_ai.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "Businesses put AI innovation on hold to avoid public backlash",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356122/significant-public-distrust-deterring-businesses-from?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/356122/significant-public-distrust-deterring-businesses-from?amp",
-      "publishedDateTime": "2020-06-18T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

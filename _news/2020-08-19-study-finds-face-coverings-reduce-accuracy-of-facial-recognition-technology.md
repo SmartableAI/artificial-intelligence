@@ -27,7 +27,7 @@ related:
   - title: "Face masks give facial recognition software an identity crisis"
     excerpt: "As tech firms scramble to keep up with reality of coronavirus, some experts say users must change"
     publishedDateTime: 2020-08-21T15:56:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis?CMP=twt_gu"
+    webUrl: "https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
     ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
     type: article

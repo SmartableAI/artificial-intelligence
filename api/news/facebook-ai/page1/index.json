@@ -296,6 +296,107 @@
       ]
     },
     {
+      "path": "_news/2020-08-19-facebook-and-nyu-langones-jointly-developed-machine-learning-solution-can-accelerate-mris.md",
+      "title": "Facebook and NYU Langone's jointly developed machine learning solution can accelerate MRIs",
+      "excerpt": "Facebook AI Research and NYU Langone released results of a blind test revealing the effectiveness of their AI system to accelerate MRI scans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/facebook-nyu-develop-ai-to-accelerate-mri-scans-2020-8",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f3d25c6cdf25a001e84e190?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-19T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri.md",
+      "title": "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI",
+      "excerpt": "The results of the joint effort, which originated at Facebook, show that accurate MRIs can be produced more quickly as AI functions with less data, researchers said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-221966/social",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
+      "publishedDateTime": "2020-08-18T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-facebooks-ai-can-generate-mri-images-in-minutes-instead-of-an-hour.md",
       "title": "Facebook's AI can generate MRI images in minutes instead of an hour",
       "excerpt": "Now, after two years of research, teams from Facebook AI and NYU Langone Health have developed a neural network that can cut the amount of time people have to spend in an MRI machine from more than an hour to just a few minutes. The network ...",
@@ -346,43 +447,34 @@
       ]
     },
     {
-      "path": "_news/2020-08-18-researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri.md",
-      "title": "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI",
-      "excerpt": "Researchers at Facebook Inc. and NYU Langone Health said Tuesday that a two-year experiment demonstrates how artificial intelligence can produce a ... at NYU Langone Health and a co-author of the research. “Our goal is a five-minute MRI.",
+      "path": "_news/2020-08-18-facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging.md",
+      "title": "Facebook and NYU are using AI to dramatically speed up MRI imaging",
+      "excerpt": "Two years ago, Facebook’s Artificial Intelligence Research group (FAIR) began collaborating with researchers at New York University’s Medical School on artificial intelligence that held the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click",
+      "webUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 129,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-221966/social",
-          "width": 960,
-          "height": 640,
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-facebook-NYU-fast-mri-study.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "publishedDateTime": "2020-08-18T06:06:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T06:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -391,8 +483,9 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -876,7 +969,7 @@
       "title": "AI Governance Market Seeking Excellent Growth | IBM, Google, Facebook",
       "excerpt": "Latestreleased the research study on Global AI Governance Market, offers a detailed overview of the factors influencing the global business scope. AI Governance Market research report shows the latest market insights,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-governance-market-seeking-excellent-growth-ibm-google-facebook-2020-08-10?tesla=y",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-governance-market-seeking-excellent-growth-ibm-google-facebook-2020-08-10",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1334,99 +1427,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-facebook-rebel-general-ai-algorithm-can-probably-beat-you-at-poker.md",
-      "title": "Facebook ReBel General AI Algorithm Can Probably Beat You At Poker",
-      "excerpt": "A group of researchers from Facebook AI Research has now created a more general AI algorithm dubbed ReBel that can play poker better than at least some",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2018/11/Facebook-Logo-Nov-15-2018-AH.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html/amp",
-      "publishedDateTime": "2020-07-28T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly.md",
-      "title": "Facebook develops AI algorithm that learns to play poker on the fly",
-      "excerpt": "Combining reinforcement learning with search at AI model training and test time has led to a number of advances. Reinforcement learning is where agents learn to achieve goals by maximizing rewards, while search is the process of navigating from a start to a goal state.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/",
-      "publishedDateTime": "2020-07-28T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
       ]
     }
   ],

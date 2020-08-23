@@ -3,7 +3,7 @@ category: news
 title: "Face masks give facial recognition software an identity crisis"
 excerpt: "As tech firms scramble to keep up with reality of coronavirus, some experts say users must change"
 publishedDateTime: 2020-08-21T15:56:00Z
-webUrl: "https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis?CMP=twt_gu"
+webUrl: "https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
 ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 1709
         isCached: true
 
-secured: "ix2cIYYWsoWDN/hjuv7aV7enfiQe67OhYAldJ0LYOx5T6Y43WUdnDoy1xpPnlEha04+Vo0mg2tZin7/SkDKD3dcHhLzLaE+AwHL9DJjSpyM4k0sJXBeO7VgYg2KcoMJpusRffMt2kNYAOZpPatt/TtkkWcZhOGePxWZvrfH/dMe4xXmvI3HLZ+dJoHjj75Q+Va1gcukGrryfN/q3FLrbAuI5HDMP78+tDh1rng0Ipi4GC3nwufSOX31XQgILfp1yDbNXyPthI6paUaNqnXzaj9KoqAjz1iYjFJpPsMSaeGAxeoiCYX5IE74OQRseLR0wMQ8bNr2WPiDcn0c3hdgjAg==;QClYcU2RWP2TneLumpRWnQ=="
+secured: "DQcDeFvbHxoGHBvs6ugALB8nKJ6mKXNNwpFnoy6uaMbn+RaM3jlj1ivUFEs5DcoP8KoSjLMguuLEeDZbtCY1uzNblpWk7zoF5LbDx5vtDMgywAQUg8YFXBAYq7wsn1uMPQ/F6qqeSig8lpUpk7ayXINtSOCJMb77EGhSDhUbXIFJd3L8BvB19eUQTupofjuIOSEFA3OxMZ0ITvE3L2u2WbHRE3NwwObjpbLo6W+bk+7dkBDGxbdLaeRS1Y0E2SsigjLw8Vwt2muvZ8dCm/23x2JOSsSVIMzWpweQozaCGO5W7y5PNvxsdwAPVUFzfHoouvN2EHtxQR8XlT7llIEyjQ==;US30IOrSo+enzMzWbKYZeA=="
 ---
 

@@ -2,6 +2,55 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-07-31-arlington-asset-investment-corp-ai-q2-2020-earnings-call-transcript.md",
+      "title": "Arlington Asset Investment Corp (AI) Q2 2020 Earnings Call Transcript",
+      "excerpt": "Arlington Asset Investment Corp Q2 2020 Earnings Call Jul 31, 2020, 9:00 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/07/31/arlington-asset-investment-corp-ai-q2-2020-earning.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
+          "width": 400,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/earnings/call-transcripts/2020/07/31/arlington-asset-investment-corp-ai-q2-2020-earning.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/07/31/arlington-asset-investment-corp-ai-q2-2020-earning.aspx",
+      "publishedDateTime": "2020-07-31T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-this-month-in-aws-machine-learning-july-2020-edition.md",
       "title": "This month in AWS Machine Learning: July 2020 edition",
       "excerpt": "Every day there is something new going on in the world of AWS Machine Learning—from launches to new use cases like posture detection to interactive trainings like the AWS Power Hour: Machine Learning on Twitch. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing",
@@ -1337,48 +1386,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-hillels-tech-corner-kaiai-flips-the-script-on-therapy.md",
-      "title": "Hillel's Tech Corner: Kai.ai flips the script on therapy",
-      "excerpt": "There is, however, some good news. When it comes to artificial intelligence and natural language processing (NLP), we may just have the technological capabilities to offer therapy to those in need using their regular messaging service like WhatsApp and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/461466",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985/amp",
-      "publishedDateTime": "2020-07-30T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

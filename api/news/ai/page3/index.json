@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-20-nvidias-server-business-eclipses-gaming-chips-for-first-time-though-maybe-not-for-long.md",
+      "title": "Nvidia’s server business eclipses gaming chips for first time, though maybe not for long",
+      "excerpt": "Nvidia Corp.’s data-center chips brought in more money than the gaming specialist’s core business for the first time in the company’s second quarter, but",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidias-server-business-eclipses-gaming-chips-for-first-time-as-earnings-forecast-blow-away-expectations-2020-08-19",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-IM808_NVDA_0_ZH_20200819122548.jpg",
+          "width": 890,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidias-server-business-eclipses-gaming-chips-for-first-time-as-earnings-forecast-blow-away-expectations-2020-08-19",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidias-server-business-eclipses-gaming-chips-for-first-time-as-earnings-forecast-blow-away-expectations-2020-08-19",
+      "publishedDateTime": "2020-08-19T19:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car.md",
       "title": "Xilinx’s programmable AI chip powers safety sensors in Subaru car",
       "excerpt": "Xilinx said that its programmable AI chip has been used in the EyeSight safety system in the new Subaru Levorg vehicle.",
@@ -412,47 +462,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-machine-learning-finds-quake-origin-signatures.md",
-      "title": "Machine learning finds quake origin signatures",
-      "excerpt": "Combing through historical seismic data with a machine learning model, US researchers have unearthed distinct statistical features that marked the formative stage of slow-slip ruptures in the Earth’s crust months before tremor or GPS data detected a slip in the tectonic plates.",
-      "sourceUrl": null,
-      "webUrl": "https://cosmosmagazine.com/earth/earth-sciences/machine-learning-finds-quake-origin-signatures/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cosmosmagazine.com/wp-content/uploads/2020/08/200820-Earthquake.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cosmosmagazine.com/earth/earth-sciences/machine-learning-finds-quake-origin-signatures/amp/",
-      "cdnAmpWebUrl": "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/earth/earth-sciences/machine-learning-finds-quake-origin-signatures/amp/",
-      "publishedDateTime": "2020-08-19T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cosmos",
-        "domain": "cosmosmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -980,6 +989,57 @@
       ]
     },
     {
+      "path": "_news/2020-08-19-facebook-and-nyu-langones-jointly-developed-machine-learning-solution-can-accelerate-mris.md",
+      "title": "Facebook and NYU Langone's jointly developed machine learning solution can accelerate MRIs",
+      "excerpt": "Facebook AI Research and NYU Langone released results of a blind test revealing the effectiveness of their AI system to accelerate MRI scans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/facebook-nyu-develop-ai-to-accelerate-mri-scans-2020-8",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f3d25c6cdf25a001e84e190?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-19T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-adobe-launches-ai-powered-character-animator-features-in-beta.md",
       "title": "Adobe launches AI-powered Character Animator features in beta",
       "excerpt": "The latest beta version of Adobe Character Animator adds AI-powered lip-sync and motion capture tools, as well as revamped timeline features.",
@@ -1363,56 +1423,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why.md",
-      "title": "Fintech just made a big leap forward in this tiny country: Here's why",
-      "excerpt": "But now its fintech industry, especially the digital-payments sector, is also beginning to make its mark. When Microblink, an R&D company based in Zagreb, Croatia, started out in 2013, it had to rely on its founders' finances,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/10/25/55775b91-e663-4566-b8d3-471de68b11e7/thumbnail/1200x675/53c53f5d09cf88bbcb76eb0d0ea7e347/fintech-startups-why-bulgaria-is-a-hotbe-5da7266bdc406100013edd0f-1-oct-25-2019-19-26-43-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
-      "publishedDateTime": "2020-08-19T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }
