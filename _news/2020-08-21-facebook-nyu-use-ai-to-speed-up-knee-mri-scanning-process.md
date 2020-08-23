@@ -8,8 +8,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facebook-nyu-use-ai-to-speed-up-knee-mri-scanning-process/article32413373.ece/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Hindu
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook AI researchers give MRI scanners a machine learning boost"
-    excerpt: "The AI then compared its reconstructed images with the original full-resolution knee scans to hone its accuracy. Facebook’s researchers experimented with several thousand model variations before ..."
-    publishedDateTime: 2020-08-18T17:41:00Z
-    webUrl: "https://siliconangle.com/2020/08/18/facebook-ai-researchers-give-mri-scanners-machine-learning-boost/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/facebook.png"
-        width: 718
-        height: 404
-        isCached: true
   - title: "AI can speed up MRI scans, shows Facebook study"
     excerpt: "The fastMRI research team removed roughly three ... AI model did not just look like generic MRIs; the AI-generated images matched the ground truth image created by the standard slow MRI process, Facebook said. The study showed that fastMRI can generate ..."
     publishedDateTime: 2020-08-19T00:14:00Z

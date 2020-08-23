@@ -3,7 +3,7 @@ category: news
 title: "How Ancient Rules of Logic Could Make Artificial Intelligence More Human"
 excerpt: "Many attempts to develop artificial intelligence are powered by powerful systems of mathematical logic. They tend to produce results that make logical sense to a computer program — but the result is not very human."
 publishedDateTime: 2020-08-19T09:00:00Z
-webUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/"
+webUrl: "https://www.gizmodo.com.au/?p=1256892"
 ampWebUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 type: article
@@ -20,9 +20,9 @@ topics:
   - AI
 
 images:
-  - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/19/aristotle.png"
-    width: 1051
-    height: 597
+  - url: "https://images.theconversation.com/files/348495/original/file-20200720-23-mxxnlu.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
+    width: 754
+    height: 922
     isCached: true
 
 related:
@@ -43,6 +43,6 @@ related:
         height: 248
         isCached: true
 
-secured: "C3FRvJnCG0M70p6TBK4ashO24tYdzyvxbQ+b8D4LUT/XK/CYaIETf+0/U1UltsRi18lp3fod9QWy73pUUqbjWXd4u6x3upkCDJKDMTQALwWnDKKs29gpSzL3eV6w4imow/Xj8pL/q6Np/w7XT1mCe1fJsnK29w16KoCZE6qevB/hpkpVmqq/4CWEPi9TPfXkKRTRgGwQYa/4s7U3TC6hn9XCzW85HLyvpUHo1NQqriSLniHHwg/SMfS67c0l7TAt2cKov9AoCROmtlhtowv+V9lir9NXRZEa4Tttlv6i+eRNLTS31IIXuGE0tL1IAYaN1y6nAfOG1UEzvvBNJzxneMUV/x6hwZ6mCeYdXdCH8KiDuS0IJflcSbatzPC4LdL1XI1UT0oTqtCkr/GkqpPzmybkbl2/KK+Tmi2gA8D/qjoFAH5jXBPgRqCuS6rGCPbUdmavPzykchmClaUQF4hjt9EWwfIk/hP5AYD/sTyPgifg2S1Lgo1jKr7CNaN5AR0k/+90iBArYby/1sa64VjN9A==;5JQtGygsAkhVc9UgoxA/5w=="
+secured: "M5kn+OFsQaxxrI2mukYXBVaGbLAww+LJ693mXGWwUePmrAcxpZ674Cab3Ohwre8BUPTd227UcZorshSUv5tLLiBht+xBc5B/rGYHkRXOWngSLd3AoTeYJx5llGqSjlF2ae9GuwaR8mK62OchnJgnIOs/sKEGxkqY6Q0soad2AmjA40LW8CuxDzApGpE42d6lWl1Qis/DFBqkI2EH+Ey3QAw7acWtLd6e6x+zIIZgE0zmWui0P/eABoM+A9oVny+Wozu2Yld6zwDbgwoUvFGuClup5Cp2ZZd5D6yqVPShPDnwXjGhX39JbvU5/0XGlN2PDoqjPfjFP2d20nOjIbDpaw==;t2+f3YJtzU+hTj4/A95jZw=="
 ---
 

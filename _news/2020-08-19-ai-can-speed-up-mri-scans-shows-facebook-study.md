@@ -36,20 +36,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Facebook AI researchers give MRI scanners a machine learning boost"
-    excerpt: "The AI then compared its reconstructed images with the original full-resolution knee scans to hone its accuracy. Facebook’s researchers experimented with several thousand model variations before ..."
-    publishedDateTime: 2020-08-18T17:41:00Z
-    webUrl: "https://siliconangle.com/2020/08/18/facebook-ai-researchers-give-mri-scanners-machine-learning-boost/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/facebook.png"
-        width: 718
-        height: 404
-        isCached: true
 
 secured: "1UPmGgydoHubk7fcmYM9kHOIVgjdKwA7S4jj8+yVrfFA/9p2qag1p/T15CXB6xACKx5hh5GyTp0wGkBVLVJ6FAb1ZYiO7CzG0ttCGR+OFiP1VIx2HQ7IrvWEGt/IIqdPqPx/mxEwn1aIvgFylHDLPXS+wAB4m7O4oX+e3ODgIF6GCN6xNpLi284TUjRnAMslOWhzAmJCmgp0lo0OLFZOn9YTNSYUYh85yj4srFYoAC9wpSbSTN6l1I1hVfkp1I1TOQ4Fusg0uSp9UCOl1J/I6qpz32yC5TwuqlxmUH9mNNyCT+XTeD4bkmtnCw7G95J7/pXkZ3tuK9QLLTuBVeTjDg==;45F21JnTInaxRgYwwHzXBQ=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.hurriyet.com.tr/amp/teknoloji/itu-burs-programi-ile-deep
 cdnAmpWebUrl: "https://www-hurriyet-com-tr.cdn.ampproject.org/c/s/www.hurriyet.com.tr/amp/teknoloji/itu-burs-programi-ile-deepmind-baglarini-guclendiriyor-41590460"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "İTÜ yapay zeka alanında DeepMind ile iş birliği yaptı"
-    excerpt: "İstanbul Teknik Üniversitesinin (İTÜ) yapay zeka araştırmaları ve gerçek hayat uygulamaları konusunda DeepMind ile bilgisayar mühendisliği yüksek lisans ve doktora programlarındaki kadın araştırmacılara burs sağlamak için iş birliği ..."
-    publishedDateTime: 2020-08-18T17:10:00Z
-    webUrl: "https://www.sondakika.com/haber/haber-itu-yapay-zeka-alaninda-deepmind-ile-is-birligi-13519117/"
-    ampWebUrl: "https://www.sondakika.com/amp/haber-itu-yapay-zeka-alaninda-deepmind-ile-is-birligi-13519117/"
-    cdnAmpWebUrl: "https://www-sondakika-com.cdn.ampproject.org/c/s/www.sondakika.com/amp/haber-itu-yapay-zeka-alaninda-deepmind-ile-is-birligi-13519117/"
-    type: article
-    provider:
-      name: Son Dakika
-      domain: sondakika.com
-    quality: 59
-    images:
-      - url: "https://foto.sondakika.com/haber/2020/08/18/itu-yapay-zeka-alaninda-deepmind-ile-is-birli-13519117_local_sd.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "SmM0GQKJAbaEcPyYMnTH4Kw7oP65IybeMnw5E6nOtG9Vnw0rF+WlhYhDefJILLeiRZ7nFouuu8psnovdUg7G9jKAhKUIAqh9sLjPVb15PA4gkBvOODX1Bh0/4bpgn1tknk3Ndj4nyG0P/+v6wuwVKKO6qhF2biX4TKfyfnJOlWdjRGsC+rOYl8vRd/H/KTEtOMnAkeJMFxaiYhC0BPoc3WwKqBw3xajnav2nckHCyGNXrGCPfy9uCckbNZBI1b19jzOcVpTxv52o19pxRrrNRmeArB+BEqBy+LfWaDFoNH+/dOJuowshg9vmInjnge1wMR33kpG+obfPoSK8ejkQtcQc6b7gMLqNuJSIgMkovTCrMm6bcznvgZwx85u5bdSTCvlA6RBNnscurLIyZskxQUhMUOFJOWlxkYcvkphzML1cONkjwgd5asG8MgrFbVXzn/0wS1A7bQ+2yHZDOVIQztRChoF43aPyb9CLi/GRi4imIKqLqmNWs0fsILMTIilA23hYvFLt93tXHkC7IiOp3A==;AV2hRYzAvzqXZdwctf6D/g=="
 ---

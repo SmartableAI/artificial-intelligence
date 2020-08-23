@@ -3,9 +3,9 @@ category: news
 title: "AWS reveals first quantum computing partners"
 excerpt: "Amazon Web Services (AWS) has announced that it will allow all existing customers to access quantum computers through its cloud service. The quantum computers are early-stage models provided by three technology companies—D-Wave Systems Inc."
 publishedDateTime: 2020-08-20T08:40:00Z
-webUrl: "https://www.techradar.com/in/news/aws-reveals-first-quantum-computing-partners"
-ampWebUrl: "https://www.techradar.com/in/amp/news/aws-reveals-first-quantum-computing-partners"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/aws-reveals-first-quantum-computing-partners"
+webUrl: "https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners"
+ampWebUrl: "https://www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners"
 type: article
 quality: 89
 heat: 89
@@ -29,6 +29,6 @@ images:
     height: 545
     isCached: true
 
-secured: "tmVzLF5ogQ8QUwRZGEKBPW7i8iW4fquMKpha94vcFn2LDEZm+97bDoW/KJIwOi1pgV41GlAHFH8/dXl7Eemtt+jKYtdOC2pG2Tawn04dH2C3LuAj6T+T6iTwqdJl0rkDUwUkXBPqEx7osyGvrrtOFGgg/zWZ5A2EHNL4UDgdfuLhzh93+aYaut7dLevc4r6kfDkfWdfdSgknzzWpwhvcDYND8m2416lIFJYirUYHD9M3wQ07cBpMv6c2yyxRQsNNPBSeYhascqwrpFrJUC+aOc8MgspBujdeBhKfbuiIuUrom7Ffo1lQAiLruk8KWwouzQt3+w51z87IHVeMcwxivg==;xH+KaBM8u3RmobJm4FP9jQ=="
+secured: "KYyDx3HofP6L/DCL2w+IRHOLs1Y7JHcSrUIXbCEE7oTcwdkcG3vd/VJU7Z9arL8aAVUFp5MQJy26fMJEzNlsxVmOv8WHMXe+Mo2+f1UXAQnfJdUiDtYM9pkZCGuauF4PInpz3YQ4ZF8xoEWNr4xlm1IpG/TY6JSd8aH4Y7NU0SoACIeoIlKpbCdBHx3V3wXL6ggRhgHtUr3qzln3H7n7+34rHUwPxl2xnQJMrxdMRmv1cctQayoDSM5BvtiU8CEMuHNx+O+6a9id+ibf8Kc4RfohYWu1B86ZpbmHIuLUStq1GaP/nZg38XJ1USAtoDRnJ5qyjTeSY941G0Wf9PDUAw==;3aSo5vwAh1JPLzzIL/BeVg=="
 ---
 

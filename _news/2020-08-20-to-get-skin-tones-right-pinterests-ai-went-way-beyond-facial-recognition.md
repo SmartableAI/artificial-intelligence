@@ -208,22 +208,6 @@ related:
         width: 635
         height: 357
         isCached: true
-  - title: "Advancements in Technology is boosting Growth in the Global Facial Recognition Market"
-    excerpt: "Global Facial Recognition Market Forecast” According to a new market research report launched by Inkwood Research, the Global Facial Recognition Market"
-    publishedDateTime: 2020-08-18T18:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17145044/advancements-in-technology-is-boosting-growth-in-the-global-facial-recognition-market"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17145044"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17145044"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
-    images:
-      - url: "https://www.abnewswire.com/uploads/1597752312.jpeg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Global facial recognition company working closely with Government"
     excerpt: "A major company at the centre of controversies over facial recognition technology in the US and UK is working closely with the Government. Tokyo-based NEC, which has resisted a Black Lives Matter-inspired ban in America, is updating passport systems here ..."
     publishedDateTime: 2020-08-19T01:46:00Z

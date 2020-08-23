@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-21T21:50:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: WFMZ-TV
@@ -22,22 +22,6 @@ images:
     width: 400
     height: 209
     isCached: true
-
-related:
-  - title: "Amplo Global Inc: amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
-    excerpt: "machine learning and design-led strategy necessary to effectively identify, address and achieve their new normal. Brian Bell, Director at Microsoft's Commercial Marketplace, said, \"On Microsoft Azure Marketplace and AppSource, customers around the world ..."
-    publishedDateTime: 2020-08-18T17:12:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-08/50478942-amplo-global-inc-amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 60
-    images:
-      - url: "http://cdn.newswire.com/files/x/26/69/1756aa85fe2bddc31a756e61b382.jpg"
-        width: 320
-        height: 220
-        isCached: true
 
 secured: "zNQGhdqncOL8WmMMskzd2OYBzsX+ifD9xMoGIoqVyhCPwaGu4JVYEJCcSVzFdf/RXTV9DEZXHx4Is9nZNaoV++NrX8NOmbGzUot3Rv9J6eW/Kte8I5c3SAJkdmPAJUrPY/G+sX2bvjXY6CJER5kr42ZUddggboE6D1IVgeFCz7VxGV60xqgLA1NgpTplZulfZkMWehGJtyLrjO0jONUqYfSlfOkw2g7FgjnxmEcNTMGvCrXcilBVTpeStF6umFWOLo2ZBvR379h03aZgcc74BN8gBp4/iKt7aUE8WILreA/rrS4UoMuJ44KdOWGWvHUeIod1VF7m1adSYzDRWWr0gw76QqEHzVJ1jMqkFvo0dPln9Zkd5V2tRpWb+7jdv26TazssOWUmYacEsY9jys3sSi4P5PgJ/UDYOz58DYMMNk7fP+7Iu0tk2xNxhU4y8Tj0LG2f9UVNUZakdkKOWX35isUozAF/gj3MzTBoreEzfzPHY71Bkekw7yCjeuUh54IzQ+xkN5vHC+Jk8HqH768Rkw==;UcMN9jW+kKIS7pgTdhPeIg=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-se
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
 type: article
 quality: 89
-heat: 289
+heat: 279
 published: true
 
 provider:
@@ -197,22 +197,6 @@ related:
       - url: "https://www.personneltoday.com/wp-content/uploads/sites/8/2020/08/shutterstock_676438363.jpg"
         width: 635
         height: 357
-        isCached: true
-  - title: "Advancements in Technology is boosting Growth in the Global Facial Recognition Market"
-    excerpt: "Global Facial Recognition Market Forecast” According to a new market research report launched by Inkwood Research, the Global Facial Recognition Market"
-    publishedDateTime: 2020-08-18T18:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17145044/advancements-in-technology-is-boosting-growth-in-the-global-facial-recognition-market"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17145044"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17145044"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
-    images:
-      - url: "https://www.abnewswire.com/uploads/1597752312.jpeg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "To get skin tones right, Pinterest’s AI went way beyond facial recognition"
     excerpt: "The company says it can now spot skin tones more accurately in a wider array of images to help more people find looks suitable to them."
