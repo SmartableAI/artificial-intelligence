@@ -20,6 +20,8 @@ googleScholar:
 wikipedia:
   url: https://en.wikipedia.org/wiki/Maja_Matari%C4%87
 
+topics:
+  - AI
 
 images:
   - url: https://scholar.google.com/citations?view_op=medium_photo&user=o5YQMkMAAAAJ&citpid=2

@@ -20,6 +20,9 @@ googleScholar:
 wikipedia:
   url: https://en.wikipedia.org/wiki/Karl_Iagnemma
 
+topics:
+  - AI
+  - AI in Autos
 
 images:
   - url: https://twitter.com/Karl_Iagnemma/profile_image?size=original

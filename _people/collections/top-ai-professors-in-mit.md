@@ -1,8 +1,8 @@
 ---
-title: "Top AI Professors in MIT"
-excerpt: ""
-type: collection
-heat: 37342
+name: "Top AI Professors in MIT"
+bio: ""
+type: "collection"
+heat: 240
 
 query: item.affiliation.name contains 'MIT'
 
@@ -10,8 +10,10 @@ topics:
   - AI
 
 images:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1280px-MIT_logo.svg.png
-    width: 1280
-    height: 662
-    title: MIT
+  - url: https://scholar.google.com/citations?view_op=medium_photo&user=910z20QAAAAJ&citpid=3
+    width: 140
+    height: 140
+    title: "Daniela L. Rus"
+
 ---
+

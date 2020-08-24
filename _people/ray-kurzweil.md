@@ -7,6 +7,9 @@ heat: 50
 wikipedia:
   url: https://en.wikipedia.org/wiki/Ray_Kurzweil
 
+topics:
+  - AI
+  - Natural Language Processing
 
 images:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Raymond_Kurzweil_Fantastic_Voyage.jpg/440px-Raymond_Kurzweil_Fantastic_Voyage.jpg

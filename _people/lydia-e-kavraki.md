@@ -15,6 +15,8 @@ googleScholar:
 wikipedia:
   url: https://en.wikipedia.org/wiki/Lydia_Kavraki
 
+topics:
+  - AI
 
 images:
   - url: https://scholar.google.com/citations?view_op=medium_photo&user=Q6pxNZYAAAAJ&citpid=2

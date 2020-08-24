@@ -1,8 +1,8 @@
 ---
-title: "Female Pioneers in Robotics – 2020"
-excerpt: "Featuring outstanding female researchers and entrepreneurs in the field of robotics."
-type: collection
-heat: 183142
+name: "Female Pioneers in Robotics – 2020"
+bio: "Featuring outstanding female researchers and entrepreneurs in the field of robotics."
+type: "collection"
+heat: 97
 
 items:
   - jean-liu
@@ -19,8 +19,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: /assets/images/topics/ai-in-robotics.jpg
-    width: 1000
-    height: 720
-    title: Robotics
+  - url: https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg
+    width: 400
+    height: 400
+    isCached: true
+    title: "Jean Liu"
+
 ---
+

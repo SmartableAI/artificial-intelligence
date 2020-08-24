@@ -1,8 +1,8 @@
 ---
-title: "The Most Influential AI Researchers in 2020"
-excerpt: "These are some of the most vocal and influential leaders working on artificial intelligence in 2020."
-type: collection
-heat: 203142
+name: "The Most Influential AI Researchers in 2020"
+bio: "These are some of the most vocal and influential leaders working on artificial intelligence in 2020."
+type: "collection"
+heat: 384
 
 items:
   - andrew-ng
@@ -33,8 +33,11 @@ topics:
   - AI
 
 images:
-  - url: /assets/images/topics/ai.jpg
-    width: 1280
-    height: 853
-    title: AI
+  - url: https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg
+    width: 400
+    height: 400
+    isCached: true
+    title: "Andrew Ng"
+
 ---
+
