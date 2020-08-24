@@ -9,7 +9,7 @@
       "webUrl": "https://www.forbes.com/sites/danielnewman/2020/08/24/how-the-human--machine-workforce-is-being-accelerated-by-covid-19/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1334,7 +1334,7 @@
       "title": "Algorithm created by deep learning finds potential therapeutic targets throughout the human genome",
       "excerpt": "Researchers at the New Jersey Institute of Technology and the Children's Hospital of Philadelphia have developed an algorithm through machine learning that helps predict sites of DNA methylation -- a process that can change the activity of DNA without changing its overall structure.",
       "sourceUrl": null,
-      "webUrl": "https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061&org=NSF&from=news",
+      "webUrl": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061&org=NSF&from=news",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1352,7 +1352,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T13:17:00-07:00",
+      "publishedDateTime": "2020-08-13T13:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "nsf.gov",

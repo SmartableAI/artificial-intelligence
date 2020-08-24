@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/sugarcrm-acquires-node-an-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sugarcrm-acquires-node-an-ai-as-a-service-company/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 479
     isCached: true
 
-secured: "Y5a5PIMto4xywlRImTvANrD/FMTYpM1LsiV2ooy6FiSV8d3l7T/QoiNaebvi3QAkUKvxODjq1B93u9JzLY0/N/yfafhnJLYxqtgjE/QpOSM6TuilNx1up/BjT7r2iZJ8rh4SVRmxNyrU+ibVGNxrVYOsLjJkrPvuk58VY1b8X8obJlS5bntGE/siK8275jlUU/Ly7gmBG9vCK7Dz1DaI5WNXp0ZAxp+Vmr21UMtv8Kdgj51f8OYC0uSlSVY6H189tzABAA19Tr5WmuqX9fnGKhAehCtZHiTQ4FMnWdYxz35Mv0niBXoFNDpdcCYJ6+rlemhmZUQa90HY/4wvCB2ltQ==;AF0udtoKeqE1J4rA0FFaww=="
+secured: "M7KHMLarba5HSAPvJtmpEW3tzhoWnqg2uB/ENrmZ56T7WDl4PW94TjTsLMHaj63iStDuSBdPg7KbORAiSqafARuHWJCnzQYwq+92YXCFa2AkKTlYewvuyDOIGrhdpHm6lTJV8aRd0UuJ64XzaSTQ1kQz7pu2uykiX2xdXHAjAhuZr0AfSzPTLoVN5+7xlzAkO5lpcGpSXUFs54ZSYMjFt6t27ezPSrpKjG3R6JLylCRBwZ9UjWKKJbEW7Cy5U7CabFwxpryTQkSxCYdeOeslCez57ydMMCGQy9C6dwu4XJ/geTfaNht2nOtQd6py3RSz5MnKZ0+Qdpr8YOTEoStnZyPLy23mmncE+/KXqqCfB1BvAfzS4yhMSYam1QqbcPZa901nIuGyPzUvcynuWvusrAOqooBouObiTDn3B0cFYW2cPFymQ3H441Dga5pC0072dI0k6YmVrsa0ABPF8zGYe1OEGLeWF6ha5zGtU4ge3pPQTB8W0nhhCaXUPFjc37lko4oz48bSIxFzJkomaRqGjg==;CoQ9vOGJaQGFhsy3wx1iMQ=="
 ---
 

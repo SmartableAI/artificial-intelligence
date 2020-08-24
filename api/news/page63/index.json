@@ -2,6 +2,88 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-07-07-leverage-ai-innovation-with-gpu-optimized-solutions.md",
+      "title": "Leverage AI Innovation with GPU-Optimized Solutions",
+      "excerpt": "The ability to break computationally-intensive assignments into pieces and begin solving them simultaneously is the main reason why GPU computing is the ideal fit for AI, deep learning, and other highly analytical workloads. NVIDIA’s industry-leading ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/microsite-landing/hpe-solutions/leverage-ai-innovation-gpu-optimized-solutions/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-the-digital-fan-experience.md",
+      "title": "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience",
+      "excerpt": "Through Azure AI, machine learning and data analytics, ONE will expand its core data capabilities and transform its direct-to-consumer digital experiences. To further delight fans, ONE will provide them with unique sets of data and statistics to better ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-xm/2020/07/07/one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-the-digital-fan-experience/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2020/07/Eduard-Folayang-768x511.jpg",
+          "width": 768,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-elementary-robotics-raises-13-million.md",
       "title": "Elementary Robotics Raises $13 Million",
       "excerpt": "Elementary Robotics Inc., a downtown-based robotics startup, has raised $12.7 million in Series A funding. The raise announcement coincided with the launch of Elementary’s inspection and traceability robot for sale on the open market as of June 30.",
@@ -1034,78 +1116,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts.md",
-      "title": "Myriad Partners OptraHEALTH For AI-Based Information Tool Gene - Quick Facts",
-      "excerpt": "Molecular diagnostics company Myriad Genetics, Inc. (MYGN) announced Monday a new collaboration with AI platform OptraHEALTH to implement a cognitive ChatBOT named Gene to provide pre-test genetic and financial assistance information to prospective patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts-2020-07-06",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts-2020-07-06?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts-2020-07-06?amp",
-      "publishedDateTime": "2020-07-06T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis.md",
-      "title": "Sentieo Drives Improved Sector Investment and Competitive Strategies With New Machine Learning-Driven Analysis",
-      "excerpt": "This latest release brings a new way for equity and corporate analysts to get to performance insights at the sector or peer group level,” said Naman Shah, Co-Founder & President, Sentieo. “Using our leading deep learning models,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-1029368206",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

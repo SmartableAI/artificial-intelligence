@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-21T13:23:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2020-08-21"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -84,6 +84,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Diagnostics Market By Diagnosis Type, By Component, By Region, Industry Analysis and Forecast, 2020 - 2026"
+    excerpt: "Stock quotes by finanzen.net New York,  (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Artificial Intelligence in Diagnostics Market By Diagnosis Type, By Component,"
+    publishedDateTime: 2020-08-24T14:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-in-diagnostics-market-by-diagnosis-type-by-component-by-region-industry-analysis-and-forecast-2020-2026-1029528234"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 16
 
 secured: "jJQZ+YKv/VV+JjKIe8HPJRDhtRtBr1WGXJwCN2cMx+s/2sSxa0T+nCewXEgB15moFO/LRVZkWwVvm/bVC1S6E1jw8aMmTnXUTE3CE947OjYIDoeaAL9jtHmh0wyeXjUe1SM1HIIawSAM8v3QCcg3Tcnbf/VC38uwTLhqbH9xn5d4M5fK29k3qDSLKbPc4M7Mn8LI4vGHjvs3Wqdf+msl1czZYgw2aiiDAo9Fjc+/wxrAHbWhkaJOqUR8fXIFXyYXuFhuYREEScnK81dlcDwSLRUjigFK5PVjU8SP4KI0MO2PiWZ9trHy/Y45cVSacTR1L83RqbG0CceDxkJJktd0SQ==;L10y39JdGiTSY3lHDc4yRw=="
 ---

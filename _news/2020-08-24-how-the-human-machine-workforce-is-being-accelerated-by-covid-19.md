@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/08/24/how-the-human--
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/08/24/how-the-human--machine-workforce-is-being-accelerated-by-covid-19/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

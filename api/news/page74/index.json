@@ -2,6 +2,88 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2020-06-27-comparing-13-different-crispr-cas9-dna-scissors.md",
+      "title": "Comparing 13 different CRISPR-Cas9 DNA scissors",
+      "excerpt": "The team developed deep-learning-based computational models that predict the activities of SpCas9 variants for different DNA sequences. This study represents a useful guide for selecting the most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/06/200626092729.htm",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-27T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-27-neural-network-can-determine-lung-cancer-severity.md",
+      "title": "Neural network can determine lung cancer severity.",
+      "excerpt": "CT imaging is an important diagnostic tool to measure the location, extent, size, and shape of lung lesions used to guide therapeutic decisions for patients",
+      "sourceUrl": null,
+      "webUrl": "https://infosurhoy.com/news-summary/neural-network-can-determine-lung-cancer-severity/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://infosurhoy.com/wp-content/uploads/2020/06/5-neuralnetwor.jpg",
+          "width": 770,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://infosurhoy.com/news-summary/neural-network-can-determine-lung-cancer-severity/amp/",
+      "cdnAmpWebUrl": "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news-summary/neural-network-can-determine-lung-cancer-severity/amp/",
+      "publishedDateTime": "2020-06-27T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoSur Hoy",
+        "domain": "infosurhoy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-27-detroit-says-shoddy-work-led-to-wrongful-arrest-tied-to-facial-recognition-technology.md",
       "title": "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology",
       "excerpt": "A Black man wrongly arrested after the use of facial recognition technology will have his DNA, fingerprints and mugshot removed from files.",
@@ -1067,98 +1149,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-covid-19-significant-shift-in-strategy-of-mobile-artificial-intelligence-market-2020-2024-increasing-use-of-ai-chip-enabled-mobile-devices.md",
-      "title": "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio",
-      "excerpt": "Technavio has announced its latest market research report titled Global Mobile Artificial Intelligence Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the mobile artificial intelligence market and it is poised to grow by USD 13.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200626005284/en/COVID-19-Significant-Shift-Strategy-Mobile-Artificial-Intelligence",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200626005284/en/801494/23/IRTNTR40360.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-26T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-custom-or-out-of-the-box-choose-the-right-nlp-model-for-your-enterprise.md",
-      "title": "Custom, Or Out Of The Box? Choose The Right NLP Model For Your Enterprise",
-      "excerpt": "In the legal industry, for example, LegalMation—a firm that provides AI tools to help lawyers automate routine tasks—uses newly available NLP capabilities from Watson NLU to review complex ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ibmai/2020/06/26/custom-or-out-of-the-box-choose-the-right-nlp-model-for-your-enterprise/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee40c6efd8cac00060a55d5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1120%26cropY1%3D0%26cropY2%3D630",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ibmai/2020/06/26/custom-or-out-of-the-box-choose-the-right-nlp-model-for-your-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibmai/2020/06/26/custom-or-out-of-the-box-choose-the-right-nlp-model-for-your-enterprise/amp/",
-      "publishedDateTime": "2020-06-26T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

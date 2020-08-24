@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/?amp=true"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Facebook’s AI Dubbed As FastMRI Generates Images In Just Minutes By Using a Quarter of Traditional Required Data"
-    excerpt: "MRI images (magnetic resonance imaging) can be generated in just a few minutes using Facebook's artificial intelligence (AI). In collaboration with NYU"
-    publishedDateTime: 2020-08-19T22:55:00Z
-    webUrl: "https://infosurhoy.com/science/facebooks-ai-dubbed-as-fastmri-generates-images-in-just-minutes-by-using-a-quarter-of-traditional-required-data/"
-    ampWebUrl: "https://infosurhoy.com/science/facebooks-ai-dubbed-as-fastmri-generates-images-in-just-minutes-by-using-a-quarter-of-traditional-required-data/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/science/facebooks-ai-dubbed-as-fastmri-generates-images-in-just-minutes-by-using-a-quarter-of-traditional-required-data/amp/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 38
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/370311/mri-images-can-be-generated-using-facebooks-ai-requiring-only-a-quarter-of-the-traditional-mris.jpg?w=600?w=650"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "0Fpj6equRhXjyOTWbseq5s/6/p+FkWcRBMJvre/ldY1FDGGQPBSPIXaCFAJl6m/FdrkhDa78PyiP9+3RhUsAAbtzppOUG+YS4qxZFkZIVwi3xBiUN7/S6E6MoCNnn02g9HcolMI1FgyBywzd3ws3kLqPFCH/+LSnb5qlqMTf0K/Lts2AVhcgUe/XJwGoG8BS8aMWGrjRCpBgKAnRLMYbLbxNqZUXHpr0DR+UhZO3WArfFp5vIN1t888oKllAi2xQI9NpuyHGQ9xxL/PhxWLjInthzMAZAowTxWGEg/PNmagimP/kQCaSCkXhp34XafimVm9V+MDy2nHYiCw6smIgsL2RKrMmck7TmcJlClTM0OsTaQSJiTCI40sM8Uu9v/kT2aGaAQI4NqOZkzp+XtPzgL/j6V0uv0oxp5+O1q8fTm5QttyTUGGyrYwQCvZhn7kiMVepzKIPPLLM1Gx91JZ0g3xsl6SURf5iMDj/B8EEwa3gfZ+NIvdSvRXzVHGajQEA;STFk0u7l8bZTy4buv00u7Q=="
 ---

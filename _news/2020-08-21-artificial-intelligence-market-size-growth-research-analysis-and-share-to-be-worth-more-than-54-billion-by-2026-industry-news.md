@@ -85,6 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Diagnostics Market By Diagnosis Type, By Component, By Region, Industry Analysis and Forecast, 2020 - 2026"
+    excerpt: "Stock quotes by finanzen.net New York,  (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Artificial Intelligence in Diagnostics Market By Diagnosis Type, By Component,"
+    publishedDateTime: 2020-08-24T14:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-in-diagnostics-market-by-diagnosis-type-by-component-by-region-industry-analysis-and-forecast-2020-2026-1029528234"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 16
 
 secured: "oszEnTNYP44JADpEL2xM86L0T3bBls+P+KG0RNabRXWX6xiyPXLEiD9hKtv1aqru3iBt1L9eAsYQCFMjhIpL8J1mcqJlzMu1hmVVill094fF51QK8EOAlOr4BcwCiZs/FuNkhDt3vxQy5aAP/UHWEgY7lT2SUl7uPWVba7SQavT8VIviAMPNfeJanllUabQ8AZfuo2TxSV8fF8eR7j818gAvkzLKTYzwIz1CbcAtOSceLwf9wN15ZbLPZhmLtdeeSoT8z9Ii+9vdarqbiSeip4vMGRUkrYwUDIQmgiBeIPNIuihUQ4bVvlDcrvkc6RMUHgqg797h4oZ1MhWbdwRMSg==;m+p89wKDNPZIwBziCeuQMg=="
 ---

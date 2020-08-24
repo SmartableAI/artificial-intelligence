@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024-2020-08-24</loc>
+    <lastmod>2020-08-24T08:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/</loc>
+    <lastmod>2020-08-24T08:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-inclinations-and-development-status-highlighted-during-forecast-period-2018-2025-2020-08-24</loc>
+    <lastmod>2020-08-24T08:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/08/24/why-the-nonprofit-openai-made-gpt-3-a-commercial-product-syndication/</loc>
     <lastmod>2020-08-24T06:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -415,12 +433,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/</loc>
-    <lastmod>2020-08-20T06:54:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/</loc>
     <lastmod>2020-08-20T06:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -477,12 +489,6 @@
   <url>
     <loc>https://www.zdnet.com/article/ai-in-the-middle-east-heres-what-you-need-to-know/</loc>
     <lastmod>2020-08-20T03:10:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/mobiustrend-it-giants-enter-into-semiconductor-business-with-3d-hologram-vision-ai-chip-1029519467</loc>
-    <lastmod>2020-08-20T02:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -693,6 +699,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/</loc>
     <lastmod>2020-08-19T04:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115</loc>
+    <lastmod>2020-08-19T04:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1453,8 +1465,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061&amp;org=NSF&amp;from=news</loc>
-    <lastmod>2020-08-13T13:17:00-07:00</lastmod>
+    <loc>https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061&amp;org=NSF&amp;from=news</loc>
+    <lastmod>2020-08-13T13:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

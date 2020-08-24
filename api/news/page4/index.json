@@ -2,6 +2,106 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-20-ai-as-a-blueprint-for-fintech-startups.md",
+      "title": "AI as a blueprint for fintech startups",
+      "excerpt": "FINRA’s AI Report is particularly interesting for fintechs since it explores how firms are deploying AI as well as the agency's expectations for AI oversight.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1155413889.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/amp/",
+      "publishedDateTime": "2020-08-20T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-this-cto-says-ai-technology-will-accelerate-sustainable-investing-and-create-a-more-equitable-society.md",
+      "title": "This CTO Says AI Technology Will Accelerate Sustainable Investing And Create A More Equitable Society",
+      "excerpt": "ESG investing, which accounts for a company’s environmental, social and governance ratings alongside traditional financial metrics, and the concept of “stakeholder capitalism” over shareholder profitability had been growing trends even before the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/08/20/this-cto-says-ai-technology-will-accelerate-sustainable-investing-and-create-a-more-equitable-society/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3d4b948c2be25133e3bf10%2F0x0.jpg",
+          "width": 960,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/08/20/this-cto-says-ai-technology-will-accelerate-sustainable-investing-and-create-a-more-equitable-society/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesmarketplace/2020/08/20/this-cto-says-ai-technology-will-accelerate-sustainable-investing-and-create-a-more-equitable-society/amp/",
+      "publishedDateTime": "2020-08-20T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-the-fastest-driver-in-formula-1.md",
       "title": "The fastest driver in Formula 1",
       "excerpt": "This blog post was co-authored, and includes an introduction, by Rob Smedley, Director of Data Systems at Formula 1 Formula 1 (F1) racing is the most complex sport in the world. It is the blended perfection of human and machine that create the winning formula. It is this blend that makes F1 racing, or",
@@ -236,47 +336,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-mobiustrend-it-giants-enter-into-semiconductor-business-with-3d-hologram-vision-ai-chip.md",
-      "title": "MobiusTrend: IT Giants Enter into Semiconductor Business with 3D Hologram Vision AI Chip",
-      "excerpt": "MobiusTrend, a market research organization in Hong Kong, recently released a research report on ' IT Giants Enter into Semiconductor Business with 3D Hologram Vision AI Chip '. Integrated circuits and software are the cornerstones of the current digital economy and information society.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mobiustrend-it-giants-enter-into-semiconductor-business-with-3d-hologram-vision-ai-chip-1029519467",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-20T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -630,7 +689,7 @@
       "webUrl": "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1118,57 +1177,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-facebook-gamifies-data-collection-to-boost-conversational-ai.md",
-      "title": "Facebook gamifies data collection to boost conversational AI",
-      "excerpt": "In a preprint paper, Facebook researchers propose a gamified approach to collecting data to train conversational AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/d888b4d3-7da0-4bf8-bd75-2d6bff223d84-e1574450154479.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/amp/",
-      "publishedDateTime": "2020-08-19T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/amp/"
 type: article
 quality: 60
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Forbes
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 792
     isCached: true
-
-related:
-  - title: "Michelle Obama's DNC Speech Is a Powerful Example of Emotional Intelligence"
-    excerpt: "In return, she provided a speech that was highly effective, compelling, and drew on singular emotional intelligence to drive home her points. Here's a look at how she did it. As you might expect, a lot of harsh things were said about president Donald Trump throughout the evening."
-    publishedDateTime: 2020-08-19T21:54:00Z
-    webUrl: "https://www.inc.com/minda-zetlin/michelle-obama-dnc-speech-emotional-intelligence-empathy.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 22
-    images:
-      - url: "https://www.incimages.com/uploaded_files/image/1024x576/GettyImages-1228087357_439425.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "/8Ao5YC5uMNvloeyEnarcQNxkcpzV29dtqF6Grck7J+ZV8aFOJyy3hsNBOT4mDQbgxt/YBVRepcaXYrk7un9zxyER+y2uU/uMkWlSTbc1/gSo6sFhFM5gHR9YF3MBtSkB26vpmPUEFGmiSYZs+63Vp8vRun/VgO//xFG6xqLK1KBlm5bB4Lza+6ddLe+7pB1jl0mze4Q15kaTasmxvykPjMUEDqLaCpXZlLF0j4/05HjlmMvBlyiBJrJmZifsXLiboXO5pBh6peX/uzwdgR+Nh3n4KWQF2Fsf683+iVu2IsNuGpQoyu5wAjMSXPeunYgJJmOVJWWkPVwN/8HsEWeUWoHeNL0HwyTjQe82TZgTytLtcuPbKxlxdoiY69XSHqa2wQ8gQX34aDrwwYYtMkHFaypHrNPFSNlq09Ki0lIW7SjO82Zc4HDp4PYkgn67DjrvdIYEsofvP7dddSqBsF7PCyLC1n3i7vpyRpDsnXfmG+ultmxujRMHGQVyv6D3QLSIePL5GW9gCTdv8yXKJdpFA==;nUJ6jt3DLPd5i5ncMOGpVQ=="
 ---

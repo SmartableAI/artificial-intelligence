@@ -2,6 +2,106 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-07-20-cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects.md",
+      "title": "CMU and Facebook AI Research use machine learning to teach robots to navigate by recognizing objects",
+      "excerpt": "Carnegie Mellon today showed off new research into the world of robotic navigation. With help from the team at Facebook AI Research (FAIR), the university has designed a semantic navigation that helps robots navigate around by recognizing familiar objects.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-20-at-2.32.52-PM.jpg?w=1024",
+          "width": 1024,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/amp/",
+      "publishedDateTime": "2020-07-20T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-ai-maturity-survey-details-shift-from-the-early-adopter-phase-into-a-new-era.md",
+      "title": "AI maturity: Survey details shift from the early-adopter phase into a new era",
+      "excerpt": "A new Deloitte report details some of the concerns and market factors influencing the future of AI adoption. In the age of digital transformation, an increasing number of organizations are looking to tap artificial intelligence (AI) technologies to streamline day-to-day operations and revolutionize their business models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-maturity-survey-details-shift-from-the-early-adopter-phase-into-a-new-era/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/20/91108afb-7fb5-4420-81d0-bd58bf3627f1/resize/1200x/7f61b06ef5676206de7ab201658a09d1/deloitte-ai.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-maturity-survey-details-shift-from-the-early-adopter-phase-into-a-new-era/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-maturity-survey-details-shift-from-the-early-adopter-phase-into-a-new-era/",
+      "publishedDateTime": "2020-07-20T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts.md",
       "title": "Aurora expands to Texas in bid to ramp up self-driving truck efforts",
       "excerpt": "Aurora, the autonomous vehicle technology startup backed by Amazon, is expanding into Texas as it aims to accelerate the development self-driving trucks. The company said it plans to test commercial routes in the Dallas-Fort Worth Area with a mix of Fiat Chrysler Pacifica minivans and Class 8",
@@ -1018,98 +1118,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-its-time-for-a-hard-reset-of-our-financial-services-sector.md",
-      "title": "It’s time for a hard reset of our financial services sector",
-      "excerpt": "As the government announces its review of the UK’s finance sector today, it should put fintech advances such as machine learning and AI at the heart of its thinking",
-      "sourceUrl": null,
-      "webUrl": "https://www.fnlondon.com/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://si.wsj.net/public/resources/images/FN-AK791_fn_vie_P_20200717060410.jpg",
-          "width": 749,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fnlondon.com/amp/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720",
-      "cdnAmpWebUrl": "https://www-fnlondon-com.cdn.ampproject.org/c/s/www.fnlondon.com/amp/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720",
-      "publishedDateTime": "2020-07-20T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial News",
-        "domain": "fnlondon.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-2084-what-happens-when-artificial-intelligence-meets-big-brother.md",
-      "title": "2084: What happens when artificial intelligence meets Big Brother",
-      "excerpt": "A professor of mathematics at the University of Oxford, doubling as a philosopher of science and religion, John Lennox has some pretty unique insights to put forward when it comes to the future of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/2084-what-happens-when-artificial-intelligence-meets-big-brother/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/10/621dc6a7-f340-450b-8d06-b36fb968a62d/thumbnail/1200x675/514c5532a548be1da7ad4d60559ea82d/nhs-app.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2084-what-happens-when-artificial-intelligence-meets-big-brother/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2084-what-happens-when-artificial-intelligence-meets-big-brother/",
-      "publishedDateTime": "2020-07-20T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
       ]
     }
   ],

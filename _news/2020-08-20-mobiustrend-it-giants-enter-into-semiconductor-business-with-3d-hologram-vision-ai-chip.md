@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-20T09:12:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/mobiustrend-it-giants-enter-into-semiconductor-business-with-3d-hologram-vision-ai-chip-1029519467"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Business Insider
@@ -33,17 +33,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 45
-  - title: "MobiusTrend: WIMI Enters Semiconductor Business with 3D Holographic Vision Chip Upgrading"
-    excerpt: "MobiusTrend, a market research organization in Hong Kong, recently released a research report on ‘WIMI Enters Semiconductor Business with 3D"
-    publishedDateTime: 2020-08-19T21:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17164474/mobiustrend-wimi-enters-semiconductor-business-with-3d-holographic-vision-chip-upgrading"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17164474"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17164474"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
 
 secured: "ygJ6yaFTRb/UpB2ZHq5ClH+NywQlZV9HQczOhVRFVQIOr5xB4pMGmRktHUeoOm8p++uUklH7+S7ZeIJBouEv0Qdg9ttow9q4ESpcvNhuug4pQBmmSWICcWUkUM4H+bQ+amFNmy/4WOFHgY1Z7GGjVZf8OGeE2Z5SCXWvE4BZ2VjcH+V72bq8hHtGrjveOU+7+vY/FbanuklRqQye++CI7PzKzKw8EWoE7ZI8kqIg7CbraC+ezr8OiMFXmQc4LAxOLIiTemaXaVTzvCEafvzq4RKIUzToR4RAeWodN3c3hJLWU5hZRlS2Q7eYmuLQZW+QlvbJ3sES1wK/gQnLDIWZWw==;FoxTDvTAnyxWTbeMwVjKOQ=="
 ---

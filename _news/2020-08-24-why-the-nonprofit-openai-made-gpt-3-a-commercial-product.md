@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/08/24/why-the-nonprofit-openai-ma
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/24/why-the-nonprofit-openai-made-gpt-3-a-commercial-product-syndication/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 417
     isCached: true
 
-secured: "Omy4ToUyC8qLM+hGH5DxDUDtDRBjSkr8sfvUj5+/o4CFhqKp+w/cHgzrS4w44U5DtYXNcybJGZTC6gsMxnDMm1XR/sdid/D6E+WyAu1Qmt3yUU0IkZfBLlnq8U0DOrWjL+4z/GYpHsIDL413gzHWBTC/rI+HbNVOOSo1UDbyRsJoWLWgkveRTrmKZu6QIa789EkwT7RHGUiSB+TYX+dkgvtMSPf2QccOa8nfeGmI+1sOJoo9w+pebJ1yhQutWm+97lfIO87BjZJctD/dj4OPIjLWUL7mYqRLiVbwipl7/2Fh9W2ksczLEBz0g0sxp4CUzxb4iMHa90eAZUsrAusQKg==;1heKdswmbTepwYDz6+SESA=="
+secured: "+GVat4jOLuyPrNo6vw0wC7ogtSDWK7cDLRk4NhrTXY45DsDNgfPn21WW5uSAXLixly4S1tLl+yfKPr0hdrRjbMNNO3fiu8sDn5CmkJ483q7sHMNkyQpQvkKrEb3r1JktV1WUJ74SXBwVovdJkSOSVRj9lwE0gMtZ/WScZa3WPEfEkAfkhd67ADZpahGtm1dr5mLQQ40kIUslFWd8+ZDIJHSObTxpCr9BqpDfh+vflEwegZUQJybSJYEvcuBodxsOog6jET7uHc3d1GsenliJuJmV6Zq08AcBXQk6+1kcRJ2zNie54uYF+zrcmphbjUb2ElrQUzEjkd0NvXcn1++iuA+pfVd1+GvtFD7695cLVFOVh7Csnoho/J6nCW8/sSZr0jeis7rK569rFL0MiIaSB9GgJrDUJi3FQiINRAZ1yzPq9qAzse5VbQ222WvT0aCC2dxX4lcKf6s32VQYDB6yMdrJp9NAWnGZBlQDdD7+bi/jzX/t+e1MURtatnhNM36jnXk8zW/ZDv/bKfO+XZLA+g==;dni2JN0QV3m3be79wNTYuQ=="
 ---
 

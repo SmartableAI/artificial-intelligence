@@ -2,6 +2,156 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-24-cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024.md",
+      "title": "Cloud Natural Language Processing Market Research Key Players, Industry Overview, Supply Chain and Analysis to 2024",
+      "excerpt": "Selbyville, Delaware Global Cloud Natural Language Processing Market Report added at Market Study Report LLC provides industry size, share, growth, trends and forecast analysis up to period. Cloud Natural Language Processing Market Report also covers top key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024-2020-08-24",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-24T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-this-philosopher-ai-has-its-own-existential-questions-to-answer.md",
+      "title": "This Philosopher AI has its own existential questions to answer",
+      "excerpt": "A new text-generating system called the Philosopher AI will answer your questions about the meaning of life -- unless they're too contentious.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-24T160614.887-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/amp/",
+      "publishedDateTime": "2020-08-24T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-artificial-intelligence-ai-market-inclinations-and-development-status-highlighted-during-forecast-period-2018-2025.md",
+      "title": "Artificial Intelligence (AI) Market Inclinations and Development Status Highlighted During Forecast Period 2018-2025",
+      "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-inclinations-and-development-status-highlighted-during-forecast-period-2018-2025-2020-08-24",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-24T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-why-the-nonprofit-openai-made-gpt-3-a-commercial-product.md",
       "title": "Why the nonprofit OpenAI made GPT-3 a commercial product",
       "excerpt": "A program that can automate website development. A bot that writes letters on behalf of nature. An AI-written blog that trended on Hacker News. Those are just some of the recent stories written about GPT-3,",
@@ -9,7 +159,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/08/24/why-the-nonprofit-openai-made-gpt-3-a-commercial-product-syndication/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -59,7 +209,7 @@
       "webUrl": "https://www.forbes.com/sites/danielnewman/2020/08/24/how-the-human--machine-workforce-is-being-accelerated-by-covid-19/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -109,7 +259,7 @@
       "webUrl": "https://www.zdnet.com/article/sugarcrm-acquires-node-an-ai-as-a-service-company/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1057,156 +1207,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-22-universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions.md",
-      "title": "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions",
-      "excerpt": "UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020 /PRNewswire via COMTEX/ -- UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21?mod=mw_quote_news&tesla=y",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-21T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-baidu-launches-its-new-urban-robotaxi-service.md",
-      "title": "Baidu Launches Its New Urban Robotaxi Service",
-      "excerpt": "Baidu (NASDAQ:BIDU) announced on Friday that it has launched a branch of its robotaxi service Apollo Go in that city, the first time it is operational in a downtown urban environment. Apollo Go is hooked into the company's wider digital ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F588944%2Fa-baidu-self-driving-car.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
-      "publishedDateTime": "2020-08-21T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-heres-the-smallest-aiml-supercomputer-ever.md",
-      "title": "Here's the smallest AI/ML supercomputer ever",
-      "excerpt": "The vector processor, with advanced pipelining, is a technology that proved itself long ago,” wrote Robbert Emery, who is responsible for commercializing NEC Corporation’s advanced technologies in HPC and AI/ML platform solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/heres-the-smallest-aiml-supercomputer-ever",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/q8a4w5iETy5tBB4KkqL5EU-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/heres-the-smallest-aiml-supercomputer-ever",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/heres-the-smallest-aiml-supercomputer-ever",
-      "publishedDateTime": "2020-08-21T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

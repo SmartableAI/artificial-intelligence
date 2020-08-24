@@ -2,6 +2,89 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-08-18-facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging.md",
+      "title": "Facebook and NYU are using AI to dramatically speed up MRI imaging",
+      "excerpt": "Two years ago, Facebook’s Artificial Intelligence Research group (FAIR) began collaborating with researchers at New York University’s Medical School on artificial intelligence that held the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-facebook-NYU-fast-mri-study.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-tensorflow-23-features-pipeline-bottleneck-reduction-and-improved-preprocessing.md",
+      "title": "TensorFlow 2.3 Features Pipeline Bottleneck Reduction and Improved Preprocessing",
+      "excerpt": "The TensorFlow project announced the release of version 2.3.0, featuring new mechanisms for reducing input pipeline bottlenecks, Keras layers for pre-processing, and memory profiling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/08/tensorflow-improved-pipelines/en/headerimage/tensorflow-improved-pipelines-1596991592701.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-microsoft-energy-dept-to-develop-disaster-response-ai-tools.md",
       "title": "Microsoft, Energy Dept. to Develop Disaster-Response AI Tools",
       "excerpt": "The Energy Department will spearhead the development and testing efforts. Microsoft will provide technological resources, including its Azure cloud for AI model training and inference. Other organizations, including public- and private-sector entities ...",
@@ -1110,107 +1193,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-mits-shared-ebike-transforms-into-a-self-driving-trike.md",
-      "title": "MIT's shared ebike transforms into a self-driving trike",
-      "excerpt": "While bicycle-sharing systems certainly are proving to be popular, they still have a few problems, such as the limited availability of bikes. Researchers at the MIT Media Lab are working on a solution,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/d421d8e/2147483647/strip/true/crop/1400x933+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F34%2F8c%2Fcfe1f5214b99b661aa1355c22aea%2Fautonomous-bike.jpeg.1400x1400.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/?amp=true",
-      "publishedDateTime": "2020-08-17T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-google-claims-tensorflows-opencl-can-double-inference-performance.md",
-      "title": "Google claims TensorFlow’s OpenCL can double inference performance",
-      "excerpt": "Google has adopted an OpenCL-based inference backened for TensorFlow on mobile devices, which the company claims delivers a significant speedup.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/amp/",
-      "publishedDateTime": "2020-08-17T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

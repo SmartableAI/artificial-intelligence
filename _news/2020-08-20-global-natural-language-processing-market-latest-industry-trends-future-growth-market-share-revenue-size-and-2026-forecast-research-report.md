@@ -28,15 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "Global Service Robotics Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026"
-    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
-    publishedDateTime: 2020-08-20T15:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-service-robotics-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2020-08-20"
+  - title: "Cloud Natural Language Processing Market Research Key Players, Industry Overview, Supply Chain and Analysis to 2024"
+    excerpt: "Selbyville, Delaware Global Cloud Natural Language Processing Market Report added at Market Study Report LLC provides industry size, share, growth, trends and forecast analysis up to period. Cloud Natural Language Processing Market Report also covers top key players,"
+    publishedDateTime: 2020-08-24T15:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024-2020-08-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market : Research By Production, Revenue, Growth Rate, Sales Value, Industry Trends, Impact Factors, SWOT Analysis 2027"
+    excerpt: "Aug 19, 2020 (AmericaNewsHour) -- Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to grow with a growth rate of more than 17.20 % over the forecast period 2020-2027. Demand for Voice enabled ..."
+    publishedDateTime: 2020-08-19T23:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-research-by-production-revenue-growth-rate-sales-value-industry-trends-impact-factors-swot-analysis-2027-2020-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
