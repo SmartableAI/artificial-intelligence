@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Covid-19 Impact on Artificial Intelligence in Medical Diagnostics Market: Global Analysis, Industry Growth, Current Trends and Forecast till 2025"
-    excerpt: "A new market study, titled \"Artificial Intelligence in Medical Diagnostics Market Upcoming Trends, Growth Drivers and Challenges\" has been featured on WiseGuyReports. Overviwe:- With the development of deep learning and neural networks,"
-    publishedDateTime: 2020-08-19T08:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-in-medical-diagnostics-market-global-analysis-industry-growth-current-trends-and-forecast-till-2025-2020-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Education Market Global Industry Analysis Segments Top Key Players Drivers And Trends To 2029"
     excerpt: "Trends In Artificial Intelligence in Education Market 2020. Straits Research announces the addition of its new research report titled, “Artificial Intelligence in Education Mark"
     publishedDateTime: 2020-08-19T15:03:00Z

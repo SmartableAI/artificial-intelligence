@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html"
 type: article
 quality: 70
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars could hit UK motorways in 2021"
-    excerpt: "Self-driving vehicles could be on the British roads as early as spring 2021 after the government launched a consultation on incorporating automated technology into cars. The Transport Ministry said it would allow a system to take control of the car at low speeds to keep in lane on motorways for an extended period of time."
-    publishedDateTime: 2020-08-19T08:55:00Z
-    webUrl: "https://www.thenational.ae/business/technology/self-driving-cars-could-hit-uk-motorways-in-2021-1.1065707"
-    ampWebUrl: "https://amp.thenational.ae/business/technology/self-driving-cars-could-hit-uk-motorways-in-2021-1.1065707"
-    cdnAmpWebUrl: "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/technology/self-driving-cars-could-hit-uk-motorways-in-2021-1.1065707"
-    type: article
-    provider:
-      name: The National Blogs
-      domain: thenational.ae
-    quality: 44
-    images:
-      - url: "https://www.thenational.ae/image/policy:1.1065779:1597835831/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Self driving cars to get go ahead on UK roads next year"
     excerpt: "The Department for Transport has announced that Self driving vehicles could be allowed on UK roads by next year. The government are currently considering proposals for automated lane keeping technology and collision avoidance technology and these could be ..."
     publishedDateTime: 2020-08-19T10:58:00Z

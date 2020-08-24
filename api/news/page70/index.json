@@ -2,6 +2,56 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-06-30-nvidia-expands-virtual-gpu-support-enabling-more-remote-work.md",
+      "title": "Nvidia expands virtual GPU support, enabling more remote work",
+      "excerpt": "The updates to Nvidia's vGPU software could help organizations remotely leverage virtual reality or better collaborate on computer-aided design.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidia-expands-virtual-gpu-support-enabling-more-remote-work/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/30/8fdc5834-5d12-4977-b0e1-151c1646263e/vgpu-remote-work-image.png",
+          "width": 1250,
+          "height": 619,
+          "title": "Nvidia expands virtual GPU support, enabling more remote work",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-expands-virtual-gpu-support-enabling-more-remote-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-expands-virtual-gpu-support-enabling-more-remote-work/",
+      "publishedDateTime": "2020-06-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-zia-khan-predicts-the-ai-of-the-future-will-only-be-used-for-good.md",
       "title": "Zia Khan predicts the AI of the future will only be used for good",
       "excerpt": "It took a global pandemic and stay-at-home orders for 1.5 billion people worldwide, but something is finally occurring to us: The future we thought we expected may not be the one we get. We know that things will change;",
@@ -1070,47 +1120,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-bny-mellon-launches-new-data-and-analytics-solutions-offerings-collaborates-with-microsoft-to-build-solutions-on-microsoft-azure.md",
-      "title": "BNY Mellon Launches New Data and Analytics Solutions Offerings, Collaborates with Microsoft to Build Solutions on Microsoft Azure",
-      "excerpt": "PRNewswire/ -- The Bank of New York Mellon Corporation (\"BNY Mellon\") today announced the launch of three new Data and Analytics Solutions offerings designed to help investment managers better manage their data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/business/newsfeeds/prnewswire/202006250800PR_NEWS_USPR_____NY45714.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

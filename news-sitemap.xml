@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-1029525962</loc>
+    <lastmod>2020-08-23T18:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/</loc>
     <lastmod>2020-08-23T10:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -793,7 +799,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines</loc>
+    <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1519,8 +1525,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.dailysecu.com/news/articleView.html?idxno=112422</loc>
-    <lastmod>2020-08-12T23:52:00-07:00</lastmod>
+    <loc>https://www.fnnews.com/news/202008131602495034</loc>
+    <lastmod>2020-08-13T00:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1551,12 +1557,6 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/amazon-textract-now-available-in-asia-pacific-mumbai-and-eu-frankfurt-regions/</loc>
     <lastmod>2020-08-12T15:49:17-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/large-provider-of-veterinary-products-selects-celebros-ai-search-to-power-their-ecommerce-search-experience-2020-08-12</loc>
-    <lastmod>2020-08-12T15:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1621,6 +1621,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://apnews.com/3e71c4647c2839e8932b892c1003b0fd</loc>
+    <lastmod>2020-08-12T09:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/12/researchers-claim-bias-in-ai-named-entity-recognition-models/</loc>
     <lastmod>2020-08-12T08:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1681,7 +1687,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/buddyai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking-kids-start-talking-in-english-301110900.html</loc>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/buddy-ai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking/article_2e58ca27-737c-5121-91c8-d73309d7043c.html</loc>
     <lastmod>2020-08-12T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2089,7 +2095,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/PR%2520Newswire/56e335acee9728a4dbb3c2cf163211ca</loc>
+    <loc>https://www.prnewswire.com/news-releases/stanford-center-for-health-education-launches-online-program-in-artificial-intelligence-in-healthcare-to-improve-patient-outcomes-301108618.html</loc>
     <lastmod>2020-08-10T07:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

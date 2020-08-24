@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Stanford Center for Health Education Launches Online Program in Artificial Intelligence in Healthcare to Improve Patient Outcomes"
-excerpt: "The Stanford Center for Health Education launched an online program in AI and Healthcare this week. The program aims to advance the delivery of patient care and improve global health outcomes through artificial intelligence and machine learning."
+excerpt: "The Stanford Center for Health Education launched an online program in AI and Healthcare this week. The program aims to advance the delivery"
 publishedDateTime: 2020-08-10T14:08:00Z
-webUrl: "https://apnews.com/PR Newswire/56e335acee9728a4dbb3c2cf163211ca"
+webUrl: "https://www.prnewswire.com/news-releases/stanford-center-for-health-education-launches-online-program-in-artificial-intelligence-in-healthcare-to-improve-patient-outcomes-301108618.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "j+1LO3Qpu0G2PsM46BtVpVUz+KhneA1gow+m5RVFnalP/NM4v+AgdRJNtUa1/fGPc0p8Oo6fPx9w2iCho9ulOvnoEehnXc8v9svZvvBnWBWy56HNWrjWwvs2jPXR/RTVf3gz0fK8LVjaNobZLOn0Y9LlXPDmpCVQCCD6V+Y0Z9RreWhBLGzJUkbc243kej8+fTAnO7OTitqbe+PVycQukjaKs2k88vdpLCoc4EGI1SfJTERex2bQ8+sgCIxj0xZNEW5dEvJlAErnlZldNlwppd9hbtI2muxmqKxRISgqxubzteBRhN7+bTgyqOwZTyAidYu/D5QaJgS3f1Do5QBxVQ==;vIuie2DGvGy3Z3yMYA3VSw=="
+secured: "R8mLnpnjyIKqL6b/J6xhVj+zqMXm0m6j9Qs3PqFHzfa3gqe62PZAONHGDxRK2XbvQWo2PqsPorhKKAIBYpENHCQ2Ag/ZQpNQWGQi/JGygglzSSX4QAay/XsnrjoLUTlYGaXMNblasyDE2lSvK+ZIHgHNPi97XsbeUvXJjNx3sX0vjvsTEeiqngADIjkYJRv8SGSBUqCtpDGuasErMUTWsGmdF+IRkNHy/2HZOlt1vJ3SavCVydX4Cvv7jIFwJl3MxpAeozNN43IprCrtCuw8X9YG2AbzYrsvIMzwmyoXhXHTkbQBX+9OxgL5/LKtAKObBgHoy/uY0uPtkYOQdhs51w==;ih+Dv/nPZXF0nltha6AD/A=="
 ---
 

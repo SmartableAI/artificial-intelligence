@@ -1200,16 +1200,16 @@
       "title": "Large Provider of Veterinary Products Selects Celebros AI Search to Power Their eCommerce Search Experience",
       "excerpt": "(NASDAQ: BLIN), a provider of cloud-based digital experience software, announced today that a leading provider of animal health and veterinary products has selected Celebros Search by Bridgeline as their site search solution for their online store.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/large-provider-of-veterinary-products-selects-celebros-ai-search-to-power-their-ecommerce-search-experience-2020-08-12",
+      "webUrl": "https://apnews.com/3e71c4647c2839e8932b892c1003b0fd",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1218,21 +1218,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T15:31:00-07:00",
+      "publishedDateTime": "2020-08-12T09:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
