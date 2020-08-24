@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-20T16:19:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-to-reach-usd-98-billion-in-2019-to-exhibit-375-cagr-till-2027-claims-big-market-reaserch-2020-08-20"
 type: article
 quality: 48
-heat: 58
+heat: 48
 published: false
 
 provider:

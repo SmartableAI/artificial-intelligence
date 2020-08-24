@@ -7,6 +7,7 @@ webUrl: "https://campustechnology.com/articles/2020/08/24/horizon-8.aspx"
 type: article
 quality: 24
 heat: 24
+published: false
 
 provider:
   name: Campus Technology

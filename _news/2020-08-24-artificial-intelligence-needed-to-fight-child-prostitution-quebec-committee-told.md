@@ -7,6 +7,7 @@ webUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/artificial-intell
 type: article
 quality: 14
 heat: 14
+published: false
 
 provider:
   name: National Post

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-20T23:01:00Z
 webUrl: "https://www.thetimes.co.uk/article/use-by-police-of-automated-facial-recognition-is-declared-unlawful-p56vw5jn6"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,19 @@ images:
     width: 685
     height: 385
     isCached: true
+
+related:
+  - title: "AI technologies — like police facial recognition — discriminate against people of colour"
+    excerpt: "Technology is not neutral, as facial recognition algorithms and predictive policing have shown us. Algorithms discriminate by design, reflecting and reinforcing pre-existing biases."
+    publishedDateTime: 2020-08-24T20:56:00Z
+    webUrl: "https://theconversation.com/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
+    ampWebUrl: "https://theconversation.com/amp/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 45
 
 secured: "TPxVy1U+GFrqIcM1fZug5khmD0VxrNAbtOyYDVHGUHw6MGa0NNJUclctpih3VpHI5tsKuDTjzZgkWiLV23MG2VgjFCOOcWJBy/sNjYc5edxPvTZHoc/HjmwV+4sSashcjbqimN6/vZvfdaNCXXT0aKjeJjVqJrWz1aoJsbQWsj1MZ1CQJIDX0DhAIhmbNwV52uzgeXbnRLBtfv2C6c2eH1Zqzi6zgtb0OgpjW3QXjjdWbYMY3PaTkG6aDuEh7NG4n1HioKzm4IgMAp/5uWM1WF4iq8FLEmkM1QadKd6e2wIh0lVUjZl29SldgyGV0L5qq50Osw7C/fBTdXTrIF32vQ==;tpZt3Su7ln3OvaGmT6STng=="
 ---

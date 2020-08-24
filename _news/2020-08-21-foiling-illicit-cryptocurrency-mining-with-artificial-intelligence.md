@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-21T13:18:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-08/danl-fic082020.php"
 type: article
 quality: 37
-heat: 47
+heat: 37
 published: false
 
 provider:

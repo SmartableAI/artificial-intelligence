@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-24T19:26:00Z
 webUrl: "https://www.crainsnewyork.com/technology/ai-startup-dataiku-plans-new-york-hires-after-100m-funding-round"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "AI development unicorn Dataiku picks up $100M in fresh funding"
+    excerpt: "Dataiku Inc., a startup that provides a software platform for building artificial intelligence models, has closed a $100 million investment led by the growth equity firm Stripes. Stripes was joined by Who’s Who of other institutional backers in the round,"
+    publishedDateTime: 2020-08-24T19:58:00Z
+    webUrl: "https://siliconangle.com/2020/08/24/ai-development-unicorn-dataiku-picks-100m-fresh-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/dataiku.png"
+        width: 845
+        height: 476
+        isCached: true
 
 secured: "ztgQkw7Yu74MXh7+pK6c2MiaFFTA+4jsI2YhrKLHtOspMHAaOPc33tqzatdwFvq+esYg3pDU5MC/ZAPrjrxSyuUaOXkMK5G7YCgkHINwxTBhSzNbJeQElI860bSRps00Aw9apaQ1luob8ivSQ0Y/KGrocDuA3thNV3vfxk1gTfUGTupAq7udlyJH3zKdAz/fzusd70rnvyJ499LfatgbiJ/7CQIRstqT4A7eI3iST41pCQEZy2q6iyNMsr1p8cNRJVEgBv82ftmg4tZcVYEhjOtM3RqqeVoxbbb/ptj5MxrweQFOvS4xJ6igH4rukwrMMJKFa6iWTj6bkWwtBm21rgTzK55Z17xVMiOMMOSftB8G83hCI/Q1DqHCh6qfCDMhsd4KxBhLmvjglGn433NddrBdyoA2P/GJspTRTg6kGA+PzWbNGOrFZrQ2VqDDjaZoMJMdRBddM2bgUlN8GQiN+gZ0zFYo+oFcjcLObYLemtcwXHKxXR9xmwDgNHpK2jlM+rF90Wly71KRqMricauU7Q==;8Vuk0AMlQzvriU6D3ZT06g=="
 ---

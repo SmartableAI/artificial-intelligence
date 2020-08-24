@@ -7,6 +7,7 @@ webUrl: "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-comman
 type: article
 quality: 32
 heat: 32
+published: false
 
 provider:
   name: The Drive

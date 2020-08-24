@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://gizmodo.com/mit-is-developing-an-ai-cancer-diagnosis-system-1699916919</loc>
+    <lastmod>2020-08-24T14:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895</loc>
     <lastmod>2020-08-24T12:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -415,8 +421,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.goodmorningamerica.com/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044</loc>
-    <lastmod>2020-08-20T10:06:00-07:00</lastmod>
+    <loc>https://abcnews.go.com/GMA/Culture/kamala-harris-shines-spotlight-trailblazing-black-women-2020/story?id=72492044</loc>
+    <lastmod>2020-08-20T10:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -541,7 +547,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners</loc>
+    <loc>https://www.techradar.com/in/news/aws-reveals-first-quantum-computing-partners</loc>
     <lastmod>2020-08-20T01:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -747,6 +753,12 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115</loc>
     <lastmod>2020-08-19T04:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.albawaba.com/business/pr/smart-dubai%25E2%2580%2599s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting</loc>
+    <lastmod>2020-08-19T03:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1051,14 +1063,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/</loc>
-    <lastmod>2020-08-17T11:53:00-07:00</lastmod>
+    <loc>https://www.computerworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization</loc>
+    <lastmod>2020-08-17T12:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.infoworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization</loc>
-    <lastmod>2020-08-17T11:45:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/</loc>
+    <lastmod>2020-08-17T11:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1807,8 +1819,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.adelaidenow.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162</loc>
-    <lastmod>2020-08-12T07:18:00-07:00</lastmod>
+    <loc>https://www.heraldsun.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162</loc>
+    <lastmod>2020-08-12T06:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1837,7 +1849,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/buddyai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking-kids-start-talking-in-english-301110900.html</loc>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/buddy-ai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking/article_2e58ca27-737c-5121-91c8-d73309d7043c.html</loc>
     <lastmod>2020-08-12T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2186,6 +2198,12 @@
   </url>
   <url>
     <loc>https://www.infoworld.com/resources/206844/achieve-machine-learning-goals-faster</loc>
+    <lastmod>2020-08-10T13:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.infoworld.com/resources/206843/go-long-with-machine-learning</loc>
     <lastmod>2020-08-10T13:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

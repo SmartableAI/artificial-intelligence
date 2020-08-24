@@ -7,6 +7,7 @@ webUrl: "https://www.defense.gov/Explore/News/Article/Article/2322947/defense-in
 type: article
 quality: 38
 heat: 38
+published: false
 
 provider:
   name: US Department of Defense

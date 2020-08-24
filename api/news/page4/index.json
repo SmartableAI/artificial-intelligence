@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-20-ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones.md",
+      "title": "iFarm Raises $4 million to automate urban farming with AI and drones",
+      "excerpt": "Farm has raised $4 million to expand its automated system that uses AI and drones to help farmers grow fruits and vegetables in enclosed spaces.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/iFarm_1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones/amp/",
+      "publishedDateTime": "2020-08-20T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-google-pixel-buds-tap-ai-to-alert-users-to-sirens-crying-babies-and-barking-dogs.md",
       "title": "Google Pixel Buds tap AI to alert users to sirens, crying babies, and barking dogs",
       "excerpt": "Google Pixel Buds are getting an experimental feature that uses AI to alert users to the sound of a crying baby, siren, or barking dog.",
@@ -290,7 +340,7 @@
       "webUrl": "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -724,7 +774,7 @@
       "title": "AWS reveals first quantum computing partners",
       "excerpt": "Amazon Web Services (AWS) has announced that it will allow all existing customers to access quantum computers through its cloud service. The quantum computers are early-stage models provided by three technology companies—D-Wave Systems Inc.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners",
+      "webUrl": "https://www.techradar.com/in/news/aws-reveals-first-quantum-computing-partners",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 89,
@@ -740,8 +790,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/aws-reveals-first-quantum-computing-partners",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/aws-reveals-first-quantum-computing-partners",
       "publishedDateTime": "2020-08-20T01:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1143,56 +1193,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-could-machine-learning-help-bring-marginalized-voices-into-historical-archives.md",
-      "title": "Could machine learning help bring marginalized voices into historical archives?",
-      "excerpt": "Researchers at the Montreal AI Ethics Institute and Microsoft propose using AI systems to build more inclusive, less biased historical archives.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/19/could-machine-learning-help-bring-marginalized-voices-into-historical-archives/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Black_Lives_Matter_Hyde_Park_London_protest_3.6.27-e1591395900176.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/19/could-machine-learning-help-bring-marginalized-voices-into-historical-archives/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/could-machine-learning-help-bring-marginalized-voices-into-historical-archives/amp/",
-      "publishedDateTime": "2020-08-19T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

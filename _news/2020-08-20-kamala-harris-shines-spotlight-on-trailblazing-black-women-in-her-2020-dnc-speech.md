@@ -8,7 +8,8 @@ ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/kamala-harris-shine
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
 type: article
 quality: 54
-heat: 54
+heat: 94
+published: true
 
 provider:
   name: ABC
@@ -23,6 +24,72 @@ images:
     width: 992
     height: 558
     isCached: true
+
+related:
+  - title: "DNC 2020: Kamala Harris makes history with VP acceptance speech | WATCH"
+    excerpt: "Kamala Harris has formally accepted the Democratic nomination for vice president. She addressed the Democratic National Convention's third night after former President Barack Obama warned that American democracy itself was at risk if President Donald Trump wins reelection this fall."
+    publishedDateTime: 2020-08-20T10:22:00Z
+    webUrl: "https://6abc.com/kamala-harris-speech-dnc-biden/6378391/"
+    ampWebUrl: "https://6abc.com/amp/kamala-harris-speech-dnc-biden/6378391/"
+    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/kamala-harris-speech-dnc-biden/6378391/"
+    type: article
+    provider:
+      name: 6abc News
+      domain: 6abc.com
+    quality: 44
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/6379204_081920-cc-DNC-harris-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "DNC 2020: Kamala Harris makes history with VP acceptance speech | WATCH"
+    excerpt: "Kamala Harris has formally accepted the Democratic nomination for vice president. She addressed the Democratic National Convention's third night after former President Barack Obama warned that American democracy itself was at risk if President Donald Trump wins reelection this fall."
+    publishedDateTime: 2020-08-21T00:16:00Z
+    webUrl: "https://abc7.com/kamala-harris-speech-dnc-biden/6378391/"
+    ampWebUrl: "https://abc7.com/amp/kamala-harris-speech-dnc-biden/6378391/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/kamala-harris-speech-dnc-biden/6378391/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 44
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/6379204_081920-cc-DNC-harris-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "DNC 2020: Kamala Harris' historic speech inspires young women across Chicago area"
+    excerpt: "Kamala Harris credited her Indian-born mother in her acceptance speech for giving her the values that charted the course of her life."
+    publishedDateTime: 2020-08-21T01:12:00Z
+    webUrl: "https://abc7chicago.com/kamala-harris-speech-dnc-biden/6380942/"
+    ampWebUrl: "https://abc7chicago.com/amp/kamala-harris-speech-dnc-biden/6380942/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/kamala-harris-speech-dnc-biden/6380942/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 39
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/6380948_082020-wls-schulte-kamala-5p-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Read Kamala Harris Masterful Speech Accepting The Democratic Nomination To Be Vice President"
+    excerpt: "Kamala Harris night accepted in glorious fashion the Democratic nomination to become the first Black woman to run for vice president on a major party’s ticket."
+    publishedDateTime: 2020-08-20T15:07:00Z
+    webUrl: "https://newsone.com/3999148/kamala-harris-dnc-2020-speech-full-text/"
+    ampWebUrl: "https://newsone.com/3999148/kamala-harris-dnc-2020-speech-full-text/amp/"
+    cdnAmpWebUrl: "https://newsone-com.cdn.ampproject.org/c/s/newsone.com/3999148/kamala-harris-dnc-2020-speech-full-text/amp/"
+    type: article
+    provider:
+      name: NewsOne
+      domain: newsone.com
+    quality: 33
+    images:
+      - url: "https://ionenewsone.files.wordpress.com/2020/08/15979322535986.jpg?quality=80&strip=all&w=1024&h=686"
+        width: 1024
+        height: 686
+        isCached: true
 
 secured: "zZOkyQRyZD7dHbXwAIKLfKbvEfyq4t3KzhpNLCt84r3iayz5xrwM20OS9xrTnxTdl+FXwAno+A0hYXkQB/5mbji5M07R3mvfgf2XoPNwL8e8juHbKoD1oaT7t/zyJbSl3js8RsvXL/HaXUePjjC4GzFFfHvk2h8VnhiY4Wzp+/X+taaEqJiZjJzEWg5x8QiYCbEVan64b1Lu3d+2CG1i82N+yqXxMrnafYa1wJlHFKcBE7kWBZHAHtwqe7kp0tUDLDh4BpLyladJILNQGxcDKaDIozs+9FDClTt05GWfCL5GWe1pHhoDgDD7Ex7qdRHq0HYMz8Q+eOldvA2mfQ3bDg==;DhuVjmqyIf56aSK39bHIqg=="
 ---

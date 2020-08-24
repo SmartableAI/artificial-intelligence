@@ -106,20 +106,6 @@ related:
         width: 2560
         height: 1369
         isCached: true
-  - title: "Violation of Fundamental Rights by using Facial Recognition Technology in Protests"
-    excerpt: "Facial Recognition Technology embodies a software that is capable of identifying and authenticating the identity of an individual by recognizing the physical traits of their face. The underlying"
-    publishedDateTime: 2020-08-20T03:30:00Z
-    webUrl: "https://www.jurist.org/commentary/2020/08/seshadri-sindhu-facial-recognition-technology-in-protests/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 35
-    images:
-      - url: "https://www.jurist.org/commentary/wp-content/uploads/sites/3/2020/08/artificial_intelligence_1597778810.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "US court gives preliminary approval to Facebook settlement of facial recognition suit"
     excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."
     publishedDateTime: 2020-08-20T23:08:00Z

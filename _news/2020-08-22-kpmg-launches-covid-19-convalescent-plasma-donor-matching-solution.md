@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-22T02:11:00Z
 webUrl: "https://hitconsultant.net/2020/08/21/kpmg-covid-19-convalescent-plasma-donor-matching-solution/"
 type: article
 quality: 24
-heat: 34
+heat: 24
 published: false
 
 provider:
