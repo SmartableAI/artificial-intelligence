@@ -2,7 +2,7 @@
 name: "AI Companies for Cancer Treatment"
 overview: "Here is a list of AI companies focusing on cancer discovery and treatment."
 type: "collection"
-heat: 50
+heat: 75
 
 
 query: item.tags contains 'Cancer'
@@ -12,10 +12,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://image.freepik.com/free-photo/3d-medical-virus-cells-dna-strand_1048-11335.jpg"
-    width: 626
-    height: 352
-    title: "3D Medical Virus Cells DNA Strand"
+  - url: "https://pbs.twimg.com/profile_images/1173441593908445184/lBjF20N__400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Deep Lens"
 
 ---
 

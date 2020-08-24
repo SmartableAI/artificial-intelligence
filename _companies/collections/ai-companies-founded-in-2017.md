@@ -2,7 +2,7 @@
 name: "AI Companies founded in 2017"
 overview: "Here is a list of AI companies founded in 2017."
 type: "collection"
-heat: 50
+heat: 106
 
 
 query: item.yearFounded == 2017
@@ -11,9 +11,11 @@ topics:
   - AI
 
 images:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/f/f5/D%C3%A9tection_de_personne_-_exemple_3.jpg"
-    width: 800
-    height: 533
+  - url: "https://pbs.twimg.com/profile_images/877221210760724480/EoRitKMa_400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Aera Technology"
 
 ---
 

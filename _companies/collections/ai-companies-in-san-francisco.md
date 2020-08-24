@@ -2,7 +2,7 @@
 name: "San Francisco AI Companies"
 overview: "List of AI companies in San Francisco."
 type: "collection"
-heat: 50
+heat: 85
 
 
 query: item.locations contains 'San Francisco, CA'
@@ -11,10 +11,11 @@ topics:
   - AI
 
 images:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Golden_Fog%2C_San_Francisco.jpg/1200px-Golden_Fog%2C_San_Francisco.jpg"
-    width: 1200
-    height: 800
-    title: "San Francisco"
+  - url: "https://pbs.twimg.com/profile_images/1278359063999344640/nk4ooHme_400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Affirm"
 
 ---
 

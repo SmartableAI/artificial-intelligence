@@ -2,7 +2,7 @@
 name: "AI Companies in New York City"
 overview: "List of AI companies in New York City."
 type: "collection"
-heat: 50
+heat: 75
 
 
 query: item.locations contains 'New York, NY'
@@ -11,10 +11,11 @@ topics:
   - AI
 
 images:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/9/94/Top_of_Rock_Cropped.jpg"
-    width: 1724
-    height: 1111
-    title: "New York City"
+  - url: "https://pbs.twimg.com/profile_images/588095780126208000/n336QMMR_400x400.png"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Agolo"
 
 ---
 

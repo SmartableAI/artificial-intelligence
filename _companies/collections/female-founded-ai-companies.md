@@ -2,7 +2,7 @@
 name: "Female Founded AI Companies"
 overview: "A list of AI companies with at least one woman founder."
 type: "collection"
-heat: 50
+heat: 75
 
 
 items:
@@ -15,10 +15,11 @@ topics:
   - AI
 
 images:
-  - url: "https://image.freepik.com/free-photo/girl-working-laptop-restaurant_1157-11513.jpg"
-    width: 626
-    height: 417
-    title: "Female Founded AI Companies"
+  - url: "https://pbs.twimg.com/profile_images/1272685852963901441/nrmsBoMo_400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Scale"
 
 ---
 

@@ -2,7 +2,7 @@
 name: "Image Recognition Startups"
 overview: "We've put together a list of image recognition and detection startups in the market."
 type: "collection"
-heat: 50
+heat: 75
 
 
 query: item.tags contains 'Image Recognition'
@@ -12,10 +12,11 @@ topics:
   - Computer Vision
 
 images:
-  - url: "/assets/images/topics/computer-vision.jpg"
-    width: 1000
-    height: 667
-    title: "Image Recognition"
+  - url: "https://pbs.twimg.com/profile_images/1286339140502654977/FmPAcETU_400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Clarifai"
 
 ---
 

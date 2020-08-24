@@ -2,7 +2,7 @@
 name: "Austin AI Companies"
 overview: "List of AI companies in Austin."
 type: "collection"
-heat: 50
+heat: 96
 
 
 query: item.locations contains 'Austin, TX'
@@ -11,10 +11,11 @@ topics:
   - AI
 
 images:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Austin_Evening.jpg/1200px-Austin_Evening.jpg"
-    width: 1200
-    height: 675
-    title: "Austin"
+  - url: "https://pbs.twimg.com/profile_images/834024692893773826/oJX5Bb_e_400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Alegion"
 
 ---
 

@@ -2,7 +2,7 @@
 name: "Seattle AI Companies"
 overview: "List of AI companies in Seattle."
 type: "collection"
-heat: 50
+heat: 75
 
 
 query: item.locations contains 'Seattle, WA'
@@ -11,10 +11,11 @@ topics:
   - AI
 
 images:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Downtown_Seattle_2.JPG/1200px-Downtown_Seattle_2.JPG"
-    width: 1200
-    height: 900
-    title: "Seattle"
+  - url: "https://pbs.twimg.com/profile_images/1293312087188373504/yJYx_yYJ_400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Algorithmia"
 
 ---
 
