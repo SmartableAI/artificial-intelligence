@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200821/AI-can-expedite-drug-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200821/AI-can-expedite-drug-repurposing-process-for-finding-COVID-19-therapies-says-GlobalData.aspx"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "How AI is helping find a vaccine for COVID-19"
-    excerpt: "An AI expert discusses how close pharmaceutical companies are getting to finding a coronavirus vaccine or treatment and why the use of the technology is helping."
-    publishedDateTime: 2020-08-19T19:07:00Z
-    webUrl: "https://www.techrepublic.com/article/how-ai-is-helping-find-a-vaccine-for-covid-19/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-is-helping-find-a-vaccine-for-covid-19/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-helping-find-a-vaccine-for-covid-19/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/08/19/8245d50c-76c0-4b7b-aed0-f8c9cd60fb16/thumbnail/1200x675/2b239adc754a2f8ef01edd6fe00ba277/20200817-aidrugs-karen-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "fqM9m+JsUMruEFQNxGf04Cd6QVfEvsRZbUD7GZelyTVwS11AkvsGxU2rBVgv/OMBHeN1teNDdzGQVX2H9ceCdotaPz128LiM5KGNddYDP3c9tzRLudQLU+FI+0mTgg6+soOP1OPsZwfBK6T0liS8FxUw2N4gUd/DalWZOo/JGe/TXVO8jW6s2jwVRyVLA+kXYQ3m05KlhMaJes2kBQiD3mOZ5Qxzb7qgC80i0cvWGG9Wix7LvyPNldI+GrVdcMHvi7W8cJuUpakHiLaq0Dtm4LEumxqRR6BhZ6b+XBi52ME3c7SZL1+A9ucOsuXMiOlLoNAS30+N5eTqMoGoNrUasw==;9Eq88VXujNez/AdhU6cCxA=="
 ---

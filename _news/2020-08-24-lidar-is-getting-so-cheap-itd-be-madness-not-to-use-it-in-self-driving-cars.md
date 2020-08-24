@@ -78,22 +78,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Self-driving trucks: what does the future look like?"
-    excerpt: "What progress has the trucking industry made in self-driving trucks, and what impact might it have in the next decade and beyond?"
-    publishedDateTime: 2020-08-19T19:51:00Z
-    webUrl: "https://munley.com/self-driving-trucks/"
-    ampWebUrl: "https://munley.com/self-driving-trucks/amp/"
-    cdnAmpWebUrl: "https://munley-com.cdn.ampproject.org/c/s/munley.com/self-driving-trucks/amp/"
-    type: article
-    provider:
-      name: Munley Law
-      domain: munley.com
-    quality: 44
-    images:
-      - url: "https://munley.com/wp-content/uploads/TuSimple_AFN_graphic-300x204.jpg"
-        width: 300
-        height: 204
-        isCached: true
 
 secured: "LzNxsjNrMyQaqMQoFAvKGeZ1JxPVAQEIA2BhnGhh+1CSG3znGYxbVUQ1/qCPXW2ehggU43dmDy5HAXo6qURRFB5bkdgsq//8/lRapTfx9SraI1M8puwVlTBtu2OJeYozOgSlL6bwYLkuLO6+sHv2mJEtPzUDsO2xy7KHA4Nfdb0eC3FA2RJIGTv00li7eNkeQ2kUXKKw6J3HGysdQY2NsHPhMOSx+m6ScmPioC71EquUiOaHqi1iP+wZ91LWaXmcFVu8SQee3QQlBYMhfHhm4aXO7UsNBJpE1wbgwcR/zWzL5FXzs9k5h320tUscIhp3bhutPmwb1CirtjuEMQ98ti9J+fjIcLNgXuEWCefjGMYMOMZRmADYNaFinfvP+mSlPQcjszslVxdI7dCB0/7FgNzDq7ue9jksFgpr2jtNeip2Vtg2wU7COIDb/2HPDT5wdgF66j/tamPEpHwWlWINVrRSIH/IUMeKeCAOz8jWiZgNrDsYE88IU2I+OOsftw+Yic0orOF/mOy8cLTVmAzLsQ==;EVavVUdm4fjrpBzITv99Ag=="
 ---

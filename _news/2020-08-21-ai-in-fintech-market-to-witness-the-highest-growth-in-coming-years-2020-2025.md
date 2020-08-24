@@ -20,61 +20,49 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence In Construction Market Rising Trend, Business Opportunities and Scope 2020-2025"
-    excerpt: "The Global Artificial Intelligence In Construction Market Research Report 2020-2025 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost,"
-    publishedDateTime: 2020-08-21T11:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-rising-trend-business-opportunities-and-scope-2020-2025-2020-08-21"
+  - title: "Proptech And Fintech Providers Fight To Become Real Estate Market Leaders In Switzerland"
+    excerpt: "New technologies and their frequent use during the first half of 2020 have shown the real estate sector more ways to conduct business."
+    publishedDateTime: 2020-08-24T12:23:00Z
+    webUrl: "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 65
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3ffe1b04d29513305c226a%2F0x0.jpg"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Weyland Tech Enters Agreement to Acquire Fixel AI, Leading Innovator in AI-Powered Digital Marketing Technology"
+    excerpt: "Weyland Tech, Inc. (OTCQX: WEYL), a leading global provider of eCommerce, mCommerce, and fintech business enablement solutions, has reached an agreement to acquire Fixel AI, an award-winning innovator of digital marketing technology."
+    publishedDateTime: 2020-08-22T01:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/weyland-tech-enters-agreement-to-acquire-fixel-ai-leading-innovator-in-ai-powered-digital-marketing-technology-2020-08-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Big Data Market:2020 Opportunities, Driving Forces, Analysis, Future Potential 2023"
-    excerpt: "The global big data market is expected to grow at a 13.35% CAGR from 2018 to 2023. Towards the end of the assessment period, the market is likely to surpass a valuation of USD 81,"
-    publishedDateTime: 2020-08-24T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/big-data-market2020-opportunities-driving-forces-analysis-future-potential-2023-2020-08-23"
+  - title: "My MBA Helped Me Become A Fintech Leader In Greater China"
+    excerpt: "After graduating from an MBA in Hong Kong, Jeffrey Ng used the leadership skills he learned to develop his career in the fintech hubs of Hong Kong and mainland China"
+    publishedDateTime: 2020-08-21T09:19:00Z
+    webUrl: "https://www.businessbecause.com/news/mba-jobs/7065/mba-fintech-leader-china"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
+      name: Business Because
+      domain: businessbecause.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Software Market Size by Production, Top Countries Import-Export and Consumption Forecast & Regional Analysis by 2024"
-    excerpt: "Artificial Intelligence Software Market\" 2020-2024 Report Provides Market Share, CAGR, Production, Consumption,"
-    publishedDateTime: 2020-08-20T15:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-size-by-production-top-countries-import-export-and-consumption-forecast-regional-analysis-by-2024-2020-08-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market : Research By Production, Revenue, Growth Rate, Sales Value, Industry Trends, Impact Factors, SWOT Analysis 2027"
-    excerpt: "Aug 19, 2020 (AmericaNewsHour) -- Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to grow with a growth rate of more than 17.20 % over the forecast period 2020-2027. Demand for Voice enabled ..."
-    publishedDateTime: 2020-08-19T23:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-research-by-production-revenue-growth-rate-sales-value-industry-trends-impact-factors-swot-analysis-2027-2020-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.businessbecause.com/themes/businessbecause/img/search_responsive_white.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "OYjBVJ06p1hX84/MYZTRzlziaoAVlm3SUlRpYUGWDGulQYJroDB3+ughqly0iCFhYL6SOdUZ7FRo+t/SnFELRkDsBx7a19yrneuACP2BUTQXVWfNHEjLY/vRMVZxhsLFN05L5o6bcXMKDDKdJvmHeoIv54g1hpcEorXy3JK8U6jReM94w0zENe3MrTbA2STORPnixcgT1rc2JLHiRfocWY0m7SKQV9ht1J2h54IG/P+OIxqNBERYqydsNsi/rqC0Yf4bLroh+493LnouvCiJ5RAbVqUYSxDZFcAW9I0wg9cRMrDsA7/Xd3Th0N+PTNellHU8wKUySTHknuGYNF04Jw==;0o+fOI3ifTP9y4JUKi6SpQ=="

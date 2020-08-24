@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-24-how-the-human-machine-workforce-is-being-accelerated-by-covid-19.md",
+      "title": "How The Human + Machine Workforce Is Being Accelerated By COVID-19",
+      "excerpt": "Human + Machine partnerships are becoming even more critical and seeing greater investment and adoption as Covid-19 forces companies to innovate and digitally transform businesses faster to stay profitable and meet customers where they are.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/08/24/how-the-human--machine-workforce-is-being-accelerated-by-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f407a4da70df15485083a3b%2F0x0.jpg",
+          "width": 1200,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/08/24/how-the-human--machine-workforce-is-being-accelerated-by-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/08/24/how-the-human--machine-workforce-is-being-accelerated-by-covid-19/amp/",
+      "publishedDateTime": "2020-08-24T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-deep-learning-market-growth-by-manufacturers-type-and-application-forecast-to-2026.md",
       "title": "Deep Learning Market Growth By Manufacturers, Type And Application, Forecast To 2026",
       "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include IBM Corporation,",
@@ -1284,7 +1334,7 @@
       "title": "Algorithm created by deep learning finds potential therapeutic targets throughout the human genome",
       "excerpt": "Researchers at the New Jersey Institute of Technology and the Children's Hospital of Philadelphia have developed an algorithm through machine learning that helps predict sites of DNA methylation -- a process that can change the activity of DNA without changing its overall structure.",
       "sourceUrl": null,
-      "webUrl": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061&WT.mc_id=USNSF_1",
+      "webUrl": "https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061&org=NSF&from=news",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1302,7 +1352,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T13:19:00-07:00",
+      "publishedDateTime": "2020-08-13T13:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "nsf.gov",
@@ -1369,47 +1419,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-sas-automl-.md",
-      "title": "코오롱베니트, 'SAS AutoML 활용 전략’ 웨비나 개최",
-      "excerpt": "[파이낸셜뉴스] 코오롱그룹 IT서비스 전문기업 코오롱베니트가 오는 27일 ‘AI기반 의사결정 지원을 위한 SAS AutoML 활용 전략’ 웨비나를 개최한다고 13일 밝혔다. 자동화 머신러닝(AutoML)은 최적의 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fnnews.com/news/202008131602495034",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.fnnews.com/resource/crop_image/2020/08/18/thumb/202008181506500395_1597797299405.jpg",
-          "width": 280,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fnnews.com/ampNews/202008131602495034",
-      "cdnAmpWebUrl": "https://www-fnnews-com.cdn.ampproject.org/c/s/www.fnnews.com/ampNews/202008131602495034",
-      "publishedDateTime": "2020-08-13T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "파이낸셜뉴스",
-        "domain": "fnnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

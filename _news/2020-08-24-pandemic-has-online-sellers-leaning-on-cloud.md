@@ -7,8 +7,8 @@ webUrl: "https://www.wsj.com/articles/pandemic-has-online-sellers-leaning-on-clo
 ampWebUrl: "https://www.wsj.com/amp/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.wsj.net/im-223920/social"

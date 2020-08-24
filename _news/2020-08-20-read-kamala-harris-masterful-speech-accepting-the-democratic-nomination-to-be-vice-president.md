@@ -28,19 +28,19 @@ images:
 related:
   - title: "Kamala Harris shines spotlight on trailblazing Black women in her 2020 DNC speech"
     excerpt: "Calif., accepted the Democratic Party's nomination for vice president Wednesday night, she did so by recognizing the trailblazing women who came before her. \"That I am here tonight is a testament to the dedication of generations before me,"
-    publishedDateTime: 2020-08-20T17:09:00Z
-    webUrl: "https://abcnews.go.com/GMA/Culture/kamala-harris-shines-spotlight-trailblazing-black-women-2020/story?id=72492044"
-    ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
-    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
+    publishedDateTime: 2020-08-20T17:06:00Z
+    webUrl: "https://www.goodmorningamerica.com/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
+    ampWebUrl: "https://www.goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
+    cdnAmpWebUrl: "https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
     type: article
     provider:
-      name: ABC
-      domain: go.com
+      name: GMA
+      domain: goodmorningamerica.com
     quality: 54
     images:
-      - url: "https://s.abcnews.com/images/GMA/kamala-harris-dnc-01-ap-iwb-200819_1597933336252_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s.abcnews.com/images/GMA/gma_logo_new.png"
+        width: 480
+        height: 226
         isCached: true
   - title: "DNC 2020: Kamala Harris makes history with VP acceptance speech | WATCH"
     excerpt: "Kamala Harris has formally accepted the Democratic nomination for vice president. She addressed the Democratic National Convention's third night after former President Barack Obama warned that American democracy itself was at risk if President Donald Trump wins reelection this fall."

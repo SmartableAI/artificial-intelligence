@@ -2,6 +2,106 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-07-microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update.md",
+      "title": "Microsoft partners with blackshark.ai on Flight Simulator, provides SDK update",
+      "excerpt": "This week's development update brings news for a bunch of components including the Partnership Series, the SDK, Feedback Snapshots, and the development roadmap for August-November as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1589504421_microsoft_flight_simulator_21_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update/",
+      "publishedDateTime": "2020-08-07T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-microsoft-azure-a-cheat-sheet.md",
+      "title": "Microsoft Azure: A cheat sheet",
+      "excerpt": "Cray supercomputing comes to Microsoft Azure to boost AI workloads in the cloud (TechRepublic) Microsoft is working on an Azure-powered Cloud PC service (ZDNet) One of the core strengths of Microsoft Azure is the ease of transition for organizations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2016/03/10/094493b1-358a-4ef7-92db-663e6b745668/resize/1200x/c51ec9da1ef26e61c5713906a2fe515f/microsoftazure.png",
+          "width": 1200,
+          "height": 744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/",
+      "publishedDateTime": "2020-08-06T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis.md",
       "title": "Researchers discover evidence of gender bias in major computer vision APIs",
       "excerpt": "Researchers at Wunderman Thompson say they've found evidence of gender bias in major computer vision APIs from Google, IBM, and Microsoft.",
@@ -1232,97 +1332,6 @@
       ],
       "topics": [
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry.md",
-      "title": "The cloud becomes a delivery mechanism for the media and entertainment industry",
-      "excerpt": "The pandemic has accelerated digital transformation efforts in M&E businesses to help create innovation, efficiencies, and new revenue streams, according to a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/06/13441199-0033-4e37-a942-b9bc2deaac89/resize/1200x/9a229ce009266f1a6bbd4fa8123f6cb7/istock-1167582999.jpg",
-          "width": 1200,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry/",
-      "publishedDateTime": "2020-07-24T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "and Azure Machine Learning in forecasting and anomaly detection use cases in many industries. With TIM, customers can benefit from predictive analytics to create real business value, with better ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-24T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

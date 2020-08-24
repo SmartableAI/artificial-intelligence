@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-20T15:44:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -20,38 +20,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Weyland Tech Enters Agreement to Acquire Fixel AI, Leading Innovator in AI-Powered Digital Marketing Technology"
-    excerpt: "Weyland Tech, Inc. (OTCQX: WEYL), a leading global provider of eCommerce, mCommerce, and fintech business enablement solutions, has reached an agreement to acquire Fixel AI, an award-winning innovator of digital marketing technology."
-    publishedDateTime: 2020-08-22T01:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/weyland-tech-enters-agreement-to-acquire-fixel-ai-leading-innovator-in-ai-powered-digital-marketing-technology-2020-08-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "ARK Fintech Innovation ETF has Surged Over 60% in 2020, Other Similar Digital Tech Investments Performing Well during Pandemic"
-    excerpt: "ARK Fintech Innovation ETF has surged over 60% in 2020, other similar digital tech investments performing well during pandemic."
-    publishedDateTime: 2020-08-23T20:30:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/08/165613-ark-fintech-innovation-etf-has-surged-over-60-in-2020-other-similar-digital-tech-investments-performing-well-during-pandemic/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/08/165613-ark-fintech-innovation-etf-has-surged-over-60-in-2020-other-similar-digital-tech-investments-performing-well-during-pandemic/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/165613-ark-fintech-innovation-etf-has-surged-over-60-in-2020-other-similar-digital-tech-investments-performing-well-during-pandemic/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 16
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Fintech-USA-Dollars-300x225.jpeg"
-        width: 300
-        height: 225
-        isCached: true
 
 secured: "Ke+A7vUpjtuIb36tMQluVce3yiGF89S6xK85hEMWF1QMLWUS2g5jHSl3i/4dc+61s8H6oI9PNexHpkHgKHv0NBCiTW80tyOwdXLIbu/3ehiCGrVSYoL9XHs5nhGQYYlrvEmUpzQokG0HmMgfd1GDa4jtI8KNIwd99HvE/BeHnlnb/XecpAh0WAPNfL0oJroyN5kfmoud4zx89C/4J2Hf2f1jEWqW8y/5SV5iZsGV8D3bmgoIZhUfHco/klmPgsC//4pChC3j+zBi/ajrSxCNsbKrmiEqgzIwDkFhhFKuMtF5tELeFb5mlvptxTg4976niFfBM8YEpzRuVidb6p5qYg==;NCSOoSQ/MSODqMl4xz1AUg=="
 ---

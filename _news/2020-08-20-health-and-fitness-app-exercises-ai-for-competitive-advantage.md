@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Health and Fitness App Exercises AI for Competitive Advantage"
-excerpt: "The use of artificial intelligence is not yet a common feature in fitness apps, but it is a main component in a popular India-based fitness app now focused on growing users in the U.S. and Canada. Bringing AI to personal workout routines at home could provide gym-starved exercise enthusiasts something new to sweat over."
+excerpt: "The use of artificial intelligence is not yet a common feature in fitness apps, but it is a main component in a popular India-based app now focused on growing users in the U.S. and Canada. Bringing AI to personal workout routines at home could provide gym-starved exercise enthusiasts something new to sweat over."
 publishedDateTime: 2020-08-20T11:00:00Z
-webUrl: "https://www.technewsworld.com/story/Health-and-Fitness-App-Exercises-AI-for-Competitive-Advantage-86810.html"
+webUrl: "https://www.technewsworld.com/story/86810.html?rss=1"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 340
     isCached: true
 
-secured: "lKMXzE17WCAjcJuNcFpPpd1SyduLQXn/LyrG6aYsHks9/1QTjOBk8wudsadTgQXsv420Qjk7ivM1uR8B43IDWbtISQO69CABz9YAcEYU0YTjEIXlwp+Tw6qzEK7j9SD3YzYw15467JWaAitiv+dUR6xzN+7dxEpecj8CIqIrJIeSBZjJe4ElQBZqbE4xNxP0/RWdA1kwvUK430EgFYi2lTioHDICqBR6kGQrKsqJTnxVMySBXDgk26sOLdjzlb9UBK48aFhaKJ4PT4+KT9yVDZxFm+8XygkbJ1yJfr5CLwg7Aj2Bp+OBfoQbVVNPuxwzbDL0tdqFi9glk5m6I7Je+A==;DPBvdZzqFJpJPdm12EeT7A=="
+secured: "Awj/TAC8CYf3+Ztwsaet24sV7bE5kV09B+XmL2dlBf7I4NA75UGFNvJuw+Cd/JQ49jsvfV+jAwOEc+mVgJLowicT10K4G1gasLa+mTkQZxlNRY2JJ/par+Oe8ux9mlPDpaf7ZplTSCFiRrirqUzNCo2VxZ15D6GNJlFpJEtEB6E63nxTIC7iZs2083reYuEhtPwX+HIIFgLMFpkL0suMamXVFV9aZxdNj5reBxqTy+XBCwZW/w8ipxgcY8akBCgDSL78JgyhL8iW06ok8PFrDc+qNHL+CpUXg9HzNB10Q0ArVk9CCAPuJOuO1KvdIjumkyOdqAfmHpr7swRGpMtwbQ==;+S6mt70/EcRGqErRF5xhTA=="
 ---
 

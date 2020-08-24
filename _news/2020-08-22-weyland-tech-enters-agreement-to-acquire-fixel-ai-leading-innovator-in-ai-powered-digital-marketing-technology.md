@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-22T01:48:00Z
 webUrl: "https://www.marketwatch.com/press-release/weyland-tech-enters-agreement-to-acquire-fixel-ai-leading-innovator-in-ai-powered-digital-marketing-technology-2020-08-13"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -28,30 +28,46 @@ images:
     isCached: true
 
 related:
-  - title: "CEOs of ServiceNow, Weyland Tech, CloudMD, and Jumia Discuss Innovation in Cloud, Telemedicine, AI, Ecomm & Fintech:"
-    excerpt: "On Journey to $10 Billion in Cloud Revenue - Destiny to Become Defining Enterprise Software Company of 21st century” Earnings call highlights:  Weyland Tech (OTC: WEYL)“The Shopify of Mobile in SE Asia ”w $40+ mil revenues” August 20 12:30EST investor livestream:  CloudMD (OTC: DOCRF): \"The Future of Telemedicine” Video:  Jumia Technologies AG (NYSE: JMIA) CEO Sacha Poignonnec: \"E-Commerce & Mobile Payments Adoption Accelerating in Africa” Earnings call highlights:  Highlights of CEO comments from latest earnings calls and investor conferences: ServiceNow,"
-    publishedDateTime: 2020-08-20T15:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539"
+  - title: "Proptech And Fintech Providers Fight To Become Real Estate Market Leaders In Switzerland"
+    excerpt: "New technologies and their frequent use during the first half of 2020 have shown the real estate sector more ways to conduct business."
+    publishedDateTime: 2020-08-24T12:23:00Z
+    webUrl: "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
-  - title: "ARK Fintech Innovation ETF has Surged Over 60% in 2020, Other Similar Digital Tech Investments Performing Well during Pandemic"
-    excerpt: "ARK Fintech Innovation ETF has surged over 60% in 2020, other similar digital tech investments performing well during pandemic."
-    publishedDateTime: 2020-08-23T20:30:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/08/165613-ark-fintech-innovation-etf-has-surged-over-60-in-2020-other-similar-digital-tech-investments-performing-well-during-pandemic/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/08/165613-ark-fintech-innovation-etf-has-surged-over-60-in-2020-other-similar-digital-tech-investments-performing-well-during-pandemic/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/165613-ark-fintech-innovation-etf-has-surged-over-60-in-2020-other-similar-digital-tech-investments-performing-well-during-pandemic/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 16
+      name: Forbes
+      domain: forbes.com
+    quality: 65
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Fintech-USA-Dollars-300x225.jpeg"
-        width: 300
-        height: 225
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3ffe1b04d29513305c226a%2F0x0.jpg"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "AI in Fintech Market To Witness the Highest Growth in Coming Years 2020-2025"
+    excerpt: "The AI in Fintech Market recently Published GlobalAI in Fintech Market”. The report provides information and the advancing business series information in the sector to the exchange. The report provides a notion connected to the progress of this market movement of significant players of this industry."
+    publishedDateTime: 2020-08-21T12:10:00Z
+    webUrl: "https://www.openpr.com/news/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
+    ampWebUrl: "https://www.openpr.com/amp/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
+  - title: "My MBA Helped Me Become A Fintech Leader In Greater China"
+    excerpt: "After graduating from an MBA in Hong Kong, Jeffrey Ng used the leadership skills he learned to develop his career in the fintech hubs of Hong Kong and mainland China"
+    publishedDateTime: 2020-08-21T09:19:00Z
+    webUrl: "https://www.businessbecause.com/news/mba-jobs/7065/mba-fintech-leader-china"
+    type: article
+    provider:
+      name: Business Because
+      domain: businessbecause.com
+    quality: 24
+    images:
+      - url: "https://www.businessbecause.com/themes/businessbecause/img/search_responsive_white.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "Ww2heTB+b7zGOOJYRkKkSFVAJFbZlILL4zEtd9AwJ2R/3pQTCG2noPKUA9FMeetevOW35ANzp2Dz+cUeE3rBSQZ2KENp8I6AoyYXGod03Soc8BGU/iGNMtgwjk6SsMDOORj20MO0TW6yRKsoHU5/kP42T0go2Vj3kXHzZ08/LdnoukDDZngw4hbiM3IBmLAWK+DhamEt5qHt+Fz+Js2uM6KmQaT5k7+SEDhCChu557O3hoRbRaSaM6KPkSaj0B/mDAxtLychE1OSrEcOjvMFmFwbXKuLWbU/sIJRp5ZB/rYWcPK+bG6+/y/fcEcn4cmTbl0jVbyNfHo5dHVwnjY+Jg==;zo9raxLwcUkO4jVF50uxrg=="

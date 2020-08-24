@@ -9,7 +9,7 @@
       "webUrl": "https://www.wsj.com/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -48,7 +48,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {

@@ -2,6 +2,255 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-24-why-the-nonprofit-openai-made-gpt-3-a-commercial-product.md",
+      "title": "Why the nonprofit OpenAI made GPT-3 a commercial product",
+      "excerpt": "A program that can automate website development. A bot that writes letters on behalf of nature. An AI-written blog that trended on Hacker News. Those are just some of the recent stories written about GPT-3,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/24/why-the-nonprofit-openai-made-gpt-3-a-commercial-product-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/image-2-3-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/24/why-the-nonprofit-openai-made-gpt-3-a-commercial-product-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/24/why-the-nonprofit-openai-made-gpt-3-a-commercial-product-syndication/amp/",
+      "publishedDateTime": "2020-08-24T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-how-the-human-machine-workforce-is-being-accelerated-by-covid-19.md",
+      "title": "How The Human + Machine Workforce Is Being Accelerated By COVID-19",
+      "excerpt": "Human + Machine partnerships are becoming even more critical and seeing greater investment and adoption as Covid-19 forces companies to innovate and digitally transform businesses faster to stay profitable and meet customers where they are.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/08/24/how-the-human--machine-workforce-is-being-accelerated-by-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f407a4da70df15485083a3b%2F0x0.jpg",
+          "width": 1200,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/08/24/how-the-human--machine-workforce-is-being-accelerated-by-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/08/24/how-the-human--machine-workforce-is-being-accelerated-by-covid-19/amp/",
+      "publishedDateTime": "2020-08-24T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-sugarcrm-acquires-node-an-ai-as-a-service-company.md",
+      "title": "SugarCRM acquires Node, an AI-as-a-service company",
+      "excerpt": "SugarCRM said it is looking to use deep learning models to find signals and utilize inaccurate or incomplete CRM data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sugarcrm-acquires-node-an-ai-as-a-service-company/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/08/24/e1892061-a66d-493c-90a0-14dadd28c52c/node-ai-paas.png",
+          "width": 845,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sugarcrm-acquires-node-an-ai-as-a-service-company/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sugarcrm-acquires-node-an-ai-as-a-service-company/",
+      "publishedDateTime": "2020-08-24T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation.md",
+      "title": "Three Tips To Help Pharmacy Leaders Ensure A Successful Digital Transformation",
+      "excerpt": "Pharmacy — specifically hospital pharmacy— is a key area where digital transformation can have a significant impact.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/24/three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4004bd6e43a4ee11b150ca%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/24/three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/08/24/three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation/amp/",
+      "publishedDateTime": "2020-08-24T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland.md",
+      "title": "Proptech And Fintech Providers Fight To Become Real Estate Market Leaders In Switzerland",
+      "excerpt": "New technologies and their frequent use during the first half of 2020 have shown the real estate sector more ways to conduct business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3ffe1b04d29513305c226a%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/amp/",
+      "publishedDateTime": "2020-08-24T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-deep-learning-market-growth-by-manufacturers-type-and-application-forecast-to-2026.md",
       "title": "Deep Learning Market Growth By Manufacturers, Type And Application, Forecast To 2026",
       "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include IBM Corporation,",
@@ -59,7 +308,7 @@
       "webUrl": "https://www.wsj.com/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -98,7 +347,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -159,7 +409,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2019-2026-2020-08-24?mod=mw_quote_news",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -249,7 +499,7 @@
       "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enablement-for-enterprises-startup-raises-100-million-series-d/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -957,245 +1207,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes.md",
-      "title": "A New Tool Aims to Protect Protesters From Facial Recognition With Deepfakes",
-      "excerpt": "In an era in which facial recognition has made it easy for law enforcement and other organizations to search someone’s identity based on their face alone, the question of when it’s appropriate to share identifiable photos of protesters and activists ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2020/08/deeepfake-tool-PAGE-2020-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/",
-      "publishedDateTime": "2020-08-21T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-ai-weekly-surveillance-structural-racism-and-the-biden-2020-presidential-campaign.md",
-      "title": "AI Weekly: Surveillance, structural racism, and the Biden 2020 presidential campaign",
-      "excerpt": "What Joe Biden and Kamala Harris said about tech at DNC 2020 and a look at the kinds of AI and algorithmic bias mentioned in the Biden 2020 plan.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/21/ai-weekly-surveillance-structural-racism-and-the-biden-2020-presidential-campaign/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1267430321.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/21/ai-weekly-surveillance-structural-racism-and-the-biden-2020-presidential-campaign/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/ai-weekly-surveillance-structural-racism-and-the-biden-2020-presidential-campaign/amp/",
-      "publishedDateTime": "2020-08-21T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-simulated-dogfight-contest.md",
-      "title": "AI Murder Machine Kicks Air Force Pilot's Ass in DARPA's Simulated Dogfight Contest",
-      "excerpt": "Anyone remember the 2005 sci-fi movie Stealth? As far as I can remember, it involves a secret, artificially intelligent U.S. Air Force fighter plane that rebels against its creators when it is struck by lightning.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pkvkr2tadkg4dlsaanph.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp",
-      "publishedDateTime": "2020-08-21T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-from-ai-weiwei-a-portrait-of-wuhans-draconian-covid-lockdown.md",
-      "title": "From Ai Weiwei, a Portrait of Wuhan’s Draconian Covid Lockdown",
-      "excerpt": "Ai said the documentary film “Coronation,” which he directed remotely from Europe, “is trying to reflect what ordinary Chinese people went through.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/08/21/arts/21coronation24/merlin_175985925_29d1caae-7ab7-46cc-95a8-f83acc9e127c-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.amp.html",
-      "publishedDateTime": "2020-08-21T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits.md",
-      "title": "ProBeat: Release your data sets to the AI research community and reap the benefits",
-      "excerpt": "Duolingo research director Burr Settles talks about how to leverage the AI research community -- start by releasing your data sets.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/duolingo-duo.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/amp/",
-      "publishedDateTime": "2020-08-21T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

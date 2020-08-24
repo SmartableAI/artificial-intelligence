@@ -8,7 +8,7 @@ ampWebUrl: "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters
 cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cops in Miami, NYC arrest protesters from facial recognition matches"
-    excerpt: "Law enforcement in several cities, including New York and Miami, have reportedly been using controversial facial recognition software to track down and arrest individuals who allegedly participated in criminal activity during Black Lives Matter protests months after the fact."
-    publishedDateTime: 2020-08-19T20:45:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/08/cops-in-miami-nyc-arrest-protesters-from-facial-recognition-matches/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-1238438366-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Orwell’s nightmare? Facial recognition for animals promises a farmyard revolution"
     excerpt: "China’s acts of bovine intervention could help improve agricultural safety and allow the industry to become more self-sufficient."
     publishedDateTime: 2020-08-24T09:09:00Z

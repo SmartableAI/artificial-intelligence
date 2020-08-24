@@ -1,28 +1,30 @@
 ---
 category: news
 title: "MSMEs go local, focus on value-for-money"
-excerpt: "As Covid-19 drives small businesses and startups to adopt technology solutions, small and mid-size IT players see growth by providing localised and value-for-money services"
-publishedDateTime: 2020-08-24T04:56:00Z
-webUrl: "https://www.forbesindia.com/article/startups/msmes-go-local-focus-on-valueformoney/61915/1"
+excerpt: "As against an Amazon Web Services (AWS) or Google, companies have been turning to relatively smaller players for the service and pricing value they bring to the table"
+publishedDateTime: 2020-08-24T12:17:00Z
+webUrl: "https://www.moneycontrol.com/news/business/companies/msmes-go-local-focus-on-value-for-money-5748991.html"
+ampWebUrl: "https://www.moneycontrol.com/news/business/companies/msmes-go-local-focus-on-value-for-money-5748991.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/companies/msmes-go-local-focus-on-value-for-money-5748991.html/amp"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Forbes India
-  domain: forbesindia.com
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.forbesindia.com/media/images/2020/Aug/img_140443_vpnandcybersecurity.jpg"
-    width: 800
-    height: 600
+  - url: "https://images.moneycontrol.com/static-mcnews/2020/06/MSME-770x433.jpg?impolicy=website&width=770&height=431"
+    width: 770
+    height: 431
     isCached: true
 
-secured: "dKAxLFb8aLVdF0QxEbs0HwDsZKlDQmM2sYMCN1yaJOMPmMcQTXQDAkXhysZOStr1KqW0l7AmLnCqlMGR1OyZ7vo4KdUSmt1Ezpecp6VetpDV9421qxkxB1LBn50kIKGZunB8YYX3zqcExb3s8ld4Eo3uQ3CZ8m6NB4TcjG1GvO5RyKxcmSVdpuZSjoQ0gpdBf4FE4lfTNUY4JQdVCwU2AVsQECzy8+iZK6XDfJ4Ub0SYyAgz8E/NYLNqpTpHq5OBaSu679jatEsRIGJw4nJGeEj4Wh1YOX/wqaKkcRh35qSW3BNoUBP0j2gV3/yAT+XP52CLGIEFkP3nWc/WWmtsASyTjAvVkmO6Xm68rNxLG20smT+fTf2cIZClXmv7OHjif+wa+p7ENgdOZc/eT1YCUa7n/UIM4s7emYpcFAhwWNADHGiWLfmN4/gXhD5EBK8r+907Dqv+cIWcrS54U3RucZu3Svesnoc34YWZnZLtFEk0Se89fDlgR7u2he52kELzK5KUvXv8tOpzRnFQyLl9mQ==;xUfWBUQG/RHK8RytV/HAsQ=="
+secured: "79MW8D4HpfavT/2bWcbTt8YJtkXALkJ1c7WDZ6FVcJjsX5NX8mxdT1rrKGCx+7rbVcxN4VwQ2f5TMxClhw1SsAMV6aphx1Oxv2kabm3f+P2aFEHWbt2n6MKy3qJLIPE0NmnoYC7sr+Cw/Lm36FJhoAm6KDHYcqUVKOLEUsWU/iI5UbnIlov2eWkfog/kdnXUMuOD1TVPi7LZX1dC3CX6JSTLYxBeP7CQOQNkXu4o23AL9dptXMiG9EkgYhjWcDtp+nc4xDCWZky4ug2WUorMV+sWsbFcjGWa7xIg46rtg3S/6B+nufqMabwXv+mawPVBH9Uy0h/s6SvnEFyf6PsAag==;LR1pvYSCUqwnS2eOwoH69w=="
 ---
 

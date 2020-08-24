@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enable
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enablement-for-enterprises-startup-raises-100-million-series-d/amp/"
 type: article
 quality: 77
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Microsoft leads $16M round into AI data science startup Pachyderm"
-    excerpt: "Pachyderm provides an open-source data science platform that runs on Kubernetes. The platform focuses on a narrow but important use case: making it easier for software engineers to manage the data that they use in AI development projects."
-    publishedDateTime: 2020-08-19T20:51:00Z
-    webUrl: "https://siliconangle.com/2020/08/19/microsoft-leads-16m-round-ai-data-science-startup-pachyderm/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/img2.png"
-        width: 800
-        height: 425
-        isCached: true
 
 secured: "KmSfhlji0uirTxMsXCMWkCo7N2gZzJO6AfyL9Td1SfQcLWCxoNFM2jpgORGxSSUAKxZPFBWccbChCWW9XYvzPdEl+n82t82r0/ZXQSHSIKF4b2TzXn9opC4iB+CjA1RYL3s3dZ9T5/Blnakg/zdbDRdZY+AKmEqVjUjOUaMiTZyIIauVDbajG8r6zknPPUcwWKGZwtCk+KafEUWiUwY6hF7wipr9c9N8TJCzL2P6oUuiceVjqBx3EuA1fwM1KacmEKzdXa6JeYpABDOoTzm71hKXfpxhx5lqMFEXdKWZscUKhmw4Ztg5MB/IMQovPJxucHvW832HlyyPY68ICtDrRAM6iwcdsKrXEXlp4p0xuXmyXQMSYZaWHv5yOHCz02OaJV3Xc12bnIdw9WHfs2m+0OwHPUep6sWupznXp6ZO/qktZ2Kz3QY2p6OCK9KBMPF2734e1q+rQeUODY4SLny+v91vapPO9d/27r7P0zpX62lEfNXvxntvK/XtyNd/ZOd9up09PthuU0VCk1h35BQvGQ==;CMIAhqkaTaMqvqd/8sPelg=="
 ---

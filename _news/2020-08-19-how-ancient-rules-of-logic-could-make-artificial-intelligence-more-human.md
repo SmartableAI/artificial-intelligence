@@ -3,7 +3,7 @@ category: news
 title: "How Ancient Rules of Logic Could Make Artificial Intelligence More Human"
 excerpt: "Many attempts to develop artificial intelligence are powered by powerful systems of mathematical logic. They tend to produce results that make logical sense to a computer program — but the result is not very human."
 publishedDateTime: 2020-08-19T09:00:00Z
-webUrl: "https://www.gizmodo.com.au/?p=1256892"
+webUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/"
 ampWebUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 type: article
@@ -17,11 +17,11 @@ topics:
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/348495/original/file-20200720-23-mxxnlu.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-    width: 754
-    height: 922
+  - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/19/aristotle.png"
+    width: 1051
+    height: 597
     isCached: true
 
-secured: "YoIuvXj4NpFVPlV6UZYhDSJ+0mAi5LyJ8XrUFslveM9EZWjv03KRXZJGpynraQ9lBe9TAkwUs5jlP6ollopjPSUyNQ6kYKVdrd7bnGEwWxw2Hkceb1TB4h3PvDDCKMU/cRAs1tm7PdPM9HHRKWg8h/dHfSFZ1aS0MHhIjXoqrzWYD/YlVjGKvwpzRom2LvPNaabBpdQsFq+GFjA9ScJ78Sl3OSVtvufRotHRUOaItrnQlzDVe8/Tj+r/ExDOCUrFBZRs8uIOwOzkspvXkLVT9sjw9yfWDmt2pEhCrJlooC+FOXCucR15viBWoUMR7JcZvzJ7vPkgE4CluW0F95FjIw==;Fptsu7eHjeoPDYPIc4Qpqw=="
+secured: "/gFYRhbeyucmwWigPAh60pfzJMruVCad4wHDhE8V2ZB2BvMRBRTMih4MqcXDJ4zdO+/YeQt+BtJ69D5uLMHX5EFDhfIbGuuuohiBt4pby/Q3rDUsWlwgsrigWCw/3VsxoIn62XmcSuWqaks1egxMtyoxDFQhKAfbdS5GhpmQVi/WujsVs0ItHQsukcspoNHiNyKDU0YpcLsRlcMFFxlFye73bO9UaLBBURy8sj0NS5cY15z8gbq1tzPtyBAA4hznnaHoklQdntp+KbpE3iwA9Fqb1UNQy2l5+eWLoNaBSZ3Cz6W0hkUs3lJgPsA3+Yx2Wn0z4Y/9HiR/sPbqs323Vw==;rWnsREMJguZLL2jGABc5RA=="
 ---
 

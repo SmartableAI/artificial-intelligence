@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-21T11:03:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-rising-trend-business-opportunities-and-scope-2020-2025-2020-08-21"
 type: article
 quality: 51
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fintech Market To Witness the Highest Growth in Coming Years 2020-2025"
-    excerpt: "The AI in Fintech Market recently Published GlobalAI in Fintech Market”. The report provides information and the advancing business series information in the sector to the exchange. The report provides a notion connected to the progress of this market movement of significant players of this industry."
-    publishedDateTime: 2020-08-21T12:10:00Z
-    webUrl: "https://www.openpr.com/news/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
-    ampWebUrl: "https://www.openpr.com/amp/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 36
   - title: "Global Artificial Intelligence Software Market Size by Production, Top Countries Import-Export and Consumption Forecast & Regional Analysis by 2024"
     excerpt: "Artificial Intelligence Software Market\" 2020-2024 Report Provides Market Share, CAGR, Production, Consumption,"
     publishedDateTime: 2020-08-20T15:05:00Z

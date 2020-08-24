@@ -2,6 +2,327 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-08-15-these-4-drugmakers-are-using-ai-to-improve-their-products-does-it-make-them-better-buys.md",
+      "title": "These 4 Drugmakers Are Using AI to Improve Their Products. Does It Make Them Better Buys?",
+      "excerpt": "AstraZenca, GlaxoSmithKline, Novartis and Eli Lilly are using artificial intelligence systems to help in drug development, decision-making, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F587771%2Fartificial-intelligence-getty-628.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/",
+      "publishedDateTime": "2020-08-15T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-black-lives-matter-activist-hunted-by-nypd-facial-recognition-technology.md",
+      "title": "Black Lives Matter Activist Hunted by NYPD Facial Recognition Technology",
+      "excerpt": "\"We're being specifically targeted with this technology because of what we're protesting,\" Derrick Ingram said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1622897/derrick-ingram.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1",
+      "publishedDateTime": "2020-08-15T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-the-morning-after-ai-generated-video-plays-out-fake-wimbledon-matchups.md",
+      "title": "The Morning After: AI-generated video plays out fake Wimbledon matchups",
+      "excerpt": "This morning we're looking back at some of the week's biggest stories, while the Engadget Podcast discusses the Surface Duo and Galaxy Watch 3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/vid2play-morning-after-130536768.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fe0e5ece2-def5-11ea-b4fe-1992d9bc5345&client=amp-blogside-v2&signature=740a5926f6d87aa58f4b1b747c8b7ced9558ca28",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/vid2play-morning-after-130536768.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/vid2play-morning-after-130536768.html",
+      "publishedDateTime": "2020-08-15T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-elon-musk-says-tesla-developing-neural-network-training-computer-for-full-self-driving.md",
+      "title": "Elon Musk Says Tesla Developing Neural Network Training Computer for Full Self-Driving",
+      "excerpt": "With a complete overhaul of the Tesla autopilot software, full self-driving capabilities will be possible as the AI will be able to interpret traffic signals, turns and stops.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/40282/elon-musk.jpg",
+          "width": 923,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
+      "publishedDateTime": "2020-08-15T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellen",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-controversial-face-recognition-firm-clearview-ai-is-teaming-up-with-ice.md",
+      "title": "Controversial Face Recognition Firm Clearview AI Is Teaming Up With ICE",
+      "excerpt": "In a pairing that has all the makings of a privacy and/or human rights nightmare waiting to happen, the dystopian facial recognition software maker Clearview AI secured an ongoing contract with U.S. Immigration and Customs Enforcement this week.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lvngekwv9r2xiehaguxj.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp",
+      "publishedDateTime": "2020-08-15T01:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-with-self-driving-tech-was-new-a-road-trip-paved-the-way.md",
+      "title": "With self-driving tech was new, a road trip paved the way",
+      "excerpt": "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.idahostatesman.com/entertainment/article244877067.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.idahostatesman.com/entertainment/article244877067.html",
+      "cdnAmpWebUrl": "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/entertainment/article244877067.html",
+      "publishedDateTime": "2020-08-14T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Idaho Statesman",
+        "domain": "idahostatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-how-the-us-department-of-health-human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek.md",
+      "title": "How The US Department Of Health & Human Services (HHS) Is Innovating With AI: An Interview With Oki Mek",
+      "excerpt": "Oki Mek, Senior Advisor to HHS CIO shares how HHS is adopting and implementing AI, how adoption of new technologies in the public sectors differs from the private sector, and challenges to AI adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2deca07b28103b194d017c%2F0x0.jpg",
+          "width": 450,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/amp/",
+      "publishedDateTime": "2020-08-14T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-15-ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast.md",
       "title": "AI In Computer Vision Market Analysis 2020-2023, Growth Rate Evolving Technology, Size, Share, Data Analysis, SWOT Analysis Forecast",
       "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
@@ -830,324 +1151,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-predictive-oncology-announces-dojolive-interview-with-helomics-cio-mark-collins-can-we-cure-cancer-with-artificial-intelligence.md",
-      "title": "Predictive Oncology Announces DojoLIVE! Interview with Helomics CIO Mark Collins, ‘Can We Cure Cancer with Artificial Intelligence?’",
-      "excerpt": "The broadcast, titled ‘Can We Cure Cancer With Artificial Intelligence?’, is available for on-demand viewing on the DojoLIVE! website. As noted during the interview, Collins p",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/1f1f18b10965da73be73fd2d6ffb1286",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-urban-autonomy-the-next-stage-of-self-driving.md",
-      "title": "Urban Autonomy: The Next Stage Of Self-Driving",
-      "excerpt": "Driving on city streets versus the highway presents an exponentially more complicated situation stemming from the visual perception problem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/14/urban-autonomy-the-next-stage-of-self-driving/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb6bb684bc020007705132%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/14/urban-autonomy-the-next-stage-of-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/14/urban-autonomy-the-next-stage-of-self-driving/amp/",
-      "publishedDateTime": "2020-08-14T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-taking-a-stand-in-uncertain-times-with-ai.md",
-      "title": "Taking A Stand In Uncertain Times With AI",
-      "excerpt": "This moment in time has uncovered just how crucial AI solutions can be for the future of healthcare. Rapid changes have made it difficult to manage the pandemic’s spread and determine what the industry will look like after coming through the other side.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/14/taking-a-stand-in-uncertain-times-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg",
-          "width": 1200,
-          "height": 943,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/14/taking-a-stand-in-uncertain-times-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/14/taking-a-stand-in-uncertain-times-with-ai/amp/",
-      "publishedDateTime": "2020-08-14T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-son-of-minnesotas-attorney-general-i-hereby-declare-officially-my-support-for-antifa.md",
-      "title": "Son of Minnesota’s attorney general: 'I hereby declare, officially, my support for ANTIFA'",
-      "excerpt": "Jeremiah Ellison, who is a member of the Minneapolis ... tweeting in 2018 about a book promoting it. In a post on Twitter, Ellison said that he found the book \"Antifa: The Anti-Fascist Handbook ...",
-      "sourceUrl": null,
-      "webUrl": "https://mobile.twitter.com/yoda69?lang=en",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-latent-ai-wins-2020-startup-of-the-year-award-from-iot-world.md",
-      "title": "Latent AI Wins 2020 Startup of the Year Award from IoT World",
-      "excerpt": "Latent AI, creators of the Latent AI Efficient Inference Platform (LEIP) and the latest spinout from SRI International, has been recognized as the 2020 \"Startup of the Year\" from IoT World during their virtual awards ceremony on August 12,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/latent-ai-wins-2020-startup-of-the-year-award-from-iot-world-1029504377",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/latent-ai-wins-2020-startup-of-the-year-award-from-iot-world-1029504377",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/latent-ai-wins-2020-startup-of-the-year-award-from-iot-world-1029504377",
-      "publishedDateTime": "2020-08-14T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence.md",
-      "title": "EqualAI Challenges Companies and Leaders to Pledge to Reduce Bias in Artificial Intelligence",
-      "excerpt": "There are immediate actions that organizations can take to identify and reduce bias within their existing systems. EqualAI has been seeking out ways that companies can go beyond m",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence-2020-08-13",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-8-ways-how-artificial-intelligence-can-develop-and-grow-your-business.md",
-      "title": "#8 Ways How Artificial Intelligence Can Develop and Grow Your Business",
-      "excerpt": "The novel pandemic has further increased the demand for technology. Artificial Intelligence (AI), also referred to as machine intelligence, has been drastically disrupting the world of technology. It is developing at a fast pace and will soon become an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/354749",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1597389393-cyber.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/354749",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354749",
-      "publishedDateTime": "2020-08-14T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

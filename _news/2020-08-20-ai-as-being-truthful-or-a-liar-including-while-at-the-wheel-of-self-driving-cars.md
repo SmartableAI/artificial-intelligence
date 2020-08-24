@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truth
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/lidar-huawei-car-autopilot-self-driving-sensor-tech-development-796x447.jpg"
         width: 796
         height: 447
-        isCached: true
-  - title: "Self-driving trucks: what does the future look like?"
-    excerpt: "What progress has the trucking industry made in self-driving trucks, and what impact might it have in the next decade and beyond?"
-    publishedDateTime: 2020-08-19T19:51:00Z
-    webUrl: "https://munley.com/self-driving-trucks/"
-    ampWebUrl: "https://munley.com/self-driving-trucks/amp/"
-    cdnAmpWebUrl: "https://munley-com.cdn.ampproject.org/c/s/munley.com/self-driving-trucks/amp/"
-    type: article
-    provider:
-      name: Munley Law
-      domain: munley.com
-    quality: 44
-    images:
-      - url: "https://munley.com/wp-content/uploads/TuSimple_AFN_graphic-300x204.jpg"
-        width: 300
-        height: 204
         isCached: true
 
 secured: "IRqBBPMgkEXHS00CjCsof3yKyEweIfBISVjAm8t1ll7PhtJ02lQs+LA45d5FwskuYWl7DZKWHks9o3SJDaPOpgvQzAWAjNQMaJQsF6ps1LDSKBKp+bBvCrVEK2Hh9enW6m2Fn5Uy5qwPQ5dWqlEmrgJy0UpQksh9CVqxUp422h17NgwL06GtTjqVOX+owq+p2g2a8tcNAaeWFZc6QWS5q4TQHH9N38fllFcnqhKxMN1OBJyyUdWlkUwxFtNlT99ueXe3fvywd3aNLvfsgnGCejrw7xjLbU128IXV3GX1UaQKfSChFdIX2OJ+eKDMjxLsLIXOutaY5ttJGXvl8+s4+RopzmyojLn3LSCjN6jEitqlVnTBHUdk9LcqFvbInDWtRo619GX0Z3NPJYQCvMmqIRyBp91dmfYMELgierlcKIy1IcO/6FG2saLZDWi4HLsrOYeVT7UxmDkYnY7/t8QSPqnYKY+LvFqZaZoELCDNl29kW4lhk5izILGaDVtbE7lLhrkdi5rmYka6hYp9BN3oYw==;Vsi5qNIn+N+mE/ncMZA+8w=="

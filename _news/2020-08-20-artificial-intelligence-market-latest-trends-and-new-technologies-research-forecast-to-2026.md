@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-08-24T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2020-08-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "itBefm6ta2Z4bK3raeAVjmVhwe9yBRMMxywviK7NzRftZWAsygBezqaCdLgdNnDp9piYxgHVd7e/JBQUU6KRF5JuII8mR3V2GmbtR4h9QsDKszDEvLsvqahCKaPKv5+NE1f/gKxM1IxDeNA/PYtFI9Z1JZNMQvAzigQbbAvXsZ57PNLDMDLI2FNTR2V2J6qvfg9yLgsyGzaEe/jHyAFvDvAn80RJhX5pGpMy4YKm7Nh/HuoWRGkebEtvuxJWTmIX2bLi00YCNfn2p8og6EAaAM3j1JiXz+wqyL/HV49LJ70Xj7als15mrpSBhmNzExIJHrwYH/5fp4zmfPq9pQxsNg==;Ov+W3xgWDekFWlsHKcVPAw=="
 ---
