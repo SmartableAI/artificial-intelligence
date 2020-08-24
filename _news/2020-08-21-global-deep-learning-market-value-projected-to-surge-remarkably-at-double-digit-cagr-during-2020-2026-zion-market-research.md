@@ -27,19 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "AI in Fintech Market To Witness the Highest Growth in Coming Years 2020-2025"
-    excerpt: "The AI in Fintech Market recently Published GlobalAI in Fintech Market”. The report provides information and the advancing business series information in the sector to the exchange. The report provides a notion connected to the progress of this market movement of significant players of this industry."
-    publishedDateTime: 2020-08-21T12:10:00Z
-    webUrl: "https://www.openpr.com/news/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
-    ampWebUrl: "https://www.openpr.com/amp/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 36
-
 secured: "zQ2r7JIlJaODIRdymIYicaryp0JDI0y8PQZo1fLgVBbQlWBpNuRcfMWh4lgjS7N8TcHfiXW4u+ecyy/KyqFdn0xW8hx8rmuu8n4rX7Zt8pVfwXbB2zNENA7byneQo411wP53+jE2mw0R+rJ9YT61IjIVuwpzAEp34N6dqyBWk0Sd+Gz4LnOpyXdCP/ohxNIn35A4cwzvm3f4kwHWLcypAWamIoJn1UmgTBzepPV8zhrJbuUBy4YmTRu+BbACIE8OjWytPqVB2TS/cs7kYdmEyW2v1yehUveMz2GLJL4U7fsqjbBSrzbO3kxCf31qwh0t0c0JMYg8wk/AQpBzO40T8w==;Wo0dRF4AgMUADm7ZsI//IA=="
 ---
 

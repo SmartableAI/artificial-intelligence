@@ -2,6 +2,187 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-07-06-car-key-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid-19.md",
+      "title": "Car Key Chips Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact COVID -19",
+      "excerpt": "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/car-key-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid--19-2020-06-15",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Car Key Chips Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact COVID -19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-11-startups-in-india-using-ai-and-robotics-to-fight-covid-19.md",
+      "title": "11 Startups In India Using AI And Robotics To Fight Covid-19",
+      "excerpt": "Startups are leveraging tools and solutions to help fight the pandemic, as the number of cases in the country cross 5 lakh mark.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/11-startups-in-india-using-ai-and-robotics-to-fight-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/07/coronavirus_AI_startups.jpg",
+          "width": 1200,
+          "height": 870,
+          "title": "11 Startups In India Using AI And Robotics To Fight Covid-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-new-ai-project-captures-jane-austens-thoughts-on-social-media.md",
+      "title": "New AI project captures Jane Austen’s thoughts on social media",
+      "excerpt": "A new AI project from magician and novelist Andrew Mayne creates simulated conversations with historical figures including Isaac Newton and Edgar Allen Poe.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-95-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "New AI project captures Jane Austen’s thoughts on social media",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/amp/",
+      "publishedDateTime": "2020-07-06T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-ai-and-robotics-to-redefine-businesses-accenture.md",
+      "title": "AI and robotics to redefine businesses - Accenture",
+      "excerpt": "The 20th edition of Accenture's annual report predicts that artificial intelligence and robotics will be among the key technology trends that will redefine businesses over the next three years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rte.ie/news/business/2020/0706/1151662-ai-and-robotics-to-redefine-businesses-accenture/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.rasset.ie/000d9006-642.jpg",
+          "width": 642,
+          "height": 361,
+          "title": "AI and robotics to redefine businesses - Accenture",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.rte.ie/amp/1151662/ ",
+      "cdnAmpWebUrl": "https://www-rte-ie.cdn.ampproject.org/c/s/www.rte.ie/amp/1151662/ ",
+      "publishedDateTime": "2020-07-06T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RTE Online",
+        "domain": "www.rte.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts.md",
       "title": "Myriad Partners OptraHEALTH For AI-Based Information Tool Gene - Quick Facts",
       "excerpt": "Molecular diagnostics company Myriad Genetics, Inc. (MYGN) announced Monday a new collaboration with AI platform OptraHEALTH to implement a cognitive ChatBOT named Gene to provide pre-test genetic and financial assistance information to prospective patients.",
@@ -954,196 +1135,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-how-ai-can-empower-communities-and-strengthen-democracy.md",
-      "title": "How AI can empower communities and strengthen democracy",
-      "excerpt": "A look at AI projects and prototypes built with justice in mind to strengthen communities, improve democracies, and defend free societies and people.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/04/how-ai-can-empower-communities-and-strengthen-democracy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/9-6-14_0217.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "How AI can empower communities and strengthen democracy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/04/how-ai-can-empower-communities-and-strengthen-democracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/04/how-ai-can-empower-communities-and-strengthen-democracy/amp/",
-      "publishedDateTime": "2020-07-04T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-the-main-beneficiaries-of-artificial-intelligence-success-are-it-departments-themselves.md",
-      "title": "The main beneficiaries of artificial intelligence success are IT departments themselves",
-      "excerpt": "Artificial intelligence, seen as the cure-all for a plethora of enterprise shortfalls, from chatbots to better understanding customers to automating the flow of supply chains. However, it is delivering the most impressive results to information technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-main-beneficiaries-of-artificial-intelligence-success-are-it-departments-themselves/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/13/c1bbec68-98b3-482c-9627-8f5fe1b342e9/thumbnail/1200x675/a5fc858d6d3af5d91e435234616baa12/building-path-station-world-trade-center-ny-cropped-photo-by-joe-mckendrick.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "The main beneficiaries of artificial intelligence success are IT departments themselves",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-main-beneficiaries-of-artificial-intelligence-success-are-it-departments-themselves/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-main-beneficiaries-of-artificial-intelligence-success-are-it-departments-themselves/",
-      "publishedDateTime": "2020-07-04T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter.md",
-      "title": "An AI founder’s struggle to be seen in the age of Black Lives Matter",
-      "excerpt": "With Google opening accelerators for Black and female founders, and with tech execs speaking about equalizing opportunities, I thought I'd at least be able to get a meeting.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/04/an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/AI_smarts.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 737,
-          "title": "An AI founder’s struggle to be seen in the age of Black Lives Matter",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/04/an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/04/an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter/amp/",
-      "publishedDateTime": "2020-07-04T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-larry-magid-facial-recognition-loses-support-as-bias-claims-rise.md",
-      "title": "Larry Magid: Facial recognition loses support as bias claims rise",
-      "excerpt": "In a 2019 blog post about bias errors in Amazon’s Rekognition software, Buolamwini said, “among the most concerning uses of facial analysis technology involve the bolstering of mass surveillance, the weaponization of AI, and harmful discrimination in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2020/07/SJM-L-RECOGNITION-0807-01-1.jpg?w=1024&h=768",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/",
-      "publishedDateTime": "2020-07-04T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -415,18 +415,18 @@
     {
       "path": "_news/2020-08-10-stanford-center-for-health-education-launches-online-program-in-artificial-intelligence-in-healthcare-to-improve-patient-outcomes.md",
       "title": "Stanford Center for Health Education Launches Online Program in Artificial Intelligence in Healthcare to Improve Patient Outcomes",
-      "excerpt": "The Stanford Center for Health Education launched an online program in AI and Healthcare this week. The program aims to advance the delivery",
+      "excerpt": "The Stanford Center for Health Education launched an online program in AI and Healthcare this week. The program aims to advance the delivery of patient care and improve global health outcomes through artificial intelligence and machine learning.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/stanford-center-for-health-education-launches-online-program-in-artificial-intelligence-in-healthcare-to-improve-patient-outcomes-301108618.html",
+      "webUrl": "https://apnews.com/PR Newswire/56e335acee9728a4dbb3c2cf163211ca",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -438,8 +438,8 @@
       "publishedDateTime": "2020-08-10T07:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -449,9 +449,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI"
       ]
     },
     {

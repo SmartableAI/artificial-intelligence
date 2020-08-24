@@ -242,6 +242,55 @@
       ]
     },
     {
+      "path": "_news/2020-08-22-an-ai-breaks-the-writing-barrier.md",
+      "title": "An AI Breaks the Writing Barrier",
+      "excerpt": "A new system called GPT-3 is shocking experts with its ability to use and understand language as well as human beings do",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/an-ai-breaks-the-writing-barrier-11598068862",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-223389/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/an-ai-breaks-the-writing-barrier-11598068862",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/an-ai-breaks-the-writing-barrier-11598068862",
+      "publishedDateTime": "2020-08-21T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-22-environmental-sustainability-and-ai.md",
       "title": "Environmental Sustainability And AI",
       "excerpt": "AI can contribute to your company's carbon footprint or if managed well, help reduce the impact your company has on the environment.",
@@ -540,7 +589,7 @@
       "webUrl": "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1359,70 +1408,20 @@
       ]
     },
     {
-      "path": "_news/2020-08-21-ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-can-fight-this-one.md",
-      "title": "AI may not predict the next pandemic, but big data and machine learning can fight this one",
-      "excerpt": "Tech leaders increase project development and implementation (TechRepublic Premium) Admittedly, August is not as bad as March for Spain, but it's still not a situation many foresaw. Arenas' predictions were based on mathematical modeling and underline the important role technology can play in the timing of decisions about the virus and understanding its spread.",
+      "path": "_news/2020-08-21-artificial-intelligence-in-construction-market-rising-trend-business-opportunities-and-scope-2020-2025.md",
+      "title": "Artificial Intelligence In Construction Market Rising Trend, Business Opportunities and Scope 2020-2025",
+      "excerpt": "The Global Artificial Intelligence In Construction Market Research Report 2020-2025 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-are-key-to-fighting-this-one/",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-rising-trend-business-opportunities-and-scope-2020-2025-2020-08-21",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 94,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/20/a9b425f0-51b4-478a-b77a-3b4d399855d9/observatoryaipandemica.jpg",
-          "width": 3424,
-          "height": 2568,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-are-key-to-fighting-this-one/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-are-key-to-fighting-this-one/",
-      "publishedDateTime": "2020-08-21T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-banks-see-pressure-in-ai-race-from-fintechs-and-big-tech.md",
-      "title": "Banks See Pressure in AI Race From Fintechs and Big Tech",
-      "excerpt": "Fintech and big technology companies could outpace traditional banks in the race to develop AI tools that help personalize services, evaluate credit risk and more, analysts and industry executives say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/banks-see-pressure-in-ai-race-from-fintechs-and-big-tech-11598002201",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-223391/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1431,14 +1430,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-21T02:52:00-07:00",
+      "publishedDateTime": "2020-08-21T04:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1454,7 +1453,6 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

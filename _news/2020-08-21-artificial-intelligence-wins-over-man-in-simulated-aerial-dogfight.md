@@ -41,6 +41,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AI algorithm defeats human fighter pilot in simulated dogfight"
+    excerpt: "An artificial intelligence algorithm has defeated a human F-16 fighter pilot in a virtual dogfight simulation. The Aug. 20 event was the finale of the Pentagon research agency’s AI air combat competition."
+    publishedDateTime: 2020-08-21T15:03:00Z
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2020/08/21/ai-algorithm-defeats-human-fighter-pilot-in-simulated-dogfight/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 37
+    images:
+      - url: "https://www.armytimes.com/resizer/ZvdR-wlUEHiJbbAvHtxsLD43BLo=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/FPU6ZMAGCZDPBHQFAA72K4QDTE.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "OjnnalPVupUKVDX7At1XA9YphBuTetHzL4oOqA8sPbos2kj2EnbmtRZcWEk8q/GgeS/+QfIGHZZJGX43wZ8JEVzhTvewZBDFI/KC1gMhd8icQEyPW7CIcnI45bDEI6gp54maNV+1JV/K/yApZ34B1VlRhSlin1C+MDMuhp9BYM+4H5ejGEj5bB7/RPepbPIoksOhUGTXAR9R8p1ljmfKWfNQMaOxql5P8vO9KOj7NfP7MrS+qFS0AjH5L1P+kuegmWqlkmDLBVClz9ZBID4NDisD1VB+AHF00T2fq00+JIRoXy6TGv92VyNlphgVAoWYAvnt6g30P7yquUEzia1/H6wph2Iv8mxoBK1z0nQ8QUqFjK7umGRmpMXr9wwCpMhBe9oJMv2WcHN/c9FfdnlFqlrAdkm34yTy7w1MHxqYYyREbd1+R8LYo2WJgBnXxAehEjskxeIZbYjNVFPdXcm7gAsNGsj2Xfvg8J5do6ONkTyQPFJGKWv5exVqnjvJBNhgFwmMu3/IUyTnByVBnXWHzA==;Y1I+uMgHug8hlO677rrrOQ=="
 ---

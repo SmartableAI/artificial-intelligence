@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-doe-ai-disaster-response-firs
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-doe-ai-disaster-response-first-five-142941175.html"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/08/21/4c060173-9c5b-4d77-9d4a-322fb517817f/resize/1200x/110ef44205a5f1ec7a52ecd6031c1043/istock-158554627.jpg"
         width: 1200
         height: 603
+        isCached: true
+  - title: "Partnership Between the Feds and Microsoft to Develop AI Response Tools"
+    excerpt: "The First Five Consortium is a partnership with the DOE and Microsoft to improve disaster response, including wildfire prediction, search and rescue, flood control, damage assessments and natural disaster response."
+    publishedDateTime: 2020-08-21T23:00:00Z
+    webUrl: "https://www.govtech.com/em/safety/Partnership-Between-the-Feds-and-Microsoft-to-Develop-AI-Response-Tools.html"
+    ampWebUrl: "https://www.govtech.com/em/safety/Partnership-Between-the-Feds-and-Microsoft-to-Develop-AI-Response-Tools.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/safety/Partnership-Between-the-Feds-and-Microsoft-to-Develop-AI-Response-Tools.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://media2.govtech.com/images/Ceder+fire3.JPG"
+        width: 940
+        height: 630
         isCached: true
 
 secured: "ryX7jl3bTA28FDQwnRzl8wAYzwD9R3UiC4bZBcNH3b4my+5GAUtxxIevdp9i13j3jRPO8n1oRRcch4I6vfNlzIN8Bvvp0b6l0cp7DyHB+kq3ISsTl6uXguPHucLN6Tl34uIXM1caPVFMpjaEbeJpZS3+DZhh7PJJepznCcT61LTCPsENlqpgtFgvhuBLBHFMrkRUvnbfjU++Xo4fatBdBvU6VRj6p5hMzy0W+ESNKucuKsYAC+TFnLG/BvuntxoC044h9nrpeTJ8//PQiYtMqj5p/KEVr7CEHVC1W3I/J4XEFEYtV07xZSFHHDg574gIZT0NcgfGMmRG5xlDGvgAWjeRvwZqowuCrZrC1SjDjA7TlXJwnVbOM+yQ6JWJWmkdZQMNzYui0fi2Z2EFxoMrW2aMLrLMFId8C3d3pjrDoJO92preG2FyaisPGMz1imLCN8+Rf54bZZXEFEqTXhpM/FyATawrYaPPmG8V51pOqb+4IFxNsQhw9uT1EnSpAHxO;+SVAJNQBB9ZwtJFmrwgT8Q=="

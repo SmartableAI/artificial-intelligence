@@ -2,6 +2,188 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-08-13-singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai.md",
+      "title": "Singapore parks $182M for fintech innovation, with special focus on AI",
+      "excerpt": "Country rolls out new three-year plan with SG$250 million ($182.1 million) investment to drive technology innovation in the financial services industry, which saw 40 innovation labs and 1,000 fintech companies set up in the last five years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/08/17/c5ab41c7-8770-4ed8-9a9e-4f45199b5b47/thumbnail/770x578/7cfa89cd3d25ba1a86dd0df2fad4e6eb/singapore-parks-182m-for-fintech-innovat-5f39c33d836f80569200202d-1-aug-17-2020-2-36-43-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-13T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-microsoft-trains-ai-agents-for-more-realistic-gaming.md",
+      "title": "Microsoft trains AI agents for more realistic gaming",
+      "excerpt": "Microsoft's Project Padia is all about teaching AI agents to enhance your gaming experience. This time, they ar teaching NPC to cooperate with humans.",
+      "sourceUrl": null,
+      "webUrl": "https://windowsreport.com/microsoft-artificial-intelligence-gaming/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/08/Microsoft-trains-AI-agents-for-more-realistic-gaming.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://windowsreport.com/microsoft-artificial-intelligence-gaming/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-artificial-intelligence-gaming/?amp",
+      "publishedDateTime": "2020-08-13T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-artificial-intelligence-ai-market-in-bfsi-sector-market-to-watch-spotlight-on-ibm-aws-microsoft-intel.md",
+      "title": "Artificial Intelligence (AI) Market in BFSI Sector Market to Watch: Spotlight on IBM, AWS, Microsoft, Intel",
+      "excerpt": "An extensive elaboration of the COVID-19 Outbreak-Global Artificial Intelligence (AI) market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-in-bfsi-sector-market-to-watch-spotlight-on-ibm-aws-microsoft-intel-2020-08-13",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-13T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-sas-automl-.md",
+      "title": "코오롱베니트, ‘SAS AutoML(자동화 머신러닝) 활용 전략’ 웨비나 개최",
+      "excerpt": "코오롱베니트(대표 이진용)가 오는 8월 27일 ‘AI기반 의사결정 지원을 위한 SAS AutoML 활용 전략’ 웨비나를 개최한다고 13일 밝혔다. AutoML(자동화 머신러닝)은 최적의 분석 알고리즘 선택-모델링-평가-보완 작업을 반복적으로 자동 수행하는 기술이다. 분석 전문가가 아닌 기획, 마케팅, 영업, 품질 등 기업 담당자들도 데이터만 있으면 손쉽게",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysecu.com/news/articleView.html?idxno=112422",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailysecu.com/news/photo/202008/112605_132406_3440.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dailysecu.com",
+        "domain": "dailysecu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025.md",
       "title": "Machine Learning as a Service (MLaaS) Market Size to Witness Huge Growth by 2025",
       "excerpt": "Growth forecast report \" Machine Learning as a Service (MLaaS) Market size by Product Type (Special Service and Management Services), By Application (Banking, Financial Services, Insurance, Automobile,",
@@ -993,179 +1175,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-artificial-intelligence-ethics-a-primary-concern-for-ibm.md",
-      "title": "Artificial intelligence ethics a 'primary concern' for IBM",
-      "excerpt": "Technology Editor at the Australian David Swan says it is “incredibly important” to address the ethics in artificial intelligence in order to protect the use of Australian data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.adelaidenow.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adelaide Now",
-        "domain": "adelaidenow.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-from-ai-to-medical-research-why-innovation-must-not-be-left-to-innovators-alone.md",
-      "title": "From AI to medical research, why innovation must not be left to innovators alone",
-      "excerpt": "The innovation agenda has been captured by narrow groups of investors and firms whose values and interests don’t necessarily reflect society’s needs. The public sector provides the infrastructure that",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3097020/ai-medical-research-why-innovation-must-not-be-left-innovators",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/08/12/2f8aac06-dc52-11ea-b1d3-42d340dc91a3_image_hires_130620.jpg?itok=FQOjNzac&v=1597208788",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3097020/ai-medical-research-why-innovation-must-not-be-left-innovators",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3097020/ai-medical-research-why-innovation-must-not-be-left-innovators",
-      "publishedDateTime": "2020-08-12T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-gong-raises-200-million-to-surface-sales-insights-with-ai.md",
-      "title": "Gong raises $200 million to surface sales insights with AI",
-      "excerpt": "Gong.io, a startup applying AI to sales call analysis, has raised $200 million in venture capital at a $2.2 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/12/gong-raises-200-million-to-surface-sales-insights-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/Gong.IO_-e1596830560832.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/12/gong-raises-200-million-to-surface-sales-insights-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/12/gong-raises-200-million-to-surface-sales-insights-with-ai/amp/",
-      "publishedDateTime": "2020-08-12T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-iit-roorkee-joins-coursera-to-launch-2-artificial-intelligence-machine-learning-programmes.md",
-      "title": "IIT Roorkee joins Coursera to launch 2 Artificial Intelligence, Machine Learning programmes",
-      "excerpt": "Education News: ​The six-month certificate programme in AI and ML will consist of video lectures, hands-on learning opportunities, team projects, tutorials and worksh",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes/articleshow/77506827.cms",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-77506899/77506899.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/home/education/news/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes/amp_articleshow/77506827.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes/amp_articleshow/77506827.cms",
-      "publishedDateTime": "2020-08-12T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

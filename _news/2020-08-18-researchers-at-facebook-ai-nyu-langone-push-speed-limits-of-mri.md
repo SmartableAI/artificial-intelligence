@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI"
-excerpt: "The results of the joint effort, which originated at Facebook, show that accurate MRIs can be produced more quickly as AI functions with less data, researchers said."
-publishedDateTime: 2020-08-18T18:00:00Z
-webUrl: "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
+excerpt: "Researchers at Facebook Inc. and NYU Langone Health said Tuesday that a two-year experiment demonstrates how artificial intelligence can produce a ... at NYU Langone Health and a co-author of the research. “Our goal is a five-minute MRI."
+publishedDateTime: 2020-08-18T13:06:00Z
+webUrl: "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 640
     isCached: true
 
-secured: "PXXlFmQWo8u7efAGL/Jte54PngqXVVHjaanDvh1rcxonpbkfujJ9KFU3HWXPGWO7SXHBuI9yPkQJw+tPtYBxFKT5JOvnq7pyiXaghGTJqf8kji6etYMZxR0qFwy60UuSiEZoJMiEgou1A/4ic454kvY32flbZ961qo7UK+9cyniUgnvHbLOCMtJsNljJ6gYGQLrQ3nCkL3iv87KV+Efy9Fi/g6KhPyz+J9Qg3kjY1YaMMhJEZdH0WadJGxUafPzs+tGTVVMrEPnS4MOnRTPtof/g1lrsNaJvgO9sr37Io+ojwp+sOhFjlBwTdhk4zg64HGSLUGEgEA0Nh5aFfZcX21HMSGJ0VwvvzRWrwbM9r+OhIok/ObCXVbsPQCJRsuIwSubeT7W76ldY9ZgNiBHeICY6WRclsJ+jAjsSvUpdF2CPTpRi3XinxcjGZc2EEYG5rkV2G5skqieRjVgT/pzY5s2dkistyoFITfORDsPx3K/pg+HTjjQIO/qF9kG9/VzodApgAitehffRRziwpsDe4g==;+CyWS95+kAWc6k+N9teQoA=="
+secured: "tQR3hQfsZ6xhiK7yGiHkmLqHZjkM+tJqdPrpGSAAx3Vink//KV9DYnHMsNAE8R30YFl3/+iL+JLBaINFgUR6Se+Vy2T2WOIcX/bZu12uGRM9UX8YhlTrLFeI1WQvaUX02Qzh3cfWwZHZ0VPmaRpre8Dph3O10qfgGzIFWiR1tujYnc9o6QT15VjC6ElQjOmSfVnRf9zSNY9DoCxCuVMYqXVCCozx7eERbQakCGrYTQT58jQcvTLhmnvAe2/8lmMzmGlXeVvzDO3+YeOIgQT/Bidn2SVTpmR6vGxAa42u4JQe26SNbCy53LAw+xYNBCezWI3LKXUjtTxZOc2qrAyHuw==;I6FFELNekG3sxfh4j2U6uQ=="
 ---
 

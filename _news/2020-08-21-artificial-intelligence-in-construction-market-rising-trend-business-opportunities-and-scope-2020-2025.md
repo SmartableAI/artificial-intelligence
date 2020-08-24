@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-21T11:03:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-rising-trend-business-opportunities-and-scope-2020-2025-2020-08-21"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: MarketWatch
@@ -27,73 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market 2020-2023: Growth, Emerging Trends, And Forecast"
-    excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
-    publishedDateTime: 2020-08-19T07:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19?mod=mw_quote_news&tesla=y"
+  - title: "AI in Fintech Market To Witness the Highest Growth in Coming Years 2020-2025"
+    excerpt: "The AI in Fintech Market recently Published GlobalAI in Fintech Market”. The report provides information and the advancing business series information in the sector to the exchange. The report provides a notion connected to the progress of this market movement of significant players of this industry."
+    publishedDateTime: 2020-08-21T12:10:00Z
+    webUrl: "https://www.openpr.com/news/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
+    ampWebUrl: "https://www.openpr.com/amp/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
+  - title: "Speech and Voice Recognition Market : Research By Production, Revenue, Growth Rate, Sales Value, Industry Trends, Impact Factors, SWOT Analysis 2027"
+    excerpt: "Aug 19, 2020 (AmericaNewsHour) -- Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to grow with a growth rate of more than 17.20 % over the forecast period 2020-2027. Demand for Voice enabled ..."
+    publishedDateTime: 2020-08-19T23:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-research-by-production-revenue-growth-rate-sales-value-industry-trends-impact-factors-swot-analysis-2027-2020-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 15
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market New Innovations Trends, Research, Global Share and Growth Factor till 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 19, 2020 (Global QYResearch via COMTEX) -- The global Deep Learning Market is estimated to grow at a healthy CAGR of over 51.1% from 2020 to 2027 and reach a valuation of ..."
-    publishedDateTime: 2020-08-19T13:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-new-innovations-trends-research-global-share-and-growth-factor-till-2027-2020-08-19?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence in Medicine Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
-    excerpt: "Summary A New Market Study, titled \"Artificial Intelligence in Medicine Market Upcoming Trends, Growth Drivers"
-    publishedDateTime: 2020-08-19T08:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medicine-market-2020-key-vendors-trends-analysis-segmentation-forecast-to-2025-2020-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Covid-19 Impact on Artificial Intelligence in Medical Diagnostics Market: Global Analysis, Industry Growth, Current Trends and Forecast till 2025"
-    excerpt: "A new market study, titled \"Artificial Intelligence in Medical Diagnostics Market Upcoming Trends, Growth Drivers and Challenges\" has been featured on WiseGuyReports. Overviwe:- With the development of deep learning and neural networks,"
-    publishedDateTime: 2020-08-19T08:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-in-medical-diagnostics-market-global-analysis-industry-growth-current-trends-and-forecast-till-2025-2020-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "World Autonomous Aircraft Market 2020-2030: Advancements in Artificial Intelligence is a Key Factor Driving Growth - ResearchAndMarkets.com"
-    excerpt: "The global autonomous aircraft market is expected to decline from $0.84 billion in 2019 to $0.79 billion in 2020 at a compound annual growth rate (CAGR) of -6.35%. The decline is mainly due to the COVID-19 outbreak that has led to restrictive containment measures involving social distancing,"
-    publishedDateTime: 2020-08-19T14:22:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/b17157045/world-autonomous-aircraft-market-2020-2030-advancements-in-artificial-intelligence-is-a-key-factor"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17157045"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17157045"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
 
 secured: "+RGLM3cn5o46J9ZTc6NoeZVo0EJb9kUHoeX9CsjCypPjkpPhdY+ovWhcXft8brd85HcDX/8Ta3KPiM1XIN34KL7a6mYK9XhRsuY3emk1UzCgRXChB5cTnTKTzuT82IyL7UfJJKWcREhKTpYQtuBcu/Rcn5wyJ8tMnllgSC0A9u3VPhDo+LSyf5Q9p5PmJCi518XevolMUOQtL+S2ClFr7KHGH2/JFMxfWZuXTvK8vyBJvJmxzuFeDYOT88FObNJ36eetwL40H7MLwKJQ53si9o5e2WdUsxX2PoKE5W4XdVZSsls5M2pzZ7x4omF7Ygfqd4JiEg7eCxOcBz/m6oD5Sw==;SnsUmV7R1MGWK7SsK2U0LQ=="
 ---

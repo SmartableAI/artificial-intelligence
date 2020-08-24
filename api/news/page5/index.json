@@ -2,6 +2,187 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-19-fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why.md",
+      "title": "Fintech just made a big leap forward in this tiny country: Here's why",
+      "excerpt": "But now its fintech industry, especially the digital-payments sector, is also beginning to make its mark. When Microblink, an R&D company based in Zagreb, Croatia, started out in 2013, it had to rely on its founders' finances,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/10/25/55775b91-e663-4566-b8d3-471de68b11e7/thumbnail/1200x675/53c53f5d09cf88bbcb76eb0d0ea7e347/fintech-startups-why-bulgaria-is-a-hotbe-5da7266bdc406100013edd0f-1-oct-25-2019-19-26-43-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
+      "publishedDateTime": "2020-08-19T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-machine-learning-in-retail-market.md",
+      "title": "Machine Learning in Retail Market",
+      "excerpt": "Machine Learning in Retail Market 2020 report is a compilation of first hand information qualitative and quantitative assessment by industry analysts inputs from industry experts and industry participants across the value chain The report provides in depth analysis of parent",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T819308741_g.jpg",
+          "width": 562,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
+      "publishedDateTime": "2020-08-19T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-facial-recognition-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
+      "title": "Facial Recognition market - What Are The Main Factors That Contributing Towards Industry Growth?",
+      "excerpt": "Facial Recognition is a biometric application which captures image of an individual and identify it by applying",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market---what-are-the-main-factors-that-contributing-towards-industry-growth-2020-08-19",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-19T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-artificial-intelligence-ai-in-drug-discovery-market.md",
+      "title": "Artificial Intelligence (AI) in Drug Discovery Market",
+      "excerpt": "The large Artificial intelligence (AI) in drug discovery market report contains wide-ranging and comprehensive market insights which are based on business intelligence. A strong research methodology used in this marketing report comprises of data models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2116269/artificial-intelligence-ai-in-drug-discovery-market-seeking",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T819553587_g.jpg",
+          "width": 800,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2116269/artificial-intelligence-ai-in-drug-discovery-market-seeking",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2116269/artificial-intelligence-ai-in-drug-discovery-market-seeking",
+      "publishedDateTime": "2020-08-19T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-how-to-leverage-on-artificial-intelligence-to-transform-the-way-entrepreneurs-do-business.md",
       "title": "How to Leverage on Artificial Intelligence to Transform the Way Entrepreneurs Do Business",
       "excerpt": "This situation has raised the importance and prominence of technology. As it recovers from human and economic ravages, AI is positioned to play a critical role",
@@ -813,56 +994,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-18-researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri.md",
-      "title": "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI",
-      "excerpt": "The results of the joint effort, which originated at Facebook, show that accurate MRIs can be produced more quickly as AI functions with less data, researchers said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-221966/social",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "publishedDateTime": "2020-08-18T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-18-hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars.md",
       "title": "Hour One wants synthetic AI characters to be your digital avatars",
       "excerpt": "If you ever wondered how we’ll populate the metaverse, look no further than Hour One, an Israeli startup that is making replicas of people with AI avatars. These avatars can be a near-perfect ...",
@@ -1040,154 +1171,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-seattle-startup-vets-raise-13m-for-no-code-workflow-automation-startup-reflective.md",
-      "title": "Seattle startup vets raise $1.3M for no-code workflow automation startup Reflective",
-      "excerpt": "Robotic Process Automation, or RPA, involves systems that use AI to learn and then take over routine and mundane software processes and business workflows from human workers. UiPath is a leading RPA startup and recently raised an additional $225 million.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/seattle-startup-vets-raise-1-3m-no-code-workflow-automation-startup-reflective/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/08/reflective-leads-630x365.png",
-          "width": 630,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-vets-raise-1-3m-no-code-workflow-automation-startup-reflective/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-vets-raise-1-3m-no-code-workflow-automation-startup-reflective/amp/",
-      "publishedDateTime": "2020-08-18T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask.md",
-      "title": "Researchers claim their AI can hear if a speaker is wearing a mask",
-      "excerpt": "Researchers at Duke Kunshan University, Wuhan University, Lenovo, and Sun Yat-sen University in Guangzhou claim to have developed an AI system that detects whether a person is wearing a mask from ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/elderly-at-home-covid-19.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/amp/",
-      "publishedDateTime": "2020-08-18T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-how-machine-learning-is-driving-new-smart-farming-projects.md",
-      "title": "How machine learning is driving new 'smart' farming projects",
-      "excerpt": "Owen Hughes says a PyTorch-based machine learning system is being used to train 'intelligent' farming machines, which could help farmers save valuable resources. Read more: https://zd.net/3g5g6U1",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/how-machine-learning-is-driving-new-smart-farming-projects/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/08/18/98d3b8f1-e85b-4a80-b8d1-3e1e98d6727b/thumbnail/770x578/d9d427e55bb9c10e44c4830b2a1379fe/20200814-owen-karen-weeds.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -31,6 +31,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wsj.com/articles/an-ai-breaks-the-writing-barrier-11598068862</loc>
+    <lastmod>2020-08-21T21:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/</loc>
     <lastmod>2020-08-21T19:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -169,6 +175,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-rising-trend-business-opportunities-and-scope-2020-2025-2020-08-21</loc>
+    <lastmod>2020-08-21T04:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-are-key-to-fighting-this-one/</loc>
     <lastmod>2020-08-21T03:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -183,6 +195,12 @@
   <url>
     <loc>https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/</loc>
     <lastmod>2020-08-21T01:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.engadget.com/alphadogfight-ai-f-16-pilot-025617519.html</loc>
+    <lastmod>2020-08-20T20:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -517,6 +535,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/deep-learning-market-new-innovations-trends-research-global-share-and-growth-factor-till-2027-2020-08-19?mod=mw_quote_news</loc>
+    <lastmod>2020-08-19T06:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-is-estimated-to-achieve-cagr-of-49-by-2027-2020-08-19</loc>
     <lastmod>2020-08-19T06:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -703,12 +727,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600</loc>
-    <lastmod>2020-08-18T11:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/</loc>
     <lastmod>2020-08-18T10:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -775,7 +793,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
+    <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -788,6 +806,12 @@
   </url>
   <url>
     <loc>https://www.zdnet.com/article/informatica-buys-ai-startup-for-entity-and-schema-matching/</loc>
+    <lastmod>2020-08-18T06:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click</loc>
     <lastmod>2020-08-18T06:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2065,7 +2089,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/stanford-center-for-health-education-launches-online-program-in-artificial-intelligence-in-healthcare-to-improve-patient-outcomes-301108618.html</loc>
+    <loc>https://apnews.com/PR%2520Newswire/56e335acee9728a4dbb3c2cf163211ca</loc>
     <lastmod>2020-08-10T07:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

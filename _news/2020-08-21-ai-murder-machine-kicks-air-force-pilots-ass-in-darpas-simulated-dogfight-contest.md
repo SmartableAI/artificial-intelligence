@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/i/6211598025303/2020/1/15980259486085/v1.5/Artificial-intelligence-wins-over-man-in-simulated-aerial-dogfight.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "AI algorithm defeats human fighter pilot in simulated dogfight"
+    excerpt: "An artificial intelligence algorithm has defeated a human F-16 fighter pilot in a virtual dogfight simulation. The Aug. 20 event was the finale of the Pentagon research agency’s AI air combat competition."
+    publishedDateTime: 2020-08-21T15:03:00Z
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2020/08/21/ai-algorithm-defeats-human-fighter-pilot-in-simulated-dogfight/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 37
+    images:
+      - url: "https://www.armytimes.com/resizer/ZvdR-wlUEHiJbbAvHtxsLD43BLo=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/FPU6ZMAGCZDPBHQFAA72K4QDTE.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "5i4vyNibrIM36oxqD5/5z6mYRdTxVgsMmGwCKg56WIOwKlP5cel7SDCTv0zKohPtA29solo3JBb0e0ce0RtY7pxZ31+43sMZHAlsPfu83DvbCmZkuXtqxsFqrN2LG+lVe6+KCMezynWGHSJ4//1sQ51tWYQsauQRRqdqihITMPUkL3ll1CeghUVfKWYvCfCP7jIMXvGWi8HqhG/YZSzvw5I0qiOvYhOtfs71OCvg6xUuFRhq219csmFRx9ZFScbC7ayWShCj5SkRyppYX4YDHuNl32cojk2bTZuVcPKQT6ty/eD23h2PXfoYmSMwPcRwnKZd5ftvEFdeHdtJpmCEIKua4sjG7iT7vnLSmL9P+/cQ3ZbwZGWpcNTQO1CcQI/X+zjylt+Y+3JMdl4gmPhPdCgsqhfd4nGTK/YKvE1WhqwA2dmPvxEJZ7rlD9rRIz1J9KUj2eI89bzag1NZTJtwDYJjeGjCYvRKlwq7KjFMmEnO9gwr8DEK0x8Rg9IGNl41i1Kj24qLY3tN2HCwucv0tg==;njCnEyBAPX9afzzwyp+/gg=="

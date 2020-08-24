@@ -17,38 +17,24 @@ topics:
   - AI
 
 related:
-  - title: "Speech and Voice Recognition Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
-    excerpt: "The Global Speech amp; Voice Recognition Market size was estimated to be US$ 7.8 billion in 2019. The Speech and"
-    publishedDateTime: 2020-08-19T13:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-08-19"
+  - title: "Deep Learning Market New Innovations Trends, Research, Global Share and Growth Factor till 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 19, 2020 (Global QYResearch via COMTEX) -- The global Deep Learning Market is estimated to grow at a healthy CAGR of over 51.1% from 2020 to 2027 and reach a valuation of ..."
+    publishedDateTime: 2020-08-19T13:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-new-innovations-trends-research-global-share-and-growth-factor-till-2027-2020-08-19?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Natural Language Processing Market Latest Industry Trends, Future Growth, Market Share, Revenue, Size and 2026 Forecast Research Report"
-    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
-    publishedDateTime: 2020-08-20T15:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-market-latest-industry-trends-future-growth-market-share-revenue-size-and-2026-forecast-research-report-2020-08-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Coronavirus Disease (COVID-19): Speech and Voice Recognition Market- Epidemiology Analysis and Forecast - Aug 2020"
-    excerpt: "The Global Speech and Voice Recognition Market was valued at USD 5.21 billion in 2016 and is projected to reach USD 26.15 billion by 2025, growing at a CAGR of 19.63% from 2017 to 2025. Voice and Speech Recognition is the ability of a machine or program that can identify,"
-    publishedDateTime: 2020-08-20T23:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/coronavirus-disease-covid-19-speech-and-voice-recognition-market--epidemiology-analysis-and-forecast---aug-2020-2020-08-20"
+  - title: "Covid-19 Impact on Artificial Intelligence in Medical Diagnostics Market: Global Analysis, Industry Growth, Current Trends and Forecast till 2025"
+    excerpt: "A new market study, titled \"Artificial Intelligence in Medical Diagnostics Market Upcoming Trends, Growth Drivers and Challenges\" has been featured on WiseGuyReports. Overviwe:- With the development of deep learning and neural networks,"
+    publishedDateTime: 2020-08-19T08:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-in-medical-diagnostics-market-global-analysis-industry-growth-current-trends-and-forecast-till-2025-2020-08-19"
     type: article
     provider:
       name: MarketWatch
@@ -59,20 +45,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market : Research By Production, Revenue, Growth Rate, Sales Value, Industry Trends, Impact Factors, SWOT Analysis 2027"
-    excerpt: "Aug 19, 2020 (AmericaNewsHour) -- Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to grow with a growth rate of more than 17.20 % over the forecast period 2020-2027. Demand for Voice enabled ..."
-    publishedDateTime: 2020-08-19T23:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-research-by-production-revenue-growth-rate-sales-value-industry-trends-impact-factors-swot-analysis-2027-2020-08-19"
+  - title: "World Autonomous Aircraft Market 2020-2030: Advancements in Artificial Intelligence is a Key Factor Driving Growth - ResearchAndMarkets.com"
+    excerpt: "The global autonomous aircraft market is expected to decline from $0.84 billion in 2019 to $0.79 billion in 2020 at a compound annual growth rate (CAGR) of -6.35%. The decline is mainly due to the COVID-19 outbreak that has led to restrictive containment measures involving social distancing,"
+    publishedDateTime: 2020-08-19T14:22:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/b17157045/world-autonomous-aircraft-market-2020-2030-advancements-in-artificial-intelligence-is-a-key-factor"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17157045"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17157045"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
 
 secured: "MJhTRLe0eY1Uuct6fTgtfQ+8G89ifKS98SG2fYDqjgT/UBd3gVEr1P7A4AtcAlvujtRvCL4BofSFDE97tmMU2Xfo2SbnMySSlJcE95Nu/c5kGpFOe74mqhv5YGzVs7fTLI3voBqyKd+bn3cYogmRhauZnqbDxgGzdNWmZb0fkPLDasSBl+Ss34u2yJfnmZzFBS9XsJo2IYQcVJSQVN9+InNcEt0NHGeWkSKRifXFWJTgCQaFVD47eLcHKg/T6IdYB7FxxsWACWyeVQu3ne0xiL/ikLJ62BolqtQljMlLpd6xpsNbHyiLLITKSEPlt2XPAtFVJ+wYbhUJUWQCS83Xmg==;DjQHUaJPCOq3ExGfROjNtA=="
 ---

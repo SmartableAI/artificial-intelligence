@@ -2,6 +2,169 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-08-06-city-of-tucson-water-department-selects-vodaais-machine-learning-to-support-decision-making.md",
+      "title": "City of Tucson Water Department Selects VODA.ai's Machine Learning to Support Decision-Making",
+      "excerpt": "The City of Tucson Water Department has selected VODA.ai as their exclusive provider of artificial intelligence software service for pipe prioritization. VODA.ai is excited to expand the partnership with the City of Tucson and provide continuous virtual condition assessment for the entire water system of over 4,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122",
+      "publishedDateTime": "2020-08-06T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies.md",
+      "title": "Salesforce open-sources the AI Economist, a research environment for exploring tax policies",
+      "excerpt": "Salesforce today open sourced the AI Economist, a research environment that leverages AI to arrive at optimal tax policies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screenshot66_photo_x4-e1596572153473.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/amp/",
+      "publishedDateTime": "2020-08-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-deep-learning-market-size.md",
+      "title": "DEEP LEARNING MARKET SIZE",
+      "excerpt": "DEEP LEARNING MARKET SIZE The Global Deep Learning Market size in 2018 was 2 75 Billion and is Anticipated to Grow Exponentially by 2025 With a 33 64 Percent CAGR in 2018 2025 View Full Report https reports valuates com",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2105583/deep-learning-market-size-share-trends-growth-forecast",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T806326785_g.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast",
+      "publishedDateTime": "2020-08-06T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-artificial-intelligence-system-tops-one-billion-neurons-on-a-desktop-computer.md",
+      "title": "Artificial Intelligence System Tops One Billion Neurons on a Desktop Computer",
+      "excerpt": "In a significant advance in the development of Artificial General Intelligence (AGI), the Brain Simulator II neural simulator",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n16964889/artificial-intelligence-system-tops-one-billion-neurons-on-a-desktop-computer",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16964889",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16964889",
+      "publishedDateTime": "2020-08-06T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-i-just-created-my-first-aiml-app-part-1.md",
       "title": "I Just Created my First AI/ML App! (Part 1)",
       "excerpt": "Happily, we have just such a plan… Tiny AI/ML Steps Earlier this year, I read a rather interesting book whose name, it has to be said, is a bit of a mouthful: “TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power ...",
@@ -1188,178 +1351,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-expert-system-raises-294-million-for-ai-text-extraction-and-analysis.md",
-      "title": "Expert System raises $29.4 million for AI text extraction and analysis",
-      "excerpt": "Expert System has raised $29.4 million to bolster the development of its natural language processing technologies for enterprise customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/amp/",
-      "publishedDateTime": "2020-08-05T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-hyland-releases-foundation-version-of-brainware-intelligent-capture.md",
-      "title": "Hyland Releases Foundation Version of Brainware Intelligent Capture",
-      "excerpt": "an intelligent content analysis tool within the portfolio of Microsoft Azure Cognitive Services. The Microsoft engine includes advanced OCR capabilities for extracting difficult handwritten inputs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hyland-releases-foundation-version-of-brainware-intelligent-capture/article_9e694b5d-3d3c-5562-9de9-c3aaff952d98.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-sight-diagnostics-raises-71-million-for-blood-testing-computer-vision.md",
-      "title": "Sight Diagnostics raises $71 million for blood-testing computer vision",
-      "excerpt": "It first “digitizes” blood into over 1,000 high-resolution colored microscope images, and then it runs computer vision algorithms trained on half a petabyte of anonymized data from four years ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/sight1-e1595963985900.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/amp/",
-      "publishedDateTime": "2020-08-05T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-how-blockchain-benefits-from-artificial-intelligence.md",
-      "title": "How Blockchain Benefits From Artificial Intelligence",
-      "excerpt": "Despite being around for many decades, the replication of human intelligence in machines — artificial intelligence — has now become popularized. With many tech companies rushing to adopt the ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81MjU3MmFkODM2NDhkNmIwMmMxNmY1MjJlYzdlNmRiZC5qcGc=.jpg",
-          "width": 370,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence/amp",
-      "publishedDateTime": "2020-08-05T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

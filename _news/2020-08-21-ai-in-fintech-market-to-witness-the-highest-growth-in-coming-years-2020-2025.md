@@ -20,15 +20,29 @@ topics:
   - AI
 
 related:
-  - title: "Global Deep Learning Market Value Projected To Surge Remarkably At Double Digit CAGR During 2020-2026 - Zion Market Research"
-    excerpt: "The \"Deep Learning Market Is Set For A Rapid Growth And Is Anticipated To Reach USD 23.6 Billion Globally By 2024\" report covers all of the aspects required to gain a complete understanding of the pre-market conditions,"
-    publishedDateTime: 2020-08-21T13:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-value-projected-to-surge-remarkably-at-double-digit-cagr-during-2020-2026---zion-market-research-2020-08-21"
+  - title: "Artificial Intelligence In Construction Market Rising Trend, Business Opportunities and Scope 2020-2025"
+    excerpt: "The Global Artificial Intelligence In Construction Market Research Report 2020-2025 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost,"
+    publishedDateTime: 2020-08-21T11:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-rising-trend-business-opportunities-and-scope-2020-2025-2020-08-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market : Research By Production, Revenue, Growth Rate, Sales Value, Industry Trends, Impact Factors, SWOT Analysis 2027"
+    excerpt: "Aug 19, 2020 (AmericaNewsHour) -- Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to grow with a growth rate of more than 17.20 % over the forecast period 2020-2027. Demand for Voice enabled ..."
+    publishedDateTime: 2020-08-19T23:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-research-by-production-revenue-growth-rate-sales-value-industry-trends-impact-factors-swot-analysis-2027-2020-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

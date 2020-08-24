@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Medicine Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
+    excerpt: "Summary A New Market Study, titled \"Artificial Intelligence in Medicine Market Upcoming Trends, Growth Drivers"
+    publishedDateTime: 2020-08-19T08:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medicine-market-2020-key-vendors-trends-analysis-segmentation-forecast-to-2025-2020-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "q0dadbsCDati/YEU9LHR+hm0M3ZW4q/6KZvTxEcMb19IBXQA7yePF+8cOq/k65r8V/ZxY5zcjHgYFNpN3dC7ufK2/ij9CuGuDisykBQjzUSSCP/0In9BI00iTzK33N6YjSVe70ObCQuy4KbxNKFagJrWuJy/GKok7MM0xFHGzkQ/eeyNoDI+G6qPetaShlv6TbViCzWyEMRgl7JDdPed/akKU4vU3ST4ZiOmR/AqOTBCM0ToMVqZ8DQSm/m0pw7SdrJsNtBZ5Y98DezgTTgmhFzK69WU4T4dysFeZ6+i2VI1WTBISVgRWbWjVclsgzq6lta8bP6an7tgQpqTH1+YPQ==;lcc+8iAQfKi3TFm9hKDUjw=="
 ---

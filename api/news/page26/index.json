@@ -2,6 +2,190 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-07-30-googles-tf-coder-tool-automates-machine-learning-model-design.md",
+      "title": "Google’s TF-Coder tool automates machine learning model design",
+      "excerpt": "Researchers at Google Brain, one of Google’s AI research divisions, developed an automated tool for programming in machine learning frameworks like TensorFlow. They say it achieves better-than ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/amp/",
+      "publishedDateTime": "2020-07-30T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-technologists-and-business-leaders-dont-see-eye-to-eye-on-artificial-intelligence.md",
+      "title": "Technologists and business leaders don't see eye to eye on artificial intelligence",
+      "excerpt": "Business leaders and technologists see artificial intelligence differently -- which is not a surprise. However, they have different perspectives on the progress on AI projects, and what it takes to scale AI to meet enterprise challenges. For example ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-state-of-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/07/30/1ba9fe6c-0378-41b8-a981-1e8ecf7e03df/airport-chicago-ohare-cropped-nov-2015-photo-by-joe-mckendrick.jpg",
+          "width": 480,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai/",
+      "publishedDateTime": "2020-07-30T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-twelve-fintech-startups-selected-for-village-capitals-finance-forward-latin-america-2020-accelerator.md",
+      "title": "Twelve Fintech Startups Selected for Village Capital's Finance Forward Latin America 2020 Accelerator",
+      "excerpt": "Over 80% of companies selected have one or more female founders, while over 40% are working from outside major fintech hubs in four different financial ... CIGE Mexico (Mexico) offers an AI solution that guarantees entrepreneurs advisory to manage their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator?tracking_source=rss",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-30T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSR Wire",
+        "domain": "csrwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-microsoft-hackathon-leads-to-ai-and-sustainability-collaboration-to-rid-plastic-from-rivers-and-the-ocean.md",
+      "title": "Microsoft Hackathon leads to AI and sustainability collaboration to rid plastic from rivers and the ocean",
+      "excerpt": "The post Microsoft Hackathon leads to AI and sustainability collaboration to rid plastic from rivers and the ocean appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/features/microsoft-hackathon-leads-to-ai-and-sustainability-collaboration-to-rid-plastic-from-rivers-and-the-ocean/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2020/07/cr-191026-THEOCEANCLEANUP_MALAYSIA-1099041-1024x651.jpg",
+          "width": 1024,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-30T09:14:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-linkedin-details-ai-tool-that-better-matches-jobs-to-candidates.md",
       "title": "LinkedIn details AI tool that better matches jobs to candidates",
       "excerpt": "LinkedIn today pulled back the curtains on Qualified Applicant (QA), an AI system that learns from job candidate interactions the kinds of skills and experience a hirer prefers. It’s the model ...",
@@ -939,187 +1123,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-why-developers-should-use-graph-databases.md",
-      "title": "Why developers should use graph databases",
-      "excerpt": "Graph databases are proven architectures for storing data with complex relationships. Why aren't more companies using them?",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3567771/why-developers-should-use-graph-databases.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/08/thinkstockphotos-509731276-100677664-large.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3567771/why-developers-should-use-graph-databases.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3567771/why-developers-should-use-graph-databases.amp.html",
-      "publishedDateTime": "2020-07-29T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-amd-cdna-gpu-to-rival-nvidia-ampere-in-late-2020.md",
-      "title": "AMD CDNA GPU to rival Nvidia Ampere in late 2020",
-      "excerpt": "AMD’s next attempt on the server GPU front embraces its new CDNA architecture that is tailored primarily for AI as well as HPC and therefore promises to be a better fit for respective customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Bd7dkokF6QEnDo8VEnUrrm-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "publishedDateTime": "2020-07-29T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-twitter-gives-trumps-son-a-tweet-timeout.md",
-      "title": "Twitter Gives Trump's Son a Tweet Timeout",
-      "excerpt": "Twitter has temporarily halted President Donald Trump’s son from tweeting after he shared a video riddled with unsupported claims about the coronavirus Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://mobile.twitter.com/devpato/status/1288516384679485440",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/EeG6zYzXsAEAutO.png:small",
-          "width": 383,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-pluralsight-inc-ps-ceo-aaron-skonnard-on-q2-2020-results-earnings-call-transcript.md",
-      "title": "Pluralsight, Inc. (PS) CEO Aaron Skonnard on Q2 2020 Results - Earnings Call Transcript",
-      "excerpt": "The AWS DeepRacer partnership is really focused on providing machine learning specific Skills development to those participants that are engaging in their DeepRacer learning campaign. This is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4362108-pluralsight-inc-ps-ceo-aaron-skonnard-on-q2-2020-results-earnings-call-transcript",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T20:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

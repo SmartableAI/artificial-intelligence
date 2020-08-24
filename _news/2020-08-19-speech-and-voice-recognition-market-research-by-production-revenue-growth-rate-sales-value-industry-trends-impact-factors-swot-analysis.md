@@ -28,57 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "Speech and Voice Recognition Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
-    excerpt: "The Global Speech amp; Voice Recognition Market size was estimated to be US$ 7.8 billion in 2019. The Speech and"
-    publishedDateTime: 2020-08-19T13:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-08-19"
+  - title: "Artificial Intelligence In Construction Market Rising Trend, Business Opportunities and Scope 2020-2025"
+    excerpt: "The Global Artificial Intelligence In Construction Market Research Report 2020-2025 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost,"
+    publishedDateTime: 2020-08-21T11:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-rising-trend-business-opportunities-and-scope-2020-2025-2020-08-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Natural Language Processing Market Latest Industry Trends, Future Growth, Market Share, Revenue, Size and 2026 Forecast Research Report"
-    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
-    publishedDateTime: 2020-08-20T15:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-market-latest-industry-trends-future-growth-market-share-revenue-size-and-2026-forecast-research-report-2020-08-20"
+  - title: "AI in Fintech Market To Witness the Highest Growth in Coming Years 2020-2025"
+    excerpt: "The AI in Fintech Market recently Published GlobalAI in Fintech Market”. The report provides information and the advancing business series information in the sector to the exchange. The report provides a notion connected to the progress of this market movement of significant players of this industry."
+    publishedDateTime: 2020-08-21T12:10:00Z
+    webUrl: "https://www.openpr.com/news/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
+    ampWebUrl: "https://www.openpr.com/amp/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Coronavirus Disease (COVID-19): Speech and Voice Recognition Market- Epidemiology Analysis and Forecast - Aug 2020"
-    excerpt: "The Global Speech and Voice Recognition Market was valued at USD 5.21 billion in 2016 and is projected to reach USD 26.15 billion by 2025, growing at a CAGR of 19.63% from 2017 to 2025. Voice and Speech Recognition is the ability of a machine or program that can identify,"
-    publishedDateTime: 2020-08-20T23:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/coronavirus-disease-covid-19-speech-and-voice-recognition-market--epidemiology-analysis-and-forecast---aug-2020-2020-08-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Education Market Global Industry Analysis Segments Top Key Players Drivers And Trends To 2029"
-    excerpt: "Trends In Artificial Intelligence in Education Market 2020. Straits Research announces the addition of its new research report titled, “Artificial Intelligence in Education Mark"
-    publishedDateTime: 2020-08-19T15:03:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/135039/artificial-intelligence-in-education-market/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
 
 secured: "Wi7jAcIjtZB0YLZcRF0N1aTzhZc5MXpgzVDhcy15maNWe2gQoPD1qHkBq9VLtgZgVu6oxPOoXIqRxcE6pz+giUFQdcvQOTnb4VGSeg9zyyE+iGnBrg1xkz+j/YXdogaOmhtE39rQ8hpJ9a7ZqBh6QgrTe+DPXXt0udWLtOZQcbSey9LEh/rbK9kCyHxSjnfCJKYb9tResBr6Xuh2FPBCpUQc8LrR0DCgI7vecj3XiO49Pdw2KWQGUpzcfiSs0NFThTOrXT8a4B6CRPhYeh7i++57wPBYHOcWrvQgkwfWimLt/hCnyVnzBhnJvxXZFZU9XKmFRRhPJRY+qOapDeQhhw==;GzOYqeoDYGc55hUEA88KcA=="
 ---

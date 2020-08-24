@@ -56,29 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market : Research By Production, Revenue, Growth Rate, Sales Value, Industry Trends, Impact Factors, SWOT Analysis 2027"
-    excerpt: "Aug 19, 2020 (AmericaNewsHour) -- Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to grow with a growth rate of more than 17.20 % over the forecast period 2020-2027. Demand for Voice enabled ..."
-    publishedDateTime: 2020-08-19T23:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-research-by-production-revenue-growth-rate-sales-value-industry-trends-impact-factors-swot-analysis-2027-2020-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Education Market Global Industry Analysis Segments Top Key Players Drivers And Trends To 2029"
-    excerpt: "Trends In Artificial Intelligence in Education Market 2020. Straits Research announces the addition of its new research report titled, “Artificial Intelligence in Education Mark"
-    publishedDateTime: 2020-08-19T15:03:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/135039/artificial-intelligence-in-education-market/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
 
 secured: "vMiHJk4EekH52TK8rHdKhwPsJDMqGNVzVqEhfnT0mKL2lh0uPt73ErJ0UD3DXvEJbtwX+O4N3sd2CcAXM7tgRnjzL1KubKuUofXWc1lvvFAWcJ7IIKHswOLF+w5jeTxFwxpc2Dkn3Kydl+vyzrt+N9C9hPowEjm9OxgVZASySz0qANQaajQGjaMoFGxscFq+EL04VFFNLv/3Loa75sTlxhTJQyY2tAn215KrJE6mexWDdqVC4Z/LrQty+Y71304C+GZKNYamaL9ZZAz3oA3aqYpWMD9/YTEv5Hiz5Fbq8kbyU0kxbVU5nCDklimhkNBBqO6+JAChtXrwjDtD0e6WFw==;43KLsKIYs3oiC+8TsnGnGQ=="
 ---
