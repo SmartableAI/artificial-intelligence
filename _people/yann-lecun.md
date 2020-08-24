@@ -14,7 +14,7 @@ website: http://yann.lecun.com/
 twitter:
   username: ylecun
   url: https://twitter.com/ylecun
-  followers: 217522
+  followers: 217537
 
 googleScholar:
   url: https://scholar.google.com/citations?user=WLN3QrAAAAAJ
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Yann LeCun"
 
-secured: "KyD5jBHdDuW10pkH0yB3s32k7nIAOBXmtdUrqQfUOM8od17GtMYgsGV4beMv0ub+laBrZIgpjIsHQo4WKA9yhCQmMr/81jWdMZVBo9JWCYxIbcX+0+/uj/O6s/jqoZ9Dr2jAG30Mt9S5zHQmIlf0wfHS7CIB68zgNlsyeRbFc5SqQ6o3jKfaoR3ELHZ77ow8TMil/eChdhG/7HccSaR0pzlbcYhFxea+Mx/lUFge5EXTAbHMiczaQgv997vJk16ooaHso0Au4mY3MRO4XnxJ+hYuyYfcIq49uKaL28OxKG7/GKwKZWa1QRvUKOaGzk8WYyW4Nl3zTIA/ne8w5opilWRmJZy5NM6eaR+vyJwVyRHmMtzoX34mtcou1oFB2WiPlgtZArr4hmVu0RPYcIo+9w==;Klv5DIi/OXAuX+q9VchfNw=="
+secured: "L30IyYS7jkxZly51hFf1DQvj5rwum1syXwNLYCdV0ubWzHUvWfB2qmiUFpZ79hjNBfnYlibH2UkbHaFgJXNmuHp/7H8dwr2ky753m08a2tQSwNF7UXo00BJE6R0N5IdmkTo6USq1YzlRBZmTy+H77OSmxPkgc6mWDvzs+ETfJ2Rr5Xz2s8c04ua18a4BKthUeL1dgaG2XBnSRee946UZgTTg/HfpyVgGNdgu05XcN1efSWlRo2x81+RNE1NpOtifIX8rOAK83zGmrM3E4vYXIiNHNaEc0rjUkqNt53adk8KKWAP4G4Z/9EaHJLQ3cWD6+WDaNFGgTmOzjZQyFcW+KHGfXOaiyXrDQYMeNhNfhXsroSbhkk8xxRJdeUm1LiGDrEIv548r/6ChsIc3ZCVWcg==;RncvKNiWUjB80ORjALU6aA=="
 ---
 
