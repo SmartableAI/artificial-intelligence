@@ -102,20 +102,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Global Facial Recognition Market Forecast 2019-2028"
-    excerpt: "The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security ..."
-    publishedDateTime: 2020-08-19T14:34:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-facial-recognition-market-forecast-2019-2028-301114914.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "SIA Issues Facial Recognition Policy Guidelines"
     excerpt: "The Security Industry Association says all technology, including facial recognition, must only be used in a lawful, ethical and nondiscriminatory fashion."
     publishedDateTime: 2020-08-20T09:03:00Z

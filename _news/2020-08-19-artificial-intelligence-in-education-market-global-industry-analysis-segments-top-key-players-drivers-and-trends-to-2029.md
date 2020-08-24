@@ -17,31 +17,20 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Market New Innovations Trends, Research, Global Share and Growth Factor till 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 19, 2020 (Global QYResearch via COMTEX) -- The global Deep Learning Market is estimated to grow at a healthy CAGR of over 51.1% from 2020 to 2027 and reach a valuation of ..."
-    publishedDateTime: 2020-08-19T13:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-new-innovations-trends-research-global-share-and-growth-factor-till-2027-2020-08-19?mod=mw_quote_news"
+  - title: "Global Artificial Intelligence Market World-Wide Industry Trends, Entry Strategies, Regulatory Frameworks and Technologies till 2026"
+    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
+    publishedDateTime: 2020-08-19T17:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-world-wide-industry-trends-entry-strategies-regulatory-frameworks-and-technologies-till-2026-2020-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "World Autonomous Aircraft Market 2020-2030: Advancements in Artificial Intelligence is a Key Factor Driving Growth - ResearchAndMarkets.com"
-    excerpt: "The global autonomous aircraft market is expected to decline from $0.84 billion in 2019 to $0.79 billion in 2020 at a compound annual growth rate (CAGR) of -6.35%. The decline is mainly due to the COVID-19 outbreak that has led to restrictive containment measures involving social distancing,"
-    publishedDateTime: 2020-08-19T14:22:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/b17157045/world-autonomous-aircraft-market-2020-2030-advancements-in-artificial-intelligence-is-a-key-factor"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17157045"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17157045"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
 
 secured: "MJhTRLe0eY1Uuct6fTgtfQ+8G89ifKS98SG2fYDqjgT/UBd3gVEr1P7A4AtcAlvujtRvCL4BofSFDE97tmMU2Xfo2SbnMySSlJcE95Nu/c5kGpFOe74mqhv5YGzVs7fTLI3voBqyKd+bn3cYogmRhauZnqbDxgGzdNWmZb0fkPLDasSBl+Ss34u2yJfnmZzFBS9XsJo2IYQcVJSQVN9+InNcEt0NHGeWkSKRifXFWJTgCQaFVD47eLcHKg/T6IdYB7FxxsWACWyeVQu3ne0xiL/ikLJ62BolqtQljMlLpd6xpsNbHyiLLITKSEPlt2XPAtFVJ+wYbhUJUWQCS83Xmg==;DjQHUaJPCOq3ExGfROjNtA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/?amp=true"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook announces fastMRI—an AI enhancement for MRI machines"
-    excerpt: "Facebook has announced on its blog that its AI research team has been working with radiologists at NYU Langone Health to create an AI system that can speed up MRI machines. A paper written by the team describing the new technology is to be published in the American Journal of Roentgenology."
-    publishedDateTime: 2020-08-19T13:38:00Z
-    webUrl: "https://medicalxpress.com/news/2020-08-facebook-fastmrian-ai-mri-machines.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-08-facebook-fastmrian-ai-mri-machines.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-facebook-fastmrian-ai-mri-machines.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/facebookanno.gif"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Facebook’s AI Dubbed As FastMRI Generates Images In Just Minutes By Using a Quarter of Traditional Required Data"
     excerpt: "MRI images (magnetic resonance imaging) can be generated in just a few minutes using Facebook's artificial intelligence (AI). In collaboration with NYU"
     publishedDateTime: 2020-08-19T22:55:00Z

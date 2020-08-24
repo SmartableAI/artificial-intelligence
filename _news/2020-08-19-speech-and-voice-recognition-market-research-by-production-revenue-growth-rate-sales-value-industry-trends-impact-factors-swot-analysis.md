@@ -67,6 +67,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 36
+  - title: "Global Artificial Intelligence Software Market Size by Production, Top Countries Import-Export and Consumption Forecast & Regional Analysis by 2024"
+    excerpt: "Artificial Intelligence Software Market\" 2020-2024 Report Provides Market Share, CAGR, Production, Consumption,"
+    publishedDateTime: 2020-08-20T15:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-size-by-production-top-countries-import-export-and-consumption-forecast-regional-analysis-by-2024-2020-08-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Wi7jAcIjtZB0YLZcRF0N1aTzhZc5MXpgzVDhcy15maNWe2gQoPD1qHkBq9VLtgZgVu6oxPOoXIqRxcE6pz+giUFQdcvQOTnb4VGSeg9zyyE+iGnBrg1xkz+j/YXdogaOmhtE39rQ8hpJ9a7ZqBh6QgrTe+DPXXt0udWLtOZQcbSey9LEh/rbK9kCyHxSjnfCJKYb9tResBr6Xuh2FPBCpUQc8LrR0DCgI7vecj3XiO49Pdw2KWQGUpzcfiSs0NFThTOrXT8a4B6CRPhYeh7i++57wPBYHOcWrvQgkwfWimLt/hCnyVnzBhnJvxXZFZU9XKmFRRhPJRY+qOapDeQhhw==;GzOYqeoDYGc55hUEA88KcA=="
 ---

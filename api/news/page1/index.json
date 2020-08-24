@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-24-artificial-intelligence-market-research-report-2019-2026.md",
+      "title": "Artificial Intelligence Market Research Report 2019-2026",
+      "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the reportincludeIBMCorp(NYSE:IBM),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2019-2026-2020-08-24?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-23T23:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-artificial-intelligence-helping-to-improve-farming.md",
       "title": "Artificial intelligence helping to improve farming",
       "excerpt": "The impact of the University of Florida’s $70 million artificial intelligence (AI) initiative is likely to show up on your plate every day. It can help make what you eat tastier, healthier and more locally sourced.",
@@ -1137,57 +1187,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-facebook-is-building-home-robots-to-help-you-find-your-ringing-phone.md",
-      "title": "Facebook is building home robots to help you find your ringing phone",
-      "excerpt": "Now, some new breakthroughs made by Facebook AI researchers suggest that home robots might be able to do the hard work for us, reacting to simple commands such as \"bring me my ringing phone.\" Virtual assistants as we know them are utterly incapable of identifying a specific sound,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-is-building-robots-to-help-you-find-your-ringing-phone/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/08/21/971abfc1-0652-4769-8468-9fef47e09515/facebook-embodied-ai.png",
-          "width": 1200,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-is-building-robots-to-help-you-find-your-ringing-phone/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-is-building-robots-to-help-you-find-your-ringing-phone/",
-      "publishedDateTime": "2020-08-21T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

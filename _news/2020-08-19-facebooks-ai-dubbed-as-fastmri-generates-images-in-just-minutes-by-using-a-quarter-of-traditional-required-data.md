@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facebook announces fastMRI—an AI enhancement for MRI machines"
-    excerpt: "Facebook has announced on its blog that its AI research team has been working with radiologists at NYU Langone Health to create an AI system that can speed up MRI machines. A paper written by the team describing the new technology is to be published in the American Journal of Roentgenology."
-    publishedDateTime: 2020-08-19T13:38:00Z
-    webUrl: "https://medicalxpress.com/news/2020-08-facebook-fastmrian-ai-mri-machines.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-08-facebook-fastmrian-ai-mri-machines.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-facebook-fastmrian-ai-mri-machines.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/facebookanno.gif"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "G7eGAR8VciRChOhAMLtRSb93bYUNzSJ+dnZAlABowzOrMAQNyipDU70ePn7fVWRaA2ii2J2IoZXeRlVVIQq9t4O6l3j404m0f/8jKy4jR+DUsVFvC+Xjx0dpv+Ml79Bx9duTyjocOQkw5/iK4klqtv35VOvtAtvsyASnB7SFmTUFjanxpqpFKw7uCBnfOWeGQrZyA6DH9pL8xewbasq32r66/xeq+i2TccqX8pIMsTCdhOLPHdcemwbDEDSrjQU3u0kMuM2tdTMVHoFFlpvvUclKagRvIIxUH6d9sstIEc6B11cjgO0s4Er4tceQjHxIaRLplDjpRJ15f2yXT6nKVg==;GwlbM5dalgGtgEIYJ8Hj+A=="
 ---

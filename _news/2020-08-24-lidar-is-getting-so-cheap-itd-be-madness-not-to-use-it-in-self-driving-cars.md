@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Self-driving trucks: what does the future look like?"
-excerpt: "What progress has the trucking industry made in self-driving trucks, and what impact might it have in the next decade and beyond?"
-publishedDateTime: 2020-08-19T19:51:00Z
-webUrl: "https://munley.com/self-driving-trucks/"
-ampWebUrl: "https://munley.com/self-driving-trucks/amp/"
-cdnAmpWebUrl: "https://munley-com.cdn.ampproject.org/c/s/munley.com/self-driving-trucks/amp/"
+title: "LiDAR is getting so cheap it’d be madness not to use it in self-driving cars"
+excerpt: "LiDAR sensors are getting so cheap that it makes it hard to understand why any self-driving car company wouldn't bother using them in its vehicles."
+publishedDateTime: 2020-08-24T07:57:00Z
+webUrl: "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/"
+ampWebUrl: "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/amp/"
 type: article
-quality: 44
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Munley Law
-  domain: munley.com
+  name: The Next Web
+  domain: thenextweb.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://munley.com/wp-content/uploads/TuSimple_AFN_graphic-300x204.jpg"
-    width: 300
-    height: 204
+  - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/lidar-huawei-car-autopilot-self-driving-sensor-tech-development-796x447.jpg"
+    width: 796
+    height: 447
     isCached: true
 
 related:
@@ -90,23 +94,23 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "LiDAR is getting so cheap it’d be madness not to use it in self-driving cars"
-    excerpt: "LiDAR sensors are getting so cheap that it makes it hard to understand why any self-driving car company wouldn't bother using them in its vehicles."
-    publishedDateTime: 2020-08-24T07:57:00Z
-    webUrl: "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/"
-    ampWebUrl: "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/amp/"
+  - title: "Self-driving trucks: what does the future look like?"
+    excerpt: "What progress has the trucking industry made in self-driving trucks, and what impact might it have in the next decade and beyond?"
+    publishedDateTime: 2020-08-19T19:51:00Z
+    webUrl: "https://munley.com/self-driving-trucks/"
+    ampWebUrl: "https://munley.com/self-driving-trucks/amp/"
+    cdnAmpWebUrl: "https://munley-com.cdn.ampproject.org/c/s/munley.com/self-driving-trucks/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 71
+      name: Munley Law
+      domain: munley.com
+    quality: 44
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/lidar-huawei-car-autopilot-self-driving-sensor-tech-development-796x447.jpg"
-        width: 796
-        height: 447
+      - url: "https://munley.com/wp-content/uploads/TuSimple_AFN_graphic-300x204.jpg"
+        width: 300
+        height: 204
         isCached: true
 
-secured: "+HopwwhuFkLEhIgR+zgp3KVndlFoqJOTej8RPYaYGe/GWDs/JZZbmEve1npgYuaH2ocu+n1qY/ljyi4LfkEZ+4BsV+ldoWpaTEqc9aBOq6hoLw6dAGS0MMSG7WW8qNtX5O2EO9Q0DpGOYOaHVR1X1TvYv0nNPW5Gyv8NFK9d/1bPxDuuiSk8VLCKHwxszC9YJasi9hjab/WyaauZ3knqFsWOBZcIbamRaKEEI4/d3rkfwUnXxu2NQ2zALkSzDEjuagu/2lAfThBCNmgfg8S6C3j4LMxLUf0/s5WTP4erAUdkjIokz4jilO0ItAef9ySsE1FQWsMjXesSEDAKzyuREYEhAkxQiNymKDuO5u6SqNk6m45yITBqR5+SXqJZHlJNaA6WqnpMiIeEfcmius3zgYsiuCOlSfuWWd+fa6opVve12Z8yWMbl4UbZavGLerpZNw9qhPIqJMud6fRaZePAY5LldLr7UlnXB0+/7adwiYZIPPNBv4PlSeB5vTtqq3L2YOuFCJyj6AzzI3LOySMnpQ==;ywOIv5T+gXd5SYRjThEyog=="
+secured: "GatbJUMcv3ChAo+1dS4wPMVoB5A8+V00y1CuAE1YVgULH8c2lDMbztnxHcJVV7pDmvdXCCnuf5xhgqXslzaoD8wnfm/AGxiFZ9dG+y9L2HqZFndRpJswOY5cWK7vwaxui0TyWAxuMSsMjKPSCkJxWv4zjAxWmjHDBarXaYoqWhoT3Jl5xsTsJ1hOAIpI1ickAkc8q4FaAFv8KGvwQqTzbM+Q9YL3XECl047hHsdhbnlYYJ5dx1JjSzWOruP+Q5Sl5CDUTW+obg3S+pJ0MEUPvrwkGNg6pFWWjpCLmP+rGhkOIU2KgYSgPKYB7szdG/frPKEjAlphL86GMo54mjh16Q==;BKt8vMX8GZ832xS+qMzIOg=="
 ---
 

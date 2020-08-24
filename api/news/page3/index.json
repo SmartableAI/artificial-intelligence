@@ -2,6 +2,97 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-20-throwing-a-fastball-how-the-minnesota-twins-are-using-machine-learning-to-analyze-mounds-of-data.md",
+      "title": "Throwing a fastball: How the Minnesota Twins are using machine learning to analyze mounds of data",
+      "excerpt": "For baseball stat geeks, the data mined with machine learning is a game-changer. Here's how one MLB team is using it to its advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/throwing-a-fastball-how-the-minnesota-twins-are-using-machine-learning-to-analyze-mounds-of-data/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/08/20/2f98c64a-7115-4526-9444-e6789caa8ec3/resize/1200x/4099a21013ed7a2f802d7238fdfcba2c/20200818-baseball-karen-2.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/throwing-a-fastball-how-the-minnesota-twins-are-using-machine-learning-to-analyze-mounds-of-data/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/throwing-a-fastball-how-the-minnesota-twins-are-using-machine-learning-to-analyze-mounds-of-data/",
+      "publishedDateTime": "2020-08-20T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-kamala-harris-shines-spotlight-on-trailblazing-black-women-in-her-2020-dnc-speech.md",
+      "title": "Kamala Harris shines spotlight on trailblazing Black women in her 2020 DNC speech",
+      "excerpt": "Calif., accepted the Democratic Party's nomination for vice president Wednesday night, she did so by recognizing the trailblazing women who came before her. \"That I am here tonight is a testament to the dedication of generations before me,",
+      "sourceUrl": null,
+      "webUrl": "https://www.goodmorningamerica.com/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/GMA/kamala-harris-dnc-01-ap-iwb-200819_1597933336252_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044",
+      "cdnAmpWebUrl": "https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044",
+      "publishedDateTime": "2020-08-20T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GMA",
+        "domain": "goodmorningamerica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-ai-health-startup-captures-up-to-15-vital-signs-via-your-phone-camera.md",
       "title": "AI Health Startup Captures Up To 15 Vital Signs Via Your Phone Camera",
       "excerpt": "A health woman.. Look into your camera for thirty seconds. You’ve just given your phone enough information to check your heart rate, oxygen satu",
@@ -58,7 +149,7 @@
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -538,7 +629,7 @@
       "webUrl": "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -781,38 +872,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-20-allscripts-collaboration-to-advance-healthcare-innovation.md",
-      "title": "Allscripts' Collaboration to Advance Healthcare Innovation",
-      "excerpt": "ARC Innovation brings in new technologies into the hospital and community healthcare ecosystem to further enhance patient care. Moreover, it aids data fluidity and integration between innovators, scientists,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/allscripts-collaboration-to-advance-healthcare-innovation-2020-08-20",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/allscripts-collaboration-to-advance-healthcare-innovation-2020-08-20?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/allscripts-collaboration-to-advance-healthcare-innovation-2020-08-20?amp",
-      "publishedDateTime": "2020-08-20T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-20-ev-builder-nio-hopes-to-enter-europe-in-2021.md",
       "title": "EV builder Nio hopes to enter Europe in 2021",
       "excerpt": "Chinese electric vehicle maker Nio hopes to enter international markets from the second half of next year starting with selected European countries, CEO William Li said. Li said the company aimed to enter other markets from 2022.",
@@ -850,57 +909,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-artificial-intelligence-market-latest-trends-and-new-technologies-research-forecast-to-2026.md",
-      "title": "Artificial Intelligence Market latest Trends and New Technologies Research Forecast to 2026",
-      "excerpt": "The Artificial Intelligence Market report upholds the future market predictions related to Artificial Intelligence market size, revenue, production, Consumption, gross margin and other substantial factors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-and-new-technologies-research-forecast-to-2026-2020-08-20",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-20T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
       ]
     },
     {

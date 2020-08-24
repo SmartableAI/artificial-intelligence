@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -105,20 +105,6 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2020/08/facebook-facial-recognition-image-woman.jpg"
         width: 600
         height: 430
-        isCached: true
-  - title: "Global Facial Recognition Market Forecast 2019-2028"
-    excerpt: "The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security ..."
-    publishedDateTime: 2020-08-19T14:34:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-facial-recognition-market-forecast-2019-2028-301114914.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "SIA Issues Facial Recognition Policy Guidelines"
     excerpt: "The Security Industry Association says all technology, including facial recognition, must only be used in a lawful, ethical and nondiscriminatory fashion."
