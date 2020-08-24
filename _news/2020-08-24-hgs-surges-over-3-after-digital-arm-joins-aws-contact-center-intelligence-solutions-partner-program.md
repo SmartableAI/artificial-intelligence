@@ -8,7 +8,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/hgs-surges-
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/hgs-surges-over-3-after-digital-arm-joins-aws-contact-center-intelligence-solutions-partner-program-120082400154_1.html"
 type: article
 quality: 44
-heat: 44
+heat: 64
 published: false
 
 provider:

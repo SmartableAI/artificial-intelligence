@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-24T14:04:00Z
 webUrl: "https://newscenter.lbl.gov/2020/08/24/3-awards-will-support-accelerator-rd-for-medical-treatment-miniaturization-and-machine-learning/"
 type: article
 quality: 27
-heat: 27
+heat: 37
 published: false
 
 provider:

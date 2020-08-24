@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-21T20:49:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-08/dnl-asu082120.php"
 type: article
 quality: 33
-heat: 33
+heat: 53
 published: false
 
 provider:

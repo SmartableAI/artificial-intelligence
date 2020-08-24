@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-c
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895/amp"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 450
     isCached: true
 
-secured: "vHXpHKwH5aVEcf4loTufEp168+vV1qHIs1ed5LCCPhQE+cSCnVHV4I8F44lfYiRdBG5Qa50S3/uT1UdcknsSThkCvkunOG/AYUNtbAuY0glDFwFYphoJBYHk9v0EfslpjgkBbrMTPwCIOY9q+vyKH3CaIgpmP0y9KRdJWMtsGuXQDchoDlPSBYvgqEVnbigNSex2oRLhQU01YOXqHamN9tn2eOgaHmYcfzhOqf+WahnY3F2OQaF0iFuTWp/J+NGuWLcRaMdJPLQAw7w2OiJBE19p+I3zSVzutc/kT3BiStAkqakCJIsbNy+hLexT5G6nkNgD54cMVEudw7sFDlNzYQ==;Q9jlqgzUPpXH64p99R2hXw=="
+secured: "BEfvFXnnvabnptkzS3lf4KuK4HAkX6m5Ku43a06mgHNeams0WMrXi/4upgVcF6RVzmNEkB4z+rZTgXiA3qNhjH5tsyAIII9/B0L1T/GFl9AlZHjSeNqsnnRMbMiO7U4YYNCDzTv2cE8XgymGtvqNP56a57mUvDaHHpxYHwpB2XYF1saCmDF9mudMYnGapMTd2JB0MNpruZ0SGoYlfsoIJKT1lBF7gia5LfuY3DR28lW/eehTT/HV7EATQuff0h6iZDiDlz8Y9Vj7ccf07PbRIgz42iT8Tde9LkefZ/sKqD5Cs3hl4SE6RK50jabq4R5Ai0qlINJgaOjU/6zCfk4RuGbnI6/O6qtjT1q4jnDuNzJFTubj1YOdOiwJoGbn+h3tI+MsOe+m52HzRGzuVFnRKxw/hn0WJO2s02iAlXPija6I97qKOWoqnovouWSOi7010kjrSm0YH3DDnWcWzKX6d1cNzaqfOw8CLvE/oX0ZO1cF8oWUD310b94Qf03d311a49Sm+vzJafy2Xfn+RthCeg==;GFQQtfQC2/eRRdemNoMGjg=="
 ---
 

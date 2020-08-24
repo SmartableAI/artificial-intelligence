@@ -5,8 +5,8 @@ excerpt: "Their internet marketplaces under regulatory scrutiny, Google, Amazon,
 publishedDateTime: 2020-08-24T19:17:00Z
 webUrl: "https://www.datacenterknowledge.com/cloud/industry-tailored-clouds-give-platforms-more-marketplaces-they-can-run"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/volkswagen%20Zwickau%20Germany%20plant%202020%20getty.jpg"
@@ -23,6 +24,6 @@ images:
     height: 683
     isCached: true
 
-secured: "NfPe2abSBBPHZIk9c/vqkpHtns8Yjb0eCKQO4143qHq7AC19VRoAevh6LkgBO0EIS0LEbsRxF01L846wTeUgPugpo3amIYHtV5tG+UDqb9xWT3GolOizBlDBnAWaKyeQ43FnPiYcOz45gOJcqhtP1ew4md5oUpfHW1cEPsZgkudGKAwcdnLMri5O3euu/LhzTReCNbokWCaIO1zAK8XaBgh2LgmdMPs7QA1P33TrrV3sDeHeSfnLovrt5ug44dKgdyKB8JGov08pRoiwtLvUN5ig/XWB50xyNdKlXOI1bnvFZ810Ql9njOuaNJA6kSlrIuaohRsXg+SumPLrYQ7yGQ==;VJWGmRMUmD+/oHW0Hf2yKw=="
+secured: "aeGpx9dR8rOQ0uJwZCiGiRDa1dyoipyq5tALx360X8VdXTuMT6RZRH60cpwo84kSVQxqsSNmlSa2HlRCiSeDX/1WwtRVy9l22JUae1N4qFg1LxWLa+eX/iPDzsNaZoPBq8XBcbiGFyaivvXGTw5AnwWjDQP+cv7XwA8sfWz8wETaZOl9orRxsdmlmq1j8TPzyRhlODf9k57/X7jWeioRMHikfeyfIn7TLeOI+/3bRnKvPTE8HIVmU15F5hePdZTD/t44Zi3MkBQGPCFduu4EHJshghXoxNxWdYSaMN/c/6ZuAQNo8L7lgUUZicW61BF062UPelrftVXqEAkkvnFB0tm/pmmGnIOMwoNcIPX4WoKI84zElfXppveYfMi0lNKK6063wNhk2yJ/NZWmKqDwFN7esjqcX6n8iSNdiWNNfRElp5TCqzdxg5LGxwENWh7J31VMPXSsH2VD4BzNkPrnr1c8dQisRw7xl5QfCNoBWgCkswsH2JwbwrC3pGJwPFuKyF9nwCenvjLoKBuD81kleg==;4RlwOoWyy8lnnXG3NV01cg=="
 ---
 

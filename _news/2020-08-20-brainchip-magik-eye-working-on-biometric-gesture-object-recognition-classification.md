@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-20T18:25:00Z
 webUrl: "https://www.biometricupdate.com/202008/brainchip-magik-eye-working-on-biometric-gesture-object-recognition-classification"
 type: article
 quality: 47
-heat: 47
+heat: 57
 published: false
 
 provider:
