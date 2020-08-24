@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI in Healthcare Market Worth $99,491.58 million by 2027 - Analysis by Offering, Application, End-user, Algorithm and Region"
-    excerpt: "Global AI in Healthcare Market Worth 9949158 million by 2027 ndash Analysis by Offering Application End-user Algorithm and Region"
-    publishedDateTime: 2020-08-19T15:49:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266140921/global-ai-in-healthcare-market-worth-9949158-million-by-2027---analysis-by-offering-application-end-user-algorithm-and-region"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1597838421142.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2029"
     excerpt: "Artificial Intelligence in Healthcare Market Global Trends Market Share Industry Size Growth Opportunities and Market Forecast 2020 to 2029"
     publishedDateTime: 2020-08-19T18:00:00Z

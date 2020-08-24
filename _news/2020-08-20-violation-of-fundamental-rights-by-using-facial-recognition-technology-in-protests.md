@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Owaisi to file bill in Lok Sabha seeking ban on facial recognition technology"
+    excerpt: "AIMIM chief Asaduddin Owaisi said on Monday that he will file a private bill in the Lok Sabha requesting a ban on the usage of facial recognition and remote biometric surveillance technology. The Hyderabad MP pointed out that according to the Supreme Court,"
+    publishedDateTime: 2020-08-24T08:32:00Z
+    webUrl: "https://www.newindianexpress.com/states/telangana/2020/aug/24/owaisi-to-file-bill-in-lok-sabha-seeking-ban-on-facial-recognition-technology-2187570.html"
+    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2020/aug/24/owaisi-to-file-bill-in-lok-sabha-seeking-ban-on-facial-recognition-technology-2187570.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/aug/24/owaisi-to-file-bill-in-lok-sabha-seeking-ban-on-facial-recognition-technology-2187570.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 71
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/21/w600X390/Asaduddin_Owaisi_PTI.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Global Facial Recognition Market Forecast 2019-2028"
     excerpt: "KEY FINDINGS The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security,"
     publishedDateTime: 2020-08-20T00:12:00Z

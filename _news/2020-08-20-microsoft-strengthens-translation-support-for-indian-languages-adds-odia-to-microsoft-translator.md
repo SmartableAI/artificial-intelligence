@@ -8,7 +8,7 @@ ampWebUrl: "https://orissadiary.com/microsoft-strengthens-translation-support-fo
 cdnAmpWebUrl: "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/microsoft-strengthens-translation-support-for-indian-languages-adds-odia-to-microsoft-translator/amp/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 960
     height: 640
     isCached: true
-
-related:
-  - title: "Microsoft has a plan to try to improve Azure outage assistance"
-    excerpt: "And its Azure Support account on Twitter tries to guide users to look ... \"We are also in the early stages of expanding our use of AI-based operations to identify related impacted services automatically and, upon mitigation, send resolution communications ..."
-    publishedDateTime: 2020-08-19T16:48:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/08/19/1c3ed497-d8d2-4f60-877a-4592d3251668/azureoutages.jpg"
-        width: 884
-        height: 441
-        isCached: true
 
 secured: "xjMuph96o8cF8ApYWesCwo2vzuc5lI0v+uBd9Bv52Abr32L5Zfpuy+sWrXmEnIzWc8CPBTaKmx746N3IspV8hGVEA7SWFIDrnVVJAOO/DgkkcPDFrWGU8ItcD1GkMsUAlCYDYBYj2vFT28Ind7XBx0Y7M9RLnlfIYGxEUalfeJeq0lTD+I6LQpmMwPcmKLj44RIRrhyzuJrNEwNtyAKTw9M3ivXPVADRILFO1w2l3nNhO04UCygpyKrkLz3K841QvPgdMoCBa864jSp7gBFmcfU4XSuUvRAdwvAwnQseEBj71uu3+y0GvRDdpswEjmtm3lpi11J2UOd0+1KrwtGI2zFbUkpJ5Ib1cV4CnpCII6er7EHGcj6z8U61ATH2yHcjCO5qMIdCjAqVly4rZucnA1dju2xfV5wPQMS4sLU9Aj/97vahESQ3KH/RLOqgVGqAKcece53erQ9CBmppAi65bkLbDTcec7vuVSE6BcTi422qUjobS2MD7/LI0BLkq9hRayIvBJ4T+Dd183VkzQ4N/w==;qFvvw7EREXlrBefMD+tm/A=="
 ---

@@ -25,17 +25,6 @@ images:
 
 related:
   - title: "Self-Driving Shuttle Service Launched To Transport Senior Citizens And Underserved To Detroit Hospital"
-    excerpt: "PRNewswire/ -- In a Detroit first, a self-driving, accessible, paratransit shuttle is being deployed to transport senior"
-    publishedDateTime: 2020-08-19T15:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital-1029517471"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital-1029517471"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital-1029517471"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-  - title: "Self-Driving Shuttle Service Launched To Transport Senior Citizens And Underserved To Detroit Hospital"
     excerpt: "Shuttle connects The Village of Brush Park Manor Paradise Valley and Brewster Homes to Detroit Medical Center Heart Hospital, features ADA compliant wheelchair ramp."
     publishedDateTime: 2020-08-21T18:59:00Z
     webUrl: "https://detroit.cbslocal.com/2020/08/21/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital/"

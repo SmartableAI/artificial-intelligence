@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.wsj.com/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400</loc>
+    <lastmod>2020-08-24T02:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace-2020-08-21</loc>
+    <lastmod>2020-08-24T00:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2019-2026-2020-08-24?mod=mw_quote_news</loc>
     <lastmod>2020-08-23T23:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -177,6 +189,12 @@
   <url>
     <loc>https://www.techrepublic.com/article/dark-data-may-be-tamed-with-natural-language-processing/</loc>
     <lastmod>2020-08-21T08:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/mobius-logic-brings-drone-flight-management-to-microsoft-azure-1029524393</loc>
+    <lastmod>2020-08-21T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -399,6 +417,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/the-fastest-driver-in-formula-1/</loc>
     <lastmod>2020-08-20T06:03:20-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/20/develop-a-conversational-ai-road-map-to-drive-your-company-forward/</loc>
+    <lastmod>2020-08-20T05:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -757,12 +781,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600</loc>
-    <lastmod>2020-08-18T11:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/</loc>
     <lastmod>2020-08-18T10:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -842,6 +860,12 @@
   </url>
   <url>
     <loc>https://www.zdnet.com/article/informatica-buys-ai-startup-for-entity-and-schema-matching/</loc>
+    <lastmod>2020-08-18T06:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click</loc>
     <lastmod>2020-08-18T06:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1531,8 +1555,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/video/singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai/</loc>
-    <lastmod>2020-08-13T01:30:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/article/singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai/</loc>
+    <lastmod>2020-08-13T00:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2181,6 +2205,12 @@
   <url>
     <loc>https://www.research-live.com/article/news/new-funding-for-racial-justice-ai-and-data-projects/id/5072562</loc>
     <lastmod>2020-08-10T02:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.japantimes.co.jp/opinion/2020/08/10/commentary/world-commentary/economic-effect-artificial-intelligence</loc>
+    <lastmod>2020-08-10T02:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

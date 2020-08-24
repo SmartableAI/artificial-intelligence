@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 792
         isCached: true
-  - title: "L.A. boutique sees soaring sales for Michelle Obama’s ‘VOTE’ necklace after DNC speech"
-    excerpt: "“When the speech started, you had to squint a little ... Obama has continued to use her recognition and her style of politics in her post-White House years, perhaps with more fashion flair ..."
-    publishedDateTime: 2020-08-19T16:00:00Z
-    webUrl: "https://ktla.com/news/local-news/l-a-boutique-sees-skyrocketing-sales-for-michelle-obamas-vote-necklace-after-her-dnc-speech/"
-    ampWebUrl: "https://ktla.com/news/local-news/l-a-boutique-sees-skyrocketing-sales-for-michelle-obamas-vote-necklace-after-her-dnc-speech/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/l-a-boutique-sees-skyrocketing-sales-for-michelle-obamas-vote-necklace-after-her-dnc-speech/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 36
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/08/hypatia-h_2084b04f9cb5fa6126a0808a362dfec2-h_a555d62465257ed4f3b32fe1796d5fa4.jpg"
-        width: 2811
-        height: 1582
-        isCached: true
 
 secured: "FLGKc4zNR3M31r83X+LuN6U3Q+qVPyny6S0Zd2q7nRadLxFgABDRbycVobuC3zpLN/VNljClhZ4MvLbZEUfDK4q+0u/o3cKTDuq8ot1ahaFLACZT+cbZVdwz8p10uCIQ5nNv+1lDBnWUBp1m86wpTk6cc4jB1YAn91wOnlcZLJcvj4Kdv3/2AhDpyuFgErgLDAM/kdW9RTj+MIdNfot8spz8YIzP/E1ifEcL+ommX34v5inPVTDwT6neA6V3mUX4FDgbNLEOVeYeCdqGvNSfk/brKQh2P0EwtHlvoqUrLFYgHhn9CpMa7XMsNB/BBDzm4ZWTfVAvlHqwf9j9aymYQg==;H8mZyc7O51BDf9hIRTvyyQ=="
 ---

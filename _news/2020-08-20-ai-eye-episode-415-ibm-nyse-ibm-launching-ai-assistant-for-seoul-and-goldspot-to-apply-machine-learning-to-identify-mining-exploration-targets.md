@@ -52,6 +52,15 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "IBM Collaborated with the City of Seoul, South Korea to Develop an AI-based Virtual Assistant for its Citizens using IBM Watson"
+    excerpt: "IBM and the city of Seoul, South Korea, have launched an AI-based virtual assistant for Seoul citizens using IBM Watson Assistant. In the future, the results will be utilized to help develop various policies in Seoul City."
+    publishedDateTime: 2020-08-24T08:49:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 19
 
 secured: "4UOI4bTMhA40ep6uNnEnUOf4LU+M0gQkkGNoljwgOBLi7L9AD9Ps/ONlvo7hZ84aZd9JlW9wiQdN9MygoO7zMGeayBf/FsJJJhGzwSpynUJzPwg0BlviNwaD8zbQDWOPedv9H7SpsrHPPTZEPerZzsbhgRaNnsmGxWIe7GO6gKFQNA4Yj61JO2rtuFIT2dE1Y4VBWPCUtwKciAjDA6gt0FS3JDCZQo/3JcNC8RR6REx4c89u0aJ+9I12fMbmQORaj/kgTq74Vb2aXFZtnzLnI/cCKrD/u1BnC8Whm86/ZA+FeIuGQryMDruKuKQeM5n5tocJuhOr/+TDSZPBRiQkQg==;kMtRH4tOCMohWtyR7Ig+rA=="
 ---

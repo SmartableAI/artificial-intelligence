@@ -8,7 +8,7 @@ ampWebUrl: "https://detroit.cbslocal.com/2020/08/21/self-driving-shuttle-service
 cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/08/21/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital/amp/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Shuttle Service Launched To Transport Senior Citizens And Underserved To Detroit Hospital"
-    excerpt: "PRNewswire/ -- In a Detroit first, a self-driving, accessible, paratransit shuttle is being deployed to transport senior"
-    publishedDateTime: 2020-08-19T15:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital-1029517471"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital-1029517471"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital-1029517471"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
   - title: "Navya pilots self-driving paratransit shuttle on Detroit streets"
     excerpt: "A self-driving paratransit shuttle pilot is being deployed to help senior citizens in Detroit. Last year, French company Navya received a mobility grant from PlanetM, the Michigan Economic Development Corp."
     publishedDateTime: 2020-08-19T17:35:00Z

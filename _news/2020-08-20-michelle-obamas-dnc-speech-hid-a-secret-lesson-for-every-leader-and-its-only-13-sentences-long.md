@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2020/08/20/michelle-obamas-dnc-speech-hid-a-secret-lesson-for-every-leader-and-its-only-13-sentences-long/amp/"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "L.A. boutique sees soaring sales for Michelle Obama’s ‘VOTE’ necklace after DNC speech"
-    excerpt: "“When the speech started, you had to squint a little ... Obama has continued to use her recognition and her style of politics in her post-White House years, perhaps with more fashion flair ..."
-    publishedDateTime: 2020-08-19T16:00:00Z
-    webUrl: "https://ktla.com/news/local-news/l-a-boutique-sees-skyrocketing-sales-for-michelle-obamas-vote-necklace-after-her-dnc-speech/"
-    ampWebUrl: "https://ktla.com/news/local-news/l-a-boutique-sees-skyrocketing-sales-for-michelle-obamas-vote-necklace-after-her-dnc-speech/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/l-a-boutique-sees-skyrocketing-sales-for-michelle-obamas-vote-necklace-after-her-dnc-speech/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 36
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/08/hypatia-h_2084b04f9cb5fa6126a0808a362dfec2-h_a555d62465257ed4f3b32fe1796d5fa4.jpg"
-        width: 2811
-        height: 1582
-        isCached: true
   - title: "Michelle Obama's DNC Speech Is a Powerful Example of Emotional Intelligence"
     excerpt: "In return, she provided a speech that was highly effective, compelling, and drew on singular emotional intelligence to drive home her points. Here's a look at how she did it. As you might expect, a lot of harsh things were said about president Donald Trump throughout the evening."
     publishedDateTime: 2020-08-19T21:54:00Z

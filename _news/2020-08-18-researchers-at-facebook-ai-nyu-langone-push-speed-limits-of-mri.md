@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI"
-excerpt: "The results of the joint effort, which originated at Facebook, show that accurate MRIs can be produced more quickly as AI functions with less data, researchers said."
-publishedDateTime: 2020-08-18T18:00:00Z
-webUrl: "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
+excerpt: "Researchers at Facebook Inc. and NYU Langone Health said Tuesday that a two-year experiment demonstrates how artificial intelligence can produce a ... at NYU Langone Health and a co-author of the research. “Our goal is a five-minute MRI."
+publishedDateTime: 2020-08-18T13:06:00Z
+webUrl: "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 640
     isCached: true
 
-secured: "UuX4hZMPmXPWTBS6wJR1SMsuh/zTDTI6sgdruIlldaP4FLK9u1SxghJ/GypiS1Vyono/x7h2/Mv8I2vblkNYSLF298JwIdLrwqWtXGEUtUdkuBeIsLEpWMtdtUsHQ5BnmZwYIdsnn5C0im8ItY8gLrnW68hyP0Lo2Hm/xwj10iMalbqhEj8g4o2vDBT3e6BBlp/TsCbngvqeYfhXXBjm9IOtrdXGGyAl1Ecm1w+EVEVQWP5hW5xN4GTx7dh7/8aRxsxoHBr6MxtfjIpBVj1XZ5NKIf3vo0ZbbtaF9Xxc6AnwmTC8Jj/HQ9bhCjc2f5w9vnUCcZV1JX26feb4a/dNww==;+ZKQulBAHKlpf2tdTBhX5Q=="
+secured: "LNutm2GCqc7sRvNjEokzmDtPNiLIgNpOkaeMUX6mZOjdQAfnvmhjCqEiTWl/5OIDd5IR0pv0ZdSPtGi0do4Is69Ex5xE5QIRBcnjD7RwRWD+gkzHc1I6/iIVq9YQ1qGOVT53gyZ4Lmu4HA+HwJd0+QT/twb/OOEjkkENXfca1ljANPrSIGs70Xx310Emo9VVvOCYeeSLaGSd5ISJ4+q/8d9XmKi0ELH838I1BRbkklKu3AlvFy8E6SUhq2U4iY04fU+e0r51AxaC5CHDlcMn7jwbebMWWhMRbZp7RuH2s3yC5XNSS/8BfVzNz8S+rzdSPltcN26wmgjmIdzMYpJZmg==;OHj547oXjKM0qN29rD7DyQ=="
 ---
 
