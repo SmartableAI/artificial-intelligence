@@ -8,7 +8,7 @@ ampWebUrl: "https://news.sky.com/story/amp/are-driverless-cars-coming-to-british
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/are-driverless-cars-coming-to-british-roads-12052661"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Driverless cars: coming sooner than you think"
-    excerpt: "The higher levels, 4 and 5, are truly driverless, with the former being ... “If you want Artificial Intelligence (AI) in autonomous cars to perform really well then it has to be at the ..."
-    publishedDateTime: 2020-08-19T11:40:00Z
-    webUrl: "https://www.telegraph.co.uk/cars/features/driverless-cars-will-life-imitate-art-comes-safety/"
-    ampWebUrl: "https://www.telegraph.co.uk/cars/features/driverless-cars-will-life-imitate-art-comes-safety/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/cars/features/driverless-cars-will-life-imitate-art-comes-safety/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/cars/2020/08/21/0820_driverless_carsmedium_lead_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7PSsAIeVWg5VsMggdZY7tkY.jpg"
-        width: 2879
-        height: 1799
-        isCached: true
 
 secured: "43niWCI+ueAz6WwuXAMdOMjifeo15/PjIH1xQfcbj7Xl33bPAzo3iu6GqGV4DlI3NLWMc/LvF3AeQ7PZgwcdJj3nR5yfLMyL8j2bOPqsZjZhJ01OktsbF6LNUGUUayEvay8ioJ2u1LC4w7W2ImQFDzezOaZ9knZZ94LlZMQ7risdWoj/97/rd4hHrZA31EMINezJVAn+optvFcz3mwPz+DH+ulRfe4pJxADSrw33pjQWUlUbJK55YuA11YNEatRDM/Z3WgsL2hPSOOijPVdpsSkzeDZWdRbMQ5dDtT+F1T4cKFVOltVxQoNT71/n9Kxb1NbN+dGJXuxlJ9zLVHc1orh/U4b5tn4JC1GSDZAsLWGtWalIwjzbEpJmeXPz+NM32Vf/a9Knp1pSAms0aJcmMd5M3wLJ5qE9rP4R5xLUVFIvgyOH44TNQPRV/PB/mKOCifueSwjrcDKGG40pd1bLGhbLVSXsMH9OrVg6gwoNlgCPKRDAd046vsTqrimTxFwSpBKCbzaJqXvuWL2SJyEM3w==;YgqIGGsgDOltYuJbgFy/LA=="
 ---

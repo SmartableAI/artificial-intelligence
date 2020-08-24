@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-20T13:03:20Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/the-fastest-driver-in-formula-1/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: AWS
@@ -26,24 +26,6 @@ images:
     width: 1000
     height: 562
     isCached: true
-
-related:
-  - title: "Vroom vroom: AI reveals F1’s fastest drivers of the past 40 years"
-    excerpt: "F1 and AWS have used an algorithm to rank the fastest drivers of all time, but not everyone is convinced by the system's calculations."
-    publishedDateTime: 2020-08-19T11:38:00Z
-    webUrl: "https://thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-19T105234.562-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
 
 secured: "sD2SVxRuAvhAOx6nF3SAOWm/UlrF0HOodwOMlp2dBZ65K3/KHuQ/aqfLNxAUjYlDcGvUyLpmPAIj+k8lMXIZRy1gRTW0+aiai28F/lG+Ve95fhrlMyaAyfiU9EUW0cMeYPLWGoWG+JLwJdMHckMkCo6aI8hdNb7HORRdTFPe/gRyL4oRSVmYxm+tbf3mafLUpjqA1tZvJUmNo3XiPa+lgdMhuK4OP7H4iYbjzM0x5m4/kl+lSw+vyBBhORPKgnM81iyNyvrKjzT+En54Tka7kWTMoNrqaGP24aNEXYwtKDSTphbyyej7nSonKyKePJz/7mVHtUKGx3ByHa4HcEHTIA==;mwNtn49WlZc2R7j1jM5Q+Q=="
 ---

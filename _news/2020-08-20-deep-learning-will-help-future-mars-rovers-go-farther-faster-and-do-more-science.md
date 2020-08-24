@@ -38,20 +38,6 @@ related:
         width: 1440
         height: 683
         isCached: true
-  - title: "Deep Learning to Help Mars Rovers Go Farther, Faster"
-    excerpt: "NASA's Mars rovers have been one of the great scientific and space successes of the past two decades. Four generations of rovers have traversed the red planet gathering scientific data, sending back evocative photographs,"
-    publishedDateTime: 2020-08-20T14:42:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21172263/deep-learning-to-help-mars-rovers-go-farther-faster"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/08/16x9/Screen_Shot_2020_08_20_at_9.18.41_AM.5f3e86585c82c.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "KildUaxpylt22lIpNvX4XGio5z9vJPd84uxfXrjFPQvvxUADb35jSpyVTOiijeKapsLIBvmM1FJcvBq84orjdXF9CzNiJ41iSGIXPQx0UINF5a+Qrpel3rxZc9TA+ldd9oGE6m1RGebEKN9vuSHNz1syi4ceOuQh9CIm9RuddSRH1wDR4Uoz2Y1vNwOFbDacoAbOtLssH+u6mTw7POGbysi9mLsmm56Nmv9DPyxc+3WrnXj01bKB8+atjky5CJgSCBoc12tnWREr1O3Xe6Orb2XLCXAd8GCz4Xlzyj7zzZz2QdHvMI1eU/Ayt3mWoiKm2PyjO5eqJjvnYjtYcTY25Q==;TP5YfeSciF5mgGYYDmRFGQ=="
 ---

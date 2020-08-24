@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.gainesville.com/story/opinion/2020/08/24/uf-ifas-is-positioned-to-make-great-leaps-forward-with-the-aid-of-the-university-ai-initiative/3410696001/</loc>
+    <lastmod>2020-08-23T21:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enablement-for-enterprises-startup-raises-100-million-series-d/</loc>
+    <lastmod>2020-08-23T21:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/</loc>
     <lastmod>2020-08-23T19:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,6 +21,12 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-1029525962</loc>
     <lastmod>2020-08-23T18:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/nsw-government-taps-into-ai-and-satellite-data-for-bushfire-detection-and-prevention/</loc>
+    <lastmod>2020-08-23T17:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -367,6 +385,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/the-fastest-driver-in-formula-1/</loc>
+    <lastmod>2020-08-20T06:03:20-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/</loc>
     <lastmod>2020-08-20T04:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -501,12 +525,6 @@
   <url>
     <loc>https://www.zdnet.com/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/</loc>
     <lastmod>2020-08-19T09:48:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://phys.org/news/2020-08-deep-future-mars-rovers-faster.html</loc>
-    <lastmod>2020-08-19T09:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -799,13 +817,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
-    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
+    <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -843,6 +855,12 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
+    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
