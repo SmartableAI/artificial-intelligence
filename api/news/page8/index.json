@@ -2,6 +2,56 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-08-17-ibm-unveils-its-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing.md",
+      "title": "IBM unveils its first seven-nanometre chip for next-generation hybrid cloud computing",
+      "excerpt": "IBM has announced the tenth generation of its flagship Power processors, a smaller, faster, more energy-efficient seven-nanometre chip that businesses can expect to deploy inside their data centres in the second half of 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/b91425a7-67c3-4dd8-b476-c8d464ac9dfd/power-10-08-wafer.jpg",
+          "width": 1152,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/",
+      "publishedDateTime": "2020-08-17T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-how-to-legally-fight-covid-19-with-ai.md",
       "title": "How to legally fight COVID-19 with AI",
       "excerpt": "Tonya Hall sits down with Hon. Katherine B. Forrest (Fmr.), partner at Cravath, Swaine & Moore, to learn more about how individuals can protect their 1st, 4th, and 5th Amendment rights while combating COVID-19.",
@@ -1085,57 +1135,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast.md",
-      "title": "AI In Computer Vision Market Analysis 2020-2023, Growth Rate Evolving Technology, Size, Share, Data Analysis, SWOT Analysis Forecast",
-      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

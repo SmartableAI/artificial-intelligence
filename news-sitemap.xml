@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/deep-learning-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-08-24</loc>
+    <lastmod>2020-08-24T02:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wsj.com/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400</loc>
     <lastmod>2020-08-24T02:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -193,12 +199,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/mobius-logic-brings-drone-flight-management-to-microsoft-azure-1029524393</loc>
-    <lastmod>2020-08-21T08:15:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.crowdfundinsider.com/2020/08/165566-artificial-intelligence-in-banking-hong-kong-academy-of-finance-publishes-report-on-ai-and-fintech/</loc>
     <lastmod>2020-08-21T07:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -325,8 +325,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.goodmorningamerica.com/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044</loc>
-    <lastmod>2020-08-20T10:06:00-07:00</lastmod>
+    <loc>https://abcnews.go.com/GMA/Culture/kamala-harris-shines-spotlight-trailblazing-black-women-2020/story?id=72492044</loc>
+    <lastmod>2020-08-20T10:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -663,6 +663,12 @@
   <url>
     <loc>https://www.openpr.com/news/2116297/machine-learning-in-retail-market-to-impressive-growth-2025</loc>
     <lastmod>2020-08-19T02:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.gizmodo.com.au/?p=1256892</loc>
+    <lastmod>2020-08-19T02:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1555,8 +1561,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai/</loc>
-    <lastmod>2020-08-13T00:49:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/video/singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai/</loc>
+    <lastmod>2020-08-13T01:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2017,7 +2023,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cmo.com.au/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/</loc>
+    <loc>https://www.reseller.co.nz/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/</loc>
     <lastmod>2020-08-10T22:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2187,6 +2193,12 @@
   <url>
     <loc>https://www.forbes.com/sites/adrianbridgwater/2020/08/10/ai-needs-to-learn-multi-intent-for-computers-to-show-empathy/</loc>
     <lastmod>2020-08-10T04:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/10/finding-the-best-online-computer-vision-courses-for-2021/</loc>
+    <lastmod>2020-08-10T04:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

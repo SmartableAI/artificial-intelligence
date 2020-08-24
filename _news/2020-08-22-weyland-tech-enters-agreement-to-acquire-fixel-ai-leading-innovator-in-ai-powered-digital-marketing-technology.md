@@ -29,19 +29,14 @@ images:
 
 related:
   - title: "CEOs of ServiceNow, Weyland Tech, CloudMD, and Jumia Discuss Innovation in Cloud, Telemedicine, AI, Ecomm & Fintech:"
-    excerpt: "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights from leaders at ServiceNow, Inc. (NYSE:NOW), Weyland Tech (OTC: WEYL), CloudMD (OTC: DOCRF) and Jumia Technologies (NYSE: JMIA)."
-    publishedDateTime: 2020-08-20T15:23:00Z
-    webUrl: "https://apnews.com/23c39c6175e11f35b0cb61b0b2eded76"
+    excerpt: "On Journey to $10 Billion in Cloud Revenue - Destiny to Become Defining Enterprise Software Company of 21st century” Earnings call highlights:  Weyland Tech (OTC: WEYL)“The Shopify of Mobile in SE Asia ”w $40+ mil revenues” August 20 12:30EST investor livestream:  CloudMD (OTC: DOCRF): \"The Future of Telemedicine” Video:  Jumia Technologies AG (NYSE: JMIA) CEO Sacha Poignonnec: \"E-Commerce & Mobile Payments Adoption Accelerating in Africa” Earnings call highlights:  Highlights of CEO comments from latest earnings calls and investor conferences: ServiceNow,"
+    publishedDateTime: 2020-08-20T15:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
   - title: "ARK Fintech Innovation ETF has Surged Over 60% in 2020, Other Similar Digital Tech Investments Performing Well during Pandemic"
     excerpt: "ARK Fintech Innovation ETF has surged over 60% in 2020, other similar digital tech investments performing well during pandemic."
     publishedDateTime: 2020-08-23T20:30:00Z

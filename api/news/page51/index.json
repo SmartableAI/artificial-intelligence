@@ -2,6 +2,107 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-07-14-study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic.md",
+      "title": "Study finds 195 robot deployments worldwide in response to the pandemic",
+      "excerpt": "A new preprint study identified over 195 robot deployments launched in response to the ongoing novel coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/01/amazon-scout.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/amp/",
+      "publishedDateTime": "2020-07-14T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware.md",
+      "title": "OpenCV AI Kit aims to do for computer vision what Raspberry Pi did for hobbyist hardware",
+      "excerpt": "A new gadget called the OpenCV AI Kit, or OAK, looks to replicate the success of Raspberry Pi and other minimal computing solutions, but for the growing fields of computer vision and 3D perception. Its new multi-camera PCBs pack a lot of capability into a small,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/oak-opencv.gif",
+          "width": 670,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware/amp/",
+      "publishedDateTime": "2020-07-14T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-should-robots-pay-taxes.md",
       "title": "Should Robots Pay Taxes?",
       "excerpt": "Federal taxes are due this week in the US. But what about our synthetic coworkers? Should they cough up, too? Jordan Harrod, a Harvard-MIT PhD student, has something to say on the subject.",
@@ -1070,106 +1171,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it.md",
-      "title": "5 reasons AI isn't being adopted at your organization (and how to fix it)",
-      "excerpt": "In both the public and private sectors, these are the barriers to meaningful adoption of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/03/30/81ed5293-9a77-4ace-8a37-5ee3bb6e7441/ai-ml-3.jpg",
-          "width": 800,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it/",
-      "publishedDateTime": "2020-07-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-supermarket-chain-mercadona-faces-gdpr-probe-over-facial-recognition-system.md",
-      "title": "Supermarket chain Mercadona faces GDPR probe over facial recognition system",
-      "excerpt": "Spanish supermarket chain Mercadona is under investigation by the country’s data protection regulator over the use of a new facial recognition system in 40 of its stores. The company introduced the AI-powered facial recognition system on 2 July in the cities of Zaragoza and Mallorca,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1594717953/itpro/2020/07/shutterstock_mercadona_supermarket.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp",
-      "publishedDateTime": "2020-07-14T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Intelligent Farming Robot Company Root AI Closes $7.2 Million In Funding"
-    excerpt: "Intelligent farming robot company Root AI announced it has raised $7.2 million in a seed round ... “Beyond that, farmers could use the artificial intelligence on the platform to start driving a lot more insights on the farm, so that every single system ..."
-    publishedDateTime: 2020-08-19T17:52:00Z
-    webUrl: "https://pulse2.com/root-ai-7-2-million-in-funding/"
-    ampWebUrl: "https://pulse2.com/root-ai-7-2-million-in-funding/amp/"
-    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/root-ai-7-2-million-in-funding/amp/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 53
 
 secured: "HY4zNDuzciou+XiVbQNicU7QN+qQ/uEkfizcVpC9EQZaSkl29Gdo+SSuZYpT61igywtE9Qqyt5WQ8P6UFHWWpqMfX0u0rnq+Ld56cxPS4FN3Q/s7z7/320ZqIY9N01BptwZ8pwf/9M7kYfioD6Y5q7t08SZ9PmSMmeUH6J6vi3HCBHMw4QLh4B2sYbO+erru4jjub0eUpF5qJKXE4V9ylBS92n8wMn29rM9QXxoeXo7ZcqrGKVub8Si9Vuw9BYd2Vn9ePaAdn+hyebcIUTZuOoA10+TIu/Vpouvb7POvAR4drJCDX3v8LoQe/dQ6fENqaf4uW4JxfVQ3vz5jDcVQjnZOJF5Ev2a0Sit8NHAb9n9KzO22PvcUT8TrpplDOpkOxfN2xVNR8YEEeQm3t83nUerl+I4VVkwo8+qomBTgjR8LpvqO8YVnJK7vj0Cqmqw1Xv7WieenH0Ey87frPQDLB0AzpP4QIvx3tvSE/M8KU4krQbMntFaNMVKr8u4z2l/xGDLhMl5+II4f94LugBeS3g==;w+/X27XYvXGc6YH05nM8og=="
 ---

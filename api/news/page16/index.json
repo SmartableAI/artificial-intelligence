@@ -2,6 +2,88 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-08-09-facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams.md",
+      "title": "Facial Recognition Could Help to Stamp Out Bitcoin Social Media Scams",
+      "excerpt": "Facial recognition can help prevent future Bitcoin scams like those that hit Twitter and YouTube, said Rod Hsu, president and co-founder of virtual currency platform Coincurve. Du",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMmQxMjRlYjQ2NzYzNjFjNTQ4NmI0OTg4OTdjMTkxOC5qcGc=.jpg",
+          "width": 370,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams/amp",
+      "publishedDateTime": "2020-08-09T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-09-china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.md",
+      "title": "China begins testing robotaxis for hire amid race against US tech dominance",
+      "excerpt": "Autonomous hired cars are considered ideal for accumulating driving time and the data cache needed for cars to learn and become safe enough.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asianage.com/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200809162842.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.asianage.com/amp/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html",
+      "cdnAmpWebUrl": "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html",
+      "publishedDateTime": "2020-08-09T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Asian Age",
+        "domain": "asianage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-09-webinar-invite-how-virtual-reality-is-reimagining-healthcare.md",
       "title": "Webinar Invite: How Virtual Reality Is Reimagining Healthcare",
       "excerpt": "presents for the healthcare industry. (Register to be a part of the session by clicking here!) As the Chief Technology Officer at FundamentalVR, Vicky Smalley has extensive experience working with artificial intelligence (AI) and has a passion for big data ...",
@@ -1059,98 +1141,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce.md",
-      "title": "Hypotenuse AI wants to take the strain out of copywriting for ecommerce",
-      "excerpt": "Imagine buying a dress online because a piece of code sold you on its ‘flattering, feminine flair’ — or convinced you ‘romantic floral details’ would outline your figure with ‘timeless style’. The very same day your friend buy the same dress from the same",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1158990325.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/amp/",
-      "publishedDateTime": "2020-08-07T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape.md",
-      "title": "Google's AI thinks women wearing masks have mouths covered with duct tape",
-      "excerpt": "According to a study, the visual AIs of Microsoft, Google and IBM have a lot to do to catch up with the real world. Some of the study's results are truly disturbing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/",
-      "publishedDateTime": "2020-08-07T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

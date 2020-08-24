@@ -69,19 +69,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2029"
-    excerpt: "Artificial Intelligence in Healthcare Market Global Trends Market Share Industry Size Growth Opportunities and Market Forecast 2020 to 2029"
-    publishedDateTime: 2020-08-19T18:00:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266141049/artificial-intelligence-in-healthcare-market-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-2020-to-2029"
+  - title: "Artificial Intelligence in Medical Imaging Market 2020 Market Research with Size, Growth, Manufacturers, Segments and 2026 Forecast Research"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Artificial Intelligence in"
+    publishedDateTime: 2020-08-24T11:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-2020-market-research-with-size-growth-manufacturers-segments-and-2026-forecast-research-2020-08-24"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 18
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1597838421142.jpg"
-        width: 630
-        height: 420
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "+dT6QBEWIQjt4OgSCj35fxv/Ok/0pHaWXYKyl0IsAoFE87mg9pe4dM9+r8l+D/DTeOB4JGaOdn1ijJ9u27D+b6VIGl6/PY3sfUunednBVVWvhYhz/WtQiM4k7hnoIRAX6sOZeHTxEEWx8MvqAH5Y9iw3KJ9ITCUin4frBlGNHb0Fxc9j15c5LgD7Ancki42Dp0FIfbrNjocOLqd3gggJAgXzXTCaxnKDMk4lJ1bLCr4qlj0jUHp9LqmfV/bQPUIV0OdNFu2H/qfCLDsSK4cTdlsFTFHkahv0Gr1vutwj4AEI5OgUAYGN2Zqw7HMtL8fI1bHjN21ELV9ZEvmAns9zgA==;0BrGjJH9X8F5Gigmxce1Kw=="

@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "UK will take a crack at regulating future self-driving car systems"
-    excerpt: "The idea is to get ahead of future technology that could start rolling out as soon as next year. Numerous questions remain surrounding future self-driving cars, and although we're still miles away from seeing such a machine deployed,"
-    publishedDateTime: 2020-08-19T17:47:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/future-self-driving-car-systems-uk-regulation/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/future-self-driving-car-systems-uk-regulation/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/future-self-driving-car-systems-uk-regulation/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Full Self-Driving Cars Are Still A Long Way Off – Here’s Why"
     excerpt: "Tesla﻿ makes a lot of noise about its self-driving abilities, and contender Lucid is claiming it will go further with its Air. But is this really all hype, and will we ever really be able to sit back and let the cars do all the work?"
     publishedDateTime: 2020-08-22T09:33:00Z
