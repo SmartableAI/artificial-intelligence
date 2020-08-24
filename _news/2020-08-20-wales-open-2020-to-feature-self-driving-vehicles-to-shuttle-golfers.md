@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Wales Open 2020 tees up self-driving vehicle to shuttle golfers from clubhouse"
-    excerpt: "European Tour Pro Golfer Ross Fisher stands next to the Aurrigo x Vodafone Driverless Shuttle in Celtic Manor (Photo: Aurrigo/Vodafone) Some of the world’s best golfers will swap their buggies ..."
-    publishedDateTime: 2020-08-19T23:35:00Z
-    webUrl: "https://inews.co.uk/news/technology/wales-open-golf-tournament-self-driving-vehicle-583021"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 20
-    images:
-      - url: "https://i.inews.co.uk/content/uploads/2020/08/PRI_161652189.jpg"
-        width: 1654
-        height: 1010
-        isCached: true
   - title: "How will self-driving cars and autonomous vehicle technology transform society?"
     excerpt: "Autonomous Driving is the buzzword that brings more excitement than disbelief. Read how the five connectivity requirements for V2X autonomous vehicle technology will redefine the safety, and user experience of the new age autonomous vehicles."
     publishedDateTime: 2020-08-22T05:34:00Z

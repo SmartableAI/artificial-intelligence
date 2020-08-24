@@ -24,6 +24,22 @@ images:
     height: 683
     isCached: true
 
-secured: "gFOUmHU1mxiKMKST0ecNmcKuuW5zK72bTYE9ByTkoGQKE3lGvVrMAygE4xhGtwJcb5FX0ebu7vcg34H6AGYqzdIi+7xj5MeHYZEzazO7/FSTd9jaLtpJQ1333OknXqjo1BxedElEXaKi6rlD9XScRShV1UfFiPUXDV75QO74foip7l6IcD2KRO+Uvi+r5RgpLVBFsplPCrRDN4juI7+Iu+tMk7+d3dY8nZJLKcWtPPBnJKHE32tgyREKvhZklBGkUxOr/+To3F+FKixMfq7JF9Y+YfDZIlmnc0hNfkrTs3IE7IcT1CLNW8nmgW9VRK/t0zr08VAjqbNYYrlzvGz6jw==;XsbOlVT5UwWlAJy3hBPR+A=="
+related:
+  - title: "3 awards will support Accelerator R&D for Medical Treatment and more"
+    excerpt: "U.S. Department of Energy awards announced in July will advance Lawrence Berkeley National Laboratory (Berkeley Lab) R&D to develop a more effective and compact particle-beam system for cancer treatment,"
+    publishedDateTime: 2020-08-24T15:50:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/dbnl-3aw082420.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://eurekalert.org/multimedia/pub/web/241070_web.jpg"
+        width: 720
+        height: 491
+        isCached: true
+
+secured: "EQdTnxBwx+nYS9oQusv1ag1//ydlYenmixThdtSFY62pnpX8CsFb442nc9jiU/cyg6uTeNVdRO44mxsDFXPqAR99cdyPzYT7r8VrriXW9cSCRAabkzng0oNJQwCiTZjqrvFPEl54QkFUu9K5ssK7zunPxtpCNQbw2TY8Yxk1z/omRjssxUPH9+cbUwEqz4JWpW90GDU/GRAF0PsXbmMDs6Dr6JuWzTN1BnaFo6A8aShgOOu7pYCwi/cp3PQj/H2ecqw2G427AdfCzgoz3BHuQVWu/yOR4cd3gSdtd/fSJygbdOtAONK5Q/27gO71IdWhsx3ODeuoWGS/uuscgQ/tSifPMQkvD0KGZqMvbNtOfn0vc3d7zFluctMSE9TBNqewEa1Uq6ppjavusDUsYc/9b8ueYtu+4ECTNXCN+lb4ZacsJJcyanNEOOJEvSxDvKt7emhBfvUmBfK5Mbr0qjZJqtU7uGmryjJrzMd9F3tubK1NMlGtqrJC+aQdu6mZBZcEo8J5dM2+T51Narh4PwF0JA==;/ODuBbRHaqiXuHhdQyD/Eg=="
 ---
 

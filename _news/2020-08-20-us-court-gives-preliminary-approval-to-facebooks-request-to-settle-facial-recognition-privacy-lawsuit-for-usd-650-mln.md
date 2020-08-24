@@ -82,20 +82,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Global Facial Recognition Market Forecast 2019-2028"
-    excerpt: "KEY FINDINGS The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security,"
-    publishedDateTime: 2020-08-20T00:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-market-forecast-2019-2028-2020-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face masks give facial recognition software an identity crisis"
     excerpt: "As tech firms scramble to keep up with reality of coronavirus, some experts say users must change"
     publishedDateTime: 2020-08-21T15:56:00Z

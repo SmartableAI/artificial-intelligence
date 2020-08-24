@@ -3,13 +3,10 @@ category: news
 title: "World’s largest chip gets beefier: 850 thousand cores for AI"
 excerpt: "Announed at the Hot Chips 2020 conference, the new chip — which is as large as a single 300-mm wafer — packs over two times more transistors as well as a whopping number of AI-optimized cores. The Cerebras Wafer Scale Engine Generation 2 has a die size of approximately 46,"
 publishedDateTime: 2020-08-19T19:30:00Z
-webUrl: "https://www.techradar.com/au/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
-ampWebUrl: "https://www.techradar.com/au/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
+webUrl: "https://www.techradar.com/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
+ampWebUrl: "https://www.techradar.com/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
 type: article
-quality: 104
-heat: 114
-published: true
 
 provider:
   name: TechRadar
@@ -29,24 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "World's Largest Computer Chip Getting a Major Performance Boost"
-    excerpt: "“It has 850,000 AI-optimized cores. It contains 2.6 trillion transistors.” Lie showed a picture of the chip (above), which is currently in the company’s labs. It's unclear if it's any ..."
-    publishedDateTime: 2020-08-19T19:50:00Z
-    webUrl: "https://au.pcmag.com/news/68175/worlds-largest-computer-chip-getting-a-major-performance-boost"
-    ampWebUrl: "https://au.pcmag.com/news/68175/worlds-largest-computer-chip-getting-a-major-performance-boost?amp=1"
-    cdnAmpWebUrl: "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/news/68175/worlds-largest-computer-chip-getting-a-major-performance-boost?amp=1"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 89
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/w/worlds-lar/worlds-largest-computer-chip-getting-a-major-performance-boo_2hy4.620.jpg"
-        width: 620
-        height: 349
-        isCached: true
-
-secured: "zfDLKt9CVt/Fmsf7Raug9sSj8kcF3Auxl7Ge3SFL/YUW7e6wuAXWdKF2EXHgk4RqYZWJFFqj/OA6XH5fVzNigm9EIl8s2+ikNt0Lp1aby//JkFvuHylSGqsypwZSWNDpgHv5v8+7dd4syTKoKdiWxDO6SCZKSAyWKlrWoYOmiUQRSzE7rxrKa8Ds+ZBovlHCH4XzRh1s/w2gcVmeagIbLvnJUi6FrD0Vel+E5uVGtIO9XHOOyZw7Zeg//wi5E4URsWi4M894ybsjFvEbak+77CcNceVnpDDV4pe5iq1jyciMpv4ibO/6uqmXIR44k6bq3swlZAxZAkwWSLOROtWickT1VbVtWgrc9Fp8lH4q7JS6lOUsK1yWNJfJjvJ4V0PkvX6rz/d1P6cwb6xLVfLJa9+sp2ZCoFqGHZrhrdh3vYKrnhQuhYJvYxklHpZsF4Pa0PRynzNdYXniha5Rl8B1rWlRzFXuMm+El1USJcr8qPxRjc+QJoyDuNfg1k5qAs5wOoHAAuu5HZCnCwskl0lcXw==;hEtlI1x2DSISlkIKUMjs+A=="
+secured: "7ABtX1izaT193h/4ZbZaZ/E10KBgcOabDoNCK3ZKX7MfNTSgl1IENozEU18jOHcQtevNlgsAknlz2rD9zcdt+JkVQBb/q/cNxJ+y0KBSKeznuzTyxjfopngyPT1u86rTVhwWBTym6iQ009UWq/eaPAZygC1MinilVXe4pBQWujyB0nkdx0H7OhgxCURRaLNpmMEF62f5MxgPkDkgTO6oQm+Sx9Hq+Za1M6AW7QD9EorzyDZiNqcC1RXIoHX1uv+NmKm8AfNdD5Hv+X1MOUSMMKDLOaDFlMbPO0gRQBqosR9uU0EqA3mdTyhnIpo0wYuk4nomkiMw1MUhRvCJpoVxPg==;tlwqJF+JKlq8CnLMsW649A=="
 ---
 

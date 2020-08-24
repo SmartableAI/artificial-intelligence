@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Wales Open 2020 tees up self-driving vehicle to shuttle golfers from clubhouse"
-    excerpt: "European Tour Pro Golfer Ross Fisher stands next to the Aurrigo x Vodafone Driverless Shuttle in Celtic Manor (Photo: Aurrigo/Vodafone) Some of the world’s best golfers will swap their buggies ..."
-    publishedDateTime: 2020-08-19T23:35:00Z
-    webUrl: "https://inews.co.uk/news/technology/wales-open-golf-tournament-self-driving-vehicle-583021"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 20
-    images:
-      - url: "https://i.inews.co.uk/content/uploads/2020/08/PRI_161652189.jpg"
-        width: 1654
-        height: 1010
-        isCached: true
 
 secured: "e/6qMsyapRs37lWi3RffUZJuu99tO6sLILSls60I7VOPTxktvY7FQrjebpkp/5vMVpDlLPgjr+JXb5W9/0bgjas06G25T1uLAWsNcqigIjbw5WeZ1v+UA/eS0u3BUenmLb80Va3xlDfo4dA1+jLlvZfN6lQExcRUUCNj3YstG8l/NaqmhBrkL8fYs/qNzPaeMMJTNHOQU5HXoNVS45zobxviXy/4ht46cX+maYoEw0FyMA8CNy44va0tffu8b3cR3utO3hXpM7JPJZ7r9yhCoWOozN5mNCGxO5zrvAlgYCNQnfKHQu6IXF/fyRG4EeJ90khdxoEmeGfkbUgDZnlWqg==;6Z68HjetFQj2GlASgHojZg=="
 ---

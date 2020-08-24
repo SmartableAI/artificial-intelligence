@@ -1,19 +1,25 @@
 ---
 category: news
 title: "Buddy.ai Announces its Launch in Latin America, Where the Company Will Help Spanish-Speaking Kids Start Talking in English"
-excerpt: "PRNewswire/ -- Buddy.ai ( — the creator of Buddy, a virtual English tutor with voice-based AI for kids — announces the start of its"
+excerpt: "PRNewswire/ -- Buddy.ai ( -- the creator of Buddy, a virtual English tutor with voice-based AI for kids -- announces the start of its business"
 publishedDateTime: 2020-08-12T12:28:00Z
-webUrl: "https://www.prnewswire.com/news-releases/buddyai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking-kids-start-talking-in-english-301110900.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/buddy-ai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking/article_2e58ca27-737c-5121-91c8-d73309d7043c.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "hgHnY6LMQnuJfGOe2TFuBaR/HawjnkxWBZUTs3b47LffVZt0vdMXFJPg/PzaBnvQaH+UdJ2pp+ggzeuT3AwBUsIVjc/jNOUNuVygVfGf57Ov+JRSQhwt9LaE6oI7SdV3rvJ+MWPeLwC82ii9kPMcQFbKgow8vHsS4GexZFVkzdQ077+2TAwwC8BE4Yyz6RAWRZpq1ddPilKMlNzD7PCgat5J/wV9w2/1WznGmnN0V4amBYMEcoIVZOfis93rJXkKH3l8LX6EjlXJotuzXXhULgdNn4U6GeJsiIQ/lwVVUnhfxwehSpR/igyjhnf1r83IWbzuCVGJChnczmHtuioywXpFJzkpyYzxu5ZToLF5578xj42OQS7ZeCifAnPK6mUegCNX8x0axYQPLILt4WSv24m5DN7LodDbLkpie2SgCOygpd4maNV1qomMh41jvoYst+qdEKPlT+E69YlDtLfXZVYXlwR5oR5m2QME19Z3mITN8vi0xVZSddtQHTnW7eFHoFKjQ/jkq91yns/RzUZxFQ==;q+W72jPjJdmzZNQ6yexY6w=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/f6/2f6d9c8e-71c5-502e-b4cf-93ebaacb2983/5f33e58016ea9.image.jpg?resize=400%2C300"
+    width: 400
+    height: 300
+    isCached: true
+
+secured: "jW+vuMjCee38Fz2Klf1CUlEiKbI6imzPnT2MEQGt9W7DWhJT7idO7zZQy0kx2gdWuS7tDrcBJRwFOvBIpZSbK0bBXoEEayoaIziXiZh+YMZmYRAXocIlMbfC2YD+xmpmrYqxN/sfIuSAmh6zL0qeFz2qIctR2oz+QmywFIByXH1CHesmJKY+VCzKEA3A1PcwqxuqhbkM+O/OGXhzxgOtVc9VIBOZZDe/LAhOyvXHfqxBQlfjqvJY93Qv7lugkExsxqYb32FNnpHcODYtfdAymymqFA5bSyGDHEMI6HBnUjpUEFXm8WwtQyb07jHSkxctX6yw/ue3T+VsiQUUP3u0QA==;mfM31vErZcjQBzz31g0EWg=="
 ---
 

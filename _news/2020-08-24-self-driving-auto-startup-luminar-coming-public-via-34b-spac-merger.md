@@ -32,6 +32,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "25-year-old Luminar CEO just sold the self-driving car startup he founded in high school in a $3.4 billion deal"
+    excerpt: "Austin Russel founded self-driving car tech company Luminar when he was 17. Now he's selling it to a SPAC in a deal valued at $3.4 billion."
+    publishedDateTime: 2020-08-24T17:40:00Z
+    webUrl: "https://www.businessinsider.com/25-year-old-sells-startup-founded-high-school-34-billion-2020-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+    images:
+      - url: "https://i.insider.com/5f43f07e89aff80028ab7857?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Palo Alto self-driving tech unicorn Luminar to go public in $3.4B 'blank check' merger"
     excerpt: "Self-driving tech unicorn #Luminar to go public in $3.4B 'blank check' merger. #siliconvalley #ipo #autonomous"
     publishedDateTime: 2020-08-24T11:32:00Z
