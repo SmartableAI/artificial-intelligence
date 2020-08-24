@@ -4,29 +4,35 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/artiq.eu.md",
-      "title": "ArtiQ",
-      "excerpt": "ArtiQ is a young, dynamic and innovative spin-off company of the University of Leuven (Belgium). Company is founded in early 2019 by four committed founders with a long history in respiratory medicine, medical devices and artificial intelligence. Working on a junction of multidisciplinary fields, founders identified opportunity and value that novel technologies could bring to all parties in a respiratory setting: patients, doctors, healthcare system and industry.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/artiq.eu/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/artiq.eu/",
+      "path": "_companies/babylonhealth.md",
+      "title": "Babylon Health",
+      "excerpt": "babylon is the U.K’s leading digital healthcare service. Our purpose is to democratise healthcare by putting an accessible and affordable health service into the hands of every person on earth. In order to achieve this babylon has brought together one of the largest teams of scientists, clinicians, mathematicians and engineers to focus on combining the ever growing computing power of machines with the best medical expertise of humans to create a comprehensive, immediate and personalised health service and make it universally available.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/babylonhealth/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/babylonhealth/",
       "type": "profile",
-      "name": "ArtiQ",
-      "overview": "ArtiQ is a young, dynamic and innovative spin-off company of the University of Leuven (Belgium). Company is founded in early 2019 by four committed founders with a long history in respiratory medicine, medical devices and artificial intelligence. Working on a junction of multidisciplinary fields, founders identified opportunity and value that novel technologies could bring to all parties in a respiratory setting: patients, doctors, healthcare system and industry.",
-      "website": "https://www.artiq.eu/",
+      "name": "Babylon Health",
+      "overview": "babylon is the U.K’s leading digital healthcare service. Our purpose is to democratise healthcare by putting an accessible and affordable health service into the hands of every person on earth. In order to achieve this babylon has brought together one of the largest teams of scientists, clinicians, mathematicians and engineers to focus on combining the ever growing computing power of machines with the best medical expertise of humans to create a comprehensive, immediate and personalised health service and make it universally available.",
+      "website": "https://www.babylonhealth.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/artiq-eu",
-        "followers": 651
+        "url": "https://www.linkedin.com/company/babylonhealth/",
+        "followers": 30918
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/artiq"
+        "url": "https://www.crunchbase.com/organization/babylon-health"
       },
-      "size": "2-10 employees",
-      "yearFounded": 2019,
+      "twitter": {
+        "username": "babylonhealth",
+        "url": "https://twitter.com/babylonhealth",
+        "followers": 12295
+      },
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2013,
       "locations": [
-        "Leuven, Flemish Region"
+        "London, UK",
+        "London, London"
       ],
       "funding": {
-        "status": "Seed"
+        "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
@@ -35,11 +41,11 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEVVKVOLgh_dg/company-logo_200_200/0?e=1594857600&v=beta&t=KKoISNAcccnopuKE6b3G-zABTOe8fTofb295fUCibz8",
+          "url": "https://pbs.twimg.com/profile_images/1280074145947168769/H-1or_wk_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "logo",
-          "isCached": false
+          "title": "Babylon Health",
+          "isCached": true
         }
       ]
     },
@@ -145,6 +151,106 @@
       ]
     },
     {
+      "path": "_companies/brainomix.md",
+      "title": "Brainomix",
+      "excerpt": "Brainomix’s vision is to be a world leader in imaging software to support clinical decision making, for neurological and cerebrovascular diseases.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/brainomix/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/brainomix/",
+      "type": "profile",
+      "name": "Brainomix",
+      "overview": "Brainomix’s vision is to be a world leader in imaging software to support clinical decision making, for neurological and cerebrovascular diseases.",
+      "website": "http://www.brainomix.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/brainomix",
+        "followers": 1428
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/brainomix"
+      },
+      "twitter": {
+        "username": "brainomix",
+        "url": "https://www.twitter.com/brainomix",
+        "followers": 801
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Oxford, UK",
+        "Oxford"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=S2eI-YOtTZg"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1229789886275825666/KO4RTVpi_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Brainomix",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_companies/buoyhealth.md",
+      "title": "Buoy Health",
+      "excerpt": "Buoy builds a free digital health tool that helps people – from the moment they get sick – start their health care on the right foot. Started by a team of doctors and computer scientists working at the Harvard Innovation Laboratory in Boston MA, Buoy was developed in direct response to the downward spiral we’ve all faced when we attempt to self-diagnose our symptoms online. Buoy leverages artificial intelligence – powered by advanced machine learning and proprietary granular data - to resemble an exchange you would have with your favorite doctor – to provide consumers with a real-time, accurate analysis of their symptoms and help them easily and quickly embark on the right path to getting better.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/buoyhealth/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/buoyhealth/",
+      "type": "profile",
+      "name": "Buoy Health",
+      "overview": "Buoy builds a free digital health tool that helps people – from the moment they get sick – start their health care on the right foot. Started by a team of doctors and computer scientists working at the Harvard Innovation Laboratory in Boston MA, Buoy was developed in direct response to the downward spiral we’ve all faced when we attempt to self-diagnose our symptoms online. Buoy leverages artificial intelligence – powered by advanced machine learning and proprietary granular data - to resemble an exchange you would have with your favorite doctor – to provide consumers with a real-time, accurate analysis of their symptoms and help them easily and quickly embark on the right path to getting better.",
+      "website": "https://www.buoyhealth.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/buoyhealth/",
+        "followers": 2993
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/buoy-health"
+      },
+      "twitter": {
+        "username": "buoyhealth",
+        "url": "https://twitter.com/buoyhealth",
+        "followers": 1205
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Boston, MA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1278350515194101760/5HRlAt2K_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Buoy Health",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEpzpekVfUV6A/company-logo_200_200/0?e=1594857600&v=beta&t=Or-YUZmwdDZCtBS9Z6ZsTOSzGxZ5ExEma_OUAiWXH7w",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ]
+    },
+    {
       "path": "_companies/clarifyhealth.md",
       "title": "Clarify Health Solutions",
       "excerpt": "Clarify Health provides the breakthrough technology and analytics platform to personalize and optimize patient care journeys. Our purpose-built solutions - developed by a world-class team of data scientists and engineers from the financial services industry, top clinical operations experts, and logistics specialists - are transforming healthcare processes and workflows. Clarify delivers actionable insights that enable physicians, health systems, payers, and life sciences organizations to deliver better care today and evolve for a value-based world.",
@@ -225,7 +331,7 @@
       "twitter": {
         "username": "HeyCurrent",
         "url": "https://twitter.com/HeyCurrent",
-        "followers": 1441
+        "followers": 1442
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -250,6 +356,61 @@
           "height": 400,
           "title": "Current Health",
           "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_companies/cyclicarx.md",
+      "title": "Cyclica",
+      "excerpt": "Cyclica is a Toronto-based, globally recognized biotechnology company that leverages artificial intelligence and computational biophysics to reshape the drug discovery process. Cyclica provides the pharmaceutical industry with an integrated, holistic, and end-to-end enabling platform focused on polypharmacology that enhances how scientists design, screen, and personalize medicines for patients while minimizing off-target side effects. By doing more with artificial intelligence, Cyclica aims to revolutionize a system troubled with attrition and costly failures, accelerate the drug discovery process, and develop medicines with greater precision.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/cyclicarx/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/cyclicarx/",
+      "type": "profile",
+      "name": "Cyclica",
+      "overview": "Cyclica is a Toronto-based, globally recognized biotechnology company that leverages artificial intelligence and computational biophysics to reshape the drug discovery process. Cyclica provides the pharmaceutical industry with an integrated, holistic, and end-to-end enabling platform focused on polypharmacology that enhances how scientists design, screen, and personalize medicines for patients while minimizing off-target side effects. By doing more with artificial intelligence, Cyclica aims to revolutionize a system troubled with attrition and costly failures, accelerate the drug discovery process, and develop medicines with greater precision.",
+      "website": "https://cyclicarx.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/2620666",
+        "followers": 2261
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/cyclica"
+      },
+      "twitter": {
+        "username": "cyclica",
+        "url": "https://twitter.com/cyclica",
+        "followers": 1021
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Toronto, ON, Canada",
+        "Toronto, Ontario"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=UHArUciCDH4"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1281306650964635648/AzsgVygP_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Cyclica",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEeqnDcOiRZjw/company-logo_200_200/0?e=1594857600&v=beta&t=_UW_wK1qFOVieLjIDNCcSSlAfpopXdm5rltlfFxaexc",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ]
     },
@@ -402,32 +563,31 @@
       ]
     },
     {
-      "path": "_companies/flatiron.md",
-      "title": "Flatiron Health",
-      "excerpt": "Flatiron Health’s mission is to improve lives by learning from the experience of every cancer patient. Please visit our website for our open positions.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/flatiron/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/flatiron/",
+      "path": "_companies/fdna.md",
+      "title": "FDNA",
+      "excerpt": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/fdna/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/fdna/",
       "type": "profile",
-      "name": "Flatiron Health",
-      "overview": "Flatiron Health’s mission is to improve lives by learning from the experience of every cancer patient. Please visit our website for our open positions.",
-      "website": "https://flatiron.com",
+      "name": "FDNA",
+      "overview": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
+      "website": "https://www.fdna.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/2682361",
-        "followers": 21595
+        "url": "https://www.linkedin.com/company/fdna",
+        "followers": 1151
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/flatiron-health"
+        "url": "https://www.crunchbase.com/organization/fdna-inc"
       },
       "twitter": {
-        "username": "flatironhealth",
-        "url": "https://twitter.com/flatironhealth",
-        "followers": 9798
+        "username": "FDNA",
+        "url": "https://twitter.com/FDNA",
+        "followers": 6472
       },
-      "size": "501-1,000 employees",
-      "yearFounded": 2012,
+      "size": "11-50 employees",
+      "yearFounded": 2011,
       "locations": [
-        "New York, NY",
-        "New York, New York"
+        "Boston, MA"
       ],
       "topics": [
         "AI",
@@ -435,7 +595,7 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=AishSTITOq4"
+          "url": "https://www.youtube.com/watch?v=qUDQnRMJOcw"
         }
       ],
       "heat": 50,
@@ -444,14 +604,126 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1283060855542874112/NxUqjdpi_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1280825066377416707/qtusxek3_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Flatiron Health",
+          "title": "FDNA",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEhAJpV71WHPw/company-logo_200_200/0?e=1594857600&v=beta&t=_i9wKp3TiVbAp5FVc1byaHD1yWtTF2u0dIviStlUAlk",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPigzRHh6z8A/company-logo_200_200/0?e=1594857600&v=beta&t=9DM7xRDfFMkueOV4i4_4EjmyDN-c3k1q_nRGaBQ31QY",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ]
+    },
+    {
+      "path": "_companies/foodvisor.io.md",
+      "title": "Foodvisor",
+      "excerpt": "At Foodvisor we believe that healthy eating leads to a healthier lifestyle.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/foodvisor.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/foodvisor.io/",
+      "type": "profile",
+      "name": "Foodvisor",
+      "overview": "At Foodvisor we believe that healthy eating leads to a healthier lifestyle.",
+      "website": "http://www.foodvisor.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/foodvisor/",
+        "followers": 1553
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/foodvisor"
+      },
+      "twitter": {
+        "username": "foodvisor_app",
+        "url": "https://twitter.com/foodvisor_app",
+        "followers": 1195
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Paris, Ile de France"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=H77GQBirQkM"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/805813676926205953/s_f8nCWI_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Foodvisor",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE50pGtmP_m4w/company-logo_200_200/0?e=1594857600&v=beta&t=E5Q9aENJAMmjFQNvwyYhVq2fVhLG3-n-jTdZU7S--iA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ]
+    },
+    {
+      "path": "_companies/freenome.md",
+      "title": "Freenome",
+      "excerpt": "Freenome is a biotechnology company on a mission to empower everyone with the tools they need to detect, treat, and ultimately prevent their diseases.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/freenome/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/freenome/",
+      "type": "profile",
+      "name": "Freenome",
+      "overview": "Freenome is a biotechnology company on a mission to empower everyone with the tools they need to detect, treat, and ultimately prevent their diseases.",
+      "website": "https://www.freenome.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/freenome/",
+        "followers": 4285
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/freenome"
+      },
+      "twitter": {
+        "username": "freenome",
+        "url": "https://www.twitter.com/freenome",
+        "followers": 1993
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "South San Francisco, CA",
+        "South San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=TrEnNA_kZBI"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/985371277727797249/0wMRLRjP_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Freenome",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEnCMHsfvcusw/company-logo_200_200/0?e=1594857600&v=beta&t=F1H77vwXX4Yg38yNL73XsNMahtYWl67QeRr_u3PE6q4",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -547,59 +819,47 @@
       ]
     },
     {
-      "path": "_companies/infermedica.md",
-      "title": "Infermedica",
-      "excerpt": "Founded in 2012 by a team of engineers, data scientists, and physicians, Infermedica develops its own AI engine to collect intake, check symptoms, and guide patients to the right care.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/infermedica/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/infermedica/",
+      "path": "_companies/insitro.md",
+      "title": "Insitro",
+      "excerpt": "A data-driven biotech advancing better medicines with predictive models, created by machine learning & biology at scale",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/insitro/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/insitro/",
       "type": "profile",
-      "name": "Infermedica",
-      "overview": "Founded in 2012 by a team of engineers, data scientists, and physicians, Infermedica develops its own AI engine to collect intake, check symptoms, and guide patients to the right care.",
-      "website": "https://infermedica.com/",
+      "name": "Insitro",
+      "overview": "A data-driven biotech advancing better medicines with predictive models, created by machine learning & biology at scale",
+      "website": "http://www.insitro.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/infermedica",
-        "followers": 1399
+        "url": "https://www.linkedin.com/company/insitro/",
+        "followers": 2353
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/infermedica"
+        "url": "https://www.crunchbase.com/organization/insitro"
       },
       "twitter": {
-        "username": "infermedica",
-        "url": "https://twitter.com/infermedica",
-        "followers": 2633
+        "username": "insitro",
+        "url": "https://twitter.com/insitro",
+        "followers": 1802
       },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
+      "size": "11-50 employees",
+      "yearFounded": 2018,
       "locations": [
-        "Wrocław, Lower Silesia"
+        "South San Francisco, CA"
       ],
-      "funding": {
-        "status": "Seed"
-      },
       "topics": [
         "AI",
         "AI in Healthcare"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=p8YcZnbiB2U"
-        }
-      ],
       "heat": 50,
+      "tags": [
+        "Biotech"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1143811617425186816/xjFXIamj_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1263571535463399445/ylMy1iIp_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Infermedica",
+          "title": "Insitro",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFSZao-2Qp3Qg/company-logo_200_200/0?e=1594857600&v=beta&t=mAsp0thYED-zbD9zjMYxf7v7J24YGU9PTIh4UQ6dVno",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ]
     },
@@ -657,32 +917,31 @@
       ]
     },
     {
-      "path": "_companies/lumiata.md",
-      "title": "Lumiata",
-      "excerpt": "Lumiata is the industry's first AI Platform purpose-built for healthcare. Lumiata is powered by 75 million-member data, proprietary clinical, risk and financial algorithms, and industry leading data science and machine learning talent. We help Business, Benefits and Care Management teams at health plans, providers and employers make better decisions–– from identifying and managing individual's risk to retaining customers in competitive insurance markets–– using easy-to-use, fast-to-deploy AI applications. The Lumiata AI Platform also arms internal data science teams in healthcare organizations rapidly develop and deploy predictive models and applications. Silicon Valley-based Lumiata is backed by tier 1 investors Khosla Ventures, BlueCross BlueShield Venture Partners, Sandbox Industries and Intel Capital.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/lumiata/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/lumiata/",
+      "path": "_companies/labgeni.us.md",
+      "title": "LabGenius",
+      "excerpt": "LabGenius is the first biopharmaceutical company developing next generation protein therapeutics using a machine learning-driven evolution engine (EVA™).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/labgeni.us/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/labgeni.us/",
       "type": "profile",
-      "name": "Lumiata",
-      "overview": "Lumiata is the industry's first AI Platform purpose-built for healthcare. Lumiata is powered by 75 million-member data, proprietary clinical, risk and financial algorithms, and industry leading data science and machine learning talent. We help Business, Benefits and Care Management teams at health plans, providers and employers make better decisions–– from identifying and managing individual's risk to retaining customers in competitive insurance markets–– using easy-to-use, fast-to-deploy AI applications. The Lumiata AI Platform also arms internal data science teams in healthcare organizations rapidly develop and deploy predictive models and applications. Silicon Valley-based Lumiata is backed by tier 1 investors Khosla Ventures, BlueCross BlueShield Venture Partners, Sandbox Industries and Intel Capital.",
-      "website": "http://www.lumiata.com/",
+      "name": "LabGenius",
+      "overview": "LabGenius is the first biopharmaceutical company developing next generation protein therapeutics using a machine learning-driven evolution engine (EVA™).",
+      "website": "http://www.labgeni.us/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/lumiata",
-        "followers": 2608
+        "url": "https://www.linkedin.com/company/labgenius/",
+        "followers": 2073
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/lumiata"
+        "url": "https://www.crunchbase.com/organization/labgenius"
       },
       "twitter": {
-        "username": "Lumiata",
-        "url": "https://twitter.com/Lumiata",
-        "followers": 1064
+        "username": "labgeni_us",
+        "url": "https://twitter.com/labgeni_us",
+        "followers": 2119
       },
       "size": "11-50 employees",
-      "yearFounded": 2013,
+      "yearFounded": 2012,
       "locations": [
-        "San Mateo, CA",
-        "San Mateo, California"
+        "London, UK"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -693,132 +952,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=1uxjtyJdxbU"
+          "url": "https://www.youtube.com/watch?v=wy1AobL6x44"
         }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1258149706590334977/SYwr_9wT_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/847433339883499528/nc0fcnVR_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Lumiata",
+          "title": "LabGenius",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGVE82mwAXfog/company-logo_200_200/0?e=1594857600&v=beta&t=3cC6ya_XrTzzMu6c2KHPZQ-VKjYq5e-NlrtFpPd-9nA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ]
-    },
-    {
-      "path": "_companies/maxq.ai.md",
-      "title": "MaxQ AI",
-      "excerpt": "MaxQ AI is at the forefront Medical Diagnostic AI. Our mission is to meaningfully reduce misdiagnosis and healthcare costs by making artificial intelligence (AI) intrinsic to the diagnostic process for time sensitive and life-threatening conditions. We are transforming healthcare by empowering physicians to provide “smarter care” through intelligent imaging with AI actionable insights.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/maxq.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/maxq.ai/",
-      "type": "profile",
-      "name": "MaxQ AI",
-      "otherNames": [
-        "MedyMatch Technology"
-      ],
-      "overview": "MaxQ AI is at the forefront Medical Diagnostic AI. Our mission is to meaningfully reduce misdiagnosis and healthcare costs by making artificial intelligence (AI) intrinsic to the diagnostic process for time sensitive and life-threatening conditions. We are transforming healthcare by empowering physicians to provide “smarter care” through intelligent imaging with AI actionable insights.",
-      "website": "https://maxq.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/medymatch-technologies/",
-        "followers": 1260
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/medymatch"
-      },
-      "twitter": {
-        "username": "maximumqai",
-        "url": "https://twitter.com/maximumqai",
-        "followers": 460
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "Tel Aviv-Yafo, Israel"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=KlK9C4s1lvo"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1151589543222620160/QsHz1RLQ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "MaxQ AI",
-          "isCached": true
-        },
-        {
-          "url": "https://media.licdn.com/dms/image/C4D0BAQGR7mB_vul_hw/company-logo_400_400/0?e=1582761600&v=beta&t=JlYSP6pjXWrdalCmE8Z0PdC--8CZAD-_WDu0Ynkb4WU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ]
-    },
-    {
-      "path": "_companies/mojo.md",
-      "title": "mojo",
-      "excerpt": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mojo/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/mojo/",
-      "type": "profile",
-      "name": "mojo",
-      "overview": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
-      "website": "https://www.mojofertility.co/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/mojofertility/",
-        "followers": 154
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/mojofertility"
-      },
-      "twitter": {
-        "username": "mojofertility",
-        "url": "https://twitter.com/mojofertility",
-        "followers": 392
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Lyon, Rhône-Alpes"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1196207041997672448/sX77d5b1_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "mojo",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHsFAFk_hzHSg/company-logo_200_200/0?e=1594857600&v=beta&t=jFRlt8PrCUhmt-vwq9eVRKeZ2geX62897tvRK5j0Tk0",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGBR3Rh4HTaeg/company-logo_200_200/0?e=1594857600&v=beta&t=80aKsG_ar1rvSb5D4EEZlyzv_D4upOEsVzHI170r7T4",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1147,6 +1294,63 @@
       ]
     },
     {
+      "path": "_companies/robinhealthcare.md",
+      "title": "Robin Healthcare",
+      "excerpt": "Robin Healthcare is an innovative healthcare partner that combines the power of artificial intelligence (AI), voice recognition, and domestic virtual medical scribes and care coordinators to solve healthcare biggest challenges and inefficiencies.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/robinhealthcare/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/robinhealthcare/",
+      "type": "profile",
+      "name": "Robin Healthcare",
+      "overview": "Robin Healthcare is an innovative healthcare partner that combines the power of artificial intelligence (AI), voice recognition, and domestic virtual medical scribes and care coordinators to solve healthcare biggest challenges and inefficiencies.",
+      "website": "https://www.robinhealthcare.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/robin-healthcare/",
+        "followers": 606
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/robin-healthcare"
+      },
+      "twitter": {
+        "username": "robinhealthco",
+        "url": "https://twitter.com/robinhealthco",
+        "followers": 43
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Berkeley, CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=OeJ_m-PYEJ8"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1194358982015700992/uMrPVJJt_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Robin Healthcare",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFB-QU7WfLt7w/company-logo_200_200/0?e=1594857600&v=beta&t=HJZdlvuhAIoszPAVeOhac8xgQUIVXYerJGvv0q1yWvs",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ]
+    },
+    {
       "path": "_companies/sightdx.md",
       "title": "Sight Diagnostics",
       "excerpt": "The faster we diagnose, the faster we can treat. At Sight Diagnostics, we aim to improve health through faster and pain-free diagnostic testing.",
@@ -1189,59 +1393,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ]
-    },
-    {
-      "path": "_companies/skinvision.md",
-      "title": "SkinVision",
-      "excerpt": "The leading app for early detection of the most common types of #SkinCancer. Self-check now: https://t.co/gcMPVNzjxO",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/skinvision/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/skinvision/",
-      "type": "profile",
-      "name": "SkinVision",
-      "overview": "The leading app for early detection of the most common types of #SkinCancer. Self-check now: https://t.co/gcMPVNzjxO",
-      "website": "https://www.skinvision.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/skinvision/",
-        "followers": 0
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/skinvision"
-      },
-      "twitter": {
-        "username": "sknvsn",
-        "url": "https://twitter.com/sknvsn",
-        "followers": 2085
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "Amsterdam, the Netherlands"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=eAcjCkwsIy0"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Cancer"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/809063449624018945/d9gEaQop_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "SkinVision",
-          "isCached": true
         }
       ]
     },
@@ -1364,171 +1515,6 @@
         }
       ],
       "heat": 50
-    },
-    {
-      "path": "_companies/xbird.io.md",
-      "title": "Xbird",
-      "excerpt": "xbird is a medical AI company dedicated to saving lives by disrupting the way we think about prevention and early detection of diseases. We are developing sophisticated machine learning algorithms that analyze sensor data from smartphones and wearables to predict and prevent critical health risks. We are a team of medical doctors, data scientists, machine learning engineers and serial entrepreneurs from Berlin and Silicon Valley. xbirds provides a service to medical device and pharma companies to achieve higher patient engagement, reduce patient burden and work towards improving patient outcomes.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/xbird.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/xbird.io/",
-      "type": "profile",
-      "name": "Xbird",
-      "overview": "xbird is a medical AI company dedicated to saving lives by disrupting the way we think about prevention and early detection of diseases. We are developing sophisticated machine learning algorithms that analyze sensor data from smartphones and wearables to predict and prevent critical health risks. We are a team of medical doctors, data scientists, machine learning engineers and serial entrepreneurs from Berlin and Silicon Valley. xbirds provides a service to medical device and pharma companies to achieve higher patient engagement, reduce patient burden and work towards improving patient outcomes.",
-      "website": "http://www.xbird.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/xbird/",
-        "followers": 982
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/xbird-gmbh"
-      },
-      "twitter": {
-        "username": "xbirdhealth",
-        "url": "https://twitter.com/xbirdhealth",
-        "followers": 557
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Berlin, Germany",
-        "Berlin, Berlin"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=VQhmAIFKOyU"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1254728072546463745/58TGGOtt_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Xbird",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE5uBAedW_F2A/company-logo_200_200/0?e=1594857600&v=beta&t=p9pfx8LRmoaNPMwjLOzlVSEx2_b5bHKTfeTaODjF_cU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ]
-    },
-    {
-      "path": "_companies/buoyhealth.md",
-      "title": "Buoy Health",
-      "excerpt": "Buoy builds a free digital health tool that helps people – from the moment they get sick – start their health care on the right foot. Started by a team of doctors and computer scientists working at the Harvard Innovation Laboratory in Boston MA, Buoy was developed in direct response to the downward spiral we’ve all faced when we attempt to self-diagnose our symptoms online. Buoy leverages artificial intelligence – powered by advanced machine learning and proprietary granular data - to resemble an exchange you would have with your favorite doctor – to provide consumers with a real-time, accurate analysis of their symptoms and help them easily and quickly embark on the right path to getting better.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/buoyhealth/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/buoyhealth/",
-      "type": "profile",
-      "name": "Buoy Health",
-      "overview": "Buoy builds a free digital health tool that helps people – from the moment they get sick – start their health care on the right foot. Started by a team of doctors and computer scientists working at the Harvard Innovation Laboratory in Boston MA, Buoy was developed in direct response to the downward spiral we’ve all faced when we attempt to self-diagnose our symptoms online. Buoy leverages artificial intelligence – powered by advanced machine learning and proprietary granular data - to resemble an exchange you would have with your favorite doctor – to provide consumers with a real-time, accurate analysis of their symptoms and help them easily and quickly embark on the right path to getting better.",
-      "website": "https://www.buoyhealth.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/buoyhealth/",
-        "followers": 2993
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/buoy-health"
-      },
-      "twitter": {
-        "username": "buoyhealth",
-        "url": "https://twitter.com/buoyhealth",
-        "followers": 1205
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Boston, MA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1278350515194101760/5HRlAt2K_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Buoy Health",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEpzpekVfUV6A/company-logo_200_200/0?e=1594857600&v=beta&t=Or-YUZmwdDZCtBS9Z6ZsTOSzGxZ5ExEma_OUAiWXH7w",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ]
-    },
-    {
-      "path": "_companies/care.ai.md",
-      "title": "care.ai",
-      "excerpt": "care.ai is the first and only AI-powered autonomous monitoring platform for healthcare. As an AI company, we are focused on using our transformative innovation to bring a meaningful impact to healthcare, improving outcomes and saving millions of lives every year; while making the jobs of providers more productive and fulfilling. care.ai’s platform connects to our purpose-built AI accelerated, edge sensors, to transform ordinary rooms into Self-Aware Rooms™. We are working on disrupting and changing the way care is delivered.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/care.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/care.ai/",
-      "type": "profile",
-      "name": "care.ai",
-      "overview": "care.ai is the first and only AI-powered autonomous monitoring platform for healthcare. As an AI company, we are focused on using our transformative innovation to bring a meaningful impact to healthcare, improving outcomes and saving millions of lives every year; while making the jobs of providers more productive and fulfilling. care.ai’s platform connects to our purpose-built AI accelerated, edge sensors, to transform ordinary rooms into Self-Aware Rooms™. We are working on disrupting and changing the way care is delivered.",
-      "website": "https://care.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/careai/",
-        "followers": 183
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/care-ai"
-      },
-      "twitter": {
-        "username": "caredotai",
-        "url": "https://twitter.com/caredotai",
-        "followers": 383
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2019,
-      "locations": [
-        "Orlando, FL",
-        "Orlando, Florida"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=DWTje5pDap0"
-        }
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1166114647180812288/iWPPi_wm_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "care.ai",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQE2U7Qc6g0wKQ/company-logo_200_200/0?e=1594857600&v=beta&t=vIG3AvYSZPdUVZRvDUoOvS7renFb2xtAFGLOg-zbWwA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ]
     }
   ],
   "nextPage": 3

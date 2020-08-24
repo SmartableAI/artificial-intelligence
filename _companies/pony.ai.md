@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "PonyAI_tech"
   url: "https://twitter.com/PonyAI_tech"
-  followers: 681
+  followers: 682
 
 size: 51-200 employees
 yearFounded: 2016
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "6Xw53eDYbG7B7QDyxqyF3AaRAFNZUZpzHZXz8aqS2juy1MEQSTrpgakjWy5P0IWw1G0+lhqiam34beVkQzNnSEk7Lf3fdcMeyf4xOpDcJmhISlT3DqYRhEuvCcStDc42bw0MMhoqBnlcK5/tPPN0zemXMR5Jw5FKLodGB4UCc8Rc4ufm767SWFMutsibpDyGfS1awIu8oXypXlqmysFsc5x/EgDqVBKPYA0DKW3FEQIGYqxkNPqLwb2dWjZbtpKiPU1u9eaFGfxmuq9oN4AAJwX+8jgQuT7XXiQxGaTxK1GnrIfWJ50AsZKEY8z115hQKBrshij+nhmnpe11Y5AC276uBiq+nKyaSfyinMOX8glVI3v++w1zM/1AHib8zVZq;IaUC3rhNE6GUbX7HdIv2DQ=="
+secured: "x/x8mHBUmCrFWxx/K7GytJn2/3B6nT+D3klmLSTuCJN1vN4HtWsluDU7qEwy/unEhUWKPadENwwaBGXwyttUAGFtWo6qTTmZpP9HOoQet+slzOVUBit3qC3vqPksWjxpfSvkbCrjOP2I4Ar0gKq3ABne7QYRB/jTNVGxtSHBH4QwjLy3WV5XhYNnZW6lmgfVdO99fxGpiFu6TP0TaM9okFJUu0nHIzHO9TUVgQbU3OJ0BfXRy2hQH7zex/qfezFoZkVYMotFbIQw3Cq6gjgR0zkkpIRcrKYLrkQoeSSENaiDj0VQSEuzEm66G7owJZ7TrjMKIff3QYhd3wwODQMDw8QVBa6m/3nvaWWR6mLSg6+7oP3DEzJ9VjGx2/cKSFxE;dOM7342xVXbhOOnziSYn5Q=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Google"
 overview: "Our mission: Organize the world’s information and make it universally accessible and useful."
 type: "profile"
-heat: 383
+heat: 364
 
 website: https://www.google.com
 
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Google"
 
-secured: "Dx4c6nKiVnLsJVc9dU1tAfWwdEGLBIDf+48/INj+sV5TcnH0Xn1eTncd0R0YqaDLj2ksWQKxTexAYcH8gpfRlMSvpXEnFBrNoBwc7SkUuJw8EEHC2YyhgPGfha0SIyJlA6brQwt0YrHjLBXsBUY8G/bMMZoQTBAEhHJi6r39/8Mn1CQjT6bgmdzuSlApX+WOqqxIyLCgZmIyZl19ZEimL+6lXde4550G9xDcOpp1A6myH4W+Gwuc7xRyHN7koMhxEZbjserexCuhsY8bIypV4YskG48Y70xO9qHTmKqCMOW8T4pVcqSX3dJTXX/pVJTBj4m9vElhfAh7ChbsXgRHQOCXAnj+Dp9NwsqLHKI/8liYt75mU4Qymh7YHzkM7Pyjw+U99r+UCJCjtd4WM30D/A==;XuO2+u5VjcD22dWjnkes2w=="
+secured: "ZzR7QBs4SDlvW1AR6TfEO0cPzj1tbqGbIK2qosaLtEZhRXVeCNvHazhgYNsCtF/GSEToVkACUxYAQiMEa6mWvv3I6nRdRY2phCfDwXo+7FN9NswMCqn64OKzNBSjmuhhF+MtZXTpAIl40kPSXlwDS3AOBJK0dHLC7AgUuHasANVg6eMWwjYKuhQh4Hp+VAFB9y8YlLrOnu2+8s/k4fg6wCjmF8yweZggWMBjDXNiCsiN1A3fZANSltxeLRquA9j9njRxmc5U9uOPDpX/E73jcvDAu0u2+cVM2yupqJtUO0vDMOm0zCBTHJq2ri6Yn3AztkGidFh7PCjonV0Icq+j3qDZ5gmAIcZhu6ZK+8T58A/M8KjrbS8DUKFHsdSytT93iepPNCiIdPvPOvxejdapVA==;cpLtziktclDw+azUomY75Q=="
 ---
 

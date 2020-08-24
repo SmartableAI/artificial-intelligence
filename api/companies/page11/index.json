@@ -4,111 +4,112 @@
   "page": 11,
   "value": [
     {
-      "path": "_companies/dataminr.md",
-      "title": "Dataminr",
-      "excerpt": "Dataminr is the world's real-time information discovery company that turns information chaos into opportunity. Our ability to find and deliver information faster than any traditional source has completely revolutionized how critical, relevant and actionable information reaches the News, Finance, Public Sector, Corporate Security and PR &amp; Communications industries.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/dataminr/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/dataminr/",
+      "path": "_companies/narrative.md",
+      "title": "Narrative",
+      "excerpt": "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/narrative/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/narrative/",
       "type": "profile",
-      "name": "Dataminr",
-      "overview": "Dataminr is the world's real-time information discovery company that turns information chaos into opportunity. Our ability to find and deliver information faster than any traditional source has completely revolutionized how critical, relevant and actionable information reaches the News, Finance, Public Sector, Corporate Security and PR &amp; Communications industries.",
-      "website": "https://www.dataminr.com/",
+      "name": "Narrative",
+      "otherNames": [
+        "Third Dot AB",
+        "memoto",
+        "Narrative AB",
+        "Narrative Clip"
+      ],
+      "overview": "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you.",
+      "website": "http://getnarrative.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/dataminr",
-        "followers": 38135
+        "url": "https://www.linkedin.com/company/narrative-ab-narrative-clip-/",
+        "followers": 469
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/dataminr"
+        "url": "https://www.crunchbase.com/organization/narrative"
       },
       "twitter": {
-        "username": "dataminr",
-        "url": "https://twitter.com/dataminr",
-        "followers": 14553
+        "username": "getnarrative",
+        "url": "https://twitter.com/getnarrative",
+        "followers": 24582
       },
-      "size": "201-500 employees",
-      "yearFounded": 2009,
+      "size": "11-50 employees",
+      "yearFounded": 2012,
       "locations": [
-        "New York, NY",
-        "New York, NY"
+        "Stockholm"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "Early Stage Venture"
       },
       "topics": [
-        "AI"
+        "AI",
+        "Computer Vision"
       ],
       "heat": 0,
+      "tags": [
+        "Image Recognition",
+        "Wearables"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1279878313851396103/q8fdV_jh_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/378800000542288111/9f0de099c28730e017ddaf26b60a048a_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Dataminr",
+          "title": "Narrative",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE4xkg2wK6Wfg/company-logo_200_200/0?e=1594857600&v=beta&t=Csauhxxy10Snpz1kZQ8ZgS-I5rMYcTtLyrRO1pLukQA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ]
     },
     {
-      "path": "_companies/kabbage.md",
-      "title": "Kabbage",
-      "excerpt": "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kabbage/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/kabbage/",
+      "path": "_companies/persado.md",
+      "title": "Persado",
+      "excerpt": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/persado/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/persado/",
       "type": "profile",
-      "name": "Kabbage",
-      "overview": "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK.",
-      "website": "https://www.kabbage.com",
+      "name": "Persado",
+      "overview": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
+      "website": "https://www.persado.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/kabbage-inc/",
-        "followers": 31904
+        "url": "https://www.linkedin.com/company/persado",
+        "followers": 13074
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kabbage"
+        "url": "https://www.crunchbase.com/organization/persado"
       },
       "twitter": {
-        "username": "KabbageInc",
-        "url": "https://twitter.com/KabbageInc",
-        "followers": 27568
+        "username": "persado",
+        "url": "https://www.twitter.com/persado",
+        "followers": 5526
       },
-      "size": "501-1,000 employees",
-      "yearFounded": 2009,
+      "size": "201-500 employees",
+      "yearFounded": 2012,
       "locations": [
-        "Atlanta, Georgia"
+        "Fremont, CA",
+        "New York, NY",
+        "New York, New York"
       ],
       "funding": {
         "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
-        "Machine Learning"
+        "Natural Language Processing"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=VnqoE8kOHkI"
+          "url": "https://www.youtube.com/watch?v=Ig4B5roBgao"
         }
       ],
       "heat": 0,
+      "tags": [
+        "Natural Language Generation"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1146817867553366016/ZcHRRj3D_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1268932502363594753/rpTjICXr_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Kabbage",
+          "title": "Persado",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFwZD2IV-LlDQ/company-logo_200_200/0?e=1594857600&v=beta&t=1rPXmhIy30Kk2Wy80mIFDmRpjikbiIpAG9fq0T40LP4",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ]
     }
