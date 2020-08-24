@@ -21,6 +21,15 @@ items:
   - collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university
   - collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university
 
+items:
+  - collections/stanford-university-from-languages-to-information-week-1-basic-text-processing-and-edit-distance-stanford-university
+  - collections/stanford-university-from-languages-to-information-week-2-language-modeling-and-spelling-correction-stanford-university
+  - collections/stanford-university-from-languages-to-information-week-3-text-classification-and-sentiment-analysis-stanford-university
+  - collections/stanford-university-from-languages-to-information-week-4-information-retrieval-stanford-university
+  - collections/stanford-university-from-languages-to-information-week-5-relation-extraction-and-question-answering-stanford-university
+  - collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university
+  - collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university
+
 topics:
   - AI
   - Natural Language Processing

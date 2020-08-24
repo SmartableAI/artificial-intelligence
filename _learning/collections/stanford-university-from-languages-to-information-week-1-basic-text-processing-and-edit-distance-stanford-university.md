@@ -23,6 +23,17 @@ items:
   - videos/stanford-university-24-weighted-minimum-edit-distance-basic-text-processing-and-edit-distance
   - videos/stanford-university-25-minimum-edit-distance-in-computational-biology-basic-text-processing-and-edit-distance
 
+items:
+  - videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance
+  - videos/stanford-university-12-sentence-segmentation-basic-text-processing-and-edit-distance
+  - videos/stanford-university-13-word-tokenization-basic-text-processing-and-edit-distance
+  - videos/stanford-university-14-word-normalization-and-stemming-basic-text-processing-and-edit-distance
+  - videos/stanford-university-21-defining-minimum-edit-distance-basic-text-processing-and-edit-distance
+  - videos/stanford-university-22-computing-minimum-edit-distance-basic-text-processing-and-edit-distance
+  - videos/stanford-university-23-backtrace-for-computing-alignments-basic-text-processing-and-edit-distance
+  - videos/stanford-university-24-weighted-minimum-edit-distance-basic-text-processing-and-edit-distance
+  - videos/stanford-university-25-minimum-edit-distance-in-computational-biology-basic-text-processing-and-edit-distance
+
 topics:
   - AI
   - Natural Language Processing

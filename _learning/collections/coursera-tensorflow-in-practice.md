@@ -14,6 +14,12 @@ levels:
   - Beginner
   - Intermediate
 
+items:
+  - courses/coursera-introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning
+  - courses/coursera-convolutional-neural-networks-in-tensorflow
+  - courses/coursera-natural-language-processing-in-tensorflow
+  - courses/coursera-sequences-time-series-and-prediction
+
 topics:
   - AI
   - Google AI

@@ -25,6 +25,22 @@ levels:
   - Intermediate
   - Advanced
 
+items:
+  - courses/coursera-introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning
+  - courses/youtube-hvass-lab-tensorflow-tutorials
+  - courses/coursera-convolutional-neural-networks-in-tensorflow
+  - courses/coursera-natural-language-processing-in-tensorflow
+  - courses/coursera-sequences-time-series-and-prediction
+  - courses/coursera-browser-based-models-with-tensorflowjs
+  - courses/coursera-device-based-models-with-tensorflow-lite
+  - courses/coursera-data-pipelines-with-tensorflow-data-services
+  - courses/coursera-advanced-deployment-scenarios-with-tensorflow
+  - courses/coursera-end-to-end-machine-learning-with-tensorflow-on-gcp
+  - courses/coursera-production-machine-learning-systems
+  - courses/coursera-image-understanding-with-tensorflow-on-gcp
+  - courses/coursera-sequence-models-for-time-series-and-natural-language-processing
+  - courses/coursera-recommendation-systems-with-tensorflow-on-gcp
+
 topics:
   - AI
   - Google AI

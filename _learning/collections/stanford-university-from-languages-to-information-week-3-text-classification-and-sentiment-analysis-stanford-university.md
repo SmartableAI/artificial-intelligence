@@ -28,6 +28,22 @@ items:
   - videos/stanford-university-64-learning-sentiment-lexicons-text-classification-and-sentiment-analysis
   - videos/stanford-university-65-sentiment-analysis-a-baseline-algorithm-text-classification-and-sentiment-analysis
 
+items:
+  - videos/stanford-university-51-what-is-text-classification-text-classification-and-sentiment-analysis
+  - videos/stanford-university-52-naive-bayes-relationship-to-language-modeling-text-classification-and-sentiment-analysis
+  - videos/stanford-university-53-naive-bayes-learning-text-classification-and-sentiment-analysis
+  - videos/stanford-university-54-formalizing-the-naive-bayes-classifier-text-classification-and-sentiment-analysis
+  - videos/stanford-university-55-naive-bayes-text-classification-and-sentiment-analysis
+  - videos/stanford-university-56-multinomial-naive-bayes-a-worked-example-text-classification-and-sentiment-analysis
+  - videos/stanford-university-57-precision-recall-and-the-f-measure-text-classification-and-sentiment-analysis
+  - videos/stanford-university-58-text-classification-evaluation-text-classification-and-sentiment-analysis
+  - videos/stanford-university-59-practical-issues-in-text-classification-text-classification-and-sentiment-analysis
+  - videos/stanford-university-61-what-is-sentiment-analysis-text-classification-and-sentiment-analysis
+  - videos/stanford-university-62-sentiment-lexicons-text-classification-and-sentiment-analysis
+  - videos/stanford-university-63-other-sentiment-tasks-text-classification-and-sentiment-analysis
+  - videos/stanford-university-64-learning-sentiment-lexicons-text-classification-and-sentiment-analysis
+  - videos/stanford-university-65-sentiment-analysis-a-baseline-algorithm-text-classification-and-sentiment-analysis
+
 topics:
   - AI
   - Natural Language Processing

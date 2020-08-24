@@ -14,6 +14,12 @@ levels:
   - Intermediate
   - Advanced
 
+items:
+  - courses/coursera-browser-based-models-with-tensorflowjs
+  - courses/coursera-device-based-models-with-tensorflow-lite
+  - courses/coursera-data-pipelines-with-tensorflow-data-services
+  - courses/coursera-advanced-deployment-scenarios-with-tensorflow
+
 topics:
   - AI
   - Google AI

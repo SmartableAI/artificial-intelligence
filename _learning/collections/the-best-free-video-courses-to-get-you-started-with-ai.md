@@ -14,6 +14,12 @@ levels:
   - Beginner
   - Intermediate
 
+items:
+  - courses/coursera-machine-learning
+  - courses/coursera-ai-for-everyone
+  - courses/google-developers-machine-learning-crash-course
+  - courses/udacity-intro-to-machine-learning
+
 topics:
   - AI
 

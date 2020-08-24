@@ -17,6 +17,11 @@ items:
   - videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering
   - videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering
 
+items:
+  - videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering
+  - videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering
+  - videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering
+
 topics:
   - AI
   - Natural Language Processing

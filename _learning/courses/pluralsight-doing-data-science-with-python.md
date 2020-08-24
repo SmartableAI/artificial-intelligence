@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/python-data-science
 type: course
 price: $$
 length: 6h 25m
-heat: 51
+heat: 50
 
 provider:
   name: Pluralsight

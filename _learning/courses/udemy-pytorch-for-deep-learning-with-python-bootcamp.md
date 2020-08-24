@@ -5,7 +5,7 @@ webUrl: https://www.udemy.com/course/pytorch-for-deep-learning-with-python-bootc
 type: course
 price: $$
 length: 17 hours
-heat: 110
+heat: 50
 
 provider:
   name: Udemy

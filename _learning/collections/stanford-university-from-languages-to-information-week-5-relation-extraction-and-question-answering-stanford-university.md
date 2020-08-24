@@ -24,6 +24,18 @@ items:
   - videos/stanford-university-104-using-knowledge-in-qa-relation-extraction-and-question-answering
   - videos/stanford-university-105-advanced-answering-complex-questions-relation-extraction-and-question-answering
 
+items:
+  - videos/stanford-university-91-information-extraction-and-named-entity-recognition-introducing-the-tasks-relation-extraction-and-question-answering
+  - videos/stanford-university-92-what-is-relation-extraction-relation-extraction-and-question-answering
+  - videos/stanford-university-93-using-patterns-to-extract-relations-relation-extraction-and-question-answering
+  - videos/stanford-university-94-supervised-relation-extraction-relation-extraction-and-question-answering
+  - videos/stanford-university-95-semi-supervised-and-unsupervised-relation-extraction-relation-extraction-and-question-answering
+  - videos/stanford-university-101-what-is-question-answering-relation-extraction-and-question-answering
+  - videos/stanford-university-102-answer-types-and-query-formulation-relation-extraction-and-question-answering
+  - videos/stanford-university-103-passage-retrieval-and-answer-extraction-relation-extraction-and-question-answering
+  - videos/stanford-university-104-using-knowledge-in-qa-relation-extraction-and-question-answering
+  - videos/stanford-university-105-advanced-answering-complex-questions-relation-extraction-and-question-answering
+
 topics:
   - AI
   - Natural Language Processing
