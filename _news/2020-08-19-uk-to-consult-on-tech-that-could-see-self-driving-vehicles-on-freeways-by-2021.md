@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self driving cars to get go ahead on UK roads next year"
-    excerpt: "The Department for Transport has announced that Self driving vehicles could be allowed on UK roads by next year. The government are currently considering proposals for automated lane keeping technology and collision avoidance technology and these could be ..."
-    publishedDateTime: 2020-08-19T10:58:00Z
-    webUrl: "https://www.geeky-gadgets.com/self-driving-cars-to-get-go-ahead-on-uk-roads-next-year-19-08-2020/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/08/self-driving-car.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Self-Driving Cars Could be Allowed on UK Motorways by 2021"
     excerpt: "The running joke that is the development of \"self-driving\" cars could be about to take a huge leap forwards next year, thanks to the government opening up a consultation that may allow a simple version of the tech out on the motorways by 2021."
     publishedDateTime: 2020-08-19T13:38:00Z

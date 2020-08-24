@@ -40,20 +40,6 @@ related:
         width: 3648
         height: 2736
         isCached: true
-  - title: "Self driving cars to get go ahead on UK roads next year"
-    excerpt: "The Department for Transport has announced that Self driving vehicles could be allowed on UK roads by next year. The government are currently considering proposals for automated lane keeping technology and collision avoidance technology and these could be ..."
-    publishedDateTime: 2020-08-19T10:58:00Z
-    webUrl: "https://www.geeky-gadgets.com/self-driving-cars-to-get-go-ahead-on-uk-roads-next-year-19-08-2020/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/08/self-driving-car.jpg"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "ti6lLgqDNMdQo600eEZ9ZfhXPDNYmEmQs/Vg0UN/9UhotjiiP+9uDqeD/vjBSz2wz5izBLGvVN+xZ4AUAZUGtKhtyDJWJ9deMXsQ9fomUm0VeQVRmHmTCyBzYdAyC1KdV5cThzIZ2eDo9gSAsqyrV1cl6wpNWM35KEssVSVRWggjWRAMJQALIYFabSADhMMDVPZ5e6Y0U7ivB6WINH4UAZuCGTxVCTuuOQcvui+PyVkyoY4Hg8rMwetNdH4X+lgCgYr6QhY7kspzkU5NhL5qGJtaQbpIwXoTh7aW2TxuQn9jGqe91o/w5KMyBcH+e89BJ42ZCAYIKrCNjnZZ7rPsqQ==;vmTLLvJ7vG8HkvL7wVoL1w=="
 ---

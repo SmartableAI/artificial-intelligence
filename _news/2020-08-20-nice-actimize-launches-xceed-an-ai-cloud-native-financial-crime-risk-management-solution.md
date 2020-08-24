@@ -23,19 +23,6 @@ images:
     height: 430
     isCached: true
 
-related:
-  - title: "NICE Actimize Unveils Xceed, a Next-Generation AI-Powered Financial Crime Risk Management Cloud Platform"
-    excerpt: "The Xceed AI cloud-native platform revolutionizes AML and fraud prevention for financial services organizations of any size, dramatically accelerating their cloud and"
-    publishedDateTime: 2020-08-19T10:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/b17152540/nice-actimize-unveils-xceed-a-next-generation-ai-powered-financial-crime-risk-management-cloud-pla"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17152540"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17152540"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
-
 secured: "ohwkT0sfUUa6xDvJeCI1jLQ0gL8HHkNlfKVbSQMmj7MyYD7KjziQVHkRWPzHG8ZxAsmSGcfV/McWroDOw87h8ZBBoHigqtUgieUgIc5EEzCJraWveViE/1dg8uAF38iBMZjv/M4bQQyAKg/B+xKak1EDdoyrLiY4vL9S+gbV+TNHn8AktKkLjv9QeYcDxQLGwjOhEhI4wfPtcpC/H+5GA0Md1wzdlePt3WMIBbOWUTDDg7jLenKWxK2rnyDOT/Js4GiNemJH/BnpUVKWIB0ECf2AFQ8DVq4VtbcKeZz4pzaEbF6ET+oOJlB3a708q+VHSwoGZ3LeHSt3dzKBUgfOOA==;XbvgMvAKykb0TQQnkKs0aw=="
 ---
 

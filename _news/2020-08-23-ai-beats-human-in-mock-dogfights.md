@@ -23,6 +23,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI pilot beats human in clean sweep of virtual F-16 dogfights, human fails to register a single hit"
+    excerpt: "An AI pilot defeated a human pilot in a clean sweep of virtual reality dogfights, with experts hailing the victory as a significant moment for artificial intelligence, sources reported."
+    publishedDateTime: 2020-08-23T17:20:00Z
+    webUrl: "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep"
+    ampWebUrl: "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 73
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/F-16CM-Fighting-Falcon-3-DVIDS.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Heron Systems' AI pilot just beat a human in a simulated dogfight"
     excerpt: "A DARPA event pitted AI pilots against each other, and then the winner took on a human pilot wearing a VR helmet. The AI pilot shot down his simulated F-16 in all five rounds."
     publishedDateTime: 2020-08-21T03:09:00Z

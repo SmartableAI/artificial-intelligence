@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/</loc>
+    <lastmod>2020-08-23T19:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://markets.businessinsider.com/news/stocks/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-1029525962</loc>
     <lastmod>2020-08-23T18:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,6 +15,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/</loc>
     <lastmod>2020-08-23T10:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep</loc>
+    <lastmod>2020-08-23T10:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -201,12 +213,6 @@
   <url>
     <loc>https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/</loc>
     <lastmod>2020-08-21T01:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.engadget.com/alphadogfight-ai-f-16-pilot-025617519.html</loc>
-    <lastmod>2020-08-20T20:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

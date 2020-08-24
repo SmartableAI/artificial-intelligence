@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2116883/deep-learning-system-software-mar
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2116883/deep-learning-system-software-market-may-expand-rapidly-post"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 780
     height: 501
     isCached: true
-
-related:
-  - title: "Machine Learning in Retail Market"
-    excerpt: "Machine Learning in Retail Market 2020 report is a compilation of first hand information qualitative and quantitative assessment by industry analysts inputs from industry experts and industry participants across the value chain The report provides in depth analysis of parent"
-    publishedDateTime: 2020-08-19T09:11:00Z
-    webUrl: "https://www.openpr.com/news/2116297/machine-learning-in-retail-market-to-impressive-growth-2025"
-    ampWebUrl: "https://www.openpr.com/amp/2116297/machine-learning-in-retail-market-to-impressive-growth-2025"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2116297/machine-learning-in-retail-market-to-impressive-growth-2025"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
-    images:
-      - url: "https://cdn.openpr.com/T/8/T819308741_g.jpg"
-        width: 562
-        height: 313
-        isCached: true
 
 secured: "KTF8+SEUYtaX+X+BfXS7vTPDlB+JPpJvEmWkX7aPm/NGc+29z6GLuZ6iyK5SbA2Iu81zFALjDOhsKdFmEI38ODqsjgGK/WyW9qMwi9z9uP3OzlBPynyARv0uZft1LgPzpFjNf2L4TEUo7wEufbqn0CYpb2deM/Qo/60LUOhCMuldozw64IVQhCNzPnvW/aoip9dOLIH65wDngdlJwr21yTNZPnitVjWxASBAFqcT62wRiMjzMGrE1PdiZToRu5B0iZsNdh8F7Vn5wtBGSacH75LP0KofhFiLLG5CuTe0ew8MoXHU2slDRUh0ieYBUboBfqo/37+MeFHdjnh5sNR1IycDjO1/bQXU1s73Ipls9+Vx9zGorLG/LzCN4sBLoaYZFSRgj/WPgDMmbfOGyULS8+R9fxdRTl5Q+Lwt7/QKhf6STvYQN/x7hZ6HdjTM0KgJfylgQ2hQHzOpP0Cf9OGfyJzzV0GCU58E9qOEPG2e3XHC+u4vHpLr68F0VVzVVSZt;VynKKil5+fSOKdR3M+EKAw=="
 ---

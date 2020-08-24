@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-21T03:09:00Z
 webUrl: "https://www.engadget.com/alphadogfight-ai-f-16-pilot-025617519.html"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI pilot beats human in clean sweep of virtual F-16 dogfights, human fails to register a single hit"
+    excerpt: "An AI pilot defeated a human pilot in a clean sweep of virtual reality dogfights, with experts hailing the victory as a significant moment for artificial intelligence, sources reported."
+    publishedDateTime: 2020-08-23T17:20:00Z
+    webUrl: "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep"
+    ampWebUrl: "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 73
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/F-16CM-Fighting-Falcon-3-DVIDS.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "AI Beats Human In Mock Dogfights"
     excerpt: "An artificial intelligence algorithm beat an “experienced” F-16 pilot in five straight simulated dogfights in a project designed by the Defense Advanced Research Projects Agency on Aug. 20. The pilot was up against an AI system named Heron and and the two duked it out in a Second World War style forward firing gun battle."
     publishedDateTime: 2020-08-23T23:32:00Z
