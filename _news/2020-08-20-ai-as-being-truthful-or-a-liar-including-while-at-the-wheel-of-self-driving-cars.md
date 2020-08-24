@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truth
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/lidar-huawei-car-autopilot-self-driving-sensor-tech-development-796x447.jpg"
         width: 796
         height: 447
+        isCached: true
+  - title: "60 Minutes: Self-Driving Trucks Will Soon Be Kings of the Road"
+    excerpt: "Minutes also spoke with Chuck Price, the chief product officer at TuSimple, a privately held, global autonomous trucking outfit valued at more than a billion dollars with operations in the U.S. and China."
+    publishedDateTime: 2020-08-24T19:38:00Z
+    webUrl: "https://www.thestreet.com/mishtalk/economics/60-minutes-self-driving-trucks-will-soon-be-kings-of-the-road"
+    ampWebUrl: "https://www.thestreet.com/.amp-mishtalk/mishtalk/economics/60-minutes-self-driving-trucks-will-soon-be-kings-of-the-road"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-mishtalk/mishtalk/economics/60-minutes-self-driving-trucks-will-soon-be-kings-of-the-road"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc0OTE1NDY2NjYwMTYwODYz/kings-of-the-road.png"
+        width: 620
+        height: 346
         isCached: true
 
 secured: "IRqBBPMgkEXHS00CjCsof3yKyEweIfBISVjAm8t1ll7PhtJ02lQs+LA45d5FwskuYWl7DZKWHks9o3SJDaPOpgvQzAWAjNQMaJQsF6ps1LDSKBKp+bBvCrVEK2Hh9enW6m2Fn5Uy5qwPQ5dWqlEmrgJy0UpQksh9CVqxUp422h17NgwL06GtTjqVOX+owq+p2g2a8tcNAaeWFZc6QWS5q4TQHH9N38fllFcnqhKxMN1OBJyyUdWlkUwxFtNlT99ueXe3fvywd3aNLvfsgnGCejrw7xjLbU128IXV3GX1UaQKfSChFdIX2OJ+eKDMjxLsLIXOutaY5ttJGXvl8+s4+RopzmyojLn3LSCjN6jEitqlVnTBHUdk9LcqFvbInDWtRo619GX0Z3NPJYQCvMmqIRyBp91dmfYMELgierlcKIy1IcO/6FG2saLZDWi4HLsrOYeVT7UxmDkYnY7/t8QSPqnYKY+LvFqZaZoELCDNl29kW4lhk5izILGaDVtbE7lLhrkdi5rmYka6hYp9BN3oYw==;Vsi5qNIn+N+mE/ncMZA+8w=="

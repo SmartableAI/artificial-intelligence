@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook wins preliminary approval to settle facial recognition lawsuit"
-    excerpt: "Facebook Inc won preliminary approval late on Wednesday from a federal court for settlement of a lawsuit that claimed it illegally collected and stored biometric data of millions of users without their consent."
-    publishedDateTime: 2020-08-20T02:57:00Z
-    webUrl: "https://www.reuters.com/article/us-facebook-privacy-lawsuit-idUSKCN25G08M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN25G08M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN25G08M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200820&t=2&i=1530292134&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7J04P"
-        width: 893
-        height: 545
-        isCached: true
   - title: "Court ruling paves the way for Facebook to settle its facial recognition lawsuit"
     excerpt: "A judge gave Facebook preliminary approval to settle its Illinois facial recogntion lawsuit that was filed under the Biometric Information Privacy Act."
     publishedDateTime: 2020-08-20T20:15:00Z

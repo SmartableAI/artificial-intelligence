@@ -51,7 +51,21 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 48
+  - title: "AI unicorn startup Dataiku plans New York hires after $100M funding round"
+    excerpt: "Datakiu, a Flatiron artificial intelligence startup, has raised another $100 million from investors and says an expansion in New York is in the works. The company—among the city's unicorn startups valued at $1 billion or more—provides subscription software that allows companies such as General Electric and Unilever to create programs that sift through huge databases to guide business decisions."
+    publishedDateTime: 2020-08-24T19:26:00Z
+    webUrl: "https://www.crainsnewyork.com/technology/ai-unicorn-startup-dataiku-plans-new-york-hires-after-100m-funding-round"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/s3fs-public/styles/800x600/public/2020-02/356677593.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
-secured: "Ov2cwKidR/zWBT7t0FwHlKqGv0dL9sJx8BBRnuqzlswW2Z1yh1zx/sLxJIhekuqUHn9S9O6GMEd0FvTJ7TYcF6A+cAa0qHt/UB+3a7m5XNo8C1xHtixc49iePg+jSp7UYluZMzQzMPAxJTxqRjtQB3cwvqGlBJDyr74ckn8wWI9OMBkH5O2PVko2cvSDHZK6WW2kK2gCNd5GziMzAbHb6mLMuRsEZr2MAshsqJF7zLTsj5PRB0f2B03UoTUKIUXnbHcpvMQzV9FtJWT7Fnxtt3Y/+4zNBX8QtZ0LsfsSXKY8Jb53lRKsLPDn5+T9zSpjavDNyvl2O39OOsbEDvsRtQ==;BDHiNcfv6H0BgC5bL9fqQw=="
+secured: "mbsQ2BdIx2OTFpe8XX7wiIK1unVXMq+UUZcymxyEpUV6b7c36Motx6TxSKEVzu91sHEgqJBdHzA1iOuhC8rBFAw4ZiycQe/wAtifpLo43fwpO8oG4bUntGZPI3icTOfkAefHd55dlsCFW/tTdiFFaPJPVej/uwMKN3XwpPzijrY4Pz0e5qWp242m4Q8AgW7rIqwhTgzvJ7eGMcRUi+Jh8adU+PXdFVSCsKCWgmKj7lTt1dcHLfwQgins3oB5H1Woa4qfoF57Qh0gDlq/+Dw2wohA9Pm4icFTnzaAmuNfGGOfp9suQuo3WbEo/Dj8a3LqHBJ1dMamQbrl0KFIYHS8/sAUH16hB7m08v5uZoODH7Mz1LsuWuOexTSzGx8/fTwqR/f08WNrfJEjc2hWOpv3bTXOW7KBP4mdH5e2faNWWKd5aauYRkOzLbK78dZ/DEBSMb0//64l8ikFcUwnEsegSDusJDUlgI4dKtVNl1rs7amLisBffXjzZGiIqPhMDmtMSvTVkkkVtoVpvoyQ6aD6LA==;51KGiV/bKDGZ3dXiokMxFA=="
 ---
 

@@ -2,18 +2,18 @@
 category: news
 title: "Kamala Harris shines spotlight on trailblazing Black women in her 2020 DNC speech"
 excerpt: "Calif., accepted the Democratic Party's nomination for vice president Wednesday night, she did so by recognizing the trailblazing women who came before her. \"That I am here tonight is a testament to the dedication of generations before me,"
-publishedDateTime: 2020-08-20T17:09:00Z
-webUrl: "https://abcnews.go.com/GMA/Culture/kamala-harris-shines-spotlight-trailblazing-black-women-2020/story?id=72492044"
-ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
-cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
+publishedDateTime: 2020-08-20T17:06:00Z
+webUrl: "https://www.goodmorningamerica.com/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
+ampWebUrl: "https://www.goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
+cdnAmpWebUrl: "https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
 type: article
 quality: 54
 heat: 94
 published: true
 
 provider:
-  name: ABC
-  domain: go.com
+  name: GMA
+  domain: goodmorningamerica.com
 
 topics:
   - Natural Language Processing
@@ -91,6 +91,6 @@ related:
         height: 686
         isCached: true
 
-secured: "T0/0J6UKxT//5RbQd1Ku8iZ3n+f7zEBZtCvLcrAq32kYsoUnnj2M6kZYt1rYzMFbi3/YgTWaJQELthBriBuHoUhG5/46U8+pqHU8qWzraENhWoeSjPqqgoG+bWnpFhKZmjf2P7D8qe8+SrgyENCj0BCywbxR5SZ+NqBsxpIE9wJ4DX34UyIdc5qeWYTcYYV628V9waT8J1OiEHC9rUXq/gL+Z2/D7VKs8IaHON+DYTk5Dz6cAVgOI1+rgnjFa6PxQKzfM+0qgJ/Xe4AVLa4eSRpzenQ15vvQGpISiHGAvWWTyLeIcO+JOQdiG0CYyHMwi7RTfkMXzrsHrzMgRjdkUA==;D24lAmMulfsTUKwxvoS6Ug=="
+secured: "onCLNkRpEcF2D1HP2v+pCIEAazP90iSPsDivw068jb0XSdG8fkdGMqyqnX9h6cD/1zFT3wpOvXIo6IWYMr4d4sJexbNbwQon/c/20ytI9k5rvNlTwKtD4zL3tQ4zVNKjFL7NJcCV2lpujIGgKXNVXFgrMCxEiZdk9VBbnjtO31R3bTNTwEEZC9p6Uzdxwu7c0rWgAwbPtq0aOuYpsQt3LN3Qd73g3wlVZVpDX37LcoaN09ogLPlQXfHmDeW711iuGr50jcObcIQMvpI3NtmCP6CDfyFxXNmUs3QpGoQz1JcAq8FXIbJ5m3s6YE4nKllmTDvMG7wew5nf1hJLLSe84Q==;5RlX3WdbryhHrIYs3dypig=="
 ---
 

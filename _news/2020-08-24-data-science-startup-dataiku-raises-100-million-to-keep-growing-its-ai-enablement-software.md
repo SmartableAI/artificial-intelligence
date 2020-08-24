@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enable
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enablement-for-enterprises-startup-raises-100-million-series-d/amp/"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 48
+  - title: "AI unicorn startup Dataiku plans New York hires after $100M funding round"
+    excerpt: "Datakiu, a Flatiron artificial intelligence startup, has raised another $100 million from investors and says an expansion in New York is in the works. The company—among the city's unicorn startups valued at $1 billion or more—provides subscription software that allows companies such as General Electric and Unilever to create programs that sift through huge databases to guide business decisions."
+    publishedDateTime: 2020-08-24T19:26:00Z
+    webUrl: "https://www.crainsnewyork.com/technology/ai-unicorn-startup-dataiku-plans-new-york-hires-after-100m-funding-round"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/s3fs-public/styles/800x600/public/2020-02/356677593.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "KmSfhlji0uirTxMsXCMWkCo7N2gZzJO6AfyL9Td1SfQcLWCxoNFM2jpgORGxSSUAKxZPFBWccbChCWW9XYvzPdEl+n82t82r0/ZXQSHSIKF4b2TzXn9opC4iB+CjA1RYL3s3dZ9T5/Blnakg/zdbDRdZY+AKmEqVjUjOUaMiTZyIIauVDbajG8r6zknPPUcwWKGZwtCk+KafEUWiUwY6hF7wipr9c9N8TJCzL2P6oUuiceVjqBx3EuA1fwM1KacmEKzdXa6JeYpABDOoTzm71hKXfpxhx5lqMFEXdKWZscUKhmw4Ztg5MB/IMQovPJxucHvW832HlyyPY68ICtDrRAM6iwcdsKrXEXlp4p0xuXmyXQMSYZaWHv5yOHCz02OaJV3Xc12bnIdw9WHfs2m+0OwHPUep6sWupznXp6ZO/qktZ2Kz3QY2p6OCK9KBMPF2734e1q+rQeUODY4SLny+v91vapPO9d/27r7P0zpX62lEfNXvxntvK/XtyNd/ZOd9up09PthuU0VCk1h35BQvGQ==;CMIAhqkaTaMqvqd/8sPelg=="
 ---

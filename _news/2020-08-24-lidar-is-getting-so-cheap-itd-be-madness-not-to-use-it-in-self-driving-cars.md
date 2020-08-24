@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "60 Minutes: Self-Driving Trucks Will Soon Be Kings of the Road"
+    excerpt: "Minutes also spoke with Chuck Price, the chief product officer at TuSimple, a privately held, global autonomous trucking outfit valued at more than a billion dollars with operations in the U.S. and China."
+    publishedDateTime: 2020-08-24T19:38:00Z
+    webUrl: "https://www.thestreet.com/mishtalk/economics/60-minutes-self-driving-trucks-will-soon-be-kings-of-the-road"
+    ampWebUrl: "https://www.thestreet.com/.amp-mishtalk/mishtalk/economics/60-minutes-self-driving-trucks-will-soon-be-kings-of-the-road"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-mishtalk/mishtalk/economics/60-minutes-self-driving-trucks-will-soon-be-kings-of-the-road"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc0OTE1NDY2NjYwMTYwODYz/kings-of-the-road.png"
+        width: 620
+        height: 346
+        isCached: true
 
 secured: "LzNxsjNrMyQaqMQoFAvKGeZ1JxPVAQEIA2BhnGhh+1CSG3znGYxbVUQ1/qCPXW2ehggU43dmDy5HAXo6qURRFB5bkdgsq//8/lRapTfx9SraI1M8puwVlTBtu2OJeYozOgSlL6bwYLkuLO6+sHv2mJEtPzUDsO2xy7KHA4Nfdb0eC3FA2RJIGTv00li7eNkeQ2kUXKKw6J3HGysdQY2NsHPhMOSx+m6ScmPioC71EquUiOaHqi1iP+wZ91LWaXmcFVu8SQee3QQlBYMhfHhm4aXO7UsNBJpE1wbgwcR/zWzL5FXzs9k5h320tUscIhp3bhutPmwb1CirtjuEMQ98ti9J+fjIcLNgXuEWCefjGMYMOMZRmADYNaFinfvP+mSlPQcjszslVxdI7dCB0/7FgNzDq7ue9jksFgpr2jtNeip2Vtg2wU7COIDb/2HPDT5wdgF66j/tamPEpHwWlWINVrRSIH/IUMeKeCAOz8jWiZgNrDsYE88IU2I+OOsftw+Yic0orOF/mOy8cLTVmAzLsQ==;EVavVUdm4fjrpBzITv99Ag=="
 ---

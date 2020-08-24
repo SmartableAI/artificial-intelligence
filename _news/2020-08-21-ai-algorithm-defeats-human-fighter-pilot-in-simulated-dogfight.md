@@ -55,6 +55,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "AI beat a fighter pilot in a simulated dogfight — was it just ‘AI theater’?"
+    excerpt: "The virtual AI dogfight was a \"cool\" way to get AI into warfare, but was more \"theater\" than anything else, some experts said."
+    publishedDateTime: 2020-08-24T19:58:00Z
+    webUrl: "https://www.fedscoop.com/ai-beat-a-fighter-pilot-in-a-simulated-dogfight-was-it-just-ai-theater/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 35
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/08/5083051.jpg"
+        width: 4533
+        height: 3026
+        isCached: true
 
 secured: "D3ht6XMbX6rImLkeJNG5hii/3KMrW//w/UPKopYa+3Y0WI1i5mxhy/ZM4yPC72BqHCAVwCtZ0eQIxyRvGoAHjvXzYFBUYM6+ZXHeUrGY6Y06rGLT5MUyOiuWoWJIRdL+V6SPKJpiWABtZ3TaxR1XYO6C/vyGtiNyLUedQYvajILGLFuzaPssvpf9+eEzgz+Jah1kHKdU5cm6nmwRtiGNtTTLtGXb6B7oQDOoPyglX/zbISrOmtMcajgphT2m6AnKG2aIpEJpj4WdwHyuBE3qei3zuqIbCJKRKgNgRw0HM2hKuLzs1X1sP7Y9hi+1R6ZkF7dfixN7KFOqn9xxhfboBQ==;Eh0Umcg/N0+RVr4dz1su5A=="
 ---
