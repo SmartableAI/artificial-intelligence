@@ -3,9 +3,9 @@ category: news
 title: "World’s largest chip gets beefier: 850 thousand cores for AI"
 excerpt: "Announed at the Hot Chips 2020 conference, the new chip — which is as large as a single 300-mm wafer — packs over two times more transistors as well as a whopping number of AI-optimized cores. The Cerebras Wafer Scale Engine Generation 2 has a die size of approximately 46,"
 publishedDateTime: 2020-08-19T19:30:00Z
-webUrl: "https://www.techradar.com/au/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
-ampWebUrl: "https://www.techradar.com/au/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
+webUrl: "https://www.techradar.com/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
+ampWebUrl: "https://www.techradar.com/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "rUIWeisajliPjhIp6Z88wdl/EOMavtFzrsm7fZ+SyJvMAHcJcZaGjGIMUTFNegcIhYD09+3lvfz4zv9S4svtg0UhSQDD5LgtGoBe3NJAo0c0dtu+SQFqYxuk/h0zrBZFUGSjI1wvyQ7SNthaTMtQkAi/X7QWCriKo3qep9mc1ffxJjBjAOXId0JitcGLyWusuUxIyYEnzdFLkjCnP7GDSeZBYgyUpmH599LDjGPORhZSnS1DB6PRqm28+L4BNmnI76ynIV30ZThUJN0MCNkGFV4fqbEm+j4sjQs1QOI8o9jxbxhEAsSQnIGzI5xXyAbyKTtsWWhJxXo016ugR0hoXh7Q4rklEd8GQ4APjkEIRh9MF29J1Yxpj9PAFCP75a6+mSXGJru2tSmK/vffhv8hEoCEvOKt74ljtH2/eXFBesy6fgLk7uWaHTH91Uj2Lp+7FtBFUvylPlxuTimHlLFH3Z2Ki4IUVsUss15b025YN2udzQV6zpPutc8oibPIhpRWiZHjoiAbBkuhFwV4lu3fjg==;ttmCqIxmxR30X1TyewIGJA=="
+secured: "QbtGYuRbtdBWAknaygzteM0m/0Iq9wKVVbVNZk8ICCzqvCWHH0+LA+orok8v9JVRDaAqMAcaodt3FLYPmJOyqpknWVrOb8U2FD8F1l9hMgi1kbEgf4X4btLuSAsmo0roe37XqzFLnsoXi2VYSnkNuFkPU1zDLD47dzFfh0jcyZBzjnujITPSvF8/tXPTgkGGLRH/6xnq0tZQwwELVSl6VLx2httb5p2A4u/vJZ94+XDdGPw7H9XbPgJ2AKkZV27qW1DlqHxMfY+cFblxktyhuxupkJn5esOIrHJCA6WD0d7ojVjyk3pejsjYpmkCutMaqzC/lcqZNWa60TA1STHPzA==;54s/cznwwcz9KGhPdd/R7A=="
 ---
 

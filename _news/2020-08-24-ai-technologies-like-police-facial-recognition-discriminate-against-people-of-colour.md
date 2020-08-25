@@ -36,6 +36,15 @@ related:
         width: 1024
         height: 560
         isCached: true
+  - title: "UK Court Spurns Police in First Legal Test of Face Recognition"
+    excerpt: "As the world’s first legal challenge to police use of facial-recognition technology, the decision by the Court of Appeal has established an important precedent,” she said. “Other authorities will think again before rolling out similar technologies,"
+    publishedDateTime: 2020-08-25T18:57:00Z
+    webUrl: "https://cyber.harvard.edu/story/2020-08/uk-court-spurns-police-first-legal-test-face-recognition"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 19
 
 secured: "/Fq2GS2nFnx0KGL50ZZPxQYgtdHyF1c2ojIbaA6KWk38g5oX/tiK34T9nA6TSFotDL6SG86RzQkGx3JCLAgXE3pjNTV52A7Fl0KrO2mjjIz12HiICqERlFfLQ/zdsgKTFpjqrB0grSAEkdb0SzItkO50GkMgsHAEFu7zQIJnEyrX933WAak/9Ff1j7mrPG2NDRG2axjAZOB2yhr8v2OsAYjzyk28gtF6QbLkcE45/qe0YfWkbO5AqfeRoWxVWkSejhN2HoiCwPbmxbEmPumfv0SGN/ijzR9I44u5hUfHJghrLkD5cZGMDy6hH6ysX8e1SddHviVJwq9qv3Gl54L8ZuaHVPW0DVK8yzZ3K53H7fkgWaoRKilNb3CUgk+ii233+xH8K6p3kUyXecD7W8YilshSu7UCDc9pNNu6Cmleg8Ack2/AiFIjxi1lS6ICQRK4gPp+n1GBgRWJJNRA3o95+zLx6SD3jfto53zvb2Mhr/WAdMDD8QagvcAWGq1oM/C5;aQOx4foAXdaWGGw9eGx77w=="
 ---

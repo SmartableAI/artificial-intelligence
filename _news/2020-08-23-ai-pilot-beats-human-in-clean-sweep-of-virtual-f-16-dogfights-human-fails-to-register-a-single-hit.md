@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Heron Systems' AI pilot just beat a human in a simulated dogfight"
-    excerpt: "A DARPA event pitted AI pilots against each other, and then the winner took on a human pilot wearing a VR helmet. The AI pilot shot down his simulated F-16 in all five rounds."
-    publishedDateTime: 2020-08-21T03:09:00Z
-    webUrl: "https://www.engadget.com/alphadogfight-ai-f-16-pilot-025617519.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F3a13c4b0-e359-11ea-8b5f-75ffbab8f926&client=amp-blogside-v2&signature=aa5cd3dcc77471736c8733b40735efeade67fdea"
-        width: 1130
-        height: 630
-        isCached: true
   - title: "AI vs. Human Fighter Pilot: Here's Who Won the Epic Dogfight"
     excerpt: "The dogfight is part of a DARPA-led effort to develop AI for fighter planes. The AI won an important string of victories but robotic air combat still has a ways to go. An artificial intelligence claimed victory over several other AIs in simulated dogfights and then went on to trounce a real human Air Force pilot,"
     publishedDateTime: 2020-08-25T13:20:00Z

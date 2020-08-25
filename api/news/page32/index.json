@@ -2,6 +2,47 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-07-29-reminder-the-ultimate-artificial-intelligence-scientist-certification-bundle-save-95.md",
+      "title": "Reminder: The Ultimate Artificial Intelligence Scientist Certification Bundle, save 95%",
+      "excerpt": "Here is what is included in the bundle: Machine Learning A-Z Deep Learning A-Z Python A-Z Tensorflow 2.0: A Complete Guide on the Brand New Tensorflow You can find out more information on this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/reminder-the-ultimate-artificial-intelligence-scientist-certification-bundle-save-95-2-29-07-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Ultimate-Artificial-Intelligence-1-1.jpg",
+          "width": 700,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-the-most-futuristic-predictions-that-came-true-in-2017.md",
       "title": "The Most Futuristic Predictions That Came True in 2017",
       "excerpt": "Just a year after DeepMind’s AlphaGo became the first artificial intelligence to defeat a grandmaster at the game of Go, a souped-up version of the program, dubbed AlphaGo Zero, taught itself ...",
@@ -1135,47 +1176,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-global-autonomous-data-platform-markets-2020-2025-impact-of-covid-19-and-analysis-by-organization-size-deployment-type-end-user-vertical.md",
-      "title": "Global Autonomous Data Platform Markets, 2020-2025 - Impact of COVID-19 and Analysis by Organization Size, Deployment Type, End-user Vertical and Geography - ResearchAndMarkets.com",
-      "excerpt": "The growing adoption of cognitive computing technology and advanced ... As autonomous data platforms and services help efficiently address these challenges, their adoption by retailers is expected ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200728005637/en/Global-Autonomous-Data-Platform-Markets-2020-2025--",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200728005637/en/371054/23/ResearchAndMarkets_800px.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

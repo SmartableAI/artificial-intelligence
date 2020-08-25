@@ -3,13 +3,10 @@ category: news
 title: "AWS reveals first quantum computing partners"
 excerpt: "Amazon Web Services (AWS) has announced that it will allow all existing customers to access quantum computers through its cloud service. The quantum computers are early-stage models provided by three technology companies—D-Wave Systems Inc."
 publishedDateTime: 2020-08-20T08:40:00Z
-webUrl: "https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners"
+webUrl: "https://www.techradar.com/in/news/aws-reveals-first-quantum-computing-partners"
+ampWebUrl: "https://www.techradar.com/in/amp/news/aws-reveals-first-quantum-computing-partners"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/aws-reveals-first-quantum-computing-partners"
 type: article
-quality: 89
-heat: 89
-published: true
 
 provider:
   name: TechRadar
@@ -29,6 +26,6 @@ images:
     height: 545
     isCached: true
 
-secured: "3irQxOF5cHrGlxopZs+AFgeLtqvSttHhTLz58PJ5uo+BysY+//bUReIj6Q02DoZOAHtj4CVygQNQ+3JrBztSv9uwrEvf+YJIbEn9PhdXq73nBninJQJvrkFeJnXkwxbyY7X7himdFUrs+Kk9zxjTORf0cWrOSQ57Fij/aWF/ZuszokLq0iDkvMty3/h2HksMVKV45RG/Kj+cSfZdQTHFY5fqQ6XTCRLgW80dtm/DYcKeF/S18LGCpx/CJ5olmU01ub2tFzphF6Dn+EOIYfeF6tBtZWlnIU8p1kraqpk+d3aElwFoOFBi3sfTW6DQgZmDeN23pQugFvlyZbcAOohYyWkKzL972Ema3Z3v2KGiZXx/c3gRQMsfIXEdq7a0t3U3WCV//+rak1NmylfxDrPgttnDpruXF88pPYRO9D4Ujb2LRSZvNCR5x3mKQtj+yxMRGIIWR+o+/6nGf74VFTUYZ/YID6AXJjXEBMteHO1kfEeikafX6PbQhxsk+OQ1JqJv5Q86VUyCZAXg9vbaRgo9sA==;H0dL5oLYz8b5qyzbqyU9hA=="
+secured: "VZC9ir4omCRtvNURMfy5XATAclam6dvwVtTvXoM/PO+VTP0PxiE7ggzQN9lTX0XBOP0qxLA7A1I1mIgfSIQ7/kDzLwpurZ8b101fsOsE/yIITbJJoNqnz/uK0lsRNBluClbEcZ61SpXCo/9QVlHRIh/hohalfMcFDUq3dkmO7+HY3tEZaUlFTnVKThHin3nlcAYjLbeTIX9FYcv095qIVaVZ0gVezUAifBPkhTwbJLZUW7sYUvjYIxwfZ5ahvh/a3FFOM/dJwQDpL3m++5z/u3nqgsDJ9gMZ6QWzmy0W4GZjZBgm+mBX3aZNYtHVskOsgfD9oCXejgpML10no178ag==;mCmlKXNFPCY96S5aoU2KEA=="
 ---
 

@@ -2,24 +2,24 @@
 category: news
 title: "IBM Collaborated with the City of Seoul, South Korea to Develop an AI-based Virtual Assistant for its Citizens using IBM Watson"
 excerpt: "have launched an AI-based virtual assistant for Seoul citizens using IBM Watson Assistant. The virtual assistant is part of the city's \"I Care You\" project, which is designed to survey the changes ..."
-publishedDateTime: 2020-08-20T13:05:00Z
-webUrl: "https://www.prnewswire.com/news-releases/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-301115686.html"
+publishedDateTime: 2020-08-20T15:00:00Z
+webUrl: "https://www.finanzen.net/nachricht/aktien/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-9217179"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "SIAGJyb2qpOInbuOiRWXaWBFLBM3NjpGFnarBpm1yE9CTEPqq3FAR6nD0S34job4AUbY6X38njRcZ/iYLIQ5JRxFemVr370BbV7uypyxVNVwKoQKzTcSDhMDjfLEmK8joqh/twFiSOT8Xow7AQkYtsxsLv3M2vZfT9aZVnoGUefvXun4ppuJAsd51fSJ57fsAoPm0PsAm/ZJkqSzPpJpbYGn44ojJV1hK30Bld5j2ctU5CK/zJE5tVgMh0IELxjcNCXFCcDLQybGUHDDrQK+BwTSz6gGqCp/MEPCpoWdtQNHqjexuNVZEU2pDoUGIO0h59acKXBa/ekfMEB3DRYHqA==;J6jCfFIsv5O6rqQ8CLO4Jw=="
+secured: "i4UGcaTPuO2gfQY23wfeRXe1eiQXMTfzq1qKKdVXTI6aHL9uaK719LR8gKXtlpWYiwNul+4czaI2/wQqhW8s9JyVXege5X8ldmGgh0l8Sndou39BTCO0HUMQNAWByw6gNcyiGj2BDX/sJyt3P36nQn2w8mJr/QwG2Dt7JxLdYPYAQ+XHIW3Le8RMlqNibhKoKF2KsjuG2+eObq5nw3ybP57BtINwigE4eltWw+nMZzhX4yOvFgdY7NNDNqqNuDICnsQ4OapE25rBaLXj4i/j6ECeWp2v+avXmMLFW3uDWEH1xSZOM8B/HdIfG/yyHODgSDlghrWFypFZEmtQ6kGw1A==;fA1Y8R/i/NefPD/EYfs4DA=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2020/08/25/micros
 cdnAmpWebUrl: "https://www-microsoft-com.cdn.ampproject.org/c/s/www.microsoft.com/en-us/microsoft-365/blog/2020/08/25/microsoft-365-transcription-voice-commands-word/amp/"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Microsoft Word To Take Voice Commands, Transcribe Recordings"
+    excerpt: "Microsoft said that updates to Office 365 will allow users to record conversations \"directly in Word for the web and transcribe them automatically.\""
+    publishedDateTime: 2020-08-25T20:55:00Z
+    webUrl: "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/"
+    ampWebUrl: "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/08/microsoft-word-voice-commands-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "Bo3Gwvbq4CcmhCU0DiTzfB0tIOmaP9pM0Tx2uO0TARmVfuwjfP95Tc8sMjRP5bCBNrCesAy7bgXrw1iCD5QMaF8ecgMTejFqVvP3pkSGydmZoMBMjUr0PACh5h31/V3Os6WXdnQ30LWKzEpblF7T2zBVjDmRaDSrYFU0p/xTlHlesETroD70kFB0CIbQncrRDPtKF77VNFN9frpmTmZiVDtX/Kg5xbQJYP9G33oc8IKadJesmy0jXYEUjdOKVor+hIwe5FfjNhgDSvUFrr4Ux5SlGdNlo9wH5zbJ3NcxFkdEhEgZ9Wj8pNHBfenbOEg0vSrj3dH1cEAynIehHZgm6wFL1NRfITt5ZtgOabeLpOHYe6JIojZF60UiWreXzl0CJdrDXpG60CRqs539L8h9g0hREA2ON0BL+X1GOSMZnlY3vk5FBH2F4QHxgzjummwX0mM656lzzGKD416qxQVnuoXFvqbpOfP0+w3AsFMx3IZWZYZl4XdrueyufeL1tcGdBkCDHHu8izlDdV9Dz9Hemw==;VCSqZ/aVZse1xDCOCC92mA=="
 ---
