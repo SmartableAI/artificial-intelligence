@@ -1303,49 +1303,7 @@
         "AI in Autos",
         "AI in Robotics"
       ]
-    },
-    {
-      "path": "_news/2020-07-09-artificial-intelligence-the-case-for-regulation.md",
-      "title": "Artificial Intelligence: The Case for Regulation",
-      "excerpt": "With every passing day, technology becomes increasingly indispensable in our world. Inventions such as electricity, the motor car, and the internet stand out as technological advancements which have transformed our entire society.",
-      "sourceUrl": null,
-      "webUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cherwell.org/wp-content/uploads/2020/07/08132344/AI-1-e1594305662408.png",
-          "width": 850,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
-      "cdnAmpWebUrl": "https://cherwell-org.cdn.ampproject.org/c/s/cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
-      "publishedDateTime": "2020-07-09T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cherwell Online",
-        "domain": "cherwell.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
     }
   ],
-  "nextPage": 5
+  "nextPage": null
 }

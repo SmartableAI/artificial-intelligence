@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-20-explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-of-interpreting-machine-learning-models.md",
+      "title": "Explainable AI: From the peak of inflated expectations to the pitfalls of interpreting machine learning models",
+      "excerpt": "We have reached peak hype for explainable AI. But what does this actually mean, and what will it take to get there?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2017/03/29/0c4abc45-b355-444e-845a-a2d15fae3123/group-of-people-on-peak-mountain.jpg",
+          "width": 770,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/",
+      "publishedDateTime": "2020-08-20T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-allen-institute-for-artificial-intelligences-new-fund-makes-first-investment-backing-panda-ai.md",
       "title": "Allen Institute for Artificial Intelligence’s new fund makes first investment, backing Panda AI",
       "excerpt": "Panda AI announced an investment from the new fund out of Seattle’s Allen Institute for Artificial Intelligence (AI2). GeekWire first reported about the stealthy Seattle startup back in June.",
@@ -380,7 +430,7 @@
       "webUrl": "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1149,56 +1199,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-pets-in-china-now-have-their-own-robot-friends-which-can-entertain-and-even-dispense-treats.md",
-      "title": "Pets in China now have their own robot friends, which can entertain and even dispense treats",
-      "excerpt": "China's pet industry was estimated to be worth 172.2 billion yuan in 2018 and is forecast to more than double by 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3097991/pets-china-now-have-their-own-robot-friends-which-can-entertain-and",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/08/19/60f36cb8-e1d6-11ea-8e8d-92e5de2d33e5_image_hires_174751.JPG?itok=ByhpvlIw&v=1597830480",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3097991/pets-china-now-have-their-own-robot-friends-which-can-entertain-and",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3097991/pets-china-now-have-their-own-robot-friends-which-can-entertain-and",
-      "publishedDateTime": "2020-08-19T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

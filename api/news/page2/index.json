@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-24-sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000.md",
+      "title": "SINTRONES Edge AI GPU Computing Solution enabling flexibility: EBOX-7000",
+      "excerpt": "SINTRONES, one of the global leaders in computing technology in vehicles, announces the launch of the new EBOX-7000 Edge AI GPU Computing. The new EBOX-7000 Edge AI GPU Computing is suitable for various factory automation and Industrial Internet of Things (IIoT) control system in large-scale processes such as mining and manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-1029525962",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-1029525962",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-1029525962",
+      "publishedDateTime": "2020-08-23T18:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-nsw-government-taps-into-ai-and-satellite-data-for-bushfire-detection-and-prevention.md",
       "title": "NSW government taps into AI and satellite data for bushfire detection and prevention",
       "excerpt": "The New South Wales government has announced it will be investigating how artificial intelligence, combined with data from satellites and local sensor networks, can be used to help speed up bushfire detection and predict fire behaviour.",
@@ -100,7 +141,7 @@
       "webUrl": "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 94,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1154,56 +1195,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-dark-data-may-be-tamed-with-natural-language-processing.md",
-      "title": "Dark data may be tamed with natural language processing",
-      "excerpt": "IT policies, checklists, toolkits, and research for download (TechRepublic Premium) Mary Beth Moore, an AI and language analytics strategist at SAS, wrote about this and other serious medical conditions and how AI can help: \"Early diagnosis and rapid intervention is critical in sepsis treatment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/dark-data-may-be-tamed-with-natural-language-processing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/dark-data-may-be-tamed-with-natural-language-processing/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/dark-data-may-be-tamed-with-natural-language-processing/",
-      "publishedDateTime": "2020-08-21T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

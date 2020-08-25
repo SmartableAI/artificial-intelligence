@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-22T05:34:00Z
 webUrl: "https://www.analyticsinsight.net/five-connectivity-requirements-v2x-autonomous-vehicle-technology/"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -22,38 +22,6 @@ images:
     width: 3168
     height: 2000
     isCached: true
-
-related:
-  - title: "Self-Driving Cars To Transport Golfers And Caddies At The Wales Open"
-    excerpt: "One of the first deployments of autonomous vehicles at a major sporting event will transport players from clubhouse to tee"
-    publishedDateTime: 2020-08-20T11:56:00Z
-    webUrl: "https://www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/08/20/self-driving-cars-to-transport-golfers-and-caddies-at-the-wales-open/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3e635ba94645e96df9ef85%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Wales Open 2020 to feature self-driving vehicles to shuttle golfers"
-    excerpt: "Golfers participating in the Wales Open 2020 this week will be among the first sportspeople to be shuttled around in autonomous cars. Used in place of buggies, the shuttles will be able to run three golfers and their caddies at a time from the Twenty Ten Club House at the Celtic Manor near Newport to the first tee,"
-    publishedDateTime: 2020-08-20T11:39:00Z
-    webUrl: "https://www.shropshirestar.com/news/motors/2020/08/20/wales-open-2020-to-feature-self-driving-vehicles-to-shuttle-golfers/"
-    type: article
-    provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 24
-    images:
-      - url: "https://www.shropshirestar.com/resizer/MoqecRx7CCy_LbUju-Hviu-AsHY=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/shropshirestar.mna/AQROZUGT35ATDOCNLVSFQW3BDQ.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "e/6qMsyapRs37lWi3RffUZJuu99tO6sLILSls60I7VOPTxktvY7FQrjebpkp/5vMVpDlLPgjr+JXb5W9/0bgjas06G25T1uLAWsNcqigIjbw5WeZ1v+UA/eS0u3BUenmLb80Va3xlDfo4dA1+jLlvZfN6lQExcRUUCNj3YstG8l/NaqmhBrkL8fYs/qNzPaeMMJTNHOQU5HXoNVS45zobxviXy/4ht46cX+maYoEw0FyMA8CNy44va0tffu8b3cR3utO3hXpM7JPJZ7r9yhCoWOozN5mNCGxO5zrvAlgYCNQnfKHQu6IXF/fyRG4EeJ90khdxoEmeGfkbUgDZnlWqg==;6Z68HjetFQj2GlASgHojZg=="
 ---

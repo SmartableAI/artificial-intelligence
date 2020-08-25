@@ -1176,6 +1176,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-10-go-long-with-machine-learning.md",
+      "title": "Go long with machine learning",
+      "excerpt": "Discover how the NFL & AWS are using machine learning and artificial intelligence to transform how football is analyzed, played, coached, and experienced. NFL Next Gen Stats, powered by AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/resources/206843/go-long-with-machine-learning",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/nww/nww_logo_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-10T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities.md",
       "title": "UNSW switches cloud-based data lakes for AI and ML capabilities",
       "excerpt": "It was clear to the University of New South Wales (UNSW) that at the end of 2018, when it was developing its data strategy, it needed to improve the turnaround time it took to get information into the hands of decision makers.",
@@ -1232,56 +1273,6 @@
       "excerpt": "Discover how modern organizations are transforming machine and deep learning investments into big business returns. Smarter applications that are capable of recommending products, predicting ...",
       "sourceUrl": null,
       "webUrl": "https://www.infoworld.com/resources/206844/achieve-machine-learning-goals-faster",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-10T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-go-long-with-machine-learning.md",
-      "title": "Go long with machine learning",
-      "excerpt": "Discover how the NFL & AWS are using machine learning and artificial intelligence to transform how football is analyzed, played, coached, and experienced. NFL Next Gen Stats, powered by AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/206843/go-long-with-machine-learning",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,

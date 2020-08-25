@@ -1,24 +1,32 @@
 ---
 category: news
 title: "AI Governance Market Growing at a CAGR 44.3% | Key Player IBM, Google, Microsoft, Facebook, Salesforce.Com"
-excerpt: "The OpenScale platform helps application developers, data scientists, and enterprises track and monitor AI models across its life cycle. Apart from this, IBM announced new software capability, Watson-based Business Automation Intelligence software ..."
-publishedDateTime: 2020-08-21T17:05:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17193246/ai-governance-market-growing-at-a-cagr-44-3-key-player-ibm-google-microsoft-facebook-salesforce-c"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17193246"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17193246"
+excerpt: "MarketsandMarkets forecasts the AI Governance Market size to grow from USD 51 million in 2020 to USD 316 million"
+publishedDateTime: 2020-08-21T17:18:00Z
+webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-growing-at-a-cagr-443-key-player-ibm-google-microsoft-facebook-salesforcecom-2020-08-21"
 type: article
-quality: 21
-heat: 21
+quality: 51
+heat: 51
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-secured: "dQ2t/shbY/UhbAH85ftuRTLUN0W30BTTzZL6OprX15jB3s0OwXkWYCcLurbupbyZlkyRqhTJwSXikaG7Gi0W56CU255bk1pON3W7FeT6brAc9Nh5j3xBfU9Dpw2JlM7r4Mqwcs0Z4eh4nyzUAx88/acEmyHJbXO4vtvZutIAxEi5Bb4E/+NMwc2c+jn57bIKc56TypojZYdFznCe9wKkvUBiEtYz1n6AtXdS1ohDJfp18+vmSV1Vpc7WgZl89CeMesDJMPK9zEKf39tP0z08Lyhi+CC9e26Zm1gy+skkuMSegVHdmbWempIyTJw02fJFoSQ7o7OCgBXYy6WjvAjsLwRh+c4Va9ogSFJg22DpxMV5O+iSw9h3t9BaHeexQa2VONVoZsmjNRPRQpQnlxbCIc0v4HU7GpLW3COqnA63EMZ0eUaeRjVshwhdEhQJN+pJ3hmUXAULua+WJiZ8mr6PoJylZkFsEN5Q4Z440lVlQy/ysm5CRqg198cf7dZGS00r2dLRlh9zo/w/qeZFTVDSbw==;bjJ7Fqi6TcmUEQ9Y2q0tvw=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "oFBrJ7VNwxeyXTKobl6uesqvJSBDvOXwZ5dGwB0It43rQUpy0te1wW7gEsOQh1AHdWBgypwnJgRO1zPqlfILfL6YUmO81Pw9oHhwAs2yJ8/iA7YfTd2+oKrNqlTNWl1YfORaWQe9H8S01yIdl1c6VHHW6XmHEVP5OcZTYrkWN8nsXHYkKVGEsuhQi9YxQ49KewZepOwQuBkFu/xzSZXOX2iZn6S2xIBZDRaMejEB8Y40OlvAqmucxdQV3kLyB7v+qfpVmLRM5+qSD/u1NFIuV4btS5Dy7xFLgMF04prezDS9O2kPeMCfz3CtKcx3qM4mbjqadVsoh1EbXCU48goy6A==;ts3MMjf+tkDlxzgJkuaX1g=="
 ---
 

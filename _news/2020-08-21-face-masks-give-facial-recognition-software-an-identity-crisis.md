@@ -78,20 +78,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Court Grants Facebook Preliminary OK to Settle Facial Recognition Privacy Claims"
-    excerpt: "Facebook Inc. won preliminary approval late on Wednesday from a federal court for settlement of a lawsuit that claimed it illegally collected and stored"
-    publishedDateTime: 2020-08-20T12:10:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/08/20/579687.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 49
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2020/08/facebook-facial-recognition-image-woman.jpg"
-        width: 600
-        height: 430
-        isCached: true
   - title: "US court gives preliminary approval to Facebook settlement of facial recognition suit"
     excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."
     publishedDateTime: 2020-08-20T23:08:00Z

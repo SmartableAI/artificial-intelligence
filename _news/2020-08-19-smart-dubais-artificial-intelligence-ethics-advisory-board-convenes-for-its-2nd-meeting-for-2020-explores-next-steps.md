@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Smart Dubai's artificial intelligence ethics advisory board convenes for its 2nd meeting for 2020, explores next steps"
-excerpt: "The meeting was split into three main portions, presenting options for the future roll-out of tools for better AI, considering the potential of AI Audit Practices, and Cybersecurity."
-publishedDateTime: 2020-08-19T10:34:00Z
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/"
+title: "Smart Dubai’s Artificial Intelligence Ethics Advisory Board Convenes for Its 2nd Meeting for 2020, Explores Next Steps"
+excerpt: "The Artificial Intelligence (AI) Ethics Advisory Board – an initiative by the Smart Dubai – has convened for its second meeting for 2020 on Thursday, Au"
+publishedDateTime: 2020-08-19T10:47:00Z
+webUrl: "https://www.albawaba.com/business/pr/smart-dubai’s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting"
+ampWebUrl: "https://www.albawaba.com/amp/business/pr/smart-dubai%E2%80%99s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/smart-dubai%E2%80%99s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting"
 type: article
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Al Bawaba News
+  domain: albawaba.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://images.zawya.com/pr/images/2020/a_2020_08_24.jpg"
-    width: 450
-    height: 490
+  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-08/Photo.jpg?itok=H6R3M0O6"
+    width: 960
+    height: 540
     isCached: true
 
-secured: "bHf5+O9rlu6aZ7aUQdVDd+7qrWm53h7mj9jJzewb+UkdlGM6mvjTPuH+WeBwJm8I8G0XoXwDa5IaHBA2g3ORC7OUwO/dHfVSw+pMhOZqC+tAjLJgSFnKhxSzR3fk6epQnSeaewMaIP9fMbbzPJ0pWBILDYBgHnhW+vXDtSY/pRYRJKA9p77i/lf1Q12JMXjTGcTefxWCzua0GTthp6X36CzezcHO/xKIq5+26mHU5vUiRTjKYrh/UBHwXVvSFZ4lQvjhRR0CQpMT2BKZxD8EoHZzalXs+KCjQnQegRyyvJDp1oLpHeDRNIGVgMYgV6VU8qo7FbHGWxafEc/ZOXyLH1pfaiE/2KC2XC6QGIvDcCfuEfLa2BWom4VTK8n6Oc7c+algZBl9+ZRS0rCmyOhg38q2kTMOadsaH6dKhWIpmJqaTBDYF+3gNonxPnkEY5kPZqQ1J46rCR0UIHF/mucxkG+2mkL6J+f4vGVlzdXqSSuyHdz1Xj7eDwt2uZSHEqsx7pPhA7oR++nU3Whd43Qasg==;vSq2Frh92dwgXEok55T8Xw=="
+secured: "Lj4Pkl+fXu0gB+nRaJUfe1mrTlebGWJgHO7clOWpqrIK4UI9WQfeNWsea5z8uAj36eWc/VFQsMlf8Ulicg0WGC/leQChGhsyutvqdaSNv/GZmmw2eXo1paUE9l7vHzXsCeJ/Kv8eh+8SP9OQPr01hhn6nvuaJD/98eLgaIEgcB1oW4p+p3m6VpNKMMZqPSbSGygmhCk04dr75yG8o2UU0lzk7SUqKu8Jwq2vXTaBRniMtcvPh8JxBoDNKw+MIp7tcvjPWv8MWdJSzFAcq0hl8TtWI74ruK+0eFPV9mr/fVuNqETZ5jbKC8nGXue7S8eZFcUmVqs7/7zqcQ5Y/9VWvQ==;Rw6H7j/+DDvnZQ02Z0ogow=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/524ed0cbf81e6b545d012ff3f8f87d2543595878/337_455_4041_2425/master/4041.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a594db2b31375d731e5f75d01207d70b"
         width: 600
         height: 360
-        isCached: true
-  - title: "Court Grants Facebook Preliminary OK to Settle Facial Recognition Privacy Claims"
-    excerpt: "Facebook Inc. won preliminary approval late on Wednesday from a federal court for settlement of a lawsuit that claimed it illegally collected and stored"
-    publishedDateTime: 2020-08-20T12:10:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/08/20/579687.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 49
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2020/08/facebook-facial-recognition-image-woman.jpg"
-        width: 600
-        height: 430
         isCached: true
   - title: "US court gives preliminary approval to Facebook settlement of facial recognition suit"
     excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."

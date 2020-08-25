@@ -2,6 +2,137 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-08-03-rite-aid-facial-recognition-security-was-uncovered-are-you-prepared.md",
+      "title": "Rite Aid Facial Recognition Security Was Uncovered, Are You Prepared?",
+      "excerpt": "This Reuters article delivers an in-depth review of how Rite Aid used facial recognition to detect repeat offenders, and probably",
+      "sourceUrl": null,
+      "webUrl": "https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.paymentsjournal.com/wp-content/uploads/2018/06/flat-3252983_1280.png",
+          "width": 1280,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/amp/",
+      "cdnAmpWebUrl": "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/amp/",
+      "publishedDateTime": "2020-08-03T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PaymentsJournal",
+        "domain": "paymentsjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-03-top-5-robotics-and-artificial-intelligence-stocks-to-buy-according-to-hedge-funds.md",
+      "title": "Top 5 Robotics and Artificial Intelligence Stocks To Buy According to Hedge Funds",
+      "excerpt": "What are the best robotics and artificial intelligence stocks to buy today? In this time of uncertainty characterized by volatile market movements,",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/top-5-robotics-and-artificial-intelligence-stocks-to-buy-according-to-hedge-funds-868578/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/08/14050949/robot-1635794_1920.jpg",
+          "width": 1920,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-03T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-03-mit-ai-system-knows-when-to-make-a-medical-diagnosis-or-defer-to-an-expert.md",
+      "title": "MIT AI system knows when to make a medical diagnosis or defer to an expert",
+      "excerpt": "AI can now detect lung, breast, brain, skin and cervical cancer. But in the world of medical AI, figuring out when to rely on experts versus algorithms is still tricky. It’s not simply a matter of who is “better” at making a diagnosis or prediction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/mit-csail-ai-medical-diagnosis-hybrid-163423281.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Ff6d57ac0-d5a4-11ea-8bf7-38a22e990be1&client=amp-blogside-v2&signature=59354a4c2e0eba529c9eb2f13bf61de91a6af999",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/mit-csail-ai-medical-diagnosis-hybrid-163423281.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-csail-ai-medical-diagnosis-hybrid-163423281.html",
+      "publishedDateTime": "2020-08-03T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-03-new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits.md",
       "title": "New ‘unselfie’ AI technique makes your selfies look like posed portraits",
       "excerpt": "Researchers have developed an AI technique that transforms selfies into 'pose-neutral' portraits with relaxed arms and torsos.",
@@ -1011,128 +1142,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-aws-announces-general-availability-of-aws-iot-sitewise.md",
-      "title": "AWS Announces General Availability of AWS IoT SiteWise",
-      "excerpt": "SiteWise makes it easy to collect, organize, and monitor data from industrial equipment at scale Volkswagen, Bayer Crop Science, Pentair, and Genie among customers using SiteWise SEATTLE--(BUSINESS WI",
-      "sourceUrl": null,
-      "webUrl": "https://digitalproducer.com/aws-announces-general-availability-of-aws-iot-sitewise/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://digitalproducer.com/aws-announces-general-availability-of-aws-iot-sitewise/amp/",
-      "cdnAmpWebUrl": "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/aws-announces-general-availability-of-aws-iot-sitewise/amp/",
-      "publishedDateTime": "2020-08-02T19:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "digitalproducer.com",
-        "domain": "digitalproducer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-02-how-ai-can-help-small-and-medium-businesses-compete-against-big-companies.md",
-      "title": "How AI Can Help Small And Medium Businesses Compete Against Big Companies",
-      "excerpt": "Right now, larger companies are investing in AI because they recognize the opportunity to dominate a market using this technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2020/08/02/how-ai-can-help-small-and-medium-businesses-compete-against-big-companies/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f260beb82340ead1915d82c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D639%26cropY1%3D0%26cropY2%3D359",
-          "width": 639,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2020/08/02/how-ai-can-help-small-and-medium-businesses-compete-against-big-companies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/08/02/how-ai-can-help-small-and-medium-businesses-compete-against-big-companies/amp/",
-      "publishedDateTime": "2020-08-02T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-02-aws-announces-general-availability-of-amazon-fraud-detector.md",
-      "title": "AWS Announces General Availability of Amazon Fraud Detector",
-      "excerpt": "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully managed service that makes it easy to quickly identify potentially fraudulent online activities like online payment and identity fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyamerican.com/ap/business/aws-announces-general-availability-of-amazon-fraud-detector/article_8a629921-d75b-5561-b507-dbb54ffecd6b.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-02T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily American",
-        "domain": "dailyamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

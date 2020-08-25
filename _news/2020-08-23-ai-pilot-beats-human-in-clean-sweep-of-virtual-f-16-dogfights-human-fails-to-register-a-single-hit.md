@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
 type: article
 quality: 73
-heat: 94
+heat: 93
 published: true
 
 provider:

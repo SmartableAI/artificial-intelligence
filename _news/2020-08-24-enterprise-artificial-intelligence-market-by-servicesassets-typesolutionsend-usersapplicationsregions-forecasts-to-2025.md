@@ -27,6 +27,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Meet Every Marketer's New Best Friend - Raman; Netcore's AI Engine to Help Maximize Revenues & Retention"
+    excerpt: "PRNewswire/ -- Netcore Solutions, a global leader in SaaS-based Intelligent Omnichannel Personalization and Marketing Automation, today announced"
+    publishedDateTime: 2020-08-25T05:37:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/meet-every-marketer-s-new-best-friend-raman-netcore-s-ai-engine-to-help-maximize-revenues-amp-retention-828972393.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/1243185/Netcore_AI_Engine_Mascot.jpg?p=facebook"
+        width: 3818
+        height: 1999
+        isCached: true
+
 secured: "oc+QqlLHs62runTDYhMYHyqj7QSR48XJNA0SD4hg8FVaNzYZOt7d/LeHvCPtigRK1jZXpb9W4dLJTaTFJwJ9xIbL4NLXvXCeoZ2Nf1kEaTSLday5OYJAnN+swhXeSG614t5/krxzTxHgDNxlAAysPBA0usC6J6QUjxidqFILtNJrCW/kP6D5KxwVZAh5ztVq7xv2yZeiBYOu1ahOobQlv0o4+/XnAfQ2EYYtWHXhAGCdfDqx74hxiPVdPaP35hdMLRWd0uE8wo2gUSDvbYO6LfjZksYobLvyePF3fj0ADr0ucBJB9eQfmfD+sHi1Y5hHBk9GrOK4lzDf8HgHFs2fng==;yZEwZsd1/4RdIO4S2Lsctg=="
 ---
 
