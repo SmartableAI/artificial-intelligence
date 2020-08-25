@@ -42,6 +42,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Fifty new planets confirmed in machine learning first"
+    excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by University of Warwick scientists."
+    publishedDateTime: 2020-08-25T14:39:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uow-fnp082520.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "hjBASd+ru2NLEraupkzZA5yfmeOKABo8vi6BcYvUnz2EG1Vmx+oZ58er+vjy9HAa/MkIdFs71s3ljVYrxYInIAogVYXpJ+/DXj4kNwaVFQNMQU9OHBXJkoT6c8uuITAxBEmBS+//Y4R9DOBGmZ33fA7QQx/tAwmBeoN/ZdLNJOfKd5EiH5lZ6ZRPftYwk0Aa+EgK3PGQnXcnuDSlTQp2WeqHF5MHCHfL1ODWi7OvLprcNTCei73MJjVFS1E4/E1vIqc1WMSW7nmNOD7tcPCb/r8wUQZhYACjG70x5ISgEbXEeJu+mQmOmbkKoPyZoKdMAQLwEMGiAFW7Bik4cbKH5xtFy5v6rjAEQpanHzI7cFw9n9YHahPC2x01uLftTgNAAimgBLr4kOljGzVMeGAtwJgc3pJ2jR+fZi6oJHLSSdBwj6+GsuZU9NzZ5pjbu6aQzPnZ6kjW3EiQ7RMjjpCNWLIKVej0LD1/Apfgj2GxbzlkO7E6O1XwZcXhLghl0a40ZBmQFd2Z5mtW5fAt77i6xg==;vDRvmPf/af9Tzv9pdZkizA=="
 ---

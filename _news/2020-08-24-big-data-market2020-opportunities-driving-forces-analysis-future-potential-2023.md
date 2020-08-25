@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Big Data Market:2020 Opportunities, Driving Forces, Analysis, Future Potential 2023"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 23, 2020 (AmericaNewsHour) -- Global Big Data Market: By Component (Hardware, Software, Service), By ..."
+    publishedDateTime: 2020-08-23T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-market2020-opportunities-driving-forces-analysis-future-potential-2023-2020-08-23?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Vehicle Speech Recognition System Market Recent Study Including Business Growth, Development Factors and Growth Analysis (2020-2026)"
     excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
     publishedDateTime: 2020-08-25T07:38:00Z

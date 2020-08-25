@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New Microsoft live dictation and transcription feature for Word is now available"
+    excerpt: "Microsoft is looking to make your work from home life easier with a new Transcribe feature for Word on the Web."
+    publishedDateTime: 2020-08-25T15:14:00Z
+    webUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 99
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/word-web-transcribe-feature-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Cloud-based, AI-driven strategy platform, AmploFly4.0, now on the Microsoft App channels"
     excerpt: "machine learning and design-led strategy necessary to effectively identify, address and achieve their new normal. Brian Bell, Director at Microsoft’s Commercial Marketplace, said, “On Microsoft Azure Marketplace and AppSource, customers around the ..."
     publishedDateTime: 2020-08-25T00:04:00Z

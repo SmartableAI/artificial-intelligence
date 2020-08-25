@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-24T07:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace-2020-08-21"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "New Microsoft live dictation and transcription feature for Word is now available"
+    excerpt: "Microsoft is looking to make your work from home life easier with a new Transcribe feature for Word on the Web."
+    publishedDateTime: 2020-08-25T15:14:00Z
+    webUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 99
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/word-web-transcribe-feature-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
     excerpt: "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace - their online stores"
     publishedDateTime: 2020-08-21T21:50:00Z

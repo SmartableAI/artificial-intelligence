@@ -5,8 +5,8 @@ excerpt: "DiabetesMine explores Quin and other new apps using Artificial Intelli
 publishedDateTime: 2020-08-25T12:27:00Z
 webUrl: "https://www.healthline.com/diabetesmine/artificial-intelligence-daily-life-with-diabetes"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://post.healthline.com/wp-content/uploads/2020/08/DM-AI-for-diabetes-THUMB.jpeg"
@@ -22,6 +23,6 @@ images:
     height: 487
     isCached: true
 
-secured: "IVyfNveDyT/k48a8YxBL6cTHPb9M4ETouBVOTFYdj7tDObeSgQTf5VqxKFHqr7kXk5qgrDydVZePTRrStndXnq69AxgwCs5w28VOwBoM4FrzsWWlqUUPKs94mCISqvyyipdT3LpSTLwyDJvxXA+QMHRLweQOT+bXH350wqGotIz01AVEULC0vQC/DhesS8Sf8nTP1mvHREF5dBPsc6jwt44URIYuzkbUiqy3rNZLBL0MIiupfeHs4m1kvBsKEFED8X47XibjqK6lq3icrDbZ7ETi1etJ3uD0eFZ5q/WDf7ypzOPQFaSl5Jh9GDvW7BMcxKsnebERPxLV+76oVqE4Zg==;JHZPjtenKHxBKdTnyX+AYQ=="
+secured: "BQkt8YeFGatox2r2NS5EAEnyOl5EsQtSrMt6NkWOJ7k+O/9iAjcRvcAUESjBzoUW9oikMf6nNFdW0fyAnDKREO6NeGbU9hhCmwpYL8KFQkfyxZ321tjXX3fSJPbxHcMJZAtWU7uKgJfllCih1SU2n80NKoo/AeqtYJ7GHzkicCp35bQ/PmruYZ8M69nI70o+AJJo/qeue0SVPEISbb+7zWMt7lrsGD4y7iQnw1ZvtCJsmJy1WZg6uNhyVMzvHTP4s4TX/0v8jLHqwX4kP2Ajwhx1KneB6At/RinU6nk/UeVgyM6EOBNpjaagY5ONIR5QYI8WCEY5DfPvaN/nNFv2+h3gWygvMu3Md6ovarcf4UyTfJa12rhS2d3YXEY2M9XS+GEpwQMPDdUL3K2pZTelKJJqHprzDfPnwcuH2G6gxn4oTpoHFEJmcFK/qAkAOUCeSRb2tx2AYFEK+8mL3XF5j1HEymXMmFl+4/mbdzzpvspzP8uCOaZxPZcOswUjQz9u7vy9cAvWAikENIz8zN5GzA==;ob5K6JON8agumctYzFeuyA=="
 ---
 

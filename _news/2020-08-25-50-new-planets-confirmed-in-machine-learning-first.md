@@ -8,8 +8,8 @@ ampWebUrl: "https://phys.org/news/2020-08-planets-machine.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-planets-machine.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -42,7 +42,21 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Fifty new planets confirmed in machine learning first"
+    excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by University of Warwick scientists."
+    publishedDateTime: 2020-08-25T14:39:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uow-fnp082520.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "5Q7QN30cn2/GgEZOxYUXLLhS0MaXVgUNCGRXNx/gzhE23K4KcQXOxVd9v0I0fI1SKHvpGpM+jznpJ/CDF96hoVwEFfsrigXYrzCJCXV7bWyAvj/hv0v8lMp2BcP83UuxIWiL49d7c4r7z1KL8Y+loY7Pt/TzU0SnJsgBBAgBQGXF6YNz6km0GCtZeGCUz4f8PrzzDoYoF90QPW3Eq2CbrrgFt/BbI1t/24OGQAjF2Egc/mV42fn0n9dXfHwrRnYK+AK4Mx/xlzfbI70+MtN8jH+qzPPBzTf96Y1T5sGPrYHgWsNdPm4U1FHO7jhIoQSfY4kg1pXBkShCRsnSgvC5Xw==;ziXtNmxkNowpdHlu6FwLTQ=="
+secured: "5nE5SSWtEK97fYF994dI3aIafoU5JpRrIpBV2IVB3pxdHiSwEm9dUn2vRw8Oamr+Vxn60fY4C6ej1M/Pv74vNEFeZj3i1n6Lv6JEy0P5WWziqsYGLAUIVndRPy+AQ3zC57DP4Dr/LklewXfi5kfJdoKd+gYaFvNj7ylR3vkFufUSsvzPIi4Sdbw3Eh9IQxTuyXy2qQaHLmMAnfjiPFdHe9fbRGFQ4q3ugt562BtyrCtQNFCCnIwLCS9VXuvgXpJi29ncgcqaWsRdZr19unF1ykneowKN6F0tEM1eoxmG9imrLzuiJuDvbCTHGeiWC6/zwUo1M+E+G1wyGkZphAkJnbZouza81R7llMuNgeIkVV3+fGwf1b2JvV+DQhYB0CV25A7i2BevSN9BqMq0plZE4Ua0F9b9ScQEl7hfy9fxBMkhZ77YGatz5JPhd4vPUiLL0SkPSREqBEsyAA7EgZ1rU6kYKYuR8nIT2r1d9A3SM1W+cpf+JL0pm/1PqVJmvGIPwiL1At0+CrrERRsFj+XPnw==;YB0yelV53OAtCc5JG19lIQ=="
 ---
 

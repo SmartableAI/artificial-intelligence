@@ -1,21 +1,19 @@
 ---
 category: news
 title: "Founded by ModelDB Creator, Verta Launches to Bring Order to Enterprise AI/ML Chaos With $10 Million in Series A Funding Led by Intel Capital"
-excerpt: "Today Verta, the AI/ML model management and operations company, formally launched with its product that helps data science teams bring order to the chaos of sprawling enterprise machine learning environments."
-publishedDateTime: 2020-08-25T13:39:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/founded-by-modeldb-creator-verta-launches-to-bring-order-to-enterprise-ai-ml-chaos-with-10-million-in-series-a-funding-led-by-intel-capital-1029531966"
+excerpt: "By monitoring model performance, data drift and service levels across deployment environments—including Verta's Inference Engine, AWS SageMaker, and other domain-specific systems—Verta ensures model-based applications continue to perform at their best ..."
+publishedDateTime: 2020-08-25T13:41:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/g17230258/founded-by-modeldb-creator-verta-launches-to-bring-order-to-enterprise-aiml-chaos-with-10-million-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17230258"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17230258"
 type: article
-quality: 16
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
@@ -40,6 +38,6 @@ related:
         height: 390
         isCached: true
 
-secured: "kOh/Nqd4HDcdEFtN3tbZHspdOjPwQhdEEHB254mgckYKIQh3cpRi0YTNNaE+UKap6YzqcWUa6cYShleTKbAPmKjaqPdBLpk1gX9EmNfK7pT93Vmp5OQfghWkl1AAm/WVFQczNNgYccZTmJOIeXxkyvPlg+TvtSmpxgiz8b+rt0sTVfgbBNnXdf8pjKJuD+05nbjwmD6ElfEQ0n7uy6oDY3iN/59VLqhWfu6aMLUhTRA0cUqDkIrWnzPWrtU85uLLnE/N6N2YJEJwrwxKtAyaLIsW4QSKvG92E18FTsr1ku30iYDxsa9bNBuHgEuFHApWU9Lcso3XPbAPHmPmsU0tUA==;RLilUZbeUr0DBjP1egcg0Q=="
+secured: "0ICIKE7ycCndgODx+ZJFCr2eXuhJPHyouidjQiGJx5YTFrU2uJfOtatg+W6YPqoiz1/EF6CkQAFt3MR8rpCp52NNiN0/YNDPaA2nsu408Zi6caTgvHr7oulm8txmXJuizYiXIhMfMWulfw0LL+ngNH53mZHfJy8QpWuE+uYWpZgBaZRPstfl9TLdXDQp/fLhlNJ1+7pbcxZH7v+Nz5g6iGum+nSX/u+zeQgopOpm5YHQ4aN1Hj2gRFVvgDwIYY5AB29k25nvI509XXH33vMrLBK8zF2J+v/bMBQaF2KA7iO4k79NBMJTjVNeCCpRTUwXN0rGLNaMQkXLt/LqjLE2J6bUP2AH7AKtYt9yOf2nocyB9shgraQKY6RWmqO/gxGgbSpxJIDeTrjgq6yj9+B1XPkzv67PoJZI8olyT1fULdR87BswIOCYbESbiFOirfQDrw03oY2P9ilMYAkSsRb4VRQ9sFf4AamXt9iLm96XZ2kq9mrALmc7+onqDEz5Az/JZYfoAiAFsrDzpbM13PyrpA==;pIY7jqKh7DCeebK8+b/LQw=="
 ---
 

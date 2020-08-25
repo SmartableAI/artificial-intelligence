@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ghanaian fintech wins Ecobank Group’s 2020 Fintech Challenge"
+    excerpt: "All finalists were officially inducted into the Ecobank Fintech Fellowship programme to explore commercial partnerships with the pan-African banking giant"
+    publishedDateTime: 2020-08-25T14:51:00Z
+    webUrl: "https://www.biztechafrica.com/article/ghanaian-fintech-wins-ecobank-groups-2020-fintech-/16041/"
+    type: article
+    provider:
+      name: BiztechAfrica
+      domain: biztechafrica.com
+    quality: 54
+    images:
+      - url: "https://www.biztechafrica.com/media/cache/bf/b7/bfb7a7bd44af364012569a9ac82ab886.jpg"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Ghanaian Startup, Nokwary Wins Ecobank’s 2020 Fintech Challenge"
     excerpt: "Nokwary Technologies, edged out the rest of the ten finalists to emerge the overall winner of the 2020 Ecobank Fintech Challenge."
     publishedDateTime: 2020-08-25T08:17:00Z

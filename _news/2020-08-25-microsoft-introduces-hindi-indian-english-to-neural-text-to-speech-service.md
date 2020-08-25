@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Microsoft introduces Hindi, Indian English to Neural Text-to- Speech service"
-excerpt: "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech for a more natural interface.The service also provides customizable voices, fine-tuned auto control, and flexi"
-publishedDateTime: 2020-08-25T07:55:00Z
-webUrl: "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-11598339825477.html"
-ampWebUrl: "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp-11598339825477.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp-11598339825477.html"
+title: "Microsoft introduces Hindi, Indian English to Neural Text-to-Speech service"
+excerpt: "With natural-sounding speech that matches the stress patterns and intonation of human voices, Neural TTS significantly reduces listening fatigue when users are interacting with AI systems."
+publishedDateTime: 2020-08-25T09:18:00Z
+webUrl: "https://yourstory.com/2020/08/microsoft-introduces-hindi-indian-english-neural-text-speech"
+ampWebUrl: "https://yourstory.com/2020/08/microsoft-introduces-hindi-indian-english-neural-text-speech/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/microsoft-introduces-hindi-indian-english-neural-text-speech/amp"
 type: article
-quality: 41
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: Your Story
+  domain: yourstory.com
 
 topics:
-  - Machine Learning
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://images.livemint.com/img/2020/08/25/600x338/2020-08-03T164404Z_5_LYNXMPEG720HH_RTROPTP_3_MICROSOFT-TIKTOK_1596761246173_1598340721227.JPG"
-    width: 600
-    height: 338
+  - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Microsoftpng1572886233736png?fm=png&auto=format"
+    width: 800
+    height: 400
     isCached: true
 
 related:
@@ -57,6 +57,22 @@ related:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-01/22/full/1579633487-5675.jpg&width=1200"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Indian English, Hindi added to Microsoft’s text-to-speech service"
+    excerpt: "Microsoft India has added English (India) and Hindi to its Neural Text-to-Speech (Neural TTS) service language set. The two Indian languages are among the 15 new dialects added to the service enabled"
+    publishedDateTime: 2020-08-25T15:54:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/indian-english-hindi-added-to-microsofts-text-to-speech-service/article32439979.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/indian-english-hindi-added-to-microsofts-text-to-speech-service/article32439979.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/indian-english-hindi-added-to-microsofts-text-to-speech-service/article32439979.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/tr4ojb/article32439978.ece/ALTERNATES/LANDSCAPE_615/BL26HINDI"
+        width: 615
+        height: 384
         isCached: true
   - title: "Microsoft’s Neural Text to Speech finally supports Hindi and English (India)"
     excerpt: "Microsoft has introduced 15 new languages to its Neural Text to Speech (Neural TTS) service language set including Hindi and English (India)."
@@ -100,6 +116,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "PXpDHD4yjZelvTy2qE8LQjDLHKUtamSPeUX8XoN5co/3Z+MXgFGDwJyJckgde0ktwtIBCqGtwu9xpZnGZjOTmL6ByflmC9IBwfymfoTe4TZ994Dhi8VNsz3lFasiU8nXY0KL0dWvI/tVgYSVWc9PVOvkQdJv5cOtAzw3Wl2fShGPfajHBGWCbzDzOft7kKV7SK9i0d+3kJD3SOXnBsodpt1VTPF2ig/emPkThGHFEYnMBA6DJZPxTgyEIKYPmJYZt+mRQozVd3IYaT/SXJAGDcnzX2BqPmMYdhcrNALG8LjZXVPg9Ef7rYOC5BYd+sAJYJ63TFC9r/UdyetfrXhZog==;s/a/UopLo4VfpnhDWLK03g=="
+secured: "XHhSyXAyCPP2m0D4i47PxHTdb4XocpImGSgTWRwfq8nBNyr056PWmvL4SUUfwUQQMQ7J+f8IMgoKWyoeBTdCcpiJK9FPbgEp3Pl1bjYEUS9px+UztnzuSb5EoT3optdObJqBngQah+XKRYdrLO7Z1qpITJNpHCYBHHSCHyCTfhdTOnquFf4KTZl5RuhtrDnMDT0PMXAfCKkD61FaPQQ8OU94i2Uc4wxBsGUXi9jtcgGyehKqMvWolQuTI2jGcdEXdDuoQnAee67O259MYJIoKrvAf8YAL7BeBIZsgSksNd94s5MBTMKit1RwSLdRepA/fSEFtCgknjRbY/nFHJ3jcQ==;+3uF5x769Xdo4llvgudebA=="
 ---
 

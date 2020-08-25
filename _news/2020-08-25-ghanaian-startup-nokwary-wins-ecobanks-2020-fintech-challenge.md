@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-25T08:17:00Z
 webUrl: "https://pctechmag.com/2020/08/ecobank-fintech-challenge-winners/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Tech Magazine
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ghanaian fintech wins Ecobank Group’s 2020 Fintech Challenge"
+    excerpt: "All finalists were officially inducted into the Ecobank Fintech Fellowship programme to explore commercial partnerships with the pan-African banking giant"
+    publishedDateTime: 2020-08-25T14:51:00Z
+    webUrl: "https://www.biztechafrica.com/article/ghanaian-fintech-wins-ecobank-groups-2020-fintech-/16041/"
+    type: article
+    provider:
+      name: BiztechAfrica
+      domain: biztechafrica.com
+    quality: 54
+    images:
+      - url: "https://www.biztechafrica.com/media/cache/bf/b7/bfb7a7bd44af364012569a9ac82ab886.jpg"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Ghanaian fintech, Nokwary Technologies wins Ecobank Group’s 2020 Fintech Challenge"
     excerpt: "Two Ghanaian fintech, Nokwary Technologies and Growth Factor have emerged winners of the Ecobank Fintech Challenge after an exciting virtual event streamed live from Accra Ghana. Nokwary Technologies edged out the rest of the finalists to emerge as the overall winner of the competition,"
     publishedDateTime: 2020-08-25T08:58:00Z

@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://techcrunch.com/2020/08/25/azures-immersive-reader-is-now-generally-available/</loc>
+    <lastmod>2020-08-25T08:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/25/microsoft-makes-azure-service-immersive-reader-generally-available/</loc>
+    <lastmod>2020-08-25T08:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bloomberg.com/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon</loc>
+    <lastmod>2020-08-25T07:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.biztechafrica.com/article/ghanaian-fintech-wins-ecobank-groups-2020-fintech-/16041/</loc>
+    <lastmod>2020-08-25T07:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/janakirammsv/2020/08/25/google-anthos-gains-new-features-including-hybrid-ai-capabilities/</loc>
+    <lastmod>2020-08-25T07:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/coursera-launches-private-guided-projects/</loc>
+    <lastmod>2020-08-25T07:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/</loc>
     <lastmod>2020-08-25T06:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -15,6 +51,12 @@
   <url>
     <loc>https://techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/</loc>
     <lastmod>2020-08-25T06:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://phys.org/news/2020-08-planets-machine.html</loc>
+    <lastmod>2020-08-25T06:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -73,12 +115,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://pctechmag.com/2020/08/ecobank-fintech-challenge-winners/</loc>
-    <lastmod>2020-08-25T01:17:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app</loc>
     <lastmod>2020-08-24T21:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -127,12 +163,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471</loc>
-    <lastmod>2020-08-24T09:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.html</loc>
     <lastmod>2020-08-24T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -177,6 +207,12 @@
   <url>
     <loc>https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/</loc>
     <lastmod>2020-08-24T05:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-the-medical-imaging-market-new-technologies-and-developments-2020-2026-2020-08-24</loc>
+    <lastmod>2020-08-24T05:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -985,6 +1021,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/new-research-finds-fast-mri-scans-generated-with-artificial-intelligence-were-as-accurate-as-traditional/article_ef9113c2-3f11-5640-903b-add0a3df4046.html</loc>
+    <lastmod>2020-08-18T15:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.infoworld.com/resources/207272/mit-sloan-implementing-ai-from-exploration-to-execution</loc>
     <lastmod>2020-08-18T14:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1005,6 +1047,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/18/amazon-now-offers-third-party-solutions-for-contact-center-ai/</loc>
     <lastmod>2020-08-18T12:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600</loc>
+    <lastmod>2020-08-18T11:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1088,12 +1136,6 @@
   </url>
   <url>
     <loc>https://www.zdnet.com/article/informatica-buys-ai-startup-for-entity-and-schema-matching/</loc>
-    <lastmod>2020-08-18T06:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click</loc>
     <lastmod>2020-08-18T06:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1557,6 +1599,12 @@
   <url>
     <loc>https://mobile.twitter.com/yoda69?lang=en</loc>
     <lastmod>2020-08-14T03:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.openpr.com/news/2112815/natural-language-processing-market-is-growing-significantly</loc>
+    <lastmod>2020-08-14T03:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

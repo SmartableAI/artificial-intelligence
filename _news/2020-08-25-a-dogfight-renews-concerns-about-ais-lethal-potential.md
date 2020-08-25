@@ -7,8 +7,8 @@ webUrl: "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potentia
 ampWebUrl: "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/amp"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Google AI
 
 images:
   - url: "https://media.wired.com/photos/5f4437bbc83d017a112ec55f/master/pass/business_f16_927284852.jpg"
@@ -29,6 +30,6 @@ images:
     height: 1602
     isCached: true
 
-secured: "xeFMH0U60q3woNNbYV0Jq5d67TdRwFXleTitsqMZTKCMyT0PqGSxfGH4Kwbkj8d4gjKlFwdVIWZreHXaHj7NYJZLS+Brak4fNtVpYcm6bJsGqGKRFQDwJDeGFWzWrJRnrhgj27jgPDq0ehUR8FFKw6lTNEEILvZ2u4ZPMYYQpfCM8HLhIpJixL571IoVxR9OCnmKFm/lt661VVgBH34kZNlSSSbegxC/nCvuTVLWRyFbnaEdnHBEbrlhYAbrVpmi4vaUcKLfFoUGbujZwIri19UNAt/eVCUUPooHRl4e7w4bbRHmvGYlfDyX775B5tmGfTHqjFao+psCq5r8aq/M3w==;Ejnwru2HgcQWimy2Qg+mwA=="
+secured: "Q52zlw0PtTxzw8gZpzGTuCjJ8bAbAj0cT+Tvsy97D1+bhdN3KxXxzlkKldvIaSNc8oPq+Q2piaO3aG3neLvIYcWpRpa3NnRfCN68V+Arngoz01omU8pIZCUFWrz6cHghKK4NkyXbl+0bN5nbs4kdstU3rga79H5hstbOWgO6GM8AVXGaMFyMlzrnw69F8Me57qHXUMrF1TcREpNmZpoCcTz3KQWGuwoWbhrDhxhml5sd9Gl7ArQbq6nefvQS0cIUrLhDCidt4iVYbJuPaOhP+tzUAt+Nc0oMXKRzKPpoavhORZ9B7GTIad+AQdj7puXHxpiHDGg41ZPqz5JtyMSe4hc7vXfjPCCSeGYXIaxfnZCjDaGq+49h9fjTzeIdJWac1mqtqpFOgg9fdFHwnw+DMP6ukc6DzFdMTuFV7dZFz/R90xMyXD6BfZ77kt7ohikl7cslUB8cZ5GuSPtYXbBPFgEEDu9seplvgu9AgT1ah4XMV1khwoxNO/PjSEAzVJ6vlNZFhpX/ZEo9Bs5OSQvi+A==;Kb8HuWhxm5GJ6IUEI/fBbA=="
 ---
 
