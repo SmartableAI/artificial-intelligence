@@ -57,6 +57,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
+  - title: "Luminar chases self-driving without speed bumps"
+    excerpt: "The startup’s autonomous vehicle technology has been mocked by Tesla boss Elon Musk. But Volvo and others are fans of the company, which is going public via a blank-check firm. Luminar faces competition,"
+    publishedDateTime: 2020-08-25T16:03:00Z
+    webUrl: "https://www.breakingviews.com/considered-view/luminar-chases-self-driving-without-speed-bumps/"
+    type: article
+    provider:
+      name: Breakingviews
+      domain: breakingviews.com
+    quality: 4
 
 secured: "WIY7z8onnj3yV8wN9G7f4CmHtjzOfiXI1hEfU3HPBu21fGiUNKJ8oBN5N6rbE7ZZdVbkyflD/Zb0JRc+2kEbRjoOsX/eA6DtKBrKcMdVWXAM93xzRT8N66XJ+2qsPhZDm4eVqPxUBgr5U1qBGyTzZS4cNH1BsY154A0fjJS8bwOhn2iDxn47Q6JvaIZVBhRDNegQB9hbCE6eemL0Fe4WPvC/9zEZ5V01bzG+/RN6SWP4tDAJf4XOZBSe5UwmnaydilvCifAHFb3TJCx5HdxxeOOMxzL6++Fr1jGsdAVlIymsuvPTtvUyInmB8U0rLUKUx1maFbQGz0vMG9qFIGabow==;sGrLzUohWk40IRGKqKTdvA=="
 ---

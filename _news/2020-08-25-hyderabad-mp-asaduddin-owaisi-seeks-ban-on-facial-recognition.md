@@ -8,7 +8,7 @@ ampWebUrl: "https://m.timesofindia.com/city/hyderabad/hyderabad-mp-asaduddin-owa
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/hyderabad-mp-asaduddin-owaisi-seeks-ban-on-facial-recognition/amp_articleshow/77738866.cms"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/21/w600X390/Asaduddin_Owaisi_PTI.jpg"
         width: 600
         height: 390
-        isCached: true
-  - title: "Face masks give facial recognition software an identity crisis"
-    excerpt: "As tech firms scramble to keep up with reality of coronavirus, some experts say users must change"
-    publishedDateTime: 2020-08-21T15:56:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/524ed0cbf81e6b545d012ff3f8f87d2543595878/337_455_4041_2425/master/4041.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a594db2b31375d731e5f75d01207d70b"
-        width: 600
-        height: 360
         isCached: true
 
 secured: "WVBwGWK49QlJwgDyfKo92Zd/HvvJfYb7tByy60Jrck2axsNVezFKYPeIXUBLG+dXmh5MfPBHnWUiJvE2inmgj0jmwVLp7Q5Er3a387gid63+98tKBtjt5eUPohrcXWucJe85njapr3qBjZ8CEt1TpQUq4yq8Hxgr/mPlmuoFlSKANEDf0aCl+kum/viayle7OWtHOJf4pOA354zomgjE0YpdKAaZPSy5QShK/eMJL0Ot8RrfQYi8tjKMEB12tVYVgWYx5kQ0hsk4I2bK35uP8bOMs7sU4ook/K+YhWAlTUyW8Vm5KqOA46vaNcC+JLODaMehlexfSn5tZpVD7qdBMLY8cJf6paofwSWCwC19Ez9rMiz+Lc/g4O9kx8ya5eA5Iv4nJPIpqB7dkzcltjVyI8jaNCxEtvLNQzmgcR93rAHxr/wkvlWP5hzCncykZ7Ux60OHJdFqf/pUTnBG5n8QpoUgjDtuUFcCidHn9ZB18EHKNTu59MdXXj+ZbAISvraWfPOwIsBojxtYxm3OzeiW9A==;Z7O0qOh8WZlt0/jz3aexAA=="

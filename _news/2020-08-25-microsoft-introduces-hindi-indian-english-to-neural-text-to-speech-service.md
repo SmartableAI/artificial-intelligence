@@ -106,6 +106,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Microsoft adds English and Hindi languages to its Neural Text to Speech service"
+    excerpt: "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set.The Neural TTS service is part of the Azure Cognitive Serv"
+    publishedDateTime: 2020-08-25T16:06:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-english-and-hindi-languages-to-its-neural-text-to-speech-service/article32440124.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-english-and-hindi-languages-to-its-neural-text-to-speech-service/article32440124.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-english-and-hindi-languages-to-its-neural-text-to-speech-service/article32440124.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 35
   - title: "Microsoft text-to-speech tool now supports Hindi, Indian English"
     excerpt: "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its neural text-to-speech service (Neural TTS) language set. The two are among the 15 new dialects added to the service,"
     publishedDateTime: 2020-08-25T13:44:00Z
@@ -116,6 +127,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "XHhSyXAyCPP2m0D4i47PxHTdb4XocpImGSgTWRwfq8nBNyr056PWmvL4SUUfwUQQMQ7J+f8IMgoKWyoeBTdCcpiJK9FPbgEp3Pl1bjYEUS9px+UztnzuSb5EoT3optdObJqBngQah+XKRYdrLO7Z1qpITJNpHCYBHHSCHyCTfhdTOnquFf4KTZl5RuhtrDnMDT0PMXAfCKkD61FaPQQ8OU94i2Uc4wxBsGUXi9jtcgGyehKqMvWolQuTI2jGcdEXdDuoQnAee67O259MYJIoKrvAf8YAL7BeBIZsgSksNd94s5MBTMKit1RwSLdRepA/fSEFtCgknjRbY/nFHJ3jcQ==;+3uF5x769Xdo4llvgudebA=="
+secured: "ew2ARv6p4QfOLFtmFS0C7nbWnVfS9R45aV9Y+/qEJFsz/SJZllDuH0eRmkpJg/hz793MAfiaDrki/9MQ/6TUNje+FbI0CLS1P85J0uqJh+EhAImrhRQnv/88ODBEB9kfwLH7QLmVrvn6gNKKBC+0b1hRnC+rkdzjxXKcmcq3jl4jCxIpnTbqknQs4mTcwu8PX5Z7BZx0aafY5UXfu2i//6iw1p03dMaznBJTCuByiyd0yBzu2TqcrHQea8sQl60BXFUoUjVp+/wj7XH+HIoJICfviAczkaEFE+pzIF94xA2CoVlMpWJvvcVfos3qYxkNrnIP2FBUu3GW5XByk2bNrw==;U4BuBCLw1GxD4IYG2L0qWg=="
 ---
 

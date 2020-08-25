@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Astronomers confirm 50 new exoplanets using machine learning algorithm"
+    excerpt: "For the first time, astronomers have used a machine learning algorithm – a form of self-teaching AI – to confirm the existence of exoplanets in data collected by the now-retired Kepler space telescope."
+    publishedDateTime: 2020-08-25T19:28:00Z
+    webUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/"
+    ampWebUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 89
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/da7c7a2/2147483647/strip/true/crop/1350x900+57+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F81%2F3d%2F72bad3664e0189b9e7523b00abe5%2Fpia11824.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "50 new planets confirmed in machine learning first"
     excerpt: "Fifty potential planets have been confirmed by a new machine learning algorithm developed by University of Warwick scientists."
     publishedDateTime: 2020-08-25T13:09:00Z
@@ -43,18 +59,27 @@ related:
         height: 1080
         isCached: true
   - title: "Fifty new planets confirmed in machine learning first"
-    excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by University of Warwick scientists."
-    publishedDateTime: 2020-08-25T14:39:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uow-fnp082520.php"
+    excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by University of Warwick scientists. For the first time, astronomers have used a process based on machine learning,"
+    publishedDateTime: 2020-08-25T16:28:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/08/200825110610.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "Fifty New Alien Worlds Discovered with a 'Machine Learning' Algorithm"
+    excerpt: "For the first time, astronomers have used an algorithm based on machine learning, a form of artificial intelligence, to confirm the existence of 50 new exoplanets."
+    publishedDateTime: 2020-08-25T15:55:00Z
+    webUrl: "https://www.wkyc.com/video/tech/science/amaze-lab/fifty-new-alien-worlds-discovered-with-a-machine-learning-algorithm/609-55b37d6a-9ab1-4e35-aa1a-b8d23f3a1609"
+    type: article
+    provider:
+      name: WKYC3
+      domain: wkyc.com
     quality: 39
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://media.wkyc.com/assets/AMAZELABS/images/ec8ddc9b-46bd-4ea3-baf0-0f3267ab834d/ec8ddc9b-46bd-4ea3-baf0-0f3267ab834d_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "hjBASd+ru2NLEraupkzZA5yfmeOKABo8vi6BcYvUnz2EG1Vmx+oZ58er+vjy9HAa/MkIdFs71s3ljVYrxYInIAogVYXpJ+/DXj4kNwaVFQNMQU9OHBXJkoT6c8uuITAxBEmBS+//Y4R9DOBGmZ33fA7QQx/tAwmBeoN/ZdLNJOfKd5EiH5lZ6ZRPftYwk0Aa+EgK3PGQnXcnuDSlTQp2WeqHF5MHCHfL1ODWi7OvLprcNTCei73MJjVFS1E4/E1vIqc1WMSW7nmNOD7tcPCb/r8wUQZhYACjG70x5ISgEbXEeJu+mQmOmbkKoPyZoKdMAQLwEMGiAFW7Bik4cbKH5xtFy5v6rjAEQpanHzI7cFw9n9YHahPC2x01uLftTgNAAimgBLr4kOljGzVMeGAtwJgc3pJ2jR+fZi6oJHLSSdBwj6+GsuZU9NzZ5pjbu6aQzPnZ6kjW3EiQ7RMjjpCNWLIKVej0LD1/Apfgj2GxbzlkO7E6O1XwZcXhLghl0a40ZBmQFd2Z5mtW5fAt77i6xg==;vDRvmPf/af9Tzv9pdZkizA=="

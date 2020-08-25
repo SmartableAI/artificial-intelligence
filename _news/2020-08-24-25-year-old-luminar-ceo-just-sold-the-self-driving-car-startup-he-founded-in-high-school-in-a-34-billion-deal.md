@@ -62,6 +62,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 4
+  - title: "Luminar chases self-driving without speed bumps"
+    excerpt: "The startup’s autonomous vehicle technology has been mocked by Tesla boss Elon Musk. But Volvo and others are fans of the company, which is going public via a blank-check firm. Luminar faces competition,"
+    publishedDateTime: 2020-08-25T16:03:00Z
+    webUrl: "https://www.breakingviews.com/considered-view/luminar-chases-self-driving-without-speed-bumps/"
+    type: article
+    provider:
+      name: Breakingviews
+      domain: breakingviews.com
+    quality: 4
 
 secured: "M4d0O0NgrFT+liTm5sZSRolqYcyRFcTnOtQDHC4PLYwH2EjKeBaJwR5xonmWXviSYdvRZh+RIORmnh0DG48NYLpyHZFkijMrI8TftWUc5LufVvvCXTyBNGrgf6nlOBrTYlDxZMK8Ly8xFRZ3i0OkqsgFH0mp71dnKibmbSWnt4blezh9PztKqqq5k6tjoFVVHgHXBELoBAQzjjGauCgKSfPlVGtl1eC3/0se70qin1+TA49LaTDxqAJPZ3S32WJnpGtXVgpWA4QdKZquHA2D3yMMTKExzD+i4T7CN83G804X+9otVBSnxcMuCRYcgorAN5nBJ8YmMLeY3XKEFfw0SJtKVq1OjxvOHMMcDXpQFKbTWAX2i03nNZyNL1X51TM0hXJ+GPeKq7cu2Y8BePKbWAjaKOxaZH7J8QxC4TRLBhccMHQAQOkEdpDcrp+HtbJB3yG+812RfrMrNpsRyaXiWKBcyJtFbLblt1Paw3haOgXIeOEWfX+gqCrEymn9UKNMR3X78a7zDBCPB33UelWL6Q==;SBuAXDmeuQKo4Q7AHqSoNA=="
 ---

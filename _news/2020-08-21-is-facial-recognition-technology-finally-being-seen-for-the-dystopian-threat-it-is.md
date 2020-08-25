@@ -8,8 +8,8 @@ ampWebUrl: "https://www.cityam.com/is-facial-recognition-technology-finally-bein
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/amp/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: City A.M.
@@ -39,22 +39,6 @@ related:
       - url: "https://www.wpxi.com/resizer/-nittaDLfS5Blfji2XXyH8wFsH4=/1200x628/d1hfln2sfez66z.cloudfront.net/08-18-2020/t_e409325f18a2475aaa8ef89c032632a0_name_https___www_whio_com__rw_Pub_p5_News965_2014_06_18_Images_photos_medleyphoto_5395453.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "If Covid is about the State and its face-recognition technology, why do they make us all wear masks?"
-    excerpt: "There are some amazing theories out there to explain why our governments want us to socially distance and wear face masks, as if that was a mystery. In a recent article in the New Yorker, a protester claimed that social distancing helps secret experimentation into face recognition technology."
-    publishedDateTime: 2020-08-25T06:28:00Z
-    webUrl: "https://www.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
-    ampWebUrl: "https://amp.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
-    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
-    type: article
-    provider:
-      name: Belfast Telegraph
-      domain: belfasttelegraph.co.uk
-    quality: 29
-    images:
-      - url: "https://www.belfasttelegraph.co.uk/sunday-life/news/970e0/39475708.ece/AUTOCROP/w1240h700/2020-07-19_sun_60543427_I1.JPG"
-        width: 1240
-        height: 700
         isCached: true
 
 secured: "DoIV7vvsVOJ8OjhDtEBUPkXo8sg2xt+MBnsSBosah65cNUn7yCXlHLveehY9Ob9AUug+07ZNlyARhIfwDhyJBVQ53LF85cc+VA4FJ/Jnmh2qHJQ5tXmgXGwGQVfuP9fEqqSH+aYkamfvjrNOwx3B0w7A6+keWroYNtYkzTq8rZV5KvbTVvVPscyvjBZbf/sukkDWhhr8SMzajl9X4mN16uApxKMUA5g2ZVQnSKv0DxDdZvchGse2CrSqsTniKs7s6Z5vREWt/eudoxSupXcze/i/SFhSt+iFeUsUupfMj6g9xXPJlIZO3omiGz4kTPi9maMl36wP5tWZKXhht+Bq5Qt9O4uQWwa2ecDt/0RLbvA8RPmJh39anbRoQRpOLTBfNJP+S1GVdSqkEBGRTHk8Z0QlKwjYd9ApCpLGpnItCUndtj7ACRifaZG7+Xha5vnIKMnNz6bgrW++Elib1iGz4l81qsYGbjHO2Zyw/EaVXpd0gaNgc7yQiNxCeIe0hd5rFnfA++Og+zeYvgt8YTqrJw==;5FJInYuGmaoBOw5JdspQsw=="

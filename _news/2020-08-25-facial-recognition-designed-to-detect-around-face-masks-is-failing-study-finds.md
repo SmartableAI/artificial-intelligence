@@ -1,0 +1,93 @@
+---
+category: news
+title: "Facial recognition designed to detect around face masks is failing, study finds"
+excerpt: "Rank One, a facial recognition provider used in cities like Detroit, had an error rate of 0.6% without masks, and a 34.5% error rate once masks were digitally applied. In May, the"
+publishedDateTime: 2020-08-25T18:56:00Z
+webUrl: "https://www.cnet.com/health/facial-recognition-designed-to-detect-around-face-masks-is-failing-study-finds/"
+type: article
+quality: 80
+heat: -1
+published: false
+
+provider:
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://cnet2.cbsistatic.com/img/x2e96wd1fpkM4UP-mi2c2FVNa-w=/756x567/2020/05/12/e19738c2-f117-4bd8-b48c-e3b7aee37406/01-homemade-face-mask.jpg"
+    width: 756
+    height: 567
+    isCached: true
+
+related:
+  - title: "Facial recognition designed to detect around face masks are failing, study finds"
+    excerpt: "Many facial recognition companies have claimed that they can detect people with pinpoint accuracy even while they're wearing face masks, but the latest results from a study show that the coverings are dramatically increasing the error rates."
+    publishedDateTime: 2020-08-25T18:32:00Z
+    webUrl: "https://www.cnet.com/health/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 99
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/x2e96wd1fpkM4UP-mi2c2FVNa-w=/756x567/2020/05/12/e19738c2-f117-4bd8-b48c-e3b7aee37406/01-homemade-face-mask.jpg"
+        width: 756
+        height: 567
+        isCached: true
+  - title: "Face masks give facial recognition software an identity crisis"
+    excerpt: "As tech firms scramble to keep up with reality of coronavirus, some experts say users must change"
+    publishedDateTime: 2020-08-21T15:56:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/524ed0cbf81e6b545d012ff3f8f87d2543595878/337_455_4041_2425/master/4041.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a594db2b31375d731e5f75d01207d70b"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Pittsburgh Councilman To Introduce Legislation Banning Facial Recognition"
+    excerpt: "Corey O'Connor will propose a bill that would ban the unrestricted use of facial recognition by police, KDKA's Amy Wadas reports."
+    publishedDateTime: 2020-08-25T09:47:00Z
+    webUrl: "https://pittsburgh.cbslocal.com/video/4678082-pittsburgh-councilman-to-introduce-legislation-banning-facial-recognition/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4678082-pittsburgh-councilman-to-introduce-legislation-banning-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4678082-pittsburgh-councilman-to-introduce-legislation-banning-facial-recognition/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 38
+  - title: "If Covid is about the State and its face-recognition technology, why do they make us all wear masks?"
+    excerpt: "There are some amazing theories out there to explain why our governments want us to socially distance and wear face masks, as if that was a mystery. In a recent article in the New Yorker, a protester claimed that social distancing helps secret experimentation into face recognition technology."
+    publishedDateTime: 2020-08-25T06:28:00Z
+    webUrl: "https://www.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
+    ampWebUrl: "https://amp.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
+    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
+    type: article
+    provider:
+      name: Belfast Telegraph
+      domain: belfasttelegraph.co.uk
+    quality: 29
+    images:
+      - url: "https://www.belfasttelegraph.co.uk/sunday-life/news/970e0/39475708.ece/AUTOCROP/w1240h700/2020-07-19_sun_60543427_I1.JPG"
+        width: 1240
+        height: 700
+        isCached: true
+
+secured: "Vc9gAbl6obSVzWeuv2wmPaQqs2H8DJiIPkV/XLr1BwGZdc6g4lPrJBFqc8c3IWZLwZFrWzjbNlpd0qYcGipZwD33ABqOr1lTVxuzsXJhefVKyOsx5lzCXHSAl5J1NICBjO5E0xaHbN+1jBc5c7y04L3TiMncctQfjf80NwH3Xyxud0hrWUg8B6X1+uBA/Rk+I8S4EhP+fqlyj+RlwUMWgzOYZaQW1hV68tmWcF/9yFdHDILflqugmuM/xOQ/QU64TDNgl1aJ3ojDiogbfxcBhzPTt/ITyrKs2XP0xy8AvYqLOdsZ4o+5P/JRjQT8SO5k0qNBLhu1jvkdk+BmagsbGQ==;LypRVfLGEk3MBKUN1nSODQ=="
+---
+

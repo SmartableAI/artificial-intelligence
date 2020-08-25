@@ -8,8 +8,8 @@ ampWebUrl: "https://techcrunch.com/2020/08/25/azures-immersive-reader-is-now-gen
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/25/azures-immersive-reader-is-now-generally-available/amp/"
 type: article
 quality: 104
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -29,6 +29,24 @@ images:
     height: 525
     isCached: true
 
-secured: "CoM6j+NRUN1PExOdYBdyG05uHKO267uv9TjWo6zArcY4/iCNOdrDW97vm9/5pA9QyjPB3Wi95ab1wvp+gO6u4mwA/tUGz+cJHO2e4AgO0wy6DkQUaHVBpC/29uaXR/7zwOcyw5eo9mGoExI1XG5SRAtiFlinmJQEErVEKs4ruhzZbZAsAn1c/eSJeJHkNl0Pu3Z3XznhCkV45k3jsxbiM7A3nvSf3ZofoNzOQthIfACSv+oF/vfbcDwqJeAFRzdSEbWPOu73SJRZuS04MBcbw/kXNoN1GzZCGQBFY/C389N9IG+oQ8BO686UF5FXVsxL3F5N+lma4OWLyrQAel586w==;77S5PaKQgabEka0gnkpuew=="
+related:
+  - title: "Immersive Reader for Azure Cognitive Services is now generally available"
+    excerpt: "The Azure Cognitive Service which has been in preview since last year has finally become generally available, bringing additional features such as an updated SDK and new translator languages as well."
+    publishedDateTime: 2020-08-25T18:02:00Z
+    webUrl: "https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available"
+    ampWebUrl: "https://www.neowin.net/amp/immersive-reader-for-azure-cognitive-services-is-now-generally-available/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/immersive-reader-for-azure-cognitive-services-is-now-generally-available/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 118
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2019/09/1567329609_azure-2_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+
+secured: "iwOROhLycHP/s1Qwl/F7qSYzvRB6GFdqaIwigiEXiLA2X6LdizbFZIa/v5189+LOJT0dXtXfy1dGjWUOVpxYUr6pkn0yAEFIhTagRYFhMMOF+kJQCzUA7iv1aIFbK5z3G1WsUhdZWo/gzd8n3eMw0nL+9nV2bZGLdd5Sv7DvwhUprIAOQkiUqivRVQG5AHUQceohLwNHiWn5CPXdLOsvwGCzcI+e/7dNrboP8G16WQKWvUJZwm0pKiQGTNM6mALAcz4/YG54hN6u4yuKfIkrTGoh4rbuxoZ7Ej2bow+PFF7CHltrgMUEMDmXcFv+VGNB4s2sCuAvpQzbg0qfIaO7OA3X1cHJusn7Gtv+VnP0SgxUS6U7MhXNqyauXbQdbyz98RBC/Uoh02IqBx38tlc0bBvHcsqWfmmrQ8W7KMCj/Nc464GLDqyVGrhcQuT6C4XqZ0bDGZ2v9zRkyLh1HOVCV7hzzC8cVDhw3JWefvsW6xozmL2bp6q7s4agwRkbzoAz;lyDhpp70GMIMP8SiZvjy/g=="
 ---
 

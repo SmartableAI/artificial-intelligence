@@ -106,6 +106,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Microsoft adds English and Hindi languages to its Neural Text to Speech service"
+    excerpt: "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set.The Neural TTS service is part of the Azure Cognitive Serv"
+    publishedDateTime: 2020-08-25T16:06:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-english-and-hindi-languages-to-its-neural-text-to-speech-service/article32440124.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-english-and-hindi-languages-to-its-neural-text-to-speech-service/article32440124.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-english-and-hindi-languages-to-its-neural-text-to-speech-service/article32440124.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 35
   - title: "Microsoft text-to-speech tool now supports Hindi, Indian English"
     excerpt: "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its neural text-to-speech service (Neural TTS) language set. The two are among the 15 new dialects added to the service,"
     publishedDateTime: 2020-08-25T13:44:00Z
@@ -116,6 +127,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "fDsIbzgPWJ2orCR4eo8dY7SHhquFiU6LYJiQO8joXvbxlskgnmFf0CqBc3PqwXCnp6WFsLwdceLxt0QKFKBRJNvekPD5Puu5sXWWNZaKtHTLhcrGlsAQ2nF3SwbN3b4UeHG4AQkcmN3nG+clBJWQ4jTXfrFvUaF3pv1sM6hLmwdhI21MaQgSLDd43RZUCPGvlm3t8RSvcAawYdwkFi/mNil/c6dLGOy65M+IXxz1DuoE9aPrgMjZymAuPOnLdWC/jAHXSXzkCCu5J7BS7jmDdPYuQIEcVtPndo97ljbHg4JaGvdQJ7vWCFKynZRLSm2g70cjCjEKzPcCB8RcWnzppg==;NVtsj5efo3SCmPT6CeIghg=="
+secured: "l9fWurQl8sz0tGojTvhau9fknnrWKXYiiw1s9lvQHkdV0wLNcioBWRTYIr0S8h7xnLEcp69OvL8u8GFXFHl25zBFhIqnz0nF+uSA0ADBrWbmSQmXTGmZ4hKCifuubwVyx9NKndsukivYB5T0BVXKVE4+2+UGv3Jc8o9PIQpEk9KR4jABIZ1wjpOn3fVYGCOMymjsKo7xsysw7m4Q7qazpuuFIV2dqlhr5vv+RN4EaW6zMkk7/+TfXqnK6vPEGhXaHJ/j1AtF/MJA1Mdl5Lw4RBq7zvIV6MsBd+AbWCK3xvX9vdDumq/cboCtGiIjHlPuUR97KxJ1W6T8DPtb04gN2NLZSOcdStE6R9vrftxcVFyGYfOeH1h9JSPgn689+3mwcluXWXphnDm7DSynWDz1zJfUWMCNqb4vyEOYR8DqE2tvkK1jF03JGwV8RaDNmbJ3ebOo/9rirkgJkiWDuuDHhSkafnhMJS3fy3yaP/61Piw7fl2xJXHY4N0Cn8Po65Yqz6UK6dSNpC2O5HVV9a1nrw==;dv1kYGE2B2i3h1hfv5NweA=="
 ---
 

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning as a Service (MLaaS) Market 2020 with Impact of COVID-19 Outbreak, SWOT Study, Steady Growth and Forecast 2025"
+    excerpt: "The market research study on Global Machine Learning as a Service (MLaaS) Market 2020 by Company, Type and Application, Forecast to 2025 incorporates insightful data from industry specialists to inform readers about key trends and opportunities in the global market."
+    publishedDateTime: 2020-08-25T19:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2020-with-impact-of-covid-19-outbreak-swot-study-steady-growth-and-forecast-2025-2020-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Big Data Analytics Market Fueling Artificial Intelligence 2020: Predictive Analytics and Security Applications Present Key Growth Opportunities"
     excerpt: "The \"Global Big Data Analytics Market Fueling Artificial Intelligence, 2020\" report has been added to ResearchAndMarkets.com's offering. For over a decade, Benzinga has lead the way when it comes to investor access to information."
     publishedDateTime: 2020-08-24T12:09:00Z

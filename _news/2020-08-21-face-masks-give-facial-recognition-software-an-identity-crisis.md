@@ -30,37 +30,62 @@ images:
     isCached: true
 
 related:
-  - title: "Hyderabad MP Asaduddin Owaisi seeks ban on facial recognition"
-    excerpt: "HYDERABAD: Calling the technology inaccurate, AIMIM leader and Hyderabad MP Asaduddin Owaisi on Monday said he will move a private members bill banning the use of facial recognition and remote ..."
-    publishedDateTime: 2020-08-25T08:51:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-mp-asaduddin-owaisi-seeks-ban-on-facial-recognition/articleshow/77738866.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/hyderabad-mp-asaduddin-owaisi-seeks-ban-on-facial-recognition/amp_articleshow/77738866.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/hyderabad-mp-asaduddin-owaisi-seeks-ban-on-facial-recognition/amp_articleshow/77738866.cms"
+  - title: "Facial recognition designed to detect around face masks are failing, study finds"
+    excerpt: "Many facial recognition companies have claimed that they can detect people with pinpoint accuracy even while they're wearing face masks, but the latest results from a study show that the coverings are dramatically increasing the error rates."
+    publishedDateTime: 2020-08-25T18:32:00Z
+    webUrl: "https://www.cnet.com/health/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: CNET
+      domain: cnet.com
+    quality: 99
     images:
-      - url: "https://static.toiimg.com/photo/msid-77738878/77738878.jpg"
-        width: 1200
-        height: 900
+      - url: "https://cnet2.cbsistatic.com/img/x2e96wd1fpkM4UP-mi2c2FVNa-w=/756x567/2020/05/12/e19738c2-f117-4bd8-b48c-e3b7aee37406/01-homemade-face-mask.jpg"
+        width: 756
+        height: 567
         isCached: true
-  - title: "Owaisi to file bill in Lok Sabha seeking ban on facial recognition technology"
-    excerpt: "AIMIM chief Asaduddin Owaisi said on Monday that he will file a private bill in the Lok Sabha requesting a ban on the usage of facial recognition and remote biometric surveillance technology. The Hyderabad MP pointed out that according to the Supreme Court,"
-    publishedDateTime: 2020-08-24T08:32:00Z
-    webUrl: "https://www.newindianexpress.com/states/telangana/2020/aug/24/owaisi-to-file-bill-in-lok-sabha-seeking-ban-on-facial-recognition-technology-2187570.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2020/aug/24/owaisi-to-file-bill-in-lok-sabha-seeking-ban-on-facial-recognition-technology-2187570.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/aug/24/owaisi-to-file-bill-in-lok-sabha-seeking-ban-on-facial-recognition-technology-2187570.amp"
+  - title: "Facial recognition designed to detect around face masks is failing, study finds"
+    excerpt: "Rank One, a facial recognition provider used in cities like Detroit, had an error rate of 0.6% without masks, and a 34.5% error rate once masks were digitally applied. In May, the"
+    publishedDateTime: 2020-08-25T18:56:00Z
+    webUrl: "https://www.cnet.com/health/facial-recognition-designed-to-detect-around-face-masks-is-failing-study-finds/"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 71
+      name: CNET
+      domain: cnet.com
+    quality: 80
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/21/w600X390/Asaduddin_Owaisi_PTI.jpg"
-        width: 600
-        height: 390
+      - url: "https://cnet2.cbsistatic.com/img/x2e96wd1fpkM4UP-mi2c2FVNa-w=/756x567/2020/05/12/e19738c2-f117-4bd8-b48c-e3b7aee37406/01-homemade-face-mask.jpg"
+        width: 756
+        height: 567
+        isCached: true
+  - title: "Pittsburgh Councilman To Introduce Legislation Banning Facial Recognition"
+    excerpt: "Corey O'Connor will propose a bill that would ban the unrestricted use of facial recognition by police, KDKA's Amy Wadas reports."
+    publishedDateTime: 2020-08-25T09:47:00Z
+    webUrl: "https://pittsburgh.cbslocal.com/video/4678082-pittsburgh-councilman-to-introduce-legislation-banning-facial-recognition/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4678082-pittsburgh-councilman-to-introduce-legislation-banning-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4678082-pittsburgh-councilman-to-introduce-legislation-banning-facial-recognition/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 38
+  - title: "If Covid is about the State and its face-recognition technology, why do they make us all wear masks?"
+    excerpt: "There are some amazing theories out there to explain why our governments want us to socially distance and wear face masks, as if that was a mystery. In a recent article in the New Yorker, a protester claimed that social distancing helps secret experimentation into face recognition technology."
+    publishedDateTime: 2020-08-25T06:28:00Z
+    webUrl: "https://www.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
+    ampWebUrl: "https://amp.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
+    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
+    type: article
+    provider:
+      name: Belfast Telegraph
+      domain: belfasttelegraph.co.uk
+    quality: 29
+    images:
+      - url: "https://www.belfasttelegraph.co.uk/sunday-life/news/970e0/39475708.ece/AUTOCROP/w1240h700/2020-07-19_sun_60543427_I1.JPG"
+        width: 1240
+        height: 700
         isCached: true
 
 secured: "MPsjwwdAMu2P4kh9aCRiiOERETbyNO3WaVmG8q4AkVRfqCkVpbrNx/HfWyrRl6jmY0KKK1OLwbw8qVSV2x+4FAoLbm8MuLf3vDGk7aqXZNd7BHzUESUVEm6gVTWOnu/v+L0k80PU20ox4R/eG+22CDtEluOXOz8zUTOOq9YCgQlY7GIEHxoqN81gGyP6eiJrd31UeHAAYKe1HkSuIxNxVAOKKlTg//oRrTn+QJgGGd7OOrSNJX5C8czCBbSNEOnerNN7mSmNpDPUjc/NOw/wLwJsQr5kbz5fu8LQU1nTPGkKVvux9ObR5zbVUPcY8R9KpjLO9GCAiGLAjqsRJkcwLRsnWjmU4HHXzjsZUPxgNyZNFACmJ4TQnf+JXr8mhLyQe/ZbHKp0vPi7eUxBjeXxb3Bna4SQMIT9Um/wETHABWQZacJ0ZBAIdP+dpVkWUPpWAmJca6WJDfGYtZ4uWSw9Tc0/s4PuUGty88gT/2/pPHPJKW+h1cydAXzi8zf79s5OoiWioyJENiMg96fFLgbj2A==;5sbFHm14l6HBuUw1mmg6Mg=="

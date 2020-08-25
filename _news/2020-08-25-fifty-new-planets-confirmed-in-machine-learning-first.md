@@ -1,29 +1,43 @@
 ---
 category: news
 title: "Fifty new planets confirmed in machine learning first"
-excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by University of Warwick scientists."
-publishedDateTime: 2020-08-25T14:39:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uow-fnp082520.php"
+excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by University of Warwick scientists. For the first time, astronomers have used a process based on machine learning,"
+publishedDateTime: 2020-08-25T16:28:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/08/200825110610.htm"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
 related:
+  - title: "Astronomers confirm 50 new exoplanets using machine learning algorithm"
+    excerpt: "For the first time, astronomers have used a machine learning algorithm – a form of self-teaching AI – to confirm the existence of exoplanets in data collected by the now-retired Kepler space telescope."
+    publishedDateTime: 2020-08-25T19:28:00Z
+    webUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/"
+    ampWebUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 89
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/da7c7a2/2147483647/strip/true/crop/1350x900+57+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F81%2F3d%2F72bad3664e0189b9e7523b00abe5%2Fpia11824.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "50 new planets confirmed in machine learning first"
     excerpt: "Fifty potential planets have been confirmed by a new machine learning algorithm developed by University of Warwick scientists."
     publishedDateTime: 2020-08-25T13:09:00Z
@@ -56,7 +70,21 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Fifty New Alien Worlds Discovered with a 'Machine Learning' Algorithm"
+    excerpt: "For the first time, astronomers have used an algorithm based on machine learning, a form of artificial intelligence, to confirm the existence of 50 new exoplanets."
+    publishedDateTime: 2020-08-25T15:55:00Z
+    webUrl: "https://www.wkyc.com/video/tech/science/amaze-lab/fifty-new-alien-worlds-discovered-with-a-machine-learning-algorithm/609-55b37d6a-9ab1-4e35-aa1a-b8d23f3a1609"
+    type: article
+    provider:
+      name: WKYC3
+      domain: wkyc.com
+    quality: 39
+    images:
+      - url: "https://media.wkyc.com/assets/AMAZELABS/images/ec8ddc9b-46bd-4ea3-baf0-0f3267ab834d/ec8ddc9b-46bd-4ea3-baf0-0f3267ab834d_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
-secured: "64ohQhmoPOLmfPcIu4G4NbX1qmbVGn+lmq1QdtWfhg7Ns//6Tu5f5sYZ6tvJNFofjCyyAUkyzmDsCpmu2hWG5/7B2s9KbpyZiF1ZifSkWxUx9pLSpMVv9PL//xm/6ROlnLSO5fgda+ExLuhnsKd97/ngIFpOXilgmlyS7PgI7CItk613uPv44LtBO8mB8NbP73melTCNqXfYpcEzuOGFHKcobPdj5ehAPbuw+FUfrVJoXZEm+oPJ0PQX6e102CwPij2oOSKXPl+kew9RCTyG6Mvzin3jOH2tor9JZlm0zZ0ImLWwqRpYf4mQtpaAPfc1P3FkFC2tPl9wDOUZIOm/ng==;CZQkXC56wXiAItuM9Fpxeg=="
+secured: "qVC0AT62MLLQ9Ac+RQDJ1SxhrgNky/g4zggDjzVnRf92BlGg8su4FSsdehBrngVtbLB22KdWfdwkN46CnboztTB8tHcyApX/FBD2hozxNC8OgubU/pFuwEWR6tsBGIXgRMuRsfHdda8MPo1KUCj3r7ViSB103ORwlOSBxEz4stjeD4BYoo3R5l9sUSCdsASPWgUDjBZwM9h1nnflJsYqs332myhU/OyyrO0dMh3gdqq/Lc5mfCmRyczDwO4kXHts4VHgRD24I6gzxQpVIBZblBd8V8TUJSZwgR+q0vODAOxUqunT/bZH6HdAjoyzBprWYFpoi1OvbQ58zKUZr9Xgqg==;cOU//mxZgWKIKc2/J/Yr6w=="
 ---
 

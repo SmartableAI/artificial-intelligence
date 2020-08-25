@@ -13,7 +13,6 @@ provider:
 topics:
   - Google AI
   - AI
-  - TensorFlow
 
 images:
   - url: "https://res.infoq.com/news/2020/08/tensorflow-improved-pipelines/en/headerimage/tensorflow-improved-pipelines-1596991592701.jpg"
@@ -21,6 +20,6 @@ images:
     height: 630
     isCached: true
 
-secured: "37QhMK6949ioRkyevmAoZG9v6OMXafViy/GOAp/h07J4psae1rYf//EIZ5OusBFDJ3qqFtHXWGXGa1tfIrPrPeQWeg/H1HnV2I6a3pV1JGIGOMlhnlpX1j8+Ky52s8h1//0hQGQpxzcP3a0/i0QhLWPGL4V2NUE+HQ9HC2F916cRwFCryvLQBavVi7fGN6g88lhT+OCZnVx9X9B3PjJ0qn7aB0ShWDuY9l5lY/1EREYuMtC3Gyz6vHFVl5S1oD5kOXwrkCOluylwhiLTMPgXESKM6S9AyVlRaqm+xOAuilzb70dROCq7GSo6+SudjknaZ+LySMnDOkI8/E2cTK8USMSLOh6DLb+IN6+C8QK+JsNELoPdrwmeOnuFQ4g4ztqkCUG4tZTncLvirHoxlN8P5xOabZ4Ovxs7a7ftM82y58cwVjP/BFRpv8Vzexk6HQwCNwOEFFWzzRHsJn1k/xK4Tez6kX9nnzmhVnqiuem8O2/RExl+IwCfDE2fqN0vBiGYLM4ykQsAa4vFG+AyFNbNlA==;wucfQN52jB/Q/TIDGifYKQ=="
+secured: "8YVGYczPqwog4yHj/Jk68M+BzN1JCMzFICDy5d0Xczolb92KFYIeGn30nH4D1l84t6FjvyveizwEYigozZ5hmNZUUAOgjVlW79vwMeow839426hs91q8apTcXTiw//kTOZKE98EtCMLftPFFujmqRJzRaBPAgMNBg7PnScQnH+US/uMeauMaRt041g60MABQkoNYuf0ZiJb4RN+SWxPoRLLAMlh0Tk3Sg/bzjrWr93/XKPEEU6ps2h2nhEt3K/2aW99oCigTjED+5T6WWzX/yHh5Q8Q+fUbMAsF9PoATVuRcyCTBzXVXfQcURfw8yrlZcXsUwsUwCYlJbep2sxQKuw==;yrocTo9eJYRUVm+uv8lffg=="
 ---
 
