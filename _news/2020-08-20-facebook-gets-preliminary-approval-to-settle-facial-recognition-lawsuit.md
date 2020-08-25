@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -115,15 +115,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 12
-  - title: "US court gives preliminary approval to Facebook's request to settle facial recognition privacy lawsuit for USD 650 mln"
-    excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."
-    publishedDateTime: 2020-08-20T08:41:00Z
-    webUrl: "https://www.telecompaper.com/news/us-court-gives-preliminary-approval-to-facebooks-request-to-settle-facial-recognition-privacy-lawsuit-for-usd-650-mln--1350957"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 0
 
 secured: "Xu4w5FNwlThLAp0Jex91ne6eAVmu6ECYNtYxXQdV/nqqilXXlNH+SqMZyRrorSJCHgbcEq4BB/Pl5XjUDLpOBV66etVC6BTJ5Y6+q9qolfRC7J/wzrfzwyfKlZscGCmcJlCUP3uDNMVUb6afSom4wqKi5Zgg3Gjm34hnwmEjNIqd+OmUj0yP9qEGmkFHTvbfrfssucOe5aap8upmrl6uEOMC3OQSNQQd6zz0nOAiMDKWI4MZYpxBVfh5kVb+ADF1wzj4r3lRWu+feltD6fN8gf5YhYz3cc/cN3exrzPh4y8D6l/Ze7SgoRwp5R9rhxUCYqdhFTRj0RJZyrku0eUgnkx4fAVdo3rZmvhwnRXIrlgnYizFwVs19P2mMvoneV8LdyZUNl5pGjnjWahAQ0e5+DS2jAybwLCqNVuVQ06FwDJw4Bp7xVgp2Dx1iqvFi9QlXlkGZRIvEQF3vdqn7GcAR1R0wPayKBMP9+LcwKZ1nV+4g1TyAg8xcxux71FOnHCnGpfF43heD6ZGZFcrUWgJXg==;ZjJQb9U1SLOdU/GWzzN8Uw=="
 ---

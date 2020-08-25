@@ -1,17 +1,19 @@
 ---
 category: news
 title: "HSG Digital joins Amazon Web Services Contact Center Intelligence solutions partner program"
-excerpt: "HGS Digital LLC, a subsidiary of Hinduja Global Solutions, announced its participation as an Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions Partner program. This unique designation recognizes that HGS Digital is an AWS Partner Network (APN) Partner that specializes in helping customers add intelligence to their existing contact center solution,"
-publishedDateTime: 2020-08-24T20:45:00Z
-webUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html"
+excerpt: "With 61 delivery centers in 7 countries, HGS successfully manages billions of customer interactions every year. Their AWS ML-powered solutions include HGS Pulse, an HGS client portal that provides cri"
+publishedDateTime: 2020-08-24T04:01:00Z
+webUrl: "https://www.business-standard.com/article/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
+ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
 type: article
-quality: 9
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: India Infoline
-  domain: indiainfoline.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - AWS AI
@@ -49,6 +51,6 @@ related:
         height: 315
         isCached: true
 
-secured: "l5+e+LrF3CXFkc6pMs9nxyF32hdccH1PObRg4hMiOpVqhS29EssYU7dAKqG58fHeq7jJegzhyYwz7/OcDH8vn6py/GvxjU1q2ptREpdMmfoVsMD3xyU05F3idyZSSbzQVjhlHq2C1RAnoJEfB69VnA9DZYgcuc6hJiFb5QW8UI1/38Mnjh8KDoVjikXZEUUgqlKDqbD9dzWLu3cBt3ABL/7iBMmr+Pj3oVvr2zYMJBp8bXVNN7HquHXc18Z+hCdYEvxvKujWdE37M+XpZabMGSrmSNCf194FolsJhrLnT4VMHcJd5OIwr9V6B6QrFEvbAi5l/uCFwkxUm1CZgieYLg==;SBgqOfWxnGm5ACBScb+GkA=="
+secured: "qdi7bcoEWFQFL+y0vOEpeYiFTziWvpyYsRuWpaQu+QE41/v3GeDDHuYLDecW3KQobyEyQpr+Lnu2eQ2bNK+jhdLZufzqOQpMZeAd7uXvx8V8WSv1zTrZhQVW0OiDq54MX8NdswAVq83zZ+80TVdrpUQ/sEja5Lj2dFqOYaoYz9pU/lVjN4wfzEyrS+LHibfEerqzDqbOrn4kH0AVeFAfBYemXM3eg03xFalmWDPf0Xbkbgcbtx89B1eLQHB9tm8oV67dJympGvB7x7R5vuOQteiAfa0TRl32mU03Y5n0X6SXh89LgurZ+d+1WU50gFXcXzG5Pf+mfp4AI0Y1vV4tNA==;DjSu7Bc5ct3GrZDqDH5V/g=="
 ---
 

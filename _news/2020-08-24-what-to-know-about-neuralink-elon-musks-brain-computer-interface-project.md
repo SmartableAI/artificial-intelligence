@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-c
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895/amp"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud-based, AI-driven strategy platform, AmploFly4.0, now on the Microsoft App channels"
+    excerpt: "machine learning and design-led strategy necessary to effectively identify, address and achieve their new normal. Brian Bell, Director at Microsoft’s Commercial Marketplace, said, “On Microsoft Azure Marketplace and AppSource, customers around the ..."
+    publishedDateTime: 2020-08-25T00:04:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/08/25/amplo-global-amplofly4-0/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 45
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
 
 secured: "zNQGhdqncOL8WmMMskzd2OYBzsX+ifD9xMoGIoqVyhCPwaGu4JVYEJCcSVzFdf/RXTV9DEZXHx4Is9nZNaoV++NrX8NOmbGzUot3Rv9J6eW/Kte8I5c3SAJkdmPAJUrPY/G+sX2bvjXY6CJER5kr42ZUddggboE6D1IVgeFCz7VxGV60xqgLA1NgpTplZulfZkMWehGJtyLrjO0jONUqYfSlfOkw2g7FgjnxmEcNTMGvCrXcilBVTpeStF6umFWOLo2ZBvR379h03aZgcc74BN8gBp4/iKt7aUE8WILreA/rrS4UoMuJ44KdOWGWvHUeIod1VF7m1adSYzDRWWr0gw76QqEHzVJ1jMqkFvo0dPln9Zkd5V2tRpWb+7jdv26TazssOWUmYacEsY9jys3sSi4P5PgJ/UDYOz58DYMMNk7fP+7Iu0tk2xNxhU4y8Tj0LG2f9UVNUZakdkKOWX35isUozAF/gj3MzTBoreEzfzPHY71Bkekw7yCjeuUh54IzQ+xkN5vHC+Jk8HqH768Rkw==;UcMN9jW+kKIS7pgTdhPeIg=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/article/3098596/why-indonesia-poised-becom
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3098596/why-indonesia-poised-become-next-ai-start-hub"
 type: article
 quality: 87
-heat: 87
+heat: 90
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "JHRzXuw/wxPGBoU1s7oRhUoYdolqArL1XlFaOGAN7oJEPlqX7awyc51JdoTwxjZ2SIRS+lleENJOcIZBolDZVVzddSE//aVX3pF3VoBCBbiEXSeVpVsS6U5Jl75Lz+ZyZsuyy2LlvSG+LkOvo0Q46wXFN/Sa8QwhTJdkoAQd6UvOY3IQ4Dg6odVcvxNKQlZHBonn02a6e1bKgSuQvndW7xWfiV8qtv3B5s0PiXOsBxzFXDkokT1ucIt3+fZLG8VOvXSLceBPlvfk6gq54f5TTb/onw/+HgpARxSupb27ryEntr0+XvL9Sxy7/+D/QDVV5e/Jgg2zs6lPwAs0pNBaOg==;ka6INJ7EQd5bSvGA4nb1hQ=="
+secured: "hXW1T+3Ed0YAzFBXc9j0Mz7BMjsQa89ceCr5HCUObD7fCuzLULKewpcfbYxY/9tuhPfHICWdrKsckr0tzBALnWfTlsfklqhSqHH6Kczh4iYLaibFU9eVUtA7QfwyWAUBdoFWarQ7Zh07CvqdwMifxYKMI9abl1PrJizViZTM828Sw+T0Hmwd1CJY66qX6uH7syut7lG/EtqYuC1WqWkoqcrJWSXYl0RGp67Jkx5eG2eH+bkUfx7ph1S6A4T0kkifV+AmxksYrMH/1vHPq4283saPI5O8k/HUCgMKoXgdRZ49m509ddN7pJ87+tzlP24nd4PDfMtIp1oyqwGSVsYxULj/nBT/ImkZy5eiNMmZWkpqUBXy6MRC3/KBrGWbUbzs8cSMDShSmRX0QaMhhqV9qUcjh8KAASnzkIokdBlfGnqFOINuOVEalkNspbA3YYeGzADs4SDXNTshAX4CEmeQJTTSSwiCNvUWZ2Cs2HdhmjIKN8YLHPFRtzYR1X1LMwN3thSsMB2ggwpraP1UN/vYrg==;3GOUv2d7hZHonDRRN4zsyg=="
 ---
 

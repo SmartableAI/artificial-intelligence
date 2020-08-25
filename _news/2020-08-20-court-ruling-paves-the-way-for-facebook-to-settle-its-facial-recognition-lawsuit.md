@@ -115,15 +115,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 12
-  - title: "US court gives preliminary approval to Facebook's request to settle facial recognition privacy lawsuit for USD 650 mln"
-    excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."
-    publishedDateTime: 2020-08-20T08:41:00Z
-    webUrl: "https://www.telecompaper.com/news/us-court-gives-preliminary-approval-to-facebooks-request-to-settle-facial-recognition-privacy-lawsuit-for-usd-650-mln--1350957"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 0
 
 secured: "m4UymG7oNQREU0BlCpYKpCZ0h6D+GuanC8r7nKeJNJ99+LF0kcgXQ12HYtU1qDojXXsiwy4UDhbX2qiE116QKwxG9nGqGVi2HKolvgUR3n670PTCvE3G4EjC0hJNrCmJop0lMndv/lR/A8nhaeJfkvGJVkXt2AfXdeePIwlExt4INPNFGOk+GU+YQkNgWlsuKdAb+T5RRUt86wJjdaIxg6R4125q3kRRYF1yMAZhSJmhNq3GPOzgxpANk0d2cCDIOJBfMWYQzEi7v/FRALLJE7MSV3pduumcwWlTj+aYV2NGbVv0y8+RlqjeXW7Ke6QluTClA+33M2JRyMhjzWwBke7Ydw73/Ez4XIsiGigJ7TaS7aGsLaCd4ioXEot7gMQQxDvrIB47OXruNahbgBTPq5QRMMndqNf49ODi1NUsEraNFjTj+kwIMdgpH5ct6epDhjP474vD3KDh6fbih8OdqoeO7MVZyxt2BtK0fBdC2KGoodv3T6QJe2dCOb1sbrQeapWZ3UvKo05jXmGsq0Mu6g==;49S/AzUYW3Zssf9B70DAmw=="
 ---
