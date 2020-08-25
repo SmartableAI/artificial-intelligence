@@ -5,8 +5,8 @@ excerpt: "With contact centers globally adjusted to the new normal, there are a 
 publishedDateTime: 2020-08-24T21:11:00Z
 webUrl: "https://customerthink.com/when-artificial-intelligence-is-your-cost-savings-and-employee-coach/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://customerthink.com/wp-content/uploads/woman-1446557_1280-pixabay-social-technology-1.jpg"

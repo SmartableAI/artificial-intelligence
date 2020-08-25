@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-24T07:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace-2020-08-21"
 type: article
 quality: 99
-heat: 90
+heat: 109
 published: true
 
 provider:

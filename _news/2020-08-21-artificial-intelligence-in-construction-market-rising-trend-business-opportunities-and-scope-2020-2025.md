@@ -30,7 +30,7 @@ related:
   - title: "Big Data Market:2020 Opportunities, Driving Forces, Analysis, Future Potential 2023"
     excerpt: "The global big data market is expected to grow at a 13.35% CAGR from 2018 to 2023. Towards the end of the assessment period, the market is likely to surpass a valuation of USD 81,"
     publishedDateTime: 2020-08-24T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/big-data-market2020-opportunities-driving-forces-analysis-future-potential-2023-2020-08-23?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/big-data-market2020-opportunities-driving-forces-analysis-future-potential-2023-2020-08-23"
     type: article
     provider:
       name: MarketWatch

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence needed to fight child prostitution, Quebec committee told"
-excerpt: "The fight against child exploitation requires massive investments in artificial intelligence, a Quebec legislative committee created to investigate child prostitution heard Monday. Paul Laurier, a former police officer and president of cybersecurity company Vigiteck,"
-publishedDateTime: 2020-08-24T21:57:00Z
-webUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/artificial-intelligence-needed-to-fight-child-prostitution-quebec-committee-told"
+excerpt: "President of cybersecurity company says AI using facial recognition could reduce investigations by 1,000 hours"
+publishedDateTime: 2020-08-24T22:28:00Z
+webUrl: "https://www.theglobeandmail.com/canada/article-artificial-intelligence-needed-to-fight-child-prostitution-quebec-2/"
 type: article
-quality: 14
-heat: 14
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: National Post
-  domain: nationalpost.com
+  name: The Globe and Mail
+  domain: theglobeandmail.com
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
-secured: "9ZWWloTjSvZMcHFZOYCR2059LJmLQXJCc/ybcsuDvocEm5OLcqYdd4F5Dq12s3F0DaQ6yPRzm1P3zHBYRss3DtJzFsxaR9LkWQZXuRZ00Xj4i0TUMq5jin2f0MuZk//r0D908Y1D5tQ2/tvn4MVudYOEknFYCwc0ZXxACtVKMCAefub0aRoljaFt7vDu9ed23TD7F7F2ykp/NO6H/QJJKI2FIm9QrT+e8rMmuRRfMr/TuG3j1oLtzUrzEczXIfIGcRSokYjx+vcd+SUWu3FbnWT3a8+jX3lMoYwnEa/E9EGc++3zdKuMnfA6PtXw1R/XT9s1kfQlGtj7xrvs8HQysw==;onI6xYlIs0vWlfCdOV6B3w=="
+images:
+  - url: "https://www.theglobeandmail.com/resources/assets/meta/facebook-1200x630.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "HY4ltw4DZ1mHVtvTMdlrqMXTe+DHwLwcyncusKAO2D8AFZlnLUrjiploAe57AlcGVkPIKbIKjm3m2qp53Zk8KjcRExoHZLE/4seDeqfVhKYXs9XGImem2Tdx/ZWO0F2pUR+KVFo5EiWWDqiIRXIJ+RZHoHhkMVnSd9BbVdSPfOO3l+tVHy9bZgGFeowZ5aWCiOD04Fuy45qQeGBgPsI1LZFtPHZeYO9mmtBHyba5uizMfJB2zouj6TIOXeHi+7ViXvSvGK3iMwPg31ofIQz38ARpWKGYCqjJivsS5o0J10WCkJaMaKq9PDr3OkPiPVIy9ujGK/75pM1+OchCEuijKA==;uV7yoY21CcaDbfnh5eLvrA=="
 ---
 

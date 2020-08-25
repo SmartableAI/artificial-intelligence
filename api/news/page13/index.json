@@ -2,6 +2,56 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-08-12-5-ways-machine-learning-can-thwart-phishing-attacks.md",
+      "title": "5 Ways Machine Learning Can Thwart Phishing Attacks",
+      "excerpt": "Machine learning algorithms can help strengthen the security on every mobile device, making them suitable as employees’ IDs, alleviating the need for easily-hackable passwords.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine-learning-can-thwart-phishing-attacks/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f340796a56dba49b87f8d48%2F0x0.jpg",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine-learning-can-thwart-phishing-attacks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine-learning-can-thwart-phishing-attacks/amp/",
+      "publishedDateTime": "2020-08-12T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-caltech-engineers-use-machine-learning-to-help-robots-get-along.md",
       "title": "Caltech Engineers Use Machine Learning to Help Robots Get Along",
       "excerpt": "When several robots in motion inhabit the same space, more challenges arise. Multi-robot scenarios are becoming more common with the advancement of autonomous vehicles (AVs) and use of drones for various applications,",
@@ -138,7 +188,7 @@
       "title": "Artificial intelligence ethics a 'primary concern' for IBM",
       "excerpt": "Technology Editor at the Australian David Swan says it is “incredibly important” to address the ethics in artificial intelligence in order to protect the use of Australian data.",
       "sourceUrl": null,
-      "webUrl": "https://www.heraldsun.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162",
+      "webUrl": "https://www.adelaidenow.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -147,11 +197,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T06:48:00-07:00",
+      "publishedDateTime": "2020-08-12T07:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "heraldsun.com.au",
-        "domain": "heraldsun.com.au",
+        "name": "Adelaide Now",
+        "domain": "adelaidenow.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1097,56 +1147,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-facebook-says-it-will-now-ban-implicit-hate-speech-like-blackface-and-anti-semitic-stereotypes.md",
-      "title": "Facebook says it will now ban 'implicit hate speech' like blackface and anti-Semitic stereotypes",
-      "excerpt": "Facebook has faced mounting pressure from civil rights groups to ramp up its enforcement of anti-hate speech policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facebook-bans-implicit-hate-speech-like-blackface-2020-8",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f32decb4dca684368157591?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facebook-bans-implicit-hate-speech-like-blackface-2020-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-bans-implicit-hate-speech-like-blackface-2020-8?amp",
-      "publishedDateTime": "2020-08-11T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

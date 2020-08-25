@@ -2,6 +2,46 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-20-allen-institute-for-artificial-intelligences-new-fund-makes-first-investment-backing-panda-ai.md",
+      "title": "Allen Institute for Artificial Intelligence’s new fund makes first investment, backing Panda AI",
+      "excerpt": "Panda AI announced an investment from the new fund out of Seattle’s Allen Institute for Artificial Intelligence (AI2). GeekWire first reported about the stealthy Seattle startup back in June.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/allen-institute-artificial-intelligences-new-fund-makes-first-investment-backing-panda-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/allen-institute-artificial-intelligences-new-fund-makes-first-investment-backing-panda-ai/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/allen-institute-artificial-intelligences-new-fund-makes-first-investment-backing-panda-ai/amp/",
+      "publishedDateTime": "2020-08-20T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones.md",
       "title": "iFarm Raises $4 million to automate urban farming with AI and drones",
       "excerpt": "Farm has raised $4 million to expand its automated system that uses AI and drones to help farmers grow fruits and vegetables in enclosed spaces.",
@@ -774,7 +814,7 @@
       "title": "AWS reveals first quantum computing partners",
       "excerpt": "Amazon Web Services (AWS) has announced that it will allow all existing customers to access quantum computers through its cloud service. The quantum computers are early-stage models provided by three technology companies—D-Wave Systems Inc.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/aws-reveals-first-quantum-computing-partners",
+      "webUrl": "https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 89,
@@ -790,8 +830,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/aws-reveals-first-quantum-computing-partners",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/aws-reveals-first-quantum-computing-partners",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners",
       "publishedDateTime": "2020-08-20T01:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1160,39 +1200,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-robotics-and-artificial-intelligence-etf-irbo-at-52-week-high.md",
-      "title": "Robotics and Artificial Intelligence ETF (IRBO) at 52-Week High",
-      "excerpt": "For investors looking for momentum, iShares Robotics and Artificial Intelligence Multisector ETF IRBO is probably a suitable pick. The fund just hit a 52-week high and is up 71.9%",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19?amp",
-      "publishedDateTime": "2020-08-19T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
