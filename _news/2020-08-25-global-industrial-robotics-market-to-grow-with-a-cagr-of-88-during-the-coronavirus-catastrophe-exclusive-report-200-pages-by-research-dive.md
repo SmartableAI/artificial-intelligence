@@ -7,6 +7,7 @@ webUrl: "https://markets.businessinsider.com/news/stocks/global-industrial-robot
 type: article
 quality: 27
 heat: 27
+published: false
 
 provider:
   name: Business Insider

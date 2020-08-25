@@ -7,6 +7,7 @@ webUrl: "https://www.infoq.com/news/2020/08/aws-fargate-amazon-efs/"
 type: article
 quality: 34
 heat: 34
+published: false
 
 provider:
   name: InfoQ
@@ -22,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "9HfHVpaBP7LwXNjvuMcIGjSZzYej51SrDOapEZ3+rQYXoACfhO1qpcWICJI1xGKTfPC46SUjXIF845EUOVLdlgD/wsMpgfpqPpY3LnVf3os2fb8wwkTz3MDs+yG03oeh+riW2DfDWqf9SqMuaMYu9X+Z4FH5I4Cr+pUaCGAVOTsZReNDo/c+Ce6iot1fe/ZIGgs0o4uOu7nu9K7sYmd+EHXzp7NYK4kiNEXhFTTAk2/DcXux8/Fi9N59+rwLnypA1wK+lJ06n6mOQNC51TabqWCf+8LDoYVA28r8BoyPvynPN3eYmUNpT+ms/OUvCtQC7EsevF5Fu34k91EZQYyYjg==;KIII9cT8SoIhmEJ92vvYig=="
+secured: "S4jOEm9MTvypvPGmDq3UCyrKvT4WNGBg8JfYLgp6tBS7DsMM83oyOGt8qTwxk/uY1Eof1jJ4TE7h7hrIA6u+PlW/MtpqA03Jy6FD3jKkeVrvqD2sxTAIQiqPoEwwNfIGIY+YS3YBtZJdDE8K01bSwyEOlhDsjrjVBFM3PSl9a/GwqX2SiUoEZvLNhu6g5n2D3+ueR28Qn95dEI6qttYrb7kYKQ8dnmCtagTVaHcZXq3sE35UT7tgiBz1x8AbEMjdgPxNFTL2jegCcVZBtBkkC/0aD4Ei3pwb3xcLptL5yJsMyTL6u6VH6Aizh/TkwZqraps9KSsOOvwybh2zqFTkuhpS4aFHvMQszmWCQKV1n+qNMuh+9FTlmp3a1aU/DXtNIZjHA/2r4UI8cVmYz0eYY0fmfE3x3zWb5NhLMSfDlNGmG8oKMiguZ/epuVCkJPc2kq9+fIu53COFDTEFyZL3j7P+yh+GJKmQgVgttRbh+751ft0PkW1n9HEYwCsVRNUfrxAK6qX3kppLqPvGu/jMqw==;TKttKXjG/jTEMP5crGRImw=="
 ---
 

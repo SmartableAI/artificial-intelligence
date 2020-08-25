@@ -24,46 +24,51 @@ images:
     isCached: true
 
 related:
-  - title: "AI Technologies, Like Police Facial Recognition, Discriminate Against People of Colour"
-    excerpt: "Borchak Williams in January 2020 for a shoplifting incident that had taken place two years earlier. Even though Williams had nothing to do with the incident, facial recognition technology used by Michigan State Police “matched” his face with a grainy image obtained from an"
-    publishedDateTime: 2020-08-25T09:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/08/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/08/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour/amp/"
+  - title: "Is facial recognition technology finally being seen for the dystopian threat it is?"
+    excerpt: "In the end, even Silicon Valley has had to admit that there is something a bit sinister about facial recognition"
+    publishedDateTime: 2020-08-21T05:25:00Z
+    webUrl: "https://www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/"
+    ampWebUrl: "https://www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/amp/"
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 49
+      name: City A.M.
+      domain: cityam.com
+    quality: 53
     images:
-      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/25/algorithm-facial-recognition-1024x560.png"
+      - url: "https://www.cityam.com/wp-content/uploads/2020/08/869082432.jpg"
         width: 1024
-        height: 560
+        height: 651
         isCached: true
-  - title: "AI technologies — like police facial recognition — discriminate against people of colour"
-    excerpt: "Technology is not neutral, as facial recognition algorithms and predictive policing have shown us. Algorithms discriminate by design, reflecting and reinforcing pre-existing biases."
-    publishedDateTime: 2020-08-24T20:56:00Z
-    webUrl: "https://theconversation.com/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
-    ampWebUrl: "https://theconversation.com/amp/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
+  - title: "Councilman to introduce bill regulating facial recognition technology in Pittsburgh"
+    excerpt: "A Pittsburgh councilman plans to introduce legislation Tuesday to regulate facial recognition technology in the city."
+    publishedDateTime: 2020-08-25T09:41:00Z
+    webUrl: "https://www.wpxi.com/news/top-stories/councilman-introduce-bill-regulating-facial-recognition-technology-pittsburgh/AW622P7ZUBG6VJNTWLHSXLATUA/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 45
-  - title: "Use by police of automated facial recognition is declared unlawful"
-    excerpt: "Court of AppealPublished August 21, 2020Regina (Bridges) v Chief Constable of South Wales PoliceBefore Sir Terence Etherton, Master of the Rolls, Dame Victoria Sharp, President of the Queen’s Bench"
-    publishedDateTime: 2020-08-20T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/use-by-police-of-automated-facial-recognition-is-declared-unlawful-p56vw5jn6"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
+      name: WPXI
+      domain: wpxi.com
+    quality: 33
     images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffc6bba22-e30e-11ea-8ecd-64fc41168b69.jpg?crop=6250%2C3516%2C0%2C326&resize=685"
-        width: 685
-        height: 385
+      - url: "https://www.wpxi.com/resizer/-nittaDLfS5Blfji2XXyH8wFsH4=/1200x628/d1hfln2sfez66z.cloudfront.net/08-18-2020/t_e409325f18a2475aaa8ef89c032632a0_name_https___www_whio_com__rw_Pub_p5_News965_2014_06_18_Images_photos_medleyphoto_5395453.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "If Covid is about the State and its face-recognition technology, why do they make us all wear masks?"
+    excerpt: "There are some amazing theories out there to explain why our governments want us to socially distance and wear face masks, as if that was a mystery. In a recent article in the New Yorker, a protester claimed that social distancing helps secret experimentation into face recognition technology."
+    publishedDateTime: 2020-08-25T06:28:00Z
+    webUrl: "https://www.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
+    ampWebUrl: "https://amp.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
+    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
+    type: article
+    provider:
+      name: Belfast Telegraph
+      domain: belfasttelegraph.co.uk
+    quality: 29
+    images:
+      - url: "https://www.belfasttelegraph.co.uk/sunday-life/news/970e0/39475708.ece/AUTOCROP/w1240h700/2020-07-19_sun_60543427_I1.JPG"
+        width: 1240
+        height: 700
         isCached: true
 
 secured: "4OUIC7tWwv+ngFbduyX5YBZ0ljffvXFx/clZCdVPhN9L10CsqLmc2GfYcD6GQE3vPfBZ1qKv3bFw397wuwkk11FDg6lxAIH1H1OhyAymyBzpsQlJKeearYUYc1OER412PhgNErlnLZtvErs2L2pllfYeq9+LMsRIHxur5EaXfBi5g13dM8kr+QD97Q/gVUgB89fYyhYv1IO10ELmIdfg6TiBYOsv+7Bjg0zfVXVJsoU0CCMt7mH4EZGqVJ52p4Lg4p8Kqt4NPunTkImozSikdiQBTit+Vdwh5hyDLEds1v3DpUNHb5LPpduw6Fc5tTsKdyR+YS+oqOavOnOO7Jhj0A==;FzPRqCiaDa9jBAixnktVUw=="

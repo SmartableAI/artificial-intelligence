@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI"
-excerpt: "The results of the joint effort, which originated at Facebook, show that accurate MRIs can be produced more quickly as AI functions with less data, researchers said."
-publishedDateTime: 2020-08-18T18:00:00Z
-webUrl: "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
+excerpt: "Researchers at Facebook Inc. and NYU Langone Health said Tuesday that a two-year experiment demonstrates how artificial intelligence can produce a ... at NYU Langone Health and a co-author of the research. “Our goal is a five-minute MRI."
+publishedDateTime: 2020-08-18T13:06:00Z
+webUrl: "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 640
     isCached: true
 
-secured: "JeuaaMwqhTDxweCjO3c9jnL8aw0wNfwXIu4jSOywIlp7r9rvCPfQ9YjoV/ysGa9WurvzBPUvBawkdALVQDIlcasnwBTDqprUr0cXW0QL3xc5ymZMTYBkjVLSRnnXg7Yd6m7nTcC2UrtGfnivWKhtZ40uAQaFVf0HTQv0AdQ26ibFHElqnGXx7qTjOI3iFslw8Ul3LwK54j+ZHksnF1IietqPv/Vd+ABeXpv0tbsWpLvoWjFjzaJy2BAE4WaEXX1AG4FLL7eyPXAI9kfzAfMTu2dE0TfmkbCZcofsEPQyK7qxgwEqlMH5RT1Vz8i05ZciQ8w1CyjMq0IWIT6+B8jkoaZKl9T+9+5BuPp+PoKfPPvQRH41L+BI08XvYD69QzKHZ3kZgUUByg7qW69gCkAr4usiIUgC8X4Sq11obnyxNcupToBmHqYw1/e/vNuG0vDLZlqY86/AT4KOEelIY9d2HUToN2NRp2tnEI9PozuWDundxgdweapbYbADmuiMvNy1c2fHi/PLMcsElXNZTX94Dw==;+3zj+6SG8eHas8E+Zfj5AQ=="
+secured: "YydHuU3cAkpCQaFrv0K1v/npvkeDWBxCupXKOq/G5rMjNu7p750bOIkyFmaKPb3sr+SOgu5bJG6mmr5LbGuZARk8O7i0rPjPqmgO1tFlP/bdHbxJZcJhGcleOpLcRZAsNxrxGz1ACb6ACEQQUGnXQxHUgPUjXdL1gxIZUXguQBY+c3MyHAUcMrHeqQVJPX+Hf0D0IMQqwjQzx/rwPpH5fyx5Ey3iS97Om89Ey4mbTyT/uDM4LrHMISI/lP7o1ViZbH/wMzOJ7uU1/QlDFoDsJJ1JCDmx6asOjeX7KEh4KUAasR3zVbFzhQgDzeLWFM6L8CkJKuKvM5S4r43gztbAKg==;f8FcH0uE95fAs8LbKhOefQ=="
 ---
 

@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/art
 type: article
 quality: 101
 heat: 101
+published: true
 
 provider:
   name: South China Morning Post
@@ -28,6 +29,6 @@ images:
     height: 630
     isCached: true
 
-secured: "+8K61T5SEKgyqXDUwt/qGl+hwwu2A1l3+ydg9J2XsIZ4+9UoJ4+ae3v9M8V+ln+LnG4djctylkecSLg2OEsPEDPDIhmKAOt2vYtcwJ1/tA7ov2e4KmlJ3fvZ5dOSoi+Mc0wEQ/FnwdTwGoEb/NM9Kfmtq6ixABC88z5gRQRdu7WYjnPO8AH+KSwF9hmGpRXIO1W/R4xcjWm0u2tkoq+YIxvt2mRyoYahYoevuBk4Mxolg9xWdY8YwnVfAWwpzH1bohmeCB8+l2vT/B10bxZE2ve0puBb7MbTumcYGOK/DY5PMMKXG7ZUfWjaSwQBMMvyVLW10kp6Xf3fqBrMIfwayA==;oQWfcYwUzx5u8IG94T40BA=="
+secured: "mV2UJURAZ7aUmGPPowPPF1AhGcWvAnLKNL9Qns+kQ85qw3yZsNV7AKwdmsDgBUjIs4ppiGnxuLHE0Bs5lT1K4yA/meqVoHvNS/JBjbcIgSBwa8OaeXJEkRnuzgmihbPfnBXrJ3hNkyb/WltjYtaQW297qgmwOL3lpahOObBD4aKiu++rqnWYVojLBXJlLEu8d/HZoTLxWfd2O7MS6rtXC5hW/GIcLNaSRjJ/nYJbEqK02jKnerenBjm5WYoSCAfhZHAxj76gs+Q0qLg3SKmQWsSbSxIAc+Vb8lt0vL36uaAWZzTwAPdgBcC557enmVEnAZE//FLvCMBzKxU863IvnjdWrZeA+qQ4wAihysTthSvKM4NlyPWGPb6HYYqFAcG+wgJ+4MfhSQvsPLIWIXFOs0mWzRTDEWerbqNCTokAVz9TTFee9AKxKW5fKDYHAo/FrkmpPRA3c7f7NMUt7YvzJUdskUGUORU7e05zG2pQwEBVhxjN+Q9I5GiJSQ2Okpfc;XDwJ34F45Cz48MyCy7VuUQ=="
 ---
 

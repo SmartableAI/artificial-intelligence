@@ -8,7 +8,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/microsoft-ad
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/microsoft-adds-two-indian-languages-to-its-neural-text-to-speech-service-120082501118_1.html"
 type: article
 quality: 60
-heat: 60
+heat: -1
+published: false
 
 provider:
   name: Business Standard
@@ -25,6 +26,81 @@ images:
     height: 900
     isCached: true
 
-secured: "ugfHDiXtJhQyjw5NFkwImu8OggdY1AUAbJmuJe5xUmUwPTKZazFRzQm32dMoarzEQ0fKq2E3X4z7k4La81J6M9b9FMGkPSoioaBiOQgsFwEGwTWooCfc/J4XEAUSO/wN4uBlxelKe2lGx5bx3XqnjjuuvvLK2ibGY9N3gv69VWP3imcdVq5bJf+Hk2zoXbw6cpgc/vjbV1Ow/kuxfGGKst+JeewXZgdt84eHypmjsYldwcPj9vp7bfdBj5Vk0IkSh+ADDYDlI5jvuSH4L6e0ZWDVtkokVSvlwaEeNeElROJCGRdGxoZNkyedvt4Ofj36caCn+TCpd6krNe1ubz7F1w==;yrppxaja8AcfkAsKi0XtYg=="
+related:
+  - title: "Microsoft introduces 15 new languages to its Neural Text-to-Speech service"
+    excerpt: "Microsoft has announced the addition of 15 new languages to its Neural Text to Speech (Neural TTS) service language set. Neural TTS is a part of Microsoft's Azure Cognitive Services."
+    publishedDateTime: 2020-08-25T11:30:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 87
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/04/1585909473_microsoft_6_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+  - title: "Microsoft’s Neural Text to Speech finally supports Hindi and English (India)"
+    excerpt: "Microsoft has introduced 15 new languages to its Neural Text to Speech (Neural TTS) service language set including Hindi and English (India)."
+    publishedDateTime: 2020-08-25T12:30:00Z
+    webUrl: "https://news.thewindowsclub.com/microsofts-neural-text-to-speech-finally-supports-hindi-and-english-india-102528/"
+    ampWebUrl: "https://news.thewindowsclub.com/microsofts-neural-text-to-speech-finally-supports-hindi-and-english-india-102528/amp/"
+    cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsofts-neural-text-to-speech-finally-supports-hindi-and-english-india-102528/amp/"
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 56
+    images:
+      - url: "https://news.thewindowsclub.com/wp-content/uploads/2020/08/Microsoft-Neural-TTS.jpg"
+        width: 600
+        height: 451
+        isCached: true
+  - title: "Microsoft introduces Hindi and Indian English to its Neural Text-to-Speech service"
+    excerpt: "Microsoft India has announced the addition of English (Indian) and Hindi to its Neural Text to Speech (TTS) service."
+    publishedDateTime: 2020-08-25T10:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/india-business/microsoft-introduces-hindi-and-indian-english-to-its-neural-text-to-speech-service/articleshow/77740061.cms"
+    ampWebUrl: "https://m.timesofindia.com/business/india-business/microsoft-introduces-hindi-and-indian-english-to-its-neural-text-to-speech-service/amp_articleshow/77740061.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/microsoft-introduces-hindi-and-indian-english-to-its-neural-text-to-speech-service/amp_articleshow/77740061.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 53
+    images:
+      - url: "https://static.toiimg.com/photo/msid-77740230/77740230.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Microsoft introduces Hindi, Indian English to Neural Text-to- Speech service"
+    excerpt: "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech for a more natural interface.The service also provides customizable voices, fine-tuned auto control, and flexi"
+    publishedDateTime: 2020-08-25T07:55:00Z
+    webUrl: "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-11598339825477.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp-11598339825477.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp-11598339825477.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 41
+    images:
+      - url: "https://images.livemint.com/img/2020/08/25/600x338/2020-08-03T164404Z_5_LYNXMPEG720HH_RTROPTP_3_MICROSOFT-TIKTOK_1596761246173_1598340721227.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Microsoft text-to-speech tool now supports Hindi, Indian English"
+    excerpt: "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its neural text-to-speech service (Neural TTS) language set. The two are among the 15 new dialects added to the service,"
+    publishedDateTime: 2020-08-25T13:44:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200825/3615581.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
+
+secured: "tP52mZcpMp2IUyKTmw9KvD/uptFD13ZxSYuMas7oPPbD5MkLL1BeH/ShV0wbu3ry5hDxhzahAqi3uFa9ymr9j+D0u8Tmqdr8i6nD4gSrfIrdCulaCCfu2mGbwYDhh0q7VkZy8fzLxZ5OG0FAE5whmoTltIhw0EQJpkRx3JXLJdtYG5tds2SbXzbFgD67swVEiaQhg8w8eZx1lgTkzgBMAD2cWyQccPk295XfmVEmh2GxsHv/ymN8xLetSnuh/2Cna3YAQ6AQsKuJZzW5a4UkwV6Urdm24aJUgHkhoOO9pZDVo7ZQT1NWuBY24eelcx0peSh1bYNeEgbA2XVzT2FCRb/kt1k4/dmLNB06ULsu9d22dBkJPydV0XmZ5TznLgyGtPTJbK66Rlf1HybgBXyvkLmqBnNkAXjJZX1LMbcGQPKh8KMGaKZOzx1shyzbKzwxxjdg1QFheFCIOA7vKFzGKGd9wzQvG1Rsb3Geni4frWvsT+MGWrV2bCCr9HKDbtdjGuUcgtuLOdrHmgkGThH9aA==;e3l9kFEflLZeBniHMy7+HA=="
 ---
 

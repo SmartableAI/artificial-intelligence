@@ -8,7 +8,8 @@ ampWebUrl: "https://thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/amp/"
 type: article
 quality: 81
-heat: 81
+heat: 101
+published: true
 
 provider:
   name: The Next Web
@@ -28,6 +29,38 @@ images:
     height: 417
     isCached: true
 
-secured: "FIXa1M+6AKYPGE7z8RUsSp0S9EN7GcFhsfUYv9f0XCh0PfNDz4CcJm//evX17UkhlMrDr9gIu92j8bJfsrSILq058Ww86wC6SfDJ3bxEfi96MKKs4fu7NCTReXby5DrsvKqFgKVUdG3kUbDsjJhMiiKfnBTASxeOAWHpKmjZYywZvBz5T/dghYUHkkPIvUsX9Y2lrKii3xNigwZjNKP+/ey6yeBQEE2nRJ5bZ9wuaVPTXgbr4qHilj58wRzArcpuLCbTZ4fj4Huqmoj9teaPPP6r/IjoTbt6T/wyckOnp24aD9X/MT1iCGyIO+aV20dZrYvGO4d0r0THH2Ys9oI17g==;mUVyZjSiHbnMMF9YL4NMXA=="
+related:
+  - title: "Learn Original Dance Moves With The Help of Facebook AI System"
+    excerpt: "Indian-origin researchers at Facebook AI have developed a system that enables a machine to generate a dance for any input music, creating original, creative dance routines for any music that you feed it."
+    publishedDateTime: 2020-08-25T12:21:00Z
+    webUrl: "https://www.india.com/lifestyle/learn-original-dance-moves-with-the-help-of-facebook-ai-system-4121949/"
+    ampWebUrl: "https://www.india.com/lifestyle/learn-original-dance-moves-with-the-help-of-facebook-ai-system-4121949/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/lifestyle/learn-original-dance-moves-with-the-help-of-facebook-ai-system-4121949/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 59
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2020/08/Dance-move.jpg"
+        width: 700
+        height: 415
+        isCached: true
+  - title: "Facebook AI system can teach you original dance moves"
+    excerpt: "Indian-origin researchers at Facebook AI have developed a system that enables a machine to generate a dance for any input music, creating original, creative dance routines for any music that you feed it."
+    publishedDateTime: 2020-08-25T13:40:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/facebook-ai-system-can-teach-you-original-dance-moves-131250"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 39
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_1770734754.jpg"
+        width: 660
+        height: 440
+        isCached: true
+
+secured: "2kRoNao8AyC9sXVPh35alDz6GrvJtEa+6Z648nlfZE4cWzaVXJe7ugOAdwa7R2sLePOi+9DP3AwAmiuloADzhvPduJR3uStgl+tWARFuCQNp+PYbHK7J9Qkbge7JecUaaN0DCDAQ2kVYcNuew4XP7VcVAIpsBCLuZjRmeiDGzrKlvhtnMlcu3TIHzIpgsnlK5/tXH4z8kApo6FLUzcz4vp2hPF3HrPbVWfwdg06Ldysq9kFad5zZHrlW+c8BG06rDG0k0v8+z3YG8tbEbo7Zp5utWIsdns85wL/9+oE+ZS06tRbzFhxc+hNDZ07oC77S89sUmeJpUw25vtkXg177jx8kizFsx/R8ovtFuoHFbXfCnvVHgwJ6nIYwvL1/q69G5Yk1ssUsLUENs8f97VMxA7k3kHrCtbDe1EavwB2rlX9Pbdc0rKkzOFDLQOWhXUVWiFe/qQ3o61NtNYMuB62AvA4n9X1PawiJ9p4UAT3qpczOpEnmRtbvM3TQkMHWPtUnO2PVKp8BlZ4s6ZtaMvYh+w==;9wK2TH0GoKK9jweUz4JpvQ=="
 ---
 

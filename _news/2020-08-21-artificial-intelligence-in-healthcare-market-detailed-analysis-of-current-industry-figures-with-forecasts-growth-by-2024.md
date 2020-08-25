@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-21T13:23:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2020-08-21"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI Recruitment Market Overview, Cost Structure Analysis, Growth Opportunities and Forecast to 2026"
+    excerpt: "Global “AI Recruitment Market” report presenting the detailed analysis of trends, drivers, challenges and unmet demand"
+    publishedDateTime: 2020-08-25T13:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-recruitment-market-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2026-2020-08-25?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

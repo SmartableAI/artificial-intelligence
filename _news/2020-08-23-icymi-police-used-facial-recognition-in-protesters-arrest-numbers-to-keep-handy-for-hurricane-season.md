@@ -42,6 +42,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Orwell’s nightmare? Facial recognition for animals promises a farmyard revolution"
+    excerpt: "China’s acts of bovine intervention could help improve agricultural safety and allow the industry to become more self-sufficient."
+    publishedDateTime: 2020-08-24T09:09:00Z
+    webUrl: "https://www.washingtonpost.com/world/asia_pacific/facial-recognition-china-animals-farms-agriculture/2020/08/23/9808c710-d6fb-11ea-b9b2-1ea733b97910_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/asia_pacific/facial-recognition-china-animals-farms-agriculture/2020/08/23/9808c710-d6fb-11ea-b9b2-1ea733b97910_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/facial-recognition-china-animals-farms-agriculture/2020/08/23/9808c710-d6fb-11ea-b9b2-1ea733b97910_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 56
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MPRG3MRGMQI6VHGJ4GOPXSD6KE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "+F+u5RRmfJ2ZrygS/+2FNXgLAFQWhUDM/3vLJkSYmY+1Cf1dMkvv1QRyrq8AX/Jz9YdSEhp4ep2e9o/2iIZicNEAE9fBkUOD/g20S2I2N61oFKxTMnWrZbjZIxx3fwoG5Ik/meS7Tw+kaiiSrNqgolwdpoGVHEGDwXDV4BkglIykht2p1PUXA4EXxgzEhohUEITGNQLlEMRviZHXJwohyMH92ctBns8TKYLMlifY7Ne8GuJyR0HHOSXeD0Ru4ZGAfFLUdpMfzPWYUiOfMTJUGb3se6nIuDAd9Ys7bZCdKy4TAYhNiyCVGmQROhJtz0MpnjggOM7xwTfGV0Ym0fyLFuCsXW9jfdA/AYkI1cUII8cAK1bRaf4zGAHPRFviMS2geoU1DKCLDfPzX/fxbest31yZG3II0VFsGsmDstd5OX3arYPcabw1UYP/N6U6YNBSab5hYm6Zi1LQ4FH7HOp3dBnwdNtJJiPedRTuAyUrE9jSAJZeGfDwXa/5pD30XXY7I8rDH8pneI6dij6TkVBx2w==;aY7w4R8JPt7XTlINNU0guQ=="
 ---

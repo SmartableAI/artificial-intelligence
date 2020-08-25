@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com
 type: article
 quality: 49
 heat: 49
+published: false
 
 provider:
   name: Gizmodo Australia
@@ -22,6 +23,33 @@ images:
     width: 1024
     height: 560
     isCached: true
+
+related:
+  - title: "AI technologies — like police facial recognition — discriminate against people of colour"
+    excerpt: "Technology is not neutral, as facial recognition algorithms and predictive policing have shown us. Algorithms discriminate by design, reflecting and reinforcing pre-existing biases."
+    publishedDateTime: 2020-08-24T20:56:00Z
+    webUrl: "https://theconversation.com/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
+    ampWebUrl: "https://theconversation.com/amp/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 45
+  - title: "Use by police of automated facial recognition is declared unlawful"
+    excerpt: "Court of AppealPublished August 21, 2020Regina (Bridges) v Chief Constable of South Wales PoliceBefore Sir Terence Etherton, Master of the Rolls, Dame Victoria Sharp, President of the Queen’s Bench"
+    publishedDateTime: 2020-08-20T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/use-by-police-of-automated-facial-recognition-is-declared-unlawful-p56vw5jn6"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffc6bba22-e30e-11ea-8ecd-64fc41168b69.jpg?crop=6250%2C3516%2C0%2C326&resize=685"
+        width: 685
+        height: 385
+        isCached: true
 
 secured: "/TLjGP1s359woQ+ZGbqjqORkMGQXdyomi8CYeZhC+RPjgkzK+gC5Kb3TdOk9e+h+DVcqA3TOtk0WijvGHbKJylaObd3K5adsbpJdRA1xjPP6pYVfrwIiwy6NB+CRmLnsOaJbiOKQBVQ+yvJO0VEzb8hcYrv2AnUAVO9tKWmJJGNCngkCTGQ0GGBmmCGp+P3+oLE/5FkokznXj8645Ki+FiKl9k3ty1O1L4eBDVFQ6i6TEusRHa0u9IbN1BYyjctqex932J+tvRPGVH4zKs1HghtRHqZSYSVW2/Zi9qmAnLlJQI63m3JrZ5+UDWZaF43bP/s2tVOq/5VjrRv4NgqC5w==;dlM1Kp4o93m5nT2iRHs0LQ=="
 ---

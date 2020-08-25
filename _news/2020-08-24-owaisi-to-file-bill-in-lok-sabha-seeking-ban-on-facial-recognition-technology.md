@@ -26,83 +26,38 @@ images:
     isCached: true
 
 related:
-  - title: "Court ruling paves the way for Facebook to settle its facial recognition lawsuit"
-    excerpt: "A judge gave Facebook preliminary approval to settle its Illinois facial recogntion lawsuit that was filed under the Biometric Information Privacy Act."
-    publishedDateTime: 2020-08-20T20:15:00Z
-    webUrl: "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/"
-    ampWebUrl: "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/"
+  - title: "Hyderabad MP Asaduddin Owaisi seeks ban on facial recognition"
+    excerpt: "HYDERABAD: Calling the technology inaccurate, AIMIM leader and Hyderabad MP Asaduddin Owaisi on Monday said he will move a private members bill banning the use of facial recognition and remote ..."
+    publishedDateTime: 2020-08-25T08:51:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-mp-asaduddin-owaisi-seeks-ban-on-facial-recognition/articleshow/77738866.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/hyderabad-mp-asaduddin-owaisi-seeks-ban-on-facial-recognition/amp_articleshow/77738866.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/hyderabad-mp-asaduddin-owaisi-seeks-ban-on-facial-recognition/amp_articleshow/77738866.cms"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&#038;strip=all"
+      - url: "https://static.toiimg.com/photo/msid-77738878/77738878.jpg"
         width: 1200
-        height: 600
+        height: 900
         isCached: true
-  - title: "Orwell’s nightmare? Facial recognition for animals promises a farmyard revolution"
-    excerpt: "China’s acts of bovine intervention could help improve agricultural safety and allow the industry to become more self-sufficient."
-    publishedDateTime: 2020-08-24T09:09:00Z
-    webUrl: "https://www.washingtonpost.com/world/asia_pacific/facial-recognition-china-animals-farms-agriculture/2020/08/23/9808c710-d6fb-11ea-b9b2-1ea733b97910_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/asia_pacific/facial-recognition-china-animals-farms-agriculture/2020/08/23/9808c710-d6fb-11ea-b9b2-1ea733b97910_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/facial-recognition-china-animals-farms-agriculture/2020/08/23/9808c710-d6fb-11ea-b9b2-1ea733b97910_story.html?outputType=amp"
+  - title: "Face masks give facial recognition software an identity crisis"
+    excerpt: "As tech firms scramble to keep up with reality of coronavirus, some experts say users must change"
+    publishedDateTime: 2020-08-21T15:56:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 56
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MPRG3MRGMQI6VHGJ4GOPXSD6KE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.guim.co.uk/img/media/524ed0cbf81e6b545d012ff3f8f87d2543595878/337_455_4041_2425/master/4041.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a594db2b31375d731e5f75d01207d70b"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Is facial recognition technology finally being seen for the dystopian threat it is?"
-    excerpt: "In the end, even Silicon Valley has had to admit that there is something a bit sinister about facial recognition"
-    publishedDateTime: 2020-08-21T05:25:00Z
-    webUrl: "https://www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/"
-    ampWebUrl: "https://www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 53
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2020/08/869082432.jpg"
-        width: 1024
-        height: 651
-        isCached: true
-  - title: "Pittsburgh Councilman To Introduce Legislation Banning Facial Recognition"
-    excerpt: "Corey O'Connor will propose a bill that would ban the unrestricted use of facial recognition by police, KDKA's Amy Wadas reports."
-    publishedDateTime: 2020-08-25T09:47:00Z
-    webUrl: "https://pittsburgh.cbslocal.com/video/4678082-pittsburgh-councilman-to-introduce-legislation-banning-facial-recognition/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4678082-pittsburgh-councilman-to-introduce-legislation-banning-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4678082-pittsburgh-councilman-to-introduce-legislation-banning-facial-recognition/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 38
-  - title: "Pittsburgh Councilman to introduce bill that restricts facial recognition use"
-    excerpt: "Pittsburgh City Councilman Corey O’Connor intends to introduce legislation Tuesday that would regulate the usage of facial recognition and predictive policing technology in the city. “This technology has harmed more people than it’s helped,"
-    publishedDateTime: 2020-08-24T20:20:00Z
-    webUrl: "https://triblive.com/local/pittsburgh-councilman-to-introduce-bill-that-restricts-facial-recognition-use/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 16
-  - title: "US court gives preliminary approval to Facebook settlement of facial recognition suit"
-    excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."
-    publishedDateTime: 2020-08-20T23:08:00Z
-    webUrl: "https://www.telecompaper.com/news/us-court-gives-preliminary-approval-to-facebook-settlement-of-facial-recognition-suit--1350957"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 12
 
 secured: "BmCxNXtnPri6NuBswy3vI38chdxPiW1y/rmp2H89E+M51xZyaytcR/jY23NPIXvldKttqXxKzSAXEQcHr/vzz9CDEqmELitVWwfaJTCjZxfaYL7trngo7fSIGleT3dEwf+lYrk+gmZrbYMmAWrldBYNCY7+BBaXKYSPxNER/OSzAuoUGJzHJKwwbVLob9iFwtxG6kvV8dFocCPRC30rdLGydAJuk8bsnXwK/10doofdic3hKjP30gY6oY+fzdMNT2nbE2YHNQ2Bf/NEmBiT9aPcpgUJwGWsRs19tsHzL60mtfRQLnkE2I7IoCZO0M1lk/UrYZ80FINDIAeU2XxG7w0QWGxk2GXZYt6PR+C+1aD2MkJ5/Bh/WQvzKy0tsz228mASmKotOY/7YipO8Z/BzmmPdqz3Z45MXCAUy4ijAZNyQ2seBvJoWx36TJXW11aTp4Lb5s/RpqlpqAbwOcgdskoOQax6EwSAT7QUlZX9GwFH2c7W2c1PbIgcbH1Aanbg9GmTASiELadmcohDniic1XA==;EfwGFm4VP2plV5bUzYyTdQ=="
 ---

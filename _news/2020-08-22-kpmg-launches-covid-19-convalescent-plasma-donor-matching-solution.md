@@ -23,22 +23,6 @@ images:
     height: 607
     isCached: true
 
-related:
-  - title: "KPMG Launches New Tech Architecture to Drive COVID-19 Recovery; Cliff Justice, Bharat Rao Quoted"
-    excerpt: "KPMG has developed a technology architecture to match patients in clinical trials for convalescent plasma therapy to recovered patients willing to donate their antibodies, to advance the response and recovery of COVID-19 patients,"
-    publishedDateTime: 2020-08-20T20:43:00Z
-    webUrl: "https://www.executivegov.com/2020/08/kpmg-launches-new-tech-architecture-to-drive-covid-19-recovery-cliff-justice-bharat-rao-quoted/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 11
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2020/08/20/5f/f6/de/7c/dd/c8/b8/94/cliff-justice.jpeg"
-        width: 272
-        height: 270
-        isCached: true
-
 secured: "4Vs7rji2dy5aQSdB43cxqFFLVelMaa3h+qrX5pRQVhEfoljeUW4tpQKVRCpAm7hgy5oF7ZwBQhBimunvgQiwC5XfAg1QfOK8t5LOnRRJ/Anvu7yle9KASQ2lCyI+mIJeMWD8VX9qqYqkl7jsxt0TYNDUPUv6S3DQ0rhVvoMp688IO4PhXI/VSY/neY7muUTfreAZHe3SRbD//lUzhzpUSB7GlMlXUgKkLgn88BDI/hrm/pJHex7d4mRo1KW2SSUQswrbJuaJGu+28F1pxvxwmrRtTzh705qiM/wQvYbEk7w+EVYzPHWHgkSunalcutbljy8aLTgB2vybuE7OzO5qwBMvuG1YsIGDjam6/ppwYp3ZDVsxf3kcuaddXYCCg03o52QUs9gSbIc/VEr9HwWXGJcJOof7c6YYObXVauFn6Df8JB/9WsGaZdzHzzX+boLv4FhXE6rnZdE9mqdEDE5tZjO9qnaaeW1E/Mz3nEURv96PWF1wEx1RMIEKPp+oG9bh;mO2hZifzWIv0ZMKLF8Lbeg=="
 ---
 

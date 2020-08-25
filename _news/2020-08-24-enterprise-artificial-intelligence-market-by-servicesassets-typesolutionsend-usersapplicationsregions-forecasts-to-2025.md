@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-24T11:17:00Z
 webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-by-servicesassets-typesolutionsend-usersapplicationsregions-forecasts-to-2025-2020-08-24"
 type: article
 quality: 42
-heat: 52
+heat: 42
 published: false
 
 provider:

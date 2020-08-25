@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-24T21:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions-301117303.html"
 type: article
 quality: 7
-heat: 17
+heat: 7
 published: false
 
 provider:

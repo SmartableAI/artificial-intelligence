@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F3a13c4b0-e359-11ea-8b5f-75ffbab8f926&client=amp-blogside-v2&signature=aa5cd3dcc77471736c8733b40735efeade67fdea"
         width: 1130
         height: 630
+        isCached: true
+  - title: "AI vs. Human Fighter Pilot: Here's Who Won the Epic Dogfight"
+    excerpt: "The dogfight is part of a DARPA-led effort to develop AI for fighter planes. The AI won an important string of victories but robotic air combat still has a ways to go. An artificial intelligence claimed victory over several other AIs in simulated dogfights and then went on to trounce a real human Air Force pilot,"
+    publishedDateTime: 2020-08-25T13:20:00Z
+    webUrl: "https://www.popularmechanics.com/military/aviation/a33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
+    ampWebUrl: "https://www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 57
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-08-25-at-8-14-56-am-1598357785.png?crop=0.981xw:0.895xh;0.00321xw,0&resize=1200:*"
+        width: 1200
+        height: 599
         isCached: true
   - title: "AI Beats Human In Mock Dogfights"
     excerpt: "An artificial intelligence algorithm beat an “experienced” F-16 pilot in five straight simulated dogfights in a project designed by the Defense Advanced Research Projects Agency on Aug. 20. The pilot was up against an AI system named Heron and and the two duked it out in a Second World War style forward firing gun battle."
