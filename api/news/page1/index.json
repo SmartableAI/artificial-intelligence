@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-25-ghanaian-startup-nokwary-wins-ecobanks-2020-fintech-challenge.md",
+      "title": "Ghanaian Startup, Nokwary Wins Ecobank’s 2020 Fintech Challenge",
+      "excerpt": "Nokwary Technologies, edged out the rest of the ten finalists to emerge the overall winner of the 2020 Ecobank Fintech Challenge.",
+      "sourceUrl": null,
+      "webUrl": "https://pctechmag.com/2020/08/ecobank-fintech-challenge-winners/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pctechmag.com/wp-content/uploads/2020/08/8CF0C532-7312-47A6-839F-39808555296C.jpeg",
+          "width": 521,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Tech Magazine",
+        "domain": "pctechmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-irobot-is-giving-its-vacuum-cleaners-a-new-ai-powered-brain.md",
       "title": "iRobot is giving its vacuum cleaners a new AI-powered brain",
       "excerpt": "Robot is announcing what it’s calling the biggest software upgrade to its robot vacuum cleaners since the company’s inception 30 years ago: a new AI-powered platform known as iRobot Genius Home Intelligence.",
@@ -9,7 +50,7 @@
       "webUrl": "https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -47,7 +88,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -480,57 +522,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-24-cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024.md",
-      "title": "Cloud Natural Language Processing Market Research Key Players, Industry Overview, Supply Chain and Analysis to 2024",
-      "excerpt": "Selbyville, Delaware Global Cloud Natural Language Processing Market Report added at Market Study Report LLC provides industry size, share, growth, trends and forecast analysis up to period. Cloud Natural Language Processing Market Report also covers top key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024-2020-08-24",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-24-this-philosopher-ai-has-its-own-existential-questions-to-answer.md",
       "title": "This Philosopher AI has its own existential questions to answer",
       "excerpt": "A new text-generating system called the Philosopher AI will answer your questions about the meaning of life -- unless they're too contentious.",
@@ -886,7 +877,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-08-24",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -977,6 +968,56 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars.md",
+      "title": "LiDAR is getting so cheap it’d be madness not to use it in self-driving cars",
+      "excerpt": "LiDAR sensors are getting so cheap that it makes it hard to understand why any self-driving car company wouldn't bother using them in its vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/lidar-huawei-car-autopilot-self-driving-sensor-tech-development-796x447.jpg",
+          "width": 796,
+          "height": 447,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/amp/",
+      "publishedDateTime": "2020-08-24T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1076,46 +1117,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-artificial-intelligence-helping-to-improve-farming.md",
-      "title": "Artificial intelligence helping to improve farming",
-      "excerpt": "The impact of the University of Florida’s $70 million artificial intelligence (AI) initiative is likely to show up on your plate every day. It can help make what you eat tastier, healthier and more locally sourced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gainesville.com/story/opinion/2020/08/24/uf-ifas-is-positioned-to-make-great-leaps-forward-with-the-aid-of-the-university-ai-initiative/3410696001/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/21/NTGS/18c2eeb8-a1c7-42ed-9fcf-c804cd250d64-Phenogator.jpg?auto=webp&crop=6239,3510,x0,y317&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.gainesville.com/amp/3410696001",
-      "cdnAmpWebUrl": "https://amp-gainesville-com.cdn.ampproject.org/c/s/amp.gainesville.com/amp/3410696001",
-      "publishedDateTime": "2020-08-23T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gainesville",
-        "domain": "gainesville.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

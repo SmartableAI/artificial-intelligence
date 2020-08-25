@@ -1,0 +1,58 @@
+---
+category: news
+title: "Ghanaian fintech, Nokwary Technologies wins Ecobank Group’s 2020 Fintech Challenge"
+excerpt: "Two Ghanaian fintech, Nokwary Technologies and Growth Factor have emerged winners of the Ecobank Fintech Challenge after an exciting virtual event streamed live from Accra Ghana. Nokwary Technologies edged out the rest of the finalists to emerge as the overall winner of the competition,"
+publishedDateTime: 2020-08-25T08:58:00Z
+webUrl: "https://www.myjoyonline.com/business/technology-business/ghanaian-fintech-nokwary-technologies-wins-ecobank-groups-2020-fintech-challenge/"
+type: article
+quality: 48
+heat: -1
+published: false
+
+provider:
+  name: MyJoyOnline
+  domain: myjoyonline.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://www.myjoyonline.com/wp-content/uploads/2020/08/EFC-2020-Winner-1.jpg"
+    width: 956
+    height: 765
+    isCached: true
+
+related:
+  - title: "Ghanaian Startup, Nokwary Wins Ecobank’s 2020 Fintech Challenge"
+    excerpt: "Nokwary Technologies, edged out the rest of the ten finalists to emerge the overall winner of the 2020 Ecobank Fintech Challenge."
+    publishedDateTime: 2020-08-25T08:17:00Z
+    webUrl: "https://pctechmag.com/2020/08/ecobank-fintech-challenge-winners/"
+    type: article
+    provider:
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 54
+    images:
+      - url: "https://pctechmag.com/wp-content/uploads/2020/08/8CF0C532-7312-47A6-839F-39808555296C.jpeg"
+        width: 521
+        height: 333
+        isCached: true
+  - title: "Ecobank Group Announces 2020 Winners of Fintech Challenge"
+    excerpt: "Nokwary, Ukheshe and Growth Factor wowed the jury to claim the three prizes on offer on the day All 10 finalists were officially inducted into the Ecobank Fintech Fellowship programme to explore commercial partnerships with the pan-African banking giant."
+    publishedDateTime: 2020-08-24T22:48:00Z
+    webUrl: "https://allafrica.com/stories/202008241145.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 39
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
+
+secured: "LO+faQlkz7Kf17v0TpgYtGbW/NdLoiO1EVrM6aUHbV2w/zv/fy+25abhZ9EEz0G1UtVc3YbkRt1xwI/QvrM06Aig63UWlH/MSOLDeOmrgKe9eS3ArZohWs3AJAzmliyIMhb9p/0o3Ul89kK9G+KNFzY8Zewvg1GG8UD13ZkyJ6IlOcWbllQhlMXVKS3YybVow4HCQ0rNcG+3tvtDxQvnBsj+u97bI4LJA51qnaosBjd0ND8vuuRtl/Oro7Z/InyNBpCAtN+MtZN84PFxrZNcOsMuaRlDfpXJnDCVhfCuaJ3z+CaknD1wbkeHSFt4rUfGxqbllRsstgNhx+P0mR2pDQ==;sagkCFI/7kkR8u668sb3sQ=="
+---
+

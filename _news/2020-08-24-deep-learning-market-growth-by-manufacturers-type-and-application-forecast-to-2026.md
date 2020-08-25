@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-24T09:58:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-08-24"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning as a Service Market to witness an impressive growth during the forecast period 2020 – 2025"
+    excerpt: "Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques"
+    publishedDateTime: 2020-08-25T07:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-to-witness-an-impressive-growth-during-the-forecast-period-2020-2025-2020-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Big Data Analytics Market Fueling Artificial Intelligence 2020: Predictive Analytics and Security Applications Present Key Growth Opportunities"
     excerpt: "The \"Global Big Data Analytics Market Fueling Artificial Intelligence, 2020\" report has been added to ResearchAndMarkets.com's offering. For over a decade, Benzinga has lead the way when it comes to investor access to information."
     publishedDateTime: 2020-08-24T12:09:00Z

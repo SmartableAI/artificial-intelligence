@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "AI technologies — like police facial recognition — discriminate against people of colour"
+    excerpt: "Borchak Williams in January 2020 for a shoplifting incident that had taken place two years earlier . Even though Williams had nothing to do with the incident, facial recognition technology used by Mic"
+    publishedDateTime: 2020-08-25T06:29:00Z
+    webUrl: "https://menafn.com/1100688657/AI-technologies-like-police-facial-recognition-discriminate-against-people-of-colour"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 45
+    images:
+      - url: "https://menafn.com/updates/pr/2020-08/24/TC_6b007145-8image_story.jpg"
+        width: 1500
+        height: 752
+        isCached: true
   - title: "Use by police of automated facial recognition is declared unlawful"
     excerpt: "Court of AppealPublished August 21, 2020Regina (Bridges) v Chief Constable of South Wales PoliceBefore Sir Terence Etherton, Master of the Rolls, Dame Victoria Sharp, President of the Queen’s Bench"
     publishedDateTime: 2020-08-20T23:01:00Z

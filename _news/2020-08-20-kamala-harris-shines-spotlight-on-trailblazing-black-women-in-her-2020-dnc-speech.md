@@ -8,7 +8,7 @@ ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/kamala-harris-shine
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/6380948_082020-wls-schulte-kamala-5p-vid.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Read Kamala Harris Masterful Speech Accepting The Democratic Nomination To Be Vice President"
-    excerpt: "Kamala Harris night accepted in glorious fashion the Democratic nomination to become the first Black woman to run for vice president on a major party’s ticket."
-    publishedDateTime: 2020-08-20T15:07:00Z
-    webUrl: "https://newsone.com/3999148/kamala-harris-dnc-2020-speech-full-text/"
-    ampWebUrl: "https://newsone.com/3999148/kamala-harris-dnc-2020-speech-full-text/amp/"
-    cdnAmpWebUrl: "https://newsone-com.cdn.ampproject.org/c/s/newsone.com/3999148/kamala-harris-dnc-2020-speech-full-text/amp/"
-    type: article
-    provider:
-      name: NewsOne
-      domain: newsone.com
-    quality: 33
-    images:
-      - url: "https://ionenewsone.files.wordpress.com/2020/08/15979322535986.jpg?quality=80&strip=all&w=1024&h=686"
-        width: 1024
-        height: 686
         isCached: true
 
 secured: "zZOkyQRyZD7dHbXwAIKLfKbvEfyq4t3KzhpNLCt84r3iayz5xrwM20OS9xrTnxTdl+FXwAno+A0hYXkQB/5mbji5M07R3mvfgf2XoPNwL8e8juHbKoD1oaT7t/zyJbSl3js8RsvXL/HaXUePjjC4GzFFfHvk2h8VnhiY4Wzp+/X+taaEqJiZjJzEWg5x8QiYCbEVan64b1Lu3d+2CG1i82N+yqXxMrnafYa1wJlHFKcBE7kWBZHAHtwqe7kp0tUDLDh4BpLyladJILNQGxcDKaDIozs+9FDClTt05GWfCL5GWe1pHhoDgDD7Ex7qdRHq0HYMz8Q+eOldvA2mfQ3bDg==;DhuVjmqyIf56aSK39bHIqg=="

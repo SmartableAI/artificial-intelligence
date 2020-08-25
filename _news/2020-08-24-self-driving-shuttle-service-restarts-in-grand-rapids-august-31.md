@@ -42,20 +42,6 @@ related:
         width: 420
         height: 236
         isCached: true
-  - title: "Detroit Medical Center patients offered new self-driving shuttle service"
-    excerpt: "Senior citizens and residents of two local Detroit communities now have the option of taking a self-driving shuttle to appointments at Detroit Medical Center Heart Hospital. The complimentary service comes via several partners,"
-    publishedDateTime: 2020-08-20T14:52:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/detroit-medical-center-patients-offered-new-self-driving-shuttle-service.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 23
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/2.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "zUkdGqy8hEfhFR6ufHfKd02ODSTOToQM1wUU8mv07X1fCQcLkxyIAILu8IeXFUj3psVcV0plmbc+Gkc9D1Emoe3x3Dwz6tVmSQwgW1L0lAY03gopjmRiXFIpvCigFFhAmnyB8l3RU2AkovBoNxBtU15RTV0aLZtbqUbzHPWkDQlCzrdJuJoC6OT9bdLxdpAdKzP99iKoxYsU5CUhCFxwxTj879imXqGK+WjDZkpHMlVmqJr9Q09l8+3Y04LY9nBsQm0XWRbowCuko/bG3HoF3uK8xKxJah6JlKUerrb1DpUNNZHJJelm0i1muEMJR33+O/sef0U7xs1I5Vs+3EK3nt+VAf44ue6FJoajRp+6xeklLJ6iD0hNKHG71P48E0AEvNIj2XML+LrJpR01QcXFrZL6blT2ShOX2oZjl6O5RHEGT+PKHosoBlyVc0QGUtx6pu/TaO9gmjn3jwOKI9xpyjJF+Hik+7r+mYuZSWExOP7iYgFQGk0Ziav4yC1cFDdW6DFp381r1x5+tdE8jbpbWw==;eqtFJdUY0kdNOdkrZPNNQw=="
 ---

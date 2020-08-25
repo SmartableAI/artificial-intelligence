@@ -32,20 +32,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "AI Eye Episode 415: IBM (NYSE: $IBM) Launching AI Assistant for Seoul and GoldSpot to Apply Machine Learning to Identify Mining Exploration Targets"
-    excerpt: "IBM (NYSE:IBM) is collaborating with the South Korean city of Seoul to launch an AI-based virtual assistant for Seoul citizens using IBM Watson Assistant. The assistant, which is part of Seoul's \"I Care You\" project,"
-    publishedDateTime: 2020-08-20T17:00:00Z
-    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/08201AIEye-IBM-SPOT.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 1
-    images:
-      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
-        width: 1280
-        height: 1206
-        isCached: true
 
 secured: "n81Zm4IdRJ5KaZuTnykXTGPfdm9sCspMtzNjMd0hQVMvPPT157wmECaCKRytvw/kO/mIVarY/WTPn9nOavp4lrf1tc6WiIJHHngpXQ3Tx6XpaD3VMQOF05Q64s4/7Fw0giC8V3Z5+KVtMH3QE2/JUcFumuKPRfB68JpKdeRq5u8c/klwNVD2HpMtONYAu+H5PV1YFLvtJueciWDezbxoS6pqaTeD38D/jh7jgr7xvIqgzGGR9nSk8dp5biI3CUiVBqPeTlnSF0j5CBn0lk5t2WO1s/nxPvNdxDPkI19U2SxNJ65Yw3+zXSF1P8tdqFgVhkPkN93VzV406UxoNyYboA==;lAceLwaKs8uEaBexQRp3gQ=="
 ---

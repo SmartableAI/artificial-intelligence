@@ -2,24 +2,24 @@
 category: news
 title: "Go long with machine learning"
 excerpt: "Discover how the NFL & AWS are using machine learning and artificial intelligence to transform how football is analyzed, played, coached, and experienced. NFL Next Gen Stats, powered by AWS ..."
-publishedDateTime: 2020-08-10T22:57:00Z
-webUrl: "https://www.networkworld.com/resources/206843/go-long-with-machine-learning"
+publishedDateTime: 2020-08-10T19:51:00Z
+webUrl: "https://www.computerworld.com/resources/206843/go-long-with-machine-learning"
 type: article
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "cnIvpc3uE8RF4KxUVHyPlphyeu9E/WJC6uUEOIUJfulTl7RpXB3FyAXCCCiTkkhAO9YC9pOur8JTiSADOtJtHUFJ6btHqi5HK6XYFczA2Smjk7FV/5BvpWTvVxRcWOM94QF1rEVLM/UpOohD4TEAunaXs9Wt90sNcAcGn0hwLXD+a7D/SIz+ISKd2ULutXtpxosfnX9JWRvz47ucMtR/Z7PoEM7xiVPctSHWINwZ/5QEJlSD2u49cWdvU1L//C4up5A2rgBrXpx4ZaKfcmaxpfndlAPEDO9MTS14JF/dO9YScBUaJ1U59/No645qZAGU5yxsvIhA7IKG+/+W9MKjjg==;xXv4JzE4J4klC5glOOmFlw=="
+secured: "obrpQ4lAxEDT4fuSJA+Jv/WMnM+6RqKlUV/KpyNHhuKf0vmautpMDXDXy6kzp1i/ZF7ugIyyJl/qh2PBzx+v/vSEWsF+VXoAU75AAzlfgW0ab7uFwVYMcSbpGWMcX2W6Wwg9UDFInrb4gtdfCA1c1JPw424eMgQlHsrYkcHTHrN02zv6vzNN487czM6ZLKfTT6yDlNMCoVUIy3jvOL7+YF9JAFMwBy9pU/T6iUeOiRELF4iLMkDto9h3QEX/zUWUm0jroHgR9ILruCaWUwCcclNMRaR6oD7GZNmWNEEiQ4OT4OFC58jHFq4aDB3DbNSxpBGplnvAy41O04ICj16MUw==;Ul96MPmBeNZN/OlfF5wNkA=="
 ---
 

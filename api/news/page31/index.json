@@ -2,6 +2,148 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-07-28-supply-chain-resiliency-begins-in-the-cloud.md",
+      "title": "Supply Chain Resiliency Begins In The Cloud",
+      "excerpt": "As our lives and work continue to adjust, it’s important to retain the many lessons the pandemic has taught us and think about how we can build more resilient supply chains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/googlecloud/2020/07/28/supply-chain-resiliency-begins-in-the-cloud/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f208e703fa7f7d79a630ad1%2F0x0.jpg%3FcropX1%3D34%26cropX2%3D4011%26cropY1%3D0%26cropY2%3D2236",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2020/07/28/supply-chain-resiliency-begins-in-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/07/28/supply-chain-resiliency-begins-in-the-cloud/amp/",
+      "publishedDateTime": "2020-07-28T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-facebook-rebel-general-ai-algorithm-can-probably-beat-you-at-poker.md",
+      "title": "Facebook ReBel General AI Algorithm Can Probably Beat You At Poker",
+      "excerpt": "A group of researchers from Facebook AI Research has now created a more general AI algorithm dubbed ReBel that can play poker better than at least some",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2018/11/Facebook-Logo-Nov-15-2018-AH.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html/amp",
+      "publishedDateTime": "2020-07-28T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-coronavirus-masks-make-it-harder-for-facial-recognition-algorithms-to-id-people-study-finds.md",
+      "title": "Coronavirus masks make it harder for facial recognition algorithms to ID people, study finds",
+      "excerpt": "Coronavirus face masks can confuse facial recognition technology, government researchers announced Monday after a preliminary study on the issue. Facial recognition algorithms developed before the outbreak struggle to identify people wearing masks or face coverings,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/Face-recognition-with-mask.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp",
+      "publishedDateTime": "2020-07-28T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-2020-emmy-nominations-yield-pleasant-surprises-overdue-recognition-column.md",
       "title": "2020 Emmy Nominations Yield Pleasant Surprises, Overdue Recognition (Column)",
       "excerpt": "This year’s Emmy Awards nominations saw Netflix claim a decisive lead with 160 overall nominations, while HBO’s “Watchmen” was the most-nominated series overall and several surprise newcomers",
@@ -1028,146 +1170,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-commentary-the-real-reason-were-afraid-of-robots.md",
-      "title": "Commentary: The real reason we're afraid of robots",
-      "excerpt": "Artificial intelligence is everywhere. It helps drive your car, recognizes your face at the airport's immigration checkpoint, interprets your CT scans, reads your resume, traces your interactions on social media,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fltimes.com/news/nation/commentary-the-real-reason-were-afraid-of-robots/article_34f7f15b-8a65-5b35-a151-d30f23801663.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finger Lakes Times",
-        "domain": "fltimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-advertima-rings-up-175m-for-computer-vision-powered-behavioral-analytics-for-in-store-retail.md",
-      "title": "Advertima rings up $17.5M for computer vision-powered behavioral analytics for in-store retail",
-      "excerpt": "Swiss computer vision startup Advertima has raised a €15 million Series A (~$17.5 million) to build out a machine learning platform for physical retail stores to ‘upgrade’ the shopping experience via real-time shopper behavior analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/28/advertima-rings-up-17-5m-for-computer-vision-powered-behavioral-analytics-for-in-store-retail/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Screenshot-2020-07-28-at-12.54.36.png?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/28/advertima-rings-up-17-5m-for-computer-vision-powered-behavioral-analytics-for-in-store-retail/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/28/advertima-rings-up-17-5m-for-computer-vision-powered-behavioral-analytics-for-in-store-retail/amp/",
-      "publishedDateTime": "2020-07-28T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-this-ai-generates-hilariously-realistic-startup-acquisition-announcements.md",
-      "title": "This AI generates hilariously realistic startup acquisition announcements",
-      "excerpt": "The Acquisition Blog Post Generator leverages AI to create realistically sounding startup acquisition announcements — and it's pretty funny.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/28/startup-acquisition-announcemnet-generator/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/acquisition-blog-post-thisstartupannouncementdoesntexist-796x414.png",
-          "width": 796,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/startup-acquisition-announcemnet-generator/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/startup-acquisition-announcemnet-generator/amp/",
-      "publishedDateTime": "2020-07-28T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thestreet.com/.amp-mishtalk/mishtalk/economics/60-minute
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-mishtalk/mishtalk/economics/60-minutes-self-driving-trucks-will-soon-be-kings-of-the-road"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,70 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI As Being Truthful Or A Liar, Including While At The Wheel Of Self-Driving Cars"
-    excerpt: "AI as teller of truth or potential untruths. getty. Will AI lie to you? Sure, why not. Most people assume that AI is dispassionate, unbiased, objective rather than subjective, and"
-    publishedDateTime: 2020-08-20T16:29:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/"
+  - title: "Will Aurora run out of road as west’s last self-driving unicorn?"
+    excerpt: "At first, its strategy of selling carmakers the technology to build their own self-driving fleets looked promising. By early last year Aurora had lined up multiple partners, raised an impressive war chest and burnished a reputation for having some of the top engineering talent."
+    publishedDateTime: 2020-08-22T03:00:00Z
+    webUrl: "https://www.ft.com/content/c757f09e-1cc0-456f-a9bd-22e42fdd33ff"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3c3ffe7e15267c1d38cc1a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D455%26cropY2%3D3267"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The AI ‘Intelligence Explosion’ Might Happen This Way, Including For AI Self-Driving Cars"
-    excerpt: "Some vehemently assert that we are potentially going to have an AI “intelligence explosion” that will someday occur, and there are various bets that this might happen somewhere between the year 2050 and the year 2100."
-    publishedDateTime: 2020-08-23T16:21:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F902260582%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Full Self-Driving Cars Are Still A Long Way Off – Here’s Why"
-    excerpt: "Tesla﻿ makes a lot of noise about its self-driving abilities, and contender Lucid is claiming it will go further with its Air. But is this really all hype, and will we ever really be able to sit back and let the cars do all the work?"
-    publishedDateTime: 2020-08-22T09:33:00Z
-    webUrl: "https://www.forbes.com/sites/jamesmorris/2020/08/22/full-self-driving-cars-are-still-a-long-way-off--heres-why/"
-    ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2020/08/22/full-self-driving-cars-are-still-a-long-way-off--heres-why/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2020/08/22/full-self-driving-cars-are-still-a-long-way-off--heres-why/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3fe895e0243aa68130748d%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "LiDAR is getting so cheap it’d be madness not to use it in self-driving cars"
-    excerpt: "LiDAR sensors are getting so cheap that it makes it hard to understand why any self-driving car company wouldn't bother using them in its vehicles."
-    publishedDateTime: 2020-08-24T07:57:00Z
-    webUrl: "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/"
-    ampWebUrl: "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 71
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/lidar-huawei-car-autopilot-self-driving-sensor-tech-development-796x447.jpg"
-        width: 796
-        height: 447
-        isCached: true
+      name: The Financial Times
+      domain: ft.com
+    quality: 4
 
 secured: "5zgHcOc3+NUbCZT2SUAaDPKg6uwv9qfPnRYPPxAZukO6y8q3lIMGHHXlSZhCCv2A+ijqUK58eoRmDiq69hPQMuQtREv7gE6ruCtZw0mtXMpNewZhB+22+iFiNUFAchyzQZCMiHtrtwGF+zxxgarTFTt0mda/6WksaUl+ajMbKO54mAV8xRxVNTUi5J3V38r416UQg6MTPSHa1eukSEnvwmSQ97PIBBiAP/kO5XjkbYHWnkFsTBfcRF7AWjcNrPDZJabLFsn9aA6yKoLjnEb8p19JUUnySdRb2deW6NahrG8+7V4SzxPfav4gxvRQG4QqoIDUkGwKdNsYyy4hhpT8sGSSBeYNthyVj29+q6+O3OufHiRwIpjfS55RqOTQvvKsHo/qYTexCUCedDlqecfP20ptyS3nso6oHBje9wcHhpV6LY0SsEdk6hDIKTOtT4qodkUT88lB/n70LSjj05nOFo/SzKNR3peKVTS6CsiVSm6uUjZy2jMgYJkg4Eb3EXQI/m7HPdsw9Vre0wMjI5fkhw==;AkqsmHj4yL/QGxkFIJ/IYQ=="
 ---

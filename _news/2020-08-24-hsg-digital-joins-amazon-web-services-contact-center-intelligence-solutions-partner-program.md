@@ -1,23 +1,27 @@
 ---
 category: news
 title: "HSG Digital joins Amazon Web Services Contact Center Intelligence solutions partner program"
-excerpt: "With 61 delivery centers in 7 countries, HGS successfully manages billions of customer interactions every year. Their AWS ML-powered solutions include HGS Pulse, an HGS client portal that provides cri"
-publishedDateTime: 2020-08-24T04:01:00Z
-webUrl: "https://www.business-standard.com/article/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
-ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
+excerpt: "HGS Digital LLC, a subsidiary of Hinduja Global Solutions, announced its participation as an Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions Partner program. This unique designation recognizes that HGS Digital is an AWS Partner Network (APN) Partner that specializes in helping customers add intelligence to their existing contact center solution,"
+publishedDateTime: 2020-08-24T20:45:00Z
+webUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
+    width: 600
+    height: 277
+    isCached: true
 
 related:
   - title: "HGS surges over 3% after digital arm joins AWS Contact Center Intelligence solutions partner program"
@@ -51,6 +55,6 @@ related:
         height: 315
         isCached: true
 
-secured: "qdi7bcoEWFQFL+y0vOEpeYiFTziWvpyYsRuWpaQu+QE41/v3GeDDHuYLDecW3KQobyEyQpr+Lnu2eQ2bNK+jhdLZufzqOQpMZeAd7uXvx8V8WSv1zTrZhQVW0OiDq54MX8NdswAVq83zZ+80TVdrpUQ/sEja5Lj2dFqOYaoYz9pU/lVjN4wfzEyrS+LHibfEerqzDqbOrn4kH0AVeFAfBYemXM3eg03xFalmWDPf0Xbkbgcbtx89B1eLQHB9tm8oV67dJympGvB7x7R5vuOQteiAfa0TRl32mU03Y5n0X6SXh89LgurZ+d+1WU50gFXcXzG5Pf+mfp4AI0Y1vV4tNA==;DjSu7Bc5ct3GrZDqDH5V/g=="
+secured: "qYY5ZZvnEWAyK9TTvLZDBUoJ9L3btlSG6gNVeQmYeGi0w647RZirrUY5JDSIOQ+SSchaj75CZNASDSMwdKuoLXxG/GmiqXmzyRqBo+ULoasaRf2V5oAfFQODARBb9sSlkYCB3/Io9nyt2BNfpA3TZ8KkaWEWyeNYdea0Gq2oXqaQa6Sb3z2cvxQq8kt97PIpuUo95CeANHTTzXkyTpUjFFsYTZh7pJyIXkbkxFP9olX3loWC6bDzq+rRS/ArWkvA9KuFzNT7wrv9oTnNhdv9AwNv6b3iVwlFTXrSsKrnW68vGpvApgR1R9redkUyjsN7QcVpjJsnwdmZN/ef30JEhg==;JctmCUkF5FMClzc9R2FcuA=="
 ---
 

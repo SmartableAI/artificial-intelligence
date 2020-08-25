@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200820/Exeter-experts-organi
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200820/Exeter-experts-organize-global-AI-summit-to-address-ongoing-healthcare-crisis.aspx"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Exeter experts organize global Artificial Intelligence summit to tackle pandemics"
-    excerpt: "A global summit which aims to boost effective collaboration between experts working in Artificial Intelligence (AI) is being organised by academics at the University of Exeter."
-    publishedDateTime: 2020-08-20T14:53:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoe-eeo_2082020.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 36
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "rG3M1OERX9+1bW0C/AfSoGhd8bio4DylLdU50Efc6/dpCENyzkSaXfQ1PIhAjXNdg+7zGGe8xCKBiC6SQmQ+9920x5aCP0KonwITnq+PRmaB8ZQLTsdsEfDcepBWw+whfDtwXfOsmCUFwFC/UdgX/2VZbL87dyLuEPFFg2NertNfrohJX6Q/tdMKKvoz/G36gUQ3OVpdzXy9wsAG6mvE1yp9ogfGJFxxnmcyPDMTTKe1QhGFZGVHTpiNc/wiMEPOVI3mcP450yYE8ltB47tq2Q/W5iQOAgglJ++WFqCy/MwYUdB8YgUEC1NNfoGQ+rlif/+g5uESfQ+fXgKzhv7yDQ==;syKpcC4UPclMG3svifdKCQ=="
 ---

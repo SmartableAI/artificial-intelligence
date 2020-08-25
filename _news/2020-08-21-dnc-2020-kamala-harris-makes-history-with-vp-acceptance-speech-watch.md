@@ -58,22 +58,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Read Kamala Harris Masterful Speech Accepting The Democratic Nomination To Be Vice President"
-    excerpt: "Kamala Harris night accepted in glorious fashion the Democratic nomination to become the first Black woman to run for vice president on a major party’s ticket."
-    publishedDateTime: 2020-08-20T15:07:00Z
-    webUrl: "https://newsone.com/3999148/kamala-harris-dnc-2020-speech-full-text/"
-    ampWebUrl: "https://newsone.com/3999148/kamala-harris-dnc-2020-speech-full-text/amp/"
-    cdnAmpWebUrl: "https://newsone-com.cdn.ampproject.org/c/s/newsone.com/3999148/kamala-harris-dnc-2020-speech-full-text/amp/"
-    type: article
-    provider:
-      name: NewsOne
-      domain: newsone.com
-    quality: 33
-    images:
-      - url: "https://ionenewsone.files.wordpress.com/2020/08/15979322535986.jpg?quality=80&strip=all&w=1024&h=686"
-        width: 1024
-        height: 686
-        isCached: true
 
 secured: "d24JHm3ZGXNFT51VvI7ttzmTPdyj9TS+x0tBQS3JenYhlJrr3ocpqIXiD3NKM0uNtSbtn9OEO1zg8afc8p6rtF+C/+htLdB5MtcPAO2Y7+jSf/DvNCgCkcRw9r7g0Lo2zWRjYYBqSIlHMSX4z3cGvIfARvrUhn/rDwG7Qo8WQtQJce/yT3vniFQrWmNgws0AQxlaNSnEs/RHphH5O/UTbP6UXwExbrRFQrNrCkU4FUHimAw9l7XLqvx5FyPfH/+43mZEYj51BE/CZ9lFwYlGKG2S2zMyPXuqD95Bkeuc7zL0NMmEWyDwKAlcFcr8A4SiooX6CaJQnnJRmPieHtLgzcVFRnt8lrmwCdEmAdhMcl0C3zUJCp+cXG4eQAA9hHyehag97yhjjYw2rFdFsEdLW0CbNfqVXGye2WHvAEI1be1v3JTRXOXtGyHrAE7LTRCwt2TraijLrjG8pt3U4ZK7ljF3QKjhbD2CyTFD0S1wmEh/2TWXauR7faq1Bz2fsbgGvNWPLftHNUW1MT7gFVEi6Q==;Y0CM3YF/Xntwy7Da+qop1w=="
 ---
