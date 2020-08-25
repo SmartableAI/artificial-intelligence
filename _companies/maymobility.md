@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "May_Mobility"
   url: "https://twitter.com/May_Mobility"
-  followers: 1830
+  followers: 1832
 
 size: 51-200 employees
 yearFounded: 2017
@@ -35,7 +35,7 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/992106180431532033/eOHdpPoB_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1298368092326834177/krebfOf2_400x400.jpg"
     width: 400
     height: 400
     isCached: true
