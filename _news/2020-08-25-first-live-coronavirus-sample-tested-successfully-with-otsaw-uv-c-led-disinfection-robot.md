@@ -2,12 +2,11 @@
 category: news
 title: "First LIVE Coronavirus sample tested successfully with OTSAW UV-C LED disinfection robot"
 excerpt: "OTSAW has built the world's first successfully laboratory tested human Coronavirus exterminating machine using OTSAW's patented UV-C LED,"
-publishedDateTime: 2020-08-25T06:52:00Z
-webUrl: "https://www.prnewswire.com/in/news-releases/first-live-coronavirus-sample-tested-successfully-with-otsaw-uv-c-led-disinfection-robot-831969241.html"
+publishedDateTime: 2020-08-25T11:33:00Z
+webUrl: "https://www.prnewswire.com/ae/news-releases/first-live-coronavirus-sample-tested-successfully-with-otsaw-uv-c-led-disinfection-robot-831969241.html"
 type: article
 quality: 30
 heat: 30
-published: false
 
 provider:
   name: PR Newswire
@@ -23,6 +22,6 @@ images:
     height: 672
     isCached: true
 
-secured: "pR3WTHcyPnWk1Sbu/Ug6IzvhAt5Ny1mi1Y9gp7G8HBFlyLUEK8bAe4q6L+BCHoAesxmJMMlKUqvFV1ThirtMmyqe6CW7uN/rLRx/lZ1qSQXRpxy20KsH+zyoDoGIPtHqLPZtxVN9aRRpFspWEXzdEDC2/tbEcexWTTDd0r+iRhDOHb+4vlg5toy9jbKxlG6Blc074CSjIBMrs2Tize03cs8WI2B8O7kdNnY1cD9e3AWDBeB84l4P0XISLzFpUGyoJYbc2g5tRrd96j2jxwhs1QU960Covgismhcui5AwDoomBAkhdg15k44r1TtaP1Vid+kstpB27yoriQ/4QZPO9g==;QP197SyQMVJTQXfgMre9rA=="
+secured: "1wx69DDxiBuHIb7h3NG1Zrrzk9Uj2Xm76r8j+Tx+uqANQlYWDphZt+cO62Z2DsDzLkN14z4cIwjFG+TH43MQvKwGEEOGYWFQClmmM/fZ5qpM5iTf2vC6szCrC6g6+EpHofcl7yTDy3ZuMXDoK5JztxbR0VR9ZwRykedfedO/+/bxcesagrictjAi7dnG7yBRJOvbwTDZqAZrgba8sLX9yqs/2ACDdHhhNW6MZBmQiqoGzMqerAht47fnRoEN2ZkBlRxoKOi4wbZ1tbQBudVwWNj3f5CB2zAWnqMDfdum3Iq6SGj3HKOtmOPVa9BFASGEhjezaczDP4diScigNAQtqQ==;F2aEvP3kr1e2nYUCAsSanQ=="
 ---
 

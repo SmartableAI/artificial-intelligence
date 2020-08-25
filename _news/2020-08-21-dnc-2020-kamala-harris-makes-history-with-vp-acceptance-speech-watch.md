@@ -8,7 +8,7 @@ ampWebUrl: "https://abc7.com/amp/kamala-harris-speech-dnc-biden/6378391/"
 cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/kamala-harris-speech-dnc-biden/6378391/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris shines spotlight on trailblazing Black women in her 2020 DNC speech"
-    excerpt: "Calif., accepted the Democratic Party's nomination for vice president Wednesday night, she did so by recognizing the trailblazing women who came before her. \"That I am here tonight is a testament to the dedication of generations before me,"
-    publishedDateTime: 2020-08-20T17:09:00Z
-    webUrl: "https://abcnews.go.com/GMA/Culture/kamala-harris-shines-spotlight-trailblazing-black-women-2020/story?id=72492044"
-    ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
-    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/kamala-harris-shines-spotlight-trailblazing-black-women-2020-72492044"
-    type: article
-    provider:
-      name: ABC
-      domain: go.com
-    quality: 54
-    images:
-      - url: "https://s.abcnews.com/images/GMA/kamala-harris-dnc-01-ap-iwb-200819_1597933336252_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "DNC 2020: Kamala Harris' historic speech inspires young women across Chicago area"
     excerpt: "Kamala Harris credited her Indian-born mother in her acceptance speech for giving her the values that charted the course of her life."
     publishedDateTime: 2020-08-21T01:12:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wzzm13.com/amp/article/news/local/self-driving-shuttle-s
 cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/local/self-driving-shuttle-service-restarts/69-5042b044-df0c-4f6a-9084-407cabc0bdea"
 type: article
 quality: 44
-heat: 44
+heat: 54
 published: false
 
 provider:

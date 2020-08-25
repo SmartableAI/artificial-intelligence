@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-24T08:49:00Z
 webUrl: "https://www.nasdaq.com/press-release/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual"
 type: article
 quality: 36
-heat: 36
+heat: 46
 published: false
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-21T23:15:00Z
 webUrl: "https://www.cdrecycler.com/article/amp-robotics-hires-key-leadership-roles/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 736
     height: 414
     isCached: true
-
-related:
-  - title: "AMP Robotics Accelerates Growth With Key Leadership Hires"
-    excerpt: "AMP Robotics Corp., a pioneer in artificial intelligence (AI) and robotics used to recover commodities reclaimed as raw materials for the global supply"
-    publishedDateTime: 2020-08-20T18:57:00Z
-    webUrl: "https://wasteadvantagemag.com/amp-robotics-accelerates-growth-with-key-leadership-hires/"
-    type: article
-    provider:
-      name: Waste Advantage Magazine
-      domain: wasteadvantagemag.com
-    quality: 34
 
 secured: "d5ts9HSkBarwooEfC7GlwFJSgdaUiICzIklzDU0+L6bveE5TvoH94jiWG2B1HJ1O9y1I6syY0btcRqcCE+FAv7VTrAYUgzIpUwrokvZqG37tzFFvk+oR8r+TWF5eCk1cK/0PyBoMAv/+9VSxUpQtqg4eFVmujoKa3MfEROHA5cQTxeLpqhq8XzkhJ/ZAmJLiWQpZ9uqMaiZTGfLZ2HaV3O1yq5r+GDj6X0xsp9EdYjfJQ6NJPFuOoczyRXm0MWhOWf2iKrGQflv5DrPLoBqqN23HnwEA6fjIC2Vda4Dlz2i/qmDGjz+4NFHqoO9nxrXnHiBlrGqGiXJDGjXJjNyF/vB/YcbPdikHHwKb5N8ikeTwrqD/HHdMDMow2qyirv5ToSHXgZGHqDD0oPdRc262LDnYuS1ow/CjGfr4GpsxiCfQZMK1+PD6sOfxB8SkrwGHfDRrcPokE4A4BOyNYr0apWCv/EntdphzKqH6nxFjFG/vXoagsKzFDEpiPOi2R/n5uOY0PnUanHSjVPQb8eHZTQ==;Z1nfA5LtgnPwsnm1q5op9Q=="
 ---

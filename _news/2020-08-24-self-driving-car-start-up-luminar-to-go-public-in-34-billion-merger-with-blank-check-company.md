@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-24T12:35:00Z
 webUrl: "https://www.cnbc.com/video/2020/08/24/self-driving-car-start-up-luminar-to-go-public-in-3point4-billion-merger-with-blank-check-company.html"
 type: article
 quality: 42
-heat: 42
+heat: 72
 published: false
 
 provider:

@@ -1,30 +1,29 @@
 ---
 category: news
-title: "Microsoft introduces Hindi, Indian English to Neural Text-to- Speech service"
-excerpt: "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech for a more natural interface.The service also provides customizable voices, fine-tuned auto control, and flexi"
-publishedDateTime: 2020-08-25T07:55:00Z
-webUrl: "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-11598339825477.html"
-ampWebUrl: "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp-11598339825477.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp-11598339825477.html"
+title: "Microsoft introduces Hindi, Indian English to Neural Text-to-Speech service"
+excerpt: "With natural-sounding speech that matches the stress patterns and intonation of human voices, Neural TTS significantly reduces listening fatigue when users are interacting with AI systems."
+publishedDateTime: 2020-08-25T09:18:00Z
+webUrl: "https://yourstory.com/2020/08/microsoft-introduces-hindi-indian-english-neural-text-speech"
+ampWebUrl: "https://yourstory.com/2020/08/microsoft-introduces-hindi-indian-english-neural-text-speech/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/microsoft-introduces-hindi-indian-english-neural-text-speech/amp"
 type: article
-quality: 41
-heat: 41
-published: false
+quality: 57
+heat: 57
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: Your Story
+  domain: yourstory.com
 
 topics:
-  - Machine Learning
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://images.livemint.com/img/2020/08/25/600x338/2020-08-03T164404Z_5_LYNXMPEG720HH_RTROPTP_3_MICROSOFT-TIKTOK_1596761246173_1598340721227.JPG"
-    width: 600
-    height: 338
+  - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Microsoftpng1572886233736png?fm=png&auto=format"
+    width: 800
+    height: 400
     isCached: true
 
-secured: "xdE/p0VU1FPA0a+K4ECGPV1Pmwmht9bVJrpzIwVzDBbXlk6wLFg3+sz361/3vxorlasx/c3FgrfXY3DydXstbL/0NGGDMneHEyUTyIJchk9A+7Al0OVCWuGiBqwvZRvzeYwln7KZlYK6bdtO5/MBlFMpckFpHAaW55S/X1QT8/5TibHnfzXyiXHIAngo8lGCzJXbCKe481rhh1s5XF1VafW0aTFLalTC26P8PDhYF6LeXHRCGBk//MxnFuySNV4bGRDSyyo/4qxEmKaV5x8BtIoOUfP0rre0Wod4SobwKnDE4f75f4/Xt7nQgxahW9AsfdmoAzPgZO7xyqL6mAU1Sw==;BS+8K8X1nj7HZf4lAlUVow=="
+secured: "ZLRNVUX2LzBmwGn0+ySLYXtxZUsVVW+wbOV9T8uiFYl9uXoezfciFYD/dltlYOoh6kIeEGVa6xto28C9IWBwE9PcXWEOz2cUon+O6cRoa8RFxOrSaBbsKaG+BLjJaOaTUKjNks6t13PMv/8FS5j7nKN7AzwWFI0dOd+40GEWJ02NfngiL+B7dJeUHQO5NUMTKRdCo+fsHIBOaGzTgIyrv03d2sSrmnAfOQFMQinu1O+uhLgBT533RsKosdESFxwzTAJJ63un0cuwQB0U9r5dhw2AxeG8DpB96WEyPy2S9dFKTAIfRJVIXI5FwccemMZbCA201DeSEBDWsthLfMEJaw==;KW8Punxz/80FJXvpStr/jQ=="
 ---
 
