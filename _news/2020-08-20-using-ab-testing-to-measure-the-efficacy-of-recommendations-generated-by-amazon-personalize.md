@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-20T22:07:53Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/using-a-b-testing-to-measure-the-efficacy-of-recommendations-generated-by-amazon-personalize/"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 800
     height: 361
     isCached: true
-
-related:
-  - title: "Deep learning for automated sleep staging using instantaneous heart rate"
-    excerpt: "Clinical sleep evaluations currently require multimodal data collection and manual review by human experts, making them expensive and unsuitable for longer term studies. Sleep staging using cardiac rhythm is an active area of research because it can be measured much more easily using a wide variety of both medical and consumer-grade devices."
-    publishedDateTime: 2020-08-20T09:15:00Z
-    webUrl: "https://www.nature.com/articles/s41746-020-0291-x"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 38
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-020-0291-x/MediaObjects/41746_2020_291_Fig1_HTML.png"
-        width: 676
-        height: 685
-        isCached: true
 
 secured: "DAnzL/7sI4j1bKoNZZ5gSdsMx7zTeZ3Cfi2lTE3orAIPes607GJ6LgFMb6i1562fUdbWARfHYDXZ5LDzsqfL9xPfjz4tZzzZEhiJhCnwSrNq6Ewn16UQcBI3dM4Jww6ExthAiQi3id5cQGRfI681C+iKQhdaH8qR/yB16XJg02dxAJ+qLnd0z0uVD4CaDukvT2pmYs9m6bDki3OUq35t6XuLNu7GVUAj3yD6Uik2orNa9491JbdG9fcErZAKuWdDFnuaV2Y3T6jVCI3x80eELwzh5cd2tT74UULhxDDxcBsw8kAski0846MLcJQTpT53WBUUb+Y3rr1rGauZLoZvtw==;9gV9FcBZMwVshDdNW9rHOQ=="
 ---

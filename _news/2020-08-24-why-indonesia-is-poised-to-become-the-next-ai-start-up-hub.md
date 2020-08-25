@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/article/3098596/why-indonesia-poised-becom
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3098596/why-indonesia-poised-become-next-ai-start-hub"
 type: article
 quality: 87
-heat: 90
+heat: 93
 published: true
 
 provider:

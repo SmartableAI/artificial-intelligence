@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market latest Trends and New Technologies Research Forecast to 2026"
-    excerpt: "The Artificial Intelligence Market report upholds the future market predictions related to Artificial Intelligence market size, revenue, production, Consumption, gross margin and other substantial factors."
-    publishedDateTime: 2020-08-20T10:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-trends-and-new-technologies-research-forecast-to-2026-2020-08-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "WRkCOh00CwTDvKibvVoCx4Wn0saBshYiR21cnZtw7e4ePya3HcrGMPNSNWduGKt8iza4hJJMIJL2UDr/OnXmkhKJrMocV06VW7kttOa0vdot9Zc4e85IPLBKvgSJOzva/OOIYRABdK8QLYW9hZ5/8/oK6YES2fX93nFrjXbVwN9Qq2Y09i+pJZmuGSEozsJzKuBSvy3QTZCL0Nc/WkkuRBQNuyJ/lTtR7i5mIYXshAjqm4Tp5VvnwCEXQH59bA06gc3i2vgW0bv2wxPZJbZNJL1VPZ4yQLhtY7FB/L/RyBHG2EkzXQhdU1V1SWxgyzpFWDnQovJHTWcm3UnhWK/qsg==;NObrTiXIYYHHDyjcyYUF1Q=="
 ---

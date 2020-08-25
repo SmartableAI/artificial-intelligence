@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -91,20 +91,6 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2020/08/facebook-facial-recognition-image-woman.jpg"
         width: 600
         height: 430
-        isCached: true
-  - title: "SIA Issues Facial Recognition Policy Guidelines"
-    excerpt: "The Security Industry Association says all technology, including facial recognition, must only be used in a lawful, ethical and nondiscriminatory fashion."
-    publishedDateTime: 2020-08-20T09:03:00Z
-    webUrl: "https://www.campussafetymagazine.com/news/sia-issues-facial-recognition-policy-guidelines/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 39
-    images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/08/AdobeStock_331206282-scaled.jpeg"
-        width: 2560
-        height: 1369
         isCached: true
   - title: "US court gives preliminary approval to Facebook settlement of facial recognition suit"
     excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."

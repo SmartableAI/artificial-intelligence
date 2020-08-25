@@ -96,20 +96,6 @@ related:
         width: 600
         height: 430
         isCached: true
-  - title: "SIA Issues Facial Recognition Policy Guidelines"
-    excerpt: "The Security Industry Association says all technology, including facial recognition, must only be used in a lawful, ethical and nondiscriminatory fashion."
-    publishedDateTime: 2020-08-20T09:03:00Z
-    webUrl: "https://www.campussafetymagazine.com/news/sia-issues-facial-recognition-policy-guidelines/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 39
-    images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/08/AdobeStock_331206282-scaled.jpeg"
-        width: 2560
-        height: 1369
-        isCached: true
 
 secured: "0Q001WFw/SASD6UCneaFfQds+ndxNZE/u/SybFptzr6XopBTWeHTb1UN4FkoCpK7Zn5vj3UKuUs72i5O22o2MU0sPZxSax1Rm87sebAd1HMiK/uSp60AL3+owgNcAzIDeVdqdGRXqFaO5V2yjxKVeEJBJL8WXDfvrQJwB7L5m8fjBW0d6PjGHT9h7cKRL4hZWNiLceuF8OSufK3C7yFZMUw1R2rZS4qNq2dU6ORtmpeRRKDlIqh0z5bP42Gh7vkWaY4RntCQ0HnnukSTFjAaIUWRQi9D7NjIklk7F37pJM9wqShJ/Mk9uEltHlJFM6Ow5OM91yrz5Aaik4UPHO0kdQ==;7kqO2llsuGxGpt9PgDlMpA=="
 ---

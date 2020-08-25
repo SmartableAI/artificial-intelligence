@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17184070"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17184070"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -18,17 +18,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "MobiusTrend: IT Giants Enter into Semiconductor Business with 3D Hologram Vision AI Chip"
-    excerpt: "MobiusTrend, a market research organization in Hong Kong, recently released a research report on ' IT Giants Enter into Semiconductor Business with 3D Hologram Vision AI Chip '. Integrated circuits and software are the cornerstones of the current digital economy and information society."
-    publishedDateTime: 2020-08-20T09:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mobiustrend-it-giants-enter-into-semiconductor-business-with-3d-hologram-vision-ai-chip-1029519467"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
 
 secured: "mhf8j+wNA1mFvjApTTz01DYxYeYGSWagJdx3w+/069Afm/QiDtfbUxg94n1Iyp9kYQvo/1hvM5aacjoXrpsF2QDZuU33VrZFsb7jPyT08zF8FEy5U9kobqZHQrdYTD3eyhgWAmXIR205oNF5cpieva4fj+6Z9eJD2gNIzxEYbPjf5QFYTFawBBY4SwWuIwFakMAuw7q/q26KgIMk/HikNXwD8uk+4R5wRQJV7hgbhGDzoTJk7qFJmMjithOQicVaJTVFgT39zU7zZkq3Pmtwdnhov/fdYCKXHxt+J9LhNEWgmMgAdQGQ0insCicGKzEDTjqqHx+9Mu9N1gLieTqOn9d4nzP09RWbsjQcp7ht8qc1s+9HBnwaaO9cPtEIjtZDBjajE/Oiz/cDxJMHtSf3OPDfpw6ZqB/+zZIa+LVPIRXTGpm0lkaq706iy6QI+aNIUVsHUwSgwK7OotwrkCmw9nWuuT+uU7e6HcliM6I+Kh4MRED3cvDwo8xHyxH/VBzFBUGVt2LFYsXPKsDsQQRCSQ==;B2ynpAcV0MqFct9XSkPWPw=="
 ---

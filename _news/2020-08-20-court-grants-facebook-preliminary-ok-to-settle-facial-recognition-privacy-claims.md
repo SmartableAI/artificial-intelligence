@@ -88,20 +88,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "SIA Issues Facial Recognition Policy Guidelines"
-    excerpt: "The Security Industry Association says all technology, including facial recognition, must only be used in a lawful, ethical and nondiscriminatory fashion."
-    publishedDateTime: 2020-08-20T09:03:00Z
-    webUrl: "https://www.campussafetymagazine.com/news/sia-issues-facial-recognition-policy-guidelines/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 39
-    images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/08/AdobeStock_331206282-scaled.jpeg"
-        width: 2560
-        height: 1369
-        isCached: true
   - title: "US court gives preliminary approval to Facebook settlement of facial recognition suit"
     excerpt: "A federal court has granted Facebook's request, in a preliminary approval, to settle a lawsuit over the company's use of facial recognition technology. Facebook said it would pay USD 650 million to settle the suit."
     publishedDateTime: 2020-08-20T23:08:00Z
