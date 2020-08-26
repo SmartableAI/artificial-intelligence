@@ -3,6 +3,7 @@ category: news
 title: "The next frontier of human-robot relationships is building trust"
 excerpt: "But as it continues to serve important and collaborative roles in people’s lives, a natural question is: Can I trust them? How do I know they will do what I expect? Explainable artificial intelligence is a branch of artificial intelligence research that examines how artificial agents can be made more transparent and trustworthy to their human users."
 publishedDateTime: 2020-08-07T18:10:00Z
+originalUrl: "https://scroll.in/article/955643/the-next-frontier-of-human-robot-relationships-is-building-trust"
 webUrl: "https://scroll.in/article/955643/the-next-frontier-of-human-robot-relationships-is-building-trust"
 ampWebUrl: "https://amp.scroll.in/article/955643/the-next-frontier-of-human-robot-relationships-is-building-trust"
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/955643/the-next-frontier-of-human-robot-relationships-is-building-trust"

@@ -35,6 +35,20 @@ related:
         width: 585
         height: 329
         isCached: true
+  - title: "Audi self-driving vehicles to be tested in China’s newest EV hub"
+    excerpt: "Volkswagen Group plans to roll out its first fleet of self-driving test cars in Hefei, an eastern Chinese city that’s emerging as a hot spot for the nation’s electric vehicle ambitions. Ten Audi e-trons,"
+    publishedDateTime: 2020-08-26T19:28:00Z
+    webUrl: "https://europe.autonews.com/automakers/audi-self-driving-vehicles-be-tested-chinas-newest-ev-hub"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20China-MAIN.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "VW to test self-driving vehicles in China’s newest EV hub"
     excerpt: "Volkswagen Group plans to roll out its first fleet of self-driving test cars in Hefei, an eastern Chinese city that’s emerging as a hot spot for the nation’s electric vehicle ambitions. Ten Audi E-trons,"
     publishedDateTime: 2020-08-26T14:50:00Z
@@ -49,15 +63,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Will Aurora run out of road as west’s last self-driving unicorn?"
-    excerpt: "At first, its strategy of selling carmakers the technology to build their own self-driving fleets looked promising. By early last year Aurora had lined up multiple partners, raised an impressive war chest and burnished a reputation for having some of the top engineering talent."
-    publishedDateTime: 2020-08-22T03:00:00Z
-    webUrl: "https://www.ft.com/content/c757f09e-1cc0-456f-a9bd-22e42fdd33ff"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 4
 
 secured: "Z9MZgICJxcDvknj2Gs72yN/WKcbrvcqj02fYzAAARU0NIqAqYkHz/IOb1QQ7vl8HJzPFOvdsnHYSqDgUJzBuzOLq8p0I/VmTzbJA7eIr7+49xHewdm2Ju/MaUUzz+GzT/BbQk51NmLyxEM6eS1IRqvwdbD9xe8vwYQEwA2uiJTJB2Z+wn1kTLJeQhA1QRgW1ds623g35ZgP1tIUnE4g9CeA7gizWUxLVdSUu0isFJI10rliUW0r+B6muUCnlkYe6YhgpGE6KmOj6xBaQ5fkuhOBzNA2TIW61Kzgr7XyVVZ2JsIk0r6ktfhrjHdSEYQQlAY+lBsB1cbB248jZUC9lIh4h9kjMsNTlYuQ5YvhqzwY=;P6i+K+FJa/jBKUn4CWXRDg=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepRoute Dedicated to Self-Driving Tech"
+    excerpt: "Nianqiu Liu, Vice President of DeepRoute, talked with Editor Bill Wong about the company’s advanced technology and what’s trending in the autonomous-vehicle industry."
+    publishedDateTime: 2020-08-26T19:58:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21140289/deeproute-dedicated-to-selfdriving-tech"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 24
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/08/Self_drivingCar_promo.5f46b8c1254ed.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "5zgHcOc3+NUbCZT2SUAaDPKg6uwv9qfPnRYPPxAZukO6y8q3lIMGHHXlSZhCCv2A+ijqUK58eoRmDiq69hPQMuQtREv7gE6ruCtZw0mtXMpNewZhB+22+iFiNUFAchyzQZCMiHtrtwGF+zxxgarTFTt0mda/6WksaUl+ajMbKO54mAV8xRxVNTUi5J3V38r416UQg6MTPSHa1eukSEnvwmSQ97PIBBiAP/kO5XjkbYHWnkFsTBfcRF7AWjcNrPDZJabLFsn9aA6yKoLjnEb8p19JUUnySdRb2deW6NahrG8+7V4SzxPfav4gxvRQG4QqoIDUkGwKdNsYyy4hhpT8sGSSBeYNthyVj29+q6+O3OufHiRwIpjfS55RqOTQvvKsHo/qYTexCUCedDlqecfP20ptyS3nso6oHBje9wcHhpV6LY0SsEdk6hDIKTOtT4qodkUT88lB/n70LSjj05nOFo/SzKNR3peKVTS6CsiVSm6uUjZy2jMgYJkg4Eb3EXQI/m7HPdsw9Vre0wMjI5fkhw==;AkqsmHj4yL/QGxkFIJ/IYQ=="
 ---

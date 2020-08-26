@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/prop
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/amp/"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Weyland Tech Enters Agreement to Acquire Fixel AI, Leading Innovator in AI-Powered Digital Marketing Technology"
-    excerpt: "Weyland Tech, Inc. (OTCQX: WEYL), a leading global provider of eCommerce, mCommerce, and fintech business enablement solutions, has reached an agreement to acquire Fixel AI, an award-winning innovator of digital marketing technology."
-    publishedDateTime: 2020-08-22T01:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/weyland-tech-enters-agreement-to-acquire-fixel-ai-leading-innovator-in-ai-powered-digital-marketing-technology-2020-08-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Modern Proptech, Fintech, AI can Enhance Real Estate Transactions, but Human Contact Is Important, Industry Exec Says"
     excerpt: "Modern Proptech, Fintech, AI can enhance real estate transactions, but human contact is important, industry exec says."
     publishedDateTime: 2020-08-25T02:01:00Z

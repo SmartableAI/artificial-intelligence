@@ -7,7 +7,7 @@ originalUrl: "https://nocamels.com/2020/08/israel-viz-ai-stroke-detection-medica
 webUrl: "https://nocamels.com/2020/08/israel-viz-ai-stroke-detection-medical-imaging-ct-scan/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,36 @@ images:
     width: 672
     height: 503
     isCached: true
+
+related:
+  - title: "DoD Using Artificial Intelligence to Detect Cancer in Medical Images"
+    excerpt: "The project aims to use the best of artificial intelligence technology to identify cancers and other medical issues."
+    publishedDateTime: 2020-08-26T18:40:00Z
+    webUrl: "https://healthitanalytics.com/news/dod-using-artificial-intelligence-to-detect-cancer-in-medical-images"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/RadiologyAI_Getty.jpg"
+        width: 700
+        height: 451
+        isCached: true
+  - title: "Defense Innovation Unit Teaching Artificial Intelligence to Detect Cancer"
+    excerpt: "The Defense Innovation Unit is bringing together the best of commercially available artificial intelligence technology and the Defense Department's vast cache of archived medical data to teach"
+    publishedDateTime: 2020-08-24T21:28:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2322947/defense-innovation-unit-teaching-artificial-intelligence-to-detect-cancer/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 38
+    images:
+      - url: "https://media.defense.gov/2020/Aug/17/2002478671/1280/1280/0/200812-N-LW757-1001.JPG"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "cGLO1h9sm89kiOi6JXJx3NIuroeKfRReYE4QySt+RXcK83xA42uis7m/d/ezEELs1EDfJ6OUD/6SwJo0XVcReaub2IMpnPEP6y1JeAZVtI0dxfBcFJZUGddEYinfCEfIqtxvl6/BRlg3/r7GEDlx6iv3YVOfdmNo9alOlck3Sj1nGfcly419xkAu8ooULy6/X9voiuo7me+hbWljoG8pcc07rNXs0zSVS0+O6Su41ptohKXUCTL+b6cdjdUlyVXzSRoUhKyyzj7Y+K9+V0VieHc5IAAYYahU2OXpXF9l51aGlwWI+R6N0fdu6R9qnlrXtQ5mISBBjpiXjmXlgqX9OrICkxhdJaN47+zOgigt8Fw=;iiqslysrojEOsijynEtSUA=="
 ---

@@ -133,6 +133,20 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
+  - title: "Researchers find 50 possible new planets using artificial intelligence"
+    excerpt: "A research team from the United Kingdom's University of Warwick has figured out a way to use artificial intelligence to sift through NASA data, leading to the discovery of up to 50 possible new planets."
+    publishedDateTime: 2020-08-26T19:15:00Z
+    webUrl: "https://www.cbsnews.com/video/50-possible-new-planets-found-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/08/26/a7fa290b-dcba-4be6-82d4-3055af8fe150/thumbnail/1200x630/46b3b705919bbdc5b175a232ec0307bd/cbsn-fusion-researchers-find-50-possible-new-planets-artificial-intelligence-thumbnail-536790-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "JDPEmqx7zlBy8vYm5LAnYyPt7B5M16S9cLQ4tLGl5bmeEUPNMYKbXMLS78vrb6hMGVjbAMrlo5SzyIMlSHvYAbxiDvhZZqATf0vq2pSup0VG7jnotz/K9AUfQRBGzm9rhz0fLqvkGMcfJlmcdbHSV0YHLG4MmoKhnGe0b4vuLeeMqKymQyj7auyZC3gGkG7kUcrKznvRPucTr5mLwjcDGhqql0MEAVtsv6kmTCTiy6HiY6GAovD/ZRcTLSjgelK5zeT2SdXapb6eembTtIisVv3eGGSwXOMeviGrETi66h6L0LhIiRfCqHhm1U7QtBFf+IeEMWDIDUzdM/JjEPbuw8mflGCy8RhAqFRwr4pWIR9lDJQzRB9dtAeqVXKZLHuHroQ47/9VnWShlf3GYbYFBICJ8s7ehswYKtA7IZjo6aZhhj3qwsQSpAhP7OkojGWlH7gkSQo3Fs1LKm1nEhWm5fG46ZxNZ250XeIUsSJS3aUVtkS539LKuEK7seHSPLkrbsXP0bQvNlcGWVh+G5xCJcdh6Bj/yQjEqWH5B8f8AGU=;W1+417ODUKEl47b5JGvCyQ=="
 ---

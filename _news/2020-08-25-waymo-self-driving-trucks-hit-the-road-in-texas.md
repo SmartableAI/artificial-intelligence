@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-trucks-texas
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-trucks-texas/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
     quality: 39
     images:
       - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2020/08/waymo_truck_brick_building.5f466a38d84e8.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "DeepRoute Dedicated to Self-Driving Tech"
+    excerpt: "Nianqiu Liu, Vice President of DeepRoute, talked with Editor Bill Wong about the company’s advanced technology and what’s trending in the autonomous-vehicle industry."
+    publishedDateTime: 2020-08-26T19:58:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21140289/deeproute-dedicated-to-selfdriving-tech"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 24
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/08/Self_drivingCar_promo.5f46b8c1254ed.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 675
         isCached: true

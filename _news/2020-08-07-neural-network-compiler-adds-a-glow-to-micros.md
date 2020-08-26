@@ -3,6 +3,7 @@ category: news
 title: "Neural-Network Compiler Adds a Glow to Micros"
 excerpt: "To give a boost to machine-learning functionality in its MCUs and DSPs, NXP incorporated the open-source Glow neural-network compiler to the technology mix."
 publishedDateTime: 2020-08-07T16:29:00Z
+originalUrl: "https://www.electronicdesign.com/technologies/iot/article/21138631/neuralnetwork-compiler-adds-a-glow-to-micros"
 webUrl: "https://www.electronicdesign.com/technologies/iot/article/21138631/neuralnetwork-compiler-adds-a-glow-to-micros"
 type: article
 quality: 26

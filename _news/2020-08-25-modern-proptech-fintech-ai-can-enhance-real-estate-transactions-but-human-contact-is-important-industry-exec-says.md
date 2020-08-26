@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Weyland Tech Enters Agreement to Acquire Fixel AI, Leading Innovator in AI-Powered Digital Marketing Technology"
-    excerpt: "Weyland Tech, Inc. (OTCQX: WEYL), a leading global provider of eCommerce, mCommerce, and fintech business enablement solutions, has reached an agreement to acquire Fixel AI, an award-winning innovator of digital marketing technology."
-    publishedDateTime: 2020-08-22T01:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/weyland-tech-enters-agreement-to-acquire-fixel-ai-leading-innovator-in-ai-powered-digital-marketing-technology-2020-08-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "IkQmjaokF+Z8B8iVUrM47FUdM5b4dGAmj/luth0bqU8Sb4N0TG7C9JuncfqZXdcsqXTLLR4lpZCCBWExZX0fglz1LrW5NhS1gX8FCfWYB8aKyWd7WlE45I5F9YhwatgMp2Q1aqV9B9Bn9DGOE+oQuUP85qKbkM2b0R/W6bGCQDLpd83LQ/KXrQpTxeZlCYkpaDLvuhTkHWD+wQKI3R+WiDhOalhs5ycnmvGoiahNfwgbvJSiLjK1KVz6KBE8Mcimay+udWtoJQbUrfAcIuE/QtzuwcBh9yp8h0BX7iMbSI/pVfL6aNU3J4QFISlkM3VYhGzQhaT6awel1Low9T4WzCz4+SpORHz/XfAQ+6iDmoIb5tWR1gL+MxKiylmMeup/Tv13nMC1eKFa2gWA5ee1CSPvUtx6uoLT1M4QtWQbU4Vzp8O69mm89GwrqTQNbRbspf7H4JvqKEWB9KfMyjh/TYZRuiMDl9r4P8S83b+c6pioDHOvgvULxlLyc6le0X2gBlAcoocHPr5GigudLBLETA==;/2oXqWXgDuws/Ca9EpLPoA=="
 ---

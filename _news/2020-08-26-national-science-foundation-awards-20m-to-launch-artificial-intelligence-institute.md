@@ -53,19 +53,19 @@ related:
         width: 830
         height: 498
         isCached: true
-  - title: "UC Davis to Lead New Artificial Intelligence Institute for Next-Generation Food Systems"
-    excerpt: "The University of California, Davis, has been awarded $20 million as part of a multi-institutional collaboration to establish an institute focused on enabling the next-generation food system through the integration of artificial intelligence,"
-    publishedDateTime: 2020-08-26T17:04:00Z
-    webUrl: "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems"
+  - title: "UC Davis to lead new artificial intelligence institute for next generation food systems"
+    excerpt: "UC Davis has been awarded $20 million as part of a multi-institutional collaboration to establish a new institute focused on enabling the next generation food system through the integration of artificial intelligence (AI) technologies."
+    publishedDateTime: 2020-08-26T13:06:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php"
     type: article
     provider:
-      name: University of California, Davis
-      domain: ucdavis.edu
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 31
     images:
-      - url: "https://www.ucdavis.edu/sites/default/files/images/article/30779898645_4fbbf266a5_k.jpg"
-        width: 2048
-        height: 1536
+      - url: "https://www.eurekalert.org/multimedia/pub/web/241215_web.jpg"
+        width: 1440
+        height: 1080
         isCached: true
   - title: "$20 million NSF grant for new artificial intelligence institute for molecule synthesis"
     excerpt: "A team led by Steven L. Miller Chair professor of chemical and biomolecular engineering at the University of Illinois, Huimin Zhao, was awarded a five-year $20 million grant from the National Science Foundation (NSF) for the NSF Artificial Intelligence (AI) Institute for Molecular Discovery,"
