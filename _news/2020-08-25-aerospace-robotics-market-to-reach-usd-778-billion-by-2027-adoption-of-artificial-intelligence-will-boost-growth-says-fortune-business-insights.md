@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Aerospace Robotics Market to Reach USD 7.78 Billion by 2027; Adoption of Artificial Intelligence will Boost Growth, Says Fortune Business Insights™"
-excerpt: "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI) by companies for the maintenance of aircraft. This information is given by Fortune Business Insights™ in a new report,"
-publishedDateTime: 2020-08-25T18:53:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/aerospace-robotics-market-to-reach-usd-7-78-billion-by-2027-adoption-of-artificial-intelligence-will-boost-growth-says-fortune-business-insights-1029533143"
-webUrl: "https://markets.businessinsider.com/news/stocks/aerospace-robotics-market-to-reach-usd-7-78-billion-by-2027-adoption-of-artificial-intelligence-will-boost-growth-says-fortune-business-insights-1029533143"
+excerpt: "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI)"
+publishedDateTime: 2020-08-25T18:08:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/g17236795/aerospace-robotics-market-to-reach-usd-7-78-billion-by-2027-adoption-of-artificial-intelligence-wi"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/g17236795/aerospace-robotics-market-to-reach-usd-7-78-billion-by-2027-adoption-of-artificial-intelligence-wi"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17236795"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17236795"
 type: article
-quality: 41
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
@@ -38,6 +36,6 @@ related:
         height: 630
         isCached: true
 
-secured: "OWSGNlzS6Er4tdSe3nPVST4dzFZk0vYj1b4jAqayHB1rvel/jATuiyejqeJhvKsYkvaSnn995gtWJZ0lHOVtuQkgdxLeKlGKtJcLga10BjgU8vlT0dtp6YjZGxG0ZvP25UE89CvE5u2qD80bV3vHquR1B8u+fz4GRG4r9UBo5x0tcSFnsYHB88h/QuDa5dC6lSKmpo+0Y6n0hH9SIqGAnnJGGQnKCRAjRmfc30NPoIQG/efZ5h8EId3Ckz9vrOgTsVa1TvBKNG6QjEAxgur3iKIMPlLacpZvXMv/22Do0jp7bdxTJwzTw1rQFlAt0+RSzLHCdsGez6paoXEdNpw1QcDOHxS4iyIw3+qYlhIqN28=;6vCzD4E1R0L01R+yUNeWSw=="
+secured: "DcTuCfUQ4eGsgJs3G97qtKwWxApqaK/6Di2LQl2j/fNaIAigAFRbA+SBBmYoneHzLQzDWO1b2ErNdk0qEcnI5OWFYLDepF7SjJGZWzHN8EN83bM9pz+ucclIuAUV3rMBd5uh6HXIgAAjyJ6xqNOCyqIXV39hUH+B+nh3sc8242K2Yr0RuB/6IO6MqVGDOPOhMtBDWOQdYE6yf1tbTBXANlB1KN8sSWK1eMxVT8FH6OzH0r4Y5RI5xmGxNlVIuh/ZeEjwUUHWU3OUaGOk5/J2cIl7PKLDV23upkHbJ4kGhHyPwf1evn3sojF2Q2CkdnWEoRFNfFfxkmB8Nr0c3hzGhmpmEJV75kjSVuh66wzUBlqLQVb+JrwCdfdR57NWmuheC9Cv6XpQvR16wdRj9OGFOfLtVip7XTOmRiwdzYnpIcj1b1EJWAmW8oFt2Vco5Y/Mri7HIlbCEY7ny3YLzGVl++U74+IDz80uCmP//E71GfYy7L1NsoPbQsMs3KwxzlVx7+YEUiB+hzrPc9jdsuTlo7cO+jC+hcDv4/4g9STwc2E=;O4vuAv7LyWWEXlcHFj0+Vg=="
 ---
 

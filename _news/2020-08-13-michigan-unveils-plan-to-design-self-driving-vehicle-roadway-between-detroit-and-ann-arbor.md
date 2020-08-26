@@ -3,6 +3,7 @@ category: news
 title: "Michigan unveils plan to design self-driving vehicle roadway between Detroit and Ann Arbor"
 excerpt: "Michigan’s first roadway designed for self-driving vehicles is in phase one of design, as industry officials are working with the state of Michigan to develop a 40-mile autonomous corridor between Detroit and Ann Arbor."
 publishedDateTime: 2020-08-13T19:03:00Z
+originalUrl: "https://www.mlive.com/public-interest/2020/08/michigan-unveils-plan-to-design-self-driving-vehicle-roadway-between-detroit-and-ann-arbor.html"
 webUrl: "https://www.mlive.com/public-interest/2020/08/michigan-unveils-plan-to-design-self-driving-vehicle-roadway-between-detroit-and-ann-arbor.html"
 ampWebUrl: "https://www.mlive.com/public-interest/2020/08/michigan-unveils-plan-to-design-self-driving-vehicle-roadway-between-detroit-and-ann-arbor.html?outputType=amp"
 cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/08/michigan-unveils-plan-to-design-self-driving-vehicle-roadway-between-detroit-and-ann-arbor.html?outputType=amp"

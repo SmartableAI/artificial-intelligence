@@ -50,22 +50,6 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "Face masks give facial recognition software an identity crisis"
-    excerpt: "As tech firms scramble to keep up with reality of coronavirus, some experts say users must change"
-    publishedDateTime: 2020-08-21T15:56:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/21/face-masks-give-facial-recognition-software-identity-crisis"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/524ed0cbf81e6b545d012ff3f8f87d2543595878/337_455_4041_2425/master/4041.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a594db2b31375d731e5f75d01207d70b"
-        width: 600
-        height: 360
-        isCached: true
   - title: "If Covid is about the State and its face-recognition technology, why do they make us all wear masks?"
     excerpt: "There are some amazing theories out there to explain why our governments want us to socially distance and wear face masks, as if that was a mystery. In a recent article in the New Yorker, a protester claimed that social distancing helps secret experimentation into face recognition technology."
     publishedDateTime: 2020-08-25T06:28:00Z

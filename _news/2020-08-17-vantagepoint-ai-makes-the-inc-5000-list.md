@@ -3,6 +3,7 @@ category: news
 title: "Vantagepoint AI Makes The Inc. 5000 List"
 excerpt: "Inc. magazine has announced it 5000 list which analyzes company data to recognize the fastest-growing privately held businesses in the United States; family-owned and operated, Vantagepoint AI has made the list!"
 publishedDateTime: 2020-08-17T13:30:00Z
+originalUrl: "https://apnews.com/3daf4a8c2fc7001204c4e0fe918ae353"
 webUrl: "https://apnews.com/3daf4a8c2fc7001204c4e0fe918ae353"
 type: article
 quality: 37

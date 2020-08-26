@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update
 ampWebUrl: "https://amp.benzinga.com/amp/content/17242858"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17242858"
 type: article
-quality: 62
-heat: 62
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -17,8 +17,9 @@ provider:
   domain: benzinga.com
 
 topics:
-  - AI in Robotics
+  - Natural Language Processing
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.abnewswire.com/uploads/1598357109.jpeg"
@@ -26,6 +27,6 @@ images:
     height: 455
     isCached: true
 
-secured: "16AYkjjAaMFce9e0AsfbFbOybhCIuejfzvdTnGEDhUT5mVbZQxYli6xbxZy0oPESayPXHI/VGQwket81UBfbCbfr/nnf65E0cXUOxxc1rTDanDMhHmCJr1plI950xc2fnCyqiQD+amQ/1dG/Ona0ULHpAoja/ja+aDccCedlQ7CYrmELy/J8w2U9CtGDu+gINBG02dF96zjCbFajBJhVW26lj7qKwEdn64csK7Dg3FjOWpvCTObspa9/obsRX3nG9FM0Ww25fpXcK64WVy3z2iKw5COqwhn7mGwMQTCVJzEvf+XQNEfvEGhdeLPgSSFNlZTCGkDTaKdRDHBKLZYIXPTs2yK0qcEdGOXRKNV5eBk=;DGd2FGbHNUGelR7hkuBmoA=="
+secured: "tJ7VG6XRCdr26KNkc1b0D28AGtEv9I//dKHrechFR6C5c5a2u2xC5Uf1D40R78ARiUFCVbxu5Sdefgpm9BmMqcKUl1xa0dpv0wrATYf2GmZkJGvyAQP4G7KHynyXE8zPA7WKKsBo2jArZJZUv8Dtln+v66+9T5Fgr0sA1oeaFx60qf/iALD7ExX7IgR6M+JIkMs5kvFXRF1tUFMdO3AtMBIoqlIJw4RjJcVtAoawQg0PVzE6/S5YZROp7JWWMqXef8rIeiJI68tGYq8RLsFK+H6gnFZlufH3i7oWKuZ1OJOj+pJexDZIox7At4oNHoVqPTbSDzQeRGL2d7/gFopn8aN3shrkrDhldcsa+DTA9JE=;m2jRx2DlYbi+OYjDeRuNVg=="
 ---
 

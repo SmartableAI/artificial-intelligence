@@ -2,6 +2,56 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-13-the-automoblow-is-a-dick-sucking-robot-for-your-tesla.md",
+      "title": "The Automoblow Is a Dick Sucking Robot for Your Tesla",
+      "excerpt": "But the makers of this dick-sucking robot are back in my inbox with their latest brainchild ... suggesting this could be used while actually trying to drive would be very dangerous! \"Artificial intelligence, as it is used in self driving cars and even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_au/article/n7w3gm/automoblow-self-driving-tesla-autopilot",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5f061c8c067735009d6c0e3b/lede/1594236354312-Screen-Shot-2020-07-08-at-32448-PM.png?crop=0.9617035892151811xw:1xh;center,center",
+          "width": 2488,
+          "height": 1400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_au/article/n7w3gm/automoblow-self-driving-tesla-autopilot",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/n7w3gm/automoblow-self-driving-tesla-autopilot",
+      "publishedDateTime": "2020-07-12T23:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-12-dairies-to-housekeeping-robots-find-their-way-into-new-spaces.md",
       "title": "Dairies to housekeeping, robots find their way into new spaces",
       "excerpt": "They rely on tracks or magnetic strips to cover fixed routes. But mobile robots are becoming more autonomous, with a push from advances in computer vision and artificial intelligence. We read about self-driving cars and driverless delivery vans.",

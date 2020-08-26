@@ -3,6 +3,7 @@ category: news
 title: "How RBC Built Its Own GPU Farm for an Artificial Intelligence-Powered Banking Platform"
 excerpt: "Its vendors, Nvidia and Red Hat, expect lessons from the collaborative project will benefit the broader fintech space, as well as other industries."
 publishedDateTime: 2020-08-10T19:04:00Z
+originalUrl: "https://www.datacenterknowledge.com/machine-learning/how-rbc-built-its-own-gpu-farm-artificial-intelligence-powered-banking-platform"
 webUrl: "https://www.datacenterknowledge.com/machine-learning/how-rbc-built-its-own-gpu-farm-artificial-intelligence-powered-banking-platform"
 type: article
 quality: 46

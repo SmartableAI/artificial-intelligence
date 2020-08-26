@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.zdnet.com/article/drug-development-in-a-year-ibm-bets-on-ai-robotics-to-ramp-up-molecule-research/</loc>
+    <lastmod>2020-08-26T02:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/08/26/ostp-ai-quantum-institutes/</loc>
+    <lastmod>2020-08-26T02:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bloomberg.com/news/articles/2020-08-26/china-still-buying-300-billion-of-chips-from-u-s-elsewhere</loc>
+    <lastmod>2020-08-26T01:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/</loc>
     <lastmod>2020-08-25T16:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -309,12 +327,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/deep-learning-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-08-24</loc>
     <lastmod>2020-08-24T02:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/healthcare-information-technology-it-market-worth-usd-4418-billion-by-2025-2020-08-24</loc>
-    <lastmod>2020-08-24T02:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -889,7 +901,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.crainsdetroit.com/mobility/navya-pilots-self-driving-paratransit-shuttle-detroit-streets</loc>
+    <loc>https://www.autonews.com/mobility-report/navya-pilots-self-driving-paratransit-shuttle-detroit-streets</loc>
     <lastmod>2020-08-19T10:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

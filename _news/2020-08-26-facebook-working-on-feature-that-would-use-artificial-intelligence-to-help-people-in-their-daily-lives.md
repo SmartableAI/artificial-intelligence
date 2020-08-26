@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/area/pennsylvania/facebook-working-on-fe
 webUrl: "https://www.wfmz.com/news/area/pennsylvania/facebook-working-on-feature-that-would-use-artificial-intelligence-to-help-people-in-their-daily/article_4ef17834-e730-11ea-bd59-130eb37cc348.html"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,33 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "Facebook wants to help build AI that can remember everything for you"
+    excerpt: "Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology — functions in our daily lives."
+    publishedDateTime: 2020-08-22T13:58:00Z
+    webUrl: "https://keyt.com/news/money-and-business/2020/08/22/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 39
+    images:
+      - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech.png"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Facebook Wants To Help Build AI That Can Remember Everything For You"
+    excerpt: "Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology — functions in our daily lives."
+    publishedDateTime: 2020-08-23T17:22:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/amp/"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
 
 secured: "P2hMn6ZcA4OqvtBdIVKE9+1BNaV/jGXnqtN8cwVIwb8AAvoBUf3vHrO2/mk1K6zC4hDFA95WoWhRKTtNE7X5cyljTb0nOfXezWMxh+h4I9PEFGPJFBi4FSN7ERoAels/m4RXNl9eYuclMYP2p+WdWFc8JBCCvFP6zBKTuhNyAKdZpZnvnEzN69we7GarspoRYA33FGYW+RR6a2gaYVjCYkbRila+HzZTJgNbm2KsdohW7lI7VpEJicqGwTBlEfY+0/b/HNkGHgKppUOZPwRLxHPPUhANQgFbQa59d24q2sM+6c8JcHzy4LZBeQLc3gvuX1tbqbwOB2IFSMEzumVSOdB+o0FW6RTDt1q1NZFEE90jaQuloVmgHXclpq6FVT25HGmmD2uNIj0rjvSLJNvVfB3vVVy3U64jYUo7/ClFdoI8AqdYWGru5TgE3PwwMCFmQVVAKLjzd7Ecfnkrdk8fJXTUGQhf/PEC94T/z40/VgRaQBt1dFoNRUkOFxDyhrl4q7kGQhn52/bKKeOyVxAUZiH6H+aA29n6vmI72uP6Hjo=;DVWmW+hDQcILlf4HRKzGiw=="
 ---

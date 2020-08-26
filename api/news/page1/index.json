@@ -2,6 +2,155 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-26-drug-development-in-a-year-ibm-bets-on-ai-robotics-to-ramp-up-molecule-research.md",
+      "title": "Drug development in a year? IBM bets on AI, robotics to ramp up molecule research",
+      "excerpt": "IBM’s new platform could contribute to ongoing research efforts at a time when discovering new drugs is at the heart of many projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/drug-development-in-a-year-ibm-bets-on-ai-robotics-to-ramp-up-molecule-research/",
+      "originalUrl": "https://www.zdnet.com/article/drug-development-in-a-year-ibm-bets-on-ai-robotics-to-ramp-up-molecule-research/",
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/25/642bd3bf-0086-4019-acb2-cbab4eeee14e/screenshot-2020-08-25-at-13-25-58.png",
+          "width": 1710,
+          "height": 968,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/drug-development-in-a-year-ibm-bets-on-ai-robotics-to-ramp-up-molecule-research/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/drug-development-in-a-year-ibm-bets-on-ai-robotics-to-ramp-up-molecule-research/",
+      "publishedDateTime": "2020-08-26T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-white-house-announces-1b-investment-for-ai-and-quantum-computing-hubs.md",
+      "title": "White House announces $1B investment for AI and quantum computing hubs",
+      "excerpt": "Building out its previous commitment, the White House is announcing a $1 billion investment into two of tech’s most promising frontiers, AI and quantum computing. Last year, the Trump administration rolled out an executive order on AI declaring its intention to bolster U.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/26/ostp-ai-quantum-institutes/",
+      "originalUrl": "https://techcrunch.com/2020/08/26/ostp-ai-quantum-institutes/",
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-926526136.jpg?w=1024",
+          "width": 1024,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/26/ostp-ai-quantum-institutes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/26/ostp-ai-quantum-institutes/amp/",
+      "publishedDateTime": "2020-08-26T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-china-still-buying-300-billion-of-chips-from-us-elsewhere.md",
+      "title": "China Still Buying $300 Billion of Chips From U.S., Elsewhere",
+      "excerpt": "China will import $300 billion of semiconductors for the third straight year, underscoring how the world’s No. 2 economy remains tied to America despite billions invested in local chip-making know-how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-26/china-still-buying-300-billion-of-chips-from-u-s-elsewhere",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-26/china-still-buying-300-billion-of-chips-from-u-s-elsewhere",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiaQmKAvwfsQ/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-26/china-still-buying-300-billion-of-chips-from-u-s-elsewhere",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-26/china-still-buying-300-billion-of-chips-from-u-s-elsewhere",
+      "publishedDateTime": "2020-08-26T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-coronavirus-may-help-best-buy-become-a-key-healthcare-player.md",
       "title": "Coronavirus May Help Best Buy Become A Key Healthcare Player",
       "excerpt": "Best Buy reported a better-than-expected second-quarter profit as coronavirus led consumers to buy appliances, computers and fitness gear to better their remote working and learning experiences. But the pandemic may also hasten its transition to becoming a major healthcare-industry player.",
@@ -259,7 +408,7 @@
       "webUrl": "https://www.cnet.com/health/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1077,139 +1226,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-mit-csail-grad-launches-machine-learning-platform-with-10m-series-a.md",
-      "title": "MIT CSAIL grad launches machine learning platform with $10M Series A",
-      "excerpt": "Manasi Vartak, founder and CEO of Verta, conceived of the idea of the open source project ModelDB database as a way to track versions of machine models while she was still in grad school at MIT. After she graduated,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/",
-      "originalUrl": "https://techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/",
-      "featuredContent": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/manage-img@2x.jpg?w=680",
-          "width": 680,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/amp/",
-      "publishedDateTime": "2020-08-25T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-michigan-movie-theaters-make-plea-to-reopen-before-its-too-late.md",
-      "title": "Michigan movie theaters make plea to reopen before its too late",
-      "excerpt": "While moviegoers across the globe are watching the $200-million Hollywood blockbuster \"Tenet\" in limited capacity theaters, Michigan moviegoers are watching \"Jaws\" at pop-up drive-ins, or nothing at all.",
-      "sourceUrl": null,
-      "webUrl": "https://www.everalbum.com/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-25T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-a-dogfight-renews-concerns-about-ais-lethal-potential.md",
-      "title": "A Dogfight Renews Concerns About AI's Lethal Potential",
-      "excerpt": "Alphabet's DeepMind pioneered reinforcement learning. A California company used it to create an algorithm that defeated an F-16 pilot in a simulation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/",
-      "originalUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/",
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f4437bbc83d017a112ec55f/master/pass/business_f16_927284852.jpg",
-          "width": 2400,
-          "height": 1602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/amp",
-      "publishedDateTime": "2020-08-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI"
       ]
     }
   ],

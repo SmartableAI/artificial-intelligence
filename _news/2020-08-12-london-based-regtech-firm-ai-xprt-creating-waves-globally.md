@@ -3,6 +3,7 @@ category: news
 title: "London Based Regtech Firm, Ai XPRT Creating Waves Globally"
 excerpt: "London based Regtech firm, Ai XPRT has been under the spotlight twice recently. It was featured in the Top 21 Regtech firms 2020 edition,"
 publishedDateTime: 2020-08-12T10:36:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/london-based-regtech-firm-ai-xprt-creating-waves-globally-301110757.html"
 webUrl: "https://www.prnewswire.com/news-releases/london-based-regtech-firm-ai-xprt-creating-waves-globally-301110757.html"
 type: article
 quality: 39
