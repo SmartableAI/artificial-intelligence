@@ -53,6 +53,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Astute Recognized for Innovative Use of AI in 2020 Artificial Intelligence Breakthrough Awards"
+    excerpt: "Astute's Crisis Management AI solution recognized for innovation by the 2020 Artificial Intelligence Breakthrough Awards"
+    publishedDateTime: 2020-08-26T14:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200826005454/en/Astute-Recognized-Innovative-AI-2020-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 40
+    images:
+      - url: "https://mms.businesswire.com/media/20200826005454/en/704129/23/astute-logo-horz-color.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "QAwhZgQxy0u1N8faCNAvq0TNGTl2Trs1QHnCsJAIazAHlclg9R94muXpUICB+otCEfYb3My5ho++jpvIJRQ4Z3JCnk9cHF8n0SGvsAYrz4tdGaYoq6KVg4iI6X2gNgCxE9iXEEeiCpT1Znei0jBKT3THCtM9E7VrHOgkJRXZVs6ronmaSL0d+NNh5F/ZcZ9Quz0VazQuI5zhMB2QUrhO5HTWkwJvvToLAqSfwFP7PUCb9JxfuNwUKXnwzRRR1hCW6LqlFlqHDx93LfJiRrAJV99DO6yeCEYuRNpNZXWDKr1fVtszMojOOHkwonFcwd+ra42FDGuDPFtnIjN7EvSF0WxOsHlju/bwb3T82UeB3EY=;QblzuT8CLdKm1yFaBNjacg=="
 ---

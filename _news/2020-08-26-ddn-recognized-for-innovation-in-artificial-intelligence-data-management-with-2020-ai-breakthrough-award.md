@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/ddn-recognized-for-inno
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Astute Recognized for Innovative Use of AI in 2020 Artificial Intelligence Breakthrough Awards"
+    excerpt: "Astute's Crisis Management AI solution recognized for innovation by the 2020 Artificial Intelligence Breakthrough Awards"
+    publishedDateTime: 2020-08-26T14:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200826005454/en/Astute-Recognized-Innovative-AI-2020-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 40
+    images:
+      - url: "https://mms.businesswire.com/media/20200826005454/en/704129/23/astute-logo-horz-color.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Cognite Recognized for Predictive Analytics Innovation with 2020 Artificial Intelligence Breakthrough Award"
     excerpt: "Awards Program Honors Standout AI and Machine Learning Solutions and Companies. LOS ANGELES (PRWEB) August 26, 2020 AI Breakthrough, a leading"
     publishedDateTime: 2020-08-26T12:15:00Z

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Inference Solutions Wins AI Breakthrough Award for Best Conversational Interface"
-excerpt: "Inference Solutions, a global provider of Intelligent Virtual Agents (IVAs), today announced that its Studio platform has won the \"Best Conversational Interface\" award from AI Breakthrough, a leading market intelligence organization that recognizes the top companies,"
-publishedDateTime: 2020-08-26T13:04:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/inference-solutions-wins-ai-breakthrough-award-for-best-conversational-interface-1029535813"
-webUrl: "https://markets.businessinsider.com/news/stocks/inference-solutions-wins-ai-breakthrough-award-for-best-conversational-interface-1029535813"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/inference-solutions-wins-ai-breakthrough-award-for-best-conversational-interface-1029535813"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/inference-solutions-wins-ai-breakthrough-award-for-best-conversational-interface-1029535813"
+excerpt: "Inference Solutions, a global provider of Intelligent Virtual Agents (IVAs), today announced that its Studio platform has won the"
+publishedDateTime: 2020-08-26T12:34:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/inference-solutions-wins-ai-breakthrough-award-for-best-conversational-interface-301118588.html"
+webUrl: "https://www.prnewswire.com/news-releases/inference-solutions-wins-ai-breakthrough-award-for-best-conversational-interface-301118588.html"
 type: article
-quality: 64
-heat: 84
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1243459/callan_schebella.jpg?p=facebook"
+    width: 600
+    height: 314
+    isCached: true
 
 related:
   - title: "COOLPO releases revolutionary All-in-One 360° 4K intelligence conference solution"
@@ -36,21 +36,43 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Carbon Lighthouse's Building Technology CLUES Wins 2020 Artificial Intelligence Breakthrough Award"
-    excerpt: "Service company delivering profitable climate solutions for commercial real estate, today announced that its patented AI-powered CLUES ® platform is the winner of the \"Best AI-based Solution for Real Estate\" award from AI Breakthrough,"
-    publishedDateTime: 2020-08-26T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/carbon-lighthouses-building-technology-clues-wins-2020-artificial-intelligence-breakthrough-award-301118676.html"
+  - title: "HGS DIGITAL Joins AWS Contact Center Intelligence Solutions Partner Program"
+    excerpt: "HGS Digital LLC, a subsidiary of Hinduja Global Solutions Ltd (listed in BSE & NSE), today announced its participation as an Amazon"
+    publishedDateTime: 2020-08-24T19:06:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-301117280.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 23
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1160749/Carbon_Lighthouse_Logo.jpg?p=facebook"
-        width: 998
-        height: 524
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
+  - title: "HSG Digital joins Amazon Web Services Contact Center Intelligence solutions partner program"
+    excerpt: "With 61 delivery centers in 7 countries, HGS successfully manages billions of customer interactions every year. Their AWS ML-powered solutions include HGS Pulse, an HGS client portal that provides cri"
+    publishedDateTime: 2020-08-24T04:01:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 29
+  - title: "HGS Digital joins Amazon Web Services Contact Center Intelligence solutions partner program"
+    excerpt: "With 61 delivery centers in 7 countries, HGS successfully manages billions of customer interactions every year"
+    publishedDateTime: 2020-08-26T00:15:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 29
 
-secured: "UfLyqBEEkLLful3PRLUJfvMzKOyOnAVOhv4uCC7b6/lcxrNfbo/GirxURzOniv7HPguVOMHTbUPz9wJYl8QNd+oswEIxdp+3vCnRsjmcyuyrKjDAZX5H51T/e89YjbnacdRvFsypWwOJQ11BcQ9ai1fWHfx8h3X2M8FbgYkNkcJ+zQ7j5A/mNJ9XDnDRgs/XOK4Qg3CaHd+0gILMBywVgOXj4Pt9dh2evsbxB2JJbml6RdfSObXLZSkxvaOegH1LkFVnSKx3jsg0mVm1URcXV471H6g7JlyjkHR7FkxKsX7glvpfnfq4d6Q4UQCQO1ycZtlLj++zn+G1MCFdRIg9djqQaH4MZBa3lCQo4hAJOq0=;NmZu1UHqHa48OXYxBM8MrA=="
+secured: "9jIjZ300s5Vcr+9i4hzGM3aWwSu5/tpDGvTp72zZQncfrPZ/qEbwjh9O4srgULiNlrVkLYCy6mR63XIDMCPb1lRX1Dw2dEG496JDBzCzF0CLprrSGsvro0NNcVIOWHnevhHI9Ubl8L0tQ6tuaVSbguiuYJlT7lc3g/RpbYJKZDBC6TEf+7YFPXSBRFjjCjFU86grTWmvUcGZdBEVE4H2FHauIpAxCDbRrGnEeCt2I/YYuHkwAw9byo85gSQufVHEcL9utRoWMYFpYoC7Cqo/jiSHVwzgxg9nyF6FMh+mfSJVL6xvC8Z36affmOVz1JyhXAWmZctk+6LEJjFQuvXzk0vVcRxfwUqxfnjZC20TVdY=;P7LIyzvF6vG/RUrL/PcCow=="
 ---
 

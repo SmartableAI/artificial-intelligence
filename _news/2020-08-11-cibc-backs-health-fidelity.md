@@ -3,6 +3,7 @@ category: news
 title: "CIBC backs Health Fidelity"
 excerpt: "CIBC Innovation Banking has provided US$5.5 million in debt financing to San Francisco-based Health Fidelity, a clinical natural language processing technology platform."
 publishedDateTime: 2020-08-11T14:33:00Z
+originalUrl: "https://www.pehub.com/cibc-backs-health-fidelity/"
 webUrl: "https://www.pehub.com/cibc-backs-health-fidelity/"
 type: article
 quality: 24

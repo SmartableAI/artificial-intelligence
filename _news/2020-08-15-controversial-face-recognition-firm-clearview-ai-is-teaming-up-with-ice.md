@@ -3,6 +3,7 @@ category: news
 title: "Controversial Face Recognition Firm Clearview AI Is Teaming Up With ICE"
 excerpt: "In a pairing that has all the makings of a privacy and/or human rights nightmare waiting to happen, the dystopian facial recognition software maker Clearview AI secured an ongoing contract with U.S. Immigration and Customs Enforcement this week."
 publishedDateTime: 2020-08-15T08:19:00Z
+originalUrl: "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876"
 webUrl: "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876"
 ampWebUrl: "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp"
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp"

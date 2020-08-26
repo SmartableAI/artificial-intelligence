@@ -2,56 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-07-23-researchers-ai-system-infers-music-from-silent-videos-of-musicians.md",
-      "title": "Researchers’ AI system infers music from silent videos of musicians",
-      "excerpt": "In a study accepted to the upcoming 2020 European Conference on Computer Vision, MIT and MIT-IBM Watson AI Lab researchers describe an AI system — Foley Music — that can generate “plausible ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/23/researchers-ai-system-infers-music-from-silent-videos-of-musicians/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screenshot2052_photos_v2_x8-e1595531978839.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/23/researchers-ai-system-infers-music-from-silent-videos-of-musicians/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/researchers-ai-system-infers-music-from-silent-videos-of-musicians/amp/",
-      "publishedDateTime": "2020-07-23T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-22-ibm-innovation-preview-automation-of-ai.md",
       "title": "IBM Innovation Preview: Automation of AI",
       "excerpt": "\nIBM’s second Innovation Preview event features AI experts and IBM executives as they share exciting new developments made by IBM Research in the field of Automation of AI. In the event, now available online, these leaders present three ways to leverage automation for AI: Accurately digitize and streamline",

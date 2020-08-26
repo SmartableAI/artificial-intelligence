@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-26T13:06:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php"
 type: article
-quality: 31
+quality: 29
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: eurekalert.org
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -25,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "UT Austin selected as home of National AI Institute focused on machine learning"
-    excerpt: "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine Learning, one of five new national AI institutes."
-    publishedDateTime: 2020-08-26T13:28:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 52
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/241249_web.jpg"
-        width: 1440
-        height: 983
-        isCached: true
   - title: "NSF awards $20M to launch artificial intelligence institute"
     excerpt: "The Nation Foundation has awarded a five-year, $20 million grant to a team of scientists, including iight from Harvard, to create a new research institute aimed at explo"
     publishedDateTime: 2020-08-26T13:00:00Z
@@ -52,6 +37,20 @@ related:
       - url: "https://news.harvard.edu/wp-content/uploads/2020/08/052709_Cong_LIn_046_2500-945x630.jpg"
         width: 945
         height: 630
+        isCached: true
+  - title: "UT Austin Selected as Home of National AI Institute Focused on Machine Learning"
+    excerpt: "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine"
+    publishedDateTime: 2020-08-26T13:15:00Z
+    webUrl: "https://news.utexas.edu/2020/08/26/ut-austin-selected-as-home-of-national-ai-institute-focused-on-machine-learning/"
+    type: article
+    provider:
+      name: The University of Texas at Austin
+      domain: utexas.edu
+    quality: 35
+    images:
+      - url: "https://news.utexas.edu/wp-content/uploads/2020/08/gates_dell_complex-UT-Austin830.jpg"
+        width: 830
+        height: 498
         isCached: true
   - title: "$20 million NSF grant for new artificial intelligence institute for molecule synthesis"
     excerpt: "A team led by Steven L. Miller Chair professor of chemical and biomolecular engineering at the University of Illinois, Huimin Zhao, was awarded a five-year $20 million grant from the National Science Foundation (NSF) for the NSF Artificial Intelligence (AI) Institute for Molecular Discovery,"
@@ -81,16 +80,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "UT selected for prestigious new National Science Foundation AI institute"
-    excerpt: "In a major achievement for the Austin tech and academic communities, The National Science Foundation picked The University of Texas to lead a new effort to develop advanced algorithms with applications in medical imaging diagnostics,"
-    publishedDateTime: 2020-08-26T10:38:00Z
-    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2020/08/26/ut-picked-for-nsf-ai-institute.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
 
-secured: "B8XLDmJhB0CSbWGcT7xEWX38cCVGsVvMXgMAOI73JRGBmagxVAa3SwZYExIO19i21zpeueOCON5qeHoFfsv2bbdd3u9BefztGBF7trgHX6CfuW2V7DMxClrIeyGQFEX/8w62q/luP2SdzRQFe6cKJevnqR3uve3QHiY2iKCSEONRqQ0LaqtiALxUP37SSnOR6HP7vyFW8jSEwsnaMPZwab1igktqmznfamG+OXxVQ3z+sUFmcS8DnTWwr7ZALZJe96EIon7eJNshqvQyZJoNohoT0kVC2NQEyKdjFb8sfrKSiFciNls/G9ZhuaQ9Uj1iZm1PefUsCRkG/qKAeDc5RBcOd/HEQYLzHL+Ep3Jo2DGSzyCFau33CfSXoV0VpEh1TqfmN3iAFmIOpHahWNwvQDn1vyyPvt1JLvduigAtqoatf/uJ/YS0+mPNcK3ZlTujmCBp5eGFi2EbOiMtM+bqnFqU4STI8Z9MXp7My6wLWFEixzj5dmfRxBsUhuRXEuBYKsk7PwWr0MTkjMvN51nI2ei1eoxzz0GaOeitQpY3Hv8=;cA1YabgL1LhRpwPpFhl3dA=="
+secured: "pn3bQOE+nvkyDh9qLrDlNtcsLdouoSyizpcQLgWt9IyWsuF4ZlSLOP0XHWiNmodsA8Mh/Dus3a4nW05IqU3d8zVdfT+tL/VXCvM6/uviXgI2O2lbSQRbTjZFUA60hZFfHoQDXKjQVk37x20GZS5nJXVaXX0k75TJmXIip6aXlyb8HicDE/FqaBatvaoJO5WwyX5Xmsl9evA4+mqiqEPTGTA+ZSTohrbhwmMYWONWZBABRpM/dvX0W4A0nzeXeTn+WHg/aVv26odrQ2IXEf/R/Pw3HMVaJ+B8saB0m8KRvXlaZG7OvA7i+R3wgyPatetPSgoYo66bJmR943r0E93zlonytzXVoHWiAIoZC/ZxG3g=;huQxF9V4xBoHPVyv3ArS7A=="
 ---
 

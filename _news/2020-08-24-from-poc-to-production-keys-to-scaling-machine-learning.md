@@ -3,6 +3,7 @@ category: news
 title: "From POC to production: Keys to scaling machine learning"
 excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
 publishedDateTime: 2020-08-24T19:29:00Z
+originalUrl: "https://www.cio.com/article/3571909/from-poc-to-production-keys-to-scaling-machine-learning.html"
 webUrl: "https://www.cio.com/article/3571909/from-poc-to-production-keys-to-scaling-machine-learning.html"
 type: article
 quality: 39

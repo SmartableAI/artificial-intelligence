@@ -7,7 +7,7 @@ originalUrl: "https://vietreader.com/tech/13324-draidtm-artificial-intelligence-
 webUrl: "https://vietreader.com/tech/13324-draidtm-artificial-intelligence-software-for-the-treatment-of-covid-19.html"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 620
     height: 414
     isCached: true
-
-related:
-  - title: "AI tool for customizing COVID-19 treatment in the works"
-    excerpt: "LONDON – European scale-up of an artificial intelligence tool for stratifying and personalizing treatment of COVID-19 patients according to the type of complications they are likely to experience will get underway in September,"
-    publishedDateTime: 2020-08-21T23:21:00Z
-    webUrl: "https://www.bioworld.com/articles/496906-ai-tool-for-customizing-covid-19-treatment-in-the-works"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 39
-    images:
-      - url: "https://www.bioworld.com/ext/resources/Stock-images/AI/AI-silhouette.png?height=635&t=1597864591&width=1200"
-        width: 847
-        height: 635
-        isCached: true
 
 secured: "17NTWSbAZ4SOuirUEgQFM9cjVHgMJHZ5/HOUiPbUnPoCug0ghmGWfqeIMhC5NojcKzSf4Grmau9Z8d1FjhrB1819aox9/NXM/2ZuAk5kGuUgwpTDv5gexvhvWvIJhetxB7ZdySPiWziGWl8DLp62hXl8GG65R/7t4PWOy+DrCgOl5v6bJoWKxWUntpiRAVFW1/Jt1TwXu2e+yRJxQ1MGc1mT5FiCMf3JLfIsJAHqDDUFpdYwh84qLVQ4v0MBYZKNLYLj6TALCPtnJd5MRPPCIw1TaD3Eb2ad2M5IuSeR2hCTKZ1z1EYxdBStwg3WTxGgrdBk/gCIaicMiVwsQhWXDQwIYPm7IsOtWBjHF+CxjpQt1LMd1IwB2zumlvZVWYvuLNfgPcrkpLXRnjFBd2F9Eyzy/N4l1j2fBb1ZCXNJ0GyESiT+LXMmmc0Yd6OzVW6AibwPtn5xqi2S1jdOh7dX8MAxkVGo0+Z2lOL9mZBFpuwpeQoF0ei5Qyh5TMxCbsq7ulClehVdV2ypdLvpYfGIdxedCExyXo+d+qitgTVQxBQ=;kfYqeuhGPlWkabgX6IiUFg=="
 ---

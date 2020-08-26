@@ -57,6 +57,22 @@ related:
         width: 985
         height: 670
         isCached: true
+  - title: "Artificial intelligence identifies 50 new planets from old NASA data"
+    excerpt: "Researchers have identified 50 new planets using artificial intelligence, marking a technological breakthrough in astronomy."
+    publishedDateTime: 2020-08-26T16:30:00Z
+    webUrl: "https://www.stltoday.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_a914704b-4362-53dc-8e31-f9bfca27a5cc.html"
+    ampWebUrl: "https://www.stltoday.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_a914704b-4362-53dc-8e31-f9bfca27a5cc.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_a914704b-4362-53dc-8e31-f9bfca27a5cc.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 57
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/c5/4c58f208-3f44-5df3-991f-54d138f1dc08/5f33138b9ef7d.preview.jpg"
+        width: 757
+        height: 428
+        isCached: true
 
 secured: "mwVkK4N0sEPYP2yP4kIDJEBOvBuqLkVdT2SvGx+6XcJTos4i57gG9ZP6APePDyOf6NkgD3kmjbxQdGUcnfASwh+qySXXICHFmEZvApt4QWPE1kCdBr15cRW5HvIJuxkL/uCdrZinyWNFVnuXEhvh7cc2RXF56GSBbMab60cbyMWnyWk3gJ8McIZPzWu0JUAdHW4qFq/HOR8slxBZCRbC5WrXkBof3Wn6V5ci1GH7TpMnT87Irh+bI3tFi89yny9AWZhJ/Wqt1L0JKNrFz9FJi/cAQZtGzVD8blTmfgiOA+k+r8izBOSAvSfp4+QeMKGZ6tiI6uaCrPV0P/cttLr62mGAwqqwRooxCp2xbcHzC1w=;pZJNWCEdfKSemG3p0TTlJg=="
 ---

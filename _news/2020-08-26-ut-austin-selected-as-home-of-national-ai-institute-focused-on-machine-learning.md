@@ -1,28 +1,27 @@
 ---
 category: news
-title: "UT Austin selected as home of National AI Institute focused on machine learning"
-excerpt: "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine Learning, one of five new national AI institutes."
-publishedDateTime: 2020-08-26T13:28:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php"
+title: "UT Austin Selected as Home of National AI Institute Focused on Machine Learning"
+excerpt: "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine"
+publishedDateTime: 2020-08-26T13:15:00Z
+originalUrl: "https://news.utexas.edu/2020/08/26/ut-austin-selected-as-home-of-national-ai-institute-focused-on-machine-learning/"
+webUrl: "https://news.utexas.edu/2020/08/26/ut-austin-selected-as-home-of-national-ai-institute-focused-on-machine-learning/"
 type: article
-quality: 52
-heat: 102
-published: true
+quality: 35
+heat: -1
+published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: The University of Texas at Austin
+  domain: utexas.edu
 
 topics:
-  - AI Ethics
+  - Facebook AI
   - AI
-  - Machine Learning
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/241249_web.jpg"
-    width: 1440
-    height: 983
+  - url: "https://news.utexas.edu/wp-content/uploads/2020/08/gates_dell_complex-UT-Austin830.jpg"
+    width: 830
+    height: 498
     isCached: true
 
 related:
@@ -40,20 +39,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "UC Davis to lead new artificial intelligence institute for next generation food systems"
-    excerpt: "UC Davis has been awarded $20 million as part of a multi-institutional collaboration to establish a new institute focused on enabling the next generation food system through the integration of artificial intelligence (AI) technologies."
-    publishedDateTime: 2020-08-26T13:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/241215_web.jpg"
-        width: 1440
-        height: 1080
-        isCached: true
   - title: "$20 million NSF grant for new artificial intelligence institute for molecule synthesis"
     excerpt: "A team led by Steven L. Miller Chair professor of chemical and biomolecular engineering at the University of Illinois, Huimin Zhao, was awarded a five-year $20 million grant from the National Science Foundation (NSF) for the NSF Artificial Intelligence (AI) Institute for Molecular Discovery,"
     publishedDateTime: 2020-08-26T13:17:00Z
@@ -67,6 +52,20 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/241155_web.jpg"
         width: 600
         height: 430
+        isCached: true
+  - title: "UC Davis to lead new artificial intelligence institute for next generation food systems"
+    excerpt: "UC Davis has been awarded $20 million as part of a multi-institutional collaboration to establish a new institute focused on enabling the next generation food system through the integration of artificial intelligence (AI) technologies."
+    publishedDateTime: 2020-08-26T13:06:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 29
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/241215_web.jpg"
+        width: 1440
+        height: 1080
         isCached: true
   - title: "National Science Foundation awards $20M to launch artificial-intelligence institute"
     excerpt: "The National Science Foundation has awarded a five-year, $20 million grant to a team of scientists Harvard, MIT, Northeastern, and Tufts to create a new research institute aimed at exploring the use of artificial intelligence in fundamental physics."
@@ -82,16 +81,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "UT selected for prestigious new National Science Foundation AI institute"
-    excerpt: "In a major achievement for the Austin tech and academic communities, The National Science Foundation picked The University of Texas to lead a new effort to develop advanced algorithms with applications in medical imaging diagnostics,"
-    publishedDateTime: 2020-08-26T10:38:00Z
-    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2020/08/26/ut-picked-for-nsf-ai-institute.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
 
-secured: "VAJXto3YGPQvDg/Y1gDNb8Pfj84DvvzPNoT12yIU/i6jHwqH/vtiIWqTgLT5kplPoOgF4eUHY4oFEddwqOSWAfDbPlOhS1ItIcUcZM+nQJK+3khu6oT35l2T9rZ1FGd28JklXouf6GOE07zrIUdboFwsXi6R/laI10e2RRjj0jdRGJjjKCCtsyf4LWoGNyjJtd0LaiK43Oj7LOgb9LgAsjt//U3uFowYSOKAB/6lFO3ZdMQoa+BIGLOrBhaXJCE6nxTgB2zQ+zF7IpJ0nxFKc7iuBEn2eoMrgoA11tgkvyLATXH6/BpuvSe9HaLwoZGfzQBg6B22FmWnDlbvX3uBzsqibA8iOo9oQDA2A5Fa1NWAAi+HPRaxKj/0SKy7DYm1O61uX0FbH1GYo8mVvQR2lbiIaupjDByIUDPEoVHKq0SuG1bXTonlvwLc7YGmtnIuhs5hSClvBdoS6DC1Q1mbQuctHThaR4+Spjhcva5sfu9WSh3KW/m3Vodgx84eagw/rPzJ+zWM9VD7s3s7dFQGMo/WyNy7Y6FHx9OrWBlqMBY=;Fq/vXfE2Q20axa9nfeaAGQ=="
+secured: "Gom2stPHyq+CT5s6DEqAV+t6fTQM5xqV/igrLTT0LZgzYxCFBugzEJrWMwGw8Wy9rTzPT7Es0I0FCA4b04CfKmuvY8qPBQw1UaBZIy/yxIB15oBtxbFvQD/wzN1kJhgpy5BM+5yF37T76hmU104/fBG1WUJSgZWe5nv45LSXTne03Sgq5wnvZjVaEqPIywCCkEBdSrvdtJ6dMeRcnI7F3Uk7biwqRmecdFrg/SHXRYTg7lPu3TbY1eH9cLGqQquCuBRrZ5g0SbsDbGwrauEMtVYqSJM4Xf/fxGOcX1VLnUmZR2JlTYzQX1B0eFw6iCRRq7C+IeO1O7N/URMZHWYok3wtbmU60tqAB5RjyNLTfac=;dxNxCakBJTb8Kc72jFQhKQ=="
 ---
 

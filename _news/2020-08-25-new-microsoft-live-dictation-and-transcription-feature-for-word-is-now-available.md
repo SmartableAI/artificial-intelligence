@@ -3,12 +3,12 @@ category: news
 title: "New Microsoft live dictation and transcription feature for Word is now available"
 excerpt: "Microsoft is looking to make your work from home life easier with a new Transcribe feature for Word on the Web."
 publishedDateTime: 2020-08-25T15:14:00Z
-originalUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/"
-webUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/"
+originalUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?itm_source=4&itm_content=1x0&itm_term=2377093"
+webUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?itm_source=4&itm_content=1x0&itm_term=2377093"
 ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?amp"
 type: article
-quality: 99
+quality: 79
 heat: -1
 published: false
 
@@ -23,12 +23,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://icdn4.digitaltrends.com/image/digitaltrends/word-web-transcribe-feature-1200x630-c-ar1.91.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
@@ -60,6 +54,6 @@ related:
         height: 430
         isCached: true
 
-secured: "BJV7kpgfCu6nm6WroJw3vvXASEvdNUKDqXPoLzZ7FOfOycb8nrW4t2G4oj5ijEshJfi5pOo9fb5mT1TNdRl55iMPfY/yB/B7OT0V2e6O1zJ9dvyYH+nGBrk6yPqPCRZFwNnnsSiAt8AyQEgzY8m/b3/odjjls3AyPM7k5uk65U+wtE+UVBhOdoGEU+wIzDWGj0kXpNDjmd49e6TkjJWNxJ60daax6WrgOM5CTPN/uLhBn36GWiThmzLmPaOErEGq3MxFFbQH0rLu/0M18U590UfaUx3BPTB/VH7MhBk/itaxFBxiKc8Md3D1yOwRIgsuyv8tJFIjBqm9pF76xaztGb6ehg55nsTZ8PKgua85Id+iE2QGpB9iEdzzsrjcfyZNTzLfKRjMNQ6wTRl1BtMI2V48MrvrW9jMufZSB9Z/TexoP2YQuM9dTNHCz9y4fYr/NkEQGDuqwl4XqC17QTkVPFOUXoMHz5Mdy8PKHFPXKz0fTmgqstCpy+hbmuja0ldSVzj+26ADWt3VzorZ/DVt8A==;aCv/a7lCDDCstaa8V3lxPg=="
+secured: "3yw7CZj2PoGtMnSAOo7CEiRzCD7hP8/oc9WqNcEumKHORf7wF2pMnpdrj8N3nI/+PY8CayKavTLt0f8j1tcFqegq5lTckKwkQ8ISPY828ADITzHBkE2tBuADum9b/Gmd0qEx+hMUapu7ftlnFBynZoV1+ti2yRR4Hst9y3LlL0QdiyNFqFlDBWTb+bKrc2W3O7sPTnmFAiX/vcCf7xnibsDJPSFxAGXs3IW4oX/wJna3HZi3LnGoRX/v+vvCJq4avloDcPvXc24kAa+DYayaMZ1+VwtMPmXVy48YHwZ9c1Hm+61uPp5lz55G76uWaWDa8QPYrJyQCDmiTv3AqXkZffc7n7yhfWa/Q77U+LWquSSBSucuOktgakk/xXQmW1qbmRQkTKXpYtYB0v1XNRIHb2Jv7czgYcMU6d077kqE+T4begOdQPPVQcKBvwgYeqGV/MH0kz7qzthr+azCWvICDuHzMJbppwrMAxiYUvMZmPASAusP98hzyb0zTJ0FFSJJqrqKBz+jGSx4+BMbYWON2m0kknmgxR/kFn7FxCiiz8Q=;0nfpttfvbkQrjL6co01KYg=="
 ---
 

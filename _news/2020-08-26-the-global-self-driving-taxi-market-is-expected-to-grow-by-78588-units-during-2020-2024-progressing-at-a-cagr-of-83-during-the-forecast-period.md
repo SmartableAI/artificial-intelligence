@@ -2,27 +2,27 @@
 category: news
 title: "The Global Self-driving Taxi Market is expected to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period"
 excerpt: "The analyst has been monitoring the self-driving taxi market and it is poised to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period. Our reports on self-driving taxi market provides a holistic analysis,"
-publishedDateTime: 2020-08-26T15:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-301118728.html"
-webUrl: "https://www.prnewswire.com/news-releases/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-301118728.html"
+publishedDateTime: 2020-08-26T15:51:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-1029536911"
+webUrl: "https://markets.businessinsider.com/news/stocks/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-1029536911"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-1029536911"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-1029536911"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Self-Driving Car Market 2020-2024 / overview and scope, Industry Outlook, Size & Forecast"
@@ -63,6 +63,6 @@ related:
       domain: marketwatch.com
     quality: 0
 
-secured: "Cn5wQWdjjoXmV10OemaYRNI04QwVFkXWvkbp7Pu+BTqbOQ303eFu6dpwb8pWxMPvGV17DvmVmXNhLIPX5l1c/YH5Sby+u8oV0ThwLFTgbU1b44raMqdwISCWu0EJ7MhcV6qPEsWKQwlZKGK/XkX3icCKY8bY1YZI8hrfizAgVXck/i50OT+yxYoCQEg0oVvVcChYNedpFwtR/lLH2Ml+Pb0RGktP9LNFWTg7WagJ/xK5xjScxf+YwHQqzt7kpCX0pdnld85COQGXg0KE9VNGQPkyWIFAd4SCfdeFdx4FmXOp9sCC6wKT95I//PTfg7uFC8Loy3L8bKFv6m28fDM3DsbmRxYOfXrfZyh8UTIWbsU=;N5QZVfk1iGPEdH/nVmCUmg=="
+secured: "9TV+YV1wZ4ltc71gbsOOj5R/C7DaM/osLeqrPHN6RJCZ8KLSGPmpAfI/mfuWVtVrSunV0AsZ8aFuKM3rYblFCG5VOYLk5mblY//opeQS/OZiqy7LIoGxQBRb84cw64Wh3vrvMM7Ygwztcm8PRZkNfzY1vtbGJdTynKRKuVsumStm0Yk0AScgiGfEQv8N9WOOEnZd6jdIwlEvVgB5sCftTtlK6Rb2HHNY02YOkmJBKwtjCDDz6vInBOchTnfhuKzvPmA4v8xTBZ+g44uC7d0/rjVAGsEXDbZb79CJ17vJ2kaPBIiseJC59pTBrukKdNddg7Th7GSOh3Gzf3Phq7B9Aq3eEFM0y9WwpXLz070uKZo=;xhnGVPFNwHClF3jvqdwVVw=="
 ---
 

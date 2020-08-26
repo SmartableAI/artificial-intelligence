@@ -3,6 +3,7 @@ category: news
 title: "Neural Network Software Market Research By Growth, Competitive Methods And Forecast To 2026"
 excerpt: "Aug 17, 2020 (Heraldkeepers) -- The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it covers neural network software, services, platform and ..."
 publishedDateTime: 2020-08-17T10:54:00Z
+originalUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-growth-competitive-methods-and-forecast-to-2026-2020-08-17"
 webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-growth-competitive-methods-and-forecast-to-2026-2020-08-17"
 type: article
 quality: 59

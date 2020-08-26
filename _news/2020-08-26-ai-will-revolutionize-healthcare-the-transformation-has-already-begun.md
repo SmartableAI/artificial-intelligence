@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-
 ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 106
+heat: 116
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+  - AI in Healthcare
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f45c7bcd65e9b287f6b6c73%2F0x0.jpg%3FcropX1%3D75%26cropX2%3D1005%26cropY1%3D0%26cropY2%3D523"
@@ -47,6 +49,6 @@ related:
         height: 563
         isCached: true
 
-secured: "NWJcMw5J4+7Mt1makB1es4S+p2t4e2JQbIjBgiQjT4zfIA8iCQXJRFX82vuuKCZSWCajiSiQEiTb6EhHBC1SRDlTU4ztDfeEGTiBs0E5pyJFS5g8/8AJg9X0klcANKhzhO16l2BCHNs66RfhGpvQ4hP9OZa/XCom8zFnNAqikiMf4tz3Rp31R0sKJGNJjE37rJTpau9xmwkDtGHoekmR3cJhfR2bCMrq1xTQeMvfSMTQ4MbPvrc0XW20f0UtHJduwiqsA1HUHYjzhx2198BFAuQ1yS7/vQ0nRp773zvNsirjoiu3I5EP8Q0yX+o2abh+/h9LS0BuaWdOjPvAgdEzpOa956RmjG2W3woZf7G/XhI=;RydOWugeh7zXUHcI2OTKlg=="
+secured: "i2ztXNuRneaFNMVgzR8N2Ip7PP9+Fa/zPdXubla5sUkvZWng1C0+ISqz9iRNOOo9gy3dswPTZVW4QUa15PVO+HUWQscbtzj7H2oF+tqkRoqQF//711rSYIknf1z/3HNcfgxpONujJHU93zu9L4vNbLPB3o6gYbUtMcUk5YivJMFwkley9lO7UO+GA3PSmfKl1e22BMW2BayTfiOiLw6Uhvo9Zmah9x9rBGplCQFS+vgtfwUT44j9gEitjMksNeIQHe9JHnHEd7qBm/NB0eAX0ThSAYh+nh+DgRzbs0cbXnMhAhpAUltXwp2utirkQyF5n75TA0sdQ9EBbmOsO7VupEtmW2JVxSMxuyKuWWh1a3UxH5QT1mZca7vNWrfgr+7gu3DVj4Wkn5quknBJR4NhrGQq3FCevtRR61KZ07MyWl3gCs4MgWfe3bn/GAKds8ePvH8bPwNKjhjESByoA+bc+yY+FtrgmbcLtAUy8fLogpuhBvCF6lwshNyI5qqeFqfp1k7x50GFN8+dGZJr+fqb+mzSNPvD0z2BTuJmUUu+WAQ=;UA3PxfN0LIoqqz4LJHjz7g=="
 ---
 

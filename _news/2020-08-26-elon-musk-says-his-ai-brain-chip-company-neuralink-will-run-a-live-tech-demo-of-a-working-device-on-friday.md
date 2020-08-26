@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/elon-musk-announces-neuralink-will-do-l
 ampWebUrl: "https://www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8?amp"
 type: article
-quality: 68
-heat: 78
+quality: 85
+heat: 95
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://i.insider.com/5f0380832618b911dd364f96?width=1200&format=jpeg"
@@ -47,6 +48,6 @@ related:
         height: 800
         isCached: true
 
-secured: "jCrpJ/sl/2RkcPS8hRfIOiVA29T6JuoDEuy1LsMc9msOfv1R1/tdyZcOM4nHhjtqw1wj1h8GkUrHLThbkGuo2adQ2oskmfAioobPyllew2NCZLTkTqHr4uc7fnSNNyU6MtQc4Bb8ZF+x1cQNkwumSF8tomyqgDpeA4iC47E9Ymwt+zzHPNgL6DeU8M+RPpfm5qM9qZjaDS6ke36qUQ9rq3xyhMyw6dkd9KnnVxVcdxiS4VgFQFHNgPHLiZiDtU8AC+8VGKklSUtaFqSj9tM1WeQLLrsFeoQp5+SpMkYfk0P04+avlEos7I8us415827JruCdRWmBNBYVEmlk7PBO5tTv1LR45C640IIpmY92I9E=;fldpQsYWInU2Al7yEiLKLw=="
+secured: "YjCwU3l/fm+lMq0X+692KHtchb37BmvkGs9wZSnCN29WCNzMBLvsbbeiM+Lnt36IeFSxHvSZ67VC6f3HvGi2JeDfa7zvMmlrC8hKsiQe7LjY8mdzAtZbyGqX1rTnX/DNO2AWHLz3kIOAgs7lGFoz8Lw0BfQD6gvaXYlKT7HAaMhXhf9c7rfdSMcWupTY7hEjFqABow61HgYL/uOSqI9o4ughyxueWKTHT9f8N/Q6aoE0Y5aQ5DrRLkuC4DT4sLZ8H5fXJBi0WJWVRHJ7D0f4MK7okcOjWcDT+6bV0fcw9ypDbCDHaTwTHxt+dF/EoGlJoS6o6tbsYLfSsZoAG5ed/fDvDsQjs5QA/QC7Su05e7XQIekdQyox28N1GtsB8fMritagQiON86cscPcK0bOrhuGMdObBaze8wqLGeaqdCMf8AmJMADSBJ2PZp55Rw52oSDXeDW/SQbQ/GrWg8Bz8KEYcqonA/VWxR5ud7DALDQvBb67YO9L0i5NQ9X05V67QQWZsT229G87rv2kR54Q1mcC31Nqv2KiXfgREHaWkciQ=;SrD5IlD/vv0nkpJqWpPTvg=="
 ---
 

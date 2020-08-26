@@ -3,6 +3,7 @@ category: news
 title: "How an AI-powered legal tech startup that makes reading contracts easier is being used to help deliver police reform"
 excerpt: "Kira Systems is using its contract analysis software to help police reform initiative Campaign Zero analyze union contracts."
 publishedDateTime: 2020-08-17T18:48:00Z
+originalUrl: "https://www.businessinsider.com/kira-systems-partners-with-campaign-zero-to-analyze-police-contracts-2020-8"
 webUrl: "https://www.businessinsider.com/kira-systems-partners-with-campaign-zero-to-analyze-police-contracts-2020-8"
 type: article
 quality: 44
