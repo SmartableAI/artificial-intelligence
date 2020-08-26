@@ -44,17 +44,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "AI in Fintech Market To Witness the Highest Growth in Coming Years 2020-2025"
-    excerpt: "The AI in Fintech Market recently Published GlobalAI in Fintech Market”. The report provides information and the advancing business series information in the sector to the exchange. The report provides a notion connected to the progress of this market movement of significant players of this industry."
-    publishedDateTime: 2020-08-21T12:10:00Z
-    webUrl: "https://www.openpr.com/news/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
-    ampWebUrl: "https://www.openpr.com/amp/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2118636/ai-in-fintech-market-to-witness-the-highest-growth-in-coming-years"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 36
   - title: "Modern Proptech, Fintech, AI can Enhance Real Estate Transactions, but Human Contact Is Important, Industry Exec Says"
     excerpt: "Modern Proptech, Fintech, AI can enhance real estate transactions, but human contact is important, industry exec says."
     publishedDateTime: 2020-08-25T02:01:00Z

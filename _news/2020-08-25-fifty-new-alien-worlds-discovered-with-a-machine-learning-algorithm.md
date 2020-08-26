@@ -81,6 +81,28 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "New machine learning algorithm, in a first, confirms 50 new planets"
+    excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by the University of Warwick scientists. For the first time, astronomers have used a process based on machine learning,"
+    publishedDateTime: 2020-08-26T04:33:00Z
+    webUrl: "https://www.hindustantimes.com/it-s-viral/new-machine-learning-algorithm-in-a-first-confirms-50-new-planets/story-DffJLbbDt6PKsZ7dH5OxSJ.html"
+    ampWebUrl: "https://m.hindustantimes.com/it-s-viral/new-machine-learning-algorithm-in-a-first-confirms-50-new-planets/story-DffJLbbDt6PKsZ7dH5OxSJ_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/it-s-viral/new-machine-learning-algorithm-in-a-first-confirms-50-new-planets/story-DffJLbbDt6PKsZ7dH5OxSJ_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
+  - title: "In a Groundbreaking First, New Machine Learning Algorithm Confirms 50 New Planets"
+    excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by the University of Warwick scientists. For the first time, astronomers have used a process"
+    publishedDateTime: 2020-08-26T04:27:00Z
+    webUrl: "https://www.india.com/viral/in-a-groundbreaking-first-new-machine-learning-algorithm-confirms-50-new-planets-4122300/"
+    ampWebUrl: "https://www.india.com/viral/in-a-groundbreaking-first-new-machine-learning-algorithm-confirms-50-new-planets-4122300/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/in-a-groundbreaking-first-new-machine-learning-algorithm-confirms-50-new-planets-4122300/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 34
 
 secured: "ikSTkQ3vb2W23UW3yxBuknrCxoIH3Flwa6A7QVQpg4J2OZp2Rcjt+OCMGWBNoBY/qt2FKq85IUwBp9flzS69bkUd3JwAFEn8lj+88TWQMJcTF8bpZb2XW1X6ack3ZsENpUz+sUuzNFgDIZ2gQjI58Rp2wmuA/pD3L5TxRhJXDIYadJPyY0d3DfHKhbMrF7hWvSN1ERK1My5gdC9QyHF3gAPT1vAZKbEaCAO8CILWpkFlcw/FQzNYHvnYOOu4NbV/ls4WxspM6sIuVRQpoI7e+NGuJ0oFtpe23iky4SIrQCQnBiIn8zISvxUbAfVBHlDd1Yga0hB225i5dG0CwJhTtacju8kYII/RJOP4b0E/MB6TS6kiaUZHPio+f2cI1NpUQ1CVIHibX2RxPrmKqcIvJFh8CwvT31OEOqXCkjDFzml/Gb15A1yRJBh/tyWc0ds2V+PWs5z/N2Pf3MHLrM3swKkr8re0nL45GjggbY/idluv6xZqbAEKONCJnIMYDT5g;4Ep0WiHeDMDxC17Saz4M1w=="
 ---

@@ -3,6 +3,7 @@ category: news
 title: "Health and Fitness App Exercises AI for Competitive Advantage"
 excerpt: "The use of artificial intelligence is not yet a common feature in fitness apps, but it is a main component in a popular India-based fitness app now focused on growing users in the U.S. and Canada. Bringing AI to personal workout routines at home could provide gym-starved exercise enthusiasts something new to sweat over."
 publishedDateTime: 2020-08-20T11:00:00Z
+originalUrl: "https://www.technewsworld.com/story/Health-and-Fitness-App-Exercises-AI-for-Competitive-Advantage-86810.html"
 webUrl: "https://www.technewsworld.com/story/Health-and-Fitness-App-Exercises-AI-for-Competitive-Advantage-86810.html"
 type: article
 

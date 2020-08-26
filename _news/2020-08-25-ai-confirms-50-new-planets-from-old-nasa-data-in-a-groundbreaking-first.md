@@ -46,6 +46,20 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Breakthrough AI identifies 50 new planets from old NASA data"
+    excerpt: "British researchers have identified 50 new planets using artificial intelligence, marking a technological breakthrough in astronomy. Astronomers and computer scientists from the University of Warwick built a machine learning algorithm to dig through old NASA data containing thousands of potential planet candidates."
+    publishedDateTime: 2020-08-26T05:36:00Z
+    webUrl: "https://abc17news.com/money/2020/08/26/breakthrough-ai-identifies-50-new-planets-from-old-nasa-data/"
+    type: article
+    provider:
+      name: ABC 17 News
+      domain: abc17news.com
+    quality: 39
+    images:
+      - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/Money-web-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "2Qoy22AXzj93RW+W2h75bZ2b4Da1BPNizgLb7Hu85zR6zSHE5XpsGwQwt1L9L6beJ4wxO5dKbWymi7vFQHQIJj2l+ZmmNgjY6BGkVhTshV5GYsoQv5pF7sKlD9cX2JB3aZmqyJi8kevtAFPeGeMXPWQI4Cma5wobWkvSbtGo6Fy/W+JeUYCRXq8QrfjCxk/mvSWJ0SFQuyJzzDDQ3Iy173iqJW4QUTjMgatZyMnEVcI5dtT0E5JY3NTYsnE6aw13EX/so31qFyl2PbV7wxSVmF8etoScdJybEfMytB1HncrD7jgIEsIq+kwCo6hQomrSfTbLTY/6M6U9W3KeKo58GTFeUoQmdSTHxjNTAqRm2l+OiOAce7PmOsSYRY4K46vdgQ3Vkt2P1dLYHkhClwQc8zzaLrQmgEoIUn1A9KFuDOtY8lF7bETAAK17303RiE/79hYe5kRHBDDMQxxZ1/Ap+KwVlovYmI+x1tj+ZKppAnckBbLFQ0oqb5H+S0TlVSA1B7Ewfp4WiuVlCPxcSqb5Dw==;9t+BXoEHIi1ApnS572pbcA=="
 ---

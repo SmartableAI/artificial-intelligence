@@ -1,36 +1,42 @@
 ---
 category: news
-title: "Astronomers confirm 50 new exoplanets using machine learning algorithm"
-excerpt: "For the first time, astronomers have used a machine learning algorithm – a form of self-teaching AI – to confirm the existence of exoplanets in data collected by the now-retired Kepler space telescope."
-publishedDateTime: 2020-08-25T19:28:00Z
-originalUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/"
-webUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/"
-ampWebUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true"
-cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true"
+title: "In a Groundbreaking First, New Machine Learning Algorithm Confirms 50 New Planets"
+excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by the University of Warwick scientists. For the first time, astronomers have used a process"
+publishedDateTime: 2020-08-26T04:27:00Z
+originalUrl: "https://www.india.com/viral/in-a-groundbreaking-first-new-machine-learning-algorithm-confirms-50-new-planets-4122300/"
+webUrl: "https://www.india.com/viral/in-a-groundbreaking-first-new-machine-learning-algorithm-confirms-50-new-planets-4122300/"
+ampWebUrl: "https://www.india.com/viral/in-a-groundbreaking-first-new-machine-learning-algorithm-confirms-50-new-planets-4122300/amp/"
+cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/in-a-groundbreaking-first-new-machine-learning-algorithm-confirms-50-new-planets-4122300/amp/"
 type: article
-quality: 89
-heat: 149
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: New Atlas
-  domain: newatlas.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: India.com
+  domain: india.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://assets.newatlas.com/dims4/default/da7c7a2/2147483647/strip/true/crop/1350x900+57+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F81%2F3d%2F72bad3664e0189b9e7523b00abe5%2Fpia11824.jpg"
-    width: 1200
-    height: 800
-    isCached: true
-
 related:
+  - title: "Astronomers confirm 50 new exoplanets using machine learning algorithm"
+    excerpt: "For the first time, astronomers have used a machine learning algorithm – a form of self-teaching AI – to confirm the existence of exoplanets in data collected by the now-retired Kepler space telescope."
+    publishedDateTime: 2020-08-25T19:28:00Z
+    webUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/"
+    ampWebUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 89
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/da7c7a2/2147483647/strip/true/crop/1350x900+57+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F81%2F3d%2F72bad3664e0189b9e7523b00abe5%2Fpia11824.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "50 new planets confirmed in machine learning first"
     excerpt: "Fifty potential planets have been confirmed by a new machine learning algorithm developed by University of Warwick scientists."
     publishedDateTime: 2020-08-25T13:09:00Z
@@ -97,18 +103,7 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
-  - title: "In a Groundbreaking First, New Machine Learning Algorithm Confirms 50 New Planets"
-    excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by the University of Warwick scientists. For the first time, astronomers have used a process"
-    publishedDateTime: 2020-08-26T04:27:00Z
-    webUrl: "https://www.india.com/viral/in-a-groundbreaking-first-new-machine-learning-algorithm-confirms-50-new-planets-4122300/"
-    ampWebUrl: "https://www.india.com/viral/in-a-groundbreaking-first-new-machine-learning-algorithm-confirms-50-new-planets-4122300/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/in-a-groundbreaking-first-new-machine-learning-algorithm-confirms-50-new-planets-4122300/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 34
 
-secured: "cGdi7XkuVgRr+OXjMK1n2r71aDapVnptxCSxNJYVgLS6B2mga0ajrrT4/pKvijMi350qq/M0yj69c82/KQhtKLIsexsNxBiAK8RSDGCbFqAqQZZlrPWTmFtcCtBBx5qOSVi84h2a089XIBnQwFdMKK3mtnvHmqTurmeqygMhcWvkNbZW5lWd2VpgnWUC17SjC6Us5bAslzdraI3cFfiXzgaMvHOK4vanqS0ZrZucY9f2qgk1q3CYH9koImODPPgZtDsVQ0APZgSfsHS/MOZz4W/XaSWGOltoNHoj18ViMKenqGH1CzuAPCJ6Z8zKrgIHy8brDHOoKA6RpOQZ6CtsztfmzoVDJCVgRvZvQT0bscbBY8NllksVOSDDHS+nQCuFozvGKYwSTvjrc6H5SB/gCHmqYnM+cCUl+6ql+vdOsnutUXHxn9K6ZhuYFDvNCshHh0K8nHSQGQgwfij6USmve+GQfOGTV6UnPLxo/JHtzS5L1AkZn+euz5k9X4OO/JK0;tQwtoQqUC4tgpuunDIC+CQ=="
+secured: "JDPEmqx7zlBy8vYm5LAnYyPt7B5M16S9cLQ4tLGl5bmeEUPNMYKbXMLS78vrb6hMGVjbAMrlo5SzyIMlSHvYAbxiDvhZZqATf0vq2pSup0VG7jnotz/K9AUfQRBGzm9rhz0fLqvkGMcfJlmcdbHSV0YHLG4MmoKhnGe0b4vuLeeMqKymQyj7auyZC3gGkG7kUcrKznvRPucTr5mLwjcDGhqql0MEAVtsv6kmTCTiy6HiY6GAovD/ZRcTLSjgelK5zeT2SdXapb6eembTtIisVv3eGGSwXOMeviGrETi66h6L0LhIiRfCqHhm1U7QtBFf+IeEMWDIDUzdM/JjEPbuw8mflGCy8RhAqFRwr4pWIR9lDJQzRB9dtAeqVXKZLHuHroQ47/9VnWShlf3GYbYFBICJ8s7ehswYKtA7IZjo6aZhhj3qwsQSpAhP7OkojGWlH7gkSQo3Fs1LKm1nEhWm5fG46ZxNZ250XeIUsSJS3aUVtkS539LKuEK7seHSPLkrbsXP0bQvNlcGWVh+G5xCJcdh6Bj/yQjEqWH5B8f8AGU=;W1+417ODUKEl47b5JGvCyQ=="
 ---
 

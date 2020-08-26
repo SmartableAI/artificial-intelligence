@@ -3,6 +3,7 @@ category: news
 title: "The carbon impact of artificial intelligence"
 excerpt: "The part that artificial intelligence plays in climate change has come under scrutiny, including from tech workers themselves who joined the global climate strike last year. Much can be done by developing tools to quantify the carbon cost of machine learning models and by switching to a sustainable artificial intelligence infrastructure."
 publishedDateTime: 2020-08-14T03:30:00Z
+originalUrl: "https://www.nature.com/articles/s42256-020-0219-9"
 webUrl: "https://www.nature.com/articles/s42256-020-0219-9"
 type: article
 quality: 39

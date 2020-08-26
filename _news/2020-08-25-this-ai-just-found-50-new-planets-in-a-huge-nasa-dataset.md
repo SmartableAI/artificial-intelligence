@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-p
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/8HHagEPsLQzwF1q7G9siIMXAc6s=/2016/05/10/bfd48cb5-88e5-466a-9605-bf374f2a6abf/keplerall-planetsmay2016.jpg"
         width: 985
         height: 670
+        isCached: true
+  - title: "Breakthrough AI identifies 50 new planets from old NASA data"
+    excerpt: "British researchers have identified 50 new planets using artificial intelligence, marking a technological breakthrough in astronomy. Astronomers and computer scientists from the University of Warwick built a machine learning algorithm to dig through old NASA data containing thousands of potential planet candidates."
+    publishedDateTime: 2020-08-26T05:36:00Z
+    webUrl: "https://abc17news.com/money/2020/08/26/breakthrough-ai-identifies-50-new-planets-from-old-nasa-data/"
+    type: article
+    provider:
+      name: ABC 17 News
+      domain: abc17news.com
+    quality: 39
+    images:
+      - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/Money-web-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "5YEb2Hdf24ypKZNWBoVF3RIYWxniUh3fzYeDjslQ1//aM9CTfKL4dk0bFeSJhBRM3E9vACr5rjhl6ZvJwnIjqhpUVopyYigLaSnvVLYzwQly/zM+APfjEhx3fyBz+ccw06ciu6KtYYKuZydmQ3R9pxDPsvKmleoUyY7P18nt2o36k8115IxReB+3lxRhnZSwDLHbF+jMdQeuy3qM8Bc/z9AWahJfL9zYhgMVgYfQGvNnwPqrkVIKqKOVKGasLUF187tsqNNKUc0IB0C5f6/0vUdnfNmMwCvdtbC/loLpkl8F8eBeDQxJVEd9qlZVxWOQk3z7rDQV4KiCydNO76NnSK3VxyL7xzHwWf260n/fsTeydunJFNusM+/L3UxU35GzKoKUJCI9Yp3jiC4FIAjW4ANsIhhu8DmeaRe6/xhOkWCUJ/Ga66p9lFwEb5+EbIrHZZ29eTp+8A4aL4jmpxFn0bwiIvMgzaCX9hT/bWQqRjbyNh/e0rtovhb1zU21tg5Gv1jh5bVGQvpDNMbuFBFpIw==;JK4+dKbk1ByjBNyL9m170Q=="

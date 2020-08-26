@@ -3,6 +3,7 @@ category: news
 title: "Councilman to introduce bill regulating facial recognition technology in Pittsburgh"
 excerpt: "A Pittsburgh councilman plans to introduce legislation Tuesday to regulate facial recognition technology in the city."
 publishedDateTime: 2020-08-25T09:41:00Z
+originalUrl: "https://www.wpxi.com/news/top-stories/councilman-introduce-bill-regulating-facial-recognition-technology-pittsburgh/AW622P7ZUBG6VJNTWLHSXLATUA/"
 webUrl: "https://www.wpxi.com/news/top-stories/councilman-introduce-bill-regulating-facial-recognition-technology-pittsburgh/AW622P7ZUBG6VJNTWLHSXLATUA/"
 type: article
 quality: 33

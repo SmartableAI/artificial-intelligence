@@ -2,6 +2,56 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-08-19-microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance.md",
+      "title": "Microsoft has a plan to try to improve Azure outage assistance",
+      "excerpt": "And its Azure Support account on Twitter tries to guide users to look ... \"We are also in the early stages of expanding our use of AI-based operations to identify related impacted services automatically and, upon mitigation, send resolution communications ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/",
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/08/19/1c3ed497-d8d2-4f60-877a-4592d3251668/azureoutages.jpg",
+          "width": 884,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/",
+      "publishedDateTime": "2020-08-19T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-facebook-gamifies-data-collection-to-boost-conversational-ai.md",
       "title": "Facebook gamifies data collection to boost conversational AI",
       "excerpt": "In a preprint paper, Facebook researchers propose a gamified approach to collecting data to train conversational AI models.",
@@ -1121,55 +1171,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-how-to-leverage-on-artificial-intelligence-to-transform-the-way-entrepreneurs-do-business.md",
-      "title": "How to Leverage on Artificial Intelligence to Transform the Way Entrepreneurs Do Business",
-      "excerpt": "This situation has raised the importance and prominence of technology. As it recovers from human and economic ravages, AI is positioned to play a critical role",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/354973",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1597821086-artificial-intelligence-4715585.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/354973",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354973",
-      "publishedDateTime": "2020-08-19T00:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

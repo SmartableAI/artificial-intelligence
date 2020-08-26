@@ -3,6 +3,7 @@ category: news
 title: "Violation of Fundamental Rights by using Facial Recognition Technology in Protests"
 excerpt: "Facial Recognition Technology embodies a software that is capable of identifying and authenticating the identity of an individual by recognizing the physical traits of their face. The underlying"
 publishedDateTime: 2020-08-20T03:30:00Z
+originalUrl: "https://www.jurist.org/commentary/2020/08/seshadri-sindhu-facial-recognition-technology-in-protests/"
 webUrl: "https://www.jurist.org/commentary/2020/08/seshadri-sindhu-facial-recognition-technology-in-protests/"
 type: article
 quality: 35

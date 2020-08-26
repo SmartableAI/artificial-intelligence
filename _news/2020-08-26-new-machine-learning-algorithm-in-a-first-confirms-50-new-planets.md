@@ -1,36 +1,42 @@
 ---
 category: news
-title: "Astronomers confirm 50 new exoplanets using machine learning algorithm"
-excerpt: "For the first time, astronomers have used a machine learning algorithm – a form of self-teaching AI – to confirm the existence of exoplanets in data collected by the now-retired Kepler space telescope."
-publishedDateTime: 2020-08-25T19:28:00Z
-originalUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/"
-webUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/"
-ampWebUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true"
-cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true"
+title: "New machine learning algorithm, in a first, confirms 50 new planets"
+excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by the University of Warwick scientists. For the first time, astronomers have used a process based on machine learning,"
+publishedDateTime: 2020-08-26T04:33:00Z
+originalUrl: "https://www.hindustantimes.com/it-s-viral/new-machine-learning-algorithm-in-a-first-confirms-50-new-planets/story-DffJLbbDt6PKsZ7dH5OxSJ.html"
+webUrl: "https://www.hindustantimes.com/it-s-viral/new-machine-learning-algorithm-in-a-first-confirms-50-new-planets/story-DffJLbbDt6PKsZ7dH5OxSJ.html"
+ampWebUrl: "https://m.hindustantimes.com/it-s-viral/new-machine-learning-algorithm-in-a-first-confirms-50-new-planets/story-DffJLbbDt6PKsZ7dH5OxSJ_amp.html"
+cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/it-s-viral/new-machine-learning-algorithm-in-a-first-confirms-50-new-planets/story-DffJLbbDt6PKsZ7dH5OxSJ_amp.html"
 type: article
-quality: 89
-heat: 149
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: New Atlas
-  domain: newatlas.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://assets.newatlas.com/dims4/default/da7c7a2/2147483647/strip/true/crop/1350x900+57+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F81%2F3d%2F72bad3664e0189b9e7523b00abe5%2Fpia11824.jpg"
-    width: 1200
-    height: 800
-    isCached: true
-
 related:
+  - title: "Astronomers confirm 50 new exoplanets using machine learning algorithm"
+    excerpt: "For the first time, astronomers have used a machine learning algorithm – a form of self-teaching AI – to confirm the existence of exoplanets in data collected by the now-retired Kepler space telescope."
+    publishedDateTime: 2020-08-25T19:28:00Z
+    webUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/"
+    ampWebUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 89
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/da7c7a2/2147483647/strip/true/crop/1350x900+57+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F81%2F3d%2F72bad3664e0189b9e7523b00abe5%2Fpia11824.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "50 new planets confirmed in machine learning first"
     excerpt: "Fifty potential planets have been confirmed by a new machine learning algorithm developed by University of Warwick scientists."
     publishedDateTime: 2020-08-25T13:09:00Z
@@ -86,17 +92,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "New machine learning algorithm, in a first, confirms 50 new planets"
-    excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by the University of Warwick scientists. For the first time, astronomers have used a process based on machine learning,"
-    publishedDateTime: 2020-08-26T04:33:00Z
-    webUrl: "https://www.hindustantimes.com/it-s-viral/new-machine-learning-algorithm-in-a-first-confirms-50-new-planets/story-DffJLbbDt6PKsZ7dH5OxSJ.html"
-    ampWebUrl: "https://m.hindustantimes.com/it-s-viral/new-machine-learning-algorithm-in-a-first-confirms-50-new-planets/story-DffJLbbDt6PKsZ7dH5OxSJ_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/it-s-viral/new-machine-learning-algorithm-in-a-first-confirms-50-new-planets/story-DffJLbbDt6PKsZ7dH5OxSJ_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
   - title: "In a Groundbreaking First, New Machine Learning Algorithm Confirms 50 New Planets"
     excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by the University of Warwick scientists. For the first time, astronomers have used a process"
     publishedDateTime: 2020-08-26T04:27:00Z
@@ -109,6 +104,6 @@ related:
       domain: india.com
     quality: 34
 
-secured: "cGdi7XkuVgRr+OXjMK1n2r71aDapVnptxCSxNJYVgLS6B2mga0ajrrT4/pKvijMi350qq/M0yj69c82/KQhtKLIsexsNxBiAK8RSDGCbFqAqQZZlrPWTmFtcCtBBx5qOSVi84h2a089XIBnQwFdMKK3mtnvHmqTurmeqygMhcWvkNbZW5lWd2VpgnWUC17SjC6Us5bAslzdraI3cFfiXzgaMvHOK4vanqS0ZrZucY9f2qgk1q3CYH9koImODPPgZtDsVQ0APZgSfsHS/MOZz4W/XaSWGOltoNHoj18ViMKenqGH1CzuAPCJ6Z8zKrgIHy8brDHOoKA6RpOQZ6CtsztfmzoVDJCVgRvZvQT0bscbBY8NllksVOSDDHS+nQCuFozvGKYwSTvjrc6H5SB/gCHmqYnM+cCUl+6ql+vdOsnutUXHxn9K6ZhuYFDvNCshHh0K8nHSQGQgwfij6USmve+GQfOGTV6UnPLxo/JHtzS5L1AkZn+euz5k9X4OO/JK0;tQwtoQqUC4tgpuunDIC+CQ=="
+secured: "mhpvB19CwB2C1s4x/JFmHwFe24gnWomwgO3mDu/cae948EBYBaCxzwcXC7uhrC3hR1IFmxFMsLhkZVae2Ze3NYfCEUN88iaQSLzbYTEAqjtHLMTxareUvIccXz1MnnVQSjI4eGQVKZ398H+5UKrdtOdluVl64gBQqCUqkouZKRsG4gvY34fN6vIJSzG/GJGDm8OUbo2TqcVaAcHgLCQcWaB08L06d+GMwIvXnIHrS8pimWeqG5IyEg9FxvDdf0r1zWffyrwLS1aqamVU+ZVbem/s/9Jhj6DmGzJAqgHLYa7rbPg4Ies4Ez6wKutieXyZU/pV5mRQRJkixjUb42HkDjsUYQsGBjDVAC2ccq7cjklB43/SUJnhZwHxPBobKAkvect28B5/yr0ET/belcvDvwB8kbLatoycllH81edDuZQKUuodmnfMeE1Vw6DiLd6vp0x6X/JLpxLgrUldaLF/tGDkU2e0tHE14UtG1w4lKdP4RfjaAmBD0cWpCbPqSma/x1EMCfenDfsUbuiQBSMHFwjU3BmbQL8Lw7T3WtWVLJU=;335vvEJBpkzGoW6u68APWQ=="
 ---
 

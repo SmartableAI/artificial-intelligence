@@ -3,6 +3,7 @@ category: news
 title: "Facial Recognition Market Innovative Treatments, Key Methodologies, Top Players Success Milestones and Forecasts to 2027"
 excerpt: "The study primarily analyses the scale of the Facial Recognition market, current developments and growth status as well as investment prospects, government initiatives, industry d"
 publishedDateTime: 2020-08-24T16:46:00Z
+originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-innovative-treatments-key-methodologies-top-players-success-milestones-and-forecasts-to-2027-2020-08-24"
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-innovative-treatments-key-methodologies-top-players-success-milestones-and-forecasts-to-2027-2020-08-24"
 type: article
 quality: 44
