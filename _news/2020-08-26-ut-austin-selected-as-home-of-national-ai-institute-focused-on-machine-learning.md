@@ -1,27 +1,28 @@
 ---
 category: news
-title: "UT Austin Selected as Home of National AI Institute Focused on Machine Learning"
-excerpt: "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine"
-publishedDateTime: 2020-08-26T13:15:00Z
-originalUrl: "https://news.utexas.edu/2020/08/26/ut-austin-selected-as-home-of-national-ai-institute-focused-on-machine-learning/"
-webUrl: "https://news.utexas.edu/2020/08/26/ut-austin-selected-as-home-of-national-ai-institute-focused-on-machine-learning/"
+title: "UT Austin selected as home of National AI Institute focused on machine learning"
+excerpt: "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine Learning, one of five new national AI institutes."
+publishedDateTime: 2020-08-26T13:28:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php"
 type: article
-quality: 35
-heat: -1
-published: false
+quality: 52
+heat: 112
+published: true
 
 provider:
-  name: The University of Texas at Austin
-  domain: utexas.edu
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - Facebook AI
+  - Machine Learning
   - AI
+  - AI Ethics
 
 images:
-  - url: "https://news.utexas.edu/wp-content/uploads/2020/08/gates_dell_complex-UT-Austin830.jpg"
-    width: 830
-    height: 498
+  - url: "https://www.eurekalert.org/multimedia/pub/web/241249_web.jpg"
+    width: 1440
+    height: 983
     isCached: true
 
 related:
@@ -38,6 +39,20 @@ related:
       - url: "https://news.harvard.edu/wp-content/uploads/2020/08/052709_Cong_LIn_046_2500-945x630.jpg"
         width: 945
         height: 630
+        isCached: true
+  - title: "Carnegie Mellon named NSF planning institute for artificial intelligence in physics"
+    excerpt: "Carnegie Mellon University has received a $500,000 planning grant from the National Science Foundation (NSF) to work toward creating a National Artificial Intelligence Research Institute in Physics."
+    publishedDateTime: 2020-08-26T20:59:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/cmu-cmn082620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/241362_web.jpg"
+        width: 1440
+        height: 1440
         isCached: true
   - title: "UC Davis to lead new artificial intelligence institute for next generation food systems"
     excerpt: "UC Davis has been awarded $20 million as part of a multi-institutional collaboration to establish a new institute focused on enabling the next generation food system through the integration of artificial intelligence (AI) technologies."
@@ -81,7 +96,16 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "UT selected for prestigious new National Science Foundation AI institute"
+    excerpt: "In a major achievement for the Austin tech and academic communities, The National Science Foundation picked The University of Texas to lead a new effort to develop advanced algorithms with applications in medical imaging diagnostics,"
+    publishedDateTime: 2020-08-26T10:38:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2020/08/26/ut-picked-for-nsf-ai-institute.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
 
-secured: "NtmVoydjFxx+5U3xDTl0QhbjMw58T6mZflkGFQKQoFpa8U4zHCQVNl3d5fRogmlElEKAHZC5ps4ZrCioc33zZgJd57eXJdryHoY6gFbo3oeSR2897zCj/Bzs/+gJn+p87ljqE2ek0S5U4yqJB+R5BL5OjXQP5k5CPKaQBxmJHAz46uEjM0PoGwPU88dxyOwZ2hwbmvDtKrT09y1ZU7S1mAjKbE6J1bjsot3nh3FoPF8F9IoYsP4TtNtUrzuU9mYJtMaCnVKRXeQyIV4IouEDuKRfHLv5fHIzYct3NKSquMvRU16RIljmRB+/rfisIcUJQCOOTply6FC9f6kaMZFIqbSDZtSoiapJVmQ5MVhJpHE=;34pPDJ4DNPXAMQxlqN26Fw=="
+secured: "zxG7doULJhApWLQBhQNRp56uoqqRjBp8Uzb+f2H4/PUu4hCvIEcMJjbzBTiUjFHkOJsn1udVMX5DGSdKxytqH6ILn5TrXkFdUHyM+ic7r2EgjG29FiKrcuRrXBM4aOqPDPMAEZFZMa/TBOtjcYZhXhk9c4Y7Pabki5EX39YJxP9fWSo4I4hAxX0idYOMoNiQF1e0dguTLrk84o/113w9pslsuGSK2huW5RCVcPu0pnUkVgbhveMukquVYnpPqakP7HzHAu38OpLQi154cL06XTIk48NeZg4tXMgJ2Qlwb1ttisDBv5s+0friDq9wDq7bXhXQGaYwuUCSMMDbOlvtfHrMPbuLvqg1S+Pxj8o+ZMU=;UJ8PH7HP4zUyxfwoC0UyRw=="
 ---
 

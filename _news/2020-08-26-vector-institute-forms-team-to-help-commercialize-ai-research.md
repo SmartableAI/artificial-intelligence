@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-he
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,17 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "WSU to help lead artificial intelligence research on new national team"
+    excerpt: "Wichita State University is part of newly formed national team that will be helping machines learn how to learn, a prospect that has major ramifications for manufacturing, health care and many other industries."
+    publishedDateTime: 2020-08-26T20:32:00Z
+    webUrl: "https://www.bizjournals.com/wichita/news/2020/08/26/wsu-to-help-lead-artificial-intelligence-research.html"
+    ampWebUrl: "https://www.bizjournals.com/wichita/news/2020/08/26/wsu-to-help-lead-artificial-intelligence-research.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/wichita/news/2020/08/26/wsu-to-help-lead-artificial-intelligence-research.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
 
 secured: "p9c4wdFzao6+PLQBxIVSWgI0qzyM6+bBsb24oAWqX09MCvFUw9PAh76LuP2rFwy29nm9WChfMA9HzBcCRyOmGxZq/Hdsks0DpaoXWU/5OH8GUsrQvR1CyD8RQNhXs/XjsaIp/eR+ea9jNazJkOBJwne2Jpjb5y2Sy7oxQ5Eq+1DbM49IrqiDP2yhXdV2Wzt7X96XuvC4hZ5hG0YzKRSRxe+eQOiMjs2ud9EuWrMW9Bpb0tbpwDTEZoDIOWkFhUQkCQlOCdykMHXc0eCsYddrYfCaGAcktxhY122xkmhTCbClBJjlSVlkyiohqG6hWGxGvRAVrpx1jYZcD2XD8R+ncoED4U4uym3ac7yV1jyVaRI=;lHii06+jc7J8KhWkQ9Kbwg=="
 ---

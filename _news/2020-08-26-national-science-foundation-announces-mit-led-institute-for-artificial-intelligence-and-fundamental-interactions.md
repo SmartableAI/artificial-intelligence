@@ -60,6 +60,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "WSU to help lead artificial intelligence research on new national team"
+    excerpt: "Wichita State University is part of newly formed national team that will be helping machines learn how to learn, a prospect that has major ramifications for manufacturing, health care and many other industries."
+    publishedDateTime: 2020-08-26T20:32:00Z
+    webUrl: "https://www.bizjournals.com/wichita/news/2020/08/26/wsu-to-help-lead-artificial-intelligence-research.html"
+    ampWebUrl: "https://www.bizjournals.com/wichita/news/2020/08/26/wsu-to-help-lead-artificial-intelligence-research.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/wichita/news/2020/08/26/wsu-to-help-lead-artificial-intelligence-research.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
 
 secured: "MH7pefctpsfZ7mjH9hB7AoybWOhCQfRYsHJ3avrj9CaD2WzTSQgPLtOpiEMNQWDDoCJX+WO3K8r94neLnWH9FqCWR17xUsFgvVlC13byt+wsryWfgcBngN5y6uZXzSh4MhiwuUbHPSIcYyt6jK0UBSntI28JNrraMOIuC6wtrzacHrohcP0vgyQemS2LQBhpbwA6OYvMqQsgfvDEGaGGHA5PA45fdaU9PXfjJBpOn8mnc+uPjRFdd6D5YFsdOzCHWd4+p9AMNBi/YjeLe5oj018p+httxVQjgJyCDGHbpmVLS+yhul5bg1ae2SbKUzX8s168DDjANDFturTQ5HpjVkfKaXF4qBCEQawSw/4F7ZP/id4IXJAEFN11q43jKPQWlMJE268yH7iFv59CCPnAtgsd8nkLOUp8UDIUFWeB155BvRZAlU5Bv9ceKe8QzjPCiJzr703qUVpVRj8ZM3pp7P12I8vZbetyI0rh7jRErAXl9ejZKHJI83GXzwgwl37pfWKqutoB1e2fFv3dtsG4L86GoK4973KK3950k9tt1CA=;csFO+JjiF4Z3jaaxnNWyFQ=="
 ---

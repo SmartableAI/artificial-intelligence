@@ -3,24 +3,24 @@ category: news
 title: "Artificial intelligence identifies 50 new planets from old NASA data"
 excerpt: "Researchers have identified 50 new planets using artificial intelligence, marking a technological breakthrough in astronomy."
 publishedDateTime: 2020-08-26T16:30:00Z
-originalUrl: "https://www.stltoday.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_a914704b-4362-53dc-8e31-f9bfca27a5cc.html"
-webUrl: "https://www.stltoday.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_a914704b-4362-53dc-8e31-f9bfca27a5cc.html"
-ampWebUrl: "https://www.stltoday.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_a914704b-4362-53dc-8e31-f9bfca27a5cc.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_a914704b-4362-53dc-8e31-f9bfca27a5cc.amp.html"
+originalUrl: "https://buffalonews.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_79a19648-0cea-5706-8bee-40bf1913281e.html"
+webUrl: "https://buffalonews.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_79a19648-0cea-5706-8bee-40bf1913281e.html"
+ampWebUrl: "https://buffalonews.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_79a19648-0cea-5706-8bee-40bf1913281e.amp.html"
+cdnAmpWebUrl: "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_79a19648-0cea-5706-8bee-40bf1913281e.amp.html"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Buffalo News
+  domain: buffalonews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/c5/4c58f208-3f44-5df3-991f-54d138f1dc08/5f33138b9ef7d.preview.jpg"
+  - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/53/b534da13-4e3d-54a2-a31a-e2ff3dde2e29/5f330ac996cfd.preview.jpg"
     width: 757
     height: 428
     isCached: true
@@ -73,6 +73,6 @@ related:
         height: 576
         isCached: true
 
-secured: "nxb56s2eSnFJqAXNGcZ+ZKJpsytLEWw7Qn8cXElrQ3Pcb+1hz+SK/YALFdf00uThwo69vFXV2DodSfcqRzZDLUij/BUcRjp/53mZWHlB14d/9PZMHSPnMsCHnbeBZiQ5pZr4mEAJ0Y0LEE3KUVwFTzpnIZ2KRx3ZeWHWg++4tYaqpKOKgTp8z1XdrDEgPtd9KGPI/nCOMTQWBngvowcwsgxkzr5GWNTu2BsjVdGFjsYmJXxY5SC3/Dl15kS/jFdqUENrgspXbUExLj+L2D4kgNFlmDwxGbVionWpFiNGiOXqhvljDuuVBTFTma8VVoFrKxJ34qrOmgZXV0aWWROCcU4CEGHF2BIlnnDyZMk5m4YF35ed5eJ3GPwdbTMHjSruSoHa/g0NA4upSQAORimJFb9hpx+EnoRHJfcTugoGzsOy+BYbOLn9WGjrPoeszmdLNKa2aiQ8DxpxhitTtGd1Ig+S7R8UgGQu8Vkto7l12ljHN5WbKiqncFS9kJ6nn3RVAFGSsoJjlH3wtEz4H1jtG7sq6C3SJ4sytS5hYR0wLo0=;KOCnCc37BbvEHIiq6mCAyA=="
+secured: "0mAoi33rwcgMtsrkZheCETDq+VYsiGZL07HX1641PmuMveutngfhRFU46Ud6J7NN8pk+/IN6loBH5BkZzIBqP7RAz2R+35XDVKepCvniDsZBibVwvPzK6JWmLMgf5LntFTdN+2kygnH5LmULqW0F9x4fY3NrPCeNiBRMggwrdZnOsH6qMkCxm4wthLUuBjCVB0yZaTbYm1qAxoxBS93kXQjJiz+V6wpGknAYgnqjMOCBlV0xN060BETR52d/FFFIVzW9ksLI4xvZSFTUKHS1nyZBOYOYCmIiVVKOhVr489HFc4hAauG5bmvuGXXctWPxZ4189vlPzbTXv232MLapt3Q29JOiHsuR2ILTf9F714Q=;JZ9bfPQKhf+FRQDnPBQ3nw=="
 ---
 

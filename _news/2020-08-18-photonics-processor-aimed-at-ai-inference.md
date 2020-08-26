@@ -3,6 +3,7 @@ category: news
 title: "Photonics Processor Aimed at AI Inference"
 excerpt: "The photonic processor runs PyTorch, TensorFlow and other standard machine learning frameworks to generate AI algorithms. Demand for silicon photonics technology is forecast to grow, with some regions expanding at a 25-percent annual clip as optical ..."
 publishedDateTime: 2020-08-18T00:01:00Z
+originalUrl: "https://www.hpcwire.com/2020/08/18/photonics-processor-aimed-at-ai-inference/"
 webUrl: "https://www.hpcwire.com/2020/08/18/photonics-processor-aimed-at-ai-inference/"
 type: article
 quality: 41

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-designed-to-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/"
 type: article
 quality: 99
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/x2e96wd1fpkM4UP-mi2c2FVNa-w=/756x567/2020/05/12/e19738c2-f117-4bd8-b48c-e3b7aee37406/01-homemade-face-mask.jpg"
         width: 756
         height: 567
+        isCached: true
+  - title: "AF looks to facial recognition to secure facilities"
+    excerpt: "The Air Force’s AFWERX innovation arm is investing in real-time facial recognition to secure base perimeters and enhance situational awareness for Air Force security staff."
+    publishedDateTime: 2020-08-26T20:31:00Z
+    webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition_0_1.png"
+        width: 760
+        height: 368
         isCached: true
   - title: "Pittsburgh Councilman To Introduce Legislation Banning Facial Recognition"
     excerpt: "Corey O'Connor will propose a bill that would ban the unrestricted use of facial recognition by police, KDKA's Amy Wadas reports."

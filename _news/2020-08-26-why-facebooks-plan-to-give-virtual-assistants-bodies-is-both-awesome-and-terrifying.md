@@ -8,8 +8,8 @@ webUrl: "https://thenextweb.com/neural/2020/08/26/why-facebooks-plan-to-give-vir
 ampWebUrl: "https://thenextweb.com/neural/2020/08/26/why-facebooks-plan-to-give-virtual-assistants-bodies-is-both-awesome-and-terrifying/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/26/why-facebooks-plan-to-give-virtual-assistants-bodies-is-both-awesome-and-terrifying/amp/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/facebooksoundstatge-796x393.jpg"
@@ -30,6 +31,6 @@ images:
     height: 393
     isCached: true
 
-secured: "a1vJhxX3g4kJyEuuh5w1uRgpfklcRsXycecrrBNdWzZKrFVuboiJ6ELK9cmnuQYesRFnAp4s6ZMn2DgCB7aB+iyUQyEYDKtqA6iBtswEZLsPM/R1pTb4v5kLDk5VkiK2eQi33A5kfDeSZ8MoStLZaj2HpFlraoS4PPVoK/zuvJVAVqFWOq1TIgzdJbtFVRRJlmmx4MajjNmErPM+LuL/hCLj1h+Blb2a4usiDuY6CCrE73VKGzVDEOfYf0XJuATakZe7u9UAd1hw4XjPovbckVB9U5i68lrF63uvDZVK9egBFxogVWX0QuAyQoOCapazW1Sw4sUmtaU7T9J0oxedTIEtX39rZvJO8vN7V3vtHUQ=;ceei6yMfT/S8hU0o+vNZ4Q=="
+secured: "lbOptjX99qk4Ty53Z9cMqVFWgOfQqadOVRMQbgdRFaYo1Qi0+9l4G7VO+Y1ocOMsABKOzOM12IFnCIyjTcb4wZdEjJLIJ0FecZxUp6ucDwWbWVURFW6QCYE1GpVm+G8gsMj6v03T5GpdRf3tS9sGJysl/FMz7WL2KavVcWquIuRJ+4BNInPeQ+TzV/6j19fFVN5kTDpX381TZJxp8vg7XCP3eQfLxvCbZ4equPbUWLhXZBidjvGuWUZblfb9z0ulwWytxxcGz7qKbQsHpKy3pHDfxukQjVxErhr7PIsb6mDa00cRSh4ucnffq7aLR79tgU7W4pkYMAkURDoL5fa3iwS91+fvLs3Yg+1KNt/hk8QeYIv1Dv8gX2Mpcg1nObKUG461ZzWT+jCEitn2NS1pJV7Z2/bOCV5FHJ65ZstGVaKkjtRnfROTw2H5JEvJR4qO6sn9UGzwe9o+OzNkQ6D7py5O9z6ii31tkJjOr9SXB4E/0+BB6xiaBIqGPUmNgkuIvxgQ9RZjuOU0gMxjOUCsvI/XWAEoo90PUi/9OtsPzow=;+viAN5PApbV/oE+hOL/czA=="
 ---
 

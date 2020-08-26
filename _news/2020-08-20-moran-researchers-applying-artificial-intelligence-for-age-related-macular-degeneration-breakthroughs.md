@@ -3,6 +3,7 @@ category: news
 title: "Moran Researchers Applying Artificial Intelligence for Age-Related Macular Degeneration Breakthroughs"
 excerpt: "A software based on artificial intelligence (AI) developed in collaboration with John A. Moran Eye Center physician-scientists Steffen Schmitz-Valckenberg, MD, and Monika Fleckenstein, MD, could assist age-related macular degeneration (AMD) research worldwide."
 publishedDateTime: 2020-08-20T02:49:00Z
+originalUrl: "https://healthcare.utah.edu/moran/news/2020/08/amd-ai-study.php"
 webUrl: "https://healthcare.utah.edu/moran/news/2020/08/amd-ai-study.php"
 type: article
 quality: 24

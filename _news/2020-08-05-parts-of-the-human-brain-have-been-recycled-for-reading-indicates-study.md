@@ -3,6 +3,7 @@ category: news
 title: "Parts of the human brain have been “recycled” for reading, indicates study"
 excerpt: "Humans began to develop systems of reading and writing only within the past few thousand years. Our reading abilities set us apart from other animal species, but a few thousand years is much too short a timeframe for our brains to have evolved new areas specifically devoted to reading."
 publishedDateTime: 2020-08-05T04:51:00Z
+originalUrl: "https://www.news-medical.net/news/20200805/Parts-of-the-human-brain-have-been-e2809crecyclede2809d-for-reading-indicates-study.aspx"
 webUrl: "https://www.news-medical.net/news/20200805/Parts-of-the-human-brain-have-been-e2809crecyclede2809d-for-reading-indicates-study.aspx"
 ampWebUrl: "https://www.news-medical.net/amp/news/20200805/Parts-of-the-human-brain-have-been-e2809crecyclede2809d-for-reading-indicates-study.aspx"
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200805/Parts-of-the-human-brain-have-been-e2809crecyclede2809d-for-reading-indicates-study.aspx"

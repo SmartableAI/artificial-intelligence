@@ -2,6 +2,47 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-13-maximizing-the-power-of-deep-learning-for-genomics.md",
+      "title": "Maximizing the Power of Deep Learning for Genomics",
+      "excerpt": "Researchers from the Max Delbrueck Center for Molecular Medicine (MDC) have developed a new tool that makes it easier to maximize the power of deep learning for studying genomics. They describe the new approach, Janggu, in the journal Nature Communications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/23274/aImg/43143/july13-2020-mdc-genomics-deep-learning-scientists.jpg",
+          "width": 1440,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274/amp",
+      "cdnAmpWebUrl": "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274/amp",
+      "publishedDateTime": "2020-07-13T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lab Manager",
+        "domain": "labmanager.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-11-zapata-ceo-christopher-savoie-the-qc-and-ml-business-use-case-is-a-when-not-an-if.md",
       "title": "Zapata CEO Christopher Savoie: The QC and ML business use case is ‘a when, not an if’",
       "excerpt": "Zapata CEO Christopher Savoie explains the quantum computing and machine learning business use case: \"It's just a matter of timing that nobody knows.\"",
