@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcmiami.com/news/local/icymi-police-used-facial-recogni
 cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/?amp"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 662
     isCached: true
-
-related:
-  - title: "A New Tool Aims to Protect Protesters From Facial Recognition With Deepfakes"
-    excerpt: "In an era in which facial recognition has made it easy for law enforcement and other organizations to search someone’s identity based on their face alone, the question of when it’s appropriate to share identifiable photos of protesters and activists ..."
-    publishedDateTime: 2020-08-21T19:53:00Z
-    webUrl: "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/"
-    ampWebUrl: "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 71
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/08/deeepfake-tool-PAGE-2020-640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "+F+u5RRmfJ2ZrygS/+2FNXgLAFQWhUDM/3vLJkSYmY+1Cf1dMkvv1QRyrq8AX/Jz9YdSEhp4ep2e9o/2iIZicNEAE9fBkUOD/g20S2I2N61oFKxTMnWrZbjZIxx3fwoG5Ik/meS7Tw+kaiiSrNqgolwdpoGVHEGDwXDV4BkglIykht2p1PUXA4EXxgzEhohUEITGNQLlEMRviZHXJwohyMH92ctBns8TKYLMlifY7Ne8GuJyR0HHOSXeD0Ru4ZGAfFLUdpMfzPWYUiOfMTJUGb3se6nIuDAd9Ys7bZCdKy4TAYhNiyCVGmQROhJtz0MpnjggOM7xwTfGV0Ym0fyLFuCsXW9jfdA/AYkI1cUII8cAK1bRaf4zGAHPRFviMS2geoU1DKCLDfPzX/fxbest31yZG3II0VFsGsmDstd5OX3arYPcabw1UYP/N6U6YNBSab5hYm6Zi1LQ4FH7HOp3dBnwdNtJJiPedRTuAyUrE9jSAJZeGfDwXa/5pD30XXY7I8rDH8pneI6dij6TkVBx2w==;aY7w4R8JPt7XTlINNU0guQ=="
 ---

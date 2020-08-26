@@ -2,6 +2,385 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-08-19-how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices.md",
+      "title": "How Can Businesses Take Deep Learning Out Of The Lab And Onto Intelligent Edge Devices?",
+      "excerpt": "Despite successful research and developments in lab settings, deep learning has yet to reach its potential in real-world deployments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/",
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdea7cf036822a957572d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/amp/",
+      "publishedDateTime": "2020-08-19T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-the-outside-context-problem-of-the-pandemic-underscores-the-importance-of-human-ai-collaboration.md",
+      "title": "The 'Outside Context Problem' Of The Pandemic Underscores The Importance Of Human-AI Collaboration",
+      "excerpt": "We’ve learned how humans and our machines can help each other gain crucial contextual awareness in situations where we would be unable to do so alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/the-outside-context-problem-of-the-pandemic-underscores-the-importance-of-human-ai-collaboration/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bd6aebee53d03e84653a1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/the-outside-context-problem-of-the-pandemic-underscores-the-importance-of-human-ai-collaboration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/19/the-outside-context-problem-of-the-pandemic-underscores-the-importance-of-human-ai-collaboration/amp/",
+      "publishedDateTime": "2020-08-19T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-five-ways-ai-can-help-revolutionize-mental-healthcare.md",
+      "title": "Five Ways AI Can Help Revolutionize Mental Healthcare",
+      "excerpt": "AI has the potential to revolutionize mental healthcare, ultimately making care more accessible, more responsive and more affordable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/five-ways-ai-can-help-revolutionize-mental-healthcare/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bd781a3e144a79d4653a1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/five-ways-ai-can-help-revolutionize-mental-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/19/five-ways-ai-can-help-revolutionize-mental-healthcare/amp/",
+      "publishedDateTime": "2020-08-19T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting.md",
+      "title": "14 Ways Artificial Intelligence Will Disrupt Job Searches And Recruiting",
+      "excerpt": "With AI being increasingly used in hiring and recruiting, company leaders need to be thinking of how they can effectively utilize it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/08/19/14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3af16974bbc69e4903f35b%2F0x0.jpg",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/08/19/14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/08/19/14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting/amp/",
+      "publishedDateTime": "2020-08-19T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work.md",
+      "title": "Hashtag Trending – Facial recognition in New York; Airbnb at Blockbuster; Swiping right at work",
+      "excerpt": "The New York City Police Department uses facial recognition to find a man who allegedly shouted into a police officer’s ear with a bullhorn, you may soon be able to experience the nostalgia of BlockBuster,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1",
+      "publishedDateTime": "2020-08-19T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-meet-your-post-pandemic-coworker-an-ai-bot.md",
+      "title": "Meet Your Post-Pandemic Coworker: An AI Bot",
+      "excerpt": "Ready to swap your old cube-mate for a disembodied AI? IPsoft CEO Chetan Dube, creator of AI co-worker AMELIA, gives his take on the post-COVID office landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot",
+      "originalUrl": "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/m/meet-your-/meet-your-post-pandemic-coworker-an-ai-bot_vxzc.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1",
+      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot?amp=1",
+      "publishedDateTime": "2020-08-19T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years.md",
+      "title": "Vroom vroom: AI reveals F1’s fastest drivers of the past 40 years",
+      "excerpt": "F1 and AWS have used an algorithm to rank the fastest drivers of all time, but not everyone is convinced by the system's calculations.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-19T105234.562-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/amp/",
+      "publishedDateTime": "2020-08-19T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-aaeon-and-aotuai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot.md",
+      "title": "AAEON and Aotu.ai Announce the Release of a Smart Vision AI Developers Kit on an Intel AI Platform for IoT",
+      "excerpt": "AAEON and AOTU.AI are excited to announce the launch of the BrainFrame Edge AI Developers Kit (DevKit) on an Intel AI platform for IoT that will allow developers and system integrators to rapidly create and deploy Smart Vision applications.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115",
+      "publishedDateTime": "2020-08-19T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-smart-dubais-artificial-intelligence-ethics-advisory-board-convenes-for-its-2nd-meeting-for-2020-explores-next-steps.md",
       "title": "Smart Dubai's artificial intelligence ethics advisory board convenes for its 2nd meeting for 2020, explores next steps",
       "excerpt": "The meeting was split into three main portions, presenting options for the future roll-out of tools for better AI, considering the potential of AI Audit Practices, and Cybersecurity.",
@@ -792,387 +1171,6 @@
         "AI",
         "AI Hardware",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-the-best-facial-recognition-cameras-to-buy-in-2020.md",
-      "title": "The best facial recognition cameras to buy in 2020",
-      "excerpt": "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/",
-      "featuredContent": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/BZx8A20yN8Le8NFHcd363ASKdQM=/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
-          "width": 3413,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/",
-      "publishedDateTime": "2020-08-18T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-cerebras-teases-second-generation-wafer-scale-ai-chip.md",
-      "title": "Cerebras teases second-generation wafer-scale AI chip",
-      "excerpt": "The existing Gen-1 has 18 gigabytes of DRAM on die. Lie told the audience to wait for details \"in coming months.\" Cerebras competes with established GPU heavyweight Nvidia and other startups such as Graphcore and Tachyum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cerebras-teases-second-generation-wafer-scale-ai-chip/",
-      "originalUrl": "https://www.zdnet.com/article/cerebras-teases-second-generation-wafer-scale-ai-chip/",
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/08/18/e43119bb-51bc-49d3-8654-5eb388e4b873/cerebras-wse-gen-2-preview-aug-18-2020.png",
-          "width": 3360,
-          "height": 2100,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cerebras-teases-second-generation-wafer-scale-ai-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cerebras-teases-second-generation-wafer-scale-ai-chip/",
-      "publishedDateTime": "2020-08-18T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-new-research-finds-fast-mri-scans-generated-with-artificial-intelligence-were-as-accurate-as-traditional-mri.md",
-      "title": "New Research Finds Fast MRI Scans Generated with Artificial Intelligence Were as Accurate as Traditional MRI",
-      "excerpt": "New research finds that rapid magnetic resonance imaging (MRI) scans generated with artificial intelligence (AI) were just as effective as, and were diagnostically",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/new-research-finds-fast-mri-scans-generated-with-artificial-intelligence-were-as-accurate-as-traditional/article_ef9113c2-3f11-5640-903b-add0a3df4046.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-mit-sloan-implementing-ai-from-exploration-to-execution.md",
-      "title": "MIT Sloan: Implementing AI from Exploration to Execution",
-      "excerpt": "Artificial intelligence is becoming a key component of business transformation ... Many of these enterprises use Amazon Web Services (AWS) as their technology platform for AI initiatives and access NVIDIA GPUs to speed up their machine learning applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/207272/mit-sloan-implementing-ai-from-exploration-to-execution",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus.md",
-      "title": "Chinese AI Giant Blacklisted By Trump Mints Money From Virus",
-      "excerpt": "The Hong Kong-based startup’s revenue surged 147% to 5 billion yuan ($720 ... to develop its own tech industry and overtake the U.S. in key sectors. Read more: AI Unicorn SenseTime Is Said to Mull Hong Kong, China IPO In the case of facial recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iclFGm8eeMXk/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "publishedDateTime": "2020-08-18T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-5-big-myths-of-ai-and-machine-learning-debunked.md",
-      "title": "5 Big Myths of AI and Machine Learning Debunked",
-      "excerpt": "Artificial intelligence (AI) and machine learning (ML) are already powering tools that can give your business decision making processes a massive upgrade. Here’s what you really need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/207255/5-big-myths-of-ai-and-machine-learning-debunked",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-amazon-now-offers-third-party-solutions-for-contact-center-ai.md",
-      "title": "Amazon now offers third-party solutions for contact center AI",
-      "excerpt": "Amazon today announced the launch of AWS Contact Center Intelligence (CCI) solutions, a combination of services that enables customers to integrate contact centers with AI through partners in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/18/amazon-now-offers-third-party-solutions-for-contact-center-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/18/amazon-now-offers-third-party-solutions-for-contact-center-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/amazon-now-offers-third-party-solutions-for-contact-center-ai/amp/",
-      "publishedDateTime": "2020-08-18T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri.md",
-      "title": "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI",
-      "excerpt": "The results of the joint effort, which originated at Facebook, show that accurate MRIs can be produced more quickly as AI functions with less data, researchers said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "originalUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-221966/social",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "publishedDateTime": "2020-08-18T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

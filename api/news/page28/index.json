@@ -2,6 +2,377 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-08-01-agilox-autonomous-mobile-robots-are-substantially-saving-costs-by-applying-artificial-swarm-intelligence.md",
+      "title": "AGILOX Autonomous Mobile Robots are substantially saving costs by applying Artificial Swarm Intelligence",
+      "excerpt": "Swarm Intelligence (SI) and bio-inspired computing have attracted great interest in almost every area of science and engineering, including robotics, over the last two decades.",
+      "sourceUrl": null,
+      "webUrl": "https://roboticstomorrow.com/story/2020/07/agilox-autonomous-mobile-robots-are-substantially-saving-costs-by-applying-artificial-swarm-intelligence/15483/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.roboticstomorrow.com/images/upload/images/Agilox.jpg",
+          "width": 500,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-01T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in August",
+      "excerpt": "Artificial intelligence (AI) is expected to add $15.7 trillion to the global economy by 2030, according to a study by PricewaterhouseCoopers. This huge figure consists of $6.6 trillion in increased productivity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F584910%2Fgettyimages-ai-text.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx",
+      "publishedDateTime": "2020-08-01T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-security-news-this-week-rite-aid-used-facial-recognition-in-stores-for-nearly-a-decade.md",
+      "title": "Security News This Week: Rite Aid Used Facial Recognition in Stores for Nearly a Decade",
+      "excerpt": "Rite Aid Used Facial Recognition in Hundreds of Stores for 8 Years Reuters this week published a deep investigation into the use of facial recognition technology by Rite Aid, which the drugstore chain deployed to 200 stores over the last eight years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f2458585fa1be63d9469833/master/pass/Security_riteaid_h_15252547.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/amp",
+      "publishedDateTime": "2020-08-01T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-us-armys-latest-ai-system-lets-humans-and-robots-have-conversations.md",
+      "title": "US Army’s latest AI system lets humans and robots have conversations",
+      "excerpt": "The United States Army has detailed the development of a new dialogue system that enables humans and robots to hold conversations. The new systems enable ‘fluid communication’ between",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/us-armys-latest-ai-system-lets-humans-and-robots-have-conversations-01631639/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/08/us_army_AI_robots_main.jpg",
+          "width": 1440,
+          "height": 828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/us-armys-latest-ai-system-lets-humans-and-robots-have-conversations-01631639/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/us-armys-latest-ai-system-lets-humans-and-robots-have-conversations-01631639/amp/",
+      "publishedDateTime": "2020-08-01T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-focusing-on-profitability-turned-around-the-ai-powered-travel-start-up-snaptravel.md",
+      "title": "Focusing On Profitability Turned Around the AI-Powered Travel Start-Up Snaptravel",
+      "excerpt": "Snaptravel's bookings had dropped by 80 per cent and they were scrambling to keep up with customers’ questions and requests to cancel bookings. But only two and a half months later, they reached their highest-ever rate of completed bookings per week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlmoore/2020/08/01/focusing-on-profitability-turned-around-the-ai-powered-travel-start-up-snaptravel/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1c900df8bfe1ec386785e2%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-01T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-nlp-poised-to-revolutionize-the-enterprise.md",
+      "title": "NLP poised to revolutionize the enterprise",
+      "excerpt": "Recent improvements in natural language processing (NLP) are bolstering mainstream technologies with speech and text capabilities, whether that's reading emails aloud in a natural-sounding voice ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3566378/nlp-poised-to-revolutionize-the-enterprise.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-whats-this-a-bipartisan-plan-for-ai-and-national-security.md",
+      "title": "What’s this? A bipartisan plan for AI and national security",
+      "excerpt": "Hurd (R-Tex.) and Kelly (D-Ill.) offered suggestions to prevent the US from falling behind China, especially, on applications of AI to defense and national security. They want to cut off China’s access to AI-specific silicon chips and push Congress and federal agencies to devote more resources to advancing and safely deploying AI technology.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2020/08/whats-this-a-bipartisan-plan-for-ai-and-national-security/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/07/business_military_535764174-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-01T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid.md",
+      "title": "Railways go hi-tech; use Artificial Intelligence, robotics to fight COVID",
+      "excerpt": "Robots deployed at railway stations to scan passengers and for surveillance; hospitals also use them to talk to COVID-19 patients",
+      "sourceUrl": null,
+      "webUrl": "https://www.mid-day.com/articles/railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid/22910331",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mid-day.com/images/2020/aug/Rakshak_d.jpg",
+          "width": 670,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.mid-day.com/amp/articles/railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid/22910331",
+      "cdnAmpWebUrl": "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid/22910331",
+      "publishedDateTime": "2020-07-31T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mid Day",
+        "domain": "mid-day.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-how-smart-are-ai-chips-really.md",
       "title": "How Smart Are AI Chips, Really?",
       "excerpt": "It’s like a GPU without the graphics hardware. Or conversely, a GPU is like an AI accelerator. Even a low-end graphics card or built-in GPU in an older laptop is also an ‘AI engine’ that is ...",
@@ -766,384 +1137,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-10-ways-ai-is-accelerating-devops.md",
-      "title": "10 Ways AI Is Accelerating DevOps",
-      "excerpt": "Looking to reduce the delays DevOps teams are challenged with, software development tool providers are accelerating the pace of integrating AI- and Machine Learning technologies into their apps and platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/31/10-ways-ai-is-accelerating-devops/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2429e63d796e6d0fcb189a%2F0x0.jpg",
-          "width": 1200,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/31/10-ways-ai-is-accelerating-devops/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/31/10-ways-ai-is-accelerating-devops/amp/",
-      "publishedDateTime": "2020-07-31T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic.md",
-      "title": "This CTO Says AI Technology Is Transforming The Pharmacy Industry In Time To Battle The Pandemic",
-      "excerpt": "AI technology can help pharmacists improve the speed and efficiency of manually intensive tasks – verifying medication, counting pills and maintaining adequate staff and inventory – while ensuring patient safety and adherence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f22d7618bde96bcd21f8127%2F0x0.jpg",
-          "width": 960,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/amp/",
-      "publishedDateTime": "2020-07-31T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-three-ai-companies-join-a-business-development-group-built-by-the-london-stock-exchange.md",
-      "title": "Three AI companies join a business development group built by the London Stock Exchange",
-      "excerpt": "The cohort will get help refining their investment pitches as well as access to the group's network of institutional investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/four-ai-companies-join-a-business-development-group-built-by-the-london-stock-exchange/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/80f8a384-b6e4-4b6c-84a2-2772265f460f/resize/1200x/df64878ff3f885d95ee20e01cd182572/istock-1148923626.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/four-ai-companies-join-a-business-development-group-built-by-the-london-stock-exchange/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/four-ai-companies-join-a-business-development-group-built-by-the-london-stock-exchange/",
-      "publishedDateTime": "2020-07-31T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-ai-generated-text-is-the-scariest-deepfake-of-all.md",
-      "title": "AI-Generated Text Is the Scariest Deepfake of All",
-      "excerpt": "When pundits and researchers tried to guess what sort of manipulation campaigns might threaten the 2018 and 2020 elections, misleading AI-generated videos often topped the list. Though the tech was still emerging,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-generated-text-is-the-scariest-deepfake-of-all/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f2346510a5102775c7122c5/master/pass/Feature-art.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-generated-text-is-the-scariest-deepfake-of-all/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-generated-text-is-the-scariest-deepfake-of-all/amp",
-      "publishedDateTime": "2020-07-31T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-amd-cdna-gpu-to-rival-nvidia-ampere-in-late-2020.md",
-      "title": "AMD CDNA GPU to rival Nvidia Ampere in late 2020",
-      "excerpt": "AMD has revealed that its first GPU designed specifically for computing and based on CDNA architecture will become available later this year. Being developed primarily for artificial intelligence and high-performance computing (HPC) applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Bd7dkokF6QEnDo8VEnUrrm-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "publishedDateTime": "2020-07-31T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-speech-recognition-software-market-to-boom-post-2020-ibm-microsoft-apple.md",
-      "title": "Speech Recognition Software Market to Boom Post 2020 | IBM, Microsoft, Apple",
-      "excerpt": "Latest released the research study on Global Speech Recognition Market offers a detailed overview of the factors influencing the global business scope Speech Recognition Market research report shows the latest market insights current situation analysis with upcoming trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2100309/speech-recognition-software-market-to-boom-post-2020-ibm",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T731312235_g.jpg",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2100309/speech-recognition-software-market-to-boom-post-2020-ibm",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2100309/speech-recognition-software-market-to-boom-post-2020-ibm",
-      "publishedDateTime": "2020-07-30T22:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-us-armys-conversational-ai-system-to-get-soldiers-and-robots-talking.md",
-      "title": "US Army's conversational AI system to get soldiers and robots talking",
-      "excerpt": "The US Army is working on a soldier-robot interface that uses spoke dialogue to control joint tasks in real-time. The Joint Understanding and Dialogue Interface (JUDI) is designed to reduce training costs while improving soldier/robot teamwork.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/5476be0/2147483647/strip/true/crop/1200x800+0+52/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F9a%2F1d%2Fa9bdcc024597b4c3de5538899385%2Fmax1200-2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/?amp=true",
-      "publishedDateTime": "2020-07-30T22:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-ai-model-training-execution-now-possible-on-mcus-via-one-tech-microai-atom.md",
-      "title": "AI Model Training & Execution Now Possible on MCUs via ONE Tech MicroAI Atom",
-      "excerpt": "ONE Tech estimates that MicroAI Atom algorithms, which run recursive analysis and reside directly on target MCUs at the edge, reduce the cost of deploying endpoint intelligence by a minimum of 80%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded-computing.com/home-page/ai-model-training-execution-now-possible-on-mcus-via-one-tech-microai-atom",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fcontent.cdntwrk.com%2Ffiles%2FaHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmMjQ2MWYwYTgxYWEuanBnJnZlcnNpb249MDAwMCZzaWc9OGFmNmQwMzFjZTgyMGI1YTRkZmU3YWMyNDI5MjExYTU%25253D&size=1&version=1596221948&sig=4129f72f361a989140869ee24c1429eb&default=hubs%2Ftilebg-blogs.jpg",
-          "width": 500,
-          "height": 272,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-30T22:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded Computing Design",
-        "domain": "embedded-computing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

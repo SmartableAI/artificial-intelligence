@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-26-ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award.md",
+      "title": "DDN Recognized for Innovation in Artificial Intelligence Data Management with 2020 AI Breakthrough Award",
+      "excerpt": "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today announced that DDN®, the global leader in Artificial Intelligence (AI) and Data Management software and hardware solutions enabling Intelligent Infrastructure,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
+      "publishedDateTime": "2020-08-26T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-coronavirus-may-help-best-buy-become-a-key-healthcare-player.md",
       "title": "Coronavirus May Help Best Buy Become A Key Healthcare Player",
       "excerpt": "Best Buy reported a better-than-expected second-quarter profit as coronavirus led consumers to buy appliances, computers and fitness gear to better their remote working and learning experiences. But the pandemic may also hasten its transition to becoming a major healthcare-industry player.",
@@ -240,6 +281,47 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-artificial-intelligence-finds-a-purpose-in-healthcare-because-of-covid-19.md",
+      "title": "Artificial intelligence finds a purpose in healthcare because of COVID-19",
+      "excerpt": "Artificial intelligence is having a bit of a moment in healthcare. Per countless reports, AI is seeing rapid adoption throughout healthcare to identify solutions to protect against the pandemic and gain an advantage against the seemingly unmitigated spread of the virus.",
+      "sourceUrl": null,
+      "webUrl": "https://exclusive.multibriefs.com/content/artificial-intelligence-finds-a-purpose-in-healthcare-because-of-covid-19/pharmaceutical",
+      "originalUrl": "https://exclusive.multibriefs.com/content/artificial-intelligence-finds-a-purpose-in-healthcare-because-of-covid-19/pharmaceutical",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://exclusive.multibriefs.com/images/exclusive/0427EHR.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-21T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MultiBriefs",
+        "domain": "multibriefs.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1310,89 +1392,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-black-hat-hackers-can-remotely-hijack-enterprise-healthcare-temi-robots.md",
-      "title": "Black Hat: Hackers can remotely hijack enterprise, healthcare Temi robots",
-      "excerpt": "Robots used in hospitals and care homes to assist patients and the vulnerable can be fully hijacked by cyberattackers.  On Thursday at Black Hat USA, McAfee's Advanced Threat Research (ATR) team disclosed new research into the robots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/",
-      "publishedDateTime": "2020-08-05T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-nih-harnesses-artificial-intelligence-and-medical-imaging-to-fight-covid-19.md",
-      "title": "NIH harnesses artificial intelligence and medical imaging to fight COVID-19",
-      "excerpt": "The National Institutes of Health has launched the Medical Imaging and Data Resource Center, an ambitious effort that will harness the powers of artificial intelligence, and medical imaging to fight COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20200805/NIH-harnesses-artificial-intelligence-and-medical-imaging-to-fight-COVID-19.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200805/NIH-harnesses-artificial-intelligence-and-medical-imaging-to-fight-COVID-19.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200805/NIH-harnesses-artificial-intelligence-and-medical-imaging-to-fight-COVID-19.aspx",
-      "publishedDateTime": "2020-08-05T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

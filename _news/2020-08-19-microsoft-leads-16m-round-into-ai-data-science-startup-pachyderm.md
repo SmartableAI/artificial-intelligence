@@ -3,6 +3,7 @@ category: news
 title: "Microsoft leads $16M round into AI data science startup Pachyderm"
 excerpt: "Pachyderm provides an open-source data science platform that runs on Kubernetes. The platform focuses on a narrow but important use case: making it easier for software engineers to manage the data that they use in AI development projects."
 publishedDateTime: 2020-08-19T20:51:00Z
+originalUrl: "https://siliconangle.com/2020/08/19/microsoft-leads-16m-round-ai-data-science-startup-pachyderm/"
 webUrl: "https://siliconangle.com/2020/08/19/microsoft-leads-16m-round-ai-data-science-startup-pachyderm/"
 type: article
 quality: 37

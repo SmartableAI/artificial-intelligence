@@ -20,17 +20,22 @@ topics:
   - AI
 
 related:
-  - title: "COOLPO releases revolutionary All-in-One 360° 4K intelligence conference solution"
-    excerpt: "COOLPO announces the launch of the AI Huddle PANA, a feature packed intelligence conference solution. Virtual meetings have become necessary and universal, as remote working becomes more and more common."
-    publishedDateTime: 2020-08-25T13:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/coolpo-releases-revolutionary-all-in-one-360-4k-intelligence-conference-solution-1029531934"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/coolpo-releases-revolutionary-all-in-one-360-4k-intelligence-conference-solution-1029531934"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/coolpo-releases-revolutionary-all-in-one-360-4k-intelligence-conference-solution-1029531934"
+  - title: "HGS surges over 3% after digital arm joins AWS Contact Center Intelligence solutions partner program"
+    excerpt: "HGS Digital LLC, a subsidiary of Hinduja Global Solutions Ltd today announced its participation as an Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions partner program. Hinduja Global Solutions is currently trading at Rs739,"
+    publishedDateTime: 2020-08-24T06:37:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-top-story/hgs-surges-over-3-after-digital-arm-joins-aws-contact-center-intelligence-solutions-partner-program-120082400154_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/hgs-surges-over-3-after-digital-arm-joins-aws-contact-center-intelligence-solutions-partner-program-120082400154_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/hgs-surges-over-3-after-digital-arm-joins-aws-contact-center-intelligence-solutions-partner-program-120082400154_1.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 44
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2015-03/30/full/1427718356-7816.jpg"
+        width: 350
+        height: 233
+        isCached: true
   - title: "HGS DIGITAL Joins AWS Contact Center Intelligence Solutions Partner Program"
     excerpt: "HGS Digital LLC, a subsidiary of Hinduja Global Solutions Ltd (listed in BSE & NSE), today announced its participation as an Amazon"
     publishedDateTime: 2020-08-24T19:06:00Z

@@ -3,11 +3,9 @@ category: news
 title: "Artificial intelligence finds a purpose in healthcare because of COVID-19"
 excerpt: "Artificial intelligence is having a bit of a moment in healthcare. Per countless reports, AI is seeing rapid adoption throughout healthcare to identify solutions to protect against the pandemic and gain an advantage against the seemingly unmitigated spread of the virus."
 publishedDateTime: 2020-08-21T13:27:00Z
-webUrl: "https://exclusive.multibriefs.com/content/artificial-intelligence-finds-a-purpose-in-healthcare-because-of-covid-19/medical-allied-healthcare"
+originalUrl: "https://exclusive.multibriefs.com/content/artificial-intelligence-finds-a-purpose-in-healthcare-because-of-covid-19/pharmaceutical"
+webUrl: "https://exclusive.multibriefs.com/content/artificial-intelligence-finds-a-purpose-in-healthcare-because-of-covid-19/pharmaceutical"
 type: article
-quality: 53
-heat: 53
-published: false
 
 provider:
   name: MultiBriefs
@@ -23,6 +21,6 @@ images:
     height: 420
     isCached: true
 
-secured: "WE0HXNLbF90fSwQa6fDpcH2wEdsu3Elf1g8TbGJV+s0PBvgTgJTl+/86ig5PQfCDGgPDfnH1IL6ap5IErW18ID9xKvjfqyC+kPUeLhEYK9nYkGebfiHkQQBdm7FB+Dv5FtLThxOs0nE7zIO1OX39MTi9RNPePiHWWRLuOD2Y6XiInpQUlzQXOZusRC62gJi2OD+SlH+WXfzLv+moUaHxKkuY+dSgy/9bDqFg+P6EPclnfe3anpJKb2XLkP/eHe9jDVDro5etgLEqNQitqVI61PjXMC+3mFaOASrxK/bqMSP4e9kvbBZXpx7alAasqnl98I2d9v5ZEfFt9qPfjmY+UQ==;xWVE2es0c5W/bIFX5Yx7HQ=="
+secured: "ku5oS5jj1lr/PYJbqYHZj03EFoU1u+jB+CK3YGlav12HOPrcK1g3V3JSpG7dZb1l9ApUrsuVNk28OoS/xv8tUzf6Mznr3FXzG9VVI1HmLWxnVM2aXomb2uqGf96eJU8Ry1nm2Rk0/lkk8iPz145cBInR9ishKs5yXAkHKt1BM6mGHNd8Z6ec14NIndkneqPD/ASXp5Ha7rV+cYrmZPO6UdCC7cTeSqRM+qb2FGr71d93SsxEBazCvizQXrm2CTpPW9iC4kokXPDY803yLT1VW+Gyqqhkjp/R25vbwxk65BWyB2UCapmykpocC0KbSqFMXBhCQincyOljhawFeFC1bLQdKTw0BGY8FBGLayWPT3A=;qxQme+NAqv7t3FyF5JYOeQ=="
 ---
 

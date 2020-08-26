@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Microsoft introduces Hindi, Indian English to Neural Text-to- Speech service"
-excerpt: "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech for a more natural interface.The service also provides customizable voices, fine-tuned auto control, and flexi"
-publishedDateTime: 2020-08-25T07:55:00Z
-originalUrl: "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-11598339825477.html"
-webUrl: "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-11598339825477.html"
-ampWebUrl: "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp-11598339825477.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp-11598339825477.html"
+title: "Microsoft introduces Hindi, Indian English to Neural Text-to-Speech service"
+excerpt: "With natural-sounding speech that matches the stress patterns and intonation of human voices, Neural TTS significantly reduces listening fatigue when users are interacting with AI systems."
+publishedDateTime: 2020-08-25T09:18:00Z
+originalUrl: "https://yourstory.com/2020/08/microsoft-introduces-hindi-indian-english-neural-text-speech"
+webUrl: "https://yourstory.com/2020/08/microsoft-introduces-hindi-indian-english-neural-text-speech"
+ampWebUrl: "https://yourstory.com/2020/08/microsoft-introduces-hindi-indian-english-neural-text-speech/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/microsoft-introduces-hindi-indian-english-neural-text-speech/amp"
 type: article
-quality: 41
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: Your Story
+  domain: yourstory.com
 
 topics:
-  - Machine Learning
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://images.livemint.com/img/2020/08/25/600x338/2020-08-03T164404Z_5_LYNXMPEG720HH_RTROPTP_3_MICROSOFT-TIKTOK_1596761246173_1598340721227.JPG"
-    width: 600
-    height: 338
+  - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Microsoftpng1572886233736png?fm=png&auto=format"
+    width: 800
+    height: 400
     isCached: true
 
 related:
@@ -172,6 +172,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "o3PA0zMc1fgIvgNXmKII+RJOJnGINskhVGQd236qtpxcpj1eNwY+W1UD9LQt8CzJMu2geWcLLSM0IgPfBuD1ID8TsG2obO2zAbk4drsCYafr0AF0Gja6OxEv5ulpSPSmaJDi56QNb153kjXYn6VEjMkUruD6Cn/HP91hi566ALs4vOKO6np8ObKlZVGEekCN3D7LLFnjjj2yuYc9HHXy365DQUb+CAqT2TKnaFK8Le5JK2b/aoldgGtBZn3FpJyAyb0trYVUa/Lyax+KGniRWIJ5wKf8295tbRep41XlKailnfF4nBARtVJWswoJt++/tC1aiXOcE+ow/V333rJTHQFUnXx0kmZYkNcqF/QQPVs=;NBPFPo/YoEcX9GkbKbHioQ=="
+secured: "fY9rI2YrKoROTXCo4dSgcIsGVx7QNnaB46IguiASs0fsB+wZDviH/7iRGdI8I0pR6ff8EgbtDbT3GklhsJeQ88OTalWWgW5xzhjsb4Ye6SpqP5kWQl4zjh0fKPc4fwbA2RDbV1WsfQkn4dj/FiI4iJKAMGC2gPOvrFoQfaTgzVDTg3vhv1VLteZEWb6uV7nFCCBbFvq8wtq+5zMqztOOcEejuo5JgSuQH1WYhVrgkufuzNLyHRMzjTBSt2RSR06CgVcJ5+SRVi75qPvgisRW2Y4LMRKUZxMmXOMYU9ukHZKOZ9JwEN8Gsjn3G+t6B3OhC2A+L6ggKqtqfSnZucirm9YEZIoRcAbcKPrDogRBvb0=;wQ4uk7FSRzm+9jel6UjpFA=="
 ---
 

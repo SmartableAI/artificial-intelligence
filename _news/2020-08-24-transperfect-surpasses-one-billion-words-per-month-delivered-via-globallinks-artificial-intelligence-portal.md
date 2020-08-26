@@ -3,6 +3,7 @@ category: news
 title: "TransPerfect Surpasses One Billion Words Per Month Delivered via GlobalLink’s Artificial Intelligence Portal"
 excerpt: "TransPerfect, the world’s largest provider of language and technology solutions for global business, today announced that the adoption of its GlobalLink AI Portal machine translation (MT) solution for corporate clients continues to grow and has now surpassed the one billion words per month milestone."
 publishedDateTime: 2020-08-24T16:00:00Z
+originalUrl: "https://apnews.com/204812714e1c4a73bd04f236361736a7"
 webUrl: "https://apnews.com/204812714e1c4a73bd04f236361736a7"
 type: article
 quality: 18

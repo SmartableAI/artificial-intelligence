@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Word: How the new transcription feature works and how it compares to other services"
+    excerpt: "Word can now turn a conversation or meeting into text ready to use in a document, but that might not come to desktop Word for a while."
+    publishedDateTime: 2020-08-26T11:52:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 78
+    images:
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2020/08/26/6edd296a-482a-40b9-837f-6715b2869887/resize/400x/5cfb2e68f8e346a2d980b56f4a756443/word-transcribe-desktop.jpg"
+        width: 400
+        height: 521
+        isCached: true
+  - title: "Microsoft Word for the web now lets Office 365 users record and upload audio for transcription"
+    excerpt: "If your job requires extensive work with documents or routinely organizing meeting notes, transcribing can be an invaluable tool to save time or catch that important detail that inadvertently got overlooked the first time."
+    publishedDateTime: 2020-08-26T13:27:00Z
+    webUrl: "https://www.techspot.com/news/86514-microsoft-word-web-now-office-365-users-record.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/86514-microsoft-word-web-now-office-365-users-record.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86514-microsoft-word-web-now-office-365-users-record.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 77
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-26-image.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft Word To Take Voice Commands, Transcribe Recordings"
     excerpt: "Microsoft said that updates to Office 365 will allow users to record conversations \"directly in Word for the web and transcribe them automatically.\""
     publishedDateTime: 2020-08-25T20:55:00Z
@@ -57,7 +89,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft announces two new innovative features for Microsoft Word"
+    excerpt: "Microsoft announces two new features for Microsoft 365 subscribers, that will allow users to use Microsoft Word in an innovative way."
+    publishedDateTime: 2020-08-26T09:27:00Z
+    webUrl: "https://www.kunal-chowdhury.com/2020/08/microsoft-word-transcription-and-dictation.html"
+    type: article
+    provider:
+      name: kunal-chowdhury.com
+      domain: kunal-chowdhury.com
+    quality: 39
+    images:
+      - url: "https://3.bp.blogspot.com/-OSuPlpB8TFQ/X0Yp8GAnfsI/AAAAAAAAbNo/DNpIi3uQlsAEAJDxVfNLAgggzY3zkJ1FACLcBGAsYHQ/s0/word-transcribe-and-dictation-features-min.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
-secured: "FfyzURT/iqwEt5gOJkYSgw992MQK/G9I/3C8e48Ab/Je8cYZ2Sha5UtC09zAxMKsqTk4GaxtCR196gxwc3EQ9VkUd11OQjOLflHMOwWh5mAm2djjWICQ1jPLGpveT6uhcsJ4yidJDN9efLiP2jaiZvAIMxf9x5FtD1nj/EZeo/V6GSg2xPi2mLxPSy0DlDULYA35qDWWysXIoeFG2VZEwhsswa8/zaLMJWhXuHZMAH2uBKmNfYfSnh74phK+/gvA52pF2nbuwzkdkj72hQfZ3/F9til/uSvzi0i3YgBSrdtU6lNFDjRtMV9azAzgRGz2/yigGt6h322sMcL/rZgqiRR8Elq/jkIU/PSRDBdRx9Q=;FbqvLrdo9Tk2gooS6TYeeg=="
+secured: "rYfmRh//OIdMQkwYlg0+Xb4xb8DjTMnAIJefPH6CizzbD0/3pQJwyu3PZzpSUP0ctGrA/n3tQeiZ8cWELbNfaAWA2JU6UDoxj6W+pW/v45LBOzssKKAMy5kzWcFDFIesU/5+KYYLXNkze1Fy3nTbrnXenMkUjFJYDhQAm5WU84CJR54IfuZbMA0cRB7lHgkQMgeK3gXbtaK+ajH+bGruz8QLdKccI6UhfjynW3HePu3WDL27glkQWzCt32y/pvwVaUuZMoiziUY3lAr0pGttOlj4sqLdOt6QG2KjaAnN6t+BTtiRy1OUj84iTMA1u02rmrFBbCvfi0G2OW9vgsvty6eoAaLynVAYj/8qQ0fsgOIwXbcqXF9Z7LaVXHNLhCsutAQb1FKJouDpuX8N93Mc8nAfdxj+iX6u/W2hYPxKoyRop6nuIqO904GWBCKLVyiXEWGIUmt7Wngo29aXdxEYh3eECinXDH1bQqXHNltbk67IbDAaEWCfbarkYZBQFJOADGWpVY2Pg18H/AiYaLi4Ou7HNYvHqT08Z4nuGDivvLs=;7PTBUqxlgfp1segWdN18IQ=="
 ---
 

@@ -3,6 +3,7 @@ category: news
 title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
 excerpt: "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace - their online stores"
 publishedDateTime: 2020-08-21T21:50:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html"
 type: article
 quality: 69

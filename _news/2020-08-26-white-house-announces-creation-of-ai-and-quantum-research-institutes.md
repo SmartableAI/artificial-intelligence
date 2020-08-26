@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "National Science Foundation announces MIT-led Institute for Artificial Intelligence and Fundamental Interactions"
+    excerpt: "The National Science Foundation's new AI Institute for Artificial Intelligence and Fundamental Interactions will be anchored at MIT, merging research in AI and physics to answer outstanding questions about topics such as dark matter,"
+    publishedDateTime: 2020-08-26T13:15:00Z
+    webUrl: "https://news.mit.edu/2020/nsf-announces-mit-led-institute-artificial-intelligence-fundamental-interactions-0826"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 46
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202008/iaifi-mit-announcement-00.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "D91Dl12AJ2jT75PG54FNfN6wvSoAe8cb3bRk3pb3Zd4f8PDBjbNHfLSG4Vp07yVkAEj34vQHpLsAILYE8XalOJBFyDdMwUwDYLk+FSJgtcFOAlYZyRmtw2e0OjVE6GF5kpoM0PoLYDrj9Ktow30NfEIqrc7b/8pRhMpEWsgD0hy4+qATQO/h+Xc/1qfqM55ok3zjCuiNsOnHvVOXpJKsyDWqHDiP0wZkcLffwwT1UWwJpxx/aA9Tvn2W5sYjyyUwU85zszo2+panicb6T6J/9nBr+bdoEVWjjnkhM/nyfmoGtHO1J/kJvqILnCLSOq27FG/1pu+LHG3xmLykb4EpeKO70kF7E6SZM/F0qenBqAM=;2PirhxvaWWOaFCoYdA/PyA=="
 ---

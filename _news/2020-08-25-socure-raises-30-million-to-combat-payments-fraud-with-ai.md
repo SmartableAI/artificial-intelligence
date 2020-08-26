@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-comba
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Synthego raises $100 million for AI-driven gene editing"
+    excerpt: "Synthego, a startup developing a platform for gene editing experiments, has raised $100 million more in venture capital financing."
+    publishedDateTime: 2020-08-26T13:04:00Z
+    webUrl: "https://venturebeat.com/2020/08/26/synthego-raises-100-million-for-ai-driven-gene-editing/"
+    ampWebUrl: "https://venturebeat.com/2020/08/26/synthego-raises-100-million-for-ai-driven-gene-editing/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/synthego-raises-100-million-for-ai-driven-gene-editing/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/0-3-e1598322103316.jpeg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "kQohAGE18vwN4v6VYPyfsW/wJFRv8m0Z1YKnLgtwg1zwWziSZURpVtPCM8oqJies8MdlRUPR4aBhxs5Lnfti6tYMM5j6eQg2H2ar21nXEsdf1wp8dOZ5HEun9OpTo71SzR3ZSiIU1gixL0lqJeSDKNdtNt79XkjcgH6+Neo14OQ3RSggPAraEmQn/RWzMZggaZ1Rao8UEwQU8zteJjFZwx2um7wK3sC7hbR28jaBB53w6FN5am1LssBp8kHB8XjNKGOV9uwBssz+7Y/c6abX3GLvLvv0hx18wZEcfBmp2xsmcQdDRyHxpkIR4CfgEVbwoqMFYkU+/bRBqAjRwerIOHUZajr2CC+PyBCczV/vyMl88sbLXcdzfcgAhM6YUGHIWBIGfvGIK0Tr/E+mpWoOHQ8GykuVAf7+AUGiDx6pnYK6g0OrjmhxTpQEixM9GuD9v0RpDCP/jpjRmrybgpu5xGCQzxZj31Y2STchwiKajRUA8b1bawYYJibPwJaNUyO0PIT8BzguVC5AphW0/H9nlQ==;MWbL2hafSEXFahbtHAxcZA=="
 ---

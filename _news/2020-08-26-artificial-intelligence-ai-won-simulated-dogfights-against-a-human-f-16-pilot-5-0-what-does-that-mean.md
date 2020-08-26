@@ -70,6 +70,34 @@ related:
         width: 450
         height: 375
         isCached: true
+  - title: "AI thrashes human fighter pilot 5-0 in simulated F-16 dogfights"
+    excerpt: "In the first contest of its kind, artificial intelligence has taken on a trained US Air Force pilot in a simulation of air-to-air combat. The AI defeated the human with ease, winning 5-0"
+    publishedDateTime: 2020-08-25T10:48:00Z
+    webUrl: "https://www.newscientist.com/article/2252760-ai-thrashes-human-fighter-pilot-5-0-in-simulated-f-16-dogfights/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/08/25112101/gettyimages-181827043_web.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI beat a fighter pilot in a simulated dogfight — was it just ‘AI theater’?"
+    excerpt: "The virtual AI dogfight was a \"cool\" way to get AI into warfare, but was more \"theater\" than anything else, some experts said."
+    publishedDateTime: 2020-08-24T19:58:00Z
+    webUrl: "https://www.fedscoop.com/ai-beat-a-fighter-pilot-in-a-simulated-dogfight-was-it-just-ai-theater/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 35
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/08/5083051.jpg"
+        width: 4533
+        height: 3026
+        isCached: true
 
 secured: "sxePvUgXB3feYkijY1X5gPuT+lEl+4mUV+IW2FSY91zMZzTzZTHcjOCUy/ZggH69kAewHF2Ei0N94Yq+GJx8n+UzJYdKfzAsxoOkKgM+Lq3qGpxJ63D8r1f714Etsg/klTZQ5+iYhb5SfkogwDSnfwx9jAYNlS0pvPvyHRqgXXN07LbWKELjVA4tRZIXX2QhzQjU3Dv63wIJ4us3PTx5UDbCHRlYw5m5EWaWWiFSWWdSLjWQLb9+RynOkmVPaYlgeTQ1eNpj682hfF1yXaXIxzFnXV/hw+Q/qxkxlHAIbEO34wC1uA5mWJVkmwMRH60aRJP1ZzJ0/ur0NHHhmL/G89F05FgpjEX+ccj4Bw1RzyU=;HtxUaycSqtmO1KuB0eY1fQ=="
 ---

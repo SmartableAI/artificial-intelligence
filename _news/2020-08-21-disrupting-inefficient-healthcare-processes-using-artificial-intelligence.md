@@ -3,6 +3,7 @@ category: news
 title: "Disrupting Inefficient Healthcare Processes Using Artificial Intelligence"
 excerpt: "Eric Yang (MSAI ’19) shares how his time in the first cohort in Northwestern Engineering’s Master of Science in Artificial Intelligence (MSAI) program helped him pivot his career in health care."
 publishedDateTime: 2020-08-21T00:30:00Z
+originalUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2020/disrupting-inefficient-healthcare-processes-using-artificial-intelligence.html"
 webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2020/disrupting-inefficient-healthcare-processes-using-artificial-intelligence.html"
 type: article
 quality: 53

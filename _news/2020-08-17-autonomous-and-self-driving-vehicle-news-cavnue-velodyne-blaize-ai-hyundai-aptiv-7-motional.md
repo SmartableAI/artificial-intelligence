@@ -3,6 +3,7 @@ category: news
 title: "Autonomous and Self-Driving Vehicle News: Cavnue, Velodyne, Blaize AI, Hyundai, Aptiv 7 Motional"
 excerpt: "In autonomous and self-driving vehicle news are Cavnue, Velodyne, Blaize AI, Hyundai, Aptiv and Motional. State of Michigan Looking at Autonomous Avenue Cavnue is undertaking a feasibility"
 publishedDateTime: 2020-08-17T02:48:00Z
+originalUrl: "https://www.autoconnectedcar.com/2020/08/autonomous-and-self-driving-vehicle-news-cavnue-velodyne-blaize-ai-hyundai-aptiv-7-motional/"
 webUrl: "https://www.autoconnectedcar.com/2020/08/autonomous-and-self-driving-vehicle-news-cavnue-velodyne-blaize-ai-hyundai-aptiv-7-motional/"
 type: article
 quality: 28

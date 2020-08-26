@@ -24,37 +24,51 @@ images:
     isCached: true
 
 related:
-  - title: "AI Murder Machine Kicks Air Force Pilot's Ass in DARPA's Simulated Dogfight Contest"
-    excerpt: "Anyone remember the 2005 sci-fi movie Stealth? As far as I can remember, it involves a secret, artificially intelligent U.S. Air Force fighter plane that rebels against its creators when it is struck by lightning."
-    publishedDateTime: 2020-08-21T19:31:00Z
-    webUrl: "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672"
-    ampWebUrl: "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp"
+  - title: "AI pilot beats human in clean sweep of virtual F-16 dogfights, human fails to register a single hit"
+    excerpt: "An AI pilot defeated a human pilot in a clean sweep of virtual reality dogfights, with experts hailing the victory as a significant moment for artificial intelligence, sources reported."
+    publishedDateTime: 2020-08-23T17:20:00Z
+    webUrl: "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep"
+    ampWebUrl: "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 81
+      name: Fox News
+      domain: foxnews.com
+    quality: 73
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pkvkr2tadkg4dlsaanph.png"
-        width: 800
-        height: 450
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/F-16CM-Fighting-Falcon-3-DVIDS.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "A US Air Force F-16 pilot just battled AI in 5 simulated dogfights, and the machine emerged victorious every time"
-    excerpt: "A DARPA expert said that the AI demonstrated \"superhuman aiming ability\" during the dogfight. The human pilot never scored a single hit."
-    publishedDateTime: 2020-08-21T20:05:00Z
-    webUrl: "https://www.businessinsider.com/ai-just-beat-a-human-pilot-in-a-simulated-dogfight-2020-8"
-    ampWebUrl: "https://www.businessinsider.com/ai-just-beat-a-human-pilot-in-a-simulated-dogfight-2020-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-just-beat-a-human-pilot-in-a-simulated-dogfight-2020-8?amp"
+  - title: "AI vs. Human Fighter Pilot: Here's Who Won the Epic Dogfight"
+    excerpt: "The dogfight is part of a DARPA-led effort to develop AI for fighter planes. The AI won an important string of victories but robotic air combat still has a ways to go. An artificial intelligence claimed victory over several other AIs in simulated dogfights and then went on to trounce a real human Air Force pilot,"
+    publishedDateTime: 2020-08-25T13:20:00Z
+    webUrl: "https://www.popularmechanics.com/military/aviation/a33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
+    ampWebUrl: "https://www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 57
     images:
-      - url: "https://i.insider.com/5f36f6a2e89ebf001f044e87?width=1200&format=jpeg"
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-08-25-at-8-14-56-am-1598357785.png?crop=0.981xw:0.895xh;0.00321xw,0&resize=1200:*"
         width: 1200
-        height: 600
+        height: 599
+        isCached: true
+  - title: "AI Beats Human In Mock Dogfights"
+    excerpt: "An artificial intelligence algorithm beat an “experienced” F-16 pilot in five straight simulated dogfights in a project designed by the Defense Advanced Research Projects Agency on Aug. 20. The pilot was up against an AI system named Heron and and the two duked it out in a Second World War style forward firing gun battle."
+    publishedDateTime: 2020-08-23T23:32:00Z
+    webUrl: "https://www.avweb.com/aviation-news/military-aviation/ai-beats-human-in-mock-dogfights/"
+    type: article
+    provider:
+      name: AVweb
+      domain: avweb.com
+    quality: 37
+    images:
+      - url: "https://s30121.pcdn.co/wp-content/uploads/2019/12/avweb-aviation-search-banner3.png"
+        width: 450
+        height: 375
         isCached: true
   - title: "AI beat a fighter pilot in a simulated dogfight — was it just ‘AI theater’?"
     excerpt: "The virtual AI dogfight was a \"cool\" way to get AI into warfare, but was more \"theater\" than anything else, some experts said."
@@ -69,6 +83,20 @@ related:
       - url: "https://www.fedscoop.com/wp-content/uploads/2020/08/5083051.jpg"
         width: 4533
         height: 3026
+        isCached: true
+  - title: "Artificial intelligence (AI) won simulated dogfights against a human F-16 pilot, 5-0; what does that mean?"
+    excerpt: "The next steps for the ACE program include integrating an AI agent into a small-scale combat aircraft and eventually to a full-size manned fighter."
+    publishedDateTime: 2020-08-26T10:06:00Z
+    webUrl: "https://www.militaryaerospace.com/computers/article/14182279/jet-fighter-artificial-intelligence-ai-dogfight"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 34
+    images:
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/08/F_16_26_Aug_2020.5f451167108a8.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 708
         isCached: true
 
 secured: "2/erHKmGxnbgV169gdvCkH03FeElgA1dKTilq7tYjfCghZbbIXtzR/Ds2Cf/XnidZzWUbnQof7SJhH6wUiax2HSiXtfC8LsLS2FK+wqn28weK/c1GY4tMuiijjfdWmoEOhXcndujq8PJk7d9nZMUBxUPPcpidSdhkLEPvGL8LE9rtBzluaeSoZms5DifiL0yrETbTiC6WXwctRJC/keUj7yH7uN5kasw08m8ivt6QSj0ezcgDeSb1w8sw8TnK9MrzwI879zfVycX2BFN3HZziZtGnNnNMEYxlTXO760v6T9Xd3dWBOwKsO69dtyUS7GqpZlMyIHlYbhmmhkUxAUI7LBsWODO1iagMbRdYCaXEpcy6LqWNqktEgeZFgFQ+g4CrZKet+IgUZWK7O/5HzbcMGY6Mh2JWhjwkjE2TIA/gp6PNzMtCRsuhbJpqDCobK29WC9DRW/dVjyehb4N2cxK/+MersFPn+w1ZSPE+u611tukxoqfdsCQ70EMehgvA8kvWeyjo2oKLqfpUit/OYA52A==;ClFX23rDnScWzGoVonx5FA=="

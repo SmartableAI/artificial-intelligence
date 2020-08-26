@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-26T10:05:00Z
 originalUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-neuralink-brain-computer-chip-ai-event-when-a9688966.html"
 webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-neuralink-brain-computer-chip-ai-event-when-a9688966.html"
 type: article
-quality: 28
+quality: 45
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/04/22/11/elon-musk-neuralink-brain-machine.jpg"
@@ -58,6 +59,6 @@ related:
         height: 476
         isCached: true
 
-secured: "ppG9AbsJNw+t9NUNMt5oZ7Sfj2eVGC0bzxMXSAdG8eb4VJQH+3uugMrs8KvuoSbePGK/wa0YvnJ+gkijapy/XnTtexPPryyuIwvuX4YG3/IIiNMiQF9iEL7bXTqnE21odb9a1SU98/p9kC1Od3arPISuD58lfm63WPGSZsLdNYnR+tO0kO42YRsribiX3S9TzYQfV/Ps79PcBZZyoqtXxxnoxWNxcwhDWgG3+Xui02T0Q8RXd7EOsRyoy1LuwMgsa10uTr3gNR6RaUHeojGMnbsnuVlu8IpBD1oF+Hi4NpxH/osulBaj0hiJpXdUPfLjWd5c/S+tzokIqe1mlL0QvhpeEjG1S8OawhFKBiDHijc=;IrB6NaV9yvkoag2E8Qh1aQ=="
+secured: "IK6ML4vjiiySrrU4+1ykYYvR27BlD1zEko3hvGddELT+9TrSrY73KgRKNUcfS0R2Ak1iQmffQ1UoTOR1rooiHZFov06c5jjre0ZXWqx7+rfaFRFmI+/bLmwwe7p2QzAuBoamLeSLkM3/eW1qDdvYPNsBfDQOmPq9Q00BFhUez6ffLGJy62wG2VkX1tl5mjqOHj1d/74uLNpJXNIw4uyKo7yj9VCbX3u6OQys1OcUKl66n3YbbbXQG5mmcV68qyAXdwqO+UsbAvNR+zwsvjTmVrQ72C45HFehUoamCIoks8KMhuxsrYRtwHWITNDukOzDEJWZGJLstaTu6LbNZ/+p9Rt42qeKBMNJByTwBmzcZWj9H1jrd9CCZgpdkTwwGw3Mc3i/FCrQ8g+32eHMo7KcFjbK6ORLA8V34QJUcmPQTYLNQDfC+jOeV75MZuooGT/1GBC5kAO0fbsQU4k0cE4eNPquTyFbDVG1v1bLlTa88JWC8h6g+fmkMaguJ4O1bGkkyXkhOVeG/8lKIHM37nx//fOL7LM51P2FovJahoRJ5qc=;63nqH/XM7NZprRIcTu00eQ=="
 ---
 

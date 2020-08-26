@@ -55,7 +55,7 @@ related:
     provider:
       name: The Independent
       domain: independent.co.uk
-    quality: 28
+    quality: 45
     images:
       - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/04/22/11/elon-musk-neuralink-brain-machine.jpg"
         width: 1113

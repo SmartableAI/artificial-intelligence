@@ -3,6 +3,7 @@ category: news
 title: "Achieve machine learning goals faster"
 excerpt: "Discover how modern organizations are transforming machine and deep learning investments into big business returns. Smarter applications that are capable of recommending products, predicting ..."
 publishedDateTime: 2020-08-10T20:01:00Z
+originalUrl: "https://www.infoworld.com/resources/206844/achieve-machine-learning-goals-faster"
 webUrl: "https://www.infoworld.com/resources/206844/achieve-machine-learning-goals-faster"
 type: article
 

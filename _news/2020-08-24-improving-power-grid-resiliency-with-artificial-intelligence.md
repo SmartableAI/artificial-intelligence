@@ -21,20 +21,6 @@ topics:
 related:
   - title: "Argonne scientists use artificial intelligence to strengthen power grid resiliency"
     excerpt: "A new artificial neural network model, created by Argonne scientists, handles both static and dynamic features of a power system with a relatively high degree of accuracy."
-    publishedDateTime: 2020-08-21T20:49:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/dnl-asu082120.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Argonne scientists use artificial intelligence to strengthen power grid resiliency"
-    excerpt: "A new artificial neural network model, created by Argonne scientists, handles both static and dynamic features of a power system with a relatively high degree of accuracy."
     publishedDateTime: 2020-08-24T08:02:00Z
     webUrl: "https://eurekalert.org/pub_releases/2020-08/dnl-asu082120.php"
     type: article

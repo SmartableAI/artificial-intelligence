@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/coolpo-releases-revolut
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/coolpo-releases-revolutionary-all-in-one-360-4k-intelligence-conference-solution-1029531934"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -23,42 +23,31 @@ topics:
   - AI
 
 related:
-  - title: "HGS DIGITAL Joins AWS Contact Center Intelligence Solutions Partner Program"
-    excerpt: "HGS Digital LLC, a subsidiary of Hinduja Global Solutions Ltd (listed in BSE & NSE), today announced its participation as an Amazon"
-    publishedDateTime: 2020-08-24T19:06:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-301117280.html"
+  - title: "Inference Solutions Wins AI Breakthrough Award for Best Conversational Interface"
+    excerpt: "Inference Solutions, a global provider of Intelligent Virtual Agents (IVAs), today announced that its Studio platform has won the \"Best Conversational Interface\" award from AI Breakthrough, a leading market intelligence organization that recognizes the top companies,"
+    publishedDateTime: 2020-08-26T13:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/inference-solutions-wins-ai-breakthrough-award-for-best-conversational-interface-1029535813"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/inference-solutions-wins-ai-breakthrough-award-for-best-conversational-interface-1029535813"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/inference-solutions-wins-ai-breakthrough-award-for-best-conversational-interface-1029535813"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Carbon Lighthouse's Building Technology CLUES Wins 2020 Artificial Intelligence Breakthrough Award"
+    excerpt: "Service company delivering profitable climate solutions for commercial real estate, today announced that its patented AI-powered CLUES ® platform is the winner of the \"Best AI-based Solution for Real Estate\" award from AI Breakthrough,"
+    publishedDateTime: 2020-08-26T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/carbon-lighthouses-building-technology-clues-wins-2020-artificial-intelligence-breakthrough-award-301118676.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 37
+    quality: 23
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://mma.prnewswire.com/media/1160749/Carbon_Lighthouse_Logo.jpg?p=facebook"
+        width: 998
+        height: 524
         isCached: true
-  - title: "HSG Digital joins Amazon Web Services Contact Center Intelligence solutions partner program"
-    excerpt: "With 61 delivery centers in 7 countries, HGS successfully manages billions of customer interactions every year. Their AWS ML-powered solutions include HGS Pulse, an HGS client portal that provides cri"
-    publishedDateTime: 2020-08-24T04:01:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 29
-  - title: "HGS Digital joins Amazon Web Services Contact Center Intelligence solutions partner program"
-    excerpt: "With 61 delivery centers in 7 countries, HGS successfully manages billions of customer interactions every year"
-    publishedDateTime: 2020-08-26T00:15:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 29
 
 secured: "Pl83UNriDDpOIit2pXaGdLvq6ZSD5Qe9qhaSG/d9DY5An0Hjr5teAmVNwXhfN3MHGoDCeTujYMWtUqkc9s7yRJ7SSqCX9Nw7eWcUL7IJIv9mcGpjU70e2ei8aCU6Y0fr1CkdUdx9WM9HppWEHxcS4zm2Rc20P3rzfpxwI1HRiAMYol/T5sPdvumeQUdf/DeH5jEugZnL3IPbsX9CrbU+dY7LpjfzPyjhSKgrl0irXXhAFULkVZQ1FQZgcTitT/jrp0Zpc0IZGge08tITL0Jb15Go7Y3gFZyQ6q+wi60GyQmeYnKoPx8BowegCsp3ZDpZOgS0YQmm1kwzJAWcwYkOvQ==;CGU148YzGJTVh2N8E4jhZQ=="
 ---

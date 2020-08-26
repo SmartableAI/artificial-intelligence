@@ -3,6 +3,7 @@ category: news
 title: "Amazon and Google announce major cloud customer wins"
 excerpt: "Amazon Web Services Inc. and Google LLC today both emphasized some of the gains to be made by customers migrating their most critical business operations to their respective cloud platforms. Amazon said today the fast food restaurant chain Jack in the Box Inc."
 publishedDateTime: 2020-08-11T16:21:00Z
+originalUrl: "https://siliconangle.com/2020/08/11/aws-google-announce-major-cloud-customer-wins/"
 webUrl: "https://siliconangle.com/2020/08/11/aws-google-announce-major-cloud-customer-wins/"
 type: article
 quality: 24

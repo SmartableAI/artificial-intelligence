@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-he
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/01/white-house-north-view.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "National Science Foundation announces MIT-led Institute for Artificial Intelligence and Fundamental Interactions"
+    excerpt: "The National Science Foundation's new AI Institute for Artificial Intelligence and Fundamental Interactions will be anchored at MIT, merging research in AI and physics to answer outstanding questions about topics such as dark matter,"
+    publishedDateTime: 2020-08-26T13:15:00Z
+    webUrl: "https://news.mit.edu/2020/nsf-announces-mit-led-institute-artificial-intelligence-fundamental-interactions-0826"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 46
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202008/iaifi-mit-announcement-00.jpg"
+        width: 3000
+        height: 2000
         isCached: true
 
 secured: "6bEln7SpXAVI4HjDcX/7dNQ+qZ7LsVoV6fEmehQmiKjQAJ4W3L3I510HCRk03RfIBNUNH/oigA8gGNR9vE4jhBRYRjPcyzNksTEoXjj4UK0RHafPlT436l8twDuZuZZGLoVM+o/CNuqEKKUFM2pw7jCAA5oQ5gkzVGRM0k6F6wI3TH4hIrrEgsZqy2q9HyA0lsVT9pvpsbpYDGC4Reo/x3R9ESUwS6srHMeJGbpCm/SGo6Y9N40qXgG2ouDbBP9LAzhsD9jzErP3AYRXC3xLX3QtSOgwUOYCzBR1NV7U9s1NPJOXy2/1bYvoDGaJC03F42mF3mb7+WOO1k2Rz7sqasbaqeILWYswMAP5fgWJi4s=;LbE4x7d4RudRNE+EZs9Geg=="

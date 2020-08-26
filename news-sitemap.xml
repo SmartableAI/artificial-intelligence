@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.techrepublic.com/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/</loc>
+    <lastmod>2020-08-26T06:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096</loc>
+    <lastmod>2020-08-26T06:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php</loc>
+    <lastmod>2020-08-26T06:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/inference-solutions-wins-ai-breakthrough-award-for-best-conversational-interface-1029535813</loc>
+    <lastmod>2020-08-26T06:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/26/pony-ai-inks-robo-taxi-fleet-maintenance-partnership-with-bosch/</loc>
+    <lastmod>2020-08-26T06:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnet.com/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/</loc>
+    <lastmod>2020-08-26T06:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/</loc>
+    <lastmod>2020-08-26T04:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/</loc>
     <lastmod>2020-08-26T04:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -37,6 +79,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
+    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/</loc>
     <lastmod>2020-08-25T16:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -45,12 +93,6 @@
   <url>
     <loc>https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/</loc>
     <lastmod>2020-08-25T15:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/</loc>
-    <lastmod>2020-08-25T13:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -283,7 +325,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528470</loc>
+    <loc>https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471</loc>
     <lastmod>2020-08-24T09:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -573,6 +615,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/08/21/an-ai-just-embarrassed-the-us-air-force-in-a-virtual-dogfight/</loc>
     <lastmod>2020-08-21T06:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://exclusive.multibriefs.com/content/artificial-intelligence-finds-a-purpose-in-healthcare-because-of-covid-19/pharmaceutical</loc>
+    <lastmod>2020-08-21T06:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1261,6 +1309,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
+    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1293,12 +1347,6 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
-    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
