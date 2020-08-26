@@ -3,6 +3,7 @@ category: news
 title: "Artificial Intelligence in China 2020: In-Depth Case Studies of Applied AI Across 8 Industries"
 excerpt: "The China Artificial Intelligence (AI) Report 2020 gives you exclusive first-hand insights and data-driven analysis into the latest industry developments, including An up-to-date and comprehensive ..."
 publishedDateTime: 2020-08-11T13:53:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/g17029904/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries"
 webUrl: "https://www.benzinga.com/pressreleases/20/08/g17029904/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries"
 ampWebUrl: "https://amp.benzinga.com/amp/content/17029904"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17029904"

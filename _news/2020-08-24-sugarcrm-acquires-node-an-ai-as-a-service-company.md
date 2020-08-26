@@ -3,6 +3,7 @@ category: news
 title: "SugarCRM acquires Node, an AI-as-a-service company"
 excerpt: "SugarCRM said it is looking to use deep learning models to find signals and utilize inaccurate or incomplete CRM data."
 publishedDateTime: 2020-08-24T13:21:00Z
+originalUrl: "https://www.zdnet.com/article/sugarcrm-acquires-node-an-ai-as-a-service-company/"
 webUrl: "https://www.zdnet.com/article/sugarcrm-acquires-node-an-ai-as-a-service-company/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/sugarcrm-acquires-node-an-ai-as-a-service-company/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sugarcrm-acquires-node-an-ai-as-a-service-company/"

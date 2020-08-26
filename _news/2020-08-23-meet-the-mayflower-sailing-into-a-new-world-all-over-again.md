@@ -3,6 +3,7 @@ category: news
 title: "Meet the 'Mayflower:' Sailing Into a New World, All Over Again"
 excerpt: "Our autonomous ship will attempt to cross the Atlantic from Plymouth to Plymouth. Here's how — and what we hope the Navy can learn from her."
 publishedDateTime: 2020-08-23T10:13:00Z
+originalUrl: "https://www.defenseone.com/ideas/2020/08/meet-mayflower-sailing-new-world-all-over-again/167905/"
 webUrl: "https://www.defenseone.com/ideas/2020/08/meet-mayflower-sailing-new-world-all-over-again/167905/"
 type: article
 quality: 39

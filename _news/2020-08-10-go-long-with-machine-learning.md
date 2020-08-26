@@ -3,6 +3,7 @@ category: news
 title: "Go long with machine learning"
 excerpt: "Discover how the NFL & AWS are using machine learning and artificial intelligence to transform how football is analyzed, played, coached, and experienced. NFL Next Gen Stats, powered by AWS ..."
 publishedDateTime: 2020-08-10T19:51:00Z
+originalUrl: "https://www.computerworld.com/resources/206843/go-long-with-machine-learning"
 webUrl: "https://www.computerworld.com/resources/206843/go-long-with-machine-learning"
 type: article
 

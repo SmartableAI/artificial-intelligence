@@ -3,6 +3,7 @@ category: news
 title: "Artificial Intelligence Loopholes Could Be Deadly"
 excerpt: "Artificial intelligence (AI) has become an intimate part of our lives. It all started in 1950 when philosopher and mathematician Alan Turing revisited the question of whether machines (or computers) can “think."
 publishedDateTime: 2020-08-19T00:26:00Z
+originalUrl: "https://www.psychologytoday.com/za/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly"
 webUrl: "https://www.psychologytoday.com/za/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly"
 ampWebUrl: "https://www.psychologytoday.com/za/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly?amp"

@@ -3,6 +3,7 @@ category: news
 title: "NASCAR Selects AWS as Its Preferred Cloud Computing, Cloud Machine Learning, and Cloud Artificial Intelligence Provider"
 excerpt: "NASCAR enhances the fan experience, accelerates artificial"
 publishedDateTime: 2020-08-17T02:40:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2019-06-04/nascar-selects-aws-as-its-preferred-cloud-computing-cloud-machine-learning-and-cloud-artificial-intelligence-provider"
 webUrl: "https://www.bloomberg.com/press-releases/2019-06-04/nascar-selects-aws-as-its-preferred-cloud-computing-cloud-machine-learning-and-cloud-artificial-intelligence-provider"
 type: article
 quality: 60

@@ -3,6 +3,7 @@ category: news
 title: "LLNL Pairs Computer Chip From Cerebras with ‘Lassen’ Supercomputer to Accelerate AI Research"
 excerpt: "Lawrence Livermore National Laboratory (LLNL) and artificial intelligence computer company Cerebras Systems have integrated the world’s"
 publishedDateTime: 2020-08-19T16:33:00Z
+originalUrl: "https://www.hpcwire.com/off-the-wire/llnl-pairs-computer-chip-from-cerebras-with-lassen-supercomputer-to-accelerate-ai-research/"
 webUrl: "https://www.hpcwire.com/off-the-wire/llnl-pairs-computer-chip-from-cerebras-with-lassen-supercomputer-to-accelerate-ai-research/"
 type: article
 quality: 43

@@ -3,6 +3,7 @@ category: news
 title: "The Critical Nature Of IBM's NLP (Natural Language Processing) Effort"
 excerpt: "One of the significant potential implementations of this, combined with an advanced AI like IBM’s Watson platform, is a far smarter digital assistant. Current digital assistants mostly do speech to text conversion, look at past similar queries ..."
 publishedDateTime: 2020-08-14T04:01:00Z
+originalUrl: "https://www.datamation.com/artificial-intelligence/the-critical-nature-of-ibms-nlp-natural-language-processing-effort.html"
 webUrl: "https://www.datamation.com/artificial-intelligence/the-critical-nature-of-ibms-nlp-natural-language-processing-effort.html"
 ampWebUrl: "https://www.datamation.com/amp/artificial-intelligence/the-critical-nature-of-ibms-nlp-natural-language-processing-effort.html"
 cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/the-critical-nature-of-ibms-nlp-natural-language-processing-effort.html"

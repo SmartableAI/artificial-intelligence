@@ -2,9 +2,9 @@
 category: news
 title: "First LIVE Coronavirus sample tested successfully with OTSAW UV-C LED disinfection robot"
 excerpt: "OTSAW has built the world's first successfully laboratory tested human Coronavirus exterminating machine using OTSAW's patented UV-C LED,"
-publishedDateTime: 2020-08-25T11:33:00Z
-originalUrl: "https://www.prnewswire.com/ae/news-releases/first-live-coronavirus-sample-tested-successfully-with-otsaw-uv-c-led-disinfection-robot-831969241.html"
-webUrl: "https://www.prnewswire.com/ae/news-releases/first-live-coronavirus-sample-tested-successfully-with-otsaw-uv-c-led-disinfection-robot-831969241.html"
+publishedDateTime: 2020-08-25T16:03:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/first-live-coronavirus-sample-tested-successfully-with-otsaw-uv-c-led-disinfection-robot-831969241.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/first-live-coronavirus-sample-tested-successfully-with-otsaw-uv-c-led-disinfection-robot-831969241.html"
 type: article
 quality: 30
 heat: 30
@@ -24,6 +24,6 @@ images:
     height: 672
     isCached: true
 
-secured: "ZFEoFgJ9nyqh3nKIOnUnpMmVj4l2IL7SlHwCDe2APhE3otSzQ8aDbd3ySFOsJoIIGewkBmOg7zlHUyA8Ud1DCMjddXBi4bFMdhUOMVsG8uFeVRPyK2RW7sPLf2a7URK8Hixys1ca0vnMwG9fY9OaOjfNnYe2BcF6ppSrpiOmiAR1gKKOt2Wp87D16Cq+2ry1zUQjjty3XG0UNApn1JQ9YoG5sievWfrIMZB7PAdjtVmpND24BP47SlwCSJyDF/0Co/YQliUQVH9hK2TFaxF8B5sMsdsynJXykseWbk+/2LEj2/VJASfAFmDLy0UI0pytl61EJ87m8+z5IzIHpiBqEwIE2GA0075Xsth1w7/jKRlZ4bg7bHGD0l8x2sU7uTrqNapLnPrspx7sWUpXFanf/syt858xWlTHqdcKu/PPTrVhEAOiMjpJvAAGxIGmxeS9jIQrQuEPV8abDAw6krVdTN/VoeXJmfYiCmGPgzhMHmv/zqrGBoELPtsc0CvvokTlj+AE8l66zXiTk0BQ7eRdww==;KDW9JoTRtjXR2tMBtpkpVg=="
+secured: "32jWZWnGZvA95PYWxTnzeams5lIMHbs7oHNLiCMLmyOola9wFSqhYl5v0zO2O0fhmlaCQDkqW3Ikk4AeiwGFfUMKSHYrpypCmEDzt2SpSx4YccIMte+DDdwcYBK8EZ3lIgG5cmWB7A2jLw+4jYtZoFMkuzjomtugzd0AbX1MmfdSR9kZaESQ6cpy2MNUAknrSQjAYLywENHvlJqgynFEsnahpHms6uZLAQwXJyRWDNIPoQN/14+nPvTygSTFPUyIihslpOa3kBLhSeWIr2w+Eqyy6gd6VakDB6hWzUcxoJS5XDRQ6TuX9CdsN8PjS6ghpX28Dft8Mvqs+EhOwqgPuZ8n6JWE4zQSnw+5fOgmTj0=;pUGo5xYkXFhbeZtiW/coLg=="
 ---
 

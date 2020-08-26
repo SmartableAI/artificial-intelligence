@@ -3,6 +3,7 @@ category: news
 title: "MobiusTrend: IT Giants Enter into Semiconductor Business with 3D Hologram Vision AI Chip"
 excerpt: "MobiusTrend, a market research organization in Hong Kong, recently released a research report on ‘IT Giants Enter into Semiconductor Business with"
 publishedDateTime: 2020-08-21T00:14:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/ab17184070/mobiustrend-it-giants-enter-into-semiconductor-business-with-3d-hologram-vision-ai-chip"
 webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17184070/mobiustrend-it-giants-enter-into-semiconductor-business-with-3d-hologram-vision-ai-chip"
 ampWebUrl: "https://amp.benzinga.com/amp/content/17184070"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17184070"

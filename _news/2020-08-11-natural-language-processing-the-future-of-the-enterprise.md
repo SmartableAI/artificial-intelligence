@@ -3,6 +3,7 @@ category: news
 title: "Natural Language Processing: the future of the enterprise"
 excerpt: "At the heart of many of these applications? Natural Language Processing (NLP). Here we introduce NLP, some of its most popular applications today and how it can play a transformational role in ..."
 publishedDateTime: 2020-08-11T16:53:00Z
+originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356671/natural-language-processing-the-future-of-the"
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356671/natural-language-processing-the-future-of-the"
 type: article
 

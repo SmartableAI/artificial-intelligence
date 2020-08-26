@@ -3,6 +3,7 @@ category: news
 title: "Why organizations might want to design and train less-than-perfect AI"
 excerpt: "These days, artificial intelligence systems make our steering wheels vibrate when we drive unsafely, suggest how to invest our money, and recommend workplace hiring decisions. In these situations ..."
 publishedDateTime: 2020-08-05T13:11:00Z
+originalUrl: "https://www.fastcompany.com/90535790/why-organizations-might-want-to-design-and-train-less-than-perfect-ai"
 webUrl: "https://www.fastcompany.com/90535790/why-organizations-might-want-to-design-and-train-less-than-perfect-ai"
 type: article
 

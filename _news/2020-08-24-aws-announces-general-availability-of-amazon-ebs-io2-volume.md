@@ -3,6 +3,7 @@ category: news
 title: "AWS Announces General Availability of Amazon EBS io2 Volume"
 excerpt: "Amazon Web Services, Inc., (AWS), an Amazon Company (NASDAQ: AMZN), announced general availability of io2, the next generation Provisioned IOPS SSD volumes for Amazon Elastic Block Store (Amazon EBS)."
 publishedDateTime: 2020-08-24T23:19:00Z
+originalUrl: "https://apnews.com/9407f29c4f20429fbb55bdf3bb9e1a6e"
 webUrl: "https://apnews.com/9407f29c4f20429fbb55bdf3bb9e1a6e"
 type: article
 quality: 54

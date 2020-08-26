@@ -3,6 +3,7 @@ category: news
 title: "An Arduino With Better Speech Recognition Than Siri"
 excerpt: "The lowly Arduino, an 8-bit AVR microcontroller with a pitiful amount of RAM, terribly small Flash storage space, and effectively no peripherals to speak of, has better speech recognition"
 publishedDateTime: 2020-08-13T15:13:00Z
+originalUrl: "https://hackaday.com/2013/12/31/an-arduino-with-better-speech-recognition-than-siri/"
 webUrl: "https://hackaday.com/2013/12/31/an-arduino-with-better-speech-recognition-than-siri/"
 type: article
 quality: 39

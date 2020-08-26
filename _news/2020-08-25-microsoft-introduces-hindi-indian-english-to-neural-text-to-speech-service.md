@@ -123,6 +123,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Microsoft adds English (India), Hindi to speech service"
+    excerpt: "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set. The two Indian languages are among the 15 new dialects added to the service enabled with state-of-the-art Artificial Intelligence (AI) audio quality."
+    publishedDateTime: 2020-08-25T22:53:00Z
+    webUrl: "https://menafn.com/1100695047/Microsoft-adds-English-India-Hindi-to-speech-service"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Microsoft text-to-speech tool now supports Hindi, Indian English"
     excerpt: "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its neural text-to-speech service (Neural TTS) language set. The two are among the 15 new dialects added to the service,"
     publishedDateTime: 2020-08-25T13:44:00Z
@@ -142,6 +156,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "AXNlRhKHj/G0daQNw6zKupm6jN3q4tLVuomYFBLLp1oNIXBU0CP/RUfGBEKgjcOLPFnlPaO8ULW+DCppOQHV29UfAL4kLgyaT6A7n88kfPTm/SIIbYxaS9pJt54cgoPhjsgE7+rgNtwJd1RjalpCJXkPtNKsx3PyglhwYOOpKSjTk7a3n9N1I63KTzXQ0R5OYhjI89/kgBnVZlXozEZ3zZRG7FENP30h0nxayFBiLlpTfUi1FMb3flQt2D/ZDr/5iSV/9YsSASnWxpyzceW2Ijs3G6smM7W2HoYC+qWwWcaTrIikVh8hE/VVNwrLXgU7ae3Zwi4oGQvpulLnXhZQWtzchZvsiiNEgGMv26zjs0s=;TSdAT0s2jnVWTMnQBjEZMw=="
+secured: "Jn3rOUjK6HPZJKZnsf/Ar5avjsakCN/OsTcjYNLhZ7JsB6JQsnfNcFx5J0OnulDR6HKK3uLXXeNyeSD+ggatypEm2CI1TwHuN7BQt0tV0hQpukAMb3f5Y4AEOp1wJz0P2dnZ/m3JvPjRcciBu5ixUWtp7hhPhM9Sg211Vg2CpX+NUHbWXQPryuf4x/Fn+r6NrEoneApHZoVVWMrZ3ogmoTmA8scQqbAKL8gO3r1m6QfYTri8xMmDPMjMzSMjeDK9XJPfq0T3SCxDl8pPXhUrSFfsi+Yjz7m43rJ3I4xILvT5fqcI3IogEYWivLmtk5APMB5Hfh7UYXs7dHzR5XAvd7UhKkWHh/VZRf23IMj6zg4=;4WEn8AqwUGwujAiwa72q7g=="
 ---
 
