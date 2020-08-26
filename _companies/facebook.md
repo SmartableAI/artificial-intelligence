@@ -2,7 +2,7 @@
 name: "Facebook"
 overview: "Our mission is to give people the power to build community and bring the world closer together."
 type: "profile"
-heat: 277
+heat: 278
 
 website: https://www.facebook.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "facebookai"
   url: "https://twitter.com/facebookai"
-  followers: 90666
+  followers: 90678
 
 size: 10,001+ employees
 yearFounded: 2004
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "MEMaawzL7EklL34v4SFCFhsmwwvorcA0CNvQto242xkcrlGRsYKoQ5yq1vI7fTt1cC7DSf2ai5X8qDvSILaKSec7qhVIdUGsOXYD9y7g3/UbHlsxgZGOAhizmaONwZGCU/mWKCwH81PMbwpy0iR1R66I2nrSW3uQ45ENr9zTQrWuAPIKrnmyYYHFlfyFB8HPj4VT08tV6fENrkOsAb4LMKCn+wBZzj0n9ZCFPA8q6mr/QSGeEW2IclFejKSU5xOKvBPxf6o9yerRvoWKZCkTmUOMuvj/fhJC/uy0lpXBvPjRTfTik98vB7POpowX+KTHnP3t3yu332XPUtH24eAzB09qAO071n0wu6nRgqAyp4PiPT9VKfzOM4OVvuBNMU2GbptVGUhwRb1wwDaOtEayrw==;QMbPA7KtbufJ2NEX5+WLqQ=="
+secured: "T2VOG1HRkYHgn3AcLY6SZ+iE48Wk+rB5htCkLatlFftJ2ooUP46voEW7Mmzy/AeIhOCroUQ23xPSsV6TCC2Qr0DRflGzJ8yCb84ntUJXmzIfWAneaz09/vfhYeBOFtk/c+XTYC4HhuGs0JKqYbVa+qaP8406YMK7RhNXmH0Qxau8bdbV/wYVBsxBdNi73h2vghtAM+IvQ3ZyzZQFOHgJGE5rYPNeKpRw8XWphRfDfVdmf5iCf0o/+8xZO/7rTNdyDU71u04pCRbsVB1Wys3t9j/N3W2AnE8NYGMzdL68obci/fGMVqwgv81kDPW9+icQeLAJ8OzKGChRytpBW711gpUEwcFg6cTR953Q8rEyzCzWmRJQnjbujT2fTKG5nJRTCI8qDt/XTzUMBx+Hy+4LKw==;IB1gFwNWdloFrdAWMD5IDA=="
 ---
 
