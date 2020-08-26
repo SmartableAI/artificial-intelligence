@@ -3,6 +3,7 @@ category: news
 title: "Nutanix’s Hyperconverged Infrastructure Comes to AWS"
 excerpt: "Customers that want to use AWS as a secondary site for disaster recovery. Customers that want to pair AWS’s cloud-native services, such as artificial intelligence or analytics, with their on-premises applications."
 publishedDateTime: 2020-08-11T07:52:00Z
+originalUrl: "https://www.datacenterknowledge.com/hyper-convergence/nutanix-s-hyperconverged-infrastructure-comes-aws"
 webUrl: "https://www.datacenterknowledge.com/hyper-convergence/nutanix-s-hyperconverged-infrastructure-comes-aws"
 type: article
 quality: 39

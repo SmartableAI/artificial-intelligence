@@ -2,6 +2,179 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-07-31-nvidias-a100-tensor-core-ampere-gpu-just-set-over-a-dozen-ai-benchmark-records.md",
+      "title": "NVIDIA's A100 Tensor Core Ampere GPU Just Set Over A Dozen AI Benchmark Records",
+      "excerpt": "For the third time in a row, NVIDIA ran a clean sweep of MLPerf's set of AI and machine learning performance benchmarking suite. This time, however, the distinction of fastest GPU went to NVIDIA's ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/52376/content/Nvidia_A100.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "publishedDateTime": "2020-07-30T17:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing.md",
+      "title": "AWS And Vodafone Focuses On Unlocking Enterprise Opportunity With 5G And Edge Computing",
+      "excerpt": "AWS Wavelength provides developers with the ability to build ... \"Responsiveness matters when it comes to artificial intelligence, augmented and virtual reality, video analytics, autonomous vehicles, robotics and drone control. These applications require ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/maribellopez/2020/07/31/aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f24b122319cd74a70cf29d5%2F0x0.jpg",
+          "width": 1199,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2020/07/31/aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2020/07/31/aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing/amp/",
+      "publishedDateTime": "2020-07-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-medical-vampire-robot-seeks-human-vein-inserts-needle-sucks-blood.md",
+      "title": "Medical “Vampire” Robot Seeks Human Vein, Inserts Needle, Sucks Blood",
+      "excerpt": "The Glow NN compiler does better than TensorFlow Lite for comparable ML models (see figure). The i.MX RT685 includes a Tenisilica HiFi4 DSP that delivers the major performance advantage over non ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21137976/medical-vampire-robot-seeks-human-vein-inserts-needle-sucks-blood",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/07/ED_interest_blood_draw_robot_eye_candy_PROMO.5f22f28a5d7d6.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-30T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-dinoedge-ai-platform-for-health-safety-monitoring-solutions.md",
+      "title": "DinoEdge AI Platform for Health & Safety Monitoring Solutions",
+      "excerpt": "The platform features an open full-stack for AI (OSA), including a powerful AI inference engine hardware, driver, API, compiler and optimization tools (AutoML, sparsity and low-bit quantization), support for open source frameworks. The Health & Safety ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded-computing.com/home-page/dinoedge-ai-platform-for-health-safety-monitoring-solutions",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5f233ed396b28-76219803_cover_design.jpg&size=1&version=1596145650&sig=7ea38959f2da1fe785f0d3b794759236&default=hubs%2Ftilebg-blogs.jpg",
+          "width": 500,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-30T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-chinese-ar-start-up-rokid-eyes-industrial-applications-after-success-with-temperature-reading-smart-glasses.md",
       "title": "Chinese AR start-up Rokid eyes industrial applications after success with temperature-reading smart glasses",
       "excerpt": "Hangzhou-based Rokid expands end-use applications for second generation product after its temperature-detecting smart glasses helped limit the spread of Covid-19",
@@ -942,189 +1115,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-autonomous-cars-five-reasons-they-still-arent-on-our-roads.md",
-      "title": "Autonomous cars: five reasons they still aren’t on our roads",
-      "excerpt": "Read more: Are self-driving cars safe? Expert on how we will drive in the future There are indeed still fundamental challenges to the safe introduction of fully autonomous cars, and we have to ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/autonomous-cars-five-reasons-they-still-arent-on-our-roads-143316",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/350425/original/file-20200730-17-tofe77.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/autonomous-cars-five-reasons-they-still-arent-on-our-roads-143316",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/autonomous-cars-five-reasons-they-still-arent-on-our-roads-143316",
-      "publishedDateTime": "2020-07-30T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-machine-learning-and-organizational-change-at-southern-california-edison.md",
-      "title": "Machine Learning And Organizational Change At Southern California Edison",
-      "excerpt": "The team took all the time needed to get stakeholders engaged. Moore came into the project in the summer of 2018, and he was able to get a machine learning model up and running in a month or so, but presenting it, socializing it, and gaining buy-in for it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/07/30/machine-learning-and-organizational-change-at-southern-california-edison/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f22d3eeae7184e9e77bca33%2F0x0.jpg",
-          "width": 1200,
-          "height": 889,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/07/30/machine-learning-and-organizational-change-at-southern-california-edison/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/07/30/machine-learning-and-organizational-change-at-southern-california-edison/amp/",
-      "publishedDateTime": "2020-07-30T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-nvidias-a100-tensor-core-ampere-gpu-just-set-a-flurry-of-ai-benchmark-records.md",
-      "title": "NVIDIA's A100 Tensor Core Ampere GPU Just Set A Flurry Of AI Benchmark Records",
-      "excerpt": "For the third time in a row, NVIDIA ran a clean sweep of MLPerf's set of AI and machine learning performance benchmarking suite. This time, however, the distinction of fastest GPU went to NVIDIA's ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/52376/content/Nvidia_A100.jpg",
-          "width": 708,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
-      "publishedDateTime": "2020-07-30T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-the-panopticon-is-already-here.md",
-      "title": "The Panopticon Is Already Here",
-      "excerpt": "Xi Jinping is using artificial intelligence to enhance his government’s totalitarian control—and he’s exporting this technology to regimes around the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/KYuGtZFZ7v1t8Z0xCkj1QB6zF-M=/570x320/media/img/2020/07/WEL_Andersen_ChinaOpener/original.gif",
-          "width": 570,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/614197/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/614197/",
-      "publishedDateTime": "2020-07-30T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

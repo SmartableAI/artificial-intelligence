@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: pymnts.com
@@ -42,6 +42,20 @@ related:
       - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/08/CLO20_microsoftForStartups_Ghana_039-8-25-BANNER.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft launches a new transcription feature for Word"
+    excerpt: "Microsoft has launched a new transcription tool for the online version of Word, which enables users to transcribe both live and pre-recorded audio."
+    publishedDateTime: 2020-08-26T11:26:00Z
+    webUrl: "https://www.siliconrepublic.com/companies/transcribe-for-word-microsoft-transcription"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/08/microsoft.png"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "Coxvvltzqye+Eg2WDu4R0qUR95LCjDYfNJhiZN5mIDFKlP5MfMwE4wOxEa/+G61otReY3B+Bwr3aU5Cq9fSx1xA2xXuMaEkcDQnQljegCzqCiibPPAguKcIhBrxsS1nMEWsZhHib9fJyZrhCDGeW9Duzfpmuj4c9aQh3SWjTnmopwHTlfQIZZ3NIoVX+ETKlBPl9M5CO8t2IsQ2Z2fOo/8wk6uEYuPU9dSxwTDYtpu39bpLPkm3+gxNTz8HDHs5uoW1C1lbVPNqIvuEVpdbig7uvpe7jWr84kG8WV+Qli4eNR2wgweOwRoT6OgZK9mF4IUEeV/HmtvtaggcnDoKn1GfEBcR5zI9kv4a6l2ck5eA+JdGMm71hToXdg4yVrJ8sr1Aj3F5HoQ2R0mRMbRQ8UFJyLf+1Iwpdymy7Ka88vL3IxRzVe20VD0tw1Yhf0JxEPTjbDt0uGD8TEHTp4WqrQ8f8oo/mt/sse5tAHfVX0tvk2zDe4e5u4iC8XkO3N31qeH1+TJBvdmDwrV+82QDmTw==;T2RhSH7Hs/K17mk3bqqQZQ=="

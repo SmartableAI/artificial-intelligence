@@ -3,10 +3,10 @@ category: news
 title: "IDTechEx Research Details Opportunities and Challenges of Artificial Intelligence in Robotic Surgery"
 excerpt: "The rapid progress of artificial intelligence (AI) technologies in the last 5-10 years has led many to associate it with robotic surgery systems. Currently, however, few robotic surgery systems are equipped with AI-driven human-robot interaction capabilities."
 publishedDateTime: 2020-08-24T16:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471"
-webUrl: "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471"
+originalUrl: "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528470"
+webUrl: "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528470"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528470"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528470"
 type: article
 quality: 84
 heat: 84
@@ -24,6 +24,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "0MBVfvQ7M8uLYb13dIvcQwA4cnfG0IoMCAg8exkawxBkFSiCKKu3AqZk7Y1dw/QSACNjNJq4pM6+w5ySShnbl9AWF0xLdxWDMO8Q4JsnBXFI2t6E8X+jtU+fM8MPoCKVK14lIWFLPYMCW5pspJI0q0QfyUlpVZH/WWz35ZzJPkekv5L79wfMEujSObjJtjU2qVkbERHtHEu7ZUhb9lmOfwIaCzoQaxosStzTxP1UFIP087721XCyGALDxpLndcyD80I5uCyb/sZ3JqTKLJ1dxOWeXw3ZO42uok6CdObwcDNjbo4wJ9VIVrz/dkS5ze/zxna8ULPDNOb9Yr7d6VQp8w==;/ECJw/dowxxnnaX9TjslWA=="
+secured: "AgZg32G2Qp8MFJa+XftviQ+L11bRglyAfwiAxPAQsIuiPuFx6Y+LWS1N1cgVL3kyRCm4Zj0CwH6LdTFaecrGeSXRW15eM71f9406NtEoPbQnFnjomk0pdyTncltHcGciL2tEsruwjM/0y5p70bsJIpJ/pri83j9h78s3dFNoBD1BRmWxHprO944aLzvx9Cadf6C5470SqCqteD/o2SBF72EAKwzRy96V9jMEQVO7yByCEzpCccxp18MYl9zneUf0ftdGanmRM4EbFPCf4Q1KO1repCtZyBTUCTHZ1veT8ZMc0XpoPuQ2RLLhtHTmrrGUqxgpWK49hnc6ffhbnsS79SgTu/lbbBhqE7p/oQoo5AE=;1qXTbxmZwyDGo33fQUpxTA=="
 ---
 

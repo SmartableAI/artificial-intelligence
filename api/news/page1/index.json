@@ -2,6 +2,203 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-26-3-strategies-for-enterprise-ai-success.md",
+      "title": "3 strategies for enterprise AI success",
+      "excerpt": "Especially during turbulent times, AI enables companies to draw customers closer, streamline to reduce costs, and become more agile than competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/",
+      "originalUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-912547822.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/amp/",
+      "publishedDateTime": "2020-08-26T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-six-things-business-owners-should-know-about-ai.md",
+      "title": "Six Things Business Owners Should Know About AI",
+      "excerpt": "AI was first developed in the 1950s. Nowadays, 37% of the organizations surveyed by Gartner are using some form of AI. They're using it to automate processes, find lucrative opportunities and detect threats before humans can.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/08/26/six-things-business-owners-should-know-about-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/08/26/six-things-business-owners-should-know-about-ai/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f452f9f2206eeaead14e6b2%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/08/26/six-things-business-owners-should-know-about-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/08/26/six-things-business-owners-should-know-about-ai/amp/",
+      "publishedDateTime": "2020-08-26T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-baidu-is-searching-for-quantum-ai-advantage.md",
+      "title": "Baidu Is Searching For Quantum AI Advantage",
+      "excerpt": "Baidu, China’s leading search engine and AI powerhouse, recently announced Paddle Quantum, a quantum machine learning development toolkit. This was the latest in a series of steps Baidu has taken to marry quantum computing with AI since establishing its Institute for Quantum Computing in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/",
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f45584928538501651e180d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/amp/",
+      "publishedDateTime": "2020-08-26T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-vector-institute-forms-team-to-help-commercialize-ai-research.md",
+      "title": "Vector Institute forms team to help commercialize AI research",
+      "excerpt": "The Vector Institute announced the creation of a new team dedicated to laying the groundwork for the commercialization of AI research.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/",
+      "originalUrl": "https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/",
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/2242664e-13ed-4b45-8e11-dacae28fc734-e1598412011777.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/amp/",
+      "publishedDateTime": "2020-08-26T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-drug-development-in-a-year-ibm-bets-on-ai-robotics-to-ramp-up-molecule-research.md",
       "title": "Drug development in a year? IBM bets on AI, robotics to ramp up molecule research",
       "excerpt": "IBM’s new platform could contribute to ongoing research efforts at a time when discovering new drugs is at the heart of many projects.",
@@ -49,55 +246,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-white-house-announces-1b-investment-for-ai-and-quantum-computing-hubs.md",
-      "title": "White House announces $1B investment for AI and quantum computing hubs",
-      "excerpt": "Building out its previous commitment, the White House is announcing a $1 billion investment into two of tech’s most promising frontiers, AI and quantum computing. Last year, the Trump administration rolled out an executive order on AI declaring its intention to bolster U.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/26/ostp-ai-quantum-institutes/",
-      "originalUrl": "https://techcrunch.com/2020/08/26/ostp-ai-quantum-institutes/",
-      "featuredContent": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-926526136.jpg?w=1024",
-          "width": 1024,
-          "height": 658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/26/ostp-ai-quantum-institutes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/26/ostp-ai-quantum-institutes/amp/",
-      "publishedDateTime": "2020-08-26T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -250,6 +398,47 @@
         "AI Ethics",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-microsoft-word-to-take-voice-commands-transcribe-recordings.md",
+      "title": "Microsoft Word To Take Voice Commands, Transcribe Recordings",
+      "excerpt": "Microsoft said that updates to Office 365 will allow users to record conversations \"directly in Word for the web and transcribe them automatically.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/",
+      "originalUrl": "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/08/microsoft-word-voice-commands-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/",
+      "publishedDateTime": "2020-08-25T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1028,204 +1217,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-august-and-yale-smart-locks-get-fingerprint-and-facial-recognition-unlocking.md",
-      "title": "August and Yale smart locks get fingerprint and facial recognition unlocking",
-      "excerpt": "August and Yale locks are solidly positioned as top sellers in the smart lock market. We recently awarded August's Wi-Fi Smart Lock our Editors' Choice award for its updated styling and independence from the company's Connect module.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/august-adds-fingerprint-and-facial-recognition/",
-      "originalUrl": "https://www.cnet.com/news/august-adds-fingerprint-and-facial-recognition/",
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/7utBQdc7vgiQYRPwHEqkUbS_YdY=/756x567/2020/08/21/38a1b707-358e-45a8-88af-72ca513b1828/security-features.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/august-adds-fingerprint-and-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/august-adds-fingerprint-and-facial-recognition/",
-      "publishedDateTime": "2020-08-25T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-coursera-launches-private-guided-projects.md",
-      "title": "Coursera launches private Guided Projects",
-      "excerpt": "Private Guided Projects are likely to appeal to enterprises looking to help employees upskill and gain more hands-on institutional knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/coursera-launches-private-guided-projects/",
-      "originalUrl": "https://www.zdnet.com/article/coursera-launches-private-guided-projects/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/24/4f2db23e-eaa2-4dfc-a8ae-0f1debde6251/gp-authoring-1-4.png",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/coursera-launches-private-guided-projects/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/coursera-launches-private-guided-projects/",
-      "publishedDateTime": "2020-08-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset.md",
-      "title": "This AI just found 50 new planets in a huge NASA dataset",
-      "excerpt": "Scientists from Warwick University made the discovery by analyzing data collected by space telescopes, such as NASA‘s Kepler and TESS. These telescopes capture signs of planets passing in front ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/",
-      "originalUrl": "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/",
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-25T134309.041-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/amp/",
-      "publishedDateTime": "2020-08-25T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-socure-raises-30-million-to-combat-payments-fraud-with-ai.md",
-      "title": "Socure raises $30 million to combat payments fraud with AI",
-      "excerpt": "Socure, a startup developing an AI-driven platform to combat payment fraud, has raised $35 million in an equity financing round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/",
-      "originalUrl": "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/01/identity.shutterstock_158989667-1-e1597945235962.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/amp/",
-      "publishedDateTime": "2020-08-25T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

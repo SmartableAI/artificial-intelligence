@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-10-unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities.md",
+      "title": "UNSW switches cloud-based data lakes for AI and ML capabilities",
+      "excerpt": "It was clear to the University of New South Wales (UNSW) that at the end of 2018, when it was developing its data strategy, it needed to improve the turnaround time it took to get information into the hands of decision makers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/10/83c3e898-f187-4a2a-9aa3-64d02fd75f9e/key-campus-summer-holidays-2019-louise-reily-hero.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/",
+      "publishedDateTime": "2020-08-10T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-how-ai-can-create-self-driving-data-centers.md",
       "title": "How AI can create self-driving data centers",
       "excerpt": "Early adopters are driving the use of AI to optimize power and cooling systems, automate predictive maintenance, and improve workload distribution in enterprise data centers.",
@@ -1260,56 +1311,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities.md",
-      "title": "As ADA turns 30, tech is just getting started helping people with disabilities",
-      "excerpt": "The Americans with Disabilities Act of 1990 paved the way for decades of incremental changes to the way buildings, businesses and laws accommodate people with a wide variety of disabilities. At 30 years old this week,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/27/as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/teams-captions.png",
-          "width": 520,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/27/as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/27/as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities/amp/",
-      "publishedDateTime": "2020-07-28T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

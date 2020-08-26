@@ -47,6 +47,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Microsoft launches a new transcription feature for Word"
+    excerpt: "Microsoft has launched a new transcription tool for the online version of Word, which enables users to transcribe both live and pre-recorded audio."
+    publishedDateTime: 2020-08-26T11:26:00Z
+    webUrl: "https://www.siliconrepublic.com/companies/transcribe-for-word-microsoft-transcription"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/08/microsoft.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "Bo3Gwvbq4CcmhCU0DiTzfB0tIOmaP9pM0Tx2uO0TARmVfuwjfP95Tc8sMjRP5bCBNrCesAy7bgXrw1iCD5QMaF8ecgMTejFqVvP3pkSGydmZoMBMjUr0PACh5h31/V3Os6WXdnQ30LWKzEpblF7T2zBVjDmRaDSrYFU0p/xTlHlesETroD70kFB0CIbQncrRDPtKF77VNFN9frpmTmZiVDtX/Kg5xbQJYP9G33oc8IKadJesmy0jXYEUjdOKVor+hIwe5FfjNhgDSvUFrr4Ux5SlGdNlo9wH5zbJ3NcxFkdEhEgZ9Wj8pNHBfenbOEg0vSrj3dH1cEAynIehHZgm6wFL1NRfITt5ZtgOabeLpOHYe6JIojZF60UiWreXzl0CJdrDXpG60CRqs539L8h9g0hREA2ON0BL+X1GOSMZnlY3vk5FBH2F4QHxgzjummwX0mM656lzzGKD416qxQVnuoXFvqbpOfP0+w3AsFMx3IZWZYZl4XdrueyufeL1tcGdBkCDHHu8izlDdV9Dz9Hemw==;VCSqZ/aVZse1xDCOCC92mA=="
 ---

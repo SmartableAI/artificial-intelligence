@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://s30121.pcdn.co/wp-content/uploads/2019/12/avweb-aviation-search-banner3.png"
         width: 450
         height: 375
+        isCached: true
+  - title: "Artificial intelligence (AI) won simulated dogfights against a human F-16 pilot, 5-0; what does that mean?"
+    excerpt: "The next steps for the ACE program include integrating an AI agent into a small-scale combat aircraft and eventually to a full-size manned fighter."
+    publishedDateTime: 2020-08-26T10:06:00Z
+    webUrl: "https://www.militaryaerospace.com/computers/article/14182279/jet-fighter-artificial-intelligence-ai-dogfight"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 34
+    images:
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/08/F_16_26_Aug_2020.5f451167108a8.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 708
         isCached: true
 
 secured: "Eu6qtIKGz+P89XZ2AbIfHutnIJHVzyXmYqCGSLf4buttv04ZWoTxzWIhHrJ2hTytm7NdVzxDcSSLOJZkfSWm7B2aL7xIlzXyqZEz+Yk2Kobsd5uVzuU4TNDAiS5OVw85Sqkr3yqZtlTmsHc3AefC64AsLZ53e/EsHE1gwo4NuqKbymBhP2wbHNNo/g+Ma5Csq6yMXDly7RFQvFRlzl6QUp0K/3/nZ9mR+OIkB+C6K17I9C6069tR8khJneh8YFMKlV11cVzU5p4tH0hChS6bLfWYnAzWja6Iy/kCENNaiyKsaai/1SENQ/IwrDnnyY75uGgbg7dZy1dad2kKx1DZPA==;E4v5+61rRg2MmBQdBEcweA=="

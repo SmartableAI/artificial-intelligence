@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Facebook and NYU are using AI to dramatically speed up MRI imaging"
-excerpt: "Two years ago, Facebook’s Artificial Intelligence Research group (FAIR) began collaborating with researchers at New York University’s Medical School on artificial intelligence that held the ..."
-publishedDateTime: 2020-08-18T13:34:00Z
-originalUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com"
-webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com"
+excerpt: "Facebook’s AI researchers gave themself an especially demanding challenge: Use algorithms to fill in the details of an MRI scan. The results are promising."
+publishedDateTime: 2020-08-18T13:00:00Z
+originalUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging"
+webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: fastcompany.com
 
 topics:
-  - AI in Autos
+  - Facebook AI
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 720
     isCached: true
 
-secured: "gTQ4j4buBGtc0EMl1hXFpbns6LlFWiaiVl8ogp+HXrUQMKkAXdbSJXJAcJNsuQ+xRxtLgqlp3x8l8vtVqVZw/wrN/y3IPXCaDboEJGm6sFy1f1USLr0eF/fPHUYyJ2BxCauGKLk6vLIkRsxsdqCxsNGAD9tTCMxQ/FIZJg6P9retCm3ghQ1drKIV6D/hKSK8SFCSRYzUbhA0RdmWZ7Uye3SyweKtgMA9rtOnvcXNTKUvnu5xnyGdgcHh5fTZbyXE5mP7vQIAjtHdUywR4+A/VP4mZIk0Kv5yurwrmKd6DCy/kWBurjinf9imsLLURLpDIn49i/PpqjcRQ7jb7zaj9g==;ndf0z6Ai905s/or5dD49PA=="
+secured: "4tvPyuWFHnn++E+A4pvcroJYTQD78O2BbLgkIGSTUkjFkFq+4dOL4u4LOBUgIHicE5Ya7OkNy7YPfns/vVDFyANfFA4JbX/yhbIMkjrCo21Db16tyuFr2tq421DVnDsR85poYPJKbO+bSpIAnGToChOcVmWcN+FLhNPMivEPqp/1cbv1VeNt1C8sVqjIu6Zy9ADrxd8x+4q+ia9vPmRh5vF47EUWmo3JfD0sO0chu+rqbCSTXMQdPVCKpwDTQr4MFYgcH//ypitGB2MJwpk6N8/NTmj2jR2LSDT6SsTACIc02bhBQ82YgarjFUd6BOtpZU9qIBhb7iUnoyQoU/55PqaL4ZEM1mx3AxYwQ7csSNs=;RWfG6w+TVLf9vjeoY9eXAQ=="
 ---
 

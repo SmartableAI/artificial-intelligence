@@ -25,24 +25,6 @@ images:
     height: 422
     isCached: true
 
-related:
-  - title: "Self-Driving Shuttle Service Launched To Transport Senior Citizens And Underserved To Detroit Hospital"
-    excerpt: "Shuttle connects The Village of Brush Park Manor Paradise Valley and Brewster Homes to Detroit Medical Center Heart Hospital, features ADA compliant wheelchair ramp."
-    publishedDateTime: 2020-08-21T18:59:00Z
-    webUrl: "https://detroit.cbslocal.com/2020/08/21/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital/"
-    ampWebUrl: "https://detroit.cbslocal.com/2020/08/21/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital/amp/"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/08/21/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 28
-    images:
-      - url: "https://detroit.cbslocal.com/wp-content/uploads/sites/15909782/2020/08/Navya_Autonom_Shuttle.jpg?w=420"
-        width: 420
-        height: 236
-        isCached: true
-
 secured: "zUkdGqy8hEfhFR6ufHfKd02ODSTOToQM1wUU8mv07X1fCQcLkxyIAILu8IeXFUj3psVcV0plmbc+Gkc9D1Emoe3x3Dwz6tVmSQwgW1L0lAY03gopjmRiXFIpvCigFFhAmnyB8l3RU2AkovBoNxBtU15RTV0aLZtbqUbzHPWkDQlCzrdJuJoC6OT9bdLxdpAdKzP99iKoxYsU5CUhCFxwxTj879imXqGK+WjDZkpHMlVmqJr9Q09l8+3Y04LY9nBsQm0XWRbowCuko/bG3HoF3uK8xKxJah6JlKUerrb1DpUNNZHJJelm0i1muEMJR33+O/sef0U7xs1I5Vs+3EK3nt+VAf44ue6FJoajRp+6xeklLJ6iD0hNKHG71P48E0AEvNIj2XML+LrJpR01QcXFrZL6blT2ShOX2oZjl6O5RHEGT+PKHosoBlyVc0QGUtx6pu/TaO9gmjn3jwOKI9xpyjJF+Hik+7r+mYuZSWExOP7iYgFQGk0Ziav4yC1cFDdW6DFp381r1x5+tdE8jbpbWw==;eqtFJdUY0kdNOdkrZPNNQw=="
 ---
 

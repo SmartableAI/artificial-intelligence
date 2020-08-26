@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-25-microsoft-word-to-take-voice-commands-transcribe-recordings.md",
+      "title": "Microsoft Word To Take Voice Commands, Transcribe Recordings",
+      "excerpt": "Microsoft said that updates to Office 365 will allow users to record conversations \"directly in Word for the web and transcribe them automatically.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/",
+      "originalUrl": "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/08/microsoft-word-voice-commands-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/",
+      "publishedDateTime": "2020-08-25T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-immersive-reader-for-azure-cognitive-services-is-now-generally-available.md",
       "title": "Immersive Reader for Azure Cognitive Services is now generally available",
       "excerpt": "The Azure Cognitive Service which has been in preview since last year has finally become generally available, bringing additional features such as an updated SDK and new translator languages as well.",
@@ -1305,57 +1346,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities.md",
-      "title": "UNSW switches cloud-based data lakes for AI and ML capabilities",
-      "excerpt": "It was clear to the University of New South Wales (UNSW) that at the end of 2018, when it was developing its data strategy, it needed to improve the turnaround time it took to get information into the hands of decision makers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/10/83c3e898-f187-4a2a-9aa3-64d02fd75f9e/key-campus-summer-holidays-2019-louise-reily-hero.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/",
-      "publishedDateTime": "2020-08-10T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

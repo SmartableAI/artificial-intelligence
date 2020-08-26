@@ -3,6 +3,7 @@ category: news
 title: "SimCorp completes next phase in cloud transformation, offering SimCorp Dimension as a Service, on Microsoft Azure"
 excerpt: "SimCorp, a leading provider of integrated, front-to-back, multi-asset investment management solutions and services to the world’s largest buy-side institutions, today announces a new integration of its front-to-back investment management platform,"
 publishedDateTime: 2020-08-12T11:41:00Z
+originalUrl: "https://www.bobsguide.com/guide/news/2020/Aug/12/simcorp-completes-next-phase-in-cloud-transformation-offering-simcorp-dimension-as-a-service-on-microsoft-azure/"
 webUrl: "https://www.bobsguide.com/guide/news/2020/Aug/12/simcorp-completes-next-phase-in-cloud-transformation-offering-simcorp-dimension-as-a-service-on-microsoft-azure/"
 type: article
 quality: 15

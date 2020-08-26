@@ -2,6 +2,38 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-05-ai-chip-market-set-for-rapid-growth-to-reach-cagr-of-over-449-by-2030-nvidia-xilinx-ibm.md",
+      "title": "AI Chip Market Set for Rapid Growth to Reach CAGR of Over 44.9% by 2030 - NVIDIA, Xilinx, IBM",
+      "excerpt": "AI Chip Market accounted for over ~US$ 9.7 billion in 2019. It is anticipated to grow at a CAGR of 44.9% from 2020 to 2030. Artificial intelligence (AI) chips refer to a new gener",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/mediareleases/134811/ai-chip-market-set-for-rapid-growth-to-reach-cagr/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-cincoze-gm-1000-embedded-gpu-computer-empowers-superior-performance-for-machine-vision-applications.md",
       "title": "Cincoze GM-1000 Embedded GPU Computer Empowers Superior Performance for Machine Vision Applications",
       "excerpt": "Given the explosive growth of machine vision, Cincoze, as a professional manufacturer of embedded systems, has expanded its embedded GPU computing pro",
@@ -1339,47 +1371,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-nvidia-geforce-vs-amd-radeon-gpu-which-graphics-card-should-you-buy.md",
-      "title": "NVIDIA GeForce vs AMD Radeon GPU: Which graphics card should you buy?",
-      "excerpt": "But there's another highlight in NVIDIA RTX GPUs, and that's deep learning super sampling (DLSS) 2.0, which effectively uses an AI to boost frame ... Still, a GPU is simply that, a graphics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/06/computex-2019-thermaltake-custom-pc-8.jpg",
-          "width": 800,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
-      "publishedDateTime": "2020-07-27T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

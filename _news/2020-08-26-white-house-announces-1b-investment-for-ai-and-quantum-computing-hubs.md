@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2020/08/26/ostp-ai-quantum-institutes/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/26/ostp-ai-quantum-institutes/amp/"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,51 +30,55 @@ images:
     isCached: true
 
 related:
-  - title: "White House announces creation of AI and quantum research institutes"
-    excerpt: "The White House announced the creation of AI and quantum research institutes funded by billions in venture and taxpayer dollars."
-    publishedDateTime: 2020-08-26T09:06:00Z
-    webUrl: "https://venturebeat.com/2020/08/26/white-house-announces-creation-of-ai-and-quantum-research-institutes/"
-    ampWebUrl: "https://venturebeat.com/2020/08/26/white-house-announces-creation-of-ai-and-quantum-research-institutes/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/white-house-announces-creation-of-ai-and-quantum-research-institutes/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/01/white-house-north-view.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "BBVA Uncovers The Promise Of Quantum Computing For Banking And Financial Services"
-    excerpt: "Will quantum computing drive financial services to a new level of digital transformation? BBVA has been investigating its impact on complex banking, investment and trading challenges."
-    publishedDateTime: 2020-08-25T13:05:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2020/08/25/bbva-uncovers-the-promise-of-quantum-computing-for-banking-and-financial-services/"
+  - title: "Baidu Is Searching For Quantum AI Advantage"
+    excerpt: "Baidu, China’s leading search engine and AI powerhouse, recently announced Paddle Quantum, a quantum machine learning development toolkit. This was the latest in a series of steps Baidu has taken to marry quantum computing with AI since establishing its Institute for Quantum Computing in 2018."
+    publishedDateTime: 2020-08-26T10:04:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4483a57c5b9c6ac1645776%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f45584928538501651e180d%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "The future of artificial intelligence and quantum computing"
-    excerpt: "Size, weight, power consumption, and cooling technologies today block quantum computing from the embedded world, but new generations should yield advances in artificial intelligence and computer security."
-    publishedDateTime: 2020-08-25T20:10:00Z
-    webUrl: "https://www.militaryaerospace.com/computers/article/14182330/future-of-artificial-intelligence-and-quantum-computing"
+  - title: "US announces $1 billion research push for AI and quantum computing"
+    excerpt: "The US government is announcing $1 billion in new funding for multidisciplinary AI and quantum computing research hubs today, according to multiple reports. A total of 12 hubs will be funded, each embedded within different agencies of the federal government."
+    publishedDateTime: 2020-08-26T10:56:00Z
+    webUrl: "https://www.theverge.com/2020/8/26/21402274/white-house-ai-quantum-computing-research-hubs-investment-1-billion"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/26/21402274/white-house-ai-quantum-computing-research-hubs-investment-1-billion"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/26/21402274/white-house-ai-quantum-computing-research-hubs-investment-1-billion"
     type: article
     provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 39
+      name: The Verge
+      domain: theverge.com
+    quality: 87
     images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/08/2008MAEsr_p02.5f456c4db2c7c.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdn.vox-cdn.com/thumbor/WG1SAXKBxaVe7BrG5fqe6q0fI1o=/0x0:5472x3648/1400x933/filters:focal(2299x1387:3173x2261):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67296206/905611146.jpg.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "New federal centers announced for AI and quantum computing"
+    excerpt: "The White House this morning announced over $1 billion to establish 12 new federal research centers dedicated to AI and quantum sciences. Why it matters: The two fields are among the most important in emerging technology,"
+    publishedDateTime: 2020-08-26T09:04:00Z
+    webUrl: "https://www.axios.com/federal-research-artificial-intelligence-quantum-computing-13f93093-f88c-407f-90d5-91f16f2951f4.html"
+    ampWebUrl: "https://www.axios.com/federal-research-artificial-intelligence-quantum-computing-13f93093-f88c-407f-90d5-91f16f2951f4.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/federal-research-artificial-intelligence-quantum-computing-13f93093-f88c-407f-90d5-91f16f2951f4.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 59
+    images:
+      - url: "https://images.axios.com/WIuwFM0PHNM-KrmPAnDm1WbWPn4=/fit-in/1366x1366/2020/08/25/1598383735393.jpg"
+        width: 1366
+        height: 768
         isCached: true
 
-secured: "WuVfxP4OA0yKFgMWOmhNIGdi+zytU/LlldGZzC/bBezYR78BpZuLWFE1/sQL/xCMkaqytpbRGCzBIQ08wTOHQKuJXFSbKf34GqRY/XO9iqkdYiLLD3zn4fZhI2K0TE5MPzmAt61taJ64oUMZmo9qKjvU6GucbAJRwt+G99Ij3ZLCiqWmvhF7VVscwzrMezFiB9TBQqSVNUGX43szgcnAopcy+NPkQqRyzkLH/t0b+h+UejM7EFomF5wJbDtSrl0M5nNSnklx5vivCkYCzIb/1zxAdJxo98160usdpDJ+mV+KenmFUfG55kX/EvduY4uV/iHQdYoaLDhmav+r7/tFKMIw7fBNXsIHbxzpLkrKl2E=;u/8V28hqcAIa7TPB6jKIcA=="
+secured: "JeseIhbshntKE7TIfLmtyHrW72VLfljoE9v4jrfH58gcZezlObumSRJcuwNicN6nhN8V3oacWnSUNGbP0pzceq5Fqov6iOR+ucVGkOFiMQ5khEobg/kIfax5csbmFklr2d3xhGjX54s3sz/ynsvXgD/baA3tgP6NUDjF2QSFBKNu0QTkUZiO6k0IVVKi2+L7Im/MiG78QmEZmtFfFR6O13GETkvzNDYGd+N6+SQIN1V4efgSkx6BVIqW8W/+YBJCHATT76zlJJ9WC7MFWL1N3daZ3sjMjgvXqaTpXhSUiYqlPY+apbiBcGA+2qr6rhB1xVbTfHuh90KCyIeJHYjNU6qD/WC8XH8kcs+V4cbRtc2n9G+zJOKtMRynNfBOphidGEMJ1T5Lfn7+H1XsBYobMohUMdXjr7AZjm6RHfEPSgZVTKzFCIOy1osmfZYt8jp41Wk2nyjN4OBANhYwOyy5qNS09i2Yt2I8oLj0U+MLu02E0KEbNzVWx5La2gYfEgDBF+UtEQLhfa1b+5CU7B1shcydzuwPL7iCXgkfAoG5rOo=;qlPW3RkJ4kn56jgErpZ6Aw=="
 ---
 

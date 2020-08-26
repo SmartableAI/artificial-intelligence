@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-26-baidu-is-searching-for-quantum-ai-advantage.md",
+      "title": "Baidu Is Searching For Quantum AI Advantage",
+      "excerpt": "Baidu, China’s leading search engine and AI powerhouse, recently announced Paddle Quantum, a quantum machine learning development toolkit. This was the latest in a series of steps Baidu has taken to marry quantum computing with AI since establishing its Institute for Quantum Computing in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/",
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f45584928538501651e180d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/amp/",
+      "publishedDateTime": "2020-08-26T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-china-still-buying-300-billion-of-chips-from-us-elsewhere.md",
       "title": "China Still Buying $300 Billion of Chips From U.S., Elsewhere",
       "excerpt": "China will import $300 billion of semiconductors for the third straight year, underscoring how the world’s No. 2 economy remains tied to America despite billions invested in local chip-making know-how.",
@@ -1320,38 +1370,6 @@
       "provider": {
         "name": "Financial Buzz",
         "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-ai-chip-market-set-for-rapid-growth-to-reach-cagr-of-over-449-by-2030-nvidia-xilinx-ibm.md",
-      "title": "AI Chip Market Set for Rapid Growth to Reach CAGR of Over 44.9% by 2030 - NVIDIA, Xilinx, IBM",
-      "excerpt": "AI Chip Market accounted for over ~US$ 9.7 billion in 2019. It is anticipated to grow at a CAGR of 44.9% from 2020 to 2030. Artificial intelligence (AI) chips refer to a new gener",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/134811/ai-chip-market-set-for-rapid-growth-to-reach-cagr/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
         "images": null,
         "publishers": null,
         "authors": null

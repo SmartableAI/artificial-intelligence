@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Artificial intelligence (AI) won simulated dogfights against a human F-16 pilot, 5-0; what does that mean?"
+    excerpt: "The next steps for the ACE program include integrating an AI agent into a small-scale combat aircraft and eventually to a full-size manned fighter."
+    publishedDateTime: 2020-08-26T10:06:00Z
+    webUrl: "https://www.militaryaerospace.com/computers/article/14182279/jet-fighter-artificial-intelligence-ai-dogfight"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 34
+    images:
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/08/F_16_26_Aug_2020.5f451167108a8.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 708
+        isCached: true
 
 secured: "W7MyBmqw0SceWxQYOJdP2q5iIYi6HhNxmIDgOvBB3r+WbcZ2tfkgly9h3Evq9Ypmlqq8wFP4NNjwmGdtETC2hFy3N8lJR++rpapusTcBlxCTMzgudlMHciLvla8oLGcodRg04nu7aWHjcNHfEaKyp+KXLcZgM5OpdtZ6dwtD9W6GyXvBGozjINHHDl/GU00LranS6h+Z5Vd0/dQlqKOQBu8lnyugHX5LWsPMl1A+LNYBqFShcIUWnXAnEdIWGGCvjDtHPWvn3Mm/rjfpmNjd+Hyzt1rjsHsWemUw/lZ3JyUqNg9u4/cgDeaD4HTKpuyQg1jepj5PpZQ77sd5BlJJIg==;3XqiA26oy1TJ+Fxy7SzOCQ=="
 ---

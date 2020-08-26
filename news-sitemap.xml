@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.zdnet.com/article/drug-development-in-a-year-ibm-bets-on-ai-robotics-to-ramp-up-molecule-research/</loc>
-    <lastmod>2020-08-26T02:51:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/</loc>
+    <lastmod>2020-08-26T04:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://techcrunch.com/2020/08/26/ostp-ai-quantum-institutes/</loc>
-    <lastmod>2020-08-26T02:05:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/forbesagencycouncil/2020/08/26/six-things-business-owners-should-know-about-ai/</loc>
+    <lastmod>2020-08-26T04:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/</loc>
+    <lastmod>2020-08-26T03:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/</loc>
+    <lastmod>2020-08-26T03:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/drug-development-in-a-year-ibm-bets-on-ai-robotics-to-ramp-up-molecule-research/</loc>
+    <lastmod>2020-08-26T02:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -27,6 +45,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/</loc>
     <lastmod>2020-08-25T15:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/</loc>
+    <lastmod>2020-08-25T13:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -259,7 +283,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471</loc>
+    <loc>https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528470</loc>
     <lastmod>2020-08-24T09:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1237,12 +1261,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
-    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1275,6 +1293,12 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
+    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

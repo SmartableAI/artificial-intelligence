@@ -2,6 +2,179 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-08-17-neurotechnology-releases-new-version-of-sentisightai-image-labeling-and-recognition-platform-powered-by-deep-learning.md",
+      "title": "Neurotechnology Releases New Version of SentiSight.ai Image Labeling and Recognition Platform Powered by Deep Learning",
+      "excerpt": "PRNewswire/ -- Neurotechnology, a provider of deep learning-based solutions and high-precision biometric identification technologies, today announced",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/neurotechnology-releases-new-version-of-sentisightai-image-labeling-and-recognition-platform-powered-by-deep-learning-301112702.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/neurotechnology-releases-new-version-of-sentisightai-image-labeling-and-recognition-platform-powered-by-deep-learning-301112702.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zPTRh8IoOBo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-17T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-microsoft-translator-now-supports-odia-total-11-languages-in-india-know-details.md",
+      "title": "Microsoft Translator now supports Odia, total 11 languages in India: Know details",
+      "excerpt": "Microsoft Translator enables professionals to enhance their business and customer interactions with text and speech translation powered by Translator and Microsoft Speech service, and Azure Cognitive Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/microsoft-translator-indian-languages-1597657674.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
+      "publishedDateTime": "2020-08-17T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-welcome-to-human-computer-co-creation-what-gpt-3-means-for-education.md",
+      "title": "Welcome To Human-Computer Co-Creation: What GPT-3 Means For Education",
+      "excerpt": "With a little training, it’s a writer, coder, composer, translator, and puzzle solver. It’s the Swiss Army Knife of AI from OpenAI ... is a deep learning language model that produces human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomvanderark/2020/08/17/welcome-to-human-computer-co-creation-what-gpt-3-means-for-education/",
+      "originalUrl": "https://www.forbes.com/sites/tomvanderark/2020/08/17/welcome-to-human-computer-co-creation-what-gpt-3-means-for-education/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f39f1dd7ba3eefce1b8575c%2F0x0.jpg",
+          "width": 1056,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomvanderark/2020/08/17/welcome-to-human-computer-co-creation-what-gpt-3-means-for-education/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomvanderark/2020/08/17/welcome-to-human-computer-co-creation-what-gpt-3-means-for-education/amp/",
+      "publishedDateTime": "2020-08-17T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-multi-ai-competing-and-winning-against-humans-in-iterated-rock-paper-scissors-game.md",
+      "title": "Multi-AI competing and winning against humans in iterated Rock-Paper-Scissors game",
+      "excerpt": "24 and approved by the Ethics Committee of our center of Zhejiang University (China). The humans competing against our multi-AI in iterated RPS game experiment was approved by the relevant laboratory of our center of Zhejiang University and performed at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-020-70544-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-70544-7/MediaObjects/41598_2020_70544_Fig1_HTML.png",
+          "width": 685,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-17T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd.md",
       "title": "De Blasio calls for ‘clear standards’ for facial recognition tech for NYPD",
       "excerpt": "Mayor Bill de Blasio called for “clear standards” for the NYPD when using facial recognition tech after officers were spotted using information from the department’s unit when",
@@ -965,199 +1138,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-optimalizace-hyperparametru-a-automl.md",
-      "title": "Optimalizace hyperparametrů a AutoML",
-      "excerpt": "AutoML (automatizované strojové učení) označuje automatizaci procesu vývoje modelů strojového učení. Databricks Runtime pro Machine Learning zahrnuje MLflow a Hyperopt. Tyto dva opensourcové nástroje",
-      "sourceUrl": null,
-      "webUrl": "https://docs.microsoft.com/cs-cz/azure/databricks/applications/machine-learning/automl-hyperparam-tuning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-military-takes-robot-interaction-to-the-next-damn-level-with-new-speech-recognition-system.md",
-      "title": "Military takes robot interaction to the next damn level with new speech recognition system",
-      "excerpt": "Waking up Alexa or Google with a question works well enough in the relatively unchanging home environment. But when trying to control robots in a combat environment, asking Alexa politely to find",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202008/military-takes-robot-interaction-to-the-next-damn-level-with-new-speech-recognition-system",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162655/voice-biometrics-large1.jpg",
-          "width": 1600,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence.md",
-      "title": "How Facebook’s Yann LeCun is charting a path to human-level intelligence",
-      "excerpt": "Facebook's chief AI scientist Yann LeCun told TNW about the latest work at FAIR, the social network's research lab.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/",
-      "originalUrl": "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/",
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-14T190320.489-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/amp/",
-      "publishedDateTime": "2020-08-14T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-quantum-computing-what-does-it-mean-for-ai-artificial-intelligence.md",
-      "title": "Quantum Computing: What Does It Mean For AI (Artificial Intelligence)?",
-      "excerpt": "So then what is quantum computing? Well, it is similar to traditional computing, which relies on bits—that is, the 0’s and 1’s to encode information. But quantum computing as its own version of this: the quantum bit or qubit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/14/quantum-computing-what-does-it-mean-for-ai-artificial-intelligence/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f36c53ef397e078c7bc9073%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D113%26cropY2%3D1801",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/14/quantum-computing-what-does-it-mean-for-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/08/14/quantum-computing-what-does-it-mean-for-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-08-14T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Healthcare"
       ]
     }
   ],

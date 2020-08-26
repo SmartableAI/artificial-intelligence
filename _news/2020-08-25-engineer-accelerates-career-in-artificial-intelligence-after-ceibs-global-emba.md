@@ -3,6 +3,7 @@ category: news
 title: "Engineer Accelerates Career In Artificial Intelligence After CEIBS Global EMBA"
 excerpt: "Xavier Zhu used the CEIBS Global EMBA to swap engineering for business, enhancing his career in artificial intelligence with tech company, Nvidia, in China"
 publishedDateTime: 2020-08-25T09:15:00Z
+originalUrl: "https://www.businessbecause.com/news/emba/7139/career-in-artificial-intelligence-ceibs-emba"
 webUrl: "https://www.businessbecause.com/news/emba/7139/career-in-artificial-intelligence-ceibs-emba"
 type: article
 quality: 37
