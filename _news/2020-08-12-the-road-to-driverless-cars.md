@@ -3,6 +3,7 @@ category: news
 title: "The road to driverless cars"
 excerpt: "The electrification of the automotive industry is gathering pace, but does the real future lie in driverless vehicles?"
 publishedDateTime: 2020-08-12T16:08:00Z
+originalUrl: "https://moneyweek.com/investments/stockmarkets/601802/the-road-to-driverless-cars"
 webUrl: "https://moneyweek.com/investments/stockmarkets/601802/the-road-to-driverless-cars"
 ampWebUrl: "https://moneyweek.com/investments/stockmarkets/601802/the-road-to-driverless-cars?amp"
 cdnAmpWebUrl: "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/investments/stockmarkets/601802/the-road-to-driverless-cars?amp"

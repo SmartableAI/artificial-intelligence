@@ -3,6 +3,7 @@ category: news
 title: "When Artificial Intelligence is Your Cost Savings and Employee Coach"
 excerpt: "With contact centers globally adjusted to the new normal, there are a number of artificial intelligence levers they can pull to deliver increased levels of customer satisfaction and major cost savings that aren’t constrained by the limited capabilities of today’s chatbots."
 publishedDateTime: 2020-08-24T21:11:00Z
+originalUrl: "https://customerthink.com/when-artificial-intelligence-is-your-cost-savings-and-employee-coach/"
 webUrl: "https://customerthink.com/when-artificial-intelligence-is-your-cost-savings-and-employee-coach/"
 type: article
 quality: 39

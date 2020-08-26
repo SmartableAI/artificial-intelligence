@@ -3,6 +3,7 @@ category: news
 title: "How AI can supercharge performance marketing"
 excerpt: "New white paper by SherloQ™ shows how AI can boost performance marketing, highlighting the power of AI-driven websites and ad campaigns."
 publishedDateTime: 2020-08-12T14:27:00Z
+originalUrl: "https://www.searchenginewatch.com/2020/08/12/how-ai-can-supercharge-performance-marketing/"
 webUrl: "https://www.searchenginewatch.com/2020/08/12/how-ai-can-supercharge-performance-marketing/"
 ampWebUrl: "https://www.searchenginewatch.com/2020/08/12/how-ai-can-supercharge-performance-marketing/amp/"
 cdnAmpWebUrl: "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2020/08/12/how-ai-can-supercharge-performance-marketing/amp/"

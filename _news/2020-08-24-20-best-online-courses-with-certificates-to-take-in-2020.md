@@ -3,6 +3,7 @@ category: news
 title: "20 best online courses with certificates to take in 2020"
 excerpt: "Online learning is more accessible than ever and can help you get ahead in your career, find freelance side hustles or start a new job altogether. There’s no time like this unprecedented present to upgrade your knowledge base,"
 publishedDateTime: 2020-08-24T11:30:00Z
+originalUrl: "https://nypost.com/article/best-online-courses-with-certificates/"
 webUrl: "https://nypost.com/article/best-online-courses-with-certificates/"
 ampWebUrl: "https://nypost.com/article/best-online-courses-with-certificates/amp/"
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/article/best-online-courses-with-certificates/amp/"

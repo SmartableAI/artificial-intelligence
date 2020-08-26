@@ -3,6 +3,7 @@ category: news
 title: "How machine learning helps companies stay agile in a pandemic (VB Live)"
 excerpt: "Join this VB LIve event to learn how machine learning has offered companies powerful ways to adapt in these uncertain times."
 publishedDateTime: 2020-08-21T11:20:00Z
+originalUrl: "https://venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/"
 webUrl: "https://venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/"
 ampWebUrl: "https://venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/amp/"

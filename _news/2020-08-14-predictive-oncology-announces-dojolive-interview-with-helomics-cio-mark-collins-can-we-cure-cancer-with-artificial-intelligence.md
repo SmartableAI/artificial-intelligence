@@ -3,6 +3,7 @@ category: news
 title: "Predictive Oncology Announces DojoLIVE! Interview with Helomics CIO Mark Collins, ‘Can We Cure Cancer with Artificial Intelligence?’"
 excerpt: "The broadcast, titled ‘Can We Cure Cancer With Artificial Intelligence?’, is available for on-demand viewing on the DojoLIVE! website. As noted during the interview, Collins p"
 publishedDateTime: 2020-08-14T12:30:00Z
+originalUrl: "https://apnews.com/1f1f18b10965da73be73fd2d6ffb1286"
 webUrl: "https://apnews.com/1f1f18b10965da73be73fd2d6ffb1286"
 type: article
 

@@ -3,6 +3,7 @@ category: news
 title: "Digital Diagnostics, formerly IDx, Expands Global Impact of Healthcare Autonomous AI with Acquisition of 3Derm Systems, Inc."
 excerpt: "Healthcare access and inequity challenges have been exacerbated by the COVID-19 pandemic; members of at-risk populations around the world"
 publishedDateTime: 2020-08-19T17:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/digital-diagnostics-formerly-idx-expands-global-impact-of-healthcare-autonomous-ai-with-acquisition-of-3derm-systems-inc-301115054.html"
 webUrl: "https://www.prnewswire.com/news-releases/digital-diagnostics-formerly-idx-expands-global-impact-of-healthcare-autonomous-ai-with-acquisition-of-3derm-systems-inc-301115054.html"
 type: article
 quality: 29

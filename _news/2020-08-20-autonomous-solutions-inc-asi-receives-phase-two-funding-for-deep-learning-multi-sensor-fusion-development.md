@@ -3,6 +3,7 @@ category: news
 title: "Autonomous Solutions, Inc. (ASI) Receives Phase Two Funding for Deep Learning Multi-Sensor Fusion Development"
 excerpt: "Autonomous Solutions, Inc. (ASI) receives phase two funding for deep learning multi-sensor fusion development. New architecture to increase situational awareness and safety in"
 publishedDateTime: 2020-08-20T11:35:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/p17170136/autonomous-solutions-inc-asi-receives-phase-two-funding-for-deep-learning-multi-sensor-fusion-deve"
 webUrl: "https://www.benzinga.com/pressreleases/20/08/p17170136/autonomous-solutions-inc-asi-receives-phase-two-funding-for-deep-learning-multi-sensor-fusion-deve"
 ampWebUrl: "https://amp.benzinga.com/amp/content/17170136"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17170136"

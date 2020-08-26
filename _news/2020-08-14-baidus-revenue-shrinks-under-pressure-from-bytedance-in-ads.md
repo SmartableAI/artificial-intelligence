@@ -3,6 +3,7 @@ category: news
 title: "Baidu’s revenue shrinks under pressure from ByteDance in ads"
 excerpt: "INTERNATIONAL - Baidu’s quarterly revenue shrank 1 percent ... and betting on the commercialization of that through smart speakers and self-driving cars. Revenue from new AI businesses including ..."
 publishedDateTime: 2020-08-14T13:32:00Z
+originalUrl: "https://www.iol.co.za/business-report/international/baidus-revenue-shrinks-under-pressure-from-bytedance-in-ads-853974b1-4538-4ce6-8fc2-9ea2d4455164"
 webUrl: "https://www.iol.co.za/business-report/international/baidus-revenue-shrinks-under-pressure-from-bytedance-in-ads-853974b1-4538-4ce6-8fc2-9ea2d4455164"
 type: article
 

@@ -3,6 +3,7 @@ category: news
 title: "AAEON and Aotu.ai Announce the Release of a Smart Vision AI Developers Kit on an Intel AI Platform for IoT"
 excerpt: "AAEON and AOTU.AI are excited to announce the launch of the BrainFrame Edge AI Developers Kit (DevKit) on an Intel AI platform for IoT that will allow developers and system integrators to rapidly create and deploy Smart Vision applications."
 publishedDateTime: 2020-08-19T11:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115"
 webUrl: "https://markets.businessinsider.com/news/stocks/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115"
 ampWebUrl: "https://markets.businessinsider.com/amp/news/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115"

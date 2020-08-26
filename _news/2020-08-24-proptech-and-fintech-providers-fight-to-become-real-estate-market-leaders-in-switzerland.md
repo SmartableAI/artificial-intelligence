@@ -3,12 +3,13 @@ category: news
 title: "Proptech And Fintech Providers Fight To Become Real Estate Market Leaders In Switzerland"
 excerpt: "New technologies and their frequent use during the first half of 2020 have shown the real estate sector more ways to conduct business."
 publishedDateTime: 2020-08-24T12:23:00Z
+originalUrl: "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/"
 webUrl: "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/"
 ampWebUrl: "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/amp/"
 type: article
 quality: 65
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -55,20 +56,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 36
-  - title: "My MBA Helped Me Become A Fintech Leader In Greater China"
-    excerpt: "After graduating from an MBA in Hong Kong, Jeffrey Ng used the leadership skills he learned to develop his career in the fintech hubs of Hong Kong and mainland China"
-    publishedDateTime: 2020-08-21T09:19:00Z
-    webUrl: "https://www.businessbecause.com/news/mba-jobs/7065/mba-fintech-leader-china"
-    type: article
-    provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 24
-    images:
-      - url: "https://www.businessbecause.com/themes/businessbecause/img/search_responsive_white.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Modern Proptech, Fintech, AI can Enhance Real Estate Transactions, but Human Contact Is Important, Industry Exec Says"
     excerpt: "Modern Proptech, Fintech, AI can enhance real estate transactions, but human contact is important, industry exec says."
     publishedDateTime: 2020-08-25T02:01:00Z

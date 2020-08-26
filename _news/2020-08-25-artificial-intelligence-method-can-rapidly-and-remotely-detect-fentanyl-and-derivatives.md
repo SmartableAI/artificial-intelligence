@@ -3,6 +3,7 @@ category: news
 title: "Artificial intelligence method can rapidly and remotely detect fentanyl and derivatives"
 excerpt: "To help keep first responders safe, University of Central Florida researchers have developed an artificial intelligence method that not only rapidly and remotely detects the powerful drug fentanyl, but also teaches itself to detect any previously unknown derivatives made in clandestine batches."
 publishedDateTime: 2020-08-25T23:52:00Z
+originalUrl: "https://www.news-medical.net/news/20200825/Artificial-intelligence-method-can-rapidly-and-remotely-detect-fentanyl-and-derivatives.aspx"
 webUrl: "https://www.news-medical.net/news/20200825/Artificial-intelligence-method-can-rapidly-and-remotely-detect-fentanyl-and-derivatives.aspx"
 ampWebUrl: "https://www.news-medical.net/amp/news/20200825/Artificial-intelligence-method-can-rapidly-and-remotely-detect-fentanyl-and-derivatives.aspx"
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200825/Artificial-intelligence-method-can-rapidly-and-remotely-detect-fentanyl-and-derivatives.aspx"

@@ -3,6 +3,7 @@ category: news
 title: "Environmental Sustainability And AI"
 excerpt: "AI can contribute to your company's carbon footprint or if managed well, help reduce the impact your company has on the environment."
 publishedDateTime: 2020-08-22T02:44:00Z
+originalUrl: "https://www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/"
 webUrl: "https://www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/"
 ampWebUrl: "https://www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/amp/"

@@ -3,6 +3,7 @@ category: news
 title: "Socionext and Osaka University Develop New Deep Learning Method for Object Detection in Low-Light Conditions"
 excerpt: "Socionext Inc. and a research group at Osaka University Institute for Datability Science have jointly developed a new method of deep"
 publishedDateTime: 2020-08-21T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/socionext-and-osaka-university-develop-new-deep-learning-method-for-object-detection-in-low-light-conditions-301116092.html"
 webUrl: "https://www.prnewswire.com/news-releases/socionext-and-osaka-university-develop-new-deep-learning-method-for-object-detection-in-low-light-conditions-301116092.html"
 type: article
 quality: 20

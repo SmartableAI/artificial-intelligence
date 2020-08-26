@@ -3,6 +3,7 @@ category: news
 title: "Baidu creates ‘world’s largest’ Chinese natural language processing database"
 excerpt: "Baidu launched Qian Yan, which it says is the largest Chinese database for natural language processing, among other AI-related products on Tuesday."
 publishedDateTime: 2020-08-25T10:20:00Z
+originalUrl: "https://www.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database"
 webUrl: "https://www.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database"
 ampWebUrl: "https://amp.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database"
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database"

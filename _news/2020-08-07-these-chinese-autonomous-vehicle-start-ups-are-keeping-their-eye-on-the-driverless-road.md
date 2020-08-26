@@ -3,6 +3,7 @@ category: news
 title: "These Chinese autonomous vehicle start-ups are keeping their eye on the driverless road"
 excerpt: "Auto X, Baidu Apollo, Didi Chuxing, Pony.ai and WeRide – are focused on bringing autonomous vehicle technology to the consumer passenger market"
 publishedDateTime: 2020-08-07T22:15:00Z
+originalUrl: "https://www.scmp.com/tech/enterprises/article/3096495/these-chinese-autonomous-vehicle-start-ups-are-keeping-their-eye"
 webUrl: "https://www.scmp.com/tech/enterprises/article/3096495/these-chinese-autonomous-vehicle-start-ups-are-keeping-their-eye"
 ampWebUrl: "https://amp.scmp.com/tech/enterprises/article/3096495/these-chinese-autonomous-vehicle-start-ups-are-keeping-their-eye"
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/enterprises/article/3096495/these-chinese-autonomous-vehicle-start-ups-are-keeping-their-eye"

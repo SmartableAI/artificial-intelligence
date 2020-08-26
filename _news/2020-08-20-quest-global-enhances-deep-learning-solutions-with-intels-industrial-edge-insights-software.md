@@ -3,6 +3,7 @@ category: news
 title: "QuEST Global Enhances Deep Learning Solutions with Intel’s Industrial Edge Insights Software"
 excerpt: "QuEST Global, a global product engineering and lifecycle services company, announced today that it has enhanced its vision analytics and predictive maintenance solutions with Intel® Edge Insights for Industrial."
 publishedDateTime: 2020-08-20T11:00:00Z
+originalUrl: "https://apnews.com/PR Newswire/04d1e9f2698b96e52ad311ec738c879d"
 webUrl: "https://apnews.com/PR Newswire/04d1e9f2698b96e52ad311ec738c879d"
 type: article
 quality: 28

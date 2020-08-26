@@ -3,6 +3,7 @@ category: news
 title: "Singapore scientists combine skin-like electronics with computer vision"
 excerpt: "Scientists from Nanyang Technological University, Singapore (NTU Singapore) have developed an AI system that recognises hand gestures by combining skin-lik"
 publishedDateTime: 2020-08-14T05:02:00Z
+originalUrl: "https://www.electronicsweekly.com/news/business/singapore-scientists-combine-skin-like-electronics-computer-vision-2020-08/"
 webUrl: "https://www.electronicsweekly.com/news/business/singapore-scientists-combine-skin-like-electronics-computer-vision-2020-08/"
 type: article
 quality: 39

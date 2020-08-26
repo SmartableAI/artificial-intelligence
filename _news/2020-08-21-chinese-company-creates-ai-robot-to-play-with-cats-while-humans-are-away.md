@@ -3,6 +3,7 @@ category: news
 title: "Chinese Company Creates AI Robot to ‘Play’ With Cats While Humans are Away"
 excerpt: "A startup in Shenzhen, China has developed a robot that monitors and entertains cats while their owners are away. Ebo, dubbed as the “next-generation pet companion,” comes in the size of a fist and the shape of a ball — perfect for bored kitties to play around with."
 publishedDateTime: 2020-08-21T20:07:00Z
+originalUrl: "https://nextshark.com/ebo-ai-robot-for-cats/"
 webUrl: "https://nextshark.com/ebo-ai-robot-for-cats/"
 type: article
 quality: 52

@@ -3,6 +3,7 @@ category: news
 title: "UTA crawler robot to inspect Lubbock pipelines"
 excerpt: "A civil engineering professor at The University of Texas at Arlington is working with the city of Lubbock to inspect, analyze and report the remaining service life of 3.5 miles of pressure pipe that carries water to users."
 publishedDateTime: 2020-08-24T13:52:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-ucr082120.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-ucr082120.php"
 type: article
 quality: 39

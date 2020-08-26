@@ -3,6 +3,7 @@ category: news
 title: "The post-pandemic future: Facial recognition, voice activation and VR will transform offices"
 excerpt: "Employees will be able to unlock a washroom door, turn on a light switch or brew a pot of coffee through voice recognition. We’re also looking into service robots that transport items in the office."
 publishedDateTime: 2020-08-19T14:57:00Z
+originalUrl: "https://torontolife.com/city/the-post-pandemic-future-facial-recognition-voice-activation-and-vr-will-transform-offices/"
 webUrl: "https://torontolife.com/city/the-post-pandemic-future-facial-recognition-voice-activation-and-vr-will-transform-offices/"
 type: article
 quality: 0

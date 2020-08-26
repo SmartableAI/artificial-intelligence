@@ -3,6 +3,7 @@ category: news
 title: "iRobot Genius Home Intelligence giving its vacuum cleaners a new AI-powered brain"
 excerpt: "As the robovacs became commodity goods and were mainly available for vendors, iRobot wants to climb higher the value chain."
 publishedDateTime: 2020-08-25T18:05:00Z
+originalUrl: "https://www.technowize.com/irobot-genius-home-intelligence-giving-its-vacuum-cleaners-a-new-ai-powered-brain/"
 webUrl: "https://www.technowize.com/irobot-genius-home-intelligence-giving-its-vacuum-cleaners-a-new-ai-powered-brain/"
 ampWebUrl: "https://www.technowize.com/irobot-genius-home-intelligence-giving-its-vacuum-cleaners-a-new-ai-powered-brain/amp/"
 cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/irobot-genius-home-intelligence-giving-its-vacuum-cleaners-a-new-ai-powered-brain/amp/"

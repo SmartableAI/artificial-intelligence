@@ -3,6 +3,7 @@ category: news
 title: "Amazon’s facial recognition system flags dozens of California lawmakers as criminals"
 excerpt: "Amazon’s facial scanning software, called Rekognition, won’t unlock your phone, but it is currently being used by some law enforcement agencies to identify criminals based on their mugshots."
 publishedDateTime: 2020-08-14T00:00:00Z
+originalUrl: "https://bgr.com/2019/08/14/rekognition-test-amazon-facial-software/"
 webUrl: "https://bgr.com/2019/08/14/rekognition-test-amazon-facial-software/"
 ampWebUrl: "https://bgr.com/2019/08/14/rekognition-test-amazon-facial-software/amp/"
 cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2019/08/14/rekognition-test-amazon-facial-software/amp/"

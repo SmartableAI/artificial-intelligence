@@ -3,6 +3,7 @@ category: news
 title: "Everybody loves robots until they start punching people in the face"
 excerpt: "During the pandemic, companies flocked to buy robots to care for the elderly, the infirm or the lonely. But researchers have proven that they can be turned into spies, or weapons"
 publishedDateTime: 2020-08-24T05:17:00Z
+originalUrl: "https://www.wired.co.uk/article/robot-hack-coronavirus"
 webUrl: "https://www.wired.co.uk/article/robot-hack-coronavirus"
 type: article
 quality: 39

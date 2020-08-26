@@ -3,6 +3,7 @@ category: news
 title: "Building A Better Machine For An AI World"
 excerpt: "Advanced packaging, which Intel and other chip makers have been working on for years ... “We’re likely to see an expansion of architectures — X86, Arm, RISC-V on the CPU front, GPUs, AI architectures. There’s compute in memory and in-memory ..."
 publishedDateTime: 2020-08-18T21:30:00Z
+originalUrl: "https://www.nextplatform.com/2020/08/18/building-a-better-machine-for-an-ai-world/"
 webUrl: "https://www.nextplatform.com/2020/08/18/building-a-better-machine-for-an-ai-world/"
 ampWebUrl: "https://www.nextplatform.com/2020/08/18/building-a-better-machine-for-an-ai-world/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/08/18/building-a-better-machine-for-an-ai-world/amp/"

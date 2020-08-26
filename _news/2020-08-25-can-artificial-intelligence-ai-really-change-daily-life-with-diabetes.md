@@ -3,6 +3,7 @@ category: news
 title: "Can Artificial Intelligence (AI) Really Change Daily Life with Diabetes?"
 excerpt: "DiabetesMine explores Quin and other new apps using Artificial Intelligence (AI) to \"revolutionize\" diabetes care."
 publishedDateTime: 2020-08-25T12:27:00Z
+originalUrl: "https://www.healthline.com/diabetesmine/artificial-intelligence-daily-life-with-diabetes"
 webUrl: "https://www.healthline.com/diabetesmine/artificial-intelligence-daily-life-with-diabetes"
 type: article
 quality: 53

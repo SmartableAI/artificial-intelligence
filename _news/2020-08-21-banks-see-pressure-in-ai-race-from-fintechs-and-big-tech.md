@@ -3,6 +3,7 @@ category: news
 title: "Banks See Pressure in AI Race From Fintechs and Big Tech"
 excerpt: "Fintech and big technology companies could outpace traditional banks in the race to develop AI tools that help personalize services, evaluate credit risk and more, analysts and industry executives say."
 publishedDateTime: 2020-08-21T09:52:00Z
+originalUrl: "https://www.wsj.com/articles/banks-see-pressure-in-ai-race-from-fintechs-and-big-tech-11598002201"
 webUrl: "https://www.wsj.com/articles/banks-see-pressure-in-ai-race-from-fintechs-and-big-tech-11598002201"
 type: article
 quality: 84

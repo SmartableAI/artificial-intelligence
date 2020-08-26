@@ -3,6 +3,7 @@ category: news
 title: "Analysis shows that political speeches now use simpler language, express more sentiments"
 excerpt: "\"With natural language processing we can extract new knowledge from old data,\" Shamir said. \"There is no practical way to quantify and profile such a large number of speeches without using computers.\""
 publishedDateTime: 2020-08-18T16:50:00Z
+originalUrl: "https://phys.org/news/2020-08-analysis-political-speeches-simpler-language.html"
 webUrl: "https://phys.org/news/2020-08-analysis-political-speeches-simpler-language.html"
 ampWebUrl: "https://phys.org/news/2020-08-analysis-political-speeches-simpler-language.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-analysis-political-speeches-simpler-language.amp"

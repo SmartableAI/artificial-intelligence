@@ -3,6 +3,7 @@ category: news
 title: "New Xbox Series X SoC, GPU Details Revealed at Hot Chips 32"
 excerpt: "The reference to machine learning acceleration is interesting, but there’s no sign of a dedicated AI processing block on the die shot Microsoft released. This may refer to GPU-based processing — or Microsoft could have another surprise or two ..."
 publishedDateTime: 2020-08-18T13:34:00Z
+originalUrl: "https://www.extremetech.com/gaming/313906-new-xbox-series-x-soc-gpu-details-revealed-at-hot-chips-32"
 webUrl: "https://www.extremetech.com/gaming/313906-new-xbox-series-x-soc-gpu-details-revealed-at-hot-chips-32"
 type: article
 quality: 69

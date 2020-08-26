@@ -3,6 +3,7 @@ category: news
 title: "Future of farming: AI-enabled harvest robot flexes new dexterity skills"
 excerpt: "Now that Root AI's robot has mastered the art of picking oblong vegetables as well as oblate shaped berries, could this technology help enhance global food security?"
 publishedDateTime: 2020-08-13T14:03:00Z
+originalUrl: "https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/"
 webUrl: "https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/"

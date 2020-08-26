@@ -3,6 +3,7 @@ category: news
 title: "Microsoft strengthens translation support for Indian languages, adds Odia to Microsoft Translator"
 excerpt: "This will be of great advantage in making computing language-agnostic and more inclusive across India. Language translation is AI and Deep Neural Networks enabled and forms a core part of Microsoft products and services. Microsoft Translator enables ..."
 publishedDateTime: 2020-08-17T05:59:00Z
+originalUrl: "https://news.microsoft.com/en-in/translation-support-odia-latest-indian-languages/"
 webUrl: "https://news.microsoft.com/en-in/translation-support-odia-latest-indian-languages/"
 type: article
 quality: 11

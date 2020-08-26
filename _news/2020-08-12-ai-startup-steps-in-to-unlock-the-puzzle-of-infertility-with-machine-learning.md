@@ -3,6 +3,7 @@ category: news
 title: "AI startup steps in to unlock the puzzle of infertility with machine learning"
 excerpt: "Computer vision technology helps physicians identify the most viable embyos for implantation, reducing the time to pregnancy for patients on average by 15%."
 publishedDateTime: 2020-08-12T14:24:00Z
+originalUrl: "https://venturebeat.com/2020/08/12/ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning/"
 webUrl: "https://venturebeat.com/2020/08/12/ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning/"
 ampWebUrl: "https://venturebeat.com/2020/08/12/ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/12/ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning/amp/"

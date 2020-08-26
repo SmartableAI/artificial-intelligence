@@ -3,6 +3,7 @@ category: news
 title: "Workday, IBM offer new AI solution to COVID-19 challenges as enterprises return to the office"
 excerpt: "Planning and AI-assisted scheduling may make returning to the office less stressful for business owners and staff."
 publishedDateTime: 2020-08-12T13:00:00Z
+originalUrl: "https://www.zdnet.com/article/workday-ibm-expand-partnership-as-enterprises-gear-up-to-return-to-the-office/"
 webUrl: "https://www.zdnet.com/article/workday-ibm-expand-partnership-as-enterprises-gear-up-to-return-to-the-office/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/workday-ibm-expand-partnership-as-enterprises-gear-up-to-return-to-the-office/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/workday-ibm-expand-partnership-as-enterprises-gear-up-to-return-to-the-office/"
@@ -23,6 +24,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "VeGACj+3vtRfngtJ1TPmsgy0bQWhbftSglGL+W9PvIFm2UNpNmpstX99uGaiPGQvPRmIDzKZlmE5x3hy96uCSeMAd4l1v767vbjHIjOFQ2xhB2/15AxoGeQ59/crgWqzPyZVTuk+gOmAoTf0SxXpVLnbV+JcXJ33QpvUgzOtzpxZVV1HFRcyWi+wAarvy7zTsJQ5OviOvxtMfk27yIMFxmBcxYEBnX78v9Ef/6r83G2qdecbhw1N74gFpdnBvPL85k9tULASub1Dc2b26Q5M1ptT9jPmUWasw4VI/PkT0cOZsu64XsfrVKqgR3Ufnjf/qs2gqDxASllR2yrFKjkC8GM9R/dwgObzWuEgaIkItUs520Oh7jNRuqgeLqyct5AmHdu0kgOx7elD5pUHyL87pbSCdLB3Cx7sjlFn5soJGbqmUAq7Zg8HIHZsnwNU7nn+TfX5mPywKlqyPt2rO7i7FZMquphXMjTpOBcQXSudvcgvAO3UdDTW/o+9Ni3HJNQfYu3llAWJbJtvoaCK+vJNBg==;r+ioeE+hAllqlTjJyilKYg=="
+images:
+  - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/08/04/e8482ee8-4985-4700-b475-1379f3a039b4/thumbnail/1200x675/54ea7f56f8ec7b70b02af53eee2aec95/thumb.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "NYtG2S4QdPG/45g8C88YQy17s6fsSBcKyvukvFMH4GAKLXkqI8FlkfKndebIUe9izyPuO0bRBd65fwG5DgXGL3F1qe1Vd0Hrr+Pqp9LhZCA9nesSa99kH/nOtseJz/SQpPVTzh2+xteCTaBMwARdvYpX3QzpwG1T7ANNR+dAKRdAKq87b3xhCyYmEpC62xkzz9OyVCmjDi7Ir3VNheVhIBjBokb1aKaG1IPvBaKRJh2ww1Uf/GIGNZuA6c96CUcJxNCQa0/5GTC2acz8ODbDfwv98GKON56QZItl4i7BHJmBVaByd674tBokGYBEn1kiuByid15OR2srey0qGsI7TZ+Uix2JT+i/hCUpIWuxvTugFBptLNXtLk35rWGca/Z3XJwAFAnD7JVZzHwpNamqy+xC35AszaFAcjn22l/k7gMT/o0qeRiQBGGhfl1I7R/JfPxnoQC+GC9LUG8XxWxqty7vDn1VCVk7QnxowFSe3q1bspHgqptDu32YoacmxHAb7/oCoztKAifKjkbLOJCGag==;O50dvi52sNR4P8RF1IlL8A=="
 ---
 

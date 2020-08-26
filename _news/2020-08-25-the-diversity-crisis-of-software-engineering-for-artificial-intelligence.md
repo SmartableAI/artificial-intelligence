@@ -3,6 +3,7 @@ category: news
 title: "The Diversity Crisis of Software Engineering for Artificial Intelligence"
 excerpt: "Abstract: Artificial Intelligence (AI) is experiencing a \"diversity crisis.\"1 Several reports1-3 have shown how the breakthrough of modern AI has not yet been able to improve on existing diversity challenges regarding gender,"
 publishedDateTime: 2020-08-25T05:28:00Z
+originalUrl: "https://ieeexplore.ieee.org/document/9173624"
 webUrl: "https://ieeexplore.ieee.org/document/9173624"
 type: article
 quality: 16

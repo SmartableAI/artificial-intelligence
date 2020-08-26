@@ -3,6 +3,7 @@ category: news
 title: "Aristotle and the chatbot: how ancient rules of logic could make artificial intelligence more human"
 excerpt: "In our work building therapy chatbots ... could form core components of an artificial general intelligence (AGI). This is a very simple example, but more complex and expressive statements are ..."
 publishedDateTime: 2020-08-18T20:16:00Z
+originalUrl: "https://theconversation.com/aristotle-and-the-chatbot-how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human-142811"
 webUrl: "https://theconversation.com/aristotle-and-the-chatbot-how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human-142811"
 ampWebUrl: "https://theconversation.com/amp/aristotle-and-the-chatbot-how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human-142811"
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/aristotle-and-the-chatbot-how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human-142811"

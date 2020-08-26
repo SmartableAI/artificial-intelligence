@@ -3,6 +3,7 @@ category: news
 title: "Start up RoDeSo develops gesture controlled robot Astra for remote use in Covid, hazardous environment"
 excerpt: "It can be remotely operated by voice or gesture of hands, helping medical personnel avoid unnecessary vulnerability"
 publishedDateTime: 2020-08-24T09:01:00Z
+originalUrl: "https://www.thehindubusinessline.com/news/science/start-up-rodeso-develops-gesture-controlled-robot-astra-for-remote-use-in-covid-hazardous-environment/article32427665.ece"
 webUrl: "https://www.thehindubusinessline.com/news/science/start-up-rodeso-develops-gesture-controlled-robot-astra-for-remote-use-in-covid-hazardous-environment/article32427665.ece"
 ampWebUrl: "https://www.thehindubusinessline.com/news/science/start-up-rodeso-develops-gesture-controlled-robot-astra-for-remote-use-in-covid-hazardous-environment/article32427665.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/start-up-rodeso-develops-gesture-controlled-robot-astra-for-remote-use-in-covid-hazardous-environment/article32427665.ece/amp/"

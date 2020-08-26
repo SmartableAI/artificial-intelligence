@@ -3,6 +3,7 @@ category: news
 title: "Tyler Perry Teased ‘Madea’s’ Emmy Acceptance Speech"
 excerpt: "Tyler Perry stopped by 'Good Morning America' ahead of the Emmy Awards and gave the morning show a taste of the beloved character, Madea."
 publishedDateTime: 2020-08-23T22:44:00Z
+originalUrl: "https://www.cheatsheet.com/entertainment/tyler-perry-teased-madeas-emmy-acceptance-speech.html/"
 webUrl: "https://www.cheatsheet.com/entertainment/tyler-perry-teased-madeas-emmy-acceptance-speech.html/"
 type: article
 quality: 24

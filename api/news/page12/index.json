@@ -2,12 +2,327 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-08-14-chip-startup-blaize-debuts-ai-modules-for-machine-learning-at-the-edge.md",
+      "title": "Chip startup Blaize debuts AI modules for machine learning at the edge",
+      "excerpt": "Venture-backed chip startup Blaize Inc. has introduced three new hardware modules for running artificial intelligence models at so-called edge locations such as factories. The modules, announced on Thursday,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/08/14/chip-startup-blaize-debuts-ai-modules-machine-learning-edge/",
+      "originalUrl": "https://siliconangle.com/2020/08/14/chip-startup-blaize-debuts-ai-modules-machine-learning-edge/",
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/blaize.png",
+          "width": 718,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-google-open-sources-lit-a-toolset-for-evaluating-natural-language-models.md",
+      "title": "Google open-sources LIT, a toolset for evaluating natural language models",
+      "excerpt": "Google-affiliated researchers developed an open source framework -- Language Interpretability Tool (LIT) designed to explore and audit language models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/14/google-open-sources-lit-a-toolset-for-evaluating-natural-language-models/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/figure-1-e1597419390343.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/14/google-open-sources-lit-a-toolset-for-evaluating-natural-language-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/14/google-open-sources-lit-a-toolset-for-evaluating-natural-language-models/amp/",
+      "publishedDateTime": "2020-08-14T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-michigan-self-driving-vehicle-corridor-aims-to-lead-nation.md",
+      "title": "Michigan Self-Driving Vehicle Corridor Aims to Lead Nation",
+      "excerpt": "Michigan is working to build a first-in-the-nation autonomous vehicle corridor in its southeast corner, a new bid to ensure the region remains the epicenter of an auto industry moving rapidly to a tech-driven future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_614402420.jpg",
+          "width": 840,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP",
+      "publishedDateTime": "2020-08-14T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-giant-lawsuit-alleges-instagram-used-face-recognition-illegally.md",
+      "title": "Giant Lawsuit Alleges Instagram Used Face Recognition Illegally",
+      "excerpt": "A new $500 billion class-action lawsuit alleges Instagram collects and stores people's biometric data without their consent.",
+      "sourceUrl": null,
+      "webUrl": "https://nerdist.com/article/lawsuit-instagram-face-recognition-california/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nerdist.com/wp-content/uploads/2020/08/Lawsuit-against-Instagram-feature-image-08132020.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nerdist.com/article/lawsuit-instagram-face-recognition-california/?amp",
+      "cdnAmpWebUrl": "https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/article/lawsuit-instagram-face-recognition-california/?amp",
+      "publishedDateTime": "2020-08-14T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nerdist",
+        "domain": "nerdist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return.md",
+      "title": "AI, analytics, and NLP are valuable, despite lack of obvious financial return",
+      "excerpt": "Instead of focusing on return to business, consider how technologies can give your business a competitive advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/",
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/",
+      "publishedDateTime": "2020-08-14T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai.md",
+      "title": "Problematic study on Indiana parolees seeks to predict recidivism with AI",
+      "excerpt": "A four-year effort to monitor parolees in Indiana with bracelets and use AI algorithms to predict their behavior raises red flags.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/14/problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/d7b050fc-6639-41e3-b2d3-3a13a7ee0bc2-e1597361985605.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/14/problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/14/problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai/amp/",
+      "publishedDateTime": "2020-08-14T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-baidus-revenue-shrinks-under-pressure-from-bytedance-in-ads.md",
+      "title": "Baidu’s revenue shrinks under pressure from ByteDance in ads",
+      "excerpt": "INTERNATIONAL - Baidu’s quarterly revenue shrank 1 percent ... and betting on the commercialization of that through smart speakers and self-driving cars. Revenue from new AI businesses including ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/business-report/international/baidus-revenue-shrinks-under-pressure-from-bytedance-in-ads-853974b1-4538-4ce6-8fc2-9ea2d4455164",
+      "originalUrl": "https://www.iol.co.za/business-report/international/baidus-revenue-shrinks-under-pressure-from-bytedance-in-ads-853974b1-4538-4ce6-8fc2-9ea2d4455164",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/783x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/22ebffae-4179-5eae-903a-75b7b166d70e&operation=CROP&offset=0x0&resize=782x440&webp=false",
+          "width": 650,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-predictive-oncology-announces-dojolive-interview-with-helomics-cio-mark-collins-can-we-cure-cancer-with-artificial-intelligence.md",
       "title": "Predictive Oncology Announces DojoLIVE! Interview with Helomics CIO Mark Collins, ‘Can We Cure Cancer with Artificial Intelligence?’",
       "excerpt": "The broadcast, titled ‘Can We Cure Cancer With Artificial Intelligence?’, is available for on-demand viewing on the DojoLIVE! website. As noted during the interview, Collins p",
       "sourceUrl": null,
       "webUrl": "https://apnews.com/1f1f18b10965da73be73fd2d6ffb1286",
-      "originalUrl": null,
+      "originalUrl": "https://apnews.com/1f1f18b10965da73be73fd2d6ffb1286",
       "featuredContent": null,
       "heat": null,
       "tags": null,
@@ -557,7 +872,7 @@
       "excerpt": "Baidu Inc.’s quarterly revenue shrank 1% and its projections suggest sales could slide again, as rivals like ByteDance Ltd. continue to chip away at its core advertising business.",
       "sourceUrl": null,
       "webUrl": "https://www.bloomberg.com/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
-      "originalUrl": null,
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
       "featuredContent": null,
       "heat": 89,
       "tags": null,
@@ -772,7 +1087,7 @@
       "excerpt": "Amazon today launched its fully managed quantum computing service -- Braket -- in general availability following a preview.",
       "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/",
-      "originalUrl": null,
+      "originalUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/",
       "featuredContent": null,
       "heat": 88,
       "tags": null,
@@ -813,330 +1128,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-algorithm-created-by-deep-learning-finds-potential-therapeutic-targets-throughout-the-human-genome.md",
-      "title": "Algorithm created by deep learning finds potential therapeutic targets throughout the human genome",
-      "excerpt": "Researchers at the New Jersey Institute of Technology and the Children's Hospital of Philadelphia have developed an algorithm through machine learning that helps predict sites of DNA methylation -- a process that can change the activity of DNA without changing its overall structure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061&org=NSF&from=news",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nsf.gov/news/mmg/media/images/dna_methylation_f.jpg",
-          "width": 350,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nsf.gov",
-        "domain": "nsf.gov",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-artificial-intelligence-robots-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research.md",
-      "title": "Artificial Intelligence Robots Market Research With Size, Growth, Manufacturers, Segments And 2026 Forecasts Research",
-      "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-08-13",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-self-driving-car-only-lanes-theyre-coming-to-an-autonomous-corridor-in-michigan.md",
-      "title": "Self-driving car only lanes? They're coming to an autonomous corridor in Michigan",
-      "excerpt": "A new public-private endeavor will see a 40-mile stretch between Detroit and Ann Arbor outfitted with dedicated lanes for autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-testing-corridor-michigan/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/pyA2_TM6Fs4pmxfGmoqdJ8VB4CQ=/2020/08/13/a6bcbd61-7c5f-4689-a52e-368b207be16d/ogi-car.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-testing-corridor-michigan/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-testing-corridor-michigan/",
-      "publishedDateTime": "2020-08-13T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots.md",
-      "title": "AI researchers devise cheap data collection method to scale training robots",
-      "excerpt": "Researchers used a GoPro camera and a reacher-grabber device to gather robotic training data, a cheap approach that could someday improve home robots.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/download-1.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/amp/",
-      "publishedDateTime": "2020-08-13T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-drug-discovery-informatics-market-sales-insights-growth-impact-future-dynamics-covid-19-impact-size-projection-and-industry-dynamics-by-2023.md",
-      "title": "Drug Discovery Informatics Market Sales Insights, Growth Impact, Future Dynamics, COVID-19 Impact, Size Projection and Industry Dynamics By 2023",
-      "excerpt": "Drug Discovery Informatics Market Overview: The global report on the drug discovery informatics market, as Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/drug-discovery-informatics-market-sales-insights-growth-impact-future-dynamics-covid-19-impact-size-projection-and-industry-dynamics-by-2023-2020-08-13?mod=mw_quote_news&tesla=y",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-improving-online-learning-and-more-with-artificial-intelligence.md",
-      "title": "Improving Online Learning and More with Artificial Intelligence",
-      "excerpt": "Artificial intelligence is gaining traction in classrooms, research labs and physical plants on campus. Tommy Peterson is a freelance journalist who specializes in business and technology and is a frequent contributor to the CDW family of technology magazines.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp",
-      "publishedDateTime": "2020-08-13T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-bright-pattern-selected-as-finalist-for-disruptive-technology-solution-of-the-year-for-customer-contact-week-ccw-excellence-awards.md",
-      "title": "Bright Pattern Selected as Finalist for 'Disruptive Technology Solution of the Year' for Customer Contact Week (CCW) Excellence Awards",
-      "excerpt": "PRNewswire/ -- Bright Pattern, leading provider of AI-powered omnichannel cloud contact center software, announces its placement as a finalist for the",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/in/news-releases/bright-pattern-selected-as-finalist-for-disruptive-technology-solution-of-the-year-for-customer-contact-week-ccw-excellence-awards-822616149.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/634980/Bright_Pattern___Logo.jpg?p=facebook",
-          "width": 1620,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -3,6 +3,7 @@ category: news
 title: "Can we move beyond the AI hype to defend human rights?"
 excerpt: "Debunking AI myths may help us avoid blind techno-solutionism, to craft evidence-based public policy that supports AI uptake only when machine-learning systems are actually fit-for-purpose, and center and respect people and their rights."
 publishedDateTime: 2020-08-13T13:43:00Z
+originalUrl: "https://www.accessnow.org/can-we-move-beyond-the-ai-hype-to-defend-human-rights/"
 webUrl: "https://www.accessnow.org/can-we-move-beyond-the-ai-hype-to-defend-human-rights/"
 type: article
 quality: 39

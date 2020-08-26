@@ -3,6 +3,7 @@ category: news
 title: "Root AI raises $7.2M seed round to deploy its harvesting robot amid COVID-19-fueled demand"
 excerpt: "By all accounts, the COVID-19 pandemic has accelerated the adoption of robotics and automation by months, if not years. The reasons are fairly clear — robotics don’t call in sick, nor are they disease vectors in the same manner as their human counterparts."
 publishedDateTime: 2020-08-13T14:15:00Z
+originalUrl: "https://techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/"
 webUrl: "https://techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/"
 ampWebUrl: "https://techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/amp/"

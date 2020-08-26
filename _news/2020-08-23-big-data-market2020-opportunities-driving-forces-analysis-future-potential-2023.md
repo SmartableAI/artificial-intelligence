@@ -3,6 +3,7 @@ category: news
 title: "Big Data Market:2020 Opportunities, Driving Forces, Analysis, Future Potential 2023"
 excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 23, 2020 (AmericaNewsHour) -- Global Big Data Market: By Component (Hardware, Software, Service), By ..."
 publishedDateTime: 2020-08-23T00:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/big-data-market2020-opportunities-driving-forces-analysis-future-potential-2023-2020-08-23?mod=mw_quote_news"
 webUrl: "https://www.marketwatch.com/press-release/big-data-market2020-opportunities-driving-forces-analysis-future-potential-2023-2020-08-23?mod=mw_quote_news"
 type: article
 quality: 48

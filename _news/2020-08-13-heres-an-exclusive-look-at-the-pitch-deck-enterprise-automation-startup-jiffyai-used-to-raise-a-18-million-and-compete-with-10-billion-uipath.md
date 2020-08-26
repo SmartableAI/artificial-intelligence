@@ -3,6 +3,7 @@ category: news
 title: "Here's an exclusive look at the pitch deck enterprise automation startup JIFFY.ai used to raise a $18 million and compete with $10 billion UiPath"
 excerpt: "In the first half of 2020, it doubled its client base as the pandemic forced companies to streamline their operations via automation."
 publishedDateTime: 2020-08-13T06:12:00Z
+originalUrl: "https://www.businessinsider.com/pitch-deck-enterprise-automation-startup-jiffyai-raises-18-million-series-a-2020-8"
 webUrl: "https://www.businessinsider.com/pitch-deck-enterprise-automation-startup-jiffyai-raises-18-million-series-a-2020-8"
 type: article
 quality: 32

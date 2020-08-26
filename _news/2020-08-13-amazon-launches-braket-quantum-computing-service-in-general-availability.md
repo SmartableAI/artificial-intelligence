@@ -3,6 +3,7 @@ category: news
 title: "Amazon launches Braket quantum computing service in general availability"
 excerpt: "Amazon today launched its fully managed quantum computing service -- Braket -- in general availability following a preview."
 publishedDateTime: 2020-08-13T20:29:00Z
+originalUrl: "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/"
 webUrl: "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/"
 ampWebUrl: "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/amp/"

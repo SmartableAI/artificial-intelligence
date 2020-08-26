@@ -3,6 +3,7 @@ category: news
 title: "Deep Learning Market Growth By Manufacturers, Type And Application, Forecast To 2026"
 excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include IBM Corporation,"
 publishedDateTime: 2020-08-24T09:58:00Z
+originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-08-24"
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-08-24"
 type: article
 quality: 62

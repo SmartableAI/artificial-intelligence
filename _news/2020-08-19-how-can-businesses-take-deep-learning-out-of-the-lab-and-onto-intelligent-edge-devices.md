@@ -3,6 +3,7 @@ category: news
 title: "How Can Businesses Take Deep Learning Out Of The Lab And Onto Intelligent Edge Devices?"
 excerpt: "Despite successful research and developments in lab settings, deep learning has yet to reach its potential in real-world deployments."
 publishedDateTime: 2020-08-19T12:38:00Z
+originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/"
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/amp/"

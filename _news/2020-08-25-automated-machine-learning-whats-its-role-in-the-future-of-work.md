@@ -3,6 +3,7 @@ category: news
 title: "Automated Machine Learning: What’s Its Role in the Future of Work?"
 excerpt: "Automated machine learning offers the potential to improve business outcomes and reduce human error. But what exactly is AutoML, and what does it mean for data scientists?"
 publishedDateTime: 2020-08-25T18:19:00Z
+originalUrl: "https://biztechmagazine.com/article/2020/08/automated-machine-learning-whats-its-role-future-work-perfcon"
 webUrl: "https://biztechmagazine.com/article/2020/08/automated-machine-learning-whats-its-role-future-work-perfcon"
 ampWebUrl: "https://biztechmagazine.com/article/2020/08/automated-machine-learning-whats-its-role-future-work-perfcon?amp"
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/08/automated-machine-learning-whats-its-role-future-work-perfcon?amp"

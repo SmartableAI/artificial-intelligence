@@ -3,6 +3,7 @@ category: news
 title: "Improving power grid resiliency with artificial intelligence"
 excerpt: "The management of power grids during fault events and other dynamic conditions is expected to improve with an artificial intelligence (AI)-based scheduling system that considers static as well as dynamic operating parameters."
 publishedDateTime: 2020-08-24T11:15:00Z
+originalUrl: "https://insights.globalspec.com/article/14837/improving-power-grid-resiliency-with-artificial-intelligence"
 webUrl: "https://insights.globalspec.com/article/14837/improving-power-grid-resiliency-with-artificial-intelligence"
 type: article
 quality: 19

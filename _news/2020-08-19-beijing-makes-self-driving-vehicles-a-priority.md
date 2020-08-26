@@ -3,6 +3,7 @@ category: news
 title: "Beijing Makes Self-Driving Vehicles A Priority"
 excerpt: "The Chinese government has designated autonomous driving, along with 5G and artificial intelligence, as one of the strategic technologies to counteract the economic impact of the COVID-19 pandemic, boosted by state investment fund that has breathed new life into the ecosystem."
 publishedDateTime: 2020-08-19T09:26:00Z
+originalUrl: "https://www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-self-driving-vehicles-apriority/"
 webUrl: "https://www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-self-driving-vehicles-apriority/"
 ampWebUrl: "https://www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-self-driving-vehicles-apriority/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-self-driving-vehicles-apriority/amp/"

@@ -3,6 +3,7 @@ category: news
 title: "Facebook And NYU Using AI Research To Make MRI Scans Faster, Simpler"
 excerpt: "The project, titled fastMRI, pairs the resources of Facebook’s artificial intelligence research (FAIR) team and radiologists at NYU’s Langone Health to create machines that can produce MRI results with less data. The two teams have reported teaching an ..."
 publishedDateTime: 2020-08-18T16:16:00Z
+originalUrl: "https://www.ibtimes.com/facebook-nyu-using-ai-research-make-mri-scans-faster-simpler-3030369"
 webUrl: "https://www.ibtimes.com/facebook-nyu-using-ai-research-make-mri-scans-faster-simpler-3030369"
 ampWebUrl: "https://www.ibtimes.com/facebook-nyu-using-ai-research-make-mri-scans-faster-simpler-3030369?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-nyu-using-ai-research-make-mri-scans-faster-simpler-3030369?amp=1"

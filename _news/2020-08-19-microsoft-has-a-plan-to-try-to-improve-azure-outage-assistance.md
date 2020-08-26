@@ -3,6 +3,7 @@ category: news
 title: "Microsoft has a plan to try to improve Azure outage assistance"
 excerpt: "And its Azure Support account on Twitter tries to guide users to look ... \"We are also in the early stages of expanding our use of AI-based operations to identify related impacted services automatically and, upon mitigation, send resolution communications ..."
 publishedDateTime: 2020-08-19T16:48:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/"
 webUrl: "https://www.zdnet.com/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/"

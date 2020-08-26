@@ -3,6 +3,7 @@ category: news
 title: "Hour One raises $5M Seed to generate AI-driven synthetic characters from real humans"
 excerpt: "All of the people pictured above are real, but what you are seeing are synthetically-generated versions of their real selves. And they can be programmed to say anything. Tech futurists have long warned about humans being replaced by life-like AI-driven figures,"
 publishedDateTime: 2020-08-17T16:45:00Z
+originalUrl: "https://techcrunch.com/2020/08/17/hour-one-raises-5m-seed-to-generate-ai-driven-synthetic-characters-from-real-humans/"
 webUrl: "https://techcrunch.com/2020/08/17/hour-one-raises-5m-seed-to-generate-ai-driven-synthetic-characters-from-real-humans/"
 ampWebUrl: "https://techcrunch.com/2020/08/17/hour-one-raises-5m-seed-to-generate-ai-driven-synthetic-characters-from-real-humans/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/17/hour-one-raises-5m-seed-to-generate-ai-driven-synthetic-characters-from-real-humans/amp/"

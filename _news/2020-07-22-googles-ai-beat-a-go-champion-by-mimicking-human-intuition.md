@@ -3,6 +3,7 @@ category: news
 title: "Google's AI Beat a Go Champion by Mimicking Human Intuition"
 excerpt: "Google DeepMind's advanced artificial intelligence (AI) system, AlphaGo, has earned a prime notch in its belt, beating high-level champion professional Go player Lee Sedol four games to one. Earlier this month Google posted a comprehensive breakdown of ..."
 publishedDateTime: 2020-07-22T00:00:00Z
+originalUrl: "https://www.designnews.com/design-hardware-software/googles-ai-beat-go-champion-mimicking-human-intuition"
 webUrl: "https://www.designnews.com/design-hardware-software/googles-ai-beat-go-champion-mimicking-human-intuition"
 type: article
 quality: 39

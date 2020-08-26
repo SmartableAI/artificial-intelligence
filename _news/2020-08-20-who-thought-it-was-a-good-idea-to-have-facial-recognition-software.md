@@ -3,6 +3,7 @@ category: news
 title: "Who thought it was a good idea to have facial recognition software?"
 excerpt: "It’s about time someone asked that question about facial recognition software. It would oblige the developers and users of the technology to explain exactly why they think it’"
 publishedDateTime: 2020-08-20T13:45:00Z
+originalUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/"
 webUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/"
 ampWebUrl: "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/amp/"
 cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-software/amp/"

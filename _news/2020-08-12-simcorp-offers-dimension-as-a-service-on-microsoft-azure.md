@@ -3,6 +3,7 @@ category: news
 title: "SimCorp Offers ‘Dimension as a Service’ on Microsoft Azure"
 excerpt: "In response, and as a global business and trusted partner to some of the largest institutional investors around the world, SimCorp is transforming its offerings, delivered as a service, to provide buy-side firms with the flexibility,"
 publishedDateTime: 2020-08-12T17:50:00Z
+originalUrl: "https://www.tradersmagazine.com/xtra/simcorp-offers-dimension-as-a-service-on-microsoft-azure/"
 webUrl: "https://www.tradersmagazine.com/xtra/simcorp-offers-dimension-as-a-service-on-microsoft-azure/"
 type: article
 quality: 56

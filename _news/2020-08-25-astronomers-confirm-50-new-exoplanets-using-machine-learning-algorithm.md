@@ -3,6 +3,7 @@ category: news
 title: "Astronomers confirm 50 new exoplanets using machine learning algorithm"
 excerpt: "For the first time, astronomers have used a machine learning algorithm – a form of self-teaching AI – to confirm the existence of exoplanets in data collected by the now-retired Kepler space telescope."
 publishedDateTime: 2020-08-25T19:28:00Z
+originalUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/"
 webUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/"
 ampWebUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true"

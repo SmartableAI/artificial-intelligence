@@ -3,6 +3,7 @@ category: news
 title: "Microsoft's New Azure Servers Deliver Powerful NVIDIA A100 Ampere AI Supercomputing Boost"
 excerpt: "Therefore, Microsoft’s Azure is announcing their powerful ND A100 v4 virtual machine series. Each device will be kitted out with eight impressive NVIDIA Ampere A100 Tensor Core GPUs. The ND A100 v4 won’t work alone,"
 publishedDateTime: 2020-08-19T19:58:00Z
+originalUrl: "https://hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers"
 webUrl: "https://hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers"
 ampWebUrl: "https://amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers"
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers"

@@ -3,6 +3,7 @@ category: news
 title: "Facebook Gets Preliminary Approval To Settle Facial Recognition Lawsuit"
 excerpt: "Facebook allegedly violated an Illinois law requires companies collecting biometric data to obtain prior consent from consumers."
 publishedDateTime: 2020-08-20T13:35:00Z
+originalUrl: "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/"
 webUrl: "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/"
 ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/amp/"

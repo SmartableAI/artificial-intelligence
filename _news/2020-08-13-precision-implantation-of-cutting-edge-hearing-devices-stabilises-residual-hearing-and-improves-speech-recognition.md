@@ -3,6 +3,7 @@ category: news
 title: "Precision implantation of cutting-edge hearing devices stabilises residual hearing and improves speech recognition"
 excerpt: "Precision surgical implantation of electrodes for the electric-acoustic stimulation of the inner ear can stabilise the long-term residual hearing of severely hearing-impaired people and significantly improve their speech recognition."
 publishedDateTime: 2020-08-13T13:20:00Z
+originalUrl: "https://medicalxpress.com/news/2020-08-precision-implantation-cutting-edge-devices-stabilises.html"
 webUrl: "https://medicalxpress.com/news/2020-08-precision-implantation-cutting-edge-devices-stabilises.html"
 ampWebUrl: "https://medicalxpress.com/news/2020-08-precision-implantation-cutting-edge-devices-stabilises.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-precision-implantation-cutting-edge-devices-stabilises.amp"

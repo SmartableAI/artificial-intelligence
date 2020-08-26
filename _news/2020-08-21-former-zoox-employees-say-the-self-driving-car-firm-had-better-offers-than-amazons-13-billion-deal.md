@@ -3,6 +3,7 @@ category: news
 title: "Former Zoox employees say the self-driving car firm had better offers than Amazon's $1.3 billion deal"
 excerpt: "A lawsuit claims the Amazon deal created disproportionate rewards for executives and preferred shareholders at the expense of common stockholders."
 publishedDateTime: 2020-08-21T13:27:00Z
+originalUrl: "https://www.businessinsider.com/zoox-lawsuit-employees-was-better-offer-amazon-deal-self-driving-2020-8"
 webUrl: "https://www.businessinsider.com/zoox-lawsuit-employees-was-better-offer-amazon-deal-self-driving-2020-8"
 ampWebUrl: "https://www.businessinsider.com/zoox-lawsuit-employees-was-better-offer-amazon-deal-self-driving-2020-8?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/zoox-lawsuit-employees-was-better-offer-amazon-deal-self-driving-2020-8?amp"

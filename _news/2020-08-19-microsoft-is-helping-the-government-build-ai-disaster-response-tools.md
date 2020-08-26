@@ -3,6 +3,7 @@ category: news
 title: "Microsoft is helping the government build AI disaster response tools"
 excerpt: "It's teaming up with the Department of Energy to help first responders. The Department of Energy is teaming up with Microsoft to build AI tools that will help prevent and manage natural disasters, the agency announced today. Together, they’ll co-chair ..."
 publishedDateTime: 2020-08-19T14:31:00Z
+originalUrl: "https://www.engadget.com/microsoft-doe-ai-disaster-response-first-five-142941175.html"
 webUrl: "https://www.engadget.com/microsoft-doe-ai-disaster-response-first-five-142941175.html"
 ampWebUrl: "https://www.engadget.com/amp/microsoft-doe-ai-disaster-response-first-five-142941175.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-doe-ai-disaster-response-first-five-142941175.html"

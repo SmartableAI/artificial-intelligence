@@ -61,20 +61,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 36
-  - title: "My MBA Helped Me Become A Fintech Leader In Greater China"
-    excerpt: "After graduating from an MBA in Hong Kong, Jeffrey Ng used the leadership skills he learned to develop his career in the fintech hubs of Hong Kong and mainland China"
-    publishedDateTime: 2020-08-21T09:19:00Z
-    webUrl: "https://www.businessbecause.com/news/mba-jobs/7065/mba-fintech-leader-china"
-    type: article
-    provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 24
-    images:
-      - url: "https://www.businessbecause.com/themes/businessbecause/img/search_responsive_white.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "IkQmjaokF+Z8B8iVUrM47FUdM5b4dGAmj/luth0bqU8Sb4N0TG7C9JuncfqZXdcsqXTLLR4lpZCCBWExZX0fglz1LrW5NhS1gX8FCfWYB8aKyWd7WlE45I5F9YhwatgMp2Q1aqV9B9Bn9DGOE+oQuUP85qKbkM2b0R/W6bGCQDLpd83LQ/KXrQpTxeZlCYkpaDLvuhTkHWD+wQKI3R+WiDhOalhs5ycnmvGoiahNfwgbvJSiLjK1KVz6KBE8Mcimay+udWtoJQbUrfAcIuE/QtzuwcBh9yp8h0BX7iMbSI/pVfL6aNU3J4QFISlkM3VYhGzQhaT6awel1Low9T4WzCz4+SpORHz/XfAQ+6iDmoIb5tWR1gL+MxKiylmMeup/Tv13nMC1eKFa2gWA5ee1CSPvUtx6uoLT1M4QtWQbU4Vzp8O69mm89GwrqTQNbRbspf7H4JvqKEWB9KfMyjh/TYZRuiMDl9r4P8S83b+c6pioDHOvgvULxlLyc6le0X2gBlAcoocHPr5GigudLBLETA==;/2oXqWXgDuws/Ca9EpLPoA=="
 ---

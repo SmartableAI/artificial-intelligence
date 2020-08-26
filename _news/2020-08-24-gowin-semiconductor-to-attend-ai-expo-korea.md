@@ -3,6 +3,7 @@ category: news
 title: "GOWIN Semiconductor to Attend AI EXPO KOREA"
 excerpt: "GOWIN Semiconductor Corp., the world's fastest growing programmable logic company, will attend AI EXPO KOREA on September 23-25, 2020 to demonstrate GOWIN's latest GoAI solution at Hall D, COEX, SEOUL,"
 publishedDateTime: 2020-08-24T07:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/g17203807/gowin-semiconductor-to-attend-ai-expo-korea"
 webUrl: "https://www.benzinga.com/pressreleases/20/08/g17203807/gowin-semiconductor-to-attend-ai-expo-korea"
 ampWebUrl: "https://amp.benzinga.com/amp/content/17203807"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17203807"

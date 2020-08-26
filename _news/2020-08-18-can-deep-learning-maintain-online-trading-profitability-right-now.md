@@ -3,6 +3,7 @@ category: news
 title: "Can Deep Learning Maintain Online Trading Profitability Right Now?"
 excerpt: "Deep learning technology has rattled the global financial industry in both positive and negative ways. On the one hand, deep learning technology has considerably improved market efficiency. Tomiwa, a big data author and expert, claims to have beaten the ..."
 publishedDateTime: 2020-08-18T18:02:00Z
+originalUrl: "https://www.smartdatacollective.com/can-deep-learning-maintain-online-trading-profitability-right-now/"
 webUrl: "https://www.smartdatacollective.com/can-deep-learning-maintain-online-trading-profitability-right-now/"
 type: article
 quality: 56

@@ -3,6 +3,7 @@ category: news
 title: "DeepRacer Women’s League to help women develop machine learning skills"
 excerpt: "The Amazon Web Services DeepRacer Women’s League in Southeast Asia aims to give more women the opportunity to develop or fine-tune their machine learning skills."
 publishedDateTime: 2020-08-20T07:56:00Z
+originalUrl: "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html"
 webUrl: "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html"
 ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html"
 cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html"

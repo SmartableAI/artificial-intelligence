@@ -3,6 +3,7 @@ category: news
 title: "Baidu Launches Its New Urban Robotaxi Service"
 excerpt: "Baidu (NASDAQ:BIDU) announced on Friday that it has launched a branch of its robotaxi service Apollo Go in that city, the first time it is operational in a downtown urban environment. Apollo Go is hooked into the company's wider digital ecosystem."
 publishedDateTime: 2020-08-21T23:03:00Z
+originalUrl: "https://www.fool.com/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/"
 webUrl: "https://www.fool.com/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/"

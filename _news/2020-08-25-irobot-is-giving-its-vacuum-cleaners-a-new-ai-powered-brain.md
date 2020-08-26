@@ -3,6 +3,7 @@ category: news
 title: "iRobot is giving its vacuum cleaners a new AI-powered brain"
 excerpt: "Robot is announcing what it’s calling the biggest software upgrade to its robot vacuum cleaners since the company’s inception 30 years ago: a new AI-powered platform known as iRobot Genius Home Intelligence."
 publishedDateTime: 2020-08-25T04:15:00Z
+originalUrl: "https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app"
 webUrl: "https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app"
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app"

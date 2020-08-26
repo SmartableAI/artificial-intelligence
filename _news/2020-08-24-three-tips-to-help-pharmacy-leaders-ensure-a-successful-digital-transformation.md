@@ -3,6 +3,7 @@ category: news
 title: "Three Tips To Help Pharmacy Leaders Ensure A Successful Digital Transformation"
 excerpt: "Pharmacy — specifically hospital pharmacy— is a key area where digital transformation can have a significant impact."
 publishedDateTime: 2020-08-24T12:24:00Z
+originalUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/24/three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation/"
 webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/24/three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation/"
 ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/24/three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/08/24/three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation/amp/"

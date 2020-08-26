@@ -3,6 +3,7 @@ category: news
 title: "Microsoft Turns to 'AIOps' for Better Azure Outage Announcements"
 excerpt: "Microsoft has streamlined its Azure outage reporting via artificial intelligence (AI) technology. This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform ..."
 publishedDateTime: 2020-08-18T00:01:00Z
+originalUrl: "https://rcpmag.com/articles/2020/08/18/microsoft-aiops-azure-outage.aspx"
 webUrl: "https://rcpmag.com/articles/2020/08/18/microsoft-aiops-azure-outage.aspx"
 type: article
 quality: 69

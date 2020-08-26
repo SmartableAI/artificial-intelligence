@@ -3,6 +3,7 @@ category: news
 title: "How Close Are We Really To A Robot-Run Society?"
 excerpt: "From self-driving cars to automated warehouses, humans are being pushed out of the equation. Soon, robots will \"do a million other things we can't even conceive of,\" author John Markoff says."
 publishedDateTime: 2020-08-20T17:42:00Z
+originalUrl: "https://www.npr.org/sections/alltechconsidered/2015/08/20/433000643/how-close-are-we-really-to-a-robot-run-society"
 webUrl: "https://www.npr.org/sections/alltechconsidered/2015/08/20/433000643/how-close-are-we-really-to-a-robot-run-society"
 type: article
 quality: 24

@@ -3,6 +3,7 @@ category: news
 title: "Why Should You Patent Your AI Inventions"
 excerpt: "Such jobs are made safer by AI, thereby preventing casualties. Establishing a universal language translation warrants a super complex technology. The switch to neural networks, also known as deep learning, results in highly accurate machine translation ..."
 publishedDateTime: 2020-08-20T04:34:00Z
+originalUrl: "https://analyticsindiamag.com/why-should-you-patent-your-ai-inventions/"
 webUrl: "https://analyticsindiamag.com/why-should-you-patent-your-ai-inventions/"
 type: article
 quality: 39

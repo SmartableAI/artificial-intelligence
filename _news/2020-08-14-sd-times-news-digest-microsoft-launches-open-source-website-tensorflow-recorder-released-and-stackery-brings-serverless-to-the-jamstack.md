@@ -3,6 +3,7 @@ category: news
 title: "SD Times news digest: Microsoft launches open source website, TensorFlow Recorder released, and Stackery brings serverless to the Jamstack"
 excerpt: "Microsoft launches open source website, TensorFlow Recorder released, Stackery brings serverless to the Jamstack"
 publishedDateTime: 2020-08-14T15:19:00Z
+originalUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-launches-open-source-website-tensorflow-recorder-released-and-stackery-brings-serverless-to-the-jamstack/"
 webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-launches-open-source-website-tensorflow-recorder-released-and-stackery-brings-serverless-to-the-jamstack/"
 type: article
 quality: 52

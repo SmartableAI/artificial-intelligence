@@ -3,6 +3,7 @@ category: news
 title: "Michael Kanaan: The U.S. needs an AI ‘Sputnik moment’ to compete with China and Russia"
 excerpt: "Minus AI,” Kanaan calls attention to the need for the U.S. to wake up to AI as a matter of global power, in the same way that China and Russia have."
 publishedDateTime: 2020-08-25T22:01:00Z
+originalUrl: "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/"
 webUrl: "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/"
 ampWebUrl: "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/amp/"

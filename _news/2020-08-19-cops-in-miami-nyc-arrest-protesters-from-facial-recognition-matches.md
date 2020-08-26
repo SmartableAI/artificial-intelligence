@@ -3,6 +3,7 @@ category: news
 title: "Cops in Miami, NYC arrest protesters from facial recognition matches"
 excerpt: "Law enforcement in several cities, including New York and Miami, have reportedly been using controversial facial recognition software to track down and arrest individuals who allegedly participated in criminal activity during Black Lives Matter protests months after the fact."
 publishedDateTime: 2020-08-19T20:45:00Z
+originalUrl: "https://arstechnica.com/tech-policy/2020/08/cops-in-miami-nyc-arrest-protesters-from-facial-recognition-matches/"
 webUrl: "https://arstechnica.com/tech-policy/2020/08/cops-in-miami-nyc-arrest-protesters-from-facial-recognition-matches/"
 type: article
 quality: 69

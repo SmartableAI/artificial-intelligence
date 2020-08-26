@@ -3,6 +3,7 @@ category: news
 title: "Microsoft Word To Take Voice Commands, Transcribe Recordings"
 excerpt: "Microsoft said that updates to Office 365 will allow users to record conversations \"directly in Word for the web and transcribe them automatically.\""
 publishedDateTime: 2020-08-25T20:55:00Z
+originalUrl: "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/"
 webUrl: "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/"
 ampWebUrl: "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/"
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/"

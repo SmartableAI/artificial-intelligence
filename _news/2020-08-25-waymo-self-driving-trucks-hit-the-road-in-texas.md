@@ -3,6 +3,7 @@ category: news
 title: "Waymo self-driving trucks hit the road in Texas"
 excerpt: "After deploying its autonomous Chrysler Pacifica prototypes to map roads, Waymo has sent its trucks to Texas interstates."
 publishedDateTime: 2020-08-25T16:56:00Z
+originalUrl: "https://www.cnet.com/roadshow/news/waymo-self-driving-trucks-texas/"
 webUrl: "https://www.cnet.com/roadshow/news/waymo-self-driving-trucks-texas/"
 ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-trucks-texas/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-trucks-texas/"

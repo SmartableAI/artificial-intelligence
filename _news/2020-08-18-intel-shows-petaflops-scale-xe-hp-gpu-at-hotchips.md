@@ -3,6 +3,7 @@ category: news
 title: "Intel shows PetaFLOPs Scale Xe HP GPU at HotChips"
 excerpt: "Holding a talk at HotChips 32, Raja Koduri showed a 4-tile Xe HP GPU, the biggest one in the lot, as well as talk about the scalability of the chip. Aimed at machine learning and AI, the Intel Xe HP GPU, which was previously seen in its smallest ..."
 publishedDateTime: 2020-08-18T10:44:00Z
+originalUrl: "https://www.fudzilla.com/news/graphics/51372-intel-shows-petaflops-scale-xe-hp-gpu-at-hotchips"
 webUrl: "https://www.fudzilla.com/news/graphics/51372-intel-shows-petaflops-scale-xe-hp-gpu-at-hotchips"
 type: article
 quality: 54

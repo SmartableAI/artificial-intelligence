@@ -3,6 +3,7 @@ category: news
 title: "DeepMind grants first postgraduate AI scholarships at Stellenbosch University"
 excerpt: "London-based artificial intelligence (AI) research and application company DeepMind has awarded eight scholarships for postgraduate studies in the fields of applied mathematics, statistics, electrical and electronic engineering and computer science at ..."
 publishedDateTime: 2020-08-12T00:04:00Z
+originalUrl: "https://www.engineeringnews.co.za/article/deepmind-grants-first-postgraduate-ai-scholarships-at-stellenbosch-university-2020-08-11"
 webUrl: "https://www.engineeringnews.co.za/article/deepmind-grants-first-postgraduate-ai-scholarships-at-stellenbosch-university-2020-08-11"
 type: article
 quality: 31

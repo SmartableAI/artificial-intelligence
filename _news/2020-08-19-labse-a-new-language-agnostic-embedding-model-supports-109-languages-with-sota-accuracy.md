@@ -3,6 +3,7 @@ category: news
 title: "LaBSE, a new language-agnostic embedding model, supports 109 languages with SOTA accuracy"
 excerpt: "Language-agnostic BERT Sentence Embedding (LaBSE), is a multilingual BERT embedding model that supports language-agnostic cross-lingual sentence embeddings for 109 languages by combining MLM and TLM."
 publishedDateTime: 2020-08-19T07:28:00Z
+originalUrl: "https://www.neowin.net/news/labse-a-new-language-agnostic-embedding-model-supports-109-languages-with-sota-accuracy"
 webUrl: "https://www.neowin.net/news/labse-a-new-language-agnostic-embedding-model-supports-109-languages-with-sota-accuracy"
 ampWebUrl: "https://www.neowin.net/amp/labse-a-new-language-agnostic-embedding-model-supports-109-languages-with-sota-accuracy/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/labse-a-new-language-agnostic-embedding-model-supports-109-languages-with-sota-accuracy/"

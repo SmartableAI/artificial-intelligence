@@ -3,6 +3,7 @@ category: news
 title: "Intel Xe HPG Discrete Gaming GPU Coming 2021"
 excerpt: "The Intel Xe GPU was announced by Intel back in 2018 and we have all be waiting patiently to see just how powerful Xe graphics is going to be. Intel will be using Xe in a wide range of applications from integrated solutions all the way up to dedicated cards that will be deployed in HPC/AI"
 publishedDateTime: 2020-08-13T16:08:00Z
+originalUrl: "https://www.legitreviews.com/intel-xe-hpg-discrete-gaming-gpu-coming-2021_221214"
 webUrl: "https://www.legitreviews.com/intel-xe-hpg-discrete-gaming-gpu-coming-2021_221214"
 type: article
 quality: 39

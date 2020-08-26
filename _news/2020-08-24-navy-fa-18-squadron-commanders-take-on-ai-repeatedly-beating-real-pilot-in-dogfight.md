@@ -3,6 +3,7 @@ category: news
 title: "Navy F/A-18 Squadron Commander's Take On AI Repeatedly Beating Real Pilot In Dogfight"
 excerpt: "Everyone has an opinion when it comes to the stunning results of DARPA's AlphaDogfight trials, now hear what the skipper of a fighter squadron thinks."
 publishedDateTime: 2020-08-24T20:50:00Z
+originalUrl: "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
 webUrl: "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
 type: article
 quality: 32

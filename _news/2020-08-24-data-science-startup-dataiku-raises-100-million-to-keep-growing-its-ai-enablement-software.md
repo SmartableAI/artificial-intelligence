@@ -3,6 +3,7 @@ category: news
 title: "Data Science Startup Dataiku Raises $100 Million To Keep Growing Its AI Enablement Software"
 excerpt: "Instead, he hopes enterprises will turn to Dataiku’s web-based software to take themselves on the path to artificial intelligence. The New York City startup on Monday announced that it had raised $100 million in a Series D round led by Stripes and Tiger Global Management."
 publishedDateTime: 2020-08-24T04:14:00Z
+originalUrl: "https://www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enablement-for-enterprises-startup-raises-100-million-series-d/"
 webUrl: "https://www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enablement-for-enterprises-startup-raises-100-million-series-d/"
 ampWebUrl: "https://www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enablement-for-enterprises-startup-raises-100-million-series-d/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enablement-for-enterprises-startup-raises-100-million-series-d/amp/"

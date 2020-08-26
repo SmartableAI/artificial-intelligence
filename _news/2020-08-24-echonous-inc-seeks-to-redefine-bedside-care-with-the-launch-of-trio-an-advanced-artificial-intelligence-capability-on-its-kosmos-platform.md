@@ -3,10 +3,10 @@ category: news
 title: "EchoNous, Inc. Seeks to Redefine Bedside Care With the Launch of Trio, an Advanced Artificial Intelligence Capability on Its Kosmos Platform"
 excerpt: "The physical, or bedside exam, hasn’t fundamentally changed since before we had color TV,” says EchoNous founder Kevin Goodwin. “The launch of our AI-driven guiding, grading, and labeling is a big first step in our mission to revolutionize bedside clinical assessment."
 publishedDateTime: 2020-08-24T10:00:00Z
-webUrl: "https://apnews.com/696f293e6406a1f008f5571b78031fcc"
+webUrl: "https://apnews.com/eb02d238a26c8f26761d9dac6cfe8481"
 type: article
-quality: 4
-heat: 4
+quality: 2
+heat: 2
 published: false
 
 provider:
@@ -14,7 +14,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -23,6 +22,6 @@ images:
     height: 450
     isCached: true
 
-secured: "f39Bd4yrgoAS7m7dhzn9MOXkmqJBYa49N632OSW08+ZekSYhcoeDfRW5TUuWLCYf7ivOV3B7uZ6DAz/n1o8h+afQmZQKeqpGw2GAOJw05ofeR1qjenZqilZSbUZmJRjplCRNgA23A/4pwhRPHOeAOcl2OiJbH9YHXAyo+JzqZ0BCuiXyabp1BowdgI25Exr/pOaBYjfJxz/jg94WWZhi7hOxQgnbOQgLrU1pfzIDQKaUOBbWdre6fFwO0DiAKq/zyM244NltLbKoIF6BU2FF3cBODZgH/fb7mv7qfw8upySgL6k0pG8FM0GAUFBtltwB17IwGIA8kcmQD8Dqp4l0iQ==;WpPH8Uax64wpKb+a3nUrNA=="
+secured: "95LwDc+gsFqQcYJVa3+TY6YtdN5A/IRxDinlEdGoGdRNJwHgR1qDHAlSWQ3Iqyo4fvlinP2x5T/zMZ6Ox1rb7z+tvHm+r1iq05bETJvGPW5CwxS3imXJ8FABk+Bjf+HGY4l5JS6yS2sY2nK5MV2FMrEY5CvieKL3XxFJulmjax6aQfF+N2cuInALojNKHb25806DhEwbxPMVUOygcoCGd3PjGK7vHo1xJkYR3ikTNI2j8gL6DDRFo1iRfzj/gRpdzZU6sDkDKq0AuyE54Ulpr1goycTPp2W8YOORJAdyEJaI+ZVvzESrUplsUkAB5HhlB5kLLmQG4L9cjyvqCrY5dA==;WaE4W4cx/6MEyMseKObTew=="
 ---
 

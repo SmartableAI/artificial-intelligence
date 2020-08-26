@@ -3,6 +3,7 @@ category: news
 title: "Ogmagod employs natural language processing to empower users with actionable intelligence"
 excerpt: "The field of natural language processing is gradually evolving, and one startup is channeling its ability to scan unstructured information about companies and business relationships and extract meaningful insight."
 publishedDateTime: 2020-08-19T19:32:00Z
+originalUrl: "https://siliconangle.com/2020/08/19/ogmagod-employs-natural-language-processing-to-empower-users-with-actionable-intelligence-cubeconversations/"
 webUrl: "https://siliconangle.com/2020/08/19/ogmagod-employs-natural-language-processing-to-empower-users-with-actionable-intelligence-cubeconversations/"
 type: article
 quality: 30

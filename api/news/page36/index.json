@@ -2,6 +2,326 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-07-27-how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience.md",
+      "title": "How 5G, Wi-Fi 6 and AI will provide a smarter home experience",
+      "excerpt": "The demand for smart home technology is driving diversification in device categories – virtually any appliance you can think of comes in a connected variant today – and also opening up new ways in which advanced technologies like AI and 5G can be used to drive new consumer experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YXL4dK3RBKZ4viQ5Jqnj2M-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience",
+      "publishedDateTime": "2020-07-27T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-the-real-reason-were-afraid-of-robots.md",
+      "title": "The real reason we’re afraid of robots",
+      "excerpt": "Make no mistake AI does pose many real dangers to us: to our personal privacy and security and to the future of the economy. These are all very good reasons to watch it closely and regulate it aggressively.",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2019/07/15/Artificial-Intelligence--AI-_16bf61c847a_large.jpg",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
+      "publishedDateTime": "2020-07-27T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-a-new-season-every-week-how-myntra-is-using-data-to-disrupt-the-fashion-industry.md",
+      "title": "A new season every week: how Myntra is using data to disrupt the fashion industry",
+      "excerpt": "Apart from providing Myntra the elasticity to cater to demand spikes, Azure’s built-in Machine Learning tools expedited the development of advanced analytics capabilities to understand their consumers better. “The amount of data from which we learn ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-in/features/a-new-season-every-week-how-myntra-is-using-data-to-disrupt-the-fashion-industry/",
+      "originalUrl": "https://news.microsoft.com/en-in/features/a-new-season-every-week-how-myntra-is-using-data-to-disrupt-the-fashion-industry/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/07/@iambeansingh-4-1280x1600.jpg",
+          "width": 1280,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-learn-machine-learning-and-ai-online-training-program-93-off.md",
+      "title": "Learn Machine Learning and AI – Online Training Program @ 93% OFF",
+      "excerpt": "Essential AI & Machine Learning Certification Training Bundle aims to help you explore the technology, with four hands-on video courses working towards certification.",
+      "sourceUrl": null,
+      "webUrl": "https://thehackernews.com/2020/07/artificial-intelligence-training.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehackernews.com/images/-FUHLQOfZuO8/Xx6QR2PQ7cI/AAAAAAAAAdQ/P84ceUYGkSkXV_G5w9KVVkijiPJvFfBBACLcBGAsYHQ/s728-e100/machine-learning-artificial-intelligence.jpg",
+          "width": 728,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehackernews.com/2020/07/artificial-intelligence-training.html?amp=1",
+      "cdnAmpWebUrl": "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/07/artificial-intelligence-training.html?amp=1",
+      "publishedDateTime": "2020-07-27T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hacker News",
+        "domain": "thehackernews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh.md",
+      "title": "GMRIT launches artificial intelligence lab in Andhra Pradesh",
+      "excerpt": "The GMR Institute of Technology (GMRIT) at Rajam, Srikakulam district in Andhra Pradesh has inaugurated an artificial intelligence laboratory set up to provide training and certification on AI applications development to its students and faculty through a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/a833rd/article32201679.ece/ALTERNATES/LANDSCAPE_615/bl28-AI",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece/amp/",
+      "publishedDateTime": "2020-07-27T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer.md",
+      "title": "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. SILICON SLOPES, Utah, Jul 27, 2020 (GLOBE NEWSWIRE via COMTEX) -- Pluralsight, Inc. (NASDAQ: PS), the technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-aiming-for-more-than-just-net-zero.md",
+      "title": "Aiming for more than just net zero",
+      "excerpt": "Many companies are reaching for net zero emissions, but we’re taking it even further.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/aiming-for-more-than-just-net-zero/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0965e5ed-15e8-40c4-9273-6c10ba66a14a.png",
+          "width": 920,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T01:00:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-this-ai-uses-emoji-to-protect-blm-protestors-from-facial-recognition.md",
       "title": "This AI uses emoji to protect BLM protestors from facial recognition",
       "excerpt": "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji.",
@@ -808,318 +1128,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-25-ai-in-fintech-market-competitive-analysis-market-entry-strategy-pricing-trends-sustainability-trends-innovation-and-technology-evolution.md",
-      "title": "AI in Fintech Market Competitive Analysis, Market Entry Strategy, Pricing Trends, Sustainability Trends, Innovation And Technology Evolution",
-      "excerpt": "Data Bridge Market Research published a new report, titled, \"AI in Fintech Market Global Growth, Trends, Opportunities and COVID-19 Impacts\" It has been accepted as true that the finest market research report is the one which is pertinent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-competitive-analysis-market-entry-strategy-pricing-trends-sustainability-trends-innovation-and-technology-evolution-2020-07-25",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-25T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-25-why-the-complete-version-of-tesla-full-self-driving-will-take-longer-than-elon-musk-says-it-will.md",
-      "title": "Why the complete version of Tesla Full Self-Driving will take longer than Elon Musk says it will",
-      "excerpt": "Driving, or FSD, today for $8,000, but it's not feature complete. CNBC explores why the complete version of FSD has yet to be released.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104243259-GettyImages-609781368.jpg?v=1532563927",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html",
-      "publishedDateTime": "2020-07-25T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-25-uae-china-to-collaborate-on-fintech-ai-as-part-of-chinas-belt-and-road-initiative.md",
-      "title": "UAE, China to collaborate on fintech, AI as part of China's belt and road initiative",
-      "excerpt": "Dubai International Financial Centre has signed a memorandum of understanding with China’s Jiaozi Fintech Dreamworks as part of China’s belt and road economic initiative to co",
-      "sourceUrl": null,
-      "webUrl": "https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vid.alarabiya.net/images/2020/02/11/e79c4b09-e7dc-4d68-8c39-7489ad4704ae/e79c4b09-e7dc-4d68-8c39-7489ad4704ae_16x9_600x338.jpg?width=466",
-          "width": 466,
-          "height": 263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://english.alarabiya.net/en/amp/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative",
-      "cdnAmpWebUrl": "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative",
-      "publishedDateTime": "2020-07-25T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "العربية.نت",
-        "domain": "alarabiya.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-25-chemists-just-worked-out-how-to-recycle-some-of-our-toughest-single-use-plastics.md",
-      "title": "Chemists Just Worked Out How to Recycle Some of Our Toughest Single-Use Plastics",
-      "excerpt": "That could change with the help of new research into the chemical bonds ... of thermoset with this basic architecture,\" says chemist Jeremiah Johnson, from the Massachusetts Institute of ...",
-      "sourceUrl": null,
-      "webUrl": "https://mobile.twitter.com/yoda69?lang=en",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-25T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "twitter.com/yoda69?lang=en",
-        "domain": "twitter.com/yoda69?lang=en",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-25-artificial-intelligence-in-accounting-market-research-report.md",
-      "title": "Artificial Intelligence in Accounting Market Research Report",
-      "excerpt": "An informative data report titled Artificial Intelligence in Accounting Market was published by Primary and secondary research methodologies have been used by researchers to analyse the data effectively It throws light on industry key factors such as global clients",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2096670/artificial-intelligence-in-accounting-market-research-report",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T725964590_g.jpg",
-          "width": 800,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2096670/artificial-intelligence-in-accounting-market-research-report",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096670/artificial-intelligence-in-accounting-market-research-report",
-      "publishedDateTime": "2020-07-24T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry.md",
-      "title": "The cloud becomes a delivery mechanism for the media and entertainment industry",
-      "excerpt": "The pandemic has accelerated digital transformation efforts in M&E businesses to help create innovation, efficiencies, and new revenue streams, according to a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/06/13441199-0033-4e37-a942-b9bc2deaac89/resize/1200x/9a229ce009266f1a6bbd4fa8123f6cb7/istock-1167582999.jpg",
-          "width": 1200,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry/",
-      "publishedDateTime": "2020-07-24T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-ucla-childrens-hfchildrospital-implements-new-ai-robot-to-improve-mental-health-during-treatment.md",
-      "title": "UCLA Children's Hfchildrospital implements new AI robot to improve mental health during treatment",
-      "excerpt": "Children may undergo challenging experiences when admitted for in-patient care at pediatric hospitals. Now, a new AI robot, Robin, helps to improve their experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ucla-childrens-hospital-implements-new-ai-robot-to-improve-mental-health-during-treatment/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/07/24/5ec231cd-4134-4488-bd49-546e6f9a34ae/robin-ai-robot-expper-eileen-brown-zdnet.png",
-          "width": 1191,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ucla-childrens-hospital-implements-new-ai-robot-to-improve-mental-health-during-treatment/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ucla-childrens-hospital-implements-new-ai-robot-to-improve-mental-health-during-treatment/",
-      "publishedDateTime": "2020-07-24T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

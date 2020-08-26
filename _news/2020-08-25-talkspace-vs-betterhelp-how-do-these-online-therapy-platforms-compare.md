@@ -3,6 +3,7 @@ category: news
 title: "Talkspace vs. BetterHelp: How Do These Online Therapy Platforms Compare?"
 excerpt: "Talkspace and BetterHelp both offer online access to trained therapists for a wide range of mental health services. Learn more about how they compare, what they cost, and what they do best."
 publishedDateTime: 2020-08-25T20:03:00Z
+originalUrl: "https://www.healthline.com/health/talkspace-vs-betterhelp"
 webUrl: "https://www.healthline.com/health/talkspace-vs-betterhelp"
 type: article
 quality: 38

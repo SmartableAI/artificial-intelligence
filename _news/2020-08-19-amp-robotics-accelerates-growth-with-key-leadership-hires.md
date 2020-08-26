@@ -3,6 +3,7 @@ category: news
 title: "AMP Robotics Accelerates Growth With Key Leadership Hires"
 excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics used to recover commodities reclaimed as raw materials for the glob"
 publishedDateTime: 2020-08-19T19:36:00Z
+originalUrl: "https://www.businesswire.com/news/home/20200819005638/en/AMP-Robotics-Accelerates-Growth-Key-Leadership-Hires"
 webUrl: "https://www.businesswire.com/news/home/20200819005638/en/AMP-Robotics-Accelerates-Growth-Key-Leadership-Hires"
 type: article
 quality: 54

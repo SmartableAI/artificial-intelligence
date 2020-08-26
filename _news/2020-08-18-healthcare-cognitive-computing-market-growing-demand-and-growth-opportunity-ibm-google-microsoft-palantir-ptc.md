@@ -3,6 +3,7 @@ category: news
 title: "Healthcare Cognitive Computing market growing demand and growth opportunity: IBM, Google, Microsoft, Palantir, PTC"
 excerpt: "The Major key players profiled in this report include: IBM, Google, Microsoft, Palantir, PTC Healthcare Cognitive Computing Market can be ... Ample Market Research provides comprehensive market research services and solutions across various industry ..."
 publishedDateTime: 2020-08-18T17:37:00Z
+originalUrl: "https://www.openpr.com/news/2115794/healthcare-cognitive-computing-market-growing-demand"
 webUrl: "https://www.openpr.com/news/2115794/healthcare-cognitive-computing-market-growing-demand"
 ampWebUrl: "https://www.openpr.com/amp/2115794/healthcare-cognitive-computing-market-growing-demand"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2115794/healthcare-cognitive-computing-market-growing-demand"

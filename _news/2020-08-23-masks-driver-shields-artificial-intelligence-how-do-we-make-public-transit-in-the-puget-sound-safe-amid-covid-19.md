@@ -3,6 +3,7 @@ category: news
 title: "Masks, driver shields, artificial intelligence: How do we make public transit in the Puget Sound safe amid COVID-19?"
 excerpt: "Like schools, restaurants and other facets of once-normal life, public transit in the Puget Sound area could look dramatically different if the pandemic stretches on. Ridership has plummeted and agencies have scrambled to keep drivers and passengers safe as"
 publishedDateTime: 2020-08-23T13:00:00Z
+originalUrl: "https://www.seattletimes.com/seattle-news/transportation/masks-driver-shields-artificial-intelligence-how-do-we-make-public-transit-in-the-puget-sound-amid-covid-19/"
 webUrl: "https://www.seattletimes.com/seattle-news/transportation/masks-driver-shields-artificial-intelligence-how-do-we-make-public-transit-in-the-puget-sound-amid-covid-19/"
 ampWebUrl: "https://www.seattletimes.com/seattle-news/transportation/masks-driver-shields-artificial-intelligence-how-do-we-make-public-transit-in-the-puget-sound-amid-covid-19/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/transportation/masks-driver-shields-artificial-intelligence-how-do-we-make-public-transit-in-the-puget-sound-amid-covid-19/?amp=1"

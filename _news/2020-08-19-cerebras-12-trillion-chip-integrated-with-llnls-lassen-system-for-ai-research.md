@@ -3,6 +3,7 @@ category: news
 title: "Cerebras 1.2 Trillion Chip Integrated with LLNL’s Lassen System for AI Research"
 excerpt: "Lawrence Livermore National Laboratory (LLNL) and AI company Cerebras Systems today announced the integration of the 1.2-trillion Cerebras’ Wafer Scale Engine (WSE) chip into the National Nuclear Security Administration’s (NNSA) 23-petaflop Lassen ..."
 publishedDateTime: 2020-08-19T16:26:00Z
+originalUrl: "https://insidehpc.com/2020/08/cerebras-1-2-trillion-chip-integrated-with-llnls-lassen-system-for-ai-research/"
 webUrl: "https://insidehpc.com/2020/08/cerebras-1-2-trillion-chip-integrated-with-llnls-lassen-system-for-ai-research/"
 type: article
 quality: 50

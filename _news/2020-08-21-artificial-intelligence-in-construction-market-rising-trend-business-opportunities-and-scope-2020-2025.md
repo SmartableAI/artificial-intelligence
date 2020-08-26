@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Platform Market Size by Production, Top Countries Import-Export and Consumption Forecast & Regional Analysis by 2024"
+    excerpt: "Artificial Intelligence Platform Market\" 2020-2024 Report Provides Market Share, CAGR, Production, Consumption,"
+    publishedDateTime: 2020-08-25T22:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-size-by-production-top-countries-import-export-and-consumption-forecast-regional-analysis-by-2024-2020-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+RGLM3cn5o46J9ZTc6NoeZVo0EJb9kUHoeX9CsjCypPjkpPhdY+ovWhcXft8brd85HcDX/8Ta3KPiM1XIN34KL7a6mYK9XhRsuY3emk1UzCgRXChB5cTnTKTzuT82IyL7UfJJKWcREhKTpYQtuBcu/Rcn5wyJ8tMnllgSC0A9u3VPhDo+LSyf5Q9p5PmJCi518XevolMUOQtL+S2ClFr7KHGH2/JFMxfWZuXTvK8vyBJvJmxzuFeDYOT88FObNJ36eetwL40H7MLwKJQ53si9o5e2WdUsxX2PoKE5W4XdVZSsls5M2pzZ7x4omF7Ygfqd4JiEg7eCxOcBz/m6oD5Sw==;SnsUmV7R1MGWK7SsK2U0LQ=="
 ---

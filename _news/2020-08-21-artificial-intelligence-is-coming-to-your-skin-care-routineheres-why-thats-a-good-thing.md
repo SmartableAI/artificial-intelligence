@@ -3,6 +3,7 @@ category: news
 title: "Artificial Intelligence Is Coming To Your Skin-Care Routine—Here’s Why That’s a Good Thing"
 excerpt: "Finding a routine that’s right for your skin has traditionally meant years of trials and testing (or a really great dermatologist), but a new crop of AI skin-care brands are turning it into a process that takes 10 minutes or less."
 publishedDateTime: 2020-08-21T20:40:00Z
+originalUrl: "https://www.wellandgood.com/artificial-intelligence-is-coming-to-your-skin-care-routine-heres-why-thats-a-good-thing/"
 webUrl: "https://www.wellandgood.com/artificial-intelligence-is-coming-to-your-skin-care-routine-heres-why-thats-a-good-thing/"
 ampWebUrl: "https://www.wellandgood.com/artificial-intelligence-is-coming-to-your-skin-care-routine-heres-why-thats-a-good-thing/amp/"
 cdnAmpWebUrl: "https://www-wellandgood-com.cdn.ampproject.org/c/s/www.wellandgood.com/artificial-intelligence-is-coming-to-your-skin-care-routine-heres-why-thats-a-good-thing/amp/"

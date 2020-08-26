@@ -3,6 +3,7 @@ category: news
 title: "NYU Langone, Facebook set out to develop AI-powered 5-minute MRI scan"
 excerpt: "Researchers at NYU Langone Health and Facebook's artificial intelligence division ... Health's radiology department and also a co-author of the research project. The combination of AI and MRI technology aims to construct images with less data rather ..."
 publishedDateTime: 2020-08-18T15:50:00Z
+originalUrl: "https://www.beckershospitalreview.com/artificial-intelligence/nyu-langone-facebook-set-out-to-develop-ai-powered-5-minute-mri-scan.html"
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/nyu-langone-facebook-set-out-to-develop-ai-powered-5-minute-mri-scan.html"
 type: article
 quality: 39

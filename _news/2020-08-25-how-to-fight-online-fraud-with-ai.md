@@ -3,6 +3,7 @@ category: news
 title: "How to fight online fraud with AI"
 excerpt: "Uri Rivner, co-founder and chief cyber officer at BioCatch, talks with Tonya Hall how we can utilize AI to combat online fraud by learning the criminal's patterns and combining the right mix of human judgement and AI automation."
 publishedDateTime: 2020-08-25T13:07:00Z
+originalUrl: "https://www.zdnet.com/video/how-to-fight-online-fraud-with-ai/"
 webUrl: "https://www.zdnet.com/video/how-to-fight-online-fraud-with-ai/"
 type: article
 quality: 67

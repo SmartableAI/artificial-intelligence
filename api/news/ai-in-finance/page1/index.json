@@ -7,7 +7,7 @@
       "excerpt": "All finalists were officially inducted into the Ecobank Fintech Fellowship programme to explore commercial partnerships with the pan-African banking giant",
       "sourceUrl": null,
       "webUrl": "https://www.biztechafrica.com/article/ghanaian-fintech-wins-ecobank-groups-2020-fintech-/16041/",
-      "originalUrl": null,
+      "originalUrl": "https://www.biztechafrica.com/article/ghanaian-fintech-wins-ecobank-groups-2020-fintech-/16041/",
       "featuredContent": null,
       "heat": 84,
       "tags": null,
@@ -48,7 +48,7 @@
       "excerpt": "The digital disruption of the banking industry offers helpful comparisons and takeaways for the future of healthcare and healthcare finance.",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/",
-      "originalUrl": null,
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/",
       "featuredContent": null,
       "heat": 74,
       "tags": null,
@@ -98,9 +98,9 @@
       "excerpt": "New technologies and their frequent use during the first half of 2020 have shown the real estate sector more ways to conduct business.",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/",
-      "originalUrl": null,
+      "originalUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/",
       "featuredContent": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -189,7 +189,7 @@
       "excerpt": "Fintech and big technology companies could outpace traditional banks in the race to develop AI tools that help personalize services, evaluate credit risk and more, analysts and industry executives say.",
       "sourceUrl": null,
       "webUrl": "https://www.wsj.com/articles/banks-see-pressure-in-ai-race-from-fintechs-and-big-tech-11598002201",
-      "originalUrl": null,
+      "originalUrl": "https://www.wsj.com/articles/banks-see-pressure-in-ai-race-from-fintechs-and-big-tech-11598002201",
       "featuredContent": null,
       "heat": 84,
       "tags": null,
@@ -239,7 +239,7 @@
       "excerpt": "To date, Tala’s innovative machine learning solution has found, scored, and offered more than 5 million customers $2.5 billion in loans.",
       "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/",
-      "originalUrl": null,
+      "originalUrl": "https://venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/",
       "featuredContent": null,
       "heat": 93,
       "tags": null,
@@ -286,12 +286,53 @@
       ]
     },
     {
+      "path": "_news/2020-08-20-ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech.md",
+      "title": "CEOs of ServiceNow, Weyland Tech, CloudMD, and Jumia Discuss Innovation in Cloud, Telemedicine, AI, Ecomm & Fintech:",
+      "excerpt": "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights from leaders at ServiceNow, Inc. (NYSE:NOW), Weyland Tech (OTC: WEYL), CloudMD (OTC: DOCRF) and Jumia Technologies (NYSE: JMIA).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/23c39c6175e11f35b0cb61b0b2eded76",
+      "originalUrl": "https://apnews.com/23c39c6175e11f35b0cb61b0b2eded76",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-20T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-ai-as-a-blueprint-for-fintech-startups.md",
       "title": "AI as a blueprint for fintech startups",
       "excerpt": "FINRA’s AI Report is particularly interesting for fintechs since it explores how firms are deploying AI as well as the agency's expectations for AI oversight.",
       "sourceUrl": null,
       "webUrl": "https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/",
-      "originalUrl": null,
+      "originalUrl": "https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/",
       "featuredContent": null,
       "heat": 89,
       "tags": null,
@@ -391,7 +432,7 @@
       "excerpt": "But now its fintech industry, especially the digital-payments sector, is also beginning to make its mark. When Microblink, an R&D company based in Zagreb, Croatia, started out in 2013, it had to rely on its founders' finances,",
       "sourceUrl": null,
       "webUrl": "https://www.zdnet.com/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
-      "originalUrl": null,
+      "originalUrl": "https://www.zdnet.com/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
       "featuredContent": null,
       "heat": 74,
       "tags": null,
@@ -441,7 +482,7 @@
       "excerpt": "Amazon today launched its fully managed quantum computing service -- Braket -- in general availability following a preview.",
       "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/",
-      "originalUrl": null,
+      "originalUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/",
       "featuredContent": null,
       "heat": 88,
       "tags": null,
@@ -591,7 +632,7 @@
       "excerpt": "Growth forecast report \" Machine Learning as a Service (MLaaS) Market size by Product Type (Special Service and Management Services), By Application (Banking, Financial Services, Insurance, Automobile,",
       "sourceUrl": null,
       "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025-2020-08-13",
-      "originalUrl": null,
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025-2020-08-13",
       "featuredContent": null,
       "heat": 81,
       "tags": null,
@@ -1312,56 +1353,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-lufax-p2p-fintech-backed-by-chinas-biggest-insurer-said-to-aim-for-ipo-in-the-us-this-year.md",
-      "title": "Lufax, P2P fintech backed by China’s biggest insurer, said to aim for IPO in the US this year",
-      "excerpt": "Now in its 3rd year, this go-to source for understanding China tech also comes with exclusive access to 6+ webinars with C-level executives, including Charles Li, CEO of HKEX, James Peng, CEO/founder of Pony.ai, and senior executives from Alibaba ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/banking-finance/article/3094293/lufax-p2p-fintech-backed-chinas-biggest-insurer-said-aim",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/22/3462b0de-cc03-11ea-9c1b-809cdd34beb3_image_hires_232518.jpg?itok=stxhy14D&v=1595431526",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3094293/lufax-p2p-fintech-backed-chinas-biggest-insurer-said-aim",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3094293/lufax-p2p-fintech-backed-chinas-biggest-insurer-said-aim",
-      "publishedDateTime": "2020-07-22T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

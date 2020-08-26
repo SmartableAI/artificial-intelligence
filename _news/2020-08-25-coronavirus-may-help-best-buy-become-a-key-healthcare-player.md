@@ -3,6 +3,7 @@ category: news
 title: "Coronavirus May Help Best Buy Become A Key Healthcare Player"
 excerpt: "Best Buy reported a better-than-expected second-quarter profit as coronavirus led consumers to buy appliances, computers and fitness gear to better their remote working and learning experiences. But the pandemic may also hasten its transition to becoming a major healthcare-industry player."
 publishedDateTime: 2020-08-25T23:58:00Z
+originalUrl: "https://www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/"
 webUrl: "https://www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/"
 ampWebUrl: "https://www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/amp/"

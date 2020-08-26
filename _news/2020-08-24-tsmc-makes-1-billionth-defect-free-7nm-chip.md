@@ -3,6 +3,7 @@ category: news
 title: "TSMC makes 1 billionth defect-free 7nm chip"
 excerpt: "TSMC has marked the manufacture of the one-billionth good die on the foundry's 7nm technology, which means one billion functional, defect-free 7nm chips."
 publishedDateTime: 2020-08-24T06:09:00Z
+originalUrl: "https://www.digitimes.com/news/a20200824PR200.html"
 webUrl: "https://www.digitimes.com/news/a20200824PR200.html"
 type: article
 quality: 39

@@ -3,6 +3,7 @@ category: news
 title: "Baidu tops revenue estimates, will keep up heavy investment"
 excerpt: "Baidu Inc. posted a smaller-than-forecast drop in revenue after its online advertising business bounced back from the pandemic. The company said it will keep investing heavily in technology to boost growth,"
 publishedDateTime: 2020-08-13T22:03:00Z
+originalUrl: "https://www.bnnbloomberg.ca/baidu-tops-revenue-estimates-will-keep-up-heavy-investment-1.1479809"
 webUrl: "https://www.bnnbloomberg.ca/baidu-tops-revenue-estimates-will-keep-up-heavy-investment-1.1479809"
 type: article
 quality: 39

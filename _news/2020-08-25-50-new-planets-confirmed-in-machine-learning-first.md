@@ -3,6 +3,7 @@ category: news
 title: "50 new planets confirmed in machine learning first"
 excerpt: "Fifty potential planets have been confirmed by a new machine learning algorithm developed by University of Warwick scientists."
 publishedDateTime: 2020-08-25T13:09:00Z
+originalUrl: "https://phys.org/news/2020-08-planets-machine.html"
 webUrl: "https://phys.org/news/2020-08-planets-machine.html"
 ampWebUrl: "https://phys.org/news/2020-08-planets-machine.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-planets-machine.amp"

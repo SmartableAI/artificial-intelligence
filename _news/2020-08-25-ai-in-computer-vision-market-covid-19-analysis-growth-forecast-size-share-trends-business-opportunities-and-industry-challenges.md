@@ -3,10 +3,11 @@ category: news
 title: "AI in Computer Vision Market COVID-19 Analysis, Growth Forecast, Size, Share, Trends, Business Opportunities and Industry Challenges"
 excerpt: "Market Overview The AI in computer vision market will surpass a valuation of USD 27 billion, attaining a CAGR of 45%"
 publishedDateTime: 2020-08-25T14:29:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-covid-19-analysis-growth-forecast-size-share-trends-business-opportunities-and-industry-challenges-2020-08-25"
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-covid-19-analysis-growth-forecast-size-share-trends-business-opportunities-and-industry-challenges-2020-08-25"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -52,6 +53,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Platform Market Size by Production, Top Countries Import-Export and Consumption Forecast & Regional Analysis by 2024"
+    excerpt: "Artificial Intelligence Platform Market\" 2020-2024 Report Provides Market Share, CAGR, Production, Consumption,"
+    publishedDateTime: 2020-08-25T22:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-size-by-production-top-countries-import-export-and-consumption-forecast-regional-analysis-by-2024-2020-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

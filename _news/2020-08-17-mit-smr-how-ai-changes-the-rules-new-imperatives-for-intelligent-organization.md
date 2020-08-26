@@ -3,6 +3,7 @@ category: news
 title: "MIT SMR: How AI changes the rules: New Imperatives for Intelligent Organization"
 excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
 publishedDateTime: 2020-08-17T19:38:00Z
+originalUrl: "https://www.computerworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization"
 webUrl: "https://www.computerworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization"
 type: article
 

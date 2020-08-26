@@ -1,46 +1,28 @@
 ---
 category: news
 title: "TransPerfect Introduces Free On-Demand Translation Tool For Google Chrome With Release Of GlobalLink NOW Extension"
-excerpt: "TransPerfect, the world's largest provider of language and technology solutions for global business, today announced the launch of"
-publishedDateTime: 2020-08-17T16:05:00Z
-webUrl: "https://www.prnewswire.com/news-releases/transperfect-introduces-free-on-demand-translation-tool-for-google-chrome-with-release-of-globallink-now-extension-301113298.html"
+excerpt: "By employing neural machine translation and AI technology to securely deliver ... reduces the challenges associated with overcoming language barriers. In addition to performing ad hoc translation ..."
+publishedDateTime: 2020-08-17T16:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/n17123177/transperfect-introduces-free-on-demand-translation-tool-for-google-chrome-with-release-of-globalli"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17123177/transperfect-introduces-free-on-demand-translation-tool-for-google-chrome-with-release-of-globalli"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17123177"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17123177"
 type: article
-quality: 2
-heat: -1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/321003/transperfect_logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://mma.prnewswire.com/media/321003/transperfect_logo.jpg"
+    width: 400
+    height: 229
     isCached: true
 
-related:
-  - title: "Now, Microsoft translations for Odia"
-    excerpt: "In a welcome move, Microsoft India has announced the launch of translation service for Odia language. The software will offer real-time translation and transliteration for Odia. The service is available on Microsoft Translator application,"
-    publishedDateTime: 2020-08-18T02:58:00Z
-    webUrl: "https://www.newindianexpress.com/states/odisha/2020/aug/18/now-microsoft-translations-for-odia-2184828.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/odisha/2020/aug/18/now-microsoft-translations-for-odia-2184828.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/odisha/2020/aug/18/now-microsoft-translations-for-odia-2184828.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/logo/nie_logo_600X300.jpg"
-        width: 600
-        height: 300
-        isCached: true
-
-secured: "l3EB4sbVIEILWIfeJidMjq8Qcgi3oT7X0xEW5ZWvbdS7ICwgUp7lD2KXR0aOiXfU152dX+PUoFx1iWNm+ApSa0obJiqA0r5xdENPeKnUHMzLyrml9bgpOJENp8JN+UaJNXUx70a32UXjj3TpqLlV1d38YVEGC7OQNG/hEZ+UrZoVkyV+mPgV836kHKCQ67kFpirlqG81DI4aL6lVRytHINh163eEVkThiSnJ2mLVXkVCQbWY/1n7b381dNd0QTm0itlz/S3hxm0711NDC+QgdObmJ0GGyAWso1lrXYoXUxwZ02/XlHXypIBSCUMx2iPaag3HlGU+8y0KfGzKBhbSNDk2OA9TMZydqWGo090yYB44RjlXtyl4F86GiPWSG/DjSJovk2h2Wkvc5F4WB2UOB9hs1czfOncuyDNIVq+4iOK7G7PS06ydBv0FdkrbGvBY71ICcoKvQ+ia4Larlfvo3nUipFX7TzXEfO0gMep5dG24R1ZufhkkX6ELGdVWw6MVlqP5kXbk7uRBAYkMCy8mTg==;1aO31IwrFtHLp+YciGqSdw=="
+secured: "uQYMVccuhnapf/Jps+6602oWKxWJcK/q/AdkxAinAGwmmkBl/RhXuQh18ZqKw8p+XhKCZXp3wM7YvPUhZok/UWx8/XCCsD1CVmUEnaB0JUvls4urchS01Fyvog7oYZgEys2r/Zgr+w0qIsz2rmHIPHLJkdytn8lJ1Ujty7Mq3/9F9sK1bx5LEHNc4sSmhm1lqMPGu6herolG2KBPvk0JOayPDXnPQVZzYXWWz/+hE5rIe+uAMFeAeGpOFugWOm07tfra1M5IzqGewmyWQb+oz0umcCXn22IGhXLhpHvOCWFWkYGNCrsXkrRVvGr6L2uQiQAkrENSLV/qPafjhxZflQT2EZBbQsBMNTZFtnFUuJA=;+k2s8sax7qBEF6ZpP8oPmg=="
 ---
 

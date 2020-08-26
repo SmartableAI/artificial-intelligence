@@ -3,6 +3,7 @@ category: news
 title: "Global AI Ethics: Can we truly have ethical AI without discussing impact of colonialism?"
 excerpt: "The impact of AI on societies can be far reaching, as we have witnessed cases of racial profiling, surveillance, inequality, and injustice as a result of combination data quality and algorithmic-bias,"
 publishedDateTime: 2020-08-17T08:00:00Z
+originalUrl: "https://www.linkedin.com/pulse/global-ai-ethics-can-we-truly-have-ethical-without-impact-mustafa/?trackingId=MOoSfOhGvQUfBG7cB4zKbQ%3D%3D"
 webUrl: "https://www.linkedin.com/pulse/global-ai-ethics-can-we-truly-have-ethical-without-impact-mustafa/?trackingId=MOoSfOhGvQUfBG7cB4zKbQ%3D%3D"
 type: article
 quality: 60

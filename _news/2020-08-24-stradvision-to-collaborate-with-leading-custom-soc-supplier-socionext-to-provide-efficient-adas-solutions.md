@@ -3,6 +3,7 @@ category: news
 title: "StradVision to collaborate with leading custom SoC supplier Socionext to provide efficient ADAS solutions"
 excerpt: "StradVision has announced a collaboration with Socionext Inc., a leading supplier of System-on-Chip (SoC) solutions, to bring"
 publishedDateTime: 2020-08-24T21:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions-301117303.html"
 webUrl: "https://www.prnewswire.com/news-releases/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions-301117303.html"
 type: article
 quality: 7

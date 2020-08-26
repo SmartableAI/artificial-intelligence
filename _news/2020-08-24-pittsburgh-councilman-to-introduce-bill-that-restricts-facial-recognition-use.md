@@ -3,6 +3,7 @@ category: news
 title: "Pittsburgh Councilman to introduce bill that restricts facial recognition use"
 excerpt: "Pittsburgh City Councilman Corey O’Connor intends to introduce legislation Tuesday that would regulate the usage of facial recognition and predictive policing technology in the city. “This technology has harmed more people than it’s helped,"
 publishedDateTime: 2020-08-24T20:20:00Z
+originalUrl: "https://triblive.com/local/pittsburgh-councilman-to-introduce-bill-that-restricts-facial-recognition-use/"
 webUrl: "https://triblive.com/local/pittsburgh-councilman-to-introduce-bill-that-restricts-facial-recognition-use/"
 type: article
 quality: 16

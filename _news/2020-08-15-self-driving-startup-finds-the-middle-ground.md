@@ -3,6 +3,7 @@ category: news
 title: "Self-driving startup finds the middle ground"
 excerpt: "Most of his counterparts in the self-driving industry chase a moonshot, making enormous efforts to develop systems capable of handling complicated traffic scenarios in an almost-limitless number of areas."
 publishedDateTime: 2020-08-15T04:00:00Z
+originalUrl: "https://www.autonews.com/technology/self-driving-startup-finds-middle-ground"
 webUrl: "https://www.autonews.com/technology/self-driving-startup-finds-middle-ground"
 type: article
 quality: 24

@@ -3,6 +3,7 @@ category: news
 title: "7 Successful Ways To Use Artificial Intelligence To Improve Your Business Processes"
 excerpt: "It has never been more important for businesses to optimize and streamline their business processes. In this article, we look at how Artificial Intelligence (AI) can help with that."
 publishedDateTime: 2020-08-24T04:21:00Z
+originalUrl: "https://www.forbes.com/sites/bernardmarr/2020/08/24/7-successful-ways-to-use-artificial-intelligence-to-improve-your-business-processes/"
 webUrl: "https://www.forbes.com/sites/bernardmarr/2020/08/24/7-successful-ways-to-use-artificial-intelligence-to-improve-your-business-processes/"
 type: article
 quality: 63

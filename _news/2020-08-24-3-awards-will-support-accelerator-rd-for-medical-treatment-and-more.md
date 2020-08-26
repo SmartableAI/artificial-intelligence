@@ -3,6 +3,7 @@ category: news
 title: "3 awards will support Accelerator R&D for Medical Treatment and more"
 excerpt: "U.S. Department of Energy awards announced in July will advance Lawrence Berkeley National Laboratory (Berkeley Lab) R&D to develop a more effective and compact particle-beam system for cancer treatment,"
 publishedDateTime: 2020-08-24T15:50:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-08/dbnl-3aw082420.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-08/dbnl-3aw082420.php"
 type: article
 quality: 24

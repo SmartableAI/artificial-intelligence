@@ -3,6 +3,7 @@ category: news
 title: "Russell Crowe’s ‘Unhinged’ Portrayal Would Be Markedly Different Once Self-Driving Cars Arrive"
 excerpt: "This past weekend the highly anticipated movie “Unhinged” starring actor extraordinaire Russell Crowe opened in U.S. movie theatres. Given the extraordinary circumstances facing the movie industry, the film did surprisingly well at the box office."
 publishedDateTime: 2020-08-25T15:36:00Z
+originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/25/russell-crowes-unhinged-portrayal-would-be-markedly-different-once-self-driving-cars-arrive/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/25/russell-crowes-unhinged-portrayal-would-be-markedly-different-once-self-driving-cars-arrive/"
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/25/russell-crowes-unhinged-portrayal-would-be-markedly-different-once-self-driving-cars-arrive/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/25/russell-crowes-unhinged-portrayal-would-be-markedly-different-once-self-driving-cars-arrive/amp/"

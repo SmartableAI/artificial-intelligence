@@ -3,6 +3,7 @@ category: news
 title: "How secure are AI and machine learning projects?"
 excerpt: "Artificial intelligence and machine learning bring new vulnerabilities along with their benefits. Here's how experts minimised their risk."
 publishedDateTime: 2020-08-25T06:34:00Z
+originalUrl: "https://www.arnnet.com.au/article/682414/how-secure-ai-machine-learning-projects/"
 webUrl: "https://www.arnnet.com.au/article/682414/how-secure-ai-machine-learning-projects/"
 type: article
 quality: 39

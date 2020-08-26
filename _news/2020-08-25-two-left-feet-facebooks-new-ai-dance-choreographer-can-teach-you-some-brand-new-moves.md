@@ -3,6 +3,7 @@ category: news
 title: "Two left feet? Facebook’s new AI dance choreographer can teach you some brand new moves"
 excerpt: "Facebook's AI boffins have developed a new system that creates original dance routines for any music that you feed it."
 publishedDateTime: 2020-08-25T11:44:00Z
+originalUrl: "https://thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/"
 webUrl: "https://thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/"
 ampWebUrl: "https://thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/amp/"

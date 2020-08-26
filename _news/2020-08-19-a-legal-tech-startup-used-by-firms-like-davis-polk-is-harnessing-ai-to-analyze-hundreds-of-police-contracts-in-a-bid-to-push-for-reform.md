@@ -3,6 +3,7 @@ category: news
 title: "A legal-tech startup used by firms like Davis Polk is harnessing AI to analyze hundreds of police contracts in a bid to push for reform"
 excerpt: "Kira Systems is using its contract-analysis software to help the police-reform initiative Campaign Zero analyze union contracts."
 publishedDateTime: 2020-08-19T17:10:00Z
+originalUrl: "https://www.businessinsider.com/kira-systems-partners-with-campaign-zero-to-analyze-police-contracts-2020-8"
 webUrl: "https://www.businessinsider.com/kira-systems-partners-with-campaign-zero-to-analyze-police-contracts-2020-8"
 type: article
 quality: 35

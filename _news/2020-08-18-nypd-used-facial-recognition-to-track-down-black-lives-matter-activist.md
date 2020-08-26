@@ -3,6 +3,7 @@ category: news
 title: "NYPD used facial recognition to track down Black Lives Matter activist"
 excerpt: "Photo by Ira L. Black - Corbis/Getty Images The New York City Police Department used facial recognition software to track down a Black Lives Matter activist accused of assault after allegedly shouting into a police officer’s ear with a bullhorn."
 publishedDateTime: 2020-08-18T09:29:00Z
+originalUrl: "https://www.theverge.com/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
 webUrl: "https://www.theverge.com/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"

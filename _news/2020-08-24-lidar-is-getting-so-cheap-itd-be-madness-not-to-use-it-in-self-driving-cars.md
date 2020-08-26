@@ -3,6 +3,7 @@ category: news
 title: "LiDAR is getting so cheap it’d be madness not to use it in self-driving cars"
 excerpt: "LiDAR sensors are getting so cheap that it makes it hard to understand why any self-driving car company wouldn't bother using them in its vehicles."
 publishedDateTime: 2020-08-24T07:57:00Z
+originalUrl: "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/"
 webUrl: "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/"
 ampWebUrl: "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/amp/"

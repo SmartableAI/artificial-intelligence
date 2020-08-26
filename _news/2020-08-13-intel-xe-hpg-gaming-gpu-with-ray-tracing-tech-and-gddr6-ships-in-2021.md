@@ -3,6 +3,7 @@ category: news
 title: "Intel Xe-HPG: gaming GPU with ray tracing tech and GDDR6 ships in 2021"
 excerpt: "Intel announces new Xe microarchitecture variant: Xe-HPG -- a gaming-optimized GPU with ray tracing and GDDR6 memory ships in 2021."
 publishedDateTime: 2020-08-13T13:04:00Z
+originalUrl: "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/index.html"
 webUrl: "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/index.html"
 ampWebUrl: "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/amp.html"
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/amp.html"

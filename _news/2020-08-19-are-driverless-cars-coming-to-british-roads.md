@@ -3,6 +3,7 @@ category: news
 title: "Are driverless cars coming to British roads?"
 excerpt: "Are driverless cars coming to British roads? The news that motorists might be allowed to take their hands off the steering wheel for the first time was portrayed as a \"big step\" in that direction. The truth,"
 publishedDateTime: 2020-08-19T22:26:00Z
+originalUrl: "https://news.sky.com/story/are-driverless-cars-coming-to-british-roads-12052661"
 webUrl: "https://news.sky.com/story/are-driverless-cars-coming-to-british-roads-12052661"
 ampWebUrl: "https://news.sky.com/story/amp/are-driverless-cars-coming-to-british-roads-12052661"
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/are-driverless-cars-coming-to-british-roads-12052661"

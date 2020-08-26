@@ -3,6 +3,7 @@ category: news
 title: "Where Is Your Global Organization At In Trusted AI?"
 excerpt: "This blog shares the insights from a recent interview with Cathy Cobey, the EY global trusted AI leader, where we explore: how practicing responsible AI is stacking up, the impact of data bias and key board director questions to ensure CEO’s are managing the new risks that AI presents."
 publishedDateTime: 2020-08-17T11:04:00Z
+originalUrl: "https://www.forbes.com/sites/cindygordon/2020/08/17/where-is-your-global-organization-at-in-trusted-ai/"
 webUrl: "https://www.forbes.com/sites/cindygordon/2020/08/17/where-is-your-global-organization-at-in-trusted-ai/"
 type: article
 quality: 69

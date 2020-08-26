@@ -3,6 +3,7 @@ category: news
 title: "Deep learning will help future Mars rovers go farther, faster, and do more science"
 excerpt: "NASA's Mars rovers have been one of the great scientific and space successes of the past two decades. Four generations of rovers have traversed the red planet gathering scientific data, sending back evocative photographs,"
 publishedDateTime: 2020-08-19T16:47:00Z
+originalUrl: "https://phys.org/news/2020-08-deep-future-mars-rovers-faster.html"
 webUrl: "https://phys.org/news/2020-08-deep-future-mars-rovers-faster.html"
 ampWebUrl: "https://phys.org/news/2020-08-deep-future-mars-rovers-faster.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-deep-future-mars-rovers-faster.amp"

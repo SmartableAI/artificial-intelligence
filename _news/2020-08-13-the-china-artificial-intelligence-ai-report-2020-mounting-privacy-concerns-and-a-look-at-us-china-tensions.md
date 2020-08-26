@@ -3,6 +3,7 @@ category: news
 title: "The China Artificial Intelligence (AI) Report 2020: Mounting Privacy Concerns and a Look at US-China Tensions"
 excerpt: "The \"China AI Report 2020\" report has been added to ResearchAndMarkets.com's offering. The China Artificial Intelligence (AI) Report 2020"
 publishedDateTime: 2020-08-13T16:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions-301112004.html"
 webUrl: "https://www.prnewswire.com/news-releases/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions-301112004.html"
 type: article
 quality: 35

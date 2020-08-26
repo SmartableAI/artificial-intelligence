@@ -3,6 +3,7 @@ category: news
 title: "Defense Innovation Unit Teaching Artificial Intelligence to Detect Cancer"
 excerpt: "The Defense Innovation Unit is bringing together the best of commercially available artificial intelligence technology and the Defense Department's vast cache of archived medical data to teach"
 publishedDateTime: 2020-08-24T21:28:00Z
+originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2322947/defense-innovation-unit-teaching-artificial-intelligence-to-detect-cancer/"
 webUrl: "https://www.defense.gov/Explore/News/Article/Article/2322947/defense-innovation-unit-teaching-artificial-intelligence-to-detect-cancer/"
 type: article
 quality: 38

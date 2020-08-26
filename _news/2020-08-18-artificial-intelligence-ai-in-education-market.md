@@ -3,6 +3,7 @@ category: news
 title: "Artificial Intelligence (AI) in Education Market"
 excerpt: "Artificial Intelligence (AI) in Education Market Global Report 2020-26: Covid 19 growth and changes in its research report store. It is the most comprehensive report available on this market and will help gain a truly global perspective as it covers 60 ..."
 publishedDateTime: 2020-08-18T07:46:00Z
+originalUrl: "https://www.openpr.com/news/2115110/artificial-intelligence-ai-in-education-market-to-witness"
 webUrl: "https://www.openpr.com/news/2115110/artificial-intelligence-ai-in-education-market-to-witness"
 ampWebUrl: "https://www.openpr.com/amp/2115110/artificial-intelligence-ai-in-education-market-to-witness"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2115110/artificial-intelligence-ai-in-education-market-to-witness"

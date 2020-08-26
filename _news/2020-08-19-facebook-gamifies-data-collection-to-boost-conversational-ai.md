@@ -3,6 +3,7 @@ category: news
 title: "Facebook gamifies data collection to boost conversational AI"
 excerpt: "In a preprint paper, Facebook researchers propose a gamified approach to collecting data to train conversational AI models."
 publishedDateTime: 2020-08-19T16:25:00Z
+originalUrl: "https://venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/"
 webUrl: "https://venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/"
 ampWebUrl: "https://venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/amp/"

@@ -3,6 +3,7 @@ category: news
 title: "Israel’s voice recognition technology provides endless possibilities"
 excerpt: "Voice recognition technology is growing in popularity and being integrated into products and services by companies worldwide, CTech reports. ‘The Four,’ as leading tech companies Apple, Amazon, Facebook and Google are collectively referred to,"
 publishedDateTime: 2020-08-14T04:19:00Z
+originalUrl: "https://www.jpost.com/jpost-tech/israels-voice-recognition-technology-provides-endless-possibilities-638638"
 webUrl: "https://www.jpost.com/jpost-tech/israels-voice-recognition-technology-provides-endless-possibilities-638638"
 ampWebUrl: "https://m.jpost.com/jpost-tech/israels-voice-recognition-technology-provides-endless-possibilities-638638/amp"
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/israels-voice-recognition-technology-provides-endless-possibilities-638638/amp"

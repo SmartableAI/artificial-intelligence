@@ -3,6 +3,7 @@ category: news
 title: "State should pay EVERYONE basic income via tax hikes for a kinder UK says STEVE BUCKLEDEE"
 excerpt: "DURING lockdown the men and occasionally women who drove the white vans to deliver the goods we ordered online were working harder than ever before. So were the people toiling away in the Amazon warehouses."
 publishedDateTime: 2020-08-17T15:19:00Z
+originalUrl: "https://www.express.co.uk/comment/expresscomment/1323892/Income-tax-universal-basic-income-UK-Labour-Party-tax-credits"
 webUrl: "https://www.express.co.uk/comment/expresscomment/1323892/Income-tax-universal-basic-income-UK-Labour-Party-tax-credits"
 ampWebUrl: "https://www.express.co.uk/comment/expresscomment/1323892/Income-tax-universal-basic-income-UK-Labour-Party-tax-credits/amp"
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/comment/expresscomment/1323892/Income-tax-universal-basic-income-UK-Labour-Party-tax-credits/amp"

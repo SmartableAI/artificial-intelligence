@@ -3,6 +3,7 @@ category: news
 title: "Artificial Intelligence Is Getting Insanely Good at Removing Shadows From Photographs of Faces"
 excerpt: "While Photoshop can do a pretty good job at removing shadows from faces, there’s a fair amount of legwork involved. One scientist has shown that neural networks and artificial intelligence can produce some very impressive results,"
 publishedDateTime: 2020-08-25T15:20:00Z
+originalUrl: "https://fstoppers.com/post-production/artificial-intelligence-getting-insanely-good-removing-shadows-photographs-faces-509108"
 webUrl: "https://fstoppers.com/post-production/artificial-intelligence-getting-insanely-good-removing-shadows-photographs-faces-509108"
 type: article
 quality: 27

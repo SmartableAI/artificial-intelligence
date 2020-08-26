@@ -3,6 +3,7 @@ category: news
 title: "Microsoft Improves Windows Patch and Azure Service Communications"
 excerpt: "Microsoft has streamlined its Azure outage reporting via artificial intelligence (AI) technology. This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform ..."
 publishedDateTime: 2020-08-19T01:09:00Z
+originalUrl: "https://redmondmag.com/articles/2020/08/18/windows-patch-azure-service-communications.aspx"
 webUrl: "https://redmondmag.com/articles/2020/08/18/windows-patch-azure-service-communications.aspx"
 type: article
 quality: 54

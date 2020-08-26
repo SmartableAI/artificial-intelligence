@@ -3,6 +3,7 @@ category: news
 title: "Aerospace Robotics Market to Reach USD 7.78 Billion by 2027; Adoption of Artificial Intelligence will Boost Growth, Says Fortune Business Insights™"
 excerpt: "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI)"
 publishedDateTime: 2020-08-25T18:08:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/g17236795/aerospace-robotics-market-to-reach-usd-7-78-billion-by-2027-adoption-of-artificial-intelligence-wi"
 webUrl: "https://www.benzinga.com/pressreleases/20/08/g17236795/aerospace-robotics-market-to-reach-usd-7-78-billion-by-2027-adoption-of-artificial-intelligence-wi"
 ampWebUrl: "https://amp.benzinga.com/amp/content/17236795"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17236795"

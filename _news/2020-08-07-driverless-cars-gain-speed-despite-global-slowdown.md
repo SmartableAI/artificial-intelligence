@@ -3,7 +3,10 @@ category: news
 title: "Driverless Cars Gain Speed, Despite Global Slowdown"
 excerpt: "The solution, according to today’s most influential automakers, is to accelerate the development of electric, driverless cars programmed by artificial intelligence. For real. Our Meet George Jetson! destiny is not only inevitable, it will arrive sooner ..."
 publishedDateTime: 2020-08-07T17:57:00Z
+originalUrl: "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/"
 webUrl: "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/"
+ampWebUrl: "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/amp/"
 type: article
 quality: 84
 heat: 84

@@ -3,6 +3,7 @@ category: news
 title: "axle ai Issues Tech Bundle for Remote Workflows"
 excerpt: "A new bundle of software and hardware solutions has been put together by axle ai to help media teams make the transition from physical to remote workflows called Remote Leap. The Remote Leap bundle features a five-user version of axle ai 2020,"
 publishedDateTime: 2020-08-14T18:22:00Z
+originalUrl: "https://www.tvtechnology.com/equipment/axle-ai-issues-tech-bundle-for-remote-workflows"
 webUrl: "https://www.tvtechnology.com/equipment/axle-ai-issues-tech-bundle-for-remote-workflows"
 ampWebUrl: "https://www.tvtechnology.com/amp/equipment/axle-ai-issues-tech-bundle-for-remote-workflows"
 cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/axle-ai-issues-tech-bundle-for-remote-workflows"

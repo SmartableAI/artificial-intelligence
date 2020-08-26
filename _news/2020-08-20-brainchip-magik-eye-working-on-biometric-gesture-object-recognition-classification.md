@@ -3,6 +3,7 @@ category: news
 title: "BrainChip, Magik Eye working on biometric gesture, object recognition, classification"
 excerpt: "BrainChip Holdings and Magik Eye are jointly developing a system for object detection, object classification and biometric gesture recognition that leverages Magik Eye’s Invertible Light 3D depth"
 publishedDateTime: 2020-08-20T18:25:00Z
+originalUrl: "https://www.biometricupdate.com/202008/brainchip-magik-eye-working-on-biometric-gesture-object-recognition-classification"
 webUrl: "https://www.biometricupdate.com/202008/brainchip-magik-eye-working-on-biometric-gesture-object-recognition-classification"
 type: article
 quality: 47

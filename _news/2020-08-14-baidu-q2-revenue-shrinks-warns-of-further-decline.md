@@ -3,6 +3,7 @@ category: news
 title: "Baidu Q2 revenue shrinks, warns of further decline"
 excerpt: "Revenue for Chinese search giant Baidu contracted 1% in the second quarter compared with the same year-ago period, with the company warning that the"
 publishedDateTime: 2020-08-14T07:55:00Z
+originalUrl: "https://technode.com/2020/08/14/baidu-q2-revenue-shrinks-warns-of-further-decline/"
 webUrl: "https://technode.com/2020/08/14/baidu-q2-revenue-shrinks-warns-of-further-decline/"
 ampWebUrl: "https://technode.com/2020/08/14/baidu-q2-revenue-shrinks-warns-of-further-decline/"
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/08/14/baidu-q2-revenue-shrinks-warns-of-further-decline/"

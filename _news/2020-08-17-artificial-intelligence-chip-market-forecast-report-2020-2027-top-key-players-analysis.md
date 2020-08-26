@@ -3,6 +3,7 @@ category: news
 title: "Artificial Intelligence Chip Market Forecast Report 2020 - 2027 - Top Key Players Analysis"
 excerpt: "This report researches and evaluates the impact of COVID-19 outbreak on the market, including potential opportunities and challenges, drivers, and risks associated with the market. We present a detailed assessment of market growth based on numerous scenarios."
 publishedDateTime: 2020-08-17T13:57:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-forecast-report-2020---2027---top-key-players-analysis-2020-08-17"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-forecast-report-2020---2027---top-key-players-analysis-2020-08-17"
 type: article
 quality: 74

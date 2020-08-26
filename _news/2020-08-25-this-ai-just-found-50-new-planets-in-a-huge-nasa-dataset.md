@@ -3,6 +3,7 @@ category: news
 title: "This AI just found 50 new planets in a huge NASA dataset"
 excerpt: "Scientists from Warwick University made the discovery by analyzing data collected by space telescopes, such as NASA‘s Kepler and TESS. These telescopes capture signs of planets passing in front ..."
 publishedDateTime: 2020-08-25T13:55:00Z
+originalUrl: "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/"
 webUrl: "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/"
 ampWebUrl: "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/amp/"

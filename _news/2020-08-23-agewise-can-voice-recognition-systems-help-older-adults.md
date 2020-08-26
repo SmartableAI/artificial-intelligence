@@ -3,6 +3,7 @@ category: news
 title: "AGEWISE: Can voice recognition systems help older adults?"
 excerpt: "I use a voice recognition system at my home and am wondering if setting one up for my Mom and Dad would be helpful. Can you provide some insight?"
 publishedDateTime: 2020-08-23T23:45:00Z
+originalUrl: "https://journalnow.com/news/local/agewise-can-voice-recognition-systems-help-older-adults/article_f936996c-e278-11ea-96f3-5b55c91b0c07.html"
 webUrl: "https://journalnow.com/news/local/agewise-can-voice-recognition-systems-help-older-adults/article_f936996c-e278-11ea-96f3-5b55c91b0c07.html"
 type: article
 quality: 24

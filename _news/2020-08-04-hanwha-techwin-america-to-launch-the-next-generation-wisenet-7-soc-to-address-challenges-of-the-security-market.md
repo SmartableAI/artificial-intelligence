@@ -3,6 +3,7 @@ category: news
 title: "Hanwha Techwin America to launch the next generation Wisenet 7 SoC to address challenges of the security market"
 excerpt: "A new Noise Adaptive Hybrid Motion Detection algorithm significantly reduces sensor noise. These clearer images improve the results for object recognition performance in low light and offer maximum performance for machine and deep learning algorithms."
 publishedDateTime: 2020-08-04T09:23:00Z
+originalUrl: "https://www.sourcesecurity.com/news/hanwha-techwin-america-launch-generation-wisenet-co-9381-ga-npr.1596526343.html"
 webUrl: "https://www.sourcesecurity.com/news/hanwha-techwin-america-launch-generation-wisenet-co-9381-ga-npr.1596526343.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/hanwha-techwin-america-launch-generation-wisenet-co-9381-ga-npr.1596526343.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/hanwha-techwin-america-launch-generation-wisenet-co-9381-ga-npr.1596526343.html"

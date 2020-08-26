@@ -3,6 +3,7 @@ category: news
 title: "The 12 Coolest AWS Tools Of 2020 (So Far)"
 excerpt: "Here’s a look at 12 new product/service releases and updates announced so far this year, including Amazon AppFlow, Amazon CodeGuru, AWS Fargate Platform Version 1.4.0, Amazon Kendra and new features for Amazon Macie."
 publishedDateTime: 2020-07-27T16:42:00Z
+originalUrl: "https://www.crn.com/slide-shows/cloud/the-12-coolest-aws-tools-of-2020-so-far-"
 webUrl: "https://www.crn.com/slide-shows/cloud/the-12-coolest-aws-tools-of-2020-so-far-"
 type: article
 quality: 39

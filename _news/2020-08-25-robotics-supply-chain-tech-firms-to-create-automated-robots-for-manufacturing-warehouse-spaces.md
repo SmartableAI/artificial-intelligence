@@ -3,6 +3,7 @@ category: news
 title: "Robotics, supply chain tech firms to create automated robots for manufacturing, warehouse spaces"
 excerpt: "Combined, the companies bring artificial intelligence (AI), robotics, software and machine learning to develop the AMRs, which are intended to solve challenges facing the manufacturing industry — particularly challenges presented by the COVID-19 pandemic."
 publishedDateTime: 2020-08-25T13:14:00Z
+originalUrl: "https://insights.globalspec.com/article/14847/robotics-supply-chain-tech-firms-to-create-automated-robots-for-manufacturing-warehouse-spaces"
 webUrl: "https://insights.globalspec.com/article/14847/robotics-supply-chain-tech-firms-to-create-automated-robots-for-manufacturing-warehouse-spaces"
 type: article
 quality: 36

@@ -3,6 +3,7 @@ category: news
 title: "IDTechEx Research Details Opportunities and Challenges of Artificial Intelligence in Robotic Surgery"
 excerpt: "The rapid progress of artificial intelligence (AI) technologies in the last 5-10 years has led many to associate it with robotic surgery systems. Currently, however, few robotic surgery systems are equipped with AI-driven human-robot interaction capabilities."
 publishedDateTime: 2020-08-24T16:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471"
 webUrl: "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471"
 ampWebUrl: "https://markets.businessinsider.com/amp/news/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471"

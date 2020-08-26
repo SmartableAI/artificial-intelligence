@@ -3,6 +3,7 @@ category: news
 title: "Rackspace CTO: Cloud Automation and the Death of the Data Scientist"
 excerpt: "Automation handles some (or many) of the processes of machine learning. Next-gen applications like AWS's SageMaker Studio facilitate this by offering a cloud-based, intuitive visual interface that democratizes the act of data mining. Does this spell the ..."
 publishedDateTime: 2020-08-20T00:00:00Z
+originalUrl: "https://www.datamation.com/cloud-computing/cloud-automation-and-the-death-of-the-data-scientist.html"
 webUrl: "https://www.datamation.com/cloud-computing/cloud-automation-and-the-death-of-the-data-scientist.html"
 ampWebUrl: "https://www.datamation.com/amp/cloud-computing/cloud-automation-and-the-death-of-the-data-scientist.html"
 cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/cloud-computing/cloud-automation-and-the-death-of-the-data-scientist.html"

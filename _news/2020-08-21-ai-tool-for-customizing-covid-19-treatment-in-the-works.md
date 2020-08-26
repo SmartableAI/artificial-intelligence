@@ -3,6 +3,7 @@ category: news
 title: "AI tool for customizing COVID-19 treatment in the works"
 excerpt: "LONDON – European scale-up of an artificial intelligence tool for stratifying and personalizing treatment of COVID-19 patients according to the type of complications they are likely to experience will get underway in September,"
 publishedDateTime: 2020-08-21T23:21:00Z
+originalUrl: "https://www.bioworld.com/articles/496906-ai-tool-for-customizing-covid-19-treatment-in-the-works"
 webUrl: "https://www.bioworld.com/articles/496906-ai-tool-for-customizing-covid-19-treatment-in-the-works"
 type: article
 quality: 39

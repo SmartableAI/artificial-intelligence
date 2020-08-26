@@ -3,6 +3,7 @@ category: news
 title: "AWS launches WorldForge to enable AI simulations in its RoboMaker service"
 excerpt: "a new tool that allows robotics developers to test their autonomous machines and the artificial intelligence models powering them in simulated environments. WorldForge is part of RoboMaker, AWS ..."
 publishedDateTime: 2020-08-18T20:38:00Z
+originalUrl: "https://siliconangle.com/2020/08/18/aws-launches-worldforge-enable-ai-simulations-robomaker-service/"
 webUrl: "https://siliconangle.com/2020/08/18/aws-launches-worldforge-enable-ai-simulations-robomaker-service/"
 type: article
 quality: 53

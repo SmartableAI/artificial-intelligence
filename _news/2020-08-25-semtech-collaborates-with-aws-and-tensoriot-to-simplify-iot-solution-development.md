@@ -3,6 +3,7 @@ category: news
 title: "Semtech Collaborates With AWS And TensorIoT To Simplify IoT Solution Development"
 excerpt: "Semtech Corporation, a leading supplier of high performance analog and mixed-signal semiconductors and advanced algorithms, announced it is collaborating with Amazon Web Services (AWS) and TensorIoT to simplify Internet of Things (IoT) solution development by offering Asset Tracking and Smart Building Kits that integrate Semtech’s LoRa devices and the LoRaWAN protocol with AWS IoT services."
 publishedDateTime: 2020-08-25T05:55:00Z
+originalUrl: "https://www.fieldtechnologiesonline.com/doc/semtech-collaborates-with-aws-and-tensoriot-to-simplify-iot-solution-development-0001"
 webUrl: "https://www.fieldtechnologiesonline.com/doc/semtech-collaborates-with-aws-and-tensoriot-to-simplify-iot-solution-development-0001"
 type: article
 quality: 34

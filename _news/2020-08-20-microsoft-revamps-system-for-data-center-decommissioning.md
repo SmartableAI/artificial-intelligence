@@ -3,6 +3,7 @@ category: news
 title: "Microsoft revamps system for data center decommissioning"
 excerpt: "One of the world’s biggest cloud service providers has developed an asset disposition process that uses machine learning and other tools to handle more used material on-site. Software and computing giant Microsoft this month announced new electronics recycling and ITAD"
 publishedDateTime: 2020-08-20T16:14:00Z
+originalUrl: "https://resource-recycling.com/e-scrap/2020/08/20/microsoft-revamps-system-for-data-center-decommissioning/"
 webUrl: "https://resource-recycling.com/e-scrap/2020/08/20/microsoft-revamps-system-for-data-center-decommissioning/"
 ampWebUrl: "https://resource-recycling.com/e-scrap/2020/08/20/microsoft-revamps-system-for-data-center-decommissioning/amp/"
 cdnAmpWebUrl: "https://resource--recycling-com.cdn.ampproject.org/c/s/resource-recycling.com/e-scrap/2020/08/20/microsoft-revamps-system-for-data-center-decommissioning/amp/"

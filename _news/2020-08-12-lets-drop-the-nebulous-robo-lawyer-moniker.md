@@ -3,6 +3,7 @@ category: news
 title: "Let's drop the nebulous 'robo-lawyer' moniker"
 excerpt: "It is time to embrace a prudent set of levels for fairly stating what AI is legitimately contributing to the field of law."
 publishedDateTime: 2020-08-12T00:01:00Z
+originalUrl: "https://www.lawgazette.co.uk/commentary-and-opinion/lets-drop-the-nebulous-robo-lawyer-moniker/5105317.article"
 webUrl: "https://www.lawgazette.co.uk/commentary-and-opinion/lets-drop-the-nebulous-robo-lawyer-moniker/5105317.article"
 type: article
 quality: 24

@@ -3,6 +3,7 @@ category: news
 title: "Microsoft, Energy Dept. to Develop Disaster-Response AI Tools"
 excerpt: "The Energy Department will spearhead the development and testing efforts. Microsoft will provide technological resources, including its Azure cloud for AI model training and inference. Other organizations, including public- and private-sector entities ..."
 publishedDateTime: 2020-08-18T13:07:00Z
+originalUrl: "https://www.wsj.com/articles/microsoft-energy-dept-to-develop-disaster-response-ai-tools-11597755601"
 webUrl: "https://www.wsj.com/articles/microsoft-energy-dept-to-develop-disaster-response-ai-tools-11597755601"
 ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-energy-dept-to-develop-disaster-response-ai-tools-11597755601"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-energy-dept-to-develop-disaster-response-ai-tools-11597755601"

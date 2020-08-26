@@ -3,6 +3,7 @@ category: news
 title: "Historian, MSNBC contributor Jon Meacham endorses Biden, slams Trump in DNC speech"
 excerpt: "MSNBC contributor Jon Meacham tore into President Trump on Thursday night with a Democratic National Convention speech in which the presidential historian endorsed Joe Biden."
 publishedDateTime: 2020-08-21T17:08:00Z
+originalUrl: "https://www.foxnews.com/media/msnbc-contributor-jon-meacham-endorses-biden-slams-trump-with-dnc-speech"
 webUrl: "https://www.foxnews.com/media/msnbc-contributor-jon-meacham-endorses-biden-slams-trump-with-dnc-speech"
 ampWebUrl: "https://www.foxnews.com/media/msnbc-contributor-jon-meacham-endorses-biden-slams-trump-with-dnc-speech.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-contributor-jon-meacham-endorses-biden-slams-trump-with-dnc-speech.amp"

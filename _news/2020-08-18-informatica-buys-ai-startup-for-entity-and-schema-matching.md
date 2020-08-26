@@ -3,6 +3,7 @@ category: news
 title: "Informatica buys AI startup for entity and schema matching"
 excerpt: "GreenBay and Informatica were hardly strangers, as Informatica was the sole investor in the startup. GreenBay's CloudMatcher technology ... but when it came to AI for entity and schema matching, it found itself going back to school."
 publishedDateTime: 2020-08-18T13:06:00Z
+originalUrl: "https://www.zdnet.com/article/informatica-buys-ai-startup-for-entity-and-schema-matching/"
 webUrl: "https://www.zdnet.com/article/informatica-buys-ai-startup-for-entity-and-schema-matching/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/informatica-buys-ai-startup-for-entity-and-schema-matching/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/informatica-buys-ai-startup-for-entity-and-schema-matching/"

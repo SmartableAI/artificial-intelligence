@@ -3,6 +3,7 @@ category: news
 title: "Chip startup Blaize debuts AI modules for machine learning at the edge"
 excerpt: "Venture-backed chip startup Blaize Inc. has introduced three new hardware modules for running artificial intelligence models at so-called edge locations such as factories. The modules, announced on Thursday,"
 publishedDateTime: 2020-08-14T17:24:00Z
+originalUrl: "https://siliconangle.com/2020/08/14/chip-startup-blaize-debuts-ai-modules-machine-learning-edge/"
 webUrl: "https://siliconangle.com/2020/08/14/chip-startup-blaize-debuts-ai-modules-machine-learning-edge/"
 type: article
 quality: 71

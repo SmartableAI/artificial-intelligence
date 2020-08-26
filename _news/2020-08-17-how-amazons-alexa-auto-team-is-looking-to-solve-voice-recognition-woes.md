@@ -3,6 +3,7 @@ category: news
 title: "How Amazon's Alexa Auto team is looking to solve voice recognition woes"
 excerpt: "Join Automotive News Publisher Jason Stein for a daily podcast series about the coronavirus crisis. He’ll speak with industry experts, insiders and Automotive News reporters about how the virus is impacting and reshaping the automotive industry."
 publishedDateTime: 2020-08-17T14:47:00Z
+originalUrl: "https://www.autonews.com/weekend-drive-podcast/daily-drive-podcast-august-17-2020-how-amazons-alexa-auto-team-looking-solve"
 webUrl: "https://www.autonews.com/weekend-drive-podcast/daily-drive-podcast-august-17-2020-how-amazons-alexa-auto-team-looking-solve"
 type: article
 quality: 24

@@ -3,6 +3,7 @@ category: news
 title: "What to Know About Neuralink, Elon Musk’s Brain-Computer Interface Project"
 excerpt: "Elon Musk is set to make an announcement about Neuralink, a company designing brain-computer interface technology, on Friday, August 28. It sounds like science fiction, but research in this area has progressed rapidly in recent years,"
 publishedDateTime: 2020-08-24T19:34:00Z
+originalUrl: "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895"
 webUrl: "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895"
 ampWebUrl: "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895/amp"
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895/amp"

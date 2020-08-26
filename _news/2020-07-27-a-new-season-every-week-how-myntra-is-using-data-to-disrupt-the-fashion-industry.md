@@ -3,6 +3,7 @@ category: news
 title: "A new season every week: how Myntra is using data to disrupt the fashion industry"
 excerpt: "Apart from providing Myntra the elasticity to cater to demand spikes, Azure’s built-in Machine Learning tools expedited the development of advanced analytics capabilities to understand their consumers better. “The amount of data from which we learn ..."
 publishedDateTime: 2020-07-27T09:07:00Z
+originalUrl: "https://news.microsoft.com/en-in/features/a-new-season-every-week-how-myntra-is-using-data-to-disrupt-the-fashion-industry/"
 webUrl: "https://news.microsoft.com/en-in/features/a-new-season-every-week-how-myntra-is-using-data-to-disrupt-the-fashion-industry/"
 type: article
 

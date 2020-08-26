@@ -3,6 +3,7 @@ category: news
 title: "Google Cloud Professional Machine Learning Engineer Certification Now in Beta"
 excerpt: "Google Cloud has added a Beta version of a new Professional-level certification to their available paths. The Professional Machine Learning Engineer certification exam will assess candidates' knowledge of machine learning practices and implementation on the Google Cloud Platform."
 publishedDateTime: 2020-08-20T15:01:00Z
+originalUrl: "https://www.infoq.com/news/2020/08/google-machine-learning-cert/"
 webUrl: "https://www.infoq.com/news/2020/08/google-machine-learning-cert/"
 type: article
 quality: 38

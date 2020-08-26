@@ -3,6 +3,7 @@ category: news
 title: "DBS Bank teams up with AWS on AI skills"
 excerpt: "Singapore’s DBS Bank is organising an AWS DeepRacer League to equip thousands of employees with skills in artificial intelligence and machine learning"
 publishedDateTime: 2020-08-17T04:59:00Z
+originalUrl: "https://www.computerweekly.com/news/252487715/DBS-Bank-teams-up-with-AWS-on-AI-skills"
 webUrl: "https://www.computerweekly.com/news/252487715/DBS-Bank-teams-up-with-AWS-on-AI-skills"
 ampWebUrl: "https://www.computerweekly.com/news/252487715/DBS-Bank-teams-up-with-AWS-on-AI-skills?amp=1"
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252487715/DBS-Bank-teams-up-with-AWS-on-AI-skills?amp=1"

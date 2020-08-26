@@ -2,12 +2,163 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-24-artificial-intelligence-in-the-medical-imaging-market-new-technologies-and-developments-2020-2026.md",
+      "title": "Artificial Intelligence in the Medical Imaging Market New Technologies and Developments 2020-2026",
+      "excerpt": "MarketIntelligenceData report, titled Global Artificial Intelligence in the Medical Imaging Market Size and Forecast to 2025 presents a comprehensive take on the overall market. Analysts have carefully evaluated the milestones achieved by the global Artificial Intelligence in the Medical Imaging market and the current trends that are likely to shape its future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-medical-imaging-market-new-technologies-and-developments-2020-2026-2020-08-24",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-24T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-deep-learning-market-growth-by-manufacturers-type-and-application-forecast-to-2026.md",
+      "title": "Deep Learning Market Growth By Manufacturers, Type And Application, Forecast To 2026",
+      "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include IBM Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-08-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-08-24",
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-24T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-pandemic-has-online-sellers-leaning-on-cloud.md",
+      "title": "Pandemic Has Online Sellers Leaning on Cloud",
+      "excerpt": "Retailers more than ever are leaning on cloud computing to capitalize on a surge in online shopping without overloading their information-technology systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-223920/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400",
+      "publishedDateTime": "2020-08-24T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars.md",
       "title": "LiDAR is getting so cheap it’d be madness not to use it in self-driving cars",
       "excerpt": "LiDAR sensors are getting so cheap that it makes it hard to understand why any self-driving car company wouldn't bother using them in its vehicles.",
       "sourceUrl": null,
       "webUrl": "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/",
-      "originalUrl": null,
+      "originalUrl": "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/",
       "featuredContent": null,
       "heat": 71,
       "tags": null,
@@ -157,7 +308,7 @@
       "excerpt": "Instead, he hopes enterprises will turn to Dataiku’s web-based software to take themselves on the path to artificial intelligence. The New York City startup on Monday announced that it had raised $100 million in a Series D round led by Stripes and Tiger Global Management.",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enablement-for-enterprises-startup-raises-100-million-series-d/",
-      "originalUrl": null,
+      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enablement-for-enterprises-startup-raises-100-million-series-d/",
       "featuredContent": null,
       "heat": 107,
       "tags": null,
@@ -206,7 +357,7 @@
       "excerpt": "KubeCon+CloudNativeCon Europe 2020, the largest gathering of the Kubernetes and cloud native community, has gone virtual this year.",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/",
-      "originalUrl": null,
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/",
       "featuredContent": null,
       "heat": 74,
       "tags": null,
@@ -337,7 +488,7 @@
       "excerpt": "By framing ethical problems as narrow issues of fairness and accuracy, companies could equate expanded data collection with investing in “ethical AI.” The efforts of tech companies to champion fairness-related codes illustrate this point: In January 2018,",
       "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/",
-      "originalUrl": null,
+      "originalUrl": "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/",
       "featuredContent": null,
       "heat": 106,
       "tags": null,
@@ -437,7 +588,7 @@
       "excerpt": "Some vehemently assert that we are potentially going to have an AI “intelligence explosion” that will someday occur, and there are various bets that this might happen somewhere between the year 2050 and the year 2100.",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/",
-      "originalUrl": null,
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/",
       "featuredContent": null,
       "heat": 80,
       "tags": null,
@@ -635,7 +786,7 @@
       "excerpt": "Sending a \"selfie\" to the doctor could be a cheap and simple way of detecting heart disease, according to the authors of a new study published today (Friday) in the European Heart Journal .",
       "sourceUrl": null,
       "webUrl": "https://www.news-medical.net/news/20200821/Artificial-intelligence-can-help-detect-heart-disease-based-on-facial-photos.aspx",
-      "originalUrl": null,
+      "originalUrl": "https://www.news-medical.net/news/20200821/Artificial-intelligence-can-help-detect-heart-disease-based-on-facial-photos.aspx",
       "featuredContent": null,
       "heat": 76,
       "tags": null,
@@ -775,7 +926,7 @@
       "excerpt": "AI can contribute to your company's carbon footprint or if managed well, help reduce the impact your company has on the environment.",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/",
-      "originalUrl": null,
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/",
       "featuredContent": null,
       "heat": 89,
       "tags": null,
@@ -875,7 +1026,7 @@
       "excerpt": "Baidu (NASDAQ:BIDU) announced on Friday that it has launched a branch of its robotaxi service Apollo Go in that city, the first time it is operational in a downtown urban environment. Apollo Go is hooked into the company's wider digital ecosystem.",
       "sourceUrl": null,
       "webUrl": "https://www.fool.com/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
-      "originalUrl": null,
+      "originalUrl": "https://www.fool.com/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
       "featuredContent": null,
       "heat": 99,
       "tags": null,
@@ -977,7 +1128,7 @@
       "webUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1058,154 +1209,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-simulated-dogfight-contest.md",
-      "title": "AI Murder Machine Kicks Air Force Pilot's Ass in DARPA's Simulated Dogfight Contest",
-      "excerpt": "Anyone remember the 2005 sci-fi movie Stealth? As far as I can remember, it involves a secret, artificially intelligent U.S. Air Force fighter plane that rebels against its creators when it is struck by lightning.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pkvkr2tadkg4dlsaanph.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp",
-      "publishedDateTime": "2020-08-21T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-from-ai-weiwei-a-portrait-of-wuhans-draconian-covid-lockdown.md",
-      "title": "From Ai Weiwei, a Portrait of Wuhan’s Draconian Covid Lockdown",
-      "excerpt": "Ai said the documentary film “Coronation,” which he directed remotely from Europe, “is trying to reflect what ordinary Chinese people went through.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/08/21/arts/21coronation24/merlin_175985925_29d1caae-7ab7-46cc-95a8-f83acc9e127c-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.amp.html",
-      "publishedDateTime": "2020-08-21T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits.md",
-      "title": "ProBeat: Release your data sets to the AI research community and reap the benefits",
-      "excerpt": "Duolingo research director Burr Settles talks about how to leverage the AI research community -- start by releasing your data sets.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/duolingo-duo.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/amp/",
-      "publishedDateTime": "2020-08-21T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

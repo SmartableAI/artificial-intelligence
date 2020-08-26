@@ -3,6 +3,7 @@ category: news
 title: "Microsoft 365 saves you time and effort with transcription and voice commands in Word"
 excerpt: "New enhancements in Office apps allow you to harness the power of your voice to spend less time and energy creating your best work, so can focus on what matters most."
 publishedDateTime: 2020-08-25T15:00:00Z
+originalUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2020/08/25/microsoft-365-transcription-voice-commands-word/"
 webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2020/08/25/microsoft-365-transcription-voice-commands-word/"
 ampWebUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2020/08/25/microsoft-365-transcription-voice-commands-word/amp/"
 cdnAmpWebUrl: "https://www-microsoft-com.cdn.ampproject.org/c/s/www.microsoft.com/en-us/microsoft-365/blog/2020/08/25/microsoft-365-transcription-voice-commands-word/amp/"

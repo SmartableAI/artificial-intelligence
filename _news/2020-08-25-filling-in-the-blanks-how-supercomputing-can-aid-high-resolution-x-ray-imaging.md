@@ -3,6 +3,7 @@ category: news
 title: "Filling in the blanks: How supercomputing can aid high-resolution X-ray imaging"
 excerpt: "Scientists are preparing for the increased brightness and resolution of next-generation light sources with a computing technique that reconstructs images faster and with more precision."
 publishedDateTime: 2020-08-25T13:00:00Z
+originalUrl: "https://phys.org/news/2020-08-blanks-supercomputing-aid-high-resolution-x-ray.html"
 webUrl: "https://phys.org/news/2020-08-blanks-supercomputing-aid-high-resolution-x-ray.html"
 ampWebUrl: "https://phys.org/news/2020-08-blanks-supercomputing-aid-high-resolution-x-ray.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-blanks-supercomputing-aid-high-resolution-x-ray.amp"

@@ -3,6 +3,7 @@ category: news
 title: "Amplo Global Inc: amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
 excerpt: "machine learning and design-led strategy necessary to effectively identify, address and achieve their new normal. Brian Bell, Director at Microsoft's Commercial Marketplace, said, \"On Microsoft Azure Marketplace and AppSource, customers around the world ..."
 publishedDateTime: 2020-08-18T17:12:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2020-08/50478942-amplo-global-inc-amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-200.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2020-08/50478942-amplo-global-inc-amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-200.htm"
 type: article
 quality: 60

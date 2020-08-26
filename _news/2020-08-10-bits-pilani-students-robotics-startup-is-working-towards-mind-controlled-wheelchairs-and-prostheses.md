@@ -3,6 +3,7 @@ category: news
 title: "BITS Pilani students' robotics startup is working towards mind-controlled wheelchairs and prostheses"
 excerpt: "Founded by two BITS Pilani students, robotics startup Nexstem uses EEG signals to predict users’ thoughts and bridge the gap between man and machine. It can be used to create mind-controlled wheelchairs,"
 publishedDateTime: 2020-08-10T00:50:00Z
+originalUrl: "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen"
 webUrl: "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen"
 ampWebUrl: "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen/amp"

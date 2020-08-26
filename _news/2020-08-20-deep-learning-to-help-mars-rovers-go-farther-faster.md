@@ -3,6 +3,7 @@ category: news
 title: "Deep Learning to Help Mars Rovers Go Farther, Faster"
 excerpt: "NASA's Mars rovers have been one of the great scientific and space successes of the past two decades. Four generations of rovers have traversed the red planet gathering scientific data, sending back evocative photographs,"
 publishedDateTime: 2020-08-20T14:42:00Z
+originalUrl: "https://www.manufacturing.net/home/news/21172263/deep-learning-to-help-mars-rovers-go-farther-faster"
 webUrl: "https://www.manufacturing.net/home/news/21172263/deep-learning-to-help-mars-rovers-go-farther-faster"
 type: article
 quality: 39

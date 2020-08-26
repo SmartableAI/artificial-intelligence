@@ -3,6 +3,7 @@ category: news
 title: "Amazon Makes Internal Machine-Learning Courses Public"
 excerpt: "Amazon has published videos and supplementary materials from several of its internal Machine Learning University courses. The course lectures cover three machine-learning topics and can be watched on-demand on YouTube,"
 publishedDateTime: 2020-08-25T14:08:00Z
+originalUrl: "https://www.infoq.com/news/2020/08/amazon-machine-learning-courses/"
 webUrl: "https://www.infoq.com/news/2020/08/amazon-machine-learning-courses/"
 type: article
 quality: 28

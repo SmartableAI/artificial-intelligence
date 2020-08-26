@@ -3,6 +3,7 @@ category: news
 title: "Artificial Intelligence and NSW: JAIC Acting Director Visits Naval Special Warfare"
 excerpt: "Joint Artificial Intelligence Center (JAIC) Acting Director Nand Mulchandani met with leadership at Naval Special Warfare Command (NSWC) to discuss its strategy on applying AI for asymmetric advantage both on the Corporate side as well as AI for Warfare."
 publishedDateTime: 2020-08-21T23:42:00Z
+originalUrl: "https://www.dvidshub.net/news/376597/artificial-intelligence-and-nsw-jaic-acting-director-visits-naval-special-warfare"
 webUrl: "https://www.dvidshub.net/news/376597/artificial-intelligence-and-nsw-jaic-acting-director-visits-naval-special-warfare"
 type: article
 quality: 48

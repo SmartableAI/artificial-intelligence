@@ -3,6 +3,7 @@ category: news
 title: "Self-driving auto startup Luminar coming public via $3.4B SPAC merger"
 excerpt: "Upon closing, the merged company will retain the Luminar Technologies name and trade on the Nasdaq under the \"LAZR\" symbol.Luminar was founded in 2012 by current CEO Austin Russell."
 publishedDateTime: 2020-08-24T11:58:00Z
+originalUrl: "https://seekingalpha.com/news/3608112-self-driving-auto-startup-luminar-coming-public-via-3_4b-spac-merger"
 webUrl: "https://seekingalpha.com/news/3608112-self-driving-auto-startup-luminar-coming-public-via-3_4b-spac-merger"
 type: article
 quality: 4

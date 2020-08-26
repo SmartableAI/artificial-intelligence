@@ -3,6 +3,7 @@ category: news
 title: "AI vs. Human Fighter Pilot: Here's Who Won the Epic Dogfight"
 excerpt: "The dogfight is part of a DARPA-led effort to develop AI for fighter planes. The AI won an important string of victories but robotic air combat still has a ways to go. An artificial intelligence claimed victory over several other AIs in simulated dogfights and then went on to trounce a real human Air Force pilot,"
 publishedDateTime: 2020-08-25T13:20:00Z
+originalUrl: "https://www.popularmechanics.com/military/aviation/a33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
 webUrl: "https://www.popularmechanics.com/military/aviation/a33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
 ampWebUrl: "https://www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
 cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"

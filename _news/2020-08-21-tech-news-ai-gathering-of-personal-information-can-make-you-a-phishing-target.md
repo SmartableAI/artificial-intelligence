@@ -3,6 +3,7 @@ category: news
 title: "Tech News: AI gathering of personal information can make you a phishing target"
 excerpt: "Due to the growing popularity of artificial intelligence (AI) in appliances, devices and everyday applications, the misuse and exploitation for criminal purposes have blossomed."
 publishedDateTime: 2020-08-21T17:20:00Z
+originalUrl: "https://www.iol.co.za/business-report/opinion/tech-news-ai-gathering-of-personal-information-can-make-you-a-phishing-target-01251009-c7b3-41a0-bfa1-3acc2ffec8d6"
 webUrl: "https://www.iol.co.za/business-report/opinion/tech-news-ai-gathering-of-personal-information-can-make-you-a-phishing-target-01251009-c7b3-41a0-bfa1-3acc2ffec8d6"
 ampWebUrl: "https://www.iol.co.za/amp/business-report/opinion/tech-news-ai-gathering-of-personal-information-can-make-you-a-phishing-target-01251009-c7b3-41a0-bfa1-3acc2ffec8d6"
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/opinion/tech-news-ai-gathering-of-personal-information-can-make-you-a-phishing-target-01251009-c7b3-41a0-bfa1-3acc2ffec8d6"

@@ -3,6 +3,7 @@ category: news
 title: "Intel: Data bandwidth, sparsity are the two biggest challenges for AI chips"
 excerpt: "The movement of data into and out of the processor is the biggest challenge for AI chips, but sparsity looms as an even greater challenge, according to Intel engineers."
 publishedDateTime: 2020-08-17T17:33:00Z
+originalUrl: "https://www.zdnet.com/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/"
 webUrl: "https://www.zdnet.com/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/"

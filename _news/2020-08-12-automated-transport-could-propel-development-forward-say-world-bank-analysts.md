@@ -3,6 +3,7 @@ category: news
 title: "Automated transport ‘could propel development forward’, say World Bank analysts"
 excerpt: "Automated transportation and mobility systems – such as autonomous cars, driverless trains, elevators, escalators and moving walkways – “could propel development forward” for the global economy,"
 publishedDateTime: 2020-08-12T10:00:00Z
+originalUrl: "https://roboticsandautomationnews.com/2020/08/12/automated-transport-could-propel-development-forward-say-world-bank-experts/35032/"
 webUrl: "https://roboticsandautomationnews.com/2020/08/12/automated-transport-could-propel-development-forward-say-world-bank-experts/35032/"
 type: article
 

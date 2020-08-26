@@ -55,20 +55,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 36
-  - title: "My MBA Helped Me Become A Fintech Leader In Greater China"
-    excerpt: "After graduating from an MBA in Hong Kong, Jeffrey Ng used the leadership skills he learned to develop his career in the fintech hubs of Hong Kong and mainland China"
-    publishedDateTime: 2020-08-21T09:19:00Z
-    webUrl: "https://www.businessbecause.com/news/mba-jobs/7065/mba-fintech-leader-china"
-    type: article
-    provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 24
-    images:
-      - url: "https://www.businessbecause.com/themes/businessbecause/img/search_responsive_white.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Modern Proptech, Fintech, AI can Enhance Real Estate Transactions, but Human Contact Is Important, Industry Exec Says"
     excerpt: "Modern Proptech, Fintech, AI can enhance real estate transactions, but human contact is important, industry exec says."
     publishedDateTime: 2020-08-25T02:01:00Z

@@ -3,6 +3,7 @@ category: news
 title: "Participation-washing could be the next dangerous fad in machine learning"
 excerpt: "The AI community is finally waking up to the fact that machine learning can cause disproportionate harm to already oppressed and disadvantaged groups. We have activists and organizers to thank for that."
 publishedDateTime: 2020-08-25T09:20:00Z
+originalUrl: "https://www.technologyreview.com/2020/08/25/1007589/participation-washing-ai-trends-opinion-machine-learning/"
 webUrl: "https://www.technologyreview.com/2020/08/25/1007589/participation-washing-ai-trends-opinion-machine-learning/"
 ampWebUrl: "https://www.technologyreview.com/2020/08/25/1007589/participation-washing-ai-trends-opinion-machine-learning/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/08/25/1007589/participation-washing-ai-trends-opinion-machine-learning/amp/"

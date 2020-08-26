@@ -3,6 +3,7 @@ category: news
 title: "Fintech just made a big leap forward in this tiny country: Here's why"
 excerpt: "But now its fintech industry, especially the digital-payments sector, is also beginning to make its mark. When Microblink, an R&D company based in Zagreb, Croatia, started out in 2013, it had to rely on its founders' finances,"
 publishedDateTime: 2020-08-19T10:10:00Z
+originalUrl: "https://www.zdnet.com/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/"
 webUrl: "https://www.zdnet.com/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/"

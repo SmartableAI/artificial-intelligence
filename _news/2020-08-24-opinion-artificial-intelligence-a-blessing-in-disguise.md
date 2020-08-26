@@ -3,6 +3,7 @@ category: news
 title: "Opinion: Artificial intelligence — a blessing in disguise"
 excerpt: "Artificial intelligence, the start of global catastrophe, the destruction of economic equality, the downfall of mankind. If artificial intelligence leads to such devastating effects, why does society continue to push towards it?"
 publishedDateTime: 2020-08-24T22:00:00Z
+originalUrl: "https://highschool.latimes.com/los-altos-high-school/opinion-artificial-intelligence-a-blessing-in-disguise/"
 webUrl: "https://highschool.latimes.com/los-altos-high-school/opinion-artificial-intelligence-a-blessing-in-disguise/"
 type: article
 quality: 39

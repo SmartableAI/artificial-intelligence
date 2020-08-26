@@ -3,6 +3,7 @@ category: news
 title: "Hanwha Techwin announces AI deep learning-based video analytics Social Distance Measuring application"
 excerpt: "Hanwha Techwin has launched AI deep learning-based video analytics Social Distance Measuring application which, in a COVID-19 affected world, helps businesses to implement their social distancing policies. Developed by A.I Tech, Hanwha Techwin’s award ..."
 publishedDateTime: 2020-08-12T09:37:00Z
+originalUrl: "https://www.sourcesecurity.com/news/hanwha-techwin-announces-ai-deep-learning-co-9381-ga-npr.1597220236.html?ref=nav"
 webUrl: "https://www.sourcesecurity.com/news/hanwha-techwin-announces-ai-deep-learning-co-9381-ga-npr.1597220236.html?ref=nav"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/hanwha-techwin-announces-ai-deep-learning-co-9381-ga-npr.1597220236.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/hanwha-techwin-announces-ai-deep-learning-co-9381-ga-npr.1597220236.html"

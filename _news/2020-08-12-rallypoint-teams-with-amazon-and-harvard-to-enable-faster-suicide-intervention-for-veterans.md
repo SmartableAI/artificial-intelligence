@@ -3,6 +3,7 @@ category: news
 title: "RallyPoint teams with Amazon and Harvard to enable faster suicide intervention for veterans"
 excerpt: "Harvard University’s Nock Lab to help veterans with issues of self-harm and suicide. According to the U.S. Department of Veterans Affairs, an estimated 17 military veterans die by suicide each day. This is a rate 50% higher than seen among nonmilitary adults in the general population."
 publishedDateTime: 2020-08-12T17:54:00Z
+originalUrl: "https://siliconangle.com/2020/08/12/rallypoint-teams-amazon-harvard-enable-faster-suicide-intervention-veterans/"
 webUrl: "https://siliconangle.com/2020/08/12/rallypoint-teams-amazon-harvard-enable-faster-suicide-intervention-veterans/"
 type: article
 quality: 14

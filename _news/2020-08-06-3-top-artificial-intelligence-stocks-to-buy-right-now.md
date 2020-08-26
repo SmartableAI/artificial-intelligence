@@ -3,6 +3,7 @@ category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "AWS has a long, and growing ... NVIDIA continues to release new artificial intelligence hardware, including its recent A100 Tensor Core GPUs, which allow data centers to accelerate both AI ..."
 publishedDateTime: 2020-08-06T13:41:00Z
+originalUrl: "https://www.fool.com/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
 webUrl: "https://www.fool.com/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"

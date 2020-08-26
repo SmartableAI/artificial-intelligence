@@ -3,6 +3,7 @@ category: news
 title: "Singapore unveils a $180 million investment to accelerate fintech development"
 excerpt: "Singaporean financial regulator MAS unveils S$250M ($180M) investment over three years to accelerate financial services innovation and tech adoption."
 publishedDateTime: 2020-08-14T13:19:00Z
+originalUrl: "https://www.businessinsider.com/singapore-announces-180-million-fintech-investment-2020-8"
 webUrl: "https://www.businessinsider.com/singapore-announces-180-million-fintech-investment-2020-8"
 type: article
 quality: 51

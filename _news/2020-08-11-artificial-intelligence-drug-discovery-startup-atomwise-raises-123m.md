@@ -3,6 +3,7 @@ category: news
 title: "Artificial intelligence drug discovery startup Atomwise raises $123M"
 excerpt: "Artificial intelligence drug discovery startup Atomwise Inc. announced today it has raised $123 million in new funding to scale up its AI technology platform. The Series B round was led by B Capital Group and Sanabil Investments and included DCVC,"
 publishedDateTime: 2020-08-11T13:26:00Z
+originalUrl: "https://siliconangle.com/2020/08/11/artificial-intelligence-drug-discovery-startup-atomwise-raises-123m/"
 webUrl: "https://siliconangle.com/2020/08/11/artificial-intelligence-drug-discovery-startup-atomwise-raises-123m/"
 type: article
 quality: 56

@@ -3,6 +3,7 @@ category: news
 title: "How machine learning and artificial intelligence can drive clinical innovation"
 excerpt: "Everyone knows the terms “machine learning” and “artificial intelligence.” Few can define them, much less explain their inestimable value to clinical trials. So, it’s not surprising that, despite their ability to minimize risk,"
 publishedDateTime: 2020-08-07T09:32:00Z
+originalUrl: "https://www.pharmalive.com/how-machine-learning-and-artificial-intelligence-can-drive-clinical-innovation/"
 webUrl: "https://www.pharmalive.com/how-machine-learning-and-artificial-intelligence-can-drive-clinical-innovation/"
 type: article
 quality: 52

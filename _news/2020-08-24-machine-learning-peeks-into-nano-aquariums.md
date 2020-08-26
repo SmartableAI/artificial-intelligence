@@ -3,6 +3,7 @@ category: news
 title: "Machine learning peeks into nano-aquariums"
 excerpt: "In the nanoworld, tiny particles such as proteins appear to dance as they transform and assemble to perform various tasks while suspended in a liquid. Recently developed methods have made it possible to watch and record these otherwise-elusive tiny motions,"
 publishedDateTime: 2020-08-24T14:53:00Z
+originalUrl: "https://phys.org/news/2020-08-machine-peeks-nano-aquariums.html"
 webUrl: "https://phys.org/news/2020-08-machine-peeks-nano-aquariums.html"
 ampWebUrl: "https://phys.org/news/2020-08-machine-peeks-nano-aquariums.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-machine-peeks-nano-aquariums.amp"

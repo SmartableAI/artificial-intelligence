@@ -3,6 +3,7 @@ category: news
 title: "3 Awards Will Support Accelerator R&D for Medical Treatment, Miniaturization, and Machine Learning"
 excerpt: "New DOE awards will support R&D for improved cancer treatments, more stable and predictable particle beams via AI, and a new rapid-fire laser system."
 publishedDateTime: 2020-08-24T14:04:00Z
+originalUrl: "https://newscenter.lbl.gov/2020/08/24/3-awards-will-support-accelerator-rd-for-medical-treatment-miniaturization-and-machine-learning/"
 webUrl: "https://newscenter.lbl.gov/2020/08/24/3-awards-will-support-accelerator-rd-for-medical-treatment-miniaturization-and-machine-learning/"
 type: article
 quality: 27

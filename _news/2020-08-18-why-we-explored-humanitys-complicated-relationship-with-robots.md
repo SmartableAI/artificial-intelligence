@@ -3,6 +3,7 @@ category: news
 title: "Why we explored humanity’s complicated relationship with robots"
 excerpt: "He found robots digging holes to install wind turbines in Colorado, cutting lettuce in California, and even reciting religious texts in Japan. “It’s an inevitable fact that we are going to have machines, artificial creatures, that will be a part of our ..."
 publishedDateTime: 2020-08-18T09:17:00Z
+originalUrl: "https://www.nationalgeographic.com/magazine/2020/09/editor-why-we-explored-humanitys-increasingly-complicated-relationship-with-robots/"
 webUrl: "https://www.nationalgeographic.com/magazine/2020/09/editor-why-we-explored-humanitys-increasingly-complicated-relationship-with-robots/"
 type: article
 quality: 19

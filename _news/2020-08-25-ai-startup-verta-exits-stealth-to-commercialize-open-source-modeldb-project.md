@@ -3,6 +3,7 @@ category: news
 title: "AI startup Verta exits stealth to commercialize open-source ModelDB project"
 excerpt: "Startup Verta Inc. launched from stealth mode today with $10 million in fresh funding and an enterprise machine learning product based on ModelDB, a popular open-source tool for managing artificial intelligence projects."
 publishedDateTime: 2020-08-25T20:31:00Z
+originalUrl: "https://siliconangle.com/2020/08/25/ai-startup-verta-exits-stealth-commercialize-open-source-modeldb-project/"
 webUrl: "https://siliconangle.com/2020/08/25/ai-startup-verta-exits-stealth-commercialize-open-source-modeldb-project/"
 type: article
 quality: 35

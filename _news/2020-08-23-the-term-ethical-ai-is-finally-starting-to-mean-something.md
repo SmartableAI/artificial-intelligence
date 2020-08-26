@@ -3,6 +3,7 @@ category: news
 title: "The term ‘ethical AI’ is finally starting to mean something"
 excerpt: "By framing ethical problems as narrow issues of fairness and accuracy, companies could equate expanded data collection with investing in “ethical AI.” The efforts of tech companies to champion fairness-related codes illustrate this point: In January 2018,"
 publishedDateTime: 2020-08-23T17:34:00Z
+originalUrl: "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/"
 webUrl: "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/"
 ampWebUrl: "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/amp/"

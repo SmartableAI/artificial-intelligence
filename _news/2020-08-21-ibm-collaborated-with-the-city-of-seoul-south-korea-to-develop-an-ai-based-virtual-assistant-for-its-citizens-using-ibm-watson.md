@@ -3,6 +3,7 @@ category: news
 title: "IBM Collaborated with the City of Seoul, South Korea to Develop an AI-based Virtual Assistant for its Citizens using IBM Watson"
 excerpt: "have launched an AI-based virtual assistant for Seoul citizens using IBM Watson Assistant. The virtual assistant is part of the city's \"I Care You\" project, which is designed to survey the changes to daily life and difficulties that citizens are ..."
 publishedDateTime: 2020-08-21T14:36:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2020/08/20/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based"
 webUrl: "https://stockhouse.com/news/press-releases/2020/08/20/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based"
 type: article
 quality: 26

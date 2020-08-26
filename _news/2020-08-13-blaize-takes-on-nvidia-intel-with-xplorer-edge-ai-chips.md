@@ -3,6 +3,7 @@ category: news
 title: "Blaize Takes On Nvidia, Intel With Xplorer Edge AI Chips"
 excerpt: "Blaize announces that its Xplorer Accelerator and Pathfinder edge AI chips will go into production by the end of the year, providing companies like Nvidia and Intel with another competitor in the market."
 publishedDateTime: 2020-08-13T19:38:00Z
+originalUrl: "https://www.crn.com/news/components-peripherals/blaize-takes-on-nvidia-intel-with-xplorer-edge-ai-chips"
 webUrl: "https://www.crn.com/news/components-peripherals/blaize-takes-on-nvidia-intel-with-xplorer-edge-ai-chips"
 type: article
 quality: 54

@@ -3,6 +3,7 @@ category: news
 title: "NYPD used facial recognition software during investigation targeting Black Lives Matter activist"
 excerpt: "The New York Police Department (NYPD) said it used facial recognition software during its investigation targeting Black Lives Matter organizer Derrick Ingram, who saw his apartment surrounded by officers,"
 publishedDateTime: 2020-08-19T17:49:00Z
+originalUrl: "https://thehill.com/policy/technology/512729-nypd-used-facial-recognition-software-during-investigation-targeting-black"
 webUrl: "https://thehill.com/policy/technology/512729-nypd-used-facial-recognition-software-during-investigation-targeting-black"
 ampWebUrl: "https://thehill.com/policy/technology/512729-nypd-used-facial-recognition-software-during-investigation-targeting-black?amp"
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/512729-nypd-used-facial-recognition-software-during-investigation-targeting-black?amp"

@@ -3,6 +3,7 @@ category: news
 title: "Facebook AI produces accurate MRI images 4 times faster than current tech"
 excerpt: "A newly published study has validated the efficacy of a novel AI algorithm designed to deliver accurate MRI results from four times less data than usually necessary. This impressive innovation promises to dramatically speed up MRI scans without needing to upgrade pre-existing imaging hardware."
 publishedDateTime: 2020-08-20T01:27:00Z
+originalUrl: "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/"
 webUrl: "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/"
 ampWebUrl: "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/?amp=true"

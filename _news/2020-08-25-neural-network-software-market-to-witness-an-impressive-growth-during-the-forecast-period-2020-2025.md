@@ -3,6 +3,7 @@ category: news
 title: "Neural Network Software Market to witness an impressive growth during the forecast period 2020 – 2025"
 excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
 publishedDateTime: 2020-08-25T07:59:00Z
+originalUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-to-witness-an-impressive-growth-during-the-forecast-period-2020-2025-2020-08-25"
 webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-to-witness-an-impressive-growth-during-the-forecast-period-2020-2025-2020-08-25"
 type: article
 quality: 54

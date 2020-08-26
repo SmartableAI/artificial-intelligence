@@ -3,6 +3,7 @@ category: news
 title: "CognitiveScale Announces Availability of Cortex Certifai on AWS Marketplace"
 excerpt: "As automated decisioning systems such as advanced analytics, Robotic Process Automation (RPA), and Artificial Intelligence (AI ... By offering Certifai on AWS Marketplace, customers get cloud-based economy and flexibility, along with the ability to ..."
 publishedDateTime: 2020-08-18T14:07:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cognitivescale-announces-availability-of-cortex-certifai-on-aws-marketplace-301114082.html"
 webUrl: "https://www.prnewswire.com/news-releases/cognitivescale-announces-availability-of-cortex-certifai-on-aws-marketplace-301114082.html"
 type: article
 quality: 52

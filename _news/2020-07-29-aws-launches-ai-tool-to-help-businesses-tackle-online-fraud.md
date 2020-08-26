@@ -3,6 +3,7 @@ category: news
 title: "AWS launches AI tool to help businesses tackle online fraud"
 excerpt: "Businesses with more advanced requirements can use their own models with the service using an integration with SageMaker, Amazon’s managed AI platform. AWS charges no up-front p"
 publishedDateTime: 2020-07-29T09:28:00Z
+originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356597/aws-launches-ai-tool-that-helps-businesses-tackle"
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356597/aws-launches-ai-tool-that-helps-businesses-tackle"
 type: article
 quality: 84

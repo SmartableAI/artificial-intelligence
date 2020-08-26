@@ -3,6 +3,7 @@ category: news
 title: "The Journey Of Computer Vision To Healthcare Industry"
 excerpt: "One of the important subfields of AI, computer vision has recently exploded in terms of advances and use cases."
 publishedDateTime: 2020-08-15T10:43:00Z
+originalUrl: "https://analyticsindiamag.com/the-journey-of-computer-vision-to-healthcare-industry/"
 webUrl: "https://analyticsindiamag.com/the-journey-of-computer-vision-to-healthcare-industry/"
 type: article
 quality: 39

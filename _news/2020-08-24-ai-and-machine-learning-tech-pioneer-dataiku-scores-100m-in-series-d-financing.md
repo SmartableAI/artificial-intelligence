@@ -3,6 +3,7 @@ category: news
 title: "AI And Machine Learning Tech Pioneer Dataiku Scores $100M In Series D Financing"
 excerpt: "Enterprise AI and machine learning platform developer Dataiku has raised $100 million in a Series D round of financing, the company said Monday. The funding round was led by Stripes, a growth equity and services company focused on startups in the software and consumer products industries."
 publishedDateTime: 2020-08-24T16:44:00Z
+originalUrl: "https://www.crn.com/news/applications-os/ai-and-machine-learning-tech-pioneer-dataiku-scores-100m-in-series-d-financing"
 webUrl: "https://www.crn.com/news/applications-os/ai-and-machine-learning-tech-pioneer-dataiku-scores-100m-in-series-d-financing"
 type: article
 quality: 50

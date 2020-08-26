@@ -2,12 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-25-what-healthcare-can-learn-from-fintechs-digital-evolution.md",
+      "title": "What Healthcare Can Learn From Fintech’s Digital Evolution",
+      "excerpt": "The digital disruption of the banking industry offers helpful comparisons and takeaways for the future of healthcare and healthcare finance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43f423828d8baa4696f810%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/amp/",
+      "publishedDateTime": "2020-08-25T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves.md",
+      "title": "Two left feet? Facebook’s new AI dance choreographer can teach you some brand new moves",
+      "excerpt": "Facebook's AI boffins have developed a new system that creates original dance routines for any music that you feed it.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/",
+      "originalUrl": "https://thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/",
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-25T115244.344-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/amp/",
+      "publishedDateTime": "2020-08-25T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service.md",
+      "title": "Microsoft introduces 15 new languages to its Neural Text-to-Speech service",
+      "excerpt": "Microsoft has announced the addition of 15 new languages to its Neural Text to Speech (Neural TTS) service language set. Neural TTS is a part of Microsoft's Azure Cognitive Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service",
+      "originalUrl": "https://www.neowin.net/news/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service",
+      "featuredContent": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1585909473_microsoft_6_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service/",
+      "publishedDateTime": "2020-08-25T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-how-insurers-can-help-enterprises-with-ai-adoption.md",
       "title": "How Insurers Can Help Enterprises With AI Adoption",
       "excerpt": "Insurance companies have quantified and mitigated new types of risk for centuries. There's no reason this trend shouldn't continue with AI.",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/",
-      "originalUrl": null,
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/",
       "featuredContent": null,
       "heat": 87,
       "tags": null,
@@ -56,7 +206,7 @@
       "excerpt": "Baidu launched Qian Yan, which it says is the largest Chinese database for natural language processing, among other AI-related products on Tuesday.",
       "sourceUrl": null,
       "webUrl": "https://www.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
-      "originalUrl": null,
+      "originalUrl": "https://www.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
       "featuredContent": null,
       "heat": 101,
       "tags": null,
@@ -106,7 +256,7 @@
       "excerpt": "It’s one thing for a chatbot to help resolve an e-commerce order—it’s quite another to detect a heart attack in progress. Here are five ways AI is saving lives.",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/serenitygibbons/2020/08/25/5-life-saving-applications-of-artificial-intelligence/",
-      "originalUrl": null,
+      "originalUrl": "https://www.forbes.com/sites/serenitygibbons/2020/08/25/5-life-saving-applications-of-artificial-intelligence/",
       "featuredContent": null,
       "heat": 89,
       "tags": null,
@@ -197,7 +347,7 @@
       "excerpt": "Robot is announcing what it’s calling the biggest software upgrade to its robot vacuum cleaners since the company’s inception 30 years ago: a new AI-powered platform known as iRobot Genius Home Intelligence.",
       "sourceUrl": null,
       "webUrl": "https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app",
-      "originalUrl": null,
+      "originalUrl": "https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app",
       "featuredContent": null,
       "heat": 124,
       "tags": null,
@@ -345,7 +495,7 @@
       "excerpt": "Elon Musk is set to make an announcement about Neuralink, a company designing brain-computer interface technology, on Friday, August 28. It sounds like science fiction, but research in this area has progressed rapidly in recent years,",
       "sourceUrl": null,
       "webUrl": "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895",
-      "originalUrl": null,
+      "originalUrl": "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895",
       "featuredContent": null,
       "heat": 87,
       "tags": null,
@@ -395,7 +545,7 @@
       "excerpt": "AIs write hundreds of thousands of the articles that are published by mainstream media outlets every week. What next?",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/",
-      "originalUrl": null,
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/",
       "featuredContent": null,
       "heat": 93,
       "tags": null,
@@ -446,7 +596,7 @@
       "excerpt": "Recommender systems help you tailor customer experiences on online platforms. Amazon Personalize is an artificial intelligence and machine learning service that specializes in developing recommender system solutions. It automatically examines the data, performs feature and algorithm selection, optimizes",
       "sourceUrl": null,
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/",
-      "originalUrl": null,
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/",
       "featuredContent": null,
       "heat": 89,
       "tags": null,
@@ -496,7 +646,7 @@
       "excerpt": "DataProphet, an award-winning AI for manufacturing company based in South Africa, has raised a $6m funding round for international expansion.",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/",
-      "originalUrl": null,
+      "originalUrl": "https://www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/",
       "featuredContent": null,
       "heat": 87,
       "tags": null,
@@ -545,7 +695,7 @@
       "excerpt": "Cloud photo storage app Ever is shutting down, citing increased competition with the default services offered by Apple and Google as the cause. The company, however, had other issues beyond the plight of a small startup trying to compete with tech giants.",
       "sourceUrl": null,
       "webUrl": "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/",
-      "originalUrl": null,
+      "originalUrl": "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/",
       "featuredContent": null,
       "heat": 75,
       "tags": null,
@@ -595,7 +745,7 @@
       "excerpt": "The rapid progress of artificial intelligence (AI) technologies in the last 5-10 years has led many to associate it with robotic surgery systems. Currently, however, few robotic surgery systems are equipped with AI-driven human-robot interaction capabilities.",
       "sourceUrl": null,
       "webUrl": "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471",
-      "originalUrl": null,
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471",
       "featuredContent": null,
       "heat": 84,
       "tags": null,
@@ -636,7 +786,7 @@
       "excerpt": "Given the global urgency of the COVID-19 pandemic, Microsoft's AI for Health program has stepped in to support the development and potential deployment of Vaxine's COVAX-19 vaccine with a philanthropic grant.",
       "sourceUrl": null,
       "webUrl": "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.html",
-      "originalUrl": null,
+      "originalUrl": "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.html",
       "featuredContent": null,
       "heat": 84,
       "tags": null,
@@ -677,7 +827,7 @@
       "excerpt": "Selbyville, Delaware Global Cloud Natural Language Processing Market Report added at Market Study Report LLC provides industry size, share, growth, trends and forecast analysis up to period. Cloud Natural Language Processing Market Report also covers top key players,",
       "sourceUrl": null,
       "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024-2020-08-24",
-      "originalUrl": null,
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024-2020-08-24",
       "featuredContent": null,
       "heat": 72,
       "tags": null,
@@ -975,7 +1125,7 @@
       "excerpt": "Pharmacy — specifically hospital pharmacy— is a key area where digital transformation can have a significant impact.",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/24/three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation/",
-      "originalUrl": null,
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/24/three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation/",
       "featuredContent": null,
       "heat": 80,
       "tags": null,
@@ -1025,9 +1175,9 @@
       "excerpt": "New technologies and their frequent use during the first half of 2020 have shown the real estate sector more ways to conduct business.",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/",
-      "originalUrl": null,
+      "originalUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/",
       "featuredContent": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1067,157 +1217,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-artificial-intelligence-in-the-medical-imaging-market-new-technologies-and-developments-2020-2026.md",
-      "title": "Artificial Intelligence in the Medical Imaging Market New Technologies and Developments 2020-2026",
-      "excerpt": "MarketIntelligenceData report, titled Global Artificial Intelligence in the Medical Imaging Market Size and Forecast to 2025 presents a comprehensive take on the overall market. Analysts have carefully evaluated the milestones achieved by the global Artificial Intelligence in the Medical Imaging market and the current trends that are likely to shape its future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-medical-imaging-market-new-technologies-and-developments-2020-2026-2020-08-24",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-deep-learning-market-growth-by-manufacturers-type-and-application-forecast-to-2026.md",
-      "title": "Deep Learning Market Growth By Manufacturers, Type And Application, Forecast To 2026",
-      "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include IBM Corporation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-08-24",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-pandemic-has-online-sellers-leaning-on-cloud.md",
-      "title": "Pandemic Has Online Sellers Leaning on Cloud",
-      "excerpt": "Retailers more than ever are leaning on cloud computing to capitalize on a surge in online shopping without overloading their information-technology systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-223920/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400",
-      "publishedDateTime": "2020-08-24T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

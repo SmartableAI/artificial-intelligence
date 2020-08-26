@@ -3,6 +3,7 @@ category: news
 title: "AI Is More Likely to Misidentify Women’s Masks"
 excerpt: "The agency’s director of data science, Ilinca Barsan, recently published a blog post in which she tested 530 images, split evenly between men and women, wearing masks on three m"
 publishedDateTime: 2020-08-07T21:56:00Z
+originalUrl: "https://www.adweek.com/creativity/ai-is-more-likely-to-misidentify-womens-masks/"
 webUrl: "https://www.adweek.com/creativity/ai-is-more-likely-to-misidentify-womens-masks/"
 ampWebUrl: "https://www.adweek.com/creativity/ai-is-more-likely-to-misidentify-womens-masks/amp/"
 cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/creativity/ai-is-more-likely-to-misidentify-womens-masks/amp/"

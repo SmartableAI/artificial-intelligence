@@ -3,6 +3,7 @@ category: news
 title: "Artificial intelligence for decision support in acute stroke — current roles and potential"
 excerpt: "Imaging-based assessment is becoming increasingly important in the management of acute stroke, but processing and interpretation of images in clinical practice is challenging. In this Review, Parsons and colleagues explore the potential of artificial intelligence to provide treatment decision support."
 publishedDateTime: 2020-08-24T15:40:00Z
+originalUrl: "https://www.nature.com/articles/s41582-020-0390-y"
 webUrl: "https://www.nature.com/articles/s41582-020-0390-y"
 type: article
 quality: 27

@@ -3,6 +3,7 @@ category: news
 title: "Classification of femur fracture in pelvic X-ray images using meta-learned deep neural network"
 excerpt: "However, different forms of fracture exist, and inaccurate results have been confirmed depending on condition at the time of imaging, which is problematic. To overcome this limitation, we present an encoder-decoder structured neural network that utilizes radiology reports as ancillary information at training."
 publishedDateTime: 2020-08-13T10:10:00Z
+originalUrl: "https://www.nature.com/articles/s41598-020-70660-4"
 webUrl: "https://www.nature.com/articles/s41598-020-70660-4"
 type: article
 quality: 27

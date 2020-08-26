@@ -3,6 +3,7 @@ category: news
 title: "Facebook is training robot assistants to hear as well as see"
 excerpt: "Facebook’s AI lab, FAIR, released AI Habitat, a new simulation platform for training AI agents. It allowed agents to explore various realistic virtual environments, like a furnished apartment or cubicle-filled office."
 publishedDateTime: 2020-08-21T16:17:00Z
+originalUrl: "https://www.technologyreview.com/2020/08/21/1007523/facebook-ai-robot-assistants-hear-and-see/"
 webUrl: "https://www.technologyreview.com/2020/08/21/1007523/facebook-ai-robot-assistants-hear-and-see/"
 ampWebUrl: "https://www.technologyreview.com/2020/08/21/1007523/facebook-ai-robot-assistants-hear-and-see/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/08/21/1007523/facebook-ai-robot-assistants-hear-and-see/amp/"

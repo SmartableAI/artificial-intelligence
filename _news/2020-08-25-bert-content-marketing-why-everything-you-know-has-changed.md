@@ -3,6 +3,7 @@ category: news
 title: "BERT & Content Marketing: Why Everything You Know Has Changed"
 excerpt: "In this video, we’re going look at the relationship between content marketing and BERT, Google’s Natural Language Processor, that’s"
 publishedDateTime: 2020-08-25T15:32:00Z
+originalUrl: "https://www.business2community.com/brandviews/shelley-media-arts/bert-content-marketing-why-everything-you-know-has-changed-02339077"
 webUrl: "https://www.business2community.com/brandviews/shelley-media-arts/bert-content-marketing-why-everything-you-know-has-changed-02339077"
 ampWebUrl: "https://www.business2community.com/brandviews/shelley-media-arts/bert-content-marketing-why-everything-you-know-has-changed-02339077/amp"
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/brandviews/shelley-media-arts/bert-content-marketing-why-everything-you-know-has-changed-02339077/amp"

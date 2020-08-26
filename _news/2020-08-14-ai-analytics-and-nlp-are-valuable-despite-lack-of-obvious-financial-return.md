@@ -3,6 +3,7 @@ category: news
 title: "AI, analytics, and NLP are valuable, despite lack of obvious financial return"
 excerpt: "Instead of focusing on return to business, consider how technologies can give your business a competitive advantage."
 publishedDateTime: 2020-08-14T14:05:00Z
+originalUrl: "https://www.techrepublic.com/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/"
 webUrl: "https://www.techrepublic.com/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/"

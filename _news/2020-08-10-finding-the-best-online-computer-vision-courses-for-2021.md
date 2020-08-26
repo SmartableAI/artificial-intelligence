@@ -3,6 +3,7 @@ category: news
 title: "Finding The Best Online Computer Vision Courses For 2021"
 excerpt: "Hence, computer vision should be a crucial driver of intelligent technology in the coming years. Computer vision has become ubiquitous in our society, with applications in search, medicine ..."
 publishedDateTime: 2020-08-10T11:13:00Z
+originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/08/10/finding-the-best-online-computer-vision-courses-for-2021/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/08/10/finding-the-best-online-computer-vision-courses-for-2021/"
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/08/10/finding-the-best-online-computer-vision-courses-for-2021/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/10/finding-the-best-online-computer-vision-courses-for-2021/amp/"

@@ -3,6 +3,7 @@ category: news
 title: "Hyperscaler Q2 market share analysis: AWS still dominates but Azure gaining in the enterprise"
 excerpt: "The “big three” clouds recently announced Q2 2020 earnings: time for a comparison of the relative market share of AWS, Microsoft Azure, and Google Cloud."
 publishedDateTime: 2020-08-25T22:35:00Z
+originalUrl: "https://cloudcomputing-news.net/news/2020/aug/25/hyperscaler-q2-market-share-analysis-aws-still-dominates-but-azure-gaining-in-the-enterprise/"
 webUrl: "https://cloudcomputing-news.net/news/2020/aug/25/hyperscaler-q2-market-share-analysis-aws-still-dominates-but-azure-gaining-in-the-enterprise/"
 type: article
 quality: 43

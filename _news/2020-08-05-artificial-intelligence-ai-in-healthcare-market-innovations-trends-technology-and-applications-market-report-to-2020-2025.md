@@ -3,6 +3,7 @@ category: news
 title: "Artificial Intelligence (AI) in Healthcare Market Innovations, Trends, Technology And Applications Market Report To 2020-2025"
 excerpt: "Artificial Intelligence (AI) refers to the creation ... clinical practices can be used for alerts & reminder, diagnostic, therapy planning, information retrieval, and image interpretation."
 publishedDateTime: 2020-08-05T10:13:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025-2020-08-05"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025-2020-08-05"
 type: article
 

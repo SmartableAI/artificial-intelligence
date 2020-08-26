@@ -3,6 +3,7 @@ category: news
 title: "Facebook releases tools to help AI navigate complex environments"
 excerpt: "Facebook detailed its work in embodied machine learning, including new open source data sets and modules to advance the field."
 publishedDateTime: 2020-08-21T17:00:00Z
+originalUrl: "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/"
 webUrl: "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/"
 ampWebUrl: "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/amp/"

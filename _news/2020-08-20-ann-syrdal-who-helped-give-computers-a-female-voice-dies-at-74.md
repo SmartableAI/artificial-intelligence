@@ -3,6 +3,7 @@ category: news
 title: "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74"
 excerpt: "Ann Syrdal, a psychologist and computer science researcher who helped develop synthetic voices that sounded like women, laying the groundwork for such modern digital assistants as Apple’s Siri and Amazon’s Alexa,"
 publishedDateTime: 2020-08-20T20:57:00Z
+originalUrl: "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
 webUrl: "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
 ampWebUrl: "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.amp.html"

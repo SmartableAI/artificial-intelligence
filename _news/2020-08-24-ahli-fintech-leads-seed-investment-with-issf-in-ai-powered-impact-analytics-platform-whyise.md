@@ -3,6 +3,7 @@ category: news
 title: "AHLI FINTECH leads seed investment with ISSF in AI-powered impact-analytics platform, Whyise"
 excerpt: "AHLI FINETCH – the financial technology and innovation accelerator, venture-studio arm, and fully-owned subsidiary of Jordan Ahli Bank – revealed today that, in October 2019, it selected Whyise Inc. among a few startups to participate in the first wave of the 6-month AHLI FINTECH Seed Accelerator program."
 publishedDateTime: 2020-08-24T04:29:00Z
+originalUrl: "https://www.zawya.com/mena/en/press-releases/story/AHLI_FINTECH_leads_seed_investment_with_ISSF_in_AIpowered_impactanalytics_platform_Whyise-ZAWYA20200824041611/"
 webUrl: "https://www.zawya.com/mena/en/press-releases/story/AHLI_FINTECH_leads_seed_investment_with_ISSF_in_AIpowered_impactanalytics_platform_Whyise-ZAWYA20200824041611/"
 type: article
 quality: 28

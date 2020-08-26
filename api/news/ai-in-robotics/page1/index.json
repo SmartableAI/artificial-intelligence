@@ -7,7 +7,7 @@
       "excerpt": "Artificial intelligence has been touted as a solution for everything from ending lines at the checkout to rooting out systematic bias in Wall Street hiring. It was almost inevitable that someone would suggest using it to fix value investing.",
       "sourceUrl": null,
       "webUrl": "https://www.bloomberg.com/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon",
-      "originalUrl": null,
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon",
       "featuredContent": null,
       "heat": 89,
       "tags": null,
@@ -57,9 +57,9 @@
       "excerpt": "Market Overview The AI in computer vision market will surpass a valuation of USD 27 billion, attaining a CAGR of 45%",
       "sourceUrl": null,
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-covid-19-analysis-growth-forecast-size-share-trends-business-opportunities-and-industry-challenges-2020-08-25",
-      "originalUrl": null,
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-covid-19-analysis-growth-forecast-size-share-trends-business-opportunities-and-industry-challenges-2020-08-25",
       "featuredContent": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -108,7 +108,7 @@
       "excerpt": "Robot is announcing what it’s calling the biggest software upgrade to its robot vacuum cleaners since the company’s inception 30 years ago: a new AI-powered platform known as iRobot Genius Home Intelligence.",
       "sourceUrl": null,
       "webUrl": "https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app",
-      "originalUrl": null,
+      "originalUrl": "https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app",
       "featuredContent": null,
       "heat": 124,
       "tags": null,
@@ -158,7 +158,7 @@
       "excerpt": "Elon Musk is set to make an announcement about Neuralink, a company designing brain-computer interface technology, on Friday, August 28. It sounds like science fiction, but research in this area has progressed rapidly in recent years,",
       "sourceUrl": null,
       "webUrl": "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895",
-      "originalUrl": null,
+      "originalUrl": "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895",
       "featuredContent": null,
       "heat": 87,
       "tags": null,
@@ -208,7 +208,7 @@
       "excerpt": "AIs write hundreds of thousands of the articles that are published by mainstream media outlets every week. What next?",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/",
-      "originalUrl": null,
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/",
       "featuredContent": null,
       "heat": 93,
       "tags": null,
@@ -259,7 +259,7 @@
       "excerpt": "The rapid progress of artificial intelligence (AI) technologies in the last 5-10 years has led many to associate it with robotic surgery systems. Currently, however, few robotic surgery systems are equipped with AI-driven human-robot interaction capabilities.",
       "sourceUrl": null,
       "webUrl": "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471",
-      "originalUrl": null,
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471",
       "featuredContent": null,
       "heat": 84,
       "tags": null,
@@ -489,6 +489,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-20-how-industrial-robotics-market-will-grow-in-coming-future-despite-covid-19-chaos.md",
+      "title": "How Industrial Robotics Market Will Grow In Coming Future Despite COVID-19 Chaos?",
+      "excerpt": "The industrial robotics market is going to experience a negative impact in 2020. High investment cost is required",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/how-industrial-robotics-market-will-grow-in-coming-future-despite-covid-19-chaos-2020-08-19",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-20T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-pets-in-china-now-have-their-own-robot-friends-which-can-entertain-and-even-dispense-treats.md",
       "title": "Pets in China now have their own robot friends, which can entertain and even dispense treats",
       "excerpt": "China's pet industry was estimated to be worth 172.2 billion yuan in 2018 and is forecast to more than double by 2023.",
@@ -577,7 +627,7 @@
       "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics used to recover commodities reclaimed as raw materials for the glob",
       "sourceUrl": null,
       "webUrl": "https://www.businesswire.com/news/home/20200819005638/en/AMP-Robotics-Accelerates-Growth-Key-Leadership-Hires",
-      "originalUrl": null,
+      "originalUrl": "https://www.businesswire.com/news/home/20200819005638/en/AMP-Robotics-Accelerates-Growth-Key-Leadership-Hires",
       "featuredContent": null,
       "heat": 74,
       "tags": null,
@@ -700,7 +750,7 @@
       "excerpt": "The COVID-19 crisis could accelerate a robotics revolution and impact jobs -- but it's not necessarily all bad news for workers.",
       "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/",
-      "originalUrl": null,
+      "originalUrl": "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/",
       "featuredContent": null,
       "heat": 124,
       "tags": null,
@@ -925,7 +975,7 @@
       "excerpt": "Researchers used a GoPro camera and a reacher-grabber device to gather robotic training data, a cheap approach that could someday improve home robots.",
       "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/",
-      "originalUrl": null,
+      "originalUrl": "https://venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/",
       "featuredContent": null,
       "heat": 104,
       "tags": null,
@@ -976,7 +1026,7 @@
       "excerpt": "By all accounts, the COVID-19 pandemic has accelerated the adoption of robotics and automation by months, if not years. The reasons are fairly clear — robotics don’t call in sick, nor are they disease vectors in the same manner as their human counterparts.",
       "sourceUrl": null,
       "webUrl": "https://techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/",
-      "originalUrl": null,
+      "originalUrl": "https://techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/",
       "featuredContent": null,
       "heat": 94,
       "tags": null,
@@ -1026,7 +1076,7 @@
       "excerpt": "Now that Root AI's robot has mastered the art of picking oblong vegetables as well as oblate shaped berries, could this technology help enhance global food security?",
       "sourceUrl": null,
       "webUrl": "https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
-      "originalUrl": null,
+      "originalUrl": "https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
       "featuredContent": null,
       "heat": 114,
       "tags": null,
@@ -1309,7 +1359,7 @@
       "excerpt": "PRNewswire/ -- Buddy.ai ( -- the creator of Buddy, a virtual English tutor with voice-based AI for kids -- announces the start of its business",
       "sourceUrl": null,
       "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/buddy-ai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking/article_2e58ca27-737c-5121-91c8-d73309d7043c.html",
-      "originalUrl": null,
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/buddy-ai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking/article_2e58ca27-737c-5121-91c8-d73309d7043c.html",
       "featuredContent": null,
       "heat": null,
       "tags": null,
@@ -1332,56 +1382,6 @@
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-more-countries-are-demanding-an-international-treaty-to-ban-killer-robots.md",
-      "title": "More Countries are Demanding an International Treaty to Ban ‘Killer Robots’",
-      "excerpt": "Now, eight years into their push for new international legislation regarding LAWS, HRW has announced in a new report that 30 countries—including Argentina, Iraq, Pakistan, Palestine, Zimbabwe, Colombia—are now finally explicitly seeking a ban on the use of these weapons.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f33d111f7a95c009efe2f15/lede/1597231383355-000arp3501469-1.jpeg?crop=1xw:0.844xh;0xw,0.1274xh",
-          "width": 3997,
-          "height": 2245,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty",
-      "publishedDateTime": "2020-08-12T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

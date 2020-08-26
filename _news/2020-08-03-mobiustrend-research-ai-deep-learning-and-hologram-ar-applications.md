@@ -3,6 +3,7 @@ category: news
 title: "MobiusTrend Research: AI Deep Learning and Hologram AR Applications"
 excerpt: "Facebook, Google and WIMI focus on AI deep learning +AR technologies, which will facilitate the interactive display and extend AR application scenarios. Hong Kong"
 publishedDateTime: 2020-08-03T23:56:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/ab16911021/mobiustrend-research-ai-deep-learning-and-hologram-ar-applications"
 webUrl: "https://www.benzinga.com/pressreleases/20/08/ab16911021/mobiustrend-research-ai-deep-learning-and-hologram-ar-applications"
 ampWebUrl: "https://amp.benzinga.com/amp/content/16911021"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16911021"

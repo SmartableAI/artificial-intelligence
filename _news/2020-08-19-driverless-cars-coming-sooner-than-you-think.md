@@ -3,6 +3,7 @@ category: news
 title: "Driverless cars: coming sooner than you think"
 excerpt: "The higher levels, 4 and 5, are truly driverless, with the former being ... “If you want Artificial Intelligence (AI) in autonomous cars to perform really well then it has to be at the ..."
 publishedDateTime: 2020-08-19T11:40:00Z
+originalUrl: "https://www.telegraph.co.uk/cars/features/driverless-cars-will-life-imitate-art-comes-safety/"
 webUrl: "https://www.telegraph.co.uk/cars/features/driverless-cars-will-life-imitate-art-comes-safety/"
 ampWebUrl: "https://www.telegraph.co.uk/cars/features/driverless-cars-will-life-imitate-art-comes-safety/amp/"
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/cars/features/driverless-cars-will-life-imitate-art-comes-safety/amp/"

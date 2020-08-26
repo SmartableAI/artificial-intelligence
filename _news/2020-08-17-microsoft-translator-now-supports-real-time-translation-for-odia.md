@@ -3,6 +3,7 @@ category: news
 title: "Microsoft Translator now supports real-time translation for Odia"
 excerpt: "Microsoft Translator will now offer real-time translation and transliteration for Odia, taking the total number of Indian languages in which one can access the service to 11, the company said on Monday."
 publishedDateTime: 2020-08-17T07:52:00Z
+originalUrl: "https://www.businessinsider.in/tech/news/microsoft-translator-now-supports-real-time-translation-for-odia/articleshow/77587334.cms"
 webUrl: "https://www.businessinsider.in/tech/news/microsoft-translator-now-supports-real-time-translation-for-odia/articleshow/77587334.cms"
 ampWebUrl: "https://www.businessinsider.in/tech/news/microsoft-translator-now-supports-real-time-translation-for-odia/amp_articleshow/77587334.cms"
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-translator-now-supports-real-time-translation-for-odia/amp_articleshow/77587334.cms"

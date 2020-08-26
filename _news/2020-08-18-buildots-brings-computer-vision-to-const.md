@@ -3,6 +3,7 @@ category: news
 title: "Buildots Brings Computer Vision to Const."
 excerpt: "Buildots, a Tel Aviv and London-based startup that is using computer vision to modernize the construction management industry, announced that it has raised $16 million in total funding. This includes a $3 million seed round, and a $13 million Series A round."
 publishedDateTime: 2020-08-18T15:17:00Z
+originalUrl: "https://www.constructionequipment.com/buildots-brings-computer-vision-const"
 webUrl: "https://www.constructionequipment.com/buildots-brings-computer-vision-const"
 type: article
 quality: 39

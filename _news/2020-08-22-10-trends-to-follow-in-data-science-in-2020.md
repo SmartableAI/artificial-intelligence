@@ -3,6 +3,7 @@ category: news
 title: "10 Trends To Follow In Data Science In 2020"
 excerpt: "In addition, with tools and techniques such as AutoML available with almost all providers, high-powered data analytics is now available to anyone. AI models, especially those that deal with larger ..."
 publishedDateTime: 2020-08-22T12:11:00Z
+originalUrl: "https://inc42.com/resources/10-trends-to-follow-in-data-science-in-2020/"
 webUrl: "https://inc42.com/resources/10-trends-to-follow-in-data-science-in-2020/"
 ampWebUrl: "https://inc42.com/resources/10-trends-to-follow-in-data-science-in-2020/amp/?fbclid=IwAR3a4ar7x_nmRouzb2uQNyGIyNES_t8iLqi6gKI35h2hE6ppa-lc3jmRshs"
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/10-trends-to-follow-in-data-science-in-2020/amp/?fbclid=IwAR3a4ar7x_nmRouzb2uQNyGIyNES_t8iLqi6gKI35h2hE6ppa-lc3jmRshs"

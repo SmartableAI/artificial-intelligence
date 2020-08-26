@@ -3,6 +3,7 @@ category: news
 title: "Cerebras Wafer Scale Engine News: DoE Supercomputer Gets 400,000 AI Cores"
 excerpt: "One of the more interesting AI silicon projects over the last couple of years has been the Cerebras Wafer Scale Engine, most notably for the fact that a single chip is the size of a literal wafer. Cerebras packs the WSE1 chip into a 15U custom liquid cooled server,"
 publishedDateTime: 2020-08-21T16:00:00Z
+originalUrl: "https://www.anandtech.com/show/16022/cerebras-wafer-scale-engine-news-doe-supercomputer-gets-400000-ai-cores"
 webUrl: "https://www.anandtech.com/show/16022/cerebras-wafer-scale-engine-news-doe-supercomputer-gets-400000-ai-cores"
 type: article
 quality: 40

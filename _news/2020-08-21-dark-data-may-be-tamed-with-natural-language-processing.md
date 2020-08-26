@@ -3,6 +3,7 @@ category: news
 title: "Dark data may be tamed with natural language processing"
 excerpt: "IT policies, checklists, toolkits, and research for download (TechRepublic Premium) Mary Beth Moore, an AI and language analytics strategist at SAS, wrote about this and other serious medical conditions and how AI can help: \"Early diagnosis and rapid intervention is critical in sepsis treatment,"
 publishedDateTime: 2020-08-21T15:25:00Z
+originalUrl: "https://www.techrepublic.com/article/dark-data-may-be-tamed-with-natural-language-processing/"
 webUrl: "https://www.techrepublic.com/article/dark-data-may-be-tamed-with-natural-language-processing/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/dark-data-may-be-tamed-with-natural-language-processing/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/dark-data-may-be-tamed-with-natural-language-processing/"

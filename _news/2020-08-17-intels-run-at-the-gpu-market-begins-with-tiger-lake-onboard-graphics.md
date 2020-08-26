@@ -3,7 +3,10 @@ category: news
 title: "Intel’s run at the GPU market begins with Tiger Lake onboard graphics"
 excerpt: "At Intel A Day 2020, most of the focus and buzz surrounded the upcoming Tiger Lake 10nm laptop CPUs—but Intel also announced advancements in their Xe GPU technology,"
 publishedDateTime: 2020-08-17T13:00:00Z
+originalUrl: "https://arstechnica.com/gadgets/2020/08/intel-is-getting-serious-about-xe-gpus-laptop-desktop-and-datacenter/"
 webUrl: "https://arstechnica.com/gadgets/2020/08/intel-is-getting-serious-about-xe-gpus-laptop-desktop-and-datacenter/"
+ampWebUrl: "https://arstechnica.com/gadgets/2020/08/intel-is-getting-serious-about-xe-gpus-laptop-desktop-and-datacenter/"
+cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2020/08/intel-is-getting-serious-about-xe-gpus-laptop-desktop-and-datacenter/"
 type: article
 quality: 69
 heat: 69

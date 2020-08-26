@@ -3,6 +3,7 @@ category: news
 title: "ProBeat: Release your data sets to the AI research community and reap the benefits"
 excerpt: "Duolingo research director Burr Settles talks about how to leverage the AI research community -- start by releasing your data sets."
 publishedDateTime: 2020-08-21T17:46:00Z
+originalUrl: "https://venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/"
 webUrl: "https://venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/"
 ampWebUrl: "https://venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/amp/"

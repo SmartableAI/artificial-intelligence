@@ -3,6 +3,7 @@ category: news
 title: "The future of artificial intelligence and quantum computing"
 excerpt: "Size, weight, power consumption, and cooling technologies today block quantum computing from the embedded world, but new generations should yield advances in artificial intelligence and computer security."
 publishedDateTime: 2020-08-25T20:10:00Z
+originalUrl: "https://www.militaryaerospace.com/computers/article/14182330/future-of-artificial-intelligence-and-quantum-computing"
 webUrl: "https://www.militaryaerospace.com/computers/article/14182330/future-of-artificial-intelligence-and-quantum-computing"
 type: article
 quality: 39

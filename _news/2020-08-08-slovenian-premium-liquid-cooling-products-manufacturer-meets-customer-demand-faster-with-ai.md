@@ -3,6 +3,7 @@ category: news
 title: "Slovenian premium liquid cooling products manufacturer meets customer demand faster with AI"
 excerpt: "Slovenian company EK Water Blocks is a leading manufacturer of water cooling, extreme cooling, and air-cooling products for computer processors and memory devices—serving customers in more than 30 countries."
 publishedDateTime: 2020-08-08T12:33:00Z
+originalUrl: "https://news.microsoft.com/en-cee/2020/08/08/slovenian-premium-liquid-cooling-products-manufacturer-meets-customer-demand-faster-with-ai/"
 webUrl: "https://news.microsoft.com/en-cee/2020/08/08/slovenian-premium-liquid-cooling-products-manufacturer-meets-customer-demand-faster-with-ai/"
 type: article
 quality: 29

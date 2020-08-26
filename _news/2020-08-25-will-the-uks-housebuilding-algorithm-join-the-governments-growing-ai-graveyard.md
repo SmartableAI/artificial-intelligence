@@ -3,6 +3,7 @@ category: news
 title: "Will the UK’s housebuilding algorithm join the government’s growing AI graveyard?"
 excerpt: "British councils have joined the immigration department and exam boards in ditching algorithms. The government's housebuilding model is also under attack."
 publishedDateTime: 2020-08-25T18:10:00Z
+originalUrl: "https://thenextweb.com/neural/2020/08/25/will-the-uks-housebuilding-algorithm-join-the-governments-growing-ai-graveyard/"
 webUrl: "https://thenextweb.com/neural/2020/08/25/will-the-uks-housebuilding-algorithm-join-the-governments-growing-ai-graveyard/"
 ampWebUrl: "https://thenextweb.com/neural/2020/08/25/will-the-uks-housebuilding-algorithm-join-the-governments-growing-ai-graveyard/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/25/will-the-uks-housebuilding-algorithm-join-the-governments-growing-ai-graveyard/amp/"

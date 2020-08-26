@@ -3,6 +3,7 @@ category: news
 title: "Brain-inspired replay for continual learning with artificial neural networks"
 excerpt: "One challenge that faces artificial intelligence is the inability of deep neural networks to continuously learn new information without catastrophically forgetting what has been learnt before. To solve this problem,"
 publishedDateTime: 2020-08-13T09:14:00Z
+originalUrl: "https://www.nature.com/articles/s41467-020-17866-2"
 webUrl: "https://www.nature.com/articles/s41467-020-17866-2"
 type: article
 quality: 51

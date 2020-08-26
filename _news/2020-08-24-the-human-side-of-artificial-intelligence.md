@@ -3,6 +3,7 @@ category: news
 title: "The Human Side of Artificial Intelligence"
 excerpt: "Sometimes it's easy to forget that humanity is the most important element of artificial intelligence (AI). AI is created by humans to solve human problems and to do so by emulating our own abilities to think,"
 publishedDateTime: 2020-08-24T15:07:00Z
+originalUrl: "https://www.linkedin.com/pulse/human-side-artificial-intelligence-bernard-marr"
 webUrl: "https://www.linkedin.com/pulse/human-side-artificial-intelligence-bernard-marr"
 type: article
 quality: 39

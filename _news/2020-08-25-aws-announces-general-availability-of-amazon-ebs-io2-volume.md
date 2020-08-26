@@ -3,9 +3,10 @@ category: news
 title: "AWS Announces General Availability of Amazon EBS io2 Volume"
 excerpt: "Amazon Web Services, Inc., (AWS), an Amazon Company, announced the general availability of io2, the next generation Provisioned"
 publishedDateTime: 2020-08-25T16:32:00Z
+originalUrl: "https://www.hpcwire.com/off-the-wire/aws-announces-general-availability-of-amazon-ebs-io2-volume/"
 webUrl: "https://www.hpcwire.com/off-the-wire/aws-announces-general-availability-of-amazon-ebs-io2-volume/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +17,12 @@ provider:
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/larry-smarr-405x228.png"
+    width: 405
+    height: 228
+    isCached: true
 
 related:
   - title: "AWS Announces General Availability of Amazon EBS io2 Volume"
@@ -33,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "jAlRMpVpbqMy2JkCus2ADju7FomHHIB7alKPH4nmHKDKc1+XspS/RCWasFtxdrdgDBZBd/v5KpcmeQM58szN3gc6jXBI2JyGLNAe0ToOBRwQVoVvFx70/csZoLLcm2lWszJlii9VTEyUDXUrGxPrKw24Sbaoo7aCCD/4vnfeo7cMzHuEh2wtU/7DaU0KtESdC8yM3RjO0ARuVqg5kul1C8aZBDYdBz1Ady/8Vl2woes13ZVTwtSzokrkW2LtiA6T8e2ah7HT/+qsxQJuSP5DfHPWfeQ4xj6UpExSu+H968gWH5B0hxgeU+QIhu8C3vBRR5U88gDv/MMvS+kGCeX7m/fdHQsxUjx03dwHfV6BbFo94VF3XnEGWJcjJgzEU4t2tF/9bCPCpqN4eBiLdMrBePTF9XNkJXLlIaowTXgFvMhW76aGCqxPSNrAvNlAjCjrHBS4wfWerSy3NmWvzzyze9n0zHNHwpbgV7MClUqyh7RKWRS3zhMk/NgCANdw6H+99KB7wbu4jNX2OMOIXhiCeg==;WNhsjb7AzoUu0mzv9Viirg=="
+secured: "9NmRC5vYVvZZy5vkz7r4dlC5npiDI/XB3ZNKSlNdv3intLjKrfcIozbQ9tDdl9gLS0ay3wVtbkYk4Aip9+sch7LDIdOAVeED0SHHzpVkMj+1hzz9ozO3DphdeQjIzz87nH7axnjGDa4W4mpHb7jBoJw6jE2ujv3OLSETg6GgHT8qMYV4fsSjLP/w7qnkse/lUcENEF8+ZfdSqLO8oES2sWibDmbKIFivH45zwXBPrwcj01UvwVLd2rv0HnDZsqDoUkclN3yl6W2Zf+KNN/ioMGWPkjaXWfbZ35Ut/2qD7BSS14OsJYPrqK/zuS29kjmmRsELPYAu5XIbs1GB+Q0Ma+i/gQLDMQ8HBtEkd/+k0Qe6lMqby65oqLbDciHnpLBOJ/PJP8+KMOwlRBZuUctifEpMxeRehfT1M58toEH7RAU9jCijzMIy49I68DuLgUl32flOk3r9tZ5rPQe5fLKLV/UkTKNRkD2/7v5OUqpy8duMSZbi8/nv3gpVfZ6lT/RM4J0HCFOhNle2PYfVEDMi4g==;mqL/l80+DkQYkdAijrVONA=="
 ---
 

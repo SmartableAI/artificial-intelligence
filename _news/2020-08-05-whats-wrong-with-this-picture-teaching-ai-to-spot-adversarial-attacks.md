@@ -3,6 +3,7 @@ category: news
 title: "What’s wrong with this picture? Teaching AI to spot adversarial attacks"
 excerpt: "Even mature computer-vision algorithms that can recognize variations in an object or image can be tricked into making a bad decision or recommendation. This vulnerability to image manipulation makes visual artificial intelligence an attractive target for ..."
 publishedDateTime: 2020-08-05T21:01:00Z
+originalUrl: "https://gcn.com/articles/2020/08/05/detecting-adverstarial-computer-vision-attacks.aspx"
 webUrl: "https://gcn.com/articles/2020/08/05/detecting-adverstarial-computer-vision-attacks.aspx"
 type: article
 

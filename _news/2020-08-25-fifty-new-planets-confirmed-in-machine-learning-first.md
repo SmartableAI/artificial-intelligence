@@ -3,6 +3,7 @@ category: news
 title: "Fifty new planets confirmed in machine learning first"
 excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by University of Warwick scientists. For the first time, astronomers have used a process based on machine learning,"
 publishedDateTime: 2020-08-25T16:28:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/08/200825110610.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/08/200825110610.htm"
 type: article
 quality: 49

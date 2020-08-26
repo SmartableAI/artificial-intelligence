@@ -3,6 +3,7 @@ category: news
 title: "Self-driving car start-up Luminar to go public in $3.4 billion merger with blank-check company"
 excerpt: "Luminar, a start-up that makes guidance technology for self-driving vehicles, is going public through a SPAC. Steve Girsky, VectoIQ managing partner, Nikola board member and former GM vice chairman, joins \"Squawk Box\" to discuss."
 publishedDateTime: 2020-08-24T12:35:00Z
+originalUrl: "https://www.cnbc.com/video/2020/08/24/self-driving-car-start-up-luminar-to-go-public-in-3point4-billion-merger-with-blank-check-company.html"
 webUrl: "https://www.cnbc.com/video/2020/08/24/self-driving-car-start-up-luminar-to-go-public-in-3point4-billion-merger-with-blank-check-company.html"
 type: article
 quality: 42

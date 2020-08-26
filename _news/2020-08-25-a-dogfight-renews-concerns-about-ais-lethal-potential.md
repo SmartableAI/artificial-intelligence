@@ -3,6 +3,7 @@ category: news
 title: "A Dogfight Renews Concerns About AI's Lethal Potential"
 excerpt: "Alphabet's DeepMind pioneered reinforcement learning. A California company used it to create an algorithm that defeated an F-16 pilot in a simulation."
 publishedDateTime: 2020-08-25T12:00:00Z
+originalUrl: "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/"
 webUrl: "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/"
 ampWebUrl: "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/amp"

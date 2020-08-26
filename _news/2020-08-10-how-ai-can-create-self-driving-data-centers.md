@@ -3,6 +3,7 @@ category: news
 title: "How AI can create self-driving data centers"
 excerpt: "Early adopters are driving the use of AI to optimize power and cooling systems, automate predictive maintenance, and improve workload distribution in enterprise data centers."
 publishedDateTime: 2020-08-10T10:00:00Z
+originalUrl: "https://www.networkworld.com/article/3568354/how-ai-can-create-self-driving-data-centers.html"
 webUrl: "https://www.networkworld.com/article/3568354/how-ai-can-create-self-driving-data-centers.html"
 ampWebUrl: "https://www.networkworld.com/article/3568354/how-ai-can-create-self-driving-data-centers.amp.html"
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3568354/how-ai-can-create-self-driving-data-centers.amp.html"

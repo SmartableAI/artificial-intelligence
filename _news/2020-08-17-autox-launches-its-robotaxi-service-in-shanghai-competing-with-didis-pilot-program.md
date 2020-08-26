@@ -3,6 +3,7 @@ category: news
 title: "AutoX launches its RoboTaxi service in Shanghai, competing with Didi’s pilot program"
 excerpt: "Autonomous vehicle startup AutoX announced the public launch of of its self-driving taxi service in Shanghai today. Called simply RoboTaxi, AutoX’s offering already faces competition from Didi, China’s largest ride-hailing platform,"
 publishedDateTime: 2020-08-17T06:42:00Z
+originalUrl: "https://techcrunch.com/2020/08/16/autox-launches-its-robotaxi-service-in-shanghai-competing-with-didis-pilot-program/"
 webUrl: "https://techcrunch.com/2020/08/16/autox-launches-its-robotaxi-service-in-shanghai-competing-with-didis-pilot-program/"
 ampWebUrl: "https://techcrunch.com/2020/08/16/autox-launches-its-robotaxi-service-in-shanghai-competing-with-didis-pilot-program/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/16/autox-launches-its-robotaxi-service-in-shanghai-competing-with-didis-pilot-program/amp/"

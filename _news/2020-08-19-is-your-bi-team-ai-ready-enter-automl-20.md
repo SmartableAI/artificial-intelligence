@@ -3,6 +3,7 @@ category: news
 title: "Is your BI team AI ready? Enter AutoML 2.0"
 excerpt: "The advent of “AutoML” platforms has allowed data science teams to accelerate the testing and training of ML algorithms and accelerate the development of predictive algorithms. However ..."
 publishedDateTime: 2020-08-19T13:44:00Z
+originalUrl: "https://venturebeat.com/2020/08/19/is-your-bi-team-ai-ready-enter-automl-2-0/"
 webUrl: "https://venturebeat.com/2020/08/19/is-your-bi-team-ai-ready-enter-automl-2-0/"
 ampWebUrl: "https://venturebeat.com/2020/08/19/is-your-bi-team-ai-ready-enter-automl-2-0/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/is-your-bi-team-ai-ready-enter-automl-2-0/amp/"

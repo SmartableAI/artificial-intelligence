@@ -3,6 +3,7 @@ category: news
 title: "TCT Television Deploys Hybrid Master Control Leveraging AI"
 excerpt: "TCT is using four AI algorithms, including automated transcription, facial recognition, object recognition and lower-third recognition, as part of its TVU MediaMind deployment. Not only does the transcription algorithm automatically generate accurate ..."
 publishedDateTime: 2020-08-04T17:52:00Z
+originalUrl: "https://www.tvtechnology.com/news/tct-television-deploys-hybrid-master-control-leveraging-ai"
 webUrl: "https://www.tvtechnology.com/news/tct-television-deploys-hybrid-master-control-leveraging-ai"
 ampWebUrl: "https://www.tvtechnology.com/amp/news/tct-television-deploys-hybrid-master-control-leveraging-ai"
 cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/tct-television-deploys-hybrid-master-control-leveraging-ai"

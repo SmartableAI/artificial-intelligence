@@ -3,6 +3,7 @@ category: news
 title: "Microsoft Corp. (MSFT) Presents at BMO Technology Summit Conference (Transcript)"
 excerpt: "BMO Technology Summit Conference Call August 25, 2020 03:00 PM ET Company Participants Mike Spencer - GM, IR Conference Call Participants Keith Bachman - BMO Capital Markets Presentation Keith Bachman Okay."
 publishedDateTime: 2020-08-25T23:27:00Z
+originalUrl: "https://seekingalpha.com/article/4370750-microsoft-corp-msft-presents-bmo-technology-summit-conference-transcript"
 webUrl: "https://seekingalpha.com/article/4370750-microsoft-corp-msft-presents-bmo-technology-summit-conference-transcript"
 type: article
 quality: 14

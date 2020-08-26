@@ -3,6 +3,7 @@ category: news
 title: "Savan Group Delivers Cloud-Based Artificial Intelligence and Machine Learning Capability"
 excerpt: "Today, Savan Group, a leader in advanced data analytics and visualization, announced that it has partnered with Amazon Web Services"
 publishedDateTime: 2020-08-14T17:39:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/n17086830/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability"
 webUrl: "https://www.benzinga.com/pressreleases/20/08/n17086830/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability"
 ampWebUrl: "https://amp.benzinga.com/amp/content/17086830"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17086830"

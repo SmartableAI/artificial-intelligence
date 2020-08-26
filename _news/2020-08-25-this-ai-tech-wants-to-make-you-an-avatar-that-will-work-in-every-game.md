@@ -3,6 +3,7 @@ category: news
 title: "This AI Tech Wants to Make You an Avatar That Will Work in Every Game"
 excerpt: "Wolf3D, an Estonian company that originally focused on 3D printing, now has a simple goal: to put your 3D avatar into games, media, and virtual experiences. If these guys have anything to say about it,"
 publishedDateTime: 2020-08-25T19:16:00Z
+originalUrl: "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938"
 webUrl: "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938"
 ampWebUrl: "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938/amp"
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938/amp"

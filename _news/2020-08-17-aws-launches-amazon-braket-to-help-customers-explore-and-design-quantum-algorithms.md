@@ -3,6 +3,7 @@ category: news
 title: "AWS launches Amazon Braket to help customers explore and design quantum algorithms"
 excerpt: "AWS announced the general availability of Amazon Braket to help customers explore and design quantum algorithms."
 publishedDateTime: 2020-08-17T02:03:00Z
+originalUrl: "https://www.helpnetsecurity.com/2020/08/17/amazon-braket/"
 webUrl: "https://www.helpnetsecurity.com/2020/08/17/amazon-braket/"
 type: article
 quality: 33

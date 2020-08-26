@@ -3,6 +3,7 @@ category: news
 title: "Ghanaian Startup, Nokwary Wins Ecobank’s 2020 Fintech Challenge"
 excerpt: "Nokwary Technologies, edged out the rest of the ten finalists to emerge the overall winner of the 2020 Ecobank Fintech Challenge."
 publishedDateTime: 2020-08-25T08:17:00Z
+originalUrl: "https://pctechmag.com/2020/08/ecobank-fintech-challenge-winners/"
 webUrl: "https://pctechmag.com/2020/08/ecobank-fintech-challenge-winners/"
 type: article
 quality: 54

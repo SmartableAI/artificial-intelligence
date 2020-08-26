@@ -3,6 +3,7 @@ category: news
 title: "Ghanaian fintech wins Ecobank Group’s 2020 Fintech Challenge"
 excerpt: "All finalists were officially inducted into the Ecobank Fintech Fellowship programme to explore commercial partnerships with the pan-African banking giant"
 publishedDateTime: 2020-08-25T14:51:00Z
+originalUrl: "https://www.biztechafrica.com/article/ghanaian-fintech-wins-ecobank-groups-2020-fintech-/16041/"
 webUrl: "https://www.biztechafrica.com/article/ghanaian-fintech-wins-ecobank-groups-2020-fintech-/16041/"
 type: article
 quality: 54

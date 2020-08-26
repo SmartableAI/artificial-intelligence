@@ -3,6 +3,7 @@ category: news
 title: "Artificial Intelligence in Healthcare Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
 excerpt: "Selbyville, Delaware. The report on Artificial Intelligence in Healthcare market is a comprehensive evaluation"
 publishedDateTime: 2020-08-21T13:23:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2020-08-21"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2020-08-21"
 type: article
 quality: 74

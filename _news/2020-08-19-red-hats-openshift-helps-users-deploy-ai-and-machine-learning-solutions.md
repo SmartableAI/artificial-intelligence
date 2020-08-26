@@ -3,6 +3,7 @@ category: news
 title: "Red Hat’s OpenShift helps users deploy AI and machine-learning solutions"
 excerpt: "Banks demand security and compliance across mission-critical environments, and one of the largest financial ... them into services.” Another use case for AI and machine-learning deployment ..."
 publishedDateTime: 2020-08-19T00:23:00Z
+originalUrl: "https://siliconangle.com/2020/08/18/red-hats-openshift-helps-users-deploy-ai-and-machine-learning-solutions-kubecon/"
 webUrl: "https://siliconangle.com/2020/08/18/red-hats-openshift-helps-users-deploy-ai-and-machine-learning-solutions-kubecon/"
 type: article
 quality: 42

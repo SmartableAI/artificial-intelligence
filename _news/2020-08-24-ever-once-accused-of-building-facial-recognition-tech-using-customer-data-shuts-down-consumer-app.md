@@ -3,6 +3,7 @@ category: news
 title: "Ever, once accused of building facial recognition tech using customer data, shuts down consumer app"
 excerpt: "Cloud photo storage app Ever is shutting down, citing increased competition with the default services offered by Apple and Google as the cause. The company, however, had other issues beyond the plight of a small startup trying to compete with tech giants."
 publishedDateTime: 2020-08-24T18:26:00Z
+originalUrl: "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/"
 webUrl: "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/"
 ampWebUrl: "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/amp/"

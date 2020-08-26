@@ -3,6 +3,7 @@ category: news
 title: "Self-Driving Shuttle Service Launched To Transport Senior Citizens And Underserved To Detroit Hospital"
 excerpt: "Shuttle connects The Village of Brush Park Manor Paradise Valley and Brewster Homes to Detroit Medical Center Heart Hospital, features ADA compliant wheelchair ramp."
 publishedDateTime: 2020-08-21T18:59:00Z
+originalUrl: "https://detroit.cbslocal.com/2020/08/21/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital/"
 webUrl: "https://detroit.cbslocal.com/2020/08/21/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital/"
 ampWebUrl: "https://detroit.cbslocal.com/2020/08/21/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital/amp/"
 cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/08/21/self-driving-shuttle-service-launched-to-transport-senior-citizens-and-underserved-to-detroit-hospital/amp/"

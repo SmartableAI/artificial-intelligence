@@ -3,6 +3,7 @@ category: news
 title: "How Insurers Can Help Enterprises With AI Adoption"
 excerpt: "Insurance companies have quantified and mitigated new types of risk for centuries. There's no reason this trend shouldn't continue with AI."
 publishedDateTime: 2020-08-25T11:04:00Z
+originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/"
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/amp/"

@@ -3,6 +3,7 @@ category: news
 title: "Air Force Taps Machine Learning to Speed Up Flight Certifications"
 excerpt: "The Air Force SEEK EAGLE Office cleaned up its “data swamp” and implemented a machine learning application, and it's making the flight certification process more efficient."
 publishedDateTime: 2020-08-25T20:53:00Z
+originalUrl: "https://www.nextgov.com/emerging-tech/2020/08/air-force-taps-machine-learning-speed-flight-certifications/167982/"
 webUrl: "https://www.nextgov.com/emerging-tech/2020/08/air-force-taps-machine-learning-speed-flight-certifications/167982/"
 type: article
 quality: 54

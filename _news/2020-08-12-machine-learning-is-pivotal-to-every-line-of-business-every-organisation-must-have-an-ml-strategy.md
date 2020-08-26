@@ -3,6 +3,7 @@ category: news
 title: "‘Machine learning is pivotal to every line of business, every organisation must have an ML strategy’"
 excerpt: "President, Amazon Machine Learning, AWS (Amazon Web Services), who leads a global AI/ML team, has built more than 30 AWS services, authored around 40 referred scientific pa"
 publishedDateTime: 2020-08-12T06:20:00Z
+originalUrl: "https://www.thehindubusinessline.com/info-tech/machine-learning-is-pivotal-to-every-line-of-business-every-organisation-must-have-an-ml-strategy/article32332475.ece"
 webUrl: "https://www.thehindubusinessline.com/info-tech/machine-learning-is-pivotal-to-every-line-of-business-every-organisation-must-have-an-ml-strategy/article32332475.ece"
 ampWebUrl: "https://www.thehindubusinessline.com/info-tech/machine-learning-is-pivotal-to-every-line-of-business-every-organisation-must-have-an-ml-strategy/article32332475.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/machine-learning-is-pivotal-to-every-line-of-business-every-organisation-must-have-an-ml-strategy/article32332475.ece/amp/"

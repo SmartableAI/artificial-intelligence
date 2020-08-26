@@ -3,6 +3,7 @@ category: news
 title: "Learn Original Dance Moves With The Help of Facebook AI System"
 excerpt: "Indian-origin researchers at Facebook AI have developed a system that enables a machine to generate a dance for any input music, creating original, creative dance routines for any music that you feed it."
 publishedDateTime: 2020-08-25T12:21:00Z
+originalUrl: "https://www.india.com/lifestyle/learn-original-dance-moves-with-the-help-of-facebook-ai-system-4121949/"
 webUrl: "https://www.india.com/lifestyle/learn-original-dance-moves-with-the-help-of-facebook-ai-system-4121949/"
 ampWebUrl: "https://www.india.com/lifestyle/learn-original-dance-moves-with-the-help-of-facebook-ai-system-4121949/amp/"
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/lifestyle/learn-original-dance-moves-with-the-help-of-facebook-ai-system-4121949/amp/"

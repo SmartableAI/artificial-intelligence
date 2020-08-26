@@ -3,6 +3,7 @@ category: news
 title: "Immersive Reader for Azure Cognitive Services is now generally available"
 excerpt: "The Azure Cognitive Service which has been in preview since last year has finally become generally available, bringing additional features such as an updated SDK and new translator languages as well."
 publishedDateTime: 2020-08-25T18:02:00Z
+originalUrl: "https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available"
 webUrl: "https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available"
 ampWebUrl: "https://www.neowin.net/amp/immersive-reader-for-azure-cognitive-services-is-now-generally-available/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/immersive-reader-for-azure-cognitive-services-is-now-generally-available/"

@@ -3,7 +3,10 @@ category: news
 title: "IBM rolls out new processor chip for faster AI computing"
 excerpt: "International Business Machines Corp (IBM) announced on Monday a new processor chip for data centers that it says will be able to handle three times the workload of its predecessor. The IBM-designed Power10 chip will be manufactured by Samsung Electronics Co Ltd and is meant for use by businesses inside data centers,"
 publishedDateTime: 2020-08-17T10:01:00Z
+originalUrl: "https://www.irishtimes.com/business/technology/ibm-rolls-out-new-processor-chip-for-faster-ai-computing-1.4332024"
 webUrl: "https://www.irishtimes.com/business/technology/ibm-rolls-out-new-processor-chip-for-faster-ai-computing-1.4332024"
+ampWebUrl: "https://www.irishtimes.com/business/technology/ibm-rolls-out-new-processor-chip-for-faster-ai-computing-1.4332024"
+cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/technology/ibm-rolls-out-new-processor-chip-for-faster-ai-computing-1.4332024"
 type: article
 quality: 54
 heat: -1

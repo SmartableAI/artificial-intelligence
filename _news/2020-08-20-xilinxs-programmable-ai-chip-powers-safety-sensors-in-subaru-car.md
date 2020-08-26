@@ -3,6 +3,7 @@ category: news
 title: "Xilinx’s programmable AI chip powers safety sensors in Subaru car"
 excerpt: "Xilinx said that its programmable AI chip has been used in the EyeSight safety system in the new Subaru Levorg vehicle."
 publishedDateTime: 2020-08-20T02:03:00Z
+originalUrl: "https://venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/"
 webUrl: "https://venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/"
 ampWebUrl: "https://venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/amp/"

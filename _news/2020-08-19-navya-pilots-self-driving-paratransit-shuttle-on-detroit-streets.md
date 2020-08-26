@@ -3,6 +3,7 @@ category: news
 title: "Navya pilots self-driving paratransit shuttle on Detroit streets"
 excerpt: "A self-driving paratransit shuttle pilot is being deployed to help senior citizens in Detroit. Last year, French company Navya received a mobility grant from PlanetM, the Michigan Economic Development Corp."
 publishedDateTime: 2020-08-19T17:35:00Z
+originalUrl: "https://www.crainsdetroit.com/mobility/navya-pilots-self-driving-paratransit-shuttle-detroit-streets"
 webUrl: "https://www.crainsdetroit.com/mobility/navya-pilots-self-driving-paratransit-shuttle-detroit-streets"
 type: article
 

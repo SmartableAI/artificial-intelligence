@@ -3,6 +3,7 @@ category: news
 title: "Building a customized recommender system in Amazon SageMaker"
 excerpt: "Recommender systems help you tailor customer experiences on online platforms. Amazon Personalize is an artificial intelligence and machine learning service that specializes in developing recommender system solutions. It automatically examines the data, performs feature and algorithm selection, optimizes"
 publishedDateTime: 2020-08-24T18:30:09Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/"
 type: article
 quality: 89

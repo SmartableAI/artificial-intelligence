@@ -3,6 +3,7 @@ category: news
 title: "Developing a delivery science for artificial intelligence in healthcare"
 excerpt: "Artificial Intelligence (AI) has generated a large amount of excitement in healthcare, mostly driven by the emergence of increasingly accurate machine learning models. However, the promise of AI delivering scalable and sustained value for patient care in the real world setting has yet to be realized."
 publishedDateTime: 2020-08-21T09:38:00Z
+originalUrl: "https://www.nature.com/articles/s41746-020-00318-y"
 webUrl: "https://www.nature.com/articles/s41746-020-00318-y"
 type: article
 quality: 54

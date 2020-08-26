@@ -3,6 +3,7 @@ category: news
 title: "FEFU scientists propose to restore neural tissue with hydrogels based on modified pectins"
 excerpt: "Far Eastern Federal University (FEFU) scientists have developed implantable hydrogels based on plant polysaccharides (pectins). They can play the role of an artificial extracellular matrix, a special network of molecules that fills the space between body cells."
 publishedDateTime: 2020-08-13T17:00:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-08/fefu-fsp081320.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-08/fefu-fsp081320.php"
 type: article
 quality: 15

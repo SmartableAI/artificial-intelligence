@@ -3,6 +3,7 @@ category: news
 title: "Microsoft gives devs an AI-powered tool to build reading accessibility into their apps"
 excerpt: "Microsoft today announced the general availability of Immersive Reader, a service that enables apps to present text in more digestible and accessible ways."
 publishedDateTime: 2020-08-25T15:03:00Z
+originalUrl: "https://venturebeat.com/2020/08/25/microsoft-makes-azure-service-immersive-reader-generally-available/"
 webUrl: "https://venturebeat.com/2020/08/25/microsoft-makes-azure-service-immersive-reader-generally-available/"
 ampWebUrl: "https://venturebeat.com/2020/08/25/microsoft-makes-azure-service-immersive-reader-generally-available/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/microsoft-makes-azure-service-immersive-reader-generally-available/amp/"

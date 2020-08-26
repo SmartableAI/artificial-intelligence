@@ -8,7 +8,7 @@ ampWebUrl: "https://www.natlawreview.com/article/nist-seeking-comments-draft-ai-
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/nist-seeking-comments-draft-ai-principles?amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -35,7 +35,12 @@ related:
     provider:
       name: Think Advisor
       domain: thinkadvisor.com
-    quality: 52
+    quality: 72
+    images:
+      - url: "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2020/02/2019-10-30-tech-chess_Thinkstock_MI.jpg"
+        width: 616
+        height: 372
+        isCached: true
 
 secured: "LrmHHsw+hheBiztuXoNTLAp+hnkZzSnQbuPd/VHzl5Os3KCZr5pCy1pUf+EB1q9lthj+/C2DEtPf686qXCu0Uw9nomEOvQzNagsExLKjVGDGARE5cq6dS6mQgeyGeJO+YO10ti9OPLj4OSbgVyPmA5xT1svBMsG7yyjpBG2cQPBOhMuoskJPTuir8Ma4SEiWQsI9+5YnFyjsO7XTTAXa9RwL2amYzQClf8dfGy1XJvH48kGDJVuihILEOEPerjG4vRhzt3r3ewbAv21q2Nj2w1DDaa2iz7uqK1RR89jdsWcTD02aPyMuBhhOv0DoT9dBwtK9jwIP7xrEckbmzWw9Ew==;e8gJp2zJFlxvq9ucr0MtXA=="
 ---

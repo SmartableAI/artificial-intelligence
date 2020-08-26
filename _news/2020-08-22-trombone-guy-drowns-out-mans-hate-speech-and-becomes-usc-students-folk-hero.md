@@ -3,6 +3,7 @@ category: news
 title: "‘Trombone guy’ drowns out man’s hate speech and becomes USC students’ folk hero"
 excerpt: "The demonstrator on Greene St. today may have a constitutional right to be there and say what he wants, but his words do not reflect the values and principles of our university,” USC President Bob Caslen said on social media."
 publishedDateTime: 2020-08-22T17:15:00Z
+originalUrl: "https://www.thestate.com/news/local/education/article245160305.html"
 webUrl: "https://www.thestate.com/news/local/education/article245160305.html"
 ampWebUrl: "https://amp.thestate.com/news/local/education/article245160305.html"
 cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/education/article245160305.html"

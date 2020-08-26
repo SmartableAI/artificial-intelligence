@@ -3,6 +3,7 @@ category: news
 title: "2020 Insights on the Global Big Data Analytics Market Fueling Artificial Intelligence - Featuring SAS, IBM & Salesforce Among Others - ResearchAndMarkets.com"
 excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Global Big Data Analytics Market Fueling Artificial Intelligence, 2020\" report has been added to ResearchAndMarkets.com's offering. This research measures the future impact of COVID-19 on the global Big Data Analytics (BDA ..."
 publishedDateTime: 2020-08-20T15:56:00Z
+originalUrl: "https://www.businesswire.com/news/home/20200820005636/en/"
 webUrl: "https://www.businesswire.com/news/home/20200820005636/en/"
 type: article
 quality: 0

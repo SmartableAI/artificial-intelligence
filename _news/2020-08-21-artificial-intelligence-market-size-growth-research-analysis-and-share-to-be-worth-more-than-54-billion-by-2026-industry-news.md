@@ -3,6 +3,7 @@ category: news
 title: "Artificial Intelligence Market Size, Growth Research Analysis and Share to be worth more than $ 54 billion by 2026 - Industry News"
 excerpt: "Selbyville, Delaware According to Market Study Report, Has Added A New Report On Artificial Intelligence Market"
 publishedDateTime: 2020-08-21T15:20:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-research-analysis-and-share-to-be-worth-more-than-54-billion-by-2026---industry-news-2020-08-21"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-research-analysis-and-share-to-be-worth-more-than-54-billion-by-2026---industry-news-2020-08-21"
 type: article
 quality: 41

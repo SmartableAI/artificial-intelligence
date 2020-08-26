@@ -3,6 +3,7 @@ category: news
 title: "Machine Learning as a Service (MLaaS) Market Size to Witness Huge Growth by 2025"
 excerpt: "Growth forecast report \" Machine Learning as a Service (MLaaS) Market size by Product Type (Special Service and Management Services), By Application (Banking, Financial Services, Insurance, Automobile,"
 publishedDateTime: 2020-08-13T05:52:00Z
+originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025-2020-08-13"
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025-2020-08-13"
 type: article
 quality: 81

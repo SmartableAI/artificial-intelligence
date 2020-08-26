@@ -3,6 +3,7 @@ category: news
 title: "Artificial Intelligence (AI) in Manufacturing Market Analysis, Industry Outlook, Current Trends and Forecast by 2026"
 excerpt: "Market Study Report Add New 2019-2025 Global Artificial Intelligence (AI) in Manufacturing Market Report to its research database presenting an informative study covering the market with detailed analysis."
 publishedDateTime: 2020-08-25T14:37:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-industry-outlook-current-trends-and-forecast-by-2026-2020-08-25"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-industry-outlook-current-trends-and-forecast-by-2026-2020-08-25"
 type: article
 quality: 59

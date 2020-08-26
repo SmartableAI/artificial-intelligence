@@ -3,6 +3,7 @@ category: news
 title: "Artificial brains could mimic biological neural networks and make robots smarter"
 excerpt: "Despite decades of advances in robotics, making robots to perform and sense objects like humans still a far away. However, as they require a human-like sense of touch and the ability, researchers are turning their heads towards an artificial brain system."
 publishedDateTime: 2020-08-19T13:11:00Z
+originalUrl: "https://www.analyticsinsight.net/can-artificial-brain-enable-robots-perform-complex-tasks/"
 webUrl: "https://www.analyticsinsight.net/can-artificial-brain-enable-robots-perform-complex-tasks/"
 type: article
 quality: 49

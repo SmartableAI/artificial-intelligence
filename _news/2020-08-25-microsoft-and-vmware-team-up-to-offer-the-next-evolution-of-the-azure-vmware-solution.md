@@ -3,6 +3,7 @@ category: news
 title: "Microsoft and VMware Team Up to Offer the Next Evolution of the Azure VMware Solution"
 excerpt: "The latest evolution of the VMware Cloud Verified service enables enterprises to seamlessly extend their VMware environment, workloads, and applications to Azure."
 publishedDateTime: 2020-08-25T19:37:00Z
+originalUrl: "https://www.cio.com/article/3572625/microsoft-and-vmware-team-up-to-offer-the-next-evolution-of-the-azure-vmware-solution.html"
 webUrl: "https://www.cio.com/article/3572625/microsoft-and-vmware-team-up-to-offer-the-next-evolution-of-the-azure-vmware-solution.html"
 type: article
 quality: 47

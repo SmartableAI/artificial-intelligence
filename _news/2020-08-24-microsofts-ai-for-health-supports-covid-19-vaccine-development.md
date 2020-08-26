@@ -3,6 +3,7 @@ category: news
 title: "Microsoft's AI for Health supports COVID-19 vaccine development"
 excerpt: "Given the global urgency of the COVID-19 pandemic, Microsoft's AI for Health program has stepped in to support the development and potential deployment of Vaxine's COVAX-19 vaccine with a philanthropic grant."
 publishedDateTime: 2020-08-24T16:00:00Z
+originalUrl: "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.html"
 webUrl: "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.html"
 ampWebUrl: "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.amp"

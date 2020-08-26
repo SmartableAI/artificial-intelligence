@@ -3,6 +3,7 @@ category: news
 title: "The First Wave of GPT-3 Enabled Applications Offer a Preview of Our AI Future"
 excerpt: "The first wave of GPT-3 powered applications are emerging. After priming of only a few examples, GPT-3 could write essays, answer questions, and even generate computer code! Furthermore, GPT-3 can perform algebraic calculations and language translations despite never being taught such concepts."
 publishedDateTime: 2020-08-12T13:06:00Z
+originalUrl: "https://www.infoq.com/articles/gpt3-enabled-applications/"
 webUrl: "https://www.infoq.com/articles/gpt3-enabled-applications/"
 type: article
 quality: 38

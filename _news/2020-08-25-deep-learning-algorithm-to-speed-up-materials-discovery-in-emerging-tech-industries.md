@@ -3,6 +3,7 @@ category: news
 title: "Deep learning algorithm to speed up materials discovery in emerging tech industries"
 excerpt: "Solid-state inorganic materials are critical to the growth and development of electric vehicle, cellphone, laptop battery and solar energy technologies. However, finding the ideal materials with the desired functions for these industries is extremely challenging."
 publishedDateTime: 2020-08-25T15:05:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-08/uosc-dla082520.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uosc-dla082520.php"
 type: article
 quality: 33

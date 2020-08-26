@@ -3,6 +3,7 @@ category: news
 title: "Cloud-based, AI-driven strategy platform, AmploFly4.0, now on the Microsoft App channels"
 excerpt: "machine learning and design-led strategy necessary to effectively identify, address and achieve their new normal. Brian Bell, Director at Microsoft’s Commercial Marketplace, said, “On Microsoft Azure Marketplace and AppSource, customers around the ..."
 publishedDateTime: 2020-08-25T00:04:00Z
+originalUrl: "https://www.helpnetsecurity.com/2020/08/25/amplo-global-amplofly4-0/"
 webUrl: "https://www.helpnetsecurity.com/2020/08/25/amplo-global-amplofly4-0/"
 type: article
 quality: 45

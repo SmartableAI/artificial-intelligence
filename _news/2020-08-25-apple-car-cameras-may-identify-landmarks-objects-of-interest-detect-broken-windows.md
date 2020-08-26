@@ -3,6 +3,7 @@ category: news
 title: "Apple Car cameras may identify landmarks & objects of interest, detect broken windows"
 excerpt: "Beyond self-driving, the Apple Car may use its cameras to identify objects of interest and other vehicles, and for detecting damage to the car's windows."
 publishedDateTime: 2020-08-25T14:22:00Z
+originalUrl: "https://appleinsider.com/articles/20/08/25/apple-car-cameras-may-identify-landmarks-objects-of-interest-detect-broken-windows"
 webUrl: "https://appleinsider.com/articles/20/08/25/apple-car-cameras-may-identify-landmarks-objects-of-interest-detect-broken-windows"
 ampWebUrl: "https://appleinsider.com/articles/20/08/25/apple-car-cameras-may-identify-landmarks-objects-of-interest-detect-broken-windows/amp/"
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/08/25/apple-car-cameras-may-identify-landmarks-objects-of-interest-detect-broken-windows/amp/"

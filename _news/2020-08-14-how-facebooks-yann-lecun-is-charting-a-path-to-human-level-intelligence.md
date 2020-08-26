@@ -3,6 +3,7 @@ category: news
 title: "How Facebook’s Yann LeCun is charting a path to human-level intelligence"
 excerpt: "Facebook's chief AI scientist Yann LeCun told TNW about the latest work at FAIR, the social network's research lab."
 publishedDateTime: 2020-08-14T19:26:00Z
+originalUrl: "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/"
 webUrl: "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/"
 ampWebUrl: "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/amp/"

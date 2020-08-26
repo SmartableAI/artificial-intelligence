@@ -3,6 +3,7 @@ category: news
 title: "SimCorp announces new integration with Microsoft Azure"
 excerpt: "The company stated that the development is expected to benefit SimCorp's clients with a cost-efficient public cloud solution and facilitate the delivery of buy-side on-demand functionality."
 publishedDateTime: 2020-08-14T10:55:00Z
+originalUrl: "https://ibsintelligence.com/ibs-journal/ibs-news/simcorp-announces-new-integration-with-microsoft-azure/"
 webUrl: "https://ibsintelligence.com/ibs-journal/ibs-news/simcorp-announces-new-integration-with-microsoft-azure/"
 type: article
 quality: 54

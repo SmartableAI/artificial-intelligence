@@ -3,6 +3,7 @@ category: news
 title: "PSMC launches 3D WoW production for AI memory chips"
 excerpt: "Powerchip Semiconductor Manufacturing (PSMC), the foundry subsidiary of Powerchip Technology, has announced volume production for AI memory chips using 3D wafer-on-wafer (WoW) technology."
 publishedDateTime: 2020-08-20T06:58:00Z
+originalUrl: "https://www.digitimes.com/news/a20200820PD203.html"
 webUrl: "https://www.digitimes.com/news/a20200820PD203.html"
 type: article
 quality: 54

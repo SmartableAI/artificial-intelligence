@@ -3,10 +3,11 @@ category: news
 title: "IBanFirst hires chief data officer"
 excerpt: "Global financial services provider iBanFirst, delivering solutions across banking borders, announces the appointment of Yann Stadnicki as Chief Data Officer (CDO)."
 publishedDateTime: 2020-08-25T09:10:00Z
+originalUrl: "https://www.finextra.com/pressarticle/83809/ibanfirst-hires-chief-data-officer"
 webUrl: "https://www.finextra.com/pressarticle/83809/ibanfirst-hires-chief-data-officer"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -16,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"

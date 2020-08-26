@@ -3,6 +3,7 @@ category: news
 title: "The best facial recognition cameras to buy in 2020"
 excerpt: "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of ..."
 publishedDateTime: 2020-08-18T23:07:00Z
+originalUrl: "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
 webUrl: "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
 ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"

@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-23-lufax-p2p-fintech-backed-by-chinas-biggest-insurer-said-to-aim-for-ipo-in-the-us-this-year.md",
+      "title": "Lufax, P2P fintech backed by China’s biggest insurer, said to aim for IPO in the US this year",
+      "excerpt": "Now in its 3rd year, this go-to source for understanding China tech also comes with exclusive access to 6+ webinars with C-level executives, including Charles Li, CEO of HKEX, James Peng, CEO/founder of Pony.ai, and senior executives from Alibaba ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/banking-finance/article/3094293/lufax-p2p-fintech-backed-chinas-biggest-insurer-said-aim",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/22/3462b0de-cc03-11ea-9c1b-809cdd34beb3_image_hires_232518.jpg?itok=stxhy14D&v=1595431526",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3094293/lufax-p2p-fintech-backed-chinas-biggest-insurer-said-aim",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3094293/lufax-p2p-fintech-backed-chinas-biggest-insurer-said-aim",
+      "publishedDateTime": "2020-07-22T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-ibm-cloud-for-financial-services-momentum-builds-with-bnp-paribas-and-30-isvs.md",
       "title": "IBM Cloud For Financial Services Momentum Builds With BNP Paribas And 30 ISVs",
       "excerpt": "Nearly all of the financial services firms have tasted the benefits ... such as AI-enabled cognitive services, ease of machine learning capability development, managed databases and more. Their only question is how and when they will find vendors offering ...",

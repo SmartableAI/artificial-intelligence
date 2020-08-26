@@ -3,6 +3,7 @@ category: news
 title: "Socure raises $30 million to combat payments fraud with AI"
 excerpt: "Socure, a startup developing an AI-driven platform to combat payment fraud, has raised $35 million in an equity financing round."
 publishedDateTime: 2020-08-25T13:48:00Z
+originalUrl: "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/"
 webUrl: "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/"
 ampWebUrl: "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/amp/"

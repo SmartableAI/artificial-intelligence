@@ -3,6 +3,7 @@ category: news
 title: "Top 5 Latest Advancements in Artificial Intelligence"
 excerpt: "The upcoming global contextual chatbots market include Nuance Communications, chatfuel, artificial solutions, Google, acquire.io, AWS ... The advanced artificial intelligence development where ..."
 publishedDateTime: 2020-08-19T04:41:00Z
+originalUrl: "https://yourstory.com/mystory/top-five-latest-advancements-artificial-intelligence"
 webUrl: "https://yourstory.com/mystory/top-five-latest-advancements-artificial-intelligence"
 ampWebUrl: "https://yourstory.com/mystory/top-five-latest-advancements-artificial-intelligence/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/top-five-latest-advancements-artificial-intelligence/amp"

@@ -3,6 +3,7 @@ category: news
 title: "Mobius Logic brings drone flight management to Microsoft Azure"
 excerpt: "PRNewswire-PRWeb/ -- Mobius Logic, Inc. a leader in next-generation digital services, announced today that its Federal Aviation Administration"
 publishedDateTime: 2020-08-21T15:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure"
 webUrl: "https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure"
 ampWebUrl: "https://amp.benzinga.com/amp/content/17190966"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17190966"

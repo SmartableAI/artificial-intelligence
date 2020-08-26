@@ -3,6 +3,7 @@ category: news
 title: "KSV announces voice biometrics deployments, Speechmatics signs two new speech recognition partners"
 excerpt: "Voice biometrics from Kaizen Secure Voiz (KSV) are being used by a national security firm with hundreds of employees, more than half of whom are mobile guards in the field, to track the time and"
 publishedDateTime: 2020-08-25T15:47:00Z
+originalUrl: "https://www.biometricupdate.com/202008/ksv-announces-voice-biometrics-deployments-speechmatics-signs-two-new-speech-recognition-partners"
 webUrl: "https://www.biometricupdate.com/202008/ksv-announces-voice-biometrics-deployments-speechmatics-signs-two-new-speech-recognition-partners"
 type: article
 quality: 25

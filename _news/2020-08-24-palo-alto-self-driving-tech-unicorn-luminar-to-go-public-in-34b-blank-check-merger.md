@@ -3,6 +3,7 @@ category: news
 title: "Palo Alto self-driving tech unicorn Luminar to go public in $3.4B 'blank check' merger"
 excerpt: "Self-driving tech unicorn #Luminar to go public in $3.4B 'blank check' merger. #siliconvalley #ipo #autonomous"
 publishedDateTime: 2020-08-24T11:32:00Z
+originalUrl: "https://www.bizjournals.com/sanjose/news/2020/08/24/luminar-technologies-to-go-public-in-24b-merger.html"
 webUrl: "https://www.bizjournals.com/sanjose/news/2020/08/24/luminar-technologies-to-go-public-in-24b-merger.html"
 ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/08/24/luminar-technologies-to-go-public-in-24b-merger.amp.html"
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/08/24/luminar-technologies-to-go-public-in-24b-merger.amp.html"

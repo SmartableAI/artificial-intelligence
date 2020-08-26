@@ -3,6 +3,7 @@ category: news
 title: "How robotics and automation could create new jobs in the new normal"
 excerpt: "The COVID-19 crisis could accelerate a robotics revolution and impact jobs -- but it's not necessarily all bad news for workers."
 publishedDateTime: 2020-08-17T14:13:00Z
+originalUrl: "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/"
 webUrl: "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/"
 ampWebUrl: "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/amp/"

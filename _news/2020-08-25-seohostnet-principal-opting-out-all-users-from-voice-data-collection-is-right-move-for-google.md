@@ -3,6 +3,7 @@ category: news
 title: "SEOHost.Net Principal: Opting Out All Users From Voice Data Collection Is Right Move for Google"
 excerpt: "SEOHost executive comments on recent changes to Google privacy settings. ORLANDO, Fla. (PRWEB) August 25, 2020 Terry Cane, COO of SEOHost.net ("
 publishedDateTime: 2020-08-25T07:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/p17223961/seohost-net-principal-opting-out-all-users-from-voice-data-collection-is-right-move-for-google"
 webUrl: "https://www.benzinga.com/pressreleases/20/08/p17223961/seohost-net-principal-opting-out-all-users-from-voice-data-collection-is-right-move-for-google"
 ampWebUrl: "https://amp.benzinga.com/amp/content/17223961"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17223961"

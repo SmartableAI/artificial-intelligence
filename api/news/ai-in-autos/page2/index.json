@@ -180,7 +180,7 @@
       "excerpt": "Auto X, Baidu Apollo, Didi Chuxing, Pony.ai and WeRide – are focused on bringing autonomous vehicle technology to the consumer passenger market",
       "sourceUrl": null,
       "webUrl": "https://www.scmp.com/tech/enterprises/article/3096495/these-chinese-autonomous-vehicle-start-ups-are-keeping-their-eye",
-      "originalUrl": null,
+      "originalUrl": "https://www.scmp.com/tech/enterprises/article/3096495/these-chinese-autonomous-vehicle-start-ups-are-keeping-their-eye",
       "featuredContent": null,
       "heat": 81,
       "tags": null,
@@ -230,7 +230,7 @@
       "excerpt": "The solution, according to today’s most influential automakers, is to accelerate the development of electric, driverless cars programmed by artificial intelligence. For real. Our Meet George Jetson! destiny is not only inevitable, it will arrive sooner ...",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/",
-      "originalUrl": null,
+      "originalUrl": "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/",
       "featuredContent": null,
       "heat": 84,
       "tags": null,
@@ -245,8 +245,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/amp/",
       "publishedDateTime": "2020-08-07T10:57:00-07:00",
       "updatedDateTime": null,
       "provider": {

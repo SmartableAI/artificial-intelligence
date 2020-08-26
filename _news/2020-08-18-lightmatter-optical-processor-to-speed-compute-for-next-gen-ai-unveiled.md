@@ -3,6 +3,7 @@ category: news
 title: "Lightmatter Optical Processor to Speed Compute for Next-Gen AI unveiled"
 excerpt: "Lightmatter’s photonic processor runs standard machine learning frameworks including PyTorch and TensorFlow, enabling state-of-the-art AI algorithms. This new architecture is a massive advancement in the development of photonic processors. The ..."
 publishedDateTime: 2020-08-18T12:00:00Z
+originalUrl: "https://www.geeky-gadgets.com/lightmatter-optical-processor-18-08-2020/"
 webUrl: "https://www.geeky-gadgets.com/lightmatter-optical-processor-18-08-2020/"
 type: article
 quality: 41

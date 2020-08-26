@@ -2,6 +2,154 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-21-ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-simulated-dogfight-contest.md",
+      "title": "AI Murder Machine Kicks Air Force Pilot's Ass in DARPA's Simulated Dogfight Contest",
+      "excerpt": "Anyone remember the 2005 sci-fi movie Stealth? As far as I can remember, it involves a secret, artificially intelligent U.S. Air Force fighter plane that rebels against its creators when it is struck by lightning.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pkvkr2tadkg4dlsaanph.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp",
+      "publishedDateTime": "2020-08-21T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-from-ai-weiwei-a-portrait-of-wuhans-draconian-covid-lockdown.md",
+      "title": "From Ai Weiwei, a Portrait of Wuhan’s Draconian Covid Lockdown",
+      "excerpt": "Ai said the documentary film “Coronation,” which he directed remotely from Europe, “is trying to reflect what ordinary Chinese people went through.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/21/arts/21coronation24/merlin_175985925_29d1caae-7ab7-46cc-95a8-f83acc9e127c-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.amp.html",
+      "publishedDateTime": "2020-08-21T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits.md",
+      "title": "ProBeat: Release your data sets to the AI research community and reap the benefits",
+      "excerpt": "Duolingo research director Burr Settles talks about how to leverage the AI research community -- start by releasing your data sets.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/",
+      "originalUrl": "https://venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/",
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/duolingo-duo.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/amp/",
+      "publishedDateTime": "2020-08-21T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-facebooks-new-embodied-ai-project-aims-to-build-a-new-breed-of-robots.md",
       "title": "Facebook’s new ’embodied A.I’ project aims to build a new breed of robots",
       "excerpt": "Facebook wants to build an army of robot assistants that can wait on us in all kinds of new ways. Here's what it's working on.",
@@ -49,7 +197,7 @@
       "excerpt": "Facebook detailed its work in embodied machine learning, including new open source data sets and modules to advance the field.",
       "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/",
-      "originalUrl": null,
+      "originalUrl": "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/",
       "featuredContent": null,
       "heat": 89,
       "tags": null,
@@ -346,7 +494,7 @@
       "excerpt": "IT policies, checklists, toolkits, and research for download (TechRepublic Premium) Mary Beth Moore, an AI and language analytics strategist at SAS, wrote about this and other serious medical conditions and how AI can help: \"Early diagnosis and rapid intervention is critical in sepsis treatment,",
       "sourceUrl": null,
       "webUrl": "https://www.techrepublic.com/article/dark-data-may-be-tamed-with-natural-language-processing/",
-      "originalUrl": null,
+      "originalUrl": "https://www.techrepublic.com/article/dark-data-may-be-tamed-with-natural-language-processing/",
       "featuredContent": null,
       "heat": 89,
       "tags": null,
@@ -535,7 +683,7 @@
       "excerpt": "Selbyville, Delaware. The report on Artificial Intelligence in Healthcare market is a comprehensive evaluation",
       "sourceUrl": null,
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2020-08-21",
-      "originalUrl": null,
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2020-08-21",
       "featuredContent": null,
       "heat": 134,
       "tags": null,
@@ -634,7 +782,7 @@
       "excerpt": "Join this VB LIve event to learn how machine learning has offered companies powerful ways to adapt in these uncertain times.",
       "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/",
-      "originalUrl": null,
+      "originalUrl": "https://venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/",
       "featuredContent": null,
       "heat": 91,
       "tags": null,
@@ -784,7 +932,7 @@
       "excerpt": "Fintech and big technology companies could outpace traditional banks in the race to develop AI tools that help personalize services, evaluate credit risk and more, analysts and industry executives say.",
       "sourceUrl": null,
       "webUrl": "https://www.wsj.com/articles/banks-see-pressure-in-ai-race-from-fintechs-and-big-tech-11598002201",
-      "originalUrl": null,
+      "originalUrl": "https://www.wsj.com/articles/banks-see-pressure-in-ai-race-from-fintechs-and-big-tech-11598002201",
       "featuredContent": null,
       "heat": 84,
       "tags": null,
@@ -834,7 +982,7 @@
       "excerpt": "The Bristol-based company said it had almost doubled the size of its headcount to accelerate development of the technology",
       "sourceUrl": null,
       "webUrl": "https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/",
-      "originalUrl": null,
+      "originalUrl": "https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/",
       "featuredContent": null,
       "heat": 75,
       "tags": null,
@@ -876,7 +1024,7 @@
       "excerpt": "A global summit which aims to boost effective collaboration between experts working in Artificial Intelligence (AI) is being organised by academics at the University of Exeter.",
       "sourceUrl": null,
       "webUrl": "https://www.news-medical.net/news/20200820/Exeter-experts-organize-global-AI-summit-to-address-ongoing-healthcare-crisis.aspx",
-      "originalUrl": null,
+      "originalUrl": "https://www.news-medical.net/news/20200820/Exeter-experts-organize-global-AI-summit-to-address-ongoing-healthcare-crisis.aspx",
       "featuredContent": null,
       "heat": 73,
       "tags": null,
@@ -1018,7 +1166,7 @@
       "excerpt": "Ann Syrdal, a psychologist and computer science researcher who helped develop synthetic voices that sounded like women, laying the groundwork for such modern digital assistants as Apple’s Siri and Amazon’s Alexa,",
       "sourceUrl": null,
       "webUrl": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html",
-      "originalUrl": null,
+      "originalUrl": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html",
       "featuredContent": null,
       "heat": 74,
       "tags": null,
@@ -1060,157 +1208,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-unlocking-the-financial-potential-of-millions-with-machine-learning.md",
-      "title": "Unlocking the financial potential of millions with machine learning",
-      "excerpt": "To date, Tala’s innovative machine learning solution has found, scored, and offered more than 5 million customers $2.5 billion in loans.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/KE.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/amp/",
-      "publishedDateTime": "2020-08-20T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit.md",
-      "title": "Court ruling paves the way for Facebook to settle its facial recognition lawsuit",
-      "excerpt": "A judge gave Facebook preliminary approval to settle its Illinois facial recogntion lawsuit that was filed under the Biometric Information Privacy Act.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/",
-      "publishedDateTime": "2020-08-20T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-ai-is-already-building-a-more-resilient-post-pandemic-world.md",
-      "title": "AI is already building a more resilient post-pandemic world",
-      "excerpt": "For some organizations, AI tools may have been perceived as “nice-to-have” technologies prior to 2020. In a 2019 IBM/Morning Consult survey of businesses, 22% of respondents worldwide reported they are not currently using or exploring the use of AI. But in a future characterized by uncertainty, only",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/08/ai-is-already-building-a-more-resilient-post-pandemic-world/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/08/1110_Watson_Covid-era_Blog_Leadspace_v2-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-20T12:18:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

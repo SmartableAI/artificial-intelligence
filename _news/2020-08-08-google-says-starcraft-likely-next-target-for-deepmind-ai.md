@@ -3,6 +3,7 @@ category: news
 title: "Google says Starcraft likely next target for DeepMind AI"
 excerpt: "Google's DeepMind AI first set its sights on European Go champion Fan Hui, defeating it soundly before taking the crown from world champion Lee Sedol (while there's still one game to go in the ..."
 publishedDateTime: 2020-08-08T15:29:00Z
+originalUrl: "https://www.tweaktown.com/news/51057/google-starcraft-next-target-deepmind-ai/index.html"
 webUrl: "https://www.tweaktown.com/news/51057/google-starcraft-next-target-deepmind-ai/index.html"
 ampWebUrl: "https://www.tweaktown.com/news/51057/google-starcraft-next-target-deepmind-ai/amp.html"
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/51057/google-starcraft-next-target-deepmind-ai/amp.html"

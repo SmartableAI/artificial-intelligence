@@ -3,6 +3,7 @@ category: news
 title: "Fintech cred.ai emerges from stealth"
 excerpt: "Today, cred.ai, a Philadelphia-based fintech company, introduced a new kind of consumer spending product that leverages proprietary technology to give users first-of-their-kind controls, convenience,"
 publishedDateTime: 2020-08-13T16:25:00Z
+originalUrl: "https://www.finextra.com/pressarticle/83700/fintech-credai-emerges-from-stealth"
 webUrl: "https://www.finextra.com/pressarticle/83700/fintech-credai-emerges-from-stealth"
 type: article
 quality: 39

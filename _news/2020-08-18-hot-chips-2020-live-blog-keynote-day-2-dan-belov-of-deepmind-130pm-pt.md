@@ -3,6 +3,7 @@ category: news
 title: "Hot Chips 2020 Live Blog: Keynote Day 2, Dan Belov of Deepmind (1:30pm PT)"
 excerpt: "This page will auto-update, there's no need to manually refresh your browser. 04:27PM EDT - This will likely be an update to what’s going on at Deepmind (now owned by Alphabet) and what they’re planning for the future of AI. We might get some insight ..."
 publishedDateTime: 2020-08-18T20:35:00Z
+originalUrl: "https://www.anandtech.com/show/16004/hot-chips-2020-live-blog-keynote-day-2-dan-belov-of-deepmind-130pm-pt"
 webUrl: "https://www.anandtech.com/show/16004/hot-chips-2020-live-blog-keynote-day-2-dan-belov-of-deepmind-130pm-pt"
 type: article
 quality: 54

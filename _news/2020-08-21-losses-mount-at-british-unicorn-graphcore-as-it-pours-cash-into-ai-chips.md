@@ -3,6 +3,7 @@ category: news
 title: "Losses mount at British unicorn Graphcore as it pours cash into AI chips"
 excerpt: "The Bristol-based company said it had almost doubled the size of its headcount to accelerate development of the technology"
 publishedDateTime: 2020-08-21T08:05:00Z
+originalUrl: "https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/"
 webUrl: "https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/"
 ampWebUrl: "https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/amp/"
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/amp/"

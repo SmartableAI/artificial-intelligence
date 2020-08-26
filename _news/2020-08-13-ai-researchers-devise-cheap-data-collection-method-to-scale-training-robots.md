@@ -3,6 +3,7 @@ category: news
 title: "AI researchers devise cheap data collection method to scale training robots"
 excerpt: "Researchers used a GoPro camera and a reacher-grabber device to gather robotic training data, a cheap approach that could someday improve home robots."
 publishedDateTime: 2020-08-13T19:53:00Z
+originalUrl: "https://venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/"
 webUrl: "https://venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/"
 ampWebUrl: "https://venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/amp/"

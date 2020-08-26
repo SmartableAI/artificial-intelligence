@@ -3,6 +3,7 @@ category: news
 title: "Microsoft Deploys AI ‘Supercomputing’ via Nvidia’s New Ampere A100 GPU"
 excerpt: "Microsoft is ramping up a new set of AI instances for its customers. The new Nvidia Ampere-powered servers are powerful enough to qualify for supercomputer status, at least in some configurations."
 publishedDateTime: 2020-08-20T14:02:00Z
+originalUrl: "https://www.extremetech.com/computing/314034-microsoft-deploys-ai-supercomputing-via-nvidias-new-ampere-a100-gpu"
 webUrl: "https://www.extremetech.com/computing/314034-microsoft-deploys-ai-supercomputing-via-nvidias-new-ampere-a100-gpu"
 type: article
 quality: 71

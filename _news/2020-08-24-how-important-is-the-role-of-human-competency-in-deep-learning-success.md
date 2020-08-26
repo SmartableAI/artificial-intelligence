@@ -3,6 +3,7 @@ category: news
 title: "How Important Is The Role Of Human Competency In Deep Learning Success"
 excerpt: "Researchers from Delft University of Technology, Delft, The Netherlands surveyed a group of ML engineers of varying expertise."
 publishedDateTime: 2020-08-24T05:42:00Z
+originalUrl: "https://analyticsindiamag.com/machine-learning-success-engineer-survey/"
 webUrl: "https://analyticsindiamag.com/machine-learning-success-engineer-survey/"
 type: article
 quality: 39

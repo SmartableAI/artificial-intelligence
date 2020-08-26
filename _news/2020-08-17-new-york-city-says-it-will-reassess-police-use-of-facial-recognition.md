@@ -3,6 +3,7 @@ category: news
 title: "New York City says it will reassess police use of facial recognition"
 excerpt: "\"That's something I will do with my team and the NYPD.\" The question came after NYPD admitted it had used facial"
 publishedDateTime: 2020-08-17T22:45:00Z
+originalUrl: "https://www.engadget.com/new-york-city-facial-recongition-223931035.html"
 webUrl: "https://www.engadget.com/new-york-city-facial-recongition-223931035.html"
 type: article
 quality: 69

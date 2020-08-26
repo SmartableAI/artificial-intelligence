@@ -3,6 +3,7 @@ category: news
 title: "NICE Actimize launches Xceed, an AI cloud-native financial crime risk management solution"
 excerpt: "NICE Actimize launched its newest platform, NICE Actimize Xceed, designed to bring agility to financial institutions of all sizes."
 publishedDateTime: 2020-08-20T02:04:00Z
+originalUrl: "https://www.helpnetsecurity.com/2020/08/20/nice-actimize-xceed/"
 webUrl: "https://www.helpnetsecurity.com/2020/08/20/nice-actimize-xceed/"
 type: article
 quality: 30

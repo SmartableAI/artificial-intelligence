@@ -3,6 +3,7 @@ category: news
 title: "Global Big Data Analytics Market Fueling Artificial Intelligence 2020: Predictive Analytics and Security Applications Present Key Growth Opportunities"
 excerpt: "The \"Global Big Data Analytics Market Fueling Artificial Intelligence, 2020\" report has been added to ResearchAndMarkets.com's offering. For over a decade, Benzinga has lead the way when it comes to investor access to information."
 publishedDateTime: 2020-08-24T12:09:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/g17206762/global-big-data-analytics-market-fueling-artificial-intelligence-2020-predictive-analytics-and-sec"
 webUrl: "https://www.benzinga.com/pressreleases/20/08/g17206762/global-big-data-analytics-market-fueling-artificial-intelligence-2020-predictive-analytics-and-sec"
 ampWebUrl: "https://amp.benzinga.com/amp/content/17206762"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17206762"

@@ -3,6 +3,7 @@ category: news
 title: "Is Artificial Intelligence Just Another High Performance Computing Workload?"
 excerpt: "For many years now, AI and HPC have been treated separately, but if you take a look from the outside, neither workload is far away from the other regarding their basic requirements. Recent developments in technology have made it possible for organizations to standardize on a common production environment."
 publishedDateTime: 2020-08-11T21:43:00Z
+originalUrl: "https://www.cio.com/article/3570303/is-artificial-intelligence-just-another-high-performance-computing-workload.html"
 webUrl: "https://www.cio.com/article/3570303/is-artificial-intelligence-just-another-high-performance-computing-workload.html"
 type: article
 quality: 38

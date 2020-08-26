@@ -3,6 +3,7 @@ category: news
 title: "Exeter experts organize global Artificial Intelligence summit to tackle pandemics"
 excerpt: "A global summit which aims to boost effective collaboration between experts working in Artificial Intelligence (AI) is being organised by academics at the University of Exeter."
 publishedDateTime: 2020-08-20T14:53:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoe-eeo_2082020.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoe-eeo_2082020.php"
 type: article
 quality: 36

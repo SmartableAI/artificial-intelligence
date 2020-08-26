@@ -3,6 +3,7 @@ category: news
 title: "The Impact of AI on Journalism"
 excerpt: "AIs write hundreds of thousands of the articles that are published by mainstream media outlets every week. What next?"
 publishedDateTime: 2020-08-24T18:33:00Z
+originalUrl: "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/"
 webUrl: "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/"
 ampWebUrl: "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/amp/"

@@ -3,6 +3,7 @@ category: news
 title: "AI Health Startup Captures Up To 15 Vital Signs Via Your Phone Camera"
 excerpt: "A health woman.. Look into your camera for thirty seconds. You’ve just given your phone enough information to check your heart rate, oxygen satu"
 publishedDateTime: 2020-08-20T16:48:00Z
+originalUrl: "https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/"
 webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/"
 ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/amp/"

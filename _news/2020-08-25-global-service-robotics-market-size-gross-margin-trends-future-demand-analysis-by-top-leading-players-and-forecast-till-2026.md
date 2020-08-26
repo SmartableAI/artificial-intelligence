@@ -3,6 +3,7 @@ category: news
 title: "Global Service Robotics Market Size, Gross Margin, Trends, Future Demand, Analysis by Top Leading Players and Forecast till 2026"
 excerpt: "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by"
 publishedDateTime: 2020-08-25T07:59:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-service-robotics-market-size-gross-margin-trends-future-demand-analysis-by-top-leading-players-and-forecast-till-2026-2020-08-25"
 webUrl: "https://www.marketwatch.com/press-release/global-service-robotics-market-size-gross-margin-trends-future-demand-analysis-by-top-leading-players-and-forecast-till-2026-2020-08-25"
 type: article
 quality: 55
@@ -51,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Platform Market Size by Production, Top Countries Import-Export and Consumption Forecast & Regional Analysis by 2024"
+    excerpt: "Artificial Intelligence Platform Market\" 2020-2024 Report Provides Market Share, CAGR, Production, Consumption,"
+    publishedDateTime: 2020-08-25T22:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-size-by-production-top-countries-import-export-and-consumption-forecast-regional-analysis-by-2024-2020-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

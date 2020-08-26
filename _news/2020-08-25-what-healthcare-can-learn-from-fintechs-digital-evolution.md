@@ -3,6 +3,7 @@ category: news
 title: "What Healthcare Can Learn From Fintech’s Digital Evolution"
 excerpt: "The digital disruption of the banking industry offers helpful comparisons and takeaways for the future of healthcare and healthcare finance."
 publishedDateTime: 2020-08-25T11:46:00Z
+originalUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/"
 webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/"
 ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/amp/"

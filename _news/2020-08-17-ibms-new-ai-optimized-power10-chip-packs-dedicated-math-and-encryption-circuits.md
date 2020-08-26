@@ -3,6 +3,7 @@ category: news
 title: "IBM’s new AI-optimized Power10 chip packs dedicated math and encryption circuits"
 excerpt: "Power10 chip, the newest addition to its homegrown server processor series, which packs several new technologies including a specialized module that the company says will enable an up to 20-time increase in artificial intelligence performance."
 publishedDateTime: 2020-08-17T20:17:00Z
+originalUrl: "https://siliconangle.com/2020/08/17/ibms-new-ai-optimized-power10-chip-packs-dedicated-math-encryption-circuits/"
 webUrl: "https://siliconangle.com/2020/08/17/ibms-new-ai-optimized-power10-chip-packs-dedicated-math-encryption-circuits/"
 type: article
 quality: 49

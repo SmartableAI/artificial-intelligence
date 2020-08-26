@@ -3,6 +3,7 @@ category: news
 title: "Booz Allen’s AI Model Repository Adds 41 More Languages From AppTek; Josh Sullivan Quoted"
 excerpt: "TYSONS CORNER, VA, August 17, 2020 — Booz Allen Hamilton (NYSE: BAH) added 41 additional AppTeK automatic speech recognition and neural machine translation languages to a repository for pre-trained artificial intelligence models,"
 publishedDateTime: 2020-08-17T09:54:00Z
+originalUrl: "https://www.govconwire.com/2020/08/booz-allens-ai-model-repository-adds-41-more-languages-from-apptek-josh-sullivan-quoted/"
 webUrl: "https://www.govconwire.com/2020/08/booz-allens-ai-model-repository-adds-41-more-languages-from-apptek-josh-sullivan-quoted/"
 type: article
 quality: 30

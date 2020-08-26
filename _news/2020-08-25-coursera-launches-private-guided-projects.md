@@ -3,6 +3,7 @@ category: news
 title: "Coursera launches private Guided Projects"
 excerpt: "Private Guided Projects are likely to appeal to enterprises looking to help employees upskill and gain more hands-on institutional knowledge."
 publishedDateTime: 2020-08-25T14:00:00Z
+originalUrl: "https://www.zdnet.com/article/coursera-launches-private-guided-projects/"
 webUrl: "https://www.zdnet.com/article/coursera-launches-private-guided-projects/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/coursera-launches-private-guided-projects/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/coursera-launches-private-guided-projects/"

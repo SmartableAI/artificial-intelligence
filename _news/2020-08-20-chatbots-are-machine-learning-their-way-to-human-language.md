@@ -3,6 +3,7 @@ category: news
 title: "Chatbots Are Machine Learning Their Way To Human Language"
 excerpt: "Computers are good at long division, but really bad at knowing whether humans are referring to football divisions, parliamentary division lobbies or long division for mathematics. This is because mathematics is formulaic,"
 publishedDateTime: 2020-08-20T05:05:00Z
+originalUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/"
 webUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/"
 ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/amp/"

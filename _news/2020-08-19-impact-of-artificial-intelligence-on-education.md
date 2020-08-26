@@ -3,6 +3,7 @@ category: news
 title: "Impact of Artificial Intelligence on Education"
 excerpt: "The robots allow students to remain comfortable and express themselves ... the future of education but the future of all humanity. Paul Calderon works for an AI startup in Silicon Valley as a software developer. He’s also popular among the students ..."
 publishedDateTime: 2020-08-19T16:33:00Z
+originalUrl: "https://www.insidermonkey.com/blog/impact-of-artificial-intelligence-on-education-871534/"
 webUrl: "https://www.insidermonkey.com/blog/impact-of-artificial-intelligence-on-education-871534/"
 type: article
 quality: 39

@@ -3,6 +3,7 @@ category: news
 title: "Researchers discover evidence of gender bias in major computer vision APIs"
 excerpt: "Researchers at Wunderman Thompson say they've found evidence of gender bias in major computer vision APIs from Google, IBM, and Microsoft."
 publishedDateTime: 2020-08-06T20:59:00Z
+originalUrl: "https://venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/"
 webUrl: "https://venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/"
 ampWebUrl: "https://venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/amp/"

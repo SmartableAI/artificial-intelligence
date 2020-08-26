@@ -3,6 +3,7 @@ category: news
 title: "A Robot Tried to Fix Value Investing and Ended Up Buying Amazon"
 excerpt: "Artificial intelligence has been touted as a solution for everything from ending lines at the checkout to rooting out systematic bias in Wall Street hiring. It was almost inevitable that someone would suggest using it to fix value investing."
 publishedDateTime: 2020-08-25T14:57:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon"
 webUrl: "https://www.bloomberg.com/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon"
 ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon"
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon"

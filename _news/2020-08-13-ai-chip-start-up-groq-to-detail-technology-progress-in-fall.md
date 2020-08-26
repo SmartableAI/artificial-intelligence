@@ -3,6 +3,7 @@ category: news
 title: "AI Chip Start-up Groq to Detail Technology Progress in Fall"
 excerpt: "AI chip startup Groq announced yesterday it had closed its most recent funding round, saying the new investments will help it double in size by the end of"
 publishedDateTime: 2020-08-13T16:15:00Z
+originalUrl: "https://www.hpcwire.com/2020/08/13/ai-chip-start-up-groq-to-detail-technology-progress-in-fall/"
 webUrl: "https://www.hpcwire.com/2020/08/13/ai-chip-start-up-groq-to-detail-technology-progress-in-fall/"
 type: article
 quality: 54

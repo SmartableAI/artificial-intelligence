@@ -3,7 +3,10 @@ category: news
 title: "Why Excessive AI Politeness Could Be Oddly Inconsiderate, Implications Too For Self-Driving Cars"
 excerpt: "Does it seem to you that civility and politeness are on the wane? Many would surely agree that politeness appears to have been placed on the back-burner, or perhaps dropped altogether from our lexicon."
 publishedDateTime: 2020-08-17T15:40:00Z
+originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/17/why-excessive-ai-politeness-could-be-oddly-inconsiderate-implications-too-for-self-driving-cars/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/17/why-excessive-ai-politeness-could-be-oddly-inconsiderate-implications-too-for-self-driving-cars/"
+ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/17/why-excessive-ai-politeness-could-be-oddly-inconsiderate-implications-too-for-self-driving-cars/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/17/why-excessive-ai-politeness-could-be-oddly-inconsiderate-implications-too-for-self-driving-cars/amp/"
 type: article
 quality: 58
 heat: 58

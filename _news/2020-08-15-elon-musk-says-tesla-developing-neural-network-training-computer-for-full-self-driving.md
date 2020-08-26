@@ -3,6 +3,7 @@ category: news
 title: "Elon Musk Says Tesla Developing Neural Network Training Computer for Full Self-Driving"
 excerpt: "With a complete overhaul of the Tesla autopilot software, full self-driving capabilities will be possible as the AI will be able to interpret traffic signals, turns and stops."
 publishedDateTime: 2020-08-15T12:52:00Z
+originalUrl: "https://www.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129"
 webUrl: "https://www.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129"
 ampWebUrl: "https://amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129"
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129"

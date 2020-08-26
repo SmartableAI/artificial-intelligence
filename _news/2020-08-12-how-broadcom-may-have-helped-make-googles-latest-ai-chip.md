@@ -3,6 +3,7 @@ category: news
 title: "How Broadcom May Have Helped Make Google’s Latest AI Chip"
 excerpt: "Broadcom’s application-specific integrated circuit business is currently generating $750 million in full-year revenue, up from $50 million in 2016, according to J.P. Morgan."
 publishedDateTime: 2020-08-12T20:17:00Z
+originalUrl: "https://www.barrons.com/articles/how-broadcom-may-have-helped-make-googles-latest-ai-chip-51597267076"
 webUrl: "https://www.barrons.com/articles/how-broadcom-may-have-helped-make-googles-latest-ai-chip-51597267076"
 ampWebUrl: "https://www.barrons.com/amp/articles/how-broadcom-may-have-helped-make-googles-latest-ai-chip-51597267076"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/how-broadcom-may-have-helped-make-googles-latest-ai-chip-51597267076"

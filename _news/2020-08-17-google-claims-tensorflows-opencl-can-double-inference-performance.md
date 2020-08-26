@@ -3,6 +3,7 @@ category: news
 title: "Google claims TensorFlow’s OpenCL can double inference performance"
 excerpt: "Google has adopted an OpenCL-based inference backened for TensorFlow on mobile devices, which the company claims delivers a significant speedup."
 publishedDateTime: 2020-08-17T16:52:00Z
+originalUrl: "https://venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/"
 webUrl: "https://venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/"
 ampWebUrl: "https://venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/amp/"

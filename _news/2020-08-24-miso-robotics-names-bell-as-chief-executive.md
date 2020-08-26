@@ -3,6 +3,7 @@ category: news
 title: "Miso Robotics Names Bell as Chief Executive"
 excerpt: "Miso Robotics says interest in restaurant automation is increasing. Miso Robotics Inc., the Pasadena-based robotics and artificial intelligence company, has appointed tech veteran Michael Bell as its new chief executive."
 publishedDateTime: 2020-08-24T08:15:00Z
+originalUrl: "https://labusinessjournal.com/news/2020/aug/24/miso-robotics-names-bell-chief-executive/"
 webUrl: "https://labusinessjournal.com/news/2020/aug/24/miso-robotics-names-bell-chief-executive/"
 type: article
 quality: 54

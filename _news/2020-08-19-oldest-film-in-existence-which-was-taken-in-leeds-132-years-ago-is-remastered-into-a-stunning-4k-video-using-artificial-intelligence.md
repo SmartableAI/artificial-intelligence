@@ -3,6 +3,7 @@ category: news
 title: "Oldest film in existence which was taken in Leeds 132 years ago is remastered into a stunning 4K video using artificial intelligence"
 excerpt: "YouTuber Denis Shiryaev has posted a new version of the legendary video on his site, which is now in 4K quality at around 250 frames per second."
 publishedDateTime: 2020-08-19T18:55:00Z
+originalUrl: "https://www.dailymail.co.uk/sciencetech/article-8643793/Oldest-film-existence-remastered-AI.html"
 webUrl: "https://www.dailymail.co.uk/sciencetech/article-8643793/Oldest-film-existence-remastered-AI.html"
 ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8643793/amp/Oldest-film-existence-remastered-AI.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8643793/amp/Oldest-film-existence-remastered-AI.html"

@@ -3,6 +3,7 @@ category: news
 title: "Microsoft targets its fastest Azure AI instance to date at large neural networks"
 excerpt: "Microsoft Corp. today previewed a new Azure instance for training artificial intelligence models that targets the emerging class of advanced, ultra-large neural networks being pio"
 publishedDateTime: 2020-08-19T17:15:00Z
+originalUrl: "https://siliconangle.com/2020/08/19/microsoft-targets-fastest-azure-ai-instance-date-large-neural-networks/"
 webUrl: "https://siliconangle.com/2020/08/19/microsoft-targets-fastest-azure-ai-instance-date-large-neural-networks/"
 type: article
 quality: 81

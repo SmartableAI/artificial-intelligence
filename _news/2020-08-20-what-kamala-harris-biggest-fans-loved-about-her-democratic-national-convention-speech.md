@@ -3,6 +3,7 @@ category: news
 title: "What Kamala Harris' biggest fans loved about her Democratic National Convention speech"
 excerpt: "That families aren't bound by genetics that everyone is welcome, no matter where they come from or what they look especially heartening."
 publishedDateTime: 2020-08-20T14:36:00Z
+originalUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/08/20/kamala-harris-democratic-convention-speech-2020/5611466002/"
 webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/08/20/kamala-harris-democratic-convention-speech-2020/5611466002/"
 type: article
 quality: 0

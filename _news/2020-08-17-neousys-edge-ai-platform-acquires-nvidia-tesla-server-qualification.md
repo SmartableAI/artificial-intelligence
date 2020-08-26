@@ -3,6 +3,7 @@ category: news
 title: "Neousys Edge AI Platform Acquires NVIDIA Tesla Server Qualification"
 excerpt: "GC supports up to an Intel Xeon E processor with expansion capabilities. It also features compact dimensions and low power consumption characteristics."
 publishedDateTime: 2020-08-17T17:07:00Z
+originalUrl: "https://www.embedded-computing.com/news/neousys-edge-ai-platform-acquires-nvidia-tesla-server-qualification"
 webUrl: "https://www.embedded-computing.com/news/neousys-edge-ai-platform-acquires-nvidia-tesla-server-qualification"
 type: article
 quality: 39

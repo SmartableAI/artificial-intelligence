@@ -3,6 +3,7 @@ category: news
 title: "IBM Watson AI to Help CBRE Manage Client Data Centers"
 excerpt: "AI, augmented reality, and analytics technology will provide remote management and predictive maintenance support globally."
 publishedDateTime: 2020-08-17T09:02:00Z
+originalUrl: "https://www.datacenterknowledge.com/machine-learning/ibm-watson-ai-help-cbre-manage-client-data-centers"
 webUrl: "https://www.datacenterknowledge.com/machine-learning/ibm-watson-ai-help-cbre-manage-client-data-centers"
 type: article
 quality: 54

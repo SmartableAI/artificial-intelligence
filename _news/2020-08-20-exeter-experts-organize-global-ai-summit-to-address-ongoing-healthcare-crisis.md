@@ -3,6 +3,7 @@ category: news
 title: "Exeter experts organize global AI summit to address ongoing healthcare crisis"
 excerpt: "A global summit which aims to boost effective collaboration between experts working in Artificial Intelligence (AI) is being organised by academics at the University of Exeter."
 publishedDateTime: 2020-08-20T23:42:00Z
+originalUrl: "https://www.news-medical.net/news/20200820/Exeter-experts-organize-global-AI-summit-to-address-ongoing-healthcare-crisis.aspx"
 webUrl: "https://www.news-medical.net/news/20200820/Exeter-experts-organize-global-AI-summit-to-address-ongoing-healthcare-crisis.aspx"
 ampWebUrl: "https://www.news-medical.net/amp/news/20200820/Exeter-experts-organize-global-AI-summit-to-address-ongoing-healthcare-crisis.aspx"
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200820/Exeter-experts-organize-global-AI-summit-to-address-ongoing-healthcare-crisis.aspx"

@@ -3,6 +3,7 @@ category: news
 title: "Artificial intelligence for the detection of COVID-19 pneumonia on chest CT using multinational datasets"
 excerpt: "Chest CT is emerging as a valuable diagnostic tool for clinical management of COVID-19 associated lung disease. Here, the authors present a multinational study on the application of deep learning algorithms for COVID-19 diagnosis against multiple lung conditions as controls."
 publishedDateTime: 2020-08-14T09:06:00Z
+originalUrl: "https://www.nature.com/articles/s41467-020-17971-2"
 webUrl: "https://www.nature.com/articles/s41467-020-17971-2"
 type: article
 quality: 24

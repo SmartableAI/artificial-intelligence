@@ -3,6 +3,7 @@ category: news
 title: "SA education transforms with AWS"
 excerpt: "AWS, in collaboration with ITWeb, will explore trends and opportunities to drive transformation through cloud technology in a webinar, on 3 September."
 publishedDateTime: 2020-08-20T07:11:00Z
+originalUrl: "https://www.itweb.co.za/content/WnxpE74goVAvV8XL"
 webUrl: "https://www.itweb.co.za/content/WnxpE74goVAvV8XL"
 ampWebUrl: "https://amp.itweb.co.za/content/WnxpE74goVAvV8XL"
 cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/WnxpE74goVAvV8XL"

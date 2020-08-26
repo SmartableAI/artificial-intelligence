@@ -3,6 +3,7 @@ category: news
 title: "AI as a blueprint for fintech startups"
 excerpt: "FINRA’s AI Report is particularly interesting for fintechs since it explores how firms are deploying AI as well as the agency's expectations for AI oversight."
 publishedDateTime: 2020-08-20T13:22:00Z
+originalUrl: "https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/"
 webUrl: "https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/"
 ampWebUrl: "https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/amp/"

@@ -32,7 +32,12 @@ related:
     provider:
       name: HPCwire
       domain: hpcwire.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/larry-smarr-405x228.png"
+        width: 405
+        height: 228
+        isCached: true
 
 secured: "Da25EVq5tuAxevCG57EzmIQKYi2D3LuoD69Av157gOutHZ5Qw8PGL8wOd8SggSLMFyaWjzpJmF9PbKOXGZ90CxZfB53wS1dJIVnB9LL+px9W+BoANmEbvNHDzXIk9vZqLlb71RfkxiDy+2G8rAy2Yc/qGqTLxUGzS7oGIdQu7g5C6NUqLgSEwnhJR29XraGcl+aS8Ii+54QaBiiXskVSqg6GOFWB6OMrK5trcG9pZiUd05Dq+7mJaCc3w03jOI3rlTczN3PZmahYp+GZ0JD7nhUznAIjY9BI1+TOsRIoKheTlB5xPwtrUqEAfQar1xWYoysFG3K3wZPa0fAgWERMoQ==;FyhE1E/zr2nGlv+ndWS/HA=="
 ---

@@ -3,6 +3,7 @@ category: news
 title: "Workday and IBM team up to help employees get back to work"
 excerpt: "At the core of the new Return to Workplace Planner product is Workday Adaptive Planning, which is a product that provides comprehensive planning and modeling capabilities, and Workday Human Capital Management,"
 publishedDateTime: 2020-08-13T01:40:00Z
+originalUrl: "https://siliconangle.com/2020/08/12/workday-ibm-team-help-employees-get-back-work/"
 webUrl: "https://siliconangle.com/2020/08/12/workday-ibm-team-help-employees-get-back-work/"
 type: article
 quality: 24

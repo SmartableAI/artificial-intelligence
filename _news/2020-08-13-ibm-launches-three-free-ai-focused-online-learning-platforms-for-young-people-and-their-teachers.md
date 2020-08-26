@@ -3,6 +3,7 @@ category: news
 title: "IBM launches three free AI-focused online learning platforms for young people and their teachers"
 excerpt: "Teachers working with younger students in the K-8 range can use IBM's Teacher Advisor with Watson to better plan lessons that meet the individual needs of their students. Rather than teaching particular AI-based skills and information about emerging ..."
 publishedDateTime: 2020-08-13T14:42:00Z
+originalUrl: "https://www.techrepublic.com/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/"
 webUrl: "https://www.techrepublic.com/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/"

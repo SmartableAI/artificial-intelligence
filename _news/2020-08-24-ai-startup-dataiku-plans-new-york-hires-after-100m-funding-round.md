@@ -3,6 +3,7 @@ category: news
 title: "AI startup Dataiku plans New York hires after $100M funding round"
 excerpt: "Crain’s New York Business is a subscriber and advertising supported site and we noticed you have ad-blocking enabled. Here are two ways you can keep reading. Dataiku, a Flatiron artificial-intelligence startup,"
 publishedDateTime: 2020-08-24T19:26:00Z
+originalUrl: "https://www.crainsnewyork.com/technology/ai-startup-dataiku-plans-new-york-hires-after-100m-funding-round"
 webUrl: "https://www.crainsnewyork.com/technology/ai-startup-dataiku-plans-new-york-hires-after-100m-funding-round"
 type: article
 quality: 37

@@ -3,6 +3,7 @@ category: news
 title: "Google Anthos Gains New Features Including Hybrid AI Capabilities"
 excerpt: "Google is betting big on Anthos. With the latest release, it has upped the ante on the hybrid cloud with an aim to gain a foothold in the enterprise."
 publishedDateTime: 2020-08-25T14:45:00Z
+originalUrl: "https://www.forbes.com/sites/janakirammsv/2020/08/25/google-anthos-gains-new-features-including-hybrid-ai-capabilities/"
 webUrl: "https://www.forbes.com/sites/janakirammsv/2020/08/25/google-anthos-gains-new-features-including-hybrid-ai-capabilities/"
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/08/25/google-anthos-gains-new-features-including-hybrid-ai-capabilities/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/08/25/google-anthos-gains-new-features-including-hybrid-ai-capabilities/amp/"

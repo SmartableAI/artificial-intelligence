@@ -3,6 +3,7 @@ category: news
 title: "SimCorp launches Dimension platform as a service on Microsoft Azure cloud"
 excerpt: "With Microsoft Azure, SimCorp has rolled out its Dimension platform for buy-side firms as a service in latest cloud technology development."
 publishedDateTime: 2020-08-12T11:57:00Z
+originalUrl: "https://www.thetradenews.com/simcorp-launches-dimension-platform-as-a-service-on-microsoft-azure-cloud/"
 webUrl: "https://www.thetradenews.com/simcorp-launches-dimension-platform-as-a-service-on-microsoft-azure-cloud/"
 type: article
 quality: 53

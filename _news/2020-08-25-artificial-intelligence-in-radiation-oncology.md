@@ -3,6 +3,7 @@ category: news
 title: "Artificial intelligence in radiation oncology"
 excerpt: "The possible uses of artificial intelligence (AI) in radiation oncology are diverse and wide ranging. Herein, the authors discuss the potential applications of AI at each step of the radiation oncology workflow,"
 publishedDateTime: 2020-08-25T09:29:00Z
+originalUrl: "https://www.nature.com/articles/s41571-020-0417-8"
 webUrl: "https://www.nature.com/articles/s41571-020-0417-8"
 type: article
 quality: 39

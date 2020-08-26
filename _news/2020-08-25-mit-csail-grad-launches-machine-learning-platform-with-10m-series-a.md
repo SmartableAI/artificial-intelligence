@@ -3,6 +3,7 @@ category: news
 title: "MIT CSAIL grad launches machine learning platform with $10M Series A"
 excerpt: "Manasi Vartak, founder and CEO of Verta, conceived of the idea of the open source project ModelDB database as a way to track versions of machine models while she was still in grad school at MIT. After she graduated,"
 publishedDateTime: 2020-08-25T13:34:00Z
+originalUrl: "https://techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/"
 webUrl: "https://techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/"
 ampWebUrl: "https://techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/amp/"

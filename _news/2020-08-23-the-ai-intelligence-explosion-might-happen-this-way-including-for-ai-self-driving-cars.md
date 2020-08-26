@@ -3,6 +3,7 @@ category: news
 title: "The AI ‘Intelligence Explosion’ Might Happen This Way, Including For AI Self-Driving Cars"
 excerpt: "Some vehemently assert that we are potentially going to have an AI “intelligence explosion” that will someday occur, and there are various bets that this might happen somewhere between the year 2050 and the year 2100."
 publishedDateTime: 2020-08-23T16:21:00Z
+originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/"
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/"

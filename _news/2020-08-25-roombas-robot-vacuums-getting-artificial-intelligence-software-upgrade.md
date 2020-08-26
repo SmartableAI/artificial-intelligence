@@ -3,6 +3,7 @@ category: news
 title: "Roombas robot vacuums getting artificial intelligence software upgrade"
 excerpt: "Robot announced the largest software upgrade for its robot vacuum cleaner, Roomba, in the company’s 30-year history."
 publishedDateTime: 2020-08-25T12:30:00Z
+originalUrl: "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/"
 webUrl: "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/"
 ampWebUrl: "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/amp/"
 cdnAmpWebUrl: "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/amp/"

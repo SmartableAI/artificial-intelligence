@@ -3,6 +3,7 @@ category: news
 title: "AWS announces AI tools to assist contact center workflows"
 excerpt: "AWS CCI is a combination of services that enables companies to bring machine learning capabilities including text-to-speech, language comprehension, translation, enterprise search, business ..."
 publishedDateTime: 2020-08-19T00:08:00Z
+originalUrl: "https://siliconangle.com/2020/08/18/aws-announces-ai-tools-assist-contact-center-workflows/"
 webUrl: "https://siliconangle.com/2020/08/18/aws-announces-ai-tools-assist-contact-center-workflows/"
 type: article
 quality: 39

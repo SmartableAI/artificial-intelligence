@@ -3,6 +3,7 @@ category: news
 title: "HGS surges over 3% after digital arm joins AWS Contact Center Intelligence solutions partner program"
 excerpt: "HGS Digital LLC, a subsidiary of Hinduja Global Solutions Ltd today announced its participation as an Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions partner program. Hinduja Global Solutions is currently trading at Rs739,"
 publishedDateTime: 2020-08-24T06:37:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-top-story/hgs-surges-over-3-after-digital-arm-joins-aws-contact-center-intelligence-solutions-partner-program-120082400154_1.html"
 webUrl: "https://www.indiainfoline.com/article/news-top-story/hgs-surges-over-3-after-digital-arm-joins-aws-contact-center-intelligence-solutions-partner-program-120082400154_1.html"
 ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/hgs-surges-over-3-after-digital-arm-joins-aws-contact-center-intelligence-solutions-partner-program-120082400154_1.html"
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/hgs-surges-over-3-after-digital-arm-joins-aws-contact-center-intelligence-solutions-partner-program-120082400154_1.html"

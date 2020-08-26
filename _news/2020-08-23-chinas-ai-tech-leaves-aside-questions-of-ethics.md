@@ -3,6 +3,7 @@ category: news
 title: "China's AI tech leaves aside questions of ethics"
 excerpt: "In April 2019, the European Commission's High Level Expert Group on Artificial Intelligence published its \"Ethics Guidelines for Trustworthy AI,\" which establish seven key principles, including ..."
 publishedDateTime: 2020-08-23T01:00:00Z
+originalUrl: "https://asia.nikkei.com/Spotlight/Comment/China-s-AI-tech-leaves-aside-questions-of-ethics"
 webUrl: "https://asia.nikkei.com/Spotlight/Comment/China-s-AI-tech-leaves-aside-questions-of-ethics"
 type: article
 quality: 54

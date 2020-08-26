@@ -3,6 +3,7 @@ category: news
 title: "5 Life-Saving Applications Of Artificial Intelligence"
 excerpt: "It’s one thing for a chatbot to help resolve an e-commerce order—it’s quite another to detect a heart attack in progress. Here are five ways AI is saving lives."
 publishedDateTime: 2020-08-25T10:04:00Z
+originalUrl: "https://www.forbes.com/sites/serenitygibbons/2020/08/25/5-life-saving-applications-of-artificial-intelligence/"
 webUrl: "https://www.forbes.com/sites/serenitygibbons/2020/08/25/5-life-saving-applications-of-artificial-intelligence/"
 ampWebUrl: "https://www.forbes.com/sites/serenitygibbons/2020/08/25/5-life-saving-applications-of-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2020/08/25/5-life-saving-applications-of-artificial-intelligence/amp/"

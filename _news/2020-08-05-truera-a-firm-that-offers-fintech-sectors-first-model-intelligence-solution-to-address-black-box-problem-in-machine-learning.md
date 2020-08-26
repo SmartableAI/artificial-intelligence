@@ -3,6 +3,7 @@ category: news
 title: "Truera, a Firm that Offers Fintech Sector’s First Model Intelligence Solution, to Address Black Box Problem in Machine Learning"
 excerpt: "Truera, a firm that offers Fintech sector's first model intelligence solution, to address black box problem in machine learning."
 publishedDateTime: 2020-08-05T14:22:00Z
+originalUrl: "https://www.crowdfundinsider.com/2020/08/164966-truera-a-firm-that-offers-fintech-sectors-first-model-intelligence-solution-to-address-black-box-problem-in-machine-learning/"
 webUrl: "https://www.crowdfundinsider.com/2020/08/164966-truera-a-firm-that-offers-fintech-sectors-first-model-intelligence-solution-to-address-black-box-problem-in-machine-learning/"
 ampWebUrl: "https://www.crowdfundinsider.com/2020/08/164966-truera-a-firm-that-offers-fintech-sectors-first-model-intelligence-solution-to-address-black-box-problem-in-machine-learning/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/164966-truera-a-firm-that-offers-fintech-sectors-first-model-intelligence-solution-to-address-black-box-problem-in-machine-learning/amp/"

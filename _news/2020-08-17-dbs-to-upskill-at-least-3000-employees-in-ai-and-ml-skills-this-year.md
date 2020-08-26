@@ -3,6 +3,7 @@ category: news
 title: "DBS to upskill at least 3,000 employees in AI and ML skills this year"
 excerpt: "To enable this, DBS has collaborated with AWS to launch the DBS x AWS DeepRacer League which will see employees learning the basics of AI and ML in a series of online tutorials before putting their ne"
 publishedDateTime: 2020-08-17T01:40:00Z
+originalUrl: "https://www.humanresourcesonline.net/dbs-to-upskill-at-least-3-000-employees-in-ai-and-ml-skills-this-year"
 webUrl: "https://www.humanresourcesonline.net/dbs-to-upskill-at-least-3-000-employees-in-ai-and-ml-skills-this-year"
 type: article
 quality: 39

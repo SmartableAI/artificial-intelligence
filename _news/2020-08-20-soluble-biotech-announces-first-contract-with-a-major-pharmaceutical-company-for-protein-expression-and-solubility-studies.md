@@ -3,6 +3,7 @@ category: news
 title: "Soluble Biotech Announces First Contract with a Major Pharmaceutical Company for Protein Expression and Solubility Studies"
 excerpt: "(GLOBE NEWSWIRE) -- Predictive Oncology (NASDAQ: POAI), a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and drug discovery, is excited to announce that its Soluble Biotech division,"
 publishedDateTime: 2020-08-20T12:30:00Z
+originalUrl: "https://apnews.com/0cf01e4915e50211e5214e32c33f032b"
 webUrl: "https://apnews.com/0cf01e4915e50211e5214e32c33f032b"
 type: article
 quality: 0

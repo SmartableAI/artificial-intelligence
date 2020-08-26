@@ -3,6 +3,7 @@ category: news
 title: "Mental Wayfinding Has Unexpected AI Importance, Including For Self-Driving Cars"
 excerpt: "Imagine using something like a mental version of Google Earth and having your mind be able to zoom in and zoom outward, quickly imagining your position from a faraway location and at the same time being able to get close-in and know exactly where your feet are placed and your immediate and within reach surroundings."
 publishedDateTime: 2020-08-13T17:40:00Z
+originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/13/mental-wayfinding-has-unexpected-ai-importance-including-for-self-driving-cars/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/13/mental-wayfinding-has-unexpected-ai-importance-including-for-self-driving-cars/"
 type: article
 quality: 67

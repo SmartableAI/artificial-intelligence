@@ -3,6 +3,7 @@ category: news
 title: "Large Provider of Veterinary Products Selects Celebros AI Search to Power Their eCommerce Search Experience"
 excerpt: "(NASDAQ: BLIN), a provider of cloud-based digital experience software, announced today that a leading provider of animal health and veterinary products has selected Celebros Search by Bridgeline as their site search solution for their online store."
 publishedDateTime: 2020-08-12T16:44:00Z
+originalUrl: "https://apnews.com/3e71c4647c2839e8932b892c1003b0fd"
 webUrl: "https://apnews.com/3e71c4647c2839e8932b892c1003b0fd"
 type: article
 

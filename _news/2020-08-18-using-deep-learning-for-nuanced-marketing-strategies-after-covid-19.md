@@ -3,6 +3,7 @@ category: news
 title: "Using Deep Learning For Nuanced Marketing Strategies After COVID-19"
 excerpt: "However, there are ways that businesses can use big data and machine learning to stay afloat during this crisis. They may want to explore the benefits of deep learning to improve their marketing during and after the pandemic. Deep Learning Will Be Crucial ..."
 publishedDateTime: 2020-08-18T17:33:00Z
+originalUrl: "https://www.smartdatacollective.com/using-deep-learning-for-nuanced-marketing-strategies-after-covid-19/"
 webUrl: "https://www.smartdatacollective.com/using-deep-learning-for-nuanced-marketing-strategies-after-covid-19/"
 ampWebUrl: "https://www.smartdatacollective.com/using-deep-learning-for-nuanced-marketing-strategies-after-covid-19/amp/"
 cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/using-deep-learning-for-nuanced-marketing-strategies-after-covid-19/amp/"

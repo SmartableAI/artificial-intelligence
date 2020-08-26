@@ -3,6 +3,7 @@ category: news
 title: "Facebook quietly created a new team, Network.AI, to turbo-charge its data centers with new AI infrastructure"
 excerpt: "Artificial Intelligence is incredibly important to Facebook's products, and its doubling down on the infrastructure to support it."
 publishedDateTime: 2020-08-20T16:35:00Z
+originalUrl: "https://www.businessinsider.com/facebook-creates-networkai-team-for-ai-data-center-infrastructure-2020-8"
 webUrl: "https://www.businessinsider.com/facebook-creates-networkai-team-for-ai-data-center-infrastructure-2020-8"
 type: article
 quality: 50

@@ -3,6 +3,7 @@ category: news
 title: "Heron Systems' AI pilot just beat a human in a simulated dogfight"
 excerpt: "A DARPA event pitted AI pilots against each other, and then the winner took on a human pilot wearing a VR helmet. The AI pilot shot down his simulated F-16 in all five rounds."
 publishedDateTime: 2020-08-21T03:09:00Z
+originalUrl: "https://www.engadget.com/alphadogfight-ai-f-16-pilot-025617519.html"
 webUrl: "https://www.engadget.com/alphadogfight-ai-f-16-pilot-025617519.html"
 type: article
 quality: 69

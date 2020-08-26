@@ -3,6 +3,7 @@ category: news
 title: "African Manufacturing AI Firm DataProphet Raises $6m"
 excerpt: "DataProphet, an award-winning AI for manufacturing company based in South Africa, has raised a $6m funding round for international expansion."
 publishedDateTime: 2020-08-24T18:28:00Z
+originalUrl: "https://www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/"
 webUrl: "https://www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/"
 ampWebUrl: "https://www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/amp/"

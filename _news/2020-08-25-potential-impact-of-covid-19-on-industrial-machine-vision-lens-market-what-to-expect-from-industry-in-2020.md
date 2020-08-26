@@ -3,6 +3,7 @@ category: news
 title: "Potential Impact of COVID-19 on Industrial Machine Vision Lens Market: What to Expect from Industry in 2020?"
 excerpt: "Industrial Machine Vision Lens are a form of technology that would allow a computer system to examine, analyze"
 publishedDateTime: 2020-08-25T04:29:00Z
+originalUrl: "https://www.marketwatch.com/press-release/potential-impact-of-covid-19-on-industrial-machine-vision-lens-market-what-to-expect-from-industry-in-2020-2020-08-24"
 webUrl: "https://www.marketwatch.com/press-release/potential-impact-of-covid-19-on-industrial-machine-vision-lens-market-what-to-expect-from-industry-in-2020-2020-08-24"
 type: article
 quality: 35

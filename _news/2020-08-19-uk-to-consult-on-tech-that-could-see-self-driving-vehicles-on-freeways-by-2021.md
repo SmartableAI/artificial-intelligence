@@ -3,6 +3,7 @@ category: news
 title: "UK to consult on tech that could see self-driving vehicles on freeways by 2021"
 excerpt: "Self-driving technology could transform the way people undertake car journeys. The U.K. government's announcement was welcomed by a number of organizations. The U.K. government has started a consultation on the use of Automated Lane Keeping System technology on Britain's freeways."
 publishedDateTime: 2020-08-19T15:38:00Z
+originalUrl: "https://www.cnbc.com/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html"
 webUrl: "https://www.cnbc.com/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html"
 ampWebUrl: "https://www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html"

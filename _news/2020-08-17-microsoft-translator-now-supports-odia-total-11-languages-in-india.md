@@ -3,6 +3,7 @@ category: news
 title: "Microsoft Translator now supports Odia, total 11 languages in India"
 excerpt: "Microsoft Translator will now offer real-time translation and transliteration for Odia, taking the total number of Indian languages in which one can access the service to 11, the company said on Monday."
 publishedDateTime: 2020-08-17T07:55:00Z
+originalUrl: "https://www.sify.com/finance/microsoft-translator-now-supports-odia-total-11-languages-in-india-news-topnews-uirhOCadgfbhe.html"
 webUrl: "https://www.sify.com/finance/microsoft-translator-now-supports-odia-total-11-languages-in-india-news-topnews-uirhOCadgfbhe.html"
 ampWebUrl: "https://www.sify.com/finance/microsoft-translator-now-supports-odia-total-11-languages-in-india-news-topnews-uirhOCadgfbhe.html"
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/microsoft-translator-now-supports-odia-total-11-languages-in-india-news-topnews-uirhOCadgfbhe.html"

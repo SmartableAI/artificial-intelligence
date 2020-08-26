@@ -3,6 +3,7 @@ category: news
 title: "CMU, Facebook AI Research Team Develops Common Sense Robots"
 excerpt: "A research team from Carnegie Mellon University and Facebook AI Research, which included CMU Machine Learning Department doctoral student Devendra S. Chaplot, has developed a common-sense robot."
 publishedDateTime: 2020-08-25T23:00:00Z
+originalUrl: "https://www.indiawest.com/news/global_indian/cmu-facebook-ai-research-team-develops-common-sense-robots/article_e2fe8c06-e690-11ea-96a0-63ced3f300ab.html"
 webUrl: "https://www.indiawest.com/news/global_indian/cmu-facebook-ai-research-team-develops-common-sense-robots/article_e2fe8c06-e690-11ea-96a0-63ced3f300ab.html"
 type: article
 quality: 39

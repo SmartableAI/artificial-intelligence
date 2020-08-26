@@ -3,6 +3,7 @@ category: news
 title: "Facebook and NYU use artificial intelligence to make MRI scans four times faster"
 excerpt: "The reason artificial intelligence can be used to produce the same scans from less data is that the neural network has essentially learned an abstract idea of what a medical scan looks like by examining the training data. It then uses this to make a ..."
 publishedDateTime: 2020-08-18T13:01:00Z
+originalUrl: "https://www.theverge.com/2020/8/18/21373335/faster-mri-scans-ai-machine-learning-facebook-nyu-research-clinical-study"
 webUrl: "https://www.theverge.com/2020/8/18/21373335/faster-mri-scans-ai-machine-learning-facebook-nyu-research-clinical-study"
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/18/21373335/faster-mri-scans-ai-machine-learning-facebook-nyu-research-clinical-study"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/18/21373335/faster-mri-scans-ai-machine-learning-facebook-nyu-research-clinical-study"

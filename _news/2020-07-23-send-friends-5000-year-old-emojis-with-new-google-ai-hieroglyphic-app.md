@@ -3,6 +3,7 @@ category: news
 title: "Send friends 5,000 year-old emojis with new Google AI hieroglyphic app"
 excerpt: "“Specifically, Google Cloud's AutoML technology, AutoML Vision, was used to create a machine learning model that is able to make sense of what a hieroglyph is,” reads a Google press release. “In the past you would need a team of Data ..."
 publishedDateTime: 2020-07-23T14:17:00Z
+originalUrl: "https://www.jpost.com/jpost-tech/send-friends-5000-year-old-emojis-with-new-google-ai-hieroglyphic-app-636101"
 webUrl: "https://www.jpost.com/jpost-tech/send-friends-5000-year-old-emojis-with-new-google-ai-hieroglyphic-app-636101"
 ampWebUrl: "https://m.jpost.com/jpost-tech/send-friends-5000-year-old-emojis-with-new-google-ai-hieroglyphic-app-636101/amp"
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/send-friends-5000-year-old-emojis-with-new-google-ai-hieroglyphic-app-636101/amp"

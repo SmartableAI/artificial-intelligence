@@ -3,6 +3,7 @@ category: news
 title: "AI technologies — like police facial recognition — discriminate against people of colour"
 excerpt: "Technology is not neutral, as facial recognition algorithms and predictive policing have shown us. Algorithms discriminate by design, reflecting and reinforcing pre-existing biases."
 publishedDateTime: 2020-08-24T20:56:00Z
+originalUrl: "https://theconversation.com/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
 webUrl: "https://theconversation.com/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
 ampWebUrl: "https://theconversation.com/amp/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"

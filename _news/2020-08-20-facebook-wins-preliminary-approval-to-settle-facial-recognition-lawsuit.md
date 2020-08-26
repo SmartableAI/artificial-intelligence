@@ -3,6 +3,7 @@ category: news
 title: "Facebook wins preliminary approval to settle facial recognition lawsuit"
 excerpt: "Facebook Inc won preliminary approval late on Wednesday from a federal court for settlement of a lawsuit that claimed it illegally collected and stored biometric data of millions of users without their consent."
 publishedDateTime: 2020-08-20T02:57:00Z
+originalUrl: "https://www.reuters.com/article/us-facebook-privacy-lawsuit-idUSKCN25G08M"
 webUrl: "https://www.reuters.com/article/us-facebook-privacy-lawsuit-idUSKCN25G08M"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN25G08M"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN25G08M"

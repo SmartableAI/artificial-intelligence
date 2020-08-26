@@ -3,6 +3,7 @@ category: news
 title: "Azure’s Immersive Reader is now generally available"
 excerpt: "Microsoft today announced that Immersive Reader, its service for developers who want to add text-to-speech and reading comprehension tools to their applications, is now generally available. Immersive Reader,"
 publishedDateTime: 2020-08-25T15:23:00Z
+originalUrl: "https://techcrunch.com/2020/08/25/azures-immersive-reader-is-now-generally-available/"
 webUrl: "https://techcrunch.com/2020/08/25/azures-immersive-reader-is-now-generally-available/"
 ampWebUrl: "https://techcrunch.com/2020/08/25/azures-immersive-reader-is-now-generally-available/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/25/azures-immersive-reader-is-now-generally-available/amp/"

@@ -3,6 +3,7 @@ category: news
 title: "UK government takes the next step in bringing self-driving cars to motorways"
 excerpt: "A new consultation aims to explore how autonomous technology can be used safely on UK roads. The UK government has launched a call for evidence that self-driving vehicles can be driven safely on city streets and motorways."
 publishedDateTime: 2020-08-19T09:15:00Z
+originalUrl: "https://www.zdnet.com/article/uk-government-takes-the-next-step-to-bring-self-driving-cars-to-motorways/"
 webUrl: "https://www.zdnet.com/article/uk-government-takes-the-next-step-to-bring-self-driving-cars-to-motorways/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/uk-government-takes-the-next-step-to-bring-self-driving-cars-to-motorways/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/uk-government-takes-the-next-step-to-bring-self-driving-cars-to-motorways/"

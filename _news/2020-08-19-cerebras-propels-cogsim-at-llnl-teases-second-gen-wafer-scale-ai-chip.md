@@ -3,6 +3,7 @@ category: news
 title: "Cerebras Propels ‘CogSim’ at LLNL, Teases Second-Gen Wafer-Scale AI Chip"
 excerpt: "The system is programmable via TensorFlow, PyTorch, and other frameworks. Cerebras offers a competitive comparison with Nvidia’s latest GPU, the Ampere A100. “They went to 7mm, we’re still 54 times more cores and 450 times more on-chip memory ..."
 publishedDateTime: 2020-08-19T16:11:00Z
+originalUrl: "https://www.hpcwire.com/2020/08/19/cerebras-llnl-deployment-teases-second-gen-wafer-scale-ai-chip/"
 webUrl: "https://www.hpcwire.com/2020/08/19/cerebras-llnl-deployment-teases-second-gen-wafer-scale-ai-chip/"
 type: article
 quality: 55

@@ -3,6 +3,7 @@ category: news
 title: "Big Changes In AI Design"
 excerpt: "One is a growing sophistication of the tooling, both in the training tool sets themselves — such as the whole model optimization toolkit inside of TensorFlow that helps prepare models with deployment in constrained environments — and in tooling from ..."
 publishedDateTime: 2020-08-06T07:01:00Z
+originalUrl: "https://semiengineering.com/big-changes-in-ai-design/"
 webUrl: "https://semiengineering.com/big-changes-in-ai-design/"
 type: article
 

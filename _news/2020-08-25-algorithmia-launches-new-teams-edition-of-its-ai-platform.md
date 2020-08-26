@@ -3,6 +3,7 @@ category: news
 title: "Algorithmia launches new Teams edition of its AI platform"
 excerpt: "The new low-cost edition could give the startup’s sales strategy a boost in a time when it faces fierce competition from other AI tooling providers. Algorithmia is just one of many venture-backed players offering software to ease machine learning projects."
 publishedDateTime: 2020-08-25T19:07:00Z
+originalUrl: "https://siliconangle.com/2020/08/25/algorithmia-launches-new-teams-edition-ai-platform/"
 webUrl: "https://siliconangle.com/2020/08/25/algorithmia-launches-new-teams-edition-ai-platform/"
 type: article
 quality: 37

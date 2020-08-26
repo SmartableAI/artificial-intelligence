@@ -3,6 +3,7 @@ category: news
 title: "Emory students win Amazon’s Alexa Prize for artificial intelligence ‘social companion’"
 excerpt: "All of the students were members of either Choi’s Natural Language Processing Lab or the Intelligent Information Access Lab of Eugene Agichtein, professor of computer science. “From the ..."
 publishedDateTime: 2020-08-18T15:49:00Z
+originalUrl: "https://saportareport.com/emory-students-win-amazons-alexa-prize-for-artificial-intelligence-social-companion/"
 webUrl: "https://saportareport.com/emory-students-win-amazons-alexa-prize-for-artificial-intelligence-social-companion/"
 ampWebUrl: "https://saportareport.com/emory-students-win-amazons-alexa-prize-for-artificial-intelligence-social-companion/amp/"
 cdnAmpWebUrl: "https://saportareport-com.cdn.ampproject.org/c/s/saportareport.com/emory-students-win-amazons-alexa-prize-for-artificial-intelligence-social-companion/amp/"

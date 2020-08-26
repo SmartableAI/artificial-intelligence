@@ -3,6 +3,7 @@ category: news
 title: "NSF and the Simons Foundation partner to uncover foundations of deep learning"
 excerpt: "Now, the U.S. National Science Foundation and the Simons Foundation Division of Mathematics and Physical Sciences have partnered to fund research through the Mathematical and Scientific Foundations of Deep Learning,"
 publishedDateTime: 2020-08-25T20:49:00Z
+originalUrl: "https://www.nsf.gov/news/special_reports/announcements/082520.jsp"
 webUrl: "https://www.nsf.gov/news/special_reports/announcements/082520.jsp"
 type: article
 quality: 36

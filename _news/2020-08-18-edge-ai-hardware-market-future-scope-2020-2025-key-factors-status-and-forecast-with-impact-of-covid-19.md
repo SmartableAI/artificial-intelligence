@@ -3,6 +3,7 @@ category: news
 title: "Edge AI Hardware Market Future Scope (2020-2025): Key Factors, Status and Forecast with Impact of COVID-19"
 excerpt: "On the basis of Processors, the global Edge AI Hardware market is segregated as CPU, GPU, ASIC and Others. Global Edge AI Hardware market is segmented based on the Power Consumption as, Less than 1 W, 1-3 W, 3-5 W, 5-10 W and More than 10 W. On the basis ..."
 publishedDateTime: 2020-08-18T09:34:00Z
+originalUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-future-scope-2020-2025-key-factors-status-and-forecast-with-impact-of-covid-19-2020-08-18"
 webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-future-scope-2020-2025-key-factors-status-and-forecast-with-impact-of-covid-19-2020-08-18"
 type: article
 quality: 51

@@ -3,6 +3,7 @@ category: news
 title: "Microsoft Azure Adds A100 GPU Instances for ‘Supercomputer-Class AI’ in the Cloud"
 excerpt: "Microsoft Azure continues to infuse its cloud platform with HPC- and AI-directed technologies. Today the cloud services purveyor announced a new virtual machine family aimed at “supercomputer-class AI,” backed by Nvidia A100 Ampere GPUs, AMD Eypc Rome ..."
 publishedDateTime: 2020-08-19T00:00:00Z
+originalUrl: "https://www.hpcwire.com/2020/08/19/microsoft-azure-adds-a100-gpu-instances/"
 webUrl: "https://www.hpcwire.com/2020/08/19/microsoft-azure-adds-a100-gpu-instances/"
 type: article
 quality: 83

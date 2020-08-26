@@ -3,6 +3,7 @@ category: news
 title: "Facebook's AI can generate MRI images in minutes instead of an hour"
 excerpt: "Now, after two years of research, teams from Facebook AI and NYU Langone Health have developed a neural network that can cut the amount of time people have to spend in an MRI machine from more than an hour to just a few minutes. The network ..."
 publishedDateTime: 2020-08-18T15:01:00Z
+originalUrl: "https://www.engadget.com/facebook-ai-generates-mri-images-using-4x-less-data-010038608.html"
 webUrl: "https://www.engadget.com/facebook-ai-generates-mri-images-using-4x-less-data-010038608.html"
 ampWebUrl: "https://www.engadget.com/amp/facebook-ai-generates-mri-images-using-4x-less-data-010038608.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-generates-mri-images-using-4x-less-data-010038608.html"

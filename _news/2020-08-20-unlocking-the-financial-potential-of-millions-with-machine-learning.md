@@ -3,6 +3,7 @@ category: news
 title: "Unlocking the financial potential of millions with machine learning"
 excerpt: "To date, Tala’s innovative machine learning solution has found, scored, and offered more than 5 million customers $2.5 billion in loans."
 publishedDateTime: 2020-08-20T20:50:00Z
+originalUrl: "https://venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/"
 webUrl: "https://venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/"
 ampWebUrl: "https://venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/amp/"

@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
-    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/</loc>
     <lastmod>2020-08-25T16:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -55,6 +49,18 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.vice.com/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border</loc>
+    <lastmod>2020-08-25T10:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/</loc>
+    <lastmod>2020-08-25T09:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/roadshow/news/waymo-self-driving-trucks-texas/</loc>
     <lastmod>2020-08-25T09:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -63,6 +69,12 @@
   <url>
     <loc>https://www.engadget.com/apple-final-cut-pro-x-social-media-machine-learning-162618607.html</loc>
     <lastmod>2020-08-25T09:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/25/researchers-examine-uncertainty-in-medical-ai-papers-going-back-a-decade/</loc>
+    <lastmod>2020-08-25T09:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -93,6 +105,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/ai-in-computer-vision-market-covid-19-analysis-growth-forecast-size-share-trends-business-opportunities-and-industry-challenges-2020-08-25</loc>
     <lastmod>2020-08-25T07:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnet.com/news/august-adds-fingerprint-and-facial-recognition/</loc>
+    <lastmod>2020-08-25T07:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -649,6 +667,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://apnews.com/23c39c6175e11f35b0cb61b0b2eded76</loc>
+    <lastmod>2020-08-20T08:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.geekwire.com/2020/allen-institute-artificial-intelligences-new-fund-makes-first-investment-backing-panda-ai/</loc>
     <lastmod>2020-08-20T08:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -763,6 +787,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/how-industrial-robotics-market-will-grow-in-coming-future-despite-covid-19-chaos-2020-08-19</loc>
+    <lastmod>2020-08-20T01:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techradar.com/in/news/aws-reveals-first-quantum-computing-partners</loc>
     <lastmod>2020-08-20T01:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -835,7 +865,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/au/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai</loc>
+    <loc>https://www.techradar.com/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai</loc>
     <lastmod>2020-08-19T12:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -979,8 +1009,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/</loc>
-    <lastmod>2020-08-19T03:34:00-07:00</lastmod>
+    <loc>https://www.albawaba.com/business/pr/smart-dubai%25E2%2580%2599s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting</loc>
+    <lastmod>2020-08-19T03:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -997,7 +1027,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.gizmodo.com.au/?p=1256892</loc>
+    <loc>https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/</loc>
     <lastmod>2020-08-19T02:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1357,6 +1387,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/08/n17123177/transperfect-introduces-free-on-demand-translation-tool-for-google-chrome-with-release-of-globalli</loc>
+    <lastmod>2020-08-17T09:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nasdaq.com/articles/ibm-inks-deal-with-samsung-to-build-its-latest-chip-processor-2020-08-17</loc>
     <lastmod>2020-08-17T09:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1431,6 +1467,12 @@
   <url>
     <loc>https://www.indiatvnews.com/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774</loc>
     <lastmod>2020-08-17T02:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/tomvanderark/2020/08/17/welcome-to-human-computer-co-creation-what-gpt-3-means-for-education/</loc>
+    <lastmod>2020-08-17T02:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2065,8 +2107,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.adelaidenow.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162</loc>
-    <lastmod>2020-08-12T07:18:00-07:00</lastmod>
+    <loc>https://www.heraldsun.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162</loc>
+    <lastmod>2020-08-12T06:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

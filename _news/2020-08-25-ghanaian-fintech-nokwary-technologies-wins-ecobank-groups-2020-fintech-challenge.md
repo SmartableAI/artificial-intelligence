@@ -3,6 +3,7 @@ category: news
 title: "Ghanaian fintech, Nokwary Technologies wins Ecobank Group’s 2020 Fintech Challenge"
 excerpt: "Two Ghanaian fintech, Nokwary Technologies and Growth Factor have emerged winners of the Ecobank Fintech Challenge after an exciting virtual event streamed live from Accra Ghana. Nokwary Technologies edged out the rest of the finalists to emerge as the overall winner of the competition,"
 publishedDateTime: 2020-08-25T08:58:00Z
+originalUrl: "https://www.myjoyonline.com/business/technology-business/ghanaian-fintech-nokwary-technologies-wins-ecobank-groups-2020-fintech-challenge/"
 webUrl: "https://www.myjoyonline.com/business/technology-business/ghanaian-fintech-nokwary-technologies-wins-ecobank-groups-2020-fintech-challenge/"
 type: article
 quality: 48

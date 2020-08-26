@@ -3,6 +3,7 @@ category: news
 title: "Can Artificial Intelligence Improve Your Customer Service?"
 excerpt: "Machine learning of AI gives intelligent agents ability to minimize escalation events, promote FCR (first contact resolution) and cuts down agent training cost. A Tata consultancy services recent ... Like other financial structures, Bank of America is ..."
 publishedDateTime: 2020-08-19T16:40:00Z
+originalUrl: "https://www.business2community.com/customer-experience/can-artificial-intelligence-improve-your-customer-service-02336788"
 webUrl: "https://www.business2community.com/customer-experience/can-artificial-intelligence-improve-your-customer-service-02336788"
 ampWebUrl: "https://www.business2community.com/customer-experience/can-artificial-intelligence-improve-your-customer-service-02336788/amp"
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/customer-experience/can-artificial-intelligence-improve-your-customer-service-02336788/amp"

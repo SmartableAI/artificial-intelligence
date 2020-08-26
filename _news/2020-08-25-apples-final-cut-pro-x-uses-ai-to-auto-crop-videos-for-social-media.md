@@ -3,6 +3,7 @@ category: news
 title: "Apple's Final Cut Pro X uses AI to auto-crop videos for social media"
 excerpt: "Apple has updated Final Cut Pro X with a slew of features and improvements. The editing suite can now use machine learning smarts to automate video cropping for social media-friendly formats, including square and vertical sizes."
 publishedDateTime: 2020-08-25T16:30:00Z
+originalUrl: "https://www.engadget.com/apple-final-cut-pro-x-social-media-machine-learning-162618607.html"
 webUrl: "https://www.engadget.com/apple-final-cut-pro-x-social-media-machine-learning-162618607.html"
 ampWebUrl: "https://www.engadget.com/amp/apple-final-cut-pro-x-social-media-machine-learning-162618607.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/apple-final-cut-pro-x-social-media-machine-learning-162618607.html"
@@ -28,6 +29,6 @@ images:
     height: 350
     isCached: true
 
-secured: "NM9yj3OfDRy+a4S5ZzYRtb/gpASMK+hgkWOZstOKpvwHD+HDGsdFVQc5rzqUIIm5t415/UKj0zyatDmKKTaz4QFZXOeA1ICAcEdBwpLk6Rd0tJhqk1TIdSoeOze5tVgGFViCYV7wgR6pIipRtsYdpxkj97NvemlWpC7E3/7BZfVGOCfNVZnnk6ptal8svaoG/obZQhHaQ19fXRVp8BJLMN9of3eichH9P40m3ql5HeHgWGP4P4dSRIXiLvncf9P0TXkmuN3Lv/KDuhhIVw63ETRFfLABnq1HTS1ZBH9eCDMHOspou1uvMcVRD0ckP9PyqP0oFGD8uqZTw0Kw25g1lA==;n8ffwVIO/TF+wDD3pKcRmg=="
+secured: "B8nudJpmkVw6Idnjm2MqyMAvXhMafwRMoN9bCA4vAdqcFAshPM64WFFYKvejpfDXO6avnr3aqPP4MMxqRQM4vt8oettTWjttbXQW20YA6SlWh6XheZasUj6kNjkkr79u6G+Y57M8TqFb7nYu5pNmPSVEZF2beQC+OidR83RRwyT4ALHgMHH3gKVj6cnwOpNJmHj6l052a0HN90IYAK5QySJmU/6NtFJDm28ztkCxZ0a7R6fGidnnzcoIONCTZ5kziAsnMibJ+qApmKFwoedIQkxF3NVkUUrWQmNa2n6e9cfKgRsZVydt+g25tdG+5aEqlxgYN6SBEnsQR6la5jOITW09Wa7p+6QP+UFt4XDM+DS4X+dO++1AeOe7ln8NgO9DULs3FnZvHKKzrLhLM6kaIZlzsV99D7A3RhwaC0v+Ntt5//oooYNc5lJKhZFBftriDKV5E8QkZjNt9G+a9XzWwHpMPXoBsZsgaABqbVvABGY+F981Sd2HnGkfm2gYI5s7KiP5nsBFfjPmItEB5nkvwxsnSOLQmZbJ2DH6SmjsyEw=;usD1D5lNKuVfuu6WUCsc9w=="
 ---
 

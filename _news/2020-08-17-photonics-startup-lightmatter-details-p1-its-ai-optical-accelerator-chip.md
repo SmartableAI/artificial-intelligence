@@ -3,6 +3,7 @@ category: news
 title: "Photonics startup Lightmatter details P1, its AI optical accelerator chip"
 excerpt: "Ahead of the Hot Chips 2020 conference this week, photonics chip startup Lightmatter detailed its forthcoming P1 accelerator hardware."
 publishedDateTime: 2020-08-17T14:05:00Z
+originalUrl: "https://venturebeat.com/2020/08/17/photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip/"
 webUrl: "https://venturebeat.com/2020/08/17/photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip/"
 ampWebUrl: "https://venturebeat.com/2020/08/17/photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip/amp/"

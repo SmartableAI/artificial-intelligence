@@ -3,6 +3,7 @@ category: news
 title: "5 Interesting Announcements From KubeCon+CloudNativeCon Europe 2020"
 excerpt: "KubeCon+CloudNativeCon Europe 2020, the largest gathering of the Kubernetes and cloud native community, has gone virtual this year."
 publishedDateTime: 2020-08-24T02:26:00Z
+originalUrl: "https://www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/"
 webUrl: "https://www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/"
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/amp/"

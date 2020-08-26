@@ -7,7 +7,7 @@
       "excerpt": "Minus AI,” Kanaan calls attention to the need for the U.S. to wake up to AI as a matter of global power, in the same way that China and Russia have.",
       "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/",
-      "originalUrl": null,
+      "originalUrl": "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/",
       "featuredContent": null,
       "heat": 83,
       "tags": null,
@@ -103,14 +103,64 @@
       ]
     },
     {
+      "path": "_news/2020-08-25-more-facial-recognition-and-drones-wanted-for-the-us-canada-border.md",
+      "title": "More Facial Recognition and Drones Wanted for the US-Canada Border",
+      "excerpt": "Industry groups want advanced biometrics to secure the border between the two countries once it reopens after COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
+      "originalUrl": "https://www.vice.com/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f453b379992790096b50300/lede/1598373223867-cp18642415.jpeg?crop=1xw:0.8436654135338346xh;center,center",
+          "width": 4987,
+          "height": 2805,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
+      "publishedDateTime": "2020-08-25T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-ai-in-computer-vision-market-covid-19-analysis-growth-forecast-size-share-trends-business-opportunities-and-industry-challenges.md",
       "title": "AI in Computer Vision Market COVID-19 Analysis, Growth Forecast, Size, Share, Trends, Business Opportunities and Industry Challenges",
       "excerpt": "Market Overview The AI in computer vision market will surpass a valuation of USD 27 billion, attaining a CAGR of 45%",
       "sourceUrl": null,
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-covid-19-analysis-growth-forecast-size-share-trends-business-opportunities-and-industry-challenges-2020-08-25",
-      "originalUrl": null,
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-covid-19-analysis-growth-forecast-size-share-trends-business-opportunities-and-industry-challenges-2020-08-25",
       "featuredContent": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -151,6 +201,56 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-august-and-yale-smart-locks-get-fingerprint-and-facial-recognition-unlocking.md",
+      "title": "August and Yale smart locks get fingerprint and facial recognition unlocking",
+      "excerpt": "August and Yale locks are solidly positioned as top sellers in the smart lock market. We recently awarded August's Wi-Fi Smart Lock our Editors' Choice award for its updated styling and independence from the company's Connect module.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/august-adds-fingerprint-and-facial-recognition/",
+      "originalUrl": "https://www.cnet.com/news/august-adds-fingerprint-and-facial-recognition/",
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/7utBQdc7vgiQYRPwHEqkUbS_YdY=/756x567/2020/08/21/38a1b707-358e-45a8-88af-72ca513b1828/security-features.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/august-adds-fingerprint-and-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/august-adds-fingerprint-and-facial-recognition/",
+      "publishedDateTime": "2020-08-25T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -200,7 +300,7 @@
       "excerpt": "Cloud photo storage app Ever is shutting down, citing increased competition with the default services offered by Apple and Google as the cause. The company, however, had other issues beyond the plight of a small startup trying to compete with tech giants.",
       "sourceUrl": null,
       "webUrl": "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/",
-      "originalUrl": null,
+      "originalUrl": "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/",
       "featuredContent": null,
       "heat": 75,
       "tags": null,
@@ -252,7 +352,7 @@
       "webUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -382,7 +482,7 @@
       "excerpt": "Facebook allegedly violated an Illinois law requires companies collecting biometric data to obtain prior consent from consumers.",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/",
-      "originalUrl": null,
+      "originalUrl": "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/",
       "featuredContent": null,
       "heat": 129,
       "tags": null,
@@ -473,7 +573,7 @@
       "excerpt": "AAEON and AOTU.AI are excited to announce the launch of the BrainFrame Edge AI Developers Kit (DevKit) on an Intel AI platform for IoT that will allow developers and system integrators to rapidly create and deploy Smart Vision applications.",
       "sourceUrl": null,
       "webUrl": "https://markets.businessinsider.com/news/stocks/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115",
-      "originalUrl": null,
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aaeon-and-aotu-ai-announce-the-release-of-a-smart-vision-ai-developers-kit-on-an-intel-ai-platform-for-iot-1029516115",
       "featuredContent": null,
       "heat": null,
       "tags": null,
@@ -605,7 +705,7 @@
       "excerpt": "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of ...",
       "sourceUrl": null,
       "webUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/",
-      "originalUrl": null,
+      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/",
       "featuredContent": null,
       "heat": 289,
       "tags": null,
@@ -705,7 +805,7 @@
       "excerpt": "\"That's something I will do with my team and the NYPD.\" The question came after NYPD admitted it had used facial",
       "sourceUrl": null,
       "webUrl": "https://www.engadget.com/new-york-city-facial-recongition-223931035.html",
-      "originalUrl": null,
+      "originalUrl": "https://www.engadget.com/new-york-city-facial-recongition-223931035.html",
       "featuredContent": null,
       "heat": 89,
       "tags": null,
@@ -1305,106 +1405,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-facial-recognition-what-led-ed-bridges-to-take-on-south-wales-police.md",
-      "title": "Facial recognition: What led Ed Bridges to take on South Wales Police?",
-      "excerpt": "\"I didn't wake up one morning and think, you know what I really want to take my local police force to court,\" he said. \"It wasn't the case that I had planned to get particularly involved in, but it developed organically.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-wales-53742099",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/uk-wales-53742099",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53742099",
-      "publishedDateTime": "2020-08-11T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams.md",
-      "title": "NeuralCam Live uses ML to turn iPhones into ‘smart’ computer webcams",
-      "excerpt": "After bringing Google Night Sight-like functionality to iOS, NeuralCam now has an app that lets Macs stream live, deep learning-filtered video from iPhones.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/neuralcamlive.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/amp/",
-      "publishedDateTime": "2020-08-11T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
