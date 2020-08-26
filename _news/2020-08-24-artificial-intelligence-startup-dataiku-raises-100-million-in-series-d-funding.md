@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Warehouse Picking Robot Startup XYZ Raises $17 Million"
+    excerpt: "The 3D-AI Vision processor, XYZ's core technology ... in Amazon Robotics Challenges for three consecutive years. \"As a young and energetic startup, XYZ Robotics has an extraordinary technical vision and R&D capabilities,\" said Zhe Chen, vice president ..."
+    publishedDateTime: 2020-08-26T15:13:00Z
+    webUrl: "https://www.benzinga.com/news/20/08/17251073/warehouse-picking-robot-startup-xyz-raises-17-million"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17251073"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17251073"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2020/08/Screen-Shot-2020-08-26-at-14.42.06.png"
+        width: 1085
+        height: 723
+        isCached: true
   - title: "AI And Machine Learning Tech Pioneer Dataiku Scores $100M In Series D Financing"
     excerpt: "Enterprise AI and machine learning platform developer Dataiku has raised $100 million in a Series D round of financing, the company said Monday. The funding round was led by Stripes, a growth equity and services company focused on startups in the software and consumer products industries."
     publishedDateTime: 2020-08-24T16:44:00Z

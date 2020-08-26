@@ -3,6 +3,7 @@ category: news
 title: "How Artificial Intelligence Can Change Higher Education"
 excerpt: "Sebastian Thrun, winner of the Smithsonian American Ingenuity Award for education takes is redefining the modern classroom"
 publishedDateTime: 2020-08-15T22:40:00Z
+originalUrl: "https://www.smithsonianmag.com/innovation/how-artificial-intelligence-can-change-higher-education-136983766/"
 webUrl: "https://www.smithsonianmag.com/innovation/how-artificial-intelligence-can-change-higher-education-136983766/"
 type: article
 quality: 39

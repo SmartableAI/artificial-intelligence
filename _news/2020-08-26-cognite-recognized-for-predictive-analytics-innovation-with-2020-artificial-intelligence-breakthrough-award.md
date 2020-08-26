@@ -31,6 +31,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
+  - title: "Liqid Wins 2020 Artificial Intelligence Breakthrough Award"
+    excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market today, today announced that Liqid,"
+    publishedDateTime: 2020-08-26T15:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/liqid-wins-2020-artificial-intelligence-breakthrough-award-1029536910"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/liqid-wins-2020-artificial-intelligence-breakthrough-award-1029536910"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/liqid-wins-2020-artificial-intelligence-breakthrough-award-1029536910"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Matterport Recognized for Innovative Use of 3D Technology with 2020 Artificial Intelligence Breakthrough Award"
     excerpt: "Matterport's Cortex AI is a deep learning neural network that creates the 3D digital twins and automates many of the things normally performed manually. It stitches the high-fidelity 2D imagery captured by the Matterport Pro2 camera to construct the space in 3D,"
     publishedDateTime: 2020-08-26T13:47:00Z

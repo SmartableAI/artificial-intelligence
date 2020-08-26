@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/immersive-reader-for-azure-cognitive-serv
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/immersive-reader-for-azure-cognitive-services-is-now-generally-available/"
 type: article
 quality: 118
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/08/Annotation-2020-08-25-074318.jpg?w=1024"
         width: 1024
         height: 525
+        isCached: true
+  - title: "Microsoft’s Immersive Reader for Azure Cognitive Services Is Now Available"
+    excerpt: "Immersive Reader is now generally available for Azure Cognitive Services following a significant increase in usage of the preview."
+    publishedDateTime: 2020-08-26T15:11:00Z
+    webUrl: "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 102
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/05/Translate-Microsoft-Edge-Immersive-Reader.jpg"
+        width: 741
+        height: 421
         isCached: true
 
 secured: "1OgbHRga3QiGnx3fV2aHH4uk5gBymYj0A+bZaWMb0bwRL1NGWeTAVIn+o52a2kshAplWqtpTWTuou5gEacseQSKXf9jqHKeIWOOdl8TQXRTmZb+e460c88GoAqZQWYSMO8qe/Ruq7b0/6qjba1j80Ffj87fB44ZPx6CeOpc4Gj2uIvQfX7lOFLWsw7p4Qoy8YaUn7rJQvdBytun3z/agtAASwP3NwViPiGfIRWXAeVjIgyzMFiDc4ir2/4O83CUfb3bMm1jMZEzVNizCaqGpNMx0sL/Rq3q7Tz0m1ECcqtlhzsRokLKj1tA9P2oSimvUhT/+2B8EOE8UOZB85x/KydEwWt7f3XfuumoJITzBcRpJv5BjIdfK0IUlyRgyl/pXMLSL2+zy9zPNdQke6FlrSClZlfytU+vLEhiiekZymidEJXka0vINHWivVMij4PD2cI13vQFgBO06yG7Q78OHmo9kxXaO4DLrJKidYdOLeNFh3JMOm/Tkb65z6Fu6uZYUphSnriUKjVntDAkyFKLMQQ==;ruxpGzUXTc6dfLWaz3+hQw=="

@@ -3,6 +3,7 @@ category: news
 title: "Global Cognitive Analytics Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
 excerpt: "Global Cognitive Analytics Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is generated"
 publishedDateTime: 2020-08-15T00:32:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-08-12"
 webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-08-12"
 type: article
 quality: 34

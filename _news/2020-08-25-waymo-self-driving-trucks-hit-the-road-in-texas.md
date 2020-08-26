@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-trucks-texas
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-trucks-texas/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc0OTE1NDY2NjYwMTYwODYz/kings-of-the-road.png"
         width: 620
         height: 346
+        isCached: true
+  - title: "Waymo autonomous trucks begin Texas testing"
+    excerpt: "The self-driving technology company will pilot Peterbilt 579 trucks on runs from Dallas to El Paso and Houston."
+    publishedDateTime: 2020-08-26T14:25:00Z
+    webUrl: "https://www.fleetowner.com/equipment/article/21140213/waymo-autonomous-trucks-begin-texas-testing"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2020/08/waymo_truck_brick_building.5f466a38d84e8.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "kZfBrk777De6PD+mqo23VoTEGBOvFyv4dmLDOrpLhbQiK47lsL419zwig0ilY4g2pkwZLoq6GewmwcJbLuyNhSc42xaHO9LRAdJAQfqaSOO7JQWpLtQly0G36Ub9eOOuSpnEPXozgE8NU/+kiRKz0IRy/h/lJtzEsrQX91HZNMYa4lMa+TEl4EY1AZ5eclqCSLVNQ5V936M58FRzISxdC56Qox+EotsYHnHvsbglpOvilnjy1SeNcjTli770V1NPGlDa5KxS0SARJmYta371a2VfsYC4cXYyvkBm7iOHfxyrspipy+gm7WAaaut17KiFa4dPxT3xwX1tR5XLx8nwFfukUxaAdf+DbJaen6zYdMu4yX0WafYAo+e9nDErwFQNx0j20PtM4T4i+geNPOPGtkQwf7NIUwctsIpv1kcJ2y24KAWy5/DfmIWI7oegmuPW/O6ISiHSD86pIgbea6zFAy+0/IUXkeWvzz7/cOKepcRxs460U10uJtmgnoc6V6OPw8I45s9r3OMb4AgFwbs7bA==;lxzb9XXgUer+rIgHP7CEpw=="

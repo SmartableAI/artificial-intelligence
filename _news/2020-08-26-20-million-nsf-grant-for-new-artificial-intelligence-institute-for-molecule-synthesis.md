@@ -66,6 +66,29 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "National Science Foundation awards $20M to launch artificial-intelligence institute"
+    excerpt: "The National Science Foundation has awarded a five-year, $20 million grant to a team of scientists Harvard, MIT, Northeastern, and Tufts to create a new research institute aimed at exploring the use of artificial intelligence in fundamental physics."
+    publishedDateTime: 2020-08-26T15:44:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/hu-nsf082620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 18
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "UT selected for prestigious new National Science Foundation AI institute"
+    excerpt: "In a major achievement for the Austin tech and academic communities, The National Science Foundation picked The University of Texas to lead a new effort to develop advanced algorithms with applications in medical imaging diagnostics,"
+    publishedDateTime: 2020-08-26T10:38:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2020/08/26/ut-picked-for-nsf-ai-institute.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
 
 secured: "+TVxkWTTJboO8r9oUI0CdtqOYBxRItg6TcwadkaKY3MzSqwY9A8GD3n9XeEqwsVPyHtVKgy5Od5/8UIf1a1mJc+HFVqZM/zh5o6TgWNzUUsTkWLiBUfRgVGwKeumIHB2xHK7iguDglyYjItODZ8IjH0XDc5ysF9PB0bO5HB95rz3duXMEx2lgjvKNLURWztZJF8sUaTk5nLsjwwPUrP7cPX+uymLSIgReue1pqI1jtQwMPeXbUbqQ5qY9OFbkKGDHyvPjdKkuZRLmFA5WwZCaAPxaDx/nZneyPXLqFAzHce88RcD+TKaqCkmXhd1TCRF0rUXc3gYCDP+4xnMe2z6yn1NZePtiT+B/HKrv/LESI0=;1eALA7LO0zd9ykE7Y3v0Bg=="
 ---

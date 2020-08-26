@@ -67,7 +67,30 @@ related:
         width: 600
         height: 430
         isCached: true
+  - title: "National Science Foundation awards $20M to launch artificial-intelligence institute"
+    excerpt: "The National Science Foundation has awarded a five-year, $20 million grant to a team of scientists Harvard, MIT, Northeastern, and Tufts to create a new research institute aimed at exploring the use of artificial intelligence in fundamental physics."
+    publishedDateTime: 2020-08-26T15:44:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/hu-nsf082620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 18
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "UT selected for prestigious new National Science Foundation AI institute"
+    excerpt: "In a major achievement for the Austin tech and academic communities, The National Science Foundation picked The University of Texas to lead a new effort to develop advanced algorithms with applications in medical imaging diagnostics,"
+    publishedDateTime: 2020-08-26T10:38:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2020/08/26/ut-picked-for-nsf-ai-institute.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
 
-secured: "WAhtGV8Hw/OxXa+crZUnMySdY9atf5p2h5t8pkqdWzbTA6e4mc2e3SPZGE6KE+JyavBv171Q06kw8uvQGBMK5ZywXTIuklhGV7FyqpkcxOUKHsP3m6hy//YCrwYRYkaVeD2X/krxrcmxKqh2HZ8xTQfHHqHc9msZvPlyj5PthTPw4NnYm9DPqAX4zpFl99w2ylynLVJq7Rvrggd8QxrJ7mvPbOQvL3pX3jZZzcj+Sy6FvOU54L4hA/t6BPMKPwzzEhkzoXtj4uM6eezaii5iesQm4zvhcw/18qFFbe8t+JdTjBAQ48rxx/1hjBfT0po207nAp5SBM0PJl4MhVxn0d7zSEpRKeBlL0C0Qvdypl5o=;g4f4dXCM4IldYvLV4IfjDA=="
+secured: "B8XLDmJhB0CSbWGcT7xEWX38cCVGsVvMXgMAOI73JRGBmagxVAa3SwZYExIO19i21zpeueOCON5qeHoFfsv2bbdd3u9BefztGBF7trgHX6CfuW2V7DMxClrIeyGQFEX/8w62q/luP2SdzRQFe6cKJevnqR3uve3QHiY2iKCSEONRqQ0LaqtiALxUP37SSnOR6HP7vyFW8jSEwsnaMPZwab1igktqmznfamG+OXxVQ3z+sUFmcS8DnTWwr7ZALZJe96EIon7eJNshqvQyZJoNohoT0kVC2NQEyKdjFb8sfrKSiFciNls/G9ZhuaQ9Uj1iZm1PefUsCRkG/qKAeDc5RBcOd/HEQYLzHL+Ep3Jo2DGSzyCFau33CfSXoV0VpEh1TqfmN3iAFmIOpHahWNwvQDn1vyyPvt1JLvduigAtqoatf/uJ/YS0+mPNcK3ZlTujmCBp5eGFi2EbOiMtM+bqnFqU4STI8Z9MXp7My6wLWFEixzj5dmfRxBsUhuRXEuBYKsk7PwWr0MTkjMvN51nI2ei1eoxzz0GaOeitQpY3Hv8=;cA1YabgL1LhRpwPpFhl3dA=="
 ---
 

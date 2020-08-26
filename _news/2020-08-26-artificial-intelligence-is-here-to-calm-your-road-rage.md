@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-26T12:12:00Z
 originalUrl: "https://time.com/5881216/artificial-intelligence-road-rage/"
 webUrl: "https://time.com/5881216/artificial-intelligence-road-rage/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://api.time.com/wp-content/uploads/2020/08/ai-car-illo.gif"
@@ -27,6 +28,6 @@ images:
     height: 2198
     isCached: true
 
-secured: "v1GYasS3+uH7ZJuP3YIJU/aSwDrlBIYqFD+Bqm+44dkoKz4oJViv2T66NemzYvDbfTaV16LnCsUZONXeX/2vI5QRgf38mEoHIiMz2vrmtr6PWDK3+G4q5ci5y5UQUtmONvizrLu02ojpdyTViuCGGGu8Ga7nHj4cUVlaY2oGiWLdL4cQX/Fd4XSDAdJwjy7yhFLySrlJRjsfVXakOHRocly0LFxoGt0GNSmxZC4Fa11067NYJyacUVuaLDHGX2xwt45eUDiNw0Ht4TG/S92KzhmPaBwBp1eKneTX7KyW7+WVVlCzH1eERAJM+3Q/++T+09wB2eGlwE/4nJ771G3/kK8qc/A+ygyJFQzsdrLNwWw=;C8koZ22tMmXJpTWhwBra6g=="
+secured: "L+JmYTAF62NGzaozNn+Ht1rRBTszTOOFi+uiFZ8I5jz+HmJA1OYFEl6qRqE+6BxD4o9ArlL1VK6y7X56SIiL91ejX8Ibjv+gPjyFj2gAplFxvDJIrqZ7E8VBFSraJt77InMICRwAuJI0ljoGrK5pxY+YK0Rq/jWcJen7wts9pVIhUfxaUALpT9ToqxLRKk58e7AWDbKYlIFz68d5zXmjkbTMTqg/vr3amWZX44wQb8BmHErCWs/5/0yT53wfGhXRRKGsjfNmK31SrT4YWl7/EMLUVGZBdXGyzgjXbzI10YuEt/1uDvW/LXr+nURpp1BHywyi3aNwErcXIydpY8Ai6v1IcKitrtWNz7eZJjENW33cqRQw79HU04N3qxEfnHsFgNj63EUpMEqy0gnDK4L9voVw0TeNHfhT6sjIZ2bqlN9MX4XsjRYsIdMxalmsJdUXwWVsg5o/DyvbQg48DredaTFAQdf9riagxCv/9Ks7mfa+FNhOTfDCSCYMHeUgORv/8f/c2/ksMCs492q2OnEgdbe6t8XaKad1jl+qS+31UHo=;sQ8DPnT/OTT+5GiGQcjzbw=="
 ---
 

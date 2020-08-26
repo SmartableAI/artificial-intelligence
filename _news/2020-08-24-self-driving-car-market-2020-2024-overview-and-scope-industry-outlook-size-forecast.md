@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 0
+  - title: "The Global Self-driving Taxi Market is expected to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period"
+    excerpt: "The analyst has been monitoring the self-driving taxi market and it is poised to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period. Our reports on self-driving taxi market provides a holistic analysis,"
+    publishedDateTime: 2020-08-26T15:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-301118728.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "745VQOKx0qa0fo6OrrESO11FnfzSyATkePLiEeda/pC1JiALvo3zKj8jin2GjeA1rNFLDoKy/9+n6k+IZfHtLvJhFH6uB32LaMBO/dysddpbu0RjJQ3oYFeL6l0m0vayb8LiywLxtnNLkiUjtdPYT40J4yPQS3p9prJBllV65d9pqJkBR+/bCF5rRpXPQvNieQWEaTjgM2guXvqq6bntN8d0vgZHDW55ksy4l9xAe36XPCYH/sFsIsZYUInF47VEeWSth3TmNNmgOcF55eFhiNd40sE7gDanOO7MEFv4MZnqLyXUc0GZA40NPTpU1BnfFTOve0nHhcso9fr+gp5rSA==;f1qrqN4Dca0xWXjWbIcqlA=="
 ---

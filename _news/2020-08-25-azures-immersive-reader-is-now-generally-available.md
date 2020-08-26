@@ -47,6 +47,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft’s Immersive Reader for Azure Cognitive Services Is Now Available"
+    excerpt: "Immersive Reader is now generally available for Azure Cognitive Services following a significant increase in usage of the preview."
+    publishedDateTime: 2020-08-26T15:11:00Z
+    webUrl: "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 102
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/05/Translate-Microsoft-Edge-Immersive-Reader.jpg"
+        width: 741
+        height: 421
+        isCached: true
 
 secured: "iwOROhLycHP/s1Qwl/F7qSYzvRB6GFdqaIwigiEXiLA2X6LdizbFZIa/v5189+LOJT0dXtXfy1dGjWUOVpxYUr6pkn0yAEFIhTagRYFhMMOF+kJQCzUA7iv1aIFbK5z3G1WsUhdZWo/gzd8n3eMw0nL+9nV2bZGLdd5Sv7DvwhUprIAOQkiUqivRVQG5AHUQceohLwNHiWn5CPXdLOsvwGCzcI+e/7dNrboP8G16WQKWvUJZwm0pKiQGTNM6mALAcz4/YG54hN6u4yuKfIkrTGoh4rbuxoZ7Ej2bow+PFF7CHltrgMUEMDmXcFv+VGNB4s2sCuAvpQzbg0qfIaO7OA3X1cHJusn7Gtv+VnP0SgxUS6U7MhXNqyauXbQdbyz98RBC/Uoh02IqBx38tlc0bBvHcsqWfmmrQ8W7KMCj/Nc464GLDqyVGrhcQuT6C4XqZ0bDGZ2v9zRkyLh1HOVCV7hzzC8cVDhw3JWefvsW6xozmL2bp6q7s4agwRkbzoAz;lyDhpp70GMIMP8SiZvjy/g=="
 ---

@@ -36,6 +36,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
+  - title: "Liqid Wins 2020 Artificial Intelligence Breakthrough Award"
+    excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market today, today announced that Liqid,"
+    publishedDateTime: 2020-08-26T15:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/liqid-wins-2020-artificial-intelligence-breakthrough-award-1029536910"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/liqid-wins-2020-artificial-intelligence-breakthrough-award-1029536910"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/liqid-wins-2020-artificial-intelligence-breakthrough-award-1029536910"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Cognite Recognized for Predictive Analytics Innovation with 2020 Artificial Intelligence Breakthrough Award"
     excerpt: "Awards Program Honors Standout AI and Machine Learning Solutions and Companies. LOS ANGELES (PRWEB) August 26, 2020 AI Breakthrough, a leading"
     publishedDateTime: 2020-08-26T12:15:00Z

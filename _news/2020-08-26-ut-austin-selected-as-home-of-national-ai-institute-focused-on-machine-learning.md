@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php
 webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php"
 type: article
 quality: 52
-heat: 82
+heat: 102
 published: true
 
 provider:
@@ -68,7 +68,30 @@ related:
         width: 600
         height: 430
         isCached: true
+  - title: "National Science Foundation awards $20M to launch artificial-intelligence institute"
+    excerpt: "The National Science Foundation has awarded a five-year, $20 million grant to a team of scientists Harvard, MIT, Northeastern, and Tufts to create a new research institute aimed at exploring the use of artificial intelligence in fundamental physics."
+    publishedDateTime: 2020-08-26T15:44:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/hu-nsf082620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 18
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "UT selected for prestigious new National Science Foundation AI institute"
+    excerpt: "In a major achievement for the Austin tech and academic communities, The National Science Foundation picked The University of Texas to lead a new effort to develop advanced algorithms with applications in medical imaging diagnostics,"
+    publishedDateTime: 2020-08-26T10:38:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2020/08/26/ut-picked-for-nsf-ai-institute.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
 
-secured: "YSRjGwvyuP6UO4+DhwlmlesBrfRpngwmNyfsQuTLV8RJkq9pYVgR48ZB6jxpDfoqOYQj65MopxiEn3GF1FxD6KBwGdCQzAV6Co7OJbpujk9Ls81R3cGNQQy48Nmb4D6gwO7MWIaOiTvbx1BUc8Lbt+mPuTBEAjLu1GXTdkmin6qREfrQb7Q2neo9rVk4L14heU1qG4yxMXWhtAIof+i3UuKSt9UZRzLAYZQDCY3gLmYMObtGOcpsL6v4jEElWHc8izHtnAiQ5ORi6QYLfC8TMz1/jHH12nI2qKpD39B7Ju2pb8OvuqRv5x9f2QHGHqtduwE8aEuR3MqN3zo5VylrPCdsELVXAUFSoGIMUJ1VajU=;/yRkPl5BTiBIgbYXllyqJQ=="
+secured: "7ah356MP3dKE+cZq9ERgWff+jUmQvFbnCZ9Z853+3HydKH6f01g70dJd2+GZjle+h6mHL8N1JKxVAo1i4DCh/yA/5URyRgm56enKeD7ov7KzGv/Vwi2agY+aw+1Z/GIUE2cm3VMA2WfZJHpyd6+ta1j01lPfxmXPXchhnSomAXp8v0qnrV8VuGlsrGivJtQ5h/vnpZjGdt1hrLLNDKkPLS6gyObOtt/xx9pqGwn1qHgK0IPbdADAIZkAvV9x3wnjCBr3LpifyIzorlA7MnYyvzPY27SY8K2KOkeYWZPEuaPRHN1GJjhWIbBgr5yVlW5mA5XKA2lWZp/PLiUx6q62LzKKf7+h7BY8c27paZB1L+KVnSyaVWMMrs24PXopF19WmSNB8M3WR2D1UPdJnX8fzfjp37w/tJaLu0yHI7EqMnRCdqOFgrdIo4g42lQ+RQldZUnKFnJiggL5gCYr0sA5kvwqum5V8OGDY3FY2HkofQGORzF5+tXEFDtecmhUzjBcnNhb6FHwuQLkcUVXqqqG5YNLxyfklJzA/XBLOTnwTY8=;NpzIHhd8sjQBi8sg2egXOw=="
 ---
 
