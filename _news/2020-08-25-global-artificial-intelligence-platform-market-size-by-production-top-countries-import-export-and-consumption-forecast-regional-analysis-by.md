@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Construction Market Rising Trend, Business Opportunities and Scope 2020-2025"
-    excerpt: "The Global Artificial Intelligence In Construction Market Research Report 2020-2025 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost,"
-    publishedDateTime: 2020-08-21T11:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-rising-trend-business-opportunities-and-scope-2020-2025-2020-08-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "7kyVbBshhWzjqkTBwv4GT4gvNZxJDnzuXau6gnm7vfk3UZtUg1oUGXieozmxcynrv4Cot9wE1Da0k+vMCPdSpTP0fP/dvVDbaMLSwLayxWiJOrLjGz+I2GJ5/4LVmTnqGD0gYeDAamxOtZ0he1JC0xP5RPuVLJWGq55D6AUiazl2rTw4mj7r6w9RTouuHVGIX3+2W2MWv6QnzO3ma3eswrXEPH/YU1+Xg2Hso8sz0vIhSX14OFuWKHyEfZI3qNoo/aLCIFXE2RMmzN8lcelT9NTApAMycTCQSDo6A7jeyv2da5OWbSl8ZR4UqyxT3ogqQGeB9x5TpQp76nbpoV49Bg==;kXCBGrbdmsOX4a/fT8JNVA=="
 ---

@@ -15,6 +15,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "sSJQg26REFmGICZbGKu1LpXo0UkLBNpzg1DKrU7jggheQCTPD8frxNqNc4KRD5NfeWn54EaUfHSwCaVsiUU2LuCEsQy3dJBGGch5aGLEx247T2fz8zWwkxdmaJIkP3jeAhl7ngrw1dn8QVaVRarLc9xO+5cvMscja0biotsggTkoA4FpslhI/5q7qS3EAuVbsCCSjJYAW2xvP0Sd9oP87Cuk10dVbcl+FkqhyB1tst+O941MuicpSqam9IGwSzjSvoPfJ7lQc0r6DN6lrTvk0lGglK4fooUl2Z5qioE3pk0NAf0IPiweuDJUtfmcYxTHbUKYvxW4FIiBqyZSrp4Hmvu8jrCqRIrGvcZsaNUs4PUvF6zJeyGCM63vAH7RSG8g6tK11eYJaPMSO/2MFmQyItWtY399y6TpO3OZSxnJzj/2zVUnXTDuJHiYXaVCtvqDYgZv5gCFziwkShT1vPB3YazbB1FjgfmuXGsD5btkYUp7qGBZq5wQDqqPMUdgj6i5FNfYfWPh0h1UorjHuPjg2fqBTtHJ83WMZXLKMWnzNok=;v8uj+r0RehV2ywEBWx7Q0A=="
+images:
+  - url: "https://images.zawya.com/pr/images/2020/a_2020_08_24.jpg"
+    width: 450
+    height: 490
+    isCached: true
+
+secured: "FU0Vz4HfSovJuNpnbwh2F+su1iU3n4uV4HsLj6VOht9bMyGxjXAdFRazhDxRBaUiXc3bSk1XWLylk1SjAnElE+t+Fd4PoUmEVhtnL96eIrKEn7bwyDKvnROvktxReG6BZSE9ozckgPd3EA0hxZZHGJfc4huVGiCt9jY7NwF1EjBcJRT/gC+8+IJqt3cB+hRpd3hazQn4l8rGKjxBMGtwvCJRdIYgpeZhfn3W7y+9VGJWnPgmbhoVh7RXZFVFHmtIfpKZXy7uD/VdjLUGQ0HFiDjhfzvs7hZ4LzixOZCfNKXY9w8bNiPY8Gb4qazY0a6IphnmG4aYV2Fzt9KeiBViV8bR60+bvWc72oqLqdnGGXI=;QELPJS9xXvB3n29NyVroiQ=="
 ---
 

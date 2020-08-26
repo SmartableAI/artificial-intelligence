@@ -2,6 +2,47 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-07-21-asmpt-collaborates-with-ibm-research-on-ai-chip-technology.md",
+      "title": "ASMPT Collaborates with IBM Research on AI Chip Technology",
+      "excerpt": "With the dawn of the Artificial Intelligence (AI)era upon the world, the usual playbook of continuous shrinking andpacking more and more transistors into chipsets will",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/asmpt-collaborates-ibm-research-ai-chip-technology",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2020/ASM-logo-200720_0.jpg?itok=igskQ2yX",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/asmpt-collaborates-ibm-research-ai-chip-technology?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/asmpt-collaborates-ibm-research-ai-chip-technology?amp",
+      "publishedDateTime": "2020-07-20T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-wyze-will-try-pay-what-you-want-model-for-its-ai-powered-person-detection.md",
       "title": "Wyze will try pay-what-you-want model for its AI-powered person detection",
       "excerpt": "Smart home company Wyze is experimenting with a rather unconventional method for providing customers with artificial intelligence-powered person detection for its smart security cameras: a pay-what-you-want business model.",
@@ -1064,37 +1105,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-weride-chooses-wekaio-to-manage-its-ai-data-pipeline.md",
-      "title": "WeRide Chooses WekaIO to Manage Its AI Data Pipeline",
-      "excerpt": "WekaIO ™ (Weka), the innovation leader in high-performance and scalable file storage, announced today that WeRide, a smart mobility company with industry-leading autonomous driving technologies, has selected the Weka File System (WekaFS™),",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200720005328/en/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily News",
-        "domain": "businesswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

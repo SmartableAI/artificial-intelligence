@@ -21,6 +21,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "4gJIZvjWsp7dk2bY4NODsOCmSjI8gg8ZFNeJmZ5y24dOQWbfVby/nojf1TlD8XSdTwy8RhNdWeCqAsg9C79SZHCNO9neYeDELMmmVZ0U9jlOOpCfv2t1qZeNvQWFciqqio4tk1z5yMRvDOnNJAT4i9loUa8ibR1anhltfMcpCtVOerUt5quFeaKHuO9JW8/ln/HY1aaifGGNt1wPC71lXYvNz4X+tur2EMkQZuacWLHGC/l5cyfHRefc8n2IyLgZ7LWmIm5EzOrvQ0W/BVGwzDOABTKdILr0URmbhUsFHRvonaqnhOWB0KE+VIyPe2q9r18NFUL+m3pYs4NNJGcm7WL4+nWQ3o+3GQ2MK1pC5vDinn3qfbfm8Ipqh/+8Suguqs8lfyEs+R26ShEMFSETbxTKFCTVxaoeYvV2PCqLCqm9NyMFjrl5mOujJvvdxgpaoEXo8MVOm2unu3uVfWZWGvSNY6lIYEhaFMHixOJ3nvkeZT8yUzY++N7XnedN8roZPCE9DqFQ9nSXfkoVWR+qVfxjD9PV5mt7pdPedhqhuwo=;pZy0qAfM9gzicPFSrBCSAw=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/J4gMaC6kRdNLhVRDjnqSNU-1200-80.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "VH3BMrK+u55JQZ6Gu+jkhM2ZPaRv044qdWrRuQ9c5Zviu78/el7tEvTMEsbhkyWcGZ1xkVhIiAIRT+dMRGIsrBe7FZe/JX48C4bWdVwy5yTE5pZq0+KavmeKq/Y28i613z9JrdH89P/iLGdfYH4qdB0xtI7r5hJ+pEmk1oipawuIqBerTo3WUo/gzLiD6yjvX0F0x7tzZSG8F6f/tXcjmAnKCa5SlTQ1tMTvxb4kAc1yXM3IB2tQ9Ltv4Dbcez0CZXLBlHEjge255/DpurjW91dq8IpQb+ZcEGad0Yx74dr7r98S6rxVrScpN/pJWEkkW2KvdTul9Z9xcmHRhNIF6xWox2/m2BQahqUv+LvEZWQ=;weHyFp7XnVFrF7gVZl1ZgA=="
 ---
 
