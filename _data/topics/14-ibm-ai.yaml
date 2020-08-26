@@ -4,6 +4,8 @@ name: IBM AI
 parent: AI
 keywords:
   - Watson
+hashtags:
+  - "#ibm"
 images:
   - https://smartableai.github.io/artificial-intelligence/assets/images/topics/ibm-ai.jpg
   - https://smartableai.github.io/artificial-intelligence/assets/images/topics/ibm-ai-2.jpg

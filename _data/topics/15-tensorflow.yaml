@@ -4,6 +4,8 @@ name: TensorFlow
 parent: Google AI
 keywords:
   - tensorflow
+hashtags:
+  - "#tensorflow"
 images:
   - https://smartableai.github.io/artificial-intelligence/assets/images/topics/tensorflow.jpg
 services:
