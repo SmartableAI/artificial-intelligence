@@ -3,6 +3,7 @@ category: news
 title: "Modern Proptech, Fintech, AI can Enhance Real Estate Transactions, but Human Contact Is Important, Industry Exec Says"
 excerpt: "Modern Proptech, Fintech, AI can enhance real estate transactions, but human contact is important, industry exec says."
 publishedDateTime: 2020-08-25T02:01:00Z
+originalUrl: "https://www.crowdfundinsider.com/2020/08/165671-modern-proptech-fintech-ai-can-enhance-real-estate-transactions-but-human-contact-is-important-industry-exec-says/"
 webUrl: "https://www.crowdfundinsider.com/2020/08/165671-modern-proptech-fintech-ai-can-enhance-real-estate-transactions-but-human-contact-is-important-industry-exec-says/"
 ampWebUrl: "https://www.crowdfundinsider.com/2020/08/165671-modern-proptech-fintech-ai-can-enhance-real-estate-transactions-but-human-contact-is-important-industry-exec-says/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/165671-modern-proptech-fintech-ai-can-enhance-real-estate-transactions-but-human-contact-is-important-industry-exec-says/amp/"

@@ -3,6 +3,7 @@ category: news
 title: "MobiusTrend: WIMI Enters Semiconductor Business with 3D Holographic Vision Chip Upgrading"
 excerpt: "MobiusTrend, a market research organization in Hong Kong, recently released a research report on ‘WIMI Enters Semiconductor Business with 3D"
 publishedDateTime: 2020-08-19T21:21:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/ab17164474/mobiustrend-wimi-enters-semiconductor-business-with-3d-holographic-vision-chip-upgrading"
 webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17164474/mobiustrend-wimi-enters-semiconductor-business-with-3d-holographic-vision-chip-upgrading"
 ampWebUrl: "https://amp.benzinga.com/amp/content/17164474"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17164474"

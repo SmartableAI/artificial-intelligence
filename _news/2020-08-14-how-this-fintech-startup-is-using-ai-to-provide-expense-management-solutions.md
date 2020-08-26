@@ -3,6 +3,7 @@ category: news
 title: "How This Fintech Startup Is Using AI To Provide Expense Management Solutions"
 excerpt: "One significant factor that is leading to higher demand for the fintech firms is the willingness to revamp the traditional systems."
 publishedDateTime: 2020-08-14T09:32:00Z
+originalUrl: "https://analyticsindiamag.com/how-this-fintech-startup-is-using-ai-to-provide-expense-management-solutions/"
 webUrl: "https://analyticsindiamag.com/how-this-fintech-startup-is-using-ai-to-provide-expense-management-solutions/"
 type: article
 quality: 36

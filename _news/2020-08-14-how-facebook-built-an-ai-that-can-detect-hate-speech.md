@@ -3,6 +3,7 @@ category: news
 title: "How Facebook built an AI that can detect hate speech"
 excerpt: "Advancements in AI have dramatically improved the company’s ability to identify written hate speech. But when it comes to rooting out hateful images, videos, and memes, Facebook’s AI has a long way to go."
 publishedDateTime: 2020-08-14T11:00:00Z
+originalUrl: "https://www.fastcompany.com/90539275/facebooks-ai-for-detecting-hate-speech-is-facing-its-biggest-challenge-yet"
 webUrl: "https://www.fastcompany.com/90539275/facebooks-ai-for-detecting-hate-speech-is-facing-its-biggest-challenge-yet"
 type: article
 quality: 41

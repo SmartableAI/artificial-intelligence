@@ -3,6 +3,7 @@ category: news
 title: "The 11 Fintech Startups in Mastercard’s Start Path Program That You Need to Know"
 excerpt: "Our friends at Mastercard have just unveiled the newest cohort for the award-winning Start Path program. Eleven innovative, later-stage, technology companies will work with Mastercard and its global network of experts for the next six months and beyond to scale their businesses."
 publishedDateTime: 2020-08-13T20:11:00Z
+originalUrl: "https://www.alleywatch.com/2020/08/the-11-fintech-startups-in-mastercards-start-path-program-that-you-need-to-know/"
 webUrl: "https://www.alleywatch.com/2020/08/the-11-fintech-startups-in-mastercards-start-path-program-that-you-need-to-know/"
 type: article
 quality: 19

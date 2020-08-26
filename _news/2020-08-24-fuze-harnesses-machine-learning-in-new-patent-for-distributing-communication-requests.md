@@ -3,6 +3,7 @@ category: news
 title: "Fuze Harnesses Machine Learning in New Patent for Distributing Communication Requests"
 excerpt: "Patent facilitates and enhances internal and customer communication patterns Fuze, the leading cloud-based communications provider for the modern global enterprise,"
 publishedDateTime: 2020-08-24T13:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/b17207693/fuze-harnesses-machine-learning-in-new-patent-for-distributing-communication-requests"
 webUrl: "https://www.benzinga.com/pressreleases/20/08/b17207693/fuze-harnesses-machine-learning-in-new-patent-for-distributing-communication-requests"
 ampWebUrl: "https://amp.benzinga.com/amp/content/17207693"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17207693"

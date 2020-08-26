@@ -3,6 +3,7 @@ category: news
 title: "ICYMI: Police Used Facial Recognition in Protester's Arrest, Numbers to Keep Handy for Hurricane Season"
 excerpt: "Here are some of the top stories from the past week you may have missed from NBC 6 News: Miami Police Used Facial Recognition Technology in Protester's Arrest. Police say Oriana A"
 publishedDateTime: 2020-08-23T14:08:00Z
+originalUrl: "https://www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/"
 webUrl: "https://www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/"
 ampWebUrl: "https://www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/?amp"
 cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/icymi-police-used-facial-recognition-in-protesters-arrest-numbers-to-keep-handy-for-hurricane-season/2282041/?amp"

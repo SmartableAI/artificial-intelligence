@@ -3,6 +3,7 @@ category: news
 title: "How To Deter Adversarial Attacks In Computer Vision Models"
 excerpt: "While computer vision has become one of the most used technologies across the globe, computer vision models are not immune to threats."
 publishedDateTime: 2020-08-15T06:32:00Z
+originalUrl: "https://analyticsindiamag.com/how-to-deter-adversarial-attacks-in-computer-vision-models/"
 webUrl: "https://analyticsindiamag.com/how-to-deter-adversarial-attacks-in-computer-vision-models/"
 type: article
 quality: 39

@@ -3,6 +3,7 @@ category: news
 title: "Microsoft’s Neural Text to Speech finally supports Hindi and English (India)"
 excerpt: "Microsoft has introduced 15 new languages to its Neural Text to Speech (Neural TTS) service language set including Hindi and English (India)."
 publishedDateTime: 2020-08-25T12:30:00Z
+originalUrl: "https://news.thewindowsclub.com/microsofts-neural-text-to-speech-finally-supports-hindi-and-english-india-102528/"
 webUrl: "https://news.thewindowsclub.com/microsofts-neural-text-to-speech-finally-supports-hindi-and-english-india-102528/"
 ampWebUrl: "https://news.thewindowsclub.com/microsofts-neural-text-to-speech-finally-supports-hindi-and-english-india-102528/amp/"
 cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsofts-neural-text-to-speech-finally-supports-hindi-and-english-india-102528/amp/"

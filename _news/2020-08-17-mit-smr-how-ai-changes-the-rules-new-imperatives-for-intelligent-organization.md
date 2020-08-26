@@ -1,26 +1,30 @@
 ---
 category: news
 title: "MIT SMR: How AI changes the rules: New Imperatives for Intelligent Organization"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-08-17T19:38:00Z
-originalUrl: "https://www.computerworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization"
-webUrl: "https://www.computerworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization"
+excerpt: "Many leaders are excited about AI’s potential to profoundly transform organizations by making them more innovative and productive. But implementing AI will also lead to significant changes in how organizations are managed,"
+publishedDateTime: 2020-08-17T18:45:00Z
+originalUrl: "https://www.infoworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization"
+webUrl: "https://www.infoworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization"
 type: article
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "hRk51BhP3Xy4/RoVrDnhtoA+oLjzIVlrj6vFlETTThkGBuQEawHglWbCcVDVBYw9ibj/wc7X+UCnp7K4vSRBE7LYSY7rqix/sqiTgk5Mizx7tH3/vP+dkalIE7+zsdI27NA7dS1PIF2UCN/4G5YDDpV73yWniMwQh+XWaGMv+j69LcilDxKB/2akO6v+Us8EjswP+QlyZiysPCIsLnXRGlwijPIEodbcydhDPQtayeoBRK/gkBhX1a7BWCUczxywcISiXBFHqazJ3BEz1recwIXjKp+4wVZw2U8/0XqkME6ud5yVzEshtlvKhKM9Td8J3aYaWEgYLVCaPVFxBdj95A==;0BT7GFL15q3wVZG/MwqR0A=="
+secured: "kHojTWK8OryQkYxzYoHkbmbCfz/2YHy37oEGlxI6wF8qP2fyYJ2fuGnu2M5Q3VLVobUMsoIHNDJrnSw7huWApGtoZxrXdfO+nYRb5MYEY0yBcq/o+qz3PfLhE+YdSlqs3btqt0/mtYf1dY/Sup2I5sivDvLKym/Xvn7rFe1tOv6UFLI/uKe/y1hueMngw2cftzB3gUnlU4pbSBD+nmaFzF3DokQF4jMcP6GA+8pT7MUR7FM2WHWtNOYg3GsytPuk2gpl/khuD+v25nzVTrZ4UDCIgDrW2nF+EcduVAdbgxDc+S1C8yhTQumb6KyfIiPTYBgZIp+OBJ/GeyoFSDuZA8e1Noz1onUYYE9w33/Ld9s=;JVHq5e+n6Gk/SuMNjDOG6g=="
 ---
 

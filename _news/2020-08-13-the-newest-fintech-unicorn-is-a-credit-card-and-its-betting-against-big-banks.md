@@ -3,6 +3,7 @@ category: news
 title: "The newest fintech unicorn is a credit card, and it's betting against big banks"
 excerpt: "Musician John Legend and former AOL CEO Tim Armstrong are among the big money backers behind credit.ai, a new fintech banking and credit platform, including its Unicorn Card, designed for millennials distrustful of big banks."
 publishedDateTime: 2020-08-13T12:57:00Z
+originalUrl: "https://www.cnbc.com/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html"
 webUrl: "https://www.cnbc.com/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html"
 ampWebUrl: "https://www.cnbc.com/amp/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html"

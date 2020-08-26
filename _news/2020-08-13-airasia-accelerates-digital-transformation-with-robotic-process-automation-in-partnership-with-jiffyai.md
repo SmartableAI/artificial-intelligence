@@ -3,6 +3,7 @@ category: news
 title: "AirAsia accelerates digital transformation with robotic process automation in partnership with JIFFY.ai"
 excerpt: "AirAsia Group is accelerating its ongoing digital transformation journey further by implementing robotic process automation (RPA) in collaboration with Silicon Valley and India-based enterprise automation platform JIFFY."
 publishedDateTime: 2020-08-13T06:48:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai-1029499616"
 webUrl: "https://markets.businessinsider.com/news/stocks/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai-1029499616"
 ampWebUrl: "https://markets.businessinsider.com/amp/news/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai-1029499616"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai-1029499616"

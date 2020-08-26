@@ -3,6 +3,7 @@ category: news
 title: "Brazil’s Money Management Fintech Allya to Use Machine Learning to Create Digital Assistant for Financial Advice after Successful Seed Round"
 excerpt: "The new solution will be implemented by using machine learning algorithms. The new product from Allya will try to understand consumers’ spending habits or behavior and offer practical advice and tips, so that they can effectively manage their earnings."
 publishedDateTime: 2020-08-18T22:36:00Z
+originalUrl: "https://www.crowdfundinsider.com/2020/08/165418-brazils-money-management-fintech-allya-to-use-machine-learning-to-create-digital-assistant-for-financial-advice-after-successful-seed-round/"
 webUrl: "https://www.crowdfundinsider.com/2020/08/165418-brazils-money-management-fintech-allya-to-use-machine-learning-to-create-digital-assistant-for-financial-advice-after-successful-seed-round/"
 ampWebUrl: "https://www.crowdfundinsider.com/2020/08/165418-brazils-money-management-fintech-allya-to-use-machine-learning-to-create-digital-assistant-for-financial-advice-after-successful-seed-round/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/165418-brazils-money-management-fintech-allya-to-use-machine-learning-to-create-digital-assistant-for-financial-advice-after-successful-seed-round/amp/"

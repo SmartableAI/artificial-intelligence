@@ -3,6 +3,7 @@ category: news
 title: "Microsoft strengthens translation support for Indian languages, adds Odia to Microsoft Translator"
 excerpt: "Microsoft India has announced the addition of Odia as the latest Indian language in Microsoft Translator. The cloud-based translation service will now offer real-time translation and transliteration for Odia."
 publishedDateTime: 2020-08-20T04:00:00Z
+originalUrl: "https://orissadiary.com/microsoft-strengthens-translation-support-for-indian-languages-adds-odia-to-microsoft-translator/"
 webUrl: "https://orissadiary.com/microsoft-strengthens-translation-support-for-indian-languages-adds-odia-to-microsoft-translator/"
 ampWebUrl: "https://orissadiary.com/microsoft-strengthens-translation-support-for-indian-languages-adds-odia-to-microsoft-translator/amp/"
 cdnAmpWebUrl: "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/microsoft-strengthens-translation-support-for-indian-languages-adds-odia-to-microsoft-translator/amp/"

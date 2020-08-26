@@ -3,6 +3,7 @@ category: news
 title: "Facebook AI researchers give MRI scanners a machine learning boost"
 excerpt: "The AI then compared its reconstructed images with the original full-resolution knee scans to hone its accuracy. Facebook’s researchers experimented with several thousand model variations before ..."
 publishedDateTime: 2020-08-18T17:41:00Z
+originalUrl: "https://siliconangle.com/2020/08/18/facebook-ai-researchers-give-mri-scanners-machine-learning-boost/"
 webUrl: "https://siliconangle.com/2020/08/18/facebook-ai-researchers-give-mri-scanners-machine-learning-boost/"
 type: article
 quality: 56

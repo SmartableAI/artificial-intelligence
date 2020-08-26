@@ -3,6 +3,7 @@ category: news
 title: "Machine Learning in Education Booming Segments; Investors Seeking Growth | Pearson, Bridge-U, DreamBox Learning"
 excerpt: "The study highlights detailed assessment of the Market and display market sizing trend by revenue & volume (if applicable), current growth factors, expert opinions, facts, and industry validated market development data."
 publishedDateTime: 2020-08-11T02:38:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/266055553/machine-learning-in-education-booming-segments-investors-seeking-growth--pearson-bridge-u-dreambox-learning"
 webUrl: "https://www.bignewsnetwork.com/news/266055553/machine-learning-in-education-booming-segments-investors-seeking-growth--pearson-bridge-u-dreambox-learning"
 type: article
 quality: 4

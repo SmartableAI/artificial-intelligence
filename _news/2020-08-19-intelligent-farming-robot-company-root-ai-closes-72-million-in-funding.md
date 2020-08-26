@@ -3,6 +3,7 @@ category: news
 title: "Intelligent Farming Robot Company Root AI Closes $7.2 Million In Funding"
 excerpt: "Intelligent farming robot company Root AI announced it has raised $7.2 million in a seed round ... “Beyond that, farmers could use the artificial intelligence on the platform to start driving a lot more insights on the farm, so that every single system ..."
 publishedDateTime: 2020-08-19T17:52:00Z
+originalUrl: "https://pulse2.com/root-ai-7-2-million-in-funding/"
 webUrl: "https://pulse2.com/root-ai-7-2-million-in-funding/"
 ampWebUrl: "https://pulse2.com/root-ai-7-2-million-in-funding/amp/"
 cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/root-ai-7-2-million-in-funding/amp/"

@@ -3,6 +3,7 @@ category: news
 title: "$1 Million Grant to Help Advance Machine Vision-Learning Technology"
 excerpt: "Learning Technology | Read more about UCF Colleges & Campus News, Research, Science & Technology, Orlando and Central Florida news."
 publishedDateTime: 2020-08-13T12:02:00Z
+originalUrl: "https://www.ucf.edu/news/1-million-grant-to-help-advance-machine-vision-learning-technology/"
 webUrl: "https://www.ucf.edu/news/1-million-grant-to-help-advance-machine-vision-learning-technology/"
 ampWebUrl: "https://www.ucf.edu/news/1-million-grant-to-help-advance-machine-vision-learning-technology/?amp"
 cdnAmpWebUrl: "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/1-million-grant-to-help-advance-machine-vision-learning-technology/?amp"
