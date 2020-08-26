@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Microsoft introduces Hindi and Indian English to its Neural Text-to-Speech service"
-excerpt: "Microsoft India has announced the addition of English (Indian) and Hindi to its Neural Text to Speech (TTS) service."
-publishedDateTime: 2020-08-25T10:06:00Z
-webUrl: "https://timesofindia.indiatimes.com/business/india-business/microsoft-introduces-hindi-and-indian-english-to-its-neural-text-to-speech-service/articleshow/77740061.cms"
-ampWebUrl: "https://m.timesofindia.com/business/india-business/microsoft-introduces-hindi-and-indian-english-to-its-neural-text-to-speech-service/amp_articleshow/77740061.cms"
-cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/microsoft-introduces-hindi-and-indian-english-to-its-neural-text-to-speech-service/amp_articleshow/77740061.cms"
+title: "Microsoft adds English (India), Hindi to speech service"
+excerpt: "Microsoft India on Tuesday announced the ... Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech for a more natural interface. The service also provides ..."
+publishedDateTime: 2020-08-26T01:18:00Z
+webUrl: "https://news.webindia123.com/news/articles/Science/20200826/3615913.html"
 type: article
-quality: 53
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://static.toiimg.com/photo/msid-77740230/77740230.jpg"
-    width: 1200
-    height: 900
-    isCached: true
 
 related:
   - title: "Microsoft introduces 15 new languages to its Neural Text-to-Speech service"
@@ -106,6 +98,22 @@ related:
         width: 600
         height: 451
         isCached: true
+  - title: "Microsoft introduces Hindi and Indian English to its Neural Text-to-Speech service"
+    excerpt: "Microsoft India has announced the addition of English (Indian) and Hindi to its Neural Text to Speech (TTS) service."
+    publishedDateTime: 2020-08-25T10:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/india-business/microsoft-introduces-hindi-and-indian-english-to-its-neural-text-to-speech-service/articleshow/77740061.cms"
+    ampWebUrl: "https://m.timesofindia.com/business/india-business/microsoft-introduces-hindi-and-indian-english-to-its-neural-text-to-speech-service/amp_articleshow/77740061.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/microsoft-introduces-hindi-and-indian-english-to-its-neural-text-to-speech-service/amp_articleshow/77740061.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 53
+    images:
+      - url: "https://static.toiimg.com/photo/msid-77740230/77740230.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Microsoft adds English and Hindi languages to its Neural Text to Speech service"
     excerpt: "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set.The Neural TTS service is part of the Azure Cognitive Serv"
     publishedDateTime: 2020-08-25T16:06:00Z
@@ -126,16 +134,7 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "Microsoft adds English (India), Hindi to speech service"
-    excerpt: "Microsoft India on Tuesday announced the ... Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech for a more natural interface. The service also provides ..."
-    publishedDateTime: 2020-08-26T01:18:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200826/3615913.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
-secured: "KbXGmXhrTBIm8ofcT96EhnG0UmZYt4t5Dg+9e/J+mz4eLjm+Ce+Sl4ZY6AVhia5XWEEzQ5VJ090+ZJUasWlOou+aO+hXOdkTLCrBFZMQJlddQ6DHirZgJKoAanaG5a4rBAht4/f5bobGHk3bCJOMIDhJqVPly1b8Lv94Ww9gFnG0O45UC9gKe2GF7AIJZGryXxNjOeL23lC4Q4ciHo3PySupITYaeFEC8EWmvhFfdUbS+qI15/HXpzCsdHOIDCAnRhShtEI+UVWAOFA58pyIXAhJXGj8P0q37Nx5j7idle0+R3sp8QZ0e0hTpHpdd9DsBMhCUYe5iShGfjAF77gee6WumRhXtph1yA7jn/oC97PN7q7MH2aZP1jimuLpQChTaPfRPkuvsy6+TzJbqPMle0Z9O0UZ1nRehM26yzPS/+nEqkygmT8kWARvXPUwCNptrz9/Rq5FfjbsRa2g9ox+27/zNRcv6+KDbit8qV5wI300gpfQU5bigbv0hO/7rwo8DpGRCz7J9AhYBczt+4ZosQ==;GCFBrD2j2huEeGsomaexMg=="
+secured: "BhA8iHpMf0BsqHyuceSA5/7ycJb1TuVhu6lM5XmN6EanxuXUYFz/eqKGrYICAhkPmRsmbpSit4QzH1CiNakmCGcrNptkJvQwA/wdsRjl/076qQQUIRhMO0hDaok+mSCVNDkK0i1Kf1bhKw6aqdBJzdP8M7yEpr5e9tzUvMSWBiNgwnNxilA9Q3MUMjF+1gIQqs8dshvTGS4V3y6fXaJg7xHf2MUK8Zs3ZQQCGRrK/JzfgWegZwtRjNFhmtEppU/+6HN+gHVyxxEYCe6EUoBMYrrSiOs/76cH+4MU6Iq6lZ1cQKNRn0ii9EDV/qiIG/ktZ5t2H0lhrPrJ/+QDSf+1zw==;FAfzNGzR88SBoptYj5mZ5g=="
 ---
 

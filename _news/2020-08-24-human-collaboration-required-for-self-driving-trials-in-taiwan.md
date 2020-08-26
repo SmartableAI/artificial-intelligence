@@ -27,7 +27,7 @@ related:
   - title: "Weil, Orrick Lead SPAC Deal For $3.4B Self-Driving Tech Co."
     excerpt: "Autonomous driving technology developer Luminar on Monday agreed to merge with a private equity-backed special purpose acquisition vehicle to create a single publicly traded entity with an equity value of about $3."
     publishedDateTime: 2020-08-24T18:24:00Z
-    webUrl: "https://www.law360.com/articles/1303676"
+    webUrl: "https://www.law360.com/articles/1303676/weil-orrick-lead-spac-deal-for-3-4b-self-driving-tech-co"
     ampWebUrl: "https://www.law360.com/amp/articles/1303676"
     cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1303676"
     type: article

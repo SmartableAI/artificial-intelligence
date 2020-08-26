@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-s
 ampWebUrl: "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/amp/"
 type: article
-quality: 81
-heat: 81
+quality: 83
+heat: 83
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/08/tminus-ai-cover.jpg?w=1200&#038;strip=all"
@@ -29,6 +30,6 @@ images:
     height: 614
     isCached: true
 
-secured: "+R0QcihLPeFiMEwg5XGUfY+iZPPlpzZ3AeTC+ra50SagvYLhq1nmqDJecBuRjPRLdgkHn6Ctv+tZaeUGgcJ+g6Asc2UvLuXQaarT7knW3qudHWyGpOZI7zeh6RTxb0VJ6NCl20PwDk8XeqURwI4wdE5mGMmBXz1Gp6SB+ve/OapOG2aAvwOK4rwyXWbeoNShFEnt9Ldfaf+G9s4FRhBR6xYtrB4lktL5DuoDlO4H3nH2rucrV36yL78FBFhYCOQsdAmTuqyvlOZ2pZ5mlkbJZtCF4Hkid5Tv6tovVPEntffC6eQsM5Y1zqWBNx/SAdKPa8bEGV8Vuf22WSiKpFaWqw==;Uq15fHh8XOzjWV+cYO6s/w=="
+secured: "4JsNFszvvFwtuWwKP0eOrMtOoaUXhiuKDQarfoNgBm9K864UmPh8PBADZXamLCoBQvLj/zwXD83XcIxWkYKPV3DDjpOt2Bf2RuGs12TrfyM+vswfxaddYX/7KmqjiAm6GL55gCiAo5S06tADYhENcM4s//T8H69mW5uNz2KAiUsVqgwj4xRvoUeT/LYHafHQS2ucf0w8dOLtVBSLs9RyTyBMlfaZXyvDSOex/MRQVmvXlwVbg0Y4CEGDbj1hvo27znxrnxhtcUd3eRGTc2SOHcNE0Ldgtank0LfOQuzVXhkk5Bvu7CKUMNgXhIHXv9LcdxorcGFpzGHl0MG3QiFGxd5XIidc2uX73NMci0dE4Zca+YB2W8efINVUK72i/3PbcpLVlybUzSJ7ktjN09L8PF/IQiryuvOUCo/9oWcrjdJU/OHzlqhbJ4Ha+eHolbs+EYCsTH6bPQKMYsnJfylUK0PPkBYuw7US2DqbG/BZvuUFysGCPYE5PheaFMA8Q7gUX3aFf+g610WCa0IoqBlPAQ==;iWvtL42nbAu0a175YMLh3A=="
 ---
 

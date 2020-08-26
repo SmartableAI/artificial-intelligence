@@ -48,6 +48,17 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 29
+  - title: "HGS Digital joins Amazon Web Services Contact Center Intelligence solutions partner program"
+    excerpt: "With 61 delivery centers in 7 countries, HGS successfully manages billions of customer interactions every year"
+    publishedDateTime: 2020-08-26T00:15:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 29
 
 secured: "Pl83UNriDDpOIit2pXaGdLvq6ZSD5Qe9qhaSG/d9DY5An0Hjr5teAmVNwXhfN3MHGoDCeTujYMWtUqkc9s7yRJ7SSqCX9Nw7eWcUL7IJIv9mcGpjU70e2ei8aCU6Y0fr1CkdUdx9WM9HppWEHxcS4zm2Rc20P3rzfpxwI1HRiAMYol/T5sPdvumeQUdf/DeH5jEugZnL3IPbsX9CrbU+dY7LpjfzPyjhSKgrl0irXXhAFULkVZQ1FQZgcTitT/jrp0Zpc0IZGge08tITL0Jb15Go7Y3gFZyQ6q+wi60GyQmeYnKoPx8BowegCsp3ZDpZOgS0YQmm1kwzJAWcwYkOvQ==;CGU148YzGJTVh2N8E4jhZQ=="
 ---
