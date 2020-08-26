@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-21T07:41:00Z
 webUrl: "https://seekingalpha.com/news/3607757-astrazeneca-teams-up-renalytix-ai-in-chronic-diseases"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -15,22 +15,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "RenalytixAI to Collaborate with AstraZeneca to Improve Outcomes for Patients with Chronic Disease"
-    excerpt: "(GLOBE NEWSWIRE) -- Renalytix AI plc (LSE: RENX) (NASDAQ: RNLX), today announced a collaboration with AstraZeneca (LSE/STO/NYSE: AZN) to develop and launch precision medicine strategies for cardiovascular,"
-    publishedDateTime: 2020-08-21T07:00:00Z
-    webUrl: "https://apnews.com/bb576a57c6cffad3a648ae0c5ea6e32d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "H1DYW3dBdGyys+yj67/MuehZspp3t6j3m+Hs86WFZCefmRn5KEZa2bpa8u+7whHKaltDq2SOp7N3uFuzGtAS4MD2ZUM3+nzI4bW4nZMnaDo9bzJJMBzwA1pi/Z2hmSOoZzneE1VMep6flJU97AVnL0U7bDKhbxAKJF6mjppjfKlplxMFEIgppJWi60dpOnYJ7rFuZUmDIUS+FV/sXeHIAGdGRbeW1CyCA4pg5UoVy6n0be5BBeyADJOpEsy9u9cu65eyOFkfsxjkskeI86IWHXBKcF9f1O9vR62suJLRtWOkWQRliubYdkjHe67MPCrVAwArpJ1aWxQdJ6/OYyZlTA==;7DpjY853M3ROB7xMeJei9g=="
 ---

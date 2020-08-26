@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-st
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/amp/"
 type: article
 quality: 106
-heat: 107
+heat: 106
 published: true
 
 provider:

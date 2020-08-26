@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/08/24/why-the-nonprofit-openai-ma
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/24/why-the-nonprofit-openai-made-gpt-3-a-commercial-product-syndication/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 89
 published: true
 
 provider:

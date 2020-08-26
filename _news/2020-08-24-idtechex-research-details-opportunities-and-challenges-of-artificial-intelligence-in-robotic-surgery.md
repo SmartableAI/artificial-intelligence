@@ -1,22 +1,28 @@
 ---
 category: news
 title: "IDTechEx Research Details Opportunities and Challenges of Artificial Intelligence in Robotic Surgery"
-excerpt: "In its recently published report \"Innovations in Robotic Surgery 2020-2030: Technologies, Players & Markets\", IDTechEx reports that the"
-publishedDateTime: 2020-08-24T15:50:00Z
-webUrl: "https://www.prnewswire.com/news-releases/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-301117152.html"
+excerpt: "The rapid progress of artificial intelligence (AI) technologies in the last 5-10 years has led many to associate it with robotic surgery systems. Currently, however, few robotic surgery systems are equipped with AI-driven human-robot interaction capabilities."
+publishedDateTime: 2020-08-24T16:05:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "LboLgfMK4fEJQn4TOiFSvAcCr7fgATfKPvgxjrhnMc9X9VSR1uV95Af/FSpkFijYiTx0GzFSWJY8piwmJ0eMrbkiMRPf5nJ6OBMqTm4UfR6CwEAp5Gaw9ey3lEskkyNHrUyFwEsRIKwrvgKTZUqvqRR3aH8kZBvaC/yuoMyN7eZ2faV/9sLhp0jil/1a9AiQHgF+8l8iDhqFi9AA3dHi8FenGpGj+k53W/O3ZR+EopeU6rvldBVswsfvUJCxfyKI811Qa7vmNeRs0XxoeFZwtrfRSF8bLdgcjeOpK94nkeN0FkMRL+DNtS4E1jyremqvjHD8FFZcMaIlEer9R2/9yA==;2Ft7vf1GMaWM17Ju0Iip3Q=="
+secured: "0MBVfvQ7M8uLYb13dIvcQwA4cnfG0IoMCAg8exkawxBkFSiCKKu3AqZk7Y1dw/QSACNjNJq4pM6+w5ySShnbl9AWF0xLdxWDMO8Q4JsnBXFI2t6E8X+jtU+fM8MPoCKVK14lIWFLPYMCW5pspJI0q0QfyUlpVZH/WWz35ZzJPkekv5L79wfMEujSObjJtjU2qVkbERHtHEu7ZUhb9lmOfwIaCzoQaxosStzTxP1UFIP087721XCyGALDxpLndcyD80I5uCyb/sZ3JqTKLJ1dxOWeXw3ZO42uok6CdObwcDNjbo4wJ9VIVrz/dkS5ze/zxna8ULPDNOb9Yr7d6VQp8w==;/ECJw/dowxxnnaX9TjslWA=="
 ---
 

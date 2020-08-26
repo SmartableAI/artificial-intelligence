@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-25T09:41:00Z
 webUrl: "https://www.wpxi.com/news/top-stories/councilman-introduce-bill-regulating-facial-recognition-technology-pittsburgh/AW622P7ZUBG6VJNTWLHSXLATUA/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Is facial recognition technology finally being seen for the dystopian threat it is?"
-    excerpt: "In the end, even Silicon Valley has had to admit that there is something a bit sinister about facial recognition"
-    publishedDateTime: 2020-08-21T05:25:00Z
-    webUrl: "https://www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/"
-    ampWebUrl: "https://www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/amp/"
+  - title: "Pittsburgh Councilman to introduce bill that restricts facial recognition use"
+    excerpt: "Pittsburgh City Councilman Corey O’Connor intends to introduce legislation Tuesday that would regulate the usage of facial recognition and predictive policing technology in the city. “This technology has harmed more people than it’s helped,"
+    publishedDateTime: 2020-08-24T20:20:00Z
+    webUrl: "https://triblive.com/local/pittsburgh-councilman-to-introduce-bill-that-restricts-facial-recognition-use/"
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 53
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2020/08/869082432.jpg"
-        width: 1024
-        height: 651
-        isCached: true
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 16
 
 secured: "a27/miyTM7h8X8JxcECH7SD1gRxBTm7Mif32ISK91phomeUqWNkrRIDuGLh7GN8lQjE6Z/7P49z/WGUAQelqMSOtBB087oz6NVESRShZuFKsZH467E9pmYyCGVzhpVn6UIvsmf5EcD1J/yI487Y1JElgJUSdsO2Zgbcgz/te5z36Nyb6qcCITPXoefT/sZ9Oer4dUXkW1Zf2P7OcHxL124H+iE2KUGi1hTcYtYBsJ0gDCwDociP09WXAV4qWnluuQuQKvFeBOwozl2LL4y5sVQDQnH8spxdtcZSNS44WNHvOqbCvXGG1urI9QJQOFS/Q5lXHvSDVNwaSJfwzQ5ccQY5tsv2K8npaIMhW5FBW+NbueFcSa1kNziW/mifG+E7zif24tNzmeGIdEef08INrfRjkRT2L3G2yMtF6CRW2N6PM6bRr4vFLlngjzlatdDhDJc5kBcWH6byLgJn5sDplRRblJU4o5zX+8OUhkrZ1A1s9xg+g3QvbS+6qWR8FvnL1pdR/AzxuSNAcEaVC1GAx5A==;DsFGO1H7M4Xb02luD6hMDA=="
 ---

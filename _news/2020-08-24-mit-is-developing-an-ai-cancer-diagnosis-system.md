@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/mit-is-developing-an-ai-cancer-diagnosis-system-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mit-is-developing-an-ai-cancer-diagnosis-system-1699916919/amp"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 800
     height: 362
     isCached: true
-
-related:
-  - title: "Can AI doctors be better at patient care, diagnosis, and treatment?"
-    excerpt: "Common knowledge says AI today is diagnosing, learning to identify, and helping simplify complicated situations and pass them on to doctors and nurses who are ready to handle them. Or are they? Some 367 healthcare AI start-ups received $4bn in funding last year,"
-    publishedDateTime: 2020-08-21T06:05:00Z
-    webUrl: "https://www.ameinfo.com/industry/healthcare/can-ai-doctors-be-better-at-patient-care-diagnosis-and-treatment"
-    type: article
-    provider:
-      name: AMEinfo.com
-      domain: ameinfo.com
-    quality: 19
 
 secured: "vQG7ID5w1U3z5Yx0e98MjFFwFDSCTNX5GjlPoVCd2HvyNiruGzh/iNyozXcyGTwJkZmlQ3/6PHsTdQyzKO4Turu8K7WpKVxYuZtTqyTsupIZXM1THIHaKlIDaS2VFjNOa94vLNtVXKw8LQqL07osjKuAqD/dK9/8cNXoBfnNluTjQOUex8Y1zfpwHRvZT4jAkC4JPO0vyI2W2rhMcN15kl2vgDbHEz2hLxo+lwGnAUZovVP7LfHM/xq5ZeQ+MvPLQQ8UqCyN04oN/O32DPPyYIIkAbOt9im1IufbELDn3g3Qow8b0DXyAV5pnc6Lk3vkMEA2W0fbNa50IOkCXQf3hYAFC7f9jc+jKyRsmDZF1TOFbST1crVaD3qGJ9asHsRpwqzd1wm7B3i+wP7PAjSf+4crwSAJfBbAv3V1njryE2FaDNoa/qOpmvkrSkmZq6kTLGkh9GU9VjRn3flwOAzJh/DoWKKiuzZFaigXR5wJ1ZltARTVsOXA9YLFndldGwqYqhEJwBValNHnUZXmvH6I9A==;BRdSaxEehTFMW7s/hFk6dA=="
 ---
