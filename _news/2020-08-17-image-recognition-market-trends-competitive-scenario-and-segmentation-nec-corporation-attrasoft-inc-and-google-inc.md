@@ -3,6 +3,7 @@ category: news
 title: "Image Recognition Market Trends, Competitive Scenario and Segmentation| NEC Corporation, Attrasoft Inc and Google Inc"
 excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of ..."
 publishedDateTime: 2020-08-17T05:49:00Z
+originalUrl: "https://www.marketwatch.com/press-release/image-recognition-market-trends-competitive-scenario-and-segmentation-nec-corporation-attrasoft-inc-and-google-inc-2020-08-17"
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-trends-competitive-scenario-and-segmentation-nec-corporation-attrasoft-inc-and-google-inc-2020-08-17"
 type: article
 quality: 31

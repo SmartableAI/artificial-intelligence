@@ -2,6 +2,47 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-07-30-googles-new-supercomputer-breaks-ai-records-setting-new-performance-ones.md",
+      "title": "Google's new supercomputer breaks AI records setting new performance ones",
+      "excerpt": "Google's latest TPU supercomputer can train the same model almost five orders of magnitude faster just five years later.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news-google-supercomputer-nvidia-gpus-break-ai-performance-records-638280",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/07/ai-1-1596100384.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-google-supercomputer-nvidia-gpus-break-ai-performance-records-638280",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-google-supercomputer-nvidia-gpus-break-ai-performance-records-638280",
+      "publishedDateTime": "2020-07-30T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-cloudswyft-and-futurelearn-launch-new-microsoft-ai-microcredential.md",
       "title": "CloudSwyft and FutureLearn launch new Microsoft AI microcredential",
       "excerpt": "The first course, entitled Artificial Intelligence on Microsoft Azure: Machine Learning and Python Basics, has launched and is now open for enrolment. The user experience for each course is ...",
@@ -1076,38 +1117,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-ai-powered-robots-will-replace-humans-on-the-shopfloor-if-not-integrated.md",
-      "title": "AI POWERED ROBOTS WILL REPLACE HUMANS ON THE SHOPFLOOR IF NOT INTEGRATED",
-      "excerpt": "Automation will enhance and complement human activity, resulting in safer and less repetitive roles for workers • 60% of manufacturers that have introduced AI are using it to support their workforce •",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturingtomorrow.com/news/2020/07/29/ai-powered-robots-will-replace-humans-on-the-shopfloor-if-not-integrated-/15615/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturingtomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

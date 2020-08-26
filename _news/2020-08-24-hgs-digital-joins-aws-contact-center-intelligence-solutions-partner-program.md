@@ -3,6 +3,7 @@ category: news
 title: "HGS DIGITAL Joins AWS Contact Center Intelligence Solutions Partner Program"
 excerpt: "HGS Digital LLC, a subsidiary of Hinduja Global Solutions Ltd (listed in BSE & NSE), today announced its participation as an Amazon"
 publishedDateTime: 2020-08-24T19:06:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-301117280.html"
 webUrl: "https://www.prnewswire.com/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-301117280.html"
 type: article
 quality: 37

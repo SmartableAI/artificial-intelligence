@@ -52,19 +52,19 @@ related:
         width: 830
         height: 498
         isCached: true
-  - title: "UC Davis to lead new artificial intelligence institute for next generation food systems"
-    excerpt: "UC Davis has been awarded $20 million as part of a multi-institutional collaboration to establish a new institute focused on enabling the next generation food system through the integration of artificial intelligence (AI) technologies."
-    publishedDateTime: 2020-08-26T13:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php"
+  - title: "UC Davis to Lead New Artificial Intelligence Institute for Next-Generation Food Systems"
+    excerpt: "The University of California, Davis, has been awarded $20 million as part of a multi-institutional collaboration to establish an institute focused on enabling the next-generation food system through the integration of artificial intelligence,"
+    publishedDateTime: 2020-08-26T17:04:00Z
+    webUrl: "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
+      name: University of California, Davis
+      domain: ucdavis.edu
+    quality: 31
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/241215_web.jpg"
-        width: 1440
-        height: 1080
+      - url: "https://www.ucdavis.edu/sites/default/files/images/article/30779898645_4fbbf266a5_k.jpg"
+        width: 2048
+        height: 1536
         isCached: true
   - title: "National Science Foundation awards $20M to launch artificial-intelligence institute"
     excerpt: "The National Science Foundation has awarded a five-year, $20 million grant to a team of scientists Harvard, MIT, Northeastern, and Tufts to create a new research institute aimed at exploring the use of artificial intelligence in fundamental physics."

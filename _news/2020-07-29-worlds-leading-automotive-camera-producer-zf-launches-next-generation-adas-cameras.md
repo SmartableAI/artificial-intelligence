@@ -3,6 +3,7 @@ category: news
 title: "World's leading automotive camera producer ZF launches next-generation ADAS cameras"
 excerpt: "ZF, the world's leading supplier of automotive cameras, today announced it has launched its S-Cam4.8 with enhanced vision technology"
 publishedDateTime: 2020-07-29T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/worlds-leading-automotive-camera-producer-zf-launches-next-generation-adas-cameras-301102043.html"
 webUrl: "https://www.prnewswire.com/news-releases/worlds-leading-automotive-camera-producer-zf-launches-next-generation-adas-cameras-301102043.html"
 type: article
 quality: 18

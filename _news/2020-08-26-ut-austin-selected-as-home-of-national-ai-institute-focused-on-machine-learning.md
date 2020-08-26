@@ -39,6 +39,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "UC Davis to Lead New Artificial Intelligence Institute for Next-Generation Food Systems"
+    excerpt: "The University of California, Davis, has been awarded $20 million as part of a multi-institutional collaboration to establish an institute focused on enabling the next-generation food system through the integration of artificial intelligence,"
+    publishedDateTime: 2020-08-26T17:04:00Z
+    webUrl: "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems"
+    type: article
+    provider:
+      name: University of California, Davis
+      domain: ucdavis.edu
+    quality: 31
+    images:
+      - url: "https://www.ucdavis.edu/sites/default/files/images/article/30779898645_4fbbf266a5_k.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "$20 million NSF grant for new artificial intelligence institute for molecule synthesis"
     excerpt: "A team led by Steven L. Miller Chair professor of chemical and biomolecular engineering at the University of Illinois, Huimin Zhao, was awarded a five-year $20 million grant from the National Science Foundation (NSF) for the NSF Artificial Intelligence (AI) Institute for Molecular Discovery,"
     publishedDateTime: 2020-08-26T13:17:00Z
@@ -52,20 +66,6 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/241155_web.jpg"
         width: 600
         height: 430
-        isCached: true
-  - title: "UC Davis to lead new artificial intelligence institute for next generation food systems"
-    excerpt: "UC Davis has been awarded $20 million as part of a multi-institutional collaboration to establish a new institute focused on enabling the next generation food system through the integration of artificial intelligence (AI) technologies."
-    publishedDateTime: 2020-08-26T13:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/241215_web.jpg"
-        width: 1440
-        height: 1080
         isCached: true
   - title: "National Science Foundation awards $20M to launch artificial-intelligence institute"
     excerpt: "The National Science Foundation has awarded a five-year, $20 million grant to a team of scientists Harvard, MIT, Northeastern, and Tufts to create a new research institute aimed at exploring the use of artificial intelligence in fundamental physics."
@@ -82,6 +82,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Gom2stPHyq+CT5s6DEqAV+t6fTQM5xqV/igrLTT0LZgzYxCFBugzEJrWMwGw8Wy9rTzPT7Es0I0FCA4b04CfKmuvY8qPBQw1UaBZIy/yxIB15oBtxbFvQD/wzN1kJhgpy5BM+5yF37T76hmU104/fBG1WUJSgZWe5nv45LSXTne03Sgq5wnvZjVaEqPIywCCkEBdSrvdtJ6dMeRcnI7F3Uk7biwqRmecdFrg/SHXRYTg7lPu3TbY1eH9cLGqQquCuBRrZ5g0SbsDbGwrauEMtVYqSJM4Xf/fxGOcX1VLnUmZR2JlTYzQX1B0eFw6iCRRq7C+IeO1O7N/URMZHWYok3wtbmU60tqAB5RjyNLTfac=;dxNxCakBJTb8Kc72jFQhKQ=="
+secured: "/CePY3F6nOK5AAR9msiQHujwN3oCDiN4w4QUkZ06SoT07QTHLqni1lTk0igvnZnbys3bX19iDPl/NTQrDsTj3JGtpgWQja37ayS6OqrI8QHEynC6bZJjHmHxrwvWvGI5+ZArSkwugBqSKxt1xRfWjyZ/5539r/+OsMxX7BudLhshBk/2i7/Na9/R2eWmVdncLH2Ieyg6fKpXqRM+4jkEOud/+m4TvX4hkxhBxAWAGxe5ofO/aEqWDXL9Sop/xtjPWGZG8PhsJAJC4Jw9dSHVEmNzqkMobG3xKEOWau1PFKUsmt+5drZUDdRC2BY/uOtxxPKianlDT1WQ6hkCOdyI+fxls1Kk51jNZBzvQdpSKSQ=;0cFm6Ty23lOKIFnaMUP60Q=="
 ---
 

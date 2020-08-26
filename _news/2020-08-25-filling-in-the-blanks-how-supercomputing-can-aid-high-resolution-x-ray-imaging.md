@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2020-08-blanks-supercomputing-aid-high-resolut
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-blanks-supercomputing-aid-high-resolution-x-ray.amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Congressional AI Resolution Coming Soon, Lawmakers Say"
+    excerpt: "Reps. Will Hurd and Robin Kelly plan to introduce an AI resolution celebrating past innovations and laying the groundwork for future legislation."
+    publishedDateTime: 2020-08-26T16:59:00Z
+    webUrl: "https://www.nextgov.com/policy/2020/08/congressional-ai-resolution-coming-soon-lawmakers-say/168005/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/08/26/shutterstock_634024823_3/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Filling in the blanks: How supercomputing can aid high-resolution X-ray imaging"
     excerpt: "The same holds true for X-ray imaging, although on a much smaller scale. Light sources like the Advanced Photon Source (APS), a U.S. Department of Energy (DOE) User Facility located at DOE's Argonne National Laboratory,"
     publishedDateTime: 2020-08-24T21:04:00Z

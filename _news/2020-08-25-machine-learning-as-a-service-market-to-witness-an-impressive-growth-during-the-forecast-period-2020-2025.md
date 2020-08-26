@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Products Market Worth Observing Growth : Open AI, Nuance Communications, Google"
+    excerpt: "Global Artificial Intelligence Products market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market."
+    publishedDateTime: 2020-08-26T18:18:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266211653/artificial-intelligence-products-market-worth-observing-growth--open-ai-nuance-communications-google"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 36
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1598435965.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Global Big Data Analytics Market Fueling Artificial Intelligence 2020: Predictive Analytics and Security Applications Present Key Growth Opportunities"
     excerpt: "The \"Global Big Data Analytics Market Fueling Artificial Intelligence, 2020\" report has been added to ResearchAndMarkets.com's offering. For over a decade, Benzinga has lead the way when it comes to investor access to information."
     publishedDateTime: 2020-08-24T12:09:00Z

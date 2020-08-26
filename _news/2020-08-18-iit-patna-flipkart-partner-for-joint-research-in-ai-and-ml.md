@@ -1,28 +1,22 @@
 ---
 category: news
 title: "IIT Patna, Flipkart partner for joint research in AI and ML"
-excerpt: "The e-commerce platform expects to foster an environment of collaboration in the areas of automation, AI, NLP and ML ... the Indian vernacular languages, according to the Institute. \"And at the same time will ensure that the translation process should ..."
-publishedDateTime: 2020-08-18T09:05:00Z
-originalUrl: "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873"
-webUrl: "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873"
-ampWebUrl: "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873"
-cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873"
+excerpt: "The e-commerce platform expects to foster an environment of collaboration in the areas of automation, AI ... languages, according to the Institute. \"And at the same time will ensure that the ..."
+publishedDateTime: 2020-08-18T14:15:00Z
+originalUrl: "https://www.sify.com/finance/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-news-topnews-uisjkCadhbdbb.html"
+webUrl: "https://www.sify.com/finance/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-news-topnews-uisjkCadhbdbb.html"
+ampWebUrl: "https://www.sify.com/finance/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-news-topnews-uisjkCadhbdbb.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-news-topnews-uisjkCadhbdbb.html"
 type: article
 
 provider:
-  name: The Tribune
-  domain: tribuneindia.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_776851092.jpg"
-    width: 900
-    height: 600
-    isCached: true
-
-secured: "id9T9LDlt28klgUPuT+mQlRaP16i/31y+DqpMjPIMHIshJ404EieVTpoVjo6yWb7/B/9WH2AluL7Mz4tq5m8I7RZoPxWoNaYHAQpHW8EycUFKW/dEc5F4KJ45iU5e/PUtVWY7GWqy391iNWo1Kyh6dWoTzcxdOXdelsFz0peROC7h10FqkrS2WmEnM88GB05Li/3X+kn2ldJZjeYCiiBA5KYjgQbX88ghBFaD8Ii/ISFP+S42k6datv9PXkwMMd8p5qq3LllVsYjdXCM7cfogZe+KfN4r1u/32JdX3q/WwNNAaRIQt2zyCSYFZI1AhUuKJZRMxbLKauykHC1XzPP7x2gILFIGGMo5qsdGeKKNOC9kTBSQCs4D4inlWR9xYO6Frh6DKfI1lUGK5QYj/9B4ZVNDahmtjm9ZR78owPtQroVB0AePNjuv9s36eRxOpNfvB6vNhDzjG/HPtHoru8ULzx09tgcr0lxzVO+M1H5zsquA7h4qUjSQ0/uGqeUDIsj/L04X4iTxQlh999iRaTTsw==;/EO7ZsZAHi26GQqB9iZ5Eg=="
+secured: "WQYMUj+JCl5OBVY3WzNpUK+b5c1m0chtz4myuxVPGJrPJlvZHCeqxP+9MK+4iu+Ohgx2R0OO6a01lqP/tk1rEuYQ3y+8cXnTuHOwkfl9VU/WOh0apokgJ/i5NbPjAVaImq5xV9VN07XzGuJ+xHQDK+VHng9URHMrMaR2t6kZCZhUbP2J7nNGkBdqQkp0juODn70g7m1HkY2QBvAAiJk769pTSuUF2xrk/7rCuZLohiQG4hdKVpSJllsveWg3shKXPB16jG1JC2bD7t6Ql5q6r6LHAWclX2T18z4bTjHwVxxKSEJ6+O1uDRcbU1n4s2aWQIoNo32bG6D+4uAik5pKO+XXhNDfnR0gJjch3iOm4Qo=;f6bg41RGEieyVtrP0OFo5g=="
 ---
 

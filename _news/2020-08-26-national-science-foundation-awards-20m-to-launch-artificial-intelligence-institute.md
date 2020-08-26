@@ -53,6 +53,20 @@ related:
         width: 830
         height: 498
         isCached: true
+  - title: "UC Davis to Lead New Artificial Intelligence Institute for Next-Generation Food Systems"
+    excerpt: "The University of California, Davis, has been awarded $20 million as part of a multi-institutional collaboration to establish an institute focused on enabling the next-generation food system through the integration of artificial intelligence,"
+    publishedDateTime: 2020-08-26T17:04:00Z
+    webUrl: "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems"
+    type: article
+    provider:
+      name: University of California, Davis
+      domain: ucdavis.edu
+    quality: 31
+    images:
+      - url: "https://www.ucdavis.edu/sites/default/files/images/article/30779898645_4fbbf266a5_k.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "$20 million NSF grant for new artificial intelligence institute for molecule synthesis"
     excerpt: "A team led by Steven L. Miller Chair professor of chemical and biomolecular engineering at the University of Illinois, Huimin Zhao, was awarded a five-year $20 million grant from the National Science Foundation (NSF) for the NSF Artificial Intelligence (AI) Institute for Molecular Discovery,"
     publishedDateTime: 2020-08-26T13:17:00Z
@@ -66,20 +80,6 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/241155_web.jpg"
         width: 600
         height: 430
-        isCached: true
-  - title: "UC Davis to lead new artificial intelligence institute for next generation food systems"
-    excerpt: "UC Davis has been awarded $20 million as part of a multi-institutional collaboration to establish a new institute focused on enabling the next generation food system through the integration of artificial intelligence (AI) technologies."
-    publishedDateTime: 2020-08-26T13:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/241215_web.jpg"
-        width: 1440
-        height: 1080
         isCached: true
 
 secured: "YCnJuziw5IAGMXUIjgC5xir24p8rejQ90//VC8V33+LuoaIT+ydcZeKAqKQncLWA+zTHQ4pT7GgTeOG/gUs5eypCaSk5hmXwuHhhtmjsZU/IcGXhMbUbLLCL3uRdk08v/qZ//ABXMNjhh9xIGusJMw5OgXm+QtHMfv840P8GLJLzrdxuUaVaT601/Z1KqjqFv/RXAmoTVy6at7hQGWOoT93GDoxkqfRBeCU0XJm4e0vjOhXWWRrC6X8aRK75909EaKGx1HtGgc/0qglA1oxjWm5qg+PRV17vn20tS4HiXpR03Vzv5z7lWATnLGErjc97RFf6M0yjHLPpv6tmQNo/OBlq8n0vvrlbt4YNF2g7jrI=;iQTVpMxj62sDS3ut+Z2n1g=="
