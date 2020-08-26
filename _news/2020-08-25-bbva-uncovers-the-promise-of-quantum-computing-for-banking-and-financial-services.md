@@ -3,6 +3,7 @@ category: news
 title: "BBVA Uncovers The Promise Of Quantum Computing For Banking And Financial Services"
 excerpt: "Will quantum computing drive financial services to a new level of digital transformation? BBVA has been investigating its impact on complex banking, investment and trading challenges."
 publishedDateTime: 2020-08-25T13:05:00Z
+originalUrl: "https://www.forbes.com/sites/gilpress/2020/08/25/bbva-uncovers-the-promise-of-quantum-computing-for-banking-and-financial-services/"
 webUrl: "https://www.forbes.com/sites/gilpress/2020/08/25/bbva-uncovers-the-promise-of-quantum-computing-for-banking-and-financial-services/"
 type: article
 quality: 64

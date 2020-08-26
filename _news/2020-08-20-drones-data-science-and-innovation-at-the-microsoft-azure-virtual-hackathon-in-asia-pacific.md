@@ -3,6 +3,7 @@ category: news
 title: "Drones, data science and innovation at the Microsoft Azure Virtual Hackathon in Asia Pacific"
 excerpt: "By Ricky Kapur, Vice President of Sales, Marketing and Operations, Pacific Innovation comes when developers tackle challenges in new and creative ways. And a hackathon is an excellent opportunity for them to think outside of the box and flex their problem-solving skills."
 publishedDateTime: 2020-08-20T07:44:00Z
+originalUrl: "https://news.microsoft.com/apac/2020/08/20/drones-data-science-and-innovation-at-the-microsoft-azure-virtual-hackathon-in-asia-pacific/"
 webUrl: "https://news.microsoft.com/apac/2020/08/20/drones-data-science-and-innovation-at-the-microsoft-azure-virtual-hackathon-in-asia-pacific/"
 type: article
 quality: 43

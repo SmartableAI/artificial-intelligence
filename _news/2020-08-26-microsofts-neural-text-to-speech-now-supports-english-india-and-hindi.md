@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Microsoft adds English and Hindi languages to its Neural Text to Speech service"
-excerpt: "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set.The Neural TTS service is part of the Azure Cognitive Serv"
-publishedDateTime: 2020-08-25T16:06:00Z
-originalUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-english-and-hindi-languages-to-its-neural-text-to-speech-service/article32440124.ece"
-webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-english-and-hindi-languages-to-its-neural-text-to-speech-service/article32440124.ece"
-ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-english-and-hindi-languages-to-its-neural-text-to-speech-service/article32440124.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-english-and-hindi-languages-to-its-neural-text-to-speech-service/article32440124.ece/amp/"
+title: "Microsoft’s Neural Text to Speech now supports English (India) and Hindi"
+excerpt: "Microsoft’s Neural TTS can be used to make interactions with chatbots and virtual assistants more natural and engaging"
+publishedDateTime: 2020-08-26T07:23:00Z
+originalUrl: "https://www.themobileindian.com/news/microsofts-neural-text-to-speech-now-supports-english-india-and-hindi-32813"
+webUrl: "https://www.themobileindian.com/news/microsofts-neural-text-to-speech-now-supports-english-india-and-hindi-32813"
+ampWebUrl: "https://www.themobileindian.com/news/lite/microsofts-neural-text-to-speech-now-supports-english-india-and-hindi-32813"
+cdnAmpWebUrl: "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/microsofts-neural-text-to-speech-now-supports-english-india-and-hindi-32813"
 type: article
-quality: 55
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Business Line
-  domain: thehindubusinessline.com
+  name: Mobile
+  domain: themobileindian.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.thehindubusinessline.com/info-tech/computers-and-laptops/4i74wt/article32427627.ece/ALTERNATES/LANDSCAPE_615/bl25-microsoft"
-    width: 615
-    height: 384
+  - url: "https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2020/08/32813/microsoft_425_735.png"
+    width: 735
+    height: 425
     isCached: true
 
 related:
@@ -75,22 +75,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Microsoft’s Neural Text to Speech now supports English (India) and Hindi"
-    excerpt: "Microsoft’s Neural TTS can be used to make interactions with chatbots and virtual assistants more natural and engaging"
-    publishedDateTime: 2020-08-26T07:23:00Z
-    webUrl: "https://www.themobileindian.com/news/microsofts-neural-text-to-speech-now-supports-english-india-and-hindi-32813"
-    ampWebUrl: "https://www.themobileindian.com/news/lite/microsofts-neural-text-to-speech-now-supports-english-india-and-hindi-32813"
-    cdnAmpWebUrl: "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/microsofts-neural-text-to-speech-now-supports-english-india-and-hindi-32813"
-    type: article
-    provider:
-      name: Mobile
-      domain: themobileindian.com
-    quality: 58
-    images:
-      - url: "https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2020/08/32813/microsoft_425_735.png"
-        width: 735
-        height: 425
-        isCached: true
   - title: "Microsoft introduces Hindi, Indian English to Neural Text-to-Speech service"
     excerpt: "With natural-sounding speech that matches the stress patterns and intonation of human voices, Neural TTS significantly reduces listening fatigue when users are interacting with AI systems."
     publishedDateTime: 2020-08-25T09:18:00Z
@@ -122,6 +106,22 @@ related:
       - url: "https://news.thewindowsclub.com/wp-content/uploads/2020/08/Microsoft-Neural-TTS.jpg"
         width: 600
         height: 451
+        isCached: true
+  - title: "Microsoft adds English and Hindi languages to its Neural Text to Speech service"
+    excerpt: "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set.The Neural TTS service is part of the Azure Cognitive Serv"
+    publishedDateTime: 2020-08-25T16:06:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-english-and-hindi-languages-to-its-neural-text-to-speech-service/article32440124.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-english-and-hindi-languages-to-its-neural-text-to-speech-service/article32440124.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-english-and-hindi-languages-to-its-neural-text-to-speech-service/article32440124.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 55
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/computers-and-laptops/4i74wt/article32427627.ece/ALTERNATES/LANDSCAPE_615/bl25-microsoft"
+        width: 615
+        height: 384
         isCached: true
   - title: "Microsoft introduces Hindi and Indian English to its Neural Text-to-Speech service"
     excerpt: "Microsoft India has announced the addition of English (Indian) and Hindi to its Neural Text to Speech (TTS) service."
@@ -172,6 +172,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "akxuaDogVUwBmXuLLUrMiQUJ/0gIZl0UiIjeFQ6Vuzx2lpLlMyrGSRimo4cofAxab9aQoGLU0E308OQtUsf7GcXYPh0j1cvx8u2aBAT5ezzdzJu8fm/ndO1ysdtORfFCkx+a3EqgaDTaxfZdQ4b0F2s/m7u2uh9TgFkZsDEZD+6EyodnmoId4Ntkgt7K+hXJ+g2WwZm1feRDmWf2i5FPOS06o1naziPBBbEN+hEniYL1k1H/+1h+LlhGEJsdcBvU0qoYW1UhAoqja6vKiVMQFVMb3TZFZFKqaCq/R5SSZE95DE4OgG1CNukcr0Y0O1E0q+x4VNp+YViB9QntP03E9e47mj5UZZtWBfgoDXtZu40dXenjwkVm4WO8TK1s2WErnC42KNdLCKmargtNhyPLINHyOFLyqlHVTutYwx5SLIAFmw3kif3ioYxK1k7YEQfN2QZuzR9KlSVCymwYh97GMw4coGvgB/qJ/xzLRZVD9X69G2vzT69KPhScYHjb1H0wxCOQofBUwH8ZoedmXJ07vA==;V8Qso7Q2aeCeJQH9VrK6hw=="
+secured: "cELTRi9nUcVgYmxe8Zi5EEvFakoPVwHimedvH0P8oJ3V0izpCN6e20no+j+4vnVX+hZXGGoi46gAbs4NJ/KIlv8ZBR+RVYRILT4/1NSLTbTCZvDhEz+RJ4QCwdR7vutJO06X0U2+EKbwy6Dqa1KE8oYxdkHESxOWXDK6RL1vBVYsTTzkkCw3UQDKueqRi2KVLyDWvozULeDg56dBEX/LZNJ1PaKtpapbCif1bCWj3d8poK+I6IKmCvliVsXFwuCv7IROLqmvXmCAp9THAYS8QznK3W99IzJv2t33qgr/oMLjzMI2FgMy7AftMv73tmZyGE8IgyIB6Un2ZuDGX9T8WmPi4yorlnqhQErLqz/Cy4Y=;DkeF2SINe1Vy70FbPlxVbg=="
 ---
 

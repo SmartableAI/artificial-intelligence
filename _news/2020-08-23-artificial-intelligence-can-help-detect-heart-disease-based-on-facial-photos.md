@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200821/Artificial-intelligen
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200821/Artificial-intelligence-can-help-detect-heart-disease-based-on-facial-photos.aspx"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: News Medical
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Selfies could be used to detect heart disease: New research uses artificial intelligence to analyse"
-    excerpt: "Sending a \"selfie\" to the doctor could be a cheap and simple way of detecting heart disease, according to the authors of a new study published today (Friday) in the European Heart Journal."
-    publishedDateTime: 2020-08-21T13:35:00Z
-    webUrl: "https://medicalxpress.com/news/2020-08-selfies-heart-disease-artificial-intelligence.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-08-selfies-heart-disease-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-selfies-heart-disease-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 45
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/selfie.jpg"
-        width: 1920
-        height: 1277
-        isCached: true
   - title: "‘Selfies’ Have the Potential to Detect Heart Diseases"
     excerpt: "A deep learning computer algorithm that can analyze human faces from ‘selfies’, has the potential to be used as a screening tool to identify heart disease in people in the general population or in high-risk groups,"
     publishedDateTime: 2020-08-22T06:50:00Z

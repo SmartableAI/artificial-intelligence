@@ -39,6 +39,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "A US Air Force F-16 pilot just battled AI in 5 simulated dogfights, and the machine emerged victorious every time"
+    excerpt: "A DARPA expert said that the AI demonstrated \"superhuman aiming ability\" during the dogfight. The human pilot never scored a single hit."
+    publishedDateTime: 2020-08-21T20:05:00Z
+    webUrl: "https://www.businessinsider.com/ai-just-beat-a-human-pilot-in-a-simulated-dogfight-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/ai-just-beat-a-human-pilot-in-a-simulated-dogfight-2020-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-just-beat-a-human-pilot-in-a-simulated-dogfight-2020-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://i.insider.com/5f36f6a2e89ebf001f044e87?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Artificial intelligence wins over man in simulated aerial dogfight"
     excerpt: "An artificial intelligence algorithm soundly defeated an experienced U.S. F-16 fighter pilot in a simulation of an aerial dogfight, the Pentagon said."
     publishedDateTime: 2020-08-21T16:27:00Z

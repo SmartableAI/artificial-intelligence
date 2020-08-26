@@ -3,6 +3,7 @@ category: news
 title: "Why Indonesia is poised to become the next AI start-up hub"
 excerpt: "The Indonesian edtech market has grown immensely in recent history, with the World Bank counting over a hundred start-ups in the past few years alone."
 publishedDateTime: 2020-08-24T21:45:00Z
+originalUrl: "https://www.scmp.com/tech/article/3098596/why-indonesia-poised-become-next-ai-start-hub"
 webUrl: "https://www.scmp.com/tech/article/3098596/why-indonesia-poised-become-next-ai-start-hub"
 ampWebUrl: "https://amp.scmp.com/tech/article/3098596/why-indonesia-poised-become-next-ai-start-hub"
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3098596/why-indonesia-poised-become-next-ai-start-hub"

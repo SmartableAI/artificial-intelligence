@@ -42,22 +42,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Selfies could be used to detect heart disease: New research uses artificial intelligence to analyse"
-    excerpt: "Sending a \"selfie\" to the doctor could be a cheap and simple way of detecting heart disease, according to the authors of a new study published today (Friday) in the European Heart Journal."
-    publishedDateTime: 2020-08-21T13:35:00Z
-    webUrl: "https://medicalxpress.com/news/2020-08-selfies-heart-disease-artificial-intelligence.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-08-selfies-heart-disease-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-selfies-heart-disease-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 45
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/selfie.jpg"
-        width: 1920
-        height: 1277
-        isCached: true
 
 secured: "9v0t9Lq9SsRyRicx2RjiKjVlbeI9tF46lEvRLdC6GnNWZJQg7Qdkgp6l1Q2p1pTCuPiCJECiarIf31sCHm08+wDe+gJBJ3cayrqADb0nmaquKmKNfHYX/C250Q7OuOSPLpEmugOytbVPbTJ6JXU6N7aKObxncws1rJ5VtxiiIh/LYvLYZ9oQMstHZXk+jdHR2obuLeY5K55EJqw5FD+Obh1I69bOQkSSIiio/wKFn2+Uo0HMKshTrCuNs6ZH/Ei5dU6TITOrSjTMRZgFuzIe7qFvnkugLMl8uMrErrLscXN0PxoIjwmYd2A+jhXyWINQhULonTHYL1Y+8atblXuEOjbbPGhwpzSk5w8+IDSXJWcs08T0wpjLyuhsW8YdTdXZseRrGkEnM1Vho8bio4Bx2yUXh7Hxco/Wmpb5VzcsvtGWmnIPtG1kCVSocqfl9YRf27x3SsaHnIZFN7CZw0CYYC3pBuQ5n/fsy8P0t6+Lv3ZcwnTFkqSDkshM+WUrP8mRNXLsWwd58ZiByah8aVOXPw==;d7eH7nBbgYiQVJ8OxpRO/A=="
 ---

@@ -3,6 +3,7 @@ category: news
 title: "UNSW's dual data lakes support move to 'hybrid learning'"
 excerpt: "UNSW had completed its first data lake in Microsoft Azure by the middle of last year, and has since gone on to create a second data lake in Azure with Databricks to serve as a curated collection of data that can easily be interpreted for reporting and strategy development."
 publishedDateTime: 2020-08-11T01:44:00Z
+originalUrl: "https://www.itnews.com.au/news/unsws-dual-data-lakes-support-move-to-hybrid-learning-551565"
 webUrl: "https://www.itnews.com.au/news/unsws-dual-data-lakes-support-move-to-hybrid-learning-551565"
 type: article
 quality: 24

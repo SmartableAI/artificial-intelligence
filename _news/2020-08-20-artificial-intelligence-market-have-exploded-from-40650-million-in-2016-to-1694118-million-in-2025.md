@@ -3,6 +3,7 @@ category: news
 title: "Artificial intelligence market have exploded from $4,065.0 million in 2016 to $169,411.8 million in 2025"
 excerpt: "Allied Analytics : The global AI market is divided on the basis of technology, industry vertical, and geography. Based on technology, the market is segmented into machine learning, natural language processing,"
 publishedDateTime: 2020-08-20T05:00:00Z
+originalUrl: "https://apnews.com/Wired Release/88020521dba20b15250885bfc49fbe6f"
 webUrl: "https://apnews.com/Wired Release/88020521dba20b15250885bfc49fbe6f"
 type: article
 quality: 24
