@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning as a Service (MLaaS) Market Growth Probability, Key Vendors and Future Scenario Up To 2027"
+    excerpt: "According to the study carried out by Acumen Research & Consulting, The Machine Learning as a Service (MLaaS) Market is projected to grow at noteworthy growing CAGR over the forecast period 2020 to 2027."
+    publishedDateTime: 2020-08-27T11:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-growth-probability-key-vendors-and-future-scenario-up-to-2027-2020-08-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market Growth By Manufacturers, Type And Application, Forecast To 2026"
     excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include IBM Corporation,"
     publishedDateTime: 2020-08-24T09:58:00Z
@@ -57,31 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Products Market Worth Observing Growth : Open AI, Nuance Communications, Google"
-    excerpt: "Global Artificial Intelligence Products market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market."
-    publishedDateTime: 2020-08-26T18:18:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266211653/artificial-intelligence-products-market-worth-observing-growth--open-ai-nuance-communications-google"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 36
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1598435965.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Global Big Data Analytics Market Fueling Artificial Intelligence 2020: Predictive Analytics and Security Applications Present Key Growth Opportunities"
-    excerpt: "The \"Global Big Data Analytics Market Fueling Artificial Intelligence, 2020\" report has been added to ResearchAndMarkets.com's offering. For over a decade, Benzinga has lead the way when it comes to investor access to information."
-    publishedDateTime: 2020-08-24T12:09:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/g17206762/global-big-data-analytics-market-fueling-artificial-intelligence-2020-predictive-analytics-and-sec"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17206762"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17206762"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "RJwUsadADZ8ht1tQDUT3vMr/uhgy5x4+ZzzWCehu/m+vt4NvD4ZlzTYlw3SkFKIszcTcvRcGs91q9MZSY3LHDXWQ7MwEW6U280by3USf/ck8axUCUSI4xRKmERUSzCysHtl6kZtysv8dX5FBEzbeQYxU834I2OtxPvZIbY8Hzo+j1m6POOXbQ5Op0h6h2U/raThv5xD2k+1gTIOiVXCd7Ejt6YU6n4PHuUsmJWHJLnlGI1rOIRoJnUGu8/JZsIeUC9EQnJGu9TL+lCi7LP4lsaV0ql+ABfgZNp6go0WU5Ps2Lz6ua9b2K4lpa389ZVCLmubYYFOWJOGsINsbLqDroA==;AhsLj5eiFk5sA5oaQWVIRw=="
 ---

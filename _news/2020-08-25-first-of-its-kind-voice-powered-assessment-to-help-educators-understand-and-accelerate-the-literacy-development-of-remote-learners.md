@@ -3,6 +3,7 @@ category: news
 title: "First-of-Its-Kind Voice-Powered Assessment to Help Educators Understand and Accelerate the Literacy Development of Remote Learners"
 excerpt: "PRNewswire/ -- Amplify, a publisher of next-generation curriculum and assessment programs, today announced the release of a voice-enabled reading"
 publishedDateTime: 2020-08-25T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/first-of-its-kind-voice-powered-assessment-to-help-educators-understand-and-accelerate-the-literacy-development-of-remote-learners-301117681.html"
 webUrl: "https://www.prnewswire.com/news-releases/first-of-its-kind-voice-powered-assessment-to-help-educators-understand-and-accelerate-the-literacy-development-of-remote-learners-301117681.html"
 type: article
 quality: 0
