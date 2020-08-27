@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/</loc>
+    <lastmod>2020-08-27T10:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/</loc>
+    <lastmod>2020-08-27T10:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.pcmag.com/news/amazon-launches-an-ai-powered-health-and-wellness-band-called-halo</loc>
     <lastmod>2020-08-27T07:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -13,6 +25,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/curtissilver/2020/08/27/porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai/</loc>
+    <lastmod>2020-08-27T07:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/</loc>
     <lastmod>2020-08-27T06:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -21,12 +39,6 @@
   <url>
     <loc>https://mobile.twitter.com/elonmusk/status/1298494373278220290</loc>
     <lastmod>2020-08-27T06:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921</loc>
-    <lastmod>2020-08-27T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -187,8 +199,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely</loc>
-    <lastmod>2020-08-25T17:05:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
+    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1441,8 +1453,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?partner=feedburner</loc>
-    <lastmod>2020-08-18T06:20:00-07:00</lastmod>
+    <loc>https://www.sify.com/finance/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-news-topnews-uisjkCadhbdbb.html</loc>
+    <lastmod>2020-08-18T07:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
+    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1509,12 +1527,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-enterprise-chatbots-2020-08-18</loc>
     <lastmod>2020-08-18T02:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873</loc>
-    <lastmod>2020-08-18T02:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2071,6 +2083,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.finanzen.net/nachricht/aktien/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions-9195371</loc>
+    <lastmod>2020-08-13T11:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.prnewswire.com/in/news-releases/bright-pattern-selected-as-finalist-for-disruptive-technology-solution-of-the-year-for-customer-contact-week-ccw-excellence-awards-822616149.html</loc>
     <lastmod>2020-08-13T11:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2085,6 +2103,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/expanding-scientific-portfolios-and-adapting-to-a-changing-world-with-amazon-personalize/</loc>
     <lastmod>2020-08-13T08:53:36-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-key-facts-and-forecast-predictions-presented-in-2020-2020-08-13</loc>
+    <lastmod>2020-08-13T07:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2109,6 +2133,12 @@
   <url>
     <loc>https://www.vox.com/future-perfect/21355768/gpt-3-ai-openai-turing-test-language</loc>
     <lastmod>2020-08-13T07:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.baystreet.ca/articles/stockstowatch/59411/The-Top-Ways-Artificial-Intelligence-is-Disrupting-Life-as-We-Know-It</loc>
+    <lastmod>2020-08-13T07:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

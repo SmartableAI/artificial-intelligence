@@ -3,6 +3,7 @@ category: news
 title: "N.Y. passes moratorium on use of facial recognition in education"
 excerpt: "A moratorium on facial recognition in education may soon become a reality, as both chambers of the state legislature now have passed bills mandating a temporary ban, with the state senate passing the bill on Wednesday after the assembly passed its own bill on Tuesday."
 publishedDateTime: 2020-07-27T17:23:00Z
+originalUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21147758/ny-passes-moratorium-on-use-of-facial-recognition-in-education"
 webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21147758/ny-passes-moratorium-on-use-of-facial-recognition-in-education"
 type: article
 quality: 39

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Covail and TruSTAR Announce Strategic Partnership to Advance Intelligence Management Capabilities Among Enterprises"
-excerpt: "Covail™ announces its renewed partnership with TruSTAR, an Intelligence-Centric Security Automation and Management Platform built"
-publishedDateTime: 2020-08-27T12:45:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/covail-and-trustar-announce-strategic-partnership-to-advance-intelligence-management-capabilities-among-enterprises-301119522.html"
-webUrl: "https://www.prnewswire.com/news-releases/covail-and-trustar-announce-strategic-partnership-to-advance-intelligence-management-capabilities-among-enterprises-301119522.html"
+excerpt: "Covail's experts in artificial intelligence (AI), automation, cybersecurity, and risk management have been helping enterprises create agile, innovative, and Intelligent Operations using our collaborative partnering approach and results-driven methodologies."
+publishedDateTime: 2020-08-27T13:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/covail-and-trustar-announce-strategic-partnership-to-advance-intelligence-management-capabilities-among-enterprises-1029539998"
+webUrl: "https://markets.businessinsider.com/news/stocks/covail-and-trustar-announce-strategic-partnership-to-advance-intelligence-management-capabilities-among-enterprises-1029539998"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/covail-and-trustar-announce-strategic-partnership-to-advance-intelligence-management-capabilities-among-enterprises-1029539998"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/covail-and-trustar-announce-strategic-partnership-to-advance-intelligence-management-capabilities-among-enterprises-1029539998"
 type: article
-quality: 17
-heat: 17
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1244460/Covail_Primary_RGB_Logo.jpg?p=facebook"
-    width: 1942
-    height: 1020
-    isCached: true
-
-secured: "z2GHql2SaVrhNr+qyjAlR4PNA69IFMmVXdSa7Ycftl1zugUZrgtSY/sw1mRz7PsRfC70t7nhW5D+udG0cYIPRu8050MkdVO01S8HszHw542QRl+dXqgEXcaf6H+Kyule8Xw9vFUtHw+A0mYUV5V3qWBKVbiT7tMK+wsp4KB1YOFCZ62hcZvL2an/RyBH+VAs2/96yWeo6nWx5v8D3fBjLPihr4Nu/akhcrvfNOE6kWAgj+aR2nm0dWioMdc9VtG2DRQ9K9zahME60hHDjzQi8eojkgvTIOnxwPXYbfDDR1UDWBNwuMjxNs5lOL+RP5i+JoWThN7yzF6HvULDspZ5GYI7HQ5gjHn5E9hBnaWkWczNhf3IleKH/EUM2zEJH+aIafQ+Z7vUomCLrKE4hivnsRVaqlNdOCenzkaY0kCEB8BPtp1XiHe78t4XoCJm5+1gE2bS78lRFnhgmbVfZT8lvce34K29pVVZ9bC8LRUiUkn8kOhG+wSE+JZu0kLkhBxITqtLEd2sTjZMl57ai8VXfQE+WSSOtPIpbXW5feXT9X8=;6YXxdvd3xVxp23gSKdacmQ=="
+secured: "WLM5T4S8gf0NxCnzOZiZpA61jNIq1XbiEfwU2mpdJEngWAzmfBL+DtdQhTVxZ9flC1oMIzM3ehG0bi+R3zjM9NaQEW2t3zValje1LnMajY1o3ITB61eV76xWllIZRSq0INRG3j/MVAYtaLMS9TYo7ZURNaWxFu5HRKWGYNcK3OVCMXIcT2Y9ijSExBIm3aQBij4xu23zz6QgbpoqPqUzJEbg1b3mybKVWE9GcAGAZmrFfuBCHVYhCOSHQvYBzmhQ8yyLQtEDv/9PhHs4sKyld+DYsUZa+gEe4ZVX7z8F4w377SCWbFR48VAoUi38/C/wud3WNPgIGi1im9JjI/KU0gtvt5DYMEXklk2kzLNmCqU=;UVMR0CgpaMhn+4UQoCkVlQ=="
 ---
 

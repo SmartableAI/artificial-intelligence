@@ -1,29 +1,26 @@
 ---
 category: news
 title: "The China Artificial Intelligence (AI) Report 2020: Mounting Privacy Concerns and a Look at US-China Tensions"
-excerpt: "The \"China AI Report 2020\" report has been added to ResearchAndMarkets.com's offering. The China Artificial Intelligence (AI) Report 2020"
-publishedDateTime: 2020-08-13T16:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions-301112004.html"
-webUrl: "https://www.prnewswire.com/news-releases/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions-301112004.html"
+excerpt: "The China Artificial Intelligence (AI) Report 2020 gives you exclusive first-hand insights and data-driven analysis into the latest industry developments, including An up-to-date and comprehensive ..."
+publishedDateTime: 2020-08-13T18:31:00Z
+originalUrl: "https://www.finanzen.net/nachricht/aktien/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions-9195371"
+webUrl: "https://www.finanzen.net/nachricht/aktien/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions-9195371"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "xGRQ2oAiFTYtdvgRRNX0776P1X9OVnkghlqvAXgvVA7vhE2xthyYtIjmlnhexM15tKsp5eQrwpRr5+rxu57biPgqvcS8aLg+i3qq3Rl2MRHij35qExTasUoYiUCOo58zastncaEYAJdhblgbywpVA22t+dcqyym3HRS8EOxMkmG0Lz3+95R6SnAjq5j7jXFXwgl0LaHwpYpPcsIJxGoDhvqyfmEpD9txZknZBNx+MTYZYbM7pvjCqV92j+96inYMz+sqqMBXxyMigemLHo0nxjoQwhH6hsXHX24czWvvH8tgL8r7oqTfcUsD1dpoaUvUDPsD9HS2E4CrJSmCa6ksdecIq6VV+EheO2JvDFYme7eR56ObWW4nFYD7ijHjHM03+WEIYAG6Bz2FJCdsUNOuIv1iFukX+mcvsZ1VfbyI9SBej3LCDZ8XpPJgCrWXPNZ4Pss1UsUie9RM2gRS/0Ej1QXYZGIxMJWI8c99dpmOwuXI7djsvPgwRF99OyBGdZ+jkC6NTwxjosxzx6Fj5Nzmig==;klcq4pIyS0CWtZA/Twn98A=="
+secured: "hzrPdjSKG/rOswBgxrsYVdNY3UXxXSudTQzAXjqkvjh0NEgyj61Nn2dMvMyh7H0Xx5tgfMUpWW6MNrIIVksZB49xFxxTH8SVzCz3MAQnNju7rNiq0nIzwcHnZ+TCCv8WJcCspLcqbKPLlezmWX5tfPSaX6Xwhe48PqBQftBcBwMvpP2mfAwJ9pEgYDmTR4khzQrsyUQ70tVdXe1A94F2fxNinTM3UEaHBlMot3pwO+vUZZ+ajW8exMGir/pq38yKfaIQi/7G2NQCbwucdv92ko1tZDxUzpVlf3j+LeCkmaam0r8oULuXvoNrylGPx78GVD86w+eeA7yZIYw+0M2o1c6qdNSwhjmvpi2ZIMxSeis=;l+GTKBW19sWbFDbccX13Kw=="
 ---
 

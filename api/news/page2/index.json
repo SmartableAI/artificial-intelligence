@@ -2,6 +2,105 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-26-coronation-see-the-haunting-trailer-for-ai-weiweis-movie-about-chinas-lockdown.md",
+      "title": "Coronation: See the haunting trailer for Ai Weiwei's movie about China's lockdown",
+      "excerpt": "The Chinese artist and activist directed and produced the documentary from Europe, with ordinary citizens in Wuhan providing footage. It's streaming now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/",
+      "originalUrl": "https://www.cnet.com/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/",
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/ZyRvm2NT1PzwvmdSZk-5wqIGIFI=/2020/08/25/ea810922-d2b4-41ef-b070-ff16382e4bd5/disinfect.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/",
+      "publishedDateTime": "2020-08-26T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services.md",
+      "title": "Microsoft Word: How the new transcription feature works and how it compares to other services",
+      "excerpt": "Word can now turn a conversation or meeting into text ready to use in a document, but that might not come to desktop Word for a while.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
+      "featuredContent": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/08/26/6edd296a-482a-40b9-837f-6715b2869887/resize/400x/5cfb2e68f8e346a2d980b56f4a756443/word-transcribe-desktop.jpg",
+          "width": 400,
+          "height": 521,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
+      "publishedDateTime": "2020-08-26T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-3-strategies-for-enterprise-ai-success.md",
       "title": "3 strategies for enterprise AI success",
       "excerpt": "Especially during turbulent times, AI enables companies to draw customers closer, streamline to reduce costs, and become more agile than competitors.",
@@ -301,32 +400,41 @@
     {
       "path": "_news/2020-08-26-covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely.md",
       "title": "COVID 19 Update: Global Healthcare Artificial Intelligence Market Stocks Gain, Rises Immensely",
-      "excerpt": "Healthcare Artificial Intelligence Market” Healthcare Artificial Intelligence (AI) Market Research Report: Information by Component (Hardware, Software,",
+      "excerpt": "The global healthcare artificial intelligence market 2020 is scoring in small-leaps. Its shares have surged, which is a sign that the market’s size is widening after months of leadership by big technology companies after less impact of Coronavirus.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely",
+      "webUrl": "https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25",
       "featuredContent": null,
-      "heat": 77,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://www.abnewswire.com/uploads/1598357109.jpeg",
-          "width": 417,
-          "height": 455,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17242858",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17242858",
-      "publishedDateTime": "2020-08-25T17:05:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T17:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -335,7 +443,6 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1115,106 +1222,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-google-anthos-gains-new-features-including-hybrid-ai-capabilities.md",
-      "title": "Google Anthos Gains New Features Including Hybrid AI Capabilities",
-      "excerpt": "Google is betting big on Anthos. With the latest release, it has upped the ante on the hybrid cloud with an aim to gain a foothold in the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/08/25/google-anthos-gains-new-features-including-hybrid-ai-capabilities/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/08/25/google-anthos-gains-new-features-including-hybrid-ai-capabilities/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f452087638f3d981d14e6b2%2F0x0.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/08/25/google-anthos-gains-new-features-including-hybrid-ai-capabilities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/08/25/google-anthos-gains-new-features-including-hybrid-ai-capabilities/amp/",
-      "publishedDateTime": "2020-08-25T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-august-and-yale-smart-locks-get-fingerprint-and-facial-recognition-unlocking.md",
-      "title": "August and Yale smart locks get fingerprint and facial recognition unlocking",
-      "excerpt": "August and Yale locks are solidly positioned as top sellers in the smart lock market. We recently awarded August's Wi-Fi Smart Lock our Editors' Choice award for its updated styling and independence from the company's Connect module.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/august-adds-fingerprint-and-facial-recognition/",
-      "originalUrl": "https://www.cnet.com/news/august-adds-fingerprint-and-facial-recognition/",
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/7utBQdc7vgiQYRPwHEqkUbS_YdY=/756x567/2020/08/21/38a1b707-358e-45a8-88af-72ca513b1828/security-features.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/august-adds-fingerprint-and-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/august-adds-fingerprint-and-facial-recognition/",
-      "publishedDateTime": "2020-08-25T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

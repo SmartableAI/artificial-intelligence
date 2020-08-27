@@ -5,10 +5,12 @@ excerpt: "Stripchat, a live camming platform that boasts over 60 million visits 
 publishedDateTime: 2020-08-27T14:02:00Z
 originalUrl: "https://www.forbes.com/sites/curtissilver/2020/08/27/porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai/"
 webUrl: "https://www.forbes.com/sites/curtissilver/2020/08/27/porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai/"
+ampWebUrl: "https://www.forbes.com/sites/curtissilver/2020/08/27/porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtissilver/2020/08/27/porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai/amp/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -27,6 +29,6 @@ images:
     height: 413
     isCached: true
 
-secured: "ypfBdgvUD4KELhKYF5Q0O59pgzp2ZdCgapi2HH3Ixn68abv1HX4PoYO7nP3kdJD6T0iOXfEXm59X6M8qQUZRD0tKn8b7fC1XCp582QNTHHGE75rmsbdKcRVHD1tcVFvB7vFKVchWiQ/6iK4GuM8wbs+PqXy9WW9naw0BXU6admW4PTbBmuROudHz+SvxoLIHI9EJyPa+S1HXv+NE/IegXPCKg+VN9hQowKBnECfqwZ1viM8z6nbc1vUMlYQibzEkkwF2I0/p4d/fzP/R6G/sarXeFk7AEj3pp3OOcLR8CIUexVUXN95NFbf/aMvEaILdsa7hzbYUbBEYuGhUBlKHdIxAnLKsghiEcnmRmwZZuNc=;c0SiDh5LcVEmh53IsQ2JkA=="
+secured: "HohDFr0PCdFNVUVcT5UDy+/UCw+nGQf9b3ZGQ7yV4S0I9R55MU01ntOChE2rFGSFZS1qbIblmbF7ecL/VdfgoAHBohDW45NwDCp8F1d46W+hY2RmPEBCUM3bnNAkqsfi3rp5LrZzg4rjMvLaraF584UfOeMH96pt3ekQSkmWGmcNx+4IV0/P+mYkCl55TWbS4yU29J6yizvbJLcYTukIlif/ERmCskC6hbOXJw6I5A7Mc3YHeO6Flv6aIMaL7vpb1KMGP2UlOJ79jLRhdIL8SsP7NuchqP9v0/niVG1kWmQkQnJzgm3mxhLLzQbr5fK9rbffS97v9yNn+r2Ybnok4p0dMf8xMCxfEXg4FbvurEDFF4KZsVjyEKbyytKMQa1TkuQcseXK+eAsrVEECVeOxYe9zLCzVQmhcd1x+QuA6T3NxhEHSPXlm6vyzLl90jNGSq1R3vJMPhi2j+p11CwQ+nTfWvjVAOwatrFa8NpvBuQtjRaxg5cFJjpQFWY4Cyx1IGSW7X7Z+rHcA3wMYGCL+JL/nLXkBDhzAelT8RXCvvs=;YviCfFq80+KIg0YCKOLklg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/25/21377585/irobot-ai-s
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -79,6 +79,17 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "iRobot kicks off robot vacuum sale to celebrate launch of new software"
+    excerpt: "Robot advances robotic vacuum cleaning with the iRobot Genius Home Intelligence A.I. to give owners greater control of Roomba and Braava jet robots."
+    publishedDateTime: 2020-08-27T16:42:00Z
+    webUrl: "https://www.digitaltrends.com/dtdeals/irobot-genius-home-intelligence-announcement-sale/?itm_source=124&itm_content=2x2&itm_term=2356592"
+    ampWebUrl: "https://www.digitaltrends.com/dtdeals/irobot-genius-home-intelligence-announcement-sale/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/irobot-genius-home-intelligence-announcement-sale/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
 
 secured: "6iR1wzPNIAyS+5mbij96bx2J9d+z3F6ix+y5YNR+J2SOkar9yxBrytCTPeR3J02w1xJ9zJaGkDDvXE9Z40fRs8QG2ozJi4VZyka9OiWFu3scC9M50n2sLs75JBuIPKaK/p6uV0f/lp/50u3GmVXFcX724SwyxtcYI7CR091Im8xAO0X4ncPpDU33tsDc/Eq/dmoBOCVo/RH2M3U7pOFZ14fNSPsvU+RGdyCRQlwfv2qv2zFNnhFARDl054x2ubEWdMJGGDAaYylGosHwkrsf9I+AvscTpyXwCSfBuVp2BcjL6Bphq7xmDjDDFO4v9W04KTZktY/2U7hwkT4OhyDET0T4Dl4LGoAKgwTs1RQ8IP/LFsC6hLO9jfk4/ZMy9X5l58ZOg6waol/cBojo2QHUqfJy6IjKV9CH7uItFcNUV9uBO5iNxgCzaHeEucgdGumInc5W/20n/q7W2ywycmDPFtOu2BCX4AF3Rd5qYAzuOFm73cEgLzXjiE+E0LNpw6MhBMic5VfmzCfmQRa5hKfmQQ==;aF+ipPoKdqlHFVpj8HIb4w=="
 ---

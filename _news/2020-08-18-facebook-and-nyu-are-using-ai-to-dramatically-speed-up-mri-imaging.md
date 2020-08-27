@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Facebook and NYU are using AI to dramatically speed up MRI imaging"
-excerpt: "Researchers have long looked for ways to speed up magnetic resonance imagining (MRI). Two years ago, Facebook’s Artificial Intelligence Research group (FAIR) began collaborating with researchers at New York University’s Medical School on artificial ..."
-publishedDateTime: 2020-08-18T13:20:00Z
-originalUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?partner=feedburner"
-webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?partner=feedburner"
+excerpt: "Two years ago, Facebook’s Artificial Intelligence Research group (FAIR) began collaborating with researchers at New York University’s Medical School on artificial intelligence that held the ..."
+publishedDateTime: 2020-08-18T13:34:00Z
+originalUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com"
+webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: fastcompany.com
 
 topics:
-  - Facebook AI
+  - AI in Autos
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5KOGnQd05OWiuWaT0V7HM31VPwAIZq1/FaKcrD21en8oR+fJc+PPNCAIXO50HK4U6Z9v97rnf4OpAnhsK7tYrOZ88PEnKTSL8v8iUXgNirPyHx0KB1a0Yjdzup6eSraSYKuLzpouWDmqppX9kiYdtUTf+6vPPmbeKbaTZyuSHEMCWRbz1c89HmkU1mYxYqaDxVKgY4REadGvwzNGy/fTCQPBmw3VNbRQhPawcDs5lhf8urgkhsw/56OgGIrKqIhb8wvfOOrRW4TbEprDN6G0P1muWTPjNZzMa+hIuCxgSSf65es67/XWjzr1LWSo89ISh2+LsOeMf126utg6keUBLgQJexfhLJ18+DQRRaprEhs=;1nkLRmvXG10ZKrpfkexuPw=="
+secured: "0qp25Rr6u04SX74++ijkddvq1j12LXov1LcRdplYepGeVrkLUcsax8KFDOplKPl5vGM9NFSRWuAMedkDWSFyRVW6qf28+axdpELIYy57PBzpikrh4ts85cokM2a4+vG1dAKnvs5WgnO5wg9ETJSASSlAB/xeaSy7GHJHJPgpwSQt2u02B2Yl/Ppsexw6XL93K62DMQfttcKRtQu/PQ2dRViX2tH7+1JWNbrWWHPRjLkDeOkmJwoNQiiMrlB5jcbGNrsmOLppNh364oyDtqMk+/uksz1tgWZrSfmrQcv+0HPJDOtq5rs0hANbbjUvAxKoxOQKN9nihaY0+KEnz5BVudhb98lJZLPcPHwnU5dJlmY=;wiCrU+enH/y8cLvO1I5MIA=="
 ---
 

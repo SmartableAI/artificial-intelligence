@@ -2,6 +2,106 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-08-17-how-robotics-and-automation-could-create-new-jobs-in-the-new-normal.md",
+      "title": "How robotics and automation could create new jobs in the new normal",
+      "excerpt": "The COVID-19 crisis could accelerate a robotics revolution and impact jobs -- but it's not necessarily all bad news for workers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/",
+      "originalUrl": "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/",
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/robotics-automation-new-jobs.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/amp/",
+      "publishedDateTime": "2020-08-17T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip.md",
+      "title": "Photonics startup Lightmatter details P1, its AI optical accelerator chip",
+      "excerpt": "Ahead of the Hot Chips 2020 conference this week, photonics chip startup Lightmatter detailed its forthcoming P1 accelerator hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/17/photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip/",
+      "originalUrl": "https://venturebeat.com/2020/08/17/photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip/",
+      "featuredContent": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/2d3585e0-3f62-4759-bf51-85ee9f7404af-e1597264833261.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/17/photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip/amp/",
+      "publishedDateTime": "2020-08-17T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-artificial-intelligence-chip-market-forecast-report-2020-2027-top-key-players-analysis.md",
       "title": "Artificial Intelligence Chip Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
       "excerpt": "This report researches and evaluates the impact of COVID-19 outbreak on the market, including potential opportunities and challenges, drivers, and risks associated with the market. We present a detailed assessment of market growth based on numerous scenarios.",
@@ -1061,98 +1161,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-elon-musk-says-tesla-developing-neural-network-training-computer-for-full-self-driving.md",
-      "title": "Elon Musk Says Tesla Developing Neural Network Training Computer for Full Self-Driving",
-      "excerpt": "With a complete overhaul of the Tesla autopilot software, full self-driving capabilities will be possible as the AI will be able to interpret traffic signals, turns and stops.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
-      "originalUrl": "https://www.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
-      "featuredContent": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.ibtimes.sg/en/full/40282/elon-musk.jpg",
-          "width": 923,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
-      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
-      "publishedDateTime": "2020-08-15T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ellen",
-        "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-controversial-face-recognition-firm-clearview-ai-is-teaming-up-with-ice.md",
-      "title": "Controversial Face Recognition Firm Clearview AI Is Teaming Up With ICE",
-      "excerpt": "In a pairing that has all the makings of a privacy and/or human rights nightmare waiting to happen, the dystopian facial recognition software maker Clearview AI secured an ongoing contract with U.S. Immigration and Customs Enforcement this week.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876",
-      "originalUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876",
-      "featuredContent": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lvngekwv9r2xiehaguxj.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp",
-      "publishedDateTime": "2020-08-15T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
