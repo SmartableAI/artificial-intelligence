@@ -3,24 +3,24 @@ category: news
 title: "Artificial intelligence identifies 50 new planets from old NASA data"
 excerpt: "Researchers have identified 50 new planets using artificial intelligence, marking a technological breakthrough in astronomy."
 publishedDateTime: 2020-08-26T16:30:00Z
-originalUrl: "https://buffalonews.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_79a19648-0cea-5706-8bee-40bf1913281e.html"
-webUrl: "https://buffalonews.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_79a19648-0cea-5706-8bee-40bf1913281e.html"
-ampWebUrl: "https://buffalonews.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_79a19648-0cea-5706-8bee-40bf1913281e.amp.html"
-cdnAmpWebUrl: "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_79a19648-0cea-5706-8bee-40bf1913281e.amp.html"
+originalUrl: "https://tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.html"
+webUrl: "https://tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.html"
+ampWebUrl: "https://tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.amp.html"
+cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.amp.html"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Buffalo News
-  domain: buffalonews.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/53/b534da13-4e3d-54a2-a31a-e2ff3dde2e29/5f330ac996cfd.preview.jpg"
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/6/be/6be681c8-bee8-5015-a98f-c83f3eddf07b/5f330a606ce8b.preview.jpg"
     width: 757
     height: 428
     isCached: true
@@ -73,6 +73,6 @@ related:
         height: 576
         isCached: true
 
-secured: "4ZwWZvOnKGYJWevGpZyrkVxS0NQ0AKbxTV0HzoRAI758GRLXxtf6A1P59bC/1Hc1WlEqow4/2Q1MVK8y9Jkw7KWI3mFR+RSpZoMWuyFvV5TO3KFpbeZ2dki9hyMbr+iJPpy0C6lFQY5uf7bW/Furt+pW7CpFBspIcYxIi0Jrm05+giZOqlxoxk8hO+PjxbjKcMsF2nhnxuoaZs2vxXeN7/1zNB0odRuFsGgU+9LoFAhjqo+2UKwS5yhVN69G8cHr+aTh1nMZtr9xGVW1ICzI//50tQVlEKwqccqHYxvchc62OkV0BHveKm49zAEoJcuP6u4LxQCv79kAxBxd8SY1tR9Yi1+JaCikkSrsfQmGpxM=;G7erhMYmsh66UUyGRtXw3Q=="
+secured: "kL+u2oYrcvX/1IU0brpJ5vY9rDq6x1nj3F9BsVT3WPfiOMqo6tZmE0Z6FxhlTK+7V173GuKlBF7gC8Id6xs0PwF1arqGg1PnBlpFPtaWMPx/eAvNk4lAFGiVcsfOXvoEZ0JXCzGFzDjgw8zEeyxs6n2gyiybD+Z/4NAgv53izEvBJn5ha46lvY0rkjdsl727dzTBk+xKqQv3hWhqAmBkZvPDytMu5pzGtZrrNDBbnvNJfBrCzkj/GxqEYJXc6VuGINtJ+yQzkO7lUT3kNqS62k3mex8/mct3ztdKBJeZFx+qg3Hp0+gtAWp0E6qoT/ZQgbOcrwRdSZ1NCsSZoGwcBqSxujHYVuDuyvxuJCq4K9k=;CiCoI8ful2O1/FS6XJPLXQ=="
 ---
 

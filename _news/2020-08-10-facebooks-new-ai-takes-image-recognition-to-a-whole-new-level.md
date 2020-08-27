@@ -3,6 +3,7 @@ category: news
 title: "Facebook’s new A.I. takes image recognition to a whole new level"
 excerpt: "Facebook is using cutting-edge artificial intelligence to extract valuable data from images. The company showed Digital Trends some of its ongoing work."
 publishedDateTime: 2020-08-10T13:12:00Z
+originalUrl: "https://www.digitaltrends.com/features/facebook-ai-image-recognition/"
 webUrl: "https://www.digitaltrends.com/features/facebook-ai-image-recognition/"
 ampWebUrl: "https://www.digitaltrends.com/features/facebook-ai-image-recognition/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-ai-image-recognition/?amp"
@@ -24,6 +25,12 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "zLWdfOScZ2W73slBnNpX095tY7o1zgb40Y8VWfqrYzH/iTgUYVagIkA3QBsDNc8SDO9aD/j5X/d+Cb87nC/BczRJ/WIAH7EIoaxqiCSpDjY2OKbYMw5GTi568dUHDUdR6sfimu+JsFbXT3vNNV/cYjXkm6KnY84OfLnwrhUoBkLDTGU/5EHJxdluYY9cs3snxOHKGVC33PFVfIDj02U7vUtHJWjxL2OpKdfOcEMh46IkAh8n7BMPeXlNLoHAqDZ4eerBwNLYsgXUJbx8e8+kVXHHv6CzsM40RAsxFpzaa8F0891CP5IeFpt7mTRnoJuIfG4YaN86or6z2nm68Vhs12Dg61xfTECucGL8WykGnZ8BpWaHNjkHZbeVDMa648JryR1MU79AGSHt4dJ8kRu2XyebMscN9s+kqKQ+h8zth2bwbZGBfeHgrwZ8Z2Vk8mhyzhBMnR6A4jwjOSdcOuZ68BS+LV2NGObyh3qd1xFlVxldMH5ZnJA/kX4hfr/RN6MeWtxROokV9oejQEg5JcGtkg==;QhZ1s+DHJMqqrfObJmlfVA=="
+images:
+  - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facebook-new-ai-takes-image-recognition-to-a-whole-new-level-1200x630-c-ar1.91-nw.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "mTZ1KCBPNy0QZ7kQ3p6xe55+hFWWx9fr/oJSLc66JiOGH6fL6HTHHz2QV83UueUPGwC8dI7JYy3pLN5ce1xujGL6/LrTv/oCaC8r7Eyaofq7fYlUlkw/h1swKPKTjl4PfmXm2K/yBzDAP14IMOaXyfUcDIxDjmMQ528BpSIOGs5034ryQWa6Ftwr92jjlLa7ALpQSKjUyUlgzxgHjSINBBQZfRm7Rm0LfDYvX1oAJjOVQqJwzv6SAnYX16Th0Xy4hWOCyGeEa0k852QBRlfPLAHefSz6KNRlQ7p81Dn24sfYFyaH63FDnG4c59kiwooTGy6Ta+eYwg+uF96eabm01dkE8ew9Ei8NhKYar02Ph/0=;e5APVBQRii5jMGyUZVzdIw=="
 ---
 

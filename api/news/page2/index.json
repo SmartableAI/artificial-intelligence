@@ -2,6 +2,55 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-25-this-ai-tech-wants-to-make-you-an-avatar-that-will-work-in-every-game.md",
+      "title": "This AI Tech Wants to Make You an Avatar That Will Work in Every Game",
+      "excerpt": "Wolf3D, an Estonian company that originally focused on 3D printing, now has a simple goal: to put your 3D avatar into games, media, and virtual experiences. If these guys have anything to say about it,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938",
+      "originalUrl": "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bnyn22fuecnls6r58ztb.png",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938/amp",
+      "publishedDateTime": "2020-08-25T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds.md",
       "title": "Facial recognition designed to detect around face masks are failing, study finds",
       "excerpt": "Many facial recognition companies have claimed that they can detect people with pinpoint accuracy even while they're wearing face masks, but the latest results from a study show that the coverings are dramatically increasing the error rates.",
@@ -886,7 +935,7 @@
       "excerpt": "BIDU is leaving no stone unturned to bolster presence in the autonomous driving space. The company recently revealed that the Apollo Go Robotaxi service is now available in the city of Cangzhou, which is in Hebei province near Beijing.",
       "sourceUrl": null,
       "webUrl": "https://www.nasdaq.com/articles/baidu-launches-robotaxi-service-boosts-self-driving-presence-2020-08-25",
-      "originalUrl": null,
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-launches-robotaxi-service-boosts-self-driving-presence-2020-08-25",
       "featuredContent": null,
       "heat": 84,
       "tags": null,
@@ -1132,56 +1181,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service.md",
-      "title": "Microsoft introduces 15 new languages to its Neural Text-to-Speech service",
-      "excerpt": "Microsoft has announced the addition of 15 new languages to its Neural Text to Speech (Neural TTS) service language set. Neural TTS is a part of Microsoft's Azure Cognitive Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service",
-      "originalUrl": "https://www.neowin.net/news/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service",
-      "featuredContent": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1585909473_microsoft_6_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service/",
-      "publishedDateTime": "2020-08-25T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

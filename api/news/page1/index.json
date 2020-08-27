@@ -2,6 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-27-microsoft-pnnl-and-uw-leap-into-white-houses-1b-initiative-for-ai-and-quantum-research.md",
+      "title": "Microsoft, PNNL and UW leap into White House’s $1B initiative for AI and quantum research",
+      "excerpt": "Microsoft, the Pacific Northwest National Laboratory and the University of Washington are part of a $1 billion effort to study AI and quantum computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/",
+      "originalUrl": "https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/",
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/08/200217-svore-630x380.jpg",
+          "width": 630,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/amp/",
+      "publishedDateTime": "2020-08-26T19:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-clearview-ai-ceo-says-over-2400-police-agencies-are-using-its-facial-recognition-software.md",
       "title": "Clearview AI CEO says ‘over 2,400 police agencies’ are using its facial recognition software",
       "excerpt": "More than 2,400 police agencies have entered contracts with Clearview AI, a controversial facial recognition firm, according to comments made by Clearview AI CEO Hoan Ton-That in an interview with Jason Calacanis on YouTube.",
@@ -1174,55 +1223,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-this-ai-tech-wants-to-make-you-an-avatar-that-will-work-in-every-game.md",
-      "title": "This AI Tech Wants to Make You an Avatar That Will Work in Every Game",
-      "excerpt": "Wolf3D, an Estonian company that originally focused on 3D printing, now has a simple goal: to put your 3D avatar into games, media, and virtual experiences. If these guys have anything to say about it,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938",
-      "originalUrl": "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bnyn22fuecnls6r58ztb.png",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938/amp",
-      "publishedDateTime": "2020-08-25T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

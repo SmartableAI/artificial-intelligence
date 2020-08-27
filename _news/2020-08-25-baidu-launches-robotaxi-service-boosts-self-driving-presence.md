@@ -3,6 +3,7 @@ category: news
 title: "Baidu Launches Robotaxi Service, Boosts Self Driving Presence"
 excerpt: "BIDU is leaving no stone unturned to bolster presence in the autonomous driving space. The company recently revealed that the Apollo Go Robotaxi service is now available in the city of Cangzhou, which is in Hebei province near Beijing."
 publishedDateTime: 2020-08-25T13:15:00Z
+originalUrl: "https://www.nasdaq.com/articles/baidu-launches-robotaxi-service-boosts-self-driving-presence-2020-08-25"
 webUrl: "https://www.nasdaq.com/articles/baidu-launches-robotaxi-service-boosts-self-driving-presence-2020-08-25"
 ampWebUrl: "https://www.nasdaq.com/articles/baidu-launches-robotaxi-service-boosts-self-driving-presence-2020-08-25?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-launches-robotaxi-service-boosts-self-driving-presence-2020-08-25?amp"

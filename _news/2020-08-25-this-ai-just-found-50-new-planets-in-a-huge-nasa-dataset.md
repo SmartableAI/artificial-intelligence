@@ -49,16 +49,16 @@ related:
   - title: "Artificial intelligence identifies 50 new planets from old NASA data"
     excerpt: "Researchers have identified 50 new planets using artificial intelligence, marking a technological breakthrough in astronomy."
     publishedDateTime: 2020-08-26T16:30:00Z
-    webUrl: "https://buffalonews.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_79a19648-0cea-5706-8bee-40bf1913281e.html"
-    ampWebUrl: "https://buffalonews.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_79a19648-0cea-5706-8bee-40bf1913281e.amp.html"
-    cdnAmpWebUrl: "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_79a19648-0cea-5706-8bee-40bf1913281e.amp.html"
+    webUrl: "https://tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.html"
+    ampWebUrl: "https://tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.amp.html"
     type: article
     provider:
-      name: Buffalo News
-      domain: buffalonews.com
+      name: Arizona Daily Star
+      domain: tucson.com
     quality: 57
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/53/b534da13-4e3d-54a2-a31a-e2ff3dde2e29/5f330ac996cfd.preview.jpg"
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/6/be/6be681c8-bee8-5015-a98f-c83f3eddf07b/5f330a606ce8b.preview.jpg"
         width: 757
         height: 428
         isCached: true

@@ -3,6 +3,7 @@ category: news
 title: "IBM pursuing global expansion of “made-in-Canada” internal incubator program"
 excerpt: "IBM is in global expansion mode for an internal employee incubator that was first launched in Markham, Ontario in 2018."
 publishedDateTime: 2020-08-21T10:03:00Z
+originalUrl: "https://betakit.com/ibm-pursuing-global-expansion-of-made-in-canada-internal-incubator-program/"
 webUrl: "https://betakit.com/ibm-pursuing-global-expansion-of-made-in-canada-internal-incubator-program/"
 type: article
 quality: 21

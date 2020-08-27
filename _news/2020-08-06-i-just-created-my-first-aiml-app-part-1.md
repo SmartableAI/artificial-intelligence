@@ -3,6 +3,7 @@ category: news
 title: "I Just Created my First AI/ML App! (Part 1)"
 excerpt: "Happily, we have just such a plan… Tiny AI/ML Steps Earlier this year, I read a rather interesting book whose name, it has to be said, is a bit of a mouthful: “TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power ..."
 publishedDateTime: 2020-08-06T12:03:00Z
+originalUrl: "https://www.eejournal.com/article/i-just-created-my-first-ai-ml-app-part-1/"
 webUrl: "https://www.eejournal.com/article/i-just-created-my-first-ai-ml-app-part-1/"
 type: article
 

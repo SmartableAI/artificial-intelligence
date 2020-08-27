@@ -3,6 +3,7 @@ category: news
 title: "Eta Compute Introduces TENSAI® Flow, Enables Seamless Development of Machine Learning Applications in Low Power IoT Devices, from Concept to Firmware"
 excerpt: "Eta Compute Inc., a company dedicated to delivering machine learning to low power IoT and edge devices using its revolutionary TENSAI® Platform,"
 publishedDateTime: 2020-08-11T17:47:00Z
+originalUrl: "https://www.eejournal.com/industry_news/eta-compute-introduces-tensai-flow-enables-seamless-development-of-machine-learning-applications-in-low-power-iot-devices-from-concept-to-firmware/"
 webUrl: "https://www.eejournal.com/industry_news/eta-compute-introduces-tensai-flow-enables-seamless-development-of-machine-learning-applications-in-low-power-iot-devices-from-concept-to-firmware/"
 type: article
 quality: 0
