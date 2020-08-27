@@ -33,7 +33,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/08/26/5a71aadd-9831-4cf8-903b-5b72b9e88e76/thumbnail/770x578/2834a0ca6ffd89cf1759ccdfe7a7db44/facebook-ai-researchers-build-robot-that-5f4641df836f805692005756-1-aug-26-2020-11-51-31-poster.jpg"
         width: 770

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.irishtimes.com/business/transport-and-tourism/volkswagen
 cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/transport-and-tourism/volkswagen-to-roll-out-fleet-of-self-driving-test-cars-1.4339368"
 type: article
 quality: 44
-heat: 44
+heat: 74
 published: false
 
 provider:

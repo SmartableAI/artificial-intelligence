@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-27T09:13:00Z
 originalUrl: "https://apnews.com/6bbb4ce384d7a5374958a657e8c2c121"
 webUrl: "https://apnews.com/6bbb4ce384d7a5374958a657e8c2c121"
 type: article
-quality: 31
-heat: 31
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -16,6 +16,9 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - AI Hardware
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

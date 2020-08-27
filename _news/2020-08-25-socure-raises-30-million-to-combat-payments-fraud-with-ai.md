@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Synthego raises $100 million for AI-driven gene editing"
-    excerpt: "Synthego, a startup developing a platform for gene editing experiments, has raised $100 million more in venture capital financing."
-    publishedDateTime: 2020-08-26T13:04:00Z
-    webUrl: "https://venturebeat.com/2020/08/26/synthego-raises-100-million-for-ai-driven-gene-editing/"
-    ampWebUrl: "https://venturebeat.com/2020/08/26/synthego-raises-100-million-for-ai-driven-gene-editing/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/synthego-raises-100-million-for-ai-driven-gene-editing/amp/"
+  - title: "ACTO raises $11.5 million to bolster life sciences sales with AI"
+    excerpt: "ACTO, a startup using AI-powered mobile experiences to educate stakeholders in life sciences, today closed an $11.5 million funding round."
+    publishedDateTime: 2020-08-27T13:03:00Z
+    webUrl: "https://venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/0-3-e1598322103316.jpeg?w=1200&#038;strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all"
         width: 1200
         height: 600
         isCached: true

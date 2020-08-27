@@ -9,7 +9,7 @@ ampWebUrl: "https://www.india.com/viral/dressed-in-saree-robot-zafira-scans-cust
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/dressed-in-saree-robot-zafira-scans-customers-for-masks-dispenses-sanitiser-at-tamil-nadu-store-4123623/amp/"
 type: article
 quality: 44
-heat: 44
+heat: 54
 published: false
 
 provider:
@@ -39,6 +39,6 @@ related:
       domain: hindustantimes.com
     quality: 34
 
-secured: "hZOLp+EPW5QYD9RRQ2+w6jrg/FzXNXTUo0FgqHp2wOsCmgBzT0Nju7OjkJl+xDu+wa2dNxcF3A5ODPb8ydTlFKGPZkVzSi+AcNU0F2PONKwtpFlfHObjuR4tglEMCByI8xH46QEnxT3gSzRpfzKpw9rwO1Sppgv9gtGdoJN4RRtFpbxy2l9ZGMZL7U3Vj/rOtAD16QvEvSbh1qeADP4JB3cRDvd4A1wQ0jXdxA+rCEa5hxGK8GZSHzygUTYzcfj/5NJ64TQzKNhx74lu6yHxSVU98fb6jdwpcjW3bKbDfm6Eo5g8SMu548TDJ7mmrmoZEo/MElUxj1z6dDdv4iVN25pvCvhi89cdpmZN6QoJyhI=;/Q4jiyz+uuds7gAUX5Z2ag=="
+secured: "lcsfA6S0SqOgX80sF4BImGVASDVM9zkp4nwge/o+wCe++4M0m4bPRoUXgyACPMkPT5jHp9PLy79gB+CHeuin0wh14wgCXNRnhRa94lndZaWxMSgjtRkNGWfngmm+W9Hvt+diigSKlNzXu9b6IZYJ2p5qOQ278j2laQQw8ymG2u7Rr6w2QvvNuiHOP3UdOmlHZxDw2CAdGWB2luAmoCTDpZkJcUmnhaKer4GPtn/chDK3y2bFc2sowQx+KNCZLYn25aEmrPWrXnwYuP11mCiPMYtzK11CyqI1fLW/PSJ7X9dOy4lLQ2v6p5g5Nc7inmr+wFRaeh1IKqUNeFR6ITMbf7kf98f+8TwF972ebSD9tuky+3YmPb8nik80UKBMIXXtu13IY/ixm6mthVNn6xIMDezzPCZqWRyLwIuunSwYga5uKZdMCsfrkVlfruOwbxMgurDKMIO/WucaZ1U23M9zu26ah7Dt1B+SysxKLNEQ+a+x2UOZeSJncarHNMi8ow+4x64elaCrH3qjbaWubMHiFZT0+66eprXMBMnwYgVnl3U=;zAwGa87ZTW/CJUlvZb9QFA=="
 ---
 

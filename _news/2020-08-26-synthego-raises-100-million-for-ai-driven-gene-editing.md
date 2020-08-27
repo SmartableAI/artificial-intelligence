@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Socure raises $30 million to combat payments fraud with AI"
-    excerpt: "Socure, a startup developing an AI-driven platform to combat payment fraud, has raised $35 million in an equity financing round."
-    publishedDateTime: 2020-08-25T13:48:00Z
-    webUrl: "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/amp/"
+  - title: "ProteanTecs raises $45 million to apply AI to chip design and performance monitoring"
+    excerpt: "Startup ProteanTecs raised $45 million to further develop its AI chip design platform, bringing its total raised to nearly $100 million."
+    publishedDateTime: 2020-08-27T12:02:00Z
+    webUrl: "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/"
+    ampWebUrl: "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 97
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/01/identity.shutterstock_158989667-1-e1597945235962.jpg?w=1200&#038;strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
         isCached: true

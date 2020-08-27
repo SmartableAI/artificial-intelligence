@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-27T10:07:00Z
 originalUrl: "https://www.zdnet.com/video/facebook-ai-researchers-build-robot-that-can-help-find-your-lost-phone/"
 webUrl: "https://www.zdnet.com/video/facebook-ai-researchers-build-robot-that-can-help-find-your-lost-phone/"
 type: article
-quality: 67
-heat: 87
+quality: 69
+heat: 89
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/08/26/5a71aadd-9831-4cf8-903b-5b72b9e88e76/thumbnail/770x578/2834a0ca6ffd89cf1759ccdfe7a7db44/facebook-ai-researchers-build-robot-that-5f4641df836f805692005756-1-aug-26-2020-11-51-31-poster.jpg"
@@ -54,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wbne2FfKFIERKSbCJVk2IYs55updnytqsADtD2fepeTJQSJmYDuSsWb9dR1mr9tdQbZWwhMg2TeXyJfvvs/qBwWifdQSX5hXKe4oW7uro2T5d9mK7DCEUSeZTxj+fWF/wS3L+aF0S1hMnlJziTkJrnDNrCR6SKajY8juU0qKnV6i1I35E3vsIyyQokI4BZUq/B2bb1C40j8smlscUyjqEn4wSYToJn4bqiFZ7sZj+3UL0Aa8gT3/TZZcUny0RfAl+MfZWHnkDQLdYJ3dCAscue3Lvu0oKkzdUfTebT77HJqqnvYa9f7ZwIOIvU6N8gwjofWfHr0eUrsaAJEieozi3z3OS0/qLJjhxPBAmOUhxCc=;VGlPlfaQ3Oz0moijAU8JLQ=="
+secured: "khtU9StSxpNAM1QqGUHvmp8YVQH2o9l9MVLQYbzj4IxPIhbilNeTmTL5BYfIIH/1IiI50ZXE7sQuOCp2dQmbG1iO+g+9dVE8P7sexx7M1n1Nj3szB/02l6ZXUhvvcutd6YH62dqiM7G113Wqils8CmQmrO+PQoKK4T95PJYaOyGc4gmk9U1e+iNWKkjn+hR8YWpxNICLilJUvoX2gJZ5kQ7q1T39/oT5tlj9BdRuOZV41qudmOJiQjKErRSOuh4vccMDM0IvgiWKFmHjSBsB7Utl184DcXrkTxNz0n5KyRtpKYaRnS8uYqqsdDMoUHnXJMLLgY4Iks1qM3jQy1pCMcOldyZFR4N/4wb+CDGjcpH7po/vlWsXFOrxFV5p4i3Cxh5Omt/8maFESfgFUaA0V54DK38XYeUNTKM1XtEJNv9DEU/9uuwiY05UXpk1Bo5KNpjKFysan3seEpaogCJMNC50pRmV9PqRJIKTNeot0GV/2CILyD8eh59828TtNKtwfbbEeexuSM3e4jtz/Jn1OeRp+MXv34+abZj9gIi4jzg=;Z7I8nJ3Wnf2g7n1nrC3QIQ=="
 ---
 

@@ -42,7 +42,7 @@ related:
   - title: "New Microsoft live dictation and transcription feature for Word is now available"
     excerpt: "Microsoft is looking to make your work from home life easier with a new Transcribe feature for Word on the Web."
     publishedDateTime: 2020-08-25T15:14:00Z
-    webUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/"
+    webUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?itm_source=4&itm_content=1x0&itm_term=2377093"
     ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?amp"
     cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?amp"
     type: article

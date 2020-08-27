@@ -3,6 +3,7 @@ category: news
 title: "AWS Announces General Availability of Amazon Braket"
 excerpt: "AWS announced general availability of Amazon Braket, a fully managed AWS service to help organizations get started with quantum computing."
 publishedDateTime: 2020-08-13T21:02:00Z
+originalUrl: "https://www.businesswire.com/news/home/20200813005776/en/AWS-Announces-General-Availability-Amazon-Braket"
 webUrl: "https://www.businesswire.com/news/home/20200813005776/en/AWS-Announces-General-Availability-Amazon-Braket"
 type: article
 quality: 54

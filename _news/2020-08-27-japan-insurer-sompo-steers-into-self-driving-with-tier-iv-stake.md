@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/Finance/Japan-insurer-Sompo-steer
 webUrl: "https://asia.nikkei.com/Business/Finance/Japan-insurer-Sompo-steers-into-self-driving-with-Tier-IV-stake"
 type: article
 quality: 24
-heat: 24
+heat: 34
 published: false
 
 provider:
@@ -40,6 +40,6 @@ related:
         height: 900
         isCached: true
 
-secured: "ZUgnhLdIpBT11fxX9dUWaDRZ+HUZ7ATZ9Yp/8Rm33KNNsNNefVIqVE1qgSnGn0OubqeUD+Ko3wbjM30DBrre/cZOTjgEVtpa9HUsVJJUAmtb6Cek3ei5zhZQw9LaYwbuYCkKPxi+kubbZuonKLEk0dVVmdWwfcv9SGTg24/6L1NEKtYg2TeHKVj4bapvDYGWNZqyI2xMzNo9JvqovPkhuBBTa3JkQLo6eADg/tJ8RSuE8L7p9jXIGJNL3F4a5cYkDlAUPjDwL8PLYVE7QU9XDEOA2CpQQkD6etH1slI1UVwbvbKyCDiFB4vs3tYIN0pQFG9rwpY0QNBGGWxO9sH6s1kGHtPVuNes/fxm4gR9P7w=;NtrVG5sGKBSqALaGkM9wsA=="
+secured: "RZ7NDFbj04QhRJaXSZatGdD1CYzASHP/qR/aVcLzH0H0WfkoeNoeU8zH6pYbFIpYFJplFlSKOAajUrUYzEALHR6xadnYgpGhlG8FbXu5FDLrIIzGK4Y1ZyxZwr9Dez2uYRf1+aESePjz3UsHTzxFsXZCpUU95M8vkTk643FmrBuSM/xmzaeUlTSKzBfI5ysxZqpnRmcl/J5fd7ViqFi87qLNQVrq0GOD865ri0Mbd1wFhYreweDKedyBWz48ruERrAixH7O2fjMRkqnVX1UaI3mSL4YrVaH/mgT6vxeO4OPdb6U++l835ssjUmFAInsWk9NIreMFJb5xR9DUf+Fet5z2xirbX2ZA27i/k4WYMzCgwpzi1+k3iHVivbpWp1Z3DaqDhPA2OD6+zJ0AV6yqXmceayiDhMR+Dwa38VA8/cdguGic3FjdO+YNluVOHrTH0DHATl/UU4PUhbarbqq54dDKFMWygz+ekS13gdy2fJojMKNcRozdB6P1ieNqxUxZP7ohcxnkvOeoZ7lMRNTOxWmhwGiPETscBRbor0vJSKw=;TYXMEWAmzyaz1nWAfbpsfQ=="
 ---
 
