@@ -3,6 +3,7 @@ category: news
 title: "Achieve machine learning goals faster"
 excerpt: "In the IDC white paper “Developing Applications in an AI-Enabled World,” you’ll learn how AWS Deep Learning AMIs and Amazon SageMaker help developers make applications more intelligent ..."
 publishedDateTime: 2020-08-11T00:05:00Z
+originalUrl: "https://www.cio.com/resources/206844/achieve-machine-learning-goals-faster"
 webUrl: "https://www.cio.com/resources/206844/achieve-machine-learning-goals-faster"
 type: article
 quality: 24

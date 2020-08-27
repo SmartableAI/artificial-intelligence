@@ -3,6 +3,7 @@ category: news
 title: "Segmentive - Computer Vision Startup Close $2.4m Seed Round to Breakthrough Whole-body Mobile Segmentation"
 excerpt: "BERLIN and MITTWEIDA, Germany, Aug. 5, 2020 /PRNewswire/ -- Deep-tech computer vision startup, Segmentive, closes final funds in $2.4m seed round in a bid to deliver whole-body video segmentation, in real-time and on mobile. Segmentive is developing a ..."
 publishedDateTime: 2020-08-05T14:03:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/segmentive---computer-vision-startup-close-2-4m-seed-round-to-breakthrough-whole-body-mobile-segmentation-301106153.html"
 webUrl: "https://www.prnewswire.com/news-releases/segmentive---computer-vision-startup-close-2-4m-seed-round-to-breakthrough-whole-body-mobile-segmentation-301106153.html"
 type: article
 quality: 21

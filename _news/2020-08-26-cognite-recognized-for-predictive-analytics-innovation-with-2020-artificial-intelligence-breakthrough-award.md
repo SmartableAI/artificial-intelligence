@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Cognite Recognized for Predictive Analytics Innovation with 2020 Artificial Intelligence Breakthrough Award"
-excerpt: "Awards Program Honors Standout AI and Machine Learning Solutions and Companies. LOS ANGELES (PRWEB) August 26, 2020 AI Breakthrough, a leading"
+excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in"
 publishedDateTime: 2020-08-26T12:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/08/p17247883/cognite-recognized-for-predictive-analytics-innovation-with-2020-artificial-intelligence-breakthro"
-webUrl: "https://www.benzinga.com/pressreleases/20/08/p17247883/cognite-recognized-for-predictive-analytics-innovation-with-2020-artificial-intelligence-breakthro"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17247883"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17247883"
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/n17247850/cognite-recognized-for-predictive-analytics-innovation-with-2020-artificial-intelligence-breakthro"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17247850/cognite-recognized-for-predictive-analytics-innovation-with-2020-artificial-intelligence-breakthro"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17247850"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17247850"
 type: article
 quality: 19
 heat: -1
@@ -54,20 +54,20 @@ related:
       domain: businessinsider.com
     quality: 49
   - title: "Astute Recognized for Innovative Use of AI in 2020 Artificial Intelligence Breakthrough Awards"
-    excerpt: "Astute's Crisis Management AI solution recognized for innovation by the 2020 Artificial Intelligence Breakthrough Awards"
-    publishedDateTime: 2020-08-26T14:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200826005454/en/Astute-Recognized-Innovative-AI-2020-Artificial-Intelligence"
+    excerpt: "Astute, Inc., a leader in customer engagement technology, today announced that it has been selected as the winner of the \"Best Transactional Bot Solution\" award in the 2020 AI Breakthrough Awards program conducted by AI Breakthrough,"
+    publishedDateTime: 2020-08-26T12:54:00Z
+    webUrl: "https://www.lelezard.com/en/news-19394436.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 40
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 42
     images:
-      - url: "https://mms.businesswire.com/media/20200826005454/en/704129/23/astute-logo-horz-color.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
-secured: "QAwhZgQxy0u1N8faCNAvq0TNGTl2Trs1QHnCsJAIazAHlclg9R94muXpUICB+otCEfYb3My5ho++jpvIJRQ4Z3JCnk9cHF8n0SGvsAYrz4tdGaYoq6KVg4iI6X2gNgCxE9iXEEeiCpT1Znei0jBKT3THCtM9E7VrHOgkJRXZVs6ronmaSL0d+NNh5F/ZcZ9Quz0VazQuI5zhMB2QUrhO5HTWkwJvvToLAqSfwFP7PUCb9JxfuNwUKXnwzRRR1hCW6LqlFlqHDx93LfJiRrAJV99DO6yeCEYuRNpNZXWDKr1fVtszMojOOHkwonFcwd+ra42FDGuDPFtnIjN7EvSF0WxOsHlju/bwb3T82UeB3EY=;QblzuT8CLdKm1yFaBNjacg=="
+secured: "mppFUhWyz+q+9UQKy90i9HRhU977Z+WzLfUQ+l2CVCkCOTYANVrQshBFDFqcLupchcbvXZdjYiyBr2SPEvcHFFgZD1eaLfo5SRO899XcOg9DrKt6Nd/oBon2rtnWHO0m2K4YbYSIAqOUQ+2LeaejrbRToTwspkj9Pqj4sdIa/JsrBnQ5rE2q7f8pQbcxfDZlJ7zxzSDNhqEME2dlQC24Q046M07LxH6EZCi8qVPfhmkrks8/T2/WyRTPyHMaLQqHzlAQqdJ1kv9oQUedtyMTFBd3BPEEeMhXbJsOdeSScLsxrU6NjQh6k14qfqMKOwo4wrPryxF2WJXM39UfV5BieJr1lm1fpWn27sLJFm9ggIg=;ZDIsLAcsLabHi/ghdpr+3A=="
 ---
 

@@ -3,6 +3,7 @@ category: news
 title: "Containers Running on EKS and AWS Fargate Can Now Use Amazon Elastic File System"
 excerpt: "Amazon announced that Amazon Elastic Kubernetes Service (EKS) pods running on AWS Fargate can now mount Amazon Elastic File System (EFS) file systems. The update is a follow-up to AWS customers requesting support for EFS with Fargate when using Amazon Elastic Kubernetes Service (EKS)."
 publishedDateTime: 2020-08-25T11:10:00Z
+originalUrl: "https://www.infoq.com/news/2020/08/aws-fargate-amazon-efs/"
 webUrl: "https://www.infoq.com/news/2020/08/aws-fargate-amazon-efs/"
 type: article
 quality: 34

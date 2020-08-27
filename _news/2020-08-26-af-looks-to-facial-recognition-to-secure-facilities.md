@@ -55,6 +55,20 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Facing gender bias in facial recognition technology"
+    excerpt: "Facial recognition bias is real, and software providers struggle to be transparent when it comes to the efficacy of their solutions."
+    publishedDateTime: 2020-08-27T05:04:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/08/27/facial-recognition-bias/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 39
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2018/10/09100001/identity.jpg"
+        width: 1600
+        height: 1094
+        isCached: true
   - title: "Pittsburgh Councilman To Introduce Legislation Banning Facial Recognition"
     excerpt: "Corey O'Connor will propose a bill that would ban the unrestricted use of facial recognition by police, KDKA's Amy Wadas reports."
     publishedDateTime: 2020-08-25T09:47:00Z

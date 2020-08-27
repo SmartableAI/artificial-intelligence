@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Astute Recognized for Innovative Use of AI in 2020 Artificial Intelligence Breakthrough Awards"
-excerpt: "Astute's Crisis Management AI solution recognized for innovation by the 2020 Artificial Intelligence Breakthrough Awards"
-publishedDateTime: 2020-08-26T14:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200826005454/en/Astute-Recognized-Innovative-AI-2020-Artificial-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20200826005454/en/Astute-Recognized-Innovative-AI-2020-Artificial-Intelligence"
+excerpt: "Astute, Inc., a leader in customer engagement technology, today announced that it has been selected as the winner of the \"Best Transactional Bot Solution\" award in the 2020 AI Breakthrough Awards program conducted by AI Breakthrough,"
+publishedDateTime: 2020-08-26T12:54:00Z
+originalUrl: "https://www.lelezard.com/en/news-19394436.html"
+webUrl: "https://www.lelezard.com/en/news-19394436.html"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200826005454/en/704129/23/astute-logo-horz-color.jpg"
-    width: 1200
-    height: 627
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -58,17 +59,17 @@ related:
       domain: businessinsider.com
     quality: 49
   - title: "Cognite Recognized for Predictive Analytics Innovation with 2020 Artificial Intelligence Breakthrough Award"
-    excerpt: "Awards Program Honors Standout AI and Machine Learning Solutions and Companies. LOS ANGELES (PRWEB) August 26, 2020 AI Breakthrough, a leading"
+    excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in"
     publishedDateTime: 2020-08-26T12:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/p17247883/cognite-recognized-for-predictive-analytics-innovation-with-2020-artificial-intelligence-breakthro"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17247883"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17247883"
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/n17247850/cognite-recognized-for-predictive-analytics-innovation-with-2020-artificial-intelligence-breakthro"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17247850"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17247850"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
 
-secured: "77ur4xfbfVYEVWmRi3+k6SBE+MSnRJ+MqyqKJ2R63hBXCJUZt9SaIzXwdT08JUn3x8y/41up5tOZAQYJQTNJ4Imy+4F983mOmLmohBFt9PgEz/mtsaboQhTTeTaSybfgAC90Rsw/0b85hl6kRrIihNUHXMmHk+EGAaW2RF2ZK3RIlKtIM5SHxV/2q2zAQyFT0/t3R2jq5Ih7z2Zf3Hf4EuA9W16f/IhxJbjwAqf1qM1hiquJTuN4wK8GlVGGVWmahkPc3JqVOAZvvD8PaW7iZ0SFN5sph2AegMp6OMoijR0035d6CTK7iG7intskdRSF3AqKCKD2/nK7xpBw8QqEFB1+UKrhuMTxv0FDDxLZ2Ts=;ZZFhzweKZpENvoj+ja+mvQ=="
+secured: "NoKxLqgW/GbOLm8oTsaGF81UKBfzsNsbI6eLg266XOl+NdIR3VtbAxAJ5vfSpqSk02CgbDUfe7BD47F5fRwU3Fa1N3gfK6/2aqa7XcgrSv4uZdQedpn4kcfNPdd5ntGTxnvIv0ciNGeqfIxyYnMAc5vC6AbycSUaqiL7YZxq944g3ZVbXknt8SqTLwzVgNSkpA4DNxMFKzS6vGbQgYHHUifIJU0k3jB7mpJzuAqVA2dim9/GLzDhcRzF12mRTHcmuvJdaclEDgdjIQba8R1VOTtx+6/TexeKu9Bk3FdHnAhXa5K8j3aeNeIe+kv1t0HfurwnbjveMxP9scok2k7HuzjODZ18qEqgq4R/j2FcEjM=;WlTOJAP7WOYHq+Ogh/t7Qg=="
 ---
 

@@ -3,6 +3,7 @@ category: news
 title: "Healthcare Natural Language Processing (NLP) Market Next Big Thing | Major Giants Apple, Microsoft, Dolbey Systems, NetBase Solutions"
 excerpt: "Latest Market intelligence report released by HTF MI with title \"Global Healthcare Natural Language Processing (NLP) Market Size, Status and Forecast 2025\" is designed covering micro level of ..."
 publishedDateTime: 2020-08-08T11:24:00Z
+originalUrl: "https://menafn.com/1100602854/Healthcare-Natural-Language-Processing-NLP-Market-Next-Big-Thing-Major-Giants-Apple-Microsoft-Dolbey-Systems-NetBase-Solutions"
 webUrl: "https://menafn.com/1100602854/Healthcare-Natural-Language-Processing-NLP-Market-Next-Big-Thing-Major-Giants-Apple-Microsoft-Dolbey-Systems-NetBase-Solutions"
 type: article
 

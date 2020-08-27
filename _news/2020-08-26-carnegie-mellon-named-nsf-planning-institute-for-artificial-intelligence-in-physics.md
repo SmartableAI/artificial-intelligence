@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "UT Austin selected as home of National AI Institute focused on machine learning"
-    excerpt: "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine Learning, one of five new national AI institutes."
-    publishedDateTime: 2020-08-26T13:28:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 52
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/241249_web.jpg"
-        width: 1440
-        height: 983
-        isCached: true
   - title: "NSF awards $20M to launch artificial intelligence institute"
     excerpt: "The Nation Foundation has awarded a five-year, $20 million grant to a team of scientists, including iight from Harvard, to create a new research institute aimed at explo"
     publishedDateTime: 2020-08-26T13:00:00Z
@@ -51,20 +37,6 @@ related:
       - url: "https://news.harvard.edu/wp-content/uploads/2020/08/052709_Cong_LIn_046_2500-945x630.jpg"
         width: 945
         height: 630
-        isCached: true
-  - title: "UC Davis to lead new artificial intelligence institute for next generation food systems"
-    excerpt: "UC Davis has been awarded $20 million as part of a multi-institutional collaboration to establish a new institute focused on enabling the next generation food system through the integration of artificial intelligence (AI) technologies."
-    publishedDateTime: 2020-08-26T13:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/241215_web.jpg"
-        width: 1440
-        height: 1080
         isCached: true
   - title: "$20 million NSF grant for new artificial intelligence institute for molecule synthesis"
     excerpt: "A team led by Steven L. Miller Chair professor of chemical and biomolecular engineering at the University of Illinois, Huimin Zhao, was awarded a five-year $20 million grant from the National Science Foundation (NSF) for the NSF Artificial Intelligence (AI) Institute for Molecular Discovery,"
@@ -94,15 +66,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "UT selected for prestigious new National Science Foundation AI institute"
-    excerpt: "In a major achievement for the Austin tech and academic communities, The National Science Foundation picked The University of Texas to lead a new effort to develop advanced algorithms with applications in medical imaging diagnostics,"
-    publishedDateTime: 2020-08-26T10:38:00Z
-    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2020/08/26/ut-picked-for-nsf-ai-institute.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
 
 secured: "iFH3tvsBFpomknGsW4Ra38QC+E+NdyYA8XUlDvGKbkItKB3+DZO7xo7gKQIAPNmr3tvUZYjBRMbGjVj6JzTGz+t3UnC6h0uSINA0wziDJJR2E5SFAyvpXUsSHXO5agVUBGvekDegm9ryRK3WlKTSzBip2AUoAzph10v1pAhu5OIyAFgI4cZCTjX1I47Azj0JVKzBn6xndPc4uAcdiTc4Rv7x+AtT3VLIjqZ1zK2dFMmmZDeNtTXejGOrmFE2JIgn6ERSm24QGpCpFi2bARTaA9ZqUvUS81Iu+j9U+Ch6O4fEAS+mbkSpkYcvXoJbAego0nVxH1kEwhH8MTBS4EbfWii1KArE3Nx20UWDhrBdFCJ9oG23nTH6+/mSiy6czpAEGCRXqOO4Q+XGsd32kwF1GF2hpw4hA2l09JOEPa1dSIfi18w/MSddTOtKz0lDi40oYs7mwAlUcRh2mvGRdEMoY9Tmk4ef4tLxzjyoQ4fECIss0/GE0fILop8G9XIerJCDD4FuBTPKcUzXKS/DTVOs4DcYsxkl3kl+Y21hwgrhTtA=;oCQI0JVquYY0CtLVhuMGGQ=="
 ---
