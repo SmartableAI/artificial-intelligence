@@ -8,6 +8,7 @@ webUrl: "https://www.freshplaza.com/article/9244435/world-s-largest-agri-robot-t
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: FreshPlaza

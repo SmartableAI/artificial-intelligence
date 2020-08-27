@@ -7,7 +7,8 @@ originalUrl: "https://eandt.theiet.org/content/articles/2020/08/neural-network-a
 webUrl: "https://eandt.theiet.org/content/articles/2020/08/neural-network-able-to-distinguish-between-various-stone-age-tools/"
 type: article
 quality: 39
-heat: 39
+heat: -1
+published: false
 
 provider:
   name: IET
@@ -23,6 +24,24 @@ images:
     height: 450
     isCached: true
 
-secured: "9lWiuTEwbFxGG9hY0m1/x9siM4SWQijUOuxp47uu3se3yehNuOgTQk5lysMgDzYxoNFYC8k6IhvMRh3RA5DpbT5M1UlImLNq5Sw1WKBArOdFPWMjRJd3AV80VC3FB+G56WD9jDLY4G9T4YNiRbCR2L6aTard6wQaMCPmgAF1QwGw3mD3ghKfRXdtu1oce9691FREwiUP3vu31OrYYxwm8X6+etBhAO+4GAvNIV7+KnCi6jD2aHTLMhaXcd6NfxwYlzIMPHpjFhuVKK1A2M6xDrMj+xC/7NvVusP0UlkHzmdraQ4nc5JyPQBOquNq3p0OU7bZitF5J8owHO/nSFPEjRO6U76SZzVghucnJsk5YgQ=;ofr0nWrbPPzS5ktiocQOIQ=="
+related:
+  - title: "New neural network differentiates Middle and Late Stone Age toolkits"
+    excerpt: "The transition from the Middle Stone Age (MSA) to the Later Stone Age (LSA) marks a major cultural change among human hunter-gatherer ancestors, but distinguishing between these two industrial complexes is not straightforward."
+    publishedDateTime: 2020-08-26T18:08:00Z
+    webUrl: "https://phys.org/news/2020-08-neural-network-differentiates-middle-late.html"
+    ampWebUrl: "https://phys.org/news/2020-08-neural-network-differentiates-middle-late.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-neural-network-differentiates-middle-late.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-newneuralnet.jpg"
+        width: 2317
+        height: 1500
+        isCached: true
+
+secured: "OU9DK2E0ZU3ayHpJLjZVAeMqHYoZIhfADjY8x4mnXvaVLUFpIiyj+V2cG8OhBpXgENKkOCkE0TD7nCLpomn7WZHFDOYioO8E8x1jr4unUqqXGVX29UHSpxuay/eDBcXwymZjIvYJUkymkt2HHbW8dcH1EFRH9+oCwh2Q5U1er47eV45d/F6MgRgETTBI6Jqi6tpnh1hbloOGBcQnCf1zQIeYodb5SZ49F2irqsrGyOlw48JHTSprykhKZ9ckqhKbOSHy6PbEqHeL2C22Rq5AriwymFCskSmpKXCSSQBPhN/kzHwY4ROWIK1+ljOY2HM7PGQDEQRnINvp2k+zQsAaf2JmGqxCA0w1Kq6+Sny1kAdW4KR9SLHz2jHSVhWS0hmZduR57q83y34AfxeBQde36NkYi/6X5acIcwy7LOxjFAhdW2N0C+ChBsRkPlXd9qLVpogDjSgz4JWYuNJtsULkRj/K0SDW7O7zhKM0e8g5Xwkn/hdAVwoT+7YabH/5/AE3LAyzC78mANibfriR3Sht09OtQgVsFK/+3eOJvSXWI2o=;SA0BH0rlgtSWQ8vhEAoXhg=="
 ---
 

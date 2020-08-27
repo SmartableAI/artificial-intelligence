@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitalt
 type: article
 quality: 54
 heat: 54
+published: false
 
 provider:
   name: Digital Trends

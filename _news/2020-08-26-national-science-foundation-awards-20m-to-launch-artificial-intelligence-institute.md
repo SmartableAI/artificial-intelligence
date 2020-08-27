@@ -53,6 +53,20 @@ related:
         width: 1440
         height: 1440
         isCached: true
+  - title: "Carnegie Mellon Named NSF Planning Institute for Artificial Intelligence in Physics"
+    excerpt: "Carnegie Mellon University has received a $500,000 planning grant from the National Science Foundation (NSF) to work toward creating a"
+    publishedDateTime: 2020-08-27T15:25:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/carnegie-mellon-named-nsf-planning-institute-for-artificial-intelligence-in-physics/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 31
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/shutterstock_flightpaths-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "$20 million NSF grant for new artificial intelligence institute for molecule synthesis"
     excerpt: "A team led by Steven L. Miller Chair professor of chemical and biomolecular engineering at the University of Illinois, Huimin Zhao, was awarded a five-year $20 million grant from the National Science Foundation (NSF) for the NSF Artificial Intelligence (AI) Institute for Molecular Discovery,"
     publishedDateTime: 2020-08-26T13:17:00Z

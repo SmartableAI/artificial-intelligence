@@ -9,7 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolst
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,6 +29,24 @@ images:
     height: 600
     isCached: true
 
-secured: "08FLy//i1GaJuoSFJswh2C8N3ZhnkaqyaOX2jc9kFGYFrzVmX50vSclqxSm+pw6tYyb2d7KdlK6tosP4RmmJs921hKuKOxgCNJzzlJtcA+R6P4/h3fs7LK8y+UHD7fBhhpoWi4BaFdexak79e7tPoYkzDiEBsO6vha2Bgw2LDwz1hHfWBHnsg1b0VzxmmpbDFMWwx1h+km0vwql06Vov6ArMsFez8uUB7QFihPFTNM7YIUs7P3XhN7iDAQmKynH6euScR+vastGvOhjZASyFHBgdk6Lm8tqaOAxAGcFcfXnWkM6XpKPGOC8OvlIdQmB/U/BIPIzh+/gAd2kDxms0Q/KO81LI+pEBI6CZeRluAEA=;GcjmkhXkR60hy7QixUVcYw=="
+related:
+  - title: "Socure raises $30 million to combat payments fraud with AI"
+    excerpt: "Socure, a startup developing an AI-driven platform to combat payment fraud, has raised $35 million in an equity financing round."
+    publishedDateTime: 2020-08-25T13:48:00Z
+    webUrl: "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/01/identity.shutterstock_158989667-1-e1597945235962.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "wFI3Fs1VaTsqTaVmEz8rmL/e4n9DgNEftJw9LYGsPNfeqNuykKaejaJgVWFvHQEEeprdNxJIk8X+q6yAJPGhqQ2mh6UNftDUZWx2INFeG+y1xTnFG/b/0sJZTSNlSayRUx2YbV3nOHBpCT6PQ8sO4FihQD42IJT1BECiH0iLOPmUc2KSEcwhLGnOTq4g8PcPkEUxc4/8SCerMfBlm1dMTMpqlx+Xdkf6OYHGFRt3pjK+BlSKnvjc6E880kJ1MN4U3H95y/3EWP1n2+y1oGepA4i8xQnYvgXvUzRANhXeSVvBLCCOX8gtsG6SjqLWeLRNIV7R0Fa+3EqYQC8jaQ1MrWgBt8IEGQ/0am52RvMeFA874N4LDA8jm1idqFrEtO8RsWxE/zs0repJ4lwYgXjX1srv2Q4Kbgvhg3mSYnUdUDf4gyeXVZZ9CGBR0Sd8UzWfa8CQ/k0rXsrB0q4dmNObG6g9+0dWpAbC1hBEddF4eoPO1RQgfKGTfX4z/S9qRVkSRh+nIOi1mRRBO13GmNit6yf4VL98b4MqfyQgIcepK+0=;B5ySGjgUpKqpD1Fjg1bMOQ=="
 ---
 

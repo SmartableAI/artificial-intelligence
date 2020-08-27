@@ -8,8 +8,9 @@ webUrl: "https://www.zdnet.com/article/graph-machine-learning-hype-and-beyond-ar
 ampWebUrl: "https://www.zdnet.com/google-amp/article/graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-3-7/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-3-7/"
 type: article
-quality: 72
-heat: 72
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: ZDNet
@@ -22,6 +23,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
+  - Google AI
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/2020/08/27/357024d4-fa60-47c8-9df3-52f9bc25856c/arangoml-pipeline-complete-pipeline-1024x470.jpg"
@@ -29,6 +32,6 @@ images:
     height: 470
     isCached: true
 
-secured: "gnpPkGDK+2tDO7LG2EqmO9YVJYUslxU0/+Z9xOefNkApXrmIRZsBfZbbbBmgFa7AJ7/utFFXPc6S7fAL+gpaDxuLtxtIRQNxy0NiS+m2qhs6wW30ZkFaifz3bgOwhdDj9SRwnKvYp3xjoUwfu5fY8j5u6wgN33tgIK2tGqVti+g8jAOXUreB/ffQnXEo4eerhTeOSBRRA+64jgqw8uBh0oTWJ3vPIFZcCD5SXHfqqkQG/dX5mYiX6BJ5nlnOkz7S2/y4C/Wxm3KB7LECKzFP0MPjCyl82oJgEoHfVnTba4oRimqEdfSwU+goNLIFdW93vPeEP4Do35o6/+zqk88XeGc68mSsfTNsqdpXnL/2jTA=;cID9pVroTUWbqtgLt64L4A=="
+secured: "nfsOKvkUVVF7Rc1sjs9n5wbfll9D80AxvesX50awWZp6ARzrGbT5rDzjX+IbIcn4USB0TdME7rxYxOVeAslM8pBr3NvwdRbo+YTHRuMQ/s/G6StFVpIw6kjxga2X4T55k67gpZ6m+5jWQvZjx5M3NU6Oa07q1duVxitfPOvajWG9iOjIt0/Fs5ikeB+7/RwNZmH0O55rB24jTJznXGI2j8HEWigUE2SYL0S67np59EAQy7n5Ai636+RFwdIlKmS6hOVRUIKS0lXstLtEjB9B+2VMCdniMYIx9bZ6nlH2Yx28zV6kVHTDtUL/NZppYhTH0djzF4vAdQRx2VZvjUTu2LG6AWB9KA98r+sxrkV/ZNYSU8Bu9UzGPUwjqRYbdu7sCCySiwbJIonw4yN9f2OAJrrI/y0U1MHlkI0ibQgC5wR+H6HM4AhTvIS40Xo/4A/mqpxnSy30tfagXdiFjKJ8RQYyG8Zq0eUk0my/PG+9siFyLln1v6fCmg0Zn9ASPE98MzUPboZKNwgpfEYa8f1YrjrESdsSwEHeMZZ0fOfzSyU=;3u3m5vF7/5NWjraNf8E5Bg=="
 ---
 

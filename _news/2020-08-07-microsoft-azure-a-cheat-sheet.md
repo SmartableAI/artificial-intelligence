@@ -3,6 +3,7 @@ category: news
 title: "Microsoft Azure: A cheat sheet"
 excerpt: "Cray supercomputing comes to Microsoft Azure to boost AI workloads in the cloud (TechRepublic) Microsoft is working on an Azure-powered Cloud PC service (ZDNet) One of the core strengths of Microsoft Azure is the ease of transition for organizations ..."
 publishedDateTime: 2020-08-07T00:22:00Z
+originalUrl: "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/"
 webUrl: "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"

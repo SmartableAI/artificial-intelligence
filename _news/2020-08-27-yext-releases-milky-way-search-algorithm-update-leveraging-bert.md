@@ -8,6 +8,7 @@ webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/yext-relea
 type: article
 quality: 24
 heat: 24
+published: false
 
 provider:
   name: WFMZ-TV
@@ -22,6 +23,22 @@ images:
     width: 400
     height: 225
     isCached: true
+
+related:
+  - title: "Yext Releases Milky Way Search Algorithm Update"
+    excerpt: "Business search technology provider Yext today launched Milky Way, the latest upgrade to the natural language processing (NLP) algorithm that powers Yext Answers, Yext's site search product. Headlining this update is BERT,"
+    publishedDateTime: 2020-08-27T15:22:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=142554"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/1244448/Yext_Milky_Way_Update.jpg?p=publish&w=950"
+        width: 950
+        height: 535
+        isCached: true
 
 secured: "qVQhf1vo5Wz2Z1idT4Q0iefxvMquaMVOVroDM2F4Unk3xXG2gTTNaA/E/sh9zXVQUL5rN53fgpUR9u5DmaG2h7ZQXvuhZDqJ0ZifRAE+cWHA4jIHRjE+H7VGQeRHz7RWOpHdkbH6yisNL+CbqPIv/vDj+w90tc54zvI6X5DlPD/QeKHhhutCQ0DAFigzUYHyHbb6JVwcjv6BatgUPXdxcF1yLnOalSm5/CcUWZK+eBFbzLY8mA8JWhNEbTS6IP41h5G5D3jtg6oLU7AycqSj7AVBQaPikPYVK6kqBNcF1TtwUPptRhmu++NAT5MofA1UdP3P6ngESL8D6J78v5Ajl9r8BLonfrLflKI9wGXpNKs=;EmHGPClpAwk5Hr+y1/iLKQ=="
 ---

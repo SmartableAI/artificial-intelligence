@@ -3,6 +3,7 @@ category: news
 title: "How Financial Companies Use Big Data To Make Decisions"
 excerpt: "Emerging technologies such as artificial intelligence and machine learning are transforming financial companies. \"Big Data\" is at the core of these innovations. It"
 publishedDateTime: 2020-08-11T18:02:00Z
+originalUrl: "https://www.benzinga.com/general/education/20/08/17035715/how-financial-companies-use-big-data-to-make-decisions"
 webUrl: "https://www.benzinga.com/general/education/20/08/17035715/how-financial-companies-use-big-data-to-make-decisions"
 ampWebUrl: "https://amp.benzinga.com/amp/content/17035715"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17035715"

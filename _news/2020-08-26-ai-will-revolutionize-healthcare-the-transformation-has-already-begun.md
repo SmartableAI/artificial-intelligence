@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutioni
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "These Are The Startups Applying AI To Transform Healthcare"
+    excerpt: "Of the many ways in which AI will transform our lives in the coming years, its impact may be more profound and far-reaching in healthcare than in any other field."
+    publishedDateTime: 2020-08-27T14:42:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f45c7bcd65e9b287f6b6c73%2F0x0.jpg%3FcropX1%3D75%26cropX2%3D1005%26cropY1%3D0%26cropY2%3D523"
+        width: 930
+        height: 523
+        isCached: true
   - title: "Where does the UAE stand in the digital transformation of healthcare?"
     excerpt: "Dr Satish Prasad Rath, Chief of Innovation and Research at Aster DM Healthcare, takes us through how artificial intelligence (AI) has helped his organisation cope with the Covid-19 crisis."
     publishedDateTime: 2020-08-23T07:31:00Z

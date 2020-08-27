@@ -52,6 +52,20 @@ related:
         width: 1440
         height: 1440
         isCached: true
+  - title: "Carnegie Mellon Named NSF Planning Institute for Artificial Intelligence in Physics"
+    excerpt: "Carnegie Mellon University has received a $500,000 planning grant from the National Science Foundation (NSF) to work toward creating a"
+    publishedDateTime: 2020-08-27T15:25:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/carnegie-mellon-named-nsf-planning-institute-for-artificial-intelligence-in-physics/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 31
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/shutterstock_flightpaths-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "National Science Foundation awards $20M to launch artificial-intelligence institute"
     excerpt: "The National Science Foundation has awarded a five-year, $20 million grant to a team of scientists Harvard, MIT, Northeastern, and Tufts to create a new research institute aimed at exploring the use of artificial intelligence in fundamental physics."
     publishedDateTime: 2020-08-26T15:44:00Z

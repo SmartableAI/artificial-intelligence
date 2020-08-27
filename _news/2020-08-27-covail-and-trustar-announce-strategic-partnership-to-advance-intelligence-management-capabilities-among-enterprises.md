@@ -8,6 +8,7 @@ webUrl: "https://www.prnewswire.com/news-releases/covail-and-trustar-announce-st
 type: article
 quality: 17
 heat: 17
+published: false
 
 provider:
   name: PR Newswire
@@ -23,6 +24,6 @@ images:
     height: 1020
     isCached: true
 
-secured: "03Us04QWhKtm5z9Y5XcfWk41RKF/imsczm+4VefRWS1KHHn9ekwGlM509wsrAhqf1V/HJauM/fz4vfZ/axL0vUBQsEWolCDMzDIwtfjkcTzxGA3tyEExmQkEqa9FYGu5KETHYC05dmMasPzXmF478TGYDcFy0CIhX5T1vhYT6FqSB0wwim/9FFbib+uRs0KoCdeaikFjFky4qWu/3VSpKAbhSMA2uK8alI2xFQtm8ExjciSJXIAJxmVml5wk9RHYbj+dmnbRlJYZOdvtGQI/V4o6fabgTVplM7cNTiH4CRIMCVifGfeEawhI+86OzjBkvRXb8WRZvyZ0VaYM0A2wleSb0aL2CF06U84T4+WpX1o=;xTb4zkiWobHqrBwupdKiWg=="
+secured: "z2GHql2SaVrhNr+qyjAlR4PNA69IFMmVXdSa7Ycftl1zugUZrgtSY/sw1mRz7PsRfC70t7nhW5D+udG0cYIPRu8050MkdVO01S8HszHw542QRl+dXqgEXcaf6H+Kyule8Xw9vFUtHw+A0mYUV5V3qWBKVbiT7tMK+wsp4KB1YOFCZ62hcZvL2an/RyBH+VAs2/96yWeo6nWx5v8D3fBjLPihr4Nu/akhcrvfNOE6kWAgj+aR2nm0dWioMdc9VtG2DRQ9K9zahME60hHDjzQi8eojkgvTIOnxwPXYbfDDR1UDWBNwuMjxNs5lOL+RP5i+JoWThN7yzF6HvULDspZ5GYI7HQ5gjHn5E9hBnaWkWczNhf3IleKH/EUM2zEJH+aIafQ+Z7vUomCLrKE4hivnsRVaqlNdOCenzkaY0kCEB8BPtp1XiHe78t4XoCJm5+1gE2bS78lRFnhgmbVfZT8lvce34K29pVVZ9bC8LRUiUkn8kOhG+wSE+JZu0kLkhBxITqtLEd2sTjZMl57ai8VXfQE+WSSOtPIpbXW5feXT9X8=;6YXxdvd3xVxp23gSKdacmQ=="
 ---
 

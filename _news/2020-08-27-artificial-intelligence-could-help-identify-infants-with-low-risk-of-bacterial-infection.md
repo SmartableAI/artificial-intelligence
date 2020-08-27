@@ -8,6 +8,7 @@ webUrl: "https://www.news-medical.net/news/20200827/Artificial-intelligence-coul
 type: article
 quality: 28
 heat: 28
+published: false
 
 provider:
   name: News Medical

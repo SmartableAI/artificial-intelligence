@@ -8,6 +8,7 @@ webUrl: "https://mobile.twitter.com/elonmusk/status/1298494373278220290"
 type: article
 quality: 102
 heat: 102
+published: true
 
 provider:
   name: Washington Post

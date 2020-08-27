@@ -9,7 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/federal-contractor-taps-goo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/"
 type: article
 quality: 83
-heat: 83
+heat: 93
+published: true
 
 provider:
   name: ZDNet
@@ -22,6 +23,24 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "U.S. Navy to tap Google machine learning for repairs"
+    excerpt: "The U.S. Navy plans to tap Google's cloud and machine learning technology and use drone imagery, to modernize its process for determining when vessels and facilities are in need of repair. Why it matters: The planned move comes amid internal and external scrutiny over the ties between Big Tech and the U."
+    publishedDateTime: 2020-08-27T14:31:00Z
+    webUrl: "https://www.axios.com/navy-google-machine-learning-63432fa7-e4c0-4ddf-8244-d6cea7adb20b.html"
+    ampWebUrl: "https://www.axios.com/navy-google-machine-learning-63432fa7-e4c0-4ddf-8244-d6cea7adb20b.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/navy-google-machine-learning-63432fa7-e4c0-4ddf-8244-d6cea7adb20b.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 74
+    images:
+      - url: "https://images.axios.com/J-38wxjf7CVuRATxaHf0BYFRijw=/fit-in/1366x1366/2020/08/27/1598535798444.jpg"
+        width: 1366
+        height: 911
+        isCached: true
 
 secured: "a9gUkNDvZBYpEdL7I6GZRIAAhaeHvBbAS5PZorvQDuZycRymNokNmtCcsq7IoSUhPfbekCucAxead2dAYUexWGDQcADWPOXCLocxOUsf/OR2BF9+xopnZF8Ka17/2PdX2ePoG18PTt7t0JkACh31cQaZr5wdaWyh2X1WnT8cKSceIt6yOC/OjxePaDbAGS4TysBSziUk8XXKq5lpRFpu2aoRZilndpIBLMl7JSG1CGLP4IrwxrdGZusB05O4mQzqRnW/lmcLsgHKPtodRK6MGzTYT2Oof6fEKT/MG2oMGARKP3ClHQYzdZ4gVYhErPGW6x3wYI+fp21Mov133MmKZSdsrOzkzf2/ugOeeWm881n9ybmmDLo13EtTnYHRm935DU95aNokZQQyC2EAk5D5GHv5zWl8orO+G+TIYGNmGxs6/cBFt25G8xHq3fEou/Sl/5uFDUvXp5v6XsM2yTk7i29lGdB/ZrLMbSoZV8/K9917yFYlmuuxW8+EFaZdd7cWfLV3Q5OO9NttYaYyKP6D2tlmh7ssQObeEGUxH0MCqBs=;w5+O1iwx33MuASbU2xHD3A=="
 ---
