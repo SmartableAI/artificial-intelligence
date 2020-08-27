@@ -1,30 +1,26 @@
 ---
 category: news
 title: "New neural network differentiates Middle and Late Stone Age toolkits"
-excerpt: "The transition from the Middle Stone Age (MSA) to the Later Stone Age (LSA) marks a major cultural change among human hunter-gatherer ancestors, but distinguishing between these two industrial complexes is not straightforward."
-publishedDateTime: 2020-08-26T18:08:00Z
-originalUrl: "https://phys.org/news/2020-08-neural-network-differentiates-middle-late.html"
-webUrl: "https://phys.org/news/2020-08-neural-network-differentiates-middle-late.html"
-ampWebUrl: "https://phys.org/news/2020-08-neural-network-differentiates-middle-late.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-neural-network-differentiates-middle-late.amp"
+excerpt: "The change from Middle Stone Age (MSA) to Later Stone Age (LSA) marks a major cultural change amongst our hunter-gatherer ancestors, but distinguishing between these two industrial complexes is not straightforward."
+publishedDateTime: 2020-08-26T18:44:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/08/200826140909.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/08/200826140909.htm"
 type: article
-quality: 59
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-newneuralnet.jpg"
-    width: 2317
-    height: 1500
-    isCached: true
 
 related:
   - title: "Neural network able to distinguish between various Stone Age tools"
@@ -42,6 +38,6 @@ related:
         height: 450
         isCached: true
 
-secured: "XdWSX0x5pHxkMTo7qj6G6hbtXsLYhDNPpQyWicdfTIWHRtxOjZJXm6AL+CTNkifhQ5wwYmvpZEk0q+ADPbjb3v22AHljDe+YwQyRlhevGbEYJvb+IiQPPfLwhFFFzOalSlUGrie/yfzILmekI+UXyjN/pCUIeXOQr9KHAiFJoLVkmd0CxtUjdSHB/M8UgWt6k1rxqWe4Qyo+QLYVRjclpdEBqfmOm5wusBnRw3P6iONTeP3yGfJEJB2otrh7wePYkClftOSb+Pq8h4Gl3lF1LD8FHCDahVYGCIMqcWKDv+lkVpnWBDuImvRcTJEIss9/zRT2WzQ9xiiTDaoXRBg1Z7pmLPUI59pQAEnt9j7jtIIJKhGJcd3cLrL1fvuh6y/oZPmGQyKCAvUFNxaYARRxD40f6ZVYvl2TdcFFpIvyU5u6VGpm1DdknibsF07HfBum324hAGPRAt7kSZ53eW0Y75mThU5a5mTaMk0yLM6Gd4V1SjOv/eR3BxlbyroOh03Q01igRcbXavfZ+UFs0PhuvnrzB2tKcx0LdrH8tyGjmJg=;wT16XREdKPPIVHP8z5TPKw=="
+secured: "D5EGTTtgHK+7ip5qdWVIIOHtAo+tvOLrmFejv6t6JHoyy5fgL/1gxP21qmUd89xeNTTi4u5vnsGK8xn/lva2Pvs+gVauKQcSfgZ3Nb9KCel58nxSTcrdsDoOT0CWIC13kVik6fmV0gpGVV0ZHxs9o7Y2Cg5XNUqFp8YWzYe1Q7lPU01/LlpF8pr9FyR7w6mv0/z4zQnOR3YTMQg+fKdY1MeT3px1VucBUVHmfDsG02Bkh/FHf5fDjF9GbsiqKV80fHrnTU6rj3dzWNeH/2lZfN5rM+tU6y22GMf4mCynJXFnovG1WzZawNL0UwiuYPaexHHSLEoW+I27qsw/uPfd5KaThVRtVJTt3WPUoo3XmTM=;fr36hMMPDJPH8UGmv6Rzmg=="
 ---
 

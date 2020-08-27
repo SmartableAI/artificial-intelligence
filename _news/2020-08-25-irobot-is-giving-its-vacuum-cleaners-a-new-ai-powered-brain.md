@@ -82,7 +82,7 @@ related:
   - title: "iRobot kicks off robot vacuum sale to celebrate launch of new software"
     excerpt: "Robot advances robotic vacuum cleaning with the iRobot Genius Home Intelligence A.I. to give owners greater control of Roomba and Braava jet robots."
     publishedDateTime: 2020-08-27T16:42:00Z
-    webUrl: "https://www.digitaltrends.com/dtdeals/irobot-genius-home-intelligence-announcement-sale/?itm_source=124&itm_content=2x2&itm_term=2356592"
+    webUrl: "https://www.digitaltrends.com/dtdeals/irobot-genius-home-intelligence-announcement-sale/"
     ampWebUrl: "https://www.digitaltrends.com/dtdeals/irobot-genius-home-intelligence-announcement-sale/?amp"
     cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/irobot-genius-home-intelligence-announcement-sale/?amp"
     type: article

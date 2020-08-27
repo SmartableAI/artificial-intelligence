@@ -3,8 +3,8 @@ category: news
 title: "iRobot kicks off robot vacuum sale to celebrate launch of new software"
 excerpt: "Robot advances robotic vacuum cleaning with the iRobot Genius Home Intelligence A.I. to give owners greater control of Roomba and Braava jet robots."
 publishedDateTime: 2020-08-27T16:42:00Z
-originalUrl: "https://www.digitaltrends.com/dtdeals/irobot-genius-home-intelligence-announcement-sale/?itm_source=124&itm_content=2x2&itm_term=2356592"
-webUrl: "https://www.digitaltrends.com/dtdeals/irobot-genius-home-intelligence-announcement-sale/?itm_source=124&itm_content=2x2&itm_term=2356592"
+originalUrl: "https://www.digitaltrends.com/dtdeals/irobot-genius-home-intelligence-announcement-sale/"
+webUrl: "https://www.digitaltrends.com/dtdeals/irobot-genius-home-intelligence-announcement-sale/"
 ampWebUrl: "https://www.digitaltrends.com/dtdeals/irobot-genius-home-intelligence-announcement-sale/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/irobot-genius-home-intelligence-announcement-sale/?amp"
 type: article
@@ -90,6 +90,6 @@ related:
         height: 500
         isCached: true
 
-secured: "20duziTltE/LiWpacj2jnNWDSfyo/kS8TMoCSakOad92XV0T4E4kXrMVGqtwV7/e+1auBr7z/m9kcLeBYFipexYnoHDRdz9t7xR3Diq0o4K+dn4CoAtfyAQ6yhF+mNvHQjVePwRMG7GJhl58ErkjMmyCvZc5uJhFAlSlvSwOhHDsbtneiTPRFGAL5a0LErPqFGE/KJYaSoFrPuTx3uytIQhVNhzz/w2PLV7G84mUlSPpoiStaBNw/LHbndWMJtqEzWjXBmMmUdDDJJMObO6CUxH71ZVByR9dpwOXlUFI1td8bHozPXahqPIBZIHnVCE13kFKlSUMz1Yuw9TZmF1Oz4NFkr8PQ2z3USJpNFSlpetnnaeuRX/a2KgqmGJoLmY6KdacqX+UPOC3rqyTWf1dbrfyQ5R8SqSGlvVjW+41EOQJwY7tmHtypKzPL2+5xGNjXLSZqIRZhIfyc4ohqpR8AxtnEleRUQd2NAnKT98yvzEwcpREStiub8QqxFu9O2qTAU09+ZzhAp2u5E/nGrFxVcp2nDTxbtrQzWKHaV3RW8o=;5j5folqVnRzFl+m1wP7Gbg=="
+secured: "RiLmi4e51Kkl5mL3aAmbg6KJILXEZ9Oag6NKLyxFSHeTnYpkSdJzsh/aFzCLZE9jAFrLmKYQx0rWaTufEXMOBA05T4ep2lHEqJOZ3jZEjJIIGaTSZ/Pg0mpu1LvSSGzbocvsoyN7vVlvUp77m3IM+QLh/zjI3SBwu5LCnqH6TEuwUoKrd0yPsxBxgUQfA8VHLv+oUlY42yw+IansDADmBKditOxA2+zzqoQ83dyi8pRC2dhlep+ufYtj/S4F4ei6v2AfnJVEfJa+vvGKDw20f2XAHbqVZ20TYgb5JxQXvbkjepx6mPSftrfiVl95/0u8i+xgbBh7icN7kvtrvnOBG3FNWZuJdG3rU0semmK97Jo8NB1YnVdsdRHG6cpkRj41X978BT92wxL1z9DXopxRZL+LuQA4pgUVV73gUEIhd+q/6m+yYvGDdiRsdsPffDIIjl75xiHRN/wxN81Q/PyAHA96YYdBFwCTXRZw+dH5ivwddSa/WX7SMhw0LZ/9vtgwd3xhvGKnPh21Vb7ViNgqZN1sAYIo9mx14y5aSJOVQnM=;Qz4l3R8SHyChoqGERLqyLQ=="
 ---
 

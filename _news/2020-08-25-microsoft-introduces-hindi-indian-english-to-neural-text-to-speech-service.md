@@ -3,12 +3,10 @@ category: news
 title: "Microsoft introduces Hindi, Indian English to Neural Text-to-Speech service"
 excerpt: "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech Microsoft India has announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set,"
 publishedDateTime: 2020-08-25T07:31:00Z
-originalUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
-webUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
-ampWebUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
-cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
+originalUrl: "https://www.tribuneindia.com/news/nation/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
+webUrl: "https://www.tribuneindia.com/news/nation/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
@@ -172,6 +170,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "oADASr+4jR0DSnZBX4ScE8WMMVnP+2dT32xABjp2iADSFFZQv8pdeAj2z27G8EgFgYHs54C2SySKLtcMfYr/pSmPPutEZc37HDHVFPyg8txi6o6KTOLNMwvgvQ/90aQla+91tQmWwqqBX/WNAU5XPum1mxbVPbRO1y5ul08IoAHyTlwKHMbGj0nR096D8WmB76io/7QFawo/fl94vFqh1dP7N8/4orPmUR4feJpc+fvcLEeT6SeGoSqX5kaOYp8l0ecF/45xdPa5RN3euvMUbHwCe7sbjFTV/A43EzxGbE0Tvo5EWMdCpKk26cPS2MoulsuFWRfMWkJ2tNVa9+B4b2lLFOy25xyFG2/sQxggh2x31drK+z4Cd57k4/SZgWvwDtLDoB50SpYGE8mcNYJeL1VBHyUDJaW4yc8GBczCgsVZoH2Pt2Amtnjeo90wU/tKe3ygTIqbSx/VitXO4hiKYVoc+iJ5+iodvDU1P89PecAPXCtVYWemPG2HNRytybY9ANEqsW2NElWm7ctWqBPCGLoNf6ane+ltrO1D3jOo1i4=;Fxlyyy9O11jAGsx8+UrDng=="
+secured: "0qj7r5Hol0AALC5kQ6jHBP6gq/uxXs7c8cqf6RYJZt1HeDWStB2cqRaXFPk6Kms7wN4g0DHgoKORnLPHWdFX8g3RoL60Qx/39YX1ZtoxsyVg9HFNV2WPtzIzCYOLDwELXeJyXAiUbJX0rfZX0UkC37gwuZaEPHn2d/z/S2aQ8SItQU2NAY7XDCz3Jemo9o2gi3FoS61TEoCPmddgihmKwxdyVdqPehfZKsHDOThft8HpMnuL0u28WFv5fPawvB3Rsj9xmwd5lEBclBlxp+MVfr9DB1oP+45MVhCP/l7PsQZDBb/hV6E5z/oif5qFm66bj+AIudAk/dgBogY9RAe6DcJpf52YBWgMMyLXNmxxKeE=;Qrj+cv569i281vR2ItKwcA=="
 ---
 

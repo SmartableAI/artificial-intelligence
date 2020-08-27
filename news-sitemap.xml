@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/</loc>
+    <lastmod>2020-08-27T12:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://qz.com/1896963/the-scots-wikipedia-page-scandal-highlights-ais-data-problem/</loc>
+    <lastmod>2020-08-27T11:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/</loc>
+    <lastmod>2020-08-27T11:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/</loc>
     <lastmod>2020-08-27T10:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -19,12 +37,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nytimes.com/reuters/2020/08/27/technology/27reuters-kneron-tech.html</loc>
-    <lastmod>2020-08-27T07:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/curtissilver/2020/08/27/porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai/</loc>
     <lastmod>2020-08-27T07:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -39,6 +51,12 @@
   <url>
     <loc>https://mobile.twitter.com/elonmusk/status/1298494373278220290</loc>
     <lastmod>2020-08-27T06:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921</loc>
+    <lastmod>2020-08-27T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -339,6 +357,12 @@
   <url>
     <loc>https://www.nasdaq.com/articles/baidu-launches-robotaxi-service-boosts-self-driving-presence-2020-08-25</loc>
     <lastmod>2020-08-25T06:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/video/how-to-fight-online-fraud-with-ai/</loc>
+    <lastmod>2020-08-25T06:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1453,18 +1477,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/finance/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-news-topnews-uisjkCadhbdbb.html</loc>
-    <lastmod>2020-08-18T07:15:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
-    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1501,6 +1513,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
+    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/kasiaborowska/2020/08/18/top-3-applications-of-machine-learning-to-transform-your-business/</loc>
     <lastmod>2020-08-18T05:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1527,6 +1545,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-enterprise-chatbots-2020-08-18</loc>
     <lastmod>2020-08-18T02:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873</loc>
+    <lastmod>2020-08-18T02:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2113,6 +2137,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://stockhouse.com/news/press-releases/2020/08/13/the-top-ways-artificial-intelligence-is-disrupting-life-as-we-know-it</loc>
+    <lastmod>2020-08-13T07:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techrepublic.com/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/</loc>
     <lastmod>2020-08-13T07:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2133,12 +2163,6 @@
   <url>
     <loc>https://www.vox.com/future-perfect/21355768/gpt-3-ai-openai-turing-test-language</loc>
     <lastmod>2020-08-13T07:13:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.baystreet.ca/articles/stockstowatch/59411/The-Top-Ways-Artificial-Intelligence-is-Disrupting-Life-as-We-Know-It</loc>
-    <lastmod>2020-08-13T07:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

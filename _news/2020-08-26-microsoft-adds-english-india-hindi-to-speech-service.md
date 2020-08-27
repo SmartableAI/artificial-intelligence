@@ -83,22 +83,6 @@ related:
         width: 735
         height: 425
         isCached: true
-  - title: "Microsoft introduces Hindi, Indian English to Neural Text-to-Speech service"
-    excerpt: "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech Microsoft India has announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set,"
-    publishedDateTime: 2020-08-25T07:31:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
-    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 57
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_1179149585.jpg"
-        width: 660
-        height: 440
-        isCached: true
   - title: "Microsoft’s Neural Text to Speech finally supports Hindi and English (India)"
     excerpt: "Microsoft has introduced 15 new languages to its Neural Text to Speech (Neural TTS) service language set including Hindi and English (India)."
     publishedDateTime: 2020-08-25T12:30:00Z
@@ -160,6 +144,20 @@ related:
       - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
         width: 300
         height: 250
+        isCached: true
+  - title: "Microsoft introduces Hindi, Indian English to Neural Text-to-Speech service"
+    excerpt: "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech Microsoft India has announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set,"
+    publishedDateTime: 2020-08-25T07:31:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 37
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_1179149585.jpg"
+        width: 660
+        height: 440
         isCached: true
   - title: "Microsoft text-to-speech tool now supports Hindi, Indian English"
     excerpt: "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its neural text-to-speech service (Neural TTS) language set. The two are among the 15 new dialects added to the service,"

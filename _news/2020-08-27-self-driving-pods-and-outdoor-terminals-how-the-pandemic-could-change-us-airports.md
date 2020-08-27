@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/travel/2020/08/27/self-driving-pods-o
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/travel/2020/08/27/self-driving-pods-outdoor-terminals-how-pandemic-could-change-us-airports/?outputType=amp"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 877
     isCached: true
 
-secured: "U0U7fGrmJMce/z/J0bvG2tzWKyD0jc74717rav2YaTwqJ5YKW8TReDimd0Uq5RiQaRS0xeIeIax5NJDWafuOl1ICTcXen6BgOnWbuvDw+VtecuWd2SmsGi8M5xzdFD4kcUQQ+aJsWy0ZlZbD+QNqj1ueYS5fK7zmqYGi0Q0sGBJuFDdvLJCbUCiNhBLD4VjRyJS4OdAo+m7k+CExLHpWipOvXpfhvtQVaolYIaDbDsSGKrUgm4sCChoMG5CeCkTf+iCSrr1ioeaJ9P6aQmtJbTGpXGQirjsiUq3RPUAkidnLSkHqTuApdxR7JZlJPBxu0AW9LHTv6FQ2aeanKJ2DmJGE0QLPgICB8SVLRARhdr0=;hbKS/l7CpHT+eXC1wpkKcA=="
+related:
+  - title: "AI buoyed businesses during the pandemic, and could accelerate permanent change"
+    excerpt: "IPSoft found that most businesses plan to return furloughed workers to their jobs, but many think AI will change or eliminate those positions within the next two years, white-collar included."
+    publishedDateTime: 2020-08-27T18:45:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 83
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2017/02/24/d1f519cf-0c12-47a0-a0e1-9673f8bddb6f/resize/1200x/2c2823643b451563b36e0582248598ac/automation-jpbs.jpg"
+        width: 1200
+        height: 790
+        isCached: true
+
+secured: "6ATvzCJIYOMXXp87zPbm+7bsKGxWsgk2ejXPvplw7Vb0Nnn1Yqy+2io7cyqFOM9Gwa+Atit09u7Tod4ZqfW4M/N3wne2OsaSWrvO0SiqIgLIfaMGbFH1mBnbNlBJOM2Knk0AcD8zcG6yh43E/mjA29lWrSBG4la84gKlUHGmQ88xyO9aE4mOogb7LiWgWitVHBL1uQZ3b2dQ9EgXvdVTKtXPSr7bm1R/wh6GESPUcDLW63a7qtRZbAv0YGV7o0FSz8juaOlRSw64+FN2F+JdN6KtoR9CV19k5VYi2fIgKsLJjZaWB2901oWUAYLvW+zuG4Jfim6ez4EME0X2cXONGTw4T8k4Zhz5qsPadWx8JMnhQygABCahuhhbGVLYqKOH7JUoYjYI+ef8Hgh+8bEsDo1hf0pNwYw35y9+dlt8x+asmwJQKZcNEWla3mOVUM2EcYYmuwMqTbOr62bfQTEPDtkr8FwDR/jahdN3jRZp4/m+dcFu2+RDylcPrGw+aQyiB3YAQjciyfSyW1vz1HHP+FAMi99XhMqsSH0TtrOpTQ8=;h8LtxLdnL0rOzKGizP3z6Q=="
 ---
 

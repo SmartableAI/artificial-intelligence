@@ -1,33 +1,24 @@
 ---
 category: news
-title: "Qualcomm-Backed Firm Releases Processor as AI Chip Race Heats Up"
-excerpt: "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc and Alibaba Group Holding Ltd, on Thursday announced a new chip aimed at handling artificial intelligence functions on battery-powered devices."
-publishedDateTime: 2020-08-27T14:06:00Z
-originalUrl: "https://www.nytimes.com/reuters/2020/08/27/technology/27reuters-kneron-tech.html"
-webUrl: "https://www.nytimes.com/reuters/2020/08/27/technology/27reuters-kneron-tech.html"
+title: "Qualcomm-backed firm releases processor as AI chip race heats up"
+excerpt: "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc QCOM.O and Alibaba Group Holding Ltd BABA.N, on Thursday announced a new chip"
+publishedDateTime: 2020-08-27T14:31:00Z
+originalUrl: "https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27"
+webUrl: "https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27"
+ampWebUrl: "https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27?amp"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI Hardware
   - AI
 
-images:
-  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "ArEr9v3plnTwsvo4cxvQZMbUebPTe8ot4dvtACq7YvVFSote7RRMROugm1mqAvC7QC8vOT37/U1UIbI377/mYjritb73gaf+C+m0tVcJODlGhQDU8YsYmTsPuNXzdjpCzaKxKH0HqEyNg2VdJ19WzJAiUc0poVA1rVPgIiZFE0FrbmAkU2HY3vvZpKUIFqgql5RSjfOQm551fHhDqbkle51O8tao/TLJEgfTuyR41gAnZpiRPBVJKnAV5tXFxtEP81yhoZmzEYbrRnDqWKPadnc9xk+loIpxopqvqW70Rlevfaf7BGTS0pCL0AlCenRNdKvAWHVqTel+SwBOB/7OzBdenjB/A4yH9FnZxyZBlX4=;fG8djPhI1q8KQsoXfy8IMA=="
+secured: "Su8hJWqwTZB3ZwClu5M+lKKgZ1dJ3s8glDry1Gbk2rnEHvA88fNEU8CxpbmN2W5VTIe3GKg4Vr0ytV27hOavy76tkot7KDiDtlt72oB3gEvszjg8STpcVG4/bAkH6jWHQgFEUuAL0gYaBshjeZ4feunlGCGlskmvmHunXLydk8q08frhi4dJ0wZiiRhZQHl0q/LzSajDpxKqkmgUamON9pyxfVCtJfoQ536JyX2KXwu5jbEhJH43w+hRPkWYzO85CiQx+jIy9rQbVTPPpsoAm2CQ02dz211jyumUnSP77XD6dTG9DNAcnTnc0L7S+AY4ej2kcWFFuhnCbMFmJ34i+va6eJoRbrvuPZPi4Hvlu60=;ZNSqpG0GU37/PoLwugG+0g=="
 ---
 

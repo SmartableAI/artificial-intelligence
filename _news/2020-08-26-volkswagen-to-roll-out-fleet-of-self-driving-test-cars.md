@@ -55,15 +55,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Hefei emerges as testing ground for self-driving fleets"
-    excerpt: "Volkswagen (OTCPK:VWAGY) says it will roll out its first fleet of self-driving test cars in the eastern Chinese city of Hefei.The German automaker plans to set ten Audi e-trons loose in the city that is has 50 miles of intelligent car-friendly infrastructure and is an emerging EV tech hotspot."
-    publishedDateTime: 2020-08-26T13:58:00Z
-    webUrl: "https://seekingalpha.com/news/3608980-hefei-emerges-testing-ground-for-self-driving-fleets"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "stWqeyT9HxaOKJ/DeKbcs9Y9G9SVG2PAzEYaaEQ/pM/SAqd14MsgWvl6OLA4NpAl0LFTqUwjIcvrYT+RPkYzDOqZHpYC3aviRAvDZXWG/gdrLNYcjh7QeLQF+eNxlQb937l4bYcaatP7rDHSaEkagVzyAGLV3V8JzdVWCcM/j+zgGAGgs9TBjPdJWhstiuCb7GvPssae4kKkxx+j1p/N8pg4MY2lywh348mAlpuUtS/tJAfyDNqEc5S5xInhHCkItFk4xAelatZSXT1XEGyCOMLtsLxiJcWR0nyG1t02bGsMs/RoJv/5GC2KlHFiXHS6vNgnOn6HIKPt3kt9A3pYjG6IdPpHjumDKn8SXpYLTLx4xjcEx7sAe+GcxQcJua0lryJU6voSF487aUfM6KN7rRd49XaD/TixKERkoayCy3CFqsrVFy2wg0fS4LL3PZxPehsx82LmgHhp+QA2p6VHJGlnyVewb+XZWC8BLGy1jYXVCKpY1Yk7clMdOhXxyKDGU1MXS3ndumBRxRmsFqxMXN6efnh2VlwMj4qStfFh9M4=;FEe7IrDZ5T02pSTBRT6XEA=="
 ---

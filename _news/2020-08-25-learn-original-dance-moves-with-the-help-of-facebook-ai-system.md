@@ -57,6 +57,20 @@ related:
         width: 660
         height: 440
         isCached: true
+  - title: "Facebook Artificial Intelligence Dance System Can Generate Original Dance Moves"
+    excerpt: "Indian American researchers at Facebook AI have developed a system that enables a machine to generate a dance for any input music, creating original, creative dance routines"
+    publishedDateTime: 2020-08-27T18:00:00Z
+    webUrl: "https://www.indiawest.com/entertainment/global/facebook-artificial-intelligence-dance-system-can-generate-original-dance-moves/article_0d98f308-e839-11ea-aed3-0f84de728cc2.html"
+    type: article
+    provider:
+      name: India West
+      domain: indiawest.com
+    quality: 35
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/3/d1/3d1de340-e839-11ea-83b7-8bc367973498/5f4764af2dd39.image.jpg?resize=278%2C300"
+        width: 278
+        height: 300
+        isCached: true
 
 secured: "XQanluVnHa3/4enVcE2EjOunZUxbXRAn2VZ8pTtno0jl3SO6RjfRSvtcKMwfMCmY9OH6dhPENG3Wx6y2LQ4sWF25yaSC4TH9hs/2nNLTCzE56n0at2E5MuOP6j153hAp0hxCSjb0Cjj6y272I+ti9FfolLaWN5GSJVOCawmvEimCnOviIViKQSelcNhGT4GzaePd5v5AhtAApHg7c1vg6zO++H1e+uBs7eIeNe+4gCtBlswHyUNBaJj7fRWX0XCuzcc1qiyDETB8LOTZYzeB5DMFCUd4Aur4Qhn54zuLJbJjrnU9wRAnWEG2u8QL8w1t03CUoSR3J94N9lSAIFoHi7vzEYPiDYZObydwZdgeqtrmg0S16GEmpCaDidEv/j+Ng/vaG+0aYGtGdBjz+sLK1beyjvtT0kOesY/sJNSZGm1tvL3m8sAYhYF+SmkGFSPpQ0OEebo+119Rl5LtoX659VldNG+I8aDoOynteXqSBzW/vOsWspKMYDsc/C2dRrYsscNDedz3yaTPOOHESMNJkA==;N1rMNgeweF86pE3+6iKgFg=="
 ---
