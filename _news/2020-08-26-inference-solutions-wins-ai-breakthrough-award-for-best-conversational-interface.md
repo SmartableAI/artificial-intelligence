@@ -51,16 +51,19 @@ related:
         height: 315
         isCached: true
   - title: "HSG Digital joins Amazon Web Services Contact Center Intelligence solutions partner program"
-    excerpt: "With 61 delivery centers in 7 countries, HGS successfully manages billions of customer interactions every year. Their AWS ML-powered solutions include HGS Pulse, an HGS client portal that provides cri"
-    publishedDateTime: 2020-08-24T04:01:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
+    excerpt: "HGS Digital LLC, a subsidiary of Hinduja Global Solutions, announced its participation as an Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions Partner program. This unique designation recognizes that HGS Digital is an AWS Partner Network (APN) Partner that specializes in helping customers add intelligence to their existing contact center solution,"
+    publishedDateTime: 2020-08-24T20:45:00Z
+    webUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
+      name: India Infoline
+      domain: indiainfoline.com
     quality: 29
+    images:
+      - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
+        width: 600
+        height: 277
+        isCached: true
   - title: "HGS Digital joins Amazon Web Services Contact Center Intelligence solutions partner program"
     excerpt: "With 61 delivery centers in 7 countries, HGS successfully manages billions of customer interactions every year"
     publishedDateTime: 2020-08-26T00:15:00Z

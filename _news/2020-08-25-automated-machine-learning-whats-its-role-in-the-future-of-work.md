@@ -8,8 +8,8 @@ webUrl: "https://biztechmagazine.com/article/2020/08/automated-machine-learning-
 ampWebUrl: "https://biztechmagazine.com/article/2020/08/automated-machine-learning-whats-its-role-future-work-perfcon?amp"
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/08/automated-machine-learning-whats-its-role-future-work-perfcon?amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202008/082520-Automated-Machine-Learning-Perfcon.jpg?itok=E34BEmWH"

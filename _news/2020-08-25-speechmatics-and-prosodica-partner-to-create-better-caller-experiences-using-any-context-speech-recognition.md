@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Speechmatics and Prosodica partner to create better caller experiences using any-context speech recognition"
-excerpt: "Prosodica develops analytics applications that are delivered through Vail Systems’ carrier integrated enhanced network services platform for call centers. These applications int"
+excerpt: "Prosodica develops analytics applications that are delivered through Vail Systems ’ carrier integrated enhanced network services platform for call centers. These applications integrate proprietary voice analysis technology with Speechmatics any-context speech recognition technology to generate next-level insights from recorded calls."
 publishedDateTime: 2020-08-25T23:08:00Z
-originalUrl: "https://www.cambridgenetwork.co.uk/news/606420"
-webUrl: "https://www.cambridgenetwork.co.uk/news/606420"
+originalUrl: "https://www.cambridgenetwork.co.uk/news/speechmatics-and-prosodica-partner-create-better-caller-experiences-using-any-context-speech"
+webUrl: "https://www.cambridgenetwork.co.uk/news/speechmatics-and-prosodica-partner-create-better-caller-experiences-using-any-context-speech"
 type: article
 quality: 1
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 499
         isCached: true
 
-secured: "Taq4EJJGRqE+6cyLzzEw5hK75JqLB3IAojzy0iOuPMKaxZDglC9VFr4uJWyArUISEmQ95IU+spAORGs3CD7DYmiT7VBW01vlIlqNC3MdNPvYQcpv4PTAZvpEQthelnaNllzqNH1V+cTRDW5/LKZNSaIu4ZkcSWwhHGUDeOrm5VcFgW8N8BkU3lVV3Yyq5Hnl5dGnjBSiGnjxu3uMxawh83YXPAzt+AApww0i7if19FzGlhtDxH216nBiWS5Iv7B6Qgzud9OHgTSXbVWktxyl/RIlv9ekcq/tA/vLv+KYIDj/QlZuaFZMNP2SClWPLGnUKAXu7hrQ76ylJ1bo2dJpyKfBh23sEOSWvJHB6jK7YQ4=;W1fo2cPAZ9I6xZ9WLotSqg=="
+secured: "lIufoAEJH+9yd8CXILUhZ5WnWk8Rttl8rSGPj3N1MN/t+2jtJ1Fr+D3dm2JcInaWnhSZE+A1MGb/LoQOtffHTlE0RZw96VORhJojMjcF6Zox0RpzI15I5LqTOajneDCV5J7qxuISmo4PkpH+ckrAoGmeM+E+X0rdQSWSiFsuhKdfNFjAxwi7HI5hevzaMQYYfFzJwqldbHyVPttkv+YsOtl/eO+e7Tl9/4XDhHkze/DPbKLgat7uCfnnTJJWhBWkwLfNfDcy/AfJmpB8LMA/h+X+GV2Kou1Dqeek1hMl48KCaJqPn4hpj2kOanUTLo7yhIve+pdM+xcg1XVE1dtyxXh255UCcflXYDAfkcDVk30=;xlW/bUs+66SaY7aHRSHrcQ=="
 ---
 

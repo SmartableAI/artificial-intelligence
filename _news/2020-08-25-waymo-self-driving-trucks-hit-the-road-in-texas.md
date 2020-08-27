@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-trucks-texas
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-trucks-texas/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/08/Self_drivingCar_promo.5f46b8c1254ed.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Volkswagen to launch road test for self-driving vehicles in east China"
+    excerpt: "German carmaker Volkswagen will pilot its autonomous-driving travel service in China as the first license plate for road tests was issued to the company on Wednesday (Aug 26)."
+    publishedDateTime: 2020-08-27T07:36:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2020/08/27/volkswagen-to-launch-road-test-for-self-driving-vehicles-in-east-china"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/08/27/835729.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "kZfBrk777De6PD+mqo23VoTEGBOvFyv4dmLDOrpLhbQiK47lsL419zwig0ilY4g2pkwZLoq6GewmwcJbLuyNhSc42xaHO9LRAdJAQfqaSOO7JQWpLtQly0G36Ub9eOOuSpnEPXozgE8NU/+kiRKz0IRy/h/lJtzEsrQX91HZNMYa4lMa+TEl4EY1AZ5eclqCSLVNQ5V936M58FRzISxdC56Qox+EotsYHnHvsbglpOvilnjy1SeNcjTli770V1NPGlDa5KxS0SARJmYta371a2VfsYC4cXYyvkBm7iOHfxyrspipy+gm7WAaaut17KiFa4dPxT3xwX1tR5XLx8nwFfukUxaAdf+DbJaen6zYdMu4yX0WafYAo+e9nDErwFQNx0j20PtM4T4i+geNPOPGtkQwf7NIUwctsIpv1kcJ2y24KAWy5/DfmIWI7oegmuPW/O6ISiHSD86pIgbea6zFAy+0/IUXkeWvzz7/cOKepcRxs460U10uJtmgnoc6V6OPw8I45s9r3OMb4AgFwbs7bA==;lxzb9XXgUer+rIgHP7CEpw=="

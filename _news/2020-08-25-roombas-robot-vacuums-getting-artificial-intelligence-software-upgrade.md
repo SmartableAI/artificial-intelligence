@@ -43,21 +43,37 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "iRobot launches robot intelligence platform, new app, aims for quarterly updates"
+    excerpt: "We work with everyone and are a natural integrator. Home understanding is the center of building intelligence. This is all about the consumer and having a home that maintains itself.\""
+    publishedDateTime: 2020-08-25T04:01:00Z
+    webUrl: "https://www.zdnet.com/article/irobot-launches-robot-intelligence-platform-new-app-aims-for-quarterly-updates/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/irobot-launches-robot-intelligence-platform-new-app-aims-for-quarterly-updates/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/irobot-launches-robot-intelligence-platform-new-app-aims-for-quarterly-updates/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/08/20/b37c0841-461b-47bf-8168-b578607e2178/s9-photo-insitu-recommended-schedule.jpg"
+        width: 2048
+        height: 2048
+        isCached: true
   - title: "iRobot Genius Home Intelligence giving its vacuum cleaners a new AI-powered brain"
     excerpt: "As the robovacs became commodity goods and were mainly available for vendors, iRobot wants to climb higher the value chain."
     publishedDateTime: 2020-08-25T18:05:00Z
-    webUrl: "https://www.technowize.com/irobot-genius-home-intelligence-giving-its-vacuum-cleaners-a-new-ai-powered-brain/"
-    ampWebUrl: "https://www.technowize.com/irobot-genius-home-intelligence-giving-its-vacuum-cleaners-a-new-ai-powered-brain/amp/"
-    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/irobot-genius-home-intelligence-giving-its-vacuum-cleaners-a-new-ai-powered-brain/amp/"
+    webUrl: "https://www.technowize.com/irobot-genius-home-vacuum-cleaners-a-new-ai-powered-brain/"
+    ampWebUrl: "https://www.technowize.com/irobot-genius-home-vacuum-cleaners-a-new-ai-powered-brain/amp/"
+    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/irobot-genius-home-vacuum-cleaners-a-new-ai-powered-brain/amp/"
     type: article
     provider:
       name: Technowize
       domain: technowize.com
     quality: 69
     images:
-      - url: "https://www.technowize.com/wp-content/uploads/2020/08/iRobot-Genius-Featured.jpg"
-        width: 600
-        height: 600
+      - url: "https://www.technowize.com/wp-content/uploads/2020/08/iRobot-Genius-inside.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "PAsvWNCkqUSopWJsChzl5tQ/dLAZyYYuCi455DKD2XuvWxG2b+D0gNG+Oz0dg0crukdtOcvHlUkHUKKPKmKmTgdXyd4cy5BvXUpmBm+yVNl1X3sRj9SNtyhEdyQOdD5rMmaIk5CgCL+Xxu1Hbj1jWBSnCYKg5J2DuNmnBX30o5qNRgxKiP/N4CrKcjP/tLLn35IOhSE6cpsdCeHe+1d7Z9mFfxjAUNFPhWzHjb8xTARyGfsrhCarFeecfRQWxcknbDB96JE0usBEocwtsZzh/qEWZHtZaf3gEU9iFXmJQjbTyrkAC04Cz6wkU7PR6VjzXQ0rziMU6+Ut72/zH3gqV7i8NqeNIpKUxL/6FMNahwzPWEtgzoRecCWB5f+1sr82jaWtZCv4gvqvJJXFwcwuE1iZkiZ9mV68iSJwrsAi/bt73rtfCbn/6wZpI3kft/qlDdpavJOW5eswYJEiCVUadZS/qDLv8bkavQiQphx128tcJ94NXKbh/kXWpWr+vjalbyEmH3hd5+mXnLOz8mMNoQ==;8h0rHYLeEfmMMrNo9mwJAQ=="

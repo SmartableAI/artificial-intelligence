@@ -1,23 +1,28 @@
 ---
 category: news
 title: "HSG Digital joins Amazon Web Services Contact Center Intelligence solutions partner program"
-excerpt: "With 61 delivery centers in 7 countries, HGS successfully manages billions of customer interactions every year. Their AWS ML-powered solutions include HGS Pulse, an HGS client portal that provides cri"
-publishedDateTime: 2020-08-24T04:01:00Z
-webUrl: "https://www.business-standard.com/article/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
-ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html"
+excerpt: "HGS Digital LLC, a subsidiary of Hinduja Global Solutions, announced its participation as an Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions Partner program. This unique designation recognizes that HGS Digital is an AWS Partner Network (APN) Partner that specializes in helping customers add intelligence to their existing contact center solution,"
+publishedDateTime: 2020-08-24T20:45:00Z
+originalUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html"
+webUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
+    width: 600
+    height: 277
+    isCached: true
 
 related:
   - title: "COOLPO releases revolutionary All-in-One 360° 4K intelligence conference solution"
@@ -71,6 +76,6 @@ related:
       domain: business-standard.com
     quality: 29
 
-secured: "JSwImYem+M3DProCPDu1bluGEExkcnkBwRPwLx6W3p2fenOCi4H0VDDUeOeyW4nOqFWTN/EwBrNshplx5fmZdR1YWVxITDuJk82orevPzKtGZ5pyT8jXsaNVEhnUVfSKsGfPWhcMRZjzJAUo4urtRdF5LsRskDOYo4avKl4QSk3nMsTaR4wmyjzbwbf6mjppLRxNObZcYP5lpnI55APQ10Ag8CTrzJpIS2pg87xj/ew3KsvFpRMKP9RvczeW/Az2vTNF/njyExXOLTS1/vNtbWdQQXqjkYKP9pXE9E0jd49oKcC1ll3bqsSY2yNlREnaHo+fCTNuKrO5cgANld3S1Q==;iYyub8T25+9TD7xwO37LAg=="
+secured: "QSfVaVXK0H1klFqv7II2Q9FFRvYM7Ay+ZGv/LrjW5wOV4aIZXv33FCVeuh0lin5PzqJUcDo8jfwPcdZT31bfDUzy69mBPR8Aahy9/fPu7czNPXg55CVWJSWPRDBhj8biAKBE2vllFxKNN5iaPMQA5KcTQFnvs02D+mJB7TF7XX/PxEI6HjQ8Wz8wCxpIej7wkOCboK+v3wszReyB4aEJe3PVUBL/+GBDXAGgY8CtMxYEApSkOlXq2Xy+16tDQNgFXX0OsS4XOQbAe5krjx1DrKMW/RLMQpLbyVD2lkX+2biF/UVeg0S7qJjNj9pBl7fTn1MlD1LZ3olyvb5EqcFY0nRvVAXdZiO/icIsmWg00iU=;QwfavGh/Jr/bsWC5cNhX5g=="
 ---
 

@@ -3,6 +3,7 @@ category: news
 title: "Your voice says a lot about you — and AI is listening"
 excerpt: "Your voice carries a lot of information about you — it can reveal where you're from, your emotional state, and even your identity. A lot of this information is used to make our lives easier, but it's also being used to controversial and worrying effect."
 publishedDateTime: 2020-08-21T22:00:00Z
+originalUrl: "https://www.abc.net.au/news/2020-08-22/what-voice-says-about-you-biometrics-identity-security-ai-clone/12546572"
 webUrl: "https://www.abc.net.au/news/2020-08-22/what-voice-says-about-you-biometrics-identity-security-ai-clone/12546572"
 ampWebUrl: "https://amp.abc.net.au/article/12546572"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12546572"

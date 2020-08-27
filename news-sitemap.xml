@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030-2020-08-27</loc>
+    <lastmod>2020-08-27T00:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.news-medical.net/news/20200827/University-of-Illinois-to-head-two-of-artificial-intelligence-institutes-in-the-US.aspx</loc>
     <lastmod>2020-08-26T21:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -229,12 +235,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-in-computer-vision-market-covid-19-analysis-growth-forecast-size-share-trends-business-opportunities-and-industry-challenges-2020-08-25</loc>
-    <lastmod>2020-08-25T07:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.cnet.com/news/august-adds-fingerprint-and-facial-recognition/</loc>
     <lastmod>2020-08-25T07:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -391,7 +391,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024-2020-08-24?mod=mw_quote_news</loc>
+    <loc>https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024-2020-08-24</loc>
     <lastmod>2020-08-24T08:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -399,12 +399,6 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/</loc>
     <lastmod>2020-08-24T08:45:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-inclinations-and-development-status-highlighted-during-forecast-period-2018-2025-2020-08-24</loc>
-    <lastmod>2020-08-24T08:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -729,6 +723,12 @@
   <url>
     <loc>https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/</loc>
     <lastmod>2020-08-21T01:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.electronicsweekly.com/news/business/object-detection-low-light-conditions-2020-08/</loc>
+    <lastmod>2020-08-20T22:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1189,7 +1189,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.gizmodo.com.au/?p=1256892</loc>
+    <loc>https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/</loc>
     <lastmod>2020-08-19T02:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1381,8 +1381,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
-    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?partner=feedburner</loc>
+    <lastmod>2020-08-18T06:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2103,6 +2103,12 @@
   <url>
     <loc>https://www.forbes.com/sites/forbesbusinesscouncil/2020/08/13/does-ai-make-more-reliable-financial-recommendations-than-humans/</loc>
     <lastmod>2020-08-13T04:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://analyticsindiamag.com/latest-data-science-and-analysts-jobs-at-intel-accenture-and-more/</loc>
+    <lastmod>2020-08-13T04:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

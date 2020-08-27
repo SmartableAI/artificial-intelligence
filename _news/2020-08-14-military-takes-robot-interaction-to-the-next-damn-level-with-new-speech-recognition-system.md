@@ -3,6 +3,7 @@ category: news
 title: "Military takes robot interaction to the next damn level with new speech recognition system"
 excerpt: "Waking up Alexa or Google with a question works well enough in the relatively unchanging home environment. But when trying to control robots in a combat environment, asking Alexa politely to find"
 publishedDateTime: 2020-08-14T21:11:00Z
+originalUrl: "https://www.biometricupdate.com/202008/military-takes-robot-interaction-to-the-next-damn-level-with-new-speech-recognition-system"
 webUrl: "https://www.biometricupdate.com/202008/military-takes-robot-interaction-to-the-next-damn-level-with-new-speech-recognition-system"
 type: article
 

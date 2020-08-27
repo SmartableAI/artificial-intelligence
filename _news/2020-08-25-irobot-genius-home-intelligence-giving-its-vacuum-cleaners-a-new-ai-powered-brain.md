@@ -3,10 +3,10 @@ category: news
 title: "iRobot Genius Home Intelligence giving its vacuum cleaners a new AI-powered brain"
 excerpt: "As the robovacs became commodity goods and were mainly available for vendors, iRobot wants to climb higher the value chain."
 publishedDateTime: 2020-08-25T18:05:00Z
-originalUrl: "https://www.technowize.com/irobot-genius-home-intelligence-giving-its-vacuum-cleaners-a-new-ai-powered-brain/"
-webUrl: "https://www.technowize.com/irobot-genius-home-intelligence-giving-its-vacuum-cleaners-a-new-ai-powered-brain/"
-ampWebUrl: "https://www.technowize.com/irobot-genius-home-intelligence-giving-its-vacuum-cleaners-a-new-ai-powered-brain/amp/"
-cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/irobot-genius-home-intelligence-giving-its-vacuum-cleaners-a-new-ai-powered-brain/amp/"
+originalUrl: "https://www.technowize.com/irobot-genius-home-vacuum-cleaners-a-new-ai-powered-brain/"
+webUrl: "https://www.technowize.com/irobot-genius-home-vacuum-cleaners-a-new-ai-powered-brain/"
+ampWebUrl: "https://www.technowize.com/irobot-genius-home-vacuum-cleaners-a-new-ai-powered-brain/amp/"
+cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/irobot-genius-home-vacuum-cleaners-a-new-ai-powered-brain/amp/"
 type: article
 quality: 69
 heat: -1
@@ -21,9 +21,9 @@ topics:
   - AI
 
 images:
-  - url: "https://www.technowize.com/wp-content/uploads/2020/08/iRobot-Genius-Featured.jpg"
-    width: 600
-    height: 600
+  - url: "https://www.technowize.com/wp-content/uploads/2020/08/iRobot-Genius-inside.jpg"
+    width: 900
+    height: 500
     isCached: true
 
 related:
@@ -43,6 +43,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "iRobot launches robot intelligence platform, new app, aims for quarterly updates"
+    excerpt: "We work with everyone and are a natural integrator. Home understanding is the center of building intelligence. This is all about the consumer and having a home that maintains itself.\""
+    publishedDateTime: 2020-08-25T04:01:00Z
+    webUrl: "https://www.zdnet.com/article/irobot-launches-robot-intelligence-platform-new-app-aims-for-quarterly-updates/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/irobot-launches-robot-intelligence-platform-new-app-aims-for-quarterly-updates/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/irobot-launches-robot-intelligence-platform-new-app-aims-for-quarterly-updates/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/08/20/b37c0841-461b-47bf-8168-b578607e2178/s9-photo-insitu-recommended-schedule.jpg"
+        width: 2048
+        height: 2048
+        isCached: true
   - title: "Roombas robot vacuums getting artificial intelligence software upgrade"
     excerpt: "Robot announced the largest software upgrade for its robot vacuum cleaner, Roomba, in the company’s 30-year history."
     publishedDateTime: 2020-08-25T12:30:00Z
@@ -60,6 +76,6 @@ related:
         height: 540
         isCached: true
 
-secured: "FMgbYqGEW4kZo3qzES3LHIULmVA/16EoE1gOtS9Auib2+WLfFCeFLUN8DTFcxBRoo9HdnP4TLowUyRsMSXtSNrUULKW9rWSyTrvMD4I6RIZIxDOQfdl4d3mPLYb5SQ98UnYU/gZ46zhLZktYpIFUoUWgSZCZ60qsUgq70zO/ceR7KFjR8AuqqmicWzl0k/NTVNJcsmIpcpZ92jPQ16xCMJqH6B7WIbNwTpgvBV914mG4/IEQU8AOGl+uIniLQgTM+cwynSndpua3yGqpHVElsX6z6enJFb82CTuVmt9/UehIc7WzZDdFT0Bz1LICue0stUE25V4BhQpJ+/e8rvs8QZPgOd5JpdTtG8cnPTr1oh8pVvvvzy3UiElfEb0rkjBUfHU1kLM9K5eqV0LR7ptLR2mRZ78fGt1EpTg9XLdxMMHPBHkVkyaoR4+micZVNyq/dbvGJC/CnCoM50qN/SprT+7UY7hjLwGHniVmhmDmiC86buoJ8DK4dKaFInJ0gEVESSMXMvKmdNexRYhnlzHLNw==;dQtFBEO5ajCGEJri6l4NsA=="
+secured: "eoqW2wGGLk3M3Gunyl3fQz3qzOQv9a2Y4NacHc/4dkg2cvaC0AbDNcGPTNtxIxNkvsn5WQ1oh3B6QDnWo1VlACY6k1VYFSafGN8WWx5xmjwM3YZQDCBekWQFZGSRem3HzSFFbYC9HpsA3fkLYAxpOkrawhPQjxebQXOq/MRPHY1prTgLIwEvCH1zcFeJED7p+fraNDMWCiHl8zKTJnzRc3mB21Y9hcqc/qonMYEy9YpZkQkhISkir/OeHoNC36V9UCxeGunbO+NSn/P7gkpCzA2Gwza9VgvXA/ArI5LWP2A6M861ZC8QyDZP30SEBr2K/QBN9lL3ANpQkd/HVJGXpHgaDYaRCHLWza+zs//632E=;RH9vmw4YcQ+I1+kBdKtgLA=="
 ---
 

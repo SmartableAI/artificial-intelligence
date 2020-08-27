@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/25/21377585/irobot-ai-s
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "iRobot launches robot intelligence platform, new app, aims for quarterly updates"
+    excerpt: "We work with everyone and are a natural integrator. Home understanding is the center of building intelligence. This is all about the consumer and having a home that maintains itself.\""
+    publishedDateTime: 2020-08-25T04:01:00Z
+    webUrl: "https://www.zdnet.com/article/irobot-launches-robot-intelligence-platform-new-app-aims-for-quarterly-updates/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/irobot-launches-robot-intelligence-platform-new-app-aims-for-quarterly-updates/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/irobot-launches-robot-intelligence-platform-new-app-aims-for-quarterly-updates/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/08/20/b37c0841-461b-47bf-8168-b578607e2178/s9-photo-insitu-recommended-schedule.jpg"
+        width: 2048
+        height: 2048
+        isCached: true
   - title: "Roombas robot vacuums getting artificial intelligence software upgrade"
     excerpt: "Robot announced the largest software upgrade for its robot vacuum cleaner, Roomba, in the company’s 30-year history."
     publishedDateTime: 2020-08-25T12:30:00Z
@@ -50,18 +66,18 @@ related:
   - title: "iRobot Genius Home Intelligence giving its vacuum cleaners a new AI-powered brain"
     excerpt: "As the robovacs became commodity goods and were mainly available for vendors, iRobot wants to climb higher the value chain."
     publishedDateTime: 2020-08-25T18:05:00Z
-    webUrl: "https://www.technowize.com/irobot-genius-home-intelligence-giving-its-vacuum-cleaners-a-new-ai-powered-brain/"
-    ampWebUrl: "https://www.technowize.com/irobot-genius-home-intelligence-giving-its-vacuum-cleaners-a-new-ai-powered-brain/amp/"
-    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/irobot-genius-home-intelligence-giving-its-vacuum-cleaners-a-new-ai-powered-brain/amp/"
+    webUrl: "https://www.technowize.com/irobot-genius-home-vacuum-cleaners-a-new-ai-powered-brain/"
+    ampWebUrl: "https://www.technowize.com/irobot-genius-home-vacuum-cleaners-a-new-ai-powered-brain/amp/"
+    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/irobot-genius-home-vacuum-cleaners-a-new-ai-powered-brain/amp/"
     type: article
     provider:
       name: Technowize
       domain: technowize.com
     quality: 69
     images:
-      - url: "https://www.technowize.com/wp-content/uploads/2020/08/iRobot-Genius-Featured.jpg"
-        width: 600
-        height: 600
+      - url: "https://www.technowize.com/wp-content/uploads/2020/08/iRobot-Genius-inside.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "6iR1wzPNIAyS+5mbij96bx2J9d+z3F6ix+y5YNR+J2SOkar9yxBrytCTPeR3J02w1xJ9zJaGkDDvXE9Z40fRs8QG2ozJi4VZyka9OiWFu3scC9M50n2sLs75JBuIPKaK/p6uV0f/lp/50u3GmVXFcX724SwyxtcYI7CR091Im8xAO0X4ncPpDU33tsDc/Eq/dmoBOCVo/RH2M3U7pOFZ14fNSPsvU+RGdyCRQlwfv2qv2zFNnhFARDl054x2ubEWdMJGGDAaYylGosHwkrsf9I+AvscTpyXwCSfBuVp2BcjL6Bphq7xmDjDDFO4v9W04KTZktY/2U7hwkT4OhyDET0T4Dl4LGoAKgwTs1RQ8IP/LFsC6hLO9jfk4/ZMy9X5l58ZOg6waol/cBojo2QHUqfJy6IjKV9CH7uItFcNUV9uBO5iNxgCzaHeEucgdGumInc5W/20n/q7W2ywycmDPFtOu2BCX4AF3Rd5qYAzuOFm73cEgLzXjiE+E0LNpw6MhBMic5VfmzCfmQRa5hKfmQQ==;aF+ipPoKdqlHFVpj8HIb4w=="

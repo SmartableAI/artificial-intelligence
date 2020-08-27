@@ -9,7 +9,7 @@ ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-in
 cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Facebook wants to help build AI that can remember everything for you"
-    excerpt: "Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology — functions in our daily lives."
-    publishedDateTime: 2020-08-22T13:58:00Z
-    webUrl: "https://keyt.com/news/money-and-business/2020/08/22/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 39
-    images:
-      - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Facebook working on feature that would use artificial intelligence to help people in their daily lives"
     excerpt: "Facebook is working on a new feature that will remember everything for you. Imagine never having to wonder where you left your keys-that's the goal. Facebook says this could be huge for the way we use artificial intelligence in our daily lives."
     publishedDateTime: 2020-08-26T00:08:00Z

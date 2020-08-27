@@ -2,6 +2,56 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-07-13-the-intersection-between-self-driving-cars-and-electric-cars.md",
+      "title": "The Intersection Between Self-Driving Cars and Electric Cars",
+      "excerpt": "Someday, self-driving cars will appear widely in the US. Wouldn’t it be nice if they also helped reduce greenhouse gas emissions? Trouble is, making an electric car self-driving requires tradeoffs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/intersection-self-driving-cars-electric",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ef669586f93e879afd83495/master/pass/business_avs_cruise.jpg",
+          "width": 1120,
+          "height": 747,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/intersection-self-driving-cars-electric/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/intersection-self-driving-cars-electric/amp",
+      "publishedDateTime": "2020-07-13T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-how-teslas-self-driving-initiatives-add-value.md",
       "title": "How Tesla’s Self-Driving Initiatives Add Value",
       "excerpt": "But many industry insiders and self-driving engineers are dubious of Musk’s claims. After all, level 5 autonomy means a truly self-driving car, that can drive anywhere, at any time, under any ...",
@@ -1088,56 +1138,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-natural-language-processing-a-cheat-sheet.md",
-      "title": "Natural language processing: A cheat sheet",
-      "excerpt": "Learn the basics about natural language processing, a cross-discipline approach to making computers hear, process, understand, and duplicate human speech. It wasn't too long ago that talking to a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/natural-language-processing-a-cheat-sheet/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/07/07/b27b579f-2498-4333-bafe-b4748deaf50c/resize/1200x/089a7e1aa216b3ae64c32ec52e724d16/natural-language-processing-concept-banner-header-vector-id1133656955.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/natural-language-processing-a-cheat-sheet/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/natural-language-processing-a-cheat-sheet/",
-      "publishedDateTime": "2020-07-10T13:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

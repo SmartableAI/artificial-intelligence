@@ -3,6 +3,7 @@ category: news
 title: "Speech Recognition Makes a Comeback into Law with the Power of AI"
 excerpt: "When weaved into speech recognition tools, conversational AI can help with productivity and collaboration, while also reducing costs and making lawyers’ lives easier."
 publishedDateTime: 2020-08-11T11:16:00Z
+originalUrl: "https://www.law.com/legaltechnews/2020/08/11/speech-recognition-makes-a-comeback-into-law-with-the-power-of-ai/"
 webUrl: "https://www.law.com/legaltechnews/2020/08/11/speech-recognition-makes-a-comeback-into-law-with-the-power-of-ai/"
 type: article
 quality: 54

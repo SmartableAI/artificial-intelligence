@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Astute Recognized for Innovative Use of AI in 2020 Artificial Intelligence Breakthrough Awards"
-excerpt: "Astute, Inc., a leader in customer engagement technology, today announced that it has been selected as the winner of the \"Best Transactional Bot Solution\" award in the 2020 AI Breakthrough Awards program conducted by AI Breakthrough,"
-publishedDateTime: 2020-08-26T12:54:00Z
-originalUrl: "https://www.lelezard.com/en/news-19394436.html"
-webUrl: "https://www.lelezard.com/en/news-19394436.html"
+excerpt: "Astute's Crisis Management AI solution recognized for innovation by the 2020 Artificial Intelligence Breakthrough Awards"
+publishedDateTime: 2020-08-26T14:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20200826005454/en/Astute-Recognized-Innovative-AI-2020-Artificial-Intelligence"
+webUrl: "https://www.businesswire.com/news/home/20200826005454/en/Astute-Recognized-Innovative-AI-2020-Artificial-Intelligence"
 type: article
-quality: 42
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://mms.businesswire.com/media/20200826005454/en/704129/23/astute-logo-horz-color.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -57,7 +56,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 49
+    quality: 51
   - title: "Cognite Recognized for Predictive Analytics Innovation with 2020 Artificial Intelligence Breakthrough Award"
     excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in"
     publishedDateTime: 2020-08-26T12:15:00Z
@@ -70,6 +69,6 @@ related:
       domain: benzinga.com
     quality: 19
 
-secured: "NoKxLqgW/GbOLm8oTsaGF81UKBfzsNsbI6eLg266XOl+NdIR3VtbAxAJ5vfSpqSk02CgbDUfe7BD47F5fRwU3Fa1N3gfK6/2aqa7XcgrSv4uZdQedpn4kcfNPdd5ntGTxnvIv0ciNGeqfIxyYnMAc5vC6AbycSUaqiL7YZxq944g3ZVbXknt8SqTLwzVgNSkpA4DNxMFKzS6vGbQgYHHUifIJU0k3jB7mpJzuAqVA2dim9/GLzDhcRzF12mRTHcmuvJdaclEDgdjIQba8R1VOTtx+6/TexeKu9Bk3FdHnAhXa5K8j3aeNeIe+kv1t0HfurwnbjveMxP9scok2k7HuzjODZ18qEqgq4R/j2FcEjM=;WlTOJAP7WOYHq+Ogh/t7Qg=="
+secured: "/u0EFWifcCDgtLWJ4t2rc0eSkjznbmtq548VmeNALJePwGWzepSrQJydunJJsC3PpYYlQqLgK8V3wXxSzzLDRLe4ixW/puaBr35F7A8p2rjoGwRKfWnwAtkvZ14yuvj8u4yDLQQNekwHKE0UaWr1VHhG7wh0/V9kQpDwRGGj+Iu+2/F+pQkwitsjjfZlrXgbbvjI0nwaoMyCczI7Fl3GHnaBApHeQVnZVq7mX6WAOP4apwUtOtrjPeB7aa5RKisX77MU3HPYSrK5Spg3C3sZh5NB66Riy35JA5tkEaOehTZSL7R0sDjiggSkaLVM6MhkSb5RllSNH8mXSq9gPkoBNYHmImHPWLLJQsKY0mHDAYs=;cE4BRtfBDELq+NbTFxDwcQ=="
 ---
 

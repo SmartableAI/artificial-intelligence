@@ -3,6 +3,7 @@ category: news
 title: "AI startup Joblist has quietly helped over 4 million people search for jobs with its free service, says CEO"
 excerpt: "A new job search platform has raised $4 million and is launching out of stealth mode earlier than expected to help unemployed Americans find jobs."
 publishedDateTime: 2020-08-13T15:17:00Z
+originalUrl: "https://www.businessinsider.com/joblist-raises-4-million-help-people-find-jobs-using-ai-2020-8"
 webUrl: "https://www.businessinsider.com/joblist-raises-4-million-help-people-find-jobs-using-ai-2020-8"
 type: article
 quality: 49

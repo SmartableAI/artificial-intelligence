@@ -3,6 +3,7 @@ category: news
 title: "AI Eye Episode 410: Workday (NasdaqGS: $WDAY) and IBM (NYSE:$IBM) Expand Partnership for Return to Work Solution"
 excerpt: "(NasdaqGS:WDAY) and IBM (NYSE:IBM) announced \"an expanded partnership and the availability of a joint solution to help business and community leaders plan, schedule, and monitor a safe return to the workplace for employees."
 publishedDateTime: 2020-08-13T17:29:00Z
+originalUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/08131AIEye-WDAY-IBM.asp"
 webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/08131AIEye-WDAY-IBM.asp"
 type: article
 quality: 18
