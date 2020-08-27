@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-26T23:48:00Z
 originalUrl: "https://www.helpnetsecurity.com/2020/08/27/deloitte-trustworthy-ai-framework/"
 webUrl: "https://www.helpnetsecurity.com/2020/08/27/deloitte-trustworthy-ai-framework/"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
@@ -23,6 +24,6 @@ images:
     height: 430
     isCached: true
 
-secured: "th92jBStiWnWd5WgVsNTshK350Kh5TxQGKOvhLK+RK6QpqdpOwBnhwgAVoD6kaLThf8bZFH1B+NKxhjpSUO4qqGaGJushzgVTmaqugVxJQJX3dOzEieXApzXD6wft2sKTYqYvnHuDLR1DNiUEm2yBycEXZUb4GNgGmQ7p01/4b/hx8NOZHKiaVmcID1NDMxhutL0jlzbUVuLvA7EbwrwD01I1qt7Td4r6sL1QxoOFAKHwOIHH1RPycHdevJLo/NR2rnNtsvb1HMQIQ6AIBafoOSuaEvnUweh7qbRqzUNWKCSUzp6KcliLHPqHDISmzYMjWAhIkRywDCcwDvr36lflDpUYFImBFWp5P9UmpqDfek=;0RRyCqmoiEks5RZo8vT1ag=="
+secured: "WCxb1pD90KjIcJ4yJ3vHcK2caQhR7kDYU1778toKG8qsTQPB5mFF3iECIz0Px5vmyRKKHUXGZSP14lCeZxgPWbscRW7FA8+MnN/F5aZDuBheFSGW09ZnnT/vN2kCT2AP500siybPceFuO9TL2KAGV2FBcrZFcAXpfFvHSRoEKihYVqpOXyEFZPOJA4IbjqvJROJFgtGd+TXxA2bHDFLNMxVn+iU3FAm6Wg+PjWiapmzoxjZMaD/+pAstl3AO7exH67XslmLOTeyw7EUt1ZHxbqVX8IGCIcLtllS1ElbhF3WViZlxkQ+UIVoj3z6atuGEI4AATR3tJuiz/MLgZBvlLuJsKKmnEfqSAffi4pre8Pn9WsnCJIRfNvqj7x6iXg+744/UwT2A2cMF61lEm2+Mib+0vC9OcLVHzY8G8SXARDduLWsiMS6qggwAkQRQpw9161AT2eCrSDeW0yCjTmBlehiiiLHIWIIFVDfE5O2rBzsLzTFbBQB/Krk9/ulrdlGLzMpe2LlSHfrYRJgNqDjY4bz0/VmFBPZ9cb7OgvcCFho=;A2zzOQ6QFC2yDv3dcBQTFg=="
 ---
 

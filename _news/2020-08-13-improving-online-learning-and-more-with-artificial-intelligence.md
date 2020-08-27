@@ -3,6 +3,7 @@ category: news
 title: "Improving Online Learning and More with Artificial Intelligence"
 excerpt: "Artificial intelligence is gaining traction in classrooms, research labs and physical plants on campus. Tommy Peterson is a freelance journalist who specializes in business and technology and is a frequent contributor to the CDW family of technology magazines."
 publishedDateTime: 2020-08-13T18:32:00Z
+originalUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence"
 webUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence"
 ampWebUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp"
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp"
