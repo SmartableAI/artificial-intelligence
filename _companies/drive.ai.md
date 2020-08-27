@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "driveai_"
   url: "https://twitter.com/driveai_"
-  followers: 9167
+  followers: 9166
 
 size: 51-200 employees
 yearFounded: 2015
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=YJe8ELIU7_E"
 
-secured: "dQgHVEol8PeXcfKKhCYqemyaU6NaJBMAEGn9RBwURBiKyNIT4COjK/yB3fu6xltj4fFf2n6v+nBFVA/kV5ltVuR+EjcSQYo6GAJctH4WFWW5hD4Jn3d7nhTO3T5Jfz5rDtvGvaAd1X5zzuws9EEgYTd9Yn5ImWv2T6UP4l0jKY/lbMPeTuSi5uglBC/U/hTsIF+No3tpT8zd0++AkV1tYbmOjc1yB7kw56DoSNrU6ySThx+KzXxcpYpewbCfVkOOf5rKZxMiftBHtsMXVuuDZoARQMiKsAo3C9p8x8WBw0+lT8daxJEEHQD1hvnSv64MNrZJvFGSvXCAD0fjBEXjFTy6re/gkNSGn5VZqALvjcqC/7j+pyzqaXcAzrZRFTn5;013JRTK/nRresIDqPBoERQ=="
+secured: "V2uP9o4UelfllWLMDk5zQTziOmvtlU+/ye7gj2mqt/9RWlMqpKzGJ/Pqag5C3ZAYeKDbDKqH9ZyL9hQAKA8ztBbc+6RZnpVQgZN6ZU0ac1WtA3o99gB7NeUfyn1HHEjYwz259MqyzHWWtQ8vdYn7G9elOazHMjJsSlZ5QOpWHdz+rGU1Tim1QXLZx/0byxVEV1IrqeCfVS4dRW7ol/FDsauKo2x4uJa6V+8EmNbM9qzIFGx0U1P5L/SVDzv88zmAsXhNQ34RDhNeVCbnTpTwuWHwQC4d0HxIsEmIqFYYIj0+Z8xchX571QjRvbEBCtd36G4SfKcd4KFP2ZrXq/EAzwXda45tA7tEd6ugGiZxDGyy01rNP+JX234G8GvDgVqU;kd14aY65EOKlWkJTMR/8XA=="
 ---
 

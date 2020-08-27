@@ -2,7 +2,7 @@
 name: "Lumiata"
 overview: "Lumiata is the industry's first AI Platform purpose-built for healthcare. Lumiata is powered by 75 million-member data, proprietary clinical, risk and financial algorithms, and industry leading data science and machine learning talent. We help Business, Benefits and Care Management teams at health plans, providers and employers make better decisions–– from identifying and managing individual's risk to retaining customers in competitive insurance markets–– using easy-to-use, fast-to-deploy AI applications. The Lumiata AI Platform also arms internal data science teams in healthcare organizations rapidly develop and deploy predictive models and applications. Silicon Valley-based Lumiata is backed by tier 1 investors Khosla Ventures, BlueCross BlueShield Venture Partners, Sandbox Industries and Intel Capital."
 type: "profile"
-heat: 50
+heat: 18
 
 website: http://www.lumiata.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Lumiata"
   url: "https://twitter.com/Lumiata"
-  followers: 1062
+  followers: 1061
 
 size: 11-50 employees
 yearFounded: 2013
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=1uxjtyJdxbU"
 
-secured: "wxJsAjBZR3pFNmrQ+bYXB6y2h9c5ArMYIXa5e8Ibpzco2ni+iNUT4rNdZfVbpqNXdH0koSeBMJ3TsCVJVD+gLCDZsd9cAHRrIBTkpUKzgpeMCgdXF1zOdVBSmqd2j7woI7tPjeXQqKR0ag3NYdvdvxGETbgKK1zguiRql/0E1U1SS0HJaAMMraR1Kt1uwxwyFdzx5Fn2WKHm8DtxoiAeGVEbAEBqT/3jHFq7bBs3KpztUnxKtEAX1akxVLuTpUWjk8jK58CIqMmOW2liD73dkX54bpZmG3GIeFvY1huhpIicOa35li76gtF7Cb4V+kMmBxjO8i5aUTMCE+vXYfGQweCiqS2eja89kkoTPpNNte8zbkMiLkwfPfMx5a9S57HV;PlGv/yKeNkwWh6RgBbf3pA=="
+secured: "isfm+JImLGVtUBd8maxef8m1ZyvVZqVXnrlbbHu7rCzOOb0N1Ltgiq0LyJRHBaWmFEMMP2d5cqoM1RTfQt2PMqe7iT6WL8n0P1+g9rMeWANtVxbrFZLSQWdJqNswlv9c4mu6/KT1CcdFXpFtZsVVfN4DZlSsZl9Ad6CYHoWHgFwpGeCyGv0YSvWDLADlEz/Zi0Cvmj7Yei9RcJZm8f54FUhToGJDSVBCcCjfjpoC81Az8+WviVnQP1Hedmp8UCzHq5LkatTWQX9g2jRPkxFVRuJXhJK0lYk7FUWFQynHNnds/bXmkt3S67jb/cWaZelbHLEL3NbJEd7qII1nMTnRgEZH8DGPQ1NWPvl7jtDTyz8a5k575ObKbWXZ+Vo56NvV;GY6dmVTz6tBtHenkKYd48g=="
 ---
 

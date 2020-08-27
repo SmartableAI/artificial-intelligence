@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 562
+heat: 581
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 6095308
+  followers: 6096032
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "0ez6XZI97AooDycyhFtKmnuph7CHn87/dk7SF2nIEm05xImt1QM5c7v5SNd0Ywsa9QzeQEkkCvKUnpFxeMbuNvMfLghcuFn/MJN+N9S00vpdoh7rU+DQHiJE/YLSC7krIppMO+DG3kkLFRWsRxy9EiGwHqpnLzKOGzfp35PhbJjDn/bke4BOUGckQsW86L355QijDTZ+RrAsH0vga9UcyDfM7Yhw+dMd33P+HlyJFBv95xSDnF55Bb+HlsAmfEkJZCUvtSSSorEaTYt21xL24sslxi49rbWCYDk6EFlCUGs0nSOWH14O48M8Agm81XDU8ae34tVzwevSA6TKHYj6wkY1nH4Z3ln08zLr7O9qX/WPgpdAbJY/xnvqmTOrEfPyUxO2SMwfej5TRzTd0uVPFQ==;KTUxe+YQnWeMM1O6HStXaQ=="
+secured: "53M2S6uAauByqtrArIShc309QT6CQPxuzXmMiFkyaUaqCL44RGLyMFndfy/j3I8f9ywEaCtFaYa4sfdqm8nl9/U1xbIaYDaqPWfSMxAEKMcllFg51mAK2CLm3Q/vZnjjiHLWHc65ez93IdDuASxsJsFt0ejLCQaSy61tz069z5Tyv8Q1/k+kDdhpLb1Letwf6feZO9/WNEOhIqw7jFq2TTFVowkLKiMIVlnfCQxrQtnvbrSiVOTA8wF4vagHWec5nnS+1jQfeyIs+AoTEgHTAlk9d6AaydFXNMw2js2NFgJucOorxHKCLoJK4lSDoxJc9pXHpNhxkHjMX0yRAefMua9bIaB/eLHhSQIR20qnx2NmXZiZGvEsC1ecxeIuIzSg45XKq83l7GRR8vIGptd2+Q==;SMgvQSuz9z3F599zL9mnsg=="
 ---
 

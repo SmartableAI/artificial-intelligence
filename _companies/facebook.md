@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "facebookai"
   url: "https://twitter.com/facebookai"
-  followers: 90859
+  followers: 90868
 
 size: 10,001+ employees
 yearFounded: 2004
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "T2VOG1HRkYHgn3AcLY6SZ+iE48Wk+rB5htCkLatlFftJ2ooUP46voEW7Mmzy/AeIhOCroUQ23xPSsV6TCC2Qr0DRflGzJ8yCb84ntUJXmzIfWAneaz09/vfhYeBOFtk/c+XTYC4HhuGs0JKqYbVa+qaP8406YMK7RhNXmH0Qxau8bdbV/wYVBsxBdNi73h2vghtAM+IvQ3ZyzZQFOHgJGE5rYPNeKpRw8XWphRfDfVdmf5iCf0o/+8xZO/7rTNdyDU71u04pCRbsVB1Wys3t9j/N3W2AnE8NYGMzdL68obci/fGMVqwgv81kDPW9+icQeLAJ8OzKGChRytpBW711gpUEwcFg6cTR953Q8rEyzCzWmRJQnjbujT2fTKG5nJRTCI8qDt/XTzUMBx+Hy+4LKw==;IB1gFwNWdloFrdAWMD5IDA=="
+secured: "7+QbpWmTVodM55tficEO60KXRSX9m1GtlSZ09L9BW25lI57sl7XLIVhAllhkQIMF8DMiM5s5aKXeZd94HE8IWj4WlJcOaf/7CJicemcEbB/OBW/4BRWJ3Yi7y3srKV+G+UcZ8WM5TkKESLNKHRdNZKzwawnl4rBrHm4LTKsUGZLhn9sdZn0FxA9oJqyqNoamP5NtKYzIumigblbwyveKFTxZ8VYAbPWTKBAberf1Slr43CnfngunAgPoZu2eccqnoqCxJDAfI3AHHEiNB6nEx0ujgYu4/FrVfQsWPCQ+wnkoHjmVYKmIl1vifM0FLyGvJIDRitm1rB+aAuQnKuH+/m3W5PvcMxeys1Wk0Jj1I6S+wSCiQBLE5NgECntx7rz5z/bRk18uLNFtcTxWhdl/bA==;kVoDNDLR28GlIiznrOTZtg=="
 ---
 
