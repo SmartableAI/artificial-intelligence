@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Trend Micro Brings DevOps Agility and Automation to Security Operations through Integration with AWS Solutions"
+    excerpt: "Trend Micro Incorporated (TYO: 4704; TSE: 4704), the leader in cloud security, enhances agility and automation in cloud security through integrations with Amazon Web Services (AWS). As a result, Trend Micro delivers flexible and scalable"
+    publishedDateTime: 2020-08-26T23:12:00Z
+    webUrl: "https://www.lelezard.com/en/news-19376845.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 19
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "StradVision to collaborate with leading custom SoC supplier Socionext to provide efficient ADAS solutions"
     excerpt: "StradVision has announced a collaboration with Socionext Inc., a leading supplier of System-on-Chip (SoC) solutions, to bring"
     publishedDateTime: 2020-08-24T21:00:00Z

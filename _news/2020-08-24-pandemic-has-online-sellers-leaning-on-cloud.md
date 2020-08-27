@@ -3,6 +3,7 @@ category: news
 title: "Pandemic Has Online Sellers Leaning on Cloud"
 excerpt: "Retailers more than ever are leaning on cloud computing to capitalize on a surge in online shopping without overloading their information-technology systems."
 publishedDateTime: 2020-08-24T09:44:00Z
+originalUrl: "https://www.wsj.com/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400"
 webUrl: "https://www.wsj.com/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400"
 ampWebUrl: "https://www.wsj.com/amp/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400"

@@ -3,6 +3,7 @@ category: news
 title: "Mezu founders shut down the payment app and launch fintech venture Alviere"
 excerpt: "The minds behind recently defunct peer-to-peer payments app Mezu have launched a fintech venture in Alviere, whose core platform, The HIVE, \"streamlines and automates the delivery of a broad array of financial products and services,"
 publishedDateTime: 2020-08-21T17:04:00Z
+originalUrl: "https://www.crainscleveland.com/technology/mezu-founders-shut-down-payment-app-and-launch-fintech-venture-alviere"
 webUrl: "https://www.crainscleveland.com/technology/mezu-founders-shut-down-payment-app-and-launch-fintech-venture-alviere"
 type: article
 quality: 22

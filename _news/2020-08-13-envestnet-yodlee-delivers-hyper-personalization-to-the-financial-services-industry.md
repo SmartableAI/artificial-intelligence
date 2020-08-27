@@ -3,6 +3,7 @@ category: news
 title: "Envestnet | Yodlee Delivers Hyper-Personalization to the Financial Services Industry"
 excerpt: "Yodlee's new APIs enable financial service providers to develop experiences that engage customers proactively across their financial wellness and financial planning channels. \"Hyper-personalization is the new baseline for success,"
 publishedDateTime: 2020-08-13T23:52:00Z
+originalUrl: "https://www.nasdaq.com/press-release/envestnet-yodlee-delivers-hyper-personalization-to-the-financial-services-industry"
 webUrl: "https://www.nasdaq.com/press-release/envestnet-yodlee-delivers-hyper-personalization-to-the-financial-services-industry"
 type: article
 quality: 27

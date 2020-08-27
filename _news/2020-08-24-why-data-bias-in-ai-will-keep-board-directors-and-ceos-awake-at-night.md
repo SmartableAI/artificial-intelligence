@@ -3,6 +3,7 @@ category: news
 title: "Why Data Bias In AI Will Keep Board Directors And CEOs Awake At Night?"
 excerpt: "This blog discusses the acceleration of data bias in AI models, introduces five types of AI bias, and identifies key governance questions for board directors and CEO’s to ask their organizations in order to mitigate data bias risks."
 publishedDateTime: 2020-08-24T15:06:00Z
+originalUrl: "https://www.forbes.com/sites/cindygordon/2020/08/24/why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night/"
 webUrl: "https://www.forbes.com/sites/cindygordon/2020/08/24/why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night/"
 type: article
 quality: 67

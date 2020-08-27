@@ -3,6 +3,7 @@ category: news
 title: "Industry-Tailored Clouds Give Platforms More Marketplaces They Can Run"
 excerpt: "Their internet marketplaces under regulatory scrutiny, Google, Amazon, and others are building more ecosystems – but of a different kind."
 publishedDateTime: 2020-08-24T19:17:00Z
+originalUrl: "https://www.datacenterknowledge.com/cloud/industry-tailored-clouds-give-platforms-more-marketplaces-they-can-run"
 webUrl: "https://www.datacenterknowledge.com/cloud/industry-tailored-clouds-give-platforms-more-marketplaces-they-can-run"
 type: article
 quality: 41

@@ -3,6 +3,7 @@ category: news
 title: "VMware Updates Horizon, Adds More Cloud Support"
 excerpt: "VMware has introduced updates to its flagship virtual desktop infrastructure (VDI) platform with the introduction of Horizon 8, as well as new additions to its VMware Workspace ONE, its digital workspace platform."
 publishedDateTime: 2020-08-24T21:18:00Z
+originalUrl: "https://campustechnology.com/articles/2020/08/24/horizon-8.aspx"
 webUrl: "https://campustechnology.com/articles/2020/08/24/horizon-8.aspx"
 type: article
 quality: 24

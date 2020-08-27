@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200821/Artificial-intelligen
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200821/Artificial-intelligence-can-help-detect-heart-disease-based-on-facial-photos.aspx"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "‘Selfies’ Have the Potential to Detect Heart Diseases"
-    excerpt: "A deep learning computer algorithm that can analyze human faces from ‘selfies’, has the potential to be used as a screening tool to identify heart disease in people in the general population or in high-risk groups,"
-    publishedDateTime: 2020-08-22T06:50:00Z
-    webUrl: "https://www.medindia.net/news/selfies-have-the-potential-to-detect-heart-diseases-197012-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/selfies-have-the-potential-to-detect-heart-diseases-197012-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/selfies-have-the-potential-to-detect-heart-diseases-197012-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 44
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/tips-for-a-healthy-heart.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
 
 secured: "98BVoahrFKsMphC0iSuTXp3qHVGC6X0S4TxeT2aeJLJwHqndpHDmBsOUyTOvqif/RA12Spbshj0CNIqeFFk8RY+qR8CwXH2qzsOvOb0AoM6J3UvcJvAA+yRC6+vvuBgCTjV30ixFWkoqIrSprnq6aWMbzDhGb/9be3s8XwwsCKlyrwBJ2dhSh31QCx1t5xbwRCthoV3v50T3OnNLMo7nDYZWdwA9fZgNkHZjJI2zuUAe3XL5oACU8jfefOUWYFXr2tCtgRoKiblJU/laNE2n0JDaInuCpZlgZQHI+j0WV/VVgDHNhIwzFksxzbn8PtITeh65AQXtnk7xVwy3OBuv+g==;R22grV8FlPXUBSrC/6t8aw=="
 ---

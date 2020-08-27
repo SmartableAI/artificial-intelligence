@@ -49,16 +49,16 @@ related:
   - title: "Artificial intelligence identifies 50 new planets from old NASA data"
     excerpt: "Researchers have identified 50 new planets using artificial intelligence, marking a technological breakthrough in astronomy."
     publishedDateTime: 2020-08-26T16:30:00Z
-    webUrl: "https://buffalonews.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_79a19648-0cea-5706-8bee-40bf1913281e.html"
-    ampWebUrl: "https://buffalonews.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_79a19648-0cea-5706-8bee-40bf1913281e.amp.html"
-    cdnAmpWebUrl: "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_79a19648-0cea-5706-8bee-40bf1913281e.amp.html"
+    webUrl: "https://www.stltoday.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_a914704b-4362-53dc-8e31-f9bfca27a5cc.html"
+    ampWebUrl: "https://www.stltoday.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_a914704b-4362-53dc-8e31-f9bfca27a5cc.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_a914704b-4362-53dc-8e31-f9bfca27a5cc.amp.html"
     type: article
     provider:
-      name: Buffalo News
-      domain: buffalonews.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 57
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/53/b534da13-4e3d-54a2-a31a-e2ff3dde2e29/5f330ac996cfd.preview.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/c5/4c58f208-3f44-5df3-991f-54d138f1dc08/5f33138b9ef7d.preview.jpg"
         width: 757
         height: 428
         isCached: true
