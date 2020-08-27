@@ -3,8 +3,8 @@ category: news
 title: "AF looks to facial recognition to secure facilities"
 excerpt: "The Air Force’s AFWERX innovation arm is investing in real-time facial recognition to secure base perimeters and enhance situational awareness for Air Force security staff."
 publishedDateTime: 2020-08-26T20:31:00Z
-originalUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx"
-webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx"
+originalUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx?admgarea=TC_SecCybersSec"
+webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx?admgarea=TC_SecCybersSec"
 type: article
 quality: 39
 heat: -1
@@ -55,6 +55,20 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Chinese Entrepreneurs Develop Facial Recognition Software for Livestock"
+    excerpt: "Compared to humans, squirmy pigs and fidgety cows might not make ideal photography subjects, but it’s all the same when it comes to facial recognition technology.  Facial recognition technology has been increasingly used on people for everything from unlocking a smartphone to picking out a criminal from surveillance footage."
+    publishedDateTime: 2020-08-26T20:44:00Z
+    webUrl: "https://modernfarmer.com/2020/08/chinese-entrepreneurs-develop-facial-recognition-software-for-livestock/"
+    type: article
+    provider:
+      name: Modern Farmer
+      domain: modernfarmer.com
+    quality: 41
+    images:
+      - url: "https://modernfarmer.com/wp-content/uploads/2020/08/shutterstock_1153104779.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Facing gender bias in facial recognition technology"
     excerpt: "Facial recognition bias is real, and software providers struggle to be transparent when it comes to the efficacy of their solutions."
     publishedDateTime: 2020-08-27T05:04:00Z
@@ -63,7 +77,7 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2018/10/09100001/identity.jpg"
         width: 1600
@@ -97,6 +111,6 @@ related:
         height: 700
         isCached: true
 
-secured: "uu7Rjk+4gcgmamKfAT1sNW1WxJttoQGvAp7Nk7qVrtUb/aGGDnWnidFdzUY9lOaruifY61XjyA9wszqQLin4c4XWDaHSwa2WDRKkPrXx7RJNgorpPRvFX6jFj7eAbCCCdcthRsBHjLy6rH2wIYtGTvLAZLq+f1DPD6LC9+OaEYJ5Bm9otZoPf2Q7B/sqr0TNpEh0O00cbs1EduiPHiv3HEDgUZwwmpmJjBBSprpoAsyHL8scL4kxxtY9kq6zskNbZ76hOlxbXOdFWaslSeMy3MastHmCkjzAKO6yy70KnLx/bJNodXFppeOP5YOx4qhKqmbVCknE9KT+htknatXa3VO935a4o8BgGB+TNoMBxJgg+GRmUEZC+UTtuhSrVEZqccayHaGtsXvO74tcUAXSXEmKKlP1w4++8+oGsoJoD5MHrYtfKA28e7kTXJob+wUbfbDy2CM63g0SFjwFz16LBed9V46hsp44/QsTQt0JZxno0fL05xekzpGh159Xh1hpybk5nvSZRC1BFt+SlvexfowrmOpv5PNRi5VuQ2oRPbY=;f+eOooVC1hpdWCV33OWvIA=="
+secured: "fRDrFJrwfOZPmjBGug/HSZf9gRqSo8FXIFcT9YYmqDf6/QzjatBC2Hbtjf+beX8NVH89jFjFmnmOBxuLYGO3AWG+JkGm5CwFuNJUToHCF3/J8bCkkZ1wHrUu0g/i8x3gIsv0LGOUpjL8yYAFL0b6S7mezFYTf4nsnyrXv6lxbjUZshbCtmQtHx+Wcu00IL6fSSE9uLtTIQT9ibBWq9z4mBWgkX68WX1Z4g01GkinPSsZxoMlD2ktByBDERWxJdHwcDC2HPGkkv/Qcr/7zEX9FUkwFFwY2053h38lGlGvZLT/DQVwRLxf3gVlMy5Mx5Y0N8RXnjnlgpvBuERoAL5MMZ0FFyegxpkpQse0wTKdmzQ=;JbnEfFCJuBQVZ6SDfsEZ/w=="
 ---
 

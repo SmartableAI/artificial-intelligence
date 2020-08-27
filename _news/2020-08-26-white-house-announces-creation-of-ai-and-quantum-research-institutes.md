@@ -71,6 +71,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "US Establishes 7 AI Research Institutes"
+    excerpt: "The White House this week announced the formation of seven new AI centers aimed at advancing technological innovation and bolstering the economy. AI"
+    publishedDateTime: 2020-08-27T21:05:00Z
+    webUrl: "https://www.hpcwire.com/2020/08/27/us-announces-formation-7-ai-institutes/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 37
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/inspur_ai.png"
+        width: 701
+        height: 388
+        isCached: true
 
 secured: "bS3Z0kTieGrcMbwlHgAd9WWV84ZhaaRhL730GYPh0pLK5nf6aLZRpo96ITOhg8yXoGPIL2MaThqC1p6F2XHV6CG/d/1QnW4VtO9/79auEHLuWNhEBhbC9XjIGmJWmxzyXQ7kf2WLkKoG5VRp83TbwrY/ZumPV54yKR7xEvbQ2SJVeRRO30H3WzHuJSwtKnH81m4dpDcDBlifhoFpwfDqBUvO52U3+gB26ydiV3s/dB54KEXyhAR9sfQ4JLh5X9at81RG+ByGSZanb8Ekqh3SuYstMFCIlG+OGBJrBUfV7T8j+GTfigkoiPhJW+jrUTOscFRklc59UYKj02CNBFnePR+eyA6FCWF5WYzK1s5nSCde/22ucE3nieAgLr/XNgxjAO5sbaJhZTCyfVqKfCfaqh44BdGPng7bgzpjS7doBaIUygu3c688B/NpNTpbmsxWWUS/OW7nvOj+VVadx2UFG9/sHjG5MTW9bp2PtYDSeqcGLLKI4d8DWPbsiVAI3zH8oSs0DKbnJAXeSkKNbEOGenPxA36A/BplPKYS/q3ZsEg=;S5WgBH6GpTH0uPsNH7LkfA=="
 ---

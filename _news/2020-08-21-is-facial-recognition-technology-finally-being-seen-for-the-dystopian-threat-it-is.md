@@ -3,6 +3,7 @@ category: news
 title: "Is facial recognition technology finally being seen for the dystopian threat it is?"
 excerpt: "In the end, even Silicon Valley has had to admit that there is something a bit sinister about facial recognition"
 publishedDateTime: 2020-08-21T05:25:00Z
+originalUrl: "https://www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/"
 webUrl: "https://www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/"
 ampWebUrl: "https://www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/amp/"
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/is-facial-recognition-technology-finally-being-seen-for-the-dystopian-threat-it-is/amp/"
@@ -18,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.cityam.com/wp-content/uploads/2020/08/869082432.jpg"

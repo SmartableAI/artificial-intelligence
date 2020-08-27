@@ -3,6 +3,7 @@ category: news
 title: "Why MicroVision Stock Got Decimated Today"
 excerpt: "The computer vision specialist continues to look for a buyer after it said earlier this year that it was hoping to sell itself. Revenue in the second quarter got cut in half to $600,000 ..."
 publishedDateTime: 2020-08-06T20:04:00Z
+originalUrl: "https://www.fool.com/investing/2020/08/06/why-microvision-stock-got-decimated-today.aspx"
 webUrl: "https://www.fool.com/investing/2020/08/06/why-microvision-stock-got-decimated-today.aspx"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/08/06/why-microvision-stock-got-decimated-today.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/06/why-microvision-stock-got-decimated-today.aspx"

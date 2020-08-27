@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-27T05:04:00Z
 originalUrl: "https://www.helpnetsecurity.com/2020/08/27/facial-recognition-bias/"
 webUrl: "https://www.helpnetsecurity.com/2020/08/27/facial-recognition-bias/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://img.helpnetsecurity.com/wp-content/uploads/2018/10/09100001/identity.jpg"
@@ -55,10 +56,24 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Chinese Entrepreneurs Develop Facial Recognition Software for Livestock"
+    excerpt: "Compared to humans, squirmy pigs and fidgety cows might not make ideal photography subjects, but it’s all the same when it comes to facial recognition technology.  Facial recognition technology has been increasingly used on people for everything from unlocking a smartphone to picking out a criminal from surveillance footage."
+    publishedDateTime: 2020-08-26T20:44:00Z
+    webUrl: "https://modernfarmer.com/2020/08/chinese-entrepreneurs-develop-facial-recognition-software-for-livestock/"
+    type: article
+    provider:
+      name: Modern Farmer
+      domain: modernfarmer.com
+    quality: 41
+    images:
+      - url: "https://modernfarmer.com/wp-content/uploads/2020/08/shutterstock_1153104779.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "AF looks to facial recognition to secure facilities"
     excerpt: "The Air Force’s AFWERX innovation arm is investing in real-time facial recognition to secure base perimeters and enhance situational awareness for Air Force security staff."
     publishedDateTime: 2020-08-26T20:31:00Z
-    webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx"
+    webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx?admgarea=TC_SecCybersSec"
     type: article
     provider:
       name: GCN

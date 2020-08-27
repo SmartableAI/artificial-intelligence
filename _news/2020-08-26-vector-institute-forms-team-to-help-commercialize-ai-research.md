@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-he
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "US Establishes 7 AI Research Institutes"
+    excerpt: "The White House this week announced the formation of seven new AI centers aimed at advancing technological innovation and bolstering the economy. AI"
+    publishedDateTime: 2020-08-27T21:05:00Z
+    webUrl: "https://www.hpcwire.com/2020/08/27/us-announces-formation-7-ai-institutes/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 37
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/inspur_ai.png"
+        width: 701
+        height: 388
+        isCached: true
 
 secured: "p9c4wdFzao6+PLQBxIVSWgI0qzyM6+bBsb24oAWqX09MCvFUw9PAh76LuP2rFwy29nm9WChfMA9HzBcCRyOmGxZq/Hdsks0DpaoXWU/5OH8GUsrQvR1CyD8RQNhXs/XjsaIp/eR+ea9jNazJkOBJwne2Jpjb5y2Sy7oxQ5Eq+1DbM49IrqiDP2yhXdV2Wzt7X96XuvC4hZ5hG0YzKRSRxe+eQOiMjs2ud9EuWrMW9Bpb0tbpwDTEZoDIOWkFhUQkCQlOCdykMHXc0eCsYddrYfCaGAcktxhY122xkmhTCbClBJjlSVlkyiohqG6hWGxGvRAVrpx1jYZcD2XD8R+ncoED4U4uym3ac7yV1jyVaRI=;lHii06+jc7J8KhWkQ9Kbwg=="
 ---

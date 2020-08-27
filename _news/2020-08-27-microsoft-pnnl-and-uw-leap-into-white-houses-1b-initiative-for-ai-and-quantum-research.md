@@ -40,7 +40,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.benzinga.com/files/images/story/2012/artificial-intelligence-2167835_1920_21.jpg"
         width: 1920

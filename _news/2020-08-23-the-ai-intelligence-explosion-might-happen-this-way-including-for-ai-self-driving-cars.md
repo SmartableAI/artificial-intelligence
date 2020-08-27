@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Last Unicorn Standing: Can This Self-Driving Innovator Survive?"
+    excerpt: "The granddaddies of the auto industry are buying up self-driving firms. Can this outlier survive? The rapidly growing startup built its model around the promise to help traditional car companies transition to driverless technology."
+    publishedDateTime: 2020-08-27T16:21:00Z
+    webUrl: "https://www.ozy.com/the-new-and-the-next/last-unicorn-standing-can-this-self-driving-innovator-survive/374260/"
+    type: article
+    provider:
+      name: OZY
+      domain: ozy.com
+    quality: 24
+    images:
+      - url: "https://assets.ozy.com/ozy-prod/2020/08/gettyimages-1168315199.jpg?width=1200&height=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "2PJQdNuPIFxh0TGPyQWBRcIE9m8t6nAgDGJkuME3ilXRg8R2nEnaYQQofetJiStuch9KycyAm8nTwdulDXztZBsp+eyLCI6s3aKzVWjyzHZbqjAuJZmzvOXjdcn233LJ3HcR8rEap8xbcwji2cGb4CyEwJq7cporYHT58ZrGoIaTT5Fsid/z4AVn8dA158kcR9PWIiRf8wA7ZONA/7mz4igMhAM84pgnWPpxmWd57lF03srzdjcUMVihUO90uZt4YSnA1cdCly6ZtHyF5kaOdS6IhtVSSGIOWj/jKHDmDuEKTcWzUJjPGpcNnShFHUYbYGVkF2vmVPyb3MP1JxLYLMY1NuBTz38fpCi7ikAKJ8soSlAkZXNAKwLCGHNcf2hXkT26gzJkRJwqrbZx1mhcgl/Nrq2hCoBgE9QFi3G5cT03fAKldCwjkZd1uHAyaHZFXMJuSee1SqrjhJgedp2dkpHhcylVqgIbwk0rkK8PsB+qDOPa3nQ579achZxLQr6ULSqBAHVFAW26tUflal/txQ==;l+Sp58hNGpHjR1NM78GVgg=="
 ---

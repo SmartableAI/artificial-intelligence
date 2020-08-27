@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/news/20/08/17259159/white-houses-1b-ai-initiat
 ampWebUrl: "https://amp.benzinga.com/amp/content/17259159"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17259159"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.benzinga.com/files/images/story/2012/artificial-intelligence-2167835_1920_21.jpg"
@@ -44,6 +45,6 @@ related:
         height: 380
         isCached: true
 
-secured: "XpEbLsgCKU0r6G82uwBHQsQ8w/zPM6JCvY1wHtNlvrg7fwnikOsoGzy/oYAZ4pwfHeCKNJh+Xov7vWK4/wcM0JaHOp3gMYnpwZGSjVBujYg+iMNHNl9rR9fh/MTvxbiDOFka+Q3ayfTyJzJzxsAe6DP29CzClI2hLxmpKgUPoWjPOx0x7UC2xFvAgWZrfZgnmnj4ULliOOZlB+ZowM+FuOpVAPbfXZIaJEiLX0igwJX4XpStzKv9WC3H1jcxL6zwxKMSjsr/+kqIKFLvMbY/j/wSQ582RFItIVtAQguRZqgIkct1Tpw7FOgyn08kKAtDBxuVP0DgEbQ0JStYeph4nfbWwYcDVxBYrbVixRhLRn8=;Ri2q4h7aPAOkKQAMVsNO0Q=="
+secured: "nfw8BF4uUwaGq+hyK7xMODe0QfFJglBIEBxQn1oFfkoW8Ap5hDvRsSXVPfP5HECpUgU57pdEtvD3fKkP1Qk1Ze+AnL/svuPp/V0vUE9KZJWMga6RCs2enZDDINCxvr0U08YBNEhiOVjusKW4VZvR+OyXXSpNte7j/1OA7LpUBP+vASbr0w33rvcKVoyW/gP2nfZ8HjiDBOwNEUu0ufakOp+y/7GX+cR9xQCLtqHVIxT133ZP5BNZTKms/2J3AYg8nx7DybuAMWesFTepGAnzB2dxRuWZcQ0U1JG/jzRD0v1CgxSopNp3ZlZOCneNAN8tb6qwQ+/UwUP/TgR0m0yKU+QyvOR+bfA80BsQqCs91Xc522KuK2QtkjuhONkdq1+yBm9YF2OPduZhD5gA7m2WSK6VIsbpx6cvdk+8q+3SC/wUekt0j0GPSEvdghUyhitvDxY67WXyxiTXoN4ZVBWjnqPXWJny+0kPPBRhenfNhNaEnXJSR/t6inqJKVa/LgdbtrvkOeJ1IpYqxYAA+SCmR0t0arndCBX5hzhnRITg2bI=;J18Sm2eMY7Cu95sDof72TA=="
 ---
 

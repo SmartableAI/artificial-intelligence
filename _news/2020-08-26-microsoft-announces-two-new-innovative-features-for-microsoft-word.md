@@ -103,6 +103,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft Adds Voice Features To Office 365"
+    excerpt: "Microsoft is adding transcription and dictation coice-command functionality to Office 365 for web, which it says will allow users to spend less time and energy on time-consuming work. Using the Azure Cognitive Services AI platform,"
+    publishedDateTime: 2020-08-27T04:42:00Z
+    webUrl: "https://www.channelnews.com.au/microsoft-adds-new-voice-features-to-office-365/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 39
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2020/08/CLO20_microsoftForStartups_Ghana_039-8-25-BANNER-1200x600-1.png"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "yCBAtqZl6uZv2MsWUIuqPdh+f2uZZdl5DMn27JPfgFuc48/vLzXi5RT07DSrVty8/Z1C1RQA1MSyz0eXEfhXG+ous0vcSeALNFfbazPE5qeJiCxf2TTYsjHN/AZLSGjAO76s0C+CllreL/vocPs2/KVXdWOZNGxpN0+fG8F7XgQ37iZ1WSoTAf5EoAvlyoQqe9NBsQ+7OGGa6m4KJj8d/3tpiZt3jizMmKk4tm7K9pZF6kDSqUWCC7nR8B8J6+nQSJVp4jFhKm5sPk8zRxolXuCkhJfqJTFIswHU7A3xaaF5Hv3Mu5UOPRktqtLYUSxzX/TZRksR7ZbpF8nezPfJQdbIdg46BfrpJ3PBuBBoEusJ2i3KgY9RExffukVDmKUEVq2B/PM0/MlbyXEWRxmJOKzUTIA+IzDqr/D/HWs+aEEGTDxamVrxDisDm9GZsvTzqXY5gZ1T4pesPSkJTZMwzLNOjkMcv8NR4W5KoqZQS90aVGXlQVU6H2VGn5LSANAq13p4b8RZ60RUoa1EAMtChw==;0fM/qLLNVfwCzesa3RhvWw=="
 ---

@@ -3,6 +3,7 @@ category: news
 title: "Remorseless rise of robots and AI"
 excerpt: "The robots are no longer coming; they are here. The Covid-19 pandemic is hastening the spread of artificial intelligence (AI), but few have fully considered the short and long-term consequences."
 publishedDateTime: 2020-08-12T03:31:00Z
+originalUrl: "https://www.bangkokpost.com/opinion/opinion/1966839/remorseless-rise-of-robots-and-ai"
 webUrl: "https://www.bangkokpost.com/opinion/opinion/1966839/remorseless-rise-of-robots-and-ai"
 type: article
 quality: 56

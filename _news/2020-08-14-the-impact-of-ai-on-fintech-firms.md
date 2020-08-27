@@ -3,6 +3,7 @@ category: news
 title: "The Impact of AI on Fintech Firms"
 excerpt: "The fintech industry is no different. AI technology has improved precision levels, enhanced customer engagement levels, and quickened the query resolution period. Fintech companies and financial firms were the early adopters of the technology and have stood to benefit the most."
 publishedDateTime: 2020-08-14T12:26:00Z
+originalUrl: "https://www.cioapplications.com/news/the-impact-of-ai-on-fintech-firms-nid-6235.html"
 webUrl: "https://www.cioapplications.com/news/the-impact-of-ai-on-fintech-firms-nid-6235.html"
 type: article
 quality: 39

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Facebook and NYU are using AI to dramatically speed up MRI imaging"
-excerpt: "Facebook’s AI researchers gave themself an especially demanding challenge: Use algorithms to fill in the details of an MRI scan. The results are promising."
-publishedDateTime: 2020-08-18T13:00:00Z
-originalUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging"
-webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging"
+excerpt: "Two years ago, Facebook’s Artificial Intelligence Research group (FAIR) began collaborating with researchers at New York University’s Medical School on artificial intelligence that held the ..."
+publishedDateTime: 2020-08-18T13:34:00Z
+originalUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com"
+webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: fastcompany.com
 
 topics:
-  - Facebook AI
+  - AI in Autos
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 720
     isCached: true
 
-secured: "XI3V9083Encn32j7xzka4r9Th31Wh0O+8ETtaGMIT/tVwaY7VqhDBsbt786yd0589/0RP3eCrwOkCgUtVb7VPVVVVghAbtv0s6hVpsgwXu5ij+LseHe83hxC4gFmEeCA8xYDZTs+8oABNEGMWQmcBd4A3+J53j7OR/dzpRpZruv6AnCxfAiQjscpbd6vrs7uoZqB3cLyLPk1Ts54ND8hbnZ/x/54PDQdZAJqEf0HZ1N/Jy9TGdpV4phKyNHyjG7UkkZwkP2BZE8/qV2MWqrhfpaeZyWMULy4j3nmEq03PPZVa57O1Jdfrs0p0m0TsS9FykVbsVUSrtLVcVic4vk1drULWuzCHnm+fImyI3uM3LE=;ce+YWkfRV1HIHMS0tZ011w=="
+secured: "pTHgfnmJ9kLFUXWuQq1vZ6pVOuhV/e5Ls4mMHn0epUoaPkewzOXTv31TWjslQwuHNM/jVEHjAOQUUb1ZX7aUoR2/W3OIfr3lu0JrPWegY5oLKQpod0piAD2gpeQutT0+DX+FrEk4TJQdhH36MWZpA2SVsPwHPrbJhGob2PFTgRhJIlOpc7t55aNCw2SPQIwnQaJVArdZZFW/plh8UE++dRlw8KpsYLe8j9/GxbpO2UL20Ufe0zqmt7Wx4Hr2/1P5JAdh+m3jVtDlnQvin8EOjRGyzl14jQSsGgpaoyljOtJR/kcH8PbcaopbIU+YKhXEWLTpz1Z8It9CLqgeq/XRwr392iyQ6J9w0zQ9V/afbXc=;0P1S8c884z/m0Gkn5XYB8A=="
 ---
 
