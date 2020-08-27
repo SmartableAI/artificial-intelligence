@@ -24,35 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Filling in the blanks: How supercomputing can aid high-resolution X-ray imaging"
-    excerpt: "Scientists are preparing for the increased brightness and resolution of next-generation light sources with a computing technique that reconstructs images faster and with more precision."
-    publishedDateTime: 2020-08-25T13:00:00Z
-    webUrl: "https://phys.org/news/2020-08-blanks-supercomputing-aid-high-resolution-x-ray.html"
-    ampWebUrl: "https://phys.org/news/2020-08-blanks-supercomputing-aid-high-resolution-x-ray.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-blanks-supercomputing-aid-high-resolution-x-ray.amp"
+  - title: "Top lawmakers on AI set sights on House resolution to expedite policy"
+    excerpt: "Rep. Will Hurd (R-Texas) said Tuesday that he and Rep. Robin Kelly (D-Ill.) will introduce a resolution next month that would raise the profile of AI’s implications on the"
+    publishedDateTime: 2020-08-26T11:59:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2020/08/top-lawmakers-on-ai-set-sights-on-house-resolution-to-expedite-policy/"
+    ampWebUrl: "https://federalnewsnetwork.com/artificial-intelligence/2020/08/top-lawmakers-on-ai-set-sights-on-house-resolution-to-expedite-policy/amp/"
+    cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/artificial-intelligence/2020/08/top-lawmakers-on-ai-set-sights-on-house-resolution-to-expedite-policy/amp/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 55
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/fillinginthe.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Filling in the blanks: How supercomputing can aid high-resolution X-ray imaging"
-    excerpt: "The same holds true for X-ray imaging, although on a much smaller scale. Light sources like the Advanced Photon Source (APS), a U.S. Department of Energy (DOE) User Facility located at DOE's Argonne National Laboratory,"
-    publishedDateTime: 2020-08-24T21:04:00Z
-    webUrl: "https://www.eurekalert.org/features/doe/2020-08/dnl-fit082420.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
-    images:
-      - url: "https://www.eurekalert.org/features/doe/images/dnl-fit082420.1.jpg"
-        width: 720
-        height: 405
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/08/Will-Hurd-1024x725.jpg"
+        width: 1024
+        height: 725
         isCached: true
 
 secured: "ejLe2QjU6o/yQ66BXa7NB21MtF2pILfVU9KPjhlFRyJmh6w7rq9hZiw560rljjCyuGmilffxBvHgL5miYcI8ZClNXnXblarNV38JJD2nIP/antFZa8wn8LiWEg2mA/kRgf5a5f9I1zLy2ofVBTKARMJcc3OiMMbU6y22jvAQnS29l2/DpvD8d7vQDyBwj4MMI4zFr1JIxGmhmhaooUNgTWyAUU55XPybYfZZst3ZG16UYsjkevENu72OpKFNdIHqChXHKRLYANlRWg2AXQsJC9FdhRC6qCx+QW6pYrd4XxcSAaSet8Fy9XmddPjz4cEG/FUsjA5ZvES7DWKXUcBZG4GS1WZ5XrvhNyHzLbin4L6vEfoBieXcREdbin8mIVbaco31jA+3TsvwCdOAEPeqeMzAEdh1G6JQPtgM9aPGQ0Wazd7XBDNoiT06OjrdFLG0oh93CP88Af7J8KAbCgxyq1icga1ZZ9PTTrQxZUPsBn0BeaSjpMVcx1enOObXc92/59jN9Rwm1G56NNtYaw2th8Wy+wA6N5JFIoQON8vcxiQ=;YMxVCGSELAYhjsgvyH7IIw=="

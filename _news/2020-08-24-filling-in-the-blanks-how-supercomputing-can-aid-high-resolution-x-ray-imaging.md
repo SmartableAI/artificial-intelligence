@@ -40,20 +40,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Congressional AI Resolution Coming Soon, Lawmakers Say"
-    excerpt: "Reps. Will Hurd and Robin Kelly plan to introduce an AI resolution celebrating past innovations and laying the groundwork for future legislation."
-    publishedDateTime: 2020-08-26T16:59:00Z
-    webUrl: "https://www.nextgov.com/policy/2020/08/congressional-ai-resolution-coming-soon-lawmakers-say/168005/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/08/26/shutterstock_634024823_3/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "nzTJATtAVVfR7XkgSxVhoPe3LN9RLkd7jV2A/ootTgQ9ZoyAy5R757uy0A2Tap9K6KnJ+ARYFNDx5+/CFAI7P1PRXh9ef3aCMFuXRj3NJR9TndDaWpEtK5600/NcGlIyPGe2yufCzJVTYYyPx8Qv1GYl/QemzeeHGmuU5SCVvsmoadophAcUrp05aGG/V7ZYZDBAgIuUjoXJ/COtZyfyxy8uUs3Vu9uJ+yucG37M6q6c9rMm6B43ioRmcLFdvMPr4SyhnAzaH41MmG8Hw9miGx6YLA9lxXX3vbIyreWHHnt8A9gUGFFFLt905h1ay6HZETEwnIUvfkJ0p3Hpb3tnxDsAnAvp5ZTbJHoKh1OMN1LrFMW0yggXBahmC2LXDGM8jpo485p5kYlaC6a77eAe6m7T5TFjvD+JyOdQS04GStFL+uRxSt2nokmq5jhyZUvlJyZgvGYECYU32Paa+ZyMXGE/1i2XKBcshJHjl5S9tmhIwN8K/kJQNn7fJmFhn4W9ucqSpV2oKfqEeqNoxzU8Fg==;38rX2dJuc98T9cZnKyce0g=="
 ---

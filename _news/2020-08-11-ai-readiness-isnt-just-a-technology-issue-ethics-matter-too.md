@@ -3,6 +3,7 @@ category: news
 title: "AI readiness isn’t just a technology issue – ethics matter too"
 excerpt: "For example, in AI Readiness, Alex Castrrounis explains readiness regarding Technological, Financial and Cultural Issues. Summarizing some of his points: Organizational — Need a Chief AI Officer (CAIO) or chief analytics officer (CAO),"
 publishedDateTime: 2020-08-11T09:20:00Z
+originalUrl: "https://diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too"
 webUrl: "https://diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too"
 ampWebUrl: "https://diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too?amp"

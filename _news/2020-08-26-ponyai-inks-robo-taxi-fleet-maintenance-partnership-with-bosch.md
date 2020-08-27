@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/26/pony-ai-inks-robo-taxi-fleet-main
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/pony-ai-inks-robo-taxi-fleet-maintenance-partnership-with-bosch/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
     quality: 37
     images:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/pony-vehicle-in%20Guangzhou.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Bosch, Pony.ai partner on AV fleet maintenance"
+    excerpt: "Autonomous driving startup Pony.ai and German supplier Bosch's Automotive Aftermarket division in North America are teaming up to develop and test a maintenance and repair system for future AV fleets."
+    publishedDateTime: 2020-08-27T09:51:00Z
+    webUrl: "https://europe.autonews.com/suppliers/bosch-ponyai-partner-av-fleet-maintenance"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 37
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/pony-vehicle-in%20Guangzhou.png"
         width: 800
         height: 600
         isCached: true
