@@ -21,21 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Pittsburgh City Council introduces police facial recognition, predictive policing ban"
-    excerpt: "The Pittsburgh Police have been under some intense criticism as of late for their recent arrest of a protest marshal using an unmarked van"
-    publishedDateTime: 2020-08-25T16:03:00Z
-    webUrl: "https://www.pghcitypaper.com/pittsburgh/pittsburgh-city-council-introduces-police-facial-recognition-predictive-policing-ban/Content?oid=17879052"
-    ampWebUrl: "https://www.pghcitypaper.com/pittsburgh/pittsburgh-city-council-introduces-police-facial-recognition-predictive-policing-ban/Content?oid=17879052&media=AMP+HTML"
-    cdnAmpWebUrl: "https://www-pghcitypaper-com.cdn.ampproject.org/c/s/www.pghcitypaper.com/pittsburgh/pittsburgh-city-council-introduces-police-facial-recognition-predictive-policing-ban/Content?oid=17879052&media=AMP+HTML"
+  - title: "How facial recognition technology could be utilized in a COVID-19 world"
+    excerpt: "CLEVELAND — It's not science fiction or the movies; facial recognition technology is now part of our world. TensorMark Inc., a US cloud-based AI and computer vision technology provider, is working with University Hospitals to come up with a way to make ..."
+    publishedDateTime: 2020-08-27T23:39:00Z
+    webUrl: "https://www.wtol.com/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
+    ampWebUrl: "https://www.wtol.com/amp/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
+    cdnAmpWebUrl: "https://www-wtol-com.cdn.ampproject.org/c/s/www.wtol.com/amp/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
     type: article
     provider:
-      name: Pittsburgh City Paper
-      domain: pghcitypaper.com
-    quality: 52
+      name: WTOL
+      domain: wtol.com
+    quality: 59
     images:
-      - url: "https://media1.fdncms.com/pittsburgh/imager/u/original/17879057/facial-recognition-technology-policing.jpg"
-        width: 700
-        height: 392
+      - url: "https://media.wtol.com/assets/WGRZ/images/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "AI Technologies, Like Police Facial Recognition, Discriminate Against People of Colour"
     excerpt: "Borchak Williams in January 2020 for a shoplifting incident that had taken place two years earlier. Even though Williams had nothing to do with the incident, facial recognition technology used by Michigan State Police “matched” his face with a grainy image obtained from an"
@@ -81,34 +81,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Pittsburgh Councillor Moves to Ban Police Use of Biometric Facial Recognition Tech"
-    excerpt: "Pittsburgh city councillor Corey O'Connor has introduced legislation that would ban the city's police from using facial recognition software"
-    publishedDateTime: 2020-08-26T22:34:00Z
-    webUrl: "https://findbiometrics.com/pittsburgh-councillor-moves-ban-police-use-biometric-facial-recognition-tech-082609/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 33
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/blurredface-e1579295692518.jpeg"
-        width: 1502
-        height: 1694
-        isCached: true
-  - title: "Biometric facial recognition ban considered in Pittsburgh and enacted in Jackson, Mississippi"
-    excerpt: "A bill has been introduced in Pittsburgh, Pennsylvania that would ban the “unrestricted” use of facial recognition by the city’s police, as well the use of predictive policing algorithms,"
-    publishedDateTime: 2020-08-27T16:33:00Z
-    webUrl: "https://www.biometricupdate.com/202008/biometric-facial-recognition-ban-considered-in-pittsburgh-and-enacted-in-jackson-mississippi"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
   - title: "Faceoff! UK appellate court finds police use of facial recognition technology contravenes laws"
     excerpt: "In what has been described as one of the world's first successful legal challenges to police use of facial recognition technology, on Aug. 11 the UK Court of Appeal (Civil Division) found in R. (Bridges) v."
     publishedDateTime: 2020-08-27T20:36:00Z
@@ -123,24 +95,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "UK Court Spurns Police in First Legal Test of Face Recognition"
-    excerpt: "As the world’s first legal challenge to police use of facial-recognition technology, the decision by the Court of Appeal has established an important precedent,” she said. “Other authorities will think again before rolling out similar technologies,"
-    publishedDateTime: 2020-08-25T18:57:00Z
-    webUrl: "https://cyber.harvard.edu/story/2020-08/uk-court-spurns-police-first-legal-test-face-recognition"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 19
-  - title: "Pittsburgh Councilman to introduce bill that restricts facial recognition use"
-    excerpt: "Pittsburgh City Councilman Corey O’Connor intends to introduce legislation Tuesday that would regulate the usage of facial recognition and predictive policing technology in the city. “This technology has harmed more people than it’s helped,"
-    publishedDateTime: 2020-08-24T20:20:00Z
-    webUrl: "https://triblive.com/local/pittsburgh-councilman-to-introduce-bill-that-restricts-facial-recognition-use/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 16
 
 secured: "/Fq2GS2nFnx0KGL50ZZPxQYgtdHyF1c2ojIbaA6KWk38g5oX/tiK34T9nA6TSFotDL6SG86RzQkGx3JCLAgXE3pjNTV52A7Fl0KrO2mjjIz12HiICqERlFfLQ/zdsgKTFpjqrB0grSAEkdb0SzItkO50GkMgsHAEFu7zQIJnEyrX933WAak/9Ff1j7mrPG2NDRG2axjAZOB2yhr8v2OsAYjzyk28gtF6QbLkcE45/qe0YfWkbO5AqfeRoWxVWkSejhN2HoiCwPbmxbEmPumfv0SGN/ijzR9I44u5hUfHJghrLkD5cZGMDy6hH6ysX8e1SddHviVJwq9qv3Gl54L8ZuaHVPW0DVK8yzZ3K53H7fkgWaoRKilNb3CUgk+ii233+xH8K6p3kUyXecD7W8YilshSu7UCDc9pNNu6Cmleg8Ack2/AiFIjxi1lS6ICQRK4gPp+n1GBgRWJJNRA3o95+zLx6SD3jfto53zvb2Mhr/WAdMDD8QagvcAWGq1oM/C5;aQOx4foAXdaWGGw9eGx77w=="
 ---

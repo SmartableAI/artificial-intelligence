@@ -1,46 +1,32 @@
 ---
 category: news
-title: "Council Introduces Bill To Regulate Facial Recognition Technology Use"
-excerpt: "As Pittsburgh City Council returned from its August recess on Tuesday, Councilor Corey O’Connor introduced legislation that would regulate the city’s"
-publishedDateTime: 2020-08-26T13:15:00Z
-originalUrl: "https://www.wesa.fm/post/council-introduces-bill-regulate-facial-recognition-technology-use"
-webUrl: "https://www.wesa.fm/post/council-introduces-bill-regulate-facial-recognition-technology-use"
+title: "How facial recognition technology could be utilized in a COVID-19 world"
+excerpt: "CLEVELAND — It's not science fiction or the movies; facial recognition technology is now part of our world. TensorMark Inc., a US cloud-based AI and computer vision technology provider, is working with University Hospitals to come up with a way to make ..."
+publishedDateTime: 2020-08-27T23:39:00Z
+originalUrl: "https://www.wtol.com/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
+webUrl: "https://www.wtol.com/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
+ampWebUrl: "https://www.wtol.com/amp/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
+cdnAmpWebUrl: "https://www-wtol-com.cdn.ampproject.org/c/s/www.wtol.com/amp/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 109
+published: true
 
 provider:
-  name: WESA
-  domain: wesa.fm
+  name: WTOL
+  domain: wtol.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.wesa.fm/sites/wesa/files/styles/medium/public/201804/city_council_building_-_jake_savitz__51_of_52_.jpg"
-    width: 800
-    height: 533
+  - url: "https://media.wtol.com/assets/WGRZ/images/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e_750x422.jpg"
+    width: 750
+    height: 422
     isCached: true
 
 related:
-  - title: "How facial recognition technology could be utilized in a COVID-19 world"
-    excerpt: "CLEVELAND — It's not science fiction or the movies; facial recognition technology is now part of our world. TensorMark Inc., a US cloud-based AI and computer vision technology provider, is working with University Hospitals to come up with a way to make ..."
-    publishedDateTime: 2020-08-27T23:39:00Z
-    webUrl: "https://www.wtol.com/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
-    ampWebUrl: "https://www.wtol.com/amp/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
-    cdnAmpWebUrl: "https://www-wtol-com.cdn.ampproject.org/c/s/www.wtol.com/amp/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
-    type: article
-    provider:
-      name: WTOL
-      domain: wtol.com
-    quality: 59
-    images:
-      - url: "https://media.wtol.com/assets/WGRZ/images/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "AI Technologies, Like Police Facial Recognition, Discriminate Against People of Colour"
     excerpt: "Borchak Williams in January 2020 for a shoplifting incident that had taken place two years earlier. Even though Williams had nothing to do with the incident, facial recognition technology used by Michigan State Police “matched” his face with a grainy image obtained from an"
     publishedDateTime: 2020-08-25T09:00:00Z
@@ -68,6 +54,20 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 45
+  - title: "Council Introduces Bill To Regulate Facial Recognition Technology Use"
+    excerpt: "As Pittsburgh City Council returned from its August recess on Tuesday, Councilor Corey O’Connor introduced legislation that would regulate the city’s"
+    publishedDateTime: 2020-08-26T13:15:00Z
+    webUrl: "https://www.wesa.fm/post/council-introduces-bill-regulate-facial-recognition-technology-use"
+    type: article
+    provider:
+      name: WESA
+      domain: wesa.fm
+    quality: 39
+    images:
+      - url: "https://www.wesa.fm/sites/wesa/files/styles/medium/public/201804/city_council_building_-_jake_savitz__51_of_52_.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Councilman to introduce bill regulating facial recognition technology in Pittsburgh"
     excerpt: "A Pittsburgh councilman plans to introduce legislation Tuesday to regulate facial recognition technology in the city."
     publishedDateTime: 2020-08-25T09:41:00Z
@@ -97,6 +97,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ChO0t3e1lFOh5g68U/O/q0ak3YbOPH6qu1nDV/PU41peOmN+CE4zdJ9yTQcdwpchtQNQFxfBKO5J5mtqdJ0//vu++1IJ6sC7bH5XE11+fGbalqX6d87XarXcJxRmPmOQnznU9PISr9WzBvCICXPTcINpkdNMfSUw612o++IflIFcgMF8rltcSNhJ2QpdLwPIKaQcIRNvV+7F3UZ/TEB2ceuA12M2aqqq5exn7Op0fb34NVaYBycKKq7VyAndSM4xCKBbOlRSejRllzochckSzI4vC8jjgY7XxVoV232OpSrQm6M5WWcTkbntc9lqhPGKRYpG15T7PJzaQo4AZn0Ejxdg5O4cQfTdv4ibxVozXhE=;S/UC728IsKzfYkwm2ZHbhQ=="
+secured: "YeiMcV5MtubYWkNNs2b+B2HO8wtXpnLsUdBk54wS+kfXWGxRtTaWtsC2s8G9KbP5nc3RjyAxH+px8S83+DZLq/UBsTitlgIzR0KH2PULxTT4URWxlYuV0oDcLXxxTghoa2EFhGGMUvTD3hHTR4eY7217fa8PlM+l+ke3Qc4lDXRgR9y4fgQyFVmeyjCnPKm0gQainKZpa0zTNHuW53BxbRERYxVEtR2LuNRPcmFiZ+2ZN/4WkQoe+PLPr3dDjcfZa2pJZMb6pY4P/0m97aVgxsgXQ+lHJagsK+BDA+Qkmmy1BRlCZ90kWrpd2A/hDaMyX1ysVAPELfcDJR1/r1dljePtlehBVLQQ09lxjjV+Oi0=;vlvw3pP4yzMPtBYCSAcuMA=="
 ---
 

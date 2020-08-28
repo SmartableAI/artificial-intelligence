@@ -3,7 +3,8 @@ category: news
 title: "Autonomous vehicles market Trends to 2027 | Global Industry Growth will be Fueled by Rise in Defense Expenditure by Governments"
 excerpt: "Globally, automakers are aggressively focusing on autonomous vehicles to satisfy customer demand, to remain competitive"
 publishedDateTime: 2020-08-25T11:04:00Z
-webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-trends-to-2027-global-industry-growth-will-be-fueled-by-rise-in-defense-expenditure-by-governments-2020-08-25"
+originalUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-trends-to-2027-global-industry-growth-will-be-fueled-by-rise-in-defense-expenditure-by-governments-2020-08-25?mod=mw_quote_news&tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-trends-to-2027-global-industry-growth-will-be-fueled-by-rise-in-defense-expenditure-by-governments-2020-08-25?mod=mw_quote_news&tesla=y"
 type: article
 quality: 26
 heat: 26
@@ -27,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "K0tYQOCRw0QPaZ030xR/sY6zcGRnyZV38GkGPuTSgjD3G1glWSv0wmwPBpr8RWxFiaheN8kKhm3gJz7q7Dahnq52JsjG6Egwnz2bBWhR8URZqv3ZkVlnKAnPbVUpMRTje0dP9UZYN+Z0DIukt/U+oFiLOAmGLfd61YSH7rNfqVljf2tjXAe0QHRB3gztFV+ktUe5SKPvO858GJHgLIHhErKr5TMNe1vEYkECyXV9vZ8Ffi172wQoVOZbMhX2LvE2hw3LuhQ5h3c7WkK71UHqpxc+YMj2EO72hzGGWVH+y8Rd1NRY8wEZ2JpJ8Qwf+/EJwWuEL9wkBujLxTh+qOtFZw==;cmVxyPmI8r9dVCbpVMhPnQ=="
+secured: "MsYo4zBKTSEFFkYo9Ty6Q5eMMXgOZEm9Ei0+JqVC6smJ5coUip012URD2jDSpa5unAkRKbcI5DL33McsxW3qyA+sKcPqnAmn++A+Xjs2i0Y/S1Pa2XuGIj0VynXqutUUv+TGDcLdYi9E2vMi4qBmwz1nASOM2+TBQHIuRNcjG2ioq97Blke++cczb5QOnNWSJk+WgAGziagjlPQu5Gsb3on3A8fs/OOknuw83ob37fELoP75frUKc2a8n6sS3rZO9qnfPdbujfRXgkIB7z/mK4F3JrG5lEBZaYUIi9FuIRDlNbIWIS4Qqy12xf/J6xg/OA53Y0A5JUaHsKYu8x94ISS+Luk78zxEwinMA934dgo=;FpluYpwN+jH+aFPs8veleA=="
 ---
 
