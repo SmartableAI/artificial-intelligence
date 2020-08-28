@@ -9,7 +9,7 @@ ampWebUrl: "https://www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency
 cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency-program/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     height: 1237
     isCached: true
 
-related:
-  - title: "Apple launches residency program for AI/ML experts"
-    excerpt: "A one-year program is to see STEM graduates and industry professionals building new \"high-impact\" Machine Learning and AI-based products supported by Apple."
-    publishedDateTime: 2020-08-28T11:17:00Z
-    webUrl: "https://appleinsider.com/articles/20/08/28/apple-launches-residency-program-for-aiml-experts"
-    ampWebUrl: "https://appleinsider.com/articles/20/08/28/apple-launches-residency-program-for-aiml-experts/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/08/28/apple-launches-residency-program-for-aiml-experts/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/37387-70166-000-lead-Apple-residency-xl.jpg"
-        width: 870
-        height: 485
-        isCached: true
-
-secured: "BmFx6li/4h4bS/VOeSjJnXplqRDya8QKM+qPtfJnPXJanv0rs7OmlzoCVXeSUVZuqKOjzvB3Y61N5a7fZTST2MQ/2brFGNPDERSjPlpjkqcuVJ0T6giudds46vMeHIj1V6lbnwKp+ZncfyFKrL5xCM7O1OiVQIon2LvZFPU+wj6yeCuzPUDTijxT1yZabXRg3EL/Zy4Y0qWBnsxFY7Igmhfj/xo1Wwx0o0ZG5iV/Toy/LVL6EMXKkAezqlIVxeaeoqWUVDsr52bPZ0RqNUMkCwgUFye7UO7KlqL9SQDXQCyvlYG45i67X2UHPkm2MrGcASHWDZzEHKIYsISkv4o0WjPbaw6VZfEfIpnzEyHP4EY=;WWhOOVexLZimtipL3tXz6Q=="
+secured: "ceoVLiyqVycjsadUmRSZdhApjrGiZk51QkkFUSlSqDjywnUrEvyMRtFW2o+L6SqoTUax9fJ3SoEInCPCLbzWuLAf0vObSh5EDkcSpuq5YudBJKWoxMctjyDfq+fYMOkn3P001um2GDUiAqOFs3VOBsW9ibryLW+wY8oAdVGvE9zVECmRQieW27behmUQSZMquhX79tK/zVMe/AjuYdd0lwActzoHlWtCAvY79q+TWecdSJk9wkcz08fiFRqQD+nrKfRvoHF7vBBLYhluyWqj8nfxczRE/5c8HRLvmjF55m0zg/uED6hE4Pu8lC/3R3SS1f6YDYO7Hnw0EDjQuFmDnNhucJCLZo4TBlhRUlqkL3CaTlm3hdda56b+Zc1sk42/Xi08yfLxKmZ2mDfZIJ2qEw+YWY527gwpPBzDRDHl2b/i9g2VVJVp0FKUj/D+dp6MQ54dUI6VQHWOSnlNDHKzi3o/YoDsIHSjPcvwbFQrxUjco7LFOHb5KeKmMmHUVs1fkOHRhUQb0VfD5DqHXtgZqZsdW1QL8gsv98RD1k15tVc=;9Wln+BdvpA/RnVaisGhliQ=="
 ---
 

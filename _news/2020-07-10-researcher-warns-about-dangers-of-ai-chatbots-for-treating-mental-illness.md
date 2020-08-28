@@ -3,6 +3,7 @@ category: news
 title: "Researcher warns about dangers of AI chatbots for treating mental illness"
 excerpt: "According to a national government survey, about half of Americans suffer from a mental illness. Yet the majority of those with mental illness don't receive any therapeutic treatment. It’s for this reason that the COVID-19 pandemic has inspired a surge of companies to provide smartphone psychotherapy with artificial intelligence and big data analytics."
 publishedDateTime: 2020-07-10T08:44:00Z
+originalUrl: "https://www.utsa.edu/today/2020/07/story/chatbots-artificial-intelligence.html"
 webUrl: "https://www.utsa.edu/today/2020/07/story/chatbots-artificial-intelligence.html"
 type: article
 quality: 40

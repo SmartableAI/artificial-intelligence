@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-28T11:34:00Z
 originalUrl: "https://www.wealthprofessional.ca/investments/emerging-markets/top-ten-investment-trends-for-the-next-10-years/332779"
 webUrl: "https://www.wealthprofessional.ca/investments/emerging-markets/top-ten-investment-trends-for-the-next-10-years/332779"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0287_637341828356879660.jpg"
@@ -24,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "zpYghbqo78CvhjWf5jkdJ6in1OsEWZty/Qc+EfIoSAh18PG5AVBkXIV1L2/bBeSEu/W6sKXpB2AQTcAHUNzgqD3IoVbWTulCDMewBNSFv3isKRvuKn8FH4IKCHozB9mlJpUTuWw1DXQS+te9BCGDffbL29lEvmHocEQy75APyyREFRHUiaZpk+LY9IVJ99hiCFW/KoJ1mbGcg3sGhVMUunys1NFmtUZIjpYigG9AuQdwV/4eME3vPV8sTLk4sUMcHwrL14/I5/cbjoZH9YIntBV4SlpWKge2KmFw/2Byg+/YGR7lv6i9iRmPMquRNpREnXhjuItZiY5Yaq6+RvKICqdjQtk1aWZDfmG7sFxBCPY=;KibwDvaSj+lxpF/ccyVZzg=="
+secured: "j1RsgfssjgFp46g9Z+0mMm39Rv7All+FNEqUn27vZ5qhiyq8bJNxBIiCUmbHMGKoD86QJrmkfZoyOZ+QD3fyaNh4K0w8oRmhdzuTglwb9O8mwYPrhu0NlcgKYPNnI/rRx62lk5lWUJogdx3fxkfryQ6QrDu6nx+UJiQvIfkX8LOqBex50+T2xgJWxXCIBu+QDIjkY6nwmp8fiJE4txQNQGNtiQEoJaNkxxxjEfHH3oWMVNhnv0+hAyybT1gTdJ938IeLp89iTfjfQh+EnpAk2EMSAp442VK1oB5qVrrM2ijtFCuPiADnBK0cEq1ccLsVWmG8UBonvIwUnEzv7N4rzzIGcEc1Vn7UXoO6FoK/grmIvR93VA7zHtHCDEmXa8a54rLKJUEhw9P2Qwpm3oBmzJFf2M9LHq7NC3X5jpx1/8P+T0Ye4KglAcMLfRU6Fz1EU9hC+Uc/GEG1XJofQqGjRWf3/4TkMEfGtbsOLBC1Fz3tXEI7g2/WpgmhWZBts5A1IvIof9Xt4PMldbuWELwndB49FxFleSxjyFoSPXWkk2k=;r8gJPIl37XCIcO4q7KshTA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-marke
 webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030-2020-08-27"
 type: article
 quality: 67
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing (NLP) Market Size, Status and Growing Opportunity 2020 to 2027"
+    excerpt: "According to the study carried out by Acumen Research & Consulting, The Natural Language Processing (NLP) Market is projected to grow at noteworthy growing CAGR over the forecast period 2020 to 2027."
+    publishedDateTime: 2020-08-28T13:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-status-and-growing-opportunity-2020-to-2027-2020-08-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

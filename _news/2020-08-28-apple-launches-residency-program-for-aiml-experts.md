@@ -26,23 +26,23 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Announces New AI and Machine Learning Residency Program"
-    excerpt: "Apple's Machine Learning Reseach group has launched a new residency program inviting experts in various fields to apply their expertise to"
-    publishedDateTime: 2020-08-28T10:51:00Z
-    webUrl: "https://www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency-program/"
-    ampWebUrl: "https://www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency-program/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency-program/amp/"
+  - title: "Apple launches AI/ML residency program to attract niche experts"
+    excerpt: "The company behind Siri is looking for U.S. and European residents with programming and niche science backgrounds to immerse in the world of AI and ML."
+    publishedDateTime: 2020-08-28T13:57:00Z
+    webUrl: "https://venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-program-to-attract-niche-experts/"
+    ampWebUrl: "https://venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-program-to-attract-niche-experts/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-program-to-attract-niche-experts/amp/"
     type: article
     provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://images.macrumors.com/t/s5F1Hgsit73B2FLQ9skCyODczOs=/1600x/https://images.macrumors.com/article-new/2020/08/jobs-1000-2fea582e89736fb64dce4527cce9dbd4.jpg"
-        width: 1600
-        height: 1237
+      - url: "https://venturebeat.com/wp-content/uploads/2019/06/apple-siri.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
-secured: "8QjH9cO2wthlsX4cJ+rUFMK7a363KsCW51uEcYZuBP7x92JcsuUem6WaGWfn4ug/KlsQ3OovV1gaY3pQGNr4BU/7Cdghxo9G6Skfd4YjpgD0b1yQPGEzVrcjSJr644ZHdQUtXV5zsSKo/tkwPaJpFFS3AHDSyxDDhwgtbxOnNRbvQty8p4WckCF8C8dXlhoq8habLxfzWaVAdu0I8hgdKCokAf9QjgoQecSt3Becjn40RTCgmcnI26i4F+Vsr/IWWNE6TD1+H+0qOgyd+5bCVoXjGKmtMNshyMMn0+4S2o7wYm6ebckUOahgFbI7MJoDHWtG2SRMY4u8RHZZnaT6zVY+/R7i2IRAQ3he9Te3jHI=;gz1czZLravCf/XGOXHJpYA=="
+secured: "EZ4VvZCtUCiAJG7mJrKlZagGJzgcXM+6lbhuTswlhCF3wcAqGiAArrj42ahKUT/E4Xkk+N2MNzbymiU4ZufbZ3dtFaAH7TpgNC+L36XEcotTw9cdqVOaz9M8UW5248S0nlVrXwsXSBfd3MBzay1tisc8URvptHKWskfNE+hWOUsBg17f9Mhy0Rb2/9dBUCGAmFmIiXshj+nwipq73wfAv8AV4PoKXhlHtkuSVIn8YCSlznpLAnYw+aVwipp2Kow6jWnBqgmpIWG70kftobFtghzWUEW1tvkeRLgagrier3Cbgy7qy0vylywDNPAfxlUBgQXHqUY7GU3TFbWmOyQCQmLOc9GfK0dxqZYNEUeHdLI4dp3HoXbRNc/tXCszwxZSKjMGkLyeYwXLydFjUj3nAr9xz4c/8czO1Y7M0i6QKSxtxOGRfHIN9D5RuN17xut5+i2bP1wWeNIgmP5rxmoQS+XaqAjoPGgT7DGGqFMfqLTcym0HNkxmAbfHUYCI21wg10wfGE/gHgMXLGaAajOkwold3gF1UaDWpzjTVCtzW4Y=;OIxSkQiPALHtl0Wf4lLzSw=="
 ---
 
