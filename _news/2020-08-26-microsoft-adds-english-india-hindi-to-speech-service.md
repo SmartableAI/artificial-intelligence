@@ -67,6 +67,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Microsoft adds English (India), Hindi to speech service Neural TTS"
+    excerpt: "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set"
+    publishedDateTime: 2020-08-26T00:56:00Z
+    webUrl: "https://www.business-standard.com/article/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-12/07/full/1512590019-7173.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Microsoft’s Neural Text to Speech now supports English (India) and Hindi"
     excerpt: "Microsoft’s Neural TTS can be used to make interactions with chatbots and virtual assistants more natural and engaging"
     publishedDateTime: 2020-08-26T07:23:00Z

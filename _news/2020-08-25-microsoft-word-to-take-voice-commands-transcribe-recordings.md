@@ -117,6 +117,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft Adds Voice Features To Office 365"
+    excerpt: "Microsoft is adding transcription and dictation coice-command functionality to Office 365 for web, which it says will allow users to spend less time and energy on time-consuming work. Using the Azure Cognitive Services AI platform,"
+    publishedDateTime: 2020-08-28T03:42:00Z
+    webUrl: "https://www.smarthouse.com.au/microsoft-adds-voice-features-to-office-365/"
+    type: article
+    provider:
+      name: SmartHouse
+      domain: smarthouse.com.au
+    quality: 39
+    images:
+      - url: "https://www.smarthouse.com.au/wp-content/uploads/2020/08/CLO20_microsoftForStartups_Ghana_039-8-25-BANNER-1200x600-1.png"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Coxvvltzqye+Eg2WDu4R0qUR95LCjDYfNJhiZN5mIDFKlP5MfMwE4wOxEa/+G61otReY3B+Bwr3aU5Cq9fSx1xA2xXuMaEkcDQnQljegCzqCiibPPAguKcIhBrxsS1nMEWsZhHib9fJyZrhCDGeW9Duzfpmuj4c9aQh3SWjTnmopwHTlfQIZZ3NIoVX+ETKlBPl9M5CO8t2IsQ2Z2fOo/8wk6uEYuPU9dSxwTDYtpu39bpLPkm3+gxNTz8HDHs5uoW1C1lbVPNqIvuEVpdbig7uvpe7jWr84kG8WV+Qli4eNR2wgweOwRoT6OgZK9mF4IUEeV/HmtvtaggcnDoKn1GfEBcR5zI9kv4a6l2ck5eA+JdGMm71hToXdg4yVrJ8sr1Aj3F5HoQ2R0mRMbRQ8UFJyLf+1Iwpdymy7Ka88vL3IxRzVe20VD0tw1Yhf0JxEPTjbDt0uGD8TEHTp4WqrQ8f8oo/mt/sse5tAHfVX0tvk2zDe4e5u4iC8XkO3N31qeH1+TJBvdmDwrV+82QDmTw==;T2RhSH7Hs/K17mk3bqqQZQ=="
 ---

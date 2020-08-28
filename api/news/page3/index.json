@@ -2,56 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-08-25-immersive-reader-for-azure-cognitive-services-is-now-generally-available.md",
-      "title": "Immersive Reader for Azure Cognitive Services is now generally available",
-      "excerpt": "The Azure Cognitive Service which has been in preview since last year has finally become generally available, bringing additional features such as an updated SDK and new translator languages as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available",
-      "originalUrl": "https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available",
-      "featuredContent": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329609_azure-2_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/immersive-reader-for-azure-cognitive-services-is-now-generally-available/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/immersive-reader-for-azure-cognitive-services-is-now-generally-available/",
-      "publishedDateTime": "2020-08-25T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-25-more-facial-recognition-and-drones-wanted-for-the-us-canada-border.md",
       "title": "More Facial Recognition and Drones Wanted for the US-Canada Border",
       "excerpt": "Industry groups want advanced biometrics to secure the border between the two countries once it reopens after COVID-19.",
@@ -1042,7 +992,7 @@
       "webUrl": "https://www.neowin.net/news/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service",
       "originalUrl": "https://www.neowin.net/news/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service",
       "featuredContent": null,
-      "heat": 197,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -1180,6 +1130,56 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-5-life-saving-applications-of-artificial-intelligence.md",
+      "title": "5 Life-Saving Applications Of Artificial Intelligence",
+      "excerpt": "It’s one thing for a chatbot to help resolve an e-commerce order—it’s quite another to detect a heart attack in progress. Here are five ways AI is saving lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/serenitygibbons/2020/08/25/5-life-saving-applications-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/serenitygibbons/2020/08/25/5-life-saving-applications-of-artificial-intelligence/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43c2e03588e8c7ad96f810%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/serenitygibbons/2020/08/25/5-life-saving-applications-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2020/08/25/5-life-saving-applications-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-08-25T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

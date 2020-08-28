@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-13-microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-windows-10-app.md",
+      "title": "Microsoft will now let you choose a preferred GPU for every Windows 10 app",
+      "excerpt": "Right now, Windows 10 allows users to choose a GPU for performance-demanding workloads ... case could be using one card for time-consuming AI tasks (video enhancements, perhaps) and another ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/xqtsXikRmR2P9p7hgseakY-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
+      "publishedDateTime": "2020-08-13T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-blaize-ai-now-in-production-and-trials.md",
       "title": "Blaize AI: Now In Production And Trials",
       "excerpt": "What did Blaize announce? Blaize (formerly Thinci) previewed its Graph Streaming Processor (GSP) chip and Picasso software last fall when the company rebranded itself. The recent announcements disclosed availability (sampling now),",
@@ -1308,57 +1358,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly.md",
-      "title": "Facebook develops AI algorithm that learns to play poker on the fly",
-      "excerpt": "Combining reinforcement learning with search at AI model training and test time has led to a number of advances. Reinforcement learning is where agents learn to achieve goals by maximizing rewards, while search is the process of navigating from a start to a goal state.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/",
-      "publishedDateTime": "2020-07-28T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
       ]
     }
   ],

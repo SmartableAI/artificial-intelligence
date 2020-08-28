@@ -1,40 +1,29 @@
 ---
 category: news
 title: "Fox Robotics Raises $9M For Self-driving Forklifts"
-excerpt: "PRNewswire/ -- Austin-based Fox Robotics is announcing the close of a $9 million Series A led by Menlo Ventures,"
-publishedDateTime: 2020-08-27T13:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
-webUrl: "https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
+excerpt: "PRNewswire/ -- Austin-based Fox Robotics is announcing the close of a $9 million Series A led by Menlo Ventures, one of the most respected venture"
+publishedDateTime: 2020-08-27T12:38:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/fox-robotics-raises-9m-for-self-driving-forklifts-301119515.html"
+webUrl: "https://www.prnewswire.com/news-releases/fox-robotics-raises-9m-for-self-driving-forklifts-301119515.html"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Hefei emerges as testing ground for self-driving fleets"
-    excerpt: "Volkswagen (OTCPK:VWAGY) says it will roll out its first fleet of self-driving test cars in the eastern Chinese city of Hefei.The German automaker plans to set ten Audi e-trons loose in the city that is has 50 miles of intelligent car-friendly infrastructure and is an emerging EV tech hotspot."
-    publishedDateTime: 2020-08-26T13:58:00Z
-    webUrl: "https://seekingalpha.com/news/3608980-hefei-emerges-testing-ground-for-self-driving-fleets"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
+images:
+  - url: "https://mma.prnewswire.com/media/1244401/team.jpg?p=facebook"
+    width: 1676
+    height: 879
+    isCached: true
 
-secured: "Eby28cbG8Ewq/BGGAfNDHM5uwikxYHjqF/5B+8iM+5LztDtOOB+rhmukkr8KSnuUl0K5CCWnF/cEpic9rLW1Y1zX9an4vhlGcXN/w+kDzVrXfVWtrBjaSegO9+eEG9yS0FfKTlcR3drigSs9eQ8Vxr2wRL6N+9y3EyU1fTq3Krsp5RnDRUnNzoDDt/AFCVgnegFvngYqV9KWKfc5rFrBh6K27K7ULRxC5DobMy2+OaTROSLgcoyHCJfaVNOiabmDYl0aimPjFJpqGkDXlxoQLP8E9ecvCGTFCrROLrfIN4NeStmoCts9ol33IAEF4C0OyjizltwtwrojKBVsy9DzMGRihrmt1pVnBKfmW1/iTzY=;53Pw0VSU6zivgBUKfkMkYw=="
+secured: "4HTo/dhx2avCEHjvjGbh25aVvec2/2uyL6YbVndsogXWXvdKc9ifpjVt2+/y9DOcc9YGHV/UdjspKi7xwG9ilRZme9XXXKKXwcL4j6mnVqM3EQeZQEXodb9225qqlXbr1oKx2UzwfEifVOnLCMdXR1BhUKOto9wYxMBiAwItbxOsiBuQs/h1C6f70bzVpZ8uffhqRK6HdsHyMtaTu8U0Z3bj+NalVNn2AEA63pHQxC8yjxn7g7+H0/jnu5tFp6PL9rJbb+qIZnsiQELDc8jit0tmhxgHVgLMk9eTeiQYOnyAWm5jn9Hv6RTUdftFY9+g1kgPNEkRFY8hnUO4sS/PDIoHZLkdGPgBG2349qWV8z0=;cHPRc3T4CGemtxBudpBiQQ=="
 ---
 

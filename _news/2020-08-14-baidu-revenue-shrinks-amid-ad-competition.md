@@ -3,6 +3,7 @@ category: news
 title: "Baidu revenue shrinks amid ad competition"
 excerpt: "Baidu Inc’s (百度) quarterly revenue shrank 1 percent and its projections suggest sales could slide again, as rivals, such as ByteDance Ltd, continue to chip away at its core advertising business. China’s leading search engine forecast sales of 26."
 publishedDateTime: 2020-08-14T16:21:00Z
+originalUrl: "https://www.taipeitimes.com/News/biz/archives/2020/08/15/2003741691"
 webUrl: "https://www.taipeitimes.com/News/biz/archives/2020/08/15/2003741691"
 type: article
 quality: 39

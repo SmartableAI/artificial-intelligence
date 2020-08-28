@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.scmp.com/abacus/tech/article/3099065/ancient-chinese-terracotta-warrior-brought-life-coder-using-artificial</loc>
+    <lastmod>2020-08-27T20:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/marcochiappetta/2020/08/27/latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features/</loc>
     <lastmod>2020-08-27T16:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -19,7 +25,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/nz/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network</loc>
+    <loc>https://www.techradar.com/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network</loc>
     <lastmod>2020-08-27T15:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -61,14 +67,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.pcmag.com/news/amazon-launches-an-ai-powered-health-and-wellness-band-called-halo</loc>
-    <lastmod>2020-08-27T07:41:00-07:00</lastmod>
+    <loc>https://www.businessinsider.com/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-8</loc>
+    <lastmod>2020-08-27T09:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27</loc>
-    <lastmod>2020-08-27T07:31:00-07:00</lastmod>
+    <loc>https://www.pcmag.com/news/amazon-launches-an-ai-powered-health-and-wellness-band-called-halo</loc>
+    <lastmod>2020-08-27T07:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -87,12 +93,6 @@
   <url>
     <loc>https://mobile.twitter.com/elonmusk/status/1298494373278220290</loc>
     <lastmod>2020-08-27T06:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921</loc>
-    <lastmod>2020-08-27T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -249,12 +249,6 @@
   <url>
     <loc>https://www.bloomberg.com/news/articles/2020-08-26/china-still-buying-300-billion-of-chips-from-u-s-elsewhere</loc>
     <lastmod>2020-08-26T01:37:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
-    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -693,6 +687,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21?mod=mw_quote_news&amp;tesla=y</loc>
     <lastmod>2020-08-21T18:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.allaboutcircuits.com/news/edge-ai-chips-voice-activated-devices-save-power-protect-privacy/</loc>
+    <lastmod>2020-08-21T18:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1519,12 +1519,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
-    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1557,6 +1551,12 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
+    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

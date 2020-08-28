@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Microsoft Word: How the new transcription feature works and how it compares to other services"
-excerpt: "Word can now turn a conversation or meeting into text ready to use in a document, but that might not come to desktop Word for a while."
-publishedDateTime: 2020-08-26T11:52:00Z
-originalUrl: "https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/"
-webUrl: "https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/"
+title: "Microsoft Adds Voice Features To Office 365"
+excerpt: "Microsoft is adding transcription and dictation coice-command functionality to Office 365 for web, which it says will allow users to spend less time and energy on time-consuming work. Using the Azure Cognitive Services AI platform,"
+publishedDateTime: 2020-08-28T03:42:00Z
+originalUrl: "https://www.smarthouse.com.au/microsoft-adds-voice-features-to-office-365/"
+webUrl: "https://www.smarthouse.com.au/microsoft-adds-voice-features-to-office-365/"
 type: article
-quality: 78
-heat: 148
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: TechRepublic
-  domain: techrepublic.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SmartHouse
+  domain: smarthouse.com.au
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://tr3.cbsistatic.com/hub/i/r/2020/08/26/6edd296a-482a-40b9-837f-6715b2869887/resize/400x/5cfb2e68f8e346a2d980b56f4a756443/word-transcribe-desktop.jpg"
-    width: 400
-    height: 521
+  - url: "https://www.smarthouse.com.au/wp-content/uploads/2020/08/CLO20_microsoftForStartups_Ghana_039-8-25-BANNER-1200x600-1.png"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
+  - title: "Microsoft Word: How the new transcription feature works and how it compares to other services"
+    excerpt: "Word can now turn a conversation or meeting into text ready to use in a document, but that might not come to desktop Word for a while."
+    publishedDateTime: 2020-08-26T11:52:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 78
+    images:
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2020/08/26/6edd296a-482a-40b9-837f-6715b2869887/resize/400x/5cfb2e68f8e346a2d980b56f4a756443/word-transcribe-desktop.jpg"
+        width: 400
+        height: 521
+        isCached: true
   - title: "Microsoft Word for the web now lets Office 365 users record and upload audio for transcription"
     excerpt: "If your job requires extensive work with documents or routinely organizing meeting notes, transcribing can be an invaluable tool to save time or catch that important detail that inadvertently got overlooked the first time."
     publishedDateTime: 2020-08-26T13:27:00Z
@@ -121,21 +131,7 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft Adds Voice Features To Office 365"
-    excerpt: "Microsoft is adding transcription and dictation coice-command functionality to Office 365 for web, which it says will allow users to spend less time and energy on time-consuming work. Using the Azure Cognitive Services AI platform,"
-    publishedDateTime: 2020-08-28T03:42:00Z
-    webUrl: "https://www.smarthouse.com.au/microsoft-adds-voice-features-to-office-365/"
-    type: article
-    provider:
-      name: SmartHouse
-      domain: smarthouse.com.au
-    quality: 39
-    images:
-      - url: "https://www.smarthouse.com.au/wp-content/uploads/2020/08/CLO20_microsoftForStartups_Ghana_039-8-25-BANNER-1200x600-1.png"
-        width: 1200
-        height: 600
-        isCached: true
 
-secured: "N0TYTM4cMidjrmILopxEfuJDue4ERAH6ePTulNCLwdiEu9mDdbFaiiTBhV7TKIFTtyLxiAA4BL3/5hEVTIJ8vcm69FQtINOwUBKLdW57kL88zu0MeNzYCTyv2YWy0OCl42+7hOsXQx/e369Bx+blrQiN/hmip+b0yIMYAItpjiN4TMg5ohAAONnyrIhoCuKVWOPZmfuNxfoowe3ivZlUOqjI2KxUyJc1HBvWnKRA7qqbA53Vi3WQ6e6t/HF8k5nPCG0CDMiUdLS3NEEa70W8IXVjk9Br9SHQL1IZUPh9QeiMrsih3YVHjyswV2SkXFH1oa4bXBi1AAfs1jC/LIS0w5NgvAnyuG4xmuphEMRe54zrBtRNbPX2eyXCcE583AVMH0CLrcLbCsYqNCzwLmWDfeNMC4kJVDuCoTPaoKONAG6FjXvC6d3lk2CtHHxdTfy/O7YscKi77C4s+sHLDOhbHuoD85k6tVMOsXLEScJAcPVV0nBMfq7209ML6aENhi4JAEM0YNcl5JSIfqd/9TfhdWqdW4UgZ6vLoOLidg2SmUM=;rcBButKJ39ZXrhSaiI+BpA=="
+secured: "qRL7RRCaCdYPMqS1m+4QxJ/WH3JReH/cv8OoKVkTokyyzg8C4/BO0IkWLzy8WrO3Te2JxOcoDF5EXOEfgwqRJLOHuOM5lLFbImnsDhnrHD9gnUdZ+aqfTDRo22PiXC/qje10UGn+PAt2im2TRMqxIlv/wtEX2B4lULeWlyz4Z+zKX+NIXEuHvnVo2YJDoC9mfHaai1H/hTKCmXmixQgF5XOHH6FhdOp4+DW1iRomZaVZ0vA09o0g1muw8dVJwcnRzRMAnQSOMw/IqA5JcvLs9I6xAKXudKkRbOq0BHcWv7gVnw1NYUyqX3u5HsVJ6JA76CZZcGqoHdnggERdteoTAC5l4/6uM0HE/IqdbYnyap0=;q/Dw8WxAaov2OrTckjJfsw=="
 ---
 

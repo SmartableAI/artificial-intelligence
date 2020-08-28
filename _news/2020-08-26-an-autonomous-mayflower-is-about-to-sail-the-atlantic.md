@@ -9,7 +9,7 @@ ampWebUrl: "https://bgr.com/2020/08/25/mayflower-autonomous-ship-project-ibm/amp
 cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/08/25/mayflower-autonomous-ship-project-ibm/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1750
     height: 1118
     isCached: true
-
-related:
-  - title: "Meet the 'Mayflower:' Sailing Into a New World, All Over Again"
-    excerpt: "Our autonomous ship will attempt to cross the Atlantic from Plymouth to Plymouth. Here's how — and what we hope the Navy can learn from her."
-    publishedDateTime: 2020-08-23T10:13:00Z
-    webUrl: "https://www.defenseone.com/ideas/2020/08/meet-mayflower-sailing-new-world-all-over-again/167905/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 39
-    images:
-      - url: "https://cdn.defenseone.com/media/img/upload/2020/08/21/Mayflower2/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "sP1eFW+qwQDF98LH9biIcDBfcNn5V0gHTdqnWslmt6RHVLY8g5WERO47N8OhjeijjXHS89SUoegCiedg90F1mkV5CjJd9frANTLN5Ek8HE2sDyjn0yrtdIh9axdkLOSb7nsKSOLSKflsqfmt/Y4xvpKZGm14+SthO4uTUhj7xik608ySJb+t9aBSIa1P0PjOG1h4e53GDxahleYUpXY2uuEzhj0Inl6lK3ZYLvZY59W5f874TAfTyoo0isovIIeQOOZEeoijxbyCsTduE/RdxML7hkMA8r0LUw3UI9rcvV3OPTrp/2Vgvq1Ag7xChBxFjAVQr3onY/0mi1vOPCdt90RP4W/XrWnK+FyAI2bqlt/aaruywqrYHmfI4MX0HYBGzVJLX02R/6pCv2wl5VDRxeVRhbTycd9lMY7YvxuCBBXHYSVsWV+XYcQKSt6pAXT4atJ7RbcHnoI1AMJ6tWYZMzL17gifoYLLMUk3a6yNLjTQ9cjwbmn66XLbuvZMF4Wu+zXL3I3WHYOg+HrP43jg2DCW1jNlG/hpJVidf0V1zi8=;7WyT+NeiyRcfKzo4FQiw+w=="
 ---

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "This tiny AI chip obliterates Google rival in a crucial metric"
-excerpt: "Kneron, a startup from California, has introduced its new neural processing unit (NPU) for edge AI applications. The KL720 NPU promises to enable sophisticated AI-enhanced applications that do not use the cloud,"
+excerpt: "The KL720 NPU promises to enable sophisticated AI-enhanced applications that do not use the cloud, so the chip has more compute horsepower onboard than competitors and consumes less power. Today, there are numerous cloud-enabled AI platforms,"
 publishedDateTime: 2020-08-27T22:00:00Z
-originalUrl: "https://www.techradar.com/nz/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network"
-webUrl: "https://www.techradar.com/nz/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network"
+originalUrl: "https://www.techradar.com/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network"
+webUrl: "https://www.techradar.com/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network"
+ampWebUrl: "https://www.techradar.com/amp/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network"
 type: article
 quality: 104
 heat: 104
@@ -30,6 +30,6 @@ images:
     height: 575
     isCached: true
 
-secured: "WBnLHTIxZaaia8M4S2PxOdshpNUn+Nld1ac36UgnNaeL4G+CWjV9NKCHthg34GTdX0wqQN+x8aXhAikmbk0uQVJhjE/TckBJlrsIfYlBO/yt93CRmbw093QxNDtbF5bRmW1a2f8VY6l8scgHMQ8PHZF9CP3hF7iylPE4QDYNkFy/MTisfaVxhvAmd9cDYDqHUPbx6NQyrrP1DgTfQBwBoI6wtC7Vj4RPqQ84kSaawRR2sOh+zgY0sgdpAEh1+sLegar7Qt5aKwP4zHQLVvQFYl7FSbaJObaJxziu+2SNBLXZ+VEPI5m7ju/L8GvlBW8Mwkae4u+bnuem8ritvekg2j4Tk+ajJibPvAzQOa5w3Uo=;742i5y3rX4pmI1661cZ6Ew=="
+secured: "pWkCRTvMsD10T81M8GrYCuOEni/8adDVewbE6L+2T3iQ+FUd8nhwvU4Q6sjOXdmxMSUqC8Evh9j0H4GVh+d4IbPWUpIsN1zmMhaLI/Gb8uq7fvsH2niSR6s/NVTggnmW2LxheOtKtA+U+WJd116JUy/Q0NkNTecidxIwVslD7DHSoaYykMVIDDciAMXtgYyzyB7a6V7EvsVJgFcy1bRGjaap0cNPU3RHfiZeWE924bwxQRkPevP0iN3OZa1v1eyCWh/DVcirJWY2eOKv1ys9vtCiY7vAxCl9mgY6XL06HLerpkp9nfh9+Ia8J9PaukmS6KpbNYjgUOpwD7gS9XrlzLwC+iuYv1mA/+iJ/4v96nA=;4hungi8DW4LZEYub06EwMA=="
 ---
 
