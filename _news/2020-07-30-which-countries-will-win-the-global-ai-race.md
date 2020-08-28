@@ -3,6 +3,7 @@ category: news
 title: "Which Countries Will Win the Global AI Race?"
 excerpt: "\"It's not that China is trying to get into the AI space; they are in the AI space and they are probably a bigger player in artificial intelligence than most [of our] leaders in the national ..."
 publishedDateTime: 2020-07-30T00:00:00Z
+originalUrl: "https://www.usnews.com/news/best-countries/articles/2018-05-23/the-potential-winners-of-the-global-artificial-intelligence-race"
 webUrl: "https://www.usnews.com/news/best-countries/articles/2018-05-23/the-potential-winners-of-the-global-artificial-intelligence-race"
 ampWebUrl: "https://www.usnews.com/news/best-countries/articles/2018-05-23/the-potential-winners-of-the-global-artificial-intelligence-race?context=amp"
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-countries/articles/2018-05-23/the-potential-winners-of-the-global-artificial-intelligence-race?context=amp"

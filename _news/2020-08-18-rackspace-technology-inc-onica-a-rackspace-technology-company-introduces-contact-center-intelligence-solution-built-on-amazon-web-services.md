@@ -3,6 +3,7 @@ category: news
 title: "Rackspace Technology, Inc.: Onica, a Rackspace Technology Company, Introduces Contact Center Intelligence Solution Built on Amazon Web Services"
 excerpt: "By leveraging machine learning and artificial intelligence in the contact center ... As a Premier Consulting Partner in the Amazon Web Services (AWS) Partner Network (APN) and audited AWS Managed Services Provider, we help our customers solve the most ..."
 publishedDateTime: 2020-08-18T20:43:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2020-08/50480009-rackspace-technology-inc-onica-a-rackspace-technology-company-introduces-contact-center-intelligence-solution-built-on-amazon-web-services-399.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2020-08/50480009-rackspace-technology-inc-onica-a-rackspace-technology-company-introduces-contact-center-intelligence-solution-built-on-amazon-web-services-399.htm"
 type: article
 quality: 0

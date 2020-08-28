@@ -3,6 +3,7 @@ category: news
 title: "Hope Turns into Reality with Robotic Prosthetics, Exoskeletons"
 excerpt: "starting with a LEGO-inspired robotic hand, and that’s led him to design mind-controlled prosthetics that are affordable for all. Momo is patient zero for Unlimited Tomorrow. She is the first ..."
 publishedDateTime: 2020-07-20T00:00:00Z
+originalUrl: "https://www.machinedesign.com/mechanical-motion-systems/article/21836407/hope-turns-into-reality-with-robotic-prosthetics-exoskeletons"
 webUrl: "https://www.machinedesign.com/mechanical-motion-systems/article/21836407/hope-turns-into-reality-with-robotic-prosthetics-exoskeletons"
 type: article
 

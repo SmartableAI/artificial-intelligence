@@ -1,32 +1,23 @@
 ---
 category: news
 title: "COVID 19 Update: Global Healthcare Artificial Intelligence Market Stocks Gain, Rises Immensely"
-excerpt: "Healthcare Artificial Intelligence Market” Healthcare Artificial Intelligence (AI) Market Research Report: Information by Component (Hardware, Software,"
-publishedDateTime: 2020-08-26T00:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely"
-webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17242858"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17242858"
+excerpt: "The global healthcare artificial intelligence market 2020 is scoring in small-leaps. Its shares have surged, which is a sign that the market’s size is widening after months of leadership by big technology companies after less impact of Coronavirus."
+publishedDateTime: 2020-08-26T00:27:00Z
+originalUrl: "https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25"
+webUrl: "https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25"
 type: article
-quality: 79
-heat: 79
-published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
-  - AI in Robotics
 
-images:
-  - url: "https://www.abnewswire.com/uploads/1598357109.jpeg"
-    width: 417
-    height: 455
-    isCached: true
-
-secured: "1DYGMoJw1hyYbUzrYKGXH/kSSh0NnuxfnoxV3isNuelSbyBnVGd6tTpDNc1WHaoiUZCfhqdeMywaLJOk6TkS2zYnjG8yVpUpP8BZhMHoMIOycPJaRzN6VE19TtR+A1EAg5x9qVou2on5GBsq/joEmisY1+N83Fq2ooLb8480YSjYaTVvalTG/JWlZIyoYjKp/M72fJuQBsrlbP+PduYjqtjj4vYCMUwScM3lcgHdSuPNRZTK95spQ9zfNhDwTmxgG4Jn5ODuOxX16zy2A9wetj6edvEuj/XU0dQSdoiUODR9hlqVMcTWWBeZy+P7zMAAXAo/Z2PdwYswYRSuVZHcTZrmAJhrEk4GUwnjuPejPqc=;O6Gn5QKmiXm/PHBZ7pVPeQ=="
+secured: "v+B4b91FVIMOmIkc5qAyjiYf0fPSibyJ8I5mlwLWMofHrL05Dk961c3ieAlBS/2deM+ErEic2TKiQ+BrqBHZAXMS/afH6hFgAfKzxkvSwoggRAIMJCVxKXaX1WObRGDhQrsEnr2HzKCzxP+5XfCsDX9CO0i9cT/bOhAk5HgtCg51oLx+jp1E+Z+dc/0CkPSQ4u6nj6ybNGNRdyj/8T97WFZ4ZjepUCkvONN6K1CyeijTcRPV/8AZqEXbV3bnol3d/4dLgj9p6HcwCNsrbH/SmM+oIkH5yFZA/kife8GJLkufat09lGYWq8hprHJDDzp2rpmYQtqSl3bw2N9R75mfLLCyb4CRKiBphWkjYRKK8zE=;bTlVQOC3TNfmbUGR4IiRtQ=="
 ---
 

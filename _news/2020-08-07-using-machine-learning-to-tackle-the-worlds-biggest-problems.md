@@ -3,6 +3,7 @@ category: news
 title: "Using machine learning to tackle the world’s biggest problems"
 excerpt: "Machine learning has graduated from the realm of science fiction to become a core, transformative technology for organizations across industries and categories. The unique potential and power of machine learning is sparking genuine innovation,"
 publishedDateTime: 2020-08-07T19:03:00Z
+originalUrl: "https://venturebeat.com/using-machine-learning-to-tackle-the-worlds-biggest-problems/"
 webUrl: "https://venturebeat.com/using-machine-learning-to-tackle-the-worlds-biggest-problems/"
 type: article
 quality: 73

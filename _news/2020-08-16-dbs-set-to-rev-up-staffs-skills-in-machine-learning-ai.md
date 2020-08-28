@@ -3,6 +3,7 @@ category: news
 title: "DBS set to rev up staff’s skills in machine learning, AI"
 excerpt: "In a bid to ingrain digital learning behaviour at the workplace, DBS Bank is teaming up with Amazon Web Services (AWS) to equip about 3,000 employees with basic skills in artificial intelligence (AI) and machine learning by the end of this year."
 publishedDateTime: 2020-08-16T22:00:00Z
+originalUrl: "https://www.straitstimes.com/business/dbs-set-to-rev-up-staffs-skills-in-machine-learning-ai"
 webUrl: "https://www.straitstimes.com/business/dbs-set-to-rev-up-staffs-skills-in-machine-learning-ai"
 type: article
 quality: 56

@@ -9,13 +9,13 @@ website: https://mariyayao.com/
 twitter:
   username: thinkmariya
   url: https://twitter.com/thinkmariya
-  followers: 28465
+  followers: 28466
 
 topics:
   - AI
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1246157692613230592/vZdR1BUd_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1299418419830300672/tjPuomYA_400x400.png
     width: 400
     height: 400
     isCached: true
