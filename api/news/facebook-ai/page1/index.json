@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-28-ai-weekly-facebooks-discriminatory-ad-targeting-illustrates-the-dangers-of-biased-algorithms.md",
+      "title": "AI Weekly: Facebook’s discriminatory ad targeting illustrates the dangers of biased algorithms",
+      "excerpt": "Flawed Facebook ad-targeting algorithms are only the latest example of AI and machine learning algorithms gone terribly awry.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/28/ai-weekly-facebooks-discriminatory-ad-targeting-illustrates-the-dangers-of-biased-algorithms/",
+      "originalUrl": "https://venturebeat.com/2020/08/28/ai-weekly-facebooks-discriminatory-ad-targeting-illustrates-the-dangers-of-biased-algorithms/",
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/28/ai-weekly-facebooks-discriminatory-ad-targeting-illustrates-the-dangers-of-biased-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/ai-weekly-facebooks-discriminatory-ad-targeting-illustrates-the-dangers-of-biased-algorithms/amp/",
+      "publishedDateTime": "2020-08-28T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-facebook-ai-researchers-build-robot-that-can-help-find-your-lost-phone.md",
       "title": "Facebook AI researchers build robot that can help find your lost phone",
       "excerpt": "A new breakthrough from Facebook's AI research team could seriously improve our daily lives. Share. Contact. Read full article: Facebook is building home robots to help you find y",
@@ -1389,56 +1439,6 @@
       "ampWebUrl": "https://venturebeat.com/2020/08/03/new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/03/new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits/amp/",
       "publishedDateTime": "2020-08-03T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry.md",
-      "title": "AI Weekly: Big Tech’s antitrust reckoning is a cautionary tale for the AI industry",
-      "excerpt": "Being smart and ruthless was the way of old big tech, but the growing field of AI requires people to be smart, wise, and empathetic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/apple-amazon-facebook-google-1.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/amp/",
-      "publishedDateTime": "2020-07-31T15:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

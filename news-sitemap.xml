@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/</loc>
+    <lastmod>2020-08-28T14:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html</loc>
+    <lastmod>2020-08-28T14:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/7-data-science-certifications-to-boost-your-resume-and-salary/</loc>
+    <lastmod>2020-08-28T13:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/28/ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios/</loc>
+    <lastmod>2020-08-28T13:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/28/ai-weekly-facebooks-discriminatory-ad-targeting-illustrates-the-dangers-of-biased-algorithms/</loc>
+    <lastmod>2020-08-28T12:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/announcing-the-express-testing-capability-in-amazon-lex/</loc>
+    <lastmod>2020-08-28T12:08:03-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/</loc>
     <lastmod>2020-08-28T09:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -61,12 +97,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture</loc>
-    <lastmod>2020-08-28T05:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/</loc>
     <lastmod>2020-08-28T04:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -111,12 +141,6 @@
   <url>
     <loc>https://www.forbes.com/sites/marcochiappetta/2020/08/27/latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features/</loc>
     <lastmod>2020-08-27T16:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wkyc.com/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d</loc>
-    <lastmod>2020-08-27T16:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -271,6 +295,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/news/20/08/17251073/warehouse-picking-robot-startup-xyz-raises-17-million</loc>
+    <lastmod>2020-08-26T08:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/</loc>
     <lastmod>2020-08-26T08:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -363,12 +393,6 @@
   <url>
     <loc>https://www.bloomberg.com/news/articles/2020-08-26/china-still-buying-300-billion-of-chips-from-u-s-elsewhere</loc>
     <lastmod>2020-08-26T01:37:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely</loc>
-    <lastmod>2020-08-25T17:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -841,6 +865,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/news-releases/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-301116528.html</loc>
+    <lastmod>2020-08-21T14:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techradar.com/uk/news/heres-the-smallest-aiml-supercomputer-ever</loc>
     <lastmod>2020-08-21T14:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1093,14 +1123,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539</loc>
-    <lastmod>2020-08-20T08:44:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/</loc>
+    <lastmod>2020-08-20T08:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/</loc>
-    <lastmod>2020-08-20T08:29:00-07:00</lastmod>
+    <loc>https://apnews.com/23c39c6175e11f35b0cb61b0b2eded76</loc>
+    <lastmod>2020-08-20T08:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1225,7 +1255,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners</loc>
+    <loc>https://www.techradar.com/in/news/aws-reveals-first-quantum-computing-partners</loc>
     <lastmod>2020-08-20T01:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1465,7 +1495,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.gizmodo.com.au/?p=1256892</loc>
+    <loc>https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/</loc>
     <lastmod>2020-08-19T02:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2089,7 +2119,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/n17086830/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability</loc>
+    <loc>https://www.prnewswire.com/news-releases/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-301112589.html</loc>
     <lastmod>2020-08-14T10:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

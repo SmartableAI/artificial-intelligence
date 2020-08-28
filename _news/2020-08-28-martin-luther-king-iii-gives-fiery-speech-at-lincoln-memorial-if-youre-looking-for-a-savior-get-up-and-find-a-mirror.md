@@ -6,6 +6,9 @@ publishedDateTime: 2020-08-28T18:39:00Z
 originalUrl: "https://www.mediaite.com/news/martin-luther-king-iii-gives-fiery-speech-at-lincoln-memorial-if-youre-looking-for-a-savior-get-up-and-find-a-mirror/"
 webUrl: "https://www.mediaite.com/news/martin-luther-king-iii-gives-fiery-speech-at-lincoln-memorial-if-youre-looking-for-a-savior-get-up-and-find-a-mirror/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Mediaite

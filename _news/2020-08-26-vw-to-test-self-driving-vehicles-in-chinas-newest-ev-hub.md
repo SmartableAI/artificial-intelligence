@@ -57,6 +57,22 @@ related:
         width: 585
         height: 329
         isCached: true
+  - title: "Volkswagen to test self-driving vehicles in China"
+    excerpt: "Volkswagen AG said on Wednesday it will start testing autonomous vehicles in China's eastern city of Hefei, its first in the world's biggest car market."
+    publishedDateTime: 2020-08-26T17:50:00Z
+    webUrl: "https://www.thedailystar.net/toggle/news/volkswagen-test-self-driving-vehicles-china-1951317"
+    ampWebUrl: "https://www.thedailystar.net/toggle/news/volkswagen-test-self-driving-vehicles-china-1951317?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/volkswagen-test-self-driving-vehicles-china-1951317?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 44
+    images:
+      - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/julian-hochgesang-onocoyji-_y-unsplash.jpg?itok=YaEEsULp"
+        width: 560
+        height: 292
+        isCached: true
   - title: "Audi self-driving vehicles to be tested in China’s newest EV hub"
     excerpt: "Volkswagen Group plans to roll out its first fleet of self-driving test cars in Hefei, an eastern Chinese city that’s emerging as a hot spot for the nation’s electric vehicle ambitions. Ten Audi e-trons,"
     publishedDateTime: 2020-08-26T19:28:00Z

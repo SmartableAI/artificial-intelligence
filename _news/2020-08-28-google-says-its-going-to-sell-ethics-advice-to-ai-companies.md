@@ -6,6 +6,9 @@ publishedDateTime: 2020-08-28T18:04:00Z
 originalUrl: "https://thenextweb.com/neural/2020/08/28/google-says-its-going-to-sell-ethics-advice-to-ai-companies/"
 webUrl: "https://thenextweb.com/neural/2020/08/28/google-says-its-going-to-sell-ethics-advice-to-ai-companies/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: The Next Web

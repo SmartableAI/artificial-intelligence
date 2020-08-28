@@ -6,6 +6,9 @@ publishedDateTime: 2020-08-28T14:06:00Z
 originalUrl: "https://knowtechie.com/?p=127910"
 webUrl: "https://knowtechie.com/?p=127910"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: KnowTechie

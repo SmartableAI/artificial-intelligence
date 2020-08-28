@@ -33,6 +33,15 @@ related:
         width: 1676
         height: 879
         isCached: true
+  - title: "Austin self-driving forklift company raises $9 million"
+    excerpt: "Austin-based Fox Robotics, which makes self-driving forklifts, has raised $9 million in new funding to help ramp up production as the company looks to"
+    publishedDateTime: 2020-08-28T19:58:00Z
+    webUrl: "https://www.statesman.com/business/20200828/austin-self-driving-forklift-company-raises-9-million"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 19
 
 secured: "Z9MZgICJxcDvknj2Gs72yN/WKcbrvcqj02fYzAAARU0NIqAqYkHz/IOb1QQ7vl8HJzPFOvdsnHYSqDgUJzBuzOLq8p0I/VmTzbJA7eIr7+49xHewdm2Ju/MaUUzz+GzT/BbQk51NmLyxEM6eS1IRqvwdbD9xe8vwYQEwA2uiJTJB2Z+wn1kTLJeQhA1QRgW1ds623g35ZgP1tIUnE4g9CeA7gizWUxLVdSUu0isFJI10rliUW0r+B6muUCnlkYe6YhgpGE6KmOj6xBaQ5fkuhOBzNA2TIW61Kzgr7XyVVZ2JsIk0r6ktfhrjHdSEYQQlAY+lBsB1cbB248jZUC9lIh4h9kjMsNTlYuQ5YvhqzwY=;P6i+K+FJa/jBKUn4CWXRDg=="
 ---

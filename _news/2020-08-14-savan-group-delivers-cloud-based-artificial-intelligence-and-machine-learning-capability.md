@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Savan Group Delivers Cloud-Based Artificial Intelligence and Machine Learning Capability"
-excerpt: "Today, Savan Group, a leader in advanced data analytics and visualization, announced that it has partnered with Amazon Web Services"
+excerpt: "Savan Group, a leader in advanced data analytics and visualization, announced that it has partnered with Amazon Web Services (AWS)"
 publishedDateTime: 2020-08-14T17:39:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/08/n17086830/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability"
-webUrl: "https://www.benzinga.com/pressreleases/20/08/n17086830/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17086830"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17086830"
+originalUrl: "https://www.prnewswire.com/news-releases/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-301112589.html"
+webUrl: "https://www.prnewswire.com/news-releases/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-301112589.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "RSqNlsJ3um+VHvbbbmWMhXIc6iaHOnGvwljqlf8JfpjKbBd+2rUW4x70KY8ThCMIXehlokxTfr8Gq+OzvvEERUK4EG3Du7y6AME4nI8+f+cFA7ZYbMGqSJf+8wPnnqo+mpJQBtSzeZEjJeH6+247Uwm0Sx/BpQuTR47NNhYBQcpMAM/G481L2mA+ZhOLviPxZDhahbycSJ884fZ29u7++yjC2jew9WslwOApFaYI7CSQDrTNCZi/G//Ujbo2+qDqeibfQk4AoWHU50evuUR20F1Kq6rWNgosEqqEvRGX+gVx1ympkM/zmd6niNJDgc+5vTNsluCkN3tMFaBnPEvn44h+Dkr4JZ8oBHcV169SsiZOqDpxQ0kZapduc1TVRedRJEHguPlfqqsLy7Lt1Vw59jnhTFJwdMppAP0QQkLQv97JUl17irql0xcgROV9d74OKsoNONvLUoltXh0xgvZM/3nRStJC5NEnkqA3BVHZ+Kon7O0MzTKHF67Fi/UC3o4RviT7bMrozHlvWI8nf5X/GA==;sNq1WkGPTsboEhgCOtioZg=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "BXu0m9GB+ZiK8m1bCESMC5KccNERRl6XAIsIwWcKX3G8TN0s0RA6BzuXKelNDIIciJgR4V9etPJBk0WSydXslC2gKXaamVjLl5ED8fgthDTA+9YX3cC5rVCFiNtgVnW/lY29xZn5JG61tYeIdb9lOvQHmFxrj4WoZjW6QqUgXPDrYt8z1eksc6FcPM8+DY1LwLNkXnrOO0trplPWbHixHidSadtMXZPX0znCiJM5RSeck7YhUJLfZUMFn5btdADs75YUrJjzxeksuKmU2zuOS+jaEhGEM1DoAgpnVyxvUWCg1rFXbCT4lrWT5lcIDbrzi9ELoLjUlRof9H1rfpaXTNY2CKFQzZy5C/zwxvT2Mwo=;/b9mr83pWKjHtUr1dqyHEg=="
 ---
 

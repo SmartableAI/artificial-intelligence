@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-c
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895/amp"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/04/22/11/elon-musk-neuralink-brain-machine.jpg"
         width: 1113
         height: 834
+        isCached: true
+  - title: "Elon Musk’s Neuralink is ready to demo its progress tonight"
+    excerpt: "If there is one man who believes in utilising the power of microchips and computers to make us think faster, it’s Elon Musk. The tech mogul started one of his more ambitious ventures, Neuralink, a few years ago with the intent purpose of inserting microchips into the brain in an effort to improve human intelligence,"
+    publishedDateTime: 2020-08-28T10:49:00Z
+    webUrl: "https://www.criticalhit.net/technology/elon-musks-neuralink-is-ready-to-demo-its-progress-tonight/"
+    type: article
+    provider:
+      name: criticalhit.net
+      domain: criticalhit.net
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/media.criticalhit.net//2020/08/Neuralink.jpg"
+        width: 800
+        height: 536
         isCached: true
 
 secured: "BEfvFXnnvabnptkzS3lf4KuK4HAkX6m5Ku43a06mgHNeams0WMrXi/4upgVcF6RVzmNEkB4z+rZTgXiA3qNhjH5tsyAIII9/B0L1T/GFl9AlZHjSeNqsnnRMbMiO7U4YYNCDzTv2cE8XgymGtvqNP56a57mUvDaHHpxYHwpB2XYF1saCmDF9mudMYnGapMTd2JB0MNpruZ0SGoYlfsoIJKT1lBF7gia5LfuY3DR28lW/eehTT/HV7EATQuff0h6iZDiDlz8Y9Vj7ccf07PbRIgz42iT8Tde9LkefZ/sKqD5Cs3hl4SE6RK50jabq4R5Ai0qlINJgaOjU/6zCfk4RuGbnI6/O6qtjT1q4jnDuNzJFTubj1YOdOiwJoGbn+h3tI+MsOe+m52HzRGzuVFnRKxw/hn0WJO2s02iAlXPija6I97qKOWoqnovouWSOi7010kjrSm0YH3DDnWcWzKX6d1cNzaqfOw8CLvE/oX0ZO1cF8oWUD310b94Qf03d311a49Sm+vzJafy2Xfn+RthCeg==;GFQQtfQC2/eRRdemNoMGjg=="

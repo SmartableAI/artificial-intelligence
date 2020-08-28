@@ -3,6 +3,7 @@ category: news
 title: "How China uses facial recognition to control human behavior"
 excerpt: "When facial recognition is everywhere, anything you do is fair game for public shaming and punishment. Facial recognition supporters in the US often argue that the surveillance technology is reserved for the greatest risks -- to help deal with violent crimes,"
 publishedDateTime: 2020-08-12T00:11:00Z
+originalUrl: "https://www.cnet.com/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/"
 webUrl: "https://www.cnet.com/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/"
 ampWebUrl: "https://www.cnet.com/google-amp/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/"

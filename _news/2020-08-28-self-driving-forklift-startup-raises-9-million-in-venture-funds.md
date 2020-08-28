@@ -6,6 +6,9 @@ publishedDateTime: 2020-08-28T18:35:00Z
 originalUrl: "https://www.dcvelocity.com/articles/46985-self-driving-forklift-startup-raises-9-million-in-venture-funds"
 webUrl: "https://www.dcvelocity.com/articles/46985-self-driving-forklift-startup-raises-9-million-in-venture-funds"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: DC Velocity
@@ -14,6 +17,35 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Warehouse Picking Robot Startup XYZ Raises $17 Million"
+    excerpt: "The 3D-AI Vision processor, XYZ's core technology ... in Amazon Robotics Challenges for three consecutive years. \"As a young and energetic startup, XYZ Robotics has an extraordinary technical vision and R&D capabilities,\" said Zhe Chen, vice president ..."
+    publishedDateTime: 2020-08-26T15:13:00Z
+    webUrl: "https://www.benzinga.com/news/20/08/17251073/warehouse-picking-robot-startup-xyz-raises-17-million"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17251073"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17251073"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2020/08/Screen-Shot-2020-08-26-at-14.42.06.png"
+        width: 1085
+        height: 723
+        isCached: true
+  - title: "Artificial intelligence startup Dataiku raises $100 million in Series D funding"
+    excerpt: "Data intelligence startup Dataiku said it's raised $100 million in a Series D round of funding. The New York City-based startup said the funding round was led by Stripes, with major investment by Tiger Global Management and participation from existing investors Battery Ventures,"
+    publishedDateTime: 2020-08-24T17:38:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2020/08/24/artificial-intelligence-startup-dataiku-raises-10.html"
+    ampWebUrl: "https://www.bizjournals.com/newyork/news/2020/08/24/artificial-intelligence-startup-dataiku-raises-10.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/newyork/news/2020/08/24/artificial-intelligence-startup-dataiku-raises-10.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 48
 
 secured: "9MPYKjFR84zvHiLt7tw4Q7lAyB6MEv2cFyehPgZeDQnBUskeM/mo9EZfcrpa/O9zo1kUGSvq7/DB9NHm7ApdrJdtoFUeqhZcWcK49jl+OCsoVkj0Lw+3hqLFvyzUhxYAsUQ0j6VDG+wyMz+KPwYHo7NNP/c//3gwWSNo8iRxUJ3+T8lnZSkfyporVFynCF49AczU0rF2IQGpemP6WyMWzuX3DB5Yr2YWJplcgq/E87auWSfiF7UfadUc4U2r8HofocH8n6YuWpubRqXDifW2UxQExoIavQNcEFBQClurzQS8X96/nNaphFxOZ1R4s/NDhl8rFiXQ6DY37/ANqiKCV6cshogV8NXwSIRF65Bm1o6CGoIFRMh/RcBrcUcj1dbGBkFUgpPLx0b23I9J6YQcnY5u/XuEH7O3EnISK+LKVa4soILT/TLOLfPoPicgHScHyDM54xq7cQq/WdwoUbu7nU7vua0ypoekZTslN3uQNZB/jNnpphVY1N/cSoU16YMtpmZM2DGB5HaNaxbTrZ1bGV8Aet9kEU79aExgtq3FNHs=;AISwOmM12i+YWY6H2SZy6Q=="
 ---

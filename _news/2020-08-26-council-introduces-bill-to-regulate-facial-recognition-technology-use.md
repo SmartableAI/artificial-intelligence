@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Atlanta Airport to Test Facial Recognition, Contactless Tech"
+    excerpt: "In an effort to reduce the points of contact between Hartsfield-Jackson International Airport staff and the traveling public, facial recognition technology will be tested at check-in counters in the domestic terminal."
+    publishedDateTime: 2020-08-28T21:09:00Z
+    webUrl: "https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html"
+    ampWebUrl: "https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
+        width: 940
+        height: 627
+        isCached: true
   - title: "How facial recognition technology could be utilized in a COVID-19 world"
     excerpt: "It's not science fiction or the movies; facial recognition technology is now part of our world. TensorMark Inc., a US cloud-based AI and computer vision technology provider, is working with University Hospitals to come up with a way to make it work during the COVID-19 pandemic."
     publishedDateTime: 2020-08-27T23:04:00Z
@@ -41,33 +57,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "AI Technologies, Like Police Facial Recognition, Discriminate Against People of Colour"
-    excerpt: "Borchak Williams in January 2020 for a shoplifting incident that had taken place two years earlier. Even though Williams had nothing to do with the incident, facial recognition technology used by Michigan State Police “matched” his face with a grainy image obtained from an"
-    publishedDateTime: 2020-08-25T09:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/08/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/08/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 49
-    images:
-      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/25/algorithm-facial-recognition-1024x560.png"
-        width: 1024
-        height: 560
-        isCached: true
-  - title: "AI technologies — like police facial recognition — discriminate against people of colour"
-    excerpt: "Technology is not neutral, as facial recognition algorithms and predictive policing have shown us. Algorithms discriminate by design, reflecting and reinforcing pre-existing biases."
-    publishedDateTime: 2020-08-24T20:56:00Z
-    webUrl: "https://theconversation.com/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
-    ampWebUrl: "https://theconversation.com/amp/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 45
   - title: "Councilman to introduce bill regulating facial recognition technology in Pittsburgh"
     excerpt: "A Pittsburgh councilman plans to introduce legislation Tuesday to regulate facial recognition technology in the city."
     publishedDateTime: 2020-08-25T09:41:00Z
@@ -81,6 +70,20 @@ related:
       - url: "https://www.wpxi.com/resizer/-nittaDLfS5Blfji2XXyH8wFsH4=/1200x628/d1hfln2sfez66z.cloudfront.net/08-18-2020/t_e409325f18a2475aaa8ef89c032632a0_name_https___www_whio_com__rw_Pub_p5_News965_2014_06_18_Images_photos_medleyphoto_5395453.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Pittsburgh Councillor Moves to Ban Police Use of Biometric Facial Recognition Tech"
+    excerpt: "Pittsburgh city councillor Corey O'Connor has introduced legislation that would ban the city's police from using facial recognition software"
+    publishedDateTime: 2020-08-26T22:34:00Z
+    webUrl: "https://findbiometrics.com/pittsburgh-councillor-moves-ban-police-use-biometric-facial-recognition-tech-082609/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 33
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/blurredface-e1579295692518.jpeg"
+        width: 1502
+        height: 1694
         isCached: true
   - title: "Faceoff! UK appellate court finds police use of facial recognition technology contravenes laws"
     excerpt: "In what has been described as one of the world's first successful legal challenges to police use of facial recognition technology, on Aug. 11 the UK Court of Appeal (Civil Division) found in R. (Bridges) v."
@@ -110,6 +113,33 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Bishop International Airport to utilize Smart Helmets to measure temperatures, facial recognition"
+    excerpt: "Authorities with Bishop International Airport in  announced Friday it will be the first airport in the United States to utilize Smart Helmets."
+    publishedDateTime: 2020-08-28T19:38:00Z
+    webUrl: "https://www.clickondetroit.com/news/local/2020/08/28/bishop-international-airport-to-utilize-smart-helmets-to-measure-temperatures-facial-recognition/"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 21
+  - title: "UK Court Spurns Police in First Legal Test of Face Recognition"
+    excerpt: "As the world’s first legal challenge to police use of facial-recognition technology, the decision by the Court of Appeal has established an important precedent,” she said. “Other authorities will think again before rolling out similar technologies,"
+    publishedDateTime: 2020-08-25T18:57:00Z
+    webUrl: "https://cyber.harvard.edu/story/2020-08/uk-court-spurns-police-first-legal-test-face-recognition"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 19
+  - title: "Pittsburgh Councilman to introduce bill that restricts facial recognition use"
+    excerpt: "Pittsburgh City Councilman Corey O’Connor intends to introduce legislation Tuesday that would regulate the usage of facial recognition and predictive policing technology in the city. “This technology has harmed more people than it’s helped,"
+    publishedDateTime: 2020-08-24T20:20:00Z
+    webUrl: "https://triblive.com/local/pittsburgh-councilman-to-introduce-bill-that-restricts-facial-recognition-use/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 16
 
 secured: "ChO0t3e1lFOh5g68U/O/q0ak3YbOPH6qu1nDV/PU41peOmN+CE4zdJ9yTQcdwpchtQNQFxfBKO5J5mtqdJ0//vu++1IJ6sC7bH5XE11+fGbalqX6d87XarXcJxRmPmOQnznU9PISr9WzBvCICXPTcINpkdNMfSUw612o++IflIFcgMF8rltcSNhJ2QpdLwPIKaQcIRNvV+7F3UZ/TEB2ceuA12M2aqqq5exn7Op0fb34NVaYBycKKq7VyAndSM4xCKBbOlRSejRllzochckSzI4vC8jjgY7XxVoV232OpSrQm6M5WWcTkbntc9lqhPGKRYpG15T7PJzaQo4AZn0Ejxdg5O4cQfTdv4ibxVozXhE=;S/UC728IsKzfYkwm2ZHbhQ=="
 ---

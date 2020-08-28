@@ -5,7 +5,12 @@ excerpt: "Flawed Facebook ad-targeting algorithms are only the latest example of
 publishedDateTime: 2020-08-28T19:47:00Z
 originalUrl: "https://venturebeat.com/2020/08/28/ai-weekly-facebooks-discriminatory-ad-targeting-illustrates-the-dangers-of-biased-algorithms/"
 webUrl: "https://venturebeat.com/2020/08/28/ai-weekly-facebooks-discriminatory-ad-targeting-illustrates-the-dangers-of-biased-algorithms/"
+ampWebUrl: "https://venturebeat.com/2020/08/28/ai-weekly-facebooks-discriminatory-ad-targeting-illustrates-the-dangers-of-biased-algorithms/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/ai-weekly-facebooks-discriminatory-ad-targeting-illustrates-the-dangers-of-biased-algorithms/amp/"
 type: article
+quality: 77
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -17,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
-secured: "sfYrzD5nkrAn3J7IylryvyLY4yMv7N9Jn/OjKS8A5uCBT3ufvIpK4s74pJxVZ1HIqAYSG/gK1X9a4pavGivhMCZ6yDkqXZFW8C6HPaqxBlzSr4nLKV0h2jHpD8tALxlVAb/hEykTYqpnM8+FFFXOkQ8/37jpJFasNBpLyBVjdzn/n87w+QGZm6I+JpxrI2UMsG/iOqLfzhJm6BgW8ll+oHpu2FCC/48G3hFOY47itxJX2Rf0VkwmT5wLSqA1aTUJiIJJ9A3pQlhiv7nkn2/lqLAkEq3JHj2quUvCpFE+9T44mm0q/HC9ofAX6TMwTFocQC/S4sm0FnjQFLqp3jSjf7yxsj9bhq70/HHrnsQFQuHCYIKPPEp7Pwa9fX6Fswam5ICLucpBteG5PeOfMhoAhfjI9Lvi3KrDZziG2Dxms+lF4qVJcNacepA/xJL3/D0oNYr3CMGNv0qr7XfY1CKtgeutS27UZDFFdBwfit46rroIlLw3MD9ZjYO0etWuRhzdWQnoxp1Lh7qiuGAzWJZiYsxpM59dolDasj2zASsYqUs=;+K1k1Fa+L3PAcPss9n5e+g=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "TcubuooYTS4IwnaPCitX/akHUj9f6ITWEOxcWtz85oozOvufxlt/JYMvW/Vy4OcM2BMih8eKOqQ6dS3MmjTvCe/gMWfFfDEdAhCTVdmp+V31BWcK4xT2QY3Uj2rhZ5g9Mp5k5Kfzn5RidIQEXZ+3wzOtjAEW0qVGd5aF251+mUn9owUbOZXDxqpy5LYIqZC/WVYoasb2C4wLtmzALwmX3hXoYKiovxexnc1/NUbHGqBo4VmoFKV2VgSiiPLYMnFP5ru76fSVnNzbUJltSB/HVYwVSy14xQwScSUrrrqjgqUYg0s+V/4+3/CzE2f9oxO5GPvGqA99ZQ6eanzUNP3+zlHO16tC4EE3+QfNku7u/WM=;B29xyyLjaX8KXoMsMSKPpA=="
 ---
 

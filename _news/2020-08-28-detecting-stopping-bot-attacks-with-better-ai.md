@@ -6,6 +6,9 @@ publishedDateTime: 2020-08-28T19:46:00Z
 originalUrl: "https://www.forbes.com/sites/louiscolumbus/2020/08/28/detecting--stopping-bot-attacks-with-better-ai/"
 webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/08/28/detecting--stopping-bot-attacks-with-better-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

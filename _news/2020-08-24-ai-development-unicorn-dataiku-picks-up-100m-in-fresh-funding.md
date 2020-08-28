@@ -37,6 +37,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AI unicorn startup Dataiku plans New York hires after $100M funding round"
+    excerpt: "Datakiu, a Flatiron artificial intelligence startup, has raised another $100 million from investors and says an expansion in New York is in the works. The company—among the city's unicorn startups valued at $1 billion or more—provides subscription software that allows companies such as General Electric and Unilever to create programs that sift through huge databases to guide business decisions."
+    publishedDateTime: 2020-08-24T19:26:00Z
+    webUrl: "https://www.crainsnewyork.com/technology/ai-unicorn-startup-dataiku-plans-new-york-hires-after-100m-funding-round"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/s3fs-public/styles/800x600/public/2020-02/356677593.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "sZlBNTtMRqYn3V/56QXj5o2B0Wcw1RaI6xe3DFggdH5cKmy87NcLig2qQDQ4ZUfzEPhUtKbVUvTWrX0LVGrkVxcX4YPBA5u6TYxI8j3Qh2L3uErTVgivLM4o51xAInBOH0JrCptdYHwNS6VUbABJCcHwV64OUa0uskMMpzYmEjQilVGoYBZVx/Fb/7mFHF1A6rfbhmpogR36IXJ93JHRooKJiPqWbYOzhjtrKj6ohGlOjGsQ+aQu/LO0YKegU87nYY5yXtQbENx3yDr98C4TSpMw2+mxGs7S/G92HzG7/yGfCY8VKxfjNmamcDCR0tlx56E589l2Q3XlGYxa8yTFWTdyAAo8Zjr+zygJLNTk0ifOE2wpmu0xnBE7WYi3LATTFycBF4mzPeS0QGFLGIjfOw2vNtnfS0F+N6NGREOrv5TWJQLC20GhfUBP+gWspQk20V8tFQFsxeje9BJ09EmnBZgNpFS2rQ67jYyr3xoVbLTT2/T/eaPw5WW2MjT5fyO7nQ626wv1RkG083uTo6xuZA==;gt2doHyfKN5sLV79gx8FKA=="
 ---

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Austin self-driving forklift company raises $9 million"
+    excerpt: "Austin-based Fox Robotics, which makes self-driving forklifts, has raised $9 million in new funding to help ramp up production as the company looks to"
+    publishedDateTime: 2020-08-28T19:58:00Z
+    webUrl: "https://www.statesman.com/business/20200828/austin-self-driving-forklift-company-raises-9-million"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 19
   - title: "Hefei emerges as testing ground for self-driving fleets"
     excerpt: "Volkswagen (OTCPK:VWAGY) says it will roll out its first fleet of self-driving test cars in the eastern Chinese city of Hefei.The German automaker plans to set ten Audi e-trons loose in the city that is has 50 miles of intelligent car-friendly infrastructure and is an emerging EV tech hotspot."
     publishedDateTime: 2020-08-26T13:58:00Z

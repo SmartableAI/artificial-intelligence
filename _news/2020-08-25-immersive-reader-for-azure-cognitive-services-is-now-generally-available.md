@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/immersive-reader-for-azure-cognitive-serv
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/immersive-reader-for-azure-cognitive-services-is-now-generally-available/"
 type: article
 quality: 118
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2020/05/Translate-Microsoft-Edge-Immersive-Reader.jpg"
         width: 741
         height: 421
+        isCached: true
+  - title: "Azure’s Immersive Reader is Available for Third-Party Apps"
+    excerpt: "Microsoft has announced the general availability of Immersive Reader, an Azure service that can help make text-based apps more inclusive."
+    publishedDateTime: 2020-08-26T13:39:00Z
+    webUrl: "https://www.thurrott.com/dev/239537/azures-immersive-reader-is-available-for-third-party-apps"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 54
+    images:
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/08/immersive-reader.jpg"
+        width: 1066
+        height: 600
         isCached: true
 
 secured: "1OgbHRga3QiGnx3fV2aHH4uk5gBymYj0A+bZaWMb0bwRL1NGWeTAVIn+o52a2kshAplWqtpTWTuou5gEacseQSKXf9jqHKeIWOOdl8TQXRTmZb+e460c88GoAqZQWYSMO8qe/Ruq7b0/6qjba1j80Ffj87fB44ZPx6CeOpc4Gj2uIvQfX7lOFLWsw7p4Qoy8YaUn7rJQvdBytun3z/agtAASwP3NwViPiGfIRWXAeVjIgyzMFiDc4ir2/4O83CUfb3bMm1jMZEzVNizCaqGpNMx0sL/Rq3q7Tz0m1ECcqtlhzsRokLKj1tA9P2oSimvUhT/+2B8EOE8UOZB85x/KydEwWt7f3XfuumoJITzBcRpJv5BjIdfK0IUlyRgyl/pXMLSL2+zy9zPNdQke6FlrSClZlfytU+vLEhiiekZymidEJXka0vINHWivVMij4PD2cI13vQFgBO06yG7Q78OHmo9kxXaO4DLrJKidYdOLeNFh3JMOm/Tkb65z6Fu6uZYUphSnriUKjVntDAkyFKLMQQ==;ruxpGzUXTc6dfLWaz3+hQw=="

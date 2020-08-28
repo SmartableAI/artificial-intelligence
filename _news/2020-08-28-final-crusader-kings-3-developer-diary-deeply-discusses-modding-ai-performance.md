@@ -6,6 +6,9 @@ publishedDateTime: 2020-08-28T19:04:00Z
 originalUrl: "https://www.shacknews.com/article/120064/final-crusader-kings-3-developer-diary-deeply-discusses-modding-ai-performance"
 webUrl: "https://www.shacknews.com/article/120064/final-crusader-kings-3-developer-diary-deeply-discusses-modding-ai-performance"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Shacknews

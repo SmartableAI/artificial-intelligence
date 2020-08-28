@@ -2,6 +2,206 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-27-this-tiny-ai-chip-obliterates-google-rival-in-a-crucial-metric.md",
+      "title": "This tiny AI chip obliterates Google rival in a crucial metric",
+      "excerpt": "Kneron, a startup from California, has introduced its new neural processing unit (NPU) for edge AI applications. The KL720 NPU promises to enable sophisticated AI-enhanced applications that do not use the cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network",
+      "originalUrl": "https://www.techradar.com/nz/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network",
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/gj9vKtYSZSKase7D2Qg9HZ-1200-80.jpg",
+          "width": 970,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network",
+      "publishedDateTime": "2020-08-27T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-algorithmia-unveils-mlops-for-teams.md",
+      "title": "Algorithmia unveils MLops for teams",
+      "excerpt": "Algorithmia Teams delivers machine learning operations and management for small groups as a pay-as-you-go cloud service",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3572325/algorithmia-unveils-mlops-for-teams.html",
+      "originalUrl": "https://www.infoworld.com/article/3572325/algorithmia-unveils-mlops-for-teams.html",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3572325/algorithmia-unveils-mlops-for-teams.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3572325/algorithmia-unveils-mlops-for-teams.amp.html",
+      "publishedDateTime": "2020-08-27T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19.md",
+      "title": "How machine learning is identifying and tracking pandemics like COVID-19",
+      "excerpt": "BlueDot's machine learning platform anticipates the spread and impact of over 150 different pathogens, toxins, and syndromes in near-real time.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/",
+      "originalUrl": "https://venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/",
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1180187740.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/amp/",
+      "publishedDateTime": "2020-08-27T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-how-a-scots-wikipedia-scandal-highlighted-ais-data-problem.md",
+      "title": "How a Scots Wikipedia scandal highlighted AI’s data problem",
+      "excerpt": "A Reddit user discovered that most articles aren't written in Scots, raising questions for AI models trained on Wikipedia data.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1896963/the-scots-wikipedia-page-scandal-highlights-ais-data-problem/",
+      "originalUrl": "https://qz.com/1896963/the-scots-wikipedia-page-scandal-highlights-ais-data-problem/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/08/2012-01-18T120000Z_1666797843_GM1E81I19PS01_RTRMADP_3_INTERNET-PROTEST-e1598552874327.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1896963/the-scots-wikipedia-page-scandal-highlights-ais-data-problem/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1896963/the-scots-wikipedia-page-scandal-highlights-ais-data-problem/amp/",
+      "publishedDateTime": "2020-08-27T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change.md",
       "title": "AI buoyed businesses during the pandemic, and could accelerate permanent change",
       "excerpt": "IPSoft found that most businesses plan to return furloughed workers to their jobs, but many think AI will change or eliminate those positions within the next two years, white-collar included.",
@@ -960,43 +1160,34 @@
       ]
     },
     {
-      "path": "_news/2020-08-26-robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech.md",
-      "title": "Robotaxi Startup Voyage Loads Self-Driving Vans With Coronavirus-Killing Tech",
-      "excerpt": "The self-driving company that provides ride services for senior citizens is outfitting autonomous minivans with an ultraviolet lighting system adapted from ambulances.",
+      "path": "_news/2020-08-26-warehouse-picking-robot-startup-xyz-raises-17-million.md",
+      "title": "Warehouse Picking Robot Startup XYZ Raises $17 Million",
+      "excerpt": "The 3D-AI Vision processor, XYZ's core technology ... in Amazon Robotics Challenges for three consecutive years. \"As a young and energetic startup, XYZ Robotics has an extraordinary technical vision and R&D capabilities,\" said Zhe Chen, vice president ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/",
+      "webUrl": "https://www.benzinga.com/news/20/08/17251073/warehouse-picking-robot-startup-xyz-raises-17-million",
+      "originalUrl": "https://www.benzinga.com/news/20/08/17251073/warehouse-picking-robot-startup-xyz-raises-17-million",
       "featuredContent": null,
-      "heat": 91,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4593b29dbfd756e943c850%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/08/Screen-Shot-2020-08-26-at-14.42.06.png",
+          "width": 1085,
+          "height": 723,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/amp/",
-      "publishedDateTime": "2020-08-26T08:03:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17251073",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17251073",
+      "publishedDateTime": "2020-08-26T08:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1005,207 +1196,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-ai-will-revolutionize-healthcare-the-transformation-has-already-begun.md",
-      "title": "AI Will Revolutionize Healthcare. The Transformation Has Already Begun.",
-      "excerpt": "Artificial intelligence offers an unprecedented opportunity to cut this Gordian Knot and reshape the practice of healthcare. Of the many ways in which AI will transform our lives in the coming years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/",
-      "featuredContent": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f45c7bcd65e9b287f6b6c73%2F0x0.jpg%3FcropX1%3D75%26cropX2%3D1005%26cropY1%3D0%26cropY2%3D523",
-          "width": 930,
-          "height": 523,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/amp/",
-      "publishedDateTime": "2020-08-26T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-elon-musk-says-his-ai-brain-chip-company-neuralink-will-run-a-live-tech-demo-of-a-working-device-on-friday.md",
-      "title": "Elon Musk says his AI brain chip company Neuralink will run a live tech demo of a 'working device' on Friday",
-      "excerpt": "Musk said in May Neuralink could begin human testing within a year, although experts have questioned this timeline.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8",
-      "featuredContent": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f0380832618b911dd364f96?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8?amp",
-      "publishedDateTime": "2020-08-26T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review.md",
-      "title": "YouTube removes record number of videos after increasing role of AI in content review",
-      "excerpt": "YouTube says it took down a record number of videos in the second quarter of this year due to an increased use of AI in its content review efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/",
-      "originalUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/",
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-26T144504.451-1-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/amp/",
-      "publishedDateTime": "2020-08-26T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei.md",
-      "title": "Volkswagen to test autonomous vehicles in Chinese city Hefei",
-      "excerpt": "Volkswagen AG said on Wednesday it will start testing autonomous vehicles in China's eastern city of Hefei, its first in the world's biggest car market.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.reuters.com/article/uk-volkswagen-autonomous/volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei-idUKKBN25M1QZ",
-      "originalUrl": "https://uk.reuters.com/article/uk-volkswagen-autonomous/volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei-idUKKBN25M1QZ",
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200826&t=2&i=1531082208&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7P16L",
-          "width": 877,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN25M1TH",
-      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN25M1TH",
-      "publishedDateTime": "2020-08-26T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
+        "AI in Robotics",
         "AI"
       ]
     }

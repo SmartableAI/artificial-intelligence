@@ -52,6 +52,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Researchers built a data set for training AI to detect natural disasters from social media images"
+    excerpt: "The Incidents data set was made to encourage the development of AI for recognizing accidents and natural disasters from social media images."
+    publishedDateTime: 2020-08-28T18:32:00Z
+    webUrl: "https://venturebeat.com/2020/08/28/researchers-built-a-data-set-for-training-ai-to-detect-natural-disasters-from-social-media-images/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 34
 
 secured: "cGLO1h9sm89kiOi6JXJx3NIuroeKfRReYE4QySt+RXcK83xA42uis7m/d/ezEELs1EDfJ6OUD/6SwJo0XVcReaub2IMpnPEP6y1JeAZVtI0dxfBcFJZUGddEYinfCEfIqtxvl6/BRlg3/r7GEDlx6iv3YVOfdmNo9alOlck3Sj1nGfcly419xkAu8ooULy6/X9voiuo7me+hbWljoG8pcc07rNXs0zSVS0+O6Su41ptohKXUCTL+b6cdjdUlyVXzSRoUhKyyzj7Y+K9+V0VieHc5IAAYYahU2OXpXF9l51aGlwWI+R6N0fdu6R9qnlrXtQ5mISBBjpiXjmXlgqX9OrICkxhdJaN47+zOgigt8Fw=;iiqslysrojEOsijynEtSUA=="
 ---

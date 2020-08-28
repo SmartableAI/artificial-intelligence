@@ -6,6 +6,9 @@ publishedDateTime: 2020-08-28T19:47:00Z
 originalUrl: "https://techcrunch.com/2020/08/28/banks-arent-as-stupid-as-enterprise-ai-and-fintech-entrepreneurs-think/"
 webUrl: "https://techcrunch.com/2020/08/28/banks-arent-as-stupid-as-enterprise-ai-and-fintech-entrepreneurs-think/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: TechCrunch

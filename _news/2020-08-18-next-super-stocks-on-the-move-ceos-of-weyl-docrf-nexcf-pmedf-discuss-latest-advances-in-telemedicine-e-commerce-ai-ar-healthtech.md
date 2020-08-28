@@ -3,6 +3,7 @@ category: news
 title: "“NEXT SUPER STOCKS” on the move: CEO’s of WEYL, DOCRF, NEXCF, PMEDF discuss latest advances in Telemedicine, E-Commerce, AI, AR & Healthtech"
 excerpt: "Wall Street Reporter, the trusted name in financial news since 1843, is highlighting CEO comments and latest news from companies recently presenting at its highly acclaimed NEXT SUPER STOCK livestream investor conferences,"
 publishedDateTime: 2020-08-18T17:31:00Z
+originalUrl: "https://apnews.com/1d6080d55353c37309f9fa46798cec09"
 webUrl: "https://apnews.com/1d6080d55353c37309f9fa46798cec09"
 type: article
 quality: 4

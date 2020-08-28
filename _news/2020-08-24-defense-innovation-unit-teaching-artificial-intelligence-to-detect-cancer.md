@@ -39,6 +39,15 @@ related:
         width: 700
         height: 451
         isCached: true
+  - title: "Researchers built a data set for training AI to detect natural disasters from social media images"
+    excerpt: "The Incidents data set was made to encourage the development of AI for recognizing accidents and natural disasters from social media images."
+    publishedDateTime: 2020-08-28T18:32:00Z
+    webUrl: "https://venturebeat.com/2020/08/28/researchers-built-a-data-set-for-training-ai-to-detect-natural-disasters-from-social-media-images/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 34
   - title: "Israeli Startup Viz.ai Uses AI, Deep Learning To Detect Source Of Stroke In Seconds"
     excerpt: "A stroke detection platform developed by Tel Aviv-based medical imaging startup Viz.ai uses artificial intelligence to identify the source of a stroke in just seconds. This can give a stroke patient the chance to receive treatment sooner and save them from long term brain damage,"
     publishedDateTime: 2020-08-26T15:56:00Z

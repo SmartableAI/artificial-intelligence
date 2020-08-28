@@ -6,6 +6,9 @@ publishedDateTime: 2020-08-28T18:33:00Z
 originalUrl: "https://www.forbes.com/sites/billhardekopf/2020/08/28/this-week-in-credit-card-news-facebook-mobile-payments-coming-soon-get-20-off-at-amazon-with-these-cards/"
 webUrl: "https://www.forbes.com/sites/billhardekopf/2020/08/28/this-week-in-credit-card-news-facebook-mobile-payments-coming-soon-get-20-off-at-amazon-with-these-cards/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Forbes

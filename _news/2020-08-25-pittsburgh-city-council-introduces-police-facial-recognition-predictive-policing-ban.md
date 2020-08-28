@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pghcitypaper.com/pittsburgh/pittsburgh-city-council-intr
 cdnAmpWebUrl: "https://www-pghcitypaper-com.cdn.ampproject.org/c/s/www.pghcitypaper.com/pittsburgh/pittsburgh-city-council-introduces-police-facial-recognition-predictive-policing-ban/Content?oid=17879052&media=AMP+HTML"
 type: article
 quality: 52
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -27,20 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Pittsburgh Councillor Moves to Ban Police Use of Biometric Facial Recognition Tech"
-    excerpt: "Pittsburgh city councillor Corey O'Connor has introduced legislation that would ban the city's police from using facial recognition software"
-    publishedDateTime: 2020-08-26T22:34:00Z
-    webUrl: "https://findbiometrics.com/pittsburgh-councillor-moves-ban-police-use-biometric-facial-recognition-tech-082609/"
+  - title: "AI Technologies, Like Police Facial Recognition, Discriminate Against People of Colour"
+    excerpt: "Borchak Williams in January 2020 for a shoplifting incident that had taken place two years earlier. Even though Williams had nothing to do with the incident, facial recognition technology used by Michigan State Police “matched” his face with a grainy image obtained from an"
+    publishedDateTime: 2020-08-25T09:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/08/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/08/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour/amp/"
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 33
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 49
     images:
-      - url: "https://findbiometrics.com/wp-content/uploads/blurredface-e1579295692518.jpeg"
-        width: 1502
-        height: 1694
+      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/25/algorithm-facial-recognition-1024x560.png"
+        width: 1024
+        height: 560
         isCached: true
+  - title: "AI technologies — like police facial recognition — discriminate against people of colour"
+    excerpt: "Technology is not neutral, as facial recognition algorithms and predictive policing have shown us. Algorithms discriminate by design, reflecting and reinforcing pre-existing biases."
+    publishedDateTime: 2020-08-24T20:56:00Z
+    webUrl: "https://theconversation.com/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
+    ampWebUrl: "https://theconversation.com/amp/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 45
   - title: "Biometric facial recognition ban considered in Pittsburgh and enacted in Jackson, Mississippi"
     excerpt: "A bill has been introduced in Pittsburgh, Pennsylvania that would ban the “unrestricted” use of facial recognition by the city’s police, as well the use of predictive policing algorithms,"
     publishedDateTime: 2020-08-27T16:33:00Z
@@ -55,24 +68,6 @@ related:
         width: 1600
         height: 1035
         isCached: true
-  - title: "UK Court Spurns Police in First Legal Test of Face Recognition"
-    excerpt: "As the world’s first legal challenge to police use of facial-recognition technology, the decision by the Court of Appeal has established an important precedent,” she said. “Other authorities will think again before rolling out similar technologies,"
-    publishedDateTime: 2020-08-25T18:57:00Z
-    webUrl: "https://cyber.harvard.edu/story/2020-08/uk-court-spurns-police-first-legal-test-face-recognition"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 19
-  - title: "Pittsburgh Councilman to introduce bill that restricts facial recognition use"
-    excerpt: "Pittsburgh City Councilman Corey O’Connor intends to introduce legislation Tuesday that would regulate the usage of facial recognition and predictive policing technology in the city. “This technology has harmed more people than it’s helped,"
-    publishedDateTime: 2020-08-24T20:20:00Z
-    webUrl: "https://triblive.com/local/pittsburgh-councilman-to-introduce-bill-that-restricts-facial-recognition-use/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 16
 
 secured: "a//7yo/cnox9cCLp8Dd88T9b9Wr3/vxK33ZNlL9rDmffRlPYF3TS5lAvWHFZBBz/SN0/k4FAJNayFbn21aTsywrN7ob4gml3nhI71CVkxaetH6HzsK0ekTpZhHQUb1J/dU1E2zUm7IK89tKjm8EFS7nX555NPoxb6TIG6dhsKDRV57swE3o6ZWHh9zmj8da/Inbsbx75s9GsEaxQTe1GStUKgMVW89z7gvMPdK0F0lV4VIiOI6vXmksP64wGmbHtA8G0BC/GTTSZOncI6GExk8ZgXYj8PSSwnGkPGLBvo7ztqYgQZIGX3YOgzui87PkJcNeQPQMYma8rPu82ffzD0En1j0U7UdrzmGAoqHt18W8=;2hlvkfiN5RntTH4QCgkT3Q=="
 ---

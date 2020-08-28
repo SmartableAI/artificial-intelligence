@@ -6,6 +6,9 @@ publishedDateTime: 2020-08-28T16:00:00Z
 originalUrl: "https://www.autonews.com/regulation-safety/uber-expands-self-driving-safety-report-after-ntsb-slams-culture"
 webUrl: "https://www.autonews.com/regulation-safety/uber-expands-self-driving-safety-report-after-ntsb-slams-culture"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Automotive News

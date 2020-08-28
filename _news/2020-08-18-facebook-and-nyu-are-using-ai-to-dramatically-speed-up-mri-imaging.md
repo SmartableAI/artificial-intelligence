@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Facebook and NYU are using AI to dramatically speed up MRI imaging"
-excerpt: "Two years ago, Facebook’s Artificial Intelligence Research group (FAIR) began collaborating with researchers at New York University’s Medical School on artificial intelligence that held the ..."
-publishedDateTime: 2020-08-18T13:34:00Z
-originalUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com"
-webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com"
+excerpt: "Facebook’s AI researchers gave themself an especially demanding challenge: Use algorithms to fill in the details of an MRI scan. The results are promising."
+publishedDateTime: 2020-08-18T13:00:00Z
+originalUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging"
+webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging"
 type: article
 
 provider:
@@ -12,9 +12,15 @@ provider:
   domain: fastcompany.com
 
 topics:
-  - AI in Autos
+  - Facebook AI
   - AI
 
-secured: "P+uuyNZQvvIzOokwLkdG2+L3znmdwdqvZ2OVCtkFLMUFuhQgUpxlzswcp+VtDHU/HFQSe/de8uHnWBE750Ig+U9Hr3IGJud9KWZC0otNwVNvA8m7o/EDnusnjKjfOmi/44L+9Uf9uRWr3OY/X9Xg5MeJrv3RMflWLaPjP4PYaJmLiJ00OpGE8wbamVAUCq1OKvJUoe3a1w7vQNiNwxqhnAetuELGXw53wiuu7frdzuRvYHSAIEu2tZT3JAJxqMWRyAXcXHj7VKQquC2M/O+o5VyIUBqJ++0BzZ7i3PLe4otrJSSAejNZn7T3ca/zUeDpUTtUUQ+ZIyAyPXCzty7hoVJZQArfOHlrigzP9bki6Lw=;U8qhEzgnR95cuDXj8lTsTQ=="
+images:
+  - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-facebook-NYU-fast-mri-study.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "RWjlfGleDccgZR27j8zjBgtn3ATsCttRHtunBaGCAJmVma1xflmjSbI2vFLbOJUQPCRDcZcWwh567IbnpcQ979uV33PKCABkSlCBgVyYMOMHG9+KValmZmeGuLMhF3pnq3nq9U7xUAeX3+WxvF0IXyRTPgLJ7jyTzd7iMdNWdVJ5FTQcohTQGk2mo5OBKTcLfPbqwlNDr9Fru+YNQgxJhNEQUhdgTi5PDmTmHk2eHwt4cd+NTGr2lS3f/rcyeV5RVX/bKFuQbZA7PDpTnCidmeqwl9AE/889lumeBiBSUbNaB27DAQi/ub/cmP56zWsySyVVnHI8TbfiPkrmTsIxG/7IRwzJxFTBuO1e4IOXw8U=;nNgK3UodKZESCgAoR5kdGw=="
 ---
 
