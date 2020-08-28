@@ -3,6 +3,7 @@ category: news
 title: "Learn about the latest trends & innovations in the fintech space with the Fintech Forum Online by AWS & Yourstory"
 excerpt: "The session will conclude with a special feature on the AWS Startup Programs ... without discussing big innovations backed by artificial intelligence and machine learning. This will be followed ..."
 publishedDateTime: 2020-08-19T04:49:00Z
+originalUrl: "https://yourstory.com/2020/08/latest-trends-innovations-fintech-forum-aws"
 webUrl: "https://yourstory.com/2020/08/latest-trends-innovations-fintech-forum-aws"
 ampWebUrl: "https://yourstory.com/2020/08/latest-trends-innovations-fintech-forum-aws/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/latest-trends-innovations-fintech-forum-aws/amp"

@@ -38,6 +38,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 83
+  - title: "Google Cloud and STS to Automate U.S. Navy Maintenance Inspections Using AI and ML Technology"
+    excerpt: "Google Cloud and Simple Technology Solutions (STS)—a Google Cloud partner and small business specializing in multi-cloud solutions for"
+    publishedDateTime: 2020-08-27T12:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/google-cloud-and-sts-to-automate-us-navy-maintenance-inspections-using-ai-and-ml-technology-301119385.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 43
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "YZY3slFRuRLzCKLOwWJmCEZ0yBkVCDcwvl/Dn5WWX123/W0Hreuib09UmO7XKatsaHIB37DKFVSZntYLHSB7gd4NSdx/IVlGypYrgulo1f89LAfrgQfJATUieHFRGBWS6BZsvC2ZEWSfg2cE2Q9tl0tZs7KdBFdsInVZWfr4a/RSHlGga9Vrji9lQ1Kxs7hs9F71lveTwG5OPnuv9waJ8cSEXBpQVf7zRfHnDn2gtzY6oqVRwo9rcQxzVYnunnpspszn17XAhQTUZDl0FQaKP9Lhq7c8nW3Gq4e2sl2iuqCyjgaPVAEDPQhNKNIOkFO/xinTNKNfA5WJ0H3LvmEq2gd2M/tDGvEBrxbcHFU7Zr/Fpe6ukFxlprJULdsbvY5qUsOezFhj+nAR53zFpX7pkT5yVTmDadKBUcm+46kLLWXpTlxUoa6igBdfYjrzUF2iixYJuDWQKHKQDOf6esvD35QU+fsU1wcIQ57FIxVo0aD5jECyG9RPKMKqVYrqAj2ElFzD4ym4R8sjIQkjX/QC56EqC5juld18louHYSU72cE=;Jbqh77Ofb7/fB85hF8BfKw=="
 ---

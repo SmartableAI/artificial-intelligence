@@ -37,16 +37,16 @@ related:
       domain: businessinsider.com
     quality: 47
   - title: "HGS DIGITAL Joins AWS Contact Center Intelligence Solutions Partner Program"
-    excerpt: "services such as Amazon SageMaker, Amazon Comprehend, Amazon Transcribe, and Amazon Lex, to gain greater efficiencies and deliver increasingly tailored customer experiences. With 61 delivery ..."
-    publishedDateTime: 2020-08-24T19:24:00Z
-    webUrl: "https://www.newswire.ca/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-888542632.html"
+    excerpt: "HGS Digital LLC, a subsidiary of Hinduja Global Solutions Ltd (listed in BSE & NSE), today announced its participation as an Amazon"
+    publishedDateTime: 2020-08-24T19:06:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-301117280.html"
     type: article
     provider:
-      name: Newswire
-      domain: newswire.ca
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png"
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
         isCached: true

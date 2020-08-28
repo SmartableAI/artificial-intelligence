@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutioni
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f45c7bcd65e9b287f6b6c73%2F0x0.jpg%3FcropX1%3D75%26cropX2%3D1005%26cropY1%3D0%26cropY2%3D523"
         width: 930
         height: 523
-        isCached: true
-  - title: "Where does the UAE stand in the digital transformation of healthcare?"
-    excerpt: "Dr Satish Prasad Rath, Chief of Innovation and Research at Aster DM Healthcare, takes us through how artificial intelligence (AI) has helped his organisation cope with the Covid-19 crisis."
-    publishedDateTime: 2020-08-23T07:31:00Z
-    webUrl: "https://gulfnews.com/uae/health/where-does-the-uae-stand-in-the-digital-transformation-of-healthcare-1.1598165882782"
-    ampWebUrl: "https://gulfnews.com/amp/uae/health/where-does-the-uae-stand-in-the-digital-transformation-of-healthcare-1.1598165882782"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/health/where-does-the-uae-stand-in-the-digital-transformation-of-healthcare-1.1598165882782"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
-    images:
-      - url: "https://imagevars.gulfnews.com/2020/08/23/-_1741a19c434_large.jpg"
-        width: 750
-        height: 563
         isCached: true
 
 secured: "oNBK7VUWPaPzQzPcotdY1fEwLQ14OMLZoj80tUkrDR0DNb90qCoiGCqh+Fmrjb5pN6asIQuUksQ6TWpq0OMnCTT3AtrUdsZmE+GQVTxxkntejICfHU2KQTe+xmJDrXH5sli9l75lXrnn/wo4wXkKB1SYnMxjlCqmMAghrWKyeLYMMHYrjBwVwnFYHlfM+7OgKD61es7eXjf50/68jiuBF4905HkOTXkSfXRYVTV01myMEIETDlwigt0JYTP1xiwV9XX+uC4ClW4lvsFT9Mvndha3VTl2J0aAzOAz8tz4sqpAe9UIaso3DHJFeORRd1srwqOiA4duD3xLkRbScn7ibYUU5enO8a3SGlgeqdRHNBDslI9q4paKJwCumLAyQNqrWfpFf0SJaAkyDBhRUJs6A/oP2fyWd12IW/FUOB296UqSzQ45czsjFVe8fOdxhU5J4PvNFNIdxnu/3MmVcmiZlIkI4tGiF42ZSjO6nbRtn1c7/379XNCf9n569UFsCdSH9RJ2w0W7DbTr2VIjYxmmqLr7WAzbE0Ustj5bZsGlTUM=;T6UeG3AXQhbosTM9EqxA6A=="

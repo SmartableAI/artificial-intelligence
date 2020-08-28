@@ -1,27 +1,27 @@
 ---
 category: news
 title: "How facial recognition technology could be utilized in a COVID-19 world"
-excerpt: "CLEVELAND — It's not science fiction or the movies; facial recognition technology is now part of our world. TensorMark Inc., a US cloud-based AI and computer vision technology provider, is working with University Hospitals to come up with a way to make ..."
-publishedDateTime: 2020-08-27T23:39:00Z
-originalUrl: "https://www.wtol.com/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
-webUrl: "https://www.wtol.com/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
-ampWebUrl: "https://www.wtol.com/amp/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
-cdnAmpWebUrl: "https://www-wtol-com.cdn.ampproject.org/c/s/www.wtol.com/amp/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
+excerpt: "It's not science fiction or the movies; facial recognition technology is now part of our world. TensorMark Inc., a US cloud-based AI and computer vision technology provider, is working with University Hospitals to come up with a way to make it work during the COVID-19 pandemic."
+publishedDateTime: 2020-08-27T23:04:00Z
+originalUrl: "https://www.wkyc.com/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
+webUrl: "https://www.wkyc.com/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
+ampWebUrl: "https://www.wkyc.com/amp/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
+cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
 type: article
 quality: 59
 heat: 109
 published: true
 
 provider:
-  name: WTOL
-  domain: wtol.com
+  name: WKYC3
+  domain: wkyc.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.wtol.com/assets/WGRZ/images/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e_750x422.jpg"
+  - url: "https://media.wkyc.com/assets/WGRZ/images/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e_750x422.jpg"
     width: 750
     height: 422
     isCached: true
@@ -97,6 +97,6 @@ related:
         height: 600
         isCached: true
 
-secured: "9AxuIxm2CYt+DTwMp2pgDuthQUGxnBrD8eQk1mAH/ZoLT7hfTJeMFyCeZQywJH2LaPV3pB08jDg3RdhKyfnbCEhmTUCbd0amNHonFf1QpUn9Hys5dhO/zMI9qBIqrJpY80cECosFXB5g4x3u/tnnA3bbGkgfO6j7HU0pydg7SeSbTO8Q02ZTFW43ckdFtzeGxG57GCI0SIX7P09qT9c1pJ4KuLdfKyGoeNWHVGSLE0Z3i94G9D/JLSk16GirmRBd9nAkThEL7XCX/GG6vYhNRuVjFZzdSmWAO0imBGBIziYDZ14AEgIv05K+f6UH+1Ism29Q6vMqTnR09Lw6UmG2iEtNJtzHZFO/hjF8bMru+ck=;YWFOVeam0kXUHvVaQJT2gA=="
+secured: "9sUXPhd50hfNErA36/2azCXjOuHjux4u2CMbOi5V4iE/+DMWWym7ruZ3j8oiKN1DDzEOgbrDXhk0detpz9tYaIDCXIiFn73l+26jC7xeByAzhSuI/Av+NTtEkwhiS/ihAihr7z26ip4NFcdqAEjDyIMKXGsv5LtT0oMv9sN8jivEwPBbZHUFsAlKu2+ShbuJX4AfY0azSA0WNQOAZap26mZsBblsm4LlcBnohz3ndmannjoPvZcOnbL1CouxjDjsGFkgX4YUgz2q1ethgs5QWKndlG+m0EYQfoPUp6BJ0CzH6pLibLy6eQ5zIGWG4VL8P6R9y7rAV/CB8qoABc9yPCcGD9HAbSi3dXFowah06bo=;W357CaphhhdgQpq1SxCWOA=="
 ---
 

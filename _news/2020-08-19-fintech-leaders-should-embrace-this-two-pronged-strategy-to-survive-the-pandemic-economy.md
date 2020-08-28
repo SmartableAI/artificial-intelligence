@@ -3,6 +3,7 @@ category: news
 title: "FinTech Leaders Should Embrace This Two-Pronged Strategy to Survive the Pandemic Economy"
 excerpt: "In times of tighter budgets, FinTech leaders need to zone in on the delivery of products and services that sustain or create net-new fiscal flow. Innovators enjoy less room for trial and error, as investors are generally less willing to gamble with their  dollars."
 publishedDateTime: 2020-08-19T02:52:00Z
+originalUrl: "https://www.finextra.com/blogposting/19214/fintech-leaders-should-embrace-this-two-pronged-strategy-to-survive-the-pandemic-economy"
 webUrl: "https://www.finextra.com/blogposting/19214/fintech-leaders-should-embrace-this-two-pronged-strategy-to-survive-the-pandemic-economy"
 type: article
 quality: 15

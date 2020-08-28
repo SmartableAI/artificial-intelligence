@@ -1,38 +1,26 @@
 ---
 category: news
 title: "Blaize Delivers Breakthrough for AI Edge Computing"
-excerpt: "With multiple feature advancements vs. legacy GPU/CPU solutions, the Blaize Pathfinder and Xplorer platforms coupled with the Blaize AI Software Suite enable developers to usher in a new era of more practical and commercially viable edge AI products across ..."
-publishedDateTime: 2020-08-14T06:15:00Z
-webUrl: "https://www.design-reuse.com/news/48469/blaize-ai-edge-computing.html"
+excerpt: "News Highlights Blaize now sampling embedded and accelerator platforms built on the Blaize GSP architecture with up to 60x greater systems efficiency, 10x lower latency, 50x less memory bandwidth,"
+publishedDateTime: 2020-08-14T17:05:00Z
+originalUrl: "https://www.eejournal.com/industry_news/blaize-delivers-breakthrough-for-ai-edge-computing/"
+webUrl: "https://www.eejournal.com/industry_news/blaize-delivers-breakthrough-for-ai-edge-computing/"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: Design-Reuse
-  domain: design-reuse.com
+  name: Electronic Engineering Journal
+  domain: eejournal.com
 
 topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Blaize launches edge AI products"
-    excerpt: "Blaize, the Californian AI developer, has launched its first products called Pathfinder and Xplorer. “Blaize AI edge computing products overcome limitation"
-    publishedDateTime: 2020-08-14T05:26:00Z
-    webUrl: "https://www.electronicsweekly.com/news/business/blaize-launches-edge-ai-products-2020-08/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 39
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/08/13232952/2212B723-23C5-4C2C-B2D6-B8A0F5428F10.jpeg"
-        width: 595
-        height: 347
-        isCached: true
+images:
+  - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+    width: 512
+    height: 512
+    isCached: true
 
-secured: "lsNLsWzViZttSDTCFolfCJtwrlBgz5mOcun8Lg3TqVl4OV7JiNa82/mf5MWnBQhs2lMmmibPBYHjmXyXsciZpXW6h9VeVFwtz/S6BErfh5gm3b40biJZluIo20KObw5cYhqGqeZPHRV6C3wRQV/p6AEHGOZtkr4Wt087kgQIPY/Gci+XW77x3Swo5PZsd48oorAKb0j0BATb5s30bPop2p3RlI2T8TWPR/UwkAaZGU0uBGsQPCsbd4vbOXy/ASR2XXAPSkr7m439OsnrL1bMsWaIL3ZHd53MVWRazk+Qrfj0/wupTr1e+/rKnRpyEnBoOqB1x7H5ihOVIXMT9lxrQA==;XyCVUnko+3OqWRs9HXYx9A=="
+secured: "NURSvoBdqO9oRR172W5kVFzt/mptlusgENFiSzBgrrEybFJtUPd9kT8p2Yl8rl73LIw+aTjn8kmall6d0bs2kRsgBJUBvEwNV9a3IdX0iG/7A5EzxPGFREiGvYAvjOftv8tlsi8Ze8ItAtNfQlJlxbuIpn6Pqnz9muFIb1boslk5O4UzGZvC5oaf//QRmI3rnDTZqkwc3EM2WXldfT3YtLyFzvWP28o6KjCfZVga57dUen2eZDElWNAWoDdobgEAYaILxZNk66s2+aRIWBWoq8hxBXrrqPt86RfBl88/iVJnoQ2LD3kJT1P9R1S/dwE1Tyvb6S5K+cn5fBMjiv8ueIPqPCH1wQLNUooebwAeVXs=;krmz0qA7UCQqQskSLS7lhA=="
 ---
 

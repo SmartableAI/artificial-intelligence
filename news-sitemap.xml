@@ -7,8 +7,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wtol.com/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d</loc>
-    <lastmod>2020-08-27T16:39:00-07:00</lastmod>
+    <loc>https://www.wkyc.com/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d</loc>
+    <lastmod>2020-08-27T16:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -19,7 +19,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/uk/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network</loc>
+    <loc>https://www.techradar.com/nz/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network</loc>
     <lastmod>2020-08-27T15:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -249,6 +249,12 @@
   <url>
     <loc>https://www.bloomberg.com/news/articles/2020-08-26/china-still-buying-300-billion-of-chips-from-u-s-elsewhere</loc>
     <lastmod>2020-08-26T01:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
+    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1513,6 +1519,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
+    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1545,12 +1557,6 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
-    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1953,6 +1959,12 @@
   <url>
     <loc>https://siliconangle.com/2020/08/14/chip-startup-blaize-debuts-ai-modules-machine-learning-edge/</loc>
     <lastmod>2020-08-14T10:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.eejournal.com/industry_news/blaize-delivers-breakthrough-for-ai-edge-computing/</loc>
+    <lastmod>2020-08-14T10:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2517,6 +2529,12 @@
   <url>
     <loc>https://www.bakersfield.com/ap/news/global-payments-joins-forces-with-aws-to-deliver-the-future-of-payments/article_4ea21be5-d5a2-59c6-bfa9-61e68da485c1.html</loc>
     <lastmod>2020-08-12T01:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://news.mit.edu/2020/looking-black-box-deep-learning-neural-networks-0727</loc>
+    <lastmod>2020-08-12T01:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

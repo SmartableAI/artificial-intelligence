@@ -48,22 +48,6 @@ related:
         width: 930
         height: 523
         isCached: true
-  - title: "Where does the UAE stand in the digital transformation of healthcare?"
-    excerpt: "Dr Satish Prasad Rath, Chief of Innovation and Research at Aster DM Healthcare, takes us through how artificial intelligence (AI) has helped his organisation cope with the Covid-19 crisis."
-    publishedDateTime: 2020-08-23T07:31:00Z
-    webUrl: "https://gulfnews.com/uae/health/where-does-the-uae-stand-in-the-digital-transformation-of-healthcare-1.1598165882782"
-    ampWebUrl: "https://gulfnews.com/amp/uae/health/where-does-the-uae-stand-in-the-digital-transformation-of-healthcare-1.1598165882782"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/health/where-does-the-uae-stand-in-the-digital-transformation-of-healthcare-1.1598165882782"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
-    images:
-      - url: "https://imagevars.gulfnews.com/2020/08/23/-_1741a19c434_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
 
 secured: "QV3YekK5tW5/zNUF6RMIPI/Na2NM1vyOHtWJgBGaGBkrFzDIxYUH990AdT0DqQ98GC8PKjyq00vBfS/KFReE2lYQaOaJ87YAZ2hQpEBpMdDd+PYqMrLH7ZkJWfNAdwKpUtBZDBOXxyWkpsnBzhPEL1yByosw+E30g9JXOtbVqkLI3QCWYamlRukh5VomOuzN4CAsgxFpdRj3+0TTZA40vqN46by+45HKD7S0Rjp/4fJJaJkOTDk602LKZWYOpsbkYDJpG5vDQer4iTpHcJkco1dkgDXibeKNa13YdS88DCbrVPBDa2hoi8UXZt2UsHxgrAp0qjDtV+M2b11gAKd+VCpP5/iqGRsxaOAVrhu9wYZ3Z1z0raMaEI9VfY7jbRoU/VeZ320Che+qZ5rvzZxEbLaX94wXgrAPH0lZ6J9RKWZYqB/bI7Ftvfa2WAzvu429QwiDfMqsUIXVOTlQHBWPSrOGSkaCKe6/BW0/Rnl03U1QrTkARGRYBbjJzhPQOK7kRY03tfx8mDUgTbeltXRnvrvllzXqwXhfKjvm/PmLibs=;Aikj1dNiUICEerqSCc6hMw=="
 ---
