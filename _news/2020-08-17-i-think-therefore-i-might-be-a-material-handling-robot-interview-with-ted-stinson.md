@@ -3,6 +3,7 @@ category: news
 title: "I think … therefore I might be a material handling robot: interview with Ted Stinson"
 excerpt: "The days when robots were limited to a set of preprogrammed responses are over. Today’s AI-enabled bots are able to analyze, adapt, and even learn from each other, says Ted Stinson of AI software startup Covariant."
 publishedDateTime: 2020-08-17T12:49:00Z
+originalUrl: "https://www.dcvelocity.com/articles/46844-i-think-therefore-i-might-be-a-material-handling-robot-interview-with-ted-stinson"
 webUrl: "https://www.dcvelocity.com/articles/46844-i-think-therefore-i-might-be-a-material-handling-robot-interview-with-ted-stinson"
 type: article
 quality: 32

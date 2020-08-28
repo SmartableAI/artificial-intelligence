@@ -2,6 +2,97 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-08-04-the-ultimate-in-working-from-home-amazons-engineers-are-building-robots-in-their-garages.md",
+      "title": "The ultimate in working from home: Amazon's engineers are building robots in their garages",
+      "excerpt": "The next generation of Amazon's Scout bots – the fully-electric autonomous delivery devices the company is hoping to deploy soon – is currently being designed and built by a team of mechanical engineers in Seattle,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-ultimate-in-working-from-home-amazons-engineers-are-building-robots-in-their-garages/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/04/a48894c3-dd55-4379-8cd7-4a5c4bac7e0b/jeff-gorges-on-back-patio-in-seattle-testing-updated-drivetrain-for-scout.png",
+          "width": 1200,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-ultimate-in-working-from-home-amazons-engineers-are-building-robots-in-their-garages/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ultimate-in-working-from-home-amazons-engineers-are-building-robots-in-their-garages/",
+      "publishedDateTime": "2020-08-04T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-inspur-nf5488a5-breaks-ai-server-performance-record-in-latest-mlperf-benchmarks.md",
+      "title": "Inspur NF5488A5 Breaks AI Server Performance Record in Latest MLPerf Benchmarks",
+      "excerpt": "and intelligent language processing. About Inspur Inspur Electronic Information Industry Co., LTD is a leading provider of data center infrastructure, cloud computing, and AI solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200804005429/en/Inspur-NF5488A5-Breaks-AI-Server-Performance-Record",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200804005429/en/810139/23/inspur_logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-lt-technology-services-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions.md",
       "title": "L&T Technology Services expands collaboration with Microsoft to offer workplace transformation solutions",
       "excerpt": "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimise business metrics leveraging advanced IoT based Edge Analytics and machine learning ...",
@@ -1004,97 +1095,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-deep-learning-on-cell-signaling-networks-establishes-ai-for-single-cell-biology.md",
-      "title": "Deep learning on cell signaling networks establishes AI for single-cell biology",
-      "excerpt": "This field has seen massive progress over the last years. Most notably, deep learning enabled groundbreaking progress in areas such as self-driving cars, computers beating the best human players ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-08-deep-cell-networks-ai-single-cell.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/20-deeplearning.jpg",
-          "width": 1440,
-          "height": 869,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-08-deep-cell-networks-ai-single-cell.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-deep-cell-networks-ai-single-cell.amp",
-      "publishedDateTime": "2020-08-03T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-covid-19-impact-artificial-intelligence-ai-chips-market-will-accelerate-at-a-cagr-of-over-42-through-2020-2024-increasing.md",
-      "title": "COVID-19 Impact: Artificial Intelligence (AI) Chips Market Will Accelerate at a CAGR of Over 42% Through 2020-2024 | Increasing",
-      "excerpt": "Increasing Adoption of AI Chips in Data Centers to Boost Growt",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/press-releases/2020-08-03/covid-19-impact-artificial-intelligence-ai-chips-market-will-accelerate-at-a-cagr-of-over-42-through-2020-2024-increasing",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,105 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-07-13-carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people.md",
+      "title": "Carnegie Mellon’s robotic painter is a step toward AI that can learn art techniques by watching people",
+      "excerpt": "In a newly published research paper, Carnegie Mellon researchers propose a robotic painter that learns from human demonstrations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/13/carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screenshot252032_photos_v2_x2201_photos_v2_x2-e1594676869134.png?w=1200&#038;strip=all",
+          "width": 1144,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/13/carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people/amp/",
+      "publishedDateTime": "2020-07-13T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-13-todays-ai-productization-challenges-demand-domain-specific-architectures.md",
+      "title": "Today’s AI productization challenges demand domain specific architectures",
+      "excerpt": "Most newly emerging AI chips have strong horsepower engines, but fail to pump the data fast enough due to these three inefficiencies. Let’s zoom into what DSA really means for AI inference.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/13/todays-ai-productization-challenges-demand-domain-specific-architectures/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/computer-chip.GettyImages-1091383908.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/13/todays-ai-productization-challenges-demand-domain-specific-architectures/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/todays-ai-productization-challenges-demand-domain-specific-architectures/amp/",
+      "publishedDateTime": "2020-07-13T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-salesforce-chief-scientist-richard-socher-leaves-to-start-his-own-company.md",
       "title": "Salesforce chief scientist Richard Socher leaves to start his own company",
       "excerpt": "Take the latest VB Survey to share how your company is implementing AI today. Richard Socher today ... scientist at Salesforce to create his own startup company. During four years as chief ...",
@@ -1050,97 +1149,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-exclusive-endpoint-health-launches-to-help-hospitals-treat-critically-ill-patients.md",
-      "title": "Exclusive: Endpoint Health Launches To Help Hospitals Treat Critically Ill Patients",
-      "excerpt": "The company, which has not yet begun clinical trials, takes its name from the research outcome that indicates if a therapy in a trial has met its goal, or endpoint. The business model has three main components: an artificial intelligence-based software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/07/13/exclusive-endpoint-health-launches-to-help-hospitals-treat-critically-ill-patients/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0b62e85e77b200078933ac%2F0x0.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/07/13/exclusive-endpoint-health-launches-to-help-hospitals-treat-critically-ill-patients/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/07/13/exclusive-endpoint-health-launches-to-help-hospitals-treat-critically-ill-patients/amp/",
-      "publishedDateTime": "2020-07-13T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-new-report-from-corinium-and-fico-signals-increased-demand-for-artificial-intelligence-in-the-age-of-covid-19.md",
-      "title": "New Report from Corinium and FICO Signals Increased Demand for Artificial Intelligence in the Age of COVID-19",
-      "excerpt": "Today, FICO, a global analytics software firm, released a new report from the market intelligence firm Corinium that found ... telecommunications, health care, retail and many other industries. Using FICO solutions, businesses in more than 100 countries ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-report-from-corinium-and-fico-signals-increased-demand-for-artificial-intelligence-in-the-age/article_616d54e9-5354-58fc-8aa0-22fc71666086.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/63/d6393d41-9a84-54b4-bf2b-74fc9bd7e92b/5f0c544ba08a7.image.jpg?resize=283%2C400",
-          "width": 283,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

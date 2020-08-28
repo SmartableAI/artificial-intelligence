@@ -2,6 +2,38 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-08-14-savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability.md",
+      "title": "Savan Group Delivers Cloud-Based Artificial Intelligence and Machine Learning Capability",
+      "excerpt": "Today, Savan Group, a leader in advanced data analytics and visualization, announced that it has partnered with Amazon Web Services",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17086830/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17086830/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17086830",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17086830",
+      "publishedDateTime": "2020-08-14T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-there-is-a-crisis-of-face-recognition-and-policing-in-the-us.md",
       "title": "There is a crisis of face recognition and policing in the US",
       "excerpt": "When news broke that a mistaken match from a face recognition system had led Detroit police to arrest Robert Williams for a crime he didn’t commit, it was late June, and the country was already in upheaval over the death of George Floyd a month earlier.",
@@ -1069,47 +1101,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-artificial-intelligence-warning-ai-will-know-us-better-than-we-know-ourselves.md",
-      "title": "Artificial intelligence warning: AI will know us better than we know ourselves",
-      "excerpt": "ARTIFICIAL Intelligence (AI) is a totalitarian's dream and will have the potential to know you better than you know yourself, a researcher has claimed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1322607/artificial-intelligence-warning-machine-learning-algorithm-social-media-data",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-1322607.jpg?r=1597350957986",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1322607/artificial-intelligence-warning-machine-learning-algorithm-social-media-data/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1322607/artificial-intelligence-warning-machine-learning-algorithm-social-media-data/amp",
-      "publishedDateTime": "2020-08-13T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Robotics"
       ]

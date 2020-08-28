@@ -2,6 +2,47 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-08-13-artificial-intelligence-warning-ai-will-know-us-better-than-we-know-ourselves.md",
+      "title": "Artificial intelligence warning: AI will know us better than we know ourselves",
+      "excerpt": "ARTIFICIAL Intelligence (AI) is a totalitarian's dream and will have the potential to know you better than you know yourself, a researcher has claimed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/news/science/1322607/artificial-intelligence-warning-machine-learning-algorithm-social-media-data",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-1322607.jpg?r=1597350957986",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1322607/artificial-intelligence-warning-machine-learning-algorithm-social-media-data/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1322607/artificial-intelligence-warning-machine-learning-algorithm-social-media-data/amp",
+      "publishedDateTime": "2020-08-13T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-aws-announces-general-availability-of-amazon-braket.md",
       "title": "AWS Announces General Availability of Amazon Braket",
       "excerpt": "AWS announced general availability of Amazon Braket, a fully managed AWS service to help organizations get started with quantum computing.",
@@ -1116,47 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021.md",
-      "title": "Intel Xe-HPG: gaming GPU with ray tracing tech and GDDR6 ships in 2021",
-      "excerpt": "Intel announces new Xe microarchitecture variant: Xe-HPG -- a gaming-optimized GPU with ray tracing and GDDR6 memory ships in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/index.html",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tweaktown.com/images/news/7/4/74476_03_intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021.png",
-          "width": 620,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/amp.html",
-      "publishedDateTime": "2020-08-13T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

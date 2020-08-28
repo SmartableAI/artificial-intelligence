@@ -3,6 +3,7 @@ category: news
 title: "Artificial intelligence in the downstream"
 excerpt: "Artificial intelligence (AI) is no longer simply an industry buzzword. Today, it is a prevalent technology that has made inroads in nearly every industry sector, from healthcare and retail to manufacturing and education."
 publishedDateTime: 2020-08-24T21:42:00Z
+originalUrl: "https://www.hydrocarbonprocessing.com/conference-news/2020/08/2020-afpm-summit-artificial-intelligence-in-the-downstream"
 webUrl: "https://www.hydrocarbonprocessing.com/conference-news/2020/08/2020-afpm-summit-artificial-intelligence-in-the-downstream"
 type: article
 quality: 39

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Detroit parking garage will feature automated parking system by Ford, Bosch in self-driving car demonstration"
+    excerpt: "Ford self-driving vehicles will demonstrate automated parking in a Detroit garage, showing how self-driving cars may revolutionize parking."
+    publishedDateTime: 2020-08-28T04:05:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/08/28/self-driving-cars-ford-bosch-automated-valet-parking-detroit/5642487002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5642487002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5642487002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 25
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/26/PDTF/a39a3d62-1f70-4392-9a0f-8b2228e582e1-IMG_3204.JPG?auto=webp&crop=3504,1971,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How an Automated Data Labeling Platform Fuels Self-driving Industry?"
     excerpt: "NEW YORK, NY / ACCESSWIRE / August 26, 2020 / \"I'm extremely confident that self-driving cars or essentially complete autonomy will happen, and I think it will"
     publishedDateTime: 2020-08-26T08:10:00Z
