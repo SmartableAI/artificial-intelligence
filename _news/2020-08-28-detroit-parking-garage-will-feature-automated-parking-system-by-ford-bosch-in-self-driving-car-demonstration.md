@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5642487002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5642487002"
 type: article
 quality: 25
-heat: 25
+heat: 45
 published: false
 
 provider:
@@ -48,6 +48,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "no4IZxnMi0CtCv3XxHALam6DCt2jV0cTsKaFc4SkhxI41tDAVz1+iGWgcF49ezUATv3y1mug0u2iUPfGTIuflg6YBMjNrMSy0O0MOcaSUqpuazrUxE6g9HckUvB4K5xLVkKlWQQYKyt2Ox3snko9V3nb+NyQk/Dw0wddA/zS54NENR1KFKkMV+y30PzsmYY7qMKdPxZ4tkzpDioPl/toHf3cCHz6/aphFaX7v4tEb8YwDNx33VUljm1kAz2prVO18GD/XkkBaVixcB+RF0cAxBDIhxX6DdmVq8d94aA2MowiAOvOQ3gYTwJhMz9OveIoZ2qkO4FaoRo2l4svCETPwfUuJlshp/Tzcfj55YR7P1I=;EdISX2Dq2KqMh87hfBdqqg=="
+secured: "oXF64G5s9GkGd+A1GKAb0uXKhZ2WzSDDgiXYH5lNIyrFYcH/CZxSoj/mmBHYNw7Nws4HpgzfX9vQ3YvANU7qG/gFAAp5VqdTlw5SxJCGccpGkco9BaRPeA0OZ5vTfwmj0wvfQVm6a2iVMu620pcDFPTCJtMm4RCzWzqcaKV8DE99hgps4xoK6Nl5yZZU7p7eYbSFfA6nw74sfRA5etuGSJKaTG1RtnCbIVNeQgCCvqervGr+fmLByd7DYrbqo1G8/IBsjogsAW9Tes587QR2Gk8HY2vVW3RWD2THahyF1f+k04hNkV60ef68B4bg6ZkQE/glVpoOX80zTTjTlekBsEYUZsjz/f1W1MCNY3kcDxOX+ZIdlnST3ppx++hgQxvRxeabW2fJbKmHta3L5G43oMgYrdBuMmC49jvEwjS8im6PzZ/JI0CQdHNFxvTsbely1+ihy33eK19f2uAQwUBrOHdl/MFv5cp6eT3rQ4eYjMeqi+Ue7E9geXF7WgjLa8Bf6EcWwrrji44ddcmJ+GcTDhJMuy60fSL7/9xuUGnGbfQ=;oCU8OBdRRrp0OCi52tabjw=="
 ---
 

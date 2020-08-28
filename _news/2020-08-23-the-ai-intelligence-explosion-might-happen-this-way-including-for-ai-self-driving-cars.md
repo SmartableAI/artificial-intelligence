@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "There’s No Such Thing as Self-Driving Cars, Not Yet Anyway"
+    excerpt: "As clickbait-y as that headline reads and sounds, it’s true. According to Silicon Valley’s claims in 2015 we should have been in cars bereft of drivers by now. We were promised an influx of fully autonomous cars by the year 2020."
+    publishedDateTime: 2020-08-27T21:21:00Z
+    webUrl: "https://www.autoguide.com/auto-news/2020/08/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.html"
+    ampWebUrl: "https://www.autoguide.com/auto-news/2020/08/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.html/?amp"
+    cdnAmpWebUrl: "https://www-autoguide-com.cdn.ampproject.org/c/s/www.autoguide.com/auto-news/2020/08/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.html/?amp"
+    type: article
+    provider:
+      name: AutoGuide
+      domain: autoguide.com
+    quality: 44
+    images:
+      - url: "https://www.autoguide.com/blog/wp-content/uploads//2020/08/Self-driving-cars-main-image-.jpg"
+        width: 671
+        height: 411
+        isCached: true
   - title: "Last Unicorn Standing: Can This Self-Driving Innovator Survive?"
     excerpt: "The granddaddies of the auto industry are buying up self-driving firms. Can this outlier survive? The rapidly growing startup built its model around the promise to help traditional car companies transition to driverless technology."
     publishedDateTime: 2020-08-27T16:21:00Z

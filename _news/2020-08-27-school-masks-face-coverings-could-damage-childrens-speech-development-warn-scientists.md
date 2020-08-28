@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraph.co.uk/news/2020/08/26/school-masks-potential-d
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/08/26/school-masks-potential-damage-speech-development-far-greater/amp/"
 type: article
 quality: 35
-heat: 35
+heat: 45
 published: false
 
 provider:

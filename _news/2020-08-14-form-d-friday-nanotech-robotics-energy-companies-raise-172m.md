@@ -3,6 +3,7 @@ category: news
 title: "Form D Friday: Nanotech, robotics, energy companies raise $172M"
 excerpt: "Nanotechnology, robotics, solar energy — and the usual large fundraise in biotech. This week, the list of early-stage ventures that raised money is very diverse."
 publishedDateTime: 2020-08-14T18:55:00Z
+originalUrl: "https://www.bizjournals.com/boston/news/2020/08/14/form-d-friday-nanotech-robotics-energy-companies.html"
 webUrl: "https://www.bizjournals.com/boston/news/2020/08/14/form-d-friday-nanotech-robotics-energy-companies.html"
 ampWebUrl: "https://www.bizjournals.com/boston/news/2020/08/14/form-d-friday-nanotech-robotics-energy-companies.amp.html"
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/08/14/form-d-friday-nanotech-robotics-energy-companies.amp.html"

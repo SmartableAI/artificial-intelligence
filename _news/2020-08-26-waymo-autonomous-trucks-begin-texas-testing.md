@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving tech supplier Aurora plays the field"
+    excerpt: "For Aurora Innovation, independence is the name of the game. The self-driving tech company has resisted efforts over the years to tie itself too closely to any one auto maker partner. That's an unusual strategy in an industry where others are eager to establish partnerships and joint ventures to help defray the mammoth costs needed to make progress in autonomous driving."
+    publishedDateTime: 2020-08-27T14:00:00Z
+    webUrl: "https://www.rubbernews.com/automotive/self-driving-tech-supplier-aurora-plays-field"
+    type: article
+    provider:
+      name: Rubber and Plastics News
+      domain: rubbernews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Chris%20Urmson_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Volkswagen to launch road test for self-driving vehicles in east China"
     excerpt: "German carmaker Volkswagen will pilot its autonomous-driving travel service in China as the first license plate for road tests was issued to the company on Wednesday (Aug 26)."
     publishedDateTime: 2020-08-27T07:36:00Z

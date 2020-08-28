@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/Finance/Japan-insurer-Sompo-steer
 webUrl: "https://asia.nikkei.com/Business/Finance/Japan-insurer-Sompo-steers-into-self-driving-with-Tier-IV-stake"
 type: article
 quality: 24
-heat: 24
+heat: 34
 published: false
 
 provider:

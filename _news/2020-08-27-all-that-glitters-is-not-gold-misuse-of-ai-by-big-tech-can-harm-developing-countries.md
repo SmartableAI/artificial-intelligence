@@ -1,29 +1,29 @@
 ---
 category: news
 title: "All that glitters is not gold: Misuse of AI by big tech can harm developing countries"
-excerpt: "The debate on the risks and benefits of Artificial Intelligence (AI) is still ongoing, but one thing is certain: without appropriate regulatory measures, AI is potentially dangerous. A recent study explores how AI can be a threat to the society,"
-publishedDateTime: 2020-08-27T14:05:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-08/quco-atg082720.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-08/quco-atg082720.php"
+excerpt: "Artificial Intelligence (AI) has generated considerable interest over the past few decades, owing to its promising applications across a wide range of fields. But, it has also sparked an ongoing debate on whether the risks of using AI outweigh its benefits."
+publishedDateTime: 2020-08-27T14:38:00Z
+originalUrl: "https://phys.org/news/2020-08-glitters-gold-misuse-ai-big.html"
+webUrl: "https://phys.org/news/2020-08-glitters-gold-misuse-ai-big.html"
+ampWebUrl: "https://phys.org/news/2020-08-glitters-gold-misuse-ai-big.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-glitters-gold-misuse-ai-big.amp"
 type: article
-quality: 32
-heat: 32
-published: false
+quality: 50
+heat: 50
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/2-developingco.jpg"
+    width: 1920
+    height: 1357
     isCached: true
 
-secured: "BpKgxLRL+LNaCFllklSnx6yaVnPIO2TJNia5+vhsCj8UqXGpnc0u36KvhKwoCEOw1VUz/qDSRK9s3yihO1mYtgOYZB7zyF/9gI5LEotrQ+Hr+MHihe9DK2VpfVmGs/UJLIcXF/HKA32ygm8KqV01qLjsdTwUrjPi/6yg5OW4JSgleJIVaJg+ANLEzPohy2Yj7zUjsVfD4FXzYBV7/+JZ30uFgCvIhKdpVkgpnEnfOyF9+9crcHpYMO7qzu9fU7xtRvo9bICl2Wslw1z0cw1LnYT5+epRk/yS/K8VgEHyzMX8Y5HxkkygkkZIqtdfD4rjxCAppn2IRxKEHL51NKKs+PcuWysKkAzG5sosD5EDhNI=;vdNUF8AXAyoyFhn+Wn9TyQ=="
+secured: "ryrJ+/Kb9LylmFfd7EoQT43vlPmdTu2vTqn88jOTyQPcivfDSjPzDtJl/PrFbOCyKzpQ2azQCWbQSCOPG6Gwo2V1UF8adSNk2nClvPgBsSL4LzMuJAVotBeekiUG+gkx8KAIZkY48OPoF2l6WLlJJ45jMGb43lX7rnOcG1MaqB/ht3ddWsXuyA4fRZ8Mxzshck1KOcD1aJoyKAA3DU0cDrnrl6Qx5NWGI4zhrQDgZOWUG+4F1wHq6Oun1CMLfa+vfMoSNLJfyjWHSNjKbmVfE5jl3ZNK2N5+4mGipY32qwgZuqkT7qTKI2mg07wJS/LLNjw+W5GDefOIPNuIinAUE97s7hV2PkbhGsFnO7Inl5k=;qpHChcUDeffvpM68mknpRA=="
 ---
 
