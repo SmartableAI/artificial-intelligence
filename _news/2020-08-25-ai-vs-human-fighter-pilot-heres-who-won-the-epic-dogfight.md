@@ -9,8 +9,8 @@ ampWebUrl: "https://www.popularmechanics.com/military/aviation/amp33765952/ai-vs
 cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: Popular Mechanics
@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI pilot beats human in clean sweep of virtual F-16 dogfights, human fails to register a single hit"
-    excerpt: "An AI pilot defeated a human pilot in a clean sweep of virtual reality dogfights, with experts hailing the victory as a significant moment for artificial intelligence, sources reported."
-    publishedDateTime: 2020-08-23T17:20:00Z
-    webUrl: "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep"
-    ampWebUrl: "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
+  - title: "Former Navy TOPGUN instructor says the AI that defeated a human pilot in a simulated dogfight would have 'crashed and burned' in the real world"
+    excerpt: "He said it would have \"crashed and burned\" in a real fight but added that a dogfighting AI-driven aircraft may be here \"sooner than we ever imagined.\""
+    publishedDateTime: 2020-08-26T17:03:00Z
+    webUrl: "https://www.businessinsider.com/navy-pilot-not-surprised-ai-beat-human-in-simulated-dogfight-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/navy-pilot-not-surprised-ai-beat-human-in-simulated-dogfight-2020-8"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-pilot-not-surprised-ai-beat-human-in-simulated-dogfight-2020-8"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 73
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/F-16CM-Fighting-Falcon-3-DVIDS.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://i.insider.com/5f4557bf42f43f001ddfeef2?width=1200&format=jpeg"
+        width: 657
+        height: 328
         isCached: true
   - title: "AI Beats Human In Mock Dogfights"
     excerpt: "An artificial intelligence algorithm beat an “experienced” F-16 pilot in five straight simulated dogfights in a project designed by the Defense Advanced Research Projects Agency on Aug. 20. The pilot was up against an AI system named Heron and and the two duked it out in a Second World War style forward firing gun battle."
@@ -55,6 +55,20 @@ related:
       - url: "https://s30121.pcdn.co/wp-content/uploads/2019/12/avweb-aviation-search-banner3.png"
         width: 450
         height: 375
+        isCached: true
+  - title: "Top gun loses dogfight with AI computer"
+    excerpt: "A top US fighter pilot has been comprehensively beaten in a series of simulated aerial dogfights by a computerised rival running an artificial intelligence algorithm.The victory for AI over the human"
+    publishedDateTime: 2020-08-23T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/top-gun-loses-dogfight-with-ai-computer-lmt7vf0z3"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 37
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fbf3fc15e-e55a-11ea-9b25-18353d361fa2.jpg?crop=661%2C372%2C9%2C21&resize=685"
+        width: 661
+        height: 372
         isCached: true
   - title: "AI thrashes human fighter pilot 5-0 in simulated F-16 dogfights"
     excerpt: "In the first contest of its kind, artificial intelligence has taken on a trained US Air Force pilot in a simulation of air-to-air combat. The AI defeated the human with ease, winning 5-0"

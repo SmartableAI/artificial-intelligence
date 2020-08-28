@@ -94,6 +94,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Hartsfield-Jackson plans to test facial recognition, touchless technology in domestic terminal"
+    excerpt: "Jackson International Airport plans to expand the use of facial recognition and other technology to reduce touch points amid the coronavirus pandemic."
+    publishedDateTime: 2020-08-28T11:55:00Z
+    webUrl: "https://www.ajc.com/news/business/hartsfield-jackson-plans-to-test-facial-recognition-touchless-technology-in-domestic-terminal/G4RCBOBKANHKRFJAO47RHOQ2G4/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 27
+    images:
+      - url: "https://www.ajc.com/resizer/cDvLAzMDajltCBlNrKnWCMVLKQ0=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/X5EK7H5RLHFMIPP3WUKSOL6SKE.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/TLjGP1s359woQ+ZGbqjqORkMGQXdyomi8CYeZhC+RPjgkzK+gC5Kb3TdOk9e+h+DVcqA3TOtk0WijvGHbKJylaObd3K5adsbpJdRA1xjPP6pYVfrwIiwy6NB+CRmLnsOaJbiOKQBVQ+yvJO0VEzb8hcYrv2AnUAVO9tKWmJJGNCngkCTGQ0GGBmmCGp+P3+oLE/5FkokznXj8645Ki+FiKl9k3ty1O1L4eBDVFQ6i6TEusRHa0u9IbN1BYyjctqex932J+tvRPGVH4zKs1HghtRHqZSYSVW2/Zi9qmAnLlJQI63m3JrZ5+UDWZaF43bP/s2tVOq/5VjrRv4NgqC5w==;dlM1Kp4o93m5nT2iRHs0LQ=="
 ---

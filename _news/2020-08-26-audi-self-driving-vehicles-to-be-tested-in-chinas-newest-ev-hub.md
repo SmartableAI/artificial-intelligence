@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Volkswagen to test autonomous vehicles in Chinese city Hefei"
+    excerpt: "Volkswagen AG said on Wednesday it will start testing autonomous vehicles in China's eastern city of Hefei, its first in the world's biggest car market."
+    publishedDateTime: 2020-08-26T14:21:00Z
+    webUrl: "https://uk.reuters.com/article/uk-volkswagen-autonomous/volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei-idUKKBN25M1QZ"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN25M1TH"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN25M1TH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200826&t=2&i=1531082208&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7P16L"
+        width: 877
+        height: 545
+        isCached: true
   - title: "Volkswagen to roll out fleet of self-driving test cars"
     excerpt: "Volkswagen plans to roll out its first fleet of self-driving test cars in Hefei, an eastern Chinese city that’s emerging as a hot spot for the nation’s electric vehicle ambitions. Ten Audi e-trons, VW’s premium electric SUV model,"
     publishedDateTime: 2020-08-26T15:06:00Z
@@ -55,15 +71,20 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Hefei emerges as testing ground for self-driving fleets"
-    excerpt: "Volkswagen (OTCPK:VWAGY) says it will roll out its first fleet of self-driving test cars in the eastern Chinese city of Hefei.The German automaker plans to set ten Audi e-trons loose in the city that is has 50 miles of intelligent car-friendly infrastructure and is an emerging EV tech hotspot."
-    publishedDateTime: 2020-08-26T13:58:00Z
-    webUrl: "https://seekingalpha.com/news/3608980-hefei-emerges-testing-ground-for-self-driving-fleets"
+  - title: "Israel Leads Cybersecurity Response to Autonomous Vehicle Threats"
+    excerpt: "Given that Israel has produced a flurry of self-driving car start-ups, and that Israeli tech firms have teamed up with the world’s biggest car manufacturers to lead the self-driving revolution, the solutions to this threat may be – not wholly unexpectedly – homegrown ones."
+    publishedDateTime: 2020-08-27T17:48:00Z
+    webUrl: "https://blogs.timesofisrael.com/israel-leads-cybersecurity-response-to-autonomous-vehicle-threats/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 24
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/2020/08/AV-Testing.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "mgs9nRDWvPr9Wn3NttHDdxrppCiQE8hbvXA3d2jMlGnxLdbO2cdQRtmyALouyqHUaFjizdt2p+DXyml8I30Bw19iUOeDa0gwJZ0M2l4pyjAwy7fqFRfFCKnt/5K81gRu8xogrLgYwASdMoco3pFPtYLK7/IW25qoEEPMyqOdJOixlX3YbDLTbatgm8NWZKIwniZy/zNyoRU52OzXNkXmp5NP5wdglGFUF8fa/xURdUG4wMqDJE+cOIld0aJf/KGC0do+501dSCHPCDar8pCJE9kC/fbJ05dOeRNaRy4rXc2ShYJ/5htMSbJ9A7yHz02QbyEvQo1oG4w+7jsawfCse8UqujeVMlCF/IsfnNGOSkCa7RLjtA0WssApEYTFZIH/UiLxPg0cwfrEPuG7hHNuZF6soQ+JIgIp+E5rPCmVEtf0n6yuE+wzzv+gNrZ4gp45uZhNs3Mb6zBDD30lTNGzF5HN47fCfsplbsoJsMPmpCLipCf03V7dc2jiFZr7olT72mvdFT4bSIHHRRLkePy6Nagmcviyctonr986mPMYpkU=;NNZqCQvqXNt6IaGMjZeTKw=="
 ---

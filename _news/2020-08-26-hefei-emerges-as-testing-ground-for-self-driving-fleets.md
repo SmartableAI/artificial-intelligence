@@ -19,49 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Volkswagen to roll out fleet of self-driving test cars"
-    excerpt: "Volkswagen plans to roll out its first fleet of self-driving test cars in Hefei, an eastern Chinese city that’s emerging as a hot spot for the nation’s electric vehicle ambitions. Ten Audi e-trons, VW’s premium electric SUV model,"
-    publishedDateTime: 2020-08-26T15:06:00Z
-    webUrl: "https://www.irishtimes.com/business/transport-and-tourism/volkswagen-to-roll-out-fleet-of-self-driving-test-cars-1.4339368"
-    ampWebUrl: "https://www.irishtimes.com/business/transport-and-tourism/volkswagen-to-roll-out-fleet-of-self-driving-test-cars-1.4339368"
-    cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/transport-and-tourism/volkswagen-to-roll-out-fleet-of-self-driving-test-cars-1.4339368"
+  - title: "Fox Robotics Raises $9M For Self-driving Forklifts"
+    excerpt: "PRNewswire/ -- Austin-based Fox Robotics is announcing the close of a $9 million Series A led by Menlo Ventures, one of the most respected venture"
+    publishedDateTime: 2020-08-27T12:38:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fox-robotics-raises-9m-for-self-driving-forklifts-301119515.html"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 44
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
     images:
-      - url: "https://www.irishtimes.com/polopoly_fs/1.4339367.1598453305!/image/image.jpg"
-        width: 585
-        height: 329
-        isCached: true
-  - title: "Audi self-driving vehicles to be tested in China’s newest EV hub"
-    excerpt: "Volkswagen Group plans to roll out its first fleet of self-driving test cars in Hefei, an eastern Chinese city that’s emerging as a hot spot for the nation’s electric vehicle ambitions. Ten Audi e-trons,"
-    publishedDateTime: 2020-08-26T19:28:00Z
-    webUrl: "https://europe.autonews.com/automakers/audi-self-driving-vehicles-be-tested-chinas-newest-ev-hub"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20China-MAIN.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "VW to test self-driving vehicles in China’s newest EV hub"
-    excerpt: "Volkswagen Group plans to roll out its first fleet of self-driving test cars in Hefei, an eastern Chinese city that’s emerging as a hot spot for the nation’s electric vehicle ambitions. Ten Audi E-trons,"
-    publishedDateTime: 2020-08-26T14:50:00Z
-    webUrl: "https://www.autonews.com/china/vw-test-self-driving-vehicles-chinas-newest-ev-hub"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Audi%20China-MAIN.jpg"
-        width: 800
-        height: 600
+      - url: "https://mma.prnewswire.com/media/1244401/team.jpg?p=facebook"
+        width: 1676
+        height: 879
         isCached: true
 
 secured: "Z9MZgICJxcDvknj2Gs72yN/WKcbrvcqj02fYzAAARU0NIqAqYkHz/IOb1QQ7vl8HJzPFOvdsnHYSqDgUJzBuzOLq8p0I/VmTzbJA7eIr7+49xHewdm2Ju/MaUUzz+GzT/BbQk51NmLyxEM6eS1IRqvwdbD9xe8vwYQEwA2uiJTJB2Z+wn1kTLJeQhA1QRgW1ds623g35ZgP1tIUnE4g9CeA7gizWUxLVdSUu0isFJI10rliUW0r+B6muUCnlkYe6YhgpGE6KmOj6xBaQ5fkuhOBzNA2TIW61Kzgr7XyVVZ2JsIk0r6ktfhrjHdSEYQQlAY+lBsB1cbB248jZUC9lIh4h9kjMsNTlYuQ5YvhqzwY=;P6i+K+FJa/jBKUn4CWXRDg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wkyc.com/amp/article/news/health/coronavirus/facial-reco
 cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0348_637098267027226915.png"
         width: 600
         height: 600
+        isCached: true
+  - title: "Hartsfield-Jackson plans to test facial recognition, touchless technology in domestic terminal"
+    excerpt: "Jackson International Airport plans to expand the use of facial recognition and other technology to reduce touch points amid the coronavirus pandemic."
+    publishedDateTime: 2020-08-28T11:55:00Z
+    webUrl: "https://www.ajc.com/news/business/hartsfield-jackson-plans-to-test-facial-recognition-touchless-technology-in-domestic-terminal/G4RCBOBKANHKRFJAO47RHOQ2G4/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 27
+    images:
+      - url: "https://www.ajc.com/resizer/cDvLAzMDajltCBlNrKnWCMVLKQ0=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/X5EK7H5RLHFMIPP3WUKSOL6SKE.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "AIiopjbm6dIOD5Y77Yw27hhyQgm5lyctTifK2TV98H4Ets860IzmDfkJZppYi28IBzNZMLT0bryIDddJMwR8xgJCPVifJWj3dvpbrojZsPxMDHhRo7G8xYz82/iiFo1o5Au4R/mgQyUb0O6pINOcV7PCSnjmYNafICRRyWe/GNm3zjHPbqOdPMYSkHB3WGTnl2jdE8Q+AzwrzPFpR1oy3W//cHOzMcnTrS6vgv4y9ar4095L8fshx2pR9+XIA4ARMAiTBZM3D1uxrcMDScH0grCUn+h0kqInJbGX4c036p10vKaViKVQUE76BiPYwhp4uFs11B6rQzVtitczaWIr8Y6q2cfPTjwjJL3H9Uhvch7nBVCs3EnA7VMp9miBreVywnDRmjXF4nyA+QvfLoO9JQdJeE5BImd5YoSJjpxZv9/eY0KYNkQeK8psfWkJQDXNp31ziRZxLeM/TC51RXfr6fJOU7E7kk1B72ssWnUxYVXh+o6W0Y8L1ixur7pS3Qit4stM2LUHd4dwWn39xsq6KVWJn89iXOkGRhOvVVvu42w=;edcwfmYVFletwrMDk+uWJw=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/08/26/bipartisan-policy
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/08/26/bipartisan-policy-center-and-ethics-policy-for-artificial-intelligence-inside-the-beltway-thinking-is-still-an-issue/amp/"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Forbes
@@ -29,24 +29,6 @@ images:
     width: 876
     height: 548
     isCached: true
-
-related:
-  - title: "The term ‘ethical AI’ is finally starting to mean something"
-    excerpt: "By framing ethical problems as narrow issues of fairness and accuracy, companies could equate expanded data collection with investing in “ethical AI.” The efforts of tech companies to champion fairness-related codes illustrate this point: In January 2018,"
-    publishedDateTime: 2020-08-23T17:34:00Z
-    webUrl: "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/"
-    ampWebUrl: "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/data_public.jpg?fit=800%2C450&strip=all"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "D4frbmUwGCKWUfSDuWDracg4aYfzHYgY5yR0b54CuC3wjd61gA/yaJrPRABvLuUhrIgRcBFqvmL0OLUn+t+Njz0JnY0yS0iCEaKr9TOdePiZWCw64OQ4gQ4KB7D1Uh4EYdIU7Ron/ydfVLWAVTaudd5GyCIK3e5Ey+xTEgomOnlapGDfVi7GUfW63xpKuif7kBcyXYzit6x1HckiCnZW+uDUob9lpd46seHYkU1eoTHo38l3oHiUd2p2eQMBoEI3mMRw9i45QQR/zt46+86eOJOTnWFR4L4cEhcwq6H6hL08Qd1UFtv2rJ3KqVOxUzfPLJX++9eegqyDiVERnmNZH+QujV1LEBMYaHVEbYmc04bXTQYEkq+9593BeHftJiElNShhoew76DYzjVu6ThbnUnPdsQzDUanA0QomyN4Gz+VQzYSKL5+as15f0D97VPQsuYBW3rGX8OsnCGJgo/MLPJWmhkVhUaxC7Uwhoyps/XYNiOE/7GPvIpcDxeX+ouT+MD65D8+lP1VPZTo5dwkWe13NePhINoSUip6WPJBG18s=;HMhZ8xe7tvSsoTnG/UmDNQ=="
 ---

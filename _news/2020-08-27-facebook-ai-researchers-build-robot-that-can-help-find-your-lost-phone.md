@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/facebook-ai-researchers-build-robot-th
 webUrl: "https://www.zdnet.com/video/facebook-ai-researchers-build-robot-that-can-help-find-your-lost-phone/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Wants To Help Build AI That Can Remember Everything For You"
-    excerpt: "Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology — functions in our daily lives."
-    publishedDateTime: 2020-08-23T17:22:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/amp/"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 39
   - title: "CMU, Facebook AI Research Team Develops Common Sense Robots"
     excerpt: "A research team from Carnegie Mellon University and Facebook AI Research, which included CMU Machine Learning Department doctoral student Devendra S. Chaplot, has developed a common-sense robot."
     publishedDateTime: 2020-08-25T23:00:00Z

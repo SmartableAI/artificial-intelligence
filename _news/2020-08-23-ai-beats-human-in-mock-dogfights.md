@@ -23,22 +23,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI pilot beats human in clean sweep of virtual F-16 dogfights, human fails to register a single hit"
-    excerpt: "An AI pilot defeated a human pilot in a clean sweep of virtual reality dogfights, with experts hailing the victory as a significant moment for artificial intelligence, sources reported."
-    publishedDateTime: 2020-08-23T17:20:00Z
-    webUrl: "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep"
-    ampWebUrl: "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 73
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/F-16CM-Fighting-Falcon-3-DVIDS.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "AI vs. Human Fighter Pilot: Here's Who Won the Epic Dogfight"
     excerpt: "The dogfight is part of a DARPA-led effort to develop AI for fighter planes. The AI won an important string of victories but robotic air combat still has a ways to go. An artificial intelligence claimed victory over several other AIs in simulated dogfights and then went on to trounce a real human Air Force pilot,"
     publishedDateTime: 2020-08-25T13:20:00Z
@@ -54,6 +38,36 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-08-25-at-8-14-56-am-1598357785.png?crop=0.981xw:0.895xh;0.00321xw,0&resize=1200:*"
         width: 1200
         height: 599
+        isCached: true
+  - title: "Former Navy TOPGUN instructor says the AI that defeated a human pilot in a simulated dogfight would have 'crashed and burned' in the real world"
+    excerpt: "He said it would have \"crashed and burned\" in a real fight but added that a dogfighting AI-driven aircraft may be here \"sooner than we ever imagined.\""
+    publishedDateTime: 2020-08-26T17:03:00Z
+    webUrl: "https://www.businessinsider.com/navy-pilot-not-surprised-ai-beat-human-in-simulated-dogfight-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/navy-pilot-not-surprised-ai-beat-human-in-simulated-dogfight-2020-8"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-pilot-not-surprised-ai-beat-human-in-simulated-dogfight-2020-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/5f4557bf42f43f001ddfeef2?width=1200&format=jpeg"
+        width: 657
+        height: 328
+        isCached: true
+  - title: "Top gun loses dogfight with AI computer"
+    excerpt: "A top US fighter pilot has been comprehensively beaten in a series of simulated aerial dogfights by a computerised rival running an artificial intelligence algorithm.The victory for AI over the human"
+    publishedDateTime: 2020-08-23T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/top-gun-loses-dogfight-with-ai-computer-lmt7vf0z3"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 37
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fbf3fc15e-e55a-11ea-9b25-18353d361fa2.jpg?crop=661%2C372%2C9%2C21&resize=685"
+        width: 661
+        height: 372
         isCached: true
   - title: "AI thrashes human fighter pilot 5-0 in simulated F-16 dogfights"
     excerpt: "In the first contest of its kind, artificial intelligence has taken on a trained US Air Force pilot in a simulation of air-to-air combat. The AI defeated the human with ease, winning 5-0"

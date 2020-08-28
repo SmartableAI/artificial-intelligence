@@ -9,7 +9,7 @@ ampWebUrl: "https://www.irishtimes.com/business/transport-and-tourism/volkswagen
 cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/transport-and-tourism/volkswagen-to-roll-out-fleet-of-self-driving-test-cars-1.4339368"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Volkswagen to test autonomous vehicles in Chinese city Hefei"
+    excerpt: "Volkswagen AG said on Wednesday it will start testing autonomous vehicles in China's eastern city of Hefei, its first in the world's biggest car market."
+    publishedDateTime: 2020-08-26T14:21:00Z
+    webUrl: "https://uk.reuters.com/article/uk-volkswagen-autonomous/volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei-idUKKBN25M1QZ"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN25M1TH"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN25M1TH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200826&t=2&i=1531082208&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7P16L"
+        width: 877
+        height: 545
+        isCached: true
   - title: "Audi self-driving vehicles to be tested in China’s newest EV hub"
     excerpt: "Volkswagen Group plans to roll out its first fleet of self-driving test cars in Hefei, an eastern Chinese city that’s emerging as a hot spot for the nation’s electric vehicle ambitions. Ten Audi e-trons,"
     publishedDateTime: 2020-08-26T19:28:00Z
@@ -55,15 +71,20 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Hefei emerges as testing ground for self-driving fleets"
-    excerpt: "Volkswagen (OTCPK:VWAGY) says it will roll out its first fleet of self-driving test cars in the eastern Chinese city of Hefei.The German automaker plans to set ten Audi e-trons loose in the city that is has 50 miles of intelligent car-friendly infrastructure and is an emerging EV tech hotspot."
-    publishedDateTime: 2020-08-26T13:58:00Z
-    webUrl: "https://seekingalpha.com/news/3608980-hefei-emerges-testing-ground-for-self-driving-fleets"
+  - title: "Israel Leads Cybersecurity Response to Autonomous Vehicle Threats"
+    excerpt: "Given that Israel has produced a flurry of self-driving car start-ups, and that Israeli tech firms have teamed up with the world’s biggest car manufacturers to lead the self-driving revolution, the solutions to this threat may be – not wholly unexpectedly – homegrown ones."
+    publishedDateTime: 2020-08-27T17:48:00Z
+    webUrl: "https://blogs.timesofisrael.com/israel-leads-cybersecurity-response-to-autonomous-vehicle-threats/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 24
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/2020/08/AV-Testing.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "stWqeyT9HxaOKJ/DeKbcs9Y9G9SVG2PAzEYaaEQ/pM/SAqd14MsgWvl6OLA4NpAl0LFTqUwjIcvrYT+RPkYzDOqZHpYC3aviRAvDZXWG/gdrLNYcjh7QeLQF+eNxlQb937l4bYcaatP7rDHSaEkagVzyAGLV3V8JzdVWCcM/j+zgGAGgs9TBjPdJWhstiuCb7GvPssae4kKkxx+j1p/N8pg4MY2lywh348mAlpuUtS/tJAfyDNqEc5S5xInhHCkItFk4xAelatZSXT1XEGyCOMLtsLxiJcWR0nyG1t02bGsMs/RoJv/5GC2KlHFiXHS6vNgnOn6HIKPt3kt9A3pYjG6IdPpHjumDKn8SXpYLTLx4xjcEx7sAe+GcxQcJua0lryJU6voSF487aUfM6KN7rRd49XaD/TixKERkoayCy3CFqsrVFy2wg0fS4LL3PZxPehsx82LmgHhp+QA2p6VHJGlnyVewb+XZWC8BLGy1jYXVCKpY1Yk7clMdOhXxyKDGU1MXS3ndumBRxRmsFqxMXN6efnh2VlwMj4qStfFh9M4=;FEe7IrDZ5T02pSTBRT6XEA=="
 ---

@@ -39,17 +39,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Facebook Wants To Help Build AI That Can Remember Everything For You"
-    excerpt: "Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology — functions in our daily lives."
-    publishedDateTime: 2020-08-23T17:22:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/amp/"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 39
 
 secured: "3lLSHjTH00K0PBNUHhmA4ApVYZJv3I+75jbs8pVUzcEZn0lD/IA+E3WfrPN/U/Fz4C0TwitpvbwdrHF4luDexzEC5g4lJG+HqW5uHOvC1GHUVrU5/MWtIZzwM1MZtVE+CsacEcjJqIoh6/8n5ih2WwHxBQkhJ7EPX0cD4Ns5ZgJ1AW9sABmPIokYtCVPingd6FcOF2O8KiV+s+Je2UMlTNUBuI5EN0QJoaGcfAwb02lS/owtDTYPzq7hb2lWyAqbi23lJMDvkJDqgfeWSyf4PvLn1iNzGZIeLd8DnfDiYbt7JExfX4v62XOsm9U3xs6McN9LvQ3fNiblWUQQuUMsSUj405B+jwMZ6tZOhf1hR8bLpqZW6Fn9L+Lw6eNiAlYnYpKm7vLsuMct3AT8LxReas8DNyMbZQOw4GYeaHwe1rm9Ry7sBCW2olPOMvpL5b/JagPq1xxsumXZeHFjiDWecLjpSVw2S7EqHzx2T2bnFGzVtCCZeuufvRiJAsIF3Lgdgp2MWQb8HoMpgWnt4Sg7mQ==;BEEMDpctsNNHMBHJ64OItA=="
 ---
