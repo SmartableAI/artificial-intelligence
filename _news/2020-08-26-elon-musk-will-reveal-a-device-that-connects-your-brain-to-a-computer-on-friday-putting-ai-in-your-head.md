@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Elon Musk Is Finally Revealing Neuralink’s Controversial Brain Chip"
+    excerpt: "Tesla and SpaceX CEO Elon Musk will reveal a major update of his biotech startup Neuralink and demonstrate a “working device” for the company’s hyped brain-machine interface. Neuralink’s technology, the founder claims,"
+    publishedDateTime: 2020-08-28T09:00:00Z
+    webUrl: "https://observer.com/2020/08/elon-musk-reveal-neuralink-brain-chip-implant-ai-friday/"
+    ampWebUrl: "https://observer.com/2020/08/elon-musk-reveal-neuralink-brain-chip-implant-ai-friday/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/08/elon-musk-reveal-neuralink-brain-chip-implant-ai-friday/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 74
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2019/11/franck-v-ykw0jjp7rlu-unsplash-e1573142866469.jpg?quality=80&strip"
+        width: 3411
+        height: 2274
+        isCached: true
 
 secured: "0nNVqPFgggtZCC8vdzT0lWEJlM2AQ+Q3UXb14zIPqYnhnCM5GC1DdMdRX6v73cmkNLqppaZUyQmPeAo73iz4hC1Ce5FGNCaW46l6C+BbO8E8E2MH+OeLySjuJi04Wtvty9+cIdfD6GJWLEZkzc2tJ1DRGnRmBWZu42SDBcRiNTy2F5Ofism634jaygLGn7OiPXl15nFdA23Pz6STIVRwy+a5gUw+VJa0YlGsadmbqcPZRz+ydC2JMj1xyPEs5GemGbmHyveASAHhK1FPQQs9pQATErRv1vgtxmhITuCaRVfWmWIsMR8Rpw2SReK7Pt/lbT8rQs0zxCvF/Veslut1Hh7anPIF9S59Q4r9Vgo8t56a3SjRVH+ATQzeyanaiA6mWo/XZGlQxxWiURocRGXLjUIRV38RH8W2UWcOe9EcxWtEtSzCtdy1DqvLIrTUs5/gRoW+LDtSpb6G3Ej5hTRlmrPhuiO1j40+ycjbF5zWFAjBVYtLwtfHGxCeGhkmRhptJ+D0B2e73bA7sF9DvbUc3Y0CBvApV9xTjWL3XEEfZIo=;sgFHRP1zHyCOv3F6aWCLYQ=="
 ---

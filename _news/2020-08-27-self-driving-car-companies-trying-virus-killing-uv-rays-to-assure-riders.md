@@ -43,6 +43,22 @@ related:
         width: 796
         height: 447
         isCached: true
+  - title: "There’s No Such Thing as Self-Driving Cars, Not Yet Anyway"
+    excerpt: "As clickbait-y as that headline reads and sounds, it’s true. According to Silicon Valley’s claims in 2015 we should have been in cars bereft of drivers by now. We were promised an influx of fully autonomous cars by the year 2020."
+    publishedDateTime: 2020-08-27T21:21:00Z
+    webUrl: "https://www.autoguide.com/auto-news/2020/08/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.html"
+    ampWebUrl: "https://www.autoguide.com/auto-news/2020/08/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.html/?amp"
+    cdnAmpWebUrl: "https://www-autoguide-com.cdn.ampproject.org/c/s/www.autoguide.com/auto-news/2020/08/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.html/?amp"
+    type: article
+    provider:
+      name: AutoGuide
+      domain: autoguide.com
+    quality: 44
+    images:
+      - url: "https://www.autoguide.com/blog/wp-content/uploads//2020/08/Self-driving-cars-main-image-.jpg"
+        width: 671
+        height: 411
+        isCached: true
 
 secured: "5hwOW0lR/vkwA5jFWNY5aEgiRd3AdnqKOBuFf6Inz145AHsWbwRqf/OrK/mjLj+gAH6l3kWk+dzKMi73VZlwPcdDWdRAvZl41ohFcndPmVKKoIOw2qnOib+d1f2HZ6kyW0Oo496CBU94JfFa3ZwT+Oz0R8Nvk2R57+FHDGKWF7qyDihFXkhEDKFaL9LKd0MZVsEaMcp5Oj8+NP5Ay3wjLDgLu0GR3dwBf3OdQ90dm0m5G2bwto0bqofHKJ8m+1UvWcPBMplyKrffZbL4d9OGa34O13Dj/GRwJasYKopd+G4UKgwvfnW7795J4k3B7iy2yl8sclUnvc3k/yZeZkohdWKu3+DuSMBJWa0SlCggw1A7w87NUgkJ21/01iwsqYR8uUBniIFzheL1xbTB6yrrsMxt5586DrV27Zz/j8GLo0R4CFW/0HaBahjQ00ksGDKDGcQc6lnoZ+LP2luhKgTk27NkZAUok175KP9oVNNqbqv+fCsofZrDOZHrPtNj1g3/evuLXPvILu6TBhKhVEKY/1zxK+E7imRpT15TRlsugeo=;8C2H7wTSXqTzjG/GcYpBFw=="
 ---

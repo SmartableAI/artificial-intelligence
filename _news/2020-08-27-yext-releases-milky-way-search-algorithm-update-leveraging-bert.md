@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/yext-
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/yext-releases-milky-way-search-algorithm-update-leveraging-bert/article_71b1b062-4eb7-578e-8eb2-5b35f4c24cc4.html"
 type: article
 quality: 24
-heat: 34
+heat: 24
 published: false
 
 provider:

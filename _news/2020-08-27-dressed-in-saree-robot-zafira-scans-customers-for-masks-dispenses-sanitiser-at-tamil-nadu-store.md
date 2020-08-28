@@ -9,7 +9,7 @@ ampWebUrl: "https://www.india.com/viral/dressed-in-saree-robot-zafira-scans-cust
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/dressed-in-saree-robot-zafira-scans-customers-for-masks-dispenses-sanitiser-at-tamil-nadu-store-4123623/amp/"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

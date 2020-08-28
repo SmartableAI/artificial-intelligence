@@ -3,6 +3,7 @@ category: news
 title: "International Dialogue on “The Ethics of Digitalisation” Kicks Off in Berlin"
 excerpt: "We are pleased to announce a new joint project by the Global Network of Internet & Society Centers (NoC) exploring ”The Ethics of Digitalisation: From Principles to Practice.” The global project launc"
 publishedDateTime: 2020-08-17T13:06:00Z
+originalUrl: "https://cyber.harvard.edu/story/2020-08/international-dialogue-ethics-digitalisation-kicks-berlin"
 webUrl: "https://cyber.harvard.edu/story/2020-08/international-dialogue-ethics-digitalisation-kicks-berlin"
 type: article
 quality: 36

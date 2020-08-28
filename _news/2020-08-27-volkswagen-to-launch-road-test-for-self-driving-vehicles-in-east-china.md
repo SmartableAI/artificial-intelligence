@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving tech supplier Aurora plays the field"
+    excerpt: "For Aurora Innovation, independence is the name of the game. The self-driving tech company has resisted efforts over the years to tie itself too closely to any one auto maker partner. That's an unusual strategy in an industry where others are eager to establish partnerships and joint ventures to help defray the mammoth costs needed to make progress in autonomous driving."
+    publishedDateTime: 2020-08-27T14:00:00Z
+    webUrl: "https://www.rubbernews.com/automotive/self-driving-tech-supplier-aurora-plays-field"
+    type: article
+    provider:
+      name: Rubber and Plastics News
+      domain: rubbernews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Chris%20Urmson_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "+JXlKcxUYDEdgyCLicXMACgpYZY2PLMKjsLslBLqZZl7eSlbiAiOjM6dckZiDoivZHZMvyDcJBaYLPWqd6Zzi4TzBbRNetRasDoa9IOz4eoT0NXwozi0QXWLSdd+gtNUgcm3CnPCn075w/zGuu9GOIBJbNyCXx88nVlg0SC8txBqOy5wEv9RC/L5Teb3u/j7QLFsVGHVVdjUQ0F2uvRSPhegxw9ex+Zqcw3Ga1bSLtZIRXntI6Y/VjiMBEm1/lmWR1UiDRU+qM8bMtHGspnIkWVnacdYuXKD4SLU3JUNuRG1nWDMIBBkMN5bmQoS2asSINFHMxfTCeh8cvwxQQyyESPwQ7WvNm0bYzOZF/zUCYY=;om7ah2UT0yYpsR11p7tO/g=="
 ---

@@ -58,7 +58,7 @@
       "webUrl": "https://techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/",
       "originalUrl": "https://techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/",
       "featuredContent": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -96,7 +96,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -208,7 +209,7 @@
       "webUrl": "https://www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8",
       "originalUrl": "https://www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8",
       "featuredContent": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {

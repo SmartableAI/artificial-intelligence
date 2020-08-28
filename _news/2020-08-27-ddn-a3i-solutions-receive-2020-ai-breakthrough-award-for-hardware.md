@@ -7,7 +7,7 @@ originalUrl: "https://www.hpcwire.com/off-the-wire/ddn-a3i-solutions-receive-202
 webUrl: "https://www.hpcwire.com/off-the-wire/ddn-a3i-solutions-receive-2020-ai-breakthrough-award-for-hardware/"
 type: article
 quality: 39
-heat: 59
+heat: 39
 published: false
 
 provider:

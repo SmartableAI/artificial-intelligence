@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5642487002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5642487002"
 type: article
 quality: 25
-heat: 45
+heat: 25
 published: false
 
 provider:

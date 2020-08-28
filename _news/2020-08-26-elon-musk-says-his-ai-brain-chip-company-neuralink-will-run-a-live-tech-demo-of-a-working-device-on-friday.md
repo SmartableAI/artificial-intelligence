@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-announces-neuralink-will-d
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8?amp"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk Is Finally Revealing Neuralink’s Controversial Brain Chip"
+    excerpt: "Tesla and SpaceX CEO Elon Musk will reveal a major update of his biotech startup Neuralink and demonstrate a “working device” for the company’s hyped brain-machine interface. Neuralink’s technology, the founder claims,"
+    publishedDateTime: 2020-08-28T09:00:00Z
+    webUrl: "https://observer.com/2020/08/elon-musk-reveal-neuralink-brain-chip-implant-ai-friday/"
+    ampWebUrl: "https://observer.com/2020/08/elon-musk-reveal-neuralink-brain-chip-implant-ai-friday/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/08/elon-musk-reveal-neuralink-brain-chip-implant-ai-friday/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 74
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2019/11/franck-v-ykw0jjp7rlu-unsplash-e1573142866469.jpg?quality=80&strip"
+        width: 3411
+        height: 2274
+        isCached: true
   - title: "Elon Musk will reveal a device that connects your brain to a computer on Friday – putting AI in your head"
     excerpt: "ELON Musk is set to reveal a ‘working Neuralink device’ this Friday. The highly anticipated but controversial brain chip aims to help us compete with artificial intelligence and help"
     publishedDateTime: 2020-08-26T11:48:00Z

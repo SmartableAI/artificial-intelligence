@@ -25,22 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "The AI ‘Intelligence Explosion’ Might Happen This Way, Including For AI Self-Driving Cars"
-    excerpt: "Some vehemently assert that we are potentially going to have an AI “intelligence explosion” that will someday occur, and there are various bets that this might happen somewhere between the year 2050 and the year 2100."
-    publishedDateTime: 2020-08-23T16:21:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/"
+  - title: "Human collaboration required for self-driving trials in Taiwan"
+    excerpt: "Autonomous driving tests in Taiwan are required to have human drivers onboard the vehicles to take over steering when occasion arises, according to Statute for Experiments of Technological Innovations in Unmanned Vehicle."
+    publishedDateTime: 2020-08-24T07:35:00Z
+    webUrl: "https://www.digitimes.com/news/a20200814PD206.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F902260582%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.digitimes.com/newsshow/20200814PD206_files/1_b.jpg"
+        width: 640
+        height: 427
         isCached: true
+  - title: "Weil, Orrick Lead SPAC Deal For $3.4B Self-Driving Tech Co."
+    excerpt: "Autonomous driving technology developer Luminar on Monday agreed to merge with a private equity-backed special purpose acquisition vehicle to create a single publicly traded entity with an equity value of about $3."
+    publishedDateTime: 2020-08-24T18:24:00Z
+    webUrl: "https://www.law360.com/articles/1303676/weil-orrick-lead-spac-deal-for-3-4b-self-driving-tech-co"
+    ampWebUrl: "https://www.law360.com/amp/articles/1303676"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1303676"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
 
 secured: "dXcMK3k8E+l4FLq9FbRXPNUkc+FPHcFDLokdkdHdtpUVYt09HRlmpDsd2ZYT7ZaAegnA/sz6tY2KLQAm5HJB+7QWrSs+pZZe3I55C47C8oYA137IaKDl0YNx0h6PW24ywgNZ5Qns836CKSIK93Y7Zj88ELUoN3cRHPhPbtnJ7YeCVDprarWbi0AXOl6V1cTb7UZwrjnv41PUh7j0whln0liioS34eYmsjnJRZ2YJjshVJVqk7dyR/zUUpZLMCFsTh0mrpujzRuN2IJxKIJVbe01NZYKeXLpIFodNfsAWRqC4HejuaDm9awNLLDU6n3FgKSWFEdvpeNj4O/Ae3xYcDdSHydeR7vY6UYlEJq8wc6EZkKTczxAgAb0/JABDsCqdrRX617+G/d5FPQqsEIxom1gm61nTg4UL5Q6xgKBPNZCxHlA9zT5ljg3K0aLhL7GjwMz5fPy4SAxJNwRFlFnjwEl13OjBB+z4YBYqbmRGdkxoap9WQEd860ByLJWlqczYS9KIiNeGXSLgi0HgcDFbGLAHhDCFzke7v90q/pVI02M=;bzHCwbCpOLjh8X5b267Jkw=="
 ---
