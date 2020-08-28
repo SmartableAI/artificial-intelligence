@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/</loc>
+    <lastmod>2020-08-28T09:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/08/28/this-ai-tool-shows-which-politicians-and-issues-are-getting-the-most-tv-time/</loc>
     <lastmod>2020-08-28T08:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/</loc>
+    <lastmod>2020-08-28T07:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -51,6 +63,12 @@
   <url>
     <loc>https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture</loc>
     <lastmod>2020-08-28T05:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/</loc>
+    <lastmod>2020-08-28T04:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -247,6 +265,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/</loc>
+    <lastmod>2020-08-26T08:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/</loc>
     <lastmod>2020-08-26T08:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -343,8 +367,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
-    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely</loc>
+    <lastmod>2020-08-25T17:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -507,6 +531,12 @@
   <url>
     <loc>https://www.zdnet.com/video/how-to-fight-online-fraud-with-ai/</loc>
     <lastmod>2020-08-25T06:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/gilpress/2020/08/25/bbva-uncovers-the-promise-of-quantum-computing-for-banking-and-financial-services/</loc>
+    <lastmod>2020-08-25T06:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1195,7 +1225,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/in/news/aws-reveals-first-quantum-computing-partners</loc>
+    <loc>https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners</loc>
     <lastmod>2020-08-20T01:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1435,7 +1465,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/</loc>
+    <loc>https://www.gizmodo.com.au/?p=1256892</loc>
     <lastmod>2020-08-19T02:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1627,12 +1657,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
-    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1669,8 +1693,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
+    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/kasiaborowska/2020/08/18/top-3-applications-of-machine-learning-to-transform-your-business/</loc>
     <lastmod>2020-08-18T05:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://apnews.com/b87152f12e274ede8395fc39f3623c4a</loc>
+    <lastmod>2020-08-18T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1735,14 +1771,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.computerworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization</loc>
-    <lastmod>2020-08-17T12:38:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/</loc>
+    <lastmod>2020-08-17T11:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/</loc>
-    <lastmod>2020-08-17T11:53:00-07:00</lastmod>
+    <loc>https://www.infoworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization</loc>
+    <lastmod>2020-08-17T11:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2085,6 +2121,12 @@
   <url>
     <loc>https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html</loc>
     <lastmod>2020-08-14T08:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://sdtimes.com/ai/analyst-watch-the-rise-of-ai-chips/</loc>
+    <lastmod>2020-08-14T08:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

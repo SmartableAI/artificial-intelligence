@@ -3,6 +3,7 @@ category: news
 title: "Artificial Neural Network System (image)"
 excerpt: "POSTECH research team develops an artificial neural network system that recommends plastic molding process conditions. Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions ..."
 publishedDateTime: 2020-08-18T13:34:00Z
+originalUrl: "https://www.eurekalert.org/multimedia/pub/240500.php"
 webUrl: "https://www.eurekalert.org/multimedia/pub/240500.php"
 type: article
 quality: 39

@@ -39,20 +39,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "Carbon Lighthouse's Building Technology CLUES Wins 2020 Artificial Intelligence Breakthrough Award"
-    excerpt: "Service company delivering profitable climate solutions for commercial real estate, today announced that its patented AI-powered CLUES ® platform is the winner of the \"Best AI-based Solution for Real Estate\" award from AI Breakthrough,"
-    publishedDateTime: 2020-08-26T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/carbon-lighthouses-building-technology-clues-wins-2020-artificial-intelligence-breakthrough-award-301118676.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/1160749/Carbon_Lighthouse_Logo.jpg?p=facebook"
-        width: 998
-        height: 524
-        isCached: true
 
 secured: "AblxbnodHVSq9MXbdig7SI6MHIcJ1W/yuXYlb0vv/lRPZezYpF60v8wAJhW2llChSfShx6bu5SImgEVvbktDbqDUqNz7TiMW3rQU++aGNrGl1Yery22BOaPHCdITgkPkzTV3Twd7fIMVRa3GMtuScVH7+7s5IfP4MqxvRFkJ8OBwqJp1Yl9OIF0Hx+z2l8/fnhL7uY4Qxj171v2M33O08wJwNqN3eqp9reAGvmlg8SvbO40bM43p8J7wuKI1ReKSXoVQjWf/czTnlZpDrRiPxTYUpl9N6A9YPdxn5rsS06WQYNPfa7hQxVuDfE53EfAXGkUIWqsK/VPTrCWayVqTglyrbFqgMlVS3HjWqolbcrU=;tzpE7WQju8Y9YVnRlavIsA=="
 ---

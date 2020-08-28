@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "LiDAR is getting so cheap it’d be madness not to use it in self-driving cars"
-    excerpt: "LiDAR sensors are getting so cheap that it makes it hard to understand why any self-driving car company wouldn't bother using them in its vehicles."
-    publishedDateTime: 2020-08-24T07:57:00Z
-    webUrl: "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/"
-    ampWebUrl: "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/amp/"
+  - title: "It Is Nearly Unthinkable That ‘I Think, Therefore I Am’ Applies To AI, Possibly Even Self-Driving Cars"
+    excerpt: "You have undoubtedly heard the famous phrase “I think, therefore I am.” Written oftentimes in its Latin form, the saying is known as ergo cogito, ergo sum. If you want to be smarmy and impress your friends,"
+    publishedDateTime: 2020-08-28T16:39:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 71
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/lidar-huawei-car-autopilot-self-driving-sensor-tech-development-796x447.jpg"
-        width: 796
-        height: 447
-        isCached: true
-  - title: "Self-driving car companies trying virus-killing UV rays to assure riders"
-    excerpt: "A pair of self-driving car startups are offering a solution to commuters shunning shared transportation in the midst of a pandemic: ultraviolet rays. Voyage and May Mobility, two autonomous-vehicle companies that charge riders to go on simple,"
-    publishedDateTime: 2020-08-27T11:16:00Z
-    webUrl: "https://driving.ca/auto-news/news/self-driving-car-companies-trying-virus-killing-uv-rays-to-assure-riders"
-    ampWebUrl: "https://driving.ca/auto-news/news/self-driving-car-companies-trying-virus-killing-uv-rays-to-assure-riders/amp"
-    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/self-driving-car-companies-trying-virus-killing-uv-rays-to-assure-riders/amp"
-    type: article
-    provider:
-      name: driving.ca
-      domain: driving.ca
-    quality: 43
-    images:
-      - url: "https://postmediadriving.files.wordpress.com/2018/09/waymo_minivan_7.jpg?quality=80"
-        width: 2480
-        height: 1600
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F599006572%2F0x0.jpg%3FcropX1%3D284%26cropX2%3D4903%26cropY1%3D0%26cropY2%3D3463"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "HoqEx/RNdy4n70mPJEXzAVwzX44Zkq96/ZaUntzVxF4TtFNrFFsamNgTE8fCEdBjhTM1PPYbAl9GiPygjQdgLqa/WACXE7WuPyoaoB586ZaUM2yv+MGiJWVXS9EBTVK5lvvA6joywlVFjajIhgWKaALpu3eaRnmq/HJsq8X7ouW3BGqg+hifCFT8v2nGtlywOBqWco+LoK1cCmV/54vQk2259y9GXyW8ljfy0PSoz5UPqJTTCkKUOmZ5eMQRfnL294bsaDbxjkP3DsAOcDYfQidfUiuQlLYDktWj8q8HY7erovJMgrXgWGxvbrf7b+G0gB57gIMRTyDp8LvV3CR/DO6bnBONfBdgCP6f5jb/+ME=;AcwKNHAwEQoA0YGtWso2dQ=="

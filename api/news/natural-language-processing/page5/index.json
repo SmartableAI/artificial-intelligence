@@ -2,6 +2,56 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-16-alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants.md",
+      "title": "Alexa and Google Assistant execs on future trends for AI assistants",
+      "excerpt": "Executives leading Alexa and Google Assistant teams say multimodal experiences and unsupervised learning are notable trends for AI assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/alexa-google-assistant.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants/amp/",
+      "publishedDateTime": "2020-07-16T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-richard-socher-natural-language-processing-creates-value-in-the-enterprise.md",
       "title": "Richard Socher: Natural language processing creates value in the enterprise",
       "excerpt": "During a session at VentureBeat's Transform summit, former Salesforce chief scientist Richard Socher spoke about how AI can create value in the enterprise.",

@@ -48,18 +48,18 @@ related:
       domain: businessinsider.com
     quality: 51
   - title: "Astute Recognized for Innovative Use of AI in 2020 Artificial Intelligence Breakthrough Awards"
-    excerpt: "Astute's Crisis Management AI solution recognized for innovation by the 2020 Artificial Intelligence Breakthrough Awards"
-    publishedDateTime: 2020-08-26T14:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200826005454/en/Astute-Recognized-Innovative-AI-2020-Artificial-Intelligence"
+    excerpt: "Astute, Inc., a leader in customer engagement technology, today announced that it has been selected as the winner of the \"Best Transactional Bot Solution\" award in the 2020 AI Breakthrough Awards program conducted by AI Breakthrough,"
+    publishedDateTime: 2020-08-26T12:54:00Z
+    webUrl: "https://www.lelezard.com/en/news-19394436.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 40
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 42
     images:
-      - url: "https://mms.businesswire.com/media/20200826005454/en/704129/23/astute-logo-horz-color.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Liqid Wins 2020 Artificial Intelligence Breakthrough Award"
     excerpt: "AI Breakthrough, a market intelligence organization that recognizes the top companies, technologies and products in"

@@ -8,9 +8,9 @@ webUrl: "https://www.techrepublic.com/article/deepfake-reality-check-ai-avatars-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/"
 type: article
-quality: 61
-heat: 61
-published: false
+quality: 83
+heat: 83
+published: true
 
 provider:
   name: TechRepublic
@@ -22,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
-secured: "/6MhcO6kc8ZrB6Kx0v+CQGmKf8UFEb/1wdfBFaTeMOuga0q1eU8/Ws0zR4qe1bM/xNtplyut+zeFpnA7PygM4Ghvoj19a1TMRBuEx1HMwBp1tIOraLJBsk4n2bv/+rwjLMOVPxSBqDUOBf3ViJsmyCRtP2QcqSaTxu4qTajtiGn5JGRt9fPg9ZEGZ3tKLvB4lPTDNlIxJ1oGwjDCbexO/cQ2sfuOIF4YUpCB9HgGh3C7DJfWjhYV3fTb2snpRHlmWUyN6phiSsPdAcRPUyRw/RqONTrx5LY0XZTM9lKqgcWphkqv2BR5FZmX1ZKGqdmcaeQpITOGPSwKoOyiNg1DWnasoHUEXo4n7UVgNSspm+YV+ZdGvStnuoaWTPOPY/s3tB0yNDnXn4IQ4cDwwLBUaCulTPEFOmfEy0IyJi41eM2ZwoZAr24vc5XA16wQmIBlnKb902Z1oDhixPTGX9U3/nAdJNCV42h76/JwE78QPuT9LzrnHbOT6kLnro0adC61XS5T8poO2rnjUX1pU7orTg30R3CMX5+BpQ5lBHTOLsU=;wWPG05Qp/rfEZnBemgRIUA=="
+images:
+  - url: "https://tr1.cbsistatic.com/hub/i/r/2020/08/28/fda2e537-1cb3-4540-a59c-f222694c0371/resize/1200x/0cda1f628ff0e21a26e6d3cb6b7405bc/synthesia-3.jpg"
+    width: 1200
+    height: 759
+    isCached: true
+
+secured: "opkHasMxivRuXriE8PdH+GBhjdwrsqBGe0n7H8XFUeC6Rb5cirfw3qRD3WUm+sOALlR6JUUtzwf4Na4gHXqXT2WWT8g/ZuUNpiXcnRdEapkRnOEqbsUFjKza5pfIxrOjpKGSkxyUBNS84SSh9OzQJgvxR7ERR/mEGACD6C2Fhj8TFx/rYbu/IKWiMJrwMlMLKqgRnNm/ehn2icqm0H2rzMYSx+tFZRRsLKEKxIY1yhQ8nKj2M1D2RwlYke4n4sSZNeB1p3CqUPjL1nNkIpx9JPtA2YHXYX/WElkXvWk15ZAhGYAfOznCeM+yGWwcmH18EHF7sjq+DNBD4D24iG5DiCm2uyohw9SY4imomcdGID8=;cwAyLy97FEA2rfLvCqJcIw=="
 ---
 

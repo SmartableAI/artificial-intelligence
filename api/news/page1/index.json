@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-28-it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars.md",
+      "title": "It Is Nearly Unthinkable That ‘I Think, Therefore I Am’ Applies To AI, Possibly Even Self-Driving Cars",
+      "excerpt": "You have undoubtedly heard the famous phrase “I think, therefore I am.” Written oftentimes in its Latin form, the saying is known as ergo cogito, ergo sum. If you want to be smarmy and impress your friends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/",
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F599006572%2F0x0.jpg%3FcropX1%3D284%26cropX2%3D4903%26cropY1%3D0%26cropY2%3D3463",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/amp/",
+      "publishedDateTime": "2020-08-28T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-this-ai-tool-shows-which-politicians-and-issues-are-getting-the-most-tv-time.md",
       "title": "This AI tool shows which politicians and issues are getting the most TV time",
       "excerpt": "Stanford University researchers have created an AI-powered TV analyzer that shows you how much screen time different public figures and issues are getting.",
@@ -49,6 +99,56 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach.md",
+      "title": "Deepfake reality check: AI avatars set to transform business and education outreach",
+      "excerpt": "AI avatars and synthetic video production could provide organizations with entirely new capabilities for training and multilingual global communication in the years ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
+      "originalUrl": "https://www.techrepublic.com/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/08/28/fda2e537-1cb3-4540-a59c-f222694c0371/resize/1200x/0cda1f628ff0e21a26e6d3cb6b7405bc/synthesia-3.jpg",
+          "width": 1200,
+          "height": 759,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
+      "publishedDateTime": "2020-08-28T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -363,7 +463,7 @@
       "webUrl": "https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
       "originalUrl": "https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
       "featuredContent": null,
-      "heat": 79,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -402,7 +502,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -452,6 +553,47 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei.md",
+      "title": "TSMC announces its first 3nm AI chip customer – neither Apple nor Huawei",
+      "excerpt": "At TSMC’s 26th Technical Symposium, TSMC officially confirmed that its 5nm and 6nm processes are already in mass production. In addition, the company also announced that",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/",
+      "originalUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/",
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2020/08/colossus-b.jpg",
+          "width": 678,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/amp/",
+      "publishedDateTime": "2020-08-28T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1072,154 +1214,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change.md",
-      "title": "AI buoyed businesses during the pandemic, and could accelerate permanent change",
-      "excerpt": "IPSoft found that most businesses plan to return furloughed workers to their jobs, but many think AI will change or eliminate those positions within the next two years, white-collar included.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/",
-      "featuredContent": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2017/02/24/d1f519cf-0c12-47a0-a0e1-9673f8bddb6f/resize/1200x/2c2823643b451563b36e0582248598ac/automation-jpbs.jpg",
-          "width": 1200,
-          "height": 790,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/",
-      "publishedDateTime": "2020-08-27T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-kneron-launches-its-new-ai-chip-to-challenge-google-and-others.md",
-      "title": "Kneron launches its new AI chip to challenge Google and others",
-      "excerpt": "Fresh off a $40 million Series A round, edge AI specialist Kneron today announced the launch of its newest custom chip, the Kneron KL 720 SoC. With funding from the likes of Alibaba, Sequoia, Horizons Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/",
-      "originalUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/",
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/KL720-2.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/amp/",
-      "publishedDateTime": "2020-08-27T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-moveai-enables-ai-motion-capture-without-the-hassle-for-video-game-production.md",
-      "title": "Move.ai enables AI motion capture without the hassle for video game production",
-      "excerpt": "Move.ai can use artificial intelligence to capture a 3D representation of an actor in a process known as markerless motion capture.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/",
-      "originalUrl": "https://venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/move.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/amp/",
-      "publishedDateTime": "2020-08-27T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

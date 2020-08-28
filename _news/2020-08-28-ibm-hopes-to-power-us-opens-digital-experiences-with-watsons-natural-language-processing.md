@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-exper
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
 type: article
-quality: 79
-heat: 79
+quality: 96
+heat: 96
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/2020/08/28/b59c73bd-e81b-4c3c-8115-c06cc32d2467/us-open-questions.png"

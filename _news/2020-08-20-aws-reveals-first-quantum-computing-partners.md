@@ -3,10 +3,10 @@ category: news
 title: "AWS reveals first quantum computing partners"
 excerpt: "Amazon Web Services (AWS) has announced that it will allow all existing customers to access quantum computers through its cloud service. The quantum computers are early-stage models provided by three technology companies—D-Wave Systems Inc."
 publishedDateTime: 2020-08-20T08:40:00Z
-originalUrl: "https://www.techradar.com/in/news/aws-reveals-first-quantum-computing-partners"
-webUrl: "https://www.techradar.com/in/news/aws-reveals-first-quantum-computing-partners"
-ampWebUrl: "https://www.techradar.com/in/amp/news/aws-reveals-first-quantum-computing-partners"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/aws-reveals-first-quantum-computing-partners"
+originalUrl: "https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners"
+webUrl: "https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners"
+ampWebUrl: "https://www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 545
     isCached: true
 
-secured: "u0CtCG3OH5VPQ7zuxcJvQJINY1XaS2bESQfKDlYO3cGesM8ckUscLrapBaqYWQ8fiKFZ+FmTIL1dOjWVSTp/8+EUIaUbl/kLAsjzHTwPiqM1N8WBcUNjpGUatMQQHAyruMZNZ+BDLDU4YDuY4u/ClSojJCJ88KH4M5N39tY7NrQ2QD/nA7vFybiP+Pxh3jHI2yixICxNqfiVm/anM3kYqv5h5j90D3Hp5b8caWcd4Dd85W14s5VD5eDZpddNK9tpeLYXA888xQrQhzvUn7w1PdaqRUsJ5eIg0LFA3azeFBzFNKjpdxCDEvGlenQZ+tmZTI4IjFvw99V1IvYfWx/3z4wkQhJSUPwHN49OjzeqcvwdHPe6zIgA4UoKRHCyKL3Ju1f+l/vFlRJv2K8kcZnybdhWp+u2FPJPGZJpHKKx27GdxEUrd/nrGp94dhbQppFTWkkz6YNdMxlY6QcLhSC7+Rfn31wZ9NtfUZPue5bk0ZC0LPauN/DSGQWoZU8s2Vm1JYdl73aELgvvgIexWQpQ8g==;ibhPpM5wSGriWFz0kgFrOA=="
+secured: "vIyiVCQzJE8chFSnJD0uQeRd7McVaeLgedvYiKvv+PuTUD2dFfdRHfMj4SO0BoiNq9Ka29uYG8CFOH/C1oSfGfvp+CjQuKmP4q/2nt3OXPHRXnSpZBTx229/RXIsosFoKt+rOUnTY+u0OSYNMNv62TQlSzUyp9RBeczfclzRMZFqcvBY66FFxKqtEZzZnZ9bnzXf2aGnfEVuqylOOgjypUtSsRvD+b2c7H+YSNgYisdkruZAghVzGPWC/2P3lKB8I+O0sMNf8Dv6r+g++u6Q9WGZ55UPl0v0LtVSaHd3OtDvE5naL5pNFb5SZt0+MuMR7rg2qpg0EjeQNByJIxxiAvJgqWJEgJ2dQ9N0bdwKDuU=;LX/BHCpJvQQEHTfc0iGNEg=="
 ---
 

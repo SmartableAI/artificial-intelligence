@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-28T15:56:00Z
 originalUrl: "https://www.eejournal.com/industry_news/mentors-questa-and-veloce-platforms-help-simplemachines-dramatically-speed-development-of-its-first-ai-processor/"
 webUrl: "https://www.eejournal.com/industry_news/mentors-questa-and-veloce-platforms-help-simplemachines-dramatically-speed-development-of-its-first-ai-processor/"
 type: article
-quality: 16
-heat: 16
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"

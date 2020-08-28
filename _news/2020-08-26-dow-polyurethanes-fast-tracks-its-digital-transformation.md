@@ -7,7 +7,7 @@ originalUrl: "https://www.eppm.com/materials/dow-polyurethanes-fast-tracks-its-d
 webUrl: "https://www.eppm.com/materials/dow-polyurethanes-fast-tracks-its-digital-transformation/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 400
     height: 394
     isCached: true
+
+related:
+  - title: "Dow (DOW) Polyurethanes Accelerates Digital Transformation"
+    excerpt: "Dow Inc.’s DOW business unit, Dow Polyurethanes, announced that it is fast tracking its digital transformation by integrating into artificial intelligence and predictive capabilities. This will increase its digital IQ across all business operations."
+    publishedDateTime: 2020-08-28T16:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/dow-dow-polyurethanes-accelerates-digital-transformation-2020-08-28"
+    ampWebUrl: "https://www.nasdaq.com/articles/dow-dow-polyurethanes-accelerates-digital-transformation-2020-08-28?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/dow-dow-polyurethanes-accelerates-digital-transformation-2020-08-28?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "FXuf+CjvJb7kZHve1TDjEzNILAGOhKXmAXAdGmDZq0f/cagZzlrkUTWYkKKE7nAbL9Hh0z++P0kE5se0t+rX494LtqCV4kcPOf5hPBB5HU0rw8L0y4XWss0hDkz3NAXC0IIls6ebvtHK3dbYAxEIBqdHi0zgbgClzxoCRLw5u3+clTlyIH7PsBc8zLRFNNBQ6NiHQxk5VHMfbMg0skqZeg3B6rN5stcYel0MXyaj9X+MUsKEx66+OR/Y/w9w5Aj1omJwvP3LjWx2qsZPa+z+ne7vY1qaiuvCBccbrJvIIOCaKgQtrwqzEHH5nzJeYosS6OL4MDDo11riizSjwoCZUP3aU01DDeuYbi6NXUo8z8ZvBrKc8DO4B2DGUEgkkG1nkrGHHSK/ATg/VaqmzBd5MS3PZmvbvDHB196HJeKgRh06bm9voq1Nh0oL09UsZyXyhs9lPec0YFl9YctvfwL+rUcOFRhvLAC/6WF3XuHVCuFH9+Mt+Gmjtf5PDO+mz+NYqKPUyDqfHbpT8nub2z2rGhMzUWco8tKP44lGua+bnEk=;8KnygkRo1JYjdeUQjOWePQ=="
 ---

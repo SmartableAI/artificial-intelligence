@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "AI Beats Human In Mock Dogfights"
-    excerpt: "An artificial intelligence algorithm beat an “experienced” F-16 pilot in five straight simulated dogfights in a project designed by the Defense Advanced Research Projects Agency on Aug. 20. The pilot was up against an AI system named Heron and and the two duked it out in a Second World War style forward firing gun battle."
-    publishedDateTime: 2020-08-23T23:32:00Z
-    webUrl: "https://www.avweb.com/aviation-news/military-aviation/ai-beats-human-in-mock-dogfights/"
-    type: article
-    provider:
-      name: AVweb
-      domain: avweb.com
-    quality: 37
-    images:
-      - url: "https://s30121.pcdn.co/wp-content/uploads/2019/12/avweb-aviation-search-banner3.png"
-        width: 450
-        height: 375
-        isCached: true
   - title: "AI thrashes human fighter pilot 5-0 in simulated F-16 dogfights"
     excerpt: "In the first contest of its kind, artificial intelligence has taken on a trained US Air Force pilot in a simulation of air-to-air combat. The AI defeated the human with ease, winning 5-0"
     publishedDateTime: 2020-08-25T10:48:00Z

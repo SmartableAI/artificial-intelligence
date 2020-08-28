@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Google Cloud and STS to Automate U.S. Navy Maintenance Inspections Using AI and ML Technology"
-excerpt: "Google Cloud and Simple Technology Solutions (STS)—a Google Cloud partner and small business specializing in multi-cloud solutions for"
-publishedDateTime: 2020-08-27T12:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/google-cloud-and-sts-to-automate-us-navy-maintenance-inspections-using-ai-and-ml-technology-301119385.html"
-webUrl: "https://www.prnewswire.com/news-releases/google-cloud-and-sts-to-automate-us-navy-maintenance-inspections-using-ai-and-ml-technology-301119385.html"
+excerpt: "WASHINGTON and MOUNTAIN VIEW, Calif., Aug. 27, 2020 /PRNewswire/ -- Google Cloud and Simple Technology Solutions (STS)--a Google Cloud partner and small business specializing in multi-cloud solutions"
+publishedDateTime: 2020-08-27T12:20:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-cloud-and-sts-to-automate-u-s-navy-maintenance-inspections-using-ai-and-ml/article_94a8a2b2-a765-5bcd-9d3a-d1f62501ed19.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-cloud-and-sts-to-automate-u-s-navy-maintenance-inspections-using-ai-and-ml/article_94a8a2b2-a765-5bcd-9d3a-d1f62501ed19.html"
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -53,6 +53,6 @@ related:
         height: 911
         isCached: true
 
-secured: "2pAJ6UPgmXju2MOJsFHDnp0NM2LTL1nJJwjoWuG/f4NZvrHO18v9PwO3p3uHMyo3XjZhG+6poN8bmgRJOrI5A+qpdP5g9lsaIif5YQ/7YDwHmX6jE7rUYIShxrxWxk1g1lHsCJIKdr1A8y6QdpO74ScsyNrRCCmjErssJVO/Ybh9JmukifbxPufjAxbvDUPtl1lfU8VAh6miTWhuG5/44WNhB4dWJHOffiUc8hhLy4gOR6//uRzQUPyPIeERI02FDVR31dGZ+MbQTOAjudVoEdJ6fr0gd1VjEHEmIlx0NEhCY8exwduKIsUK9qSMyJr7W27bmMrKb3ln5d+IFe5nPwweKvWoHJZYtUcgSm6VGhY=;Ys8WtxK+nuODiMnTbzBwSQ=="
+secured: "JEehzS0utWKrxDU9t5fZ35f39kDhhhaRKQ2fDPQrOQonYEoNxLSu21ksh33nasUD9zUkrfoiwE0KhNln20ZskkIncy0i0ehx6pg7E+q/EgUrndslSoAfOk6WBv1OOvwaApkf1/M8P+gGXIyUV08Ujy6DARUSDy+atxKDA3RkykmMX8pCEXvW4C2LI+TZraPDbC+LyTRcrE/YFLOoFo4cr0nod5qeO1sD1/PHYIJyjJuExphHidDZjviZ1eVFkoN1AZrD9p3VaySs0fdSUj7a548hLa2AqgiQkW+NLIZnO5VyyR1UQ/rk70Csz0gBJnNGHI4b9Gfq7ow2YCqwjfvMJcaVMMfjb5DGlAUGCKlSZ6k=;2VcKNRBnALUFd4vc3wHpmw=="
 ---
 

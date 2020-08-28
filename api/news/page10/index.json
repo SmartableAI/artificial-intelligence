@@ -2,6 +2,246 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-08-19-webchartai-accelerates-machine-learning-adoption.md",
+      "title": "WebChartAi Accelerates Machine Learning Adoption",
+      "excerpt": "\"WebChartAi lowers the technology barrier to entry, enabling a broader base of companies to more easily harness the power of NLP-driven task automation.\" In machine learning applications utilizing natural language processing (NLP),",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/webchartai-accelerates-machine-learning-adoption-1029517519",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/webchartai-accelerates-machine-learning-adoption-1029517519",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/webchartai-accelerates-machine-learning-adoption-1029517519",
+      "publishedDateTime": "2020-08-19T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways-by-2021.md",
+      "title": "UK to consult on tech that could see self-driving vehicles on freeways by 2021",
+      "excerpt": "Self-driving technology could transform the way people undertake car journeys. The U.K. government's announcement was welcomed by a number of organizations. The U.K. government has started a consultation on the use of Automated Lane Keeping System technology on Britain's freeways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html",
+      "originalUrl": "https://www.cnbc.com/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html",
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106670012-1597848598442-gettyimages-1060939028-img_7450.jpeg?v=1597848845",
+          "width": 3648,
+          "height": 2736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html",
+      "publishedDateTime": "2020-08-19T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-microsoft-is-helping-the-government-build-ai-disaster-response-tools.md",
+      "title": "Microsoft is helping the government build AI disaster response tools",
+      "excerpt": "It's teaming up with the Department of Energy to help first responders. The Department of Energy is teaming up with Microsoft to build AI tools that will help prevent and manage natural disasters, the agency announced today. Together, they’ll co-chair ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/microsoft-doe-ai-disaster-response-first-five-142941175.html",
+      "originalUrl": "https://www.engadget.com/microsoft-doe-ai-disaster-response-first-five-142941175.html",
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Ffe9da3c0-e226-11ea-b6dd-8240158dee7b&client=amp-blogside-v2&signature=c10d5efc9e1cf8197f8b1e613eee54395e6e949c",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/microsoft-doe-ai-disaster-response-first-five-142941175.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-doe-ai-disaster-response-first-five-142941175.html",
+      "publishedDateTime": "2020-08-19T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-deep-learning-market-new-innovations-trends-research-global-share-and-growth-factor-till-2027.md",
+      "title": "Deep Learning Market New Innovations Trends, Research, Global Share and Growth Factor till 2027",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Aug 19, 2020 (Global QYResearch via COMTEX) -- The global Deep Learning Market is estimated to grow at a healthy CAGR of over 51.1% from 2020 to 2027 and reach a valuation of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-new-innovations-trends-research-global-share-and-growth-factor-till-2027-2020-08-19?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-19T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-artificial-intelligence-ai-market-is-estimated-to-achieve-cagr-of-49-by-2027.md",
+      "title": "Artificial Intelligence (AI) Market is Estimated to Achieve CAGR of 49% By 2027",
+      "excerpt": "The global Artificial Intelligence (AI) Market is estimated to grow at a healthy CAGR of over 49% from 2020 to 2027 and reach a valuation of over US$ 49 billion. The report provides an analysis of Artificial Intelligence (AI) Market for the period 2016-2027,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-is-estimated-to-achieve-cagr-of-49-by-2027-2020-08-19",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-19T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-is-your-bi-team-ai-ready-enter-automl-20.md",
       "title": "Is your BI team AI ready? Enter AutoML 2.0",
       "excerpt": "The advent of “AutoML” platforms has allowed data science teams to accelerate the testing and training of ML algorithms and accelerate the development of predictive algorithms. However ...",
@@ -657,16 +897,16 @@
       "title": "How Ancient Rules of Logic Could Make Artificial Intelligence More Human",
       "excerpt": "Many attempts to develop artificial intelligence are powered by powerful systems of mathematical logic. They tend to produce results that make logical sense to a computer program — but the result is not very human.",
       "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/",
-      "originalUrl": "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/",
+      "webUrl": "https://www.gizmodo.com.au/?p=1256892",
+      "originalUrl": "https://www.gizmodo.com.au/?p=1256892",
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/19/aristotle.png",
-          "width": 1051,
-          "height": 597,
+          "url": "https://images.theconversation.com/files/348495/original/file-20200720-23-mxxnlu.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
+          "width": 754,
+          "height": 922,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -928,246 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-how-duolingo-uses-ai-in-every-part-of-its-app.md",
-      "title": "How Duolingo uses AI in every part of its app",
-      "excerpt": "We spoke to von Ahn about all the ways Duolingo uses AI and then ... Knowing how to translate individual words isn’t enough for effective communication in a new language. Sentence construction ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/18/how-duolingo-uses-ai-in-every-part-of-its-app/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/duolingo-luis-von-ahn.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/18/how-duolingo-uses-ai-in-every-part-of-its-app/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/how-duolingo-uses-ai-in-every-part-of-its-app/amp/",
-      "publishedDateTime": "2020-08-18T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-chinese-ai-giant-blacklisted-by-trump-thrives-in-virus-era.md",
-      "title": "Chinese AI Giant Blacklisted by Trump Thrives in Virus Era",
-      "excerpt": "The Hong Kong-based startup’s revenue surged 147% to 5 billion yuan ($720 ... to develop its own tech industry and overtake the U.S. in key sectors. Read more: AI Unicorn SenseTime Is Said to Mull Hong Kong, China IPO In the case of facial recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iclFGm8eeMXk/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "publishedDateTime": "2020-08-18T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-global-facial-recognition-company-working-closely-with-nz-govt.md",
-      "title": "Global facial recognition company working closely with NZ govt",
-      "excerpt": "NEC itself is on the wrong side of a pushback against facial recognition in the US. There, three tech giants Amazon, IBM and Microsoft in June called a halt to supplying the tech to US police in a moratorium over brutality against black people. But NEC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvnz.co.nz/one-news/new-zealand/global-facial-recognition-company-working-closely-nz-govt",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/08/19/iStock-1188510725.jpg?w=700&h=393.75&fit=crop&auto=format",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDglMkYxOSUyRmZhY2lhbC1yZWNvZ25pdGlvbg==",
-      "cdnAmpWebUrl": "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDglMkYxOSUyRmZhY2lhbC1yZWNvZ25pdGlvbg==",
-      "publishedDateTime": "2020-08-18T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TVNZ 1",
-        "domain": "tvnz.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-the-sound-of-indias-ai-potential.md",
-      "title": "The sound of India’s AI potential",
-      "excerpt": "On August 15, India’s Independence Day, it’s customary to sing Jana Gana Mana: the Indian national anthem, originally composed by the poet Rabindranath Tagore and adopted as the anthem after India gained full independence.  This year, together with Prasar Bharati and Virtual Bharat, we offered Indians",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/500d84ff-924b-400e-9b5f-0c244bc858b2_1.max-1300x1300.png",
-          "width": 1260,
-          "height": 661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/amp/",
-      "publishedDateTime": "2020-08-18T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-is-anthos-the-edge-google-needs-in-enterprise-cloud.md",
-      "title": "Is Anthos the edge Google needs in enterprise cloud?",
-      "excerpt": "In 3rd place in the cloud wars for years, the emergence of Google's Anthos last year was a welcome move that makes a versatile multicloud future for businesses not just a possibility, but a practical option today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/10/2f5cb054-c9f7-4ebb-9c6f-9c1698ba44e9/thumbnail/1200x675/422a12290de5e69249993f300448f6ca/thumb.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/",
-      "publishedDateTime": "2020-08-18T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

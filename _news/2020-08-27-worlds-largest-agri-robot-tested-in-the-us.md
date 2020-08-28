@@ -28,7 +28,7 @@ related:
   - title: "British research institute tests world’s largest agri robot in U.S."
     excerpt: "Experts from British research institute Rothamsted Research are currently testing the latest in artificial intelligence for farming. It is the world’s largest agricultural robot, the Field Scanalyzer."
     publishedDateTime: 2020-08-28T10:41:00Z
-    webUrl: "https://www.poandpo.com/agrifish/british-research-institute-tests-worlds-largest-agri-robot-in-us/"
+    webUrl: "https://www.poandpo.com/agrifish/british-research-institute-tests-worlds-largest-agri-robot-in-us"
     ampWebUrl: "https://www.poandpo.com/agrifish/british-research-institute-tests-worlds-largest-agri-robot-in-us.amp"
     cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/agrifish/british-research-institute-tests-worlds-largest-agri-robot-in-us.amp"
     type: article

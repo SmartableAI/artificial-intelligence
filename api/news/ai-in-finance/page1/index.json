@@ -52,6 +52,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-26-why-banks-need-to-sharpen-their-focus-on-financial-crime.md",
+      "title": "Why Banks Need To Sharpen Their Focus On Financial Crime",
+      "excerpt": "As banks contend with the economic fallout from the Covid-19 pandemic, their ability to respond to financial crime threats is not keeping pace with the sophistication and sheer number of incoming attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/",
+      "originalUrl": "https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43faec352da179b5f176ea%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/amp/",
+      "publishedDateTime": "2020-08-26T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-ghanaian-fintech-wins-ecobank-groups-2020-fintech-challenge.md",
       "title": "Ghanaian fintech wins Ecobank Group’s 2020 Fintech Challenge",
       "excerpt": "All finalists were officially inducted into the Ecobank Fintech Fellowship programme to explore commercial partnerships with the pan-African banking giant",
@@ -80,6 +130,56 @@
         "name": "BiztechAfrica",
         "domain": "biztechafrica.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-bbva-uncovers-the-promise-of-quantum-computing-for-banking-and-financial-services.md",
+      "title": "BBVA Uncovers The Promise Of Quantum Computing For Banking And Financial Services",
+      "excerpt": "Will quantum computing drive financial services to a new level of digital transformation? BBVA has been investigating its impact on complex banking, investment and trading challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/08/25/bbva-uncovers-the-promise-of-quantum-computing-for-banking-and-financial-services/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2020/08/25/bbva-uncovers-the-promise-of-quantum-computing-for-banking-and-financial-services/",
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4483a57c5b9c6ac1645776%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1268,97 +1368,6 @@
       "provider": {
         "name": "Finextra",
         "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-25-ai-in-fintech-market-competitive-analysis-market-entry-strategy-pricing-trends-sustainability-trends-innovation-and-technology-evolution.md",
-      "title": "AI in Fintech Market Competitive Analysis, Market Entry Strategy, Pricing Trends, Sustainability Trends, Innovation And Technology Evolution",
-      "excerpt": "Data Bridge Market Research published a new report, titled, \"AI in Fintech Market Global Growth, Trends, Opportunities and COVID-19 Impacts\" It has been accepted as true that the finest market research report is the one which is pertinent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-competitive-analysis-market-entry-strategy-pricing-trends-sustainability-trends-innovation-and-technology-evolution-2020-07-25",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-25T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-25-uae-china-to-collaborate-on-fintech-ai-as-part-of-chinas-belt-and-road-initiative.md",
-      "title": "UAE, China to collaborate on fintech, AI as part of China's belt and road initiative",
-      "excerpt": "Dubai International Financial Centre has signed a memorandum of understanding with China’s Jiaozi Fintech Dreamworks as part of China’s belt and road economic initiative to co",
-      "sourceUrl": null,
-      "webUrl": "https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vid.alarabiya.net/images/2020/02/11/e79c4b09-e7dc-4d68-8c39-7489ad4704ae/e79c4b09-e7dc-4d68-8c39-7489ad4704ae_16x9_600x338.jpg?width=466",
-          "width": 466,
-          "height": 263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://english.alarabiya.net/en/amp/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative",
-      "cdnAmpWebUrl": "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative",
-      "publishedDateTime": "2020-07-25T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "العربية.نت",
-        "domain": "alarabiya.net",
         "images": null,
         "publishers": null,
         "authors": null

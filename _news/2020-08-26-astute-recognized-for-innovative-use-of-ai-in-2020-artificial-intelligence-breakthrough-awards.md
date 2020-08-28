@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Astute Recognized for Innovative Use of AI in 2020 Artificial Intelligence Breakthrough Awards"
-excerpt: "Astute's Crisis Management AI solution recognized for innovation by the 2020 Artificial Intelligence Breakthrough Awards"
-publishedDateTime: 2020-08-26T14:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200826005454/en/Astute-Recognized-Innovative-AI-2020-Artificial-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20200826005454/en/Astute-Recognized-Innovative-AI-2020-Artificial-Intelligence"
+excerpt: "Astute, Inc., a leader in customer engagement technology, today announced that it has been selected as the winner of the \"Best Transactional Bot Solution\" award in the 2020 AI Breakthrough Awards program conducted by AI Breakthrough,"
+publishedDateTime: 2020-08-26T12:54:00Z
+originalUrl: "https://www.lelezard.com/en/news-19394436.html"
+webUrl: "https://www.lelezard.com/en/news-19394436.html"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200826005454/en/704129/23/astute-logo-horz-color.jpg"
-    width: 1200
-    height: 627
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -83,6 +84,6 @@ related:
       domain: benzinga.com
     quality: 19
 
-secured: "/u0EFWifcCDgtLWJ4t2rc0eSkjznbmtq548VmeNALJePwGWzepSrQJydunJJsC3PpYYlQqLgK8V3wXxSzzLDRLe4ixW/puaBr35F7A8p2rjoGwRKfWnwAtkvZ14yuvj8u4yDLQQNekwHKE0UaWr1VHhG7wh0/V9kQpDwRGGj+Iu+2/F+pQkwitsjjfZlrXgbbvjI0nwaoMyCczI7Fl3GHnaBApHeQVnZVq7mX6WAOP4apwUtOtrjPeB7aa5RKisX77MU3HPYSrK5Spg3C3sZh5NB66Riy35JA5tkEaOehTZSL7R0sDjiggSkaLVM6MhkSb5RllSNH8mXSq9gPkoBNYHmImHPWLLJQsKY0mHDAYs=;cE4BRtfBDELq+NbTFxDwcQ=="
+secured: "1Ikmul6FJS1vfvPKrmXwBxxzmmDLT2oCKS7TFgyyS+L9FBwFuegrehpd6fsRLZU67bUQ/aPQJvCkAR66maqgkmZ5fg+4udUU4nyeT65aGyJ/YXmnOwyyIJTcCHKSYVgEuC5fgU86ldbRtdF31boCh3oPLzi08bSf6jQv09Ye8pS6XrLNS6whv/f9I8ahDapgxNH+oz/Ljbx58s51imDdoSUjzf+BLreC0JnGVBBaf1sUO/nVtbT0mX4ujCuxtbX8sQ1mMEpI5xMS9xGEFDhG4laygcfKRI3nKMuWAy41TzKyZuyimros8LYdY1BG5KTridAVdylY4TVbjtqTVNBQ+tNhkGMtBUsATTay3bwfc/Y=;rMISZ+Q7EZLmLVNHHZHw+w=="
 ---
 
