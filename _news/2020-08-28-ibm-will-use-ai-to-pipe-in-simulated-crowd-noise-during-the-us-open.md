@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated
 ampWebUrl: "https://venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all"
@@ -30,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "Y4ZuhdzcMGximshkw5whsjEITFYlyoQ1UElHaL6JuM9oHWNCwXLBXZgh6qcWEOOptCA1ZbWuzyrw1FPurhMwdX200AVRCf49chtakF0UYELEIBE6ZWvfqhx76oeveFb9Sx5Nnw5uG4BN2O43syP17d/XmvvXyPayGborZ7F+TTOPOKh5WvB35RB4A+4raubNm1YJ3nR2daymLuI/mXiICKJfRYVKjpWtD8MYpqJggYo3sigx553uZZ1Vwdp4UC/m6qhDvdInEPhvS5gghgoM41RG1AYfY5+tmRCTsqgxEwj9MtjHOQujuRlSmKapFph+8GYoH+zda/NPLUHw9Ig5ytPTRiqAkZoq+S+6Yb0vIG8=;CTvWKkwSrSGnQhjvBvfhzQ=="
+secured: "PR+BV82VsqDiwK6V/pgxFs72LFdp4URY7F4uxq/hJhxQL45uHTfVmrDU75KdMdYP7uevYOWd+aEdgQ/xz6hQMSwfBBabk2mRtpJmyvM1xFpE3ue3PA75DH5JPRHrlvz+mi3KN2yLmM0Kd/fMrY9baqpOvWOm8gbz/HqTFhw/IKV9M5Bi5i21SEtgcYvcIiJTiR8dGcmfM4H23LnIFV46betWFTFrM4FPdLEXFy7vCa4ilpR3hguRkDG6euAImDOneYn1WMp8vJYxT+6PdNvZYkvTxmYF3ZB9fY/K5MgLB0PM7jB9H69ps0i/1HJIE5qmJWP/QaLZuTG9nWQoI8bePB9+oELRUVWcc2gDxvSTM5Teh60YNSG4tYbahXSVrjRExqqfn3amNWtpx9lKDgf/P4ogo0BP5s8MaOS+BvAtoAFLShCNZ5kDFuWjFcti7dFkcpUCia8l6FTGYCKyFsbB2fpMp8TNxFDqcD+VX9HAaeaGF8qC35E0PX001ct2f0Lvl6zGESMGRNiRYNU86VbaeSeddPBe9qxy4l3K/AWRsBs=;ojQUk/tzmOMRvDWFME9i5g=="
 ---
 

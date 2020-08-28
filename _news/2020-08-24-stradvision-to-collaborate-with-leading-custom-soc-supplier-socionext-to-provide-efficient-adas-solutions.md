@@ -1,27 +1,27 @@
 ---
 category: news
 title: "StradVision to collaborate with leading custom SoC supplier Socionext to provide efficient ADAS solutions"
-excerpt: "StradVision has announced a collaboration with Socionext Inc., a leading supplier of System-on-Chip (SoC) solutions, to bring"
+excerpt: "StradVision has announced a collaboration with Socionext Inc., a leading supplier of System-on-Chip (SoC) solutions, to bring StradVision’s deep learning-based camera perception software SVNet, to the global market."
 publishedDateTime: 2020-08-24T21:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions-301117303.html"
-webUrl: "https://www.prnewswire.com/news-releases/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions-301117303.html"
+originalUrl: "https://apnews.com/PR Newswire/0f7c90ea95af269d94b86c19e9136ec1"
+webUrl: "https://apnews.com/PR Newswire/0f7c90ea95af269d94b86c19e9136ec1"
 type: article
 quality: 7
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook"
-    width: 1413
-    height: 740
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -54,6 +54,6 @@ related:
         height: 480
         isCached: true
 
-secured: "2M+McBjWcxB4HvIKLLT3QhcjMh4LE2be6f3TXzaeQ5zehj+LO1rcMw2CPqBqcDQgSeWiOfBvS0sX26+dL264aGNqFklmZCg2V+WPXA4iTJZfYRByD+wW78ymlgD1o43+TEEskP7euUy7ZwdsHObyjQe6Ze0JdvlmT2U6fPyca3jN8TGMC86jMAPfwtiZpl3yPxmddshRmii6ELsV9wAG1ydpY3F2UYk7/Irh6KOtw4dRZtjvOeDcefCscAhWTD4Y+YyfK1YyD2IHjcpOBGEEmSfbVKFCEdt8SGHnQyZT6mxgS/Sxkq/VFgFBbNwRKK2PMTH4hPmnvgq7Ql+OkSGUnh9vS3gLypnHJ9yQgq2vzCDP4SI5yi0wpy57f391NvAM4zi936netDibqiAwcpjgjnhQqvP0JcRm5ujw2/f2qCHpS9Z8+6mqlO38kbnHhdMucGgIkaKY5HGj/ZfgktkQBTfX2+TXRkGU1HAZRiNG3YBZ6TjEl4ImC80SngNrkBLX+3AZ8W7DgDPRgU9DsLYytw==;tTfEMUp4EhKknEBVeIKxzw=="
+secured: "LFu/nmlW47huPIBMFw4KCfR3pP9p4YfRTGNwBO4YSpXkCMhV/hwuFtPIoa6EOE40MYogvVO7rT6kmq/xLX9AU/Mmq44mnpSMp1PjGJmh0kjrv7dxcUUVeL6/Z+q8L5vkpuD3vnXa1QNtmb72XMbIUS/2efN3CWTjCCsP4b8tjW2y2YU14VSC4k49xwuoyeSIP3VBMwNUJKEH/RkW60eAFBFgbGoHPep8iEFfKnWmiZ3iqha40KnKZmRwLdcq6heSJAIdqLn8TFNhx7b/WAon/79NP1mRbB80DsymYVkq+kwnNLejSaSySLXtrmkm3Z76oOImtOH1D2dyrwB8oT7kf90uFc4DdBpc7891gJHQe+A=;kYgA2Y8ulqWPB7/3/rTSCQ=="
 ---
 

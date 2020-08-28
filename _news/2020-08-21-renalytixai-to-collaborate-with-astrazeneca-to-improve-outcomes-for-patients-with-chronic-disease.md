@@ -3,6 +3,7 @@ category: news
 title: "RenalytixAI to Collaborate with AstraZeneca to Improve Outcomes for Patients with Chronic Disease"
 excerpt: "(GLOBE NEWSWIRE) -- Renalytix AI plc (LSE: RENX) (NASDAQ: RNLX), today announced a collaboration with AstraZeneca (LSE/STO/NYSE: AZN) to develop and launch precision medicine strategies for cardiovascular,"
 publishedDateTime: 2020-08-21T07:00:00Z
+originalUrl: "https://apnews.com/bb576a57c6cffad3a648ae0c5ea6e32d"
 webUrl: "https://apnews.com/bb576a57c6cffad3a648ae0c5ea6e32d"
 type: article
 quality: 26

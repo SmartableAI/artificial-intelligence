@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/ddn-recognized-for-inno
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://mms.businesswire.com/media/20200826005454/en/704129/23/astute-logo-horz-color.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Liqid Wins 2020 Artificial Intelligence Breakthrough Award"
+    excerpt: "AI Breakthrough, a market intelligence organization that recognizes the top companies, technologies and products in"
+    publishedDateTime: 2020-08-28T15:17:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/liqid-wins-2020-artificial-intelligence-breakthrough-award/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 37
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/shutterstock_oracle-405x228.jpg"
+        width: 405
+        height: 228
         isCached: true
   - title: "Cognite Recognized for Predictive Analytics Innovation with 2020 Artificial Intelligence Breakthrough Award"
     excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in"

@@ -24,17 +24,6 @@ images:
     height: 499
     isCached: true
 
-related:
-  - title: "Speechmatics and Prosodica partner to create better caller experiences using any-context speech recognition"
-    excerpt: "Prosodica develops analytics applications that are delivered through Vail Systems ’ carrier integrated enhanced network services platform for call centers. These applications integrate proprietary voice analysis technology with Speechmatics any-context speech recognition technology to generate next-level insights from recorded calls."
-    publishedDateTime: 2020-08-25T23:08:00Z
-    webUrl: "https://www.cambridgenetwork.co.uk/news/speechmatics-and-prosodica-partner-create-better-caller-experiences-using-any-context-speech"
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
-    quality: 1
-
 secured: "kplOZ64jgxAisE2xYTtz98dOQBeAP031K/YeTcqcni5aCcxaXecKoz3SWJsjBRv2wdfTnlF5RKQyVlg7hqDj90uLLITi6hlN62ALgOYcCdgAbKvBLSIOAHnEISKxmm+rTU4xDdxST3XFTzvVe6Nj3Ac1ljw4EXXvKp0gbn6EcZDORSEWBuNPbjsom5EIGT12QV559iXZ2m/ineQZYKR+LdJiDtmzaKeM3KgLV2fWDllO/AgTeMGbicX9dzJwwtretB+cgYjqheN488CzzzE36JfJhIPpdd2b6ffnoc6sswCbYRWEVskQfq2f3V9Mx55LzafePcvJu0OFrx+pFifRjssz8UO84+D787qhP1t0UD0cvIrIDT1vCJ+1Z9SSjHwNcyo4gt7zUAexCHrJjw5xTpn9PtaHZqfolCBbEzQx+FEw07NqI7f5gstQfy98ozC9K1UbPtwoE3Cz/HgZzsWb83M9UNe5GdKCmW9dV05vzUHoJC6n8NQBvqQcflHJYoiL+IcQ9jkku+W+wRd3KLy6XQ==;hO9EKM3tFNGNVew9IZ9Qlw=="
 ---
 

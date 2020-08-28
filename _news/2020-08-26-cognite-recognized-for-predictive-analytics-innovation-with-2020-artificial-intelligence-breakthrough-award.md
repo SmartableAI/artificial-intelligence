@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Liqid Wins 2020 Artificial Intelligence Breakthrough Award"
+    excerpt: "AI Breakthrough, a market intelligence organization that recognizes the top companies, technologies and products in"
+    publishedDateTime: 2020-08-28T15:17:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/liqid-wins-2020-artificial-intelligence-breakthrough-award/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 37
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/shutterstock_oracle-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
 
 secured: "mppFUhWyz+q+9UQKy90i9HRhU977Z+WzLfUQ+l2CVCkCOTYANVrQshBFDFqcLupchcbvXZdjYiyBr2SPEvcHFFgZD1eaLfo5SRO899XcOg9DrKt6Nd/oBon2rtnWHO0m2K4YbYSIAqOUQ+2LeaejrbRToTwspkj9Pqj4sdIa/JsrBnQ5rE2q7f8pQbcxfDZlJ7zxzSDNhqEME2dlQC24Q046M07LxH6EZCi8qVPfhmkrks8/T2/WyRTPyHMaLQqHzlAQqdJ1kv9oQUedtyMTFBd3BPEEeMhXbJsOdeSScLsxrU6NjQh6k14qfqMKOwo4wrPryxF2WJXM39UfV5BieJr1lm1fpWn27sLJFm9ggIg=;ZDIsLAcsLabHi/ghdpr+3A=="
 ---

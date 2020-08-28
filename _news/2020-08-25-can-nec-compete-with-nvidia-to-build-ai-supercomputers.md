@@ -3,6 +3,7 @@ category: news
 title: "Can NEC Compete With NVIDIA To Build AI Supercomputers?"
 excerpt: "SX-Aurora TSUBASA, which will allow NEC’s vector processors applicable for AI and ML workloads. NEC has been renowned for its vector processors which is preferred while addressing massive amounts of statistical data and complex ML applications."
 publishedDateTime: 2020-08-25T08:34:00Z
+originalUrl: "https://analyticsindiamag.com/can-nec-compete-with-nvidia-to-build-ai-supercomputers/"
 webUrl: "https://analyticsindiamag.com/can-nec-compete-with-nvidia-to-build-ai-supercomputers/"
 type: article
 quality: 39

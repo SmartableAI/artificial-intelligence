@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "KSV announces voice biometrics deployments, Speechmatics signs two new speech recognition partners"
-    excerpt: "Voice biometrics from Kaizen Secure Voiz (KSV) are being used by a national security firm with hundreds of employees, more than half of whom are mobile guards in the field, to track the time and"
-    publishedDateTime: 2020-08-25T15:47:00Z
-    webUrl: "https://www.biometricupdate.com/202008/ksv-announces-voice-biometrics-deployments-speechmatics-signs-two-new-speech-recognition-partners"
+  - title: "Speech Recognition Gets an AutoML Training Tool"
+    excerpt: "AutoML, the application of machine learning to create new automation tools, is branching out to new use cases, making itself useful for particularly tedious data science tasks when training speech recognition models."
+    publishedDateTime: 2020-08-27T20:38:00Z
+    webUrl: "https://www.datanami.com/2020/08/27/speech-recognition-gets-an-automl-training-tool/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 25
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
-        height: 499
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2014/09/speech_recognition_1.png"
+        width: 492
+        height: 328
         isCached: true
 
 secured: "lIufoAEJH+9yd8CXILUhZ5WnWk8Rttl8rSGPj3N1MN/t+2jtJ1Fr+D3dm2JcInaWnhSZE+A1MGb/LoQOtffHTlE0RZw96VORhJojMjcF6Zox0RpzI15I5LqTOajneDCV5J7qxuISmo4PkpH+ckrAoGmeM+E+X0rdQSWSiFsuhKdfNFjAxwi7HI5hevzaMQYYfFzJwqldbHyVPttkv+YsOtl/eO+e7Tl9/4XDhHkze/DPbKLgat7uCfnnTJJWhBWkwLfNfDcy/AfJmpB8LMA/h+X+GV2Kou1Dqeek1hMl48KCaJqPn4hpj2kOanUTLo7yhIve+pdM+xcg1XVE1dtyxXh255UCcflXYDAfkcDVk30=;xlW/bUs+66SaY7aHRSHrcQ=="

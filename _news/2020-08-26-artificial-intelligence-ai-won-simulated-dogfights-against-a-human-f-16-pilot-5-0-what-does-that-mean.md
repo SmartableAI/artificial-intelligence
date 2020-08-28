@@ -70,20 +70,6 @@ related:
         width: 450
         height: 375
         isCached: true
-  - title: "Top gun loses dogfight with AI computer"
-    excerpt: "A top US fighter pilot has been comprehensively beaten in a series of simulated aerial dogfights by a computerised rival running an artificial intelligence algorithm.The victory for AI over the human"
-    publishedDateTime: 2020-08-23T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/top-gun-loses-dogfight-with-ai-computer-lmt7vf0z3"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 37
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fbf3fc15e-e55a-11ea-9b25-18353d361fa2.jpg?crop=661%2C372%2C9%2C21&resize=685"
-        width: 661
-        height: 372
-        isCached: true
   - title: "AI thrashes human fighter pilot 5-0 in simulated F-16 dogfights"
     excerpt: "In the first contest of its kind, artificial intelligence has taken on a trained US Air Force pilot in a simulation of air-to-air combat. The AI defeated the human with ease, winning 5-0"
     publishedDateTime: 2020-08-25T10:48:00Z

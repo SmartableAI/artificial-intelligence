@@ -1,25 +1,25 @@
 ---
 category: news
 title: "HGS DIGITAL Joins AWS Contact Center Intelligence Solutions Partner Program"
-excerpt: "HGS Digital LLC, a subsidiary of Hinduja Global Solutions Ltd (listed in BSE & NSE), today announced its participation as an Amazon"
-publishedDateTime: 2020-08-24T19:06:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-301117280.html"
-webUrl: "https://www.prnewswire.com/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-301117280.html"
+excerpt: "services such as Amazon SageMaker, Amazon Comprehend, Amazon Transcribe, and Amazon Lex, to gain greater efficiencies and deliver increasingly tailored customer experiences. With 61 delivery ..."
+publishedDateTime: 2020-08-24T19:24:00Z
+originalUrl: "https://www.newswire.ca/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-888542632.html"
+webUrl: "https://www.newswire.ca/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-888542632.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Newswire
+  domain: newswire.ca
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+  - url: "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png"
     width: 600
     height: 315
     isCached: true
@@ -76,6 +76,6 @@ related:
       domain: business-standard.com
     quality: 29
 
-secured: "imOYXussRF4HlKrj0UpxvmYUeMNIblko5CFaWe8M3UpNoq+9WinCPqfSeA4UjlbiXpB5fvfs4DTxelGrzi1baEJx5xQCJyr6Hh8Bg8+AnuxM+78zbELCCOMlJHg3xf/lUDwiK7DDcJuLWnAmITUyCYTUE24x3q81K9b98ThCRlpy4Rx3hZDlpb/rUdPMNtR3ZO78vx6EUuw3TQVNUpWJIO6SR7DUHZME05xUoE7vUYLmzvb/kc4Chueq23d6F7/Er5EIs3SdailJ7b/Uc+3nHsjnVdLbQQHW48YU++ho8BZtERNTe4ZHWCYHFy2sm5PVO/qCMHYM67IB0lljuOCzQRa9ObgEwBwScxVngBHa3DU=;ZVXQ73/0k4dJjrDA41Iqww=="
+secured: "4d02b4pWMhc4cdNS+FqCGRwFUVuYNp/ctAgP5psBMMBw3aTzUQ4UVNP9Mes5SxDUT2uHE5EJkJGO/zWwAuqiL56BcBClk5FIjhBguKKY7DqtslsB9jeMFZEKVgQ/DM92hb+SaKXuH9yxi0Z+RKUZd3ZPu+mgT+YsxyTgJPmacLIVmr3BlNko6QZuxJOJm4jKbv1x83nmBhN986EOME0EPtbMU5sk00IHsjsx3gJFh+0lRo28NjBS9T8ELFBTFPErKGblXEYH2piun+8VUxn6mOpsS6PNallat9ChfADvqWU01qOoW6fQR3XfPrgR9jp5kirKp1D1t8pfxaOrl/bRY0zrF5RNIzLRKxmtJ3fD2xw=;pgQ+uQujIO28y3XRn4YSJg=="
 ---
 
