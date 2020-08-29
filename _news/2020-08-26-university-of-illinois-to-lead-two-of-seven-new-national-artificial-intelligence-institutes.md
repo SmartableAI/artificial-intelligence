@@ -55,19 +55,19 @@ related:
         width: 1440
         height: 983
         isCached: true
-  - title: "UC Davis to Lead New Artificial Intelligence Institute for Next-Generation Food Systems"
-    excerpt: "The University of California, Davis, has been awarded $20 million as part of a multi-institutional collaboration to establish an institute focused on enabling the next-generation food system through the integration of artificial intelligence,"
-    publishedDateTime: 2020-08-26T17:04:00Z
-    webUrl: "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems"
+  - title: "UC Davis to lead new artificial intelligence institute for next generation food systems"
+    excerpt: "UC Davis has been awarded $20 million as part of a multi-institutional collaboration to establish a new institute focused on enabling the next generation food system through the integration of artificial intelligence (AI) technologies."
+    publishedDateTime: 2020-08-26T13:06:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php"
     type: article
     provider:
-      name: University of California, Davis
-      domain: ucdavis.edu
-    quality: 31
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 29
     images:
-      - url: "https://www.ucdavis.edu/sites/default/files/images/article/30779898645_4fbbf266a5_k.jpg"
-        width: 2048
-        height: 1536
+      - url: "https://www.eurekalert.org/multimedia/pub/web/241215_web.jpg"
+        width: 1440
+        height: 1080
         isCached: true
   - title: "CUJO AI Joins the European Telecommunications Standards Institute (ETSI), Strengthening Involvement in Future 5G Infrastructure"
     excerpt: "CUJO AI, the global leader in the development and application of artificial intelligence to improve the security, control and privacy of connected devices, announced today that it has joined the European Telecommunications Standards Institute ( ETSI)."

@@ -7,7 +7,7 @@ originalUrl: "https://www.hpcwire.com/off-the-wire/aws-announces-general-availab
 webUrl: "https://www.hpcwire.com/off-the-wire/aws-announces-general-availability-of-amazon-ebs-io2-volume/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 405
     height: 228
     isCached: true
-
-related:
-  - title: "AWS Announces General Availability of Amazon EBS io2 Volume"
-    excerpt: "Amazon Web Services, Inc., (AWS), an Amazon Company (NASDAQ: AMZN), announced general availability of io2, the next generation Provisioned IOPS SSD volumes for Amazon Elastic Block Store (Amazon EBS)."
-    publishedDateTime: 2020-08-24T23:19:00Z
-    webUrl: "https://apnews.com/9407f29c4f20429fbb55bdf3bb9e1a6e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "9NmRC5vYVvZZy5vkz7r4dlC5npiDI/XB3ZNKSlNdv3intLjKrfcIozbQ9tDdl9gLS0ay3wVtbkYk4Aip9+sch7LDIdOAVeED0SHHzpVkMj+1hzz9ozO3DphdeQjIzz87nH7axnjGDa4W4mpHb7jBoJw6jE2ujv3OLSETg6GgHT8qMYV4fsSjLP/w7qnkse/lUcENEF8+ZfdSqLO8oES2sWibDmbKIFivH45zwXBPrwcj01UvwVLd2rv0HnDZsqDoUkclN3yl6W2Zf+KNN/ioMGWPkjaXWfbZ35Ut/2qD7BSS14OsJYPrqK/zuS29kjmmRsELPYAu5XIbs1GB+Q0Ma+i/gQLDMQ8HBtEkd/+k0Qe6lMqby65oqLbDciHnpLBOJ/PJP8+KMOwlRBZuUctifEpMxeRehfT1M58toEH7RAU9jCijzMIy49I68DuLgUl32flOk3r9tZ5rPQe5fLKLV/UkTKNRkD2/7v5OUqpy8duMSZbi8/nv3gpVfZ6lT/RM4J0HCFOhNle2PYfVEDMi4g==;mqL/l80+DkQYkdAijrVONA=="
 ---

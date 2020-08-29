@@ -1,29 +1,30 @@
 ---
 category: news
-title: "Global Artificial Intelligence (AI) in Manufacturing Market Trends, Size, Forecast - 2019-2025"
-excerpt: "The global artificial intelligence AI in manufacturing market was valued at USD 1 312 million in 2018 and expected to grow at a CAGR of 33 5 during the forecast period 2019 2025 AI is making its way towards the"
-publishedDateTime: 2020-08-27T14:54:00Z
-originalUrl: "https://www.openpr.com/news/2122982/global-artificial-intelligence-ai-in-manufacturing-market"
-webUrl: "https://www.openpr.com/news/2122982/global-artificial-intelligence-ai-in-manufacturing-market"
-ampWebUrl: "https://www.openpr.com/amp/2122982/global-artificial-intelligence-ai-in-manufacturing-market"
-cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2122982/global-artificial-intelligence-ai-in-manufacturing-market"
+title: "Artificial Intelligence (AI) Software Market Survey Report 2020 Along with Statistics, Forecasts till 2026"
+excerpt: "The Artificial Intelligence (AI) Software Market Research Report 2020 to 2026 presents an in-depth assessment of"
+publishedDateTime: 2020-08-29T13:23:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-software-market-survey-report-2020-along-with-statistics-forecasts-till-2026-2020-08-28"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-software-market-survey-report-2020-along-with-statistics-forecasts-till-2026-2020-08-28"
 type: article
-quality: 62
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdn.openpr.com/T/8/T827885637_g.jpg"
-    width: 477
-    height: 346
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -41,19 +42,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Software Market Survey Report 2020 Along with Statistics, Forecasts till 2026"
-    excerpt: "The Artificial Intelligence (AI) Software Market Research Report 2020 to 2026 presents an in-depth assessment of"
-    publishedDateTime: 2020-08-29T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-software-market-survey-report-2020-along-with-statistics-forecasts-till-2026-2020-08-28"
+  - title: "Global Artificial Intelligence (AI) in Manufacturing Market Trends, Size, Forecast - 2019-2025"
+    excerpt: "The global artificial intelligence AI in manufacturing market was valued at USD 1 312 million in 2018 and expected to grow at a CAGR of 33 5 during the forecast period 2019 2025 AI is making its way towards the"
+    publishedDateTime: 2020-08-27T14:54:00Z
+    webUrl: "https://www.openpr.com/news/2122982/global-artificial-intelligence-ai-in-manufacturing-market"
+    ampWebUrl: "https://www.openpr.com/amp/2122982/global-artificial-intelligence-ai-in-manufacturing-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2122982/global-artificial-intelligence-ai-in-manufacturing-market"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
+      name: openpr.com
+      domain: openpr.com
+    quality: 62
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/T/8/T827885637_g.jpg"
+        width: 477
+        height: 346
         isCached: true
   - title: "Natural Language Processing (NLP) Market Size, Status and Growing Opportunity 2020 to 2027"
     excerpt: "According to the study carried out by Acumen Research & Consulting, The Natural Language Processing (NLP) Market is projected to grow at noteworthy growing CAGR over the forecast period 2020 to 2027."
@@ -170,6 +173,6 @@ related:
         height: 450
         isCached: true
 
-secured: "0oDU43YJXPceJh3+S5w0vz0QKE0AXvXsjgXghqXoq2WeXpZdkPCY7iMSsqhKfLvjg5nQXwRr4fspidPcC3z8wDtNC2Ivz19Dvfr6tDoB1IUgXVA+6f9yXUCKeFBPhO6GDE498DS1Q+A7Gy6H1qTkbTpT9E5bvHpNvpo7y49T+2OxNbHpkn8+WcykDpbTxWqpXO+zjc4xYkyvCKB0iRpvImFn0Ecc9wOUHcW2h6HgFkwjFaFFH8iwIsZouGfiWEfyPOBU3WukRKOwOvkO0fEkwUvScx4qtDgAqgJrqX8LzgmtyoW9/JyOAWAIXfgcqCjYwnldhulOewczTWdigkQsOtz89HDS/SoT0KCqaTpK5T8=;cFRCoWevo96v4x+G7kFv0w=="
+secured: "QHgVvHuZX1mXiG8ekX+yC/qQ/4OT8LWP/u0JhjvLuxU1Vmz73FRwcJUeINQTZ2LXCX/FNHRHYwkrkLaxZYkOja/FPpvrj4xB6wjQHNhtMem5TdrmjBlohJYQm1ivRtq6dCS3Co4ogXkf33pLAgkbuBBwHn4xgQlLTOCb6o4dU61bwRBMTB1oVxdcy2Cnnpqo5ocfvvwTFglj81MtWMTBfA2ModgIB6lD2+TkC1/9hxLbAQzlWKTlGzS1aPKhfGM9mfjl9aMOFmONxOgRu1ua2Jnk8xKL4Sp4a4IMpN+Hq8i4luB8/rTaqr1G/TuRzDw0spF0fDuU52py1WnPfMAr8mNvL0GqQBxPiWlks7c2ca0=;/C+6/G5gzgRIlBZXanBQQQ=="
 ---
 

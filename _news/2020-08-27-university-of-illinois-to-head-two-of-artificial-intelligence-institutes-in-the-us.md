@@ -41,19 +41,19 @@ related:
         width: 1440
         height: 983
         isCached: true
-  - title: "UC Davis to Lead New Artificial Intelligence Institute for Next-Generation Food Systems"
-    excerpt: "The University of California, Davis, has been awarded $20 million as part of a multi-institutional collaboration to establish an institute focused on enabling the next-generation food system through the integration of artificial intelligence,"
-    publishedDateTime: 2020-08-26T17:04:00Z
-    webUrl: "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems"
+  - title: "UC Davis to lead new artificial intelligence institute for next generation food systems"
+    excerpt: "UC Davis has been awarded $20 million as part of a multi-institutional collaboration to establish a new institute focused on enabling the next generation food system through the integration of artificial intelligence (AI) technologies."
+    publishedDateTime: 2020-08-26T13:06:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php"
     type: article
     provider:
-      name: University of California, Davis
-      domain: ucdavis.edu
-    quality: 31
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 29
     images:
-      - url: "https://www.ucdavis.edu/sites/default/files/images/article/30779898645_4fbbf266a5_k.jpg"
-        width: 2048
-        height: 1536
+      - url: "https://www.eurekalert.org/multimedia/pub/web/241215_web.jpg"
+        width: 1440
+        height: 1080
         isCached: true
   - title: "University of Illinois to lead two of seven new national artificial intelligence institutes"
     excerpt: "The National Science Foundation and the U.S. Department of Agriculture's National Institute of Food and Agriculture are announcing an investment of more than $140 million to establish seven artificial intelligence institutes in the U."

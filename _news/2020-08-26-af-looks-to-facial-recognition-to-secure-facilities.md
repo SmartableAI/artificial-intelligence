@@ -3,8 +3,8 @@ category: news
 title: "AF looks to facial recognition to secure facilities"
 excerpt: "The Air Force’s AFWERX innovation arm is investing in real-time facial recognition to secure base perimeters and enhance situational awareness for Air Force security staff."
 publishedDateTime: 2020-08-26T20:31:00Z
-originalUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx"
-webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx"
+originalUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx?admgarea=TC_EmergingTech"
+webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx?admgarea=TC_EmergingTech"
 type: article
 quality: 39
 heat: -1
@@ -68,6 +68,6 @@ related:
         height: 225
         isCached: true
 
-secured: "4xou0knymBbBd7AKxb5jh+1TAS1XI1YpuzK0N62Xcuu5fe94REh9hzdsTkKO56ooA/SBRFLkvIEyfl6Dgtiol+6gYJsNe65W7PknbRJaV+efJ6ZYQ01czVjCvNeOXjyL4FyevZgpy/cxEv5C0srL8CNoS/gggMy2Q32dg2uZxbUhwsudcg6tQTxVmltGeQ0lZt4RiqVnONRiunvQ8PTrHq1GmLB6IqX3EX0RGHfDvd0KJT7yr4TQtBjEX6B99Z2eCKifDRu7Asf10SLqvy7Jg7nReP2VYr2nC+Vsrgl5bW1TPexcLfiUsx/vwb+4TBPDbjEDFBk9Hide66MPy0M/o1mC+70eePHxm0itBhG2VBQ=;wihTGnTSsLwSxoI6BKJDVQ=="
+secured: "KqlLPdsdgNMsnGYQJYTLBahQhOs3bkOt6Mr2pHAHBLir4G1E/yRwF8oGWzXkrYpVDqHlBLXDRlOyH+wi+5Ix9+IdiILswBUW7WylMlfVCKp7GoHOrNUrmDvguv62Gw7rSA6RJQ4d6MO4/2+MLGm+dT7gNu313hKjoN7EJ1VOG/A6FCWBly/spe8ZpOiVifi1rVZMY9VxaMVg6NHLtKanm8/cySrz3ee6ZzxUOw+UTL6iF1jOZfc9eQr8RvU7ZhSdOJ6O/auYrH4h4TOhylBGmYZ9IZI5641V4Gz0ph2F7A9MYd1dYk93ak7BlfMVYQzLnsZcd+f+uV8TyNDYWpc/1gP0iLppmINCjw5NevUkUhs=;1skVG1z/UeBQfuLdEF0v9w=="
 ---
 

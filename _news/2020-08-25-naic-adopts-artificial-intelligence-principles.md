@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intel
 cdnAmpWebUrl: "https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/?amp=1"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 616
     height: 372
     isCached: true
-
-related:
-  - title: "NIST Seeking Comments on Draft AI Principles"
-    excerpt: "The National Institute of Standards and Technology has issue a set of draft principles for “explainable” artificial intelligence and is accepting comments until October 15, 2020."
-    publishedDateTime: 2020-08-25T00:06:00Z
-    webUrl: "https://www.natlawreview.com/article/nist-seeking-comments-draft-ai-principles"
-    ampWebUrl: "https://www.natlawreview.com/article/nist-seeking-comments-draft-ai-principles?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/nist-seeking-comments-draft-ai-principles?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 57
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.jpg"
-        width: 1426
-        height: 808
-        isCached: true
 
 secured: "pWKs1Cjdhzyf1cILrSmeWDnVebimxjHgTj0BwjplBn8chW+W23TFq3jimeQO/3B6Y2yyd2+nX+UBQGthcd3VjXnQ2eDdnhZY/HmhpVipPbA1XC1fYwVz6yAyysx/Bzu2Wbs+cGcykEU+ghP3MkAqcjK15tafotXgkEAtHPwuIK69kLP0dq9ZacoXDtcd9wEAd/AystUYaY61dEybPfzNW+xz1sZUxgnhaOEREo+RmUD+U77ZnlRfge2Pr/RzLyUVrO6oUO0mnCdfMUXriaE/VanZSMkJAfpzkCnubBP46XvrQ3wdGwOe+mJCJmic7becZaEvpWp3OleXwr97IQNy6QYHMiJFKAtbo25cPvC4Q55SXLJ3vgcKk3YTyMHHEtjtudS9OFsfckDPwL5I1Kti+PqD9MjubMLDELscJkro7vApLAMn+qm3vRFCbfEKB4ruxKqK//3BklS0y5/aMSN6ajEl9dTSYQCm9fh/GyQdXL8GnwG5eAK/SmHLDTSf5xh55PlALoMy+FksPyo8+LK1JeUj0QrCwmHEWvxAETm9kcw=;YzaLL2uX060MGMDj0Gcl7A=="
 ---

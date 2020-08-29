@@ -3,6 +3,7 @@ category: news
 title: "Artificial Intelligence In Healthcare Market Growth , Leading Players and Forecast To 2025"
 excerpt: "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By End User (Healthcare Providers, Pharmaceutical Organizations ..."
 publishedDateTime: 2020-08-18T07:33:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18"
 type: article
 quality: 74

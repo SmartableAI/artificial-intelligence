@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Elon Musk unveils working Neuralink chip that connects brain directly to computer"
-excerpt: "Elon Musk has demonstrated a working brain-computer interface that he hopes will allow \"human-AI symbiosis\". During a live event held by his neurotechnology startup Neuralink, Mr Musk showed off a chip that had been implanted directly into a pig's brain."
-publishedDateTime: 2020-08-28T23:43:00Z
-originalUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-neuralink-brain-computer-chip-a9695036.html"
-webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-neuralink-brain-computer-chip-a9695036.html"
+title: "Elon Musk's Neuralink startup working on computer chip implants for human brain"
+excerpt: "Elon Musk's startup wants to one day implant computer chips inside the human brain. In a demo Friday, Musk showed off a pig with one of the prototype implants."
+publishedDateTime: 2020-08-29T15:16:00Z
+originalUrl: "https://www.khou.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+webUrl: "https://www.khou.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
 type: article
-quality: 49
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: The Independent
-  domain: independent.co.uk
+  name: KHOU 11
+  domain: khou.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/29/00/neuralink-device-implant.jpg"
-    width: 628
-    height: 469
+  - url: "https://media.khou.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
+    width: 750
+    height: 422
     isCached: true
 
 related:
@@ -105,23 +106,21 @@ related:
         width: 1170
         height: 634
         isCached: true
-  - title: "Elon Musk's Neuralink startup working on computer chip implants for human brain"
-    excerpt: "Elon Musk's startup wants to one day implant computer chips inside the human brain. In a demo Friday, Musk showed off a pig with one of the prototype implants."
-    publishedDateTime: 2020-08-29T15:16:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+  - title: "Elon Musk unveils working Neuralink chip that connects brain directly to computer"
+    excerpt: "Elon Musk has demonstrated a working brain-computer interface that he hopes will allow \"human-AI symbiosis\". During a live event held by his neurotechnology startup Neuralink, Mr Musk showed off a chip that had been implanted directly into a pig's brain."
+    publishedDateTime: 2020-08-28T23:43:00Z
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-neuralink-brain-computer-chip-a9695036.html"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 53
+      name: The Independent
+      domain: independent.co.uk
+    quality: 49
     images:
-      - url: "https://media.khou.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/29/00/neuralink-device-implant.jpg"
+        width: 628
+        height: 469
         isCached: true
 
-secured: "5mDYWvnlTIE45aEdBbrmyMLVjtwDFbRBbhfSS86mPH4jqEFUYMw1zeYca9zm0x2CEPzbpbGEbXGNJn/d6RKSaBldLFix7nmq9VvksH/10mOqw2utLin6rhuEY0xaptxf8bFTcm5/C8axba6wvpAwySe65+DcSVKJDCMAbM3mdHcAqWgDQhRmHQmmVkwuQyL65NPN913Jh3Zzec/Lb5m/t5erjaflmr009kuqnmBjaML8qzw4Xwi+Qe4/B3go0ZYNpcFfCwpCjkeayW3MtJl2x+7ubzk95usj4XV3t+z5QGoZeCpF3o4A2WKXJZNAGti4SkaOTPZzsD8t6vJzXqAziZARVbzaUuzNwLIZl8oQ0Dk=;75pYIHbSkcIYMixqDQZmYg=="
+secured: "E3+yedWY+F9R+ObCL3MEa3gGK1/Zc5m4Vv6//FrE140VVVOnj/709MCcoKNKTULZkhdwAJ93otkoBB+RY3Mj/RibVEQctNxv480RVVQsANbB2jgjQNkQNqgKxaKS21KJroUH299EZFi8hjNaFYoVJRqhbwC+qFP36IRPD71pAx823gRnVzj7PS5nBQHRQo3z5jF/cJU/KUpg9vM4lBdI87N9d3yoE9kAWSkXGVEq1hjlKHQTmuvWZYeOT7Oeyg1iO6HaEdKThZ29Ad3DoFkSura2Y7nWQPyJBkzQz7QndLip8IWodh8Zyk577Z1Excu0/4JkRyaNDG84ALwM6jWXcBtaWKFV2B3WzLzw6YqEFhc=;oJaLotLxoolgJacVNS0HRA=="
 ---
 
