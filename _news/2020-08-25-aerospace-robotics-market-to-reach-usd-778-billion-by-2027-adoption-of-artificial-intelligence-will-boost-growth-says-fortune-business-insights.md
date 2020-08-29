@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/20/08/g17236795/aerospace-r
 webUrl: "https://www.benzinga.com/pressreleases/20/08/g17236795/aerospace-robotics-market-to-reach-usd-7-78-billion-by-2027-adoption-of-artificial-intelligence-wi"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "How AI-Based Fever Detection Camera Market Booming Worldwide | Fortune Business Insights"
-    excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe global AI-based"
-    publishedDateTime: 2020-08-24T06:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-ai-based-fever-detection-camera-market-booming-worldwide-fortune-business-insights-2020-08-24"
+  - title: "Sales Intelligence Market Size Worth $5.03 Billion By 2027 | CAGR: 10.5%: Grand View Research, Inc."
+    excerpt: "The global sales intelligence market size is expected to reach USD 5.03 billion by 2027, according to a new report by Grand View Research,"
+    publishedDateTime: 2020-08-26T09:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sales-intelligence-market-size-worth-5-03-billion-by-2027--cagr-10-5-grand-view-research-inc-301118615.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
+        width: 1400
+        height: 733
         isCached: true
 
 secured: "6EVuwTaaeyjFJqusXhPsX3QOiAqtVy9CicVn93EP1WAFp9udJfMKvYBYbDAOnLasvase5LEEWC6VkYE/IFbF4vJNuzZMLozwoX66urZHQHjCmxkpRyQPun6HbJ5ql4wPspoF/ErLnc3HGSLdUd8MmeI2WH2PyprJway+Pu/Ql6yNAAoFz0u3ijiOtvqbdWqVDQ6kMemvQLtxnEwPK6FjLYK9syW8mioxoJHY9DT/5V7xz+uw3yvwAq+Y+tifOft0iuBVD73meCz0qS8YurPYL1r6wLzjoA7mEb0AU46RS6L2XZ/LALV8UoSUHU5dGyp5E8XMoWDFnfr31zwLHIc8m2V1ADOR15cE5d/vaqUHAYoP1lXTsodUNHB5VmdG4GqMa/yc2LWcKHwovdNLPx8xfK7Rtxdu6lrVIUeBU+H5EbnRhDHMKSWjHPZpw1EeHwOjRjpcwmrF9ttzWRFDfsF4/TE28EA4alKMxUa5JvtVA9VRMbMnnmZw6mF/6QAI59dTDXs06fAI/tZhztQx3MJ+CD3/32VsSYwoST15c5PfMVg=;BmXC7otKUAyepwDPpCFWIg=="

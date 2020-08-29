@@ -9,8 +9,8 @@ ampWebUrl: "https://www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machi
 cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machine-reveal-date/amp/"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: Tesla News
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "What to Know About Neuralink, Elon Musk’s Brain-Computer Interface Project"
-    excerpt: "Elon Musk is set to make an announcement about Neuralink, a company designing brain-computer interface technology, on Friday, August 28. It sounds like science fiction, but research in this area has progressed rapidly in recent years,"
-    publishedDateTime: 2020-08-24T19:34:00Z
-    webUrl: "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895"
-    ampWebUrl: "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 87
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bibf9vam9t0cbndwmfhs.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Neuralink: Elon Musk promises to show a working brain-computer chip for 'human-AI symbiosis'"
     excerpt: "Elon Musk has said he will demonstrate a functional brain-computer interface this week during a live presentation from his mysterious Neuralink startup. The billionaire entrepreneur, who also heads SpaceX and Tesla,"
     publishedDateTime: 2020-08-26T10:05:00Z

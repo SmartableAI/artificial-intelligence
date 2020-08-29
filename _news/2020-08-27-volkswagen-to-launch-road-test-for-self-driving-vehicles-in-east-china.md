@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Darrell Berkheimer: Driverless trucks on the roads in 2021"
+    excerpt: "Some of you may have watched an episode of CBS 60 Minutes this past Sunday evening about the expectation that one or more fleets of driverless trucks will be"
+    publishedDateTime: 2020-08-28T21:32:00Z
+    webUrl: "https://www.theunion.com/opinion/columns/darrell-berkheimer-driverless-trucks-on-the-roads-in-2021/"
+    type: article
+    provider:
+      name: The Union
+      domain: theunion.com
+    quality: 39
+    images:
+      - url: "https://cdn.theunion.com/wp-content/uploads/sites/3/2020/08/BerkheimerDarrell-GVU-mugx-1-819x1024.jpg"
+        width: 819
+        height: 1024
+        isCached: true
   - title: "DeepRoute Dedicated to Self-Driving Tech"
     excerpt: "Nianqiu Liu, Vice President of DeepRoute, talked with Editor Bill Wong about the company’s advanced technology and what’s trending in the autonomous-vehicle industry."
     publishedDateTime: 2020-08-26T19:58:00Z

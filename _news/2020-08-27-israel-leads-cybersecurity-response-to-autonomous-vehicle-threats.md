@@ -73,6 +73,20 @@ related:
         width: 560
         height: 292
         isCached: true
+  - title: "VW to Start Its First Driverless Car Tests in China Hefei Next Month"
+    excerpt: "German auto giant Volkswagen will begin road testing self-driving cars in VW's first such pilot in the globe's largest car market to run eventual travel services in Hefei in East China from next month,"
+    publishedDateTime: 2020-08-27T08:26:00Z
+    webUrl: "https://www.yicaiglobal.com/news/vw-to-start-its-first-driverless-car-tests-in-china-hefei-next-month"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 39
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/vw-to-start-its-first-driverless-car-tests-in-china-hefei-next-month/7504799012749312.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Audi self-driving vehicles to be tested in China’s newest EV hub"
     excerpt: "Volkswagen Group plans to roll out its first fleet of self-driving test cars in Hefei, an eastern Chinese city that’s emerging as a hot spot for the nation’s electric vehicle ambitions. Ten Audi e-trons,"
     publishedDateTime: 2020-08-26T19:28:00Z

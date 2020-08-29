@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "What to Know About Neuralink, Elon Musk’s Brain-Computer Interface Project"
-    excerpt: "Elon Musk is set to make an announcement about Neuralink, a company designing brain-computer interface technology, on Friday, August 28. It sounds like science fiction, but research in this area has progressed rapidly in recent years,"
-    publishedDateTime: 2020-08-24T19:34:00Z
-    webUrl: "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895"
-    ampWebUrl: "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 87
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bibf9vam9t0cbndwmfhs.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Elon Musk’s Neuralink to unveil V2 brain implant machine in Aug 28 event"
     excerpt: "As anticipation builds for Neuralink’s upcoming livestream on August 28, Tesla and SpaceX CEO Elon Musk provided yet another exciting update for the event. According to Musk, the brain-machine interface startup will not only show a working Neuralink device on Friday;"
     publishedDateTime: 2020-08-26T11:43:00Z

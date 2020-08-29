@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-28-take-a-closer-look-at-elon-musks-neuralink-surgical-robot.md",
+      "title": "Take a closer look at Elon Musk’s Neuralink surgical robot",
+      "excerpt": "While the science was front-and-center in Elon Musk’s presentation about Neuralink, his human brain computer inference company, the surgical robot the company debuted made a splash of its own. The rounded polycarbonate sci-fi design of the brain surgeon bot looks like something out of the",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/",
+      "originalUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/early-digital-sketches-of-the-robot.jpg?w=600",
+          "width": 600,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/",
+      "publishedDateTime": "2020-08-28T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-apple-launches-aiml-residency-program-to-attract-niche-experts.md",
       "title": "Apple launches AI/ML residency program to attract niche experts",
       "excerpt": "The company behind Siri is looking for U.S. and European residents with programming and niche science backgrounds to immerse in the world of AI and ML.",
@@ -186,6 +236,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-26-elon-musks-neuralink-to-unveil-v2-brain-implant-machine-in-aug-28-event.md",
+      "title": "Elon Musk’s Neuralink to unveil V2 brain implant machine in Aug 28 event",
+      "excerpt": "As anticipation builds for Neuralink’s upcoming livestream on August 28, Tesla and SpaceX CEO Elon Musk provided yet another exciting update for the event. According to Musk, the brain-machine interface startup will not only show a working Neuralink device on Friday;",
+      "sourceUrl": null,
+      "webUrl": "https://www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machine-reveal-date/",
+      "originalUrl": "https://www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machine-reveal-date/",
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.teslarati.com/wp-content/uploads/2019/07/neuralink-elon-musk-1024x476.jpg",
+          "width": 1024,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machine-reveal-date/amp/",
+      "cdnAmpWebUrl": "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machine-reveal-date/amp/",
+      "publishedDateTime": "2020-08-26T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tesla News",
+        "domain": "teslarati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-drug-development-in-a-year-ibm-bets-on-ai-robotics-to-ramp-up-molecule-research.md",
       "title": "Drug development in a year? IBM bets on AI, robotics to ramp up molecule research",
       "excerpt": "IBM’s new platform could contribute to ongoing research efforts at a time when discovering new drugs is at the heart of many projects.",
@@ -233,6 +324,47 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-robotics-autobots-transform-in-the-offshore-energy-sector.md",
+      "title": "Robotics: Autobots Transform in the Offshore Energy Sector",
+      "excerpt": "The Oil & Gas Technology Centre is working with companies on the Offshore Ground Robotics Industrial Pilot (OGRIP) prototype, which is now what it calls the world’s first Offshore Work Class Robot (OWCR),",
+      "sourceUrl": null,
+      "webUrl": "https://www.oedigital.com/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
+      "originalUrl": "https://www.oedigital.com/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.oedigital.com/images/maritime/w537h300pad/bladebug-blade-walking-inspection-robot-115866.jpg",
+          "width": 537,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.oedigital.com/amp/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
+      "cdnAmpWebUrl": "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
+      "publishedDateTime": "2020-08-25T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "oedigital.com",
+        "domain": "oedigital.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -333,56 +465,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-what-to-know-about-neuralink-elon-musks-brain-computer-interface-project.md",
-      "title": "What to Know About Neuralink, Elon Musk’s Brain-Computer Interface Project",
-      "excerpt": "Elon Musk is set to make an announcement about Neuralink, a company designing brain-computer interface technology, on Friday, August 28. It sounds like science fiction, but research in this area has progressed rapidly in recent years,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895",
-      "originalUrl": "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895",
-      "featuredContent": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bibf9vam9t0cbndwmfhs.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895/amp",
-      "publishedDateTime": "2020-08-24T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1291,97 +1373,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-how-the-pandemic-is-influencing-robotics-research.md",
-      "title": "How the pandemic is influencing robotics research",
-      "excerpt": "The pandemic makes physical experimentation with robots practically impossible. Here's how some roboticists have adjusted to the new normal.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/13/how-the-pandemic-is-influencing-robotics-research/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/deepmind_robotics-e1578341793570.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/13/how-the-pandemic-is-influencing-robotics-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/13/how-the-pandemic-is-influencing-robotics-research/amp/",
-      "publishedDateTime": "2020-08-13T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-miso-robotics-names-mike-bell-new-ceo-to-accelerate-operational-growth.md",
-      "title": "Miso Robotics Names Mike Bell New CEO to Accelerate Operational Growth",
-      "excerpt": "Miso Robotics – the startup leading intelligent automation for commercial kitchens – proudly introduces its newly appointed CEO,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/miso-robotics-names-mike-bell-new-ceo-to-accelerate-operational-growth-301111756.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

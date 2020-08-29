@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Watch Elon Musk's AI brain chip startup Neuralink debut its massively hyped technology"
+    excerpt: "Elon Musk has consistently hyped up the research, but recent reports suggest the company has been wrestling with internal chaos."
+    publishedDateTime: 2020-08-28T23:00:00Z
+    webUrl: "https://www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f496a247ffa48002894cf87?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Elon Musk says his AI brain chip company Neuralink will run a live tech demo of a 'working device' on Friday"
     excerpt: "Musk said in May Neuralink could begin human testing within a year, although experts have questioned this timeline."
     publishedDateTime: 2020-08-26T14:45:00Z
@@ -43,21 +59,35 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Elon Musk will reveal a device that connects your brain to a computer on Friday – putting AI in your head"
-    excerpt: "ELON Musk is set to reveal a ‘working Neuralink device’ this Friday. The highly anticipated but controversial brain chip aims to help us compete with artificial intelligence and help"
-    publishedDateTime: 2020-08-26T11:48:00Z
-    webUrl: "https://www.thesun.co.uk/tech/12503057/elon-musk-neuralink-brain-chip-reveal/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/12503057/elon-musk-neuralink-brain-chip-reveal/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/12503057/elon-musk-neuralink-brain-chip-reveal/amp/"
+  - title: "Elon Musk’s neuroscience startup unveils pig with computer chip in its brain"
+    excerpt: "Musk described Neuralink's sensor, which is roughly eight millimetres in diameter, or smaller than a fingertip, as \"a Fitbit in your skull with tiny wires.\""
+    publishedDateTime: 2020-08-28T23:43:00Z
+    webUrl: "https://globalnews.ca/news/7304984/elon-musk-neuroscience-pig-computer-chip/"
+    ampWebUrl: "https://globalnews.ca/news/7304984/elon-musk-neuroscience-pig-computer-chip/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7304984/elon-musk-neuroscience-pig-computer-chip/amp/"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 42
+      name: Global News
+      domain: globalnews.ca
+    quality: 54
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/05/DD-COMP-MUSKS-BRAIN-CHIP-NO-TITLE-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
+      - url: "https://globalnews.ca/wp-content/uploads/2020/08/pig.jpg?quality=85&#038;strip=all"
+        width: 1170
+        height: 634
+        isCached: true
+  - title: "Elon Musk unveils working Neuralink chip that connects brain directly to computer"
+    excerpt: "Elon Musk has demonstrated a working brain-computer interface that he hopes will allow \"human-AI symbiosis\". During a live event held by his neurotechnology startup Neuralink, Mr Musk showed off a chip that had been implanted directly into a pig's brain."
+    publishedDateTime: 2020-08-28T23:43:00Z
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-neuralink-brain-computer-chip-a9695036.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 49
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/29/00/neuralink-device-implant.jpg"
+        width: 628
+        height: 469
         isCached: true
 
 secured: "Q7PAhHqAV5J2K+l4Tu+Bk8ng9hJU10SQuKKUeCRy47MBoL4BQZHjCY7UE1cCyc6WvoM8XERaYsiL6lVTcKsdYvp/cv2dYeJwS14e54WWTOuv8Mhy4FWQc2fscQm0wWVuVYM380LT4PZv8wkNNkc0DvjPlePupHPmGR9J0dVsc5LsfA9PNHZHlWlsbKzMM/JvuZhhSmAfB2S3yAOZ9j4Sbs9mH875DspjwxnAaf4h0I9QH6+98GhbQdF2shgSBI3efSE6FSN2lHf1sa4Zaj/Rj7zNTVJd/rkEUq86lBzsMMQIpkW9e8GrKf/vLYaNEiVtjiewbnZkDNB9mf5Eu3KKqIe5zkqOV73xHpFG0Uvh7KgzjkQnmOlZvWcS9lwpHlLxFPuHl8EahBi0/pPpX1VnKo7I4LA0h1myY4id7gkCczpgXG6dMpi8Vyab0oasNX/HTE92ZPaGnbij6zHcdykQPtr5GMD+ZKSCV9AOsGGFTCJAtMXocAFavb1JUqiCz7072w1am1MRiptSnQwxNR7/Go4xdE0mnKmxfkomaTwcidE=;SOJXtxedwz/vURJ1Irobjg=="

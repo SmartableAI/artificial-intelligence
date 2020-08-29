@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-28T18:35:00Z
 originalUrl: "https://www.dcvelocity.com/articles/46985-self-driving-forklift-startup-raises-9-million-in-venture-funds"
 webUrl: "https://www.dcvelocity.com/articles/46985-self-driving-forklift-startup-raises-9-million-in-venture-funds"
 type: article
-quality: 19
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202008/fox-robotics-forklift_with_pickles.jpg?height=635&t=1598639443&width=1200"
+    width: 679
+    height: 635
+    isCached: true
 
 related:
   - title: "Warehouse Picking Robot Startup XYZ Raises $17 Million"
@@ -47,6 +54,6 @@ related:
       domain: bizjournals.com
     quality: 48
 
-secured: "9MPYKjFR84zvHiLt7tw4Q7lAyB6MEv2cFyehPgZeDQnBUskeM/mo9EZfcrpa/O9zo1kUGSvq7/DB9NHm7ApdrJdtoFUeqhZcWcK49jl+OCsoVkj0Lw+3hqLFvyzUhxYAsUQ0j6VDG+wyMz+KPwYHo7NNP/c//3gwWSNo8iRxUJ3+T8lnZSkfyporVFynCF49AczU0rF2IQGpemP6WyMWzuX3DB5Yr2YWJplcgq/E87auWSfiF7UfadUc4U2r8HofocH8n6YuWpubRqXDifW2UxQExoIavQNcEFBQClurzQS8X96/nNaphFxOZ1R4s/NDhl8rFiXQ6DY37/ANqiKCV6cshogV8NXwSIRF65Bm1o6CGoIFRMh/RcBrcUcj1dbGBkFUgpPLx0b23I9J6YQcnY5u/XuEH7O3EnISK+LKVa4soILT/TLOLfPoPicgHScHyDM54xq7cQq/WdwoUbu7nU7vua0ypoekZTslN3uQNZB/jNnpphVY1N/cSoU16YMtpmZM2DGB5HaNaxbTrZ1bGV8Aet9kEU79aExgtq3FNHs=;AISwOmM12i+YWY6H2SZy6Q=="
+secured: "MP/+CdDirEnudu2ucM1Ie+f1/ND1lXB5ZO1iTB+g8gxlPyDmlLpDFiOKtNASQ2nwodSxJ37AOGNcPyLAsLioaHh2fEvPbcvW9fxpY9jAjOUy6Mm+XixcKAOeC2n0XPijEAm6FAURE5h1LMiuAcCXsilDk7EgsFvLUOHpvPwLa/MNcCJgZFdbEU136fh5Rm5Kj9nCqUeb64B3aWtC1+5Z7FJJHA39IKKd3LSOL3ZLA5YVT4/CpWvpIVe4sWMWaBg4XnHWdfRElJmnGoi+mU6+6FbIJL2wMIwqhYEc6EIkEbAB+givH3PK1OPhyDHkUsdGALwdv4Rgqe3ud+sCUftSVAtxMiXxVrMKAvLgjHivu0Y=;DweAloaLcpqZXx2UrGCozw=="
 ---
 

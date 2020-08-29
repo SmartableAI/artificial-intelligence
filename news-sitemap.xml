@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://yourstory.com/mystory/top-six-development-artificial-intelligence</loc>
+    <lastmod>2020-08-28T16:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/</loc>
+    <lastmod>2020-08-28T16:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8</loc>
+    <lastmod>2020-08-28T16:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/</loc>
     <lastmod>2020-08-28T14:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -313,12 +331,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8</loc>
-    <lastmod>2020-08-26T07:45:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/</loc>
     <lastmod>2020-08-26T07:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -361,6 +373,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machine-reveal-date/</loc>
+    <lastmod>2020-08-26T04:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/</loc>
     <lastmod>2020-08-26T04:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -393,6 +411,12 @@
   <url>
     <loc>https://www.bloomberg.com/news/articles/2020-08-26/china-still-buying-300-billion-of-chips-from-u-s-elsewhere</loc>
     <lastmod>2020-08-26T01:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
+    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -447,6 +471,12 @@
   <url>
     <loc>https://techcrunch.com/2020/08/25/turing-raises-14m-to-help-source-vet-place-and-manage-remote-developers-in-tech-jobs/</loc>
     <lastmod>2020-08-25T10:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.oedigital.com/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector</loc>
+    <lastmod>2020-08-25T10:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -633,12 +663,6 @@
   <url>
     <loc>https://gizmodo.com/mit-is-developing-an-ai-cancer-diagnosis-system-1699916919</loc>
     <lastmod>2020-08-24T14:25:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895</loc>
-    <lastmod>2020-08-24T12:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -865,8 +889,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-301116528.html</loc>
-    <lastmod>2020-08-21T14:32:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html</loc>
+    <lastmod>2020-08-21T14:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1123,14 +1147,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/</loc>
-    <lastmod>2020-08-20T08:29:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539</loc>
+    <lastmod>2020-08-20T08:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/23c39c6175e11f35b0cb61b0b2eded76</loc>
-    <lastmod>2020-08-20T08:23:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/</loc>
+    <lastmod>2020-08-20T08:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1519,7 +1543,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19?mod=mw_quote_news&amp;tesla=y</loc>
+    <loc>https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19</loc>
     <lastmod>2020-08-19T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

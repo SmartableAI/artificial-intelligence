@@ -46,7 +46,12 @@ related:
     provider:
       name: DC Velocity
       domain: dcvelocity.com
-    quality: 19
+    quality: 41
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202008/fox-robotics-forklift_with_pickles.jpg?height=635&t=1598639443&width=1200"
+        width: 679
+        height: 635
+        isCached: true
 
 secured: "xmkSldOxibtBQZpff8x+NYdDUBSRrEBWOE73gwnpCOZFbqlpcYWT+1oH7+q61oPGxz2wGrfBBIkkW3A3EKdKXJjyrPVai0ZWYErPN/LalHnKyg7fgNT5MZsOOtgSjV0TEA5xH67fYw4QDV/RRZzXAhR0PMOOPtRyDL4TdJ/PNWfy2tE22z5ASvaakO/Hb9wudfxv70dbV1P6stpyclyBrTx7/OllmevGVy5Lbcg7M8Pywa3/v2+IT1Ha2zknr65CnF9ESB4YKd6g9E9COXZ3eXYyA32zRZGbk8QK2HrwUn192nwr0USxC5Ck6e29Qk68Biy50EgZHDiSlhXuObsAJNNE0KFBP1ePifwWF6IU+9oTXET84GuS83BS6yWxGn6UgO/WDj5swnEjH6swxSJZgF4K426veSLy7ewr2OfWqXJuUC37Yn9ATRdR4qEXT+1Kk4N0051I2MpATs78diasKSoMROfmU5Up+kqk5RSgU21SWwWZGSgO364y1an3KKEsKSHhu/YGnFUyeUZEPdaWsALZqGRsi/DRQIjms7IrP4Q=;8glKVSIU+pUTitRHX+fp6g=="
 ---

@@ -186,6 +186,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-08-24T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2020-08-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Medical Imaging Market 2020 Market Research with Size, Growth, Manufacturers, Segments and 2026 Forecast Research"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Artificial Intelligence in"
     publishedDateTime: 2020-08-24T11:51:00Z

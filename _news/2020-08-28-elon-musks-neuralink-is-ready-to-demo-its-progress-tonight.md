@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "What to Know About Neuralink, Elon Musk’s Brain-Computer Interface Project"
-    excerpt: "Elon Musk is set to make an announcement about Neuralink, a company designing brain-computer interface technology, on Friday, August 28. It sounds like science fiction, but research in this area has progressed rapidly in recent years,"
-    publishedDateTime: 2020-08-24T19:34:00Z
-    webUrl: "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895"
-    ampWebUrl: "https://gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/what-to-know-about-neuralink-elon-musk-s-brain-compute-1844751895/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 87
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bibf9vam9t0cbndwmfhs.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Elon Musk’s Neuralink to unveil V2 brain implant machine in Aug 28 event"
     excerpt: "As anticipation builds for Neuralink’s upcoming livestream on August 28, Tesla and SpaceX CEO Elon Musk provided yet another exciting update for the event. According to Musk, the brain-machine interface startup will not only show a working Neuralink device on Friday;"
     publishedDateTime: 2020-08-26T11:43:00Z
@@ -72,6 +56,6 @@ related:
         height: 834
         isCached: true
 
-secured: "+MH8eL+pHs1C9NSS/Bu+6cW34NMDphcDJKB4a0VG2UbZJwnNMjL0qCA6tR2N3I0GxKkxHqOoEAxUL3zj6coreJaNrmgk5NhIbgpsPcbGbdGRC/7Db0LoB0S8Zw3MXIDX42zRHVXv07xuG+Akyrr6ctGp0hmAf7MQeeJAUr7aCNYQ83e9flbHhv0vWu51zJMzdgm8wYlfLNq73qoEPtrCeMJdfHOaeGLR3iXbQfbUlIrUy7EMNOsEUDLcgWQbUjo95WY/Z6p8ZgnWXW1BxTsP/LaFf2G1gQLNVnd0/SGDg6DxAJmlItuBlG1JaWJJRaMXUeKKwKdJdsRPBL8sDTfx/tGnBpscN05WTpUfNBu4Z8Q=;XSOWv+8/r8KM4sWej61GDQ=="
+secured: "M1Pmit0WpPfFK+TqKX1KbxMCZGbuJCJ7Jn3vzLt8e8LHp3SXNJ6LGvQL8SrUhuubuVlqbLglEm7km0CueGtVIii3qNUI62Pde6c3cjIDolQdU+JJ1W61KwiqaiO7hMh8tHd2WEFJRX2/qptWjQ0rhxmJZaCHHoLujhQhzlXfolk/BYc8Tdv9kzkb3QbmhR5g9F76LW4FQzNoKW7cSaS2XESZblYl+/Cjef07sCUVMh8Sj6nR1PiLi522t35rvNRg2YFPQ6SQQHq5ifMuvn52w49Lz5ABHFH///l5tx425posQzwVvyN8ySGQQmiu0qtm295wauzAyE2vAcsShby25kRmDnUynPZJeL1IVrIZKAnPqa+Ksy0XgMxe3jkHzozmAWEOBAp6Th1GOire/IsoJM3pgpgX5bgREQzOpjRFn79jr5WnCoXmqrxYMkf2+Aw4HMAxvvTVSTLccmFXXojnJmbnquNxnLDRnrvPwac4ywvwU8056VTMo6lnwVg9YRTMMIqCXNBas30YKuC1cIM6f98ErGyCJ4wD+3Z0xzBS2qs=;Rs7QEkecH8Rc6I6M/Istpw=="
 ---
 

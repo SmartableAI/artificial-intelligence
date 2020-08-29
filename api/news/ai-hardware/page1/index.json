@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-28-watch-elon-musks-ai-brain-chip-startup-neuralink-debut-its-massively-hyped-technology.md",
+      "title": "Watch Elon Musk's AI brain chip startup Neuralink debut its massively hyped technology",
+      "excerpt": "Elon Musk has consistently hyped up the research, but recent reports suggest the company has been wrestling with internal chaos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8",
+      "originalUrl": "https://www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8",
+      "featuredContent": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f496a247ffa48002894cf87?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8?amp",
+      "publishedDateTime": "2020-08-28T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei.md",
       "title": "TSMC announces its first 3nm AI chip customer – neither Apple nor Huawei",
       "excerpt": "At TSMC’s 26th Technical Symposium, TSMC officially confirmed that its 5nm and 6nm processes are already in mass production. In addition, the company also announced that",
@@ -240,56 +290,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-elon-musk-says-his-ai-brain-chip-company-neuralink-will-run-a-live-tech-demo-of-a-working-device-on-friday.md",
-      "title": "Elon Musk says his AI brain chip company Neuralink will run a live tech demo of a 'working device' on Friday",
-      "excerpt": "Musk said in May Neuralink could begin human testing within a year, although experts have questioned this timeline.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8",
-      "featuredContent": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f0380832618b911dd364f96?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8?amp",
-      "publishedDateTime": "2020-08-26T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     },
     {

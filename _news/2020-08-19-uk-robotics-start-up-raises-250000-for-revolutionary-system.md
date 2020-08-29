@@ -3,6 +3,7 @@ category: news
 title: "UK robotics start-up raises £250,000 for revolutionary system"
 excerpt: "Shropshire start-up Earth Rover is aiming to use cutting-edge technologies to help farmers improve crop yields has raised £250,000 from the MEIF Proof of Concept & Early Stage Fund."
 publishedDateTime: 2020-08-19T12:19:00Z
+originalUrl: "https://www.freshplaza.com/article/9241700/uk-robotics-start-up-raises-ps250-000-for-revolutionary-system/"
 webUrl: "https://www.freshplaza.com/article/9241700/uk-robotics-start-up-raises-ps250-000-for-revolutionary-system/"
 type: article
 quality: 69
