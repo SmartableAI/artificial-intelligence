@@ -4,106 +4,96 @@
   "page": 11,
   "value": [
     {
-      "path": "_companies/kabbage.md",
-      "title": "Kabbage",
-      "excerpt": "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kabbage/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/kabbage/",
+      "path": "_companies/kensci.md",
+      "title": "KenSci",
+      "excerpt": "Digital primary care for less. Get answers and chat with a doctor for less than a co-pay without leaving your couch.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kensci/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/kensci/",
       "type": "profile",
-      "name": "Kabbage",
-      "overview": "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK.",
-      "website": "https://www.kabbage.com",
+      "name": "KenSci",
+      "overview": "Digital primary care for less. Get answers and chat with a doctor for less than a co-pay without leaving your couch.",
+      "website": "https://www.kensci.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/kabbage-inc/",
-        "followers": 31904
+        "url": "https://www.linkedin.com/company/kensci",
+        "followers": 3545
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kabbage"
+        "url": "https://www.crunchbase.com/organization/kensci"
       },
       "twitter": {
-        "username": "KabbageInc",
-        "url": "https://twitter.com/KabbageInc",
-        "followers": 27547
+        "username": "KenSci",
+        "url": "https://twitter.com/KenSci",
+        "followers": 1504
       },
-      "size": "501-1,000 employees",
-      "yearFounded": 2009,
+      "size": "51-200 employees",
+      "yearFounded": 2015,
       "locations": [
-        "Atlanta, Georgia"
+        "Seattle, WA",
+        "Seattle, Washington"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "Machine Learning"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=VnqoE8kOHkI"
-        }
+        "Machine Learning",
+        "AI in Healthcare"
       ],
       "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1146817867553366016/ZcHRRj3D_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/915268504244314113/m8aLPHU7_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Kabbage",
+          "title": "KenSci",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFwZD2IV-LlDQ/company-logo_200_200/0?e=1594857600&v=beta&t=1rPXmhIy30Kk2Wy80mIFDmRpjikbiIpAG9fq0T40LP4",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ]
     },
     {
-      "path": "_companies/kadaxis.md",
-      "title": "Kadaxis",
-      "excerpt": "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kadaxis/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/kadaxis/",
+      "path": "_companies/microsoft.md",
+      "title": "Microsoft",
+      "excerpt": "We’re on a mission to empower every person and every organization on the planet to achieve more.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/microsoft/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/microsoft/",
       "type": "profile",
-      "name": "Kadaxis",
-      "overview": "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis.",
-      "website": "https://kadaxis.com/",
+      "name": "Microsoft",
+      "otherNames": [
+        "Microsoft Corporation"
+      ],
+      "overview": "We’re on a mission to empower every person and every organization on the planet to achieve more.",
+      "website": "https://www.microsoft.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/kadaxis",
-        "followers": 50
+        "url": "https://www.linkedin.com/company/microsoft/",
+        "followers": 9940289
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kadaxis"
+        "url": "https://www.crunchbase.com/organization/microsoft"
       },
       "twitter": {
-        "username": "kadaxis",
-        "url": "https://twitter.com/kadaxis",
-        "followers": 29867
+        "username": "Microsoft",
+        "url": "https://twitter.com/Microsoft",
+        "followers": 8997440
       },
-      "size": "2-10 employees",
-      "yearFounded": 2013,
+      "size": "10,001+ employees",
+      "yearFounded": 1975,
       "locations": [
-        "New York, NY",
-        "New York, New York"
+        "Redmond, WA"
       ],
+      "funding": {
+        "status": "IPO"
+      },
       "topics": [
         "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=3ELoLhZNxb0"
-        }
+        "Microsoft AI"
       ],
       "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/378800000400606775/857c753a4104fa5ecb94afd6f6e2a5bc_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1268191541941559296/GOQb6uBi_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Kadaxis",
+          "title": "Microsoft",
           "isCached": true
         }
       ]
