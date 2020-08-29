@@ -3,6 +3,7 @@ category: news
 title: "Delivering breakthrough for AI Edge computing"
 excerpt: "Today’s edge solutions are either too small to compute the load or too costly and too hard to productise,” says Dinakar Munagala, co-founder and CEO, Blaize. “Blaize AI edge computing products overcome these limitations of power,"
 publishedDateTime: 2020-08-20T09:21:00Z
+originalUrl: "https://www.electropages.com/2020/08/delivering-breakthrough-ai-edge-computing"
 webUrl: "https://www.electropages.com/2020/08/delivering-breakthrough-ai-edge-computing"
 type: article
 quality: 19

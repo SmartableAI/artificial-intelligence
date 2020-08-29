@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "UT gets $20M to focus on AI technology and lead research institute"
+    excerpt: "The University of Texas at Austin will become a research hub for the next generation of machine learning and artificial intelligence technology, after it"
+    publishedDateTime: 2020-08-26T19:57:00Z
+    webUrl: "https://www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute"
+    ampWebUrl: "https://www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 59
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200826&Category=BUSINESS&ArtNo=200829244&Ref=AR"
+        width: 1627
+        height: 1170
+        isCached: true
   - title: "National Science Foundation announces MIT-led Institute for Artificial Intelligence and Fundamental Interactions"
     excerpt: "The National Science Foundation's new AI Institute for Artificial Intelligence and Fundamental Interactions will be anchored at MIT, merging research in AI and physics to answer outstanding questions about topics such as dark matter,"
     publishedDateTime: 2020-08-26T13:15:00Z

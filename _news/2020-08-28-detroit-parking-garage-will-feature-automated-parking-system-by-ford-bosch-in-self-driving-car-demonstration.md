@@ -28,19 +28,16 @@ images:
 
 related:
   - title: "How an Automated Data Labeling Platform Fuels Self-driving Industry?"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / August 26, 2020 / “I’m extremely confident that self-driving cars or essentially complete autonomy will happen, and I think it will happen very quickly,” Tesla CEO Elon Musk said in a virtual speech to the World Artificial Intelligence Conference in July,"
-    publishedDateTime: 2020-08-26T08:10:00Z
-    webUrl: "https://apnews.com/8b323e803837e85372f987447c3481b0"
+    excerpt: "Baidu has been developing the autonomous driving ... for autonomous vehicles is ready for application. Behind the self-driving: Machine learning and Data annotation Before we talk about the ..."
+    publishedDateTime: 2020-08-26T15:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/ac17244991/how-an-automated-data-labeling-platform-fuels-self-driving-industry"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17244991"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17244991"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "TTC Foundation: How an Automated Data Labeling Platform Fuels Self-driving Industry?"
     excerpt: "NEW YORK, NY / ACCESSWIRE / August 26, 2020 / \"I'm extremely confident that self-driving cars or essentially complete autonomy will happen, and I think it will happen very quickly,\" Tesla CEO Elon Mus"
     publishedDateTime: 2020-08-26T08:20:00Z

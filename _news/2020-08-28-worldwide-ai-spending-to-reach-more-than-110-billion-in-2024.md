@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-28T03:54:00Z
 originalUrl: "https://www.helpnetsecurity.com/2020/08/28/ai-spending-forecast-2024/"
 webUrl: "https://www.helpnetsecurity.com/2020/08/28/ai-spending-forecast-2024/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://img.helpnetsecurity.com/wp-content/uploads/2017/07/09103700/money-1.jpg"
