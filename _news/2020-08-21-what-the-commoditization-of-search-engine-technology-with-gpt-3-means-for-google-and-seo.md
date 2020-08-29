@@ -3,6 +3,7 @@ category: news
 title: "What the commoditization of search engine technology with GPT-3 means for Google and SEO"
 excerpt: "LinkGraph’s CTO, Manick Bhan predicts that with GPT-3 technology, the biggest disruption to Google search may soon be on the horizon."
 publishedDateTime: 2020-08-21T14:08:00Z
+originalUrl: "https://www.searchenginewatch.com/2020/08/21/what-the-commoditization-of-search-engine-technology-with-gpt-3-means-for-google-and-seo/"
 webUrl: "https://www.searchenginewatch.com/2020/08/21/what-the-commoditization-of-search-engine-technology-with-gpt-3-means-for-google-and-seo/"
 ampWebUrl: "https://www.searchenginewatch.com/2020/08/21/what-the-commoditization-of-search-engine-technology-with-gpt-3-means-for-google-and-seo/amp/"
 cdnAmpWebUrl: "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2020/08/21/what-the-commoditization-of-search-engine-technology-with-gpt-3-means-for-google-and-seo/amp/"

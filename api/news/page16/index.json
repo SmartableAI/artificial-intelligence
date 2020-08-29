@@ -2,47 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2020-08-14-michigan-self-driving-vehicle-corridor-aims-to-lead-nation.md",
-      "title": "Michigan Self-Driving Vehicle Corridor Aims to Lead Nation",
-      "excerpt": "Michigan is working to build a first-in-the-nation autonomous vehicle corridor in its southeast corner, a new bid to ensure the region remains the epicenter of an auto industry moving rapidly to a tech-driven future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_614402420.jpg",
-          "width": 840,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP",
-      "publishedDateTime": "2020-08-14T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-14-analyst-watch-the-rise-of-ai-chips.md",
       "title": "Analyst Watch: The rise of AI chips",
       "excerpt": "In a recent study on AI chips for Kisaco Research, where we closely examined 16 chip providers, we also mapped the AI chip landscape and found 80 startups globally with over $10.5 billion of ...",
@@ -1118,6 +1077,56 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-amazon-launches-braket-quantum-computing-service-in-general-availability.md",
+      "title": "Amazon launches Braket quantum computing service in general availability",
+      "excerpt": "Amazon today launched its fully managed quantum computing service -- Braket -- in general availability following a preview.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/",
+      "originalUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/",
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/amp/",
+      "publishedDateTime": "2020-08-13T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

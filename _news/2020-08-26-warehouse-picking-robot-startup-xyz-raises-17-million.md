@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17251073"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17251073"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence startup Dataiku raises $100 million in Series D funding"
-    excerpt: "Data intelligence startup Dataiku said it's raised $100 million in a Series D round of funding. The New York City-based startup said the funding round was led by Stripes, with major investment by Tiger Global Management and participation from existing investors Battery Ventures,"
-    publishedDateTime: 2020-08-24T17:38:00Z
-    webUrl: "https://www.bizjournals.com/newyork/news/2020/08/24/artificial-intelligence-startup-dataiku-raises-10.html"
-    ampWebUrl: "https://www.bizjournals.com/newyork/news/2020/08/24/artificial-intelligence-startup-dataiku-raises-10.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/newyork/news/2020/08/24/artificial-intelligence-startup-dataiku-raises-10.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 48
   - title: "Self-driving forklift startup raises $9 million in venture funds"
     excerpt: "The Texas-based, self-driving forklift startup Fox Robotics has raised $9 million in venture capital funding for its vehicles that automatically unload trailers, and will use the backing to ramp up production and meet growing demand,"
     publishedDateTime: 2020-08-28T18:35:00Z

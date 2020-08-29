@@ -9,7 +9,7 @@ ampWebUrl: "https://www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machi
 cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machine-reveal-date/amp/"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/04/22/11/elon-musk-neuralink-brain-machine.jpg"
         width: 1113
         height: 834
+        isCached: true
+  - title: "Elon Musk's Startup Neuralink Demonstrates Computer Implants In A Pig's Brain"
+    excerpt: "Elon Musk recently held a video presentation that showed a pig with the Neuralink computer implants. Continue reading to learn details and watch the video."
+    publishedDateTime: 2020-08-29T11:50:00Z
+    webUrl: "https://www.republicworld.com/technology-news/science/elon-musks-neuralink-demonstrates-computer-implants-in-pigs-brain.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 36
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/mzyq7uxsmmffta3q_1598692813.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 710
         isCached: true
   - title: "Elon Musk’s Neuralink is ready to demo its progress tonight"
     excerpt: "If there is one man who believes in utilising the power of microchips and computers to make us think faster, it’s Elon Musk. The tech mogul started one of his more ambitious ventures, Neuralink, a few years ago with the intent purpose of inserting microchips into the brain in an effort to improve human intelligence,"

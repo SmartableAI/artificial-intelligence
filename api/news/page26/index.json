@@ -2,56 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2020-08-06-google-heres-how-much-we-give-to-open-source-through-our-github-activity.md",
-      "title": "Google: Here's how much we give to open source through our GitHub activity",
-      "excerpt": "Google has given an update on its contributions to open-source software, revealing that its employees were active in over 70,000 repositories on GitHub in 2019.  Google's new 'by the numbers' snapshot of its contributions to open source over the past five years to 2019 shows its growing activity on Microsoft-owned Git-based code-hosting site GitHub,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-heres-how-much-we-give-to-open-source-through-our-github-activity/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/23/e1edfa95-fae1-4244-bfc6-3dc4cfd42a7b/thumbnail/1200x675/04a795c35d41b538148d6642a447c62f/open-source-github-buries-archive-in-arc-5f156beaef2c1c64094a982d-1-jul-23-2020-11-36-45-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-heres-how-much-we-give-to-open-source-through-our-github-activity/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-heres-how-much-we-give-to-open-source-through-our-github-activity/",
-      "publishedDateTime": "2020-08-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-06-is-the-carbon-footprint-of-ai-too-big.md",
       "title": "Is the carbon footprint of AI too big?",
       "excerpt": "Artificial intelligence obviously requires electricity and computers to work its practical magic. But don’t ignore the downstream environmental benefits",
@@ -1127,6 +1077,46 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-how-blockchain-benefits-from-artificial-intelligence.md",
+      "title": "How Blockchain Benefits From Artificial Intelligence",
+      "excerpt": "Despite being around for many decades, the replication of human intelligence in machines — artificial intelligence — has now become popularized. With many tech companies rushing to adopt the ...",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81MjU3MmFkODM2NDhkNmIwMmMxNmY1MjJlYzdlNmRiZC5qcGc=.jpg",
+          "width": 370,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence/amp",
+      "publishedDateTime": "2020-08-05T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

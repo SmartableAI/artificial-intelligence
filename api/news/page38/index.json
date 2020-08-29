@@ -2,55 +2,6 @@
   "page": 38,
   "value": [
     {
-      "path": "_news/2020-07-28-density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors.md",
-      "title": "Density raises $51 million to promote social distancing with AI occupancy-tracking sensors",
-      "excerpt": "Density, a startup building AI-powered, people-counting infrared sensors, today closed a $51 million round to address pandemic-driven demand.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/density-webiste-preview.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors/amp/",
-      "publishedDateTime": "2020-07-28T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-28-insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure.md",
       "title": "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure",
       "excerpt": "Insight Enterprises (NASDAQ:NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes,",
@@ -1129,6 +1080,56 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-elon-musk-says-hes-terrified-of-ai-taking-over-the-world-and-most-scared-of-googles-deepmind-ai-project.md",
+      "title": "Elon Musk says he's terrified of AI taking over the world and most scared of Google's DeepMind AI project",
+      "excerpt": "Tesla and SpaceX CEO Elon Musk, who has repeatedly warned of the dangers of artificial intelligence, said he was most worried about Google's AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5b840ccf1982d88b308b49fc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp",
+      "publishedDateTime": "2020-07-27T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

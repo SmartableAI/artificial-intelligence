@@ -42,17 +42,6 @@ related:
         width: 1085
         height: 723
         isCached: true
-  - title: "Artificial intelligence startup Dataiku raises $100 million in Series D funding"
-    excerpt: "Data intelligence startup Dataiku said it's raised $100 million in a Series D round of funding. The New York City-based startup said the funding round was led by Stripes, with major investment by Tiger Global Management and participation from existing investors Battery Ventures,"
-    publishedDateTime: 2020-08-24T17:38:00Z
-    webUrl: "https://www.bizjournals.com/newyork/news/2020/08/24/artificial-intelligence-startup-dataiku-raises-10.html"
-    ampWebUrl: "https://www.bizjournals.com/newyork/news/2020/08/24/artificial-intelligence-startup-dataiku-raises-10.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/newyork/news/2020/08/24/artificial-intelligence-startup-dataiku-raises-10.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 48
 
 secured: "ZvD5LCTpNVfdQ2V5C28y40+tI/r1EqSdQE9ePKXWJ/ox/agIzkhrVw1WMMVDpWbgiv2sg6s49Wywk14Uc6Z01VnJvFBamH9zCBix6IFPSt7E0jMr1KOOxrnXOohfiYXr3oplypsEyHEZ+YqYY5/w0+4XnJBDDR5idlJ/5SwFkbKycbylND5EDP2ngvPK1ro2g67JNcqGA2FOWcVXXqIaqTttJ29KwWrY3c/IRy7+zcV83MD7/GuECYyuXgk6zC+qHh50l2MhoLZg5pbwxuZI7caREB7Pw3b8OQnbRc9QuLXYNTpHMMr+FUWaAabQXbBkkMlSXArrRKCXxxT2IYdMMdyCt4ZlrmZiKGcOKaNslH4CBDOQMy8Q6wbI20yQDNrIHjtHxh41nBmbeJKSuROLm+c2whGQWgVD6D2BIls59ECzzeeX4e3g1iQR0Nw58TBRcVIKBG+vDF9eOItkHjh0i6uSTKQutBlhQ2gGK7Hz6D9CE7ORXfENmFkPXomPaoptLCv33cI3/efq6339C/LWNFVbPN7konduPdyhXiHiJF4=;Ag3jFV45GUDTK//M23Z7rg=="
 ---

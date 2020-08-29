@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Facebook and NYU are using AI to dramatically speed up MRI imaging"
-excerpt: "Facebook’s AI researchers gave themself an especially demanding challenge: Use algorithms to fill in the details of an MRI scan. The results are promising."
-publishedDateTime: 2020-08-18T13:00:00Z
-originalUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging"
-webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging"
+excerpt: "Two years ago, Facebook’s Artificial Intelligence Research group (FAIR) began collaborating with researchers at New York University’s Medical School on artificial intelligence that held the ..."
+publishedDateTime: 2020-08-18T13:34:00Z
+originalUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com"
+webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: fastcompany.com
 
 topics:
-  - Facebook AI
+  - AI in Autos
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 720
     isCached: true
 
-secured: "CYWgDX7mL/aUVOmcoG7qQfMkfm3zmRGE5YaBHsk+h4X7fhICh/dv6A7jHVAjGoy1oyVUj3OcTMO+lof9ZqdyEyLl6BPr94JLGro0Oa+ehd0YZKz2R+EBT/VKy+YAd2B4ItkT+yae+l9cuomaxJ3qX52XBpn1+0TWtiRMsD332SgrIh7MYxG4D77uOuA95wbkCkHz6Mz2vmHM1wCn638SDul4kDQq7oWsJQPvACdznSiFeneVh1YR5uiz4OWmVjxdeuBbBS/dKkyGRcNYwmlpYjtVfmVfBmfQ9S3FNJONHLeVkq2UvnRkUhkSpbT4d4JkeLdxV/EadOIRqwmynSiLiV2qwEiqyy5id0cqneyOlMY=;2v0babgBgol6SnD8OLgv+g=="
+secured: "3Yj7xZIG7VKaurf+MvzNeb4NAEYloH8/qBviVCSGQtZAfpwAI5epu6lB5q2WKKtr3+iyod2igruncjHNiHceiBtQwazlP3eYADk7uCNf9v6+25ZMuuJ2ZVLHxaHdWA6F3KQudGrPHedAP5m/RVihYkhy7UM0IPUvVxxnIFGbOZ53PcStEycpTOEvcvwy8jjabaoBsbaTHiyjDBRZAvMqyvQnuQqG/m1doq6t5aCxMgSmdEzL8H9Un3Ag0pFwGNHXQSLRm468NBNrCTV0l6xGA23WC4j3kt5mGghlQ0xe1jvN8RqYJVdS6vX2W5M7GjqZFJPICr0YS2RduGKr43AmodpKKp9jOdnfRlMwDSe2aJc=;CYXjmwg+I+fQ1MgWNKwgaA=="
 ---
 

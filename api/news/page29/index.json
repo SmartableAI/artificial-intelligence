@@ -2,47 +2,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_news/2020-08-04-lt-technology-services-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions.md",
-      "title": "L&T Technology Services expands collaboration with Microsoft to offer workplace transformation solutions",
-      "excerpt": "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimise business metrics leveraging advanced IoT based Edge Analytics and machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/lt-technology-services-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/2044273/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2020/08/LT-Technology-Services.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/lt-technology-services-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/2044273/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/lt-technology-services-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/2044273/lite/",
-      "publishedDateTime": "2020-08-04T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-04-why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online.md",
       "title": "Why we need more image masking tools to avoid facial recognition systems from identifying us online",
       "excerpt": "For the past couple of weeks, a new tool to save your photos from facial recognition algorithms has been doing rounds. The tool, called Fawkes, is developed by researchers at the University of ...",
@@ -1095,6 +1054,56 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-03-chinese-artificial-intelligence-company-files-14-billion-lawsuit-against-apple.md",
+      "title": "Chinese artificial intelligence company files $1.4 billion lawsuit against Apple",
+      "excerpt": "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit against Apple Inc , alleging it has infringed on its patents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-apple-china-patent-suit-idUSKBN24Z146",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200803&t=2&i=1528138014&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG720MC",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24Z146",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24Z146",
+      "publishedDateTime": "2020-08-03T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

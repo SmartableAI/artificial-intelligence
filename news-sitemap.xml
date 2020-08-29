@@ -259,12 +259,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27</loc>
-    <lastmod>2020-08-27T07:31:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/curtissilver/2020/08/27/porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai/</loc>
     <lastmod>2020-08-27T07:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -961,8 +955,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-301116528.html</loc>
-    <lastmod>2020-08-21T14:32:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html</loc>
+    <lastmod>2020-08-21T14:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1783,6 +1777,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
+    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1815,12 +1815,6 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
-    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2479,12 +2473,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://stockhouse.com/news/press-releases/2020/08/13/the-top-ways-artificial-intelligence-is-disrupting-life-as-we-know-it</loc>
-    <lastmod>2020-08-13T07:52:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.techrepublic.com/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/</loc>
     <lastmod>2020-08-13T07:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2505,6 +2493,12 @@
   <url>
     <loc>https://www.vox.com/future-perfect/21355768/gpt-3-ai-openai-turing-test-language</loc>
     <lastmod>2020-08-13T07:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.baystreet.ca/articles/stockstowatch/59411/The-Top-Ways-Artificial-Intelligence-is-Disrupting-Life-as-We-Know-It</loc>
+    <lastmod>2020-08-13T07:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
