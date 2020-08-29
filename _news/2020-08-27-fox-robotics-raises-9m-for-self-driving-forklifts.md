@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Fox Robotics Raises $9M For Self-driving Forklifts"
-excerpt: "PRNewswire/ -- Austin-based Fox Robotics is announcing the close of a $9 million Series A led by Menlo Ventures, one of the most respected venture"
-publishedDateTime: 2020-08-27T12:38:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/fox-robotics-raises-9m-for-self-driving-forklifts-301119515.html"
-webUrl: "https://www.prnewswire.com/news-releases/fox-robotics-raises-9m-for-self-driving-forklifts-301119515.html"
+excerpt: "PRNewswire/ -- Austin-based Fox Robotics is announcing the close of a $9 million Series A led by Menlo Ventures,"
+publishedDateTime: 2020-08-27T13:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
+webUrl: "https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1244401/team.jpg?p=facebook"
-    width: 1676
-    height: 879
-    isCached: true
 
 related:
   - title: "Austin self-driving forklift company raises $9 million"
@@ -44,6 +44,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "4HTo/dhx2avCEHjvjGbh25aVvec2/2uyL6YbVndsogXWXvdKc9ifpjVt2+/y9DOcc9YGHV/UdjspKi7xwG9ilRZme9XXXKKXwcL4j6mnVqM3EQeZQEXodb9225qqlXbr1oKx2UzwfEifVOnLCMdXR1BhUKOto9wYxMBiAwItbxOsiBuQs/h1C6f70bzVpZ8uffhqRK6HdsHyMtaTu8U0Z3bj+NalVNn2AEA63pHQxC8yjxn7g7+H0/jnu5tFp6PL9rJbb+qIZnsiQELDc8jit0tmhxgHVgLMk9eTeiQYOnyAWm5jn9Hv6RTUdftFY9+g1kgPNEkRFY8hnUO4sS/PDIoHZLkdGPgBG2349qWV8z0=;cHPRc3T4CGemtxBudpBiQQ=="
+secured: "sXPrWKGo70b8OPWbOoHCUDqoQscBTNPMF6GmA2sYo1a9cSQucezssGULdPJGIVPI5Zxbg7fxFc4H8rBAQUwnRTTwxFXdUm7ZtDV3mm0iBYaj8//7txE7pTmhayhA/TjiwLNnvK1KYsXTEV5/EHW9Q2uC+0pIEikk6pd9cabaSLj81OjSJU5jypdRn2xpyDVnsLavvw9kKyuTsx4/Q8TRLOxdiaYnPEy/FR4VI8xk3L/87tbj1RulQ/TfqlPp8g+jp/iwTnfq9jkfIxHXSUmRXj0Ldnx27eVrrJk8uubqycBeh4A90y/VjS7gju2QBgukl4tNw3LbWxZ2NhgLuGbICD2Lusab5sTCxDExa4qhlyw=;LapUv6nL3015z7kRu3XJjQ=="
 ---
 

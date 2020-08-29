@@ -3,6 +3,7 @@ category: news
 title: "Artificial Intelligence in the Medical Imaging Market New Technologies and Developments 2020-2026"
 excerpt: "MarketIntelligenceData report, titled Global Artificial Intelligence in the Medical Imaging Market Size and Forecast to 2025 presents a comprehensive take on the overall market. Analysts have carefully evaluated the milestones achieved by the global Artificial Intelligence in the Medical Imaging market and the current trends that are likely to shape its future."
 publishedDateTime: 2020-08-24T12:02:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-medical-imaging-market-new-technologies-and-developments-2020-2026-2020-08-24"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-medical-imaging-market-new-technologies-and-developments-2020-2026-2020-08-24"
 type: article
 quality: 56

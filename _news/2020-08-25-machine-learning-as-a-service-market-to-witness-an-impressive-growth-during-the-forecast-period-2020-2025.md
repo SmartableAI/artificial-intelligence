@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Growth By Manufacturers, Type And Application, Forecast To 2026"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include IBM Corporation,"
-    publishedDateTime: 2020-08-24T09:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Machine Learning as a Service (MLaaS) Market 2020 with Impact of COVID-19 Outbreak, SWOT Study, Steady Growth and Forecast 2025"
     excerpt: "The market research study on Global Machine Learning as a Service (MLaaS) Market 2020 by Company, Type and Application, Forecast to 2025 incorporates insightful data from industry specialists to inform readers about key trends and opportunities in the global market."
     publishedDateTime: 2020-08-25T19:36:00Z

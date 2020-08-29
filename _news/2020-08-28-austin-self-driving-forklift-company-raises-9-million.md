@@ -20,19 +20,16 @@ topics:
 
 related:
   - title: "Fox Robotics Raises $9M For Self-driving Forklifts"
-    excerpt: "PRNewswire/ -- Austin-based Fox Robotics is announcing the close of a $9 million Series A led by Menlo Ventures, one of the most respected venture"
-    publishedDateTime: 2020-08-27T12:38:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fox-robotics-raises-9m-for-self-driving-forklifts-301119515.html"
+    excerpt: "PRNewswire/ -- Austin-based Fox Robotics is announcing the close of a $9 million Series A led by Menlo Ventures,"
+    publishedDateTime: 2020-08-27T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1244401/team.jpg?p=facebook"
-        width: 1676
-        height: 879
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
   - title: "Hefei emerges as testing ground for self-driving fleets"
     excerpt: "Volkswagen (OTCPK:VWAGY) says it will roll out its first fleet of self-driving test cars in the eastern Chinese city of Hefei.The German automaker plans to set ten Audi e-trons loose in the city that is has 50 miles of intelligent car-friendly infrastructure and is an emerging EV tech hotspot."
     publishedDateTime: 2020-08-26T13:58:00Z

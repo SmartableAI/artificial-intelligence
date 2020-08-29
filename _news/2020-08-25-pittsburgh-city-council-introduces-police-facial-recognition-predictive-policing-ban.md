@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pghcitypaper.com/pittsburgh/pittsburgh-city-council-intr
 cdnAmpWebUrl: "https://www-pghcitypaper-com.cdn.ampproject.org/c/s/www.pghcitypaper.com/pittsburgh/pittsburgh-city-council-introduces-police-facial-recognition-predictive-policing-ban/Content?oid=17879052&media=AMP+HTML"
 type: article
 quality: 52
-heat: 82
-published: true
+heat: 62
+published: false
 
 provider:
   name: Pittsburgh City Paper
@@ -27,33 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Technologies, Like Police Facial Recognition, Discriminate Against People of Colour"
-    excerpt: "Borchak Williams in January 2020 for a shoplifting incident that had taken place two years earlier. Even though Williams had nothing to do with the incident, facial recognition technology used by Michigan State Police “matched” his face with a grainy image obtained from an"
-    publishedDateTime: 2020-08-25T09:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/08/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/08/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 49
-    images:
-      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/25/algorithm-facial-recognition-1024x560.png"
-        width: 1024
-        height: 560
-        isCached: true
-  - title: "AI technologies — like police facial recognition — discriminate against people of colour"
-    excerpt: "Technology is not neutral, as facial recognition algorithms and predictive policing have shown us. Algorithms discriminate by design, reflecting and reinforcing pre-existing biases."
-    publishedDateTime: 2020-08-24T20:56:00Z
-    webUrl: "https://theconversation.com/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
-    ampWebUrl: "https://theconversation.com/amp/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 45
   - title: "Biometric facial recognition ban considered in Pittsburgh and enacted in Jackson, Mississippi"
     excerpt: "A bill has been introduced in Pittsburgh, Pennsylvania that would ban the “unrestricted” use of facial recognition by the city’s police, as well the use of predictive policing algorithms,"
     publishedDateTime: 2020-08-27T16:33:00Z

@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Mobius Logic brings drone flight management to Microsoft Azure"
-excerpt: "PRNewswire-PRWeb/ -- Mobius Logic, Inc. a leader in next-generation digital services, announced today that its"
-publishedDateTime: 2020-08-21T15:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/mobius-logic-brings-drone-flight-management-to-microsoft-azure-1029524393"
-webUrl: "https://markets.businessinsider.com/news/stocks/mobius-logic-brings-drone-flight-management-to-microsoft-azure-1029524393"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/mobius-logic-brings-drone-flight-management-to-microsoft-azure-1029524393"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mobius-logic-brings-drone-flight-management-to-microsoft-azure-1029524393"
+excerpt: "PRNewswire-PRWeb/ -- Mobius Logic, Inc. a leader in next-generation digital services, announced today that its Federal Aviation Administration"
+publishedDateTime: 2020-08-21T15:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17190966"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17190966"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "FeeAFxV0vTeO8FNRaav+qkApksJt5L3TQmJL98/jOJQrFy1fXAR/BetdjskvfAu+xnLkiJzMSYMfY3GTjytcEc852Immhzk8A3wY/K5wEqqvUVMVtbUKfzm3E9PxRvLVt/LLSfZjzUCO/udkW5PPehONXw1aypvKecdSkIpJ8TSjdIpnkLySTgn83gmt12LRgSy++8tMP5A59gW8aH5uBJFyuhprGuxMZPIDbVxGFKMhPBK3T67aqhABGy86C/0Kpml5Eu+d5molLymFAzr8rSeY8i1qZduIqHl3qFFifo/UDpqXaMTSCKcZs8t58wUhmAurmsCrTpWy17a6ne1zS2sAMswnjeKDImAXPdq+XgM=;t0BehM68WxWOYJ4y/b7/0g=="
+secured: "Vj4eUzqQ++mbgPqiFYndaKW1iDRiMenirLTqhT6YrVdivZV5r7WtvOGNZ75kLgdAJYfcc+/4c6IgRJewP/qaSAUoSqsomGXzl1fiE5NgNQYyLZ72CNofirbiNiQ1scZIEzSoaFHIfGQ8+x9KhIK7LRK45I4dV0aW1bm7Vkn42XWQJrh0CZMKsZGY9evZtH1aM2nFIJIOcarzc+Mdy8T5gf41acVnzRhQPj62LWpOOp6EZxVhWTPofhCs8WeMR0gs3/7Nag2MIGaT1VBVUytAnlTeJdiY6Cp9ZqeM/FUhauaqKMJEoWEcfapGYAlCh+BBuPInXhaIgvdn88YO/iz6jbeE+9P2rrw6Xszew9vQD6R8iDGxB1JQVOtO35/vh3rrZsUt2iTQCF8Qu/qNFaRzn/ILgQrABkGit2QsM/lPhC5BuyFIkWNc4t3Bs0dO5siPJ1zpixVZT6wE34iRBFBHIdmADw+5gAiLJBxuJ2IhrpBYZoVnMYtjvZrHsXXhBaVSNgg4OLyobiesUVvEuL3j3MWOmlJP9qgtKr+Iv3RFftw=;d2gM/9z5eTr5W7y8ieRptA=="
 ---
 

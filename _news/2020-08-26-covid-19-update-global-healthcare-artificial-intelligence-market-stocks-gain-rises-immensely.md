@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update
 ampWebUrl: "https://amp.benzinga.com/amp/content/17242858"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17242858"
 type: article
-quality: 77
-heat: 77
+quality: 79
+heat: 79
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.abnewswire.com/uploads/1598357109.jpeg"
@@ -26,6 +27,6 @@ images:
     height: 455
     isCached: true
 
-secured: "rSTYqWFVi9SM411lmXw+i3kNceCO554ipATSfh+NOvngkfGN3PXwJhJZOrs2riKzZZeaOc7ug7NoDzJBEG+dhVslfRYZsXDGX9w7ex3daUFAhSuExLF8hn6gj701NPPPpB9du5Oa+pz2LcYqZ6IldDJO3w+Ri5u2luQysgxPLS0ykBPpJo4EI8gj2BhvTQbGG75jK6qlFvRqFxOmALkRkTl5o0UqO4fpKZR65WKvEtgyhBzoWUrpbWibD/PdYLJgsPynx3MHQN0ktb1LBlkKYC4Z2s+4FqMJKy9bTUPUwmkNgHXapgvY2oX8t0iauSwkVJ29mnFqhVlDIHW1pVNCrleGSLTWQCQnT4Ai6Lms1Dg=;HImEjGddBVqcFrOpv90CRQ=="
+secured: "xYTTy9NwiuddcwAMUJQuYga4/SKoWAv8I/Shr7Tpk58uJZOebAqR+17Xr+DLROpnzDzEaQFU6j+Mc7ZyF6S8M1WohP1X2ZA4WNsYVq92MY0GUCBSb7No2pSY1u9R1Omo+vw5ks3oYLex+DtdLv3tIwk8N+51b91EoiSsSCfXCGIGuot/ewj/muHzDqkuoyHcezbcitSDj2zixsHU/uqwL0GeWkj1AkTnhkZ4S3bnfn4IJQjvmJ1qrn+DOTruGxzhBZiVSjkjYRa4jN+96OIqaHE5FsuHQ2MIJR9Z8Mlz8tmdqjnhQKBh4PRKMEGzWdkTWB0xvtoMuRGb0JvnmxCIFU1Y4SJaquS6/SLCDuWd/d8BbiOeEWeUPnC4fEaf48BerB+E4bsGw99VJQX+RpYOp2a6NrxvLHVRydxHdDrmQnNfygIIFWZkhmWxJjyAhGQWYJrLPlxYlHblEwky3Zkx+lWa3pRt7t1DjuUK1goi4/1ad2tBWzR+d2fzPpZkpGB4qy2lb4pdJHsJGPjAFoI0taAVYyC8iP8E4gPkV6JFEPE=;pTfny4d/5w24rX+T4/INDQ=="
 ---
 

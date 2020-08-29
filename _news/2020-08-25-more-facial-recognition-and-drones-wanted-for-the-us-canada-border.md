@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/889bwz/more-facial-recognitio
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2020/08/Untitled-design-2020-08-28T205829.270-min-1.jpg"
         width: 1360
         height: 1020
-        isCached: true
-  - title: "Orwell’s nightmare? Facial recognition for animals promises a farmyard revolution"
-    excerpt: "China’s acts of bovine intervention could help improve agricultural safety and allow the industry to become more self-sufficient."
-    publishedDateTime: 2020-08-24T09:09:00Z
-    webUrl: "https://www.washingtonpost.com/world/asia_pacific/facial-recognition-china-animals-farms-agriculture/2020/08/23/9808c710-d6fb-11ea-b9b2-1ea733b97910_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/asia_pacific/facial-recognition-china-animals-farms-agriculture/2020/08/23/9808c710-d6fb-11ea-b9b2-1ea733b97910_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/facial-recognition-china-animals-farms-agriculture/2020/08/23/9808c710-d6fb-11ea-b9b2-1ea733b97910_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 56
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MPRG3MRGMQI6VHGJ4GOPXSD6KE.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Facial recognition lessons for the private sector from the South Wales police case"
     excerpt: "In response to the successful appeal against the legality of South Wales Police’s use of facial biometrics for automated public identification, the Data Protection Report from law firm Norton Rose"

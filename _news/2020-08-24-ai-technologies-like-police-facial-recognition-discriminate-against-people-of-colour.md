@@ -21,21 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Pittsburgh City Council introduces police facial recognition, predictive policing ban"
-    excerpt: "The Pittsburgh Police have been under some intense criticism as of late for their recent arrest of a protest marshal using an unmarked van"
-    publishedDateTime: 2020-08-25T16:03:00Z
-    webUrl: "https://www.pghcitypaper.com/pittsburgh/pittsburgh-city-council-introduces-police-facial-recognition-predictive-policing-ban/Content?oid=17879052"
-    ampWebUrl: "https://www.pghcitypaper.com/pittsburgh/pittsburgh-city-council-introduces-police-facial-recognition-predictive-policing-ban/Content?oid=17879052&media=AMP+HTML"
-    cdnAmpWebUrl: "https://www-pghcitypaper-com.cdn.ampproject.org/c/s/www.pghcitypaper.com/pittsburgh/pittsburgh-city-council-introduces-police-facial-recognition-predictive-policing-ban/Content?oid=17879052&media=AMP+HTML"
+  - title: "Facial recognition technology is biased with higher error rates against people of colour"
+    excerpt: "Even though Williams had nothing to do with the incident, facial recognition technology used by Michigan State Police “matched” his face with a grainy image obtained from an in-store surveillance video showing another African American man taking $3,"
+    publishedDateTime: 2020-08-29T00:41:00Z
+    webUrl: "https://scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour"
+    ampWebUrl: "https://amp.scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour"
     type: article
     provider:
-      name: Pittsburgh City Paper
-      domain: pghcitypaper.com
-    quality: 52
+      name: Scroll
+      domain: scroll.in
+    quality: 65
     images:
-      - url: "https://media1.fdncms.com/pittsburgh/imager/u/original/17879057/facial-recognition-technology-policing.jpg"
-        width: 700
-        height: 392
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/124346-kfgetldkjs-1598371183.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "AI Technologies, Like Police Facial Recognition, Discriminate Against People of Colour"
     excerpt: "Borchak Williams in January 2020 for a shoplifting incident that had taken place two years earlier. Even though Williams had nothing to do with the incident, facial recognition technology used by Michigan State Police “matched” his face with a grainy image obtained from an"
@@ -52,20 +52,6 @@ related:
       - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/25/algorithm-facial-recognition-1024x560.png"
         width: 1024
         height: 560
-        isCached: true
-  - title: "Biometric facial recognition ban considered in Pittsburgh and enacted in Jackson, Mississippi"
-    excerpt: "A bill has been introduced in Pittsburgh, Pennsylvania that would ban the “unrestricted” use of facial recognition by the city’s police, as well the use of predictive policing algorithms,"
-    publishedDateTime: 2020-08-27T16:33:00Z
-    webUrl: "https://www.biometricupdate.com/202008/biometric-facial-recognition-ban-considered-in-pittsburgh-and-enacted-in-jackson-mississippi"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
         isCached: true
 
 secured: "/Fq2GS2nFnx0KGL50ZZPxQYgtdHyF1c2ojIbaA6KWk38g5oX/tiK34T9nA6TSFotDL6SG86RzQkGx3JCLAgXE3pjNTV52A7Fl0KrO2mjjIz12HiICqERlFfLQ/zdsgKTFpjqrB0grSAEkdb0SzItkO50GkMgsHAEFu7zQIJnEyrX933WAak/9Ff1j7mrPG2NDRG2axjAZOB2yhr8v2OsAYjzyk28gtF6QbLkcE45/qe0YfWkbO5AqfeRoWxVWkSejhN2HoiCwPbmxbEmPumfv0SGN/ijzR9I44u5hUfHJghrLkD5cZGMDy6hH6ysX8e1SddHviVJwq9qv3Gl54L8ZuaHVPW0DVK8yzZ3K53H7fkgWaoRKilNb3CUgk+ii233+xH8K6p3kUyXecD7W8YilshSu7UCDc9pNNu6Cmleg8Ack2/AiFIjxi1lS6ICQRK4gPp+n1GBgRWJJNRA3o95+zLx6SD3jfto53zvb2Mhr/WAdMDD8QagvcAWGq1oM/C5;aQOx4foAXdaWGGw9eGx77w=="

@@ -173,20 +173,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Data Storage Market |2020 Industry Analysis By Size, Growth Projection, Share And Global Trends Forecast To 2027"
-    excerpt: "The digitalization of the world led industries to generate a tremendous amount of data. As the paper-based work is"
-    publishedDateTime: 2020-08-24T10:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-storage-market-2020-industry-analysis-by-size-growth-projection-share-and-global-trends-forecast-to-2027-2020-08-24?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Medical Imaging Market 2020 Market Research with Size, Growth, Manufacturers, Segments and 2026 Forecast Research"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Artificial Intelligence in"
     publishedDateTime: 2020-08-24T11:51:00Z

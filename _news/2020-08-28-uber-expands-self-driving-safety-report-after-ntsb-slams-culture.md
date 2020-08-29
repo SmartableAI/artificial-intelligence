@@ -1,23 +1,35 @@
 ---
 category: news
-title: "Uber expands self-driving safety report after NTSB slams culture"
+title: "Uber Expands Self-Driving Safety Report After NTSB Slams Culture"
 excerpt: "Uber Technologies Inc. vowed to make public more safety information regarding its self-driving cars after the National Transportation Safety Board placed partial blame for a fatal 2018 crash on the company’s policies."
-publishedDateTime: 2020-08-28T16:00:00Z
-originalUrl: "https://www.autonews.com/regulation-safety/uber-expands-self-driving-safety-report-after-ntsb-slams-culture"
-webUrl: "https://www.autonews.com/regulation-safety/uber-expands-self-driving-safety-report-after-ntsb-slams-culture"
+publishedDateTime: 2020-08-28T12:00:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture"
+webUrl: "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture"
+ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture"
+cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture"
 type: article
-quality: 4
-heat: 4
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "RWQNB/eSVVSxdtqJmyad8/B873a0xUpf+ttKOTikOrfpIMTot38yb4fdK4SkpuFDLk/XU/K5ZvgwVlUpADZQG7LjU2A0JwSn+YeMJl7xMH73mxXjxQ3qXFeW/tuP8GgdR9G50WPuByjz5+Ciu1NlKJYND37rdxunGNfrQAJZTJfDeFa1RW0WQisdCZldr4nS+PHy/6ETcrEnK0MVxSUaRAw8b1DQtDCvhNuk+/oW3dBofN7pMfLsUREvbFPYnZuVLRLYntfzF0v2p60c43/5ird7cyVN/wHIWkZbXe0gw7q9G3mMygS59vSRa95OU2or/T4eKMv+npnA8gM2wZ5xZxkNAzN7zYJOiPvD9eaWoG2px1P4xnlFItAG/dDymtpjN3GzSvGGcsaADBZ1kj/5C8g1Pz3zzfxtR26dND8e29I9XfkWo3vM1Zm3I2KUOX98HUyEW2YznoMaIvDcEhcyrNBtsNj/jcnk4m2/x0T8+24gPKj6jDZ7VFlElwfdcE8QqvDBR0/obHnZcI6F8fluQAow+ekobW+8ldMjRHtGzO8=;K9bSNXUbkBPYUVlIcI1h3g=="
+images:
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyGf4FGe5VZ4/v0/360x-1.jpg"
+    width: 360
+    height: 239
+    isCached: true
+
+secured: "J2c8s+FH/0vsic1788rJdgmCrmPtfi4FQ3L+qcTlAou6vS8NSRCEcHDLhNWE0UkyrDspT197ZCWp0AsNG6oioAK/n7C8IymEV2l/3k4AGNh5rqWqMsXkEjznAO3kRPW30cZ85IQT4zi3HO1ncL8vfkwRdKxDjGARIbfa0Dwz90LGOKiB6RvNhjAwo/4/hTnL6eVK6doXL4xKCDt2VSlNygV/tZhPrzvMM2JUHVU0po9BKALQnhRAZT9PuHpSJ4hUNvzBEEdA7oEXcErLkmJnHyQ5jnaLMe5f77HL+42rL+OGzPKcBEgfiSuEmBy48EUpbvK9SDV8YSFZeYYuT7mll5miXQ+UCBsfjHRNbzm+C00=;YQ6hY8gWmYYicI7LNHki8w=="
 ---
 

@@ -20,19 +20,16 @@ topics:
 
 related:
   - title: "Fox Robotics Raises $9M For Self-driving Forklifts"
-    excerpt: "PRNewswire/ -- Austin-based Fox Robotics is announcing the close of a $9 million Series A led by Menlo Ventures, one of the most respected venture"
-    publishedDateTime: 2020-08-27T12:38:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fox-robotics-raises-9m-for-self-driving-forklifts-301119515.html"
+    excerpt: "PRNewswire/ -- Austin-based Fox Robotics is announcing the close of a $9 million Series A led by Menlo Ventures,"
+    publishedDateTime: 2020-08-27T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1244401/team.jpg?p=facebook"
-        width: 1676
-        height: 879
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
   - title: "Austin self-driving forklift company raises $9 million"
     excerpt: "Austin-based Fox Robotics, which makes self-driving forklifts, has raised $9 million in new funding to help ramp up production as the company looks to"
     publishedDateTime: 2020-08-28T19:58:00Z

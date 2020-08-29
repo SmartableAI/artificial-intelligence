@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/mit-is-developing-an-ai-cancer-diagnosis-system-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mit-is-developing-an-ai-cancer-diagnosis-system-1699916919/amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 800
     height: 362
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Good As Radiologist in Diagnosing Cancer"
+    excerpt: "Researchers have compared the ability of three different artificial intelligence (AI).The best algorithm proved to be as accurate as the average radiologist."
+    publishedDateTime: 2020-08-29T03:22:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-good-as-radiologist-in-diagnosing-cancer-197177-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-good-as-radiologist-in-diagnosing-cancer-197177-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-good-as-radiologist-in-diagnosing-cancer-197177-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 57
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/internet-search-engines-for-detecting-pancreatic-cancer.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
 
 secured: "vQG7ID5w1U3z5Yx0e98MjFFwFDSCTNX5GjlPoVCd2HvyNiruGzh/iNyozXcyGTwJkZmlQ3/6PHsTdQyzKO4Turu8K7WpKVxYuZtTqyTsupIZXM1THIHaKlIDaS2VFjNOa94vLNtVXKw8LQqL07osjKuAqD/dK9/8cNXoBfnNluTjQOUex8Y1zfpwHRvZT4jAkC4JPO0vyI2W2rhMcN15kl2vgDbHEz2hLxo+lwGnAUZovVP7LfHM/xq5ZeQ+MvPLQQ8UqCyN04oN/O32DPPyYIIkAbOt9im1IufbELDn3g3Qow8b0DXyAV5pnc6Lk3vkMEA2W0fbNa50IOkCXQf3hYAFC7f9jc+jKyRsmDZF1TOFbST1crVaD3qGJ9asHsRpwqzd1wm7B3i+wP7PAjSf+4crwSAJfBbAv3V1njryE2FaDNoa/qOpmvkrSkmZq6kTLGkh9GU9VjRn3flwOAzJh/DoWKKiuzZFaigXR5wJ1ZltARTVsOXA9YLFndldGwqYqhEJwBValNHnUZXmvH6I9A==;BRdSaxEehTFMW7s/hFk6dA=="
 ---
