@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Elon Musk’s Neuralink is ready to demo its progress tonight"
-excerpt: "If there is one man who believes in utilising the power of microchips and computers to make us think faster, it’s Elon Musk. The tech mogul started one of his more ambitious ventures, Neuralink, a few years ago with the intent purpose of inserting microchips into the brain in an effort to improve human intelligence,"
-publishedDateTime: 2020-08-28T10:49:00Z
-originalUrl: "https://www.criticalhit.net/technology/elon-musks-neuralink-is-ready-to-demo-its-progress-tonight/"
-webUrl: "https://www.criticalhit.net/technology/elon-musks-neuralink-is-ready-to-demo-its-progress-tonight/"
+title: "Elon Musk’s latest startup wants to implant computer chips inside the human brain"
+excerpt: "Elon Musk isn’t content with electric cars, shooting people into orbit, populating Mars and building underground tunnels to solve traffic problems. He also wants to get inside your brain."
+publishedDateTime: 2020-08-29T20:13:00Z
+originalUrl: "https://www.staradvertiser.com/2020/08/29/breaking-news/elon-musks-latest-startup-wants-to-implant-computer-chips-inside-the-human-brain/"
+webUrl: "https://www.staradvertiser.com/2020/08/29/breaking-news/elon-musks-latest-startup-wants-to-implant-computer-chips-inside-the-human-brain/"
 type: article
-quality: 24
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: criticalhit.net
-  domain: criticalhit.net
+  name: Honolulu Star-Advertiser
+  domain: staradvertiser.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://i0.wp.com/media.criticalhit.net//2020/08/Neuralink.jpg"
-    width: 800
-    height: 536
+  - url: "https://www.staradvertiser.com/wp-content/uploads/2020/08/web1_10372849-9e392b49320d4cbbbd0f72035a3bde43.jpg"
+    width: 760
+    height: 507
     isCached: true
 
 related:
@@ -69,21 +68,21 @@ related:
         width: 1242
         height: 710
         isCached: true
-  - title: "Elon Musk’s latest startup wants to implant computer chips inside the human brain"
-    excerpt: "Elon Musk isn’t content with electric cars, shooting people into orbit, populating Mars and building underground tunnels to solve traffic problems. He also wants to get inside your brain."
-    publishedDateTime: 2020-08-29T20:13:00Z
-    webUrl: "https://www.staradvertiser.com/2020/08/29/breaking-news/elon-musks-latest-startup-wants-to-implant-computer-chips-inside-the-human-brain/"
+  - title: "Elon Musk’s Neuralink is ready to demo its progress tonight"
+    excerpt: "If there is one man who believes in utilising the power of microchips and computers to make us think faster, it’s Elon Musk. The tech mogul started one of his more ambitious ventures, Neuralink, a few years ago with the intent purpose of inserting microchips into the brain in an effort to improve human intelligence,"
+    publishedDateTime: 2020-08-28T10:49:00Z
+    webUrl: "https://www.criticalhit.net/technology/elon-musks-neuralink-is-ready-to-demo-its-progress-tonight/"
     type: article
     provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 32
+      name: criticalhit.net
+      domain: criticalhit.net
+    quality: 24
     images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2020/08/web1_10372849-9e392b49320d4cbbbd0f72035a3bde43.jpg"
-        width: 760
-        height: 507
+      - url: "https://i0.wp.com/media.criticalhit.net//2020/08/Neuralink.jpg"
+        width: 800
+        height: 536
         isCached: true
 
-secured: "M1Pmit0WpPfFK+TqKX1KbxMCZGbuJCJ7Jn3vzLt8e8LHp3SXNJ6LGvQL8SrUhuubuVlqbLglEm7km0CueGtVIii3qNUI62Pde6c3cjIDolQdU+JJ1W61KwiqaiO7hMh8tHd2WEFJRX2/qptWjQ0rhxmJZaCHHoLujhQhzlXfolk/BYc8Tdv9kzkb3QbmhR5g9F76LW4FQzNoKW7cSaS2XESZblYl+/Cjef07sCUVMh8Sj6nR1PiLi522t35rvNRg2YFPQ6SQQHq5ifMuvn52w49Lz5ABHFH///l5tx425posQzwVvyN8ySGQQmiu0qtm295wauzAyE2vAcsShby25kRmDnUynPZJeL1IVrIZKAnPqa+Ksy0XgMxe3jkHzozmAWEOBAp6Th1GOire/IsoJM3pgpgX5bgREQzOpjRFn79jr5WnCoXmqrxYMkf2+Aw4HMAxvvTVSTLccmFXXojnJmbnquNxnLDRnrvPwac4ywvwU8056VTMo6lnwVg9YRTMMIqCXNBas30YKuC1cIM6f98ErGyCJ4wD+3Z0xzBS2qs=;Rs7QEkecH8Rc6I6M/Istpw=="
+secured: "CEK2BzMlfM/p3cf3G01V2G+k8Zjoh5YjOCjrynLxCDbnNIHucJwLTGJ0V+2nTsyh6Dw7894q8Rksu1FW81DRNoDcUdunfput2oH8oJtzKpa3cNA7/S9MyH1sOwq9ArBzxtQxnHn+pdkGeomo9f2t2UUE7DVdIz7IFvYYWZx2zGcOoSdZhvR/V4FSrzyRZB83LOPznCTW55yu9QDHMkDhMvpHxX02yGrZR70ER4vYqIDhNcUgi8xIKMVSVKRYrBwvdMzseGFBcBFg/+8wx7WWTGCiHt8pK03nZXH7c5DuuatvKw4ZQzTkUE8z8sUOFfaArgw1XH4liiqpcgYfoMgVwq8A/NjsTbGypZxT62JiD6A=;r1i+qAb4IWiS1rMjNFsIPA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machi
 cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machine-reveal-date/amp/"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
         width: 1242
         height: 710
         isCached: true
+  - title: "Elon Musk’s latest startup wants to implant computer chips inside the human brain"
+    excerpt: "Elon Musk isn’t content with electric cars, shooting people into orbit, populating Mars and building underground tunnels to solve traffic problems. He also wants to get inside your brain."
+    publishedDateTime: 2020-08-29T20:13:00Z
+    webUrl: "https://www.staradvertiser.com/2020/08/29/breaking-news/elon-musks-latest-startup-wants-to-implant-computer-chips-inside-the-human-brain/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 32
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2020/08/web1_10372849-9e392b49320d4cbbbd0f72035a3bde43.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "Elon Musk’s Neuralink is ready to demo its progress tonight"
     excerpt: "If there is one man who believes in utilising the power of microchips and computers to make us think faster, it’s Elon Musk. The tech mogul started one of his more ambitious ventures, Neuralink, a few years ago with the intent purpose of inserting microchips into the brain in an effort to improve human intelligence,"
     publishedDateTime: 2020-08-28T10:49:00Z
@@ -70,6 +84,6 @@ related:
         height: 536
         isCached: true
 
-secured: "K1fjog6iExFQM56wZIQZSB3EOzGzklf11kcSoS2NWs2kYczNVa5zpGOG/ergnXiuStT65mkWECn1zFRPLCT4ExmKx2lfzEr8Sd4dTi/Q+QZXGIGnkKztcggpIVE1EJoOmL5L3FnXX3Kl3vA9I8D6OHrsSiJZDfx1F0BPY7ug0vsUNsXPEpHN3ozlNs7N+kQ5JWKX8MkH8pvZ4xkPgpyZG/ThHrg+X9esLt/PISuoRytvXIhiEbwS/ysJUjUzSKDRD2HbRtDeYQ5Z2zFSVqABse/BnkQa8diMqE1VtY2yqdxrqRvqCmXueZyrExTOwETHs828zu+nFIx/A0ips2MoPFgRF/iD/QHB4H8uqEvwDag=;vDngY8NgENh5Lg1AdIceWw=="
+secured: "yFVMHfQK4guXsk2MzHLE4HILe6g6OmWDjMqt7WZMQocOqO78IQOTlgyCAJiYeQWri3MqJ8ZFC85eTNX900yltFizoA5e/elSOKlqxQGAudKYMydGRntZodmE9CWb18sp2b4p1PZvkVxsMKpcRt2fAv8Gdo/3v5XDPRlBarpKqtgw0Kosz/7qxkhdZhbjaMHxPYCCO81SsxBTRmJSlWg7N2NsVnP2mi4JrmWE0esuWkRb4FXsXYylQZVLWu9EOklabyJz5HEtnlg2Hql7kx3CWUlYGKAY3adAFL4r23iHAlufCKBtQaQVveLuwXlnrc3ISttArT+YCr+KxWwTXX4O3OXdtLdBXI58E589C+sk1TPM0dnuE2KMFy++k7d25LukVk7JbEMlFB9Qt15sLMD+G03ZSqSMHZNyP08h3ViSSuHjoZBdLykeAiCm1OgBs6ijDsnnNRmoPiThgWMsarEuV7bzt8U+q30w/ib6HATm/2oxz2gy7qZW6gbTUpIeRMV+Bn2xhqzS8pOJsqigxqj6Mg==;C8Z+QiFX1vOUGWaSJqyGnQ=="
 ---
 

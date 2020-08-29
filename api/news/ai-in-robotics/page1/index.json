@@ -243,7 +243,7 @@
       "webUrl": "https://www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machine-reveal-date/",
       "originalUrl": "https://www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machine-reveal-date/",
       "featuredContent": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -405,6 +405,47 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade.md",
+      "title": "Roombas robot vacuums getting artificial intelligence software upgrade",
+      "excerpt": "Robot announced the largest software upgrade for its robot vacuum cleaner, Roomba, in the company’s 30-year history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/",
+      "originalUrl": "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wkbn.com/wp-content/uploads/sites/48/2020/08/roomba.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/amp/",
+      "cdnAmpWebUrl": "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/amp/",
+      "publishedDateTime": "2020-08-25T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKBN",
+        "domain": "wkbn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1316,56 +1357,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills.md",
-      "title": "Future of farming: AI-enabled harvest robot flexes new dexterity skills",
-      "excerpt": "Now that Root AI's robot has mastered the art of picking oblong vegetables as well as oblate shaped berries, could this technology help enhance global food security?",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
-      "originalUrl": "https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/08/13/b32f202b-030d-4c1e-b925-8dd89d6d62a1/resize/1200x/471d26b1f629b28ae27534b1581ade2e/root-ai-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
-      "publishedDateTime": "2020-08-13T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

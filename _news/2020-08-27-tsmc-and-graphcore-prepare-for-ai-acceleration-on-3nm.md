@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-27T13:00:00Z
 originalUrl: "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
 webUrl: "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://images.anandtech.com/doci/16040/GC011_IPURACK_009_W4K-2_compressed_1600px_678x452.jpg"

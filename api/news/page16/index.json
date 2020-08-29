@@ -2,6 +2,106 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-08-14-clearview-ai-landed-a-new-facial-recognition-contract-with-ice.md",
+      "title": "Clearview AI landed a new facial recognition contract with ICE",
+      "excerpt": "The controversial facial recognition software maker Clearview AI has a new contract with ICE, the most controversial U.S. government agency. Clearview was already known to work with the branch of Homeland Security fiercely criticized for implementing the Trump administration’s harsh",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-992931802.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/",
+      "publishedDateTime": "2020-08-14T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-automl.md",
+      "title": "Настройка гиперпараметров и AutoML",
+      "excerpt": "В приведенном ниже комплексном примере записной книжки с помощью Hyperopt и SparkTrials выполняется параллельный перебор гиперпараметров для одновременного обучения нескольких моделей.The following en",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/ru-ru/azure/databricks/applications/machine-learning/automl-hyperparam-tuning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-optimalizace-hyperparametru-a-automl.md",
       "title": "Optimalizace hyperparametrů a AutoML",
       "excerpt": "AutoML (automatizované strojové učení) označuje automatizaci procesu vývoje modelů strojového učení. Databricks Runtime pro Machine Learning zahrnuje MLflow a Hyperopt. Tyto dva opensourcové nástroje",
@@ -1033,95 +1133,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-latent-ai-wins-2020-startup-of-the-year-award-from-iot-world.md",
-      "title": "Latent AI Wins 2020 Startup of the Year Award from IoT World",
-      "excerpt": "Latent AI, creators of the Latent AI Efficient Inference Platform (LEIP) and the latest spinout from SRI International, has been recognized as the 2020 \"Startup of the Year\" from IoT World during their virtual awards ceremony on August 12,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/latent-ai-wins-2020-startup-of-the-year-award-from-iot-world-1029504377",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/latent-ai-wins-2020-startup-of-the-year-award-from-iot-world-1029504377",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/latent-ai-wins-2020-startup-of-the-year-award-from-iot-world-1029504377",
-      "publishedDateTime": "2020-08-14T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence.md",
-      "title": "EqualAI Challenges Companies and Leaders to Pledge to Reduce Bias in Artificial Intelligence",
-      "excerpt": "There are immediate actions that organizations can take to identify and reduce bias within their existing systems. EqualAI has been seeking out ways that companies can go beyond m",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence-2020-08-13",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "StradVision to collaborate with leading custom SoC supplier Socionext to provide efficient ADAS solutions"
-excerpt: "StradVision has announced a collaboration with Socionext Inc., a leading supplier of System-on-Chip (SoC) solutions, to bring"
+excerpt: "StradVision has announced a collaboration with Socionext Inc., a leading supplier of System-on-Chip (SoC) solutions, to bring StradVision’s deep learning-based camera perception software SVNet, to the global market."
 publishedDateTime: 2020-08-24T21:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions-301117303.html"
-webUrl: "https://www.prnewswire.com/news-releases/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions-301117303.html"
+originalUrl: "https://apnews.com/PR Newswire/0f7c90ea95af269d94b86c19e9136ec1"
+webUrl: "https://apnews.com/PR Newswire/0f7c90ea95af269d94b86c19e9136ec1"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook"
-    width: 1413
-    height: 740
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "4wO4gnY0SaGxnRxvXafy3zo9Ta1LDGWBBemc8c0jNb9mmdKV/vTh7x9rv/JFFQ10JbWYR5hEjTxJmLZSYigXQcfLIJpMf7Rh/iMGcsQKBLzMJ6zpA89ByMds4/Im+b5L/L8ZS5UcfqHGxEm2fLGdOkIkLc4qtYVjdFgwcatlzfW54JjH/2fUSt4Idj+0tVw7IZ9ydDb33EfZX/XrV4ESbRyA1e6/uRVds8hdi0STUwP5IaY3fOrc/PuMr85jMJLj5tHUpFqrW10brlzOqmlNEdv6ppIgm0jrWU9R4HhP1Vie/+6uvIbfouMv6hOo4KXPYBqHjgRJxbJI4VDadu1ngs/QKPs3yrm3Vk2XSuzpl+0=;p/WD9rT7x67BlFQX/jStbQ=="
+secured: "tVIMITSBCci6TldOhwYo3WwvS7NrS2aXGd7M7i+UIQ+1BBMN+6WirvbmXN7cJq5Vi2AnssYICX1x/OvKpkzY2ZutGmn3PUpkIZpO/2WnMwdTq8l2OUxG+OxeHM4XOMFBf6G8bovhX+OWXlQH/f5JXaInyvQPrnHMqy5ocWs7oHL4SIcjCyw7x+ZEV6mhYS73U7NprcR02tYmnbbpk70Bncd5jV9jnpwy7RRRDeBjGww9q3WynJbuyjgeTS4wC79cUre7yf0sLKZdBd7ObqQbFUf+XJ1oU2UxHWJ1SiEVWexn90Tobg3Arpl4GoA6PHshTJ4ka/9kSXUob7MhZOZi2KP2hLf806cptzlDvogDfZk=;KeQiGaC/SPTceCfwNeuVKw=="
 ---
 

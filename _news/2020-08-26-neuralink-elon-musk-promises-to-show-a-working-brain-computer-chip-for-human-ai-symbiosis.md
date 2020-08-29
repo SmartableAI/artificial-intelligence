@@ -56,6 +56,20 @@ related:
         width: 1242
         height: 710
         isCached: true
+  - title: "Elon Musk’s latest startup wants to implant computer chips inside the human brain"
+    excerpt: "Elon Musk isn’t content with electric cars, shooting people into orbit, populating Mars and building underground tunnels to solve traffic problems. He also wants to get inside your brain."
+    publishedDateTime: 2020-08-29T20:13:00Z
+    webUrl: "https://www.staradvertiser.com/2020/08/29/breaking-news/elon-musks-latest-startup-wants-to-implant-computer-chips-inside-the-human-brain/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 32
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2020/08/web1_10372849-9e392b49320d4cbbbd0f72035a3bde43.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "Elon Musk’s Neuralink is ready to demo its progress tonight"
     excerpt: "If there is one man who believes in utilising the power of microchips and computers to make us think faster, it’s Elon Musk. The tech mogul started one of his more ambitious ventures, Neuralink, a few years ago with the intent purpose of inserting microchips into the brain in an effort to improve human intelligence,"
     publishedDateTime: 2020-08-28T10:49:00Z
