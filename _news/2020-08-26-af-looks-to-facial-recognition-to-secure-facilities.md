@@ -3,8 +3,8 @@ category: news
 title: "AF looks to facial recognition to secure facilities"
 excerpt: "The Air Force’s AFWERX innovation arm is investing in real-time facial recognition to secure base perimeters and enhance situational awareness for Air Force security staff."
 publishedDateTime: 2020-08-26T20:31:00Z
-originalUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx?admgarea=TC_EmergingTech"
-webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx?admgarea=TC_EmergingTech"
+originalUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx"
+webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx"
 type: article
 quality: 39
 heat: -1
@@ -33,7 +33,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 156
+    quality: 173
     images:
       - url: "https://hoantonthat.com/assets/images/card.jpg?v13505373516951"
         width: 1280
@@ -68,6 +68,6 @@ related:
         height: 225
         isCached: true
 
-secured: "l4sbW8lc8nW8I59N47vV6f4dbc2IfvU9jDs8Tie6I/6D2UKNXF5clyrShTjmqGg2aNK8hJ9sfnE3yM8l+A01Sb4XjYo5nfoKa2EDyEaclzUEdWOgHTk1CjPHIWGhxuLKXOO2BUpW6i7nTJQC7L3RuXqUtBBatd0d32fuSo6kkwQ/04G81yJdmR3WaWwXHRBBgKLiAlrKiGrJtkC3ln1eZBhp/Ju5fKZU3lnn0rdKFXxLk3VEeqg8rDbZz0ozm5sT+Q39Mvf9XQqLbD9Ba77dsonDM3xrkboaVpe93uvF8LgKYmxlLOBMjfb4oj8MnMux98iwOpKdEI0NjKKrP/CqVx0/jW1x4CA69MhbQlibukn5hGY9sLU8WP0YGJM4LC/EEz9NVD089vPrKVayRVPQyOUw6+RXFsHVtz+Lv6jeMcHdd5JEL6SSbXgDhQwVUoGiSPlmfZ+bjt5IGO2WBCSxOCf8NjId+EFaoBYqPY2Xz/icpMAAhzeDI1W7S675E2l4+d4eWFMA9v0Yrl01bZXx4ahzPmhnGqSbTu5u74KQhPo=;IbCY+q9n9qWkpaIe2YjPEw=="
+secured: "4xou0knymBbBd7AKxb5jh+1TAS1XI1YpuzK0N62Xcuu5fe94REh9hzdsTkKO56ooA/SBRFLkvIEyfl6Dgtiol+6gYJsNe65W7PknbRJaV+efJ6ZYQ01czVjCvNeOXjyL4FyevZgpy/cxEv5C0srL8CNoS/gggMy2Q32dg2uZxbUhwsudcg6tQTxVmltGeQ0lZt4RiqVnONRiunvQ8PTrHq1GmLB6IqX3EX0RGHfDvd0KJT7yr4TQtBjEX6B99Z2eCKifDRu7Asf10SLqvy7Jg7nReP2VYr2nC+Vsrgl5bW1TPexcLfiUsx/vwb+4TBPDbjEDFBk9Hide66MPy0M/o1mC+70eePHxm0itBhG2VBQ=;wihTGnTSsLwSxoI6BKJDVQ=="
 ---
 

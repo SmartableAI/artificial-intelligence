@@ -2,6 +2,156 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-08-24-the-impact-of-ai-on-journalism.md",
+      "title": "The Impact of AI on Journalism",
+      "excerpt": "AIs write hundreds of thousands of the articles that are published by mainstream media outlets every week. What next?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/",
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f44057db9b4ab89d27f81ce%2F0x0.jpg",
+          "width": 1200,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/amp/",
+      "publishedDateTime": "2020-08-24T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-building-a-customized-recommender-system-in-amazon-sagemaker.md",
+      "title": "Building a customized recommender system in Amazon SageMaker",
+      "excerpt": "Recommender systems help you tailor customer experiences on online platforms. Amazon Personalize is an artificial intelligence and machine learning service that specializes in developing recommender system solutions. It automatically examines the data, performs feature and algorithm selection, optimizes",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/20/customized-recommender-sagemaker-1.jpg",
+          "width": 800,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-24T11:30:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-african-manufacturing-ai-firm-dataprophet-raises-6m.md",
+      "title": "African Manufacturing AI Firm DataProphet Raises $6m",
+      "excerpt": "DataProphet, an award-winning AI for manufacturing company based in South Africa, has raised a $6m funding round for international expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/",
+      "originalUrl": "https://www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43fd4f709d5fe8c76b6c73%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/amp/",
+      "publishedDateTime": "2020-08-24T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app.md",
       "title": "Ever, once accused of building facial recognition tech using customer data, shuts down consumer app",
       "excerpt": "Cloud photo storage app Ever is shutting down, citing increased competition with the default services offered by Apple and Google as the cause. The company, however, had other issues beyond the plight of a small startup trying to compete with tech giants.",
@@ -1060,154 +1210,6 @@
         "AI",
         "Facebook AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-23-ai-pilot-beats-human-in-clean-sweep-of-virtual-f-16-dogfights-human-fails-to-register-a-single-hit.md",
-      "title": "AI pilot beats human in clean sweep of virtual F-16 dogfights, human fails to register a single hit",
-      "excerpt": "An AI pilot defeated a human pilot in a clean sweep of virtual reality dogfights, with experts hailing the victory as a significant moment for artificial intelligence, sources reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/F-16CM-Fighting-Falcon-3-DVIDS.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp",
-      "publishedDateTime": "2020-08-23T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-23-the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars.md",
-      "title": "The AI ‘Intelligence Explosion’ Might Happen This Way, Including For AI Self-Driving Cars",
-      "excerpt": "Some vehemently assert that we are potentially going to have an AI “intelligence explosion” that will someday occur, and there are various bets that this might happen somewhere between the year 2050 and the year 2100.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F902260582%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2020-08-23T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-23-is-ai-a-force-for-good-interview-with-branka-panic-founder-and-executive-director-at-ai-for-peace.md",
-      "title": "Is AI A Force For Good? Interview With Branka Panic, Founder And Executive Director At AI For Peace",
-      "excerpt": "When creating AI systems organizations should also consider the ethical and moral implications to make sure that AI is being created for good intentions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/23/is-ai-a-force-for-good-interview-with-branka-panic-founder-and-executive-director-at-ai-for-peace/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4282b811cbf7133cbf05b7%2F0x0.jpg",
-          "width": 640,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/23/is-ai-a-force-for-good-interview-with-branka-panic-founder-and-executive-director-at-ai-for-peace/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/08/23/is-ai-a-force-for-good-interview-with-branka-panic-founder-and-executive-director-at-ai-for-peace/amp/",
-      "publishedDateTime": "2020-08-23T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

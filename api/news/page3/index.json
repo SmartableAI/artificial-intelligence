@@ -2,6 +2,138 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-27-fox-robotics-raises-9m-for-self-driving-forklifts.md",
+      "title": "Fox Robotics Raises $9M For Self-driving Forklifts",
+      "excerpt": "PRNewswire/ -- Austin-based Fox Robotics is announcing the close of a $9 million Series A led by Menlo Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921",
+      "publishedDateTime": "2020-08-27T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring.md",
+      "title": "ProteanTecs raises $45 million to apply AI to chip design and performance monitoring",
+      "excerpt": "Startup ProteanTecs raised $45 million to further develop its AI chip design platform, bringing its total raised to nearly $100 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/",
+      "originalUrl": "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/",
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/amp/",
+      "publishedDateTime": "2020-08-27T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels.md",
+      "title": "Federal contractor taps Google Cloud AI and ML to inspect US Navy vessels",
+      "excerpt": "Simple Technology Solutions will be working with Google Cloud to modernize the maintenance and repairs inspection process for Navy vessels and facilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/",
+      "originalUrl": "https://www.zdnet.com/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/",
+      "featuredContent": null,
+      "heat": 113,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/",
+      "publishedDateTime": "2020-08-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-37.md",
       "title": "Graph, machine learning, hype and beyond: ArangoDB open source multi model database releases version 3.7",
       "excerpt": "A sui generis, multi-model open source database, designed from the ground up to be distributed. ArangoDB keeps up with the times and uses graph, and machine learning, as the entry points for its offering.",
@@ -161,7 +293,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030-2020-08-27",
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030-2020-08-27",
       "featuredContent": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -300,7 +432,7 @@
       "webUrl": "https://hoantonthat.com/",
       "originalUrl": "https://www.theverge.com/2020/8/26/21402978/clearview-ai-ceo-interview-2400-police-agencies-facial-recognition",
       "featuredContent": null,
-      "heat": 186,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -322,7 +454,7 @@
         "domain": "theverge.com",
         "images": [
           {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -338,7 +470,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -970,7 +1103,7 @@
       "webUrl": "https://www.cnet.com/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/",
       "originalUrl": "https://www.cnet.com/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/",
       "featuredContent": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1049,154 +1182,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-3-strategies-for-enterprise-ai-success.md",
-      "title": "3 strategies for enterprise AI success",
-      "excerpt": "Especially during turbulent times, AI enables companies to draw customers closer, streamline to reduce costs, and become more agile than competitors.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/",
-      "originalUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-912547822.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/amp/",
-      "publishedDateTime": "2020-08-26T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-six-things-business-owners-should-know-about-ai.md",
-      "title": "Six Things Business Owners Should Know About AI",
-      "excerpt": "AI was first developed in the 1950s. Nowadays, 37% of the organizations surveyed by Gartner are using some form of AI. They're using it to automate processes, find lucrative opportunities and detect threats before humans can.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/08/26/six-things-business-owners-should-know-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/08/26/six-things-business-owners-should-know-about-ai/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f452f9f2206eeaead14e6b2%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/08/26/six-things-business-owners-should-know-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/08/26/six-things-business-owners-should-know-about-ai/amp/",
-      "publishedDateTime": "2020-08-26T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-baidu-is-searching-for-quantum-ai-advantage.md",
-      "title": "Baidu Is Searching For Quantum AI Advantage",
-      "excerpt": "Baidu, China’s leading search engine and AI powerhouse, recently announced Paddle Quantum, a quantum machine learning development toolkit. This was the latest in a series of steps Baidu has taken to marry quantum computing with AI since establishing its Institute for Quantum Computing in 2018.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/",
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f45584928538501651e180d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/amp/",
-      "publishedDateTime": "2020-08-26T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

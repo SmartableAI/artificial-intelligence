@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-marke
 webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030-2020-08-27"
 type: article
 quality: 67
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -143,6 +143,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global AI in Social Media Market Study and PESTEL Analysis Key Manufacturers – Google, Facebook, Microsoft"
+    excerpt: "AI in Social Media Market 2020 Market.us has published a latest and most trending report on, AI in Social Media Market (Covering USA, EU, China, South East Asia and Japan) offers detailed insightful for value chain assessment,"
+    publishedDateTime: 2020-08-28T08:23:00Z
+    webUrl: "https://apnews.com/865732b71ea6fd3900ae1410e857d88b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "+R5LYzb+tU1dtp4/JK+/+AlRQF8jQP4++gfIZpY5Q1SUQxVi0869w6OxNM3ctXDcrPygdBIKE2NAkEs2aX06rDsVd68p61FGZi/I35JQY/c2fz4I8Kbv9sIk4eYO5NEsI3JAtA8Nwl+/B8aUlm6S9y24FaXjYnPHiItl1k1UdhxcXgiodKHxM/bE2MzhRcgXFRmt/LZfswMWXuFf5ytZQLLwurgtziTOyDFuvnirPNT75g2lNUYqaOhUu8KSQyQsxe8mxoDCRUVGDc8xCKOEG1icrXMpgp26IUC8djH5qSepPfFgDASwD7dTNnOgpfyO3M+T0YtkNumpR8hsbTPFPkpUN6mtFr3Z7/zLNbWrAfw=;o3Eoy17JyKum9Pdai89LtA=="

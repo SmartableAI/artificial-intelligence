@@ -36,20 +36,6 @@ related:
         width: 700
         height: 451
         isCached: true
-  - title: "Defense Innovation Unit Teaching Artificial Intelligence to Detect Cancer"
-    excerpt: "The Defense Innovation Unit is bringing together the best of commercially available artificial intelligence technology and the Defense Department's vast cache of archived medical data to teach"
-    publishedDateTime: 2020-08-24T21:28:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2322947/defense-innovation-unit-teaching-artificial-intelligence-to-detect-cancer/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 38
-    images:
-      - url: "https://media.defense.gov/2020/Aug/17/2002478671/1280/1280/0/200812-N-LW757-1001.JPG"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Israeli Startup Viz.ai Uses AI, Deep Learning To Detect Source Of Stroke In Seconds"
     excerpt: "A stroke detection platform developed by Tel Aviv-based medical imaging startup Viz.ai uses artificial intelligence to identify the source of a stroke in just seconds. This can give a stroke patient the chance to receive treatment sooner and save them from long term brain damage,"
     publishedDateTime: 2020-08-26T15:56:00Z

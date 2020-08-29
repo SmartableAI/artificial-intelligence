@@ -6,20 +6,21 @@ publishedDateTime: 2020-08-26T21:40:00Z
 originalUrl: "https://www.theverge.com/2020/8/26/21402978/clearview-ai-ceo-interview-2400-police-agencies-facial-recognition"
 webUrl: "https://hoantonthat.com/"
 type: article
-quality: 156
-heat: 186
+quality: 173
+heat: 203
 published: true
 
 provider:
   name: The Verge
   domain: theverge.com
   images:
-    - url: "/assets/images/organizations/theverge.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://hoantonthat.com/assets/images/card.jpg?v13505373516951"
@@ -45,7 +46,7 @@ related:
   - title: "AF looks to facial recognition to secure facilities"
     excerpt: "The Air Force’s AFWERX innovation arm is investing in real-time facial recognition to secure base perimeters and enhance situational awareness for Air Force security staff."
     publishedDateTime: 2020-08-26T20:31:00Z
-    webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx?admgarea=TC_EmergingTech"
+    webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx"
     type: article
     provider:
       name: GCN
@@ -71,6 +72,6 @@ related:
         height: 225
         isCached: true
 
-secured: "NTKOUnjtnQLTZlPckNVxTmklTzEa+gAzApdw4JwEsVhZmj6mNzgC/osPvn1uBpSEOmv0ooJbnpyoyYlInos6CSPmfm4d81ohrHDFMFR7tLhZRfbqialED71LcmPuTsNx6ksf6pciUlYUltTeLB8yfXK9eQSPaqQcfcn7CVucHGFsfn38TX+Ar7qpGhqvDUPydbFPIWg5N0Ig0aXIht3RAMGaFsCRL2S2jgHWoYGnCYSW8K0i1dpCBs8aKJ4nI6N5Jy+OJHG/t7B7eY589DbnljFJnZaFR6ksgZ0qeEmEQphfFzJOq2Q8eSmqyfU3EZZbgUqNxoaTtQ5qYJZMAPF9bHnjCmAafVVPMVs3HUZYxi8=;kPhmtXvL6qX6Cn99Vw2ZFg=="
+secured: "ohWIePXUnBD/WtrNek86O9Jd03puEW6ZtkPGYaRpn65KK+yL+PdHM/LhoENSTpX7R8yoHwpre8DRGUIOFY3Fw6BL3aFpee72pq5kO48cGYR5Y8ouWuTF0ifjmY3JPC8Ke+G8vALe9F1nWAhqbhpamhPrH9Qy6szP5uiEaUufZ5IiMOK+u/h5a1fVi6ldszxCWZk2mx9D0ODCpWuLvHZ+wuUJn6cTYrTn6MAyOAACV++20qRfsVXsUfGBv2dhte/HGMu1JWsSVuyERSuk3xy+Wtkr945k6ynb890XKWTvyeqE8FucQVxOrTLBA8SCpS/TBPOrjlEvE7Pi31/r/YwZwthjCyaL8Lg8jihrw6SfYoiZR110gTdx5Oj5Mr9fcNIYN1Rlo5VZEJSOucEbZs0W+elyQOx0UoUxtwLiec7IuKLAuFha9w8dih+ipKjKvvbY06J0ORzyUKAl3+lkAzyr8nlEDbfjpGBGvOHxDtaA8soF359eImexT3SHbf7THxLX1LuCUMfVq00AzP6j+ZFfiibqJlwl92oY1lesa3Rd0hc=;pzfX1i+AgJDncJGa82jnzg=="
 ---
 

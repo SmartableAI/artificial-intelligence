@@ -3,8 +3,8 @@ category: news
 title: "How Ancient Rules of Logic Could Make Artificial Intelligence More Human"
 excerpt: "Many attempts to develop artificial intelligence are powered by powerful systems of mathematical logic. They tend to produce results that make logical sense to a computer program — but the result is not very human."
 publishedDateTime: 2020-08-19T09:00:00Z
-originalUrl: "https://www.gizmodo.com.au/?p=1256892"
-webUrl: "https://www.gizmodo.com.au/?p=1256892"
+originalUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/"
+webUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/"
 ampWebUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 type: article
@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/348495/original/file-20200720-23-mxxnlu.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-    width: 754
-    height: 922
+  - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/19/aristotle.png"
+    width: 1051
+    height: 597
     isCached: true
 
-secured: "QmwuBTc2VX0QJgosowbQyZBm7bmnWDPiqq5RuHGUgOIpyWWAuXQFdjKYutxzozytudjU3YRepL7H58Rm7yiat6k+QNJG/Y+XrMOCa2uahrk+SO2zn1hh9s2KIbYP/9U8dl6eyVll9qc8amBxObIjoCBSJLYvbSqpLlj47hcnaaubIRf1XhWwosDP4Z2qLFJ9SZCgpgGL+mnUF30VF4edMwroXh5ulE2dx8zTjk9/VGRKn+kv0aoLyRFHOl7yce2JHeQ7Hn4fTfxRwPaoYwrG/+p7rZ2g53No2shVLvXK/tvCS+gmCDsDDL+lTlq3h5tAchmxbxLMByUQWPFsklmitFzRhQVQz0hxq0iocCf2+/A=;v9U+hNcfov4M6Qc/Wad5sw=="
+secured: "daQuP4u7vQvlT488rU1tMpLVcW585yjkuCEeIzoZQFBN06wGWnABlwhWFQwhGhLMxkmaf7Yd0kW+zqocDEpRqOfrCMYAE2uPSCSVZxvve4IL+rhAPm7R49GqwRHVxkANqigT/gJLgjri86xEF8Fsg8lAlek//5ZzuRGNUqPzeHepnCPQQ0s6N3//Osmv4ippMmD0m4zH3TDPUa02K6Fjpmhw79x6CsfHVBoqeop2Wt/BzhBETck/bCi/8ggKYO4O2lqYtDeVHS8i/BQm4iAVACM7Kri/XdX9AXw5F9k0HtyZ4gZYaJMOmGiXcNxlU6BTSAOWPChh70SUaqy6xEGtoMvSPh1j9UJ8FRlCL6AGidM=;1/1ZX7YFd+m++9de01Jz5w=="
 ---
 

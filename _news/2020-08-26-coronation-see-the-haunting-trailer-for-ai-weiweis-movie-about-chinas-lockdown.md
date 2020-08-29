@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/coronation-see-the-haunting-tra
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Ai Weiwei Drops Surprise Film About the COVID-19 Lockdown in Wuhan"
-    excerpt: "Since the beginning of the quarantine, the artist was remotely directing a crew of camerapeople to document the government's response to the virus."
-    publishedDateTime: 2020-08-24T21:48:00Z
-    webUrl: "https://hyperallergic.com/584184/ai-weiwei-covid-19-wuhan-documentary/"
-    type: article
-    provider:
-      name: Hyperallergic
-      domain: hyperallergic.com
-    quality: 37
-    images:
-      - url: "https://hyperallergic.com/wp-content/uploads/2020/08/coronation-t.jpg"
-        width: 1001
-        height: 618
-        isCached: true
 
 secured: "dStxcWZIfeN0r8Duss7ziyK0hQ1WYm/q2VHwces0OBVEQLya7lBlmfpeum8OQdhZ3fq/Djn0V/tqYrxWYkUJ3GpnPOpBpTwVQi/4IRrGZwivfRs2z5/AONEc/w96JQMiBuWkTLP849rY/cQ74s6c80QoMo3ZWt1IOOuiNmnNSXW9+VO+Sc+ETbBrRVIxrj+unYzjak3tku90GaDuoogYdP2wlvbcuaBDmBZnJfaIble3idJ6dTLytmPluCkbwtiLpr3N7I6y9HbYGCHO/6P/plqRS+m/+iyARbdkwLeIhmoe/5P1hoqNWqY2pnGbZnm1MR6z7IdmHZOtmqhEOD4nxXZEngrz+GEU4ly6RID2VlVD3u8Tbu+KYgKIcJ2voiWjseLane+dlJ710V/uFGfyijebYxxdxZATzY9V1kLvsKPkMYZQF9PgkI9W2GPuHglnk5kH4pj9sc58mCouSlxlL8y9lK12iQo6AFfZYrsjuJgX9SaFnsYaEKVVIU4GpKkK3BY1kmFrK3z5UYtq2b35Yjdi7D0MeQPxDwqtJ01aerQ=;zTDQmQy8PgI/rTl0OSa2Yg=="
 ---

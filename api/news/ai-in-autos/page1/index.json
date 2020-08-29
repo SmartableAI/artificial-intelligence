@@ -799,6 +799,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-18-facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging.md",
+      "title": "Facebook and NYU are using AI to dramatically speed up MRI imaging",
+      "excerpt": "Two years ago, Facebook’s Artificial Intelligence Research group (FAIR) began collaborating with researchers at New York University’s Medical School on artificial intelligence that held the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com",
+      "originalUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-facebook-NYU-fast-mri-study.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-vmware-enhances-self-driving-operations-and-programmable-automation-with-updates-across-vrealize-cloud-management.md",
       "title": "VMware Enhances Self-Driving Operations and Programmable Automation With Updates Across vRealize Cloud Management",
       "excerpt": "(NYSE: VMW) today announced innovations across its portfolio of VMware vRealize Cloud Management on-premises and software as a service (SaaS) offerings. The new and enhanced product capabilities combine to further enable customers to consistently deploy and operate their applications,",
@@ -1308,56 +1349,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-self-driving-car-only-lanes-theyre-coming-to-an-autonomous-corridor-in-michigan.md",
-      "title": "Self-driving car only lanes? They're coming to an autonomous corridor in Michigan",
-      "excerpt": "A new public-private endeavor will see a 40-mile stretch between Detroit and Ann Arbor outfitted with dedicated lanes for autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-testing-corridor-michigan/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/pyA2_TM6Fs4pmxfGmoqdJ8VB4CQ=/2020/08/13/a6bcbd61-7c5f-4689-a52e-368b207be16d/ogi-car.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-testing-corridor-michigan/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-testing-corridor-michigan/",
-      "publishedDateTime": "2020-08-13T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

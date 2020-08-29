@@ -33,7 +33,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 156
+    quality: 173
     images:
       - url: "https://hoantonthat.com/assets/images/card.jpg?v13505373516951"
         width: 1280
@@ -56,7 +56,7 @@ related:
   - title: "AF looks to facial recognition to secure facilities"
     excerpt: "The Air Force’s AFWERX innovation arm is investing in real-time facial recognition to secure base perimeters and enhance situational awareness for Air Force security staff."
     publishedDateTime: 2020-08-26T20:31:00Z
-    webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx?admgarea=TC_EmergingTech"
+    webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx"
     type: article
     provider:
       name: GCN
@@ -68,6 +68,6 @@ related:
         height: 368
         isCached: true
 
-secured: "9M5g6Fg+Gg2WW9u+AvGBbgehqITM5jafKLgtwCAbjv3rbBB8PydlIthOUGf+VrBiewLZAdS8LjKBqDIqxi2hGr8ilek4TsZI0O6TB+Y+Xp/rxHje9RUaCvBfx6lYc1AoN8C0EDocokYYu1Svj/1trqyNq/YqAifD8syW/FND4h+/r1xKMWu0FQVYKSf0WF/ck43AcCQ0IHkzA2/ank+GJif6EVFCpb1zCo6lEPAnVugrVnj/SuiJkWnz5ZyqVHUxa5q9xzA4lh9mAVJEXkjwe7zuTgGniraMslkctHn/igoyUnTcTFE9+xDa8x/KWrAeDoWP0lVP2LleELzC8LivT4p/JEVxXv7sY0vr704s56E=;l2zZubFeONb5vlRvZ2W/1w=="
+secured: "sYY+IuW61zLM/JLkJyrl1lVUVE4DlZ+hiMjhoguA0+7K9v1SaNbonTxD1Kz7HbnH2FqGGamdZsLANlUHBayBAjklTOXH1k02fx8mT12KpkNdEGxep2d0/gKJRxHKBh10nI2HGT1ZgpxaDJ2ZHwmOaMU5+DWxIUhTTlumdbhZluCwutyRCGSmwt5uYfy0YbHLn2mmH4OQ6lqoEeqzZ2YWJteVgkCmag14s3V3EWhg2XolQBr9bq0yt5CofHGsqzjgmr2QKUo14OtChCCUNUJapg0JpnJnXDCKWPPMOUwkrxvGfJgMAp3OzulgR9LcELRCoE6BUzi4Np/t22/jv1Rccoo+StVevZ0AJiEwh0HVC8IY2zj5+If8IQFglvEzdPzolv4ia5PuYQ3UI9eQ9iUuvWJSHqgngMc9NjJv0Vua2jrnbyZ+lPfxpB0pc/wYDrGiJFRIQ5S01QVsqGHzLt4GZuYQKsub8+D3NeKsWi2WqxZlcR3eV5zTPNdP+lYRLe2J1L8AN1wVhUldaFLTQlFjBQ==;tHsWYUrtsLNaND0WhzYiyg=="
 ---
 

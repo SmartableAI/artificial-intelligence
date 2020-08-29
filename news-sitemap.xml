@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/lexinfintech-wins-the-asian-banker-award-for-best-ai-and-innovation-lab-in-china-2020-08-29</loc>
+    <lastmod>2020-08-29T08:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/</loc>
+    <lastmod>2020-08-29T08:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bloomberg.com/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun</loc>
+    <lastmod>2020-08-29T05:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://jobs.apple.com/en-us/search?search=%2523aimlresidency&amp;sort=relevance</loc>
     <lastmod>2020-08-28T18:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -961,8 +979,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html</loc>
-    <lastmod>2020-08-21T14:50:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-301116528.html</loc>
+    <lastmod>2020-08-21T14:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1225,14 +1243,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539</loc>
-    <lastmod>2020-08-20T08:44:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/</loc>
+    <lastmod>2020-08-20T08:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/</loc>
-    <lastmod>2020-08-20T08:29:00-07:00</lastmod>
+    <loc>https://apnews.com/23c39c6175e11f35b0cb61b0b2eded76</loc>
+    <lastmod>2020-08-20T08:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1597,7 +1615,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.gizmodo.com.au/?p=1256892</loc>
+    <loc>https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/</loc>
     <lastmod>2020-08-19T02:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1789,6 +1807,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
+    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1821,12 +1845,6 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
-    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

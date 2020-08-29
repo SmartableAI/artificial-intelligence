@@ -38,20 +38,6 @@ related:
         width: 700
         height: 451
         isCached: true
-  - title: "Defense Innovation Unit Teaching Artificial Intelligence to Detect Cancer"
-    excerpt: "The Defense Innovation Unit is bringing together the best of commercially available artificial intelligence technology and the Defense Department's vast cache of archived medical data to teach"
-    publishedDateTime: 2020-08-24T21:28:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2322947/defense-innovation-unit-teaching-artificial-intelligence-to-detect-cancer/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 38
-    images:
-      - url: "https://media.defense.gov/2020/Aug/17/2002478671/1280/1280/0/200812-N-LW757-1001.JPG"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Researchers built a data set for training AI to detect natural disasters from social media images"
     excerpt: "The Incidents data set was made to encourage the development of AI for recognizing accidents and natural disasters from social media images."
     publishedDateTime: 2020-08-28T18:32:00Z

@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI in Social Media Market Study and PESTEL Analysis Key Manufacturers – Google, Facebook, Microsoft"
+    excerpt: "AI in Social Media Market 2020 Market.us has published a latest and most trending report on, AI in Social Media Market (Covering USA, EU, China, South East Asia and Japan) offers detailed insightful for value chain assessment,"
+    publishedDateTime: 2020-08-28T08:23:00Z
+    webUrl: "https://apnews.com/865732b71ea6fd3900ae1410e857d88b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "0oDU43YJXPceJh3+S5w0vz0QKE0AXvXsjgXghqXoq2WeXpZdkPCY7iMSsqhKfLvjg5nQXwRr4fspidPcC3z8wDtNC2Ivz19Dvfr6tDoB1IUgXVA+6f9yXUCKeFBPhO6GDE498DS1Q+A7Gy6H1qTkbTpT9E5bvHpNvpo7y49T+2OxNbHpkn8+WcykDpbTxWqpXO+zjc4xYkyvCKB0iRpvImFn0Ecc9wOUHcW2h6HgFkwjFaFFH8iwIsZouGfiWEfyPOBU3WukRKOwOvkO0fEkwUvScx4qtDgAqgJrqX8LzgmtyoW9/JyOAWAIXfgcqCjYwnldhulOewczTWdigkQsOtz89HDS/SoT0KCqaTpK5T8=;cFRCoWevo96v4x+G7kFv0w=="
 ---

@@ -53,20 +53,6 @@ related:
         width: 521
         height: 333
         isCached: true
-  - title: "Ecobank Group Announces 2020 Winners of Fintech Challenge"
-    excerpt: "Nokwary, Ukheshe and Growth Factor wowed the jury to claim the three prizes on offer on the day All 10 finalists were officially inducted into the Ecobank Fintech Fellowship programme to explore commercial partnerships with the pan-African banking giant."
-    publishedDateTime: 2020-08-24T22:48:00Z
-    webUrl: "https://allafrica.com/stories/202008241145.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 39
-    images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
-        isCached: true
 
 secured: "V0ij3JFKqXTjdNnxyNCXFwkyxWHfM27u9+ffeBPiOTCAomIDGfxt9hhrUO+szascSbElHEQKP5CGc7ZiypCATjHT7drKcrdXgCCur77j735Q9dLGBC3tuZbNeASax3AMjjUw7fk0vpYaffiVVqkbiftT7yH1Yba31uZ/nxR1DERhqnd6NXIdPh3XFfeiqRoxhGg+Asz3mnG28GtLz3BYL9ycYx0hPoiBj2RldwvN5wppPjfx7A3zZqPweEHEI//YEwE+zMciGIaLM2kcrsJEirj+6LhMocglBqC6q5XIAb1eLGZd6ARnrkXLycmzymU99O8bDvhcOBkUzcRtxEPQ0Vy7LkpR+MrQxnWol+G1KTsLOXWHfV2UHkMuFHUfBM8kJ72n8Nz6Xi+e55GiBZGhbctIVqRd5eO9cAayMEkaqKgj7YVXw3eFQL9ZTym5bdISRJqTxj9Ny860rmEtptIVCmPWBOFFL+79glA0Zm3398Qzc1IJKOsABrnLhwpKjIEDXNPzr+gQqYHGhg6sx5GG0A==;1AEF2LXVAg18X5yYD4NP1g=="
 ---

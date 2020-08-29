@@ -2,25 +2,25 @@
 category: news
 title: "Elon Musk's Neuralink startup shows off pig with computer chip in brain"
 excerpt: "Elon Musk's startup wants to one day implant computer chips inside the human brain. In a demo Friday, Musk showed off a pig with one of the prototype implants."
-publishedDateTime: 2020-08-29T06:46:00Z
-originalUrl: "https://www.khou.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
-webUrl: "https://www.khou.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
-ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
-cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+publishedDateTime: 2020-08-29T10:37:00Z
+originalUrl: "https://www.cbs8.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+webUrl: "https://www.cbs8.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+ampWebUrl: "https://www.cbs8.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: KHOU 11
-  domain: khou.com
+  name: CBS News 8
+  domain: cbs8.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media.khou.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
+  - url: "https://media.cbs8.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
     width: 750
     height: 422
     isCached: true
@@ -105,6 +105,6 @@ related:
         height: 469
         isCached: true
 
-secured: "6kbzqhpYcTxKgB7HMBOu2+8PczaCLD/val9KT907QSasnsxiYe7COZyIuh5RM4/gBVhV9VnsEbF/khtUr7wSddOekVGjLD10tBXFxtM+gg950JZ2n5zkflRwT//fuGxs13W1D8/Hc7azCSgafYL28AJlN0nDOMEPPK+YUQR98VEOdhOFz6Dsxz7kt+zqjRrJhtKhzJpZVreXEnsK2eMieJ8dSG6hn1qjNU3Y8pbmKAygbm70ok1PwmXq9zLQInKLDmPVjlliMxX0lValzksChxJvy6nhCeo27mHTzhIJQxn4e0KJPq75a/qIh28WMVt8nHLygyomswTXYv7bFS4cZj/fPTVmRnDXI549BoGFRUTmPvKLjJygFtkrfoPPgnN7rgau22X6JTSNj0CmmbHVmQbg8Rj4sG+8O4xRSd8kIKd+LKTZSg28UK7YwExt47EnSQoiEl/VIdyHoGczA6362Uzu/Cw5n1jvhSz0iSiKVcRtkPn0jr+GVwLTa9UM3EkwQL4f5MEpvrCz4iB9thiC/rd4+ehYsDw66Yl2fXtZ2c4=;QsD1aVHY1ZQfvyc3aGRqug=="
+secured: "C6bG4ri5NyZJxNI/Ac6itMoC9xqL8QOqVFTWhR1yy255Fs6/JUn+vZAOjhMFjjaOm1mMiw9ex5m7WoebDujQCUmXqMsMHOQnfZTCh0t71fVQq4sIWhpYeInSvgCxBxqfLINmA5Tzb5v+Hc6se3+563UMPYsAZSVevjzRBIRpeD5Iu44C6NVP1OewMVHqxe3n/3xPghAHfDz2AocR91B4H6iogecnhTQ0l+Tk08gByVOx6GOJAfaKzBx0xKscGjSfwBcEr+MZFN6ZTFPbTjxDSHhw6dHdV7As+yrkPdpfKJaSjV3Dnu5WJ2EohD03Ory3p4IduGDwYhrTddX1OJbMi3RQ9zl+BRhYeSZ02I+3s/Q=;x/nG22YdImcujwFVzrRU/g=="
 ---
 
