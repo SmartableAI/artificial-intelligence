@@ -167,34 +167,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
-    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2020-08-24T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2020-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Medical Imaging Market 2020 Market Research with Size, Growth, Manufacturers, Segments and 2026 Forecast Research"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Artificial Intelligence in"
-    publishedDateTime: 2020-08-24T11:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-2020-market-research-with-size-growth-manufacturers-segments-and-2026-forecast-research-2020-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "gFt4MQtJKZqdUIDvMHOG6d1LhPpaIcX/TlzZeWgY0LM/5YUmSEIJzcU6VsMBr2gNI6jh8aZ2khCHMjsgcVM+8wF4xvhgLHkUE9VacPvoikcBz35Im+xQz2m0nQX7+TY4vbioJlhTOGnfB8GdWVdVl+HC2WepsT+gjUhHwb9wtNJ5Cyqu78uoB8OGbBvw5mOW3Hk2IZJLQFKsplxnxnHwn9Oy6Xzc5vbSIS1OVpnO43c3Meng2SSorrLWYCrIzEo9Cxxp4P5X0zy2Ngvlk42wrPzLrmp/2AhqRD3seonx01+Tnh6hiVhe8Mv7aANdhAIGZHfvBX39MFqOP1UPNs8t7Q==;h2PUQJLK11c37TizhTC7iQ=="
 ---

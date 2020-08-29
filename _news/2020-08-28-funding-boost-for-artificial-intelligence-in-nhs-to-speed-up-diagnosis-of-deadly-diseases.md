@@ -24,6 +24,22 @@ images:
     height: 640
     isCached: true
 
+related:
+  - title: "Pathology centre in Leeds to receive chunk of £50m for artificial intelligence tools to diagnose diseases such as cancer sooner"
+    excerpt: "An artificial intelligence technology centre geared at speeding up medical diagnoses for patients in Yorkshire will receive a share of a £50m funding boost."
+    publishedDateTime: 2020-08-29T05:05:00Z
+    webUrl: "https://www.yorkshirepost.co.uk/health/pathology-centre-leeds-receive-chunk-ps50m-artificial-intelligence-tools-diagnose-diseases-such-cancer-sooner-2956277"
+    type: article
+    provider:
+      name: The Yorkshire Post
+      domain: yorkshirepost.co.uk
+    quality: 9
+    images:
+      - url: "https://www.yorkshirepost.co.uk/webimg/QVNIMTE2ODg1NzU2.jpg"
+        width: 1566
+        height: 1175
+        isCached: true
+
 secured: "ijhlBLD+fDzW13r8G1qvKxkvqFUZi/qGKIKD2M/bGGmeDKL4qGCnJLjYBVIPQjUNSNcYcJ7crmS0B8v5ar6BT2k/+DyRl76IhULpnqVkWoI19SyYXyBnQXKJPag43hOpW5buylvDQVI/GYZgdK5fiDc3+B3usmT46uP2+9nqBDZFD+KQ430m362WOxUxoJYlW363hXU/E/QkGqnki5LgxOkx/NYBfsxyLayXL+Ktob+/jXouhWq6WlMchK32jw01IOla7O08m4Rsd0910h/y5StSKVIVEa8AhoY6QKsNJ/kXKRHsPYOTF8SVimQhuGRYzWGXUpkGhvLUlfVZRsa03t2+7aQ95/1ygNKVIsa5dePBpPCnsvT2iCENDFJ6sjvZrOBb0qGm605++QluZ0jiWxTB3agmQJcbCKhzJpo4C2P7ji/XQBXeCN316KEoEL3atqlTknWZUc7Vull72/P4OcTSPZaVI0K9owm2HCa1cH82tG/cQTupz1QApjubP52j32TlDpkIoCN2HCVruHWoFrn6fZyN2snfrs+4YA4dyv4=;VoOXxSH8NmN08tt/15Tovw=="
 ---
 

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "NTT invents distributed machine learning for the edge"
-    excerpt: "Japanese heavyweight NTT has come up with a way to carry out coordinated machine learning on multiple edge servers."
-    publishedDateTime: 2020-08-24T12:23:00Z
-    webUrl: "https://telecoms.com/506171/ntt-invents-distributed-machine-learning-for-the-edge/"
+  - title: "Deep learning algorithm to speed up materials discovery in emerging tech industries"
+    excerpt: "Solid-state inorganic materials are critical to the growth and development of electric vehicle, cellphone, laptop battery and solar energy technologies. However, finding the ideal materials with the desired functions for these industries is extremely challenging."
+    publishedDateTime: 2020-08-25T15:05:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uosc-dla082520.php"
     type: article
     provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 33
     images:
-      - url: "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91"
-        width: 300
-        height: 250
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "qYqbePLdo3ZG8XNTo6RyEUEeAUDrj/nvJ//u52rD4r2/ykjHlrjDyV4HxlbLvuFkr7sGecPfzdo0UMpyZ4IvP77ODWpejnFElPC0a/1fSJaItF+o5AvqxbKd+3VvyzbhtsUn9lOMYK3KU0m487W+HNL+yVWzGNL+FCOQmkMhLJt0tenI3FlPV7/vhIU6wm3kHQl8/34WtFAxuI4JccrQMjK2aFoAXIGPvFFX4H91DDH0OwOQO/Vd8tZH2/5Pj0yDcrC14nJhmbE+5kvV5d40IHP7AjqnBJXYuf7JaZOQWINBoeKya5qBevXElCitwy1Dldg1UjPgzG3r1Jtk3LQSCe0QfVI0QjODI+sPpyPdYKw=;gPXmvedt/5MrHzdNk4Md5Q=="

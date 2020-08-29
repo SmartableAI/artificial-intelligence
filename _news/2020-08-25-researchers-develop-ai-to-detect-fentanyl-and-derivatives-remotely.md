@@ -21,21 +21,33 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence method can rapidly and remotely detect fentanyl and derivatives"
-    excerpt: "To help keep first responders safe, University of Central Florida researchers have developed an artificial intelligence method that not only rapidly and remotely detects the powerful drug fentanyl, but also teaches itself to detect any previously unknown derivatives made in clandestine batches."
-    publishedDateTime: 2020-08-25T23:52:00Z
-    webUrl: "https://www.news-medical.net/news/20200825/Artificial-intelligence-method-can-rapidly-and-remotely-detect-fentanyl-and-derivatives.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200825/Artificial-intelligence-method-can-rapidly-and-remotely-detect-fentanyl-and-derivatives.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200825/Artificial-intelligence-method-can-rapidly-and-remotely-detect-fentanyl-and-derivatives.aspx"
+  - title: "UPenn Researchers to Develop Healthcare Artificial Intelligence, IoT"
+    excerpt: "Researchers will build artificial intelligence and IoT solutions for healthcare challenges in critical care, diabetes, mental health, and other areas."
+    publishedDateTime: 2020-08-28T13:32:00Z
+    webUrl: "https://healthitanalytics.com/news/upenn-researchers-to-develop-healthcare-artificial-intelligence-iot"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 49
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2016-11-29-hie-challenges.gif"
+        width: 690
+        height: 415
+        isCached: true
+  - title: "9 Strategic Insights Into Developing the Healthcare System of the Future"
+    excerpt: "Innovation thought leaders formulate strategies related to payment, reimagining models of care, applying real-time data, and addressing social determinants of health are essential to the future; downloadable report provides comprehensive insights."
+    publishedDateTime: 2020-08-25T16:13:00Z
+    webUrl: "https://www.healthleadersmedia.com/innovation/9-strategic-insights-developing-healthcare-system-future"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 40
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/HSOFreport-082520-2732x1200-shutterstock_649070965.jpg"
+        width: 2732
+        height: 1200
         isCached: true
 
 secured: "vNzjiKf7TwEhuLIBIM9vSN9EZRNAj1cGmnyUFn65BhffR0LtbNzKXsh/Q79ACuDkwD6Sip7J9Fsc+X9UthDnEnx8Usku7URK9mltXFd75tpz33m1SnZfSaKvSDtOvhk0/xyoBhQdeHi/aPEzwTa2skrCpRX6GCIvlrDQkkCI95ew0MZXKqHoipvs28+ldQxMf4IY+/2/r/Uzyx1jzWsfYzXDS9miNu5yMRTYHpkJI3qztibe6TgQvuBqSMHo+9ZfW6JWOBmbiSsnH5LCONxZpOsuaKX6yi9w2mtAWFsizBRCNUU0hcwHoMV4cclT+Y4TBkPSv4LqP1KdBE/hzCUxjQ==;b8uceXQf7LQezKmToEC64w=="

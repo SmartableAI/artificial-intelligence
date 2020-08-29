@@ -157,34 +157,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
-    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2020-08-24T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2020-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Medical Imaging Market 2020 Market Research with Size, Growth, Manufacturers, Segments and 2026 Forecast Research"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Artificial Intelligence in"
-    publishedDateTime: 2020-08-24T11:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-2020-market-research-with-size-growth-manufacturers-segments-and-2026-forecast-research-2020-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence in Diagnostics Market By Diagnosis Type, By Component, By Region, Industry Analysis and Forecast, 2020 - 2026"
     excerpt: "Stock quotes by finanzen.net New York,  (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Artificial Intelligence in Diagnostics Market By Diagnosis Type, By Component,"
     publishedDateTime: 2020-08-24T14:44:00Z

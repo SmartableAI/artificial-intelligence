@@ -24,6 +24,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Machine-learned metrics for predicting the likelihood of success in materials discovery"
+    excerpt: "Materials discovery is often compared to the challenge of finding a needle in a haystack. While much work has focused on accurately predicting the properties of candidate materials with machine learning (ML),"
+    publishedDateTime: 2020-08-26T09:08:00Z
+    webUrl: "https://www.nature.com/articles/s41524-020-00401-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 16
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-020-00401-8/MediaObjects/41524_2020_401_Fig1_HTML.png"
+        width: 685
+        height: 419
+        isCached: true
+
 secured: "8jRku83hnTQPrPuQ/AJoigzHf9dM5zf4t9ZnBN/nr983X1KumSgpNJCjIVmN4fAygcXV+E3o4I7a+yFUifUuSYKef8V8qHz+Xo6+vEeVeN6NFHMWGROKSMkxAUSyofLa2qdzetTw7y8dXwtQvzRYHY48fsUlVNEegXAj6uFxtWmgUmMhdCELS09YRbGCZorRriIsQrGHgjJewRbTM2impoYSSFXIIG/JKt6hYfgRfRxJ4UfLfryYx92IkUo5tWpq/po1TCebLNgDOdjkO7Ha90jcCXcZGRLBR3AI7YMl3I5k4VhmilNlv9f2TLQjv3W/tNUXDW3BFzJjoidksOYPtzvcvvNxW+2hJBzOVMvmKI9JxqaGlzG1pzmnRSN3vDSShUki7S+8CYcuOYWecUkjQZQxm+kCJN+mvl9Jsac4Kv/Sv8RsP+RYDDQpgwmDkTCcGKEUXt5meekQdckiBC7i8bCe6qvnstsPY0TEU8yrGCaFCDhwaDKAJ5dI2O2bp5RqPPSH4h33RBXfJ77qop4Uog==;xaBoXcmL8hIrLVL/0DgT/Q=="
 ---
 

@@ -27,20 +27,28 @@ images:
     isCached: true
 
 related:
-  - title: "BBVA Uncovers The Promise Of Quantum Computing For Banking And Financial Services"
-    excerpt: "Will quantum computing drive financial services to a new level of digital transformation? BBVA has been investigating its impact on complex banking, investment and trading challenges."
-    publishedDateTime: 2020-08-25T13:05:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2020/08/25/bbva-uncovers-the-promise-of-quantum-computing-for-banking-and-financial-services/"
+  - title: "AI's Role in Digital Transformation for Financial Services"
+    excerpt: "As we look to the future, and the possible shocks yet to come, what role does AI have to play in this mission, and what broader digital transformation is needed to ensure these organizations stay stable and continue their growth?"
+    publishedDateTime: 2020-08-28T13:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28"
+    ampWebUrl: "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4483a57c5b9c6ac1645776%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "Dow (DOW) Polyurethanes Accelerates Digital Transformation"
+    excerpt: "Dow Inc.’s DOW business unit, Dow Polyurethanes, announced that it is fast tracking its digital transformation by integrating into artificial intelligence and predictive capabilities. This will increase its digital IQ across all business operations."
+    publishedDateTime: 2020-08-28T16:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/dow-dow-polyurethanes-accelerates-digital-transformation-2020-08-28"
+    ampWebUrl: "https://www.nasdaq.com/articles/dow-dow-polyurethanes-accelerates-digital-transformation-2020-08-28?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/dow-dow-polyurethanes-accelerates-digital-transformation-2020-08-28?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Quantifying Quantum Computing’s Value In Financial Services"
     excerpt: "Dr. Stefan Wörner of IBM discusses how quantum computing is advancing in the financial services sector and how it could reduce false fraud positives."
     publishedDateTime: 2020-08-28T05:41:00Z
@@ -57,19 +65,35 @@ related:
         width: 457
         height: 298
         isCached: true
-  - title: "MAS supports increase of minimum qualifying salary for entry-level EP holders in financial services sector"
-    excerpt: "SINGAPORE: The Monetary Authority of Singapore (MAS) on Thursday (Aug 27) said it supports the move by the Ministry of Manpower (MOM) to increase"
-    publishedDateTime: 2020-08-27T10:40:00Z
-    webUrl: "https://www.channelnewsasia.com/news/singapore/minimum-qualifying-salary-financial-services-employment-pass-mas-13059320"
+  - title: "Why the Time Is Right for Financial Services to Embrace Voice"
+    excerpt: "Yet there’s one technology noticeably absent from my interactions with financial services companies — and it’s arguably one of the most important and highest-volume channels: voice. While text-based interactions have become the norm in daily life,"
+    publishedDateTime: 2020-08-28T17:58:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/why-the-time-is-right-for-financial-services-to-embrace-voice/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/why-the-time-is-right-for-financial-services-to-embrace-voice/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/why-the-time-is-right-for-financial-services-to-embrace-voice/amp/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 6
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 44
     images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12796236/16x9/991/557/e89ff09a32e55343ecf5e12eb9945227/Xp/raffles-place---phase-1-circuit-breaker--1-.jpg"
-        width: 991
-        height: 557
+      - url: "https://www.cmswire.com/-/media/467684055f5640239bd7b1f78711c58c.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Dow Polyurethanes fast tracks its digital transformation"
+    excerpt: "Dow Polyurethanes, a business division of Dow, is accelerating its digital transformation through increased integration into artificial intelligence and predictive capabilities geared to increasing its digital IQ across all business operations."
+    publishedDateTime: 2020-08-26T12:31:00Z
+    webUrl: "https://www.eppm.com/materials/dow-polyurethanes-fast-tracks-its-digital-transformation/"
+    type: article
+    provider:
+      name: EPPM
+      domain: eppm.com
+    quality: 24
+    images:
+      - url: "https://www.eppm.com/downloads/9224/download/Dow.jpeg?cb=d3a5bdd05e97eb6787cdbcb247d45af6&w=1200"
+        width: 400
+        height: 394
         isCached: true
 
 secured: "DqKkSXSmvbVw0+ZIrGlX7DmOXumqusJuGLKvKqJWzpaCc3q/WYQ2yjFSfty92uqPxqqWVpYf4B5IYOgycPfCbdY9z+WBGGouOHWjjdcvHBjdnNxauKuZwGjnti+7nnH8552U8TT6R5dfnsKIcyDKhHzMEX7oV98V4hdROvTG8NgvgC6hAv+/PwmYdGq0g0Zvyp8xxdGqyJ+ZYH1B5vNMvaz3tqefMA7TZhG8Zh6zajmxfK6oyXPKmKIAXZ+WSi9FcUy5NemBrcfUHZ6oap5w5cUg7W/xaBNRohFc+imWDL93DvNHioTUhrYwPIKfDj9XXdx8tIwrFl/bVfekMzVvAKFVOcrvSsRhIWZT+eAn/uo=;1otMlu77Q7l6jgTh0kDMbQ=="

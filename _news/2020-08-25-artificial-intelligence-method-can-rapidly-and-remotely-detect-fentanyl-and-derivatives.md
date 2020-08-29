@@ -25,17 +25,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Researchers develop AI to detect fentanyl and derivatives remotely"
-    excerpt: "To help keep first responders safe, researchers have developed an artificial intelligence method that not only rapidly and remotely detects the powerful drug fentanyl, but also teaches itself to detect any previously unknown derivatives made in clandestine batches."
-    publishedDateTime: 2020-08-25T19:38:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/08/200825113616.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
-
 secured: "/Vv5MjxadbST0SfoOhmuoSNqWDmjl/BtHqGLgpQvQ6P8PEAmS2NA6E4wlx+oXI0vriQuQQC1WAVlt+H/D8xn58HqzW1uBLPDvQhTpCdTaARnmBxgpKO3VeUjFJ/8iu6YasPS1Bsq2u15t/KUZwwDi39f2ZgTZXi5Pe7MVxxx4p+v0N6BCPmnklUlqbqZsQimNgDnXULppgTXHJwCh11BWwZvY7H7fL6DgQukPS+qG32T5yy/0cGFAysvErmUjWA9jOJ3+0i86OPSv9qhJvcUtDi+2CIMT2PIhRcTo83sXu7PWI4FzqotQ59AxfPcDNQqtMG7cR7UTwMCC71iG9pi9w==;X+HKLthUEIKJsOG4KsJ+/Q=="
 ---
 

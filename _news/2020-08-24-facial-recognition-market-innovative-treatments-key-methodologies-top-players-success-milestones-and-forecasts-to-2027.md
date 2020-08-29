@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-innovative-treatments-key-methodologies-top-players-success-milestones-and-forecasts-to-2027-2020-08-24"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Artificial Intelligence in the Medical Imaging Market New Technologies and Developments 2020-2026"
-    excerpt: "MarketIntelligenceData report, titled Global Artificial Intelligence in the Medical Imaging Market Size and Forecast to 2025 presents a comprehensive take on the overall market. Analysts have carefully evaluated the milestones achieved by the global Artificial Intelligence in the Medical Imaging market and the current trends that are likely to shape its future."
-    publishedDateTime: 2020-08-24T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-medical-imaging-market-new-technologies-and-developments-2020-2026-2020-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence-based Cybersecurity Market Evolving Technology and Growth Outlook 2020 to 2026"
-    excerpt: "Global Artificial Intelligence-based Cybersecurity Market Insights, Forecast to 2026 Aug 24, 2020 (Market Insight Reports) -- The"
-    publishedDateTime: 2020-08-24T12:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-cybersecurity-market-evolving-technology-and-growth-outlook-2020-to-2026-2020-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "eUzioLbTFMCxxWvgPD1kCiS9t9w78jsJDP00JBB9DGYTaYzMy95B63gptybunOD8+ch16BctSj21RHBflhgbmZzhk/3wDQXem6LxMbsC1oy//aJdUDedncUc29RHENbrykhay2Q1b7TnCq9p66TMPoqhvKfk1GG0DH5FTK8zOZIvPp7CwksxB+k7xkP3GPwViSw1jIygS/lS8q8NcyCNe5y/luQx4L/t3N+hnlCXx3xAvDob5M3d97K1q5iEi8TwWBGHbsJugxlDhg5wtQqLyiIdtTvf7Fdbp+sDsffzWW8c9PG/T5JC9HOna8cS7ifrSs+l99y6Pl/F/SyJU529Vw==;Cmj6nw24qcVlaF5YEF40tg=="
 ---

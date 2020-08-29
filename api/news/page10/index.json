@@ -2,6 +2,107 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-08-20-3-ways-fintech-can-help-you-automate-your-finances-during-covid-19.md",
+      "title": "3 Ways Fintech Can Help You Automate Your Finances During COVID-19",
+      "excerpt": "Even before the bulk of bank branches temporarily closed their brick-and-mortar doors because of the COVID-19 pandemic, a great deal of personal banking was done via click, tap or swipe. Today, demand for digital financial services is going through the roof.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/personal-finance/ways-fintech-can-help-you-automate-your-finances/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbes.com/advisor/wp-content/uploads/2020/07/getty_automate_fintech_081720pm_jpg_wYwcTH6B.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/advisor/personal-finance/ways-fintech-can-help-you-automate-your-finances/?amp",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/personal-finance/ways-fintech-can-help-you-automate-your-finances/?amp",
+      "publishedDateTime": "2020-08-19T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-chatbots-are-machine-learning-their-way-to-human-language.md",
+      "title": "Chatbots Are Machine Learning Their Way To Human Language",
+      "excerpt": "Computers are good at long division, but really bad at knowing whether humans are referring to football divisions, parliamentary division lobbies or long division for mathematics. This is because mathematics is formulaic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/",
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3b8a4e25cb6511b0099a7f%2F0x0.jpg",
+          "width": 1200,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/amp/",
+      "publishedDateTime": "2020-08-19T22:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-nvidias-server-business-eclipses-gaming-chips-for-first-time-though-maybe-not-for-long.md",
       "title": "Nvidia’s server business eclipses gaming chips for first time, though maybe not for long",
       "excerpt": "Nvidia Corp.’s data-center chips brought in more money than the gaming specialist’s core business for the first time in the company’s second quarter, but",
@@ -1086,96 +1187,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-adobe-launches-ai-powered-character-animator-features-in-beta.md",
-      "title": "Adobe launches AI-powered Character Animator features in beta",
-      "excerpt": "The latest beta version of Adobe Character Animator adds AI-powered lip-sync and motion capture tools, as well as revamped timeline features.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/19/adobe-launches-ai-powered-character-animator-features-in-beta/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/adobecharactercreator000-e1597841810397.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/19/adobe-launches-ai-powered-character-animator-features-in-beta/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/adobe-launches-ai-powered-character-animator-features-in-beta/amp/",
-      "publishedDateTime": "2020-08-19T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-microsoft-improves-azure-outage-reporting-with-aiops-in-service-health.md",
-      "title": "Microsoft Improves Azure Outage Reporting with AIOps in Service Health",
-      "excerpt": "Microsoft says it wants to communicate Azure outages better, and is pointing users towards Service Health, which includes AIOps reporting.",
-      "sourceUrl": null,
-      "webUrl": "https://winbuzzer.com/2020/08/19/microsoft-improves-azure-outage-reporting-with-aiops-in-service-health-xcxwbn/",
-      "originalUrl": "https://winbuzzer.com/2020/08/19/microsoft-improves-azure-outage-reporting-with-aiops-in-service-health-xcxwbn/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2018/12/Azure-Availability-Zone-Microsoft.jpg",
-          "width": 1540,
-          "height": 842,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://winbuzzer.com/2020/08/19/microsoft-improves-azure-outage-reporting-with-aiops-in-service-health-xcxwbn/?amp",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/08/19/microsoft-improves-azure-outage-reporting-with-aiops-in-service-health-xcxwbn/?amp",
-      "publishedDateTime": "2020-08-19T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft adds two Kurdish dialects to Microsoft Translator"
-    excerpt: "Microsoft added two Kurdish dialects to Microsoft Translator, another sign of more online recognition for the Kurdish language that has been repressed by states in the region."
-    publishedDateTime: 2020-08-24T12:31:00Z
-    webUrl: "https://www.kurdistan24.net/en/culture/a51c7972-5813-4efd-aa7a-3091a6aa0a01"
-    type: article
-    provider:
-      name: Kurdistan 24
-      domain: kurdistan24.net
-    quality: 19
 
 secured: "Eim+oQ4OtGH80+42dykAS7fh0zGBjn790L9Z0kGsR3g2WoVVpJKq4srTeE14OGoeORcEJO+GWsPdl+Cge5zbFBFkj6vO+3B+rAzyawQFuUQk8QFahqW6K6ay6MtWfbPNol10mLd5o8tAgK6MnH6i8AymMY0Q9ILtncHrO9bNluiy0IrvojgE2G+SlFqwMkXS679MW9rEE7KdKYZrAtq4r6O6+Ml2hx2k+iboKSGUxDkZyThAtcXD6qKtuKktcj/WOQbN3wL7n4Tz7RX1UNiq5Aw71bim71qCVa5w0QdOVOB3FfhBeF6ZfkxD8SKC01yjwcniNjfDIyGi6J/sfFfYzR/8ZMnAYAFeKjWxEGIplkJHkmgfdgfvOJR34p1YCVs7U2yHjc8jMzofhKo0ieccfyD5XXLgW+98PtkV1lTZFOyrBtyNz8clji+t+KNOpgJCQKs/hlZbwHpdWbKxTUz5EYD/SsGBnKAfXh6yNlQWrOlD1h0FXA8o85JWaDwEggLPWdm5zzJ17kFbg/wZqxmJ3EPEjBMTouCaO3OiJMJnPcg=;7KIxKi9m8eAH88/PBWCHbQ=="
 ---

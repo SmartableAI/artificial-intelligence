@@ -3,6 +3,7 @@ category: news
 title: "Energy-Efficient Tuning of Spintronic Neurons to Imitate the Non-linear Oscillatory Neural Networks of the Human Brain"
 excerpt: "The human brain efficiently executes highly sophisticated tasks, such as image and speech recognition, with an exceptionally lower energy budget than today's computers can. The development of energy-efficient and tunable artificial neurons capable of emulating brain-inspired processes has,"
 publishedDateTime: 2020-08-17T14:30:00Z
+originalUrl: "https://scitechdaily.com/energy-efficient-tuning-of-spintronic-neurons-to-imitate-the-non-linear-oscillatory-neural-networks-of-the-human-brain/"
 webUrl: "https://scitechdaily.com/energy-efficient-tuning-of-spintronic-neurons-to-imitate-the-non-linear-oscillatory-neural-networks-of-the-human-brain/"
 ampWebUrl: "https://scitechdaily.com/energy-efficient-tuning-of-spintronic-neurons-to-imitate-the-non-linear-oscillatory-neural-networks-of-the-human-brain/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/energy-efficient-tuning-of-spintronic-neurons-to-imitate-the-non-linear-oscillatory-neural-networks-of-the-human-brain/amp/"

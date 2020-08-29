@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/08/165671-modern-proptech-fint
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/165671-modern-proptech-fintech-ai-can-enhance-real-estate-transactions-but-human-contact-is-important-industry-exec-says/amp/"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Proptech And Fintech Providers Fight To Become Real Estate Market Leaders In Switzerland"
-    excerpt: "New technologies and their frequent use during the first half of 2020 have shown the real estate sector more ways to conduct business."
-    publishedDateTime: 2020-08-24T12:23:00Z
-    webUrl: "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3ffe1b04d29513305c226a%2F0x0.jpg"
-        width: 1200
-        height: 750
-        isCached: true
 
 secured: "IkQmjaokF+Z8B8iVUrM47FUdM5b4dGAmj/luth0bqU8Sb4N0TG7C9JuncfqZXdcsqXTLLR4lpZCCBWExZX0fglz1LrW5NhS1gX8FCfWYB8aKyWd7WlE45I5F9YhwatgMp2Q1aqV9B9Bn9DGOE+oQuUP85qKbkM2b0R/W6bGCQDLpd83LQ/KXrQpTxeZlCYkpaDLvuhTkHWD+wQKI3R+WiDhOalhs5ycnmvGoiahNfwgbvJSiLjK1KVz6KBE8Mcimay+udWtoJQbUrfAcIuE/QtzuwcBh9yp8h0BX7iMbSI/pVfL6aNU3J4QFISlkM3VYhGzQhaT6awel1Low9T4WzCz4+SpORHz/XfAQ+6iDmoIb5tWR1gL+MxKiylmMeup/Tv13nMC1eKFa2gWA5ee1CSPvUtx6uoLT1M4QtWQbU4Vzp8O69mm89GwrqTQNbRbspf7H4JvqKEWB9KfMyjh/TYZRuiMDl9r4P8S83b+c6pioDHOvgvULxlLyc6le0X2gBlAcoocHPr5GigudLBLETA==;/2oXqWXgDuws/Ca9EpLPoA=="
 ---

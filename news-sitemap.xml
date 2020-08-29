@@ -97,6 +97,18 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28</loc>
+    <lastmod>2020-08-28T06:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://healthitanalytics.com/news/upenn-researchers-to-develop-healthcare-artificial-intelligence-iot</loc>
+    <lastmod>2020-08-28T06:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wired.com/story/google-help-others-tricky-ethics-ai/</loc>
     <lastmod>2020-08-28T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -451,8 +463,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely</loc>
-    <lastmod>2020-08-25T17:05:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
+    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1051,7 +1063,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://exclusive.multibriefs.com/content/artificial-intelligence-finds-a-purpose-in-healthcare-because-of-covid-19/pharmaceutical</loc>
+    <loc>https://exclusive.multibriefs.com/content/artificial-intelligence-finds-a-purpose-in-healthcare-because-of-covid-19/medical-allied-healthcare?MvBriefArticleId=37392</loc>
     <lastmod>2020-08-21T06:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1759,8 +1771,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
-    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?partner=feedburner</loc>
+    <lastmod>2020-08-18T06:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1807,7 +1819,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wallstreet-online.de/nachricht/12844999-vmware-enhances-self-driving-operations-and-programmable-automation-with-updates-across-vrealize-cloud-management/all</loc>
+    <loc>https://apnews.com/b87152f12e274ede8395fc39f3623c4a</loc>
     <lastmod>2020-08-18T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

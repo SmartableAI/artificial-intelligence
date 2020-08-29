@@ -775,6 +775,78 @@
       ]
     },
     {
+      "path": "_news/2020-08-28-ais-role-in-digital-transformation-for-financial-services.md",
+      "title": "AI's Role in Digital Transformation for Financial Services",
+      "excerpt": "As we look to the future, and the possible shocks yet to come, what role does AI have to play in this mission, and what broader digital transformation is needed to ensure these organizations stay stable and continue their growth?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28",
+      "originalUrl": "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28",
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28?amp",
+      "publishedDateTime": "2020-08-28T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-upenn-researchers-to-develop-healthcare-artificial-intelligence-iot.md",
+      "title": "UPenn Researchers to Develop Healthcare Artificial Intelligence, IoT",
+      "excerpt": "Researchers will build artificial intelligence and IoT solutions for healthcare challenges in critical care, diabetes, mental health, and other areas.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/upenn-researchers-to-develop-healthcare-artificial-intelligence-iot",
+      "originalUrl": "https://healthitanalytics.com/news/upenn-researchers-to-develop-healthcare-artificial-intelligence-iot",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/2016-11-29-hie-challenges.gif",
+          "width": 690,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-28T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-google-offers-to-help-others-with-the-tricky-ethics-of-ai.md",
       "title": "Google Offers to Help Others With the Tricky Ethics of AI",
       "excerpt": "After learning its own ethics lessons the hard way, the tech giant will offer services like spotting racial bias or developing guidelines around AI projects.",
@@ -1117,96 +1189,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-ai-jesus-will-help-you-embrace-the-apocalypse.md",
-      "title": "AI Jesus will help you embrace the apocalypse",
-      "excerpt": "The neural network spat out some baffling verses after studying the King James Bible In yet another sign that the end of the world is nigh, an AI Jesus has arisen with a new set of apocalyptic biblical verses.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/28/ai-jesus-will-help-you-embrace-the-apocalypse/",
-      "originalUrl": "https://thenextweb.com/neural/2020/08/28/ai-jesus-will-help-you-embrace-the-apocalypse/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-27T133838.454-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/28/ai-jesus-will-help-you-embrace-the-apocalypse/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/28/ai-jesus-will-help-you-embrace-the-apocalypse/amp/",
-      "publishedDateTime": "2020-08-28T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-apple-announces-new-ai-and-machine-learning-residency-program.md",
-      "title": "Apple Announces New AI and Machine Learning Residency Program",
-      "excerpt": "Apple's Machine Learning Reseach group has launched a new residency program inviting experts in various fields to apply their expertise to",
-      "sourceUrl": null,
-      "webUrl": "https://www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency-program/",
-      "originalUrl": "https://www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency-program/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.macrumors.com/t/s5F1Hgsit73B2FLQ9skCyODczOs=/1600x/https://images.macrumors.com/article-new/2020/08/jobs-1000-2fea582e89736fb64dce4527cce9dbd4.jpg",
-          "width": 1600,
-          "height": 1237,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency-program/amp/",
-      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency-program/amp/",
-      "publishedDateTime": "2020-08-28T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacRumors",
-        "domain": "macrumors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

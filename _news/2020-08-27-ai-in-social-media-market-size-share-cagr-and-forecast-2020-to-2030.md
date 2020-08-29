@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-marke
 webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030-2020-08-27"
 type: article
 quality: 67
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -153,34 +153,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
-    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2020-08-24T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2020-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Medical Imaging Market 2020 Market Research with Size, Growth, Manufacturers, Segments and 2026 Forecast Research"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Artificial Intelligence in"
-    publishedDateTime: 2020-08-24T11:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-2020-market-research-with-size-growth-manufacturers-segments-and-2026-forecast-research-2020-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
