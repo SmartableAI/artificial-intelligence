@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/federal-contractor-taps-goo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "STS Partners with Google to Enhance US Navy Modernization; Mike Daniels, Aaron Kilinski Quoted"
+    excerpt: "\"The manual inspection of Navy ships and vessels is a time-intensive, costly process that can drive up costs and slow down deployment,\" said Mike Daniels, vice president of Global Public Sector for Google Cloud."
+    publishedDateTime: 2020-08-27T20:44:00Z
+    webUrl: "https://www.executivegov.com/2020/08/sts-partners-with-google-to-enhance-us-navy-modernization-mike-daniels-aaron-kilinski-quoted/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 12
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2020/08/27/61/ba/0e/e5/89/73/c4/f4/mike_daniels_20190304.png"
+        width: 272
+        height: 270
         isCached: true
 
 secured: "a9gUkNDvZBYpEdL7I6GZRIAAhaeHvBbAS5PZorvQDuZycRymNokNmtCcsq7IoSUhPfbekCucAxead2dAYUexWGDQcADWPOXCLocxOUsf/OR2BF9+xopnZF8Ka17/2PdX2ePoG18PTt7t0JkACh31cQaZr5wdaWyh2X1WnT8cKSceIt6yOC/OjxePaDbAGS4TysBSziUk8XXKq5lpRFpu2aoRZilndpIBLMl7JSG1CGLP4IrwxrdGZusB05O4mQzqRnW/lmcLsgHKPtodRK6MGzTYT2Oof6fEKT/MG2oMGARKP3ClHQYzdZ4gVYhErPGW6x3wYI+fp21Mov133MmKZSdsrOzkzf2/ugOeeWm881n9ybmmDLo13EtTnYHRm935DU95aNokZQQyC2EAk5D5GHv5zWl8orO+G+TIYGNmGxs6/cBFt25G8xHq3fEou/Sl/5uFDUvXp5v6XsM2yTk7i29lGdB/ZrLMbSoZV8/K9917yFYlmuuxW8+EFaZdd7cWfLV3Q5OO9NttYaYyKP6D2tlmh7ssQObeEGUxH0MCqBs=;w5+O1iwx33MuASbU2xHD3A=="

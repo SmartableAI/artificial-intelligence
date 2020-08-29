@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-word-how-t
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/"
 type: article
 quality: 78
-heat: 148
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "New Microsoft live dictation and transcription feature for Word is now available"
+    excerpt: "Microsoft is looking to make your work from home life easier with a new Transcribe feature for Word on the Web."
+    publishedDateTime: 2020-08-25T15:14:00Z
+    webUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 79
   - title: "Microsoft Word for the web now lets Office 365 users record and upload audio for transcription"
     excerpt: "If your job requires extensive work with documents or routinely organizing meeting notes, transcribing can be an invaluable tool to save time or catch that important detail that inadvertently got overlooked the first time."
     publishedDateTime: 2020-08-26T13:27:00Z
@@ -46,22 +57,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-26-image.png"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Microsoft Word To Take Voice Commands, Transcribe Recordings"
-    excerpt: "Microsoft said that updates to Office 365 will allow users to record conversations \"directly in Word for the web and transcribe them automatically.\""
-    publishedDateTime: 2020-08-25T20:55:00Z
-    webUrl: "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/"
-    ampWebUrl: "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/08/microsoft-word-voice-commands-457x274.jpg"
-        width: 457
-        height: 274
         isCached: true
   - title: "Microsoft 365 saves you time and effort with transcription and voice commands in Word"
     excerpt: "New enhancements in Office apps allow you to harness the power of your voice to spend less time and energy creating your best work, so can focus on what matters most."
@@ -105,34 +100,6 @@ related:
     images:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/08/microsoft.png"
         width: 800
-        height: 600
-        isCached: true
-  - title: "Microsoft Adds Voice Features To Office 365"
-    excerpt: "Microsoft is adding transcription and dictation coice-command functionality to Office 365 for web, which it says will allow users to spend less time and energy on time-consuming work. Using the Azure Cognitive Services AI platform,"
-    publishedDateTime: 2020-08-27T04:42:00Z
-    webUrl: "https://www.channelnews.com.au/microsoft-adds-new-voice-features-to-office-365/"
-    type: article
-    provider:
-      name: ChannelNews Australia
-      domain: channelnews.com.au
-    quality: 39
-    images:
-      - url: "https://www.channelnews.com.au/wp-content/uploads/2020/08/CLO20_microsoftForStartups_Ghana_039-8-25-BANNER-1200x600-1.png"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Microsoft Adds Voice Features To Office 365"
-    excerpt: "Microsoft is adding transcription and dictation coice-command functionality to Office 365 for web, which it says will allow users to spend less time and energy on time-consuming work. Using the Azure Cognitive Services AI platform,"
-    publishedDateTime: 2020-08-28T03:42:00Z
-    webUrl: "https://www.smarthouse.com.au/microsoft-adds-voice-features-to-office-365/"
-    type: article
-    provider:
-      name: SmartHouse
-      domain: smarthouse.com.au
-    quality: 39
-    images:
-      - url: "https://www.smarthouse.com.au/wp-content/uploads/2020/08/CLO20_microsoftForStartups_Ghana_039-8-25-BANNER-1200x600-1.png"
-        width: 1200
         height: 600
         isCached: true
 

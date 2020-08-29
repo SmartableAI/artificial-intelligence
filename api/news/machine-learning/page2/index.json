@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-18-leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities.md",
+      "title": "LEVEN develops a ventilator with AI and machine learning capabilities",
+      "excerpt": "An India-Dutch startup mentored by Hyderabad Security Cluster, a Government of Telangana initiative, has developed smart ventilators that are integrated with artificial intelligence (AI) and machine learning (ML). This comes during a time when ventilators ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2020/08/ezgif-7-bacab7698035-770x433.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html/amp",
+      "publishedDateTime": "2020-08-18T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-top-3-applications-of-machine-learning-to-transform-your-business.md",
       "title": "Top 3 Applications Of Machine Learning To Transform Your Business.",
       "excerpt": "We all hear about Artificial intelligence and Machine learning in everyday conversations, the terms are becoming increasingly popular across businesses of all sizes and in all industries. We know AI is the future, but how can it be useful to businesses today?",
@@ -1335,56 +1376,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-csiro-using-artificial-intelligence-to-map-17m-australian-grain-paddocks.md",
-      "title": "CSIRO using artificial intelligence to map 1.7m Australian grain paddocks",
-      "excerpt": "It developed ePaddocks for the agriculture sector to better understand the boundaries of grain paddocks across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/07/ce1a2d41-b2cf-4532-b208-75d0b6ba0c14/0000102-epaddocks-australian-paddock-boundaries-550.jpg",
-          "width": 550,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
-      "publishedDateTime": "2020-08-06T17:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

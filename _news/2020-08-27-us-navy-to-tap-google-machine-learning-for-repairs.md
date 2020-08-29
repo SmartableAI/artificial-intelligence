@@ -52,6 +52,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "STS Partners with Google to Enhance US Navy Modernization; Mike Daniels, Aaron Kilinski Quoted"
+    excerpt: "\"The manual inspection of Navy ships and vessels is a time-intensive, costly process that can drive up costs and slow down deployment,\" said Mike Daniels, vice president of Global Public Sector for Google Cloud."
+    publishedDateTime: 2020-08-27T20:44:00Z
+    webUrl: "https://www.executivegov.com/2020/08/sts-partners-with-google-to-enhance-us-navy-modernization-mike-daniels-aaron-kilinski-quoted/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 12
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2020/08/27/61/ba/0e/e5/89/73/c4/f4/mike_daniels_20190304.png"
+        width: 272
+        height: 270
+        isCached: true
 
 secured: "YZY3slFRuRLzCKLOwWJmCEZ0yBkVCDcwvl/Dn5WWX123/W0Hreuib09UmO7XKatsaHIB37DKFVSZntYLHSB7gd4NSdx/IVlGypYrgulo1f89LAfrgQfJATUieHFRGBWS6BZsvC2ZEWSfg2cE2Q9tl0tZs7KdBFdsInVZWfr4a/RSHlGga9Vrji9lQ1Kxs7hs9F71lveTwG5OPnuv9waJ8cSEXBpQVf7zRfHnDn2gtzY6oqVRwo9rcQxzVYnunnpspszn17XAhQTUZDl0FQaKP9Lhq7c8nW3Gq4e2sl2iuqCyjgaPVAEDPQhNKNIOkFO/xinTNKNfA5WJ0H3LvmEq2gd2M/tDGvEBrxbcHFU7Zr/Fpe6ukFxlprJULdsbvY5qUsOezFhj+nAR53zFpX7pkT5yVTmDadKBUcm+46kLLWXpTlxUoa6igBdfYjrzUF2iixYJuDWQKHKQDOf6esvD35QU+fsU1wcIQ57FIxVo0aD5jECyG9RPKMKqVYrqAj2ElFzD4ym4R8sjIQkjX/QC56EqC5juld18louHYSU72cE=;Jbqh77Ofb7/fB85hF8BfKw=="
 ---

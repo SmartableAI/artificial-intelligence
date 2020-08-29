@@ -141,20 +141,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Car Market 2020-2024 / overview and scope, Industry Outlook, Size & Forecast"
-    excerpt: "Self-driving cars have pre-installed control systems ... Nissan Motor Company, BMW AG, Baidu Inc., Daimler AG, Dutch Automated Vehicle Initiative (DAVI), Apple Inc., and Volkswagen among others."
-    publishedDateTime: 2020-08-24T08:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-2024-overview-and-scope-industry-outlook-size-forecast-2020-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Technology Market 2020 Global Analysis, Opportunities And Forecast To 2025"
     excerpt: "The global Speech and Voice Recognition Technology Market is studied in great detail in the new research report, which provides the readers with an accurate overview of the market"
     publishedDateTime: 2020-08-25T18:08:00Z

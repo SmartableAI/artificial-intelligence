@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving car companies trying virus-killing UV rays to assure riders"
+    excerpt: "A pair of self-driving car startups are offering a solution to commuters shunning shared transportation in the midst of a pandemic: ultraviolet rays. Voyage and May Mobility, two autonomous-vehicle companies that charge riders to go on simple,"
+    publishedDateTime: 2020-08-27T11:16:00Z
+    webUrl: "https://driving.ca/auto-news/news/self-driving-car-companies-trying-virus-killing-uv-rays-to-assure-riders"
+    ampWebUrl: "https://driving.ca/auto-news/news/self-driving-car-companies-trying-virus-killing-uv-rays-to-assure-riders/amp"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/self-driving-car-companies-trying-virus-killing-uv-rays-to-assure-riders/amp"
+    type: article
+    provider:
+      name: driving.ca
+      domain: driving.ca
+    quality: 43
+    images:
+      - url: "https://postmediadriving.files.wordpress.com/2018/09/waymo_minivan_7.jpg?quality=80"
+        width: 2480
+        height: 1600
+        isCached: true
   - title: "Self-driving shuttles try virus-killing UV rays in U.S."
     excerpt: "A pair of self-driving car startups are offering a solution to commuters shunning shared transportation in the midst of a pandemic: ultraviolet rays. Voyage and May Mobility, two autonomous-vehicle companies that charge riders to go on simple,"
     publishedDateTime: 2020-08-27T14:34:00Z

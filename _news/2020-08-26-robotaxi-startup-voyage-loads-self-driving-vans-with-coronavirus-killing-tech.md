@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/26/PDTN/264b1e45-5d04-4cf6-b925-97b0be18b115-MayMobilityShuttle.jpg?auto=webp&crop=1210,681,x0,y1&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Self-driving car companies trying virus-killing UV rays to assure riders"
+    excerpt: "A pair of self-driving car startups are offering a solution to commuters shunning shared transportation in the midst of a pandemic: ultraviolet rays. Voyage and May Mobility, two autonomous-vehicle companies that charge riders to go on simple,"
+    publishedDateTime: 2020-08-27T11:16:00Z
+    webUrl: "https://driving.ca/auto-news/news/self-driving-car-companies-trying-virus-killing-uv-rays-to-assure-riders"
+    ampWebUrl: "https://driving.ca/auto-news/news/self-driving-car-companies-trying-virus-killing-uv-rays-to-assure-riders/amp"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/self-driving-car-companies-trying-virus-killing-uv-rays-to-assure-riders/amp"
+    type: article
+    provider:
+      name: driving.ca
+      domain: driving.ca
+    quality: 43
+    images:
+      - url: "https://postmediadriving.files.wordpress.com/2018/09/waymo_minivan_7.jpg?quality=80"
+        width: 2480
+        height: 1600
         isCached: true
   - title: "Self-driving shuttles try virus-killing UV rays in U.S."
     excerpt: "A pair of self-driving car startups are offering a solution to commuters shunning shared transportation in the midst of a pandemic: ultraviolet rays. Voyage and May Mobility, two autonomous-vehicle companies that charge riders to go on simple,"

@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-29-microsoft-azure-is-set-to-be-the-top-cloud-platform.md",
+      "title": "Microsoft Azure is set to be the top cloud platform",
+      "excerpt": "Microsoft signed new deals with PepsiCo and Mastercard to use Azure as their preferred cloud platform. Azure seems to be the top business choice right now.",
+      "sourceUrl": null,
+      "webUrl": "https://windowsreport.com/microsoft-azure-top-cloud-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/07/Microsoft-Azure-is-set-to-be-the-top-cloud-platform.jpg",
+          "width": 1856,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://windowsreport.com/microsoft-azure-top-cloud-platform/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-top-cloud-platform/?amp",
+      "publishedDateTime": "2020-07-29T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-microsoft-gijima-launch-ai-varsity-programme-for-graduates.md",
       "title": "Microsoft, Gijima launch AI varsity programme for graduates",
       "excerpt": "The Central University of Technology has set up an artificial intelligence programme to help graduates create the next generation of intelligent solutions.",
@@ -1234,47 +1275,6 @@
         "name": "Morningstar, Inc.",
         "domain": "morningstar.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-ibm-beats-q2-expectations-on-30-cloud-revenue-growth.md",
-      "title": "IBM beats Q2 expectations on 30% cloud revenue growth",
-      "excerpt": "Top cloud providers in 2020: AWS, Microsoft Azure ... Broken down further, IBM said cloud and cognitive software revenue -- which includes Red Hat as well as Cognitive Applications and Transaction ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-beats-q2-expectations-on-30-cloud-revenue-growth/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-beats-q2-expectations-on-30-cloud-revenue-growth/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-beats-q2-expectations-on-30-cloud-revenue-growth/",
-      "publishedDateTime": "2020-07-20T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

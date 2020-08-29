@@ -1,24 +1,28 @@
 ---
 category: news
 title: "How an Automated Data Labeling Platform Fuels Self-driving Industry?"
-excerpt: "NEW YORK, NY / ACCESSWIRE / August 26, 2020 / \"I'm extremely confident that self-driving cars or essentially complete autonomy will happen, and I think it will"
+excerpt: "NEW YORK, NY / ACCESSWIRE / August 26, 2020 / “I’m extremely confident that self-driving cars or essentially complete autonomy will happen, and I think it will happen very quickly,” Tesla CEO Elon Musk said in a virtual speech to the World Artificial Intelligence Conference in July,"
 publishedDateTime: 2020-08-26T08:10:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/08/ac17244991/how-an-automated-data-labeling-platform-fuels-self-driving-industry"
-webUrl: "https://www.benzinga.com/pressreleases/20/08/ac17244991/how-an-automated-data-labeling-platform-fuels-self-driving-industry"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17244991"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17244991"
+originalUrl: "https://apnews.com/8b323e803837e85372f987447c3481b0"
+webUrl: "https://apnews.com/8b323e803837e85372f987447c3481b0"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Detroit parking garage will feature automated parking system by Ford, Bosch in self-driving car demonstration"
@@ -47,6 +51,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "V5rPEHKXckOVlHlJUVhrAuZnNob6k2N4vL6UiIFdeStt8ys37p9vMqpzir7ep09BFcwl/G78Iv+5bkwQhD/JF6x4J8zwP8OpR7D0Ja4fQiCWSnrPHrdGzmw15FzekukAMfol8/dx1vK9pYG3dVqCrHqkO6h0elLCzDkhVnkD7pPKz2Ev0B2uP/EvfdLv4IgLe9hXmouyRsJNzal5woBFmTHKprWkj4N9yRQvEfhQKvXhWCLoySjasw+HDokLjv6b9k+ksmteSgC+Xms90PG6kM5zQ0ekskpLUVvmbFysGK8xkqiliJCEXdTnze9FJZDzXAl0oNeweNzM+1dcpuI/BBk7lv7iKAfBnz2h5ALnb6LlHXNBPfGj4W9+PYNnUWmZ3awyKuBpMiS/Bc822R19btlEmtYkZhHtS9LxImQyehy42R0IRM6dzL8oxcOCOJ4x/ITUVGKXsoSzYeiH7OUBsIxsw0oCQVZhUFv5RTwlY2JY59BKayDItZ8PzEmARlAB02IL37Uxm8HCHYjFl+mB57zjI1CSOEB37Jo5ZybW/Qc=;0NV9tkq5/wekUD5rQv7xaA=="
+secured: "ujGH0Gwbi2oGGicCGOtVPhykXM0QcJMoq2e/PC3UJhImgvvju0qB3EFNE1Ikqwq5/ULBdB+O3LiOUiCtXcub2jp/KxrRtFqFZYER2I80yLbfBRnjhuIVL/8yWOUqcUae/67MvcB8xnS4N0aQg7XIr+q6FIwcMeLaPphaZ5wQcQo0qmc2zxZz7o+5kugaco0WRaB7+HGr0BWJaYXBX/cuzPqeKpskRYHDgHXXi+LU+/QmA3TYmlT/YPIjzfhJixtEerIavhsYiz31kmGOyci8LU3CkBFXp3cXMhmgDHQzOmH+wx+e8aW3xyIk8x5gkBlVXmqGw0MC5D0lGaJbe3bK+etsnkY8GUlQSAogf5CWmwc=;5xMS1Jg9uaQ1OCS+KI8IpQ=="
 ---
 

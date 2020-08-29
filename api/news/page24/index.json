@@ -2,6 +2,285 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-08-07-ibm-and-michael-j-fox-foundation-develop-machine-learning-model-for-parkinsons.md",
+      "title": "IBM and Michael J. Fox Foundation develop machine learning model for Parkinson’s",
+      "excerpt": "The research arm of Big Blue and The Michael J. Fox Foundation (MJFF) have developed a machine learning disease progression model as part of further research into Parkinson's disease (PD). PD is a chronic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.michaeljfox.org/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.michaeljfox.org/themes/custom/fox/assets/images/png/og-image-logo.png",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-07T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-ai-is-a-new-weapon-in-the-battle-against-counterfeits.md",
+      "title": "AI Is a New Weapon in the Battle Against Counterfeits",
+      "excerpt": "Algorithms that can spot features invisible to the human eye are helping to protect retailers and shoppers from a glut of fake goods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-is-a-new-weapon-in-the-battle-against-counterfeits-11596805200",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-217414/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-is-a-new-weapon-in-the-battle-against-counterfeits-11596805200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-is-a-new-weapon-in-the-battle-against-counterfeits-11596805200",
+      "publishedDateTime": "2020-08-07T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall.md",
+      "title": "TCS a leader in advanced digital workplace services: NelsonHall",
+      "excerpt": "Tata Consultancy Services intellectual property, defined modern workplace offerings, and investments in TCS Pace Port and digital reimagination studios were cited as key strengths.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tcs1-1421292882-0159300.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html",
+      "publishedDateTime": "2020-08-07T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping.md",
+      "title": "AI on the high seas: Digital transformation is revolutionizing global shipping",
+      "excerpt": "From unmanned vessels to artificial intelligence applications, digital transformation is giving shipping a 21st-century reboot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/",
+      "publishedDateTime": "2020-08-07T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-ecobank-announces-10-finalists-in-fintech-challenge-nigeria-misses-cut.md",
+      "title": "Ecobank announces 10 finalists in Fintech challenge, Nigeria misses cut",
+      "excerpt": "Ecobank Group has announced the finalists from the 2020 Ecobank Fintech Challenge, with no Nigerian Fintech making the cut.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pmnewsnigeria.com/2020/08/07/ecobank-announces-10-finalists-in-fintech-challenge-nigeria-misses-cut/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.pmnewsnigeria.com/wp-content/uploads/2020/08/Ecobank-Fintech.jpg?fit=640%2C427&ssl=1",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pmnewsnigeria.com/2020/08/07/ecobank-announces-10-finalists-in-fintech-challenge-nigeria-misses-cut/amp/",
+      "cdnAmpWebUrl": "https://www-pmnewsnigeria-com.cdn.ampproject.org/c/s/www.pmnewsnigeria.com/2020/08/07/ecobank-announces-10-finalists-in-fintech-challenge-nigeria-misses-cut/amp/",
+      "publishedDateTime": "2020-08-07T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PM NEWS Nigeria",
+        "domain": "pmnewsnigeria.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-military-artificial-intelligence-ai-market-insights-technology-advancements-and-global-outlook-2020-2025.md",
+      "title": "Military Artificial Intelligence (AI) Market Insights, Technology Advancements and Global Outlook | 2020-2025",
+      "excerpt": "The Global Military Artificial Intelligence (AI) Market Research Report 2020-2026 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost, revenue ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-insights-technology-advancements-and-global-outlook-2020-2025-2020-08-07",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-07T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-a-fully-open-source-framework-for-deep-learning-protein-real-valued-distances.md",
       "title": "A fully open-source framework for deep learning protein real-valued distances",
       "excerpt": "As deep learning algorithms drive the progress in protein structure prediction, a lot remains to be studied at this merging superhighway of deep learning and protein structure prediction.",
@@ -885,279 +1164,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-macys-sued-over-use-of-clearview-facial-recognition-software.md",
-      "title": "Macy’s Sued Over Use of Clearview Facial-Recognition Software",
-      "excerpt": "Macy’s Retail Holdings Inc. was targeted in one of the first lawsuits against users of the controversial facial-recognition software made by startup Clearview AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCjoIH.CSaXQ/v1/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
-      "publishedDateTime": "2020-08-06T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit.md",
-      "title": "Google adds Digital Ink Recognition API for touch and stylus input to ML Kit",
-      "excerpt": "Google introduced a new API for touch and stylus input to ML Kit, its machine learning development toolkit for Android and iOS.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/amp/",
-      "publishedDateTime": "2020-08-06T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Google AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-this-john-legend-backed-startup-uses-ai-to-improve-your-creditfor-free.md",
-      "title": "This John Legend-backed startup uses AI to improve your credit—for free",
-      "excerpt": "Photo: Cred] Cred.ai is a startup three years in the making—with funding from investors including former AOL CEO Tim Armstrong and Fanatics executive chairman Michael Rubin, along with celebrities like John Legend—that promises to make the whole world of credit cards more equitable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fastcompany.com/90537012/this-john-legend-backed-startup-uses-ai-to-improve-your-credit?partner=rss",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-90537012-cred-is-an-ai-powered-credit-card-designed-to-improve-your-credit.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-06T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-reps-call-for-research-investment-in-ai.md",
-      "title": "Reps. Call for Research Investment in AI",
-      "excerpt": "have partnered with the Bipartisan Policy Center (BPC) and the Center for ... that calls for Federal investments into AI R&D. The Cementing American Artificial Intelligence Leadership: AI Research & Development report is the third in a series on AI issues ...",
-      "sourceUrl": null,
-      "webUrl": "https://bipartisanpolicy.org/report/ai-research-development/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bipartisanpolicy.org/wp-content/uploads/2020/08/shutterstock_690256660.png",
-          "width": 700,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-06T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MeriTalk",
-        "domain": "meritalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy.md",
-      "title": "Google's new voice and audio settings give you more control over your privacy",
-      "excerpt": "Google on Wednesday let people know it's still having humans review voice and audio recordings on devices like Google Home. However, the search giant's email also said it's giving you more control over what's being shared and has automatically turned off the feature for all accounts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/KBR1GYWD2mNrI9tvFINf3uZtuxk=/756x567/2019/01/17/160d0588-c985-400c-9c2b-50604e69486d/jot-google-home-mini-1.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy/",
-      "publishedDateTime": "2020-08-06T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-hylands-latest-advancements-include-handwriting-recognition.md",
-      "title": "Hyland’s latest advancements include handwriting recognition",
-      "excerpt": "Hyland’s latest advancements include handwriting recognition. Hyland, a content services provider for organizations across the globe, is releasing Brainware Foundation, the newe",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142178",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-06T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

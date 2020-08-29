@@ -157,6 +157,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.news-medical.net/news/20200828/Using-deep-learning-to-study-how-mental-disorders-affect-the-brain.aspx</loc>
+    <lastmod>2020-08-27T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/marcochiappetta/2020/08/27/latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features/</loc>
     <lastmod>2020-08-27T16:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -195,6 +201,12 @@
   <url>
     <loc>https://www.techrepublic.com/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/</loc>
     <lastmod>2020-08-27T11:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.presseportal.de/en/pm/16314/4691000</loc>
+    <lastmod>2020-08-27T11:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -367,12 +379,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/</loc>
-    <lastmod>2020-08-26T04:52:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machine-reveal-date/</loc>
     <lastmod>2020-08-26T04:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -415,8 +421,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
-    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely</loc>
+    <lastmod>2020-08-25T17:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -429,6 +435,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/</loc>
     <lastmod>2020-08-25T15:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/</loc>
+    <lastmod>2020-08-25T13:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -513,6 +525,12 @@
   <url>
     <loc>https://www.pghcitypaper.com/pittsburgh/pittsburgh-city-council-introduces-police-facial-recognition-predictive-policing-ban/Content?oid=17879052</loc>
     <lastmod>2020-08-25T09:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/</loc>
+    <lastmod>2020-08-25T08:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -889,6 +907,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.datanami.com/2020/08/21/darpa-chip-effort-advances-ai-hardware/</loc>
+    <lastmod>2020-08-21T15:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html</loc>
     <lastmod>2020-08-21T14:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -979,8 +1003,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure</loc>
-    <lastmod>2020-08-21T08:00:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/mobius-logic-brings-drone-flight-management-to-microsoft-azure-1029524393</loc>
+    <lastmod>2020-08-21T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1519,7 +1543,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/</loc>
+    <loc>https://www.gizmodo.com.au/?p=1256892</loc>
     <lastmod>2020-08-19T02:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1711,6 +1735,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
+    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1743,12 +1773,6 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
-    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2091,6 +2115,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14</loc>
     <lastmod>2020-08-14T20:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/</loc>
+    <lastmod>2020-08-14T18:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3351,6 +3381,12 @@
   <url>
     <loc>https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/</loc>
     <lastmod>2020-08-07T18:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/tomtaulli/2020/08/08/how-to-create-an-ai-artificial-intelligence-startup/</loc>
+    <lastmod>2020-08-07T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

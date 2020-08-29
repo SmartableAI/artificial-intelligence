@@ -7,7 +7,7 @@ originalUrl: "https://www.ozy.com/the-new-and-the-next/last-unicorn-standing-can
 webUrl: "https://www.ozy.com/the-new-and-the-next/last-unicorn-standing-can-this-self-driving-innovator-survive/374260/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Human collaboration required for self-driving trials in Taiwan"
-    excerpt: "Autonomous driving tests in Taiwan are required to have human drivers onboard the vehicles to take over steering when occasion arises, according to Statute for Experiments of Technological Innovations in Unmanned Vehicle."
-    publishedDateTime: 2020-08-24T07:35:00Z
-    webUrl: "https://www.digitimes.com/news/a20200814PD206.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200814PD206_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Weil, Orrick Lead SPAC Deal For $3.4B Self-Driving Tech Co."
-    excerpt: "Autonomous driving technology developer Luminar on Monday agreed to merge with a private equity-backed special purpose acquisition vehicle to create a single publicly traded entity with an equity value of about $3."
-    publishedDateTime: 2020-08-24T18:24:00Z
-    webUrl: "https://www.law360.com/articles/1303676/weil-orrick-lead-spac-deal-for-3-4b-self-driving-tech-co"
-    ampWebUrl: "https://www.law360.com/amp/articles/1303676"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1303676"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
 
 secured: "dXcMK3k8E+l4FLq9FbRXPNUkc+FPHcFDLokdkdHdtpUVYt09HRlmpDsd2ZYT7ZaAegnA/sz6tY2KLQAm5HJB+7QWrSs+pZZe3I55C47C8oYA137IaKDl0YNx0h6PW24ywgNZ5Qns836CKSIK93Y7Zj88ELUoN3cRHPhPbtnJ7YeCVDprarWbi0AXOl6V1cTb7UZwrjnv41PUh7j0whln0liioS34eYmsjnJRZ2YJjshVJVqk7dyR/zUUpZLMCFsTh0mrpujzRuN2IJxKIJVbe01NZYKeXLpIFodNfsAWRqC4HejuaDm9awNLLDU6n3FgKSWFEdvpeNj4O/Ae3xYcDdSHydeR7vY6UYlEJq8wc6EZkKTczxAgAb0/JABDsCqdrRX617+G/d5FPQqsEIxom1gm61nTg4UL5Q6xgKBPNZCxHlA9zT5ljg3K0aLhL7GjwMz5fPy4SAxJNwRFlFnjwEl13OjBB+z4YBYqbmRGdkxoap9WQEd860ByLJWlqczYS9KIiNeGXSLgi0HgcDFbGLAHhDCFzke7v90q/pVI02M=;bzHCwbCpOLjh8X5b267Jkw=="
 ---

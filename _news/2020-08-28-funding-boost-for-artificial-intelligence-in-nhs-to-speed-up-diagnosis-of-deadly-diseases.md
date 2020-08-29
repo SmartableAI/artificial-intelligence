@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-28T23:16:00Z
 originalUrl: "https://www.gov.uk/government/news/funding-boost-for-artificial-intelligence-in-nhs-to-speed-up-diagnosis-of-deadly-diseases"
 webUrl: "https://www.gov.uk/government/news/funding-boost-for-artificial-intelligence-in-nhs-to-speed-up-diagnosis-of-deadly-diseases"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/default_news_organisation_image_data/file/235/s960_Default_image_39_Victoria_street_department_of_health.jpg"
@@ -23,6 +24,6 @@ images:
     height: 640
     isCached: true
 
-secured: "K4Ywtey0L21NVh/XKs+jLO1sCeSaz7Kc/8GGBYUs0N7jCvrDEca0BE5ZFrQ5Zotify4144GSsZWrT1jKaTVPzJssXdRN5PLHPLmaaSxOlW7/7I4N6UyxjVxa4iK93RTUad6Z4n9cQv/dKcwHuZh7txes/RKyRzLR1Uj4nv3sXQsEyY12Q9YWcgvJjEkyEwF06AZSWbM7UNvL/almmXR12RTwIFrPO1RfrTr4djdbDpv3WnYfbahoewFnrElxCCa5azlrl36t6r1ZuA4xRUSxSFucB+7LrO7zFY3/58cfgrNj1pNYX3tyPuWm6I9EAulTiuGX4jPnqBIM+tT4u9Rb/upgzmcvZlxgoz0ArzZBHu4=;LqJ1xPSy1m43TBPgmh8xYA=="
+secured: "ijhlBLD+fDzW13r8G1qvKxkvqFUZi/qGKIKD2M/bGGmeDKL4qGCnJLjYBVIPQjUNSNcYcJ7crmS0B8v5ar6BT2k/+DyRl76IhULpnqVkWoI19SyYXyBnQXKJPag43hOpW5buylvDQVI/GYZgdK5fiDc3+B3usmT46uP2+9nqBDZFD+KQ430m362WOxUxoJYlW363hXU/E/QkGqnki5LgxOkx/NYBfsxyLayXL+Ktob+/jXouhWq6WlMchK32jw01IOla7O08m4Rsd0910h/y5StSKVIVEa8AhoY6QKsNJ/kXKRHsPYOTF8SVimQhuGRYzWGXUpkGhvLUlfVZRsa03t2+7aQ95/1ygNKVIsa5dePBpPCnsvT2iCENDFJ6sjvZrOBb0qGm605++QluZ0jiWxTB3agmQJcbCKhzJpo4C2P7ji/XQBXeCN316KEoEL3atqlTknWZUc7Vull72/P4OcTSPZaVI0K9owm2HCa1cH82tG/cQTupz1QApjubP52j32TlDpkIoCN2HCVruHWoFrn6fZyN2snfrs+4YA4dyv4=;VoOXxSH8NmN08tt/15Tovw=="
 ---
 

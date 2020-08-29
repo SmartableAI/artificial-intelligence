@@ -63,6 +63,22 @@ related:
         width: 3411
         height: 2274
         isCached: true
+  - title: "Elon Musk's Neuralink startup shows off pig with computer chip in brain"
+    excerpt: "Elon Musk's startup wants to one day implant computer chips inside the human brain. In a demo Friday, Musk showed off a pig with one of the prototype implants."
+    publishedDateTime: 2020-08-29T01:52:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 57
+    images:
+      - url: "https://media.khou.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Elon Musk’s neuroscience startup unveils pig with computer chip in its brain"
     excerpt: "Musk described Neuralink's sensor, which is roughly eight millimetres in diameter, or smaller than a fingertip, as \"a Fitbit in your skull with tiny wires.\""
     publishedDateTime: 2020-08-28T23:43:00Z

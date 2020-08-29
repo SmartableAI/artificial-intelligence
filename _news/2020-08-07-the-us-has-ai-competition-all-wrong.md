@@ -3,6 +3,7 @@ category: news
 title: "The U.S. Has AI Competition All Wrong"
 excerpt: "The United States and China each invest billions every year in growing their AI industries, increasing the autonomy and power of futuristic weapons systems, and pushing the frontiers of possibility. Fears of an AI arms race between the two countries abound—and although the rhetoric often outpaces the technological reality,"
 publishedDateTime: 2020-08-07T12:54:00Z
+originalUrl: "https://www.foreignaffairs.com/articles/united-states/2020-08-07/us-has-ai-competition-all-wrong"
 webUrl: "https://www.foreignaffairs.com/articles/united-states/2020-08-07/us-has-ai-competition-all-wrong"
 ampWebUrl: "https://www.foreignaffairs.com/articles/united-states/2020-08-07/us-has-ai-competition-all-wrong?amp"
 cdnAmpWebUrl: "https://www-foreignaffairs-com.cdn.ampproject.org/c/s/www.foreignaffairs.com/articles/united-states/2020-08-07/us-has-ai-competition-all-wrong?amp"

@@ -3,6 +3,7 @@ category: news
 title: "Canterbury Uni orders review into publication by China expert Anne-Marie Brady"
 excerpt: "A paper critical of New Zealand university links with China has drawn complaints from other universities and prompted a review by Canterbury University."
 publishedDateTime: 2020-08-14T17:03:00Z
+originalUrl: "https://www.stuff.co.nz/national/122405759/canterbury-uni-orders-review-into-publication-by-china-expert-annemarie-brady"
 webUrl: "https://www.stuff.co.nz/national/122405759/canterbury-uni-orders-review-into-publication-by-china-expert-annemarie-brady"
 type: article
 quality: 20

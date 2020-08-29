@@ -2,6 +2,237 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-08-13-bright-pattern-selected-as-finalist-for-disruptive-technology-solution-of-the-year-for-customer-contact-week-ccw-excellence-awards.md",
+      "title": "Bright Pattern Selected as Finalist for 'Disruptive Technology Solution of the Year' for Customer Contact Week (CCW) Excellence Awards",
+      "excerpt": "PRNewswire/ -- Bright Pattern, leading provider of AI-powered omnichannel cloud contact center software, announces its placement as a finalist for the",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/in/news-releases/bright-pattern-selected-as-finalist-for-disruptive-technology-solution-of-the-year-for-customer-contact-week-ccw-excellence-awards-822616149.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/634980/Bright_Pattern___Logo.jpg?p=facebook",
+          "width": 1620,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-13T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images.md",
+      "title": "Pro-China Propaganda Act Used Fake Followers Made With AI-Generated Images",
+      "excerpt": "China propaganda campaign on social media has been creating fake followers with the help of AI-generated images of seemingly real, but fictitious people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00UDuUnhr79dyJteBBPWt2c-4.fit_lim.size_1200x630.v_1597339528.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images?amp=true",
+      "publishedDateTime": "2020-08-13T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions.md",
+      "title": "The China Artificial Intelligence (AI) Report 2020: Mounting Privacy Concerns and a Look at US-China Tensions",
+      "excerpt": "The China Artificial Intelligence (AI) Report 2020 gives you exclusive first-hand insights and data-driven analysis into the latest industry developments, including An up-to-date and comprehensive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions-301112004.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions-301112004.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-13T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-expanding-scientific-portfolios-and-adapting-to-a-changing-world-with-amazon-personalize.md",
+      "title": "Expanding scientific portfolios and adapting to a changing world with Amazon Personalize",
+      "excerpt": "This is a guest blog post by David A. Smith at Thermo Fisher. In their own words, “Thermo Fisher Scientific is the world leader in serving science. Our Mission is to enable our customers to make the world healthier, cleaner, and safer. Whether our customers are accelerating life sciences research, solving",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/expanding-scientific-portfolios-and-adapting-to-a-changing-world-with-amazon-personalize/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/22/thermo-fisher-personalize-6.jpg",
+          "width": 1000,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-13T08:53:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-video-analytics-isr-and-intelligent-video-surveillance-americas-market-key-facts-and-forecast-predictions-presented-in-2020.md",
+      "title": "Video Analytics, ISR And Intelligent Video Surveillance Americas Market: Key Facts and Forecast Predictions Presented In 2020",
+      "excerpt": "Aug 13, 2020 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-key-facts-and-forecast-predictions-presented-in-2020-2020-08-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-key-facts-and-forecast-predictions-presented-in-2020-2020-08-13",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-13T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-the-top-ways-artificial-intelligence-is-disrupting-life-as-we-know-it.md",
       "title": "The Top Ways Artificial Intelligence is Disrupting Life as We Know It",
       "excerpt": "The artificial intelligence boom is already here, and it&CloseCurlyQuote;s changing life as we know it. JP Morgan analysts believe the market will grow to $58 billion by 2021. The auto industry is using AI to create driverless cars. The financial industry ...",
@@ -914,239 +1145,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-artificial-intelligence-ai-market-in-bfsi-sector-market-to-watch-spotlight-on-ibm-aws-microsoft-intel.md",
-      "title": "Artificial Intelligence (AI) Market in BFSI Sector Market to Watch: Spotlight on IBM, AWS, Microsoft, Intel",
-      "excerpt": "An extensive elaboration of the COVID-19 Outbreak-Global Artificial Intelligence (AI) market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-in-bfsi-sector-market-to-watch-spotlight-on-ibm-aws-microsoft-intel-2020-08-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-in-bfsi-sector-market-to-watch-spotlight-on-ibm-aws-microsoft-intel-2020-08-13",
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T00:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-sas-automl-.md",
-      "title": "코오롱베니트, 'SAS AutoML 활용 전략’ 웨비나 개최",
-      "excerpt": "[파이낸셜뉴스] 코오롱그룹 IT서비스 전문기업 코오롱베니트가 오는 27일 ‘AI기반 의사결정 지원을 위한 SAS AutoML 활용 전략’ 웨비나를 개최한다고 13일 밝혔다. 자동화 머신러닝(AutoML)은 최적의 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fnnews.com/news/202008131602495034",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.fnnews.com/resource/crop_image/2020/08/18/thumb/202008181506500395_1597797299405.jpg",
-          "width": 280,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fnnews.com/ampNews/202008131602495034",
-      "cdnAmpWebUrl": "https://www-fnnews-com.cdn.ampproject.org/c/s/www.fnnews.com/ampNews/202008131602495034",
-      "publishedDateTime": "2020-08-13T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "파이낸셜뉴스",
-        "domain": "fnnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Size to Witness Huge Growth by 2025",
-      "excerpt": "Growth forecast report \" Machine Learning as a Service (MLaaS) Market size by Product Type (Special Service and Management Services), By Application (Banking, Financial Services, Insurance, Automobile,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025-2020-08-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025-2020-08-13",
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-global-computer-vision-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2025.md",
-      "title": "Global Computer Vision Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2025",
-      "excerpt": "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an orderly representation of the market that contains the historical data and key insights pertaining to market trends,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2025-2020-08-12",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-animegan-uses-machine-learning-to-turn-photos-into-anime-style-backgrounds.md",
-      "title": "AnimeGan Uses Machine Learning to Turn Photos Into Anime-Style Backgrounds",
-      "excerpt": "A GitHub user recently posted the open-source code for AnimeGAN using machine learning platform Tensorflow for anyone to download and use to create anime-style backgrounds.",
-      "sourceUrl": null,
-      "webUrl": "https://hypebeast.com/2020/8/animegan-machine-learning-turn-photos-anime-style-backgrounds-info",
-      "originalUrl": "https://hypebeast.com/2020/8/animegan-machine-learning-turn-photos-anime-style-backgrounds-info",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F08%2Fanimegan-machine-learning-turn-photos-anime-style-backgrounds-info-tw.jpg?w=960&cbr=1&q=90&fit=max",
-          "width": 960,
-          "height": 481,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://hypebeast.com/2020/8/animegan-machine-learning-turn-photos-anime-style-backgrounds-info",
-      "cdnAmpWebUrl": "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/8/animegan-machine-learning-turn-photos-anime-style-backgrounds-info",
-      "publishedDateTime": "2020-08-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hypebeast",
-        "domain": "hypebeast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -2,6 +2,105 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-26-bipartisan-policy-center-and-ethics-policy-for-artificial-intelligence-inside-the-beltway-thinking-is-still-an-issue.md",
+      "title": "Bipartisan Policy Center And Ethics Policy For Artificial Intelligence: Inside The Beltway Thinking Is Still An Issue",
+      "excerpt": "I am rarely impressed by Inside the Beltway thinking. My recent reading of “Turning Point” is an exception that proves the rule. For the second time this month, I came upon a discussion of governmental policy for AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/08/26/bipartisan-policy-center-and-ethics-policy-for-artificial-intelligence-inside-the-beltway-thinking-is-still-an-issue/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/08/26/bipartisan-policy-center-and-ethics-policy-for-artificial-intelligence-inside-the-beltway-thinking-is-still-an-issue/",
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/08/26/bipartisan-policy-center-and-ethics-policy-for-artificial-intelligence-inside-the-beltway-thinking-is-still-an-issue/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/08/26/bipartisan-policy-center-and-ethics-policy-for-artificial-intelligence-inside-the-beltway-thinking-is-still-an-issue/amp/",
+      "publishedDateTime": "2020-08-26T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-samsungs-new-washing-machine-will-use-ai-to-take-the-guesswork-out-of-laundry.md",
+      "title": "Samsung's new washing machine will use AI to take the guesswork out of laundry",
+      "excerpt": "Samsung's latest washing machine aims to take the confusion out of doing your laundry. According to the company, its WW9800T washer relies on artificial intelligence to automatically choose the correct cycle settings for the task at hand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/samsungs-washer-will-use-ai-to-take-the-guesswork-out-of-laundry/",
+      "originalUrl": "https://www.cnet.com/news/samsungs-washer-will-use-ai-to-take-the-guesswork-out-of-laundry/",
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/7Epr8r5PH0YkPfFfQlQ9-wXve9I=/756x567/2020/08/26/a791c44c-7b8d-4d26-880e-1d86b29019f1/04-ww9800t-upcycling-kv-h.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsungs-washer-will-use-ai-to-take-the-guesswork-out-of-laundry/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsungs-washer-will-use-ai-to-take-the-guesswork-out-of-laundry/",
+      "publishedDateTime": "2020-08-26T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global.md",
       "title": "Microsoft researcher Dr. Cecily Morrison will discuss keeping AI “personal” at Sight Tech Global",
       "excerpt": "For Dr. Cecily Morrison, research into how AI can help people who are blind or visually disabled is deeply personal. It’s not only that the Microsoft Principal Researcher has a 7-year-old son who is blind,",
@@ -150,7 +249,7 @@
       "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/",
       "originalUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/",
       "featuredContent": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -532,56 +631,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-26-microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services.md",
-      "title": "Microsoft Word: How the new transcription feature works and how it compares to other services",
-      "excerpt": "Word can now turn a conversation or meeting into text ready to use in a document, but that might not come to desktop Word for a while.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
-      "featuredContent": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/08/26/6edd296a-482a-40b9-837f-6715b2869887/resize/400x/5cfb2e68f8e346a2d980b56f4a756443/word-transcribe-desktop.jpg",
-          "width": 400,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
-      "publishedDateTime": "2020-08-26T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-26-elon-musks-neuralink-to-unveil-v2-brain-implant-machine-in-aug-28-event.md",
       "title": "Elon Musk’s Neuralink to unveil V2 brain implant machine in Aug 28 event",
       "excerpt": "As anticipation builds for Neuralink’s upcoming livestream on August 28, Tesla and SpaceX CEO Elon Musk provided yet another exciting update for the event. According to Musk, the brain-machine interface startup will not only show a working Neuralink device on Friday;",
@@ -922,41 +971,32 @@
     {
       "path": "_news/2020-08-26-covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely.md",
       "title": "COVID 19 Update: Global Healthcare Artificial Intelligence Market Stocks Gain, Rises Immensely",
-      "excerpt": "The global healthcare artificial intelligence market 2020 is scoring in small-leaps. Its shares have surged, which is a sign that the market’s size is widening after months of leadership by big technology companies after less impact of Coronavirus.",
+      "excerpt": "Healthcare Artificial Intelligence Market” Healthcare Artificial Intelligence (AI) Market Research Report: Information by Component (Hardware, Software,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely",
       "featuredContent": null,
-      "heat": 70,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.abnewswire.com/uploads/1598357109.jpeg",
+          "width": 417,
+          "height": 455,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-25T17:27:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17242858",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17242858",
+      "publishedDateTime": "2020-08-25T17:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -965,6 +1005,7 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1071,6 +1112,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-25-microsoft-word-to-take-voice-commands-transcribe-recordings.md",
+      "title": "Microsoft Word To Take Voice Commands, Transcribe Recordings",
+      "excerpt": "Microsoft said that updates to Office 365 will allow users to record conversations \"directly in Word for the web and transcribe them automatically.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/",
+      "originalUrl": "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/08/microsoft-word-voice-commands-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/",
+      "publishedDateTime": "2020-08-25T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-researchers-ai-can-perform-3d-motion-capture-with-any-off-the-shelf-camera.md",
       "title": "Researchers’ AI can perform 3D motion capture with any off-the-shelf camera",
       "excerpt": "In a paper, researchers at the Max Planck Institute and Facebook Reality Labs describe an AI-powered motion capture system that works with any camera.",
@@ -1101,105 +1183,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-astronomers-confirm-50-new-exoplanets-using-machine-learning-algorithm.md",
-      "title": "Astronomers confirm 50 new exoplanets using machine learning algorithm",
-      "excerpt": "For the first time, astronomers have used a machine learning algorithm – a form of self-teaching AI – to confirm the existence of exoplanets in data collected by the now-retired Kepler space telescope.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/",
-      "originalUrl": "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/",
-      "featuredContent": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/da7c7a2/2147483647/strip/true/crop/1350x900+57+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F81%2F3d%2F72bad3664e0189b9e7523b00abe5%2Fpia11824.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true",
-      "publishedDateTime": "2020-08-25T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-this-ai-tech-wants-to-make-you-an-avatar-that-will-work-in-every-game.md",
-      "title": "This AI Tech Wants to Make You an Avatar That Will Work in Every Game",
-      "excerpt": "Wolf3D, an Estonian company that originally focused on 3D printing, now has a simple goal: to put your 3D avatar into games, media, and virtual experiences. If these guys have anything to say about it,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938",
-      "originalUrl": "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938",
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bnyn22fuecnls6r58ztb.png",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938/amp",
-      "publishedDateTime": "2020-08-25T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

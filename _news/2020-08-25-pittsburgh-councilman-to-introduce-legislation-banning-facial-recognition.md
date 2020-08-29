@@ -81,7 +81,7 @@ related:
   - title: "AF looks to facial recognition to secure facilities"
     excerpt: "The Air Force’s AFWERX innovation arm is investing in real-time facial recognition to secure base perimeters and enhance situational awareness for Air Force security staff."
     publishedDateTime: 2020-08-26T20:31:00Z
-    webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx?admgarea=TC_EmergingTech"
+    webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx"
     type: article
     provider:
       name: GCN
@@ -91,6 +91,20 @@ related:
       - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition_0_1.png"
         width: 760
         height: 368
+        isCached: true
+  - title: "'Fooling' facial recognition cameras"
+    excerpt: "Protesting artists, who are against surveillance, use make-up to try and fool London's technology."
+    publishedDateTime: 2020-08-26T20:06:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/uk-51936317"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 39
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p086x85h.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "If Covid is about the State and its face-recognition technology, why do they make us all wear masks?"
     excerpt: "There are some amazing theories out there to explain why our governments want us to socially distance and wear face masks, as if that was a mystery. In a recent article in the New Yorker, a protester claimed that social distancing helps secret experimentation into face recognition technology."
