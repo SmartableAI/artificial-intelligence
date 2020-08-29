@@ -601,6 +601,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-industry-outlook-current-trends-and-forecast-by-2026-2020-08-25</loc>
+    <lastmod>2020-08-25T07:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/news/august-adds-fingerprint-and-facial-recognition/</loc>
     <lastmod>2020-08-25T07:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1777,12 +1783,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
-    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1815,6 +1815,12 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
+    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2587,6 +2593,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-in-bfsi-sector-market-to-watch-spotlight-on-ibm-aws-microsoft-intel-2020-08-13</loc>
+    <lastmod>2020-08-13T00:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://windowsreport.com/microsoft-artificial-intelligence-gaming/</loc>
     <lastmod>2020-08-13T00:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2595,12 +2607,6 @@
   <url>
     <loc>https://www.fnnews.com/news/202008131602495034</loc>
     <lastmod>2020-08-13T00:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-in-bfsi-sector-market-to-watch-spotlight-on-ibm-aws-microsoft-intel-2020-08-13?tesla=y</loc>
-    <lastmod>2020-08-12T23:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

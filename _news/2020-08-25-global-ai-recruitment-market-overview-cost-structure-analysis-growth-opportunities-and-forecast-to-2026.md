@@ -57,20 +57,6 @@ related:
         width: 477
         height: 346
         isCached: true
-  - title: "Artificial Intelligence (AI) Market Inclinations and Development Status Highlighted During Forecast Period 2018-2025"
-    excerpt: "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with"
-    publishedDateTime: 2020-08-24T15:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-inclinations-and-development-status-highlighted-during-forecast-period-2018-2025-2020-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing (NLP) Market Size, Status and Growing Opportunity 2020 to 2027"
     excerpt: "According to the study carried out by Acumen Research & Consulting, The Natural Language Processing (NLP) Market is projected to grow at noteworthy growing CAGR over the forecast period 2020 to 2027."
     publishedDateTime: 2020-08-28T13:30:00Z

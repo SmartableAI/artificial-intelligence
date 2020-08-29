@@ -2,25 +2,25 @@
 category: news
 title: "Elon Musk's Neuralink startup shows off pig with computer chip in brain"
 excerpt: "Elon Musk's startup wants to one day implant computer chips inside the human brain. In a demo Friday, Musk showed off a pig with one of the prototype implants."
-publishedDateTime: 2020-08-29T06:46:00Z
-originalUrl: "https://www.khou.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
-webUrl: "https://www.khou.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
-ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
-cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+publishedDateTime: 2020-08-29T08:46:00Z
+originalUrl: "https://www.king5.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+webUrl: "https://www.king5.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+ampWebUrl: "https://www.king5.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: KHOU 11
-  domain: khou.com
+  name: KING5
+  domain: king5.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media.khou.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
+  - url: "https://media.king5.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
     width: 750
     height: 422
     isCached: true
@@ -105,6 +105,6 @@ related:
         height: 469
         isCached: true
 
-secured: "yKaUv2aM4+iPpRRJGB4J5fFV9heVZyZ9XhJgzNC3BMLIfbAH+WVMMyJ0QWHGm17p2FLOH2jWJJYi6SmMOINprpaFlhGI/zJdYofrXfGD3t6mbyKOntCx1d4sGXNgdLyKXQr6bZQnOOXZzmGxtRwuJb6DrfPkK3JSCnzY6ENkzkCeJ3s+0QkkzZZIILZ0XYH6f2kUFEgSwbc+eY/4p6BOoMjr7Sqzvv7S0x2gEJ0HTpiIWJZBXDsj9B+qTw/KOgzMmCiSOv/mXgsOwwcFFr0skgRvbuYCW0izT5HqlEA7uFL5l913JIun/Nh5qPtIVPv61ui7xoUSCLoumfki0I4hh1ZXL1t5VCis6EIqPTPBzfA=;4aythXRyy2+Xog66Ps2v/A=="
+secured: "JGSmnJkhiiSYgCNwOZLe6PMNwV4EP/bknBubZaJHqVPegjeO2aPuwCbzM3RRwBGdip4K1fYXUKT40Q6VNo/nfpnaG/tYMf9uE/dsfamb4MSg5v+LdVpG1PNQMiNtDv6/3eWLVCSQWpFeMqVjeqbkR9Sxhb30SLMbjAUTgbz5TDPA9oEev+BI8+c3M/PDO74yNOiwQhQXloIM+IAWrIiunaW0SRnB5Q3PPeXTEXDTSmUtwX5aOoFdhDkY02vt2g50oM0RoHt1VQ99QB8LrCkwAEGRwi2TtnSivBj2rDvthH/JClm2CnqHRqXTYsh0wf9UZUCH2VyJPi535fCygTrRUOewgFmWdxFVTdx+xxCkYNw=;J3U3UBnAyMaYe3gSv2zgxA=="
 ---
 

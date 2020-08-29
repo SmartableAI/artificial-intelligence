@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Columbia Engineering Expands Partnership with 2U, Inc. to Offer the Columbia Artificial Intelligence Program"
+    excerpt: "NEW YORK and LANHAM, Md., Aug. 27, 2020 /PRNewswire via COMTEX/ -- NEW YORK and LANHAM, Md., Aug. 27, 2020 /PRNewswire/ -- 2U, Inc. (Nasdaq: TWOU)"
+    publishedDateTime: 2020-08-28T06:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/columbia-engineering-expands-partnership-with-2u-inc-to-offer-the-columbia-artificial-intelligence-program-2020-08-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Business needs to get with the AI program"
     excerpt: "According to IBM’s director for data science and artificial intelligence, Ross Farrelly, even though the origins of working AI stretch back to breaking codes in World War II, three concurrent factors have thrust it into prominence."
     publishedDateTime: 2020-08-28T12:30:00Z

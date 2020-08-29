@@ -7,7 +7,7 @@ originalUrl: "https://www.theaustralian.com.au/business/the-deal-magazine/busine
 webUrl: "https://www.theaustralian.com.au/business/the-deal-magazine/business-needs-to-get-with-the-ai-program/news-story/34e58f648ecc85286d1970c293869066"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Columbia Engineering Expands Partnership with 2U, Inc. to Offer the Columbia Artificial Intelligence Program"
+    excerpt: "NEW YORK and LANHAM, Md., Aug. 27, 2020 /PRNewswire via COMTEX/ -- NEW YORK and LANHAM, Md., Aug. 27, 2020 /PRNewswire/ -- 2U, Inc. (Nasdaq: TWOU)"
+    publishedDateTime: 2020-08-28T06:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/columbia-engineering-expands-partnership-with-2u-inc-to-offer-the-columbia-artificial-intelligence-program-2020-08-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Columbia Engineering Expands Partnership with 2U, Inc. to Offer the Columbia Artificial Intelligence Program"
     excerpt: "PRNewswire/ -- 2U, Inc. (Nasdaq: TWOU) and Columbia Engineering today announced an expanded partnership to deliver the Columbia Artificial Intelligence Program, a rigorous online executive curriculum designed to advance the next generation of technology leaders."
     publishedDateTime: 2020-08-27T13:00:00Z

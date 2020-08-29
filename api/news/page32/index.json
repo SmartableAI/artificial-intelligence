@@ -2,6 +2,47 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-08-01-nlp-poised-to-revolutionize-the-enterprise.md",
+      "title": "NLP poised to revolutionize the enterprise",
+      "excerpt": "Recent improvements in natural language processing (NLP) are bolstering mainstream technologies with speech and text capabilities, whether that's reading emails aloud in a natural-sounding voice ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3566378/nlp-poised-to-revolutionize-the-enterprise.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-01-whats-this-a-bipartisan-plan-for-ai-and-national-security.md",
       "title": "What’s this? A bipartisan plan for AI and national security",
       "excerpt": "Hurd (R-Tex.) and Kelly (D-Ill.) offered suggestions to prevent the US from falling behind China, especially, on applications of AI to defense and national security. They want to cut off China’s access to AI-specific silicon chips and push Congress and federal agencies to devote more resources to advancing and safely deploying AI technology.",
@@ -1103,47 +1144,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-speech-recognition-software-market-to-boom-post-2020-ibm-microsoft-apple.md",
-      "title": "Speech Recognition Software Market to Boom Post 2020 | IBM, Microsoft, Apple",
-      "excerpt": "Latest released the research study on Global Speech Recognition Market offers a detailed overview of the factors influencing the global business scope Speech Recognition Market research report shows the latest market insights current situation analysis with upcoming trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2100309/speech-recognition-software-market-to-boom-post-2020-ibm",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T731312235_g.jpg",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2100309/speech-recognition-software-market-to-boom-post-2020-ibm",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2100309/speech-recognition-software-market-to-boom-post-2020-ibm",
-      "publishedDateTime": "2020-07-30T22:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

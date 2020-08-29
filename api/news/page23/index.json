@@ -2,6 +2,47 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-08-10-union-bank-partners-awarri-to-launch-next-robotics-legend.md",
+      "title": "Union Bank, partners Awarri to launch ‘Next Robotics Legend’",
+      "excerpt": "Union Bank of Nigeria Plc, through its education platform,  Edu360, has announced its partnership with Awarri,  a pan-African technology company",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2017/04/Union-Bank.png?fit=412%2C275&ssl=1",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/amp/",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/amp/",
+      "publishedDateTime": "2020-08-09T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-bits-pilani-students-robotics-startup-is-working-towards-mind-controlled-wheelchairs-and-prostheses.md",
       "title": "BITS Pilani students' robotics startup is working towards mind-controlled wheelchairs and prostheses",
       "excerpt": "Founded by two BITS Pilani students, robotics startup Nexstem uses EEG signals to predict users’ thoughts and bridge the gap between man and machine. It can be used to create mind-controlled wheelchairs,",
@@ -1072,55 +1113,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-this-little-ai-powered-robot-pet-is-so-cute-it-hurts.md",
-      "title": "This Little AI-Powered Robot Pet Is So Cute It Hurts",
-      "excerpt": "I’m not sure if Moflin is supposed to be a robotic hamster, guinea pig, baby bunny, or some alternate take on a Tribble, but goddamn this robo-pet is cute.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-little-ai-powered-robot-pet-is-so-cute-it-hurts-1844651546",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mcf5sjju33otprzatou0.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-little-ai-powered-robot-pet-is-so-cute-it-hurts-1844651546/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-little-ai-powered-robot-pet-is-so-cute-it-hurts-1844651546/amp",
-      "publishedDateTime": "2020-08-07T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

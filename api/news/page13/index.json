@@ -143,6 +143,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-18-facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging.md",
+      "title": "Facebook and NYU are using AI to dramatically speed up MRI imaging",
+      "excerpt": "Facebook’s AI researchers gave themself an especially demanding challenge: Use algorithms to fill in the details of an MRI scan. The results are promising.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging",
+      "originalUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-facebook-NYU-fast-mri-study.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-top-3-applications-of-machine-learning-to-transform-your-business.md",
       "title": "Top 3 Applications Of Machine Learning To Transform Your Business.",
       "excerpt": "We all hear about Artificial intelligence and Machine learning in everyday conversations, the terms are becoming increasingly popular across businesses of all sizes and in all industries. We know AI is the future, but how can it be useful to businesses today?",
@@ -1153,47 +1194,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-artificial-intelligence-breakthrough-could-allow-ai-to-merge-with-human-brain.md",
-      "title": "Artificial Intelligence: Breakthrough could ‘allow AI to merge with human brain’",
-      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) experts believe the discovery of a cutting-edge material could finally achieve ambitions of fusing the human brain with machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news-1323930.jpg?r=1597682083508",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news/amp",
-      "publishedDateTime": "2020-08-17T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
