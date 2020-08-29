@@ -65,17 +65,17 @@ related:
         isCached: true
   - title: "Elon Musk's Neuralink startup shows off pig with computer chip in brain"
     excerpt: "Elon Musk's startup wants to one day implant computer chips inside the human brain. In a demo Friday, Musk showed off a pig with one of the prototype implants."
-    publishedDateTime: 2020-08-29T05:46:00Z
-    webUrl: "https://www.wbir.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
-    ampWebUrl: "https://www.wbir.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
-    cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    publishedDateTime: 2020-08-29T06:46:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
     type: article
     provider:
-      name: 10 News
-      domain: wbir.com
+      name: KHOU 11
+      domain: khou.com
     quality: 57
     images:
-      - url: "https://media.wbir.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
+      - url: "https://media.khou.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
         width: 750
         height: 422
         isCached: true

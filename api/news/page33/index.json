@@ -2,6 +2,56 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-07-31-us-armys-conversational-ai-system-to-get-soldiers-and-robots-talking.md",
+      "title": "US Army's conversational AI system to get soldiers and robots talking",
+      "excerpt": "The US Army is working on a soldier-robot interface that uses spoke dialogue to control joint tasks in real-time. The Joint Understanding and Dialogue Interface (JUDI) is designed to reduce training costs while improving soldier/robot teamwork.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/5476be0/2147483647/strip/true/crop/1200x800+0+52/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F9a%2F1d%2Fa9bdcc024597b4c3de5538899385%2Fmax1200-2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/?amp=true",
+      "publishedDateTime": "2020-07-30T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-ai-model-training-execution-now-possible-on-mcus-via-one-tech-microai-atom.md",
       "title": "AI Model Training & Execution Now Possible on MCUs via ONE Tech MicroAI Atom",
       "excerpt": "ONE Tech estimates that MicroAI Atom algorithms, which run recursive analysis and reside directly on target MCUs at the edge, reduce the cost of deploying endpoint intelligence by a minimum of 80%.",
@@ -1073,56 +1123,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-how-to-choose-a-data-analytics-platform.md",
-      "title": "How to choose a data analytics platform",
-      "excerpt": "For these reasons, the pipelines that load and process data are critically important in analytics and machine learning. The major public clouds, including AWS, GCP, and Azure, all have data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3564537/how-to-choose-a-data-analytics-platform.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/ifw_ts_analytics__by-monsitj-getty-images_2400x1600-100851119-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3564537/how-to-choose-a-data-analytics-platform.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3564537/how-to-choose-a-data-analytics-platform.amp.html",
-      "publishedDateTime": "2020-07-30T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

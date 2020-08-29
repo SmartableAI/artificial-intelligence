@@ -849,6 +849,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-18-facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging.md",
+      "title": "Facebook and NYU are using AI to dramatically speed up MRI imaging",
+      "excerpt": "Two years ago, Facebook’s Artificial Intelligence Research group (FAIR) began collaborating with researchers at New York University’s Medical School on artificial intelligence that held the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com",
+      "originalUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-facebook-NYU-fast-mri-study.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-vmware-enhances-self-driving-operations-and-programmable-automation-with-updates-across-vrealize-cloud-management.md",
       "title": "VMware Enhances Self-Driving Operations and Programmable Automation With Updates Across vRealize Cloud Management",
       "excerpt": "(NYSE: VMW) today announced innovations across its portfolio of VMware vRealize Cloud Management on-premises and software as a service (SaaS) offerings. The new and enhanced product capabilities combine to further enable customers to consistently deploy and operate their applications,",
@@ -1317,47 +1358,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-baidus-revenue-shrinks-under-pressure-from-bytedance-in-ads.md",
-      "title": "Baidu’s Revenue Shrinks Under Pressure from ByteDance in Ads",
-      "excerpt": "Baidu Inc.’s quarterly revenue shrank 1% and its projections suggest sales could slide again, as rivals like ByteDance Ltd. continue to chip away at its core advertising business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
-      "publishedDateTime": "2020-08-13T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,56 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-08-18-facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan.md",
+      "title": "Facebook says AI can help you spend less time getting an MRI scan",
+      "excerpt": "Facebook doesn't manufacture MRI machines, but the partnership with NYU is a way for the company to advance AI research. Artificial intelligence is playing a larger role in health care, including in robotic surgery, cancer risk predictions and medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/health/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/6NZnZZ0AB8dzy2ZkAVnZ4My50hc=/756x567/2020/08/17/730ef110-ecbe-451e-a232-5d8aac35ea34/gettyimages-1197376888.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/",
+      "publishedDateTime": "2020-08-18T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-blind-test-shows-ai-enhanced-mri-scans-are-just-as-good-but-4-times-faster.md",
       "title": "Blind test shows AI-enhanced MRI scans are just as good but 4 times faster",
       "excerpt": "FastMRI is a project that began in 2015 at NYU and became a team effort with Facebook AI Research (FAIR) almost exactly two years ago. The medical and imaging expertise on NYU’s side was a good ...",
@@ -1143,47 +1193,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-transperfect-introduces-free-on-demand-translation-tool-for-google-chrome-with-release-of-globallink-now-extension.md",
-      "title": "TransPerfect Introduces Free On-Demand Translation Tool For Google Chrome With Release Of GlobalLink NOW Extension",
-      "excerpt": "By employing neural machine translation and AI technology to securely deliver ... reduces the challenges associated with overcoming language barriers. In addition to performing ad hoc translation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17123177/transperfect-introduces-free-on-demand-translation-tool-for-google-chrome-with-release-of-globalli",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17123177/transperfect-introduces-free-on-demand-translation-tool-for-google-chrome-with-release-of-globalli",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/321003/transperfect_logo.jpg",
-          "width": 400,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17123177",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17123177",
-      "publishedDateTime": "2020-08-17T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

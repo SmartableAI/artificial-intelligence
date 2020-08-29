@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Taking The Human Away: The Role Of AI In Influencer Marketing"
-    excerpt: "Why finding the right creator for your brand is at the crux of your influencer marketing campaign. And how the interplay of AI and the human element helps you arrive at the right mix to get your message across."
-    publishedDateTime: 2020-08-24T14:37:00Z
-    webUrl: "https://yourstory.com/2020/08/role-ai-content-influencer-marketing-campaign"
-    ampWebUrl: "https://yourstory.com/2020/08/role-ai-content-influencer-marketing-campaign/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/role-ai-content-influencer-marketing-campaign/amp"
+  - title: "The only human skill that artificial intelligence can’t takeover"
+    excerpt: "In a business landscape being transformed by artificial intelligence and automation, smart leaders understand it’s the human skills that will help their organisations succeed now and in the future."
+    publishedDateTime: 2020-08-26T06:40:00Z
+    webUrl: "https://www.theceomagazine.com/opinion/human-skills-artificial-intelligence/"
+    ampWebUrl: "https://amp.theceomagazine.com/opinion/human-skills-artificial-intelligence"
+    cdnAmpWebUrl: "https://amp-theceomagazine-com.cdn.ampproject.org/c/s/amp.theceomagazine.com/opinion/human-skills-artificial-intelligence"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
+      name: The CEO Magazine
+      domain: theceomagazine.com
     quality: 57
     images:
-      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/ai-influencer-marketing-1597933723008.png?fm=png&auto=format"
-        width: 800
-        height: 400
+      - url: "https://static.theceomagazine.net/wp-content/uploads/2020/08/26141424/boston-dynamics-dog.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "IaRXUaUb/l5DTMTpGCXCEeW3q0nJiRRuASL7nUvuo2hI0jUkeNICpnYr6lwU+mtiM5ZzhyFlYfrijRHdOAsUSzZUesI8zLgyQ7Q+S5tFx1SwLjuMO4AoYulXCcUMQ524X1rMjcguCDg1KXewCKC8I3LvRVwiWfN8WESB2jnCi26JN0HhqupDoOwXwTr1XNK6w/0WE4WfFyXzSsdkNCV5tAcBoQvkZS+jHFb3hfpOu9axlogXRTk/eqsCZkYaAlwjMn/tOc85J/wxO48Wp7EWvHojJqNk+dVyQiMvAUf2GS33NO2NXoynheTsbr8sUBOoX9iCUvUlZ7pqYpT2xBSgg1BXKbX7Zr/SOObEl50gZ/xGbAEvEk/44SvoJ/cvi6SmLoh5e58pRj3W6GqvAKU3WPikkPauWV4usYrQqPGvNXDze2sYJQG2pgUi+zuNXNGmv4Nn1ZqdE9elPNKSlB08GtT3+xGskObRJadNUY6c5xA2n1ykTIS9Zx5jgrhBY8m1;FTFuaS1RmGVLONC7Uf6GKg=="

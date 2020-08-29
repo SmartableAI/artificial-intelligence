@@ -259,6 +259,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27</loc>
+    <lastmod>2020-08-27T07:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/curtissilver/2020/08/27/porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai/</loc>
     <lastmod>2020-08-27T07:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -463,8 +469,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
-    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely</loc>
+    <lastmod>2020-08-25T17:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -949,8 +955,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html</loc>
-    <lastmod>2020-08-21T14:50:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-301116528.html</loc>
+    <lastmod>2020-08-21T14:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1771,8 +1777,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?partner=feedburner</loc>
-    <lastmod>2020-08-18T06:20:00-07:00</lastmod>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
+    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2587,14 +2593,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-in-bfsi-sector-market-to-watch-spotlight-on-ibm-aws-microsoft-intel-2020-08-13</loc>
-    <lastmod>2020-08-13T00:09:00-07:00</lastmod>
+    <loc>https://www.fnnews.com/news/202008131602495034</loc>
+    <lastmod>2020-08-13T00:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fnnews.com/news/202008131602495034</loc>
-    <lastmod>2020-08-13T00:06:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-in-bfsi-sector-market-to-watch-spotlight-on-ibm-aws-microsoft-intel-2020-08-13?tesla=y</loc>
+    <lastmod>2020-08-12T23:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

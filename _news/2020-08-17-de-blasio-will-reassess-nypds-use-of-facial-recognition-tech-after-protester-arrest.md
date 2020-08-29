@@ -3,6 +3,7 @@ category: news
 title: "De Blasio Will Reassess NYPD's Use Of Facial Recognition Tech After Protester Arrest"
 excerpt: "Currently, the department’s Patrol Guide allows police to run facial recognition searches on anyone suspected of a crime or anyone who may have witnessed a crime."
 publishedDateTime: 2020-08-17T18:08:00Z
+originalUrl: "https://gothamist.com/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
 webUrl: "https://gothamist.com/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
 ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"
 cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest"

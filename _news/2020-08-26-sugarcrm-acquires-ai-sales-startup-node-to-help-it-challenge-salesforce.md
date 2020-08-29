@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/08/26/sugarcrm-acquires-ai-sales-sta
 webUrl: "https://siliconangle.com/2020/08/26/sugarcrm-acquires-ai-sales-startup-node-help-challenge-salesforce/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 861
     height: 481
     isCached: true
-
-related:
-  - title: "SugarCRM acquires Node, an AI-as-a-service company"
-    excerpt: "SugarCRM said it is looking to use deep learning models to find signals and utilize inaccurate or incomplete CRM data."
-    publishedDateTime: 2020-08-24T13:21:00Z
-    webUrl: "https://www.zdnet.com/article/sugarcrm-acquires-node-an-ai-as-a-service-company/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/sugarcrm-acquires-node-an-ai-as-a-service-company/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sugarcrm-acquires-node-an-ai-as-a-service-company/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/08/24/e1892061-a66d-493c-90a0-14dadd28c52c/node-ai-paas.png"
-        width: 845
-        height: 479
-        isCached: true
 
 secured: "1hrGeWhg16y/tdkznEviV9llflp/QSGEnEbdiMk7MUT9sEAJKONvguXvOXRzHWrzRn6ywSPiz3N3+7EExOEdjibS5+PgVwcMDmzFKQPppdoO6haDAiIF1s2bOsBydndDdzNHXAWuHzPKn7XrK0kQp13l/GSZ/f4xG7+IxvxNmQFHkRlWHx+Xs1K7mt65HYWLQdRK6QTnUVMzXUVdNv/sy6xIOCfhwQAdtDVpauhIC9Y2NnlHMFj2VfQdSpx/dpj0ZvvHPM7oMcoT71KBlTJChLdaVx5jZtKIteo8BFXPQG+m6bszycG7uF9szC/VTpQJVPaa7cECxqn9Gt+QoMD8Bzy6AdMODAaV2NdUjEcm20ci8+qO9ubT/bOBYUjzp9kwCr8xQdgcw55/tC/PJSgod4RwTrBg9F5hlSaM0cx4xf1bJUqTaLby8fqaVBr08cYckTmdeJCBqWExXdbmyRKp08H8pZKbkqbB7u13o/AmYOJ1/kCV2bDmnvTUdhXRSITYTQa45y65E715wTYdwxEdtU0u/dXvh4j4PAmKSPC9rgQ=;M0PwIHGC1wT3ieQyUjSf9g=="
 ---

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-27-graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-37.md",
+      "title": "Graph, machine learning, hype and beyond: ArangoDB open source multi model database releases version 3.7",
+      "excerpt": "A sui generis, multi-model open source database, designed from the ground up to be distributed. ArangoDB keeps up with the times and uses graph, and machine learning, as the entry points for its offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-3-7/",
+      "originalUrl": "https://www.zdnet.com/article/graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-3-7/",
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/27/357024d4-fa60-47c8-9df3-52f9bc25856c/arangoml-pipeline-complete-pipeline-1024x470.jpg",
+          "width": 1024,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-3-7/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-3-7/",
+      "publishedDateTime": "2020-08-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-machine-learning-as-a-service-mlaas-market-growth-probability-key-vendors-and-future-scenario-up-to-2027.md",
       "title": "Machine Learning as a Service (MLaaS) Market Growth Probability, Key Vendors and Future Scenario Up To 2027",
       "excerpt": "According to the study carried out by Acumen Research & Consulting, The Machine Learning as a Service (MLaaS) Market is projected to grow at noteworthy growing CAGR over the forecast period 2020 to 2027.",
@@ -109,7 +161,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030-2020-08-27",
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030-2020-08-27",
       "featuredContent": null,
-      "heat": 167,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1146,55 +1198,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-vector-institute-forms-team-to-help-commercialize-ai-research.md",
-      "title": "Vector Institute forms team to help commercialize AI research",
-      "excerpt": "The Vector Institute announced the creation of a new team dedicated to laying the groundwork for the commercialization of AI research.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/",
-      "originalUrl": "https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/",
-      "featuredContent": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/2242664e-13ed-4b45-8e11-dacae28fc734-e1598412011777.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/amp/",
-      "publishedDateTime": "2020-08-26T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
