@@ -39,20 +39,6 @@ related:
         width: 454
         height: 454
         isCached: true
-  - title: "AI development unicorn Dataiku picks up $100M in fresh funding"
-    excerpt: "Dataiku Inc., a startup that provides a software platform for building artificial intelligence models, has closed a $100 million investment led by the growth equity firm Stripes. Stripes was joined by Who’s Who of other institutional backers in the round,"
-    publishedDateTime: 2020-08-24T19:58:00Z
-    webUrl: "https://siliconangle.com/2020/08/24/ai-development-unicorn-dataiku-picks-100m-fresh-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/dataiku.png"
-        width: 845
-        height: 476
-        isCached: true
 
 secured: "TF0NGzr/5vJUeSCdyqIe9ICOT1iL3Q2dM7TKftZJ6e0yNH54WNOzarXSob70pCSOzRNFQrw0SwQsVmQKxk2Mp+x90dKLVIMpj6jXlQgv2jZUMZ3nbfurNLfiU/bpgre7Cw6mGWAlFLA5Jkjlk2RZLuPh8bo6N8/dYsr67Cs06PzQDxmyAmACp7TqmjqdJqvaZPhItBcgE49q8O8/D9c+ZoNqHV355/9J6g6jzkNefSsdGCufL/hdQaAnSAdCoXiFF7KMgws1QPPdjvuYQgEhnYl5/v8AnlJu0TxIAuX/TWDQ9TKhcefMiRk+wUXQ3bMcSFFeArjLFZN7E8SyX40ROA==;8iMLM0M2bHBv7ezp8IFDJg=="
 ---

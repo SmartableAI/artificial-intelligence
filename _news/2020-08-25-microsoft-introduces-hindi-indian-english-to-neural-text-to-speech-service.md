@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Microsoft introduces Hindi, Indian English to Neural Text-to- Speech service"
-excerpt: "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech for a more natural interface. The service also provides customizable voices, fine-tuned auto control, and flexible deployment from cloud to edge,"
-publishedDateTime: 2020-08-25T07:19:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/internet/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/articleshow/77737035.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/internet/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/articleshow/77737035.cms"
-ampWebUrl: "https://m.economictimes.com/tech/internet/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp_articleshow/77737035.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/internet/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp_articleshow/77737035.cms"
+title: "Microsoft introduces Hindi, Indian English to Neural Text-to-Speech service"
+excerpt: "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech Microsoft India has announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set,"
+publishedDateTime: 2020-08-25T07:31:00Z
+originalUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
+webUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
+ampWebUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
+cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
 type: article
-quality: 56
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-920722,msid-77820417/what-is-qanon-and-how-are-social-media-sites-handling-it.jpg"
-    width: 412
-    height: 255
+  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_1179149585.jpg"
+    width: 660
+    height: 440
     isCached: true
 
 related:
@@ -202,6 +202,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "B5n6HXcD17SlDCYp3fhfgeSGHUH1fXu/20JqlHTQ3a5aBakgcyS8oTQbknKAzabQVoGreCYGO/VW/wZrbeZRlDEjlvoV55tvJWODGzZFFr26FZfPZbRFDmwywHRiO+3ZfdHz0wEz+5uW0fFlAJDJ013pjDtHxBdarh4xCXGRpGCbiosH5XrF+Ey58p0kNXt+Wm5B4siAet33ukgXdbh0HyY9YqHu4JOxIo/gb7hOffcAdUHBN7edo9kr6/7HN5NPpCljvmfX85bpGHoVHMmw+4H/EYwn8MWpg9rU/i/3O+sQ1UYVJQkWDOf9tRn/C8EFRFBo5DoaY5aRTyQKQkP8qwcckx9PYv6RO/0kZPytCkA=;Dj5hXRJXlOI3yg8Ao2REww=="
+secured: "clu+jTML48cGueka2jpcSMUa6jJbGRsLsP2mn/uMU9L1B/60RzndGH7Kb/8L8+ZQ3y2lbCmlAvXZzGFKxJiCBMlgKDzhKH5lwI5edm/f0t579qCePKw+WDhFlL8GoJBgVxLwyoDGLRPUZHcqvo2KV5WKM/5CMMiCGenTbx4mFWAOLz4opwqQvPUfkZje0zZxdarIpyTKPiWvm9vmLRRJe3l8S4ccXeS737zWqVdInWWMtAVO3F759GSYioL1QyRME602WXFTIe+5P4HqhAML93utyrWUme3y1xqpmPbOtHsfwMRHnfh/UJgk66yEh/Gi1x/AclXPSxQZ0+uFpQVd+MfQHUKn/Gpq/8hvxUL/8XQ=;T1PE83tv7teF2cAHJEA4tw=="
 ---
 

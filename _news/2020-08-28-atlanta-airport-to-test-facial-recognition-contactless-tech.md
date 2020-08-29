@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Reco
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html?AMP"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -131,15 +131,6 @@ related:
       name: Harvard Medical School
       domain: harvard.edu
     quality: 19
-  - title: "Pittsburgh Councilman to introduce bill that restricts facial recognition use"
-    excerpt: "Pittsburgh City Councilman Corey O’Connor intends to introduce legislation Tuesday that would regulate the usage of facial recognition and predictive policing technology in the city. “This technology has harmed more people than it’s helped,"
-    publishedDateTime: 2020-08-24T20:20:00Z
-    webUrl: "https://triblive.com/local/pittsburgh-councilman-to-introduce-bill-that-restricts-facial-recognition-use/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 16
 
 secured: "MLHkotp3PpDESBQl3ZFHwbuZj4RI1gGdl4kHbWOzOqk1B7QlYMH7cI/qmS9+gtYNT7HB5AepzXdU+mCiDkDmpvjqa1uy91HiuAVi6I7rx14/Xv5RmC8B/dKZ9jZ+kIHlpAq5vG4iCimNrmZ0vAMQIYd2/BflVI7tNmJSv8awbSWue4eyYEOV1OdVcCNlQ37wwbWRSLtcs6lIAQZEcgQun/e3V1zpvrSToyzTIuZo+r+55+jjUrp683UW3UysXZR05N+xIypVaUj9IjWXyM6HdSfIlqXIEWzpdi3uOGnFVlq51Z5rNjr2VxV2Tx+ZyZhTGAh64HjEfCNebK7cBv4xyecY2jtLMShS5SyLCF3jILEJIGo2gHfUmrZS4H505oLkBq4lMXwmS4w+v1IN98xJs0HQE6lF52yFs7bu+kLzTKmuRfAZ7iUjkU+PNa55QdHIqCPPgDFsYExMdbxwv+UBCQw0mBNuQVuk/CzYCFkXnEYeOqckDb0+iF1RJkhSpIKUlth+24Yyt9VfLyQgUnCzQKDgVvIlMM7sDP+QrdLOOBQ=;Gu8L3BovA1lj+jRz1thCHw=="
 ---

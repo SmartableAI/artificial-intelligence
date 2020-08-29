@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scroll.in/article/971374/facial-recognition-technology-i
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 1024
         height: 560
         isCached: true
-  - title: "AI technologies — like police facial recognition — discriminate against people of colour"
-    excerpt: "Technology is not neutral, as facial recognition algorithms and predictive policing have shown us. Algorithms discriminate by design, reflecting and reinforcing pre-existing biases."
-    publishedDateTime: 2020-08-24T20:56:00Z
-    webUrl: "https://theconversation.com/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
-    ampWebUrl: "https://theconversation.com/amp/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-technologies-like-police-facial-recognition-discriminate-against-people-of-colour-143227"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 45
 
 secured: "7E0bngCLOh8Jn6XBOu0t9Mdh3U9u1I2WZXtis66OxBzgla2km6r/+gFWIL+oBWxRaQVA62TO8przWz9CxWR7pZ+H6mRi05U6nlwczumKN8m2Dq4et05n/zk0zFudCKoYkK9MUBZVA+g7k2ccix7H8k2KHxmVUYivycWO5QZGl3SiyMoHSNAGzCqgfdJmP2Lm4bWsf5jnel+qthWq9RKzDRdY1ey9VQnY31Y2pFUl9mCQPEJJe0gi+tdNDiiyQAcaMC0rwmoqG4p/03Iji/cbe/ihsoSLtbnMX300OhMPBV1Vayz5W+sjGBxDsUVMML0UFLu1v1khpkJVX0HRJRWTBj9k10fxFmCm3/ljbluFHqk=;l/tBZ9NYj/DLJBqRNQzuCw=="
 ---

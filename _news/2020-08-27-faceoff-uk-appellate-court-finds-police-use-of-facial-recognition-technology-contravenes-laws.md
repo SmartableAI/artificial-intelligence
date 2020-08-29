@@ -131,15 +131,6 @@ related:
       name: Harvard Medical School
       domain: harvard.edu
     quality: 19
-  - title: "Pittsburgh Councilman to introduce bill that restricts facial recognition use"
-    excerpt: "Pittsburgh City Councilman Corey O’Connor intends to introduce legislation Tuesday that would regulate the usage of facial recognition and predictive policing technology in the city. “This technology has harmed more people than it’s helped,"
-    publishedDateTime: 2020-08-24T20:20:00Z
-    webUrl: "https://triblive.com/local/pittsburgh-councilman-to-introduce-bill-that-restricts-facial-recognition-use/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 16
 
 secured: "oyGKMUUUp4MiS16OwEeq+RpT2nzhH0n3A6ctKtabT2OhVSGPC/u9GiF7lFiVA1uSIr+yon28oUNoJDvPJHp3xRVHMTeTLV6vtkKkBa+mB6mM4IJJDNgDPj5R6f6DDvFTPyo+0aIKVw3zrmKaR8gAMD4cjHlvPOwQaw94AM5QqMW4B0qIUPcUbUE0IG6FAo6bobAi4+clzA2fplhSOG6EQTEJO+LW52G/CjjW43pyf5qwgdDNGSsz7Y5Sx76RhqibIHTA2t5jx3IIxwKyKtommBCP62K+nGCPYN3JZQMJEIPbADMP4uip3VWjXuI71xhp4/0ZbZ228oMFqMIEN3K2Gk6+U0Il1/H64PdGEO6gkGo=;GXypFEhj56sq5wxlggRqmw=="
 ---

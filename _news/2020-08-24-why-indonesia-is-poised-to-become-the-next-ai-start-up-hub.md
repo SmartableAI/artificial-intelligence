@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/article/3098596/why-indonesia-poised-becom
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3098596/why-indonesia-poised-become-next-ai-start-hub"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Is the Next Top Gun"
+    excerpt: "We were both skeptical that the artificial intelligence program that would be piloting one of the virtual aircraft would be able to outfight the human pilot, call sign “Banger,” from the Air Force's equivalent of the Navy’s legendary TOPGUN fighter-tactics instruction program."
+    publishedDateTime: 2020-08-29T12:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun"
+    ampWebUrl: "https://www.bloomberg.com/amp/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 87
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRjdmh0OUMWc/v1/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
 
 secured: "hXW1T+3Ed0YAzFBXc9j0Mz7BMjsQa89ceCr5HCUObD7fCuzLULKewpcfbYxY/9tuhPfHICWdrKsckr0tzBALnWfTlsfklqhSqHH6Kczh4iYLaibFU9eVUtA7QfwyWAUBdoFWarQ7Zh07CvqdwMifxYKMI9abl1PrJizViZTM828Sw+T0Hmwd1CJY66qX6uH7syut7lG/EtqYuC1WqWkoqcrJWSXYl0RGp67Jkx5eG2eH+bkUfx7ph1S6A4T0kkifV+AmxksYrMH/1vHPq4283saPI5O8k/HUCgMKoXgdRZ49m509ddN7pJ87+tzlP24nd4PDfMtIp1oyqwGSVsYxULj/nBT/ImkZy5eiNMmZWkpqUBXy6MRC3/KBrGWbUbzs8cSMDShSmRX0QaMhhqV9qUcjh8KAASnzkIokdBlfGnqFOINuOVEalkNspbA3YYeGzADs4SDXNTshAX4CEmeQJTTSSwiCNvUWZ2Cs2HdhmjIKN8YLHPFRtzYR1X1LMwN3thSsMB2ggwpraP1UN/vYrg==;3GOUv2d7hZHonDRRN4zsyg=="
 ---

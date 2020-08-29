@@ -130,15 +130,6 @@ related:
       name: clickondetroit.com
       domain: clickondetroit.com
     quality: 21
-  - title: "Pittsburgh Councilman to introduce bill that restricts facial recognition use"
-    excerpt: "Pittsburgh City Councilman Corey O’Connor intends to introduce legislation Tuesday that would regulate the usage of facial recognition and predictive policing technology in the city. “This technology has harmed more people than it’s helped,"
-    publishedDateTime: 2020-08-24T20:20:00Z
-    webUrl: "https://triblive.com/local/pittsburgh-councilman-to-introduce-bill-that-restricts-facial-recognition-use/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 16
 
 secured: "RQDt6xIeZuLglvMu1SsgD0T386LvcPPM5KoAMJ4Xjmc8ZkMHM53Nn7HAsdOrVkSC+AF5s//s3VTHq6dT+4cUjJZVaLnoXTXvoSBZd4YT1pVUTCWKa1FlEedq4dbgTHdXdH4PuorExm4rSqQYpkg7p03TeXTWmtKOV3J8xAYa1cW3aHkjL9HxIW51UgcDAUc729IHSIk4whSqB1o0bU9kFrXSnoiB+3blvarAzardpQ6St/N670eLfu6LZTNEbaE07QmZhhZnBgmUYJgzNG5J14jMaBesQfwRYPW0CjTKoaoowKfxwJazIK617eGov3bXgJqHkCjyX4cGEDpuJHDPNA==;t/9/S3cSORXqiSfZoClmrg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popularmechanics.com/military/aviation/amp33765952/ai-vs
 cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2020/08/25112101/gettyimages-181827043_web.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI beat a fighter pilot in a simulated dogfight — was it just ‘AI theater’?"
-    excerpt: "The virtual AI dogfight was a \"cool\" way to get AI into warfare, but was more \"theater\" than anything else, some experts said."
-    publishedDateTime: 2020-08-24T19:58:00Z
-    webUrl: "https://www.fedscoop.com/ai-beat-a-fighter-pilot-in-a-simulated-dogfight-was-it-just-ai-theater/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 35
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/08/5083051.jpg"
-        width: 4533
-        height: 3026
         isCached: true
   - title: "Artificial intelligence (AI) won simulated dogfights against a human F-16 pilot, 5-0; what does that mean?"
     excerpt: "The next steps for the ACE program include integrating an AI agent into a small-scale combat aircraft and eventually to a full-size manned fighter."

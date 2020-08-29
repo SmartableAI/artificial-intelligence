@@ -82,6 +82,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
+  - title: "Blue Prism Named Best Robotic Process Automation Company in 2020 by Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "PRNewswire/ -- Blue Prism (AIM: PRSM), a global leader in intelligent automation, today announced that it has been selected for the third consecutive year"
+    publishedDateTime: 2020-08-26T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/blue-prism-named-best-robotic-process-automation-company-in-2020-by-artificial-intelligence-breakthrough-awards-program-301118209.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 13
+    images:
+      - url: "https://mma.prnewswire.com/media/1243480/AI_Breakthrough_Awards_2020_Blue_Prism.jpg?p=facebook"
+        width: 1004
+        height: 526
+        isCached: true
 
 secured: "fBvqBltd1Dmcde4eJ/euH98RBjee3OGsKsoJnTI9uEgCNBJ5r3ySXD8MI3NriB8Eg9Wxz8HnHcIE4kdeZtB3Voac2aXc5KIpBjlqs34pCPVsb4ArDX44S/JbNkXG0VntV2ps2Qd6gAYlI42QVkOfddHCSaAtccwsQXU3kdUzsYNBdDMbLqfPJO22aqomOR4lyXkAHs4+e8Unn5aFaCWQJAWevhIuG9247CC3bZPJW43gqOqiUKsK2cZTLHJVF9qF6JFGOya4G/o7GpJJMM7UIewy3vogCDD/JiNrThXkpnQqKuOZbMJ2QS3eLeww09N8nKBaknkBvFUIFqKnpO5i4GpHbTai4nawdyCMbv/om5xMehHHJ/KAg0XZl+NqZbt9E4J1Z+OHa/s4g8jOecz//x3+CdG9r98WRZvndkedWB2u8YdoqzdX+QFYgMZ3Yxm/oN4YK4T78faTAxSm6xG5Rho3/hoVWsKWxaYY4qYEVZicFAKiSn9xD68zPhfZCHYZOw1mTcZhjzoWPcnqeYi4e7Kta8cWjPHnWVfPEfADfLA=;D7awyJxcU+HZjwgjuFFUpg=="
 ---

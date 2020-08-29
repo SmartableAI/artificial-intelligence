@@ -39,20 +39,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "StradVision to collaborate with leading custom SoC supplier Socionext to provide efficient ADAS solutions"
-    excerpt: "StradVision has announced a collaboration with Socionext Inc., a leading supplier of System-on-Chip (SoC) solutions, to bring StradVision’s deep learning-based camera perception software SVNet, to the global market."
-    publishedDateTime: 2020-08-24T21:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/0f7c90ea95af269d94b86c19e9136ec1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 7
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "yuNQ8gpJhFCIqkjqOHoidElHKXUe5jj66nSwLeax6SlzltXfaqWd2AesXnmWgMZPEfddM0G1I2i97cFRWWmCjoG4lhIhwIuDEim+wWsX3lMSdLpGYjLGxxzLyFOWX2xDs+/I+yyU0J/ZQxr/0PcpZHShItg76a+UNrOJg7oeeh5yReGGzizJPX5285+j08oGw13zwuPCNXmtOi40oZjLH7O5NIJdRU8kI81nelRVbkQsmgTPtJdTyh3IgS7FwK0hQvFAeWDt3W3digoBB+qDMpnZufn6rNwbKvvSgdb2NBOPyiLoRtGjMVM0LnxJev8eyMTFRRatw1PBOOmEns9bcw==;8tpJaVImtG1pDeQ3MW4AmQ=="
 ---

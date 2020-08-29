@@ -36,34 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "HGS DIGITAL Joins AWS Contact Center Intelligence Solutions Partner Program"
-    excerpt: "services such as Amazon SageMaker, Amazon Comprehend, Amazon Transcribe, and Amazon Lex, to gain greater efficiencies and deliver increasingly tailored customer experiences. With 61 delivery ..."
-    publishedDateTime: 2020-08-24T19:24:00Z
-    webUrl: "https://www.newswire.ca/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-888542632.html"
-    type: article
-    provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 37
-    images:
-      - url: "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "HSG Digital joins Amazon Web Services Contact Center Intelligence solutions partner program"
-    excerpt: "HGS Digital LLC, a subsidiary of Hinduja Global Solutions, announced its participation as an Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions Partner program. This unique designation recognizes that HGS Digital is an AWS Partner Network (APN) Partner that specializes in helping customers add intelligence to their existing contact center solution,"
-    publishedDateTime: 2020-08-24T20:45:00Z
-    webUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 29
-    images:
-      - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
-        width: 600
-        height: 277
-        isCached: true
   - title: "HGS Digital joins Amazon Web Services Contact Center Intelligence solutions partner program"
     excerpt: "With 61 delivery centers in 7 countries, HGS successfully manages billions of customer interactions every year"
     publishedDateTime: 2020-08-26T00:15:00Z

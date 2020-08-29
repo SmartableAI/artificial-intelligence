@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "60 Minutes: Self-Driving Trucks Will Soon Be Kings of the Road"
-    excerpt: "Minutes also spoke with Chuck Price, the chief product officer at TuSimple, a privately held, global autonomous trucking outfit valued at more than a billion dollars with operations in the U.S. and China."
-    publishedDateTime: 2020-08-24T19:38:00Z
-    webUrl: "https://www.thestreet.com/mishtalk/economics/60-minutes-self-driving-trucks-will-soon-be-kings-of-the-road"
-    ampWebUrl: "https://www.thestreet.com/.amp-mishtalk/mishtalk/economics/60-minutes-self-driving-trucks-will-soon-be-kings-of-the-road"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-mishtalk/mishtalk/economics/60-minutes-self-driving-trucks-will-soon-be-kings-of-the-road"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc0OTE1NDY2NjYwMTYwODYz/kings-of-the-road.png"
-        width: 620
-        height: 346
-        isCached: true
   - title: "Darrell Berkheimer: Driverless trucks on the roads in 2021"
     excerpt: "Some of you may have watched an episode of CBS 60 Minutes this past Sunday evening about the expectation that one or more fleets of driverless trucks will be"
     publishedDateTime: 2020-08-28T21:32:00Z

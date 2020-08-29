@@ -3,8 +3,8 @@ category: news
 title: "How Ancient Rules of Logic Could Make Artificial Intelligence More Human"
 excerpt: "Many attempts to develop artificial intelligence are powered by powerful systems of mathematical logic. They tend to produce results that make logical sense to a computer program — but the result is not very human."
 publishedDateTime: 2020-08-19T09:00:00Z
-originalUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/"
-webUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/"
+originalUrl: "https://www.gizmodo.com.au/?p=1256892"
+webUrl: "https://www.gizmodo.com.au/?p=1256892"
 ampWebUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 type: article
@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/19/aristotle.png"
-    width: 1051
-    height: 597
+  - url: "https://images.theconversation.com/files/348495/original/file-20200720-23-mxxnlu.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
+    width: 754
+    height: 922
     isCached: true
 
-secured: "/3WkpMpZ4zP+m5CrtTkv4qIp/BUCGhVCIOjYlvts3oXqKnwshGfwWX+97QKWZpo0zN5QWHFOR0iJFyZm/M/To2sE6yYtwVP0mP3sYrdUiJvAI3fMBVo+TdQ+r4Wf6niuRsiaYqVMtKQ1J1IxcyuSpSf1TBXP3cvJRycrBTLyuHlLgIY0ZEBdNQ7hR6yByeQ3JAQIM+cc/Xl5RU0tnKSPTwPEwk4Cf0fSLHxgRYPDSLT/KuvX8C8/nK5ZNM5KaaI59HNXGOfSEpUE9GJaTFrGu6OIps4gqKnatohVmfRK/RZpN4GCJlYuE12k0QiobzThNP/q/aCnATZaaVsbsjNAFAQUbRipYe286VL98IU/yUQ8T36RNgbqFKD5DDsFbEx3gESiDxRiKIWI6eWbW8pj80HiUNpNXHa58t2s3x/dDi65v9kwqgEosr+RjlioRjhe1Y8+zEo5D+e0+cwi30IJN9Z99CO/zhAPscV11ZYm+mGIvxZAzqND5reOOO/gjv5VGpb2ILyT4eZIgboVQSoo6Pb6NVNRusPTFj20Noa6fVU=;e+EJ/8o0ayfkXmtVhLSDJQ=="
+secured: "QmwuBTc2VX0QJgosowbQyZBm7bmnWDPiqq5RuHGUgOIpyWWAuXQFdjKYutxzozytudjU3YRepL7H58Rm7yiat6k+QNJG/Y+XrMOCa2uahrk+SO2zn1hh9s2KIbYP/9U8dl6eyVll9qc8amBxObIjoCBSJLYvbSqpLlj47hcnaaubIRf1XhWwosDP4Z2qLFJ9SZCgpgGL+mnUF30VF4edMwroXh5ulE2dx8zTjk9/VGRKn+kv0aoLyRFHOl7yce2JHeQ7Hn4fTfxRwPaoYwrG/+p7rZ2g53No2shVLvXK/tvCS+gmCDsDDL+lTlq3h5tAchmxbxLMByUQWPFsklmitFzRhQVQz0hxq0iocCf2+/A=;v9U+hNcfov4M6Qc/Wad5sw=="
 ---
 
