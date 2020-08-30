@@ -6,9 +6,9 @@ publishedDateTime: 2020-08-27T20:38:00Z
 originalUrl: "https://www.datanami.com/2020/08/27/speech-recognition-gets-an-automl-training-tool/"
 webUrl: "https://www.datanami.com/2020/08/27/speech-recognition-gets-an-automl-training-tool/"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 71
+heat: 81
+published: true
 
 provider:
   name: datanami.com
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2014/09/speech_recognition_1.png"

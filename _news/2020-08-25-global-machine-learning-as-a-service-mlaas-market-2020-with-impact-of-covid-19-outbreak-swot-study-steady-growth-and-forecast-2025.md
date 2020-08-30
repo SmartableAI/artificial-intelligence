@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service Market to witness an impressive growth during the forecast period 2020 – 2025"
-    excerpt: "Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques"
-    publishedDateTime: 2020-08-25T07:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-to-witness-an-impressive-growth-during-the-forecast-period-2020-2025-2020-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "RJwUsadADZ8ht1tQDUT3vMr/uhgy5x4+ZzzWCehu/m+vt4NvD4ZlzTYlw3SkFKIszcTcvRcGs91q9MZSY3LHDXWQ7MwEW6U280by3USf/ck8axUCUSI4xRKmERUSzCysHtl6kZtysv8dX5FBEzbeQYxU834I2OtxPvZIbY8Hzo+j1m6POOXbQ5Op0h6h2U/raThv5xD2k+1gTIOiVXCd7Ejt6YU6n4PHuUsmJWHJLnlGI1rOIRoJnUGu8/JZsIeUC9EQnJGu9TL+lCi7LP4lsaV0ql+ABfgZNp6go0WU5Ps2Lz6ua9b2K4lpa389ZVCLmubYYFOWJOGsINsbLqDroA==;AhsLj5eiFk5sA5oaQWVIRw=="
 ---

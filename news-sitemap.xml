@@ -43,12 +43,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour</loc>
-    <lastmod>2020-08-28T17:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/</loc>
     <lastmod>2020-08-28T16:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -249,6 +243,12 @@
   <url>
     <loc>https://www.techradar.com/nz/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network</loc>
     <lastmod>2020-08-27T15:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.datanami.com/2020/08/27/speech-recognition-gets-an-automl-training-tool/</loc>
+    <lastmod>2020-08-27T13:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -627,12 +627,6 @@
   <url>
     <loc>https://www.bloomberg.com/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon</loc>
     <lastmod>2020-08-25T07:57:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.biztechafrica.com/article/ghanaian-fintech-wins-ecobank-groups-2020-fintech-/16041/</loc>
-    <lastmod>2020-08-25T07:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1201,6 +1195,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.npr.org/2018/08/21/639646651/watch-self-driving-cars-need-to-learn-how-humans-drive</loc>
+    <lastmod>2020-08-20T22:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://mashable.com/video/wt2-plus-wearable-translator-timekettle/</loc>
     <lastmod>2020-08-20T16:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1735,6 +1735,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.psychologytoday.com/us/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly</loc>
+    <lastmod>2020-08-18T17:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/ryan-gosling-face-photo-editor-gigapixel-ai-2020-8</loc>
     <lastmod>2020-08-18T17:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1861,12 +1867,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
-    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1899,6 +1899,12 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
+    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2169,6 +2175,12 @@
   <url>
     <loc>https://newatlas.com/computers/parolees-tracked-artificial-intelligence-prevent-recidivism/</loc>
     <lastmod>2020-08-16T18:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.psychologytoday.com/za/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly</loc>
+    <lastmod>2020-08-16T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

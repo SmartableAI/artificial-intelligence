@@ -67,34 +67,6 @@ related:
         width: 640
         height: 410
         isCached: true
-  - title: "Global Vehicle Speech Recognition System Market Recent Study Including Business Growth, Development Factors and Growth Analysis (2020-2026)"
-    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
-    publishedDateTime: 2020-08-25T07:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-recent-study-including-business-growth-development-factors-and-growth-analysis-2020-2026-2020-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Natural Language Processing Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026"
-    excerpt: "The global “Natural Language Processing Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2020-08-25T07:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-market---by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026-2020-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "dqLZj6C1EnI5dIRyigLhFeVS06e5yh/bbfMqOB9jF1kmnqt/pcuqFO12A1bqvvi5LOzMxmEg1bGCxscl8aLSTNbGMPWILD4ocsqsauwLG170sUrRcnxJA+T7pRxM8/b3tdrANzQb1E4gsL3l8Pb2CAg+4x09WNU8qFcT/EHtVla4ueDP4MDmnh5MXBWUlrPZTH7uWvZtJgPFnKFOpULfJ7yqGbcA11i6KUS2WwNgKwoV9HMkJ0eOg+gY+VaNVtOQGACwVe5/o3GX31KaWKi2XpYu1Qw17TXl3uN6pFg5aw6WNmpAAjhoTkcABbsLABHeMP6+fY69kod3BzO+A2MDCw1rJEyXy4CVTQ0ooQM8Dn8=;uvcHXH+K1WIwuvN6fZ7HfQ=="
 ---

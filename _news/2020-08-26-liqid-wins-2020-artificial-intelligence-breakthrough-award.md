@@ -34,7 +34,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 67
+    quality: 69
   - title: "Matterport Recognized for Innovative Use of 3D Technology with 2020 Artificial Intelligence Breakthrough Award"
     excerpt: "Matterport's Cortex AI is a deep learning neural network that creates the 3D digital twins and automates many of the things normally performed manually. It stitches the high-fidelity 2D imagery captured by the Matterport Pro2 camera to construct the space in 3D,"
     publishedDateTime: 2020-08-26T13:47:00Z
@@ -59,6 +59,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "DDN A3I Solutions Receive 2020 AI Breakthrough Award for Hardware"
+    excerpt: "The mission of the AI Breakthrough Awards is to honor excellence and recognize the innovation, hard work and success in a range of AI and machine learning related categories, including AI platforms, Deep Learning,"
+    publishedDateTime: 2020-08-27T15:07:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/ddn-a3i-solutions-receive-2020-ai-breakthrough-award-for-hardware/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/shutterstock_flightpaths-405x228.jpg"
+        width: 405
+        height: 228
         isCached: true
   - title: "Liqid Wins 2020 Artificial Intelligence Breakthrough Award"
     excerpt: "AI Breakthrough, a market intelligence organization that recognizes the top companies, technologies and products in"
@@ -85,6 +99,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
+  - title: "DDN A3I Solutions Receive 2020 AI Breakthrough Award for Innovation by Delivering Unique Value and Performance"
+    excerpt: "DDN®, premier provider of Artificial Intelligence (AI) and Data Management software and hardware solutions enabling Intelligent"
+    publishedDateTime: 2020-08-26T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ddn-a3i-solutions-receive-2020-ai-breakthrough-award-for-innovation-by-delivering-unique-value-and-performance-301118625.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg?p=facebook"
+        width: 4641
+        height: 2429
+        isCached: true
   - title: "Blue Prism Named Best Robotic Process Automation Company in 2020 by Artificial Intelligence Breakthrough Awards Program"
     excerpt: "PRNewswire/ -- Blue Prism (AIM: PRSM), a global leader in intelligent automation, today announced that it has been selected for the third consecutive year"
     publishedDateTime: 2020-08-26T12:00:00Z

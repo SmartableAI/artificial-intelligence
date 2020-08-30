@@ -3,6 +3,7 @@ category: news
 title: "DBS uses gamified learning to give staffers AI skills"
 excerpt: "Singaporean bank DBS has joined forces with AWS to boost the AI and machine learning skills of thousands of staffers through a gamified learning programme that will see participants develop their own autonomous model race cars."
 publishedDateTime: 2020-08-17T06:47:00Z
+originalUrl: "https://www.finextra.com/newsarticle/36398/dbs-uses-gamified-learning-to-give-staffers-ai-skills"
 webUrl: "https://www.finextra.com/newsarticle/36398/dbs-uses-gamified-learning-to-give-staffers-ai-skills"
 type: article
 quality: 39

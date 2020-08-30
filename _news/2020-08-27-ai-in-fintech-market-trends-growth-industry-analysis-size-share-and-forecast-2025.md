@@ -99,34 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Service Robotics Market Size, Gross Margin, Trends, Future Demand, Analysis by Top Leading Players and Forecast till 2026"
-    excerpt: "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by"
-    publishedDateTime: 2020-08-25T07:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-service-robotics-market-size-gross-margin-trends-future-demand-analysis-by-top-leading-players-and-forecast-till-2026-2020-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Neural Network Software Market to witness an impressive growth during the forecast period 2020 – 2025"
-    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
-    publishedDateTime: 2020-08-25T07:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-to-witness-an-impressive-growth-during-the-forecast-period-2020-2025-2020-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI Recruitment Market Overview, Cost Structure Analysis, Growth Opportunities and Forecast to 2026"
     excerpt: "Global “AI Recruitment Market” report presenting the detailed analysis of trends, drivers, challenges and unmet demand"
     publishedDateTime: 2020-08-25T13:34:00Z

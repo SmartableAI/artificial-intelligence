@@ -34,7 +34,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 67
+    quality: 69
   - title: "Liqid Wins 2020 Artificial Intelligence Breakthrough Award"
     excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market today, today announced that Liqid,"
     publishedDateTime: 2020-08-26T15:43:00Z
@@ -71,6 +71,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "DDN A3I Solutions Receive 2020 AI Breakthrough Award for Hardware"
+    excerpt: "The mission of the AI Breakthrough Awards is to honor excellence and recognize the innovation, hard work and success in a range of AI and machine learning related categories, including AI platforms, Deep Learning,"
+    publishedDateTime: 2020-08-27T15:07:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/ddn-a3i-solutions-receive-2020-ai-breakthrough-award-for-hardware/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/shutterstock_flightpaths-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "Liqid Wins 2020 Artificial Intelligence Breakthrough Award"
     excerpt: "AI Breakthrough, a market intelligence organization that recognizes the top companies, technologies and products in"
     publishedDateTime: 2020-08-28T15:17:00Z
@@ -96,6 +110,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
+  - title: "DDN A3I Solutions Receive 2020 AI Breakthrough Award for Innovation by Delivering Unique Value and Performance"
+    excerpt: "DDN®, premier provider of Artificial Intelligence (AI) and Data Management software and hardware solutions enabling Intelligent"
+    publishedDateTime: 2020-08-26T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ddn-a3i-solutions-receive-2020-ai-breakthrough-award-for-innovation-by-delivering-unique-value-and-performance-301118625.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg?p=facebook"
+        width: 4641
+        height: 2429
+        isCached: true
 
 secured: "kOoji01VPSYdiIBRSJXf5L11PHZ/idDXcmgMQTDe3E9McxXWMyUg0jU/H8QK3+ZJGXOreD4K5KSuVbvs12uYzc8qZuTTQhB2DwbLMu9Vs7eRWwEnaLrt/THmNJcZvo4trevgdAqY0365Fxl9U98qK2BTYOjXgC/dS3ADsVGh4hz4yR1WhTMrgt6KdxNc54ohMJarYWLj80ykUvHMsqMUaXLD7TppjcxaTfbMDIQ20aTXHuP6I9WdV+TbC4X/xDPK3Gwaosw/7W9CnJp20tQ1mufhTtWbBdvTHSg64FCNtlV0kahuXe4i3oFvNBB74U+zg7BC0Y6QueIqnb2DgHgOAeoLFDhG/+ge3zY5v0s96Cg=;lybw32D9d0CYBE6rErcNJw=="
 ---
