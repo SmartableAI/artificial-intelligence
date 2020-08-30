@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200827/University-of-Illinoi
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200827/University-of-Illinois-to-head-two-of-artificial-intelligence-institutes-in-the-US.aspx"
 type: article
 quality: 53
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://eurekalert.org/multimedia/pub/web/241301_web.jpg"
         width: 720
         height: 480
-        isCached: true
-  - title: "CUJO AI Joins the European Telecommunications Standards Institute (ETSI), Strengthening Involvement in Future 5G Infrastructure"
-    excerpt: "CUJO AI, the global leader in the development and application of artificial intelligence to improve the security, control and privacy of connected devices, announced today that it has joined the European Telecommunications Standards Institute ( ETSI)."
-    publishedDateTime: 2020-08-25T12:10:00Z
-    webUrl: "https://apnews.com/PR Newswire/854d2d32aa8dc605b39873322dce556b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "8ypAyzZ1jVMz//Kq+FmeJZbTmjo/QvobVnyjME70j1Pmhxw62cX7YZD16E2E00l2QNNOx12plqQ8+PCaJ2pE8GuqZlyIxBCctRGpykGb98c2YYdRaoNR0Kop9S2JMiDG0OApCR7vcxe6tw6/ALtiArjoL17grqN62iXye8vgLBjdkzQGfb8nOj4jaxZYSbsqF4OIisQYCe1MiciaP6CRVkRkizufXZy/n80V/ax9SfGWn8Wd0Hthl7Xw3yBl+nSrMBm1YK/jDpo/JBGds3+GiAULp5dpw8+LvgSfzeBCxsDZv4t9ykz33apXGtPM+0tHedzth7ypIZ9wblzCut2aB1c5Z6jGH9NrieCNZtRKcA4=;aKT0gWWOdmbD/LVEZqppBQ=="

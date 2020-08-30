@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-29T13:00:00Z
 originalUrl: "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/?comments=1"
 webUrl: "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/?comments=1"
 type: article
-quality: 67
+quality: 84
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/ai-artificial-intelligence-760x380.jpg"
@@ -45,6 +46,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "SwB6kqY5aH8ZPltTvtRdQWnhMApidEmVI5FvY5uauLL3L72oxmiMRiucjMjIsvHzeKxHDsqEOoFhg8U0uhgFtnrio37MWv3wizDPIOgQxwj7sRD4tot86HvJ0xVnSFldDxk+Fz32Q23JAqzfvpK0YNSR0KuoUN/PbFqH+Y1/P5AA2x2kLaC/NX28fCCzedvcsZ4c/0oxy3qqUh+qdP7KvB4ciVNyEFTCIS40xahtKfLiZAQiw7LAARb/t+TILGN4lg1DkwSrkgLOBvl/AJzc3KCKtb5eau5t3WLYGf1xFiVABTiMi68awP/GWEn3RrbKfqVYtcjxQrzLqwFfViGOanTY9sFLY0+rSDPeixBDBqM=;0UjMxaNjRp8D0v/TpOjbtQ=="
+secured: "XA3nnvCFjobn4kx5ctb+qA0fV/PJGZJOziszFTji8lukoXe45gD6w6uzqoLiVn8iOkATtUJeFlH2BQNZsHv3wnm+SqIMTEGNUu3OssgVakp9pJEWeRQlTjKFZowDVjXPMG9AkeKbhkwN5Z5UItQ0IxCgkVUvQ8XIGMkS7DgE9NxfAWwGAVoV2otdU6HBv2ZCw2mHeJ0vBYOeQ8oMvU9gSMX5LQDtAiY2OpeL+iErx7tErDH9Tr5mkBh7/btbfcTjk2tj8He2uPttjJAPV5BCL5P8RalKpOM6CwlB3KIkUDWFRYAPUfNTHUeuaNRLK+mCPX7wXRKX9opONQbadLkyZBd0ApIMTg5CTrHChjN2lDSC+TVpikqdwE7/veF9m+xV2bxIk8o8a0yFhXOuVx9QfAlP0+jnmKFskRT8v6IZU+jZNMK/q8Kza7E0MeXcun/06yJGSHHCgvFEa6G9r34Tw39Ae3czwjXNFIfbh7APXf9/EQy9y++VDR2WGXkqYdqph1Lebp9uStcQ0GLZDiv3goxVbnuhwUrCE5ZDqENFoWQ=;FHAQ8y+nGvp74ZV6f/2qqQ=="
 ---
 

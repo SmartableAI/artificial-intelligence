@@ -3,6 +3,7 @@ category: news
 title: "Facial Recognition Violates Human Rights, Court Rules"
 excerpt: "Facial discrimination has been called discriminatory. People fear it will strip our privacy. The latest court ruling from the UK goes as far to say it violates human rights."
 publishedDateTime: 2020-08-13T11:15:00Z
+originalUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/08/13/facial-recognition-violates-human-rights-court-rules/"
 webUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/08/13/facial-recognition-violates-human-rights-court-rules/"
 ampWebUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/08/13/facial-recognition-violates-human-rights-court-rules/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/08/13/facial-recognition-violates-human-rights-court-rules/amp/"

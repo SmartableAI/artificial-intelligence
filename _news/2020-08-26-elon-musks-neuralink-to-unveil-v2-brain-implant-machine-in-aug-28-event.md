@@ -9,8 +9,8 @@ ampWebUrl: "https://www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machi
 cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machine-reveal-date/amp/"
 type: article
 quality: 58
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: Tesla News
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk's Neuralink startup shows off pig with computer chip in brain"
+    excerpt: "Elon Musk's startup wants to one day implant computer chips inside the human brain. In a demo Friday, Musk showed off a pig with one of the prototype implants."
+    publishedDateTime: 2020-08-29T06:46:00Z
+    webUrl: "https://www.ksdk.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    type: article
+    provider:
+      name: KSDK
+      domain: ksdk.com
+    quality: 59
+    images:
+      - url: "https://media.ksdk.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Elon Musk's Neuralink startup working on computer chip implants for human brain"
+    excerpt: "Elon Musk's startup wants to one day implant computer chips inside the human brain. In a demo Friday, Musk showed off a pig with one of the prototype implants."
+    publishedDateTime: 2020-08-29T15:16:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 55
+    images:
+      - url: "https://media.khou.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Neuralink: Elon Musk promises to show a working brain-computer chip for 'human-AI symbiosis'"
     excerpt: "Elon Musk has said he will demonstrate a functional brain-computer interface this week during a live presentation from his mysterious Neuralink startup. The billionaire entrepreneur, who also heads SpaceX and Tesla,"
     publishedDateTime: 2020-08-26T10:05:00Z
@@ -63,25 +95,11 @@ related:
     provider:
       name: Honolulu Star-Advertiser
       domain: staradvertiser.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://www.staradvertiser.com/wp-content/uploads/2020/08/web1_10372849-9e392b49320d4cbbbd0f72035a3bde43.jpg"
         width: 760
         height: 507
-        isCached: true
-  - title: "Elon Musk’s Neuralink is ready to demo its progress tonight"
-    excerpt: "If there is one man who believes in utilising the power of microchips and computers to make us think faster, it’s Elon Musk. The tech mogul started one of his more ambitious ventures, Neuralink, a few years ago with the intent purpose of inserting microchips into the brain in an effort to improve human intelligence,"
-    publishedDateTime: 2020-08-28T10:49:00Z
-    webUrl: "https://www.criticalhit.net/technology/elon-musks-neuralink-is-ready-to-demo-its-progress-tonight/"
-    type: article
-    provider:
-      name: criticalhit.net
-      domain: criticalhit.net
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/media.criticalhit.net//2020/08/Neuralink.jpg"
-        width: 800
-        height: 536
         isCached: true
 
 secured: "yFVMHfQK4guXsk2MzHLE4HILe6g6OmWDjMqt7WZMQocOqO78IQOTlgyCAJiYeQWri3MqJ8ZFC85eTNX900yltFizoA5e/elSOKlqxQGAudKYMydGRntZodmE9CWb18sp2b4p1PZvkVxsMKpcRt2fAv8Gdo/3v5XDPRlBarpKqtgw0Kosz/7qxkhdZhbjaMHxPYCCO81SsxBTRmJSlWg7N2NsVnP2mi4JrmWE0esuWkRb4FXsXYylQZVLWu9EOklabyJz5HEtnlg2Hql7kx3CWUlYGKAY3adAFL4r23iHAlufCKBtQaQVveLuwXlnrc3ISttArT+YCr+KxWwTXX4O3OXdtLdBXI58E589C+sk1TPM0dnuE2KMFy++k7d25LukVk7JbEMlFB9Qt15sLMD+G03ZSqSMHZNyP08h3ViSSuHjoZBdLykeAiCm1OgBs6ijDsnnNRmoPiThgWMsarEuV7bzt8U+q30w/ib6HATm/2oxz2gy7qZW6gbTUpIeRMV+Bn2xhqzS8pOJsqigxqj6Mg==;C8Z+QiFX1vOUGWaSJqyGnQ=="

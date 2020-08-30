@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Visa Harnesses Real-Time Deep Learning to Enhance Transaction Processing"
-excerpt: "(NYSE: V) today announced Visa Smarter Stand-in Processing (Smarter STIP), a new capability that uses real-time artificial intelligence (AI) to help financial institutions manage transaction authorizations when service disruptions occur."
-publishedDateTime: 2020-08-26T12:47:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200826005289/en/Visa-Harnesses-Real-Time-Deep-Learning-Enhance-Transaction"
-webUrl: "https://www.businesswire.com/news/home/20200826005289/en/Visa-Harnesses-Real-Time-Deep-Learning-Enhance-Transaction"
+excerpt: "Visa Inc. today announced Visa Smarter Stand-in Processing, a new capability that uses real-time artificial intelligence to help financial institutions manage transaction authorizations when service disruptions occur."
+publishedDateTime: 2020-08-26T13:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/visa-harnesses-real-time-deep-learning-to-enhance-transaction-processing-2020-08-26"
+webUrl: "https://www.nasdaq.com/press-release/visa-harnesses-real-time-deep-learning-to-enhance-transaction-processing-2020-08-26"
 type: article
-quality: 18
-heat: 18
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "dds3A+gcU8VMmvj+fwyRN5D/RRc0soJ3mfsMqW4D4a1Bx3b9s+kcxHaQmkwkJLt5AIGIxU9ScK/Ci/sITbIyMwMr1QEpMfKJ5krui8iAg8TWek2Cr9eImDLirAOIP/5h4KNrurA1+G5FFVmLK4MrZ5Gq/xAciYVwfgggupQwAYPEjJ0NN6Tz8e7rThCflYamICuRN3fy37Lk9VJ0fez3K7c6SwB1piGFUXirsuL6E72smo6O3MsswgkE1vdInlrx1nuuisH1fEnZZjkRMusAWomc7RQNZA3oZmxVBsD0cfO2LuahMNouzuGyMpD7+80LjdHjWW6/bAmY5o0gjoYHR+hMvRd4c2JxiZME/VGSHIw=;Iq/8c9EVaJwVTMaONZ2RKw=="
+secured: "BcLZkrGaNK9jJMRKMEsVKOZ7PZbMh0cbhj7hDfxpLOkaqtAhXikSapXdy/KwNNhQHU/pkiM4qtZmaAjVX/WwV6C7/aIsUQ3g6uYHG9xfpgB00Z/+3hLmGpHINJugOzUiTf4Xs5H0RIqtiwb1ePXcZ704bied58pg+qj2fyK8V6/6/dx9XOXFA/RWuApUT+0ej3Cvm3gNasHTS5rB/DTWN1HCPUgjXxl4jeFfcAYm0rNPxpl2h8T6rG2R5uUXA4SxgM666/hiCIplFLanecfX8EdbtscJI553g9EBGuv4f36g3bm4pZgvXJ0sSXG+CnbKeRtFS369PxvtYLzfOyYUTgEnrBnAttBlzCLKNyLWmHI=;iIlbYs/Nb1a5uEPTgGKqJQ=="
 ---
 

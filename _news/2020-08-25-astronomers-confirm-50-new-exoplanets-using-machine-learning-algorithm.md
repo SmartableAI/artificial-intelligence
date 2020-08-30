@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/space/exoplanet-discovered-machine-learning-alg
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2020/04/kepler-exoplanet-PIA23690-16.jpg"
         width: 1344
         height: 742
-        isCached: true
-  - title: "Astronomy breakthrough: Machine learning confirms 50 new planets in world-first discovery"
-    excerpt: "SCIENTISTS have confirmed the existence of 50 new planets thanks to a novel machine learning algorithm developed at the University of Warwick."
-    publishedDateTime: 2020-08-25T11:08:00Z
-    webUrl: "https://www.express.co.uk/news/science/1327140/Astronomy-news-machine-learning-exoplanets-discovery-University-of-Warwick"
-    ampWebUrl: "https://www.express.co.uk/news/science/1327140/Astronomy-news-machine-learning-exoplanets-discovery-University-of-Warwick/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1327140/Astronomy-news-machine-learning-exoplanets-discovery-University-of-Warwick/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 50
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/Astronomy-news-machine-learning-exoplanets-discovery-University-of-Warwick-1327140.jpg?r=1598353657844"
-        width: 590
-        height: 350
         isCached: true
   - title: "Fifty new planets confirmed in machine learning first"
     excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by University of Warwick scientists. For the first time, astronomers have used a process based on machine learning,"

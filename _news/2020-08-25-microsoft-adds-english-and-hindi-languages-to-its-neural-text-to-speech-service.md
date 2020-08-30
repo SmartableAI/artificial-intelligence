@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft introduces 15 new languages to its Neural Text-to-Speech service"
-    excerpt: "Microsoft has announced the addition of 15 new languages to its Neural Text to Speech (Neural TTS) service language set. Neural TTS is a part of Microsoft's Azure Cognitive Services."
-    publishedDateTime: 2020-08-25T11:30:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 87
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/04/1585909473_microsoft_6_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "Microsoft adds two Indian languages to its neural text-to-speech service"
-    excerpt: "Neural TTS significantly reduces listening fatigue when users interact with AI systems with a natural-sounding speech that matches the stress patterns and intonation of human voices"
-    publishedDateTime: 2020-08-25T11:28:00Z
-    webUrl: "https://www.business-standard.com/article/companies/microsoft-adds-two-indian-languages-to-its-neural-text-to-speech-service-120082501118_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/microsoft-adds-two-indian-languages-to-its-neural-text-to-speech-service-120082501118_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/microsoft-adds-two-indian-languages-to-its-neural-text-to-speech-service-120082501118_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 60
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-01/22/full/1579633487-5675.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Indian English, Hindi added to Microsoft’s text-to-speech service"
     excerpt: "Microsoft India has added English (India) and Hindi to its Neural Text-to-Speech (Neural TTS) service language set. The two Indian languages are among the 15 new dialects added to the service enabled"
     publishedDateTime: 2020-08-25T15:54:00Z
@@ -106,22 +74,6 @@ related:
       - url: "https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2020/08/32813/microsoft_425_735.png"
         width: 735
         height: 425
-        isCached: true
-  - title: "Microsoft’s Neural Text to Speech finally supports Hindi and English (India)"
-    excerpt: "Microsoft has introduced 15 new languages to its Neural Text to Speech (Neural TTS) service language set including Hindi and English (India)."
-    publishedDateTime: 2020-08-25T12:30:00Z
-    webUrl: "https://news.thewindowsclub.com/microsofts-neural-text-to-speech-finally-supports-hindi-and-english-india-102528/"
-    ampWebUrl: "https://news.thewindowsclub.com/microsofts-neural-text-to-speech-finally-supports-hindi-and-english-india-102528/amp/"
-    cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsofts-neural-text-to-speech-finally-supports-hindi-and-english-india-102528/amp/"
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 56
-    images:
-      - url: "https://news.thewindowsclub.com/wp-content/uploads/2020/08/Microsoft-Neural-TTS.jpg"
-        width: 600
-        height: 451
         isCached: true
   - title: "Microsoft adds English (India), Hindi to speech service"
     excerpt: "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set. The two Indian languages are among the 15 new dialects added to the service enabled with state-of-the-art Artificial Intelligence (AI) audio quality."

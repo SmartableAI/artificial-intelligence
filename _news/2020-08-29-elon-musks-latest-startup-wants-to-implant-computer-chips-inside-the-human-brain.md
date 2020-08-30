@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-29T20:13:00Z
 originalUrl: "https://www.staradvertiser.com/2020/08/29/breaking-news/elon-musks-latest-startup-wants-to-implant-computer-chips-inside-the-human-brain/"
 webUrl: "https://www.staradvertiser.com/2020/08/29/breaking-news/elon-musks-latest-startup-wants-to-implant-computer-chips-inside-the-human-brain/"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.staradvertiser.com/wp-content/uploads/2020/08/web1_10372849-9e392b49320d4cbbbd0f72035a3bde43.jpg"
@@ -24,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk's Neuralink startup shows off pig with computer chip in brain"
+    excerpt: "Elon Musk's startup wants to one day implant computer chips inside the human brain. In a demo Friday, Musk showed off a pig with one of the prototype implants."
+    publishedDateTime: 2020-08-29T06:46:00Z
+    webUrl: "https://www.ksdk.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    type: article
+    provider:
+      name: KSDK
+      domain: ksdk.com
+    quality: 59
+    images:
+      - url: "https://media.ksdk.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Elon Musk’s Neuralink to unveil V2 brain implant machine in Aug 28 event"
     excerpt: "As anticipation builds for Neuralink’s upcoming livestream on August 28, Tesla and SpaceX CEO Elon Musk provided yet another exciting update for the event. According to Musk, the brain-machine interface startup will not only show a working Neuralink device on Friday;"
     publishedDateTime: 2020-08-26T11:43:00Z
@@ -39,6 +56,22 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2019/07/neuralink-elon-musk-1024x476.jpg"
         width: 1024
         height: 476
+        isCached: true
+  - title: "Elon Musk's Neuralink startup working on computer chip implants for human brain"
+    excerpt: "Elon Musk's startup wants to one day implant computer chips inside the human brain. In a demo Friday, Musk showed off a pig with one of the prototype implants."
+    publishedDateTime: 2020-08-29T15:16:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 55
+    images:
+      - url: "https://media.khou.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "Neuralink: Elon Musk promises to show a working brain-computer chip for 'human-AI symbiosis'"
     excerpt: "Elon Musk has said he will demonstrate a functional brain-computer interface this week during a live presentation from his mysterious Neuralink startup. The billionaire entrepreneur, who also heads SpaceX and Tesla,"
@@ -67,20 +100,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/mzyq7uxsmmffta3q_1598692813.jpeg?tr=f-jpeg"
         width: 1242
         height: 710
-        isCached: true
-  - title: "Elon Musk’s Neuralink is ready to demo its progress tonight"
-    excerpt: "If there is one man who believes in utilising the power of microchips and computers to make us think faster, it’s Elon Musk. The tech mogul started one of his more ambitious ventures, Neuralink, a few years ago with the intent purpose of inserting microchips into the brain in an effort to improve human intelligence,"
-    publishedDateTime: 2020-08-28T10:49:00Z
-    webUrl: "https://www.criticalhit.net/technology/elon-musks-neuralink-is-ready-to-demo-its-progress-tonight/"
-    type: article
-    provider:
-      name: criticalhit.net
-      domain: criticalhit.net
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/media.criticalhit.net//2020/08/Neuralink.jpg"
-        width: 800
-        height: 536
         isCached: true
 
 secured: "ceL3uJ08VCd8TIpuLN7HyB+GnjnHFyibLMYsT5O9tgh+wrpcqrySX75lgmb+X5eBMEBeszWY6C7y9alkcsFLIrTfhmEme486f1ixK23PIUNZ5K99+c/tPiLqaLXs7yw65ey7IBCPqhswuwgwH2UtmnzXPSg1Et2XutfJQaa0AhG/rkasDA2sABjo7uwchyhlOGmd58+3VS+V5a3sE9m2u19cDXL4oTgFTskuaPa7gz5DLfJpamoQEzV26ZD9h3bOPPm1bTke1scYZoag8iesXwPH42wij3ytKM0Bwrni32tRKXf02Npslo+IQMp8MBPPqvjbM2m6temYHzEU8B3aw4mSpD3U6lLxUW1C6EnJML2Vcz8IXvQknwOR9KdVKqKkN8HduXqIWXed6F+1V/B/RMJiVZx2DuCM7ItiKv3XtQt1e0NYhxkUwNjyffO193441EpXw2gHv9qGAFl4LUUyKuaqzIMtk2Txd2LF/fUOJoS5302ZVRJEefRE1XsOWpNPMagnSm56Jz+KLcBz8cOOAEQI7YmfXZj5RP+b6Kh9Zv8=;z5yyrkb/nEC65WE+/WBXMw=="

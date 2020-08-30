@@ -70,20 +70,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "CUJO AI Joins the European Telecommunications Standards Institute (ETSI), Strengthening Involvement in Future 5G Infrastructure"
-    excerpt: "CUJO AI, the global leader in the development and application of artificial intelligence to improve the security, control and privacy of connected devices, announced today that it has joined the European Telecommunications Standards Institute ( ETSI)."
-    publishedDateTime: 2020-08-25T12:10:00Z
-    webUrl: "https://apnews.com/PR Newswire/854d2d32aa8dc605b39873322dce556b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "i3K+xxNPlnbYODxxvGTNz+AgzHOFE6V+j760TsTDlBXrSIN5fsbJqPn9v41+PVxbkbyYmuRg421gRTMXH8en6MMbfJLH3kAbcGjJtUwZtBfBcINMAIHVGdfXKHVFYL3Yf8VcwEZkdOvJSx1bW8oqUbJVqzQ51UX0V4ifWqyGIKCtbpdawkFxVKYLIkA+9xWOK//gwHxl1haZsGe9BESCkTKhma3VvvLmaN+Iik1f3KUkw8/mAS5KSQsWJIyW0boXokHmFGu30QPkEmezghZVvF5avL4FVqXPNoen5q3JoIC3LRWSjUIv3PVHIl9uSI2caV7RlhDIoPCGVDLNl3C1f5PI4bNGJDNrdB2PIPi+K9o28qyibwo1qM1473ksvbE4IdxtnxnCoXh9GxCFvl/wuoQulWnBH8FRB2YnLdeZZ4JnhpobkH1DA777jHcGj6s5guAW2rM9kRzYE2GHpPz9V605HhHbLnvpgJkuCHyJpC2VBlZY3RAhN7gA3J8za2eKUvlGgt7KmqBn3K47DrYOLYA6rXjvFM5ZzWC9dAsy4q8=;qC1s2DQYOaam7jrtESVfoQ=="
 ---
