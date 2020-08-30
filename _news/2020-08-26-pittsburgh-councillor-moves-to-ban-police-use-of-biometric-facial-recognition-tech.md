@@ -71,20 +71,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Councilman to introduce bill regulating facial recognition technology in Pittsburgh"
-    excerpt: "A Pittsburgh councilman plans to introduce legislation Tuesday to regulate facial recognition technology in the city."
-    publishedDateTime: 2020-08-25T09:41:00Z
-    webUrl: "https://www.wpxi.com/news/top-stories/councilman-introduce-bill-regulating-facial-recognition-technology-pittsburgh/AW622P7ZUBG6VJNTWLHSXLATUA/"
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 33
-    images:
-      - url: "https://www.wpxi.com/resizer/-nittaDLfS5Blfji2XXyH8wFsH4=/1200x628/d1hfln2sfez66z.cloudfront.net/08-18-2020/t_e409325f18a2475aaa8ef89c032632a0_name_https___www_whio_com__rw_Pub_p5_News965_2014_06_18_Images_photos_medleyphoto_5395453.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Faceoff! UK appellate court finds police use of facial recognition technology contravenes laws"
     excerpt: "In what has been described as one of the world's first successful legal challenges to police use of facial recognition technology, on Aug. 11 the UK Court of Appeal (Civil Division) found in R. (Bridges) v."
     publishedDateTime: 2020-08-27T20:36:00Z

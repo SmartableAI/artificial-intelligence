@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-designed-to-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/"
 type: article
 quality: 99
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -58,17 +58,6 @@ related:
         width: 1600
         height: 1094
         isCached: true
-  - title: "Pittsburgh Councilman To Introduce Legislation Banning Facial Recognition"
-    excerpt: "Corey O'Connor will propose a bill that would ban the unrestricted use of facial recognition by police, KDKA's Amy Wadas reports."
-    publishedDateTime: 2020-08-25T09:47:00Z
-    webUrl: "https://pittsburgh.cbslocal.com/video/4678082-pittsburgh-councilman-to-introduce-legislation-banning-facial-recognition/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4678082-pittsburgh-councilman-to-introduce-legislation-banning-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4678082-pittsburgh-councilman-to-introduce-legislation-banning-facial-recognition/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 38
 
 secured: "PdjNb7NP3pdoFOiCGCtvryICDcrAZsBMxmOrTdMmZNjvD35BgIMPPhWl0dhtxgfizE1ocsM3mt/XD+cTu04zVbOb2S5EQ3T8CiaPKMagYY2EgRm8fOqtjw6ox6hVY2lhPXt93Y9hq24jek06hMmWLUDCjq/PolJ6TfNUNMIBIRwKCgoulzPgu333s5eUPRhc1w+mxHPJbRHYPRG91w4SoESSHVFRvruNR/R+YpzI9ki2WbsyfzwQhpLICJBALRb6vSrjghUXkBtPsUc5gp4ISJP+XVl3u7sUmXl3lyr8JIKvJhxtKBJDeA/xXQgH1ly1S/AX4PEHkMqT2xNYF6wucA==;K6h2gIJOw1jxx5rzodZwDg=="
 ---

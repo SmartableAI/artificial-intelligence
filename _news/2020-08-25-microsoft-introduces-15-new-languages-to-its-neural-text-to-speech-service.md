@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-introduces-15-new-languages-to-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service/"
 type: article
 quality: 87
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -126,22 +126,6 @@ related:
       - url: "https://www.thehindubusinessline.com/info-tech/computers-and-laptops/4i74wt/article32427627.ece/ALTERNATES/LANDSCAPE_615/bl25-microsoft"
         width: 615
         height: 384
-        isCached: true
-  - title: "Microsoft introduces Hindi and Indian English to its Neural Text-to-Speech service"
-    excerpt: "Microsoft India has announced the addition of English (Indian) and Hindi to its Neural Text to Speech (TTS) service."
-    publishedDateTime: 2020-08-25T10:06:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/india-business/microsoft-introduces-hindi-and-indian-english-to-its-neural-text-to-speech-service/articleshow/77740061.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/india-business/microsoft-introduces-hindi-and-indian-english-to-its-neural-text-to-speech-service/amp_articleshow/77740061.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/microsoft-introduces-hindi-and-indian-english-to-its-neural-text-to-speech-service/amp_articleshow/77740061.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 53
-    images:
-      - url: "https://static.toiimg.com/photo/msid-77740230/77740230.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Microsoft adds English (India), Hindi to speech service"
     excerpt: "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set. The two Indian languages are among the 15 new dialects added to the service enabled with state-of-the-art Artificial Intelligence (AI) audio quality."

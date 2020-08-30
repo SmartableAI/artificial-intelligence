@@ -58,17 +58,6 @@ related:
         width: 1600
         height: 1094
         isCached: true
-  - title: "Pittsburgh Councilman To Introduce Legislation Banning Facial Recognition"
-    excerpt: "Corey O'Connor will propose a bill that would ban the unrestricted use of facial recognition by police, KDKA's Amy Wadas reports."
-    publishedDateTime: 2020-08-25T09:47:00Z
-    webUrl: "https://pittsburgh.cbslocal.com/video/4678082-pittsburgh-councilman-to-introduce-legislation-banning-facial-recognition/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4678082-pittsburgh-councilman-to-introduce-legislation-banning-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4678082-pittsburgh-councilman-to-introduce-legislation-banning-facial-recognition/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 38
 
 secured: "Vc9gAbl6obSVzWeuv2wmPaQqs2H8DJiIPkV/XLr1BwGZdc6g4lPrJBFqc8c3IWZLwZFrWzjbNlpd0qYcGipZwD33ABqOr1lTVxuzsXJhefVKyOsx5lzCXHSAl5J1NICBjO5E0xaHbN+1jBc5c7y04L3TiMncctQfjf80NwH3Xyxud0hrWUg8B6X1+uBA/Rk+I8S4EhP+fqlyj+RlwUMWgzOYZaQW1hV68tmWcF/9yFdHDILflqugmuM/xOQ/QU64TDNgl1aJ3ojDiogbfxcBhzPTt/ITyrKs2XP0xy8AvYqLOdsZ4o+5P/JRjQT8SO5k0qNBLhu1jvkdk+BmagsbGQ==;LypRVfLGEk3MBKUN1nSODQ=="
 ---
