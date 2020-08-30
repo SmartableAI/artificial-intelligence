@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2020/8/26/21402978/clearview-ai-ceo-inter
 webUrl: "https://hoantonthat.com/"
 type: article
 quality: 173
-heat: 203
+heat: 213
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p086x85h.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "AF looks to facial recognition to secure facilities"
+    excerpt: "The Air Force’s AFWERX innovation arm is investing in real-time facial recognition to secure base perimeters and enhance situational awareness for Air Force security staff."
+    publishedDateTime: 2020-08-26T20:31:00Z
+    webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition_0_1.png"
+        width: 760
+        height: 368
         isCached: true
 
 secured: "ohWIePXUnBD/WtrNek86O9Jd03puEW6ZtkPGYaRpn65KK+yL+PdHM/LhoENSTpX7R8yoHwpre8DRGUIOFY3Fw6BL3aFpee72pq5kO48cGYR5Y8ouWuTF0ifjmY3JPC8Ke+G8vALe9F1nWAhqbhpamhPrH9Qy6szP5uiEaUufZ5IiMOK+u/h5a1fVi6ldszxCWZk2mx9D0ODCpWuLvHZ+wuUJn6cTYrTn6MAyOAACV++20qRfsVXsUfGBv2dhte/HGMu1JWsSVuyERSuk3xy+Wtkr945k6ynb890XKWTvyeqE8FucQVxOrTLBA8SCpS/TBPOrjlEvE7Pi31/r/YwZwthjCyaL8Lg8jihrw6SfYoiZR110gTdx5Oj5Mr9fcNIYN1Rlo5VZEJSOucEbZs0W+elyQOx0UoUxtwLiec7IuKLAuFha9w8dih+ipKjKvvbY06J0ORzyUKAl3+lkAzyr8nlEDbfjpGBGvOHxDtaA8soF359eImexT3SHbf7THxLX1LuCUMfVq00AzP6j+ZFfiibqJlwl92oY1lesa3Rd0hc=;pzfX1i+AgJDncJGa82jnzg=="

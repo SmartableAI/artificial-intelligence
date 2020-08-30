@@ -328,56 +328,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-28-uber-expands-self-driving-safety-report-after-ntsb-slams-culture.md",
-      "title": "Uber Expands Self-Driving Safety Report After NTSB Slams Culture",
-      "excerpt": "Uber Technologies Inc. vowed to make public more safety information regarding its self-driving cars after the National Transportation Safety Board placed partial blame for a fatal 2018 crash on the company’s policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyGf4FGe5VZ4/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
-      "publishedDateTime": "2020-08-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-28-tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei.md",
       "title": "TSMC announces its first 3nm AI chip customer – neither Apple nor Huawei",
       "excerpt": "At TSMC’s 26th Technical Symposium, TSMC officially confirmed that its 5nm and 6nm processes are already in mass production. In addition, the company also announced that",
@@ -896,7 +846,7 @@
       "webUrl": "https://www.datanami.com/2020/08/27/speech-recognition-gets-an-automl-training-tool/",
       "originalUrl": "https://www.datanami.com/2020/08/27/speech-recognition-gets-an-automl-training-tool/",
       "featuredContent": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1168,6 +1118,56 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-kneron-launches-its-new-ai-chip-to-challenge-google-and-others.md",
+      "title": "Kneron launches its new AI chip to challenge Google and others",
+      "excerpt": "Fresh off a $40 million Series A round, edge AI specialist Kneron today announced the launch of its newest custom chip, the Kneron KL 720 SoC. With funding from the likes of Alibaba, Sequoia, Horizons Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/",
+      "originalUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/",
+      "featuredContent": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/KL720-2.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/amp/",
+      "publishedDateTime": "2020-08-27T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.themobileindian.com/news/lite/microsofts-neural-text-to-
 cdnAmpWebUrl: "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/microsofts-neural-text-to-speech-now-supports-english-india-and-hindi-32813"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: Mobile
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft adds English (India), Hindi to speech service Neural TTS"
-    excerpt: "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set"
-    publishedDateTime: 2020-08-26T00:56:00Z
-    webUrl: "https://www.business-standard.com/article/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-12/07/full/1512590019-7173.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Microsoft Introduces Indian English, Hindi To Its Neural Text To Speech Service"
     excerpt: "Indian English and Hindi to its Neural Text to Speech (Neural TTS) service language set, alongside the 15 new dialects added to the service. These are enabled with state-of-the-art AI audio quality. Neural TTS is a part of the Azure Cognitive Services and converts text to"
     publishedDateTime: 2020-08-26T11:58:00Z

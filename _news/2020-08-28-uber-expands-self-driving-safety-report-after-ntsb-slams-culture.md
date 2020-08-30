@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Uber Expands Self-Driving Safety Report After NTSB Slams Culture"
+title: "Uber expands self-driving safety report after NTSB slams culture"
 excerpt: "Uber Technologies Inc. vowed to make public more safety information regarding its self-driving cars after the National Transportation Safety Board placed partial blame for a fatal 2018 crash on the company’s policies."
-publishedDateTime: 2020-08-28T12:00:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture"
-webUrl: "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture"
-ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture"
-cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture"
+publishedDateTime: 2020-08-28T16:00:00Z
+originalUrl: "https://www.autonews.com/regulation-safety/uber-expands-self-driving-safety-report-after-ntsb-slams-culture"
+webUrl: "https://www.autonews.com/regulation-safety/uber-expands-self-driving-safety-report-after-ntsb-slams-culture"
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyGf4FGe5VZ4/v0/360x-1.jpg"
-    width: 360
-    height: 239
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/1UBER-MAIN_i_0.jpg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -46,6 +40,6 @@ related:
         height: 828
         isCached: true
 
-secured: "9Nk/u10MNi8Weq+ve8JDhdizmNfnsonsjXMmuqor4W2lqQeLeFz2dQm+3iITa4H4scguM1dZ+tPhekvfuFC2l1Rrnu0yq/5Tz+Ecn4La5FHZj4vGmFWV6apCwB0nsWaZrSnUOCtiOIlsUVeZXXvmbFoY3yGeHYJ+H3u776oir/hBgZsX/FqIU5hT74ZZfAQyp13AUja2HSvVOvjSULynyuFkbAv2O2OpWwlgOFX/+bY4lZ2ujjpIg7wdMwhtH7xhXwsuERskeNgcFFysrm+msrkB8hmPeb0v2J2IyAR0/g5Cx1CinIJ4qqpht3Q3pWzFp7gH8ewSRGKrD4YbIryzP9U7d4CHVnRjE/1nU448uPc=;tpPtY15Wr+6UA46gzQBvKA=="
+secured: "4Yfg/NdRIaN9ZyOuTrnIONJ0Du51UPrUVge3pGKuIavzh1gNZ5Z8dk+6zctJ/idcJ4HoOsCnhmE7sC7iuL1iAj7M4XKxnUSZJYfc6cFalJo9K7Q4QGOSn6jr8DNrwZO/pWUO0hVyuoeVJVJiJQ4i0rKsFrtkerfnwr43XfHdJCi8w+omdmF0bOUcf28dPg25oHz1Z6CctbGiBAZmTRWTGqsCyQWlfEDuzmSTM9s4iaGr+E54VipvYDEUstQsHQMftcMtPcbY4f4Ozns2JAQPeDxyW4a7B8HsYsvbNVmL17qh0O/9kfVt9ZAQTZSBJ1wGh5J9tG7gx42IOisWM4wNlXq//8bebuzHtBkfyyZB3Hk=;iPZWAlI5se+h+PDEoeyvJA=="
 ---
 

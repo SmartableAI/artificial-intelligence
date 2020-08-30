@@ -2,56 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-08-27-kneron-launches-its-new-ai-chip-to-challenge-google-and-others.md",
-      "title": "Kneron launches its new AI chip to challenge Google and others",
-      "excerpt": "Fresh off a $40 million Series A round, edge AI specialist Kneron today announced the launch of its newest custom chip, the Kneron KL 720 SoC. With funding from the likes of Alibaba, Sequoia, Horizons Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/",
-      "originalUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/",
-      "featuredContent": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/KL720-2.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/amp/",
-      "publishedDateTime": "2020-08-27T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-08-27-moveai-enables-ai-motion-capture-without-the-hassle-for-video-game-production.md",
       "title": "Move.ai enables AI motion capture without the hassle for video game production",
       "excerpt": "Move.ai can use artificial intelligence to capture a 3D representation of an actor in a process known as markerless motion capture.",
@@ -700,7 +650,7 @@
       "webUrl": "https://hoantonthat.com/",
       "originalUrl": "https://www.theverge.com/2020/8/26/21402978/clearview-ai-ceo-interview-2400-police-agencies-facial-recognition",
       "featuredContent": null,
-      "heat": 203,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -1151,6 +1101,56 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech.md",
+      "title": "Robotaxi Startup Voyage Loads Self-Driving Vans With Coronavirus-Killing Tech",
+      "excerpt": "The self-driving company that provides ride services for senior citizens is outfitting autonomous minivans with an ultraviolet lighting system adapted from ambulances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/",
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4593b29dbfd756e943c850%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/amp/",
+      "publishedDateTime": "2020-08-26T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

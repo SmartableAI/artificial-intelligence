@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-08-25-a-dogfight-renews-concerns-about-ais-lethal-potential.md",
+      "title": "A Dogfight Renews Concerns About AI's Lethal Potential",
+      "excerpt": "Alphabet's DeepMind pioneered reinforcement learning. A California company used it to create an algorithm that defeated an F-16 pilot in a simulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/",
+      "originalUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/",
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f4437bbc83d017a112ec55f/master/pass/business_f16_927284852.jpg",
+          "width": 2400,
+          "height": 1602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/amp",
+      "publishedDateTime": "2020-08-25T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-what-healthcare-can-learn-from-fintechs-digital-evolution.md",
       "title": "What Healthcare Can Learn From Fintech’s Digital Evolution",
       "excerpt": "The digital disruption of the banking industry offers helpful comparisons and takeaways for the future of healthcare and healthcare finance.",
@@ -346,8 +397,8 @@
       "title": "Microsoft introduces Hindi, Indian English to Neural Text-to-Speech service",
       "excerpt": "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech Microsoft India has announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set,",
       "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/nation/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174",
-      "originalUrl": "https://www.tribuneindia.com/news/nation/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174",
+      "webUrl": "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174",
+      "originalUrl": "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174",
       "featuredContent": null,
       "heat": null,
       "tags": null,
@@ -362,8 +413,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174",
       "publishedDateTime": "2020-08-25T00:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1139,55 +1190,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-sugarcrm-acquires-node-an-ai-as-a-service-company.md",
-      "title": "SugarCRM acquires Node, an AI-as-a-service company",
-      "excerpt": "SugarCRM said it is looking to use deep learning models to find signals and utilize inaccurate or incomplete CRM data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/sugarcrm-acquires-node-an-ai-as-a-service-company/",
-      "originalUrl": "https://www.zdnet.com/article/sugarcrm-acquires-node-an-ai-as-a-service-company/",
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/08/24/e1892061-a66d-493c-90a0-14dadd28c52c/node-ai-paas.png",
-          "width": 845,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sugarcrm-acquires-node-an-ai-as-a-service-company/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sugarcrm-acquires-node-an-ai-as-a-service-company/",
-      "publishedDateTime": "2020-08-24T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

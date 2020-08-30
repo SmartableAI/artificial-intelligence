@@ -2,6 +2,47 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-08-06-ecobank-group-announces-the-2020-fintech-challenge-finalists.md",
+      "title": "Ecobank Group announces the 2020 Fintech Challenge Finalists",
+      "excerpt": "Ecobank Group( announced the finalists from the 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocdn.eu/pulscms-transforms/1/zb2k9kuTURBXy81OTc0MzEzNS0wYzQyLTQ5MjctOGM2Mi0xZTNlOTBjMTQ0ODQuanBlZ5GTBc0BqczfgaExAA",
+          "width": 425,
+          "height": 223,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp",
+      "cdnAmpWebUrl": "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp",
+      "publishedDateTime": "2020-08-06T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Naija Gist - Latest",
+        "domain": "pulse.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-why-human-like-is-a-low-bar-for-most-ai-projects.md",
       "title": "Why ‘human-like’ is a low bar for most AI projects",
       "excerpt": "Show me a human-like machine and I’ll show you a faulty piece of tech. The AI market is expected to eclipse $300 billion by 2025. And the vast majority of the companies trying to cash in on that bonanza are marketing some form of “human-like” AI.",
@@ -1081,57 +1122,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-apple-explains-how-it-uses-machine-learning-across-iosand-soon-macos.md",
-      "title": "Apple explains how it uses machine learning across iOS—and soon, macOS",
-      "excerpt": "Machine learning (ML) and artificial intelligence (AI) now permeate nearly every feature on the iPhone, but Apple hasn't been touting these technologies like some of its competitors have. I wanted to understand more about Apple's approach ,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2020/08/apple-explains-how-it-uses-machine-learning-across-ios-and-soon-macos/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/Apple_iPadOS_Apple-Pencil_060319-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-06T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

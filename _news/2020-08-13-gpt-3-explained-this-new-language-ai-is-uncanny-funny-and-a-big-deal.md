@@ -3,6 +3,7 @@ category: news
 title: "GPT-3, explained: This new language AI is uncanny, funny — and a big deal"
 excerpt: "You teach the AI how to produce the outputs ... To do natural language processing (speech recognition, transcription, translation, etc.), they drew on the field of linguistics."
 publishedDateTime: 2020-08-13T14:13:00Z
+originalUrl: "https://www.vox.com/future-perfect/21355768/gpt-3-ai-openai-turing-test-language"
 webUrl: "https://www.vox.com/future-perfect/21355768/gpt-3-ai-openai-turing-test-language"
 ampWebUrl: "https://www.vox.com/platform/amp/future-perfect/21355768/gpt-3-ai-openai-turing-test-language"
 cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/future-perfect/21355768/gpt-3-ai-openai-turing-test-language"

@@ -2,6 +2,47 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-07-20-its-time-for-a-hard-reset-of-our-financial-services-sector.md",
+      "title": "It’s time for a hard reset of our financial services sector",
+      "excerpt": "As the government announces its review of the UK’s finance sector today, it should put fintech advances such as machine learning and AI at the heart of its thinking",
+      "sourceUrl": null,
+      "webUrl": "https://www.fnlondon.com/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://si.wsj.net/public/resources/images/FN-AK791_fn_vie_P_20200717060410.jpg",
+          "width": 749,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fnlondon.com/amp/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720",
+      "cdnAmpWebUrl": "https://www-fnlondon-com.cdn.ampproject.org/c/s/www.fnlondon.com/amp/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720",
+      "publishedDateTime": "2020-07-20T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial News",
+        "domain": "fnlondon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-2084-what-happens-when-artificial-intelligence-meets-big-brother.md",
       "title": "2084: What happens when artificial intelligence meets Big Brother",
       "excerpt": "A professor of mathematics at the University of Oxford, doubling as a philosopher of science and religion, John Lennox has some pretty unique insights to put forward when it comes to the future of artificial intelligence.",
@@ -1090,55 +1131,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-how-4-companies-are-using-ai-to-solve-waste-issues-on-earth-in-space.md",
-      "title": "How 4 Companies Are Using AI To Solve Waste Issues On Earth & In Space",
-      "excerpt": "Waste recognition, space junk, and food waste are a few of the challenges that artificial intelligence is helping humanity tackle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/07/18/how-4-companies-are-using-ai-to-solve-waste-issues-on-earth--in-space/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1387b66398dc0006c88875%2F0x0.jpg%3FcropX1%3D17%26cropX2%3D4000%26cropY1%3D530%26cropY2%3D2770",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/07/18/how-4-companies-are-using-ai-to-solve-waste-issues-on-earth--in-space/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/07/18/how-4-companies-are-using-ai-to-solve-waste-issues-on-earth--in-space/amp/",
-      "publishedDateTime": "2020-07-18T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

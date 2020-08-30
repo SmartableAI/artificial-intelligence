@@ -3,8 +3,8 @@ category: news
 title: "AF looks to facial recognition to secure facilities"
 excerpt: "The Air Force’s AFWERX innovation arm is investing in real-time facial recognition to secure base perimeters and enhance situational awareness for Air Force security staff."
 publishedDateTime: 2020-08-26T20:31:00Z
-originalUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx?admgarea=TC_EmergingTech"
-webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx?admgarea=TC_EmergingTech"
+originalUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx"
+webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx"
 type: article
 quality: 39
 heat: -1
@@ -53,6 +53,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "AF looks to facial recognition to secure facilities"
+    excerpt: "The Air Force’s AFWERX innovation arm is investing in real-time facial recognition to secure base perimeters and enhance situational awareness for Air Force security staff."
+    publishedDateTime: 2020-08-26T20:31:00Z
+    webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx?admgarea=TC_EmergingTech"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition_0_1.png"
+        width: 760
+        height: 368
+        isCached: true
   - title: "'Fooling' facial recognition cameras"
     excerpt: "Protesting artists, who are against surveillance, use make-up to try and fool London's technology."
     publishedDateTime: 2020-08-26T20:06:00Z
@@ -67,21 +81,7 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "AF looks to facial recognition to secure facilities"
-    excerpt: "The Air Force’s AFWERX innovation arm is investing in real-time facial recognition to secure base perimeters and enhance situational awareness for Air Force security staff."
-    publishedDateTime: 2020-08-26T20:31:00Z
-    webUrl: "https://gcn.com/articles/2020/08/26/afwerx-facial-recognition-base-security.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition_0_1.png"
-        width: 760
-        height: 368
-        isCached: true
 
-secured: "WBWqucTd2FB39zz1Wx4mWGagepYYhwJ8Z5Xh+TE0YSnaWFlpUSlQt5t4TMM/o2Svjd+pl2sj0WRU/hfqpG+0C9EXVpmlBzaFIqOGKIkOFdTya+YNk48Div9l/vApI5syZbJECiNH6RIXViWRNB5ZREpBS1PC96L4eJaiVQDS3XiWR0mLuhsyNkddPGjkv+j+uCXZSCx69XAm1vrHZ3FWL50KYqaILqWURaP+SOEntJE3mSeqGgTYFR6xBPP0PKycjyUGOEI+kMoceHX5YqfQElTwyw/KDsPcLTbmW0Fe+Q6RbSMf5boAdcMrEbBrewf8dIVhhNLkTn10fUS5LFQwHkJg24y97sooGBz8sLDKIM+q9lf0cXx8nscZk0ly9ZIW3BpLl3DxxMF+kEKdBbl00sQLFice68rj1x0J50oNC6flmqlb9cEqnJNxXmzTEQ82tndwttMAclNiu1BdpgDl76w0gkV3c1UDILC/3KNrsF0jWoUaRx0t9ERvaxwSDOgqfw/FJ04BM9VfgKANGLG7r8+S6QvSy91EnVVvCtnyR6Y=;8+Fjjjf2p+CcT4VjRnQDsQ=="
+secured: "+5znbK7QGCgYVq5sloeiOwOoSz+LkSqMyCZvlsSj2OmC4UeTXCh6whi2oVCor2JYf0/r9Sv4NMYdQT0RM9dAxQCcERLmpfdqsogQx6IQP6XMENpBYlIoGiZMHwFHtRD9p03F1vIVqNhVkVAJhl1FdgXw4nLrEUTC6dEVbrhtGzjRLdZ06cIktzbm6p8IVhdv0OF2Qj3MQEIKbqpddPdJm5NNayzrg3TjPHkqXhF/gExrzmjASUrSb5IdPSOxl7dPkkhZiBXM8uznQNDvmx2LnGV45AMKzCsknAjDQ6WS9VJAV5K1h4sKdSW0wsu4+UB6SGs6uR5KYjRjuhwhCTbNA4Pbunf8Vze6aMT6FIEJJwA=;ByPYeFhrAswQt2xUM37Z0Q=="
 ---
 

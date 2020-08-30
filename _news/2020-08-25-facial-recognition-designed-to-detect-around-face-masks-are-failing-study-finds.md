@@ -3,6 +3,7 @@ category: news
 title: "Facial recognition designed to detect around face masks are failing, study finds"
 excerpt: "Many facial recognition companies have claimed that they can detect people with pinpoint accuracy even while they're wearing face masks, but the latest results from a study show that the coverings are dramatically increasing the error rates."
 publishedDateTime: 2020-08-25T18:32:00Z
+originalUrl: "https://www.cnet.com/health/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/"
 webUrl: "https://www.cnet.com/health/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/"
 ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/"
@@ -59,6 +60,6 @@ related:
         height: 1094
         isCached: true
 
-secured: "PdjNb7NP3pdoFOiCGCtvryICDcrAZsBMxmOrTdMmZNjvD35BgIMPPhWl0dhtxgfizE1ocsM3mt/XD+cTu04zVbOb2S5EQ3T8CiaPKMagYY2EgRm8fOqtjw6ox6hVY2lhPXt93Y9hq24jek06hMmWLUDCjq/PolJ6TfNUNMIBIRwKCgoulzPgu333s5eUPRhc1w+mxHPJbRHYPRG91w4SoESSHVFRvruNR/R+YpzI9ki2WbsyfzwQhpLICJBALRb6vSrjghUXkBtPsUc5gp4ISJP+XVl3u7sUmXl3lyr8JIKvJhxtKBJDeA/xXQgH1ly1S/AX4PEHkMqT2xNYF6wucA==;K6h2gIJOw1jxx5rzodZwDg=="
+secured: "vOo119vhJXHQn29F1PlcL2oYK0goO6R7UpT6bRrJeJawFi7oDrYefdptl8ncFALdL3XT1bk9oZ99TLDjmIIQvAVajr2uElt9+Ga0lpmmiZAgwHcT/aTkedrgbF6yCdRlTdaqnoNOykdoN2211VbnxF2kZgDM0qvN351Tpte0DIEILWpgVqDmPBLFQDE8fxLrFYJ8/E2ePZS5bRamyYIi7hH0g1ng+EqT49E2EW6gYF348kAMQ6yFrZgjxrJWhbqHTIA9DLpNBmxoba/9pobcAn7TCiRekBzLE4IkNVR+sfq60rb9U+JJ3J7PpYp/CUC/thbxMDgDrCBd3DRq0HA4aGWwDBYmSSRTTyxCv235hfgJMWTLgbv7sZgl+mRLXNlaq8pmyFKL4blEMkkh8vS0CKYPdcojJfuQQgIC8OGL7XpWwVTskuLXgSDaUVWHK0h22vPcmU5Zh3QG0q7+9n4hH9kXC2SH4USmvkJ2/4XCV0v+Cb5plxwXy4KfQDjq+L71PPHh+OCxCp6Qq9mW2BbHrQ==;uIvX0bHX+pzv4Un5Grglsw=="
 ---
 
