@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/rebeccabellan/2020/08/30/forget-identifier
 ampWebUrl: "https://www.forbes.com/sites/rebeccabellan/2020/08/30/forget-identifiers-the-future-of-ad-tech-is-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccabellan/2020/08/30/forget-identifiers-the-future-of-ad-tech-is-ai/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4abe0d9252c69c9b707f4e%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 759
     isCached: true
 
-secured: "CWCTEPauouY9am1GQ4lEboVZA+MyOtT9cgO3jlGC8NmymBB5AnT39eb5uKXhw3C2fXxoSRWGD2FJ3P07WYosuo5Sk2L3vIl8+nEfzqMTFlsNj2SkLdg5rVRq87MuayJfgCFE5GvBuZC95ROjqqwai+QbIkCWwwqM+rKgKfcUWriKN36nw0D3sKLQ3I6WPx9KBrtxetvGwhQkBfojJPiju8SX2+nXSJ3i8pWE6BmIMuyQK+3OXvVbmnjJdaerhOz8YbbyaVdOvMXMDdJ25emFxFYzXwsK42mTcYpTX9QR8S6moRGPhP2X+ybXKYSh4bOrjoxs6AEhqsVaG+feVPFD6tHoiNEbLTPGmcoo1KFkMP0=;Jt1B+dUZzDeSLQQKI1wNMg=="
+secured: "U2et4I72NrnLzToBpyJMoYIEs56mKTZ5CPe4IUPARbmDJjX2V9V/dXkNzSIVXYPzYdqh+SO3Y2k2EjEHL6K2kgV+j/va8/ywKVdiA9k65XZQhJuk+6sS6JK40yPbmcWq/bTRo6g4l3MhsxZ+YOhWVT5cqk7lz9XIPN4oI38JA/16LVPa9h1MHiNpejkpSt/jKRqVCfrms1zClPrzMkmjTLWv7lCQzKAnoY0jDSdYIlfBpwuJb3dyfwBrVqYWliURUfqR2NVeWkO8tAeoZfohMP/yzvkwFasRJ1P8OBhfAF4SD5AH9VLiR4pMo+rFiuFxJqjOEfGGmtNPVuonoVm5oMbvlAHqvKNULLO0b/MNP+2Dre8UbOkJKnH6Na76Q0gr4jaFVPO1QfNUmYWSku7uwSOfupvyis44eHP9iF/No8ku3CsyNJA/+njK+NMEkt4YJgLuExSgbzJdxIzhlhNvj9CHfHKLX5UiqPkI0DQsd4ukEsCdV6/P4g8kfBOYzkMnfNcmxMkxrJm996kBdH8s4nkNUTkTcCvsBuMsAagoDf8=;yanYsb1gMCXHcMsgAYhc8g=="
 ---
 

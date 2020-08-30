@@ -1,33 +1,31 @@
 ---
 category: news
 title: "COVID 19 Update: Global Healthcare Artificial Intelligence Market Stocks Gain, Rises Immensely"
-excerpt: "The global healthcare artificial intelligence market 2020 is scoring in small-leaps. Its shares have surged, which is a sign that the market’s size is widening after months of leadership by big technology companies after less impact of Coronavirus."
-publishedDateTime: 2020-08-26T00:27:00Z
-originalUrl: "https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25"
-webUrl: "https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25"
+excerpt: "Healthcare Artificial Intelligence Market” Healthcare Artificial Intelligence (AI) Market Research Report: Information by Component (Hardware, Software,"
+publishedDateTime: 2020-08-26T00:05:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17242858"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17242858"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 62
+heat: 62
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.abnewswire.com/uploads/1598357109.jpeg"
+    width: 417
+    height: 455
     isCached: true
 
-secured: "gCZp9fplBmHQnlAOoE7QEuP8F50r4OdD42iCnkyM4fRSpKmWy/QJO6z8BDYCQEmgibCCuyBDq3066fGnNx5g9x5tdoPvl/w0yVPQux1Th/x9epTjWUkVkzp4nEC6GjCSdWXY4n7/pNWXFHRi6PGSTVM1QNPaK1w3p4MqiQvvoR+qRKnAk0GoKYlMrs7cJePDTUc1EZzmdFoDN8p1ilMcEO8wsMx9gD6ZcK0fn6CDNUNxxEg6zeEr4orxOH0x7GOVnon26oE6a/7KISR1PZoK/utMIMij5L0FxQjGnKy+S1+eQRy6MZbQ/wp3HgN7ZxRQ4UarrIn3YmYvoEQFUm41s/QnuzY2k6tddz2YIFw0T80=;pAGDIIoRtzVJNk87i9e8hA=="
+secured: "Pb0HpYJ9YSeGshMi8PkMa5ha8BXW1nZqnqJaKf8diepjxM6TGqnjB8JtbDYvLvno1iazoAi4CDD8xK0xOiTCSVNC6N9kuhk/Q0yKFjvD0OmwjqK5nEhhFHjh+3BCTibD3oexWt1P68NlAnWovHEah8WpX0jY26UHHsKsenYECH/T8+u2gHHybUCfPW9IQC0lvmwDCcn62AP3OEvCH2IS9AVyxRO5+ZSw4xXImX+vG8NDLkhCbF/Awf4fSz7BR5jkKk7BOxDWyosimHARKZDLeEE6jl4daVTzOs3TaRQzRhZIZhpRX8iet++ieG5IDSdKieqPzrnC3XewMTsoIZpnYpmQBzg+9RqRef2unkG7264=;j1bvQf80Coy5I2QTubUafg=="
 ---
 

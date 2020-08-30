@@ -58,20 +58,6 @@ related:
         height: 425
         isCached: true
   - title: "Microsoft adds English (India), Hindi to speech service"
-    excerpt: "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set. The two Indian languages are among the 15 new dialects added to the service enabled with state-of-the-art Artificial Intelligence (AI) audio quality."
-    publishedDateTime: 2020-08-25T22:53:00Z
-    webUrl: "https://menafn.com/1100695047/Microsoft-adds-English-India-Hindi-to-speech-service"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Microsoft adds English (India), Hindi to speech service"
     excerpt: "Microsoft India on Tuesday announced the ... Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech for a more natural interface. The service also provides ..."
     publishedDateTime: 2020-08-26T01:18:00Z
     webUrl: "https://news.webindia123.com/news/articles/Science/20200826/3615913.html"
