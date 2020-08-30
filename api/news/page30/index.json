@@ -2,6 +2,204 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-08-04-ai-driven-fitness-making-gyms-obsolete.md",
+      "title": "AI-Driven Fitness: Making Gyms Obsolete?",
+      "excerpt": "And a staggering 80% of men are exercising more now without access to their gyms than before Covid-19, according to data from Freeletics, an AI-based fitness app with 47 million users in over 160 countries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/04/ai-driven-fitness-making-gyms-obsolete/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f298efbe2252631e7028543%2F0x0.jpg",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/04/ai-driven-fitness-making-gyms-obsolete/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/08/04/ai-driven-fitness-making-gyms-obsolete/amp/",
+      "publishedDateTime": "2020-08-04T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-ford-ceo-jim-hackett-is-retiring.md",
+      "title": "Ford CEO Jim Hackett is retiring",
+      "excerpt": "Ford and other legacy automakers have spent the last few years grappling with potentially existential threats like Tesla, self-driving cars, ride-hailing services, and micromobility. Hackett ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/8/4/21353950/ford-ceo-jim-hackett-retiring-replaced-restructuring",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/TJlhuNA0ndUDjHAg7UdM2sQvA-Q=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67153374/sokane_191117_3793_5957.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/8/4/21353950/ford-ceo-jim-hackett-retiring-replaced-restructuring",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/4/21353950/ford-ceo-jim-hackett-retiring-replaced-restructuring",
+      "publishedDateTime": "2020-08-04T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks.md",
+      "title": "Kite brings its AI-powered code completions to Jupyter notebooks",
+      "excerpt": "Using AI to help developers is not an original idea. Nowadays you have startups like DeepCode offering AI-powered code reviews and tech giants like Microsoft working on applying AI to the entire ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/04/kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/kite-jupyterlab-code-completions.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/04/kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks/amp/",
+      "publishedDateTime": "2020-08-04T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-ai-needs-to-gain-famed-macgyver-shrewdness-including-for-ai-self-driving-cars.md",
+      "title": "AI Needs To Gain Famed MacGyver Shrewdness, Including For AI Self-Driving Cars",
+      "excerpt": "MacGyver solved it again! Who or what is a MacGyver, you might wonder? Well, most people have heard of MacGyver, the TV series and main character that manages to always find a clever means to extricate himself from some puzzling predicament,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/04/ai-needs-to-gain-famed-macgyver-shrewdness-including-for-ai-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e71688237d0440006bcc12d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D4000",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/04/ai-needs-to-gain-famed-macgyver-shrewdness-including-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/04/ai-needs-to-gain-famed-macgyver-shrewdness-including-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-08-04T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-portland-maine-becomes-the-thirteenth-city-to-ban-facial-recognition-tech.md",
       "title": "Portland, Maine Becomes The Thirteenth City To Ban Facial Recognition Tech",
       "excerpt": "At the time, some officials were reportedly hesitant over putting down their vote, since a ban on facial recognition technology would cut off the city’s local airport from tapping into this tech ...",
@@ -940,178 +1138,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-why-airlines-should-use-ai-to-unlock-an-amazon-in-the-sky.md",
-      "title": "Why Airlines Should Use AI To Unlock An Amazon In The Sky",
-      "excerpt": "If airlines adopt this technology, storing the data within it becomes easy. Once they have stored that data, applying AI becomes much easier. This technology is what, if adopted successfully, could create an Amazon in the sky. It’s an exciting step and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveking/2020/08/04/why-airlines-should-use-ai-to-unlock-an-amazon-in-the-sky/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f293b181b7a56184909fa0d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3072%26cropY1%3D159%26cropY2%3D1887",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveking/2020/08/04/why-airlines-should-use-ai-to-unlock-an-amazon-in-the-sky/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveking/2020/08/04/why-airlines-should-use-ai-to-unlock-an-amazon-in-the-sky/amp/",
-      "publishedDateTime": "2020-08-04T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-soon-your-brain-will-be-connected-to-a-computer-can-we-stop-hackers-breaking-in.md",
-      "title": "Soon, your brain will be connected to a computer. Can we stop hackers breaking in?",
-      "excerpt": "As the development of brain-computer interface technology speeds up, are security and privacy getting left behind?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/soon-your-brain-will-be-connected-to-a-computer-can-we-stop-hackers-breaking-in/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/soon-your-brain-will-be-connected-to-a-computer-can-we-stop-hackers-breaking-in/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/soon-your-brain-will-be-connected-to-a-computer-can-we-stop-hackers-breaking-in/",
-      "publishedDateTime": "2020-08-04T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-digital-assistants-in-healthcare-2020-2025-artificial-intelligence-ai-has-emerged-as-a-major-boon-amid-covid-19-researchandmarketscom.md",
-      "title": "Digital Assistants in Healthcare 2020-2025: Artificial Intelligence (AI) Has Emerged as a Major Boon Amid COVID-19 - ResearchAndMarkets.com",
-      "excerpt": "The \"Digital Assistants in Healthcare Market - Growth, Trends and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Digital Assistants in the Healthcare Market is projected to register a CAGR of almost 33.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200804005501/en/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200804005501/en/371054/23/ResearchAndMarkets_800px.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-ai-for-ecg-flags-heart-failure-in-emergency-setting.md",
-      "title": "AI for ECG Flags Heart Failure in Emergency Setting",
-      "excerpt": "An ECG algorithm incorporating artificial intelligence (AI ... initiation of guideline directed medical therapy and social work if needed,\" study authors suggested. A limitation of the study ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/cardiology/chf/87884",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://clf1.medpagetoday.net/media/images/87xxx/87884.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

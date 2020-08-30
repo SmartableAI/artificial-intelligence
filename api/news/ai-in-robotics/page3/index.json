@@ -2,6 +2,138 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-04-for-robots-its-a-time-to-shine-and-maybe-disinfect.md",
+      "title": "For Robots, It’s a Time to Shine (and Maybe Disinfect)",
+      "excerpt": "The pandemic has turned cleaning and other mundane building tasks into a challenge, stoking interest in machines as cost-effective solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/business/04Virus-Robots-01/04Virus-Robots-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.amp.html",
+      "publishedDateTime": "2020-08-04T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-nokia-to-set-up-robotics-lab-at-indian-institute-of-science.md",
+      "title": "Nokia to set up robotics lab at Indian Institute of Science",
+      "excerpt": "Nokia Center of Excellence (CoE) for networked robotics will promote interdisciplinary research involving robotics, advanced communication technologies and artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science-11596543382756.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/08/04/600x338/2020-06-30T092400Z_457483931_RC2LJH910Z5H_RTRMADP_3_NOKIA-FRANCE-LAYOFFS_1596543432399_1596543467201.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/amp-11596543382756.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/amp-11596543382756.html",
+      "publishedDateTime": "2020-08-04T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-soon-your-brain-will-be-connected-to-a-computer-can-we-stop-hackers-breaking-in.md",
+      "title": "Soon, your brain will be connected to a computer. Can we stop hackers breaking in?",
+      "excerpt": "As the development of brain-computer interface technology speeds up, are security and privacy getting left behind?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/soon-your-brain-will-be-connected-to-a-computer-can-we-stop-hackers-breaking-in/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/soon-your-brain-will-be-connected-to-a-computer-can-we-stop-hackers-breaking-in/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/soon-your-brain-will-be-connected-to-a-computer-can-we-stop-hackers-breaking-in/",
+      "publishedDateTime": "2020-08-04T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-03-chinese-artificial-intelligence-company-files-14-billion-lawsuit-against-apple.md",
       "title": "Chinese artificial intelligence company files $1.4 billion lawsuit against Apple",
       "excerpt": "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit against Apple Inc , alleging it has infringed on its patents.",
@@ -1175,138 +1307,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-ucla-childrens-hfchildrospital-implements-new-ai-robot-to-improve-mental-health-during-treatment.md",
-      "title": "UCLA Children's Hfchildrospital implements new AI robot to improve mental health during treatment",
-      "excerpt": "Children may undergo challenging experiences when admitted for in-patient care at pediatric hospitals. Now, a new AI robot, Robin, helps to improve their experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ucla-childrens-hospital-implements-new-ai-robot-to-improve-mental-health-during-treatment/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/07/24/5ec231cd-4134-4488-bd49-546e6f9a34ae/robin-ai-robot-expper-eileen-brown-zdnet.png",
-          "width": 1191,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ucla-childrens-hospital-implements-new-ai-robot-to-improve-mental-health-during-treatment/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ucla-childrens-hospital-implements-new-ai-robot-to-improve-mental-health-during-treatment/",
-      "publishedDateTime": "2020-07-24T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.md",
-      "title": "COVID -19: Aerokeys to launch more intelligence, profiling human robotics",
-      "excerpt": "Aerokeys Nigeria Limited, one of the world’s leading aviation company has revealed plans to launch the use of robots in the nation’s fight against COVID-19, aimed at reducing direct",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailytrust.com.ng/covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.dailytrust.com.ng/wp-content/uploads/2020/06/COVID-19-testing.jpg",
-          "width": 1080,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailytrust.com.ng/covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.html/amp",
-      "cdnAmpWebUrl": "https://www-dailytrust-com-ng.cdn.ampproject.org/c/s/www.dailytrust.com.ng/covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.html/amp",
-      "publishedDateTime": "2020-07-24T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Trust",
-        "domain": "dailytrust.com.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-technological-advancement-and-growth-analysis-to-2026.md",
-      "title": "Artificial Intelligence And Robotics In Aerospace And Defense Market Technological Advancement and Growth Analysis to 2026",
-      "excerpt": "The Global Artificial Intelligence And Robotics In Aerospace And Defense Market Research Report 2020-2026 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T723421293_g.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense",
-      "publishedDateTime": "2020-07-23T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/machine-learning-alg
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/"
 type: article
 quality: 89
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -45,28 +45,6 @@ related:
         width: 1344
         height: 742
         isCached: true
-  - title: "New machine learning algorithm, in a first, confirms 50 new planets"
-    excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by the University of Warwick scientists. For the first time, astronomers have used a process based on machine learning,"
-    publishedDateTime: 2020-08-26T04:33:00Z
-    webUrl: "https://www.hindustantimes.com/it-s-viral/new-machine-learning-algorithm-in-a-first-confirms-50-new-planets/story-DffJLbbDt6PKsZ7dH5OxSJ.html"
-    ampWebUrl: "https://m.hindustantimes.com/it-s-viral/new-machine-learning-algorithm-in-a-first-confirms-50-new-planets/story-DffJLbbDt6PKsZ7dH5OxSJ_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/it-s-viral/new-machine-learning-algorithm-in-a-first-confirms-50-new-planets/story-DffJLbbDt6PKsZ7dH5OxSJ_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
-  - title: "In a Groundbreaking First, New Machine Learning Algorithm Confirms 50 New Planets"
-    excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by the University of Warwick scientists. For the first time, astronomers have used a process"
-    publishedDateTime: 2020-08-26T04:27:00Z
-    webUrl: "https://www.india.com/viral/in-a-groundbreaking-first-new-machine-learning-algorithm-confirms-50-new-planets-4122300/"
-    ampWebUrl: "https://www.india.com/viral/in-a-groundbreaking-first-new-machine-learning-algorithm-confirms-50-new-planets-4122300/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/in-a-groundbreaking-first-new-machine-learning-algorithm-confirms-50-new-planets-4122300/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 34
 
 secured: "YW/b36edCrlhMcD2mBVFa+/k9gPV4XmGTQpNkKuU98tlKwuwsH34KxO1Tdhb4Kpx2SOqVwqsf4IPn2TGpc2yRSltaQrusycFRr7jBvPobso6BxrDJt1J6gMk7A9B5GVJEuw9ova7kv2YgkPuIFrWQeYwuQ2KVKDoo0KMTSopio//DZvlucOykpb47C4EnRR3o0eF6xpMaxq+DszKbVLokF4NhyVqR26SGCKA5lak5cRY83GOgK6J/rUTlg4whWmT9my8e4nFYXmG6aZ5OdpwtCOht3d/1/lgbxPfA+SmSpFPTDpzb3fILlYb8zX9EjaJ8856FjtiuHuGKcT+IhR3D0pDhftrvFn/oev4AC2DVZ3ouhpf4H0+q0gLAsHfRy5ZLYgHMsCGA9DB8Ma3l8abp5ecGfHM9D1ccYGjjvjCf2ewLcmCPKAS/tBBZ9RR07nsE6Vu4LiOUSzIxMD+Ow1PZTX5YEQ0b8y+anvGv7pZ3Ol8D653UViKHEyhDChIqnNlC/y0QGlFnDX0z+e52t/jAncEVjQkG71xVIKgNqfvzko=;JLiE4MLbAqMWTZsjryFCIQ=="
 ---

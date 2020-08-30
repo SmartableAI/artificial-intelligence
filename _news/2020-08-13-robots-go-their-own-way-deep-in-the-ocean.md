@@ -3,6 +3,7 @@ category: news
 title: "Robots go their own way deep in the ocean"
 excerpt: "\"Without AI autonomous underwater robots are pretty dumb - only being able to follow pipelines and cables in pre-programmed lines,\" says Mr Allen. \"Enabling the AUV to analyse data in real time means you can actually instruct the robot to do other things."
 publishedDateTime: 2020-08-13T23:10:00Z
+originalUrl: "https://www.bbc.co.uk/news/business-53218719"
 webUrl: "https://www.bbc.co.uk/news/business-53218719"
 ampWebUrl: "https://www.bbc.co.uk/news/amp/business-53218719"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-53218719"

@@ -2,6 +2,55 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-27-ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change.md",
+      "title": "AI buoyed businesses during the pandemic, and could accelerate permanent change",
+      "excerpt": "IPSoft found that most businesses plan to return furloughed workers to their jobs, but many think AI will change or eliminate those positions within the next two years, white-collar included.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/",
+      "featuredContent": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2017/02/24/d1f519cf-0c12-47a0-a0e1-9673f8bddb6f/resize/1200x/2c2823643b451563b36e0582248598ac/automation-jpbs.jpg",
+          "width": 1200,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/",
+      "publishedDateTime": "2020-08-27T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-professor-alena-buyx-on-the-embedded-ethics-approach-in-ai-development.md",
       "title": "Professor Alena Buyx on the embedded ethics approach in AI development",
       "excerpt": "The increasing use of AI (artificial intelligence) in the development of new medical technologies demands greater attention to ethical aspects. An interdisciplinary team at the Technical University of Munich (TUM) advocates the integration of ethics from the very beginning of the development process of new technologies.",
@@ -1062,7 +1111,7 @@
       "webUrl": "https://www.techrepublic.com/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
       "originalUrl": "https://www.techrepublic.com/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
       "featuredContent": null,
-      "heat": 119,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1101,56 +1150,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-why-banks-need-to-sharpen-their-focus-on-financial-crime.md",
-      "title": "Why Banks Need To Sharpen Their Focus On Financial Crime",
-      "excerpt": "As banks contend with the economic fallout from the Covid-19 pandemic, their ability to respond to financial crime threats is not keeping pace with the sophistication and sheer number of incoming attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/",
-      "originalUrl": "https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43faec352da179b5f176ea%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/amp/",
-      "publishedDateTime": "2020-08-26T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

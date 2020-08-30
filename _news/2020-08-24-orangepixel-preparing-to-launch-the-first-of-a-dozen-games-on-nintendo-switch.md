@@ -3,6 +3,7 @@ category: news
 title: "Orangepixel preparing to launch the first of a dozen games on Nintendo Switch"
 excerpt: "Dutch indie developer Orangepixel is launching Meganoid onto Switch on September 8th, the first of a slew of games coming from the veteran Indie game developer in the coming months. Including the Gunslugs,"
 publishedDateTime: 2020-08-24T13:07:00Z
+originalUrl: "https://gamasutra.com/view/pressreleases/368731/Orangepixel_preparing_to_launch_the_first_of_a_dozen_games_on_Nintendo_Switch.php"
 webUrl: "https://gamasutra.com/view/pressreleases/368731/Orangepixel_preparing_to_launch_the_first_of_a_dozen_games_on_Nintendo_Switch.php"
 type: article
 quality: 1
