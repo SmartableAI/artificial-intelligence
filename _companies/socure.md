@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "socureme"
   url: "https://twitter.com/socureme"
-  followers: 6933
+  followers: 6934
 
 size: 51-200 employees
 yearFounded: 2012
