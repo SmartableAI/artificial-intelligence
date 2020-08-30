@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Uber expands self-driving safety report after NTSB slams culture"
+  - title: "Uber Expands Self-Driving Safety Report After NTSB Slams Culture"
     excerpt: "Uber Technologies Inc. vowed to make public more safety information regarding its self-driving cars after the National Transportation Safety Board placed partial blame for a fatal 2018 crash on the company’s policies."
-    publishedDateTime: 2020-08-28T16:00:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/uber-expands-self-driving-safety-report-after-ntsb-slams-culture"
+    publishedDateTime: 2020-08-28T12:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 74
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/1UBER-MAIN_i_0.jpg"
-        width: 800
-        height: 600
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyGf4FGe5VZ4/v0/360x-1.jpg"
+        width: 360
+        height: 239
         isCached: true
 
 secured: "sGKtn+oB5Xzt3OXzQ5bXjjl+rKbxtcHf58HUWuCAV72lPgfhTl8v7XBi3x5/5D09a1Sqq8RHCRVJ5xuiKs8BzDheto59xIq3QlCtomo3hpnazazLBGLG146OWuEDrZXDBkSnBXPDY1Dyl3uW6t+vW4G2admmZ2yt8DbtSvWVAsld6xinioC8hK2552ZGTTd/MZwa27NQxlEEVqT4OOEI6bPyAMRiGSQr2Qt7VlvmTeBFU9rO1My47xltRK/EPZClFdCbXGIJJCn7DGjsZ8yZsBa506PoCHz+r7ub5nmU4ydiLhd31OowKYrcb+CzE42JVXMOy3WNDXNbClvzp8C2pqa5NOEyHEpEZNow9wZT1G0YglG1lC8XgOsZjQRMa2I5myUzBeTpPDL7heDYKF/7HFFLJ+LJWyr4VRH2e25N6wa3gLFNBKDfpCL1VmaD7wJL8bJjU0UWPYm3NK3ZHj83cfeJatXr6whyMdL63tr6c+JmOkPGi6dgx7wEoOekJtDTAP1BwSdbws4irvhwBs6yTDbJhVQRjWTCDmgv8rfx4B8=;gWOVuPs71KdNF63e/DOBHA=="

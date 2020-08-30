@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-an
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: NextBigFuture
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "NSF Announces MIT-Led Institute for Artificial Intelligence and Fundamental Interactions"
+    excerpt: "IAIFI will advance physics knowledge — from the smallest building blocks of nature to the largest structures in the universe — and galvanize AI research innovation. The U.S. National Science Foundatio"
+    publishedDateTime: 2020-08-30T19:56:00Z
+    webUrl: "https://scitechdaily.com/nsf-announces-mit-led-institute-for-artificial-intelligence-and-fundamental-interactions/"
+    ampWebUrl: "https://scitechdaily.com/nsf-announces-mit-led-institute-for-artificial-intelligence-and-fundamental-interactions/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/nsf-announces-mit-led-institute-for-artificial-intelligence-and-fundamental-interactions/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 48
+    images:
+      - url: "https://scitechdaily.com/images/Institute-for-Artificial-Intelligence-and-Fundamental-Interactions-777x518.jpg"
+        width: 777
+        height: 518
+        isCached: true
   - title: "United States establishes a dozen AI and quantum information science research centers"
     excerpt: "United States establishes a dozen AI and quantum information sci. By Adrian Cho. The United States aims to invest $765 million over the"
     publishedDateTime: 2020-08-26T21:53:00Z

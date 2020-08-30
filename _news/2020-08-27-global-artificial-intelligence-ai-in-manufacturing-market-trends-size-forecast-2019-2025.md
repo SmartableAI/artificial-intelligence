@@ -85,20 +85,6 @@ related:
         width: 600
         height: 407
         isCached: true
-  - title: "Self-Driving Car Market: Insights By Size, Share, Future Growth And Forecast From 2020-2023"
-    excerpt: "Aug 25, 2020 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn"
-    publishedDateTime: 2020-08-26T02:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-insights-by-size-share-future-growth-and-forecast-from-2020-2023-2020-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI in Social Media Market Study and PESTEL Analysis Key Manufacturers – Google, Facebook, Microsoft"
     excerpt: "AI in Social Media Market 2020 Market.us has published a latest and most trending report on, AI in Social Media Market (Covering USA, EU, China, South East Asia and Japan) offers detailed insightful for value chain assessment,"
     publishedDateTime: 2020-08-28T08:23:00Z

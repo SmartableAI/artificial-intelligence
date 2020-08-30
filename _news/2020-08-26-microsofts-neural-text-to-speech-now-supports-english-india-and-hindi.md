@@ -9,8 +9,8 @@ ampWebUrl: "https://www.themobileindian.com/news/lite/microsofts-neural-text-to-
 cdnAmpWebUrl: "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/microsofts-neural-text-to-speech-now-supports-english-india-and-hindi-32813"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Mobile
@@ -41,15 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Microsoft adds English (India), Hindi to speech service"
-    excerpt: "Microsoft India on Tuesday announced the ... Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech for a more natural interface. The service also provides ..."
-    publishedDateTime: 2020-08-26T01:18:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200826/3615913.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "cELTRi9nUcVgYmxe8Zi5EEvFakoPVwHimedvH0P8oJ3V0izpCN6e20no+j+4vnVX+hZXGGoi46gAbs4NJ/KIlv8ZBR+RVYRILT4/1NSLTbTCZvDhEz+RJ4QCwdR7vutJO06X0U2+EKbwy6Dqa1KE8oYxdkHESxOWXDK6RL1vBVYsTTzkkCw3UQDKueqRi2KVLyDWvozULeDg56dBEX/LZNJ1PaKtpapbCif1bCWj3d8poK+I6IKmCvliVsXFwuCv7IROLqmvXmCAp9THAYS8QznK3W99IzJv2t33qgr/oMLjzMI2FgMy7AftMv73tmZyGE8IgyIB6Un2ZuDGX9T8WmPi4yorlnqhQErLqz/Cy4Y=;DkeF2SINe1Vy70FbPlxVbg=="
 ---

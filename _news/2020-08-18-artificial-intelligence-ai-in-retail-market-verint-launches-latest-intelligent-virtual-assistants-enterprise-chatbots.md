@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Retail Market: Verint Launches Latest Intelligent Virtual Assistants & Enterprise Chatbots"
-excerpt: "Several retailers are persistently striving to improve their sales and customer relations with the help of artificial intelligence tools. AI-powered chatbots are being used by the retail brands to help in engaging their customers effectively."
-publishedDateTime: 2020-08-18T09:09:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-enterprise-chatbots-2020-08-18"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-enterprise-chatbots-2020-08-18"
+excerpt: "Out of these, the computer vision segment generated 23.7% AI in retail market share in 2018. The natural language processing segment holds ... speech processing, machine translation, and text parsing. Rising Investments by Reputed Companies to Favor ..."
+publishedDateTime: 2020-08-18T12:34:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/g17133151/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/g17133151/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17133151"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17133151"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "OkBBVVWozHP6WoF1Wyoz+9YLyMf/vurN40fIRF5u2FPIp2Sg/3LTASRrorl4Lk0+XHNZUQkytzhJNzaglgSLqUwM2KkWoIXOf7rumNeun0hC7ifvkkknWtEoiKQxzMCxLBsVcZH/cmzE4pwGEwyJhJC1A341I/h/8Wsd3fU0DnPMiTlWe+RXurRh4EaY2hNlh3r7pk3Iqc0Ella5JSx+wlbDBjDTmOsrcuaoTpnS/cVNYkSOu3YC8BULQm4NFsH5u6uaIRjE69JprVM9eGn5eFuN+lAsgTMDIFmk0QC66zLFx7Ncukb9ruWsIcup41bgIDQDJ2YuBoKHYkpsoSphcflE4RnMMJc9FolVj082HYE=;EVFGcKp6faOQ+z0b9Q7gtQ=="
+secured: "Mok7WH/VZQD2z128wAmjMUU304NsvKy2NCGN6IRLMG6Enxv+LvPt9enoRRwkOnRJRukY1xW0UcFLdZREPA4Gd8Ah9wvL5pk0OAkD1e2hdpNS+Wcmwg43oqvrdyq1HzQ58muVASdayZ+SDYPYPCqGCeO4MUfiqE42bmdlxeswirEb0tg1lA3JiA8bX+2H0s1uJmUezO5ehdkROo8RgmPBtxmkXu3hYSCfxELCZz5oaf3UdErZ8csHzzEuH1QklPgJEfXFAdz9+MV8hMyTpe/axY7R5uI5D6vtUYJi3ZQ8n3Wkt4FqCSlByHEHjgRfeZHX8wwdg3v39rAlhtFV+zsItwDf9Or1SO94amEWfYAqa7Bn10QofCNvDhrJf70mw5J+f+YtBSJOg0WaixvroC39QRVlZzzFmPsd3bTHinTZXdbdHARullC3Mhrcb1dQh+AHNSMRfPetCAU51Pl5LW9oF8zSxHcefO8eoVfUeS9m+uN2lu4yy9LTYjkgRX6jr1A208TKRMsrWXjgFrXIpjuDS3fskZHlyQH+N36h0mzc218=;lfpgzWZ2eDEBzJNrCdrq3g=="
 ---
 

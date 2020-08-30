@@ -40,6 +40,22 @@ related:
         width: 4208
         height: 2752
         isCached: true
+  - title: "NSF Announces MIT-Led Institute for Artificial Intelligence and Fundamental Interactions"
+    excerpt: "IAIFI will advance physics knowledge — from the smallest building blocks of nature to the largest structures in the universe — and galvanize AI research innovation. The U.S. National Science Foundatio"
+    publishedDateTime: 2020-08-30T19:56:00Z
+    webUrl: "https://scitechdaily.com/nsf-announces-mit-led-institute-for-artificial-intelligence-and-fundamental-interactions/"
+    ampWebUrl: "https://scitechdaily.com/nsf-announces-mit-led-institute-for-artificial-intelligence-and-fundamental-interactions/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/nsf-announces-mit-led-institute-for-artificial-intelligence-and-fundamental-interactions/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 48
+    images:
+      - url: "https://scitechdaily.com/images/Institute-for-Artificial-Intelligence-and-Fundamental-Interactions-777x518.jpg"
+        width: 777
+        height: 518
+        isCached: true
 
 secured: "/iN1u4RAtTnmvhqVZkBJN2NN9S9G9ME3C/r54gyjqJbzpaKK+U/pH28q7yjV8tAzXuIDB1jsGmT+UvmcjfCC4oP+Jv05AyTd0NAtbjJ/cFjqo+XGWxXz2vqcwFIFyZuVcgAxv2sVF0RkMdlVjEMPZzXVH+EAOudzQQMivktOnDvu1Ep//svbyIJaqNyGw3Uj7ogoz7OyjNuCSB0tG711RAVg2cKw9EzwDCAEMDd2/0LLZlZYVUZ8X4uw+g5Isu5KKeNZdnnKJxunvuCSFJ3a+hJ8tzr2OSZg5kYZdn41T+gw4Jta3jjC0ZLtMYhP+s/EpXPHuXrWMAer8GwqgaW+KwkyvF+fnXrpu29JFOyVH02x3Sfgxiz/62t6pFZoAwXqasXBvSVL82rL5n/+Yb9ftjAFSgCpK15K0tBiQuv+X/dAIwKT/u38wL2U1Snf4JI+HK1Cq5kNfIJQen5BQmnsPDa0XZHle1q8oG/lxoNsGPIeN6AcDIBYDpolov1v0RyOMqurY1XgFru+a/FKnrLRPg==;+tA8R/9Xmr6GjbQlxTCpPQ=="
 ---

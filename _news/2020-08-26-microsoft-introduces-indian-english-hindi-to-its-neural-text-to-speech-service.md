@@ -41,15 +41,6 @@ related:
         width: 735
         height: 425
         isCached: true
-  - title: "Microsoft adds English (India), Hindi to speech service"
-    excerpt: "Microsoft India on Tuesday announced the ... Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech for a more natural interface. The service also provides ..."
-    publishedDateTime: 2020-08-26T01:18:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200826/3615913.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "8e6MGIPxDJV5ZMtXcEp3XJSTWVcQNlW9+ix94MBSZYkDyOD5ymZ/VwxGr9H0Jif9eUCVITYYZ0CY98lI79p0+/4zLKvQRmzHG0expW2plYyMziwCYOmFSmnYYixFCcbBTGgq+hGNL6O4oR+JNcr49G90WMxP053OcuP1cHIrDGYEL2G3Pf4iv2hCaDjo/VwN3WI40enJn2piIsMvLAnLpWtD/nzokerQPZGUPcLt79PMfubjXh0HplpTcFWLeoBng/g5Ylq2nRU6V+60O0Kxc+rQhqfKPgGMvC5ikvxK0fgMRDkbkmhQ4dnJHHq5eGO5G4FYbdNolLLh0g6mhY5/yq23M/bju2DmgahNzN7TPDJsFIybXNRHbpUwzn5m3brRUOZ76z1is4MXZCMyPAyLf7lCdnrTNVxDyYVuIZTzTNtrsjZlNRxy1yiDH/JakLisANAQ1p1VUinUCfsirZuyVXdwb12bsDOxaowOGUy1plgdcUxffpmXCfPK7WlFBC2M0UxY90mPBU1S3Q/D9+lhfcr/2/PgzDvISVIpC2QEYYQ=;JIuAO5yFjDsRgclH1EYMsg=="
 ---
