@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/immersive-reader-for-azure-cognitive-serv
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/immersive-reader-for-azure-cognitive-services-is-now-generally-available/"
 type: article
 quality: 118
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Azure’s Immersive Reader is now generally available"
-    excerpt: "Microsoft today announced that Immersive Reader, its service for developers who want to add text-to-speech and reading comprehension tools to their applications, is now generally available. Immersive Reader,"
-    publishedDateTime: 2020-08-25T15:23:00Z
-    webUrl: "https://techcrunch.com/2020/08/25/azures-immersive-reader-is-now-generally-available/"
-    ampWebUrl: "https://techcrunch.com/2020/08/25/azures-immersive-reader-is-now-generally-available/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/25/azures-immersive-reader-is-now-generally-available/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/Annotation-2020-08-25-074318.jpg?w=1024"
-        width: 1024
-        height: 525
-        isCached: true
   - title: "Microsoft’s Immersive Reader for Azure Cognitive Services Is Now Available"
     excerpt: "Immersive Reader is now generally available for Azure Cognitive Services following a significant increase in usage of the preview."
     publishedDateTime: 2020-08-26T15:11:00Z

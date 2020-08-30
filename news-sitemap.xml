@@ -19,12 +19,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/lexinfintech-wins-the-asian-banker-award-for-best-ai-and-innovation-lab-in-china-2020-08-29</loc>
-    <lastmod>2020-08-29T08:56:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/</loc>
     <lastmod>2020-08-29T08:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -109,6 +103,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://thenextweb.com/neural/2020/08/28/google-says-its-going-to-sell-ethics-advice-to-ai-companies/</loc>
+    <lastmod>2020-08-28T11:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/</loc>
     <lastmod>2020-08-28T09:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -141,12 +141,6 @@
   <url>
     <loc>https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28</loc>
     <lastmod>2020-08-28T06:47:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://healthitanalytics.com/news/upenn-researchers-to-develop-healthcare-artificial-intelligence-iot</loc>
-    <lastmod>2020-08-28T06:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -487,6 +481,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/</loc>
+    <lastmod>2020-08-26T04:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/</loc>
     <lastmod>2020-08-26T04:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -523,6 +523,18 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.business-standard.com/article/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html</loc>
+    <lastmod>2020-08-25T17:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
+    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/</loc>
     <lastmod>2020-08-25T16:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -531,12 +543,6 @@
   <url>
     <loc>https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/</loc>
     <lastmod>2020-08-25T15:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/</loc>
-    <lastmod>2020-08-25T13:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1327,14 +1333,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539</loc>
-    <lastmod>2020-08-20T08:44:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/</loc>
+    <lastmod>2020-08-20T08:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/</loc>
-    <lastmod>2020-08-20T08:29:00-07:00</lastmod>
+    <loc>https://apnews.com/23c39c6175e11f35b0cb61b0b2eded76</loc>
+    <lastmod>2020-08-20T08:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1897,12 +1903,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
-    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1935,6 +1935,12 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
+    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

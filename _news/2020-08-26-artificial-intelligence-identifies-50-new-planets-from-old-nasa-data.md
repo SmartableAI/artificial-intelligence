@@ -9,7 +9,7 @@ ampWebUrl: "https://tucson.com/news/science/artificial-intelligence-identifies-5
 cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.amp.html"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI confirms 50 new planets from old NASA data, in a groundbreaking first"
-    excerpt: "Our planet-hunting telescopes have gotten so good at their jobs that they've located thousands of possible planets outside our solar system. That means scientists have to sift through a whole lot of data to figure out what's a real planet and what's a pretender."
-    publishedDateTime: 2020-08-25T16:44:00Z
-    webUrl: "https://www.cnet.com/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/8HHagEPsLQzwF1q7G9siIMXAc6s=/2016/05/10/bfd48cb5-88e5-466a-9605-bf374f2a6abf/keplerall-planetsmay2016.jpg"
-        width: 985
-        height: 670
-        isCached: true
   - title: "Breakthrough AI identifies 50 new planets from old NASA data"
     excerpt: "British researchers have identified 50 new planets using artificial intelligence, marking a technological breakthrough in astronomy. Astronomers and computer scientists from the University of Warwick built a machine learning algorithm to dig through old NASA data containing thousands of potential planet candidates."
     publishedDateTime: 2020-08-26T05:36:00Z

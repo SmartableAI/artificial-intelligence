@@ -2,55 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-08-27-moveai-enables-ai-motion-capture-without-the-hassle-for-video-game-production.md",
-      "title": "Move.ai enables AI motion capture without the hassle for video game production",
-      "excerpt": "Move.ai can use artificial intelligence to capture a 3D representation of an actor in a process known as markerless motion capture.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/",
-      "originalUrl": "https://venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/move.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/amp/",
-      "publishedDateTime": "2020-08-27T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-27-amazon-launches-an-ai-powered-health-and-wellness-band-called-halo.md",
       "title": "Amazon Launches an AI-Powered Health and Wellness Band Called Halo",
       "excerpt": "Amazon has today signaled its intention to grab a share of the fitness tracker market by introducing Amazon Halo —a health and wellness band combined with a \"suite of AI-powered health features\" accessed via the Halo app on Android or iOS.",
@@ -1163,6 +1114,55 @@
         "AI",
         "Natural Language Processing",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review.md",
+      "title": "YouTube removes record number of videos after increasing role of AI in content review",
+      "excerpt": "YouTube says it took down a record number of videos in the second quarter of this year due to an increased use of AI in its content review efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/",
+      "originalUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/",
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-26T144504.451-1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/amp/",
+      "publishedDateTime": "2020-08-26T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

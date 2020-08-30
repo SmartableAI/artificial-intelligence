@@ -2,6 +2,56 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-08-13-self-driving-car-only-lanes-theyre-coming-to-an-autonomous-corridor-in-michigan.md",
+      "title": "Self-driving car only lanes? They're coming to an autonomous corridor in Michigan",
+      "excerpt": "A new public-private endeavor will see a 40-mile stretch between Detroit and Ann Arbor outfitted with dedicated lanes for autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-testing-corridor-michigan/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/pyA2_TM6Fs4pmxfGmoqdJ8VB4CQ=/2020/08/13/a6bcbd61-7c5f-4689-a52e-368b207be16d/ogi-car.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-testing-corridor-michigan/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-testing-corridor-michigan/",
+      "publishedDateTime": "2020-08-13T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots.md",
       "title": "AI researchers devise cheap data collection method to scale training robots",
       "excerpt": "Researchers used a GoPro camera and a reacher-grabber device to gather robotic training data, a cheap approach that could someday improve home robots.",
@@ -1081,55 +1131,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-does-ai-make-more-reliable-financial-recommendations-than-humans.md",
-      "title": "Does AI Make More Reliable Financial Recommendations Than Humans?",
-      "excerpt": "As beneficial as AI can be, companies in financial services need to keep one very important reality in mind: Consumers don’t trust it (yet).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/08/13/does-ai-make-more-reliable-financial-recommendations-than-humans/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33f49bdfe8e086727f8d48%2F0x0.jpg",
-          "width": 1200,
-          "height": 886,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/08/13/does-ai-make-more-reliable-financial-recommendations-than-humans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/08/13/does-ai-make-more-reliable-financial-recommendations-than-humans/amp/",
-      "publishedDateTime": "2020-08-13T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -35,6 +35,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "PROS Recognized for Artificial Intelligence Innovation in SalesTech with 2020 AI Breakthrough Award"
+    excerpt: "PROS® (NYSE: PRO), a provider of AI-powered solutions that optimize selling in the digital economy, today announced that it has been selected as the"
+    publishedDateTime: 2020-08-29T16:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/pros-recognized-for-artificial-intelligence-innovation-in-salestech-with-2020-ai-breakthrough-award-2020-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Matterport Recognized for Innovative Use of 3D Technology with 2020 Artificial Intelligence Breakthrough Award"
     excerpt: "Matterport's Cortex AI is a deep learning neural network that creates the 3D digital twins and automates many of the things normally performed manually. It stitches the high-fidelity 2D imagery captured by the Matterport Pro2 camera to construct the space in 3D,"
     publishedDateTime: 2020-08-26T13:47:00Z

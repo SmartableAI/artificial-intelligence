@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI confirms 50 new planets from old NASA data, in a groundbreaking first"
-    excerpt: "Our planet-hunting telescopes have gotten so good at their jobs that they've located thousands of possible planets outside our solar system. That means scientists have to sift through a whole lot of data to figure out what's a real planet and what's a pretender."
-    publishedDateTime: 2020-08-25T16:44:00Z
-    webUrl: "https://www.cnet.com/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/8HHagEPsLQzwF1q7G9siIMXAc6s=/2016/05/10/bfd48cb5-88e5-466a-9605-bf374f2a6abf/keplerall-planetsmay2016.jpg"
-        width: 985
-        height: 670
-        isCached: true
   - title: "Artificial intelligence identifies 50 new planets from old NASA data"
     excerpt: "Researchers have identified 50 new planets using artificial intelligence, marking a technological breakthrough in astronomy."
     publishedDateTime: 2020-08-26T16:30:00Z

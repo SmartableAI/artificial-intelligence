@@ -9,7 +9,7 @@ ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN25M1TH"
 cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN25M1TH"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       - url: "https://static.timesofisrael.com/blogs/uploads/2020/08/AV-Testing.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Volkswagen to launch road test for self-driving vehicles in east China"
+    excerpt: "German carmaker Volkswagen will pilot its autonomous-driving travel service in China as the first license plate for road tests was issued to the company on Wednesday (Aug 26)."
+    publishedDateTime: 2020-08-27T07:36:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2020/08/27/volkswagen-to-launch-road-test-for-self-driving-vehicles-in-east-china"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/08/27/835729.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "rrrr/7vzFn//5k01tgODthZ4oxmoTidlIO7nvWPYoNrJmd6wx8m7MYnd7gwIkS0oc4R41m6nEEJqmDZPNPm/IJ/vT0e9PTdkd8MxOVX+mhUAVUniZf6oZwEi4duatef1qXI/3u06VTyH5U6TrD4jaKd8Ac/2wG6wFEfcNmDRzUX7j6Z2D/7eZ1KCzdW+Z6Mln17Vg/dqQJwVvrvhVBNRy3wfDDbMh/RiSmvvZ6XunO9bY7O3rbzEsMcOq3kYYRpUQyJpL7dOduG2zsXNxZNfbaNcZ92yvAPflh3DFnvOQvM0ODC2ja/8Qk7vVj+DYPJaCFJX5/BazfF/FnhcL0g9tXq3QFhkMP0oljLqdSe35c0M6RXOAknPGLIE5X0croYZ24JZLNP9iwIilT2uzBXRADC+6b0yLmDjFuda4UpPTNhDihmKz+KRRSI5/haj7s/D8q3Mp9/2WJxspJ2s4/JPtlTiA8RWEmclra1fSrxdI0xISMczqr0f4lhXRShrCHfb/Iq5msE5CeQI08kYP+v3ZPlT2PJ+GnS6J3xir+lL85o=;KBejb0BVdoipKecXgPAOUg=="

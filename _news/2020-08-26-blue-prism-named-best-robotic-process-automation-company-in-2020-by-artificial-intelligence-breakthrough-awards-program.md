@@ -35,6 +35,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "PROS Recognized for Artificial Intelligence Innovation in SalesTech with 2020 AI Breakthrough Award"
+    excerpt: "PROS® (NYSE: PRO), a provider of AI-powered solutions that optimize selling in the digital economy, today announced that it has been selected as the"
+    publishedDateTime: 2020-08-29T16:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/pros-recognized-for-artificial-intelligence-innovation-in-salestech-with-2020-ai-breakthrough-award-2020-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Liqid Wins 2020 Artificial Intelligence Breakthrough Award"
     excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market today, today announced that Liqid,"
     publishedDateTime: 2020-08-26T15:43:00Z

@@ -2,6 +2,56 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-08-20-ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones.md",
+      "title": "iFarm Raises $4 million to automate urban farming with AI and drones",
+      "excerpt": "Farm has raised $4 million to expand its automated system that uses AI and drones to help farmers grow fruits and vegetables in enclosed spaces.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/iFarm_1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones/amp/",
+      "publishedDateTime": "2020-08-20T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-google-pixel-buds-tap-ai-to-alert-users-to-sirens-crying-babies-and-barking-dogs.md",
       "title": "Google Pixel Buds tap AI to alert users to sirens, crying babies, and barking dogs",
       "excerpt": "Google Pixel Buds are getting an experimental feature that uses AI to alert users to the sound of a crying baby, siren, or barking dog.",
@@ -1133,56 +1183,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-facebook-ai-produces-accurate-mri-images-4-times-faster-than-current-tech.md",
-      "title": "Facebook AI produces accurate MRI images 4 times faster than current tech",
-      "excerpt": "A newly published study has validated the efficacy of a novel AI algorithm designed to deliver accurate MRI results from four times less data than usually necessary. This impressive innovation promises to dramatically speed up MRI scans without needing to upgrade pre-existing imaging hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/",
-      "originalUrl": "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/",
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/f12774f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb4%2Fad%2F3947852d441a973d02e8759be072%2Fdepositphotos-10642890-l-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/?amp=true",
-      "publishedDateTime": "2020-08-19T18:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

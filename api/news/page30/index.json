@@ -2,6 +2,56 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-08-04-why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online.md",
+      "title": "Why we need more image masking tools to avoid facial recognition systems from identifying us online",
+      "excerpt": "For the past couple of weeks, a new tool to save your photos from facial recognition algorithms has been doing rounds. The tool, called Fawkes, is developed by researchers at the University of ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/amp/",
+      "publishedDateTime": "2020-08-04T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-for-robots-its-a-time-to-shine-and-maybe-disinfect.md",
       "title": "For Robots, It’s a Time to Shine (and Maybe Disinfect)",
       "excerpt": "The pandemic has turned cleaning and other mundane building tasks into a challenge, stoking interest in machines as cost-effective solutions.",
@@ -1054,38 +1104,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-the-ethics-of-using-chatbots-for-legal-services.md",
-      "title": "The Ethics Of Using Chatbots For Legal Services",
-      "excerpt": "Delegating legal work to robots involves several risks, including running afoul of statutes dictating unauthorized practice of law, but with the right precautions, law firms can lawfully employ artificially intelligent chatbots that can imitate human conversations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.law360.com/articles/1296973/the-ethics-of-using-chatbots-for-legal-services",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1296973",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1296973",
-      "publishedDateTime": "2020-08-03T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -61,29 +61,6 @@ related:
         width: 1344
         height: 742
         isCached: true
-  - title: "Fifty new planets confirmed in machine learning first"
-    excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by University of Warwick scientists. For the first time, astronomers have used a process based on machine learning,"
-    publishedDateTime: 2020-08-25T16:28:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/08/200825110610.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-  - title: "Fifty New Alien Worlds Discovered with a 'Machine Learning' Algorithm"
-    excerpt: "For the first time, astronomers have used an algorithm based on machine learning, a form of artificial intelligence, to confirm the existence of 50 new exoplanets."
-    publishedDateTime: 2020-08-25T15:55:00Z
-    webUrl: "https://www.wkyc.com/video/tech/science/amaze-lab/fifty-new-alien-worlds-discovered-with-a-machine-learning-algorithm/609-55b37d6a-9ab1-4e35-aa1a-b8d23f3a1609"
-    type: article
-    provider:
-      name: WKYC3
-      domain: wkyc.com
-    quality: 39
-    images:
-      - url: "https://media.wkyc.com/assets/AMAZELABS/images/ec8ddc9b-46bd-4ea3-baf0-0f3267ab834d/ec8ddc9b-46bd-4ea3-baf0-0f3267ab834d_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "New machine learning algorithm, in a first, confirms 50 new planets"
     excerpt: "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by the University of Warwick scientists. For the first time, astronomers have used a process based on machine learning,"
     publishedDateTime: 2020-08-26T04:33:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Self-Driving Car Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
 excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
 publishedDateTime: 2020-08-28T16:42:00Z
-originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28?mod=mw_quote_news"
-webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28?mod=mw_quote_news"
+originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28"
+webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28"
 type: article
 quality: 39
 heat: -1
@@ -64,6 +64,6 @@ related:
       domain: marketwatch.com
     quality: 0
 
-secured: "ogpSAH1hIty656EQxVMMO5GUHUvL4EYS4fwqCgb4wBYm+u8g8S7uLRTLZ7EnDJ0xU+KzGTN4AJ5s8FaWczlfmBJY0ct8DEPlrLkRLeExAaDWn9SvtQWPTfVLj6XTG0P+iNsyTbL60r34CILLcNG+xGU45B7XpKhM8DnspLmLtSC7Ly1FrwIEjQsOPxdKLRGwbEUolRzMRsIWJjaW7LcIARXchf/bj+wDV0IGFqhpcam4DPbgMeMIFhHbX/dfU2wc6QkE/av8w0ST5GxRcDgNwwYiz+3gu6e8kklnnfzNl6TJFWqeLB4+GWPwiBehhWSO2rdHDnsvcRnQ0Yaz5NQbKMAMRbWMuRAssjyVNFr52z0=;HZDe3okdALzF24CxBza4+A=="
+secured: "bmTJKsJRuL18Qp2JygGHeKlet5DBQipfDw9GXoUrmROhQQ1pb3lQFNpTLmW4OmDJ2ewt2qFkjDvAlNu0FfTyGxuq/Pw+9oEwS9vWix7dz6ltY9KSelMSPaI6i4V2pMhS1KSUMJj28Rd/Cf5Y5sZlqzpTXWu7B21hH8zgMKyMXrWn4iFeTAbj7GS/r7kP0NZGEy182XERLR0Z1EVTKEoazlnL7lFgv5PBzosAimhfc/6BCRp9ulEw1uGRC36aUAftBc+LOXLYlsKI5dmTOP7pGrJ/yz0eOWIgwoZ725KXxQz1tUs3SB+attt9N0cShdJQDZVpsZw77s5WYrNYrH2hZM5P6aPYjfWR2RNMphJ+j4k=;S+8XFshDkCwYzsF85cQLyA=="
 ---
 

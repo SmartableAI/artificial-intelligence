@@ -2,6 +2,46 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-25-naic-adopts-artificial-intelligence-principles.md",
+      "title": "NAIC Adopts Artificial Intelligence Principles",
+      "excerpt": "Members of the National Association of Insurance Commissioners (NAIC) have agreed unanimously to adopt an Artificial Intelligence Guiding Principles. The NAIC’s AI Working Group based the document on a set of AI principles developed by the Organisation for Economic Co-operation and Development (OECD).",
+      "sourceUrl": null,
+      "webUrl": "https://www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/",
+      "originalUrl": "https://www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/",
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2020/02/2019-10-30-tech-chess_Thinkstock_MI.jpg",
+          "width": 616,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/?amp=1",
+      "cdnAmpWebUrl": "https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/?amp=1",
+      "publishedDateTime": "2020-08-25T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Think Advisor",
+        "domain": "thinkadvisor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-waymo-self-driving-trucks-hit-the-road-in-texas.md",
       "title": "Waymo self-driving trucks hit the road in Texas",
       "excerpt": "After deploying its autonomous Chrysler Pacifica prototypes to map roads, Waymo has sent its trucks to Texas interstates.",
@@ -1120,56 +1160,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service.md",
-      "title": "Microsoft introduces 15 new languages to its Neural Text-to-Speech service",
-      "excerpt": "Microsoft has announced the addition of 15 new languages to its Neural Text to Speech (Neural TTS) service language set. Neural TTS is a part of Microsoft's Azure Cognitive Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service",
-      "originalUrl": "https://www.neowin.net/news/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service",
-      "featuredContent": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1585909473_microsoft_6_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service/",
-      "publishedDateTime": "2020-08-25T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

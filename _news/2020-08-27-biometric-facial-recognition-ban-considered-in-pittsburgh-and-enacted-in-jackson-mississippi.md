@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202008/biometric-facial-recognitio
 webUrl: "https://www.biometricupdate.com/202008/biometric-facial-recognition-ban-considered-in-pittsburgh-and-enacted-in-jackson-mississippi"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1600
     height: 1035
     isCached: true
-
-related:
-  - title: "Pittsburgh City Council introduces police facial recognition, predictive policing ban"
-    excerpt: "The Pittsburgh Police have been under some intense criticism as of late for their recent arrest of a protest marshal using an unmarked van"
-    publishedDateTime: 2020-08-25T16:03:00Z
-    webUrl: "https://www.pghcitypaper.com/pittsburgh/pittsburgh-city-council-introduces-police-facial-recognition-predictive-policing-ban/Content?oid=17879052"
-    ampWebUrl: "https://www.pghcitypaper.com/pittsburgh/pittsburgh-city-council-introduces-police-facial-recognition-predictive-policing-ban/Content?oid=17879052&media=AMP+HTML"
-    cdnAmpWebUrl: "https://www-pghcitypaper-com.cdn.ampproject.org/c/s/www.pghcitypaper.com/pittsburgh/pittsburgh-city-council-introduces-police-facial-recognition-predictive-policing-ban/Content?oid=17879052&media=AMP+HTML"
-    type: article
-    provider:
-      name: Pittsburgh City Paper
-      domain: pghcitypaper.com
-    quality: 52
-    images:
-      - url: "https://media1.fdncms.com/pittsburgh/imager/u/original/17879057/facial-recognition-technology-policing.jpg"
-        width: 700
-        height: 392
-        isCached: true
 
 secured: "wPSnrx5SMbLV3KfFpiSyU5XmxgvpqfFRngXk+xSirnUCkIuhhX8c9qyKSFd161oRRPeDyhU4v9+NXKVJA5SrHTvv+idoDSpHPFp/n4dJZott6IvdGSHHMjM3ty/cqgSJ2azcC2aFYUUqvzwJqLM3dpBMpcQZY1hB1vrK6fCRi1yW9AsZWKTPNpRZWWsIFm3j/VZ98JyPYcpFuoXuTe4mUnQPT3zLYVO6jJyJVpMFKzdBkqq3CeFHEYw9vl/fNtG7F88oBhsGNaufuV4ka9rlqzssEMT9y0MmrACYBwzSjU5m+4iGcc4c1pj858Hhm0hNojRnk59Jt6bat/sQ7r06JWIs2VOhjJUtsac+/XXIyh8=;F0aJ5Vt0PjPE/EFrG6h7rw=="
 ---

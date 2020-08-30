@@ -2,55 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-08-26-youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review.md",
-      "title": "YouTube removes record number of videos after increasing role of AI in content review",
-      "excerpt": "YouTube says it took down a record number of videos in the second quarter of this year due to an increased use of AI in its content review efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/",
-      "originalUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/",
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-26T144504.451-1-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/amp/",
-      "publishedDateTime": "2020-08-26T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-26-volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei.md",
       "title": "Volkswagen to test autonomous vehicles in Chinese city Hefei",
       "excerpt": "Volkswagen AG said on Wednesday it will start testing autonomous vehicles in China's eastern city of Hefei, its first in the world's biggest car market.",
@@ -58,7 +9,7 @@
       "webUrl": "https://uk.reuters.com/article/uk-volkswagen-autonomous/volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei-idUKKBN25M1QZ",
       "originalUrl": "https://uk.reuters.com/article/uk-volkswagen-autonomous/volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei-idUKKBN25M1QZ",
       "featuredContent": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -158,7 +109,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
       "featuredContent": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": null,
       "type": "article",
@@ -287,6 +238,56 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services.md",
+      "title": "Microsoft Word: How the new transcription feature works and how it compares to other services",
+      "excerpt": "Word can now turn a conversation or meeting into text ready to use in a document, but that might not come to desktop Word for a while.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
+      "featuredContent": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/08/26/6edd296a-482a-40b9-837f-6715b2869887/resize/400x/5cfb2e68f8e346a2d980b56f4a756443/word-transcribe-desktop.jpg",
+          "width": 400,
+          "height": 521,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
+      "publishedDateTime": "2020-08-26T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -588,6 +589,97 @@
       ]
     },
     {
+      "path": "_news/2020-08-26-microsoft-adds-english-india-hindi-to-speech-service-neural-tts.md",
+      "title": "Microsoft adds English (India), Hindi to speech service Neural TTS",
+      "excerpt": "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-12/07/full/1512590019-7173.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html",
+      "publishedDateTime": "2020-08-25T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely.md",
+      "title": "COVID 19 Update: Global Healthcare Artificial Intelligence Market Stocks Gain, Rises Immensely",
+      "excerpt": "The global healthcare artificial intelligence market 2020 is scoring in small-leaps. Its shares have surged, which is a sign that the market’s size is widening after months of leadership by big technology companies after less impact of Coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T17:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-coronavirus-may-help-best-buy-become-a-key-healthcare-player.md",
       "title": "Coronavirus May Help Best Buy Become A Key Healthcare Player",
       "excerpt": "Best Buy reported a better-than-expected second-quarter profit as coronavirus led consumers to buy appliances, computers and fitness gear to better their remote working and learning experiences. But the pandemic may also hasten its transition to becoming a major healthcare-industry player.",
@@ -690,47 +782,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-25-microsoft-word-to-take-voice-commands-transcribe-recordings.md",
-      "title": "Microsoft Word To Take Voice Commands, Transcribe Recordings",
-      "excerpt": "Microsoft said that updates to Office 365 will allow users to record conversations \"directly in Word for the web and transcribe them automatically.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/",
-      "originalUrl": "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/08/microsoft-word-voice-commands-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/",
-      "publishedDateTime": "2020-08-25T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-25-researchers-ai-can-perform-3d-motion-capture-with-any-off-the-shelf-camera.md",
       "title": "Researchers’ AI can perform 3D motion capture with any off-the-shelf camera",
       "excerpt": "In a paper, researchers at the Max Planck Institute and Facebook Reality Labs describe an AI-powered motion capture system that works with any camera.",
@@ -787,7 +838,7 @@
       "webUrl": "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/",
       "originalUrl": "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/",
       "featuredContent": null,
-      "heat": 159,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -985,7 +1036,7 @@
       "webUrl": "https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available",
       "originalUrl": "https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available",
       "featuredContent": null,
-      "heat": 148,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1164,46 +1215,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-naic-adopts-artificial-intelligence-principles.md",
-      "title": "NAIC Adopts Artificial Intelligence Principles",
-      "excerpt": "Members of the National Association of Insurance Commissioners (NAIC) have agreed unanimously to adopt an Artificial Intelligence Guiding Principles. The NAIC’s AI Working Group based the document on a set of AI principles developed by the Organisation for Economic Co-operation and Development (OECD).",
-      "sourceUrl": null,
-      "webUrl": "https://www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/",
-      "originalUrl": "https://www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/",
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2020/02/2019-10-30-tech-chess_Thinkstock_MI.jpg",
-          "width": 616,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/?amp=1",
-      "cdnAmpWebUrl": "https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/?amp=1",
-      "publishedDateTime": "2020-08-25T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Think Advisor",
-        "domain": "thinkadvisor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

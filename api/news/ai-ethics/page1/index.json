@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-28-google-says-its-going-to-sell-ethics-advice-to-ai-companies.md",
+      "title": "Google says it’s going to sell ethics advice to AI companies",
+      "excerpt": "Google‘s working on a service that would provide ethics consulting for companies building AI solutions. According to a report from Wired, the company is considering launching this ethics consultancy service by the end of the year.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/28/google-says-its-going-to-sell-ethics-advice-to-ai-companies/",
+      "originalUrl": "https://thenextweb.com/neural/2020/08/28/google-says-its-going-to-sell-ethics-advice-to-ai-companies/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-28T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-google-offers-to-help-others-with-the-tricky-ethics-of-ai.md",
       "title": "Google Offers to Help Others With the Tricky Ethics of AI",
       "excerpt": "After learning its own ethics lessons the hard way, the tech giant will offer services like spotting racial bias or developing guidelines around AI projects.",
@@ -1347,57 +1388,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-the-panopticon-is-already-here.md",
-      "title": "The Panopticon Is Already Here",
-      "excerpt": "Xi Jinping is using artificial intelligence to enhance his government’s totalitarian control—and he’s exporting this technology to regimes around the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/KYuGtZFZ7v1t8Z0xCkj1QB6zF-M=/570x320/media/img/2020/07/WEL_Andersen_ChinaOpener/original.gif",
-          "width": 570,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/614197/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/614197/",
-      "publishedDateTime": "2020-07-30T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

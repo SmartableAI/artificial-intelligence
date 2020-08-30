@@ -25,77 +25,109 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo self-driving trucks hit the road in Texas"
-    excerpt: "After deploying its autonomous Chrysler Pacifica prototypes to map roads, Waymo has sent its trucks to Texas interstates."
-    publishedDateTime: 2020-08-25T16:56:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/waymo-self-driving-trucks-texas/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-trucks-texas/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-trucks-texas/"
+  - title: "Volkswagen to test autonomous vehicles in Chinese city Hefei"
+    excerpt: "Volkswagen AG said on Wednesday it will start testing autonomous vehicles in China's eastern city of Hefei, its first in the world's biggest car market."
+    publishedDateTime: 2020-08-26T14:21:00Z
+    webUrl: "https://uk.reuters.com/article/uk-volkswagen-autonomous/volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei-idUKKBN25M1QZ"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN25M1TH"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN25M1TH"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
+      name: Reuters
+      domain: reuters.com
+    quality: 74
     images:
-      - url: "https://cnet2.cbsistatic.com/img/5wSlvlns80O2HBjERxttfvennYQ=/2020/08/25/eda611e2-7365-4317-b88e-79282708064a/ogi-waymo.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200826&t=2&i=1531082208&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7P16L"
+        width: 877
+        height: 545
         isCached: true
-  - title: "Waymo autonomous trucks begin Texas testing"
-    excerpt: "The self-driving technology company will pilot Peterbilt 579 trucks on runs from Dallas to El Paso and Houston."
-    publishedDateTime: 2020-08-26T14:25:00Z
-    webUrl: "https://www.fleetowner.com/equipment/article/21140213/waymo-autonomous-trucks-begin-texas-testing"
+  - title: "Volkswagen to roll out fleet of self-driving test cars"
+    excerpt: "Volkswagen plans to roll out its first fleet of self-driving test cars in Hefei, an eastern Chinese city that’s emerging as a hot spot for the nation’s electric vehicle ambitions. Ten Audi e-trons, VW’s premium electric SUV model,"
+    publishedDateTime: 2020-08-26T15:06:00Z
+    webUrl: "https://www.irishtimes.com/business/transport-and-tourism/volkswagen-to-roll-out-fleet-of-self-driving-test-cars-1.4339368"
+    ampWebUrl: "https://www.irishtimes.com/business/transport-and-tourism/volkswagen-to-roll-out-fleet-of-self-driving-test-cars-1.4339368"
+    cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/transport-and-tourism/volkswagen-to-roll-out-fleet-of-self-driving-test-cars-1.4339368"
     type: article
     provider:
-      name: Fleet Owner
-      domain: fleetowner.com
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 44
+    images:
+      - url: "https://www.irishtimes.com/polopoly_fs/1.4339367.1598453305!/image/image.jpg"
+        width: 585
+        height: 329
+        isCached: true
+  - title: "Volkswagen to test self-driving vehicles in China"
+    excerpt: "Volkswagen AG said on Wednesday it will start testing autonomous vehicles in China's eastern city of Hefei, its first in the world's biggest car market."
+    publishedDateTime: 2020-08-26T17:50:00Z
+    webUrl: "https://www.thedailystar.net/toggle/news/volkswagen-test-self-driving-vehicles-china-1951317"
+    ampWebUrl: "https://www.thedailystar.net/toggle/news/volkswagen-test-self-driving-vehicles-china-1951317?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/volkswagen-test-self-driving-vehicles-china-1951317?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 44
+    images:
+      - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/julian-hochgesang-onocoyji-_y-unsplash.jpg?itok=YaEEsULp"
+        width: 560
+        height: 292
+        isCached: true
+  - title: "VW to Start Its First Driverless Car Tests in China Hefei Next Month"
+    excerpt: "German auto giant Volkswagen will begin road testing self-driving cars in VW's first such pilot in the globe's largest car market to run eventual travel services in Hefei in East China from next month,"
+    publishedDateTime: 2020-08-27T08:26:00Z
+    webUrl: "https://www.yicaiglobal.com/news/vw-to-start-its-first-driverless-car-tests-in-china-hefei-next-month"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
     quality: 39
     images:
-      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2020/08/waymo_truck_brick_building.5f466a38d84e8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
+      - url: "http://img.yicaiglobal.com/cdn/news/vw-to-start-its-first-driverless-car-tests-in-china-hefei-next-month/7504799012749312.jpg"
+        width: 720
+        height: 480
         isCached: true
-  - title: "Darrell Berkheimer: Driverless trucks on the roads in 2021"
-    excerpt: "Some of you may have watched an episode of CBS 60 Minutes this past Sunday evening about the expectation that one or more fleets of driverless trucks will be"
-    publishedDateTime: 2020-08-28T21:32:00Z
-    webUrl: "https://www.theunion.com/opinion/columns/darrell-berkheimer-driverless-trucks-on-the-roads-in-2021/"
+  - title: "Audi self-driving vehicles to be tested in China’s newest EV hub"
+    excerpt: "Volkswagen Group plans to roll out its first fleet of self-driving test cars in Hefei, an eastern Chinese city that’s emerging as a hot spot for the nation’s electric vehicle ambitions. Ten Audi e-trons,"
+    publishedDateTime: 2020-08-26T19:28:00Z
+    webUrl: "https://europe.autonews.com/automakers/audi-self-driving-vehicles-be-tested-chinas-newest-ev-hub"
     type: article
     provider:
-      name: The Union
-      domain: theunion.com
-    quality: 39
-    images:
-      - url: "https://cdn.theunion.com/wp-content/uploads/sites/3/2020/08/BerkheimerDarrell-GVU-mugx-1-819x1024.jpg"
-        width: 819
-        height: 1024
-        isCached: true
-  - title: "DeepRoute Dedicated to Self-Driving Tech"
-    excerpt: "Nianqiu Liu, Vice President of DeepRoute, talked with Editor Bill Wong about the company’s advanced technology and what’s trending in the autonomous-vehicle industry."
-    publishedDateTime: 2020-08-26T19:58:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21140289/deeproute-dedicated-to-selfdriving-tech"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
+      name: Automotive News
+      domain: autonews.com
     quality: 24
     images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/08/Self_drivingCar_promo.5f46b8c1254ed.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Self-driving tech supplier Aurora plays the field"
-    excerpt: "For Aurora Innovation, independence is the name of the game. The self-driving tech company has resisted efforts over the years to tie itself too closely to any one auto maker partner. That's an unusual strategy in an industry where others are eager to establish partnerships and joint ventures to help defray the mammoth costs needed to make progress in autonomous driving."
-    publishedDateTime: 2020-08-27T14:00:00Z
-    webUrl: "https://www.rubbernews.com/automotive/self-driving-tech-supplier-aurora-plays-field"
-    type: article
-    provider:
-      name: Rubber and Plastics News
-      domain: rubbernews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Chris%20Urmson_i.jpg"
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20China-MAIN.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "VW to test self-driving vehicles in China’s newest EV hub"
+    excerpt: "Volkswagen Group plans to roll out its first fleet of self-driving test cars in Hefei, an eastern Chinese city that’s emerging as a hot spot for the nation’s electric vehicle ambitions. Ten Audi E-trons,"
+    publishedDateTime: 2020-08-26T14:50:00Z
+    webUrl: "https://www.autonews.com/china/vw-test-self-driving-vehicles-chinas-newest-ev-hub"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Audi%20China-MAIN.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Israel Leads Cybersecurity Response to Autonomous Vehicle Threats"
+    excerpt: "Given that Israel has produced a flurry of self-driving car start-ups, and that Israeli tech firms have teamed up with the world’s biggest car manufacturers to lead the self-driving revolution, the solutions to this threat may be – not wholly unexpectedly – homegrown ones."
+    publishedDateTime: 2020-08-27T17:48:00Z
+    webUrl: "https://blogs.timesofisrael.com/israel-leads-cybersecurity-response-to-autonomous-vehicle-threats/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 24
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/2020/08/AV-Testing.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "+JXlKcxUYDEdgyCLicXMACgpYZY2PLMKjsLslBLqZZl7eSlbiAiOjM6dckZiDoivZHZMvyDcJBaYLPWqd6Zzi4TzBbRNetRasDoa9IOz4eoT0NXwozi0QXWLSdd+gtNUgcm3CnPCn075w/zGuu9GOIBJbNyCXx88nVlg0SC8txBqOy5wEv9RC/L5Teb3u/j7QLFsVGHVVdjUQ0F2uvRSPhegxw9ex+Zqcw3Ga1bSLtZIRXntI6Y/VjiMBEm1/lmWR1UiDRU+qM8bMtHGspnIkWVnacdYuXKD4SLU3JUNuRG1nWDMIBBkMN5bmQoS2asSINFHMxfTCeh8cvwxQQyyESPwQ7WvNm0bYzOZF/zUCYY=;om7ah2UT0yYpsR11p7tO/g=="

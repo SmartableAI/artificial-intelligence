@@ -1,48 +1,24 @@
 ---
 category: news
 title: "LexinFintech Wins The Asian Banker Award for Best AI and Innovation Lab in China"
-excerpt: "LexinFintech Holdings Ltd. (\"Lexin\") (NASDAQ: LX), a leading online consumption and consumer finance platform for educated young professionals in China, has been awarded the Best AI and Innovation Lab Award in China by The Asian Banker,"
-publishedDateTime: 2020-08-29T15:56:00Z
-originalUrl: "https://www.marketwatch.com/press-release/lexinfintech-wins-the-asian-banker-award-for-best-ai-and-innovation-lab-in-china-2020-08-29"
-webUrl: "https://www.marketwatch.com/press-release/lexinfintech-wins-the-asian-banker-award-for-best-ai-and-innovation-lab-in-china-2020-08-29"
+excerpt: "LexinFintech Holdings Ltd., a leading online consumption and consumer finance platform for educated young professionals in China, has been awarded the Best AI and Innovation Lab Award in China by The Asian Banker,"
+publishedDateTime: 2020-08-29T12:20:00Z
+originalUrl: "https://www.nasdaq.com/press-release/lexinfintech-wins-the-asian-banker-award-for-best-ai-and-innovation-lab-in-china-2020"
+webUrl: "https://www.nasdaq.com/press-release/lexinfintech-wins-the-asian-banker-award-for-best-ai-and-innovation-lab-in-china-2020"
 type: article
-quality: 79
-heat: 99
-published: true
+quality: 59
+heat: 69
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
 related:
-  - title: "PROS Recognized for Artificial Intelligence Innovation in SalesTech with 2020 AI Breakthrough Award"
-    excerpt: "PROS® (NYSE: PRO), a provider of AI-powered solutions that optimize selling in the digital economy, today announced that it has been selected as the"
-    publishedDateTime: 2020-08-29T16:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/pros-recognized-for-artificial-intelligence-innovation-in-salestech-with-2020-ai-breakthrough-award-2020-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "LexinFintech Wins The Asian Banker Award for Best AI and Innovation Lab in China Nasdaq:LX"
     excerpt: "LexinFintech Holdings Ltd. (Lexin) (NASDAQ: LX ), a leading online consumption and consumer finance platform for educated young professionals in China, has been awarded the Best AI and Innovation Lab Award in China by The Asian Banker,"
     publishedDateTime: 2020-08-29T17:38:00Z
@@ -58,6 +34,6 @@ related:
         height: 250
         isCached: true
 
-secured: "w4LYziMom3qsEir7AyU2NmDQUYlPVzXAbYvZYLJTar9HMVd8n6seyFUHyjPjW9JMLs+ACSo6cN5N8lIAh+V51LY0pS8NjcR2tGJwQUcv3f0pHcaFvaMPiVMlt0afgQ/ocOAzSJLhXMGcO97Ig1lpDl1+OWu65l2rkuRjImDCZET9vGbpCubpX3kXxALVA2qRTACBpG3ibSZFzD4MBf9w9UbexnoNzZ5xFwAkrBbS17FrbugM0Mskxj1RoxAbjpGGOgsl+ZmyUmVqRR4+JNbJ6XGXWaVja2H2rkrLIhM6aQuypJ6QsjHp93tuV0zWHmliXaSJegYrrdpmOLjtvIBA7OlFK+RUAmxdFYAlNpTcMVc=;fih4cntO3T4Y2hn5EpAkrg=="
+secured: "0TLY92NOLtNFt1BM2DVJOd816LBWXfaRM5bAYLvMbtmOGHXAxAEFzBNRvKWZ8J/iFUiVvkItGCbCkChgGPAD3ySDXM17RbVxDCXGwibn4FscCklMg+RwfO/duNjYd22Z916Zt/Uh2KG9eZu9egjmKlibInO5GFrOYZCeHvp2Vb2XNMi5c9j856YhqbCGdqpzZ0cNIZk/ctPOqvHaBbyACNTaxA+VNQChjAtmi+cncaZQ9WG47+/tTRykFHyON0N1IlX6OwUfsS82+keFDR4TK+pf4Hv/i2ho/b7nWUCziq8B7GxRyDUJuPdNi+T00ZKDONGqGCEuuTdNe9qVFWWXvmU50g7ETNHCiI/m+PORZa4=;fx9GUNFu1hFzkJWWKHwq1A=="
 ---
 

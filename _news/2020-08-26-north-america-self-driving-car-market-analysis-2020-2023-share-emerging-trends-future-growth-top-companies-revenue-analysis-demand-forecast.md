@@ -40,7 +40,7 @@ related:
   - title: "Self-Driving Car Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
     excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
     publishedDateTime: 2020-08-28T16:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28"
     type: article
     provider:
       name: MarketWatch

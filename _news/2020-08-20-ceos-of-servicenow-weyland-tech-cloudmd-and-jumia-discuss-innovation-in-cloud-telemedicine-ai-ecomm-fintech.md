@@ -1,24 +1,26 @@
 ---
 category: news
 title: "CEOs of ServiceNow, Weyland Tech, CloudMD, and Jumia Discuss Innovation in Cloud, Telemedicine, AI, Ecomm & Fintech:"
-excerpt: "On Journey to $10 Billion in Cloud Revenue - Destiny to Become Defining Enterprise Software Company of 21st century” Earnings call highlights:  Weyland Tech (OTC: WEYL)“The Shopify of Mobile in SE Asia ”w $40+ mil revenues” August 20 12:30EST investor livestream:  CloudMD (OTC: DOCRF): \"The Future of Telemedicine” Video:  Jumia Technologies AG (NYSE: JMIA) CEO Sacha Poignonnec: \"E-Commerce & Mobile Payments Adoption Accelerating in Africa” Earnings call highlights:  Highlights of CEO comments from latest earnings calls and investor conferences: ServiceNow,"
-publishedDateTime: 2020-08-20T15:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539"
-webUrl: "https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539"
+excerpt: "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights from leaders at ServiceNow, Inc. (NYSE:NOW), Weyland Tech (OTC: WEYL), CloudMD (OTC: DOCRF) and Jumia Technologies (NYSE: JMIA)."
+publishedDateTime: 2020-08-20T15:23:00Z
+originalUrl: "https://apnews.com/23c39c6175e11f35b0cb61b0b2eded76"
+webUrl: "https://apnews.com/23c39c6175e11f35b0cb61b0b2eded76"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "mJBIP/FRN3PzajF51oYbYQR9stGhYjLoYU6ZqC5ABlPZalJCBc1oCv59af3IOp6G4KKfFp1njjYGiSL8Dc/FuQSEHT2vHsD26VicoZEVq9Yy+avzvsimxGbrJzIB1rUKg0evyr+JSZp1MePArgXYlKL0WlugAfXasWC6aksR5YnK/odQcuQY8KUtG4qXPfY2GUXqQL1XkG5TX3zAKXc5QJxxbYNd0eafc4yMGuJkpyQk+iUrgiI2xY4q+0KFuPlB1C3xz0bf/rhtUXrrQTmzFg4yWu7YQP7lLuNc9PoZ6BA0pgK5vO9/KqS/h+mxCKvfUksEnvsdd081wGRuVIQgcjdAk5NkWSJ3fd6dciQr7Q4=;LK7Eo6HKPwmhsfQIhG3pTw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "MlOYdvSBLwlMKZ1Rd+ABWlG8bblR67Z9CQO//GoCUENSYzmICz4Xf10bIlq36gcKBuaZ1sd8wfDhjVwDF/0uMxizE0I5zbNyg06gM1K6Ppjk6Dz+m3KWhUD377G09prE58xRDYY6NKwyqWELkUcChGiGm52Krz60nQ+AGK1+fLCB2YGHe5Bb4984xQf3D6yfg2m8lst3bvYFvltbpnNg6eC4x2ao0463w8h/ejmXuraWtRaCewJXoEYxRjzdv9Bm4zECdNTPevKAev4mChiyUh6CXEim+l35h6qB45R0OkLhP40xpEZ8gYM3FDDWfYLc9RJcPfQgi0ohHul17ypd5jxrQfRPe17Pv3A7Vgo9+do=;9kUsvYgIuHizvVq977sbQQ=="
 ---
 

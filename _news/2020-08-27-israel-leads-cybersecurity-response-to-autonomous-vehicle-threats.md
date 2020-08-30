@@ -115,6 +115,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Volkswagen to launch road test for self-driving vehicles in east China"
+    excerpt: "German carmaker Volkswagen will pilot its autonomous-driving travel service in China as the first license plate for road tests was issued to the company on Wednesday (Aug 26)."
+    publishedDateTime: 2020-08-27T07:36:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2020/08/27/volkswagen-to-launch-road-test-for-self-driving-vehicles-in-east-china"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/08/27/835729.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "IDOWTcY/T3pRObPurhMiu5OvvWuP5B6+HejjELXSOiYoedD0XVk3dFfT2Wu5q/1iQDsaKvz8wMCx+jC/VseEA3MZYQNcPa9qq5RBG1BBCnEkuFQ38Rxtjzfg/yAUXawQ0nfvz3Ns3/8xWQUHXGwiojjMNpmvZHG4K8gNZ5unIkwM4duxqhIWd8sBemX73gaPbqTCsB+YW+/pdOa8igaA1gUtHP4SUdMP49VAzLJuvg/onaAOv1URYSZVhXmPTKG1JqOgcNCKgVElOWIh4cRHykXvSMwSTiKLYnEDyEwKdmM8BHKLKrBLMOxaSTPbQpdxuGr06NQoRm9WL/xCUH9qntBH1jkbBcFUFV7zmk3EFS0PQ8hx+7pQuVrOtLE/RlcEk/uUKSmqrpR3XIPHDeMwQbHdRPGV1Q/LOZtGRKNvtJzrVmvA+RKShccg6peS5yA6EFfLUQkTjoR0Kr9qRzgf4H0r10skgbWUEozTvTjgzv2v/0GtEdEI1fB6am96FOkcL7hagnhnvliUckb3QamA5Bikjq4LUN9ZkIX9a4794Yw=;BOI5lyTfg4zvj0CDFnmX0w=="
 ---

@@ -35,20 +35,6 @@ related:
         width: 690
         height: 415
         isCached: true
-  - title: "9 Strategic Insights Into Developing the Healthcare System of the Future"
-    excerpt: "Innovation thought leaders formulate strategies related to payment, reimagining models of care, applying real-time data, and addressing social determinants of health are essential to the future; downloadable report provides comprehensive insights."
-    publishedDateTime: 2020-08-25T16:13:00Z
-    webUrl: "https://www.healthleadersmedia.com/innovation/9-strategic-insights-developing-healthcare-system-future"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 40
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/HSOFreport-082520-2732x1200-shutterstock_649070965.jpg"
-        width: 2732
-        height: 1200
-        isCached: true
 
 secured: "vNzjiKf7TwEhuLIBIM9vSN9EZRNAj1cGmnyUFn65BhffR0LtbNzKXsh/Q79ACuDkwD6Sip7J9Fsc+X9UthDnEnx8Usku7URK9mltXFd75tpz33m1SnZfSaKvSDtOvhk0/xyoBhQdeHi/aPEzwTa2skrCpRX6GCIvlrDQkkCI95ew0MZXKqHoipvs28+ldQxMf4IY+/2/r/Uzyx1jzWsfYzXDS9miNu5yMRTYHpkJI3qztibe6TgQvuBqSMHo+9ZfW6JWOBmbiSsnH5LCONxZpOsuaKX6yi9w2mtAWFsizBRCNUU0hcwHoMV4cclT+Y4TBkPSv4LqP1KdBE/hzCUxjQ==;b8uceXQf7LQezKmToEC64w=="
 ---

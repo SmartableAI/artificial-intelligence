@@ -43,22 +43,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Azure’s Immersive Reader is now generally available"
-    excerpt: "Microsoft today announced that Immersive Reader, its service for developers who want to add text-to-speech and reading comprehension tools to their applications, is now generally available. Immersive Reader,"
-    publishedDateTime: 2020-08-25T15:23:00Z
-    webUrl: "https://techcrunch.com/2020/08/25/azures-immersive-reader-is-now-generally-available/"
-    ampWebUrl: "https://techcrunch.com/2020/08/25/azures-immersive-reader-is-now-generally-available/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/25/azures-immersive-reader-is-now-generally-available/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/Annotation-2020-08-25-074318.jpg?w=1024"
-        width: 1024
-        height: 525
-        isCached: true
   - title: "Azure’s Immersive Reader is Available for Third-Party Apps"
     excerpt: "Microsoft has announced the general availability of Immersive Reader, an Azure service that can help make text-based apps more inclusive."
     publishedDateTime: 2020-08-26T13:39:00Z
