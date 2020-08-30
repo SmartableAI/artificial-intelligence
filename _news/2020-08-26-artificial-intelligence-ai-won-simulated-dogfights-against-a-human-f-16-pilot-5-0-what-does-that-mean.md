@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI vs. Human Fighter Pilot: Here's Who Won the Epic Dogfight"
-    excerpt: "The dogfight is part of a DARPA-led effort to develop AI for fighter planes. The AI won an important string of victories but robotic air combat still has a ways to go. An artificial intelligence claimed victory over several other AIs in simulated dogfights and then went on to trounce a real human Air Force pilot,"
-    publishedDateTime: 2020-08-25T13:20:00Z
-    webUrl: "https://www.popularmechanics.com/military/aviation/a33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
-    ampWebUrl: "https://www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
-    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 57
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-08-25-at-8-14-56-am-1598357785.png?crop=0.981xw:0.895xh;0.00321xw,0&resize=1200:*"
-        width: 1200
-        height: 599
-        isCached: true
   - title: "Former Navy TOPGUN instructor says the AI that defeated a human pilot in a simulated dogfight would have 'crashed and burned' in the real world"
     excerpt: "He said it would have \"crashed and burned\" in a real fight but added that a dogfighting AI-driven aircraft may be here \"sooner than we ever imagined.\""
     publishedDateTime: 2020-08-26T17:03:00Z

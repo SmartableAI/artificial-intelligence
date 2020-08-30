@@ -7,7 +7,7 @@ originalUrl: "https://www.eejournal.com/industry_news/synopsys-and-tsmc-accelera
 webUrl: "https://www.eejournal.com/industry_news/synopsys-and-tsmc-accelerate-2-5d-3dic-designs-with-chip-on-wafer-on-substrate-and-integrated-fan-out-certified-design-flows/"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 500
     height: 362
     isCached: true
-
-related:
-  - title: "Synopsys and TSMC Accelerate 2.5D/3DIC Designs with Chip-on-Wafer-on-Substrate and Integrated Fan-Out Certified Design Flows"
-    excerpt: "MOUNTAIN VIEW, Calif., Aug. 25, 2020 /PRNewswire via COMTEX/ -- MOUNTAIN VIEW, Calif., Aug. 25, 2020 /PRNewswire/ -- Highlights: TSMC certifies CoWoS®"
-    publishedDateTime: 2020-08-25T14:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/synopsys-and-tsmc-accelerate-25d3dic-designs-with-chip-on-wafer-on-substrate-and-integrated-fan-out-certified-design-flows-2020-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "YmNDFNvilFgOsXNWEVZrP/wVZO2viQFb09RWRt1zXH/7o0cLVzn+szUBbE4OJymQVazQ8Qzymhv5keIMj6bUQiwVANr9lgPrEHjDqe0QzAdgVT8wL/tIOWBsIfHkrSmL9GyY+WJIBNDQ5rYeDgMqNjni9m2ZIoj0RQqtZ04p8y7mi826sp3CYp5uK03MajQ65zyDaONDKEUCobO91U7Ygq2UI9MRqxr+BO6lneJ3H5whzQQiPE/nZvTYpuDdVrSudbRTCX7Md9ULDmeAdM8rgCc8fpyQt/scI8o3FmMSS9VOESSs3T/kOxPbucEpMjvFmXFtgiNvkx9QFq9vUertIes3UYV+jqLojPpZKAaOowU=;GCPLIi9qN+f7Sog49FqvQQ=="
 ---

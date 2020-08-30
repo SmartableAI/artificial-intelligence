@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-28-google-offers-to-help-others-with-the-tricky-ethics-of-ai.md",
+      "title": "Google Offers to Help Others With the Tricky Ethics of AI",
+      "excerpt": "After learning its own ethics lessons the hard way, the tech giant will offer services like spotting racial bias or developing guidelines around AI projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-help-others-tricky-ethics-ai/",
+      "originalUrl": "https://www.wired.com/story/google-help-others-tricky-ethics-ai/",
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f483e71bb023d54b55e4e09/master/pass/business_google_20.93146987.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/google-help-others-tricky-ethics-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-help-others-tricky-ethics-ai/amp",
+      "publishedDateTime": "2020-08-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-are-robots-eating-our-jobs-not-according-to-ai.md",
       "title": "Are Robots Eating Our Jobs? Not According To AI",
       "excerpt": "AI is replacing jobs while creating new ones and new job roles — profound benefits to the global economy await their arrival.",
@@ -1137,55 +1187,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-moveai-enables-ai-motion-capture-without-the-hassle-for-video-game-production.md",
-      "title": "Move.ai enables AI motion capture without the hassle for video game production",
-      "excerpt": "Move.ai can use artificial intelligence to capture a 3D representation of an actor in a process known as markerless motion capture.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/",
-      "originalUrl": "https://venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/move.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/amp/",
-      "publishedDateTime": "2020-08-27T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

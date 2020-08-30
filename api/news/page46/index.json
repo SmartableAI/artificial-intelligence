@@ -2,6 +2,105 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-07-22-increasing-engagement-with-personalized-online-sports-content.md",
+      "title": "Increasing engagement with personalized online sports content",
+      "excerpt": "This is a guest post by Mark Wood at Pulselive. In their own words, “Pulselive, based out of the UK, is the proud digital partner to some of the biggest names in sports.” At Pulselive, we create experiences sports fans can’t live without; whether that’s the official Cricket World Cup website or the English",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/increasing-engagement-with-personalized-online-sports-content/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/21/pulselive-2.jpg",
+          "width": 800,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T11:27:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-ibm-innovation-preview-automation-of-ai.md",
+      "title": "IBM Innovation Preview: Automation of AI",
+      "excerpt": "\nIBM’s second Innovation Preview event features AI experts and IBM executives as they share exciting new developments made by IBM Research in the field of Automation of AI. In the event, now available online, these leaders present three ways to leverage automation for AI: Accurately digitize and streamline",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/07/ibm-innovation-preview-automation-of-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/07/1097_Automation_of_AI_Blog_Leadspace_Final-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T11:26:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-microsoft-canada-congratulates-the-winners-of-its-2020-impact-awards.md",
       "title": "Microsoft Canada congratulates the winners of its 2020 IMPACT Awards",
       "excerpt": "AI & Machine Learning IMPACT Award MediaValet, solved that problem. It automated the process by using Microsoft Azure Cognitive Services. By doing so, it dramatically reduced tagging time and improved asset discoverability for its customers. “We feel so ...",
@@ -1022,88 +1121,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-police-claim-violent-extremists-exploit-coronavirus-to-defeat-facial-recognition-leaked-files-show.md",
-      "title": "Police claim 'violent extremists' exploit coronavirus to defeat facial recognition, leaked files show",
-      "excerpt": "Leaked documents reveal the message sent to police behind closed doors: face masks \"embolden some individuals to escalate violence.\"",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F07%252F22%252F56%252Faa3f838f27ed4b0790aeec22bb0c2b29.eb367.jpg%252F1200x630.jpg?signature=LYdsF0JHdjMt-Mdl8_3CQBS14UU=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition.amp",
-      "publishedDateTime": "2020-07-22T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-kunstmatige-intelligentie-deepmind-creeert-zelf-algoritmes.md",
-      "title": "Kunstmatige intelligentie DeepMind creëert zelf algoritmes",
-      "excerpt": "Onderzoekers van DeepMind hebben een techniek ontdekt waarbij kunstmatige intelligentie (AI) zelf algoritmes kan genereren. Het bijzondere daarbij is dat het zelflerende algoritmes zijn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techzine.nl/nieuws/devops/444525/kunstmatige-intelligentie-deepmind-creeert-zelf-algoritmes/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.tz.nl/wp-content/uploads/2018/06/shutterstock_678583375.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techzine.nl",
-        "domain": "techzine.nl",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

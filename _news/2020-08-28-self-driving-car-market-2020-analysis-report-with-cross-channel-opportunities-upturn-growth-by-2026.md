@@ -3,11 +3,11 @@ category: news
 title: "Self-Driving Car Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
 excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
 publishedDateTime: 2020-08-28T16:42:00Z
-originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28"
-webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28"
+originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28?mod=mw_quote_news"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Latin America Self-driving Car Market Analysis 2020-2024 : Revenue Analysis, Demand Forecast"
+    excerpt: "Aug 25, 2020 (AmericaNewsHour) -- Latin America self-driving car market A self-driving car, also known as the driverless car or an autonomous car or"
+    publishedDateTime: 2020-08-26T02:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-analysis-2020-2024-revenue-analysis-demand-forecast-2020-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Global Self-driving Taxi Market is expected to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period"
     excerpt: "The analyst has been monitoring the self-driving taxi market and it is poised to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period. Our reports on self-driving taxi market provides a holistic analysis,"
     publishedDateTime: 2020-08-26T15:51:00Z
@@ -40,7 +54,16 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 18
+  - title: "North America Self-driving Car Market Analysis 2020-2023: Share, Emerging Trends, Future Growth, Top Companies, Revenue Analysis, Demand Forecast"
+    excerpt: "Aug 25, 2020 (AmericaNewsHour) -- North America self-driving car market A self-driving car also known as the driverless car or an autonomous car or a"
+    publishedDateTime: 2020-08-26T02:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-analysis-2020-2023-share-emerging-trends-future-growth-top-companies-revenue-analysis-demand-forecast-2020-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
 
-secured: "/4ipk09tyUjT0cDUoJEC1ratg/js2zjXJd35W9PSghpq6Np8qAGlYmmyWDWEG3FtZQ3n2wG+5sGo5A04ZxEsCoJnIbFmYx83CZLuopAbz8IEZ/gqvuVzapLVZtjW82DfT7CXaY8ZSNdqnHGxKwnbtLd6kkXDZO0aBqQCVXHhcV7AAGbrgY3KpHzQ/R+rPva+yL+af+wbiynLXkOYdEmfo5LX1+hQR2g1+51wuoY8aQbxu0xtFKCp3AXNqrOH6OAlustCrki6IBzlpR7QEZ0pud67Tk9gGKL8wbha9f7L5JzBYfbpXvwRnlvWrn5+MCHyE+Z8ccnKtCj6Ul/pYu/h0ZdO1eC+J5itIBYJtyxtyDw=;X0Xx4bKrdV9cVR9ZJrReHA=="
+secured: "ogpSAH1hIty656EQxVMMO5GUHUvL4EYS4fwqCgb4wBYm+u8g8S7uLRTLZ7EnDJ0xU+KzGTN4AJ5s8FaWczlfmBJY0ct8DEPlrLkRLeExAaDWn9SvtQWPTfVLj6XTG0P+iNsyTbL60r34CILLcNG+xGU45B7XpKhM8DnspLmLtSC7Ly1FrwIEjQsOPxdKLRGwbEUolRzMRsIWJjaW7LcIARXchf/bj+wDV0IGFqhpcam4DPbgMeMIFhHbX/dfU2wc6QkE/av8w0ST5GxRcDgNwwYiz+3gu6e8kklnnfzNl6TJFWqeLB4+GWPwiBehhWSO2rdHDnsvcRnQ0Yaz5NQbKMAMRbWMuRAssjyVNFr52z0=;HZDe3okdALzF24CxBza4+A=="
 ---
 

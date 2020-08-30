@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI just found 50 new planets in a huge NASA dataset"
-    excerpt: "Scientists from Warwick University made the discovery by analyzing data collected by space telescopes, such as NASA‘s Kepler and TESS. These telescopes capture signs of planets passing in front ..."
-    publishedDateTime: 2020-08-25T13:55:00Z
-    webUrl: "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-25T134309.041-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "AI confirms 50 new planets from old NASA data, in a groundbreaking first"
     excerpt: "Our planet-hunting telescopes have gotten so good at their jobs that they've located thousands of possible planets outside our solar system. That means scientists have to sift through a whole lot of data to figure out what's a real planet and what's a pretender."
     publishedDateTime: 2020-08-25T16:44:00Z

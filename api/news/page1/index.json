@@ -241,6 +241,55 @@
       ]
     },
     {
+      "path": "_news/2020-08-29-google-cloud-updates-anthos-with-bare-metal-and-hybrid-ai.md",
+      "title": "Google Cloud Updates Anthos With Bare Metal And Hybrid AI",
+      "excerpt": "Google updates Anthos for bare metal, which lets Anthos run on-prem and at edge locations without a hypervisor, and brings Speech-to-Text On-Prem to Anthos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/",
+      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f207f7e16412747cf53f32f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5315%26cropY1%3D269%26cropY2%3D3260",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/amp/",
+      "publishedDateTime": "2020-08-29T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-29-artificial-intelligence-is-the-next-top-gun.md",
       "title": "Artificial Intelligence Is the Next Top Gun",
       "excerpt": "We were both skeptical that the artificial intelligence program that would be piloting one of the virtual aircraft would be able to outfight the human pilot, call sign “Banger,” from the Air Force's equivalent of the Navy’s legendary TOPGUN fighter-tactics instruction program.",
@@ -1121,56 +1170,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-google-offers-to-help-others-with-the-tricky-ethics-of-ai.md",
-      "title": "Google Offers to Help Others With the Tricky Ethics of AI",
-      "excerpt": "After learning its own ethics lessons the hard way, the tech giant will offer services like spotting racial bias or developing guidelines around AI projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/google-help-others-tricky-ethics-ai/",
-      "originalUrl": "https://www.wired.com/story/google-help-others-tricky-ethics-ai/",
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f483e71bb023d54b55e4e09/master/pass/business_google_20.93146987.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/google-help-others-tricky-ethics-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-help-others-tricky-ethics-ai/amp",
-      "publishedDateTime": "2020-08-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

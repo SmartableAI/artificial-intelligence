@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/navy-pilot-not-surprised-ai-beat-hum
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-pilot-not-surprised-ai-beat-human-in-simulated-dogfight-2020-8"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI vs. Human Fighter Pilot: Here's Who Won the Epic Dogfight"
-    excerpt: "The dogfight is part of a DARPA-led effort to develop AI for fighter planes. The AI won an important string of victories but robotic air combat still has a ways to go. An artificial intelligence claimed victory over several other AIs in simulated dogfights and then went on to trounce a real human Air Force pilot,"
-    publishedDateTime: 2020-08-25T13:20:00Z
-    webUrl: "https://www.popularmechanics.com/military/aviation/a33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
-    ampWebUrl: "https://www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
-    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/"
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 57
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-08-25-at-8-14-56-am-1598357785.png?crop=0.981xw:0.895xh;0.00321xw,0&resize=1200:*"
-        width: 1200
-        height: 599
-        isCached: true
   - title: "Artificial intelligence (AI) won simulated dogfights against a human F-16 pilot, 5-0; what does that mean?"
     excerpt: "The next steps for the ACE program include integrating an AI agent into a small-scale combat aircraft and eventually to a full-size manned fighter."
     publishedDateTime: 2020-08-26T10:06:00Z

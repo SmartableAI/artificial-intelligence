@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-upd
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -28,24 +28,6 @@ images:
     width: 1199
     height: 675
     isCached: true
-
-related:
-  - title: "Google Anthos Gains New Features Including Hybrid AI Capabilities"
-    excerpt: "Google is betting big on Anthos. With the latest release, it has upped the ante on the hybrid cloud with an aim to gain a foothold in the enterprise."
-    publishedDateTime: 2020-08-25T14:45:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/08/25/google-anthos-gains-new-features-including-hybrid-ai-capabilities/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/08/25/google-anthos-gains-new-features-including-hybrid-ai-capabilities/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/08/25/google-anthos-gains-new-features-including-hybrid-ai-capabilities/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f452087638f3d981d14e6b2%2F0x0.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "jIWOqq+pUYC2mg5/jEUR58y7gBaRQOpsOUYUMsw211UNUPfmkx4G4K3S1txnXok//ORQIYwldttROxvre7GE3VSJlOJkb/eFsRMgF3KN0mSPvvq4NW8EUYlxona6eoQkt2e9ntzDzfwZz8C6ztmwdSBV1gU0mRRgrCRu8N/BBaC7qNOUQxVKmNDe9HTQVL0ptB3WjYSMbDD1Zm2x9HCmm051zfojkgUBV+x3Bci0S5S/1AfuaHc62sAeaRlqLt1gvlQZj+BTF8r8UTlNCacAxWYrCDsPhtK0NUVursngYED210e52YdYJb7YKG2Ne21kt50AYmzhoiQjL/Neu9vm564PIUWgKisj/wfuD+6mIOACp1PTKGKX87Yf6vHnPO9m2tcn4URai4g3P+x5IhwaFXvFozAA6P85zYqxK1ldMYH5Zrfgw+bVtEI4mQrF4sPNUsjrxT4oBPVC0XKSzwDlzs8spkDgFQsqhRe0LdeogBsLtiE+eJhDCb3+7nU7Jli8oG5HdbDLe+QBZ6D2/Sja+AVLLrZjMGpGFWtjzbEbGzg=;opyoBFaTQgDA+bpH0nuEtw=="
 ---

@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft 365 saves you time and effort with transcription and voice commands in Word"
-    excerpt: "New enhancements in Office apps allow you to harness the power of your voice to spend less time and energy creating your best work, so can focus on what matters most."
-    publishedDateTime: 2020-08-25T15:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2020/08/25/microsoft-365-transcription-voice-commands-word/"
-    ampWebUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2020/08/25/microsoft-365-transcription-voice-commands-word/amp/"
-    cdnAmpWebUrl: "https://www-microsoft-com.cdn.ampproject.org/c/s/www.microsoft.com/en-us/microsoft-365/blog/2020/08/25/microsoft-365-transcription-voice-commands-word/amp/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
-    images:
-      - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/08/CLO20_microsoftForStartups_Ghana_039-8-25-BANNER.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft announces two new innovative features for Microsoft Word"
     excerpt: "Microsoft announces two new features for Microsoft 365 subscribers, that will allow users to use Microsoft Word in an innovative way."
     publishedDateTime: 2020-08-26T09:27:00Z

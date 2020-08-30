@@ -1,38 +1,44 @@
 ---
 category: news
 title: "Artificial Intelligence Market in the Telecommunication Market Next Big Thing | Major Giants Infosys, Microsoft, Sentient Technologies"
-excerpt: "Latest Market intelligence report released by HTF MI with title “COVID-19 Outbreak-Global Artificial Intelligence Market in the Telecommunication Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020” is designed covering micro level of analysis by manufacturers and key business segments."
-publishedDateTime: 2020-08-30T01:05:00Z
-originalUrl: "https://ipsnews.net/business/2020/08/29/artificial-intelligence-market-in-the-telecommunication-market-next-big-thing-major-giants-infosys-microsoft-sentient-technologies/"
-webUrl: "https://ipsnews.net/business/2020/08/29/artificial-intelligence-market-in-the-telecommunication-market-next-big-thing-major-giants-infosys-microsoft-sentient-technologies/"
+excerpt: "Aug 29, 2020<p>Latest Market intelligence report released by HTF MI with title COVID-19 Outbreak-Global Artificial Intelligence Market in the Telecommunication Industry Market Report-Development Trends,"
+publishedDateTime: 2020-08-30T06:28:00Z
+originalUrl: "https://menafn.com/1100715563/Artificial-Intelligence-Market-in-the-Telecommunication-Market-Next-Big-Thing-Major-Giants-Infosys-Microsoft-Sentient-Technologies"
+webUrl: "https://menafn.com/1100715563/Artificial-Intelligence-Market-in-the-Telecommunication-Market-Next-Big-Thing-Major-Giants-Infosys-Microsoft-Sentient-Technologies"
 type: article
-quality: 0
-heat: -1
+quality: 5
+heat: 5
 published: false
 
 provider:
-  name: Inter Press Service
-  domain: ipsnews.net
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
 
+images:
+  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+    width: 300
+    height: 250
+    isCached: true
+
 related:
-  - title: "Artificial Intelligence in Security Market May See a Big Move | Xilinx, Acalvio, Sift Science, Intel"
-    excerpt: "Latest added COVID-19 Outbreak-Global Artificial Intelligence in Security Market research study by HTF MI offers detailed product outlook and elaborates market review till 2025. The market Study is segmented by key regions that is accelerating the marketization."
-    publishedDateTime: 2020-08-29T12:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-may-see-a-big-move-xilinx-acalvio-sift-science-intel-2020-08-29"
+  - title: "Machine Learning & Big Data Analytics Education Market Next Big Thing | Major Giants IBM, Cognizant, Microsoft"
+    excerpt: "Global Machine Learning & Big Data Analytics Education Market 2019-2025. A detailed study accumulated to offer Latest insights about acute features of the COVID-19 Outbreak- Machine Learning & Big Data Analytics Education market."
+    publishedDateTime: 2020-08-27T14:59:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266145560/machine-learning--big-data-analytics-education-market-next-big-thing--major-giants-ibm-cognizant-microsoft"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 4
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.bignewsnetwork.com/cus1598489822378.jpg"
+        width: 630
+        height: 420
         isCached: true
 
-secured: "hw7gl2dKon/IeVpGUO9cgjX4m1TMb7vbE13hWHrWq7uz6ISROxX4JBXtAYwpIiCUdw5iZpt+FfSDgkfhG34bqUUYBICDSPeQw1e5kgPTAYG84EKW0Xs4+z1LCndINciB0h+2l7Esw72j/Et1cG8bOIfByxbONnoFI/RHvuPn60LR0j5lLWhjvGFGMI4FpML7PbZ/uKXGdNykL8DDF/KAsdrs36AMlhiZAK4Rz3V1d0RVr7lhd/q7uhFZebVUP51X/2+Ov8+XZFlH3YqonWcIRil64LOWxnet1w597eV1yK3wO8NUfbq+SGSiGOD+JaE16HsLIWb0TX04uKLgALOlh2gzD/QmP/VC/0oqXtSubTg=;WRkQUc4MyldoYR2liEkAAw=="
+secured: "PHR/woPA8L6WzddbODGu4kuhp0J7zq5VQ2QOmFlbcJAZJwIQ0trq7LxD5OnT9OugBq8RrtSIj/oUI5CC0pE8rOTxFH4FdLxeYWK1HQwBYymo0MPLCvOpH7oJ4Rh6dz49tE4i2XfucG7SFSoIa+4jM0OIT2I0Lev4ltZxSgYAH8RCzE3+iY7hHY8a3RqBPsuJ4KV0W8f1G9tw5fzglsfyuSPcrZ4cjsHIdoqS5p1wyLwh6kluCwsCzZfyYZjf14abkQ2Eyf9loceDsBAmxfbjkB68j73Ie4v5xlS0JNve8O94Kx5sJwVSxt838vrFQKQBKJY1E+8Cn+63NAtxMxE1fhBhvT9tDKfYZjJo3Wq1Kao=;woz62z6FzMN0KxDUagvgpQ=="
 ---
 

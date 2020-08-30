@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook AI system can teach you original dance moves"
-    excerpt: "Indian-origin researchers at Facebook AI have developed a system that enables a machine to generate a dance for any input music, creating original, creative dance routines for any music that you feed it."
-    publishedDateTime: 2020-08-25T13:40:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/facebook-ai-system-can-teach-you-original-dance-moves-131250"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_1770734754.jpg"
-        width: 660
-        height: 440
-        isCached: true
   - title: "Facebook Launches AI System to Create Original Dance Routines"
     excerpt: "Facebook's AI has developed a new system to choreograph original dance routines to any music, The Next Web reports. The new routines created by the system are \"synchronized and surprising\" - \"the two main criteria of a creative dance,"
     publishedDateTime: 2020-08-26T12:47:00Z

@@ -31,6 +31,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/</loc>
+    <lastmod>2020-08-29T06:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.bloomberg.com/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun</loc>
     <lastmod>2020-08-29T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -331,6 +337,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/</loc>
+    <lastmod>2020-08-27T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921</loc>
     <lastmod>2020-08-27T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -511,12 +523,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
-    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/</loc>
     <lastmod>2020-08-25T16:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -597,6 +603,12 @@
   <url>
     <loc>https://www.cnet.com/roadshow/news/waymo-self-driving-trucks-texas/</loc>
     <lastmod>2020-08-25T09:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnet.com/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/</loc>
+    <lastmod>2020-08-25T09:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1885,6 +1897,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
+    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1917,12 +1935,6 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
-    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

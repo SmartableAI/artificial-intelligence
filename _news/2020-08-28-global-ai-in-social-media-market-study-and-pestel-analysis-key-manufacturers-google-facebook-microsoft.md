@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Computer Vision Market COVID-19 Analysis, Growth Forecast, Size, Share, Trends, Business Opportunities and Industry Challenges"
-    excerpt: "Market Overview The AI in computer vision market will surpass a valuation of USD 27 billion, attaining a CAGR of 45%"
-    publishedDateTime: 2020-08-25T14:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-covid-19-analysis-growth-forecast-size-share-trends-business-opportunities-and-industry-challenges-2020-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ai In Fintech Market Trends, Growth, Industry Analysis, Size, Share and Forecast - 2025"
     excerpt: "AI computers perform many human like functions such as learning decision making planning and speech recognition Artificial intelligence plays an excellent role in financial technology Save time increase efficiency and reduce the likelihood of errors AI is useful for generating"
     publishedDateTime: 2020-08-27T07:57:00Z
@@ -113,15 +99,15 @@ related:
         width: 600
         height: 407
         isCached: true
-  - title: "Global AI Recruitment Market Overview, Cost Structure Analysis, Growth Opportunities and Forecast to 2026"
-    excerpt: "Global “AI Recruitment Market” report presenting the detailed analysis of trends, drivers, challenges and unmet demand"
-    publishedDateTime: 2020-08-25T13:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-recruitment-market-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2026-2020-08-25?mod=mw_quote_news"
+  - title: "Self-Driving Car Market: Insights By Size, Share, Future Growth And Forecast From 2020-2023"
+    excerpt: "Aug 25, 2020 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn"
+    publishedDateTime: 2020-08-26T02:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-insights-by-size-share-future-growth-and-forecast-from-2020-2023-2020-08-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

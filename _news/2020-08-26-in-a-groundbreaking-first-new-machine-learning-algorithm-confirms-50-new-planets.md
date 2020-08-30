@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "50 new planets confirmed in machine learning first"
-    excerpt: "Fifty potential planets have been confirmed by a new machine learning algorithm developed by University of Warwick scientists."
-    publishedDateTime: 2020-08-25T13:09:00Z
-    webUrl: "https://phys.org/news/2020-08-planets-machine.html"
-    ampWebUrl: "https://phys.org/news/2020-08-planets-machine.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-planets-machine.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/exoplanets.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Machine Learning AI Confirms 50 New Planets"
     excerpt: "Missions like TESS and Kepler produce a lot of data that someone needs to evaluate, and researchers from the University of Warwick think they can speed it up with AI. To illustrate this, the team has developed a machine learning algorithm that just confirmed 50 exoplanets in observational data."
     publishedDateTime: 2020-08-26T17:01:00Z

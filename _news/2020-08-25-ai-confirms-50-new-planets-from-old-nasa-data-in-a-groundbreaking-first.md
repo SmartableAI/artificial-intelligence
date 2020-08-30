@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-confirms-50-new-planets-from
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: CNET
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI just found 50 new planets in a huge NASA dataset"
-    excerpt: "Scientists from Warwick University made the discovery by analyzing data collected by space telescopes, such as NASA‘s Kepler and TESS. These telescopes capture signs of planets passing in front ..."
-    publishedDateTime: 2020-08-25T13:55:00Z
-    webUrl: "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-25T134309.041-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "Artificial intelligence identifies 50 new planets from old NASA data"
     excerpt: "Researchers have identified 50 new planets using artificial intelligence, marking a technological breakthrough in astronomy."
     publishedDateTime: 2020-08-26T16:30:00Z

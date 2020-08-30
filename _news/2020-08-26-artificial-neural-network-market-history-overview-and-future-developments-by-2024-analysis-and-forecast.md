@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2121471/artificial-neural-network-market-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2121471/artificial-neural-network-market-history-overview-and-future"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -25,45 +25,6 @@ images:
     width: 640
     height: 410
     isCached: true
-
-related:
-  - title: "Artificial Intelligence (AI) in Manufacturing Market Analysis, Industry Outlook, Current Trends and Forecast by 2026"
-    excerpt: "Market Study Report Add New 2019-2025 Global Artificial Intelligence (AI) in Manufacturing Market Report to its research database presenting an informative study covering the market with detailed analysis."
-    publishedDateTime: 2020-08-25T14:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-industry-outlook-current-trends-and-forecast-by-2026-2020-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latin America Self-driving Car Market Analysis 2020-2024 : Revenue Analysis, Demand Forecast"
-    excerpt: "Aug 25, 2020 (AmericaNewsHour) -- Latin America self-driving car market A self-driving car, also known as the driverless car or an autonomous car or"
-    publishedDateTime: 2020-08-26T02:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-analysis-2020-2024-revenue-analysis-demand-forecast-2020-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "North America Self-driving Car Market Analysis 2020-2023: Share, Emerging Trends, Future Growth, Top Companies, Revenue Analysis, Demand Forecast"
-    excerpt: "Aug 25, 2020 (AmericaNewsHour) -- North America self-driving car market A self-driving car also known as the driverless car or an autonomous car or a"
-    publishedDateTime: 2020-08-26T02:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-analysis-2020-2023-share-emerging-trends-future-growth-top-companies-revenue-analysis-demand-forecast-2020-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
 
 secured: "pLqC0okNtt0N59aCUcIMP7TgVz6Gs0oWUiRGmZm/CVOBNOiom405616kXFX42W9jMpZv4i6tGLkCKx5W3etqcaPN+wnFQz2GWlT7m/itBGpcH3b74PXlcz7XCMetFXT2/IeV70L4fFGzZ8Hack0Te1c4+pcTMj0dPzEFTa8KYw9yCyjCEU0Tg0jq1Ol9WvNn+wVl/95DYYhBWK3oUnEalez0cq9jzW3yiWDZc3aBDc2YoMwX0SVCicNjYDvCPuHM7Lm55yW2AScbQsVt0/myh71C0oi4jQvTrQRLEfg1SQ79/W8KcpAICh+06vdbjZoRfn17jH/WOApOZBLDGZO+QNbFtNTsuIhyV6DyDBdK+hfW8BWrNuMu+UBVxxgIU50NGaWqUIAk0HcTVg0oqDM1zFxxf2vnCczKNlncKqjBnYsX7qipk6qehvwMdMvZWY4G8wm5R2lYmuGYjXPBeoaLSshSPT5zRKIP4IdFmfmn9QucGsj9m3FUCwrh10eNds/bLQ/WYZp6tPlCIXz+nfARc8/PBLj0egvtVj6luVIp0jM=;EMm2WJWjJkiRjFjyDUVanw=="
 ---

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Natural Language Processing (NLP) Market Size, Status and Growing Opportunity 2020 to 2027"
-excerpt: "According to the study carried out by Acumen Research & Consulting, The Natural Language Processing (NLP) Market is projected to grow at noteworthy growing CAGR over the forecast period 2020 to 2027."
-publishedDateTime: 2020-08-28T13:30:00Z
-originalUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-status-and-growing-opportunity-2020-to-2027-2020-08-28"
-webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-status-and-growing-opportunity-2020-to-2027-2020-08-28"
+title: "Self-Driving Car Market: Insights By Size, Share, Future Growth And Forecast From 2020-2023"
+excerpt: "Aug 25, 2020 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn"
+publishedDateTime: 2020-08-26T02:05:00Z
+originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-insights-by-size-share-future-growth-and-forecast-from-2020-2023-2020-08-25"
+webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-insights-by-size-share-future-growth-and-forecast-from-2020-2023-2020-08-25"
 type: article
-quality: 59
+quality: 44
 heat: -1
 published: false
 
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
+  - AI in Autos
   - AI
 
 images:
@@ -73,6 +73,20 @@ related:
         width: 477
         height: 346
         isCached: true
+  - title: "Natural Language Processing (NLP) Market Size, Status and Growing Opportunity 2020 to 2027"
+    excerpt: "According to the study carried out by Acumen Research & Consulting, The Natural Language Processing (NLP) Market is projected to grow at noteworthy growing CAGR over the forecast period 2020 to 2027."
+    publishedDateTime: 2020-08-28T13:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-status-and-growing-opportunity-2020-to-2027-2020-08-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ai In Fintech Market Trends, Growth, Industry Analysis, Size, Share and Forecast - 2025"
     excerpt: "AI computers perform many human like functions such as learning decision making planning and speech recognition Artificial intelligence plays an excellent role in financial technology Save time increase efficiency and reduce the likelihood of errors AI is useful for generating"
     publishedDateTime: 2020-08-27T07:57:00Z
@@ -88,20 +102,6 @@ related:
       - url: "https://cdn.openpr.com/T/8/T827664247_g.jpg"
         width: 600
         height: 407
-        isCached: true
-  - title: "Self-Driving Car Market: Insights By Size, Share, Future Growth And Forecast From 2020-2023"
-    excerpt: "Aug 25, 2020 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn"
-    publishedDateTime: 2020-08-26T02:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-insights-by-size-share-future-growth-and-forecast-from-2020-2023-2020-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Speech and Voice Recognition Technology Market 2020 Global Analysis, Opportunities And Forecast To 2025"
     excerpt: "The global Speech and Voice Recognition Technology Market is studied in great detail in the new research report, which provides the readers with an accurate overview of the market"
@@ -132,6 +132,6 @@ related:
         height: 450
         isCached: true
 
-secured: "FHmdBRjAomQoGbMGU2j2yT+1jVt5D7u+Yz0GfDOvarUQnTk+2MrLB38g3efdqZXaHMNPAfduIQZG0axahWKCCsofztAn/DEQtzvFjo0SRkJxwYCOGf+U0HDtxcFLX+4wV8gp3bgy6HY0E9yV+fcPiUj3CUVx8uvMzH/ZIlH3F3MhL9nsX4RMv2ql91BAwSgqoHticWSojeHWEFu+Bdh3845febwhVmuBaWsvmZoVRPEbbCc5frReq5zLOc3HxlEPcQ1qQLvgszurGKbrnuaLUm6kc2tDHWfJySZErxm+UC+YTJMyhkPb7tSjl8cwDQZNkvcqNCqcltvPXPUA0fd3Lv/Q/EfVpvKKrgJl1cmCLpM=;jfTyYN5A/iBRSdaQ3rx/ow=="
+secured: "YXiP80Y8YURvsu3+lCdoChx/jF0UBwm7xbemQexdoaBQ3xeJCsVmMTjrJGikQU0l6J2dkoFu41MJYpH0HuyeyYD4ZY8x/FmXmJkd5qzMOuTlE7ArZmplS9bRcRXzYoRvKIShP13V2EfgtX2u7bl1zSpJzIPEjFPv5KYJSQjqSMNnZP+ix4n9QYtaDHxZ+o8uF00AX01icGTFwVENcAs4aVBjNjmHX8DX4pRr+QxPrO8ZprxRl4cDIGI8LFlsm3HJaWgSokSSiIAaQorfMjJl/3CcC+38QyzE5nrBpSRgNObudGfw2Tq69q6nQAvRziuZjsjgEyxGg45KFvBfjBkzF0cKDo/z9bw7uPGO5732ABs=;vz77f5+3UPvpKRTF3lPI0Q=="
 ---
 

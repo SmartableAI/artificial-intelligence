@@ -2,6 +2,105 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-08-12-researchers-claim-bias-in-ai-named-entity-recognition-models.md",
+      "title": "Researchers claim bias in AI named entity recognition models",
+      "excerpt": "Researchers show evidence of demographic bias in named entity recognition models. They're more likely to accurately recognize white names, on average.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/12/researchers-claim-bias-in-ai-named-entity-recognition-models/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/12/b26c3140-0f9e-4124-833c-483684e13b39.png?w=1200&#038;strip=all",
+          "width": 1156,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/12/researchers-claim-bias-in-ai-named-entity-recognition-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/12/researchers-claim-bias-in-ai-named-entity-recognition-models/amp/",
+      "publishedDateTime": "2020-08-12T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-5-ways-machine-learning-can-thwart-phishing-attacks.md",
+      "title": "5 Ways Machine Learning Can Thwart Phishing Attacks",
+      "excerpt": "Machine learning algorithms can help strengthen the security on every mobile device, making them suitable as employees’ IDs, alleviating the need for easily-hackable passwords.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine-learning-can-thwart-phishing-attacks/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f340796a56dba49b87f8d48%2F0x0.jpg",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine-learning-can-thwart-phishing-attacks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine-learning-can-thwart-phishing-attacks/amp/",
+      "publishedDateTime": "2020-08-12T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-caltech-engineers-use-machine-learning-to-help-robots-get-along.md",
       "title": "Caltech Engineers Use Machine Learning to Help Robots Get Along",
       "excerpt": "When several robots in motion inhabit the same space, more challenges arise. Multi-robot scenarios are becoming more common with the advancement of autonomous vehicles (AVs) and use of drones for various applications,",
@@ -1038,106 +1137,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-amazon-forecast-can-now-use-convolutional-neural-networks-cnns-to-train-forecasting-models-up-to-2x-faster-with-up-to-30-higher-accuracy.md",
-      "title": "Amazon Forecast can now use Convolutional Neural Networks (CNNs) to train forecasting models up to 2X faster with up to 30% higher accuracy",
-      "excerpt": "We’re excited to announce that Amazon Forecast can now use Convolutional Neural Networks (CNNs) to train forecasting models up to 2X faster with up to 30% higher accuracy. CNN algorithms are a class of neural network-based machine learning (ML) algorithms that play a vital role in Amazon.com’s demand",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-can-now-use-convolutional-neural-networks-cnns-to-train-forecasting-models-up-to-2x-faster-with-up-to-30-higher-accuracy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T14:04:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-securing-amazon-comprehend-api-calls-with-aws-privatelink.md",
-      "title": "Securing Amazon Comprehend API calls with AWS PrivateLink",
-      "excerpt": "Amazon Comprehend now supports Amazon Virtual Private Cloud (Amazon VPC) endpoints via AWS PrivateLink so you can securely initiate API calls to Amazon Comprehend from within your VPC and avoid using the public internet. Amazon Comprehend is a fully managed natural language processing (NLP) service that",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-comprehend-api-calls-with-aws-privatelink/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T12:31:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],
