@@ -3,6 +3,7 @@ category: news
 title: "Artificial Intelligence and Ethics: Sixteen Challenges and Opportunities"
 excerpt: "Artificial intelligence offers great opportunity, but it also brings potential hazards—this article presents 16 of them."
 publishedDateTime: 2020-08-19T11:27:00Z
+originalUrl: "https://www.scu.edu/ethics/all-about-ethics/artificial-intelligence-and-ethics-sixteen-challenges-and-opportunities/"
 webUrl: "https://www.scu.edu/ethics/all-about-ethics/artificial-intelligence-and-ethics-sixteen-challenges-and-opportunities/"
 type: article
 quality: 57

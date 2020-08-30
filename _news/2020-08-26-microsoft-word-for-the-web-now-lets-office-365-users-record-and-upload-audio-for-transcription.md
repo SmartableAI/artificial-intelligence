@@ -47,22 +47,6 @@ related:
         width: 400
         height: 521
         isCached: true
-  - title: "Microsoft Word To Take Voice Commands, Transcribe Recordings"
-    excerpt: "Microsoft said that updates to Office 365 will allow users to record conversations \"directly in Word for the web and transcribe them automatically.\""
-    publishedDateTime: 2020-08-25T20:55:00Z
-    webUrl: "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/"
-    ampWebUrl: "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/08/microsoft-word-voice-commands-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Microsoft adds a new feature to Word that beats Google Docs and all the rest"
     excerpt: "Microsoft will be giving Word users a free update that includes full-fledged AI-supported audio transcription."
     publishedDateTime: 2020-08-29T08:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/navy-pilot-not-surprised-ai-beat-hum
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-pilot-not-surprised-ai-beat-human-in-simulated-dogfight-2020-8"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence (AI) won simulated dogfights against a human F-16 pilot, 5-0; what does that mean?"
-    excerpt: "The next steps for the ACE program include integrating an AI agent into a small-scale combat aircraft and eventually to a full-size manned fighter."
-    publishedDateTime: 2020-08-26T10:06:00Z
-    webUrl: "https://www.militaryaerospace.com/computers/article/14182279/jet-fighter-artificial-intelligence-ai-dogfight"
+  - title: "AI airforce: Artificial Intelligence fighter pilot beats human in virtual dogfight"
+    excerpt: "ARTIFICIAL INTELLIGENCE (AI) experts have created a machine able to beat a human fighter pilot in a simulated dogfight."
+    publishedDateTime: 2020-08-30T12:27:00Z
+    webUrl: "https://www.express.co.uk/news/science/1329248/ai-airforce-artificial-intelligence-fighter-pilot-beats-human-virtual-dogfight-darpa"
+    ampWebUrl: "https://www.express.co.uk/news/science/1329248/ai-airforce-artificial-intelligence-fighter-pilot-beats-human-virtual-dogfight-darpa/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1329248/ai-airforce-artificial-intelligence-fighter-pilot-beats-human-virtual-dogfight-darpa/amp"
     type: article
     provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 34
+      name: Daily Express
+      domain: express.co.uk
+    quality: 66
     images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/08/F_16_26_Aug_2020.5f451167108a8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 708
+      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-airforce-artificial-intelligence-fighter-pilot-beats-human-virtual-dogfight-darpa-1329248.jpg?r=1598790283754"
+        width: 590
+        height: 350
         isCached: true
 
 secured: "kjPKBghDEZfv6rjs0YhKChlJp/D/GDlBm1gxmY9SqGjSnkVpp0z250UPJ4nA3QDhcSQhpKVKQaQ98e+JvsURTminTZZvSX+rfl1cjNi5lAXuNDW/pxW60xVoS4ma04UIXV4bRjbyf0gMEWVAp7N9RPG+5kgdwH32XRxthCbLyYdKS18jprpyrFtaieaNNTXMnmDSNkfd12NZP9P/Oi3raLnWeo/3UPMLJnQeRURrvPYQblMNF60yD8WUGugyRz7sVvH1LbrFvLeCGeHrTjsdzMblUmifVCir0hX1aEuQBO+i3lBsjrnAXD6LHhMHuB4ZPOC+1z6jMdvqGJpR4Ri17xUMEUdpSkziD8YefXCtI1hlE4G+PUkUecQRG3MnmZ1c0RFrA9ukZ57U5OSCh8VR09zIg0GD2nq8v0JmiYlWT9DHs+vIOpTSyG56ktvUaoB9BdACYYw+EpChPS9rCKWEmu9Q2Lh8LWhFp2JM62/Jr6s89E97/+kXWn3DGJOWwdkYv8Th9M+ol00i91ABqfSci2/I2XDVTEEH+iSlc17KLBw=;Ehyn/AKCBPwh9UpIa6mlwA=="

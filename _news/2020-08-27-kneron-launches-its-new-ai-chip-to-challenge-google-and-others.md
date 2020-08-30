@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-ch
 ampWebUrl: "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 204
+heat: 204
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 683
     isCached: true
 
-secured: "tqp4b7Rmp3C6xow/jbU6oFtwyFdTqWNogcmUFFxyPIlH0nIV95niPo+tBrtNZfVmav9GmxcAB3wjcl647KFLb21LS7yP2DmejBsXvBRH8W28usU6iRFpOTpkb2Y8MVax/w0sH/rG58nnDFf5mmB61OpxDd2gY1IuKFEz1czV8lDdwHYoZy+f2Ro/moDTDGmnWouYcRWu6Mee5+kBffXASk2m/tEp8uVkWOT6GN1pTQk2q1giUWjXwUBfk2W36YA1eNxPdfvdo2sFvA/y2z5RTAMW+xJmOyW+mp8YgF45ahs+rw43Yqphvtf4bRgAysoOaB6xb7U1pyEDHE4wYyhy9H4MwdB0U/BHVt11U9GCRL5wKfqfbjSfXavYsw6+retueuNcpCgr2cC3wQvHuJDpVdsApxAHiOLrXBUZktmdkFY3z8zUGMFcTdP0Kj9pwhapPTlIRfe1Lcw8CA8C0qQRo9uRjKpldWJM6l+0/1bBZiRJ0/obWgMESaSboMPN2gxHsdbMj3C/olbmLXfcvfsp9JUagU7hhZdPWXZFlmUw+Ps=;3bgRiyyWuloX/B+sACLkBw=="
+secured: "Jw9qYk54tGt2+iTzIP1R/CQ49AAjJF/WVeW4M9MCkOkUtOjwVOEupZnoUGf58/yFvixtaTGBFCll5w3sx4bKzFWYEMem7LJeoeiKP7Dz+/nRcP9TjAJKOYwkO9RVaPtFyWoRRBgOKChgoW8RpHYlXYK5Ao4c1y4dIUmoHcRBxvOqk7Yl5Y6pEVYBTE4EarOzCBA5W1hfRJElkggPwtWrX2GU82aDLvmgrXD8s+T5MkkGtMC0HO1k3Bg1Bd6CcsKvChAO1t62fdSuC/jQz+Ju2fPUJ2VL5pd5GeVunKUJEIYihnbbW8wHCVBvTRjKylIr1nUpDHH5ypXzWQ7/Lvr8YDY0ZGBkE7dDVwKTmPs9JFd2sgjIYDHgQYmN9pbRL5Dq0g18wWEAyopcnI6Sw2xkOwT1Bl8dV3/iOoukAZeQYom1CBlL+BO0ryXBFbZdVQwSBVNcQFevqtBtoUrot5QS4gugLXcMooJjqLZSERxWOKTvGlkh/d4v3vDFGEuUxPbUGXMKUDRGTaXWUeKo3OuMQo/HKiDy2e4zlFdI6KnbYD71z4Rn9n3udrfOY36s+qB/;pJrfVorHlKo3fploN/yaLA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 360
     height: 239
     isCached: true
+
+related:
+  - title: "Uber expands self-driving safety report after NTSB slams culture"
+    excerpt: "Uber Technologies Inc vowed to make public more safety information regarding its self-driving cars after the US National Transportation Safety Board placed partial blame for a fatal 2018 crash on the company’s policies."
+    publishedDateTime: 2020-08-30T12:25:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/08/30/uber-expands-self-driving-safety-report-after-ntsb-slams-culture"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/08/30/839979.jpg"
+        width: 1240
+        height: 828
+        isCached: true
 
 secured: "9Nk/u10MNi8Weq+ve8JDhdizmNfnsonsjXMmuqor4W2lqQeLeFz2dQm+3iITa4H4scguM1dZ+tPhekvfuFC2l1Rrnu0yq/5Tz+Ecn4La5FHZj4vGmFWV6apCwB0nsWaZrSnUOCtiOIlsUVeZXXvmbFoY3yGeHYJ+H3u776oir/hBgZsX/FqIU5hT74ZZfAQyp13AUja2HSvVOvjSULynyuFkbAv2O2OpWwlgOFX/+bY4lZ2ujjpIg7wdMwhtH7xhXwsuERskeNgcFFysrm+msrkB8hmPeb0v2J2IyAR0/g5Cx1CinIJ4qqpht3Q3pWzFp7gH8ewSRGKrD4YbIryzP9U7d4CHVnRjE/1nU448uPc=;tpPtY15Wr+6UA46gzQBvKA=="
 ---

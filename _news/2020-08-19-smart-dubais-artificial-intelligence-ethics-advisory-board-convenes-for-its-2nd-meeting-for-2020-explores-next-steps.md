@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Smart Dubai's artificial intelligence ethics advisory board convenes for its 2nd meeting for 2020, explores next steps"
-excerpt: "The meeting was split into three main portions, presenting options for the future roll-out of tools for better AI, considering the potential of AI Audit Practices, and Cybersecurity."
-publishedDateTime: 2020-08-19T10:34:00Z
-originalUrl: "https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/"
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/"
+title: "Smart Dubai’s Artificial Intelligence Ethics Advisory Board Convenes for Its 2nd Meeting for 2020, Explores Next Steps"
+excerpt: "The Artificial Intelligence (AI) Ethics Advisory Board – an initiative by the Smart Dubai – has convened for its second meeting for 2020 on Thursday, Au"
+publishedDateTime: 2020-08-19T10:47:00Z
+originalUrl: "https://www.albawaba.com/business/pr/smart-dubai’s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting"
+webUrl: "https://www.albawaba.com/business/pr/smart-dubai’s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting"
+ampWebUrl: "https://www.albawaba.com/amp/business/pr/smart-dubai%E2%80%99s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/smart-dubai%E2%80%99s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting"
 type: article
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Al Bawaba News
+  domain: albawaba.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://images.zawya.com/pr/images/2020/a_2020_08_24.jpg"
-    width: 450
-    height: 490
+  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-08/Photo.jpg?itok=H6R3M0O6"
+    width: 960
+    height: 540
     isCached: true
 
-secured: "xh9Pd0MjZL3Q4+U1vLqpfj46R3WvRYbZZL8njN2K40PsCEjlr1t9JBbPlvHtVgg2iqq/obOZlNXD8gGurXpFyNivqlpak9Fg3dPI9RzcSjS8Ul2JyKD/XcPuHsmslDwTEtwCkSRIKy01Q7rpPuFUBICy3X/1AbmtOfx+05fgQPpNPhu6Z3ybNJUjA5Yw8/Gxj4si0RarW3u89gbiqiJ7PFwJnxroC1iZ9dWLaAdtuddwig5o+ZHn4TOI4Bw/ics3/TIepVItXjiZP2a5qpanUv+zjLXrBWkWNNy4PUtKNEa5J6oZOK90pdFzCvN8Jmcaqby8EJJIL3vgOnAPBXFly17gF9Y7mFCi4hZJgzDekREeGYmMTXRfydAUp2+ZMrzy7QBDO7Tjeo9RmYJpB+cLL5Ro+ippg8/ghgyxv/UgvTZHFaG8MQ+O4Yff0k/KDEyaOo2ZcZlNAtlIovkebGlSFZ5KaLRLvE7AAZKgfKSNB3u6M08W5/MBJvpi8Wc5GVMq8dlyr7IRC+AbgK9RHLm6FEh1iRlDidDC+9DBycxWi6s=;87nMRK4IkiBGmEw1fPGITg=="
+secured: "ReN+48P9S3b6zIwavEd2Xav3jh3imqoRlnbr14HCx2iRcqiAd6P3TpGXVZ1I24NltQueLbTmU2f0QpP110mEdMrkJ1rnl9Hb4RjPhyVvt3YOeyTi5vvrXbcm9MLOCBEnipK5z+gRgen2IdyrDClG6s3NIDmDwPTgZkGLS6aGV6VFsRJU8BbLFA0fqa1Bcrr98iMT4v2ch7/Oh2rRBOcyyFzQEOAWkJdHe49o8/nMmkDRJJADWNZuKFCrTvT9OVDtgyaAcKONK6Dhtb11W0v9Pky6EjuysJ7scUf93SCVPVI1OPBDIiHqCHuJL+PFN8x2HMNkjkiJ4WGpWuqRDUopxJDNe0baHf3jUy786/3JyuU=;xe5wUg2i4PsFkYZ0/B0cXA=="
 ---
 

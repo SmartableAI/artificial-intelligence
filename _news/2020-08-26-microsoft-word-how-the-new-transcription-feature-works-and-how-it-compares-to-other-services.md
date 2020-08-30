@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-word-how-t
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/"
 type: article
 quality: 78
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-26-image.png"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Microsoft Word To Take Voice Commands, Transcribe Recordings"
-    excerpt: "Microsoft said that updates to Office 365 will allow users to record conversations \"directly in Word for the web and transcribe them automatically.\""
-    publishedDateTime: 2020-08-25T20:55:00Z
-    webUrl: "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/"
-    ampWebUrl: "https://www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/microsoft-word-voice-commands-transcriptions/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/08/microsoft-word-voice-commands-457x274.jpg"
-        width: 457
-        height: 274
         isCached: true
   - title: "Microsoft adds a new feature to Word that beats Google Docs and all the rest"
     excerpt: "Microsoft will be giving Word users a free update that includes full-fledged AI-supported audio transcription."

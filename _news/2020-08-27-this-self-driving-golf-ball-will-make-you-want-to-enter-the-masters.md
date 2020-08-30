@@ -9,8 +9,8 @@ ampWebUrl: "https://mashable.com/video/self-driving-golf-ball.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/self-driving-golf-ball.amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Mashable
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "This AI Tech Wants to Make You an Avatar That Will Work in Every Game"
-    excerpt: "Wolf3D, an Estonian company that originally focused on 3D printing, now has a simple goal: to put your 3D avatar into games, media, and virtual experiences. If these guys have anything to say about it,"
-    publishedDateTime: 2020-08-25T19:16:00Z
-    webUrl: "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938"
-    ampWebUrl: "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 87
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bnyn22fuecnls6r58ztb.png"
-        width: 800
-        height: 449
-        isCached: true
 
 secured: "s17i2ERjsCaSx6vO7RVDn1B3B+N9oUWsWaqp6OHQi1HuC/hIYQamXED9YbzPwfpXgJ7tG63Bj+34KgW/heplJdQrUQFtlXD1FJ+Tr0RypsO9Om7YDuHDSe7irt1+gqoXal5AZzvENC6B2HfNEBw1zle1FNLWFhnLOpBLYXcywax52JPIiHUIZmbrxAO4h3bKrAVx+D5AIdQhoCeX3lcPR40obqoqU0+E3U3eHBR2qshnvx468uHZMil9HdocVBuKUj/9E6nDbGtiBct9K7Me/hMFhauoMjH3+/OXlQxvrSXOIXkBJy+nFwsM1zgpETMj6pv1w7Xw1Y6JSIjCMTRd0RgQ6ii+Ca8vQZ+eHP6VIkc=;sCRvCYtSvHCRqMpZOUtcVw=="
 ---

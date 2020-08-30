@@ -41,6 +41,20 @@ related:
         width: 757
         height: 428
         isCached: true
+  - title: "Researchers find 50 possible new planets using artificial intelligence"
+    excerpt: "A research team from the United Kingdom's University of Warwick has figured out a way to use artificial intelligence to sift through NASA data, leading to the discovery of up to 50 possible new planets."
+    publishedDateTime: 2020-08-26T19:15:00Z
+    webUrl: "https://www.cbsnews.com/video/50-possible-new-planets-found-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/08/26/a7fa290b-dcba-4be6-82d4-3055af8fe150/thumbnail/1200x630/46b3b705919bbdc5b175a232ec0307bd/cbsn-fusion-researchers-find-50-possible-new-planets-artificial-intelligence-thumbnail-536790-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "mwVkK4N0sEPYP2yP4kIDJEBOvBuqLkVdT2SvGx+6XcJTos4i57gG9ZP6APePDyOf6NkgD3kmjbxQdGUcnfASwh+qySXXICHFmEZvApt4QWPE1kCdBr15cRW5HvIJuxkL/uCdrZinyWNFVnuXEhvh7cc2RXF56GSBbMab60cbyMWnyWk3gJ8McIZPzWu0JUAdHW4qFq/HOR8slxBZCRbC5WrXkBof3Wn6V5ci1GH7TpMnT87Irh+bI3tFi89yny9AWZhJ/Wqt1L0JKNrFz9FJi/cAQZtGzVD8blTmfgiOA+k+r8izBOSAvSfp4+QeMKGZ6tiI6uaCrPV0P/cttLr62mGAwqqwRooxCp2xbcHzC1w=;pZJNWCEdfKSemG3p0TTlJg=="
 ---
