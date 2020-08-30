@@ -69,22 +69,6 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 38
-  - title: "If Covid is about the State and its face-recognition technology, why do they make us all wear masks?"
-    excerpt: "There are some amazing theories out there to explain why our governments want us to socially distance and wear face masks, as if that was a mystery. In a recent article in the New Yorker, a protester claimed that social distancing helps secret experimentation into face recognition technology."
-    publishedDateTime: 2020-08-25T06:28:00Z
-    webUrl: "https://www.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
-    ampWebUrl: "https://amp.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
-    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
-    type: article
-    provider:
-      name: Belfast Telegraph
-      domain: belfasttelegraph.co.uk
-    quality: 29
-    images:
-      - url: "https://www.belfasttelegraph.co.uk/sunday-life/news/970e0/39475708.ece/AUTOCROP/w1240h700/2020-07-19_sun_60543427_I1.JPG"
-        width: 1240
-        height: 700
-        isCached: true
 
 secured: "Vc9gAbl6obSVzWeuv2wmPaQqs2H8DJiIPkV/XLr1BwGZdc6g4lPrJBFqc8c3IWZLwZFrWzjbNlpd0qYcGipZwD33ABqOr1lTVxuzsXJhefVKyOsx5lzCXHSAl5J1NICBjO5E0xaHbN+1jBc5c7y04L3TiMncctQfjf80NwH3Xyxud0hrWUg8B6X1+uBA/Rk+I8S4EhP+fqlyj+RlwUMWgzOYZaQW1hV68tmWcF/9yFdHDILflqugmuM/xOQ/QU64TDNgl1aJ3ojDiogbfxcBhzPTt/ITyrKs2XP0xy8AvYqLOdsZ4o+5P/JRjQT8SO5k0qNBLhu1jvkdk+BmagsbGQ==;LypRVfLGEk3MBKUN1nSODQ=="
 ---

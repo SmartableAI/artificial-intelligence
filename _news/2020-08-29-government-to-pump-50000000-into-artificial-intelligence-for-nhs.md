@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Government to pump £50,000,000 into artificial intelligence for NHS"
-excerpt: "Cancer patients are set to receive a faster diagnosis after a £50 million upgrade of pathology services (Picture: ) The NHS is set to receive millions of pounds for artificial intelligence upgrades as it works to clear a backlog of millions of cancer patients."
+excerpt: "The upgrade will lead to a 'faster and more accurate' diagnosis for cancer patients."
 publishedDateTime: 2020-08-29T13:22:00Z
-originalUrl: "https://metro.co.uk/2020/08/29/nhs-get-millions-ai-amid-backlog-cancer-patients-waiting-treatment-13195559/"
-webUrl: "https://metro.co.uk/2020/08/29/nhs-get-millions-ai-amid-backlog-cancer-patients-waiting-treatment-13195559/"
-ampWebUrl: "https://metro.co.uk/2020/08/29/nhs-get-millions-ai-amid-backlog-cancer-patients-waiting-treatment-13195559/amp/"
-cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/08/29/nhs-get-millions-ai-amid-backlog-cancer-patients-waiting-treatment-13195559/amp/"
+originalUrl: "https://www.newsoneplace.com/28567361911/nhs-government-artificial"
+webUrl: "https://www.newsoneplace.com/28567361911/nhs-government-artificial"
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Metro
-  domain: metro.co.uk
+  name: newsoneplace.com
+  domain: newsoneplace.com
 
 topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/metro.co.uk/wp-content/uploads/2020/08/nhs-b061.jpg?quality=90&strip=all&zoom=1&resize=600%2C315&ssl=1"
-    width: 600
-    height: 315
+  - url: "https://metro.co.uk/wp-content/uploads/2020/08/nhs-b061.jpg?quality=90&strip=all"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "eTmf6/yuQ36jTmcw/k1cyI+2+DRqGIqhVdLS0oTgDfgUUyrfRPuuckkc8m8OwMoOnihCr3WSXNFNc/OuMUis1oU6K4CFasZBjhsT5+A6jyXeghX1aCxhfasBfOMjRx1ZR+aU6SFgmPvZ0WJYYcsRVTT0jjLbVZHdatXjQIp9OlnsMfuMoKPVTEZhDAm26FtTVwJyIxX/94iUumoi1ng6eTy1ayPT0zy+D61MEg/BwlGzlwGlVopMHHN6m7BC6vrZ7ugBPHOIlk0yoJKI+x0ogy8q2uLoRywhhRczWm27W977F6SZZ4yn0uE26xpHREAxiARNPuk7lbZA6s4K2NZkJ4JMf9eVQfbA5gEJ80tCtng=;wdFCfmHsvB5W5qI5lE0waw=="
+secured: "H0k3fJ714C/7gcj1Waz7WcvkXUAMJUqvO0oulBlAm+PKSl/9FL/WIt/KzXDdCmtUMTfT6zcneN/OfHWr5Tm9/TIBB7bWw0OfzwdyUyGdVBSYpDHDR4J4NU6Ma+xDm+KbH+q01JZSqDxm3eXrtd81cdIwrVivmWNDyUqj85F4lnNUTY7x4Eet4tPdyymipFkSEfQxr/hFNgnt5j4rcJCM3ek9g4V04DQ8yRjbSjK+poVnuNKeBq628FyacxGxhzfQqC8uP3eWwyYtwvC3ZeXEiEX94m+9rbdQI0quFQa8fFRHiDYkMHyscnCzUnwdS0RIVp7An3aYowQ6d0aqLHpy8w2sHg5WhyggYrS6/iI20FU=;xyOn/T2nV453kYvZj/IAkA=="
 ---
 

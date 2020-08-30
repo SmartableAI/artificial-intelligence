@@ -1,27 +1,27 @@
 ---
 category: news
-title: "UC Davis to lead new artificial intelligence institute for next generation food systems"
-excerpt: "UC Davis has been awarded $20 million as part of a multi-institutional collaboration to establish a new institute focused on enabling the next generation food system through the integration of artificial intelligence (AI) technologies."
-publishedDateTime: 2020-08-26T13:06:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php"
+title: "UC Davis to Lead New Artificial Intelligence Institute for Next-Generation Food Systems"
+excerpt: "The University of California, Davis, has been awarded $20 million as part of a multi-institutional collaboration to establish an institute focused on enabling the next-generation food system through the integration of artificial intelligence,"
+publishedDateTime: 2020-08-26T17:04:00Z
+originalUrl: "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems"
+webUrl: "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: University of California, Davis
+  domain: ucdavis.edu
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/241215_web.jpg"
-    width: 1440
-    height: 1080
+  - url: "https://www.ucdavis.edu/sites/default/files/images/article/30779898645_4fbbf266a5_k.jpg"
+    width: 2048
+    height: 1536
     isCached: true
 
 related:
@@ -84,6 +84,6 @@ related:
         height: 450
         isCached: true
 
-secured: "W4kDQDdEHaV/yZUQaD9Z7jE0HotOVEdtd3+XtMhMvpHhNLzp8GPkY8nXhuTbbJjVw7gD0SP14OqL6Zu4qiqEOapcxA7uHKamPdHGNRK7y9CvNwA2pUsg/+mHiXCWmqlgKpmAcH+tcGi//e4jNO0UUBmgaq/7RWQ6o5YZAShnJp0cJKSmYHOlJhW1K8wXKE7p9AAPli2EiH731aFDg0k+vdXLd9asdifueFrnMnaQTGRCudE1jAGmK2oJsi1gSLlZ4Tl3H809p8fJBzxI6f+zyMwzXlhRstOec2O3vVTj5f6fxyoJtvJCk+Qb2sAwDPjqmMptmlTD3pCGBAmwktKOPQ6qlIM14/cZAAVFHyUc+Hk=;mBO2exCRd5VGPlTORDv74w=="
+secured: "LGmuF78S8Nry/IdVaPGUpggN7zZMujF09P5cNz+VkILyewXjYkkusVz14IvqkVFRRW2Fghv0kac+gY0/AK+i2uBFoGWb/XoE+7gOmEIP7MHvobpcYaMlWmw3AtG20Hj4AkQdtKRmzaapjouBQcJ3gDvoCMpfq1FAHTgpkcNf92KRd2yPW/5m9N7rE9k/Hffnux+476hpjfWYo2qkqf304TFoyUvzhGGJd4Nke9If06cRL3is9Xz6YLiagCailE35tl8scVOm0iGTFRV0ytqixbCktQGcwRoLtL9jBpTJdT2zhyjjSlZ/X4ucNBGu64idVAhJVP2DJ52yOeK84Xi72VNVubhM81uxRYhnO8n+jso=;Liw1+ZP5tNuwEnAVJe/4jw=="
 ---
 

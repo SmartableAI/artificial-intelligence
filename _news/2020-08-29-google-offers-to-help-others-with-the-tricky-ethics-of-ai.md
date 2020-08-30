@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Google offers to help others with the tricky ethics of AI"
-excerpt: "The company plans to launch new AI ethics services before the end of the year. Initially, Google will offer others advice on tasks such as spotting racial bias in computer vision systems, or developing ethical guidelines that govern AI projects."
+excerpt: "The company plans to launch new AI ethics services before the end of the year. Initially, Google will offer others advice on tasks such as spotting racial bias in computer vision systems or developing ethical guidelines that govern AI projects."
 publishedDateTime: 2020-08-29T13:00:00Z
-originalUrl: "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/"
-webUrl: "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/"
+originalUrl: "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/?comments=1"
+webUrl: "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/?comments=1"
 type: article
-quality: 86
+quality: 84
 heat: -1
 published: false
 
@@ -19,9 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Ethics
-  - Facebook AI
+  - AI
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/ai-artificial-intelligence-760x380.jpg"
@@ -47,6 +46,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "ZiiTMpWkHwZs55OFAM/c3jz+Jpp5RxuY8dv3Upww6od72jpa8NYXzb7ZN1lI9KA3XgC4p0vnI2OAXo2qqHoXMBmDFXURDxdeOOmNPv9xeTIRdS7yudGGezk9eMg54zDPU60pzSOaIvCuxSrq6js3GLsmN0hpmKbc/XvMLHp0bSAtL02SUnkWIBl47NDQw1tmbDRffKFJQcRd1ImIdOLq19vHHMgYIkuwLKH8BK8rAPuz4kXc8TEL84x5AVI7WbbgAe8bWYv5uXLjKDAELAg+8H7b4lVuPEjDCchVFAZ2lh4ny49xB2XxceGxj2MZe2ZKgnsspebvFs3W5jImxAsgp/mhRy6dAQbTWT0TeAmgcw43eHTSfy/XdvUoaPf2TGcXF3DkmJcQ1vVODNzTRkaHAKgRPflny8Rv8LHCc8aGvDrWb7IrRkZqfh6rQ7fk5eOUHmbTgL8cmwGNui9gj+7GSXC2otYSlczNw33bIyEzdkpSywC+YcfItYfkSUi+jiW2bO2oYcecxhDjYFOwihDcBDXCnQgsD+xymkqsHuV2PHE=;+rnO6bLIpZdWsbRv6nbr0g=="
+secured: "MQvqijMajUemgnkq70c8UYxTRjZjArJhLZszqG5tT4yKIibapciCRoGKfnUoD558X6ZsnE5nnQ2/Erec5FvrwMm6aNQ7s45U12vScEy2wo9cQuiAhh26BGpQlLmFmK5BtFK8AwWqGS2v53D5X1VbdcY0rggVtJGkK5Y/06KGKnrePrfAa26+feKlb0KxDZ0zgS2bt//xnWCEYQyqQzBb4Ff8EUo1lLiDlSh8VSh+NM524RoUoVGh21OlKKMBagdNMRt8BGovPVcNmTWaRYSho4MPVt1fR9aV7sPyeNQwy+fuGyS/O2kb5fvQh5pqGHUMol7Ja5viAJX4DSFk+ngfVoBEMkV79tq22rQP1r4wGBs=;pQucUxmjQ/TWt2aOCULlZw=="
 ---
 

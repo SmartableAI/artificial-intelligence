@@ -2,6 +2,55 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-08-21-ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-simulated-dogfight-contest.md",
+      "title": "AI Murder Machine Kicks Air Force Pilot's Ass in DARPA's Simulated Dogfight Contest",
+      "excerpt": "Anyone remember the 2005 sci-fi movie Stealth? As far as I can remember, it involves a secret, artificially intelligent U.S. Air Force fighter plane that rebels against its creators when it is struck by lightning.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pkvkr2tadkg4dlsaanph.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp",
+      "publishedDateTime": "2020-08-21T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-from-ai-weiwei-a-portrait-of-wuhans-draconian-covid-lockdown.md",
       "title": "From Ai Weiwei, a Portrait of Wuhan’s Draconian Covid Lockdown",
       "excerpt": "Ai said the documentary film “Coronation,” which he directed remotely from Europe, “is trying to reflect what ordinary Chinese people went through.”",
@@ -1043,6 +1092,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-21-reinforcement-learning-market-to-see-massive-growth-by-2025-bonsai-deepmind-technologies-maluuba.md",
+      "title": "Reinforcement Learning Market to See Massive Growth by 2025 | Bonsai, Deepmind Technologies, Maluuba",
+      "excerpt": "Global Reinforcement Learning Market Report from AMA Research highlights deep analysis on market characteristics, sizing, estimates and growth by segmentation, regional breakdowns & country along with competitive landscape, players market shares, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2020/08/21/reinforcement-learning-market-to-see-massive-growth-by-2025-bonsai-deepmind-technologies-maluuba/",
+      "originalUrl": "https://ipsnews.net/business/2020/08/21/reinforcement-learning-market-to-see-massive-growth-by-2025-bonsai-deepmind-technologies-maluuba/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icrowdnewswire.com/wp-content/uploads/2020/08/824-1597987804.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-20T23:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-object-detection-in-low-light-conditions.md",
       "title": "Object detection in low-light conditions",
       "excerpt": "Socionext and the Osaka University Institute for Datability Science have developed a method of deep learning, which enables image recognition and object de",
@@ -1080,88 +1170,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-reinforcement-learning-market-to-see-massive-growth-by-2025-bonsai-deepmind-technologies-maluuba.md",
-      "title": "Reinforcement Learning Market to See Massive Growth by 2025 | Bonsai, Deepmind Technologies, Maluuba",
-      "excerpt": "Global Reinforcement Learning Market Report from AMA Research highlights deep analysis on market characteristics, sizing, estimates and growth by segmentation, regional breakdowns & country along with competitive landscape,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/266157161/reinforcement-learning-market-to-see-massive-growth-by-2025--bonsai-deepmind-technologies-maluuba",
-      "originalUrl": "https://www.bignewsnetwork.com/news/266157161/reinforcement-learning-market-to-see-massive-growth-by-2025--bonsai-deepmind-technologies-maluuba",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icrowdnewswire.com/wp-content/uploads/2020/08/824-1597987804.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-20T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-this-wearable-ai-translator-lets-you-talk-freely-and-naturally-in-different-languages.md",
-      "title": "This wearable AI translator lets you talk freely and naturally in different languages",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle/",
-      "originalUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F01%252F08%252F6e%252Fcde31ac0debc4a54974622afc46c4242.e83a8.png%252F1200x630.png?signature=dW04es9FGsB6uLNoFow3pv8shcY=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-20T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

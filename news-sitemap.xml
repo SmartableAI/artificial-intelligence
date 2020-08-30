@@ -511,6 +511,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely</loc>
+    <lastmod>2020-08-25T17:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/</loc>
     <lastmod>2020-08-25T16:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1183,14 +1189,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.electronicsweekly.com/news/business/object-detection-low-light-conditions-2020-08/</loc>
-    <lastmod>2020-08-20T22:58:00-07:00</lastmod>
+    <loc>https://ipsnews.net/business/2020/08/21/reinforcement-learning-market-to-see-massive-growth-by-2025-bonsai-deepmind-technologies-maluuba/</loc>
+    <lastmod>2020-08-20T23:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bignewsnetwork.com/news/266157161/reinforcement-learning-market-to-see-massive-growth-by-2025--bonsai-deepmind-technologies-maluuba</loc>
-    <lastmod>2020-08-20T22:52:00-07:00</lastmod>
+    <loc>https://www.electronicsweekly.com/news/business/object-detection-low-light-conditions-2020-08/</loc>
+    <lastmod>2020-08-20T22:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1855,6 +1861,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
+    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1891,19 +1903,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
-    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/kasiaborowska/2020/08/18/top-3-applications-of-machine-learning-to-transform-your-business/</loc>
     <lastmod>2020-08-18T05:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wallstreet-online.de/nachricht/12844999-vmware-enhances-self-driving-operations-and-programmable-automation-with-updates-across-vrealize-cloud-management/all</loc>
+    <loc>https://apnews.com/b87152f12e274ede8395fc39f3623c4a</loc>
     <lastmod>2020-08-18T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

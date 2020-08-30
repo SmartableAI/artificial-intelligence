@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Future Electronics to Hold AI and Machine Learning Live Session at 2020 EETech Industry Tech Days"
-excerpt: "(MENAFN - Online PR Media) Future Electronics will hold a live session on Artificial Intelligence (AI) and Machine Learning at the 2020 EETech Industry Tech Days virtual event. Online PR News 29 ..."
-publishedDateTime: 2020-08-29T19:13:00Z
-originalUrl: "https://menafn.com/1100714149/Future-Electronics-to-Hold-AI-and-Machine-Learning-Live-Session-at-2020-EETech-Industry-Tech-Days"
-webUrl: "https://menafn.com/1100714149/Future-Electronics-to-Hold-AI-and-Machine-Learning-Live-Session-at-2020-EETech-Industry-Tech-Days"
+excerpt: "Future Electronics will hold a live session on Artificial Intelligence (AI) and Machine Learning at the 2020 EETech Industry Tech Days virtual event."
+publishedDateTime: 2020-08-29T20:11:00Z
+originalUrl: "https://www.mynewsdesk.com/ca/future-electronics/pressreleases/future-electronics-to-hold-ai-and-machine-learning-live-session-at-2020-eetech-industry-tech-days-3030152"
+webUrl: "https://www.mynewsdesk.com/ca/future-electronics/pressreleases/future-electronics-to-hold-ai-and-machine-learning-live-session-at-2020-eetech-industry-tech-days-3030152"
 type: article
 quality: 41
 heat: 41
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: mynewsdesk.com
+  domain: mynewsdesk.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-    width: 300
-    height: 250
+  - url: "https://d9qz450atvita.cloudfront.net/assets/graphics/logos/mynewsdesk-dfa651f50b8d922b50d4a45a7ec1677e9b42e11968483f7b3563cb727540e36e.jpg"
+    width: 1024
+    height: 1024
     isCached: true
 
-secured: "4Cx+xB7uv/CUS9ZiCy/tAvcjQvz4t0NQBbIqneDdAleSfbSeW35gxFAj0i3xp6rpXBg26fbDGhlzy1DVh+Pui3rPDTT3FS62DZD7IImAIRQSlbxyfxeze2QiVkY7Fl6mTLOG/b4FrAn3J4DnJOt6Ej2a9bwy0sfXaC2uV+9MMqQR9mHl1+VquIDIkwlfQdMZcWdwhHtFXorCKCdAkGIU3w+Sv+QCSnKOwj/YIIu+phN4P4CeKtQnztwzo2knpljqUGAB5nex+VN4GfcwB3C3YE1GOCEgUZELAR59RU0SL82qO53YEdd+5pUJB8hNa1fvMA29GVWgjzZBowb8gIcWa3ghPqMO/0E/3AJiUgPUKzQ=;gWzxZm6ikdzoL/yp6ETnIg=="
+secured: "DjKeHRDb56LzRIXR5AKRZPZdFOrdmlEMT4qnCLsI6PK3nx7KnsjdV1XYr3ScVDFt20MI+MrchU1g0lULGtMZZtZKzVRdQZZpiiOXmyVNsgb/41ChKmX58EaimMcAiPTIMEJbxg+ybLjgHGdAAj+bHJIuNDqUmll1TNz1ihhtzIPby/WPM70pp6onw0cFS+yaUx3oj4izl9mK6HP7iBKIVRCLzth9eQnPkS0Tb/nqX0ABDY/fZyxXRLgy/xTMKApD8gGTu7lhVVPuLlibC4WIDgCbm08Eaoek8rK/bWh5QQgy+40k4AF+FKXaRvRrTdB893u3utiakgUqTs970Yf5tTPpWQ+4/oHnpZa8Z8BoOag=;6qlNUW/kDl75uuEpo2WXMg=="
 ---
 

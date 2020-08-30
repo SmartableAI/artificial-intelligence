@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Reinforcement Learning Market to See Massive Growth by 2025 | Bonsai, Deepmind Technologies, Maluuba"
-excerpt: "Global Reinforcement Learning Market Report from AMA Research highlights deep analysis on market characteristics, sizing, estimates and growth by segmentation, regional breakdowns & country along with competitive landscape,"
-publishedDateTime: 2020-08-21T05:52:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/266157161/reinforcement-learning-market-to-see-massive-growth-by-2025--bonsai-deepmind-technologies-maluuba"
-webUrl: "https://www.bignewsnetwork.com/news/266157161/reinforcement-learning-market-to-see-massive-growth-by-2025--bonsai-deepmind-technologies-maluuba"
+excerpt: "Global Reinforcement Learning Market Report from AMA Research highlights deep analysis on market characteristics, sizing, estimates and growth by segmentation, regional breakdowns & country along with competitive landscape, players market shares, and ..."
+publishedDateTime: 2020-08-21T06:26:00Z
+originalUrl: "https://ipsnews.net/business/2020/08/21/reinforcement-learning-market-to-see-massive-growth-by-2025-bonsai-deepmind-technologies-maluuba/"
+webUrl: "https://ipsnews.net/business/2020/08/21/reinforcement-learning-market-to-see-massive-growth-by-2025-bonsai-deepmind-technologies-maluuba/"
 type: article
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Inter Press Service
+  domain: ipsnews.net
 
 topics:
   - Google AI
@@ -21,6 +21,6 @@ images:
     height: 300
     isCached: true
 
-secured: "HxhNMmmSUxdY3qLfFEPdAvYyHXPx/1qcib4uaekI6ewPpceqrwSOHverqyfJUxoLbAYS9uUPLYl7PkLAHSBPlCvph932ZI+tOAzfywGoyqQ/oh1GIBhPitd47M9mqgyV0nejq9oW07lVKIEfGb6OzdnHLX0G9yp8cPsjDGUc6BaMKCxiLu5Jcb+cNMkWFkY1jehC3qixVliHOuhyIsR+mbeWu7HBN2WIXufSebGYfMF24rhb47uko3FpzQxrqLvISalcu5eVesT21WCdxzKmUZT57SA8NLEmFy1XfPo/9v4vEeU4RKSIrGA8DU9brv6nav/vd1YOucq9C6qywZtWigjs3enBrjhDYma+gCbafEc=;Q+firDtiMPXIZooDpfA3Jw=="
+secured: "RKeoFzFMCgnxbSVjNt08T+M26LdpEp4zIVaXQpJQeiywxJGxmNWZwRclwP9sJiuxPENMCPhMgb+6qyGAkn668JkpShBNm+DnwfTT3GSkynO5vXhw3ThdDeSP9LO/q9PL/m0NOYywRqzpAj20BVj362b5AseyV8rgUQHfGxZBvz9G0oC3tY+ChWNDzD2gUoq7HKpzdEHdUNQur4r4p5tYEla+98AV2fI4xwTWuqVyWunPORg56RYB4zcZjRg4sSh4nvyiwDC0U/cNT4YTyS8K5yg45zXOGMqfylNuOlrREnN7HV2J8JoMtkf5uDo0YwcK4yUFd0crCNx4+x1LsYic7We5GKFLQchKMXVEnD8pL2s=;9+WNHRakuAmjzlZdRZDrLA=="
 ---
 

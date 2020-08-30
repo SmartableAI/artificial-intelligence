@@ -67,22 +67,6 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 38
-  - title: "If Covid is about the State and its face-recognition technology, why do they make us all wear masks?"
-    excerpt: "There are some amazing theories out there to explain why our governments want us to socially distance and wear face masks, as if that was a mystery. In a recent article in the New Yorker, a protester claimed that social distancing helps secret experimentation into face recognition technology."
-    publishedDateTime: 2020-08-25T06:28:00Z
-    webUrl: "https://www.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
-    ampWebUrl: "https://amp.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
-    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
-    type: article
-    provider:
-      name: Belfast Telegraph
-      domain: belfasttelegraph.co.uk
-    quality: 29
-    images:
-      - url: "https://www.belfasttelegraph.co.uk/sunday-life/news/970e0/39475708.ece/AUTOCROP/w1240h700/2020-07-19_sun_60543427_I1.JPG"
-        width: 1240
-        height: 700
-        isCached: true
 
 secured: "mU+WvBo8D2YgtXK+/K+s9j4csCHycsTMptUqmb7M42SLXDYg1w5m4wFPlmQ/fxrCdoL0MzT7LOSV6+3sFct0mwOZSt0eEkgPEQE8CBQ4u13UM9SrrHiCM7WrGVh3o4gXDswzly9LMlyMdYU4k02G9D/z79Z8giHTrNH+bFohLVWe8XzcPvBrjt206ZM3Po3IZiAyXmQFlBnPIvZvXts1cJlM+O8oUkyCDFdjNzUXoQEwHuodVq2dGzeoPzdikz8i4kU8NTDxRBo6PAqH4pq9GS7u4dYl5qpr4icQbet/Z3iTgiyrfSOLLX3MHtmblmQIe+sa8rvS5GIGRQNafiC75u8Dzm9hGJZDv5P8aAMXRJoklBamDTx4yBqi0+jyw5fRzOYy8tb+sxjYIaNfnTNPXkMUMqerCDgryahBwV303T23ReD0YC30+J2czrGjryuvAOFpNIHMKzqjBPTRcwvVKRkaiWXRw5NTMxmG8E0GmrQqvnPYmSHxEfpy+cjdGg/cK64O3CTuEZ+4syQwT9Ru+63jsWIxHWZl8/j56SyHQCg=;ZL0DvH64Rk0Vh0i0q/fJmQ=="
 ---

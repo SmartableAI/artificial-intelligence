@@ -479,6 +479,48 @@
       ]
     },
     {
+      "path": "_news/2020-08-26-covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely.md",
+      "title": "COVID 19 Update: Global Healthcare Artificial Intelligence Market Stocks Gain, Rises Immensely",
+      "excerpt": "Healthcare Artificial Intelligence Market” Healthcare Artificial Intelligence (AI) Market Research Report: Information by Component (Hardware, Software,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1598357109.jpeg",
+          "width": 417,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17242858",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17242858",
+      "publishedDateTime": "2020-08-25T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-coronavirus-may-help-best-buy-become-a-key-healthcare-player.md",
       "title": "Coronavirus May Help Best Buy Become A Key Healthcare Player",
       "excerpt": "Best Buy reported a better-than-expected second-quarter profit as coronavirus led consumers to buy appliances, computers and fitness gear to better their remote working and learning experiences. But the pandemic may also hasten its transition to becoming a major healthcare-industry player.",
@@ -777,7 +819,7 @@
       "webUrl": "https://www.cnet.com/health/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1145,55 +1187,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-apples-final-cut-pro-x-uses-ai-to-auto-crop-videos-for-social-media.md",
-      "title": "Apple's Final Cut Pro X uses AI to auto-crop videos for social media",
-      "excerpt": "Apple has updated Final Cut Pro X with a slew of features and improvements. The editing suite can now use machine learning smarts to automate video cropping for social media-friendly formats, including square and vertical sizes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/apple-final-cut-pro-x-social-media-machine-learning-162618607.html",
-      "originalUrl": "https://www.engadget.com/apple-final-cut-pro-x-social-media-machine-learning-162618607.html",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fc0ccd0a0-e6ec-11ea-bade-0c76256ca1ce&client=amp-blogside-v2&signature=bb64bffecc1b016ff74f04b6b95cf33cc35babd7",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/apple-final-cut-pro-x-social-media-machine-learning-162618607.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/apple-final-cut-pro-x-social-media-machine-learning-162618607.html",
-      "publishedDateTime": "2020-08-25T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

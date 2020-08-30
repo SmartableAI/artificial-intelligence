@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-designed-to-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/"
 type: article
 quality: 99
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -69,22 +69,6 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 38
-  - title: "If Covid is about the State and its face-recognition technology, why do they make us all wear masks?"
-    excerpt: "There are some amazing theories out there to explain why our governments want us to socially distance and wear face masks, as if that was a mystery. In a recent article in the New Yorker, a protester claimed that social distancing helps secret experimentation into face recognition technology."
-    publishedDateTime: 2020-08-25T06:28:00Z
-    webUrl: "https://www.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
-    ampWebUrl: "https://amp.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
-    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
-    type: article
-    provider:
-      name: Belfast Telegraph
-      domain: belfasttelegraph.co.uk
-    quality: 29
-    images:
-      - url: "https://www.belfasttelegraph.co.uk/sunday-life/news/970e0/39475708.ece/AUTOCROP/w1240h700/2020-07-19_sun_60543427_I1.JPG"
-        width: 1240
-        height: 700
-        isCached: true
 
 secured: "PdjNb7NP3pdoFOiCGCtvryICDcrAZsBMxmOrTdMmZNjvD35BgIMPPhWl0dhtxgfizE1ocsM3mt/XD+cTu04zVbOb2S5EQ3T8CiaPKMagYY2EgRm8fOqtjw6ox6hVY2lhPXt93Y9hq24jek06hMmWLUDCjq/PolJ6TfNUNMIBIRwKCgoulzPgu333s5eUPRhc1w+mxHPJbRHYPRG91w4SoESSHVFRvruNR/R+YpzI9ki2WbsyfzwQhpLICJBALRb6vSrjghUXkBtPsUc5gp4ISJP+XVl3u7sUmXl3lyr8JIKvJhxtKBJDeA/xXQgH1ly1S/AX4PEHkMqT2xNYF6wucA==;K6h2gIJOw1jxx5rzodZwDg=="
 ---

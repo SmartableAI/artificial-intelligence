@@ -2,6 +2,56 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-08-03-new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits.md",
+      "title": "New ‘unselfie’ AI technique makes your selfies look like posed portraits",
+      "excerpt": "Researchers have developed an AI technique that transforms selfies into 'pose-neutral' portraits with relaxed arms and torsos.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/03/new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Screenshot252056_photos_v2_x2_photos_v2_x2-e1596470495839_photos_v2_x2-e1596470569733.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/03/new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/03/new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits/amp/",
+      "publishedDateTime": "2020-08-03T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-03-the-continuing-growth-story-of-artificial-intelligence-ai-in-cybersecurity-market-darktrace-ibm-nvidia-intel-xilinx-aws.md",
       "title": "The Continuing Growth Story of Artificial Intelligence (AI) in Cybersecurity Market | Darktrace, IBM, NVIDIA, Intel, Xilinx, AWS",
       "excerpt": "The latest 160+ page survey report on Global Artificial Intelligence (AI) in Cybersecurity Market is released by",
@@ -1083,55 +1133,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-02-ai-is-struggling-to-adjust-to-2020.md",
-      "title": "AI is struggling to adjust to 2020",
-      "excerpt": "Identifying the new context we’re asking the system to understand is the first step towards moving visual AI forward. Then we need more content.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/02/ai-is-struggling-to-adjust-to-2020/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/gettyimages-1134461939-170667a.jpg",
-          "width": 510,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/02/ai-is-struggling-to-adjust-to-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/02/ai-is-struggling-to-adjust-to-2020/amp/",
-      "publishedDateTime": "2020-08-02T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

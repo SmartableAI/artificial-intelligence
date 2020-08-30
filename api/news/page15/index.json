@@ -2,6 +2,55 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-08-17-how-can-data-quality-enhance-trust-in-artificial-intelligence.md",
+      "title": "How Can Data Quality Enhance Trust In Artificial Intelligence?",
+      "excerpt": "As organizations rely more and more on AI, we will see an increase in trust as more regulations ask businesses to identify the source of any data and create transparent and explainable algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/17/how-can-data-quality-enhance-trust-in-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/17/how-can-data-quality-enhance-trust-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/17/how-can-data-quality-enhance-trust-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-08-17T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-elon-musk-hints-at-teslas-not-so-secret-dojo-ai-training-supercomputer-capacity.md",
       "title": "Elon Musk hints at Tesla’s not-so-secret Dojo AI-training supercomputer capacity",
       "excerpt": "Elon Musk has made a rare new comment about Tesla’s now not-so-secret ‘Dojo’ program to create an AI-training supercomputer and gave a hint of its capacity. Last year at Tesla’s Autonomy Day, the CEO first confirmed the existence of the ‘Dojo’ program: “We do have a major program at Tesla which we don’t have enough time",
@@ -1079,55 +1128,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-white-house-aims-to-boost-funding-for-ai-and-quantum-tech-by-30-in-2021.md",
-      "title": "White House Aims To Boost Funding For AI And Quantum Tech By 30% In 2021",
-      "excerpt": "By committing to invest $2.2 billion next year, the Trump administration says it is on track to honor a pledge to roughly double non-defense R&D spending on the two key technologies between 2020 and 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3725560f3c747c3e65fc5f%2F0x0.jpg",
-          "width": 1200,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/amp/",
-      "publishedDateTime": "2020-08-14T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

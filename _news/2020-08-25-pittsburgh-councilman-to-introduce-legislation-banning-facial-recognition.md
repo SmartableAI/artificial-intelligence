@@ -64,22 +64,6 @@ related:
         width: 1600
         height: 1094
         isCached: true
-  - title: "If Covid is about the State and its face-recognition technology, why do they make us all wear masks?"
-    excerpt: "There are some amazing theories out there to explain why our governments want us to socially distance and wear face masks, as if that was a mystery. In a recent article in the New Yorker, a protester claimed that social distancing helps secret experimentation into face recognition technology."
-    publishedDateTime: 2020-08-25T06:28:00Z
-    webUrl: "https://www.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
-    ampWebUrl: "https://amp.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
-    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/opinion/columnists/malachi-odoherty/if-covid-is-about-the-state-and-its-face-recognition-technology-why-do-they-make-us-all-wear-masks-39473320.html"
-    type: article
-    provider:
-      name: Belfast Telegraph
-      domain: belfasttelegraph.co.uk
-    quality: 29
-    images:
-      - url: "https://www.belfasttelegraph.co.uk/sunday-life/news/970e0/39475708.ece/AUTOCROP/w1240h700/2020-07-19_sun_60543427_I1.JPG"
-        width: 1240
-        height: 700
-        isCached: true
 
 secured: "oEeaCFlzyh+RFhtAc2/2dRV0NzVm+yA8tBjWRofZkqI3b8L5bfF1bFuqZNqhGowleDz7bi6gAKtWzQQ7IYVvhN8fA0m/8GOg8YYVH4+y4CYsS4URU1fcqP6KVKO/AjN62tpMJGXqRJxR7O6MzFLir3GGzEe464EPn6jC6fo/EDsSAlegR3+jWIro9KUWTv7o0rWiwor9vre5aHSpdteFnOdqqmsX6bgStQKz8SQj+h9swlduxrcZPs607kzie6Tm4LRNdGgC8RWHesuyIPrMExL+qgaqgRmKeIEV2IzdtcRIYCjGS5w+gqAq9aBa/qX78+m8W39fWwdpgvertMMBox1xthwv/1CazAumdoiGFWP8CSR5bFCF1JqSCBpuq92OJHXH7iu+W3dnaMnAP23GJ+J0vGGflQYM0tAyoaYDaCqdcmQESzUmOK9nrHCpWH9j9Pf/6GqbSAanxAYIYFa38qOvL5yqbMVbBJGQO+sEVgyBXLWjdA3BY5bchHH4UgTHAZISG0uVQBtFkk9hpOTiyg==;ybIhoiRiI6Qa2iW4kPrBVw=="
 ---
