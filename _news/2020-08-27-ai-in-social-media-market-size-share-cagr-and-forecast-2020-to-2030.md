@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-marke
 webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030-2020-08-27"
 type: article
 quality: 67
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -97,20 +97,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Technology Market 2020 Global Analysis, Opportunities And Forecast To 2025"
-    excerpt: "The global Speech and Voice Recognition Technology Market is studied in great detail in the new research report, which provides the readers with an accurate overview of the market"
-    publishedDateTime: 2020-08-25T18:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Reco
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html?AMP"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Tech A Safe Way Forward For Policing, Retail Business"
+    excerpt: "Art inspires life as life inspires art. Sometimes, technology inspires art too. Bollywood had made a song and dance sequence on face-recognition technology way back in the 90s. It never was a hypothetical question,"
+    publishedDateTime: 2020-08-28T16:26:00Z
+    webUrl: "https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/"
+    ampWebUrl: "https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 73
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2020/08/Untitled-design-2020-08-28T205829.270-min-1.jpg"
+        width: 1360
+        height: 1020
+        isCached: true
   - title: "How facial recognition technology could be utilized in a COVID-19 world"
     excerpt: "It's not science fiction or the movies; facial recognition technology is now part of our world. TensorMark Inc., a US cloud-based AI and computer vision technology provider, is working with University Hospitals to come up with a way to make it work during the COVID-19 pandemic."
     publishedDateTime: 2020-08-27T23:04:00Z
@@ -42,6 +58,20 @@ related:
       - url: "https://media.wkyc.com/assets/WGRZ/images/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Facing gender bias in facial recognition technology"
+    excerpt: "Facial recognition bias is real, and software providers struggle to be transparent when it comes to the efficacy of their solutions."
+    publishedDateTime: 2020-08-27T05:04:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/08/27/facial-recognition-bias/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 41
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2018/10/09100001/identity.jpg"
+        width: 1600
+        height: 1094
         isCached: true
   - title: "Council Introduces Bill To Regulate Facial Recognition Technology Use"
     excerpt: "As Pittsburgh City Council returned from its August recess on Tuesday, Councilor Corey O’Connor introduced legislation that would regulate the city’s"
@@ -108,15 +138,6 @@ related:
       name: clickondetroit.com
       domain: clickondetroit.com
     quality: 21
-  - title: "UK Court Spurns Police in First Legal Test of Face Recognition"
-    excerpt: "As the world’s first legal challenge to police use of facial-recognition technology, the decision by the Court of Appeal has established an important precedent,” she said. “Other authorities will think again before rolling out similar technologies,"
-    publishedDateTime: 2020-08-25T18:57:00Z
-    webUrl: "https://cyber.harvard.edu/story/2020-08/uk-court-spurns-police-first-legal-test-face-recognition"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 19
 
 secured: "MLHkotp3PpDESBQl3ZFHwbuZj4RI1gGdl4kHbWOzOqk1B7QlYMH7cI/qmS9+gtYNT7HB5AepzXdU+mCiDkDmpvjqa1uy91HiuAVi6I7rx14/Xv5RmC8B/dKZ9jZ+kIHlpAq5vG4iCimNrmZ0vAMQIYd2/BflVI7tNmJSv8awbSWue4eyYEOV1OdVcCNlQ37wwbWRSLtcs6lIAQZEcgQun/e3V1zpvrSToyzTIuZo+r+55+jjUrp683UW3UysXZR05N+xIypVaUj9IjWXyM6HdSfIlqXIEWzpdi3uOGnFVlq51Z5rNjr2VxV2Tx+ZyZhTGAh64HjEfCNebK7cBv4xyecY2jtLMShS5SyLCF3jILEJIGo2gHfUmrZS4H505oLkBq4lMXwmS4w+v1IN98xJs0HQE6lF52yFs7bu+kLzTKmuRfAZ7iUjkU+PNa55QdHIqCPPgDFsYExMdbxwv+UBCQw0mBNuQVuk/CzYCFkXnEYeOqckDb0+iF1RJkhSpIKUlth+24Yyt9VfLyQgUnCzQKDgVvIlMM7sDP+QrdLOOBQ=;Gu8L3BovA1lj+jRz1thCHw=="
 ---

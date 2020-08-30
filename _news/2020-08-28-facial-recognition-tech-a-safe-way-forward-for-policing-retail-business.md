@@ -27,36 +27,117 @@ images:
     isCached: true
 
 related:
-  - title: "More Facial Recognition and Drones Wanted for the US-Canada Border"
-    excerpt: "Industry groups want advanced biometrics to secure the border between the two countries once it reopens after COVID-19."
-    publishedDateTime: 2020-08-25T17:08:00Z
-    webUrl: "https://www.vice.com/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border"
-    ampWebUrl: "https://www.vice.com/amp/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border"
+  - title: "Atlanta Airport to Test Facial Recognition, Contactless Tech"
+    excerpt: "In an effort to reduce the points of contact between Hartsfield-Jackson International Airport staff and the traveling public, facial recognition technology will be tested at check-in counters in the domestic terminal."
+    publishedDateTime: 2020-08-28T21:09:00Z
+    webUrl: "https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html"
+    ampWebUrl: "https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html?AMP"
     type: article
     provider:
-      name: VICE
-      domain: vice.com
-    quality: 89
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
     images:
-      - url: "https://video-images.vice.com//articles/5f453b379992790096b50300/lede/1598373223867-cp18642415.jpeg?crop=1xw:0.8436654135338346xh;center,center"
-        width: 4987
-        height: 2805
+      - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
+        width: 940
+        height: 627
         isCached: true
-  - title: "Facial recognition lessons for the private sector from the South Wales police case"
-    excerpt: "In response to the successful appeal against the legality of South Wales Police’s use of facial biometrics for automated public identification, the Data Protection Report from law firm Norton Rose"
-    publishedDateTime: 2020-08-28T18:55:00Z
-    webUrl: "https://www.biometricupdate.com/202008/facial-recognition-lessons-for-the-private-sector-from-the-south-wales-police-case"
+  - title: "How facial recognition technology could be utilized in a COVID-19 world"
+    excerpt: "It's not science fiction or the movies; facial recognition technology is now part of our world. TensorMark Inc., a US cloud-based AI and computer vision technology provider, is working with University Hospitals to come up with a way to make it work during the COVID-19 pandemic."
+    publishedDateTime: 2020-08-27T23:04:00Z
+    webUrl: "https://www.wkyc.com/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: WKYC3
+      domain: wkyc.com
+    quality: 59
+    images:
+      - url: "https://media.wkyc.com/assets/WGRZ/images/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Facing gender bias in facial recognition technology"
+    excerpt: "Facial recognition bias is real, and software providers struggle to be transparent when it comes to the efficacy of their solutions."
+    publishedDateTime: 2020-08-27T05:04:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/08/27/facial-recognition-bias/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 41
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2018/10/09100001/identity.jpg"
+        width: 1600
+        height: 1094
+        isCached: true
+  - title: "Council Introduces Bill To Regulate Facial Recognition Technology Use"
+    excerpt: "As Pittsburgh City Council returned from its August recess on Tuesday, Councilor Corey O’Connor introduced legislation that would regulate the city’s"
+    publishedDateTime: 2020-08-26T13:15:00Z
+    webUrl: "https://www.wesa.fm/post/council-introduces-bill-regulate-facial-recognition-technology-use"
+    type: article
+    provider:
+      name: WESA
+      domain: wesa.fm
+    quality: 39
+    images:
+      - url: "https://www.wesa.fm/sites/wesa/files/styles/medium/public/201804/city_council_building_-_jake_savitz__51_of_52_.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Pittsburgh Councillor Moves to Ban Police Use of Biometric Facial Recognition Tech"
+    excerpt: "Pittsburgh city councillor Corey O'Connor has introduced legislation that would ban the city's police from using facial recognition software"
+    publishedDateTime: 2020-08-26T22:34:00Z
+    webUrl: "https://findbiometrics.com/pittsburgh-councillor-moves-ban-police-use-biometric-facial-recognition-tech-082609/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
     quality: 33
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/06/17123440/south-wales-police-facial-recognition-vehicles.jpg"
-        width: 750
-        height: 430
+      - url: "https://findbiometrics.com/wp-content/uploads/blurredface-e1579295692518.jpeg"
+        width: 1502
+        height: 1694
         isCached: true
+  - title: "Faceoff! UK appellate court finds police use of facial recognition technology contravenes laws"
+    excerpt: "In what has been described as one of the world's first successful legal challenges to police use of facial recognition technology, on Aug. 11 the UK Court of Appeal (Civil Division) found in R. (Bridges) v."
+    publishedDateTime: 2020-08-27T20:36:00Z
+    webUrl: "https://www.canadianlawyermag.com/news/opinion/faceoff-uk-appellate-court-finds-police-use-of-facial-recognition-technology-contravenes-laws/332751"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 27
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0348_637098267027226915.png"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "Hartsfield-Jackson plans to test facial recognition, touchless technology in domestic terminal"
+    excerpt: "Jackson International Airport plans to expand the use of facial recognition and other technology to reduce touch points amid the coronavirus pandemic."
+    publishedDateTime: 2020-08-28T11:55:00Z
+    webUrl: "https://www.ajc.com/news/business/hartsfield-jackson-plans-to-test-facial-recognition-touchless-technology-in-domestic-terminal/G4RCBOBKANHKRFJAO47RHOQ2G4/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 27
+    images:
+      - url: "https://www.ajc.com/resizer/cDvLAzMDajltCBlNrKnWCMVLKQ0=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/X5EK7H5RLHFMIPP3WUKSOL6SKE.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Bishop International Airport to utilize Smart Helmets to measure temperatures, facial recognition"
+    excerpt: "Authorities with Bishop International Airport in  announced Friday it will be the first airport in the United States to utilize Smart Helmets."
+    publishedDateTime: 2020-08-28T19:38:00Z
+    webUrl: "https://www.clickondetroit.com/news/local/2020/08/28/bishop-international-airport-to-utilize-smart-helmets-to-measure-temperatures-facial-recognition/"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 21
 
 secured: "/oIW8CEpffk/qJ0B36t3mQCKphI3kR2RFBDoqmqW5XsTckRDHQOraF4Mv8GLkgMsK7Anol+kmEy2Pj1VOLtqJzdF8kgWPgd1jvdUXzFCjFKcIpItplB9/KmzBg4RO3rsBhJrDkMD/touhoIbw4TOTF+AvX1fQ7834l/Q/vj3J+/mvEUjPa7rWqYq5fMQeYEZqaaTMDdLkXQXRVKGdpkSv5tRLu/b0zha2V0IYTUPz5XGdG/WreMeNO+fEn6ND+tAZ/8ZEvJ8RvX4tHmYV7Nx+ndSvesZH10dGzoKh4m4tgDc/EBAToNijz2RPLw+pBHBEqkV60C/J+DK9fOzEyn750xudIptVHeP6nDYXg10ik0=;nRupY06tf6QwJRt54Kl5eA=="
 ---

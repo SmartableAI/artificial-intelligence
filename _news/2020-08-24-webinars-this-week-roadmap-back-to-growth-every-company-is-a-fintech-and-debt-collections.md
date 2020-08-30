@@ -3,6 +3,7 @@ category: news
 title: "Webinars this Week: Roadmap Back to Growth, Every Company is a Fintech and Debt Collections"
 excerpt: "Roadmap Back to Growth August 25th at 2:00 PM ET: Register Today Banks, Lenders and FinTechs have spent the last months responding to the crisis. From office closures, the CARES Act and resulting economic impact,"
 publishedDateTime: 2020-08-24T23:29:00Z
+originalUrl: "https://www.lendacademy.com/webinars-this-week-roadmap-back-to-growth-every-company-is-a-fintech-and-debt-collections/"
 webUrl: "https://www.lendacademy.com/webinars-this-week-roadmap-back-to-growth-every-company-is-a-fintech-and-debt-collections/"
 type: article
 quality: 14

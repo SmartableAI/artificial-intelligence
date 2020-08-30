@@ -2,27 +2,21 @@
 category: news
 title: "Google Cloud and STS to Automate U.S. Navy Maintenance Inspections Using AI and ML Technology"
 excerpt: "How it works: STS will leverage public domain and inspection drone images to build a high-quality AI/ML model using Google Cloud AutoML, a simple, secure, and flexible ML service that allows ..."
-publishedDateTime: 2020-08-27T12:13:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-cloud-and-sts-to-automate-u-s-navy-maintenance-inspections-using-ai-and-ml/article_94a8a2b2-a765-5bcd-9d3a-d1f62501ed19.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-cloud-and-sts-to-automate-u-s-navy-maintenance-inspections-using-ai-and-ml/article_94a8a2b2-a765-5bcd-9d3a-d1f62501ed19.html"
+publishedDateTime: 2020-08-27T12:40:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20200827sf08053/google-cloud-and-sts-to-automate-us-navy-maintenance-inspections-using-ai-and-ml-technology"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20200827sf08053/google-cloud-and-sts-to-automate-us-navy-maintenance-inspections-using-ai-and-ml-technology"
 type: article
-quality: 43
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Federal contractor taps Google Cloud AI and ML to inspect US Navy vessels"
@@ -67,6 +61,6 @@ related:
         height: 270
         isCached: true
 
-secured: "U+k48h+ih/T4zJp5U7tSNGx22zV5Syr0btTr1VeXSY3s0pdEj7YVbvqI0Lu94aBW0E+M5KNxjVfvLQd0YnaoaYxn0B7pVcZVCt1WKTICrR5yh4hkB0SWwK5Zw5LbXnl2qfKyInKeCZM+XPsbkCtTP8dm4ijzjk1nain8Eg78Xxhwbsg/1EvAC/n6k71n9+xw8FnZqnNNnRP8rUQMqqZVv79MTxHx2FH9f9jNhkUeUwKiZpigmzGwIRSQ9PsIHPXG6p/YWfBA3njKHqfN6ZB0NXkQdQPf0VBEo1/IvBMDVwooU83rx2c+UJ7zrJvrusy/ObBx3Qn5ezAsltOXs69UoEI5aZGLAq7fqqg1ud7HQwI=;06J3l8VTewZigna5MTEX5A=="
+secured: "xZbELceoaY7Z5Jtk6XBEn0j/LrHdWysCdF1EUN4DmjX4ZrwcOE1vWUhYWz2ZgWYr0RxcFwgTL+pBujjUh1YuzYwesCvRh1KUBfr/cvi6A+2d/Y3q4vQ0bvxcPvFClmAS0UdnN5RqHOf+O0NrApeCb8i7IJkIMJm7BE+ZMgrWpc12Q+RB3bsuHXhWT2kqOpjxKBzba5EeXMIKQRQL5Y9uZBipcxvAmPiEcddqRn9+ZMIFTrVmc2GBBiEevV0QcLMlO6vpVR7gv7MLCPL8JSIJ47c4oy3ENpJRmafLGfnk6yZlhrBmc+W8J4V+5WyQI34nVVEciGnO2EwVXhFEVxNQWW2qWq/UU/F2WnCryHUhOoA=;ZgPGODrDR46KPrljEqabNg=="
 ---
 
