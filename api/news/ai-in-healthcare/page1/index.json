@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-01-artificial-intelligence-chip-market-trends-opportunities-revenue-share-analyzed-during-2019-2025.md",
+      "title": "Artificial Intelligence Chip Market Trends, Opportunities & Revenue Share Analyzed during 2019-2025",
+      "excerpt": "Facto Market Insights has skillfully compiled this latest research report titled Artificial Intelligence Chip Market, to its wide online repository. This assessment focusing on the artificial intelligence (AI) chips market would deliver precise insight about different market factors such market size,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-trends-opportunities-revenue-share-analyzed-during-2019-2025-2020-08-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-trends-opportunities-revenue-share-analyzed-during-2019-2025-2020-08-31",
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-31T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-these-are-the-startups-applying-ai-to-transform-healthcare.md",
       "title": "These Are The Startups Applying AI To Transform Healthcare",
       "excerpt": "Of the many ways in which AI will transform our lives in the coming years, its impact may be more profound and far-reaching in healthcare than in any other field.",
@@ -750,16 +801,16 @@
       "title": "How Ancient Rules of Logic Could Make Artificial Intelligence More Human",
       "excerpt": "Many attempts to develop artificial intelligence are powered by powerful systems of mathematical logic. They tend to produce results that make logical sense to a computer program — but the result is not very human.",
       "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/?p=1256892",
-      "originalUrl": "https://www.gizmodo.com.au/?p=1256892",
+      "webUrl": "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/",
+      "originalUrl": "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/",
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.theconversation.com/files/348495/original/file-20200720-23-mxxnlu.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
-          "width": 754,
-          "height": 922,
+          "url": "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/19/aristotle.png",
+          "width": 1051,
+          "height": 597,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1345,48 +1396,6 @@
         "AI in Healthcare",
         "Natural Language Processing",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-stanford-center-for-health-education-launches-online-program-in-artificial-intelligence-in-healthcare-to-improve-patient-outcomes.md",
-      "title": "Stanford Center for Health Education Launches Online Program in Artificial Intelligence in Healthcare to Improve Patient Outcomes",
-      "excerpt": "The Stanford Center for Health Education launched an online program in AI and Healthcare this week. The program aims to advance the delivery",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/stanford-center-for-health-education-launches-online-program-in-artificial-intelligence-in-healthcare-to-improve-patient-outcomes-301108618.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-10T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

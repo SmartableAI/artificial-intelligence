@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytor
 ampWebUrl: "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/amp/"
 type: article
-quality: 88
-heat: 88
+quality: 90
+heat: 90
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all"
@@ -30,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "nTVZSyYP5rTPWJzYf7Z6xgCiahGTD8lcXrs7r1QbBGCdohisy1axq37uSTIPz2zp3stghZLnCnQckBFGT5tCO5iD/EMSDiwbLUuHKhlUqedemnvlJIbFBn7enr3B26hgaN5kHZYgoerTofDrJ8+Y8UuibFLn0AW8xS0fBdN5Ug9s8ABuJWE6G/MzB4g4s2sZLRhe4rj8rG2hcIOXjraytVWeCphM1ZRylOkhEih7vjQLXMGjU7wGVwDiSLNpfIh0C1FSKN0jEdkYPCiaDPiJlnORCsyBYa2NmGmY5cdTVG82jYGm2J7pJUqL8sh8kX1J4YmnH6ivhdP/XotYE/pyUACVitpuPUNZgwd9cTCros0=;zuZYvJc8dJwBAUosnGdsLw=="
+secured: "8zMeYQ2TlkGuNZ+O7GKXrM0+qvkEAFdkp2CloIPj8Y2bn8tqUS1MtruVqh4H64+eNAlMHPqdLP5h1q2M0Sz8ir1t765G2LeoHxTGgE6HAtynPjQEHrffJk6pJnKR0nKLMaOTmjO6RkX1UO+0TsvFKXv3tEZadOaynNVXwLqicRIzCJmz/osIBepTJIVCRHU2bkIGca/bQvrDrfOX/zyPsRSSH2jD5BfpiMGZXZozYh1OFsrs3RNXYl6kF62cep9WjlI6u5/G4ual7C5gmK0XacCaGGrA8pbT1P0KcbKv03ug1V378zsj34nxEX/IGRhLM+bEWWlOqSisc3soPH9LHrMWc7XUPpKTxsMY8uuOXQgWCUam+U8rBtV0DQCgHsfVkxq50J1VTFmF/XV6AHB1qi2UIUw4LiCiOzcb8jHtIGIohKiYdbyFH8oPbzgFd2A/MhZB7GBhB5jIPYal8k0DVp3vgDAnC6z68nOFvfl3AXInhsFHKZ1eiK9vmY+tP15+q19kSdfBm6INRl9geaeNVg==;2QromChwlvCfvQ6b1gsAoQ=="
 ---
 

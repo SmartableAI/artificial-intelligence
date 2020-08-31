@@ -3,6 +3,7 @@ category: news
 title: "Two New Ways to Program Your AI"
 excerpt: "Some people have a way with words, and other people, uh, not have way.” – Steve Martin The scariest part of moving to a new country is learning a new language. You step off the plane and into a"
 publishedDateTime: 2020-08-17T13:25:00Z
+originalUrl: "https://www.eejournal.com/article/two-new-ways-to-program-your-ai/"
 webUrl: "https://www.eejournal.com/article/two-new-ways-to-program-your-ai/"
 type: article
 quality: 39
@@ -16,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://www.eejournal.com/wp-content/uploads/2020/08/JT-081720.jpg"

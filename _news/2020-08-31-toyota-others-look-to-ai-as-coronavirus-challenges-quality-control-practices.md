@@ -73,6 +73,15 @@ related:
         width: 651
         height: 366
         isCached: true
+  - title: "AI quality inspection robots playing bigger role at factories in Japan"
+    excerpt: "At a factory south of Toyota City in Aichi Prefecture, robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionize mass production in the 20th century."
+    publishedDateTime: 2020-08-31T19:32:00Z
+    webUrl: "https://japantoday.com/category/tech/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 34
   - title: "Japan looks to artificial intelligence as coronavirus challenges go-and-see quality control mantra"
     excerpt: "At a factory south of Japan's Toyota City, robots have started sharing the work of quality-control inspectors, as the coronavirus pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionise mass production in the 20th century."
     publishedDateTime: 2020-08-31T03:50:00Z

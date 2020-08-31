@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-sharepoint-online-connector/</loc>
+    <lastmod>2020-08-31T12:14:31-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-trends-opportunities-revenue-share-analyzed-during-2019-2025-2020-08-31</loc>
+    <lastmod>2020-08-31T10:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techrepublic.com/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/</loc>
     <lastmod>2020-08-31T10:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -21,6 +33,12 @@
   <url>
     <loc>https://www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.html</loc>
     <lastmod>2020-08-31T09:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/transperfect-wins-ai-breakthrough-award-for-globallink-machine-translation-solution-1029549034</loc>
+    <lastmod>2020-08-31T09:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -63,6 +81,12 @@
   <url>
     <loc>https://www.techrepublic.com/article/nsf-grant-to-increase-access-to-ai-research-help-save-sea-turtles-and-more/</loc>
     <lastmod>2020-08-31T06:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW</loc>
+    <lastmod>2020-08-31T05:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -165,12 +189,6 @@
   <url>
     <loc>https://www.zdnet.com/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/</loc>
     <lastmod>2020-08-29T10:13:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/pros-recognized-for-artificial-intelligence-innovation-in-salestech-with-2020-ai-breakthrough-award-2020-08-26</loc>
-    <lastmod>2020-08-29T09:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -579,6 +597,12 @@
   <url>
     <loc>https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html</loc>
     <lastmod>2020-08-26T10:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems</loc>
+    <lastmod>2020-08-26T10:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1939,8 +1963,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/</loc>
-    <lastmod>2020-08-19T03:34:00-07:00</lastmod>
+    <loc>https://www.albawaba.com/business/pr/smart-dubai%25E2%2580%2599s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting</loc>
+    <lastmod>2020-08-19T03:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1957,7 +1981,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.gizmodo.com.au/?p=1256892</loc>
+    <loc>https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/</loc>
     <lastmod>2020-08-19T02:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2197,7 +2221,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
     <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2209,7 +2233,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wallstreet-online.de/nachricht/12844999-vmware-enhances-self-driving-operations-and-programmable-automation-with-updates-across-vrealize-cloud-management/all</loc>
+    <loc>https://apnews.com/b87152f12e274ede8395fc39f3623c4a</loc>
     <lastmod>2020-08-18T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2233,7 +2257,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-enterprise-chatbots-2020-08-18-5184729</loc>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-enterprise-chatbots-2020-08-18</loc>
     <lastmod>2020-08-18T02:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2469,6 +2493,12 @@
   <url>
     <loc>https://www.zdnet.com/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/</loc>
     <lastmod>2020-08-16T23:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.dqindia.com/data-lakes-vs-data-warehouses-common-arguments/</loc>
+    <lastmod>2020-08-16T22:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

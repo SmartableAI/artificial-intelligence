@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/us-open-wont-have-sp
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/"
 type: article
 quality: 90
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "IBM Creates New Fan Experiences using AI and Hybrid Cloud for First-Ever Spectator-less US Open"
-    excerpt: "capabilities from IBM Watson, pulling from a variety of data sets and running workloads on multiple clouds. At IBM, NLP is critical to AI for business because it enables interpretation of the ..."
-    publishedDateTime: 2020-08-28T14:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open-1029544559"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open-1029544559"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open-1029544559"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
 
 secured: "pw3KOgOMm5jdXsQ7EcdjDtTY8x8udTztsFcJDX9DLx7lZormC8SmcZg+iduFSSLCQL+zlVz5QFeUqIOnaG2ldCfDujxmdRFH+T7397cFZgjLkODXjwOtII3Qxnn6hNTdcURn6jy5qG/9OKIAH1+o+XKdmpGOpj++HGR/1dv66TkjUVrgIPG9YCwXFe6DMZKpMiHMZkj2nZMpKVK3KZKJzcO3B+TZru9JqOfKOAu1rn8W68Rk+2/TZqB8cxJeFmeRmRAEUSvmYDTyB7LlaOw0S4sQpwRTKW06Xv9t2n+/7s8vck+8M+JMsFeqJXFAKfLa9aLZYsvAcrlnAxx4739Ew1Tb4BVXUexbNYwkPxkrYiRnBfz26YjZBbBWvbHjpELsmLfSFA+j+NgC05ZYcHqC0FMOc2zFHkLhGebA+khvRb8umaDPs+62IJekrF8sKE4mPNMN/4v64rrwzBgpakZWlvBB8dLRz72esiFI50U6aWk8xi1XicOBE5RbjaDHUgh3X03F2stKMop7fHwQCi5igHqWuNeDM9k83mLwAvdDRl8=;TOnU929MGAfbSd6P57/HeA=="
 ---

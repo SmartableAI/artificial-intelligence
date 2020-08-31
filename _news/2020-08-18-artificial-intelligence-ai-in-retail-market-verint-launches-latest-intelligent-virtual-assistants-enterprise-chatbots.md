@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence (AI) in Retail Market: Verint Launches Latest Intelligent Virtual Assistants & Enterprise Chatbots"
 excerpt: "Several retailers are persistently striving to improve their sales and customer relations with the help of artificial intelligence tools. AI-powered chatbots are being used by the retail brands to help in engaging their customers effectively."
 publishedDateTime: 2020-08-18T09:09:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-enterprise-chatbots-2020-08-18-5184729"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-enterprise-chatbots-2020-08-18-5184729"
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-enterprise-chatbots-2020-08-18"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-enterprise-chatbots-2020-08-18"
 type: article
 
 provider:
@@ -16,7 +16,7 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
 
 images:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "fzUayK/leTJmN1ay/cEV7SBnvQMkb0Yw47dS+IdSTRUD74WkW93CvHepZlzJCLJlya18H1T2jjPAIEYSDWhRM7jHwkCyu44oneAe7Vl+nKa3jyu98mrWiWj19pn0O0l9HOVFbBiR2SUxEkYvtQjW3yQAnMGyNe7k++etgsDm5apy9MmCBaqFkGDT+n4zwweLqhQvRp1fAjqquQA4asY4W/ODmNobftn1mQGbfkPFtn4+c5w2TGbuwJXRZt6FjVeMybLqvgJeZ1e4WimXhSKV848fzIoFEWtgRa8g3s2JdWshC/kSi1okQPsXu2Ur+4fzkUKOEcRaFEIkWEWKJi92VekGMJkcV9HlWxjCsiGlBbo=;nBZCihRBuFhNwFwpmnZ93w=="
+secured: "VLT2bUSEYX17c0S1zbnmJ4gqabwzzoBfaLPTewwOciUrpqUeY5JX7tigMDeBn3HG/0AW7FBtO5dY1Xi9bPzN096ZGPd0v37gzGcbbMQD4VYVy4pNTqXb4BIEUgKEYe7nyLnhwzeudKv1KrV8xVEs8X4QmMKWYOFSfQSDuftHcVV+LNyXxpVqJfapW/Y5Wy7g0sv/M4qIhdSIV/vv/IrVSxjfir3JxO4WjHI3yP9Wy1xYiiTbURHYflOwRPB4sdCtRM7wYlUI+GiVSazWk+lXxswpT2ENWvFq5l3dXDbFwPbUZObLn9jm3xXrRqLxVnC/O2v3f6PZxRaMweFecNPKFP3en5tEhBSrkA1Fh3ap/do=;oJ4ZnZ1Oj5VW5qUznRSTgw=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "Google offers to help others with the tricky ethics of AI"
 excerpt: "The company plans to launch new AI ethics services before the end of the year. Initially, Google will offer others advice on tasks such as spotting racial bias in computer vision systems or developing ethical guidelines that govern AI projects."
 publishedDateTime: 2020-08-29T13:00:00Z
-originalUrl: "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/"
-webUrl: "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/"
+originalUrl: "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/?comments=1"
+webUrl: "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/?comments=1"
 type: article
-quality: 84
+quality: 67
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -46,6 +45,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "Lv3xd0JkJXdvkcBibWEIZlF5vbW0l/NWt6VXW2eKoyTzdz+rC6x1CubMpFb2W6c5h6rgu2KAF/kHDUnAknxh8fkuJCoqSW7ghI8qFnQmwKAzUtG+uBloNWndoSgq+70UCxUkNCpK4pvK0TbtBFE79OFqFMDqZk9eHrpaiR+ba8g2PUiaqhsrFuzBeRw1FkIVwLoeVdTmpud22b2jAmkDI9P0VZiqCViK8BY9s1l83/t3MYxi5fRZL/3BzynHL4X0T9VKawPT75qhS8v7PgRLzUYoiYyvAEWVzNIw062IyBqm2sKsf3My/tvg2Fk78577TdQ9ohQtpM7M5eEHKXJx/GyDL3iafusKo8gaWCsW3wYDp13ggrdHlN38dYbVlKoiAL+tdVhA45NmJkwuiOHM2cG1rk87fldgPCSNZbecDBlEXEhwNBBRH9G1dKu08cUTLxOj5/IwLdOXWGglibIQnrYrL2CVbSmDqXSHNgQq111wo7K8PmsFctyDZLuidmJopQvrmmsF2xoTLGXG8p7VDniktVCVvVNnW3msfl45y3M=;nOS2TFYdUgqrjFclEL006A=="
+secured: "6CTMDy+7kimIwF6GoztWdWmwn7Ex84vf63Mnub5d2uOE1HzZOgYqOYA77JTPHuFSDtctvKHwDXj5u1hYQnOz2OxjLkX3bSYpbugYZ2RHYNZlsMuJrIuzeokp3dzbcXNwN7jKJI5Qr6PhKtjmjNl3jQTT6Wn2TulAWrg1pnTZZ4pSgq1ViS+0ie8idxJ2DbtuQKL9lycsRuXFkD0XBS378I4OK1LaRrKrrHWzT04cRjDxsFpSnPUQfiljGZZzdneqeXR3b/Zb4f9ZMt4md5MHfnUBZTE6lJ6BS8APtREc728N0SPmiOZpi5M1EaGJQXci5p3S3iEsT2+dKXxJWi9qQXlma3z3bItHmdM5DYf3gck=;4Pm1FFQaJ57KPYcmTKv32Q=="
 ---
 

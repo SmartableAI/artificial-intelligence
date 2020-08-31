@@ -6,9 +6,9 @@ publishedDateTime: 2020-08-31T17:46:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-trends-opportunities-revenue-share-analyzed-during-2019-2025-2020-08-31"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-trends-opportunities-revenue-share-analyzed-during-2019-2025-2020-08-31"
 type: article
-quality: 55
-heat: 55
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: MarketWatch
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

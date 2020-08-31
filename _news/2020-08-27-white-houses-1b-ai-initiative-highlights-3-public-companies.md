@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17259159"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17259159"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1920
     height: 1285
     isCached: true
-
-related:
-  - title: "Microsoft, PNNL and UW leap into White House’s $1B initiative for AI and quantum research"
-    excerpt: "Microsoft, the Pacific Northwest National Laboratory and the University of Washington are part of a $1 billion effort to study AI and quantum computing."
-    publishedDateTime: 2020-08-27T02:28:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 78
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/08/200217-svore-630x380.jpg"
-        width: 630
-        height: 380
-        isCached: true
 
 secured: "nfw8BF4uUwaGq+hyK7xMODe0QfFJglBIEBxQn1oFfkoW8Ap5hDvRsSXVPfP5HECpUgU57pdEtvD3fKkP1Qk1Ze+AnL/svuPp/V0vUE9KZJWMga6RCs2enZDDINCxvr0U08YBNEhiOVjusKW4VZvR+OyXXSpNte7j/1OA7LpUBP+vASbr0w33rvcKVoyW/gP2nfZ8HjiDBOwNEUu0ufakOp+y/7GX+cR9xQCLtqHVIxT133ZP5BNZTKms/2J3AYg8nx7DybuAMWesFTepGAnzB2dxRuWZcQ0U1JG/jzRD0v1CgxSopNp3ZlZOCneNAN8tb6qwQ+/UwUP/TgR0m0yKU+QyvOR+bfA80BsQqCs91Xc522KuK2QtkjuhONkdq1+yBm9YF2OPduZhD5gA7m2WSK6VIsbpx6cvdk+8q+3SC/wUekt0j0GPSEvdghUyhitvDxY67WXyxiTXoN4ZVBWjnqPXWJny+0kPPBRhenfNhNaEnXJSR/t6inqJKVa/LgdbtrvkOeJ1IpYqxYAA+SCmR0t0arndCBX5hzhnRITg2bI=;J18Sm2eMY7Cu95sDof72TA=="
 ---

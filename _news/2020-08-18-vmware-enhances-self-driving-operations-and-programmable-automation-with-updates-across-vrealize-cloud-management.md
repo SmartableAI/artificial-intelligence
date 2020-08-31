@@ -3,18 +3,24 @@ category: news
 title: "VMware Enhances Self-Driving Operations and Programmable Automation With Updates Across vRealize Cloud Management"
 excerpt: "(NYSE: VMW) today announced innovations across its portfolio of VMware vRealize Cloud Management on-premises and software as a service (SaaS) offerings. The new and enhanced product capabilities combine to further enable customers to consistently deploy and operate their applications,"
 publishedDateTime: 2020-08-18T12:00:00Z
-originalUrl: "https://www.wallstreet-online.de/nachricht/12844999-vmware-enhances-self-driving-operations-and-programmable-automation-with-updates-across-vrealize-cloud-management/all"
-webUrl: "https://www.wallstreet-online.de/nachricht/12844999-vmware-enhances-self-driving-operations-and-programmable-automation-with-updates-across-vrealize-cloud-management/all"
+originalUrl: "https://apnews.com/b87152f12e274ede8395fc39f3623c4a"
+webUrl: "https://apnews.com/b87152f12e274ede8395fc39f3623c4a"
 type: article
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "B87zGK8cGcDXz0aqYeZTrZXM3UXY7cIMqZQZ0c/Nc/kcjuHF8HUFr4aX82DSDKGV0Nk1SwhLM0F3e300930iui2s4YHPYRGsTMFRumCQtBX+X4VGKdXHXt26fUQKaBelVtQCdaQrOu8vjm6Qgm+aYlJ+h6z1zE9qBvHoA1macS5pOWSNO+0KnWdIYtu8E841tgWMQ0LCz/1G5qLVeh688Sex+jgkzOtcU4rjKirQ48u+UOT4W8zhnE55D/znuCrDoMZMjsIcUnCWiT11HX1cNOOqMH8Gj9oYsZsu2IwX1jl07uUtVpAegXqfA+Kp3+/uBWRZlw9JUv421IXNw/dY+bpmOBWlAS6AmRcGfUQsAHU=;vAfBpzhbvFUdpBxoCeLhaw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "0zAXgLqW3GMPDYX+CAMpNaRxbCjgYP+jL8/NZklqmNzYXkmXt98NsvdRvuAzUm6Zvh1x6goHygKMJbqs3Bp+tLiQphXNIPIbgMq2MgKF0n7KV8CknwIeLCGT0/XudAK/fRziT9p2rOKCeAij98I8yY1v8lp+PN7wsROMWPflgXdsww0JjPez3HrqyKR/5M/w3XR7VX06uMM4peSBO8y2ZGfEw47h7gSOe7k0k/9QDzhCKAPwWag1tEjet9rCUHu2lXX3toMjlCaby+N9G1S1Zr8erYwhX6UyrAx9Y2T5N25bXH7LPoWMy3Snm5PiW76+u7ayq7Vikvzyiu8pbAcYejZpEr02mdt8xQMaJs8tZ7M=;hCbKAr/Kwyzi/VziXcdzNQ=="
 ---
 
