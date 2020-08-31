@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "TTC Foundation: How an Automated Data Labeling Platform Fuels Self-driving Industry?"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / August 26, 2020 / \"I'm extremely confident that self-driving cars or essentially complete autonomy will happen, and I think it will happen very quickly,\" Tesla CEO Elon Mus"
-    publishedDateTime: 2020-08-26T08:20:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-08/50539690-ttc-foundation-how-an-automated-data-labeling-platform-fuels-self-driving-industry-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "vkFjN54LA+6rjZMbtNc0mgrM1k+B7pBfqg+I8e3b95hyHBle3VYNXyCvTeL7//A8PZ2oqqTSpAhPkWfDyHO4T3n2LgfcEETT4SKIjC53A7P6IVaMImsfjtJw8ez8PM4W56Ru4JInZeWSnOBQPr6Fj/G9s3jKOxH6ZULb28o7FAZxtPJNimruMOE1X9WNWdnlAjhxbCOrflFXTXSD93T0IVUvv1NhV2rTojI2pjMnjFfVwjqLE4TIHTZr/bzP9Phf94ia6ne3uRCr1tsiJEBFwZEmdEyJtInFY4eOdUl4ei8ncLoC7caRmLZFKUVI0w4bW89XeYE42eGkXzPWOb5ql+Q1bVQ/pRtvvbnOE1PId8M=;1eW1CA+ofu0QQuizKx7WRA=="
 ---

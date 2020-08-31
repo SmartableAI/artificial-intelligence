@@ -38,15 +38,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
-  - title: "TTC Foundation: How an Automated Data Labeling Platform Fuels Self-driving Industry?"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / August 26, 2020 / \"I'm extremely confident that self-driving cars or essentially complete autonomy will happen, and I think it will happen very quickly,\" Tesla CEO Elon Mus"
-    publishedDateTime: 2020-08-26T08:20:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-08/50539690-ttc-foundation-how-an-automated-data-labeling-platform-fuels-self-driving-industry-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "oXF64G5s9GkGd+A1GKAb0uXKhZ2WzSDDgiXYH5lNIyrFYcH/CZxSoj/mmBHYNw7Nws4HpgzfX9vQ3YvANU7qG/gFAAp5VqdTlw5SxJCGccpGkco9BaRPeA0OZ5vTfwmj0wvfQVm6a2iVMu620pcDFPTCJtMm4RCzWzqcaKV8DE99hgps4xoK6Nl5yZZU7p7eYbSFfA6nw74sfRA5etuGSJKaTG1RtnCbIVNeQgCCvqervGr+fmLByd7DYrbqo1G8/IBsjogsAW9Tes587QR2Gk8HY2vVW3RWD2THahyF1f+k04hNkV60ef68B4bg6ZkQE/glVpoOX80zTTjTlekBsEYUZsjz/f1W1MCNY3kcDxOX+ZIdlnST3ppx++hgQxvRxeabW2fJbKmHta3L5G43oMgYrdBuMmC49jvEwjS8im6PzZ/JI0CQdHNFxvTsbely1+ihy33eK19f2uAQwUBrOHdl/MFv5cp6eT3rQ4eYjMeqi+Ue7E9geXF7WgjLa8Bf6EcWwrrji44ddcmJ+GcTDhJMuy60fSL7/9xuUGnGbfQ=;oCU8OBdRRrp0OCi52tabjw=="
 ---
