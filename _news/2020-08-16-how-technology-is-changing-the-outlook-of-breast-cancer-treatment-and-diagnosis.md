@@ -3,6 +3,7 @@ category: news
 title: "How Technology Is Changing The Outlook Of Breast Cancer Treatment And Diagnosis?"
 excerpt: "Over the last two decades, cancer treatment has seen tremendous progress. A deeper understanding of the biological basis of cancer and faster adoption of technologies like Artificial intelligence and Machine Learning has redefined cancer care."
 publishedDateTime: 2020-08-16T05:38:00Z
+originalUrl: "https://inc42.com/resources/how-technology-is-changing-the-outlook-of-breast-cancer-treatment-and-diagnosis/"
 webUrl: "https://inc42.com/resources/how-technology-is-changing-the-outlook-of-breast-cancer-treatment-and-diagnosis/"
 ampWebUrl: "https://inc42.com/resources/how-technology-is-changing-the-outlook-of-breast-cancer-treatment-and-diagnosis/amp/"
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/how-technology-is-changing-the-outlook-of-breast-cancer-treatment-and-diagnosis/amp/"

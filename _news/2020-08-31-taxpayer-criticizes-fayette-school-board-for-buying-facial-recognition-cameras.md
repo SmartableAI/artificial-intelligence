@@ -53,6 +53,20 @@ related:
         width: 599
         height: 479
         isCached: true
+  - title: "New Zealand police upgrade facial recognition system for real-time CCTV biometric identification"
+    excerpt: "New Zealand police have been discreetly rolling out a biometric facial recognition system that uses real-time CCTV feeds to detect people, RNZ writes. The department has reportedly spent some NZ$9"
+    publishedDateTime: 2020-08-31T15:37:00Z
+    webUrl: "https://www.biometricupdate.com/202008/new-zealand-police-upgrade-facial-recognition-system-for-real-time-cctv-biometric-identification"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 26
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
 
 secured: "VVm6F0G4KdWLoQOB0B80v6NGw9Y7RBGXIWShftXWiXDDr1nBYj65kq+NsY1fee/FNWHkPWiSYyDKXeOBJw3Z/938brjRICHN6s1eq5iwwCpJs+Lb/2FBmsZplvPpYaXgZWrFD/aImoLrja8mWOB1dGq2TX8XYA+TBTPwDCR5hV4dWiLvyQfkNAJKZDvXDNcdpqwV2L5MRJ8I/hYSY17f/9KSRiU86zSn0ceh6PZlXBbZLoWWNFWISO12sVOmRbVhFYwoWVMg4nkVIWVaTXa8lCDo1ung5w4hk8GcKUHrgKIyFoxJrGwe5rWtfreubeVHRPZPwbm7X0Qy2v7wI2bulGBIEkesPzcneQLxPibEzBV9QAGg82b0L6jX1rbsUvmj74nvFbBrbDnEiQBOpKaKwoftcCtkNjM9OTapQkS0UHlzjU7i3feWFFjkv0xYvYrW2s1/FbiHKWWlcpXXaf6yndeNj65CiQddBJrCZg4QmXnNZhp5nGSBpeEgGIFwuq3jSAqr9UESEotiMRG8VCJiD2WXSIXAPtpjyeHciU122mw=;jMEHZrA2U0SdkIch5DPx7w=="
 ---

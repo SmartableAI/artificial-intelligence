@@ -15,6 +15,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://www.abnewswire.com/uploads/1598357109.jpeg"
@@ -22,6 +24,6 @@ images:
     height: 455
     isCached: true
 
-secured: "7xKMS+CFo47creh6vNKHWa0v/SSBVHLpLXT16Y/YKNZvHSOdn4z7WvxvkbRvSJhBB35ox0ChvNoU6OaUrhwb+6hUwzfD7i/aooparGhKKKAXQLnbySGuOIp7t74CQX9KLYHDEWuDem8cJYKYLOuyw9fiHmzFoZa9GsFSgoasfnuVvlO11wpzCU2a0g9oTklo1JSvBQuBxXwkCeovpqU8wc63mQs8wJaHZrYX/HtCxtrZNoOZx+5bCo/jgryPi2/3OgGQMK5uE6xBrdmAqVeL0fR6LrrSennBvr8sBTRRtNB9TINicMFYA1He/cbW3IK0FvQvUFb3SltIL6L8+wVJfo4rT2PdkofndxEHbs/vqD4=;+WNm1Q2td1fKdQyIE21Ahw=="
+secured: "ENj7l1CHZoU3lOn/ufa6EIk1x6QxyVfS/zpskwP6H29bPaf4e9VZhYJHdDhr0l/cIG4J+lAbj0DTgw2UmQ1/GOhwa+ZuWyp+dFS5KC1clM63P+imKjI95KacoZaxSDx6bF3vnJYKCZpDCvOVQdQp6UlsILg8fV5Loe/i7i4UVYj4KD0+fNQBl9U9U2XrEdUbtGUESA1/9F2ZJ1NZJ9+XEv4ho4aMYpddY5FJhZimmzIRfUWEdp2GYGSlzw6MNw8TPG8zu+L8+uCbDtkiV5n/IrHg4dlF7VMLdHxKv4870Pv1x2vf3u1jeQ61Bm4S0/Iii0rbfdSickE0lWqY+HxdgKgKWXN5slIZJxsL9bYJD8YOlWzsbDmLI9BYcyxgQcPnjiv8zYtJuOaWe7jmU1n3aUG6MFkeu6ktHkCfKWKHbnXpWlsgNIo4aG5fQMzZam9fphcGE0td5EOmQxEXwKmb5C1WVLNNzFzh4sr2bJmjm0zTAOCJ8t/jYRhlqxIIhaEVEgQ0eAQ1mvFW3490l78hZcMKGptFsFhYE7QfRrUJpgM=;yTwixRFCZW9i9DHQYc874Q=="
 ---
 

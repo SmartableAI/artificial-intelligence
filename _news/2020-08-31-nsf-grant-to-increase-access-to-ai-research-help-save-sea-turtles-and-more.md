@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/nsf-grant-to-increas
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nsf-grant-to-increase-access-to-ai-research-help-save-sea-turtles-and-more/"
 type: article
 quality: 84
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -29,36 +29,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "US Establishes 7 AI Research Institutes"
-    excerpt: "The White House this week announced the formation of seven new AI centers aimed at advancing technological innovation and bolstering the economy. AI"
-    publishedDateTime: 2020-08-27T21:05:00Z
-    webUrl: "https://www.hpcwire.com/2020/08/27/us-announces-formation-7-ai-institutes/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 37
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/inspur_ai.png"
-        width: 701
-        height: 388
-        isCached: true
-  - title: "United States establishes a dozen AI and quantum information science research centers"
-    excerpt: "United States establishes a dozen AI and quantum information sci. By Adrian Cho. The United States aims to invest $765 million over the"
-    publishedDateTime: 2020-08-26T21:53:00Z
-    webUrl: "https://www.sciencemag.org/news/2020/08/united-states-establishes-dozen-ai-and-quantum-information-science-research-centers"
-    type: article
-    provider:
-      name: Science | AAAS
-      domain: sciencemag.org
-    quality: 30
-    images:
-      - url: "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/storm_1280p.jpg?itok=MmKHGLBw"
-        width: 1280
-        height: 720
-        isCached: true
-
-secured: "cSRF9gVV+zdRj33Z6gCzLDjpgWJUgjWoKr4ONt0PZIcHRJG0RIJvYz2KDfSWEU/09qZvHrKj39TNT3vx6nUO2E0LXAaEQ+OUm/viQckLwjuaEe+eGKwtuFB1glXaaMje4X0MDWIp4Op2pUQIgUUiWs8pcnxzGblgX4wjB63N8Y7wXa2vxAiG+GK4i5nsNE7n9EOLB1bJye50pRyOzY7RN113SL6LDXXPpyPa8c/P9Cc88inMLabILbfqJcPtTYKGTYMk5JUdmUzYrNLZ7mi2ifJIcPcbIFKMdcZVh8VlBD1ofQ8XGbejejEInN98P6x/M1ZXjjFadjXe0E2zquQtJe9Tvsky7X6H0z6xfu4HMYg=;kAFULqUbQDydP/zUvXPAbQ=="
+secured: "3HYk2NsQuMsis5FdhWVwOOYqLOs7fYkqzIiHme6q/pFrlV4mHJsQleQrmX1xZXRP6O61jgbEoqiOGJ4I/DxBQMC5jS/JdZ4Fi3oef39NEw9pS6LKUGgAzBgyCy4X/mZVn1TxeTm3w5a4ukrG4DcRMVcICCBDuqOt6TVBi7yHPFjqfLT3pCzPws5Aag0PeviXP35NZt4CfLaNztaqbVCrVOdQYbQC1ZYDqC2fsLgkUYLoHaJTmc8sbanSdG7coyPLdD53147DsJwzSFqTVLFGztxsKKwwbYDxdNHD2A7061j6GIxdzPt0AY/IkFIRLJqn3longPPn9eEuCb+mHIu7rlLc6sfWDdJVV5w8dideuARs6cv6dnnv+IFBqKk+oXV+AHkhbEsU19inHSfZrgK2kGAorwgVR6WmKm+1PPDqh1WKfnp8J9rj5ceDSAqclqZ5fmncjL4kBdQLZUDuTteL5uGPB5uA2vvCGFYtQktW7cKhgWiCZRqmV1TwLfjAOBGhlgAhFj5parDkytFR3QnvjJvoFkkZNecTNy8gvpZ9OZc=;6sRbgn7ZvcIS6WNiJOatuA=="
 ---
 

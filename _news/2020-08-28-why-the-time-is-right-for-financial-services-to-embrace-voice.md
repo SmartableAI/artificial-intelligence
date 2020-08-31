@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Emerging ISVs Seen as Viable Partners in Digital Transformation"
+    excerpt: "A large number of independent software vendors (ISVs) are emerging as potential partners in digital transformation, but enterprises should look for ISVs that make customer experience a top priority, according to a new white paper from Information Services Group ( ISG) (Nasdaq: III),"
+    publishedDateTime: 2020-08-31T14:14:00Z
+    webUrl: "https://apnews.com/0d9eb711093c4fec1830f7a0a3e603b3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Uz2USVmVq7XPvj04WtktOW+le/tCd99stGO6/0NmnWOXAIOudqcwGF+iW1y/E7qLaTfJSVSF+QnfGD8zyTyP2dRA+sLSWj6LIRCi0Xnx/NKN1/fiMtKDyuIEUkMuKSs5ucp6IteuJd/+HWRm5y0jI5gebKiTuvSHft+ArnNfAsECRrIIAHMbO5h+NPPfaYAt7T8RlF5sMjvTwX8tsAc3uE45cCOPQEv/j69DjRHqsSC8oShtz/E5FR8jqUcmMVZ4rfpOHgX8c2wLcf79T4mI7H1j8I6odR9j3wYCgPMecJ2gsJgFR44HqX1mOlUj3SLYDRKbnb81+ajo9DcIs4XDvHaXiS31cW064SVykBWBo9fQEyYNDrE4i186PhdWQXazbceb11MFVmM5qzQJkp3ke54wqeYfY/QHpDpxYvJllnKZoaum46E9j//1E0siyn2LzIGfKP2qLHkY0sVhNIcQU+ZX0xwl4htdKh2JMfOeR6wovL9OEOtQbHOIomPO88GeoGa0p0+C2o32+QHvRn/r7nO3P4KQadh1ik9i4ElfF1g=;tHh5+iT2Jmwwyj71ZdqgZw=="
 ---

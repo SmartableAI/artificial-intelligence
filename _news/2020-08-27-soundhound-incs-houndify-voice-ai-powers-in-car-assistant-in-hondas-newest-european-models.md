@@ -1,25 +1,29 @@
 ---
 category: news
-title: "SoundHound Inc.'s Houndify Voice AI Powers In-Car Assistant in Honda's Newest European Models"
-excerpt: "Enabled Personal Assistant with Natural Language Capabilities SoundHound Inc.Ⓡ the leading innovator of voice-enabled AI"
+title: "SoundHound Inc.’s Houndify Voice AI Powers In-Car Assistant in Honda’s Newest European Models"
+excerpt: "SoundHound Inc.Ⓡ the leading innovator of voice-enabled AI and conversational intelligence technologies, today announced a milestone in its strategic partnership with Honda Motor Company with the integration of its Houndify voice AI platform into the new Honda e electric car and the top selling Honda Jazz in Europe."
 publishedDateTime: 2020-08-27T08:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/08/b17263506/soundhound-inc-s-houndify-voice-ai-powers-in-car-assistant-in-hondas-newest-european-models"
-webUrl: "https://www.benzinga.com/pressreleases/20/08/b17263506/soundhound-inc-s-houndify-voice-ai-powers-in-car-assistant-in-hondas-newest-european-models"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17263506"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17263506"
+originalUrl: "https://apnews.com/22d7f76396c449748b4734f5ccd047e9"
+webUrl: "https://apnews.com/22d7f76396c449748b4734f5ccd047e9"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "mIieVpBnlrzSXi0NNdBXvN+5KnOMQWLAIhaj+JRZSqgDDnUIafS1IXg9vwHh3HWvelhM+CwblTBqhiBlTlbRMKVaKx0OHqRgs7i17KXqZwC3tXtAUVZxNqkO0Ag5TgN8rqs9jvHe13A10E+4WXZJy3xRwv0Xxc5j6wRxYTIexdJnjUHv7f/WMXk1/6YPZt8mesDFYLbv8XBqPCZyHoMZ0frFAILZ09igx21R9Ogny2qBmCzYZR7nQDqOKpvXEdHpcVUMauqaG7a52RJIWMZRH1sId9SJOH1fgrKEDABcH7ClKEM6fftxyDXTpCo8p+Z2hq6f2pfmVj1FV3WaPdOLuA0h5/Rvn91G89epJvh6WPnk/0Rou7QzmQC+miTgs77IQXxaB7CWMwdV9K4ABlRRK/jOBsVo1mpMvSLkIFrFOgDFMKHeSomMMAL4ywIU29NOiDPLXuDVF+piO8zzn2jlEM0QbWJcHjye85bve7KbZMeiEho5YNSFAmGEjn6UTcwZgcSd8JCq7BCcWvnysoNz5g==;llz/kU1HqnFczo9SW8hLTg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "7W/DUbFXjoRn5nOSk+8smJKWfCpe8u9A6AK2u0YW4mt+xi7rOrhAwW6WK5CUpDIdHv+nCN7xTlG4Fm6BhpS2VkJU2LocoLcZnjl4sXqOtoe5Od7b5M18Gh9JYzqEw8lrJoG/sXXOCuHrzbqvVuYjuJyb30ny3QFvJ9PET4lcpBc1CEniL6O95KwGplpn72ApRAQWgvi5bwiZdaQBC+JsSrcvnWA29MaHaE9TW/dSoUvLmbI6Fz5Om41wBOjSl9BPxv6GtTCE2ZhIdqJQU4sZIYrWjqQCySa7GjelikG0GAfukNvhJ3/RRjJdvL84JqsVLgS+/wvvhDEtTUAzjgH3jPZr2FCTWb3Egyq3K6NZdSY=;9PBtE4sP0a566tAErASIHA=="
 ---
 

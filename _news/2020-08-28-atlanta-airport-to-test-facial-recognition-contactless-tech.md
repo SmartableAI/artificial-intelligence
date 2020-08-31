@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Reco
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html?AMP"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2018/10/09100001/identity.jpg"
         width: 1600
         height: 1094
-        isCached: true
-  - title: "Pittsburgh Councillor Moves to Ban Police Use of Biometric Facial Recognition Tech"
-    excerpt: "Pittsburgh city councillor Corey O'Connor has introduced legislation that would ban the city's police from using facial recognition software"
-    publishedDateTime: 2020-08-26T22:34:00Z
-    webUrl: "https://findbiometrics.com/pittsburgh-councillor-moves-ban-police-use-biometric-facial-recognition-tech-082609/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 33
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/blurredface-e1579295692518.jpeg"
-        width: 1502
-        height: 1694
         isCached: true
   - title: "Faceoff! UK appellate court finds police use of facial recognition technology contravenes laws"
     excerpt: "In what has been described as one of the world's first successful legal challenges to police use of facial recognition technology, on Aug. 11 the UK Court of Appeal (Civil Division) found in R. (Bridges) v."

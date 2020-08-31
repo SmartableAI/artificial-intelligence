@@ -87,20 +87,6 @@ related:
         width: 1600
         height: 1094
         isCached: true
-  - title: "Pittsburgh Councillor Moves to Ban Police Use of Biometric Facial Recognition Tech"
-    excerpt: "Pittsburgh city councillor Corey O'Connor has introduced legislation that would ban the city's police from using facial recognition software"
-    publishedDateTime: 2020-08-26T22:34:00Z
-    webUrl: "https://findbiometrics.com/pittsburgh-councillor-moves-ban-police-use-biometric-facial-recognition-tech-082609/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 33
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/blurredface-e1579295692518.jpeg"
-        width: 1502
-        height: 1694
-        isCached: true
   - title: "Hartsfield-Jackson plans to test facial recognition, touchless technology in domestic terminal"
     excerpt: "Jackson International Airport plans to expand the use of facial recognition and other technology to reduce touch points amid the coronavirus pandemic."
     publishedDateTime: 2020-08-28T11:55:00Z

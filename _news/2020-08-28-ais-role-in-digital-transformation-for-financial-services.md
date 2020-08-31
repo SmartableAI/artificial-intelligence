@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-f
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28?amp"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-08/28/full/1566977673-7664.jpg&width=1200"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Emerging ISVs Seen as Viable Partners in Digital Transformation"
+    excerpt: "A large number of independent software vendors (ISVs) are emerging as potential partners in digital transformation, but enterprises should look for ISVs that make customer experience a top priority, according to a new white paper from Information Services Group ( ISG) (Nasdaq: III),"
+    publishedDateTime: 2020-08-31T14:14:00Z
+    webUrl: "https://apnews.com/0d9eb711093c4fec1830f7a0a3e603b3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "DKKNHd8qcsTkwbw06J7tYPKAooZ0/SbJcbUK8BR/h7tB4xujDl5sxAKHwCPDAuKUEff2AaYSNnlTT1UhduQV1+WNZK4zffmbUwXKPWjpYFIRHbKqha0G/JIq/7NIrPp9fLw2Wt4fv3k2POpXSX/tjhkUFyrbviPMSZqmLddKnwhHW6VorFd1Tgw33x7gMdv/2h6i6+/597foIZTxQUI848/6am+Z2myfIHJU0d+CzzkSggZHnxU6Wf2XnAKv5uU6z+dFePzN1OB98Ab4kVCJmtYPbRsPr3twynBuqcNbf+NIBk1myg0xP2tVmFLnaZwUsCuMxsyP9574ysR6oXdCcrQcCe9JTrVWnMaEhbbnSVo=;7W18WHtovxhWrsYm2Ybl/Q=="
