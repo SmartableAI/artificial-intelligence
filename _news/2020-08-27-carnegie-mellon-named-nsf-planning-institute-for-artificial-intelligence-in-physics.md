@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "NSF awards $20M to launch artificial intelligence institute"
-    excerpt: "The Nation Foundation has awarded a five-year, $20 million grant to a team of scientists, including iight from Harvard, to create a new research institute aimed at explo"
-    publishedDateTime: 2020-08-26T13:00:00Z
-    webUrl: "https://news.harvard.edu/gazette/story/2020/08/harvard-a-partner-in-20-million-ai-institute/"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
-    images:
-      - url: "https://news.harvard.edu/wp-content/uploads/2020/08/052709_Cong_LIn_046_2500-945x630.jpg"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Carnegie Mellon named NSF planning institute for artificial intelligence in physics"
     excerpt: "Carnegie Mellon University has received a $500,000 planning grant from the National Science Foundation (NSF) to work toward creating a National Artificial Intelligence Research Institute in Physics."
     publishedDateTime: 2020-08-26T20:59:00Z
@@ -65,20 +51,6 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/241155_web.jpg"
         width: 600
         height: 430
-        isCached: true
-  - title: "National Science Foundation awards $20M to launch artificial-intelligence institute"
-    excerpt: "The National Science Foundation has awarded a five-year, $20 million grant to a team of scientists Harvard, MIT, Northeastern, and Tufts to create a new research institute aimed at exploring the use of artificial intelligence in fundamental physics."
-    publishedDateTime: 2020-08-26T15:44:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/hu-nsf082620.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 18
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "FuI297RLoiB9gVoTiWC9m61lcg9FKrtrkJsMaREgf9v8Or8GW7kBmGtrtWhxp39D0ekXkfOuZU4qGQGZYWCUSjVmw32ntAGQQ7XkWNTv0h6C5FGKoLdWsmJsN2JIV4Gr+JS2MnfC7rRU0TwUbbRyoLZBsA4g5FrEWrS6RteT8UXjnEb5NhxeKJBR/LI8iXx9OJb5Kq/CCHHJgn7wisEQEfKnuSmmgmXmwiZeb7FSmKinCaFl2RfEBWy/+Bwp74qxuJe28yaG0jBwjI2aLlAp4EAywf/P1peyhguh/ttAJlpOptxJ3VZmyZe8rggGIDNzFjQ0tQ1yhuboWlcCduCwHEap4fvHhsIEYo9V8C09Bg+oj0avNLJjHSKkerp5+YTQTSwFB5sDs+xSb89i79nwvvIcme6NK+xcx+7dmRJjRijhx6oBKWyF3EvY9PLKuX0YE7YL6D3824rRTrZ8cNkggLVPVoadxq3+ZA5NPg8Rw71F6C8KoqrXfNsc6ll6wHgfMgz03b1FPjuBhVeCfBu1Zg==;K+n9W7p3C8oGlPmXl0PSEA=="

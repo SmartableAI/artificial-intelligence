@@ -8,8 +8,8 @@ webUrl: "https://economictimes.indiatimes.com/news/company/corporate-trends/auto
 ampWebUrl: "https://m.economictimes.com/news/company/corporate-trends/automation-ai-to-be-central-in-post-covid-world/amp_articleshow/77840124.cms"
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/company/corporate-trends/automation-ai-to-be-central-in-post-covid-world/amp_articleshow/77840124.cms"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-113082,msid-77835000/contactless-payments-multiply-in-covid-times.jpg"
@@ -25,6 +26,6 @@ images:
     height: 255
     isCached: true
 
-secured: "N7+eI5NPuWc2fWU6RqsksbtMXb/BCcWrQwMIZKkU4Izi9tsgaRRfAFzWFR5k/YblMSsqLi6lGFTMcgt/hyeeWuy+77gbIT04nPaQcsPoP9PBId6Po2mkBN1SnvGZeM0iy8/VJ8h4WOMjUa/8tykpznqEkPH0c7kHHd7RYk8uMQpWmo5lW9dbMgW8GZ8+kSjq2cSC17JVrH24L+prpewauVdE1w4dthx3+kPN1UH7GzpCD8QxSRg3pRhO8YzGwd1lq09B6ps8matYRdZub7Nsqnb3qYt0DBW4L5GrV+tjze8qC4HIN55SqQsglfqxoAjIeFHgh3WYfmtM4hxgThBBDVeojx/359VKRJyaJRmg5Ig=;s01xt0jw3yJ4DR0WWlVMwA=="
+secured: "oEV/Fa/Issg/jOIKa5Dkxmv6aau8I+l90hNp4ivH5rTT4a1qASJLFfzl8zaSzc8RO5P+dKeo6dGoatT/dvfxWU+c5sHGGqpeQ6paqmXgcjI/hbvrp5ymSpKh0GSwQA3YtuoRaXKdD2Z+8QaejF1ghFpIDbVD1iUnJ5GBwnRQU6WMNDGYmq0a8TzBFW8IHYo3jQaoYYiVg6IRUL+qEHtsVtCivDdNROpuLPdhsdFhtggG6cmflwz9PoptOWHg7BDkKIBE+YVA6hi6ACPvGM5DPqNhWVStuodqK1WPM+1AOQM8b5kvd0fYG9dNnDTUQLWzeinnF/op7R/cw+YhdyY0R4UM5+MxLEdSXl6GdJ5UP0Vx+rpZLMsCZniSGD4nMwQytCf992yieu4SrkYyC7LDM/7vTeNvIRwXWeabBkcZ6mnxEcmrnjSMoTAnSgJs9cxV+bEyDMD9L92FQl9vwu4atQLAvM/OnU+xKtMEd1kUJNocGHmhU1RbBUk4BTNkOa0N4xpG3upBabHY2nzCAWJD4BssR1lZ0qyIJbS8cVWy4Bo=;s/5YUMAmyLxiIMCr5aO9kQ=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 360
         height: 239
         isCached: true
+  - title: "Uber Vows Better Disclosure of Safety Data on Self-Driving Cars"
+    excerpt: "Uber Technologies Inc. vowed to make public more safety information regarding its self-driving cars after the National Transportation Safety Board placed"
+    publishedDateTime: 2020-08-31T05:11:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/08/31/580793.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 24
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2020/08/uber-self-driving-test.jpg"
+        width: 1100
+        height: 733
+        isCached: true
 
 secured: "sGKtn+oB5Xzt3OXzQ5bXjjl+rKbxtcHf58HUWuCAV72lPgfhTl8v7XBi3x5/5D09a1Sqq8RHCRVJ5xuiKs8BzDheto59xIq3QlCtomo3hpnazazLBGLG146OWuEDrZXDBkSnBXPDY1Dyl3uW6t+vW4G2admmZ2yt8DbtSvWVAsld6xinioC8hK2552ZGTTd/MZwa27NQxlEEVqT4OOEI6bPyAMRiGSQr2Qt7VlvmTeBFU9rO1My47xltRK/EPZClFdCbXGIJJCn7DGjsZ8yZsBa506PoCHz+r7ub5nmU4ydiLhd31OowKYrcb+CzE42JVXMOy3WNDXNbClvzp8C2pqa5NOEyHEpEZNow9wZT1G0YglG1lC8XgOsZjQRMa2I5myUzBeTpPDL7heDYKF/7HFFLJ+LJWyr4VRH2e25N6wa3gLFNBKDfpCL1VmaD7wJL8bJjU0UWPYm3NK3ZHj83cfeJatXr6whyMdL63tr6c+JmOkPGi6dgx7wEoOekJtDTAP1BwSdbws4irvhwBs6yTDbJhVQRjWTCDmgv8rfx4B8=;gWOVuPs71KdNF63e/DOBHA=="
 ---

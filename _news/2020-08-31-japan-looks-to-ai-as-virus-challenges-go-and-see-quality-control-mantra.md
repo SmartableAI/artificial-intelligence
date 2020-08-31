@@ -1,0 +1,55 @@
+---
+category: news
+title: "Japan looks to AI as virus challenges go-and-see quality control mantra"
+excerpt: "That has spurred the increased use of robots and other technology for quality control, including remote monitoring which was already being adopted before the pandemic. In Japan, such approaches represent an acute departure from the “genchi genbutsu”,"
+publishedDateTime: 2020-08-31T05:27:00Z
+originalUrl: "https://www.freemalaysiatoday.com/category/business/2020/08/31/japan-looks-to-ai-as-virus-challenges-go-and-see-quality-control-mantra/"
+webUrl: "https://www.freemalaysiatoday.com/category/business/2020/08/31/japan-looks-to-ai-as-virus-challenges-go-and-see-quality-control-mantra/"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: Free Malaysia Today
+  domain: freemalaysiatoday.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+related:
+  - title: "Japan looks to AI as coronavirus challenges go-and-see quality control mantra"
+    excerpt: "At a factory south of Japan's Toyota City, robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionise mass production in the 20th century."
+    publishedDateTime: 2020-08-31T03:37:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-factory-idUSKBN25R0CP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN25R0CP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0CP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 86
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200831&t=2&i=1531610916&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7U08J"
+        width: 744
+        height: 545
+        isCached: true
+  - title: "Japan looks to artificial intelligence as coronavirus challenges go-and-see quality control mantra"
+    excerpt: "At a factory south of Japan's Toyota City, robots have started sharing the work of quality-control inspectors, as the coronavirus pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionise mass production in the 20th century."
+    publishedDateTime: 2020-08-31T03:50:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/japan-looks-to-artificial-intelligence-as-coronavirus-challenges-go-and-see-quality"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 25
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/08/31/rk_toyota_310820.jpg?itok=hid0zvIK"
+        width: 763
+        height: 509
+        isCached: true
+
+secured: "yI1a+MAmOiyXcICpeybAQMAURsjCGYpbFFeei8MW6Svy7Ucqwls4R9OR3LD0dzF1RMMEil5U2wBULGrfxwz7Sgoa9961dwy6sIoEhNHVa1Do0pIlaz6cBKABzTees2gZlTvKA3/Egk0RCtZ+bMSk4VD2AZHh2KcHI2QJ0vA1evEQvf4XgQ0BHhtkkgIJDmf8di8mrelMCGpN4gdC6qILpaNW5R8FDGqAWquxhtP479vkl5sndmE1ZZWL4gJAnol6VYHwGEUQ5jJx3eviMHCGeZGXaBw5JpAL6R/J6BCvUcpMJ6yOD+wYSIWw0E3jZZn67+pZ2nJSsKeqqWyM+tJO5P7KhrhJlQI7ytMRwUUoGOlw90sOa4kk/qCF2lFx4DGAhzDahgKX5LQIYleI8OejxnupSWv5W2Ci0Gj5h4rceATzYd+7OXgyfme0e461KVV0Zm8aDcd4eiMYZ+L5LKSkzeNi6kASTmdZra8FdzdFvjFuNc53tuHCumVQVjc+JkoiKhQrfOMp9hhSejcxY/fXVar80R25jHwFb49qmfXvwks=;QzG7LHjAITaI/eYCnDmYyQ=="
+---
+

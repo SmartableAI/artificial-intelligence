@@ -81,20 +81,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Dow Polyurethanes fast tracks its digital transformation"
-    excerpt: "Dow Polyurethanes, a business division of Dow, is accelerating its digital transformation through increased integration into artificial intelligence and predictive capabilities geared to increasing its digital IQ across all business operations."
-    publishedDateTime: 2020-08-26T12:31:00Z
-    webUrl: "https://www.eppm.com/materials/dow-polyurethanes-fast-tracks-its-digital-transformation/"
-    type: article
-    provider:
-      name: EPPM
-      domain: eppm.com
-    quality: 24
-    images:
-      - url: "https://www.eppm.com/downloads/9224/download/Dow.jpeg?cb=d3a5bdd05e97eb6787cdbcb247d45af6&w=1200"
-        width: 400
-        height: 394
-        isCached: true
 
 secured: "Uz2USVmVq7XPvj04WtktOW+le/tCd99stGO6/0NmnWOXAIOudqcwGF+iW1y/E7qLaTfJSVSF+QnfGD8zyTyP2dRA+sLSWj6LIRCi0Xnx/NKN1/fiMtKDyuIEUkMuKSs5ucp6IteuJd/+HWRm5y0jI5gebKiTuvSHft+ArnNfAsECRrIIAHMbO5h+NPPfaYAt7T8RlF5sMjvTwX8tsAc3uE45cCOPQEv/j69DjRHqsSC8oShtz/E5FR8jqUcmMVZ4rfpOHgX8c2wLcf79T4mI7H1j8I6odR9j3wYCgPMecJ2gsJgFR44HqX1mOlUj3SLYDRKbnb81+ajo9DcIs4XDvHaXiS31cW064SVykBWBo9fQEyYNDrE4i186PhdWQXazbceb11MFVmM5qzQJkp3ke54wqeYfY/QHpDpxYvJllnKZoaum46E9j//1E0siyn2LzIGfKP2qLHkY0sVhNIcQU+ZX0xwl4htdKh2JMfOeR6wovL9OEOtQbHOIomPO88GeoGa0p0+C2o32+QHvRn/r7nO3P4KQadh1ik9i4ElfF1g=;tHh5+iT2Jmwwyj71ZdqgZw=="
 ---

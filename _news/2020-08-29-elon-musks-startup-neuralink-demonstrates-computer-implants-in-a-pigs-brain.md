@@ -41,22 +41,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Elon Musk’s Neuralink to unveil V2 brain implant machine in Aug 28 event"
-    excerpt: "As anticipation builds for Neuralink’s upcoming livestream on August 28, Tesla and SpaceX CEO Elon Musk provided yet another exciting update for the event. According to Musk, the brain-machine interface startup will not only show a working Neuralink device on Friday;"
-    publishedDateTime: 2020-08-26T11:43:00Z
-    webUrl: "https://www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machine-reveal-date/"
-    ampWebUrl: "https://www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machine-reveal-date/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/elon-musk-neuralink-v2-brain-implant-machine-reveal-date/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 58
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2019/07/neuralink-elon-musk-1024x476.jpg"
-        width: 1024
-        height: 476
-        isCached: true
   - title: "Elon Musk's Neuralink startup working on computer chip implants for human brain"
     excerpt: "Elon Musk's startup wants to one day implant computer chips inside the human brain. In a demo Friday, Musk showed off a pig with one of the prototype implants."
     publishedDateTime: 2020-08-29T15:16:00Z

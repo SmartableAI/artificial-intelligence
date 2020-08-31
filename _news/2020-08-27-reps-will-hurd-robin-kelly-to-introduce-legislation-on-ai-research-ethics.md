@@ -7,7 +7,7 @@ originalUrl: "https://www.executivegov.com/2020/08/reps-will-hurd-robin-kelly-to
 webUrl: "https://www.executivegov.com/2020/08/reps-will-hurd-robin-kelly-to-introduce-legislation-on-ai-research-ethics/"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 272
     height: 270
     isCached: true
+
+related:
+  - title: "Congressional AI Resolution Coming Soon, Lawmakers Say"
+    excerpt: "Reps. Will Hurd and Robin Kelly plan to introduce an AI resolution celebrating past innovations and laying the groundwork for future legislation."
+    publishedDateTime: 2020-08-26T16:59:00Z
+    webUrl: "https://www.nextgov.com/policy/2020/08/congressional-ai-resolution-coming-soon-lawmakers-say/168005/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/08/26/shutterstock_634024823_3/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "1+cQ+kL2zMm5sl5Qmxd4YAr0G+qED9pLZyBzD2prEdNEZk+B6sirW6TWW5HjQ0twbpc58Je1L33DWeJrz1qLkNXA9UHit2Xb8eUgGR9mLR0maKUWbMlSchImTt7INlzoFImHnkdt3oPlOXwjRVCI5kZFBNL/zYrjjgM6eSfOmwffXuSZ+q0e+dB6XKfggXcDTXtQS4IplkieV1qMrz56bMB+U+m/pKtJwmRLOq2iyQO4Mlaid0zYngRJidDCQQPZAXdx2yZLhds3rVkaWyct9JZL/I6p7efH1mGR7oMKYrfPWjwlx5D54I/8NP+HFz6+bL2kvWMLZdmJHFlyvsSRUNC6YGehsvwCyLMr6pdcJLU0Ksic4jZMNGyLNCSVpfd65hXwXOEEuIb15eV9wg0x7Rxm33itk0l315skjkYFRqN0rjubNGWgmXFmEK/jW9jaS5Jw+9Qk8Wh8Qj+lYyH4aB5sSe3bYK2m2uKc1b19rz2xU+FIybJH962/QLiQWdhPk2StvF2oaJEF8MlE2W98BoPqW/TN1vJOqpMly8MnIqY=;5n0YmGOvpCyheHeA2u+aPw=="
 ---

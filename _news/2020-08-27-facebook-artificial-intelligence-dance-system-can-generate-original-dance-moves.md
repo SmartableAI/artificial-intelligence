@@ -7,7 +7,7 @@ originalUrl: "https://www.indiawest.com/entertainment/global/facebook-artificial
 webUrl: "https://www.indiawest.com/entertainment/global/facebook-artificial-intelligence-dance-system-can-generate-original-dance-moves/article_0d98f308-e839-11ea-aed3-0f84de728cc2.html"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 278
     height: 300
     isCached: true
-
-related:
-  - title: "Facebook Launches AI System to Create Original Dance Routines"
-    excerpt: "Facebook's AI has developed a new system to choreograph original dance routines to any music, The Next Web reports. The new routines created by the system are \"synchronized and surprising\" - \"the two main criteria of a creative dance,"
-    publishedDateTime: 2020-08-26T12:47:00Z
-    webUrl: "https://www.broadwayworld.com/bwwdance/article/Facebook-Launches-AI-System-to-Create-Original-Dance-Routines-20200826"
-    type: article
-    provider:
-      name: BroadwayWorld
-      domain: broadwayworld.com
-    quality: 39
-    images:
-      - url: "https://cloudimages.broadwayworld.com/columnpiccloud/1250-c2f93cb4e830fcd730c3522678b3fc54.jpg"
-        width: 1250
-        height: 625
-        isCached: true
 
 secured: "2L3RJDFqIihjxY/t4M3pho3E8lvS10Pvn/q9HwEMJOeRdj3oYW11Mx6sCADpW0SE11PuTQCY3yhHdlooeT9ZGDz8nQoMsP/ZT5Cs0f2WNetLy7PX8z4j++W39CJQiAv6ttpOuNr5/oGLy2Vt1Hz5mqxTPH6TnDEDFhyhuL7RwIrL1sTbYHXAgl2U9U/2zNLdmw7syY08toMtN24Ojqr2hHxYegPyOy9ygzdawClGOuiKLogbMUK3B/GTduOlfLjIHGhke6yzHYkdssWGsewDvU0UUgTywYLdbt58zPlfnM0rKuQzx/Fi3JgvOIY6O3GMDBw7Vb4z2GV6PDor0pHwBCE/G+4fvxi1dajHXo7KzY7uYBkE2jdg6D6WXVsHtb7A5EFreHmVe8F5lVjFwjr2/4nzx2dBbmFaeTdMl5YJ3wlgB0OLdImnC2cZSq09ZcjmKePJGzgRMt63VHNM2nHpP3dP7006Z8YLrLmGDi1ynzeDPB6aEtLSm2CQ+6rpFopYfcHrN1uB9nQ3PgINFKfgBGQuHI5GUqLfNSmcyJVRhVo=;i8o4uuLkHpnoQu73XFNTNg=="
 ---

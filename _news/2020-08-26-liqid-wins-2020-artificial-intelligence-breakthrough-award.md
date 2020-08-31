@@ -60,20 +60,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Astute Recognized for Innovative Use of AI in 2020 Artificial Intelligence Breakthrough Awards"
-    excerpt: "Astute, Inc., a leader in customer engagement technology, today announced that it has been selected as the winner of the \"Best Transactional Bot Solution\" award in the 2020 AI Breakthrough Awards program conducted by AI Breakthrough,"
-    publishedDateTime: 2020-08-26T12:54:00Z
-    webUrl: "https://www.lelezard.com/en/news-19394436.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 42
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "DDN A3I Solutions Receive 2020 AI Breakthrough Award for Hardware"
     excerpt: "The mission of the AI Breakthrough Awards is to honor excellence and recognize the innovation, hard work and success in a range of AI and machine learning related categories, including AI platforms, Deep Learning,"
     publishedDateTime: 2020-08-27T15:07:00Z
@@ -101,45 +87,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/shutterstock_oracle-405x228.jpg"
         width: 405
         height: 228
-        isCached: true
-  - title: "Cognite Recognized for Predictive Analytics Innovation with 2020 Artificial Intelligence Breakthrough Award"
-    excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in"
-    publishedDateTime: 2020-08-26T12:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/n17247850/cognite-recognized-for-predictive-analytics-innovation-with-2020-artificial-intelligence-breakthro"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17247850"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17247850"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
-  - title: "DDN A3I Solutions Receive 2020 AI Breakthrough Award for Innovation by Delivering Unique Value and Performance"
-    excerpt: "DDN®, premier provider of Artificial Intelligence (AI) and Data Management software and hardware solutions enabling Intelligent"
-    publishedDateTime: 2020-08-26T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ddn-a3i-solutions-receive-2020-ai-breakthrough-award-for-innovation-by-delivering-unique-value-and-performance-301118625.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg?p=facebook"
-        width: 4641
-        height: 2429
-        isCached: true
-  - title: "Blue Prism Named Best Robotic Process Automation Company in 2020 by Artificial Intelligence Breakthrough Awards Program"
-    excerpt: "PRNewswire/ -- Blue Prism (AIM: PRSM), a global leader in intelligent automation, today announced that it has been selected for the third consecutive year"
-    publishedDateTime: 2020-08-26T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/blue-prism-named-best-robotic-process-automation-company-in-2020-by-artificial-intelligence-breakthrough-awards-program-301118209.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/1243480/AI_Breakthrough_Awards_2020_Blue_Prism.jpg?p=facebook"
-        width: 1004
-        height: 526
         isCached: true
 
 secured: "ytpfpbQOiR+KXF6tqCSHAG8x3Q2GbzsgqC8s0Ba/f8KIWmb6ujGv0T3ZM3GZefRUr4xLxLXuSt6O6GuojcoQcQiTzgWbTGWM7zjKNW/I1PxwteCQlxT0M+TbnRln9sFvESuNDYRNFq6CHGaxsTwIsXAklv4JJq58wJQaEEGVoADih4vT1TO5bNb6Ua3CiHkyzSENQeN9H/8j7f9pEtXhnPK3hd+nCTL815mnesvVIMoM2NP2zwvLNgaTtKiZDkCDkTn4IpBoGuFYUqquq/nGIfg+NcOnMcNfsck8PtXqvSNfLuv474F2oaPye0j9MqcqfYW0VEET5kcCZ0QM3SiZjR8O2OCR2e056+WQKJ0136M=;ORCZ0eFpxERhu5P1rIGBNQ=="

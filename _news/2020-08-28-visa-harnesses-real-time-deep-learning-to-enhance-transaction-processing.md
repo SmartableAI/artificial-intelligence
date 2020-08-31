@@ -7,7 +7,7 @@ originalUrl: "https://www.globalbankingandfinance.com/visa-harnesses-real-time-d
 webUrl: "https://www.globalbankingandfinance.com/visa-harnesses-real-time-deep-learning-to-enhance-transaction-processing/"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "Visa Harnesses Real-Time Deep Learning to Enhance Transaction Processing"
-    excerpt: "Visa Inc. today announced Visa Smarter Stand-in Processing, a new capability that uses real-time artificial intelligence to help financial institutions manage transaction authorizations when service disruptions occur."
-    publishedDateTime: 2020-08-26T13:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/visa-harnesses-real-time-deep-learning-to-enhance-transaction-processing-2020-08-26"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 48
 
 secured: "O5vMlGo8mKqdRsYJw08C2NqMQb8dK52TcUWlJlaUFAww8VyUqbblCUYl5ytEJARbXN5vcMtmo/CgEbKbf37yqaFYHJ55T03Wl2pJhAmFJtFc522Z0u7jd3Uhks5/Gr+1OAVQFtSgujhI5srsH+JHejGSq2mCu3FZ48OAR1mn+7PMAqDsLLg4bvaA7w5j6b6TEq2/o+Pa8zchF4l3npxIXmojsP6/jWDhrT2yPVMmzXFfpjiW/SviYLow++jgIBbJZlVZKLc0g/dVmBvOr00SwebGGuvkY7RyHJy3gUdxtnfMnx8UseEOwZQGdgki2xm2SvIFpY1ilssP9a6MkvEi5KDM0DsVP9bdFx0BzMvnGJvGh93HiuMnCdte82YzsHNIMtZf88rthn9dVaJe8NCa4H9+eWBttXmnC5QJOA9HZciJDQeb2/8EpMLs03S+p/dx+a6+aOQYCMt9DhBuyp6b7nuQjCWtg7MAXy0w5xjY4kRsD2F9NnRVqwXPVplAORAaaAzKQY8qVr/G28KwDnDhqk5DZngykwQlRFFOwrP8hZA=;3R25lBR1xRv9ouXxmsic7A=="
 ---
