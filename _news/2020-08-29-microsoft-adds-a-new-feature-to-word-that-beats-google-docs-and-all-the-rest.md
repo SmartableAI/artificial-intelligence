@@ -9,8 +9,8 @@ ampWebUrl: "https://www.komando.com/technology/microsoft-word-transcription-feat
 cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/microsoft-word-transcription-feature/751580/?amp"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Kim Komando
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Adds Voice Features To Office 365"
-    excerpt: "Microsoft is adding transcription and dictation coice-command functionality to Office 365 for web, which it says will allow users to spend less time and energy on time-consuming work. Using the Azure Cognitive Services AI platform,"
-    publishedDateTime: 2020-08-27T04:42:00Z
-    webUrl: "https://www.channelnews.com.au/microsoft-adds-new-voice-features-to-office-365/"
-    type: article
-    provider:
-      name: ChannelNews Australia
-      domain: channelnews.com.au
-    quality: 39
-    images:
-      - url: "https://www.channelnews.com.au/wp-content/uploads/2020/08/CLO20_microsoftForStartups_Ghana_039-8-25-BANNER-1200x600-1.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft Adds Voice Features To Office 365"
     excerpt: "Microsoft is adding transcription and dictation coice-command functionality to Office 365 for web, which it says will allow users to spend less time and energy on time-consuming work. Using the Azure Cognitive Services AI platform,"
     publishedDateTime: 2020-08-28T03:42:00Z

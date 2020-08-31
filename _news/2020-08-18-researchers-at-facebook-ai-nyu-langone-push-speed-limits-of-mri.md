@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI"
-excerpt: "The results of the joint effort, which originated at Facebook, show that accurate MRIs can be produced more quickly as AI functions with less data, researchers said."
-publishedDateTime: 2020-08-18T18:00:00Z
-originalUrl: "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
-webUrl: "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
+excerpt: "Researchers at Facebook Inc. and NYU Langone Health said Tuesday that a two-year experiment demonstrates how artificial intelligence can produce a ... at NYU Langone Health and a co-author of the research. “Our goal is a five-minute MRI."
+publishedDateTime: 2020-08-18T13:06:00Z
+originalUrl: "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 640
     isCached: true
 
-secured: "l5e/pv9xrHGEZt01Pka3jfviFuuwYwHq1YUEuARVVSS/dx4vFCX8xFiux1nY5I7mbNCTDWSQnr1ZbokOo4ANqOM8BDrCm/HOwhPcpdcYiQ9PZKTERj3MeJgMX76Irg2PaFRvRSlzp2n79DQkyJ8VxiIRH6ZzOVkHWHQN6MMmMsiGHxNrQQl/zthX5+VTgNpH1+CuQrAVnGg/3Mm/p4yOdZ6Pb0FzkCdfYvKLU/MeqpIPGypjfiOQ9buMpqL3r49E79YssSNtq62rFKzZg/NCG5UStUEw3oDXAL1zdJkh6Vbx+Yzq3nH6Ze4Jh3flyYaRZApZeNVAQ4piYkmJvfFbD7ofl94K+TjcWCvSQqKJOGlq+457Gklvm65fs2HzF4VA8DwUMY4IDEVse5sIv7GLALGyDgaUuZJ7Ym/ZOgjwRQTRexIAQqqYzXFVfMP9dc8z2jXOo44Z3uPg6lnhB1zmpZ2qlcAJhj14nUuQEyQDwD93jjIK/eJu8vRZOsXOvgFY;ynmbKB6P/8v+ErHTHoZoNg=="
+secured: "owfR6Yi9ESnyZ+LKK9pi3aV7lGs7M84iYeXJCPKfv7lG8DkWaDB+ov2+ajWx2DoQMYAoUJQAfp37pWTVopwebA4xZ/kf3teKQbNX9TOAC7itiWDNIrXU3sg/140lWb5D6WQShE44w+0D/DKG4+2hta3AAIqPYu8YQvB1XyehiA5jhgeJ3ORCyV2wNUE1KGINkYaTiL1StWabnHvXz3AVcufedvmM9glRHMH3N7eoQ7AypWJeunfJClzGqXlSK+geSrBiCAOvmfXYVr0PpxCa4QWoK2TYhUdyYAu+mzECVKUy2q8Ng6ut8nzkGsF90qpnubrSLOdVLMLptFWY8PnyAMNApCXgUtxksqU16MAEEzw=;cToYTagbtn//ElCg39Zchg=="
 ---
 

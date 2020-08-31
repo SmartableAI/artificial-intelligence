@@ -7,7 +7,7 @@ originalUrl: "https://dailyillini.com/news/2020/08/31/artificial-intelligence-in
 webUrl: "https://dailyillini.com/news/2020/08/31/artificial-intelligence-institutes/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "University of Illinois to head two of artificial intelligence institutes in the U.S"
-    excerpt: "The National Science Foundation and the U.S. Department of Agriculture's National Institute of Food and Agriculture are announcing an investment of more than $140 million to establish seven artificial intelligence institutes in the U."
-    publishedDateTime: 2020-08-27T04:32:00Z
-    webUrl: "https://www.news-medical.net/news/20200827/University-of-Illinois-to-head-two-of-artificial-intelligence-institutes-in-the-US.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200827/University-of-Illinois-to-head-two-of-artificial-intelligence-institutes-in-the-US.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200827/University-of-Illinois-to-head-two-of-artificial-intelligence-institutes-in-the-US.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 53
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "eEtyfSCP4wHyFD2C/XML1sgzWRLTFtTmJtOuxR2V4yPBO3qm2J1TduYbY7vauX3HqMY2xCUxUj/a/a4pRxaPO6mBAxe6iT9ilx3jwhVqfTlv74vtxUHc5f9irhnAr9FJ9fA09oscxVaW1AadkxYmdizXmwdb9nE94+qUYNajNdDib0iojmndFkO+OuVC5+cZU27G70LQEOyc+ZB1NUYqzRkyJGWro7GtNsJjflnK8tz3obKc8mGzOUFR0OF4+Ip9l20magItGvM0g9GwRUtLhfSDjarablN8Qe7qD0j9axFs0EEPx9mQ8622B+2ShXhH+swGSv7EKbpeOVJ781zKLBNSzu9NyMLZC54qleF9Xp0sqBWLOwl4EHpaeXjdnHYDIzdHgMrrPW8JHSlcCoX18WB9eF5DYhEQd7OsOd9WVqgZPc6KM6gT55UlFfRKRNvP2Q5F/RG/7Y+TPu+PoBmuUu4PPTnPiF5ksQ8RTVIJUEs6dE71QoplncaAPv6fxexCoBX6rh+VVs+jQbbVdMhv1dTq2XBpFRub6LngscOBpuE=;JrtS49qOlo9oyaRhT78LLQ=="
 ---

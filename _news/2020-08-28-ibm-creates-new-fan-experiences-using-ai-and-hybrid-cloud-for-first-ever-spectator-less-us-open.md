@@ -1,47 +1,47 @@
 ---
 category: news
 title: "IBM Creates New Fan Experiences using AI and Hybrid Cloud for First-Ever Spectator-less US Open"
-excerpt: "IBM's hybrid cloud architecture with Red Hat OpenShift provided the operational agility and flexibility necessary to quickly develop new experiences powered by IBM Watson's advanced NLP."
-publishedDateTime: 2020-08-28T14:54:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html"
+excerpt: "capabilities from IBM Watson, pulling from a variety of data sets and running workloads on multiple clouds. At IBM, NLP is critical to AI for business because it enables interpretation of the ..."
+publishedDateTime: 2020-08-28T14:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open-1029544559"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open-1029544559"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open-1029544559"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open-1029544559"
 type: article
-quality: 27
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/c7/0c7d77e7-796c-5913-920d-0aa2dd75f7ba/5f491c9243677.image.jpg?resize=400%2C209"
-    width: 400
-    height: 209
-    isCached: true
-
 related:
-  - title: "IBM hopes to power US Open's digital experiences with Watson's natural language processing"
-    excerpt: "The US Open can't have fans this year so IBM is hoping it can use AI to fuel debates, experiences and even the noise in the stadium."
-    publishedDateTime: 2020-08-28T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
+  - title: "US Open won't have spectators, but it will have IBM's AI and hybrid cloud"
+    excerpt: "Fans will be able to use IBM's new tech features as they watch the Grand Slam event from home this year.  This year, IBM has developed three new tennis-based digital experiences for fans of the US Open."
+    publishedDateTime: 2020-08-28T12:04:00Z
+    webUrl: "https://www.techrepublic.com/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 96
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 90
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/08/28/b59c73bd-e81b-4c3c-8115-c06cc32d2467/us-open-questions.png"
-        width: 813
-        height: 505
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
-secured: "+z8Q1k7QPo+ypwqCpL7OOZyBexX+ob9VqAoQfmM9VUQldYBycvuDPMHVddcQLEMRDgzmCZEyGxKLfGDrx/IepgacjAK5Id+TO4d/JSAiY/6ltjeQbGcy0YZ2ZdSCblc4aQyUaOQwSaL9ZG9pBKWLINP7LcZMYkUV96VAPl++wAFSHP16GuRaWhEz+aOHjeqQmwn6rZc/V3VVkQZlbeXcpEsVidtHp2JGwH51C9/kAMDuoKxsYLFzxSilHQO2oAjGAI576Cno9HmLjn1sCAL8etv0XmUaKKJ5mqa7aVD76Ftx1jx2mWN0IRLdTQqaWJ5Vp4kHRJf4Bl9FW7YGLsH6+qwdmTmBfgIa7MBwRcePG9I=;jor/3YnxQCQ8gMuXmOWxYg=="
+secured: "poGebnU6Tw2a+JkUvJUP5hoEqcI9rT7ngJI1++vzfZRC9uOq/2jsL279/MIPgoqg1XqacaE8dUUJE8vL8atCyMyXHZu1pMfWP0lD4tSuo/QzNLUe6aQzdChUEv7fSoKMe4RZc+9KWDSTFa8vxCCqNz4IrQ7xQapAd0gjp4FdhWCJBKE9cfkBbQavcq/Hxtf/gI63pb7oobqWspYTO9JhPELnrZJD24sY4hgjDfxPS3Z/I9vgnrwf2+UOcipA4fnnzQE6qvSE2YzBW/wkZRVcVHPYWvSXs682IJKxkqkYFqhSOGKjDEVdC8mfP3JYivaB4Ayxil7w2PdcL48b387jLb2kO54V4gDB4sWh06jZn8c=;wcPDv916hS+d0Mv7kgyJQw=="
 ---
 

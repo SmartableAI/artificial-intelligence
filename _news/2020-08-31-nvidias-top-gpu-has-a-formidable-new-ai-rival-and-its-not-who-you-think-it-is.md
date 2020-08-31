@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Nvidia's top GPU has a formidable new AI rival and it's not who you think it is"
-excerpt: "Tachyum, the company that plans to kill the CPU and GPU with its universal Prodigy processor, this week shared additional details regarding its upcoming chip. As it turns out, the new processor will support industry-standard open-source development frameworks for AI applications,"
+excerpt: "Tachyum, the company that plans to kill the CPU and GPU with its universal Prodigy processor, this week shared additional details regarding its upcoming chip.   As it turns out, the new processor will support industry-standard open-source development frameworks for AI applications,"
 publishedDateTime: 2020-08-31T05:00:00Z
-originalUrl: "https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram"
-webUrl: "https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram"
-ampWebUrl: "https://www.techradar.com/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram"
+originalUrl: "https://www.techradar.com/in/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram"
+webUrl: "https://www.techradar.com/in/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram"
+ampWebUrl: "https://www.techradar.com/in/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram"
 type: article
-quality: 102
-heat: 102
+quality: 100
+heat: 100
 published: true
 
 provider:
@@ -23,7 +23,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-  - Google AI
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/YCeRLZApvjKfDm8VpVZCkC-1200-80.jpg"
@@ -31,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "2hQUZ6LByCqbgMHgpPEVRAV9g/tMjZbL5os+M18khIkYB2VVDNx0tYgcKjh+XG1yHLl90M7ndmWCN7CEqF/PUokLpkUb9zhv6mKD7KR6mEn8gnXLoBkIlH0tsvh07a8XCyFgIUAMlafL7nh3XIw5ooLK9gGVfVi0mxPO8zGDJ+w035D9aE1hw6kOMiHWwg0+tMClovWE1vMEjj35hQg25fDAz8QrC6qXwe8ifeV/vPUjd0z1chNTLwsMRgn+UGulyCkm3gNLsbWKdoVNCN0HO88D3vDOMaMK8M8UilMQBTH7TJR8BqgMfNLQCklEy8/iZtOjXmegZdmgKovinjdWdyHAnB2M6ulM5y5TM9gkxYhe7WDIYJz3AdgtEHYtJuAnBCMVQUHk8XCr1e2XVSbu/NH55Sfew6spUAkRqHvB7YtI18Zqec7ebdaLovbdN5xvzVZ+YfRRVL/WpwV2fS0iD7MX7UGXVFFAcfCYGWxeoTnzWDkzdhzKa/N8bMaQNHY0sAq9r8qWnEuEY3CthNNa6RrU0qh+HcrLVD6EkcdFuoo=;8J2PgR2iEZ4zNyb8vzG29Q=="
+secured: "0MF3VC4mA18j4Z9ZHZDqEdSvBjj8HyyFcAVM1VGqJyWqMcvAZ8hFQy56tal6H33FF0HKKdLjlTT9CfEC28j4XW8u8yPFtJVLSyqOCHctz8OBr949oDDQkkCO/6bP7DbVjlpZPACyIth4crNPzb/urv8Vx+7+CSzW3O7GtUhdlZepq7qaQLyZ09GjbxtKUFCzrKp5hO90QLeVBzkM86GiN8tgsMN626IWSa9n9psC22VQ9Zzq415ZOVOWkCL+7hVJcYXXSYWnfQXIHqljTw5NehLUSKMMQxX0Q1MfEYPpAoZtPHrp2hywFzRtupm086vdmWsh+7Indn3/Go9r96vqb6G1f6F177wIXioJ6vWt4bI=;p/VoVJClVrYJERMR+eIy7g=="
 ---
 
