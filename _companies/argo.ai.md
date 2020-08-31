@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "argoai"
   url: "https://twitter.com/argoai"
-  followers: 2694
+  followers: 2696
 
 size: 501-1,000 employees
 yearFounded: 2016
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Argo AI"
 
-secured: "HJBuN7EGJcebzgzeO6gGHBs7/yGvMR1C72xYmMZ3q9+usivAtC5SHWkYwi33I5TuL8smfIW5aSc2JfequjT1B0bB8eDvjs/wj/NSd5eyqDPkdlNhdMgbU+nIfnnkZJIm5MzCTNyDzw2OIQEU5zqdkjxWdH31VUz6zOEGo5b4+ZzYh4mgeyNrOQPsrRE9Y/d7ufWFom7wr+c3Unoe3EPHLzdfL1/NqclvkShQ1/jhLh/PJdrAjVLHGmGrzSsQHDfBq8W3SKEgeNCniQJeZK5BSrAUhbyNlb3IyXWZ2c9y9tSiHfFQNFeAWNV+3Cqzxhc4MRby2c+3ghzusToTJ/rrNFiEwZZKuqXI6sULSJ/pKZFTLFkEL+R+Rhq06xIdfoIqtdiCHSZ3tM4aZGirgO5AYVsYb40IJe78lILdS/Fkges=;51X0tSXCT0Jvl0ntC/2dUQ=="
+secured: "yECdwhcWr0gjtBoOxOGl0LuBaqpoKHeUJv8piyMZL561hhVb+YkXF+DrEzfDNbS3aWYFzcmzZNbW21rdSx4cFvs2cAsw70Ma69/E0k+tYED2iIqruYJ2ETaRQ7ZoV0cHSc/IyKyjKkpXwWtPqKQpXn2ROhgTar+Sxlw74kF/cz91sr4sFGV8cebVt6FKUlZABsItMKYRKyuFv3v1GhShf2P1Bz5EdhDflH6gRGmxOq6HXlB5O9AeFnOqJTYMDSCzGrzmU3zx3E29iuPUUkORxQ90psYyuOVORl2+Ho3q0Xw6JqBoGf4vuzSEiAee92TqlXpbligJqgIAtBJ9+m/0ozY4XKE8Cc5dr0D9ZAhG0NPYWCTSVBgs5rvNygIphc72Iw62KE78bsWMxucmth38c06SQ7FrJibpE78Axu0HmfE=;LX6gqM8xOcPxDaADpRbe7A=="
 ---
 
