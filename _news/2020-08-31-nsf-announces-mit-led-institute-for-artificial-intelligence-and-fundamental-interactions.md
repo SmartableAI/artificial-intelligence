@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Carnegie Mellon named NSF planning institute for artificial intelligence in physics"
-    excerpt: "Carnegie Mellon University has received a $500,000 planning grant from the National Science Foundation (NSF) to work toward creating a National Artificial Intelligence Research Institute in Physics."
-    publishedDateTime: 2020-08-26T20:59:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/cmu-cmn082620.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/241362_web.jpg"
-        width: 1440
-        height: 1440
-        isCached: true
   - title: "Carnegie Mellon Named NSF Planning Institute for Artificial Intelligence in Physics"
     excerpt: "Carnegie Mellon University has received a $500,000 planning grant from the National Science Foundation (NSF) to work toward creating a"
     publishedDateTime: 2020-08-27T15:25:00Z

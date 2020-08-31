@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Insights By Size, Share, Future Growth And Forecast From 2020-2025"
+    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected to reach USD 191.60 billion by 2025, growing at a CAGR of 36.68% over the forecast period."
+    publishedDateTime: 2020-08-31T12:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-insights-by-size-share-future-growth-and-forecast-from-2020-2025-2020-08-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Smart Office Market Insights By Size, Share, Future Growth And Forecast, From 2020-2022"
     excerpt: "An office of that sort is typically referred to as a smart office. A smart office encourages workplace efficiency. The functions it offers vary from simple notifications on the phone regarding the shortage of inventory to the ability to control the gadgets in office."
     publishedDateTime: 2020-08-31T09:48:00Z

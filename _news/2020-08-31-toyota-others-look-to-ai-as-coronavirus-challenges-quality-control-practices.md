@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-31T11:36:00Z
 originalUrl: "https://europe.autonews.com/automakers/toyota-others-look-ai-coronavirus-challenges-quality-control-practices"
 webUrl: "https://europe.autonews.com/automakers/toyota-others-look-ai-coronavirus-challenges-quality-control-practices"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/TOYOTA%20BADGE_0.jpg"
@@ -80,6 +81,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 19
 
-secured: "9mD408TQqDPDyeHHON7RFjEnc9pwVFaoYC07o3a4XZxGrr5Y64+8S7JXMk3VpnB/mbeTYa/4oQvN6lWQk76og5Gd0CiJ/w191HiQ8RDGrq1t4dffT18uN6TjuJdlmDTpQj2zYqbI/yHxqc8xEu07XyILcSBfvpAQst7BaJJJRsir6x/DkqJPDrAEuT9RNycqZhtpvE4Qzo0eCmRaLseS/unX2IpOS0UsxOvuX9l9bkjij0yDzl8N4TbajHkyCKXmCRPFMjTZpm0RuoK+I55g57xaXJgKk38fDMYVFkwypXGgr3I6seIvt4GVeRvJj0/KOneV1az+gIDsm59ZFF/2Efgb6xeAyVdMQBpWzKYrv98=;TV7B8Mayrxg6d3jBa8yyeg=="
+secured: "z17qkycr35PXXTE9mHXxFfOQuweNLl9KwXTjIqQC9vtbmnbINUsqM/4Q1RY7ADjuhR4KVL6oeJZXu+SKRqUIPQyVLdqQ8i9ZM5wAaa4lzLbsZ7nELMz9VUaLxInC2u5TLSvkmeCcUFGtSszVuKPU5VzzniO66nuPNJSlw1S+ZkL43Iu/GaOzYffSMfFVJrZ9l2DVSbSI/yCA269zlcdszr7GrvfSQMSb02oDvDefRbkU+oqBixPT/At15R8/s41KfNGhaM/9wPiMvKmDJgkqaWow0MwVX9rwi395T5vRNJUFWEG3Finv1vngWTt+LwVBOelpszYVozr4lE3U2TOsdyrGuo1Z/+cUwTzkGmRDVyg72aUL+aSiGoEswSq4KlhYrVkF2iks4rv47leNi225gFqMSMquC2fRApVE+PNVUa4nKOZdFG1C2h8e501IEGOgNlG79ml3c1d9KPQRbmVuo3JZFDTgnOQqU50jRU3wRQOyRGd8pBWNMrL2wv9rckXptLsBIssUCYTmOagVBWG4cg==;UKpnIUucHp7ZXqCKAMKjwg=="
 ---
 

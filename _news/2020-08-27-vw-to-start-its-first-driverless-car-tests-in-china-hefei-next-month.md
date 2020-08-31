@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Audi self-driving vehicles to be tested in China’s newest EV hub"
-    excerpt: "Volkswagen Group plans to roll out its first fleet of self-driving test cars in Hefei, an eastern Chinese city that’s emerging as a hot spot for the nation’s electric vehicle ambitions. Ten Audi e-trons,"
-    publishedDateTime: 2020-08-26T19:28:00Z
-    webUrl: "https://europe.autonews.com/automakers/audi-self-driving-vehicles-be-tested-chinas-newest-ev-hub"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20China-MAIN.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Volkswagen to launch road test for self-driving vehicles in east China"
     excerpt: "German carmaker Volkswagen will pilot its autonomous-driving travel service in China as the first license plate for road tests was issued to the company on Wednesday (Aug 26)."
     publishedDateTime: 2020-08-27T07:36:00Z

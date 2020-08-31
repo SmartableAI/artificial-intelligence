@@ -70,13 +70,18 @@ related:
         isCached: true
   - title: "Google Cloud and STS to Automate U.S. Navy Maintenance Inspections Using AI and ML Technology"
     excerpt: "How it works: STS will leverage public domain and inspection drone images to build a high-quality AI/ML model using Google Cloud AutoML, a simple, secure, and flexible ML service that allows ..."
-    publishedDateTime: 2020-08-27T12:40:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20200827sf08053/google-cloud-and-sts-to-automate-us-navy-maintenance-inspections-using-ai-and-ml-technology"
+    publishedDateTime: 2020-08-27T12:13:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-cloud-and-sts-to-automate-u-s-navy-maintenance-inspections-using-ai-and-ml/article_94a8a2b2-a765-5bcd-9d3a-d1f62501ed19.html"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 23
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 43
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "VXuS0nTTymDS+ktAwAeNNOk0C9KE0Ukrbx0oDUHwxr8n3N/xGhkmmkjKwtTFnHSU3zjcMskIUNl9VTHxq9us1w6tX33qyU9xTdNoS+M35MFk1CR+iiuZ/rpmX/a3zC4yMJLu9ZMytPhvj1zYWEX0+1tbysAO1RNblZatZSvkz29wJywtBBhI/9ZZCL0BI+V2LGKO45bwuSBh3PoC6H1NfNgxuJCQQOSBRkD2CSZd6Abcz+JGyg0PmqqnHsfDv6nD35tLbZz/99S6C/ShGulnsge3KUhzjQ4Gqrd62KDgZ/gW979TXovX3AmDQcvL1G5B+xVsJhB9fALnapqgsc9BCdVsZB20dW60kkczpBnEEc4=;6J2e538Fzut4p39Nwa7R+w=="
 ---

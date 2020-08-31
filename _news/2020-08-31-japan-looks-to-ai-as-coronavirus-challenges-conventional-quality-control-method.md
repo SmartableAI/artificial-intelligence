@@ -51,7 +51,7 @@ related:
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 34
+    quality: 36
     images:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/TOYOTA%20BADGE_0.jpg"
         width: 800

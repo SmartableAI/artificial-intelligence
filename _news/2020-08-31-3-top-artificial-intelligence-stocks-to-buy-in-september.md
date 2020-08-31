@@ -1,24 +1,35 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy in September"
-excerpt: "Many people have probably heard of artificial intelligence but may be unsure exactly what AI entails. AI occurs in two phases; the learning or training phase, in which case an algorithm is \"taught\" how to react to incoming information from troves of past data."
-publishedDateTime: 2020-08-31T11:24:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2020-08-31"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2020-08-31"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2020-08-31?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2020-08-31?amp"
+excerpt: "These three stocks are all using artificial intelligence to get a leg up on competitors and win over customers."
+publishedDateTime: 2020-08-31T11:14:00Z
+originalUrl: "https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/"
+webUrl: "https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Autos
   - AI
 
-secured: "rrGx75xxsB0n2pEdX9HTD3Q5/MBf7W5LXyofcDvu+U1pT/ERszsqZwxceaF1htAEFahDjoC+9BHXUVqTVo1mf+RrlKfsTF2D+vTTvBY4KgItTFHFo0hT/y08FeWV6MYZq4aMw9a0EU/KGvOc9zXbSX5Fdhvvb3o70LmUZFqX8+izv4q8LI8I3cR34jXiEBmexq6ToL+1PEwRDnZm0iOPpXOtfH7rZf7pVh6J6DN8SjQG7bZI1j2GaRBOIibl309z2eaQMDpu1v7dWeNdvMmb4zijdGRtIauAFvxM1DlPOVPftTX5hXSlyPqmk2Q6ebqA4MCzhdU6fDSIKvlabHitC/AIjYJT1cvVkwWKyij+jPs=;4ufTK+mb+2MpUvI/sBNLow=="
+images:
+  - url: "https://media.ycharts.com/charts/3377434643bd31fc8332c880784b1b2b.png"
+    width: 720
+    height: 503
+    isCached: true
+
+secured: "1mGrQAl8LTeGZhOTzPXjagMb3JvEoycKQYgwY9HwecsMzVN+fjp2V6ft5o0c8hJosstEKVII68FbHJsu611G87C4ZiDDPjM3FytJuM26v4gUiEdRmdBnumyo0PcNQr0dpRitS1OPZuGkGsAzTeTvRNTcqzKDtLjSwHwcIaWLEcMud544XAmbm0MHrhgBzOIIeieGAqmAOH+VyNZhjHYWIotnOQQhhIb86JUjyyoVEZrqWTl49CoNKpiRzSczfAEcpt99rg/gQVGkyNsvTpRcFMYyhJ/Ro1OQhbMbvIxeOf82eVKFcMatTlz45hO/1mek4i3lXbMW2IWc49ZBTHYnPpnJ4wEeqD9ETYsFtz79r3I=;TZ4Mr6iZLRRYplGiSAYgBw=="
 ---
 
