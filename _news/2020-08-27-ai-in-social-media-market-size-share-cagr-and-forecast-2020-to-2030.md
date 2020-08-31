@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-marke
 webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030-2020-08-27"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://cdn.openpr.com/T/8/T827664247_g.jpg"
         width: 600
         height: 407
+        isCached: true
+  - title: "Smart Office Market Insights By Size, Share, Future Growth And Forecast, From 2020-2022"
+    excerpt: "An office of that sort is typically referred to as a smart office. A smart office encourages workplace efficiency. The functions it offers vary from simple notifications on the phone regarding the shortage of inventory to the ability to control the gadgets in office."
+    publishedDateTime: 2020-08-31T09:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/smart-office-market-insights-by-size-share-future-growth-and-forecast-from-2020-2022-2020-08-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global AI in Social Media Market Study and PESTEL Analysis Key Manufacturers – Google, Facebook, Microsoft"
     excerpt: "AI in Social Media Market 2020 Market.us has published a latest and most trending report on, AI in Social Media Market (Covering USA, EU, China, South East Asia and Japan) offers detailed insightful for value chain assessment,"

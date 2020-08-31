@@ -7,7 +7,7 @@ originalUrl: "https://www.rubbernews.com/automotive/self-driving-tech-supplier-a
 webUrl: "https://www.rubbernews.com/automotive/self-driving-tech-supplier-aurora-plays-field"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "DeepRoute Dedicated to Self-Driving Tech"
+    excerpt: "Nianqiu Liu, Vice President of DeepRoute, talked with Editor Bill Wong about the company’s advanced technology and what’s trending in the autonomous-vehicle industry."
+    publishedDateTime: 2020-08-26T19:58:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21140289/deeproute-dedicated-to-selfdriving-tech"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 24
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/08/Self_drivingCar_promo.5f46b8c1254ed.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "kr5Ns9GslKWG3ZrCC5RxJRY//bGSLpCzyZyxKOsdDKwc3NqVfaBriyu9dpiKR8zArk6b6KDONVm+KS3tz9wQ4Yx2eKP+pEwekxu0HdyJ6SN7tcsss/prKIYbl2bahYyUwvf5QfUmBYXYL8zXRqGJuhXe4CfAJ3mkw7idXhAzTOjw6CssFeTP0lQSgdu+/xCOPkKfBhKyPIBo3zmV9sXWzrJR6zboCTjblLRyM/qizZ7SAlGU/CKuPATXtew50i4ADOqjAQC3f11cTkw5SHnMz6IFnBmnMADBEfIQ2F52p/4Tn9KeTrgWP3QaMllJeCRMVYnOdlXuNyHyKCfllYbY+iq3OEcp6JsDgJ2hokjO2uo=;k6HeK4Jetuqp1DVfYQakuQ=="
 ---

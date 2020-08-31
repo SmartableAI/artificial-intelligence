@@ -99,6 +99,20 @@ related:
         width: 600
         height: 407
         isCached: true
+  - title: "Smart Office Market Insights By Size, Share, Future Growth And Forecast, From 2020-2022"
+    excerpt: "An office of that sort is typically referred to as a smart office. A smart office encourages workplace efficiency. The functions it offers vary from simple notifications on the phone regarding the shortage of inventory to the ability to control the gadgets in office."
+    publishedDateTime: 2020-08-31T09:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/smart-office-market-insights-by-size-share-future-growth-and-forecast-from-2020-2022-2020-08-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "EzaD/SPpaY7bzshPmH3zddZ4MO+OUsZEOrEQ8pARNDo/kA4xu9t1+k2iQ085ImUOZOCPj4TjREyGsKRCeLIdE39kAjkx7R5TlDNvOWSnKyBuM5lyPdUohemELCn3kbXkMMFR81B6LcThUEac7itD6hA24OFH7D9QX3VyxUR0Yr7gpIZPYDhR18ki5W3ftIzixcvCEDWSgfSXmO47/A5BGIyNjsy+PQRcrPN13ouwM98FciTKkknJNtncIu4hDjn5eJ2G9bUqjcUldaj2O//GqJ3NJr0m9wtJsV9j9NXOfzJ1JW10mz1gEbZJyEaEES7gJ3xVqv4tx5iL61Cm2AuxHrvbYxSO/UIoLziRYKtoFv4=;q1zAxTJh0qrW03GOjEbRPQ=="
 ---

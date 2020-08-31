@@ -51,20 +51,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
-  - title: "UC Davis to Lead New Artificial Intelligence Institute for Next-Generation Food Systems"
-    excerpt: "The University of California, Davis, has been awarded $20 million as part of a multi-institutional collaboration to establish an institute focused on enabling the next-generation food system through the integration of artificial intelligence,"
-    publishedDateTime: 2020-08-26T17:04:00Z
-    webUrl: "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems"
-    type: article
-    provider:
-      name: University of California, Davis
-      domain: ucdavis.edu
-    quality: 31
-    images:
-      - url: "https://www.ucdavis.edu/sites/default/files/images/article/30779898645_4fbbf266a5_k.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
 
 secured: "vV/Rtc0F8y1RzvVMzZdxi9fXMwGlKegpvF8/lojIdb7BqcsIAQBIeh2yDKTtwptlrnK5kKvZiKL3dL5nAzK6aZDLrCJ8hKH1bPQuC4Vhz0fAO6Ch3W8YLHz/mMt3TizM+dWJJ/Lh6IBRKZpdJwee59NMaTpmK2huju81hud2buhZEt3FwrVjM6fn3ZNKIJdVvXBnLaoPQ923LTJoiiZ/Eq0aZ2k7N81wFvY+7H+yn+VH3Av0xsPap5vXGl7F5gyJ8OaRVB6CecSbEBecikOFcSgQ/4uhtn6CH7DvUr6U1rtyL0VveR+FiyY/G9LrwehtoiNsaJ/pWvcqzHkdpEXthRlGzATuEELnGiemEd8bqYcWAYcE2W4WkKUWPoAyBR8NNlCCLXWKFv8i6eygEG1i9FcMH2Rjr27SkfZjvVKnNZ1a7rXmvr6ijmaHNnENgOtFyCX6o3KSi3d3kBM9v9WvDWmC61Riqy9WriifOJZZIgtnrz1YwLWK94NgHbFd9/YZvcqP89jn0dweSKBsaSHK0WknRX21tBVSCdY9NKjn2AE=;5TK8Y4Xv6OP0tUhjQjzmnQ=="
 ---

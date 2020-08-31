@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2020/08/navy-program-will-us
 webUrl: "https://www.nextgov.com/emerging-tech/2020/08/navy-program-will-use-ai-drone-images-predict-fleet-maintenance-needs/168030/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "Bosch, Pony.ai partner on AV fleet maintenance"
+    excerpt: "Autonomous driving startup Pony.ai and German supplier Bosch's Automotive Aftermarket division in North America are teaming up to develop and test a maintenance and repair system for future AV fleets."
+    publishedDateTime: 2020-08-27T09:51:00Z
+    webUrl: "https://europe.autonews.com/suppliers/bosch-ponyai-partner-av-fleet-maintenance"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 37
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/pony-vehicle-in%20Guangzhou.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "fHQvCNWJSv9prKYq9nVE7rNc5+0kP7mSHkgHoEFXKISb6NmjHUcAmurnjvubvDTJWpm57BuXOtWSIOhp6Y78bbtyBnknSE6WAxASYkv2nMNfxq3YN6a9SMkirMt7DQRsRmfdqQGAyRZ0LI/+Sag9zgSrkMachHgkpyLBdOS9bHokVApk+H3RUdMvMG2SF7UI/F5otjw3XL8WfNRgPtsOcDk3ZvUe7/pFSJiYgQ6BHC8/djB3Q3AtrmHaK+WdxT+moPOnOI2oQaLWavSN08LuC+EVCUBeBG3zPw5liqpR/Eyhsbc9khuTbzOqrCVniLGoXblLuEELzm0QIs7dT9Q2yz9vGd8YQbp+4bPGi357gUHPMVkiAadnBExGRc1U1FyA5TwCXH2ms/fCVF4Cgi67zQa54uxJ7ENu6HTtouBmzMc1j7qvGbjje4MPkgIoDFv8z4LUM4lLR9wDPifkIUYI3HilNc6peFrMRDrjDI5QvYcenRMxYeFhc2pUuSUTz86Wr5gcOmGpc2F2c7MQ806lzq/Yi3WqikitcWGNeJ6vOwY=;H0IcyiwcMVjnFFXQJI9rXg=="
 ---

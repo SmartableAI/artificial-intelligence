@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN25R0CP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0CP"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://image-prod.iol.co.za/resize/3892x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/95770a55-56d2-5784-a663-a26b04c63823&operation=CROP&offset=0x117&resize=3892x2189"
         width: 651
         height: 366
+        isCached: true
+  - title: "Toyota, others look to AI as coronavirus challenges quality control practices"
+    excerpt: "That has spurred the increased use of robots and other technology for quality control, including remote monitoring which was already being adopted before the pandemic. In Japan, such approaches represent an acute departure from the \"genchi genbutsu\","
+    publishedDateTime: 2020-08-31T11:36:00Z
+    webUrl: "https://europe.autonews.com/automakers/toyota-others-look-ai-coronavirus-challenges-quality-control-practices"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 34
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/TOYOTA%20BADGE_0.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Japan looks to artificial intelligence as coronavirus challenges go-and-see quality control mantra"
     excerpt: "At a factory south of Japan's Toyota City, robots have started sharing the work of quality-control inspectors, as the coronavirus pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionise mass production in the 20th century."

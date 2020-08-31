@@ -56,18 +56,13 @@ related:
         isCached: true
   - title: "Google Cloud and STS to Automate U.S. Navy Maintenance Inspections Using AI and ML Technology"
     excerpt: "How it works: STS will leverage public domain and inspection drone images to build a high-quality AI/ML model using Google Cloud AutoML, a simple, secure, and flexible ML service that allows ..."
-    publishedDateTime: 2020-08-27T12:13:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-cloud-and-sts-to-automate-u-s-navy-maintenance-inspections-using-ai-and-ml/article_94a8a2b2-a765-5bcd-9d3a-d1f62501ed19.html"
+    publishedDateTime: 2020-08-27T12:40:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20200827sf08053/google-cloud-and-sts-to-automate-us-navy-maintenance-inspections-using-ai-and-ml-technology"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 43
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 23
   - title: "STS Partners with Google to Enhance US Navy Modernization; Mike Daniels, Aaron Kilinski Quoted"
     excerpt: "\"The manual inspection of Navy ships and vessels is a time-intensive, costly process that can drive up costs and slow down deployment,\" said Mike Daniels, vice president of Global Public Sector for Google Cloud."
     publishedDateTime: 2020-08-27T20:44:00Z
@@ -83,6 +78,6 @@ related:
         height: 270
         isCached: true
 
-secured: "10Xyhf6y81oSFy7lX/3CjP21xkKeX+xDDLk9VqOsY8XNlVYUsPeVpoGywM7S7JR+udFdzO2aFpGPPpvbnRnEZGl+4BTqRpDUJfx9gDKlbZ0VUpE5zooU7/ZnZtDtX5iNbftgfZeRjfwgUkRE8S+VVtKqkuO0NcLPJaq5iPSdftSdtUvX/fA2lVrrssAlHgQv8H2ZZWFSJAzzSUhfTGCZvAdIoTCs64pCU/mmgYkvavLfj1hrOg4Y35F62xILejVwlrfrdSVp6AjOp1kcUw5h72lzsSp25NEnNEGgtO161fKgOPh686PtWIlsNMwcuaY4d+wfkKZFirl1FH8zS5JGkJylWYI7PwHuba/SaGDUVJ8=;2/1qcZdOBL5xXZS/0CMuxA=="
+secured: "hsYWGBXdh1wP7N3bNwHfkHYhDxP72xTJZBjEsgTRgHqMMRsWQqvBd7cc8ATg22mYH/UklvMb2ljWZ+r0493tIgmFtrHwX2apvDHO/WtuP26ZSl/OlpQr9aV6Svh+2SsfgJRh/68HN4JaO6k6/FoHZM3GmaXoFqcLCnTQpxZ9e4rtDcCH6OPQNXMIw/5yaE0j6Fsx25ZEglFpabQHR1B07crFKCopTNsZL9ohdGygK8plUiJrGhJ+rZuGGiGNvzTgcn9cpfeq5enAn40Dy8Q8XAmroTfgcoc4jCSO2eda/rMG35UO+FhJ1TX5sKzvn8fgs99Yt4Kfgzv4GjDdElpRSFU9GtAMrKRciyrqWw5D/CC5cSz3dEbEBhFfQgZF1qJ2Tjmf6BhJad2aPOwf5GsOzy0BRuQ1IeSn797J59300Dwjf0H1SlSEFdafR/ESJV6Ah6gNDKlSFSaKi84y8p8KxhUTO9rrNyF4ziQoD5jIPpM1wZ9FVdBvdI7bVNiDutzbVLemqmpNpmgAvtChIGkJjmaDGo38afoOv5a+TnxNp0U=;YB5oM2akQBeWQLsu8suUWg=="
 ---
 

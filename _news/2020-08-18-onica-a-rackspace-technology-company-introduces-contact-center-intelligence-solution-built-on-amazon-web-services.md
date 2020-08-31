@@ -3,6 +3,7 @@ category: news
 title: "Onica, a Rackspace Technology Company, Introduces Contact Center Intelligence Solution Built on Amazon Web Services"
 excerpt: "Onica, a Rackspace Technology Company, Introduces Contact Center Intelligence Solution Built on Amazon Web Services"
 publishedDateTime: 2020-08-18T20:28:00Z
+originalUrl: "https://www.finanzen.net/nachricht/aktien/onica-a-rackspace-technology-company-introduces-contact-center-intelligence-solution-built-on-amazon-web-services-9210250"
 webUrl: "https://www.finanzen.net/nachricht/aktien/onica-a-rackspace-technology-company-introduces-contact-center-intelligence-solution-built-on-amazon-web-services-9210250"
 type: article
 quality: 17

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "NSF Announces MIT-Led Institute for Artificial Intelligence and Fundamental Interactions"
+    excerpt: "IAIFI will advance physics knowledge — from the smallest building blocks of nature to the largest structures in the universe — and galvanize AI research innovation. The U.S. National Science Foundatio"
+    publishedDateTime: 2020-08-30T19:56:00Z
+    webUrl: "https://scitechdaily.com/nsf-announces-mit-led-institute-for-artificial-intelligence-and-fundamental-interactions/"
+    ampWebUrl: "https://scitechdaily.com/nsf-announces-mit-led-institute-for-artificial-intelligence-and-fundamental-interactions/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/nsf-announces-mit-led-institute-for-artificial-intelligence-and-fundamental-interactions/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 48
+    images:
+      - url: "https://scitechdaily.com/images/Institute-for-Artificial-Intelligence-and-Fundamental-Interactions-777x518.jpg"
+        width: 777
+        height: 518
+        isCached: true
   - title: "Carnegie Mellon named NSF planning institute for artificial intelligence in physics"
     excerpt: "Carnegie Mellon University has received a $500,000 planning grant from the National Science Foundation (NSF) to work toward creating a National Artificial Intelligence Research Institute in Physics."
     publishedDateTime: 2020-08-26T20:59:00Z

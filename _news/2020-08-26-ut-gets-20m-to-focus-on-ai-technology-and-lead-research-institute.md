@@ -9,7 +9,7 @@ ampWebUrl: "https://www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-
 cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute?template=ampart"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/inspur_ai.png"
         width: 701
         height: 388
-        isCached: true
-  - title: "UC Davis to Lead New Artificial Intelligence Institute for Next-Generation Food Systems"
-    excerpt: "The University of California, Davis, has been awarded $20 million as part of a multi-institutional collaboration to establish an institute focused on enabling the next-generation food system through the integration of artificial intelligence,"
-    publishedDateTime: 2020-08-26T17:04:00Z
-    webUrl: "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems"
-    type: article
-    provider:
-      name: University of California, Davis
-      domain: ucdavis.edu
-    quality: 31
-    images:
-      - url: "https://www.ucdavis.edu/sites/default/files/images/article/30779898645_4fbbf266a5_k.jpg"
-        width: 2048
-        height: 1536
         isCached: true
 
 secured: "vrevYuq6dlnwEr+rQancDNgPTK2sO4PteoYuZ9mtHxaZFmnMSmoS/W9MWiANHsvXelC8MF1FIUzMIwlgdmMrbxvlh4Mdol9b8/sEaMhvh1R0PMYdDkYAPhKgrgA2QDQiBC6YewQuvaUjaUxfc1QoTeE+jjZclqvxwYAIXnZRr7LjRazdzCBILsS3tFccCB8mvn9JysWmPm+7rMbNScG0EQq64t7fgOWf039zrtqbknYid2pN/A8O1rWFoQKjsELXDYSjGqBFBaCKbK4J+qyuu08Kro0JIwjcJrBzsUurPrfR6b6eZ0dgky153GrsKyXDjGAw996YtOPD+E4iR0kvSbCPwDP24KPxRnwE80CznhY=;lgIvUYgGKUrxHc7ImYPDcA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/nsf-announces-mit-led-institute-for-artific
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/nsf-announces-mit-led-institute-for-artificial-intelligence-and-fundamental-interactions/amp/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -26,35 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "US Increases Funding for AI and Quantum Information Science"
-    excerpt: "US Increases Funding for AI and Quantum Information Science; Penny Stocks Have a Bad Rap but Some of Them May Hold the Future of Technology; Multi-dimensional Quantum Commun"
-    publishedDateTime: 2020-08-26T17:23:00Z
-    webUrl: "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html?amp"
+  - title: "Carnegie Mellon named NSF planning institute for artificial intelligence in physics"
+    excerpt: "Carnegie Mellon University has received a $500,000 planning grant from the National Science Foundation (NSF) to work toward creating a National Artificial Intelligence Research Institute in Physics."
+    publishedDateTime: 2020-08-26T20:59:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/cmu-cmn082620.php"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 59
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
     images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2020/03/Honeywell-Quantum-Solutions-H-Trap.jpg"
-        width: 4208
-        height: 2752
+      - url: "https://www.eurekalert.org/multimedia/pub/web/241362_web.jpg"
+        width: 1440
+        height: 1440
         isCached: true
-  - title: "United States establishes a dozen AI and quantum information science research centers"
-    excerpt: "United States establishes a dozen AI and quantum information sci. By Adrian Cho. The United States aims to invest $765 million over the"
-    publishedDateTime: 2020-08-26T21:53:00Z
-    webUrl: "https://www.sciencemag.org/news/2020/08/united-states-establishes-dozen-ai-and-quantum-information-science-research-centers"
+  - title: "Carnegie Mellon Named NSF Planning Institute for Artificial Intelligence in Physics"
+    excerpt: "Carnegie Mellon University has received a $500,000 planning grant from the National Science Foundation (NSF) to work toward creating a"
+    publishedDateTime: 2020-08-27T15:25:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/carnegie-mellon-named-nsf-planning-institute-for-artificial-intelligence-in-physics/"
     type: article
     provider:
-      name: Science | AAAS
-      domain: sciencemag.org
-    quality: 30
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 31
     images:
-      - url: "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/storm_1280p.jpg?itok=MmKHGLBw"
-        width: 1280
-        height: 720
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/shutterstock_flightpaths-405x228.jpg"
+        width: 405
+        height: 228
         isCached: true
 
 secured: "OYpv1lVyLJ1/G3zRFOlit9YwmYtuIeyPAgwPZAsTREHoXOSGfGNBCohcRAKFrPYNlFd56CC5p73le08H1x11hbWnZIhJRxVe6v8g57QrADDbaEijy9Jhj/C1YPejQtomaeiJDgIBl7g7WH/jd+2tQM7yErAfVhJ2Z9BFS/EA9L/EEufFUue6UAFI8oKaAK4WYmJ4sjJvoSLxjXsZUqKiNlNHoQwadYuJy2F/ucaNMXsOA4Fkwdoq2xbiHQCEeHb/dIx34sazZxTkllgaAoKy2VWflCDXxpj/hKQXPM8EWVsReT67zqzcPkNW77zzGV7Pdhih37Ra4W64ThpLKsGYRoO6mN7g+2sWgQ71Dk4MP71NYOWhUJRQ4HetO5aC5/7NQLgIGcSIohfUfr8iMIdCV3FmHsXvAe2QwBd8UDwU+FVGPqfhPWT1AqbJx2JKb5rrBDqUA/47IzJXvjHJ8ZWuxSZom3KMv4sSfmtGmUYL7SXOmnLriGHOkaltBSxpgIs1OPlPThRuMuLB3laIhai+mQ296d137mEq3WvFy7k3Ego=;37G+daJ8pgRCdMecAUMR3Q=="
