@@ -2,6 +2,97 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-28-qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up.md",
+      "title": "Qualcomm-backed firm releases processor as AI chip race heats up",
+      "excerpt": "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc and Alibaba Group Holding Ltd, on Thursday announced a new chip aimed at handling artificial intelligence functions on battery-powered devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-kneron-tech-idUSKBN25N23K",
+      "originalUrl": "https://www.reuters.com/article/us-kneron-tech-idUSKBN25N23K",
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN25N23K",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25N23K",
+      "publishedDateTime": "2020-08-27T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-how-a-scots-wikipedia-scandal-highlighted-ais-data-problem.md",
+      "title": "How a Scots Wikipedia scandal highlighted AI’s data problem",
+      "excerpt": "A Reddit user discovered that most articles aren't written in Scots, raising questions for AI models trained on Wikipedia data.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1896963/the-scots-wikipedia-page-scandal-highlights-ais-data-problem/",
+      "originalUrl": "https://qz.com/1896963/the-scots-wikipedia-page-scandal-highlights-ais-data-problem/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/08/2012-01-18T120000Z_1666797843_GM1E81I19PS01_RTRMADP_3_INTERNET-PROTEST-e1598552874327.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1896963/the-scots-wikipedia-page-scandal-highlights-ais-data-problem/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1896963/the-scots-wikipedia-page-scandal-highlights-ais-data-problem/amp/",
+      "publishedDateTime": "2020-08-27T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change.md",
       "title": "AI buoyed businesses during the pandemic, and could accelerate permanent change",
       "excerpt": "IPSoft found that most businesses plan to return furloughed workers to their jobs, but many think AI will change or eliminate those positions within the next two years, white-collar included.",
@@ -833,6 +924,55 @@
       ]
     },
     {
+      "path": "_news/2020-08-26-why-board-directors-and-ceos-need-to-mitigate-ai-bias-risk.md",
+      "title": "Why Board Directors And CEOs Need To Mitigate AI Bias Risk",
+      "excerpt": "This blog discusses the acceleration of data bias in AI models, introduces five types of AI bias, and identifies key governance questions for board directors and CEO’s to ask their organizations in order to mitigate data bias risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2020/08/24/why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2020/08/24/why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night/",
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f42e153f432c840c716d0af%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-26T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-bipartisan-policy-center-and-ethics-policy-for-artificial-intelligence-inside-the-beltway-thinking-is-still-an-issue.md",
       "title": "Bipartisan Policy Center And Ethics Policy For Artificial Intelligence: Inside The Beltway Thinking Is Still An Issue",
       "excerpt": "I am rarely impressed by Inside the Beltway thinking. My recent reading of “Turning Point” is an exception that proves the rule. For the second time this month, I came upon a discussion of governmental policy for AI,",
@@ -1020,137 +1160,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-us-increases-funding-for-ai-and-quantum-information-science.md",
-      "title": "US Increases Funding for AI and Quantum Information Science",
-      "excerpt": "US Increases Funding for AI and Quantum Information Science; Penny Stocks Have a Bad Rap but Some of Them May Hold the Future of Technology; Multi-dimensional Quantum Commun",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html",
-      "originalUrl": "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nextbigfuture.com/wp-content/uploads/2020/03/Honeywell-Quantum-Solutions-H-Trap.jpg",
-          "width": 4208,
-          "height": 2752,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html?amp",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html?amp",
-      "publishedDateTime": "2020-08-26T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-artificial-intelligence-identifies-50-new-planets-from-old-nasa-data.md",
-      "title": "Artificial intelligence identifies 50 new planets from old NASA data",
-      "excerpt": "Researchers have identified 50 new planets using artificial intelligence, marking a technological breakthrough in astronomy.",
-      "sourceUrl": null,
-      "webUrl": "https://tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.html",
-      "originalUrl": "https://tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.html",
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/6/be/6be681c8-bee8-5015-a98f-c83f3eddf07b/5f330a606ce8b.preview.jpg",
-          "width": 757,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.amp.html",
-      "cdnAmpWebUrl": "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.amp.html",
-      "publishedDateTime": "2020-08-26T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arizona Daily Star",
-        "domain": "tucson.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first.md",
-      "title": "Machine learning algorithm confirms 50 new exoplanets in historic first",
-      "excerpt": "A new machine learning technique can be used to sift through massive datasets to discern exoplanets from false positives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
-      "originalUrl": "https://www.techrepublic.com/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
-      "publishedDateTime": "2020-08-26T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

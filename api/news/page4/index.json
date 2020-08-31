@@ -2,6 +2,97 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-26-us-increases-funding-for-ai-and-quantum-information-science.md",
+      "title": "US Increases Funding for AI and Quantum Information Science",
+      "excerpt": "US Increases Funding for AI and Quantum Information Science; Penny Stocks Have a Bad Rap but Some of Them May Hold the Future of Technology; Multi-dimensional Quantum Commun",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html",
+      "originalUrl": "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nextbigfuture.com/wp-content/uploads/2020/03/Honeywell-Quantum-Solutions-H-Trap.jpg",
+          "width": 4208,
+          "height": 2752,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html?amp",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html?amp",
+      "publishedDateTime": "2020-08-26T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first.md",
+      "title": "Machine learning algorithm confirms 50 new exoplanets in historic first",
+      "excerpt": "A new machine learning technique can be used to sift through massive datasets to discern exoplanets from false positives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
+      "originalUrl": "https://www.techrepublic.com/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
+      "publishedDateTime": "2020-08-26T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-why-banks-need-to-sharpen-their-focus-on-financial-crime.md",
       "title": "Why Banks Need To Sharpen Their Focus On Financial Crime",
       "excerpt": "As banks contend with the economic fallout from the Covid-19 pandemic, their ability to respond to financial crime threats is not keeping pace with the sophistication and sheer number of incoming attacks.",
@@ -1086,105 +1177,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-astronomers-confirm-50-new-exoplanets-using-machine-learning-algorithm.md",
-      "title": "Astronomers confirm 50 new exoplanets using machine learning algorithm",
-      "excerpt": "For the first time, astronomers have used a machine learning algorithm – a form of self-teaching AI – to confirm the existence of exoplanets in data collected by the now-retired Kepler space telescope.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/",
-      "originalUrl": "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/",
-      "featuredContent": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/da7c7a2/2147483647/strip/true/crop/1350x900+57+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F81%2F3d%2F72bad3664e0189b9e7523b00abe5%2Fpia11824.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/?amp=true",
-      "publishedDateTime": "2020-08-25T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-this-ai-tech-wants-to-make-you-an-avatar-that-will-work-in-every-game.md",
-      "title": "This AI Tech Wants to Make You an Avatar That Will Work in Every Game",
-      "excerpt": "Wolf3D, an Estonian company that originally focused on 3D printing, now has a simple goal: to put your 3D avatar into games, media, and virtual experiences. If these guys have anything to say about it,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938",
-      "originalUrl": "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938",
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bnyn22fuecnls6r58ztb.png",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938/amp",
-      "publishedDateTime": "2020-08-25T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.foxnews.com/us/nypd-uses-facial-recognition-to-arrest-brazen-sex-offender-accused-of-attempted-rape-on-subway-platform</loc>
+    <lastmod>2020-08-30T16:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/</loc>
+    <lastmod>2020-08-30T14:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/</loc>
     <lastmod>2020-08-30T11:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -409,6 +421,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/cindygordon/2020/08/24/why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night/</loc>
+    <lastmod>2020-08-26T13:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/davidteich/2020/08/26/bipartisan-policy-center-and-ethics-policy-for-artificial-intelligence-inside-the-beltway-thinking-is-still-an-issue/</loc>
     <lastmod>2020-08-26T13:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -435,12 +453,6 @@
   <url>
     <loc>https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html</loc>
     <lastmod>2020-08-26T10:23:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.html</loc>
-    <lastmod>2020-08-26T09:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1771,7 +1783,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.gizmodo.com.au/?p=1256892</loc>
+    <loc>https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/</loc>
     <lastmod>2020-08-19T02:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1975,6 +1987,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
+    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2007,12 +2025,6 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
-    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3519,6 +3531,12 @@
   <url>
     <loc>https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen</loc>
     <lastmod>2020-08-09T17:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.designnews.com/electronics-test/qualcomms-latest-chip-wants-be-most-powerful-cloud-based-ai</loc>
+    <lastmod>2020-08-09T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

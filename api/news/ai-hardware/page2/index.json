@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-17-elon-musk-hints-at-teslas-not-so-secret-dojo-ai-training-supercomputer-capacity.md",
+      "title": "Elon Musk hints at Tesla’s not-so-secret Dojo AI-training supercomputer capacity",
+      "excerpt": "Elon Musk has made a rare new comment about Tesla’s now not-so-secret ‘Dojo’ program to create an AI-training supercomputer and gave a hint of its capacity. Last year at Tesla’s Autonomy Day, the CEO first confirmed the existence of the ‘Dojo’ program: “We do have a major program at Tesla which we don’t have enough time",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/08/17/elon-musk-tesla-secret-dojo-ai-training-supercomputer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/08/Tesla-supercomputer.jpg?quality=82&strip=all",
+          "width": 2754,
+          "height": 1318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/08/17/elon-musk-tesla-secret-dojo-ai-training-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/08/17/elon-musk-tesla-secret-dojo-ai-training-supercomputer/amp/",
+      "publishedDateTime": "2020-08-17T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-ibm-unveils-power10-processor-for-big-data-analytics-and-ai-workloads.md",
       "title": "IBM unveils Power10 processor for big data analytics and AI workloads",
       "excerpt": "At the Hot Chips 2020 virtual conference, IBM unveiled the Power10, its first commercial 7-nanometer processor, manufactured by Samsung.",
@@ -486,6 +536,47 @@
       "provider": {
         "name": "pocketnow.com",
         "domain": "pocketnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-qualcomms-latest-chip-wants-to-be-the-most-powerful-for-cloud-based-ai.md",
+      "title": "Qualcomm's Latest Chip Wants to be the Most Powerful for Cloud-Based AI",
+      "excerpt": "According to Qualcomm, the Cloud AI 100 chip can deliver 10 times the performance per watt over current GPU, CPU, and FPGA solutions for cloud-based AI. (Image source: Qualcomm) Qualcomm is applying its chip-making expertise to artificial intelligence in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/qualcomms-latest-chip-wants-be-most-powerful-cloud-based-ai",
+      "originalUrl": "https://www.designnews.com/electronics-test/qualcomms-latest-chip-wants-be-most-powerful-cloud-based-ai",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Cloud_AI_100_Render_678x452.jpg",
+          "width": 678,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1244,97 +1335,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-nvidias-a100-tensor-core-ampere-gpu-just-set-a-flurry-of-ai-benchmark-records.md",
-      "title": "NVIDIA's A100 Tensor Core Ampere GPU Just Set A Flurry Of AI Benchmark Records",
-      "excerpt": "For the third time in a row, NVIDIA ran a clean sweep of MLPerf's set of AI and machine learning performance benchmarking suite. This time, however, the distinction of fastest GPU went to NVIDIA's ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/52376/content/Nvidia_A100.jpg",
-          "width": 708,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
-      "publishedDateTime": "2020-07-30T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-amd-cdna-gpu-to-rival-nvidia-ampere-in-late-2020.md",
-      "title": "AMD CDNA GPU to rival Nvidia Ampere in late 2020",
-      "excerpt": "AMD’s next attempt on the server GPU front embraces its new CDNA architecture that is tailored primarily for AI as well as HPC and therefore promises to be a better fit for respective customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Bd7dkokF6QEnDo8VEnUrrm-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "publishedDateTime": "2020-07-29T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://tucson.com/news/science/artificial-intelligence-identifies-5
 cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.amp.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Arizona Daily Star
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Breakthrough AI identifies 50 new planets from old NASA data"
-    excerpt: "British researchers have identified 50 new planets using artificial intelligence, marking a technological breakthrough in astronomy. Astronomers and computer scientists from the University of Warwick built a machine learning algorithm to dig through old NASA data containing thousands of potential planet candidates."
-    publishedDateTime: 2020-08-26T05:36:00Z
-    webUrl: "https://abc17news.com/money/2020/08/26/breakthrough-ai-identifies-50-new-planets-from-old-nasa-data/"
-    type: article
-    provider:
-      name: ABC 17 News
-      domain: abc17news.com
-    quality: 39
-    images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/Money-web-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Researchers find 50 possible new planets using artificial intelligence"
     excerpt: "A research team from the United Kingdom's University of Warwick has figured out a way to use artificial intelligence to sift through NASA data, leading to the discovery of up to 50 possible new planets."
     publishedDateTime: 2020-08-26T19:15:00Z
