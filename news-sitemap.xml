@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.techrepublic.com/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/</loc>
+    <lastmod>2020-08-31T10:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/</loc>
+    <lastmod>2020-08-31T10:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/08/31/ai-job-listings-plummet-as-covid-19-recession-appears-imminent/</loc>
+    <lastmod>2020-08-31T09:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.html</loc>
+    <lastmod>2020-08-31T09:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/calumchace/2020/08/31/the-impact-of-artificial-intelligence-on-workspaces/</loc>
+    <lastmod>2020-08-31T09:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/</loc>
     <lastmod>2020-08-31T08:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -39,6 +69,12 @@
   <url>
     <loc>https://www.entrepreneur.com/article/355434</loc>
     <lastmod>2020-08-31T05:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/</loc>
+    <lastmod>2020-08-31T05:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -296,6 +332,12 @@
   </url>
   <url>
     <loc>https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/</loc>
+    <lastmod>2020-08-28T05:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture</loc>
     <lastmod>2020-08-28T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -603,6 +645,12 @@
   <url>
     <loc>https://www.techspot.com/news/86514-microsoft-word-web-now-office-365-users-record.html</loc>
     <lastmod>2020-08-26T06:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php</loc>
+    <lastmod>2020-08-26T06:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1909,7 +1957,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/</loc>
+    <loc>https://www.gizmodo.com.au/?p=1256892</loc>
     <lastmod>2020-08-19T02:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2149,7 +2197,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
     <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2185,7 +2233,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-enterprise-chatbots-2020-08-18</loc>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-enterprise-chatbots-2020-08-18-5184729</loc>
     <lastmod>2020-08-18T02:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2857,6 +2905,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://stockhouse.com/news/press-releases/2020/08/13/the-top-ways-artificial-intelligence-is-disrupting-life-as-we-know-it</loc>
+    <lastmod>2020-08-13T07:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techrepublic.com/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/</loc>
     <lastmod>2020-08-13T07:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2877,12 +2931,6 @@
   <url>
     <loc>https://www.vox.com/future-perfect/21355768/gpt-3-ai-openai-turing-test-language</loc>
     <lastmod>2020-08-13T07:13:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.baystreet.ca/articles/stockstowatch/59411/The-Top-Ways-Artificial-Intelligence-is-Disrupting-Life-as-We-Know-It</loc>
-    <lastmod>2020-08-13T07:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

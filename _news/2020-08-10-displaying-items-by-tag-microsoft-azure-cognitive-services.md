@@ -3,6 +3,7 @@ category: news
 title: "Displaying items by tag: Microsoft Azure Cognitive Services"
 excerpt: "Sydney, August 6, 2020. PRODUCT ANNOUNCEMENT: Hyland, a leading content services provider for organisations across the globe, announces Brainware Foundation, the latest release of Hyland’s intelligent data extraction and text analytics software."
 publishedDateTime: 2020-08-10T07:35:00Z
+originalUrl: "https://www.itwire.com/freelancer-sp-720/tag/Microsoft Azure Cognitive Services.html"
 webUrl: "https://www.itwire.com/freelancer-sp-720/tag/Microsoft Azure Cognitive Services.html"
 type: article
 quality: 49

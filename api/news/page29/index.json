@@ -2,6 +2,360 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-08-06-deep-learning-for-synthetic-microstructure-generation-in-a-materials-by-design-framework-for-heterogeneous-energetic-materials.md",
+      "title": "Deep learning for synthetic microstructure generation in a materials-by-design framework for heterogeneous energetic materials",
+      "excerpt": "The sensitivity of heterogeneous energetic (HE) materials (propellants, explosives, and pyrotechnics) is critically dependent on their microstructure. Initiation of chemical reactions occurs at hot spots due to energy localization at sites of porosities and other defects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-020-70149-0",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-70149-0/MediaObjects/41598_2020_70149_Fig1_HTML.png",
+          "width": 685,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-ai-health-tech-start-up-infermedica-raises-10-million-series-a-for-rd-and-international-expansion-customers-include-microsoft.md",
+      "title": "AI Health Tech Start-up Infermedica Raises $10 Million Series A for R&D and International Expansion – Customers Include Microsoft",
+      "excerpt": "Infermedica, the AI-based platform for preliminary diagnosis and triage, announced it has raised $10.25 million in Series A funding. The round was led",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200806005063/en/AI-Health-Tech-Start-up-Infermedica-Raises-10",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200806005063/en/810433/23/infermedica-logo-color.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-infermedica-scores-10m-series-a-for-its-ai-driven-diagnosis-and-triage-platform.md",
+      "title": "Infermedica scores $10M Series A for its ‘AI-driven’ diagnosis and triage platform",
+      "excerpt": "Infermedica, the Poland-founded health tech startup that offers an AI-driven platform for preliminary diagnosis and triage, has raised just over $10 million in Series A funding. The round is led by the European Bank for Reconstruction and Development (EBRD) and digital health fund Heal Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/06/infermedica/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/Visuals_Screenshots_03-Symptom-Checker-Chatbots.png?w=680",
+          "width": 680,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/06/infermedica/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/06/infermedica/amp/",
+      "publishedDateTime": "2020-08-06T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-ai-models-need-to-be-interpretable-rather-than-just-explainable.md",
+      "title": "AI models need to be ‘interpretable’ rather than just ‘explainable’",
+      "excerpt": "Apple ran into trouble after customers pointed out on Twitter that its credit card service was discriminating against women. David Heinemeir Hansson, the creator of Ruby on Rails, called Apple Card a sexist program.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/1-2-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/amp/",
+      "publishedDateTime": "2020-08-06T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-big-changes-in-ai-design.md",
+      "title": "Big Changes In AI Design",
+      "excerpt": "One is a growing sophistication of the tooling, both in the training tool sets themselves — such as the whole model optimization toolkit inside of TensorFlow that helps prepare models with deployment in constrained environments — and in tooling from ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/big-changes-in-ai-design/",
+      "originalUrl": "https://semiengineering.com/big-changes-in-ai-design/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/09/iStock-927247700-Brain-AI.jpg?fit=787%2C443&#038;ssl=1",
+          "width": 787,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-mcafee-finds-security-flaws-in-internal-mechanics-of-facial-recognition-models.md",
+      "title": "McAfee finds security flaws in internal mechanics of facial recognition models",
+      "excerpt": "Adversarial machine learning needs to become an integral part when rolling out applications, chief scientist says",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/mcafee-finds-security-flaws-in-internal-mechanics-of-facial-recognition-models",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/eqqPdJ74HL7KwryaKJ9DS4-1200-80.jpg",
+          "width": 1200,
+          "height": 722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T21:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-black-hat-hackers-can-remotely-hijack-enterprise-healthcare-temi-robots.md",
+      "title": "Black Hat: Hackers can remotely hijack enterprise, healthcare Temi robots",
+      "excerpt": "Robots used in hospitals and care homes to assist patients and the vulnerable can be fully hijacked by cyberattackers.  On Thursday at Black Hat USA, McAfee's Advanced Threat Research (ATR) team disclosed new research into the robots,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/",
+      "publishedDateTime": "2020-08-05T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-nokia-sets-up-robotics-for-social-good-lab-at-indian-college.md",
+      "title": "Nokia sets up robotics for ‘social good’ lab at Indian college",
+      "excerpt": "Dubbed the ‘Nokia Centre of Excellence for Networked Robotics’, the center will serve as a hub for research into robotics, advanced comms tech and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2018/02/pexels-photo-744366-1.jpeg",
+          "width": 2550,
+          "height": 1700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/",
+      "publishedDateTime": "2020-08-05T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-ai-named-after-v-for-vendetta-masks-protects-photos-from-being-gathered-by-facial-recognition-apps.md",
       "title": "AI named after V For Vendetta masks protects photos from being gathered by facial recognition apps",
       "excerpt": "A new AI-powered program 'cloaks' images to ward off facial recognition apps. The tool makes subtle pixel-level changes that distort pictures enough so they cannot be used by online scrapers.",
@@ -764,381 +1118,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre.md",
-      "title": "Artificial Intelligence Robots Market By Size, Growth, Opportunity and Forecast to 2025 – MRE",
-      "excerpt": "Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence. It’s definitely the foremost controversial: everyone agrees that a mechanism will add a production line,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre-2020-08-05",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-why-organizations-might-want-to-design-and-train-less-than-perfect-ai.md",
-      "title": "Why organizations might want to design and train less-than-perfect AI",
-      "excerpt": "These days, artificial intelligence systems make our steering wheels vibrate when we drive unsafely, suggest how to invest our money, and recommend workplace hiring decisions. In these situations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fastcompany.com/90535790/why-organizations-might-want-to-design-and-train-less-than-perfect-ai",
-      "originalUrl": "https://www.fastcompany.com/90535790/why-organizations-might-want-to-design-and-train-less-than-perfect-ai",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/imperfect-AI.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-zencity-raises-135-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data.md",
-      "title": "Zencity raises $13.5 million to help cities aggregate community feedback with AI and big data",
-      "excerpt": "Zencity, a platform that meshes AI with big data to give municipalities insights and aggregated feedback into the thoughts and opinions of local citizens, has raised $13.5 million in a round of ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Platform_angle_full.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/amp/",
-      "publishedDateTime": "2020-08-05T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-can-machine-learning-for-enterprise-security-advance-like-voice-recognition.md",
-      "title": "Can Machine Learning For Enterprise Security Advance Like Voice Recognition?",
-      "excerpt": "The generally touted answer for pinpointing an attacker is machine learning. Finding signs of an attack or attacker is a big data problem involving finding meaningful signs and an accurate understanding. Machine learning is seen as a way of finding ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea0f35fa37d800062b82f9%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/amp/",
-      "publishedDateTime": "2020-08-05T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems.md",
-      "title": "Bulawayo based firm partners with Chinese company on facial recognition systems",
-      "excerpt": "In a report by The Chronicle, Bulawayo based firm Brains at Work Consulting Pvt Ltd has entered into a partnership with a Chinese company called Clou Global Technology to be the sole distributor of Clou Global’s facial recognition and temperature scan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://t3n9sm.c2.acecdn.net/wp-content/uploads/2020/08/CL2055-installation.jpg",
-          "width": 665,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/amp/",
-      "cdnAmpWebUrl": "https://www-techzim-co-zw.cdn.ampproject.org/c/s/www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/amp/",
-      "publishedDateTime": "2020-08-05T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techzim",
-        "domain": "techzim.co.zw",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-deep-learning-market-2019-demand-industry-growth-by-forecast-to-2024-market-research-engine.md",
-      "title": "Deep Learning Market 2019 Demand Industry Growth by Forecast to 2024 – Market Research Engine",
-      "excerpt": "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. You will get latest updated report as per the COVID-19 Impact on this industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2019-demand-industry-growth-by-forecast-to-2024-market-research-engine-2020-08-05",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020.md",
-      "title": "Behavioral Signals Named as a Sample Vendor in the Gartner Hype Cycle for Natural Language Technologies, 2020",
-      "excerpt": "Natural language process (NLP), Large-Scale Pretrained Language Model, Natural Language Processing(NLP) and Natural Language Understanding also have similar adoption rates. Emotion AI technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020-1029471680",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020-1029471680",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020-1029471680",
-      "publishedDateTime": "2020-08-05T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Innovations, Trends, Technology And Applications Market Report To 2020-2025",
-      "excerpt": "Artificial Intelligence (AI) refers to the creation ... clinical practices can be used for alerts & reminder, diagnostic, therapy planning, information retrieval, and image interpretation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025-2020-08-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025-2020-08-05",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

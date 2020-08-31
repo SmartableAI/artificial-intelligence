@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Medical Robots Market | 2020 Global Size, Share, Regional trends and 2026 Forecast"
+    excerpt: "The Global Medical Robots Market is likely to expand in the coming years due to advancements made in embedded systems. According to a report by Fortune Business Insights, titled “Medical Robots Market Size”,"
+    publishedDateTime: 2020-08-31T11:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/medical-robots-market-2020-global-size-share-regional-trends-and-2026-forecast-2020-08-26?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Manufacturing Market Trends, Size, Forecast - 2019-2025"
     excerpt: "The global artificial intelligence AI in manufacturing market was valued at USD 1 312 million in 2018 and expected to grow at a CAGR of 33 5 during the forecast period 2019 2025 AI is making its way towards the"
     publishedDateTime: 2020-08-27T14:54:00Z

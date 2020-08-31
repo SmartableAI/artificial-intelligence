@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/74/27432ca6-ea85-585f-8a5a-5267d98520e0/5f4d0a3d30345.image.jpg?resize=400%2C327"

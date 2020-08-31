@@ -81,6 +81,17 @@ related:
         width: 1600
         height: 1094
         isCached: true
+  - title: "In New Tests, Facial Recognition Products Are Consistently Thwarted by Masks"
+    excerpt: "Ongoing tests of facial recognition technology continue to show that the technology is baffled when people wear masks of the sort that have become widespread (and even mandatory) in some places during the current pandemic."
+    publishedDateTime: 2020-08-31T16:42:00Z
+    webUrl: "https://reason.com/2020/08/31/in-new-tests-facial-recognition-products-are-consistently-thwarted-by-masks/"
+    ampWebUrl: "https://reason.com/2020/08/31/in-new-tests-facial-recognition-products-are-consistently-thwarted-by-masks/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/08/31/in-new-tests-facial-recognition-products-are-consistently-thwarted-by-masks/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 36
   - title: "Faceoff! UK appellate court finds police use of facial recognition technology contravenes laws"
     excerpt: "In what has been described as one of the world's first successful legal challenges to police use of facial recognition technology, on Aug. 11 the UK Court of Appeal (Civil Division) found in R. (Bridges) v."
     publishedDateTime: 2020-08-27T20:36:00Z

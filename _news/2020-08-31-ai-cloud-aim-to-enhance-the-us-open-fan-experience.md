@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-cloud-aim-to-enhance-the-u-s-ope
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "IBM's Solutions to Boost US Open 2020 Fan Experience Off-Site"
+    excerpt: "International Business Machines Corporation IBM recently announced that it will be leveraging its artificial intelligence (\"AI\") capabilities of Watson as well as open hybrid clou"
+    publishedDateTime: 2020-08-31T17:26:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibms-solutions-to-boost-us-open-2020-fan-experience-off-site-2020-08-31"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibms-solutions-to-boost-us-open-2020-fan-experience-off-site-2020-08-31?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibms-solutions-to-boost-us-open-2020-fan-experience-off-site-2020-08-31?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "ObtIbDefI0rPY6a+bZFu1SroywJmivIaNL1gOUS7VEPza93+2gn9Yhw5SW8qzbgOBm126Zx2t0og4Hk9UQOrHXqabP5/R3ZsOom+gi3I24ohbvJPZ6BZt0QCK/dkv9brww0wMyRY1I5DrGIZuh+uqg6Srhm0IwoTsh/S8vmK8wpc/upXj8uhHjcq5/TmaQXtR658zhG6CmFjcTHDcb/yp7xCgMPbZeRNkHfxsVUv3wTP0vL4eDNf8JW2ApXwK7Qvk8/swpcv9TI76IrsbkCFB6UVGx8QMPA5eaW63JXGkBAbls+R9JMS00ZoPsXKDxr2mMKDXPHTHHsFSEKzOg/DuVUjkQbxBWYfCJtkavbHowxUzvt3/bKKJLCVmKVPMcww2fFLNWIh0K+u8tOF5vovnIu//pHMzZaMt/YcFQ3sMo5tb+Aa7e66NirlwH/rMsPqNkBZvTu0OYmMTN6jX7Oua7urBD+yOhvL3s4DBVlFZWvkLgYQyFvyPLcjgtWpY3NRKFrIM+9H6voTZV7KUSX3x9nl8JSLn0tm9j26g9yKbsw=;Y1JIsZSkMo0N0C9sodWpdQ=="
 ---

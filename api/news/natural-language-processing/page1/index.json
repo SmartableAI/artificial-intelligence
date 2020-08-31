@@ -9,7 +9,7 @@
       "webUrl": "https://venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/",
       "originalUrl": "https://venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/",
       "featuredContent": null,
-      "heat": 95,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -48,7 +48,10 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Facebook AI",
+        "AI in Robotics",
+        "Google AI"
       ]
     },
     {
@@ -261,7 +264,7 @@
       "webUrl": "https://www.techrepublic.com/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/",
       "originalUrl": "https://www.techrepublic.com/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/",
       "featuredContent": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -312,7 +315,7 @@
       "webUrl": "https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
       "originalUrl": "https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
       "featuredContent": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {

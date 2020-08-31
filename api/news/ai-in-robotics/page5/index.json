@@ -2,6 +2,106 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-14-study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic.md",
+      "title": "Study finds 195 robot deployments worldwide in response to the pandemic",
+      "excerpt": "A new preprint study identified over 195 robot deployments launched in response to the ongoing novel coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/01/amazon-scout.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/amp/",
+      "publishedDateTime": "2020-07-14T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-should-robots-pay-taxes.md",
+      "title": "Should Robots Pay Taxes?",
+      "excerpt": "Federal taxes are due this week in the US. But what about our synthetic coworkers? Should they cough up, too? Jordan Harrod, a Harvard-MIT PhD student, has something to say on the subject.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/s/should-rob/should-robots-pay-taxes_kaze.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes?amp=1",
+      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes?amp=1",
+      "publishedDateTime": "2020-07-14T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-an-ex-googlers-new-robot-reimagines-the-future-of-home-automation.md",
       "title": "An ex-Googler’s new robot reimagines the future of home automation",
       "excerpt": "Stretch is not a consumer robot that’s ready to roll into your apartment and start doing the dishes, but rather a research platform that Edsinger and Kemp hope will lay the groundwork for home automation in the years to come.",

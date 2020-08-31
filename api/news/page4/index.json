@@ -2,6 +2,335 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-27-kneron-launches-its-new-ai-chip-to-challenge-google-and-others.md",
+      "title": "Kneron launches its new AI chip to challenge Google and others",
+      "excerpt": "Fresh off a $40 million Series A round, edge AI specialist Kneron today announced the launch of its newest custom chip, the Kneron KL 720 SoC. With funding from the likes of Alibaba, Sequoia, Horizons Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/",
+      "originalUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/",
+      "featuredContent": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/KL720-2.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/amp/",
+      "publishedDateTime": "2020-08-27T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-moveai-enables-ai-motion-capture-without-the-hassle-for-video-game-production.md",
+      "title": "Move.ai enables AI motion capture without the hassle for video game production",
+      "excerpt": "Move.ai can use artificial intelligence to capture a 3D representation of an actor in a process known as markerless motion capture.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/",
+      "originalUrl": "https://venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/",
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/move.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/move-ai-enables-motion-capture-without-the-hassle-for-video-game-production/amp/",
+      "publishedDateTime": "2020-08-27T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-these-are-the-startups-applying-ai-to-transform-healthcare.md",
+      "title": "These Are The Startups Applying AI To Transform Healthcare",
+      "excerpt": "Of the many ways in which AI will transform our lives in the coming years, its impact may be more profound and far-reaching in healthcare than in any other field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/",
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f45c7bcd65e9b287f6b6c73%2F0x0.jpg%3FcropX1%3D75%26cropX2%3D1005%26cropY1%3D0%26cropY2%3D523",
+          "width": 930,
+          "height": 523,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/amp/",
+      "publishedDateTime": "2020-08-27T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-amazon-launches-an-ai-powered-health-and-wellness-band-called-halo.md",
+      "title": "Amazon Launches an AI-Powered Health and Wellness Band Called Halo",
+      "excerpt": "Amazon has today signaled its intention to grab a share of the fitness tracker market by introducing Amazon Halo —a health and wellness band combined with a \"suite of AI-powered health features\" accessed via the Halo app on Android or iOS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/amazon-launches-an-ai-powered-health-and-wellness-band-called-halo",
+      "originalUrl": "https://www.pcmag.com/news/amazon-launches-an-ai-powered-health-and-wellness-band-called-halo",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05103dT048r57vM9FV1xpvK-1.1598538004.fit_lim.size_1200x630.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/amazon-launches-an-ai-powered-health-and-wellness-band-called-halo?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-launches-an-ai-powered-health-and-wellness-band-called-halo?amp=true",
+      "publishedDateTime": "2020-08-27T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai.md",
+      "title": "Porn Site Stripchat Inadvertently Discovers Next Best Use Case For AI",
+      "excerpt": "Stripchat, a live camming platform that boasts over 60 million visits per month, has launched a new AI service tool that might just provide us with a glimpse into the next service area of deep machine learning and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/curtissilver/2020/08/27/porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai/",
+      "originalUrl": "https://www.forbes.com/sites/curtissilver/2020/08/27/porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47b1d49d97db92c4e2bed8%2F0x0.jpg",
+          "width": 616,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/curtissilver/2020/08/27/porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtissilver/2020/08/27/porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai/amp/",
+      "publishedDateTime": "2020-08-27T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-popids-face-based-payments-pose-privacy-and-security-risks.md",
+      "title": "PopID’s face-based payments pose privacy and security risks",
+      "excerpt": "PopID, a face-based payments tech vendor intent on expanding across the U.S., has problematic privacy and security policies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/",
+      "originalUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/amp/",
+      "publishedDateTime": "2020-08-27T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-gene-weingarten-i-have-a-joke-about-twitter-memes.md",
+      "title": "Gene Weingarten: I have a joke about Twitter memes",
+      "excerpt": "I have a joke about ceilings, but it goes over everyone’s head. I have a joke about an emergency room, but it’s a groaner. I have a joke about lutefisk, but it’s in bad taste. I had a joke about erectile dysfunction,",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/elonmusk/status/1298494373278220290",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/magazine/gene-weingarten-i-have-a-joke-about-twitter-memes/2020/08/24/b3129ddc-d65c-11ea-9c3b-dfc394c03988_story.html",
+      "featuredContent": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-acto-raises-115-million-to-bolster-life-sciences-sales-with-ai.md",
       "title": "ACTO raises $11.5 million to bolster life sciences sales with AI",
       "excerpt": "ACTO, a startup using AI-powered mobile experiences to educate stakeholders in life sciences, today closed an $11.5 million funding round.",
@@ -242,7 +571,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030-2020-08-27",
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030-2020-08-27",
       "featuredContent": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -842,339 +1171,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-microsofts-immersive-reader-for-azure-cognitive-services-is-now-available.md",
-      "title": "Microsoft’s Immersive Reader for Azure Cognitive Services Is Now Available",
-      "excerpt": "Immersive Reader is now generally available for Azure Cognitive Services following a significant increase in usage of the preview.",
-      "sourceUrl": null,
-      "webUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/",
-      "originalUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/",
-      "featuredContent": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2020/05/Translate-Microsoft-Edge-Immersive-Reader.jpg",
-          "width": 741,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp",
-      "publishedDateTime": "2020-08-26T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech.md",
-      "title": "Robotaxi Startup Voyage Loads Self-Driving Vans With Coronavirus-Killing Tech",
-      "excerpt": "The self-driving company that provides ride services for senior citizens is outfitting autonomous minivans with an ultraviolet lighting system adapted from ambulances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4593b29dbfd756e943c850%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/amp/",
-      "publishedDateTime": "2020-08-26T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-ai-will-revolutionize-healthcare-the-transformation-has-already-begun.md",
-      "title": "AI Will Revolutionize Healthcare. The Transformation Has Already Begun.",
-      "excerpt": "Artificial intelligence offers an unprecedented opportunity to cut this Gordian Knot and reshape the practice of healthcare. Of the many ways in which AI will transform our lives in the coming years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/",
-      "featuredContent": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f45c7bcd65e9b287f6b6c73%2F0x0.jpg%3FcropX1%3D75%26cropX2%3D1005%26cropY1%3D0%26cropY2%3D523",
-          "width": 930,
-          "height": 523,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/amp/",
-      "publishedDateTime": "2020-08-26T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review.md",
-      "title": "YouTube removes record number of videos after increasing role of AI in content review",
-      "excerpt": "YouTube says it took down a record number of videos in the second quarter of this year due to an increased use of AI in its content review efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/",
-      "originalUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/",
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-26T144504.451-1-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/amp/",
-      "publishedDateTime": "2020-08-26T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei.md",
-      "title": "Volkswagen to test autonomous vehicles in Chinese city Hefei",
-      "excerpt": "Volkswagen AG said on Wednesday it will start testing autonomous vehicles in China's eastern city of Hefei, its first in the world's biggest car market.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.reuters.com/article/uk-volkswagen-autonomous/volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei-idUKKBN25M1QZ",
-      "originalUrl": "https://uk.reuters.com/article/uk-volkswagen-autonomous/volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei-idUKKBN25M1QZ",
-      "featuredContent": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200826&t=2&i=1531082208&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7P16L",
-          "width": 877,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN25M1TH",
-      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN25M1TH",
-      "publishedDateTime": "2020-08-26T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more.md",
-      "title": "Tour de France 2020 to feature augmented reality, machine learning, and more",
-      "excerpt": "The historic Tour de France kicks off this weekend. This year's race will include a host of technology solutions to boost fan engagement amid the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
-      "originalUrl": "https://www.techrepublic.com/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/08/26/46475eba-fb95-4125-93d4-d20e8b7520fa/resize/1200x/4181f60c303fec4937ebeec2155b52ca/tdf.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
-      "publishedDateTime": "2020-08-26T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award.md",
-      "title": "DDN Recognized for Innovation in Artificial Intelligence Data Management with 2020 AI Breakthrough Award",
-      "excerpt": "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today announced that DDN®, the global leader in Artificial Intelligence (AI) and Data Management software and hardware solutions enabling Intelligent Infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
-      "publishedDateTime": "2020-08-26T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

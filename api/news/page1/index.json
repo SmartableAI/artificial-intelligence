@@ -2,6 +2,253 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-01-ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research.md",
+      "title": "IBM RXN: AI combined with robotics to speed molecular studies and chemical research",
+      "excerpt": "AI and robotics are working together to find cures for diseases more quickly. Even if you're not in science, you can learn from this project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
+      "originalUrl": "https://www.techrepublic.com/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
+      "publishedDateTime": "2020-08-31T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy.md",
+      "title": "Facebook open-sources Opacus, a PyTorch library for differential privacy",
+      "excerpt": "Facebook's Opacus is a library for training PyTorch models with differential privacy that’s ostensibly more scalable than existing state-of-the-art methods.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/",
+      "originalUrl": "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/",
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/amp/",
+      "publishedDateTime": "2020-08-31T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-ai-job-listings-plummet-as-covid-19-recession-appears-imminent.md",
+      "title": "AI job listings plummet as COVID-19 recession appears imminent",
+      "excerpt": "The last thing we expected to see near the end of 2020 was a truce between human job-seekers and the deep learning systems replacing them, but the possibility of an impending recession has upended the AI market.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/31/ai-job-listings-plummet-as-covid-19-recession-appears-imminent/",
+      "originalUrl": "https://thenextweb.com/neural/2020/08/31/ai-job-listings-plummet-as-covid-19-recession-appears-imminent/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/08/shutterstock_349570289-796x531.jpg",
+          "width": 796,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/31/ai-job-listings-plummet-as-covid-19-recession-appears-imminent/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/31/ai-job-listings-plummet-as-covid-19-recession-appears-imminent/amp/",
+      "publishedDateTime": "2020-08-31T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-in-an-era-of-face-masks-were-all-a-little-more-face-blind.md",
+      "title": "In an Era of Face Masks, We’re All a Little More Face Blind",
+      "excerpt": "Your brain’s powers of facial recognition are going to need some time to get used to the coverings we’re wearing to keep each other healthy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.html",
+      "originalUrl": "https://www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.html",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/01/science/00VIRUS-FACEBLIND/00VIRUS-FACEBLIND-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.amp.html",
+      "publishedDateTime": "2020-08-31T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-the-impact-of-artificial-intelligence-on-workspaces.md",
+      "title": "The Impact of Artificial Intelligence on Workspaces",
+      "excerpt": "It is a truth universally acknowledged that artificial intelligence will change everything. In the next few decades, the world will become intelligible, and in many ways, intelligent. But insiders suggest that the world of big office real estate will get there more slowly - at least in the world’s major cities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2020/08/31/the-impact-of-artificial-intelligence-on-workspaces/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2020/08/31/the-impact-of-artificial-intelligence-on-workspaces/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4d1be7cdfe2e7803a8595c%2F0x0.jpg%3FcropX1%3D810%26cropX2%3D6499%26cropY1%3D0%26cropY2%3D3299",
+          "width": 1200,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2020/08/31/the-impact-of-artificial-intelligence-on-workspaces/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/08/31/the-impact-of-artificial-intelligence-on-workspaces/amp/",
+      "publishedDateTime": "2020-08-31T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control.md",
       "title": "Japan explores AI as the pandemic curbs in-person quality control",
       "excerpt": "At a Japanese factory, robots have started sharing the work of quality-control inspectors as the pandemic accelerates a shift in mass production.",
@@ -59,7 +306,7 @@
       "webUrl": "https://venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/",
       "originalUrl": "https://venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/",
       "featuredContent": null,
-      "heat": 95,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -98,7 +345,10 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Facebook AI",
+        "AI in Robotics",
+        "Google AI"
       ]
     },
     {
@@ -158,7 +408,7 @@
       "webUrl": "https://www.forbes.com/sites/arielcohen/2020/08/31/get-smart-ai-and-the-energy-sector-revolution/",
       "originalUrl": "https://www.forbes.com/sites/arielcohen/2020/08/31/get-smart-ai-and-the-energy-sector-revolution/",
       "featuredContent": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -196,7 +446,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -330,6 +581,55 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-heading-to-a-job-interview-ai-could-and-should-be-in-the-room.md",
+      "title": "Heading To A Job Interview? AI Could (And Should) Be In The Room",
+      "excerpt": "All will be armed with their top accomplishments and glowing references; all will be hoping for a job offer at the end. There’s just one problem: The job interview doesn’t always work. The interview has been the gold standard — maybe even the only standard — for securing a job for decades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f281b7a2378b9f74663653a%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/amp/",
+      "publishedDateTime": "2020-08-31T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -546,7 +846,7 @@
       "webUrl": "https://www.wsj.com/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
       "originalUrl": "https://www.wsj.com/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
       "featuredContent": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -907,293 +1207,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-ai-startup-what-you-need-for-your-investor-pitch-deck.md",
-      "title": "AI Startup: What You Need For Your Investor Pitch Deck",
-      "excerpt": "The funding environment for AI startups remains robust—and some of the rounds have been substantial. Just recently Dataiku, which operates a machine learning platform, announced a $100 million Series D investment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/29/ai-startup-what-you-need-for-your-investor-pitch-deck/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/29/ai-startup-what-you-need-for-your-investor-pitch-deck/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4a87023f7672338024f9e6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D292%26cropY2%3D3532",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/29/ai-startup-what-you-need-for-your-investor-pitch-deck/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/08/29/ai-startup-what-you-need-for-your-investor-pitch-deck/amp/",
-      "publishedDateTime": "2020-08-29T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-chinas-new-ai-trade-rules-could-hamper-a-tiktok-sale.md",
-      "title": "China's new AI trade rules could hamper a TikTok sale",
-      "excerpt": "The Wall Street Journal reports that China has unveiled new restrictions on AI technology exports that could affect TikTok. The new rules bar the exports of tech like content suggestions, text analysis and voice recognition unless a company receives a license — technology TikTok uses in some cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/china-ai-export-limits-may-hamper-tiktok-172639213.html",
-      "originalUrl": "https://www.engadget.com/china-ai-export-limits-may-hamper-tiktok-172639213.html",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F42864630-dc4d-11ea-b7f7-87020bf464f2&client=amp-blogside-v2&signature=5e113a2016f80a0bb00111527d139e0e2c2b39a6",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/china-ai-export-limits-may-hamper-tiktok-172639213.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/china-ai-export-limits-may-hamper-tiktok-172639213.html",
-      "publishedDateTime": "2020-08-29T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning.md",
-      "title": "Human meets AI: Intel Labs team pushes at the boundaries of human-machine interaction with deep learning",
-      "excerpt": "What is it like for a person to live partly inside of the objective function of an AI program? Intel scientist Lama Nachman shares insights from her team’s work with Peter Scott-Morgan, a person willing to transform his body and his life to interact intimately with a machine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/",
-      "originalUrl": "https://www.zdnet.com/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/",
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/",
-      "publishedDateTime": "2020-08-29T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-pros-recognized-for-artificial-intelligence-innovation-in-salestech-with-2020-ai-breakthrough-award.md",
-      "title": "PROS Recognized for Artificial Intelligence Innovation in SalesTech with 2020 AI Breakthrough Award",
-      "excerpt": "PROS® (NYSE: PRO), a provider of AI-powered solutions that optimize selling in the digital economy, today announced that it has been selected as the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/pros-recognized-for-artificial-intelligence-innovation-in-salestech-with-2020-ai-breakthrough-award-2020-08-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/pros-recognized-for-artificial-intelligence-innovation-in-salestech-with-2020-ai-breakthrough-award-2020-08-26",
-      "featuredContent": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-29T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-how-to-tell-if-computer-vision-can-transform-your-business.md",
-      "title": "How to tell if computer vision can transform your business",
-      "excerpt": "As computer vision proliferate across new sectors, business leaders should be assessing how it could impact the trajectory of their organization.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/",
-      "originalUrl": "https://venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/amp/",
-      "publishedDateTime": "2020-08-29T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-google-cloud-updates-anthos-with-bare-metal-and-hybrid-ai.md",
-      "title": "Google Cloud Updates Anthos With Bare Metal And Hybrid AI",
-      "excerpt": "Google updates Anthos for bare metal, which lets Anthos run on-prem and at edge locations without a hypervisor, and brings Speech-to-Text On-Prem to Anthos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/",
-      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f207f7e16412747cf53f32f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5315%26cropY1%3D269%26cropY2%3D3260",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/amp/",
-      "publishedDateTime": "2020-08-29T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

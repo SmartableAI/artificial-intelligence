@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/08/31/allen-institute-open-sources-allenac
 ampWebUrl: "https://venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/amp/"
 type: article
-quality: 85
-heat: 95
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,9 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
+  - AI in Robotics
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/03/dc841940-773e-4eac-b8e4-991a1d03d459-e1585147826530.png?w=1200&#038;strip=all"
@@ -46,6 +49,6 @@ related:
         height: 388
         isCached: true
 
-secured: "1Pa2JIGf0D0np0puIOlwAFJhemvC2O7fMxnI3IXEV+g1rEEYWAB3hr6XpARcA6CDX64sTd7edpKUdSOn1BDzJ/jNR2xNCcQMLhmEt2NIFotPXmtlWg541FOOGntfaojJKktyremG1QG4dF4LWU2Y26lzq/TlN3nw8sIIugIzHWrxmn83ViPUEUhff/r3yOtV6X7/vvvgMHBfvEMMp+fxHI9s/mF9Yd49FEqsOsYuA2++LK32cW9uzD+SQQNXL3uyEwOYm8k3TuPBZ+ZY8VuHpjH2s1hRI4AfeWU2jh+uR/YTolFF8tPqjjWr3R7guhEnQAfn65kmYn9vEzSSgvTyZsBgXJYH6fVf2U1PKHwe/Kk=;TikRVSs0WKkQ3NaYZGn95w=="
+secured: "8LnpUByISY38hhjZvYiK9u2uebw527m+fK5T1h/yLwPSbEXPR4z/lF/PqmClPd5KWgnZpfT0O4+fOfDGAQa4tdks5pmNlQPJfXFFp0ZvW8LZAAeEuk6ExyvFTn5GEiwj8goMJqfddBUnaMiMKmzy8BFm8UD3h+pPH/AOXbSTi/FfpP7w2wDExDr4q5+oYuhzWUkxuKwBOtSRy8m/bJgC1keOvgZmgIwtgRm3fCz2/0wIuhinIxtYZzotlacNton264NC/YkOsNsXCZwsmbZ1EJc3xxFP4kkG+m1QbVQ6m+sqazYxQNRv6ZrwJBhZyNMG+N4Djtafn1tJRo2nmqp3NH6IOYxj0h/k1JfXxpJdJtJbpblO+OJVC2g3H2yPjSl/cLZarSEwFMTpePrVv1KhzkGfkcQDJjtJ4SZ1m675dWxsGWpccLorCdCdIOdPFeG1MkBW1JR9AdJNI2no/MyVdiXt3PQXH9BlUYNu021FmLRTN59JEzEPqzpv0nOOnNK+b55zKyHvx/mi9SJNiSvndw==;59H+DpQMH90MeaAwgxOjLA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-marke
 webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030-2020-08-27"
 type: article
 quality: 67
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Medical Robots Market | 2020 Global Size, Share, Regional trends and 2026 Forecast"
+    excerpt: "The Global Medical Robots Market is likely to expand in the coming years due to advancements made in embedded systems. According to a report by Fortune Business Insights, titled “Medical Robots Market Size”,"
+    publishedDateTime: 2020-08-31T11:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/medical-robots-market-2020-global-size-share-regional-trends-and-2026-forecast-2020-08-26?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

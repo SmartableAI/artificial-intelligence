@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/arielcohen/2020/08/31/get-smart-ai-and-the
 ampWebUrl: "https://www.forbes.com/sites/arielcohen/2020/08/31/get-smart-ai-and-the-energy-sector-revolution/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2020/08/31/get-smart-ai-and-the-energy-sector-revolution/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4cf5921f44579be66a2da2%2F0x0.jpg"
