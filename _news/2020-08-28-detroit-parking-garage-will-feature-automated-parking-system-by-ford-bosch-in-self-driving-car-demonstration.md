@@ -26,19 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "How an Automated Data Labeling Platform Fuels Self-driving Industry?"
-    excerpt: "Baidu has been developing the autonomous driving ... for autonomous vehicles is ready for application. Behind the self-driving: Machine learning and Data annotation Before we talk about the ..."
-    publishedDateTime: 2020-08-26T15:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/ac17244991/how-an-automated-data-labeling-platform-fuels-self-driving-industry"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17244991"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17244991"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
-
 secured: "oXF64G5s9GkGd+A1GKAb0uXKhZ2WzSDDgiXYH5lNIyrFYcH/CZxSoj/mmBHYNw7Nws4HpgzfX9vQ3YvANU7qG/gFAAp5VqdTlw5SxJCGccpGkco9BaRPeA0OZ5vTfwmj0wvfQVm6a2iVMu620pcDFPTCJtMm4RCzWzqcaKV8DE99hgps4xoK6Nl5yZZU7p7eYbSFfA6nw74sfRA5etuGSJKaTG1RtnCbIVNeQgCCvqervGr+fmLByd7DYrbqo1G8/IBsjogsAW9Tes587QR2Gk8HY2vVW3RWD2THahyF1f+k04hNkV60ef68B4bg6ZkQE/glVpoOX80zTTjTlekBsEYUZsjz/f1W1MCNY3kcDxOX+ZIdlnST3ppx++hgQxvRxeabW2fJbKmHta3L5G43oMgYrdBuMmC49jvEwjS8im6PzZ/JI0CQdHNFxvTsbely1+ihy33eK19f2uAQwUBrOHdl/MFv5cp6eT3rQ4eYjMeqi+Ue7E9geXF7WgjLa8Bf6EcWwrrji44ddcmJ+GcTDhJMuy60fSL7/9xuUGnGbfQ=;oCU8OBdRRrp0OCi52tabjw=="
 ---
 

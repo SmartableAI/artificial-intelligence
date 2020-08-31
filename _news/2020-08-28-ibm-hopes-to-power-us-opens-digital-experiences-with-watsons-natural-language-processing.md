@@ -34,8 +34,8 @@ images:
 related:
   - title: "IBM Creates New Fan Experiences using AI and Hybrid Cloud for First-Ever Spectator-less US Open"
     excerpt: "IBM's hybrid cloud architecture with Red Hat OpenShift provided the operational agility and flexibility necessary to quickly develop new experiences powered by IBM Watson's advanced NLP."
-    publishedDateTime: 2020-08-28T14:54:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html"
+    publishedDateTime: 2020-08-28T15:08:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html"
     type: article
     provider:
       name: WFMZ-TV

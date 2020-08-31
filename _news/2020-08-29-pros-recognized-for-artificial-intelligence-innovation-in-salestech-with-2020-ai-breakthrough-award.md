@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/pros-recognized-for-arti
 webUrl: "https://www.marketwatch.com/press-release/pros-recognized-for-artificial-intelligence-innovation-in-salestech-with-2020-ai-breakthrough-award-2020-08-26"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 108
+published: true
 
 provider:
   name: MarketWatch
@@ -28,39 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "DDN Recognized for Innovation in Artificial Intelligence Data Management with 2020 AI Breakthrough Award"
-    excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today announced that DDN®, the global leader in Artificial Intelligence (AI) and Data Management software and hardware solutions enabling Intelligent Infrastructure,"
-    publishedDateTime: 2020-08-26T13:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096"
+  - title: "LexinFintech Wins The Asian Banker Award for Best AI and Innovation Lab in China"
+    excerpt: "LexinFintech Holdings Ltd., a leading online consumption and consumer finance platform for educated young professionals in China, has been awarded the Best AI and Innovation Lab Award in China by The Asian Banker,"
+    publishedDateTime: 2020-08-29T12:20:00Z
+    webUrl: "https://www.nasdaq.com/press-release/lexinfintech-wins-the-asian-banker-award-for-best-ai-and-innovation-lab-in-china-2020"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "Liqid Wins 2020 Artificial Intelligence Breakthrough Award"
-    excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market today, today announced that Liqid,"
-    publishedDateTime: 2020-08-26T15:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/liqid-wins-2020-artificial-intelligence-breakthrough-award-1029536910"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/liqid-wins-2020-artificial-intelligence-breakthrough-award-1029536910"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/liqid-wins-2020-artificial-intelligence-breakthrough-award-1029536910"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 59
+  - title: "LexinFintech Wins The Asian Banker Award for Best AI and Innovation Lab in China Nasdaq:LX"
+    excerpt: "LexinFintech Holdings Ltd. (Lexin) (NASDAQ: LX ), a leading online consumption and consumer finance platform for educated young professionals in China, has been awarded the Best AI and Innovation Lab Award in China by The Asian Banker,"
+    publishedDateTime: 2020-08-29T17:38:00Z
+    webUrl: "https://menafn.com/1100713711/LexinFintech-Wins-The-Asian-Banker-Award-for-Best-AI-and-Innovation-Lab-in160-China-NasdaqLX"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-  - title: "Matterport Recognized for Innovative Use of 3D Technology with 2020 Artificial Intelligence Breakthrough Award"
-    excerpt: "Matterport's Cortex AI is a deep learning neural network that creates the 3D digital twins and automates many of the things normally performed manually. It stitches the high-fidelity 2D imagery captured by the Matterport Pro2 camera to construct the space in 3D,"
-    publishedDateTime: 2020-08-26T13:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/matterport-recognized-for-innovative-use-of-3d-technology-with-2020-artificial-intelligence-breakthrough-award-1029536334"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/matterport-recognized-for-innovative-use-of-3d-technology-with-2020-artificial-intelligence-breakthrough-award-1029536334"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/matterport-recognized-for-innovative-use-of-3d-technology-with-2020-artificial-intelligence-breakthrough-award-1029536334"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 44
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?597003"
+        width: 443
+        height: 250
+        isCached: true
   - title: "DDN A3I Solutions Receive 2020 AI Breakthrough Award for Hardware"
     excerpt: "The mission of the AI Breakthrough Awards is to honor excellence and recognize the innovation, hard work and success in a range of AI and machine learning related categories, including AI platforms, Deep Learning,"
     publishedDateTime: 2020-08-27T15:07:00Z

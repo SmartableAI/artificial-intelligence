@@ -7,7 +7,7 @@ originalUrl: "https://thecitizen.com/2020/08/30/taxpayer-criticizes-fayette-scho
 webUrl: "https://thecitizen.com/2020/08/30/taxpayer-criticizes-fayette-school-board-for-buying-facial-recognition-cameras/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     height: 739
     isCached: true
 
-secured: "QB8gU4/7GiZVv3yeMW8ranpmcgvkbmpb8zFbi4Swo3gIwMWB0bdVvO9RnO2uKac3yyYwGuAL2uddkBXYBelsZ8Hd10v7BC7JQzwOZf0aSbNJk93fYfig5lLFHZXC2Hl7IxWdglL4ExEdgmOWRxPJCZdoBwJl4UabYsS0uGNZY0bWMmB/bMlrE0VWNFdKn30HS0Hbypw/X0EIewk4PTTBBO3hQkwOItrLUM13QJbtYUmGXwCZ9QBz5uY7HC8lfx/BRaTVn9RGXY5o8k7Lfl7AT21D5DmBa+tHnjGMxkzdPpmZVZtG5W8UEN1l5fUVjUmbTQ54Wd9xewtNC+/HZhikvxisbilCGiwdS/0y2OH4pEA=;QsdHlS+yvTqjALnW214h4w=="
+related:
+  - title: "New London Skyscraper Is Facial Recognition-Ready"
+    excerpt: "One of Central London's most technologically advanced skyscrapers comes with the infrastructure required to support facial recognition"
+    publishedDateTime: 2020-08-28T21:34:00Z
+    webUrl: "https://findbiometrics.com/new-london-skyscraper-comes-ready-facial-recognition-tech-integration-082809/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 39
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/62157982_thumbnail3-e1436371820805.jpg"
+        width: 551
+        height: 585
+        isCached: true
+  - title: "SIA Outlines Its Biometric Facial Recognition Principles"
+    excerpt: "The SIA has announced the release of its new policy principles meant to guide the development and deployment of facial recognition technology"
+    publishedDateTime: 2020-08-28T21:55:00Z
+    webUrl: "https://findbiometrics.com/sia-outlines-biometric-facial-recognition-principles-082810/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 39
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/scroll.jpg"
+        width: 599
+        height: 479
+        isCached: true
+
+secured: "VVm6F0G4KdWLoQOB0B80v6NGw9Y7RBGXIWShftXWiXDDr1nBYj65kq+NsY1fee/FNWHkPWiSYyDKXeOBJw3Z/938brjRICHN6s1eq5iwwCpJs+Lb/2FBmsZplvPpYaXgZWrFD/aImoLrja8mWOB1dGq2TX8XYA+TBTPwDCR5hV4dWiLvyQfkNAJKZDvXDNcdpqwV2L5MRJ8I/hYSY17f/9KSRiU86zSn0ceh6PZlXBbZLoWWNFWISO12sVOmRbVhFYwoWVMg4nkVIWVaTXa8lCDo1ung5w4hk8GcKUHrgKIyFoxJrGwe5rWtfreubeVHRPZPwbm7X0Qy2v7wI2bulGBIEkesPzcneQLxPibEzBV9QAGg82b0L6jX1rbsUvmj74nvFbBrbDnEiQBOpKaKwoftcCtkNjM9OTapQkS0UHlzjU7i3feWFFjkv0xYvYrW2s1/FbiHKWWlcpXXaf6yndeNj65CiQddBJrCZg4QmXnNZhp5nGSBpeEgGIFwuq3jSAqr9UESEotiMRG8VCJiD2WXSIXAPtpjyeHciU122mw=;jMEHZrA2U0SdkIch5DPx7w=="
 ---
 

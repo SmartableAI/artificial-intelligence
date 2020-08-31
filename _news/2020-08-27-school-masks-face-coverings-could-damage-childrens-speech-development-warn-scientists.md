@@ -26,24 +26,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "School masks: potential damage to speech development ‘far greater’ than risk of transmission"
-    excerpt: "Face masks in schools could hinder children’s speech development, Government scientists warned ahead of the U-turn on coverings, Sage papers show. New guidance will allow head t"
-    publishedDateTime: 2020-08-26T16:07:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2020/08/26/school-masks-potential-damage-speech-development-far-greater/"
-    ampWebUrl: "https://www.telegraph.co.uk/news/2020/08/26/school-masks-potential-damage-speech-development-far-greater/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/08/26/school-masks-potential-damage-speech-development-far-greater/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 33
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2020/08/26/TELEMMGLPICT000154402816_trans_NvBQzQNjv4BqwRnwQ0KgCqCTKamrqQKaYset1mpKYa9X38JoVBgoWQc.jpeg"
-        width: 507
-        height: 317
-        isCached: true
-
 secured: "8borKUAWc/x1wFWJNLXUpm2wavHTh8KX15LUP7OLA0THfOekcHRxj9lISLD9j6dcwQhDkhYSKO3hOSI1i0XCDXm9hGVwNSPkWMH0P3CEI+HNAAWdsf+8er+s3XuE/tKli/OxC94tMn7xYK0BwXBs9cWr+VWuNdej92rwqPLgWXAIv74nxJNw4Rdmg9aGroUyqKzykXEYFOwDLF8wvu46ILNQHxpEP6H2svVZa/I7ZNCYvw6Owpo3XkrW5gPR9n24DJGgNSbTZDuSqUwsx6tzYwytxKb815DtjHmNZq4hlNrYdN2Oh+29EIDjGW3oktCI0xJMzAIQqVxWaI19Omf0YaaxmM/zsuoAhEl4bvM5a8k=;10lGk/9OTf7xFe6gI5cb1A=="
 ---
 

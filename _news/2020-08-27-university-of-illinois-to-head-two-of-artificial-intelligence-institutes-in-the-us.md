@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200827/University-of-Illinoi
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200827/University-of-Illinois-to-head-two-of-artificial-intelligence-institutes-in-the-US.aspx"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "University of Illinois to lead two of seven new national artificial intelligence institutes"
-    excerpt: "The National Science Foundation and the U.S. Department of Agriculture's National Institute of Food and Agriculture are announcing an investment of more than $140 million to establish seven artificial intelligence institutes in the U."
-    publishedDateTime: 2020-08-26T15:45:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoia-uoi082620.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/241301_web.jpg"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "8ypAyzZ1jVMz//Kq+FmeJZbTmjo/QvobVnyjME70j1Pmhxw62cX7YZD16E2E00l2QNNOx12plqQ8+PCaJ2pE8GuqZlyIxBCctRGpykGb98c2YYdRaoNR0Kop9S2JMiDG0OApCR7vcxe6tw6/ALtiArjoL17grqN62iXye8vgLBjdkzQGfb8nOj4jaxZYSbsqF4OIisQYCe1MiciaP6CRVkRkizufXZy/n80V/ax9SfGWn8Wd0Hthl7Xw3yBl+nSrMBm1YK/jDpo/JBGds3+GiAULp5dpw8+LvgSfzeBCxsDZv4t9ykz33apXGtPM+0tHedzth7ypIZ9wblzCut2aB1c5Z6jGH9NrieCNZtRKcA4=;aKT0gWWOdmbD/LVEZqppBQ=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 1024
     isCached: true
 
+related:
+  - title: "Future Electronics to Hold AI and Machine Learning Live Session at 2020 EETech Industry Tech Days"
+    excerpt: "Future Electronics will hold a live session on Artificial Intelligence (AI) and Machine Learning at the 2020 EETech Industry Tech Days virtual event."
+    publishedDateTime: 2020-08-31T07:03:00Z
+    webUrl: "https://www.pr.com/press-release/820142"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 21
+
 secured: "DjKeHRDb56LzRIXR5AKRZPZdFOrdmlEMT4qnCLsI6PK3nx7KnsjdV1XYr3ScVDFt20MI+MrchU1g0lULGtMZZtZKzVRdQZZpiiOXmyVNsgb/41ChKmX58EaimMcAiPTIMEJbxg+ybLjgHGdAAj+bHJIuNDqUmll1TNz1ihhtzIPby/WPM70pp6onw0cFS+yaUx3oj4izl9mK6HP7iBKIVRCLzth9eQnPkS0Tb/nqX0ABDY/fZyxXRLgy/xTMKApD8gGTu7lhVVPuLlibC4WIDgCbm08Eaoek8rK/bWh5QQgy+40k4AF+FKXaRvRrTdB893u3utiakgUqTs970Yf5tTPpWQ+4/oHnpZa8Z8BoOag=;6qlNUW/kDl75uuEpo2WXMg=="
 ---
 

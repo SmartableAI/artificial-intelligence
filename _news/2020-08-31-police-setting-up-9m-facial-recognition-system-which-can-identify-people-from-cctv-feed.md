@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Police setting up $9m facial recognition system which can identify people from CCTV feed"
-excerpt: "Police quietly set up a $9 million facial recognition system that can take a live feed from CCTV cameras and identify people from it."
-publishedDateTime: 2020-08-30T23:53:00Z
-originalUrl: "https://www.stuff.co.nz/national/300095573/police-setting-up-9m-facial-recognition-system-which-can-identify-people-from-cctv-feed"
-webUrl: "https://www.stuff.co.nz/national/300095573/police-setting-up-9m-facial-recognition-system-which-can-identify-people-from-cctv-feed"
+excerpt: "Police have been quietly setting up a $9 million facial recognition system that can take a live feed from CCTV cameras and identify people from it. This would push New Zealand into new territory for tracking citizens."
+publishedDateTime: 2020-08-31T00:21:00Z
+originalUrl: "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12360871"
+webUrl: "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12360871"
 type: article
-quality: 30
-heat: 30
+quality: 10
+heat: 10
 published: false
 
 provider:
-  name: Stuff.co.nz
-  domain: stuff.co.nz
+  name: The New Zealand Herald
+  domain: nzherald.co.nz
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://resources.stuff.co.nz/content/dam/images/4/y/o/3/9/b/image.related.StuffLandscapeSixteenByNine.1420x800.4yo385.png/1598832228354.jpg"
-    width: 1420
-    height: 798
-    isCached: true
-
-secured: "PbxZI9gVhgdGxK0Nj0I32o4bH1fXparA55aUMD7WR70fgAoPeLvec7g1snXbXV8y5mAl9E7Q1YjpAj63L9UCvpNBBQssTA7M6HuvA/A8nY0Jm1zrm/HYXnuF7pQaRoCcWQOPJHOY4RmJB6o+C9vHgVpWnOT1EkGIuJQ7l2CiXdRyZ+U2HNAvbz24gDkYmy/1CU5wmQHXNtMK4oL0Vy9Gcyxq2Tl3kz6/07tbEMj+9Ri3nBVnwPXFpr8hHd3buSlifuZK7qNaCDTf99X7L08pVsTpGUL8vxSeCPiHYm6934OgWs+TTIsUffDFhe1kfxMpD+DnvE/BtjPH1MvCIaQmf/lZwUYZJPIan634lQJdGH0=;ZhWP9CGm+mDRMpT73kQtnQ=="
+secured: "q2Am1XWoYiL7q+VnzuHEex/bsGGMF/4ECOuVegFeDJhM4L5cJ69HMZjM0v3vZYN2f+CWMw4wUN5OriuZeYAbS/20y6od+V0y3UsjlwKHS8MoMkqQoMB9LXJdtQbhugrtCkSFgJubE2iny841VTLM7A7TsjeONMK2gRMeTiLfcdlIFfbMr0lAV1Zy6IBbaaRJCdlPq2rjlIrp1wDCTluvHi2n/Z8cpMnpbWwkdwRdsriyqtG5jf/uURwIVuRjJ60bTnnJLivwW5WK9aZWnBRFJZnwgyS3r+xzCek4LYP6cEOqE4KmxDPwuWioY3nlggy9YxucDbioqjQvGu6qFFrhq7017EkYYc5MzkgeaCv9eMtvELofoHPxmYoQggOx46a0tYqbb3P/gd68i9tSSn5ztouR7Iu0LZYKoGYQCa4byktkKH2nsM6rl5Yg/VOsqi2IhI0xzC1Dz21kAt4+QQ7OljQyBe9sxkaX6poN9Tk+jmasRzLAq5cicLwl4w4WKDJ+heVWirzoJfRMBzlXiiXKo/Y8kMOgXw5U7Ipd0+5u5kU=;d5czx/oS2XjLbkUt2KoW7Q=="
 ---
 

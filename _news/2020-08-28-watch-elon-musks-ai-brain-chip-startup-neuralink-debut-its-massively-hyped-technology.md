@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/watch-elon-musks-big-neuralink-annou
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8?amp"
 type: article
 quality: 96
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk says his AI brain chip company Neuralink will run a live tech demo of a 'working device' on Friday"
-    excerpt: "Musk said in May Neuralink could begin human testing within a year, although experts have questioned this timeline."
-    publishedDateTime: 2020-08-26T14:45:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://i.insider.com/5f0380832618b911dd364f96?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Elon Musk Is Finally Revealing Neuralink’s Controversial Brain Chip"
     excerpt: "Tesla and SpaceX CEO Elon Musk will reveal a major update of his biotech startup Neuralink and demonstrate a “working device” for the company’s hyped brain-machine interface. Neuralink’s technology, the founder claims,"
     publishedDateTime: 2020-08-28T09:00:00Z

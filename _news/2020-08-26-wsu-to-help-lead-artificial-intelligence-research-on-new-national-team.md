@@ -37,20 +37,6 @@ related:
         width: 1627
         height: 1170
         isCached: true
-  - title: "UT Austin selected as home of National AI Institute focused on machine learning"
-    excerpt: "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine Learning, one of five new national AI institutes."
-    publishedDateTime: 2020-08-26T13:28:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 52
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/241249_web.jpg"
-        width: 1440
-        height: 983
-        isCached: true
   - title: "US Establishes 7 AI Research Institutes"
     excerpt: "The White House this week announced the formation of seven new AI centers aimed at advancing technological innovation and bolstering the economy. AI"
     publishedDateTime: 2020-08-27T21:05:00Z

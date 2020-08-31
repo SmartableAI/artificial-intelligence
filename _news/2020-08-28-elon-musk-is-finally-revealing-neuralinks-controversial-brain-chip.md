@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Elon Musk says his AI brain chip company Neuralink will run a live tech demo of a 'working device' on Friday"
-    excerpt: "Musk said in May Neuralink could begin human testing within a year, although experts have questioned this timeline."
-    publishedDateTime: 2020-08-26T14:45:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-announces-neuralink-will-do-live-tech-demo-2020-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://i.insider.com/5f0380832618b911dd364f96?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Elon Musk’s neuroscience startup unveils pig with computer chip in its brain"
     excerpt: "Musk described Neuralink's sensor, which is roughly eight millimetres in diameter, or smaller than a fingertip, as \"a Fitbit in your skull with tiny wires.\""
     publishedDateTime: 2020-08-28T23:43:00Z

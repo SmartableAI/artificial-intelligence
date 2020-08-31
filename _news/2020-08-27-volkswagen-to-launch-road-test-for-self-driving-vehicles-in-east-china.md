@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Volkswagen to test autonomous vehicles in Chinese city Hefei"
-    excerpt: "Volkswagen AG said on Wednesday it will start testing autonomous vehicles in China's eastern city of Hefei, its first in the world's biggest car market."
-    publishedDateTime: 2020-08-26T14:21:00Z
-    webUrl: "https://uk.reuters.com/article/uk-volkswagen-autonomous/volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei-idUKKBN25M1QZ"
-    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN25M1TH"
-    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN25M1TH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200826&t=2&i=1531082208&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7P16L"
-        width: 877
-        height: 545
-        isCached: true
-  - title: "Volkswagen to roll out fleet of self-driving test cars"
-    excerpt: "Volkswagen plans to roll out its first fleet of self-driving test cars in Hefei, an eastern Chinese city that’s emerging as a hot spot for the nation’s electric vehicle ambitions. Ten Audi e-trons, VW’s premium electric SUV model,"
-    publishedDateTime: 2020-08-26T15:06:00Z
-    webUrl: "https://www.irishtimes.com/business/transport-and-tourism/volkswagen-to-roll-out-fleet-of-self-driving-test-cars-1.4339368"
-    ampWebUrl: "https://www.irishtimes.com/business/transport-and-tourism/volkswagen-to-roll-out-fleet-of-self-driving-test-cars-1.4339368"
-    cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/transport-and-tourism/volkswagen-to-roll-out-fleet-of-self-driving-test-cars-1.4339368"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 44
-    images:
-      - url: "https://www.irishtimes.com/polopoly_fs/1.4339367.1598453305!/image/image.jpg"
-        width: 585
-        height: 329
-        isCached: true
   - title: "Volkswagen to test self-driving vehicles in China"
     excerpt: "Volkswagen AG said on Wednesday it will start testing autonomous vehicles in China's eastern city of Hefei, its first in the world's biggest car market."
     publishedDateTime: 2020-08-26T17:50:00Z
@@ -101,33 +69,33 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "VW to test self-driving vehicles in China’s newest EV hub"
-    excerpt: "Volkswagen Group plans to roll out its first fleet of self-driving test cars in Hefei, an eastern Chinese city that’s emerging as a hot spot for the nation’s electric vehicle ambitions. Ten Audi E-trons,"
-    publishedDateTime: 2020-08-26T14:50:00Z
-    webUrl: "https://www.autonews.com/china/vw-test-self-driving-vehicles-chinas-newest-ev-hub"
+  - title: "DeepRoute Dedicated to Self-Driving Tech"
+    excerpt: "Nianqiu Liu, Vice President of DeepRoute, talked with Editor Bill Wong about the company’s advanced technology and what’s trending in the autonomous-vehicle industry."
+    publishedDateTime: 2020-08-26T19:58:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21140289/deeproute-dedicated-to-selfdriving-tech"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 24
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/08/Self_drivingCar_promo.5f46b8c1254ed.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-driving shuttles try virus-killing UV rays in U.S."
+    excerpt: "A pair of self-driving car startups are offering a solution to commuters shunning shared transportation in the midst of a pandemic: ultraviolet rays. Voyage and May Mobility, two autonomous-vehicle companies that charge riders to go on simple,"
+    publishedDateTime: 2020-08-27T14:34:00Z
+    webUrl: "https://europe.autonews.com/automakers/self-driving-shuttles-try-virus-killing-uv-rays-us"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 24
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Audi%20China-MAIN.jpg"
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/voyage.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Israel Leads Cybersecurity Response to Autonomous Vehicle Threats"
-    excerpt: "Given that Israel has produced a flurry of self-driving car start-ups, and that Israeli tech firms have teamed up with the world’s biggest car manufacturers to lead the self-driving revolution, the solutions to this threat may be – not wholly unexpectedly – homegrown ones."
-    publishedDateTime: 2020-08-27T17:48:00Z
-    webUrl: "https://blogs.timesofisrael.com/israel-leads-cybersecurity-response-to-autonomous-vehicle-threats/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 24
-    images:
-      - url: "https://static.timesofisrael.com/blogs/uploads/2020/08/AV-Testing.jpg"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "+JXlKcxUYDEdgyCLicXMACgpYZY2PLMKjsLslBLqZZl7eSlbiAiOjM6dckZiDoivZHZMvyDcJBaYLPWqd6Zzi4TzBbRNetRasDoa9IOz4eoT0NXwozi0QXWLSdd+gtNUgcm3CnPCn075w/zGuu9GOIBJbNyCXx88nVlg0SC8txBqOy5wEv9RC/L5Teb3u/j7QLFsVGHVVdjUQ0F2uvRSPhegxw9ex+Zqcw3Ga1bSLtZIRXntI6Y/VjiMBEm1/lmWR1UiDRU+qM8bMtHGspnIkWVnacdYuXKD4SLU3JUNuRG1nWDMIBBkMN5bmQoS2asSINFHMxfTCeh8cvwxQQyyESPwQ7WvNm0bYzOZF/zUCYY=;om7ah2UT0yYpsR11p7tO/g=="

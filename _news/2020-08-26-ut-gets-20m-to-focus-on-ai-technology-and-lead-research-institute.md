@@ -9,7 +9,7 @@ ampWebUrl: "https://www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-
 cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute?template=ampart"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UT Austin selected as home of National AI Institute focused on machine learning"
-    excerpt: "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine Learning, one of five new national AI institutes."
-    publishedDateTime: 2020-08-26T13:28:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 52
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/241249_web.jpg"
-        width: 1440
-        height: 983
-        isCached: true
   - title: "WSU to help lead artificial intelligence research on new national team"
     excerpt: "Wichita State University is part of newly formed national team that will be helping machines learn how to learn, a prospect that has major ramifications for manufacturing, health care and many other industries."
     publishedDateTime: 2020-08-26T20:32:00Z

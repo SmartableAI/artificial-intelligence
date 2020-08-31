@@ -2,9 +2,9 @@
 category: news
 title: "IBM Creates New Fan Experiences using AI and Hybrid Cloud for First-Ever Spectator-less US Open"
 excerpt: "IBM's hybrid cloud architecture with Red Hat OpenShift provided the operational agility and flexibility necessary to quickly develop new experiences powered by IBM Watson's advanced NLP."
-publishedDateTime: 2020-08-28T14:54:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html"
+publishedDateTime: 2020-08-28T15:08:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html"
 type: article
 quality: 27
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 505
         isCached: true
 
-secured: "Jjwo+MSI4Dy/i8GotZHWCZJks943KnvqAyuDaD/i+bjBD/L+8zKGL8IvksGR+nffAPUmsWUUBdv64doGFZ/51WcnQeIp/QSSAntkL8plJ5mFnI//HZtTBfCsbz5nlQWbM2DDQ/9SV5dqM14PUQ/Eejm/8aEWVBTBsFF0EN6G0Qv4T6/2s84/7G/TxHyUYT4eBSAUgfmTqDUoLv/SKH9gb9jYk8PhsnP4vSkBvXUQHbyN46FGTKA2bQjwqnJByUIzYE8UgXFGEJceNc7eVJoU9LYTvRl6MhMfVeyvtGPXsxl1MOqpOs0kRgGlzzd88XGaRO5ql3Qy3vijqIrHx7byGOZ7pjfDmdPYk3Nej7+OXBc=;xS88kKIQlTr4fQCb2L91lA=="
+secured: "yTxpJH6XWMdjpjtSH3Fl1Ecg2DtfmhWpHytvffwOa2fCJvhKGesiYOAzQ/SJ2DolfrSe6zZIB8+uXqX92IZSs3jESYcQ2URVeXERsLFxfyZYX8H7JAd4sM3J0YfUEPZWixTdNefnoook/aHG4J+mU8Vtioy44ekjqiouA0SQtE/NcXCPZ1T+iYuDLo3wWbX05BPR1uar/hzUEPc2cwKIqAz8jG9wNwQhw/ja1dvY7nzk5x0ZVBboKIAhVs1Apr3PZrMCxeR8OfMpHbkyEPXB8LVGFEDuuUvec5j3EI/Na8/6kgROeQsnLf+kFffve20YLOQb18qGhYFSKOVc4vz9WDormkUG1UD4D/sGqtERkLk=;/dy1iUIStQF/cUQ1Z7pHEw=="
 ---
 

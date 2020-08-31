@@ -30,15 +30,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Hefei emerges as testing ground for self-driving fleets"
-    excerpt: "Volkswagen (OTCPK:VWAGY) says it will roll out its first fleet of self-driving test cars in the eastern Chinese city of Hefei.The German automaker plans to set ten Audi e-trons loose in the city that is has 50 miles of intelligent car-friendly infrastructure and is an emerging EV tech hotspot."
-    publishedDateTime: 2020-08-26T13:58:00Z
-    webUrl: "https://seekingalpha.com/news/3608980-hefei-emerges-testing-ground-for-self-driving-fleets"
+  - title: "Self-driving forklift startup raises $9 million in venture funds"
+    excerpt: "The Texas-based, self-driving forklift startup Fox Robotics has raised $9 million in venture capital funding for its vehicles that automatically unload trailers, and will use the backing to ramp up production and meet growing demand,"
+    publishedDateTime: 2020-08-28T18:35:00Z
+    webUrl: "https://www.dcvelocity.com/articles/46985-self-driving-forklift-startup-raises-9-million-in-venture-funds"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 41
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202008/fox-robotics-forklift_with_pickles.jpg?height=635&t=1598639443&width=1200"
+        width: 679
+        height: 635
+        isCached: true
 
 secured: "cS9189aVCfYCwbLUwjC7PkDtu4jXI+Ynr5EZ9hRWwzQW6zxFgtnyJbnEw41XGPRzC9rfnw9/WfWduiEJX9iUEIyFO+UFBY6n8vJA9361cC9r1uDCKeXt1jBXjT1NlYxWthjRf1SgphCBZLoLOCmfUk4+4GdLReWxtCAJBMkUID2JEYIp0KkhMbPR5vvcBCze+7Yy87vkXOzCZYZbNWLVp3BLkCbd2IN0ur11lnZpr4Mt7gNLL42ieMh22Kxg+YrZiFXK9OoZbVLeA3nLKlhsjEpczcYU3FcZr+q/qwsd9eJ/HpWp16CL3vO6mTucbbeyrPRTE6VKPmF5es/Z41OhhpdJBLfbvksVUS2LskdMslC/lEZPn1zXABYOiw636r/lZyL/UG0LNSNXWWZupXTsdnNXoEM+tOwd560xtIhH1aewTNx3bNPAh9An05wcR7yo0HArXzkHqlgM1H31kolbFkqblyY2BGAhmzgp6hxvfjp0FzgNAcKwD+n73At2LgvylqIuXEaHUetJE9//Ae49nGRkW6hbCUD6CNfZW2bZxg4=;N4gm7QCta48zbacVbEEimg=="
 ---

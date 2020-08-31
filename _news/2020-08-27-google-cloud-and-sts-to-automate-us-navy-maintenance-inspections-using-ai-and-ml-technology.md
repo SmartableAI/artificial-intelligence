@@ -52,6 +52,22 @@ related:
         width: 1366
         height: 911
         isCached: true
+  - title: "Google Cloud AutoML, deployed by STS, will remotely inspect Navy assets via drone-captured images"
+    excerpt: "Google Cloud and Simple Technology Solutions (STS)—a Google Cloud partner and small business specializing in multi-cloud solutions for the federal government—today announced they are working with the U."
+    publishedDateTime: 2020-08-31T09:30:00Z
+    webUrl: "https://www.suasnews.com/2020/08/google-cloud-automl-deployed-by-sts-will-remotely-inspect-navy-assets-via-drone-captured-images/"
+    ampWebUrl: "https://www.suasnews.com/2020/08/google-cloud-automl-deployed-by-sts-will-remotely-inspect-navy-assets-via-drone-captured-images/amp/"
+    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2020/08/google-cloud-automl-deployed-by-sts-will-remotely-inspect-navy-assets-via-drone-captured-images/amp/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 46
+    images:
+      - url: "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2020/08/resource-group-ship.jpg?fit=1300%2C1040&ssl=1"
+        width: 1300
+        height: 1040
+        isCached: true
   - title: "STS Partners with Google to Enhance US Navy Modernization; Mike Daniels, Aaron Kilinski Quoted"
     excerpt: "\"The manual inspection of Navy ships and vessels is a time-intensive, costly process that can drive up costs and slow down deployment,\" said Mike Daniels, vice president of Global Public Sector for Google Cloud."
     publishedDateTime: 2020-08-27T20:44:00Z

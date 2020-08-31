@@ -38,20 +38,6 @@ related:
         width: 1440
         height: 1440
         isCached: true
-  - title: "$20 million NSF grant for new artificial intelligence institute for molecule synthesis"
-    excerpt: "A team led by Steven L. Miller Chair professor of chemical and biomolecular engineering at the University of Illinois, Huimin Zhao, was awarded a five-year $20 million grant from the National Science Foundation (NSF) for the NSF Artificial Intelligence (AI) Institute for Molecular Discovery,"
-    publishedDateTime: 2020-08-26T13:17:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/crwi-ng082520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/241155_web.jpg"
-        width: 600
-        height: 430
-        isCached: true
 
 secured: "FuI297RLoiB9gVoTiWC9m61lcg9FKrtrkJsMaREgf9v8Or8GW7kBmGtrtWhxp39D0ekXkfOuZU4qGQGZYWCUSjVmw32ntAGQQ7XkWNTv0h6C5FGKoLdWsmJsN2JIV4Gr+JS2MnfC7rRU0TwUbbRyoLZBsA4g5FrEWrS6RteT8UXjnEb5NhxeKJBR/LI8iXx9OJb5Kq/CCHHJgn7wisEQEfKnuSmmgmXmwiZeb7FSmKinCaFl2RfEBWy/+Bwp74qxuJe28yaG0jBwjI2aLlAp4EAywf/P1peyhguh/ttAJlpOptxJ3VZmyZe8rggGIDNzFjQ0tQ1yhuboWlcCduCwHEap4fvHhsIEYo9V8C09Bg+oj0avNLJjHSKkerp5+YTQTSwFB5sDs+xSb89i79nwvvIcme6NK+xcx+7dmRJjRijhx6oBKWyF3EvY9PLKuX0YE7YL6D3824rRTrZ8cNkggLVPVoadxq3+ZA5NPg8Rw71F6C8KoqrXfNsc6ll6wHgfMgz03b1FPjuBhVeCfBu1Zg==;K+n9W7p3C8oGlPmXl0PSEA=="
 ---

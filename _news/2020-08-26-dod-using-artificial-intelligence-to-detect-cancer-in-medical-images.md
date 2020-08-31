@@ -34,20 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 34
-  - title: "Israeli Startup Viz.ai Uses AI, Deep Learning To Detect Source Of Stroke In Seconds"
-    excerpt: "A stroke detection platform developed by Tel Aviv-based medical imaging startup Viz.ai uses artificial intelligence to identify the source of a stroke in just seconds. This can give a stroke patient the chance to receive treatment sooner and save them from long term brain damage,"
-    publishedDateTime: 2020-08-26T15:56:00Z
-    webUrl: "https://nocamels.com/2020/08/israel-viz-ai-stroke-detection-medical-imaging-ct-scan/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 31
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2019/10/viz.jpg"
-        width: 672
-        height: 503
-        isCached: true
 
 secured: "MWWD+/9OCeliz7qqZbzUzq41zHB8JjNdQxZeglcFTBvNhs1QnRdAvf3L/9nHBkEnSP24Std9pbSkK5vP7mJZekmgyJ8s0fOFIpdAxljbCo1y724nCFYMN/715eXmQzsISY/K5wxjnav/4kKJw+jMDfLtGU/vp4021lUqrBX2Lvx4O5HGlyp1mvG3uhb8rbiFVXsYZG7m+RvcwZLj7HVqdqoseBhIBjbwcpEH0TYZTG/0F/BpsqULwmc0lDvztoPgG6QZ+h6TTdc2ZMaPfni7GdN475UCv58319gSruTfxXXkzm3rE/aWJwGbV0QLkqdjrT3rcEjo0doFc3PS0eW3lBRXq2DFhvFcyBNpDXHRellXCIPN0udnSxHKsbaypNJqFU1W4R19P0TgHZV6SAUBf+cbhOVUgzougbhGy8V6SpDR0mgrbHcuKEzuOwD8ugAOnuMX1UDR+2PzTXQ1LP369j0QG9VTL96Mq5c3kH0BAw6tLkB1oaBElXEW0H+W3OZEFlWJ6GDkwJkxSJElp61n2prKY0EM9XYaDKxItSwCNzY=;0IYSxALe4ycJf1cnqzoS9Q=="
 ---

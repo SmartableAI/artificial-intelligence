@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence: Elon Musk puts computer chips in animal brains"
+    excerpt: "Elon Musk, the founder of the American company Tesla and SpaceX, demonstrated how to connect a computer chip made by his new company ‘Neuralink’ to the animal brain. Elon Musk’s company, Neuralink, has developed a chip in just four years,"
+    publishedDateTime: 2020-08-31T09:35:00Z
+    webUrl: "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/"
+    ampWebUrl: "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/"
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 72
+    images:
+      - url: "https://dailytimes.com.pk/assets/uploads/2020/08/31/SPACEXCAPSULETESTTHNAK.jpg"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Elon Musk's Neuralink startup shows off pig with computer chip in brain"
     excerpt: "Elon Musk's startup wants to one day implant computer chips inside the human brain. In a demo Friday, Musk showed off a pig with one of the prototype implants."
     publishedDateTime: 2020-08-29T06:46:00Z
@@ -43,6 +59,17 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Musk unveils Neuralink brain computer implanted in pigs"
+    excerpt: "Just when you thought the year 2020 couldn’t get much weirder, billionaire Elon Musk has introduced a group of pigs with mind-reading brain implants."
+    publishedDateTime: 2020-08-29T05:08:00Z
+    webUrl: "https://mybroadband.co.za/news/science/365506-musk-unveils-neuralink-brain-computer-implanted-in-pigs.html"
+    ampWebUrl: "https://mybroadband.co.za/news/science/365506-musk-unveils-neuralink-brain-computer-implanted-in-pigs.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/science/365506-musk-unveils-neuralink-brain-computer-implanted-in-pigs.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
   - title: "Elon Musk's Startup Neuralink Demonstrates Computer Implants In A Pig's Brain"
     excerpt: "Elon Musk recently held a video presentation that showed a pig with the Neuralink computer implants. Continue reading to learn details and watch the video."
     publishedDateTime: 2020-08-29T11:50:00Z

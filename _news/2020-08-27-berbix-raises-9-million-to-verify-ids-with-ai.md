@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Synthego raises $100 million for AI-driven gene editing"
-    excerpt: "Synthego, a startup developing a platform for gene editing experiments, has raised $100 million more in venture capital financing."
-    publishedDateTime: 2020-08-26T13:04:00Z
-    webUrl: "https://venturebeat.com/2020/08/26/synthego-raises-100-million-for-ai-driven-gene-editing/"
-    ampWebUrl: "https://venturebeat.com/2020/08/26/synthego-raises-100-million-for-ai-driven-gene-editing/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/synthego-raises-100-million-for-ai-driven-gene-editing/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/0-3-e1598322103316.jpeg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "c8Vmd0b7g+lYD41iQgv+fn/jEUi6m6u05C1z77LED8fvZcBFcEdPMxwS07aNN5F2T5UccHiiOfJXIOD2sZLj/vMUA1/9AOrevH1u03+8Jp5dRu0G7x3Smx1mQX+o3A7j1BPCza0fDzHD0Uw3pZvDjIfLy+eZA4yRA7Ehcx3BXv/vJMzJXglkD7wNciqTcAlWjbUNDSbhcIQlDBFGhRokJb+bO59a3KE7+/0ReitjEfJlH42puxjPl0JBMgRb0Kj8Jqmqi2foeb1jGFh+Osg7I+FEuDltrl6zTN3G1OkjxqlDnxMTJPiomqyAiGUG2T5CPdnh22BGei2cD5kS49UKZDoruOOM6npUaznMF1LMTF2hVO2CA1HROibt/M+KDeHh3WqQ0kMwMVDeTaL5Hzqzp8/FVpzvABHgLXVoqA6AvyHsurflBA/5DVIO6hyDjKJVa1EpE1VpAMnNsC01pciLm1oBIoyXI6c7mMbVm7irZVjYWlNz+9euSmPnzNNOBXm8iTCW0TNKHBCn6SG0WxIghsTdxXwQE2L/ZDNyOJrKzpM=;CKuiPnHGw2LJbMPMkIwXcg=="
 ---

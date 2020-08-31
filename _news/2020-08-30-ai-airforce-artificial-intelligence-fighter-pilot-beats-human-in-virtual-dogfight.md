@@ -9,8 +9,8 @@ ampWebUrl: "https://www.express.co.uk/news/science/1329248/ai-airforce-artificia
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1329248/ai-airforce-artificial-intelligence-fighter-pilot-beats-human-virtual-dogfight-darpa/amp"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Daily Express
@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Former Navy TOPGUN instructor says the AI that defeated a human pilot in a simulated dogfight would have 'crashed and burned' in the real world"
-    excerpt: "He said it would have \"crashed and burned\" in a real fight but added that a dogfighting AI-driven aircraft may be here \"sooner than we ever imagined.\""
-    publishedDateTime: 2020-08-26T17:03:00Z
-    webUrl: "https://www.businessinsider.com/navy-pilot-not-surprised-ai-beat-human-in-simulated-dogfight-2020-8"
-    ampWebUrl: "https://www.businessinsider.com/navy-pilot-not-surprised-ai-beat-human-in-simulated-dogfight-2020-8"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-pilot-not-surprised-ai-beat-human-in-simulated-dogfight-2020-8"
+  - title: "Military AI vanquishes human fighter pilot in F-16 simulation. How scared should we be?"
+    excerpt: "Artificial intelligence can master difficult combat skills at warp speed, but the Pentagon’s futurists must remain mindful of its limitations and risks."
+    publishedDateTime: 2020-08-31T08:32:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/military-ai-vanquishes-human-fighter-pilot-f-16-simulation-how-ncna1238773"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1238773"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1238773"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
+      name: NBC News
+      domain: nbcnews.com
+    quality: 79
     images:
-      - url: "https://i.insider.com/5f4557bf42f43f001ddfeef2?width=1200&format=jpeg"
-        width: 657
-        height: 328
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_35/3408488/200828-loyal-wingman-drone-ac-429p_bbc39303ab1ab71d2c4297a95f68d541.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "cDwkii7aYPLwUEL6ApfwJ7x6Z+1zpISucPfpV0GYRmVCvadyfz93zAgNF3aT5bj/rmWeZht8MXghUmZ8R50E6HHNOtSVPbemOdSkpf33sl08zdFJVPRwF+3lHhsKYzzDktXaRg9MgXprHLdGG+muiItQqOUbjrK9eBUOVqjqea3uu/cgXvvTkr+EW/p6GWoFUGOp1i/oCfWAJpHNhcMjECpcnylL2VjD7/0H876n88pFLtlZlUqDpeuk6IJDkXONmU/lE2Z9eVKco2XLgGt4UkWH46Prn2oLsz1TEC8BpQ5upoJjStHw36RAamHHOJUoaF+VGRToGQZCCzbNPhJSRu2hQEopTebpd31v17ZJ3c8=;govwIgFJ2AwEZtx/DZes+g=="

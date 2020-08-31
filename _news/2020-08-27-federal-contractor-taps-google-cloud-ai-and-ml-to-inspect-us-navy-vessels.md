@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/federal-contractor-taps-goo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://images.axios.com/J-38wxjf7CVuRATxaHf0BYFRijw=/fit-in/1366x1366/2020/08/27/1598535798444.jpg"
         width: 1366
         height: 911
+        isCached: true
+  - title: "Google Cloud AutoML, deployed by STS, will remotely inspect Navy assets via drone-captured images"
+    excerpt: "Google Cloud and Simple Technology Solutions (STS)—a Google Cloud partner and small business specializing in multi-cloud solutions for the federal government—today announced they are working with the U."
+    publishedDateTime: 2020-08-31T09:30:00Z
+    webUrl: "https://www.suasnews.com/2020/08/google-cloud-automl-deployed-by-sts-will-remotely-inspect-navy-assets-via-drone-captured-images/"
+    ampWebUrl: "https://www.suasnews.com/2020/08/google-cloud-automl-deployed-by-sts-will-remotely-inspect-navy-assets-via-drone-captured-images/amp/"
+    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2020/08/google-cloud-automl-deployed-by-sts-will-remotely-inspect-navy-assets-via-drone-captured-images/amp/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 46
+    images:
+      - url: "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2020/08/resource-group-ship.jpg?fit=1300%2C1040&ssl=1"
+        width: 1300
+        height: 1040
         isCached: true
   - title: "Google Cloud and STS to Automate U.S. Navy Maintenance Inspections Using AI and ML Technology"
     excerpt: "How it works: STS will leverage public domain and inspection drone images to build a high-quality AI/ML model using Google Cloud AutoML, a simple, secure, and flexible ML service that allows ..."

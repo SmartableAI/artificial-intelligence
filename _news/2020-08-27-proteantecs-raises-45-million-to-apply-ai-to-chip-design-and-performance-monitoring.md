@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/amp/"
 type: article
 quality: 97
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Synthego raises $100 million for AI-driven gene editing"
-    excerpt: "Synthego, a startup developing a platform for gene editing experiments, has raised $100 million more in venture capital financing."
-    publishedDateTime: 2020-08-26T13:04:00Z
-    webUrl: "https://venturebeat.com/2020/08/26/synthego-raises-100-million-for-ai-driven-gene-editing/"
-    ampWebUrl: "https://venturebeat.com/2020/08/26/synthego-raises-100-million-for-ai-driven-gene-editing/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/synthego-raises-100-million-for-ai-driven-gene-editing/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/0-3-e1598322103316.jpeg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Berbix raises $9 million to verify IDs with AI"
     excerpt: "Identity verification startup Berbix has raised $9 million in a funding round, bringing its total raised to date to over $10 million."
     publishedDateTime: 2020-08-27T14:14:00Z

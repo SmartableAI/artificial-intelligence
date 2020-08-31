@@ -26,6 +26,17 @@ images:
     height: 382
     isCached: true
 
+related:
+  - title: "Engineer Creates ‘A.I. Jesus’ Trained Only on King James Bible"
+    excerpt: "An artificial intelligence engineer has created an intriguing algorithm that learned human language from reading \"the bible and nothing else\" and is now churning out ominous prophecies based on the Holy Book."
+    publishedDateTime: 2020-08-31T07:13:00Z
+    webUrl: "https://www.odditycentral.com/news/engineer-creates-a-i-jesus-trained-only-on-king-james-bible.html"
+    type: article
+    provider:
+      name: Oddity Central
+      domain: odditycentral.com
+    quality: 19
+
 secured: "foWiYK5Bka2Bi1vkHAO9Xva2Hq2wYrE/4GS2e/CZMq18kHNTiWWpQKc+USRP5woOb42+/b3fTe7Lfu3BE0zxj4A3DoTWw2Wq55+NwoYix430LlIFMHSsMipbJASr/eM9eCWP+kl927NiKQQr4wIDHAm7iyrKKNKgvBxcAsXUVYKJb8zNEOxcyCDg7FM6BYZm9OFpPAM6LYSPhY/BHmgiVo/udP0JF+IbheAdA2LhTDo/XAg1RLxMmMAq+y1XF9t4tSeMbEwUxEwx/xmwFSnoosKlfm1S2Lh2y98MSrNISdZA7dPhuEJgQgH1LM3bMw45eAfwXMSSkl2CW5BDIQlsoMIbh2D+kAYf2dCTP86oWnAZror6b/emYBKqRAXfxhAEDIaFmX3HUXJc9JzzXMX5Dmd6XZMrhx07JL1zp56jzlutucQYBojdJe9wA2oIUpFgSkThezHqiWRwQd1l7ksMxoPxW7F2lG+XwYQfi9tmznK69wRoJ4g1gD2lixhaRmrcRnvwHR3WGCMkLV0RGfjUkEH2B6Lt0E/ogFhiD3kVri8=;/j2LgQwhz604oMnPmVX36w=="
 ---
 

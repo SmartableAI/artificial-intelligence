@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/video/50-possible-new-planets-found-using-
 webUrl: "https://www.cbsnews.com/video/50-possible-new-planets-found-using-artificial-intelligence/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence identifies 50 new planets from old NASA data"
-    excerpt: "Researchers have identified 50 new planets using artificial intelligence, marking a technological breakthrough in astronomy."
-    publishedDateTime: 2020-08-26T16:30:00Z
-    webUrl: "https://tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.html"
-    ampWebUrl: "https://tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.amp.html"
-    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/science/artificial-intelligence-identifies-50-new-planets-from-old-nasa-data/article_243e690a-502a-51a0-80b1-39e8655a5e25.amp.html"
+  - title: "Syracuse University Researchers Using Artificial Intelligence to Combat Fake News"
+    excerpt: "It’s the bane of legitimate news reporters and news organizations. It’s also a political rallying cry. And now, two researchers at Syracuse University’s Newhouse School are working to develop tools to find and combat fake news."
+    publishedDateTime: 2020-08-28T10:07:00Z
+    webUrl: "https://apnews.com/a804fb762f95e6735bddbb820242a554"
     type: article
     provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 57
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/6/be/6be681c8-bee8-5015-a98f-c83f3eddf07b/5f330a606ce8b.preview.jpg"
-        width: 757
-        height: 428
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "sJPv76Bs/fODdsspfrWytaGHhGJl++8ZRc/pHROZPDgXU6hcxf9AtGqODB7hrlMClnj7LaqW4xS6CaFg7jpaoZJ6v3L1QSx1DQjfSZnwZTra+Kz1OlvGpixEKeqRkBVeN2SxTHA1HsriWUSHGhVKAq8dwymGNP0bO7BQK/QaJi2P2QLMKqPB2hiXIXIucNAsAyztNdyjI4brYqWqfvUVXJ2lWmuVgtH/JerjsE21aPkaE7d8Kjysr9WlWjfDu9blZIgKAg3swE9xyiF9Gt+oMw2Czt0RSlF2Xj13wIazocj3FSFtfHT+7g6Q39X0uys0i3DvT7rg66N3Z3p9BPwAZq61wQQobdTyGCJNoG3mgHL3dF4mMTNtks6ApfFUCLf0KhUcozrnBtj9XrKESY0PRKvVRYYoxB9MUdbI19W4+lSqKFKdimZ6tLoOzhICzm0UBwkj2KhtwVjBpXk0lFdL9t1m5d/B4PNAPjtl/dwXrOlfzS4+iI7Llou+9z7zipdnuZ86Ti6YxNRg9ZzQF/iU6fReJeQ1uRw0UMRGvmmrpk8=;dMGos3qnTt6Eb0Y73O7mEg=="

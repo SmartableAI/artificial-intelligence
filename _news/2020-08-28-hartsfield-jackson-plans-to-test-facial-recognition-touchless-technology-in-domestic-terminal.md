@@ -87,20 +87,6 @@ related:
         width: 1600
         height: 1094
         isCached: true
-  - title: "Council Introduces Bill To Regulate Facial Recognition Technology Use"
-    excerpt: "As Pittsburgh City Council returned from its August recess on Tuesday, Councilor Corey O’Connor introduced legislation that would regulate the city’s"
-    publishedDateTime: 2020-08-26T13:15:00Z
-    webUrl: "https://www.wesa.fm/post/council-introduces-bill-regulate-facial-recognition-technology-use"
-    type: article
-    provider:
-      name: WESA
-      domain: wesa.fm
-    quality: 39
-    images:
-      - url: "https://www.wesa.fm/sites/wesa/files/styles/medium/public/201804/city_council_building_-_jake_savitz__51_of_52_.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Pittsburgh Councillor Moves to Ban Police Use of Biometric Facial Recognition Tech"
     excerpt: "Pittsburgh city councillor Corey O'Connor has introduced legislation that would ban the city's police from using facial recognition software"
     publishedDateTime: 2020-08-26T22:34:00Z
