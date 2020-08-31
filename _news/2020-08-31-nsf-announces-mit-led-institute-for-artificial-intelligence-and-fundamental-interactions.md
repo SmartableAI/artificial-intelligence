@@ -42,6 +42,20 @@ related:
         width: 4208
         height: 2752
         isCached: true
+  - title: "National Science Foundation announces MIT-led Institute for Artificial Intelligence and Fundamental Interactions"
+    excerpt: "The National Science Foundation's new AI Institute for Artificial Intelligence and Fundamental Interactions will be anchored at MIT, merging research in AI and physics to answer outstanding questions about topics such as dark matter,"
+    publishedDateTime: 2020-08-26T13:15:00Z
+    webUrl: "https://news.mit.edu/2020/nsf-announces-mit-led-institute-artificial-intelligence-fundamental-interactions-0826"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 46
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202008/iaifi-mit-announcement-00.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "United States establishes a dozen AI and quantum information science research centers"
     excerpt: "United States establishes a dozen AI and quantum information sci. By Adrian Cho. The United States aims to invest $765 million over the"
     publishedDateTime: 2020-08-26T21:53:00Z

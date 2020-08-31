@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2122200/healthcare-artificial-intelligenc
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2122200/healthcare-artificial-intelligence-ai-market-worth-51-3"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: openpr.com
@@ -40,20 +40,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Sales Intelligence Market Size Worth $5.03 Billion By 2027 | CAGR: 10.5%: Grand View Research, Inc."
-    excerpt: "The global sales intelligence market size is expected to reach USD 5.03 billion by 2027, according to a new report by Grand View Research,"
-    publishedDateTime: 2020-08-26T09:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sales-intelligence-market-size-worth-5-03-billion-by-2027--cagr-10-5-grand-view-research-inc-301118615.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
-    images:
-      - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
-        width: 1400
-        height: 733
         isCached: true
 
 secured: "DmEkdCNMU8bHKxWwF+kx2mckuArs+aT5gn5ogjacOndBCueAIy7gqmDM0IE9v/bTng/q4vv8t/KCDz2avT9ZgAW4qw2cpRwd3sRe3zu7+iPum1yI9ozQOHc7q8ia4hBQJeWBbtgnQyvEWlOyU5LzTxF/V4nWJ8ipLXNrBzbkoEVyL4Jr5Lw5PXMopGkolj1WcU3HAChM6dJ2Cq4ZMFV913D7/bKxaKxhPc+1d8HUrA0btZhAfpyNoLFedgASR+vjUeKg5VspY+eAgq9WjJy8MW7gNYFAp8IMayM1X0+a4Wh28JGXOJDBHHhaxpQNhBv44hk6FAum3UiScC/LGiYd71DvEqN7j2dL0xnuOMIRus/As6laCh1q5zwhuZYthFuiy/rQM/URzThJIshyE4FWcM/zSovGGDkUzJeKZjJqp0h2z1ssHsOMYVmSOe9Ui3LsGjb10DWjPkA16ocfll1FPx0XBGF2sPCkgY07y7MwIN305qiIt5+GJY830PDWZo7bX3do3VWuWr7BSAN+2PHs0Q==;/lKDzdZOhBwl4FEeaj//6Q=="

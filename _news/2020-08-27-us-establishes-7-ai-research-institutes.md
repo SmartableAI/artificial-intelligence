@@ -24,38 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vector Institute forms team to help commercialize AI research"
-    excerpt: "The Vector Institute announced the creation of a new team dedicated to laying the groundwork for the commercialization of AI research."
-    publishedDateTime: 2020-08-26T10:04:00Z
-    webUrl: "https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/"
-    ampWebUrl: "https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/2242664e-13ed-4b45-8e11-dacae28fc734-e1598412011777.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "White House announces creation of AI and quantum research institutes"
-    excerpt: "The White House announced the creation of AI and quantum research institutes funded by billions in venture and taxpayer dollars."
-    publishedDateTime: 2020-08-26T09:06:00Z
-    webUrl: "https://venturebeat.com/2020/08/26/white-house-announces-creation-of-ai-and-quantum-research-institutes/"
-    ampWebUrl: "https://venturebeat.com/2020/08/26/white-house-announces-creation-of-ai-and-quantum-research-institutes/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/white-house-announces-creation-of-ai-and-quantum-research-institutes/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/01/white-house-north-view.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "UT gets $20M to focus on AI technology and lead research institute"
     excerpt: "The University of Texas at Austin will become a research hub for the next generation of machine learning and artificial intelligence technology, after it"
     publishedDateTime: 2020-08-26T19:57:00Z
@@ -72,19 +40,19 @@ related:
         width: 1627
         height: 1170
         isCached: true
-  - title: "National Science Foundation announces MIT-led Institute for Artificial Intelligence and Fundamental Interactions"
-    excerpt: "The National Science Foundation's new AI Institute for Artificial Intelligence and Fundamental Interactions will be anchored at MIT, merging research in AI and physics to answer outstanding questions about topics such as dark matter,"
-    publishedDateTime: 2020-08-26T13:15:00Z
-    webUrl: "https://news.mit.edu/2020/nsf-announces-mit-led-institute-artificial-intelligence-fundamental-interactions-0826"
+  - title: "UT Austin selected as home of National AI Institute focused on machine learning"
+    excerpt: "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine Learning, one of five new national AI institutes."
+    publishedDateTime: 2020-08-26T13:28:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 46
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 52
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202008/iaifi-mit-announcement-00.jpg"
-        width: 3000
-        height: 2000
+      - url: "https://www.eurekalert.org/multimedia/pub/web/241249_web.jpg"
+        width: 1440
+        height: 983
         isCached: true
   - title: "WSU to help lead artificial intelligence research on new national team"
     excerpt: "Wichita State University is part of newly formed national team that will be helping machines learn how to learn, a prospect that has major ramifications for manufacturing, health care and many other industries."
@@ -97,6 +65,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "UC Davis to Lead New Artificial Intelligence Institute for Next-Generation Food Systems"
+    excerpt: "The University of California, Davis, has been awarded $20 million as part of a multi-institutional collaboration to establish an institute focused on enabling the next-generation food system through the integration of artificial intelligence,"
+    publishedDateTime: 2020-08-26T17:04:00Z
+    webUrl: "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems"
+    type: article
+    provider:
+      name: University of California, Davis
+      domain: ucdavis.edu
+    quality: 31
+    images:
+      - url: "https://www.ucdavis.edu/sites/default/files/images/article/30779898645_4fbbf266a5_k.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
 
 secured: "vV/Rtc0F8y1RzvVMzZdxi9fXMwGlKegpvF8/lojIdb7BqcsIAQBIeh2yDKTtwptlrnK5kKvZiKL3dL5nAzK6aZDLrCJ8hKH1bPQuC4Vhz0fAO6Ch3W8YLHz/mMt3TizM+dWJJ/Lh6IBRKZpdJwee59NMaTpmK2huju81hud2buhZEt3FwrVjM6fn3ZNKIJdVvXBnLaoPQ923LTJoiiZ/Eq0aZ2k7N81wFvY+7H+yn+VH3Av0xsPap5vXGl7F5gyJ8OaRVB6CecSbEBecikOFcSgQ/4uhtn6CH7DvUr6U1rtyL0VveR+FiyY/G9LrwehtoiNsaJ/pWvcqzHkdpEXthRlGzATuEELnGiemEd8bqYcWAYcE2W4WkKUWPoAyBR8NNlCCLXWKFv8i6eygEG1i9FcMH2Rjr27SkfZjvVKnNZ1a7rXmvr6ijmaHNnENgOtFyCX6o3KSi3d3kBM9v9WvDWmC61Riqy9WriifOJZZIgtnrz1YwLWK94NgHbFd9/YZvcqP89jn0dweSKBsaSHK0WknRX21tBVSCdY9NKjn2AE=;5TK8Y4Xv6OP0tUhjQjzmnQ=="
 ---

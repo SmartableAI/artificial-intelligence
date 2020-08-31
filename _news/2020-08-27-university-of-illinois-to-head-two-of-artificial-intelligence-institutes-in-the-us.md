@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200827/University-of-Illinoi
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200827/University-of-Illinois-to-head-two-of-artificial-intelligence-institutes-in-the-US.aspx"
 type: article
 quality: 53
-heat: 83
-published: true
+heat: 63
+published: false
 
 provider:
   name: News Medical
@@ -27,34 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UT Austin selected as home of National AI Institute focused on machine learning"
-    excerpt: "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine Learning, one of five new national AI institutes."
-    publishedDateTime: 2020-08-26T13:28:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 52
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/241249_web.jpg"
-        width: 1440
-        height: 983
-        isCached: true
-  - title: "UC Davis to Lead New Artificial Intelligence Institute for Next-Generation Food Systems"
-    excerpt: "The University of California, Davis, has been awarded $20 million as part of a multi-institutional collaboration to establish an institute focused on enabling the next-generation food system through the integration of artificial intelligence,"
-    publishedDateTime: 2020-08-26T17:04:00Z
-    webUrl: "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems"
-    type: article
-    provider:
-      name: University of California, Davis
-      domain: ucdavis.edu
-    quality: 31
-    images:
-      - url: "https://www.ucdavis.edu/sites/default/files/images/article/30779898645_4fbbf266a5_k.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
   - title: "University of Illinois to lead two of seven new national artificial intelligence institutes"
     excerpt: "The National Science Foundation and the U.S. Department of Agriculture's National Institute of Food and Agriculture are announcing an investment of more than $140 million to establish seven artificial intelligence institutes in the U."
     publishedDateTime: 2020-08-26T15:45:00Z

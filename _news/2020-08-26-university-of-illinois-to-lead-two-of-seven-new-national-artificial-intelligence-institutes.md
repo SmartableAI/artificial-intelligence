@@ -41,34 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "UT Austin selected as home of National AI Institute focused on machine learning"
-    excerpt: "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine Learning, one of five new national AI institutes."
-    publishedDateTime: 2020-08-26T13:28:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 52
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/241249_web.jpg"
-        width: 1440
-        height: 983
-        isCached: true
-  - title: "UC Davis to Lead New Artificial Intelligence Institute for Next-Generation Food Systems"
-    excerpt: "The University of California, Davis, has been awarded $20 million as part of a multi-institutional collaboration to establish an institute focused on enabling the next-generation food system through the integration of artificial intelligence,"
-    publishedDateTime: 2020-08-26T17:04:00Z
-    webUrl: "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems"
-    type: article
-    provider:
-      name: University of California, Davis
-      domain: ucdavis.edu
-    quality: 31
-    images:
-      - url: "https://www.ucdavis.edu/sites/default/files/images/article/30779898645_4fbbf266a5_k.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
 
 secured: "wJCwOfhmXqdDLjuxJ+kwe9yZWGh4RzJJN/TLYgRh9GtOg3NbE/PQC/i4xAWZp0d1tA9clX9jlO9RIpSnNQI3FsibyAM2XtdZRnh+w4dgVu0k6xq6PdkeIsUvvD+CPogt2syk5ZvShnAuB8H4M1k6FA0GtojTcnt06ada17CSeLc6IJ15nG1R9lFdWLYCSIYqFKzzvZjv/Xf1H4RvbbpcdTPoVHGC4/d5eX5gXWXTK1G4yC9l550IUroYzG80sdddSJH4byoDIJq4yrE+rif+9kIQEtPbOpQLUVPWEWR6BRIB7Bs7Um5GFkDjNSQatfcpugem/JEXroKwIXtwMeXSd5PnJmTGEzi8C0bpoxE1W3MYBlErHMVQiGlserytF1sO6KGy7wwfmghJezZOeInefK26g6+57cmo9244riCKxfr0SouoCxzInKIDSK2qC2dW2klwePXgwDCZL60ztWpxez02W6yyC9G+N8YlhrfVh1oyRG8QDywFAwFm5m3GwJsmMGkKMn/xuCA7En+xpTc3xE9e4RnhGCkz1DLEr6IrXKI=;OOe8mXfD1ruFKSNJXWbG2g=="
 ---

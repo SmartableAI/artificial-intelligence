@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft announces two new innovative features for Microsoft Word"
-    excerpt: "Microsoft announces two new features for Microsoft 365 subscribers, that will allow users to use Microsoft Word in an innovative way."
-    publishedDateTime: 2020-08-26T09:27:00Z
-    webUrl: "https://www.kunal-chowdhury.com/2020/08/microsoft-word-transcription-and-dictation.html"
-    type: article
-    provider:
-      name: kunal-chowdhury.com
-      domain: kunal-chowdhury.com
-    quality: 39
-    images:
-      - url: "https://3.bp.blogspot.com/-OSuPlpB8TFQ/X0Yp8GAnfsI/AAAAAAAAbNo/DNpIi3uQlsAEAJDxVfNLAgggzY3zkJ1FACLcBGAsYHQ/s0/word-transcribe-and-dictation-features-min.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Microsoft Adds Voice Features To Office 365"
     excerpt: "Microsoft is adding transcription and dictation coice-command functionality to Office 365 for web, which it says will allow users to spend less time and energy on time-consuming work. Using the Azure Cognitive Services AI platform,"
     publishedDateTime: 2020-08-27T04:42:00Z

@@ -59,20 +59,6 @@ related:
         width: 1024
         height: 476
         isCached: true
-  - title: "Neuralink: Elon Musk promises to show a working brain-computer chip for 'human-AI symbiosis'"
-    excerpt: "Elon Musk has said he will demonstrate a functional brain-computer interface this week during a live presentation from his mysterious Neuralink startup. The billionaire entrepreneur, who also heads SpaceX and Tesla,"
-    publishedDateTime: 2020-08-26T10:05:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-neuralink-brain-computer-chip-ai-event-when-a9688966.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 45
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/04/22/11/elon-musk-neuralink-brain-machine.jpg"
-        width: 1113
-        height: 834
-        isCached: true
   - title: "Elon Musk's Startup Neuralink Demonstrates Computer Implants In A Pig's Brain"
     excerpt: "Elon Musk recently held a video presentation that showed a pig with the Neuralink computer implants. Continue reading to learn details and watch the video."
     publishedDateTime: 2020-08-29T11:50:00Z

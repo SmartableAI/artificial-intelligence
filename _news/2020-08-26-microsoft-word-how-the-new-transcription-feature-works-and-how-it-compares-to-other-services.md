@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-word-how-t
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/"
 type: article
 quality: 78
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://www.komando.com/wp-content/uploads/2020/08/Microsoft-Word-on-smartphone.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft announces two new innovative features for Microsoft Word"
-    excerpt: "Microsoft announces two new features for Microsoft 365 subscribers, that will allow users to use Microsoft Word in an innovative way."
-    publishedDateTime: 2020-08-26T09:27:00Z
-    webUrl: "https://www.kunal-chowdhury.com/2020/08/microsoft-word-transcription-and-dictation.html"
-    type: article
-    provider:
-      name: kunal-chowdhury.com
-      domain: kunal-chowdhury.com
-    quality: 39
-    images:
-      - url: "https://3.bp.blogspot.com/-OSuPlpB8TFQ/X0Yp8GAnfsI/AAAAAAAAbNo/DNpIi3uQlsAEAJDxVfNLAgggzY3zkJ1FACLcBGAsYHQ/s0/word-transcribe-and-dictation-features-min.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Microsoft launches a new transcription feature for Word"
     excerpt: "Microsoft has launched a new transcription tool for the online version of Word, which enables users to transcribe both live and pre-recorded audio."
