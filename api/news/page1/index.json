@@ -2,6 +2,155 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-01-a-big-step-for-flood-forecasts-in-india-and-bangladesh.md",
+      "title": "A big step for flood forecasts in India and Bangladesh",
+      "excerpt": "For several years, the Google Flood Forecasting Initiative has been working with governments to develop systems that predict when and where flooding will occur—and keep people safe and informed. Much of this work is centered on India, where floods are a serious risk for hundreds of millions of people.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/",
+      "originalUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/",
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screen_Shot_2020-08-31_at_6.57.16_PM.max-1300x1300.png",
+          "width": 1300,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/flood-forecasts-india-bangladesh/amp/",
+      "publishedDateTime": "2020-09-01T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars.md",
+      "title": "Elon Musk’s Neuralink Showcase Spurs Mind-Copying Discussion About AI And Self-Driving Cars",
+      "excerpt": "Let’s use that as a means to consider how copying the human mind can be related to AI, along with then using AI-based true self-driving cars as an example for exploring the mind-copying aspects. First of all,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed019bfa705cb0006454d1d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4592%26cropY1%3D188%26cropY2%3D3249",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/amp/",
+      "publishedDateTime": "2020-09-01T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-these-anti-procrastination-smart-glasses-use-ai-to-monitor-what-you-look-at-all-day.md",
+      "title": "These ‘anti-procrastination’ smart glasses use AI to monitor what you look at all day",
+      "excerpt": "The glasses are called Specs, and they launch today on Indiegogo. The premise is simple: a camera built into the frame of Specs uses machine learning to identify what you’re looking at, whether that’s a laptop,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/9/1/21404004/anti-procrastination-smart-glasses-productivity-boosting-auctify-specs-indiegogo",
+      "originalUrl": "https://www.theverge.com/2020/9/1/21404004/anti-procrastination-smart-glasses-productivity-boosting-auctify-specs-indiegogo",
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/xnJAPietmZz8u6wN3lcQBJrgB0s=/0x0:1520x855/1400x933/filters:focal(639x307:881x549):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67325939/5e60a2bab4f1c90022ef45cf_optimized_1520.0.jpeg",
+          "width": 1400,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/9/1/21404004/anti-procrastination-smart-glasses-productivity-boosting-auctify-specs-indiegogo",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/1/21404004/anti-procrastination-smart-glasses-productivity-boosting-auctify-specs-indiegogo",
+      "publishedDateTime": "2020-09-01T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-arize-ai-helps-us-understand-how-ai-works.md",
       "title": "Arize AI Helps Us Understand How AI Works",
       "excerpt": "The lack of explainability and observability prevents AI and ML from being trusted tools in critical areas of human activity. Fortunately, Jason Lopatecki and Aparna Dhinakaran created Arize AI to helps us understand how and why AIs think.",
@@ -912,7 +1061,7 @@
       "webUrl": "https://mobile.twitter.com/bradporter_?lang=en",
       "originalUrl": "https://www.geekwire.com/2020/tech-moves-former-amazon-vp-brad-porter-joins-scale-ai-cto-uw-names-new-communication-leadership-director/",
       "featuredContent": null,
-      "heat": 122,
+      "heat": 124,
       "tags": null,
       "images": null,
       "type": "article",
@@ -925,7 +1074,7 @@
         "domain": "geekwire.com",
         "images": [
           {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -941,7 +1090,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1042,157 +1192,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-artificial-intelligence-chip-market-trends-opportunities-revenue-share-analyzed-during-2019-2025.md",
-      "title": "Artificial Intelligence Chip Market Trends, Opportunities & Revenue Share Analyzed during 2019-2025",
-      "excerpt": "Facto Market Insights has skillfully compiled this latest research report titled Artificial Intelligence Chip Market, to its wide online repository. This assessment focusing on the artificial intelligence (AI) chips market would deliver precise insight about different market factors such market size,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-trends-opportunities-revenue-share-analyzed-during-2019-2025-2020-08-31",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-trends-opportunities-revenue-share-analyzed-during-2019-2025-2020-08-31",
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-31T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research.md",
-      "title": "IBM RXN: AI combined with robotics to speed molecular studies and chemical research",
-      "excerpt": "AI and robotics are working together to find cures for diseases more quickly. Even if you're not in science, you can learn from this project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
-      "originalUrl": "https://www.techrepublic.com/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
-      "featuredContent": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
-      "publishedDateTime": "2020-08-31T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-japanese-companies-guiding-robots-into-the-future.md",
-      "title": "Japanese Companies Guiding Robots Into The Future",
-      "excerpt": "In science-fiction movies set in the future, robots are ubiquitous and part of everyday life. But are robots integrating themselves into our lives today?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/japan/2020/08/31/japanese-companies-guiding-robots-into-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/japan/2020/08/31/japanese-companies-guiding-robots-into-the-future/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4d2fc3645f22ffbcbee48c%2F0x0.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/japan/2020/08/31/japanese-companies-guiding-robots-into-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/japan/2020/08/31/japanese-companies-guiding-robots-into-the-future/amp/",
-      "publishedDateTime": "2020-08-31T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

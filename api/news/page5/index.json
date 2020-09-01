@@ -2,6 +2,148 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-27-speech-recognition-gets-an-automl-training-tool.md",
+      "title": "Speech Recognition Gets an AutoML Training Tool",
+      "excerpt": "AutoML, the application of machine learning to create new automation tools, is branching out to new use cases, making itself useful for particularly tedious data science tasks when training speech recognition models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2020/08/27/speech-recognition-gets-an-automl-training-tool/",
+      "originalUrl": "https://www.datanami.com/2020/08/27/speech-recognition-gets-an-automl-training-tool/",
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2014/09/speech_recognition_1.png",
+          "width": 492,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-algorithmia-unveils-mlops-for-teams.md",
+      "title": "Algorithmia unveils MLops for teams",
+      "excerpt": "Algorithmia Teams delivers machine learning operations and management for small groups as a pay-as-you-go cloud service",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3572325/algorithmia-unveils-mlops-for-teams.html",
+      "originalUrl": "https://www.infoworld.com/article/3572325/algorithmia-unveils-mlops-for-teams.html",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3572325/algorithmia-unveils-mlops-for-teams.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3572325/algorithmia-unveils-mlops-for-teams.amp.html",
+      "publishedDateTime": "2020-08-27T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19.md",
+      "title": "How machine learning is identifying and tracking pandemics like COVID-19",
+      "excerpt": "BlueDot's machine learning platform anticipates the spread and impact of over 150 different pathogens, toxins, and syndromes in near-real time.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/",
+      "originalUrl": "https://venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/",
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1180187740.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/amp/",
+      "publishedDateTime": "2020-08-27T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up.md",
       "title": "Qualcomm-backed firm releases processor as AI chip race heats up",
       "excerpt": "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc and Alibaba Group Holding Ltd, on Thursday announced a new chip aimed at handling artificial intelligence functions on battery-powered devices.",
@@ -1012,146 +1154,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-this-self-driving-golf-ball-will-make-you-want-to-enter-the-masters.md",
-      "title": "This ‘self-driving’ golf ball will make you want to enter the Masters",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/self-driving-golf-ball/",
-      "originalUrl": "https://mashable.com/video/self-driving-golf-ball/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F09%252F04%252F38%252Ffed6caf40a424550a3331ba510ae14a9.94e59.png%252F1200x630.png?signature=9D2EyK8rc8mZs26bzWZIFwWP6oI=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/self-driving-golf-ball.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/self-driving-golf-ball.amp",
-      "publishedDateTime": "2020-08-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-clearview-ai-ceo-says-over-2400-police-agencies-are-using-its-facial-recognition-software.md",
-      "title": "Clearview AI CEO says ‘over 2,400 police agencies’ are using its facial recognition software",
-      "excerpt": "More than 2,400 police agencies have entered contracts with Clearview AI, a controversial facial recognition firm, according to comments made by Clearview AI CEO Hoan Ton-That in an interview with Jason Calacanis on YouTube.",
-      "sourceUrl": null,
-      "webUrl": "https://hoantonthat.com/",
-      "originalUrl": "https://www.theverge.com/2020/8/26/21402978/clearview-ai-ceo-interview-2400-police-agencies-facial-recognition",
-      "featuredContent": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hoantonthat.com/assets/images/card.jpg?v13505373516951",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-why-board-directors-and-ceos-need-to-mitigate-ai-bias-risk.md",
-      "title": "Why Board Directors And CEOs Need To Mitigate AI Bias Risk",
-      "excerpt": "This blog discusses the acceleration of data bias in AI models, introduces five types of AI bias, and identifies key governance questions for board directors and CEO’s to ask their organizations in order to mitigate data bias risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2020/08/24/why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2020/08/24/why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night/",
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f42e153f432c840c716d0af%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

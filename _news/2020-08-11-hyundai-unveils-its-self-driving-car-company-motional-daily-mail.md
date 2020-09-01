@@ -3,6 +3,7 @@ category: news
 title: "Hyundai unveils its self-driving car company, Motional - Daily Mail"
 excerpt: "Hyundai's autonomous vehicle company, Motional, represents a $4 billion deal with self-driving tech company Aptiv. Its goal is to make driverless cars available to the general public by 2027."
 publishedDateTime: 2020-08-11T21:55:00Z
+originalUrl: "https://www.dailymail.co.uk/sciencetech/article-8616221/Hyundai-unveils-self-driving-car-company-Motional-announces-plans-robotaxi-fleet-2022.html"
 webUrl: "https://www.dailymail.co.uk/sciencetech/article-8616221/Hyundai-unveils-self-driving-car-company-Motional-announces-plans-robotaxi-fleet-2022.html"
 ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8616221/amp/Hyundai-unveils-self-driving-car-company-Motional-announces-plans-robotaxi-fleet-2022.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8616221/amp/Hyundai-unveils-self-driving-car-company-Motional-announces-plans-robotaxi-fleet-2022.html"

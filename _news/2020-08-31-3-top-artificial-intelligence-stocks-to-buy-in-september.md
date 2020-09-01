@@ -1,15 +1,15 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy in September"
-excerpt: "These three stocks are all using artificial intelligence to get a leg up on competitors and win over customers."
-publishedDateTime: 2020-08-31T15:12:00Z
-originalUrl: "https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/"
-webUrl: "https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/"
+excerpt: "Artificial intelligence (AI) has the potential to influence almost every industry, and the overall economic impact of the tech will exceed what's spent on hardware, software, and services many times over."
+publishedDateTime: 2020-08-31T11:14:00Z
+originalUrl: "https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/"
+webUrl: "https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,14 +21,15 @@ provider:
       height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://media.ycharts.com/charts/3377434643bd31fc8332c880784b1b2b.png"
-    width: 720
-    height: 503
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F589831%2Fgettyimages-896358708.jpg&w=1200&op=resize"
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "Rl51eCq3Cb8U7s+z/TOLhnPEE5COZiL3e51RUdp5dyzrxfzuOZRxx6dkvP/HuJ9HaYBKRWr/+odayoThMf8LgiJf0zQU3AZaBqqsxHIaN/kruF5z4O35Fc5saetFDPARoMs93Ycy7KPElRkNYU9RQMpuXcc0Jt19rdC6CpBFMVseQwYigZcCn1iURHR+Sb+Ohbi9RiNiOasoqqdVEO8jG9A0DIbi1YZITL1zx6YMzl4yxddgk9zgFioV1U7BhEC7GqlYPzFEyvn+wIUw75qLY44ymHoczV2g3s0r7sr5ns2nW4HZC26NNQVcIRUNbZiw1iyBSZXM0UA+/6W60Rac5ru07vBcAG2+tlRWGGlmjWM=;KBwlJgTE1CfKYneDtwCVFg=="
+secured: "GijgolDbiXiWKizFfrcQtr5mhEqjkh260PKe8kAXaiChoeMmnVqG5MXeCSEpm4FmTXlJEwQyObO76eZpiH55RjeCxaA8joPqsUj9wDM8IWT4IuWZkUpiSm8uAySl7ReBPGz5ql48LaKoWqMBgbFqhdRfW+I8r0nbO8UpXHhjIYK7p38wU/7P7VmV6TSHd9/NvmPS6IwK2pL8dRX4aXrJctfF8xK1PkwmXPHVatqaxrsR9HhnNNTfZcM5HA66fsLWBJLVuTOop8QL67Al6Qeu2INysE1+DOKqWMLSwDIR7TsLvh5sMloCV2W88UaJ5vAudYnnc9i4NEnqzxOoyLwNbFsVpr2cktEOkiJskJpb0mE=;Zmd4NiXIx5+2P+Ln3jxt+Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/31/allen-institute-open-sources-alle
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "US Establishes 7 AI Research Institutes"
-    excerpt: "The White House this week announced the formation of seven new AI centers aimed at advancing technological innovation and bolstering the economy. AI"
-    publishedDateTime: 2020-08-27T21:05:00Z
-    webUrl: "https://www.hpcwire.com/2020/08/27/us-announces-formation-7-ai-institutes/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 37
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/inspur_ai.png"
-        width: 701
-        height: 388
-        isCached: true
 
 secured: "ApbRro4b6lWfJeGRaXXdXncFdBs3oisvnbxVz2IcSev3BzRAn/Cv+7j+9sRA66qcXHh1xClWO/1Kh61HUz5+ATGX6geOBiE9Z+jh4vRMpGxfFXIgMOj86CCrmMfmcGTb16YvkkN1mQ1wzO2uBArWPUdt1/Zm27XGvG61l85E5mb/nmscfoaIrCb7w5Ji7NdDYzjqXdAKsNnmGYXQdCBpYJy4GkAxgF5LT2qWxVliFcot+Zep6jnhGgk9j0hGK9oZMeqjhJPpdzn4EyDQAhChjh4AYed+9ISCAUDtet4oDuXgMIWLRO8747UGhBhnuQJXovNKjE0V2C95Cch/ZLbBt8XDRSxGrhRMhA7fb8VeS9BcilHe+7Qvr++99xdrnKJjNQD9FCFyUoP4og2wvXxre208FB1E0UFmWOgNs/aM67tj2kgZXwcIA2zkrXn71KevInv9IklvXoGuIduc1N/76vXV9a122ODMZzm4woy4TWGH2V1YP7Nx7f40maT8iqz0bxX9GzzvxYfrhXyW48kcag==;SMfZfMqIUQMb2d3lOfJrLA=="
 ---

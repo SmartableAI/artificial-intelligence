@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN25R0UW"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0UW"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition for cows"
+    excerpt: "Cows in some districts of Punjab are currently part of an intriguing project that involves machine learning telling one cow apart from the other. Every cow and buffalo are distinguishable as"
+    publishedDateTime: 2020-09-01T14:58:00Z
+    webUrl: "https://www.thesudburystar.com/news/farm-news/facial-recognition-for-cows/wcm/a76b9203-345a-4289-af14-f840d7df0c7c"
+    ampWebUrl: "https://www.thesudburystar.com/news/farm-news/facial-recognition-for-cows/wcm/a76b9203-345a-4289-af14-f840d7df0c7c/amp"
+    cdnAmpWebUrl: "https://www-thesudburystar-com.cdn.ampproject.org/c/s/www.thesudburystar.com/news/farm-news/facial-recognition-for-cows/wcm/a76b9203-345a-4289-af14-f840d7df0c7c/amp"
+    type: article
+    provider:
+      name: Sudbury Star
+      domain: thesudburystar.com
+    quality: 59
+    images:
+      - url: "https://smartcdn.prod.postmedia.digital/nexus/wp-content/uploads/2020/08/co.0811-co-farmgate.jpg"
+        width: 980
+        height: 735
+        isCached: true
   - title: "China’s universities are reopening with facial recognition, shower bookings"
     excerpt: "BEIJING – As COVID-19 cases in China sink to new lows, the world’s largest population of university students is heading back to campus in a migration defined by lockdowns, patriotic"
     publishedDateTime: 2020-08-31T07:31:00Z

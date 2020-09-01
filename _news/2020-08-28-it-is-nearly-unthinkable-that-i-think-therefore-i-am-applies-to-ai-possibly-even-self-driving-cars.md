@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unth
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "There’s No Such Thing as Self-Driving Cars, Not Yet Anyway"
-    excerpt: "As clickbait-y as that headline reads and sounds, it’s true. According to Silicon Valley’s claims in 2015 we should have been in cars bereft of drivers by now. We were promised an influx of fully autonomous cars by the year 2020."
-    publishedDateTime: 2020-08-27T21:21:00Z
-    webUrl: "https://www.autoguide.com/auto-news/2020/08/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.html"
-    ampWebUrl: "https://www.autoguide.com/auto-news/2020/08/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.html/?amp"
-    cdnAmpWebUrl: "https://www-autoguide-com.cdn.ampproject.org/c/s/www.autoguide.com/auto-news/2020/08/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.html/?amp"
-    type: article
-    provider:
-      name: AutoGuide
-      domain: autoguide.com
-    quality: 44
-    images:
-      - url: "https://www.autoguide.com/blog/wp-content/uploads//2020/08/Self-driving-cars-main-image-.jpg"
-        width: 671
-        height: 411
-        isCached: true
 
 secured: "X5hc3iNkpOvn0J4FPTlUOFS+XyFstfMGJ4XoH2a4KMUaDWC9wVFlE3Qeb3EOMb+VzTVDe1d4Nlm4+soagCmdOOfDOMe1a4jSx5S1EB1FLg9OuJkzlR00haHFxWy3iEwlolTj7qg9k/Oe8bnqvRY+l9GogyjO13FtvIpd7LXgbU6aCfZwnER64QULs447DljUbrubiAmeAnCMSjufu90XNabNhVrzk+xtrZfllIcC5b9Al2yNRdFZABMytMIfD6Mu48WpsJA/pJdddzfqye7TM3CAAGNq0GZeIIJsseZxtFvJvG2ZcJjZRPZVvR3t1Ed6q1Y86unPhx3K257FcB2nJD9kcRl+5hIg9d087Ju3fBEq4+i1QS+nkPBDBc1yAtAeukyFEsuLrkKYaJ9qBkhfzAD8EOqpjszrQn//iyRRbvI5aJ0wr6JwklNdqIzb7mGK3bKYxyPuD4D60tOHLn7X/Wu7WHDmZGsMnC7uucnHr+yBYvt32CR6NPKJS/2kTVkz7h7zWtdokb73uhL2YQ/SLqRqe0Tu7Wng+I0YI5D91OY=;2rcNrx1bgOO2ccyngPio9Q=="
 ---

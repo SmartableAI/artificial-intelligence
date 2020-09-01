@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-31T22:05:00Z
 originalUrl: "https://gadget.co.za/new-tool-can-make-artificial-intelligence-more-trusted/"
 webUrl: "https://gadget.co.za/new-tool-can-make-artificial-intelligence-more-trusted/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://gadget.co.za/wp-content/uploads/2019/06/artificial-intelligence-computer-science-electrical-engineering-science-technology-53cda3-1024-1000x600.jpg"
@@ -24,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "FtK2fSnt9pMhgKeLbJxnYxMmwH2rOXzAQtv4R8mrpElEqyl+oayhb+J5euWqtH1npsAEa0LP87V3MG+hZ9uba6FSbg2wwZwa5n44iYh/zLQpYvF8nB9XDVlQ5Fe9BujsPlu02z/aR2W0i5bksrAlpHX+z4+trsoGlUAwJor9i9Upgny6r3BMY3u2FuwY2a/rJw/cxv3gGDmk1NiuRKFsU101pKqVmYjhcm0ujYXeDT/oi1AmMTPLIPf+rUd0GoAbsH/Zxd+hKn6qE3aPiuGa3w0eBlPyEWig7TGhvJoMXGwyjH4BGJoFPF6ymtVABuHLqIY8t2ISNYY+MtnMbIn7p/89D8CbB0ZoIeKHBksjbIo=;UoRugfsuBzjDqKgZqCUVMA=="
+secured: "0DoeoM5+UxwAvIbLlq8jr48IuKqxiv0WW7eLOp4ELAL95oB6nUXx0d5WXmPGtSDMzRzO4+LGu6lHNpr93K+RBQK5Fr9Q0I+rRDqVocYowS7rcIf4kwQMz/Dr0M+zLqDSKUfgW8PyXwjmtVTWUWlF3gCl6AQFf/4XQO6U9gXiC+xdTIcI+LtBBSFQ/AzQnN5JYTuCHUElPG9H56CMUTK+QnAHOQNePfL1br9euGhTC2dUEMKjYLL3fMlarGtmu1TKBWSw91pdE3biQvs9V52cLPll9luZQT07urFzTFwGJ18mGAbTwflf3AlHu2C9sgLV+3vPHQWRM9iFlHDdSY4QGXX72rF3Xdaqlrv1I7X9+KqkErJFLw5DqzZyb3fBiJtjAi9Un9z2AAqlHWGIQY8+W0i638AUyYDALafmw2oaY0l1tWB68H0W5LLqjUSKQMRUBQOmx3k2ozP1SQUp7T5XVW/CLlryvOpcuZg/ylo8d6yZTFPZY69Zfoja5rqccw29MXORU9fRLJMELMgpJ/PYVYJy3bLgEvgo1B1TQzMz1ow=;mNKJhfluJ/uBj/jmCsNiYw=="
 ---
 

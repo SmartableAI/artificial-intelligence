@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.google/technology/ai/flood-forecasts-india-bangladesh/</loc>
+    <lastmod>2020-09-01T09:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/</loc>
+    <lastmod>2020-09-01T08:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.theverge.com/2020/9/1/21404004/anti-procrastination-smart-glasses-productivity-boosting-auctify-specs-indiegogo</loc>
+    <lastmod>2020-09-01T08:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/frederickdaso/2020/09/01/arize-ai-helps-us-understand-how-ai-works/</loc>
     <lastmod>2020-09-01T06:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -187,12 +205,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/</loc>
-    <lastmod>2020-08-31T08:12:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/</loc>
     <lastmod>2020-08-31T08:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -273,6 +285,12 @@
   <url>
     <loc>https://www.forbes.com/sites/anthonytrippe/2020/08/31/china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports/</loc>
     <lastmod>2020-08-31T04:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/</loc>
+    <lastmod>2020-08-31T04:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1885,6 +1903,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-2020-08-20</loc>
+    <lastmod>2020-08-20T06:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/</loc>
     <lastmod>2020-08-20T06:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1893,12 +1917,6 @@
   <url>
     <loc>https://www.forbes.com/sites/forbesmarketplace/2020/08/20/this-cto-says-ai-technology-will-accelerate-sustainable-investing-and-create-a-more-equitable-society/</loc>
     <lastmod>2020-08-20T06:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-2020-08-20?tesla=y</loc>
-    <lastmod>2020-08-20T06:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

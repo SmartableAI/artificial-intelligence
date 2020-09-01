@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-20-ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones.md",
+      "title": "iFarm Raises $4 million to automate urban farming with AI and drones",
+      "excerpt": "Farm has raised $4 million to expand its automated system that uses AI and drones to help farmers grow fruits and vegetables in enclosed spaces.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/iFarm_1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones/amp/",
+      "publishedDateTime": "2020-08-20T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-how-industrial-robotics-market-will-grow-in-coming-future-despite-covid-19-chaos.md",
       "title": "How Industrial Robotics Market Will Grow In Coming Future Despite COVID-19 Chaos?",
       "excerpt": "The industrial robotics market is going to experience a negative impact in 2020. High investment cost is required",
@@ -1291,47 +1341,6 @@
       "provider": {
         "name": "Your Story",
         "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-column-the-reason-were-afraid-of-robots.md",
-      "title": "Column: The reason we're afraid of robots",
-      "excerpt": "When we focus so much of our attention on improbable scenarios, we run the risk of ignoring other problems posed by AI that are pressing and preventable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.milforddailynews.com/news/20200808/column-reason-were-afraid-of-robots",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.milforddailynews.com/apps/pbcsi.dll/bilde?Site=WL&Date=20200808&Category=NEWS&ArtNo=200808218&Ref=AR",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.milforddailynews.com/news/20200808/column-reason-were-afraid-of-robots?template=ampart",
-      "cdnAmpWebUrl": "https://www-milforddailynews-com.cdn.ampproject.org/c/s/www.milforddailynews.com/news/20200808/column-reason-were-afraid-of-robots?template=ampart",
-      "publishedDateTime": "2020-08-08T16:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Milford Daily News",
-        "domain": "milforddailynews.com",
         "images": null,
         "publishers": null,
         "authors": null
