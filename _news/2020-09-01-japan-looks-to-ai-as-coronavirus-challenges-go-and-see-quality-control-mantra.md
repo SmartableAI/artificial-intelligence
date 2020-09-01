@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Toyota, others look to AI as coronavirus challenges quality control practices"
-excerpt: "That has spurred the increased use of robots and other technology for quality control, including remote monitoring which was already being adopted before the pandemic. In Japan, such approaches represent an acute departure from the \"genchi genbutsu\","
-publishedDateTime: 2020-08-31T11:36:00Z
-originalUrl: "https://europe.autonews.com/automakers/toyota-others-look-ai-coronavirus-challenges-quality-control-practices"
-webUrl: "https://europe.autonews.com/automakers/toyota-others-look-ai-coronavirus-challenges-quality-control-practices"
+title: "Japan looks to AI as coronavirus challenges go-and-see quality control mantra"
+excerpt: "Robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionize mass production in the 20th century."
+publishedDateTime: 2020-09-01T02:18:00Z
+originalUrl: "https://www.thejakartapost.com/life/2020/08/31/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.html"
+webUrl: "https://www.thejakartapost.com/life/2020/08/31/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.html"
+ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/08/31/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.html"
+cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/31/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.html"
 type: article
-quality: 36
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: The Jakarta Post
+  domain: thejakartapost.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/TOYOTA%20BADGE_0.jpg"
-    width: 800
-    height: 600
+  - url: "https://img.jakpost.net/c/2020/08/31/2020_08_31_103401_1598862125._medium.jpg"
+    width: 747
+    height: 546
     isCached: true
 
 related:
@@ -57,22 +59,6 @@ related:
         width: 744
         height: 545
         isCached: true
-  - title: "Japan looks to AI as coronavirus challenges go-and-see quality control mantra"
-    excerpt: "Robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionize mass production in the 20th century."
-    publishedDateTime: 2020-09-01T02:18:00Z
-    webUrl: "https://www.thejakartapost.com/life/2020/08/31/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.html"
-    ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/08/31/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.html"
-    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/31/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.html"
-    type: article
-    provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 56
-    images:
-      - url: "https://img.jakpost.net/c/2020/08/31/2020_08_31_103401_1598862125._medium.jpg"
-        width: 747
-        height: 546
-        isCached: true
   - title: "Japan looks to AI as coronavirus challenges conventional quality control method"
     excerpt: "At a factory south of Japan's Toyota City, robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted ’go and see’ system."
     publishedDateTime: 2020-08-31T08:15:00Z
@@ -88,6 +74,20 @@ related:
       - url: "https://image-prod.iol.co.za/resize/3892x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/95770a55-56d2-5784-a663-a26b04c63823&operation=CROP&offset=0x117&resize=3892x2189"
         width: 651
         height: 366
+        isCached: true
+  - title: "Toyota, others look to AI as coronavirus challenges quality control practices"
+    excerpt: "That has spurred the increased use of robots and other technology for quality control, including remote monitoring which was already being adopted before the pandemic. In Japan, such approaches represent an acute departure from the \"genchi genbutsu\","
+    publishedDateTime: 2020-08-31T11:36:00Z
+    webUrl: "https://europe.autonews.com/automakers/toyota-others-look-ai-coronavirus-challenges-quality-control-practices"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 36
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/TOYOTA%20BADGE_0.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "AI quality inspection robots playing bigger role at factories in Japan"
     excerpt: "At a factory south of Toyota City in Aichi Prefecture, robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionize mass production in the 20th century."
@@ -122,6 +122,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 19
 
-secured: "z17qkycr35PXXTE9mHXxFfOQuweNLl9KwXTjIqQC9vtbmnbINUsqM/4Q1RY7ADjuhR4KVL6oeJZXu+SKRqUIPQyVLdqQ8i9ZM5wAaa4lzLbsZ7nELMz9VUaLxInC2u5TLSvkmeCcUFGtSszVuKPU5VzzniO66nuPNJSlw1S+ZkL43Iu/GaOzYffSMfFVJrZ9l2DVSbSI/yCA269zlcdszr7GrvfSQMSb02oDvDefRbkU+oqBixPT/At15R8/s41KfNGhaM/9wPiMvKmDJgkqaWow0MwVX9rwi395T5vRNJUFWEG3Finv1vngWTt+LwVBOelpszYVozr4lE3U2TOsdyrGuo1Z/+cUwTzkGmRDVyg72aUL+aSiGoEswSq4KlhYrVkF2iks4rv47leNi225gFqMSMquC2fRApVE+PNVUa4nKOZdFG1C2h8e501IEGOgNlG79ml3c1d9KPQRbmVuo3JZFDTgnOQqU50jRU3wRQOyRGd8pBWNMrL2wv9rckXptLsBIssUCYTmOagVBWG4cg==;UKpnIUucHp7ZXqCKAMKjwg=="
+secured: "TuWscWo58g0hwWNpysIUVdIJpf8tS8BS9Yy2eDYQuHHDuKWWlqg0aSMrpEPsFyOwNY3AF6Pq9oHLHmVv3vwgAelSdGiT9CqL1m1dcP/FpnkxrSjS8aHrha0V99DXi+5BojNGbNFxJVjkuvvymcaAwcuJarlchvWj8Ka9KHHT+Clg47yjW/Pwn96kFzW+QSyKlJ5ULtKL7TZttOIlAQGv0RQTaJfBKMioStERtKuSRYNUBQ6RK8Dx3hdS48WgvayEXV5Sr17geiiuSSXUBkPtyOmblp1ct31td4d4VdyLtrbdMp2ZumieNVu0ypiqZab42YGw4FKaVByBu3R9MJSmBi001jjKNCM7I/+O43gIL/k=;ZYk7NsVVTFxcjngAuwez/w=="
 ---
 

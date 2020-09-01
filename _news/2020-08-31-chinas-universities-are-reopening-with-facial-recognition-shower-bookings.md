@@ -29,8 +29,8 @@ images:
 related:
   - title: "Facial recognition and bathtime bookings: How China's universities are reopening"
     excerpt: "As COVID-19 cases in China sink to new lows, the world's largest population of university students is heading back to campus in a migration defined by lockdowns, patriotic education and cutting-edge surveillance equipment."
-    publishedDateTime: 2020-08-31T12:35:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW"
+    publishedDateTime: 2020-08-31T07:54:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-china-students/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening-idUSKBN25R0UW"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN25R0UW"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0UW"
     type: article

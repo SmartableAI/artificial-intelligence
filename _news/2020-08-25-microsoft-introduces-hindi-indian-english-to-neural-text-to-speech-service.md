@@ -3,10 +3,8 @@ category: news
 title: "Microsoft introduces Hindi, Indian English to Neural Text-to-Speech service"
 excerpt: "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech Microsoft India has announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set,"
 publishedDateTime: 2020-08-25T07:31:00Z
-originalUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
-webUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
-ampWebUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
-cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
+originalUrl: "https://www.tribuneindia.com/news/nation/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
+webUrl: "https://www.tribuneindia.com/news/nation/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
 type: article
 
 provider:
@@ -23,6 +21,6 @@ images:
     height: 440
     isCached: true
 
-secured: "gu8pe1ZF9CWG4WADnxWCA18t0GEwYFjRAMo79/bdHGtkVbF74vgx37qauYTZgllccCIiw3FGa8bfgqb947aqQEIgIg4L7WAhV8BgCpK+YQPhcFiUdhLOMwxndpeRpaCQxdcao4MS4b6anD/udu8SoCZHMqZrK52yKjoVtsVtwV87He81QlTT9U2JCQHNHCuAoVobFsw1M0DuKK94LOYFQaMp9TBMY4phRb8bYw24LgXlT5PzRV01h8ncnkNus2mxH+ZuoH77Qf66CxC2gD2SfqhVPRAQ2Y+B+XTeWF7yqxs2ZCZUuA2OOsI9CcXOILcL3Numm6kIdGy4PlZurSFIYNWQVQ7B8keDEFaaub4P7JbUpKu+LHBTDJLIBVIdJhou659XI/yLfk7UhM26txNbbYcS9mGt0+Fvva6PkbKroWPEi69o7OYXjwN7AZcafeemGtUpMe3b2Ewhsopl6wD3bUM9LbetohOTzbauWyZJ9UmwzejKu6lWSPIRn3oBTjEuAKyT4uxViEvil5sPef62tQTSQvu8wWWNFMQkWMXsOy8=;7cLwq6RU0UugflR/2HGnnw=="
+secured: "Dc8UjEbjNaok2JeToOkoQ2+zWWxhKGfo+iFxq3hiXHheHaY/I5U32qpPMpY7UmADfIHPvixxURcS/ZMQN08w7PbKAvjr/iOUSiXD7sA8cLPfnWGzgyVIKuwvsLTY5UMxc2C2mTm9QSvnxbrM0NwqmZ831nXg2yJEli0gOLbu3UWwAJZ1bouSAaP1Uv1MetBhWJxYdZQQD4lXTS1hwnf53xXjJHKKc8st2R62FIJbA/g6mCr+DmbQLUdZx61NhdyKiuHOLi9Ou6runurExLQ2b7e8feZRZS4RPkc4z29Fnwr07+MB2oQc9WW1G2lKO5m3vncPj1LI3nxIkCG09szSNzQqN66+gznWGzcYCkNsu8k=;gekaz+zwigzjw3BDLyN5hw=="
 ---
 

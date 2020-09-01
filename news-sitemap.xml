@@ -91,6 +91,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://news.europawire.eu/microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes/eu-press-release/2020/08/31/15/23/49/81419/</loc>
+    <lastmod>2020-08-31T06:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/hessiejones/2020/08/31/mia-dands-fight-for-inclusion-in-the-endeavor-to-save-humanity-from-the-dark-side-of-ai/</loc>
     <lastmod>2020-08-31T06:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -99,12 +105,6 @@
   <url>
     <loc>https://www.techrepublic.com/article/nsf-grant-to-increase-access-to-ai-research-help-save-sea-turtles-and-more/</loc>
     <lastmod>2020-08-31T06:20:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW</loc>
-    <lastmod>2020-08-31T05:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -171,6 +171,12 @@
   <url>
     <loc>https://www.nbcnews.com/think/opinion/military-ai-vanquishes-human-fighter-pilot-f-16-simulation-how-ncna1238773</loc>
     <lastmod>2020-08-31T01:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-health-coronavirus-china-students/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening-idUSKBN25R0UW</loc>
+    <lastmod>2020-08-31T00:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1051,7 +1057,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174</loc>
+    <loc>https://www.tribuneindia.com/news/nation/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174</loc>
     <lastmod>2020-08-25T00:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1375,6 +1381,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/news-releases/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-301116528.html</loc>
+    <lastmod>2020-08-21T14:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techradar.com/uk/news/heres-the-smallest-aiml-supercomputer-ever</loc>
     <lastmod>2020-08-21T14:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1651,14 +1663,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/</loc>
-    <lastmod>2020-08-20T08:29:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539</loc>
+    <lastmod>2020-08-20T08:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/23c39c6175e11f35b0cb61b0b2eded76</loc>
-    <lastmod>2020-08-20T08:23:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/</loc>
+    <lastmod>2020-08-20T08:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2227,6 +2239,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
+    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2265,12 +2283,6 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
-    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2983,6 +2995,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://stockhouse.com/news/press-releases/2020/08/13/the-top-ways-artificial-intelligence-is-disrupting-life-as-we-know-it</loc>
+    <lastmod>2020-08-13T07:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techrepublic.com/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/</loc>
     <lastmod>2020-08-13T07:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3003,12 +3021,6 @@
   <url>
     <loc>https://www.vox.com/future-perfect/21355768/gpt-3-ai-openai-turing-test-language</loc>
     <lastmod>2020-08-13T07:13:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.baystreet.ca/articles/stockstowatch/59411/The-Top-Ways-Artificial-Intelligence-is-Disrupting-Life-as-We-Know-It</loc>
-    <lastmod>2020-08-13T07:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

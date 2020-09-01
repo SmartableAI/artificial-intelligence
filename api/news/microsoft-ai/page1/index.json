@@ -44,6 +44,38 @@
       ]
     },
     {
+      "path": "_news/2020-08-31-microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes.md",
+      "title": "Microsoft Azure now available at Swisscom cloud portfolio for SMEs",
+      "excerpt": "(PRESS RELEASE) BERN, 31-Aug-2020 — /EuropaWire/ — Swisscom (SWX: SCMN), a major telecommunications provider in Switzerland majority owned by the Swiss Go",
+      "sourceUrl": null,
+      "webUrl": "https://news.europawire.eu/microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes/eu-press-release/2020/08/31/15/23/49/81419/",
+      "originalUrl": "https://news.europawire.eu/microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes/eu-press-release/2020/08/31/15/23/49/81419/",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://news.europawire.eu/microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes/eu-press-release/2020/08/31/15/23/49/81419/amp/",
+      "cdnAmpWebUrl": "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes/eu-press-release/2020/08/31/15/23/49/81419/amp/",
+      "publishedDateTime": "2020-08-31T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EuropaWire",
+        "domain": "europawire.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-ai-company-staqu-collaborates-with-microsoft-to-bring-jarvis-on-azure.md",
       "title": "AI company Staqu collaborates with Microsoft to bring ‘JARVIS’ on Azure",
       "excerpt": "AI implementation company, Staqu has collaborated with Microsoft to bring its video analytics solutions on Microsoft Azure. The collaboration enables Staqu’s proprietary video analytics solutions including JARVIS (Joint AI Research for Video Instances and Streams) to be integrated with Azure Kubernetes Service and Azure Stack Edge.",
@@ -656,8 +688,8 @@
       "title": "Microsoft introduces Hindi, Indian English to Neural Text-to-Speech service",
       "excerpt": "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech Microsoft India has announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set,",
       "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174",
-      "originalUrl": "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174",
+      "webUrl": "https://www.tribuneindia.com/news/nation/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174",
+      "originalUrl": "https://www.tribuneindia.com/news/nation/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174",
       "featuredContent": null,
       "heat": null,
       "tags": null,
@@ -672,8 +704,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-08-25T00:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1067,6 +1099,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-22-amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace.md",
+      "title": "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace",
+      "excerpt": "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-301116528.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-301116528.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1232052/AmploGlobal_Rocket.jpg?p=facebook",
+          "width": 1198,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-21T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-mobius-logic-brings-drone-flight-management-to-microsoft-azure.md",
       "title": "Mobius Logic brings drone flight management to Microsoft Azure",
       "excerpt": "PRNewswire-PRWeb/ -- Mobius Logic, Inc. a leader in next-generation digital services, announced today that its Federal Aviation Administration",
@@ -1264,106 +1337,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance.md",
-      "title": "Microsoft has a plan to try to improve Azure outage assistance",
-      "excerpt": "And its Azure Support account on Twitter tries to guide users to look ... \"We are also in the early stages of expanding our use of AI-based operations to identify related impacted services automatically and, upon mitigation, send resolution communications ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/",
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/08/19/1c3ed497-d8d2-4f60-877a-4592d3251668/azureoutages.jpg",
-          "width": 884,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/",
-      "publishedDateTime": "2020-08-19T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-microsoft-is-helping-the-government-build-ai-disaster-response-tools.md",
-      "title": "Microsoft is helping the government build AI disaster response tools",
-      "excerpt": "It's teaming up with the Department of Energy to help first responders. The Department of Energy is teaming up with Microsoft to build AI tools that will help prevent and manage natural disasters, the agency announced today. Together, they’ll co-chair ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/microsoft-doe-ai-disaster-response-first-five-142941175.html",
-      "originalUrl": "https://www.engadget.com/microsoft-doe-ai-disaster-response-first-five-142941175.html",
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Ffe9da3c0-e226-11ea-b6dd-8240158dee7b&client=amp-blogside-v2&signature=c10d5efc9e1cf8197f8b1e613eee54395e6e949c",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/microsoft-doe-ai-disaster-response-first-five-142941175.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-doe-ai-disaster-response-first-five-142941175.html",
-      "publishedDateTime": "2020-08-19T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

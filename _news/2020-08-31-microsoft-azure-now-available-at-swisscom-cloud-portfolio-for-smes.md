@@ -9,8 +9,8 @@ ampWebUrl: "https://news.europawire.eu/microsoft-azure-now-available-at-swisscom
 cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes/eu-press-release/2020/08/31/15/23/49/81419/amp/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: EuropaWire
@@ -19,6 +19,19 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
+    excerpt: "Microsoft customers can now gain access to Call Journey's AI-powered Conversation Analytics technology to drive customer experience, enhance employee engagement,"
+    publishedDateTime: 2020-08-31T23:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17320531"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17320531"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 68
 
 secured: "5yfIr9DMg+yph46RUaykU4uDgSofwx7147rgI03fsJMOplze2QsV/gsgCiUTyZIPoQyjfxYXHskSaoJhtZ9QiWd3EPxGRuqipwKsXsneJ9tG//2zdD//DEJ58be18+kl5ZDPKEMO5p6F99oPFQxm7eFhCtNLAYkTiVx/F82Omw0wcyZw2qZQKFv4TiN0VpWI/M1X4mVS6g0Dro6S+f9CVOsF3oDsIS/eqPDI1iQtE/CBpaxnA9odPn/N+wnTp94uqd2pxDP77c+VFK8m0N7e5DogOuQRMY3abzAv/8HftmzoE+3xJ84jiING6EZa703Eq3Yr+agSSmuCTMfCQondfqHXGgRMPWpTI1YmqFZQTdFYxrt4iWDt7T+4jF11YdyaxRCJIXfTw+EOYmLypeqc9c14x9Xe+IIqYrEPj0tcEABXF4QY38k1yu8QIYExEfiC0d1hPaTZbdXiPSc8wRyyJ0TcMVbpv0RdieVz3t3+CcGTufah9k6uI15Sh6BmS63DqRjoH6XhPI/61qSqlXQ47w==;lYPjfgqfnjgf8vAZZRfEtw=="
 ---

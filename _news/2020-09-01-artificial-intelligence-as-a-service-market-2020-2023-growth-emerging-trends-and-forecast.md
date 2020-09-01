@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-01T01:57:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-31"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-31"
 type: article
-quality: 58
-heat: 58
+quality: 60
+heat: 60
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

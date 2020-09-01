@@ -2,9 +2,9 @@
 category: news
 title: "Facial recognition and bathtime bookings: How China's universities are reopening"
 excerpt: "As COVID-19 cases in China sink to new lows, the world's largest population of university students is heading back to campus in a migration defined by lockdowns, patriotic education and cutting-edge surveillance equipment."
-publishedDateTime: 2020-08-31T12:35:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW"
+publishedDateTime: 2020-08-31T07:54:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-china-students/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening-idUSKBN25R0UW"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-china-students/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening-idUSKBN25R0UW"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN25R0UW"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0UW"
 type: article
@@ -57,6 +57,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 16
 
-secured: "emCBKzc5BlUxURFuqW2BB1sGvXEkdqx8KHQGEmEtqtodP59wykLKkE2CnRgl4FOt5jH7Wg7ngZQNMD/3UckRXcWxhCIT1+pIAN43icyaoeNwctgpMoKc9vCvdx4sv70MXXClzaGAHSvUizUskZnyroFDWNYNsG67EqhyBkJMpuaOP5pY5sRUkLVelrbEklTvivMmg/WPwLjufJqn85couzNBGocUwoeLfXtsfJcH9Q2AI4ZrVtrvSG0ByhPtiwmkAKncY8koa+DJKngXjt6luDnSkfpDuvkqfSh/KO3szFH1EEFagzFWxzTz23S2nveJ2mBCZyQSjDBL+QQvu9jtdhKfYBL6H2t5NFBNDBebuY7yJ1RIGs0r92grr5QEH3EzywegxgsR+niEiDqp/6i05b7lfHt9lnDaclRAZPYVw1fvJZAuYzqpybDaIxMW94KT09XjAuk1rIQpdoP72uTqNZes2xGUboWKMHbFyc7mKQYvs61C49Z3Rd570Z6y8OuQqS22rS0x3ZS9bNuCW4cKcZ3QBQWJ7wk9HTITIdsJRqQ=;7oHncFz7kMcy+UpSf4f2oQ=="
+secured: "5Mk3YlW2DJ4daEjAnXnTzBfs0+1PBhIdDLQslxpnShS/VGpzlplxEdGEOkx2EAW7NsP0mRIt1a8eRF97m4gklo0ZOKnHgpC4cEy4NbK55U8wu/MFauvbR35QdUyMVYYvScgeSZhOHmoQ9SADIqpzN2kTDjU6SLs0LnyGGFH2M1BQdOmHbkH+msTJU4aCbbWL3mYDaApz+Jg1H+/kPOp49vvAhbrxEq1qzlxWGzKbF85vgkSAQM6dMlfscEq6IJnhDVa10xAG9OQGDFGYKtZ1cMse3xDvLSITGVImTbQ1QetfYna2uYQvu4vTCQ/SWYjDboWsz5JBVqNto7NZU2nBK2iS33oPdOSXvN0dABhBHrk=;ep5YE3pKwB8OyzBGI8OErQ=="
 ---
 

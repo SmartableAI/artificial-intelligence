@@ -1,26 +1,24 @@
 ---
 category: news
 title: "CEOs of ServiceNow, Weyland Tech, CloudMD, and Jumia Discuss Innovation in Cloud, Telemedicine, AI, Ecomm & Fintech:"
-excerpt: "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights from leaders at ServiceNow, Inc. (NYSE:NOW), Weyland Tech (OTC: WEYL), CloudMD (OTC: DOCRF) and Jumia Technologies (NYSE: JMIA)."
-publishedDateTime: 2020-08-20T15:23:00Z
-originalUrl: "https://apnews.com/23c39c6175e11f35b0cb61b0b2eded76"
-webUrl: "https://apnews.com/23c39c6175e11f35b0cb61b0b2eded76"
+excerpt: "On Journey to $10 Billion in Cloud Revenue - Destiny to Become Defining Enterprise Software Company of 21st century” Earnings call highlights:  Weyland Tech (OTC: WEYL)“The Shopify of Mobile in SE Asia ”w $40+ mil revenues” August 20 12:30EST investor livestream:  CloudMD (OTC: DOCRF): \"The Future of Telemedicine” Video:  Jumia Technologies AG (NYSE: JMIA) CEO Sacha Poignonnec: \"E-Commerce & Mobile Payments Adoption Accelerating in Africa” Earnings call highlights:  Highlights of CEO comments from latest earnings calls and investor conferences: ServiceNow,"
+publishedDateTime: 2020-08-20T15:44:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539"
+webUrl: "https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "m0WmAo2ZbPZhIMILt9QGLhe9VVXjzUiA91fieUk7BLpC+ykEF9uiFAAm26FWnjcyqaWoMHHAUAObydVReppjmEuua6Vf4B4wRmGOXvDpuZzycJ3XhMwBloG3CL9uiKLd5rSG7qfZ3xvnIMk1ZJdkoaA3i++TE+FwNpy1CxVWpgM15xI8mtANlbNFQ8kMIolm9rkifpk2zRRBnCSZWk+2mHn4T1Lsgp/kXAFsQ6xX6fLjbpB0Ralt9MLK1EJ0mPq+/0vfbZl9vZbvg3mfllhZi/bVAxwCXn1guThHSjO/4CXWvwav+0n3Zf5525GgUcweUJYdoRJJXFMLTKkt+tr/EfHcuWV+gzPgqEPcKTN8ErU=;iQF9ixZYLp8fzFOMp9ijzQ=="
+secured: "ayyrix5M+fmAxGy2X51S9XX1tmYhvZRJOvTXJ+wEKK5g801zkxlEMRJXgY3Q8bKTAaykK0KOW9y0ItBqHBCzzBu6FpDFMZvHr+OP9lbUoOna2EzrUZDm7Zky1MzdOVfx3TmySH4NwEJwEM4NNWjW3vChb+Dn+u8Tu7yIf7D3rHT/k+MeCrmbhlPHUr6qzwNph//YyIhY6z9iWMQtMB388aXYGoUbLOYVuzaxmiX4UdGlWIl3crCKencKafOKUqcn0kMogW/qu4e4BuIm3XPDkhuTdnHiLtq3N/6a14MXPkl4d17DvA4cxLdwR7e5qoTBAAZ+80oHQZycI6msu4LHkW2rkWNMlDV8/00upL4LqZ8=;yromoJxRHrv2Wij+EooECw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200831&t=2&i=1531610916&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7U08J"
         width: 744
         height: 545
+        isCached: true
+  - title: "Japan looks to AI as coronavirus challenges go-and-see quality control mantra"
+    excerpt: "Robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionize mass production in the 20th century."
+    publishedDateTime: 2020-09-01T02:18:00Z
+    webUrl: "https://www.thejakartapost.com/life/2020/08/31/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.html"
+    ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/08/31/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.html"
+    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/31/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.html"
+    type: article
+    provider:
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 56
+    images:
+      - url: "https://img.jakpost.net/c/2020/08/31/2020_08_31_103401_1598862125._medium.jpg"
+        width: 747
+        height: 546
         isCached: true
   - title: "Japan looks to AI as coronavirus challenges conventional quality control method"
     excerpt: "At a factory south of Japan's Toyota City, robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted ’go and see’ system."

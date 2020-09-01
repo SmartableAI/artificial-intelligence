@@ -59,6 +59,22 @@ related:
         width: 744
         height: 545
         isCached: true
+  - title: "Japan looks to AI as coronavirus challenges go-and-see quality control mantra"
+    excerpt: "Robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionize mass production in the 20th century."
+    publishedDateTime: 2020-09-01T02:18:00Z
+    webUrl: "https://www.thejakartapost.com/life/2020/08/31/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.html"
+    ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/08/31/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.html"
+    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/31/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.html"
+    type: article
+    provider:
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 56
+    images:
+      - url: "https://img.jakpost.net/c/2020/08/31/2020_08_31_103401_1598862125._medium.jpg"
+        width: 747
+        height: 546
+        isCached: true
   - title: "Toyota, others look to AI as coronavirus challenges quality control practices"
     excerpt: "That has spurred the increased use of robots and other technology for quality control, including remote monitoring which was already being adopted before the pandemic. In Japan, such approaches represent an acute departure from the \"genchi genbutsu\","
     publishedDateTime: 2020-08-31T11:36:00Z
