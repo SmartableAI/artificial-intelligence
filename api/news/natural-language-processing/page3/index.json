@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-08-healthcare-natural-language-processing-nlp-market-next-big-thing-major-giants-apple-microsoft-dolbey-systems-netbase-solutions.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market Next Big Thing | Major Giants Apple, Microsoft, Dolbey Systems, NetBase Solutions",
+      "excerpt": "Latest Market intelligence report released by HTF MI with title \"Global Healthcare Natural Language Processing (NLP) Market Size, Status and Forecast 2025\" is designed covering micro level of ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1100602854/Healthcare-Natural-Language-Processing-NLP-Market-Next-Big-Thing-Major-Giants-Apple-Microsoft-Dolbey-Systems-NetBase-Solutions",
+      "originalUrl": "https://menafn.com/1100602854/Healthcare-Natural-Language-Processing-NLP-Market-Next-Big-Thing-Major-Giants-Apple-Microsoft-Dolbey-Systems-NetBase-Solutions",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2020-08/08/i_7b9a2688-1_Image_In_Body.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-08T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-08-how-the-federal-governments-ai-center-of-excellence-is-impacting-government-wide-adoption-of-ai.md",
       "title": "How The Federal Government’s AI Center Of Excellence Is Impacting Government-Wide Adoption Of AI",
       "excerpt": "The GSA's AI Center of Excellence aims to improve and enhance AI implementations in the government and help agencies on their journey with AI adoption. The relatively small team at the GSA AI CoE is helping to bring about some very impressive changes within the federal government.",
@@ -1362,56 +1403,6 @@
         "name": "PR Newswire",
         "domain": "prnewswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-microsoft-is-taking-this-windows-10-linux-tool-back-fromfacebook.md",
-      "title": "Microsoft is taking this Windows 10 Linux tool back from...Facebook?",
-      "excerpt": "Microsoft has revealed it has taken control of a popular open-source machine learning library for Windows 10 Linux systems that was originally created by Facebook. Used by developers across Linux and Windows,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/microsoft-is-taking-this-windows-10-linux-tool-back-fromfacebook",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/UVoJtVCqMw4zd4UHG7SaYa-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/microsoft-is-taking-this-windows-10-linux-tool-back-fromfacebook",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-is-taking-this-windows-10-linux-tool-back-fromfacebook",
-      "publishedDateTime": "2020-07-30T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

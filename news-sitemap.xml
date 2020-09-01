@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.theatlantic.com/politics/archive/2020/09/read-hillary-rodham-clintons-womens-rights-speech/615733/</loc>
+    <lastmod>2020-09-01T02:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/</loc>
+    <lastmod>2020-09-01T02:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.greenbiz.com/article/how-ai-and-robotics-are-shaping-mrf-future</loc>
+    <lastmod>2020-09-01T01:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/31/cosmose-ai-raises-15-million-to-track-shoppers-in-store-behavior-using-smartphone-data/</loc>
     <lastmod>2020-09-01T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -199,7 +217,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/in/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1081,8 +1099,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://economictimes.indiatimes.com/tech/internet/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/articleshow/77737035.cms</loc>
-    <lastmod>2020-08-25T00:19:00-07:00</lastmod>
+    <loc>https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174</loc>
+    <lastmod>2020-08-25T00:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1495,8 +1513,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure</loc>
-    <lastmod>2020-08-21T08:00:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/mobius-logic-brings-drone-flight-management-to-microsoft-azure-1029524393</loc>
+    <lastmod>2020-08-21T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2263,12 +2281,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
-    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2307,6 +2319,12 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
+    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

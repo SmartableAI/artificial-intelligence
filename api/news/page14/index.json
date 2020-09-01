@@ -2,6 +2,146 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-08-19-tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world.md",
+      "title": "Tune in today to discuss COVID-19’s impact on the startup world",
+      "excerpt": "We can’t help but wonder what the future of work will look like in the wake of this global pandemic. That’s the timely topic of today’s interactive webinar, COVID-19’s Impact on the Startup World. The second of three in our free series of interactive webinars — exclusively for founders",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/19/tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/45390120154_d2864e1953_c.jpg?w=799",
+          "width": 799,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/19/tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/19/tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world/amp/",
+      "publishedDateTime": "2020-08-19T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer.md",
+      "title": "Cerebras puts ‘world’s largest computer chip’ in Lassen supercomputer",
+      "excerpt": "Lawrence Livermore National Laboratory said it has integrated Cerebras Systems' wafer-scale computer chip into its Lassen supercomputer.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/19/cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/cerebras.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/19/cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer/amp/",
+      "publishedDateTime": "2020-08-19T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-webchartai-accelerates-machine-learning-adoption.md",
+      "title": "WebChartAi Accelerates Machine Learning Adoption",
+      "excerpt": "\"WebChartAi lowers the technology barrier to entry, enabling a broader base of companies to more easily harness the power of NLP-driven task automation.\" In machine learning applications utilizing natural language processing (NLP),",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/webchartai-accelerates-machine-learning-adoption-1029517519",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/webchartai-accelerates-machine-learning-adoption-1029517519",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/webchartai-accelerates-machine-learning-adoption-1029517519",
+      "publishedDateTime": "2020-08-19T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways-by-2021.md",
       "title": "UK to consult on tech that could see self-driving vehicles on freeways by 2021",
       "excerpt": "Self-driving technology could transform the way people undertake car journeys. The U.K. government's announcement was welcomed by a number of organizations. The U.K. government has started a consultation on the use of Automated Lane Keeping System technology on Britain's freeways.",
@@ -1011,154 +1151,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-how-to-leverage-on-artificial-intelligence-to-transform-the-way-entrepreneurs-do-business.md",
-      "title": "How to Leverage on Artificial Intelligence to Transform the Way Entrepreneurs Do Business",
-      "excerpt": "This situation has raised the importance and prominence of technology. As it recovers from human and economic ravages, AI is positioned to play a critical role",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/354973",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1597821086-artificial-intelligence-4715585.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/354973",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354973",
-      "publishedDateTime": "2020-08-19T00:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-deep-learning-market-2020-2023-growth-emerging-trends-and-forecast.md",
-      "title": "Deep Learning Market 2020-2023: Growth, Emerging Trends, And Forecast",
-      "excerpt": "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-19T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-ai-health-startup-can-get-15-vital-signs-via-your-phone-camera.md",
-      "title": "AI Health Startup Can Get 15 Vital Signs Via Your Phone Camera",
-      "excerpt": "And having the results funneled to your personal medical AI engine to monitor you for any signs of poor health, ready to notify your physician if anything looks out of the ordinary. Like higher temperature,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3ca44b72dedd269d7b253d%2F0x0.jpg",
-          "width": 1000,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/amp/",
-      "publishedDateTime": "2020-08-18T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

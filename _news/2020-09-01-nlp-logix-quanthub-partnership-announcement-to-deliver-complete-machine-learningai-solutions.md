@@ -1,29 +1,25 @@
 ---
 category: news
 title: "NLP Logix & QuantHub Partnership Announcement to Deliver Complete Machine Learning/AI Solutions"
-excerpt: "QuantHub, a leading data science skills assessment and development platform has partnered with NLP Logix, an AI solutions company to deliver holistic opportunity assessments for organizations looking to apply new AI/ML technologies."
-publishedDateTime: 2020-09-01T06:11:00Z
-originalUrl: "https://www.lelezard.com/en/news-19400849.html"
-webUrl: "https://www.lelezard.com/en/news-19400849.html"
+excerpt: "QuantHub, a leading data science skills assessment and development platform has partnered with NLP Logix, an AI"
+publishedDateTime: 2020-09-01T06:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/09/n17322371/nlp-logix-quanthub-partnership-announcement-to-deliver-complete-machine-learningai-solutions"
+webUrl: "https://www.benzinga.com/pressreleases/20/09/n17322371/nlp-logix-quanthub-partnership-announcement-to-deliver-complete-machine-learningai-solutions"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17322371"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17322371"
 type: article
-quality: 27
-heat: 27
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Finance
+  - Machine Learning
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/theme/lezard2.png"
-    width: 500
-    height: 414
-    isCached: true
-
-secured: "1yW3jH/veRbuN/OzRcb6WLJdaJLUp+mRlGLamu8WYucus6d47JsY+ake7fQ+zdVrGWYTBSGGYp2cB66dw2fd1k7JJhMyds/F4v5Zq4tf6T4PBLK1/NKtFnkViNqyqakixDKloZLMT5xGn5vmgG7qikM1c9OcshIecuye8eXV/OxFUg021KEf0zOsIRyHEE2c7F/EWWpYdiQt3viT0QrGjAw/EIrjC58dB+CR+aCDps41kVrVbu+4bwfiFe+8qm1w+60PN8kztX8qRP50gZpLO4/jAY8aOmGkBKEiqF/HdCKoShf92/trh6q6Ra1iGvUxwWBLHQrRf3j1KLckL073mlrbcsVtmzW2oepnyY82NJ8=;ARWs0Kj6rIPyg0zNVsHOLA=="
+secured: "JvKwJ6FF/83jArJROy8WipYqkKYWswanPewaWPjh83HFcvioYeAGKEFU01mwMGaJ9N8KbSvTTj11GE7emdJwz1PykSa1puDS0OHDt7g+OnXWNguN/jSjvKwBAWOqIZKzhO9h7UUcNQyB4rPgQ8/EttqaP83NOOrKLt9xj8C/bGORWX1Tqh0SFYb5USbJ0+risMHh6Arntm60K2vYSmIcvx79BOcgfabOgfAGyC2FftB6nm72QsyM4bg2FgcJzpzggPyKTMiXPKClFOMQa5cTfx9iuerELvUnz7zK+JcK/EqzBMClwbiNVMqUG2KDHP3SAxC+cNDNCRwhITbSADyMhHxwo+lflr74JeH04sE1Qxg=;WtOpDF3bLVPL5/u8AX2NBQ=="
 ---
 

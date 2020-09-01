@@ -33,14 +33,19 @@ images:
 
 related:
   - title: "IBM Creates New Fan Experiences using AI and Hybrid Cloud for First-Ever Spectator-less US Open"
-    excerpt: "IBM and USTA bring tournament to life with virtual sports debates and hyper-relevant match insights using IBM Watson ... fan experiences leveraging artificial intelligence (AI) underpinned ..."
-    publishedDateTime: 2020-08-28T10:40:00Z
-    webUrl: "https://www.nasdaq.com/press-release/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator"
+    excerpt: "FLUSHING, N.Y., Aug. 28, 2020 /PRNewswire/ -- IBM, the digital partner of the United States Tennis Association (USTA) for 29 years, announced today innovative new fan experiences leveraging ..."
+    publishedDateTime: 2020-08-29T11:12:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open-301120402.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 37
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: "https://www.multivu.com/players/English/8668652-ibm-creates-new-ai-fan-experiences-for-us-open/video/Video2_1598535242394-HR.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "pw3KOgOMm5jdXsQ7EcdjDtTY8x8udTztsFcJDX9DLx7lZormC8SmcZg+iduFSSLCQL+zlVz5QFeUqIOnaG2ldCfDujxmdRFH+T7397cFZgjLkODXjwOtII3Qxnn6hNTdcURn6jy5qG/9OKIAH1+o+XKdmpGOpj++HGR/1dv66TkjUVrgIPG9YCwXFe6DMZKpMiHMZkj2nZMpKVK3KZKJzcO3B+TZru9JqOfKOAu1rn8W68Rk+2/TZqB8cxJeFmeRmRAEUSvmYDTyB7LlaOw0S4sQpwRTKW06Xv9t2n+/7s8vck+8M+JMsFeqJXFAKfLa9aLZYsvAcrlnAxx4739Ew1Tb4BVXUexbNYwkPxkrYiRnBfz26YjZBbBWvbHjpELsmLfSFA+j+NgC05ZYcHqC0FMOc2zFHkLhGebA+khvRb8umaDPs+62IJekrF8sKE4mPNMN/4v64rrwzBgpakZWlvBB8dLRz72esiFI50U6aWk8xi1XicOBE5RbjaDHUgh3X03F2stKMop7fHwQCi5igHqWuNeDM9k83mLwAvdDRl8=;TOnU929MGAfbSd6P57/HeA=="
 ---

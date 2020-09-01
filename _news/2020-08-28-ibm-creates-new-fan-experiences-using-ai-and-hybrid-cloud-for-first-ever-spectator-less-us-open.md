@@ -1,41 +1,47 @@
 ---
 category: news
 title: "IBM Creates New Fan Experiences using AI and Hybrid Cloud for First-Ever Spectator-less US Open"
-excerpt: "IBM and USTA bring tournament to life with virtual sports debates and hyper-relevant match insights using IBM Watson ... fan experiences leveraging artificial intelligence (AI) underpinned ..."
-publishedDateTime: 2020-08-28T10:40:00Z
-originalUrl: "https://www.nasdaq.com/press-release/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator"
-webUrl: "https://www.nasdaq.com/press-release/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator"
+excerpt: "IBM's hybrid cloud architecture with Red Hat OpenShift provided the operational agility and flexibility necessary to quickly develop new experiences powered by IBM Watson's advanced NLP."
+publishedDateTime: 2020-08-28T15:08:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html"
 type: article
-quality: 37
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - IBM AI
   - AI
 
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/c7/0c7d77e7-796c-5913-920d-0aa2dd75f7ba/5f491c9243677.image.jpg?resize=400%2C209"
+    width: 400
+    height: 209
+    isCached: true
+
 related:
-  - title: "US Open won't have spectators, but it will have IBM's AI and hybrid cloud"
-    excerpt: "Fans will be able to use IBM's new tech features as they watch the Grand Slam event from home this year.  This year, IBM has developed three new tennis-based digital experiences for fans of the US Open."
-    publishedDateTime: 2020-08-28T12:04:00Z
-    webUrl: "https://www.techrepublic.com/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/"
+  - title: "IBM hopes to power US Open's digital experiences with Watson's natural language processing"
+    excerpt: "The US Open can't have fans this year so IBM is hoping it can use AI to fuel debates, experiences and even the noise in the stadium."
+    publishedDateTime: 2020-08-28T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 90
+      name: ZDNet
+      domain: zdnet.com
+    quality: 96
     images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
-        width: 1200
-        height: 675
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/08/28/b59c73bd-e81b-4c3c-8115-c06cc32d2467/us-open-questions.png"
+        width: 813
+        height: 505
         isCached: true
 
-secured: "zMXawNDSuvpwN4MOUcSOz+Dy4yz3hb7Zlw2JzJ8JdjFl94ZwiehV8yUNzOfokXpq+C2vlhj51cQbvqMQqzrMBL3R6GJexQthTaiSbgBcg6FVjdvMIKD543a/sxCHgHfToVR7M2h6nw7HfPgnAxhfdFPhMVXbjQ+TQUudJZK4EGXbR3n3glnSNb/V1F4+vS7SMXElX8I6g6SUX8bhhvc6/TaayATFuIb6WajdNEW/bg5LEvnZgjG91Bo72DNbCACB2wq8m/J/ldSDxxXo8juiA69szGj62VpTmg3DdxQR/kmnx2x/CS/thGRzD/q+cYHezqMc/s7jKEChaF6zEdMDcLBoF74YaHpAm0E4yDZ32z4=;nTL++bEppwCat0gVhCtz0w=="
+secured: "j4L7Mxk9OjY2K+paY110uuvobrm64ee+LkQtq12c9xHzX71CEdaEz8UZj8R4QvjrPeb+m4Addl9Sk4EtixvJSJwLsOlcDkMLSs1lbZy0eO5HvIZ0fH84jpCOgI8U61SeN17h+N+xs/gQmwubJ7PIOqqSG6M2ghFMkLKBHWR2T8wNuNp1GzxFPRVDcNtWfBBm9bUNObsneD1dQ+1HKLr7FMUHpHxQoLtBp74gUxtMdhBz9yLkipCG6ezc8t6AyvSNQHgDSkTwu4ia2adF+ek4GbhIcgzn1IkrcNKhPd0bu4uDQ0iBfyHRdAp9Ecd1rOhJ0H/xhEzr2TiT1rnyGhApnxzs8IorMejY5L+gnAnwTvY=;MG0+19YJZANwXO1+RGmKdw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/medical-robots-market-20
 webUrl: "https://www.marketwatch.com/press-release/medical-robots-market-2020-global-size-share-regional-trends-and-2026-forecast-2020-08-26?tesla=y"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Speech & Voice Recognition Market 2020 Share, Size, Global Trend, Market Analysis and Forecast to 2026"
+    excerpt: "WiseGuyRerports.com Presents \"Global Speech & Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2025\" New Document to its Studies Database. Mark"
+    publishedDateTime: 2020-08-31T20:10:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266262784/global-speech--voice-recognition-market-2020-share-size-global-trend-market-analysis-and-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 5
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1598939951736.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "cZpYiI8k2GEgfJ01tflXweLq4t/3PkD/3pZbviDdkNcBYQglZ0R8kpk9VGssTGjhYmilI8TXLQMFpZacAU9P38Zer5i9SY0FRN90R8+TC4GDbW/68GJAF+KTe0Dm6G4/tyXatqN6rtkV8K4hKPUcqFhNeFrw/CBF1ekr20yMcxqiNNqaZxRV5TBnQ+28KbU51Lj24fir3IFob8SkHARH7uOHeGIg9kXaChI00O580LnyrBPMIdCQvvWnmydjkGHeC5/4/0TRSd2aeANalpe86fLm8t3va0Q6FHGtVR4Pog27X20/xexUfPJyzO1eV4vHo/hmARaNwHg3WSj/CNbe1Uou4+jsQh88LBfYzZNpQbY=;SVrSZS1WmnDQt178uRmdEw=="

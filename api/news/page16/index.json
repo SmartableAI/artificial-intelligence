@@ -2,6 +2,155 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-08-18-researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask.md",
+      "title": "Researchers claim their AI can hear if a speaker is wearing a mask",
+      "excerpt": "Researchers at Duke Kunshan University, Wuhan University, Lenovo, and Sun Yat-sen University in Guangzhou claim to have developed an AI system that detects whether a person is wearing a mask from ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/elderly-at-home-covid-19.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/amp/",
+      "publishedDateTime": "2020-08-18T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-how-machine-learning-is-driving-new-smart-farming-projects.md",
+      "title": "How machine learning is driving new 'smart' farming projects",
+      "excerpt": "Owen Hughes says a PyTorch-based machine learning system is being used to train 'intelligent' farming machines, which could help farmers save valuable resources. Read more: https://zd.net/3g5g6U1",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/how-machine-learning-is-driving-new-smart-farming-projects/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/08/18/98d3b8f1-e85b-4a80-b8d1-3e1e98d6727b/thumbnail/770x578/d9d427e55bb9c10e44c4830b2a1379fe/20200814-owen-karen-weeds.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game.md",
+      "title": "Why Microsoft Flight Simulator 2020 Is This Year's Most Ambitious Game",
+      "excerpt": "Those high-quality satellite images are fed through a series of machine learning algorithms to push ... The other major contributor is the company’s Azure cloud computing service, which feeds ...",
+      "sourceUrl": null,
+      "webUrl": "https://in.pcmag.com/gaming/137580/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_in/news/w/why-micros/why-microsoft-flight-simulator-2020-is-this-years-most-ambit_jwm9.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.pcmag.com/gaming/137580/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game?amp=1",
+      "cdnAmpWebUrl": "https://in-pcmag-com.cdn.ampproject.org/c/s/in.pcmag.com/gaming/137580/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game?amp=1",
+      "publishedDateTime": "2020-08-18T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-facebooks-ai-can-generate-mri-images-in-minutes-instead-of-an-hour.md",
       "title": "Facebook's AI can generate MRI images in minutes instead of an hour",
       "excerpt": "Now, after two years of research, teams from Facebook AI and NYU Langone Health have developed a neural network that can cut the amount of time people have to spend in an MRI machine from more than an hour to just a few minutes. The network ...",
@@ -90,47 +239,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging.md",
-      "title": "Facebook and NYU are using AI to dramatically speed up MRI imaging",
-      "excerpt": "Two years ago, Facebook’s Artificial Intelligence Research group (FAIR) began collaborating with researchers at New York University’s Medical School on artificial intelligence that held the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com",
-      "originalUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-facebook-NYU-fast-mri-study.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -462,6 +570,47 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging.md",
+      "title": "Facebook and NYU are using AI to dramatically speed up MRI imaging",
+      "excerpt": "Facebook’s AI researchers gave themself an especially demanding challenge: Use algorithms to fill in the details of an MRI scan. The results are promising.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging",
+      "originalUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-facebook-NYU-fast-mri-study.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -1017,154 +1166,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-researchers-use-ai-to-combat-and-quantify-browser-fingerprinting.md",
-      "title": "Researchers use AI to combat and quantify browser fingerprinting",
-      "excerpt": "To combat fingerprinting in particular, in a recent study, researchers at The University of Iowa, Mozilla, and the University of California, Davis investigated a machine learning-based approach called FP-Inspector that trains classifiers to learn fingerprinting.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/GettyImages-1062283972-e1575563910607.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/amp/",
-      "publishedDateTime": "2020-08-17T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization.md",
-      "title": "MIT SMR: How AI changes the rules: New Imperatives for Intelligent Organization",
-      "excerpt": "Many leaders are excited about AI’s potential to profoundly transform organizations by making them more innovative and productive. But implementing AI will also lead to significant changes in how organizations are managed,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization",
-      "originalUrl": "https://www.infoworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-17T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-ai-based-traffic-management-gets-green-light.md",
-      "title": "AI-based traffic management gets green light",
-      "excerpt": "Technology convergence allows for safer automated traffic lights with less waiting. When it's time to contract with an outside vendor for IT solutions, you need an easy way to compare the relative merits and faults of competing providers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-based-traffic-management-gets-green-light/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/4583de6c-e053-4b17-b5b9-9a2f1b4b432c/green-go.jpg",
-          "width": 960,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-based-traffic-management-gets-green-light/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-based-traffic-management-gets-green-light/",
-      "publishedDateTime": "2020-08-17T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

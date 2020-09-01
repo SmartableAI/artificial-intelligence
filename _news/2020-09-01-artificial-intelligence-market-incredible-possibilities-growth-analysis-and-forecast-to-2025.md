@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-01T07:23:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-incredible-possibilities-growth-analysis-and-forecast-to-2025-2020-09-01"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-incredible-possibilities-growth-analysis-and-forecast-to-2025-2020-09-01"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

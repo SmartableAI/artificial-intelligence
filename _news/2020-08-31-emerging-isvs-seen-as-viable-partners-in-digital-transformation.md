@@ -79,22 +79,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Singapore planning to hike minimum pay for foreigners in financial services"
-    excerpt: "The increase in salary will provide further support for the hiring of Singaporeans in the financial services sector, the Channel News Asia reported citing MAS, the de facto central bank"
-    publishedDateTime: 2020-08-27T15:38:00Z
-    webUrl: "https://www.business-standard.com/article/international/singapore-plans-to-increase-minimum-salary-for-foreigners-to-3-659-120082701590_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/singapore-plans-to-increase-minimum-salary-for-foreigners-to-3-659-120082701590_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/singapore-plans-to-increase-minimum-salary-for-foreigners-to-3-659-120082701590_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 42
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-08/28/full/1566977673-7664.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "mYDh225eAlfS0P+PM6YRFKAJRftWUUBB7lre+57WW9cg2ep3xwkUlMxYzJ6HklAEBSxs285NMePfM/HH1rI7jgxzzlWMmNw20G+9Twoy9C/SlCITOsSQ4DimxWzTh74CzZXjNMs2RRANcaM9bmlvQlOOk+glABWP4djHirO2RYQw4hmCDksdJv7fqE7DvE6YAmVN9wXhQArR+zKxK+Kd7Jjqoh0zcBpwtr3Fo6w8zBrKJOpxyHQvv0Vw+PjUeCIqILBC7W8sVOUK3+EJAu1yYZYkAv/bsU7JAz59XKgrf7bRC1kK5nqOMZnKaKkQByrqS3syCyL02nempJdH8jLLuDMIFPsXvSyXaRRguWv9y6w=;DjbteV9IIeETiVjvBu+K6g=="
 ---

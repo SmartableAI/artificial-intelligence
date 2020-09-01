@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-buoyed-businesses
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 790
     isCached: true
-
-related:
-  - title: "Self-driving pods and outdoor terminals: How the pandemic could change U.S. airports"
-    excerpt: "A leading global airport design firm has a new vision for the future of airports — and believes now is the time to implement it."
-    publishedDateTime: 2020-08-27T16:45:00Z
-    webUrl: "https://www.washingtonpost.com/travel/2020/08/27/self-driving-pods-outdoor-terminals-how-pandemic-could-change-us-airports/"
-    ampWebUrl: "https://www.washingtonpost.com/travel/2020/08/27/self-driving-pods-outdoor-terminals-how-pandemic-could-change-us-airports/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/travel/2020/08/27/self-driving-pods-outdoor-terminals-how-pandemic-could-change-us-airports/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 52
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NEFACAXGJAI6VP2EBUY4QWBYUU.jpg&w=1440"
-        width: 1440
-        height: 877
-        isCached: true
 
 secured: "kesQfEEkuM4cauLG3/fKFKzWw5DRBhHR3BpD22vr1qylde0/GkDX/0CFXNIqH7pjaTtOsnzUctIsQ5X1PFRPqByek1/DSoQWL5e/I0vY4oDuWqihFumVuarRFMzlXzsHLF9JRr6vXLZJ362jf1JxKcPwWx/BY3TBijpsZD6mpuFQTZBm6VOVlc5wUniNzn87epuWz+WesmHT+8cTujFjpoAJ6b/QOlCTdXOHi5eztmccqLKvKueYKmXjcx2j10Mnyn/5w0aZJC4HJrCaOrHA0oeSwFVTfyXEWhG8lGajSw3nL0Ov87qKjMtf2CBYqThRfkStrmOw3RdAOAWoVv5lTxSk8C/lKUOm4VkJQ0QgT3aLOvSwL7FJQc+kbGp8T/lTKmnPVWChNmj7Uew6fU1PJirE82KGqvPqfQo42IaQBOT9L/TR5gi1XL517ocvQAbCE+vW1OG2Juvmyufyh0484W+c30CdLyDxt4zsZVBRwKngLeqvfpvHfmbVIc1WTuhtN8I88oE9dhDsT9YzP5bLrRZpQofQ9T7xYQURDCAX16E=;/jGeFr4wmRg09/tvB0Oukw=="
 ---

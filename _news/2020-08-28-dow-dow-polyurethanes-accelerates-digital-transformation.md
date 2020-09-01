@@ -64,22 +64,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Singapore planning to hike minimum pay for foreigners in financial services"
-    excerpt: "The increase in salary will provide further support for the hiring of Singaporeans in the financial services sector, the Channel News Asia reported citing MAS, the de facto central bank"
-    publishedDateTime: 2020-08-27T15:38:00Z
-    webUrl: "https://www.business-standard.com/article/international/singapore-plans-to-increase-minimum-salary-for-foreigners-to-3-659-120082701590_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/singapore-plans-to-increase-minimum-salary-for-foreigners-to-3-659-120082701590_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/singapore-plans-to-increase-minimum-salary-for-foreigners-to-3-659-120082701590_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 42
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-08/28/full/1566977673-7664.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Emerging ISVs Seen as Viable Partners in Digital Transformation"
     excerpt: "A large number of independent software vendors (ISVs) are emerging as potential partners in digital transformation, but enterprises should look for ISVs that make customer experience a top priority, according to a new white paper from Information Services Group ( ISG) (Nasdaq: III),"
     publishedDateTime: 2020-08-31T14:14:00Z

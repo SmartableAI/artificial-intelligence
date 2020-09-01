@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-01-ai-language-tool-reveals-most-stressed-politicians-and-business-leaders.md",
+      "title": "AI Language Tool Reveals Most Stressed Politicians And Business Leaders",
+      "excerpt": "An automated language analysis system has measured the stress levels of US politicians and business leaders, finding that Bernie Sanders is the most stressed American politician and Bill Gates the most stressed business figure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/",
+      "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e0d0e1a85851f93b167b8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D256%26cropY2%3D3334",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/amp/",
+      "publishedDateTime": "2020-09-01T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy.md",
       "title": "Facebook open-sources Opacus, a PyTorch library for differential privacy",
       "excerpt": "Facebook's Opacus is a library for training PyTorch models with differential privacy that’s ostensibly more scalable than existing state-of-the-art methods.",
@@ -944,6 +994,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-18-facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging.md",
+      "title": "Facebook and NYU are using AI to dramatically speed up MRI imaging",
+      "excerpt": "Facebook’s AI researchers gave themself an especially demanding challenge: Use algorithms to fill in the details of an MRI scan. The results are promising.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging",
+      "originalUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-facebook-NYU-fast-mri-study.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-15-ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast.md",
       "title": "AI In Computer Vision Market Analysis 2020-2023, Growth Rate Evolving Technology, Size, Share, Data Analysis, SWOT Analysis Forecast",
       "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
@@ -1350,107 +1441,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-ai-weekly-can-language-models-learn-morality.md",
-      "title": "AI Weekly: Can language models learn morality?",
-      "excerpt": "Researchers believe representations could imbue language models with a broader set of human preferences about the world, and thus morality.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/07/ai-weekly-can-language-models-learn-morality/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/code-of-ethics-in-technology-e1596833286745.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/07/ai-weekly-can-language-models-learn-morality/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/07/ai-weekly-can-language-models-learn-morality/amp/",
-      "publishedDateTime": "2020-08-07T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai.md",
-      "title": "Researchers quantify bias in Reddit content sometimes used to train AI",
-      "excerpt": "Researchers developed a technique that helps to quantfy bias on communities like Reddit, data from which is often used to train AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/07/researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/07/researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/07/researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai/amp/",
-      "publishedDateTime": "2020-08-07T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

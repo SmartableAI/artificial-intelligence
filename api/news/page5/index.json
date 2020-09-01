@@ -2,6 +2,149 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-27-proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring.md",
+      "title": "ProteanTecs raises $45 million to apply AI to chip design and performance monitoring",
+      "excerpt": "Startup ProteanTecs raised $45 million to further develop its AI chip design platform, bringing its total raised to nearly $100 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/",
+      "originalUrl": "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/",
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/amp/",
+      "publishedDateTime": "2020-08-27T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels.md",
+      "title": "Federal contractor taps Google Cloud AI and ML to inspect US Navy vessels",
+      "excerpt": "Simple Technology Solutions will be working with Google Cloud to modernize the maintenance and repairs inspection process for Navy vessels and facilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/",
+      "originalUrl": "https://www.zdnet.com/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/",
+      "featuredContent": null,
+      "heat": 123,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels/",
+      "publishedDateTime": "2020-08-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-37.md",
+      "title": "Graph, machine learning, hype and beyond: ArangoDB open source multi model database releases version 3.7",
+      "excerpt": "A sui generis, multi-model open source database, designed from the ground up to be distributed. ArangoDB keeps up with the times and uses graph, and machine learning, as the entry points for its offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-3-7/",
+      "originalUrl": "https://www.zdnet.com/article/graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-3-7/",
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/27/357024d4-fa60-47c8-9df3-52f9bc25856c/arangoml-pipeline-complete-pipeline-1024x470.jpg",
+          "width": 1024,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-3-7/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graph-machine-learning-hype-and-beyond-arangodb-open-source-multi-model-database-releases-version-3-7/",
+      "publishedDateTime": "2020-08-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-machine-learning-as-a-service-mlaas-market-growth-probability-key-vendors-and-future-scenario-up-to-2027.md",
       "title": "Machine Learning as a Service (MLaaS) Market Growth Probability, Key Vendors and Future Scenario Up To 2027",
       "excerpt": "According to the study carried out by Acumen Research & Consulting, The Machine Learning as a Service (MLaaS) Market is projected to grow at noteworthy growing CAGR over the forecast period 2020 to 2027.",
@@ -1033,146 +1176,6 @@
         "AI in Healthcare",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-microsoft-word-for-the-web-now-lets-office-365-users-record-and-upload-audio-for-transcription.md",
-      "title": "Microsoft Word for the web now lets Office 365 users record and upload audio for transcription",
-      "excerpt": "If your job requires extensive work with documents or routinely organizing meeting notes, transcribing can be an invaluable tool to save time or catch that important detail that inadvertently got overlooked the first time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/86514-microsoft-word-web-now-office-365-users-record.html",
-      "originalUrl": "https://www.techspot.com/news/86514-microsoft-word-web-now-office-365-users-record.html",
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-26-image.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/86514-microsoft-word-web-now-office-365-users-record.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86514-microsoft-word-web-now-office-365-users-record.html",
-      "publishedDateTime": "2020-08-26T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-uc-davis-to-lead-new-artificial-intelligence-institute-for-next-generation-food-systems.md",
-      "title": "UC Davis to lead new artificial intelligence institute for next generation food systems",
-      "excerpt": "UC Davis has been awarded $20 million as part of a multi-institutional collaboration to establish a new institute focused on enabling the next generation food system through the integration of artificial intelligence (AI) technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/241215_web.jpg",
-          "width": 1440,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-ponyai-inks-robo-taxi-fleet-maintenance-partnership-with-bosch.md",
-      "title": "Pony.ai inks robo-taxi fleet maintenance partnership with Bosch",
-      "excerpt": "Self-driving car startup Pony.ai announced Bosch as a vehicle fleet maintenance partner. The two launched a pilot in San Francisco earlier this year.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/26/pony-ai-inks-robo-taxi-fleet-maintenance-partnership-with-bosch/",
-      "originalUrl": "https://venturebeat.com/2020/08/26/pony-ai-inks-robo-taxi-fleet-maintenance-partnership-with-bosch/",
-      "featuredContent": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/ad1de834-abf3-471e-b4cc-3408c731b4f4-e1566788588385.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/26/pony-ai-inks-robo-taxi-fleet-maintenance-partnership-with-bosch/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/pony-ai-inks-robo-taxi-fleet-maintenance-partnership-with-bosch/amp/",
-      "publishedDateTime": "2020-08-26T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

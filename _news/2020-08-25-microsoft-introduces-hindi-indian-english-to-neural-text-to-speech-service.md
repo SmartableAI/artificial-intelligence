@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft introduces Hindi, Indian English to Neural Text-to- Speech service"
-excerpt: "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech for a more natural interface. The service also provides customizable voices, fine-tuned auto control, and flexible deployment from cloud to edge,"
-publishedDateTime: 2020-08-25T07:19:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/internet/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/articleshow/77737035.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/internet/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/articleshow/77737035.cms"
-ampWebUrl: "https://m.economictimes.com/tech/internet/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp_articleshow/77737035.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/internet/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp_articleshow/77737035.cms"
+title: "Microsoft introduces Hindi, Indian English to Neural Text-to-Speech service"
+excerpt: "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech Microsoft India has announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set,"
+publishedDateTime: 2020-08-25T07:31:00Z
+originalUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
+webUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
 type: article
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-920722,msid-77820417/what-is-qanon-and-how-are-social-media-sites-handling-it.jpg"
-    width: 412
-    height: 255
+  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_1179149585.jpg"
+    width: 660
+    height: 440
     isCached: true
 
-secured: "YbkLAMoMsVFAAnztuDCCSRq/L1iGzzijFoh0ZiixAM3YKf2HVbpa1NwLcfCw+XgOIYN0UP6GMjZ56eweVAROJqj1zVHzmSxzLIHhAr/E+yIev5yRPp0TaNhIWnyXL/Ry0/OYrwfthH/qPqxat6uX9ytiWZ7qubrfwaedNRmMKPmTNB7YSky+I+u2+XSwJAfGo1T6mFbMh1v3iWJdpDawN3/tjr8Tn73S2Pli6GXWDLMQh41ddr63T0LeBpijqTI8+awACw976UuU+OFNgPWEs5j1hjRVkNxkIANpHstSPKGS9belg7pW6alaUOQi9yetnCcBs4OMbXPfrfKb90y6iPVG8qG/xcGbtudAg9Qft9A=;mtz1Ms8ds9azsEMy+o2uOg=="
+secured: "uHCc3XSv27gRUGlja3NcRrLBDnVGX6nPFX3DSznaza5MBVG8wjtCHDeyIYbYIhemKtFTiVZiwOZsij5ES8CzxLu+m6Sma96Uqpo9+20IDYCexFSNp3Ev+u1Y0IKCtbZowxwV0Io3A1eQgGFIiPVz0420Zq0RxkIWTIRfQcgYT17H0zL7g/rPAks6w91Y32mmCFZQJm9Q7JDUqFpE+7zgJQ4r386BVVkM18dQdqu86BYK2LHdL7t5reJc3Dm0Mcniz0QIBh0J+pXUjnzy/fdIWsSvB710QJl5sA5zywDZ4Twlclv1nASP6rVGIZ/VyQ2sfXEgGKzzDF5QFYbOqGbRY1lFrHSWAymyafzI+vkFTdE=;xBY9mVWLRZkBROamNKRFYA=="
 ---
 
