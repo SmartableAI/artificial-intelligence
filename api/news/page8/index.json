@@ -2,6 +2,276 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-08-25-more-facial-recognition-and-drones-wanted-for-the-us-canada-border.md",
+      "title": "More Facial Recognition and Drones Wanted for the US-Canada Border",
+      "excerpt": "Industry groups want advanced biometrics to secure the border between the two countries once it reopens after COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
+      "originalUrl": "https://www.vice.com/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f453b379992790096b50300/lede/1598373223867-cp18642415.jpeg?crop=1xw:0.8436654135338346xh;center,center",
+          "width": 4987,
+          "height": 2805,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
+      "publishedDateTime": "2020-08-25T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-naic-adopts-artificial-intelligence-principles.md",
+      "title": "NAIC Adopts Artificial Intelligence Principles",
+      "excerpt": "Members of the National Association of Insurance Commissioners (NAIC) have agreed unanimously to adopt an Artificial Intelligence Guiding Principles. The NAIC’s AI Working Group based the document on a set of AI principles developed by the Organisation for Economic Co-operation and Development (OECD).",
+      "sourceUrl": null,
+      "webUrl": "https://www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/",
+      "originalUrl": "https://www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/",
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2020/02/2019-10-30-tech-chess_Thinkstock_MI.jpg",
+          "width": 616,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/?amp=1",
+      "cdnAmpWebUrl": "https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/?amp=1",
+      "publishedDateTime": "2020-08-25T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Think Advisor",
+        "domain": "thinkadvisor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-waymo-self-driving-trucks-hit-the-road-in-texas.md",
+      "title": "Waymo self-driving trucks hit the road in Texas",
+      "excerpt": "After deploying its autonomous Chrysler Pacifica prototypes to map roads, Waymo has sent its trucks to Texas interstates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-trucks-texas/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-trucks-texas/",
+      "featuredContent": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/5wSlvlns80O2HBjERxttfvennYQ=/2020/08/25/eda611e2-7365-4317-b88e-79282708064a/ogi-waymo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-trucks-texas/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-trucks-texas/",
+      "publishedDateTime": "2020-08-25T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-city-councilman-introduces-legislation-to-ban-unrestricted-use-of-facial-recognition-and-predictive-policing.md",
+      "title": "City Councilman Introduces Legislation To Ban Unrestricted Use Of Facial Recognition And Predictive Policing",
+      "excerpt": "As more people are calling for police reform across the U.S. and in Pittsburgh, some local officials are calling for transparency. City councilman Corey O’Connor is calling for transparency when it comes to facial recognition and predictive policing technology;",
+      "sourceUrl": null,
+      "webUrl": "https://pittsburgh.cbslocal.com/video/4678635-city-councilman-introduces-legislation-to-ban-unrestricted-use-of-facial-recognition-and-predictive-policing/",
+      "originalUrl": "https://pittsburgh.cbslocal.com/video/4678635-city-councilman-introduces-legislation-to-ban-unrestricted-use-of-facial-recognition-and-predictive-policing/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://pittsburgh.cbslocal.com/video/4678635-city-councilman-introduces-legislation-to-ban-unrestricted-use-of-facial-recognition-and-predictive-policing/amp/",
+      "cdnAmpWebUrl": "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4678635-city-councilman-introduces-legislation-to-ban-unrestricted-use-of-facial-recognition-and-predictive-policing/amp/",
+      "publishedDateTime": "2020-08-25T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first.md",
+      "title": "AI confirms 50 new planets from old NASA data, in a groundbreaking first",
+      "excerpt": "Our planet-hunting telescopes have gotten so good at their jobs that they've located thousands of possible planets outside our solar system. That means scientists have to sift through a whole lot of data to figure out what's a real planet and what's a pretender.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/",
+      "originalUrl": "https://www.cnet.com/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/",
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/8HHagEPsLQzwF1q7G9siIMXAc6s=/2016/05/10/bfd48cb5-88e5-466a-9605-bf374f2a6abf/keplerall-planetsmay2016.jpg",
+          "width": 985,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/",
+      "publishedDateTime": "2020-08-25T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-apples-final-cut-pro-x-uses-ai-to-auto-crop-videos-for-social-media.md",
+      "title": "Apple's Final Cut Pro X uses AI to auto-crop videos for social media",
+      "excerpt": "Apple has updated Final Cut Pro X with a slew of features and improvements. The editing suite can now use machine learning smarts to automate video cropping for social media-friendly formats, including square and vertical sizes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/apple-final-cut-pro-x-social-media-machine-learning-162618607.html",
+      "originalUrl": "https://www.engadget.com/apple-final-cut-pro-x-social-media-machine-learning-162618607.html",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fc0ccd0a0-e6ec-11ea-bade-0c76256ca1ce&client=amp-blogside-v2&signature=bb64bffecc1b016ff74f04b6b95cf33cc35babd7",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/apple-final-cut-pro-x-social-media-machine-learning-162618607.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/apple-final-cut-pro-x-social-media-machine-learning-162618607.html",
+      "publishedDateTime": "2020-08-25T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-researchers-examine-uncertainty-in-medical-ai-papers-going-back-a-decade.md",
       "title": "Researchers examine uncertainty in medical AI papers going back a decade",
       "excerpt": "In a meta-analysis, researchers investigated how medical machine learning studies handled uncertainty and noise within training data sets.",
@@ -862,306 +1132,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-a-dogfight-renews-concerns-about-ais-lethal-potential.md",
-      "title": "A Dogfight Renews Concerns About AI's Lethal Potential",
-      "excerpt": "Alphabet's DeepMind pioneered reinforcement learning. A California company used it to create an algorithm that defeated an F-16 pilot in a simulation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/",
-      "originalUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/",
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f4437bbc83d017a112ec55f/master/pass/business_f16_927284852.jpg",
-          "width": 2400,
-          "height": 1602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/amp",
-      "publishedDateTime": "2020-08-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-what-healthcare-can-learn-from-fintechs-digital-evolution.md",
-      "title": "What Healthcare Can Learn From Fintech’s Digital Evolution",
-      "excerpt": "The digital disruption of the banking industry offers helpful comparisons and takeaways for the future of healthcare and healthcare finance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43f423828d8baa4696f810%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/08/25/what-healthcare-can-learn-from-fintechs-digital-evolution/amp/",
-      "publishedDateTime": "2020-08-25T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves.md",
-      "title": "Two left feet? Facebook’s new AI dance choreographer can teach you some brand new moves",
-      "excerpt": "Facebook's AI boffins have developed a new system that creates original dance routines for any music that you feed it.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/",
-      "originalUrl": "https://thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/",
-      "featuredContent": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-25T115244.344-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/amp/",
-      "publishedDateTime": "2020-08-25T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service.md",
-      "title": "Microsoft introduces 15 new languages to its Neural Text-to-Speech service",
-      "excerpt": "Microsoft has announced the addition of 15 new languages to its Neural Text to Speech (Neural TTS) service language set. Neural TTS is a part of Microsoft's Azure Cognitive Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service",
-      "originalUrl": "https://www.neowin.net/news/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service",
-      "featuredContent": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1585909473_microsoft_6_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-introduces-15-new-languages-to-its-neural-text-to-speech-service/",
-      "publishedDateTime": "2020-08-25T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-how-insurers-can-help-enterprises-with-ai-adoption.md",
-      "title": "How Insurers Can Help Enterprises With AI Adoption",
-      "excerpt": "Insurance companies have quantified and mitigated new types of risk for centuries. There's no reason this trend shouldn't continue with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43baedc0067df365f1cd90%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/amp/",
-      "publishedDateTime": "2020-08-25T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-baidu-creates-worlds-largest-chinese-natural-language-processing-database.md",
-      "title": "Baidu creates ‘world’s largest’ Chinese natural language processing database",
-      "excerpt": "Baidu launched Qian Yan, which it says is the largest Chinese database for natural language processing, among other AI-related products on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
-      "originalUrl": "https://www.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/08/25/369bdc3e-e6b8-11ea-8600-abe4f45458c9_image_hires_181012.jpg?itok=uBMsQDjL&v=1598350221",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
-      "publishedDateTime": "2020-08-25T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

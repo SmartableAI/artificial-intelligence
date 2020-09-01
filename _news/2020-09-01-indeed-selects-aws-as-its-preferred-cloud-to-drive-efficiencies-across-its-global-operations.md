@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Indeed Selects AWS as Its Preferred Cloud to Drive Efficiencies across its Global Operations"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Indeed, the world’s leading job site, has selected AWS as"
+    publishedDateTime: 2020-09-01T17:35:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200901005230/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 28
+    images:
+      - url: "https://mms.businesswire.com/media/20200901005230/en/817187/23/AWS_logo_RGB.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+
 secured: "tlXapMuww1QPFfFK7D0mGdKG5k9K/3ocmyEJUFbY3BwEXzsE19LCc5qRHaDbOXVZUViFKrT4QiXTLCC4Ed2SLViIMjSLFCO/9d7OWFXR3prToCK9qspW+iM9i/KoOjXLylci986aYSVthjrckfij5z9+p916GMz9vDCUCFRfq0mCl0ACr4K+k+2r9/V/OgOZQaRBWh8rDOKNUN1DcBus6Uz4D9Gfw1vgaxbc/XDmoNvhc+AhjqaEDum7Ax/yfVN3oOq9uw1+qxxpIfFxBVQsz6o63bf2E1KmOUenYpGCj0TCJtY0vN01KWIn/A3gOjwK/tdcAM7kPKWr8UnGezOlhtWs2J97xlfZbdQFpkix3wU=;04fUqbgWzJdaTfU3JBsPMQ=="
 ---
 

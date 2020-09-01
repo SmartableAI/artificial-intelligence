@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence finds a purpose in healthcare because of COVID-19"
 excerpt: "Artificial intelligence is having a bit of a moment in healthcare. Per countless reports, AI is seeing rapid adoption throughout healthcare to identify solutions to protect against the pandemic and gain an advantage against the seemingly unmitigated spread of the virus."
 publishedDateTime: 2020-08-21T13:27:00Z
-originalUrl: "https://exclusive.multibriefs.com/content/artificial-intelligence-finds-a-purpose-in-healthcare-because-of-covid-19/pharmaceutical"
-webUrl: "https://exclusive.multibriefs.com/content/artificial-intelligence-finds-a-purpose-in-healthcare-because-of-covid-19/pharmaceutical"
+originalUrl: "https://exclusive.multibriefs.com/content/artificial-intelligence-finds-a-purpose-in-healthcare-because-of-covid-19/medical-allied-healthcare?MvBriefArticleId=40223"
+webUrl: "https://exclusive.multibriefs.com/content/artificial-intelligence-finds-a-purpose-in-healthcare-because-of-covid-19/medical-allied-healthcare?MvBriefArticleId=40223"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 420
     isCached: true
 
-secured: "1wSGE/ezH/itpVu4BPszWZn+d/oL5y/piB0IMNPZaazol1ocjIp2NKz0zDeZ3lqjToUffxxlJwHNCKfYqIJZHVptd5x3lg20mFRxDuk03Vr9YXlAuWSSiQuwQXz70EuB9Kuv9IvS7oNAD8iA1NyHzVELuXFwHj2xofl9UWqIg+LN0xOnRwTNSZAJmFiMhyI/UCHVS+NS5hhg+CYOXb8IObLem+3fIzi+TW7+uHBqaTSHow63MzyerAxnUPFgq9KY6fXxYWazYNcNHXmyzrqJ/vnTNlQGLnLQgjl7r3uW8Fo5NKf08OLqVvE2ww+d+qY+nGB2vx4+TeUl6FQoTKMTARx3uld6RxYJdak3OjIKuAGMNuzsPyyQkZtNa/fEePpBpu+osAFaMs1PKGlTKIzhtmgLHplq44AjJEVOS67+qWLJyx/aISPpCneOaIPVUCN0KqF1EsqhNSXbuGuO/emA8vH78ZDH9aknUvoW80BZtia+i+IjsBsIteYYJJeXXTZd3De7mEX8+ySPHPeurjIHXQ==;50oENF3nofKb2Xhe8takuA=="
+secured: "pvKa5pbWHhUIVzDtr3HTBePPCBzOFxI3R/AycUczMb2f7Afb4bIlNiQ+QhWF8FEYqBKxmr2JP5PtQicDwbjEgaznn2mcfZ2hjXYJwZt0Vs/4pSSaH3KqgIFH/CdUU/NM/mTJJIXlglGRkZrw5SrJsWTGyr3ZGkHbWroVj46CKdWZb7i05Q3lrKdtF70Rz/81Z8CoqESSnQ7J5aUI79IgS+1wh6cA1Z55JDlhcQ63TU+RYQqluNGIUb1TBXULv4mDoBgYCmO1ouhNjuaNa29vQIPQU1FYJtc05zN63WVpcFCBUGw5PRnxxmYGAJpfPzmtc6sNfMA7qvfkUid5vMKqkwej2FUXySbe0jbP3bLPtEk=;TIaiMcvaFkPk+shGzbQpXA=="
 ---
 

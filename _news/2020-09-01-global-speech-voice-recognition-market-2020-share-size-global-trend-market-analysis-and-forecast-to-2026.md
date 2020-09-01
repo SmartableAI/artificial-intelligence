@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Robots Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 - 2025"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
+    publishedDateTime: 2020-09-01T17:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2025-2020-09-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Security Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 – 2025"
     excerpt: "Artificial intelligence in cyber security will increase efficiency and precision of the system to observe any potential threat in organization's system. Organizations increasing their horizon to completely different geographies are generating voluminous data to realize insights and are using analysis techniques to enhance their product offerings."
     publishedDateTime: 2020-09-01T07:20:00Z

@@ -43,22 +43,6 @@ related:
         width: 940
         height: 627
         isCached: true
-  - title: "How facial recognition technology could be utilized in a COVID-19 world"
-    excerpt: "It's not science fiction or the movies; facial recognition technology is now part of our world. TensorMark Inc., a US cloud-based AI and computer vision technology provider, is working with University Hospitals to come up with a way to make it work during the COVID-19 pandemic."
-    publishedDateTime: 2020-08-27T23:04:00Z
-    webUrl: "https://www.wkyc.com/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
-    ampWebUrl: "https://www.wkyc.com/amp/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
-    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/health/coronavirus/facial-recognition-technology-utilized-covid-19-world/95-548176b7-4ff2-4b0f-a7eb-23c912e1062d"
-    type: article
-    provider:
-      name: WKYC3
-      domain: wkyc.com
-    quality: 59
-    images:
-      - url: "https://media.wkyc.com/assets/WGRZ/images/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e/cecdeaa4-3bfb-4061-ae38-e0b9aa53fc0e_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Atlanta airport plans to test facial recognition, touchless technology"
     excerpt: "Jackson Atlanta International Airport plans to test facial recognition at check-in counters in the domestic terminal, part of a broader push to introduce more touchless technology in response to the coronavirus."
     publishedDateTime: 2020-09-01T01:12:00Z

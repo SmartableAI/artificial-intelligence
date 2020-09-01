@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/a
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/flood-forecasts-india-bangladesh/amp/"
 type: article
 quality: 94
-heat: 94
+heat: 124
 published: true
 
 provider:
@@ -29,6 +29,56 @@ images:
     width: 1300
     height: 550
     isCached: true
+
+related:
+  - title: "Google expands AI-powered flood alerts to all of India"
+    excerpt: "Google has expanded its flood-predicting model, which can predict severe flooding with 75% accuracy, to cover all of India and parts of Bangladesh"
+    publishedDateTime: 2020-09-01T16:02:00Z
+    webUrl: "https://venturebeat.com/2020/09/01/google-expands-ai-powered-flood-alerts-to-all-of-india/"
+    ampWebUrl: "https://venturebeat.com/2020/09/01/google-expands-ai-powered-flood-alerts-to-all-of-india/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/google-expands-ai-powered-flood-alerts-to-all-of-india/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/Flood_in_odisha_india-e1598462275765.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Google’s AI-powered flood alerts now cover all of India and parts of Bangladesh"
+    excerpt: "India, the world’s second most populated nation, sees more than 20% of the global flood-related fatalities each year as overrun riverbanks sweep tens of thousands of homes with them. Two years ago, Google volunteered to help."
+    publishedDateTime: 2020-09-01T17:49:00Z
+    webUrl: "https://techcrunch.com/2020/09/01/googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh/"
+    ampWebUrl: "https://techcrunch.com/2020/09/01/googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/01/googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1228244500.jpg?w=1024"
+        width: 1024
+        height: 680
+        isCached: true
+  - title: "Google’s AI flood warnings now cover all of India and have expanded to Bangladesh"
+    excerpt: "The company says this means some 200 million people in India and 40 million people in Bangladesh can now receive alerts from its flood forecasting system. In addition to expanding coverage, Google is testing more accurate forecasts and has updated how its alerts appear on users’ devices."
+    publishedDateTime: 2020-09-01T16:24:00Z
+    webUrl: "https://www.theverge.com/2020/9/1/21410252/google-ai-flood-warnings-india-bangladesh-coverage-prediction"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/1/21410252/google-ai-flood-warnings-india-bangladesh-coverage-prediction"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/1/21410252/google-ai-flood-warnings-india-bangladesh-coverage-prediction"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 82
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/rZ7Z_NP-v8xL1ErOIyH8O2YzeAw=/0x0:3900x2647/1400x933/filters:focal(1638x1012:2262x1636):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67337246/1228283754.jpg.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
 
 secured: "xsBUaDWEvPaMJRNsax5ncO2x6y5dxKdJ5yciJw3A0GzUeWMqfTzHnglFT0G6QIQOPaNZF3CundniyPcbZudxIzwIvhGeb8aWoif8QARjQ9CyF1+9FKmLU4qxK+I0sbSWfqyjn3fkE7CCl8op/wCRGOzs8y+++arfDXDQHBxK9TWD7lKdsPbq1aNMuWysNs9HsHbDMU4fvDFwDtcAexklCctiOthTuxhftKQuqtG/OtdRPKU2kVyZio8B5t3L9jlHpX0OJG6M7Yio0HUl0uYtl2eGqVDFISPySNiMEjf8FNdO2gpXLUsVOfPK1eGomylmIw0EP3GJZWJFWZs1LOh/dxSazJbKOiR43OpavWAOvzc=;RBd7wcyBndTgZvgV8qG6oQ=="
 ---

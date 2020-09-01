@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-01-electronic-skin-that-feels-pain-could-lead-to-smarter-prosthetics-and-robots.md",
+      "title": "Electronic skin that ‘feels’ pain could lead to smarter prosthetics and robots",
+      "excerpt": "Scientists from RMIT University in Australia have developed an electronic skin that reacts to pain like human skin.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/01/electronic-skin-that-feels-pain-could-lead-to-smarter-prosthetics-and-robots/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/01/electronic-skin-that-feels-pain-could-lead-to-smarter-prosthetics-and-robots/",
+      "featuredContent": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-01T134601.951-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/01/electronic-skin-that-feels-pain-could-lead-to-smarter-prosthetics-and-robots/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/01/electronic-skin-that-feels-pain-could-lead-to-smarter-prosthetics-and-robots/amp/",
+      "publishedDateTime": "2020-09-01T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-sarcos-robotics-raises-40-million-to-develop-an-exoskeleton-for-industrial-applications.md",
       "title": "Sarcos Robotics raises $40 million to develop an exoskeleton for industrial applications",
       "excerpt": "Sarcos Robotics, a startup developing robots for industrial and defense applications, today nabbed $40 million in equity financing.",
@@ -173,7 +223,7 @@
       "webUrl": "https://mobile.twitter.com/bradporter_?lang=en",
       "originalUrl": "https://www.geekwire.com/2020/tech-moves-former-amazon-vp-brad-porter-joins-scale-ai-cto-uw-names-new-communication-leadership-director/",
       "featuredContent": null,
-      "heat": 124,
+      "heat": 126,
       "tags": null,
       "images": null,
       "type": "article",
@@ -203,7 +253,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Microsoft AI"
       ]
     },
     {
@@ -367,7 +418,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/medical-robots-market-2020-global-size-share-regional-trends-and-2026-forecast-2020-08-26?tesla=y",
       "originalUrl": "https://www.marketwatch.com/press-release/medical-robots-market-2020-global-size-share-regional-trends-and-2026-forecast-2020-08-26?tesla=y",
       "featuredContent": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1314,57 +1365,6 @@
         "AI in Robotics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars.md",
-      "title": "AI As Being Truthful Or A Liar, Including While At The Wheel Of Self-Driving Cars",
-      "excerpt": "AI as teller of truth or potential untruths. getty. Will AI lie to you? Sure, why not. Most people assume that AI is dispassionate, unbiased, objective rather than subjective, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3c3ffe7e15267c1d38cc1a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D455%26cropY2%3D3267",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/",
-      "publishedDateTime": "2020-08-20T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

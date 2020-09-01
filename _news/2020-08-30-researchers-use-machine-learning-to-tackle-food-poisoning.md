@@ -7,7 +7,7 @@ originalUrl: "https://www.foodsafetynews.com/2020/08/researchers-use-machine-lea
 webUrl: "https://www.foodsafetynews.com/2020/08/researchers-use-machine-learning-to-tackle-food-poisoning/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers set sights on theory of deep learning"
-    excerpt: "Rice's Richard Baraniuk and Moshe Vardi are part of a multiuniversity team of engineers, computer scientists, mathematicians and statisticians tapped by the Office of Naval Research to develop a principled theory of deep learning."
-    publishedDateTime: 2020-08-31T17:50:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/ru-rss083120.php"
+  - title: "Georgia State researchers developing deep learning framework to map brain disorders"
+    excerpt: "Georgia State University researchers are working to harness deep learning and artificial intelligence to learn more about how mental illness and other disorders affect the brain."
+    publishedDateTime: 2020-08-28T17:18:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/gsu-gsr082820.php"
     type: article
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 39
+    quality: 48
     images:
-      - url: "https://eurekalert.org/multimedia/pub/web/241709_web.jpg"
-        width: 1440
-        height: 960
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Syracuse University Researchers Using Artificial Intelligence to Combat Fake News"
     excerpt: "It’s the bane of legitimate news reporters and news organizations. It’s also a political rallying cry. And now, two researchers at Syracuse University’s Newhouse School are working to develop tools to find and combat fake news."

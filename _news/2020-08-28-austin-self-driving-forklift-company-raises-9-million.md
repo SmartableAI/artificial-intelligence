@@ -47,6 +47,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Entropik, Indian Startup That Uses AI To Read User Emotions, Raises Funds"
+    excerpt: "Entropik Tech, a startup that specialises in facial recognition technology to interpret people’s emotion as they watch video and other media, raised $8 million in its fresh funding to strengthen its technology and expand its business."
+    publishedDateTime: 2020-09-01T17:15:00Z
+    webUrl: "https://www.bloombergquint.com/technology/entropik-indian-startup-that-uses-ai-to-read-user-emotions-raises-funds"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 36
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2020-09%2F2c92bb7f-3973-4748-9d46-464c0b3034bb%2F322274447.jpg?rect=0%2C69%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cS9189aVCfYCwbLUwjC7PkDtu4jXI+Ynr5EZ9hRWwzQW6zxFgtnyJbnEw41XGPRzC9rfnw9/WfWduiEJX9iUEIyFO+UFBY6n8vJA9361cC9r1uDCKeXt1jBXjT1NlYxWthjRf1SgphCBZLoLOCmfUk4+4GdLReWxtCAJBMkUID2JEYIp0KkhMbPR5vvcBCze+7Yy87vkXOzCZYZbNWLVp3BLkCbd2IN0ur11lnZpr4Mt7gNLL42ieMh22Kxg+YrZiFXK9OoZbVLeA3nLKlhsjEpczcYU3FcZr+q/qwsd9eJ/HpWp16CL3vO6mTucbbeyrPRTE6VKPmF5es/Z41OhhpdJBLfbvksVUS2LskdMslC/lEZPn1zXABYOiw636r/lZyL/UG0LNSNXWWZupXTsdnNXoEM+tOwd560xtIhH1aewTNx3bNPAh9An05wcR7yo0HArXzkHqlgM1H31kolbFkqblyY2BGAhmzgp6hxvfjp0FzgNAcKwD+n73At2LgvylqIuXEaHUetJE9//Ae49nGRkW6hbCUD6CNfZW2bZxg4=;N4gm7QCta48zbacVbEEimg=="
 ---

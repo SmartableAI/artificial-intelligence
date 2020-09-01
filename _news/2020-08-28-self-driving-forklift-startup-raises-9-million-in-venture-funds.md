@@ -40,6 +40,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Entropik, Indian Startup That Uses AI To Read User Emotions, Raises Funds"
+    excerpt: "Entropik Tech, a startup that specialises in facial recognition technology to interpret people’s emotion as they watch video and other media, raised $8 million in its fresh funding to strengthen its technology and expand its business."
+    publishedDateTime: 2020-09-01T17:15:00Z
+    webUrl: "https://www.bloombergquint.com/technology/entropik-indian-startup-that-uses-ai-to-read-user-emotions-raises-funds"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 36
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2020-09%2F2c92bb7f-3973-4748-9d46-464c0b3034bb%2F322274447.jpg?rect=0%2C69%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Austin self-driving forklift company raises $9 million"
     excerpt: "Austin-based Fox Robotics, which makes self-driving forklifts, has raised $9 million in new funding to help ramp up production as the company looks to"
     publishedDateTime: 2020-08-28T19:58:00Z

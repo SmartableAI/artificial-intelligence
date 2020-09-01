@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2020-08/gsu-gsr082820.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-08/gsu-gsr082820.php"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Using deep learning to study how mental disorders affect the brain"
-    excerpt: "Georgia State University researchers are working to harness deep learning and artificial intelligence to learn more about how mental illness and other disorders affect the brain. Led by Vince Calhoun, Distinguished University Professor of Psychology at ..."
-    publishedDateTime: 2020-08-28T00:00:00Z
-    webUrl: "https://www.news-medical.net/news/20200828/Using-deep-learning-to-study-how-mental-disorders-affect-the-brain.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200828/Using-deep-learning-to-study-how-mental-disorders-affect-the-brain.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200828/Using-deep-learning-to-study-how-mental-disorders-affect-the-brain.aspx"
+  - title: "Researchers use machine learning to tackle food poisoning"
+    excerpt: "Scientists at a university in Scotland have developed a technique which could help to identify the source of food poisoning in a better way than current"
+    publishedDateTime: 2020-08-30T04:00:00Z
+    webUrl: "https://www.foodsafetynews.com/2020/08/researchers-use-machine-learning-to-tackle-food-poisoning/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 74
+      name: Food Safety News
+      domain: foodsafetynews.com
+    quality: 39
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://www.foodsafetynews.com/files/2019/04/dreamstime_campylobacter-pathogen.jpg"
+        width: 882
+        height: 543
+        isCached: true
+  - title: "Syracuse University Researchers Using Artificial Intelligence to Combat Fake News"
+    excerpt: "It’s the bane of legitimate news reporters and news organizations. It’s also a political rallying cry. And now, two researchers at Syracuse University’s Newhouse School are working to develop tools to find and combat fake news."
+    publishedDateTime: 2020-08-28T10:07:00Z
+    webUrl: "https://apnews.com/a804fb762f95e6735bddbb820242a554"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "WQFviBonXSaq7ydqk72LZ/ITCqRPHd6fFD/t2wmTtxOLGKpwmIuthnj3hRUMQPzm/sduFGhsa01yzRQgK/nuZe8AaGJ+pU/eLwI5FwtkqqodJAHZkcw5Ky46XqngnyBi5IszAS1cHgw0PCTT8klivGohH1n8vdrLKt5WukecRaSgahdz0dez1rk5jatTfReGUlQBjY1hK/Cv/fwIs8KFiEqHiF5kLDLblAGWXrTOnZNvScCmfTJj1epbwneP5nQ9QTfYLlDrnQtnjeWALTYq1aASxgpZ5tReqK0iOLubKEL6lkL9y9UB0USkhlHoBgEQJGaIlfpntiqOFb5R//i8XCUESSlHfzSaKHao7+t1Rx0=;5kMjVB9ymct0wxGwD/QEyA=="
