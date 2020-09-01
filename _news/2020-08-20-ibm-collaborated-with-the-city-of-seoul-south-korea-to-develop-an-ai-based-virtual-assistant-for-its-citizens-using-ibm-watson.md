@@ -2,9 +2,9 @@
 category: news
 title: "IBM Collaborated with the City of Seoul, South Korea to Develop an AI-based Virtual Assistant for its Citizens using IBM Watson"
 excerpt: "The virtual assistant, which is hosted on IBM public cloud, is developed with Watson Assistant for virtual agents and uses the enterprise AI search capabilities of IBM Watson Discovery to perform ..."
-publishedDateTime: 2020-08-20T13:27:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-2020-08-20"
-webUrl: "https://www.marketwatch.com/press-release/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-2020-08-20"
+publishedDateTime: 2020-08-20T13:05:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-2020-08-20?tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-2020-08-20?tesla=y"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "87IGQMwQ0wQlw3H31v4Y5Zfqdh7HiqTI93RM3VPe0MT4OGeyUdGy5lfyh1E2U/2/rZxzHwVgCBf691N//eIEMLMout29kcv3g5huuo0hzAF0XMF4VWWlHBe8V+Pss7T+IQDzvDzWUlQyM/jIBZPFzAStKdF7BFdufG1iaq3hQoMjt+RnUR031id/b12YKVKpKPNNKZqt2UDemudCJVNnaWb/5wsw/ybYFqDbmxBW5qnjg3o6xtKzGBLZ187uQPNJ1MX8IlH/2KS6XIEpEUhgt6FGPiMuxIx1ictPCXRZ1AayPIIvfosFpFZF9NnAFmuTuz3oKdgxf8iOteQs4ntpbX2HFKPPffMY1gDdVyfo0nw=;c6l6GV/zENhfcJfSF06/Dw=="
+secured: "D5mC4L6wx7LNsjfUtkyoktP/cJQKNiyWV8RryaSidqzIdJai6O6aojW3T/ZalRAyzwISZZlkI3AMHaMKw3L1D0ll/berXemEDIP1AWa1bWIb59PQy10AFbMHDfM9gYxuhAES0VYixWa4oUZ/0hhVcLkAGUsThHqNIm3mSdNIgbmSY42MDI0OjikpBiuB55sivsAPNCI4Jp1ejam0XZR8I/fskcZV18uBCavFxp7S0bzNJR5kSgIlX2gnJFnqJ6cTGRKaPK1GrB15uL28j68mjk0tWG7WcmzXhNaP+lEhAH9brK/xuSL7bBDTMNt1cY4CEI76p5OlmmWFcszSCZsYTKTYF58yFbA9HnfdDeXLF9w=;jPyAqKffNhSCPvVOnZdoNw=="
 ---
 

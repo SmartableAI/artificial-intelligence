@@ -21,6 +21,52 @@ topics:
   - AI
 
 related:
+  - title: "Elon Musk's Neuralink brain-computer: Watch 'working' demo replay"
+    excerpt: "The brain-computer startup showed off a 'working' device, in pigs, on Friday. You can rewatch the presser here."
+    publishedDateTime: 2020-08-29T02:47:00Z
+    webUrl: "https://www.youtube.com/watch?v=sr8hzF3j2fo"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 167
+    images:
+      - url: "https://i.ytimg.com/vi/sr8hzF3j2fo/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Watch Elon Musk's AI brain chip startup Neuralink debut its massively hyped technology"
+    excerpt: "Elon Musk has consistently hyped up the research, but recent reports suggest the company has been wrestling with internal chaos."
+    publishedDateTime: 2020-08-28T23:00:00Z
+    webUrl: "https://www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f496a247ffa48002894cf87?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Elon Musk Is Finally Revealing Neuralink’s Controversial Brain Chip"
+    excerpt: "Tesla and SpaceX CEO Elon Musk will reveal a major update of his biotech startup Neuralink and demonstrate a “working device” for the company’s hyped brain-machine interface. Neuralink’s technology, the founder claims,"
+    publishedDateTime: 2020-08-28T09:00:00Z
+    webUrl: "https://observer.com/2020/08/elon-musk-reveal-neuralink-brain-chip-implant-ai-friday/"
+    ampWebUrl: "https://observer.com/2020/08/elon-musk-reveal-neuralink-brain-chip-implant-ai-friday/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/08/elon-musk-reveal-neuralink-brain-chip-implant-ai-friday/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 74
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2019/11/franck-v-ykw0jjp7rlu-unsplash-e1573142866469.jpg?quality=80&strip"
+        width: 3411
+        height: 2274
+        isCached: true
   - title: "Artificial intelligence: Elon Musk puts computer chips in animal brains"
     excerpt: "Elon Musk, the founder of the American company Tesla and SpaceX, demonstrated how to connect a computer chip made by his new company ‘Neuralink’ to the animal brain. Elon Musk’s company, Neuralink, has developed a chip in just four years,"
     publishedDateTime: 2020-08-31T09:35:00Z
@@ -69,6 +115,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Elon Musk unveils working Neuralink chip that connects brain directly to computer"
+    excerpt: "Elon Musk has demonstrated a working brain-computer interface that he hopes will allow \"human-AI symbiosis\". During a live event held by his neurotechnology startup Neuralink, Mr Musk showed off a chip that had been implanted directly into a pig's brain."
+    publishedDateTime: 2020-08-28T23:43:00Z
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-neuralink-brain-computer-chip-a9695036.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 49
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/29/00/neuralink-device-implant.jpg"
+        width: 628
+        height: 469
+        isCached: true
   - title: "Elon Musk's Startup Neuralink Demonstrates Computer Implants In A Pig's Brain"
     excerpt: "Elon Musk recently held a video presentation that showed a pig with the Neuralink computer implants. Continue reading to learn details and watch the video."
     publishedDateTime: 2020-08-29T11:50:00Z
@@ -83,19 +143,19 @@ related:
         width: 1242
         height: 710
         isCached: true
-  - title: "Elon Musk’s latest startup wants to implant computer chips inside the human brain"
-    excerpt: "Elon Musk isn’t content with electric cars, shooting people into orbit, populating Mars and building underground tunnels to solve traffic problems. He also wants to get inside your brain."
-    publishedDateTime: 2020-08-29T20:13:00Z
-    webUrl: "https://www.staradvertiser.com/2020/08/29/breaking-news/elon-musks-latest-startup-wants-to-implant-computer-chips-inside-the-human-brain/"
+  - title: "Elon Musk’s Neuralink is ready to demo its progress tonight"
+    excerpt: "If there is one man who believes in utilising the power of microchips and computers to make us think faster, it’s Elon Musk. The tech mogul started one of his more ambitious ventures, Neuralink, a few years ago with the intent purpose of inserting microchips into the brain in an effort to improve human intelligence,"
+    publishedDateTime: 2020-08-28T10:49:00Z
+    webUrl: "https://www.criticalhit.net/technology/elon-musks-neuralink-is-ready-to-demo-its-progress-tonight/"
     type: article
     provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 34
+      name: criticalhit.net
+      domain: criticalhit.net
+    quality: 24
     images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2020/08/web1_10372849-9e392b49320d4cbbbd0f72035a3bde43.jpg"
-        width: 760
-        height: 507
+      - url: "https://i0.wp.com/media.criticalhit.net//2020/08/Neuralink.jpg"
+        width: 800
+        height: 536
         isCached: true
 
 secured: "5NoBJN7nHseq9L8I+vnss6Sd7VGbO0DqL1UGQbsh61qF3pZpzW1Qn9xdkhn7+FL5Hfzs7MgMtnvDXwFQLGv4bmjtJSMwXzmZ5zcsTsWSD4BwFnRHVUt7PWIMrvrorXmte5cChceVsqgXIEOT12xXdAArAja+6L8Fj4oaB2rgerLVbLP1/r3doNCOY7wiBnatuMkyyYDy28fJU6I2bGOM3prVvUxKzp51zTvmH+mVeVNf/ckDAUdjggCW4UtDPMmMVGjcejAZAqPeHRuXuYc5/akdlfgc/vmihakIWkSFQx6Spe248S1iG5XocGMK96a1o8/TN4S/aaOf/3r5U2l1ZLjMBo7u7lkiWUTadS0vj7KK3K80lU8AIrQCbky0hR8Bp840LdMp6x4Sp6elr5l0C/RRCY/yT17ynd2z9XZbyWnKpNm+rOe3EpMF25OhJD1WVB1N7m9T/lBVDN7nwC/XRNRH9PeoAEg5Wibk4dJZ87/Z0QCQB+lGIvolygtgyxdBWVP7tLKifcQtA901WeyB8D8bUTnWP7tbgJIslOxsHEA=;T8dpZm7d96aMCbusfugWZA=="

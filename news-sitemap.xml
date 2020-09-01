@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/frederickdaso/2020/09/01/arize-ai-helps-us-understand-how-ai-works/</loc>
+    <lastmod>2020-09-01T06:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/01/sarcos-robotics-raises-40-million-to-develop-an-exoskeleton-for-industrial-applications/</loc>
+    <lastmod>2020-09-01T06:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/wearable-robot-company-marches-to-big-raise/</loc>
+    <lastmod>2020-09-01T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/trevor-paglen-art-artificial-intelligence-interview-11598963246</loc>
+    <lastmod>2020-09-01T05:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bizjournals.com/pittsburgh/news/2020/09/01/carnegie-robotics-and-nilfisk-partner.html</loc>
+    <lastmod>2020-09-01T05:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/01/salesforce-details-new-ai-powered-products-for-field-service-workers/</loc>
+    <lastmod>2020-09-01T05:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/</loc>
+    <lastmod>2020-09-01T05:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/</loc>
+    <lastmod>2020-09-01T05:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/forbesfinancecouncil/2020/09/01/past-the-ai-hype-when-is-ai-actually-profitable/</loc>
     <lastmod>2020-09-01T04:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -67,6 +115,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://mobile.twitter.com/bradporter_?lang=en</loc>
+    <lastmod>2020-08-31T13:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-august-2020-edition/</loc>
     <lastmod>2020-08-31T13:01:16-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -123,6 +177,18 @@
   <url>
     <loc>https://www.forbes.com/sites/calumchace/2020/08/31/the-impact-of-artificial-intelligence-on-workspaces/</loc>
     <lastmod>2020-08-31T09:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://inside.com/</loc>
+    <lastmod>2020-08-31T08:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/</loc>
+    <lastmod>2020-08-31T08:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -211,12 +277,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/</loc>
-    <lastmod>2020-08-31T04:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/</loc>
     <lastmod>2020-08-31T03:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -229,12 +289,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/</loc>
-    <lastmod>2020-08-31T02:35:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.nbcnews.com/think/opinion/military-ai-vanquishes-human-fighter-pilot-f-16-simulation-how-ncna1238773</loc>
     <lastmod>2020-08-31T01:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -243,6 +297,12 @@
   <url>
     <loc>https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://news.mit.edu/2020/spot-robot-vital-signs-0831</loc>
+    <lastmod>2020-08-30T21:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -313,6 +373,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.youtube.com/watch?v=sr8hzF3j2fo</loc>
+    <lastmod>2020-08-28T19:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://jobs.apple.com/en-us/search?search=%2523aimlresidency&amp;sort=relevance</loc>
     <lastmod>2020-08-28T18:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -321,12 +387,6 @@
   <url>
     <loc>https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/</loc>
     <lastmod>2020-08-28T16:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8</loc>
-    <lastmod>2020-08-28T16:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -733,14 +793,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/</loc>
-    <lastmod>2020-08-26T08:40:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-1029536911</loc>
+    <lastmod>2020-08-26T08:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-301118728.html</loc>
-    <lastmod>2020-08-26T08:33:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/</loc>
+    <lastmod>2020-08-26T08:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1141,8 +1201,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://economictimes.indiatimes.com/tech/internet/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/articleshow/77737035.cms</loc>
-    <lastmod>2020-08-25T00:19:00-07:00</lastmod>
+    <loc>https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174</loc>
+    <lastmod>2020-08-25T00:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1381,6 +1441,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html</loc>
+    <lastmod>2020-08-23T08:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/cognitiveworld/2020/08/23/is-ai-a-force-for-good-interview-with-branka-panic-founder-and-executive-director-at-ai-for-peace/</loc>
     <lastmod>2020-08-23T08:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1419,6 +1485,12 @@
   <url>
     <loc>https://www.forbes.com/sites/jamesmorris/2020/08/22/full-self-driving-cars-are-still-a-long-way-off--heres-why/</loc>
     <lastmod>2020-08-22T02:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-08-22T02:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1813,12 +1885,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-2020-08-20</loc>
-    <lastmod>2020-08-20T06:27:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/</loc>
     <lastmod>2020-08-20T06:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1827,6 +1893,12 @@
   <url>
     <loc>https://www.forbes.com/sites/forbesmarketplace/2020/08/20/this-cto-says-ai-technology-will-accelerate-sustainable-investing-and-create-a-more-equitable-society/</loc>
     <lastmod>2020-08-20T06:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-2020-08-20?tesla=y</loc>
+    <lastmod>2020-08-20T06:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

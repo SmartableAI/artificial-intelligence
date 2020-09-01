@@ -89,20 +89,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 36
-  - title: "Faceoff! UK appellate court finds police use of facial recognition technology contravenes laws"
-    excerpt: "In what has been described as one of the world's first successful legal challenges to police use of facial recognition technology, on Aug. 11 the UK Court of Appeal (Civil Division) found in R. (Bridges) v."
-    publishedDateTime: 2020-08-27T20:36:00Z
-    webUrl: "https://www.canadianlawyermag.com/news/opinion/faceoff-uk-appellate-court-finds-police-use-of-facial-recognition-technology-contravenes-laws/332751"
-    type: article
-    provider:
-      name: Canadian Lawyer Magazine
-      domain: canadianlawyermag.com
-    quality: 27
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0348_637098267027226915.png"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Hartsfield-Jackson plans to test facial recognition, touchless technology in domestic terminal"
     excerpt: "Jackson International Airport plans to expand the use of facial recognition and other technology to reduce touch points amid the coronavirus pandemic."
     publishedDateTime: 2020-08-28T11:55:00Z

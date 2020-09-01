@@ -3,6 +3,7 @@ category: news
 title: "MLops: The rise of machine learning operations"
 excerpt: "Once machine learning models make it to production, they still need updates and monitoring for drift. A team to manage ML operations makes good business sense"
 publishedDateTime: 2020-08-13T10:03:00Z
+originalUrl: "https://www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.html"
 webUrl: "https://www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.html"
 ampWebUrl: "https://www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.amp.html"

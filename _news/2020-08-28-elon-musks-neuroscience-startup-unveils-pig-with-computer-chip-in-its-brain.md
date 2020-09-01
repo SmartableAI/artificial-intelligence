@@ -26,51 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Elon Musk's AI brain chip startup Neuralink debut its massively hyped technology"
-    excerpt: "Elon Musk has consistently hyped up the research, but recent reports suggest the company has been wrestling with internal chaos."
-    publishedDateTime: 2020-08-28T23:00:00Z
-    webUrl: "https://www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8"
-    ampWebUrl: "https://www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8?amp"
+  - title: "Elon Musk unveils ‘Fitbit in your skull’ brain chip, demonstrates on pig"
+    excerpt: "Musk said this could eventually help cure people with conditions like memory loss, hearing loss, paralysis, blindness, brain damage, depression and anxiety."
+    publishedDateTime: 2020-08-30T21:48:00Z
+    webUrl: "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/"
+    ampWebUrl: "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/amp/"
+    cdnAmpWebUrl: "https://kfor-com.cdn.ampproject.org/c/s/kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
+      name: Oklahoma's News
+      domain: kfor.com
+    quality: 73
     images:
-      - url: "https://i.insider.com/5f496a247ffa48002894cf87?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Elon Musk Is Finally Revealing Neuralink’s Controversial Brain Chip"
-    excerpt: "Tesla and SpaceX CEO Elon Musk will reveal a major update of his biotech startup Neuralink and demonstrate a “working device” for the company’s hyped brain-machine interface. Neuralink’s technology, the founder claims,"
-    publishedDateTime: 2020-08-28T09:00:00Z
-    webUrl: "https://observer.com/2020/08/elon-musk-reveal-neuralink-brain-chip-implant-ai-friday/"
-    ampWebUrl: "https://observer.com/2020/08/elon-musk-reveal-neuralink-brain-chip-implant-ai-friday/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/08/elon-musk-reveal-neuralink-brain-chip-implant-ai-friday/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 74
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2019/11/franck-v-ykw0jjp7rlu-unsplash-e1573142866469.jpg?quality=80&strip"
-        width: 3411
-        height: 2274
-        isCached: true
-  - title: "Elon Musk unveils working Neuralink chip that connects brain directly to computer"
-    excerpt: "Elon Musk has demonstrated a working brain-computer interface that he hopes will allow \"human-AI symbiosis\". During a live event held by his neurotechnology startup Neuralink, Mr Musk showed off a chip that had been implanted directly into a pig's brain."
-    publishedDateTime: 2020-08-28T23:43:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-neuralink-brain-computer-chip-a9695036.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 49
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/29/00/neuralink-device-implant.jpg"
-        width: 628
-        height: 469
+      - url: "https://kfor.com/wp-content/uploads/sites/3/2020/08/gertrude-pig.jpg"
+        width: 716
+        height: 397
         isCached: true
 
 secured: "6Xrtr22i/twVAOMOsimPrGKYbvMhNj/iBELGHwKJ8wtIBJ+h6naqIcWipG3VT8uPuoPSlK0Q28Og7nIi09OSoNzplCoA58wwVmeOoK7q4SxtBgvijpWf9CG4twec15OVPMVbOFqQVs+jsSr5HxN4K2VDYFPQN/d2IX80hN7zlqFKnBKic+l2VMO30RZ4r9tNd4MiU9/+48cyB8+7XFITPl3h7ttSfRBl+hz4hkQ/3iTuRKQKsAKO7ojkWfc+1zDAtUv38HjMwfF6cAInK/PfYTjAnu9g+2GCDRTCa9uZmieJ2W5wY7CrDulZFItrkZJahrIr1rWcLFtBznn6+qVXazNORp+x4NyqyVayeisExiw=;z6/H6996CuSmJTbtXLuFxw=="
