@@ -9,7 +9,7 @@ ampWebUrl: "https://www.komando.com/technology/microsoft-word-transcription-feat
 cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/microsoft-word-transcription-feature/751580/?amp"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Microsoft Adds Voice Features To Office 365"
-    excerpt: "Microsoft is adding transcription and dictation coice-command functionality to Office 365 for web, which it says will allow users to spend less time and energy on time-consuming work. Using the Azure Cognitive Services AI platform,"
-    publishedDateTime: 2020-08-28T03:42:00Z
-    webUrl: "https://www.smarthouse.com.au/microsoft-adds-voice-features-to-office-365/"
-    type: article
-    provider:
-      name: SmartHouse
-      domain: smarthouse.com.au
-    quality: 39
-    images:
-      - url: "https://www.smarthouse.com.au/wp-content/uploads/2020/08/CLO20_microsoftForStartups_Ghana_039-8-25-BANNER-1200x600-1.png"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "FOjSkjsDInMo4Id0NaH7R73zcQcoG8iRJOm3UWnJgYcGRBQRW0J1hWgL6Piwdx/9in4aebMADJAgqJjp8xpE/yIM8sbhShbOL8bvQEEhpLsEb3KTA6sLKvHGtfATGC6UHB5CFS/qMHM09SRLpUDnlqKqxmHJnr97E1sY4QYo3aniEmqiqgfnvXILX24A6jT2t/nsk3vqhv8wTghoYcVTGVqipBiJyLYstdDaIvLIwB3DEDnNFKA+eRpfn3R0vWuJd4lT0oT6rDTun7V0tAVYNNBpTPAZXH2vO4qimDLzrQ35krWIg8VXcMbcYn28IPpWKQf3celDjIiGf1OS85Dgz/Mc9r6zXf1lNwricoyiebo3cuqyxD6VihO8fE4ndfJL2J8m9ZP/FhZrpO+BGlRYwG2eOyN+Byk3xlSkKdVX/L11+iBhK2KwaM2oMh7P6FDu/67APsObY5RhoeUvJnW8ZcIgiMOn5MIZkF9BUdk6mkZfmrYGCQgoSBbyj93saYD5Aq5oGWQrL0BhImzikISFZweSGn5DyScWNspSirCodfo=;lDB4mVYmGxlbu+eSkpai7Q=="
 ---

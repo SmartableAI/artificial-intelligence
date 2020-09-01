@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-15-ponicode-raises-34-million-to-develop-ai-that-automates-code-testing.md",
+      "title": "Ponicode raises $3.4 million to develop AI that automates code testing",
+      "excerpt": "Ponicode raised $3.4 million for its artificial intelligence platform that checks the accuracy of code to save developers from a time-consuming task.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/ponicode-raises-3-4-million-to-develop-ai-that-automates-code-testing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Ponicode-3-e1594748004462.png?w=1200&#038;strip=all",
+          "width": 1024,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/ponicode-raises-3-4-million-to-develop-ai-that-automates-code-testing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/ponicode-raises-3-4-million-to-develop-ai-that-automates-code-testing/amp/",
+      "publishedDateTime": "2020-07-14T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-how-facebook-is-combining-augmented-reality-and-ai.md",
       "title": "How Facebook Is Combining Augmented Reality and AI",
       "excerpt": "further explained to the audience that the AI technology for Facebook's AR platform is a “revolution in computer vision” and the culmination of research that can be traced back to the 1990s. To recognize people and objects Facebook's AI leverages a ...",

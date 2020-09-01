@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Facebook AI
 
 images:
   - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-facebook-NYU-fast-mri-study.jpg"

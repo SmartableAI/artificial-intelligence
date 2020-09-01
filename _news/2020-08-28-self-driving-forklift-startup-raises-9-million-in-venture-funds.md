@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startup FlowView raises new funds"
-    excerpt: "FlowView Tek, a startup business spun off from Taiwan's government-sponsored Industrial Technology Research Institute (ITRI), has attracted investments from Taiwan's National Development Fund and Japan-based Sumitomo."
-    publishedDateTime: 2020-08-28T03:37:00Z
-    webUrl: "https://www.digitimes.com/news/a20200827PD205.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200827PD205_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Entropik, Indian Startup That Uses AI To Read User Emotions, Raises Funds"
     excerpt: "Entropik Tech, a startup that specialises in facial recognition technology to interpret people’s emotion as they watch video and other media, raised $8 million in its fresh funding to strengthen its technology and expand its business."
     publishedDateTime: 2020-09-01T17:15:00Z

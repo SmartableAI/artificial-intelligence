@@ -2,6 +2,96 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-08-27-acto-raises-115-million-to-bolster-life-sciences-sales-with-ai.md",
+      "title": "ACTO raises $11.5 million to bolster life sciences sales with AI",
+      "excerpt": "ACTO, a startup using AI-powered mobile experiences to educate stakeholders in life sciences, today closed an $11.5 million funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/",
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/amp/",
+      "publishedDateTime": "2020-08-27T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-fox-robotics-raises-9m-for-self-driving-forklifts.md",
+      "title": "Fox Robotics Raises $9M For Self-driving Forklifts",
+      "excerpt": "PRNewswire/ -- Austin-based Fox Robotics is announcing the close of a $9 million Series A led by Menlo Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921",
+      "publishedDateTime": "2020-08-27T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring.md",
       "title": "ProteanTecs raises $45 million to apply AI to chip design and performance monitoring",
       "excerpt": "Startup ProteanTecs raised $45 million to further develop its AI chip design platform, bringing its total raised to nearly $100 million.",
@@ -1047,97 +1137,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-microsofts-immersive-reader-for-azure-cognitive-services-is-now-available.md",
-      "title": "Microsoft’s Immersive Reader for Azure Cognitive Services Is Now Available",
-      "excerpt": "Immersive Reader is now generally available for Azure Cognitive Services following a significant increase in usage of the preview.",
-      "sourceUrl": null,
-      "webUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/",
-      "originalUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/",
-      "featuredContent": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2020/05/Translate-Microsoft-Edge-Immersive-Reader.jpg",
-          "width": 741,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp",
-      "publishedDateTime": "2020-08-26T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech.md",
-      "title": "Robotaxi Startup Voyage Loads Self-Driving Vans With Coronavirus-Killing Tech",
-      "excerpt": "The self-driving company that provides ride services for senior citizens is outfitting autonomous minivans with an ultraviolet lighting system adapted from ambulances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4593b29dbfd756e943c850%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/amp/",
-      "publishedDateTime": "2020-08-26T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

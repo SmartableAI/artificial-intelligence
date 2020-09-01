@@ -43,6 +43,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "TSA Is Testing Facial Recognition Checkpoints"
+    excerpt: "The Transportation Security Administration is starting to use facial recognition, at least on a trial basis. On Tuesday the agency announced that it has begun a pilot of a \"self-service\" checkpoint at the Ronald Reagan Washington National Airport in Washington,"
+    publishedDateTime: 2020-09-01T20:56:00Z
+    webUrl: "https://www.cntraveler.com/story/tsa-is-testing-facial-recognition-checkpoints"
+    ampWebUrl: "https://www.cntraveler.com/story/tsa-is-testing-facial-recognition-checkpoints/amp"
+    cdnAmpWebUrl: "https://www-cntraveler-com.cdn.ampproject.org/c/s/www.cntraveler.com/story/tsa-is-testing-facial-recognition-checkpoints/amp"
+    type: article
+    provider:
+      name: Condé Nast Traveler
+      domain: cntraveler.com
+    quality: 59
+    images:
+      - url: "https://media.cntraveler.com/photos/5f4e90c2b7e21e3517060817/master/pass/GettyImages-1227887112.jpg"
+        width: 4032
+        height: 2268
+        isCached: true
   - title: "China’s universities are reopening with facial recognition, shower bookings"
     excerpt: "BEIJING – As COVID-19 cases in China sink to new lows, the world’s largest population of university students is heading back to campus in a migration defined by lockdowns, patriotic"
     publishedDateTime: 2020-08-31T07:31:00Z

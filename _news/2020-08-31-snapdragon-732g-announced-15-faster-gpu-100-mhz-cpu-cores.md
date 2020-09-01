@@ -9,7 +9,7 @@ ampWebUrl: "https://m.gsmarena.com/snapdragon_732g_announced_s730g_with_15_faste
 cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/snapdragon_732g_announced_s730g_with_15_faster_gpu_01_ghz_boost_to_big_cpu_cores-amp-45019.php"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1220
     height: 526
     isCached: true
+
+related:
+  - title: "Qualcomm announces Snapdragon 732G with 100 MHz CPU cores, 15% faster GPU"
+    excerpt: "It is in fact a gaming upgrade over the 730G, as it also provides a 15% graphics processing boost with support for true HDR. The two Kyro 470 processors featured in the 732G have clock speeds of 2.3 GHz,"
+    publishedDateTime: 2020-09-01T21:45:00Z
+    webUrl: "https://www.techjuice.pk/qualcomm-announces-snapdragon-732g-with-100-mhz-cpu-cores-15-faster-gpu/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 38
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/09/qualcomm.jpg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "c9KCbemBERLbah4yKw4uNPfVh9pcu4TjsE6vmGfGzrS/jJvaKTkQWvvjVZ2YVUqJy0UhyCksEtVsbM4gktCEQdqohvMMaunDSEJyczExBXYPlwfcjFWTQLDrhGiSRfyvIbU7l5R/HnbFePD0GvVI/hWZ0LUCFm3WfMnAbEe42sL6LGOSF+LobAyRzjsdqzYNgw4SE1DJ8Lr/WUmm0N+LMixyP6PSB8H+ZAxnt5r6cFVjFm1Wn9tvOPELx1n1+s38+Q2H7cjO5rbCKXSe2UCAdcoRhq6f7SkqsQtcbZqHh8l5+umirUqrBXOO7I50NuW0otPnmhqtdzkdLunn6LGMBtHYbGQMqTyAW9FI9EXOiB6mktpF8tjSjKV0G26vhAeDQ+P2wKL5tDhSC/9zxROAXtu88rcR5uLhNb549ufw0b0Q3PYGBVJBtX/7jFtHxSTs2IAOYQWw7cbMG/1EGbfN9OHoZGgyLsqwvTQOznoy/lsgovxU18jtrrFxHh9mzi9eUgvWQpGyCjPcSglQzzOim0L9OLn4AT4eT4k7lttr4+Q=;HuMJO47i5KnjKhE2CjvOZA=="
 ---

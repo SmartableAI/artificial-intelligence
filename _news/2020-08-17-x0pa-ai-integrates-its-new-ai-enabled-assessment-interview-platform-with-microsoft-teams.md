@@ -3,6 +3,7 @@ category: news
 title: "X0PA AI integrates its new AI-enabled assessment & interview platform with Microsoft Teams"
 excerpt: "X0PA ROOM is a video, audio, and text enabled assessment andinterviewing platform with advanced AI built on Microsoft Azure SINGAPORE - Media OutReach - 17 August 2020 - X0PA AI announces the integration of X0PA ROOM,"
 publishedDateTime: 2020-08-17T08:00:00Z
+originalUrl: "https://www.asiaone.com/business/x0pa-ai-integrates-its-new-ai-enabled-assessment-interview-platform-microsoft-teams"
 webUrl: "https://www.asiaone.com/business/x0pa-ai-integrates-its-new-ai-enabled-assessment-interview-platform-microsoft-teams"
 ampWebUrl: "https://www.asiaone.com/business/x0pa-ai-integrates-its-new-ai-enabled-assessment-interview-platform-microsoft-teams?amp"
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/x0pa-ai-integrates-its-new-ai-enabled-assessment-interview-platform-microsoft-teams?amp"

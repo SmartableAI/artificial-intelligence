@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.wsj.com/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924</loc>
+    <lastmod>2020-09-01T14:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.pcmag.com/news/who-are-the-biggest-attention-hogs-on-cable-news-ask-this-new-ai-tool</loc>
+    <lastmod>2020-09-01T13:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/</loc>
     <lastmod>2020-09-01T12:29:03-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -103,8 +115,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/09/01/salesforce-details-new-ai-powered-products-for-field-service-workers/</loc>
-    <lastmod>2020-09-01T05:10:00-07:00</lastmod>
+    <loc>https://techcrunch.com/2020/09/01/salesforce-beefing-up-field-service-offering-with-ai/</loc>
+    <lastmod>2020-09-01T05:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -999,6 +1011,12 @@
   <url>
     <loc>https://www.bloomberg.com/news/articles/2020-08-26/china-still-buying-300-billion-of-chips-from-u-s-elsewhere</loc>
     <lastmod>2020-08-26T01:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://apnews.com/8b323e803837e85372f987447c3481b0</loc>
+    <lastmod>2020-08-26T01:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3657,6 +3675,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/amazon-forecast-can-now-use-convolutional-neural-networks-cnns-to-train-forecasting-models-up-to-2x-faster-with-up-to-30-higher-accuracy/</loc>
     <lastmod>2020-08-11T14:04:50-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.sciencedaily.com/releases/2020/08/200811125049.htm</loc>
+    <lastmod>2020-08-11T13:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

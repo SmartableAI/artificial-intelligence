@@ -38,20 +38,6 @@ related:
         width: 679
         height: 635
         isCached: true
-  - title: "Startup FlowView raises new funds"
-    excerpt: "FlowView Tek, a startup business spun off from Taiwan's government-sponsored Industrial Technology Research Institute (ITRI), has attracted investments from Taiwan's National Development Fund and Japan-based Sumitomo."
-    publishedDateTime: 2020-08-28T03:37:00Z
-    webUrl: "https://www.digitimes.com/news/a20200827PD205.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200827PD205_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Austin self-driving forklift company raises $9 million"
     excerpt: "Austin-based Fox Robotics, which makes self-driving forklifts, has raised $9 million in new funding to help ramp up production as the company looks to"
     publishedDateTime: 2020-08-28T19:58:00Z
