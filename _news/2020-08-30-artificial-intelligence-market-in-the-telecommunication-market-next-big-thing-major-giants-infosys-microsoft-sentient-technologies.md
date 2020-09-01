@@ -23,22 +23,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Machine Learning & Big Data Analytics Education Market Next Big Thing | Major Giants IBM, Cognizant, Microsoft"
-    excerpt: "Global Machine Learning & Big Data Analytics Education Market 2019-2025. A detailed study accumulated to offer Latest insights about acute features of the COVID-19 Outbreak- Machine Learning & Big Data Analytics Education market."
-    publishedDateTime: 2020-08-27T14:59:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266145560/machine-learning--big-data-analytics-education-market-next-big-thing--major-giants-ibm-cognizant-microsoft"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 4
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1598489822378.jpg"
-        width: 630
-        height: 420
-        isCached: true
-
 secured: "PHR/woPA8L6WzddbODGu4kuhp0J7zq5VQ2QOmFlbcJAZJwIQ0trq7LxD5OnT9OugBq8RrtSIj/oUI5CC0pE8rOTxFH4FdLxeYWK1HQwBYymo0MPLCvOpH7oJ4Rh6dz49tE4i2XfucG7SFSoIa+4jM0OIT2I0Lev4ltZxSgYAH8RCzE3+iY7hHY8a3RqBPsuJ4KV0W8f1G9tw5fzglsfyuSPcrZ4cjsHIdoqS5p1wyLwh6kluCwsCzZfyYZjf14abkQ2Eyf9loceDsBAmxfbjkB68j73Ie4v5xlS0JNve8O94Kx5sJwVSxt838vrFQKQBKJY1E+8Cn+63NAtxMxE1fhBhvT9tDKfYZjJo3Wq1Kao=;woz62z6FzMN0KxDUagvgpQ=="
 ---
 

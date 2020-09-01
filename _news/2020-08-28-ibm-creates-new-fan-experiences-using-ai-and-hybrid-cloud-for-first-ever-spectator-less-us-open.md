@@ -1,28 +1,22 @@
 ---
 category: news
 title: "IBM Creates New Fan Experiences using AI and Hybrid Cloud for First-Ever Spectator-less US Open"
-excerpt: "IBM, the digital partner of the United States Tennis Association (USTA) for 29 years, announced today innovative new fan experiences"
-publishedDateTime: 2020-08-28T14:40:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open-301120402.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open-301120402.html"
+excerpt: "IBM and USTA bring tournament to life with virtual sports debates and hyper-relevant match insights using IBM Watson ... fan experiences leveraging artificial intelligence (AI) underpinned ..."
+publishedDateTime: 2020-08-28T10:40:00Z
+originalUrl: "https://www.nasdaq.com/press-release/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator"
+webUrl: "https://www.nasdaq.com/press-release/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator"
 type: article
-quality: 27
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://www.multivu.com/players/English/8668652-ibm-creates-new-ai-fan-experiences-for-us-open/video/Video2_1598535242394-HR.jpg"
-    width: 640
-    height: 360
-    isCached: true
 
 related:
   - title: "US Open won't have spectators, but it will have IBM's AI and hybrid cloud"
@@ -42,6 +36,6 @@ related:
         height: 675
         isCached: true
 
-secured: "z0B4aTu8ChjngiMQuWJdhy2nIlzV5qvMPeXXO6VVXqQJsKfAvRbKJ6t/xBL/mTEssrL43QekBunSBd1EEKg/+Veg3JJKLa118WMQEtM0HZ8s5hvmNCw90rwVLd23UGYS3y35fMjEm5gyK6z1SmsvW+1Hm9ksso+g70ivGggT65/WdMJW6tT6rSAF6WJKhLXXVXmiOOqg/wnLao4/G2xnwXUau/AOngKbyIQQOEhX7PsGqEDMoXAn6B5HI+YVlR7en+aNc3ieH6UHIFwU7RPJj8XKy/I+TixUNkH2kF6LJREb/5gXUYbLmbsKT3SwDB6YCnnvUoug9Pdxe6WPkMvwgS/Z3n2SN+2dNty3joEC7fY=;SO87/Kb9JUIvxO7xoYHHXw=="
+secured: "zMXawNDSuvpwN4MOUcSOz+Dy4yz3hb7Zlw2JzJ8JdjFl94ZwiehV8yUNzOfokXpq+C2vlhj51cQbvqMQqzrMBL3R6GJexQthTaiSbgBcg6FVjdvMIKD543a/sxCHgHfToVR7M2h6nw7HfPgnAxhfdFPhMVXbjQ+TQUudJZK4EGXbR3n3glnSNb/V1F4+vS7SMXElX8I6g6SUX8bhhvc6/TaayATFuIb6WajdNEW/bg5LEvnZgjG91Bo72DNbCACB2wq8m/J/ldSDxxXo8juiA69szGj62VpTmg3DdxQR/kmnx2x/CS/thGRzD/q+cYHezqMc/s7jKEChaF6zEdMDcLBoF74YaHpAm0E4yDZ32z4=;nTL++bEppwCat0gVhCtz0w=="
 ---
 

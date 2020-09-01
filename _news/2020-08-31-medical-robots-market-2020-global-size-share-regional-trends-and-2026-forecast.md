@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Manufacturing Market Trends, Size, Forecast - 2019-2025"
-    excerpt: "The global artificial intelligence AI in manufacturing market was valued at USD 1 312 million in 2018 and expected to grow at a CAGR of 33 5 during the forecast period 2019 2025 AI is making its way towards the"
-    publishedDateTime: 2020-08-27T14:54:00Z
-    webUrl: "https://www.openpr.com/news/2122982/global-artificial-intelligence-ai-in-manufacturing-market"
-    ampWebUrl: "https://www.openpr.com/amp/2122982/global-artificial-intelligence-ai-in-manufacturing-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2122982/global-artificial-intelligence-ai-in-manufacturing-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 62
-    images:
-      - url: "https://cdn.openpr.com/T/8/T827885637_g.jpg"
-        width: 477
-        height: 346
-        isCached: true
   - title: "Artificial Intelligence Market Insights By Size, Share, Future Growth And Forecast From 2020-2025"
     excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected to reach USD 191.60 billion by 2025, growing at a CAGR of 36.68% over the forecast period."
     publishedDateTime: 2020-08-31T12:59:00Z
@@ -54,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Security Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 – 2025"
+    excerpt: "Artificial intelligence in cyber security will increase efficiency and precision of the system to observe any potential threat in organization's system. Organizations increasing their horizon to completely different geographies are generating voluminous data to realize insights and are using analysis techniques to enhance their product offerings."
+    publishedDateTime: 2020-09-01T07:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2025-2020-09-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

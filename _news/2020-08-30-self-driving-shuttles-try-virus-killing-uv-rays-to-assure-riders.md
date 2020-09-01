@@ -41,21 +41,7 @@ related:
         width: 650
         height: 370
         isCached: true
-  - title: "Self-driving shuttles try virus-killing UV rays in U.S."
-    excerpt: "A pair of self-driving car startups are offering a solution to commuters shunning shared transportation in the midst of a pandemic: ultraviolet rays. Voyage and May Mobility, two autonomous-vehicle companies that charge riders to go on simple,"
-    publishedDateTime: 2020-08-27T14:34:00Z
-    webUrl: "https://europe.autonews.com/automakers/self-driving-shuttles-try-virus-killing-uv-rays-us"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/voyage.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
-secured: "VtCMmNVfKQx1SFkRyj4DOnLq7Q/g+y4NwMC0ySIsGL/x9TIilrL6EnBxMDYEicmcUfJV7FBSaybaj2v2G/3BxnrWZjGFKcSuUJJOYUnCmykccAffhDjBcyUdRBYxbS1gKiWpfM+IVfNk+nCjoFvBW1Hi8fDkMyv9RWDZOS6dnwQhBgTuRXci4pKvQXqC9ubcr9cUEUjmFDTPi5igjXAI0KcSSVBVOX219PeRuTnT7XKgXNBK3H55MNG0gGomZQ/RDzUkwyggneCtKqdLVfT+Wssl+QoDJR+O9KazPuZhPDBR3vqilmfwPv0D6qlCgynXaZSluk3qVrmp4pwAU8koMX1QqrtkcijNMqhRS0uKSNo=;sQcbLFbuY76PczJjrKmL+A=="
+secured: "StP7IvpwrLiRXeEGDB2h6sp7kmufsPR66jDAWDVupvZ56qM5EfYTgoA26sR15klWXiIso5dyH0hQ2wUd9M34npqGIZrDhkHZLu3cXIjdTmeWhP0S3brMtViMTfmj4bSQyw2Ki8lW3aEk6T50413qLq36LuxgWfnJRLeHFdkrGHYsN/tLRAg0YkuxeI+HSCe+iQSoRbM41WqIaC1xC+mFPdhE85zXTz/YqJ0aYB+97Jwmw3UnuoqWkWgIhAW9fzC4o2mqva8PzAK1VvNbCuurWoYbrXvIZ7HIa2O4KgGN8Waq3vVnes4E1lC+t/EDyF3WSfqbR1o2afmtu6FcOt4iqaP9qrElPZEMs30JqTi8IZCAYfwCqNUfsbtFsQ45OxYm5uOKUhtb5BFCqferIwarrQ2VPbw5cDVXUYmlV1v5GP2jH3bBiPgykxvSQTEjPvdFXpnXA3abOIJtX7YI1QEsdKHos8zTFV5du6n0VRZgtGjNHaaCTUmCHEx6oY1GKUtFGmt+bjlavIN2beq4BjCU4fprAkt8Ps56LcZ/sKfZ6AM=;P/FuHCtGMQwexVsSVCvCfg=="
 ---
 

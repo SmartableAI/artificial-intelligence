@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-software-market-survey-report-2020-along-with-statistics-forecasts-till-2026-2020-08-28"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "World Markets for Artificial Intelligence (AI) in Diagnostics, 2026F"
-    excerpt: "The \"Global Artificial Intelligence in Diagnostics Market By Diagnosis Type (Radiology, Oncology, Neurology, Cardiology, Chest &"
-    publishedDateTime: 2020-08-27T13:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/world-markets-for-artificial-intelligence-ai-in-diagnostics-2026f-301119724.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
 
 secured: "QHgVvHuZX1mXiG8ekX+yC/qQ/4OT8LWP/u0JhjvLuxU1Vmz73FRwcJUeINQTZ2LXCX/FNHRHYwkrkLaxZYkOja/FPpvrj4xB6wjQHNhtMem5TdrmjBlohJYQm1ivRtq6dCS3Co4ogXkf33pLAgkbuBBwHn4xgQlLTOCb6o4dU61bwRBMTB1oVxdcy2Cnnpqo5ocfvvwTFglj81MtWMTBfA2ModgIB6lD2+TkC1/9hxLbAQzlWKTlGzS1aPKhfGM9mfjl9aMOFmONxOgRu1ua2Jnk8xKL4Sp4a4IMpN+Hq8i4luB8/rTaqr1G/TuRzDw0spF0fDuU52py1WnPfMAr8mNvL0GqQBxPiWlks7c2ca0=;/C+6/G5gzgRIlBZXanBQQQ=="
 ---
