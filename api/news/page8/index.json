@@ -2,6 +2,300 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-08-25-ai-vs-human-fighter-pilot-heres-who-won-the-epic-dogfight.md",
+      "title": "AI vs. Human Fighter Pilot: Here's Who Won the Epic Dogfight",
+      "excerpt": "The dogfight is part of a DARPA-led effort to develop AI for fighter planes. The AI won an important string of victories but robotic air combat still has a ways to go. An artificial intelligence claimed victory over several other AIs in simulated dogfights and then went on to trounce a real human Air Force pilot,",
+      "sourceUrl": null,
+      "webUrl": "https://www.popularmechanics.com/military/aviation/a33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/",
+      "originalUrl": "https://www.popularmechanics.com/military/aviation/a33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/",
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-08-25-at-8-14-56-am-1598357785.png?crop=0.981xw:0.895xh;0.00321xw,0&resize=1200:*",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/",
+      "cdnAmpWebUrl": "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/",
+      "publishedDateTime": "2020-08-25T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Mechanics",
+        "domain": "popularmechanics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-baidu-launches-robotaxi-service-boosts-self-driving-presence.md",
+      "title": "Baidu Launches Robotaxi Service, Boosts Self Driving Presence",
+      "excerpt": "BIDU is leaving no stone unturned to bolster presence in the autonomous driving space. The company recently revealed that the Apollo Go Robotaxi service is now available in the city of Cangzhou, which is in Hebei province near Beijing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-launches-robotaxi-service-boosts-self-driving-presence-2020-08-25",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-launches-robotaxi-service-boosts-self-driving-presence-2020-08-25",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-launches-robotaxi-service-boosts-self-driving-presence-2020-08-25?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-launches-robotaxi-service-boosts-self-driving-presence-2020-08-25?amp",
+      "publishedDateTime": "2020-08-25T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-how-to-fight-online-fraud-with-ai.md",
+      "title": "How to fight online fraud with AI",
+      "excerpt": "Uri Rivner, co-founder and chief cyber officer at BioCatch, talks with Tonya Hall how we can utilize AI to combat online fraud by learning the criminal's patterns and combining the right mix of human judgement and AI automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/how-to-fight-online-fraud-with-ai/",
+      "originalUrl": "https://www.zdnet.com/video/how-to-fight-online-fraud-with-ai/",
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/08/25/c8c0aed7-ba86-4f2f-8943-1beb66d86140/thumbnail/770x578/1615942b02537e011067174cdaa99e7c/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-bbva-uncovers-the-promise-of-quantum-computing-for-banking-and-financial-services.md",
+      "title": "BBVA Uncovers The Promise Of Quantum Computing For Banking And Financial Services",
+      "excerpt": "Will quantum computing drive financial services to a new level of digital transformation? BBVA has been investigating its impact on complex banking, investment and trading challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/08/25/bbva-uncovers-the-promise-of-quantum-computing-for-banking-and-financial-services/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2020/08/25/bbva-uncovers-the-promise-of-quantum-computing-for-banking-and-financial-services/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4483a57c5b9c6ac1645776%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade.md",
+      "title": "Roombas robot vacuums getting artificial intelligence software upgrade",
+      "excerpt": "Robot announced the largest software upgrade for its robot vacuum cleaner, Roomba, in the company’s 30-year history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/",
+      "originalUrl": "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wkbn.com/wp-content/uploads/sites/48/2020/08/roomba.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/amp/",
+      "cdnAmpWebUrl": "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/amp/",
+      "publishedDateTime": "2020-08-25T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKBN",
+        "domain": "wkbn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-michigan-movie-theaters-make-plea-to-reopen-before-its-too-late.md",
+      "title": "Michigan movie theaters make plea to reopen before its too late",
+      "excerpt": "While moviegoers across the globe are watching the $200-million Hollywood blockbuster \"Tenet\" in limited capacity theaters, Michigan moviegoers are watching \"Jaws\" at pop-up drive-ins, or nothing at all.",
+      "sourceUrl": null,
+      "webUrl": "https://www.everalbum.com/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-a-dogfight-renews-concerns-about-ais-lethal-potential.md",
+      "title": "A Dogfight Renews Concerns About AI's Lethal Potential",
+      "excerpt": "Alphabet's DeepMind pioneered reinforcement learning. A California company used it to create an algorithm that defeated an F-16 pilot in a simulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/",
+      "originalUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/",
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f4437bbc83d017a112ec55f/master/pass/business_f16_927284852.jpg",
+          "width": 2400,
+          "height": 1602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dogfight-renews-concerns-ai-lethal-potential/amp",
+      "publishedDateTime": "2020-08-25T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-what-healthcare-can-learn-from-fintechs-digital-evolution.md",
       "title": "What Healthcare Can Learn From Fintech’s Digital Evolution",
       "excerpt": "The digital disruption of the banking industry offers helpful comparisons and takeaways for the future of healthcare and healthcare finance.",
@@ -384,32 +678,32 @@
     },
     {
       "path": "_news/2020-08-25-microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service.md",
-      "title": "Microsoft introduces Hindi, Indian English to Neural Text-to-Speech service",
-      "excerpt": "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech Microsoft India has announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set,",
+      "title": "Microsoft introduces Hindi, Indian English to Neural Text-to- Speech service",
+      "excerpt": "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech for a more natural interface. The service also provides customizable voices, fine-tuned auto control, and flexible deployment from cloud to edge,",
       "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174",
-      "originalUrl": "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174",
+      "webUrl": "https://economictimes.indiatimes.com/tech/internet/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/articleshow/77737035.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/internet/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/articleshow/77737035.cms",
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_1179149585.jpg",
-          "width": 660,
-          "height": 440,
+          "url": "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-920722,msid-77820417/what-is-qanon-and-how-are-social-media-sites-handling-it.jpg",
+          "width": 412,
+          "height": 255,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-25T00:31:00-07:00",
+      "ampWebUrl": "https://m.economictimes.com/tech/internet/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp_articleshow/77737035.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/internet/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp_articleshow/77737035.cms",
+      "publishedDateTime": "2020-08-25T00:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
+        "name": "India Times",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -834,319 +1128,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-african-manufacturing-ai-firm-dataprophet-raises-6m.md",
-      "title": "African Manufacturing AI Firm DataProphet Raises $6m",
-      "excerpt": "DataProphet, an award-winning AI for manufacturing company based in South Africa, has raised a $6m funding round for international expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/",
-      "originalUrl": "https://www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43fd4f709d5fe8c76b6c73%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/amp/",
-      "publishedDateTime": "2020-08-24T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app.md",
-      "title": "Ever, once accused of building facial recognition tech using customer data, shuts down consumer app",
-      "excerpt": "Cloud photo storage app Ever is shutting down, citing increased competition with the default services offered by Apple and Google as the cause. The company, however, had other issues beyond the plight of a small startup trying to compete with tech giants.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/",
-      "originalUrl": "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/",
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/09/everalbum.png?w=1024",
-          "width": 1024,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/amp/",
-      "publishedDateTime": "2020-08-24T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000.md",
-      "title": "SINTRONES Edge AI GPU Computing Solution enabling flexibility: EBOX-7000",
-      "excerpt": "It is expandable with Nvidia Tesla Card, Nvidia GPU card, Nvme card, image capture card and I/O card. Furthermore, EBOX-7000 can be used in edge AI enhancements, intelligent video analytics AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0",
-      "originalUrl": "https://www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
-          "width": 299,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0?amp",
-      "publishedDateTime": "2020-08-24T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-how-microsofts-analytics-strategy-might-evolve-with-a-tiktok-buy.md",
-      "title": "How Microsoft’s Analytics Strategy Might Evolve With a TikTok Buy",
-      "excerpt": "And while Windows is still around, Google's runaway success with its Google Analytics platform, combined with its domination in online search, made Bing a far distant second place choice for consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/how-microsofts-analytics-strategy-might-evolve-with-a-tiktok-buy/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/how-microsofts-analytics-strategy-might-evolve-with-a-tiktok-buy/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/6d55894afd3d41d6a3b931e6380855f6.ashx",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery.md",
-      "title": "IDTechEx Research Details Opportunities and Challenges of Artificial Intelligence in Robotic Surgery",
-      "excerpt": "The rapid progress of artificial intelligence (AI) technologies in the last 5-10 years has led many to associate it with robotic surgery systems. Currently, however, few robotic surgery systems are equipped with AI-driven human-robot interaction capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471",
-      "publishedDateTime": "2020-08-24T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-microsofts-ai-for-health-supports-covid-19-vaccine-development.md",
-      "title": "Microsoft's AI for Health supports COVID-19 vaccine development",
-      "excerpt": "Given the global urgency of the COVID-19 pandemic, Microsoft's AI for Health program has stepped in to support the development and potential deployment of Vaxine's COVAX-19 vaccine with a philanthropic grant.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.html",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/2-microsoftsai.jpg",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.amp",
-      "publishedDateTime": "2020-08-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024.md",
-      "title": "Cloud Natural Language Processing Market Research Key Players, Industry Overview, Supply Chain and Analysis to 2024",
-      "excerpt": "Selbyville, Delaware Global Cloud Natural Language Processing Market Report added at Market Study Report LLC provides industry size, share, growth, trends and forecast analysis up to period. Cloud Natural Language Processing Market Report also covers top key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024-2020-08-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024-2020-08-24",
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

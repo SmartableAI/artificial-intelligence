@@ -2,6 +2,195 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-29-artificial-intelligence-is-the-next-top-gun.md",
+      "title": "Artificial Intelligence Is the Next Top Gun",
+      "excerpt": "We were both skeptical that the artificial intelligence program that would be piloting one of the virtual aircraft would be able to outfight the human pilot, call sign “Banger,” from the Air Force's equivalent of the Navy’s legendary TOPGUN fighter-tactics instruction program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun",
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRjdmh0OUMWc/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun",
+      "publishedDateTime": "2020-08-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-robot-boats-leave-autonomous-cars-in-their-wake.md",
+      "title": "Robot Boats Leave Autonomous Cars in Their Wake",
+      "excerpt": "Driverless ships don’t have to worry about crowded roads. And they don’t need bunks—or toilets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
+      "originalUrl": "https://www.wsj.com/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-226255/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
+      "publishedDateTime": "2020-08-29T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-stocks-start-september-in-high-gear-as-apple-and-tesla-split-and-markets-await-the-august-jobs-report.md",
+      "title": "Stocks start September in high gear as Apple and Tesla split, and markets await the August jobs report",
+      "excerpt": "Stocks could start the historically weak month of September on an upswing, after what is so far the best August for the S&P 500 since 1986.",
+      "sourceUrl": null,
+      "webUrl": "https://jobs.apple.com/en-us/search?search=%23aimlresidency&sort=relevance",
+      "originalUrl": "https://www.cnbc.com/2020/08/28/stocks-start-september-in-high-gear-as-apple-and-tesla-split-and-markets-await-the-august-jobs-report.html",
+      "featuredContent": null,
+      "heat": 131,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-28T18:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-take-a-closer-look-at-elon-musks-neuralink-surgical-robot.md",
+      "title": "Take a closer look at Elon Musk’s Neuralink surgical robot",
+      "excerpt": "While the science was front-and-center in Elon Musk’s presentation about Neuralink, his human brain computer inference company, the surgical robot the company debuted made a splash of its own. The rounded polycarbonate sci-fi design of the brain surgeon bot looks like something out of the",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/",
+      "originalUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/early-digital-sketches-of-the-robot.jpg?w=600",
+          "width": 600,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/",
+      "publishedDateTime": "2020-08-28T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-watch-elon-musks-ai-brain-chip-startup-neuralink-debut-its-massively-hyped-technology.md",
       "title": "Watch Elon Musk's AI brain chip startup Neuralink debut its massively hyped technology",
       "excerpt": "Elon Musk has consistently hyped up the research, but recent reports suggest the company has been wrestling with internal chaos.",
@@ -997,187 +1186,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-uber-expands-self-driving-safety-report-after-ntsb-slams-culture.md",
-      "title": "Uber Expands Self-Driving Safety Report After NTSB Slams Culture",
-      "excerpt": "Uber Technologies Inc. vowed to make public more safety information regarding its self-driving cars after the National Transportation Safety Board placed partial blame for a fatal 2018 crash on the company’s policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyGf4FGe5VZ4/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
-      "publishedDateTime": "2020-08-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei.md",
-      "title": "TSMC announces its first 3nm AI chip customer – neither Apple nor Huawei",
-      "excerpt": "At TSMC’s 26th Technical Symposium, TSMC officially confirmed that its 5nm and 6nm processes are already in mass production. In addition, the company also announced that",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/",
-      "originalUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/",
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2020/08/colossus-b.jpg",
-          "width": 678,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/amp/",
-      "publishedDateTime": "2020-08-28T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-ai-jesus-will-help-you-embrace-the-apocalypse.md",
-      "title": "AI Jesus will help you embrace the apocalypse",
-      "excerpt": "The neural network spat out some baffling verses after studying the King James Bible In yet another sign that the end of the world is nigh, an AI Jesus has arisen with a new set of apocalyptic biblical verses.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/28/ai-jesus-will-help-you-embrace-the-apocalypse/",
-      "originalUrl": "https://thenextweb.com/neural/2020/08/28/ai-jesus-will-help-you-embrace-the-apocalypse/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-27T133838.454-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/28/ai-jesus-will-help-you-embrace-the-apocalypse/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/28/ai-jesus-will-help-you-embrace-the-apocalypse/amp/",
-      "publishedDateTime": "2020-08-28T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-apple-announces-new-ai-and-machine-learning-residency-program.md",
-      "title": "Apple Announces New AI and Machine Learning Residency Program",
-      "excerpt": "Apple's Machine Learning Reseach group has launched a new residency program inviting experts in various fields to apply their expertise to",
-      "sourceUrl": null,
-      "webUrl": "https://www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency-program/",
-      "originalUrl": "https://www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency-program/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.macrumors.com/t/s5F1Hgsit73B2FLQ9skCyODczOs=/1600x/https://images.macrumors.com/article-new/2020/08/jobs-1000-2fea582e89736fb64dce4527cce9dbd4.jpg",
-          "width": 1600,
-          "height": 1237,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency-program/amp/",
-      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/08/28/apple-announces-ai-ml-residency-program/amp/",
-      "publishedDateTime": "2020-08-28T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacRumors",
-        "domain": "macrumors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

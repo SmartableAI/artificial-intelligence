@@ -44,16 +44,14 @@ related:
         height: 428
         isCached: true
   - title: "MediaTek unveils chip for premium 4G gaming smartphones"
-    excerpt: "Taiwanese fabless semiconductor company MediaTek on Tuesday launched a new gaming-focused chipset for premium 4G smartphones."
-    publishedDateTime: 2020-09-01T05:17:00Z
-    webUrl: "https://www.sify.com/finance/mediatek-unveils-chip-for-premium-4g-gaming-smartphones-news-topnews-ujbfkDgagajgc.html"
-    ampWebUrl: "https://www.sify.com/finance/mediatek-unveils-chip-for-premium-4g-gaming-smartphones-news-topnews-ujbfkDgagajgc.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/mediatek-unveils-chip-for-premium-4g-gaming-smartphones-news-topnews-ujbfkDgagajgc.html"
+    excerpt: "The chip offers an AI Super Resolution' display for superior video calling and video streaming on various platforms like Netflix, Hotstar and Amazon Prime. It can support video qualities ranging ..."
+    publishedDateTime: 2020-09-01T10:58:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200901/3619261.html"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "nkeqcgPp30/oZEQVNMIsynidQlVEAG7m4tJCLFIwDirymmI9FndIu3wZEVlD9AYsqH7DQ2wEZeuQlGF2xGV88m1XLnhhXLuzr+MsnHmKdawkGl0iAHPa19TLbGoHXYe/ErzoCtHO+OMZ7uSsvwGzxTK8fL5Z+2XMAIsOqtNUIWge3Jr74TGDRccE+hQ5bbytpP01jShoLhwMybQL/Z2v1vh54SHttfwXFiVIzRyOVMOCwKCsNAHt/sBDaKX5BhBnPh8neWx8PxLgT3hr0PdfE+XCwP6XtyNdk2GeJkBune0jrxo+2YR3n1T+dkP0qX3/JupWAImUjVnEC30WEDBkL18ZYaHXq3mzHpAcz1TOB11ihKRx6cKcs0yNfd4oiyHCIVNmmLqshC5IdSQNTxwDEFVEaNFfmQxOy711wMhyP45hWWOQYGmju8R5XyKhEI4drlTmBrskxdDhdxqg/E/yF+PPmkWhhlK48ZblQ4F3oW/wyKBoC9wrQXp2f1iIFwRcZ2jHFILXsT1X8QeCdukaog==;VI4NUl58+s5DGUk9gekcPw=="
 ---

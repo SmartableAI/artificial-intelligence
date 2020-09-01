@@ -2,6 +2,47 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-21-in-economic-speech-biden-blasts-trumps-handling-of-the-pandemic.md",
+      "title": "In economic speech, Biden blasts Trump's handling of the pandemic",
+      "excerpt": "Mayor Keisha Lance Bottoms: The Atlanta mayor’s name recognition has soared as her fight with Georgia Gov. Brian Kemp goes to the courts. This week, Kemp signed an order forbidding municipal officials from declaring mask-wearing orders — and sued Lance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/blog/meet-press-blog-latest-news-analysis-data-driving-political-discussion-n988541/ncrd1234513",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2019_45/3089171/191107-meet-the-press-liveblog-cs-129p_9a02b422cbd06ceb3b377ce04b8d0e08.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/blog/ncna988541",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna988541",
+      "publishedDateTime": "2020-07-21T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-leaders-from-google-adobe-and-more-talk-benefits-and-bias-at-the-conversational-ai-summit.md",
       "title": "Leaders from Google, Adobe, and more talk benefits and bias at the Conversational AI Summit",
       "excerpt": "An AI-based catalog ordering system for ... it does not recognize how to appropriately translate gender in gendered languages; and some very gender-biased source material, including the Bible ...",
@@ -1388,56 +1429,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-google-signs-up-verizon-for-its-ai-powered-contact-center-services.md",
-      "title": "Google signs up Verizon for its AI-powered contact center services",
-      "excerpt": "“Instead of telling people, ‘well, ‘here’s our natural language processing tools, here is speech recognition, here is text-to-speech and speech-to-text — and why don’t you just write a ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/13/google-signs-up-verizon-for-its-ai-powered-contact-center-services/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1184345208.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/13/google-signs-up-verizon-for-its-ai-powered-contact-center-services/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/13/google-signs-up-verizon-for-its-ai-powered-contact-center-services/amp/",
-      "publishedDateTime": "2020-07-13T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

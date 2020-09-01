@@ -2,6 +2,425 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-07-14-new-end-to-end-platform-uses-ai-and-distributed-tracing-to-secure-cloud-native-apps.md",
+      "title": "New end-to-end platform uses AI and distributed tracing to secure cloud-native apps",
+      "excerpt": "With $20M in series A funding from Unusual Ventures, Traceable protects apps from growing cyberattacks. Traceable, a new end-to end application security monitoring platform, launched on Tuesday with $20 million in series A funding. Financed by Unusual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/new-end-to-end-platform-uses-ai-and-distributed-tracing-to-secure-cloud-native-apps/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/05/27/7ce25759-713a-4629-97e8-ffd12ed38563/resize/1200x/00165140829cc6c11ff89c0186ec0366/istock-847491272.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-end-to-end-platform-uses-ai-and-distributed-tracing-to-secure-cloud-native-apps/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-end-to-end-platform-uses-ai-and-distributed-tracing-to-secure-cloud-native-apps/",
+      "publishedDateTime": "2020-07-14T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-traceable-raises-20-million-for-ai-system-that-shields-cloud-app-apis-from-cyberattacks.md",
+      "title": "Traceable raises $20 million for AI system that shields cloud app APIs from cyberattacks",
+      "excerpt": "Traceable, a startup cofounded by former AppDynamics CEO Jyoti Bansal, has raised $20 million for its platform that protects cloud APIs from cyberattacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/traceable-raises-20-million-for-ai-system-that-shields-cloud-app-apis-from-cyberattacks/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/traceable-raises-20-million-for-ai-system-that-shields-cloud-app-apis-from-cyberattacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/traceable-raises-20-million-for-ai-system-that-shields-cloud-app-apis-from-cyberattacks/amp/",
+      "publishedDateTime": "2020-07-14T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-bigquery-omni-pulls-google-aws-and-azure-analytics-into-one-ui.md",
+      "title": "BigQuery Omni pulls Google, AWS, and Azure analytics into one UI",
+      "excerpt": "Google has launched an early version of BigQuery Omni, it’s new analytics tool that lets users access and view data across Google Cloud and Amazon Web Services without leaving the Big Query UI. Powered by Google Anthos,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/data-insights/sql/356444/bigquery-omni-pulls-google-aws-and-azure-analytics-into-one-ui",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1594727792/itpro/BigQuery_Omni_google_press.png",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/data-insights/sql/356444/bigquery-omni-pulls-google-aws-and-azure-analytics-into-one-ui?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/sql/356444/bigquery-omni-pulls-google-aws-and-azure-analytics-into-one-ui?amp",
+      "publishedDateTime": "2020-07-14T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-worldwide-natural-language-processing-industry-to-2024-strategic-growth-opportunities.md",
+      "title": "Worldwide Natural Language Processing Industry to 2024 - Strategic Growth Opportunities",
+      "excerpt": "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/worldwide-natural-language-processing-industry-to-2024---strategic-growth-opportunities-301092946.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-auckland-based-photo-software-startup-narrative-raises-258-million-led-by-founders-fund.md",
+      "title": "Auckland-based photo software startup Narrative raises $2.58 million led by Founders Fund",
+      "excerpt": "For many freelance photographers, marketing their businesses and editing photos takes as much time, if not much more, than photoshoots. Founded in 2017, Auckland-based Narrative helps professional photographers with tools including a website builder and Narrative Select,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/14/auckland-based-photo-software-startup-narrative-raises-2-58-million-led-by-founders-fund/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-627080844.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/14/auckland-based-photo-software-startup-narrative-raises-2-58-million-led-by-founders-fund/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/14/auckland-based-photo-software-startup-narrative-raises-2-58-million-led-by-founders-fund/amp/",
+      "publishedDateTime": "2020-07-14T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-seebo-raises-9-million-for-ai-tools-that-spot-and-fix-manufacturing-inefficiencies.md",
+      "title": "Seebo raises $9 million for AI tools that spot and fix manufacturing inefficiencies",
+      "excerpt": "And Microsoft itself provides Azure Digital Twins and Project Bonsai ... and applying process-based AI to predict and help prevent issues that drive scrap and rework. Seebo accounts for production ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/seebo-raises-9-million-for-ai-tools-that-spot-and-fix-manufacturing-inefficiencies/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/b0d69bbe-6c80-4f0d-993b-0e57dc0a5909-e1594077034984.png?w=1200&#038;strip=all",
+          "width": 1180,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/seebo-raises-9-million-for-ai-tools-that-spot-and-fix-manufacturing-inefficiencies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/seebo-raises-9-million-for-ai-tools-that-spot-and-fix-manufacturing-inefficiencies/amp/",
+      "publishedDateTime": "2020-07-14T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-google-cloud-announces-bigquery-omni-multicloud-analytics-solution.md",
+      "title": "Google Cloud announces BigQuery Omni multicloud analytics solution",
+      "excerpt": "The platform allows users to directly access data across Google Cloud, AWS and Azure without having to move or copy datasets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/google-cloud-announces-bigquery-omni-multicloud-analytics-solution/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/13/471d3e68-41c0-421f-9dfe-07cf9015f603/resize/1200x/8139636760652dafe5a73109a9871561/google.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/google-cloud-announces-bigquery-omni-multicloud-analytics-solution/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-cloud-announces-bigquery-omni-multicloud-analytics-solution/",
+      "publishedDateTime": "2020-07-14T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-getting-started-with-ai-software.md",
+      "title": "Getting Started With AI Software",
+      "excerpt": "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/resources/205772/getting-started-with-ai-software",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/cio/CIO_logo_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-grant-imahara-dies-former-mythbusters-white-rabbit-project-host-was-49.md",
+      "title": "Grant Imahara Dies: Former ‘MythBusters’ & ‘White Rabbit Project’ Host Was 49",
+      "excerpt": "Grant Imahara, a former MythBusters and White Rabbit Project host who earlier worked as a modelmaker for Industrial Light + Magic, died Monday of a a brain aneurysm.",
+      "sourceUrl": null,
+      "webUrl": "https://deadline.com/2020/07/grant-imahara-dead-former-mythbusters-white-rabbit-project-host-was-49-1202984987/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pmcdeadline2.files.wordpress.com/2020/07/grant-imahara-crop.jpg?w=1024",
+          "width": 1024,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://deadline.com/2020/07/grant-imahara-dead-former-mythbusters-white-rabbit-project-host-was-49-1202984987/amp/",
+      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/07/grant-imahara-dead-former-mythbusters-white-rabbit-project-host-was-49-1202984987/amp/",
+      "publishedDateTime": "2020-07-14T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deadline.com",
+        "domain": "deadline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai.md",
       "title": "Pricefx raises $65 million to optimize product and service pricing with AI",
       "excerpt": "Pricefx, a startup developing product and service pricing optimization software, has raised $65 million in venture capital.",
@@ -733,415 +1152,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-australian-federal-police-emails-reveal-how-it-used-facial-recognition-app-clearview-ai.md",
-      "title": "Australian Federal Police Emails Reveal How it Used Facial Recognition App Clearview AI",
-      "excerpt": "New documents, revealed to the ABC, show how AFP officers had been using Clearview AI since November 2019, despite the agency's initial denial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/content/uploads/sites/2/2020/02/police.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/",
-      "publishedDateTime": "2020-07-13T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year.md",
-      "title": "Axilion Smart Mobility recognized as the finalist of Azure - AI and Machine Learning 2020 Microsoft Partner of the Year",
-      "excerpt": "Azure's robust infrastructure and scale empower ... Global Partner of the Year 2020 in AI & Machine Learning Mr. Aharon Aharon, CEO, Israel Innovation Authority said: \"The computerization of ...",
-      "sourceUrl": null,
-      "webUrl": "https://br.advfn.com/noticias/PRNUS/2020/artigo/82853378",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ADVFN",
-        "domain": "advfn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-microsoft-makes-major-cuts-to-msn-editorial-team-amid-ai-shift-and-broader-fiscal-year-end-layoffs.md",
-      "title": "Microsoft makes major cuts to MSN editorial team amid AI shift and broader fiscal year-end layoffs",
-      "excerpt": "Microsoft is further cutting back its MSN team amid a controversial shift to automation and AI for content decisions previously left to human editors. After previously eliminating dozens of",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Milan-Italy-August-212302504-630x421.jpg",
-          "width": 630,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/amp/",
-      "publishedDateTime": "2020-07-13T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people.md",
-      "title": "Carnegie Mellon’s robotic painter is a step toward AI that can learn art techniques by watching people",
-      "excerpt": "In a newly published research paper, Carnegie Mellon researchers propose a robotic painter that learns from human demonstrations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/13/carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screenshot252032_photos_v2_x2201_photos_v2_x2-e1594676869134.png?w=1200&#038;strip=all",
-          "width": 1144,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/13/carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people/amp/",
-      "publishedDateTime": "2020-07-13T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-todays-ai-productization-challenges-demand-domain-specific-architectures.md",
-      "title": "Today’s AI productization challenges demand domain specific architectures",
-      "excerpt": "Most newly emerging AI chips have strong horsepower engines, but fail to pump the data fast enough due to these three inefficiencies. Let’s zoom into what DSA really means for AI inference.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/13/todays-ai-productization-challenges-demand-domain-specific-architectures/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/computer-chip.GettyImages-1091383908.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/13/todays-ai-productization-challenges-demand-domain-specific-architectures/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/todays-ai-productization-challenges-demand-domain-specific-architectures/amp/",
-      "publishedDateTime": "2020-07-13T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-salesforce-chief-scientist-richard-socher-leaves-to-start-his-own-company.md",
-      "title": "Salesforce chief scientist Richard Socher leaves to start his own company",
-      "excerpt": "Take the latest VB Survey to share how your company is implementing AI today. Richard Socher today ... scientist at Salesforce to create his own startup company. During four years as chief ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/13/richard-socher-leaves-salesforce-to-start-his-own-company/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/richard-socher-salesforce-bloomberg.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/13/richard-socher-leaves-salesforce-to-start-his-own-company/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/richard-socher-leaves-salesforce-to-start-his-own-company/amp/",
-      "publishedDateTime": "2020-07-13T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-microsofts-ai-generates-voices-that-sing-in-chinese-and-english.md",
-      "title": "Microsoft’s AI generates voices that sing in Chinese and English",
-      "excerpt": "In a paper, researchers at Microsoft detail an AI system that can generate singing voices by training on publicly available data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/13/microsofts-ai-generates-voices-that-sing-in-chinese-and-english/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/01/music-e1594663971833.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/13/microsofts-ai-generates-voices-that-sing-in-chinese-and-english/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/microsofts-ai-generates-voices-that-sing-in-chinese-and-english/amp/",
-      "publishedDateTime": "2020-07-13T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-artificial-intelligence-predicts-which-planetary-systems-will-survive.md",
-      "title": "Artificial intelligence predicts which planetary systems will survive",
-      "excerpt": "Why don't planets collide more often? How do planetary systems—like our solar system or multi-planet systems around other stars—organize themselves? Of all of the possible ways planets could orbit, how many configurations will remain stable over the billions of years of a star's life cycle?",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-07-artificial-intelligence-planetary-survive.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/37-artificialin.jpg",
-          "width": 1152,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-07-artificial-intelligence-planetary-survive.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-artificial-intelligence-planetary-survive.amp",
-      "publishedDateTime": "2020-07-13T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-build-a-work-from-home-posture-tracker-with-aws-deeplens-and-gluoncv.md",
-      "title": "Build a work-from-home posture tracker with AWS DeepLens and GluonCV",
-      "excerpt": "Working from home can be a big change to your ergonomic setup, which can make it hard for you to keep a healthy posture and take frequent breaks throughout the day. To help you maintain good posture and have fun with machine learning (ML) in the process, this post shows you how to build a […]",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-work-from-home-posture-tracker-with-aws-deeplens-and-gluoncv/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/18/wfh-posture-tracker-015.jpg",
-          "width": 1000,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T11:40:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

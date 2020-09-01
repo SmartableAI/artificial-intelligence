@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-06-google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit.md",
+      "title": "Google adds Digital Ink Recognition API for touch and stylus input to ML Kit",
+      "excerpt": "Google introduced a new API for touch and stylus input to ML Kit, its machine learning development toolkit for Android and iOS.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/amp/",
+      "publishedDateTime": "2020-08-06T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Google AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-mcafee-finds-security-flaws-in-internal-mechanics-of-facial-recognition-models.md",
       "title": "McAfee finds security flaws in internal mechanics of facial recognition models",
       "excerpt": "Adversarial machine learning needs to become an integral part when rolling out applications, chief scientist says",
@@ -1353,56 +1405,6 @@
         "AI Hardware",
         "Computer Vision",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-advertima-rings-up-175m-for-computer-vision-powered-behavioral-analytics-for-in-store-retail.md",
-      "title": "Advertima rings up $17.5M for computer vision-powered behavioral analytics for in-store retail",
-      "excerpt": "Swiss computer vision startup Advertima has raised a €15 million Series A (~$17.5 million) to build out a machine learning platform for physical retail stores to ‘upgrade’ the shopping experience via real-time shopper behavior analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/28/advertima-rings-up-17-5m-for-computer-vision-powered-behavioral-analytics-for-in-store-retail/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Screenshot-2020-07-28-at-12.54.36.png?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/28/advertima-rings-up-17-5m-for-computer-vision-powered-behavioral-analytics-for-in-store-retail/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/28/advertima-rings-up-17-5m-for-computer-vision-powered-behavioral-analytics-for-in-store-retail/amp/",
-      "publishedDateTime": "2020-07-28T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

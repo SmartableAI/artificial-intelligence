@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/forbesfinancecouncil/2020/09/01/past-the-ai-hype-when-is-ai-actually-profitable/</loc>
+    <lastmod>2020-09-01T04:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/01/symbolism-versus-connectionism-in-ai-is-there-a-third-way/</loc>
+    <lastmod>2020-09-01T04:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/09/01/a-notorious-gpt-3-generated-blog-shows-ai-still-cant-imitate-human-writing-syndication/</loc>
+    <lastmod>2020-09-01T03:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.theatlantic.com/politics/archive/2020/09/read-hillary-rodham-clintons-womens-rights-speech/615733/</loc>
     <lastmod>2020-09-01T02:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -69,6 +87,12 @@
   <url>
     <loc>https://www.techrepublic.com/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/</loc>
     <lastmod>2020-08-31T10:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/japan/2020/08/31/japanese-companies-guiding-robots-into-the-future/</loc>
+    <lastmod>2020-08-31T10:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -631,8 +655,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://semiengineering.com/the-evolution-of-high-level-synthesis/</loc>
+    <lastmod>2020-08-27T00:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/</loc>
     <lastmod>2020-08-26T19:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://mashable.com/video/amazon-rekognition-adds-fear/</loc>
+    <lastmod>2020-08-26T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -699,6 +735,12 @@
   <url>
     <loc>https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/</loc>
     <lastmod>2020-08-26T08:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-301118728.html</loc>
+    <lastmod>2020-08-26T08:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1099,8 +1141,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174</loc>
-    <lastmod>2020-08-25T00:31:00-07:00</lastmod>
+    <loc>https://economictimes.indiatimes.com/tech/internet/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/articleshow/77737035.cms</loc>
+    <lastmod>2020-08-25T00:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1513,8 +1555,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/mobius-logic-brings-drone-flight-management-to-microsoft-azure-1029524393</loc>
-    <lastmod>2020-08-21T08:15:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure</loc>
+    <lastmod>2020-08-21T08:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2281,6 +2323,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com</loc>
+    <lastmod>2020-08-18T06:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/</loc>
     <lastmod>2020-08-18T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2319,12 +2367,6 @@
   <url>
     <loc>https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html</loc>
     <lastmod>2020-08-18T06:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging</loc>
-    <lastmod>2020-08-18T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2601,6 +2643,12 @@
   <url>
     <loc>https://www.dqindia.com/data-lakes-vs-data-warehouses-common-arguments/</loc>
     <lastmod>2020-08-16T22:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://sbr.com.sg/hr-education/more-news/dbs-amazon-web-services-upskill-staff-ai-and-ml-skills</loc>
+    <lastmod>2020-08-16T21:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2912,6 +2960,12 @@
   </url>
   <url>
     <loc>https://www.consumeraffairs.com/amazon-and-kindle-news</loc>
+    <lastmod>2020-08-13T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bbc.co.uk/news/business-53218719?intlink_from_url=&amp;link_location=live-reporting-story</loc>
     <lastmod>2020-08-13T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
