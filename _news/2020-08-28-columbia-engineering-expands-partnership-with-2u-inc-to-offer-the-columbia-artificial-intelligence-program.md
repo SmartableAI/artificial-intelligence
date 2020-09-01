@@ -37,20 +37,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
-  - title: "Columbia Engineering Expands Partnership with 2U, Inc. to Offer the Columbia Artificial Intelligence Program"
-    excerpt: "PRNewswire/ -- 2U, Inc. (Nasdaq: TWOU) and Columbia Engineering today announced an expanded partnership to deliver the Columbia Artificial Intelligence Program, a rigorous online executive curriculum designed to advance the next generation of technology leaders."
-    publishedDateTime: 2020-08-27T13:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/795da0140c2d71a6fa374253011517ed"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "svJjP+/OvoCZGteaeqgnJ3srDmZRPjPP6MrWNOnCEQR8P8xI3qyySF3BNgSS4l1vRKJowkeuZR61hasoUDLBkyAskCdE5+Vmt125x1rUx06Y+rv9W2ouNk/SHh09gZGK5p+bn642I8r7vVDQB4f/8+bexbOh/RWYT6AWNpR4xsKFTA+6yzHbUvyRh9B+Ch/mVThgTCqEIBinNH94UJxHaMSWxrOtRBXZOR8s3rxm6enYsg1TJAqzLMCxSgKmT0A6c/p1S/FzecVJUqn8wnxRyYrQA3T5bSpCPyVVT6vd0V/hqTSuDc0GKhxsCzIVX8+KLk0HcOImEko0kxR1d/lWMhrwnpSLn9c3SR45kA+1Wbc=;YJH9csBQWFSr4X782aoGGA=="
 ---

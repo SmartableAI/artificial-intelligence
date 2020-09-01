@@ -2,6 +2,106 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-08-24-three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation.md",
+      "title": "Three Tips To Help Pharmacy Leaders Ensure A Successful Digital Transformation",
+      "excerpt": "Pharmacy — specifically hospital pharmacy— is a key area where digital transformation can have a significant impact.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/24/three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/24/three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation/",
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4004bd6e43a4ee11b150ca%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/24/three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/08/24/three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation/amp/",
+      "publishedDateTime": "2020-08-24T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland.md",
+      "title": "Proptech And Fintech Providers Fight To Become Real Estate Market Leaders In Switzerland",
+      "excerpt": "New technologies and their frequent use during the first half of 2020 have shown the real estate sector more ways to conduct business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/",
+      "originalUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/",
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3ffe1b04d29513305c226a%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/amp/",
+      "publishedDateTime": "2020-08-24T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-artificial-intelligence-in-the-medical-imaging-market-new-technologies-and-developments-2020-2026.md",
       "title": "Artificial Intelligence in the Medical Imaging Market New Technologies and Developments 2020-2026",
       "excerpt": "MarketIntelligenceData report, titled Global Artificial Intelligence in the Medical Imaging Market Size and Forecast to 2025 presents a comprehensive take on the overall market. Analysts have carefully evaluated the milestones achieved by the global Artificial Intelligence in the Medical Imaging market and the current trends that are likely to shape its future.",
@@ -1046,105 +1146,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-22-an-ai-breaks-the-writing-barrier.md",
-      "title": "An AI Breaks the Writing Barrier",
-      "excerpt": "A new system called GPT-3 is shocking experts with its ability to use and understand language as well as human beings do",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/an-ai-breaks-the-writing-barrier-11598068862",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-223389/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/an-ai-breaks-the-writing-barrier-11598068862",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/an-ai-breaks-the-writing-barrier-11598068862",
-      "publishedDateTime": "2020-08-21T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-22-environmental-sustainability-and-ai.md",
-      "title": "Environmental Sustainability And AI",
-      "excerpt": "AI can contribute to your company's carbon footprint or if managed well, help reduce the impact your company has on the environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3c7a3ef99cba8bd510dbc9%2F0x0.jpg",
-          "width": 660,
-          "height": 572,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/amp/",
-      "publishedDateTime": "2020-08-21T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

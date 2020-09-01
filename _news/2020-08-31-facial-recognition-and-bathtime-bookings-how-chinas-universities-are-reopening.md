@@ -2,9 +2,9 @@
 category: news
 title: "Facial recognition and bathtime bookings: How China's universities are reopening"
 excerpt: "As COVID-19 cases in China sink to new lows, the world's largest population of university students is heading back to campus in a migration defined by lockdowns, patriotic education and cutting-edge surveillance equipment."
-publishedDateTime: 2020-08-31T07:54:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-china-students/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening-idUSKBN25R0UW"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-china-students/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening-idUSKBN25R0UW"
+publishedDateTime: 2020-08-31T12:35:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN25R0UW"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0UW"
 type: article
@@ -57,6 +57,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 16
 
-secured: "5Mk3YlW2DJ4daEjAnXnTzBfs0+1PBhIdDLQslxpnShS/VGpzlplxEdGEOkx2EAW7NsP0mRIt1a8eRF97m4gklo0ZOKnHgpC4cEy4NbK55U8wu/MFauvbR35QdUyMVYYvScgeSZhOHmoQ9SADIqpzN2kTDjU6SLs0LnyGGFH2M1BQdOmHbkH+msTJU4aCbbWL3mYDaApz+Jg1H+/kPOp49vvAhbrxEq1qzlxWGzKbF85vgkSAQM6dMlfscEq6IJnhDVa10xAG9OQGDFGYKtZ1cMse3xDvLSITGVImTbQ1QetfYna2uYQvu4vTCQ/SWYjDboWsz5JBVqNto7NZU2nBK2iS33oPdOSXvN0dABhBHrk=;ep5YE3pKwB8OyzBGI8OErQ=="
+secured: "jc5aLLkirDp2t3dS0lI/7gUlyaPkXYTu0PYYRNiTHJ+oW0T9tzrhcJ+7gH7Ta2UCbrrCGomVEQIa8Bpx9ok0jwfD0nhDRTvvRlE/o48qCoPpA1gNkZmNn32wCzgpvb/1Lo7fFio6xbXSx621lJx++1uQ2+ZIdqmhwyM+hslmFyNSkYHCazmq4lckOJkCicx2ilAJIQLvyQuo6nKdnDuoiT7QGdSxzcOg4442LScFLz+Hd+ctKZHQaji3qsbyGcQg1La3n+jDzy8iY/Cmv4GEgOnWd2J17pApuyleQ8GKOJJDkS+jNqF8EENS/tUZQdFCU/lS6Z7ZnakaSHmZ9Y9L53wPPfLONBq9krGcAwXJJJs=;ct0jJLiv1mElrdoP1CZQ7Q=="
 ---
 

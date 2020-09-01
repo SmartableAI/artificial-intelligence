@@ -28,33 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning as a Service (MLaaS) Market Growth Probability, Key Vendors and Future Scenario Up To 2027"
-    excerpt: "According to the study carried out by Acumen Research & Consulting, The Machine Learning as a Service (MLaaS) Market is projected to grow at noteworthy growing CAGR over the forecast period 2020 to 2027."
-    publishedDateTime: 2020-08-27T11:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-growth-probability-key-vendors-and-future-scenario-up-to-2027-2020-08-27"
+  - title: "Medical Robots Market | 2020 Global Size, Share, Regional trends and 2026 Forecast"
+    excerpt: "The Global Medical Robots Market is likely to expand in the coming years due to advancements made in embedded systems. According to a report by Fortune Business Insights, titled “Medical Robots Market Size”,"
+    publishedDateTime: 2020-08-31T11:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/medical-robots-market-2020-global-size-share-regional-trends-and-2026-forecast-2020-08-26?tesla=y"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market Size, Status and Growing Opportunity 2020 to 2027"
-    excerpt: "According to the study carried out by Acumen Research & Consulting, The Natural Language Processing (NLP) Market is projected to grow at noteworthy growing CAGR over the forecast period 2020 to 2027."
-    publishedDateTime: 2020-08-28T13:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-status-and-growing-opportunity-2020-to-2027-2020-08-28"
+  - title: "Global Artificial Intelligence (AI) in Manufacturing Market Trends, Size, Forecast - 2019-2025"
+    excerpt: "The global artificial intelligence AI in manufacturing market was valued at USD 1 312 million in 2018 and expected to grow at a CAGR of 33 5 during the forecast period 2019 2025 AI is making its way towards the"
+    publishedDateTime: 2020-08-27T14:54:00Z
+    webUrl: "https://www.openpr.com/news/2122982/global-artificial-intelligence-ai-in-manufacturing-market"
+    ampWebUrl: "https://www.openpr.com/amp/2122982/global-artificial-intelligence-ai-in-manufacturing-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2122982/global-artificial-intelligence-ai-in-manufacturing-market"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+      name: openpr.com
+      domain: openpr.com
+    quality: 62
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/T/8/T827885637_g.jpg"
+        width: 477
+        height: 346
         isCached: true
 
 secured: "ICS2AgiY4Ayo+5PX2o/WbkM+3T/ihSqmdh9d9GPxJvJbjhvI09UVM+wvdDYCExEQhwLQUyMNqftbI64W1u7W1QtqERLqaTqTN4x7FdD520gtNlCT5fDhf7qM5Syl5lq0zIZb2Sg6JPIWzjb0imFYxiv/jJip5QyRE+FA09i/t0cf1S3eC0bGyuQQG/Z+YVKBkvWx2xED47iXlNogAoEoCM4ucfmHHJeM+aL4RDABlXptx3ptNfQZGuShaV0l+R3p1XOwng7udMsJX57XqnSu54OEjYQg4M5nxxtzdExKc8ccWdPa5gxVLmuDlT6P2+6euEVNnwlYDEny6zNrS0o66jzaNijWcYh4EZ1huN8LnYI=;vHKrUD6HI7DEH0GuzmP+BQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.poandpo.com/agrifish/british-research-institute-tests-wo
 cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/agrifish/british-research-institute-tests-worlds-largest-agri-robot-in-us.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 673
     isCached: true
-
-related:
-  - title: "World’s largest agri robot tested in the US"
-    excerpt: "Experts from British research institute Rothamsted Research are currently testing the latest in artificial intelligence for farming. It is the world’s largest agricultural robot, the"
-    publishedDateTime: 2020-08-27T12:24:00Z
-    webUrl: "https://www.freshplaza.com/article/9244435/world-s-largest-agri-robot-tested-in-the-us/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 39
-    images:
-      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2020/08/27/Arot.jpg?preset=OgImage"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "05Z8v+Vg+uh8xcvEs1rXnoyyx1wd8yh2ZDUf30Gg4L/LmxyDMJbyNwWqGtB5v/1nTDQviELZYN9ddjyE2kKRaWm4fFqegsiUqQqnGHevafgDIgOllX0eGAxJ4V40O9kJcjrNN8plBuW/cobN7dBDnTdEag0Vle+FFVuszJWR2P3g12i0ybrhuFsmfGOdF/PJiu46VJMCI2LHjbzrxPTFJ9ywCd1y/+DVOcXQm5OmvBF7PGIFmJFQmoMTvWXT24fiBZUaWDaAjtz0CM7kF1uSbEW2v+Y51Q8WJ/fdCbGBdCbUZf2AlYeJJaeymsmCXIImnLM/mI6lttIFWRzlA+zczuojpBatb01RswNZNtuh6Wk=;0Pn+KiqqB4z1uNH239ibVQ=="
 ---

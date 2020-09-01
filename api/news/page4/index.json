@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-27-latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features.md",
+      "title": "Latest NVIDIA SHIELD Update Brings AI Upscaling Enhancements And New Features",
+      "excerpt": "Over and above the excellent hardware, NVIDIA has been religious about consistently releasing updates for the SHIELD TV that only make what was already a great device even better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2020/08/27/latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features/",
+      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2020/08/27/latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features/",
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f484190e9c35b243e5a2e95%2F0x0.jpg",
+          "width": 1024,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2020/08/27/latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2020/08/27/latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features/amp/",
+      "publishedDateTime": "2020-08-27T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-learn-from-the-first-place-winner-of-the-first-aws-deepcomposer-chartbusters-bach-to-the-future-challenge.md",
       "title": "Learn from the first place winner of the first AWS DeepComposer Chartbusters Bach to the Future Challenge",
       "excerpt": "AWS is excited to announce the winner of the first AWS DeepComposer Chartbusters Challenge, Catherine Chui. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). To make the learning more fun, in June 2020 we launched the Chartbusters Challenge, a competition where",
@@ -624,6 +674,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-27-us-navy-to-tap-google-machine-learning-for-repairs.md",
+      "title": "U.S. Navy to tap Google machine learning for repairs",
+      "excerpt": "The U.S. Navy plans to tap Google's cloud and machine learning technology and use drone imagery, to modernize its process for determining when vessels and facilities are in need of repair. Why it matters: The planned move comes amid internal and external scrutiny over the ties between Big Tech and the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.axios.com/navy-google-machine-learning-63432fa7-e4c0-4ddf-8244-d6cea7adb20b.html",
+      "originalUrl": "https://www.axios.com/navy-google-machine-learning-63432fa7-e4c0-4ddf-8244-d6cea7adb20b.html",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.axios.com/J-38wxjf7CVuRATxaHf0BYFRijw=/fit-in/1366x1366/2020/08/27/1598535798444.jpg",
+          "width": 1366,
+          "height": 911,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.axios.com/navy-google-machine-learning-63432fa7-e4c0-4ddf-8244-d6cea7adb20b.html",
+      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/navy-google-machine-learning-63432fa7-e4c0-4ddf-8244-d6cea7adb20b.html",
+      "publishedDateTime": "2020-08-27T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai.md",
       "title": "Porn Site Stripchat Inadvertently Discovers Next Best Use Case For AI",
       "excerpt": "Stripchat, a live camming platform that boasts over 60 million visits per month, has launched a new AI service tool that might just provide us with a glimpse into the next service area of deep machine learning and AI.",
@@ -761,7 +852,7 @@
       "webUrl": "https://venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/",
       "originalUrl": "https://venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/",
       "featuredContent": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1082,96 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-microsoft-pnnl-and-uw-leap-into-white-houses-1b-initiative-for-ai-and-quantum-research.md",
-      "title": "Microsoft, PNNL and UW leap into White House’s $1B initiative for AI and quantum research",
-      "excerpt": "Microsoft, the Pacific Northwest National Laboratory and the University of Washington are part of a $1 billion effort to study AI and quantum computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/",
-      "originalUrl": "https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/",
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/08/200217-svore-630x380.jpg",
-          "width": 630,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/amp/",
-      "publishedDateTime": "2020-08-26T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-this-self-driving-golf-ball-will-make-you-want-to-enter-the-masters.md",
-      "title": "This ‘self-driving’ golf ball will make you want to enter the Masters",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/self-driving-golf-ball/",
-      "originalUrl": "https://mashable.com/video/self-driving-golf-ball/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F09%252F04%252F38%252Ffed6caf40a424550a3331ba510ae14a9.94e59.png%252F1200x630.png?signature=9D2EyK8rc8mZs26bzWZIFwWP6oI=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/self-driving-golf-ball.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/self-driving-golf-ball.amp",
-      "publishedDateTime": "2020-08-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20200827PD205.html"
 webUrl: "https://www.digitimes.com/news/a20200827PD205.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,31 @@ images:
     width: 640
     height: 427
     isCached: true
+
+related:
+  - title: "Self-driving forklift startup raises $9 million in venture funds"
+    excerpt: "The Texas-based, self-driving forklift startup Fox Robotics has raised $9 million in venture capital funding for its vehicles that automatically unload trailers, and will use the backing to ramp up production and meet growing demand,"
+    publishedDateTime: 2020-08-28T18:35:00Z
+    webUrl: "https://www.dcvelocity.com/articles/46985-self-driving-forklift-startup-raises-9-million-in-venture-funds"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 41
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202008/fox-robotics-forklift_with_pickles.jpg?height=635&t=1598639443&width=1200"
+        width: 679
+        height: 635
+        isCached: true
+  - title: "Austin self-driving forklift company raises $9 million"
+    excerpt: "Austin-based Fox Robotics, which makes self-driving forklifts, has raised $9 million in new funding to help ramp up production as the company looks to"
+    publishedDateTime: 2020-08-28T19:58:00Z
+    webUrl: "https://www.statesman.com/business/20200828/austin-self-driving-forklift-company-raises-9-million"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 19
 
 secured: "tZHof2DGw7QJSL5Ur5LriSVNZf6qZYPro/euq3kgxNCtwkUAjkppbTsQ124OzhjfELcJaRjLLHHMERbqOAWPtMAQpYY7b28DxeVth/aXYFDBa6SBQdRQY9F5HVx+VYaAyTd02ytNS4pa5Q+UBN1xXW85IQZA2ae1c3Ebdv4WtRUyARZoodGkbaShohbPXRSWQ5mQSBosMezjHiodo4mU4Dgy8eZLOzYJBkYGJC8T1wkLh4MX2B5CMtDLL36zqkId8bw6xW9WMYRAwTEGSyznUrrB36CxwI317Wo+OX4ys/soXdRguZShogzpf6sGU2xuisZ5mBkYccNp/Y3Q41vll8KQoUNhQa3qRbfTs5Cij2JC5huCn6zVmC+uXlZuCMPNuvkEBTqeGhi3s7+Fk8WOBqJ6QZS8neMJBmAv+kxKqZvb8zqdOVKobAMKRX4hQkKtQ1PnzfyVJFLCZR9iTDIlBOrQg0UwAIqGz+uIugHRcf2FDlc1vAQES7vvUX+Rw24c91iiHS5Pce5P0CSEW6CXo3h8PXNjgvV0I+ebT0jshHQ=;6HmuPx6QJ+O3+S13NYz3vg=="
 ---

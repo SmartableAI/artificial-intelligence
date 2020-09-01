@@ -7,7 +7,7 @@ originalUrl: "https://www.dcvelocity.com/articles/46985-self-driving-forklift-st
 webUrl: "https://www.dcvelocity.com/articles/46985-self-driving-forklift-startup-raises-9-million-in-venture-funds"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,17 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Fox Robotics Raises $9M For Self-driving Forklifts"
-    excerpt: "PRNewswire/ -- Austin-based Fox Robotics is announcing the close of a $9 million Series A led by Menlo Ventures,"
-    publishedDateTime: 2020-08-27T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
+  - title: "Startup FlowView raises new funds"
+    excerpt: "FlowView Tek, a startup business spun off from Taiwan's government-sponsored Industrial Technology Research Institute (ITRI), has attracted investments from Taiwan's National Development Fund and Japan-based Sumitomo."
+    publishedDateTime: 2020-08-28T03:37:00Z
+    webUrl: "https://www.digitimes.com/news/a20200827PD205.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://www.digitimes.com/newsshow/20200827PD205_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Austin self-driving forklift company raises $9 million"
     excerpt: "Austin-based Fox Robotics, which makes self-driving forklifts, has raised $9 million in new funding to help ramp up production as the company looks to"
     publishedDateTime: 2020-08-28T19:58:00Z

@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Fox Robotics Raises $9M For Self-driving Forklifts"
-    excerpt: "PRNewswire/ -- Austin-based Fox Robotics is announcing the close of a $9 million Series A led by Menlo Ventures,"
-    publishedDateTime: 2020-08-27T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
   - title: "Self-driving forklift startup raises $9 million in venture funds"
     excerpt: "The Texas-based, self-driving forklift startup Fox Robotics has raised $9 million in venture capital funding for its vehicles that automatically unload trailers, and will use the backing to ramp up production and meet growing demand,"
     publishedDateTime: 2020-08-28T18:35:00Z
@@ -43,6 +32,20 @@ related:
       - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202008/fox-robotics-forklift_with_pickles.jpg?height=635&t=1598639443&width=1200"
         width: 679
         height: 635
+        isCached: true
+  - title: "Startup FlowView raises new funds"
+    excerpt: "FlowView Tek, a startup business spun off from Taiwan's government-sponsored Industrial Technology Research Institute (ITRI), has attracted investments from Taiwan's National Development Fund and Japan-based Sumitomo."
+    publishedDateTime: 2020-08-28T03:37:00Z
+    webUrl: "https://www.digitimes.com/news/a20200827PD205.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://www.digitimes.com/newsshow/20200827PD205_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "cS9189aVCfYCwbLUwjC7PkDtu4jXI+Ynr5EZ9hRWwzQW6zxFgtnyJbnEw41XGPRzC9rfnw9/WfWduiEJX9iUEIyFO+UFBY6n8vJA9361cC9r1uDCKeXt1jBXjT1NlYxWthjRf1SgphCBZLoLOCmfUk4+4GdLReWxtCAJBMkUID2JEYIp0KkhMbPR5vvcBCze+7Yy87vkXOzCZYZbNWLVp3BLkCbd2IN0ur11lnZpr4Mt7gNLL42ieMh22Kxg+YrZiFXK9OoZbVLeA3nLKlhsjEpczcYU3FcZr+q/qwsd9eJ/HpWp16CL3vO6mTucbbeyrPRTE6VKPmF5es/Z41OhhpdJBLfbvksVUS2LskdMslC/lEZPn1zXABYOiw636r/lZyL/UG0LNSNXWWZupXTsdnNXoEM+tOwd560xtIhH1aewTNx3bNPAh9An05wcR7yo0HArXzkHqlgM1H31kolbFkqblyY2BGAhmzgp6hxvfjp0FzgNAcKwD+n73At2LgvylqIuXEaHUetJE9//Ae49nGRkW6hbCUD6CNfZW2bZxg4=;N4gm7QCta48zbacVbEEimg=="

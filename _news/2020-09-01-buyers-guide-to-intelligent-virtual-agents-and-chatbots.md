@@ -3,8 +3,8 @@ category: news
 title: "Buyers Guide to Intelligent Virtual Agents and Chatbots"
 excerpt: "For the first time ever, companies of all sizes can now use Virtual Agents to reduce costs and improve the customer experience. Unfortunately, these advancements have also led to some confusion in the market."
 publishedDateTime: 2020-08-31T18:32:00Z
-originalUrl: "https://www.techzone360.com/librarydownload.aspx?id=12870&title=Buyers+Guide+to+Intelligent+Virtual+Agents+and+Chatbots&type=white papers"
-webUrl: "https://www.techzone360.com/librarydownload.aspx?id=12870&title=Buyers+Guide+to+Intelligent+Virtual+Agents+and+Chatbots&type=white papers"
+originalUrl: "https://www.techzone360.com/librarydownload.aspx?id=12870"
+webUrl: "https://www.techzone360.com/librarydownload.aspx?id=12870"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 280
     isCached: true
 
-secured: "K0nlY/ZgeOsDA5AgzdiJegXRezIX3iu7F/FpLY8pfRTUJmUgwYk4GyzMEvr3/OfEfKnPezV1SCTDPKqooCoKRkgmXT/bXrzi4P5CsEaycmyZDyysLtbx4YfJyxi85ZhVRzZ4bWcK2oq5pJ2ZLvFDVyhDEih8+rOOCWNpK1rmq9jOBUJ0vDQufQrUTktHhX8djLz7iiPg6P5gSm9OqbhXWah9kGUnYYOuqF+TC4J41GUT9MAfl3301vMjNTxnZddnOnFcbsAUxqsp7JwMd31+l4uIDZmQaT0DHEBrBSQAmIN8S73lYdAisG28T/ZWHy96/r0ACrUjp8wUoqZLRP97pL669O/S1iztQf7wNtDTOXs=;r2o6WwhuiLC947yUXriFVQ=="
+secured: "ZDTIwRu8GxqfBlmC479vmWyIHcu9/MYtHN8AidVdqZaeHmaVKlbc4o3KPJ7wiTpwSL9Tqf0yW67HP2Ac624hQ5LIxtI1Qo+KFJ4zilCpOxImeJTXSMbSZaI1WGM4siNy0sVl6/hwiQ+Z3llOVqx1P4ZNErKQqp/4yyd+4wJOVh62RS/Sj4A9dSu8gnZTfKnBVVhSwd/sXREuGG/IJ9CVYDGLLnJaaggEc58kzGSVwv5Cp7VFDMDdVQss/W/w2olwJFCjapO0/cOIg3qX5UGeKbwqKcHfGANBXnga9+mTnIdWhCkhjyDXJloCkw9GOBsRKwdvu1UC/K6t3OSuz9fTQ2yR0JI1Wl4QHTKY7cahEtQ=;92wDShPJ4yRxhcuHOcJ+sg=="
 ---
 

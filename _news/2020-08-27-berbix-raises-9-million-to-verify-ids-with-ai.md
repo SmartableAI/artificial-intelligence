@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "ProteanTecs raises $45 million to apply AI to chip design and performance monitoring"
-    excerpt: "Startup ProteanTecs raised $45 million to further develop its AI chip design platform, bringing its total raised to nearly $100 million."
-    publishedDateTime: 2020-08-27T12:02:00Z
-    webUrl: "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/"
-    ampWebUrl: "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/amp/"
+  - title: "ACTO raises $11.5 million to bolster life sciences sales with AI"
+    excerpt: "ACTO, a startup using AI-powered mobile experiences to educate stakeholders in life sciences, today closed an $11.5 million funding round."
+    publishedDateTime: 2020-08-27T13:03:00Z
+    webUrl: "https://venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/acto-raises-11-5-million-to-bolster-life-sciences-sales-with-ai/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 97
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all"
         width: 1200
         height: 600
         isCached: true

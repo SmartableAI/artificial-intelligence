@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Insights By Size, Share, Future Growth And Forecast From 2020-2025"
+    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected to reach USD 191.60 billion by 2025, growing at a CAGR of 36.68% over the forecast period."
+    publishedDateTime: 2020-08-31T12:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-insights-by-size-share-future-growth-and-forecast-from-2020-2025-2020-08-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0oDU43YJXPceJh3+S5w0vz0QKE0AXvXsjgXghqXoq2WeXpZdkPCY7iMSsqhKfLvjg5nQXwRr4fspidPcC3z8wDtNC2Ivz19Dvfr6tDoB1IUgXVA+6f9yXUCKeFBPhO6GDE498DS1Q+A7Gy6H1qTkbTpT9E5bvHpNvpo7y49T+2OxNbHpkn8+WcykDpbTxWqpXO+zjc4xYkyvCKB0iRpvImFn0Ecc9wOUHcW2h6HgFkwjFaFFH8iwIsZouGfiWEfyPOBU3WukRKOwOvkO0fEkwUvScx4qtDgAqgJrqX8LzgmtyoW9/JyOAWAIXfgcqCjYwnldhulOewczTWdigkQsOtz89HDS/SoT0KCqaTpK5T8=;cFRCoWevo96v4x+G7kFv0w=="
 ---
