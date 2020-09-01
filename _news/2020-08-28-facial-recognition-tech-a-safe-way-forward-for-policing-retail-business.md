@@ -59,6 +59,17 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Atlanta airport plans to test facial recognition, touchless technology"
+    excerpt: "Jackson Atlanta International Airport plans to test facial recognition at check-in counters in the domestic terminal, part of a broader push to introduce more touchless technology in response to the coronavirus."
+    publishedDateTime: 2020-09-01T01:12:00Z
+    webUrl: "https://www.thenewstribune.com/news/nation-world/article245384385.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/article245384385.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/article245384385.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 54
   - title: "In New Tests, Facial Recognition Products Are Consistently Thwarted by Masks"
     excerpt: "Ongoing tests of facial recognition technology continue to show that the technology is baffled when people wear masks of the sort that have become widespread (and even mandatory) in some places during the current pandemic."
     publishedDateTime: 2020-08-31T16:42:00Z

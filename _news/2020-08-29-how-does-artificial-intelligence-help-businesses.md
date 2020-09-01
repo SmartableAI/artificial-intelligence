@@ -34,7 +34,7 @@ related:
     provider:
       name: BizTech
       domain: biztechmagazine.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202008/BT_Q320-Feat-Wong-AI-HERO.jpg?itok=MC6JSjke"
         width: 1440

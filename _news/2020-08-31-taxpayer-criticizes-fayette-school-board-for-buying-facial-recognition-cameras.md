@@ -53,6 +53,20 @@ related:
         width: 599
         height: 479
         isCached: true
+  - title: "Concerns about facial recognition system being set up by police"
+    excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
+    publishedDateTime: 2020-09-01T00:44:00Z
+    webUrl: "https://www.newstalkzb.co.nz/on-air/christchurch/canterbury-mornings-with-chris-lynch/audio/kathryn-dalziel-concerns-about-facial-recognition-system-being-set-up-by-police/"
+    type: article
+    provider:
+      name: Newstalk ZB
+      domain: newstalkzb.co.nz
+    quality: 39
+    images:
+      - url: "https://www.newstalkzb.co.nz/media/22966855/facial-recognition.jpg?width=635&height=395&mode=crop"
+        width: 635
+        height: 395
+        isCached: true
   - title: "New Zealand police upgrade facial recognition system for real-time CCTV biometric identification"
     excerpt: "New Zealand police have been discreetly rolling out a biometric facial recognition system that uses real-time CCTV feeds to detect people, RNZ writes. The department has reportedly spent some NZ$9"
     publishedDateTime: 2020-08-31T15:37:00Z

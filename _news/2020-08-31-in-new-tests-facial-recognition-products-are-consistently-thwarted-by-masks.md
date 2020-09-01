@@ -69,6 +69,17 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Atlanta airport plans to test facial recognition, touchless technology"
+    excerpt: "Jackson Atlanta International Airport plans to test facial recognition at check-in counters in the domestic terminal, part of a broader push to introduce more touchless technology in response to the coronavirus."
+    publishedDateTime: 2020-09-01T01:12:00Z
+    webUrl: "https://www.thenewstribune.com/news/nation-world/article245384385.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/article245384385.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/article245384385.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 54
   - title: "Faceoff! UK appellate court finds police use of facial recognition technology contravenes laws"
     excerpt: "In what has been described as one of the world's first successful legal challenges to police use of facial recognition technology, on Aug. 11 the UK Court of Appeal (Civil Division) found in R. (Bridges) v."
     publishedDateTime: 2020-08-27T20:36:00Z

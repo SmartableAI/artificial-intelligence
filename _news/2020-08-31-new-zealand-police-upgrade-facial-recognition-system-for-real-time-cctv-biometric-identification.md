@@ -53,6 +53,20 @@ related:
         width: 599
         height: 479
         isCached: true
+  - title: "Concerns about facial recognition system being set up by police"
+    excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
+    publishedDateTime: 2020-09-01T00:44:00Z
+    webUrl: "https://www.newstalkzb.co.nz/on-air/christchurch/canterbury-mornings-with-chris-lynch/audio/kathryn-dalziel-concerns-about-facial-recognition-system-being-set-up-by-police/"
+    type: article
+    provider:
+      name: Newstalk ZB
+      domain: newstalkzb.co.nz
+    quality: 39
+    images:
+      - url: "https://www.newstalkzb.co.nz/media/22966855/facial-recognition.jpg?width=635&height=395&mode=crop"
+        width: 635
+        height: 395
+        isCached: true
   - title: "Taxpayer criticizes Fayette School Board for buying facial recognition cameras"
     excerpt: "A public speaker at the Aug. 24 meeting of the Fayette County Board of Education took issue with the recent decision to purchase thermal imaging/facial recognition cameras to be installed"
     publishedDateTime: 2020-08-30T21:17:00Z

@@ -8,9 +8,9 @@ webUrl: "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-a
 ampWebUrl: "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences?amp"
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences?amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: BizTech
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202008/BT_Q320-Feat-Wong-AI-HERO.jpg?itok=MC6JSjke"
@@ -42,6 +43,6 @@ related:
         height: 500
         isCached: true
 
-secured: "pn4L0epZHyaFpRAViFkf2boic/U1LA9muKvuqTl8S7WvK0BX4z8GBSlvrR+A99zzhWPQ6ZGzZFgRD6xN1fjbeI7cZXGxH7kCWDT5WWUmV7hPIZUj+2htPU6CRsb06PhIDOQ2wAL3yWWi03JZiMRNsd9UsPs5M6x5dDt+3c0XgVkBMxZkY6+04qphXswLsqouPZObmCyHW+g7SsRU4fMVKx2z7sXYXrNwCYrOe8fCgDDzXpZ/7SxIcJSIQr3Ah2HbT1gpUSOIavgWjYpUvqIbTCScWpavFUr0WiZVM1N2zpWZ+EEBJQZD1DdMLvjk+OnMs8O894fcpK0DYlkPQlfoQh+3QLmPNSawIBhwlDX/Oes=;KS5nIvbwtZvWHxvMONzWYA=="
+secured: "p0yjnV0MmSaP6ttYA7qNIdIWxs1TMcrlzKhOf/iXSwZHBKJHgQ4KzcNgBUuMkYz8CcM0xC746UUvcQwN5zkQTndZx4Wk0lNnuAtrsfGX3g2W5dQU0PqsdYeuq1SpNzXeIpfIfTn/Flk9sV/J4Pfx/Amf5ZosC0EI5uPQgqqBmgyMh9XWBAhLXFTf88iOK+rD19lQe5r4iA20QT9F4emz7qYv7o2AjeRbdupo0kYzb6tfOBG0lZPV788eiy/jNmy7Mv9jArlZ69UL4EQFebzUfC7GKHLGGj2x9gw7s4R36HumUGybHuqCHuZtdw6HeuMWN2vAQ+Y+8J6ktAQ92opYx2TDkoHNUNvlZmdWNVnLjmQPmFmV5bgrjy4fnMqUzxCz8QppgvEtuZNZi3+51lSKNmXXLnE6zqvZfbXXrJUWg0Di91rud/iBNhZpfXZXBHjMZVOQnbQsvLKnhDieeD5HcSPhX+tYO4cSflLS1P3/gJRvM9CDWMzXYTjW9iBlhT6b38AgL+z+ZJIcYBN1Whr0ijunh3v0pIiNpp+zTZsBBzY=;Bch9An9bNN0R9DGbPMt+rw=="
 ---
 

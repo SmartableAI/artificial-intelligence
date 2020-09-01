@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Facebook and NYU are using AI to dramatically speed up MRI imaging"
-excerpt: "Two years ago, Facebook’s Artificial Intelligence Research group (FAIR) began collaborating with researchers at New York University’s Medical School on artificial intelligence that held the ..."
-publishedDateTime: 2020-08-18T13:34:00Z
-originalUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com"
-webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com"
+excerpt: "Facebook’s AI researchers gave themself an especially demanding challenge: Use algorithms to fill in the details of an MRI scan. The results are promising."
+publishedDateTime: 2020-08-18T13:00:00Z
+originalUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging"
+webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: fastcompany.com
 
 topics:
-  - AI in Autos
+  - Facebook AI
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 720
     isCached: true
 
-secured: "H6Fe3WDXxpwwehlDfvXwbQliaw4e+CLy/gfzsozrOicqgw74PaXhkHF3zg+9Gg4m1VaOMxGVIwY/zJBI0UQpTDrcfcgY90okjzJGYTO/lHQ+8tN7cS/U9M23TA+RmUan0ClfiqZmAi0vGobLh5CJWyjROpIgS21gaGDH98FOFx1daUR2Nmr4QiRNZHj8WguOuudelty68XKvIElIDRpAlxjS229MyIc99FY5VWgN7iKEp2ytMi4jsz2fJjIkhcvsOTJyvA6ZjP+i8AudgGQaXImsQAkuo86uB20igrFdTY0aKOqFJWNxao/hT2uN6JwFtSQ/e8ExiwVoBF7jH97mT1d3U3FqjXETfDhgB+dcUdU=;kFgg43i+x5f1sI/5b+TUoQ=="
+secured: "cQWdA2FQTD68uTSUpOkmayDPwG8vFvDSb/XcqFh+155i3KcmaGIVaZzs4qJTRBGX6j/ggmtoPBf60mc2g2T7FCaNnPqEgHD45GShbzJJpD8rOi6by/wFhyRa/74ZAcVqkV1hPe5IG8yZjw1u/eASqZvkHCB0waMlSiH0yNorCUVWxoiUJWlWDm4VRLqJ0C7ZRgsadMqjHl2EwXBCq3k3N1XxbfhaZqWZoLoTcruhpqLGtkuJDz137cmyhQfL9A4s08OzIVMKitGXeuOAkB68SZWZB3iLzFw/wSawNtSmbqv0eROjl79XzGY/Z6CMSrkuRDdQH4iH+ESPTt3/DlTzHx33spPCS5SvRMbSuNy3418=;fPQRVT6WHVOnW1il4yTGag=="
 ---
 

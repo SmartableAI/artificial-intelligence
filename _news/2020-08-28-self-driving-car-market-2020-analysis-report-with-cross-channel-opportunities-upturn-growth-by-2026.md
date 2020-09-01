@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -29,15 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Global machine learning market is expected to grow with a healthy CAGR over the forecast period from 2020-2026"
-    excerpt: "Reportlinker.com announces the release of the report \"Machine Learning Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026\" -  The study on machine learning market covers the analysis of the leading geographies such as North America,"
-    publishedDateTime: 2020-08-28T23:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-machine-learning-market-is-expected-to-grow-with-a-healthy-cagr-over-the-forecast-period-from-2020-2026-1029545436"
+  - title: "Artificial Intelligence (AI) Software Market Survey Report 2020 Along with Statistics, Forecasts till 2026"
+    excerpt: "The Artificial Intelligence (AI) Software Market Research Report 2020 to 2026 presents an in-depth assessment of"
+    publishedDateTime: 2020-08-29T13:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-software-market-survey-report-2020-along-with-statistics-forecasts-till-2026-2020-08-28"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "World Markets for Artificial Intelligence (AI) in Diagnostics, 2026F"
+    excerpt: "The \"Global Artificial Intelligence in Diagnostics Market By Diagnosis Type (Radiology, Oncology, Neurology, Cardiology, Chest &"
+    publishedDateTime: 2020-08-27T13:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/world-markets-for-artificial-intelligence-ai-in-diagnostics-2026f-301119724.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
 
 secured: "bmTJKsJRuL18Qp2JygGHeKlet5DBQipfDw9GXoUrmROhQQ1pb3lQFNpTLmW4OmDJ2ewt2qFkjDvAlNu0FfTyGxuq/Pw+9oEwS9vWix7dz6ltY9KSelMSPaI6i4V2pMhS1KSUMJj28Rd/Cf5Y5sZlqzpTXWu7B21hH8zgMKyMXrWn4iFeTAbj7GS/r7kP0NZGEy182XERLR0Z1EVTKEoazlnL7lFgv5PBzosAimhfc/6BCRp9ulEw1uGRC36aUAftBc+LOXLYlsKI5dmTOP7pGrJ/yz0eOWIgwoZ725KXxQz1tUs3SB+attt9N0cShdJQDZVpsZw77s5WYrNYrH2hZM5P6aPYjfWR2RNMphJ+j4k=;S+8XFshDkCwYzsF85cQLyA=="
 ---

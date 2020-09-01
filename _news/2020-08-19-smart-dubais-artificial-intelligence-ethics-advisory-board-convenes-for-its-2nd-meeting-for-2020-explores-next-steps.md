@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Smart Dubai’s Artificial Intelligence Ethics Advisory Board Convenes for Its 2nd Meeting for 2020, Explores Next Steps"
-excerpt: "The Artificial Intelligence (AI) Ethics Advisory Board – an initiative by the Smart Dubai – has convened for its second meeting for 2020 on Thursday, Au"
-publishedDateTime: 2020-08-19T10:47:00Z
-originalUrl: "https://www.albawaba.com/business/pr/smart-dubai’s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting"
-webUrl: "https://www.albawaba.com/business/pr/smart-dubai’s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting"
-ampWebUrl: "https://www.albawaba.com/amp/business/pr/smart-dubai%E2%80%99s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting"
-cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/smart-dubai%E2%80%99s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting"
+title: "Smart Dubai's artificial intelligence ethics advisory board convenes for its 2nd meeting for 2020, explores next steps"
+excerpt: "The meeting was split into three main portions, presenting options for the future roll-out of tools for better AI, considering the potential of AI Audit Practices, and Cybersecurity."
+publishedDateTime: 2020-08-19T10:34:00Z
+originalUrl: "https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/"
+webUrl: "https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200819101836/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200819101836/"
 type: article
 
 provider:
-  name: Al Bawaba News
-  domain: albawaba.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-08/Photo.jpg?itok=H6R3M0O6"
-    width: 960
-    height: 540
-    isCached: true
-
-secured: "qZTTfcMm0anK0zkO5yYcNXUgQZXzcPLi8a6QwJWTd+7eEVZbraXTfXwI/L97xVrbIvC9h8DWyTiTgyYBfd3dWe8xYizUqtsgdR62ttzlpgOMnSEnsPkey+hqZfETjiXQcuweimpaY2LinkL/GwyAGDVWzfYhcZA41dG4wY5BCOeYKT1B2IUCDjq4Ra6GJXeb7Sx7v8I/v8s2RpclEfJjgAHT3ypTC2afmhg7+IDEkVMLMCFklLZDR0DUEX1cZ3H75VvextTaG3lhxk74OIe6EGAVNX7I4olFVQ9hxccFNq+rNcgQ2HAJ4SkU5DXeQx9lm2dgZL+kRTH/9K+koEllRdrlOtMKgK9/P/tQ0oTJl/M=;ImXPsrBiTEg+QKu/2xJ2tQ=="
+secured: "P7HnfklU5qpcNa9ab+34o8Io/g+3RnqNihawpV6sdcb0LrAvcuj+QS2KtkulBz1iEBymvQXtOPomYU4TEU1VwJBqVnXknVEuH6xPdlxV82ygkw160JFY1O8NlG27Gni6FHltCwP6K8Cqm8Z22QZpmO1YKQVP8yoEpOWBaIqOBI8CWTsLUB6SfhdO8cKHgAiQ0rDmOF6p2H7YAadhq+mQSJ94N15vAYY3JY5Nox+QSmal4boJ8604/hj/Aat45+SdnilzDzm+Xc227oUNHomkwn3TDFtHUQTtVhqmg6uc3nIsP4elJvb5KHIg7hAFzK/rGbc5WH7jWGmM4+09s5Ch6/MkLtGbMPRkSxQNhQ1mmw+/b/sGn8TiOM6hz9CWYklbxHGINPfBNrywkGPwGhWImEDjgS626dCxl7jPcqWn9zhGtpdNdf7AFhSmkfsrmiFxcEq9sM8I2Y7zXOOqag4u8Sj1RTmpOBYKEqlURSiqSJrNRmGpm/OENCeRgoUpGmwv6Fli3oldCxztD5LqYVMa3MDrVBjMpfNtQeKWsXlW9AU=;2884ndXc4Jqadf9qgXEJvQ=="
 ---
 

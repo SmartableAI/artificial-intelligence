@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/world/robot-boats-leave-autonomous-car
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/robot-boats-leave-autonomous-cars-in-their-wake/amp-11598779759524.html"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robot Boats Leave Autonomous Cars in Their Wake"
+    excerpt: "Driverless ships don’t have to worry about crowded roads. And they don’t need bunks—or toilets."
+    publishedDateTime: 2020-08-29T09:00:00Z
+    webUrl: "https://www.wsj.com/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601"
+    ampWebUrl: "https://www.wsj.com/amp/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-226255/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Robot boats leave autonomous cars in their wake"
     excerpt: "Promare, a U.K. ocean-research nonprofit, in partnership with International Business Machines Corp., will unveil this new, fully autonomous Mayflower on Sept. 16 in Portsmouth, the same seaside English town from which its namesake set sail in 1620."
     publishedDateTime: 2020-08-31T01:51:00Z
