@@ -2,6 +2,56 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-07-30-amd-cdna-gpu-to-rival-nvidia-ampere-in-late-2020.md",
+      "title": "AMD CDNA GPU to rival Nvidia Ampere in late 2020",
+      "excerpt": "AMD’s next attempt on the server GPU front embraces its new CDNA architecture that is tailored primarily for AI as well as HPC and therefore promises to be a better fit for respective customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Bd7dkokF6QEnDo8VEnUrrm-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
+      "publishedDateTime": "2020-07-29T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-twitter-gives-trumps-son-a-tweet-timeout.md",
       "title": "Twitter Gives Trump's Son a Tweet Timeout",
       "excerpt": "Twitter has temporarily halted President Donald Trump’s son from tweeting after he shared a video riddled with unsupported claims about the coronavirus Monday.",
@@ -1051,57 +1101,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook.md",
-      "title": "Microsoft: We're taking over Windows 10 PyTorch AI library from Facebook",
-      "excerpt": "Facebook has used PyTorch and deep-learning framework Caffe2 for Translate, an AI tool that powers translations for the 48 most commonly used languages on Facebook. PyTorch, as the name suggests, is a package for the hugely popular Python programming language.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/07/28/09edeebe-5d34-4c16-b517-2f5431d51418/thumbnail/1200x675/ead4664afaffff3e1ed47e906cacf503/developersistock-665158684a.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/",
-      "publishedDateTime": "2020-07-29T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

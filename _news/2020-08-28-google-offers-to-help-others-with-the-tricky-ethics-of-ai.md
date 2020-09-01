@@ -34,7 +34,7 @@ related:
   - title: "Google offers to help others with the tricky ethics of AI"
     excerpt: "The company plans to launch new AI ethics services before the end of the year. Initially, Google will offer others advice on tasks such as spotting racial bias in computer vision systems or developing ethical guidelines that govern AI projects."
     publishedDateTime: 2020-08-29T13:00:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/?comments=1"
+    webUrl: "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/"
     type: article
     provider:
       name: Ars Technica

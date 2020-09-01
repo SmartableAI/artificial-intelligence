@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Smart Dubai's artificial intelligence ethics advisory board convenes for its 2nd meeting for 2020, explores next steps"
-excerpt: "The meeting was split into three main portions, presenting options for the future roll-out of tools for better AI, considering the potential of AI Audit Practices, and Cybersecurity."
-publishedDateTime: 2020-08-19T10:34:00Z
-originalUrl: "https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/"
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200819101836/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200819101836/"
+title: "Smart Dubai’s Artificial Intelligence Ethics Advisory Board Convenes for Its 2nd Meeting for 2020, Explores Next Steps"
+excerpt: "The Artificial Intelligence (AI) Ethics Advisory Board – an initiative by the Smart Dubai – has convened for its second meeting for 2020 on Thursday, Au"
+publishedDateTime: 2020-08-19T10:47:00Z
+originalUrl: "https://www.albawaba.com/business/pr/smart-dubai’s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting"
+webUrl: "https://www.albawaba.com/business/pr/smart-dubai’s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting"
+ampWebUrl: "https://www.albawaba.com/amp/business/pr/smart-dubai%E2%80%99s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/smart-dubai%E2%80%99s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting"
 type: article
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Al Bawaba News
+  domain: albawaba.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "Xq4A7dTEZgoKFDXG9puHpFdiKspTxfx8eCxzqIPMSgPKRIv0Tyx3A7U6+5eBgtfD19FTr2eHXmXEfdHbX/TUJSePd5bT6N2IjXm1o1F3cvYFRKjmqgZ9+Zvd3AMEKyj/OPf91zZ7MF54znoiWSPxLi05b2ve71JG+D9S7KNo5/PdcsqEnN5wLK2P64TnM5aU1eJxxtUjQi2FU7n+2TEoA+F8gOx6VNZBt+CMekLOAO1RbqetFwLRnR0i/0wLQeqtTUJ8NefSEII93IHn/1Jy6MLFt9l2AQbdq5Ss9KD6ivLaKvrO5O75roPasDMPdfryh6N+C7s/tS7usa7dTVEazCR+SAHVUOF47wBUk71/3djQmLi+qAzXvrktmH1Q2kucpan0RcHnPmsLhVLf/ljnJqyt+zC2JCebUQ3mSm9jwaPPHDEZq/fakwEo+qMDYeR0iolbB7ZrP22qbbt7rkXZWOyHy1Sx1ehtPzTu4GW+2V1kopchFfa1w2J/+xyEBARiaFkzv/h5ewQjlGNGyI5Jvl4YDwLOBDXUZToNL1Yq3/A=;sW/yBfHF6pragnmFQiLpHw=="
+images:
+  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-08/Photo.jpg?itok=H6R3M0O6"
+    width: 960
+    height: 540
+    isCached: true
+
+secured: "qZTTfcMm0anK0zkO5yYcNXUgQZXzcPLi8a6QwJWTd+7eEVZbraXTfXwI/L97xVrbIvC9h8DWyTiTgyYBfd3dWe8xYizUqtsgdR62ttzlpgOMnSEnsPkey+hqZfETjiXQcuweimpaY2LinkL/GwyAGDVWzfYhcZA41dG4wY5BCOeYKT1B2IUCDjq4Ra6GJXeb7Sx7v8I/v8s2RpclEfJjgAHT3ypTC2afmhg7+IDEkVMLMCFklLZDR0DUEX1cZ3H75VvextTaG3lhxk74OIe6EGAVNX7I4olFVQ9hxccFNq+rNcgQ2HAJ4SkU5DXeQx9lm2dgZL+kRTH/9K+koEllRdrlOtMKgK9/P/tQ0oTJl/M=;ImXPsrBiTEg+QKu/2xJ2tQ=="
 ---
 

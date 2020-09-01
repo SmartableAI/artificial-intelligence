@@ -2,6 +2,55 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-08-17-the-meatpacking-industry-is-an-incubator-for-ai-automation-and-covid-19.md",
+      "title": "The meatpacking industry is an incubator for AI, automation, and COVID-19",
+      "excerpt": "As the pandemic stretches on, the threat to meatpacking, meat processing, and distribution center employees has researchers seeking a new production model.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/17/the-meatpacking-industry-is-an-incubator-for-ai-automation-and-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Meatpacking-automation-covid-19.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/17/the-meatpacking-industry-is-an-incubator-for-ai-automation-and-covid-19/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/the-meatpacking-industry-is-an-incubator-for-ai-automation-and-covid-19/amp/",
+      "publishedDateTime": "2020-08-17T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-how-robotics-and-automation-could-create-new-jobs-in-the-new-normal.md",
       "title": "How robotics and automation could create new jobs in the new normal",
       "excerpt": "The COVID-19 crisis could accelerate a robotics revolution and impact jobs -- but it's not necessarily all bad news for workers.",
@@ -1060,38 +1109,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-16-riding-the-cognitive-wave.md",
-      "title": "Riding the Cognitive Wave",
-      "excerpt": "Many exciting new digital technologies have evolved rapidly this decade–potent mobile devices that perform a myriad of tasks, big data and analytics tools that crunch petabytes of data, and Internet of Things sensors that report continuously on everything from our cars to our coffee pots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tcs.com/perspectives/articles/riding-the-cognitive-wave",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-16T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tata Consultancy Services",
-        "domain": "tcs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

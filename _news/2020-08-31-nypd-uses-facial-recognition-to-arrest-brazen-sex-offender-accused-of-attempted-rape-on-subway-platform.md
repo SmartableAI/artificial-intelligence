@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/nypd-uses-facial-recognition-to-arrest-br
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/nypd-uses-facial-recognition-to-arrest-brazen-sex-offender-accused-of-attempted-rape-on-subway-platform.amp"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Facial recognition technology used to arrest man accused of attempted rape on NYC subway platform"
+    excerpt: "The New York Police Department arrested a man accused of attempting to rape a woman on a subway platform with the help of facial recognition technology."
+    publishedDateTime: 2020-08-31T21:18:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 26
 
 secured: "p2aZg3xBXgX+bRMHjm1JlBhZpqLcXXCfNaZDZQi+YhfwK4NV4/OhslfD1yA/uQb5TIZCeHBMsDXZEm3IvOGR6P0eVVE4pxuvsTMBnkVYFA+vPpK8FOkbR/PXhIspAqT3Bv9hXKpSIKQ64AsvLupDYnGUGxrRdNM6M7bLBrabtnBBaUlkvcClQSADJFdpA14bwYq28Y2UnrIlUloQD0Y3thXEbltV46nZoZtvSFqMpM2xijry6GCceWvEEqnVqPweKOEJlA98g5jsvpuVJcpI+FQbLkD9wiocFntM4AMfOt1ZTdDQcKY4FgJ5AEfKMBg6EXC6O1YutbaRHrjo/QUserHSGSN+glgeiSGs5GFFKWE=;9fnm9e0xd9KrBZ2beVU3yg=="
 ---

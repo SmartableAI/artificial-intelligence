@@ -8,8 +8,8 @@ webUrl: "https://www.geekwire.com/2020/tech-moves-former-amazon-vp-brad-porter-j
 ampWebUrl: "https://www.geekwire.com/2020/tech-moves-former-amazon-vp-brad-porter-joins-scale-ai-cto-uw-names-new-communication-leadership-director/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/tech-moves-former-amazon-vp-brad-porter-joins-scale-ai-cto-uw-names-new-communication-leadership-director/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - Microsoft AI
 
 images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/08/Brad_Porter_B-300x300.png"
@@ -29,6 +31,6 @@ images:
     height: 300
     isCached: true
 
-secured: "hRCHniokYldj/yIpb9sDx6KkX40A+TC5CeH2EKtEmmGJsO2tgGaE3Lw+lhJuYRjxVXw1OIzyy4wBc0CnF37zQmRglk1zrhKfXTPvzxl6KjPbbYlBRRu/DCKwU0Ed1kagLZw6jAYFShoqqgGQIaBbMj+iWQc5JRJ0WhIU3GEUKrjyo5GX3exJ6j1s3pgI3q7lUpSgZavE1/Kzjh3dJ/ETH7WrLgOOPZmVrCc29cHyGHRrKOjQN2EpXENx+YBbtV8njg9Eh1SdPeVr4XDEDXBLHjDi/STeGg/rGk3SMAKwxz+aUPxoVzvMdBCJz+0Wbo37nVXRCNM1CckIwDcNQLmSyCaxt+wuxjBXZQyy0GaUw7c=;pW7l0vkwfFydO8A+br3Lkw=="
+secured: "Y9a7q3+QWyeYcC/LovIo7npMMpzldDOwdEvdkpkQlNWrptLHwN4/1CW2ZKt/ZCHI+VphnW+Wy5Zf05QshX0MA+/2DezYx/YFfGRmS8BQLTOjurgqG5vWtXNvpkppno77VHtVH+cDVwoosMKObWCIp3dovfjG0lCbJJK41w4E+0zEwpmSa3OvYbzGDziA9+YhPXre9oBhq7/1hNJc9ROo9IgoFSxL5Gus/nOlUUYm2E+w7UkvHKQfYH49ZavmaqM5F+vvVi/3PrQLKM2BkbGMVUo1TR/3T8yXUty1zFjDj/aYXDAs2AwvbGCzIt62+kxfka+hx0xceAbfNMnAjaW+Kgsw2hJ6Dm2PsP0O3g2q/zPsuwi8U7hyRfGD+UbDa0E8SHF5xbkLKjaZXplaKKZAMURXkkT1bwgvwmHb5OvKw2Qqawd0QVZUY9jh+Aepi3btbmaBfh1KCqb2AAc/XvK1rayFxF2mutH/B/qxHgtvLWYGUVeU9uYK5YAu5zeKHCtEPeYYIo5cyorS4VQ37p4bzAkl2J+GYLthtOls3yeRmCE=;bWklEL3BgHce4suqez1XVA=="
 ---
 

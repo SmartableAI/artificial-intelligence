@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/louiscolumbus/2020/08/31/how-an-ai-platform-is-matching-employees-and-opportunities/</loc>
+    <lastmod>2020-08-31T15:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-august-2020-edition/</loc>
     <lastmod>2020-08-31T13:01:16-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -157,7 +163,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/in/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -195,12 +201,6 @@
   <url>
     <loc>https://www.engadget.com/china-ai-export-limits-may-hamper-tiktok-172639213.html</loc>
     <lastmod>2020-08-29T10:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/</loc>
-    <lastmod>2020-08-29T10:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1621,14 +1621,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/</loc>
-    <lastmod>2020-08-20T08:29:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539</loc>
+    <lastmod>2020-08-20T08:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/23c39c6175e11f35b0cb61b0b2eded76</loc>
-    <lastmod>2020-08-20T08:23:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/</loc>
+    <lastmod>2020-08-20T08:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1975,8 +1975,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/</loc>
-    <lastmod>2020-08-19T03:34:00-07:00</lastmod>
+    <loc>https://www.albawaba.com/business/pr/smart-dubai%25E2%2580%2599s-artificial-intelligence-ethics-advisory-board-convenes-its-2nd-meeting</loc>
+    <lastmod>2020-08-19T03:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2131,6 +2131,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600</loc>
+    <lastmod>2020-08-18T11:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/</loc>
     <lastmod>2020-08-18T10:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2245,6 +2251,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/08/g17133151/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-</loc>
+    <lastmod>2020-08-18T05:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://apnews.com/b87152f12e274ede8395fc39f3623c4a</loc>
     <lastmod>2020-08-18T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2265,12 +2277,6 @@
   <url>
     <loc>https://electrek.co/2020/08/18/tesla-hw-4-0-self-driving-chip-tsmc-for-mass-production-q4-2021-report/</loc>
     <lastmod>2020-08-18T03:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-enterprise-chatbots-2020-08-18</loc>
-    <lastmod>2020-08-18T02:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

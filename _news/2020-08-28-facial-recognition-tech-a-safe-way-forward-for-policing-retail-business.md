@@ -59,20 +59,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Facing gender bias in facial recognition technology"
-    excerpt: "Facial recognition bias is real, and software providers struggle to be transparent when it comes to the efficacy of their solutions."
-    publishedDateTime: 2020-08-27T05:04:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/08/27/facial-recognition-bias/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 41
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2018/10/09100001/identity.jpg"
-        width: 1600
-        height: 1094
-        isCached: true
   - title: "In New Tests, Facial Recognition Products Are Consistently Thwarted by Masks"
     excerpt: "Ongoing tests of facial recognition technology continue to show that the technology is baffled when people wear masks of the sort that have become widespread (and even mandatory) in some places during the current pandemic."
     publishedDateTime: 2020-08-31T16:42:00Z

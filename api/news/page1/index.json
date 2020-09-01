@@ -2,6 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-01-how-an-ai-platform-is-matching-employees-and-opportunities.md",
+      "title": "How An AI Platform Is Matching Employees And Opportunities",
+      "excerpt": "Instead of relying on data-driven signals of past accomplishments, Eightfold.ai is using AI to discover the innate capabilities of people and matching them to new opportunities in their own companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/08/31/how-an-ai-platform-is-matching-employees-and-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/08/31/how-an-ai-platform-is-matching-employees-and-opportunities/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4c49bb86064d82fee750f6%2F0x0.jpg",
+          "width": 1199,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/08/31/how-an-ai-platform-is-matching-employees-and-opportunities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/08/31/how-an-ai-platform-is-matching-employees-and-opportunities/amp/",
+      "publishedDateTime": "2020-08-31T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-this-month-in-aws-machine-learning-august-2020-edition.md",
       "title": "This month in AWS Machine Learning: August 2020 edition",
       "excerpt": "Every day there is something new going on in the world of AWS Machine Learning—from launches to new use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing each month. Check back at the end of each month for the latest roundup.",
@@ -1170,46 +1219,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains.md",
-      "title": "Artificial intelligence: Elon Musk puts computer chips in animal brains",
-      "excerpt": "Elon Musk, the founder of the American company Tesla and SpaceX, demonstrated how to connect a computer chip made by his new company ‘Neuralink’ to the animal brain. Elon Musk’s company, Neuralink, has developed a chip in just four years,",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/",
-      "originalUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/",
-      "featuredContent": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2020/08/31/SPACEXCAPSULETESTTHNAK.jpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/",
-      "publishedDateTime": "2020-08-31T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

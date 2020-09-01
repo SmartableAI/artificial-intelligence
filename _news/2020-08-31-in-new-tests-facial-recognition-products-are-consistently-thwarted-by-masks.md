@@ -69,20 +69,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Facing gender bias in facial recognition technology"
-    excerpt: "Facial recognition bias is real, and software providers struggle to be transparent when it comes to the efficacy of their solutions."
-    publishedDateTime: 2020-08-27T05:04:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/08/27/facial-recognition-bias/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 41
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2018/10/09100001/identity.jpg"
-        width: 1600
-        height: 1094
-        isCached: true
   - title: "Faceoff! UK appellate court finds police use of facial recognition technology contravenes laws"
     excerpt: "In what has been described as one of the world's first successful legal challenges to police use of facial recognition technology, on Aug. 11 the UK Court of Appeal (Civil Division) found in R. (Bridges) v."
     publishedDateTime: 2020-08-27T20:36:00Z
