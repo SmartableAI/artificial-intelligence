@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neural
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/amp/"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Apple May Be Working on a Self-Driving Car Featuring Controlled Doors and VR System"
+    excerpt: "Working in a hidden lab named SG5 in Sunnyvale, California, engineers are hard at work completing Project Titan. Since September 2014, the mega tech company has been working on a car manufacturing, design and self-driving project."
+    publishedDateTime: 2020-09-01T17:06:00Z
+    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20655/Apple-May-Be-Working-on-a-Self-Driving-Car-Featuring-Controlled-Doors-and-VR-System.aspx"
+    ampWebUrl: "https://mobile.engineering.com/amp/20655.html"
+    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20655.html"
+    type: article
+    provider:
+      name: Engineering
+      domain: engineering.com
+    quality: 38
+    images:
+      - url: "https://res.cloudinary.com/engineering-com/image/upload/w_350,c_limit,q_auto,f_auto/37158-69620-apple-patent-application-apple-car-1-xl_qcnbiz.jpg"
+        width: 350
+        height: 265
+        isCached: true
 
 secured: "6puAzzmM089hwxmo1tZ+j9ZPSKmYi9gKvyGF1v5OrajeyjWNNJZnvI+UefwDEZT2qqQJaGQ0gYscxhoHB9x1C9WVfvItN7CTYx/wDZ84QDflUa5itPSadmgr3EBZ5DI46vHXkMX48Edn6N5H9WcKKSDZvlYGtDCvsl9OV0XfTMAGsxC8jc/gQH6BNXP2XPEbHog50nK9gi9Knrm7cA2mXKGBRvluq5grCccqirQvAtkXfAnu2AyQ8cD4/QDyNovgcAgVQnhzYyq8hU037E3OdymHuHDt2aXvIcarwBpKhYnRBaDEckR7gRtkNPIRjAZ/6OKbx1yCKxwmuAHRPRFdKwC9A/wM1rROERmNtf3yYJ+zA9wI3chCfUz0XhIfGBNfdw3AQtWceCcZihqqNjZz0U3NsnBKPdyypv9AHpT2eGeckZJL9LFAk1h/9ka4hV/cvWGgO91lJktpoZ/CMI3qWeZ5SR/8JFH3MBjkP0iGg9OWva2Xl3W3pXBlDoZ0uhDKQ1FmndOPvvkbm97koCslEzHiCBckQQ8ASshkYIOngio=;TtjiWLRrhqWFsf6HQfEAgQ=="
 ---

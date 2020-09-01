@@ -35,6 +35,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "GeForce RTX 3080 is Nvidia’s New Flagship Next-Gen GPU"
+    excerpt: "The RTX 3080 is said to be up to twice as fast as the original RTX 2080. Built on a custom 8N manufacturing process, it has 28 billion transistors, 8704 CUDA Cores, and a 10 GB GDDR6X VRAM. It was also confirmed that the images showing the curved heatsink and bi-directional fans of the GPU that were leaked earlier in the year are indeed accurate."
+    publishedDateTime: 2020-09-01T19:09:00Z
+    webUrl: "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu"
+    ampWebUrl: "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu/amp"
+    type: article
+    provider:
+      name: From Software
+      domain: gamingbolt.com
+    quality: 59
+    images:
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "MSI unveils first custom NVIDIA GeForce RTX 30 Series GPU’s"
+    excerpt: "MSI has shared its take on NVIDIA’s exciting new GeForce RTX 30 series GPUs, with graphics cards that unite the latest in graphics technology."
+    publishedDateTime: 2020-09-01T18:20:00Z
+    webUrl: "https://invisioncommunity.co.uk/msi-unveils-first-custom-nvidia-geforce-rtx-30-series-gpus/"
+    ampWebUrl: "https://invisioncommunity.co.uk/msi-unveils-first-custom-nvidia-geforce-rtx-30-series-gpus/?amp"
+    cdnAmpWebUrl: "https://invisioncommunity-co-uk.cdn.ampproject.org/c/s/invisioncommunity.co.uk/msi-unveils-first-custom-nvidia-geforce-rtx-30-series-gpus/?amp"
+    type: article
+    provider:
+      name: invisioncommunity.co.uk
+      domain: invisioncommunity.co.uk
+    quality: 59
+    images:
+      - url: "https://invisioncommunity.co.uk/wp-content/uploads/2020/09/msi-rtx-30.jpg"
+        width: 1000
+        height: 564
+        isCached: true
 
 secured: "iXfp8AEnbR2KcxFcBzUrGJBOZxH1pq1shXAQu3TTz+shEAkBBRd2nN6aKHtWON7JcT13IgfY2Zv5dv2uuWJYG04D0LPhy5+Bwg96Xu0twXam/k4HfwYrISffPvHJYJNRtlO4hbFMo8BOBE/IyW2xBpb0awpxsDY0/NG8wc8xzMAVGfeuXf8RqmiP3zFTAzrnldcV5Bf3LTaH7rxBcQSl6Ed6OCwftCsEHsAWqYX88oQuLOIbCxkT2pGOdywvdxxAyJeRajvfKM3MPcSZR5CWvwQKn6lHqNw9WA1ySuz51QvD+Sa5qDQf/zZK1VvYZBl9czkJCU7ggGVKAnvznMoRJIKvxtfGKvJ2BvURdEYWje4=;KZEVpovSGtUd8ZvXMhz/3w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-g
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "GeForce RTX 3080 is Nvidia’s New Flagship Next-Gen GPU"
+    excerpt: "The RTX 3080 is said to be up to twice as fast as the original RTX 2080. Built on a custom 8N manufacturing process, it has 28 billion transistors, 8704 CUDA Cores, and a 10 GB GDDR6X VRAM. It was also confirmed that the images showing the curved heatsink and bi-directional fans of the GPU that were leaked earlier in the year are indeed accurate."
+    publishedDateTime: 2020-09-01T19:09:00Z
+    webUrl: "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu"
+    ampWebUrl: "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu/amp"
+    type: article
+    provider:
+      name: From Software
+      domain: gamingbolt.com
+    quality: 59
+    images:
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "MSI unveils first custom NVIDIA GeForce RTX 30 Series GPU’s"
+    excerpt: "MSI has shared its take on NVIDIA’s exciting new GeForce RTX 30 series GPUs, with graphics cards that unite the latest in graphics technology."
+    publishedDateTime: 2020-09-01T18:20:00Z
+    webUrl: "https://invisioncommunity.co.uk/msi-unveils-first-custom-nvidia-geforce-rtx-30-series-gpus/"
+    ampWebUrl: "https://invisioncommunity.co.uk/msi-unveils-first-custom-nvidia-geforce-rtx-30-series-gpus/?amp"
+    cdnAmpWebUrl: "https://invisioncommunity-co-uk.cdn.ampproject.org/c/s/invisioncommunity.co.uk/msi-unveils-first-custom-nvidia-geforce-rtx-30-series-gpus/?amp"
+    type: article
+    provider:
+      name: invisioncommunity.co.uk
+      domain: invisioncommunity.co.uk
+    quality: 59
+    images:
+      - url: "https://invisioncommunity.co.uk/wp-content/uploads/2020/09/msi-rtx-30.jpg"
+        width: 1000
+        height: 564
+        isCached: true
   - title: "NVIDIA Announces GeForce RTX 30 Series GPU, New Tech"
     excerpt: "NVIDIA unveiled its GeForce RTX 30 Series GPUs, powered by the NVIDIA Ampere architecture, which delivers the greatest-ever generational leap in GeForce history."
     publishedDateTime: 2020-09-01T17:06:00Z
@@ -41,6 +73,6 @@ related:
       domain: worthplaying.com
     quality: 19
 
-secured: "ZYhjlrLd5EdB3jsyq92DcR4/q8K1oh5duWRhq2zwVu2HWUUzLpnGFvjSqaoIiw+acP++DVSlmA4mxGOjPpN5jv0pm2WHS4AQBTZr3+lwKaoL5sbkCHIi0+15Zc195qlWKDqySrbUbXE9aNfpq9csIDFUB0vwN8MNkchFDGUDeKXCMV5hD5iV3DkAme8V4w/acWU03OV9phKLkqcwNNvIJzWi3666uOhUyDqQG5sw+gU+Xzvr5W3jxRNOqla/O7DlQtAhd1MlFRVvONrwdjAYTtQ7EwwU3/Cny1d9paA3JqBWyipCmNo9+r3wWOldxsnQ42R1rsYlxpxCt50lHswcd1KKopuQDZn+zgO7XGBrEdc=;c8voLIrRjhwM1sLibg97Sw=="
+secured: "9W5NACq286lDrXyHcOX5PNDmnTVJ/nz4Ug2pm3Olo6DZ0Z3bGLGHtNHh9ch26ikJZjpx8T+guRmJcSEXgYceoY8yKFbxq5NSAHDCbA9uBu8wPDooR8ocQDE85X73PyNmPxz6zrK9QmQTTfy75IyDNKntjapTaVZgDi5gDmMkxGvK55KrSltovWC6KSmG96gMA/issg51LnJM5qQDXbcLoXPzA7P3BI5aIdranuj9QhcQ7GB4wVIT3U/Vf+B4pOXBXVLbCBLbV10Cn5ybiicCOOl1rrCIb1eqmSB7KF23yUKtIowU30iTzP5H8x48F5U5svcH7HP9O1Eqb8rzVkemHxlMePsBbcLxMFu/GRKPL+h0pHPZ3XfoLcoYiQeUxwyUSWkMcRPhaQ9GhTfwemnpE5nVvIaXXXLCAel9qFe+h8eqxTDcHDIpHOQd6BIHm/jROUUVVd81V3BX6rDxJJKOima8WdUJQCc6fQWDLSJBfxuO4rKRzby50bxJDrSMRbPUkUBKn3N3ZYAqAjVkiVZMqI7HbPPDjPl7ztVNCZWIe0c=;yRODCPOVbHtBuvH6hvbvxg=="
 ---
 

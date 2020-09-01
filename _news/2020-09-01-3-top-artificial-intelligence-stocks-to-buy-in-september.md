@@ -8,9 +8,9 @@ webUrl: "https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-s
 ampWebUrl: "https://www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/"
 type: article
-quality: 89
-heat: -1
-published: false
+quality: 91
+heat: 101
+published: true
 
 provider:
   name: The Motley Fool
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F589831%2Fgettyimages-896358708.jpg&w=1200&op=resize"
@@ -48,6 +49,6 @@ related:
         height: 503
         isCached: true
 
-secured: "+xKakPJ20c+BgOyNdXuXNcmmMQ1p/J7PFUn7I6BmrgUxmer+94paBWmPdEwLW+gxi56j+xUdxMIPjbxFf+fm7tB6P2wE50Va4MSDT3wZhNOXdq2j+oqbmjHu1cYA8w3jSeovVtSIM1AJMSWUj1FeKL1snGoEGyG/TLXthJe/scGCP8uzmdCzRu/Wdcqzzf+mm6XYfRFuzg8diC7yHhpBv84EEJzYT7AjN9/qxNOMD2KC15cMzuQLQhnrQ9QKEwVnXIkz5z5pMZrg7lkQVqu2aUEsLnLUQp/me4Xxoz9mBUCgUijSwKb6CoSR1F//mtGlR/JZILsr+41tStlz0sI+xHV3qAeNeAqt1eRDWuylKLY=;nT6PWboLpMJczulGMnU02w=="
+secured: "NY4ZEsRuS/51uVhO2V2oOZiBmOUeGD7SgdbNXVctq/Cezh2fW1Yj/6dRMbM5E0DGCVDpVnpWS85DCzCTwCYTTGl4pnlka/idmRX18LfQbRH1IYbDy2SttQ8Ci+gQNSCmguAW7kPUMiX8l9INnYzavS8mK1/GY19798l5Ik1L76DqYWa8N7nuqHY26mE6T8Si6rUEEChNnjUj4zxH0unTCUFiM4NT3G173zF/Cwhxd8ELVTimifiUINPLHKCsw2nSVOupSmdiwuRah0rCSXjE4ukPoKXVj9AZSNkIr3aUPgrXk2/9nbnlWpdOwS6M/kru6rO/lLPb9mov5r2x9qPdyGXmhg2VRj7waTUk9hyGW8OEPeK+FHi12aqW0q5tKk/wiDrn6m7FKC3iCzcTUReat8BdqXmUoWP4dTpyNCX0dkKEQ21Wjw4RfoCPev0y6Ka9XXpqjb5L9J9FaL3A90v3EFdmhlTfdaxSDA+gLNStkfOvwBm6awFMMrnYtV3EaNxMabF9p4n8e9AVuzdRPBwl18Gr2SyNRLcQpI9vILS1x7Y=;qxxUGPanhWnjIOmly8lPKw=="
 ---
 

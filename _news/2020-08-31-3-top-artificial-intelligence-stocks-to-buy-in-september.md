@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/08/31/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/"
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Motley Fool
@@ -41,13 +41,13 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F589831%2Fgettyimages-896358708.jpg&w=1200&op=resize"
         width: 1200
         height: 800
         isCached: true
 
-secured: "/sED5kv7ZIswd4Ne5lvdoXrvKrIUlNTEtI1032BNDPsr7xjLU0+D2NGWpXlpUtlw8mcoqI0ziii6Ygwx5RqZwpWjHvfv0mdHCzXfIJ6seHZ5afpoOw7abqJKFe6dt7cMgRIWp57V5P+YFDpg74TqxzRELVwwLHUxp3m/PjV9N+00oOISv9/fFkoQVRi7P/f9jfzfef3/0D127uyB7Hfxfkftyo4iAQ8syT/IMAcxQ++he3WCCZGb2AyklhMuf1tUmpvzwKM8kD12Aq5jCZBxjcnlKhE1y7aJ1NNCFbbcCpCxt5NEncjq1PG+fMS+XsGkRDU/0jlC7TfWW599DP1g5T9ZGW3Kh0FmqP3TnYMCjYY=;Bz1jetCf5ZfRCBs4kqZpZQ=="
+secured: "yihmKS0AIx2UJk/F/6qNRizT5Cr2RiZ4x75JZII4SI0lB+T4NfA4+Qq65F4to4Bl0SImp6y9Y+uTK86ASpMVaSSeFiQdxAn7UyHwWo8bbSBJS90f4+cQg1JJGNPYdESblJYl0AU5oomLVcG2C04NItVKWnHpLWfkABXPTeOulHE7UlmfRkixZ3O9Up+sONJadkS1xAsn1q2tOOkSbZ031MAuPo+QvsHgvm3ovYbkqiHDgJ8fAAKCRhc686cj/Zx20lhK1ZUPOHwDYKOvqJHBmWm89wfOj9JgDVGC5WleEjeIaFC2Qh+x2b7QJ4abp6bVxLX6gbuwTHUjBoFUycxRzXXHCg5IRmONI41J0auTGB1qSrq2VafsDcuJBY0zD5H0fDJGouSC0WpPClvTyldMCNmTfYapKtxUwpl2j9hUzGYyqOmjer0BVtofxtlStF/zlbE3Ipe4NjnmW7nJG1CjIVEBmnKKUzNhcayUcc6BH/dQuHoo7eTiUV24sl+YgRTkR440OPHQ6Zt+xbJFBAKmTSp+VTyC1R5rnppAzlbBPoI=;E4rvt0xsE9IK0tFaU3EjWA=="
 ---
 

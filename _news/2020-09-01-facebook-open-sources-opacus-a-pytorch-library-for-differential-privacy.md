@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytor
 ampWebUrl: "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/amp/"
 type: article
-quality: 90
-heat: 90
+quality: 92
+heat: 92
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Facebook AI
   - AI
   - Google AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all"
