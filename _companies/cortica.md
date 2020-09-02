@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Cortica"
   url: "https://twitter.com/Cortica"
-  followers: 474
+  followers: 473
 
 size: 51-200 employees
 yearFounded: 2007
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=a3qsoevtDiU"
 
-secured: "PPQ/u74qmMeWTHCP3nTpCK/Y6MCQh1y0VvTKEdT/MMx0mX0r4KRzNu+lj9TbiE2uatd6rF6B4q0mQ366J0L6gz9Qrip0V1WkM8xyGg/aoeCCHAbdb1fqQVmm/iHO/2qpphM/jIKNgYIpY/1SStgQwWGIkN+07f8WBZkv2FQnsAWXkKQBzQMyDNa4FCPZMSwbfLMdXUhyZSzOD7jchWCQmgQX0jKQRPP6qtD280jUqzG57COTNWvlSjyezv9hreiOjdaJeZ4u8jZrlgtbhCRq8CkH9Jmc7kYe28QVChJAhLg/WFQay0NWYAOdx+pORuLpzhyQHgSWn27Ji/AF0OaT15B0lZ1uMu5wjPRBnSJGDaKcAJzdlemHQGrpHCe49YR2REJdpF0St9+meSK4ImW3iQ==;QRzawoRHea2ZH6Ovalpf6w=="
+secured: "E1+mhkGp0elDVL6OFXTkMIc7scSiZdXKDbJcBUFGEvDZmqfY5zerITMhgNRo0tmvOHSQdTYNk6ic0hso41BIYDaAC76W5XI7pxX7O75mnYsXnuIo4iMlHFh09lqANA6wB5thzCNGEH0b+BdVqnbBB576J/HohFe+ZMwwBG+3qQsB2qWQro9kEkBP0FPfAPm3hF4j3H2TZQW+0frYB9tl1DOrn6dbnnPfKgZt6d+0qc4PtNyi6JAjDU2Q+UITgO1/sZJdoJ+zYZeaI2ERh+Fl1dpz5JRNGuEkNa1rNUsHlOJrEJnCFqz1x3tqpNCm3fGyJMZn2NvUd4HChx3F4mt0IPu25j59FLAof5qiNQ77seDv2oFJ/l33Uj/Du5Fz3h2QmZrMoAXtKY37NSBUmdGn+w==;Mlykp17BPuO3dNO47FXOqQ=="
 ---
 
