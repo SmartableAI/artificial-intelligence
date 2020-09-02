@@ -23,6 +23,17 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Onica, a Rackspace Technology Company, Introduces Contact Center Intelligence Solution Built on Amazon Web Services"
+    excerpt: "New solution expedites contact center intelligence to enhance the customer experience. SANTA MONICA, Calif., Aug. 18, 2020-- Onica, a Rackspace Technology™ company and Premier Consulting Partner in the Amazon Web Services Partner Network and audited AWS Managed Service Provider,"
+    publishedDateTime: 2020-09-01T20:13:00Z
+    webUrl: "https://www.nasdaq.com/press-release/onica-a-rackspace-technology-company-introduces-contact-center-intelligence-solution"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 27
+
 secured: "mdDnIEyJTC2oSRwqc2PsB5Q0jjJVWHWVxmiU9/0PRQ+jcS1/6kHrdob+H6YoDU5MgROl31xFniCdG+GUl/5GxEDLwRwLQ6JABvHUIyGfEkZBHnNtg/nX7Axz4Cgl6xpKsqelj8EcF5mol+suwiP7m9LAcaws4paBWafXpphY6DnVhQxo6kzHMpg6I2pN5zEhDs1cM2aD3SMx0DdT4DF8uejgp8hO6GdEcddPYQmSWs1LZd+eyEpH0rx6ukqc22uRzHpsLeRhl+kYWo820Ackvl+tg7U/Unu/QP1PxI6jfyZnmEly1aw18VYiRcofkRUqfj4hB8viDx5OgTruLENbNCYzGU2gF6ST/MEASGV50oc=;zvbqZnQXRbjbjlTkiy0GJw=="
 ---
 

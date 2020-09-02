@@ -373,7 +373,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -763,6 +763,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.morningstar.com/news/pr-newswire/20200827sf08053/google-cloud-and-sts-to-automate-us-navy-maintenance-inspections-using-ai-and-ml-technology</loc>
+    <lastmod>2020-08-27T05:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/</loc>
     <lastmod>2020-08-27T05:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1027,8 +1033,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely</loc>
-    <lastmod>2020-08-25T17:05:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
+    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1753,7 +1759,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://exclusive.multibriefs.com/content/artificial-intelligence-finds-a-purpose-in-healthcare-because-of-covid-19/medical-allied-healthcare?MvBriefArticleId=40223</loc>
+    <loc>https://exclusive.multibriefs.com/content/artificial-intelligence-finds-a-purpose-in-healthcare-because-of-covid-19/pharmaceutical</loc>
     <lastmod>2020-08-21T06:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

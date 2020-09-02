@@ -79,6 +79,20 @@ related:
       name: Reason
       domain: reason.com
     quality: 36
+  - title: "Face biometrics adoption expands at U.S. airports, Yoti rapid COVID-19 test system trialed at Heathrow"
+    excerpt: "Tests of biometric facial recognition for touchless domestic flight check-ins will soon begin at Atlanta’s Hartsfield-Jackson International Airport, the Atlanta Journal-Constitution reports."
+    publishedDateTime: 2020-09-01T22:11:00Z
+    webUrl: "https://www.biometricupdate.com/202009/face-biometrics-adoption-expands-at-u-s-airports-yoti-rapid-covid-19-test-system-trialed-at-heathrow"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/19173606/biometric-boarding-JetBlue-JFK-CBP.jpg"
+        width: 678
+        height: 381
+        isCached: true
   - title: "Bishop International Airport to utilize Smart Helmets to measure temperatures, facial recognition"
     excerpt: "Authorities with Bishop International Airport in  announced Friday it will be the first airport in the United States to utilize Smart Helmets."
     publishedDateTime: 2020-08-28T19:38:00Z

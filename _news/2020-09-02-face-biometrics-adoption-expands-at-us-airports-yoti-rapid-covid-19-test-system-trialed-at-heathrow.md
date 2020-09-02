@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Bishop International Airport to utilize Smart Helmets to measure temperatures, facial recognition"
-excerpt: "Authorities with Bishop International Airport in  announced Friday it will be the first airport in the United States to utilize Smart Helmets."
-publishedDateTime: 2020-08-28T19:38:00Z
-originalUrl: "https://www.clickondetroit.com/news/local/2020/08/28/bishop-international-airport-to-utilize-smart-helmets-to-measure-temperatures-facial-recognition/"
-webUrl: "https://www.clickondetroit.com/news/local/2020/08/28/bishop-international-airport-to-utilize-smart-helmets-to-measure-temperatures-facial-recognition/"
+title: "Face biometrics adoption expands at U.S. airports, Yoti rapid COVID-19 test system trialed at Heathrow"
+excerpt: "Tests of biometric facial recognition for touchless domestic flight check-ins will soon begin at Atlanta’s Hartsfield-Jackson International Airport, the Atlanta Journal-Constitution reports."
+publishedDateTime: 2020-09-01T22:11:00Z
+originalUrl: "https://www.biometricupdate.com/202009/face-biometrics-adoption-expands-at-u-s-airports-yoti-rapid-covid-19-test-system-trialed-at-heathrow"
+webUrl: "https://www.biometricupdate.com/202009/face-biometrics-adoption-expands-at-u-s-airports-yoti-rapid-covid-19-test-system-trialed-at-heathrow"
 type: article
-quality: 21
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: clickondetroit.com
-  domain: clickondetroit.com
+  name: Biometric Companies
+  domain: biometricupdate.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/19173606/biometric-boarding-JetBlue-JFK-CBP.jpg"
+    width: 678
+    height: 381
+    isCached: true
 
 related:
   - title: "Atlanta Airport to Test Facial Recognition, Contactless Tech"
@@ -87,21 +93,16 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face biometrics adoption expands at U.S. airports, Yoti rapid COVID-19 test system trialed at Heathrow"
-    excerpt: "Tests of biometric facial recognition for touchless domestic flight check-ins will soon begin at Atlanta’s Hartsfield-Jackson International Airport, the Atlanta Journal-Constitution reports."
-    publishedDateTime: 2020-09-01T22:11:00Z
-    webUrl: "https://www.biometricupdate.com/202009/face-biometrics-adoption-expands-at-u-s-airports-yoti-rapid-covid-19-test-system-trialed-at-heathrow"
+  - title: "Bishop International Airport to utilize Smart Helmets to measure temperatures, facial recognition"
+    excerpt: "Authorities with Bishop International Airport in  announced Friday it will be the first airport in the United States to utilize Smart Helmets."
+    publishedDateTime: 2020-08-28T19:38:00Z
+    webUrl: "https://www.clickondetroit.com/news/local/2020/08/28/bishop-international-airport-to-utilize-smart-helmets-to-measure-temperatures-facial-recognition/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 23
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/19173606/biometric-boarding-JetBlue-JFK-CBP.jpg"
-        width: 678
-        height: 381
-        isCached: true
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 21
 
-secured: "Si/U2sSaK3NQPoXZzuVzpfODGKJEO7o+N/Qovth9arshxRYvSHpBufBhtgywEoQ37dKyiuw8uzB7WLbj9vfPPD6io3Yq8tWFzZ2180RDZAnpZ3vDM7G8w1R9rL+es6aVq39tILSYuKMZpQ3/KVbHzJIA3jlgBbxd/2AMhxSoDcrVwmNBY4h9BLEnF/eX6/i75hCiUOdEVTT2Def6h1nsJpsCjeP4V4ExPtGXSUZ2c2ZM6ryPWXyn0dhkbScZb1/SHXBgUqZ2K2qlnKIfOSCXiQAiNnOwARYhzC0LbVdfmsQNTqwEtEkg6M7/q/t9+O6Fg2eVrpco8N/1c+j5aMqwwNYPnkR367/2d97vCp7al+D4uiKBJFs5EbjleyE+JCABzlUIvSw1XmMo47/QJmutodR7z2iWRgawQmQNOpUC+irYPRWei4XhXCu2WJ6ncoG0d5tI2hv82P6EQ4O0Ozyz+mOP1Jy4J6RJF+R+OZEmkkWq3k0aNSa2WFl7AY2/teIujxVw5d6j7ITdLyINo4WraF6oSoyH+kSWrJR3ExiyeOI=;uQ4a7UgznJONh1nMvsFPHw=="
+secured: "/+XlDIu8bjPDHxX4pLKFK7QPpRzpo5fEFIZoFirla5ZXIt/FzQD0byRXfq8dADw9exwBhM17JSjwRSc2DyxRp3BjPPw9yf+vg4/5uDeHOPxTOAzTVgJARJP1LRaBsrtZMLsnzUSxV/MZgLfl0x2TIzQNNBr+7DhFk4bBdIBQp3U3eTQmQTBwQw3ahb8PnYPwm27taGdwkNP8WwCwBxXteN2bQuO874ry2OnRN+Rt6uBD0yyqZieEaHu+ED6RgpGaaDdcVF1esDHTMcBuvE2fBeUqkuoX2IFkepxqdS9mGpUXmcVMw8R3HASamRyvGZX3+1/lk7srlZsl5Khpw+brHAFXLNXilAjSOOa7NuGaEEY=;0sZ2RDyzGh3XWB3NCk2VvA=="
 ---
 

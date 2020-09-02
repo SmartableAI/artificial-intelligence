@@ -3,6 +3,7 @@ category: news
 title: "Facebook AI creates MRI images four times faster than normal"
 excerpt: "Facebook AI researchers worked with doctors and medical imaging experts at NYU Langone Health to solve this problem and advance AI research at the same time. 'We are using AI to create complete images from far less raw data,' Facebook said. 'Since ..."
 publishedDateTime: 2020-08-18T13:18:00Z
+originalUrl: "https://www.dailymail.co.uk/sciencetech/article-8639049/Facebook-AI-creates-MRI-images-four-times-faster-normal.html"
 webUrl: "https://www.dailymail.co.uk/sciencetech/article-8639049/Facebook-AI-creates-MRI-images-four-times-faster-normal.html"
 type: article
 quality: 39

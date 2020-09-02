@@ -267,6 +267,38 @@
       ]
     },
     {
+      "path": "_news/2020-08-27-google-cloud-and-sts-to-automate-us-navy-maintenance-inspections-using-ai-and-ml-technology.md",
+      "title": "Google Cloud and STS to Automate U.S. Navy Maintenance Inspections Using AI and ML Technology",
+      "excerpt": "How it works: STS will leverage public domain and inspection drone images to build a high-quality AI/ML model using Google Cloud AutoML, a simple, secure, and flexible ML service that allows ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20200827sf08053/google-cloud-and-sts-to-automate-us-navy-maintenance-inspections-using-ai-and-ml-technology",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20200827sf08053/google-cloud-and-sts-to-automate-us-navy-maintenance-inspections-using-ai-and-ml-technology",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-federal-contractor-taps-google-cloud-ai-and-ml-to-inspect-us-navy-vessels.md",
       "title": "Federal contractor taps Google Cloud AI and ML to inspect US Navy vessels",
       "excerpt": "Simple Technology Solutions will be working with Google Cloud to modernize the maintenance and repairs inspection process for Navy vessels and facilities.",
@@ -1368,47 +1400,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-machine-learning-in-retail-market.md",
-      "title": "Machine Learning in Retail Market",
-      "excerpt": "Machine Learning in Retail Market 2020 report is a compilation of first hand information qualitative and quantitative assessment by industry analysts inputs from industry experts and industry participants across the value chain The report provides in depth analysis of parent",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T819308741_g.jpg",
-          "width": 562,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
-      "publishedDateTime": "2020-08-19T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

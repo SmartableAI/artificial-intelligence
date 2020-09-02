@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Reco
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html?AMP"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://www.ajc.com/resizer/cDvLAzMDajltCBlNrKnWCMVLKQ0=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/X5EK7H5RLHFMIPP3WUKSOL6SKE.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Face biometrics adoption expands at U.S. airports, Yoti rapid COVID-19 test system trialed at Heathrow"
+    excerpt: "Tests of biometric facial recognition for touchless domestic flight check-ins will soon begin at Atlanta’s Hartsfield-Jackson International Airport, the Atlanta Journal-Constitution reports."
+    publishedDateTime: 2020-09-01T22:11:00Z
+    webUrl: "https://www.biometricupdate.com/202009/face-biometrics-adoption-expands-at-u-s-airports-yoti-rapid-covid-19-test-system-trialed-at-heathrow"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/19173606/biometric-boarding-JetBlue-JFK-CBP.jpg"
+        width: 678
+        height: 381
         isCached: true
   - title: "Bishop International Airport to utilize Smart Helmets to measure temperatures, facial recognition"
     excerpt: "Authorities with Bishop International Airport in  announced Friday it will be the first airport in the United States to utilize Smart Helmets."

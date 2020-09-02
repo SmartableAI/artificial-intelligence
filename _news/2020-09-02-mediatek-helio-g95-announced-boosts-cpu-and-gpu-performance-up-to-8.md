@@ -1,18 +1,20 @@
 ---
 category: news
-title: "MediaTek unveils chip for premium 4G gaming smartphones"
-excerpt: "The chip offers an AI Super Resolution' display for superior video calling and video streaming on various platforms like Netflix, Hotstar and Amazon Prime. It can support video qualities ranging ..."
-publishedDateTime: 2020-09-01T10:58:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20200901/3619261.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20200901/3619261.html"
+title: "MediaTek Helio G95 announced, boosts CPU and GPU performance up to 8%"
+excerpt: "Enter the Mediatek Helio G95, somewhat of a successor to the G90T and a processor meant for high-end 4G Gaming smartphones. So, what are the specs?"
+publishedDateTime: 2020-09-01T22:31:00Z
+originalUrl: "https://themrphone.com/tech/mediatek-helio-g95"
+webUrl: "https://themrphone.com/tech/mediatek-helio-g95"
+ampWebUrl: "https://themrphone.com/tech/mediatek-helio-g95/amp/"
+cdnAmpWebUrl: "https://themrphone-com.cdn.ampproject.org/c/s/themrphone.com/tech/mediatek-helio-g95/amp/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Mr. Phone
+  domain: themrphone.com
 
 topics:
   - AI Hardware
@@ -51,18 +53,16 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "MediaTek Helio G95 announced, boosts CPU and GPU performance up to 8%"
-    excerpt: "Enter the Mediatek Helio G95, somewhat of a successor to the G90T and a processor meant for high-end 4G Gaming smartphones. So, what are the specs?"
-    publishedDateTime: 2020-09-01T22:31:00Z
-    webUrl: "https://themrphone.com/tech/mediatek-helio-g95"
-    ampWebUrl: "https://themrphone.com/tech/mediatek-helio-g95/amp/"
-    cdnAmpWebUrl: "https://themrphone-com.cdn.ampproject.org/c/s/themrphone.com/tech/mediatek-helio-g95/amp/"
+  - title: "MediaTek unveils chip for premium 4G gaming smartphones"
+    excerpt: "The chip offers an AI Super Resolution' display for superior video calling and video streaming on various platforms like Netflix, Hotstar and Amazon Prime. It can support video qualities ranging ..."
+    publishedDateTime: 2020-09-01T10:58:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200901/3619261.html"
     type: article
     provider:
-      name: Mr. Phone
-      domain: themrphone.com
-    quality: 39
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
-secured: "rv23CG7eoPE7R5oN7ns18d3gvDo3nr2xkf5dZd2wlE+lNikvkXvVe+A98+gah2yxm1Q0xZ73BAQ9KU+uSmB1t/TjJ6UU5RaGLYZGWBXSnCD07oy1dk03dsgPg4zkBxoeByLNTHQwJlc138OY+ntDKzCHn+7HyUD9KItjUH4Nn73wI6PZ8ADJOGZz5e1NjPXdbNH4kTmEh1AW3+RD8ijK9R9BpMJPi4X66P8Q9R6vJ05jnCt7omFXSMWUZhfP5OXs1ijreAuW77E/+D/XT26SsFK46FMZ9RLbQh2xlHopr2m495YW7CfGJ9dDahkjaPmcimPuLF7hIhpGtytqlT6uH+d/1sT+xPg3zc1oi85XMhg=;MWknXUFFc82oZVRb6JzWKA=="
+secured: "UUlCb3jHghgXRlFIA5dsob278bvPjJnMpWHajDwIeDIMbB8SfQ79aCtU9LWCwEfXC7dkFaVtra4VCDOflYnEPripN6zSmHH4/29HTTWm+a9QGyOEa4fqERlH1doPy1Cc9r2tEl+2HFBnvFj1HcWf1Aw/h4FkWyJR8ttNsKmVuPQ4Ezi2qAbNxie39ni/yVvoTfNBgVI0nVmTksgjwZ5ydMOhKaD14ozsXpSl5EhOA4rSHPjnki/THp9XxACO0hd5zKU+Kcb18ETyOn5qSRV/nRNHFwn3sfr8c8mlTDvIu81LJzXG1wPlVq2XFVnnd5Z6rI908Hr8elRHKRD0hqhSK7FhE/nFH5hbSysRT7gMcUs=;dkgIaov45OfwMmuqghbMOg=="
 ---
 

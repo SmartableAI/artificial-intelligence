@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/mediatek-helio-g95-chip-announced-for-gam
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/mediatek-helio-g95-chip-announced-for-gaming-smartphones/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "MediaTek Helio G95 announced, boosts CPU and GPU performance up to 8%"
+    excerpt: "Enter the Mediatek Helio G95, somewhat of a successor to the G90T and a processor meant for high-end 4G Gaming smartphones. So, what are the specs?"
+    publishedDateTime: 2020-09-01T22:31:00Z
+    webUrl: "https://themrphone.com/tech/mediatek-helio-g95"
+    ampWebUrl: "https://themrphone.com/tech/mediatek-helio-g95/amp/"
+    cdnAmpWebUrl: "https://themrphone-com.cdn.ampproject.org/c/s/themrphone.com/tech/mediatek-helio-g95/amp/"
+    type: article
+    provider:
+      name: Mr. Phone
+      domain: themrphone.com
+    quality: 39
   - title: "MediaTek unveils chip for premium 4G gaming smartphones"
     excerpt: "The chip offers an AI Super Resolution' display for superior video calling and video streaming on various platforms like Netflix, Hotstar and Amazon Prime. It can support video qualities ranging ..."
     publishedDateTime: 2020-09-01T10:58:00Z
