@@ -32,6 +32,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
+  - title: "CB Insights Lists Onfido as One of This Year’s FinTech Top 250"
+    excerpt: "Onfido has made CB Insights’ third annual FinTech 250. The 2020 list recognizes the best 250 private fintech companies in the world."
+    publishedDateTime: 2020-09-01T20:17:00Z
+    webUrl: "https://findbiometrics.com/cb-insights-lists-onfido-one-this-years-fintech-top-250-090105/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 24
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/ribbon.jpeg"
+        width: 400
+        height: 286
+        isCached: true
   - title: "CB Insights Names CLARA analytics to Fintech 250 List of Fastest-Growing Fintech Startups"
     excerpt: "CLARA analytics Honored by CB Insights for Achievements in Transforming Commercial Insurance with Artificial Intelligence."
     publishedDateTime: 2020-09-02T01:47:00Z

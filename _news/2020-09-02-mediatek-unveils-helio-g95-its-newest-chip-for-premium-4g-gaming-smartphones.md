@@ -69,6 +69,20 @@ related:
         width: 805
         height: 422
         isCached: true
+  - title: "MediaTek, Qualcomm intro AI chips for gaming smartphones"
+    excerpt: "MediaTek and Qualcomm have introduced their new AI-capable mobile SoC chips designed specifically for gaming smartphones - the Helio G95 and Snapdragon 732G respectively."
+    publishedDateTime: 2020-09-02T04:13:00Z
+    webUrl: "https://www.digitimes.com/news/a20200902PD206.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://www.digitimes.com/newsshow/20200902PD206_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "MediaTek unveils chip for premium 4G gaming smartphones"
     excerpt: "The chip offers an AI Super Resolution' display for superior video calling and video streaming on various platforms like Netflix, Hotstar and Amazon Prime. It can support video qualities ranging ..."
     publishedDateTime: 2020-09-01T10:58:00Z

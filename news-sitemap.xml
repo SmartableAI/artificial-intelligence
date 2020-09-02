@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave-11599033123889.html</loc>
+    <lastmod>2020-09-02T01:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities</loc>
+    <lastmod>2020-09-02T01:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/</loc>
     <lastmod>2020-09-02T00:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -75,12 +87,6 @@
   <url>
     <loc>https://www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/</loc>
     <lastmod>2020-09-01T08:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.theverge.com/2020/9/1/21404004/anti-procrastination-smart-glasses-productivity-boosting-auctify-specs-indiegogo</loc>
-    <lastmod>2020-09-01T08:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -429,12 +435,6 @@
   <url>
     <loc>https://venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/</loc>
     <lastmod>2020-08-29T08:51:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-software-market-survey-report-2020-along-with-statistics-forecasts-till-2026-2020-08-28</loc>
-    <lastmod>2020-08-29T06:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -919,12 +919,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/ac17244991/how-an-automated-data-labeling-platform-fuels-self-driving-industry</loc>
-    <lastmod>2020-08-26T08:38:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.benzinga.com/news/20/08/17251073/warehouse-picking-robot-startup-xyz-raises-17-million</loc>
     <lastmod>2020-08-26T08:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1041,6 +1035,12 @@
   <url>
     <loc>https://www.bloomberg.com/news/articles/2020-08-26/china-still-buying-300-billion-of-chips-from-u-s-elsewhere</loc>
     <lastmod>2020-08-26T01:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://apnews.com/8b323e803837e85372f987447c3481b0</loc>
+    <lastmod>2020-08-26T01:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1945,14 +1945,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech-1029521539</loc>
-    <lastmod>2020-08-20T08:44:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/</loc>
+    <lastmod>2020-08-20T08:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/</loc>
-    <lastmod>2020-08-20T08:29:00-07:00</lastmod>
+    <loc>https://apnews.com/23c39c6175e11f35b0cb61b0b2eded76</loc>
+    <lastmod>2020-08-20T08:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2222,6 +2222,12 @@
   </url>
   <url>
     <loc>https://www.marketwatch.com/press-release/deep-learning-market-new-innovations-trends-research-global-share-and-growth-factor-till-2027-2020-08-19?mod=mw_quote_news</loc>
+    <lastmod>2020-08-19T06:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.globaltimes.cn/content/1198278.shtml</loc>
     <lastmod>2020-08-19T06:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

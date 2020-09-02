@@ -33,19 +33,14 @@ related:
       domain: benzinga.com
     quality: 68
   - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
-    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource o"
+    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing applications and services tailored to specific business needs."
     publishedDateTime: 2020-09-02T07:41:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
+    webUrl: "https://www.arnnet.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
     type: article
     provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 68
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo_2.jpg"
-        width: 620
-        height: 254
-        isCached: true
+      name: ARN
+      domain: arnnet.com.au
+    quality: 48
 
 secured: "5yfIr9DMg+yph46RUaykU4uDgSofwx7147rgI03fsJMOplze2QsV/gsgCiUTyZIPoQyjfxYXHskSaoJhtZ9QiWd3EPxGRuqipwKsXsneJ9tG//2zdD//DEJ58be18+kl5ZDPKEMO5p6F99oPFQxm7eFhCtNLAYkTiVx/F82Omw0wcyZw2qZQKFv4TiN0VpWI/M1X4mVS6g0Dro6S+f9CVOsF3oDsIS/eqPDI1iQtE/CBpaxnA9odPn/N+wnTp94uqd2pxDP77c+VFK8m0N7e5DogOuQRMY3abzAv/8HftmzoE+3xJ84jiING6EZa703Eq3Yr+agSSmuCTMfCQondfqHXGgRMPWpTI1YmqFZQTdFYxrt4iWDt7T+4jF11YdyaxRCJIXfTw+EOYmLypeqc9c14x9Xe+IIqYrEPj0tcEABXF4QY38k1yu8QIYExEfiC0d1hPaTZbdXiPSc8wRyyJ0TcMVbpv0RdieVz3t3+CcGTufah9k6uI15Sh6BmS63DqRjoH6XhPI/61qSqlXQ47w==;lYPjfgqfnjgf8vAZZRfEtw=="
 ---

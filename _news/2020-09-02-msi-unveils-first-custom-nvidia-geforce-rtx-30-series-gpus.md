@@ -59,6 +59,22 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "LG launches 8K OLED TVs with NVIDIA GeForce RTX 30 Series GPU support"
+    excerpt: "Electronics brand LG has expanded its product portfolio with the launch of a new range of 8K OLED TVs. The company is said to be the first TV manufacturer to commercialize 8K OLED"
+    publishedDateTime: 2020-09-02T09:48:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/articleshow/77888361.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/amp_articleshow/77888361.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/amp_articleshow/77888361.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-77888361/77888361.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "NVIDIA Announces GeForce RTX 30 Series GPU, New Tech"
     excerpt: "NVIDIA unveiled its GeForce RTX 30 Series GPUs, powered by the NVIDIA Ampere architecture, which delivers the greatest-ever generational leap in GeForce history."
     publishedDateTime: 2020-09-01T17:06:00Z

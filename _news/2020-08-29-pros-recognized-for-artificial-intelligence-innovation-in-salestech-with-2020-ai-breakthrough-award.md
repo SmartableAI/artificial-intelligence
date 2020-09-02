@@ -39,20 +39,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 78
-  - title: "Liqid Wins 2020 Artificial Intelligence Breakthrough Award"
-    excerpt: "AI Breakthrough, a market intelligence organization that recognizes the top companies, technologies and products in"
-    publishedDateTime: 2020-08-28T15:17:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/liqid-wins-2020-artificial-intelligence-breakthrough-award/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 37
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/shutterstock_oracle-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
 
 secured: "gfji81WlqZqoeve5cEhrlxl+JpKh1c/s1jdnO+FuXioDnglAVy6wQuNYiry3K8UeZz+IAS/ZjTZKt7sg8d/b3QghDk/Ym4LNJg3qs6zplqki+RVr16Z0lt7FwugOTv1NunA+fzL1Sw07G6gSxWgtaTEEmRRUNLQQDg4jMJSlWeFoeK6cTE+RqgHz5qsldFWUToP/nIpxKOEkaA8//Pvlg/c6MZRRA9SQ80Kkb3e3RS7+UmJIPNjpSGUFqTqnHShDDAYnv5M+KDabh1UwehpRiH6+XdEzFxlKdzYyAqIPYjgvfP9XQIDXLoXiQ1Mx9EIJGLaSAMzp2cehZC2tckxUIv06+XfLisLcpEIo88YrssE=;Aant5+83B0pjnBMzW+qdpw=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "New Zealand police upgrade facial recognition system for real-time CCTV biometric identification"
+    excerpt: "New Zealand police have been discreetly rolling out a biometric facial recognition system that uses real-time CCTV feeds to detect people, RNZ writes. The department has reportedly spent some NZ$9"
+    publishedDateTime: 2020-08-31T15:37:00Z
+    webUrl: "https://www.biometricupdate.com/202008/new-zealand-police-upgrade-facial-recognition-system-for-real-time-cctv-biometric-identification"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 26
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
   - title: "FacePhi expands biometric onboarding in Korea, Acuant provides facial recognition for legal compliance"
     excerpt: "Spanish biometrics company FacePhi has announced a milestone achieved with a major Korean financial group, while InfoComply has chosen Acuant’s facial recognition and liveness detection for faster"
     publishedDateTime: 2020-09-01T21:56:00Z

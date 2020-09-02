@@ -21,50 +21,49 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Tech A Safe Way Forward For Policing, Retail Business"
-    excerpt: "Art inspires life as life inspires art. Sometimes, technology inspires art too. Bollywood had made a song and dance sequence on face-recognition technology way back in the 90s. It never was a hypothetical question,"
-    publishedDateTime: 2020-08-28T16:26:00Z
-    webUrl: "https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/"
-    ampWebUrl: "https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/amp/"
+  - title: "Facial recognition technology is biased with higher error rates against people of colour"
+    excerpt: "Even though Williams had nothing to do with the incident, facial recognition technology used by Michigan State Police “matched” his face with a grainy image obtained from an in-store surveillance video showing another African American man taking $3,"
+    publishedDateTime: 2020-08-29T00:41:00Z
+    webUrl: "https://scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour"
+    ampWebUrl: "https://amp.scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 73
+      name: Scroll
+      domain: scroll.in
+    quality: 65
     images:
-      - url: "https://inc42.com/wp-content/uploads/2020/08/Untitled-design-2020-08-28T205829.270-min-1.jpg"
-        width: 1360
-        height: 1020
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/124346-kfgetldkjs-1598371183.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Facial recognition lessons for the private sector from the South Wales police case"
-    excerpt: "In response to the successful appeal against the legality of South Wales Police’s use of facial biometrics for automated public identification, the Data Protection Report from law firm Norton Rose"
-    publishedDateTime: 2020-08-28T18:55:00Z
-    webUrl: "https://www.biometricupdate.com/202008/facial-recognition-lessons-for-the-private-sector-from-the-south-wales-police-case"
+  - title: "Dahua Technology’s AI Gait Recognition Technology hits historical heights on CASIA-B gait dataset"
+    excerpt: "Dahua Technology, a globally renowned video-centric smart IoT solution and service provider, made new breakthroughs in the field of AI technology recently. Various indicators of its Gait"
+    publishedDateTime: 2020-09-02T07:19:00Z
+    webUrl: "https://www.sourcesecurity.com/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 46
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/06/17123440/south-wales-police-facial-recognition-vehicles.jpg"
-        width: 750
-        height: 430
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/cctv-remote-monitoring-920.jpg"
+        width: 612
+        height: 355
         isCached: true
-  - title: "New Zealand police upgrade facial recognition system for real-time CCTV biometric identification"
-    excerpt: "New Zealand police have been discreetly rolling out a biometric facial recognition system that uses real-time CCTV feeds to detect people, RNZ writes. The department has reportedly spent some NZ$9"
-    publishedDateTime: 2020-08-31T15:37:00Z
-    webUrl: "https://www.biometricupdate.com/202008/new-zealand-police-upgrade-facial-recognition-system-for-real-time-cctv-biometric-identification"
+  - title: "Facial recognition technology used to arrest man accused of attempted rape on NYC subway platform"
+    excerpt: "The New York Police Department arrested a man accused of attempting to rape a woman on a subway platform with the help of facial recognition technology."
+    publishedDateTime: 2020-08-31T21:18:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform?_amp=true"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: Washington Examiner
+      domain: washingtonexaminer.com
     quality: 26
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
 
 secured: "MT2MBhvwd10DCdAg/My/yLWIIQ5+EVi6vAzDos3iju+ocGNESHwQaiaMcLzV4l0uA0lZwR+cmXTlAYNGT5xLoZbLn4if+NlIbatBhyFWtFVNyMlGCKAvUFR4MrMn7J628HZpLE+aBUvWYSy6HTPqXiBeZTrewE3EdhN49Ks3La8Q6MoFEvJxkHPWLmUcAVsmDslMQu1yFNHFCxOm9Jly/nXitOCMRZJ84VZ5GkaCG6PN90lheeLeUFXUiXP6Z5jXZMa0RU1g3Df51qgXFV5WCi65cbL6j+49Aue5yKdLhUc8fHfQQbyLEe4zLzH1omq4vcHl4J93s+bwHoysqAmMrhFPqc50aSmGB//T1l7IWP0=;ynvxV+TPW6OlV2yMMR8E/w=="
 ---

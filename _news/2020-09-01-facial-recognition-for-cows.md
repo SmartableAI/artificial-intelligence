@@ -76,20 +76,20 @@ related:
         height: 340
         isCached: true
   - title: "Police facial recognition discrimination against Māori a matter of time - expert"
-    excerpt: "It is only a matter of time before a Māori person is wrongfully arrested because of a false match on facial recognition software, a Māori technology expert says."
-    publishedDateTime: 2020-09-02T07:23:00Z
-    webUrl: "https://www.rnz.co.nz/news/te-manu-korihi/425081/police-facial-recognition-discrimination-against-maori-a-matter-of-time-expert"
-    ampWebUrl: "https://amp.rnz.co.nz/article/1e434633-ecd7-42fa-9c2e-6fb46e96c486"
-    cdnAmpWebUrl: "https://amp-rnz-co-nz.cdn.ampproject.org/c/s/amp.rnz.co.nz/article/1e434633-ecd7-42fa-9c2e-6fb46e96c486"
+    excerpt: "It is only a matter of time before a Māori person is wrongfully arrested because of a false match on facial recognition software, a Māori technology expert says. Police have been working on a $23 million upgrade of their biometrics images system run by the US firm Dataworks Plus,"
+    publishedDateTime: 2020-09-02T09:29:00Z
+    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/police-facial-recognition-discrimination-against-m-ori-matter-time-expert"
+    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDklMkYwMiUyRnBvbGljZS1mYWNpYWwtcmVjb2duaXRpb24tZGlzY3JpbWluYXRpb24tYWdhaW5zdC1tb3JpLWEtbWF0dGVyLW8="
+    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDklMkYwMiUyRnBvbGljZS1mYWNpYWwtcmVjb2duaXRpb24tZGlzY3JpbWluYXRpb24tYWdhaW5zdC1tb3JpLWEtbWF0dGVyLW8="
     type: article
     provider:
-      name: rnz
-      domain: rnz.co.nz
+      name: TVNZ 1
+      domain: tvnz.co.nz
     quality: 69
     images:
-      - url: "https://www.rnz.co.nz/assets/news_crops/107655/eight_col_121526165_l.jpg?1597745835"
-        width: 720
-        height: 450
+      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2019/08/15/tech.jpg?w=700&h=393.75&fit=crop&auto=format"
+        width: 700
+        height: 394
         isCached: true
   - title: "TSA Is Testing Facial Recognition Checkpoints"
     excerpt: "The Transportation Security Administration is starting to use facial recognition, at least on a trial basis. On Tuesday the agency announced that it has begun a pilot of a \"self-service\" checkpoint at the Ronald Reagan Washington National Airport in Washington,"
@@ -135,6 +135,17 @@ related:
         width: 635
         height: 395
         isCached: true
+  - title: "City Council To Discuss Facial Recognition Technology"
+    excerpt: "Pittsburgh City Council will be holding an open discussion on the usage of facial recognition technology in policing. KDKA's Lindsay Ward has the latest."
+    publishedDateTime: 2020-09-02T09:41:00Z
+    webUrl: "https://pittsburgh.cbslocal.com/video/4688716-city-council-to-discuss-facial-recognition-technology/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4688716-city-council-to-discuss-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4688716-city-council-to-discuss-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
   - title: "Taxpayer criticizes Fayette School Board for buying facial recognition cameras"
     excerpt: "A public speaker at the Aug. 24 meeting of the Fayette County Board of Education took issue with the recent decision to purchase thermal imaging/facial recognition cameras to be installed"
     publishedDateTime: 2020-08-30T21:17:00Z
@@ -148,20 +159,6 @@ related:
       - url: "https://d3ebobe8l15pwo.cloudfront.net/wp-content/uploads/2020/08/081220_Thermal-imaging-Hikvision-detectors-for-schools_E.jpg"
         width: 1084
         height: 739
-        isCached: true
-  - title: "Host of colleges adopt facial recognition, temperature scanning biometric system"
-    excerpt: "A group of universities are using an automated temperature screening system that uses facial recognition biometrics to enable building access for students."
-    publishedDateTime: 2020-08-28T15:20:00Z
-    webUrl: "https://www.cr80news.com/news-item/host-of-colleges-adopt-facial-recognition-temperature-scanning-biometric-system/"
-    type: article
-    provider:
-      name: CR80News
-      domain: cr80news.com
-    quality: 34
-    images:
-      - url: "https://www.cr80news.com/wp-content/uploads/2020/08/PopEntry.png"
-        width: 1081
-        height: 651
         isCached: true
 
 secured: "D2f1/QfVpsV0hxWkrSXkGyFw6XD+fugFJcF2ud3ih7PyDOez1xVMt/8W0NB3XLdpIKvmhautr1kwxgpFYCEOwxdJjNEoAHtfAfnkm83+jQ9bHwKvrI/f4mSVlwtL2D2RUC3leB8x/oU6j3NkXTfIHnbFo18TjkIa0fWWG14k3LLB05G2YLx5UKZltGvWv+Y7ulkS6dMtpq7THSm4C7U5EhqgDAT0Yi+LtuiYd3kC3gnVkIfXo5w/Om9r9PXi+qggidsGuBVcsCshTNvzOcd0uRzfr70LBQghRxJaaghdE1YZs9+FA8xw6rQmegvtrvvtwUhMISNhZSdZylyZtCnHxdatm9HSDoUfUKGUFzteTVFB6WBlf8crKnQbStThG0p1Dy10UqOs885/lrclaZYoDQY0GGrY9ZmswdyDZuIWv45OJS2zlBAohg35nMSSFInfD0LYWY9GQaDIE6HMzSRywvH+YL7ulTMB3gSzNNH6Fyq0s9mhDPlPhKICWd9r8HvNPoXJvWgS0wtk06iYarkbihNpKXLetXbjACCM0v6/R6s=;EHHQPSSOLTjfeV/sC2jHnQ=="

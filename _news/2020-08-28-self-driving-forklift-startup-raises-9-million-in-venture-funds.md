@@ -7,7 +7,7 @@ originalUrl: "https://www.dcvelocity.com/articles/46985-self-driving-forklift-st
 webUrl: "https://www.dcvelocity.com/articles/46985-self-driving-forklift-startup-raises-9-million-in-venture-funds"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI startup Entropik Tech raises $8 million in funding led by Alpha Wave"
+    excerpt: "Entropik plans to utilise the funds to expand its presence to the US, European Union and South East Asia, and to deepen its artificial intelligence capabilities"
+    publishedDateTime: 2020-09-02T08:51:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave-11599033123889.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave/amp-11599033123889.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave/amp-11599033123889.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2020/09/02/600x338/startup-kElG--621x414@LiveMint_1599035331905.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Entropik, Indian Startup That Uses AI To Read User Emotions, Raises Funds"
     excerpt: "Entropik Tech, a startup that specialises in facial recognition technology to interpret people’s emotion as they watch video and other media, raised $8 million in its fresh funding to strengthen its technology and expand its business."
     publishedDateTime: 2020-09-01T17:15:00Z
@@ -40,15 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Austin self-driving forklift company raises $9 million"
-    excerpt: "Austin-based Fox Robotics, which makes self-driving forklifts, has raised $9 million in new funding to help ramp up production as the company looks to"
-    publishedDateTime: 2020-08-28T19:58:00Z
-    webUrl: "https://www.statesman.com/business/20200828/austin-self-driving-forklift-company-raises-9-million"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 19
 
 secured: "ZvD5LCTpNVfdQ2V5C28y40+tI/r1EqSdQE9ePKXWJ/ox/agIzkhrVw1WMMVDpWbgiv2sg6s49Wywk14Uc6Z01VnJvFBamH9zCBix6IFPSt7E0jMr1KOOxrnXOohfiYXr3oplypsEyHEZ+YqYY5/w0+4XnJBDDR5idlJ/5SwFkbKycbylND5EDP2ngvPK1ro2g67JNcqGA2FOWcVXXqIaqTttJ29KwWrY3c/IRy7+zcV83MD7/GuECYyuXgk6zC+qHh50l2MhoLZg5pbwxuZI7caREB7Pw3b8OQnbRc9QuLXYNTpHMMr+FUWaAabQXbBkkMlSXArrRKCXxxT2IYdMMdyCt4ZlrmZiKGcOKaNslH4CBDOQMy8Q6wbI20yQDNrIHjtHxh41nBmbeJKSuROLm+c2whGQWgVD6D2BIls59ECzzeeX4e3g1iQR0Nw58TBRcVIKBG+vDF9eOItkHjh0i6uSTKQutBlhQ2gGK7Hz6D9CE7ORXfENmFkPXomPaoptLCv33cI3/efq6339C/LWNFVbPN7konduPdyhXiHiJF4=;Ag3jFV45GUDTK//M23Z7rg=="
 ---
