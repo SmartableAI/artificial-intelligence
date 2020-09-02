@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Health Beat: Depression: Crisis within a crisis"
-    excerpt: "The COVID-19 pandemic has triggered a crisis within a crisis, a mental health emergency. Compared to a 2018 survey, adults in the United States are now eight times more likely"
-    publishedDateTime: 2020-08-28T20:16:00Z
-    webUrl: "https://www.wfmz.com/health/health-beat/health-beat-depression-crisis-within-a-crisis/article_62ca574e-e96b-11ea-8e1a-4f28a2d8f483.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/14/e14f35d2-afd6-5e55-b7ad-4ff71071b6db/5f498242954b8.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Best Life: Depression during pandemic"
     excerpt: "(Ivanhoe Newswire) — The COVID-19 pandemic has triggered a crisis within a crisis, a mental health emergency. Compared to a 2018 survey, adults in the U.S. are now eight times more likely to feel serious mental distress."
     publishedDateTime: 2020-09-01T00:16:00Z

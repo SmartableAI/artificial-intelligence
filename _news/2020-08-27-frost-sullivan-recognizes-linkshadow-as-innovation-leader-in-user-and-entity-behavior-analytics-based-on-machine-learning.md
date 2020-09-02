@@ -2,13 +2,10 @@
 category: news
 title: "Frost & Sullivan Recognizes LinkShadow as Innovation Leader in User and Entity Behavior Analytics Based on Machine Learning"
 excerpt: "Frost & Sullivan has named LinkShadow as a top industry innovator in the Frost Radar™: User and Entity Behavior Analytics Based on"
-publishedDateTime: 2020-08-27T21:59:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning-832126362.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning-832126362.html"
+publishedDateTime: 2020-08-27T12:21:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/frost--sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning-301119695.html"
+webUrl: "https://www.prnewswire.com/news-releases/frost--sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning-301119695.html"
 type: article
-quality: 13
-heat: 13
-published: false
 
 provider:
   name: PR Newswire
@@ -19,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://mma.prnewswire.com/media/1244730/LinkShadow_Frost_Radar.jpg?p=facebook"
+    width: 1000
+    height: 524
     isCached: true
 
-secured: "qV0mCy+GhbrdgdFnI0TJCkSSiQGYZdgpH+Mn/TABb+vaGGlucvFC9ZMPgrzXOs3kxfVY5d7AfN3UMaX8x7IGihIJeTPxpMmaUoNg8+5w29LjznhXmiSkXCFlO2mm1B4L7DgkqmXlVY4n3q+W0RZRbAHAONmBt0EOZJ0X4gnN5W48YnBt6XbG3RysEATohAkuwcrP8tzqlCP7qghbyLg0AYj9Qa7OeerArMbONf4ns5tYDpZiybne4lhwfs21LErFGv0B1yPI1inkohMsY8TCzu47dF3DPoCGWdvSOn+SmZbOQfi0HYgOEwZqq7e0OSoisxwIopSlQkgjDugx1DQjL8IMa9L9Zo5B2c9kYuwarsM=;vBtxoSfXS9A44uwSAmv3NQ=="
+secured: "0jQ4C7SoK9RLdMHmUQOTr6OPq2wMGzgGtzaIhKjwyrgcImHXsmdSRUv2gQ/v/Wzb3qzB8jUpOFJEt1LflsZhIP10yZkTsdCF9WXRMBVCGY4a4uc4l8yXlNyVUCekkzNSSnz5P+q3xIQ2XLK+gtPnoZw2WfDMEB4enDI0sZL8rp7xcNE3VxzleoesnfVPJo3xWJPo5PpR7u2eAEoo4mxVF8hrP8Ee1hd7BJnE55Sdc6O9+F98EaSjaBFmqgUV+J4fBaz2S5XrK0P4/Np8t1n5ARq9QgnvzeJ5gdYRH4OsoWqAGjLiwUhCz49eXnpEbcWKKdjSq3Vq5egaJedAiBjqg7e60d/RnqWDflVOtkmBQIY=;gh8eWoKl1DYG+xJ7G7pv0w=="
 ---
 

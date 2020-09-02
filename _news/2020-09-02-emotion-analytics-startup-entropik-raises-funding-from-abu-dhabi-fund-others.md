@@ -40,6 +40,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI virtual assistant startup Conversica just raised $20 million in Series D funding as part of its 5-year plan for an IPO"
+    excerpt: "The US-based startup provides AI-powered virtual assistants, with the aim of helping businesses complement their existing workforce and automating functions such as sales, marketing, and finance. After a period of heavy investment in its tech hit ..."
+    publishedDateTime: 2020-09-02T12:08:00Z
+    webUrl: "https://www.businessinsider.com/ai-assistant-startup-conversica-just-raised-20-million-series-d-2020-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: "https://i.insider.com/5f4e6e877ed0ee001e25cb92?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Entropik, Indian Startup That Uses AI To Read User Emotions, Raises Funds"
     excerpt: "Entropik Tech, a startup that specialises in facial recognition technology to interpret people’s emotion as they watch video and other media, raised $8 million in its fresh funding to strengthen its technology and expand its business."
     publishedDateTime: 2020-09-01T17:15:00Z

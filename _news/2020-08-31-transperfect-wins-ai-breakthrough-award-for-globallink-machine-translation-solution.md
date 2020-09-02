@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/transperfect-wins-ai-br
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/transperfect-wins-ai-breakthrough-award-for-globallink-machine-translation-solution-1029549034"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
     quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "PROS Recognized for Artificial Intelligence Innovation in SalesTech with 2020 AI Breakthrough Award"
+    excerpt: "Prestigious Annual Awards Program Honors Standout AI and Machine Learning Solut"
+    publishedDateTime: 2020-09-02T05:09:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-08-26/pros-recognized-for-artificial-intelligence-innovation-in-salestech-with-2020-ai-breakthrough-award"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 68
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -41,6 +41,20 @@ related:
         width: 650
         height: 370
         isCached: true
+  - title: "Wealthfront Launches First Self-Driving Money™ Service"
+    excerpt: "Wealthfront launched an exciting new service called Autopilot that automates a client's savings plan so they no longer need to"
+    publishedDateTime: 2020-09-02T12:59:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/wealthfront-launches-first-self-driving-money-service-301122763.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/1247522/Wealthfront_Autopilot.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
 
 secured: "StP7IvpwrLiRXeEGDB2h6sp7kmufsPR66jDAWDVupvZ56qM5EfYTgoA26sR15klWXiIso5dyH0hQ2wUd9M34npqGIZrDhkHZLu3cXIjdTmeWhP0S3brMtViMTfmj4bSQyw2Ki8lW3aEk6T50413qLq36LuxgWfnJRLeHFdkrGHYsN/tLRAg0YkuxeI+HSCe+iQSoRbM41WqIaC1xC+mFPdhE85zXTz/YqJ0aYB+97Jwmw3UnuoqWkWgIhAW9fzC4o2mqva8PzAK1VvNbCuurWoYbrXvIZ7HIa2O4KgGN8Waq3vVnes4E1lC+t/EDyF3WSfqbR1o2afmtu6FcOt4iqaP9qrElPZEMs30JqTi8IZCAYfwCqNUfsbtFsQ45OxYm5uOKUhtb5BFCqferIwarrQ2VPbw5cDVXUYmlV1v5GP2jH3bBiPgykxvSQTEjPvdFXpnXA3abOIJtX7YI1QEsdKHos8zTFV5du6n0VRZgtGjNHaaCTUmCHEx6oY1GKUtFGmt+bjlavIN2beq4BjCU4fprAkt8Ps56LcZ/sKfZ6AM=;P/FuHCtGMQwexVsSVCvCfg=="
 ---
