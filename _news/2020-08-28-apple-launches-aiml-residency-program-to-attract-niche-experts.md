@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-pr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-program-to-attract-niche-experts/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Apple launches residency program for AI/ML experts"
-    excerpt: "A one-year program is to see STEM graduates and industry professionals building new \"high-impact\" Machine Learning and AI-based products supported by Apple."
-    publishedDateTime: 2020-08-28T11:17:00Z
-    webUrl: "https://appleinsider.com/articles/20/08/28/apple-launches-residency-program-for-aiml-experts"
-    ampWebUrl: "https://appleinsider.com/articles/20/08/28/apple-launches-residency-program-for-aiml-experts/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/08/28/apple-launches-residency-program-for-aiml-experts/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/37387-70166-000-lead-Apple-residency-xl.jpg"
-        width: 870
-        height: 485
-        isCached: true
 
 secured: "BPnQNSHJR4Wvy3i5/BBCVKCyf5j6c37nRp7ipKw691JDH7nX2uwe08twb0ywpZB4NmI5Ate+0gXuQzALdGCupH3t7Zl5qLYwsc/KtNA3qrQyLoDANX637VlL/K3cCNpyqJK5ng0TLABODg4+W7fkr3YWr8MfA4drBVPaWpAol8gPp6JSO3QyKAjnApiLq8B75pqTKXxAx46DGeQRz55laDYc5Mf4rKuw0lbopToMb6Qnyly+MT9IvEg1pcS5/xCD2jQl5gwJdx95lvyVzJjt3GhF4D5aWbJRDqYTDU4xFtVk9lm+1MnoaiE9TIww1W+AtNshJqN0gcM6ZFQRWfjLMZUZCPS6QXqTVdx05TwAiSljAl9ytP+vWh1wGuqG6cYaehvBnigRP03EdNumL7N5DFngIhAc2PcKHx50AItuope6NLzhocxTXeQjkOTJWRAoPeSm8iQkleiDqlwEH7GB3Q6+cJZZm632FRCGrmWZYf3kP4XtJg/1ZHzH6zGZf6GXrkGz2+8hIWs28inWqA4PS3DrnGHtre0uAgMD28nFhWI=;foHBB3cHzz+xM0QHq6+dSQ=="
 ---

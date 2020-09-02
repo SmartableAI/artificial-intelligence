@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-cloud-aim-to-enhance-the-u-s-ope
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "IBM Creates New Fan Experiences using AI and Hybrid Cloud for First-Ever Spectator-less US Open"
+    excerpt: "FLUSHING, N.Y., Aug. 28, 2020 /PRNewswire/ -- IBM, the digital partner of the United States Tennis Association (USTA) for 29 years, announced today innovative new fan experiences leveraging ..."
+    publishedDateTime: 2020-08-29T11:12:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open-301120402.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: "https://www.multivu.com/players/English/8668652-ibm-creates-new-ai-fan-experiences-for-us-open/video/Video2_1598535242394-HR.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "ObtIbDefI0rPY6a+bZFu1SroywJmivIaNL1gOUS7VEPza93+2gn9Yhw5SW8qzbgOBm126Zx2t0og4Hk9UQOrHXqabP5/R3ZsOom+gi3I24ohbvJPZ6BZt0QCK/dkv9brww0wMyRY1I5DrGIZuh+uqg6Srhm0IwoTsh/S8vmK8wpc/upXj8uhHjcq5/TmaQXtR658zhG6CmFjcTHDcb/yp7xCgMPbZeRNkHfxsVUv3wTP0vL4eDNf8JW2ApXwK7Qvk8/swpcv9TI76IrsbkCFB6UVGx8QMPA5eaW63JXGkBAbls+R9JMS00ZoPsXKDxr2mMKDXPHTHHsFSEKzOg/DuVUjkQbxBWYfCJtkavbHowxUzvt3/bKKJLCVmKVPMcww2fFLNWIh0K+u8tOF5vovnIu//pHMzZaMt/YcFQ3sMo5tb+Aa7e66NirlwH/rMsPqNkBZvTu0OYmMTN6jX7Oua7urBD+yOhvL3s4DBVlFZWvkLgYQyFvyPLcjgtWpY3NRKFrIM+9H6voTZV7KUSX3x9nl8JSLn0tm9j26g9yKbsw=;Y1JIsZSkMo0N0C9sodWpdQ=="
 ---

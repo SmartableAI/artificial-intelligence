@@ -2,19 +2,19 @@
 category: news
 title: "Atlanta airport plans to test facial recognition, touchless technology"
 excerpt: "Jackson Atlanta International Airport plans to test facial recognition at check-in counters in the domestic terminal, part of a broader push to introduce more touchless technology in response to the coronavirus."
-publishedDateTime: 2020-09-01T01:12:00Z
-originalUrl: "https://www.thenewstribune.com/news/nation-world/article245384385.html"
-webUrl: "https://www.thenewstribune.com/news/nation-world/article245384385.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/article245384385.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/article245384385.html"
+publishedDateTime: 2020-09-01T00:12:00Z
+originalUrl: "https://www.idahostatesman.com/news/nation-world/article245384385.html"
+webUrl: "https://www.idahostatesman.com/news/nation-world/article245384385.html"
+ampWebUrl: "https://amp.idahostatesman.com/news/nation-world/article245384385.html"
+cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/nation-world/article245384385.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: Idaho Statesman
+  domain: idahostatesman.com
 
 topics:
   - Computer Vision
@@ -64,20 +64,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 36
-  - title: "Hartsfield-Jackson plans to test facial recognition, touchless technology in domestic terminal"
-    excerpt: "Jackson International Airport plans to expand the use of facial recognition and other technology to reduce touch points amid the coronavirus pandemic."
-    publishedDateTime: 2020-08-28T11:55:00Z
-    webUrl: "https://www.ajc.com/news/business/hartsfield-jackson-plans-to-test-facial-recognition-touchless-technology-in-domestic-terminal/G4RCBOBKANHKRFJAO47RHOQ2G4/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 27
-    images:
-      - url: "https://www.ajc.com/resizer/cDvLAzMDajltCBlNrKnWCMVLKQ0=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/X5EK7H5RLHFMIPP3WUKSOL6SKE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face biometrics adoption expands at U.S. airports, Yoti rapid COVID-19 test system trialed at Heathrow"
     excerpt: "Tests of biometric facial recognition for touchless domestic flight check-ins will soon begin at Atlanta’s Hartsfield-Jackson International Airport, the Atlanta Journal-Constitution reports."
     publishedDateTime: 2020-09-01T22:11:00Z
@@ -102,6 +88,6 @@ related:
       domain: clickondetroit.com
     quality: 21
 
-secured: "BUhH2PhfC1tOf7Au41fZbTsH1XzZPkO4xsLAUpjPO1abien2U+k1tJoSh3KnnWdqPiZCFmoqSo6Bp/BGw6syuIKFeLyQL7d8ctiqzMTrlQmDke3RbVVZqtfiwHkXjpaatkMzru7S3cKuC65AzTFJ6ig440ULICMepLJkQ26mv+kIjtu7WYhRtog5jfqtsHq0eTj9DHrs7m904FN7GqG5SJcH5BsO1Dth3nksS/xdVFYzIPklpGAIEH4MJBK3ILzAsqWkUSocHuik1ViKet96db8s7LxwmOmIrP9anVH6zaxuOfwyAwEUPuGW4/JZINqRaGPOfE+I+ckon+T4ucoMIkNGAeDiG4juINuScen+Tms=;w1fZFBrJ3rUJsirgWaeumA=="
+secured: "Fqi+VoaERcJ3bLjtNslWiw/03g6YxIWUvI7txbQbViK/Cr+FraMAZZfEVL5ZZptQwU422k+lFQ4zyqhjyFhG+fBVgNqw0+ZedVUXhI9JWFDSoiPhfGrN0maWYg/EJnwNhi0Fdk0GJuWUOlaCLpebmkFDU4JE2ApaZARo712McYEzTj3lV1DwK02dGvWqv48nDi+1k7gB0xnflAq69V0PnYOms81SSBsohXpI8z85T9vrE7DvGfs7qw7D2jH+HSfoJwFHBnP4kkrgapsdfeF267hU7SqU+ApFt5r4Vg34K45JTf0+bTskErFH6WfomLQ/uYrRrM1eViu0PnKu6MPdq/OE1YhFI8UlG3PBA0si0lo=;RNF/TqRKeBX1sQkzfUs2xw=="
 ---
 

@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Google says it’s going to sell ethics advice to AI companies"
-    excerpt: "Google‘s working on a service that would provide ethics consulting for companies building AI solutions. According to a report from Wired, the company is considering launching this ethics consultancy service by the end of the year."
-    publishedDateTime: 2020-08-28T18:04:00Z
-    webUrl: "https://thenextweb.com/neural/2020/08/28/google-says-its-going-to-sell-ethics-advice-to-ai-companies/"
+  - title: "Google offers to help others with the tricky ethics of AI"
+    excerpt: "The company plans to launch new AI ethics services before the end of the year. Initially, Google will offer others advice on tasks such as spotting racial bias in computer vision systems or developing ethical guidelines that govern AI projects."
+    publishedDateTime: 2020-08-29T13:00:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 64
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/ai-artificial-intelligence-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
 
 secured: "BeCjgJQXyKJkKRUnUCONN6Eq1jBt3rFj1crmurApZZjjNCqefKcs6G2+gckwcuvvVCtTwuPO8ASaTVZMmNzmF59F/dbsNMa6oTC/U89zFJYMDbYWR4Mr9fOnmgBtiMk7zz9i5GBf9kbft6wBVOcpzhAIQaO8Va/+umgQpSQ8GDx/iuy3haljf5np4k1x0ECRP63+F7OSGP/ixupDf17toHI5Lqq7SRRsx65Au4rrAILnuqLGTH1It99LNiXq6wYSB7P0faEA2Kb7yt4BqEKvwPmIIwKkYaHAabsKeu5ARnoTXJuYRI/L5/D3rq8jeRaq4ZQrQ+53d/AEJHHr4hiXTjvTyTbmGmiH2g1cbCth867ck3lTrEjNrNKzVTk8tYlMV2mC2PHu3VLREO9hOeslM4WeIa9+C/pBuqQ3KCFS/wxZu4CP8Gj0+3N15FXRw7y272oGHMsvfbtxluoaoj6M2ek86uVEo5LPIcD3okjL4Pahp1GEFrJAJnWn8DWpcC7aGydOx1swQokJCBXvYLvDw0l3DyZF1llniLfPpc9fses=;Eo2amrA0RzRXP/lo6XXXhQ=="
 ---

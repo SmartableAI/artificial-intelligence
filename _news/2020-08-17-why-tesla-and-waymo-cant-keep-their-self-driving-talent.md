@@ -3,6 +3,7 @@ category: news
 title: "Why Tesla and Waymo Can't Keep Their Self-Driving Talent"
 excerpt: "Since August, Tesla, Uber Technologies Inc. and Alphabet Inc.’s Waymo have each lost executives who led ... engineers with expertise in hardware, software or artificial intelligence have an abundance of options. Actual experience leading teams and ..."
 publishedDateTime: 2020-08-17T00:00:00Z
+originalUrl: "https://www.industryweek.com/technology-and-iiot/article/22020545/why-tesla-and-waymo-cant-keep-their-selfdriving-talent"
 webUrl: "https://www.industryweek.com/technology-and-iiot/article/22020545/why-tesla-and-waymo-cant-keep-their-selfdriving-talent"
 type: article
 quality: 54

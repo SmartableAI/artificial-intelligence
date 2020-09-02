@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-
 webUrl: "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Ars Technica
@@ -29,35 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google Offers to Help Others With the Tricky Ethics of AI"
-    excerpt: "After learning its own ethics lessons the hard way, the tech giant will offer services like spotting racial bias or developing guidelines around AI projects."
-    publishedDateTime: 2020-08-28T13:00:00Z
-    webUrl: "https://www.wired.com/story/google-help-others-tricky-ethics-ai/"
-    ampWebUrl: "https://www.wired.com/story/google-help-others-tricky-ethics-ai/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-help-others-tricky-ethics-ai/amp"
+  - title: "Google Could Soon Provide Ethics Service To Companies Building AI Solutions"
+    excerpt: "Google's plan to offer ethics advice to companies building AI solutions is being mocked even before it could be officially launched and there is a reason for it"
+    publishedDateTime: 2020-08-30T02:37:00Z
+    webUrl: "https://www.republicworld.com/technology-news/other-tech-news/google-could-soon-provide-ethics-service-to-companies-building-ai-solu.html"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 104
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 52
     images:
-      - url: "https://media.wired.com/photos/5f483e71bb023d54b55e4e09/master/pass/business_google_20.93146987.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Google will reportedly start offering advice on AI ethics, including on mitigating racial bias in algorithms"
-    excerpt: "Google is reportedly planning to launch new AI ethics services this year to advise clients on spotting racial bias and to help them develop ethical guidelines for AI projects."
-    publishedDateTime: 2020-09-01T07:24:00Z
-    webUrl: "https://www.medianama.com/2020/09/223-google-ai-ethics-service/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 35
-    images:
-      - url: "https://i1.wp.com/www.medianama.com/wp-content/uploads/Sundar-Pichai.png?fit=800%2C541&#038;ssl=1"
-        width: 800
-        height: 541
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/m0jvzgayu1xupocx_1598754032.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 708
         isCached: true
 
 secured: "Yvr519SH2WaVIgBhfGVRvKA1/wjvd1VawHgXq5efV2qKNTDetXxQNp2FSg8sOZD1C1JFLt86YcxPLiGuEX6CGThvoMdK9t3erUAFdu+CmhR37zkqlikizSuQ5V8nZtEJMpuoTK12RbkkgzBAXpvFQrIbShDZ4ug8w5rltHtkfOU/7XAazOimSKVEYt24tzKIausPLd59h1XCNADVukJzoRAANon82pluY+iTTAheSRpry8Hq+GSNVoSglPhGvOgXUgzcfFeQVi3EEktVP76lOcRg8mETkYoOtgaRciqgWXMGZq30JYUcFE273YLviLO5yX7CaewOUw3NzzXFx2r0zaoUOCbOMoKCJqlMNaJdJkvJLgYQcKXGStXqdmnFBf+i7KoeCJASWgYgMB+nSLF5HsOr5WZlWpx3BdvZ1fceCt6u+ihFoJ2MjQ39srQaO+AHzRFN9Sr/v1qyxfVzd+nlqEYpuuf2pkvteZ3nWWzPH48KSTAGjlVySxSARuzRPjOzScxoCRrF4nwE7zVGbhVHzS7qf87oLKW68Zos4GdUG0I=;SC/D8R6WwLEbyxwowJFjiQ=="

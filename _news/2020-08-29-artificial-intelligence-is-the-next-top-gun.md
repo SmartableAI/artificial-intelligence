@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/opinion/articles/2020-08-29/u-s-and-ch
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 360
     height: 240
     isCached: true
-
-related:
-  - title: "Top ten investment trends for the next 10 years"
-    excerpt: "In investment terms, that could mean the next two years rather than the next 10 years. The team at Capital Group have, therefore, taken a trip to 2030 to try to imagine what the trends could shape the future."
-    publishedDateTime: 2020-08-28T11:34:00Z
-    webUrl: "https://www.wealthprofessional.ca/investments/emerging-markets/top-ten-investment-trends-for-the-next-10-years/332779"
-    type: article
-    provider:
-      name: wealthprofessional.ca
-      domain: wealthprofessional.ca
-    quality: 26
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0287_637341828356879660.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "wIXLsfqfnelNsF0qSIeLq96Elov2JA7uINSVEGJNuZPmN/L+HbNCGczjYKYxePWdHtzW5CTKvNX/74TDQAFrpLOenbbrbgFTSHdiBN1pM3s4uCG17eZ3oa0mnQNl+4Stpzax4PWaLRTkKBM9J93bpPkiaYlRiMgjrxnI1U+5C11UogFwkrP7RR4/+xTnC/2tl6cQhJR3+pHBpZNsAaZV0XYS6thinjgDqMoy5zVpK0BkZO3m1vo90iVwgEhLHcFceTEzwXLPy+vJ9/gI0Lxr6K/uX5UlQnM/jDDwlfGqJyTKkrfwEY8CdBD9yG/RvgnzgHftsD1+zUjyq3z9Lv3yOz/ByCWXBdCqxk8k3mK3yQPrLwgdCI3+uU6ilAQFfna8rxo9NdhgIhzDoNphDrwBouTVxqQsDlFDzVCnbg5tU8ZkweNWgUQ5kdg+0pB78cRXmfxyf4q67zv9ureVphuR97z32OdYXacU6KTzx7eH+TDt7bDbI0cc/jdWJcwGYXLY6RGQASDe1wxJ9s1WWB0tqra0BCfqtqv00mjCsNKQGPM=;OusT6Rh9TJoMkbjiWWAaAw=="
 ---

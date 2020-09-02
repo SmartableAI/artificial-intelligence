@@ -46,6 +46,20 @@ related:
         width: 1024
         height: 853
         isCached: true
+  - title: "Google will reportedly start offering advice on AI ethics, including on mitigating racial bias in algorithms"
+    excerpt: "Google is reportedly planning to launch new AI ethics services this year to advise clients on spotting racial bias and to help them develop ethical guidelines for AI projects."
+    publishedDateTime: 2020-09-01T07:24:00Z
+    webUrl: "https://www.medianama.com/2020/09/223-google-ai-ethics-service/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 35
+    images:
+      - url: "https://i1.wp.com/www.medianama.com/wp-content/uploads/Sundar-Pichai.png?fit=800%2C541&#038;ssl=1"
+        width: 800
+        height: 541
+        isCached: true
 
 secured: "Z46IEtj1/BkNWLolajhA1sVywudg8LnHzHHIuhi52ACBMLFH9pnnKRLZ77P22IehnIlWbdDMtas7gKEpeQHmEaQkmA1FzpQ5iU0LCpadD405ZzFFnBIGVp8xjucDSeOiE3whGkbAgaQ1ipBiUDXxYteOAes9+nahjvQKeYNjEeUI1dO2g4fsBfwx+c3xd+OTQfMPSD2uE8cVeqzPbbVnNhQPuCEsCvQFS8/KpHi7t6f8mzvmQ6Se4m4HbhQs9i8S5eqD65ZlOooVO1L3koImFA/poAQj7emBY/v3BoY/pI+ZDBbbcsacXDx8hB/OIlEhgvNWNjObrfS01HYo7R99mArQPjJCEtetoZkC4jUs9Gj3N19vIfNhkQgemju3TNUD3sDHPz0B6e3FYL48JAd8szG4Eqqz1qaXlS5PFyVD5uL0ZOThyk6gC63FSutaNoMW9N8Ksaqy2j5PoehHNtQpwaTdWH6tMJUkEMIQzciaTf69murJ6QObhuvavY2ZoyX8btGTb8scN2JAWAKGXWsbQp33q4WPzF7P9a8LXHUEKFc=;KBIexOJjtMMPYCCyVKcIjg=="
 ---

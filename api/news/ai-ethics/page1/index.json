@@ -53,27 +53,36 @@
       ]
     },
     {
-      "path": "_news/2020-08-28-google-says-its-going-to-sell-ethics-advice-to-ai-companies.md",
-      "title": "Google says it’s going to sell ethics advice to AI companies",
-      "excerpt": "Google‘s working on a service that would provide ethics consulting for companies building AI solutions. According to a report from Wired, the company is considering launching this ethics consultancy service by the end of the year.",
+      "path": "_news/2020-08-29-google-offers-to-help-others-with-the-tricky-ethics-of-ai.md",
+      "title": "Google offers to help others with the tricky ethics of AI",
+      "excerpt": "The company plans to launch new AI ethics services before the end of the year. Initially, Google will offer others advice on tasks such as spotting racial bias in computer vision systems or developing ethical guidelines that govern AI projects.",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/28/google-says-its-going-to-sell-ethics-advice-to-ai-companies/",
-      "originalUrl": "https://thenextweb.com/neural/2020/08/28/google-says-its-going-to-sell-ethics-advice-to-ai-companies/",
+      "webUrl": "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/",
       "featuredContent": null,
-      "heat": 74,
+      "heat": 94,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/ai-artificial-intelligence-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-28T11:04:00-07:00",
+      "publishedDateTime": "2020-08-29T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

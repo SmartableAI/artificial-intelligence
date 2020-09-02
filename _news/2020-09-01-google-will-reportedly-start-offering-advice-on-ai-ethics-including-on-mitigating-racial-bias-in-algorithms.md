@@ -25,35 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Google Offers to Help Others With the Tricky Ethics of AI"
-    excerpt: "After learning its own ethics lessons the hard way, the tech giant will offer services like spotting racial bias or developing guidelines around AI projects."
-    publishedDateTime: 2020-08-28T13:00:00Z
-    webUrl: "https://www.wired.com/story/google-help-others-tricky-ethics-ai/"
-    ampWebUrl: "https://www.wired.com/story/google-help-others-tricky-ethics-ai/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-help-others-tricky-ethics-ai/amp"
+  - title: "Salesforce beefing up field service offering with AI"
+    excerpt: "Salesforce has been adding artificial intelligence to all parts of its platform for several years now. It calls the underlying artificial intelligence layer on the Salesforce platform Einstein. Today the company announced some enhancements to its field service offerings that take advantage of this"
+    publishedDateTime: 2020-09-01T12:13:00Z
+    webUrl: "https://techcrunch.com/2020/09/01/salesforce-beefing-up-field-service-offering-with-ai/"
+    ampWebUrl: "https://techcrunch.com/2020/09/01/salesforce-beefing-up-field-service-offering-with-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/01/salesforce-beefing-up-field-service-offering-with-ai/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 104
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://media.wired.com/photos/5f483e71bb023d54b55e4e09/master/pass/business_google_20.93146987.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1135334309.jpg?w=1024"
+        width: 1024
+        height: 853
         isCached: true
-  - title: "Google offers to help others with the tricky ethics of AI"
-    excerpt: "The company plans to launch new AI ethics services before the end of the year. Initially, Google will offer others advice on tasks such as spotting racial bias in computer vision systems or developing ethical guidelines that govern AI projects."
-    publishedDateTime: 2020-08-29T13:00:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/"
+  - title: "Salesforce details new AI-powered products for field service workers"
+    excerpt: "Salesforce today detailed new features heading to Salesforce Field Service, including appointment scheduling and performance insights for dispatchers."
+    publishedDateTime: 2020-09-01T12:10:00Z
+    webUrl: "https://venturebeat.com/2020/09/01/salesforce-details-new-ai-powered-products-for-field-service-workers/"
+    ampWebUrl: "https://venturebeat.com/2020/09/01/salesforce-details-new-ai-powered-products-for-field-service-workers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/salesforce-details-new-ai-powered-products-for-field-service-workers/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/ai-artificial-intelligence-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://venturebeat.com/wp-content/uploads/2017/06/salesforce-tower-indianapolis-e1571779672792.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "VRWROXQ5UoyLY1ZBboDscNxr79sCC6Q9A7zulyF4A/yG6zKVuKteU7o2nDZVmVZ1ayAPKVbLaOWwPqo7lbWJE40/xLDZCvUz/uXIOLz34t/xQtZJtx7uwckv7n4LmyCRTRgyU8suWvojO2Mwct0VhETeuDEAQNIUWe4VmotLMIcwpa7GQTNrJzlIy0ZizuSWJbWm1SL9/I0g95aJhhvHJEZZKaol7fD70n2bMKB/ggBFUzOdGaUAxOQlsmNDniyv7jgj8bprR8tCyEntHe1y0rDmhkonVQSKOzdgUN721NW5hs+0P+dQhaqOvcXNRNTvQS584wTUlA9fjF8ze7a9e4uqlzoZY0pKnPvzmuoQDik=;5iEu19KSBULKdXfbVTtGHg=="

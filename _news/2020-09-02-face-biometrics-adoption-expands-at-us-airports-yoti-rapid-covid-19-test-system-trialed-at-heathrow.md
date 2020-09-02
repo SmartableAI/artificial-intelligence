@@ -59,14 +59,14 @@ related:
         isCached: true
   - title: "Atlanta airport plans to test facial recognition, touchless technology"
     excerpt: "Jackson Atlanta International Airport plans to test facial recognition at check-in counters in the domestic terminal, part of a broader push to introduce more touchless technology in response to the coronavirus."
-    publishedDateTime: 2020-09-01T01:12:00Z
-    webUrl: "https://www.thenewstribune.com/news/nation-world/article245384385.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/article245384385.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/article245384385.html"
+    publishedDateTime: 2020-09-01T00:12:00Z
+    webUrl: "https://www.idahostatesman.com/news/nation-world/article245384385.html"
+    ampWebUrl: "https://amp.idahostatesman.com/news/nation-world/article245384385.html"
+    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/nation-world/article245384385.html"
     type: article
     provider:
-      name: News Tribune
-      domain: thenewstribune.com
+      name: Idaho Statesman
+      domain: idahostatesman.com
     quality: 54
   - title: "In New Tests, Facial Recognition Products Are Consistently Thwarted by Masks"
     excerpt: "Ongoing tests of facial recognition technology continue to show that the technology is baffled when people wear masks of the sort that have become widespread (and even mandatory) in some places during the current pandemic."
@@ -79,20 +79,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 36
-  - title: "Hartsfield-Jackson plans to test facial recognition, touchless technology in domestic terminal"
-    excerpt: "Jackson International Airport plans to expand the use of facial recognition and other technology to reduce touch points amid the coronavirus pandemic."
-    publishedDateTime: 2020-08-28T11:55:00Z
-    webUrl: "https://www.ajc.com/news/business/hartsfield-jackson-plans-to-test-facial-recognition-touchless-technology-in-domestic-terminal/G4RCBOBKANHKRFJAO47RHOQ2G4/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 27
-    images:
-      - url: "https://www.ajc.com/resizer/cDvLAzMDajltCBlNrKnWCMVLKQ0=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/X5EK7H5RLHFMIPP3WUKSOL6SKE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Bishop International Airport to utilize Smart Helmets to measure temperatures, facial recognition"
     excerpt: "Authorities with Bishop International Airport in  announced Friday it will be the first airport in the United States to utilize Smart Helmets."
     publishedDateTime: 2020-08-28T19:38:00Z
