@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Ellipsis Health Announces Rising Higher, New Voice-Based App, to Help Healthcare Providers Identify and Manage Behavioral Health at Scale"
-excerpt: "Ellipsis Health, pioneer of the first commercial-grade voice-based vital signs to quantify and manage depression and anxiety symptoms at scale, has announced the general availability of the Rising Higher mobile app."
-publishedDateTime: 2020-08-31T14:24:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ellipsis-health-announces-rising-higher-new-voice-based-app-to-help-healthcare-providers-identify-and-manage-behavioral-health-at-scale-1029548496"
-webUrl: "https://markets.businessinsider.com/news/stocks/ellipsis-health-announces-rising-higher-new-voice-based-app-to-help-healthcare-providers-identify-and-manage-behavioral-health-at-scale-1029548496"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ellipsis-health-announces-rising-higher-new-voice-based-app-to-help-healthcare-providers-identify-and-manage-behavioral-health-at-scale-1029548496"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ellipsis-health-announces-rising-higher-new-voice-based-app-to-help-healthcare-providers-identify-and-manage-behavioral-health-at-scale-1029548496"
+excerpt: "Ellipsis Health, pioneer of the first commercial-grade voice-based vital signs to quantify and manage depression and anxiety symptoms at"
+publishedDateTime: 2020-08-31T14:05:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ellipsis-health-announces-rising-higher-new-voice-based-app-to-help-healthcare-providers-identify-and-manage-behavioral-health-at-scale-301121040.html"
+webUrl: "https://www.prnewswire.com/news-releases/ellipsis-health-announces-rising-higher-new-voice-based-app-to-help-healthcare-providers-identify-and-manage-behavioral-health-at-scale-301121040.html"
 type: article
-quality: 21
-heat: 21
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1246096/Ellipsis_Health_Logo.jpg?p=facebook"
+    width: 694
+    height: 363
+    isCached: true
 
 related:
   - title: "Rising Higher Generates a Machine-Learning-Based Assessment of Anxiety and Depression Symptoms Through Analysis of Patient Speech"
@@ -40,6 +40,6 @@ related:
         height: 327
         isCached: true
 
-secured: "fdcxhkzSI4b3lyHSZVGs92Tj/RJiNRPvLfYHrcu+DO75MKVcVPLlxLcHhy7VmYxaLvkhpeKFyU8b989avdDgrz83fPQg3xVnARxBAVKDmQ4ZyKojGk6vlWE+XDmuI3/jRvVzQKMsOsJgJ3V5ui7O9YWjXIbaAu6qzKY4s94fKLvJKvzbcvxAs99YmEK5kZs1TnogmVjHRXJPAOwHzFurBA8LuabTMDjZCPhpKhiZF3q2UhvvTUaF9FTFIR7aa78YIg9ng00qfQQlvTkCr7rpjNB3jX+vtruPhNzB2Ni6rf+LM+FbkmBBwiVSP8PCVusx0+CFzT6SPDBvSSA0sZDx0czUc35HBKBzx2s+APg+aSc=;EE2eeS5FMHC92J0vkfKPAA=="
+secured: "DWmrvOOs2bh7Be/zLhPndiFiSpSMiboIzwPKTIatBdF4rEKDVw1bG4NTLhXaEZcyGfA42PUDOtUF7PF+px3sI3fHJApLbOwI6TVG8gby9gMLndgQBO2tIxkbWL1m3/NOYJDcSksL0Y7AJIFiaQbk6lYN4mCw2moWawD3u0Gw0zHmzUBHxBtaYyQUmWXiT8uby38xgPg3jLd/jWp3aXly5/L2xj1xl4zbLywteULxdGhbpTrOoy2NB1jwB5dpU+EW683GSKc9nPxD57IQ2c3hmPpxXz65ueR7eKb/9n2pkWQTbmy8qBDQ7cu868D8BHpzFmhjHZnrcl8wNMb4164yHB+G/P08hgGOaM0tv/sKB1Y=;JF2P4GtiUylBVt2mCsPUyw=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-01T15:00:00Z
 originalUrl: "https://slator.com/press-releases/venga-global-expands-data-annotation-collection-and-validation-for-ai-and-machine-learning-services/"
 webUrl: "https://slator.com/press-releases/venga-global-expands-data-annotation-collection-and-validation-for-ai-and-machine-learning-services/"
 type: article
-quality: 24
-heat: 24
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://slator.com/assets/2018/02/Venga_2019_Upd_900x600.png"

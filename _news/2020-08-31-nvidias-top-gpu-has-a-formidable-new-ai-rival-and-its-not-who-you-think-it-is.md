@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Nvidia's top GPU has a formidable new AI rival and it's not who you think it is"
-excerpt: "Tachyum, the company that plans to kill the CPU and GPU with its universal Prodigy processor, this week shared additional details regarding its upcoming chip.   As it turns out, the new processor will support industry-standard open-source development frameworks for AI applications,"
+excerpt: "Tachyum, the company that plans to kill the CPU and GPU with its universal Prodigy processor, this week shared additional details regarding its upcoming chip. As it turns out, the new processor will support industry-standard open-source development frameworks for AI applications,"
 publishedDateTime: 2020-08-31T05:00:00Z
-originalUrl: "https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram"
-webUrl: "https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram"
-ampWebUrl: "https://www.techradar.com/sg/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram"
+originalUrl: "https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram"
+webUrl: "https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram"
+ampWebUrl: "https://www.techradar.com/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram"
 type: article
 quality: 100
 heat: 100
@@ -30,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "Ek8hzEWSdimU0YI4+vOfM6U2SnqGgXrGo8kg/9YjrBoPe/DQaM6KGvSv5Cv4nLnEKFqUdApuqqNSCiygnS588Ps+sQrl6tEaVgCUi6jQpHOfK4ABJYjoKzHYH1UElplQCUE/HxoTCUP2HiWk5f9nva8H2g+KnGv2g3sdi66FvRheMLc9sacmlIr/Ao2msyTJrcZ/e4frXWleaQSsuwXAvwid6xieP4NYIo1Or+FLKH35ktFm4h7sBJm2vXYE1WlgeAAhYKUP/NwULQQFpxH2jwPfNjYRG1BggCVeeI62FJYrVuuz6HsgToYQ9Bv8KAj6Uk/5A30IPrc7OWfFE0+O/tonHY5IeZPQ5laqVCdCg3k=;QVDpj5jKoW7N4Qe0ZKB5ag=="
+secured: "PsKFCLiKBG0wzFME3ztn9e+ggEl/OdF2LLNxF9wdmZPZ16yA0Wgac5VQZ9bvHZn4YKb90Zfn4oFep30f4XPfCR/UrnijUNW6ppbN/+QabiBNogW7zRBHdWW2qf3bFzCUgnjX/s88CbQXzuxzWa25gfjlI69IOaM9w7c6CadwRljufhfErBh+dgoY4QqDbxyYcQvR98HBAPinv25oEA0YELZAGblN6l+WQii98pGAEhivZa5iBqe/i6kjs/+2XF0qEUYMs4BYxugVJ2YigJDP3sc6P7pR9uMjCjqsrG4zvD4C7j6rlr+teu40RUpJNNLqidz5X0b3/Pnv8vFd8AgTpjQVO2tGbyV10KX1yi3esSE=;wmTMUouvNBQQls8/1xvl/A=="
 ---
 

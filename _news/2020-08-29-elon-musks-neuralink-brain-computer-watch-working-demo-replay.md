@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/how-to/elon-musks-neuralink-brain-computer-ho
 webUrl: "https://www.youtube.com/watch?v=sr8hzF3j2fo"
 type: article
 quality: 167
-heat: 247
+heat: 237
 published: true
 
 provider:
@@ -130,20 +130,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/mzyq7uxsmmffta3q_1598692813.jpeg?tr=f-jpeg"
         width: 1242
         height: 710
-        isCached: true
-  - title: "Elon Musk’s Neuralink is ready to demo its progress tonight"
-    excerpt: "If there is one man who believes in utilising the power of microchips and computers to make us think faster, it’s Elon Musk. The tech mogul started one of his more ambitious ventures, Neuralink, a few years ago with the intent purpose of inserting microchips into the brain in an effort to improve human intelligence,"
-    publishedDateTime: 2020-08-28T10:49:00Z
-    webUrl: "https://www.criticalhit.net/technology/elon-musks-neuralink-is-ready-to-demo-its-progress-tonight/"
-    type: article
-    provider:
-      name: criticalhit.net
-      domain: criticalhit.net
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/media.criticalhit.net//2020/08/Neuralink.jpg"
-        width: 800
-        height: 536
         isCached: true
 
 secured: "UqOaf20bLAsoVF6VpR0ALZldvJAnxfRNzYx3MehiS8fiLDBqOvaAdGnHtQu0BT+Fm6OZscHRUZv6E7KrNlKnu150xsSBQfAwP8z7uz2gU83lqhhp4EhOyedjbycWA84UVC8tbQaVoGyOUpoWVKwPfuVI24nHZu4Rv+/m9mz2g3CkOjf1Y9bsuEK+nAXS3cl+FOyzQgeYHpUsgVibq3gBz7QwdDp+jWHCZiI8JnkSpLGFKvw4NCUDnzlNGU1NS+dAuXM6Q6rBfSg1AuJFuaGS8C4pSxwiPkvFFuRfTQO99W0S9TMsy+r3iTe9P/7EylAJmV0tN1BM7DnTImlrzwPiJOrF1Ic+iEVekcrTrUO2RlrwPgFtVjftQ9VEd5q4wS2CxFHbrUge6wi4hUseFFST4PSiLUTPTPQPSWzWYbccPTYCeYKbctWgLpWo4Dscgo4OUyRASDrL/7REPNZaSizMTnWq6j4zoZKP1GZWwHqDG6qo7We0Fg5eCMPQAKpH08wIG7YUfzDyWyDKplgYGIGzshrQL846st/sZHuX/6u3Zao=;uKUW3cCfU0HcWDf4BSSADQ=="

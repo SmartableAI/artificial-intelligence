@@ -27,16 +27,19 @@ images:
 
 related:
   - title: "Ellipsis Health Announces Rising Higher, New Voice-Based App, to Help Healthcare Providers Identify and Manage Behavioral Health at Scale"
-    excerpt: "Ellipsis Health, pioneer of the first commercial-grade voice-based vital signs to quantify and manage depression and anxiety symptoms at scale, has announced the general availability of the Rising Higher mobile app."
-    publishedDateTime: 2020-08-31T14:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ellipsis-health-announces-rising-higher-new-voice-based-app-to-help-healthcare-providers-identify-and-manage-behavioral-health-at-scale-1029548496"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ellipsis-health-announces-rising-higher-new-voice-based-app-to-help-healthcare-providers-identify-and-manage-behavioral-health-at-scale-1029548496"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ellipsis-health-announces-rising-higher-new-voice-based-app-to-help-healthcare-providers-identify-and-manage-behavioral-health-at-scale-1029548496"
+    excerpt: "Ellipsis Health, pioneer of the first commercial-grade voice-based vital signs to quantify and manage depression and anxiety symptoms at"
+    publishedDateTime: 2020-08-31T14:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ellipsis-health-announces-rising-higher-new-voice-based-app-to-help-healthcare-providers-identify-and-manage-behavioral-health-at-scale-301121040.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1246096/Ellipsis_Health_Logo.jpg?p=facebook"
+        width: 694
+        height: 363
+        isCached: true
 
 secured: "FMXjNBWBxo8TYZ3ydTtuvN2Toq8RauhzASOQphW+daxOcgIZxIBPGbVOdlp1o8CX6Ff/9dqXfWMpRtCkjDEPKPxZ7aC4spz7m9wBbYv0wjI19gYjf30rCZrSmRPdIQFpk/v5kq/w794xMkRVOqRi3FjcCWAkL4hZinJ81rQGP8KvCMpRWfIHybxYJyUOfb6c8er9awLnZiVMVu/Ie44g1aB8kSq5jUcHtRc1dc8ekgSs34yY3XSrkKkIV4/ZzoK+Qomy7igVeh9xynLOh7AVU0qEIGPn4dFGZ5zUkdyQqxrAzZZYVGry8GxipHHtOt7JK6HW9Yj0/g20kOWaNwqrLynjh/hyUQ/MhICdC0I0jVW8/lCo1AeEmiyUvTLH0kUrFQoIhMTn+DlziKLuPQuEum19tdoQMRWZLhQRosgiqefy/LFwluzhHOCvXyZT6W8rdTq/2UCF9CgklYI8gtKvFfJYKcoD/O9d+f89xm8Jpn3GVzzcHaFBkrx0lZ456g1HAyxzQFGJb9mGY2FOCQ1Sng==;rwCvRx8QxjnSRZg3zfanCg=="
 ---

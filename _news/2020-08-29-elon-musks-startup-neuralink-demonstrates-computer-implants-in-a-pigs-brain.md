@@ -128,20 +128,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
-  - title: "Elon Musk’s Neuralink is ready to demo its progress tonight"
-    excerpt: "If there is one man who believes in utilising the power of microchips and computers to make us think faster, it’s Elon Musk. The tech mogul started one of his more ambitious ventures, Neuralink, a few years ago with the intent purpose of inserting microchips into the brain in an effort to improve human intelligence,"
-    publishedDateTime: 2020-08-28T10:49:00Z
-    webUrl: "https://www.criticalhit.net/technology/elon-musks-neuralink-is-ready-to-demo-its-progress-tonight/"
-    type: article
-    provider:
-      name: criticalhit.net
-      domain: criticalhit.net
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/media.criticalhit.net//2020/08/Neuralink.jpg"
-        width: 800
-        height: 536
-        isCached: true
 
 secured: "kLwOb4KpVrMb0Jicx/yaFlcrys5y+TrUv+JX0qUFcOCbq2JF10tbAnUS20sxSlWZIJ6p9jhvKqa/HO/0nQB/InOKuwtkmYKfS7pM/Skj0V0PClEpKYCV53lXgdMLGeUHNlsfADE1asSqgQLzdqAvaxl/3UW4KFzv15vfNs5f5y2h2IUen3wqYhyYflm/UxeABzDCC13Cxatd+BVgI7ieoacwhiJNTG5/AoUrvE8m/djwgw1da3hXYrP9UbfqisMiHGs/a5LSjEaSxyIc5Cwp/1txjd+YHXVAzNeLBQ1E/ICpf3NbG6zZ6fc9HRudrUHs6PPMn/fPSvePc1CHVtaHYUWin5fdF344TAujU4PLFUo=;03bcnCOwnxuFwsa0xdE4zA=="
 ---

@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Microsoft introduces Hindi, Indian English to Neural Text-to- Speech service"
-excerpt: "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech for a more natural interface.The service also provides customizable voices, fine-tuned auto control, and flexi"
-publishedDateTime: 2020-08-25T07:55:00Z
-originalUrl: "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-11598339825477.html"
-webUrl: "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-11598339825477.html"
-ampWebUrl: "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp-11598339825477.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp-11598339825477.html"
+title: "Microsoft introduces Hindi, Indian English to Neural Text-to-Speech service"
+excerpt: "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech Microsoft India has announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set,"
+publishedDateTime: 2020-08-25T07:31:00Z
+originalUrl: "https://www.tribuneindia.com/news/nation/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
+webUrl: "https://www.tribuneindia.com/news/nation/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
+ampWebUrl: "https://www.tribuneindia.com/news/nation/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
+cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/nation/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
 type: article
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
-  - Machine Learning
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://images.livemint.com/img/2020/08/25/600x338/2020-08-03T164404Z_5_LYNXMPEG720HH_RTROPTP_3_MICROSOFT-TIKTOK_1596761246173_1598340721227.JPG"
-    width: 600
-    height: 338
+  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_1179149585.jpg"
+    width: 660
+    height: 440
     isCached: true
 
-secured: "wJhmii7stYhx8iLcxDR+6kbo2opkOhK5j8cIwzmi+tj/mQxi5PXPPf96esEXErz64N3IO8FjVC6Lsk6ltSSLIepeNn0yAW/WQ/ugn5OAnpLA9wJS6EbM3feQTLEUE6X00gZ5feRD1DevbYpkj4DCduuzCtnYpx8BdgGa08LAAbSAkOKZeHhacpjpK5goNL71d0H3JMAY847wXQCyG1s6qvqZvi/Fb5WbRJVSOxA+PtkmAbMxzYrcvSk+bwpwZXPUmLN2fsdRytJJOM1h8EtSdE5tT/hI4A8APr7kWNUI+SVq05wprGaSsjUXSldl5Ks8qLAqSTf5EUivKBsfIi4SBeiLvrfNfJpollbgRcxJ07g=;3vD4ZsrubWIQiAOVLM3O1g=="
+secured: "fAWh3f5F5Skw6dpR2TyzXMm7HoQO7T98poJqakOIYAQFx+R94PRGJ0dBaxrIzB55AzdgYbF/C5JOGK3VtbiLVBiDjNv6BZLaALbaKYQ2KwPgJAiM8r987Vix8OeIXHuvB+XUuA5owAA1+zhoKFDgX3QVVhNg8nbFJP18BcZkSiIXTUXQ+b0zdBzAOwuP8JPKJiloT6LImR5xWQZMe/Ha7ldA18ITkZeSUfomEiFt6IcyfQ4r8jSsUIb7XYpc7txPoWCBS2CyQiHcsTTXgFyjWuG2cgIiSD/WgAbyKyJ8zAycKjYupdAVVFnkH71YEoe+plkqrbn065JJ+qk3VeW6JpM4PYnt84g+r+HbqH1NUM4=;ZLJ+RsJPS+n86ByYGnvADA=="
 ---
 
