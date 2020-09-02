@@ -3,6 +3,7 @@ category: news
 title: "UNSW explores AI infused analytics for dual data lakes"
 excerpt: "UNSW has begun exploring how AI might be able to help it extract additional value from its dual data lakes. The University built its first data lake in Microsoft Azure in mid-2019 and has since used Azure Databricks to create a second cloud-based curated ..."
 publishedDateTime: 2020-08-11T08:38:00Z
+originalUrl: "https://news.microsoft.com/en-au/features/unsw-explores-ai-infused-analytics-for-dual-data-lakes/"
 webUrl: "https://news.microsoft.com/en-au/features/unsw-explores-ai-infused-analytics-for-dual-data-lakes/"
 type: article
 quality: 39

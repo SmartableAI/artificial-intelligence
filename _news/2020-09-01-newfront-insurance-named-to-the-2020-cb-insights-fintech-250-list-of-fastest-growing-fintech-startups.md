@@ -47,6 +47,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 15
+  - title: "CB Insights Names CLARA analytics to Fintech 250 List of Fastest-Growing Fintech Startups"
+    excerpt: "CLARA analytics Honored by CB Insights for Achievements in Transforming Commercial Insurance with Artificial Intelligence."
+    publishedDateTime: 2020-09-02T01:47:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200901005419/en/CB-Insights-Names-CLARA-analytics-Fintech-250"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
+    images:
+      - url: "https://mms.businesswire.com/media/20200901005419/en/651655/23/CLARA_analytics_logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "OKbwQd3wZXZzUedrk14X4uglHnpMVfY8lx1VuAUTK7QM+omLY0bqgQhp1hMEJwWtWW438Mj0zFDqFDcbjzI1kegL3fZ/T+3vZiBCxK0P2YVAenkC1WC4/mdp2rlJJB7LQzV7+HSH0MONxMvWHqADMQuUlczq7cAR62H3CP4iqA6zWy0Gg4lfFgoxoSCqujOx7N4MnzSkXKq4UW52gdcmKlcBv7jSSuXfSlGFTiLvBIeY4YdpY2s1Xf79p1vssskM4NhL3k/V7XFKFvCZM6qvrMQGEX6NxZQ6/V/UDPpNBItGHIu/ENWtDxvvWrNJl9iak172OiBQDHPoSTsLv76EauyVQ9Q2GpS8aOtQ/Viapzg=;/rT+IgWGTv5vjJ6RNlkCgg=="
 ---

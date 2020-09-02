@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/01/sarcos-robotics-raises-40-million
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/sarcos-robotics-raises-40-million-to-develop-an-exoskeleton-for-industrial-applications/amp/"
 type: article
 quality: 110
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Sarcos Robotics Raises $40 Million in Series C Funding"
+    excerpt: "Today, Sarcos Robotics, a global leader in the production of robots that augment humans to enhance productivity and safety, announced that it has raised $40 million in an oversubscribed Series C financing round."
+    publishedDateTime: 2020-09-02T01:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200901005081/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 69
+    images:
+      - url: "https://mms.businesswire.com/media/20200901005081/en/817041/23/Sarcos_Vertical-blue_2019.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "eLE6ZLzDNEWz0iSbaOYv3Uw0p+pSOkdvz2vRmWVVXFPCfxdGMl1lkkGcKtq/2qoklFfB0uzoPY9c/QxysLZPVnbmWTYilXLo3zkOEj1BrP7iovDAk3uZndozeeTsXKqa8AYovtAFQ3hyhlswmtigFVqOdOi4oDBUHWZ0NAXOv9e7YSbUABW11NNfIxViysXJrhlqVVt+Z0fk5YgM53Xqm9zRex4CtgItkRAJDeBlCOpSIxtfKbs34uLT98ONYbYud04shF9IqBzQaan0iDDZN0vusKDuLH4wtIhl+HE7Yqvyfivt+zB+eT/z4oQUwG6++LdxWx/QE2WWQA1Tlhu10Rtz3a5kLkB0IPC6/NuMHLYK/x+Q1qG35DTHfYopC1Crnh6Xazq+nM4U3uBLWnc0nddbUyTN2cNyR7rvB1sAtnzLijm+wVPC01njLAA3Q+K47wRMyqanstpcTqWtT5a/w+rQwOuyK4Ssj/8YIfRKYG3FV9T8z6eFSuMxMUvpoT2q7vwLm5xhu+DkKMRy/QJGeUXkM+y4CvvhYz39IOuRiic=;+2QGcOLv6bH4Qa0YkAkgSQ=="
 ---

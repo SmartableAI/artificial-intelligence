@@ -61,7 +61,12 @@ related:
     provider:
       name: Mr. Phone
       domain: themrphone.com
-    quality: 39
+    quality: 59
+    images:
+      - url: "https://sgp1.digitaloceanspaces.com/wp-uploads/tech/wp-content/uploads/2020/09/01122557/MediaTek-Helio-G95-Feature-Image.png"
+        width: 805
+        height: 422
+        isCached: true
 
 secured: "rv23CG7eoPE7R5oN7ns18d3gvDo3nr2xkf5dZd2wlE+lNikvkXvVe+A98+gah2yxm1Q0xZ73BAQ9KU+uSmB1t/TjJ6UU5RaGLYZGWBXSnCD07oy1dk03dsgPg4zkBxoeByLNTHQwJlc138OY+ntDKzCHn+7HyUD9KItjUH4Nn73wI6PZ8ADJOGZz5e1NjPXdbNH4kTmEh1AW3+RD8ijK9R9BpMJPi4X66P8Q9R6vJ05jnCt7omFXSMWUZhfP5OXs1ijreAuW77E/+D/XT26SsFK46FMZ9RLbQh2xlHopr2m495YW7CfGJ9dDahkjaPmcimPuLF7hIhpGtytqlT6uH+d/1sT+xPg3zc1oi85XMhg=;MWknXUFFc82oZVRb6JzWKA=="
 ---

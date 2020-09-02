@@ -8,7 +8,7 @@ webUrl: "https://themrphone.com/tech/mediatek-helio-g95"
 ampWebUrl: "https://themrphone.com/tech/mediatek-helio-g95/amp/"
 cdnAmpWebUrl: "https://themrphone-com.cdn.ampproject.org/c/s/themrphone.com/tech/mediatek-helio-g95/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
@@ -19,6 +19,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://sgp1.digitaloceanspaces.com/wp-uploads/tech/wp-content/uploads/2020/09/01122557/MediaTek-Helio-G95-Feature-Image.png"
+    width: 805
+    height: 422
+    isCached: true
 
 related:
   - title: "MediaTek Helio G95 chip announced for gaming smartphones"
@@ -63,6 +69,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "UUlCb3jHghgXRlFIA5dsob278bvPjJnMpWHajDwIeDIMbB8SfQ79aCtU9LWCwEfXC7dkFaVtra4VCDOflYnEPripN6zSmHH4/29HTTWm+a9QGyOEa4fqERlH1doPy1Cc9r2tEl+2HFBnvFj1HcWf1Aw/h4FkWyJR8ttNsKmVuPQ4Ezi2qAbNxie39ni/yVvoTfNBgVI0nVmTksgjwZ5ydMOhKaD14ozsXpSl5EhOA4rSHPjnki/THp9XxACO0hd5zKU+Kcb18ETyOn5qSRV/nRNHFwn3sfr8c8mlTDvIu81LJzXG1wPlVq2XFVnnd5Z6rI908Hr8elRHKRD0hqhSK7FhE/nFH5hbSysRT7gMcUs=;dkgIaov45OfwMmuqghbMOg=="
+secured: "MVf+qMsMo6fg2SlT/ZO9TJHfumppLpUEp8/OVm+Hq7g+gQj7cVQpKgaYqgMi9KIk2E9/1ZFh0PVgwQQVJarMQVpAqgzA76MHb9xtGUrpYASChLdL6g66xsTYZUuKp5SxFSw3NFadPFjT6mzJT/TtVs8/NGo2XTT1lYRvGmUGcwURb2jlHRz4G4/fbic+LNIS/aOCY87cOrQ6mjXIAhCrw0tqTQQSu8x3wG7IfhQOllbK6FJSJ5sScFYH/yCbPQB/rGRfgLr1xuIVagyg/3iqjD+ockP95QyT5++oPGrcezxf1rBqdTV2nCdnCK5DMYIW18WJYRQ4AKENgQT/ehAGzg5GcPZDeE8lRJg2Iqc3ZIM=;2vrvW2ghlaQVj7si05rXWg=="
 ---
 

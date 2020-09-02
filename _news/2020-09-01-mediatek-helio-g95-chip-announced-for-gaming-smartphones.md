@@ -57,7 +57,12 @@ related:
     provider:
       name: Mr. Phone
       domain: themrphone.com
-    quality: 39
+    quality: 59
+    images:
+      - url: "https://sgp1.digitaloceanspaces.com/wp-uploads/tech/wp-content/uploads/2020/09/01122557/MediaTek-Helio-G95-Feature-Image.png"
+        width: 805
+        height: 422
+        isCached: true
   - title: "MediaTek unveils chip for premium 4G gaming smartphones"
     excerpt: "The chip offers an AI Super Resolution' display for superior video calling and video streaming on various platforms like Netflix, Hotstar and Amazon Prime. It can support video qualities ranging ..."
     publishedDateTime: 2020-09-01T10:58:00Z

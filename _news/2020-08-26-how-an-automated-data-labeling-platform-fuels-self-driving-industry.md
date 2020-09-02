@@ -1,26 +1,22 @@
 ---
 category: news
 title: "How an Automated Data Labeling Platform Fuels Self-driving Industry?"
-excerpt: "NEW YORK, NY / ACCESSWIRE / August 26, 2020 / “I’m extremely confident that self-driving cars or essentially complete autonomy will happen, and I think it will happen very quickly,” Tesla CEO Elon Musk said in a virtual speech to the World Artificial Intelligence Conference in July,"
-publishedDateTime: 2020-08-26T08:10:00Z
-originalUrl: "https://apnews.com/8b323e803837e85372f987447c3481b0"
-webUrl: "https://apnews.com/8b323e803837e85372f987447c3481b0"
+excerpt: "Baidu has been developing the autonomous driving ... for autonomous vehicles is ready for application. Behind the self-driving: Machine learning and Data annotation Before we talk about the ..."
+publishedDateTime: 2020-08-26T15:38:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/ac17244991/how-an-automated-data-labeling-platform-fuels-self-driving-industry"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/ac17244991/how-an-automated-data-labeling-platform-fuels-self-driving-industry"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17244991"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17244991"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "d/wXfNyzfQVcNryueLhI9Q0MZurzcRPRmZaQ0SeKwfi98Iua+oV8TBTKmIO6sDd8wbSM5pIB+CZFgyDgv9x0NWjO28XyGGWlRB7y1BrFSz3JTOsOoUR9As04fWctKXH3GfvSCsi2isA1/wNyq03GFnJcxExmOjLGNrY9ylFe/rm3c4L6aa0VKecDCz7W0FQ+X7aY1af3eU4rlKAqnUAHmyY5YKr6R4u+DVw+73bcsbikKsmfmOmQDBJUSm5SVSHcErB+vKeZ4W7dGzI9wKOYCHKVn04UXxXWbaM9Moh2EIGtjxT/jA92Ugbzt1fL4FPdad3Q2l940s+5uZ0qhIlYG3m9EebV1IfKfzxwwb6BAVA=;8T+OMiwqYAftH3/jQscHAg=="
+secured: "QemYPc0WzFSGvcnPCkffyba3Zo6k6jfUZQSWY+qtp8zfWMTPUAHvVmjzooCziE+k8rg2nYIRWYJePbt39Sr9jg7rNBNOTWzow30Cz0SrmipbXxtoemGz3PHqMEoS7BT92nA5H3hzOs3HyTO2GTkWwhJZVg4o4VonuSY8LPi4VQ2Co9njd4+nk3yObOrfoTXudgWjRFoIeSj9l1RtnxGlAfJYshwVtijFHyfaz28si4WReD/n34YC3Hs/mJQDBAivRPDHBc8DoduJZH4pbaMVoWjoHq/DPNytO9+IalgA5148HMbrkjQzadc522j5yI7rgq6q+5fNS/xJvo5/HAONNjkmkdt+KPozKOqjEHx/KFg=;lYpmaeve0s6+l9fkf4WcwQ=="
 ---
 

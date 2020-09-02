@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/how-to/elon-musks-neuralink-brain-computer-ho
 webUrl: "https://www.youtube.com/watch?v=sr8hzF3j2fo"
 type: article
 quality: 167
-heat: 257
+heat: 247
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://i.insider.com/5f496a247ffa48002894cf87?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Elon Musk Is Finally Revealing Neuralink’s Controversial Brain Chip"
-    excerpt: "Tesla and SpaceX CEO Elon Musk will reveal a major update of his biotech startup Neuralink and demonstrate a “working device” for the company’s hyped brain-machine interface. Neuralink’s technology, the founder claims,"
-    publishedDateTime: 2020-08-28T09:00:00Z
-    webUrl: "https://observer.com/2020/08/elon-musk-reveal-neuralink-brain-chip-implant-ai-friday/"
-    ampWebUrl: "https://observer.com/2020/08/elon-musk-reveal-neuralink-brain-chip-implant-ai-friday/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/08/elon-musk-reveal-neuralink-brain-chip-implant-ai-friday/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 74
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2019/11/franck-v-ykw0jjp7rlu-unsplash-e1573142866469.jpg?quality=80&strip"
-        width: 3411
-        height: 2274
         isCached: true
   - title: "Artificial intelligence: Elon Musk puts computer chips in animal brains"
     excerpt: "Elon Musk, the founder of the American company Tesla and SpaceX, demonstrated how to connect a computer chip made by his new company ‘Neuralink’ to the animal brain. Elon Musk’s company, Neuralink, has developed a chip in just four years,"

@@ -32,6 +32,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
+  - title: "CB Insights Names CLARA analytics to Fintech 250 List of Fastest-Growing Fintech Startups"
+    excerpt: "CLARA analytics Honored by CB Insights for Achievements in Transforming Commercial Insurance with Artificial Intelligence."
+    publishedDateTime: 2020-09-02T01:47:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200901005419/en/CB-Insights-Names-CLARA-analytics-Fintech-250"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
+    images:
+      - url: "https://mms.businesswire.com/media/20200901005419/en/651655/23/CLARA_analytics_logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Newfront Insurance Named to the 2020 CB Insights Fintech 250 List of Fastest-Growing Fintech Startups"
     excerpt: "CB Insights today named Newfront Insurance to the third annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. The recognition by CB Insights is the latest in a string of milestones for three-year old Newfront,"
     publishedDateTime: 2020-09-01T13:00:00Z

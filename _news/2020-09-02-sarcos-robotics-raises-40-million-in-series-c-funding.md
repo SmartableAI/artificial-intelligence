@@ -1,0 +1,47 @@
+---
+category: news
+title: "Sarcos Robotics Raises $40 Million in Series C Funding"
+excerpt: "Today, Sarcos Robotics, a global leader in the production of robots that augment humans to enhance productivity and safety, announced that it has raised $40 million in an oversubscribed Series C financing round."
+publishedDateTime: 2020-09-02T01:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20200901005081/en/"
+webUrl: "https://www.businesswire.com/news/home/20200901005081/en/"
+type: article
+quality: 69
+heat: -1
+published: false
+
+provider:
+  name: Business Wire
+  domain: businesswire.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://mms.businesswire.com/media/20200901005081/en/817041/23/Sarcos_Vertical-blue_2019.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
+related:
+  - title: "Sarcos Robotics raises $40 million to develop an exoskeleton for industrial applications"
+    excerpt: "Sarcos Robotics, a startup developing robots for industrial and defense applications, today nabbed $40 million in equity financing."
+    publishedDateTime: 2020-09-01T13:07:00Z
+    webUrl: "https://venturebeat.com/2020/09/01/sarcos-robotics-raises-40-million-to-develop-an-exoskeleton-for-industrial-applications/"
+    ampWebUrl: "https://venturebeat.com/2020/09/01/sarcos-robotics-raises-40-million-to-develop-an-exoskeleton-for-industrial-applications/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/sarcos-robotics-raises-40-million-to-develop-an-exoskeleton-for-industrial-applications/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 110
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/sarcos-hero-e1598912552984.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "/cQowJ6GsxUXOgH99r2GWkYlM4APFqH8j+OD6kS6xTSsga7Lt0Xgsn6li2HfxK2PLpdhDScepDzsD6HCaVdGkP6klZRlCinj03khBeI/DCZop3tnqUUNuM6pBVaCUBRZQzQFMxcrnFVO4aARLickPAv9Lk5s8mnzRUp7feiVsBCSk5pNehyo/xMsU37D4CsADFvb+K8GVNnfzNgAhsBPyoNI995zVlNNLqwQgCZ4kLWCYTy72Vp7YeB/uN8Wdp/diwa8sRCLprDoq8gEbYMyivUqYPUcLC29rDmn3iZvpBrdLUEPCsbDvXuzIGQMSRxWBe9N2z2t+4f4c8OZ+uVXI+pmLEg800RqAeXmK1ZhvXE=;SIP9CAlPsp/coPya0sUnjw=="
+---
+

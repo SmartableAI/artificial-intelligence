@@ -39,6 +39,20 @@ related:
         width: 1081
         height: 651
         isCached: true
+  - title: "FacePhi expands biometric onboarding in Korea, Acuant provides facial recognition for legal compliance"
+    excerpt: "Spanish biometrics company FacePhi has announced a milestone achieved with a major Korean financial group, while InfoComply has chosen Acuant’s facial recognition and liveness detection for faster"
+    publishedDateTime: 2020-09-01T21:56:00Z
+    webUrl: "https://www.biometricupdate.com/202009/facephi-expands-biometric-onboarding-in-korea-acuant-provides-facial-recognition-for-legal-compliance"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/20163220/biometric-facial-recognition-selfie-for-remote-banking-identification.jpg"
+        width: 900
+        height: 672
+        isCached: true
 
 secured: "VRDwT6w4BCooJAJUGREy3mCiLHj5w6nfCotpbmFFsSmbkv0YT5rdHOr2EVP8hlwy4g6tDlP7c57RYD9HUUSnyMCQRqLJ+R3tCUw66ai0Ym4wINxu7OdL2pcQ1CST8Us3KMERxt3yXKT0QM3xgy40/z1wsUsljZNBl+Tz2wM1i5ag+MqLT0f9EZLzHtbJWZ/T38rqDhpKVseNx9kDTgyIovmM1eWYyuHYC1gRToZH/QAtHbkZhqgyLfCs/v5umM9Z3CeMd35+HQ/6UZVvGu9GTN4/4D/dXmQt/2+9OpzPzz8JOX/EqBxJYQTYV+eozmOdW4kL2Wp5HuZ9BmYnTHv1rbS/oLy4BQQj3OmxsznkAq8o/lFevDE6Ca1t4tgxHUUF0nNw0krtMa3Bqd47HR4xhuk90fZ5FHzcxKfcZTR/EGVtthwXf9pkkdbqJB4rDzxriTldbueN5ZGRUX8U25wf1UvL+J3RL7FTz+Ith5+TcyksfDDn3qmLjsR95MnlNAtTbcPU4xM42CTmmszSacAyEnSbNX4NVv+4BttseZDUhmQ=;wLOXNfSGr15tEWF6Yla/JA=="
 ---
