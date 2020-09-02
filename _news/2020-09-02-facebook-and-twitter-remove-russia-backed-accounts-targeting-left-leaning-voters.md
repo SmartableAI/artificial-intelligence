@@ -7,7 +7,7 @@ originalUrl: "https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remo
 webUrl: "https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,40 @@ images:
     width: 719
     height: 404
     isCached: true
+
+related:
+  - title: "Facebook, Twitter take down accounts allegedly linked to Russian state actors"
+    excerpt: "According to Facebook, 13 accounts and two pages tied to Russia’s Internet Research Agency were removed from the social network. This activity allegedly focused on the United Kingdom, the United States,"
+    publishedDateTime: 2020-09-02T01:56:00Z
+    webUrl: "https://tass.com/society/1196273"
+    ampWebUrl: "https://tass.com/society/1196273/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/society/1196273/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 41
+    images:
+      - url: "https://phototass2.cdnvideo.ru/width/1080_4713ca57/tass/m2/en//uploads/i/20200902/1282065.jpg"
+        width: 1014
+        height: 646
+        isCached: true
+  - title: "Russian agency created fake leftwing news outlet with fictional editors, Facebook says"
+    excerpt: "Internet Research Agency also hired real, unwitting freelance reporters in operation Facebook has removed"
+    publishedDateTime: 2020-09-01T21:16:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/sep/01/facebook-russia-internet-research-agency-fake-news"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/sep/01/facebook-russia-internet-research-agency-fake-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/sep/01/facebook-russia-internet-research-agency-fake-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 36
+    images:
+      - url: "https://i.guim.co.uk/img/media/6a00c601b5f3c3f15ad8539bf2561636ad8747cf/0_0_4703_2822/master/4703.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ddf89a7b6974a55643932365602e6e85"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "7yqaviW+ylCwGZsNfvdzye1qaWseZjbO8qu6BUESviyf+A7BbR+eRuB/9n4Hhs4g6Z0jbl8V/voazbhHwf3pXFwbT40fi6mK/TAjm7ZJxq8aL81uaAsftbirvNBMr0NaXvUjSp29aXn7cejdEI3v/8jlJXOr1UDqN813AU/7QGVTaZ9Xb+5sYyrLOku3V305JU8g0vg33CrZ+1sXpE9XXEid5DReBhkckxb1jcKNzXXyKLGDtVwBnhPgrwVwklu7gCiEPB5jNwcjeZR9+++BZBjv/Rb39kORzCDkXZiDBPr4lI2EEwMF7Xp4J3LYiv6P8RJTQ19/GWw7G67YHJfFjGj5b/+HEu9RQ0yraHemf4Se3ThMBzYYv9GDaRIdqi+Xh4ruGC5tZHUrAVVqRCT5KCW4DIHr74/aNSR6t9u8X51vfBjFMFXLxUJVBSrJdQlyopnRTtnaLwyc7zqjfjg6G3jwA8IOaEtrTYxljl1jO1/NqmyHlgma+IY2wjPDTxQxfIhDCPS8fdnK8XRIHwWo5g386PQ0Dzz1DXyIqUZKXOY=;jRTXNMKeVc8biDO6ZOdzpQ=="
 ---

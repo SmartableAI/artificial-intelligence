@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-ma
 webUrl: "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-august-2020-edition/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 900
     height: 449
     isCached: true
+
+related:
+  - title: "Startup Funding: August 2020"
+    excerpt: "The startup also makes quantum dot technology that uses nano-pores to improve efficiency for mini and micro LED displays. Brantford, Conn.-based Saphlux spun out of the Nitride Group at Yale University in 2014 and has raised $15."
+    publishedDateTime: 2020-09-02T07:10:00Z
+    webUrl: "https://semiengineering.com/startup-funding-august-2020/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 22
+    images:
+      - url: "https://i0.wp.com/semiengineering.com/wp-content/uploads/startup-funding-2020-08-Aug-table1.png?fit=791%2C511&#038;ssl=1"
+        width: 791
+        height: 511
+        isCached: true
 
 secured: "MnZMyx/qT2lsK7Q4POnhjZ2U0EtLYdUd1AffS9xctrmJ6tO3+D7G0ZkelZIIzOjetBD4w4uhj6ZIwn4p2GG/zjecD9BGpA8gkf8MQoVwCmf5dPcpkFzmmnOoIdRcqocnQNAuYCj3IGYfYXPa466JRc3echwUMKgkbyKIZcT9Qu4VCzWMLdUrYYE6ETkrLotq0NcrfGvKR6gbNkHMQkuTtOn6kWaPolp5tiNwBVahwFX15mJOoIEZC2RE1Sa8lQ1/yyoRnnnEXzL9LAvddphKzZDGAMu9DIBI1EE0PEXPnuuIDU7nDhNfY9tGfypiZ9QJQeDLXn4LKAy6OsSPSShNOPKam8Z5dRNoLGphswL52kI=;gNBQoGP/VDnY8gSCKhXDpQ=="
 ---

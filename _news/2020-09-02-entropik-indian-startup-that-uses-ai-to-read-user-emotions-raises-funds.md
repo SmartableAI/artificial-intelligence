@@ -40,19 +40,19 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Self-driving forklift startup raises $9 million in venture funds"
-    excerpt: "The Texas-based, self-driving forklift startup Fox Robotics has raised $9 million in venture capital funding for its vehicles that automatically unload trailers, and will use the backing to ramp up production and meet growing demand,"
-    publishedDateTime: 2020-08-28T18:35:00Z
-    webUrl: "https://www.dcvelocity.com/articles/46985-self-driving-forklift-startup-raises-9-million-in-venture-funds"
+  - title: "Emotion analytics startup Entropik raises funding from Abu Dhabi fund, others"
+    excerpt: "Entropik Technologies Pvt Ltd, an artificial intelligence startup focussed on emotion analytics, has raised $8 million (Rs 58"
+    publishedDateTime: 2020-09-02T11:30:00Z
+    webUrl: "https://www.vccircle.com/emotion-analytics-startup-entropik-raises-funding-from-abu-dhabi-fund-others"
     type: article
     provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 41
+      name: VCCircle
+      domain: vccircle.com
+    quality: 34
     images:
-      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202008/fox-robotics-forklift_with_pickles.jpg?height=635&t=1598639443&width=1200"
-        width: 679
-        height: 635
+      - url: "https://assets.vccircle.com/uploads/2020/09/MrRanjanKumarCEOandFounderEntropikTech.jpg"
+        width: 810
+        height: 506
         isCached: true
 
 secured: "XnDzPyjrkh017cE6wk9gos5vcvj6ISeN0AEtrTEdFk1oESihwMhkOddZeQakrB4p22BalIcJYDBOQUEpEufgpLuITtnWsH/7wDZDilwyzHioXSQIkkhr8G+VFCPRfuBd+wZ66J0GZDjvesiHerkBIpxChqWT+9jp+hRBEFFMtXL/jnr7uYp1qL3dpVFV4Y+LssoWnnwUoMpbMFkpCqu/tcqzSB3CbZn+CsvYhYcAHSLDqIGUlPxcSrI43d8JdJ3FM5IUsM9EfaquMt4KRxFL5R36SIDfANMRU9JN2jNbonEDcj/QzQaq/rmIQMNzy6gL/M3o9Fi+p3qO0lVxZD+HFeJFghBsJaM8A+q7t8WqQSDHz8dZpfwpId2PPN4nZbIBVdH2XdN/UovlCpqUcUJCvmqwW+g9N7YM4anm2FgETYNNfpqp/4bsHMvaqnrXUzYiaHPNBFNDjO9balQmFYhZEdiax6Oqv2FmRE6W3oIiNS+ibe1DovQ0qmxe6YDbiYSxNHRLBumOqnLGBCY4i9JEdw==;KOzLb4tcCbnmKDrvjtGvYg=="

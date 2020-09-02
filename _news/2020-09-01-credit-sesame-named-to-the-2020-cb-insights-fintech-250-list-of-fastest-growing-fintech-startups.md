@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "These are the 20 Indian startups in the CBInsights list of 250 world’s most promising fintech companies"
+    excerpt: "There are currently over 2,174 fintech startups, according to a recent MEDICI Global report.From Bharatpe to Cred to Razorypay, here are the startups that have been counted among the world’s most promising fintech cos."
+    publishedDateTime: 2020-09-02T10:30:00Z
+    webUrl: "https://www.businessinsider.in/business/startups/news/these-are-the-20-indian-startups-in-the-cbinsights-list-of-250-worlds-most-promising-fintech-companies/slidelist/77888484.cms"
+    ampWebUrl: "https://www.businessinsider.in/business/startups/news/these-are-the-20-indian-startups-in-the-cbinsights-list-of-250-worlds-most-promising-fintech-companies/amp_slidelist/77888484.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/startups/news/these-are-the-20-indian-startups-in-the-cbinsights-list-of-250-worlds-most-promising-fintech-companies/amp_slidelist/77888484.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 28
+    images:
+      - url: "https://www.businessinsider.in/thumb/msid-77888484,width-500,resizemode-4/These-are-the-20-Indian-startups-in-the-CB-Insights-list-of-250-worlds-most-promising-fintech-companies.jpg"
+        width: 500
+        height: 334
+        isCached: true
   - title: "CB Insights Lists Onfido as One of This Year’s FinTech Top 250"
     excerpt: "Onfido has made CB Insights’ third annual FinTech 250. The 2020 list recognizes the best 250 private fintech companies in the world."
     publishedDateTime: 2020-09-01T20:17:00Z

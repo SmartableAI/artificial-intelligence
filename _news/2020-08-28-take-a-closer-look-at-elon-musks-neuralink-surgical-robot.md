@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-n
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk unveils updated Neuralink brain implant design and surgical robot"
+    excerpt: "Elon Musk's neuroscience startup Neuralink has revealed the \"dramatically simplified\" design for an implant that aims to create brain-to-machine interfaces, alongside the robot that will insert it and several pigs that have the device installed."
+    publishedDateTime: 2020-09-02T11:39:00Z
+    webUrl: "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/"
+    ampWebUrl: "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/amp/"
+    cdnAmpWebUrl: "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/amp/"
+    type: article
+    provider:
+      name: Dezeen
+      domain: dezeen.com
+    quality: 72
+    images:
+      - url: "https://static.dezeen.com/uploads/2020/09/neuralink-elon-musk-woke-studio-technology_dezeen_2364_hero-1-852x479.jpg"
+        width: 852
+        height: 479
+        isCached: true
   - title: "Meet Elon Musk's surgical robot"
     excerpt: "Elon Musk debuted the Neuralink surgical robot during a presentation about the company with the same name, TechCrunch reports."
     publishedDateTime: 2020-08-31T18:35:00Z

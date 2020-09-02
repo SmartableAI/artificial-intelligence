@@ -64,6 +64,17 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Reporter Update: Open Hearing On Facial Recognition Technology"
+    excerpt: "Pittsburgh City Council will hold an open hearing today regarding the usage of facial recognition technology by police. One councilman says if they were to get the technology, it would do more harm than good."
+    publishedDateTime: 2020-09-02T11:39:00Z
+    webUrl: "https://pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
 
 secured: "DpoSH5g47oRxH2FGRI4pHhkTIF17MWZWRCAm0c//76Lfoko2FaHMWvYic6nD/Ji7FBtIO/WtdudeM9zrDAjhGTYJFoiSfifAkDiEPyM0p2dnUibsSiV3hpgf+R2uHH3kI3XyDoxUhDR89eSyd+RPOXwOqvu5nlpgCpHi2+rJjHgxkc6oyMBrscnh6q6mfea+GoSwyl+qRTd0tqQaKUcLLhlLHdqNMCTP1twYbDls4uIcei4WsWD3Y01lIXFNpgTu8wOTKgucAtDCfeazXBIqah0zJVvvA5+oK7+/oedJqETkyIQ1ZFh2SCh718WiVMVFOOhvHWKeGx1ha+AF2NTYqV9X3ACC1+JGv0jYNMjkuKNUUsiF4rLj5dlGli/C1iQ+u9q0GoDfo6zaxemzmLHHIyUZpR3DE6VW5uyDCn6DHTfjfR6dgIo41g86klipkqDr4qx06/1n+lXeqS615uaGgjF+5hsYegBPVq4Fa2vwTxYguUj6fBuKIuGI40e2R/p1/NrFMRKEDVJ8t5rC58vrELgYb0whEbfUFZcMB4olsDE=;lytCnf4Rv584Bkxc7q35Cw=="
 ---

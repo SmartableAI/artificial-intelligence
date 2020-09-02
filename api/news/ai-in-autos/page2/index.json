@@ -483,22 +483,31 @@
     {
       "path": "_news/2020-08-13-the-top-ways-artificial-intelligence-is-disrupting-life-as-we-know-it.md",
       "title": "The Top Ways Artificial Intelligence is Disrupting Life as We Know It",
-      "excerpt": "The artificial intelligence boom is already here, and it&CloseCurlyQuote;s changing life as we know it. JP Morgan analysts believe the market will grow to $58 billion by 2021. The auto industry is using AI to create driverless cars. The financial industry ...",
+      "excerpt": "The artificial intelligence boom is already here, and it’s changing life as we know it. JP Morgan analysts believe the market will grow to $58 billion by 2021. The auto industry is using AI to create driverless cars.",
       "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2020/08/13/the-top-ways-artificial-intelligence-is-disrupting-life-as-we-know-it",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2020/08/13/the-top-ways-artificial-intelligence-is-disrupting-life-as-we-know-it",
+      "webUrl": "https://www.baystreet.ca/articles/stockstowatch/59411/The-Top-Ways-Artificial-Intelligence-is-Disrupting-Life-as-We-Know-It",
+      "originalUrl": "https://www.baystreet.ca/articles/stockstowatch/59411/The-Top-Ways-Artificial-Intelligence-is-Disrupting-Life-as-We-Know-It",
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/1.jpg",
+          "width": 1024,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T07:52:00-07:00",
+      "publishedDateTime": "2020-08-13T07:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "BayStreet",
+        "domain": "baystreet.ca",
         "images": null,
         "publishers": null,
         "authors": null
