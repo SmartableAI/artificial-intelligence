@@ -27,21 +27,69 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition and bathtime bookings: How China's universities are reopening"
-    excerpt: "As COVID-19 cases in China sink to new lows, the world's largest population of university students is heading back to campus in a migration defined by lockdowns, patriotic education and cutting-edge surveillance equipment."
-    publishedDateTime: 2020-08-31T12:35:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN25R0UW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0UW"
+  - title: "The best facial recognition security cameras of 2020"
+    excerpt: "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your profile of known faces."
+    publishedDateTime: 2020-09-02T07:49:00Z
+    webUrl: "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200831&t=2&i=1531624313&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7U0GA"
-        width: 817
-        height: 545
+      - url: "https://cnet4.cbsistatic.com/img/O4onAnkKGXEMUhxqCMsiV1okXi4=/756x567/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
+        width: 756
+        height: 567
+        isCached: true
+  - title: "Atlanta Airport to Test Facial Recognition, Contactless Tech"
+    excerpt: "In an effort to reduce the points of contact between Hartsfield-Jackson International Airport staff and the traveling public, facial recognition technology will be tested at check-in counters in the domestic terminal."
+    publishedDateTime: 2020-08-28T21:09:00Z
+    webUrl: "https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html"
+    ampWebUrl: "https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
+        width: 940
+        height: 627
+        isCached: true
+  - title: "NYPD uses facial recognition to arrest brazen sex offender accused of attempted rape on subway platform"
+    excerpt: "A suspect seen in disturbing cellphone video attempting to brazenly rape a woman on a Manhattan subway platform has been apprehended, according to reports."
+    publishedDateTime: 2020-08-30T23:07:00Z
+    webUrl: "https://www.foxnews.com/us/nypd-uses-facial-recognition-to-arrest-brazen-sex-offender-accused-of-attempted-rape-on-subway-platform"
+    ampWebUrl: "https://www.foxnews.com/us/nypd-uses-facial-recognition-to-arrest-brazen-sex-offender-accused-of-attempted-rape-on-subway-platform.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/nypd-uses-facial-recognition-to-arrest-brazen-sex-offender-accused-of-attempted-rape-on-subway-platform.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 73
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Police facial recognition discrimination against Māori a matter of time - expert"
+    excerpt: "It is only a matter of time before a Māori person is wrongfully arrested because of a false match on facial recognition software, a Māori technology expert says."
+    publishedDateTime: 2020-09-02T07:23:00Z
+    webUrl: "https://www.rnz.co.nz/news/te-manu-korihi/425081/police-facial-recognition-discrimination-against-maori-a-matter-of-time-expert"
+    ampWebUrl: "https://amp.rnz.co.nz/article/1e434633-ecd7-42fa-9c2e-6fb46e96c486"
+    cdnAmpWebUrl: "https://amp-rnz-co-nz.cdn.ampproject.org/c/s/amp.rnz.co.nz/article/1e434633-ecd7-42fa-9c2e-6fb46e96c486"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 69
+    images:
+      - url: "https://www.rnz.co.nz/assets/news_crops/107655/eight_col_121526165_l.jpg?1597745835"
+        width: 720
+        height: 450
         isCached: true
   - title: "TSA Is Testing Facial Recognition Checkpoints"
     excerpt: "The Transportation Security Administration is starting to use facial recognition, at least on a trial basis. On Tuesday the agency announced that it has begun a pilot of a \"self-service\" checkpoint at the Ronald Reagan Washington National Airport in Washington,"
@@ -59,31 +107,62 @@ related:
         width: 4032
         height: 2268
         isCached: true
-  - title: "China’s universities are reopening with facial recognition, shower bookings"
-    excerpt: "BEIJING – As COVID-19 cases in China sink to new lows, the world’s largest population of university students is heading back to campus in a migration defined by lockdowns, patriotic"
-    publishedDateTime: 2020-08-31T07:31:00Z
-    webUrl: "https://nypost.com/2020/08/31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening/"
-    ampWebUrl: "https://nypost.com/2020/08/31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/08/31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening/amp/"
+  - title: "New London Skyscraper Is Facial Recognition-Ready"
+    excerpt: "One of Central London's most technologically advanced skyscrapers comes with the infrastructure required to support facial recognition"
+    publishedDateTime: 2020-08-28T21:34:00Z
+    webUrl: "https://findbiometrics.com/new-london-skyscraper-comes-ready-facial-recognition-tech-integration-082809/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 39
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/08/2020-08-31T031415Z_1442654140_RC2ROI98M9BO_RTRMADP_3_HEALTH-CORONAVIRUS-CHINA-STUDENTS-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://findbiometrics.com/wp-content/uploads/62157982_thumbnail3-e1436371820805.jpg"
+        width: 551
+        height: 585
         isCached: true
-  - title: "Facial recognition, bathtime bookings: How China’s universities are reopening"
-    excerpt: "The highly choreographed return comes as Chinese universities revert to in-person instruction for the fall semester after months of pandemic controls. Some universities have strict rules governing how students eat,"
-    publishedDateTime: 2020-08-31T09:26:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/world/2020/08/31/facial-recognition-bathtime-bookings-how-chinas-universities-are-reopening/"
+  - title: "Concerns about facial recognition system being set up by police"
+    excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
+    publishedDateTime: 2020-09-01T00:44:00Z
+    webUrl: "https://www.newstalkzb.co.nz/on-air/christchurch/canterbury-mornings-with-chris-lynch/audio/kathryn-dalziel-concerns-about-facial-recognition-system-being-set-up-by-police/"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 16
+      name: Newstalk ZB
+      domain: newstalkzb.co.nz
+    quality: 39
+    images:
+      - url: "https://www.newstalkzb.co.nz/media/22966855/facial-recognition.jpg?width=635&height=395&mode=crop"
+        width: 635
+        height: 395
+        isCached: true
+  - title: "Taxpayer criticizes Fayette School Board for buying facial recognition cameras"
+    excerpt: "A public speaker at the Aug. 24 meeting of the Fayette County Board of Education took issue with the recent decision to purchase thermal imaging/facial recognition cameras to be installed"
+    publishedDateTime: 2020-08-30T21:17:00Z
+    webUrl: "https://thecitizen.com/2020/08/30/taxpayer-criticizes-fayette-school-board-for-buying-facial-recognition-cameras/"
+    type: article
+    provider:
+      name: The Citizen
+      domain: thecitizen.com
+    quality: 35
+    images:
+      - url: "https://d3ebobe8l15pwo.cloudfront.net/wp-content/uploads/2020/08/081220_Thermal-imaging-Hikvision-detectors-for-schools_E.jpg"
+        width: 1084
+        height: 739
+        isCached: true
+  - title: "Host of colleges adopt facial recognition, temperature scanning biometric system"
+    excerpt: "A group of universities are using an automated temperature screening system that uses facial recognition biometrics to enable building access for students."
+    publishedDateTime: 2020-08-28T15:20:00Z
+    webUrl: "https://www.cr80news.com/news-item/host-of-colleges-adopt-facial-recognition-temperature-scanning-biometric-system/"
+    type: article
+    provider:
+      name: CR80News
+      domain: cr80news.com
+    quality: 34
+    images:
+      - url: "https://www.cr80news.com/wp-content/uploads/2020/08/PopEntry.png"
+        width: 1081
+        height: 651
+        isCached: true
 
 secured: "D2f1/QfVpsV0hxWkrSXkGyFw6XD+fugFJcF2ud3ih7PyDOez1xVMt/8W0NB3XLdpIKvmhautr1kwxgpFYCEOwxdJjNEoAHtfAfnkm83+jQ9bHwKvrI/f4mSVlwtL2D2RUC3leB8x/oU6j3NkXTfIHnbFo18TjkIa0fWWG14k3LLB05G2YLx5UKZltGvWv+Y7ulkS6dMtpq7THSm4C7U5EhqgDAT0Yi+LtuiYd3kC3gnVkIfXo5w/Om9r9PXi+qggidsGuBVcsCshTNvzOcd0uRzfr70LBQghRxJaaghdE1YZs9+FA8xw6rQmegvtrvvtwUhMISNhZSdZylyZtCnHxdatm9HSDoUfUKGUFzteTVFB6WBlf8crKnQbStThG0p1Dy10UqOs885/lrclaZYoDQY0GGrY9ZmswdyDZuIWv45OJS2zlBAohg35nMSSFInfD0LYWY9GQaDIE6HMzSRywvH+YL7ulTMB3gSzNNH6Fyq0s9mhDPlPhKICWd9r8HvNPoXJvWgS0wtk06iYarkbihNpKXLetXbjACCM0v6/R6s=;EHHQPSSOLTjfeV/sC2jHnQ=="
 ---

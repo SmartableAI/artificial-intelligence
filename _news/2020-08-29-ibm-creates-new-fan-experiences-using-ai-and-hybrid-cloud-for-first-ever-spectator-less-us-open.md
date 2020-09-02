@@ -52,6 +52,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "IBM Creates New Fan Experiences using AI and Hybrid Cloud for First-Ever Spectator-less US Open"
+    excerpt: "IBM's hybrid cloud architecture with Red Hat OpenShift provided the operational agility and flexibility necessary to quickly develop new experiences powered by IBM Watson's advanced NLP."
+    publishedDateTime: 2020-08-28T15:08:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 27
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/c7/0c7d77e7-796c-5913-920d-0aa2dd75f7ba/5f491c9243677.image.jpg?resize=400%2C209"
+        width: 400
+        height: 209
+        isCached: true
 
 secured: "iV/GX3NjAYhAY5fo1QP5+VGfHC4IAcmsUClX4RFi1w3cJ1nTpJ5CXy5pgXiexLbgVdtj1i16K3oDCrh3qtzRrSnoyZgwTwnbaMnjUfOVF71nrDE/Q1LiVbYEnwVQv1go2r82W3aYO8GniHus4j5p2z0c73wSjboVVhYKvwzlZTLS0i1bwvfe39b6BZCU94wgbGAhFY3LdTqWHtpSGoRgPZo+qpSHTilGUNp1kI3YuROfgmuzDPTKWHxSkm9aeyiFCXRxABMd542iCnetSjil6eKl012dE7ugO2yrzFF5UB2ZL7dExsS98Sm0ik5eCfkLmLGQricDl3OyCcVb+FyAqIYwqsDMmWpNTd4S1vTpuIg=;bsL1RA/pzK+PN5R087L+dg=="
 ---

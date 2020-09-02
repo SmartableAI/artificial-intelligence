@@ -25,33 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Host of colleges adopt facial recognition, temperature scanning biometric system"
-    excerpt: "A group of universities are using an automated temperature screening system that uses facial recognition biometrics to enable building access for students."
-    publishedDateTime: 2020-08-28T15:20:00Z
-    webUrl: "https://www.cr80news.com/news-item/host-of-colleges-adopt-facial-recognition-temperature-scanning-biometric-system/"
+  - title: "SIA Outlines Its Biometric Facial Recognition Principles"
+    excerpt: "The SIA has announced the release of its new policy principles meant to guide the development and deployment of facial recognition technology"
+    publishedDateTime: 2020-08-28T21:55:00Z
+    webUrl: "https://findbiometrics.com/sia-outlines-biometric-facial-recognition-principles-082810/"
     type: article
     provider:
-      name: CR80News
-      domain: cr80news.com
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 39
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/scroll.jpg"
+        width: 599
+        height: 479
+        isCached: true
+  - title: "SIA’s Facial Recognition Principals Emphasize Transparency, Oversight and Privacy"
+    excerpt: "The Security Industry Association has announced the release of its new policy principles for facial recognition technology."
+    publishedDateTime: 2020-08-31T19:50:00Z
+    webUrl: "https://mobileidworld.com/sias-facial-recognition-principals-emphasize-transparency-oversight-and-privacy/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
     quality: 34
     images:
-      - url: "https://www.cr80news.com/wp-content/uploads/2020/08/PopEntry.png"
-        width: 1081
-        height: 651
-        isCached: true
-  - title: "Intelligent Face Mask and Body Temperature Detection System"
-    excerpt: "Offers real-time face mask detection and accurate body temperature measurement for multiple people during the current COVID-19 pandemic."
-    publishedDateTime: 2020-09-01T21:29:00Z
-    webUrl: "https://www.embedded-computing.com/news-releases/intelligent-face-mask-and-body-temperature-detection-system"
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 24
-    images:
-      - url: "http://share.opsy.st/5f4eba6fa3b19-76219803_vino2100_banner_300dpi_en.jpg"
-        width: 650
-        height: 420
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock_Face-Feature.jpg"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "q9GnnwdjU8iuvvxohPhOlMbTVqi4YexYeKZrT3B39VNDdus+VklAYduZEYpMkKiAwA/O+jhY9MWBPeyjYX2xnkz+jLehJXrLHCXbL0hWpfsHIiMbnJZBFwRY2kioc3eL/e9VpS7mQrirRch6outJLi8BLcJLtE3VXmP3sA/NgXQlhi4fRTOvlJ0Q/SpF9n6ru9VKTw9wL4RmeK5KBuULSLh0SDcmSIjF3u1xhWNJOuCQQgM31Rkp18jjONfWbdKPlDFaRstIclALbdjXJfzy7baVEE1XRUQI8NjjS1DTPXnjwFDiint274NnB71OAgFP2ALvChla5MOwBdaEQtEE+M/LJoWTtsmU3kgaEGL07rsjdHqsgyiIHe6OWaaMsxcdriJKRAQroDQ8Wc91/Zynrrpj8iZLXNtXBM05+eNt3pYXe2PuoW1baJJ+9Uc8nNWWO13Yo79/2CZ78QzGjQaNg2JGf93GQMNequwAG6xhMY7ici8wK0P0D28OeBkFiXb2bHso+YuaUCTX4LBdACGSsCmWYeSMjvLcvQOImlu+IWs=;QKKAVC0U5uUSZ2G6D4dW/Q=="

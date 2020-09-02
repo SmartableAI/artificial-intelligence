@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-experience/why-the-time-is-right-for
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/why-the-time-is-right-for-financial-services-to-embrace-voice/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,44 +25,6 @@ images:
     width: 640
     height: 480
     isCached: true
-
-related:
-  - title: "AI's Role in Digital Transformation for Financial Services"
-    excerpt: "As we look to the future, and the possible shocks yet to come, what role does AI have to play in this mission, and what broader digital transformation is needed to ensure these organizations stay stable and continue their growth?"
-    publishedDateTime: 2020-08-28T13:47:00Z
-    webUrl: "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28"
-    ampWebUrl: "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "Dow (DOW) Polyurethanes Accelerates Digital Transformation"
-    excerpt: "Dow Inc.’s DOW business unit, Dow Polyurethanes, announced that it is fast tracking its digital transformation by integrating into artificial intelligence and predictive capabilities. This will increase its digital IQ across all business operations."
-    publishedDateTime: 2020-08-28T16:06:00Z
-    webUrl: "https://www.nasdaq.com/articles/dow-dow-polyurethanes-accelerates-digital-transformation-2020-08-28"
-    ampWebUrl: "https://www.nasdaq.com/articles/dow-dow-polyurethanes-accelerates-digital-transformation-2020-08-28?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/dow-dow-polyurethanes-accelerates-digital-transformation-2020-08-28?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Emerging ISVs Seen as Viable Partners in Digital Transformation"
-    excerpt: "A large number of independent software vendors (ISVs) are emerging as potential partners in digital transformation, but enterprises should look for ISVs that make customer experience a top priority, according to a new white paper from Information Services Group ( ISG) (Nasdaq: III),"
-    publishedDateTime: 2020-08-31T14:14:00Z
-    webUrl: "https://apnews.com/0d9eb711093c4fec1830f7a0a3e603b3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Uz2USVmVq7XPvj04WtktOW+le/tCd99stGO6/0NmnWOXAIOudqcwGF+iW1y/E7qLaTfJSVSF+QnfGD8zyTyP2dRA+sLSWj6LIRCi0Xnx/NKN1/fiMtKDyuIEUkMuKSs5ucp6IteuJd/+HWRm5y0jI5gebKiTuvSHft+ArnNfAsECRrIIAHMbO5h+NPPfaYAt7T8RlF5sMjvTwX8tsAc3uE45cCOPQEv/j69DjRHqsSC8oShtz/E5FR8jqUcmMVZ4rfpOHgX8c2wLcf79T4mI7H1j8I6odR9j3wYCgPMecJ2gsJgFR44HqX1mOlUj3SLYDRKbnb81+ajo9DcIs4XDvHaXiS31cW064SVykBWBo9fQEyYNDrE4i186PhdWQXazbceb11MFVmM5qzQJkp3ke54wqeYfY/QHpDpxYvJllnKZoaum46E9j//1E0siyn2LzIGfKP2qLHkY0sVhNIcQU+ZX0xwl4htdKh2JMfOeR6wovL9OEOtQbHOIomPO88GeoGa0p0+C2o32+QHvRn/r7nO3P4KQadh1ik9i4ElfF1g=;tHh5+iT2Jmwwyj71ZdqgZw=="
 ---

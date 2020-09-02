@@ -1,40 +1,22 @@
 ---
 category: news
-title: "Qualcomm-Backed Firm Releases Processor as AI Chip Race Heats Up"
-excerpt: "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc and Alibaba Group Holding Ltd, on Thursday announced a new chip aimed at handling artificial intelligence functions on battery-powered devices."
-publishedDateTime: 2020-08-27T14:25:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2020-08-27/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up"
-webUrl: "https://www.usnews.com/news/technology/articles/2020-08-27/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up"
+title: "Qualcomm-backed firm releases processor as AI chip race heats up"
+excerpt: "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc QCOM.O and Alibaba Group Holding Ltd BABA.N, on Thursday announced a new chip"
+publishedDateTime: 2020-08-27T14:31:00Z
+originalUrl: "https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27"
+webUrl: "https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27"
+ampWebUrl: "https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27?amp"
 type: article
-quality: 64
-heat: -1
-published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Qualcomm-backed firm releases processor as AI chip race heats up"
-    excerpt: "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc and Alibaba Group Holding Ltd, on Thursday announced a new chip aimed at handling artificial intelligence functions on battery-powered devices."
-    publishedDateTime: 2020-08-27T19:04:00Z
-    webUrl: "https://www.reuters.com/article/us-kneron-tech-idUSKBN25N23K"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN25N23K"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25N23K"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-
-secured: "Dt1S/vGFZSidlr+d5JmV1prsO/b/CFD4VJfhwnfq0IPu+t30Z1f+sanjyK9MLMi3HYAaM6KfWQjRgrHh4o2ks+QSqJNtQx9ziwSNl79Wp7eNUFPx1LM5JS9LkrR/u/uxYTIgTuPaROvlPNlVHupi/GmX1ZPrycLdvRUSTTae70OlDKKLklhAHGNTvBm/0Xd4OBzEAc96NROHwFv3BuLr0TASQxYzfISGKmbr5fVBe1qIU8HgUB7rvs33KpszcL0vqngZKpNs38XbAbBbD88FnzjDhFQzXDMxmJgZxe/VHnBlKrx4HcBGw3vXEmriEB00xi4K7iX/ZOm4HfAJxo3ArVKNsf2C5IzEsI7/ficGPYo=;OyH3ru4REr/raJyrtnuTXA=="
+secured: "qI1x0wW/i2/A8O2fT1RBJO+wu3/Tp2WyGwxanM3yWwDKkJqC8nEF8tm9JIWoVosWUP/ydFF0mzziAykFQrnfhdF9wVv5AEKE0wdeRvb19NyH66F0u7n3JyHQSGjm2YCAI09L9xexf8iTB3WcrLvXQswr8I9UI81Ve6ooqeCndgdadmJQSVbe3XFpFhJ/y7vbdGKcUoMhSxMlPCCZfE/GqJgrPjBm2ocvmvmORyQeYrBBdYWFykrCfO+/UIxW+hHUQqhMPCZt/xxqWvqgT275eKUNp7LwPbU1LrzwT/yXHgtDaQryFuTdgueM74OFVUh1W7QPeOHFxroKb9KeymEK2JZL96xcK9lfmEhM54uWX1M=;L7JJYlCWvRZvV+D/Dss83A=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://findbiometrics.com/sia-outlines-biometric-facial-recogniti
 webUrl: "https://findbiometrics.com/sia-outlines-biometric-facial-recognition-principles-082810/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,61 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "New London Skyscraper Is Facial Recognition-Ready"
-    excerpt: "One of Central London's most technologically advanced skyscrapers comes with the infrastructure required to support facial recognition"
-    publishedDateTime: 2020-08-28T21:34:00Z
-    webUrl: "https://findbiometrics.com/new-london-skyscraper-comes-ready-facial-recognition-tech-integration-082809/"
+  - title: "SIA’s Facial Recognition Principals Emphasize Transparency, Oversight and Privacy"
+    excerpt: "The Security Industry Association has announced the release of its new policy principles for facial recognition technology."
+    publishedDateTime: 2020-08-31T19:50:00Z
+    webUrl: "https://mobileidworld.com/sias-facial-recognition-principals-emphasize-transparency-oversight-and-privacy/"
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 39
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 34
     images:
-      - url: "https://findbiometrics.com/wp-content/uploads/62157982_thumbnail3-e1436371820805.jpg"
-        width: 551
-        height: 585
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock_Face-Feature.jpg"
+        width: 400
+        height: 300
         isCached: true
-  - title: "Concerns about facial recognition system being set up by police"
-    excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
-    publishedDateTime: 2020-09-01T00:44:00Z
-    webUrl: "https://www.newstalkzb.co.nz/on-air/christchurch/canterbury-mornings-with-chris-lynch/audio/kathryn-dalziel-concerns-about-facial-recognition-system-being-set-up-by-police/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 39
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/22966855/facial-recognition.jpg?width=635&height=395&mode=crop"
-        width: 635
-        height: 395
-        isCached: true
-  - title: "Taxpayer criticizes Fayette School Board for buying facial recognition cameras"
-    excerpt: "A public speaker at the Aug. 24 meeting of the Fayette County Board of Education took issue with the recent decision to purchase thermal imaging/facial recognition cameras to be installed"
-    publishedDateTime: 2020-08-30T21:17:00Z
-    webUrl: "https://thecitizen.com/2020/08/30/taxpayer-criticizes-fayette-school-board-for-buying-facial-recognition-cameras/"
-    type: article
-    provider:
-      name: The Citizen
-      domain: thecitizen.com
-    quality: 35
-    images:
-      - url: "https://d3ebobe8l15pwo.cloudfront.net/wp-content/uploads/2020/08/081220_Thermal-imaging-Hikvision-detectors-for-schools_E.jpg"
-        width: 1084
-        height: 739
-        isCached: true
-  - title: "New Zealand police upgrade facial recognition system for real-time CCTV biometric identification"
-    excerpt: "New Zealand police have been discreetly rolling out a biometric facial recognition system that uses real-time CCTV feeds to detect people, RNZ writes. The department has reportedly spent some NZ$9"
-    publishedDateTime: 2020-08-31T15:37:00Z
-    webUrl: "https://www.biometricupdate.com/202008/new-zealand-police-upgrade-facial-recognition-system-for-real-time-cctv-biometric-identification"
+  - title: "FacePhi expands biometric onboarding in Korea, Acuant provides facial recognition for legal compliance"
+    excerpt: "Spanish biometrics company FacePhi has announced a milestone achieved with a major Korean financial group, while InfoComply has chosen Acuant’s facial recognition and liveness detection for faster"
+    publishedDateTime: 2020-09-01T21:56:00Z
+    webUrl: "https://www.biometricupdate.com/202009/facephi-expands-biometric-onboarding-in-korea-acuant-provides-facial-recognition-for-legal-compliance"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 26
+    quality: 23
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/20163220/biometric-facial-recognition-selfie-for-remote-banking-identification.jpg"
+        width: 900
+        height: 672
         isCached: true
 
 secured: "rQ1X/PzBW5SMSNVqr+mGmvc9c9hF+cxDI7tD1dTgY/OmlVuXR/cCcuuf3tYbXBRtgmLkmPJPIESNaSdujE+lAfgpIfuqSURVYVh9rDYk/hYdDVcZ4aK2vZJibZe5Kkyt967fFRbHGkw6fPDZA45gb7SneHeIqk/oOy+CFlt6fJTykMAqENgd9wytPKA2MAw75S48IR10cKW5JNaAgDvKoTSvNPC6jYo/KfiyR3dwZndTOu3ZQGOattt83S+wwULOmA+MF813Kbo/5+A/u/5Iz+WpDT1TssmgKxVNe7ZrFbNrWG6XhjMtfb0QbIrlc0n/B8eFAcAFJPPR9GWtV00jvy+6m6PlBLxsDhbMz5hZvFgf+x3ktuLTmFH02zo1Is0q1WXkWr5erWE1X09iNxiWV6L0YnDj1LbDLmneOpmy/DGbPU/3TIxfP6FqbjT8Qr1eJyg7/JMQOO2IZd89iLzDP+PfvPgxIx2FD+X6ls//nEntSHscCxF5ICchrzmYJtKteES8u82KXb6KdPwkC3xpgo52TRS8wSOQL0q3rZc7Pgs=;TGyV4gFi40fNg1gRQ4e5Ew=="

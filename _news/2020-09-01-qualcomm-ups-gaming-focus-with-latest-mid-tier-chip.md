@@ -59,6 +59,17 @@ related:
         width: 805
         height: 422
         isCached: true
+  - title: "MediaTek Unveils Helio G95, its Newest Chip for Premium 4G Gaming Smartphones"
+    excerpt: "MediaTek Unveils Helio G95 for Premium 4G Gaming Smartphones. The new chip will power major smartphone brands that will hit global markets in September."
+    publishedDateTime: 2020-09-02T06:22:00Z
+    webUrl: "https://www.voicendata.com/mediatek-unveils-helio-g95-newest-chip-premium-4g-gaming-smartphones/"
+    ampWebUrl: "https://www.voicendata.com/mediatek-unveils-helio-g95-newest-chip-premium-4g-gaming-smartphones/amp/"
+    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/mediatek-unveils-helio-g95-newest-chip-premium-4g-gaming-smartphones/amp/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 36
   - title: "MediaTek unveils chip for premium 4G gaming smartphones"
     excerpt: "The chip offers an AI Super Resolution' display for superior video calling and video streaming on various platforms like Netflix, Hotstar and Amazon Prime. It can support video qualities ranging ..."
     publishedDateTime: 2020-09-01T10:58:00Z

@@ -21,21 +21,37 @@ topics:
   - AI
 
 related:
-  - title: "NYPD uses facial recognition to arrest brazen sex offender accused of attempted rape on subway platform"
-    excerpt: "A suspect seen in disturbing cellphone video attempting to brazenly rape a woman on a Manhattan subway platform has been apprehended, according to reports."
-    publishedDateTime: 2020-08-30T23:07:00Z
-    webUrl: "https://www.foxnews.com/us/nypd-uses-facial-recognition-to-arrest-brazen-sex-offender-accused-of-attempted-rape-on-subway-platform"
-    ampWebUrl: "https://www.foxnews.com/us/nypd-uses-facial-recognition-to-arrest-brazen-sex-offender-accused-of-attempted-rape-on-subway-platform.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/nypd-uses-facial-recognition-to-arrest-brazen-sex-offender-accused-of-attempted-rape-on-subway-platform.amp"
+  - title: "Facial recognition technology is biased with higher error rates against people of colour"
+    excerpt: "Even though Williams had nothing to do with the incident, facial recognition technology used by Michigan State Police “matched” his face with a grainy image obtained from an in-store surveillance video showing another African American man taking $3,"
+    publishedDateTime: 2020-08-29T00:41:00Z
+    webUrl: "https://scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour"
+    ampWebUrl: "https://amp.scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 73
+      name: Scroll
+      domain: scroll.in
+    quality: 65
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/124346-kfgetldkjs-1598371183.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Dahua Technology’s AI Gait Recognition Technology hits historical heights on CASIA-B gait dataset"
+    excerpt: "Dahua Technology, a globally renowned video-centric smart IoT solution and service provider, made new breakthroughs in the field of AI technology recently. Various indicators of its Gait"
+    publishedDateTime: 2020-09-02T07:19:00Z
+    webUrl: "https://www.sourcesecurity.com/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 46
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/cctv-remote-monitoring-920.jpg"
+        width: 612
+        height: 355
         isCached: true
 
 secured: "DpoSH5g47oRxH2FGRI4pHhkTIF17MWZWRCAm0c//76Lfoko2FaHMWvYic6nD/Ji7FBtIO/WtdudeM9zrDAjhGTYJFoiSfifAkDiEPyM0p2dnUibsSiV3hpgf+R2uHH3kI3XyDoxUhDR89eSyd+RPOXwOqvu5nlpgCpHi2+rJjHgxkc6oyMBrscnh6q6mfea+GoSwyl+qRTd0tqQaKUcLLhlLHdqNMCTP1twYbDls4uIcei4WsWD3Y01lIXFNpgTu8wOTKgucAtDCfeazXBIqah0zJVvvA5+oK7+/oedJqETkyIQ1ZFh2SCh718WiVMVFOOhvHWKeGx1ha+AF2NTYqV9X3ACC1+JGv0jYNMjkuKNUUsiF4rLj5dlGli/C1iQ+u9q0GoDfo6zaxemzmLHHIyUZpR3DE6VW5uyDCn6DHTfjfR6dgIo41g86klipkqDr4qx06/1n+lXeqS615uaGgjF+5hsYegBPVq4Fa2vwTxYguUj6fBuKIuGI40e2R/p1/NrFMRKEDVJ8t5rC58vrELgYb0whEbfUFZcMB4olsDE=;lytCnf4Rv584Bkxc7q35Cw=="

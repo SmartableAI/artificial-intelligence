@@ -25,61 +25,46 @@ images:
     isCached: true
 
 related:
-  - title: "New London Skyscraper Is Facial Recognition-Ready"
-    excerpt: "One of Central London's most technologically advanced skyscrapers comes with the infrastructure required to support facial recognition"
-    publishedDateTime: 2020-08-28T21:34:00Z
-    webUrl: "https://findbiometrics.com/new-london-skyscraper-comes-ready-facial-recognition-tech-integration-082809/"
+  - title: "Facial Recognition Tech A Safe Way Forward For Policing, Retail Business"
+    excerpt: "Art inspires life as life inspires art. Sometimes, technology inspires art too. Bollywood had made a song and dance sequence on face-recognition technology way back in the 90s. It never was a hypothetical question,"
+    publishedDateTime: 2020-08-28T16:26:00Z
+    webUrl: "https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/"
+    ampWebUrl: "https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/amp/"
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 39
+      name: inc42.com
+      domain: inc42.com
+    quality: 73
     images:
-      - url: "https://findbiometrics.com/wp-content/uploads/62157982_thumbnail3-e1436371820805.jpg"
-        width: 551
-        height: 585
+      - url: "https://inc42.com/wp-content/uploads/2020/08/Untitled-design-2020-08-28T205829.270-min-1.jpg"
+        width: 1360
+        height: 1020
         isCached: true
-  - title: "SIA Outlines Its Biometric Facial Recognition Principles"
-    excerpt: "The SIA has announced the release of its new policy principles meant to guide the development and deployment of facial recognition technology"
-    publishedDateTime: 2020-08-28T21:55:00Z
-    webUrl: "https://findbiometrics.com/sia-outlines-biometric-facial-recognition-principles-082810/"
+  - title: "Atlanta airport plans to test facial recognition, touchless technology"
+    excerpt: "Jackson Atlanta International Airport plans to test facial recognition at check-in counters in the domestic terminal, part of a broader push to introduce more touchless technology in response to the coronavirus."
+    publishedDateTime: 2020-09-01T01:12:00Z
+    webUrl: "https://www.thenewstribune.com/news/nation-world/article245384385.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/article245384385.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/article245384385.html"
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 39
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/scroll.jpg"
-        width: 599
-        height: 479
-        isCached: true
-  - title: "Concerns about facial recognition system being set up by police"
-    excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
-    publishedDateTime: 2020-09-01T00:44:00Z
-    webUrl: "https://www.newstalkzb.co.nz/on-air/christchurch/canterbury-mornings-with-chris-lynch/audio/kathryn-dalziel-concerns-about-facial-recognition-system-being-set-up-by-police/"
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 54
+  - title: "Facial recognition lessons for the private sector from the South Wales police case"
+    excerpt: "In response to the successful appeal against the legality of South Wales Police’s use of facial biometrics for automated public identification, the Data Protection Report from law firm Norton Rose"
+    publishedDateTime: 2020-08-28T18:55:00Z
+    webUrl: "https://www.biometricupdate.com/202008/facial-recognition-lessons-for-the-private-sector-from-the-south-wales-police-case"
     type: article
     provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
     images:
-      - url: "https://www.newstalkzb.co.nz/media/22966855/facial-recognition.jpg?width=635&height=395&mode=crop"
-        width: 635
-        height: 395
-        isCached: true
-  - title: "Taxpayer criticizes Fayette School Board for buying facial recognition cameras"
-    excerpt: "A public speaker at the Aug. 24 meeting of the Fayette County Board of Education took issue with the recent decision to purchase thermal imaging/facial recognition cameras to be installed"
-    publishedDateTime: 2020-08-30T21:17:00Z
-    webUrl: "https://thecitizen.com/2020/08/30/taxpayer-criticizes-fayette-school-board-for-buying-facial-recognition-cameras/"
-    type: article
-    provider:
-      name: The Citizen
-      domain: thecitizen.com
-    quality: 35
-    images:
-      - url: "https://d3ebobe8l15pwo.cloudfront.net/wp-content/uploads/2020/08/081220_Thermal-imaging-Hikvision-detectors-for-schools_E.jpg"
-        width: 1084
-        height: 739
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/06/17123440/south-wales-police-facial-recognition-vehicles.jpg"
+        width: 750
+        height: 430
         isCached: true
 
 secured: "azDewjHmG5d1fELHc5ctuzNZBlg1c+p8DNp1DmkATRzUJY5CmeAbvXLfxkdo7EywvpXSAClc71CVbA6KjFdmBoX53lOFCy6Q4P0FzVB1X/ZHvk1tZhdCR4nyGCMr/Cfw4EqHCNZEqLEwiMTPE2Wji97SE5AcAspFBWXBfRCm3BOb144kZvIqdWh1CZp08AO+JUnQCa2tf3SqNOA1Jlz3yP8mc4bDsZwiKRlKVkXVmjuiNgPTpihp6pcG4kVzKOxb0rSBQDI5rwWBY06foxq0A9qky/FYmecrtb5oyasqkP+9SxQvrc4N2BJYhoW9Pk4B+qUq5tHFQJWfmzR/UXTkH7UEZzuVTSpyYLLK/8nc52QbKYCGIVydF3bFUtu2L5F/zjeMwfauVPuQc8hDu9LWQ1bLHBEEXKbPlsHUmu33I3kR+OjlTJ5e2KBiWylqKbZfEKwgvQ5/je1ZeVr8CdUO/ejLRCdHyWpRGVl7ZKRS64f9C2Dd0OIupBXFWP3zQDSvqESNjlXT5aVm0TLnPbWdnErsRZa4UblpTx/DarSIRXk=;uuwmZlIYR085Bpa8TWkv7w=="

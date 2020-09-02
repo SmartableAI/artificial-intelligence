@@ -2,6 +2,47 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-17-government-leak-cops-terrified-masks-will-block-facial-recognition.md",
+      "title": "Government Leak: Cops Terrified Masks Will Block Facial Recognition",
+      "excerpt": "Leaked documents reveal that the Department of Homeland Security (DHS) has been particularly concerned about how masks block the facial recognition used to surveil Americans, The Intercept reports.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/government-leak-cops-terrified-masks-block-facial-recognition",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/07/government-leak-cops-terrified-masks-block-facial-recognition-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/government-leak-cops-terrified-masks-block-facial-recognition/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/government-leak-cops-terrified-masks-block-facial-recognition/amp",
+      "publishedDateTime": "2020-07-17T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-disneys-new-ai-is-facial-recognition-for-animation.md",
       "title": "Disney's new AI is facial recognition for animation",
       "excerpt": "The pipeline leveraged existing facial recognition software, which the DTCI team then applied to its catalog of movies and TV shows. The module was able to successfully detect and recognize human faces from the onscreen action. Following that initial ...",

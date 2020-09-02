@@ -9,8 +9,8 @@ ampWebUrl: "https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-che
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/amp/"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 103
+published: true
 
 provider:
   name: inc42.com
@@ -27,67 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "Atlanta Airport to Test Facial Recognition, Contactless Tech"
-    excerpt: "In an effort to reduce the points of contact between Hartsfield-Jackson International Airport staff and the traveling public, facial recognition technology will be tested at check-in counters in the domestic terminal."
-    publishedDateTime: 2020-08-28T21:09:00Z
-    webUrl: "https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html"
-    ampWebUrl: "https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
-        width: 940
-        height: 627
-        isCached: true
   - title: "Atlanta airport plans to test facial recognition, touchless technology"
     excerpt: "Jackson Atlanta International Airport plans to test facial recognition at check-in counters in the domestic terminal, part of a broader push to introduce more touchless technology in response to the coronavirus."
-    publishedDateTime: 2020-09-01T00:12:00Z
-    webUrl: "https://www.idahostatesman.com/news/nation-world/article245384385.html"
-    ampWebUrl: "https://amp.idahostatesman.com/news/nation-world/article245384385.html"
-    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/nation-world/article245384385.html"
+    publishedDateTime: 2020-09-01T01:12:00Z
+    webUrl: "https://www.thenewstribune.com/news/nation-world/article245384385.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/article245384385.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/article245384385.html"
     type: article
     provider:
-      name: Idaho Statesman
-      domain: idahostatesman.com
+      name: News Tribune
+      domain: thenewstribune.com
     quality: 54
-  - title: "In New Tests, Facial Recognition Products Are Consistently Thwarted by Masks"
-    excerpt: "Ongoing tests of facial recognition technology continue to show that the technology is baffled when people wear masks of the sort that have become widespread (and even mandatory) in some places during the current pandemic."
-    publishedDateTime: 2020-08-31T16:42:00Z
-    webUrl: "https://reason.com/2020/08/31/in-new-tests-facial-recognition-products-are-consistently-thwarted-by-masks/"
-    ampWebUrl: "https://reason.com/2020/08/31/in-new-tests-facial-recognition-products-are-consistently-thwarted-by-masks/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/08/31/in-new-tests-facial-recognition-products-are-consistently-thwarted-by-masks/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 36
-  - title: "Face biometrics adoption expands at U.S. airports, Yoti rapid COVID-19 test system trialed at Heathrow"
-    excerpt: "Tests of biometric facial recognition for touchless domestic flight check-ins will soon begin at Atlanta’s Hartsfield-Jackson International Airport, the Atlanta Journal-Constitution reports."
-    publishedDateTime: 2020-09-01T22:11:00Z
-    webUrl: "https://www.biometricupdate.com/202009/face-biometrics-adoption-expands-at-u-s-airports-yoti-rapid-covid-19-test-system-trialed-at-heathrow"
+  - title: "Facial recognition lessons for the private sector from the South Wales police case"
+    excerpt: "In response to the successful appeal against the legality of South Wales Police’s use of facial biometrics for automated public identification, the Data Protection Report from law firm Norton Rose"
+    publishedDateTime: 2020-08-28T18:55:00Z
+    webUrl: "https://www.biometricupdate.com/202008/facial-recognition-lessons-for-the-private-sector-from-the-south-wales-police-case"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 23
+    quality: 33
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/19173606/biometric-boarding-JetBlue-JFK-CBP.jpg"
-        width: 678
-        height: 381
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/06/17123440/south-wales-police-facial-recognition-vehicles.jpg"
+        width: 750
+        height: 430
         isCached: true
-  - title: "Bishop International Airport to utilize Smart Helmets to measure temperatures, facial recognition"
-    excerpt: "Authorities with Bishop International Airport in  announced Friday it will be the first airport in the United States to utilize Smart Helmets."
-    publishedDateTime: 2020-08-28T19:38:00Z
-    webUrl: "https://www.clickondetroit.com/news/local/2020/08/28/bishop-international-airport-to-utilize-smart-helmets-to-measure-temperatures-facial-recognition/"
+  - title: "New Zealand police upgrade facial recognition system for real-time CCTV biometric identification"
+    excerpt: "New Zealand police have been discreetly rolling out a biometric facial recognition system that uses real-time CCTV feeds to detect people, RNZ writes. The department has reportedly spent some NZ$9"
+    publishedDateTime: 2020-08-31T15:37:00Z
+    webUrl: "https://www.biometricupdate.com/202008/new-zealand-police-upgrade-facial-recognition-system-for-real-time-cctv-biometric-identification"
     type: article
     provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 21
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 26
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
 
 secured: "/oIW8CEpffk/qJ0B36t3mQCKphI3kR2RFBDoqmqW5XsTckRDHQOraF4Mv8GLkgMsK7Anol+kmEy2Pj1VOLtqJzdF8kgWPgd1jvdUXzFCjFKcIpItplB9/KmzBg4RO3rsBhJrDkMD/touhoIbw4TOTF+AvX1fQ7834l/Q/vj3J+/mvEUjPa7rWqYq5fMQeYEZqaaTMDdLkXQXRVKGdpkSv5tRLu/b0zha2V0IYTUPz5XGdG/WreMeNO+fEn6ND+tAZ/8ZEvJ8RvX4tHmYV7Nx+ndSvesZH10dGzoKh4m4tgDc/EBAToNijz2RPLw+pBHBEqkV60C/J+DK9fOzEyn750xudIptVHeP6nDYXg10ik0=;nRupY06tf6QwJRt54Kl5eA=="
 ---

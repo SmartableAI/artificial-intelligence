@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/</loc>
+    <lastmod>2020-09-02T00:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wsj.com/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924</loc>
     <lastmod>2020-09-01T14:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -391,12 +397,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.foxnews.com/us/nypd-uses-facial-recognition-to-arrest-brazen-sex-offender-accused-of-attempted-rape-on-subway-platform</loc>
-    <lastmod>2020-08-30T16:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/</loc>
     <lastmod>2020-08-30T14:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -475,6 +475,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour</loc>
+    <lastmod>2020-08-28T17:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/</loc>
     <lastmod>2020-08-28T16:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/</loc>
     <lastmod>2020-08-28T14:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html</loc>
-    <lastmod>2020-08-28T14:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -525,6 +525,12 @@
   <url>
     <loc>https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/</loc>
     <lastmod>2020-08-28T09:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/</loc>
+    <lastmod>2020-08-28T09:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -621,12 +627,6 @@
   <url>
     <loc>https://www.forbes.com/sites/ilonalimonta-volkova/2020/08/28/all-is-fair-in-mortgage-lending-and-fintech/</loc>
     <lastmod>2020-08-28T03:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/press-release/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator</loc>
-    <lastmod>2020-08-28T03:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -735,6 +735,12 @@
   <url>
     <loc>https://www.pcmag.com/news/amazon-launches-an-ai-powered-health-and-wellness-band-called-halo</loc>
     <lastmod>2020-08-27T07:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27</loc>
+    <lastmod>2020-08-27T07:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2631,6 +2637,12 @@
   <url>
     <loc>https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.html</loc>
     <lastmod>2020-08-17T20:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.st.com/content/st_com/en/stm32-ann.html</loc>
+    <lastmod>2020-08-17T20:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
