@@ -3,8 +3,8 @@ category: news
 title: "Dahua Technology’s AI Gait Recognition Technology hits historical heights on CASIA-B gait dataset"
 excerpt: "Dahua Technology, a globally renowned video-centric smart IoT solution and service provider, made new breakthroughs in the field of AI technology recently. Various indicators of its Gait"
 publishedDateTime: 2020-09-02T07:19:00Z
-originalUrl: "https://www.sourcesecurity.com/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
-webUrl: "https://www.sourcesecurity.com/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
+originalUrl: "https://www.sourcesecurity.com/companies/dahua-technology-ltd/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
+webUrl: "https://www.sourcesecurity.com/companies/dahua-technology-ltd/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
 type: article
@@ -77,6 +77,6 @@ related:
       domain: washingtonexaminer.com
     quality: 26
 
-secured: "Ewm9kGZylvEuHdW7GXoPkbTGMK1+y99lY9JNngPocMLQJ1VdHzzI6qyo0rVNlEgPFR+m6ell0y15XAvpnoOABc5siQuN9znJenu88bVQ/F1LpVaSKYIC462igA9sAoLqlhjJ7wrR2azVwt1O3KrUm26+Gq38isS+Q2FWI0GhiROi8TGoMDyCurGpt1KQ59W3E81rlBBB1jvsALv1JBHTyUsvYx5AGFrjkvfSFNAudgxthQ18EE7riDwEPzAb0Gjc6IKD+wLotpEncxOd2jfqwTs1ALi6zhhGkVrpZUkFEwhQxGuNx99V3YN2vMiveRN6fnkn8qc7iVFQ0dctipGBHawreK4tD9dBGZoa0ecK5iE=;4cHaLX+yEPu4QyFSmSl4HA=="
+secured: "x0Bspj3pcTkEae+h8MrC34lGJ+naHUiEp47Gb4cMCIjSOUm4HTkqczcTvqTbFDpUNu6nN/uJ4HwsfYvs4NGoEhg75o1zzeZcqA/YQkN24frEH1DL8XKS78VLgMj02krJFp4dkBOHwR8JLHjFfz0Czkea0DkL0IdU6RGEXcj4wys/SaJQHHdUM3Ind3dI30fpWWY4bqrUS+Z7YlFV8cAPsOiSaz13TqF3tTz+ck0D0za3ATup2Qcnja0Y1nQTW1rxVCnpS3PXwGnhpwcjBrcjURAExpwSlswDx051ws40/fMc6EAFIeaffWQTiOQMhAcGCM6ueL7KP1K9u0+L8EjADkylXh2QwjiVM8ar4XUqZRU=;kVCC2MYhSEd0rooJyDvw5A=="
 ---
 

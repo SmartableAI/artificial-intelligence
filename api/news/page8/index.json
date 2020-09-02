@@ -2,6 +2,139 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-08-26-ut-austin-selected-as-home-of-national-ai-institute-focused-on-machine-learning.md",
+      "title": "UT Austin selected as home of National AI Institute focused on machine learning",
+      "excerpt": "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine Learning, one of five new national AI institutes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/241249_web.jpg",
+          "width": 1440,
+          "height": 983,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-26T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-microsoft-word-for-the-web-now-lets-office-365-users-record-and-upload-audio-for-transcription.md",
+      "title": "Microsoft Word for the web now lets Office 365 users record and upload audio for transcription",
+      "excerpt": "If your job requires extensive work with documents or routinely organizing meeting notes, transcribing can be an invaluable tool to save time or catch that important detail that inadvertently got overlooked the first time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/86514-microsoft-word-web-now-office-365-users-record.html",
+      "originalUrl": "https://www.techspot.com/news/86514-microsoft-word-web-now-office-365-users-record.html",
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-26-image.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/86514-microsoft-word-web-now-office-365-users-record.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86514-microsoft-word-web-now-office-365-users-record.html",
+      "publishedDateTime": "2020-08-26T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-uc-davis-to-lead-new-artificial-intelligence-institute-for-next-generation-food-systems.md",
+      "title": "UC Davis to lead new artificial intelligence institute for next generation food systems",
+      "excerpt": "UC Davis has been awarded $20 million as part of a multi-institutional collaboration to establish a new institute focused on enabling the next generation food system through the integration of artificial intelligence (AI) technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/241215_web.jpg",
+          "width": 1440,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-26T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-ponyai-inks-robo-taxi-fleet-maintenance-partnership-with-bosch.md",
       "title": "Pony.ai inks robo-taxi fleet maintenance partnership with Bosch",
       "excerpt": "Self-driving car startup Pony.ai announced Bosch as a vehicle fleet maintenance partner. The two launched a pilot in San Francisco earlier this year.",
@@ -1048,137 +1181,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-robotics-autobots-transform-in-the-offshore-energy-sector.md",
-      "title": "Robotics: Autobots Transform in the Offshore Energy Sector",
-      "excerpt": "The Oil & Gas Technology Centre is working with companies on the Offshore Ground Robotics Industrial Pilot (OGRIP) prototype, which is now what it calls the world’s first Offshore Work Class Robot (OWCR),",
-      "sourceUrl": null,
-      "webUrl": "https://www.oedigital.com/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
-      "originalUrl": "https://www.oedigital.com/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.oedigital.com/images/maritime/w537h300pad/bladebug-blade-walking-inspection-robot-115866.jpg",
-          "width": 537,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.oedigital.com/amp/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
-      "cdnAmpWebUrl": "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
-      "publishedDateTime": "2020-08-25T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "oedigital.com",
-        "domain": "oedigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-more-facial-recognition-and-drones-wanted-for-the-us-canada-border.md",
-      "title": "More Facial Recognition and Drones Wanted for the US-Canada Border",
-      "excerpt": "Industry groups want advanced biometrics to secure the border between the two countries once it reopens after COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
-      "originalUrl": "https://www.vice.com/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f453b379992790096b50300/lede/1598373223867-cp18642415.jpeg?crop=1xw:0.8436654135338346xh;center,center",
-          "width": 4987,
-          "height": 2805,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
-      "publishedDateTime": "2020-08-25T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-naic-adopts-artificial-intelligence-principles.md",
-      "title": "NAIC Adopts Artificial Intelligence Principles",
-      "excerpt": "Members of the National Association of Insurance Commissioners (NAIC) have agreed unanimously to adopt an Artificial Intelligence Guiding Principles. The NAIC’s AI Working Group based the document on a set of AI principles developed by the Organisation for Economic Co-operation and Development (OECD).",
-      "sourceUrl": null,
-      "webUrl": "https://www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/",
-      "originalUrl": "https://www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/",
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2020/02/2019-10-30-tech-chess_Thinkstock_MI.jpg",
-          "width": 616,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/?amp=1",
-      "cdnAmpWebUrl": "https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/?amp=1",
-      "publishedDateTime": "2020-08-25T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Think Advisor",
-        "domain": "thinkadvisor.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

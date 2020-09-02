@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Watch Elon Musk's AI brain chip startup Neuralink debut its massively hyped technology"
-    excerpt: "Elon Musk has consistently hyped up the research, but recent reports suggest the company has been wrestling with internal chaos."
-    publishedDateTime: 2020-08-28T23:00:00Z
-    webUrl: "https://www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8"
-    ampWebUrl: "https://www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-elon-musks-big-neuralink-announcement-2020-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/5f496a247ffa48002894cf87?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Artificial intelligence: Elon Musk puts computer chips in animal brains"
     excerpt: "Elon Musk, the founder of the American company Tesla and SpaceX, demonstrated how to connect a computer chip made by his new company ‘Neuralink’ to the animal brain. Elon Musk’s company, Neuralink, has developed a chip in just four years,"
     publishedDateTime: 2020-08-31T09:35:00Z

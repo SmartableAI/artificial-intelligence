@@ -41,22 +41,6 @@ related:
         width: 1014
         height: 646
         isCached: true
-  - title: "Russian agency created fake leftwing news outlet with fictional editors, Facebook says"
-    excerpt: "Internet Research Agency also hired real, unwitting freelance reporters in operation Facebook has removed"
-    publishedDateTime: 2020-09-01T21:16:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/sep/01/facebook-russia-internet-research-agency-fake-news"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/sep/01/facebook-russia-internet-research-agency-fake-news"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/sep/01/facebook-russia-internet-research-agency-fake-news"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 36
-    images:
-      - url: "https://i.guim.co.uk/img/media/6a00c601b5f3c3f15ad8539bf2561636ad8747cf/0_0_4703_2822/master/4703.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ddf89a7b6974a55643932365602e6e85"
-        width: 600
-        height: 360
-        isCached: true
 
 secured: "7yqaviW+ylCwGZsNfvdzye1qaWseZjbO8qu6BUESviyf+A7BbR+eRuB/9n4Hhs4g6Z0jbl8V/voazbhHwf3pXFwbT40fi6mK/TAjm7ZJxq8aL81uaAsftbirvNBMr0NaXvUjSp29aXn7cejdEI3v/8jlJXOr1UDqN813AU/7QGVTaZ9Xb+5sYyrLOku3V305JU8g0vg33CrZ+1sXpE9XXEid5DReBhkckxb1jcKNzXXyKLGDtVwBnhPgrwVwklu7gCiEPB5jNwcjeZR9+++BZBjv/Rb39kORzCDkXZiDBPr4lI2EEwMF7Xp4J3LYiv6P8RJTQ19/GWw7G67YHJfFjGj5b/+HEu9RQ0yraHemf4Se3ThMBzYYv9GDaRIdqi+Xh4ruGC5tZHUrAVVqRCT5KCW4DIHr74/aNSR6t9u8X51vfBjFMFXLxUJVBSrJdQlyopnRTtnaLwyc7zqjfjg6G3jwA8IOaEtrTYxljl1jO1/NqmyHlgma+IY2wjPDTxQxfIhDCPS8fdnK8XRIHwWo5g386PQ0Dzz1DXyIqUZKXOY=;jRTXNMKeVc8biDO6ZOdzpQ=="
 ---

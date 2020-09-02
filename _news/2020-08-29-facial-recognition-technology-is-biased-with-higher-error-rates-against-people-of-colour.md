@@ -41,7 +41,7 @@ related:
   - title: "Dahua Technology’s AI Gait Recognition Technology hits historical heights on CASIA-B gait dataset"
     excerpt: "Dahua Technology, a globally renowned video-centric smart IoT solution and service provider, made new breakthroughs in the field of AI technology recently. Various indicators of its Gait"
     publishedDateTime: 2020-09-02T07:19:00Z
-    webUrl: "https://www.sourcesecurity.com/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
+    webUrl: "https://www.sourcesecurity.com/companies/dahua-technology-ltd/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
     ampWebUrl: "https://www.sourcesecurity.com/amp/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
     cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
     type: article

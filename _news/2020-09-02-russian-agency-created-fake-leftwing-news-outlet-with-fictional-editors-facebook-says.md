@@ -31,35 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook, Twitter take down accounts allegedly linked to Russian state actors"
-    excerpt: "According to Facebook, 13 accounts and two pages tied to Russia’s Internet Research Agency were removed from the social network. This activity allegedly focused on the United Kingdom, the United States,"
-    publishedDateTime: 2020-09-02T01:56:00Z
-    webUrl: "https://tass.com/society/1196273"
-    ampWebUrl: "https://tass.com/society/1196273/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/society/1196273/amp"
+  - title: "Russia’s most notorious troll farm reportedly used deepfakes to push a fake news outlet on Facebook"
+    excerpt: "Facebook and Twitter say they've removed a network of accounts behind a fake news outlet run by fictitious journalists with AI-generated headshot."
+    publishedDateTime: 2020-09-02T15:45:00Z
+    webUrl: "https://thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/amp/"
     type: article
     provider:
-      name: TASS
-      domain: tass.com
-    quality: 41
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 60
     images:
-      - url: "https://phototass2.cdnvideo.ru/width/1080_4713ca57/tass/m2/en//uploads/i/20200902/1282065.jpg"
-        width: 1014
-        height: 646
-        isCached: true
-  - title: "Facebook and Twitter Remove Russia-Backed Accounts Targeting Left-Leaning Voters"
-    excerpt: "Researchers say one of the operation's goals was to steer left-leaning voters away from the Biden-Harris campaign ahead of the November election."
-    publishedDateTime: 2020-09-01T20:17:00Z
-    webUrl: "https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 19
-    images:
-      - url: "https://media.npr.org/assets/img/2020/09/01/screenshot-333-_wide-c024671c7a198bdde2596c9b49f995c64ccd6cd5.png?s=1400"
-        width: 719
-        height: 404
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-17-796x417.png"
+        width: 796
+        height: 417
         isCached: true
 
 secured: "jtq+wrl7wJt1eA0CiFyJbLZP9dBjgHW5qEGyWBFkS18VY46TBENAo7nmWVTts7MhsAdhT05K0QFx1SWDl6uxP98i/4Oa8JxGuAfsdKDxSn0c8V3Ijb/jGaPcXs8W/xDK1GXNIQNEsf1gYhy7bWBBYH1CE21QrKqhq39yG77P6HnT6rMEghpQzbW//7dbvf8T8PcWcwMj8ho+/FzOu3t+aXecsE6nTIUmXMm5/Ei5rTEH4q9bCq5UVyzYPMpvQpkVjl+WjV5NxybD2xz4UHTEe6Lm6SWDC/nnNtJxbpiKUXNZqycKE9kcjgHzBgTfYStmjd06sg4gLC/NwFFUmZUHTjJ4T/Nqh3N3bItLlT1BF5U=;lPtaXtVGtBt47qQSVl6k5A=="

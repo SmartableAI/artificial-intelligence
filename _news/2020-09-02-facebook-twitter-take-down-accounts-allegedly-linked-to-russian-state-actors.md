@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Russian agency created fake leftwing news outlet with fictional editors, Facebook says"
-    excerpt: "Internet Research Agency also hired real, unwitting freelance reporters in operation Facebook has removed"
-    publishedDateTime: 2020-09-01T21:16:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/sep/01/facebook-russia-internet-research-agency-fake-news"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/sep/01/facebook-russia-internet-research-agency-fake-news"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/sep/01/facebook-russia-internet-research-agency-fake-news"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 36
-    images:
-      - url: "https://i.guim.co.uk/img/media/6a00c601b5f3c3f15ad8539bf2561636ad8747cf/0_0_4703_2822/master/4703.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ddf89a7b6974a55643932365602e6e85"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Facebook and Twitter Remove Russia-Backed Accounts Targeting Left-Leaning Voters"
     excerpt: "Researchers say one of the operation's goals was to steer left-leaning voters away from the Biden-Harris campaign ahead of the November election."
     publishedDateTime: 2020-09-01T20:17:00Z

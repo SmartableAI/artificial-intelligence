@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-01T10:18:00Z
 originalUrl: "https://www.newelectronics.co.uk/electronics-news/kneron-unveils-next-generation-ai-chip/230002/"
 webUrl: "https://www.newelectronics.co.uk/electronics-news/kneron-unveils-next-generation-ai-chip/230002/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.newelectronics.co.uk/article-images/230002/KL720-2.jpg?width=375&height=250&scale=canvas"

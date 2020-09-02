@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/amp/"
 type: article
 quality: 77
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -23,6 +23,22 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "dunnhumby Speeds Time-to-Insight for Data Scientists with New Tool on Microsoft Azure"
+    excerpt: "Microsoft Azure, enabling data scientists to deliver customer insights faster. dunnhumby Model Lab is designed to solve complex retail challenges, such as understanding customer churn and predicting propensity to purchase and in what channel,"
+    publishedDateTime: 2020-09-02T15:43:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool-on-Microsoft-Azure-142651.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 47
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "wur5NHRR+vwrnYrhVT+elL9uHLgYB/9fIXSplXdM5PYKlWTk/s7RIN1LIa0B4Ch8eK5N2qSCChB5E/lO5SLoptclBgtokZLhyzew7n1/Z8vVkDe0FrKkEQbSJFq8bctVhsb8D5+5npbg7OiAg06fksG28M6PeY1vdTRvYofeohfedi349LdkyEraCfTBGYzKAFMst7bys4lrEN8GhKB3UPWUUCxaatxqu8au2u3aiqnPkyMHPgxbXHiC6rpLZpwhMyOdabHGZKiFKatX0RX6Op5x0PukrmIbapuTICn2duzUsHOQernkLdOJF7F4j/Ih2fFzh7DdDI/hnRF6mY1oJG7AZ06PoSodLNNrMYQW2Ys=;uKBIGD2fFRO+zXiwUzjeHw=="
 ---

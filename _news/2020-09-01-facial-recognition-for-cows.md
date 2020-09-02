@@ -43,22 +43,6 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "Atlanta Airport to Test Facial Recognition, Contactless Tech"
-    excerpt: "In an effort to reduce the points of contact between Hartsfield-Jackson International Airport staff and the traveling public, facial recognition technology will be tested at check-in counters in the domestic terminal."
-    publishedDateTime: 2020-08-28T21:09:00Z
-    webUrl: "https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html"
-    ampWebUrl: "https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
-        width: 940
-        height: 627
-        isCached: true
   - title: "NYPD uses facial recognition to arrest brazen sex offender accused of attempted rape on subway platform"
     excerpt: "A suspect seen in disturbing cellphone video attempting to brazenly rape a woman on a Manhattan subway platform has been apprehended, according to reports."
     publishedDateTime: 2020-08-30T23:07:00Z
@@ -107,20 +91,6 @@ related:
         width: 4032
         height: 2268
         isCached: true
-  - title: "New London Skyscraper Is Facial Recognition-Ready"
-    excerpt: "One of Central London's most technologically advanced skyscrapers comes with the infrastructure required to support facial recognition"
-    publishedDateTime: 2020-08-28T21:34:00Z
-    webUrl: "https://findbiometrics.com/new-london-skyscraper-comes-ready-facial-recognition-tech-integration-082809/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 39
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/62157982_thumbnail3-e1436371820805.jpg"
-        width: 551
-        height: 585
-        isCached: true
   - title: "Concerns about facial recognition system being set up by police"
     excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
     publishedDateTime: 2020-09-01T00:44:00Z
@@ -160,6 +130,17 @@ related:
         width: 1084
         height: 739
         isCached: true
+  - title: "Reporter Update: City Councilman Looking To Restrict Facial Recognition Technology"
+    excerpt: "KDKA's Lindsay Ward has more on why Pittsburgh City Council is looking at police use of facial recognition technology."
+    publishedDateTime: 2020-09-02T15:50:00Z
+    webUrl: "https://pittsburgh.cbslocal.com/video/4689480-reporter-update-city-councilman-looking-to-restrict-facial-recognition-technology/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4689480-reporter-update-city-councilman-looking-to-restrict-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4689480-reporter-update-city-councilman-looking-to-restrict-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 33
 
 secured: "D2f1/QfVpsV0hxWkrSXkGyFw6XD+fugFJcF2ud3ih7PyDOez1xVMt/8W0NB3XLdpIKvmhautr1kwxgpFYCEOwxdJjNEoAHtfAfnkm83+jQ9bHwKvrI/f4mSVlwtL2D2RUC3leB8x/oU6j3NkXTfIHnbFo18TjkIa0fWWG14k3LLB05G2YLx5UKZltGvWv+Y7ulkS6dMtpq7THSm4C7U5EhqgDAT0Yi+LtuiYd3kC3gnVkIfXo5w/Om9r9PXi+qggidsGuBVcsCshTNvzOcd0uRzfr70LBQghRxJaaghdE1YZs9+FA8xw6rQmegvtrvvtwUhMISNhZSdZylyZtCnHxdatm9HSDoUfUKGUFzteTVFB6WBlf8crKnQbStThG0p1Dy10UqOs885/lrclaZYoDQY0GGrY9ZmswdyDZuIWv45OJS2zlBAohg35nMSSFInfD0LYWY9GQaDIE6HMzSRywvH+YL7ulTMB3gSzNNH6Fyq0s9mhDPlPhKICWd9r8HvNPoXJvWgS0wtk06iYarkbihNpKXLetXbjACCM0v6/R6s=;EHHQPSSOLTjfeV/sC2jHnQ=="
 ---

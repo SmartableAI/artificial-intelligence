@@ -2,6 +2,146 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-08-24-microsofts-ai-for-health-supports-covid-19-vaccine-development.md",
+      "title": "Microsoft's AI for Health supports COVID-19 vaccine development",
+      "excerpt": "Given the global urgency of the COVID-19 pandemic, Microsoft's AI for Health program has stepped in to support the development and potential deployment of Vaxine's COVAX-19 vaccine with a philanthropic grant.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.html",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/2-microsoftsai.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.amp",
+      "publishedDateTime": "2020-08-24T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024.md",
+      "title": "Cloud Natural Language Processing Market Research Key Players, Industry Overview, Supply Chain and Analysis to 2024",
+      "excerpt": "Selbyville, Delaware Global Cloud Natural Language Processing Market Report added at Market Study Report LLC provides industry size, share, growth, trends and forecast analysis up to period. Cloud Natural Language Processing Market Report also covers top key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024-2020-08-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024-2020-08-24",
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-24T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-this-philosopher-ai-has-its-own-existential-questions-to-answer.md",
+      "title": "This Philosopher AI has its own existential questions to answer",
+      "excerpt": "A new text-generating system called the Philosopher AI will answer your questions about the meaning of life -- unless they're too contentious.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-24T160614.887-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/amp/",
+      "publishedDateTime": "2020-08-24T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night.md",
       "title": "Why Data Bias In AI Will Keep Board Directors And CEOs Awake At Night?",
       "excerpt": "This blog discusses the acceleration of data bias in AI models, introduces five types of AI bias, and identifies key governance questions for board directors and CEO’s to ask their organizations in order to mitigate data bias risks.",
@@ -1031,146 +1171,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-23-moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.md",
-      "title": "Moravian Academy junior is helping harness artificial intelligence to spot COVID-19",
-      "excerpt": "The teenager from Allentown is working with a Texas company to help speed diagnoses of the coronavirus illness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html",
-      "originalUrl": "https://www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GUA32VEINVBNXI4NNEZKMB77CA.jpg",
-          "width": 1899,
-          "height": 1617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html?outputType=amp",
-      "publishedDateTime": "2020-08-23T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lehigh Valley Live",
-        "domain": "lehighvalleylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-23-is-ai-a-force-for-good-interview-with-branka-panic-founder-and-executive-director-at-ai-for-peace.md",
-      "title": "Is AI A Force For Good? Interview With Branka Panic, Founder And Executive Director At AI For Peace",
-      "excerpt": "When creating AI systems organizations should also consider the ethical and moral implications to make sure that AI is being created for good intentions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/23/is-ai-a-force-for-good-interview-with-branka-panic-founder-and-executive-director-at-ai-for-peace/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4282b811cbf7133cbf05b7%2F0x0.jpg",
-          "width": 640,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/23/is-ai-a-force-for-good-interview-with-branka-panic-founder-and-executive-director-at-ai-for-peace/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/08/23/is-ai-a-force-for-good-interview-with-branka-panic-founder-and-executive-director-at-ai-for-peace/amp/",
-      "publishedDateTime": "2020-08-23T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-23-former-microsoft-leader-and-fiftythree-co-founder-georg-petschnigg-on-tiktok-surface-duo-more.md",
-      "title": "Former Microsoft leader and FiftyThree co-founder Georg Petschnigg on TikTok, Surface Duo, more",
-      "excerpt": "Georg Petschnigg learned a lot during an 11-year career at Microsoft, where he worked on various consumer products such as Word and Microsoft Courier. He also got an inside look at how the tech",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/former-microsoft-leader-fiftythree-co-founder-georg-petschnigg-tiktok-surface-duo/",
-      "originalUrl": "https://www.geekwire.com/2020/former-microsoft-leader-fiftythree-co-founder-georg-petschnigg-tiktok-surface-duo/",
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/tiktok-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/former-microsoft-leader-fiftythree-co-founder-georg-petschnigg-tiktok-surface-duo/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/former-microsoft-leader-fiftythree-co-founder-georg-petschnigg-tiktok-surface-duo/amp/",
-      "publishedDateTime": "2020-08-23T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

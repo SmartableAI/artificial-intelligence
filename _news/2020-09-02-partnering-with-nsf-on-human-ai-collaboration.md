@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/partnering-nsf-human-ai-collaborat
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/partnering-nsf-human-ai-collaboration/amp/"
 type: article
 quality: 109
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1000
     height: 1000
     isCached: true
+
+related:
+  - title: "Google partners with NSF to fund human-AI research initiative"
+    excerpt: "A new institute will study how humans and AI working together can make better decisions than either on their own."
+    publishedDateTime: 2020-09-02T15:38:00Z
+    webUrl: "https://www.cnet.com/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/k5t5q-1Ql0SeC8jksbL2P0NerxQ=/756x567/2020/07/25/b0b10f7e-1ee0-498f-b535-f20bda6f570f/google-logo-phone-united-states-flag-4506.jpg"
+        width: 756
+        height: 567
+        isCached: true
 
 secured: "VlyIQN5Ra7R6tWJi0+2fFhyGu6K7anwItN7qmzgNFwQRTMS1l0rcpfFoDtHKFvhpGcfPhzcezx7iYu9U2ZkQWU8vK4GnkjxKsRA9XKnjl6WHJ9LsD156+/XNURASCAh0YyTPfsRSKPlDiG/mK6YV4riHbZ54JPFPfx8bsvu1SgnrlDul5Vebz9XVQl9xztqOb901czT6hxRGkNuShG6vTSwQtvUTnJ/jNl9kco1f1+RDV26evRqEwSxAuxhqbsZwNQ8+YympQwh5HRwgrfoJUrtgPrAwj/qP+MT0MPwgRExoJyS0bpvN/nRxFBfMPyMAO0LhDUL4PpBNp3/PCwne8U7kWV5oN8iWfDsoX40OITc=;AoGxXd0jGzt3+oyXTxzkIQ=="
 ---

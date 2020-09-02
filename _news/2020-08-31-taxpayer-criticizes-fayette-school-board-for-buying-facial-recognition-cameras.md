@@ -41,22 +41,6 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "Atlanta Airport to Test Facial Recognition, Contactless Tech"
-    excerpt: "In an effort to reduce the points of contact between Hartsfield-Jackson International Airport staff and the traveling public, facial recognition technology will be tested at check-in counters in the domestic terminal."
-    publishedDateTime: 2020-08-28T21:09:00Z
-    webUrl: "https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html"
-    ampWebUrl: "https://www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Atlanta-Airport-to-Test-Facial-Recognition-Contactless-Tech.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
-        width: 940
-        height: 627
-        isCached: true
   - title: "NYPD uses facial recognition to arrest brazen sex offender accused of attempted rape on subway platform"
     excerpt: "A suspect seen in disturbing cellphone video attempting to brazenly rape a woman on a Manhattan subway platform has been apprehended, according to reports."
     publishedDateTime: 2020-08-30T23:07:00Z
@@ -121,20 +105,6 @@ related:
         width: 4032
         height: 2268
         isCached: true
-  - title: "New London Skyscraper Is Facial Recognition-Ready"
-    excerpt: "One of Central London's most technologically advanced skyscrapers comes with the infrastructure required to support facial recognition"
-    publishedDateTime: 2020-08-28T21:34:00Z
-    webUrl: "https://findbiometrics.com/new-london-skyscraper-comes-ready-facial-recognition-tech-integration-082809/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 39
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/62157982_thumbnail3-e1436371820805.jpg"
-        width: 551
-        height: 585
-        isCached: true
   - title: "Concerns about facial recognition system being set up by police"
     excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
     publishedDateTime: 2020-09-01T00:44:00Z
@@ -160,6 +130,17 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
+  - title: "Reporter Update: City Councilman Looking To Restrict Facial Recognition Technology"
+    excerpt: "KDKA's Lindsay Ward has more on why Pittsburgh City Council is looking at police use of facial recognition technology."
+    publishedDateTime: 2020-09-02T15:50:00Z
+    webUrl: "https://pittsburgh.cbslocal.com/video/4689480-reporter-update-city-councilman-looking-to-restrict-facial-recognition-technology/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4689480-reporter-update-city-councilman-looking-to-restrict-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4689480-reporter-update-city-councilman-looking-to-restrict-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 33
 
 secured: "VVm6F0G4KdWLoQOB0B80v6NGw9Y7RBGXIWShftXWiXDDr1nBYj65kq+NsY1fee/FNWHkPWiSYyDKXeOBJw3Z/938brjRICHN6s1eq5iwwCpJs+Lb/2FBmsZplvPpYaXgZWrFD/aImoLrja8mWOB1dGq2TX8XYA+TBTPwDCR5hV4dWiLvyQfkNAJKZDvXDNcdpqwV2L5MRJ8I/hYSY17f/9KSRiU86zSn0ceh6PZlXBbZLoWWNFWISO12sVOmRbVhFYwoWVMg4nkVIWVaTXa8lCDo1ung5w4hk8GcKUHrgKIyFoxJrGwe5rWtfreubeVHRPZPwbm7X0Qy2v7wI2bulGBIEkesPzcneQLxPibEzBV9QAGg82b0L6jX1rbsUvmj74nvFbBrbDnEiQBOpKaKwoftcCtkNjM9OTapQkS0UHlzjU7i3feWFFjkv0xYvYrW2s1/FbiHKWWlcpXXaf6yndeNj65CiQddBJrCZg4QmXnNZhp5nGSBpeEgGIFwuq3jSAqr9UESEotiMRG8VCJiD2WXSIXAPtpjyeHciU122mw=;jMEHZrA2U0SdkIch5DPx7w=="
 ---

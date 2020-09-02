@@ -7,8 +7,8 @@ originalUrl: "https://www.greenbiz.com/article/how-ai-and-robotics-are-shaping-m
 webUrl: "https://www.greenbiz.com/article/how-ai-and-robotics-are-shaping-mrf-future"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: GreenBiz
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Will Guide the Future of Agriculture"
-    excerpt: "Artificial intelligence, or AI as it is more commonly called, has become more prominent in conversations about technology these days. But what does it mean? And how might it shape the future of agriculture?"
-    publishedDateTime: 2020-09-01T04:21:00Z
-    webUrl: "https://www.growingproduce.com/farm-management/how-artificial-intelligence-will-drive-the-future-of-agriculture/"
+  - title: "XRobotics is keeping the dream of pizza robots alive"
+    excerpt: "Zume pulled the plug on its robotic pizza wing earlier this year. A lot goes into making a decision like that — particularly for a company whose robotic dreams were a press darling for a while there."
+    publishedDateTime: 2020-09-02T15:24:00Z
+    webUrl: "https://techcrunch.com/2020/09/02/xrobotics-is-keeping-the-dream-of-pizza-robots-alive/"
+    ampWebUrl: "https://techcrunch.com/2020/09/02/xrobotics-is-keeping-the-dream-of-pizza-robots-alive/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/xrobotics-is-keeping-the-dream-of-pizza-robots-alive/amp/"
     type: article
     provider:
-      name: Growing Produce
-      domain: growingproduce.com
-    quality: 41
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://www.growingproduce.com/wp-content/uploads/2020/08/HarvestCroo_in_action.jpg"
-        width: 896
-        height: 504
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/xRobotics_1_4K.jpg?w=1024"
+        width: 1024
+        height: 1024
         isCached: true
 
 secured: "t/fkD4a36WafZpkDThagc7jDjlBumdtZg+HJi0s8YHkMPOpJzNb4Fb5+trCkfcRSPcLDSUbIgAfEoX8B5q6lTddURlTqhBwn0mngtXKYDvJPr8KsPiyqzvuqNk3KbfHguYkTjKV4TommPK6QaB/LwosT/yQ8+PO9g/YT5GjQ1oRxt0JtHhR1wSe81Jk+ORn0UzNcxSsPbnPRO3K/AIWzbzFsfckcvWA6CiDn79sRTLLHpddOm2TkoAkn172PeBtyT4pXXn8wV/6mYcLRKNdQwTctXsm7sEj72DF42lGrRLlcbTa3W+qioUL3PMt8Lu+8vDEceNdIQ/MXrLO+L4tKjs4A5dinfWiwBUEqXA9D9ErI28FTeaX8b3QzFmI4a3gfaHp0G75sIDD1DhYIKeV2rzelnG7XpBlvECOM3s2r9ERELwomnhUh6d7LziTplmDlzXM6gvxRLhgLGhEYOSAYXnNBPQeaug9pLFIs84kzxPGaq+o4kaPw5eJR7Z68755Q0lb1XSoJEB6GUpdoFhf6a0zY6HcNdYEcAeXIKbTJAxc=;nrG0EpjNeMOpPcGmaAC4LQ=="

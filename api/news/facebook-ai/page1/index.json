@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-02-russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook.md",
+      "title": "Russia’s most notorious troll farm reportedly used deepfakes to push a fake news outlet on Facebook",
+      "excerpt": "Facebook and Twitter say they've removed a network of accounts behind a fake news outlet run by fictitious journalists with AI-generated headshot.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/",
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-17-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/amp/",
+      "publishedDateTime": "2020-09-02T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-3-top-artificial-intelligence-stocks-to-buy-in-september.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in September",
       "excerpt": "Artificial intelligence (AI) has the potential to influence almost every industry, and the overall economic impact of the tech will exceed what's spent on hardware, software, and services many times over.",
@@ -1419,38 +1469,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-online-payment-market-to-reach-usd-1764335-billion-by-2027-rising-usage-of-ai-to-detect-frauds-will-favor-growth-fortune-business-insights.md",
-      "title": "Online Payment Market to Reach USD 17,643.35 Billion by 2027; Rising Usage of AI to Detect Frauds will Favor Growth: Fortune Business Insights™",
-      "excerpt": "The global online payment market is set to gain traction from the increasing deployment of artificial intelligence (AI) for",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/g17013736/online-payment-market-to-reach-usd-17-643-35-billion-by-2027-rising-usage-of-ai-to-detect-frauds-w",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17013736",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17013736",
-      "publishedDateTime": "2020-08-10T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
