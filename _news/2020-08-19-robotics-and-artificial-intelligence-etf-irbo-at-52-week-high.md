@@ -3,6 +3,7 @@ category: news
 title: "Robotics and Artificial Intelligence ETF (IRBO) at 52-Week High"
 excerpt: "For investors looking for momentum, iShares Robotics and Artificial Intelligence Multisector ETF IRBO is probably a suitable pick. The fund just hit a 52-week high and is up 71.9%"
 publishedDateTime: 2020-08-19T21:52:00Z
+originalUrl: "https://www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19"
 webUrl: "https://www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19"
 ampWebUrl: "https://www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19?amp"

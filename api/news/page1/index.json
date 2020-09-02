@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-03-track-self-driving-car-tests-in-your-area-with-the-latest-internet-tool.md",
+      "title": "Track self-driving car tests in your area with the latest internet tool",
+      "excerpt": "Curious about the locations where autonomous cars are tested? The US Department of Transportation has a new tool for that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/",
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-tests-locations-tracking-tool/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-tests-locations-tracking-tool/",
+      "publishedDateTime": "2020-09-02T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-nfl-reveals-new-expected-rush-yards-stat-with-help-from-amazon-web-services.md",
       "title": "NFL reveals new ‘Expected Rush Yards’ stat, with help from Amazon Web Services",
       "excerpt": "Football fans wondering whether the next handoff to a running back could be another Beast Quake have another stat to track thanks to Next Gen Stats, the platform powered by Amazon Web Services.",
@@ -209,7 +259,7 @@
       "webUrl": "https://www.techrepublic.com/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
       "originalUrl": "https://www.techrepublic.com/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
       "featuredContent": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -248,57 +298,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-us-nhtsas-autonomous-vehicle-test-tracking-tool-is-light-on-data.md",
-      "title": "U.S. NHTSA’s autonomous vehicle test tracking tool is light on data",
-      "excerpt": "In June, the U.S. National Highway Traffic Safety Administration (NHTSA) detailed the Automated Vehicle Transparency and Engagement for Safe Testing (AV TEST), a program that purports to provide a robust source of information about autonomous vehicle testing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/02/u-s-nhtsas-autonomous-vehicle-test-tracking-tool-is-light-on-data/",
-      "originalUrl": "https://venturebeat.com/2020/09/02/u-s-nhtsas-autonomous-vehicle-test-tracking-tool-is-light-on-data/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/bb86e4ec-f2f6-4cce-a490-fedc4204a7ef-e1599067344996.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/02/u-s-nhtsas-autonomous-vehicle-test-tracking-tool-is-light-on-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/u-s-nhtsas-autonomous-vehicle-test-tracking-tool-is-light-on-data/amp/",
-      "publishedDateTime": "2020-09-02T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {

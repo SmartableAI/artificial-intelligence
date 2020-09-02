@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -188,6 +188,15 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 33
+  - title: "Pittsburgh City Council told facial recognition bill should be stronger"
+    excerpt: "Restrictions on using facial recognition software and predictive police techniques proposed by Pittsburgh City Councilman Corey O’Connor don’t go far enough, a handful of computer science researchers told council Wednesday."
+    publishedDateTime: 2020-09-02T20:36:00Z
+    webUrl: "https://triblive.com/local/pittsburgh-city-council-told-facial-recognition-bill-should-be-stronger/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 19
 
 secured: "d0MI06gM/9Ao9pzeIeLFnqwHJ/3ACEs2heKu2LhRrNyjbk8GHK9uEMUcJOoN5Ro3WKCSsrqez6PxZY1vIhjIiHuvIW/Lt67uz/WuHFZiuJPgPr5qwkLh+MmTrrux1lUwrLQJ39JjvPTknCA5wH3sVqwieL8bFGRVLFwBnqKP+gmIAoNEFd1E924VJgVdaS9ldR7KT7PioSGI4N8cylQvAWngrZFHUyIDmEKmb1IDjK013Y5BAuwWZ6TDH+nWSdPiGK8i9lF0QHsfd3mt1SZsgvUGDfq9LVOAsiHzDoa1Kc6YRn10BOXm/mOBz+VEu6iYgV+wbd8RwheiPZr6lKdm+Xi8B0psD/A1jOvV86ofT5cuF/FSE0Jhc9BjPukPe8HfCy+Si9kFfwJYUYPrsUho6BI4MDlF2zroBF94f+qxtb/19p0RnQ9awZJ6SxqMjuNPoFQB9tjhAxDywI65UOHxOPMgLDf3/o+tc6iaGWujQqMIaFMQngogc3PZ9IPKCsG5xmIZJgb4d3ZFti28A+oszn6bs/QjFe3cuqvyklGjpCY=;E9yhAyavGA03BSIJd3UEJg=="
 ---

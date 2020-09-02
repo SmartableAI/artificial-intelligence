@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/</loc>
+    <lastmod>2020-09-02T14:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/</loc>
     <lastmod>2020-09-02T12:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -27,12 +33,6 @@
   <url>
     <loc>https://www.techrepublic.com/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/</loc>
     <lastmod>2020-09-02T11:24:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://venturebeat.com/2020/09/02/u-s-nhtsas-autonomous-vehicle-test-tracking-tool-is-light-on-data/</loc>
-    <lastmod>2020-09-02T10:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1081,14 +1081,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-1029536911</loc>
-    <lastmod>2020-08-26T08:51:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/</loc>
+    <lastmod>2020-08-26T08:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/</loc>
-    <lastmod>2020-08-26T08:40:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-301118728.html</loc>
+    <lastmod>2020-08-26T08:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1501,14 +1501,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-11598339825477.html</loc>
-    <lastmod>2020-08-25T00:55:00-07:00</lastmod>
+    <loc>https://theenterpriseleader.com/2020/08/23/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-29-4.html</loc>
+    <lastmod>2020-08-25T00:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://theenterpriseleader.com/2020/08/23/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-29-4.html</loc>
-    <lastmod>2020-08-25T00:45:00-07:00</lastmod>
+    <loc>https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174</loc>
+    <lastmod>2020-08-25T00:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1939,8 +1939,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/mobius-logic-brings-drone-flight-management-to-microsoft-azure-1029524393</loc>
-    <lastmod>2020-08-21T08:15:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure</loc>
+    <lastmod>2020-08-21T08:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2197,12 +2197,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-2020-08-20</loc>
-    <lastmod>2020-08-20T06:27:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://techcrunch.com/2020/08/20/ai-as-a-blueprint-for-fintech-startups/</loc>
     <lastmod>2020-08-20T06:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2211,6 +2205,12 @@
   <url>
     <loc>https://www.forbes.com/sites/forbesmarketplace/2020/08/20/this-cto-says-ai-technology-will-accelerate-sustainable-investing-and-create-a-more-equitable-society/</loc>
     <lastmod>2020-08-20T06:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-2020-08-20?tesla=y</loc>
+    <lastmod>2020-08-20T06:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

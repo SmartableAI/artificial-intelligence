@@ -41,6 +41,20 @@ related:
         width: 1014
         height: 646
         isCached: true
+  - title: "Facebook & Twitter Remove Russian Accounts Spreading Disinformation"
+    excerpt: "The Russia-backed Internet Research Agency has returned with new strategies to sway voters ahead of the 2020 presidential election."
+    publishedDateTime: 2020-09-02T21:53:00Z
+    webUrl: "https://www.darkreading.com/threat-intelligence/facebook-and-twitter-remove-russian-accounts-spreading-disinformation/d/d-id/1338825"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 24
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "7yqaviW+ylCwGZsNfvdzye1qaWseZjbO8qu6BUESviyf+A7BbR+eRuB/9n4Hhs4g6Z0jbl8V/voazbhHwf3pXFwbT40fi6mK/TAjm7ZJxq8aL81uaAsftbirvNBMr0NaXvUjSp29aXn7cejdEI3v/8jlJXOr1UDqN813AU/7QGVTaZ9Xb+5sYyrLOku3V305JU8g0vg33CrZ+1sXpE9XXEid5DReBhkckxb1jcKNzXXyKLGDtVwBnhPgrwVwklu7gCiEPB5jNwcjeZR9+++BZBjv/Rb39kORzCDkXZiDBPr4lI2EEwMF7Xp4J3LYiv6P8RJTQ19/GWw7G67YHJfFjGj5b/+HEu9RQ0yraHemf4Se3ThMBzYYv9GDaRIdqi+Xh4ruGC5tZHUrAVVqRCT5KCW4DIHr74/aNSR6t9u8X51vfBjFMFXLxUJVBSrJdQlyopnRTtnaLwyc7zqjfjg6G3jwA8IOaEtrTYxljl1jO1/NqmyHlgma+IY2wjPDTxQxfIhDCPS8fdnK8XRIHwWo5g386PQ0Dzz1DXyIqUZKXOY=;jRTXNMKeVc8biDO6ZOdzpQ=="
 ---

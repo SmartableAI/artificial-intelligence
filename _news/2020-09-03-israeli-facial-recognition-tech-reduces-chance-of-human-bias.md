@@ -184,7 +184,16 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 33
+  - title: "Pittsburgh City Council told facial recognition bill should be stronger"
+    excerpt: "Restrictions on using facial recognition software and predictive police techniques proposed by Pittsburgh City Councilman Corey O’Connor don’t go far enough, a handful of computer science researchers told council Wednesday."
+    publishedDateTime: 2020-09-02T20:36:00Z
+    webUrl: "https://triblive.com/local/pittsburgh-city-council-told-facial-recognition-bill-should-be-stronger/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 19
 
-secured: "NWL0/vSG3lAH/qsWyYg7bUhDXN5whL07j+nGmmzouTLntM549hXgqTPfPTWRVDHRa8+hlgbzDVqSkslUwdMPpvhgVElnhWceEfcx6khyZAbSr6sDoE6CNFTUd+MVi+hxfyp2OJV7wWlRKyp8L5iU2Ka1dPsLmzmyddVa7U5Vx6whCaHjkhz/ZgvUdczWUPbRv7yTXWAWvCs59Y/QbS38LLQkngVxvb75KbTvH3jnJHOQdw6azrM2ndKE7A/u1kkoMO6SqW79v2WxdXcsBJcsJS+MYslxFmIFwZ7qe/Kps8tpetbCSGoIUoldJAqp0vs0godTHp73OdmBjZw4ViB6ssZ0J9rhhOHWT/1H/qVCJtU=;/o5H7kIBols+hesQAlWVtw=="
+secured: "I8mGPTE2Mfz+0cJfGMlMOo/GipJVt5HfGWIIHM+IgPvs0suZ/AjDUscLHXMDAg2M2siCHr3+2T+eUa2hT8S7kEUcVWEF1TmZsw/WNIfuDMwPufFyR1Rl+3N/Adj+7z2Xb83VaFI6x43hVkx5qOc9FmgojGJX1qlEOz70cH4FcYO0wfJZPsJy3V3pSAYvwzX2dYt7ukABDylkse6x+mOLfLuKWC6qa0FwvoJS0AWWggDF3QnzaZ40vV3E/wK32WFAi2p1DGJBVkE93TRzNoRI+tjZ4G+xg/FOOanCrwCTFmm2OR1DKZUed/6S9lofQqd4TFsk0jI9CYIRS48YxyKEunkICaYe5ozh3CB2V+Xn6za82mcdEugKbjfhOf89ebmbdpxRVDXvqHTQGE6jqA5AbTy7CVMpmD0CBnk2ikppg6Xm687agOZhUihR3qvx+X4dfEne3brMyKQ89uRrVgcP0v2UORYBNIH+HqCskhxosI2tNcJK9bGlQ2WH0mAbSmVpJBqYQTKLbMB+GiJhAO2/m9izvunDJ9DMLpKTD77Kivk=;HEEQtdf4hUczrPt2QPs+0w=="
 ---
 

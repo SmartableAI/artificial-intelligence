@@ -31,18 +31,18 @@ images:
 
 related:
   - title: "Defense Innovation Unit Selects Google Cloud to Help U.S. Military Health System With Predictive Cancer Diagnoses"
-    excerpt: "Google Cloud today announced that the Defense Innovation Unit (DIU) has chosen Google Cloud to prototype an AI-enabled digital"
-    publishedDateTime: 2020-09-02T13:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/defense-innovation-unit-selects-google-cloud-to-help-us-military-health-system-with-predictive-cancer-diagnoses-301122642.html"
+    excerpt: "MOUNTAIN VIEW, Calif. and WASHINGTON, Sept. 2, 2020 /PRNewswire/ -- Google Cloud today announced that the Defense Innovation Unit (DIU) has chosen Google Cloud to prototype an AI-enabled digital patho"
+    publishedDateTime: 2020-09-02T14:41:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/defense-innovation-unit-selects-google-cloud-to-help-u-s-military-health-system-with-predictive/article_67c45e0a-a2d0-5434-8b6f-d4b6d8c353d9.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 3
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "w7Sp4xTN8WrABTYWZW1/lui2BXQuv3KZ0YBXLZ4IJq/9YchfQzIzrx2VkyweEhbCV2B3EP3wxJYbhkHfau4rV0wMJd5KXBPDVQ5yOSSHWZeEKgu2dn6JzzgU0ESWdRcjeau59Pxgdl0cckoi2YmSheVj81y0FZBWZ7zvF3tn8JJIx7xrlh5u1cpUSPXNSm9KUDEeSMhe+xSI/RawqCLCONOpQCqjnTqUjmEcyngBES3/mzfqn+gTW/4xmVVIP7MJP3kirk9PBcgIkv04L6SeNPI42BdniQtiP88mCObAGnikbjjX4liSSaQb9//FVbc2XQKI/peLTQGsp6QrqP8I0cdNBZg98/n7tlk+mB254FvYrqVaHJP9s+5WQTwDu1EO0O6Q/ECu9zcxos4H56yLHdhUdX5YMAP96u+0skGI7okkKkTNs9AD+cNiOV6fqINHz+E1L7ZMrsKKRitV8nSMF5LVakIL3kL8Ot/WXW9MprjPyV4heYrS8CjpwoaQeifeW3pWsSF4NwW6NtyUdrU6bnND8vFD4hUVebCyfrMURcM=;X/OBOdDlX1mMeZUMkIyvUA=="

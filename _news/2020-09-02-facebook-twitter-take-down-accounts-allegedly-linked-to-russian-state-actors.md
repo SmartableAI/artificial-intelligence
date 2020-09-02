@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook & Twitter Remove Russian Accounts Spreading Disinformation"
+    excerpt: "The Russia-backed Internet Research Agency has returned with new strategies to sway voters ahead of the 2020 presidential election."
+    publishedDateTime: 2020-09-02T21:53:00Z
+    webUrl: "https://www.darkreading.com/threat-intelligence/facebook-and-twitter-remove-russian-accounts-spreading-disinformation/d/d-id/1338825"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 24
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Facebook and Twitter Remove Russia-Backed Accounts Targeting Left-Leaning Voters"
     excerpt: "Researchers say one of the operation's goals was to steer left-leaning voters away from the Biden-Harris campaign ahead of the November election."
     publishedDateTime: 2020-09-01T20:17:00Z

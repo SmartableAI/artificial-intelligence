@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/article/how-to-make-complicated-machine-le
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
@@ -30,6 +31,6 @@ images:
     height: 675
     isCached: true
 
-secured: "VKEGxmhGfk1BUMQ1RLEmtTU+oBDrJQ63DEPdyC/lg19yd2s0H0UtLX5iZ8whe5gQaQzrOmlELkWSHIDE6I5Ketu6FimFlBH7d6V6ymaUAALuDzsBxJHL2IeAr1+LatTMqDdBjm94DWb38I4PMW9mE8b1MqxngtAPMNt3736wZqi1KQnQ3uoxU5LYU/irU8XRcT3PiXvE8TPNmquSs7lmYUN5+8gVV69QkgD+6FhDVLpMHE4Nfgszzw91OxsqGxbaliMkBWJDkiurQazWh2MaYW4bvfgLNPV9yE9vUulqysks0HPrpQRVxXtUCFIfC11NAlH79PVtiipbZDR3KVwW+Cqrenz90myh6uZg26kPFEw=;QQ7NTxOuoxj02sT6tfG+Tg=="
+secured: "vD2gH8yhE/J+UGq+J1RTSYRaLehQiPXcUWUuh83P2QN96HZR8tD8GkVpN824/0x8PvcbwbEyWUZzhE4o35PyU9/J3QRmrPXU41pCGX4F94OaLJYvP3V+Sy6LFYwp6v86xU11YAFJBu4KYU3aUVeH0REx3ktyMc2W1M08teR97KwcLOJC15nJKzio7v5qBNuF2dla+KCY2GUYSohNaYqmNXRRmUo2VB0Zazpn22TieOpnY7RpEJcEuvJyxZN2pgquwG5jiO4ViaeaXYdU8s+Z+/o7f9kPCiPUnWlrRO15FytxE/pdN9ZkVsAIgycGvR4Gj7AfYPSfsxbSoCqwamCRdtbqHY/FYQUGWBNFpHrdhTE0Rtr/iONk06MnJeq7/1Gs+td+uugifsqTR5Y/WLU8HsrijFe7L8AnlJe09AFS/+mYOSdsdmhQvPS8a3Fv0xU2QTnDFR0jw5RKPvgWIw4MAJOLWiU1Bw3WApya99/tQ4lPaJF4CyGST0gnT+jozEi+kA5Fx8NK+Wv9zDoubmGIhAm6IZwVSVIPOkv7Hk+Lj1U=;IcfTUYUxE+8DNT6jSGP2KQ=="
 ---
 

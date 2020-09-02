@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Fears police facial recognition system will falsely accuse Māori"
-excerpt: "It is only a matter of time before a Māori person is wrongfully arrested because of a false match on facial recognition software, a Māori technology expert says. Police have been working on a $23 million upgrade of their biometrics images system run by the US firm Dataworks Plus,"
-publishedDateTime: 2020-09-02T19:12:00Z
-originalUrl: "https://www.newshub.co.nz/home/new-zealand/2020/09/fears-police-facial-recognition-system-will-falsely-accuse-m-ori.html"
-webUrl: "https://www.newshub.co.nz/home/new-zealand/2020/09/fears-police-facial-recognition-system-will-falsely-accuse-m-ori.html"
-ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2020/09/fears-police-facial-recognition-system-will-falsely-accuse-m-ori.amp.html"
-cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/09/fears-police-facial-recognition-system-will-falsely-accuse-m-ori.amp.html"
+title: "Pittsburgh City Council told facial recognition bill should be stronger"
+excerpt: "Restrictions on using facial recognition software and predictive police techniques proposed by Pittsburgh City Councilman Corey O’Connor don’t go far enough, a handful of computer science researchers told council Wednesday."
+publishedDateTime: 2020-09-02T20:36:00Z
+originalUrl: "https://triblive.com/local/pittsburgh-city-council-told-facial-recognition-bill-should-be-stronger/"
+webUrl: "https://triblive.com/local/pittsburgh-city-council-told-facial-recognition-bill-should-be-stronger/"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Newshub
-  domain: newshub.co.nz
+  name: TribLIVE.com
+  domain: triblive.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.newshub.co.nz/home/new-zealand/2020/02/police-almost-twice-as-likely-to-send-first-time-m-ori-offender-to-court-than-pakeha-study/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1582744929864/getty-CHRISTCHURCH-COURT-GENERIC-1120.jpg"
-    width: 768
-    height: 438
-    isCached: true
 
 related:
   - title: "The best facial recognition security cameras of 2020"
@@ -107,6 +99,22 @@ related:
         width: 4032
         height: 2268
         isCached: true
+  - title: "Fears police facial recognition system will falsely accuse Māori"
+    excerpt: "It is only a matter of time before a Māori person is wrongfully arrested because of a false match on facial recognition software, a Māori technology expert says. Police have been working on a $23 million upgrade of their biometrics images system run by the US firm Dataworks Plus,"
+    publishedDateTime: 2020-09-02T19:12:00Z
+    webUrl: "https://www.newshub.co.nz/home/new-zealand/2020/09/fears-police-facial-recognition-system-will-falsely-accuse-m-ori.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2020/09/fears-police-facial-recognition-system-will-falsely-accuse-m-ori.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/09/fears-police-facial-recognition-system-will-falsely-accuse-m-ori.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 59
+    images:
+      - url: "https://www.newshub.co.nz/home/new-zealand/2020/02/police-almost-twice-as-likely-to-send-first-time-m-ori-offender-to-court-than-pakeha-study/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1582744929864/getty-CHRISTCHURCH-COURT-GENERIC-1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Israeli facial recognition tech reduces chance of human bias"
     excerpt: "Just as it is wrong to say machines are ‘biased’ it’s wrong to say machines are not biased, however, AI systems are less biased than people."
     publishedDateTime: 2020-09-02T18:02:00Z
@@ -184,16 +192,7 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 33
-  - title: "Pittsburgh City Council told facial recognition bill should be stronger"
-    excerpt: "Restrictions on using facial recognition software and predictive police techniques proposed by Pittsburgh City Councilman Corey O’Connor don’t go far enough, a handful of computer science researchers told council Wednesday."
-    publishedDateTime: 2020-09-02T20:36:00Z
-    webUrl: "https://triblive.com/local/pittsburgh-city-council-told-facial-recognition-bill-should-be-stronger/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 19
 
-secured: "+rJFstCO+aacdxSbNQxm75el8pEDtclYu4yr8dCVF5MRZsq9D5HFgXbLeg2IMHx/imv7vyVYwHfAAdZ0ZGqNnCe8gJYNlaekSRWDcFWcZUvu3/vYFyAsIX3kVIEqnbAuzUUbNG9w7vUKXEp/ODKEBtyjIIEGaxmEImnXZSGK6cGnnqgaglHOcI0NCzgCDERDntRNB/Dgkd9T1jKjNkLHi2RJ2lpXWfg3w6Nk46LkyH42uD/IUNvupB2zOWoBX905p0d46u/iAekcuoG9FaSubnEO3WToDBVD4lZqvNLaFXybfglDW+hXC+MwWJ+FZq9Zt9TQz/ASeROMBdmkBpV/zU6vIF9uuO2ryEU8kTxj6PJBD/YJ3CsaOpPuKmaVw7YRP4DEkjG340dCQKKkd0RJXQmSPtZkVEQcz6HagFLGXE180bItfsfeqPtC/NRQMM/uzJPUorSZgRbZUDm7B2iMQGuRK1SJSrObyAPgDAOPZXe19Hr/ZkBWriZcPAdK6xQAX7F6pjqhLDCyorkDo1dtJKU/erbXst2aaKk2JnIw0ac=;h4gyIcAm6LI2e0y1IOnz1w=="
+secured: "2ce+2Ub7wldQl1n6rl6inSYvJEjwNALTxdfhtNf0FkQS+X56k6pXdTsy8k/JNgoo9YlhL2PBrj/qVHwJyGxCbSDDqFGntLif+9BD6PLaOvAqBSnq6fzven/waVUZ70Q0UTC+utIlPph7iMn8vgr7wfjmrLuFYvpiLlqSSrzZaVFDyGeZjQXR3FMA4YtbSJR63kSZLlE32UMJyBxKJocq/jz00qV6WrKVShJ86npINFDnOgfA/wOWqBwDMQvO25mG/6THu/hFy0kilIF0PiUfSHvTtDdKMPkrEGcCuVo05jrT/xFbBS50vadOKskLEGTVBnFiMaZHWe8UF8VH0V/wZUVR7tEQosDPGZgzt8yDNVTwGE7f7zg6JQbzxy56/yqst8NVDWkj7N3i7TsXjKzKjEWY+LIkDWI9lNbZXlwuS++rB1hTgE8aoCKGGCa3Y+LNwale9eOli0RMmNeyGnq0OrSu96u/6sXozVpBKTvPqOioiIqgJmVvIW21naJmT1XbWA9AmemIOAntsaendODquYraBGkZpv2KKgrmAmUNYh4=;mVDN3a9fsSgtc3e/EF9ylQ=="
 ---
 
