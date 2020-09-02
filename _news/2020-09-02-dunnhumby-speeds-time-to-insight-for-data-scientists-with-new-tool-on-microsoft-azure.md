@@ -36,6 +36,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 77
+  - title: "dunnhumby Launches Model Lab on Azure"
+    excerpt: "It automates data scientists' repetitive, time-consuming tasks, using machine learning technology to reduce run time and allow data scientists to explore algorithms. In addition, according to the firm, the Azure-based service gives users the benefit of ..."
+    publishedDateTime: 2020-09-02T19:43:00Z
+    webUrl: "https://www.mrweb.com/drno/news30226.htm"
+    type: article
+    provider:
+      name: MrWeb
+      domain: mrweb.com
+    quality: 19
 
 secured: "U3gGvL+CxJ29hFqU8qSwdxen8vwDokx6p1/d/Vo7PvctstSMRPdnzkL1iM/sbjtRjkdCCz30VW5GTX0XLefrSOD1iKUDAQOJ6iN4okUVmqBG2G4GbhhDFaTgY08c1w6ixJW9uhE6RZpjQFDp+c+p0Tay50+OfEjUZnQBE8vl39K91BsjD7fJ4X7HYVcppdId0PMjQhb1RTTOp6TwXnXg4LRLV8PgkZptuHZBZRZrK+QuzOSLUnjvAsQ4LVhYoY3jUJfo6NeYVrUaBiwlAOLzsllBKWMtZhS8QchmkfRKXKNtRExAGqetrPQ3KXvIkf5fSVstq9ieAGD3Q8jqcAZjCItLUkwn/iGzAEhuKmaYxOE=;z/pLoVVnvFN+nozEkDVgKA=="
 ---

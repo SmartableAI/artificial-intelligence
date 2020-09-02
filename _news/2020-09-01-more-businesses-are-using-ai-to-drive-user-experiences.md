@@ -42,20 +42,15 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "7 Successful Ways To Use Artificial Intelligence To Improve Your Business Processes"
-    excerpt: "Now more than ever, you may be looking for ways to make your business more efficient, more streamlined, more cost-effective, and better able to cope with changing market needs. Artificial intelligence – in particular,"
-    publishedDateTime: 2020-09-01T05:38:00Z
-    webUrl: "https://www.linkedin.com/pulse/7-successful-ways-use-artificial-intelligence-improve-bernard-marr"
+  - title: "Instagram sales, AI, TikTok, and more: How Wisconsin small businesses are stepping up online, tech strategies to connect with customers"
+    excerpt: "In response, the Green Bay company is investing in artificial intelligence software that will allow its customers to virtually try on different lipstick and foundation shades. \"We're really looking at every single tool we can use to give the consumer an experiential introduction to our brand from their home,"
+    publishedDateTime: 2020-09-02T18:06:00Z
+    webUrl: "https://www.greenbaypressgazette.com/story/money/2020/09/02/instagram-auctions-ai-and-subscription-boxes-wisconsin-small-businesses-prepare-permanent-shift-reta/5572771002/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 31
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQF9-qm1UEvmqA/article-cover_image-shrink_720_1280/0?e=1604534400&v=beta&t=dfdGuSJTne4ZexEIAQaxvUOkqnH9vl-rs-E2Z3XAPeM"
-        width: 1200
-        height: 720
-        isCached: true
+      name: Green Bay Press-Gazette
+      domain: greenbaypressgazette.com
+    quality: 0
 
 secured: "tNloF+Q2KvLfvUc6Y848OH0KlO0BY3Xj5PNe2tiZdJC8QWdAvWZ6uPREiH/AvWPnlziVVRDI8RIwM4a9fEPZGXl0eAEnIXZubsTB5U6SFTGv8cpywr1znFAFnzmzRZpsPnMCgHLuJBRy4z1o+Nj2C043Crt4U5PisdNGZGlVIb5ZlX5Kj+qGE12aXRgAupUNmbdSoIiZ1dFIcQZKMHBRjU0P44BuYYYDXkhfiqNlHbgNwlAIPCmn71u2yCpitZkCaPWO5zMocrfVrgYTMCFXTJZem24E1b/1Siyr3EAbYMA1mWOHwP57HZFHwUf6d5oratU0K57COUmSVkvCEOK14nFfKzqUCV51C0tc4chNXTmczsa/FtKORSd0oDSSRhPvn996dWX3xDLX9lMqRIBMM9kJ14d7HsHUfEMkhRbSQub+fQIztH2RmfOcoukODtJI+M9fGP1tqBCo2pgNXpKk/d7h92tBLwk87ZdTfWXD2qSiq+e/UPPvzp4plcfqAJdL1qtaWhp+ua4AGo0CLakNWaF+ty+jr5/RMzEkQNsYBOw=;c0AxhWAHonZgRKh2sd5RxA=="
 ---

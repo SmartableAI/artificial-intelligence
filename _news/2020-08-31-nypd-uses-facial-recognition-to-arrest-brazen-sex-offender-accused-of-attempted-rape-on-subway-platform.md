@@ -95,6 +95,38 @@ related:
         width: 4032
         height: 2268
         isCached: true
+  - title: "Fears police facial recognition system will falsely accuse Māori"
+    excerpt: "It is only a matter of time before a Māori person is wrongfully arrested because of a false match on facial recognition software, a Māori technology expert says. Police have been working on a $23 million upgrade of their biometrics images system run by the US firm Dataworks Plus,"
+    publishedDateTime: 2020-09-02T19:12:00Z
+    webUrl: "https://www.newshub.co.nz/home/new-zealand/2020/09/fears-police-facial-recognition-system-will-falsely-accuse-m-ori.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2020/09/fears-police-facial-recognition-system-will-falsely-accuse-m-ori.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/09/fears-police-facial-recognition-system-will-falsely-accuse-m-ori.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 59
+    images:
+      - url: "https://www.newshub.co.nz/home/new-zealand/2020/02/police-almost-twice-as-likely-to-send-first-time-m-ori-offender-to-court-than-pakeha-study/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1582744929864/getty-CHRISTCHURCH-COURT-GENERIC-1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
+  - title: "Israeli facial recognition tech reduces chance of human bias"
+    excerpt: "Just as it is wrong to say machines are ‘biased’ it’s wrong to say machines are not biased, however, AI systems are less biased than people."
+    publishedDateTime: 2020-09-02T18:02:00Z
+    webUrl: "https://www.jpost.com/jpost-tech/israeli-facial-recognition-tech-reduces-chance-of-human-bias-640860"
+    ampWebUrl: "https://m.jpost.com/jpost-tech/israeli-facial-recognition-tech-reduces-chance-of-human-bias-640860/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/israeli-facial-recognition-tech-reduces-chance-of-human-bias-640860/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/463006"
+        width: 640
+        height: 428
+        isCached: true
   - title: "Concerns about facial recognition system being set up by police"
     excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
     publishedDateTime: 2020-09-01T00:44:00Z

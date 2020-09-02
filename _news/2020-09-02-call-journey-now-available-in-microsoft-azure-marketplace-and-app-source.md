@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
-excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource o"
+excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing applications and services tailored to specific business needs."
 publishedDateTime: 2020-09-02T07:41:00Z
-originalUrl: "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
-webUrl: "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
+originalUrl: "https://www.arnnet.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
+webUrl: "https://www.arnnet.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
 type: article
-quality: 68
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: cmo.com.au
-  domain: cmo.com.au
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo_2.jpg"
-    width: 620
-    height: 254
-    isCached: true
 
 related:
   - title: "Microsoft Azure now available at Swisscom cloud portfolio for SMEs"
@@ -48,6 +42,6 @@ related:
       domain: benzinga.com
     quality: 68
 
-secured: "v0+xrx+9K0SHxXGIPHa5D3H8f7Lk3CWcGnSJrcUy5Cat9UVtBzSjs5XWp6yJ+wBG0iX+q2/tr8F6vP1xdVd5e7AixfmJowvP0iEFpVOdxUn9YYrv3Lu/zpkeOXl0hhzFJ1vonEWUph2bw6agL+Ke3OvktNHPAdq2niK9q9jQFmMZG/Uf6PghVdNs2l1X1akug3Q+TA9TYNFHgIINxVm7/2pefEaeJRnMaHxjPwQhJx8NEz61naLxZYzuofErmavpDgzB8h0w9E/tb4ufI9DbzfkcY1RR7HXoMbHA3DMoQDFHEU07/IReVz+0xw3MRW4zggNZ2/1dbqJaMg4Mv3Heuw7QD9RkK4hc/iUagImv1po=;8G5JLC6I79icJkDSRNQZYg=="
+secured: "7gEHA5yy9bJ0DffAjnfbFR8Mts2KOd6jCCHFdljmx3+qyWXgC8G05P2qAkcYkT7AbpW43+JR+f2XEIQwE+kcn1R5nIX52YQbj80SHhnWkRiehs8+Bp/9JFdFsMoTZAITvhiW8M7gbdntpkLvAUNhju3jSMBSaXPRy85+kTp8jMiGTGUNLLDpl5zRDaJB3Peiq4TWJkMqFn+7XU/6+V/LjFloIW+TY2+cIUIeSeX8JW0GyimKnmOdat7saTrd4o7rAhW++0yH18jgZSmaU3lZUsXarvDobvqcdWPXxHse5EWiwNQXVztdx0IgI/1n7OR6zgLysJZJY6w63EvGdkvKeC3f87BrCVuH2hdhwOsazA0=;Uj/S3S8EYHIbYvCBKQqfNQ=="
 ---
 

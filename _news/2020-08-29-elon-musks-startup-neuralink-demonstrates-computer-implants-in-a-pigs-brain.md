@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk's Neuralink brain-computer: Watch 'working' demo replay"
-    excerpt: "The brain-computer startup showed off a 'working' device, in pigs, on Friday. You can rewatch the presser here."
-    publishedDateTime: 2020-08-29T02:47:00Z
-    webUrl: "https://www.youtube.com/watch?v=sr8hzF3j2fo"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 167
-    images:
-      - url: "https://i.ytimg.com/vi/sr8hzF3j2fo/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Artificial intelligence: Elon Musk puts computer chips in animal brains"
     excerpt: "Elon Musk, the founder of the American company Tesla and SpaceX, demonstrated how to connect a computer chip made by his new company ‘Neuralink’ to the animal brain. Elon Musk’s company, Neuralink, has developed a chip in just four years,"
     publishedDateTime: 2020-08-31T09:35:00Z
@@ -98,6 +84,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "Elon Musk’s latest startup wants to implant computer chips inside the human brain"
+    excerpt: "Elon Musk isn’t content with electric cars, shooting people into orbit, populating Mars and building underground tunnels to solve traffic problems. He also wants to get inside your brain."
+    publishedDateTime: 2020-08-29T20:13:00Z
+    webUrl: "https://www.staradvertiser.com/2020/08/29/breaking-news/elon-musks-latest-startup-wants-to-implant-computer-chips-inside-the-human-brain/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 34
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2020/08/web1_10372849-9e392b49320d4cbbbd0f72035a3bde43.jpg"
+        width: 760
+        height: 507
+        isCached: true
 
 secured: "kLwOb4KpVrMb0Jicx/yaFlcrys5y+TrUv+JX0qUFcOCbq2JF10tbAnUS20sxSlWZIJ6p9jhvKqa/HO/0nQB/InOKuwtkmYKfS7pM/Skj0V0PClEpKYCV53lXgdMLGeUHNlsfADE1asSqgQLzdqAvaxl/3UW4KFzv15vfNs5f5y2h2IUen3wqYhyYflm/UxeABzDCC13Cxatd+BVgI7ieoacwhiJNTG5/AoUrvE8m/djwgw1da3hXYrP9UbfqisMiHGs/a5LSjEaSxyIc5Cwp/1txjd+YHXVAzNeLBQ1E/ICpf3NbG6zZ6fc9HRudrUHs6PPMn/fPSvePc1CHVtaHYUWin5fdF344TAujU4PLFUo=;03bcnCOwnxuFwsa0xdE4zA=="
 ---

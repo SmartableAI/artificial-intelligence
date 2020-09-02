@@ -2,6 +2,256 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-03-nfl-reveals-new-expected-rush-yards-stat-with-help-from-amazon-web-services.md",
+      "title": "NFL reveals new ‘Expected Rush Yards’ stat, with help from Amazon Web Services",
+      "excerpt": "Football fans wondering whether the next handoff to a running back could be another Beast Quake have another stat to track thanks to Next Gen Stats, the platform powered by Amazon Web Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/",
+      "originalUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/",
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/bigstock-Football-field-114165206-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/amp/",
+      "publishedDateTime": "2020-09-02T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-hypatos-gets-118m-for-a-deep-learning-approach-to-document-processing.md",
+      "title": "Hypatos gets $11.8M for a deep learning approach to document processing",
+      "excerpt": "Process automation startup Hypatos has raised a €10 million (~$11.8M) seed round of funding from investors including Blackfin Tech, Grazia Equity, UVC Partners and Plug & Play Ventures. The Germany- and Poland-based company was spun out of AI for accounting startup,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/",
+      "originalUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/",
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-601035416.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/amp/",
+      "publishedDateTime": "2020-09-02T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-cbp-does-not-make-it-clear-americans-can-opt-out-of-airport-face-scanning-watchdog-says.md",
+      "title": "CBP does not make it clear Americans can opt-out of airport face scanning, watchdog says",
+      "excerpt": "But the Government Accountability Office (GAO) said in a new report out Wednesday that CBP did “not consistently” provide notices that informed Americans that they would be scanned as they depart the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/",
+      "originalUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/",
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1027974140.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/amp/",
+      "publishedDateTime": "2020-09-02T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai.md",
+      "title": "iZotope’s new RX8 repair tool cleans up your noisy audio with AI",
+      "excerpt": "RX8, the latest release from the audio experts at iZotope, today launched with a bevvy of new features and an an updated interface. As you can guess from the sub-heading, I’m most excited about the all-new guitar de-noiser.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/RX8-796x487.jpg",
+          "width": 796,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/amp/",
+      "publishedDateTime": "2020-09-02T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-how-to-make-complicated-machine-learning-developer-problems-easier-to-solve.md",
+      "title": "How to make complicated machine learning developer problems easier to solve",
+      "excerpt": "AI/ML is more complicated than software development, but there are ways to make it more approachable. We sometimes assume the best software companies will yield the best artificial intelligence (AI) but,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
+      "publishedDateTime": "2020-09-02T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-us-nhtsas-autonomous-vehicle-test-tracking-tool-is-light-on-data.md",
       "title": "U.S. NHTSA’s autonomous vehicle test tracking tool is light on data",
       "excerpt": "In June, the U.S. National Highway Traffic Safety Administration (NHTSA) detailed the Automated Vehicle Transparency and Engagement for Safe Testing (AV TEST), a program that purports to provide a robust source of information about autonomous vehicle testing.",
@@ -255,8 +505,8 @@
       "title": "GPU company Imagination Technologies to teach students how to design a CPU",
       "excerpt": "After selling off its MIPS processor business back in 2017, Imagination Technologies has focused on what it does best, namely graphics processing technologies. But CPUs seem to remain on the company’s radar as this week the firm announced its first RISC-V computer architecture course under-graduate teaching as part of its Imagination University Programme (IUP).",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
-      "originalUrl": "https://www.techradar.com/uk/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
+      "webUrl": "https://www.techradar.com/nz/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
+      "originalUrl": "https://www.techradar.com/nz/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
       "featuredContent": null,
       "heat": 87,
       "tags": null,
@@ -271,8 +521,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
       "publishedDateTime": "2020-09-02T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -589,7 +839,7 @@
       "webUrl": "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/",
       "originalUrl": "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/",
       "featuredContent": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": null,
       "type": "article",
@@ -957,236 +1207,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave.md",
-      "title": "AI startup Entropik Tech raises $8 million in funding led by Alpha Wave",
-      "excerpt": "Entropik plans to utilise the funds to expand its presence to the US, European Union and South East Asia, and to deepen its artificial intelligence capabilities",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave-11599033123889.html",
-      "originalUrl": "https://www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave-11599033123889.html",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/09/02/600x338/startup-kElG--621x414@LiveMint_1599035331905.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave/amp-11599033123889.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave/amp-11599033123889.html",
-      "publishedDateTime": "2020-09-02T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-anti-procrastination-glasses-will-use-ai-to-track-your-activities.md",
-      "title": "‘Anti-Procrastination’ Glasses Will Use AI To Track Your Activities",
-      "excerpt": "Speaking of which, new ‘anti-procrastination’ smart glasses have been launched that can keep you from procrastinating by tracking your activities and providing personalized insights. SEE ALSO: This AI Startup Rents Out Robots That Can Do Human Jobs Amid The Coronavirus Pandemic The glasses called the ‘Specs’ have been launched by a startup named Auctify,",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities",
-      "originalUrl": "https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities",
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/ai-glasses-specs_n54f.620.jpg",
-          "width": 620,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities?amp=1",
-      "publishedDateTime": "2020-09-02T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-the-best-facial-recognition-security-cameras-of-2020.md",
-      "title": "The best facial recognition security cameras of 2020",
-      "excerpt": "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your profile of known faces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
-      "featuredContent": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/O4onAnkKGXEMUhxqCMsiV1okXi4=/756x567/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
-      "publishedDateTime": "2020-09-02T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations.md",
-      "title": "Intel CIO Says AI Playing a Growing Role in Chipmaker’s Operations",
-      "excerpt": "Intel Corp. Chief Information Officer Archana Deskus says artificial intelligence has become more critical to the semiconductor maker during the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924",
-      "originalUrl": "https://www.wsj.com/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924",
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-227480/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924",
-      "publishedDateTime": "2020-09-01T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-who-are-the-biggest-attention-hogs-on-cable-news-ask-this-new-ai-tool.md",
-      "title": "Who Are the Biggest Attention Hogs on Cable News? Ask This New AI Tool",
-      "excerpt": "Researchers at the Brown Institute for Media Innovation at Stanford University created a tool that measures 'who is on the news and what they talk about,' and made it publicly searchable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/who-are-the-biggest-attention-hogs-on-cable-news-ask-this-new-ai-tool",
-      "originalUrl": "https://www.pcmag.com/news/who-are-the-biggest-attention-hogs-on-cable-news-ask-this-new-ai-tool",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03Lqt1jGT7PsQBX4nMcb4qK-1.1598991147.fit_lim.size_1200x630.jpg",
-          "width": 1516,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/who-are-the-biggest-attention-hogs-on-cable-news-ask-this-new-ai-tool?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/who-are-the-biggest-attention-hogs-on-cable-news-ask-this-new-ai-tool?amp=true",
-      "publishedDateTime": "2020-09-01T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

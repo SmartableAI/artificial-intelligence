@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk's Neuralink brain-computer: Watch 'working' demo replay"
-    excerpt: "The brain-computer startup showed off a 'working' device, in pigs, on Friday. You can rewatch the presser here."
-    publishedDateTime: 2020-08-29T02:47:00Z
-    webUrl: "https://www.youtube.com/watch?v=sr8hzF3j2fo"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 167
-    images:
-      - url: "https://i.ytimg.com/vi/sr8hzF3j2fo/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Artificial intelligence: Elon Musk puts computer chips in animal brains"
     excerpt: "Elon Musk, the founder of the American company Tesla and SpaceX, demonstrated how to connect a computer chip made by his new company ‘Neuralink’ to the animal brain. Elon Musk’s company, Neuralink, has developed a chip in just four years,"
     publishedDateTime: 2020-08-31T09:35:00Z
@@ -97,6 +83,20 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/mzyq7uxsmmffta3q_1598692813.jpeg?tr=f-jpeg"
         width: 1242
         height: 710
+        isCached: true
+  - title: "Elon Musk’s latest startup wants to implant computer chips inside the human brain"
+    excerpt: "Elon Musk isn’t content with electric cars, shooting people into orbit, populating Mars and building underground tunnels to solve traffic problems. He also wants to get inside your brain."
+    publishedDateTime: 2020-08-29T20:13:00Z
+    webUrl: "https://www.staradvertiser.com/2020/08/29/breaking-news/elon-musks-latest-startup-wants-to-implant-computer-chips-inside-the-human-brain/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 34
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2020/08/web1_10372849-9e392b49320d4cbbbd0f72035a3bde43.jpg"
+        width: 760
+        height: 507
         isCached: true
 
 secured: "bcp9K0JxVHm7qx8DJbTRfCSERryx/c8hVGNhHMt5jMAh+JY4U2Ukh1PNLk4Hsr/8VtCyZDdYZUnHjcYnoiJ5Tw2ABfnDnXA99u4hTzqlot4NpGwuiipupeBlDQQyo2vDdRSoU8swxqGicA7QNXyd5rD1C1TnxJkrY7Mip05PG27WWprkNI7oRCLATxpUJFXnArPV/naU46/SrQBMp7bYPpAsKxOOci66LAPYSW+lceQfwV829e2wbWFe7m4p7Vna5QfITA1IANRpoKKh9bnU2u41E66rmeHtxIC7StyynCnMD4Zt8ItU0fp0RAkCtxeEFtEWotso5f5e8EMMon8z1JOLMblxLEAmYs/A484aVJE=;u7HXhAPegcbKOVslA8DpoQ=="

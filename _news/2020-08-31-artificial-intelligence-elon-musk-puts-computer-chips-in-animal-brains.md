@@ -9,8 +9,8 @@ ampWebUrl: "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-p
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 122
+published: true
 
 provider:
   name: Daily Times
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk's Neuralink brain-computer: Watch 'working' demo replay"
-    excerpt: "The brain-computer startup showed off a 'working' device, in pigs, on Friday. You can rewatch the presser here."
-    publishedDateTime: 2020-08-29T02:47:00Z
-    webUrl: "https://www.youtube.com/watch?v=sr8hzF3j2fo"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 167
-    images:
-      - url: "https://i.ytimg.com/vi/sr8hzF3j2fo/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Elon Musk's Neuralink startup shows off pig with computer chip in brain"
     excerpt: "Elon Musk's startup wants to one day implant computer chips inside the human brain. In a demo Friday, Musk showed off a pig with one of the prototype implants."
     publishedDateTime: 2020-08-29T06:46:00Z
@@ -96,6 +82,20 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/mzyq7uxsmmffta3q_1598692813.jpeg?tr=f-jpeg"
         width: 1242
         height: 710
+        isCached: true
+  - title: "Elon Musk’s latest startup wants to implant computer chips inside the human brain"
+    excerpt: "Elon Musk isn’t content with electric cars, shooting people into orbit, populating Mars and building underground tunnels to solve traffic problems. He also wants to get inside your brain."
+    publishedDateTime: 2020-08-29T20:13:00Z
+    webUrl: "https://www.staradvertiser.com/2020/08/29/breaking-news/elon-musks-latest-startup-wants-to-implant-computer-chips-inside-the-human-brain/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 34
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2020/08/web1_10372849-9e392b49320d4cbbbd0f72035a3bde43.jpg"
+        width: 760
+        height: 507
         isCached: true
 
 secured: "oA7n2PWpZIsttyeF0DR65rbHM/Tv4BPx/0fyAO86Dhv/KlgcTOZSLHdkHhxUC8/aa2npFX8TruV22gQUYrqbDmWk4j7MN+k02QMADeeOBk79Ev/3sP5TcBD9OhLa55KcDDx6EBI9vDY7Fg9KFabVCUW544KKcY5q1xE0SLcJwJycnERUO3fBXU3wSIEVJ/mlH0+EI5MAJxkS8cim48c/KRmktfumVwEtje5a1/l4TqOQ0zrS58BFergOuvXpqQW9HOASLrwUPbcrQQAcTwb1PaQ4MfyhLk+FtHHXJ7LrRevu68jRc26OswelpI9NXmfA33vmQalEGCEWj7RJkFtYnygJO6wh/IDAqexW2pU1mE5F/NZDXkM9O39bXZzzT3GuWsyrhtfj5yEW0110lZOwty3bmQPvqPbMh9NLc8Rma4uMTGbIC326LqAXBZUeDcl5kwkWR7z34w5xVxN5KIM1vJ7gpJ80Jxnc2qVOvPD5/lTy289MvE8WqsnGyWNYblHTuTU7ZyvPqpm7j8LAUySq82uOcXwuoE+OdXKF/UFLZUc=;TvAQZwD582yCK3JhvTQIow=="

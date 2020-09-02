@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/08/dominik-dancs-3Eqc3Ph4oRg-unsplash.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/amp/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "dunnhumby Launches Model Lab on Azure"
+    excerpt: "It automates data scientists' repetitive, time-consuming tasks, using machine learning technology to reduce run time and allow data scientists to explore algorithms. In addition, according to the firm, the Azure-based service gives users the benefit of ..."
+    publishedDateTime: 2020-09-02T19:43:00Z
+    webUrl: "https://www.mrweb.com/drno/news30226.htm"
+    type: article
+    provider:
+      name: MrWeb
+      domain: mrweb.com
+    quality: 19
 
 secured: "wur5NHRR+vwrnYrhVT+elL9uHLgYB/9fIXSplXdM5PYKlWTk/s7RIN1LIa0B4Ch8eK5N2qSCChB5E/lO5SLoptclBgtokZLhyzew7n1/Z8vVkDe0FrKkEQbSJFq8bctVhsb8D5+5npbg7OiAg06fksG28M6PeY1vdTRvYofeohfedi349LdkyEraCfTBGYzKAFMst7bys4lrEN8GhKB3UPWUUCxaatxqu8au2u3aiqnPkyMHPgxbXHiC6rpLZpwhMyOdabHGZKiFKatX0RX6Op5x0PukrmIbapuTICn2duzUsHOQernkLdOJF7F4j/Ih2fFzh7DdDI/hnRF6mY1oJG7AZ06PoSodLNNrMYQW2Ys=;uKBIGD2fFRO+zXiwUzjeHw=="
 ---
