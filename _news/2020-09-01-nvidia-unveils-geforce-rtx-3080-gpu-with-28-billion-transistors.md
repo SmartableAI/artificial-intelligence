@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-g
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA unveils the $699 GeForce RTX 3080, its first 'Ampere' GPU"
+    excerpt: "And it also showed off the $499 RTX 3070. NVIDIA’s latest 30 Series GPUs are officially here, after weeks of seemingly endless leaks. The company unveiled the RTX 3080 and RTX 3070 today, the first consumer offerings based on its new “Ampere” architecture."
+    publishedDateTime: 2020-09-01T16:37:00Z
+    webUrl: "https://www.engadget.com/nvidia-rtx-3080-gpu-ampere-163044861.html"
+    ampWebUrl: "https://www.engadget.com/amp/nvidia-rtx-3080-gpu-ampere-163044861.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidia-rtx-3080-gpu-ampere-163044861.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F2fc9d470-ec70-11ea-9fee-a0c1b0bd255d&client=amp-blogside-v2&signature=027fdd6d85e05239be8f5ea7c78814a3cfcf31b9"
+        width: 600
+        height: 350
+        isCached: true
   - title: "GeForce RTX 3080 is Nvidia’s New Flagship Next-Gen GPU"
     excerpt: "The RTX 3080 is said to be up to twice as fast as the original RTX 2080. Built on a custom 8N manufacturing process, it has 28 billion transistors, 8704 CUDA Cores, and a 10 GB GDDR6X VRAM. It was also confirmed that the images showing the curved heatsink and bi-directional fans of the GPU that were leaked earlier in the year are indeed accurate."
     publishedDateTime: 2020-09-01T19:09:00Z

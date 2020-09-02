@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "Worldwide IoT Chip in Healthcare Industry to 2025 - by Connectivity and Geography - ResearchAndMarkets.com"
-    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
+    excerpt: "The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
     publishedDateTime: 2020-09-02T13:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200902005651/en/"
+    webUrl: "https://www.register-herald.com/region/worldwide-iot-chip-in-healthcare-industry-to-2025---by-connectivity-and-geography-/article_096ee903-8da2-5b0a-aa7c-f11d7179f328.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: The Register-Herald
+      domain: register-herald.com
     quality: 21
     images:
-      - url: "https://mms.businesswire.com/media/20200902005651/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
   - title: "Opportunity Outlook: European AI in Social Media Market 2020-2025 - Natural Language Processing (NLP) Expected to Dominate - ResearchAndMarkets.com"
     excerpt: "The European AI In Social Media Market is expected to grow at a formidable rate during the forecast period. The European AI In Social Media Market is driven by the utilization of the AI technology for effective advertising campaigns on different social media platforms."

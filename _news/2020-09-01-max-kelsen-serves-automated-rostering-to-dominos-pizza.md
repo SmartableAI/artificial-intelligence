@@ -24,6 +24,22 @@ images:
     height: 533
     isCached: true
 
+related:
+  - title: "Domino’s, Max Kelsen partner to develop ‘cognitive rostering’ management solution"
+    excerpt: "Pizza chain Domino’s Pizza has partnered with machine learning solutions vendor Max Kelsen to develop a ‘cognitive rostering’ solution that it says significantly improves the way it rosters its 20,000 team members across 800-plus stores in Australia and New Zealand."
+    publishedDateTime: 2020-09-02T14:00:00Z
+    webUrl: "https://www.itwire.com/deals/domino’s,-max-kelsen-partner-to-develop-‘cognitive-rostering’-management-solution.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 19
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/0a2c2a3a592cd808ffc0b2b745a135c6_M.jpg"
+        width: 375
+        height: 281
+        isCached: true
+
 secured: "eLeryrpl7RHnzx1YC0vKO4jiNOFCf8tIoYH/QFs8Dc8FvTNVpAWlgEoCQvkBgwOwNlkbPGgwElmaKxSbKcFo0df8eDYXgR+iEbcPD8ANI12puEjybRQav4WbZ9OZj0LzKbwbqoRgWPLDYrLk+pwFVA/7k53lOTUdVCBDTBb87fV5zeNsw2/vpIHjb74ZN+K5epS+gvHopQozTjfsRXfaCqXIewHIOM+6f4Je6+S2T7JwxCZ4J5whIpz3Lxi1agknxImztou/fNMRzqPEBbZgHYgZ9npFYFnCk5gvhATTNBHom7bQrknnQqp7/EykjmL7yZpBCJWjqJkB/UT5lMulQVX1txSzbdqFv3Rx4tE/cr7lMSggmrg6QcGU+iDCeoMwd6025YLHccSn6mKVQlDeWKdRA8LgBSh5y4pkLet3dhcbGxhPnvaGpM5vZ3mIT7ZE7nmiQ26JderKK0K1HCgosLK6l2j1ThTHJoeSiwWDLnNt1cCBEd9NthJAM29LZnCj+nAumqiEL6C+yG+N67nN0xYxjcuwHHy1Yc6TrLV3abA=;GCN8fq/zcqqg+u7LbaY+ew=="
 ---
 

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Take a closer look at Elon Musk’s Neuralink surgical robot"
-    excerpt: "While the science was front-and-center in Elon Musk’s presentation about Neuralink, his human brain computer inference company, the surgical robot the company debuted made a splash of its own. The rounded polycarbonate sci-fi design of the brain surgeon bot looks like something out of the"
-    publishedDateTime: 2020-08-28T23:08:00Z
-    webUrl: "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/"
-    ampWebUrl: "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/early-digital-sketches-of-the-robot.jpg?w=600"
-        width: 600
-        height: 464
-        isCached: true
   - title: "Elon Musk unveils updated Neuralink brain implant design and surgical robot"
     excerpt: "Elon Musk's neuroscience startup Neuralink has revealed the \"dramatically simplified\" design for an implant that aims to create brain-to-machine interfaces, alongside the robot that will insert it and several pigs that have the device installed."
     publishedDateTime: 2020-09-02T11:39:00Z

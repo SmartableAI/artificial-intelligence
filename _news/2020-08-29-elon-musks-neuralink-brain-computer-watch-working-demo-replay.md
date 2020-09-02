@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/how-to/elon-musks-neuralink-brain-computer-ho
 webUrl: "https://www.youtube.com/watch?v=sr8hzF3j2fo"
 type: article
 quality: 167
-heat: 227
+heat: 217
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://media.khou.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
         width: 750
         height: 422
-        isCached: true
-  - title: "Elon Musk unveils working Neuralink chip that connects brain directly to computer"
-    excerpt: "Elon Musk has demonstrated a working brain-computer interface that he hopes will allow \"human-AI symbiosis\". During a live event held by his neurotechnology startup Neuralink, Mr Musk showed off a chip that had been implanted directly into a pig's brain."
-    publishedDateTime: 2020-08-28T23:43:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-neuralink-brain-computer-chip-a9695036.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 49
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/29/00/neuralink-device-implant.jpg"
-        width: 628
-        height: 469
         isCached: true
   - title: "Musk unveils Neuralink brain computer implanted in pigs"
     excerpt: "Just when you thought the year 2020 couldn’t get much weirder, billionaire Elon Musk has introduced a group of pigs with mind-reading brain implants."

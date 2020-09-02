@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -134,6 +134,17 @@ related:
         width: 1084
         height: 739
         isCached: true
+  - title: "City Councilman Hosting Discussion On Facial Recognition Technology And Policing"
+    excerpt: "Pittsburgh City Councilman Corey O'Conner says police using facial recognition technology would do more harm than good; KDKA's Lindsay Ward reports."
+    publishedDateTime: 2020-09-02T17:08:00Z
+    webUrl: "https://pittsburgh.cbslocal.com/video/4689627-city-councilman-hosting-discussion-on-facial-recognition-technology-and-policing/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4689627-city-councilman-hosting-discussion-on-facial-recognition-technology-and-policing/amp/"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4689627-city-councilman-hosting-discussion-on-facial-recognition-technology-and-policing/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 34
   - title: "Reporter Update: City Councilman Looking To Restrict Facial Recognition Technology"
     excerpt: "KDKA's Lindsay Ward has more on why Pittsburgh City Council is looking at police use of facial recognition technology."
     publishedDateTime: 2020-09-02T15:50:00Z

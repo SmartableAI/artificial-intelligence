@@ -3,6 +3,7 @@ category: news
 title: "Facebook and NYU Langone's jointly developed machine learning solution can accelerate MRIs"
 excerpt: "Facebook AI Research and NYU Langone released results of a blind test revealing the effectiveness of their AI system to accelerate MRI scans."
 publishedDateTime: 2020-08-19T13:30:00Z
+originalUrl: "https://www.businessinsider.com/facebook-nyu-develop-ai-to-accelerate-mri-scans-2020-8"
 webUrl: "https://www.businessinsider.com/facebook-nyu-develop-ai-to-accelerate-mri-scans-2020-8"
 type: article
 quality: 61

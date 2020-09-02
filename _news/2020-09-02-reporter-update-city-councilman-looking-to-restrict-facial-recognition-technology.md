@@ -140,6 +140,17 @@ related:
         width: 1084
         height: 739
         isCached: true
+  - title: "City Councilman Hosting Discussion On Facial Recognition Technology And Policing"
+    excerpt: "Pittsburgh City Councilman Corey O'Conner says police using facial recognition technology would do more harm than good; KDKA's Lindsay Ward reports."
+    publishedDateTime: 2020-09-02T17:08:00Z
+    webUrl: "https://pittsburgh.cbslocal.com/video/4689627-city-councilman-hosting-discussion-on-facial-recognition-technology-and-policing/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4689627-city-councilman-hosting-discussion-on-facial-recognition-technology-and-policing/amp/"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4689627-city-councilman-hosting-discussion-on-facial-recognition-technology-and-policing/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 34
 
 secured: "P7Q4KyuJ0XlKrQSryNdXvQJJebeLQ94TtmQWCtGo63mHlN1CTpFXIBmCQMKBNNtvIdjQsGOyVS1FOEXzhDOF9Vrqt6fqR2/n2mHH0CGawpvB8WZ8aJpd7zE7BDcb+2XDHuN62AP/5MMwM9hiMZzNt2p/yOkE8zeTbD9h/jXLV1MFTvIe3vKgAAAJd8hXeEh95ZdHgWIz5HeaKJOaT1ZrOoG0H0gllBdFMRmYMX14SV8demsNYuM3uvMYDBmpix2pcYjx23XFB8CcLfetyzrmfNj3KJZ8FGVQAVRV4w5a+ZiP//TujzZ4ZgC2k7ymqDmEkqC0bO0DZr9zl0zUKyqr8XanR3H15mjstOMW9XeZfWAOavevh/II5YSyiylsfAMJHK4expVxzI2nFSaxL897gh+bhN/G+uUD53c3J5JJgf4xbivJBKZkC7sAVSFmeZfcBlCTYpMpfZEEQhpKLBnyIHBsALZggQw3Pu38dMX6Z4NcqaxhdzL4T6huOGwFLxJUHPr8FisM1nP1KJn8OiMpMeadIVB/w8Wg9BzRyZnhh7Q=;S/1L4bIhLFmG0G4oaFb1Fw=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Dahua Technology’s AI Gait Recognition Technology hits historical heights on CASIA-B gait dataset"
 excerpt: "Dahua Technology, a globally renowned video-centric smart IoT solution and service provider, made new breakthroughs in the field of AI technology recently. Various indicators of its Gait"
 publishedDateTime: 2020-09-02T07:19:00Z
-originalUrl: "https://www.sourcesecurity.com/companies/dahua-technology-ltd/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
-webUrl: "https://www.sourcesecurity.com/companies/dahua-technology-ltd/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
+originalUrl: "https://www.sourcesecurity.com/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
+webUrl: "https://www.sourcesecurity.com/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
 type: article
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology is biased with higher error rates against people of colour"
-    excerpt: "Even though Williams had nothing to do with the incident, facial recognition technology used by Michigan State Police “matched” his face with a grainy image obtained from an in-store surveillance video showing another African American man taking $3,"
-    publishedDateTime: 2020-08-29T00:41:00Z
-    webUrl: "https://scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour"
-    ampWebUrl: "https://amp.scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 65
-    images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/124346-kfgetldkjs-1598371183.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Atlanta airport plans to test facial recognition, touchless technology"
     excerpt: "Jackson Atlanta International Airport plans to test facial recognition at check-in counters in the domestic terminal, part of a broader push to introduce more touchless technology in response to the coronavirus."
     publishedDateTime: 2020-09-01T01:12:00Z
@@ -77,6 +61,6 @@ related:
       domain: washingtonexaminer.com
     quality: 26
 
-secured: "x0Bspj3pcTkEae+h8MrC34lGJ+naHUiEp47Gb4cMCIjSOUm4HTkqczcTvqTbFDpUNu6nN/uJ4HwsfYvs4NGoEhg75o1zzeZcqA/YQkN24frEH1DL8XKS78VLgMj02krJFp4dkBOHwR8JLHjFfz0Czkea0DkL0IdU6RGEXcj4wys/SaJQHHdUM3Ind3dI30fpWWY4bqrUS+Z7YlFV8cAPsOiSaz13TqF3tTz+ck0D0za3ATup2Qcnja0Y1nQTW1rxVCnpS3PXwGnhpwcjBrcjURAExpwSlswDx051ws40/fMc6EAFIeaffWQTiOQMhAcGCM6ueL7KP1K9u0+L8EjADkylXh2QwjiVM8ar4XUqZRU=;kVCC2MYhSEd0rooJyDvw5A=="
+secured: "hUkGczLOJ4JOYPL57WGPlBL4DzWGCX5PYBnJvFPwMDZj4RUj3VvAL/eGjHuJzCuSxgqXl9rRwHmesjPTSJvi6Kox9lAQaX4DjPT5qIUCRdfXK7rbE1yULkn93mardnlV9etezvJS6jYofh1z5eAv6KGWBYhFPm80gWT5JRhsksrUVPlP3B9UGLoJO9khnqQC/zyfLAZuOPDPjyaXCvh136UWX0q6UMRSVAsuGvm0Tp+poNPgfZEw7o2lq1tK3/r3TB5Rr/H5drx3qBNhg41i9S1J5Jp8IyLLiTXhnPZV+7kXFV2Hca3PzBoLrYFNqgPIio5bmLPyNenxsqby6THAxUVO4ILodU+k2NsvqvKBNT0=;VnObvAENxY2KSExaD5FR2w=="
 ---
 
