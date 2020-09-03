@@ -25,33 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use machine learning to tackle food poisoning"
-    excerpt: "Scientists at a university in Scotland have developed a technique which could help to identify the source of food poisoning in a better way than current"
-    publishedDateTime: 2020-08-30T04:00:00Z
-    webUrl: "https://www.foodsafetynews.com/2020/08/researchers-use-machine-learning-to-tackle-food-poisoning/"
+  - title: "Machine learning approach can indicate health risks in future pregnancies"
+    excerpt: "After a baby is born, doctors sometimes examine the placenta--the organ that links the mother to the baby--for features that indicate health risks in any future pregnancies."
+    publishedDateTime: 2020-09-03T04:26:00Z
+    webUrl: "https://www.news-medical.net/news/20200903/Machine-learning-approach-can-indicate-health-risks-in-future-pregnancies.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200903/Machine-learning-approach-can-indicate-health-risks-in-future-pregnancies.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200903/Machine-learning-approach-can-indicate-health-risks-in-future-pregnancies.aspx"
     type: article
     provider:
-      name: Food Safety News
-      domain: foodsafetynews.com
-    quality: 39
+      name: News Medical
+      domain: news-medical.net
+    quality: 58
     images:
-      - url: "https://www.foodsafetynews.com/files/2019/04/dreamstime_campylobacter-pathogen.jpg"
-        width: 882
-        height: 543
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
-  - title: "Researchers set sights on theory of deep learning"
-    excerpt: "Rice's Richard Baraniuk and Moshe Vardi are part of a multiuniversity team of engineers, computer scientists, mathematicians and statisticians tapped by the Office of Naval Research to develop a principled theory of deep learning."
-    publishedDateTime: 2020-08-31T17:50:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/ru-rss083120.php"
+  - title: "Predictive placentas: Using artificial intelligence to protect mothers' future pregnancies"
+    excerpt: "After a baby is born, doctors sometimes examine the placenta—the organ that links the mother to the baby—for features that indicate health risks in any future pregnancies. Unfortunately, this is a time-consuming process that must be performed by a specialist,"
+    publishedDateTime: 2020-09-02T16:55:00Z
+    webUrl: "https://medicalxpress.com/news/2020-09-placentas-artificial-intelligence-mothers-future.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-09-placentas-artificial-intelligence-mothers-future.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-placentas-artificial-intelligence-mothers-future.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 49
     images:
-      - url: "https://eurekalert.org/multimedia/pub/web/241709_web.jpg"
-        width: 1440
-        height: 960
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/predictivepl.jpg"
+        width: 1345
+        height: 508
         isCached: true
 
 secured: "BOXwHIiNPPP7fZbPt2C8YauB+bhkPWcIoNgEXki8QbV5ugBaf/Uw4xS+vgrVwr9O0Za2jXr0WHZ8wvw3/jXi0gSwT0QZlaFIpbuKenNNwKch8tyj0WlzjuBVizZIMchqmB3dcExgN5kaFZIsT+rFfzHUtFW3QKvJM29rXnIhl68yxjAVCBVSiHqq0RA0AwG2TERcQ3U38RREWW0FeuV2lKoA19Fa8FWqap8ZEZZaZRP78xj5z8lrAZtUVaOCwjZ5dhGsbU/xbxh6hYn3Kc+uY2qOQAcSJ+Dl9jNlTdjqIkjKThb9mZfl48DJV7q6UEZgzH9TIho3Wdi16sjtkl/aWucs7S9u28wiZOwJaKghzV0=;HIxVc/bBD7PtkYTtwLkQoA=="

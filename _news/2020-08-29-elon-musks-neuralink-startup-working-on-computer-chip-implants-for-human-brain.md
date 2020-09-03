@@ -43,20 +43,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Elon Musk's Startup Neuralink Demonstrates Computer Implants In A Pig's Brain"
-    excerpt: "Elon Musk recently held a video presentation that showed a pig with the Neuralink computer implants. Continue reading to learn details and watch the video."
-    publishedDateTime: 2020-08-29T11:50:00Z
-    webUrl: "https://www.republicworld.com/technology-news/science/elon-musks-neuralink-demonstrates-computer-implants-in-pigs-brain.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 36
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/mzyq7uxsmmffta3q_1598692813.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 710
-        isCached: true
   - title: "Elon Musk’s latest startup wants to implant computer chips inside the human brain"
     excerpt: "Elon Musk isn’t content with electric cars, shooting people into orbit, populating Mars and building underground tunnels to solve traffic problems. He also wants to get inside your brain."
     publishedDateTime: 2020-08-29T20:13:00Z

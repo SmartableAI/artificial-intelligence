@@ -37,20 +37,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "IBM Creates New Fan Experiences using AI and Hybrid Cloud for First-Ever Spectator-less US Open"
-    excerpt: "FLUSHING, N.Y., Aug. 28, 2020 /PRNewswire/ -- IBM, the digital partner of the United States Tennis Association (USTA) for 29 years, announced today innovative new fan experiences leveraging ..."
-    publishedDateTime: 2020-08-29T11:12:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open-301120402.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: "https://www.multivu.com/players/English/8668652-ibm-creates-new-ai-fan-experiences-for-us-open/video/Video2_1598535242394-HR.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "IBM Bringing Digital Interactive Experience to Tennis Fans During US Open"
     excerpt: "While fans are unable to attend the US Open in person due to COVID-19, IBM is helping enhance the fan experience from home. As the digital partner of the United States Tennis Association, the tech giant has created innovative fan experience leveraging artificial intelligence and hybrid cloud technology enabling fans around the world to experience the excitement and vibrant debate surrounding the Grand Slam."
     publishedDateTime: 2020-09-01T22:58:00Z

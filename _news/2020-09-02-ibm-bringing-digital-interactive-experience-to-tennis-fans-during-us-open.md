@@ -52,20 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "IBM Creates New Fan Experiences using AI and Hybrid Cloud for First-Ever Spectator-less US Open"
-    excerpt: "FLUSHING, N.Y., Aug. 28, 2020 /PRNewswire/ -- IBM, the digital partner of the United States Tennis Association (USTA) for 29 years, announced today innovative new fan experiences leveraging ..."
-    publishedDateTime: 2020-08-29T11:12:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open-301120402.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: "https://www.multivu.com/players/English/8668652-ibm-creates-new-ai-fan-experiences-for-us-open/video/Video2_1598535242394-HR.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "M47Gs3ePNC/UyUJEoqYmE/4EuTtyMW+6cs8kpAhBRWxyMlM3EIvi2A4RRQATzj9RZyAZSBoFZX7mGhuoVFHrz9e6l3oYcnwvCmObQ6Fm/wKb2AAioY9datn04L32hOb+brapNrXYVvRJq7P+jvtdbp03lR5Pbf14toHt/i1UAC+w5Ej+udh9ntNlLWQwGALuW8KgE0UZppfG+tfMX5EOmlLQroAKB9bG81HJnv6fMG9H18FmwMRww31yLkz0p2ik36ayt00rY+/PSMtSNr6YEDXoLrRHdg5AwzP3w1MLrQef/eYFvjT3Ul+UWdLXnRBM2WZEzX36kO+nx/NpIvsN0nxFJDryCMbV9YpSlO/VXbk=;So6jR3oMFs+LN3lW4eXycw=="
 ---

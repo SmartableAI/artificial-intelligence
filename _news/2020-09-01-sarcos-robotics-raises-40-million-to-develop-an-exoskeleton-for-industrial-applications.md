@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/01/sarcos-robotics-raises-40-million
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/sarcos-robotics-raises-40-million-to-develop-an-exoskeleton-for-industrial-applications/amp/"
 type: article
 quality: 110
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biofourmis raises $100 million for AI remote medical tools"
+    excerpt: "Biofourmis, a company developing platforms for AI remote patient monitoring and triage, has raised $100 million in venture capital."
+    publishedDateTime: 2020-09-03T04:26:00Z
+    webUrl: "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/"
+    ampWebUrl: "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/05/e72b0f95-315b-4e77-9a52-734c389a47cd-e1598639733609.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 561
+        isCached: true
   - title: "Sarcos Robotics Raises $40 Million in Series C Funding"
     excerpt: "Today, Sarcos Robotics, a global leader in the production of robots that augment humans to enhance productivity and safety, announced that it has raised $40 million in an oversubscribed Series C financing round."
     publishedDateTime: 2020-09-02T01:30:00Z

@@ -31,19 +31,14 @@ images:
 
 related:
   - title: "Defense Innovation Unit Selects Google Cloud to Help U.S. Military Health System With Predictive Cancer Diagnoses"
-    excerpt: "MOUNTAIN VIEW, Calif. and WASHINGTON, Sept. 2, 2020 /PRNewswire/ -- Google Cloud today announced that the Defense Innovation Unit (DIU) has chosen Google Cloud to prototype an AI-enabled digital patho"
-    publishedDateTime: 2020-09-02T14:41:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/defense-innovation-unit-selects-google-cloud-to-help-u-s-military-health-system-with-predictive/article_67c45e0a-a2d0-5434-8b6f-d4b6d8c353d9.html"
+    excerpt: "Google Cloud today announced that the Defense Innovation Unit (DIU) has chosen Google Cloud to prototype an AI-enabled digital pathology solution at select DoD facilities. The project includes the delivery of augmented reality microscopes to DoD's medical facilities and access to artificial intelligence (AI) models that can help military doctors with cancer detection tasks on multiple disease areas."
+    publishedDateTime: 2020-09-02T13:05:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20200902sf13214/defense-innovation-unit-selects-google-cloud-to-help-us-military-health-system-with-predictive-cancer-diagnoses"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 3
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "PRm7wYkLsjXmpvMgmyVWsJ3xO3AY6LTe09rxOoKonX1DeQFQMr8Twjgbug1f7CN01Ppm9ioLPyK4cvVC9X5dj2gyxXJgFukwknDA9j2KDSIgrx3nIUgJOV9qrb7skzwqabtWLeIz3klT/1J7QksWdLkBl3DlFAS+wb3Hkup/bEQmj+z8WrbgN1A4zOi/VGD9nKdrIqsKd4GI/6dqHuLLtEemamtg6y1S7QAfBaTv0nxmC58VXlMKAjH2J30c5KC4KwDgaggpng6Npy6+NKm2Oac+WUJClEWwH4R+f+X2DF+od0xcixBz+uCo25e75cfGFgI6OnU7oYynLMdha3HBNtYkU/S+EXGHdV6DF1LIC0Us2vadwnwJkAyVHGWU8k90HRl709Wrnd6k76W2l3c2vFReJRRr0cWxguXf+11FqAD2yZlllW5S2c9Z/9Gt75NkdqbsZgUuVShryCrBsUhGI9TCtHISmY9Dz258nvHjal/EbkU8X9W6CIqJgMnp2Xso3eXZFFQhA3s31aimt2t6O//3J7O6oA/2WvPQE3rLunI=;Z2acshzL/2ACRJjAOiCGLA=="
 ---

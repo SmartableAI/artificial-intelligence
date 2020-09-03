@@ -9,7 +9,7 @@ ampWebUrl: "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-p
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://media.khou.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
         width: 750
         height: 422
-        isCached: true
-  - title: "Elon Musk's Startup Neuralink Demonstrates Computer Implants In A Pig's Brain"
-    excerpt: "Elon Musk recently held a video presentation that showed a pig with the Neuralink computer implants. Continue reading to learn details and watch the video."
-    publishedDateTime: 2020-08-29T11:50:00Z
-    webUrl: "https://www.republicworld.com/technology-news/science/elon-musks-neuralink-demonstrates-computer-implants-in-pigs-brain.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 36
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/mzyq7uxsmmffta3q_1598692813.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 710
         isCached: true
   - title: "Elon Musk’s latest startup wants to implant computer chips inside the human brain"
     excerpt: "Elon Musk isn’t content with electric cars, shooting people into orbit, populating Mars and building underground tunnels to solve traffic problems. He also wants to get inside your brain."

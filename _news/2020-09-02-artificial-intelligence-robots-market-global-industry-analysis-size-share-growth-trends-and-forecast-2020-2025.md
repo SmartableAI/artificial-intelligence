@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Outlook, Size, Share and Growth and Forecast Assumptions Through 2026 | Impact of COVID-19 Pandemic"
+    excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
+    publishedDateTime: 2020-09-03T04:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-outlook-size-share-and-growth-and-forecast-assumptions-through-2026-impact-of-covid-19-pandemic-2020-09-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Speech & Voice Recognition Market 2020 Share, Size, Global Trend, Market Analysis and Forecast to 2026"
     excerpt: "WiseGuyRerports.com Presents \"Global Speech & Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2025\" New Document to its Studies Database. Mark"
     publishedDateTime: 2020-08-31T20:10:00Z

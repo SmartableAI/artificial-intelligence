@@ -3,11 +3,9 @@ category: news
 title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
 excerpt: "UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020 /PRNewswire via COMTEX/ -- UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020"
 publishedDateTime: 2020-08-22T01:48:00Z
-webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21?mod=mw_quote_news&tesla=y"
+originalUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21"
+webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21"
 type: article
-quality: 70
-heat: 70
-published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "2dgXWX+f3oSFKjmRlHSu5HKMJwI2bmPphElG5hkjUgk0Fn7LWih2SiO9i56sR6cHZeHw4SoD+cdvPCwDFsv28oYRW3XMplw0pPqxPn/W/pn46DabpNCS0yeIv8Q6OlZUqKYr2M85NFYEYR9EhWaPhVxuKd0zWus+bdN9N6PauHRn2UVptXa+hoTdrzMOYy2+6uAbT3udK6j5+1y4oN3mJXxwEjW316WSZzhrpkZ0IyxJPUxemM+T3oa+eXpOfhLc5Ns6KV4+3EIZS70b7PDquUWsppDOnFqSQC9Cw0YhHTGg+45/qAEOfCxVhlKwgRmVIxfcFzsMK8jW6EI8SVoaWA==;NKwGZUrPFsKTIhXzNcdlDA=="
+secured: "xGlkJSld7F6dENUCIBKhz7dLZT4NnOBMQ0VsEqrupt4eojbkKg/RBwRckl6TXO72KN8uKFYhwHxT72q60OUt9sYDmFvBZkuzD5JLplcU9DAnfbTmJD1SCor9kx5DO4zVXT0X24mOmvyZ8y5TM7P8m1NPHV9jHDaAoOBwptmcmZr32Z3UJKgnxaS9vDV3Ag31zvd6QI3fUZOFvUv8wIFJEVYM/fHqOZ9eTEU2VSFFRz6TN9UTBeFNc/P+DvUYlwE+05C/ginDxT/8gx4ZoOfy1aAKp1RtyRQUB5J9uQgHBMUs/lVavXSjDHoQkWMItD504cFN7lRWiR4zEPWeUVLT+ryySPhAu0jog1TkaYX/oXQ=;uMl+9cR6ZfJS924nqKqnqQ=="
 ---
 

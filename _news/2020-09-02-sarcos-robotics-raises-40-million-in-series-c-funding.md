@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biofourmis raises $100 million for AI remote medical tools"
+    excerpt: "Biofourmis, a company developing platforms for AI remote patient monitoring and triage, has raised $100 million in venture capital."
+    publishedDateTime: 2020-09-03T04:26:00Z
+    webUrl: "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/"
+    ampWebUrl: "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/05/e72b0f95-315b-4e77-9a52-734c389a47cd-e1598639733609.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 561
+        isCached: true
 
 secured: "/cQowJ6GsxUXOgH99r2GWkYlM4APFqH8j+OD6kS6xTSsga7Lt0Xgsn6li2HfxK2PLpdhDScepDzsD6HCaVdGkP6klZRlCinj03khBeI/DCZop3tnqUUNuM6pBVaCUBRZQzQFMxcrnFVO4aARLickPAv9Lk5s8mnzRUp7feiVsBCSk5pNehyo/xMsU37D4CsADFvb+K8GVNnfzNgAhsBPyoNI995zVlNNLqwQgCZ4kLWCYTy72Vp7YeB/uN8Wdp/diwa8sRCLprDoq8gEbYMyivUqYPUcLC29rDmn3iZvpBrdLUEPCsbDvXuzIGQMSRxWBe9N2z2t+4f4c8OZ+uVXI+pmLEg800RqAeXmK1ZhvXE=;SIP9CAlPsp/coPya0sUnjw=="
 ---

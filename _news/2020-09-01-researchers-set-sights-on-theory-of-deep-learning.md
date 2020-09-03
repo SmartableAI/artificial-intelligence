@@ -39,20 +39,6 @@ related:
         width: 882
         height: 543
         isCached: true
-  - title: "A Machine-Learning Assist to Predicting Hurricane Intensity"
-    excerpt: "NASA research could help to improve forecasts of whether a hurricane will suddenly intensify, which could give people in its path more time to prepare."
-    publishedDateTime: 2020-09-02T16:51:00Z
-    webUrl: "https://www.jpl.nasa.gov/news/news.php?feature=7738"
-    type: article
-    provider:
-      name: NASA
-      domain: nasa.gov
-    quality: 24
-    images:
-      - url: "https://www.jpl.nasa.gov/images/earth/20200902/Hurricane-Laura_Aug-27_NOAA-16.gif"
-        width: 1142
-        height: 643
-        isCached: true
 
 secured: "J/nzLYqLGHkbfqmtW3EqvKp4tQOwRGQjrTwS8kWOm9oVkkh0odGRFPPEyv7i/gGd7yEww0TYZW8eLYcwXY2r75DZ69X7CYRcgMTc3RFxW7a3IpuUg6+Dw7oCaEWE4qEFE9gLiUGoyhD52btx2EofQjMiejmbwxlox9b94cNH8xjSIR2hSkIUBAJtWqNi83nUDrntgmTVWrD+cz97AaVkjKBU1xYrP0q4CHmxZyusGMmZpmvUgJYsLMxSjrf6OYw+iI/ZPeJgZSKY7XTgxN6rKDOZ11k4XaHkfpJQI5D3xq3gjF6xgZjpuVQgBrbuQVwAXM6wWIi6xC5rV8cgAPwbm52enBqw8AOLs8Mbs+MWfF5r8vSbPWhuz35onrAHUELx10AdYM6PiKYwIKAZZjxgK5J9aFs7u2eJTy33pnyFbQdaj6+n855zNsPlodmoRMN7cayFxbwRfVAuu0e9Pzn1lgGzvtLKK7Hdc0LrwFlohslG1o3O0qTk0CKAR6TflslDbwqbJT/Wp/BOy/U348qB+D0QDyD/tugby9xzfuGrqcI=;C2SIsj4tDVLahjYO3FFePg=="
 ---

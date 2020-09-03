@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Outlook, Size, Share and Growth and Forecast Assumptions Through 2026 | Impact of COVID-19 Pandemic"
+    excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
+    publishedDateTime: 2020-09-03T04:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-outlook-size-share-and-growth-and-forecast-assumptions-through-2026-impact-of-covid-19-pandemic-2020-09-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "iXsmGtDUEQdUld8duxr9L/Q0aZ5vjpeE5d7USMW94MywR9+4Yx7feH+wEvso9jgy6Cr4Je3+BX8k9sGe0wjMdjimatXbs8fgIBiIVbCSNXLs+gzK9DWzqkwgRinhLieue7yntVNQBLMZbs/rOYfDbi0+OROVywMp/4Da9/Ac/xbVf4L+UVoEfwCHyxwsMupbWzB8MKYBuWVzBKets+OVzdty7v1+HGykyZVDGnG9Tr4ODEZXnZYPRtHcgtN9mz3vxYo1AHvxEQr3d+t9U2jh/4uJYBaARKixflnd7ShrvOoYNpubqkGQHA6rTDrFQnKx6DM24Ajs3DgZ/OjdFUphe/XcrixHJZnIH8E5AXreis+S2S3KuIzlwZdhypWcarW1ROJoAd3qDMHJldvL1ZpCIrO4aakqv+l8HtILYz/QZ/wlS+O8GoAna2ujltxeO+QgIvdKK6F48q6GDTaZ9fk1vgpkVJx91mFLp6OgNKtq6dewDmWsemD+dUA84NxM/7+Ck5vqEoRrEWUv2sEDS7LtVc54PCjxMEWd2qZTByBxYqg=;Bd/M2oqI6JBiVklXzH12Sg=="
 ---
