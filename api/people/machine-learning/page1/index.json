@@ -17,7 +17,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 301397
+        "followers": 301440
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -41,7 +41,7 @@
         "Machine Learning",
         "AI in Autos"
       ],
-      "heat": 377,
+      "heat": 385,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
@@ -66,7 +66,7 @@
       "twitter": {
         "username": "AndrewYNg",
         "url": "https://twitter.com/AndrewYNg",
-        "followers": 525869
+        "followers": 525907
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrewyng/"
@@ -101,7 +101,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 335,
+      "heat": 323,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -126,7 +126,7 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 219073
+        "followers": 219086
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
@@ -146,7 +146,7 @@
         "Computer Vision",
         "AI in Robotics"
       ],
-      "heat": 301,
+      "heat": 298,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
@@ -170,7 +170,7 @@
       "twitter": {
         "username": "jeffdean",
         "url": "https://twitter.com/jeffdean",
-        "followers": 166642
+        "followers": 166656
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
@@ -199,7 +199,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 277,
+      "heat": 281,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
@@ -211,42 +211,40 @@
       ]
     },
     {
-      "path": "_people/alexandr-wang.md",
-      "title": "Alexandr Wang",
-      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/alexandr-wang/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/alexandr-wang/",
+      "path": "_people/demis-hassabis.md",
+      "title": "Demis Hassabis",
+      "excerpt": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/demis-hassabis/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/demis-hassabis/",
       "type": "profile",
-      "name": "Alexandr Wang",
-      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
-      "location": "San Francisco, CA",
-      "website": "https://scale.com/",
+      "name": "Demis Hassabis",
+      "bio": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
+      "website": "http://t.co/8B3TFG0hNp",
       "twitter": {
-        "username": "alexandr_wang",
-        "url": "https://twitter.com/alexandr_wang",
-        "followers": 9203
+        "username": "demishassabis",
+        "url": "https://twitter.com/demishassabis",
+        "followers": 196070
       },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/alexandrwang/"
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
+        "citations": 41334
       },
       "affiliation": {
         "path": "",
-        "name": "Scale",
-        "domain": "scale.com"
+        "name": "ac.uk - Homepage",
+        "domain": "ac.uk - Homepage"
       },
       "topics": [
         "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Autos"
+        "Machine Learning"
       ],
-      "heat": 258,
+      "heat": 245,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/775445981034795008/R3D5PQLN_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Alexandr Wang",
+          "title": "Demis Hassabis",
           "isCached": true
         }
       ]
@@ -263,7 +261,7 @@
       "twitter": {
         "username": "geoffreyhinton",
         "url": "https://twitter.com/geoffreyhinton",
-        "followers": 89534
+        "followers": 89541
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=JicYPdAAAAAJ",
@@ -281,7 +279,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 253,
+      "heat": 241,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -340,7 +338,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 253,
+          "heat": 241,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -364,7 +362,7 @@
             "Computer Vision",
             "AI in Robotics"
           ],
-          "heat": 301,
+          "heat": 298,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
@@ -377,7 +375,7 @@
         }
       ],
       "size": 3,
-      "heat": 253,
+      "heat": 241,
       "images": [
         {
           "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
@@ -385,45 +383,6 @@
           "height": 128,
           "title": "Yoshua Bengio",
           "isCached": false
-        }
-      ]
-    },
-    {
-      "path": "_people/demis-hassabis.md",
-      "title": "Demis Hassabis",
-      "excerpt": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/demis-hassabis/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/demis-hassabis/",
-      "type": "profile",
-      "name": "Demis Hassabis",
-      "bio": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
-      "website": "http://t.co/8B3TFG0hNp",
-      "twitter": {
-        "username": "demishassabis",
-        "url": "https://twitter.com/demishassabis",
-        "followers": 196060
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
-        "citations": 41334
-      },
-      "affiliation": {
-        "path": "",
-        "name": "ac.uk - Homepage",
-        "domain": "ac.uk - Homepage"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 250,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Demis Hassabis",
-          "isCached": true
         }
       ]
     },
@@ -441,7 +400,7 @@
       "twitter": {
         "username": "chrmanning",
         "url": "https://twitter.com/chrmanning",
-        "followers": 70015
+        "followers": 70017
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
@@ -471,7 +430,7 @@
         "Natural Language Processing",
         "Machine Learning"
       ],
-      "heat": 205,
+      "heat": 216,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
@@ -494,7 +453,7 @@
       "twitter": {
         "username": "ilyasut",
         "url": "https://twitter.com/ilyasut",
-        "followers": 57456
+        "followers": 57459
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
@@ -512,7 +471,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 193,
+      "heat": 206,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1287174032211603456/vL4_w__Q_400x400.jpg",
@@ -537,7 +496,7 @@
       "twitter": {
         "username": "NandoDF",
         "url": "https://twitter.com/NandoDF",
-        "followers": 80782
+        "followers": 80784
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
@@ -552,7 +511,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 172,
+      "heat": 198,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1210841647224897537/_jraFz64_400x400.jpg",
@@ -577,7 +536,7 @@
       "twitter": {
         "username": "soumithchintala",
         "url": "https://twitter.com/soumithchintala",
-        "followers": 82559
+        "followers": 82561
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/soumith"
@@ -593,7 +552,7 @@
         "Facebook AI",
         "PyTorch"
       ],
-      "heat": 167,
+      "heat": 189,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_400x400.jpg",
@@ -618,7 +577,7 @@
       "twitter": {
         "username": "lmoroney",
         "url": "https://twitter.com/lmoroney",
-        "followers": 19985
+        "followers": 19988
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/laurence-moroney/"
@@ -629,7 +588,7 @@
         "Machine Learning",
         "TensorFlow"
       ],
-      "heat": 152,
+      "heat": 138,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1288330700752482304/BfXxtH9Q_400x400.jpg",
@@ -641,83 +600,126 @@
       ]
     },
     {
-      "path": "_people/bernhard-scholkopf.md",
-      "title": "Bernhard Schölkopf",
-      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bernhard-scholkopf/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/bernhard-scholkopf/",
+      "path": "_people/alexandr-wang.md",
+      "title": "Alexandr Wang",
+      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/alexandr-wang/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/alexandr-wang/",
       "type": "profile",
-      "name": "Bernhard Schölkopf",
-      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
+      "name": "Alexandr Wang",
+      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
+      "location": "San Francisco, CA",
+      "website": "https://scale.com/",
       "twitter": {
-        "username": "bschoelkopf",
-        "url": "https://twitter.com/bschoelkopf",
-        "followers": 5302
+        "username": "alexandr_wang",
+        "url": "https://twitter.com/alexandr_wang",
+        "followers": 9202
       },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 170135
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/alexandrwang/"
       },
       "affiliation": {
         "path": "",
-        "name": "tuebingen.mpg.de",
-        "domain": "tuebingen.mpg.de"
+        "name": "Scale",
+        "domain": "scale.com"
       },
       "topics": [
         "AI",
-        "Math for AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Autos"
       ],
-      "heat": 98,
+      "heat": 127,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/775445981034795008/R3D5PQLN_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Bernhard Schölkopf",
+          "title": "Alexandr Wang",
           "isCached": true
         }
       ]
     },
     {
-      "path": "_people/oren-etzioni.md",
-      "title": "Oren Etzioni",
-      "excerpt": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/oren-etzioni/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/oren-etzioni/",
+      "path": "_people/andrew-moore.md",
+      "title": "Andrew Moore",
+      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/andrew-moore/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/andrew-moore/",
       "type": "profile",
-      "name": "Oren Etzioni",
-      "bio": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
-      "location": "Seattle",
-      "website": "https://allenai.org/team/orene/",
+      "name": "Andrew Moore",
+      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
+      "location": "Pittsburgh, PA",
+      "website": "http://www.cs.cmu.edu/~awm/",
       "twitter": {
-        "username": "etzioni",
-        "url": "https://twitter.com/etzioni",
-        "followers": 24869
+        "username": "awmcmu",
+        "url": "https://twitter.com/awmcmu",
+        "followers": 5760
       },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
-        "citations": 39134
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Allen Institute for AI (AI2)",
-        "domain": "allenai.org"
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
       },
       "topics": [
         "AI",
+        "Google AI",
         "Machine Learning"
       ],
-      "heat": 93,
+      "heat": 127,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1196070309943627778/4C6ssaJN_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Oren Etzioni",
+          "title": "Andrew Moore",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_people/alex-smola.md",
+      "title": "Alex Smola",
+      "excerpt": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/alex-smola/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/alex-smola/",
+      "type": "profile",
+      "name": "Alex Smola",
+      "bio": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
+      "location": "Palo Alto, CA",
+      "website": "http://alex.smola.org/",
+      "twitter": {
+        "username": "smolix",
+        "url": "https://twitter.com/smolix",
+        "followers": 15756
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
+        "citations": 135860
+      },
+      "affiliation": {
+        "path": "",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ],
+      "heat": 105,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Alex Smola",
           "isCached": true
         }
       ]
@@ -752,7 +754,7 @@
         "Math for AI",
         "Machine Learning"
       ],
-      "heat": 78,
+      "heat": 105,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/378800000065241474/e47527eed661a899d666329eb2774477_400x400.jpeg",
@@ -764,85 +766,83 @@
       ]
     },
     {
-      "path": "_people/alex-smola.md",
-      "title": "Alex Smola",
-      "excerpt": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/alex-smola/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/alex-smola/",
+      "path": "_people/oren-etzioni.md",
+      "title": "Oren Etzioni",
+      "excerpt": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/oren-etzioni/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/oren-etzioni/",
       "type": "profile",
-      "name": "Alex Smola",
-      "bio": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
-      "location": "Palo Alto, CA",
-      "website": "http://alex.smola.org/",
+      "name": "Oren Etzioni",
+      "bio": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
+      "location": "Seattle",
+      "website": "https://allenai.org/team/orene/",
       "twitter": {
-        "username": "smolix",
-        "url": "https://twitter.com/smolix",
-        "followers": 15755
+        "username": "etzioni",
+        "url": "https://twitter.com/etzioni",
+        "followers": 24870
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
-        "citations": 135860
+        "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
+        "citations": 39134
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
       },
       "affiliation": {
         "path": "",
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Allen Institute for AI (AI2)",
+        "domain": "allenai.org"
       },
       "topics": [
         "AI",
-        "AWS AI",
         "Machine Learning"
       ],
-      "heat": 72,
+      "heat": 71,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1196070309943627778/4C6ssaJN_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Alex Smola",
+          "title": "Oren Etzioni",
           "isCached": true
         }
       ]
     },
     {
-      "path": "_people/andrew-moore.md",
-      "title": "Andrew Moore",
-      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/andrew-moore/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/andrew-moore/",
+      "path": "_people/bernhard-scholkopf.md",
+      "title": "Bernhard Schölkopf",
+      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bernhard-scholkopf/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/bernhard-scholkopf/",
       "type": "profile",
-      "name": "Andrew Moore",
-      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "location": "Pittsburgh, PA",
-      "website": "http://www.cs.cmu.edu/~awm/",
+      "name": "Bernhard Schölkopf",
+      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
       "twitter": {
-        "username": "awmcmu",
-        "url": "https://twitter.com/awmcmu",
-        "followers": 5759
+        "username": "bschoelkopf",
+        "url": "https://twitter.com/bschoelkopf",
+        "followers": 5303
       },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
+        "citations": 170135
+      },
+      "affiliation": {
+        "path": "",
+        "name": "tuebingen.mpg.de",
+        "domain": "tuebingen.mpg.de"
       },
       "topics": [
         "AI",
-        "Google AI",
+        "Math for AI",
         "Machine Learning"
       ],
-      "heat": 72,
+      "heat": 64,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Andrew Moore",
+          "title": "Bernhard Schölkopf",
           "isCached": true
         }
       ]
@@ -874,7 +874,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 65,
+      "heat": 64,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1841900580/twitter_image_400x400.jpg",
@@ -886,36 +886,42 @@
       ]
     },
     {
-      "path": "_people/anil-k-jain.md",
-      "title": "Anil K. Jain",
-      "excerpt": "Michigan State University",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anil-k-jain/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/anil-k-jain/",
+      "path": "_people/javier-m-duarte.md",
+      "title": "Javier M. Duarte",
+      "excerpt": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/javier-m-duarte/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/javier-m-duarte/",
       "type": "profile",
-      "name": "Anil K. Jain",
-      "bio": "Michigan State University",
+      "name": "Javier M. Duarte",
+      "bio": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
+      "location": "San Diego, CA",
+      "website": "https://t.co/Z06UY9gVRv",
+      "twitter": {
+        "username": "jmgduarte",
+        "url": "https://twitter.com/jmgduarte",
+        "followers": 189
+      },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=g-_ZXGsAAAAJ",
-        "citations": 211862
+        "url": "https://scholar.google.com/citations?user=GTtW9H0AAAAJ",
+        "citations": 126881
       },
       "affiliation": {
         "path": "",
-        "name": "Michigan State University",
-        "domain": "msu.edu"
+        "name": "fnal.gov",
+        "domain": "fnal.gov"
       },
       "topics": [
         "AI",
-        "Computer Vision",
         "Machine Learning"
       ],
-      "heat": 50,
+      "heat": 64,
       "images": [
         {
-          "url": "https://scholar.google.com/citations?view_op=view_photo&user=g-_ZXGsAAAAJ&citpid=1",
-          "width": 128,
-          "height": 121,
-          "title": "Anil K. Jain",
-          "isCached": false
+          "url": "https://pbs.twimg.com/profile_images/1561586632/backpackshort_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Javier M. Duarte",
+          "isCached": true
         }
       ]
     },
@@ -956,7 +962,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 50,
+      "heat": 57,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
@@ -964,6 +970,40 @@
           "height": 400,
           "title": "Christopher M. Bishop",
           "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_people/anil-k-jain.md",
+      "title": "Anil K. Jain",
+      "excerpt": "Michigan State University",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anil-k-jain/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/anil-k-jain/",
+      "type": "profile",
+      "name": "Anil K. Jain",
+      "bio": "Michigan State University",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=g-_ZXGsAAAAJ",
+        "citations": 211862
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Michigan State University",
+        "domain": "msu.edu"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=g-_ZXGsAAAAJ&citpid=1",
+          "width": 128,
+          "height": 121,
+          "title": "Anil K. Jain",
+          "isCached": false
         }
       ]
     },
@@ -1110,46 +1150,6 @@
           "width": 400,
           "height": 400,
           "title": "Francisco Matorras",
-          "isCached": true
-        }
-      ]
-    },
-    {
-      "path": "_people/javier-m-duarte.md",
-      "title": "Javier M. Duarte",
-      "excerpt": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/javier-m-duarte/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/javier-m-duarte/",
-      "type": "profile",
-      "name": "Javier M. Duarte",
-      "bio": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
-      "location": "San Diego, CA",
-      "website": "https://t.co/Z06UY9gVRv",
-      "twitter": {
-        "username": "jmgduarte",
-        "url": "https://twitter.com/jmgduarte",
-        "followers": 189
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=GTtW9H0AAAAJ",
-        "citations": 126881
-      },
-      "affiliation": {
-        "path": "",
-        "name": "fnal.gov",
-        "domain": "fnal.gov"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1561586632/backpackshort_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Javier M. Duarte",
           "isCached": true
         }
       ]
