@@ -137,6 +137,20 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "Guangzhou Airport Rolls Out 'One ID' Facial Recognition Tech"
+    excerpt: "Guangzhou Baiyun International Airport has announced that facial recognition ID is operational on domestic routes."
+    publishedDateTime: 2020-09-03T06:07:00Z
+    webUrl: "https://www.thatsmags.com/china/post/31636/chinese-airport-rolls-out-facial-recognition-tech"
+    type: article
+    provider:
+      name: thatsmags.com
+      domain: thatsmags.com
+    quality: 54
+    images:
+      - url: "https://www.thatsmags.com/image/view/202009/scaled.jpg"
+        width: 704
+        height: 463
+        isCached: true
   - title: "City Council To Discuss Facial Recognition Technology"
     excerpt: "Pittsburgh City Council will be holding an open discussion on the usage of facial recognition technology in policing. KDKA's Lindsay Ward has the latest."
     publishedDateTime: 2020-09-02T09:41:00Z

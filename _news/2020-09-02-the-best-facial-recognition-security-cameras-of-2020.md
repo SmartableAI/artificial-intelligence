@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/"
 type: article
 quality: 89
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/463006"
         width: 640
         height: 428
+        isCached: true
+  - title: "Guangzhou Airport Rolls Out 'One ID' Facial Recognition Tech"
+    excerpt: "Guangzhou Baiyun International Airport has announced that facial recognition ID is operational on domestic routes."
+    publishedDateTime: 2020-09-03T06:07:00Z
+    webUrl: "https://www.thatsmags.com/china/post/31636/chinese-airport-rolls-out-facial-recognition-tech"
+    type: article
+    provider:
+      name: thatsmags.com
+      domain: thatsmags.com
+    quality: 54
+    images:
+      - url: "https://www.thatsmags.com/image/view/202009/scaled.jpg"
+        width: 704
+        height: 463
         isCached: true
   - title: "Concerns about facial recognition system being set up by police"
     excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"

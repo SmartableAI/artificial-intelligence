@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Defense Innovation Unit Selects Google Cloud to Help U.S. Military Health System With Predictive Cancer Diagnoses"
-excerpt: "Google Cloud today announced that the Defense Innovation Unit (DIU) has chosen Google Cloud to prototype an AI-enabled digital pathology solution at select DoD facilities. The project includes the delivery of augmented reality microscopes to DoD's medical facilities and access to artificial intelligence (AI) models that can help military doctors with cancer detection tasks on multiple disease areas."
+excerpt: "Google Cloud today announced that the Defense Innovation Unit (DIU) has chosen Google Cloud to prototype an AI-enabled digital"
 publishedDateTime: 2020-09-02T13:05:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20200902sf13214/defense-innovation-unit-selects-google-cloud-to-help-us-military-health-system-with-predictive-cancer-diagnoses"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20200902sf13214/defense-innovation-unit-selects-google-cloud-to-help-us-military-health-system-with-predictive-cancer-diagnoses"
+originalUrl: "https://www.prnewswire.com/news-releases/defense-innovation-unit-selects-google-cloud-to-help-us-military-health-system-with-predictive-cancer-diagnoses-301122642.html"
+webUrl: "https://www.prnewswire.com/news-releases/defense-innovation-unit-selects-google-cloud-to-help-us-military-health-system-with-predictive-cancer-diagnoses-301122642.html"
 type: article
-quality: 0
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Google Cloud secures U.S. military AI cancer research contract"
@@ -36,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "aOAfDZtl1/akmX8sdwnRjJVjijRMqdWowzudaoayPHkqr2O8lrcnetbj+RQcWeFEBQdZPKEHk3rW5nXK/m0CUg4bLbqMJrwiZ8GpiQPr/240HwQMMh+r99BJ1Gk5w7B9/rK7wYMwE4AF/pZz9Sms1LMBv01eJt+XiKnuq7Nx0LV/b5wRRH7n2R/kpba9bKmCzYJEq7O9IuSpISOmDabrwrZRuzNCBEHPNTmfJBd5Z121o6/YuAd1xFI8a8RrigaOv8imWXWuBp3ATXhC5xj1Vx0UyRoByaAIsTXz5F3u7xA/6LdZSlBhlVqY4+TV6mhM6YOJfBLMi/V6w8WmRRytAofKs8rZ24szaJKfzPfN+7k=;E3dmBQyIhg9zezL/avsjow=="
+secured: "idRMpprhST1DG9t04KTn5bKztvxe5yZrTpbn2aQ/u/zv4EvOrxb7HT7ic5zRKWuyY1t8b7H00ULNuvprJ0Gf3FDbei4LY2dmOM+ayww8tZLUiDvN7poRAAdLn/Wq0ypL+B0nCSoZqOLhw8N1qO56SXb8j4m8fMdYi9PT9uQhDUA3czXGkorx3KnMpQy6nRIanLL7Quq5vNv2FS6Cg0OCpIx8S7KAzV8qPuIRM63bwtb5qqdvdLBzNdvsb5MfIReLceuYmy8Qv2ftrU1p4r5Z2AXyfyB7Ls6/QF815blpKD8k4WQCNV5p9CBtrlNGMidoxoFJporNzAE7rVNKpiTaFK74OB8wqpEbTm3YQ1gClO0=;97tyyqPwsNwtAcA/hMHuHg=="
 ---
 

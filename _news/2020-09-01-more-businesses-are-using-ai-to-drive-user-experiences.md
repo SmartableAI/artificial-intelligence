@@ -9,7 +9,7 @@ ampWebUrl: "https://biztechmagazine.com/article/2020/08/more-businesses-are-usin
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences?amp"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Does Artificial Intelligence Help Businesses?"
-    excerpt: "You may think that AI is a new technology, but the truth is, we have been using artificial intelligence for many years. For instance, when you send a question to Google, it uses AI to come up with more accurate answers."
-    publishedDateTime: 2020-08-29T14:34:00Z
-    webUrl: "https://techlog360.com/artificial-intelligence-help-businesses/"
-    type: article
-    provider:
-      name: techlog360.com
-      domain: techlog360.com
-    quality: 37
-    images:
-      - url: "https://tl360.b-cdn.net/wp-content/uploads/2020/01/Artificial-Intelligence-in-Neuro-Sciences.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Instagram sales, AI, TikTok, and more: How Wisconsin small businesses are stepping up online, tech strategies to connect with customers"
     excerpt: "In response, the Green Bay company is investing in artificial intelligence software that will allow its customers to virtually try on different lipstick and foundation shades. \"We're really looking at every single tool we can use to give the consumer an experiential introduction to our brand from their home,"
     publishedDateTime: 2020-09-02T18:06:00Z

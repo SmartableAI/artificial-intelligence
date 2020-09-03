@@ -35,20 +35,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "How Does Artificial Intelligence Help Businesses?"
-    excerpt: "You may think that AI is a new technology, but the truth is, we have been using artificial intelligence for many years. For instance, when you send a question to Google, it uses AI to come up with more accurate answers."
-    publishedDateTime: 2020-08-29T14:34:00Z
-    webUrl: "https://techlog360.com/artificial-intelligence-help-businesses/"
-    type: article
-    provider:
-      name: techlog360.com
-      domain: techlog360.com
-    quality: 37
-    images:
-      - url: "https://tl360.b-cdn.net/wp-content/uploads/2020/01/Artificial-Intelligence-in-Neuro-Sciences.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "gqoh9k8I01fMAuYGzl7L7Pf9m4mzYpDf1MmEKozAkdlX+WwE9DG52d1mxPZQVw5KSCK7RbJpF7iBVUEmC+WFzqICDoXdKRhb4ofzTuzja3CnDQetJjEOUUP8gfvgdWmVuITvLZIqNOycaYw4knd+y2VlOP/Z4NZhttYsHO4z2ANuOdIZMM04yUR1I14TcopeW+P/VwsV9LWQnI5IeeH31mYqR/iOP3ZLZ+4cXG0e8MQOEOcurqmaOr/W9hfafy1HOY+8+2aPGbQ4Nij6LY7YFE6CkzXaLNsNlR6yPkZSijzQQJt4a0HliQT6j+lSbxEGfSs004j3IX0CJba8z8qlAn7Lpa5+zwiyqc5g9O37934=;YqfMyN5M6CZB+yzvT/VF+A=="
 ---

@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Artificial Intelligence should improve lives of common people: Telangana IT Minister"
-excerpt: "The Minister said that AI is a powerful tool which makes room for government innovation, for tackling traditionally difficult or nearly impossible pro"
-publishedDateTime: 2020-09-03T03:50:00Z
-originalUrl: "https://timesofindia.indiatimes.com/home/education/news/artificial-intelligence-should-improve-lives-of-common-people-telangana-it-minister/articleshow/77903358.cms"
-webUrl: "https://timesofindia.indiatimes.com/home/education/news/artificial-intelligence-should-improve-lives-of-common-people-telangana-it-minister/articleshow/77903358.cms"
-ampWebUrl: "https://m.timesofindia.com/home/education/news/artificial-intelligence-should-improve-lives-of-common-people-telangana-it-minister/amp_articleshow/77903358.cms"
-cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/artificial-intelligence-should-improve-lives-of-common-people-telangana-it-minister/amp_articleshow/77903358.cms"
+excerpt: "Artificial intelligence should improve the lives of common people, said State Information Technology and Industries Minister KT Rama Rao. The Minister said that AI is a powerful tool which makes room for government innovation,"
+publishedDateTime: 2020-09-03T04:02:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/India/20200903/3620234.html"
+webUrl: "https://news.webindia123.com/news/Articles/India/20200903/3620234.html"
 type: article
-quality: 52
-heat: 52
+quality: 12
+heat: 12
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://static.toiimg.com/photo/msid-77903384/77903384.jpg"
-    width: 1200
-    height: 900
-    isCached: true
-
-secured: "/O/aIIbYZ9ERIYn280oLhjB7c0ydQEdOoheZTABPKYUfkm5qKtFpiifAxlTs/Xsb/MjsDe6/ieKWXf6hQ5G4uGgapWeMJSy84HhYe22rmcVbLH5IfvEMLnimeYKxva+AmAMBPxy/cMEwRYdv+D15iB3Ls6kjN9by3PWmHWpolbAeK3GA23LLtc2CSiroVuLkKN18fKRSZYmtHF4poxhGtWgfRciSlfRK0MNn+KiDDLqD+5gqLe3S3bNod+tmAWSWIoKJ4xHkbl6DCSqY+2t60mPihqd+p27TLRPK6EhRPQnRPAjW4TACUQdzkxs+5JF8uwchRIeeGTMBhqONRcbo37FkdIB3dCC0J1Z5eBXCy6cRvM9fjDhwhF02ODuCycVXucpAwxLNVjSAzHqgUPD8k4QT+bEzS+M2zt8DbYGHOtd8ak3dYKbzKmlfqelOH0zIkhsdlz+4Y3NPx0qd3pVlVI0MXwCFgnAex/pMZAnhv/vfvpQeJr6h408YL4kXqZ25v/D4KJuOpCunH0HEC9vRmWAd5UEO8eiMIeO2fzzWAts=;l5aIrnBKbFJizV75OPrP/g=="
+secured: "k+19LiQJEw+CQToIm43bzFLlQudt/J4QRp5gwR3z8ATMi7c2DXhNJsrxI/uCamxuItXNzArqCtR6QcVr+NKRt13fF/IrjI7xiFdqqCJtIgVNh9217l9zRK/giYD7Jr9WEgfuht+zxBBOuYquXdfxXzsiGzpAfH6Lh0+7TgTL+llN8/dTco9Zz7hxU8gSFnGJLmHLJ2tzJcnH8SQFqYanFmNdOxyA19G0vUB1uVBOhNhgs4wKKkZiibyTlAoMhb0JCZyhPQFT1IoKKw+yqch6WUK0DnKsxAHW8IVf7SY0cNsbo9kBt6IQP66EV9IBAtyONURyjk24lMHkaHOf9EPJavwYBn+mwHyigZtQ4C7rUdw=;AalEZuG5BKySQdeZjJSZvA=="
 ---
 
