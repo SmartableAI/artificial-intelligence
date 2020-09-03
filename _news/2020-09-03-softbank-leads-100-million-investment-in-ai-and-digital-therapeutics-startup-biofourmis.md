@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/katiejennings/2020/09/02/softbank-leads-10
 ampWebUrl: "https://www.forbes.com/sites/katiejennings/2020/09/02/softbank-leads-100-million-investment-in-ai-and-digital-therapeutics-startup-biofourmis/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/09/02/softbank-leads-100-million-investment-in-ai-and-digital-therapeutics-startup-biofourmis/amp/"
 type: article
-quality: 78
-heat: 78
+quality: 80
+heat: 80
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/trim/0x1307:2700x2825/fit-in/711x399/smart/https://specials-images.forbesimg.com/imageserve/5f502d73e67ec7820f96d91f/0x0.jpg"

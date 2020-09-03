@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Must collectively find answers to balance data, ethics and governance, says KTR"
-excerpt: "IT Minister K.T. Rama Rao on Wednesday said that he has ‘no ready answer’ in connection with striking a balance between data, ethics and governance, but batted for a collective approach and responsibility to deal with the issue."
+excerpt: "IT Minister K.T. Rama Rao on Wednesday said that he has ‘no ready answer’ in connection with striking a balance between data, ethics and governance ... even as he described AI as a tool which helps him to make smart choices, and decisions based ..."
 publishedDateTime: 2020-09-02T18:01:00Z
-originalUrl: "https://www.thehindu.com/news/cities/Hyderabad/must-collectively-find-answers-to-balance-data-ethics-and-governance-says-ktr/article32508537.ece#!"
-webUrl: "https://www.thehindu.com/news/cities/Hyderabad/must-collectively-find-answers-to-balance-data-ethics-and-governance-says-ktr/article32508537.ece#!"
+originalUrl: "https://www.thehindu.com/news/cities/Hyderabad/must-collectively-find-answers-to-balance-data-ethics-and-governance-says-ktr/article32508537.ece"
+webUrl: "https://www.thehindu.com/news/cities/Hyderabad/must-collectively-find-answers-to-balance-data-ethics-and-governance-says-ktr/article32508537.ece"
 ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/must-collectively-find-answers-to-balance-data-ethics-and-governance-says-ktr/article32508537.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/must-collectively-find-answers-to-balance-data-ethics-and-governance-says-ktr/article32508537.ece/amp/"
 type: article
@@ -21,11 +21,11 @@ topics:
   - AI
 
 images:
-  - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-    width: 300
-    height: 300
+  - url: "https://www.thehindu.com/news/cities/Hyderabad/wnekon/article32510246.ece/ALTERNATES/LANDSCAPE_615/02HYSM10-KTR-NAG527NR3LK3jpgjpg"
+    width: 615
+    height: 384
     isCached: true
 
-secured: "QyEUbGrnAnZR1I9XaclJaEMKnuqQgY6hF7N/M2io8TQPNEtlT+mR2oxjcgYMmJZan4LFFXET7aLDgKnvvlCy8rNjsBMRtSbT5uysJFYBBjFRIKPYjD3eryOQoE0zXdNO24s8GxtW0doEoWjayyT6jpcZT/JlhiPGs4qTIRkT3HxaeAGCRfpsrIRCjw+mhJvMaCRGZogNspsSuJCVjAofU4ErdD+wrVaemwki9RZGQo/8m+qBZ3QgOvPp9hL0HDXfBRfgEknGaAJ8qbqrw9PtGJ1olBqnZsB2fTJPqMCPwNjbOzfoX4eezrysc2QU+V8jabdglfxDDsBknW4liRC5olVzHJDI5wZ/5u/UQ0Osemc=;yQEqDHrdYO6iSealnLxTzA=="
+secured: "7cq57gmFSMzJOE9HmVcePkSUxVOLV8NFsBhjYg2daHLzfoLCOtxqjgX13fukLHH93/t4qdFNGyu08coR15mJyloT+2M0D1gIzAgs5NtCS7zOIxgZkr9LALbT4qaIxeYAvi6lmD1kHTgj4hN6uXU0kxXMjp5MGSS82CKDOSIC2vp1LOPSKpKTn8q0G5Q0aKFZZgnHK3xPwP8oejEAnIDgSwzNtiUaGyfzaZ8zbysFiASuZ3Yq49tBgtp61rn4UE8er7p7y6LpbjZHelzUUEKLlC4FwmEzCIN+uCMubG0nrssZeM7vtbvtEti35lks/MosN//jtI4J4e/X1piNfncYk7YamkETk/LjoOKZ98txMa0=;KZWMdS5MAA8D4Hc0tYHFJw=="
 ---
 

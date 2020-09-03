@@ -2,17 +2,17 @@
 category: news
 title: "Experts using AI to help people cope during pandemic: 'Robots are our friends'"
 excerpt: "As coronavirus concerns cause the world to become more socially distant, scientists and engineers are working to bring people together with socially assistive robots."
-publishedDateTime: 2020-09-02T17:14:00Z
-originalUrl: "https://www.thedenverchannel.com/news/national/coronavirus/experts-using-ai-to-help-people-cope-during-pandemic-robots-are-our-friends"
-webUrl: "https://www.thedenverchannel.com/news/national/coronavirus/experts-using-ai-to-help-people-cope-during-pandemic-robots-are-our-friends"
+publishedDateTime: 2020-09-02T18:14:00Z
+originalUrl: "https://www.abc15.com/news/national/coronavirus/experts-using-ai-to-help-people-cope-during-pandemic-robots-are-our-friends"
+webUrl: "https://www.abc15.com/news/national/coronavirus/experts-using-ai-to-help-people-cope-during-pandemic-robots-are-our-friends"
 type: article
 quality: 50
 heat: 50
 published: false
 
 provider:
-  name: 7News and TheDenverChannel.com
-  domain: thedenverchannel.com
+  name: ABC15 Arizona
+  domain: abc15.com
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "R4velmTO5960LYGdCsrmAO6cKmZCtt2IdIlAOxBO2PKRGlzyMEwItXka74bFewjZRkSPnGikQ5tZIq7ekGYHbO9GsUU/j94BLyDrDliN9JTXuZuVnihRoZC5YQf476+YQyZn17nY43B+CQG/Ak2ge4vS6hy43+fny7ZpPOXgrGY4BhYaQzdlQAsT99b3YFoFCmvFIMETwPra6tLGJtQWCLsdt0uFAIdHmW/7mm1T5skkP9HCF+4o6pi0CMIksOHxOO7G7hyYw6UBX+DNJPSkGqpaw7tEQG3w1ReNeU8/HoGOcXUS2E3QnSg+K9sDIbgZxpI1gWZq67ZSJJEQPahEfr07esRjqRekbd2r6ExlskLbCKupx5oE3t5ket29sffefWpNPIYaXeYOxMNdaTcXiccJa08FooCPXohhm2lIA92tITneBSBVsLbCe3XONsD5ne3H6T0TQ9Z6C+Nscg/cwAx7N7dMUd6OBM+FmPPcuwHyOllGXAWgQG6aRXL45fHATNQgO3a8OYBcJv0r0coiG1y5IXKRQsI806iVx7xmiFk=;/FqIzr+xiZOo14Ign6IO6g=="
+secured: "jyv3KXIUUCjY0aBvLThXW6TpobCSBopd/k8S+3NPeW9OW594o2SHHIh1wXGzBTWlduz+/NnRhnW7wVSZHQ9it4kH+TiD3peo+CruKlSf5lNhoPGJmaHTQT9VAZKJI1BuuquAeXAuzWO5gdKRPZxl+CP+b/lUhvcbdtHm81cB2hAcPKiOhqM4g3aCW29AUQYT8vgxkQi6VZT+4ZdepAgHj7FiU0X5NkgZ7K/acGltZiHvsSNrv7bWkvGq+CD4PjvZO4DmaqgU/RlSa4br1A6QHL8lHaHooVPq7iukZPC+HJgv2iFE7UC92dmuK6vbGi4SZoPhZ7mcjBBYFywU7xr/oe9z6m+PIiro5Bn8+YPD4DM=;kBJu49F5VqXXqRCXKOzVxA=="
 ---
 

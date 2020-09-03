@@ -3,8 +3,8 @@ category: news
 title: "Pentagon picks Google Cloud for AI-assisted cancer diagnoses"
 excerpt: "The Pentagon's Defense Innovation Unit has chosen Google Cloud to develop artificial intelligence solutions for cancer screenings, the company announced on Wednesday."
 publishedDateTime: 2020-09-02T16:30:00Z
-originalUrl: "https://www.upi.com/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/?ur3=1"
-webUrl: "https://www.upi.com/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/?ur3=1"
+originalUrl: "https://www.upi.com/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/"
+webUrl: "https://www.upi.com/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/"
 ampWebUrl: "https://www.upi.com/amp/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/"
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/"
 type: article
@@ -41,6 +41,6 @@ related:
         height: 400
         isCached: true
 
-secured: "UUq+0l/qJKm8pBF2K2a1pjVk9aJ4MX/TmtgXZhRa9cHfxtq6hBeswABCZXlF6RV2+0Oz1YHk2vL+vh+LA4ouYqE+Cq9RtOKMI7+GjUbzylIBiGJLGSR2a51JFeg5riQ2hg2IxUo1zHSvQxHK2e1BHX/Ak+O+s+2ADe4LFhHCsyJczxx2Wva2nDWqegCwchnNO4BKm8B7WiLBK8bUZ0CSrPPZ+a6pSK8hTOKKr5Q9JfvdD/e8HIjHPthVimqw3O753VSaF/zMXZo/D4UQXkCrY2wVFCjW0HBITtO3udMrMK7YU9juc383e7Imqtpe0LpYBQ3wVxMcPQh4yCHPm7i1sYA43+RA9fBr6o6u/0qQVOA=;HJ/p97wdMa8/OWb5M01dyQ=="
+secured: "AFpu38aEhbZC24VDhVwgvYIeN/eiwPeWFg13kDNPv1P8XBOjR06kj/6uKq0ODEO7+kjsGBKSJ+fYGU6qBr2BH80QRN9ARY4i+jL/Kd+HhuK6z+z982rYxgCISRZycC5W7anNqh6oLNBuqg0WG7D8VGz9r+culHMGwm4CE87RFZ5+K8ml1hQ7BpbKlWoV+TAR6AOWGTzyPd3g+OromDf3x10k1BAQH1eSouz09HDMelEfyINODt085HSK/vtZyyvKGk365KMa7JeaqFnp0LqYMSvkbrGcGzaeTw55kpMNVPUjwvtjrr3vSSr8a2j6ptcXJyPExoE+49xJo70ajzhXtzbzZa6Wf9RwJcdcCTU6LNk=;nC9DcBkrfKxPzRi+byXbAQ=="
 ---
 

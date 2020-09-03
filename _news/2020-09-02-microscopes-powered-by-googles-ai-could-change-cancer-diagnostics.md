@@ -28,7 +28,7 @@ related:
   - title: "Pentagon picks Google Cloud for AI-assisted cancer diagnoses"
     excerpt: "The Pentagon's Defense Innovation Unit has chosen Google Cloud to develop artificial intelligence solutions for cancer screenings, the company announced on Wednesday."
     publishedDateTime: 2020-09-02T16:30:00Z
-    webUrl: "https://www.upi.com/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/?ur3=1"
+    webUrl: "https://www.upi.com/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/"
     ampWebUrl: "https://www.upi.com/amp/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/"
     cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/"
     type: article

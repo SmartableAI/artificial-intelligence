@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/cognizant-ctsh-set-to-buy-azure-spec
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cognizant-ctsh-set-to-buy-azure-specialist-10th-magnitude-2020-09-02?amp"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Nasdaq
@@ -19,6 +19,17 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Cognizant Acquires MSP, Microsoft Azure Cloud Partner 10th Magnitude"
+    excerpt: "Cognizant acquires 10th Magnitude, a Microsoft Azure MSP Expert & Top 200 Public Cloud MSP that was backed by private equity firm Pamlico Capital."
+    publishedDateTime: 2020-09-01T15:31:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/cognizant-buys-azure-cloud-partner-10th-magnitude/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 34
 
 secured: "a6X6i7JxpEQr0ZIdvtv63otTuKfTddeo8QXDKTy9j8sVa9YTksLGZAkER4IubAcP4PZ5eOBHTd06zrntKoQ95XWEebew9VEjfIdohmPbD//2Wgm0CJbedrawQqzxFlkTyoA3VGGBrSYm3AK9+5O7Jlt1Vo0wl8gFnRiq7nojEHlhRSqM/qYv8wWbmkikvKNFZ4l6ZffdSg/OEisSa1Gb/xqR2EBH9hqM2KtX67EsXp9NC1/ydAGRc4vCoO8CoPdHNqWviuAm9rRoakregIsWz9AnEDUmmdU1tfMn7YTQWgxDsKleL5aG+vPi9E1sJnMrLSaCm4xONE9z5n2FaaveQi46KalOhom+1qJ1DuUnEIw=;xvZIa/z6Bx9sT+COb4BqwA=="
 ---

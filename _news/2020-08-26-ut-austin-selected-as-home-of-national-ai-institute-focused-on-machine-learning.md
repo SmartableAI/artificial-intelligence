@@ -1,26 +1,26 @@
 ---
 category: news
-title: "UT Austin Selected as Home of National AI Institute Focused on Machine Learning"
-excerpt: "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine"
-publishedDateTime: 2020-08-26T13:15:00Z
-originalUrl: "https://news.utexas.edu/2020/08/26/ut-austin-selected-as-home-of-national-ai-institute-focused-on-machine-learning/"
-webUrl: "https://news.utexas.edu/2020/08/26/ut-austin-selected-as-home-of-national-ai-institute-focused-on-machine-learning/"
+title: "UT Austin selected as home of National AI Institute focused on machine learning"
+excerpt: "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine Learning, one of five new national AI institutes."
+publishedDateTime: 2020-08-26T13:28:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php"
 type: article
 
 provider:
-  name: The University of Texas at Austin
-  domain: utexas.edu
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://news.utexas.edu/wp-content/uploads/2020/08/gates_dell_complex-UT-Austin830.jpg"
-    width: 830
-    height: 498
+  - url: "https://www.eurekalert.org/multimedia/pub/web/241249_web.jpg"
+    width: 1440
+    height: 983
     isCached: true
 
-secured: "Hc0w1l43rjQC/LH5V/gzSgiHIgYyDUavtxsTnECQO9dMrV490ToyuyA05XotHNfpx8HMp5QFGHDSGPYbmsAi1d9lgCRedaos7aayFEifvSEvwxaX+dRR+S2yKKYMboKOVtcbaQfurMDPixWszNEtcbmyx5+ZgJPg6/p9uiktXcyu2Lk2P6rFA6GZArvm2gH4NUN4cfT4sytBba3bJNlXQkZ2ofW/rWy7SGEgFZCSQITLsx0PlXVHYAUZUKLiU35GhtxzY3VViXwCLbvWb+bi36wzXnrhKCE9LxFvdvDOjurxFCaD5XvaM4P9rRSq42Lcldtyt77hfetF8W6YlqJ8vg2Ron3EJ7d5ROUjBjJ2Ciw=;EgTcIc0UDxb3odak5EMv6Q=="
+secured: "Tkzoa7mFMOfEx3tmOZXn34ceBGQsafj5ty568WMdZ+4tIi5kE4yylCzZIBbYw+5Mz/z7l1doMy8GHCYwjvUamBj/J3N/76zaJBd/k9C8YUYgNfpP1fzMy2RE7Q6dCOJZbvWStpNrxrUaqxsZ5Em4kVKeLIqyIudolPniX+R2/MZedLeeG32g+8N2huKd3a5hd9MZkHiUO/hNZp1DM/cUtJEvJXphnuFCrFEPLa6ZCqDelg0MCLWM2X8dLVlpVKO3AQfZvVocyfpb9/hGQUOWFmZR9Vo5Qaf7Xdqlj07A077IsGcPclhbW/nYW4x7WXgC5baumT+3XbtYWkFzagiQxVh/jNnu4DZ+hA59XjxMk9I=;75Hxwha6R6SflUEaOr0K0w=="
 ---
 

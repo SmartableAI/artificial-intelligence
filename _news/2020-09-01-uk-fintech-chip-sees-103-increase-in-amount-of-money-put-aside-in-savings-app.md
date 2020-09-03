@@ -8,8 +8,8 @@ webUrl: "https://www.crowdfundinsider.com/2020/09/166050-uk-fintech-chip-sees-10
 ampWebUrl: "https://www.crowdfundinsider.com/2020/09/166050-uk-fintech-chip-sees-103-increase-in-amount-of-money-put-aside-in-savings-app/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166050-uk-fintech-chip-sees-103-increase-in-amount-of-money-put-aside-in-savings-app/amp/"
 type: article
-quality: 40
-heat: 40
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Chip-banner-600x300.png"

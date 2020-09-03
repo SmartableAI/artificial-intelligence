@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Facebook and Twitter Remove Russia-Backed Accounts Targeting Left-Leaning Voters"
+title: "Facebook And Twitter Remove Russia-Backed Accounts Targeting Left-Leaning Voters"
 excerpt: "Researchers say one of the operation's goals was to steer left-leaning voters away from the Biden-Harris campaign ahead of the November election."
-publishedDateTime: 2020-09-01T20:17:00Z
-originalUrl: "https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters"
-webUrl: "https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters"
+publishedDateTime: 2020-09-01T22:20:00Z
+originalUrl: "https://www.scpr.org/news/2020/09/01/94277/facebook-and-twitter-remove-russia-backed-accounts/"
+webUrl: "https://www.scpr.org/news/2020/09/01/94277/facebook-and-twitter-remove-russia-backed-accounts/"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: NPR
-  domain: npr.org
+  name: KPCC
+  domain: scpr.org
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://media.npr.org/assets/img/2020/09/01/screenshot-333-_wide-c024671c7a198bdde2596c9b49f995c64ccd6cd5.png?s=1400"
-    width: 719
-    height: 404
+  - url: "https://a.scpr.org/i/671958ec310674b544258bf6ccce0580/228111-full.jpg"
+    width: 1024
+    height: 514
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 600
         isCached: true
 
-secured: "7yqaviW+ylCwGZsNfvdzye1qaWseZjbO8qu6BUESviyf+A7BbR+eRuB/9n4Hhs4g6Z0jbl8V/voazbhHwf3pXFwbT40fi6mK/TAjm7ZJxq8aL81uaAsftbirvNBMr0NaXvUjSp29aXn7cejdEI3v/8jlJXOr1UDqN813AU/7QGVTaZ9Xb+5sYyrLOku3V305JU8g0vg33CrZ+1sXpE9XXEid5DReBhkckxb1jcKNzXXyKLGDtVwBnhPgrwVwklu7gCiEPB5jNwcjeZR9+++BZBjv/Rb39kORzCDkXZiDBPr4lI2EEwMF7Xp4J3LYiv6P8RJTQ19/GWw7G67YHJfFjGj5b/+HEu9RQ0yraHemf4Se3ThMBzYYv9GDaRIdqi+Xh4ruGC5tZHUrAVVqRCT5KCW4DIHr74/aNSR6t9u8X51vfBjFMFXLxUJVBSrJdQlyopnRTtnaLwyc7zqjfjg6G3jwA8IOaEtrTYxljl1jO1/NqmyHlgma+IY2wjPDTxQxfIhDCPS8fdnK8XRIHwWo5g386PQ0Dzz1DXyIqUZKXOY=;jRTXNMKeVc8biDO6ZOdzpQ=="
+secured: "2unvnG9PN60LXQvtmX9660cn78oSePcSwxcBwS4MIwBNhY42f9WSnFTzZlGrKRTRe4+xcY0cfwXhbj0mqNsB8NQUij6fgOBPkW5TjaO8s1+xkh5eKyOiurmJCD21CyqSgQKwy37Zz/ooY3GBi5ISyLCvow/jkP7+pMop9APijxRaBXAXZnK3DovW+R/N4zYw9KKqWb1zdLcbj+dFqMMRcHldSpJMge8sEfb1s+NrEjG4BcYzeTcMQYCpiRi59KCcHw221nbpPxASuCKq4sdosuvGJDOoVCHzgyoQCwkRhi1TEwPKqit18YS8o8iMe2OMcX0r26S56aaHlDXVHomvBAXHhWr/N9OqvhNITZ0ZemY=;WC619iBe7DaitLCAEET6pw=="
 ---
 

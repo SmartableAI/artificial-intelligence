@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-01T12:54:00Z
 originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-is-booming-worldwide-international-business-machines-microsoft-sap-sas-institute-amazon-web-services-2020-09-01?mod=mw_quote_news"
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-is-booming-worldwide-international-business-machines-microsoft-sap-sas-institute-amazon-web-services-2020-09-01?mod=mw_quote_news"
 type: article
-quality: 24
-heat: 24
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

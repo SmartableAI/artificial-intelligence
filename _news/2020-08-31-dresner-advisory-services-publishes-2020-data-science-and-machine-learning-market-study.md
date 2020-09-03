@@ -2,27 +2,28 @@
 category: news
 title: "Dresner Advisory Services Publishes 2020 Data Science and Machine Learning Market Study"
 excerpt: "Dresner Advisory Services today published the 2020 Data Science and Machine Learning Market Study, part of its Wisdom of Crowds® series of research. The 6th annual report examines end user deployment and trends around data science and machine learning."
-publishedDateTime: 2020-08-31T13:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study-1029548140"
-webUrl: "https://markets.businessinsider.com/news/stocks/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study-1029548140"
+publishedDateTime: 2020-08-31T13:00:00Z
+originalUrl: "https://apnews.com/1a1522bd4c42f3fedf878d5572088673"
+webUrl: "https://apnews.com/1a1522bd4c42f3fedf878d5572088673"
 type: article
-quality: 43
-heat: 43
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
-  - AI in Finance
 
-secured: "w+eFY6z1DToJ1tN+YVYZRfGkM8zevsEJutp6YdYfsc3KhlKUHYuMW4IWr9nHRfStCT02CvT0ez6rQQRdMgYStJtNUYt+ODopyu/RW7X17Ia5kdTlEwDYbWw1+jU6Bzx0SEjAFdap7EpbBnh8N4NBoxV8FjDvM53wnBQtmL5k2raA+prxKVNpNFKvV59d/uSARfY/XNpWIrxQo6IKQsbQSYW8vuf21FkAZqJryRCPQa8JQWJo4Mf5Rp3vbhMSO3BgITdgHpHBSZGEkWFCxhC0aVeg82RMg7gEwjo4wC+SDydufntG5Qx3cAz+Yf18DMPFI7Iv5C8TJ2e0jNsCJi+mm5jJOUpWnjzPNtChXSZwO/4=;Kt14mDV+Rp25MMijQy/avg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "es/sWePIMMBy+G2dqLsknCztp6llP9tM1ZwBlPqlSW4zLKKWgiKhMxuiHwup8w7VbFD4Z/CWgVy3S4vOPZKfGOCrPPkABRm13kjwXRMqzzUx+qKi+uDadWK8EaiFBok5LnvZRV/9Eg+h/UlYmV/zakxdDUU2T4v10haUJm2m+CSNe5m44tZeAgJSi7CToCUOLathOWvC0gcrsIyNb02EWtkvMv9xkpdsbB+lXPcv1yNfSQp42er3tqdhGkuXFCy946eGyCFzvz1XJN+vQVJIB9Uw9ROretKNhWrAbOgiotPzTHAakmGtyOVIA9RuiAalcW1uf3fyyiu9U3uNn/zmFXqn1WX7euz98d4oXwLAFXE=;2bZSekVYuZQ+lrkz7ar4zQ=="
 ---
 

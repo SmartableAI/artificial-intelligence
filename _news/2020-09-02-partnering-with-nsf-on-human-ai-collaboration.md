@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/partnering-nsf-human-ai-collaborat
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/partnering-nsf-human-ai-collaboration/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Venga Global expands data annotation, collection, and validation for AI and Machine Learning services"
+    excerpt: "Venga Global, a global leader in translation and localization, has launched \"Venga AI\" to meet growing data transformation and machine learning needs. \"We started offering data services in 2016 focused around natural language processing and data translation,"
+    publishedDateTime: 2020-09-02T21:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/n17360142/venga-global-expands-data-annotation-collection-and-validation-for-ai-and-machine-learning-service"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17360142"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17360142"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "VlyIQN5Ra7R6tWJi0+2fFhyGu6K7anwItN7qmzgNFwQRTMS1l0rcpfFoDtHKFvhpGcfPhzcezx7iYu9U2ZkQWU8vK4GnkjxKsRA9XKnjl6WHJ9LsD156+/XNURASCAh0YyTPfsRSKPlDiG/mK6YV4riHbZ54JPFPfx8bsvu1SgnrlDul5Vebz9XVQl9xztqOb901czT6hxRGkNuShG6vTSwQtvUTnJ/jNl9kco1f1+RDV26evRqEwSxAuxhqbsZwNQ8+YympQwh5HRwgrfoJUrtgPrAwj/qP+MT0MPwgRExoJyS0bpvN/nRxFBfMPyMAO0LhDUL4PpBNp3/PCwne8U7kWV5oN8iWfDsoX40OITc=;AoGxXd0jGzt3+oyXTxzkIQ=="
 ---

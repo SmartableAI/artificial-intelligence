@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Educated Yet Amoral: AI Capable Of Writing Books Sparks Awe"
-excerpt: "GPT-3, as Californian company OpenAI's latest AI language model is known, is capable of completing a dialogue between two people, continuing a series of questions and answers or finishing a Shakespeare-style poem."
-publishedDateTime: 2020-09-02T13:24:00Z
-originalUrl: "https://www.ibtimes.com/educated-yet-amoral-ai-capable-writing-books-sparks-awe-3039027"
-webUrl: "https://www.ibtimes.com/educated-yet-amoral-ai-capable-writing-books-sparks-awe-3039027"
+title: "Educated yet Amoral: AI Capable of Writing Books Sparks Awe"
+excerpt: "An artificial intelligence technology made by a firm co-founded by billionaire Elon Musk has won praise for its ability to generate coherent stories, novels and even computer code but it remains blind to racism or sexism."
+publishedDateTime: 2020-09-02T15:44:00Z
+originalUrl: "https://www.courthousenews.com/educated-yet-amoral-ai-capable-of-writing-books-sparks-awe/"
+webUrl: "https://www.courthousenews.com/educated-yet-amoral-ai-capable-of-writing-books-sparks-awe/"
+ampWebUrl: "https://www.courthousenews.com/educated-yet-amoral-ai-capable-of-writing-books-sparks-awe/"
+cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/educated-yet-amoral-ai-capable-of-writing-books-sparks-awe/"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Courthouse News Service
+  domain: courthousenews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/02/gpt-3-can-solve-some-mathematical-problems-express.jpg"
-    width: 1024
-    height: 754
+  - url: "https://i2.wp.com/www.courthousenews.com/wp-content/uploads/2020/05/AP20122280127481.jpg?fit=2500%2C1667&#038;ssl=1"
+    width: 2500
+    height: 1667
     isCached: true
 
-secured: "A7s1pEtFCHI6ZUrKu+XO/mBQt5GzL6hVslIzVBuL93ZNQ9mTupNtzv9+Six3VWp5tWRjfzPsZNDQqQoQ3UZSO2Nod66zgX7GyN4MturHUB5oJqNbo7Y/DKW23L/bYhHyKlOMivvqNcIljxykNr6GSlV/H3hZAhCJ1SKVuQRHjwfy1qOrOxl3O1Nn2WDAkAw1tezZcf1bbiW+0wolDXp5kXcQHra7JpVRVTu+ItO4E72cUcZ/x9pVR2vObDkjk7waHuMr9OUk1Sz2aF2AA1GTPG/jgmjB3wkAjQwWlBzJcNTAhjdfX6kxGSa23QLeU1tI9WPw3V8/sy5452lA3qTH9LJLsjjGchiXDQU5vcg6Yng=;fkSf5kMP89Cn+4S1kqskYg=="
+secured: "QtvmiQs53bIsKVLK3msjkPVYZR8WOMeJUoHdhcBXZHTDL+CNaDMrMZR6bSHt4jHmTqolazrENdA8gxkvwXvSm77YqtnTz+xTQSBTnYZIut1ijwvjEfJFlZGyU6MHJBj0t34WCkkKJyXKtfoO8ufuW6okg9tAU6XnW70vJrpFfacp8Lxc9eE5lR46SrtKYTqDSZ4RsNt6qLHp/Eq/GpkuTsbOf+BLUAvfzWufkSKM1lkEoKHzKHOlxQZy/wPhaYVIPtm6pP6wc612h/FBw6MY085DDEDSXNKpTwcKtxalwX9HmrmoqOGtpeTie6Zzov290EuReMpm+UrW9Pip4w2LLUaZroYp8FVURDZMYjnLrDA=;THmWSgRkMEUAlMmDAK3drA=="
 ---
 
