@@ -70,48 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Platform Market Trend, Technology Advancements and Global Demand 2020-2025"
-    excerpt: "The report provides a detailed assessment of the 'Global Artificial Intelligence Platform Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
-    publishedDateTime: 2020-09-02T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-trend-technology-advancements-and-global-demand-2020-2025-2020-09-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Marketing Market: Industry Analysis and Opportunity Assessment 2021-2024 | Impact of COVID-19 Pandemic"
-    excerpt: "Artificial Intelligence in Marketing Market Research Report, by Application (Ad Optimization, Content Curation),"
-    publishedDateTime: 2020-09-03T07:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-industry-analysis-and-opportunity-assessment-2021-2024-impact-of-covid-19-pandemic-2020-09-03?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI-Based Fever Detection Camera Market 2020 Trend By Products And End Users, Forecast Till 2026 | Fortune Business Insights™"
-    excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe global AI-based"
-    publishedDateTime: 2020-09-03T10:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2020-trend-by-products-and-end-users-forecast-till-2026-fortune-business-insightstm-2020-09-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automated Material Handling Equipment Market Incredible Possibilities, Growth Analysis and Forecast To 2025"
     excerpt: "Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence, wireless technologies,"
     publishedDateTime: 2020-09-01T07:23:00Z

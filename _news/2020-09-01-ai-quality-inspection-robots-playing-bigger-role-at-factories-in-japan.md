@@ -36,11 +36,11 @@ related:
         height: 600
         isCached: true
   - title: "Japan looks to AI as coronavirus challenges go-and-see quality control mantra"
-    excerpt: "At a factory south of Japan's Toyota City, robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionise mass production in the 20th century."
-    publishedDateTime: 2020-08-31T03:37:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-factory-idUSKBN25R0CP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN25R0CP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0CP"
+    excerpt: "Improvements in artificial intelligence (AI ... Since the breakthrough, Poliakine’s startup SixAI and Musashi Seimitsu have established MusashiAI, a joint venture which develops and hires ..."
+    publishedDateTime: 2020-08-31T03:40:00Z
+    webUrl: "https://ca.reuters.com/article/technologyNews/idCAKBN25R0CP-OCATC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/ca/idCAKBN25R0CP-OCATC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/ca/idCAKBN25R0CP-OCATC"
     type: article
     provider:
       name: Reuters

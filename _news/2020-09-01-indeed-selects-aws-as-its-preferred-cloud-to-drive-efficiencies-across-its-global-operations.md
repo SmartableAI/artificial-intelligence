@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Indeed Chooses AWS as Its Preferred Cloud"
+    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), announced that Indeed, an online job site, has selected AWS as its preferred cloud, the company said. As part of the multi-year agreement, Indeed will migrate more than 30 petabytes of data to AWS,"
+    publishedDateTime: 2020-09-03T12:58:00Z
+    webUrl: "https://financial-news.co.uk/indeed-chooses-aws-as-its-preferred-cloud-2020090306580/"
+    type: article
+    provider:
+      name: Financial News
+      domain: financial-news.co.uk
+    quality: 19
 
 secured: "tlXapMuww1QPFfFK7D0mGdKG5k9K/3ocmyEJUFbY3BwEXzsE19LCc5qRHaDbOXVZUViFKrT4QiXTLCC4Ed2SLViIMjSLFCO/9d7OWFXR3prToCK9qspW+iM9i/KoOjXLylci986aYSVthjrckfij5z9+p916GMz9vDCUCFRfq0mCl0ACr4K+k+2r9/V/OgOZQaRBWh8rDOKNUN1DcBus6Uz4D9Gfw1vgaxbc/XDmoNvhc+AhjqaEDum7Ax/yfVN3oOq9uw1+qxxpIfFxBVQsz6o63bf2E1KmOUenYpGCj0TCJtY0vN01KWIn/A3gOjwK/tdcAM7kPKWr8UnGezOlhtWs2J97xlfZbdQFpkix3wU=;04fUqbgWzJdaTfU3JBsPMQ=="
 ---

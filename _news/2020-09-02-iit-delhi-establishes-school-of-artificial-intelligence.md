@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/iit-delhi-establishes-school-of-artif
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: India Education Diary
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "IIT-Delhi launches School of Artificial Intelligence; course to begin from Jan 2021"
+    excerpt: "The Indian Institute of Technology (IIT) has established an independent \"School of Artificial Intelligence\" (ScAI) that will begin PhD programme from January 2021. The AI school aims to cement IIT Delhi's leadership position on the global map of Artificial Intelligence On the launch of the school of AI,"
+    publishedDateTime: 2020-09-03T10:06:00Z
+    webUrl: "https://www.businesstoday.in/technology/news/iit-delhi-launches-school-of-artificial-intelligence-course-to-begin-from-jan-2021/story/415054.html"
+    ampWebUrl: "https://m.businesstoday.in/lite/story/iit-delhi-launches-school-of-artificial-intelligence-course-to-begin-from-jan-2021/1/415054.html"
+    cdnAmpWebUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/iit-delhi-launches-school-of-artificial-intelligence-course-to-begin-from-jan-2021/1/415054.html"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 53
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/iit_delhi_505_030920032400.jpg?size=1200:675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IIT Delhi Establishes School of Artificial Intelligence, PhD Program To Begin From January 2021"
     excerpt: "Delhi has established an independent 'School of Artificial Intelligence (ScAI)' on its campus. The School of Artificial Intelligence (ScAI) aims to cement IIT Delhi’s leadership position in India and improve its global standing."
     publishedDateTime: 2020-09-02T08:47:00Z

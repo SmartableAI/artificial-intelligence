@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/"
 type: article
 quality: 89
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -166,6 +166,20 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
+  - title: "Rafael, AnyVision shareholders in talks on facial recognition JV"
+    excerpt: "Israeli artificial intelligence driven computer vision company AnyVision are in advanced talks about setting up a joint venture in the military-defense sector. The new company would be jointly owned 50-50 by AnyVision's shareholders and Rafael."
+    publishedDateTime: 2020-09-03T13:36:00Z
+    webUrl: "https://en.globes.co.il/en/article-rafael-in-talks-with-anyvision-on-facial-recognition-jv-1001341588"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 39
+    images:
+      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/32E3CB40D76BD6BD8CBFB16E23FF2264_800x392.20180506T111644.jpg"
+        width: 800
+        height: 392
+        isCached: true
   - title: "Commission will ‘not exclude’ potential ban on facial recognition technology"
     excerpt: "The European Commission has not ruled out a future ban on the use of facial recognition technology in Europe, as the EU executive mulls the findings of a recent public consultation on Artificial Intelligence."
     publishedDateTime: 2020-09-03T10:01:00Z

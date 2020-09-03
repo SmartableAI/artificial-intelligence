@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Japan looks to AI as coronavirus challenges go-and-see quality control mantra"
-excerpt: "At a factory south of Japan's Toyota City, robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionise mass production in the 20th century."
-publishedDateTime: 2020-08-31T03:37:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-factory-idUSKBN25R0CP"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-factory-idUSKBN25R0CP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN25R0CP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0CP"
+excerpt: "Improvements in artificial intelligence (AI ... Since the breakthrough, Poliakine’s startup SixAI and Musashi Seimitsu have established MusashiAI, a joint venture which develops and hires ..."
+publishedDateTime: 2020-08-31T03:40:00Z
+originalUrl: "https://ca.reuters.com/article/technologyNews/idCAKBN25R0CP-OCATC"
+webUrl: "https://ca.reuters.com/article/technologyNews/idCAKBN25R0CP-OCATC"
+ampWebUrl: "https://mobile.reuters.com/article/amp/ca/idCAKBN25R0CP-OCATC"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/ca/idCAKBN25R0CP-OCATC"
 type: article
 quality: 86
 heat: -1
@@ -126,6 +126,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 19
 
-secured: "gs/B4ItOeQWHYok25SEMxhSC+zSFHUSh0gU2FhWUcYhIPprGjCUMxw2y5mxMdGFRPPcPgwgoIMkJ+kyoM85jqOyFiS7V7z7MjJoYrcbms00sDTVcu/UJKka8LaS9Nuynh9oDBBmnlS/WyRx4qA3F6Q1hOzZGQr3u7ps3+6Pie/ItT9eQfaJEhRh8tpYSCzLRVQGbJ9K69ebfP8GB/SvVVFYrBdVmKCaX3jCdJK+28WDSW6TLtiQ6EWKV3qhDFtpeO0RHTM+OWtTxoKUmRTcS/hcntqa4xZ64XIHg78nXYCKstn8tdG6YhyFr6Iww4b7DL6illwE6GMvLzsqKVUAf4OZPmlNGA1AOjHZlfvwxeWm3DcUNmyw7aK94m4lRg5uFnpV9XHTyld7g6g7y6bM7QUk0ovImco+1FI2DYSRrLQUAcRDi54BHkb2uwTzluNAG2LtNPdDao/XzujJiZA+0egtQSMC+fyZKJK41DJXdW4s7vtYD19s9VV3+Dm/9jbAVw2SPygspUXq50hbdng24FA==;xWMFgkVdq8G8hD1jg8cFiA=="
+secured: "Ui7vncJPjn9ho1IWJ0sVrSDHwVR6pukIRz1ntLEUTPSmgURfbBWxJAhGRlyoYk1fDPvV/aXUmxCq8aZGAalMo/rweevtOnBr79cm2s2CrvTPxECJlfc5yTIDX+VWCw8zbxu+G9BzqZeRrQNT67LwY85prblndSlVXIO/9Y7kBPJ5RGRg26P/h3w+oGpPsNKKf8ZB4aJU4+3EAPlGosTS4sVn6o9Ye4dq0dPF/Bo1msnM82oKqJTpu+LL01OO1vrSe6QXxx1pKl4Vu5tuvI4ZPsJ0ajE8eCqY0WJq6xHhU/Fm5DssYb46F8d1Y0I9gyw40vLI8jUK2JMb+pAzBviuQD5IDANpXJw9duUO2dxGQ90=;DAhRa2IIlY3FYJcrghM+aQ=="
 ---
 

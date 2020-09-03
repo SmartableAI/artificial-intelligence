@@ -9,7 +9,7 @@ ampWebUrl: "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-p
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 615
     height: 384
     isCached: true
-
-related:
-  - title: "Elon Musk’s latest startup wants to implant computer chips inside the human brain"
-    excerpt: "Elon Musk isn’t content with electric cars, shooting people into orbit, populating Mars and building underground tunnels to solve traffic problems. He also wants to get inside your brain."
-    publishedDateTime: 2020-08-29T20:13:00Z
-    webUrl: "https://www.staradvertiser.com/2020/08/29/breaking-news/elon-musks-latest-startup-wants-to-implant-computer-chips-inside-the-human-brain/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 34
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2020/08/web1_10372849-9e392b49320d4cbbbd0f72035a3bde43.jpg"
-        width: 760
-        height: 507
-        isCached: true
 
 secured: "oA7n2PWpZIsttyeF0DR65rbHM/Tv4BPx/0fyAO86Dhv/KlgcTOZSLHdkHhxUC8/aa2npFX8TruV22gQUYrqbDmWk4j7MN+k02QMADeeOBk79Ev/3sP5TcBD9OhLa55KcDDx6EBI9vDY7Fg9KFabVCUW544KKcY5q1xE0SLcJwJycnERUO3fBXU3wSIEVJ/mlH0+EI5MAJxkS8cim48c/KRmktfumVwEtje5a1/l4TqOQ0zrS58BFergOuvXpqQW9HOASLrwUPbcrQQAcTwb1PaQ4MfyhLk+FtHHXJ7LrRevu68jRc26OswelpI9NXmfA33vmQalEGCEWj7RJkFtYnygJO6wh/IDAqexW2pU1mE5F/NZDXkM9O39bXZzzT3GuWsyrhtfj5yEW0110lZOwty3bmQPvqPbMh9NLc8Rma4uMTGbIC326LqAXBZUeDcl5kwkWR7z34w5xVxN5KIM1vJ7gpJ80Jxnc2qVOvPD5/lTy289MvE8WqsnGyWNYblHTuTU7ZyvPqpm7j8LAUySq82uOcXwuoE+OdXKF/UFLZUc=;TvAQZwD582yCK3JhvTQIow=="
 ---

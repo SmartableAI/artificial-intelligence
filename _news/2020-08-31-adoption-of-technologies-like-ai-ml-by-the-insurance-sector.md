@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/355541"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/355541"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "IPC and GreenKey Technologies Launch Dictation as a Service"
+    excerpt: "Dictation as a Service brings together GreenKey Technologies' industry-leading cloud-based speech recognition (automatic speech recognition) and natural language processing (NLP) engine with IPC's unparalleled Connexus Cloud financial ecosystem."
+    publishedDateTime: 2020-09-03T13:20:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ipc-and-greenkey-technologies-launch-dictation-as-a-service-301123920.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/741264/GreenKey_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
 
 secured: "dUd6Lpa09C8fzed/A2C/uLJ+0UVZXqhC25nFlPCr38xhlNKjcWovWocgwHAGhIMWsFJaTAP+yBCfogDlnPbiOwDmzH8QdZiod5vtLUj9u5KNidMi8bsyiLpdkrKBdijEeoZlHyaDHSvwmGaPVzK3soahd+qL8uMUut07mbVmvkQVyY7uAAmOTCy5FJFZW4G8oRhgu6KlPn5vChRImiiZk3FgfmbgV5fuwb2i9CDrveTpfFkxcOezNRTxyYXyNi19MwAuBRWTZdB/YeznghiHMJqj55UIsmYRZRrR9e4KdiL8A3q8c5PL1P3MplvOSGa4wA598xtxfw5SOZR6cQSDz7RVCbA0GMwhhlIZzrNkhG7crmeRPKgIqB/9uE/AV0uUwUNh7MbouSkt6N565WdEJnkVBplLFxXQQuqnqAWqXJL1GrKdpFaLuAorRI3V/BVlPDw9gFKymhXGJkWUd9rYl+yCxYnKhm7kzdO6ldCXf0Sj9+wW6LX98w9SzfiZPfCB4tZcao+ibE3s0Y7EhvCgpfpdmRUWnh2XD9XqonZHtIE=;+xzDpWAHj2MaE63myTB6Kw=="
 ---

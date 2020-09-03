@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "New Federal Govt Tool Helps Track Self-Driving Vehicle Testing Efforts Across US"
+    excerpt: "The National Highway Traffic Safety Administration (NHTSA) on Wednesday released an online tool to let improve the availability of public information surround the testing of"
+    publishedDateTime: 2020-09-03T08:14:00Z
+    webUrl: "https://www.benzinga.com/government/20/09/17363138/new-federal-govt-tool-helps-track-self-driving-vehicle-testing-efforts-across-us"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17363138"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17363138"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/david-von-diemar-zbwn5dvo0hg-unsplash_0.jpg"
+        width: 5456
+        height: 3284
+        isCached: true
 
 secured: "JWI5jZel3bI316+yfMrIAtJQJp/9NVlZmoAGGUhBOIR0gYQL1DyLf+8j6Y3K+qn/Gjbx/+HxOvHMCRVyPCHJWIrFmNP97k0X+T1X/g277QKKv5gyMK8rEMn3T7yh4UauOKlO/hgdbQ+FjlMR2TBXlK8txjwbwjzN83fP478kjrAiNxN3zGOLfo2nAiE5Ax8ysUxB+X5b/FaidlP7KMbsyU1A9ljwdVAsnSedfnfp7DwqV3FP3WSPctvujVODqGVcPXvowN/Y4XXHZ7dqKh7ZPlCvfpgagrbhumEcPuR6r/5I61SgywM3mGFF+2GG7DBPwmyeyBP0MhZI+U3qdwsrYCEJhCSoUcJyTqixJKNzNHOVOrxIlTYObyxQmoF2XK6RCLDDCBhVEA8dwrx0eKiVXE8uG/KSKAKKd88y3c+AGknGY8OuN8KiwR/QxUNMW87mObJJnOlLoQZRkhEcyH+mrAXvB+RxJKWzCtXsctSY1a5t0F3gnw+YfCNkjnttMnLFu9d0WG8p49RxotA5blNe39raWDlh7eCHvi093xDdQ/A=;PTkk0xo2098q1HQ8K5qhqw=="
 ---

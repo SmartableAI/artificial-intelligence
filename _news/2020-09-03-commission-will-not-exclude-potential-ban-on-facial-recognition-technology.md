@@ -177,6 +177,20 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
+  - title: "Rafael, AnyVision shareholders in talks on facial recognition JV"
+    excerpt: "Israeli artificial intelligence driven computer vision company AnyVision are in advanced talks about setting up a joint venture in the military-defense sector. The new company would be jointly owned 50-50 by AnyVision's shareholders and Rafael."
+    publishedDateTime: 2020-09-03T13:36:00Z
+    webUrl: "https://en.globes.co.il/en/article-rafael-in-talks-with-anyvision-on-facial-recognition-jv-1001341588"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 39
+    images:
+      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/32E3CB40D76BD6BD8CBFB16E23FF2264_800x392.20180506T111644.jpg"
+        width: 800
+        height: 392
+        isCached: true
   - title: "Taxpayer criticizes Fayette School Board for buying facial recognition cameras"
     excerpt: "A public speaker at the Aug. 24 meeting of the Fayette County Board of Education took issue with the recent decision to purchase thermal imaging/facial recognition cameras to be installed"
     publishedDateTime: 2020-08-30T21:17:00Z
@@ -279,6 +293,6 @@ related:
         height: 270
         isCached: true
 
-secured: "q8wJXl0OfASargPPyq3XOdq9Vnlv1c+/LgYyoVTUiyol5bVfRgzCfaTbopG+5RLALpfaRZ8mjgxVLGGA7gPC5t+in7AjgLviHpRlXOcBZ6nLMXSsFmy8+JiX1YpMART+7rU1xBmnlfBmz3+sRX8ljFDOl6kNlFmjjin5A0XDS0uKW+/ZpAmXy5bSTylVGXtyDKdkxh0nUFPoCNx5imC+hRZs+FC7xY4QCZP2+zGv5py52aERjKHGWU6vl6Rh5rY330lWxBOb3dxVDM8buyqS1a/eEQS2DsqG7o9S0rzd17WPWGCy4Kbp6t2T2l5muexMeV/OTNyYNOmrQ2fEomeG+0hHZnXJUUDul2xK/TQs5BM=;fRPEFyeK2TqRk4gpxSIySQ=="
+secured: "7vnKxMuGhCx0lY/aiE1OZSoSigByEx+y/wZlUThmBX2VvZnKPT2Q3FfT9qGgUUMyhWDnCqbFsx7Mo0CfCZ7gVkdpmuyxuvqLEM9ksqdDhcM1dR6YYSUazF5Em5nm2hpMh4K/pdpqAG1cseAuUO3X3vwPIngy3NGjYuDWCZqZGJUfkQ5Vio4E5tvGREJxTuFr2kPEXM9AWviCCJiV2mrzLEWtwv2vK3/PX4MJqp+r8EVkIfIgiQOprMgpsOBoaQ5PWW1YmhCh1jEMtwQDUb/yKTe1ESJy9S4tkM+LSZidalNEAOhEd3Wy4dPa9MtqC/x6XTl6b/CRmHLkbbji36x/VM9Y8hRPJ37d82awMfT0pRkVJGZ4WL892ZjcFGMxpNfRGJdKm6WBy6eJNhVGTtjhWhr2/XrT1Mlcc0k7DeVNwzh8e6sXoQwFlZk0P6USgqxtAdZqgRaRfDrfCHkjQFLO6owgjkJ1obQM1aS5QtulWLAj7XF/X2hMZHoTLlN9rdAJnkNl9EG66UmHj2Fe+sgQE1Q56VCG2k1VL4yy9wAh3/Y=;snse+VeExVQYC2tdWZCz9g=="
 ---
 

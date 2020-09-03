@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Covid-19 Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 - Dynamics, Trends, Revenue, Forecast to 2026"
+    excerpt: "Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 ndash Dynamics Trends Revenue Forecast to 2026"
+    publishedDateTime: 2020-09-03T11:59:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266288531/covid-19-impact-on-global-artificial-intelligence-education-technology-market-analysis-2020---dynamics-trends-revenue-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 4
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1599124582181.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "iXsmGtDUEQdUld8duxr9L/Q0aZ5vjpeE5d7USMW94MywR9+4Yx7feH+wEvso9jgy6Cr4Je3+BX8k9sGe0wjMdjimatXbs8fgIBiIVbCSNXLs+gzK9DWzqkwgRinhLieue7yntVNQBLMZbs/rOYfDbi0+OROVywMp/4Da9/Ac/xbVf4L+UVoEfwCHyxwsMupbWzB8MKYBuWVzBKets+OVzdty7v1+HGykyZVDGnG9Tr4ODEZXnZYPRtHcgtN9mz3vxYo1AHvxEQr3d+t9U2jh/4uJYBaARKixflnd7ShrvOoYNpubqkGQHA6rTDrFQnKx6DM24Ajs3DgZ/OjdFUphe/XcrixHJZnIH8E5AXreis+S2S3KuIzlwZdhypWcarW1ROJoAd3qDMHJldvL1ZpCIrO4aakqv+l8HtILYz/QZ/wlS+O8GoAna2ujltxeO+QgIvdKK6F48q6GDTaZ9fk1vgpkVJx91mFLp6OgNKtq6dewDmWsemD+dUA84NxM/7+Ck5vqEoRrEWUv2sEDS7LtVc54PCjxMEWd2qZTByBxYqg=;Bd/M2oqI6JBiVklXzH12Sg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/medical-robots-market-20
 webUrl: "https://www.marketwatch.com/press-release/medical-robots-market-2020-global-size-share-regional-trends-and-2026-forecast-2020-08-26?tesla=y"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
     quality: 5
     images:
       - url: "https://cdn.bignewsnetwork.com/cus1598939951736.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Covid-19 Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 - Dynamics, Trends, Revenue, Forecast to 2026"
+    excerpt: "Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 ndash Dynamics Trends Revenue Forecast to 2026"
+    publishedDateTime: 2020-09-03T11:59:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266288531/covid-19-impact-on-global-artificial-intelligence-education-technology-market-analysis-2020---dynamics-trends-revenue-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 4
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1599124582181.jpg"
         width: 630
         height: 420
         isCached: true

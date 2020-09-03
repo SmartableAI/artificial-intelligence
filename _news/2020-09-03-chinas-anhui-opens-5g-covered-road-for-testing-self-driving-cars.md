@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "What coronavirus means for the future of self-driving cars"
+    excerpt: "It's 2025 and driverless cars still aren't zooming around everywhere. Where are the chilled out passengers on their phones, or napping, as an invisible \"driver\" navigates a crowded intersection? They're still mostly stuck in the backseat as a human driver shuttles them around."
+    publishedDateTime: 2020-09-03T12:00:00Z
+    webUrl: "https://mashable.com/article/autonomous-vehicles-2025/"
+    ampWebUrl: "https://mashable.com/article/autonomous-vehicles-2025.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicles-2025.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 74
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F09%252F03%252F6f%252Fa6d4e4206f524273a456c835e927fc6a.f164f.jpg%252F1200x630.jpg?signature=Gkxu5UScrquIxeAET3ZxIXak-BE="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "China opens 5G-covered road for testing of self-driving cars"
     excerpt: "A 5G-covered road for testing self-driving cars was formally opened in Baohe District of Hefei City, east China’s Anhui Province on Thursday"
     publishedDateTime: 2020-09-03T10:57:00Z
@@ -56,6 +72,6 @@ related:
         height: 733
         isCached: true
 
-secured: "XdRFgMnf9C9piS0Jw2HUY0LuF4rfbb61R5RDDfXHdjeYTTfO/TwiUfGO48pkKFH8WVyYkiQb/x4dsW7UdrWzKQqAy7vOxeYqDlaeJ4Qg8nk10Va7578/kTo4yWGxj6Z9xuIBtlHQlO8je4pw1GQNkQdgyJZ4ntV6JH2XwTeBaMsWTqY2t11Oh+1nSAZi2Cib5334YhBQsBvsKJQxIxtuI4ythLLZFQdE0/Vbobc0GPL5XX2zTsSSCRiuSHkvLYHrXg5RqyvmBqzqleIrbp/DXar1tS20qZRcIwoOlz4ayVxOygqg9qA+ju1NMrfC+Trq4qHEEzzIk5GHgoVWvGNCjywvc32AFSZUutbLZFHGcu4=;C0etMM62XvlRTdw412Dz3g=="
+secured: "KdX3vgGghbWi53s61jAljiJwfQEeYgE3iCkBhMJVAzPRqrUPZH9zSrbkQP3DVhCqw0SxUFj79z63TjZ922XACEcuTGRNKIXek8b8gH+LIhNTtUpFCtu7TebTAiJKoAcfR0HuU0CkJpyzRwI74rEyljYTwNEzze3fk3sGKxjV7ekg8FUohMyfX/Qe7qdoWtCKDPSm2I1VRQqPndRZ1wodXoKBdAgtXQLZreWY8xbiaHcbhezScqCCEPMz3w5FsJHk6WrbFnJaLrPbYSOCwjIeHje+0FGLCQx5gIXS9YbDSpc0sJIqJ7k+sZxVhKrap/PYuMxBKwHY7Wsi1zdRu2IYnyknxyEixFTQP8AV7XAXPhN6fogXFo5hCjWiCsERue/e6EB+NPUyKiVsn8aRI0lpeHhkg/GUmcYOKaQbgHzkMRA4BpWyZ/iGL3kCOj1M/ZVhaWtgBbACt61YJ04w9HwUWO9gLyV/m3DEM4dxk6W2Na6leSPuP2uW5aL4vsIi1aFElPS+KWtEHMbTopnWnAjg6ur4DqDwszh90Mrl8Bexx1Q=;oAo45UOG3gnwSzUIqZyeVw=="
 ---
 

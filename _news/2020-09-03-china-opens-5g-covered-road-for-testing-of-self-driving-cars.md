@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vanguardngr.com/2020/09/china-opens-5g-covered-road-for-
 cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/09/china-opens-5g-covered-road-for-testing-of-self-driving-cars/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "What coronavirus means for the future of self-driving cars"
+    excerpt: "It's 2025 and driverless cars still aren't zooming around everywhere. Where are the chilled out passengers on their phones, or napping, as an invisible \"driver\" navigates a crowded intersection? They're still mostly stuck in the backseat as a human driver shuttles them around."
+    publishedDateTime: 2020-09-03T12:00:00Z
+    webUrl: "https://mashable.com/article/autonomous-vehicles-2025/"
+    ampWebUrl: "https://mashable.com/article/autonomous-vehicles-2025.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicles-2025.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 74
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F09%252F03%252F6f%252Fa6d4e4206f524273a456c835e927fc6a.f164f.jpg%252F1200x630.jpg?signature=Gkxu5UScrquIxeAET3ZxIXak-BE="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Uber Vows Better Disclosure of Safety Data on Self-Driving Cars"
     excerpt: "Uber Technologies Inc. vowed to make public more safety information regarding its self-driving cars after the National Transportation Safety Board placed"
     publishedDateTime: 2020-08-31T05:11:00Z
@@ -56,6 +72,6 @@ related:
         height: 426
         isCached: true
 
-secured: "oyyieAJhU6RLjaY/qWLy7kFDFKWvGR4go3/TnDnRVn5Rl79gmHIGT3uvBRtCz9a34iME89j91YnumZ8zy+QDDkc5xOXC4M/WS1LLBlAIL2Gi9ur86pRPjYRJpsBQ90iLyvaoOsPCE3n5CmbzhNQRJOrZq4Nx1hOti57HWK6IXsq0pwwujkCYSOYM7G+8eFDGzmGXYn8PPYai7Cw0lKikEmHskg8JIzC4rgoXbilKvgwSrHuplOX2tL34UXCWKg3ezSuMo7/Gc2fhhhOuZodoNWQ/fj5BjwSHKe7JU5AJeddOkXJ8zuwvrcimfrbMLTMcTTXYfdWmRMIMOiLC2/UyLR4Vn6+aekxSV8ffddVAGDI=;wMLILDJ9WkJq/vhfx/gVKw=="
+secured: "l7enSHac+m9M+rQwPBinkz2irNNG8LuwSprclkvRHo6eKPV9H56ThcH7kIFW2Jh1WRkizr41bi3i84kUzV0m+WqcBVpq4CROudK7SR5jhK2nyr2Mr89s6pP2TATZnLCQHiXa2tv2KIiiTeDLhKZwuhhRKPJJ5xKgo0v24/zb4cCn2zcQrsp+h/GDIepeMVRVu7kWVngm8JKOoQy0maWN+9nAHHdFLJDwwsJekGmbIuJizK8a7HkKzMuHnNytSssqrybPjpbTOwLB4XTKScaG6nUXJyPhubJcgyholosxxSDkJ+Jf9IjUwQehEa4UgSyRCJC4BVQt4w+Qodb/ER1uxUfkS+1UtIl3q1D/i64koG5croAhUrYkDAG0Mgg3TcvAIyYTm+hrIys9FdhxUndKwWCq6IXHYhKlMoG21zbN0ugEgup+Ha5mx0ZVgFXeH6rlW+4dpfVb+lxj7qfZ9FSgqLZ8pETzcO74C7Dz4IyR1YZYnS+yoS1QBRwEtBGPXD02vXl3IwWSgy6TOdzIkPZOd12f1WcPFvlO2N1m9ciY510=;Kz7qlxeoHFbQLyIxFzYuag=="
 ---
 

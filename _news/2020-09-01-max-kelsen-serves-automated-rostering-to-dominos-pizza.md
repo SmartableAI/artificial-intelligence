@@ -3,8 +3,8 @@ category: news
 title: "Max Kelsen serves automated rostering to Domino’s Pizza"
 excerpt: "Max Kelsen has “taken out the guesswork” of staff rostering for Domino’s Pizza using Amazon Web Services’ machine learning technology."
 publishedDateTime: 2020-09-01T04:46:00Z
-originalUrl: "https://www.arnnet.com.au/article/682585/max-kelsen-serves-automated-rostering-to-dominos-pizza/"
-webUrl: "https://www.arnnet.com.au/article/682585/max-kelsen-serves-automated-rostering-to-dominos-pizza/"
+originalUrl: "https://www.arnnet.com.au/article/682585/max-kelsen-serves-automated-rostering-domino-pizza/"
+webUrl: "https://www.arnnet.com.au/article/682585/max-kelsen-serves-automated-rostering-domino-pizza/"
 type: article
 quality: 24
 heat: 24
@@ -40,6 +40,6 @@ related:
         height: 281
         isCached: true
 
-secured: "psDTPTXR5UBFobcr75pyWo/sPgDeJ3VFi/EZJhX2mrazKxJmel2iZ8XY3Q68m6pobGvNHKN4s3W6aZxjhGA/dv6CFTuL5UsWX9DlJCf5n4AFFQUvSe8XqQxYn1q33yEmtXILTHEe5ciX2akiaYN/lwp3ZN81GAt1EoZT3jRP11P0moZUF7mpVl4suVwKlOt+VtWO41QG4KLGzgiDeeac71G9CkSkzMkUSY7ZstHwwO031iLxZf/2SCLPblRAEsVUnlg8Xk4j2mjXf8L/qN39ajC3cqdD2VfmvNPDR2/FfQL2L8RgGxf/VtHIRySDqPRt9bmOF7XGY+ZtHC6ERCyQKu1FvYUGuVCEQuLjsaaArxg=;/j0doNH/3g4fDYQrw48fUA=="
+secured: "wvKB5ZE244AZJM7cFUzRVnMPAYIrW+cLnh/Tg8cEwwvtsqzawK7eAZddRSOfyc071Fr2JP+1VqENhWYueL4Z2RgupJAV8x7JT6VBFlWKRLzWqstyyH8UjVu2qx50oeSpFHYfLIXoDCL6q3oUsMeUKbK436a2Wt7EXjz5+e1K97QIGMIVRQJjmdmpfAw/MzWJrI7B7HSSYOUARTQRyz+Gl7umcq9ENRlUz968GAeQodDQulF/3lshklBkRGtc+QauMvIEpWPmpR8H+xWF4h8iOG2iiAFw3rbrqtKmtRDhFbZ+m40gVKOXcuF+BDWoiJORnG3ZEeSEoWcmRf9TMddgNMh9+U/0Ji16BiDaAPjh8IY=;uzvrTqW90frGGwJ0pRfU9Q=="
 ---
 

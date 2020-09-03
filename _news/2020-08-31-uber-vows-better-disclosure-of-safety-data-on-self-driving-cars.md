@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "What coronavirus means for the future of self-driving cars"
+    excerpt: "It's 2025 and driverless cars still aren't zooming around everywhere. Where are the chilled out passengers on their phones, or napping, as an invisible \"driver\" navigates a crowded intersection? They're still mostly stuck in the backseat as a human driver shuttles them around."
+    publishedDateTime: 2020-09-03T12:00:00Z
+    webUrl: "https://mashable.com/article/autonomous-vehicles-2025/"
+    ampWebUrl: "https://mashable.com/article/autonomous-vehicles-2025.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicles-2025.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 74
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F09%252F03%252F6f%252Fa6d4e4206f524273a456c835e927fc6a.f164f.jpg%252F1200x630.jpg?signature=Gkxu5UScrquIxeAET3ZxIXak-BE="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "China opens 5G-covered road for testing of self-driving cars"
     excerpt: "A 5G-covered road for testing self-driving cars was formally opened in Baohe District of Hefei City, east China’s Anhui Province on Thursday"
     publishedDateTime: 2020-09-03T10:57:00Z

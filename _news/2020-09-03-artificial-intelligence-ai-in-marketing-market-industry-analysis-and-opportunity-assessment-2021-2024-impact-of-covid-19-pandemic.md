@@ -28,43 +28,43 @@ images:
     isCached: true
 
 related:
-  - title: "Global Edge AI Chips Market 2020 Industry Key Player, Trend and Segmented Data, Demand and Forecast by 2025"
-    excerpt: "Global Edge AI Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 includes an overview of the basic industry information, business development, market size, and share scenario."
-    publishedDateTime: 2020-09-02T03:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025-2020-09-01"
+  - title: "Artificial Intelligence in Retail Market Advancements and Business Opportunities 2020-2025"
+    excerpt: "The report provides a detailed assessment of the 'Global Artificial Intelligence in Retail Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
+    publishedDateTime: 2020-09-03T11:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-advancements-and-business-opportunities-2020-2025-2020-09-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Chip Market Trends, Opportunities & Revenue Share Analyzed during 2019-2025"
+    excerpt: "Facto Market Insights has skillfully compiled this latest research report titled Artificial Intelligence Chip Market, to its wide online repository. This assessment focusing on the artificial intelligence (AI) chips market would deliver precise insight about different market factors such market size,"
+    publishedDateTime: 2020-08-31T17:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-trends-opportunities-revenue-share-analyzed-during-2019-2025-2020-08-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fintech Market Innovations, Technology Growth and Research 2020 to 2025"
+    excerpt: "The report provides a detailed assessment of the 'Global AI in Fintech Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape, deployment models,"
+    publishedDateTime: 2020-09-03T09:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-innovations-technology-growth-and-research-2020-to-2025-2020-09-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Edge AI Chips Market 2020 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2025"
-    excerpt: "Global Edge AI Chips Market 2020 by Manufacturers, Type and Application, Forecast to 2025 aims to deliver an expert and inside and out examination of the industry status and outlook of the market. The report mainly focuses on the accurate and primary analysis of business growth statistics,"
-    publishedDateTime: 2020-09-02T05:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2025-2020-09-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Insights By Size, Share, Future Growth And Forecast From 2020-2025"
-    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected to reach USD 191.60 billion by 2025, growing at a CAGR of 36.68% over the forecast period."
-    publishedDateTime: 2020-08-31T12:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-insights-by-size-share-future-growth-and-forecast-from-2020-2025-2020-08-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Security Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 – 2025"
-    excerpt: "Artificial intelligence in cyber security will increase efficiency and precision of the system to observe any potential threat in organization's system. Organizations increasing their horizon to completely different geographies are generating voluminous data to realize insights and are using analysis techniques to enhance their product offerings."
-    publishedDateTime: 2020-09-01T07:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2025-2020-09-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI-Based Fever Detection Camera Market 2020 Trend By Products And End Users, Forecast Till 2026 | Fortune Business Insights™"
     excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe global AI-based"
     publishedDateTime: 2020-09-03T10:17:00Z
@@ -112,19 +98,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automated Material Handling Equipment Market Incredible Possibilities, Growth Analysis and Forecast To 2025"
-    excerpt: "Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence, wireless technologies,"
-    publishedDateTime: 2020-09-01T07:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-incredible-possibilities-growth-analysis-and-forecast-to-2025-2020-09-01"
+  - title: "Artificial Intelligence in Government: Global Markets 2020-2025 - ResearchAndMarkets.com"
+    excerpt: "The Artificial Intelligence (AI) in government market was valued at US$4.904 billion in 2019. In recent years, government in different countries are taking a keen interest in artificial intelligence (AI) technology."
+    publishedDateTime: 2020-08-31T17:28:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200831005637/en/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+      name: Business Wire
+      domain: businesswire.com
+    quality: 28
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mms.businesswire.com/media/20200831005637/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
-        height: 630
+        height: 627
         isCached: true
 
 secured: "zJb+SsFRnsmv+kesCBtrU4MwKRAhlnW6KleiN+/7QbcEgLgEJlUMb10s/WoC59jfr8pG8LEUjgR7IdORlkhcAppOuJ3yVNwsEV3UxqZURRH5qOa6BBIpADDdWoIveeeqfzELnzXNX+v4oq6VnK3VW2UzLGzHlaT2f48rbHgR1oNOfD9nqMJ01lu5d8QKRm43G5e7FxCQgkPfh4cBzOXqRCYDXXEzGmaelh/kdK0U5IYPPGEQ9cPDcyGRH67NU/etfe0agXntXsh2LArI6F0gUYrxNOh20UvwT5f0HMnA86JvsYQBBeIFuReRicl6Fy/5WRZSnSbOZlxWLq7kTs+rH52H2xwPgZi/gv5MQaL86DA=;MnwfopPKSrxCFao7iDH0CA=="

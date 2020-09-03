@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "More Businesses Are Using AI to Drive User Experiences"
-    excerpt: "Companies like TransUnion and Buffalo Jeans get improved sales, smarter marketing, improved IT uptime and more."
-    publishedDateTime: 2020-08-31T22:08:00Z
-    webUrl: "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences"
-    ampWebUrl: "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences?amp"
+  - title: "The next generation of NLP: how new capabilities empower businesses to make data-informed decisions"
+    excerpt: "Language is constantly evolving &#8211; it shifts to meet the changing dynamics of our society. The business world is no different &#8211; it has its own vernacular that evolves in response to new innovations, changing consumer expectations and world events. The language of business is documented in"
+    publishedDateTime: 2020-09-02T08:00:48Z
+    webUrl: "https://www.ibm.com/blogs/watson/2020/09/the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions/"
     type: article
     provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 61
+      name: IBM
+      domain: ibm.com
+    quality: 88
     images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202008/BT_Q320-Feat-Wong-AI-HERO.jpg?itok=MC6JSjke"
-        width: 1440
-        height: 500
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/social-tile-2.png"
+        width: 990
+        height: 448
         isCached: true
 
 secured: "gqoh9k8I01fMAuYGzl7L7Pf9m4mzYpDf1MmEKozAkdlX+WwE9DG52d1mxPZQVw5KSCK7RbJpF7iBVUEmC+WFzqICDoXdKRhb4ofzTuzja3CnDQetJjEOUUP8gfvgdWmVuITvLZIqNOycaYw4knd+y2VlOP/Z4NZhttYsHO4z2ANuOdIZMM04yUR1I14TcopeW+P/VwsV9LWQnI5IeeH31mYqR/iOP3ZLZ+4cXG0e8MQOEOcurqmaOr/W9hfafy1HOY+8+2aPGbQ4Nij6LY7YFE6CkzXaLNsNlR6yPkZSijzQQJt4a0HliQT6j+lSbxEGfSs004j3IX0CJba8z8qlAn7Lpa5+zwiyqc5g9O37934=;YqfMyN5M6CZB+yzvT/VF+A=="

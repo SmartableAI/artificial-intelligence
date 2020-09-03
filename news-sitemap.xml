@@ -1,8 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.cnet.com/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/</loc>
+    <lastmod>2020-09-03T08:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.entrepreneur.com/article/355736</loc>
+    <lastmod>2020-09-03T07:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.engadget.com/google-maps-deep-mind-ai-accuracy-140005698.html</loc>
+    <lastmod>2020-09-03T07:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/</loc>
+    <lastmod>2020-09-03T06:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video</loc>
+    <lastmod>2020-09-03T06:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722</loc>
+    <lastmod>2020-09-03T05:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/alexanderlavin/2020/09/03/doing-the-hard-things-ai-space-and-climate-science/</loc>
+    <lastmod>2020-09-03T05:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/</loc>
+    <lastmod>2020-09-03T05:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://mashable.com/article/autonomous-vehicles-2025/</loc>
+    <lastmod>2020-09-03T05:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/roadshow/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/</loc>
     <lastmod>2020-09-03T04:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-advancements-and-business-opportunities-2020-2025-2020-09-03</loc>
+    <lastmod>2020-09-03T04:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -33,12 +93,6 @@
   <url>
     <loc>https://www.engadget.com/qualcomm-snapdragon-8cx-gen-2-073041304.html</loc>
     <lastmod>2020-09-03T02:52:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-innovations-technology-growth-and-research-2020-to-2025-2020-09-03</loc>
-    <lastmod>2020-09-03T02:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -151,6 +205,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wsj.com/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674?mod=hp_lead_pos1</loc>
+    <lastmod>2020-09-02T09:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/</loc>
     <lastmod>2020-09-02T09:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -247,14 +307,20 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave-11599033123889.html</loc>
-    <lastmod>2020-09-02T01:51:00-07:00</lastmod>
+    <loc>https://indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/</loc>
+    <lastmod>2020-09-02T02:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities</loc>
     <lastmod>2020-09-02T01:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ibm.com/blogs/watson/2020/09/the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions/</loc>
+    <lastmod>2020-09-02T01:00:48-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -469,12 +535,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences</loc>
-    <lastmod>2020-08-31T15:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://mobile.twitter.com/bradporter_?lang=en</loc>
     <lastmod>2020-08-31T13:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -489,12 +549,6 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-sharepoint-online-connector/</loc>
     <lastmod>2020-08-31T12:14:31-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-trends-opportunities-revenue-share-analyzed-during-2019-2025-2020-08-31</loc>
-    <lastmod>2020-08-31T10:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -799,6 +853,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html</loc>
+    <lastmod>2020-08-28T08:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/</loc>
     <lastmod>2020-08-28T07:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -891,12 +951,6 @@
   <url>
     <loc>https://www.forbes.com/sites/ilonalimonta-volkova/2020/08/28/all-is-fair-in-mortgage-lending-and-fintech/</loc>
     <lastmod>2020-08-28T03:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/press-release/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator</loc>
-    <lastmod>2020-08-28T03:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1609,14 +1663,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-11598339825477.html</loc>
-    <lastmod>2020-08-25T00:55:00-07:00</lastmod>
+    <loc>https://theenterpriseleader.com/2020/08/23/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-29-4.html</loc>
+    <lastmod>2020-08-25T00:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://theenterpriseleader.com/2020/08/23/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-29-4.html</loc>
-    <lastmod>2020-08-25T00:45:00-07:00</lastmod>
+    <loc>https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174</loc>
+    <lastmod>2020-08-25T00:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3613,8 +3667,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions-301112004.html</loc>
-    <lastmod>2020-08-13T09:31:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/08/n17075029/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-</loc>
+    <lastmod>2020-08-13T09:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3739,8 +3793,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/video/singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai/</loc>
-    <lastmod>2020-08-13T01:30:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/article/singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai/</loc>
+    <lastmod>2020-08-13T00:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/20/09/n17360142/venga-global-exp
 ampWebUrl: "https://amp.benzinga.com/amp/content/17360142"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17360142"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Partnering with NSF on human-AI collaboration"

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered Startup SenseHawk Raises $5.1 Mn In Series A led by Alpha Wave Incubation"
+    excerpt: "SenseHawk, a cloud-based company that leverages AI to solve challenges in the development, construction and operation of solar sites, has raised USD 5.1 million as part of its Series A round led by Al"
+    publishedDateTime: 2020-09-03T14:39:00Z
+    webUrl: "https://www.entrepreneur.com/article/355736"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/355736"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/355736"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 80
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1599143906-solar.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "AI startup Entropik Tech raises $8 million in funding led by Alpha Wave"
     excerpt: "Entropik plans to utilise the funds to expand its presence to the US, European Union and South East Asia, and to deepen its artificial intelligence capabilities"
     publishedDateTime: 2020-09-02T08:51:00Z
@@ -39,34 +55,6 @@ related:
       - url: "https://images.livemint.com/img/2020/09/02/600x338/startup-kElG--621x414@LiveMint_1599035331905.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "AI startup Justpoint just raised $1 million in funding for its mission to reform the medical malpractice system"
-    excerpt: "Medical errors are currently the third leading cause of death in the US – and often result in financial ruin for survivors that try to sue."
-    publishedDateTime: 2020-09-03T11:29:00Z
-    webUrl: "https://www.businessinsider.com/ai-startup-justpoint-raises-1-million-in-seed-funding-2020-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-    images:
-      - url: "https://i.insider.com/5f50c57fe6ff30001d4e6cc4?width=1200&format=jpeg"
-        width: 960
-        height: 480
-        isCached: true
-  - title: "Emotion analytics startup Entropik raises funding from Abu Dhabi fund, others"
-    excerpt: "Entropik Technologies Pvt Ltd, an artificial intelligence startup focussed on emotion analytics, has raised $8 million (Rs 58"
-    publishedDateTime: 2020-09-02T11:30:00Z
-    webUrl: "https://www.vccircle.com/emotion-analytics-startup-entropik-raises-funding-from-abu-dhabi-fund-others"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 34
-    images:
-      - url: "https://assets.vccircle.com/uploads/2020/09/MrRanjanKumarCEOandFounderEntropikTech.jpg"
-        width: 810
-        height: 506
         isCached: true
 
 secured: "XnDzPyjrkh017cE6wk9gos5vcvj6ISeN0AEtrTEdFk1oESihwMhkOddZeQakrB4p22BalIcJYDBOQUEpEufgpLuITtnWsH/7wDZDilwyzHioXSQIkkhr8G+VFCPRfuBd+wZ66J0GZDjvesiHerkBIpxChqWT+9jp+hRBEFFMtXL/jnr7uYp1qL3dpVFV4Y+LssoWnnwUoMpbMFkpCqu/tcqzSB3CbZn+CsvYhYcAHSLDqIGUlPxcSrI43d8JdJ3FM5IUsM9EfaquMt4KRxFL5R36SIDfANMRU9JN2jNbonEDcj/QzQaq/rmIQMNzy6gL/M3o9Fi+p3qO0lVxZD+HFeJFghBsJaM8A+q7t8WqQSDHz8dZpfwpId2PPN4nZbIBVdH2XdN/UovlCpqUcUJCvmqwW+g9N7YM4anm2FgETYNNfpqp/4bsHMvaqnrXUzYiaHPNBFNDjO9balQmFYhZEdiax6Oqv2FmRE6W3oIiNS+ibe1DovQ0qmxe6YDbiYSxNHRLBumOqnLGBCY4i9JEdw==;KOzLb4tcCbnmKDrvjtGvYg=="

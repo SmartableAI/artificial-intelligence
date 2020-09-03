@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New Federal Govt Tool Helps Track Self-Driving Vehicle Testing Efforts Across US"
+    excerpt: "The National Highway Traffic Safety Administration (NHTSA) on Wednesday released an online tool to let improve the availability of public information surround the testing of"
+    publishedDateTime: 2020-09-03T08:14:00Z
+    webUrl: "https://www.benzinga.com/government/20/09/17363138/new-federal-govt-tool-helps-track-self-driving-vehicle-testing-efforts-across-us"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17363138"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17363138"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/david-von-diemar-zbwn5dvo0hg-unsplash_0.jpg"
+        width: 5456
+        height: 3284
+        isCached: true
   - title: "NHTSA's New Tool to Track Self-Driving Vehicle Testing on Public Roads Is an Interesting Experiment"
     excerpt: "Do you know if autonomous vehicle testing is taking place in your town? Unless you've actually seen cars with some weird equipment stuck to them, you probably don't have a clue. On Wednesday, the National Highway Traffic Safety Administration (NHTSA ..."
     publishedDateTime: 2020-09-02T20:57:00Z
