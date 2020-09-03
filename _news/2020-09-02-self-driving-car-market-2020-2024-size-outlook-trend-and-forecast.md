@@ -3,8 +3,8 @@ category: news
 title: "Self-Driving Car Market 2020 - 2024 / Size, Outlook, Trend and Forecast"
 excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
 publishedDateTime: 2020-09-02T08:10:00Z
-originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020---2024-size-outlook-trend-and-forecast-2020-09-02"
-webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020---2024-size-outlook-trend-and-forecast-2020-09-02"
+originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020---2024-size-outlook-trend-and-forecast-2020-09-02?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020---2024-size-outlook-trend-and-forecast-2020-09-02?mod=mw_quote_news"
 type: article
 quality: 54
 heat: 64
@@ -44,6 +44,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9CVeowlrdSphunQOOZK7vFaAANY0dARfSTdFuDFWNgCxWaMO5eJYCQHgfbCtlooPlSNwvjrx/+jYepvXKE7eCfdKd5TQSLAFEJc8HwkFhZJMM28NZscOH3z+26qlUdld4buOsIBW0/wacbUj+TQDjhNOi9LIodpXNPGg97a3peiVLQd+7TvIaJW3aZlneKFx5YFmLF7nsyxAxUCdPjFqsaDJV0lSWwb9v2vCwtssI0QNk96JfK43xVnPag7oB6sepBLQIShy+UJyP9xSK3ZYUvNBIisHq0REMwCm3K8s+rBkMfqikFmXxCV3GxwHezs095ystAse0qqk9fuo1b0R7wp/u9zdGwdAzUCczqtuFJ4=;NALrh5jwrdIBZP53lV/aUQ=="
+secured: "PCPN5XXj7SYVaJ0c9RYMBhONUqILieE158pKTV9pqVmA3lL5r0GR79b4fdFm9JkBXQlrsx7q/mDS8tEbJsg8b6D46JwXnkMC0YXp3Erc62QxczDVLyGyJWvzYH3E5QalOiLDhn0HqLelQcBHy4fMRoNXiC4JMT4d+SL3sgBBBMa8u8rMBebtSFMeFU9XnYEv/mfSgL7G35E+i7Qe3gL4dSF3FzsevPsUhOPwUk8sazbsoc68d2YBjpyJFcSfQEB3fTjAa+FckndwoRLsoaJ9ozIy6hrT2Ly/eLfpBxluORKM/B9d4zBn5kvqKPoylZUASNLkbiVZ/nFXFxadIEddsVO3Yn3oKni+7+4TLNxGbFo=;h5DdoK2+48knLh6dy7DpzQ=="
 ---
 

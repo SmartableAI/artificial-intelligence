@@ -55,6 +55,20 @@ related:
         width: 2700
         height: 1414
         isCached: true
+  - title: "Wealthfront Launches First Self-Driving Money(TM) Service"
+    excerpt: "Today, Wealthfront launched an exciting new service called Autopilot that automates a client's savings plan so they no longer need to manually"
+    publishedDateTime: 2020-09-02T14:58:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/wealthfront-launches-first-self-driving-money-tm-service/article_dbca2fcf-d5cf-591b-9216-e7cc084b8a55.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/c1/bc1c4695-33c8-5568-a5c3-80222475e4ca/5f4f9b87ed4c4.image.jpg?resize=400%2C400"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "StP7IvpwrLiRXeEGDB2h6sp7kmufsPR66jDAWDVupvZ56qM5EfYTgoA26sR15klWXiIso5dyH0hQ2wUd9M34npqGIZrDhkHZLu3cXIjdTmeWhP0S3brMtViMTfmj4bSQyw2Ki8lW3aEk6T50413qLq36LuxgWfnJRLeHFdkrGHYsN/tLRAg0YkuxeI+HSCe+iQSoRbM41WqIaC1xC+mFPdhE85zXTz/YqJ0aYB+97Jwmw3UnuoqWkWgIhAW9fzC4o2mqva8PzAK1VvNbCuurWoYbrXvIZ7HIa2O4KgGN8Waq3vVnes4E1lC+t/EDyF3WSfqbR1o2afmtu6FcOt4iqaP9qrElPZEMs30JqTi8IZCAYfwCqNUfsbtFsQ45OxYm5uOKUhtb5BFCqferIwarrQ2VPbw5cDVXUYmlV1v5GP2jH3bBiPgykxvSQTEjPvdFXpnXA3abOIJtX7YI1QEsdKHos8zTFV5du6n0VRZgtGjNHaaCTUmCHEx6oY1GKUtFGmt+bjlavIN2beq4BjCU4fprAkt8Ps56LcZ/sKfZ6AM=;P/FuHCtGMQwexVsSVCvCfg=="
 ---

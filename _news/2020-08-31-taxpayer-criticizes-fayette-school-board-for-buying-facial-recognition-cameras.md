@@ -176,6 +176,20 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
+  - title: "Commission will ‘not exclude’ potential ban on facial recognition technology"
+    excerpt: "The European Commission has not ruled out a future ban on the use of facial recognition technology in Europe, as the EU executive mulls the findings of a recent public consultation on Artificial Intelligence."
+    publishedDateTime: 2020-09-03T10:01:00Z
+    webUrl: "https://www.euractiv.com/section/data-protection/news/commission-will-not-exclude-potential-ban-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 38
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2020/09/shutterstock_1101332606-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Vanderbilt Proface X TD Facial Recognition Terminal with Temperature Detection"
     excerpt: "Powered by the ZKTeco-customized CPU for running the intellectualized engineeringfacial recognition algorithm and the latest computer vision technology, ProFace X [TD] supports both facial and palm verification with large capacity and rapid recognition ..."
     publishedDateTime: 2020-09-02T23:59:00Z

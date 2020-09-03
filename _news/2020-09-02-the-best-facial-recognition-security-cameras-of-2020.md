@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/"
 type: article
 quality: 89
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -166,6 +166,20 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
+  - title: "Commission will ‘not exclude’ potential ban on facial recognition technology"
+    excerpt: "The European Commission has not ruled out a future ban on the use of facial recognition technology in Europe, as the EU executive mulls the findings of a recent public consultation on Artificial Intelligence."
+    publishedDateTime: 2020-09-03T10:01:00Z
+    webUrl: "https://www.euractiv.com/section/data-protection/news/commission-will-not-exclude-potential-ban-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 38
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2020/09/shutterstock_1101332606-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Taxpayer criticizes Fayette School Board for buying facial recognition cameras"
     excerpt: "A public speaker at the Aug. 24 meeting of the Fayette County Board of Education took issue with the recent decision to purchase thermal imaging/facial recognition cameras to be installed"
     publishedDateTime: 2020-08-30T21:17:00Z

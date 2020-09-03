@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-03T04:11:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-outlook-size-share-and-growth-and-forecast-assumptions-through-2026-impact-of-covid-19-pandemic-2020-09-03"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-outlook-size-share-and-growth-and-forecast-assumptions-through-2026-impact-of-covid-19-pandemic-2020-09-03"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ topics:
   - AI in Robotics
   - AI in Healthcare
   - AI in Autos
+  - Facebook AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -40,20 +41,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Insights By Size, Share, Future Growth And Forecast From 2020-2025"
-    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected to reach USD 191.60 billion by 2025, growing at a CAGR of 36.68% over the forecast period."
-    publishedDateTime: 2020-08-31T12:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-insights-by-size-share-future-growth-and-forecast-from-2020-2025-2020-08-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/ai-startup-entropik-tec
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave/amp-11599033123889.html"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI startup Justpoint just raised $1 million in funding for its mission to reform the medical malpractice system"
+    excerpt: "Medical errors are currently the third leading cause of death in the US – and often result in financial ruin for survivors that try to sue."
+    publishedDateTime: 2020-09-03T11:29:00Z
+    webUrl: "https://www.businessinsider.com/ai-startup-justpoint-raises-1-million-in-seed-funding-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+    images:
+      - url: "https://i.insider.com/5f50c57fe6ff30001d4e6cc4?width=1200&format=jpeg"
+        width: 960
+        height: 480
+        isCached: true
   - title: "Entropik, Indian Startup That Uses AI To Read User Emotions, Raises Funds"
     excerpt: "Entropik Tech, a startup that specialises in facial recognition technology to interpret people’s emotion as they watch video and other media, raised $8 million in its fresh funding to strengthen its technology and expand its business."
     publishedDateTime: 2020-09-01T17:15:00Z

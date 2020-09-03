@@ -28,61 +28,103 @@ images:
     isCached: true
 
 related:
-  - title: "Medical Robots Market | 2020 Global Size, Share, Regional trends and 2026 Forecast"
-    excerpt: "The Global Medical Robots Market is likely to expand in the coming years due to advancements made in embedded systems. According to a report by Fortune Business Insights, titled “Medical Robots Market Size”,"
-    publishedDateTime: 2020-08-31T11:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/medical-robots-market-2020-global-size-share-regional-trends-and-2026-forecast-2020-08-26?tesla=y"
+  - title: "Global Edge AI Chips Market 2020 Industry Key Player, Trend and Segmented Data, Demand and Forecast by 2025"
+    excerpt: "Global Edge AI Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 includes an overview of the basic industry information, business development, market size, and share scenario."
+    publishedDateTime: 2020-09-02T03:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025-2020-09-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robots Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 - 2025"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
-    publishedDateTime: 2020-09-01T17:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2025-2020-09-01"
+  - title: "Global Edge AI Chips Market 2020 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2025"
+    excerpt: "Global Edge AI Chips Market 2020 by Manufacturers, Type and Application, Forecast to 2025 aims to deliver an expert and inside and out examination of the industry status and outlook of the market. The report mainly focuses on the accurate and primary analysis of business growth statistics,"
+    publishedDateTime: 2020-09-02T05:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2025-2020-09-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Outlook, Size, Share and Growth and Forecast Assumptions Through 2026 | Impact of COVID-19 Pandemic"
-    excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
-    publishedDateTime: 2020-09-03T04:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-outlook-size-share-and-growth-and-forecast-assumptions-through-2026-impact-of-covid-19-pandemic-2020-09-03"
+  - title: "Artificial Intelligence Platform Market Trend, Technology Advancements and Global Demand 2020-2025"
+    excerpt: "The report provides a detailed assessment of the 'Global Artificial Intelligence Platform Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
+    publishedDateTime: 2020-09-02T09:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-trend-technology-advancements-and-global-demand-2020-2025-2020-09-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Speech & Voice Recognition Market 2020 Share, Size, Global Trend, Market Analysis and Forecast to 2026"
-    excerpt: "WiseGuyRerports.com Presents \"Global Speech & Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2025\" New Document to its Studies Database. Mark"
-    publishedDateTime: 2020-08-31T20:10:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266262784/global-speech--voice-recognition-market-2020-share-size-global-trend-market-analysis-and-forecast-to-2026"
+  - title: "Artificial Intelligence (AI) in Marketing Market: Industry Analysis and Opportunity Assessment 2021-2024 | Impact of COVID-19 Pandemic"
+    excerpt: "Artificial Intelligence in Marketing Market Research Report, by Application (Ad Optimization, Content Curation),"
+    publishedDateTime: 2020-09-03T07:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-industry-analysis-and-opportunity-assessment-2021-2024-impact-of-covid-19-pandemic-2020-09-03?mod=mw_quote_news"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 5
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1598939951736.jpg"
-        width: 630
-        height: 420
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Security Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 – 2025"
+    excerpt: "Artificial intelligence in cyber security will increase efficiency and precision of the system to observe any potential threat in organization's system. Organizations increasing their horizon to completely different geographies are generating voluminous data to realize insights and are using analysis techniques to enhance their product offerings."
+    publishedDateTime: 2020-09-01T07:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2025-2020-09-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI-Based Fever Detection Camera Market 2020 Trend By Products And End Users, Forecast Till 2026 | Fortune Business Insights™"
+    excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe global AI-based"
+    publishedDateTime: 2020-09-03T10:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2020-trend-by-products-and-end-users-forecast-till-2026-fortune-business-insightstm-2020-09-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automated Material Handling Equipment Market Incredible Possibilities, Growth Analysis and Forecast To 2025"
+    excerpt: "Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence, wireless technologies,"
+    publishedDateTime: 2020-09-01T07:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-incredible-possibilities-growth-analysis-and-forecast-to-2025-2020-09-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ICS2AgiY4Ayo+5PX2o/WbkM+3T/ihSqmdh9d9GPxJvJbjhvI09UVM+wvdDYCExEQhwLQUyMNqftbI64W1u7W1QtqERLqaTqTN4x7FdD520gtNlCT5fDhf7qM5Syl5lq0zIZb2Sg6JPIWzjb0imFYxiv/jJip5QyRE+FA09i/t0cf1S3eC0bGyuQQG/Z+YVKBkvWx2xED47iXlNogAoEoCM4ucfmHHJeM+aL4RDABlXptx3ptNfQZGuShaV0l+R3p1XOwng7udMsJX57XqnSu54OEjYQg4M5nxxtzdExKc8ccWdPa5gxVLmuDlT6P2+6euEVNnwlYDEny6zNrS0o66jzaNijWcYh4EZ1huN8LnYI=;vHKrUD6HI7DEH0GuzmP+BQ=="

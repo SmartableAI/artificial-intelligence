@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "NASA’s impressive new AI can predict when a hurricane intensifies"
+    excerpt: "NASA has developed a machine learning model that, in tests, predicted when a hurricane will intensify more accurately than an existing operational model."
+    publishedDateTime: 2020-09-03T10:35:00Z
+    webUrl: "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-03T103620.842-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "NASA scientists develop AI to predict hurricane strength"
     excerpt: "A team of scientists, including those at NASA’s Jet Propulsion Laboratory, has developed an artificial intelligence algorithm to predict the rapid intensification of tropical storms and"
     publishedDateTime: 2020-09-02T21:07:00Z

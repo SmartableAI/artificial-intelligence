@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-trends-opportunities-revenue-share-analyzed-during-2019-2025-2020-08-31"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Retail Market Advancements and Business Opportunities 2020-2025"
+    excerpt: "The report provides a detailed assessment of the 'Global Artificial Intelligence in Retail Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
+    publishedDateTime: 2020-09-03T11:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-advancements-and-business-opportunities-2020-2025-2020-09-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Qdk236U6d/5ZlsEPVEh7quShmAXFbwl6gqUSV7j96DwUy/AWnm7MVd22uMFgEQqxhw1oTvGss7f85N5895LGHd+yg5w9DEjWbiUZpm6o2tfh9RJw4DGAhc6zYcDL3ezp07107GbaJ795Qr6WK8eAmZHaeuQs5QQaq3yVYpsM1LP7VqhUH54KXf0snJ13fxCtJQAH0YoAaLNmr8fGrR2guL62detcGGeVn25IVK7++LVZMkyny93Z9P903K+0psebhqMrm8f+yjKEX7+7rITSSfdFQdLBzlP68FW7fYVLctSs6XkOMdN566Ddo9tg6WbKwnswPKK0qz+M0oa4SJCD4s9K8WrPEWkORXk2Gwe/EFM=;Zanwa/1SdrOaPpCuhGqcnw=="
 ---

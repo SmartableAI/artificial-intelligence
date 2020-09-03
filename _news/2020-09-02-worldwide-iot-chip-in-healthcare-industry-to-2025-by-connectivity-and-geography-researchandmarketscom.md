@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "North American Artificial Intelligence in Diagnostics Market 2020-2026 - ResearchAndMarkets.com"
+    excerpt: "The North America Artificial Intelligence in Diagnostics Market is expected to witness market growth of 26.6% CAGR during the forecast period (2020-2026). “North America Artificial Intelligence in Diagnostics Market By Diagnosis Type (Radiology,"
+    publishedDateTime: 2020-09-02T10:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200902005500/en/North-American-Artificial-Intelligence-Diagnostics-Market-2020-2026"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+    images:
+      - url: "https://mms.businesswire.com/media/20200902005500/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Opportunity Outlook: European AI in Social Media Market 2020-2025 - Natural Language Processing (NLP) Expected to Dominate - ResearchAndMarkets.com"
     excerpt: "The European AI In Social Media Market is expected to grow at a formidable rate during the forecast period. The European AI In Social Media Market is driven by the utilization of the AI technology for effective advertising campaigns on different social media platforms."
     publishedDateTime: 2020-09-02T11:29:00Z
