@@ -42,6 +42,20 @@ related:
         width: 710
         height: 399
         isCached: true
+  - title: "SoftBank leads $136m investment in health start-up"
+    excerpt: "SoftBank Group led a US$100 million (S$136 million) investment in Biofourmis, a software start-up that predicts problems for patients with heart conditions.. Read more at straitstimes.com."
+    publishedDateTime: 2020-09-03T21:56:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/softbank-leads-136m-investment-in-health-start-up"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 22
+    images:
+      - url: "https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "JF2Th6KHFzmaJGAVyHfcPqdPRLD7oVd+iie6Y3e43P5Lh5RwYwtvJI153hHfgywSZWF6jiwkWARYCSXn1VxwFX/rP6KrynSixiXWNAq586tu0vzQ6OwpudENPHuOJtR5lidxE0cU3CKOY9wRmWQfDdf67z8PENcXOUwNue7d3lieObRxQXOzWl1d0ML2l9oEZHRf9H/KLFLKIHKieBA3rJBmhQ5o+/ETgCpvS4UmS7dzsHOe8luk0Ep/Yr1NDMOtWA0YvfEbPi8IB4eFSV5EW2oG8vvWDevJzuNzmxHJalXpzVpeRIZfBXPkV0ES0WwGC3m5ORL90Q2sBO6UdwSyjqYTGbJWRzKuTBMDXkCdy4Y=;0Wwa/OzChO/AMhi9psUYMg=="
 ---

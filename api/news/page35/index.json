@@ -2,6 +2,55 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-08-06-infermedica-scores-10m-series-a-for-its-ai-driven-diagnosis-and-triage-platform.md",
+      "title": "Infermedica scores $10M Series A for its ‘AI-driven’ diagnosis and triage platform",
+      "excerpt": "Infermedica, the Poland-founded health tech startup that offers an AI-driven platform for preliminary diagnosis and triage, has raised just over $10 million in Series A funding. The round is led by the European Bank for Reconstruction and Development (EBRD) and digital health fund Heal Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/06/infermedica/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/Visuals_Screenshots_03-Symptom-Checker-Chatbots.png?w=680",
+          "width": 680,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/06/infermedica/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/06/infermedica/amp/",
+      "publishedDateTime": "2020-08-06T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-ai-models-need-to-be-interpretable-rather-than-just-explainable.md",
       "title": "AI models need to be ‘interpretable’ rather than just ‘explainable’",
       "excerpt": "Apple ran into trouble after customers pointed out on Twitter that its credit card service was discriminating against women. David Heinemeir Hansson, the creator of Ruby on Rails, called Apple Card a sexist program.",
@@ -1080,55 +1129,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-zencity-raises-135-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data.md",
-      "title": "Zencity raises $13.5 million to help cities aggregate community feedback with AI and big data",
-      "excerpt": "Zencity, a platform that meshes AI with big data to give municipalities insights and aggregated feedback into the thoughts and opinions of local citizens, has raised $13.5 million in a round of ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Platform_angle_full.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/amp/",
-      "publishedDateTime": "2020-08-05T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

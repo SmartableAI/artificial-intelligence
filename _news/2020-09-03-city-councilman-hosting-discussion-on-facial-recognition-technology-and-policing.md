@@ -117,6 +117,22 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "The TSA Is Testing Self Service Facial Recognition Technology in Pilot Program"
+    excerpt: "The Transportation Security Administration (TSA) has begun testing a self-service facial recognition system in Washington, D.C., to verify traveler IDs and flight information."
+    publishedDateTime: 2020-09-03T21:57:00Z
+    webUrl: "https://www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service"
+    ampWebUrl: "https://www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service?amp=true"
+    cdnAmpWebUrl: "https://www-travelandleisure-com.cdn.ampproject.org/c/s/www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service?amp=true"
+    type: article
+    provider:
+      name: Travel + Leisure
+      domain: travelandleisure.com
+    quality: 55
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F09%2F03%2Ftsa-security-checkpoint-FACETSA0920.jpg"
+        width: 1800
+        height: 938
+        isCached: true
   - title: "Concerns about facial recognition system being set up by police"
     excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
     publishedDateTime: 2020-09-01T00:44:00Z

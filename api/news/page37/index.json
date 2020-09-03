@@ -2,6 +2,46 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-08-04-ai-helps-doctors-fight-covid-19-in-brazil.md",
+      "title": "AI Helps Doctors Fight Covid-19 in Brazil",
+      "excerpt": "Under-testing remains a huge problem in the sprawling South American country, but AI is helping fill the gap, thanks to a system called RadVid-19 developed using algorithms from German company Siemens and Chinese firm Huawei. Brazil has been hit harder by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/04/Virus.Favela-scaled.jpg?fit=2560%2C1707&#038;ssl=1",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/",
+      "publishedDateTime": "2020-08-04T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-aicomputer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection.md",
       "title": "AI/Computer Vision Startup Led by Industry Veterans Revolutionized Sewer Inspection",
       "excerpt": "SAN FRANCISCO, Aug. 4, 2020 /PRNewswire/ -- SewerAI, a startup that uses artificial intelligence and computer vision to inspect, identify and analyze sewer infrastructure defects before they reach catastrophic levels, announced that it has secured $2 ...",
@@ -1124,58 +1164,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-syntiant-raises-35-million-for-ai-speech-processing-edge-chips.md",
-      "title": "Syntiant raises $35 million for AI speech-processing edge chips",
-      "excerpt": "Syntiant, a startup developing AI and machine learning edge hardware for voice processing, has raised $35 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/004990b4-5a1a-4216-8477-e262b957b5ab-e1596485443668.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/amp/",
-      "publishedDateTime": "2020-08-04T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Natural Language Processing",
-        "AI Hardware"
       ]
     }
   ],

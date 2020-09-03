@@ -2,6 +2,56 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-08-24-artificial-intelligence-market-research-report-2019-2026.md",
+      "title": "Artificial Intelligence Market Research Report 2019-2026",
+      "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the reportincludeIBMCorp(NYSE:IBM),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2019-2026-2020-08-24?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-23T23:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-data-science-startup-dataiku-raises-100-million-to-keep-growing-its-ai-enablement-software.md",
       "title": "Data Science Startup Dataiku Raises $100 Million To Keep Growing Its AI Enablement Software",
       "excerpt": "Instead, he hopes enterprises will turn to Dataiku’s web-based software to take themselves on the path to artificial intelligence. The New York City startup on Monday announced that it had raised $100 million in a Series D round led by Stripes and Tiger Global Management.",
@@ -1066,47 +1116,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-darpa-chip-effort-advances-ai-hardware.md",
-      "title": "DARPA Chip Effort Advances AI Hardware",
-      "excerpt": "The Defense Advanced Research Projects Agency’s Electronics Resurgence Initiative (ERI) includes development efforts aimed at AI hardware components",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2020/08/21/darpa-chip-effort-advances-ai-hardware/",
-      "originalUrl": "https://www.datanami.com/2020/08/21/darpa-chip-effort-advances-ai-hardware/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/brain_chip_shutterstock_Zapp2Photo.jpg",
-          "width": 1000,
-          "height": 644,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-21T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

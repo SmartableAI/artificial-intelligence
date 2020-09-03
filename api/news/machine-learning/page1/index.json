@@ -1009,6 +1009,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-25-microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service.md",
+      "title": "Microsoft introduces Hindi, Indian English to Neural Text-to- Speech service",
+      "excerpt": "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech for a more natural interface.The service also provides customizable voices, fine-tuned auto control, and flexi",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-11598339825477.html",
+      "originalUrl": "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-11598339825477.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/08/25/600x338/2020-08-03T164404Z_5_LYNXMPEG720HH_RTROPTP_3_MICROSOFT-TIKTOK_1596761246173_1598340721227.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp-11598339825477.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp-11598339825477.html",
+      "publishedDateTime": "2020-08-25T00:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-how-the-human-machine-workforce-is-being-accelerated-by-covid-19.md",
       "title": "How The Human + Machine Workforce Is Being Accelerated By COVID-19",
       "excerpt": "Human + Machine partnerships are becoming even more critical and seeing greater investment and adoption as Covid-19 forces companies to innovate and digitally transform businesses faster to stay profitable and meet customers where they are.",
@@ -1360,48 +1401,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-deepracer-womens-league-to-help-women-develop-machine-learning-skills.md",
-      "title": "DeepRacer Women’s League to help women develop machine learning skills",
-      "excerpt": "The Amazon Web Services DeepRacer Women’s League in Southeast Asia aims to give more women the opportunity to develop or fine-tune their machine learning skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "originalUrl": "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jakpost.net/c/profile/picture/235/235.png",
-          "width": 475,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "publishedDateTime": "2020-08-20T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jakarta Post",
-        "domain": "thejakartapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

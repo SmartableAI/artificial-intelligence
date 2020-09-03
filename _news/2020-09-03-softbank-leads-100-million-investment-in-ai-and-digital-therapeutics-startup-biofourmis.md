@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/katiejennings/2020/09/02/softbank-leads
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/09/02/softbank-leads-100-million-investment-in-ai-and-digital-therapeutics-startup-biofourmis/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.businessinsider.in/thumb/msid-77907124,height-275,width-412,imgsize-391765/business/startups/news/softbank-vision-fund-2-leads-a-100-million-funding-in-this-indian-founders-global-healthtech-startup/kuldeep-singh-rajput-ceo-biofourmis.jpg"
         width: 412
         height: 275
+        isCached: true
+  - title: "SoftBank leads $136m investment in health start-up"
+    excerpt: "SoftBank Group led a US$100 million (S$136 million) investment in Biofourmis, a software start-up that predicts problems for patients with heart conditions.. Read more at straitstimes.com."
+    publishedDateTime: 2020-09-03T21:56:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/softbank-leads-136m-investment-in-health-start-up"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 22
+    images:
+      - url: "https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "DuTPUDGqciZHOi8aIf2psoDf9FfC7VMGlpehVclNIVZh7e1ILQImtYYNeiUxh3IXYoGgrA0kn0sglf5UwUZUZPMDGvMsnTSIX5YMi3//M/lN0SnN0cfdKLWmWLyGppEaj7nApizYIkElKD+DialSA/hUFJB26V5aqrwJ9M8Sj/tIdPTDgCnj9jDf0GBXMHUSUXYevnQDLHuCTZqb+c4vYtcKP7bt3amPSPe2Bn5n80Zi77G/SQ2sEnD5RWcSvqc62Jc4HcXIj96txNpoxUopwtUR4LQxixogkX8Jq0N4R79hki0YFRiShhGrp8g0UK3oDLp7LkHuStvMcIFgilaTdfeLg3awbTro16cKM2xet1MXrtXJ/D692TPInRZnzU0W7hNGWB3Um0/8lgsm5RxihTjXlWfG+5BqFTJhyeSUSehkLqPXcYfhVDb4P+sw55QJzdeHSEt503hBo8731HXCAwvzWqRUiz6187hBSi2VsaoQhNRPV8OJZLb/hQZ1sIx2G/XEIhArMaYAzwrt/t6QWg==;619EkyTA9SNHJoBYrQQMeA=="

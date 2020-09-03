@@ -41,20 +41,6 @@ related:
         width: 650
         height: 370
         isCached: true
-  - title: "Self-driving shuttles try virus-killing UV rays to assure riders"
-    excerpt: "A pair of self-driving car startups are offering a solution to commuters shunning shared transportation in the midst of a pandemic: ultraviolet rays."
-    publishedDateTime: 2020-08-30T05:00:00Z
-    webUrl: "https://www.decaturdaily.com/business/self-driving-shuttles-try-virus-killing-uv-rays-to-assure-riders/article_da4a1235-23d0-5575-99b3-0f848a442575.html"
-    type: article
-    provider:
-      name: Decatur Daily
-      domain: decaturdaily.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/decaturdaily.com/content/tncms/assets/v3/editorial/e/77/e778db08-85cb-564c-a7ef-ee4c9ecc5649/5f49865acba8e.image.jpg?resize=839%2C630"
-        width: 839
-        height: 630
-        isCached: true
   - title: "Wealthfront Launches First Self-Driving Money™ Service"
     excerpt: "Wealthfront launched an exciting new service called Autopilot that automates a client's savings plan so they no longer need to"
     publishedDateTime: 2020-09-02T12:59:00Z

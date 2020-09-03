@@ -2,6 +2,47 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-08-26-microsofts-immersive-reader-for-azure-cognitive-services-is-now-available.md",
+      "title": "Microsoft’s Immersive Reader for Azure Cognitive Services Is Now Available",
+      "excerpt": "Immersive Reader is now generally available for Azure Cognitive Services following a significant increase in usage of the preview.",
+      "sourceUrl": null,
+      "webUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/",
+      "originalUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/",
+      "featuredContent": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2020/05/Translate-Microsoft-Edge-Immersive-Reader.jpg",
+          "width": 741,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp",
+      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp",
+      "publishedDateTime": "2020-08-26T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech.md",
       "title": "Robotaxi Startup Voyage Loads Self-Driving Vans With Coronavirus-Killing Tech",
       "excerpt": "The self-driving company that provides ride services for senior citizens is outfitting autonomous minivans with an ultraviolet lighting system adapted from ambulances.",
@@ -1116,57 +1157,6 @@
         "AI in Healthcare",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-michael-kanaan-the-us-needs-an-ai-sputnik-moment-to-compete-with-china-and-russia.md",
-      "title": "Michael Kanaan: The U.S. needs an AI ‘Sputnik moment’ to compete with China and Russia",
-      "excerpt": "Minus AI,” Kanaan calls attention to the need for the U.S. to wake up to AI as a matter of global power, in the same way that China and Russia have.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/",
-      "originalUrl": "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/tminus-ai-cover.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/amp/",
-      "publishedDateTime": "2020-08-25T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

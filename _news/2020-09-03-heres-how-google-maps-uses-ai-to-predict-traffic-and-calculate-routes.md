@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/heres-how-google-maps-uses-ai-t
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106141279-1568997651067rtx73nqw.jpg?v=1584104359"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "How Google Maps predicts traffic slowdowns before they happen"
+    excerpt: "Google said Google Maps now uses DeepMind AI technology in its algorithms “to better predict whether or not you’ll be affected by a slowdown that may not have even started yet.” Aside from ..."
+    publishedDateTime: 2020-09-03T21:59:00Z
+    webUrl: "https://bgr.com/2020/09/03/google-maps-features-waze-incident-reports-deepmind-ai-eta/"
+    ampWebUrl: "https://bgr.com/2020/09/03/google-maps-features-waze-incident-reports-deepmind-ai-eta/amp/"
+    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/09/03/google-maps-features-waze-incident-reports-deepmind-ai-eta/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 44
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2020/08/google-maps-vs-waze-navigation-apps.jpg?quality=70&#038;strip=all"
+        width: 1599
+        height: 1066
         isCached: true
 
 secured: "TTjRZlJdkRLP8XCtnHK5dkQi/VXc35djUV2rhFg6I4qDfZjm8Mu8MKjUveo8JI1yLUlqLyEe6FT5PaXps4+Ln+kdbbx9FgR74j9l4dfByiG+KBvlqkuumrWiTfryPpXw71P8sA0ch92tCvFtCYDNPQzxdW4RzflHg0l7BFPnRX6rgmT2ToQQIBFNGgcgZvLIyeZ1cevRTXF359I/Zgy7VRNF5iTeWJNKWSF01hhLkBMgNE+kMQqLj1cYb8aJgIBkY7aQwQhGF+Vrx6UnxdVONH4Wbph0Mn2uyoh8Tx37PRMf7Ske2CWeaJuNLm/FQJVZzbBcNNHnhSm/VxrxGzGa4oCVpkz/flWY3LNEE9Hsrqrvu1BA3ySK/s+N57UNvFMV+3moR4PQzHETn8c4MK9XvGMSOSUP9vRFJk7wQId0EMcSbk9pHOExTMLxGbNcJSSkEjgbtDCtx22/mBlOMqM+Zx8WEmvyTLbsF4kWWTGEMJeVc2Ex0tXCcVECiPC1GKqc+S3MP3RGAAU6E2yAWf6rf6LLkqAAbOVGH5chyyZr/4M=;tVc9e5hLaCn2bRy+CW2Wdg=="

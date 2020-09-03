@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/</loc>
+    <lastmod>2020-09-03T14:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03</loc>
     <lastmod>2020-09-03T12:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1184,7 +1190,7 @@
   </url>
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921</loc>
-    <lastmod>2020-08-27T06:00:00-07:00</lastmod>
+    <lastmod>2020-08-27T05:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1321,8 +1327,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-1029536911</loc>
-    <lastmod>2020-08-26T08:51:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin</loc>
+    <lastmod>2020-08-26T09:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1759,14 +1765,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://theenterpriseleader.com/2020/08/23/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-29-4.html</loc>
-    <lastmod>2020-08-25T00:45:00-07:00</lastmod>
+    <loc>https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-11598339825477.html</loc>
+    <lastmod>2020-08-25T00:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174</loc>
-    <lastmod>2020-08-25T00:31:00-07:00</lastmod>
+    <loc>https://theenterpriseleader.com/2020/08/23/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-29-4.html</loc>
+    <lastmod>2020-08-25T00:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

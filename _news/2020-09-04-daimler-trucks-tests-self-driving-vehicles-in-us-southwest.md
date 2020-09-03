@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Daimler Trucks tests self-driving vehicles in New Mexico"
+    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics are expanding their testing of self-driving trucks to public roads in New Mexico along major long-haul freight routes."
+    publishedDateTime: 2020-09-03T21:29:00Z
+    webUrl: "https://www.kob.com/albuquerque-news/daimler-trucks-tests-self-driving-vehicles-in-new-mexico/5850651/"
+    ampWebUrl: "https://amp.kob.com/articles/daimler-trucks-tests-self-driving-vehicles-in-new-mexico-5850651.html"
+    cdnAmpWebUrl: "https://amp-kob-com.cdn.ampproject.org/c/s/amp.kob.com/articles/daimler-trucks-tests-self-driving-vehicles-in-new-mexico-5850651.html"
+    type: article
+    provider:
+      name: KOB 4
+      domain: kob.com
+    quality: 59
+    images:
+      - url: "https://www.kob.com/KOB_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "New Federal Govt Tool Helps Track Self-Driving Vehicle Testing Efforts Across US"
     excerpt: "The National Highway Traffic Safety Administration (NHTSA) on Wednesday released an online tool to let improve the availability of public information surround the testing of"
     publishedDateTime: 2020-09-03T08:14:00Z

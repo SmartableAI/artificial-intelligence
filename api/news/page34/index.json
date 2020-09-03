@@ -2,6 +2,47 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-08-06-algorithm-created-by-deep-learning-finds-potential-therapeutic-targets-throughout-genome.md",
+      "title": "Algorithm created by deep learning finds potential therapeutic targets throughout genome",
+      "excerpt": "In order to address this issue plaguing the research community, CAG and its partners at NJIT turned to deep learning. Zhi Wei, PhD, a professor of computer science at NJIT and a senior co-author ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/08/200806122637.htm",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color.md",
       "title": "Researchers say ‘The Whiteness of AI’ in pop culture erases people of color",
       "excerpt": "Researchers argue predominately portraying artificial intelligence as white in science fiction, stock imagery, and popular culture has consequences.",
@@ -1060,55 +1101,6 @@
         "name": "Business Wire",
         "domain": "businesswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-infermedica-scores-10m-series-a-for-its-ai-driven-diagnosis-and-triage-platform.md",
-      "title": "Infermedica scores $10M Series A for its ‘AI-driven’ diagnosis and triage platform",
-      "excerpt": "Infermedica, the Poland-founded health tech startup that offers an AI-driven platform for preliminary diagnosis and triage, has raised just over $10 million in Series A funding. The round is led by the European Bank for Reconstruction and Development (EBRD) and digital health fund Heal Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/06/infermedica/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/Visuals_Screenshots_03-Symptom-Checker-Chatbots.png?w=680",
-          "width": 680,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/06/infermedica/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/06/infermedica/amp/",
-      "publishedDateTime": "2020-08-06T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
