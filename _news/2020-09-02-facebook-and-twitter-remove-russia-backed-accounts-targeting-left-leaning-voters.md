@@ -2,26 +2,26 @@
 category: news
 title: "Facebook And Twitter Remove Russia-Backed Accounts Targeting Left-Leaning Voters"
 excerpt: "Researchers say one of the operation's goals was to steer left-leaning voters away from the Biden-Harris campaign ahead of the November election."
-publishedDateTime: 2020-09-01T22:20:00Z
-originalUrl: "https://www.scpr.org/news/2020/09/01/94277/facebook-and-twitter-remove-russia-backed-accounts/"
-webUrl: "https://www.scpr.org/news/2020/09/01/94277/facebook-and-twitter-remove-russia-backed-accounts/"
+publishedDateTime: 2020-09-01T20:17:00Z
+originalUrl: "https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters"
+webUrl: "https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: KPCC
-  domain: scpr.org
+  name: NPR
+  domain: npr.org
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://a.scpr.org/i/671958ec310674b544258bf6ccce0580/228111-full.jpg"
-    width: 1024
-    height: 514
+  - url: "https://media.npr.org/assets/img/2020/09/01/screenshot-333-_wide-c024671c7a198bdde2596c9b49f995c64ccd6cd5.png?s=1400"
+    width: 719
+    height: 404
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Xmu+fJv1n9wYObOvzPXba+ZKtVWKfB2/KG4QgihAlGujuCy51NrS2ZgPidwUhFmj3aA27gEiWW/18Cd5Zvow0+K7P14Vnmz8EUV6bT1KD2oEaT6WmYX4XIRVwXORvHPdIZThE2hqOwf/GUUHRMRf5sU4hzWF+cFIE/ZUkvwsfAHSQtKzm3D7F15cmfulGdtUDxPzoOY/U1+Iwtdnxu2dPRkp5RyHZe9PIgDL+Gi1Fs6zesWJTXjVOMcQAMWBUeJWrGMEh0NUPXC0iILQTp3SjG9odd2xA82vN4e0OJqnjuns2Ake2RDwVhcuMpLd2O9TDQ0XB+H5bZRM37zHRGztnZ5RV/Z4vplLcUEZ+OGrx2c=;c2oRlIEAwWpTeXrZzdwfXA=="
+secured: "AoNvgc3jk8jplOr6W/MrXT2IN69KU8p7Br3imMSz2wchSTHkR61LLbeQz41Ve2dT3tMhK3ytH6L4i4mmf6ZXYK9Jtjj5vRpsGWx2YP4n2VgprhisWxxzzuFC1fUeC8obyL1yU28a4nX0jxlzKALS1L7sTEheFJ+luKHk5vIWMF7yjAjMQ1kNv0Y9IO6E1t3WXEGCsr7+PdrJ8uNU10pHJYU2JgdSbSyCsnFNpDC+6kDHZg/wONrTxflLHXvjH1ecz3zkfRKRCYcx9i46PuOItcEB5V2lWFiu5K6be48rm2SI0gKGZwMNv2D+lKkWtmMyFq5xl01gQ5JYqduvrkKsXObQLru08NvQbFt5Kk6CjU8=;oiNw7iWEqq5Afc/mX5aErg=="
 ---
 

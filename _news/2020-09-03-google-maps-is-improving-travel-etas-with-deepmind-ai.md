@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/google-maps-deep-mind-ai-accuracy-14000
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-maps-deep-mind-ai-accuracy-140005698.html"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://9to5google.com/wp-content/uploads/sites/4/2020/03/google_maps_3.jpg?quality=82&strip=all"
         width: 3000
         height: 1500
+        isCached: true
+  - title: "Alphabet’s DeepMind details new AI prediction tech in Google Maps"
+    excerpt: "Maps has more than a billion users worldwide who rely on the service to plan their travel routes. One of the service’s most central features is its ability to generate time of arrival estimates, helping drivers view key information such as how soon they need to depart to catch a train."
+    publishedDateTime: 2020-09-03T19:05:00Z
+    webUrl: "https://siliconangle.com/2020/09/03/alphabets-deepmind-details-new-ai-prediction-tech-google-maps/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/google.png"
+        width: 867
+        height: 486
         isCached: true
 
 secured: "NSVDADAa8R4FLW0MDjzOXHOSfBUstbbdSEZYEk6zhITKzeE/NJHxZPMRRwrNaAiPxPKdWDWN1WBdRZ2FGR//ED7Q0XrfbAEOya2m13qYdRLAIsiB9EjfjEymdawZhY3sc0YzMiSYm6KrT6X5gimQzw4KnPH+S+Hszc/REyxpTJU9YxX/3jsD5zFOvv9uGBo6+whlH0K4uHhLEpfxt9RhSmbejPB2JlSlP2qXbh8Y5Z/atUEsFZZXDdj/M0nCXA7fu5biU97icN4L+BgMHS9efdIKH6T5E1DwiPsQOYcnwlsKcbbW75l7oUq13HB+viKlX0LMErRbcUVfcuQFFP7cH5R6ZlsYqXvlzz7YzAvqAIutYvAUa5xoO/vQu8C4Se+WPOtD/lVVPGT5k0MZUGODandC4cJ2i0AQf/0Di6HLnlTV8MmOUFN6HTutpVs8OLi6DRjYHMjutHnbwKRTnBsM99gPCF9H3uvy+cK7R7pKRMJ/RFNwK1x7Ywo+qiWLu1ixhYGcsR7emRlSdr3sKR1Uao1OfVzhL3Vp3PwIHWjPHjs=;bHHOvUKeAKuNfs510U5c8g=="

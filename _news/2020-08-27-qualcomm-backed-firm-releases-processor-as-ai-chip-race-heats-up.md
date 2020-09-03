@@ -1,22 +1,24 @@
 ---
 category: news
-title: "Qualcomm-backed firm releases processor as AI chip race heats up"
-excerpt: "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc QCOM.O and Alibaba Group Holding Ltd BABA.N, on Thursday announced a new chip"
-publishedDateTime: 2020-08-27T14:31:00Z
-originalUrl: "https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27"
-webUrl: "https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27"
-ampWebUrl: "https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27?amp"
+title: "Qualcomm-Backed Firm Releases Processor as AI Chip Race Heats Up"
+excerpt: "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc and Alibaba Group Holding Ltd, on Thursday announced a new chip aimed at handling artificial intelligence functions on battery-powered devices."
+publishedDateTime: 2020-08-27T14:25:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2020-08-27/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up"
+webUrl: "https://www.usnews.com/news/technology/articles/2020-08-27/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-secured: "UbOAFCFwFndzsdEvomWwYBm6ESG1ynd4vjJ7BkuCVcj0yyP/vjBukYJ+SZqymJPljSZ+SzA+Z2x4waAKaRmPIDwtiMZpTZFdFqHaiu3CUzmBGQ3vB0MA5c+5yZS2jBH4z9lRzcPuiCRf0ng/0L2oNhTB6Jpcum3kSpa75t/AJnNQbF3U6XvH4vp6Segdy4FD6YIc1p1pSuraaVPp4jRuJY/uNHUSm5Ue6AqtIXQCcQawnkeX9OdnBMNFNcWvOYPejHNe2mH4Z3BXUJXHk7WiZ+/oZVx5pHGjo60iz6RJ0ojyJj1qk3/+CHt1hqOrC6yt+VvBaemAAEft4TVuWFHeK/sGNTH4fqJxGR7ldl9jPM8=;DLrxiDd93U+D8LUf66Hd8g=="
+secured: "9zHAYmglOn4Eyb9J/o65Kzpf97wn/dXltHy/OE1uPIkoIhcPTSlrKNw8W714td60FTSsEZcAmpCyhvaDnG0JX1uoB64x+XqW8aI6VF/j/BYEbbevhwGzn8BKHYF332ctV58kRIHOy9CFNxOJEe1g/Betdx9In3MwetjWAL0v2HRLRR6AFrLHotswvoF+phdnT4NfBwVtntY8ye1JBrxDELj64DP/qCqanqvOQnjEmBXwJQL9bdw+Lo40fGHZ6PiL6GNh2k+4oDgcRQCWLWo2Y6Md0qsQZ8oShAB/+H/lTfte+XiI+tCvrPD+sEMFvtNVhsjEM2uyLbsKcwFCe8fn7ZutsO2hSGvpKO7kVnAcH9k=;zWkfDTyKqfHN6NlXbP3PrA=="
 ---
 

@@ -2,6 +2,196 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-02-russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook.md",
+      "title": "Russia’s most notorious troll farm reportedly used deepfakes to push a fake news outlet on Facebook",
+      "excerpt": "Facebook and Twitter say they've removed a network of accounts behind a fake news outlet run by fictitious journalists with AI-generated headshot.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/",
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-17-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/amp/",
+      "publishedDateTime": "2020-09-02T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-the-business-imperative-for-ethical-ai.md",
+      "title": "The business imperative for ethical AI",
+      "excerpt": "Artificial intelligence (AI) tops the agenda for many organizations, but the anticipated opportunities come with a host of challenges, many of which",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050",
+      "originalUrl": "https://www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2020/08/785jf03jr3.png",
+          "width": 587,
+          "height": 227,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050?amp=1",
+      "publishedDateTime": "2020-09-02T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-xrobotics-is-keeping-the-dream-of-pizza-robots-alive.md",
+      "title": "XRobotics is keeping the dream of pizza robots alive",
+      "excerpt": "Zume pulled the plug on its robotic pizza wing earlier this year. A lot goes into making a decision like that — particularly for a company whose robotic dreams were a press darling for a while there.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/02/xrobotics-is-keeping-the-dream-of-pizza-robots-alive/",
+      "originalUrl": "https://techcrunch.com/2020/09/02/xrobotics-is-keeping-the-dream-of-pizza-robots-alive/",
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/xRobotics_1_4K.jpg?w=1024",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/02/xrobotics-is-keeping-the-dream-of-pizza-robots-alive/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/xrobotics-is-keeping-the-dream-of-pizza-robots-alive/amp/",
+      "publishedDateTime": "2020-09-02T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-researchers-show-how-ai-could-stop-cyberattacks-messing-with-hospital-ct-scanners.md",
+      "title": "Researchers Show How AI Could Stop Cyberattacks Messing With Hospital CT Scanners",
+      "excerpt": "If there’s one thing a hospital patient doesn’t want to think about as they prepare for a medical scan it’s the possibility a cyber attacker might have found a way to remotely tamper with the diagnostic images,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johndunn/2020/09/02/researchers-show-how-ai-could-stop-cyberattacks-messing-with-hospital-ct-scanners/",
+      "originalUrl": "https://www.forbes.com/sites/johndunn/2020/09/02/researchers-show-how-ai-could-stop-cyberattacks-messing-with-hospital-ct-scanners/",
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4faa18a14e041b77ba0c28%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D53%26cropY2%3D3212",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johndunn/2020/09/02/researchers-show-how-ai-could-stop-cyberattacks-messing-with-hospital-ct-scanners/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johndunn/2020/09/02/researchers-show-how-ai-could-stop-cyberattacks-messing-with-hospital-ct-scanners/amp/",
+      "publishedDateTime": "2020-09-02T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-cognizant-ctsh-set-to-buy-azure-specialist-10th-magnitude.md",
       "title": "Cognizant (CTSH) Set to Buy Azure Specialist 10th Magnitude",
       "excerpt": "Undoubtedly, the latest 10th Magnitude deal will further expand Cognizant’s Microsoft Azure expertise. Acquisitions have played an important part in charting out Cognizant’s growth trajectory by strengthening its digital capabilities,",
@@ -592,7 +782,7 @@
       "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
       "featuredContent": null,
-      "heat": 279,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -981,207 +1171,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-nvidia-broadcast-brings-rtx-powered-ai-to-livestreaming-video.md",
-      "title": "Nvidia Broadcast brings RTX-powered AI to livestreaming video",
-      "excerpt": "Nvidia Broadcast is a new tool that brings together all of the companys RTX AI features for creating video and audio content.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/",
-      "originalUrl": "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/",
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Nvidia-RTX-Broadcast-e1598971502693.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/amp/",
-      "publishedDateTime": "2020-09-01T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors.md",
-      "title": "Nvidia unveils GeForce RTX 3080 GPU with 28 billion transistors",
-      "excerpt": "Nvidia has unveiled its 28-billion transistor Ampere-based 30 series graphics chips for PC gamers. The new chips will shore up PC gaming.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/",
-      "originalUrl": "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/",
-      "featuredContent": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/nvidia-GeForce-RTX-30-Series.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/amp/",
-      "publishedDateTime": "2020-09-01T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-3-top-artificial-intelligence-stocks-to-buy-in-september.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in September",
-      "excerpt": "Artificial intelligence (AI) has the potential to influence almost every industry, and the overall economic impact of the tech will exceed what's spent on hardware, software, and services many times over.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F589831%2Fgettyimages-896358708.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
-      "publishedDateTime": "2020-09-01T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-a-big-step-for-flood-forecasts-in-india-and-bangladesh.md",
-      "title": "A big step for flood forecasts in India and Bangladesh",
-      "excerpt": "For several years, the Google Flood Forecasting Initiative has been working with governments to develop systems that predict when and where flooding will occur—and keep people safe and informed. Much of this work is centered on India, where floods are a serious risk for hundreds of millions of people.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/",
-      "originalUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/",
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screen_Shot_2020-08-31_at_6.57.16_PM.max-1300x1300.png",
-          "width": 1300,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/flood-forecasts-india-bangladesh/amp/",
-      "publishedDateTime": "2020-09-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

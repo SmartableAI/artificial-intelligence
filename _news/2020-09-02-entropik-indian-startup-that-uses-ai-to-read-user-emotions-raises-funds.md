@@ -56,6 +56,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Emotion AI Startup Entropik Raises $8 Mn In Series A Funding"
+    excerpt: "The company shared its plan to use the funding amount to expand its presence in other geographies including the US, EU, SE Asia"
+    publishedDateTime: 2020-09-03T09:16:00Z
+    webUrl: "https://analyticsindiamag.com/emotion-ai-startup-entropik-raises-8-mn-in-series-a-funding/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/09/Entropik-Tech_Team-Picture.jpg"
+        width: 1433
+        height: 948
+        isCached: true
 
 secured: "XnDzPyjrkh017cE6wk9gos5vcvj6ISeN0AEtrTEdFk1oESihwMhkOddZeQakrB4p22BalIcJYDBOQUEpEufgpLuITtnWsH/7wDZDilwyzHioXSQIkkhr8G+VFCPRfuBd+wZ66J0GZDjvesiHerkBIpxChqWT+9jp+hRBEFFMtXL/jnr7uYp1qL3dpVFV4Y+LssoWnnwUoMpbMFkpCqu/tcqzSB3CbZn+CsvYhYcAHSLDqIGUlPxcSrI43d8JdJ3FM5IUsM9EfaquMt4KRxFL5R36SIDfANMRU9JN2jNbonEDcj/QzQaq/rmIQMNzy6gL/M3o9Fi+p3qO0lVxZD+HFeJFghBsJaM8A+q7t8WqQSDHz8dZpfwpId2PPN4nZbIBVdH2XdN/UovlCpqUcUJCvmqwW+g9N7YM4anm2FgETYNNfpqp/4bsHMvaqnrXUzYiaHPNBFNDjO9balQmFYhZEdiax6Oqv2FmRE6W3oIiNS+ibe1DovQ0qmxe6YDbiYSxNHRLBumOqnLGBCY4i9JEdw==;KOzLb4tcCbnmKDrvjtGvYg=="
 ---

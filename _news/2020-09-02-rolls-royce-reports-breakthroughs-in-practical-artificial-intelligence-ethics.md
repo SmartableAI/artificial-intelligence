@@ -2,11 +2,11 @@
 category: news
 title: "Rolls-Royce reports breakthroughs in practical artificial intelligence ethics"
 excerpt: "Royce announced on Wednesday that it had achieved two breakthroughs in the field of artificial intelligence (AI) ethics. These breakthroughs will be fully published later this year on the Rolls-Royce website under a Creative Commons licence."
-publishedDateTime: 2020-09-02T14:07:00Z
-originalUrl: "https://m.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02"
-webUrl: "https://m.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02"
+publishedDateTime: 2020-09-02T09:33:00Z
+originalUrl: "https://www.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02"
+webUrl: "https://www.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02"
 type: article
-quality: 51
+quality: 31
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg"
-    width: 1022
-    height: 575
-    isCached: true
 
 related:
   - title: "Rolls-Royce announces breakthroughs in Artificial Intelligence ethics and trustworthiness"
@@ -42,6 +36,6 @@ related:
         height: 400
         isCached: true
 
-secured: "KrNp2ZDyVkF/Fl7k0XDPRo0IDJwwAURSoY6SE6RvJrcfQHo44eNjeYf3ogre8JWUhIBEfsxp/saflc+O0BwFg6NomIMkx5jkPHmgmP1jyxxyfc/+a8PXmNoh1zUEVna/RfIem1IwT27DjcVmSGAVvTeIQUS0evXtehIdDxbKBu/4xi92ZrLzWsj9jNrWvKu4SEqqkzwHpRRd6VGC8vrWTXfJEuuF21vmkTcUwHqXB3zxvsKMKhJLZhch29f8ammEWaugcvJXScjfN3OaKaR71tv1NbVc0zk40zmpNm+zRXru1dpE7orG/E5ukIProhfKRnUueU3MOO862P4qyGWHaBO5vPxtcG4WF5xoSc6poGM=;90EboELpU1UC0p+6vFtcXg=="
+secured: "xxvSP7Ct5ujrQTQlpm+haUALtechFx+E4UTNE2m6d3gcRDWWS8mkmS2V6Aroj5YXVX0MIoC+FaY7y8nQmi5hGi2wNO5wnvCg06dbQRKqlBfZGai4tlkchLz6mX/skWrfiG38peXJaI27C0Ik5g9bPjJbm99nWyusl3WEiz7f/arlLly92E3Ec40CmYaC+pAxm54mIE2JPLOb3aN6xh6lzEk4qUdIEsGo0zLikdLOI/MvXGTLpWJAddq3D1vTfYY/2aqCRdMym4h+cs7YhVSqyNw6VWaoSpDQHObgwoBbQbOTbn8HJrYbgTw0njS46De1c6dWIs9pMRee7s7osOjW7WRqfHJT9IaQI/iD2fX2dtc=;UYn7NleGxGb9zjCq6v1FtQ=="
 ---
 

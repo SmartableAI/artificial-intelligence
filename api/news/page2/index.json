@@ -2,6 +2,197 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-03-using-robotics-and-immersive-technologies-to-support-work-from-home-employees.md",
+      "title": "Using robotics and immersive technologies to support work-from-home employees",
+      "excerpt": "According to a recent enterprise survey by 451 Research, the emerging technology research unit of S&P Global Market Intelligence, 80 percent have implemented or expanded universal work-from-home policies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.html",
+      "originalUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.html",
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/remote_worker_working_from_home_self_employed_contractor_freelancer_digital_nomad_by_allensima_gettyimages-1151404751_2400x1600-100853245-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.amp.html",
+      "publishedDateTime": "2020-09-03T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-qualcomm-promises-better-ai-for-its-next-snapdragon-pc-chip.md",
+      "title": "Qualcomm promises better AI for its next Snapdragon PC chip",
+      "excerpt": "The Snapdragon 8cx Gen 2 follows up 2018’s Snapdragon 8cx, and back then the company said the “x” in the name stood for “extreme” power. While the actual performance promises of the Snapdragon 8cx Gen 2 don’t seem like a great leap forward,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/qualcomm-snapdragon-8cx-gen-2-073041304.html",
+      "originalUrl": "https://www.engadget.com/qualcomm-snapdragon-8cx-gen-2-073041304.html",
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F69ee12e0-ed53-11ea-affb-7e404ac7d914&client=amp-blogside-v2&signature=713ef55e102c617daf5c8b3162330b9def48aa09",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/qualcomm-snapdragon-8cx-gen-2-073041304.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/qualcomm-snapdragon-8cx-gen-2-073041304.html",
+      "publishedDateTime": "2020-09-03T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-storelift-launches-autonomous-convenience-stores-using-ai-and-computer-vision.md",
+      "title": "Storelift launches autonomous convenience stores using AI and computer vision",
+      "excerpt": "But a French startup called Storelift believes it can create a new convenience store concept that leans on many of the same AI and computer vision tools used in Amazon Go stores to reinvent the ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/02/storelift-launches-autonomous-convenience-stores-using-ai-computer-vision/",
+      "originalUrl": "https://venturebeat.com/2020/09/02/storelift-launches-autonomous-convenience-stores-using-ai-computer-vision/",
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/exterior-e1599074003834.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/02/storelift-launches-autonomous-convenience-stores-using-ai-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/storelift-launches-autonomous-convenience-stores-using-ai-computer-vision/amp/",
+      "publishedDateTime": "2020-09-02T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-machine-learning-approach-can-indicate-health-risks-in-future-pregnancies.md",
+      "title": "Machine learning approach can indicate health risks in future pregnancies",
+      "excerpt": "After a baby is born, doctors sometimes examine the placenta--the organ that links the mother to the baby--for features that indicate health risks in any future pregnancies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20200903/Machine-learning-approach-can-indicate-health-risks-in-future-pregnancies.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20200903/Machine-learning-approach-can-indicate-health-risks-in-future-pregnancies.aspx",
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200903/Machine-learning-approach-can-indicate-health-risks-in-future-pregnancies.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200903/Machine-learning-approach-can-indicate-health-risks-in-future-pregnancies.aspx",
+      "publishedDateTime": "2020-09-02T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-these-students-figured-out-their-tests-were-graded-by-ai-and-the-easy-way-to-cheat.md",
       "title": "These students figured out their tests were graded by AI — and the easy way to cheat",
       "excerpt": "That wasn’t on a practice test — it was his real grade. “He was like, I’m gonna have to get a 100 on all the rest of this to make up for this,” said Simmons in a phone interview with The Verge. “He was totally dejected.",
@@ -297,7 +488,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/",
       "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/",
       "featuredContent": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1017,196 +1208,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook.md",
-      "title": "Russia’s most notorious troll farm reportedly used deepfakes to push a fake news outlet on Facebook",
-      "excerpt": "Facebook and Twitter say they've removed a network of accounts behind a fake news outlet run by fictitious journalists with AI-generated headshot.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/",
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-17-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/amp/",
-      "publishedDateTime": "2020-09-02T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-the-business-imperative-for-ethical-ai.md",
-      "title": "The business imperative for ethical AI",
-      "excerpt": "Artificial intelligence (AI) tops the agenda for many organizations, but the anticipated opportunities come with a host of challenges, many of which",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050",
-      "originalUrl": "https://www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2020/08/785jf03jr3.png",
-          "width": 587,
-          "height": 227,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050?amp=1",
-      "publishedDateTime": "2020-09-02T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-xrobotics-is-keeping-the-dream-of-pizza-robots-alive.md",
-      "title": "XRobotics is keeping the dream of pizza robots alive",
-      "excerpt": "Zume pulled the plug on its robotic pizza wing earlier this year. A lot goes into making a decision like that — particularly for a company whose robotic dreams were a press darling for a while there.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/02/xrobotics-is-keeping-the-dream-of-pizza-robots-alive/",
-      "originalUrl": "https://techcrunch.com/2020/09/02/xrobotics-is-keeping-the-dream-of-pizza-robots-alive/",
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/xRobotics_1_4K.jpg?w=1024",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/02/xrobotics-is-keeping-the-dream-of-pizza-robots-alive/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/xrobotics-is-keeping-the-dream-of-pizza-robots-alive/amp/",
-      "publishedDateTime": "2020-09-02T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-researchers-show-how-ai-could-stop-cyberattacks-messing-with-hospital-ct-scanners.md",
-      "title": "Researchers Show How AI Could Stop Cyberattacks Messing With Hospital CT Scanners",
-      "excerpt": "If there’s one thing a hospital patient doesn’t want to think about as they prepare for a medical scan it’s the possibility a cyber attacker might have found a way to remotely tamper with the diagnostic images,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johndunn/2020/09/02/researchers-show-how-ai-could-stop-cyberattacks-messing-with-hospital-ct-scanners/",
-      "originalUrl": "https://www.forbes.com/sites/johndunn/2020/09/02/researchers-show-how-ai-could-stop-cyberattacks-messing-with-hospital-ct-scanners/",
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4faa18a14e041b77ba0c28%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D53%26cropY2%3D3212",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johndunn/2020/09/02/researchers-show-how-ai-could-stop-cyberattacks-messing-with-hospital-ct-scanners/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johndunn/2020/09/02/researchers-show-how-ai-could-stop-cyberattacks-messing-with-hospital-ct-scanners/amp/",
-      "publishedDateTime": "2020-09-02T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

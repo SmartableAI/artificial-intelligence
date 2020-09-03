@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Alphabet’s DeepMind details new AI prediction tech in Google Maps"
+    excerpt: "Maps has more than a billion users worldwide who rely on the service to plan their travel routes. One of the service’s most central features is its ability to generate time of arrival estimates, helping drivers view key information such as how soon they need to depart to catch a train."
+    publishedDateTime: 2020-09-03T19:05:00Z
+    webUrl: "https://siliconangle.com/2020/09/03/alphabets-deepmind-details-new-ai-prediction-tech-google-maps/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/google.png"
+        width: 867
+        height: 486
+        isCached: true
 
 secured: "yYxq3pgFH6AAksA0gxNsV/Qk5x2E33D7TCwVCQ590RWX/ha+1kbHq5mKyGvIv9lFqxYyZo5XuU0d21AhIntcheqrkeeFZiaMDnnZhr5zDT8sGnKc6BZ4V1/sHhB3eT5Y+p5qBiDZc5jefPHqO38sx9V8wvu9kraDRUpAN+/sQgHemY6ac+0h4IZy3AuZRpc6RtnZeY97hY1GGfSJ6HVLVe4iIaaE+lRcLbyHPda2u3ihysnVjUrnt75cW/dQCQWZvWeX3mL9o97OpGhBbzZQ6BszUcikdHgxQ7bDhumiXkogG7sYtDsvpgRaBIRTP6X72XTklUTd5IbP9RyLZhcq2ADA1040bWScTbnvAuJ2M8f/ZdtATMTCnF0fC62vpV/vxPl32XoCxFcbz6SueEz2HnGqoSNr3rj8EPok2wqtQ2QUxwrqDnyndUyQxhBul1PggxUyyEMJluJ+Sq/ykDSlrTzTr02xUFTBBGK9TviFp/VckAh1W5I9hoir7z/nthxmExHhUFm/KqTVVlBjTC9CbB5TLuN5j4IiWdcQpJN/y/U=;8wvsynQpKTcwnvQEuceTBg=="
 ---

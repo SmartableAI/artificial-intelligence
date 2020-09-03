@@ -73,22 +73,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Facial recognition for cows"
-    excerpt: "Cows in some districts of Punjab are currently part of an intriguing project that involves machine learning telling one cow apart from the other. Every cow and buffalo are distinguishable as"
-    publishedDateTime: 2020-09-01T14:58:00Z
-    webUrl: "https://www.thesudburystar.com/news/farm-news/facial-recognition-for-cows/wcm/a76b9203-345a-4289-af14-f840d7df0c7c"
-    ampWebUrl: "https://www.thesudburystar.com/news/farm-news/facial-recognition-for-cows/wcm/a76b9203-345a-4289-af14-f840d7df0c7c/amp"
-    cdnAmpWebUrl: "https://www-thesudburystar-com.cdn.ampproject.org/c/s/www.thesudburystar.com/news/farm-news/facial-recognition-for-cows/wcm/a76b9203-345a-4289-af14-f840d7df0c7c/amp"
-    type: article
-    provider:
-      name: Sudbury Star
-      domain: thesudburystar.com
-    quality: 59
-    images:
-      - url: "https://smartcdn.prod.postmedia.digital/nexus/wp-content/uploads/2020/08/co.0811-co-farmgate.jpg"
-        width: 980
-        height: 735
-        isCached: true
   - title: "TSA Is Testing Facial Recognition Checkpoints"
     excerpt: "The Transportation Security Administration is starting to use facial recognition, at least on a trial basis. On Tuesday the agency announced that it has begun a pilot of a \"self-service\" checkpoint at the Ronald Reagan Washington National Airport in Washington,"
     publishedDateTime: 2020-09-01T20:56:00Z
@@ -136,20 +120,6 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/463006"
         width: 640
         height: 428
-        isCached: true
-  - title: "Guangzhou Airport Rolls Out 'One ID' Facial Recognition Tech"
-    excerpt: "Guangzhou Baiyun International Airport has announced that facial recognition ID is operational on domestic routes."
-    publishedDateTime: 2020-09-03T06:07:00Z
-    webUrl: "https://www.thatsmags.com/china/post/31636/chinese-airport-rolls-out-facial-recognition-tech"
-    type: article
-    provider:
-      name: thatsmags.com
-      domain: thatsmags.com
-    quality: 54
-    images:
-      - url: "https://www.thatsmags.com/image/view/202009/scaled.jpg"
-        width: 704
-        height: 463
         isCached: true
   - title: "Concerns about facial recognition system being set up by police"
     excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
@@ -217,20 +187,6 @@ related:
       - url: "https://d3ebobe8l15pwo.cloudfront.net/wp-content/uploads/2020/08/081220_Thermal-imaging-Hikvision-detectors-for-schools_E.jpg"
         width: 1084
         height: 739
-        isCached: true
-  - title: "Vanderbilt Proface X TD Facial Recognition Terminal with Temperature Detection"
-    excerpt: "Powered by the ZKTeco-customized CPU for running the intellectualized engineeringfacial recognition algorithm and the latest computer vision technology, ProFace X [TD] supports both facial and palm verification with large capacity and rapid recognition ..."
-    publishedDateTime: 2020-09-02T23:59:00Z
-    webUrl: "https://www.sourcesecurity.com/vanderbilt-proface-x-td-access-control-reader-technical-details.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 35
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/products/400/proface-x-td-400.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "City Councilman Hosting Discussion On Facial Recognition Technology And Policing"
     excerpt: "Pittsburgh City Councilman Corey O'Conner says police using facial recognition technology would do more harm than good; KDKA's Lindsay Ward reports."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-tests-location
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-tests-locations-tracking-tool/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Daimler Trucks Tests Self-Driving Vehicles in US Southwest"
+    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics are expanding their testing of self-driving trucks to public roads in New Mexico along major long-haul freight routes."
+    publishedDateTime: 2020-09-03T19:14:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest"
+    ampWebUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "New Federal Govt Tool Helps Track Self-Driving Vehicle Testing Efforts Across US"
     excerpt: "The National Highway Traffic Safety Administration (NHTSA) on Wednesday released an online tool to let improve the availability of public information surround the testing of"
     publishedDateTime: 2020-09-03T08:14:00Z

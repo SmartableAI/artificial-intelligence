@@ -2,6 +2,88 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-04-israels-rafael-anyvision-to-form-face-recognition-jv-for-defence.md",
+      "title": "Israel's Rafael, AnyVision to form face recognition JV for defence",
+      "excerpt": "Israel's Rafael Advanced Defense Systems said on Thursday it planned to establish a joint venture with startup AnyVision to apply facial recognition technologies to military systems, while AnyVision raised $43 million in a private funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03",
+      "originalUrl": "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03?amp",
+      "publishedDateTime": "2020-09-03T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-gao-audit-finds-pervasive-problems-with-us-airport-facial-recognition-program.md",
+      "title": "GAO audit finds pervasive problems with U.S. airport facial recognition program",
+      "excerpt": "According to the U.S. Government Accountability Office, a facial recognition verification program at U.S. airports has been plagued with problems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/",
+      "originalUrl": "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/",
+      "featuredContent": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/amp/",
+      "publishedDateTime": "2020-09-03T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-x-ray-vision-in-the-warehouse-thruwave-raises-64m-to-help-online-retailers-see-through-packages.md",
       "title": "X-ray vision in the warehouse: ThruWave raises $6.4M to help online retailers see through packages",
       "excerpt": "Seattle startup ThruWave just raised a $6.4 million round for its futuristic technology that uses millimeter waves to see through packaging. Fortune 100 customers in retail and e-commerce",
@@ -159,7 +241,7 @@
       "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
       "featuredContent": null,
-      "heat": 279,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -1248,97 +1330,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware.md",
-      "title": "Who thought it was a good idea to have facial recognition foftware?",
-      "excerpt": "It’s about time someone asked that question about facial recognition software. It would oblige the developers and users of the technology to explain exactly why they think it’",
-      "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/",
-      "originalUrl": "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.brookings.edu/wp-content/uploads/2020/08/Facial-recognition-technology-cameras.jpg",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/amp/",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/amp/",
-      "publishedDateTime": "2020-08-20T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Brookings Institution",
-        "domain": "brookings.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit.md",
-      "title": "Facebook Gets Preliminary Approval To Settle Facial Recognition Lawsuit",
-      "excerpt": "Facebook allegedly violated an Illinois law requires companies collecting biometric data to obtain prior consent from consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/",
-      "originalUrl": "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/",
-      "featuredContent": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3e77f47d7294f03eab9638%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/08/20/facebook-gets-preliminary-approval-to-settle-facial-recognition-lawsuit/amp/",
-      "publishedDateTime": "2020-08-20T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

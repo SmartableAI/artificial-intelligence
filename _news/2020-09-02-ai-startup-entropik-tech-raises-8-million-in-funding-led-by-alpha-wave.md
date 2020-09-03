@@ -42,6 +42,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Emotion AI Startup Entropik Raises $8 Mn In Series A Funding"
+    excerpt: "The company shared its plan to use the funding amount to expand its presence in other geographies including the US, EU, SE Asia"
+    publishedDateTime: 2020-09-03T09:16:00Z
+    webUrl: "https://analyticsindiamag.com/emotion-ai-startup-entropik-raises-8-mn-in-series-a-funding/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/09/Entropik-Tech_Team-Picture.jpg"
+        width: 1433
+        height: 948
+        isCached: true
   - title: "Entropik, Indian Startup That Uses AI To Read User Emotions, Raises Funds"
     excerpt: "Entropik Tech, a startup that specialises in facial recognition technology to interpret people’s emotion as they watch video and other media, raised $8 million in its fresh funding to strengthen its technology and expand its business."
     publishedDateTime: 2020-09-01T17:15:00Z

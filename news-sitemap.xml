@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03</loc>
+    <lastmod>2020-09-03T12:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/</loc>
+    <lastmod>2020-09-03T11:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://gizmodo.com/qualcomms-second-gen-laptop-chip-isnt-doing-enough-to-c-1844937226</loc>
     <lastmod>2020-09-03T10:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -37,6 +49,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-09-03T08:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techrepublic.com/article/healthcare-ai-how-one-hospital-system-is-using-technology-to-adapt-to-covid-19/</loc>
     <lastmod>2020-09-03T08:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -63,6 +81,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/</loc>
     <lastmod>2020-09-03T06:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://uk.pcmag.com/healthandfitness/128467/google-is-making-an-augmented-reality-microscope-for-the-dod</loc>
+    <lastmod>2020-09-03T06:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -913,6 +937,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.ttnews.com/articles/uber-expands-self-driving-safety-report-after-ntsb-slams-culture</loc>
+    <lastmod>2020-08-28T09:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/</loc>
     <lastmod>2020-08-28T07:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -974,12 +1004,6 @@
   </url>
   <url>
     <loc>https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/</loc>
-    <lastmod>2020-08-28T05:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture</loc>
     <lastmod>2020-08-28T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1123,14 +1147,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27</loc>
+    <loc>https://www.axios.com/navy-google-machine-learning-63432fa7-e4c0-4ddf-8244-d6cea7adb20b.html</loc>
     <lastmod>2020-08-27T07:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.axios.com/navy-google-machine-learning-63432fa7-e4c0-4ddf-8244-d6cea7adb20b.html</loc>
-    <lastmod>2020-08-27T07:31:00-07:00</lastmod>
+    <loc>https://www.usnews.com/news/technology/articles/2020-08-27/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up</loc>
+    <lastmod>2020-08-27T07:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1309,6 +1333,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.bloomberg.com/news/articles/2020-08-26/self-driving-shuttles-blast-uv-rays-to-stay-on-road-in-covid-era</loc>
+    <lastmod>2020-08-26T08:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.benzinga.com/news/20/08/17251073/warehouse-picking-robot-startup-xyz-raises-17-million</loc>
     <lastmod>2020-08-26T08:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1389,6 +1419,12 @@
   <url>
     <loc>https://www.cnet.com/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/</loc>
     <lastmod>2020-08-26T06:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.morningstar.com/news/business-wire/20200826005444/outlook-on-the-self-driving-taxi-global-market-to-2024-key-drivers-challenges-trends-researchandmarketscom</loc>
+    <lastmod>2020-08-26T05:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

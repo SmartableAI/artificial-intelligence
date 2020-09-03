@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detecti
 ampWebUrl: "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/09/ppg-cells.png?w=1200&#038;strip=all"
@@ -46,6 +47,6 @@ related:
         height: 768
         isCached: true
 
-secured: "FP7PKUSan039DT37K0JrqjwjBIV6obYfHk5rMQpk2Qqn6NqmsRdTptz5KnasTEWSaSW64HB9mkftSQfZVZn/hC/ncjq8FwNZcSAn1zcx1ztvPtSQyVBsqU8eO/HwPtI/r6njBPhlcslD2rmVKaD/AKFNcEZKlnaYbWxfm8zwz1oiivmJhxHWj+yvQZhyRLeggvmma+Auyt0VwSmWXICq4Q8DzmNfqysHr0tC5jb8refwJdqfMIQX86BgoKiNYXEnJm37MUCR4fKOG81AMtGNjAw4pzIHHTTou82VqEFh4v34oUuIUddrWteDABDHQ+5MEiVodclwWzDvU+HLX7+9XOSudmzghsXVOebMIZH1ZcU=;Xv6zzqUTosfZRAWFX7xwyw=="
+secured: "yGtR32PaeD8Apbim7vbDjhG/SG4C04Qr3bnih5S429PSaPthx8HzGqtpC3IbWshBp42jAAeaj2PqWX7vqwNsoaJL/WGFNeNEcRs2CWzQOWF8s1ckpLMKoGKuJ2+4Go8tTcIUpvV8YekuEVSRnPDRq2fJUZU4ZsLmOtgcx90nTX6caV4sf+8z/mykjef2b4j44bcnpYJfhHr1JtDbCQ0ugDRWP5YzdCTEE7gX6jE0mMzu5j9bxFrIrlTIObxogs5pg3P5nACh9UGSPjoNguNo7aBd7heKmLvvveYiInthY0gwM6151dmeWEZ9JCdpksgWE7vIokQba4uG5ohIGQ/vIdGE4Obr2VYPvRCqOQsLsXSdbxlt87TPhwK4RSQGuVeHWNPbWyNgLUvNJ2Dpl948vdQLQWsLUKu3jtQkpbiP1tmnvS25uujZp5DuPGvKICohcfcfpqnI13ZdHmJWIheDo+CQ8vALuP+1gazbb/QqrZWnb9cAuIsTt0mFUKH4LuWb4w5ffeHtIQCTqfCS43BSaqwLqfVoeWp52OS3SCCqGqk=;WDATjNSNrvQLcuPrZaQ+sQ=="
 ---
 
