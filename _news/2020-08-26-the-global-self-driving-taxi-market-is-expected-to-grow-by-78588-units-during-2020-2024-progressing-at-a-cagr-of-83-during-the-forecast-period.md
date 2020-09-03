@@ -2,25 +2,25 @@
 category: news
 title: "The Global Self-driving Taxi Market is expected to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period"
 excerpt: "The analyst has been monitoring the self-driving taxi market and it is poised to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period. Our reports on self-driving taxi market provides a holistic analysis,"
-publishedDateTime: 2020-08-26T15:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-301118728.html"
-webUrl: "https://www.prnewswire.com/news-releases/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-301118728.html"
+publishedDateTime: 2020-08-26T15:51:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-1029536911"
+webUrl: "https://markets.businessinsider.com/news/stocks/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-1029536911"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-1029536911"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-1029536911"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "JcEFSM8p4lZC5bmTVVWgTWyOy5BcSixUTjNhvEUnyjgJltZcHTbNd1PWM/2baFqJFjRIVAX3eWCOPi2p3/bGNui5H3/OHBlGH7+vvlpCZaY4LVQD6CiNIAoKE1pbD2zHTxM0wHXveDSGa45MoFfmr1yi6tWCOK9qHgbQcU6UADJiFFfaQY/KOoeVuvgGC5TlWJF2+w3MQG9thM/qDEH0Pfd3NGs3ev+GW7WtKYgbQuXL4J2Tp68HhMPCthXHfx8QelE+/ZLb2tOsSiuSGouz8+drQ95O3mzz9RbTIzaIYSJaJwKHF/OY2+E6BduwtC6yIkZjBBD4CoNcjN7HepC+n5GHLXMemMd8RogKhMUhnRI=;EPfuOpiTI6BKzPKz+kocEw=="
+secured: "ApV7dzRUyeU8QODxn3lpyxMtBFVmwI8wbPv8VHp4WScUZ06eZq/ci9nnUxD50QXM/YPspqG5oFHkzM989rGzYSDoj6Nv7tV+LaXshZeORUS3dccr5y1iHa1c2k6wsZQrLD7ucOHicLcpm0piu9jKKUMUFfKauwJaxZWn/vtKdKZ6jdMVW9JCvIsDzhz5L8F8cHKq+SYSMi/IEEgFhDLDKPgpSK0fSgJRfN56kxczyame8+XALj3aEWQ9AoDtR0A+2xEsC+NrGgyAwkeJMGOAGdW+nl5X1Tl1C3RO4wfMK2EzNii6asNq3M5ieW8ClECWn5MJNTSipGWUuFfY3E3TgBsV4r/1oFCzSrqdUrFK4t0=;Dr1k/L5DDxeN9WqMS5LovQ=="
 ---
 

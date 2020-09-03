@@ -55,6 +55,20 @@ related:
         width: 400
         height: 286
         isCached: true
+  - title: "Six biometric companies included on 2020 CB Insights Fintech 250 List"
+    excerpt: "CB Insights has just announced its third annual list for the top 250 leading fintechs that disrupt the industry with innovative technology, and some biometrics companies have found themselves on"
+    publishedDateTime: 2020-09-03T17:18:00Z
+    webUrl: "https://www.biometricupdate.com/202009/six-biometric-companies-included-on-2020-cb-insights-fintech-250-list"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/26170438/biometrics-industry-executive-appointments.jpg"
+        width: 1280
+        height: 749
+        isCached: true
   - title: "CB Insights Names CLARA analytics to Fintech 250 List of Fastest-Growing Fintech Startups"
     excerpt: "CLARA analytics Honored for Achievements in Transforming Commercial Insurance with Artificial Intelligence CB Insights today named CLARA analytics, the leading provider"
     publishedDateTime: 2020-09-01T13:15:00Z

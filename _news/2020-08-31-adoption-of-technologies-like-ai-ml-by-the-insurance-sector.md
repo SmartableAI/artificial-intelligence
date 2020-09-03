@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/355541"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/355541"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition technologies see significant advancements"
+    excerpt: "Despite some of the negative connotations associated with the technology, facial recognition has merit across many security applications"
+    publishedDateTime: 2020-09-03T16:21:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21152899/serious-advancements-in-facial-recognition-technologies"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/09/GettyImages_913641954.5f4fdc9f8b8b1.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IPC and GreenKey Technologies Launch Dictation as a Service"
     excerpt: "Dictation as a Service brings together GreenKey Technologies' industry-leading cloud-based speech recognition (automatic speech recognition) and natural language processing (NLP) engine with IPC's unparalleled Connexus Cloud financial ecosystem."
     publishedDateTime: 2020-09-03T13:20:00Z

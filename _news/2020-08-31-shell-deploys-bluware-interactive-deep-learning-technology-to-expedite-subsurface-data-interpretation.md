@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Shell Deploys Bluware Interactive Deep Learning Technology to Expedite Subsurface Data Interpretation"
-excerpt: "Bluware Corp, the digital innovation platform that enables the oil and gas industry to accelerate digital transformation initiatives using"
-publishedDateTime: 2020-08-31T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/shell-deploys-bluware-interactive-deep-learning-technology-to-expedite-subsurface-data-interpretation-301119294.html"
-webUrl: "https://www.prnewswire.com/news-releases/shell-deploys-bluware-interactive-deep-learning-technology-to-expedite-subsurface-data-interpretation-301119294.html"
+excerpt: "Bluware's technology will help Shell to improve quality and speed of seismic interpretation workflows. \"Shell is excited about this partnership with Bluware. Pickasso and Bluware InteractivAI are powered by Bluware's Volume Data Store cloud-native data environment,"
+publishedDateTime: 2020-08-31T14:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/shell-deploys-bluware-interactive-deep-learning-technology-to-expedite-subsurface"
+webUrl: "https://www.nasdaq.com/press-release/shell-deploys-bluware-interactive-deep-learning-technology-to-expedite-subsurface"
 type: article
-quality: 24
-heat: 24
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "2rUTPwEEtQ6EB+AVs+Z5hOqu+QjuhtxLfvrNFL1D1gD0Hlni8ZJlO3FLhJwmiMsXoCfXfQCKTE6gN0iTX9pez7WYXpKHG6cfzX6p70euDIyu8i8Gqn+bJw6HhiZRC2PH04fxgKGawFTuJgW6uSx2Wkndd9XlArBwI/kTEbYqqhDz8N630qqdjGXY2+C5vMroh2sZCd6LP49Zhii5HW+XTXiDOwsmKkBEdgqyppvCMAbC9hivX5ETgw5D0S+FUfxPiGcCMB3oH5/ELw6SQxR/fHhDDJk/pVaSrTRTPMmbmw1LYBZrFa1FCXL5B5HpzKHVEIiW81yNtv6T5PAuZCzNEcJzWHHo1zw+QDAjXkQbsTk=;2a+YyaW4WyIIHDAgltsHJA=="
+secured: "UtmVMaaa0wBSHQqOuED1f0ADAS24LVow8LBcJ2UeYm3pws+wp9puJmNBZaWR18EAIQW40+8hiP+opPJ5G4Vv1ZNpfFNzIsGpROdT8WwaV4llEOS6pbLeIvdCrFOUJtEj+ssmGLxmOnXgXJJQ9J1KDsAKvdvCc6Y7VUojLST6ieYrFtvPI1uQGdvVKYnuTcZ9nRUvIRpF8KxcpSpHE+2qecpdpFR5S55QjeaHRAC3UM5hWWS/zFCikFQGlNB46s3R+TIzIjgnIYnHyZIU7EVjUujO9bCjHTCijgsYxhSxh3R8mEDjaJ7GIzuVPMWTgjBTmmYcmQYlMqfQRJ+yiYxuHHaHCPqSeuJRwCMfVk7NgE0=;C5LZxP/AAMLzWHBDhAsDvQ=="
 ---
 
