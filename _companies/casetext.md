@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "casetext"
   url: "https://twitter.com/casetext"
-  followers: 5148
+  followers: 5147
 
 size: 11-50 employees
 yearFounded: 2013
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "bBc+fGB6jWkQeOaEaJKfsQTDJuUJCZxP7Xznv1xb5UrqlQ4x6zvQblj083GX9cneOyBG/Xx/CoR9uqL48EBXH8Rv63pO0BMbx0VL3O2H6NDpoSPZs4tTG8fCnnhaYwmLTBo3XDk5RROpedEZbuuMkPl2Wp9Rdu+675rgjbGVBxU3QeyGsoIt+NhAKzXF6sBb61fhadosTFJLSWL4HkxWhYKvJxoIfC+CbnwIv1fqPGnxbJFiXr/79TBNTOkL/nF3zcTNnjK3Si19CpvUj5/u6ajJejkQCBqY9pgYYzzeRMLkrIoLPsAOKmhqnPLVtsJ3JH6A+/jkPabkoLjHH4duPZZ9k831t45SidtvMznpY4WeTu3MtdRt5gVm531DdyOEnVji/Lq1W2UbB7Kfik0ca3qO76xGK5WS2sxovRGiaeM=;a8IpBdtycqFMxcRwtGNZlg=="
+secured: "YHVipOAAamd14RECBW7yIitMNTjaj2B+otrC1RY6uBdqkpsufmzHAI/uQGgaq5iR8ZTJSuLi+C1bMZOHHKOB/5wsNyo2JYScLAbx60fLnq4Pi4chTVgEdQ+U2wz8BoNg5SXkXVE04SQupzw9alJGob1JjIdLHNaTgHhyHi/UMmU+nOpd8/cx2HqG0YTStzqQ+HDcCAvpxlOI4e4sMp2oRnK5NcURzEy6rF88pIdt2Jksh6EC9wZ1W06LEdyHqQFTsG7hagKOaUadMw9XKCT52H+vgYaxJX8jtIZPScwthiq66LEQ+PxOAajmTRglFE6zgH+r2/R2Pxt3uyvjtsEXOWojkOh9OINQJBRCbuA2evDFTy0bls3His+g+/hSP/IpzIMwNbx8qLGWxn27I6RJ6XjwATvxAHisN35PhXktf3g=;ePAI1ZPElxuFkcmog32rpw=="
 ---
 

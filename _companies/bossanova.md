@@ -2,7 +2,7 @@
 name: "Bossa Nova Robotics"
 overview: "Bossa Nova is the leading provider of real-time, on-shelf product data for the global retail industry. Its technology collects terabytes of data that enables the retail ecosystem to optimize the omnichannel shopping experience. With a multidisciplinary team of robotics, computer vision, artificial intelligence, and big data scientists, Bossa Nova has solved the challenges to deploy fully autonomous service robots in busy and crowded environments."
 type: "profile"
-heat: 65
+heat: 58
 
 website: http://www.bossanova.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bossanova"
   url: "https://twitter.com/bossanova"
-  followers: 1196
+  followers: 1197
 
 size: 51-200 employees
 yearFounded: 2005
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=KykP6wTp1Qk"
 
-secured: "0jDhf5Y7/TduJtCw+G2Xxtb9iee66j95rviYx432huY5mcU33g0fOIRt3g++oQj12eH/NbXBPOxslkGFKGybP2Jc86OtGZY6c6cdfYIXPK9+8ynQRzwgAbTRQ+Dsiz5cxDcranuBWU4psSGUac1R94/RI4u7m/uJeI3bLg5bR3hBwrDAu/8IXu7eP5Eaw1R1LM7Awr9/a0DLyahjLbkbBHsPjaOMEZNcJGsKVkMHsZcbkztFs/oqIQim9Z7lsNbDW9vCRq7Vahz/Y8juD4k8388UQmz9vGiopTAKmf5TCB5blDExBvB1QwtnZj5Rn6En8SeyqsHRemFqSr8not9xA8V3Vrvk8J+tLooUof0oN8tNBI5G85H8DYeHizgJofMm95wuMOUU7DTjp9seUdCEEBVwBsEDhov26NkGTjkGA0M=;5tCfU6sW8Z13VP3l40272A=="
+secured: "0xlrpB8DsXX1XpMtfvHvbLOq5sVXs2NIGaPaxxuy+VIp41OiNtaGxwyBNMFcv7ml4zRpsjqhyC2+qTudP2hGP/6ljCjpNyY4WYo9OB5PA+AjuyxnpVHfFP6VAPintbs7GRq0wRByBCnrZhlQWpeXMKXj/g0ACEjidWCBJ+bt/sz8CX4SXDBmOfBz9VavQN5HWaYQ3UC3HO0GzfsLw01p+uYWRNdSQWpxjYdiMFWgq3o+uUYRx2nQJm/LLEeDKHrYRIDI1l5tRtw+XggktRV2ngtirBTubsqHJujvUw3h6st87Hxxkk1KA5rhC9FOIWQ30J7KFjyEYjNDpBEl/OEV505MEHbNvaSrPU38/IM9zS0tcxA4K9mk0rMpn/NLC/HxycfQs79CeOsC30cIi9zWiOc2XlO4JiN99DzS2ma9kIs=;P8IJehaenLvt0x7JLRj4Fw=="
 ---
 
