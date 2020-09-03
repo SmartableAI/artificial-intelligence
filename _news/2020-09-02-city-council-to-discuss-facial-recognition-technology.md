@@ -161,6 +161,20 @@ related:
         width: 1084
         height: 739
         isCached: true
+  - title: "Vanderbilt Proface X TD Facial Recognition Terminal with Temperature Detection"
+    excerpt: "Powered by the ZKTeco-customized CPU for running the intellectualized engineeringfacial recognition algorithm and the latest computer vision technology, ProFace X [TD] supports both facial and palm verification with large capacity and rapid recognition ..."
+    publishedDateTime: 2020-09-02T23:59:00Z
+    webUrl: "https://www.sourcesecurity.com/vanderbilt-proface-x-td-access-control-reader-technical-details.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 35
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/products/400/proface-x-td-400.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "City Councilman Hosting Discussion On Facial Recognition Technology And Policing"
     excerpt: "Pittsburgh City Councilman Corey O'Conner says police using facial recognition technology would do more harm than good; KDKA's Lindsay Ward reports."
     publishedDateTime: 2020-09-02T17:08:00Z
@@ -183,6 +197,20 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 33
+  - title: "E&Y sees troubling ethics priority gap between execs and pols on facial recognition"
+    excerpt: "Biometric facial recognition, viewed through an ethics lens, looks markedly different to policy makers and business executives, according to a recent global survey. The perception gap could"
+    publishedDateTime: 2020-09-02T20:38:00Z
+    webUrl: "https://www.biometricupdate.com/202009/ey-sees-troubling-ethics-priority-gap-between-execs-and-pols-on-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+        isCached: true
   - title: "Pittsburgh City Council told facial recognition bill should be stronger"
     excerpt: "Restrictions on using facial recognition software and predictive police techniques proposed by Pittsburgh City Councilman Corey O’Connor don’t go far enough, a handful of computer science researchers told council Wednesday."
     publishedDateTime: 2020-09-02T20:36:00Z
@@ -205,6 +233,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Technavio Research: COVID-19: Facial Recognition Market 2020-2024 | Increasing Instances of Identity Theft to Boost Market Growth | Technavio"
+    excerpt: "Technavio has been monitoring the facial recognition market and it is poised to grow by USD 3.35 billion during 2020-2024, progressing at a CAGR of almost 12% during the forecast period. The report of"
+    publishedDateTime: 2020-09-02T23:14:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50607174-technavio-research-covid-19-facial-recognition-market-2020-2024-increasing-instances-of-identity-theft-to-boost-market-growth-technavio-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 4
+    images:
+      - url: "https://mms.businesswire.com/media/20200902005152/en/817661/4/IRTNTR44231.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "yLMbu71tHOgq0ZzeKHUabq782wObYbnRgmwIn5hddFXca5zo9ePgxA5mhv2zIuO8+MvXU9SAj8WZunSbllVv6P2AVgOciiVIM4iAv3TSAJRPGBsGuLpKQ7WTLxjKyLOpoKDCDT8YcHQGPNBVAVU/PxmeUd8dRdN8OKwtrVJ4IlOwDN/bNkvW2yIRtbPMBiXqiG82m19scg2RwXSxUX8dfYS8tBZ/6ucFRC5hhU8tuAFBuISjtAytE4YPbqXNDBXWnG+8oH2/QqouL//og0CgoAWuR1BhcQlRvrYWdTsh2aJeWB1ZPZy3Tb4SpBsia6A0D0v4AbDQKoFMw7b2TUfK7W2vKX6FMJYmIYO5Yu0oS4a+KSeO0aebKmbNh8jbrDlg0AP5l3n5vvJevWmBj/IDr7mo4YrBSvPSS7vCKf/vUkjWzzQT0ug+3o/UaAwNzDka7D1OwirioHEn/8mOyss4+2oC40ZGUWLFKal24XC9mfL9XcWK+tVq1kfsfVx9akHnIC1FAZQDmYhrlhTCyF/Y7wQr573cAggr99DJ/+5MOUc=;NohXC63hwAH6GXufK6MSPg=="

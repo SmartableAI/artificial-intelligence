@@ -28,49 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Entropik Tech raises $8 million in funding led by Alpha Wave"
-    excerpt: "Entropik plans to utilise the funds to expand its presence to the US, European Union and South East Asia, and to deepen its artificial intelligence capabilities"
-    publishedDateTime: 2020-09-02T08:51:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave-11599033123889.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave/amp-11599033123889.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave/amp-11599033123889.html"
+  - title: "Siri Shortcuts And Google Assistant Shortcuts Reveal The Future (And Danger) Of Smart AI Assistants"
+    excerpt: "In iOS 12, Apple started rolling out Siri Shortcuts. In iOS 14, they’re getting much smarter and more pervasive. Now Google is rolling out shortcuts for Google Assistant. In doing so, they’re both showing us the near future power of AI-driven smart assistants."
+    publishedDateTime: 2020-09-03T00:42:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: "https://images.livemint.com/img/2020/09/02/600x338/startup-kElG--621x414@LiveMint_1599035331905.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Entropik, Indian Startup That Uses AI To Read User Emotions, Raises Funds"
-    excerpt: "Entropik Tech, a startup that specialises in facial recognition technology to interpret people’s emotion as they watch video and other media, raised $8 million in its fresh funding to strengthen its technology and expand its business."
-    publishedDateTime: 2020-09-01T17:15:00Z
-    webUrl: "https://www.bloombergquint.com/technology/entropik-indian-startup-that-uses-ai-to-read-user-emotions-raises-funds"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 36
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2020-09%2F2c92bb7f-3973-4748-9d46-464c0b3034bb%2F322274447.jpg?rect=0%2C69%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f50365db3264b95aba4c6aa%2F0x0.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Emotion analytics startup Entropik raises funding from Abu Dhabi fund, others"
-    excerpt: "Entropik Technologies Pvt Ltd, an artificial intelligence startup focussed on emotion analytics, has raised $8 million (Rs 58"
-    publishedDateTime: 2020-09-02T11:30:00Z
-    webUrl: "https://www.vccircle.com/emotion-analytics-startup-entropik-raises-funding-from-abu-dhabi-fund-others"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 34
-    images:
-      - url: "https://assets.vccircle.com/uploads/2020/09/MrRanjanKumarCEOandFounderEntropikTech.jpg"
-        width: 810
-        height: 506
+        height: 800
         isCached: true
 
 secured: "fxMD/yRqONpP1EfJeyaaF6i5h6djZtkb7n2prRJl51IJLZDWvWekGXfaUYoxeYF4++INcGobrv2GHIDC1++ESd20BTdiXuU2PPJhn08eUCYwQf/sCp02r2xZgwrOBZaHUPFtpEshalCSRgiWuan0T4x9nQicuSEWFXt4XwOXOB1tGlQ2k+198+XlizUVQtb307+9D5RLAFwCcAVkbpXwQiMZfmnLNOTw6U5tXkU6wIXo/qT7RsYIy07NO8ZLNxNOVao/NJYRCmPCARCA0447Z2Ay+J3JScRwzIgjQL3cKp9BROLu6ep9GAFeBdx4YIUQ36eMw68rv1gAjc9MFB1eUsWRlLbnjgB7+hX23E6kZcSiwsd+uGocJspMrJqk+CYJ7dPRUOEjJLmU/LAV/e1V9t1faJyOWNEria0TjHz8jatLcuuuA+yZHTrasLtHmbpj5GqSYmsNP9ag74kSrIw3kIc8hdNGJxnn2gPrx7zV6hIA0UZDYhBXNIyH9df9ulAG3Y9zbvJU9NsVEVzD0qTufbxiEBwyFxgIy5z37zRapQk=;jcn9+Yw/q6hx2AqwzsPR5w=="

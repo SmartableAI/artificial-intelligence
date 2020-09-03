@@ -54,10 +54,10 @@
     {
       "path": "_news/2020-09-03-gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu.md",
       "title": "GPU company Imagination Technologies to teach students how to design a CPU",
-      "excerpt": "After selling off its MIPS processor business back in 2017, Imagination Technologies has focused on what it does best, namely graphics processing technologies. But CPUs seem to remain on the company’s radar as this week the firm announced its first RISC-V computer architecture course under-graduate teaching as part of its Imagination University Programme (IUP).",
+      "excerpt": "This does not necessarily bring Imagination back to CPU business right now as it yet has to announce any RISC-V products, but rather demonstrates the company’s interests. The course is called “RVfpga: Understanding Computer Architecture” and it includes theoretical and practical materials to help students understand the basics of processor architecture in general as well as modification or RISC-V cores and microarchitectures.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
-      "originalUrl": "https://www.techradar.com/nz/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
+      "webUrl": "https://www.techradar.com/sg/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
+      "originalUrl": "https://www.techradar.com/sg/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
       "featuredContent": null,
       "heat": 87,
       "tags": null,
@@ -72,8 +72,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
       "publishedDateTime": "2020-09-02T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {

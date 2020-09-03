@@ -3,8 +3,8 @@ category: news
 title: "Pentagon picks Google Cloud for AI-assisted cancer diagnoses"
 excerpt: "The Pentagon's Defense Innovation Unit has chosen Google Cloud to develop artificial intelligence solutions for cancer screenings, the company announced on Wednesday."
 publishedDateTime: 2020-09-02T16:30:00Z
-originalUrl: "https://www.upi.com/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/"
-webUrl: "https://www.upi.com/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/"
+originalUrl: "https://www.upi.com/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/?ur3=1"
+webUrl: "https://www.upi.com/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/?ur3=1"
 ampWebUrl: "https://www.upi.com/amp/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/"
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/"
 type: article
@@ -41,6 +41,6 @@ related:
         height: 400
         isCached: true
 
-secured: "CV+BBlx0izGKiMOjZScPmfMj5T0MfucaR3+nXwwn6LKJ4ReSQG3rdG/xQIzmWpyqLXwXK3QCfOig9IuJeipHBQzBCO40yP+GHwoY5qfTvT34I1RivsirB1ZHU8Wwtb06WAO27wigMucREZ13pJCmwNKJKZbXr75eRgE13T/CC/h7unIxuWOuyXQJ35U4F2XL3TLHVhIlLDB4NTetzCXn7qhgBkoly+P4nSNmUJXoHJi2bZV4u42Nfg2Bx4xEju3MOr8dcet8je0lXxGr1YaOpAfN23KSFxwcExFx6So43SIuCEOn2UHqw/x7LItV/WKhG67TL8u0JME7GMv2Kfclsu2PYKyk9oHSqEv/J1Joy1g0AIzqlS1EVMPz000wI5Y6DYS5xUyFPJS8yBg7iR6QkQ/1n5iBY5D11Yrw7qoOAyMz8lU58B7K0ZQg5oSkqjQX1OTS6w54bO8Eb+YsYoDVB2DIf3oWXoTq9tNoqHZQblFgfPc6ZVgroCa3n4Q/fggruR2iTkvn0m2Fnqjet958WwO/l6ld3676wx+JLM7HrJQ=;rjCL2KE+7Dr3llhzw5OZfA=="
+secured: "UUq+0l/qJKm8pBF2K2a1pjVk9aJ4MX/TmtgXZhRa9cHfxtq6hBeswABCZXlF6RV2+0Oz1YHk2vL+vh+LA4ouYqE+Cq9RtOKMI7+GjUbzylIBiGJLGSR2a51JFeg5riQ2hg2IxUo1zHSvQxHK2e1BHX/Ak+O+s+2ADe4LFhHCsyJczxx2Wva2nDWqegCwchnNO4BKm8B7WiLBK8bUZ0CSrPPZ+a6pSK8hTOKKr5Q9JfvdD/e8HIjHPthVimqw3O753VSaF/zMXZo/D4UQXkCrY2wVFCjW0HBITtO3udMrMK7YU9juc383e7Imqtpe0LpYBQ3wVxMcPQh4yCHPm7i1sYA43+RA9fBr6o6u/0qQVOA=;HJ/p97wdMa8/OWb5M01dyQ=="
 ---
 

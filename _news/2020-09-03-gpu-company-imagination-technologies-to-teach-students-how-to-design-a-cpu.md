@@ -1,12 +1,12 @@
 ---
 category: news
 title: "GPU company Imagination Technologies to teach students how to design a CPU"
-excerpt: "After selling off its MIPS processor business back in 2017, Imagination Technologies has focused on what it does best, namely graphics processing technologies. But CPUs seem to remain on the company’s radar as this week the firm announced its first RISC-V computer architecture course under-graduate teaching as part of its Imagination University Programme (IUP)."
+excerpt: "This does not necessarily bring Imagination back to CPU business right now as it yet has to announce any RISC-V products, but rather demonstrates the company’s interests. The course is called “RVfpga: Understanding Computer Architecture” and it includes theoretical and practical materials to help students understand the basics of processor architecture in general as well as modification or RISC-V cores and microarchitectures."
 publishedDateTime: 2020-09-02T17:00:00Z
-originalUrl: "https://www.techradar.com/nz/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu"
-webUrl: "https://www.techradar.com/nz/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu"
+originalUrl: "https://www.techradar.com/sg/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu"
+webUrl: "https://www.techradar.com/sg/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu"
 type: article
 quality: 87
 heat: 87
@@ -30,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "YA2rDeGOC0Eno+130TMdcZ/BPhh1QW/uShusWUUph/7haYAOYg5KkOVwXZqXJUpDhQWAfCpAwHigsuk0i+nsRkM49VDnh+IExtH2hgLDQlmBYGDygr46UteXIlcfq8GD5/J4F/FX7as60+B/p3sboKNmYxiKt05aJVXJ+G8fbindAvsOAuOgW6KWv3d9ZoD0XODbc4q0FXlu34w6RJB3cqCDiKKo/ys9M58po6cDIaWz4PayAYxgOAPwVUtxmO3FM4G8jK6f0oU+vyDdgR0m9T8EMlbBYC0WoZggn3n9WpF+ZAztKg6N7VP29VQryElqDLorMrDwfFbUXcp+TUD8CVMkOmGt+dX2rP7r8061BeQ=;Dqk68bMlGVPzxAbwkoO3ZA=="
+secured: "4muqj2+2FLoEfdTHAPwILqLh3geZK+faPzWRcp6DR8/AEgoybw6uF9VNkgTfMB4cSxiEd2/auNY2IP1CRAITTgCnfwCHFo33umfw0aNuP3TkEF+v+jTWr0aIIGB5sRtlv6sU6lUkuMsnb4Be5OGs5F35Bbz1GGwY5NzknlwHJLunvz2HP2wkp2PobnmOn7KOyXy03+Kw48Rzb1XL9NYTLA78Q9RpS4LZdfld+X+tJywtStdsCDa9My42vLBa4E6Q64nmvBqGCVBq8fzcvB9o5illslWypA4k57XEFL1igvMiJpY04f9TsMF/7Ripuj8gdqa4XMFdPEw3QTs8Cdk//TSzWz4NmWjMogET5ctag84=;KpWpKPuaKLXm/x4HP0ITqw=="
 ---
 

@@ -2,6 +2,150 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-07-24-machine-learning-reveals-recipe-for-building-artificial-proteins.md",
+      "title": "Machine learning reveals recipe for building artificial proteins",
+      "excerpt": "Proteins are essential to the life of cells, carrying out complex tasks and catalyzing chemical reactions. Scientists and engineers have long sought to harness this power by designing artificial proteins that can perform new tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-07-machine-reveals-recipe-artificial-proteins.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/2-protein.jpg",
+          "width": 2880,
+          "height": 2365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-07-machine-reveals-recipe-artificial-proteins.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-machine-reveals-recipe-artificial-proteins.amp",
+      "publishedDateTime": "2020-07-24T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3.md",
+      "title": "AI Weekly: The promise and shortcomings of OpenAI’s GPT-3",
+      "excerpt": "Even OpenAI says \"The GPT-3 hype is way too much.\" A look at the promise and shortcomings of GPT-3, a language model that's attracting a lot of attention.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/amp/",
+      "publishedDateTime": "2020-07-24T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-apple-has-acquired-more-ai-startups-than-google-facebook-or-any-other-big-tech-company-is-apple-bulking-up-in-ai-or-just-catching-up.md",
+      "title": "Apple has acquired more AI startups than Google, Facebook or any other Big Tech company. Is Apple bulking up in AI or just catching up?",
+      "excerpt": "Apple bought more AI startups either Google or Microsoft over most of the last decade, a report found. Some purchases may power future services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/apple-leads-other-tech-giants-in-ai-purchases-analysis-finds-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f1b0f28f34d051e3769ebbb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-24T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning.md",
       "title": "Galvanizing manufacturing with Artificial Intelligence and Deep Learning",
       "excerpt": "As a market leader in CAE solutions, Hewlett Packard Enterprise is delivering a purpose-built solutions portfolio jointly with NVIDIA® and several independent software vendors (ISVs) in the manufacturing industry to help manufacturers improve their AI/DL ...",
@@ -992,137 +1136,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-us-artificial-intelligence-in-manufacturing-market-top-companies-microsoft-ibm-intel-siemens-aws.md",
-      "title": "US Artificial Intelligence In Manufacturing Market Top Companies: Microsoft, IBM, Intel, Siemens, AWS",
-      "excerpt": "Jul 24, 2020 (Market Insight Reports) -- The 'Artificial Intelligence in Manufacturing Market' research report provides a succinct analysis on the recent market trends. In addition, the report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/us-artificial-intelligence-in-manufacturing-market-top-companies-microsoft-ibm-intel-siemens-aws-2020-07-24",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-23T21:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-this-cheap-coding-course-is-perfect-for-total-beginners.md",
-      "title": "This cheap coding course is perfect for total beginners",
-      "excerpt": "Beyond that, you'll learn the fundamentals of JavaScript, Java for Android, Swift, Tensorflow, React, and even dabble in Python. Whether you're 18 or 68, it never hurts to learn something new.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/uk/shopping/july-24-coding-courses-on-sale/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F07%252F24%252F49%252F8f2ae3e8f79748b2966621fd02a63c05.104e0.jpg%252F1200x630.jpg?signature=GX9ozoWEpRmOgCQTxJ5D24a4ksE=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/uk/shopping/july-24-coding-courses-on-sale.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/july-24-coding-courses-on-sale.amp",
-      "publishedDateTime": "2020-07-23T20:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-railways-to-revamp-the-irctc-website-with-artificial-intelligence-feature.md",
-      "title": "Railways to revamp the IRCTC website with Artificial Intelligence feature",
-      "excerpt": "Mr. Yadav said the portal will have Artificial Intelligence capabilities integrated into it. “When passengers book the ticket, based on the analysis of the past data, the AI feature will be able to forecast the chances of reservation confirmation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/railways-to-revamp-the-irctc-website-with-artificial-intelligence-feature/article32176868.ece",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/railways-to-revamp-the-irctc-website-with-artificial-intelligence-feature/article32176868.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/railways-to-revamp-the-irctc-website-with-artificial-intelligence-feature/article32176868.ece/amp/",
-      "publishedDateTime": "2020-07-23T18:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

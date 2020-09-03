@@ -23,6 +23,17 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "Telix Pharmaceuticals Limited: Telix Pharmaceuticals Enters Strategic Collaboration with Varian Medical Systems for Advanced Prostate Imaging"
+    excerpt: "Telix Pharmaceuticals Limited (ASX: TLX, 'Telix', the 'Company') today announced it has entered into a strategic collaboration"
+    publishedDateTime: 2020-09-03T00:05:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50607382-telix-pharmaceuticals-limited-telix-pharmaceuticals-enters-strategic-collaboration-with-varian-medical-systems-for-advanced-prostate-imaging-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
+
 secured: "/MMCLyvvnA23mTjAGi2GyJkTK6bTvTNlteyDtnx552NrHuVjBMLb4ayeK9oVhkbAXzCQcVR/a3JUBk7LacPqmEJFvlq+G533CPQo/seYCB3QSEVSzlFVjtVVHbvFD+Eh8e/HRdBnzcwMC0hU1DC5fYHbCEdv2G5YjQq1f7JSDYQlRR2gmTl8aRd6gLBcTUhM1YBnBd6/Nvp4HF9OflpwF83vB9PnKwXK3uhFmj4rgmbttfU0EBOl9klr4YqhIz+P2XTIOEFqlDIe2FX6dnjRNW1aYB8fcyS6CR6uzsUxL+PQX042+oaOO+xdtxGyJMKSLubJ/kOzwOpct6NE4VexIg9+vAD2HUAtCFunQ1yV3/Q=;C13NEHKa+xpGwbqenBGHag=="
 ---
 

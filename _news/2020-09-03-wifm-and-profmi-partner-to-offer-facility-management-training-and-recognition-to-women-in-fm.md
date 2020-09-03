@@ -1,29 +1,29 @@
 ---
 category: news
 title: "WIFM and ProFMI Partner to Offer Facility Management Training and Recognition to Women in FM"
-excerpt: "To ensure its members and the facility management profession at large are prepared for the current FM spotlight and are keeping pace with"
+excerpt: "To ensure its members and the facility management profession at large are prepared for the current FM spotlight and are keeping pace with the growing demands on the industry, Women in Facilities Management (WIFM) recently announced its partnership with the Professional Facility Management Institute (ProFMI) to offer the ProFM® Credential Program."
 publishedDateTime: 2020-09-02T18:45:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/wifm-and-profmi-partner-to-offer-facility-management-training-and-recognition-to-women-in-fm-301123295.html"
-webUrl: "https://www.prnewswire.com/news-releases/wifm-and-profmi-partner-to-offer-facility-management-training-and-recognition-to-women-in-fm-301123295.html"
+originalUrl: "https://apnews.com/PR Newswire/33f43fdf2be4b058fdf5f8a0b8dcada5"
+webUrl: "https://apnews.com/PR Newswire/33f43fdf2be4b058fdf5f8a0b8dcada5"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "hez5dB1Rz9EDKjlzRXXWV6NXuAbxXo4ptDcsnuUbELXif2Oma9KUKya0P1UbPwDWUQ3ZndUYKwOAdjt4gWwkeRMcOJM7NgNU9xYNM1JZcBCxIh/aj1eu0SR8PqpynXc6HBKvN2zeg78fuqPpPKoNhUkU8T8hCML3eT2ReEZIYQR78Yrsrzf8CWVm+UNoDWnMs5jtjY5r2ZfRaL0svEOXNoViP9Z97vWb8K4UFoF5vsLLvXmfbxjHB65mN4t6vZAsv+rj2Bw4Zcj0hWJn3v77FsM9m0C4c8lH6ebZWxwZJOKiiQYJnPoohytkijW/VuK/zipLdCdY8PQQgoQz539VbtK1SxWIk9ImHkiUjwoGRxU=;eDkc6RIq8fIa0cfK1gxngg=="
+secured: "0ZNhra2xOQ1yEROkvBRlbhbmJCfXsOUPA1UJA/nz9BOFCKELXGbG1mKSuuIta8jY04x1Iv+Mr8+67FclzR1EHglpT0AWmq/sxDuSoGVeo9XZ16Yiu8awhmJB2orEvcyCZhOEfpfzSf/yTsKY4obhTDNfXC+AXAztlhsYD+HyoF5tpgeSJ00gyjfTpMRLrP0LX2NSUMkkSggWOERhPs9qdH2vZJbHqRRhUBh/lEYYS3yXrPbrMyvc4bOK7luEkEqMx0tf5NCJlD+KwfYHZ8Xiv1IlZuFtWikw/W6GcQnr9KLH0N0Exbqwkytx9viw6yfTdeoAKVEs338Yyjght2lQC5BmkiW0khIgpQKPoV/hTYE=;4s4/3pzTfHjC/+41TONdtA=="
 ---
 

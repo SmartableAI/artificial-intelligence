@@ -429,19 +429,19 @@
     },
     {
       "path": "_news/2020-08-26-ut-austin-selected-as-home-of-national-ai-institute-focused-on-machine-learning.md",
-      "title": "UT Austin selected as home of National AI Institute focused on machine learning",
-      "excerpt": "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine Learning, one of five new national AI institutes.",
+      "title": "UT Austin Selected as Home of National AI Institute Focused on Machine Learning",
+      "excerpt": "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php",
+      "webUrl": "https://news.utexas.edu/2020/08/26/ut-austin-selected-as-home-of-national-ai-institute-focused-on-machine-learning/",
+      "originalUrl": "https://news.utexas.edu/2020/08/26/ut-austin-selected-as-home-of-national-ai-institute-focused-on-machine-learning/",
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/241249_web.jpg",
-          "width": 1440,
-          "height": 983,
+          "url": "https://news.utexas.edu/wp-content/uploads/2020/08/gates_dell_complex-UT-Austin830.jpg",
+          "width": 830,
+          "height": 498,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -450,11 +450,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T06:28:00-07:00",
+      "publishedDateTime": "2020-08-26T06:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "The University of Texas at Austin",
+        "domain": "utexas.edu",
         "images": null,
         "publishers": null,
         "authors": null
@@ -464,9 +464,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI"
       ]
     },
     {

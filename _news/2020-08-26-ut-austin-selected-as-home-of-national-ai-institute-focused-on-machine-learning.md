@@ -1,27 +1,26 @@
 ---
 category: news
-title: "UT Austin selected as home of National AI Institute focused on machine learning"
-excerpt: "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine Learning, one of five new national AI institutes."
-publishedDateTime: 2020-08-26T13:28:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php"
+title: "UT Austin Selected as Home of National AI Institute Focused on Machine Learning"
+excerpt: "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine"
+publishedDateTime: 2020-08-26T13:15:00Z
+originalUrl: "https://news.utexas.edu/2020/08/26/ut-austin-selected-as-home-of-national-ai-institute-focused-on-machine-learning/"
+webUrl: "https://news.utexas.edu/2020/08/26/ut-austin-selected-as-home-of-national-ai-institute-focused-on-machine-learning/"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: The University of Texas at Austin
+  domain: utexas.edu
 
 topics:
-  - Machine Learning
-  - AI
   - AI Ethics
+  - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/241249_web.jpg"
-    width: 1440
-    height: 983
+  - url: "https://news.utexas.edu/wp-content/uploads/2020/08/gates_dell_complex-UT-Austin830.jpg"
+    width: 830
+    height: 498
     isCached: true
 
-secured: "DCWZZhEYJSwKKDA1IZ3q3psAlKAAUU3C2qvxXs/wHAwSjb19xJ4Ac/CfSWqwexCbIiHIQzeSQe/STo/hxaxCFzMTXLxJj4k4wYS/AUrqqOxBXLHp00DIJKljTO8OluyfQJMnFimLZjthbZlbe330DlI4uM32wbUhKu0HF55mzKeJ8Y8Ji5woRfMIF/TzxyxzacONVnurfXjdoR8o9wDT7EN2okAvASLix8FedqEF/jSBegElyobUj03ZJX3oDcdC4VHMGuX+6Eceq+Jkxh04zxtiqjkf+D1q7qiODr6Ctbd5d8aYD0iU68Deh8wa1/5ARxVQnhQiLJ79YtmSjVlO8d0IlL5wT/zJMmthnkwOkZFX7aFqAWxnatZ+DxHY9n0h5nb1ngsRRXKmdw5Prvj9d+viamjN7XLKfmNQLvD45CGtp9J3lIN1RYb5+2sfpV7V4UzJ/SRNXmQflt9NvL3SDoKJCsVpf46sO+94dQEeWh2a46nB5FuUkryypQbcbmn3bZmqFttWg7BQWnTwusLtTHpaDJkL6qD4KNfVQiggn8M=;21oHG7np50mK1Xer0o4DZw=="
+secured: "Hc0w1l43rjQC/LH5V/gzSgiHIgYyDUavtxsTnECQO9dMrV490ToyuyA05XotHNfpx8HMp5QFGHDSGPYbmsAi1d9lgCRedaos7aayFEifvSEvwxaX+dRR+S2yKKYMboKOVtcbaQfurMDPixWszNEtcbmyx5+ZgJPg6/p9uiktXcyu2Lk2P6rFA6GZArvm2gH4NUN4cfT4sytBba3bJNlXQkZ2ofW/rWy7SGEgFZCSQITLsx0PlXVHYAUZUKLiU35GhtxzY3VViXwCLbvWb+bi36wzXnrhKCE9LxFvdvDOjurxFCaD5XvaM4P9rRSq42Lcldtyt77hfetF8W6YlqJ8vg2Ron3EJ7d5ROUjBjJ2Ciw=;EgTcIc0UDxb3odak5EMv6Q=="
 ---
 
