@@ -25,6 +25,22 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "Blackline Vision Transforms the Future of Workplace Safety Through Artificial Intelligence"
+    excerpt: "Blackline Safety Corp. , a global leader of gas detection and connected safety solutions, announced today that its Blackline Vision data science team is launching testing with select clients for its first artificial intelligence (AI) software module,"
+    publishedDateTime: 2020-09-02T17:28:00Z
+    webUrl: "https://www.lelezard.com/en/news-19402150.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 29
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
 secured: "TfjTcl0F5SUh9BDWZoPfzQGw2WjrCyZItp84OAYcZ9GPC46Dk7YX0KH3hZUSNiJbzicl0gpr0492SVkLZCypuGnxyItVcRjy9uMF9AvI+U7FAP1iQoSevtreOKK7Shb+hQeAMFU7SnXD2e/fhnEdIBzic9pF0nxvYt2h4/X1l/XpLJLU8mncIAS1wQ2A6dT0E0jyznB9jh1duYtdo+eTzrc6oaXIQwSxV1KMdLF89bjLd99/9tKE+Cs42AZ7lD8qindAjDEGrlE3q0F2GKyhaNh9vlFD6taeCHwFniT5VtY7DXCu08xk83jcFesjqAMMTKOJzXMrCvS7h4MQ9IsNkbm8duz+aLyaUzGkl7WiXpQ=;se4JRmlel+HmOVDQpEWHyg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -197,6 +197,20 @@ related:
       name: TribLIVE.com
       domain: triblive.com
     quality: 19
+  - title: "COVID-19: Facial Recognition Market 2020-2024 | Increasing Instances of Identity Theft to Boost Market Growth | Technavio"
+    excerpt: "Technavio has been monitoring the facial recognition market and it is poised to grow by USD 3.35 billion during 2020-2024, progressing at a CAGR of almost 12% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
+    publishedDateTime: 2020-09-02T23:00:00Z
+    webUrl: "https://apnews.com/b80d1caef47a4be7b0929cf252a57ecb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "d0MI06gM/9Ao9pzeIeLFnqwHJ/3ACEs2heKu2LhRrNyjbk8GHK9uEMUcJOoN5Ro3WKCSsrqez6PxZY1vIhjIiHuvIW/Lt67uz/WuHFZiuJPgPr5qwkLh+MmTrrux1lUwrLQJ39JjvPTknCA5wH3sVqwieL8bFGRVLFwBnqKP+gmIAoNEFd1E924VJgVdaS9ldR7KT7PioSGI4N8cylQvAWngrZFHUyIDmEKmb1IDjK013Y5BAuwWZ6TDH+nWSdPiGK8i9lF0QHsfd3mt1SZsgvUGDfq9LVOAsiHzDoa1Kc6YRn10BOXm/mOBz+VEu6iYgV+wbd8RwheiPZr6lKdm+Xi8B0psD/A1jOvV86ofT5cuF/FSE0Jhc9BjPukPe8HfCy+Si9kFfwJYUYPrsUho6BI4MDlF2zroBF94f+qxtb/19p0RnQ9awZJ6SxqMjuNPoFQB9tjhAxDywI65UOHxOPMgLDf3/o+tc6iaGWujQqMIaFMQngogc3PZ9IPKCsG5xmIZJgb4d3ZFti28A+oszn6bs/QjFe3cuqvyklGjpCY=;E9yhAyavGA03BSIJd3UEJg=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
-title: "dunnhumby Speeds Time to Insight for Data Scientists with New Tool on Microsoft Azure"
+title: "dunnhumby Speeds Time-to-Insight for Data Scientists with New Tool on Microsoft Azure"
 excerpt: "Microsoft Azure, enabling data scientists to deliver customer insights faster. dunnhumby Model Lab is designed to solve complex retail challenges, such as understanding customer churn and predicting propensity to purchase and in what channel,"
-publishedDateTime: 2020-09-02T14:11:00Z
-originalUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool--on-Microsoft-Azure-142651.aspx"
-webUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool--on-Microsoft-Azure-142651.aspx"
+publishedDateTime: 2020-09-02T15:43:00Z
+originalUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool-on-Microsoft-Azure-142651.aspx"
+webUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool-on-Microsoft-Azure-142651.aspx"
 type: article
 quality: 47
 heat: -1
@@ -46,6 +46,6 @@ related:
       domain: mrweb.com
     quality: 19
 
-secured: "E9ExsQ0w7+FZ71MrG5mj6In3GzlOmKi7AXTTo16+PmhPDu1Nh9rnp3JoWDs5TbjrVOf5GddqgfcKt1h58aXJcGND8P4QWT7I0pkAeiSZe5fwr4mUz+0YVjRY8pRQ83C7Dh69mxZqsyPy3CodsSGD9URnDlCl7WWwz77jNisEp+aDmFFQ1/s/3P+MSS947DQB965j3ARO27qVqlsMMgu1DfviqQ7kBhvz3W6/1BrPvRPBiF/yupZFawD0WaoCjAH1yALSHRDMlAJ9EPLyacBtTa9FeaqXP8K9//EnoZ/OD0f1NCfpwL8jI/hbq6e3FXkx6kBLGu48itGRAdSVnfl4+XaEnsAHs3Q/fp5HsPv2ThE=;i9TiXYac21JlcD0uJVrF6g=="
+secured: "iSwEDYUemxO3OTHNjOpigbjQDis8VA4vrFZeuNZZ1RxkDatSKq+7jBneNjI+wo130FlxDMRXVytQQd1ftbRl/JFFn3okFOJ9e3PpU2qp1RHxxj4vlLoepEmfOuhalBtnonaqKrNTOpMUlqKDVv8UGDvpXaKdK9dREhF5nvGTjExAmuhBw5y+0SyX//nYeJPjuzHV8oQqB1QHP+amaNzc/OddAA5ehOsSfPUsI2zpwDoZFmlJPPUSFMRPoDyjaq3dhn8IZTd379DSDEjnn4Mh9Oavm6iNzGYK5D7iyYebVnGhAQYErlStEFmeTzfWQzhNYu4dO1Lvtob4Qdz0pfXBjK9uhoOdxk1kqy6eXLpA1Io=;C7c29kDDJynatezCQWiy/A=="
 ---
 

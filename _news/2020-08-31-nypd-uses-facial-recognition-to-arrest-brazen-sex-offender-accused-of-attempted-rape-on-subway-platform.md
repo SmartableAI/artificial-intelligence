@@ -197,6 +197,20 @@ related:
       name: TribLIVE.com
       domain: triblive.com
     quality: 19
+  - title: "COVID-19: Facial Recognition Market 2020-2024 | Increasing Instances of Identity Theft to Boost Market Growth | Technavio"
+    excerpt: "Technavio has been monitoring the facial recognition market and it is poised to grow by USD 3.35 billion during 2020-2024, progressing at a CAGR of almost 12% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
+    publishedDateTime: 2020-09-02T23:00:00Z
+    webUrl: "https://apnews.com/b80d1caef47a4be7b0929cf252a57ecb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "p2aZg3xBXgX+bRMHjm1JlBhZpqLcXXCfNaZDZQi+YhfwK4NV4/OhslfD1yA/uQb5TIZCeHBMsDXZEm3IvOGR6P0eVVE4pxuvsTMBnkVYFA+vPpK8FOkbR/PXhIspAqT3Bv9hXKpSIKQ64AsvLupDYnGUGxrRdNM6M7bLBrabtnBBaUlkvcClQSADJFdpA14bwYq28Y2UnrIlUloQD0Y3thXEbltV46nZoZtvSFqMpM2xijry6GCceWvEEqnVqPweKOEJlA98g5jsvpuVJcpI+FQbLkD9wiocFntM4AMfOt1ZTdDQcKY4FgJ5AEfKMBg6EXC6O1YutbaRHrjo/QUserHSGSN+glgeiSGs5GFFKWE=;9fnm9e0xd9KrBZ2beVU3yg=="
 ---
