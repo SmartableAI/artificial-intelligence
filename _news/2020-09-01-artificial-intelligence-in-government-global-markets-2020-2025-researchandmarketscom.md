@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence in Government: Global Markets 2020-2025 - ResearchAndMarkets.com"
 excerpt: "The Artificial Intelligence (AI) in government market was valued at US$4.904 billion in 2019. In recent years, government in different countries are taking a keen interest in artificial intelligence (AI) technology."
 publishedDateTime: 2020-08-31T17:28:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200831005637/en/"
-webUrl: "https://www.businesswire.com/news/home/20200831005637/en/"
+originalUrl: "https://www.businesswire.com/news/home/20200831005637/en/Artificial-Intelligence-Government-Global-Markets-2020-2025--"
+webUrl: "https://www.businesswire.com/news/home/20200831005637/en/Artificial-Intelligence-Government-Global-Markets-2020-2025--"
 type: article
 quality: 28
 heat: -1
@@ -24,44 +24,105 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide IoT Chip in Healthcare Industry to 2025 - by Connectivity and Geography - ResearchAndMarkets.com"
-    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
-    publishedDateTime: 2020-09-02T13:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200902005651/en/"
+  - title: "AI in Fintech Market Innovations, Technology Growth and Research 2020 to 2025"
+    excerpt: "The report provides a detailed assessment of the 'Global AI in Fintech Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape, deployment models,"
+    publishedDateTime: 2020-09-03T09:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-innovations-technology-growth-and-research-2020-to-2025-2020-09-03"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 38
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
     images:
-      - url: "https://mms.businesswire.com/media/20200902005651/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
         isCached: true
-  - title: "Opportunity Outlook: European AI in Social Media Market 2020-2025 - Natural Language Processing (NLP) Expected to Dominate - ResearchAndMarkets.com"
-    excerpt: "The European AI In Social Media Market is expected to grow at a formidable rate during the forecast period. The European AI In Social Media Market is driven by the utilization of the AI technology for effective advertising campaigns on different social media platforms."
-    publishedDateTime: 2020-09-02T11:29:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200902005546/en/Opportunity-Outlook-European-AI-Social-Media-Market"
+  - title: "Artificial Intelligence Platform Market Trend, Technology Advancements and Global Demand 2020-2025"
+    excerpt: "The report provides a detailed assessment of the 'Global Artificial Intelligence Platform Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
+    publishedDateTime: 2020-09-02T09:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-trend-technology-advancements-and-global-demand-2020-2025-2020-09-02"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://mms.businesswire.com/media/20200902005546/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
         isCached: true
-  - title: "Worldwide Augmented Reality in Healthcare Industry to 2025 - Major Players and Strategy Analysis"
-    excerpt: "PRNewswire/ -- The \"Augmented Reality (AR) in Healthcare Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-09-02T18:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-augmented-reality-in-healthcare-industry-to-2025---major-players-and-strategy-analysis-301123220.html"
+  - title: "Artificial Intelligence (AI) in Marketing Market: Industry Analysis and Opportunity Assessment 2021-2024 | Impact of COVID-19 Pandemic"
+    excerpt: "Artificial Intelligence in Marketing Market Research Report, by Application (Ad Optimization, Content Curation),"
+    publishedDateTime: 2020-09-03T07:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-industry-analysis-and-opportunity-assessment-2021-2024-impact-of-covid-19-pandemic-2020-09-03?mod=mw_quote_news"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 6
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Education Market Dynamics and Competitive Scenario through 2023 | Impact of COVID-19 Pandemic"
+    excerpt: "Artificial Intelligence in Education Market Research Report, Application (Content Delivery Systems), Technology"
+    publishedDateTime: 2020-09-03T07:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-dynamics-and-competitive-scenario-through-2023-impact-of-covid-19-pandemic-2020-09-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Security Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 – 2025"
+    excerpt: "Artificial intelligence in cyber security will increase efficiency and precision of the system to observe any potential threat in organization's system. Organizations increasing their horizon to completely different geographies are generating voluminous data to realize insights and are using analysis techniques to enhance their product offerings."
+    publishedDateTime: 2020-09-01T07:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2025-2020-09-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Big AI Trends That Will Revamp Fintech In 2020"
+    excerpt: "The emerging technologies are mutually strengthening, and the advancement in one technology indirect,General Information"
+    publishedDateTime: 2020-09-01T10:58:00Z
+    webUrl: "https://www.hostreview.com/blog/200901-big-ai-trends-that-will-revamp-fintech-in-2020"
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 39
+    images:
+      - url: "https://lh6.googleusercontent.com/vBLAKeqTTCKYev18hl4456rlIAukOr5gJe8DEcqZ2oeNAG4toMp7bGsTDua3RhKtasXv6Jl1gvtALihtvLVnLA2FzQ1bPcbk0LbzhkL76AycusIBnFPoiQVPSuzRCwyWpCwSGWLg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Artificial Intelligence Market in the Telecommunication Market Next Big Thing | Major Giants Infosys, Microsoft, Sentient Technologies"
+    excerpt: "Aug 29, 2020<p>Latest Market intelligence report released by HTF MI with title COVID-19 Outbreak-Global Artificial Intelligence Market in the Telecommunication Industry Market Report-Development Trends,"
+    publishedDateTime: 2020-08-30T06:28:00Z
+    webUrl: "https://menafn.com/1100715563/Artificial-Intelligence-Market-in-the-Telecommunication-Market-Next-Big-Thing-Major-Giants-Infosys-Microsoft-Sentient-Technologies"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
-secured: "V7oHmHPA0Efnn/ZUiBIS+xKbWRSgp2bo73+ulgx+59SxP9qcm8RLlOXfhO2MjIJ24ZTj+Io+4e8IVPcAi8HDRD43Csp3+O7qunfuzjUiSHbdSAM1hbAyd4CAeD00/vCk0auhZ2AQTpW3UlT0O+GuDPrw9uTn9j4UYGd8vlwonfNeAIW5jRBzimWna3VNpXOhDvs57KKwmncHHGvqb3REvHRatp1xN+4YGZet47wR5V6XiHaFtt5jEdCVd3a599PxWS/An8Yi/dk8aWIqbKgWGS4a0n2Je7H6Nqv9ar9jo16WhA6yTt13q1XryUCo3taZX3KapuqQCC1GKZyHoo2t3QiumTd6Z9kzhlrlfpAGgoE=;FOAeg5P+P9dThuXoYf4TQw=="
+secured: "nHUMmE7N7V2QD3S5XJ/vb2W1DOhO8S28doxVecCGF6j2EbImdR5XudqmKKvbczxsh4Pp5NHtweaJmxg311x9DmFIm3br+LGdKLV8aZVZs3vdh4NxYUoMg+fDrgjQLukQ6hN/ctNjbkze2V7WHkjC1nvwvwBU8sgVMi+AqLrhvffTru8aUsU+f9TGw8G1GDPrQchODFImgS6f1lq1OEC5mO+ZQ1DS4uX8+esCNxTZ/rMTha22x3iQOt7oH+piDf2gLaXuGK4BEaRk2fXfurg8qxrF1mcedtmc1Og5VOkFu1Vc3CepwQyrUx7TUwQU3MgzZ8Afi/yp8rJNQnCUa0Jza7NIaV19FpgdKN4BO/n150s=;4lVjxnY9FHSSgvs0trWGtw=="
 ---
 

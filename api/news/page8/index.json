@@ -2,6 +2,88 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-08-27-smart-home-market-worth-144-billion-by-2025.md",
+      "title": "Smart Home Market Worth $144 Billion by 2025.",
+      "excerpt": "Smart home is a suitable home system where appliances and devices can be controlled remotely from any internet connected place in the world using a smartphone or any other networked devices The smart home system requires an interface application or",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2122412/smart-home-market-worth-144-billion-by-2025",
+      "originalUrl": "https://www.openpr.com/news/2122412/smart-home-market-worth-144-billion-by-2025",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T827953070_g.jpg",
+          "width": 600,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2122412/smart-home-market-worth-144-billion-by-2025",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2122412/smart-home-market-worth-144-billion-by-2025",
+      "publishedDateTime": "2020-08-27T00:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-the-evolution-of-high-level-synthesis.md",
+      "title": "The Evolution Of High-Level Synthesis",
+      "excerpt": "What really excites Paulin is what’s happening in the AI space. “TensorFlow and ONNX are basically the de facto standards, so we only have one programming model, and two flavors of that. From that high-level programming model, automated mapping to ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/the-evolution-of-high-level-synthesis/",
+      "originalUrl": "https://semiengineering.com/the-evolution-of-high-level-synthesis/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/HLS.png?fit=974%2C377&#038;ssl=1",
+          "width": 974,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-microsoft-pnnl-and-uw-leap-into-white-houses-1b-initiative-for-ai-and-quantum-research.md",
       "title": "Microsoft, PNNL and UW leap into White House’s $1B initiative for AI and quantum research",
       "excerpt": "Microsoft, the Pacific Northwest National Laboratory and the University of Washington are part of a $1 billion effort to study AI and quantum computing.",
@@ -1055,89 +1137,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award.md",
-      "title": "DDN Recognized for Innovation in Artificial Intelligence Data Management with 2020 AI Breakthrough Award",
-      "excerpt": "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today announced that DDN®, the global leader in Artificial Intelligence (AI) and Data Management software and hardware solutions enabling Intelligent Infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
-      "publishedDateTime": "2020-08-26T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-ut-austin-selected-as-home-of-national-ai-institute-focused-on-machine-learning.md",
-      "title": "UT Austin selected as home of National AI Institute focused on machine learning",
-      "excerpt": "The National Science Foundation has selected The University of Texas at Austin to lead the NSF AI Institute for Foundations of Machine Learning, one of five new national AI institutes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/241249_web.jpg",
-          "width": 1440,
-          "height": 983,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

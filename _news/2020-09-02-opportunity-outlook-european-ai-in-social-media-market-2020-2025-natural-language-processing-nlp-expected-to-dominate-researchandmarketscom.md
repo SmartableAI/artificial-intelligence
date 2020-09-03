@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Artificial Intelligence in Government: Global Markets 2020-2025 - ResearchAndMarkets.com"
-    excerpt: "The Artificial Intelligence (AI) in government market was valued at US$4.904 billion in 2019. In recent years, government in different countries are taking a keen interest in artificial intelligence (AI) technology."
-    publishedDateTime: 2020-08-31T17:28:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200831005637/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
-    images:
-      - url: "https://mms.businesswire.com/media/20200831005637/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Worldwide Augmented Reality in Healthcare Industry to 2025 - Major Players and Strategy Analysis"
     excerpt: "PRNewswire/ -- The \"Augmented Reality (AR) in Healthcare Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2020-09-02T18:45:00Z

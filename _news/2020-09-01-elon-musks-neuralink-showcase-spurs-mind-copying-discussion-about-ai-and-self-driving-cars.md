@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neural
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://res.cloudinary.com/engineering-com/image/upload/w_350,c_limit,q_auto,f_auto/37158-69620-apple-patent-application-apple-car-1-xl_qcnbiz.jpg"
         width: 350
         height: 265
+        isCached: true
+  - title: "Who Becomes Liable When a Self-Driving Car Causes An Accident?"
+    excerpt: "While they may seem years away from reality, self-driving cars are indeed going to be the future. Not only are they the next step in ensuring road safety by preventing human error, but also because the world of tomorrow is going to be based around ..."
+    publishedDateTime: 2020-09-02T00:00:00Z
+    webUrl: "https://www.sfexaminer.com/marketplace/who-becomes-liable-when-a-self-driving-car-causes-an-accident/"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 24
+    images:
+      - url: "https://www.sfexaminer.com/wp-content/uploads/2020/09/22596686_web1_injurytrial_1.jpg"
+        width: 432
+        height: 243
         isCached: true
 
 secured: "6puAzzmM089hwxmo1tZ+j9ZPSKmYi9gKvyGF1v5OrajeyjWNNJZnvI+UefwDEZT2qqQJaGQ0gYscxhoHB9x1C9WVfvItN7CTYx/wDZ84QDflUa5itPSadmgr3EBZ5DI46vHXkMX48Edn6N5H9WcKKSDZvlYGtDCvsl9OV0XfTMAGsxC8jc/gQH6BNXP2XPEbHog50nK9gi9Knrm7cA2mXKGBRvluq5grCccqirQvAtkXfAnu2AyQ8cD4/QDyNovgcAgVQnhzYyq8hU037E3OdymHuHDt2aXvIcarwBpKhYnRBaDEckR7gRtkNPIRjAZ/6OKbx1yCKxwmuAHRPRFdKwC9A/wM1rROERmNtf3yYJ+zA9wI3chCfUz0XhIfGBNfdw3AQtWceCcZihqqNjZz0U3NsnBKPdyypv9AHpT2eGeckZJL9LFAk1h/9ka4hV/cvWGgO91lJktpoZ/CMI3qWeZ5SR/8JFH3MBjkP0iGg9OWva2Xl3W3pXBlDoZ0uhDKQ1FmndOPvvkbm97koCslEzHiCBckQQ8ASshkYIOngio=;TtjiWLRrhqWFsf6HQfEAgQ=="

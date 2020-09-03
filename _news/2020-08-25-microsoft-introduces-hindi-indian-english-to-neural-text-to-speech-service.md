@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Microsoft introduces Hindi, Indian English to Neural Text-to- Speech service"
-excerpt: "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech for a more natural interface.The service also provides customizable voices, fine-tuned auto control, and flexi"
-publishedDateTime: 2020-08-25T07:55:00Z
-originalUrl: "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-11598339825477.html"
-webUrl: "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-11598339825477.html"
-ampWebUrl: "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp-11598339825477.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp-11598339825477.html"
+title: "Microsoft introduces Hindi, Indian English to Neural Text-to-Speech service"
+excerpt: "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech Microsoft India has announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set,"
+publishedDateTime: 2020-08-25T07:31:00Z
+originalUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
+webUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174"
 type: article
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
-  - Machine Learning
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://images.livemint.com/img/2020/08/25/600x338/2020-08-03T164404Z_5_LYNXMPEG720HH_RTROPTP_3_MICROSOFT-TIKTOK_1596761246173_1598340721227.JPG"
-    width: 600
-    height: 338
+  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_1179149585.jpg"
+    width: 660
+    height: 440
     isCached: true
 
-secured: "B63rjuUsfWAHVka/SDleHXsldTIXD2bzqr+S+GKk584f7YlACsoj9hlptkA/yLKVFVaGs8qEKbw/20Q1+QODsKcVABb7MVSVAiAoxTUPIm98XYnv3cylaAEzpQ3eytI0yFcvKVvO6sGs5tk58AEngCbUPyd35SWETvXMP7C6T63XgmDoO1yaPQ4FT89Lu+NSu6t86Ki6tGXo3lviJ72M3kAw3DRwqclkgl+86apNiRhbp0x2y58yK/Jy7xmYP9WTVa8Lz1iH+kc5j0X3PjBQRnGvsZqLevNXe+7qQisaxIC3wawbfYxo99IBRtsuieVS9Wwd0atLkx+qi5yWx/C+PgA2AygTgL4h5MUvn2gb5cs=;vd7fSJJiZcqGtb2qxbfT2g=="
+secured: "x/rl2Ph5ax8QlvOVBw8nI9vpMIR7grRlzos5vKMFOrDI8u3ek1viG7ZEnhgfBKCjX9wnrsnesbmQzDqYbJ4F962DbEuNIuxylTSoJ9tuupQgrXImQ3hzQ44tl0Lrvj2wwKAjA49JPUGJd3rdJ8rSvvRdvg7JPnC+CzJEbPtcEwFzPCDKCZte41Z2HI0h7MS9SBl4z8EpE61MgSgdY5XD6wC5xg6f6AUYaljaydHn8CFmL9xk0zrSg9Oa2XWpCvF/wOmeb/rdFmHXxBac3HkSlAk9xTW0HHUfSjqogzljBwGKnwSZY5JZvI2356uKnIkP7dvGr2aZoiBj4fmIORbGj2keMNX75GrqSeG0XAeUEFM=;33CZoB4WGd6CuLDe8OEjDg=="
 ---
 

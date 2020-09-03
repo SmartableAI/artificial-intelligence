@@ -9,7 +9,7 @@ ampWebUrl: "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-p
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk's Neuralink startup working on computer chip implants for human brain"
-    excerpt: "Elon Musk's startup wants to one day implant computer chips inside the human brain. In a demo Friday, Musk showed off a pig with one of the prototype implants."
-    publishedDateTime: 2020-08-29T15:16:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 55
-    images:
-      - url: "https://media.khou.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Elon Musk’s latest startup wants to implant computer chips inside the human brain"
     excerpt: "Elon Musk isn’t content with electric cars, shooting people into orbit, populating Mars and building underground tunnels to solve traffic problems. He also wants to get inside your brain."
     publishedDateTime: 2020-08-29T20:13:00Z

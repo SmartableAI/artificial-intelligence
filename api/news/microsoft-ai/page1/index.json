@@ -903,32 +903,32 @@
     },
     {
       "path": "_news/2020-08-25-microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service.md",
-      "title": "Microsoft introduces Hindi, Indian English to Neural Text-to- Speech service",
-      "excerpt": "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech for a more natural interface.The service also provides customizable voices, fine-tuned auto control, and flexi",
+      "title": "Microsoft introduces Hindi, Indian English to Neural Text-to-Speech service",
+      "excerpt": "Neural TTS is a part of the Azure Cognitive Services and converts text to lifelike speech Microsoft India has announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set,",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-11598339825477.html",
-      "originalUrl": "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-11598339825477.html",
+      "webUrl": "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174",
+      "originalUrl": "https://www.tribuneindia.com/news/science-technology/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service-131174",
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.livemint.com/img/2020/08/25/600x338/2020-08-03T164404Z_5_LYNXMPEG720HH_RTROPTP_3_MICROSOFT-TIKTOK_1596761246173_1598340721227.JPG",
-          "width": 600,
-          "height": 338,
+          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_1179149585.jpg",
+          "width": 660,
+          "height": 440,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp-11598339825477.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service/amp-11598339825477.html",
-      "publishedDateTime": "2020-08-25T00:55:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T00:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -938,9 +938,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {

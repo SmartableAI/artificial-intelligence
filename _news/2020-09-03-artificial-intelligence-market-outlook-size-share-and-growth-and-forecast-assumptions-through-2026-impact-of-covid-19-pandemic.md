@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-03T04:11:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-outlook-size-share-and-growth-and-forecast-assumptions-through-2026-impact-of-covid-19-pandemic-2020-09-03"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-outlook-size-share-and-growth-and-forecast-assumptions-through-2026-impact-of-covid-19-pandemic-2020-09-03"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AI
   - AI in Robotics
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -58,20 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Platform Market Trend, Technology Advancements and Global Demand 2020-2025"
-    excerpt: "The report provides a detailed assessment of the 'Global Artificial Intelligence Platform Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
-    publishedDateTime: 2020-09-02T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-trend-technology-advancements-and-global-demand-2020-2025-2020-09-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Robots Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 - 2025"
     excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
     publishedDateTime: 2020-09-01T17:40:00Z
@@ -81,20 +68,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Security Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 – 2025"
-    excerpt: "Artificial intelligence in cyber security will increase efficiency and precision of the system to observe any potential threat in organization's system. Organizations increasing their horizon to completely different geographies are generating voluminous data to realize insights and are using analysis techniques to enhance their product offerings."
-    publishedDateTime: 2020-09-01T07:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2025-2020-09-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

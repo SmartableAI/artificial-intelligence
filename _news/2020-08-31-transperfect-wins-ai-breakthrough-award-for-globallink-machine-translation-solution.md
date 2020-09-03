@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/transperfect-wins-ai-br
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/transperfect-wins-ai-breakthrough-award-for-globallink-machine-translation-solution-1029549034"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "PROS Recognized for Artificial Intelligence Innovation in SalesTech with 2020 AI Breakthrough Award"
-    excerpt: "PROS® (NYSE: PRO), a provider of AI-powered solutions that optimize selling in the digital economy, today announced that it has been selected as the"
-    publishedDateTime: 2020-08-29T16:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/pros-recognized-for-artificial-intelligence-innovation-in-salestech-with-2020-ai-breakthrough-award-2020-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "PROS Recognized for Artificial Intelligence Innovation in SalesTech with 2020 AI Breakthrough Award"
     excerpt: "Prestigious Annual Awards Program Honors Standout AI and Machine Learning Solut"
     publishedDateTime: 2020-09-02T05:09:00Z

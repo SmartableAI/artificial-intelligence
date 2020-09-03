@@ -57,34 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Platform Market Trend, Technology Advancements and Global Demand 2020-2025"
-    excerpt: "The report provides a detailed assessment of the 'Global Artificial Intelligence Platform Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
-    publishedDateTime: 2020-09-02T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-trend-technology-advancements-and-global-demand-2020-2025-2020-09-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Security Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 – 2025"
-    excerpt: "Artificial intelligence in cyber security will increase efficiency and precision of the system to observe any potential threat in organization's system. Organizations increasing their horizon to completely different geographies are generating voluminous data to realize insights and are using analysis techniques to enhance their product offerings."
-    publishedDateTime: 2020-09-01T07:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2025-2020-09-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Outlook, Size, Share and Growth and Forecast Assumptions Through 2026 | Impact of COVID-19 Pandemic"
     excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
     publishedDateTime: 2020-09-03T04:11:00Z
@@ -93,7 +65,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

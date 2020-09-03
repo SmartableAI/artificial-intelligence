@@ -39,20 +39,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 78
-  - title: "PROS Recognized for Artificial Intelligence Innovation in SalesTech with 2020 AI Breakthrough Award"
-    excerpt: "PROS® (NYSE: PRO), a provider of AI-powered solutions that optimize selling in the digital economy, today announced that it has been selected as the"
-    publishedDateTime: 2020-08-29T16:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/pros-recognized-for-artificial-intelligence-innovation-in-salestech-with-2020-ai-breakthrough-award-2020-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "WMk+ynLAfdcxa5qIxfXJshSmHlhU/avtcQEAgiLhCaZxmRluFnMyKXCw5cLVM8qrC7uC1ujjeDA8S4WjZyPuN4q8znMdmB71PKAuLxVsaezmUG+tHx3UQl4M4W8ax6r8Ynn+znZIBju7hNnwcsy7l7lb5wMD31++ao0siLG7pMg71E9xlWwENuHBrNzH1xFGFs7UZhoh2wW50WnT0xaEW2IAUNPXFvXPwQoeu6RlMuIpLFUWTz5c9u9nuNOKkk1beui0Qe+iC9ivKp2ckWLwcE+VoWzLNQ8b+qSYue9c+HFRXxxnKIhLbbkdA1HQ25VEVHLUgqn5lLEzYizFf9jmPvuVwI1DJnEKVqBD1S+VrB0=;qUdJTzDXMgjpgukKPPnrGw=="
 ---

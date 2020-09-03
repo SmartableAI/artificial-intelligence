@@ -2,6 +2,98 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-08-27-speech-recognition-gets-an-automl-training-tool.md",
+      "title": "Speech Recognition Gets an AutoML Training Tool",
+      "excerpt": "AutoML, the application of machine learning to create new automation tools, is branching out to new use cases, making itself useful for particularly tedious data science tasks when training speech recognition models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2020/08/27/speech-recognition-gets-an-automl-training-tool/",
+      "originalUrl": "https://www.datanami.com/2020/08/27/speech-recognition-gets-an-automl-training-tool/",
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2014/09/speech_recognition_1.png",
+          "width": 492,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-algorithmia-unveils-mlops-for-teams.md",
+      "title": "Algorithmia unveils MLops for teams",
+      "excerpt": "Algorithmia Teams delivers machine learning operations and management for small groups as a pay-as-you-go cloud service",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3572325/algorithmia-unveils-mlops-for-teams.html",
+      "originalUrl": "https://www.infoworld.com/article/3572325/algorithmia-unveils-mlops-for-teams.html",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3572325/algorithmia-unveils-mlops-for-teams.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3572325/algorithmia-unveils-mlops-for-teams.amp.html",
+      "publishedDateTime": "2020-08-27T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19.md",
       "title": "How machine learning is identifying and tracking pandemics like COVID-19",
       "excerpt": "BlueDot's machine learning platform anticipates the spread and impact of over 150 different pathogens, toxins, and syndromes in near-real time.",
@@ -1054,88 +1146,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-smart-home-market-worth-144-billion-by-2025.md",
-      "title": "Smart Home Market Worth $144 Billion by 2025.",
-      "excerpt": "Smart home is a suitable home system where appliances and devices can be controlled remotely from any internet connected place in the world using a smartphone or any other networked devices The smart home system requires an interface application or",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2122412/smart-home-market-worth-144-billion-by-2025",
-      "originalUrl": "https://www.openpr.com/news/2122412/smart-home-market-worth-144-billion-by-2025",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T827953070_g.jpg",
-          "width": 600,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2122412/smart-home-market-worth-144-billion-by-2025",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2122412/smart-home-market-worth-144-billion-by-2025",
-      "publishedDateTime": "2020-08-27T00:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-the-evolution-of-high-level-synthesis.md",
-      "title": "The Evolution Of High-Level Synthesis",
-      "excerpt": "What really excites Paulin is what’s happening in the AI space. “TensorFlow and ONNX are basically the de facto standards, so we only have one programming model, and two flavors of that. From that high-level programming model, automated mapping to ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/the-evolution-of-high-level-synthesis/",
-      "originalUrl": "https://semiengineering.com/the-evolution-of-high-level-synthesis/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/HLS.png?fit=974%2C377&#038;ssl=1",
-          "width": 974,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-27T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

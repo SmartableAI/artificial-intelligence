@@ -41,22 +41,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Elon Musk's Neuralink startup working on computer chip implants for human brain"
-    excerpt: "Elon Musk's startup wants to one day implant computer chips inside the human brain. In a demo Friday, Musk showed off a pig with one of the prototype implants."
-    publishedDateTime: 2020-08-29T15:16:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/elon-musk-wants-you-to-build-a-brain-computer-interface/507-de0e856c-fdb1-4a41-8119-270813b7682f"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 55
-    images:
-      - url: "https://media.khou.com/assets/CCT/images/56401561-79ba-4e4a-891d-d667077da91a/56401561-79ba-4e4a-891d-d667077da91a_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "ceL3uJ08VCd8TIpuLN7HyB+GnjnHFyibLMYsT5O9tgh+wrpcqrySX75lgmb+X5eBMEBeszWY6C7y9alkcsFLIrTfhmEme486f1ixK23PIUNZ5K99+c/tPiLqaLXs7yw65ey7IBCPqhswuwgwH2UtmnzXPSg1Et2XutfJQaa0AhG/rkasDA2sABjo7uwchyhlOGmd58+3VS+V5a3sE9m2u19cDXL4oTgFTskuaPa7gz5DLfJpamoQEzV26ZD9h3bOPPm1bTke1scYZoag8iesXwPH42wij3ytKM0Bwrni32tRKXf02Npslo+IQMp8MBPPqvjbM2m6temYHzEU8B3aw4mSpD3U6lLxUW1C6EnJML2Vcz8IXvQknwOR9KdVKqKkN8HduXqIWXed6F+1V/B/RMJiVZx2DuCM7ItiKv3XtQt1e0NYhxkUwNjyffO193441EpXw2gHv9qGAFl4LUUyKuaqzIMtk2Txd2LF/fUOJoS5302ZVRJEefRE1XsOWpNPMagnSm56Jz+KLcBz8cOOAEQI7YmfXZj5RP+b6Kh9Zv8=;z5yyrkb/nEC65WE+/WBXMw=="
 ---

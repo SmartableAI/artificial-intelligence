@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Hexagon selected for Innovate UK rail infrastructure artificial intelligence project"
-excerpt: "Project will automate railway structure identification and measurement for Network Rail (Norcross, GA. USA) Innovate UK, the country’s innovation agency, has selected Hexagon’s Geospatial division to conduct a research project that will result in faster and higher-precision mapping of railway infrastructure through the use of artificial intelligence."
-publishedDateTime: 2020-09-01T15:50:00Z
-originalUrl: "https://www.directionsmag.com/pressrelease/10096"
-webUrl: "https://www.directionsmag.com/pressrelease/10096"
+title: "Hexagon Selected for Innovate UK Rail Infrastructure Artificial Intelligence Project"
+excerpt: "Innovate UK, the country’s innovation agency, has selected Hexagon’s Geospatial division to conduct a research project that will result in faster and higher-precision mapping of railway infrastructure through the use of artificial intelligence."
+publishedDateTime: 2020-09-01T15:58:00Z
+originalUrl: "https://gisuser.com/2020/09/hexagon-selected-for-innovate-uk-rail-infrastructure-artificial-intelligence-project/"
+webUrl: "https://gisuser.com/2020/09/hexagon-selected-for-innovate-uk-rail-infrastructure-artificial-intelligence-project/"
 type: article
 quality: 45
 heat: 45
 published: false
 
 provider:
-  name: Directions Magazine
-  domain: directionsmag.com
+  name: gisuser.com
+  domain: gisuser.com
 
 topics:
   - AI
 
 images:
-  - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/September/1/6/bad4dba9-cd52-4e09-9077-632aec9703e0-sized"
-    width: 800
-    height: 563
+  - url: "https://gisuser.com/wp-content/uploads/2020/09/Screenshot-2020-09-01-at-10.51.20-AM.png"
+    width: 759
+    height: 532
     isCached: true
 
-secured: "VzaUDL8MSxWv73jg4UEUOorCRZoVv3z76plIf/JdPmGG/Qag3I4F0rqM4LF4n0D5pQae7z8DmmrqqnXBFV1Gtb52/nn7Nq3jNzyDiH+9qkfBihWFSxpSA0gK+cya6IdrpRHQuId8fA3d2iyblMMTtlIKqiMHoN2cC+n+xoR79SsILtXw1fFnpP3XwOll6RrpyLo0pldZu0H831Yb1PReuoOBisIYXyfARrngnUeh4z2jnlhCsyqceR65+dlfRKLa2tql+/g2KPTpGkD7T491dWUX+355WhwD/Mztlo5ynCP/+5biUxLCS3ktZTKHat5byYP8AClp59oGKq1NHhSgFLR1UR6w03p3+bUeqi0ufcI=;etDfG6ZTEiLkK37GEqoZng=="
+secured: "7QyxlQr7KtptJog/GMFABsr9NyrsqhspEjO3KNMozJPvpMFt0kugKlrWvgr3VkP+hPBsgaSXWHYS3lzfGhRhJViH2fItP/gMUczkhgN9IbP39zAEdrjvXGF8M/oYGZomBC+Pe2d2MiAou8YYP/yqOwJG2/xXlh546E3GIUZrjIXUXXo8Q+SNVXbb35cwz8rozFJbczOvz6kC1dcOEbr9qzVehvB4k00/M9zPPwQbBT1iIZCdRJcSusIK84pdFn+jT7tDzcBI6ulGHDi/7eMHEH1lU8pFPeZcBh29++8zf307zOG07VkvUFQ4NcDli+oYDmqgwYb42q8lHmnzStxExNyr9azwJ4HW0J1MIVoHsVA=;86cjH7DK/oM7hu8i1Xu1nw=="
 ---
 
