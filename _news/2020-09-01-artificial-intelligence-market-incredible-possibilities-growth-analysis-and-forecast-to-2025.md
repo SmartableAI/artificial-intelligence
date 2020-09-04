@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning As A Service Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
+    excerpt: "The global Machine Learning As A Service Market stood at US$ 1,071.6 Mn in 2016. The study projects the global"
+    publishedDateTime: 2020-09-04T12:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
     excerpt: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation Demand Growth Trend Opportunity and Forecast to 2026"
     publishedDateTime: 2020-09-04T06:29:00Z

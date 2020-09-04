@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/20/09/g17367086/global-iot-chip-
 ampWebUrl: "https://amp.benzinga.com/amp/content/17367086"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17367086"
 type: article
-quality: 12
+quality: 29
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Hardware
 
 related:
   - title: "Worldwide IoT Chip in Healthcare Industry to 2025 - by Connectivity and Geography - ResearchAndMarkets.com"
@@ -74,6 +75,20 @@ related:
     quality: 16
     images:
       - url: "https://mms.businesswire.com/media/20200902005546/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Global Artificial Intelligence Processor Market to 2025 - Profiling Apple, Huawei & MediaTek Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence Processor Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The Artificial Intelligence (AI) processor market was valued at US$71."
+    publishedDateTime: 2020-09-04T12:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200904005302/en/Global-Artificial-Intelligence-Processor-Market-2025--"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
+    images:
+      - url: "https://mms.businesswire.com/media/20200904005302/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
         isCached: true

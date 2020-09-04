@@ -26,6 +26,36 @@ images:
     isCached: true
 
 related:
+  - title: "Biofourmis Raises $100 Million Financing Led by SoftBank"
+    excerpt: "Biofourmis, which is using artificial intelligence-based analytics to monitor patients affected by Covid-19, has raised a $100 million financing led by SoftBank Vision Fund 2."
+    publishedDateTime: 2020-09-03T02:55:00Z
+    webUrl: "https://www.wsj.com/articles/biofourmis-raises-100-million-financing-led-by-softbank-11599083717"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 167
+    images:
+      - url: "https://images.wsj.net/im-227978/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biofourmis raises $100 million for AI remote medical tools"
+    excerpt: "Biofourmis, a company developing platforms for AI remote patient monitoring and triage, has raised $100 million in venture capital."
+    publishedDateTime: 2020-09-03T04:26:00Z
+    webUrl: "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/"
+    ampWebUrl: "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/05/e72b0f95-315b-4e77-9a52-734c389a47cd-e1598639733609.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 561
+        isCached: true
   - title: "SoftBank Leads $100 Million Investment In AI And Digital Therapeutics Startup Biofourmis"
     excerpt: "Kuldeep Singh Rajput quit his PhD program to pursue a lofty goal: use artificial intelligence to predict disease before it happens."
     publishedDateTime: 2020-09-02T23:16:00Z
@@ -42,20 +72,47 @@ related:
         width: 710
         height: 399
         isCached: true
-  - title: "SoftBank leads $136m investment in health start-up"
-    excerpt: "SoftBank Group led a US$100 million (S$136 million) investment in Biofourmis, a software start-up that predicts problems for patients with heart conditions.. Read more at straitstimes.com."
-    publishedDateTime: 2020-09-03T21:56:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/softbank-leads-136m-investment-in-health-start-up"
+  - title: "Sarcos Robotics Raises $40 Million in Series C Funding"
+    excerpt: "Today, Sarcos Robotics, a global leader in the production of robots that augment humans to enhance productivity and safety, announced that it has raised $40 million in an oversubscribed Series C financing round."
+    publishedDateTime: 2020-09-02T01:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200901005081/en/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 22
+      name: Business Wire
+      domain: businesswire.com
+    quality: 69
     images:
-      - url: "https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg"
+      - url: "https://mms.businesswire.com/media/20200901005081/en/817041/23/Sarcos_Vertical-blue_2019.jpg"
         width: 1200
-        height: 799
+        height: 627
         isCached: true
+  - title: "AI startup Entropik Tech raises $8 million in funding led by Alpha Wave"
+    excerpt: "Entropik plans to utilise the funds to expand its presence to the US, European Union and South East Asia, and to deepen its artificial intelligence capabilities"
+    publishedDateTime: 2020-09-02T08:51:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave-11599033123889.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave/amp-11599033123889.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave/amp-11599033123889.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2020/09/02/600x338/startup-kElG--621x414@LiveMint_1599035331905.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Boston startup Biofourmis raises $100m for remote medical tech"
+    excerpt: "As interest in telemedicine grows, the company is using wearable sensors and software to understand patients’ vital signs and help doctors make decisions about their care from afar."
+    publishedDateTime: 2020-09-02T22:12:00Z
+    webUrl: "https://www.bostonglobe.com/2020/09/03/business/biofourmis-boston-startup-focused-remote-medicine-raises-100m/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/09/03/business/biofourmis-boston-startup-focused-remote-medicine-raises-100m/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/09/03/business/biofourmis-boston-startup-focused-remote-medicine-raises-100m/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 37
 
 secured: "JF2Th6KHFzmaJGAVyHfcPqdPRLD7oVd+iie6Y3e43P5Lh5RwYwtvJI153hHfgywSZWF6jiwkWARYCSXn1VxwFX/rP6KrynSixiXWNAq586tu0vzQ6OwpudENPHuOJtR5lidxE0cU3CKOY9wRmWQfDdf67z8PENcXOUwNue7d3lieObRxQXOzWl1d0ML2l9oEZHRf9H/KLFLKIHKieBA3rJBmhQ5o+/ETgCpvS4UmS7dzsHOe8luk0Ep/Yr1NDMOtWA0YvfEbPi8IB4eFSV5EW2oG8vvWDevJzuNzmxHJalXpzVpeRIZfBXPkV0ES0WwGC3m5ORL90Q2sBO6UdwSyjqYTGbJWRzKuTBMDXkCdy4Y=;0Wwa/OzChO/AMhi9psUYMg=="
 ---

@@ -180,7 +180,7 @@ related:
   - title: "The twisted case of facial recognition"
     excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
     publishedDateTime: 2020-09-04T04:04:00Z
-    webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
     type: article
     provider:
       name: KMWorld Magazine

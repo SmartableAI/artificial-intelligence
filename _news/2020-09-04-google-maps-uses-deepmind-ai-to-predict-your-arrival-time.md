@@ -5,8 +5,10 @@ excerpt: "Google Maps is using AI machine learning models to predict whether the
 publishedDateTime: 2020-09-04T06:08:00Z
 originalUrl: "https://www.iol.co.za/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
 webUrl: "https://www.iol.co.za/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
+ampWebUrl: "https://www.iol.co.za/amp/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
+cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
@@ -89,6 +91,22 @@ related:
         width: 1055
         height: 554
         isCached: true
+  - title: "Google Maps uses DeepMind's AI to come up with your ETA: Know details"
+    excerpt: "By partnering with DeepMind, Google has been able to cut the percentage of inaccurate ETAs even further by using an ML architecture known as Graph Neural Networks."
+    publishedDateTime: 2020-09-04T12:04:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-google-ai-for-eta-deepmind-647212"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-google-ai-for-eta-deepmind-647212"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-google-ai-for-eta-deepmind-647212"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 74
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/09/google-maps-1599221036.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Maps using DeepMind AI to predict your arrival time"
     excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
     publishedDateTime: 2020-09-04T05:21:00Z
@@ -166,6 +184,6 @@ related:
         height: 601
         isCached: true
 
-secured: "FWU3YQQQDC/NLF5UR+YED86sEILUCh6CAZg1V3xcqEHZCLe+EAoZcCORzQbL7MOMTvyqGCjW6smOX2VIq81r+89TE6v2YexUhK7z3A0HIW6cKiTVBeJFS3n2JSLhgCHc/eLUVvSQ2Wt/y7Nar6MvA1U9corQPM7CsHKHXs7WwxMLOLREeYPEb1nvI14clKCJmgFZtUz5oo5xiNiS+TFx41Maz7z/2S8N20W56Ib51bypn7JjeyAT756dV8bsO2d2lCHUnv41IYOoaSCXy8ayKTe38wicKxkG5f35ms/XA+lmSLvJM0WOdSRMlcbc9TAXBi/YDfGS3UbAYXPXo/iShdULunw9/7dHtERVN81kVRM=;8xs1gOZAL4dg3w57RT1k1Q=="
+secured: "zaHCifkYIxvpPI1Vq8hEPqsyMBGkk7ioOyFd0Me21XqzZTNzAbk6gzLw+A4HbtEXtOKzQiObygmsB/ucRGn0sWXpVfl4ljtZvd8Bl0hwBPm2j9xlizW5bjFgMJzzIs9qOEpHsbABQyVf78r3b+r/vHgeoHnV8Am+b2/1hTGZuoFucpC3tbmCrqzgBt1csYZ2ghTtzZll46Jj5cq0u4oF15+6D/y4GZRaabZ7tFc3Jv9WLIYd+5fBpqJK4IBLJToUVERvLZY/AbbxOKsYEFOK42a5wB0x+Nd0XadY1u3D8tCAIrKAdZg+MGL+NAVRMOwTLDxlGV217lFqsG1alrqopU2WaY05QNkzI5kSdJjZpaTAZPW+/Bt6bEDl1G6ohw/C7xS+xfcOz9xXo6dSDuPH/0B9d/Xq9zgORwfzKqerSd0ICNaWDpgOV3zd5PXOlqiLgBlyEH3ppQ5RKriPaZC09ZWMyd9gOLmvjXEY5nAz4Q6hP2MEjrDyUq21lp4n/NRVh+zgj8Wh0YqTwVCIsJyXlvTe3G3SZzT+/UMM/XYLBIU=;E5Yo6fYwdFl387sEk6Ka8g=="
 ---
 

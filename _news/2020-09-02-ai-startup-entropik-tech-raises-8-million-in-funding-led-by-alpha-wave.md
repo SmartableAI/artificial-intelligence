@@ -26,49 +26,92 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered Startup SenseHawk Raises $5.1 Mn In Series A led by Alpha Wave Incubation"
-    excerpt: "SenseHawk, a cloud-based company that leverages AI to solve challenges in the development, construction and operation of solar sites, has raised USD 5.1 million as part of its Series A round led by Al"
-    publishedDateTime: 2020-09-03T14:39:00Z
-    webUrl: "https://www.entrepreneur.com/article/355736"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/355736"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/355736"
+  - title: "Biofourmis Raises $100 Million Financing Led by SoftBank"
+    excerpt: "Biofourmis, which is using artificial intelligence-based analytics to monitor patients affected by Covid-19, has raised a $100 million financing led by SoftBank Vision Fund 2."
+    publishedDateTime: 2020-09-03T02:55:00Z
+    webUrl: "https://www.wsj.com/articles/biofourmis-raises-100-million-financing-led-by-softbank-11599083717"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 167
+    images:
+      - url: "https://images.wsj.net/im-227978/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biofourmis raises $100 million for AI remote medical tools"
+    excerpt: "Biofourmis, a company developing platforms for AI remote patient monitoring and triage, has raised $100 million in venture capital."
+    publishedDateTime: 2020-09-03T04:26:00Z
+    webUrl: "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/"
+    ampWebUrl: "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/05/e72b0f95-315b-4e77-9a52-734c389a47cd-e1598639733609.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 561
+        isCached: true
+  - title: "SoftBank Leads $100 Million Investment In AI And Digital Therapeutics Startup Biofourmis"
+    excerpt: "Kuldeep Singh Rajput quit his PhD program to pursue a lofty goal: use artificial intelligence to predict disease before it happens."
+    publishedDateTime: 2020-09-02T23:16:00Z
+    webUrl: "https://www.forbes.com/sites/katiejennings/2020/09/02/softbank-leads-100-million-investment-in-ai-and-digital-therapeutics-startup-biofourmis/"
+    ampWebUrl: "https://www.forbes.com/sites/katiejennings/2020/09/02/softbank-leads-100-million-investment-in-ai-and-digital-therapeutics-startup-biofourmis/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/09/02/softbank-leads-100-million-investment-in-ai-and-digital-therapeutics-startup-biofourmis/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 80
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1599143906-solar.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://thumbor.forbes.com/thumbor/trim/0x1307:2700x2825/fit-in/711x399/smart/https://specials-images.forbesimg.com/imageserve/5f502d73e67ec7820f96d91f/0x0.jpg"
+        width: 710
+        height: 399
         isCached: true
-  - title: "Emotion AI Startup Entropik Raises $8 Mn In Series A Funding"
-    excerpt: "The company shared its plan to use the funding amount to expand its presence in other geographies including the US, EU, SE Asia"
-    publishedDateTime: 2020-09-03T09:16:00Z
-    webUrl: "https://analyticsindiamag.com/emotion-ai-startup-entropik-raises-8-mn-in-series-a-funding/"
+  - title: "Sarcos Robotics Raises $40 Million in Series C Funding"
+    excerpt: "Today, Sarcos Robotics, a global leader in the production of robots that augment humans to enhance productivity and safety, announced that it has raised $40 million in an oversubscribed Series C financing round."
+    publishedDateTime: 2020-09-02T01:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200901005081/en/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
+      name: Business Wire
+      domain: businesswire.com
+    quality: 69
     images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/09/Entropik-Tech_Team-Picture.jpg"
-        width: 1433
-        height: 948
-        isCached: true
-  - title: "Entropik, Indian Startup That Uses AI To Read User Emotions, Raises Funds"
-    excerpt: "Entropik Tech, a startup that specialises in facial recognition technology to interpret people’s emotion as they watch video and other media, raised $8 million in its fresh funding to strengthen its technology and expand its business."
-    publishedDateTime: 2020-09-01T17:15:00Z
-    webUrl: "https://www.bloombergquint.com/technology/entropik-indian-startup-that-uses-ai-to-read-user-emotions-raises-funds"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 36
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2020-09%2F2c92bb7f-3973-4748-9d46-464c0b3034bb%2F322274447.jpg?rect=0%2C69%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true"
+      - url: "https://mms.businesswire.com/media/20200901005081/en/817041/23/Sarcos_Vertical-blue_2019.jpg"
         width: 1200
-        height: 630
+        height: 627
+        isCached: true
+  - title: "Boston startup Biofourmis raises $100m for remote medical tech"
+    excerpt: "As interest in telemedicine grows, the company is using wearable sensors and software to understand patients’ vital signs and help doctors make decisions about their care from afar."
+    publishedDateTime: 2020-09-02T22:12:00Z
+    webUrl: "https://www.bostonglobe.com/2020/09/03/business/biofourmis-boston-startup-focused-remote-medicine-raises-100m/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/09/03/business/biofourmis-boston-startup-focused-remote-medicine-raises-100m/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/09/03/business/biofourmis-boston-startup-focused-remote-medicine-raises-100m/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 37
+  - title: "SoftBank Vision Fund 2 leads a $100 million funding in this Indian founder’s global healthtech startup"
+    excerpt: "Japanese investment firm SoftBank ’s Vision Fund 2 has led a $100 million fund in Biofourmis – a digital therapeutics startup. The round also saw participation from the startup’s existing investors Openspace Ventures,"
+    publishedDateTime: 2020-09-03T07:47:00Z
+    webUrl: "https://www.businessinsider.in/business/startups/news/softbank-vision-fund-2-leads-a-100-million-funding-in-this-indian-founders-global-healthtech-startup/articleshow/77907105.cms"
+    ampWebUrl: "https://www.businessinsider.in/business/startups/news/softbank-vision-fund-2-leads-a-100-million-funding-in-this-indian-founders-global-healthtech-startup/amp_articleshow/77907105.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/startups/news/softbank-vision-fund-2-leads-a-100-million-funding-in-this-indian-founders-global-healthtech-startup/amp_articleshow/77907105.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 26
+    images:
+      - url: "https://www.businessinsider.in/thumb/msid-77907124,height-275,width-412,imgsize-391765/business/startups/news/softbank-vision-fund-2-leads-a-100-million-funding-in-this-indian-founders-global-healthtech-startup/kuldeep-singh-rajput-ceo-biofourmis.jpg"
+        width: 412
+        height: 275
         isCached: true
 
 secured: "BpewHeOAMdvoulQ0TuM+Bu6Vyl9Wa+8IS94WUcsP7JCXkfPVshhfkGZdZJqOOnZ2Wp8cdBcRjo4sLRb9mgEw7tcn6XahO7Wb/zpfVm+MqGbzqWyvhdW7eAwV3IJymcgBREaT11kRzcfMqEBip5r9tM1Tw9YLnu1ZH3NfsByuFGOveeFVYS94KJGBBzTWCFQfthGawtq74+qtODKX0yo6NXVFZjoEgUkLRRwauhMIUjK3yrxUFDSJ97jxnRDHHNiS9Qg5j0FhjRxGeoyhnd+i08ch6yMusPGJ1EFoNBsNxiCLBkR4inoRX24ph7xMIhwdjxBBoEAWTeSrJFtqoWvkqJSVD7+8jOgi30gQbWF9Or0=;Lzl2hEcMW+OLLkZILM5J2g=="

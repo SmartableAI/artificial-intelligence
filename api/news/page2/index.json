@@ -293,6 +293,56 @@
       ]
     },
     {
+      "path": "_news/2020-09-03-ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic.md",
+      "title": "AI In Computer Vision Market: Dynamics, Segments, Size, and Demand Analysis during 2021-2024 | Impact of COVID-19 Pandemic",
+      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03",
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-storelift-launches-autonomous-convenience-stores-using-ai-and-computer-vision.md",
       "title": "Storelift launches autonomous convenience stores using AI and computer vision",
       "excerpt": "But a French startup called Storelift believes it can create a new convenience store concept that leans on many of the same AI and computer vision tools used in Amazon Go stores to reinvent the ...",
@@ -380,6 +430,55 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-biofourmis-raises-100-million-financing-led-by-softbank.md",
+      "title": "Biofourmis Raises $100 Million Financing Led by SoftBank",
+      "excerpt": "Biofourmis, which is using artificial intelligence-based analytics to monitor patients affected by Covid-19, has raised a $100 million financing led by SoftBank Vision Fund 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/biofourmis-raises-100-million-financing-led-by-softbank-11599083717",
+      "originalUrl": "https://www.wsj.com/articles/biofourmis-raises-100-million-financing-led-by-softbank-11599083717",
+      "featuredContent": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-227978/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -531,47 +630,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-03-machine-learning-ai-chooses-henry-cavill-as-the-next-james-bond.md",
-      "title": "Machine Learning AI Chooses Henry Cavill As The Next James Bond",
-      "excerpt": "Elizabeth Olsen Deletes Instagram Due To Backlash For Not Po... Eternals Director Wants The Film To Be Bigger Than Avengers:... Grand Theft Auto 6 Is Reportedly Years Away From Being Annou ...",
-      "sourceUrl": null,
-      "webUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/",
-      "originalUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wegotthiscovered.com/wp-content/uploads/2020/08/Henry-Cavill.jpg",
-          "width": 1155,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/amp/",
-      "cdnAmpWebUrl": "https://wegotthiscovered-com.cdn.ampproject.org/c/s/wegotthiscovered.com/movies/ai-henry-cavill-james-bond/amp/",
-      "publishedDateTime": "2020-09-02T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "We Got This Covered",
-        "domain": "wegotthiscovered.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-03-traffic-prediction-with-advanced-graph-neural-networks.md",
       "title": "Traffic prediction with advanced Graph Neural Networks",
       "excerpt": "Working with our partners at Google Maps, we used advanced machine learning techniques including Graph Neural Networks, to improve the accuracy of real time ETAs by up to 50%.",
@@ -619,56 +677,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-softbank-leads-100-million-investment-in-ai-and-digital-therapeutics-startup-biofourmis.md",
-      "title": "SoftBank Leads $100 Million Investment In AI And Digital Therapeutics Startup Biofourmis",
-      "excerpt": "Kuldeep Singh Rajput quit his PhD program to pursue a lofty goal: use artificial intelligence to predict disease before it happens.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/09/02/softbank-leads-100-million-investment-in-ai-and-digital-therapeutics-startup-biofourmis/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2020/09/02/softbank-leads-100-million-investment-in-ai-and-digital-therapeutics-startup-biofourmis/",
-      "featuredContent": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/trim/0x1307:2700x2825/fit-in/711x399/smart/https://specials-images.forbesimg.com/imageserve/5f502d73e67ec7820f96d91f/0x0.jpg",
-          "width": 710,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/09/02/softbank-leads-100-million-investment-in-ai-and-digital-therapeutics-startup-biofourmis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/09/02/softbank-leads-100-million-investment-in-ai-and-digital-therapeutics-startup-biofourmis/amp/",
-      "publishedDateTime": "2020-09-02T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {

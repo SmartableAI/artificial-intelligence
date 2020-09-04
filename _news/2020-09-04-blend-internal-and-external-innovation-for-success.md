@@ -7,7 +7,7 @@ originalUrl: "https://www.forbesindia.com/article/imd-business-school/blend-inte
 webUrl: "https://www.forbesindia.com/article/imd-business-school/blend-internal-and-external-innovation-for-success/62293/1"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "NSF Announces MIT-Led Institute for Artificial Intelligence and Fundamental Interactions"
-    excerpt: "IAIFI will advance physics knowledge — from the smallest building blocks of nature to the largest structures in the universe — and galvanize AI research innovation. The U.S. National Science Foundatio"
-    publishedDateTime: 2020-08-30T19:56:00Z
-    webUrl: "https://scitechdaily.com/nsf-announces-mit-led-institute-for-artificial-intelligence-and-fundamental-interactions/"
-    ampWebUrl: "https://scitechdaily.com/nsf-announces-mit-led-institute-for-artificial-intelligence-and-fundamental-interactions/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/nsf-announces-mit-led-institute-for-artificial-intelligence-and-fundamental-interactions/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 48
-    images:
-      - url: "https://scitechdaily.com/images/Institute-for-Artificial-Intelligence-and-Fundamental-Interactions-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
 
 secured: "OVYILjzJ64EY27YqK85Vs+2KwAiBK9GK5i7NA2bn0yDO8ZJKajYji5+ZGA385v7nYZxECB9r7D9dKojBrFNQM9Ju5F3OI7tN0JbYsmWC00h6jDs1CD3ViBIIPHqqc8RPIUfWjepF3KzbIb62qDwOU/Wa9NryHECi91qToLZiw719tYyankk/9k/15Dx1FgqnKlOAtCHz4cVC4wez1JmHSuDLtBFJAuj9zz3ww/9PbtzPkQRyuYlW4qDCMOmjxBBYJ9HVUlY6adAjXuvo4UOOxrhwGibzLXyP77YZ3SSId1z8EAh+TBhVCkJOfFbsWpBCt0HhoBcp8CGLHM1cCSFtTyaoziZmDU6a4D8BJoEwNpw5lC4//UxyiaQE0d73StV52qwdZCxsHWIUcb5GmX+LverxscmifZm7UTlfT/eInrjEmRu7Ai5OmvZpMYwxSlfcFPRdXldk3p3mzIj4hKK63pAS1G36L5I3mYUOyI7dhFaQkh4vy//LYEHKnLnNmPVfhbI6L+CiZ1gUk5GpSXmHLkT8b2ZPPwGSbZQrimzIGj8=;f58RaUhAJ9549sNN4NESGw=="
 ---

@@ -608,11 +608,20 @@
       "excerpt": "Facebook wants to build an army of robot assistants that can wait on us in all kinds of new ways. Here's what it's working on.",
       "sourceUrl": null,
       "webUrl": "https://www.digitaltrends.com/news/facebook-embodied-ai/",
-      "originalUrl": null,
+      "originalUrl": "https://www.digitaltrends.com/news/facebook-embodied-ai/",
       "featuredContent": null,
       "heat": 85,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/us-politics-facebook-zuckerberg-1200x630-c-ar1.91.jpg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": "https://www.digitaltrends.com/news/facebook-embodied-ai/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-embodied-ai/?amp",

@@ -89,6 +89,38 @@ related:
         width: 1055
         height: 554
         isCached: true
+  - title: "Google Maps uses DeepMind AI to predict your arrival time"
+    excerpt: "Google Maps is using AI machine learning models to predict whether the traffic along your route is heavy or light, an estimated travel time, and an estimated time of arrival (ETA)."
+    publishedDateTime: 2020-09-04T06:08:00Z
+    webUrl: "https://www.iol.co.za/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 74
+    images:
+      - url: "https://image-prod.iol.co.za/resize/3500x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/8de64d17-a6dd-516d-9248-68eb739d76c2&operation=CROP&offset=0x315&resize=3500x1969&webp=false"
+        width: 651
+        height: 366
+        isCached: true
+  - title: "Google Maps uses DeepMind's AI to come up with your ETA: Know details"
+    excerpt: "By partnering with DeepMind, Google has been able to cut the percentage of inaccurate ETAs even further by using an ML architecture known as Graph Neural Networks."
+    publishedDateTime: 2020-09-04T12:04:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-google-ai-for-eta-deepmind-647212"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-google-ai-for-eta-deepmind-647212"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-google-ai-for-eta-deepmind-647212"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 74
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/09/google-maps-1599221036.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Maps using DeepMind AI to predict your arrival time"
     excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
     publishedDateTime: 2020-09-04T05:21:00Z
@@ -150,20 +182,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/google.png"
         width: 867
         height: 486
-        isCached: true
-  - title: "Google Maps uses DeepMind AI to predict your arrival time"
-    excerpt: "Google Maps is using AI machine learning models to predict whether the traffic along your route is heavy or light, an estimated travel time, and an estimated time of arrival (ETA)."
-    publishedDateTime: 2020-09-04T06:08:00Z
-    webUrl: "https://www.iol.co.za/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 54
-    images:
-      - url: "https://image-prod.iol.co.za/resize/3500x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/8de64d17-a6dd-516d-9248-68eb739d76c2&operation=CROP&offset=0x315&resize=3500x1969&webp=false"
-        width: 651
-        height: 366
         isCached: true
 
 secured: "pBkxh861c8Z7bVLsJREZZK1n9W79vKDAzMEjhXm5BxQf49g30bg9U/RTEU5uJIMLmabqkEflGuRvB98KEC2DtUP9BIVh6LKz905n8t2ve34r1HdhT+s7Ttsvos7tkXHkjzOJyXREpaGqQ+WEZbZXaAWqPqy9IzocSxBkcciptqt8S4a5t7NF/uVaUrzYliteKYchMdoN04tl9fgeSIw3XkfzlzswuMcfxy6uRLT4Bl6TwLff73gN4KDKq10Rrg/NEXLJSva0M3DceD+zihWR0L3EGOF+oIXIVulGh86ywKARnw05qdI3ewyW+MoabZ2irva8KyUsAXwfL3AVK7f6wbRujB26s26Y/0WjJIiLuiUMaaAiHG40tIdk69R9pWN17zIb4DAcIIjAMEZF3btkFEruYWBTj+HK+kOZOjmsm32Yp9vTTRR69k6XN7/AV/4ukYP3TeGXcrObjuhdDVFnNBIuytEaFlevH4LAYgg1ipGZ+SBLonD9P77P3puxLGBanZm5wgkRkGWfpzd96d6E3uwxY4ipXPDKJGnjqMLVERk=;le2PbnNjIkctqk/mKjd1sA=="

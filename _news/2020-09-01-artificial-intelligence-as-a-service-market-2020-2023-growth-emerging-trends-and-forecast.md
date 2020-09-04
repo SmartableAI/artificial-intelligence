@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-31"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning As A Service Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
+    excerpt: "The global Machine Learning As A Service Market stood at US$ 1,071.6 Mn in 2016. The study projects the global"
+    publishedDateTime: 2020-09-04T12:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
