@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Vanderbilt Proface X TD Facial Recognition Terminal with Temperature Detection"
-excerpt: "Powered by the ZKTeco-customized CPU for running the intellectualized engineeringfacial recognition algorithm and the latest computer vision technology, ProFace X [TD] supports both facial and palm verification with large capacity and rapid recognition ..."
-publishedDateTime: 2020-09-02T23:59:00Z
-originalUrl: "https://www.sourcesecurity.com/vanderbilt-proface-x-td-access-control-reader-technical-details.html"
-webUrl: "https://www.sourcesecurity.com/vanderbilt-proface-x-td-access-control-reader-technical-details.html"
+title: "Snapchat defends procedures after facial recognition class action"
+excerpt: "The popular social media platform Snapchat faces allegations by two Illinois users that it stores information that makes them susceptible to identity theft."
+publishedDateTime: 2020-09-04T01:49:00Z
+originalUrl: "https://legalnewsline.com/stories/510995812-snapchat-defends-procedures-after-facial-recognition-class-action"
+webUrl: "https://legalnewsline.com/stories/510995812-snapchat-defends-procedures-after-facial-recognition-class-action"
 type: article
-quality: 35
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: SourceSecurity
-  domain: sourcesecurity.com
+  name: Legal News Line
+  domain: legalnewsline.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://security-img.scdn6.secure.raxcdn.com/products/400/proface-x-td-400.jpg"
-    width: 400
-    height: 400
+  - url: "https://jnswire.s3.amazonaws.com/jns-media/28/93/178968/phone_06.jpg"
+    width: 1440
+    height: 720
     isCached: true
 
 related:
@@ -71,21 +71,21 @@ related:
         width: 704
         height: 463
         isCached: true
-  - title: "Snapchat defends procedures after facial recognition class action"
-    excerpt: "The popular social media platform Snapchat faces allegations by two Illinois users that it stores information that makes them susceptible to identity theft."
-    publishedDateTime: 2020-09-04T01:49:00Z
-    webUrl: "https://legalnewsline.com/stories/510995812-snapchat-defends-procedures-after-facial-recognition-class-action"
+  - title: "Vanderbilt Proface X TD Facial Recognition Terminal with Temperature Detection"
+    excerpt: "Powered by the ZKTeco-customized CPU for running the intellectualized engineeringfacial recognition algorithm and the latest computer vision technology, ProFace X [TD] supports both facial and palm verification with large capacity and rapid recognition ..."
+    publishedDateTime: 2020-09-02T23:59:00Z
+    webUrl: "https://www.sourcesecurity.com/vanderbilt-proface-x-td-access-control-reader-technical-details.html"
     type: article
     provider:
-      name: Legal News Line
-      domain: legalnewsline.com
-    quality: 39
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 35
     images:
-      - url: "https://jnswire.s3.amazonaws.com/jns-media/28/93/178968/phone_06.jpg"
-        width: 1440
-        height: 720
+      - url: "https://security-img.scdn6.secure.raxcdn.com/products/400/proface-x-td-400.jpg"
+        width: 400
+        height: 400
         isCached: true
 
-secured: "CTLF1dqsp41HZFsbvQXhkn5c+qNTWpt5gKB5iVdLHtvmXEvCsS1piBjwRKmYX4B9tdKehbw4UujnWys1KE4sOM55/NNtO1fI50qRJBr4smGf/QFWBZAeoVoUul20RP653mdyggMlOjaGNrvb/qlnBamhIVNIKc2gdceZrbybpJatRSXxHwMAY0Ji1RcZm7Bco1POr3N9uuU+NAJnIbYYAw2ayqLTqV1GXOAeKQObAORHFw2g6jsIQU8pSuvw9SHKYdB20SxkKLSlchD5iZI4muaTL3w7QjI7cocL9aYpM2xvru2nCdkW34KS3g3W+YQ3C/I4COQiiuhzKYjaW2H1upEKNaQr033u4ZJwZF5iCFE=;AO7NKv45SLNXy2EVtk844w=="
+secured: "/JLVQyeoFZBYzs3qPnptyi3ADxG59adwX2E2xCxsPypb8yFHl2fJl5mMrvFoFzacL4IXFjg5UCtePV4uDxfCFmEiT35lQEheAMTJa5LXAvCYKyMC8JyJKLphzjDwRgZT7uKvSgILKBgIBf6/Lt1KOEJ7s36h/wa0YLIvvDlRlEd+2WNB7ZGSEAYjv2oB8Q7wF9txsawNx3xKvsTDtnBTjTJzZIhTzWXm6b7cTFhLB5ydf8IGkIeULLrgnzsXJ8BxptJXbeCvZ1JrGsam0zGnYvK9vizXxqtaFy6XK8URc2sXQ5m428v3W0ML6IHL11cG8xZ+ZA5eJ0yvA+iaAoa4upiJiIExSur0u6Hq46JRUS0=;iCaYR+YmCt53NAcB2D4qvQ=="
 ---
 

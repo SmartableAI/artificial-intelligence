@@ -57,6 +57,20 @@ related:
         width: 704
         height: 463
         isCached: true
+  - title: "Snapchat defends procedures after facial recognition class action"
+    excerpt: "The popular social media platform Snapchat faces allegations by two Illinois users that it stores information that makes them susceptible to identity theft."
+    publishedDateTime: 2020-09-04T01:49:00Z
+    webUrl: "https://legalnewsline.com/stories/510995812-snapchat-defends-procedures-after-facial-recognition-class-action"
+    type: article
+    provider:
+      name: Legal News Line
+      domain: legalnewsline.com
+    quality: 39
+    images:
+      - url: "https://jnswire.s3.amazonaws.com/jns-media/28/93/178968/phone_06.jpg"
+        width: 1440
+        height: 720
+        isCached: true
   - title: "Vanderbilt Proface X TD Facial Recognition Terminal with Temperature Detection"
     excerpt: "Powered by the ZKTeco-customized CPU for running the intellectualized engineeringfacial recognition algorithm and the latest computer vision technology, ProFace X [TD] supports both facial and palm verification with large capacity and rapid recognition ..."
     publishedDateTime: 2020-09-02T23:59:00Z

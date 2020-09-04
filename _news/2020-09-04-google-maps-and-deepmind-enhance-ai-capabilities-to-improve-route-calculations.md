@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Alphabet’s DeepMind details new AI prediction tech in Google Maps"
-excerpt: "Maps has more than a billion users worldwide who rely on the service to plan their travel routes. One of the service’s most central features is its ability to generate time of arrival estimates, helping drivers view key information such as how soon they need to depart to catch a train."
-publishedDateTime: 2020-09-03T19:05:00Z
-originalUrl: "https://siliconangle.com/2020/09/03/alphabets-deepmind-details-new-ai-prediction-tech-google-maps/"
-webUrl: "https://siliconangle.com/2020/09/03/alphabets-deepmind-details-new-ai-prediction-tech-google-maps/"
+title: "Google Maps and DeepMind enhance AI capabilities to improve route calculations"
+excerpt: "It has been nearly 13 years since Google Maps started providing traffic data to help people navigate their way around, alongside providing detail about whether the traffic along the route is heavy or light,"
+publishedDateTime: 2020-09-04T01:08:00Z
+originalUrl: "https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
+webUrl: "https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
 type: article
-quality: 54
+quality: 100
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/google.png"
-    width: 867
-    height: 486
+  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/a8609e80-d074-42bc-a7e7-1886fa83729e/google-maps-eta.jpg"
+    width: 1055
+    height: 554
     isCached: true
 
 related:
@@ -73,22 +79,6 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "Google Maps and DeepMind enhance AI capabilities to improve route calculations"
-    excerpt: "It has been nearly 13 years since Google Maps started providing traffic data to help people navigate their way around, alongside providing detail about whether the traffic along the route is heavy or light,"
-    publishedDateTime: 2020-09-04T01:08:00Z
-    webUrl: "https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 100
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/a8609e80-d074-42bc-a7e7-1886fa83729e/google-maps-eta.jpg"
-        width: 1055
-        height: 554
-        isCached: true
   - title: "Google Maps ETAs prioritizing recent traffic patterns as DeepMind AI improves predictions"
     excerpt: "Many habits have changed in response to COVID-19 lockdowns and that is reflected in large services. Google Maps has \"significantly\" improved ETAs"
     publishedDateTime: 2020-09-03T15:22:00Z
@@ -105,7 +95,21 @@ related:
         width: 3000
         height: 1500
         isCached: true
+  - title: "Alphabet’s DeepMind details new AI prediction tech in Google Maps"
+    excerpt: "Maps has more than a billion users worldwide who rely on the service to plan their travel routes. One of the service’s most central features is its ability to generate time of arrival estimates, helping drivers view key information such as how soon they need to depart to catch a train."
+    publishedDateTime: 2020-09-03T19:05:00Z
+    webUrl: "https://siliconangle.com/2020/09/03/alphabets-deepmind-details-new-ai-prediction-tech-google-maps/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/google.png"
+        width: 867
+        height: 486
+        isCached: true
 
-secured: "iEEVbo+SVtyCTUPL0RhafsQ5tabZxP5xCMswTG7Q2tQXI/ywo6kiEy79notFzd2tKlkNJGUr1uY/lyHhuUQvWrwLGrhDO+AN9tbH0Ezjr7YBQtO6gbSqvfxCK1KbVeFpGnE2OlKCQetiAan/UO59RiqgBzMs/O/MC1zepvCwu1Z86EqfD05J7rVZsuTJRqLjKBrJPIGiUTgIPOhBQi54nH+e0o6Ud8dF+cfISSS5ea6MWNF1am+B+Ew0CFQy2E2ro/S9M5yx4OaLv4fhf65mJPJM9e7fGQOBFYtQ54TaOOlcl5hPHz5zdfG+XEOCgyGBFKeLuOWX6HR+zdOKOWIhNodXK9TdNyfeCtzDy+7Twm7F3wuCSvlG1RdZEmRU4hK+GtO3ib4T8PxdiNKh7VvxDpvOyTLFcQ2mf8UTYOrXbQW60x1iJxGt1mx8fwFZh5BDh8Pu4sseSxq6oDu+Dx3GJSuaL2fIe5YS+OpxklG/O95elTTLxgRkR/kVU1RCuDe0vshBSfafzNdJlyroKAJkk/G3tBGC/meWKazjlEa1Y4g=;faoLGj4YQ+i0ejUlAiYZiw=="
+secured: "Ar02tap1+O2DEeGfKZjuHy8LYhdyjmLUYxHtaZV2IbfxlXFjgIyxKpWdk0+3EizSnDA9LebxG6ojAqH1wu+7rLvMYPQScW80lF2h1CxLcxMinJ7NR4hXgUcx1WQD69FqNIXjxVS/CmMkZlg/qA3TYJoAISWmhu6IOW5YC6+pcewkFLyE22YaZOrEPNBkIVbZ6/Spqb+WGzUzuvmpKEakVquGUVZAgKrDZVxUXFv0EYurE8Zy+z/Rq4MdeZ/fKkkibM0sCYQeMet2YTBeWk+8JHoxiD9rlTzb3j8FAaxrsmOsUqqPfrd1KZPY4HTEZghUhaCnQCTjdkBLDYvCMcvriycZ7FsJuVI+LCkwGRubUPI=;roxGi4iSPWhXnQtgwKs7eA=="
 ---
 

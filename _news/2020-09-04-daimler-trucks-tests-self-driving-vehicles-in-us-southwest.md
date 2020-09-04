@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Daimler Trucks Tests Self-Driving Vehicles in US Southwest"
-excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics are expanding their testing of self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-publishedDateTime: 2020-09-03T19:14:00Z
-originalUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest"
-webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest"
-ampWebUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest?context=amp"
+excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
+publishedDateTime: 2020-09-04T00:02:00Z
+originalUrl: "https://www.nbcnewyork.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2601382/"
+webUrl: "https://www.nbcnewyork.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2601382/"
+ampWebUrl: "https://www.nbcnewyork.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2601382/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2601382/?amp"
 type: article
-quality: 69
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://media.nbcnewyork.com/2020/09/GettyImages-891080592.jpg?crop=0px%2C627px%2C7058px%2C3970px&resize=1200%2C675"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Track self-driving car tests in your area with the latest internet tool"
@@ -104,6 +106,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "sRLqtzjruW7QXbRjB85gfOtW8v3wPDbWALfNKakWXrZU0t9B0YvivswOju2bra8EpGesaMjN1aXCjZxnWMGibuVvf4COn3jx3JzLyt5iUuRg5Fb/GvydQYRU/BBA/0rcqgDSME4mp4bIFoNIxkheOKe2d0ROU8qgJK5uAnBeIa1CYfFBjE0Brcl4nEEB5GwBQ82LeeZCWUV0c1FgiUrRYmJW9s/w4avq3/T3L6LLFGOVJPBcQ4c4sFkX/AS602eB6M08n85bkiqw8ayFxm234j5F9YfAsdy18AOpS/h3uSZO9qTKLmHriie02W9HMDA2aEqkeJP2fFeuDSgaAhPy9yDcbm6OwrUUKO8/sIzNQPdZ2qwpiytIts5uyA5fBffsacw45mgeFsSC/JzcOCkWaT6sZgOv+FS9q6P+9WADRRbfzxfQRusjngPly35dCF2xEsi6bNv/iyS6HF8No+zURyB/9XqzVc51AYwcJZcRoR5evVoQ8C1QIxEvvC7/x3kxjL75ag9FEMteBTLd3lfOqUkq7HopXWK/i8mJyn3UffA=;//2T2ptJXFDWUiJNBGdccw=="
+secured: "d3D275jpBGMazoT39QcKuhQ8qSXSLUi2QEgfKxbB4Z5AMU26dYo5V2DRSPE6eF7FIz+duNpaDo0GNXfoMk+89kI6YVFRF9eOLkd5eF8TrKM0YAq1pSs7KqPbhPIjN+eczm2JW0XXiMenUNw29ooBdUzqFQDkpFxYLjna9YXcpU97svImrMLNr+rEjYOce6pUE11Y00gujgZ1R7pwUKteJuONoTTJ0/NFRL0O1xJjloO0DTdb7nnsFducjr6OLCusDMLhAeJFBrR/0rfAn4Fmfcasn3M3IwLaf1HUAcyomsxhpXtsdK7NdePE86FzmnJo/4uiRFnqxmWMghgHq9dk9VI/hqADEEZblEm76AQEeRE=;jSajQ3Ql9BE39rNl/if7ow=="
 ---
 
