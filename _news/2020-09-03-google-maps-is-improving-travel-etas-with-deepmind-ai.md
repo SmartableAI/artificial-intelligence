@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/google-maps-deep-mind-ai-accuracy-14000
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-maps-deep-mind-ai-accuracy-140005698.html"
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/a8609e80-d074-42bc-a7e7-1886fa83729e/google-maps-eta.jpg"
         width: 1055
         height: 554
+        isCached: true
+  - title: "Google Maps partners with DeepMind to better predict the future of traffic"
+    excerpt: "So far, machine learning has improved the accuracy of real-time ETAs by up to 50% in cities around the world, the companies said."
+    publishedDateTime: 2020-09-04T16:22:00Z
+    webUrl: "https://www.techrepublic.com/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/05/20/0fcebbe7-67f1-4908-8260-32f1fef1e499/thumbnail/1200x675/33623cba36b7bd46e414c3e09f8616ce/beeah-cr-mir.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google Maps uses DeepMind AI to predict your arrival time"
     excerpt: "Google Maps is using AI machine learning models to predict whether the traffic along your route is heavy or light, an estimated travel time, and an estimated time of arrival (ETA)."

@@ -36,6 +36,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 77
+  - title: "dunnhumby Speeds Time-to-Insight for Data Scientists with New Tool on Microsoft Azure"
+    excerpt: "Microsoft Azure, enabling data scientists to deliver customer insights faster. dunnhumby Model Lab is designed to solve complex retail challenges, such as understanding customer churn and predicting propensity to purchase and in what channel,"
+    publishedDateTime: 2020-09-04T11:07:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool--on-Microsoft-Azure-142651.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 47
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "dunnhumby Launches Model Lab on Azure"
     excerpt: "It automates data scientists' repetitive, time-consuming tasks, using machine learning technology to reduce run time and allow data scientists to explore algorithms. In addition, according to the firm, the Azure-based service gives users the benefit of ..."
     publishedDateTime: 2020-09-02T19:43:00Z

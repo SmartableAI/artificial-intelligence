@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/intel-cio-says-ai-playing-a-growing
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Leading AI Chipmaker Hailo Opens Japan Subsidiary to Support Growing Asia-Pacific Client Base, Expand International Reach"
-    excerpt: "Hailo, the leading AI chipmaker delivering unprecedented performance to edge devices, today announced its international expansion in Japan"
-    publishedDateTime: 2020-08-31T00:05:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/leading-ai-chipmaker-hailo-opens-japan-subsidiary-to-support-growing-asia-pacific-client-base-expand-international-reach-884582194.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "GEYVpffVrF9CDpWezmJa9fZJX8DZ9pVMsm9LQwcaW1Jp90Wn3pMXDgiLCoW70GJL3ca6UYf+X7aUavoNtJg6TsFQ56Ws2UJGfs8wrhb8GnS1y3pGk5MAfH8vPwm0aPDBqhEs2T9LpSga/w/q8sHLI/m38sKBGhVtmBrIROF/BGPoXeWl8gLPtNxYsvf/q+MCl8NMjHa1AGvXAJAWrrjei1rP/wnCh80MSY0PVJM0fnIc40YvAsvUtvvWUBUxgllkBkPVPPyfn8vpC4sQL8WYhYdkuwL5CuBhvZewm95cqjexdezuxdz1C5EXdvl33EVGyce/Kiz5bgMK9tYlFj7Qj8p0R8a7yrp3CfXpgBnuz5aMutTI7mfyQquCP0ejHYqa9beEl+hjAhGA+QiDg2TbQBrq0T8NJLIUB7PEBxXMteprrfZj6aaEPvZYved14JQcB64uS7/IZHzPZehyqc+YHG1E6RuUk82RcX3z19QAVweHWTHizkgPCJN7xiESUZSTlZbus/PVxWGggWsQ5ci4W3RurNiW8lqDgGNcZOidLm0=;NsBqrWkpCfkcKIiY20iQGA=="
 ---

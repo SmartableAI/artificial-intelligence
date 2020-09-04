@@ -667,6 +667,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://arstechnica.com/cars/2020/08/teslas-slow-self-driving-progress-continues-with-green-light-warning/</loc>
+    <lastmod>2020-08-31T13:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://mobile.twitter.com/bradporter_?lang=en</loc>
     <lastmod>2020-08-31T13:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2007,6 +2013,12 @@
   <url>
     <loc>https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/</loc>
     <lastmod>2020-08-24T00:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://continuitycentral.com/index.php/news/resilience-news/5427-researchers-use-artificial-intelligence-to-strengthen-power-grid-resilience</loc>
+    <lastmod>2020-08-24T00:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

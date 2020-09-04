@@ -39,15 +39,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Police setting up $9m facial recognition system which can identify people from CCTV feed"
-    excerpt: "Police have been quietly setting up a $9 million facial recognition system that can take a live feed from CCTV cameras and identify people from it. This would push New Zealand into new territory for tracking citizens."
-    publishedDateTime: 2020-08-31T00:21:00Z
-    webUrl: "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12360871"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 10
 
 secured: "q9GnnwdjU8iuvvxohPhOlMbTVqi4YexYeKZrT3B39VNDdus+VklAYduZEYpMkKiAwA/O+jhY9MWBPeyjYX2xnkz+jLehJXrLHCXbL0hWpfsHIiMbnJZBFwRY2kioc3eL/e9VpS7mQrirRch6outJLi8BLcJLtE3VXmP3sA/NgXQlhi4fRTOvlJ0Q/SpF9n6ru9VKTw9wL4RmeK5KBuULSLh0SDcmSIjF3u1xhWNJOuCQQgM31Rkp18jjONfWbdKPlDFaRstIclALbdjXJfzy7baVEE1XRUQI8NjjS1DTPXnjwFDiint274NnB71OAgFP2ALvChla5MOwBdaEQtEE+M/LJoWTtsmU3kgaEGL07rsjdHqsgyiIHe6OWaaMsxcdriJKRAQroDQ8Wc91/Zynrrpj8iZLXNtXBM05+eNt3pYXe2PuoW1baJJ+9Uc8nNWWO13Yo79/2CZ78QzGjQaNg2JGf93GQMNequwAG6xhMY7ici8wK0P0D28OeBkFiXb2bHso+YuaUCTX4LBdACGSsCmWYeSMjvLcvQOImlu+IWs=;QKKAVC0U5uUSZ2G6D4dW/Q=="
 ---

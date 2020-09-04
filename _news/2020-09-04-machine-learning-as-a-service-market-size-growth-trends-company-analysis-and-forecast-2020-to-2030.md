@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Emerging Growth in Artificial Intelligence"
+    excerpt: "Introduction Change is inevitable, evolution can't be ignored and the impact of technology cannot be overstated. The world is changing at the speed of"
+    publishedDateTime: 2020-09-04T17:35:00Z
+    webUrl: "https://www.tapscape.com/emerging-growth-in-artificial-intelligence/"
+    ampWebUrl: "https://www.tapscape.com/emerging-growth-in-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-tapscape-com.cdn.ampproject.org/c/s/www.tapscape.com/emerging-growth-in-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Tapscape.com
+      domain: tapscape.com
+    quality: 59
+    images:
+      - url: "https://www.tapscape.com/wp-content/uploads/2020/09/Emerging-Growth-in-Artificial-Intelligencefeature.jpg"
+        width: 1617
+        height: 1001
+        isCached: true
   - title: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
     excerpt: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation Demand Growth Trend Opportunity and Forecast to 2026"
     publishedDateTime: 2020-09-04T06:29:00Z

@@ -40,9 +40,9 @@ related:
   - title: "Faulty Facial Recognition Led to His Arrest—Now He’s Suing"
     excerpt: "Michael Oliver is the second Black man found to be wrongfully arrested by Detroit police because of the technology—and his lawyers suspect there are many more."
     publishedDateTime: 2020-09-04T14:08:00Z
-    webUrl: "https://www.vice.com/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-    ampWebUrl: "https://www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    webUrl: "https://www.vice.com/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    ampWebUrl: "https://www.vice.com/amp/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
     type: article
     provider:
       name: VICE
@@ -52,22 +52,6 @@ related:
       - url: "https://video-images.vice.com//articles/5f4fefdd972acd00959db0e6/lede/1599158657813-img1508.jpeg?crop=1xw:0.8743135838150289xh;center,center"
         width: 2689
         height: 1512
-        isCached: true
-  - title: "NYPD uses facial recognition to arrest brazen sex offender accused of attempted rape on subway platform"
-    excerpt: "A suspect seen in disturbing cellphone video attempting to brazenly rape a woman on a Manhattan subway platform has been apprehended, according to reports."
-    publishedDateTime: 2020-08-30T23:07:00Z
-    webUrl: "https://www.foxnews.com/us/nypd-uses-facial-recognition-to-arrest-brazen-sex-offender-accused-of-attempted-rape-on-subway-platform"
-    ampWebUrl: "https://www.foxnews.com/us/nypd-uses-facial-recognition-to-arrest-brazen-sex-offender-accused-of-attempted-rape-on-subway-platform.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/nypd-uses-facial-recognition-to-arrest-brazen-sex-offender-accused-of-attempted-rape-on-subway-platform.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 73
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Police facial recognition discrimination against Māori a matter of time - expert"
     excerpt: "It is only a matter of time before a Māori person is wrongfully arrested because of a false match on facial recognition software, a Māori technology expert says. Police have been working on a $23 million upgrade of their biometrics images system run by the US firm Dataworks Plus,"
@@ -163,20 +147,6 @@ related:
         width: 800
         height: 392
         isCached: true
-  - title: "The twisted case of facial recognition"
-    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
-    publishedDateTime: 2020-09-04T04:04:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 41
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Concerns about facial recognition system being set up by police"
     excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
     publishedDateTime: 2020-09-01T00:44:00Z
@@ -204,6 +174,34 @@ related:
       - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/32E3CB40D76BD6BD8CBFB16E23FF2264_800x392.20180506T111644.jpg"
         width: 800
         height: 392
+        isCached: true
+  - title: "The twisted case of facial recognition"
+    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
+    publishedDateTime: 2020-09-04T04:04:00Z
+    webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "TSA is testing facial recognition at security checkpoints"
+    excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
+    publishedDateTime: 2020-09-04T14:34:00Z
+    webUrl: "https://www.wcax.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
+    quality: 39
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Commission will ‘not exclude’ potential ban on facial recognition technology"
     excerpt: "The European Commission has not ruled out a future ban on the use of facial recognition technology in Europe, as the EU executive mulls the findings of a recent public consultation on Artificial Intelligence."
@@ -254,6 +252,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
+        isCached: true
+  - title: "FIDO Alliance Director Draws Line Between Facial Recognition and Facial Authentication"
+    excerpt: "FIDO Alliance Executive Director Andrew Shikiar draws a distinction between facial recognition and facial authentication in a new article"
+    publishedDateTime: 2020-09-02T21:26:00Z
+    webUrl: "https://findbiometrics.com/fido-alliance-director-draws-line-between-facial-recognition-facial-authentication-090208/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 31
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/62157982_thumbnail3-e1436371820805.jpg"
+        width: 551
+        height: 585
         isCached: true
   - title: "Pittsburgh City Council told facial recognition bill should be stronger"
     excerpt: "Restrictions on using facial recognition software and predictive police techniques proposed by Pittsburgh City Councilman Corey O’Connor don’t go far enough, a handful of computer science researchers told council Wednesday."

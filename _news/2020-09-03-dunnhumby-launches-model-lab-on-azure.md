@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "dunnhumby Speeds Time-to-Insight for Data Scientists with New Tool on Microsoft Azure"
+    excerpt: "Microsoft Azure, enabling data scientists to deliver customer insights faster. dunnhumby Model Lab is designed to solve complex retail challenges, such as understanding customer churn and predicting propensity to purchase and in what channel,"
+    publishedDateTime: 2020-09-04T11:07:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool--on-Microsoft-Azure-142651.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 47
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+kVB2kKtYoyWGB4bM1srWbwCxk/o8J2p7MWlfEF1IqqnKvt1YO+3jSBEdYNgEVwoPrRYxN1cygMIOm1Fy8gPjQBmUhQnx/uTePH9iB5ne7+vgnncritOE62gehldVraW+6tRolhFH5GHEUQTU7tYfkwT9kdBl9jEuQNHf5Apc8SyhzasqmYo1hp6SaK2Hz1d+b5mNXml4jPm23fiz64uxCyaAK1PNgDb9hZTQZmTSs8lDzuKq/J79mD2OHZJ7vqnvmXb+66WHdbsj8DYPv9IqeDcc7rVDoWEGnKL5dQluyqhWEADLIT18Za29hKBlva5Dx+5LULO3D/gPOIoCHAkFvJXSePTlyM+zBI2gfVjxhJqrsDRz2meLQEeemUzQ/QuJDn9yF26X4vGP6Pvl1xgdotnyeYJLW8XTOl529hstzanCqMimS7YRmPklzphVeORZ31Im7L2YzgrqM8yjkydBGjum0DVCw0bfjNd8F5N/4iS73gJvMNxs6qa3Hpwg7cbKMUS4dIdOEXdHQQAZ9StrA==;BcuyyXZaJuQraLyyp11yWA=="
 ---

@@ -3,6 +3,7 @@ category: news
 title: "Argonne scientists use artificial intelligence to strengthen power grid resiliency"
 excerpt: "A new artificial neural network model, created by Argonne scientists, handles both static and dynamic features of a power system with a relatively high degree of accuracy."
 publishedDateTime: 2020-08-24T08:02:00Z
+originalUrl: "https://eurekalert.org/pub_releases/2020-08/dnl-asu082120.php"
 webUrl: "https://eurekalert.org/pub_releases/2020-08/dnl-asu082120.php"
 type: article
 quality: 33
