@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "DiligentRobots"
   url: "https://twitter.com/DiligentRobots"
-  followers: 650
+  followers: 651
 
 size: 2-10 employees
 locations:
@@ -31,7 +31,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1109097307180433411/-uAIlIV1_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1301980739710390272/NBgvcoeG_400x400.jpg"
     width: 400
     height: 400
     isCached: true
