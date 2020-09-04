@@ -2,6 +2,46 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-08-13-facebook-ramps-up-artificial-intelligence-to-detect-hate-speech.md",
+      "title": "Facebook ramps up artificial intelligence to detect hate speech",
+      "excerpt": "The latest data from the social media company shows AI helped it detect 95% of the hate speech it removed between April and June.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/Olx4zMknpRo756km",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/08/facebook-smartphone-2020.jpg",
+          "width": 816,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.itweb.co.za/content/Olx4zMknpRo756km",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/Olx4zMknpRo756km",
+      "publishedDateTime": "2020-08-13T01:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai.md",
       "title": "Singapore parks $182M for fintech innovation, with special focus on AI",
       "excerpt": "with added focus on artificial intelligence (AI). The move comes as the country wraps up a previous five-year roadmap that saw the emergence of 1,000 fintech companies and 40 innovation labs ...",
@@ -1116,48 +1156,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-caltech-engineers-use-machine-learning-to-help-robots-get-along.md",
-      "title": "Caltech Engineers Use Machine Learning to Help Robots Get Along",
-      "excerpt": "When several robots in motion inhabit the same space, more challenges arise. Multi-robot scenarios are becoming more common with the advancement of autonomous vehicles (AVs) and use of drones for various applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20591/Caltech-Engineers-Use-Machine-Learning-to-Help-Robots-Get-Along.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.engineering.com/portals/0/BlogFiles/drones.png",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.engineering.com/amp/20591.html",
-      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20591.html",
-      "publishedDateTime": "2020-08-12T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering",
-        "domain": "engineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

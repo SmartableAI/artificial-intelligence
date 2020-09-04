@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-03-nitda-plans-centre-for-artificial-intelligence-robotics.md",
+      "title": "NITDA plans centre for artificial intelligence, robotics",
+      "excerpt": "In an effort to achieve a robust digital economy, the National Information Technology Development Agency, (NITDA) is set to establish a Centre for Artificial Intelligence and Robotics in Nigeria (CFAIR).",
+      "sourceUrl": null,
+      "webUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206",
+      "originalUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.today.ng/wp-content/uploads/2017/08/NITDA.jpg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206/amp",
+      "cdnAmpWebUrl": "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206/amp",
+      "publishedDateTime": "2020-09-03T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TODAY",
+        "domain": "today.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-the-distributed-cloud-era-has-arrived.md",
       "title": "The distributed cloud era has arrived",
       "excerpt": "The rise of distributed clouds and app-to-app networking dictates the use of cloud-native network and security infrastructure",
@@ -538,7 +579,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/",
       "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/",
       "featuredContent": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1167,47 +1208,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness.md",
-      "title": "Rolls-Royce announces breakthroughs in Artificial Intelligence ethics and trustworthiness",
-      "excerpt": "Royce has announced two breakthroughs in artificial intelligence ethics, which could help gain society’s trust of the technology and accelerate the next generation of",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/",
-      "originalUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/",
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Rolls-Royce.jpg?fit=400%2C400&ssl=1",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/?amp",
-      "publishedDateTime": "2020-09-02T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

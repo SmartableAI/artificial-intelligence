@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1238773"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1238773"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 2500
     height: 1667
     isCached: true
-
-related:
-  - title: "AI airforce: Artificial Intelligence fighter pilot beats human in virtual dogfight"
-    excerpt: "ARTIFICIAL INTELLIGENCE (AI) experts have created a machine able to beat a human fighter pilot in a simulated dogfight."
-    publishedDateTime: 2020-08-30T12:27:00Z
-    webUrl: "https://www.express.co.uk/news/science/1329248/ai-airforce-artificial-intelligence-fighter-pilot-beats-human-virtual-dogfight-darpa"
-    ampWebUrl: "https://www.express.co.uk/news/science/1329248/ai-airforce-artificial-intelligence-fighter-pilot-beats-human-virtual-dogfight-darpa/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1329248/ai-airforce-artificial-intelligence-fighter-pilot-beats-human-virtual-dogfight-darpa/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 66
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-airforce-artificial-intelligence-fighter-pilot-beats-human-virtual-dogfight-darpa-1329248.jpg?r=1598790283754"
-        width: 590
-        height: 350
-        isCached: true
 
 secured: "cjwDQT8e/FLPGWJOqcpnKkW38RvtL7hQknV/ODTpm9HrObiq+60nA7d/KYojjNB327x5IjxsDgXJ3vk0876y8GnsqRuy6Vso54gfzzWk5cTbMro49+l9729gOL4HYpqqa6eKbkjHdCv4em0rqmjY1v+J+UjvdhYpncrNmw3N2/CTzmIifen6184O0MHgBtdIqkK11xBhOcEjkvaS8JRw6NGYLK99jox2/CDakYUoWQ5PrV0ZDFu3bSdjS2avFXNU+rMZ/itwVIWon6tyZPXGDqMbbDTV3q+d3vvVhCrI7TFwPLMDhZsAZjB6G0kJBEKEh7rf2EktRquhkzOf6irCj5KfgpmesXhOwKiDf/ZOIf21BowAiTXWjpI+2unQM/WkXl6+ExOLUH901hblxlOgCrrvAfxXe0MtpRL/4CoPMdr7jn5voPArJUo9PxwTGMs7WJkMkQM4yZe+d1PXLJhnm3IqyjbUCgPwdjlVsIiJ5ZppcyvmaCY3pFuY5Lh7S44yGVti0Pk/9zUn4uKLPvg95A==;bKoBMk62Hj2CVILn9LZ7jA=="
 ---

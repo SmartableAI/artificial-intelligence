@@ -2,6 +2,56 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-01-mediatek-helio-g95-chip-announced-for-gaming-smartphones.md",
+      "title": "MediaTek Helio G95 chip announced for gaming smartphones",
+      "excerpt": "MediaTek today announced its latest gaming-focused chipset, the Helio G95. An upgraded version of the G90T, the new chip is slightly faster in CPU and GPU benchmarks and comes with other new features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/mediatek-helio-g95-chip-announced-for-gaming-smartphones",
+      "originalUrl": "https://www.neowin.net/news/mediatek-helio-g95-chip-announced-for-gaming-smartphones",
+      "featuredContent": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1598936959_mediatek-helio-g95_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/mediatek-helio-g95-chip-announced-for-gaming-smartphones/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/mediatek-helio-g95-chip-announced-for-gaming-smartphones/",
+      "publishedDateTime": "2020-08-31T22:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-artificial-intelligence-as-a-service-market-2020-2023-growth-emerging-trends-and-forecast.md",
       "title": "Artificial Intelligence as a Service Market 2020-2023 / Growth, Emerging Trends And Forecast",
       "excerpt": "Comserve Inc. / -- Artificial Intelligence as a Service Market Analysis 2020-2023 by Size, Share Emerging Trends, Future Growth, Technology, Revenue Analysis, Impact Analysis of COVID-19, Demand Forecast Global Artificial Intelligence as a Service (AIaaS) Market,",
@@ -1120,55 +1170,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-50-exoplanets-discovered-in-deep-space-by-advanced-artificial-intelligence.md",
-      "title": "50 exoplanets discovered in deep space by advanced artificial intelligence",
-      "excerpt": "More than 4,000 exoplanets have been discovered so far by astronomers. Now, artificial intelligence has discovered an additional 50, thanks to old data from NASA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence",
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/exoplanet-water-common.jpg",
-          "width": 1056,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence.amp",
-      "publishedDateTime": "2020-08-31T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

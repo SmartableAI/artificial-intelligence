@@ -2,6 +2,56 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-08-04-for-robots-its-a-time-to-shine-and-maybe-disinfect.md",
+      "title": "For Robots, It’s a Time to Shine (and Maybe Disinfect)",
+      "excerpt": "The pandemic has turned cleaning and other mundane building tasks into a challenge, stoking interest in machines as cost-effective solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/business/04Virus-Robots-01/04Virus-Robots-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.amp.html",
+      "publishedDateTime": "2020-08-04T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform.md",
       "title": "cnvrg.io AI OS Delivers Accelerated ML Workloads of All Sizes with Native Support of NVIDIA A100 Multi-Instance GPU to its ML Platform",
       "excerpt": "PRNewswire/ -- cnvrg.io AI OS for machine learning today announces native integration of NVIDIA multi-instance GPU (MIG) technology to its data",
@@ -1037,47 +1087,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-artificial-intelligence-researchers-release-theaitre-play-written-entirely-by-machines.md",
-      "title": "Artificial intelligence: Researchers release 'theAItre' play written entirely by machines",
-      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) experts are working on a cutting-edge research project merging machine learning with theatre.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/AI-1318237.jpg?r=1596490343190",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines/amp",
-      "publishedDateTime": "2020-08-03T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

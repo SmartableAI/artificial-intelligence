@@ -28,7 +28,7 @@ related:
   - title: "Army looks to machine learning to predict, prevent injuries"
     excerpt: "Hoping to reduce costly non-combat muscle and bone injuries to warfighters, the Army turns to a machine learning-based tool used in professional sports."
     publishedDateTime: 2020-09-02T22:42:00Z
-    webUrl: "https://gcn.com/articles/2020/09/02/army-ai-injury-prevention.aspx?admgarea=TC_EmergingTech"
+    webUrl: "https://gcn.com/articles/2020/09/02/army-ai-injury-prevention.aspx"
     type: article
     provider:
       name: GCN

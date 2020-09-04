@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/google-maps-deep-mind-ai-accuracy-14000
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-maps-deep-mind-ai-accuracy-140005698.html"
 type: article
 quality: 104
-heat: 154
+heat: 174
 published: true
 
 provider:
@@ -108,6 +108,31 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/google.png"
         width: 867
         height: 486
+        isCached: true
+  - title: "Google Maps using DeepMind AI to predict your arrival time"
+    excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
+    publishedDateTime: 2020-09-04T04:57:00Z
+    webUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+    ampWebUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 54
+  - title: "Google Maps and DeepMind take advantage of AI capabilities to improve the number of paths"
+    excerpt: "Machine learning helped improve expected real-time arrival time by up to 50%. It took nearly 13 years to provide traffic"
+    publishedDateTime: 2020-09-04T04:37:00Z
+    webUrl: "https://www.news24xx.com/2020/09/04/google-maps-and-deepmind-take-advantage-of-ai-capabilities-to-improve-the-number-of-paths/"
+    type: article
+    provider:
+      name: News24XX.com
+      domain: news24xx.com
+    quality: 45
+    images:
+      - url: "https://www.news24xx.com/wp-content/uploads/2020/09/GettyImages-1208999497-e1599071823905.jpg"
+        width: 1200
+        height: 601
         isCached: true
 
 secured: "NSVDADAa8R4FLW0MDjzOXHOSfBUstbbdSEZYEk6zhITKzeE/NJHxZPMRRwrNaAiPxPKdWDWN1WBdRZ2FGR//ED7Q0XrfbAEOya2m13qYdRLAIsiB9EjfjEymdawZhY3sc0YzMiSYm6KrT6X5gimQzw4KnPH+S+Hszc/REyxpTJU9YxX/3jsD5zFOvv9uGBo6+whlH0K4uHhLEpfxt9RhSmbejPB2JlSlP2qXbh8Y5Z/atUEsFZZXDdj/M0nCXA7fu5biU97icN4L+BgMHS9efdIKH6T5E1DwiPsQOYcnwlsKcbbW75l7oUq13HB+viKlX0LMErRbcUVfcuQFFP7cH5R6ZlsYqXvlzz7YzAvqAIutYvAUa5xoO/vQu8C4Se+WPOtD/lVVPGT5k0MZUGODandC4cJ2i0AQf/0Di6HLnlTV8MmOUFN6HTutpVs8OLi6DRjYHMjutHnbwKRTnBsM99gPCF9H3uvy+cK7R7pKRMJ/RFNwK1x7Ywo+qiWLu1ixhYGcsR7emRlSdr3sKR1Uao1OfVzhL3Vp3PwIHWjPHjs=;bHHOvUKeAKuNfs510U5c8g=="

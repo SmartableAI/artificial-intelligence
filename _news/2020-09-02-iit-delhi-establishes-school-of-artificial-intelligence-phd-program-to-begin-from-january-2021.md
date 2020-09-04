@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IIT Delhi: PG and PhD Programmes at School of Artificial Intelligence (ScAI) will begin January 2021"
+    excerpt: "IIT Delhi has set up an independent School of Artificial Intelligence (ScAI) on its campus. The AI school will commence its Ph.D. program from the next admission cycle, i.e. January 2021. IIT Delhi also plans to offer postgraduate (PG) degree courses."
+    publishedDateTime: 2020-09-04T04:33:00Z
+    webUrl: "https://www.ciol.com/iit-delhi-pg-phd-programmes-school-artificial-intelligence-scai-will-begin-january-2021/"
+    ampWebUrl: "https://www.ciol.com/iit-delhi-pg-phd-programmes-school-artificial-intelligence-scai-will-begin-january-2021/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/iit-delhi-pg-phd-programmes-school-artificial-intelligence-scai-will-begin-january-2021/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 39
 
 secured: "6yb8769nDSCMGsJRVmP56PDww7GjNS9ElPQM1cW1Pfc+F3fM1foSaNh5xi28+kwN8l8z00iUy4azs9soRlu8SAhfX5A9XnyRwxiXavbRqYmLEDSQOARICErtJdxgxKG39WSoYm2kJJjAL5w8u+nZuithPUWBmAHneRiKqc2dokD4OIJ64p8u0FGpcc5lnEoNfSrVV47Cdk0ZqvHYKwsKvX+oGlliQLTJ/RGam0VohTOjpeg8WoPLd/ay5er7uzVA73bE/De9qXve9wh5OH+kXcRL/aix3rKf0zjilbIotHapq+KKNhkNx0/S66OoigIwgpVizknWqk+BT6u/QymAw4iHwd6ajcNG0gZeEIDYnWI=;xOZhRjJMk2ijiYSA2x+KUA=="
 ---

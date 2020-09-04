@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-08-28-7-data-science-certifications-to-boost-your-resume-and-salary.md",
+      "title": "7 data science certifications to boost your resume and salary",
+      "excerpt": "IBM, Google, SAS, and Oracle offer online courses and exams to quantify data science skills and expertise with modeling and analysis software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/7-data-science-certifications-to-boost-your-resume-and-salary/",
+      "originalUrl": "https://www.techrepublic.com/article/7-data-science-certifications-to-boost-your-resume-and-salary/",
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/7-data-science-certifications-to-boost-your-resume-and-salary/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/7-data-science-certifications-to-boost-your-resume-and-salary/",
+      "publishedDateTime": "2020-08-28T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios.md",
       "title": "AI analysis finds that in-app ad issues are fixed faster on Android than iOS",
       "excerpt": "Researchers found major differences between how in-app ad complaints are addressed on the iOS App Store and Google Play.",
@@ -335,32 +386,41 @@
     {
       "path": "_news/2020-08-28-uber-expands-self-driving-safety-report-after-ntsb-slams-culture.md",
       "title": "Uber Expands Self-Driving Safety Report After NTSB Slams Culture",
-      "excerpt": "Uber Technologies Inc. vowed to make public more safety information regarding its self-driving cars after the National Transportation Safety Board placed partial blame for a fatal 2018 crash on ...",
+      "excerpt": "Read More: Fatal Self-Driving Uber Crash Prompts Call for Tighter Oversight The fatality occurred around 10 p.m. on March 18, 2018, when a 49-year-old woman was hit by a 2017 Volvo XC90 SUV ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ttnews.com/articles/uber-expands-self-driving-safety-report-after-ntsb-slams-culture",
-      "originalUrl": "https://www.ttnews.com/articles/uber-expands-self-driving-safety-report-after-ntsb-slams-culture",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/uber-autonomous-1.jpg?itok=72FMsi3_",
-          "width": 470,
-          "height": 246,
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyGf4FGe5VZ4/v0/360x-1.jpg",
+          "width": 360,
+          "height": 239,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-28T09:19:00-07:00",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
+      "publishedDateTime": "2020-08-28T08:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Transport Topics",
-        "domain": "ttnews.com",
-        "images": null,
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1099,55 +1159,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-white-house-under-fire-for-discouraging-coronavirus-testing-says-it-will-buy-millions-of-test-kits.md",
-      "title": "White House, Under Fire for Discouraging Coronavirus Testing, Says It Will Buy Millions of Test Kits",
-      "excerpt": "President Trump promised a vaccine by the end of the year. For hurricane-battered Louisiana and Texas, a confluence of disaster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.turing.com/",
-      "originalUrl": "https://www.nytimes.com/2020/08/27/world/covid-19-coronavirus.html",
-      "featuredContent": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.turing.com/img/we_find_greatness.png",
-          "width": 842,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-28T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

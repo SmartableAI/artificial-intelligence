@@ -50,7 +50,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/",
       "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/",
       "featuredContent": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -295,32 +295,41 @@
     {
       "path": "_news/2020-08-28-uber-expands-self-driving-safety-report-after-ntsb-slams-culture.md",
       "title": "Uber Expands Self-Driving Safety Report After NTSB Slams Culture",
-      "excerpt": "Uber Technologies Inc. vowed to make public more safety information regarding its self-driving cars after the National Transportation Safety Board placed partial blame for a fatal 2018 crash on ...",
+      "excerpt": "Read More: Fatal Self-Driving Uber Crash Prompts Call for Tighter Oversight The fatality occurred around 10 p.m. on March 18, 2018, when a 49-year-old woman was hit by a 2017 Volvo XC90 SUV ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ttnews.com/articles/uber-expands-self-driving-safety-report-after-ntsb-slams-culture",
-      "originalUrl": "https://www.ttnews.com/articles/uber-expands-self-driving-safety-report-after-ntsb-slams-culture",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/uber-autonomous-1.jpg?itok=72FMsi3_",
-          "width": 470,
-          "height": 246,
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyGf4FGe5VZ4/v0/360x-1.jpg",
+          "width": 360,
+          "height": 239,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-28T09:19:00-07:00",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
+      "publishedDateTime": "2020-08-28T08:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Transport Topics",
-        "domain": "ttnews.com",
-        "images": null,
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -461,20 +470,29 @@
       "title": "The Global Self-driving Taxi Market is expected to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period",
       "excerpt": "The analyst has been monitoring the self-driving taxi market and it is poised to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period. Our reports on self ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin",
+      "webUrl": "https://www.prnewswire.com/news-releases/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-301118728.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-301118728.html",
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17252765",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17252765",
-      "publishedDateTime": "2020-08-26T09:01:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-26T08:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,25 +2,21 @@
 category: news
 title: "The China Artificial Intelligence (AI) Report 2020: Mounting Privacy Concerns and a Look at US-China Tensions"
 excerpt: "The China Artificial Intelligence (AI) Report 2020 gives you exclusive first-hand insights and data-driven analysis into the latest industry developments, including An up-to-date and comprehensive ..."
-publishedDateTime: 2020-08-13T16:31:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions-301112004.html"
-webUrl: "https://www.prnewswire.com/news-releases/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions-301112004.html"
+publishedDateTime: 2020-08-13T16:53:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/n17075029/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17075029/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17075029"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17075029"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
-
-secured: "iMV1rXC7GU/Hlb0Is2OjySAzxccD0TLBJF1TIf3rer+pvAbiPdmQEWPIiB42oUsb1knaSCFIp6eqKrtW+OXv9uUTQEYJeTI5onRdlukhzfPKl5jDbNWNLf0ttKRQrZZperqo2/d5n6aY6oKtG+OlRBYB45x1t+NWxnbJyWc4kalikDQdo6+U5Ghpa9M+2VvludI1fPBiFD1Nx/8MqCFId6o2DkYRs7ffe98Et7dp41Bhjzd9kgHW1Y8oZMGAvxhk9YlvYeS7+jaEhaj4F7QMinS/px1pQYGqLVabKcX7wfQ77iS5cyyz9Su/XeD8vRQN10lCT10O9bT3EAg1DGInMwh0uSs8IPx+T+aMtlCkc9U=;hPwJyk6f4quLuiMI/wLr5Q=="
+secured: "IP1gokXIWxvN4EB+A4ACxhp+LWEn+0XsEoI8cQDD7vaQvtJGqF6GmMkl67i+pTv5Pxv8VFVlcLJyvHmCFwcO7ee7DNl21GCjIFzizRoekUl/qfpUuoz/xjqGl2r/ufNt141+5ByLu0CFjZan5HdIKvnv/rjOgzVUEI1MWCE2uXwCiV/JIDJ14sJAid1f4mPeMk+AS8yjXf0A1Ifp2Gi6yRjptZXKo3M8I3aS2uOYfL0AI5clTGHdypY+EoB5TFfbsiCUSmKBgXIFkc6IEZ9cp66k+BOi7SgUL5iFPr69Hl9fKXAdNBrt3gzBbQ/fYBGlJTfLpdrB4mHBtXd1ucx/5JNOx/VW5H0SxFPPFuyKvWM=;/VQWQtRBtrTLm5a7CYW+5Q=="
 ---
 

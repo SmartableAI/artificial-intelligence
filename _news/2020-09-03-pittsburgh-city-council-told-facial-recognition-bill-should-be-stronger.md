@@ -131,6 +131,20 @@ related:
         width: 1800
         height: 938
         isCached: true
+  - title: "The twisted case of facial recognition"
+    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
+    publishedDateTime: 2020-09-04T04:04:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 41
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Concerns about facial recognition system being set up by police"
     excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
     publishedDateTime: 2020-09-01T00:44:00Z

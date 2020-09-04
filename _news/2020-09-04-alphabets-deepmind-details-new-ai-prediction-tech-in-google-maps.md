@@ -105,6 +105,31 @@ related:
         width: 3000
         height: 1500
         isCached: true
+  - title: "Google Maps using DeepMind AI to predict your arrival time"
+    excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
+    publishedDateTime: 2020-09-04T04:57:00Z
+    webUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+    ampWebUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 54
+  - title: "Google Maps and DeepMind take advantage of AI capabilities to improve the number of paths"
+    excerpt: "Machine learning helped improve expected real-time arrival time by up to 50%. It took nearly 13 years to provide traffic"
+    publishedDateTime: 2020-09-04T04:37:00Z
+    webUrl: "https://www.news24xx.com/2020/09/04/google-maps-and-deepmind-take-advantage-of-ai-capabilities-to-improve-the-number-of-paths/"
+    type: article
+    provider:
+      name: News24XX.com
+      domain: news24xx.com
+    quality: 45
+    images:
+      - url: "https://www.news24xx.com/wp-content/uploads/2020/09/GettyImages-1208999497-e1599071823905.jpg"
+        width: 1200
+        height: 601
+        isCached: true
 
 secured: "iEEVbo+SVtyCTUPL0RhafsQ5tabZxP5xCMswTG7Q2tQXI/ywo6kiEy79notFzd2tKlkNJGUr1uY/lyHhuUQvWrwLGrhDO+AN9tbH0Ezjr7YBQtO6gbSqvfxCK1KbVeFpGnE2OlKCQetiAan/UO59RiqgBzMs/O/MC1zepvCwu1Z86EqfD05J7rVZsuTJRqLjKBrJPIGiUTgIPOhBQi54nH+e0o6Ud8dF+cfISSS5ea6MWNF1am+B+Ew0CFQy2E2ro/S9M5yx4OaLv4fhf65mJPJM9e7fGQOBFYtQ54TaOOlcl5hPHz5zdfG+XEOCgyGBFKeLuOWX6HR+zdOKOWIhNodXK9TdNyfeCtzDy+7Twm7F3wuCSvlG1RdZEmRU4hK+GtO3ib4T8PxdiNKh7VvxDpvOyTLFcQ2mf8UTYOrXbQW60x1iJxGt1mx8fwFZh5BDh8Pu4sseSxq6oDu+Dx3GJSuaL2fIe5YS+OpxklG/O95elTTLxgRkR/kVU1RCuDe0vshBSfafzNdJlyroKAJkk/G3tBGC/meWKazjlEa1Y4g=;faoLGj4YQ+i0ejUlAiYZiw=="
 ---

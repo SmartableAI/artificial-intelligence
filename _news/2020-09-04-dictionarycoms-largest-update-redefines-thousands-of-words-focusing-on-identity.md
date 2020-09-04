@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Dictionary.com's Largest Update (Re)defines Thousands Of Words, Focusing On Identity"
-excerpt: "Anyone grasping for the right word or phrase to describe life in 2020 now has a larger lexicon to work with. Dictionary.com has updated thousands of"
-publishedDateTime: 2020-09-04T03:50:00Z
-originalUrl: "https://www.wbaa.org/post/dictionarycoms-largest-update-redefines-thousands-words-focusing-identity"
-webUrl: "https://www.wbaa.org/post/dictionarycoms-largest-update-redefines-thousands-words-focusing-identity"
+excerpt: "In another sign of the times, the dictionary has introduced a slew of new phrases related to the environment and technology, including ecoanxiety, bombogenesis, cap and trade, natural language processing and techlash. It's also defined and articulated the ..."
+publishedDateTime: 2020-09-04T04:11:00Z
+originalUrl: "https://www.nhpr.org/post/dictionarycoms-largest-update-redefines-thousands-words-focusing-identity"
+webUrl: "https://www.nhpr.org/post/dictionarycoms-largest-update-redefines-thousands-words-focusing-identity"
 type: article
 quality: 17
 heat: 17
 published: false
 
 provider:
-  name: WBAA
-  domain: wbaa.org
+  name: New Hampshire Public Radio
+  domain: nhpr.org
 
 topics:
   - Natural Language Processing
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "7KABzhIoxPuAgIIgS2qH3SmbmPKPTlFRcjYg81igvT1qqgmdPGXb1TF6fANFj3HVsU8+ajcZDohNZqA11Kf11lswfmz6tk97TSeYMjscDx8U60LdndUpwJp6oX3CuYoIDYSUcUyu05Shj8wHBFtxo1nbOcNceyX/QzAblbTGT56zfS5NSSe2xFPL7AookX4j16sHTh/rfH31GtorZz77j+PHvrWAb6C8dWjlzUf7ExLq12jQPEVZDmit07fN6hEiuprQOPjXRPU6zeO46hA47ukg6leDqrg4kzrKePJY9q6NbqBkb4VrBJ+7zNQ7aOnMdK7Skjaz0tPjfcmbLAfcqiD/XEwpV6fuETJWx3X1qVg=;cSU1W72I5vkW3oQGbsehZQ=="
+secured: "vxuHNwlApFR3EZrvX+InjdxX8WUB1Yaj53Tw7DuWPXoudvee8fp0P0EYDUfxSDT4ZXP/rUDRHYEQLFtVBSSfftKtAVvJqvVIPJGZa0+XVBYXrwsZyYsB3AopMiM85X+b1XLLccKOgKrxXS2JWe0bqY+s59+GXKL55f9IQLAuIOnOe2fQ7hDncGpPUoGenUxlaS3ku2jWroCkKqb9j/Z5wAPX00sB1Zczq2DGISJLhnXvUj/5fTxD0xG6SALQXkKx83Paet98t4bf6j4dob6sIA0yIucUZKrdmfXuV8UWTWnz7S5kE4CnT2dCxg8HQ4RxqoOhEUtnzJJ7b/ab3cZIGVyWYNv9yOyRPOFnvp7xm7s=;OpzG3fM6/6Lo1pXm66btTg=="
 ---
 

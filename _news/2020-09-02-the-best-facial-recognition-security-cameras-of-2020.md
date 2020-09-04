@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/"
 type: article
 quality: 89
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F09%2F03%2Ftsa-security-checkpoint-FACETSA0920.jpg"
         width: 1800
         height: 938
+        isCached: true
+  - title: "The twisted case of facial recognition"
+    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
+    publishedDateTime: 2020-09-04T04:04:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 41
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Concerns about facial recognition system being set up by police"
     excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
