@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/healthcare-ai-how-on
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/healthcare-ai-how-one-hospital-system-is-using-technology-to-adapt-to-covid-19/"
 type: article
 quality: 100
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Health tech start-up to launch AI-based solution to detect serious Covid cases using X-Ray, MRI or CT scans"
+    excerpt: "The same technology is used for Covid, in which the healthcare professional can easily separate the serious patients immediately and start treating them in Covid specific hospital and wards, Patil said."
+    publishedDateTime: 2020-09-03T23:10:00Z
+    webUrl: "https://www.financialexpress.com/lifestyle/health/health-tech-start-up-to-launch-ai-based-solution-to-detect-serious-covid-cases-using-x-ray-mri-or-ct-scans/2074134/"
+    ampWebUrl: "https://www.financialexpress.com/lifestyle/health/health-tech-start-up-to-launch-ai-based-solution-to-detect-serious-covid-cases-using-x-ray-mri-or-ct-scans/2074134/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/health-tech-start-up-to-launch-ai-based-solution-to-detect-serious-covid-cases-using-x-ray-mri-or-ct-scans/2074134/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 39
+    images:
+      - url: "https://images.financialexpress.com/2020/09/1-136.jpg"
+        width: 660
+        height: 440
+        isCached: true
 
 secured: "DYsPzMTHaPmBFsaUVIfZPwS/Gk/zeEPCZwu9wU3YigefVJWoCc+Xpxar5nj/xPtEXr1Bf+EUsHcsh6Xe8yLEjXo1P1l5PADTwNNB4Sztsts0y/2aiWCnJPLgwA5LyDiNK+xMO4kd5V7ALJEFKQZfQpuuswbpqaVHGpiP+zI+rkEDN0OwAyTTcXC5vvur+hA46KcVg71HFDWkt5Q2dZMH0QcNfw9NU+2kfG531DxK1odeEeIBMscp+BGgFLCVs3i6unTlQxbZ++Ny/NLJWuLDpqAGsknLm38zWdWSfBCvOVA5EGDiJYELawFRA7ELpenxYzHrzxth7rmz8RUMb1jz95cpBdBeTJlOvmJguv3uGH2PYxtUPg9ZFVfmyskZkgHDxByw7UvHP9Rnp/R3bXKAkLS2MjzBTQhIaD145EOGH+vPmZqr27lMKV/NBpA/hmebxgq31oU3zOhWIkDksuaudZy3/jXzj5Hh977bIlsL+NcA8KyqiSVVawLXne93K++uAjuPRAreiGVsvsNABxuyXRP12pm51JwFb7iSt3n8su4=;GUcZbNQuiEouefIpZW10Rg=="
 ---
