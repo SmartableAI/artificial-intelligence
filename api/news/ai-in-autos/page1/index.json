@@ -336,32 +336,23 @@
     {
       "path": "_news/2020-08-27-fox-robotics-raises-9m-for-self-driving-forklifts.md",
       "title": "Fox Robotics Raises $9M For Self-driving Forklifts",
-      "excerpt": "Fox makes self-driving forklifts that are more flexible, more capable and safer than current AGV's. Fox's forklifts can tackle challenging tasks that no other automation can handle, such as ...",
+      "excerpt": "This brings Fox's total funding to over $13 million. -- Fox's self-driving forklifts automatically unload trailers and have been running in pilots with logistics companies that currently operate tens of thousands of manual forklifts. -- Fox will use the ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921",
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/08/27/fox-robotics-raises-9m-for-self-driving-forklifts",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2020/08/27/fox-robotics-raises-9m-for-self-driving-forklifts",
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921",
-      "publishedDateTime": "2020-08-27T05:49:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T07:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

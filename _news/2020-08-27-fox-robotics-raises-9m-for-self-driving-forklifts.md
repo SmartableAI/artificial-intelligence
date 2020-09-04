@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Fox Robotics Raises $9M For Self-driving Forklifts"
-excerpt: "Fox makes self-driving forklifts that are more flexible, more capable and safer than current AGV's. Fox's forklifts can tackle challenging tasks that no other automation can handle, such as ..."
-publishedDateTime: 2020-08-27T12:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
-webUrl: "https://markets.businessinsider.com/news/stocks/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fox-robotics-raises-9m-for-self-driving-forklifts-1029539921"
+excerpt: "This brings Fox's total funding to over $13 million. -- Fox's self-driving forklifts automatically unload trailers and have been running in pilots with logistics companies that currently operate tens of thousands of manual forklifts. -- Fox will use the ..."
+publishedDateTime: 2020-08-27T14:28:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2020/08/27/fox-robotics-raises-9m-for-self-driving-forklifts"
+webUrl: "https://stockhouse.com/news/press-releases/2020/08/27/fox-robotics-raises-9m-for-self-driving-forklifts"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "mPnGH8UenHwDN7a7RqDau52ARwjvagX0JZY7Fiu80Yll4X0rS0Hg/B7mvigwYm2xbLFD9S+xc5l8I5kTiskE7mucso4bci+hwVkrrPESZcp8SZv6JRj1EZ8l8iPQ3EZ0TgDwwnWDJ0SoW29AO7zZw33YR4fZo3yADUpf/X/rUUA3/2Qyg5IHb1wMvCmzMb8KiCkNdVluMJOS8w3SRyJJuFPS+Be5LO9QcQBdosbmGD4/xR6pR0Z5/K7pHBZDOOP3Mg3247YTkJCFd/1BRb9a7GuiXA7NIMg85nylhcg5lP6a/2WacUkrarIdzW8jXtMAkiZ4gKkLl+5yLX4n93WAanubDLuKd+4JK7bPhOKDiCQ=;nmfc7xYZfcjUEKk3JRripw=="
+secured: "OkKPcNXUZQcMqSXZK6Ir0eVmHTG9VkxI2chFJAvyhjEgT+PN15727M4WahMijwZYFeB/FzmAkwpcfSuu0AeWZDjXdxjJWzpbWp89b/2EczEvM/rxQugX49QdzpwS82wHdR+zqQStfZ1PDxexZ0ut2sa2Ue2zEbdYxEvY9pDxxBaekR9o4v8Nvf2zDwc5ALrWuqKng23YzjKOL/1YfbdRJCQhSHkzpIQBTf4Ni1hXPfTKlO6B+4Nxr272q5qFcq1GJXHy8pk7NH87FPWjt+iIMw45042tvCyIp6ko+Que41d89T/dfx7+sd6io953oHsK+LaSPpVh2lkgZVb6Zg+45xQjjJr6/yHAVBaMbwvLuzg=;h93Vh4PXbGUhCgZg3fuTrA=="
 ---
 

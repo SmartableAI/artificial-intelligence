@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-04T00:27:00Z
 originalUrl: "https://www.patentlyapple.com/patently-apple/2020/09/a-deep-computer-vision-machine-learning-patent-surfaces-covering-the-possible-use-of-specialty-cameras-for-the-iphone-wear.html"
 webUrl: "https://www.patentlyapple.com/patently-apple/2020/09/a-deep-computer-vision-machine-learning-patent-surfaces-covering-the-possible-use-of-specialty-cameras-for-the-iphone-wear.html"
 type: article
-quality: 9
-heat: 9
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c026be40e4c7c200d-600wi"
@@ -24,6 +25,6 @@ images:
     height: 380
     isCached: true
 
-secured: "ZasXgmfleI3UyzIF00JwLKqO1I/UitWRBI98QAdfk2RejVoUI4YCNiO51jet77fJBv/hmM5bgM6IdBIl5oKTlECYGoNLvmOwKhEexysSXpgtjQOt3bl3KMWO4Py6QCqzAPHsJUH9rY1MzrUS+lVMZMTKueBqYDjdHXR2LK15Meu6CMvTIzkv40PvIGRYeAaofiCauMZJa5ZJ2YeFWdPD1SDfTPy3FQSxbTZnOVjcrRZHPNBWmFC0M83IbK6ZVuAsAmw0w2MV2op+YO8bPcqJqyLAE8kbcO+CtYKAvVIxLpqJoI8KwKV56WYzQjpMKQosbHv101tBcOaG9ub0sExg8eAF46kM6Hn0pmhqSYYr8nA=;8flc3SH3ExnHz8bmw6TaxA=="
+secured: "HpbbBskaAaEjQisI/oi1oN8LXUkTRQHJ/N23P41MUSJ6mNzgTjr4ZT9xPnyox/gj+CG++cbA07QQOhBz86H92SpM6DIuEuxaeFOGK5Z1KWWKiv5v4Q+5uFbOURf3uMTndc7iSWZLLKm2ivpAbuuORoo+IMlmXnb7X8+cIJ8XXn8bBlqT4Jp0TrJ7P55es/+ZjgKrrq3StDqwMyp4s/mH76othl03/nKXDPD0VpMrDZUF6NTQa7++R5KFnku5Bdnug95Bv/ld85G6DfVDqnuFNkKW9pKA8TGrzcZxLY4awAc4YOp3XbG25X2Mctmt9Bhnq4ZRpbs8A9ikUqUOVMI+6Z8KoJr9jZHf8CQ4QRXqAvDIvk48uTp0jTN0JrCAvh5Rik6CNJJ5p9lnUMYQlznOY4pX5cTfdUUpE+arObME9GXg00wV/2rn8nH9ddRgrYTqmRbvrUycGTQ/l5AQ79Jf6w4sWjBfavzPWw2Jm19tswdjGGiwJgMMpvbqVutuMYWWM4EdTSNqSQut7UWGLTnetXX4qGYDKQwBAbsZPymf42o=;xuw24GACQag4+AiDn8lBsg=="
 ---
 
