@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capab
 ampWebUrl: "https://www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
 type: article
-quality: 100
+quality: 83
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - Google AI
   - AI
 
 images:
@@ -79,6 +78,22 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "This is how Google Maps uses DeepMind AI to predict your arrival time; read here"
+    excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
+    publishedDateTime: 2020-09-04T05:52:00Z
+    webUrl: "https://www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
+    ampWebUrl: "https://www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 69
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2019/12/Maps.jpg"
+        width: 467
+        height: 313
+        isCached: true
   - title: "Google Maps ETAs prioritizing recent traffic patterns as DeepMind AI improves predictions"
     excerpt: "Many habits have changed in response to COVID-19 lockdowns and that is reflected in large services. Google Maps has \"significantly\" improved ETAs"
     publishedDateTime: 2020-09-03T15:22:00Z
@@ -109,6 +124,20 @@ related:
         width: 867
         height: 486
         isCached: true
+  - title: "Google Maps uses DeepMind AI to predict your arrival time"
+    excerpt: "Google Maps is using AI machine learning models to predict whether the traffic along your route is heavy or light, an estimated travel time, and an estimated time of arrival (ETA)."
+    publishedDateTime: 2020-09-04T06:08:00Z
+    webUrl: "https://www.iol.co.za/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 54
+    images:
+      - url: "https://image-prod.iol.co.za/resize/3500x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/8de64d17-a6dd-516d-9248-68eb739d76c2&operation=CROP&offset=0x315&resize=3500x1969&webp=false"
+        width: 651
+        height: 366
+        isCached: true
   - title: "Google Maps using DeepMind AI to predict your arrival time"
     excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
     publishedDateTime: 2020-09-04T04:57:00Z
@@ -135,6 +164,6 @@ related:
         height: 601
         isCached: true
 
-secured: "w0mSjO5Qg6/yWSHdaLnUHug4cOpo320/Dmwq7AZua8O/bkXLOyfZAsmzPZOvy3SeT/Kr6d1JGt9ZByttxyBEZcgmXJxN08aEheNsgrTUgJaQVkjcFOcMT5u16PfdqdrOYenktsjq/0evy8URzzPnr1UgiUzyq+CziFQxQnMLwEl8+itGoImkDV0tgNqSHE6t3BHr+IVExmxjdgkFL5Bgqtni4B2vvBQJfCqmackCXoxiOnV8FrGvhMX54Af/JB/2PcpWCuoRC0GrEwSj0vpnxENm0UxQSfhHeQjqViPM+yUAhgxs3A5gqCYmjUA/Du7Zf21Oay8xqzZ0AWdxK8/QmHCVxxhCVOH4AVRueOPjWjWlNy0KLed9DmhBYPCGFa6zOqflauQEAauqpqCgYFjYI7W/Ft2tc9xicy+rSC770bCsU/ZiL1SrmizfDg2e7XT6HaNhM5PDxaMFx0m3IBUllI4O+mpOk1wfKs3g8g4TtLQ97kSSID4AK1LY85hPcL5QHneO+Na9RzfTcsb3nnEFlwHC41Fv3xF9IeX+JPFCBn8=;R0NTFYRwT5Ikq7JUzHzzBg=="
+secured: "OrcByCKsANu0brOxXbdeSQC8ZfRfqmVuY+dpchU903CosU3QHt+tTzvSu3o1OVmGZXfAAOx3rc7FhjsSfkFx9eYei0wQ1SBI1mSQhjT+D+UA/w+A8G6eURCLo5/eIyMxzqEA63ruEOT8bZgcNzF0dwHFxS1jWoivHDjTwfn9JvOro6W+jH+OT3P+R/ofZak+MHAOZEbPh1zpuu5h8MhAYhol4jEV5z9hjQM/ssjtWCIqbRdIF3ZYhyK6xO0zcI6iZSKFDIEU4oB48TJqIvcY3w/cYm3XG90yMjMB88tIkChLrpilGrjhbLrJeFdiSxEWCwrnkyUWmjbSeXt9hcTJeBGwUz53Jt/jshSS10DlXsE=;yu27XJcbU5FEqvmdoSJ5cw=="
 ---
 

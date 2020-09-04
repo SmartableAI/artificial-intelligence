@@ -83,6 +83,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "MediaTek unveils new chip for 5G smartphones"
+    excerpt: "Taiwanese fabless semiconductor company MediaTek on Friday announced a new 5G smartphone chip called the Dimensity 1000C in the US. According to the company, the Dimensity 1000C will power LG's newest device,"
+    publishedDateTime: 2020-09-04T07:04:00Z
+    webUrl: "https://www.dailypioneer.com/2020/technology/mediatek-unveils-new-chip-for-5g-smartphones.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/mediatek-unveils-new-chip-for-5g-smartphones-2020-09-04.jpg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "MediaTek unveils chip for premium 4G gaming smartphones"
     excerpt: "The chip offers an AI Super Resolution' display for superior video calling and video streaming on various platforms like Netflix, Hotstar and Amazon Prime. It can support video qualities ranging ..."
     publishedDateTime: 2020-09-01T10:58:00Z

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Daimler Trucks Tests Self-Driving Vehicles in US Southwest"
+title: "Daimler Trucks tests self-driving vehicles in US Southwest"
 excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-publishedDateTime: 2020-09-04T00:02:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2601382/"
-webUrl: "https://www.nbcnewyork.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2601382/"
-ampWebUrl: "https://www.nbcnewyork.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2601382/?amp"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2601382/?amp"
+publishedDateTime: 2020-09-04T06:06:00Z
+originalUrl: "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
+webUrl: "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
+ampWebUrl: "https://www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
+cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.nbcnewyork.com/2020/09/GettyImages-891080592.jpg?crop=0px%2C627px%2C7058px%2C3970px&resize=1200%2C675"
-    width: 1200
-    height: 675
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     isCached: true
 
 related:
@@ -122,6 +122,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "zCeGwZ+4lETyUUqLpcQ/oEmo3icf1t2RYLYwfJgSlT4cHN1Pr/VcY1PO/85DbswXlIpUNEyabOEERl3PnJW5rrcTrWkjkStxSbD3evcVDtJaX/RMAUQ2wjgBfRtZJV/CYXpibDFL8mZR6orFdrh79kfzdY6+qkK9WmlNJ3XCNeoGh6F2Ls1np+sFv2QwAVUfmts8INztnoxPJZ4flzRuKcpSs8F3d/y+ktj7YB3Ho8HVLNg8VUUlqjpxyDhfXkW+rAeJf+k9NxKdUGk4uMlDFHTvo12a2IGbmIJA1EgLPcC8nTsScsNRsPVK5EWILL4VSrvHZ6e6TjU9UTFS+riiV6vkoVEgRnCsG7gSdm9v89/C7+EJ52DONPtGANXlQjY3WybrMgi1vAO48D9mPIqYQle0mSW4noVU958jbAVEYOmk7b5GWAf7cBGRWSnVRfvM4uPHy191b0pu/8soMcwYmG+wFAa2meyPiILY0HpHrYK9NdR2Cm1PNV6Ye7w2r7Ha3HvHXAmqzO0UDE7XLhYv4dlTftae8Wqyp50U0iQXFNo=;/NS90XGlAYO8r/p+GfOEUw=="
+secured: "pP0xTMN28CCs/DMds1JK+DYeBFcKdDkUPf5e6dApkuEBhDG6t2DKQc5gabVNRyWzlFB0mMBu4YkccOllQjfbWiHRaKKGTCiJYYPfar9xtb96vduxChrxKaMh9rcibfUHKZpiG7zn5A6lApP8Pbd6dZLwoWlRKJpwR+3cSvKVBxwZATEhkZ9BnPkvZY0HwZdrKlQHkptxdWeXJO0+igVdJAQMBJRbqcPa+dROirqHIE/ZYlIxe6KqLSZ5wObZqFdn0iJqKH8WIgYNw7whZ85iU5+atT7mIESeUCUQHtRDRxilpVVPsD5uS/3BukCf27GEOd6TTcat7CKnYnFafmaqSYVZj/7uaw3NOM5KCNZc4k4=;6Hxp5h8GsPU1Gp5tk6cKTg=="
 ---
 

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.bloomberg.com/news/articles/2020-09-04/ai-start-ups-are-tackling-one-of-mining-s-oldest-problems</loc>
+    <lastmod>2020-09-03T22:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/</loc>
     <lastmod>2020-09-03T21:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -625,6 +631,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences</loc>
+    <lastmod>2020-08-31T15:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://mobile.twitter.com/bradporter_?lang=en</loc>
     <lastmod>2020-08-31T13:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1165,6 +1177,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27</loc>
+    <lastmod>2020-08-27T07:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.axios.com/navy-google-machine-learning-63432fa7-e4c0-4ddf-8244-d6cea7adb20b.html</loc>
     <lastmod>2020-08-27T07:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1173,12 +1191,6 @@
   <url>
     <loc>https://stockhouse.com/news/press-releases/2020/08/27/fox-robotics-raises-9m-for-self-driving-forklifts</loc>
     <lastmod>2020-08-27T07:28:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.usnews.com/news/technology/articles/2020-08-27/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up</loc>
-    <lastmod>2020-08-27T07:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1501,8 +1513,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
-    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely</loc>
+    <lastmod>2020-08-25T17:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

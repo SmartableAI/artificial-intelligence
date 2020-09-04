@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-31"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
+    excerpt: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation Demand Growth Trend Opportunity and Forecast to 2026"
+    publishedDateTime: 2020-09-04T06:29:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266296215/global-artificial-intelligence-in-the-medical-imaging-market-2020-segmentation-demand-growth-trend-opportunity-and-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 7
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1599177222136.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "uN3FL4gI6/lzULN6UwFBBvmgh3BCkKTmcDAPAEcqHUhp+LIfWx73LUVXkVNg6wBnYio7Zk0LUH8GxSa0lm/2dynIx399rcCNOtctumhhbIiSxwhJdjxTh9DER9qBBvIrXci6UeYk1DLbJzGdsDRvuMCVndHG7R7xAsMoZtHrb6I7yJQgo11yi2LzmfojKannFJyDx4KqNCWb3VyIHYLDVZbIgyXzSY2rPUk1YrxVSUl7TVbPHv01qJ+OSiWU6ENvr4LggN74BO7y+1u4CPJMbmqzjvkk9PYlwYxgqyPDmS8yQluXTr1ZTrtykPE8Cz2Ov3fEnnZS8w8XbS1URO/xIW/t5/pNoG5+/j9E/Qug8Vo=;t2ZUtSxteRJW2fWTr17QNA=="

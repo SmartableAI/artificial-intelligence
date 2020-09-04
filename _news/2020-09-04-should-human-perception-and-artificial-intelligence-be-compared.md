@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-04T05:09:00Z
 originalUrl: "https://www.analyticsinsight.net/human-perception-artificial-intelligence-compared/"
 webUrl: "https://www.analyticsinsight.net/human-perception-artificial-intelligence-compared/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Artificial-Intelligence-2.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "ce5oWDpYf4oSwoZ1bkbrX5H2sPPiuzD5BIIRSJNOAyDUGCa0+4fKsqhdMfzhgaaQDkWypeMaepVjVUsskGFQhGy/As3jQSw5K2SYwp+4ihcO2seHFPmNGY71/wRXjLQtRijByteHqfsrlOC6BfEU63DV2fOIk3hWQs1swLhMzVa5f5dE0Ue1dy2Ej4+tJ3tNztJ5XdFJBBRcpvHmZbUv2kVxwG2E7RDmYamii9TVZnhLOZMm905orEmyxuF420N7bZ+e6wdCa2uPhGWQMLkU6Xl4/jGJBuqZhFYxKOY3P+p87pNg//oye6/XWWvlhqRMEPnmjFrtLQZOIFzmE0tJoUc6QiaerwiJdDkPe1e/A+Q=;FrsYTq4SArDv5mvytv+How=="
+secured: "uJF5cYLChotBXKJPcsC9iJvBx7RD6HfMCMNVJnogiqXBN9l8Xznfog1pJCQTdn3q6H01U8Z84CPU2qfqnOiEOsjDFijYr+z38hx57IKAppKoK8itKB/Ze2qaLxUwByrfQWoHXK1beDWpd76RJXwWyiGvayWD06ehLJRyuxfS1irnVPeFK96EG7fpRzMzMDbafz+yNlD+hH3c/lBM0hYblFt2wg6URUz4peKK6wvoJEk3FtRSFGLM0mmy0DvG4lkrsXNd3BrS44yOQ7owqE5oO3t0pHr+Ba84F+SmWINhAkXyDhqjBLzNXE8gPlt1pNcpvKjZJbMsZNXPH6KfmbgRtirD4Q3gfkWDvaLQmolhka0BIGHwTXmdzaujqmti3Jxhw+c7bKLsqrHm453Wz+hZzkB55GZ4mD/pNaAWrg2pSlVp07IvGrLT0YAcHEToWkQsZsavlDbfPvEiUlHlS6wVQPt8ra/2KoQTfz009zzpTef1EpbNKnOPD+EzjWoNj13vjXwLMyvdz4JgbasmFSE/ruFyjrf2vIuYucRYhNupVD8=;NX6MR7qonj6j6OSF/V3BAw=="
 ---
 

@@ -79,21 +79,21 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Daimler Trucks Tests Self-Driving Vehicles in US Southwest"
+  - title: "Daimler Trucks tests self-driving vehicles in US Southwest"
     excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-    publishedDateTime: 2020-09-04T00:02:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2601382/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2601382/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2601382/?amp"
+    publishedDateTime: 2020-09-04T06:06:00Z
+    webUrl: "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
+    ampWebUrl: "https://www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
+    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: SFGate
+      domain: sfgate.com
     quality: 59
     images:
-      - url: "https://media.nbcnewyork.com/2020/09/GettyImages-891080592.jpg?crop=0px%2C627px%2C7058px%2C3970px&resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "New Federal Govt Tool Helps Track Self-Driving Vehicle Testing Efforts Across US"
     excerpt: "The National Highway Traffic Safety Administration (NHTSA) on Wednesday released an online tool to let improve the availability of public information surround the testing of"
@@ -126,6 +126,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "P7sCkqdo7ZkPVxiFgx1pBTSvUgDo1U0XKLKBNMnj+Oo5xfCXTvDr+zzsdUIDiskuYrxT0/F5iYGW4WYGmseZIXRtDPvFiYC4oIZuKhGUCsDxi64KNBKon4O3ffqtzmlcapPHCf+77irghE7A0uUYcqWLso0QfEjH0COOr2HGy6rLK+qMWQC7nM+hedeUzcC4ghBWhTPpU2cq5ThcXmwH4Z3HdA5w/1mIA0kArMTwMo+YbvyJ3hIMbpdd3jZ0RM+1k4ePzeaXWkqpFA61mjibk0YsqtISVmQB66elel+X7e161aAWkCGK6Nzl12jWRF48LGnUqZ3KJGiKnSOdDjU894ej8IXT7YCsrwS8a5vUrUI=;55hvC9ZaUFjbbJeQqmEU5Q=="
+secured: "O0icCXOsfHDKHS7mi1mGp8WvOFGdTL/JgmGHrpU/2aSAVWh2WKYlQojzjLLu1MGGrJ5dFhgUvvsQr1nblZDTzrIrX0bPZJhp4XiTnKsu1fI+zqsyLMca1bhhgdz1CG1yloBmQaIc3FJeaeoZkBfAjCoZ74FF9aAan4tkSmgJsH/RBh7STjBr8hp6duYxZ2lXo+BwnbZkrdxy1vERl5+U3RWWpSUBUZ70+Nr0CiygbFM7/UlAHWRINb43kdB7e2zFGVSm7WwRxR2ZubuETAzg5qyZ4x7KJqBQt8VFbPUb6tD/NTNZCwbapjO/kldMKNgzzY61xlk5JAJPH9Zn4t2SRlE50ZTAZn04n7+gRbZWDMjFXORlMJ329kIAI18uuRwGACaWDbDW5rM8t0dJGk66OpygC+SXM9lyh/eBGxYdVspWb7Nt9bty3dQ3JnPZO9t2weA9Oz4+wG3bvj4so3ke66pektrJAT1QpbRpicxCj9LdL631YVNegC9W2YBFDhpVXy/dqgs+EQ9wVVa1hbdBuMlhmafzxTQHBiYM2GkZTqI=;H6Se8xwVdd82Xz+rMw2iQQ=="
 ---
 
