@@ -73,17 +73,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Daimler Trucks Tests Self-Driving Vehicles in US Southwest"
-    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics are expanding their testing of self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-    publishedDateTime: 2020-09-03T19:14:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest"
-    ampWebUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
   - title: "Daimler Trucks tests self-driving vehicles in New Mexico"
     excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics are expanding their testing of self-driving trucks to public roads in New Mexico along major long-haul freight routes."
     publishedDateTime: 2020-09-03T21:29:00Z
@@ -99,6 +88,22 @@ related:
       - url: "https://www.kob.com/KOB_800x450.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Daimler Trucks Tests Self-Driving Vehicles in US Southwest"
+    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
+    publishedDateTime: 2020-09-04T00:02:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2601382/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2601382/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2601382/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 59
+    images:
+      - url: "https://media.nbcnewyork.com/2020/09/GettyImages-891080592.jpg?crop=0px%2C627px%2C7058px%2C3970px&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "New Federal Govt Tool Helps Track Self-Driving Vehicle Testing Efforts Across US"
     excerpt: "The National Highway Traffic Safety Administration (NHTSA) on Wednesday released an online tool to let improve the availability of public information surround the testing of"

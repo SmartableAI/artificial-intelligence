@@ -3,10 +3,10 @@ category: news
 title: "The twisted case of facial recognition"
 excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
 publishedDateTime: 2020-09-04T04:04:00Z
-originalUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
-webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: kmworld.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
@@ -44,9 +45,9 @@ related:
   - title: "Faulty Facial Recognition Led to His Arrest—Now He’s Suing"
     excerpt: "Michael Oliver is the second Black man found to be wrongfully arrested by Detroit police because of the technology—and his lawyers suspect there are many more."
     publishedDateTime: 2020-09-04T14:08:00Z
-    webUrl: "https://www.vice.com/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-    ampWebUrl: "https://www.vice.com/amp/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    webUrl: "https://www.vice.com/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
     type: article
     provider:
       name: VICE
@@ -121,6 +122,22 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "Black Detroit man wrongfully arrested after facial recognition search"
+    excerpt: "A Black man from Detroit is suing the city after he was falsely arrested because of a facial recognition match, according to a new report."
+    publishedDateTime: 2020-09-04T17:50:00Z
+    webUrl: "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/"
+    ampWebUrl: "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/09/Detroit-Facial-Recognition-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "The TSA Is Testing Self Service Facial Recognition Technology in Pilot Program"
     excerpt: "The Transportation Security Administration (TSA) has begun testing a self-service facial recognition system in Washington, D.C., to verify traveler IDs and flight information."
     publishedDateTime: 2020-09-03T21:57:00Z
@@ -193,14 +210,14 @@ related:
   - title: "TSA is testing facial recognition at security checkpoints"
     excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
     publishedDateTime: 2020-09-04T14:34:00Z
-    webUrl: "https://www.wcax.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
+    webUrl: "https://www.cbs7.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
     type: article
     provider:
-      name: WCAX3
-      domain: wcax.com
+      name: CBS 7
+      domain: cbs7.com
     quality: 39
     images:
-      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
+      - url: "https://gray-kosa-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
         width: 980
         height: 551
         isCached: true
@@ -306,6 +323,6 @@ related:
         height: 270
         isCached: true
 
-secured: "ZtAhJCoCP4nD73KGlArFwZ3K1m4AByODudQJIEMxB7Ud5qLLFRcJ6S50KF+yLBqVtR+dYXPR31i/DSnZzdXgl87m5KrU3coHrCAxWMPcYBXc3tNzx5YFbLjlk8GuJVtKju1uLO+S//xtCPYpDqfjnPq9lMqYDAPKSSB3ZC7IeaBJKG97a5J3HkzBpOP5mKslPyc6X/0fLfxgUCqnuG5myWZpYFlnRQo2qSebDjOQ+jubAMEy1nAn4Y+eyG8vef6zYbMKpc65rwyI13nKOdx2lIkX0MZtFqDaaIDyFMKTeZn7XrJrQU6pGpc/TnXEAyEMfAsnJL2a1JcVebhKyWa69tyeuxqzTKQEPPkq+O2Gf7w=;KjFhRsyDzctLBR9Hz02Kqw=="
+secured: "8sweczuzwmufCullGh71JZpWVNaLz3/XyGTXdxhhDeTeJHgXrs0ulY3r2ckTuQQplM82RRyeqdn/Y3Zzo1qe8zVJactuO20/qmGcvHIoJQXiXqmXpVaop4H3b6Ltjd3csOAZzV5l0izSc8hv8Arb042qyBLUPq8sxJguH/4cqWGTjSLd/OjnoUn9WfAIhPJxFcIOf9fh9U/rdU/N9FtuUG8PFddwT4iuh/H6uTeqyQFFUeQZD1g41Rt+9iYFPPabYa5D5EsTt3yyg8Ol0f09wR23LCqMuwfICTuryh/1GSuOCMzoRkyg3z3KP6jLy1KQzsQlEM+7S4rySWtD6oYPL0kTbOEPqIXhQMsfc7b26OI=;lxg8/hYXUi5Mp8ZtZxve6w=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "Faulty Facial Recognition Led to His Arrest—Now He’s Suing"
 excerpt: "Michael Oliver is the second Black man found to be wrongfully arrested by Detroit police because of the technology—and his lawyers suspect there are many more."
 publishedDateTime: 2020-09-04T14:08:00Z
-originalUrl: "https://www.vice.com/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-webUrl: "https://www.vice.com/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-ampWebUrl: "https://www.vice.com/amp/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+originalUrl: "https://www.vice.com/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+webUrl: "https://www.vice.com/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+ampWebUrl: "https://www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
 type: article
 quality: 89
 heat: -1
@@ -111,6 +111,22 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "Black Detroit man wrongfully arrested after facial recognition search"
+    excerpt: "A Black man from Detroit is suing the city after he was falsely arrested because of a facial recognition match, according to a new report."
+    publishedDateTime: 2020-09-04T17:50:00Z
+    webUrl: "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/"
+    ampWebUrl: "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/09/Detroit-Facial-Recognition-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "The TSA Is Testing Self Service Facial Recognition Technology in Pilot Program"
     excerpt: "The Transportation Security Administration (TSA) has begun testing a self-service facial recognition system in Washington, D.C., to verify traveler IDs and flight information."
     publishedDateTime: 2020-09-03T21:57:00Z
@@ -140,6 +156,20 @@ related:
       - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2020/3F27E375703F21D215C414440800BA8A_800x392.20200904T120738.jpg"
         width: 800
         height: 392
+        isCached: true
+  - title: "The twisted case of facial recognition"
+    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
+    publishedDateTime: 2020-09-04T04:04:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 41
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Concerns about facial recognition system being set up by police"
     excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
@@ -180,31 +210,17 @@ related:
         width: 800
         height: 392
         isCached: true
-  - title: "The twisted case of facial recognition"
-    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
-    publishedDateTime: 2020-09-04T04:04:00Z
-    webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 39
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "TSA is testing facial recognition at security checkpoints"
     excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
     publishedDateTime: 2020-09-04T14:34:00Z
-    webUrl: "https://www.wcax.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
+    webUrl: "https://www.cbs7.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
     type: article
     provider:
-      name: WCAX3
-      domain: wcax.com
+      name: CBS 7
+      domain: cbs7.com
     quality: 39
     images:
-      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
+      - url: "https://gray-kosa-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
         width: 980
         height: 551
         isCached: true
@@ -310,6 +326,6 @@ related:
         height: 270
         isCached: true
 
-secured: "KDcBWqgfJYTFCSsVVU2o9+l0G6JrDyOyIySEJ7cUNx5OIGfn94c9ERxofvuxrjBnronAEFPM2bczbnlnGPTD+1Xavxng4Y+As9TinXrwhbjTkRuC6BqrdM4BVDbQjbrOCVo6zXdJ+xeFsSoaeogVx/kOWNOjX12B/eC7MU9Om/1AKVUQk441MWWROVyrhbbPXvEaZz8JqdOfic+lDY45ZGtQufo+0jSIk49oQu16EmAR1xqmmTFUub7+yyEBNFRPeJAXUhgT2JRUEgMMqQP4FJRyxqNOE1XLdzcWCvc9rrTQOB8ZcJxyqcLfZkQyC6AycVfcjxBdY9YZLHwyPWTT9k6rgdh8/d9fXDz6C9qlUVM=;c/tXsDSFAKydxlq/cSe18A=="
+secured: "6UmSdoEUPPHKNjL5RpRfSTKUCQZzB8uVg6eBdb0T3QtrXTA/fGo71gcC/nKzraNa0t6ctxvo1cC9X1ov+7TT+qd/FdEVAdNvz4n/O1gZTKpk10TiHRR2AR6wdHTHC9WuncaabhNMxcOxvGh4D/Dxw8nT0+7mneYye9ml2OgTcU9dN/vhGKxkb/1V/RpqVBsj7bcOOCBw/r5MBa8R/CDHIkb+dQHnZxgn6WOD7D6vwvyG/ZOO85NMryYLtmyAH3FZ0gwiaqOTP16f4JwGmU30HX46POw5h+FKLOuRcgyhA2hOLL3EMzQzH2ebVZOL6uVxXMmj6QlfbCLQ1kto44mEEbu5MhTjchSGJVfHQALS52o=;X1iLLyIMR0oR7rClTHgUdQ=="
 ---
 

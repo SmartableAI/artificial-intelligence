@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/business/india-business/ai-related-jobs-o
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/ai-related-jobs-openings-and-searches-have-gone-up-report/amp_articleshow/77935453.cms"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Indiatimes
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "106% spike in AI-related job searches in 12 months: Report"
+    excerpt: "The search for jobs related to Artificial Intelligence (AI) has risen a massive 106 per cent in 12 months (June 2019-June 2020) and saw 20 per cent increase in the last 6 months alone as the Covid-19 pandemic settled in,"
+    publishedDateTime: 2020-09-04T16:14:00Z
+    webUrl: "https://www.dailypioneer.com/2020/technology/106--spike-in-ai-related-job-searches-in-12-months--report.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/106--spike-in-ai-related-job-searches-in-12-months--report-2020-09-04.jpg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "106% spike in AI-related job searches in 12 months: Report"
     excerpt: "Job openings for AI-related jobs have seen a 28 per cent increase from August 2019 to August 2020, while regular job searches have seen a 91 per cent spike. \"Even as businesses work towards regaining momentum in the global economy,"
     publishedDateTime: 2020-09-04T17:00:00Z

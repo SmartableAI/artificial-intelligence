@@ -45,9 +45,9 @@ related:
   - title: "Faulty Facial Recognition Led to His Arrest—Now He’s Suing"
     excerpt: "Michael Oliver is the second Black man found to be wrongfully arrested by Detroit police because of the technology—and his lawyers suspect there are many more."
     publishedDateTime: 2020-09-04T14:08:00Z
-    webUrl: "https://www.vice.com/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-    ampWebUrl: "https://www.vice.com/amp/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    webUrl: "https://www.vice.com/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
     type: article
     provider:
       name: VICE
@@ -122,6 +122,22 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "Black Detroit man wrongfully arrested after facial recognition search"
+    excerpt: "A Black man from Detroit is suing the city after he was falsely arrested because of a facial recognition match, according to a new report."
+    publishedDateTime: 2020-09-04T17:50:00Z
+    webUrl: "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/"
+    ampWebUrl: "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/09/Detroit-Facial-Recognition-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "The TSA Is Testing Self Service Facial Recognition Technology in Pilot Program"
     excerpt: "The Transportation Security Administration (TSA) has begun testing a self-service facial recognition system in Washington, D.C., to verify traveler IDs and flight information."
     publishedDateTime: 2020-09-03T21:57:00Z
@@ -151,6 +167,20 @@ related:
       - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2020/3F27E375703F21D215C414440800BA8A_800x392.20200904T120738.jpg"
         width: 800
         height: 392
+        isCached: true
+  - title: "The twisted case of facial recognition"
+    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
+    publishedDateTime: 2020-09-04T04:04:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 41
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Concerns about facial recognition system being set up by police"
     excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
@@ -191,31 +221,17 @@ related:
         width: 800
         height: 392
         isCached: true
-  - title: "The twisted case of facial recognition"
-    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
-    publishedDateTime: 2020-09-04T04:04:00Z
-    webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 39
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "TSA is testing facial recognition at security checkpoints"
     excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
     publishedDateTime: 2020-09-04T14:34:00Z
-    webUrl: "https://www.wcax.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
+    webUrl: "https://www.cbs7.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
     type: article
     provider:
-      name: WCAX3
-      domain: wcax.com
+      name: CBS 7
+      domain: cbs7.com
     quality: 39
     images:
-      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
+      - url: "https://gray-kosa-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
         width: 980
         height: 551
         isCached: true

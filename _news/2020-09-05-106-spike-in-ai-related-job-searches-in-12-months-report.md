@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "106% spike in AI-related job searches in 12 months: Report"
+    excerpt: "The search for jobs related to Artificial Intelligence (AI) has risen a massive 106 per cent in 12 months (June 2019-June 2020) and saw 20 per cent increase in the last 6 months alone as the Covid-19 pandemic settled in,"
+    publishedDateTime: 2020-09-04T16:14:00Z
+    webUrl: "https://www.dailypioneer.com/2020/technology/106--spike-in-ai-related-job-searches-in-12-months--report.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/106--spike-in-ai-related-job-searches-in-12-months--report-2020-09-04.jpg"
+        width: 1000
+        height: 800
+        isCached: true
 
 secured: "z03c2/ntVFbO26hA6Z3LTeXwRDredIkWLPbClm4GYDnYKA+xR4lckrHlU2p3JOQShnFimk+a1RJ3EIW64B2P266Apd4TdqY7QYEw6qW08jCnhjlbydULzchyzgxTIxRffL/xg4pWvY5SpOV0rE5lOFtx58xBTC1jyMulA77AQTTaFnckcUuwzsEXOiMXflLwVZg8SgtBLOOnonJ5FqQfvMAFIS/2Ob5RMMDr7MdZh2tMFZnKcQRLMFl5JxR6QKaehK2y4G/LXcWYNz+jbBCh3Xiq3T8XH2aJ+/jwIfL9Ld+Dk/mUylUe8UaycdZJcnfbhqCsakrBLjnDpv/mVXlFFotrFmwq8Z4zAjn2SpCQRcU=;knBZ05L83ybPIZHH3ROmDA=="
 ---

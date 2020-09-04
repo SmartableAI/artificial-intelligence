@@ -41,6 +41,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Google Cloud's AI is being used by the US government to improve the accuracy of cancer diagnoses"
+    excerpt: "The US Department of Defense is using Google Cloud's AI tools to research if they can enhance the accuracy of cancer diagnoses."
+    publishedDateTime: 2020-09-03T13:22:00Z
+    webUrl: "https://www.businessinsider.com/google-cloud-nabs-government-deal-for-cancer-research-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://i.insider.com/5ee917341918243f207cec86?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microscopes Powered by Google’s AI Could Change Cancer Diagnostics"
     excerpt: "New augmented-reality microscopes, powered by AI, will change how doctors detect cancer, and finally begin to fulfill the promise of applying artificial intelligence to medical imagery. The Defense Innovation Unit recently awarded a contract to Google Cloud to deliver the AI models to power a pilot program called Predictive Health,"
     publishedDateTime: 2020-09-01T17:44:00Z
