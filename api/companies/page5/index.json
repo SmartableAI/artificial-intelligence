@@ -4,6 +4,54 @@
   "page": 5,
   "value": [
     {
+      "path": "_companies/ekar.ae.md",
+      "title": "Ekar",
+      "excerpt": "ekar is a market defining start up company in the UAE. Through the use of a smartphone app and installed technology in rental cars, users are able to seamlessly search, book and unlock our cars safely and securely for personal driving use.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/ekar.ae/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/ekar.ae/",
+      "type": "profile",
+      "name": "Ekar",
+      "overview": "ekar is a market defining start up company in the UAE. Through the use of a smartphone app and installed technology in rental cars, users are able to seamlessly search, book and unlock our cars safely and securely for personal driving use.",
+      "website": "https://ekar.ae/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/ekar/",
+        "followers": 6324
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/ekar"
+      },
+      "twitter": {
+        "username": "MyEKar",
+        "url": "https://twitter.com/MyEKar",
+        "followers": 707
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Dubai, Dubai"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 58,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1147039057060515840/rYnzOJXT_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Ekar",
+          "isCached": true
+        }
+      ]
+    },
+    {
       "path": "_companies/flatiron.md",
       "title": "Flatiron Health",
       "excerpt": "Flatiron Health’s mission is to improve lives by learning from the experience of every cancer patient. Please visit our website for our open positions.",
@@ -23,7 +71,7 @@
       "twitter": {
         "username": "flatironhealth",
         "url": "https://twitter.com/flatironhealth",
-        "followers": 9844
+        "followers": 9841
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -139,7 +187,7 @@
       "twitter": {
         "username": "insitro",
         "url": "https://twitter.com/insitro",
-        "followers": 1832
+        "followers": 1833
       },
       "size": "11-50 employees",
       "yearFounded": 2018,
@@ -397,7 +445,7 @@
       "twitter": {
         "username": "lexmachina",
         "url": "https://twitter.com/lexmachina",
-        "followers": 5360
+        "followers": 5359
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -624,7 +672,7 @@
       "twitter": {
         "username": "Mediktor",
         "url": "https://twitter.com/Mediktor",
-        "followers": 2548
+        "followers": 2549
       },
       "size": "11-50 employees",
       "yearFounded": 2011,
@@ -741,7 +789,7 @@
       "twitter": {
         "username": "noodleai",
         "url": "https://twitter.com/noodleai",
-        "followers": 1401
+        "followers": 1400
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -794,7 +842,7 @@
       "twitter": {
         "username": "oaknorth",
         "url": "https://twitter.com/oaknorth",
-        "followers": 849
+        "followers": 850
       },
       "size": "501-1,000 employees",
       "yearFounded": 2015,
@@ -1047,7 +1095,7 @@
       "twitter": {
         "username": "SignalHQ",
         "url": "https://twitter.com/SignalHQ",
-        "followers": 2413
+        "followers": 2415
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -1098,7 +1146,7 @@
       "twitter": {
         "username": "signifyd",
         "url": "https://twitter.com/signifyd",
-        "followers": 1578
+        "followers": 1579
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -1155,7 +1203,7 @@
       "twitter": {
         "username": "socureme",
         "url": "https://twitter.com/socureme",
-        "followers": 6938
+        "followers": 6939
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -1420,7 +1468,7 @@
       "twitter": {
         "username": "zymergen",
         "url": "https://twitter.com/zymergen",
-        "followers": 3707
+        "followers": 3708
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -1547,59 +1595,6 @@
           "height": 400,
           "title": "Agolo",
           "isCached": true
-        }
-      ]
-    },
-    {
-      "path": "_companies/aicure.md",
-      "title": "AiCure",
-      "excerpt": "AiCure is an AI and advanced data analytics company targeting the healthcare industry. Our proprietary intelligent software captures and understands video, audio, and behavioral data to establish the link between patients, disease and treatment.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aicure/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aicure/",
-      "type": "profile",
-      "name": "AiCure",
-      "overview": "AiCure is an AI and advanced data analytics company targeting the healthcare industry. Our proprietary intelligent software captures and understands video, audio, and behavioral data to establish the link between patients, disease and treatment.",
-      "website": "https://aicure.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/aicure",
-        "followers": 3195
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/ai-cure"
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2009,
-      "locations": [
-        "New York, NY",
-        "New York, NY"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=xBpvK_VxiXM"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/943513551695728640/wB-95_tX_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "AiCure",
-          "isCached": false
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG1Uptq0TE__Q/company-logo_200_200/0?e=1594857600&v=beta&t=sumAmqV0-7zYBu108UOZcon224TCMDXXgvGBoHkDCZ8",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ]
     }

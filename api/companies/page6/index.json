@@ -4,6 +4,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_companies/aicure.md",
+      "title": "AiCure",
+      "excerpt": "AiCure is an AI and advanced data analytics company targeting the healthcare industry. Our proprietary intelligent software captures and understands video, audio, and behavioral data to establish the link between patients, disease and treatment.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aicure/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aicure/",
+      "type": "profile",
+      "name": "AiCure",
+      "overview": "AiCure is an AI and advanced data analytics company targeting the healthcare industry. Our proprietary intelligent software captures and understands video, audio, and behavioral data to establish the link between patients, disease and treatment.",
+      "website": "https://aicure.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/aicure",
+        "followers": 3195
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/ai-cure"
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2009,
+      "locations": [
+        "New York, NY",
+        "New York, NY"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=xBpvK_VxiXM"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/943513551695728640/wB-95_tX_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "AiCure",
+          "isCached": false
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG1Uptq0TE__Q/company-logo_200_200/0?e=1594857600&v=beta&t=sumAmqV0-7zYBu108UOZcon224TCMDXXgvGBoHkDCZ8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ]
+    },
+    {
       "path": "_companies/airbud.io.md",
       "title": "Airbud Technologies",
       "excerpt": "Airbud is a voice platform that allows enterprises to easily add voice capabilities to their websites and mobile apps. We use natural language understanding to let people have two-way conversations that simplify their access to information. Starting with healthcare, we enable organizations to customize navigation and better engage their customers.",
@@ -269,7 +322,7 @@
       "twitter": {
         "username": "arterysinc",
         "url": "https://twitter.com/arterysinc",
-        "followers": 1697
+        "followers": 1698
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1431,7 +1484,7 @@
       "twitter": {
         "username": "CyberMDX",
         "url": "https://twitter.com/CyberMDX",
-        "followers": 1160
+        "followers": 1159
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1455,57 +1508,6 @@
           "height": 400,
           "title": "CyberMDX",
           "isCached": true
-        }
-      ]
-    },
-    {
-      "path": "_companies/darktrace.md",
-      "title": "Darktrace",
-      "excerpt": "Darktrace is the world’s leading cyber AI company and the creator of Autonomous Response technology.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/darktrace/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/darktrace/",
-      "type": "profile",
-      "name": "Darktrace",
-      "overview": "Darktrace is the world’s leading cyber AI company and the creator of Autonomous Response technology.",
-      "website": "https://www.darktrace.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/darktrace/",
-        "followers": 51311
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/darktrace"
-      },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "tags": [
-        "Europe",
-        "Security"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/816359823901982720/L0dyQMfw_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Darktrace",
-          "isCached": false
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE1rfUvIardTQ/company-logo_200_200/0?e=1594857600&v=beta&t=hdSY1YhxwYq0T7fPKgwiF7_cTUx-_uSUoXL4g7FHKos",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ]
     }
