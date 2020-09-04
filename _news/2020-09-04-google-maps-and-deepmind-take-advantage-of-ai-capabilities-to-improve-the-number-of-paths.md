@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Google Maps and DeepMind enhance AI capabilities to improve route calculations"
+    excerpt: "It has been nearly 13 years since Google Maps started providing traffic data to help people navigate their way around, alongside providing detail about whether the traffic along the route is heavy or light,"
+    publishedDateTime: 2020-09-04T01:08:00Z
+    webUrl: "https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 100
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/a8609e80-d074-42bc-a7e7-1886fa83729e/google-maps-eta.jpg"
+        width: 1055
+        height: 554
+        isCached: true
   - title: "Google Maps partners with DeepMind to better predict the future of traffic"
     excerpt: "So far, machine learning has improved the accuracy of real-time ETAs by up to 50% in cities around the world, the companies said."
     publishedDateTime: 2020-09-04T16:22:00Z
@@ -88,22 +104,6 @@ related:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/05/20/0fcebbe7-67f1-4908-8260-32f1fef1e499/thumbnail/1200x675/33623cba36b7bd46e414c3e09f8616ce/beeah-cr-mir.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google Maps and DeepMind enhance AI capabilities to improve route calculations"
-    excerpt: "It has been nearly 13 years since Google Maps started providing traffic data to help people navigate their way around, alongside providing detail about whether the traffic along the route is heavy or light,"
-    publishedDateTime: 2020-09-04T01:08:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/a8609e80-d074-42bc-a7e7-1886fa83729e/google-maps-eta.jpg"
-        width: 1055
-        height: 554
         isCached: true
   - title: "Google Maps uses DeepMind AI to predict your arrival time"
     excerpt: "Google Maps is using AI machine learning models to predict whether the traffic along your route is heavy or light, an estimated travel time, and an estimated time of arrival (ETA)."

@@ -1,46 +1,23 @@
 ---
 category: news
 title: "PowerVision's PowerEgg X Brings Artificial Intelligence (AI) to Video Conferences"
-excerpt: "PowerVision Robot Corporation, a global leader in smart drones, artificial intelligence, virtual reality, and augmented reality, has added"
-publishedDateTime: 2020-09-01T19:12:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/powervisions-poweregg-x-brings-artificial-intelligence-ai-to-video-conferences-301122296.html"
-webUrl: "https://www.prnewswire.com/news-releases/powervisions-poweregg-x-brings-artificial-intelligence-ai-to-video-conferences-301122296.html"
+excerpt: "PowerVision Robot Corporation, a global leader in smart drones, artificial intelligence, virtual reality, and augmented reality, has added an Artificial Intelligence (AI)"
+publishedDateTime: 2020-09-01T20:38:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/powervisions-poweregg-x-brings-artificial-intelligence-ai-to-video-conferences/article_aec2200b-408a-5005-87d1-9e965814f244.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/powervisions-poweregg-x-brings-artificial-intelligence-ai-to-video-conferences/article_aec2200b-408a-5005-87d1-9e965814f244.html"
 type: article
-quality: 47
-heat: -1
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
+  - AI in Robotics
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1247161/PowerVision_Robot_Corporation.jpg?p=facebook"
-    width: 2438
-    height: 1277
-    isCached: true
-
-related:
-  - title: "Nvidia Broadcast brings RTX-powered AI to livestreaming video"
-    excerpt: "Nvidia Broadcast is a new tool that brings together all of the companys RTX AI features for creating video and audio content."
-    publishedDateTime: 2020-09-01T16:56:00Z
-    webUrl: "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/"
-    ampWebUrl: "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/Nvidia-RTX-Broadcast-e1598971502693.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 516
-        isCached: true
-
-secured: "2Msng7Cf+cLsbmBZSQRD8TEkA7Xeu5x1B3mKe20qRiyloWWf2lZP1b7AQZO+EjN+46epGOf83OyuKCNJgPuj35PyAi09/+z78xYRcD5pMgx9g6EFGJHfwhCr6Mxi2SmA5ajNFKPvZnPMDFRAOonz/DS1lYloXFA+4AKkn9IV9pDr0QqPi5MWlq41akOOlgIyvj1ql08Cpyu/RvcyEQByxWRwti2jHCXKqiUJik+r0jbp+v6UeSIr+gKijSkmvtmPcyGPgj7eb6nuvQsNsjBYj2NNIZG9GGcW84UXiTAnETF9mnaJwQNDzK0p62mi22rxehABlBvU5rT1A7gSApjmuzz8hWn9kj0PL7U6HQkMYcjo0Oiwk6XDqaWIfz422D0I/e6lpApZTNPvEntDsVs+Idl9S0U2vbLvbketBJ4iMh1obDOBWCSbthPqk/wIiWVHJTO6S66HoZ/ls3f3i/wKaYrxjO9bgxUkB8UnOvWD6+mT0Nhcjd/Tt6+nrznBff+HbB/ttNtiBtZiYd4asKKVgf57cC1M0lAeZXOShvCcsL4=;2I8MtKxwQqVHVnFBsykm2Q=="
+secured: "drUU1HSM4gYa1BbYTfJ2kAUvO2eNCWDFbEyc/nhWCk9vNT3rALpExp5ta5GBuWvTwwsgfffgev5YHZ6ZRW6g2Qwj0xkrVYcntJwgZ79S8oIOnDyVR2nqmxqWznCrrdkLlN+yvMGIs0Cehrz8JnM82RlDtJBbgDz9o4bznbZRW0bpQlJ1+vv/IOWwznYUj1nTSuWe4yVz/CpP3m4/N/bPYzNm4mj//hmV9JlsF8g8xVdiS91Ujo2qTGuaEIKtHlRVP9aKnydIFdru2Pq7xX8cxixI3KzLPP0DiqKmIqJwT0YQNM7ABJAhepVkicRVRXI/wXFuBG+u2hG+OQMsP5+cDLU4whUGhp3VPn/Ij5Q/KbVVv9eJQs387M+resbRcNlqC805F15lLo5nBfYEy4OFPBM/ZgmpCjpB/K6pquPCjg9tMpMYZ94Jlx2gsccdZQd7TEbwQL7ScstedFhpfbFD4FgdVz/IZ3lflrdc7rXuCE59F+bFFdr4DSGU7BcggjJzk3wLmcK00s+DTtmLHrl4FQ==;B0Qme9O3/kLNjGbr7Kk9sw=="
 ---
 

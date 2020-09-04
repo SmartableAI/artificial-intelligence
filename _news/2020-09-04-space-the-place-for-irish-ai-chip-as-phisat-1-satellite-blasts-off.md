@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Irish start-up’s AI tech heads for space on ESA Earth observation satellite"
+    excerpt: "As efforts continue to launch the first Irish satellite into space, Ubotica has brought its technology into orbit aboard a next-gen ESA satellite."
+    publishedDateTime: 2020-09-04T09:43:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/ubotica-cvai-esa-earth-observation-satellite"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 35
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/09/Vega.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "rOJ2ySvz/oJjki50GCpmrHYtSKLHaY0aKj4BHf8WNGOPZNsIZjtZn/7Laaf85ocsgRW57+iQU/ZwdAOtgbkcGj/bs1rIHk+8pQaKw51BcKy5VZ0WByKTPkk4/7D7sACXgLuLcEw13yOi2lp7KcNHo69RsyAlvV1kOatWLboZJXXXaYNoGp2HzzN+i8+XtvYa5CvtNFocUkwJS/LCvauuyvTqa6T+vnz0xAYc77noJVcaNOQpzpF17kuekxF1nC8ietcY9s/rNgNQdVrVGRBiiGGJ5I76NcBeeYYmVcZDNN+qmKk8o9XTNIHQKwUmmdFYkOOtHbbtcf4ZVVrqu5yGOskl+Z10PswQNTMEytJPZfbyHZ0JCoL23BnfIwEWFcxynLlyEM4mHyIR+n1LyrvVpfeD5EnRBd2o5Ym7ocKbGs86EvLHqJuuCwOiDMhgvczNcqKK7bnP3I9mWEOqftsWaKcj9nXvU7JY5YDkpirJyzF8bC5S4woy9832k3T4TV9xQxwxdeGCBTQXxXioqyo4KOp2vXccHAd7oXaO6nbzwnE=;7/JCf8HXs64/9KZqTEHVUg=="
 ---

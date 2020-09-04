@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Outlook on the AI Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
+    excerpt: "The \"Global Artificial Intelligence (AI) Chips Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence (AI) chips market is poised to grow by $ 54.03 billion during 2020-2024 progressing at a CAGR of 42% during the forecast period."
+    publishedDateTime: 2020-09-04T12:54:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200904005314/en/Outlook-AI-Global-Market-2024---Key"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 24
+    images:
+      - url: "https://mms.businesswire.com/media/20200904005314/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Opportunity Outlook: European AI in Social Media Market 2020-2025 - Natural Language Processing (NLP) Expected to Dominate - ResearchAndMarkets.com"
     excerpt: "The European AI In Social Media Market is expected to grow at a formidable rate during the forecast period. The European AI In Social Media Market is driven by the utilization of the AI technology for effective advertising campaigns on different social media platforms."
     publishedDateTime: 2020-09-02T11:29:00Z

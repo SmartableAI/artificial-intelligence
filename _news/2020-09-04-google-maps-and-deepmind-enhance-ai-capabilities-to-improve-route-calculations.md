@@ -3,12 +3,12 @@ category: news
 title: "Google Maps and DeepMind enhance AI capabilities to improve route calculations"
 excerpt: "It has been nearly 13 years since Google Maps started providing traffic data to help people navigate their way around, alongside providing detail about whether the traffic along the route is heavy or light,"
 publishedDateTime: 2020-09-04T01:08:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
+originalUrl: "https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
+webUrl: "https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
 type: article
-quality: 83
+quality: 100
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Google AI
   - AI
 
 images:
@@ -203,6 +204,6 @@ related:
         height: 601
         isCached: true
 
-secured: "3KnSJ3q4vdo4bLFQuKI+a7hIZOLQIerxQBDnciIyrdh6H/wC6lZWC2A7GeQISgTGtNfBEuOs3v1GR2FVijKmoZ2Y/sPljfRVMG+4BtWfoTHZLYNBQ8EZOnS2nIDlWklDIHmLmraplg3bJANrBXwHiatfok5ieGF7sMK94t1v77/y/cVR7oFl1iORR/tNmarT2rFABjfIS9Ib/806moUKCdD/LrA9kzOBaYovlEHL8IZrsS183t316jsMBxF4q2A/tAUMAibSKW5JR3sbt3hWQ2uAMKcVZLBIznT/rFnZM3XY5B3ZDRGtgMlwhG6ceTTTXQs77aUA27VvG4FWYsnzvid9rYslSEkGXbLRK8DWIRU=;nDCwf5X/eOsvOyndn/m0pQ=="
+secured: "80RXpn5/eLTacM2Bne18kGAqKdSEfNVa0r0tFIJG8usmILOAqYMoh2R7hxYabaMRI6v1mB/F3yOfImWx5KUL5VLWts/GZLWe7htNknD2pjVkyyoKQJlPm9xeD38dQgNNIATbMeYHnIgqbZ9eFvJtFh1zCZkB2dWaWuR7R3eamGECwTGsspJxIQ/2Jf6dwPinfjzN7+gbHTbGuvKQ367PjL2PVNfi5WyBkpyc4uaUOsUa/bALeOiySpMHOALUJlsjfJRcYJ/21biOsx6tZT4j2ODYcWSaZNakYjFrJrPyBrYHbRvLLQIRbaLka1jOdUdfDXsf3e65Ua1ndSPMkl7lw4xD12nGDI3s9gz1YKvGNc4=;W1kfFykeDAo+XW2EYbfFFw=="
 ---
 

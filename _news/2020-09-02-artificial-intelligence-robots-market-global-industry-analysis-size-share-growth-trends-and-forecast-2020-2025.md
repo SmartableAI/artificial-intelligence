@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-01T17:40:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2025-2020-09-01"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2025-2020-09-01"
 type: article
-quality: 45
+quality: 62
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -38,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Robots Market Outlook, Size, Share and Growth and Forecast Assumptions Through 2023 | Impact of COVID-19 Pandemic"
+    excerpt: "Global AI Robots Market Research Report - by Offering (Software, Hardware), by Type (Service Robots, Industrial Robots),"
+    publishedDateTime: 2020-09-03T11:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-size-share-and-growth-and-forecast-assumptions-through-2023-impact-of-covid-19-pandemic-2020-09-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

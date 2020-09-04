@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Outlook on the AI Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
+    excerpt: "The \"Global Artificial Intelligence (AI) Chips Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence (AI) chips market is poised to grow by $ 54.03 billion during 2020-2024 progressing at a CAGR of 42% during the forecast period."
+    publishedDateTime: 2020-09-04T12:54:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200904005314/en/Outlook-AI-Global-Market-2024---Key"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 24
+    images:
+      - url: "https://mms.businesswire.com/media/20200904005314/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Worldwide Social Robots Industry to 2025 - Featuring Intuition Robotics, Haapie SAS & Reach Robotics Among Others - ResearchAndMarkets.com"
     excerpt: "The “Social Robots Market - Growth. Trends and Forecasts (2020-2025)” report has been added to ResearchAndMarkets.com’s offering. The Social Robots market is estimated to grow at a CAGR of about 14% over the forecast period 2020 to 2025."
     publishedDateTime: 2020-09-03T13:35:00Z

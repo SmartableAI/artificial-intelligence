@@ -97,20 +97,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Japan looks to artificial intelligence as coronavirus challenges go-and-see quality control mantra"
-    excerpt: "At a factory south of Japan's Toyota City, robots have started sharing the work of quality-control inspectors, as the coronavirus pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionise mass production in the 20th century."
-    publishedDateTime: 2020-08-31T03:50:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/japan-looks-to-artificial-intelligence-as-coronavirus-challenges-go-and-see-quality"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 25
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/08/31/rk_toyota_310820.jpg?itok=hid0zvIK"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Japan looks to AI as virus challenges go-and-see quality control mantra"
     excerpt: "That has spurred the increased use of robots and other technology for quality control, including remote monitoring which was already being adopted before the pandemic. In Japan, such approaches represent an acute departure from the “genchi genbutsu”,"
     publishedDateTime: 2020-08-31T05:27:00Z

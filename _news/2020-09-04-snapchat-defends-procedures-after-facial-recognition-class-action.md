@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "U.S. Needs to Tighten Oversight of How Airlines Use Facial Recognition Data: New Government Report"
+    excerpt: "Facial recognition is popular, but a report published by the U.S. Government Accountability Office has found that U.S. Customs stumbled with the tech."
+    publishedDateTime: 2020-09-04T19:00:00Z
+    webUrl: "https://skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/"
+    ampWebUrl: "https://skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 60
+    images:
+      - url: "https://skift.com/wp-content/uploads/2019/10/facial-recognition-delta.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Facial recognition for cows"
     excerpt: "Cows in some districts of Punjab are currently part of an intriguing project that involves machine learning telling one cow apart from the other. Every cow and buffalo are distinguishable as"
     publishedDateTime: 2020-09-01T14:58:00Z
@@ -84,6 +100,20 @@ related:
       - url: "https://security-img.scdn6.secure.raxcdn.com/products/400/proface-x-td-400.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Biometric facial recognition audit shows CBP has some privacy and notification work to do"
+    excerpt: "A government performance audit looking into the use of facial biometrics by the U.S. Customs and Border Protection agency found that is not fully safeguarding the privacy of travelers. Although"
+    publishedDateTime: 2020-09-04T21:34:00Z
+    webUrl: "https://www.biometricupdate.com/202009/biometric-facial-recognition-audit-shows-cbp-has-some-privacy-and-notification-work-to-do"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
         isCached: true
 
 secured: "RgB3leKKOY532rEE4gr5zouY5V2m94DpNOfqswU+qfuyVHBTtqaSd49nN9VF1Wbd5JU2FAGlHebyLwQh+QZdQSWgqpnBaZDyse3JJ440VK6SNJUCoySmstMZgmBbGhJhyy9d39X/yniBs1VbHoSSCAENcKahgsSwskYWyIqB6Iyvtp3DqkvTzzGatbQVER3WgkBhAX0EklT0Ws/KYRfI1C/Udo88ZWoSeMUMtVwyumdxBgWNX08ONK5K+6RmfW/v61NM0WSv/R95mo/tP580GXJ7DACAxD4F2qmsxSU3gzcGHOeqCd0jp3dgHZNZEThMAHv1xaBYFQKxe3C8tgSfNHJwNNgM3KPjEaZrg5fPocqgnZa9uiNeaojDQJzXOFbOgkXMBPi7BvxGJbYNYYrMbYVMsjqYQxfNBeytj7vQ5A+jAF+VpqvEP49Jj0XRtC0PU144S+M+lv5m0QOfprtoX0mgkpKhbYmZLFw2FsCEp0zbYrrIldAUPvxBMI3TKHqHNODJyJnfVQLeDpgtrKdDrw==;+HjldUDX51o5kU5LMqw5ng=="

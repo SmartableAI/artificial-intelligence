@@ -3,13 +3,13 @@ category: news
 title: "The fourth generation of AI is here, and it’s called ‘Artificial Intuition’"
 excerpt: "Artificial Intelligence (AI) is one of the most powerful technologies ever developed, but it’s not nearly as new as you might think. In fact, it’s undergone several evolutions since its inception in the 1950s."
 publishedDateTime: 2020-09-03T17:12:00Z
-originalUrl: "https://thenextweb.com/podium/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/"
-webUrl: "https://thenextweb.com/podium/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/"
-ampWebUrl: "https://thenextweb.com/podium/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/amp/"
+originalUrl: "https://thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/"
+webUrl: "https://thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/"
+ampWebUrl: "https://thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/amp/"
 type: article
-quality: 85
-heat: 85
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -29,6 +30,6 @@ images:
     height: 398
     isCached: true
 
-secured: "vZhgMksvwicwPUB4ZjfVGrVgi3om6ep4IievjpHKGOoxXT+KODbcTo8bQLVHj+urCYwkQSJ3rs8T4kHLb0U9HTw1svk/3uMJfu2uApsaVO+WfF6awpErPjVZEvPlO23VNzobz4D6Mektv6hpoTb/EXBo+Xpk9ygHpLisR2AOsux8KK2E6xEfN5b4PFyp6mqnDlRD2AjM0k1Mh4CNgVaeb43PShDRSx5Zfe7ITUaZQrwVEfeg8u/pBmNTT7updNtRNw9rVz9gmV0FbuzpKeF9aRF78FVU++JNudyXbGXxXjod6ijCqBsllY006j/h+eQdUMEEGqd+9Mn7DFcmrfzeal3Q825Dsb5IeNprKF4fSBk=;5uLEq1XWHoIVqj7ayq0/MA=="
+secured: "NnmrHrtYFHSbQjrr0R6jgWHZgDOvWuEprYKALmkl0lAAt64o4v/5Cyvc/Mm2nb7FTboxmhAbuZ7fvCRVHXq5dP48tKIMl7q488iItJEun/7pJMCegDJ3uGB1OHTVlWuFkBYbKIUWhQVJQvtdzwY/Lo60FhErclEHzjSKGnXDoozQDwiw4hJU7kXuC9eT5H/d1XYmRPZV7z5/W1nI+QKOslbWus64mETEacGyKN04ZF0W7m0LthHtVuG0SXvrsTKwkkWy/DRW+UenfDjPhcBY9FVVwK63SWQQZx3/hWZVwdtreO62DXaIo5wSZWFkcpRGXrwvjuVsB1dgveC+Xiemp1hsRIydIpsiECYPgjT1a7w=;D87kiwfyKuEx/8kl9WyP/g=="
 ---
 

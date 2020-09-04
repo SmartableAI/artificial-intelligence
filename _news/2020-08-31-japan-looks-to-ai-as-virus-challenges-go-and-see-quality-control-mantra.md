@@ -106,20 +106,6 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 34
-  - title: "Japan looks to artificial intelligence as coronavirus challenges go-and-see quality control mantra"
-    excerpt: "At a factory south of Japan's Toyota City, robots have started sharing the work of quality-control inspectors, as the coronavirus pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionise mass production in the 20th century."
-    publishedDateTime: 2020-08-31T03:50:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/japan-looks-to-artificial-intelligence-as-coronavirus-challenges-go-and-see-quality"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 25
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/08/31/rk_toyota_310820.jpg?itok=hid0zvIK"
-        width: 763
-        height: 509
-        isCached: true
 
 secured: "yI1a+MAmOiyXcICpeybAQMAURsjCGYpbFFeei8MW6Svy7Ucqwls4R9OR3LD0dzF1RMMEil5U2wBULGrfxwz7Sgoa9961dwy6sIoEhNHVa1Do0pIlaz6cBKABzTees2gZlTvKA3/Egk0RCtZ+bMSk4VD2AZHh2KcHI2QJ0vA1evEQvf4XgQ0BHhtkkgIJDmf8di8mrelMCGpN4gdC6qILpaNW5R8FDGqAWquxhtP479vkl5sndmE1ZZWL4gJAnol6VYHwGEUQ5jJx3eviMHCGeZGXaBw5JpAL6R/J6BCvUcpMJ6yOD+wYSIWw0E3jZZn67+pZ2nJSsKeqqWyM+tJO5P7KhrhJlQI7ytMRwUUoGOlw90sOa4kk/qCF2lFx4DGAhzDahgKX5LQIYleI8OejxnupSWv5W2Ci0Gj5h4rceATzYd+7OXgyfme0e461KVV0Zm8aDcd4eiMYZ+L5LKSkzeNi6kASTmdZra8FdzdFvjFuNc53tuHCumVQVjc+JkoiKhQrfOMp9hhSejcxY/fXVar80R25jHwFb49qmfXvwks=;QzG7LHjAITaI/eYCnDmYyQ=="
 ---

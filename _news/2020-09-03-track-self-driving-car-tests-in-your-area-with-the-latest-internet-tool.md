@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-tests-location
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-tests-locations-tracking-tool/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://media.nbcnewyork.com/2020/09/GettyImages-891080592.jpg?crop=0px%2C627px%2C7058px%2C3970px&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Daimler Trucks tests self-driving vehicles in US Southwest"
+    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
+    publishedDateTime: 2020-09-04T20:10:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 59
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "New Federal Govt Tool Helps Track Self-Driving Vehicle Testing Efforts Across US"
     excerpt: "The National Highway Traffic Safety Administration (NHTSA) on Wednesday released an online tool to let improve the availability of public information surround the testing of"

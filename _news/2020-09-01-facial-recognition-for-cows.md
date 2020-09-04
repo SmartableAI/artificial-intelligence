@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "U.S. Needs to Tighten Oversight of How Airlines Use Facial Recognition Data: New Government Report"
+    excerpt: "Facial recognition is popular, but a report published by the U.S. Government Accountability Office has found that U.S. Customs stumbled with the tech."
+    publishedDateTime: 2020-09-04T19:00:00Z
+    webUrl: "https://skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/"
+    ampWebUrl: "https://skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 60
+    images:
+      - url: "https://skift.com/wp-content/uploads/2019/10/facial-recognition-delta.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Guangzhou Airport Rolls Out 'One ID' Facial Recognition Tech"
     excerpt: "Guangzhou Baiyun International Airport has announced that facial recognition ID is operational on domestic routes."
     publishedDateTime: 2020-09-03T06:07:00Z
@@ -84,6 +100,20 @@ related:
       - url: "https://security-img.scdn6.secure.raxcdn.com/products/400/proface-x-td-400.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Biometric facial recognition audit shows CBP has some privacy and notification work to do"
+    excerpt: "A government performance audit looking into the use of facial biometrics by the U.S. Customs and Border Protection agency found that is not fully safeguarding the privacy of travelers. Although"
+    publishedDateTime: 2020-09-04T21:34:00Z
+    webUrl: "https://www.biometricupdate.com/202009/biometric-facial-recognition-audit-shows-cbp-has-some-privacy-and-notification-work-to-do"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
         isCached: true
 
 secured: "D2f1/QfVpsV0hxWkrSXkGyFw6XD+fugFJcF2ud3ih7PyDOez1xVMt/8W0NB3XLdpIKvmhautr1kwxgpFYCEOwxdJjNEoAHtfAfnkm83+jQ9bHwKvrI/f4mSVlwtL2D2RUC3leB8x/oU6j3NkXTfIHnbFo18TjkIa0fWWG14k3LLB05G2YLx5UKZltGvWv+Y7ulkS6dMtpq7THSm4C7U5EhqgDAT0Yi+LtuiYd3kC3gnVkIfXo5w/Om9r9PXi+qggidsGuBVcsCshTNvzOcd0uRzfr70LBQghRxJaaghdE1YZs9+FA8xw6rQmegvtrvvtwUhMISNhZSdZylyZtCnHxdatm9HSDoUfUKGUFzteTVFB6WBlf8crKnQbStThG0p1Dy10UqOs885/lrclaZYoDQY0GGrY9ZmswdyDZuIWv45OJS2zlBAohg35nMSSFInfD0LYWY9GQaDIE6HMzSRywvH+YL7ulTMB3gSzNNH6Fyq0s9mhDPlPhKICWd9r8HvNPoXJvWgS0wtk06iYarkbihNpKXLetXbjACCM0v6/R6s=;EHHQPSSOLTjfeV/sC2jHnQ=="
