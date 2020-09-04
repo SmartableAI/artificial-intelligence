@@ -1,10 +1,10 @@
 ---
 category: news
-title: "dunnhumby Speeds Time to Insight for Data Scientists with New Tool on Microsoft Azure"
+title: "dunnhumby Speeds Time-to-Insight for Data Scientists with New Tool on Microsoft Azure"
 excerpt: "Microsoft Azure, enabling data scientists to deliver customer insights faster. dunnhumby Model Lab is designed to solve complex retail challenges, such as understanding customer churn and predicting propensity to purchase and in what channel,"
-publishedDateTime: 2020-09-02T14:11:00Z
-originalUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool--on-Microsoft-Azure-142651.aspx"
-webUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool--on-Microsoft-Azure-142651.aspx"
+publishedDateTime: 2020-09-02T15:43:00Z
+originalUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool-on-Microsoft-Azure-142651.aspx"
+webUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool-on-Microsoft-Azure-142651.aspx"
 type: article
 quality: 47
 heat: -1
@@ -46,6 +46,6 @@ related:
       domain: mrweb.com
     quality: 19
 
-secured: "tO3geikWbRa3MWVIqu80nYvgmaOHXpI0wmDc6tDsto4d0o0IUZ5IjIjdps6YdayqQGzJPYLPbcqLY/lYeZgjXwZzvGcB+EFpiVuiYGXYxv2MMISXlKpGjcKweTF4BBvX6LXrkeKIruULUmdY1kPs4QfPGNGEqZ4MkDb09zdNxqiqHgceu9UiRHinVzffv4eRFY3Z2WwcFjN0I+4B8RuODWhsTIGuIFP0BsGN76YM/1MsM7RezFUq7rGAYZZwlVFSCFpEon5Sq8DiP/hJ5gR+Z9DuLnnkagMo2njjQLhbErm4UM9LSbM5KkwU0K0DPdevfn20R/5reU/w2zZqVul1W5DT19L8lq5gBA8b7FeCllk=;rl4aURsqhLxWjyt+BK9eBA=="
+secured: "1el3hQK20pMz7OPxQo15s+bFJp6RyfkcK3RQyFWe3nf07HL7GnfPW6I7qGrr1SF+xWJy05A/CnRVMreBz2xLsi81U2vi64oMCdd+sQYTs8nyW1qpkBy+Tb4jOrTWAIV8bSgUH8R+kFEeYk3lcnlKnlunEY8PDUFLd8c86PYqMuAPEaBJysB+bUJ+zR9UcC/GJT5JqWoNGzdlqTCXwRZ3eEflN25XuB/vW264vXEOIMoPSPxIKqNPPoqRniaC7qkZ515VzSccH1Oj2dc6XOajISxN8bKYEp6DSljXFdDOvrAnk0NMuDkY6JYBOFTX0weJIWaxoT9OxuA65zAMIO/Su7AHFWvURl1+JGZn3WKzHtg=;av5h0JfTLMi66Z9bRBW8Pw=="
 ---
 

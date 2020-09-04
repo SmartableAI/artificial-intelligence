@@ -3,10 +3,10 @@ category: news
 title: "The twisted case of facial recognition"
 excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
 publishedDateTime: 2020-09-04T04:04:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
+originalUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
+webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
@@ -279,6 +278,6 @@ related:
         height: 270
         isCached: true
 
-secured: "dVFCc1xetbOd2Uu5OSBAHjbIxrFd/kLgDB17mcXn7gxqcNQ0TCf4MUOiOrPsf5r5/swH1kO3R/nNT7t+8J/bzsrgotmuXza7kJdWKrEim5Gx2dfVqP/heJXtEcyCUDI7+BOtIAsPBrOU40bGy94wkK4hOiutND3C4MMPtSTRGEib8WePIs2E5e27z9QywqmbaBVFMd9q/ls195MdyQ9nU2++xuFPvFKsIbdwBnT4Eeta6nvgPtNJULUEAZ9KhLdR0fD65nYhjv99fwaQILREjB6sxnME1WytHzCBngry6KDbehfGNj/9cCVHj1PjblH9PsMrZ7toltAp5DJuJApVW+UMaSiEZx+khgqqNI7Xpz4=;SD3OBeDIeDovkRZmMo1ybA=="
+secured: "TWfobZCMrvs7VT3ujXVN6Lv8U0G5Z1iDqqFeAgccoeda6IgFhQ3SxZhbNVgVFQS807qwLgZfnf2ogvQxAm4llqoo9AgmvhfDHQbHSknF1C2Umu21zRQmIqOR4XZAvBJ+eJ5yIoDS/rJmXb7DCTQZJ1kN/HY0oPu2bampASL0xfweY2Ru+WUHfgWETZwT/6edkV7PAJPOimPl4SzmLPwCTBpm/aH+1hgRCoJQ/6RNES+mRPbockioZKhzcAoiD7VjUeV+idULEZF8sStXEoajcrSnMEQfAqeLzQhJYw4nejnMBX7HLoelzqVUAXGSPKyUJQ/JyFVH95wTx/dgrvIrPSKOFwyYCJEzFf6ere9kNU0=;/r5t6cWhkJDiFUYyhJX+wA=="
 ---
 

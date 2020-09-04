@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-04-yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco.md",
-      "title": "Yandex spins out self-driving car unit from its Uber JV, invests $150M into newco",
-      "excerpt": "Self-driving cars are still many years away from becoming a ubiquitous reality, but today one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do.",
+      "path": "_news/2020-09-04-yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment.md",
+      "title": "Yandex and Uber spin out self-driving venture with $150 million investment",
+      "excerpt": "Yandex and Uber are spinning out their self-driving venture into a separate company with the Russian tech giant investing $150 million.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/",
-      "originalUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/",
+      "webUrl": "https://venturebeat.com/2020/09/04/yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment/",
+      "originalUrl": "https://venturebeat.com/2020/09/04/yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment/",
       "featuredContent": null,
-      "heat": 79,
+      "heat": 102,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/04/yandex.jpg?w=1024",
-          "width": 1024,
-          "height": 546,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Yandex-Self-Driving-026-e1599213974150.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/",
-      "publishedDateTime": "2020-09-04T02:49:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2020/09/04/yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/04/yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment/amp/",
+      "publishedDateTime": "2020-09-04T03:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -52,38 +52,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-04-yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts.md",
-      "title": "Yandex Self Driving Group To Be Directly Owned By Yandex, Uber - Quick Facts",
-      "excerpt": "(RTTNews) - Yandex N.V. (YNDX) and Uber (UBER) have entered into agreements to spin off the self-driving vehicles business, Yandex Self Driving Group B.V., from their joint venture, MLU B.V. Yandex will invest $150 million into Yandex SDG,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04",
-      "originalUrl": "https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04",
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04?amp",
-      "publishedDateTime": "2020-09-04T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-03-what-coronavirus-means-for-the-future-of-self-driving-cars.md",
       "title": "What coronavirus means for the future of self-driving cars",
       "excerpt": "It's 2025 and driverless cars still aren't zooming around everywhere. Where are the chilled out passengers on their phones, or napping, as an invisible \"driver\" navigates a crowded intersection? They're still mostly stuck in the backseat as a human driver shuttles them around.",
@@ -91,7 +59,7 @@
       "webUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
       "originalUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
       "featuredContent": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1337,6 +1305,56 @@
         "name": "Automotive News",
         "domain": "autonews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways-by-2021.md",
+      "title": "UK to consult on tech that could see self-driving vehicles on freeways by 2021",
+      "excerpt": "Self-driving technology could transform the way people undertake car journeys. The U.K. government's announcement was welcomed by a number of organizations. The U.K. government has started a consultation on the use of Automated Lane Keeping System technology on Britain's freeways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html",
+      "originalUrl": "https://www.cnbc.com/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html",
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106670012-1597848598442-gettyimages-1060939028-img_7450.jpeg?v=1597848845",
+          "width": 3648,
+          "height": 2736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html",
+      "publishedDateTime": "2020-08-19T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

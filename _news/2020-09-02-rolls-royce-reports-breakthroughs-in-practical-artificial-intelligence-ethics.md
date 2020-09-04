@@ -35,6 +35,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Rolls-Royce announces AI framework to boost trust in technology"
+    excerpt: "Rolls-Royce announced on Wednesday artificial intelligence (AI) ethics framework to build consumers’ trust in technology. This could help accelerate the next generation of industrialisation, Rolls-Royce said in a statement."
+    publishedDateTime: 2020-09-04T08:44:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/rolls-royce-announces-ai-framework-for-boosting-consumer-trust/article32522078.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/rolls-royce-announces-ai-framework-for-boosting-consumer-trust/article32522078.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/rolls-royce-announces-ai-framework-for-boosting-consumer-trust/article32522078.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/incoming/teieia/article32522105.ece/ALTERNATES/LANDSCAPE_615/Roycejpg"
+        width: 615
+        height: 384
+        isCached: true
 
 secured: "xxvSP7Ct5ujrQTQlpm+haUALtechFx+E4UTNE2m6d3gcRDWWS8mkmS2V6Aroj5YXVX0MIoC+FaY7y8nQmi5hGi2wNO5wnvCg06dbQRKqlBfZGai4tlkchLz6mX/skWrfiG38peXJaI27C0Ik5g9bPjJbm99nWyusl3WEiz7f/arlLly92E3Ec40CmYaC+pAxm54mIE2JPLOb3aN6xh6lzEk4qUdIEsGo0zLikdLOI/MvXGTLpWJAddq3D1vTfYY/2aqCRdMym4h+cs7YhVSqyNw6VWaoSpDQHObgwoBbQbOTbn8HJrYbgTw0njS46De1c6dWIs9pMRee7s7osOjW7WRqfHJT9IaQI/iD2fX2dtc=;UYn7NleGxGb9zjCq6v1FtQ=="
 ---

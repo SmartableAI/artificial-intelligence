@@ -77,20 +77,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "MediaTek unveils new chip for 5G smartphones"
-    excerpt: "Taiwanese fabless semiconductor company MediaTek on Friday announced a new 5G smartphone chip called the Dimensity 1000C in the US. According to the company, the Dimensity 1000C will power LG's newest device,"
-    publishedDateTime: 2020-09-04T07:04:00Z
-    webUrl: "https://www.dailypioneer.com/2020/technology/mediatek-unveils-new-chip-for-5g-smartphones.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/mediatek-unveils-new-chip-for-5g-smartphones-2020-09-04.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "MediaTek Unveils Helio G95, its Newest Chip for Premium 4G Gaming Smartphones"
     excerpt: "MediaTek Unveils Helio G95 for Premium 4G Gaming Smartphones. The new chip will power major smartphone brands that will hit global markets in September."
     publishedDateTime: 2020-09-02T06:22:00Z
@@ -106,6 +92,15 @@ related:
     excerpt: "The chip offers an AI Super Resolution' display for superior video calling and video streaming on various platforms like Netflix, Hotstar and Amazon Prime. It can support video qualities ranging ..."
     publishedDateTime: 2020-09-01T10:58:00Z
     webUrl: "https://news.webindia123.com/news/Articles/Science/20200901/3619261.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
+  - title: "MediaTek unveils new chip for 5G smartphones"
+    excerpt: "\"MediaTek is focused on giving consumers more options and expanding access to 5G devices so that everyone can enjoy the premium features and speeds that are defining the next era of mobile computing,\" Yenchi Lee,"
+    publishedDateTime: 2020-09-04T11:36:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200904/3620808.html"
     type: article
     provider:
       name: Webindia 123

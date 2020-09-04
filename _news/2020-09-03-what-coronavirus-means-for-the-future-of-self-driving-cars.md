@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/autonomous-vehicles-2025.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicles-2025.amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/09/03/845506.jpeg"
         width: 640
         height: 426
+        isCached: true
+  - title: "Yandex, Uber to spin off self-driving unit of JV"
+    excerpt: "Yandex and Uber Technologies Inc. will spin off the self-driving car unit of their joint venture into a separate company, giving Yandex more control over the businesses and paving the way for new investors."
+    publishedDateTime: 2020-09-04T10:14:00Z
+    webUrl: "https://www.autonews.com/mobility-report/yandex-uber-spin-self-driving-unit-jv"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Yandex-MAIN_0.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "KCM4ju52xMIzFWfjth26X01WfySNk7wC4qw15T0F5og2Nrp4ADiB/wDkL6bdlPa8zo9kuA/7uGcYyafxqAupYwWhUD0MLKhtvnFyP60y1jhp/EwLqDbX65gpcPFwqWsq+EiBSCVQdzGftsV3Do/IATrckj0+WlhJr0OUcXG+qoz3wdWz4twkpkOUAwfqhsyxloVWlql6H+ZyuF0BIskPhQS53SsRzgdpDJFTCCGqczqJPofSB3T88TrMhg9jwWMUG7spOXUVvGxEImiuzvGd47GIbxJha6/AplAmEpHae4TCPKXjjv4ZzjUU+Lu9M4lnHdH4NEJZbLfx+LiOnAMCYBp/0KNYje5SF2OPEKwTKqUXrB1RvY/3ryjfrL/iK8KJEi/gTGIMB6NJgrzejlGcZehBo/2g7eBjCvu32QE50FgRq6B08EokPrnD1uZtHc53xA29FMLWHAfzMyCYApWmTsdpMoPkMc1lnXaLsBjB4ERtL9tuBZS8QAB4YtxT67VXEZq4U0DuRiAKVaj6lZbaFALrIAPMZdg7zVerbAv7bGA=;4GQc9xMWmxtfPCGRHN2vqA=="

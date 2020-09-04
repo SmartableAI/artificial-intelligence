@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-04-yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco.md",
-      "title": "Yandex spins out self-driving car unit from its Uber JV, invests $150M into newco",
-      "excerpt": "Self-driving cars are still many years away from becoming a ubiquitous reality, but today one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do.",
+      "path": "_news/2020-09-04-yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment.md",
+      "title": "Yandex and Uber spin out self-driving venture with $150 million investment",
+      "excerpt": "Yandex and Uber are spinning out their self-driving venture into a separate company with the Russian tech giant investing $150 million.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/",
-      "originalUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/",
+      "webUrl": "https://venturebeat.com/2020/09/04/yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment/",
+      "originalUrl": "https://venturebeat.com/2020/09/04/yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment/",
       "featuredContent": null,
-      "heat": 79,
+      "heat": 102,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/04/yandex.jpg?w=1024",
-          "width": 1024,
-          "height": 546,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Yandex-Self-Driving-026-e1599213974150.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/",
-      "publishedDateTime": "2020-09-04T02:49:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2020/09/04/yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/04/yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment/amp/",
+      "publishedDateTime": "2020-09-04T03:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -39,38 +39,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts.md",
-      "title": "Yandex Self Driving Group To Be Directly Owned By Yandex, Uber - Quick Facts",
-      "excerpt": "(RTTNews) - Yandex N.V. (YNDX) and Uber (UBER) have entered into agreements to spin off the self-driving vehicles business, Yandex Self Driving Group B.V., from their joint venture, MLU B.V. Yandex will invest $150 million into Yandex SDG,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04",
-      "originalUrl": "https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04",
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04?amp",
-      "publishedDateTime": "2020-09-04T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -959,7 +927,7 @@
       "webUrl": "https://uk.pcmag.com/healthandfitness/128467/google-is-making-an-augmented-reality-microscope-for-the-dod",
       "originalUrl": "https://uk.pcmag.com/healthandfitness/128467/google-is-making-an-augmented-reality-microscope-for-the-dod",
       "featuredContent": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1134,36 +1102,77 @@
       ]
     },
     {
-      "path": "_news/2020-09-03-two-click-photo-editing-skylum-luminar-teases-ai-photo-app.md",
-      "title": "Two-click photo editing? Skylum Luminar teases A.I. photo app",
-      "excerpt": "Luminar AI mixes several different algorithms to edit a photo with processes called templates. First, the program recognizes the contents of the photo, such as if people are included, or if it’s a landscape shot with a sky.",
+      "path": "_news/2020-09-03-what-coronavirus-means-for-the-future-of-self-driving-cars.md",
+      "title": "What coronavirus means for the future of self-driving cars",
+      "excerpt": "It's 2025 and driverless cars still aren't zooming around everywhere. Where are the chilled out passengers on their phones, or napping, as an invisible \"driver\" navigates a crowded intersection? They're still mostly stuck in the backseat as a human driver shuttles them around.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/",
-      "originalUrl": "https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/",
+      "webUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
+      "originalUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
       "featuredContent": null,
-      "heat": 72,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/luminar_ai_stunning_mountain-1200x630-c-ar1.91.jpg",
+          "url": "https://mondrian.mashable.com/2020%252F09%252F03%252F6f%252Fa6d4e4206f524273a456c835e927fc6a.f164f.jpg%252F1200x630.jpg?signature=Gkxu5UScrquIxeAET3ZxIXak-BE=",
           "width": 1200,
-          "height": 628,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/photography/skylum-luminar-ai-announced/",
-      "publishedDateTime": "2020-09-03T05:10:00-07:00",
+      "ampWebUrl": "https://mashable.com/article/autonomous-vehicles-2025.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicles-2025.amp",
+      "publishedDateTime": "2020-09-03T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-garmin-catalyst-is-an-ai-racing-coach-that-that-literally-shows-you-how-to-be-faster.md",
+      "title": "Garmin Catalyst is an AI racing coach that that literally shows you how to be faster",
+      "excerpt": "Garmin's new performance analyzer coaches drivers to faster lap times by generating a seamless video based on captured race data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/8L8TePMz_n4e-RBSBhQNYCc5Do8=/2020/09/02/af4cb264-c1ef-4bc6-b98b-1ff0bc1bc635/ogi-catalyst-hr-1002-4.jpg",
+          "width": 6290,
+          "height": 3302,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
+      "publishedDateTime": "2020-09-03T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

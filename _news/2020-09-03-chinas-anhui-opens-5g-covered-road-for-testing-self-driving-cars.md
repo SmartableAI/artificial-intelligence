@@ -71,6 +71,20 @@ related:
         width: 1100
         height: 733
         isCached: true
+  - title: "Yandex, Uber to spin off self-driving unit of JV"
+    excerpt: "Yandex and Uber Technologies Inc. will spin off the self-driving car unit of their joint venture into a separate company, giving Yandex more control over the businesses and paving the way for new investors."
+    publishedDateTime: 2020-09-04T10:14:00Z
+    webUrl: "https://www.autonews.com/mobility-report/yandex-uber-spin-self-driving-unit-jv"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Yandex-MAIN_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "KdX3vgGghbWi53s61jAljiJwfQEeYgE3iCkBhMJVAzPRqrUPZH9zSrbkQP3DVhCqw0SxUFj79z63TjZ922XACEcuTGRNKIXek8b8gH+LIhNTtUpFCtu7TebTAiJKoAcfR0HuU0CkJpyzRwI74rEyljYTwNEzze3fk3sGKxjV7ekg8FUohMyfX/Qe7qdoWtCKDPSm2I1VRQqPndRZ1wodXoKBdAgtXQLZreWY8xbiaHcbhezScqCCEPMz3w5FsJHk6WrbFnJaLrPbYSOCwjIeHje+0FGLCQx5gIXS9YbDSpc0sJIqJ7k+sZxVhKrap/PYuMxBKwHY7Wsi1zdRu2IYnyknxyEixFTQP8AV7XAXPhN6fogXFo5hCjWiCsERue/e6EB+NPUyKiVsn8aRI0lpeHhkg/GUmcYOKaQbgHzkMRA4BpWyZ/iGL3kCOj1M/ZVhaWtgBbACt61YJ04w9HwUWO9gLyV/m3DEM4dxk6W2Na6leSPuP2uW5aL4vsIi1aFElPS+KWtEHMbTopnWnAjg6ur4DqDwszh90Mrl8Bexx1Q=;oAo45UOG3gnwSzUIqZyeVw=="
 ---

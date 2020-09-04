@@ -137,20 +137,6 @@ related:
         width: 1800
         height: 938
         isCached: true
-  - title: "The twisted case of facial recognition"
-    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
-    publishedDateTime: 2020-09-04T04:04:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 41
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "City Council To Discuss Facial Recognition Technology"
     excerpt: "Pittsburgh City Council will be holding an open discussion on the usage of facial recognition technology in policing. KDKA's Lindsay Ward has the latest."
     publishedDateTime: 2020-09-02T09:41:00Z
@@ -175,6 +161,20 @@ related:
       - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/32E3CB40D76BD6BD8CBFB16E23FF2264_800x392.20180506T111644.jpg"
         width: 800
         height: 392
+        isCached: true
+  - title: "The twisted case of facial recognition"
+    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
+    publishedDateTime: 2020-09-04T04:04:00Z
+    webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Commission will ‘not exclude’ potential ban on facial recognition technology"
     excerpt: "The European Commission has not ruled out a future ban on the use of facial recognition technology in Europe, as the EU executive mulls the findings of a recent public consultation on Artificial Intelligence."

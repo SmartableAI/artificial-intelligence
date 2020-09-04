@@ -9,7 +9,7 @@ ampWebUrl: "https://uk.pcmag.com/healthandfitness/128467/google-is-making-an-aug
 cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/healthandfitness/128467/google-is-making-an-augmented-reality-microscope-for-the-dod?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://cdn.defenseone.com/media/img/upload/2020/09/01/4240233/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Google Working on Augmented Reality Microscope to Improve Cancer Diagnosis"
+    excerpt: "In most cancer diagnoses, someone will at some point look through a microscope at a biopsy sample to confirm the presence of cancerous cells. Even pathologists who have been doing this for years can get it wrong occasionally."
+    publishedDateTime: 2020-09-04T11:02:00Z
+    webUrl: "https://www.extremetech.com/extreme/314600-google-working-on-augmented-reality-microscope-to-improve-cancer-diagnosis"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 22
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/09/Microscope-Pixabay.jpg"
+        width: 1688
+        height: 948
         isCached: true
 
 secured: "/3f3BKbiE3uc1g+82EOkco2oF/+BCpxMDdebrjIFmupjmbZXu6iRaA78/saz8KFqhz7LjFaHPZyeRbshkhppOnyrG9BdxlfoPeOi1c8W1mIDUi+c61+d0px+Q1WQz9zndqZjTf3BUixAvuofgEil6DtycR1YjFqheuwEdaYqCNr/RgKJMbj7FtRUvifn/19D9+G2CW0A5nY8RusnQAZIDdNJHc6huoWgMrX6cfbjTpY7DhzXq6PKiWl3ahzLeWhKUF8dast7Kj96AIjeihst/Db46D8YxvTOpht9JKZyqT/lmPNqRhPLBUmq78bJTtYZDi6vqHsqBh0WAVVhfuK+8fXOJs05F0UFXjyhGGNMciVa6kbJRtaxY5yfx0Hzt/aOaEJJ8+f3FJ1Cwmmj8Ay5la7RbC33f81fJICVwMFa92/tLH29R+NfhIoJDEUvUUhmcCKa4TpkAj9Hln965RH1DCHeJN5K+HNsWYX5oM9LpI3IaYCYO/Zr08JzlORqxWpX1671cpM35if/fOMm6hfvm5fV/E/LC9gI7oyBgu/Xyq8=;RsMhw/YNcVEIhcJ1BxeQqw=="

@@ -2,105 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-09-02-intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations.md",
-      "title": "Intel CIO Says AI Playing a Growing Role in Chipmaker’s Operations",
-      "excerpt": "Intel Corp. Chief Information Officer Archana Deskus says artificial intelligence has become more critical to the semiconductor maker during the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924",
-      "originalUrl": "https://www.wsj.com/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924",
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-227480/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924",
-      "publishedDateTime": "2020-09-01T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-who-are-the-biggest-attention-hogs-on-cable-news-ask-this-new-ai-tool.md",
-      "title": "Who Are the Biggest Attention Hogs on Cable News? Ask This New AI Tool",
-      "excerpt": "Researchers at the Brown Institute for Media Innovation at Stanford University created a tool that measures 'who is on the news and what they talk about,' and made it publicly searchable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/who-are-the-biggest-attention-hogs-on-cable-news-ask-this-new-ai-tool",
-      "originalUrl": "https://www.pcmag.com/news/who-are-the-biggest-attention-hogs-on-cable-news-ask-this-new-ai-tool",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03Lqt1jGT7PsQBX4nMcb4qK-1.1598991147.fit_lim.size_1200x630.jpg",
-          "width": 1516,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/who-are-the-biggest-attention-hogs-on-cable-news-ask-this-new-ai-tool?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/who-are-the-biggest-attention-hogs-on-cable-news-ask-this-new-ai-tool?amp=true",
-      "publishedDateTime": "2020-09-01T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-01-how-to-run-distributed-training-using-horovod-and-mxnet-on-aws-dl-containers-and-aws-deep-learning-amis.md",
       "title": "How to run distributed training using Horovod and MXNet on AWS DL Containers and AWS  Deep Learning AMIs",
       "excerpt": "Distributed training of large deep learning models has become an indispensable way of model training for computer vision (CV) and natural language processing (NLP) applications. Open source frameworks such as Horovod provide distributed training support to Apache MXNet, PyTorch, and TensorFlow. Converting",
@@ -1209,6 +1110,106 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-a-notorious-gpt-3-generated-blog-shows-ai-still-cant-imitate-human-writing.md",
+      "title": "A notorious GPT-3-generated blog shows AI still can’t imitate human writing",
+      "excerpt": "So you’re interested in AI? Then join our online event, TNW2020, where you’ll hear how artificial intelligence is transforming industries and businesses. Last week, many tech publications broke news about a blog generated by artificial intelligence that fooled thousands of users and landed on top of the Hacker News forum.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/01/a-notorious-gpt-3-generated-blog-shows-ai-still-cant-imitate-human-writing-syndication/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/01/a-notorious-gpt-3-generated-blog-shows-ai-still-cant-imitate-human-writing-syndication/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/image-1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/01/a-notorious-gpt-3-generated-blog-shows-ai-still-cant-imitate-human-writing-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/01/a-notorious-gpt-3-generated-blog-shows-ai-still-cant-imitate-human-writing-syndication/amp/",
+      "publishedDateTime": "2020-09-01T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-read-hillary-rodham-clintons-womens-rights-speech-from-1995.md",
+      "title": "Read Hillary Rodham Clinton’s ‘Women’s Rights’ Speech From 1995",
+      "excerpt": "Former Secretary of State Hillary Rodham Clinton delivered the following address to the United Nations’ Fourth World Conference on Women, in Beijing, 25 years ago. Then the first lady of the United States,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/politics/archive/2020/09/read-hillary-rodham-clintons-womens-rights-speech/615733/",
+      "originalUrl": "https://www.theatlantic.com/politics/archive/2020/09/read-hillary-rodham-clintons-womens-rights-speech/615733/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/wKSdLibw2mjaR0vbanCEiaxUGTM=/0x184:2955x1847/570x321/media/img/mt/2020/08/AP_16267556636381/original.jpg",
+          "width": 570,
+          "height": 321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/615733/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/615733/",
+      "publishedDateTime": "2020-09-01T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

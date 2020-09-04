@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Two-click photo editing? Skylum Luminar teases A.I. photo app"
-excerpt: "Luminar AI mixes several different algorithms to edit a photo with processes called templates. First, the program recognizes the contents of the photo, such as if people are included, or if it’s a landscape shot with a sky."
+excerpt: "Luminar AI, unveiled on September 3, is an artificially intelligent photo editor that uses object detection to automatically determine what’s in the photo and what adjustments to apply. Luminar AI mixes several different algorithms to edit a photo with processes called templates."
 publishedDateTime: 2020-09-03T12:10:00Z
-originalUrl: "https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/"
-webUrl: "https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/"
-ampWebUrl: "https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/"
-cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/photography/skylum-luminar-ai-announced/"
+originalUrl: "https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/?itm_source=2&itm_content=1x0&itm_term=2356592"
+webUrl: "https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/?itm_source=2&itm_content=1x0&itm_term=2356592"
+ampWebUrl: "https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/photography/skylum-luminar-ai-announced/?amp"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 52
+heat: 52
+published: false
 
 provider:
   name: Digital Trends
@@ -23,12 +23,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://icdn4.digitaltrends.com/image/digitaltrends/luminar_ai_stunning_mountain-1200x630-c-ar1.91.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "9EQuTJz7u+m54pI3hDCnKZadhIQslF8IOosECfziqXlH7DCackyQTSrxAa2jRWHoZd5ZEiL355VmvToKTi9AQxESOnL6xL+EdHioaIAFRRX7sMxsWGNoCTxMxBctXVDFyYEVYp37p/JFm/1q6KRncCSxtato7m/pql/Ly9tKILazPaVvHYkPPb6ckKq6O6cDkB/YW7BrhqPwAriP2WM6m47gBfdyMz+88Rl6+wAUUpqZE8Qn8LAOGBrGGUksxnUUvXH301mIPE4s4zNj80mdjobvHiQQOSr1Sej/M9Xd3eGYrSI6fa16CYLiguTcufG7OfegWN+ef030sBd2tBmShrCn0aL56IkiO0+GBSNguB4ABSabGbbqd5fDIDjcbIXo+SJbbXgwNMYL4fA8031HF4njAwQ9Soo1jGUJmiS1D3GDl2gQmuAbsRma8TFF025pmQKpU6EeiRft7ZHlVsUdB5KsvQZ5snOKNANMg1+bggYUQuXbsyuPwih48MA20Y/bL4yna1UTPUR81W9D2B1/vmwAQ4RftNy2grti73+VCiQ=;6B26sy+tEDDY1kisEUiEyw=="
+secured: "XLUwjJbYSzswpUjdtN3HFdiZHSp+PYFQ+15DnZ5TLe3lu0bIwa/lwUhZILJL2FDCypYX9DCxJyDlFxRc0uk99/yTww4YSrkduxD7jXnzSIaXl9KOsA7D1SbcQN+83sOMVwalbArTfn6RzxCqaVraxM7465IHQobzZKU+ZAF/OjpMVn49xwUv+mE5NGTCyEBJlVU/aNJs5YdWq3XQxHLlKUwbIZgsObooIuY7y17UTR2LySfLnZwjzJBkeOVTl2OQxvFNlxw8UW3f97N4eca8JAxiOhWpHI4qfERfPudmXfbj7HPgPoYxJjQ4h5d5MWQ+gGXGrWeg/jojbzD5laisIC81KYikMCu74yJjFfNpQYIspwLWycL1ZcqUgr9ELWAyRAd9f+aBf44Sd2ejhWFrJobeCCEi6DKNwsRjJRINhzzbO4+4cMspLoiUDYF0GyVSoWarCeNE+damuX3BZJhT3XIrjBNa9a5nmqfLYi8k5e7XnlKf14MyD9ylDLhwxb26u34tqaNriY7JbAyCv8gAvdTRDqN6edErkEyCfYVstNE=;DP5zOpW4ebTNkNxi9LitDw=="
 ---
 

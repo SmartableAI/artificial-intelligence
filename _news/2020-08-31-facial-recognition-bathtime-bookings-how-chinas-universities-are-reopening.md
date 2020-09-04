@@ -19,22 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Facial recognition and bathtime bookings: How China's universities are reopening"
-    excerpt: "As COVID-19 cases in China sink to new lows, the world's largest population of university students is heading back to campus in a migration defined by lockdowns, patriotic education and cutting-edge surveillance equipment."
-    publishedDateTime: 2020-08-31T12:35:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN25R0UW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0UW"
+  - title: "Facial Recognition and Bathtime Bookings: How China's Universities Are Reopening"
+    excerpt: "Responding to the criticism last week during a media briefing, officials from China's Ministry of Education said that the measures weren't compulsory for universities, but that st"
+    publishedDateTime: 2020-08-31T07:47:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-08-31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-08-31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-08-31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening?context=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200831&t=2&i=1531624313&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7U0GA"
-        width: 817
-        height: 545
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "China’s universities are reopening with facial recognition, shower bookings"
     excerpt: "BEIJING – As COVID-19 cases in China sink to new lows, the world’s largest population of university students is heading back to campus in a migration defined by lockdowns, patriotic"
     publishedDateTime: 2020-08-31T07:31:00Z

@@ -1,41 +1,29 @@
 ---
 category: news
 title: "Yandex Self Driving Group To Be Directly Owned By Yandex, Uber - Quick Facts"
-excerpt: "(RTTNews) - Yandex N.V. (YNDX) and Uber (UBER) have entered into agreements to spin off the self-driving vehicles business, Yandex Self Driving Group B.V., from their joint venture, MLU B.V. Yandex will invest $150 million into Yandex SDG,"
-publishedDateTime: 2020-09-04T08:57:00Z
-originalUrl: "https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04"
-webUrl: "https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04"
-ampWebUrl: "https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04?amp"
+excerpt: "(RTTNews) - Yandex N.V. (YNDX) and Uber (UBER) have entered into agreements to spin off the self-driving vehicles business, Yandex Self Driving"
+publishedDateTime: 2020-09-04T08:47:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-1029562717"
+webUrl: "https://markets.businessinsider.com/news/stocks/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-1029562717"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Yandex-Self-Driving-Group-To-Be-Directly-Owned-By-Yandex-Uber-Quick-Facts-1029562717"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Yandex-Self-Driving-Group-To-Be-Directly-Owned-By-Yandex-Uber-Quick-Facts-1029562717"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Yandex Restructures Self-Driving Business"
-    excerpt: "Yandex will increase its stake in the new company (Yandex SDG) to 73% and invest an additional $150 million in its future development. MOSCOW and AMSTERDAM, Sept. 04, 2020 (GLOBE"
-    publishedDateTime: 2020-09-04T08:00:00Z
-    webUrl: "https://apnews.com/ba78c51351f156d01b152f506e366b71"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
-secured: "3JOjwwMHUGEqBisWvviJOyfL+F9HYA6X+NtMQPbsRZcWzaOCFG+V6QFH4xE3PUpWhom3sqO0dPuHGKESKklwC9jb6SCMfaQ0GSV56Jc4iqHHfiRC1gZRcHcjTgMmQG+me0OQjXx/REC4g/ADca+Sj7+sS7N9dLQ4JOJhbUHU4CUS44ooGiEzBjwTYiRefgRrdGoAziSXAYu5PeEdoF+XphuU6maFaiqqBWoJzLs5xKs2V3Tu1Np6epCUr6qxw5TzGWPtTBiqnfdE3s+rzPz9j+kMgE6gptQjAqxcu0BWdtXBVr6BoucBtPeCP+HIHSAAgd8uLNDrweLG4zjwIUKOmvz7gB4VpZq0Bj+dDXIBEnw=;Ui8UYowzg2eivX9soYqXLg=="
+secured: "+25jhJmXlLHB1crBOdQTfNu/YaskQLun0nifYdnSVaqoJ8VfrFr3U2HtPGgXFjFdbdpNEAaKRYdi9zEL+z3nD0tUTYNiWVOyaYDvOmB2tIshmcP9O86PjSlhJ56SNDxzbp1CQoL20G7ls2nHRAaMqcf+Jq0g0fLVes8U9Q1bR5oT2U7d9K+Myh5h4mA8ZygOsKm2muPvEzTRaVHHV+uYV/pqOVFuQisl8S6X9dxNytz6KNafYSq/ID4e/DBHgGmrpkj5K4bu5lfKGt9ysoU0MjSiCE0DB+Nxc0Adt57GzbBo82H5GCpZUqLGN8OObMDthCzJOREdoCxhDl3WrcWMnVjDxxJp7IdnbIcGa4QG4Aw=;Kon4zDXz95obIZ5y2Lg82g=="
 ---
 

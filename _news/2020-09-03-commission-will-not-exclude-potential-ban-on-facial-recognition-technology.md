@@ -138,20 +138,6 @@ related:
         width: 1800
         height: 938
         isCached: true
-  - title: "The twisted case of facial recognition"
-    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
-    publishedDateTime: 2020-09-04T04:04:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 41
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Concerns about facial recognition system being set up by police"
     excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
     publishedDateTime: 2020-09-01T00:44:00Z
@@ -190,6 +176,20 @@ related:
       - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/32E3CB40D76BD6BD8CBFB16E23FF2264_800x392.20180506T111644.jpg"
         width: 800
         height: 392
+        isCached: true
+  - title: "The twisted case of facial recognition"
+    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
+    publishedDateTime: 2020-09-04T04:04:00Z
+    webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Taxpayer criticizes Fayette School Board for buying facial recognition cameras"
     excerpt: "A public speaker at the Aug. 24 meeting of the Fayette County Board of Education took issue with the recent decision to purchase thermal imaging/facial recognition cameras to be installed"

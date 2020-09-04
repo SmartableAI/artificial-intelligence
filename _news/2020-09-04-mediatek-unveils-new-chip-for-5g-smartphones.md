@@ -1,28 +1,22 @@
 ---
 category: news
 title: "MediaTek unveils new chip for 5G smartphones"
-excerpt: "Taiwanese fabless semiconductor company MediaTek on Friday announced a new 5G smartphone chip called the Dimensity 1000C in the US. According to the company, the Dimensity 1000C will power LG's newest device,"
-publishedDateTime: 2020-09-04T07:04:00Z
-originalUrl: "https://www.dailypioneer.com/2020/technology/mediatek-unveils-new-chip-for-5g-smartphones.html"
-webUrl: "https://www.dailypioneer.com/2020/technology/mediatek-unveils-new-chip-for-5g-smartphones.html"
+excerpt: "\"MediaTek is focused on giving consumers more options and expanding access to 5G devices so that everyone can enjoy the premium features and speeds that are defining the next era of mobile computing,\" Yenchi Lee,"
+publishedDateTime: 2020-09-04T11:36:00Z
+originalUrl: "https://news.webindia123.com/news/articles/Science/20200904/3620808.html"
+webUrl: "https://news.webindia123.com/news/articles/Science/20200904/3620808.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Pioneer
-  domain: dailypioneer.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/mediatek-unveils-new-chip-for-5g-smartphones-2020-09-04.jpg"
-    width: 1000
-    height: 800
-    isCached: true
 
 related:
   - title: "MediaTek Helio G95 chip announced for gaming smartphones"
@@ -108,6 +102,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "AE27sWlwSXq03SX4syy/inZUWW85AWxiO6HwFUTv2ML2CFVAJvq86QZazII05z7zupeW2cG/1MePaoMfa7h7GOtRRor9jV9rt5M+JStH3l50unytds0al3F7xm//D4pQDKICn9V86c0nAcy4X31SSASbPDzD/AfTbN0ycJJMG8cvxagBlA3djl7usSMQMIuI9IV2ySM6cGBuKlUy5wvVerMr+7UcUE/BRI9ODAhLmu36Hbf2glXujAnQ8AI57SEgpwQq0HoVEn+oDBqZx9bmKgDIePvNh+Jr5aeeRYL2zXz2+dx/U7n8Yaq+D/dHL270/YVpuJVKpiYVevD7zfBQq9/dBJ1Aekz7hWm7TnHXZFw=;2TegdrbjnbZm7hHM9kj++Q=="
+secured: "MlX8XwDTyTEGZuQzOTXOuSTLHD+KhhsCxLrh465CnsuGiacpOrqw7+3NrnnLOfLidqeTqB/EoXkWjxmFA23c8t19JdFxdYShn4f5Ws7LgcNqhU/0OzUBtYp3gxNbYY+4NvJyO4bNYFOIT+kJj4oQl98LyQ3qV7y7gWmfe3YgNdt6EQvY7zgAVsGwz2b+/op1b/3lqpHJ0Uask2T5c0oDroFOrQ0fTyhoBitYvYB90FfzTeOnGYMVdPSFKxhve6Nt3NqE7hInzLzRzszW8cRiJF3ulkdSCVoflT2gunE672n4RYJ/DF4V+O5m9sCiRQnrJ2rhvyJ1lPDKCu6KJ6TfBfPZxiiLO5eV9sdZcWsaApE=;5DW4FKTQZ8ydb/jJyyMEZA=="
 ---
 
