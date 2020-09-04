@@ -83,11 +83,27 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 83
+    quality: 100
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/a8609e80-d074-42bc-a7e7-1886fa83729e/google-maps-eta.jpg"
         width: 1055
         height: 554
+        isCached: true
+  - title: "Google Maps using DeepMind AI to predict your arrival time"
+    excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
+    publishedDateTime: 2020-09-04T05:21:00Z
+    webUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+    ampWebUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 74
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/9/2020_9$largeimg_1012661407.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "This is how Google Maps uses DeepMind AI to predict your arrival time; read here"
     excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
@@ -149,18 +165,7 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Google Maps using DeepMind AI to predict your arrival time"
-    excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
-    publishedDateTime: 2020-09-04T04:57:00Z
-    webUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-    ampWebUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
 
-secured: "PX6+ztnLmQi5scBI6kOlObEilx1DYeCaTuvpiOr1YEM5HSiTAQaAPc2583yeAQdfOkLvc0Sc2QXsXkFjgIVgyY5Jx0w5eqQjw8WYFuxI4JGKjR4C5SaRF5hqjfgSlrU0dnclkclLh1LjrwQ9EQc++raQTq50yat97xKlT+EZLYsKAsspX+EyGsvAM/cXhIu9Adpjx73DT2eItYsFC1fjwZD6c8IWVGsqk04sHMCDFRaE6wbCF/PVj8R9oZSVazng3NMkAMq4c2+QxzKNHQdoo6XbWudVcIl2OiuCigubDYCEBN+GjOIRxNeDG+v/Pkv/J5HegieQnObYWnT1y/GVN5NGx8IkeHnLNKG/gdkR1ME=;Su0A8p0dnYIjoYrHkr1syw=="
+secured: "pBkxh861c8Z7bVLsJREZZK1n9W79vKDAzMEjhXm5BxQf49g30bg9U/RTEU5uJIMLmabqkEflGuRvB98KEC2DtUP9BIVh6LKz905n8t2ve34r1HdhT+s7Ttsvos7tkXHkjzOJyXREpaGqQ+WEZbZXaAWqPqy9IzocSxBkcciptqt8S4a5t7NF/uVaUrzYliteKYchMdoN04tl9fgeSIw3XkfzlzswuMcfxy6uRLT4Bl6TwLff73gN4KDKq10Rrg/NEXLJSva0M3DceD+zihWR0L3EGOF+oIXIVulGh86ywKARnw05qdI3ewyW+MoabZ2irva8KyUsAXwfL3AVK7f6wbRujB26s26Y/0WjJIiLuiUMaaAiHG40tIdk69R9pWN17zIb4DAcIIjAMEZF3btkFEruYWBTj+HK+kOZOjmsm32Yp9vTTRR69k6XN7/AV/4ukYP3TeGXcrObjuhdDVFnNBIuytEaFlevH4LAYgg1ipGZ+SBLonD9P77P3puxLGBanZm5wgkRkGWfpzd96d6E3uwxY4ipXPDKJGnjqMLVERk=;le2PbnNjIkctqk/mKjd1sA=="
 ---
 

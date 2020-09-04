@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-computing-mark
 webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-demand-analysis-key-developments-and-key-business-strategies-google-llc-ibm-corporation-microsoft-corporation-2020-08-31?mod=mw_quote_news"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars and Trucks Market Proposal Strategy, Size, Share and Competitive Analysis | Audi AG, Volkswagen AG, BMW AG"
-    excerpt: "MarketResearch.Biz has posted a newly modern statistical statistics, titled as Self-Driving Cars and Trucks Market. It is a precious supply of statistical information for Self-Driving Cars and Trucks market and consists of correct data,"
-    publishedDateTime: 2020-08-31T15:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-proposal-strategy-size-share-and-competitive-analysis-audi-ag-volkswagen-ag-bmw-ag-2020-08-31?mod=mw_quote_news"
+  - title: "Global Cognitive Services Market Future Prediction Report By 2024 : IBM, Microsoft, Google, AWS, Baidu, Nuance Communications"
+    excerpt: "Market Research Report Add a new global Cognitive Services market from manufacturers, countries, types and applications, predicts by 2024 in its research database, presenting an informative study covering the market with detailed analysis."
+    publishedDateTime: 2020-09-03T15:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications-2020-09-03?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 27
+    quality: 72
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

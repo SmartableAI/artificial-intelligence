@@ -2,23 +2,29 @@
 category: news
 title: "Google Maps using DeepMind AI to predict your arrival time"
 excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
-publishedDateTime: 2020-09-04T04:57:00Z
-originalUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-webUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-ampWebUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+publishedDateTime: 2020-09-04T05:21:00Z
+originalUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+webUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+ampWebUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/9/2020_9$largeimg_1012661407.jpg"
+    width: 900
+    height: 600
+    isCached: true
 
 related:
   - title: "Google Maps is improving travel ETAs with DeepMind AI"
@@ -79,7 +85,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 83
+    quality: 100
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/a8609e80-d074-42bc-a7e7-1886fa83729e/google-maps-eta.jpg"
         width: 1055
@@ -160,6 +166,6 @@ related:
         height: 601
         isCached: true
 
-secured: "D/DCwQl8h8/0VOe6J2/PnwxYE/4rpum5PFxXA0DhYOYiqki79l6JkOXHd4fwlZTP7Jcp0jWVFjyPRxXz8bBLj1WTPfHu10yRTDiIdQYg9mJ/xNaNoOIsiH26Y3FA6eYKLquoEEO5UethOQw0lw9IPaUDMB73HVrgBlFW441irM6AKaL23zHLDoVNe+GFySHkeqSO7N/F9FBVM/6vANKu8zNRV+Iw+aloP2UewPXbil34M5eaI55n89Q8cHP8lPhujTHmqpDu9Bh7YZUW6VgT51N1yqFy9MMpa0LTgPcVJMAw4FP/5sVrtTouJvp53LDtQyYuKZo8dgIHOTfUkukumpjd08L2HKO2F5brvJFOLew=;2Efmq1ehk0A4LDm0qtAtUQ=="
+secured: "FGDuYnEnqSLLw3HZINPTcijB5u+XS865Y5ywIz8XTTaVTtBqCEmO8cNEwCTl9fp+2ygKyGJAArxlrXkeuf6GQsZ9QJ9tOoRnmEfn5DQIo9xPPtHVKDektxMkwNjlMP36pZNx44dSZE3KrsMMwzfeCLgwwPIDov9duaf1nyhMHiWvfCiYGNlm3YkTKC35sX+pXjX8gRHiXBrnl63qnLK6IuvJCGZWG+Bc1tDs6GKnro0KQMXogE+2jKgQ/TtzvIIGOAmFK/ix1YNCAnMoqjKIZxahqZ+Oa/NMRqHprLkslcLJs3CbhnKRgyb/XP+5pCiIUjjbnceq++T+UAJ33IrHutM71SQDJJEkw+/I+xDmN/A=;GprvSMwSp8L45XD1nBMTlA=="
 ---
 

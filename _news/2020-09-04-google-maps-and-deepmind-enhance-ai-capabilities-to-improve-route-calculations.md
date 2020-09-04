@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capab
 ampWebUrl: "https://www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
 type: article
-quality: 83
+quality: 100
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/a8609e80-d074-42bc-a7e7-1886fa83729e/google-maps-eta.jpg"
@@ -77,6 +78,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1208999497-e1599071823905.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 601
+        isCached: true
+  - title: "Google Maps using DeepMind AI to predict your arrival time"
+    excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
+    publishedDateTime: 2020-09-04T05:21:00Z
+    webUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+    ampWebUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 74
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/9/2020_9$largeimg_1012661407.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "This is how Google Maps uses DeepMind AI to predict your arrival time; read here"
     excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
@@ -138,17 +155,6 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Google Maps using DeepMind AI to predict your arrival time"
-    excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
-    publishedDateTime: 2020-09-04T04:57:00Z
-    webUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-    ampWebUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
   - title: "Google Maps and DeepMind take advantage of AI capabilities to improve the number of paths"
     excerpt: "Machine learning helped improve expected real-time arrival time by up to 50%. It took nearly 13 years to provide traffic"
     publishedDateTime: 2020-09-04T04:37:00Z
@@ -164,6 +170,6 @@ related:
         height: 601
         isCached: true
 
-secured: "OrcByCKsANu0brOxXbdeSQC8ZfRfqmVuY+dpchU903CosU3QHt+tTzvSu3o1OVmGZXfAAOx3rc7FhjsSfkFx9eYei0wQ1SBI1mSQhjT+D+UA/w+A8G6eURCLo5/eIyMxzqEA63ruEOT8bZgcNzF0dwHFxS1jWoivHDjTwfn9JvOro6W+jH+OT3P+R/ofZak+MHAOZEbPh1zpuu5h8MhAYhol4jEV5z9hjQM/ssjtWCIqbRdIF3ZYhyK6xO0zcI6iZSKFDIEU4oB48TJqIvcY3w/cYm3XG90yMjMB88tIkChLrpilGrjhbLrJeFdiSxEWCwrnkyUWmjbSeXt9hcTJeBGwUz53Jt/jshSS10DlXsE=;yu27XJcbU5FEqvmdoSJ5cw=="
+secured: "c+RESLX/hnG1eYBhABmxjard7I1cYH6GHKmQek3WF2iZFYh4aHTErLUZX0NHIwuD1dvE62nK9m0fPO1dRIsijAiXt6xvVFH5TmFkR0tZ0dT7B8JMj6yNAabnj2y5RpPHglYV0OOPrf8n3EpR0kzCFeJF5bjNy5lWTGrlqk5gnyr1cEvsgCpROnteIKw1QMKwZav0sct8qGUbHSMnYZlSomtnlupxmC9YAT/g5AliXuER464vReEULWhPABJZFChoFUBF2Tb/uaspNTpZfd0rduUUuS5CPx/D3Q0kaBhSMx1bV5IsuWSZq+ZszZ2Xg9GZo1PXJR+BvLgj5V8Wqkrab/IPYxSAfUdymVsrQKcILwrzPosZ2bxIaaNBVgZNcnkOlvyp6qGOkQUUVN3qGKxJyKXkomfdnJNd3mCL7uWNtI+8WdUmfmSq6RqnwwapWzS2sSk2KjIIkU9w/ZV+LrXZeigX4fgYZ23MBHgd8l3tJUZ8bXVyGz2SYd9n+T3cbaHxUR9WPWfQgObJX4nr29olUAvnmqxaq5IB/Y5OI4OsXvE=;I5SG0sFx4FF9LDZroXFTpA=="
 ---
 

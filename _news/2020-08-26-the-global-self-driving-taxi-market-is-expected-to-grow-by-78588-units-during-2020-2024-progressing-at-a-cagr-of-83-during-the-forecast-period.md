@@ -2,25 +2,21 @@
 category: news
 title: "The Global Self-driving Taxi Market is expected to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period"
 excerpt: "The analyst has been monitoring the self-driving taxi market and it is poised to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period. Our reports on self ..."
-publishedDateTime: 2020-08-26T15:33:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-301118728.html"
-webUrl: "https://www.prnewswire.com/news-releases/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-301118728.html"
+publishedDateTime: 2020-08-26T16:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17252765"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17252765"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "b2iMa8zNIaB7Bf/+yZJ1Zrl91VeM/06C0j+4UGYwkuzUehfkV3rU/CKF67sVooG3lWIY/4lNEYbbmAI2rb+JU5A5YY8VdBq7AzFyCr/HfExzQFOoVGDUcCPlp2tp32zZO4hwumowCgKqIUZSa4iMAXFWMShH4E66T5zvMn9bTm4rTfDD7fAAARw4sihB/nww4jcB2yfTSqrqucQ90BiRfNuwA58dkncia3S3HdKAsqqA0oG9/7+rFlkEeON1R3NrS4JTv2dRRxR8QlNhMn0uPhq+M9rmjMMYhSmUM1cuVvaPP692E+mwZU4R10uvA9W4knLwbatEk6DSAaPXhHGXN59Xd4Lgz7vRc6F3PPANXgM=;+XVpMcydqoimDfM143CNMQ=="
+secured: "ALy7ALFEkoc7dU02oh8SND5D/1UdUvtg5MoX+fO45Uaau57dbWsVfi2372wL8Dqw7OWdQUh+DncBinZLnk7Wn/4fpIHeADm0Bq0DUy/Wvo4teeMVs6lpk/giJA0eAASwOzGvEL3gffBhByrr+cmkN5XM8PVj/RP8HyjBCzjdMseaWEApbye1uBkDvxA2SF/Bx4+RKJpUcWxmEHw3o+XopTaYRaRBTQ9EO9Mq7LlKEmwzslBu8y45HBhNeF6P0eDQ0KDP4DvPKBjS36l6r1MritoPfYPdLhUIT+c275AOhZ3JBQdaT+fymU7aIlSyd1bPvER5EKLgpim1Zs+Yw+/8MTLswjibrK/hiaip/5y39ok=;Vu3shf1GXzq/VDNxPrfuWg=="
 ---
 
