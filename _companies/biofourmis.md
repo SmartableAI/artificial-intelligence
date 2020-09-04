@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "biofourmis"
   url: "https://twitter.com/biofourmis"
-  followers: 423
+  followers: 424
 
 size: 51-200 employees
 yearFounded: 2015
