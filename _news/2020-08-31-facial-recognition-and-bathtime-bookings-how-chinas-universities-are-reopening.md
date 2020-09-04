@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Facial Recognition and Bathtime Bookings: How China's Universities Are Reopening"
-excerpt: "Responding to the criticism last week during a media briefing, officials from China's Ministry of Education said that the measures weren't compulsory for universities, but that st"
-publishedDateTime: 2020-08-31T07:47:00Z
-originalUrl: "https://www.usnews.com/news/world/articles/2020-08-31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening"
-webUrl: "https://www.usnews.com/news/world/articles/2020-08-31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening"
-ampWebUrl: "https://www.usnews.com/news/world/articles/2020-08-31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-08-31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening?context=amp"
+title: "Facial recognition and bathtime bookings: How China's universities are reopening"
+excerpt: "As COVID-19 cases in China sink to new lows, the world's largest population of university students is heading back to campus in a migration defined by lockdowns, patriotic education and cutting-edge surveillance equipment."
+publishedDateTime: 2020-08-31T12:35:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN25R0UW"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0UW"
 type: article
-quality: 64
-heat: 84
+quality: 84
+heat: 104
 published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200831&t=2&i=1531624313&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7U0GA"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "China’s universities are reopening with facial recognition, shower bookings"
@@ -51,6 +57,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 16
 
-secured: "r803oSDpCU+eI1iCin0gqYjbUFkybst+IfaolXgtV+qjV5nnIolEbV+yj5teXTpM4fteGiDLrQv7XOfJfE03UfrrAYpbYVinqsADVOnA2fuyun0rQXUd9jbQbKBgluBu8SkRMxHriUBbOmuvte2pzpZUPHcVaHNMk6JuCAlRsKPWZ4jEDQ/G6qklv7nRuw3q1IbTCWzk+0RpZvJy2v896/NEv1AoCSYhha9CYtsc/Pl7q3u9PvYidXfFhXkoM0R8aHGuYAYUfRxTYXbHHCPxLV+3gQbO5bYTYQs4fdKnzsIEY5hjPPhfc+U+ON4EjLrTbfasRdtG3QP0cTHbU1XqLg+l2Wv+b8ZpMNbPqFs0mwgkz03+aD2tn2OiS6pZajtzGN+/xj89aOmSWgggFt/QB2gBRPZNk0cjKlPGmoY3sV9PcqIvuV1ilAgNgNL+oEp6aqGCURIKq/BVjuhkMonHKlbyVrYYfmyLQHtVeraESKuUFx/dWU4vm6K7DolTW2QzhS0rBCWhmPjtGbjicAsjrg==;Ue9ZqYtivd+Nw08ic1rdlw=="
+secured: "mDRRoFi2k3wV+cvFHvCH1HWdc8KaE2RIBi6WKkYpc6MdBBAujjzRqcG4MCQ+6VJ5s82yzJG87vrrCz7cXwJMGuYrdaGQoD4XFK0Zcc/MdleCdJD/zav+UBjCTkhMIFX3JJhX4Rj51SItZYJyEslYm8FxkmaC8B7mtwAjhLmISV38ntqd/Mi6sGEgKpjvV8h+9FQ40/IhVH2ARzcb7oqpbVj7PUcrgg9C7QbsrsRkja/1SGe9vdp3qer2uzi+RIa6HFPwgc62gx3qBQP6SRUZ54q/Ue2hJInhNi0MzBxlnmhofTMl0DRp+4JhhHgyxTt1/I5+rw6p1PGx08R/fNC+Q0YnOY+FozeJ8nq86U1folE=;t+Ezrocl9v8Ugfm5wATXfg=="
 ---
 

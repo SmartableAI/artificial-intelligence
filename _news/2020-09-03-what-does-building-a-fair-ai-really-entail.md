@@ -1,10 +1,10 @@
 ---
 category: news
 title: "What Does Building a Fair AI Really Entail?"
-excerpt: "But while AI solves some problems, it creates new ones — and one of the stickiest is how to make sure that decisions shaped or made by AI are fair, and are perceived to be fair. Companies need to stop thinking about fairness — a complicated concept — as something they can address with the right automated processes."
+excerpt: "As a result, AI techniques are increasingly used to make decisions. Organizations are employing algorithms to allocate valuable resources, design work schedules, analyze employee performance, and even decide whether employees can stay on the job."
 publishedDateTime: 2020-09-03T13:30:00Z
-originalUrl: "https://hbr.org/2020/09/what-does-building-a-fair-ai-really-entail?ab=hero-subleft-2"
-webUrl: "https://hbr.org/2020/09/what-does-building-a-fair-ai-really-entail?ab=hero-subleft-2"
+originalUrl: "https://hbr.org/2020/09/what-does-building-a-fair-ai-really-entail"
+webUrl: "https://hbr.org/2020/09/what-does-building-a-fair-ai-really-entail"
 ampWebUrl: "https://hbr.org/amp/2020/09/what-does-building-a-fair-ai-really-entail"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/09/what-does-building-a-fair-ai-really-entail"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 1125
     isCached: true
 
-secured: "dS/O7SMWieAXzHHVCJJtBwYkJ46oQ6/dXvInyZxM03NUlrB9P9xbmYHAmnfCtkGX50heKMFtCOKhnxmhB6wIQasvRbBMkxvLC5MQPOOlrnVxWbeUAhMprdgDBiKlI/Ae+2RgpfauHJ7y4J4LM3Ki/2DJMtBLqqOibq6RivjweZGSxqKSq/jN5+A+WOE0jtFicYWpyDThY+KP8/bScLvHC4DVOtQ+QUo9vV8as7HKexZGYHprZynyBXv8VodlmRpgua8JuPK2vmoUqOHJHP8DzU2YZEfIwgbdhfY3w2Wx4QA6MkHg7FCC5SHrH4/isN8dzupexfZPVU3U23bWwB0zBCU8/Zua7nyZz0WESVRlo0BfgtiTGXuxTF84dfqWFlB3HMbO0YloXFR1iFUl50ZFwGtvMMm3RqjhcbpL6G+IC/u6Wls3qkDuTnCGG0EK4ovnDyvrErWkKbnlehcfNtQ3vCPTxO02n9AHLUtWJDn/nAIzrs39kqWVjpVUGQi4MUTbR89lOXHiL+EvWsyX392j9/ExbiLS2P93sBfPeb0yqtw=;HvHR/x6KQL3dSLVmgo8Q7w=="
+secured: "dUbUn5mz3HwdooxZuuCEu8FYMAfDDmfRS8bt4i2D1JZVThz/k8jXCGpJcponyWiOLE9qac73J+JrIK9erPTO2PCFrPoWnbjELECRO0xgLqGPMAjXAWc5VN0YHM6G6DR+NialXRscKlFiJbI7WDFO99MDaFuhBfwn6JQoRiCqkv27pFIVLtG2FBQUuiF51XA6M1QGRGGXkh6JFH6sHzP0R+OzoFjTAt1YJlfjTMxmFM/iPCTaLZjwyeL29cz+qwAif0IejYYQ1CViUUkdabJHKLHUM8mQoWQl1q9aQu2VBL3WoFe2vLQuTN8/+4vf5240T0SabFaffy+PW+bJ5EZ85jlbO0Y6kTaeMFvFuqBK6ts=;N10Kg3vBsOvx84PNdFabuw=="
 ---
 

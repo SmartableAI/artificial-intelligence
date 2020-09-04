@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2018/09/hurricane-florence-waves.jpg?quality=70&#038;strip=all"
         width: 1879
         height: 889
+        isCached: true
+  - title: "JPL Machine-Learning Project Could Help Predict Dangerous Hurricane Behavior"
+    excerpt: "Scientists at NASA’s Jet Propulsion Laboratory have applied machine learning to predict when hurricanes will suddenly intensify, with potentially damaging and deadly results, with better accuracy than ever before,"
+    publishedDateTime: 2020-09-03T21:49:00Z
+    webUrl: "https://www.pasadenanow.com/main/jpl-machine-learning-project-could-help-predict-dangerous-hurricane-behavior/"
+    type: article
+    provider:
+      name: Pasadena Now
+      domain: pasadenanow.com
+    quality: 21
+    images:
+      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/09/PWP-CROP-740x400.jpg"
+        width: 740
+        height: 400
         isCached: true
 
 secured: "fF4WC54Q1VXjsoOoW14TjUUyAjuPmT4/ehrK5tRsjv8TjmspsVzeW9YszKO8f1H4YcF9FLSFN4N0MDhz+wWanE3Kd9psfSwy4A2LxEwyEIi/9T35GANPoZmctYNSU/ds7p81k2zD2es1nQxuZpUda6qFB7G/EG9EwVaOyamwfJo2jQxejwd1goexJFVhh123qVobclnEoVlSA1/8lPvS7SPPPD2eJnecCWmOB6gYI7anHr1dAMsBwmtmoxHxxSzXxhC86Of2MkZoTtW7PcLlqh/XTlyKQ94IKOlUGFTVFdiHqSb6OLoTW70encTpsVq7XXrOSr3Il+e9a5tSDMJoqK1C9ASpyjuhwRcIenES/DKDbqdjTIraBji9It3cvB3CrnpHJQrJxoCCXQhlMVQYosqGjkHyi6ZR+Yp4S07jt4ZAmeEMBcaC9fA6xHFjij0cg6KoG/YFVVRj3rpdZeNBgl1lOmdx4PY5+0gpe7bsHTggllDAh9YM/kc0WV+mT1y8EiQF29G09DcwLhvc1QqxMzkD4y2y+iXBPjnaxdJulzc=;KIrvDz4aDVmiM7mtpqZh8w=="

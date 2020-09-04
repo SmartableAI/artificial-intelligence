@@ -24,6 +24,7 @@ topics:
   - Machine Learning
   - AI
   - Computer Vision
+  - AI in Robotics
 
 related:
   - title: "DDN Recognized for Innovation in Artificial Intelligence Data Management with 2020 AI Breakthrough Award"

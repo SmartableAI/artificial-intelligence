@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-04T04:04:00Z
 originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
 webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
@@ -40,6 +41,22 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/O4onAnkKGXEMUhxqCMsiV1okXi4=/756x567/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
         width: 756
         height: 567
+        isCached: true
+  - title: "Faulty Facial Recognition Led to His Arrest—Now He’s Suing"
+    excerpt: "Michael Oliver is the second Black man found to be wrongfully arrested by Detroit police because of the technology—and his lawyers suspect there are many more."
+    publishedDateTime: 2020-09-04T14:08:00Z
+    webUrl: "https://www.vice.com/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 89
+    images:
+      - url: "https://video-images.vice.com//articles/5f4fefdd972acd00959db0e6/lede/1599158657813-img1508.jpeg?crop=1xw:0.8743135838150289xh;center,center"
+        width: 2689
+        height: 1512
         isCached: true
   - title: "NYPD uses facial recognition to arrest brazen sex offender accused of attempted rape on subway platform"
     excerpt: "A suspect seen in disturbing cellphone video attempting to brazenly rape a woman on a Manhattan subway platform has been apprehended, according to reports."
@@ -137,6 +154,20 @@ related:
         width: 1800
         height: 938
         isCached: true
+  - title: "Israeli facial recognition co AnyVision raises $43m"
+    excerpt: "AnyVision to focus on its commercial and homeland security facial recognition operations. AnyVision said that the new funding will be used \"to scale its Touchless Access Control and Remote Authentication products at a time when demand for innovative technologies that help companies meet the challenges of the new reality is soaring."
+    publishedDateTime: 2020-09-04T13:11:00Z
+    webUrl: "https://en.globes.co.il/en/article-israeli-facial-recognition-co-anyvision-raises-43m-1001341654"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 54
+    images:
+      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2020/3F27E375703F21D215C414440800BA8A_800x392.20200904T120738.jpg"
+        width: 800
+        height: 392
+        isCached: true
   - title: "Concerns about facial recognition system being set up by police"
     excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
     publishedDateTime: 2020-09-01T00:44:00Z
@@ -189,20 +220,6 @@ related:
       - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2020/09/shutterstock_1101332606-800x450.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Taxpayer criticizes Fayette School Board for buying facial recognition cameras"
-    excerpt: "A public speaker at the Aug. 24 meeting of the Fayette County Board of Education took issue with the recent decision to purchase thermal imaging/facial recognition cameras to be installed"
-    publishedDateTime: 2020-08-30T21:17:00Z
-    webUrl: "https://thecitizen.com/2020/08/30/taxpayer-criticizes-fayette-school-board-for-buying-facial-recognition-cameras/"
-    type: article
-    provider:
-      name: The Citizen
-      domain: thecitizen.com
-    quality: 35
-    images:
-      - url: "https://d3ebobe8l15pwo.cloudfront.net/wp-content/uploads/2020/08/081220_Thermal-imaging-Hikvision-detectors-for-schools_E.jpg"
-        width: 1084
-        height: 739
         isCached: true
   - title: "City Councilman Hosting Discussion On Facial Recognition Technology And Policing"
     excerpt: "Pittsburgh City Councilman Corey O'Conner says police using facial recognition technology would do more harm than good; KDKA's Lindsay Ward reports."

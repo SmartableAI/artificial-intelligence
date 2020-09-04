@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Machine Learning AI Chooses Henry Cavill As The Next James Bond"
-excerpt: "Daniel Craig will soon be saying goodbye to the tuxedo and silenced Walther Ppk, as No Time To Die will be his final outing as James Bond. Craig’s tenure at MI6 has been a resounding success, winning critical adulation for Casino Royale and Skyfall and becoming the highest-grossing Bond of all time."
-publishedDateTime: 2020-09-03T13:19:00Z
-originalUrl: "https://www.imdb.com/news/ni63007405?mode=desktop"
-webUrl: "https://www.imdb.com/news/ni63007405?mode=desktop"
+excerpt: "Elizabeth Olsen Deletes Instagram Due To Backlash For Not Po... Eternals Director Wants The Film To Be Bigger Than Avengers:... Grand Theft Auto 6 Is Reportedly Years Away From Being Annou ..."
+publishedDateTime: 2020-09-03T00:06:00Z
+originalUrl: "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/"
+webUrl: "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/"
+ampWebUrl: "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/amp/"
+cdnAmpWebUrl: "https://wegotthiscovered-com.cdn.ampproject.org/c/s/wegotthiscovered.com/movies/ai-henry-cavill-james-bond/amp/"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: IMDb
-  domain: imdb.com
+  name: We Got This Covered
+  domain: wegotthiscovered.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "di/9SFdtzQd4kiDr++hJ7/L6BGb5tzmWuGTq+8gqdxNCbvncCs4zEVcGe9bXOKfZ0M85BfAaYyQz912dF2Lxm2iXcXy9xB8e4aGTM6sjcvPjeoJPiFYsz9IH73ePNNyEO5OMACiax7jSo257hugToD4EktlObye+gqjIRvbNIKgecAZP+Krs9v15oHwUTYQYNobxirIF55B6VexBi+Y4GcMTogtxPHBafrDTaiMYlskr1KwpxTwxl+7jNidV1kLoytYJOgpFCqPAr7LbWe0h/tqSOs+QOIIWeBNgIKqXAxPp8xLlD3NGOZoADlDbfpgPt7hT+3n4QFhUuwIsXygBYRuxr4Zw/0DYa7FvI5fDplQ=;4FFLfu24caPsK3gw1o6luw=="
+images:
+  - url: "https://wegotthiscovered.com/wp-content/uploads/2020/08/Henry-Cavill.jpg"
+    width: 1155
+    height: 570
+    isCached: true
+
+secured: "xANH6H+dQjU5ez6xL8T+JRciZ8syLSm8i848uJdtYH/NR3Rf01RHLsOc7oMozbEUxx5WztthrFDncX4sLNp6lebVvvBnvNtlwi1LdCT9KcNJEsclval91MFA6dL7JtsZ/8BAbR8O1xlc/YBwlvoeKB5jzdPTEeGmFvKe9N70DwMZC5n6agPSq5J/LjBm89C9xcgm/WaRpuN3kyom23U81CCNoCV8rRvm6dIkodN1FLyaSiCn5UKb9nmlHJCrSoTnh2u8HbiC2D229NTL4NcWrTdwdac8Xs9wCEF+mpKTK3wSkOxtwDxw8hWFybWd3FfNzUmeTJvV4oSJm9dr2GzIeJsHnV9SWvKcASHefdOOZpw=;0v1ci+S5jYMYvN/K46oThQ=="
 ---
 

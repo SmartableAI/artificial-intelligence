@@ -134,56 +134,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-03-ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic.md",
-      "title": "AI In Computer Vision Market: Dynamics, Segments, Size, and Demand Analysis during 2021-2024 | Impact of COVID-19 Pandemic",
-      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03",
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-03T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-03-storelift-launches-autonomous-convenience-stores-using-ai-and-computer-vision.md",
       "title": "Storelift launches autonomous convenience stores using AI and computer vision",
       "excerpt": "But a French startup called Storelift believes it can create a new convenience store concept that leans on many of the same AI and computer vision tools used in Amazon Go stores to reinvent the ...",
@@ -291,7 +241,7 @@
       "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
       "featuredContent": null,
-      "heat": 269,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -467,26 +417,35 @@
     },
     {
       "path": "_news/2020-08-31-facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening.md",
-      "title": "Facial Recognition and Bathtime Bookings: How China's Universities Are Reopening",
-      "excerpt": "Responding to the criticism last week during a media briefing, officials from China's Ministry of Education said that the measures weren't compulsory for universities, but that st",
+      "title": "Facial recognition and bathtime bookings: How China's universities are reopening",
+      "excerpt": "As COVID-19 cases in China sink to new lows, the world's largest population of university students is heading back to campus in a migration defined by lockdowns, patriotic education and cutting-edge surveillance equipment.",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/world/articles/2020-08-31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening",
-      "originalUrl": "https://www.usnews.com/news/world/articles/2020-08-31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW",
       "featuredContent": null,
-      "heat": 84,
+      "heat": 104,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200831&t=2&i=1531624313&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7U0GA",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/world/articles/2020-08-31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-08-31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening?context=amp",
-      "publishedDateTime": "2020-08-31T00:47:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN25R0UW",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0UW",
+      "publishedDateTime": "2020-08-31T05:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1328,6 +1287,56 @@
         "name": "Electronics Weekly",
         "domain": "electronicsweekly.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit.md",
+      "title": "Court ruling paves the way for Facebook to settle its facial recognition lawsuit",
+      "excerpt": "A judge gave Facebook preliminary approval to settle its Illinois facial recogntion lawsuit that was filed under the Biometric Information Privacy Act.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/",
+      "originalUrl": "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/",
+      "featuredContent": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/",
+      "publishedDateTime": "2020-08-20T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

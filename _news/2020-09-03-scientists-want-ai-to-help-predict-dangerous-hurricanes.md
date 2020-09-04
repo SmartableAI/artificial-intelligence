@@ -58,6 +58,20 @@ related:
         width: 1879
         height: 889
         isCached: true
+  - title: "JPL Machine-Learning Project Could Help Predict Dangerous Hurricane Behavior"
+    excerpt: "Scientists at NASA’s Jet Propulsion Laboratory have applied machine learning to predict when hurricanes will suddenly intensify, with potentially damaging and deadly results, with better accuracy than ever before,"
+    publishedDateTime: 2020-09-03T21:49:00Z
+    webUrl: "https://www.pasadenanow.com/main/jpl-machine-learning-project-could-help-predict-dangerous-hurricane-behavior/"
+    type: article
+    provider:
+      name: Pasadena Now
+      domain: pasadenanow.com
+    quality: 21
+    images:
+      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/09/PWP-CROP-740x400.jpg"
+        width: 740
+        height: 400
+        isCached: true
 
 secured: "BRudeItqIxQ6/OVUhf8+hpBDitHU4ZOOxxjVggwRUqlExa2VaOvOj5JZ1rzK11M5vBVQtCa8A/+iwn7lPptTKc8MNgaCS2blv9L/dT1qwTuFXZ0CqeU1kcxI3JN+oOq+5iWwFTLwwywSVFhbjGUs/X33T5CxBE3BOAdl3435E0TFaLaeP61CsKb4sagDFoUNRgXGGEmcH6Q2KHEUezw3kjHLVrqIR+4ubaYCSHHpeBqiyeMaQluUMXB685xI9YeX8Rmahlw6aOWrMUGpeD3RM7owkQndREvC9zpQ20Btsti/QyXloudYG51Q7bjaAUpmJ8sfbayF5odg21WJYV/PJ/LIiJjFvmn33trvuqqOxjkV3xknNHeeXUH+c39daITBmsvTdSEPdoaF+rrSe0jTi0L0FHhNjLkQf4hlvTPTO0TShaLmXJFyDjQ7ESrKEwmF3yjAUuyNUtWA7ed5qrrjhloZaYVDDXm5ySvA53AZPK0y7yDuH5TsrxvJuajTSkk/u4X44MbUG12iQ7hW7Bxjm/QbaSpCbMOI4DTnjPSK/VI=;CQOHaAfgBHVWsvblLTB+Jw=="
 ---
