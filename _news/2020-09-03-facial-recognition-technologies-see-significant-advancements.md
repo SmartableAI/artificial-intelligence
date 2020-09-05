@@ -63,17 +63,6 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
-  - title: "Facial recognition technology used to arrest man accused of attempted rape on NYC subway platform"
-    excerpt: "The New York Police Department arrested a man accused of attempting to rape a woman on a subway platform with the help of facial recognition technology."
-    publishedDateTime: 2020-08-31T21:18:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 26
 
 secured: "RxXUkDciMS9EvkC8CZVtY/nZQS3oz2jBjmmvlV9PYVxA3J8H8jo1YqC2mAKXJGIVYmMV954zux0ha9Mx23ZGR0rRoTUF8YNyRVDXkj+z82/LGGT+1ky/bbsfuHkpTATUbyKRY/cMczfMTbGz0KcnfpYf7k+h7EOJ0bVl5XYYtvnbOa47P814OPN/0hfqPTDrCKW+18TWn8svQpGwfj29o6n1oOdU32VS1mwZfCkjY+PxvhHx455yB8+WnpMnCjIdP5APzAzp/eN3fRn42+0f7NdUGbqSsqDC5HQKNs43Dq8fqZ7OT8rIYvSiY2eaM5t05S67AgUm8upJmwLpzsFk7+V5Zh19Z/51SH4a+mzJkLYF5hKmU3a8kCd7/ayDB94Ek9rtn/3FiRlxA61SF9Anhgfk3iXD40uxj3uj0jK5Pq2JcFLtVHqBoVF8UamvrnTheCQyQMi7FSXnjPkLvnWW2mZkwU8Vh0RqM+LbcAz3P88oC9h4FPULt63Ma2NYDjJ4A5iVC8kwQNV84Oh+CV4NHdCzYeWDf08Wtja0c1rscFw=;UM80+mDjDGt4MQGUjq85qQ=="
 ---

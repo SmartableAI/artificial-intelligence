@@ -101,6 +101,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "CBP Should Address Facial Recognition System Performance and Privacy Issues, GAO Says"
+    excerpt: "A Government Accountability Office (GAO) review has found that U.S. Customs and Border Protection (CBP) has made progress testing and deploying facial recognition technology (FRT) at ports of entry to create entry-exit records for foreign nationals as part of its Biometric Entry-Exit Program."
+    publishedDateTime: 2020-09-05T14:29:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/cbp-should-address-facial-recognition-system-performance-and-privacy-issues-gao-says/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 32
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2020/09/cbpbiometrics.jpg"
+        width: 1097
+        height: 700
+        isCached: true
   - title: "Biometric facial recognition audit shows CBP has some privacy and notification work to do"
     excerpt: "A government performance audit looking into the use of facial biometrics by the U.S. Customs and Border Protection agency found that is not fully safeguarding the privacy of travelers. Although"
     publishedDateTime: 2020-09-04T21:34:00Z

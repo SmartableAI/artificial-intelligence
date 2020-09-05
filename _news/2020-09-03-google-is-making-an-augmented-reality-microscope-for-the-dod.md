@@ -9,8 +9,8 @@ ampWebUrl: "https://uk.pcmag.com/healthandfitness/128467/google-is-making-an-aug
 cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/healthandfitness/128467/google-is-making-an-augmented-reality-microscope-for-the-dod?amp=1"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -31,33 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud's AI is being used by the US government to improve the accuracy of cancer diagnoses"
-    excerpt: "The US Department of Defense is using Google Cloud's AI tools to research if they can enhance the accuracy of cancer diagnoses."
-    publishedDateTime: 2020-09-03T13:22:00Z
-    webUrl: "https://www.businessinsider.com/google-cloud-nabs-government-deal-for-cancer-research-2020-9"
+  - title: "Google is creating a microscope with AI and AR to help detect cancer"
+    excerpt: "Google plans to train an AI using the open-source platform TensorFlow to detect cancerous cells in photos taken from a microscope. They’ve already started developing the neural networks by using the Google Cloud Healthcare API to de-identify and segment"
+    publishedDateTime: 2020-09-05T14:40:00Z
+    webUrl: "https://www.techspot.com/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
     images:
-      - url: "https://i.insider.com/5ee917341918243f207cec86?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Microscopes Powered by Google’s AI Could Change Cancer Diagnostics"
-    excerpt: "New augmented-reality microscopes, powered by AI, will change how doctors detect cancer, and finally begin to fulfill the promise of applying artificial intelligence to medical imagery. The Defense Innovation Unit recently awarded a contract to Google Cloud to deliver the AI models to power a pilot program called Predictive Health,"
-    publishedDateTime: 2020-09-01T17:44:00Z
-    webUrl: "https://www.defenseone.com/technology/2020/09/microscopes-powered-googles-ai-could-change-cancer-diagnostics/168146/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 39
-    images:
-      - url: "https://cdn.defenseone.com/media/img/upload/2020/09/01/4240233/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/09/2020-09-05-image-3.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Google Working on Augmented Reality Microscope to Improve Cancer Diagnosis"
     excerpt: "In most cancer diagnoses, someone will at some point look through a microscope at a biopsy sample to confirm the presence of cancerous cells. Even pathologists who have been doing this for years can get it wrong occasionally."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/article245384385.ht
 cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/article245384385.html"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -62,17 +62,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facial recognition technology used to arrest man accused of attempted rape on NYC subway platform"
-    excerpt: "The New York Police Department arrested a man accused of attempting to rape a woman on a subway platform with the help of facial recognition technology."
-    publishedDateTime: 2020-08-31T21:18:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 26
 
 secured: "MT2MBhvwd10DCdAg/My/yLWIIQ5+EVi6vAzDos3iju+ocGNESHwQaiaMcLzV4l0uA0lZwR+cmXTlAYNGT5xLoZbLn4if+NlIbatBhyFWtFVNyMlGCKAvUFR4MrMn7J628HZpLE+aBUvWYSy6HTPqXiBeZTrewE3EdhN49Ks3La8Q6MoFEvJxkHPWLmUcAVsmDslMQu1yFNHFCxOm9Jly/nXitOCMRZJ84VZ5GkaCG6PN90lheeLeUFXUiXP6Z5jXZMa0RU1g3Df51qgXFV5WCi65cbL6j+49Aue5yKdLhUc8fHfQQbyLEe4zLzH1omq4vcHl4J93s+bwHoysqAmMrhFPqc50aSmGB//T1l7IWP0=;ynvxV+TPW6OlV2yMMR8E/w=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.cmo.com.au/mediareleases/135281/call-journey-now-avail
 webUrl: "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: cmo.com.au
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
-    excerpt: "Microsoft customers can now gain access to Call Journey's AI-powered Conversation Analytics technology to drive customer experience, enhance employee engagement,"
-    publishedDateTime: 2020-08-31T23:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17320531"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17320531"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 68
   - title: "MojoRank's Intelligent Recruiting Solution Now Available on Microsoft AppSource"
     excerpt: "MojoRank, a leader in artificial intelligence recruiting and diversity hiring solutions for human resource organizations, today announced"
     publishedDateTime: 2020-09-01T12:38:00Z

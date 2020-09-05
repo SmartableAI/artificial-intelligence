@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/</loc>
+    <lastmod>2020-09-05T08:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techspot.com/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html</loc>
+    <lastmod>2020-09-05T07:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201</loc>
     <lastmod>2020-09-05T06:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -81,6 +93,12 @@
   <url>
     <loc>https://www.bloomberg.com/news/articles/2020-09-04/ai-start-ups-are-tackling-one-of-mining-s-oldest-problems</loc>
     <lastmod>2020-09-03T22:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/</loc>
+    <lastmod>2020-09-03T21:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -189,12 +207,6 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/</loc>
     <lastmod>2020-09-03T06:56:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://uk.pcmag.com/healthandfitness/128467/google-is-making-an-augmented-reality-microscope-for-the-dod</loc>
-    <lastmod>2020-09-03T06:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -403,6 +415,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.upi.com/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/</loc>
+    <lastmod>2020-09-02T09:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/</loc>
     <lastmod>2020-09-02T09:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -519,6 +537,12 @@
   <url>
     <loc>https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/</loc>
     <lastmod>2020-09-02T00:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/</loc>
+    <lastmod>2020-09-02T00:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1081,12 +1105,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html</loc>
-    <lastmod>2020-08-28T07:54:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.techrepublic.com/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/</loc>
     <lastmod>2020-08-28T07:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1167,6 +1185,12 @@
   <url>
     <loc>https://www.forbes.com/sites/ilonalimonta-volkova/2020/08/28/all-is-fair-in-mortgage-lending-and-fintech/</loc>
     <lastmod>2020-08-28T03:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/press-release/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator</loc>
+    <lastmod>2020-08-28T03:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

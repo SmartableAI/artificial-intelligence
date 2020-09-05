@@ -2,6 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-05-how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers.md",
+      "title": "How Adobe is using an AI chatbot to support its 22,000 remote workers",
+      "excerpt": "When the COVID-19 shutdown began in March, my team at Adobe realized we had to completely rethink our support infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/",
+      "originalUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/chatbot.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/amp/",
+      "publishedDateTime": "2020-09-05T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-google-is-creating-a-microscope-with-ai-and-ar-to-help-detect-cancer.md",
+      "title": "Google is creating a microscope with AI and AR to help detect cancer",
+      "excerpt": "Google plans to train an AI using the open-source platform TensorFlow to detect cancerous cells in photos taken from a microscope. They’ve already started developing the neural networks by using the Google Cloud Healthcare API to de-identify and segment",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
+      "originalUrl": "https://www.techspot.com/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/09/2020-09-05-image-3.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
+      "publishedDateTime": "2020-09-05T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-05-can-big-data-analytics-and-machine-learning-help-contain-wildfire-next-time.md",
       "title": "Can Big Data Analytics and Machine Learning Help Contain Wildfire Next Time?",
       "excerpt": "Researchers are developing tools to predict wildfire leveraging technology, real-time data to prevent devastation",
@@ -659,6 +758,55 @@
       ]
     },
     {
+      "path": "_news/2020-09-04-3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design.md",
+      "title": "3 Predictions For The Role Of Artificial Intelligence In Art And Design",
+      "excerpt": "Artificial Intelligence (AI) is transforming many aspects of our lives and businesses, and art and design are no different. In this post we look at the role AI will play in art and design and explore its role in enhancing human creativity as well as autonomous machine creativity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/",
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f51c38ba72e09805e578c53%2F0x0.jpg",
+          "width": 1199,
+          "height": 872,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/amp/",
+      "publishedDateTime": "2020-09-03T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-daimler-trucks-using-nm-to-test-self-driving-vehicles.md",
       "title": "Daimler Trucks using NM to test self-driving vehicles",
       "excerpt": "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes. The companies have established a new testing center in ...",
@@ -830,7 +978,7 @@
       "webUrl": "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/",
       "originalUrl": "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/",
       "featuredContent": null,
-      "heat": 270,
+      "heat": 280,
       "tags": null,
       "images": [
         {
@@ -1020,156 +1168,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-x-ray-vision-in-the-warehouse-thruwave-raises-64m-to-help-online-retailers-see-through-packages.md",
-      "title": "X-ray vision in the warehouse: ThruWave raises $6.4M to help online retailers see through packages",
-      "excerpt": "Seattle startup ThruWave just raised a $6.4 million round for its futuristic technology that uses millimeter waves to see through packaging. Fortune 100 customers in retail and e-commerce",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/x-ray-vision-warehouse-thruwave-raises-6-4m-help-retail-companies-see-packages/",
-      "originalUrl": "https://www.geekwire.com/2020/x-ray-vision-warehouse-thruwave-raises-6-4m-help-retail-companies-see-packages/",
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/ThruWave-Founders-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/x-ray-vision-warehouse-thruwave-raises-6-4m-help-retail-companies-see-packages/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/x-ray-vision-warehouse-thruwave-raises-6-4m-help-retail-companies-see-packages/amp/",
-      "publishedDateTime": "2020-09-03T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos.md",
-      "title": "AI researchers use heartbeat detection to identify deepfake videos",
-      "excerpt": "AI researchers are using heartbeat detection to identify deepfake videos and even to figure out what kind of generative model created a deepfake.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/",
-      "originalUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/ppg-cells.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/amp/",
-      "publishedDateTime": "2020-09-03T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-myst-ai-claims-its-ai-energy-prediction-technology-boosts-utilities-reliability.md",
-      "title": "Myst AI claims its AI energy prediction technology boosts utilities’ reliability",
-      "excerpt": "Myst AI, a startup developing an energy forecasting system, has nabbed $6 million in funding from investors including Google's AI-focused firm.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/03/myst-ai-claims-its-ai-energy-prediction-technology-boosts-utilities-reliability/",
-      "originalUrl": "https://venturebeat.com/2020/09/03/myst-ai-claims-its-ai-energy-prediction-technology-boosts-utilities-reliability/",
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6cd663ee-b571-428e-8665-0dadb7cbc371-e1587321011520.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/03/myst-ai-claims-its-ai-energy-prediction-technology-boosts-utilities-reliability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/myst-ai-claims-its-ai-energy-prediction-technology-boosts-utilities-reliability/amp/",
-      "publishedDateTime": "2020-09-03T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

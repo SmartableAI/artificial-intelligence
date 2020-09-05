@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Vanderbilt Proface X TD Facial Recognition Terminal with Temperature Detection"
-excerpt: "Powered by the ZKTeco-customized CPU for running the intellectualized engineeringfacial recognition algorithm and the latest computer vision technology, ProFace X [TD] supports both facial and palm verification with large capacity and rapid recognition ..."
-publishedDateTime: 2020-09-02T23:59:00Z
-originalUrl: "https://www.sourcesecurity.com/vanderbilt-proface-x-td-access-control-reader-technical-details.html"
-webUrl: "https://www.sourcesecurity.com/vanderbilt-proface-x-td-access-control-reader-technical-details.html"
+title: "CBP Should Address Facial Recognition System Performance and Privacy Issues, GAO Says"
+excerpt: "A Government Accountability Office (GAO) review has found that U.S. Customs and Border Protection (CBP) has made progress testing and deploying facial recognition technology (FRT) at ports of entry to create entry-exit records for foreign nationals as part of its Biometric Entry-Exit Program."
+publishedDateTime: 2020-09-05T14:29:00Z
+originalUrl: "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/cbp-should-address-facial-recognition-system-performance-and-privacy-issues-gao-says/"
+webUrl: "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/cbp-should-address-facial-recognition-system-performance-and-privacy-issues-gao-says/"
 type: article
-quality: 35
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: SourceSecurity
-  domain: sourcesecurity.com
+  name: Homeland Security Today
+  domain: hstoday.us
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://security-img.scdn6.secure.raxcdn.com/products/400/proface-x-td-400.jpg"
-    width: 400
-    height: 400
+  - url: "https://www.hstoday.us/wp-content/uploads/2020/09/cbpbiometrics.jpg"
+    width: 1097
+    height: 700
     isCached: true
 
 related:
@@ -101,19 +101,19 @@ related:
         width: 1440
         height: 720
         isCached: true
-  - title: "CBP Should Address Facial Recognition System Performance and Privacy Issues, GAO Says"
-    excerpt: "A Government Accountability Office (GAO) review has found that U.S. Customs and Border Protection (CBP) has made progress testing and deploying facial recognition technology (FRT) at ports of entry to create entry-exit records for foreign nationals as part of its Biometric Entry-Exit Program."
-    publishedDateTime: 2020-09-05T14:29:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/cbp-should-address-facial-recognition-system-performance-and-privacy-issues-gao-says/"
+  - title: "Vanderbilt Proface X TD Facial Recognition Terminal with Temperature Detection"
+    excerpt: "Powered by the ZKTeco-customized CPU for running the intellectualized engineeringfacial recognition algorithm and the latest computer vision technology, ProFace X [TD] supports both facial and palm verification with large capacity and rapid recognition ..."
+    publishedDateTime: 2020-09-02T23:59:00Z
+    webUrl: "https://www.sourcesecurity.com/vanderbilt-proface-x-td-access-control-reader-technical-details.html"
     type: article
     provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 32
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 35
     images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/09/cbpbiometrics.jpg"
-        width: 1097
-        height: 700
+      - url: "https://security-img.scdn6.secure.raxcdn.com/products/400/proface-x-td-400.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Biometric facial recognition audit shows CBP has some privacy and notification work to do"
     excerpt: "A government performance audit looking into the use of facial biometrics by the U.S. Customs and Border Protection agency found that is not fully safeguarding the privacy of travelers. Although"
@@ -144,6 +144,6 @@ related:
         height: 1035
         isCached: true
 
-secured: "CTLF1dqsp41HZFsbvQXhkn5c+qNTWpt5gKB5iVdLHtvmXEvCsS1piBjwRKmYX4B9tdKehbw4UujnWys1KE4sOM55/NNtO1fI50qRJBr4smGf/QFWBZAeoVoUul20RP653mdyggMlOjaGNrvb/qlnBamhIVNIKc2gdceZrbybpJatRSXxHwMAY0Ji1RcZm7Bco1POr3N9uuU+NAJnIbYYAw2ayqLTqV1GXOAeKQObAORHFw2g6jsIQU8pSuvw9SHKYdB20SxkKLSlchD5iZI4muaTL3w7QjI7cocL9aYpM2xvru2nCdkW34KS3g3W+YQ3C/I4COQiiuhzKYjaW2H1upEKNaQr033u4ZJwZF5iCFE=;AO7NKv45SLNXy2EVtk844w=="
+secured: "/QBVfcUuouZBFJm9sEMdFLgfT3qxHuZwMJLw8KxGYubOq8qR7pmlHjS1BAWw+LvPecTBNW0jip2xVFQ9gl7NwvHgXm+Jo2fmEHtTiwcPeQcQMAW+21VcI2Q0T/XsH0vpN45ZwkJGrZTn4ySYKe4sZXkhmbEHYuYr03PgXeh9eJpNU+EJuOrOPa4IDpuemGqqnqtb988a8zI2yYyO2TkbXh1Gg5AvVrmkfqwR7P1iwaNYdWE8XIaZj9p+AJbd5YlZh7kbN6oYPN2eF/96zOWPm8lkkAAi+LcRvd434fEmZdu0g4gYcm0OWB2L0G0+Tx+rv/MU2QGBSMkQGHJNQ752588bCKaEap5vUGNYChjxuh4=;8juaHysh92ICSiDioB1l1w=="
 ---
 

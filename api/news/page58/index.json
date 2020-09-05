@@ -2,6 +2,198 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-07-21-machine-learning-artificial-intelligence-market-next-big-thing-major-giants-aibrain-amazon-anki-cloudminds.md",
+      "title": "Machine Learning Artificial intelligence Market Next Big Thing | Major Giants AIBrain, Amazon, Anki, CloudMinds",
+      "excerpt": "A New business Strategy report released by HTF MI with title Global Machine Learning Artificial intelligence Market Study Forecast till 2026 This Global Machine Learning Artificial intelligence market report brings data for the estimated year 2020 and forecasted till 2026",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2094065/machine-learning-artificial-intelligence-market-next-big-thing",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T721816721_g.jpg",
+          "width": 539,
+          "height": 359,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2094065/machine-learning-artificial-intelligence-market-next-big-thing",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2094065/machine-learning-artificial-intelligence-market-next-big-thing",
+      "publishedDateTime": "2020-07-21T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-entertainment-robots-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2023.md",
+      "title": "Entertainment Robots Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2023",
+      "excerpt": "Global Entertainment Robots Market 2020 Research Report offers up-to-date information and historical data on Entertainment Robots market. The study provides historic data along with a forecast based on both sales and revenue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2023-2020-07-21",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-how-nasa-built-a-self-driving-car-for-its-next-mars-mission.md",
+      "title": "How NASA Built a Self-Driving Car for Its Next Mars Mission",
+      "excerpt": "Perseverance is significantly more autonomous than any of NASA’s previous four rovers and is designed to be what Philip Twu, a robotics system engineer at NASA’s Jet Propulsion Laboratory, calls a “self-driving car on Mars.” Like the ones on Earth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f15b1cc3be74bc75e5b4ca0/master/pass/Science_Marscomputer_PIA23469-IOTW-full_res.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/amp",
+      "publishedDateTime": "2020-07-21T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-smarthops-ai-tool-matches-small-freight-carriers-with-available-loads.md",
+      "title": "SmartHop’s AI tool matches small freight carriers with available loads",
+      "excerpt": "SmartHop, a startup leveraging AI to match small freight carriers with available loads, has secured $4.5 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/21/smarthops-ai-tool-matches-small-freight-carriers-with-available-loads/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Smarthop-1.jpg?w=1200&#038;strip=all",
+          "width": 1152,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/21/smarthops-ai-tool-matches-small-freight-carriers-with-available-loads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/smarthops-ai-tool-matches-small-freight-carriers-with-available-loads/amp/",
+      "publishedDateTime": "2020-07-21T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "IPsoft’s Amelia’s Now Available in the Microsoft Azure Marketplace",
       "excerpt": "As a Microsoft Partner, IPsoft supports Microsoft Azure customers, sellers and other partners worldwide in using the conversational AI platform to solve real business issues and drive efficiencies through automation. \"We are delighted to become a Microsoft ...",
@@ -912,206 +1104,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings.md",
-      "title": "Researchers’ AI system strips identifiable attributes like gender from speech recordings",
-      "excerpt": "Researchers propose an AI and machine learning technique that preserves privacy by obfuscating speech recordings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/alexa-on-book-e1595272380870.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/amp/",
-      "publishedDateTime": "2020-07-20T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-query-drug-adverse-effects-and-recalls-based-on-natural-language-using-amazon-comprehend-medical.md",
-      "title": "Query drug adverse effects and recalls based on natural language using Amazon Comprehend Medical",
-      "excerpt": "In this post, we demonstrate how to use Amazon Comprehend Medical to extract medication names and medical conditions to monitor drug safety and adverse events.&nbsp;Amazon Comprehend Medical&nbsp;is a natural language processing (NLP) service that uses machine learning (ML) to easily extract relevant",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/query-drug-adverse-effects-and-recalls-based-on-natural-language-using-amazon-comprehend-medical/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/20/querying-open-source-1-1.jpg",
-          "width": 820,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T12:00:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects.md",
-      "title": "CMU and Facebook AI Research use machine learning to teach robots to navigate by recognizing objects",
-      "excerpt": "Carnegie Mellon today showed off new research into the world of robotic navigation. With help from the team at Facebook AI Research (FAIR), the university has designed a semantic navigation that helps robots navigate around by recognizing familiar objects.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-20-at-2.32.52-PM.jpg?w=1024",
-          "width": 1024,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/amp/",
-      "publishedDateTime": "2020-07-20T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-ai-maturity-survey-details-shift-from-the-early-adopter-phase-into-a-new-era.md",
-      "title": "AI maturity: Survey details shift from the early-adopter phase into a new era",
-      "excerpt": "A new Deloitte report details some of the concerns and market factors influencing the future of AI adoption. In the age of digital transformation, an increasing number of organizations are looking to tap artificial intelligence (AI) technologies to streamline day-to-day operations and revolutionize their business models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-maturity-survey-details-shift-from-the-early-adopter-phase-into-a-new-era/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/20/91108afb-7fb5-4420-81d0-bd58bf3627f1/resize/1200x/7f61b06ef5676206de7ab201658a09d1/deloitte-ai.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-maturity-survey-details-shift-from-the-early-adopter-phase-into-a-new-era/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-maturity-survey-details-shift-from-the-early-adopter-phase-into-a-new-era/",
-      "publishedDateTime": "2020-07-20T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

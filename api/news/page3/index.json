@@ -2,6 +2,104 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-03-these-students-figured-out-their-tests-were-graded-by-ai-and-the-easy-way-to-cheat.md",
+      "title": "These students figured out their tests were graded by AI — and the easy way to cheat",
+      "excerpt": "That wasn’t on a practice test — it was his real grade. “He was like, I’m gonna have to get a 100 on all the rest of this to make up for this,” said Simmons in a phone interview with The Verge. “He was totally dejected.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch",
+      "originalUrl": "https://www.theverge.com/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch",
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/PnEUlNVe6AoLUQpgQuPBlyPHCaQ=/0x0:2040x1364/1400x933/filters:focal(857x519:1183x845):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67345411/pesposito_200420_3983_0009.0.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch",
+      "publishedDateTime": "2020-09-02T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis.md",
+      "title": "Fujitsu and Tokyo Shinagawa Hospital to develop AI for COVID-19 pneumonia diagnosis",
+      "excerpt": "Fujitsu and Tokyo Shinagawa Hospital have announced a partnership to jointly develop artificial intelligence (AI) technology that can be used to help with early detection of COVID-19 pneumonia, even in cases where the possibility of infection is determined ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
+      "originalUrl": "https://www.zdnet.com/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/03/6a3a21c6-901a-4897-ab7b-8a4bdbac1bcf/fujitsu-tokyo-hospital-ai-research.jpg",
+          "width": 607,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
+      "publishedDateTime": "2020-09-02T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants.md",
       "title": "Siri Shortcuts And Google Assistant Shortcuts Reveal The Future (And Danger) Of Smart AI Assistants",
       "excerpt": "In iOS 12, Apple started rolling out Siri Shortcuts. In iOS 14, they’re getting much smarter and more pervasive. Now Google is rolling out shortcuts for Google Assistant. In doing so, they’re both showing us the near future power of AI-driven smart assistants.",
@@ -823,6 +921,46 @@
       ]
     },
     {
+      "path": "_news/2020-09-02-pentagon-picks-google-cloud-for-ai-assisted-cancer-diagnoses.md",
+      "title": "Pentagon picks Google Cloud for AI-assisted cancer diagnoses",
+      "excerpt": "The Pentagon's Defense Innovation Unit has chosen Google Cloud to develop artificial intelligence solutions for cancer screenings, the company announced on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/",
+      "originalUrl": "https://www.upi.com/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/",
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/9851599061140/2020/1/15990616567771/v1.5/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses.jpg",
+          "width": 507,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/",
+      "publishedDateTime": "2020-09-02T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers.md",
       "title": "To build responsibly, tech needs to do more than just hire chief ethics officers",
       "excerpt": "Sarah Drinkwater works to fuel the responsible tech movement through her role as director at Omidyar Network. In the last couple of years, we’ve seen new teams in tech companies emerge that ...",
@@ -1059,120 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-cognizant-ctsh-set-to-buy-azure-specialist-10th-magnitude.md",
-      "title": "Cognizant (CTSH) Set to Buy Azure Specialist 10th Magnitude",
-      "excerpt": "Undoubtedly, the latest 10th Magnitude deal will further expand Cognizant’s Microsoft Azure expertise. Acquisitions have played an important part in charting out Cognizant’s growth trajectory by strengthening its digital capabilities,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/cognizant-ctsh-set-to-buy-azure-specialist-10th-magnitude-2020-09-02",
-      "originalUrl": "https://www.nasdaq.com/articles/cognizant-ctsh-set-to-buy-azure-specialist-10th-magnitude-2020-09-02",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/cognizant-ctsh-set-to-buy-azure-specialist-10th-magnitude-2020-09-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cognizant-ctsh-set-to-buy-azure-specialist-10th-magnitude-2020-09-02?amp",
-      "publishedDateTime": "2020-09-02T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-8-innovative-robotics-stocks-to-buy-right-now.md",
-      "title": "8 Innovative Robotics Stocks to Buy Right Now",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips Despite the carnage caused by the novel coronavirus, the one investment sector",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/8-innovative-robotics-stocks-to-buy-right-now-1029556778",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/8-innovative-robotics-stocks-to-buy-right-now-1029556778",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/8-innovative-robotics-stocks-to-buy-right-now-1029556778",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/8-innovative-robotics-stocks-to-buy-right-now-1029556778",
-      "publishedDateTime": "2020-09-02T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure.md",
-      "title": "dunnhumby Reduces Time to Action for Data Scientists via New Tool on Microsoft Azure",
-      "excerpt": "Press Release dunnhumby, the global leader in customer data science, has launched its new web-based application on Microsoft Azure, enabling data scientists to deliver customer insights faster, driving profitability and customer loyalty.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/",
-      "originalUrl": "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/",
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/amp/",
-      "publishedDateTime": "2020-09-02T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

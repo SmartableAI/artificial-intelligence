@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-dete
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 102
 published: true
 
 provider:

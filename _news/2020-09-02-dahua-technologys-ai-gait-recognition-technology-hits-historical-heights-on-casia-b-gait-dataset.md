@@ -63,17 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facial recognition technology used to arrest man accused of attempted rape on NYC subway platform"
-    excerpt: "The New York Police Department arrested a man accused of attempting to rape a woman on a subway platform with the help of facial recognition technology."
-    publishedDateTime: 2020-08-31T21:18:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 26
 
 secured: "mpTB1YC3GHnZJKn82WiHD+XxkroQwl7Hp/I4CEpr3yI+Md90V2Eu39L1UmJzHhNi9ug6S2M5xqeblfCJ+QrEvmLgF29Ej3PIbPWb9/iLYNAy1RwjQykwkkP5kxNxtUok66FYxeQNJYApi6D6aekgeCjvQgPgIny5dDe2ZPpIso3fHXploptdrSKjPaUqk4+4GtelN4ufUalB/AeqD3S08KOS/e6cIfOwMBKUxESXgWtohtfEgZLa3K+CNdr9nJORJcUGi0b5/HiKfULjOhq/zCL1+eynM4zqwC8cVbIBk4E/Z0lfgnGLCoM6/1Qih6WxTGC1natZdY9Gtv+wLpVMFcSCcx3mwwjSWqDmGuGzuTqwXR0bDhGR2uV/RyOc+8c0BhCKHNbceoWjV+XOTgTKjeoqlypHI/AAExZ4hssI5SFCA7RRZFOAc14qifLqUJy8+0bjY6iYQTA/D6rJH8rgvupPrxB6zwe7Ru5xqvfvl9XeoRJL7zo46eJxMAb6Xea73Pi5+q797Bdg/R6KSKKJrMFXVR7NdBmWRr7OldPlaeQ=;wHg1ZjoL9fDd7qwQlnDOgQ=="
 ---
