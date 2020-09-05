@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17320531"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17320531"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: Benzinga.com
@@ -21,31 +21,29 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Azure now available at Swisscom cloud portfolio for SMEs"
-    excerpt: "(PRESS RELEASE) BERN, 31-Aug-2020 — /EuropaWire/ — Swisscom (SWX: SCMN), a major telecommunications provider in Switzerland majority owned by the Swiss Go"
-    publishedDateTime: 2020-08-31T13:26:00Z
-    webUrl: "https://news.europawire.eu/microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes/eu-press-release/2020/08/31/15/23/49/81419/"
-    ampWebUrl: "https://news.europawire.eu/microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes/eu-press-release/2020/08/31/15/23/49/81419/amp/"
-    cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes/eu-press-release/2020/08/31/15/23/49/81419/amp/"
+  - title: "MojoRank's Intelligent Recruiting Solution Now Available on Microsoft AppSource"
+    excerpt: "MojoRank, a leader in artificial intelligence recruiting and diversity hiring solutions for human resource organizations, today announced"
+    publishedDateTime: 2020-09-01T12:38:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mojoranks-intelligent-recruiting-solution-now-available-on-microsoft-appsource-301121068.html"
     type: article
     provider:
-      name: EuropaWire
-      domain: europawire.eu
-    quality: 69
-  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
-    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource o"
-    publishedDateTime: 2020-09-02T07:41:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 68
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 50
     images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo_2.jpg"
-        width: 620
-        height: 254
+      - url: "https://mma.prnewswire.com/media/1246036/Product_home_page.jpg?p=facebook"
+        width: 5157
+        height: 2700
         isCached: true
+  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
+    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing applications and services tailored to specific business needs."
+    publishedDateTime: 2020-09-02T07:41:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 48
 
 secured: "+jxUsf1dsKAtAzLGureAL15G4W4cC4qSqMvackM2roYj36ht3kikxBJoRj8DmA8IRClVRwYFdQUamch670WORsB041ax+g7HlA2byq8DpDBtrNW/3GssiJgLQhwfNwUJ8uDC3OIC6NM7uZ6knfB2AWA/cJJP62SaZ8LD2XKGrpuoq3BxZ+hVJt5GUqamnAnpSFStXMs+LF+ba3doDI9638+e+nWAt6O1atZoRHh30hHdRjqORvpmaEchzBafhMHoIYz7aERDa+mvs3BZhqq0Dzc5N/EKAlCoesqprPNJs8RaDikbSRyOKFD/hNM3FCpBURGKPOJzoWtrvhyFjYCaRGkmHwOwwPjJVFKCv+JsbSQ=;jl+D0yZW6UCmcGUOhJX+IQ=="
 ---

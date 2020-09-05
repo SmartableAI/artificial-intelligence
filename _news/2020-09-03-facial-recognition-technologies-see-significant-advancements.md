@@ -25,36 +25,55 @@ images:
     isCached: true
 
 related:
-  - title: "Adoption Of Technologies Like AI, ML By the Insurance Sector"
-    excerpt: "While businesses across sectors are embracing technology-enabled solutions, technological innovation continues to outpace technological adoption"
-    publishedDateTime: 2020-08-31T13:42:00Z
-    webUrl: "https://www.entrepreneur.com/article/355541"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/355541"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/355541"
+  - title: "Atlanta airport plans to test facial recognition, touchless technology"
+    excerpt: "Jackson Atlanta International Airport plans to test facial recognition at check-in counters in the domestic terminal, part of a broader push to introduce more touchless technology in response to the coronavirus."
+    publishedDateTime: 2020-09-01T01:12:00Z
+    webUrl: "https://www.thenewstribune.com/news/nation-world/article245384385.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/article245384385.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/article245384385.html"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 87
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1598881319-artificial-intelligence-3382507-1920.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "IPC and GreenKey Technologies Launch Dictation as a Service"
-    excerpt: "Dictation as a Service brings together GreenKey Technologies' industry-leading cloud-based speech recognition (automatic speech recognition) and natural language processing (NLP) engine with IPC's unparalleled Connexus Cloud financial ecosystem."
-    publishedDateTime: 2020-09-03T13:20:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ipc-and-greenkey-technologies-launch-dictation-as-a-service-301123920.html"
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 54
+  - title: "Dahua Technology’s AI Gait Recognition Technology hits historical heights on CASIA-B gait dataset"
+    excerpt: "Dahua Technology, a globally renowned video-centric smart IoT solution and service provider, made new breakthroughs in the field of AI technology recently. Various indicators of its Gait"
+    publishedDateTime: 2020-09-02T07:19:00Z
+    webUrl: "https://www.sourcesecurity.com/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 46
     images:
-      - url: "https://mma.prnewswire.com/media/741264/GreenKey_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/cctv-remote-monitoring-920.jpg"
+        width: 612
+        height: 355
         isCached: true
+  - title: "Reporter Update: Open Hearing On Facial Recognition Technology"
+    excerpt: "Pittsburgh City Council will hold an open hearing today regarding the usage of facial recognition technology by police. One councilman says if they were to get the technology, it would do more harm than good."
+    publishedDateTime: 2020-09-02T11:39:00Z
+    webUrl: "https://pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
+  - title: "Facial recognition technology used to arrest man accused of attempted rape on NYC subway platform"
+    excerpt: "The New York Police Department arrested a man accused of attempting to rape a woman on a subway platform with the help of facial recognition technology."
+    publishedDateTime: 2020-08-31T21:18:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/facial-recognition-technology-used-to-arrest-man-accused-of-attempted-rape-on-nyc-subway-platform?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 26
 
 secured: "RxXUkDciMS9EvkC8CZVtY/nZQS3oz2jBjmmvlV9PYVxA3J8H8jo1YqC2mAKXJGIVYmMV954zux0ha9Mx23ZGR0rRoTUF8YNyRVDXkj+z82/LGGT+1ky/bbsfuHkpTATUbyKRY/cMczfMTbGz0KcnfpYf7k+h7EOJ0bVl5XYYtvnbOa47P814OPN/0hfqPTDrCKW+18TWn8svQpGwfj29o6n1oOdU32VS1mwZfCkjY+PxvhHx455yB8+WnpMnCjIdP5APzAzp/eN3fRn42+0f7NdUGbqSsqDC5HQKNs43Dq8fqZ7OT8rIYvSiY2eaM5t05S67AgUm8upJmwLpzsFk7+V5Zh19Z/51SH4a+mzJkLYF5hKmU3a8kCd7/ayDB94Ek9rtn/3FiRlxA61SF9Anhgfk3iXD40uxj3uj0jK5Pq2JcFLtVHqBoVF8UamvrnTheCQyQMi7FSXnjPkLvnWW2mZkwU8Vh0RqM+LbcAz3P88oC9h4FPULt63Ma2NYDjJ4A5iVC8kwQNV84Oh+CV4NHdCzYeWDf08Wtja0c1rscFw=;UM80+mDjDGt4MQGUjq85qQ=="
 ---

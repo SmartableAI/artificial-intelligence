@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Maps using DeepMind AI to predict your arrival time"
+    excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
+    publishedDateTime: 2020-09-04T05:21:00Z
+    webUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+    ampWebUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 74
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/9/2020_9$largeimg_1012661407.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "This is how Google Maps uses DeepMind AI to predict your arrival time; read here"
     excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
     publishedDateTime: 2020-09-04T05:52:00Z
@@ -182,20 +198,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/google.png"
         width: 867
         height: 486
-        isCached: true
-  - title: "Google Maps using DeepMind AI to predict your arrival time"
-    excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
-    publishedDateTime: 2020-09-04T07:03:00Z
-    webUrl: "https://www.dailypioneer.com/2020/technology/google-maps-using-deepmind-ai-to-predict-your-arrival-time.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 54
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/google-maps-using-deepmind-ai-to-predict-your-arrival-time-2020-09-04.jpg"
-        width: 1000
-        height: 800
         isCached: true
 
 secured: "pBkxh861c8Z7bVLsJREZZK1n9W79vKDAzMEjhXm5BxQf49g30bg9U/RTEU5uJIMLmabqkEflGuRvB98KEC2DtUP9BIVh6LKz905n8t2ve34r1HdhT+s7Ttsvos7tkXHkjzOJyXREpaGqQ+WEZbZXaAWqPqy9IzocSxBkcciptqt8S4a5t7NF/uVaUrzYliteKYchMdoN04tl9fgeSIw3XkfzlzswuMcfxy6uRLT4Bl6TwLff73gN4KDKq10Rrg/NEXLJSva0M3DceD+zihWR0L3EGOF+oIXIVulGh86ywKARnw05qdI3ewyW+MoabZ2irva8KyUsAXwfL3AVK7f6wbRujB26s26Y/0WjJIiLuiUMaaAiHG40tIdk69R9pWN17zIb4DAcIIjAMEZF3btkFEruYWBTj+HK+kOZOjmsm32Yp9vTTRR69k6XN7/AV/4ukYP3TeGXcrObjuhdDVFnNBIuytEaFlevH4LAYgg1ipGZ+SBLonD9P77P3puxLGBanZm5wgkRkGWfpzd96d6E3uwxY4ipXPDKJGnjqMLVERk=;le2PbnNjIkctqk/mKjd1sA=="

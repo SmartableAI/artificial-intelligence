@@ -67,6 +67,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.gamespot.com/articles/nvidia-reveals-rtx-3090-3080-3070-gpu-price-releas/1100-6481673/</loc>
+    <lastmod>2020-09-03T16:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/</loc>
     <lastmod>2020-09-03T14:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -97,7 +103,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/</loc>
+    <loc>https://thenextweb.com/podium/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/</loc>
     <lastmod>2020-09-03T10:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -691,6 +697,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source</loc>
+    <lastmod>2020-08-31T16:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/louiscolumbus/2020/08/31/how-an-ai-platform-is-matching-employees-and-opportunities/</loc>
     <lastmod>2020-08-31T15:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -883,7 +895,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

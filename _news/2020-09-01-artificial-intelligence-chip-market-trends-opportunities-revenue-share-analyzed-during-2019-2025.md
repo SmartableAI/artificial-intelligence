@@ -101,18 +101,18 @@ related:
         height: 630
         isCached: true
   - title: "Artificial Intelligence in Government: Global Markets 2020-2025 - ResearchAndMarkets.com"
-    excerpt: "The Artificial Intelligence (AI) in government market was valued at US$4.904 billion in 2019. In recent years, government in different countries are taking a keen interest in artificial intelligence (AI) technology."
+    excerpt: "In recent years, government in different countries are taking a keen interest in artificial intelligence (AI) technology. They are increasingly investing in artificial intelligence (AI), spending budget,"
     publishedDateTime: 2020-08-31T17:28:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200831005637/en/"
+    webUrl: "https://www.oaoa.com/news/business/artificial-intelligence-in-government-global-markets-2020-2025---researchandmarkets-com/article_1ab5f429-f354-5edf-8a7b-1bb403297447.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 28
     images:
-      - url: "https://mms.businesswire.com/media/20200831005637/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
         isCached: true
 
 secured: "Qdk236U6d/5ZlsEPVEh7quShmAXFbwl6gqUSV7j96DwUy/AWnm7MVd22uMFgEQqxhw1oTvGss7f85N5895LGHd+yg5w9DEjWbiUZpm6o2tfh9RJw4DGAhc6zYcDL3ezp07107GbaJ795Qr6WK8eAmZHaeuQs5QQaq3yVYpsM1LP7VqhUH54KXf0snJ13fxCtJQAH0YoAaLNmr8fGrR2guL62detcGGeVn25IVK7++LVZMkyny93Z9P903K+0psebhqMrm8f+yjKEX7+7rITSSfdFQdLBzlP68FW7fYVLctSs6XkOMdN566Ddo9tg6WbKwnswPKK0qz+M0oa4SJCD4s9K8WrPEWkORXk2Gwe/EFM=;Zanwa/1SdrOaPpCuhGqcnw=="

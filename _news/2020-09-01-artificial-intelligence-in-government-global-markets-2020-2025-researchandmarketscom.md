@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence in Government: Global Markets 2020-2025 - ResearchAndMarkets.com"
-excerpt: "The Artificial Intelligence (AI) in government market was valued at US$4.904 billion in 2019. In recent years, government in different countries are taking a keen interest in artificial intelligence (AI) technology."
+excerpt: "In recent years, government in different countries are taking a keen interest in artificial intelligence (AI) technology. They are increasingly investing in artificial intelligence (AI), spending budget,"
 publishedDateTime: 2020-08-31T17:28:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200831005637/en/"
-webUrl: "https://www.businesswire.com/news/home/20200831005637/en/"
+originalUrl: "https://www.oaoa.com/news/business/artificial-intelligence-in-government-global-markets-2020-2025---researchandmarkets-com/article_1ab5f429-f354-5edf-8a7b-1bb403297447.html"
+webUrl: "https://www.oaoa.com/news/business/artificial-intelligence-in-government-global-markets-2020-2025---researchandmarkets-com/article_1ab5f429-f354-5edf-8a7b-1bb403297447.html"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200831005637/en/371054/23/ResearchAndMarkets_800px.jpg"
-    width: 1200
-    height: 627
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
     isCached: true
 
 related:
@@ -109,6 +109,6 @@ related:
         height: 630
         isCached: true
 
-secured: "CsRMqPDYxpk82Qb3+xNPFqpWJ4hSi/zk7GYCkVNoQ7NnCjk7+KLv4w6Wqo5DJ8MIbh7bSqYr7KOVkxG4j3ZtiVyKCUpY/iZZCSaLn5FTr6wHvTl9YCej1KDIvHyVfKkBR///rTbORm758Je1Pl79Z1xPfkqnY9aHHbHKkvrVYkUi8FWsLwh8yvSHXPnrg9F4OLB9J+OiKCN/xGV0KchRRwHTVR3VeIKooW+I54PiGtqnsIvhARoRwC1O5+RcNbYHULIb8D9Sf8kYOHKACm6AONhHcbzxkKqVu/GKZCVxBWkcUkpfWyrm2rhzCPzvr7eATi8m32LNDciraLroDYeam1FAwggT9jj06kuGG1rSl4w=;gGnTDMDWfnvne1JxnlZE2g=="
+secured: "qG83hS8b38eHu3WIgQkfApAfnehXd6w+mW2xDdXBRXk8HCSkRag4sJf5lx2g4RM7ehWI2CxfsuFRjKXl6sBn0wom3DlDPNlxgiRYO3U/XFVrQmLteX+yZBfht7VSvfPp/HySX5aV6p0FP+6nw0OkSFEpuHwo2v0oNYsZOOyEHxfVAn5ikilkJg6MzhFUu7ZlzP7VxMyJQ8optgV/j8+QwJntzSFrCzIwMTFmUdCwAW6h38e5UA8NTgnFIy+z+1SzuklNW2WdGSwjOVOuV/hxdYK9Jl1+qiukGZOIYHHwrNLui8QGOsMq08IzLyhj/d6RXCKkt3goXu4YoHIOryV24kprDASBxGsiHZdNV8ImXQE=;Vcu23HM7wVUu+upiqY/2kQ=="
 ---
 

@@ -49,6 +49,20 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
+  - title: "Facial recognition technologies see significant advancements"
+    excerpt: "Despite some of the negative connotations associated with the technology, facial recognition has merit across many security applications"
+    publishedDateTime: 2020-09-03T16:21:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21152899/serious-advancements-in-facial-recognition-technologies"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/09/GettyImages_913641954.5f4fdc9f8b8b1.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facial recognition technology used to arrest man accused of attempted rape on NYC subway platform"
     excerpt: "The New York Police Department arrested a man accused of attempting to rape a woman on a subway platform with the help of facial recognition technology."
     publishedDateTime: 2020-08-31T21:18:00Z

@@ -59,6 +59,20 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
+  - title: "Facial recognition technologies see significant advancements"
+    excerpt: "Despite some of the negative connotations associated with the technology, facial recognition has merit across many security applications"
+    publishedDateTime: 2020-09-03T16:21:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21152899/serious-advancements-in-facial-recognition-technologies"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/09/GettyImages_913641954.5f4fdc9f8b8b1.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "DpoSH5g47oRxH2FGRI4pHhkTIF17MWZWRCAm0c//76Lfoko2FaHMWvYic6nD/Ji7FBtIO/WtdudeM9zrDAjhGTYJFoiSfifAkDiEPyM0p2dnUibsSiV3hpgf+R2uHH3kI3XyDoxUhDR89eSyd+RPOXwOqvu5nlpgCpHi2+rJjHgxkc6oyMBrscnh6q6mfea+GoSwyl+qRTd0tqQaKUcLLhlLHdqNMCTP1twYbDls4uIcei4WsWD3Y01lIXFNpgTu8wOTKgucAtDCfeazXBIqah0zJVvvA5+oK7+/oedJqETkyIQ1ZFh2SCh718WiVMVFOOhvHWKeGx1ha+AF2NTYqV9X3ACC1+JGv0jYNMjkuKNUUsiF4rLj5dlGli/C1iQ+u9q0GoDfo6zaxemzmLHHIyUZpR3DE6VW5uyDCn6DHTfjfR6dgIo41g86klipkqDr4qx06/1n+lXeqS615uaGgjF+5hsYegBPVq4Fa2vwTxYguUj6fBuKIuGI40e2R/p1/NrFMRKEDVJ8t5rC58vrELgYb0whEbfUFZcMB4olsDE=;lytCnf4Rv584Bkxc7q35Cw=="
 ---

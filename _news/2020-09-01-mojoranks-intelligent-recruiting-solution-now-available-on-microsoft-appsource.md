@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/mojoranks-intelligent-rec
 webUrl: "https://www.prnewswire.com/news-releases/mojoranks-intelligent-recruiting-solution-now-available-on-microsoft-appsource-301121068.html"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,28 @@ images:
     width: 5157
     height: 2700
     isCached: true
+
+related:
+  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
+    excerpt: "Microsoft customers can now gain access to Call Journey's AI-powered Conversation Analytics technology to drive customer experience, enhance employee engagement,"
+    publishedDateTime: 2020-08-31T23:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17320531"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17320531"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 68
+  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
+    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing applications and services tailored to specific business needs."
+    publishedDateTime: 2020-09-02T07:41:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 48
 
 secured: "kddDgucMD7YH803bzcrQUcGacqqU3N6gQXWpBp03EHW7FrWunmK0ryMPjxWUrcKdvevVJVjSS1Swv3cAALtTTIs93o4ZTXauBts6sC9IZgZ0zAEJ9UWAVr0TXyRW5f2medeq44q2GxQVFlmkrU2Ca/V1uzu1ixbPiGNL4zuYvUpx9i4f1RHSDcExmVd6ZUWDNU8zTFuZnm60OFMp0ZdxXPDlCVY72rXLc1We9/Io8h7j6tpTewO89+qtO7Dmfu83U4v/zZfVH0YuqLPjh2h66iogqpnlhhCrUsjcdYacD0PmvcRV4nbltemV7WVyRCfQi23RpPQbK9wrZ68slO2e96hKQ2PXfL/96tpGsaUjGpQ=;L9WRYHTizg70fdgcXPdKaQ=="
 ---
