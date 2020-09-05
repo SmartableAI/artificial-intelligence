@@ -3,8 +3,8 @@ category: news
 title: "AI In Computer Vision Market: Dynamics, Segments, Size, and Demand Analysis during 2021-2024 | Impact of COVID-19 Pandemic"
 excerpt: "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,"
 publishedDateTime: 2020-09-03T07:06:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03"
-webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03"
+originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03?mod=mw_quote_news"
 type: article
 quality: 58
 heat: 68
@@ -44,6 +44,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ap2e9vL3OAaCAYGn3qvsXXgFDya3NxBSfQjMw8wftD1WSdHxZtNnrFrghbkSR1LZxZ1jtQgTiNHGgG8abfnX2uMkJBarieus/R+Es6nD3uWEBMxJl3A7oK7XcNRkBoWji/yHGrL5QCyY56E4ryX+5hOALzBD37zHqkWsg7HIq2lguyFYKCCJGy/1CI+iNOlOaV1942F4rnNJJNIFA8AwxpMHULe2JRoQa68lzieeMo5ij8ghDla1bM2+0pFo9effegrV6gvhwIMl8I0GGc33Kqs19F8PDO4G2QYabblUlyGgtA7FsKg+BPxSeonKWz3WzwlSITIuoV2KgaxWFQV8KFhABAVOMP0QBW14aacpRh0=;E7WjJ1zynyEC56J61LUJGQ=="
+secured: "Y1r8Rc8CpNGViEt/kpMuQsA6/ndoX75kYK4OXIACB4J6bXz8YLF+zE2wJbl77sVK8/+JJ4wC+jH65D3oLs7E2zmXq5OgnkNr3Xu31XSF4b6avRcuC+qhUg3coeZOhiBK9V6DNi3F5woDKlOceM4p3M9QJ5NwYDQnCEwf86qBDodAnWXYBT2y8JuIxj1jKlOfO8pXwiGd+MZOwIGLrDemwO9NUway7PozEQ+J1Lv3NNhEw25BhG+FsOgramn1XK32IdOzS4YLe+NgK4kmV7evsSFd6dzaStvjgm/yQW32ya4kBTgyETGQ3Ozz9IFWKrOblQnh5sIG7VPZBzMvP6g1wLBf/wgkzX2rI4EUghWEo1U=;ZrPVyIpzjX83uhZWJGHFbA=="
 ---
 

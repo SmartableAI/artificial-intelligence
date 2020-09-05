@@ -2,47 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-08-25-robotics-autobots-transform-in-the-offshore-energy-sector.md",
-      "title": "Robotics: Autobots Transform in the Offshore Energy Sector",
-      "excerpt": "The Oil & Gas Technology Centre is working with companies on the Offshore Ground Robotics Industrial Pilot (OGRIP) prototype, which is now what it calls the world’s first Offshore Work Class Robot (OWCR),",
-      "sourceUrl": null,
-      "webUrl": "https://www.oedigital.com/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
-      "originalUrl": "https://www.oedigital.com/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.oedigital.com/images/maritime/w537h300pad/bladebug-blade-walking-inspection-robot-115866.jpg",
-          "width": 537,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.oedigital.com/amp/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
-      "cdnAmpWebUrl": "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
-      "publishedDateTime": "2020-08-25T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "oedigital.com",
-        "domain": "oedigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-25-a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon.md",
       "title": "A Robot Tried to Fix Value Investing and Ended Up Buying Amazon",
       "excerpt": "Artificial intelligence has been touted as a solution for everything from ending lines at the checkout to rooting out systematic bias in Wall Street hiring. It was almost inevitable that someone would suggest using it to fix value investing.",
@@ -1354,6 +1313,56 @@
         "name": "PR Newswire",
         "domain": "prnewswire.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-artificial-intelligence-market-2020-2024-trends-market-share-growth-opportunity.md",
+      "title": "Artificial Intelligence Market 2020-2024 / Trends, Market Share, Growth, Opportunity",
+      "excerpt": "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-2024-trends-market-share-growth-opportunity-2020-08-12",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Yandex, Uber to spin off self-driving unit of JV"
-excerpt: "Yandex and Uber Technologies Inc. will spin off the self-driving car unit of their joint venture into a separate company, giving Yandex more control over the businesses and paving the way for new investors."
-publishedDateTime: 2020-09-04T10:14:00Z
-originalUrl: "https://www.autonews.com/mobility-report/yandex-uber-spin-self-driving-unit-jv"
-webUrl: "https://www.autonews.com/mobility-report/yandex-uber-spin-self-driving-unit-jv"
+excerpt: "Yandex and Uber will spin off the self-driving car unit of their joint venture into a separate company, giving Yandex more control over the businesses and paving the way for new investors. Russia’s largest internet company will invest $150 million in the new division,"
+publishedDateTime: 2020-09-04T15:24:00Z
+originalUrl: "https://europe.autonews.com/automakers/yandex-uber-spin-self-driving-unit-jv"
+webUrl: "https://europe.autonews.com/automakers/yandex-uber-spin-self-driving-unit-jv"
 type: article
 quality: 24
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Yandex-MAIN_0.jpg"
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Yandex-MAIN_0.jpg"
     width: 800
     height: 600
     isCached: true
@@ -72,6 +72,6 @@ related:
         height: 426
         isCached: true
 
-secured: "I8B4r4uojJguSVJv1S4d85VoN6c9IfoLvzvFzkKNsp+kPKdGkKf3mI5HLJmd+DctBJx8ducGeLgGDRPQtippFadDAZg0n8JX+Mue2AFzSvZ78DkrbKUaNoWWndCNc+QHJc8VT4WSdN/8KfUr8m5y3R+EIKt6f5HC2nKRKoaJ/jETXPT50TsF3hgfwq/k/8fVmOcCYRhOw01upMXQD5uiTcZ048D6ewAnGvhupwu8XAnwjkXlG2npfRyNFwm2ux8X7c2v/4p5A3FGmdczSwjGnHjG3an0hwRzGggJllVDJbBrlTR/Tb+xsXEEC94LkAB6TWDUEN36Cb0T4iLUkdHYwj4spVlt1PwEPeSQ47ttRJ90slEcS0y5qK2cV4FPJuGJIMVa42X3PNjsEhfJoQnQa6q7/REFPu3LkIHpdzSPXu+KWV5EuBFEV3kXWiboc4amYejxog10SCpFIzLK/XO9bir7/348B1OMzGlFsmk1LrE2o/Ly5n2hEoGh4aOdJUrMdjOxQLDmld5or6eZZDb5mUs/QQwV0xMYW3KJGKeppd4=;zNkgZYb6syHegyjUaqZKuA=="
+secured: "p6vZRU18oPQICI6MMQj3tV6I3R6iZwStI0z9TibJuScaB0108K3ugMeEBh088kgamXTaKRMZjNQoim/17XQK3t5JmLvWJSCEgyWucmrwE0/aF7rh8oltFg448Ba4MnC3gAmdFRIY/kWBastkDKud1b3gtghajLQO6QG6BDrRzRH8cg4qRumzs9LJo6LEnZ2L7xdZyWsyIra7UWN9whKpN5uacgSi/fPkunlPgkryPRp7tdLSFCZAov4Lz3RSjGR6dtbxpC5DeGfXh8FvsirbM9Bl7eA39DjiZ88rRVsQXu72Yt+nTBAAmreHboD96fSpIYE0Zky/8u0Uk18NkZb1LiDsYF9hCmwxjuFrqeqjEOY=;cVT/eV7M/mmxfDzQjXtiUA=="
 ---
 

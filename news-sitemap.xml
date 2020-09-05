@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/</loc>
+    <lastmod>2020-09-05T03:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://montrealgazette.com/news/local-news/artificial-intelligence-expert-moves-to-montreal-because-its-an-ai-hub</loc>
+    <lastmod>2020-09-05T03:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/ai-startup-hypatos-pitch-deck-funding-2020-9</loc>
+    <lastmod>2020-09-05T02:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/sabbirrangwala/2020/09/04/lean-sensinga-critical-enabler-for-autonomous-vehicles/</loc>
     <lastmod>2020-09-04T17:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -889,7 +907,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1057,6 +1075,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html</loc>
+    <lastmod>2020-08-28T07:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techrepublic.com/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/</loc>
     <lastmod>2020-08-28T07:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1137,12 +1161,6 @@
   <url>
     <loc>https://www.forbes.com/sites/ilonalimonta-volkova/2020/08/28/all-is-fair-in-mortgage-lending-and-fintech/</loc>
     <lastmod>2020-08-28T03:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/press-release/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator</loc>
-    <lastmod>2020-08-28T03:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1495,12 +1513,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200826005454/en/Astute-Recognized-Innovative-AI-2020-Artificial-Intelligence</loc>
-    <lastmod>2020-08-26T07:30:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://uk.reuters.com/article/uk-volkswagen-autonomous/volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei-idUKKBN25M1QZ</loc>
     <lastmod>2020-08-26T07:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1551,6 +1563,12 @@
   <url>
     <loc>https://www.cnet.com/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/</loc>
     <lastmod>2020-08-26T06:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.lelezard.com/en/news-19394436.html</loc>
+    <lastmod>2020-08-26T05:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2181,6 +2199,12 @@
   <url>
     <loc>https://www.prnewswire.com/news-releases/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-301115686.html</loc>
     <lastmod>2020-08-22T05:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://news.mit.edu/brain-recycled-ability-read-0804</loc>
+    <lastmod>2020-08-22T04:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

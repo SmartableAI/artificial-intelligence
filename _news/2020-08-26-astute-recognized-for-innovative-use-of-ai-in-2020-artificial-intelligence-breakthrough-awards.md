@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Astute Recognized for Innovative Use of AI in 2020 Artificial Intelligence Breakthrough Awards"
-excerpt: "Astute's Crisis Management AI solution recognized for innovation by the 2020 Artificial Intelligence Breakthrough Awards"
-publishedDateTime: 2020-08-26T14:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200826005454/en/Astute-Recognized-Innovative-AI-2020-Artificial-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20200826005454/en/Astute-Recognized-Innovative-AI-2020-Artificial-Intelligence"
+excerpt: "Astute, Inc., a leader in customer engagement technology, today announced that it has been selected as the winner of the \"Best Transactional Bot Solution\" award in the 2020 AI Breakthrough Awards program conducted by AI Breakthrough,"
+publishedDateTime: 2020-08-26T12:54:00Z
+originalUrl: "https://www.lelezard.com/en/news-19394436.html"
+webUrl: "https://www.lelezard.com/en/news-19394436.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200826005454/en/704129/23/astute-logo-horz-color.jpg"
-    width: 1200
-    height: 627
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "2GjoTmwcQKs/dHfASAgZAVyzeIgVY2ydVhAR3x6fn2SS2APZTA40eDw3AiV/W5DuiYpqtyTzTz1oozzzGaxeNAVj0V/GQxJ2P7YZKKTH1pa0jJXki/WWlFg0v734REaOGNwFqYOfHk6kbmRv3zwNg++wGc2/cyLMw1WFIGdd29d42Ke61v9OJFvkJPyQWtwjm/Q5WCg83hH5usqxwKQrWB41V8lrpYOj1uXjZ4BeVEZhOcraQjst2jyszlR3QPAcoV5c6bZ0zig0CqpDCoe2+/jjw6cJ48+wbkPdOwP+42l4X2AWgmqMWK1q25BwrdzVsePhtVYVfkmG9DGQ+WgWPmD/ISxVGcGpwWZdrhtZyrE=;XZL1LwyYbQ+GegJgOA8usQ=="
+secured: "3v1NBLn54PpopQmqxkqWNUjYVGX8oTA86+fp2Y9P0znCzn4P9UPTxeDVmKAvGIiPk/qIzKJZGIcjrCu0xnLbaUositiwWCcmiBdLveUhaKIopOUBeHR/+aon9Q7/Ecoufi9mGl0hP6z67mAKqum3dL8o3Sydx0MOHncM7eI8Q0RhPkEJMto5KpOsehjHjC8neifpnjAIw1JqcgNCEWF3B2DHbRIBW+chNvHOrdO53Xnb3DzquQFgFdNZTgNU0wzZ2rB83e/yfWnSmKuLgv6YjMK3nn5ikVznirZ4iTVZaDy6DX1fXU08UH9UMRF9zT6h8YWsufRtuAISRRyVM0SeecZNLA1Xl7KtFcPRl4WUsfc=;ewxt8j7GMx31U2t7jJvSuA=="
 ---
 

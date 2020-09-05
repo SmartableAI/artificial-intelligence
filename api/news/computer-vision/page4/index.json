@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-30-foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world.md",
+      "title": "Foresight’s AI-powered wearable helps low-vision users feel the world",
+      "excerpt": "Using a custom version of the computer vision AI system YOLO, Foresight detects, classifies, and estimates the movement of objects surrounding the user, then uses the actuators to apply more or ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/30/foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/foresight.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/30/foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world/amp/",
+      "publishedDateTime": "2020-07-30T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-new-approach-aims-to-use-facial-recognition-technology-to-link-the-victims-of-serial-killers.md",
       "title": "New Approach Aims To Use Facial Recognition Technology To Link The Victims Of Serial Killers",
       "excerpt": "Using facial recognition technology, the approach aims to recognize when victims with similar appearances are being targeted, as has sometimes been the case with historic, infamous serial killers such as Ted Bundy. The project was conceived and lead by ...",
@@ -1380,47 +1430,6 @@
         "AI in Autos",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-5-ways-to-reduce-eye-strain-after-staring-at-your-screen-all-day.md",
-      "title": "5 Ways to Reduce Eye Strain After Staring at Your Screen All Day",
-      "excerpt": "Our computer, smartphone, and TV habits put our eyes under a lot of strain every day. Staring at a device that's just inches away from your face can cause pressure between the eyes and even lead ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.menshealth.com/health/a33368634/doctor-explains-computer-vision-syndrome/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/m-starting-to-lose-sight-of-success-royalty-free-image-1595268003.jpg?crop=1.00xw:0.752xh;0,0.118xh&resize=1200:*",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.menshealth.com/health/amp33368634/doctor-explains-computer-vision-syndrome/",
-      "cdnAmpWebUrl": "https://www-menshealth-com.cdn.ampproject.org/c/s/www.menshealth.com/health/amp33368634/doctor-explains-computer-vision-syndrome/",
-      "publishedDateTime": "2020-07-21T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Men's Health",
-        "domain": "menshealth.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

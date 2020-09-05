@@ -2,6 +2,137 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-08-24-data-science-startup-dataiku-raises-100-million-to-keep-growing-its-ai-enablement-software.md",
+      "title": "Data Science Startup Dataiku Raises $100 Million To Keep Growing Its AI Enablement Software",
+      "excerpt": "Instead, he hopes enterprises will turn to Dataiku’s web-based software to take themselves on the path to artificial intelligence. The New York City startup on Monday announced that it had raised $100 million in a Series D round led by Stripes and Tiger Global Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enablement-for-enterprises-startup-raises-100-million-series-d/",
+      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enablement-for-enterprises-startup-raises-100-million-series-d/",
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f430efc8c6d2b5017674e47%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3888%26cropY1%3D0%26cropY2%3D2592",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enablement-for-enterprises-startup-raises-100-million-series-d/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enablement-for-enterprises-startup-raises-100-million-series-d/amp/",
+      "publishedDateTime": "2020-08-23T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program.md",
+      "title": "HSG Digital joins Amazon Web Services Contact Center Intelligence solutions partner program",
+      "excerpt": "With 61 delivery centers in 7 countries, HGS successfully manages billions of customer interactions every year",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html",
+      "originalUrl": "https://www.business-standard.com/article/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html",
+      "publishedDateTime": "2020-08-23T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-5-interesting-announcements-from-kubeconcloudnativecon-europe-2020.md",
+      "title": "5 Interesting Announcements From KubeCon+CloudNativeCon Europe 2020",
+      "excerpt": "KubeCon+CloudNativeCon Europe 2020, the largest gathering of the Kubernetes and cloud native community, has gone virtual this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4323e7c422e6c8a6411fbc%2F0x0.jpg",
+          "width": 1000,
+          "height": 523,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/amp/",
+      "publishedDateTime": "2020-08-23T19:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000.md",
       "title": "SINTRONES Edge AI GPU Computing Solution enabling flexibility: EBOX-7000",
       "excerpt": "SINTRONES, one of the global leaders in computing technology in vehicles, announces the launch of the new EBOX-7000 Edge AI GPU Computing. The new EBOX-7000 Edge AI GPU Computing is suitable for various factory automation and Industrial Internet of Things (IIoT) control system in large-scale processes such as mining and manufacturing.",
@@ -609,6 +740,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-22-key-brain-region-was-recycled-as-humans-developed-the-ability-to-read.md",
+      "title": "Key brain region was “recycled” as humans developed the ability to read",
+      "excerpt": "As one example, they suggest that a part of the visual system that is specialized to perform object recognition has been repurposed for a key component of reading called orthographic processing — the ability to recognize written letters and words.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/brain-recycled-ability-read-0804",
+      "originalUrl": "https://news.mit.edu/brain-recycled-ability-read-0804",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202008/MIT-orthographic-processing-01.jpg",
+          "width": 948,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-22T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-22-full-self-driving-cars-are-still-a-long-way-off-heres-why.md",
       "title": "Full Self-Driving Cars Are Still A Long Way Off – Here’s Why",
       "excerpt": "Tesla﻿ makes a lot of noise about its self-driving abilities, and contender Lucid is claiming it will go further with its Air. But is this really all hype, and will we ever really be able to sit back and let the cars do all the work?",
@@ -935,179 +1116,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-darpa-chip-effort-advances-ai-hardware.md",
-      "title": "DARPA Chip Effort Advances AI Hardware",
-      "excerpt": "The Defense Advanced Research Projects Agency’s Electronics Resurgence Initiative (ERI) includes development efforts aimed at AI hardware components",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2020/08/21/darpa-chip-effort-advances-ai-hardware/",
-      "originalUrl": "https://www.datanami.com/2020/08/21/darpa-chip-effort-advances-ai-hardware/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/brain_chip_shutterstock_Zapp2Photo.jpg",
-          "width": 1000,
-          "height": 644,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-21T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-22-amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace.md",
-      "title": "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace",
-      "excerpt": "Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace – their online stores providing applications and services for use on Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-1029525130",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-1029525130",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-21T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace.md",
-      "title": "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace",
-      "excerpt": "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace - their online stores",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/cb/3cbcd9fb-ef6c-5b03-a63d-3d4936dac151/5f404454416a5.image.jpg?resize=400%2C209",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-21T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-22-heres-the-smallest-aiml-supercomputer-ever.md",
-      "title": "Here's the smallest AI/ML supercomputer ever",
-      "excerpt": "The SX-Aurora Tsubasa AI Platform supports both Python and TensorFlow development environments as well programming languages such as C/C++ and Fortran. NEC offers multiple versions of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/heres-the-smallest-aiml-supercomputer-ever",
-      "originalUrl": "https://www.techradar.com/news/heres-the-smallest-aiml-supercomputer-ever",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/q8a4w5iETy5tBB4KkqL5EU-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/heres-the-smallest-aiml-supercomputer-ever",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/heres-the-smallest-aiml-supercomputer-ever",
-      "publishedDateTime": "2020-08-21T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

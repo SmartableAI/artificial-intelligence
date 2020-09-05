@@ -2,6 +2,144 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-05-nvidias-dlss-ai-upscaling-sdk-now-supports-vr.md",
+      "title": "Nvidia’s DLSS AI-upscaling SDK now supports VR",
+      "excerpt": "Nvidia's DLSS neural upscaling technology now works with virtual reality titles. This could enable some VR games to make a visual leap.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/",
+      "originalUrl": "https://venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/rtx-3080.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/amp/",
+      "publishedDateTime": "2020-09-05T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-artificial-intelligence-expert-moves-to-montreal-because-its-an-ai-hub.md",
+      "title": "Artificial intelligence expert moves to Montreal because it's an AI hub",
+      "excerpt": "Irina Rish, now a renowned expert in the field of artificial intelligence, first became drawn to the topic as a teenager in the former Soviet republic of Uzbekistan. At 14, she was fascinated by the notion that machines might have their own thought processes.",
+      "sourceUrl": null,
+      "webUrl": "https://montrealgazette.com/news/local-news/artificial-intelligence-expert-moves-to-montreal-because-its-an-ai-hub",
+      "originalUrl": "https://montrealgazette.com/news/local-news/artificial-intelligence-expert-moves-to-montreal-because-its-an-ai-hub",
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/montrealgazette/wp-content/uploads/2020/09/0905-city-rish-1963.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://montrealgazette.com/news/local-news/artificial-intelligence-expert-moves-to-montreal-because-its-an-ai-hub/wcm/64cef2dd-880d-4e7b-bbda-4a37f2676c0c/amp/",
+      "cdnAmpWebUrl": "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/news/local-news/artificial-intelligence-expert-moves-to-montreal-because-its-an-ai-hub/wcm/64cef2dd-880d-4e7b-bbda-4a37f2676c0c/amp/",
+      "publishedDateTime": "2020-09-05T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Montreal News",
+        "domain": "montrealgazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-we-got-an-exclusive-look-at-the-pitch-deck-ai-startup-hypatos-used-to-raise-11-million.md",
+      "title": "We got an exclusive look at the pitch deck AI startup Hypatos used to raise $11 million",
+      "excerpt": "The 'business process automation' market is currently valued at more than $800 million globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-startup-hypatos-pitch-deck-funding-2020-9",
+      "originalUrl": "https://www.businessinsider.com/ai-startup-hypatos-pitch-deck-funding-2020-9",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f524287e6ff30001d4e710a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-05T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-05-lean-sensing-a-critical-enabler-for-autonomous-vehicles.md",
       "title": "Lean Sensing - A Critical Enabler For Autonomous Vehicles",
       "excerpt": "The Autonomous Vehicle revolution has driven a sensor data overload, creating barriers for practical deployment. Lean sensing needs to happen if AVs are to become a reality.",
@@ -809,7 +947,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/",
       "featuredContent": null,
-      "heat": 85,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -847,7 +985,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1029,155 +1168,6 @@
         "name": "Sports Illustrated",
         "domain": "si.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications.md",
-      "title": "Global Cognitive Services Market Future Prediction Report By 2024 : IBM, Microsoft, Google, AWS, Baidu, Nuance Communications",
-      "excerpt": "Market Research Report Add a new global Cognitive Services market from manufacturers, countries, types and applications, predicts by 2024 in its research database, presenting an informative study covering the market with detailed analysis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications-2020-09-03?mod=mw_quote_news",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications-2020-09-03?mod=mw_quote_news",
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-03T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-healthcare-ai-how-one-hospital-system-is-using-technology-to-adapt-to-covid-19.md",
-      "title": "Healthcare AI: How one hospital system is using technology to adapt to COVID-19",
-      "excerpt": "One Illinois hospital system is using artificial intelligence and other technologies to keep patients safe and the hospital in full operation during a pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/healthcare-ai-how-one-hospital-system-is-using-technology-to-adapt-to-covid-19/",
-      "originalUrl": "https://www.techrepublic.com/article/healthcare-ai-how-one-hospital-system-is-using-technology-to-adapt-to-covid-19/",
-      "featuredContent": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/20/0fcebbe7-67f1-4908-8260-32f1fef1e499/thumbnail/1200x675/33623cba36b7bd46e414c3e09f8616ce/beeah-cr-mir.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/healthcare-ai-how-one-hospital-system-is-using-technology-to-adapt-to-covid-19/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/healthcare-ai-how-one-hospital-system-is-using-technology-to-adapt-to-covid-19/",
-      "publishedDateTime": "2020-09-03T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes.md",
-      "title": "Here's how Google Maps uses AI to predict traffic and calculate routes",
-      "excerpt": "On Thursday, Google shared how it uses artificial intelligence for its Maps app to predict what traffic will look like throughout the day and the best routes it",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/",
-      "originalUrl": "https://www.cnet.com/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/",
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/eCYPf_S81xRyqLpavRdSIhgcWnQ=/756x567/2019/12/04/d0f3c47a-94a4-4d44-a2c0-d122b83a02ff/google-maps-logo-phone.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/",
-      "publishedDateTime": "2020-09-03T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

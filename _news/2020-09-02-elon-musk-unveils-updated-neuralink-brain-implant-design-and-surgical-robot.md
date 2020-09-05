@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-
 cdnAmpWebUrl: "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 852
     height: 479
     isCached: true
-
-related:
-  - title: "Meet Elon Musk's surgical robot"
-    excerpt: "Elon Musk debuted the Neuralink surgical robot during a presentation about the company with the same name, TechCrunch reports."
-    publishedDateTime: 2020-08-31T18:35:00Z
-    webUrl: "https://www.beckersspine.com/robotics/item/49898-meet-elon-musk-s-surgical-robot.html"
-    type: article
-    provider:
-      name: Becker's Spine Review
-      domain: beckersspine.com
-    quality: 19
 
 secured: "zzTOYJnZ5a79XSB6kLUf6JCrXPLXkCkxMipePeXV5YqYYeDP5WyUzXbdMe0IGw+okGBCWuJ0GN3hi2AGB0cDQZ1ctuF7Wd1IuP/vK4Rjz35nQlcgh3MciLi/wZqFtmqOUOkg22qdH1XtzInKF4Bu8ojznTs1PGApqHT9gIiAN5xbv8gRFb7FIwdnu6JiLy2Z9/+QeKeTj8slo08kGaw6lBDlH5+ZFIXeCK18+6NmhdzSKekbjITwI00Yvxs4sf6uK+4D5Or0nzLbC56oc481qsl39DBLZjkPxbV3nWeUhWlwC3QETV5xS1mSclRrb0xbYJUaiBp7Ihh+PNHfxYA7S5hs1SoIJKhA4Mnr6VE08Ss=;b0kh9vCAP+hPu1sxlQJWhg=="
 ---

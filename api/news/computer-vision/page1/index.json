@@ -1218,6 +1218,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-22-key-brain-region-was-recycled-as-humans-developed-the-ability-to-read.md",
+      "title": "Key brain region was “recycled” as humans developed the ability to read",
+      "excerpt": "As one example, they suggest that a part of the visual system that is specialized to perform object recognition has been repurposed for a key component of reading called orthographic processing — the ability to recognize written letters and words.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/brain-recycled-ability-read-0804",
+      "originalUrl": "https://news.mit.edu/brain-recycled-ability-read-0804",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202008/MIT-orthographic-processing-01.jpg",
+          "width": 948,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-22T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes.md",
       "title": "A New Tool Aims to Protect Protesters From Facial Recognition With Deepfakes",
       "excerpt": "In an era in which facial recognition has made it easy for law enforcement and other organizations to search someone’s identity based on their face alone, the question of when it’s appropriate to share identifiable photos of protesters and activists ...",
@@ -1287,56 +1337,6 @@
         "name": "Electronics Weekly",
         "domain": "electronicsweekly.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit.md",
-      "title": "Court ruling paves the way for Facebook to settle its facial recognition lawsuit",
-      "excerpt": "A judge gave Facebook preliminary approval to settle its Illinois facial recogntion lawsuit that was filed under the Biometric Information Privacy Act.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/",
-      "originalUrl": "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/",
-      "featuredContent": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/court-ruling-paves-the-way-for-facebook-to-settle-its-facial-recognition-lawsuit/amp/",
-      "publishedDateTime": "2020-08-20T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

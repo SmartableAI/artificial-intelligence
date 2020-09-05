@@ -2,6 +2,146 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-08-25-socure-raises-30-million-to-combat-payments-fraud-with-ai.md",
+      "title": "Socure raises $30 million to combat payments fraud with AI",
+      "excerpt": "Socure, a startup developing an AI-driven platform to combat payment fraud, has raised $35 million in an equity financing round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/",
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/01/identity.shutterstock_158989667-1-e1597945235962.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/amp/",
+      "publishedDateTime": "2020-08-25T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-mit-csail-grad-launches-machine-learning-platform-with-10m-series-a.md",
+      "title": "MIT CSAIL grad launches machine learning platform with $10M Series A",
+      "excerpt": "Manasi Vartak, founder and CEO of Verta, conceived of the idea of the open source project ModelDB database as a way to track versions of machine models while she was still in grad school at MIT. After she graduated,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/",
+      "originalUrl": "https://techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/",
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/manage-img@2x.jpg?w=680",
+          "width": 680,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/amp/",
+      "publishedDateTime": "2020-08-25T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-ai-vs-human-fighter-pilot-heres-who-won-the-epic-dogfight.md",
+      "title": "AI vs. Human Fighter Pilot: Here's Who Won the Epic Dogfight",
+      "excerpt": "The dogfight is part of a DARPA-led effort to develop AI for fighter planes. The AI won an important string of victories but robotic air combat still has a ways to go. An artificial intelligence claimed victory over several other AIs in simulated dogfights and then went on to trounce a real human Air Force pilot,",
+      "sourceUrl": null,
+      "webUrl": "https://www.popularmechanics.com/military/aviation/a33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/",
+      "originalUrl": "https://www.popularmechanics.com/military/aviation/a33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/",
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-08-25-at-8-14-56-am-1598357785.png?crop=0.981xw:0.895xh;0.00321xw,0&resize=1200:*",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/",
+      "cdnAmpWebUrl": "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/aviation/amp33765952/ai-vs-human-fighter-pilot-simulated-dogfight-results/",
+      "publishedDateTime": "2020-08-25T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Mechanics",
+        "domain": "popularmechanics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-baidu-launches-robotaxi-service-boosts-self-driving-presence.md",
       "title": "Baidu Launches Robotaxi Service, Boosts Self Driving Presence",
       "excerpt": "BIDU is leaving no stone unturned to bolster presence in the autonomous driving space. The company recently revealed that the Apollo Go Robotaxi service is now available in the city of Cangzhou, which is in Hebei province near Beijing.",
@@ -987,148 +1127,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program.md",
-      "title": "HGS DIGITAL Joins AWS Contact Center Intelligence Solutions Partner Program",
-      "excerpt": "HGS Digital LLC, a subsidiary of Hinduja Global Solutions Ltd (listed in BSE & NSE), today announced its participation as an Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-301117280.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-301117280.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-the-impact-of-ai-on-journalism.md",
-      "title": "The Impact of AI on Journalism",
-      "excerpt": "AIs write hundreds of thousands of the articles that are published by mainstream media outlets every week. What next?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/",
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f44057db9b4ab89d27f81ce%2F0x0.jpg",
-          "width": 1200,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/amp/",
-      "publishedDateTime": "2020-08-24T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-building-a-customized-recommender-system-in-amazon-sagemaker.md",
-      "title": "Building a customized recommender system in Amazon SageMaker",
-      "excerpt": "Recommender systems help you tailor customer experiences on online platforms. Amazon Personalize is an artificial intelligence and machine learning service that specializes in developing recommender system solutions. It automatically examines the data, performs feature and algorithm selection, optimizes",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/20/customized-recommender-sagemaker-1.jpg",
-          "width": 800,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T11:30:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

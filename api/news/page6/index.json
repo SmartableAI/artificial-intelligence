@@ -2,6 +2,158 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-01-ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research.md",
+      "title": "IBM RXN: AI combined with robotics to speed molecular studies and chemical research",
+      "excerpt": "AI and robotics are working together to find cures for diseases more quickly. Even if you're not in science, you can learn from this project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
+      "originalUrl": "https://www.techrepublic.com/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
+      "featuredContent": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
+      "publishedDateTime": "2020-08-31T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-japanese-companies-guiding-robots-into-the-future.md",
+      "title": "Japanese Companies Guiding Robots Into The Future",
+      "excerpt": "In science-fiction movies set in the future, robots are ubiquitous and part of everyday life. But are robots integrating themselves into our lives today?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/japan/2020/08/31/japanese-companies-guiding-robots-into-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/japan/2020/08/31/japanese-companies-guiding-robots-into-the-future/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4d2fc3645f22ffbcbee48c%2F0x0.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/japan/2020/08/31/japanese-companies-guiding-robots-into-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/japan/2020/08/31/japanese-companies-guiding-robots-into-the-future/amp/",
+      "publishedDateTime": "2020-08-31T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy.md",
+      "title": "Facebook open-sources Opacus, a PyTorch library for differential privacy",
+      "excerpt": "Facebook's Opacus is a library for training PyTorch models with differential privacy that’s ostensibly more scalable than existing state-of-the-art methods.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/",
+      "originalUrl": "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/",
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/amp/",
+      "publishedDateTime": "2020-08-31T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-ai-job-listings-plummet-as-covid-19-recession-appears-imminent.md",
       "title": "AI job listings plummet as COVID-19 recession appears imminent",
       "excerpt": "The last thing we expected to see near the end of 2020 was a truce between human job-seekers and the deep learning systems replacing them, but the possibility of an impending recession has upended the AI market.",
@@ -1022,145 +1174,6 @@
         "name": "Daily Times",
         "domain": "dailytimes.com.pk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-military-ai-vanquishes-human-fighter-pilot-in-f-16-simulation-how-scared-should-we-be.md",
-      "title": "Military AI vanquishes human fighter pilot in F-16 simulation. How scared should we be?",
-      "excerpt": "Artificial intelligence can master difficult combat skills at warp speed, but the Pentagon’s futurists must remain mindful of its limitations and risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/military-ai-vanquishes-human-fighter-pilot-f-16-simulation-how-ncna1238773",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/military-ai-vanquishes-human-fighter-pilot-f-16-simulation-how-ncna1238773",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_35/3408488/200828-loyal-wingman-drone-ac-429p_bbc39303ab1ab71d2c4297a95f68d541.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1238773",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1238773",
-      "publishedDateTime": "2020-08-31T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-nvidias-top-gpu-has-a-formidable-new-ai-rival-and-its-not-who-you-think-it-is.md",
-      "title": "Nvidia's top GPU has a formidable new AI rival and it's not who you think it is",
-      "excerpt": "Tachyum, the company that plans to kill the CPU and GPU with its universal Prodigy processor, this week shared additional details regarding its upcoming chip.   As it turns out, the new processor will support industry-standard open-source development frameworks for AI applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "originalUrl": "https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YCeRLZApvjKfDm8VpVZCkC-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "publishedDateTime": "2020-08-30T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-robot-takes-contact-free-measurements-of-patients-vital-signs.md",
-      "title": "Robot takes contact-free measurements of patients’ vital signs",
-      "excerpt": "Dog-like robots can remotely measure patients’ vital signs and could be used to reduce health care workers’ risk of Covid-19 exposure. The “Dr. Spot” robots, developed by researchers at MIT and Brigham and Women’s Hospital,",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/spot-robot-vital-signs-0831",
-      "originalUrl": "https://news.mit.edu/2020/spot-robot-vital-signs-0831",
-      "featuredContent": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202008/Robotic-Vital-Signs-01.jpg",
-          "width": 948,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-30T21:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -8,8 +8,8 @@ webUrl: "https://thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is
 ampWebUrl: "https://thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/amp/"
 type: article
-quality: 85
-heat: 85
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/06/vintage-robot-796x398.jpg"
@@ -29,6 +30,6 @@ images:
     height: 398
     isCached: true
 
-secured: "OMEGV5LaLRB7u/HL+boQxPjXLrZFUS8Bo/wx8Re/sKhrGzKmw9QqtwyYsV+VfgD5w+VU2feT3nEsr1DhUAv1pfBzXmJ7HuavZ5Wmc23ZDCGqfMLnb5MmwtmtZykSuNVgcnWDyBoQtwzRXnp0ws5OjM00ghtTmnRb51xg220XC5RhLoTn1lNORdZFbt12tkXfJKntNZKtXkOqtwHUre/ga3NiaRGHPC8EGXPNqdZeIaPwJwW5oyr+y/3YZ60ixMqGnxxdXtKzQ4463Owx1v//OpODgV1A9lU6uV75HR/gbqXXUuoXYtboAyVZOOE3IGUYyjBydhqr9IV/hMxI8WwbupuZ2zQhLJMb+xtTRckMWEI=;RYFys7YnIw166/ek/XFQDQ=="
+secured: "8Xyv4b7djZhzQRjiFZC++XYDtsfxn5PfLOw8J/kERyYiiMFtfMkBh/udFz5KgjQCJCKoVTPgOdzkV20Cl8tyKTK3RSZxpdlPcw7WeTQeDuqrPB02i+CyXkNdf/AwTYvLEVjGlNyYkuz08wUEDF6EnUL7dodJh9A9jIu1jJDzbJdqFQZQW02l9Ac/EEMsTPYTND8RxJ5P4Rn17DunA9WVAMJnFQqOpHdVdYyUcQfzB85JSobQXHuBo4ZdHSMMjiD6H2cUGwZwpZFKFgG48YgW62iOsLtXBcUy1Km+7TFy2ALBK4E+/dHgO6iSwf5rQ/eyx2ar2SwYqpoyqaDmA/eDZF09o4xkCoBTuK0K3ZItA6XW+pgvPcm/9K75MU/fr/Kk32NMofFDcPaPPOvhxb2ajH2AmUkJGWngyvMqm8acZ5+CI6tLtWq2p1mXVL7JzX0lbq1WiZqtl44Aa0s67HihoiXuFqUNRkQYTuEFpvOOut1w0p7ak4cl5i7TXW3TpjK0eEHTnako6BnLurBpsVmv9w5EsNR9xqkaCVoNDJVBhVU=;XwetcSOJ+KjOdhnfA/iYvw=="
 ---
 

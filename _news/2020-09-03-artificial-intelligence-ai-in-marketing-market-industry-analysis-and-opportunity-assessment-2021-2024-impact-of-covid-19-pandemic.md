@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chip Market Trends, Opportunities & Revenue Share Analyzed during 2019-2025"
-    excerpt: "Facto Market Insights has skillfully compiled this latest research report titled Artificial Intelligence Chip Market, to its wide online repository. This assessment focusing on the artificial intelligence (AI) chips market would deliver precise insight about different market factors such market size,"
-    publishedDateTime: 2020-08-31T17:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-trends-opportunities-revenue-share-analyzed-during-2019-2025-2020-08-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Fintech Market Innovations, Technology Growth and Research 2020 to 2025"
     excerpt: "The report provides a detailed assessment of the 'Global AI in Fintech Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape, deployment models,"
     publishedDateTime: 2020-09-03T09:39:00Z
@@ -97,20 +83,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Government: Global Markets 2020-2025 - ResearchAndMarkets.com"
-    excerpt: "In recent years, government in different countries are taking a keen interest in artificial intelligence (AI) technology. They are increasingly investing in artificial intelligence (AI), spending budget,"
-    publishedDateTime: 2020-08-31T17:28:00Z
-    webUrl: "https://www.oaoa.com/news/business/artificial-intelligence-in-government-global-markets-2020-2025---researchandmarkets-com/article_1ab5f429-f354-5edf-8a7b-1bb403297447.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 28
-    images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
         isCached: true
 
 secured: "zJb+SsFRnsmv+kesCBtrU4MwKRAhlnW6KleiN+/7QbcEgLgEJlUMb10s/WoC59jfr8pG8LEUjgR7IdORlkhcAppOuJ3yVNwsEV3UxqZURRH5qOa6BBIpADDdWoIveeeqfzELnzXNX+v4oq6VnK3VW2UzLGzHlaT2f48rbHgR1oNOfD9nqMJ01lu5d8QKRm43G5e7FxCQgkPfh4cBzOXqRCYDXXEzGmaelh/kdK0U5IYPPGEQ9cPDcyGRH67NU/etfe0agXntXsh2LArI6F0gUYrxNOh20UvwT5f0HMnA86JvsYQBBeIFuReRicl6Fy/5WRZSnSbOZlxWLq7kTs+rH52H2xwPgZi/gv5MQaL86DA=;MnwfopPKSrxCFao7iDH0CA=="

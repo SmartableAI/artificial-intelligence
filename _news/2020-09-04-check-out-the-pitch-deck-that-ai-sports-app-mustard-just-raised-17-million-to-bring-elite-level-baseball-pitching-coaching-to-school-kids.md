@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-sports-coaching-app-mustard-rai
 webUrl: "https://www.businessinsider.com/ai-sports-coaching-app-mustard-raised-with-this-pitch-deck-2020-9"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,36 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "We got an exclusive look at the pitch deck AI startup Hypatos used to raise $11 million"
+    excerpt: "The 'business process automation' market is currently valued at more than $800 million globally."
+    publishedDateTime: 2020-09-05T09:12:00Z
+    webUrl: "https://www.businessinsider.com/ai-startup-hypatos-pitch-deck-funding-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://i.insider.com/5f524287e6ff30001d4e710a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Here's an exclusive look at the pitch deck AI startup Justpoint used to win the backing of Clover Health CEO Vivek Garipalli"
+    excerpt: "A recent study found the average cost of a medical malpractice claim in the US has risen by 50% since 2009."
+    publishedDateTime: 2020-09-03T12:46:00Z
+    webUrl: "https://www.businessinsider.com/clover-health-ceo-backs-ai-startup-justpoint-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
+    images:
+      - url: "https://i.insider.com/5f50c9957ed0ee001e25d308?width=600&format=jpeg&auto=webp"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "e1ESVkZsW1FQYMg/tYpRJn/1HMuX/QNoSvSvDYG1xNjNybHg6czbSuhk6hc1Q2hs0JBnnTlSiCLjqJmSBvDKgZKQdt3nFkZ2tqTvlKXNd0o+4oLIFJAtLMWvZ2PbJaXA59sqdAMNtkDvBBMRqbAKAKRUvjs0uJql8j4WVvuIwTl4Jm/cErW5rQ6bJTFN+o7RuZ8gjB3yWVqYPXxKIVvCRQEbJEGOOuMrlt7/XxVuB0WpSIc7lXe18Ya+QShDnYDGSZAbKirSyhccnMfJJpcfiO9j86W+6G4C4yzv+lCSEr3O/9tixdmsQEHYaJ/nQHb0nRW3kDRNne9hJpn0slp05IyyJ3ZVcKj2P1M1C6G/9cNq1KnrhNQJvS6S9/3fipyPLn2aFgA8C0+pTCQ6bgzpduNSA9IMyZjqb9K0KJ3m5nLfQ6r9+Y4EDATuznlmVk8E9B+gxqF/gDJ2qXWpPX3czYUFKFwpNrklz/iRQK0sfQ4FE7dF8Yr2dUzx3XSHDEcDZCHHMRT54LsE0vcBevmek24YLhZdxm/1eO9aXr1S4yo=;i+mPkl559mZjWEt0XSNyhQ=="
 ---

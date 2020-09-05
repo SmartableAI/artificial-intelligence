@@ -2,6 +2,197 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-08-15-ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast.md",
+      "title": "AI In Computer Vision Market Analysis 2020-2023, Growth Rate Evolving Technology, Size, Share, Data Analysis, SWOT Analysis Forecast",
+      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14",
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-an-introduction-to-natural-language-processing-with-python-for-seos.md",
+      "title": "An Introduction to Natural Language Processing with Python for SEOs",
+      "excerpt": "Natural language processing (NLP) is becoming more important than ever for SEO professionals. It is crucial to start building the skills that will prepare you for all the amazing changes happening ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
+      "originalUrl": "https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/08/an-introduction-to-natural-language-processing-with-python-for-seos-5f3519eeb8368.png",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
+      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
+      "publishedDateTime": "2020-08-14T18:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Journal",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-white-house-aims-to-boost-funding-for-ai-and-quantum-tech-by-30-in-2021.md",
+      "title": "White House Aims To Boost Funding For AI And Quantum Tech By 30% In 2021",
+      "excerpt": "By committing to invest $2.2 billion next year, the Trump administration says it is on track to honor a pledge to roughly double non-defense R&D spending on the two key technologies between 2020 and 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3725560f3c747c3e65fc5f%2F0x0.jpg",
+          "width": 1200,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/amp/",
+      "publishedDateTime": "2020-08-14T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-clearview-ai-landed-a-new-facial-recognition-contract-with-ice.md",
+      "title": "Clearview AI landed a new facial recognition contract with ICE",
+      "excerpt": "The controversial facial recognition software maker Clearview AI has a new contract with ICE, the most controversial U.S. government agency. Clearview was already known to work with the branch of Homeland Security fiercely criticized for implementing the Trump administration’s harsh",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-992931802.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/",
+      "publishedDateTime": "2020-08-14T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-automl.md",
       "title": "Настройка гиперпараметров и AutoML",
       "excerpt": "В приведенном ниже комплексном примере записной книжки с помощью Hyperopt и SparkTrials выполняется параллельный перебор гиперпараметров для одновременного обучения нескольких моделей.The following en",
@@ -953,177 +1144,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-image-recognition-market-volume-revenue-pestel-analysis-cagr-and-swot-studyattrasoft-inc-nec-corporation-google-inc.md",
-      "title": "Image Recognition Market Volume, Revenue, PESTEL Analysis, CAGR and SWOT Study|Attrasoft Inc, NEC Corporation, Google Inc",
-      "excerpt": "Analysis of Major Manufacturers of Image Recognition across the world: Examination of every Company profiles, picture of the object and details, sales, preceding costs, income, Gross Margin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eturbonews.com/579198/image-recognition-market-volume-revenue-pestel-analysis-cagr-and-swot-studyattrasoft-inc-nec-corporation-google-inc/",
-      "originalUrl": "https://www.eturbonews.com/579198/image-recognition-market-volume-revenue-pestel-analysis-cagr-and-swot-studyattrasoft-inc-nec-corporation-google-inc/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg",
-          "width": 350,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eTurboNews",
-        "domain": "eturbonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-taking-a-stand-in-uncertain-times-with-ai.md",
-      "title": "Taking A Stand In Uncertain Times With AI",
-      "excerpt": "This moment in time has uncovered just how crucial AI solutions can be for the future of healthcare. Rapid changes have made it difficult to manage the pandemic’s spread and determine what the industry will look like after coming through the other side.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/14/taking-a-stand-in-uncertain-times-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg",
-          "width": 1200,
-          "height": 943,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/14/taking-a-stand-in-uncertain-times-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/14/taking-a-stand-in-uncertain-times-with-ai/amp/",
-      "publishedDateTime": "2020-08-14T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-son-of-minnesotas-attorney-general-i-hereby-declare-officially-my-support-for-antifa.md",
-      "title": "Son of Minnesota’s attorney general: 'I hereby declare, officially, my support for ANTIFA'",
-      "excerpt": "Jeremiah Ellison, who is a member of the Minneapolis ... tweeting in 2018 about a book promoting it. In a post on Twitter, Ellison said that he found the book \"Antifa: The Anti-Fascist Handbook ...",
-      "sourceUrl": null,
-      "webUrl": "https://mobile.twitter.com/yoda69?lang=en",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-natural-language-processing-market-is-growing-significantly-google-ibm-microsoft-intel-apple-aws-facebook-and-others.md",
-      "title": "Natural Language Processing Market Is Growing Significantly | Google, IBM, Microsoft, Intel, Apple, AWS, Facebook and Others.",
-      "excerpt": "The report titled Natural Language Processing Market sheds a concentrated focus on the Natural Language Processing industry in terms of market driver opportunities restraints of global segmentation Further data on the reports also includes demographic conditions over turning changing business",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2112815/natural-language-processing-market-is-growing-significantly",
-      "originalUrl": "https://www.openpr.com/news/2112815/natural-language-processing-market-is-growing-significantly",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T814195621_g.jpg",
-          "width": 640,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2112815/natural-language-processing-market-is-growing-significantly",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2112815/natural-language-processing-market-is-growing-significantly",
-      "publishedDateTime": "2020-08-14T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

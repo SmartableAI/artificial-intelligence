@@ -265,7 +265,7 @@
       "webUrl": "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/",
       "originalUrl": "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/",
       "featuredContent": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1143,47 +1143,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-26-astute-recognized-for-innovative-use-of-ai-in-2020-artificial-intelligence-breakthrough-awards.md",
-      "title": "Astute Recognized for Innovative Use of AI in 2020 Artificial Intelligence Breakthrough Awards",
-      "excerpt": "Astute's Crisis Management AI solution recognized for innovation by the 2020 Artificial Intelligence Breakthrough Awards",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200826005454/en/Astute-Recognized-Innovative-AI-2020-Artificial-Intelligence",
-      "originalUrl": "https://www.businesswire.com/news/home/20200826005454/en/Astute-Recognized-Innovative-AI-2020-Artificial-Intelligence",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200826005454/en/704129/23/astute-logo-horz-color.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-26-uc-davis-to-lead-new-artificial-intelligence-institute-for-next-generation-food-systems.md",
       "title": "UC Davis to lead new artificial intelligence institute for next generation food systems",
       "excerpt": "UC Davis has been awarded $20 million as part of a multi-institutional collaboration to establish a new institute focused on enabling the next generation food system through the integration of artificial intelligence (AI) technologies.",
@@ -1345,6 +1304,47 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-robotics-autobots-transform-in-the-offshore-energy-sector.md",
+      "title": "Robotics: Autobots Transform in the Offshore Energy Sector",
+      "excerpt": "The Oil & Gas Technology Centre is working with companies on the Offshore Ground Robotics Industrial Pilot (OGRIP) prototype, which is now what it calls the world’s first Offshore Work Class Robot (OWCR),",
+      "sourceUrl": null,
+      "webUrl": "https://www.oedigital.com/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
+      "originalUrl": "https://www.oedigital.com/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.oedigital.com/images/maritime/w537h300pad/bladebug-blade-walking-inspection-robot-115866.jpg",
+          "width": 537,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.oedigital.com/amp/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
+      "cdnAmpWebUrl": "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
+      "publishedDateTime": "2020-08-25T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "oedigital.com",
+        "domain": "oedigital.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
