@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "tact_ai"
   url: "https://twitter.com/tact_ai"
-  followers: 1301
+  followers: 1302
 
 size: 51-200 employees
 yearFounded: 2012
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=HntmBF0px3A"
 
-secured: "d4t57yCkgHmozS2bR9jHsUSBr/v4akms4ct/smgH33xL1dgNumyhsdzvtxNyxm4f0clBGmNaMrVYR7L8O33ugnXk+O8KXyueU8nCqUndmIkls6BQmRj2sqXBRwVIedUkyUjdOKouuvotsJg93o7IyYnDk2Fu+3F0WC3CYQ/KkzCKhanJD/RGgnWL9h1+a1NE7WRgxun9+epEvwLV/GuH5Nm3FppJ8l5dv54T3WiiF4a4v6xUji36qm7FzePBoqCGcD8UJmhOwtVEPWxMO44ZsBUxFokmg0DOxHbtMAUViyZ0KR7wxD3+AJ+dm/O34cDAk/pARa3z0g1Xb02hKXdQDfaog5jADMvHRYO/xzx8xQNn7blgbSAX4DfYwCAb8rl53qa67SRMON3xKBB+n6Pumkqwv3gNDQTcVPKaIT/wV5Q=;i3kgPGEfB+HNnlFBqdcagw=="
+secured: "6ndtG1G1gtSjSjkeee3Os118jRzyL51p+1kqDU/6mZjZW7yh2geBAzbYX44WciiIY8/wx23ryFYdm6aWbqYe6or8Ou81kBWh8P0FWs6nMOTPHQ9CH5k3JcONjzAXj3/DGW6vrstIjxDMpBG3gWL10FgO9it3Bgko1htkKMpn2MER/x7nN1pn4hvfK6A7nUI8ENmEtPDH6M4xycxpiEBudvBYTqV+25xhfXM4f+YXgT4+KT0btQh5hO962Ay7tz4zTE8tPdAMibISblaMLjrH6MOqku5dI+PBtYU7+ex7tvj/CLkwgJmhD7gaWRNA2W8w1rlrZUkVDaUFLRzZCj160RdH7DXuawMm/QjFd13UOybe9VMzrTToqiH66utE58onf4zidKo69ENqAZcyOsYEOtC330dRmlcf41asjlnNmoE=;V3yr1hNDHvbDWEndy7Iw9A=="
 ---
 
