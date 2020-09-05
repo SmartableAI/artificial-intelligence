@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/google-maps-deep-mind-ai-accuracy-14000
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-maps-deep-mind-ai-accuracy-140005698.html"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://www.orissapost.com/wp-content/uploads/2019/12/Maps.jpg"
         width: 467
         height: 313
+        isCached: true
+  - title: "Google Maps Navigation Gains DeepMind AI Assistance To Supercharge Your Commutes"
+    excerpt: "The AI Google Maps is using is their in-business AI, Deep Mind, from Alphabet research labs. Google claims their traffic predictions are accurate for around 97% of trips, and with this new partnership,"
+    publishedDateTime: 2020-09-05T19:15:00Z
+    webUrl: "https://hothardware.com/news/google-maps-with-ai-predictions"
+    ampWebUrl: "https://amp.hothardware.com/news/google-maps-with-ai-predictions"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/google-maps-with-ai-predictions"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 69
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/52755/content/google-maps-hero-2.jpg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Google Maps ETAs prioritizing recent traffic patterns as DeepMind AI improves predictions"
     excerpt: "Many habits have changed in response to COVID-19 lockdowns and that is reflected in large services. Google Maps has \"significantly\" improved ETAs"

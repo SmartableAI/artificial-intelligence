@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence is a totalitarian’s dream — here’s how to take power back"
 excerpt: "Artificial intelligence (AI) will change this. It will know us better than we know ourselves. A government armed with AI could claim to know what its people truly want and what will really make them happy."
 publishedDateTime: 2020-09-05T17:33:00Z
-originalUrl: "https://www.salon.com/2020/09/05/artificial-intelligence-is-a-totalitarians-dream--heres-how-to-take-power-back_partner"
-webUrl: "https://www.salon.com/2020/09/05/artificial-intelligence-is-a-totalitarians-dream--heres-how-to-take-power-back_partner"
+originalUrl: "https://www.salon.com/2020/09/05/artificial-intelligence-is-a-totalitarians-dream--heres-how-to-take-power-back_partner/"
+webUrl: "https://www.salon.com/2020/09/05/artificial-intelligence-is-a-totalitarians-dream--heres-how-to-take-power-back_partner/"
 type: article
 quality: 32
 heat: 32
@@ -23,6 +23,6 @@ images:
     height: 571
     isCached: true
 
-secured: "Drny8LQINZQqvXwOz/WUMjqXlPcSS+wPpYYdkJXnopCzakFB+tUr9karAHBExd7pDjBycgJkFdqKrdVdLSjE/pt9iZzFTxG0X04u3WjlXXAFvnt9ytjgU1jF6hMviY2GDSVh50xpGreUBbtt9IW/EmFQj5FhLwB+6fRxEz/hWvszlkds+Pi2yuKVdvjFHQsG0hjk8r4UFcj18r+dLdcUkkIS8WC3UHhNGH0h8+vo59k+Fr3WvDDHsscLhCb6T4rBaOy2Koni2Y0BXUvtk9yQk3vLKp+WJI2eVn8nVs9TMPqo6WBwHY0PK7B9RKX+LrpjciwvYsjOr8VAolmuJqwXUioDiu8Er7xScvky27B02G0=;a/VwlIgcyDe2a37Uuhr6wQ=="
+secured: "pcbnL7jUNzjrCXbsOeqUgWYEDQXN0VnDhxtMIIE+DYYPwi7P23FBmLwexo0Jh4dOzICBtNYaSokMFLca36VdoWqsKL3DJDrMxcY8C5aOMuJGipqO8yoeYK1aKUExRn/pF6TyiATgjFwgr0QF0loa9Bp4Xl914uE7bBrEgd8okK5utHn4FuooBmp/2SeDpJMu56L8XMo8PEBCvOdorhyaJj4H+vSPr+dmXHM53cEwVI3XJze7Aw+Mp+87MYwBY3ZFK69/QfpBlhToqNHTuCMAvKQdHv3y5caWkgx9mX2ynh2OjTrdH3Lp8CUVDi02BZWDq0gF+O/L0km0G5yo2K4N/An1u5FsaZ8r0qNGAUYTEpw=;A1r93AAxL2neZsUxEJ5aOw=="
 ---
 

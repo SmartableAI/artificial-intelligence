@@ -3,18 +3,18 @@ category: news
 title: "A robot will inspect city sidewalks this fall"
 excerpt: "The future is now.This fall the City of Owen Sound will deploy a robot on its city sidewalks.So what will this marvel of technology set out to accomplish? What is the goal of this semi-autonomous"
 publishedDateTime: 2020-09-05T14:43:00Z
-originalUrl: "https://www.brantfordexpositor.ca/news/local-news/a-robot-will-inspect-city-sidewalks-this-fall/wcm/21a97d02-6f6b-4ee4-9759-ffbc9da212a7"
-webUrl: "https://www.brantfordexpositor.ca/news/local-news/a-robot-will-inspect-city-sidewalks-this-fall/wcm/21a97d02-6f6b-4ee4-9759-ffbc9da212a7"
-ampWebUrl: "https://www.brantfordexpositor.ca/news/local-news/a-robot-will-inspect-city-sidewalks-this-fall/wcm/21a97d02-6f6b-4ee4-9759-ffbc9da212a7/amp"
-cdnAmpWebUrl: "https://www-brantfordexpositor-ca.cdn.ampproject.org/c/s/www.brantfordexpositor.ca/news/local-news/a-robot-will-inspect-city-sidewalks-this-fall/wcm/21a97d02-6f6b-4ee4-9759-ffbc9da212a7/amp"
+originalUrl: "https://www.intelligencer.ca/news/local-news/a-robot-will-inspect-city-sidewalks-this-fall/wcm/21a97d02-6f6b-4ee4-9759-ffbc9da212a7"
+webUrl: "https://www.intelligencer.ca/news/local-news/a-robot-will-inspect-city-sidewalks-this-fall/wcm/21a97d02-6f6b-4ee4-9759-ffbc9da212a7"
+ampWebUrl: "https://www.intelligencer.ca/news/local-news/a-robot-will-inspect-city-sidewalks-this-fall/wcm/21a97d02-6f6b-4ee4-9759-ffbc9da212a7/amp"
+cdnAmpWebUrl: "https://www-intelligencer-ca.cdn.ampproject.org/c/s/www.intelligencer.ca/news/local-news/a-robot-will-inspect-city-sidewalks-this-fall/wcm/21a97d02-6f6b-4ee4-9759-ffbc9da212a7/amp"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: Brantford Expositor
-  domain: brantfordexpositor.ca
+  name: Belleville Intelligencer
+  domain: intelligencer.ca
 
 topics:
   - AI in Robotics
@@ -26,6 +26,6 @@ images:
     height: 750
     isCached: true
 
-secured: "F4kv7B33bUNSHjKTxN53ZrLkbHFQ6BuhduP/P36XyDXPf31A/UvrMjzaKLkBfH5FgdyIV5zysCSt0oGpIzzJtsuaYnYVEvrg3mUFRZN7xj/yBonTwUgFkqLjcJVARLWo/u6b1UquNYlskiIULJCOEq9eTPvG5Cc85CvsVrHYdNv3H46BUIm+5sXX0gjou4j6QSEkHw1v7Xa9oOUKrnfi3YKSMjIWJM7pmtP4Zib4fBv+HslYIbrzsWThV/c8eul4z4LCTUnrCKE8H7affVrThYKPGzEl88ZHWrBKZYthKT165vAcoZGjUpc5jhoVnKrczAh3vyGZNU5jTj5kOUs9FsCRROlslOCPl/pgMS0vAb8=;MiOKi8LxTMETDSWsBhbONA=="
+secured: "dJCvFWIkGtYUlFJ5EoTaWNruk1yPT+hVH4vJIc2QCgnRaYOESYjpSX5WEL3qkM3+9pf2lCpI7v2ehfUbsiXtzq9h2v1ID0EPK7cT3PfCNMgkY2wZMsFkDWc1a556LVykVi/pIZS8YvS92y/QZgK3rvZw4dpm+1SH1UL5eyeMHNnzGf1HZgC9L4j5y2/W8Xlwp+H3LtjWiPbOsWMJdJffqAtXi7X52tkkZ6La9a7xaIZj0mA3FUMVqJehVRHsUQoKQH/FSJ3P/WpUgpvVVB0JAM6JcGRBtniwxW2ms1Ei/Ybu/eAqr7qeT1KawsUlqDlq9zjjBPxNeYeTRpqWsIqQNUasnFD9hrdzRQDWNNSH5/k=;9EW0m7fE1V7oCGMHo/6RfQ=="
 ---
 

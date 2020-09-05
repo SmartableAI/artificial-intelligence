@@ -1,29 +1,29 @@
 ---
 category: news
-title: "This is how Google Maps uses DeepMind AI to predict your arrival time; read here"
-excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
-publishedDateTime: 2020-09-04T05:52:00Z
-originalUrl: "https://www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
-webUrl: "https://www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
-ampWebUrl: "https://www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
-cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
+title: "Google Maps Navigation Gains DeepMind AI Assistance To Supercharge Your Commutes"
+excerpt: "The AI Google Maps is using is their in-business AI, Deep Mind, from Alphabet research labs. Google claims their traffic predictions are accurate for around 97% of trips, and with this new partnership,"
+publishedDateTime: 2020-09-05T19:15:00Z
+originalUrl: "https://hothardware.com/news/google-maps-with-ai-predictions"
+webUrl: "https://hothardware.com/news/google-maps-with-ai-predictions"
+ampWebUrl: "https://amp.hothardware.com/news/google-maps-with-ai-predictions"
+cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/google-maps-with-ai-predictions"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: orissapost.com
-  domain: orissapost.com
+  name: HotHardware
+  domain: hothardware.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://www.orissapost.com/wp-content/uploads/2019/12/Maps.jpg"
-    width: 467
-    height: 313
+  - url: "https://images.hothardware.com/contentimages/newsitem/52755/content/google-maps-hero-2.jpg"
+    width: 708
+    height: 398
     isCached: true
 
 related:
@@ -155,21 +155,21 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Google Maps Navigation Gains DeepMind AI Assistance To Supercharge Your Commutes"
-    excerpt: "The AI Google Maps is using is their in-business AI, Deep Mind, from Alphabet research labs. Google claims their traffic predictions are accurate for around 97% of trips, and with this new partnership,"
-    publishedDateTime: 2020-09-05T19:15:00Z
-    webUrl: "https://hothardware.com/news/google-maps-with-ai-predictions"
-    ampWebUrl: "https://amp.hothardware.com/news/google-maps-with-ai-predictions"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/google-maps-with-ai-predictions"
+  - title: "This is how Google Maps uses DeepMind AI to predict your arrival time; read here"
+    excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
+    publishedDateTime: 2020-09-04T05:52:00Z
+    webUrl: "https://www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
+    ampWebUrl: "https://www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
+      name: orissapost.com
+      domain: orissapost.com
     quality: 69
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/52755/content/google-maps-hero-2.jpg"
-        width: 708
-        height: 398
+      - url: "https://www.orissapost.com/wp-content/uploads/2019/12/Maps.jpg"
+        width: 467
+        height: 313
         isCached: true
   - title: "Google Maps ETAs prioritizing recent traffic patterns as DeepMind AI improves predictions"
     excerpt: "Many habits have changed in response to COVID-19 lockdowns and that is reflected in large services. Google Maps has \"significantly\" improved ETAs"
@@ -216,6 +216,6 @@ related:
         height: 601
         isCached: true
 
-secured: "8bI36FuAr4gl1YJazK3mbqefpqReJz8RvEuRh/oep+HWnKZGY78L77FkAwsg0PtPZB/apnBk83aon/yBhlGAdaaL0hSmUueaKtFCJgfrUJFHgANNBU7bLzQH8nya88D6Un/9ojFpNbetrfw8f0c7mGJFLx16z3vDLESGlOuFWhHBIAAXSDpR7GeAlKaTbo8HGd1KsbSj3Gau5SIB13zQFdY3e/0mag0Q182dh7vtX0neFKp516FGo6g/o9Qvu1lnjfcC5U6XW44pcCUTWYjLtag0DP0G7MsY24hmRd/ojA1CVB21NXGzUnnx4yAmNtH22VZAe1yF3db5iII+nGa+2rz1xdsJtNt9eYZ+W7aPJFk=;R4Dr7jIrxJaEh12iyz9xTA=="
+secured: "mnjaG/QvCEjaD33V6Y/o3c7Myn4wdQj1tkVx/+4k7JL5qk703COFbx04bbTJvc+YPj/v5mslnwbPNSiFkJhvnfW58UFCi1p8N8tnT0h2M0/BxzXk02s0D6TokwAiqku3aohBS96A1MhNR3ytH947yMaJJ9bK1FzKbTZI1zaagIM8gT49P78Pvq0niyAVjaEc9TVYW6bVFO6xvH4RcA3r1O95JARzYd7Qh9V6zC9tyTngsCx90CwdftLxkFP3ZkUgOn1OjXEmKPyO/48voMe6KhkI7s62X9DJP+yTEwC+/Z2y9OzN5C8vpsAFPvedpzNlNPGcTnhD3093JdTIlbByQsBb26TmYNTnhAZNplA3VAM=;7QYfehbZOKqyAg7cojKM7A=="
 ---
 
