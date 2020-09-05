@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN25R0UW"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0UW"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 817
     height: 545
     isCached: true
-
-related:
-  - title: "Facial recognition, bathtime bookings: How China’s universities are reopening"
-    excerpt: "The highly choreographed return comes as Chinese universities revert to in-person instruction for the fall semester after months of pandemic controls. Some universities have strict rules governing how students eat,"
-    publishedDateTime: 2020-08-31T09:26:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/world/2020/08/31/facial-recognition-bathtime-bookings-how-chinas-universities-are-reopening/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 16
 
 secured: "mDRRoFi2k3wV+cvFHvCH1HWdc8KaE2RIBi6WKkYpc6MdBBAujjzRqcG4MCQ+6VJ5s82yzJG87vrrCz7cXwJMGuYrdaGQoD4XFK0Zcc/MdleCdJD/zav+UBjCTkhMIFX3JJhX4Rj51SItZYJyEslYm8FxkmaC8B7mtwAjhLmISV38ntqd/Mi6sGEgKpjvV8h+9FQ40/IhVH2ARzcb7oqpbVj7PUcrgg9C7QbsrsRkja/1SGe9vdp3qer2uzi+RIa6HFPwgc62gx3qBQP6SRUZ54q/Ue2hJInhNi0MzBxlnmhofTMl0DRp+4JhhHgyxTt1/I5+rw6p1PGx08R/fNC+Q0YnOY+FozeJ8nq86U1folE=;t+Ezrocl9v8Ugfm5wATXfg=="
 ---

@@ -1021,6 +1021,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-22-heres-the-smallest-aiml-supercomputer-ever.md",
+      "title": "Here's the smallest AI/ML supercomputer ever",
+      "excerpt": "The SX-Aurora Tsubasa AI Platform supports both Python and TensorFlow development environments as well programming languages such as C/C++ and Fortran. NEC offers multiple versions of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/heres-the-smallest-aiml-supercomputer-ever",
+      "originalUrl": "https://www.techradar.com/news/heres-the-smallest-aiml-supercomputer-ever",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/q8a4w5iETy5tBB4KkqL5EU-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/heres-the-smallest-aiml-supercomputer-ever",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/heres-the-smallest-aiml-supercomputer-ever",
+      "publishedDateTime": "2020-08-21T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-heres-the-smallest-aiml-supercomputer-ever.md",
       "title": "Here's the smallest AI/ML supercomputer ever",
       "excerpt": "The vector processor, with advanced pipelining, is a technology that proved itself long ago,” wrote Robbert Emery, who is responsible for commercializing NEC Corporation’s advanced technologies in HPC and AI/ML platform solutions.",
@@ -1067,47 +1117,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes.md",
-      "title": "A New Tool Aims to Protect Protesters From Facial Recognition With Deepfakes",
-      "excerpt": "In an era in which facial recognition has made it easy for law enforcement and other organizations to search someone’s identity based on their face alone, the question of when it’s appropriate to share identifiable photos of protesters and activists ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/",
-      "originalUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/",
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2020/08/deeepfake-tool-PAGE-2020-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/",
-      "publishedDateTime": "2020-08-21T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

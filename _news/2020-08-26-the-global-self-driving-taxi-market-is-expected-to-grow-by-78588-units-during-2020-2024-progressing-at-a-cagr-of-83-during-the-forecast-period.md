@@ -2,21 +2,25 @@
 category: news
 title: "The Global Self-driving Taxi Market is expected to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period"
 excerpt: "The analyst has been monitoring the self-driving taxi market and it is poised to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period. Our reports on self ..."
-publishedDateTime: 2020-08-26T16:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin"
-webUrl: "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17252765"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17252765"
+publishedDateTime: 2020-08-26T15:33:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-301118728.html"
+webUrl: "https://www.prnewswire.com/news-releases/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period-301118728.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "ALy7ALFEkoc7dU02oh8SND5D/1UdUvtg5MoX+fO45Uaau57dbWsVfi2372wL8Dqw7OWdQUh+DncBinZLnk7Wn/4fpIHeADm0Bq0DUy/Wvo4teeMVs6lpk/giJA0eAASwOzGvEL3gffBhByrr+cmkN5XM8PVj/RP8HyjBCzjdMseaWEApbye1uBkDvxA2SF/Bx4+RKJpUcWxmEHw3o+XopTaYRaRBTQ9EO9Mq7LlKEmwzslBu8y45HBhNeF6P0eDQ0KDP4DvPKBjS36l6r1MritoPfYPdLhUIT+c275AOhZ3JBQdaT+fymU7aIlSyd1bPvER5EKLgpim1Zs+Yw+/8MTLswjibrK/hiaip/5y39ok=;Vu3shf1GXzq/VDNxPrfuWg=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "bxSyZcFJKJpiMVAtH0P4R57le+PZHVY0DQ1L6IyuGxowu3rEFHcQ4Ha9rblp7o2LB2X0MHWhHbrc4FJcJoDWb5l36d4pngkjG+TfL3fg4TGDWJMN9428U5xzgyvlBMt9hhFdn/a42Du13r9kxR7TOznpRsarSDl/wZRa4U8R1jjoYFTdg+giCN2i316W3G+6ZsxI2DA9fA3v1nPS/iQ/tG/Ks7ok0spW1lvoAd3pVzJclcifENxGF6SMffXNjwwjA/z43b9qyDXrEneGrIKToxihWq9w2lUKQu1kO01tb0mzkVa/3GPRwvn3YG4Lt8r2H1122wf3KoAMnFZGrb5lNLFgzYwIrb67roxsbqkbzGk=;KS6Dxgxh89a662THuT/jEA=="
 ---
 

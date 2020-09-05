@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/wealthfront-launches-firs
 webUrl: "https://www.prnewswire.com/news-releases/wealthfront-launches-first-self-driving-money-service-301122763.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GR self-driving shuttle service restarts Monday"
-    excerpt: "Mobility team and the city of Grand Rapids say they’ve made several adjustments to these self-driving vehicles in order to keep passengers safe."
-    publishedDateTime: 2020-08-31T09:16:00Z
-    webUrl: "https://www.woodtv.com/news/grand-rapids/gr-self-driving-shuttle-service-restarts-monday/"
-    ampWebUrl: "https://www.woodtv.com/news/grand-rapids/gr-self-driving-shuttle-service-restarts-monday/amp/"
-    cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/news/grand-rapids/gr-self-driving-shuttle-service-restarts-monday/amp/"
-    type: article
-    provider:
-      name: WOOD-TV
-      domain: woodtv.com
-    quality: 44
-    images:
-      - url: "https://www.woodtv.com/wp-content/uploads/sites/51/2019/07/may-mobility-driverless-autonomous-car-fleet-grand-rapids-072619.jpg"
-        width: 650
-        height: 370
-        isCached: true
   - title: "Wealthfront Launches First Self-Driving Money(TM) Service"
     excerpt: "Today, Wealthfront launched an exciting new service called Autopilot that automates a client's savings plan so they no longer need to manually"
     publishedDateTime: 2020-09-02T14:58:00Z

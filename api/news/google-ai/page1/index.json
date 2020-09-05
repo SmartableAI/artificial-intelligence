@@ -794,6 +794,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-22-heres-the-smallest-aiml-supercomputer-ever.md",
+      "title": "Here's the smallest AI/ML supercomputer ever",
+      "excerpt": "The SX-Aurora Tsubasa AI Platform supports both Python and TensorFlow development environments as well programming languages such as C/C++ and Fortran. NEC offers multiple versions of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/heres-the-smallest-aiml-supercomputer-ever",
+      "originalUrl": "https://www.techradar.com/news/heres-the-smallest-aiml-supercomputer-ever",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/q8a4w5iETy5tBB4KkqL5EU-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/heres-the-smallest-aiml-supercomputer-ever",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/heres-the-smallest-aiml-supercomputer-ever",
+      "publishedDateTime": "2020-08-21T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-heres-the-smallest-aiml-supercomputer-ever.md",
       "title": "Here's the smallest AI/ML supercomputer ever",
       "excerpt": "The vector processor, with advanced pipelining, is a technology that proved itself long ago,” wrote Robbert Emery, who is responsible for commercializing NEC Corporation’s advanced technologies in HPC and AI/ML platform solutions.",
@@ -1386,57 +1436,6 @@
         "AI in Healthcare",
         "Natural Language Processing",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-how-to-choose-a-cloud-machine-learning-platform.md",
-      "title": "How to choose a cloud machine learning platform",
-      "excerpt": "Even if you’re good at those tasks, they are time-consuming and can be automated to a large extent. AutoML systems often try many models to see which result in the best objective function values, for example the minimum squared error for regression problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3568889/how-to-choose-a-cloud-machine-learning-platform.html",
-      "originalUrl": "https://www.infoworld.com/article/3568889/how-to-choose-a-cloud-machine-learning-platform.html",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/08/ifw_ts_ai_ml_by-just_super-getty-images_2400x1600-100853890-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3568889/how-to-choose-a-cloud-machine-learning-platform.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3568889/how-to-choose-a-cloud-machine-learning-platform.amp.html",
-      "publishedDateTime": "2020-08-10T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

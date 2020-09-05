@@ -7,7 +7,7 @@ originalUrl: "https://www.truckinginfo.com/10125146/inside-the-cab-of-an-autonom
 webUrl: "https://www.truckinginfo.com/10125146/inside-the-cab-of-an-autonomous-truck"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Waymo autonomous trucks begin testing in Texas"
-    excerpt: "The self-driving technology company will pilot Peterbilt 579 trucks on runs from Dallas to El Paso and Houston."
-    publishedDateTime: 2020-08-31T09:12:00Z
-    webUrl: "https://www.trucker.com/equipment/trucks/article/21140509/waymo-autonomous-trucks-begin-testing-in-texas"
-    type: article
-    provider:
-      name: Trucker
-      domain: trucker.com
-    quality: 39
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/trucker/image/2020/08/16x9/042120_Waymo_truck.5f492cdf3777f.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 674
-        isCached: true
 
 secured: "Cc5TuKmfaZEqDg2eQ+xj3QZo0WYNJRE4THIDpfXRfO0dy9ttUCZ0VtwQyZAgXJLV0UzWCsAcupQHuQ7pwJx5KPIhH6JOJeTxCRU2/ciDpgLUpuAKP5yotBB8M0Fi9Kv6JWtbqsQac6nntXr78+liBX/L7/sGnCVsrZxQ7Pbh0SaCsgbQFXCA7uhRDlW1lBBQL0KjYQXalQ37Yhf3shYMcgarM8cPSAxxGXU4EfqlyXl4LQLMI1Jg5pZFxMPJ5f+flQal81D+O32mW3MX1qA1vW7ER8vUBYTEiXxd4bJldB2UdSEJbYt4cEa4jfmU4TKXTd6bAEOQwlq+r539VIaaxUBfmnBe2gaJpt1dP0tJtBUyF9Sl+1BwA0Y0hq5SilT0i6mMua2iITTP1HQrJ9SpXq+VMgZ477IjXewj/YnKKcjM898ryiw/Vf3utuTdoUxtSBaPNCWJaQPkgJigBXkZI70xgNPUaLzI5mmsBVMzuNcNZBbNGY4/x++rjwnYcp/FigWMtIc6JSgAwUhocNChXrrcfoe6UbldWzlSp5hf5a8=;zsDmqTyCI7JT9dq8YyRQIQ=="
 ---

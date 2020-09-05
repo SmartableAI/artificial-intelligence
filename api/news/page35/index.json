@@ -2,6 +2,56 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-08-06-macys-sued-over-use-of-clearview-facial-recognition-software.md",
+      "title": "Macy’s Sued Over Use of Clearview Facial-Recognition Software",
+      "excerpt": "Macy’s Retail Holdings Inc. was targeted in one of the first lawsuits against users of the controversial facial-recognition software made by startup Clearview AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCjoIH.CSaXQ/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
+      "publishedDateTime": "2020-08-06T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit.md",
       "title": "Google adds Digital Ink Recognition API for touch and stylus input to ML Kit",
       "excerpt": "Google introduced a new API for touch and stylus input to ML Kit, its machine learning development toolkit for Android and iOS.",
@@ -1070,48 +1120,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-black-hat-hackers-can-remotely-hijack-enterprise-healthcare-temi-robots.md",
-      "title": "Black Hat: Hackers can remotely hijack enterprise, healthcare Temi robots",
-      "excerpt": "Robots used in hospitals and care homes to assist patients and the vulnerable can be fully hijacked by cyberattackers.  On Thursday at Black Hat USA, McAfee's Advanced Threat Research (ATR) team disclosed new research into the robots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/",
-      "publishedDateTime": "2020-08-05T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
