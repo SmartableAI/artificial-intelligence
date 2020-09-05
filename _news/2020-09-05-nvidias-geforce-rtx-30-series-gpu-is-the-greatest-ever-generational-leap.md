@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Nvidia unveils GeForce RTX 3080 GPU with 28 billion transistors"
-excerpt: "Nvidia has unveiled its 28-billion transistor Ampere-based 30 series graphics chips for PC gamers. The new chips will shore up PC gaming."
-publishedDateTime: 2020-09-01T16:53:00Z
-originalUrl: "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/"
-webUrl: "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/"
-ampWebUrl: "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/amp/"
+title: "NVIDIA’s GeForce RTX 30 Series GPU Is The Greatest-Ever Generational Leap"
+excerpt: "Jensen Huang, CEO and founder of Nvidia, has unveiled its all-new GeForce RTX 30 Series GPUs from the kitchen of his Silicon-valley home."
+publishedDateTime: 2020-09-05T04:37:00Z
+originalUrl: "https://analyticsindiamag.com/nvidias-geforce-rtx-30-series-gpu-is-the-greatest-ever-generational-leap/"
+webUrl: "https://analyticsindiamag.com/nvidias-geforce-rtx-30-series-gpu-is-the-greatest-ever-generational-leap/"
 type: article
-quality: 89
-heat: 149
-published: true
+quality: 38
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/09/nvidia-GeForce-RTX-30-Series.jpg?w=1200&#038;strip=all"
-    width: 1200
-    height: 675
+  - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/Aim_nvidia-compressed.jpg"
+    width: 783
+    height: 535
     isCached: true
 
 related:
+  - title: "Nvidia unveils GeForce RTX 3080 GPU with 28 billion transistors"
+    excerpt: "Nvidia has unveiled its 28-billion transistor Ampere-based 30 series graphics chips for PC gamers. The new chips will shore up PC gaming."
+    publishedDateTime: 2020-09-01T16:53:00Z
+    webUrl: "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/"
+    ampWebUrl: "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/nvidia-GeForce-RTX-30-Series.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NVIDIA unveils the $699 GeForce RTX 3080, its first 'Ampere' GPU"
     excerpt: "And it also showed off the $499 RTX 3070. NVIDIA’s latest 30 Series GPUs are officially here, after weeks of seemingly endless leaks. The company unveiled the RTX 3080 and RTX 3070 today, the first consumer offerings based on its new “Ampere” architecture."
     publishedDateTime: 2020-09-01T16:37:00Z
@@ -95,20 +105,6 @@ related:
         width: 1000
         height: 564
         isCached: true
-  - title: "NVIDIA’s GeForce RTX 30 Series GPU Is The Greatest-Ever Generational Leap"
-    excerpt: "Jensen Huang, CEO and founder of Nvidia, has unveiled its all-new GeForce RTX 30 Series GPUs from the kitchen of his Silicon-valley home."
-    publishedDateTime: 2020-09-05T04:37:00Z
-    webUrl: "https://analyticsindiamag.com/nvidias-geforce-rtx-30-series-gpu-is-the-greatest-ever-generational-leap/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 38
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/Aim_nvidia-compressed.jpg"
-        width: 783
-        height: 535
-        isCached: true
   - title: "NVIDIA Announces GeForce RTX 30 Series GPU, New Tech"
     excerpt: "NVIDIA unveiled its GeForce RTX 30 Series GPUs, powered by the NVIDIA Ampere architecture, which delivers the greatest-ever generational leap in GeForce history."
     publishedDateTime: 2020-09-01T17:06:00Z
@@ -119,6 +115,6 @@ related:
       domain: worthplaying.com
     quality: 19
 
-secured: "Ds/uUR1ug9YUpEiSi1lLqk3sIJxPM/7Kp98E0aSiVnuy1XCbCJxztK9MznWQ5xs0l5VApGB6GBMRytb9iSbbPhkkenW4QDFa2yPMYO3b2ReqpyBrsL6goRV0ZGCBIT/6/xy+C6aD2MEbtsxynZkXPl5VdEAHRanTVizpt1RxhHNsfP94//2z+3JwV95ZUZWxMl8dDQnWgUiBSrOqNpZ7CrV6vIBUA841H+yFoNmZVqp5P99q1jmh9pU4SismgHx06KmlynyBwTTOpxkc0vNDrgYNCcENIfVAIORkcbqxjKee08w6lBG07XDHQS+mc36YPolbSgwIH55PpIbSZoaIoI/BH+70TnS3dxc5EL9XCHO3nJA02nkInf3RQudaB74voWoOYZdnAAYjkdlzGwFKEWcGjzmbR4l3KR9j++y8szrrdo/z9UZ0G/r/DuIogNdKdX5j10tTK28jNiNAQK2pL5IwxDkLf0x3NMfUejYmzDjZ9VqPzRU6tMljjvykys90ucWzTY+czlUeLTl2lXYgyEFKa3ssZkx0LzmY1PkDVcc=;U46H1cPbotiPOiOhrLC40A=="
+secured: "fsqCxPPjzh3ej4UpfXWVNG+LNsS7gZqyXcKEM0Xb2yioZBLC7lm1CU9bKi55obeJ0cE6CNGo0lzpQaU9x0lQOEfNbW//4535XMVgKeK7vcCwdf86M7w6mkTYY8IJmcUM0OdhebY002n6eRT7QmzZa3IqQTxfZCODJzDRQeEgcEYprhO9vAX9C6NuD07HMUM4tuY3kvMEk3hwm1Wmwpmp1l4fWuXRH7M4nvT3ufzB0j+6DQp86UxBjAmktSq6EpwAjMw52+xwi/8x8AmpfGBAk9jXKjbowbwQ8dSqtjOH/II3Gtk5fgRWtebAZiw7jtxuq2CMTP94q2ZzirJydUbiwWqG8eqG7U9CQcdEXpgKyns=;GhTO0bDGwo5+LJvttOC1WA=="
 ---
 

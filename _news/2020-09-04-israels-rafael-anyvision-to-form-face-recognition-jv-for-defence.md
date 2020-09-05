@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-fac
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03?amp"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "From Microsoft dropping out to new collab with Rafael: Israeli AnyVision raises $43M"
+    excerpt: "With action packed year behind them including Microsoft backing out and a new partnership with Rafael Technologies, Israeli startup AnyVision scores funding to dominate the world of facial"
+    publishedDateTime: 2020-09-04T20:36:00Z
+    webUrl: "https://www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/"
+    ampWebUrl: "https://www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 52
+    images:
+      - url: "https://www.geektime.com/content/images/2020/09/ANYVISION-1599206759.jpg"
+        width: 760
+        height: 514
+        isCached: true
   - title: "AnyVision's Fair Face Recognition Challenge Shows Ethnic Bias Can Be Eliminated"
     excerpt: "Since the wave of protests that swept the U.S after the death of George Floyd, the issue of biases in AI systems and specifically facial recognition h"
     publishedDateTime: 2020-09-02T20:02:00Z

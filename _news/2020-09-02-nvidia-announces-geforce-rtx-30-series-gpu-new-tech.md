@@ -99,6 +99,20 @@ related:
         width: 1000
         height: 564
         isCached: true
+  - title: "NVIDIA’s GeForce RTX 30 Series GPU Is The Greatest-Ever Generational Leap"
+    excerpt: "Jensen Huang, CEO and founder of Nvidia, has unveiled its all-new GeForce RTX 30 Series GPUs from the kitchen of his Silicon-valley home."
+    publishedDateTime: 2020-09-05T04:37:00Z
+    webUrl: "https://analyticsindiamag.com/nvidias-geforce-rtx-30-series-gpu-is-the-greatest-ever-generational-leap/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 38
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/Aim_nvidia-compressed.jpg"
+        width: 783
+        height: 535
+        isCached: true
 
 secured: "kEenzIvQTXnzaezMKPQtyji9foThq7pREKf7cX/pVmnArZDeCrFehUgAQpNM1+1TWKe+K02Apb81sraZF506lH2S7mUY6xXvhGwpaXvpPsBgJGMLQ/D4iBSmlLddNkOU9RFoBfuaa+SJCi6yH3u2mjxGCiPZD4azXCYhQdtGj0okLW/ky5o3T9QOdsobAm0G8FnaxbdpNb3hek21n9jBWilIWo+kL0ITmWy7Bcn4i4/vlY5f+PBAFo487iOzcoMDfzfk7zqVh1/JbMgVHsC9LdBUdRhgYbS4cGKQtvDwhxvKqs1bb9j+E/vH4qgNJjIEHh4A7+6u8W3uOw2T8ZEfKHkA3G7XeOGqNUJzOD+XdA8=;cEN+Yxot8c7uWmLIwAz+/A=="
 ---

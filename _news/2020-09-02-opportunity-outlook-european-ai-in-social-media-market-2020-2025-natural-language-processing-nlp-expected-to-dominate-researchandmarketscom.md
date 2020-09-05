@@ -78,20 +78,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Worldwide Social Robots Industry to 2025 - Featuring Intuition Robotics, Haapie SAS & Reach Robotics Among Others - ResearchAndMarkets.com"
-    excerpt: "The “Social Robots Market - Growth. Trends and Forecasts (2020-2025)” report has been added to ResearchAndMarkets.com’s offering. The Social Robots market is estimated to grow at a CAGR of about 14% over the forecast period 2020 to 2025."
-    publishedDateTime: 2020-09-03T13:35:00Z
-    webUrl: "https://apnews.com/7b7722170fa84e6da4e3cfabad4c1ecd"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global Artificial Intelligence Processor Market to 2025 - Profiling Apple, Huawei & MediaTek Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Artificial Intelligence Processor Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The Artificial Intelligence (AI) processor market was valued at US$71."
     publishedDateTime: 2020-09-04T12:30:00Z
@@ -106,15 +92,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Worldwide Augmented Reality in Healthcare Industry to 2025 - Major Players and Strategy Analysis"
-    excerpt: "PRNewswire/ -- The \"Augmented Reality (AR) in Healthcare Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-09-02T18:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-augmented-reality-in-healthcare-industry-to-2025---major-players-and-strategy-analysis-301123220.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 6
 
 secured: "7Qg27T6t9aDvSLBi2ceU920jB5YwxhyBIL52M0V07mGFI+tqh0TpCXFBm/e9aAARdhZl2uEGPBxefpTb1Qu8has9uFUJKWNDkL5SxCa1fbCHzwjxcouX6kyNZYwARB8YIoABCn2uJpJpMkRWZC0JVrtAOCkG0hTon86ICqyh5+sTpQpXVy17EOcH6S+Twm3o+UrbeuLadAaGHAo+Ewx0NTqMr/NzS/983OmUZQYhhkJjMBI++mp8EjW9PZZyVSYmS8TNL0zNmSBLRwSYXyg0nMoVigF5kTsWzpXSIEVq5SguGuOejAGv8EXUtZx5IslJScZ6NjMYx46cHWeZ+NTKKHGVrvAdobvimtmCxJuQFkBZIjn/rTdlaCPV1OcNDm0R9UCEJSgQmxF7Bpxd2TpZPKTGhi8zm7AC2PyEf46BbUOAc70dtEolBMQmMLq6MWtjHQz64yLEIbG4yxMGHu49A/drMgMp5JM6xHWonxx8zFDj+TJRPiQo128cxutgc0jjnP7fNPVeP1GiNKT6I7LEfw==;Qpg7HOxDbC6pp+iSiSKCoA=="
 ---

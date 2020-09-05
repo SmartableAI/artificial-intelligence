@@ -26,86 +26,103 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide IoT Chip in Healthcare Industry to 2025 - by Connectivity and Geography - ResearchAndMarkets.com"
-    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
-    publishedDateTime: 2020-09-02T13:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200902005651/en/"
+  - title: "Artificial Intelligence Robots Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 - 2025"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
+    publishedDateTime: 2020-09-01T17:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2025-2020-09-01"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 38
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: "https://mms.businesswire.com/media/20200902005651/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
         isCached: true
-  - title: "Global IoT Chip in Healthcare Market (2020 to 2025) - Featuring Intel, Qualcomm Technologies & Texas Instruments Among Others"
-    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
-    publishedDateTime: 2020-09-03T12:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17367086/global-iot-chip-in-healthcare-market-2020-to-2025-featuring-intel-qualcomm-technologies-texas-inst"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17367086"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17367086"
+  - title: "Artificial Intelligence as a Service Market 2020-2023 / Growth, Emerging Trends And Forecast"
+    excerpt: "Comserve Inc. / -- Artificial Intelligence as a Service Market Analysis 2020-2023 by Size, Share Emerging Trends, Future Growth, Technology, Revenue Analysis, Impact Analysis of COVID-19, Demand Forecast Global Artificial Intelligence as a Service (AIaaS) Market,"
+    publishedDateTime: 2020-09-01T01:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-31"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
-  - title: "North American Artificial Intelligence in Diagnostics Market 2020-2026 - ResearchAndMarkets.com"
-    excerpt: "The North America Artificial Intelligence in Diagnostics Market is expected to witness market growth of 26.6% CAGR during the forecast period (2020-2026). “North America Artificial Intelligence in Diagnostics Market By Diagnosis Type (Radiology,"
-    publishedDateTime: 2020-09-02T10:22:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200902005500/en/North-American-Artificial-Intelligence-Diagnostics-Market-2020-2026"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: "https://mms.businesswire.com/media/20200902005500/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
         isCached: true
-  - title: "Outlook on the AI Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
-    excerpt: "The \"Global Artificial Intelligence (AI) Chips Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence (AI) chips market is poised to grow by $ 54.03 billion during 2020-2024 progressing at a CAGR of 42% during the forecast period."
-    publishedDateTime: 2020-09-04T12:54:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200904005314/en/Outlook-AI-Global-Market-2024---Key"
+  - title: "Artificial Intelligence Market Incredible Possibilities, Growth Analysis and Forecast To 2025"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp(NYSE:IBM),"
+    publishedDateTime: 2020-09-01T07:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-incredible-possibilities-growth-analysis-and-forecast-to-2025-2020-09-01"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: "https://mms.businesswire.com/media/20200904005314/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
         isCached: true
-  - title: "Opportunity Outlook: European AI in Social Media Market 2020-2025 - Natural Language Processing (NLP) Expected to Dominate - ResearchAndMarkets.com"
-    excerpt: "The European AI In Social Media Market is expected to grow at a formidable rate during the forecast period. The European AI In Social Media Market is driven by the utilization of the AI technology for effective advertising campaigns on different social media platforms."
-    publishedDateTime: 2020-09-02T11:29:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200902005546/en/Opportunity-Outlook-European-AI-Social-Media-Market"
+  - title: "Machine Learning As A Service Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
+    excerpt: "The global Machine Learning As A Service Market stood at US$ 1,071.6 Mn in 2016. The study projects the global"
+    publishedDateTime: 2020-09-04T12:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-04"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://mms.businesswire.com/media/20200902005546/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Processor Market to 2025 - Profiling Apple, Huawei & MediaTek Among Others - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence Processor Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The Artificial Intelligence (AI) processor market was valued at US$71."
-    publishedDateTime: 2020-09-04T12:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200904005302/en/Global-Artificial-Intelligence-Processor-Market-2025--"
+  - title: "Artificial Intelligence Robots Market Outlook, Size, Share and Growth and Forecast Assumptions Through 2023 | Impact of COVID-19 Pandemic"
+    excerpt: "Global AI Robots Market Research Report - by Offering (Software, Hardware), by Type (Service Robots, Industrial Robots),"
+    publishedDateTime: 2020-09-03T11:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-size-share-and-growth-and-forecast-assumptions-through-2023-impact-of-covid-19-pandemic-2020-09-03"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
-      - url: "https://mms.businesswire.com/media/20200904005302/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Outlook, Size, Share and Growth and Forecast Assumptions Through 2026 | Impact of COVID-19 Pandemic"
+    excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
+    publishedDateTime: 2020-09-03T04:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-outlook-size-share-and-growth-and-forecast-assumptions-through-2026-impact-of-covid-19-pandemic-2020-09-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
+    excerpt: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation Demand Growth Trend Opportunity and Forecast to 2026"
+    publishedDateTime: 2020-09-04T06:29:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266296215/global-artificial-intelligence-in-the-medical-imaging-market-2020-segmentation-demand-growth-trend-opportunity-and-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 7
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1599177222136.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Worldwide Augmented Reality in Healthcare Industry to 2025 - Major Players and Strategy Analysis"
     excerpt: "PRNewswire/ -- The \"Augmented Reality (AR) in Healthcare Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering."
@@ -116,6 +133,34 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 6
+  - title: "Global Speech & Voice Recognition Market 2020 Share, Size, Global Trend, Market Analysis and Forecast to 2026"
+    excerpt: "WiseGuyRerports.com Presents \"Global Speech & Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2025\" New Document to its Studies Database. Mark"
+    publishedDateTime: 2020-08-31T20:10:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266262784/global-speech--voice-recognition-market-2020-share-size-global-trend-market-analysis-and-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 5
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1598939951736.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Covid-19 Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 - Dynamics, Trends, Revenue, Forecast to 2026"
+    excerpt: "Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 ndash Dynamics Trends Revenue Forecast to 2026"
+    publishedDateTime: 2020-09-03T11:59:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266288531/covid-19-impact-on-global-artificial-intelligence-education-technology-market-analysis-2020---dynamics-trends-revenue-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 4
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1599124582181.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "Lll19uthaWs0ny9PCMo9CR5Awuc2y2TNIVQl+br9xDvdHyr88ei/jxqgyRORUu0dpw7dn47+I8poOdieWRb4k+eCliqLFja6KJlXDfQlgy1ElmRI7/O+U0m4U/I7xktl+wqCZdePdthqTu3G+oM1OxJ42Ogrug7IpO2Kka9UCiTxcoXPdPlzxiAdDWakM57Jaeg/TBbqmU65XOnR2YMKc9UVrNmEezZ3TpUmsopsmHaLPz3VODtbyMZK+F8UDo4V1Gfomq1gVju6XZQmURat4FAiG4R2XWAX+KCV2vZEqOdyFKuiPhIdCDTOtEPaVA9RqC8gWu2rArgCVJvZnjz43ydi0yEOl3CKCze5AGP910U=;nkrS/H96N7BPontWRBtZpw=="
 ---

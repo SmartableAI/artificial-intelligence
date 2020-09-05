@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/onica-a-rackspace-technology-
 webUrl: "https://www.nasdaq.com/press-release/onica-a-rackspace-technology-company-introduces-contact-center-intelligence-0"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "The Coming Revolution in Intelligence Affairs"
-    excerpt: "The U.S. intelligence community must embrace the revolution in intelligence affairs and prepare for a future dominated by AI—or else risk losing its competitive edge."
-    publishedDateTime: 2020-08-31T12:44:00Z
-    webUrl: "https://www.foreignaffairs.com/articles/north-america/2020-08-31/coming-revolution-intelligence-affairs"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/x_large_1x/public/images/2020/08/26/RTX6GAIT.JPG?itok=NlkFtN6v"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "/H7AKY2eqj6UjIn9QVaaO1rIMyPsMdTYt/zVBLHqvy0cK8PWJyJg0zWdKzv64oC4yh+N3mA3n5gfLGY5CvHw/RAHPh0ZjW1YHhnkEtLg8E68UQmNi4rOd/fm+bCaAJg3/LOjDWYIMNY518HlPqW8laF2jlN8U4Zl0gzz/PTNnYM9eLB9eepe3EUHkkkM8iLDQaTLgGf2Tv4XwyQisUWZ1Eh2ddcwyn0UEnOxhiIE9Gl4Moth/r/OQunh6IB71NVeY9Lvdlb1qFx2iJDZu8kjHAOcMXTpq+qfW7X5LkMVLDMvFDJMHXgbyKzzZHUloeYThOj89RxV+f6Z9jvyMYbiJ9i5Emiv1oNdbhWFjguT8cs=;QX/0x2YxpmilbEAYTijG8A=="
 ---

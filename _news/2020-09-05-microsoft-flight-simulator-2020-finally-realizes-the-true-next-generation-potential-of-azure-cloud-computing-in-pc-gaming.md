@@ -3,10 +3,10 @@ category: news
 title: "Microsoft Flight Simulator 2020 finally realizes the true next-generation potential of Azure cloud computing in PC gaming"
 excerpt: "The core of Flight Simulator lies within Azure. From its hyper realistic flight handling to gorgeous visuals,’s cloud computing elevates the game into a technical marvel. In order to “somewhat accurately” create every inch of the entire globe with incredible detail,"
 publishedDateTime: 2020-09-04T18:39:00Z
-originalUrl: "https://www.techradar.com/uk/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming"
-webUrl: "https://www.techradar.com/uk/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming"
+originalUrl: "https://www.techradar.com/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming"
+webUrl: "https://www.techradar.com/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming"
+ampWebUrl: "https://www.techradar.com/amp/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming"
 type: article
 quality: 79
 heat: 79
@@ -30,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "YLR+9OJPSEo5Oqc4fMD2G4aOs5jzHBPSJVa4+h3T1TganiUwz+9yjaj9obcyKYAHduAIO8EB5vVGxJ61Xln6fdsWe7N45bATk/fPDMp4QmjcDF7N/RppEfbAFnEUNaA39UL3iemM9aeJCitxf0Rzxw19IGu+Bz9QlJqN7mCmdsWdrNmmgSqaLD4pxMvoYpw5MSHPq8mLDScvl0C08M88jRSdZIYMsAuYdRxfPIhw1iUnAn/OZQf5GLOpGBb1fSslwckLPgahEl92973hkU4RoJmmXlXSOasllP4e69JAwuaXzOegsiPAp/IvZ0d8uubxHjrMpVOdUn3yIS8Fs3CpfHtKhxMEPXzOqFD6cCbjekEL7cCCs4UwQGCye67GxUJ0bvAbCCByAR/kmCV3gDJUIZDgoEcKRyT/0AdkhCsRd3CoricO1XFiaXfn6GDneIuUdc+kCzEcdHbqGta7gteg1UmbySu4IOr+M06o0yj+vjV/J4mjttNtwqTp0x/7mSDgAbJ1J15WqjK/vgj5Y5AEia4gaN9EBJwYRiZfMI5EIR0=;0qKOHJaNvdGM6N2n0Tvm6Q=="
+secured: "Y0KcCAmt4yvtNwrDWQXJIzVLEnzYJZV89vlOi7qeRLnk2Hv1q+w+Ea4gnQgU6FJoKPLa3SFDT8ME2hojeCV0QFpk+4IvD4GofWixxgK5ZCbK5Lk9tZx96uhpR5gz5NlrHawCkIehrx8qx4M+B46inJOSsj/AC5513pl+Cgci6MrPFZzpZSUxLY9KFAHnYovbiyMmfw3e59LQ09zw/ZuCu5SX52KoLUDVTC7zEtsNN4wndLJcti0pMWD5RBnWdKC85w4Kr1pQUljZhua29s367BtIha874Q1LM6qsqF/7ifBP/G9SDYpgLu6crSzZpAuLmARKhZCz0hTWkpYD2azeKA7zoddgI55CM3DCscQBOZU=;WrDftwv13NIEBZqAHr7llw=="
 ---
 

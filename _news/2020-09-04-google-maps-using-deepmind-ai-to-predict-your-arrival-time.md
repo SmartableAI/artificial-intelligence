@@ -2,28 +2,26 @@
 category: news
 title: "Google Maps using DeepMind AI to predict your arrival time"
 excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
-publishedDateTime: 2020-09-04T05:21:00Z
-originalUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
-webUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
-ampWebUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
-cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+publishedDateTime: 2020-09-04T07:03:00Z
+originalUrl: "https://www.dailypioneer.com/2020/technology/google-maps-using-deepmind-ai-to-predict-your-arrival-time.html"
+webUrl: "https://www.dailypioneer.com/2020/technology/google-maps-using-deepmind-ai-to-predict-your-arrival-time.html"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Tribune
-  domain: tribuneindia.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/9/2020_9$largeimg_1012661407.jpg"
-    width: 900
-    height: 600
+  - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/google-maps-using-deepmind-ai-to-predict-your-arrival-time-2020-09-04.jpg"
+    width: 1000
+    height: 800
     isCached: true
 
 related:
@@ -200,6 +198,6 @@ related:
         height: 601
         isCached: true
 
-secured: "w+ZhJyAOQZYgJUY5fIZTgpFL4WpejSIzXf3lag7K3+H1dtBDqwmTjlqay3VKSR+e558XCD040r+uskxTzctIY04W+SCQMEij5uih5iHKPqLY87T3eLYLpIudxYYlftG3rWst4d7Z2iUuuUg/HTlw4Q+C8pyQViarm2O4o0wZBLkkEvP8CZ/Lh6v7PT8aVgu0I5zT0uP9wTU+6UlL6JAGZ2TU5mnaHYFlZPiYhqeQ2fFiPBKnwsyS1WHFRzIMdnMgNcW1MzSmVKUcSWLIhnc71ruKir0qZAuXy9wz6ELBVxQcHUQrFroCLvsCYMNA1Yc4q9T/KGFoUx4dVZ2+Smf0a488SJNG0nnt5v7mrSUzqEESziT9pV5CLXyltTr3kgaq0n5HYYaP/XJunZGStZ3+v1yUTqyF8bhBpNviaoxYd+R7sbEvj3bQyoe6rz93qUxypsNEfdTHB5vpkElJn7ef7IDSLvxB4mwmJuAYjQfvcgCHBNNPBJ/YVrg0BXPJ7BEbp3N1vOvkc4qdvnMPzhax+DJunYNIDkEDU2YcRuILInw=;R/yisIXmFpdDr481+lP1Jw=="
+secured: "RTjWhJ8zC4mem37iQ1oJBC4PW2QFn7XPqZwpciQ6WgEsgxlphSLsFXO/JRHi6b7JN2hW3nTlYSzGZKsRY2z9Asvlcw/c4Zd0IiXU8jvYTskZerwaoTKSOBO4k8PiTeoYugdJ+zESOYP0YPJmljqd/LmgMFDbbtqwfayk42aNryjtZgH9EnFBBCnFTvcorw7hdzH9c2Din3443EEUC+SzX7ZLj2huqYJt3XYvkP0aJIWXuhL7HxiO8EJa7R5lIDtpIvaysC0P7kuxSwKjqWHfc3QxnJbPJG/Wqink2H3DYBaV2ifXMMXA9P4xSJbHO14r5h7hktlToxZtzY1VHsofPA1N/aJxCOK7o4VIj2UeQYo=;SrNAg1cEDqZjma2KXtmwWg=="
 ---
 

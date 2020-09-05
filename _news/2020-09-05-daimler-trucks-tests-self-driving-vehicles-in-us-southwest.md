@@ -2,19 +2,19 @@
 category: news
 title: "Daimler Trucks tests self-driving vehicles in US Southwest"
 excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-publishedDateTime: 2020-09-04T20:10:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
-webUrl: "https://www.stamfordadvocate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
-ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
-cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
+publishedDateTime: 2020-09-05T04:10:00Z
+originalUrl: "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
+webUrl: "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
+ampWebUrl: "https://www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
+cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - AI in Autos
@@ -138,6 +138,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "hOKP3RRwjdSrqKA2YhkXFmfFCgIkbr1dGQ1BLMYBMYAMx+v5cxwPyLmabRoUpa0VQVNfNDVGz6ArY8B1zWb0HoduFcD0mM8zAejqQxgCF7GsVx2KTbO1gmjeRVeOsY6mEwLHdjm2rA9kWVYdFyWL4c5+JfrZpv7SF1HtQKjhUO+ArVVy8fsW+Ffn+KjjlcPTU5GPSd0Hym78g6JBiWgnJMWcwGXHZKxXOWZZ22bMwN6B9o6xWrEpT9fbXLmEtfsYPx7Pzjct9cS+JaZTJs+Av7BH1abnzaJkSTlJMtkz2X6PnEZb/AIK2qg1eWH7IstFht9I6RUUeN5Ch5VQrGyTv0pDxoZT68eEKEbMDPTNnrc=;Fns8ojbuGAbzLyiahqbThw=="
+secured: "HJEagOKFVMW1lgVcM7vTAvi8CtHDnOcvu+moIegNJvQkdsFG9CvG+wbI10Z/YAkxJXWQnkTa5K7Ol55NzKhvoDGS2dw75gbrramNLEyBLQ6eeyUXEuQcrmbt+Lra6Mb4H7ejSxAMS0a6BoNeNnpraQj+UInC4tWTFn0RwkWbIbbFNz6pbxtpLHBvAyrnblFfabH2poo8+KLZunAONX1j9TinCg2PAt3jBMAMXaUEi8t7isgfwxswILXwhPMzaZZg2vHxGGp9847qSOkPrlkgaXld2+cec6V3xVZWkKebjdRyW73OLiAwn+5to9AnTCjYGYzdiklkMvTtiNo/7o2TuXtUMzoOnGDM7jFfeyzdFAQ=;8wyruvZ/iiuWWDEJXBoijg=="
 ---
 

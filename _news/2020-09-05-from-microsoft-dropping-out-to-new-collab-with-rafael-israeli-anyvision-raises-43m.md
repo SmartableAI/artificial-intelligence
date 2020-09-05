@@ -1,27 +1,29 @@
 ---
 category: news
-title: "AnyVision's Fair Face Recognition Challenge Shows Ethnic Bias Can Be Eliminated"
-excerpt: "Since the wave of protests that swept the U.S after the death of George Floyd, the issue of biases in AI systems and specifically facial recognition h"
-publishedDateTime: 2020-09-02T20:02:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200902005892/en/AnyVisions-Fair-Face-Recognition-Challenge-Shows-Ethnic"
-webUrl: "https://www.businesswire.com/news/home/20200902005892/en/AnyVisions-Fair-Face-Recognition-Challenge-Shows-Ethnic"
+title: "From Microsoft dropping out to new collab with Rafael: Israeli AnyVision raises $43M"
+excerpt: "With action packed year behind them including Microsoft backing out and a new partnership with Rafael Technologies, Israeli startup AnyVision scores funding to dominate the world of facial"
+publishedDateTime: 2020-09-04T20:36:00Z
+originalUrl: "https://www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/"
+webUrl: "https://www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/"
+ampWebUrl: "https://www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/amp/"
+cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/amp/"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Geektime
+  domain: geektime.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200902005892/en/818051/23/Cameras+PR3x.jpg"
-    width: 1200
-    height: 627
+  - url: "https://www.geektime.com/content/images/2020/09/ANYVISION-1599206759.jpg"
+    width: 760
+    height: 514
     isCached: true
 
 related:
@@ -36,21 +38,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "From Microsoft dropping out to new collab with Rafael: Israeli AnyVision raises $43M"
-    excerpt: "With action packed year behind them including Microsoft backing out and a new partnership with Rafael Technologies, Israeli startup AnyVision scores funding to dominate the world of facial"
-    publishedDateTime: 2020-09-04T20:36:00Z
-    webUrl: "https://www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/"
-    ampWebUrl: "https://www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/amp/"
+  - title: "AnyVision's Fair Face Recognition Challenge Shows Ethnic Bias Can Be Eliminated"
+    excerpt: "Since the wave of protests that swept the U.S after the death of George Floyd, the issue of biases in AI systems and specifically facial recognition h"
+    publishedDateTime: 2020-09-02T20:02:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200902005892/en/AnyVisions-Fair-Face-Recognition-Challenge-Shows-Ethnic"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 52
+      name: Business Wire
+      domain: businesswire.com
+    quality: 50
     images:
-      - url: "https://www.geektime.com/content/images/2020/09/ANYVISION-1599206759.jpg"
-        width: 760
-        height: 514
+      - url: "https://mms.businesswire.com/media/20200902005892/en/818051/23/Cameras+PR3x.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "T-Hub, Raytheon Technologies select 3 startup finalists for RTX Innovation Challenge in computer vision"
     excerpt: "The Telangana government run incubator T-Hub and Raytheon Technologies, a global aerospace and defence company, on Thursday announced three."
@@ -83,6 +83,6 @@ related:
         height: 1005
         isCached: true
 
-secured: "oiU5P7N9wsvqj+EOqPFh/frNOCO1r7C75GoDv1KdCkhASyNWherWjyl95dNYtPHVda/tiDKkce5Z7oDNsNTYFamYwWxWOmRRrqnShTar1Sq4uV2cXFRf/jrKmcIwdw9fBCXDAzRLRCzmctG7AqCkFuqW5/9T+hvpAQmlFt0Mf7ohAsCLjPRHJHm6tSYcVdH5zfukzgGthBK86sSN5jd0FNrC2fEZk7FHxHrtY0r/E/N2B6GeTSZqkakq2bWqdhDho4YVVopxjRGtaR2c37NWYog6OSJ/9rJeW5XPgeImctwC3xiwypOMM7dvI0q1gfuL2nvyOT36bX+4d18/mDInxUjap0ytia5zNd06/8ZIHV0=;sh4/ZVTnYpYnbT7nZ78hZQ=="
+secured: "KphPiDYanxBLgiQalcAtyxtz16ZPUeQcFwLnnFdIH7dQZAOAKhL+ySiVhohTM7uEtY9m0Zo0i/80JcFhe3Jk8+p633/bybTYsBkCnPK9WKBKLnQypkAJEJtDV+xkxPeRNruJJhQpYs3qcmAuda+jrfpAh3iJMA4JvnEMNffBq/CmBG2rgljx32Gx38qG8GNEIyTGQFsdngfZ1Rf38hlmVxbHnZ2Nu/4RVCgu5J4adQ3waHVH+46+Yk41X58oRysz+NLmOjCxvzI9uMlZ5liNFLglr2RWbFGI1c7Q//aAibBxebbLLY02TAOEWtyyGq8mTdcFo8D3zHAvhrpkJFJzewK/il/INmEyNaIRS5QF2ps=;JVCXToOnnF04lF5ZXnjcUw=="
 ---
 

@@ -43,36 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Japan looks to AI as coronavirus challenges go-and-see quality control mantra"
-    excerpt: "At a factory south of Japan's Toyota City, robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionise mass production in the 20th century."
-    publishedDateTime: 2020-08-31T12:34:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-factory-idUSKBN25R0CP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN25R0CP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0CP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200831&t=2&i=1531610916&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7U08J"
-        width: 744
-        height: 545
-        isCached: true
-  - title: "Toyota, others look to AI as coronavirus challenges quality control practices"
-    excerpt: "That has spurred the increased use of robots and other technology for quality control, including remote monitoring which was already being adopted before the pandemic. In Japan, such approaches represent an acute departure from the \"genchi genbutsu\","
-    publishedDateTime: 2020-08-31T11:36:00Z
-    webUrl: "https://europe.autonews.com/automakers/toyota-others-look-ai-coronavirus-challenges-quality-control-practices"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 36
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/TOYOTA%20BADGE_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "AI quality inspection robots playing bigger role at factories in Japan"
     excerpt: "At a factory south of Toyota City in Aichi Prefecture, robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionize mass production in the 20th century."
     publishedDateTime: 2020-08-31T19:32:00Z
