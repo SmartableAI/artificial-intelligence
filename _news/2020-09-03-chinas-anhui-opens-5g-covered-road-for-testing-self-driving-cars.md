@@ -57,20 +57,6 @@ related:
         width: 1198
         height: 799
         isCached: true
-  - title: "Uber Vows Better Disclosure of Safety Data on Self-Driving Cars"
-    excerpt: "Uber Technologies Inc. vowed to make public more safety information regarding its self-driving cars after the National Transportation Safety Board placed"
-    publishedDateTime: 2020-08-31T05:11:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/08/31/580793.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 24
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2020/08/uber-self-driving-test.jpg"
-        width: 1100
-        height: 733
-        isCached: true
   - title: "Yandex, Uber to spin off self-driving unit of JV"
     excerpt: "Yandex and Uber will spin off the self-driving car unit of their joint venture into a separate company, giving Yandex more control over the businesses and paving the way for new investors. Russia’s largest internet company will invest $150 million in the new division,"
     publishedDateTime: 2020-09-04T15:24:00Z

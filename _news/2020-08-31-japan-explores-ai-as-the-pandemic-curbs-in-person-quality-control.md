@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -102,15 +102,6 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 34
-  - title: "Japan looks to AI as virus challenges go-and-see quality control mantra"
-    excerpt: "That has spurred the increased use of robots and other technology for quality control, including remote monitoring which was already being adopted before the pandemic. In Japan, such approaches represent an acute departure from the “genchi genbutsu”,"
-    publishedDateTime: 2020-08-31T05:27:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2020/08/31/japan-looks-to-ai-as-virus-challenges-go-and-see-quality-control-mantra/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "ZiIpnP2Sy3uM4wkx7pO7CHrQpDgEEG7JMk7Dqr/jsbwEIMbIy0M+yW0CszODLTlJVAIugLUOjF3U2ToA5+ZcPrOojSEVz+0/4A+L5Ajb28iUGy7lfxoI18ezR2NYlJUlH0fCkY60+C5tY03yNAFiUyDuxezYWez0EJ95RvSJVGC1f/NjrhujASGgbFu3Vm+G4v+xWVABUwesyDAR8fG87xnQpINhSrQQ2y39H32TKlJfRFxjcaLvi8kRvgMCN74zRMX5RKMWHlVXDy/4l+aUuppAs1sTJoyC5MwcU2/uH1fVclwwWEO5/Z8ZIw/mo/2QwtnF+XVRdUQqUgWQu32K97qPpZqWdl6lyIhGkr2dWkbmHUc0x/Ws+JmNPoRicVI9EBcUGWRMIjiDx4daw25CChqPeTMCnoD6LxoyiraFJoXgFnGVrbAtRHVeEGXf4oZ9p4ArwmtfZoGo7zO+LwyJHDOKTjMXhsOeqDBrGQ9u4sNYehdJjQDHGjFtBghYvJXgHuasuNGNmivyOppnNoqBEzluPx5DcZCzBBXZi+1r4IU=;zjbPy3GUPMq86kurTCDmUQ=="
 ---

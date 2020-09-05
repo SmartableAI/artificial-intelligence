@@ -2,6 +2,38 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2020-07-13-google-machine-translation-helping-disseminate-covid-19-info.md",
+      "title": "Google machine translation helping disseminate Covid-19 info",
+      "excerpt": "San Francisco, July 12 (IANS) Google AI and ML translation services are helping health officials communicate with people in languages they understand to disseminate the Covid-19 information, and it means reaching 51 million migrants in at least 350 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/news/google-machine-translation-helping-disseminate-covid-19-info-news-education-uhmf5Jcggfhff.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-12T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-12-how-the-coronavirus-is-turbocharging-hong-kongs-fintech-revolution.md",
       "title": "How the coronavirus is turbocharging Hong Kong’s fintech revolution",
       "excerpt": "Forced to adapt quickly, Hong Kong’s banking and financial services industry has hastened its adoption of digital transformation and AI in the name of survival, supported by a rapidly evolving regulatory environment.",
@@ -1126,46 +1158,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-foxconn-launches-iai-institute-aimed-to-train-people-in-industrial-artificial-intelligence.md",
-      "title": "Foxconn launches iAI Institute aimed to train people in industrial artificial intelligence",
-      "excerpt": "Foxconn launched the iAI Institute “an initiative focused on training the workforce of tomorrow and sharing Industrial AI knowledge across industries.”  The iAI Institute plans to help train people in industrial artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jsonline.com/story/money/business/2020/07/10/foxconn-announces-launch-iai-institute-aimed-train-people-ai/5414940002/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/05/18/PMJS/e946865f-bf8c-4588-9e52-501bb53d354f-MJS_FOXCONN_13614.JPG?auto=webp&crop=3720,2093,x179,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.jsonline.com/amp/5414940002",
-      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5414940002",
-      "publishedDateTime": "2020-07-10T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milwaukee Journal Sentinel",
-        "domain": "jsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

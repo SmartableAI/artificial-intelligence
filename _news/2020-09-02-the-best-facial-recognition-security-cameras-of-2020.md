@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/"
 type: article
 quality: 89
-heat: 299
+heat: 309
 published: true
 
 provider:
@@ -221,6 +221,20 @@ related:
     quality: 39
     images:
       - url: "https://gray-kosa-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "TSA is testing facial recognition at security checkpoints"
+    excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
+    publishedDateTime: 2020-09-04T22:13:00Z
+    webUrl: "https://www.wdbj7.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
+    type: article
+    provider:
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 39
+    images:
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
         width: 980
         height: 551
         isCached: true

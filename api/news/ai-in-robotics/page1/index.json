@@ -44,6 +44,38 @@
       ]
     },
     {
+      "path": "_news/2020-09-03-invest-in-miso-robotics-now-for-the-kitchen-of-the-future.md",
+      "title": "Invest in Miso Robotics Now for the Kitchen of the Future",
+      "excerpt": "Miso Robotics is focused on two red-hot areas of technology: artificial intelligence (AI) and yes, robotics. This helps explain why the startup has been so successful with its equity crowdfunding campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03",
+      "originalUrl": "https://www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03?amp",
+      "publishedDateTime": "2020-09-03T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-nitda-plans-centre-for-artificial-intelligence-robotics.md",
       "title": "NITDA plans centre for artificial intelligence, robotics",
       "excerpt": "In an effort to achieve a robust digital economy, the National Information Technology Development Agency, (NITDA) is set to establish a Centre for Artificial Intelligence and Robotics in Nigeria (CFAIR).",
@@ -580,7 +612,7 @@
       "webUrl": "https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/",
       "originalUrl": "https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/",
       "featuredContent": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1221,48 +1253,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely.md",
-      "title": "COVID 19 Update: Global Healthcare Artificial Intelligence Market Stocks Gain, Rises Immensely",
-      "excerpt": "Healthcare Artificial Intelligence Market” Healthcare Artificial Intelligence (AI) Market Research Report: Information by Component (Hardware, Software,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1598357109.jpeg",
-          "width": 417,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17242858",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17242858",
-      "publishedDateTime": "2020-08-25T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {

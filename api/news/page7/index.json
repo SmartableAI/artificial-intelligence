@@ -2,6 +2,56 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-08-30-forget-identifiers-the-future-of-ad-tech-is-ai.md",
+      "title": "Forget Identifiers: The Future Of Ad Tech Is AI",
+      "excerpt": "Apple's iOS 14 update will allow users to opt-in to sharing personal identifiers with developers. Advertisers fear a loss of revenue as a result, but maybe it's time for ad tech to evolve to accommodate for user privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rebeccabellan/2020/08/30/forget-identifiers-the-future-of-ad-tech-is-ai/",
+      "originalUrl": "https://www.forbes.com/sites/rebeccabellan/2020/08/30/forget-identifiers-the-future-of-ad-tech-is-ai/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4abe0d9252c69c9b707f4e%2F0x0.jpg",
+          "width": 1200,
+          "height": 759,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rebeccabellan/2020/08/30/forget-identifiers-the-future-of-ad-tech-is-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccabellan/2020/08/30/forget-identifiers-the-future-of-ad-tech-is-ai/amp/",
+      "publishedDateTime": "2020-08-30T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-29-ai-startup-what-you-need-for-your-investor-pitch-deck.md",
       "title": "AI Startup: What You Need For Your Investor Pitch Deck",
       "excerpt": "The funding environment for AI startups remains robust—and some of the rounds have been substantial. Just recently Dataiku, which operates a machine learning platform, announced a $100 million Series D investment.",
@@ -1147,56 +1197,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach.md",
-      "title": "Deepfake reality check: AI avatars set to transform business and education outreach",
-      "excerpt": "AI avatars and synthetic video production could provide organizations with entirely new capabilities for training and multilingual global communication in the years ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
-      "originalUrl": "https://www.techrepublic.com/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/08/28/fda2e537-1cb3-4540-a59c-f222694c0371/resize/1200x/0cda1f628ff0e21a26e6d3cb6b7405bc/synthesia-3.jpg",
-          "width": 1200,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
-      "publishedDateTime": "2020-08-28T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

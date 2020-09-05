@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Vanderbilt Proface X TD Facial Recognition Terminal with Temperature Detection"
-excerpt: "Powered by the ZKTeco-customized CPU for running the intellectualized engineeringfacial recognition algorithm and the latest computer vision technology, ProFace X [TD] supports both facial and palm verification with large capacity and rapid recognition ..."
-publishedDateTime: 2020-09-02T23:59:00Z
-originalUrl: "https://www.sourcesecurity.com/vanderbilt-proface-x-td-access-control-reader-technical-details.html"
-webUrl: "https://www.sourcesecurity.com/vanderbilt-proface-x-td-access-control-reader-technical-details.html"
+title: "Facial recognition audit shows U.S. Customs has some privacy and notification work to do"
+excerpt: "A government performance audit looking into the use of biometric facial recognition by the U.S. Customs and Border Protection agency found that is not fully safeguarding the privacy of travelers."
+publishedDateTime: 2020-09-04T22:54:00Z
+originalUrl: "https://www.biometricupdate.com/202009/facial-recognition-audit-shows-u-s-customs-has-some-privacy-and-notification-work-to-do"
+webUrl: "https://www.biometricupdate.com/202009/facial-recognition-audit-shows-u-s-customs-has-some-privacy-and-notification-work-to-do"
 type: article
-quality: 35
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: SourceSecurity
-  domain: sourcesecurity.com
+  name: Biometric Companies
+  domain: biometricupdate.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://security-img.scdn6.secure.raxcdn.com/products/400/proface-x-td-400.jpg"
-    width: 400
-    height: 400
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+    width: 1600
+    height: 1035
     isCached: true
 
 related:
@@ -101,6 +101,20 @@ related:
         width: 1440
         height: 720
         isCached: true
+  - title: "Vanderbilt Proface X TD Facial Recognition Terminal with Temperature Detection"
+    excerpt: "Powered by the ZKTeco-customized CPU for running the intellectualized engineeringfacial recognition algorithm and the latest computer vision technology, ProFace X [TD] supports both facial and palm verification with large capacity and rapid recognition ..."
+    publishedDateTime: 2020-09-02T23:59:00Z
+    webUrl: "https://www.sourcesecurity.com/vanderbilt-proface-x-td-access-control-reader-technical-details.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 35
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/products/400/proface-x-td-400.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Biometric facial recognition audit shows CBP has some privacy and notification work to do"
     excerpt: "A government performance audit looking into the use of facial biometrics by the U.S. Customs and Border Protection agency found that is not fully safeguarding the privacy of travelers. Although"
     publishedDateTime: 2020-09-04T21:34:00Z
@@ -115,21 +129,7 @@ related:
         width: 1600
         height: 1035
         isCached: true
-  - title: "Facial recognition audit shows U.S. Customs has some privacy and notification work to do"
-    excerpt: "A government performance audit looking into the use of biometric facial recognition by the U.S. Customs and Border Protection agency found that is not fully safeguarding the privacy of travelers."
-    publishedDateTime: 2020-09-04T22:54:00Z
-    webUrl: "https://www.biometricupdate.com/202009/facial-recognition-audit-shows-u-s-customs-has-some-privacy-and-notification-work-to-do"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
 
-secured: "CTLF1dqsp41HZFsbvQXhkn5c+qNTWpt5gKB5iVdLHtvmXEvCsS1piBjwRKmYX4B9tdKehbw4UujnWys1KE4sOM55/NNtO1fI50qRJBr4smGf/QFWBZAeoVoUul20RP653mdyggMlOjaGNrvb/qlnBamhIVNIKc2gdceZrbybpJatRSXxHwMAY0Ji1RcZm7Bco1POr3N9uuU+NAJnIbYYAw2ayqLTqV1GXOAeKQObAORHFw2g6jsIQU8pSuvw9SHKYdB20SxkKLSlchD5iZI4muaTL3w7QjI7cocL9aYpM2xvru2nCdkW34KS3g3W+YQ3C/I4COQiiuhzKYjaW2H1upEKNaQr033u4ZJwZF5iCFE=;AO7NKv45SLNXy2EVtk844w=="
+secured: "bUAF0OE42rh/u2B2Pqg76mP0O4mfQOgABbq1kF37xLAqvPgmBYBaRZJxkMxzQbnooHfsJth2S6qFDFsSoJA+EH69mzVmryLiinBeXxvdMzEFKVCG1hhxGxVBOzXR8HhpKeW9JYd94QxsaN6dhRDMfIrQISATT5YSQnks+E9Hx7nJqtrlLQtnVAWCvtktrY9doex/yoXQUCrKtIBqCwFN8VAyclb19/KE4iasLsDx9qo1zqIAfCl3kaUhz9ZfSi01V2GfZ9ElIg7O8ltYHcioKrQjrPZB2b2dnHu1zymFJAi5wlUFdsNVVuI4b3zfQA2cU/1zwUD+RlmKzDIez8NqdxcRxJcmJm2+RKauWsMJapE=;7PrFX6Udn1+2d/fKvulaVw=="
 ---
 

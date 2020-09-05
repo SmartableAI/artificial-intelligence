@@ -220,6 +220,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "TSA is testing facial recognition at security checkpoints"
+    excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
+    publishedDateTime: 2020-09-04T22:13:00Z
+    webUrl: "https://www.wdbj7.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
+    type: article
+    provider:
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 39
+    images:
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Commission will ‘not exclude’ potential ban on facial recognition technology"
     excerpt: "The European Commission has not ruled out a future ban on the use of facial recognition technology in Europe, as the EU executive mulls the findings of a recent public consultation on Artificial Intelligence."
     publishedDateTime: 2020-09-03T10:01:00Z

@@ -2,6 +2,47 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-07-24-covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.md",
+      "title": "COVID -19: Aerokeys to launch more intelligence, profiling human robotics",
+      "excerpt": "Aerokeys Nigeria Limited, one of the world’s leading aviation company has revealed plans to launch the use of robots in the nation’s fight against COVID-19, aimed at reducing direct",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailytrust.com.ng/covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.dailytrust.com.ng/wp-content/uploads/2020/06/COVID-19-testing.jpg",
+          "width": 1080,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dailytrust.com.ng/covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.html/amp",
+      "cdnAmpWebUrl": "https://www-dailytrust-com-ng.cdn.ampproject.org/c/s/www.dailytrust.com.ng/covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.html/amp",
+      "publishedDateTime": "2020-07-24T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Trust",
+        "domain": "dailytrust.com.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-artificial-intelligence-market-share-2020-2025-size-price-analaysis-report-and-forecast.md",
       "title": "Artificial Intelligence Market Share 2020-2025 | Size, Price, Analaysis, Report and Forecast",
       "excerpt": "Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics such as language understanding, reasoning,",
@@ -1110,55 +1151,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy.md",
-      "title": "Google claims its AI system can grade prostate cancer samples with 72% accuracy",
-      "excerpt": "In a peer-reviewed study, Google reseachers claim to have developed an AI system that grades prostate tumor severity with 72% accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/23/google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/23/google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy/amp/",
-      "publishedDateTime": "2020-07-23T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -115,7 +115,21 @@ related:
         width: 1600
         height: 1035
         isCached: true
+  - title: "Facial recognition audit shows U.S. Customs has some privacy and notification work to do"
+    excerpt: "A government performance audit looking into the use of biometric facial recognition by the U.S. Customs and Border Protection agency found that is not fully safeguarding the privacy of travelers."
+    publishedDateTime: 2020-09-04T22:54:00Z
+    webUrl: "https://www.biometricupdate.com/202009/facial-recognition-audit-shows-u-s-customs-has-some-privacy-and-notification-work-to-do"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+        isCached: true
 
-secured: "FWn6BTaxfEi8YHNkKf2LVeTmR/0gASnerIPXCN63RzJIYIDjKCqtdD9Qm7NdW+D3RIWkxurCstn+Xju/QDUyO+JV80qYwTINubU8iRdnjKQQNHhLebiLM3hShWD6TmJqhq64F5F7+xWW1npUJiYR/bVJ/xi4cOJN+M1kbbzBhX7fLBKNOhhXPVO45ykDG2fhC1XxWl33ppb0UmsptWYJVHf2QRRxYbKbLayLgd5Wy8RY/94G1IsQORAUKjX7b5tWj6xhuygrcX+UM2Ebzl2P+zPOPhM3aUczfJ4tdoljhnsPA+rkStr6UTHS/RRYyLkPe6Yy15fBON5YgNYR0x90/i10t205/2UXufYjoK7kSF0=;eADqF2iMyhWtGSbqMFNOyw=="
+secured: "7gaHwMI4OtJjWvRG1071/k/avnlQadmNchr1mfpUvoJqFsLv60BSN8UfPQiexpCCebE5YsOYmMdaTniK8k1Hgqv70TAK/U3Wxs3PzMyzNALwTn9pqy2jNZODxvOw9CzdRUTYCvuddM145jOdd2GxGIjreQVlIvvGcfW+oXvA9/+RDSj8v3xnGxqaaLZWH1XU7fnYv7gvEQusBzSQ4nBIEqQKSB8OgXF/IJkf+AOIPloEqvB5Mf1n9ATtasxUSGT27BeqYn635KOnygNCYa8oxf90OChglU58v6xwupviWtNjF9uI4II/T8zNu9jAolHQNMAFLdOfoYtpdkCX9psdRLUF+Y7wcUXt5J/5R05CJMvemTQt3QlBvGzcnAwlraHvit8hGx3T6Skp0z00swhczkvBPfFsAwEeVzAc6ImupRHLVMxZ6h1vsJ3vo+BWRXDAgB688oMiGEZXBbwyqOUYVFxM0M/f0s+ZbsEM6f3pKvG2gdgRR+S14dJ+zgigrmkN2hd/xqEgMnzSsVTa2CmezAc/mXGNYe708Aj/PUGrGNk=;k9Zsb4OxAOQR3jzvhXwtlA=="
 ---
 

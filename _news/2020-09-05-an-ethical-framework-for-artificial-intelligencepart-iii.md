@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-04T20:10:00Z
 originalUrl: "https://www.law.com/newyorklawjournal/2020/09/04/an-ethical-framework-for-artificial-intelligence-part-iii/"
 webUrl: "https://www.law.com/newyorklawjournal/2020/09/04/an-ethical-framework-for-artificial-intelligence-part-iii/"
 type: article
-quality: 37
-heat: 37
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/389/2019/12/Artificial-Intelligence-Article-201912291430.jpg"
@@ -23,6 +24,6 @@ images:
     height: 372
     isCached: true
 
-secured: "79jN4r/BLae1hMVsAO96hNlPmhhjLfHz+YrpMJrpqrBsOMNeEKWhtOsJm1lKq7BFKJpq3ypIM0G8R3gZ5b1fjLLVFxunA4v/UdwTUJdau/80F1Zrvk1186FIzXoD2EEgtcRnsatgHj/qWZGrq9sHiunGV7tGS8iL7QPogmqVvjzO/XuejI8Z8nEj6CWqkEBogxSXvS+gt7cgCNu6aiF+vaj7uFWBoAk1iAF5HAX+9OU88x4M+nSSNhYvK+hAcMNiZ/T5i16SSP43LgcPF0zy5Ma18W04eM1xxsaGsUBx78BlwJeEZJzvVPSVVsqFK090MNLPE5gKXlPXWjB1gpCuBAoqVTqxabrRqg/zEq0SkZo=;dCHwN3OqSWDYXM7bvxaT+g=="
+secured: "jr/I1xmFsjLiCi+1u57qhgLLcn9tYyPp8LgQtrmJIESkrkjZkzhX+67OJr+ejHpNqqK4s+w7vHcdH37Z1xr5VAF3MOB94CcEL+HirNykMvD0vFv1fjq+d9cUk8VqeyLwBUls1VbI2QA7CdikrRdr7pYmRn9osPWcJ2SDSBF5WAumXghS2H2X8yZrAJvm7IS53EWXQPZtiHqRJ4hXLmya/SP3fAxTO3wwPD4RkTeYk+eNpemXvgz3CSHKdkMyZEhOcshg/VZKxI+XW9EZfK5OD83SK3SrN5aBt/DBpMfEr1UMnWHNy/3DTrhPzRenpMMY/fZn7jXrmgygC+Q20+O/56h+aUfsc42RuoxKfbdOiQstS2UDnx4+p3xM82y833Uf6sXA11nVSiiFGZ5r5EcnUdr1dnDzkepf7aG3t/FmpLnSmjbnXW+s4lS56xw8ssfpth592JAdMMjrC6+fA+a0BJrmZwvBjM5tNdKNy7hdRMmvvzn1YMTy5dzXvUigB68zS+iukzAgSI/jInjThpx6PcAsWWNEL+VTPN2AqpuOBpw=;SLbelCrhbCnxZ8ZivqVN1Q=="
 ---
 

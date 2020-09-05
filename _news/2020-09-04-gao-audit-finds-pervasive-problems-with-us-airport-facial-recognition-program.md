@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problem
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/amp/"
 type: article
 quality: 100
-heat: 160
+heat: 170
 published: true
 
 provider:
@@ -109,6 +109,20 @@ related:
     excerpt: "A government performance audit looking into the use of facial biometrics by the U.S. Customs and Border Protection agency found that is not fully safeguarding the privacy of travelers. Although"
     publishedDateTime: 2020-09-04T21:34:00Z
     webUrl: "https://www.biometricupdate.com/202009/biometric-facial-recognition-audit-shows-cbp-has-some-privacy-and-notification-work-to-do"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+        isCached: true
+  - title: "Facial recognition audit shows U.S. Customs has some privacy and notification work to do"
+    excerpt: "A government performance audit looking into the use of biometric facial recognition by the U.S. Customs and Border Protection agency found that is not fully safeguarding the privacy of travelers."
+    publishedDateTime: 2020-09-04T22:54:00Z
+    webUrl: "https://www.biometricupdate.com/202009/facial-recognition-audit-shows-u-s-customs-has-some-privacy-and-notification-work-to-do"
     type: article
     provider:
       name: Biometric Companies

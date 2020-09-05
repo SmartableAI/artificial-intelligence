@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-02-five-tech-innovations-that-could-change-healthcare-this-decade.md",
+      "title": "Five Tech Innovations That Could Change Healthcare This Decade",
+      "excerpt": "Modern-day researchers and scientists are rushing against time to invent, implement and imagine life-altering, lifesaving, life-enhancing creations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e47455e0c17f79712a595%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/amp/",
+      "publishedDateTime": "2020-09-02T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects.md",
       "title": "Python programming: Microsoft's latest beginners' course looks at developing for NASA projects",
       "excerpt": "Microsoft has teamed up with NASA to create three project-based learning modules that teach entry-level coders how to use the Python programming language and machine-learning algorithms to explore space,",
@@ -190,7 +240,7 @@
       "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
       "featuredContent": null,
-      "heat": 299,
+      "heat": 309,
       "tags": null,
       "images": [
         {
@@ -1160,38 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-carnegie-robotics-and-nilfisk-partner-to-create-thoroai.md",
-      "title": "Carnegie Robotics and Nilfisk partner to create Thoro.ai",
-      "excerpt": "Thoro.ai will focus on commercializing autonomous technologies for cleaning applications. Filled with “must read” stories, industry news and reporter insights, exclusive interviews with local business leaders,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/pittsburgh/news/2020/09/01/carnegie-robotics-and-nilfisk-partner.html",
-      "originalUrl": "https://www.bizjournals.com/pittsburgh/news/2020/09/01/carnegie-robotics-and-nilfisk-partner.html",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/pittsburgh/news/2020/09/01/carnegie-robotics-and-nilfisk-partner.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/09/01/carnegie-robotics-and-nilfisk-partner.amp.html",
-      "publishedDateTime": "2020-09-01T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

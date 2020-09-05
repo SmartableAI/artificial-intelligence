@@ -1,29 +1,27 @@
 ---
 category: news
-title: "The TSA Is Testing Self Service Facial Recognition Technology in Pilot Program"
-excerpt: "The Transportation Security Administration (TSA) has begun testing a self-service facial recognition system in Washington, D.C., to verify traveler IDs and flight information."
-publishedDateTime: 2020-09-03T21:57:00Z
-originalUrl: "https://www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service"
-webUrl: "https://www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service"
-ampWebUrl: "https://www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service?amp=true"
-cdnAmpWebUrl: "https://www-travelandleisure-com.cdn.ampproject.org/c/s/www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service?amp=true"
+title: "TSA is testing facial recognition at security checkpoints"
+excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
+publishedDateTime: 2020-09-04T22:13:00Z
+originalUrl: "https://www.wdbj7.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
+webUrl: "https://www.wdbj7.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
 type: article
-quality: 55
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Travel + Leisure
-  domain: travelandleisure.com
+  name: WDBJ
+  domain: wdbj7.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F09%2F03%2Ftsa-security-checkpoint-FACETSA0920.jpg"
-    width: 1800
-    height: 938
+  - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -139,6 +137,22 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "The TSA Is Testing Self Service Facial Recognition Technology in Pilot Program"
+    excerpt: "The Transportation Security Administration (TSA) has begun testing a self-service facial recognition system in Washington, D.C., to verify traveler IDs and flight information."
+    publishedDateTime: 2020-09-03T21:57:00Z
+    webUrl: "https://www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service"
+    ampWebUrl: "https://www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service?amp=true"
+    cdnAmpWebUrl: "https://www-travelandleisure-com.cdn.ampproject.org/c/s/www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service?amp=true"
+    type: article
+    provider:
+      name: Travel + Leisure
+      domain: travelandleisure.com
+    quality: 55
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F09%2F03%2Ftsa-security-checkpoint-FACETSA0920.jpg"
+        width: 1800
+        height: 938
+        isCached: true
   - title: "Israeli facial recognition co AnyVision raises $43m"
     excerpt: "AnyVision to focus on its commercial and homeland security facial recognition operations. AnyVision said that the new funding will be used \"to scale its Touchless Access Control and Remote Authentication products at a time when demand for innovative technologies that help companies meet the challenges of the new reality is soaring."
     publishedDateTime: 2020-09-04T13:11:00Z
@@ -217,20 +231,6 @@ related:
     quality: 39
     images:
       - url: "https://gray-kosa-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "TSA is testing facial recognition at security checkpoints"
-    excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
-    publishedDateTime: 2020-09-04T22:13:00Z
-    webUrl: "https://www.wdbj7.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
-    type: article
-    provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 39
-    images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
         width: 980
         height: 551
         isCached: true
@@ -336,6 +336,6 @@ related:
         height: 270
         isCached: true
 
-secured: "HPWZs0fdFkOEbIhqoV9KqSTOXjKoxBeHCM2Hfqu9YpAGR7BdvQdwUOSNSuLDRim7/a5gJil1pNPiMS2KsyxRA1eRKGJyNc4wn7uSWZX85ja+T/zLB4QQUgRLfzWZNMptmK79g8rNGnPWa5IXC8cHpHfevvYyrzceULUMdzZ2rTuFNkXA7mTAfbQr17wq9O8/H8a/etkZ+NwqKAVFTdIcUcU8rx0EDbpzMyUgVBrmq0AroAgvWbchlelnK+3m0+DeGNS+1gneY30eIVHU/Gl/Obmx7xPnP35+Ddy6euoVcJqamxxThrqSbxWUF3n9b0idqt1/4/sqph2U3SPtBdevUmFBvyAhw418VJFV+jJLMDhezqmOmQFJFcG1wf1sJUMbIyZzaWsFg429ld05wdShoHA4G2onb6QWCCYH0ny8nXe1FQa4suXwYX0D37teNUOfgU6neGFBegK7wuVCxRrsUceIXTBS9zg10shsWBMYyIb6zk35dqUXzVyewSEPtKjdi1UZ1U2IG8w5xc8hszRguLZab6HxM52cpdJH4ofJWT8=;PVN/lZ4iQT74llKsGpWpGg=="
+secured: "RXdFiroEbuKNXS2UJw8K6N2hbxuQfEGs00Ij3faNGPlZVayQGnZYe+Gs9Y9MOdGGLnFJkbrvXBinJRyDi/CYgi1e2nEcz0fHiR09rU+xVWLeqGZt5a5SQSUO2P7z4DD0IJDe7akHockPzGsmJlW08r/yy6XLwvP5ijPNIhRIvDEVlYjtp50Jh1Eyaufg1ox2hqp+lQbw6bO3nZ6POxODgVSZszuK44DlyghLarskgBr9/1WlZhUYP1NyNjRt36/DU+vUGsKP+8fGfIqbqJ56WAp3+HwFwM+HpcwRJ6nodnzfJfsIUc9JGH9lC+4NEYjyU/Js+ZeRId+cqpl4UQwJSXxspczI/7cas9dpyQswCe0=;rXrT7A4MbCF3m4HtWEmqLg=="
 ---
 

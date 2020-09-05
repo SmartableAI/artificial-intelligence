@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/autonomous-vehicles-2025.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicles-2025.amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://i2.wp.com/www.vanguardngr.com/wp-content/uploads/2020/09/5b70f609a310add1c6967fc3.jpeg?fit=1198%2C799&ssl=1"
         width: 1198
         height: 799
-        isCached: true
-  - title: "Uber Vows Better Disclosure of Safety Data on Self-Driving Cars"
-    excerpt: "Uber Technologies Inc. vowed to make public more safety information regarding its self-driving cars after the National Transportation Safety Board placed"
-    publishedDateTime: 2020-08-31T05:11:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/08/31/580793.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 24
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2020/08/uber-self-driving-test.jpg"
-        width: 1100
-        height: 733
         isCached: true
   - title: "China's Anhui opens 5G-covered road for testing self-driving cars"
     excerpt: "HEFEI (Xinhua): A 5G-covered road for testing self-driving cars was formally opened in Baohe district of Hefei city, East China's Anhui province Thursday (Sept 3), welcoming the first batch of passengers."

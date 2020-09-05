@@ -97,15 +97,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Japan looks to AI as virus challenges go-and-see quality control mantra"
-    excerpt: "That has spurred the increased use of robots and other technology for quality control, including remote monitoring which was already being adopted before the pandemic. In Japan, such approaches represent an acute departure from the “genchi genbutsu”,"
-    publishedDateTime: 2020-08-31T05:27:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2020/08/31/japan-looks-to-ai-as-virus-challenges-go-and-see-quality-control-mantra/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "uKJcPpuNq7IqlZRVK2Vc3XVaZGUENpxS/AobP/TrlcOXbt7hK9wXYI2SVuGfD7PVO5yGJ/NkezKV5Bljtih2eU8GcH2zQr2uQQGYD3otvl8tyNVmVXGeIFqWaWJP0utL8eckrUulAOzV32NpFE7BC179arbEToOPtXtuDAd+G3lZlmOG0HB/PhgGUYUozqC7FYedmI6y4Ty34OTPDYFJEmgCRu8usgOh3IjCclVkob9VZ321xIDP5XtOZ+8R+3knsATwU5LyHi5LCWL//RjlCr1b6BMHThkmcE7PG6sTYUyrSQ0+jkbc7yGTRgrORdu+ybQhlWwIGmeCuUXXzBXBJR7f3PCn4D65Zp2dK0tdb3LPyfVTz5iqmvIO2Idpsl40ASy5wLn0rd3IhDf9CSTm8OCSq5QWmykAptyLNdeDxEE1lYUhAoeUHs0uNJVlLtklzEz3bCjjuM8pX+JcIdrxI2ymkOKFvggrbPzCgJ6x9ow9ql1cUvFS7jK1utwV9fyMcUqiiDlbObXrTugCK6THIASUEstblxrwYPJRsRl0nc4=;WapVbKsHSkILRRGDY7bn9Q=="
 ---

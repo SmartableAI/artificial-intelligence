@@ -13,7 +13,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming</loc>
+    <loc>https://www.techradar.com/nz/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming</loc>
     <lastmod>2020-09-04T11:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -176,6 +176,12 @@
   </url>
   <url>
     <loc>https://www.forbes.com/sites/alexanderlavin/2020/09/03/doing-the-hard-things-ai-space-and-climate-science/</loc>
+    <lastmod>2020-09-03T05:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03</loc>
     <lastmod>2020-09-03T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1591,8 +1597,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely</loc>
-    <lastmod>2020-08-25T17:05:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
+    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
