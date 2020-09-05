@@ -2,6 +2,46 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-08-24-nsw-government-taps-into-ai-and-satellite-data-for-bushfire-detection-and-prevention.md",
+      "title": "NSW government taps into AI and satellite data for bushfire detection and prevention",
+      "excerpt": "The New South Wales government has announced it will be investigating how artificial intelligence, combined with data from satellites and local sensor networks, can be used to help speed up bushfire detection and predict fire behaviour.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nsw-government-taps-into-ai-and-satellite-data-for-bushfire-detection-and-prevention/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nsw-government-taps-into-ai-and-satellite-data-for-bushfire-detection-and-prevention/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-taps-into-ai-and-satellite-data-for-bushfire-detection-and-prevention/",
+      "publishedDateTime": "2020-08-23T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-socionext-and-osaka-university-develop-deep-learning-method-for-object-detection.md",
       "title": "Socionext and Osaka University develop deep learning method for object detection",
       "excerpt": "Socionext and a research group at Osaka University Institute for Datability Science, have developed a method of deep learning, which enables image recognition and object detection",
@@ -1068,56 +1108,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-ai-weekly-surveillance-structural-racism-and-the-biden-2020-presidential-campaign.md",
-      "title": "AI Weekly: Surveillance, structural racism, and the Biden 2020 presidential campaign",
-      "excerpt": "What Joe Biden and Kamala Harris said about tech at DNC 2020 and a look at the kinds of AI and algorithmic bias mentioned in the Biden 2020 plan.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/21/ai-weekly-surveillance-structural-racism-and-the-biden-2020-presidential-campaign/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1267430321.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/21/ai-weekly-surveillance-structural-racism-and-the-biden-2020-presidential-campaign/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/ai-weekly-surveillance-structural-racism-and-the-biden-2020-presidential-campaign/amp/",
-      "publishedDateTime": "2020-08-21T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

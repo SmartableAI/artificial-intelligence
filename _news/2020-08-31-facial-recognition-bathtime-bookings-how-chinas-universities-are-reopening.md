@@ -35,22 +35,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "China’s universities are reopening with facial recognition, shower bookings"
-    excerpt: "BEIJING – As COVID-19 cases in China sink to new lows, the world’s largest population of university students is heading back to campus in a migration defined by lockdowns, patriotic"
-    publishedDateTime: 2020-08-31T07:31:00Z
-    webUrl: "https://nypost.com/2020/08/31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening/"
-    ampWebUrl: "https://nypost.com/2020/08/31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/08/31/facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/08/2020-08-31T031415Z_1442654140_RC2ROI98M9BO_RTRMADP_3_HEALTH-CORONAVIRUS-CHINA-STUDENTS-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "3AJ/sH2Fyyd3Je1zfo42VjqvF+zTnI/7g4B8liHtOngfFi3o+t5JlDhjySzM4rPv6cLveio5OEFU87fgkmcS2EmE4tzosroKEUSJjeb8bZ5Qy9sUMb6KK+rTCwdVyv+hBwd6AYT171TkyqdsFckl0qCODMDSY3x7oP6qP+UYZ/85xTa2Zv0kxfYqGKEwELQuaCgSMleMMVAk8l6rpi8lQw5U8D4CbOBBT7ymX8R7OWnmFVsE1QwsDbSQCeis/FMdG3SxTvMwZcpSkUgbtjjfcrLnkD0eQCxmQ5U40IuwyCaqoR+DglLyiwsjyj+qkgALOW0r12kaOPCiLkM/VWi0MBTFgYQvsq3dlpmva5EEM7jCrpq9tLntZWnWu0G6j3P5WfJlAq63qiXpkbFn+UBYQRd2Z5T+NlHIVtTHOSPv6OIkwbH0lkCTkzbm0M+eByWn7bLppsEiACUafdsZytDWkxkaBqZt0TlhgasDy4j2aO2FkepTEfu2p3L5SqEY2/wU+aKyK48IyEUBojjRjG2EtjhP8XSRh97KaCTbwXs+qj4=;LSsCizTVUBWgB/dlU6O6HQ=="
 ---

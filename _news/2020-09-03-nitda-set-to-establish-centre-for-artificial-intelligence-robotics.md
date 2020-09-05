@@ -1,12 +1,12 @@
 ---
 category: news
-title: "NITDA set to establishment centre for Artificial Intelligence, robotics"
+title: "NITDA set to establish centre for Artificial Intelligence, robotics"
 excerpt: "In a bid to achieve a robust digital economy, the NITDA is set to establish a Centre for Artificial Intelligence and Robotics."
 publishedDateTime: 2020-09-03T13:32:00Z
-originalUrl: "https://www.vanguardngr.com/2020/09/nitda-set-to-establishment-centre-for-artificial-intelligence-robotics/"
-webUrl: "https://www.vanguardngr.com/2020/09/nitda-set-to-establishment-centre-for-artificial-intelligence-robotics/"
-ampWebUrl: "https://www.vanguardngr.com/2020/09/nitda-set-to-establishment-centre-for-artificial-intelligence-robotics/amp/"
-cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/09/nitda-set-to-establishment-centre-for-artificial-intelligence-robotics/amp/"
+originalUrl: "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/"
+webUrl: "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/"
+ampWebUrl: "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/amp/"
+cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/amp/"
 type: article
 quality: 89
 heat: -1
@@ -21,9 +21,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.vanguardngr.com/wp-content/uploads/2020/04/NITDA-logo-44.png?fit=1280%2C720&ssl=1"
-    width: 1280
-    height: 720
+  - url: "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2020/09/EDoWmv9WwAAdlQf.jpg?fit=1024%2C683&ssl=1"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -43,21 +43,21 @@ related:
         width: 700
         height: 500
         isCached: true
-  - title: "NITDA set to establish centre for Artificial Intelligence, robotics"
+  - title: "NITDA set to establishment centre for Artificial Intelligence, robotics"
     excerpt: "In a bid to achieve a robust digital economy, the NITDA is set to establish a Centre for Artificial Intelligence and Robotics."
     publishedDateTime: 2020-09-03T13:32:00Z
-    webUrl: "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/"
-    ampWebUrl: "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/amp/"
-    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/amp/"
+    webUrl: "https://www.vanguardngr.com/2020/09/nitda-set-to-establishment-centre-for-artificial-intelligence-robotics/"
+    ampWebUrl: "https://www.vanguardngr.com/2020/09/nitda-set-to-establishment-centre-for-artificial-intelligence-robotics/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/09/nitda-set-to-establishment-centre-for-artificial-intelligence-robotics/amp/"
     type: article
     provider:
       name: Vanguard
       domain: vanguardngr.com
     quality: 89
     images:
-      - url: "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2020/09/EDoWmv9WwAAdlQf.jpg?fit=1024%2C683&ssl=1"
-        width: 1024
-        height: 683
+      - url: "https://i0.wp.com/www.vanguardngr.com/wp-content/uploads/2020/04/NITDA-logo-44.png?fit=1280%2C720&ssl=1"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Nigeria to establish centre for artificial intelligence, robotics"
     excerpt: "The National Information Technology Development Agency (NITDA) has said it is set to establish a Centre for Artificial Intelligence and Robotics in Nigeria."
@@ -76,6 +76,6 @@ related:
         height: 499
         isCached: true
 
-secured: "IQwKeQVLLM9QQScpB82Yl/511NA75ceu3a4tG+x+RGp8AnwpXbdMIuuiya2GiXHgktfsjkbcVY7YUx2GCadek1BmEiNxjxxxo6bsLuP9KepReXgR6xDAnVkMe/vzZgW7kxyo4i0cNusblJe02GS7BmCUL1vjO/hmsJKFLq+eNhge5q9Y9OdUTufFeB2xxEYHUM73aMtgE/TcE9ryAbANxGlJd4Of5kVy8Ds+uUKhaqy8wnO73B0cD7n2GCWinJTYkr7MIJe1ImGUR/19ucMaJuc0TZRqVY18Tgmrurb5vxe/ohxVShB2W0nm8cy0qJHQtZRtSdad1SbuVB2iAAg8RPQNs97NPivcX7SDPZWXHEIyOtBWB+36nzg5Dss0TEAxuNR5FYD/gac6usISa9dCu4HsshliVKne22o2+Mmtdd0iX30YzaL4WjoL+1dIWLqegsaKZ4nsJ4ujZg2uhBYTxgXjhsj1V2OHqs4h2H4eiZJ0vEotwmLomyizwKyaGnSS8Dck8ky5yRJsbPJH5OYhXe9puzmKPp5FL0fpTijnomI=;5TNJNWtK5go4UkLnWrwb6w=="
+secured: "X4PRD4Zxu4txw0ZDV75YyzX3/LyF4oYNek//hpJ07rIU09w9C4XshhVNjexBpco0qgfcVYPC6GofKU2OIrb8keyHQ3zQoo3MFKuL30zBpcvETn7DhIOmg1IMVrtQeibVvtTkToD3osKD2lsnl8WJWMub9LjaWbn2kI6SRv8KwDnO4ys3+CH5hsxA8CYd5v0N1Nb0Y1OUnu6CT2o3O4NCXPcJAQvHEGCxSJlkljlah6COYDNP5RnOfiCw3erlbI5tNXTYi7o/PhpAbMs4J+q0OW85iTiq8S4g8Y0HFH4ib52o9o+pFU62J6JyTIEoAuTTwDTI+KEGQFIfww0C5wOKzcDaS7z3D4VmMYKSnEzrzPk=;jtZ1clM+AipmwOGzQKcCOQ=="
 ---
 

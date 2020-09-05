@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Daimler Trucks tests self-driving vehicles in US Southwest"
+title: "Daimler Trucks Tests Self-Driving Vehicles in US Southwest"
 excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-publishedDateTime: 2020-09-04T20:10:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
-webUrl: "https://www.stamfordadvocate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
-ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
-cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
+publishedDateTime: 2020-09-05T00:06:00Z
+originalUrl: "https://www.nbclosangeles.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2423136/"
+webUrl: "https://www.nbclosangeles.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2423136/"
+ampWebUrl: "https://www.nbclosangeles.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2423136/?amp"
+cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2423136/?amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: NBC Los Angeles
+  domain: nbclosangeles.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
+  - url: "https://media.nbclosangeles.com/2020/09/GettyImages-891080592.jpg?crop=0px%2C627px%2C7058px%2C3970px&resize=1200%2C675"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -138,6 +138,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "fpzyEENXakppHLrS7cTb/eDXfhstDzbvrN8QTcsefK92HCRM5mDyJTAiBvE5PKZec9KBEcu4tFJit00WOCe9g06BvNf9mPSjOrbJfccXgMXCemm6VZtywXP2m8WmzV0+mfyv8J83k4snpE8n6QzbC2kupsTUOXl1FHEXMX3aTKua5xcHu50kvtI7C2+N71FwyW6Gs5iGtAwvPXr49aMEyv+TnAR2WaYat1jmhd4JWTK5wkVp5U7SgB7ulwNdZ8oM0n2f0wOW4e6HZF04gNR9x5cXEFgrVWfUXm1Wx53jCKD1Z53E1fLkYOFNuGsUNcKRMc7Bv4+yTYHWAWS6mRagvySUTxWvMGb12FAdk1UXQjJIz+hQ8z07D31wNfljH+uzAfmkmEgRBkET9vBEsvPJfarXJMYRMynRGWXE5etvF0/OTsP4srR8GrnsTIdWlP7gwFrs4oS/2qCRQC/SSlSkMPll2tiGFW+jtR0ySIOkEJ31gJAR9VzZ/YzxdM4A2SYDaMjeFnXM/08Ueu6DPiiDXo2OAyS9QXYoizhkdRR9ZQw=;hQHD9Hpuww0dc96gtJ72XA=="
+secured: "qCkcSNu3wPCbHRks5zdjNhin+WG7FEE4StAPD0nQTJ/Rulc8Q/OSEBGWnwLHD4QUhF3w91wK0iG5EDOG5xOfS6qoFDoLDR05PK2sdX1kGGVkUS7s+X3om/1K+N6ido9vImtTi+otywQh4SQxmCs7Q5aSHRKWMTdHBNpx8vEJfJ0iIvzO7yJtmoTTorgkDiw5bMOTRH6UzrjausZOdjyPcM37Cs5ISXzE9kiz5uXY91UUtoQNqCNmqL1vDX29ZROpH5aPH7GBF1xkZ2sHYvgTzZi4j01ilN/pXnXKNdZncbcbGvoE/Ha0LA7XjT7zCJnW9YPMhcF00L+fMT2Y4hq4No+3iRb38+5nMvz+vbT/S1w=;STLtNCbch5TZrJSEykeynw=="
 ---
 

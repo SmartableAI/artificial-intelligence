@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Yandex spins out self-driving car unit from its Uber JV, invests $150M into new company"
+    excerpt: "Self-driving cars are still many years away from becoming a ubiquitous reality, but today, one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do."
+    publishedDateTime: 2020-09-05T01:36:00Z
+    webUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/?share=facebook"
+    ampWebUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/04/yandex.jpg?w=1024"
+        width: 1024
+        height: 546
+        isCached: true
   - title: "Yandex Restructures Self-Driving Business"
     excerpt: "Yandex will increase its stake in the new company (Yandex SDG) to 73% and invest an additional $150 million in its future development. MOSCOW and AMSTERDAM, Sept. 04, 2020 (GLOBE"
     publishedDateTime: 2020-09-04T08:00:00Z

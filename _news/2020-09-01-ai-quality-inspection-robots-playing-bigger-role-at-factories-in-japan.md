@@ -67,22 +67,6 @@ related:
         width: 747
         height: 546
         isCached: true
-  - title: "Japan looks to AI as coronavirus challenges conventional quality control method"
-    excerpt: "At a factory south of Japan's Toyota City, robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted ’go and see’ system."
-    publishedDateTime: 2020-08-31T08:15:00Z
-    webUrl: "https://www.iol.co.za/technology/gadgets/japan-looks-to-ai-as-coronavirus-challenges-conventional-quality-control-method-92f40944-f130-48eb-9759-4ea63c0c4dcd"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/gadgets/japan-looks-to-ai-as-coronavirus-challenges-conventional-quality-control-method-92f40944-f130-48eb-9759-4ea63c0c4dcd"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/japan-looks-to-ai-as-coronavirus-challenges-conventional-quality-control-method-92f40944-f130-48eb-9759-4ea63c0c4dcd"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 55
-    images:
-      - url: "https://image-prod.iol.co.za/resize/3892x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/95770a55-56d2-5784-a663-a26b04c63823&operation=CROP&offset=0x117&resize=3892x2189"
-        width: 651
-        height: 366
-        isCached: true
   - title: "Toyota, others look to AI as coronavirus challenges quality control practices"
     excerpt: "That has spurred the increased use of robots and other technology for quality control, including remote monitoring which was already being adopted before the pandemic. In Japan, such approaches represent an acute departure from the \"genchi genbutsu\","
     publishedDateTime: 2020-08-31T11:36:00Z

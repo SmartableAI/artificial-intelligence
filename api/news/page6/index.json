@@ -2,6 +2,56 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-08-31-in-an-era-of-face-masks-were-all-a-little-more-face-blind.md",
+      "title": "In an Era of Face Masks, We’re All a Little More Face Blind",
+      "excerpt": "Your brain’s powers of facial recognition are going to need some time to get used to the coverings we’re wearing to keep each other healthy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.html",
+      "originalUrl": "https://www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.html",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/01/science/00VIRUS-FACEBLIND/00VIRUS-FACEBLIND-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.amp.html",
+      "publishedDateTime": "2020-08-31T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-transperfect-wins-ai-breakthrough-award-for-globallink-machine-translation-solution.md",
       "title": "TransPerfect Wins AI Breakthrough Award for GlobalLink Machine Translation Solution",
       "excerpt": "TransPerfect, the world's largest provider of language and technology solutions for global business, today announced that its GlobalLink AI technology has been named the winner of the 2020 AI Breakthrough Award as \"Best Machine Translation Solution.",
@@ -139,7 +189,7 @@
       "webUrl": "https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/",
       "originalUrl": "https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/",
       "featuredContent": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -473,7 +523,7 @@
       "webUrl": "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW",
       "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW",
       "featuredContent": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1111,55 +1161,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem.md",
-      "title": "This AI Expert From Senegal Is Helping Showcase Africans In STEM",
-      "excerpt": "Not only has Adji Bousso Dieng, an AI researcher from Senegal, contributed to the field of generative modeling and about to become one of the first black female faculty in Computer Science in the Ivy League,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/",
-      "originalUrl": "https://www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f40029c9ef0598860b150c8%2F0x0.jpg%3FcropX1%3D187%26cropX2%3D1021%26cropY1%3D60%26cropY2%3D529",
-          "width": 834,
-          "height": 469,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/amp/",
-      "publishedDateTime": "2020-08-30T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
