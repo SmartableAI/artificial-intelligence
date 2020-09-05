@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Two-click photo editing? Skylum Luminar teases A.I. photo app"
-excerpt: "Luminar AI, unveiled on September 3, is an artificially intelligent photo editor that uses object detection to automatically determine what’s in the photo and what adjustments to apply. Luminar AI mixes several different algorithms to edit a photo with processes called templates."
+excerpt: "Luminar AI mixes several different algorithms to edit a photo with processes called templates. First, the program recognizes the contents of the photo, such as if people are included, or if it’s a landscape shot with a sky."
 publishedDateTime: 2020-09-03T12:10:00Z
-originalUrl: "https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/?itm_source=2&itm_content=1x0&itm_term=2356592"
-webUrl: "https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/?itm_source=2&itm_content=1x0&itm_term=2356592"
-ampWebUrl: "https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/?amp"
-cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/photography/skylum-luminar-ai-announced/?amp"
+originalUrl: "https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/"
+webUrl: "https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/"
+ampWebUrl: "https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/photography/skylum-luminar-ai-announced/"
 type: article
-quality: 52
-heat: 52
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: Digital Trends
@@ -23,6 +23,12 @@ provider:
 topics:
   - AI
 
-secured: "XLUwjJbYSzswpUjdtN3HFdiZHSp+PYFQ+15DnZ5TLe3lu0bIwa/lwUhZILJL2FDCypYX9DCxJyDlFxRc0uk99/yTww4YSrkduxD7jXnzSIaXl9KOsA7D1SbcQN+83sOMVwalbArTfn6RzxCqaVraxM7465IHQobzZKU+ZAF/OjpMVn49xwUv+mE5NGTCyEBJlVU/aNJs5YdWq3XQxHLlKUwbIZgsObooIuY7y17UTR2LySfLnZwjzJBkeOVTl2OQxvFNlxw8UW3f97N4eca8JAxiOhWpHI4qfERfPudmXfbj7HPgPoYxJjQ4h5d5MWQ+gGXGrWeg/jojbzD5laisIC81KYikMCu74yJjFfNpQYIspwLWycL1ZcqUgr9ELWAyRAd9f+aBf44Sd2ejhWFrJobeCCEi6DKNwsRjJRINhzzbO4+4cMspLoiUDYF0GyVSoWarCeNE+damuX3BZJhT3XIrjBNa9a5nmqfLYi8k5e7XnlKf14MyD9ylDLhwxb26u34tqaNriY7JbAyCv8gAvdTRDqN6edErkEyCfYVstNE=;DP5zOpW4ebTNkNxi9LitDw=="
+images:
+  - url: "https://icdn4.digitaltrends.com/image/digitaltrends/luminar_ai_stunning_mountain-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "O73QvXAHNJkjBiaD3zUdo3LnLYI/EqXJuiXUJfO0dPdqCG7N5cPFY2pBHLu54cf2bNlN2J+nMVQKUuodt//sM11KaojLJ7JA1J3DhXe1GaZP5FEtfSzz+T0DuWuriYUHIuE3W2zoX/6MUKOdlVi9/Cgk5dwLDNMIYDKI+arXCdS4eAiQMSvAbf65k5AG/zcMtrrdfEzojXpZkCxsJAUgj0JZbU8V3aIk1yGRNqkAFaf5JU07DY45puIpoJVjXMdAfzWQzZyD3UTyucgpRqrmPTmwJwiBqrijmIlA3IXaR6NUltDzwzaRQIlmSiIhk/IKuxCZc3L56PMRJpcwZKdW6T7W09m7rUdffUo27SqtpZ0=;7w/U4x1rUkI6Gy38OcVpvw=="
 ---
 

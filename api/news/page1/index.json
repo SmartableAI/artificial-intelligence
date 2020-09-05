@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-05-glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done.md",
+      "title": "Glaxo’s biology research with novel Cerebras machine shows hardware may change how AI is done",
+      "excerpt": "A novel computer system built by Cerebras Systems of Los Altos, California, is already leading to changes in the way drug giant Glaxo builds large neural nets for drug development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done/",
+      "originalUrl": "https://www.zdnet.com/article/glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done/",
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/09/05/85444d14-f9ca-4917-966b-19ce28b3cfe1/cerebras-wse.jpg",
+          "width": 1030,
+          "height": 1036,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done/",
+      "publishedDateTime": "2020-09-05T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-09-05-how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers.md",
       "title": "How Adobe is using an AI chatbot to support its 22,000 remote workers",
       "excerpt": "When the COVID-19 shutdown began in March, my team at Adobe realized we had to completely rethink our support infrastructure.",
@@ -1118,56 +1169,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition.md",
-      "title": "The fourth generation of AI is here, and it’s called ‘Artificial Intuition’",
-      "excerpt": "Artificial Intelligence (AI) is one of the most powerful technologies ever developed, but it’s not nearly as new as you might think. In fact, it’s undergone several evolutions since its inception in the 1950s.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/06/vintage-robot-796x398.jpg",
-          "width": 796,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/amp/",
-      "publishedDateTime": "2020-09-03T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

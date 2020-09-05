@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/"
 type: article
 quality: 89
-heat: 309
+heat: 299
 published: true
 
 provider:
@@ -170,20 +170,6 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Concerns about facial recognition system being set up by police"
-    excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
-    publishedDateTime: 2020-09-01T00:44:00Z
-    webUrl: "https://www.newstalkzb.co.nz/on-air/christchurch/canterbury-mornings-with-chris-lynch/audio/kathryn-dalziel-concerns-about-facial-recognition-system-being-set-up-by-police/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 39
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/22966855/facial-recognition.jpg?width=635&height=395&mode=crop"
-        width: 635
-        height: 395
         isCached: true
   - title: "City Council To Discuss Facial Recognition Technology"
     excerpt: "Pittsburgh City Council will be holding an open discussion on the usage of facial recognition technology in policing. KDKA's Lindsay Ward has the latest."

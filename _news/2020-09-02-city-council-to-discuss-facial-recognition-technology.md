@@ -177,20 +177,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Concerns about facial recognition system being set up by police"
-    excerpt: "Concerns about a facial recognition system being set up by police. RNZ is reporting police have been quietly setting up the nine million dollar system that"
-    publishedDateTime: 2020-09-01T00:44:00Z
-    webUrl: "https://www.newstalkzb.co.nz/on-air/christchurch/canterbury-mornings-with-chris-lynch/audio/kathryn-dalziel-concerns-about-facial-recognition-system-being-set-up-by-police/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 39
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/22966855/facial-recognition.jpg?width=635&height=395&mode=crop"
-        width: 635
-        height: 395
-        isCached: true
   - title: "Rafael, AnyVision shareholders in talks on facial recognition JV"
     excerpt: "Israeli artificial intelligence driven computer vision company AnyVision are in advanced talks about setting up a joint venture in the military-defense sector. The new company would be jointly owned 50-50 by AnyVision's shareholders and Rafael."
     publishedDateTime: 2020-09-03T13:36:00Z

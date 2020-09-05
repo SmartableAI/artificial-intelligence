@@ -2,6 +2,47 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-01-nlp-poised-to-revolutionize-the-enterprise.md",
+      "title": "NLP poised to revolutionize the enterprise",
+      "excerpt": "Recent improvements in natural language processing (NLP) are bolstering mainstream technologies with speech and text capabilities, whether that's reading emails aloud in a natural-sounding voice ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3566378/nlp-poised-to-revolutionize-the-enterprise.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-2020-speech-recognition-market-key-opportunity-analysis-growth-trends-2027-microsoft-corporation-nuance-communications.md",
       "title": "2020 Speech Recognition Market Key Opportunity, Analysis, Growth, Trends 2027 - Microsoft Corporation, Nuance Communications,",
       "excerpt": "Speech recognition technology identifies words and phrases in spoken language and translates them to a machine-readable format. It uses algorithms via acoustic and language modeling, which ...",
@@ -1307,58 +1348,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3.md",
-      "title": "AI Weekly: The promise and shortcomings of OpenAI’s GPT-3",
-      "excerpt": "Even OpenAI says \"The GPT-3 hype is way too much.\" A look at the promise and shortcomings of GPT-3, a language model that's attracting a lot of attention.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/amp/",
-      "publishedDateTime": "2020-07-24T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics",
-        "Natural Language Processing"
       ]
     }
   ],

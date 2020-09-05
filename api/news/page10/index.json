@@ -2,6 +2,87 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-08-27-popids-face-based-payments-pose-privacy-and-security-risks.md",
+      "title": "PopID’s face-based payments pose privacy and security risks",
+      "excerpt": "PopID, a face-based payments tech vendor intent on expanding across the U.S., has problematic privacy and security policies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/",
+      "originalUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/amp/",
+      "publishedDateTime": "2020-08-27T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-gene-weingarten-i-have-a-joke-about-twitter-memes.md",
+      "title": "Gene Weingarten: I have a joke about Twitter memes",
+      "excerpt": "I have a joke about ceilings, but it goes over everyone’s head. I have a joke about an emergency room, but it’s a groaner. I have a joke about lutefisk, but it’s in bad taste. I had a joke about erectile dysfunction,",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/elonmusk/status/1298494373278220290",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/magazine/gene-weingarten-i-have-a-joke-about-twitter-memes/2020/08/24/b3129ddc-d65c-11ea-9c3b-dfc394c03988_story.html",
+      "featuredContent": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-acto-raises-115-million-to-bolster-life-sciences-sales-with-ai.md",
       "title": "ACTO raises $11.5 million to bolster life sciences sales with AI",
       "excerpt": "ACTO, a startup using AI-powered mobile experiences to educate stakeholders in life sciences, today closed an $11.5 million funding round.",
@@ -1046,88 +1127,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressing-at-a-cagr-of-83-during-the-forecast-period.md",
-      "title": "The Global Self-driving Taxi Market is expected to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period",
-      "excerpt": "The analyst has been monitoring the self-driving taxi market and it is poised to grow by 78588 units during 2020-2024 progressing at a CAGR of 83% during the forecast period. Our reports on self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17252765",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17252765",
-      "publishedDateTime": "2020-08-26T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-why-banks-need-to-sharpen-their-focus-on-financial-crime.md",
-      "title": "Why Banks Need To Sharpen Their Focus On Financial Crime",
-      "excerpt": "As banks contend with the economic fallout from the Covid-19 pandemic, their ability to respond to financial crime threats is not keeping pace with the sophistication and sheer number of incoming attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/",
-      "originalUrl": "https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43faec352da179b5f176ea%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/amp/",
-      "publishedDateTime": "2020-08-26T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

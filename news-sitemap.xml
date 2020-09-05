@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.zdnet.com/article/glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done/</loc>
+    <lastmod>2020-09-05T09:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/</loc>
     <lastmod>2020-09-05T08:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -231,6 +237,12 @@
   <url>
     <loc>https://www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03</loc>
     <lastmod>2020-09-03T05:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.digitaltrends.com/photography/skylum-luminar-ai-announced/</loc>
+    <lastmod>2020-09-03T05:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

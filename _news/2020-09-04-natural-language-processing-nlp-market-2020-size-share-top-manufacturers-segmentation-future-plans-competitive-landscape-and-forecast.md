@@ -3,8 +3,8 @@ category: news
 title: "Natural Language Processing (NLP) Market 2020 Size, Share, Top Manufacturers, Segmentation, Future Plans, Competitive Landscape and Forecast to 2025"
 excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in"
 publishedDateTime: 2020-09-04T09:43:00Z
-originalUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-size-share-top-manufacturers-segmentation-future-plans-competitive-landscape-and-forecast-to-2025-2020-09-04"
-webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-size-share-top-manufacturers-segmentation-future-plans-competitive-landscape-and-forecast-to-2025-2020-09-04"
+originalUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-size-share-top-manufacturers-segmentation-future-plans-competitive-landscape-and-forecast-to-2025-2020-09-05"
+webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-size-share-top-manufacturers-segmentation-future-plans-competitive-landscape-and-forecast-to-2025-2020-09-05"
 type: article
 quality: 30
 heat: 30
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "RiL5aN0eeFWZTwtjnOidq4WaPXN3BTBmZAQvNk/jqZcU7upjQoIvWDISsskVGX/tWIcUc7n/0do7YWdcbTnAQYBOLWMgd6ypsg2hJ2wC8822NAk8hpDxzP+6hT57SA5UcIm75Qj8fbQn4wcEH2gwYjrLt2O1ajCOdgMXc6zMkdlVzEMY9LxuBIen2C8xp3TgsPDCVVbAW4p3RM9qBBOZ6O+I3vVsNQq7Ql5FTRM/w/IeFpllIhxOfW/DaZ7kX0wetBcy6YFiUkQWO8rsLZXQgmv4n0uDJ+CgbFbN+/gZeeUEZcZBkIiM6mkfx/TdQgiAahc6okKrpYEjYdgI9DT9RgwU5ZduYowbaAsXlGdvbZ4=;Llb8bt0pUilAFfjMbjJsqQ=="
+secured: "x9eoEiDP8kBRTiJ4pDz0FJV+tmel5aAZF356Yor0fU2ayuN0EaoA5kIVTOLrnKkoYDSZIqoK/Iie1egWAvveKDhrKt+WZwIX84NX87lC/iIr/ZLAnORQZyHhEd/zwqTofd1Jt3i7ziT2DpKybDbzk+Dksi0qzmLdYUbjTYkH1cfDIx9leeMsOCAYWQ9dOaO425UnBLFwKhpQebpYmLC+INEd2yZrjISi9VafN5ISK0DF2Rp/6KupSzfBFKvs2+M+MLHeQo68F/ptu65Rs9iwgGG8mBnbiHH8P/zBJezMmUqFKr922nK4kdAfD8Y0rWho3jC8Ed+q0Vu2Fa4IVjIMvOG30HXRDxHrftzC4CTeV9E=;nfBJyP1taTk5sx8WCfoiHw=="
 ---
 

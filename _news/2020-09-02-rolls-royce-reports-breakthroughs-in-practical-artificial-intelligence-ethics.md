@@ -2,9 +2,9 @@
 category: news
 title: "Rolls-Royce reports breakthroughs in practical artificial intelligence ethics"
 excerpt: "Royce announced on Wednesday that it had achieved two breakthroughs in the field of artificial intelligence (AI) ethics. These breakthroughs will be fully published later this year on the Rolls-Royce website under a Creative Commons licence."
-publishedDateTime: 2020-09-02T09:33:00Z
-originalUrl: "https://www.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02"
-webUrl: "https://www.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02"
+publishedDateTime: 2020-09-02T14:07:00Z
+originalUrl: "https://m.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02"
+webUrl: "https://m.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02"
 type: article
 quality: 51
 heat: -1
@@ -58,6 +58,6 @@ related:
         height: 384
         isCached: true
 
-secured: "aVfJG3+2uAMZnikSwlts/kxRtPOLffLR7qEBOc01BsyphrOsy7Fvmo+fR4yOid/FRLWDrs9NEEHfG0tzL9qyHpOxlc7r05d7QUz0K1K8rLa9I1rofXh/LR/ss3KFTp6RHhkMWbbTI6bdqY//0NgD4+y/cfAmoQE/6VV3W33lqAZfD/BZHP+k5ScuskiDWcgrQoZzzwBZtZr4E+mp6/kx7+niYB6aMwyyHezATeXu/8IaE6pNOseJsbXkZxndzEoyxq7el+jHmazZu0Egi2VfL/iVck2fex35mh4XaTehndfLmK9agyXIOeG68p0+tJoHVCCYLXw0DWZj8/8NSMYUCOkbHFHhwsLpaxPOUxdiZ0I=;BFvpXPnPWc/Of6eizZqdvA=="
+secured: "vfPNytYq5ZpBC3qBzL8/+MZjEU1dpEMuf48bNxAJVMuH8MZR8FITpIu+/0zhvmByC14dG0lvRODuVIR47bsj8J+NaB5ScDYVTvvvlgOJDH52ksOMTeuFVUS6Y6mD0Fvqxi1cAi9GAX/Je0Xe5EGEwCT4yX5dgLf9i83m849+sHi1XcMhSP1ry18pq7FuKl0Gpsa5W6+61jc0QqfoJ5snXwMVl5EAOZom9HjUUO6f/5HgIri0s7Reeuxbblae0M6z13zZhQ/aACG5BColDmm0lN8CnUQsqjZbogfrKojYP8e3HbKBjmHskvLNN2Deki03FVPUKX8t8UF7esaCgN9Gg4WkAG6p8sHYNZzf1uy0RHc=;ySIEnWW2SKw5W+yuZpPHPw=="
 ---
 

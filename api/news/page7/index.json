@@ -2,6 +2,96 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-08-31-50-exoplanets-discovered-in-deep-space-by-advanced-artificial-intelligence.md",
+      "title": "50 exoplanets discovered in deep space by advanced artificial intelligence",
+      "excerpt": "More than 4,000 exoplanets have been discovered so far by astronomers. Now, artificial intelligence has discovered an additional 50, thanks to old data from NASA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence",
+      "originalUrl": "https://www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence",
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/exoplanet-water-common.jpg",
+          "width": 1056,
+          "height": 515,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence.amp",
+      "publishedDateTime": "2020-08-31T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-israeli-ai-chip-developer-hailo-opens-doors-on-japanese-expansion.md",
+      "title": "Israeli AI chip developer Hailo opens doors on Japanese expansion",
+      "excerpt": "Israeli microprocessor developer Hailo sees a path to support and dominate growing Asian AI chip market by establishing new Japanese",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/hailo-announces-japanese-expansion/",
+      "originalUrl": "https://www.geektime.com/hailo-announces-japanese-expansion/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2020/08/Hailo-8-AI-processor.jpg",
+          "width": 1600,
+          "height": 1598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/hailo-announces-japanese-expansion/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/hailo-announces-japanese-expansion/amp/",
+      "publishedDateTime": "2020-08-31T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-medical-robots-market-2020-global-size-share-regional-trends-and-2026-forecast.md",
       "title": "Medical Robots Market | 2020 Global Size, Share, Regional trends and 2026 Forecast",
       "excerpt": "The Global Medical Robots Market is likely to expand in the coming years due to advancements made in embedded systems. According to a report by Fortune Business Insights, titled “Medical Robots Market Size”,",
@@ -1084,106 +1174,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-7-data-science-certifications-to-boost-your-resume-and-salary.md",
-      "title": "7 data science certifications to boost your resume and salary",
-      "excerpt": "IBM, Google, SAS, and Oracle offer online courses and exams to quantify data science skills and expertise with modeling and analysis software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/7-data-science-certifications-to-boost-your-resume-and-salary/",
-      "originalUrl": "https://www.techrepublic.com/article/7-data-science-certifications-to-boost-your-resume-and-salary/",
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/7-data-science-certifications-to-boost-your-resume-and-salary/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/7-data-science-certifications-to-boost-your-resume-and-salary/",
-      "publishedDateTime": "2020-08-28T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios.md",
-      "title": "AI analysis finds that in-app ad issues are fixed faster on Android than iOS",
-      "excerpt": "Researchers found major differences between how in-app ad complaints are addressed on the iOS App Store and Google Play.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/28/ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios/",
-      "originalUrl": "https://venturebeat.com/2020/08/28/ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios/",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/fe6abb8c-2585-4d43-965d-980609eb259c-e1598634853169.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/28/ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios/amp/",
-      "publishedDateTime": "2020-08-28T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
