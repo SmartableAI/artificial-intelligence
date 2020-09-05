@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence for Drug Discovery and Development Market to Reach $4.81 Billion by 2027: AMR"
+    excerpt: "Surge in cross industry co"
+    publishedDateTime: 2020-09-02T12:50:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-09-01/global-artificial-intelligence-for-drug-discovery-and-development-market-to-reach-4-81-billion-by-2027-amr"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 48
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Security Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 – 2025"
     excerpt: "Artificial intelligence in cyber security will increase efficiency and precision of the system to observe any potential threat in organization's system. Organizations increasing their horizon to completely different geographies are generating voluminous data to realize insights and are using analysis techniques to enhance their product offerings."
     publishedDateTime: 2020-09-01T07:20:00Z

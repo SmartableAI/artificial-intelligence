@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
+    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource o"
+    publishedDateTime: 2020-09-02T07:41:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 68
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo_2.jpg"
+        width: 620
+        height: 254
+        isCached: true
   - title: "MojoRank's Intelligent Recruiting Solution Now Available on Microsoft AppSource"
     excerpt: "MojoRank, a leader in artificial intelligence recruiting and diversity hiring solutions for human resource organizations, today announced"
     publishedDateTime: 2020-09-01T12:38:00Z
@@ -35,15 +49,6 @@ related:
         width: 5157
         height: 2700
         isCached: true
-  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
-    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing applications and services tailored to specific business needs."
-    publishedDateTime: 2020-09-02T07:41:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 48
 
 secured: "+jxUsf1dsKAtAzLGureAL15G4W4cC4qSqMvackM2roYj36ht3kikxBJoRj8DmA8IRClVRwYFdQUamch670WORsB041ax+g7HlA2byq8DpDBtrNW/3GssiJgLQhwfNwUJ8uDC3OIC6NM7uZ6knfB2AWA/cJJP62SaZ8LD2XKGrpuoq3BxZ+hVJt5GUqamnAnpSFStXMs+LF+ba3doDI9638+e+nWAt6O1atZoRHh30hHdRjqORvpmaEchzBafhMHoIYz7aERDa+mvs3BZhqq0Dzc5N/EKAlCoesqprPNJs8RaDikbSRyOKFD/hNM3FCpBURGKPOJzoWtrvhyFjYCaRGkmHwOwwPjJVFKCv+JsbSQ=;jl+D0yZW6UCmcGUOhJX+IQ=="
 ---

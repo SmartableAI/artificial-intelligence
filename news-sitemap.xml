@@ -103,7 +103,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thenextweb.com/podium/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/</loc>
+    <loc>https://thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/</loc>
     <lastmod>2020-09-03T10:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -619,12 +619,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bizjournals.com/pittsburgh/news/2020/09/01/carnegie-robotics-and-nilfisk-partner.html</loc>
-    <lastmod>2020-09-01T05:37:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://techcrunch.com/2020/09/01/salesforce-beefing-up-field-service-offering-with-ai/</loc>
     <lastmod>2020-09-01T05:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -895,7 +889,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

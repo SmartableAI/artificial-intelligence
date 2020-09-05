@@ -7,7 +7,7 @@ originalUrl: "https://www.techjuice.pk/qualcomm-announces-snapdragon-732g-with-1
 webUrl: "https://www.techjuice.pk/qualcomm-announces-snapdragon-732g-with-100-mhz-cpu-cores-15-faster-gpu/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "Snapdragon 732G announced: 15% faster GPU, 100 MHz CPU cores"
-    excerpt: "The two big Kryo 470 cores now run at 2.3 GHz (+0.1 GHz over the old chip) while the Adreno 618 GPU has been boosted to deliver 15% more performance. The rest is the same with an LTE modem (X15) and Wi-Fi 6 connectivity."
-    publishedDateTime: 2020-08-31T16:32:00Z
-    webUrl: "https://www.gsmarena.com/snapdragon_732g_announced_s730g_with_15_faster_gpu_01_ghz_boost_to_big_cpu_cores-news-45019.php"
-    ampWebUrl: "https://m.gsmarena.com/snapdragon_732g_announced_s730g_with_15_faster_gpu_01_ghz_boost_to_big_cpu_cores-amp-45019.php"
-    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/snapdragon_732g_announced_s730g_with_15_faster_gpu_01_ghz_boost_to_big_cpu_cores-amp-45019.php"
-    type: article
-    provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 59
-    images:
-      - url: "https://fdn.gsmarena.com/imgroot/news/20/08/snapdragon-732g-announced/-1220x526/gsmarena_0000.jpg"
-        width: 1220
-        height: 526
-        isCached: true
 
 secured: "SDo2KJv3BDQFhLGjBCGFmKOoXlLF7JyqJ7cUBnqUMaTsV0UBAS665jHcjT1NkGL9TnqJSyzzrJ+ka2Rz61se94uh8dxdm+lzRg4baCxGIxfom+tTvNHh8wdezDy/q8yd4JUgHUD5t29ZMyaU52GMJeryM7HA24zRWzW5hUj2xEDuurHVZ1/nJ/3/yac6TGdc/HZRe49u8haoPy1ZxJVkHJvS1t07AcYQgAmfQF+duMe4BsFcyqWBMrOt1z7xgvFQL8thRbymU2ZnpfOTroky51613FTShjmYwf5hv9nfPmpxKgHPwPO2SaP5X4Tpq1kCjZC4+Xd0phj6agBkahnjAoMnaEOeTWDxdguFGFFYVA4hDRbNLxbaaxqsVsWRZkjtxbohBEXkkbzIpRiMBu8v9c1ivYCWshIHLM34ZzWyP04BtTruf/3rDmDzxPGhxqymPK9nOpkMSYy+0DdvdMbpZjpNsDFF6bAG5snQMfSyliN0CVnwK6yqXNkqEV8rQAgxNyXEQN/NI2TjNuTZPRXlf3M7DkpJVCSe3K1HNmeg23M=;0el5i8xrB75hxTk4f3NtZQ=="
 ---

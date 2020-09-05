@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-ai-chips-mar
 webUrl: "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025-2020-09-01"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
     quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence for Drug Discovery and Development Market to Reach $4.81 Billion by 2027: AMR"
+    excerpt: "Surge in cross industry co"
+    publishedDateTime: 2020-09-02T12:50:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-09-01/global-artificial-intelligence-for-drug-discovery-and-development-market-to-reach-4-81-billion-by-2027-amr"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 48
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
         isCached: true
