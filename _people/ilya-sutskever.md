@@ -11,11 +11,11 @@ affiliation:
 twitter:
   username: ilyasut
   url: https://twitter.com/ilyasut
-  followers: 57552
+  followers: 57558
 
 googleScholar:
   url: https://scholar.google.com/citations?user=x04W_mMAAAAJ
-  citations: 190158
+  citations: 190673
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Ilya_Sutskever
