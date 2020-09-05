@@ -53,47 +53,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-04-nvidia-reveals-rtx-3090-3080-3070-gpu-price-release-date-and-specs-detailed.md",
-      "title": "Nvidia Reveals RTX 3090, 3080, 3070 GPU: Price, Release Date, And Specs Detailed",
-      "excerpt": "Nvidia has finally revealed its new line of GPU, which is under the new Ampere architecture--the RTX 3090, 3080, and 3070 cards. The new 3000 series is the second generation of RTX graphics cards that will run features like real-time ray tracing with much higher performance than current RTX cards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/nvidia-reveals-rtx-3090-3080-3070-gpu-price-releas/1100-6481673/",
-      "originalUrl": "https://www.gamespot.com/articles/nvidia-reveals-rtx-3090-3080-3070-gpu-price-releas/1100-6481673/",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3728918-pcgaming_rtx30series_impressions_20200901_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/nvidia-reveals-rtx-3090-3080-3070-gpu-price-releas/1100-6481673/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/nvidia-reveals-rtx-3090-3080-3070-gpu-price-releas/1100-6481673/",
-      "publishedDateTime": "2020-09-03T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-04-qualcomms-second-gen-laptop-chip-isnt-doing-enough-to-compete-with-apple.md",
       "title": "Qualcomm's Second-Gen Laptop Chip Isn't Doing Enough to Compete With Apple",
       "excerpt": "Qualcomm made a big push into the notebook market with its first purpose-built laptop chip—the Snapdragon 8cx. And for 2020, Qualcomm is announcing the Snapdragon 8cx Gen 2 which offers new 5G connectivity along with improved AI and security,",
@@ -336,6 +295,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-02-lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support.md",
+      "title": "LG launches 8K OLED TVs with NVIDIA GeForce RTX 30 Series GPU support",
+      "excerpt": "Electronics brand LG has expanded its product portfolio with the launch of a new range of 8K OLED TVs. The company is said to be the first TV manufacturer to commercialize 8K OLED",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/articleshow/77888361.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/articleshow/77888361.cms",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-77888361/77888361.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/amp_articleshow/77888361.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/amp_articleshow/77888361.cms",
+      "publishedDateTime": "2020-09-02T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025.md",
       "title": "Global Edge AI Chips Market 2020 Industry Key Player, Trend and Segmented Data, Demand and Forecast by 2025",
       "excerpt": "Global Edge AI Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 includes an overview of the basic industry information, business development, market size, and share scenario.",
@@ -436,6 +436,97 @@
       ]
     },
     {
+      "path": "_news/2020-09-02-nvidia-unveils-ampere-geforce-rtx-3090-rtx-3080-and-rtx-3070-gaming-gpus-crushes-it-again.md",
+      "title": "NVIDIA Unveils Ampere GeForce RTX 3090, RTX 3080 And RTX 3070 Gaming GPUs, Crushes It Again",
+      "excerpt": "It may be a little presumptuous to make early projections like this but my initial thought is that Ampere is going to be a huge hit among gamers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/09/01/nvidia-unveils-ampere-geforce-rtx-3090-3080-and-3070-gaming-gpus-and-crushes-it-again/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2020/09/01/nvidia-unveils-ampere-geforce-rtx-3090-3080-and-3070-gaming-gpus-and-crushes-it-again/",
+      "featuredContent": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e7ae75aeffe545e825438%2F0x0.jpg",
+          "width": 960,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2020/09/01/nvidia-unveils-ampere-geforce-rtx-3090-3080-and-3070-gaming-gpus-and-crushes-it-again/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/09/01/nvidia-unveils-ampere-geforce-rtx-3090-3080-and-3070-gaming-gpus-and-crushes-it-again/amp/",
+      "publishedDateTime": "2020-09-01T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu.md",
+      "title": "GeForce RTX 3080 is Nvidia’s New Flagship Next-Gen GPU",
+      "excerpt": "The RTX 3080 is said to be up to twice as fast as the original RTX 2080. Built on a custom 8N manufacturing process, it has 28 billion transistors, 8704 CUDA Cores, and a 10 GB GDDR6X VRAM. It was also confirmed that the images showing the curved heatsink and bi-directional fans of the GPU that were leaked earlier in the year are indeed accurate.",
+      "sourceUrl": null,
+      "webUrl": "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu",
+      "originalUrl": "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu/amp",
+      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu/amp",
+      "publishedDateTime": "2020-09-01T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "From Software",
+        "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-nvidia-broadcast-brings-rtx-powered-ai-to-livestreaming-video.md",
       "title": "Nvidia Broadcast brings RTX-powered AI to livestreaming video",
       "excerpt": "Nvidia Broadcast is a new tool that brings together all of the companys RTX AI features for creating video and audio content.",
@@ -459,56 +550,6 @@
       "ampWebUrl": "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/amp/",
       "publishedDateTime": "2020-09-01T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors.md",
-      "title": "Nvidia unveils GeForce RTX 3080 GPU with 28 billion transistors",
-      "excerpt": "Nvidia has unveiled its 28-billion transistor Ampere-based 30 series graphics chips for PC gamers. The new chips will shore up PC gaming.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/",
-      "originalUrl": "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/",
-      "featuredContent": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/nvidia-GeForce-RTX-30-Series.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/amp/",
-      "publishedDateTime": "2020-09-01T09:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -1352,47 +1393,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000.md",
-      "title": "SINTRONES Edge AI GPU Computing Solution enabling flexibility: EBOX-7000",
-      "excerpt": "It is expandable with Nvidia Tesla Card, Nvidia GPU card, Nvme card, image capture card and I/O card. Furthermore, EBOX-7000 can be used in edge AI enhancements, intelligent video analytics AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0",
-      "originalUrl": "https://www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
-          "width": 299,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0?amp",
-      "publishedDateTime": "2020-08-24T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

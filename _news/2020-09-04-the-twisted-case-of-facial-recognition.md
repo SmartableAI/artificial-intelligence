@@ -3,10 +3,10 @@ category: news
 title: "The twisted case of facial recognition"
 excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
 publishedDateTime: 2020-09-04T04:04:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
+originalUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
+webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: kmworld.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
@@ -45,9 +44,9 @@ related:
   - title: "Faulty Facial Recognition Led to His Arrest—Now He’s Suing"
     excerpt: "Michael Oliver is the second Black man found to be wrongfully arrested by Detroit police because of the technology—and his lawyers suspect there are many more."
     publishedDateTime: 2020-09-04T14:08:00Z
-    webUrl: "https://www.vice.com/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-    ampWebUrl: "https://www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    webUrl: "https://www.vice.com/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    ampWebUrl: "https://www.vice.com/amp/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
     type: article
     provider:
       name: VICE
@@ -323,6 +322,6 @@ related:
         height: 270
         isCached: true
 
-secured: "8sweczuzwmufCullGh71JZpWVNaLz3/XyGTXdxhhDeTeJHgXrs0ulY3r2ckTuQQplM82RRyeqdn/Y3Zzo1qe8zVJactuO20/qmGcvHIoJQXiXqmXpVaop4H3b6Ltjd3csOAZzV5l0izSc8hv8Arb042qyBLUPq8sxJguH/4cqWGTjSLd/OjnoUn9WfAIhPJxFcIOf9fh9U/rdU/N9FtuUG8PFddwT4iuh/H6uTeqyQFFUeQZD1g41Rt+9iYFPPabYa5D5EsTt3yyg8Ol0f09wR23LCqMuwfICTuryh/1GSuOCMzoRkyg3z3KP6jLy1KQzsQlEM+7S4rySWtD6oYPL0kTbOEPqIXhQMsfc7b26OI=;lxg8/hYXUi5Mp8ZtZxve6w=="
+secured: "ner/dwZy5qEZRA9Dxw42sQMAMVXwTs8MgbiGgXxGn5lQNg/nZPvTGG4ep5oqrbjz2rCRBgPdD+VQcQd93NWq7iZAa0qDa96dvDMd2UKWnNXXniizR6Pf0Xg307YR43J++fxnQ09FWV/rD1VcWf/O5s7cL7CGaO4HWxu+G6NLh4DG7WP02v7oQBR8gc/gj0o3QYNIIevLljSWiZCVclhdi1jIsX1pt8qGmK1zMm1f08RL3HqiYoc2BNxykgaIVhmVSGoYAKJ0rPt3mIse2KC6ziun7vMlD6bNKw1m1D7hrU3FsI3L3RY0LJiNWfP+xpIwMIJm7ICMQ1IQCSOaXc0GzQn31TYASsaCsijLFwv/N8k=;03VAQCrbCWaKIu0GQmfHeA=="
 ---
 

@@ -137,6 +137,20 @@ related:
         width: 5456
         height: 3284
         isCached: true
+  - title: "Daimler Tests Self-Driving Trucks in Southwest"
+    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
+    publishedDateTime: 2020-09-05T21:38:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/21174127/daimler-trucks-tests-selfdriving-vehicles-in-us-southwest"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/09/16x9/AP2060477072155543.5f5245e61426c.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "JWI5jZel3bI316+yfMrIAtJQJp/9NVlZmoAGGUhBOIR0gYQL1DyLf+8j6Y3K+qn/Gjbx/+HxOvHMCRVyPCHJWIrFmNP97k0X+T1X/g277QKKv5gyMK8rEMn3T7yh4UauOKlO/hgdbQ+FjlMR2TBXlK8txjwbwjzN83fP478kjrAiNxN3zGOLfo2nAiE5Ax8ysUxB+X5b/FaidlP7KMbsyU1A9ljwdVAsnSedfnfp7DwqV3FP3WSPctvujVODqGVcPXvowN/Y4XXHZ7dqKh7ZPlCvfpgagrbhumEcPuR6r/5I61SgywM3mGFF+2GG7DBPwmyeyBP0MhZI+U3qdwsrYCEJhCSoUcJyTqixJKNzNHOVOrxIlTYObyxQmoF2XK6RCLDDCBhVEA8dwrx0eKiVXE8uG/KSKAKKd88y3c+AGknGY8OuN8KiwR/QxUNMW87mObJJnOlLoQZRkhEcyH+mrAXvB+RxJKWzCtXsctSY1a5t0F3gnw+YfCNkjnttMnLFu9d0WG8p49RxotA5blNe39raWDlh7eCHvi093xDdQ/A=;PTkk0xo2098q1HQ8K5qhqw=="
 ---

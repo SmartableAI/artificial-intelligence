@@ -9,8 +9,8 @@ ampWebUrl: "https://www.abqjournal.com/1493210/daimler-trucks-using-nm-to-test-s
 cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1493210/daimler-trucks-using-nm-to-test-selfdriving-vehicles.html/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Albuquerque Journal
@@ -27,36 +27,58 @@ images:
     isCached: true
 
 related:
-  - title: "5G-covered road for self-driving vehicles official opens in China"
-    excerpt: "A 5G-covered road for testing self-driving cars was formally unveiled in Baohe district of Hefei city in east China’s Anhui province on Thursday, September 3."
-    publishedDateTime: 2020-09-03T14:43:00Z
-    webUrl: "https://yen.com.gh/169107-5g-covered-road-driving-vehicles-official-opens-china.html"
-    ampWebUrl: "https://yen.com.gh/amp/169107-5g-covered-road-driving-vehicles-official-opens-china.html"
-    cdnAmpWebUrl: "https://yen-com-gh.cdn.ampproject.org/c/s/yen.com.gh/amp/169107-5g-covered-road-driving-vehicles-official-opens-china.html"
+  - title: "Yandex Self Driving Group Gets $150 Million, Partners With Uber To Bring Autonomous Vehicles To U.S."
+    excerpt: "Yandex is not cutting ties with its former autonomous vehicle team by any means. Yandex NV is going to invest $150 million into Yandex SDG ($100 million in equity, $50 million as a convertible loan) and Yandex NV will keep an eye on the autonomous vehicle technology progress and will keep reporting Yandex SDG's results in Yandex NV's \"Other Bets and Experiments\" segment."
+    publishedDateTime: 2020-09-05T20:27:00Z
+    webUrl: "https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/"
+    ampWebUrl: "https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/amp/"
     type: article
     provider:
-      name: Yen.com.gh
-      domain: yen.com.gh
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://netstorage-yen.akamaized.net/images/90287a5f83981aac.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f52670a77958deeab46fb0c%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 776
         isCached: true
-  - title: "Tesla Full Self-Driving Review"
-    excerpt: "Tesla Motors says it's developing hardware and software to power the world’s first self-driving cars. The software, called, ‘Full Self-Driving Capability’, costs Tesla owners an additional $8,000 to buy."
-    publishedDateTime: 2020-09-04T17:29:00Z
-    webUrl: "https://www.consumerreports.org/video/view/cars/auto-test-track/6185173516001/tesla-full-self-driving-review/"
+  - title: "Yandex and Uber spin out self-driving venture with $150 million investment"
+    excerpt: "Yandex and Uber are spinning out their self-driving venture into a separate company with the Russian tech giant investing $150 million."
+    publishedDateTime: 2020-09-04T10:59:00Z
+    webUrl: "https://venturebeat.com/2020/09/04/yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment/"
+    ampWebUrl: "https://venturebeat.com/2020/09/04/yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/04/yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment/amp/"
     type: article
     provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
     images:
-      - url: "https://f1.media.brightcove.com/8/1078702682/1078702682_6171073910001_6171086182001-th.jpg?pubId=1078702682&videoId=6171086182001"
-        width: 580
-        height: 326
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/Yandex-Self-Driving-026-e1599213974150.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
+  - title: "Yandex Self Driving Group To Be Directly Owned By Yandex, Uber - Quick Facts"
+    excerpt: "(RTTNews) - Yandex N.V. (YNDX) and Uber (UBER) have entered into agreements to spin off the self-driving vehicles business, Yandex Self Driving Group B.V., from their joint venture, MLU B.V. Yandex will invest $150 million into Yandex SDG,"
+    publishedDateTime: 2020-09-04T08:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04"
+    ampWebUrl: "https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
+  - title: "Yandex increases its stake to 62% in ride-hailing and foodtech JV with Uber and to 73% in restructured self-driving business"
+    excerpt: "Yandex N.V. (NASDAQ:YNDX) has signed an agreement with Uber to contribute the Yandex.Drive car-sharing business from Yandex N.V."
+    publishedDateTime: 2020-09-04T09:51:00Z
+    webUrl: "https://seekingalpha.com/news/3611677-yandex-increases-stake-to-62-in-ride-hailing-and-foodtech-jv-uber-and-to-73-in-restructured"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
 
 secured: "9QO5HdP5iYPP622AZxlBNORPwltOcrkTSwm+W8tq7dfUd9XOIL6sx9ZvNmhqwCMg/opW8puiPsq5XRY/1GPEhb8Gjx+IbLqv3B5laPdhvtt/aLocj1HobG/n7KNBIY47zdiqDcb3kXX2zLoW2xkIeQGl40N361dPSTuJoZXSMX3k5C+PrUY8pLekNbCxrf48F97562GHfTXowhtyyre8z1cmSZcfBLWRk4/GMRegIj3g4gpa2We5Abc0N2YPd1IUIeh7xO022ZJx1RKcj/hRnmbExWrSdeZPlIXPNr7kP69vCyX9ivpIsDenOToh1R2ap9BgeOeEe/Q8Ax2/rbsec1SUlIHIemYPgeWoNrNk3RQdDWgGQ52eJ1kGbULwwxxc7b9NTWeBgqQgrSHF6eYEFxQMV7gVam9zZ8Bk2yvtcHi8Ou8a3Xa/+MxsPBq5I3I+QrOR7jpt1wL3Bd96EJx1ZFmjE2ZvsfJfO4+fFtcOYJcNLcMllgige7iSgrk0q8aXInFaAlxGf7hL3P4Ox5wEqkO7pbDIPDCtbHR20+dqTbg=;wRi+hLaOa82xsjZYZYXfZA=="
 ---

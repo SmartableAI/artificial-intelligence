@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/nvidia-updates-gpu-lineup-wi
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nvidia-updates-gpu-lineup-with-faster-and-more-power-efficient-rtx-30-series/amp-11599027239039.html"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,47 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "LG launches 8K OLED TVs with NVIDIA GeForce RTX 30 Series GPU support"
+    excerpt: "Electronics brand LG has expanded its product portfolio with the launch of a new range of 8K OLED TVs. The company is said to be the first TV manufacturer to commercialize 8K OLED"
+    publishedDateTime: 2020-09-02T09:48:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/articleshow/77888361.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/amp_articleshow/77888361.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/amp_articleshow/77888361.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-77888361/77888361.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Nvidia Pushes Ray-Traced Gaming Ahead With 3000 Series GPUs"
+    excerpt: "The pandemic, in general, has given people more time, more incentive, and frankly, more of a need to game than ever before."
+    publishedDateTime: 2020-09-03T14:34:00Z
+    webUrl: "https://seekingalpha.com/article/4372341-nvidia-pushes-ray-traced-gaming-ahead-3000-series-gpus"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
+  - title: "Acer Announces Support for the New NVIDIA GeForce RTX 30 Series GPUs Across Its Predator Orion Desktop Portfolio"
+    excerpt: "Acer today announced support for the latest NVIDIA® GeForce RTX™ 30 Series GPUs across its portfolio of Predator Orion gaming desktops. It"
+    publishedDateTime: 2020-09-01T18:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio-301122037.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/1177667/Acer_logo_Logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
 
 secured: "V39OjpTkytx/LUIS9vap9ZMleJHXzLrsGS5oUug04anWz56AN7oM7i7hyrYOQP8OPrx54U3P7DkdRA/Yqzz2EMwxnWfCQelSd9uK45ZDc2nIUWOmTGMXYqfKrQa61e8ZMjAyzPxLHgF2ZnvCdSLXcZ1aFx2U14s0mhCSsmrM2G+0O3wDIcvyxyLiRD0o226f0H1AUn5fKRXO+KgSUZM+wJqX2IYrdhZeMbw8jD3CWSsV6Xx5oNRdzTBNpVAhXk1pwMLmXkHPvZPNP7RSOmgeFdT62DkfJN60Dt1TWjqJqB+wbC0PqVocogTXByBZdmD4pUEt2XbXNdQ1xrFReUMWrivO45icgp5bW+zORcINE40m/8JvBgxdSL7QT8psl8XKopeUmEQCOXivZzbjMOIsDlIkK49nG4oSlWxfypGAgPiUvo+ng6araUpp7SoGww7Y5ajd6wsnR4FsPTRfRIQaON/ids795MaFlcPoA2QsNU+mvMCaOMvhD8sUv6ax7nduyuG5Azmbym6zl4sr9YVfFE6cNJfgfNy4CemPAs5qfuU=;kijWKWHzubRhw5ONLMZbJQ=="
 ---

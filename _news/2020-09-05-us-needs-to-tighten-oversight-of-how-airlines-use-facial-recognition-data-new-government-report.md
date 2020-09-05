@@ -101,6 +101,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "US CBP deploys facial recognition at 27 US airports as of May-2020"
+    excerpt: "US Government Accountability Office reported (03-Sep-2020) as of May-2020, the US Customs and Border Protection (CBP) deployed facial recognition technology at 27 US airports. CBP"
+    publishedDateTime: 2020-09-05T13:34:00Z
+    webUrl: "https://centreforaviation.com/news/us-cbp-deploys-facial-recognition-at-27-us-airports-as-of-may-2020-1022070"
+    type: article
+    provider:
+      name: Centreforaviation.com
+      domain: centreforaviation.com
+    quality: 34
   - title: "CBP Should Address Facial Recognition System Performance and Privacy Issues, GAO Says"
     excerpt: "A Government Accountability Office (GAO) review has found that U.S. Customs and Border Protection (CBP) has made progress testing and deploying facial recognition technology (FRT) at ports of entry to create entry-exit records for foreign nationals as part of its Biometric Entry-Exit Program."
     publishedDateTime: 2020-09-05T14:29:00Z

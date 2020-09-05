@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/amp_articleshow/77888361.cms"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: India Times
@@ -27,93 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia unveils GeForce RTX 3080 GPU with 28 billion transistors"
-    excerpt: "Nvidia has unveiled its 28-billion transistor Ampere-based 30 series graphics chips for PC gamers. The new chips will shore up PC gaming."
-    publishedDateTime: 2020-09-01T16:53:00Z
-    webUrl: "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/"
-    ampWebUrl: "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/amp/"
+  - title: "Nvidia updates GPU lineup with faster and more power efficient RTX 30 series"
+    excerpt: "Nvidia CEO Jensen Huang announced the new series of graphics processing units at a virtual event .The GeForce RTX 30 series fuses programmable shading, ray tracing and AI for developers to create entirely new worlds,"
+    publishedDateTime: 2020-09-02T07:11:00Z
+    webUrl: "https://www.livemint.com/companies/news/nvidia-updates-gpu-lineup-with-faster-and-more-power-efficient-rtx-30-series-11599027239039.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/nvidia-updates-gpu-lineup-with-faster-and-more-power-efficient-rtx-30-series/amp-11599027239039.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nvidia-updates-gpu-lineup-with-faster-and-more-power-efficient-rtx-30-series/amp-11599027239039.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Mint
+      domain: livemint.com
+    quality: 56
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/nvidia-GeForce-RTX-30-Series.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "NVIDIA unveils the $699 GeForce RTX 3080, its first 'Ampere' GPU"
-    excerpt: "And it also showed off the $499 RTX 3070. NVIDIA’s latest 30 Series GPUs are officially here, after weeks of seemingly endless leaks. The company unveiled the RTX 3080 and RTX 3070 today, the first consumer offerings based on its new “Ampere” architecture."
-    publishedDateTime: 2020-09-01T16:37:00Z
-    webUrl: "https://www.engadget.com/nvidia-rtx-3080-gpu-ampere-163044861.html"
-    ampWebUrl: "https://www.engadget.com/amp/nvidia-rtx-3080-gpu-ampere-163044861.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidia-rtx-3080-gpu-ampere-163044861.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F2fc9d470-ec70-11ea-9fee-a0c1b0bd255d&client=amp-blogside-v2&signature=027fdd6d85e05239be8f5ea7c78814a3cfcf31b9"
+      - url: "https://images.livemint.com/img/2020/09/02/600x338/2020-09-01T164635Z_1_LYNXMPEG8035Y_RTROPTP_3_NVIDIA-RESULTS_1599027285069_1599027303480.JPG"
         width: 600
-        height: 350
+        height: 338
         isCached: true
-  - title: "GeForce RTX 3080 is Nvidia’s New Flagship Next-Gen GPU"
-    excerpt: "The RTX 3080 is said to be up to twice as fast as the original RTX 2080. Built on a custom 8N manufacturing process, it has 28 billion transistors, 8704 CUDA Cores, and a 10 GB GDDR6X VRAM. It was also confirmed that the images showing the curved heatsink and bi-directional fans of the GPU that were leaked earlier in the year are indeed accurate."
-    publishedDateTime: 2020-09-01T19:09:00Z
-    webUrl: "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu"
-    ampWebUrl: "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu/amp"
-    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu/amp"
+  - title: "Nvidia Pushes Ray-Traced Gaming Ahead With 3000 Series GPUs"
+    excerpt: "The pandemic, in general, has given people more time, more incentive, and frankly, more of a need to game than ever before."
+    publishedDateTime: 2020-09-03T14:34:00Z
+    webUrl: "https://seekingalpha.com/article/4372341-nvidia-pushes-ray-traced-gaming-ahead-3000-series-gpus"
     type: article
     provider:
-      name: From Software
-      domain: gamingbolt.com
-    quality: 59
-    images:
-      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
-  - title: "MSI unveils first custom NVIDIA GeForce RTX 30 Series GPU’s"
-    excerpt: "MSI has shared its take on NVIDIA’s exciting new GeForce RTX 30 series GPUs, with graphics cards that unite the latest in graphics technology."
-    publishedDateTime: 2020-09-01T18:20:00Z
-    webUrl: "https://invisioncommunity.co.uk/msi-unveils-first-custom-nvidia-geforce-rtx-30-series-gpus/"
-    ampWebUrl: "https://invisioncommunity.co.uk/msi-unveils-first-custom-nvidia-geforce-rtx-30-series-gpus/?amp"
-    cdnAmpWebUrl: "https://invisioncommunity-co-uk.cdn.ampproject.org/c/s/invisioncommunity.co.uk/msi-unveils-first-custom-nvidia-geforce-rtx-30-series-gpus/?amp"
-    type: article
-    provider:
-      name: invisioncommunity.co.uk
-      domain: invisioncommunity.co.uk
-    quality: 59
-    images:
-      - url: "https://invisioncommunity.co.uk/wp-content/uploads/2020/09/msi-rtx-30.jpg"
-        width: 1000
-        height: 564
-        isCached: true
-  - title: "NVIDIA’s GeForce RTX 30 Series GPU Is The Greatest-Ever Generational Leap"
-    excerpt: "Jensen Huang, CEO and founder of Nvidia, has unveiled its all-new GeForce RTX 30 Series GPUs from the kitchen of his Silicon-valley home."
-    publishedDateTime: 2020-09-05T04:37:00Z
-    webUrl: "https://analyticsindiamag.com/nvidias-geforce-rtx-30-series-gpu-is-the-greatest-ever-generational-leap/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 38
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/Aim_nvidia-compressed.jpg"
-        width: 783
-        height: 535
-        isCached: true
-  - title: "NVIDIA Announces GeForce RTX 30 Series GPU, New Tech"
-    excerpt: "NVIDIA unveiled its GeForce RTX 30 Series GPUs, powered by the NVIDIA Ampere architecture, which delivers the greatest-ever generational leap in GeForce history."
-    publishedDateTime: 2020-09-01T17:06:00Z
-    webUrl: "https://worthplaying.com/article/2020/9/1/news/121526/"
-    type: article
-    provider:
-      name: Worth Playing
-      domain: worthplaying.com
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 19
+  - title: "Acer Announces Support for the New NVIDIA GeForce RTX 30 Series GPUs Across Its Predator Orion Desktop Portfolio"
+    excerpt: "Acer today announced support for the latest NVIDIA® GeForce RTX™ 30 Series GPUs across its portfolio of Predator Orion gaming desktops. It"
+    publishedDateTime: 2020-09-01T18:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio-301122037.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/1177667/Acer_logo_Logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
 
 secured: "bXNx9VkWV07BUHHPRiGA2lJF6SvUUhJe4tM7O46YhXSWbdJCUfIvpxvHujAhrT66vYAqmmz288WayIFVZacm4q2leFiPmZGR2rs5UivUGbUfXSNk6qMhrxEbN+SLD+yZ5+GcDACWeZ0W4Qw0IEY2b6U336SoVNVnqhKi3ME5t2xF8TkjlctbJtc2pG7g/FOC0Z0QfNDl70ShbRmMmZ253doZdXq3EHcTeyTawKTIAOfsYkVKLEyV28x9sy4VggNvdRYqd0+1jyTPRXF63nhNV6HuYP9iedyv9yn/YYS8r0EdR2u4I7nGfL4xanmCS6wulndJMCbdAvimomnhfZ4VB6W6DgQ6uTQ6ERwMs+Zknzc3P9kj8eSMyHqda0F2Iy+VssF6hy4d22sGX7IMlFxrsgAw3u94OsZpZxYSaGOPl5fPiHS87bZV64VhnQBS6aTfofKaJ3axBVKjfxQMn54Eo6GlsnTnw8GouJghyWLvawNNO74qip2xwjr0TZlem8xhVOkO+B5uOP4fI/i/taGcTw==;fEQDPtVYS/IrEM1bUb43ow=="
 ---

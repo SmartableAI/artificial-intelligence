@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/</loc>
+    <lastmod>2020-09-05T13:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done/</loc>
     <lastmod>2020-09-05T09:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -85,8 +91,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/09/04/yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment/</loc>
-    <lastmod>2020-09-04T03:59:00-07:00</lastmod>
+    <loc>https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/</loc>
+    <lastmod>2020-09-04T02:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -105,18 +111,6 @@
   <url>
     <loc>https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/</loc>
     <lastmod>2020-09-03T21:40:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.abqjournal.com/1493210/daimler-trucks-using-nm-to-test-selfdriving-vehicles.html</loc>
-    <lastmod>2020-09-03T21:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.gamespot.com/articles/nvidia-reveals-rtx-3090-3080-3070-gpu-price-releas/1100-6481673/</loc>
-    <lastmod>2020-09-03T16:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -529,6 +523,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://timesofindia.indiatimes.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/articleshow/77888361.cms</loc>
+    <lastmod>2020-09-02T02:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/</loc>
     <lastmod>2020-09-02T02:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -565,6 +565,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.zdnet.com/article/aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors/</loc>
+    <lastmod>2020-09-01T15:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wsj.com/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924</loc>
     <lastmod>2020-09-01T14:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -577,8 +583,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/davealtavilla/2020/09/01/nvidia-unveils-ampere-geforce-rtx-3090-3080-and-3070-gaming-gpus-and-crushes-it-again/</loc>
+    <lastmod>2020-09-01T12:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/</loc>
     <lastmod>2020-09-01T12:29:03-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu</loc>
+    <lastmod>2020-09-01T12:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -609,12 +627,6 @@
   <url>
     <loc>https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/</loc>
     <lastmod>2020-09-01T09:56:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/</loc>
-    <lastmod>2020-09-01T09:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2229,6 +2241,12 @@
   <url>
     <loc>https://www.forbes.com/sites/nancywang/2020/08/23/first-woman-director-at-mit-cs-ai-lab-want-more-women-in-stem-inspire-them-early/</loc>
     <lastmod>2020-08-22T23:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.gwinnettdailypost.com/news/business/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/article_14cd9453-b874-538b-a49d-17ace396180c.html</loc>
+    <lastmod>2020-08-22T14:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Yandex Self Driving Group Gets $150 Million, Partners With Uber To Bring Autonomous Vehicles To U.S."
+    excerpt: "Yandex is not cutting ties with its former autonomous vehicle team by any means. Yandex NV is going to invest $150 million into Yandex SDG ($100 million in equity, $50 million as a convertible loan) and Yandex NV will keep an eye on the autonomous vehicle technology progress and will keep reporting Yandex SDG's results in Yandex NV's \"Other Bets and Experiments\" segment."
+    publishedDateTime: 2020-09-05T20:27:00Z
+    webUrl: "https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/"
+    ampWebUrl: "https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f52670a77958deeab46fb0c%2F0x0.jpg"
+        width: 1200
+        height: 776
+        isCached: true
   - title: "Yandex and Uber spin out self-driving venture with $150 million investment"
     excerpt: "Yandex and Uber are spinning out their self-driving venture into a separate company with the Russian tech giant investing $150 million."
     publishedDateTime: 2020-09-04T10:59:00Z
@@ -37,51 +53,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Yandex spins out self-driving car unit from its Uber JV, invests $150M into newco"
-    excerpt: "Self-driving cars are still many years away from becoming a ubiquitous reality, but today one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do."
-    publishedDateTime: 2020-09-04T09:49:00Z
-    webUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/"
-    ampWebUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/"
+  - title: "Daimler Trucks using NM to test self-driving vehicles"
+    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes. The companies have established a new testing center in ..."
+    publishedDateTime: 2020-09-04T04:05:00Z
+    webUrl: "https://www.abqjournal.com/1493210/daimler-trucks-using-nm-to-test-selfdriving-vehicles.html"
+    ampWebUrl: "https://www.abqjournal.com/1493210/daimler-trucks-using-nm-to-test-selfdriving-vehicles.html/amp"
+    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1493210/daimler-trucks-using-nm-to-test-selfdriving-vehicles.html/amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 69
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/04/yandex.jpg?w=1024"
-        width: 1024
-        height: 546
-        isCached: true
-  - title: "Yandex spins out self-driving car unit from its Uber JV, invests $150M into new company"
-    excerpt: "Self-driving cars are still many years away from becoming a ubiquitous reality, but today, one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do."
-    publishedDateTime: 2020-09-05T01:36:00Z
-    webUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/?share=facebook"
-    ampWebUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 66
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/04/yandex.jpg?w=1024"
-        width: 1024
-        height: 546
-        isCached: true
-  - title: "Yandex Restructures Self-Driving Business"
-    excerpt: "Yandex will increase its stake in the new company (Yandex SDG) to 73% and invest an additional $150 million in its future development. MOSCOW and AMSTERDAM, Sept. 04, 2020 (GLOBE"
-    publishedDateTime: 2020-09-04T08:00:00Z
-    webUrl: "https://apnews.com/ba78c51351f156d01b152f506e366b71"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2020/09/03/a10_jd_04sept_daimler-630x420.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Yandex increases its stake to 62% in ride-hailing and foodtech JV with Uber and to 73% in restructured self-driving business"
     excerpt: "Yandex N.V. (NASDAQ:YNDX) has signed an agreement with Uber to contribute the Yandex.Drive car-sharing business from Yandex N.V."

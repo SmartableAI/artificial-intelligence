@@ -3,10 +3,10 @@ category: news
 title: "Faulty Facial Recognition Led to His Arrest—Now He’s Suing"
 excerpt: "Michael Oliver is the second Black man found to be wrongfully arrested by Detroit police because of the technology—and his lawyers suspect there are many more."
 publishedDateTime: 2020-09-04T14:08:00Z
-originalUrl: "https://www.vice.com/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-webUrl: "https://www.vice.com/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-ampWebUrl: "https://www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+originalUrl: "https://www.vice.com/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+webUrl: "https://www.vice.com/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+ampWebUrl: "https://www.vice.com/amp/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
 type: article
 quality: 89
 heat: -1
@@ -157,20 +157,6 @@ related:
         width: 800
         height: 392
         isCached: true
-  - title: "The twisted case of facial recognition"
-    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
-    publishedDateTime: 2020-09-04T04:04:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 41
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "City Council To Discuss Facial Recognition Technology"
     excerpt: "Pittsburgh City Council will be holding an open discussion on the usage of facial recognition technology in policing. KDKA's Lindsay Ward has the latest."
     publishedDateTime: 2020-09-02T09:41:00Z
@@ -195,6 +181,20 @@ related:
       - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/32E3CB40D76BD6BD8CBFB16E23FF2264_800x392.20180506T111644.jpg"
         width: 800
         height: 392
+        isCached: true
+  - title: "The twisted case of facial recognition"
+    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
+    publishedDateTime: 2020-09-04T04:04:00Z
+    webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "TSA is testing facial recognition at security checkpoints"
     excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
@@ -326,6 +326,6 @@ related:
         height: 270
         isCached: true
 
-secured: "6UmSdoEUPPHKNjL5RpRfSTKUCQZzB8uVg6eBdb0T3QtrXTA/fGo71gcC/nKzraNa0t6ctxvo1cC9X1ov+7TT+qd/FdEVAdNvz4n/O1gZTKpk10TiHRR2AR6wdHTHC9WuncaabhNMxcOxvGh4D/Dxw8nT0+7mneYye9ml2OgTcU9dN/vhGKxkb/1V/RpqVBsj7bcOOCBw/r5MBa8R/CDHIkb+dQHnZxgn6WOD7D6vwvyG/ZOO85NMryYLtmyAH3FZ0gwiaqOTP16f4JwGmU30HX46POw5h+FKLOuRcgyhA2hOLL3EMzQzH2ebVZOL6uVxXMmj6QlfbCLQ1kto44mEEbu5MhTjchSGJVfHQALS52o=;X1iLLyIMR0oR7rClTHgUdQ=="
+secured: "4mTF9MFXcqmi1g29I7V7RMXoFF4vi9OREcU+8gZRAz2qoKlam97Cedry0DNFoBAmjBKlUXhLaopXJfMWwlDTdoAaEK8mmw002vqcDfJUSOiVsAQHZRHrw9AC9y/4RAiJ81Z1q9LCFyB9tHcoTdI89Y2DlxVDWLUh1P49TdLuHcz1q+L8Co8jRmE/bjypxKNScYSox/Nn7hWC/0diB4FpR2jacBwJMa4Ivd32R65oZnRWrSzfPThYU2QHxDcic/yBh7E5Itz+sVQCQFz667z/cV0AVbbYpGy+Rqz/933+jw8Z8hqr6XCEMp9rvT04ASMmExtGn8cCN+1uLQYgLVoc9Vnyf8MeAnoE3nZWx8GVGAM=;7+gZi/CpM4fF6YbGWSS4tQ=="
 ---
 
