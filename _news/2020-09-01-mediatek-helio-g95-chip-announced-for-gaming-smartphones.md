@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/mediatek-helio-g95-chip-announced-for-gam
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/mediatek-helio-g95-chip-announced-for-gaming-smartphones/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm ups gaming focus with latest mid-tier chip"
-    excerpt: "Qualcomm moved to fend off advances from chip rival MediaTek in the gaming smartphone segment, bolstering its mid-tier line of processors with a new Snapdragon 732G chipset offering faster performance,"
-    publishedDateTime: 2020-08-31T19:12:00Z
-    webUrl: "https://www.mobileworldlive.com/devices/news-devices/qualcomm-ups-gaming-focus-with-latest-mid-tier-chip"
-    ampWebUrl: "https://www.mobileworldlive.com/devices/news-devices/qualcomm-ups-gaming-focus-with-latest-mid-tier-chip/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/devices/news-devices/qualcomm-ups-gaming-focus-with-latest-mid-tier-chip/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://i2.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/02/Qualcomm-signage-650.jpg?fit=650%2C400&#038;ssl=1"
-        width: 650
-        height: 400
-        isCached: true
   - title: "MediaTek Helio G95 announced, boosts CPU and GPU performance up to 8%"
     excerpt: "Enter the Mediatek Helio G95, somewhat of a successor to the G90T and a processor meant for high-end 4G Gaming smartphones. So, what are the specs?"
     publishedDateTime: 2020-09-01T22:31:00Z

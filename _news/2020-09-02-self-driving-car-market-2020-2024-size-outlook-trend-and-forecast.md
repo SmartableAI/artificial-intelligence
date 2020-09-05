@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Self-Driving Car Market 2020 - 2024 / Size, Outlook, Trend and Forecast"
-excerpt: "Sep 02, 2020 (AmericaNewsHour) -- Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or ..."
-publishedDateTime: 2020-09-02T07:53:00Z
-originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020---2024-size-outlook-trend-and-forecast-2020-09-02?mod=mw_quote_news"
-webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020---2024-size-outlook-trend-and-forecast-2020-09-02?mod=mw_quote_news"
+excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
+publishedDateTime: 2020-09-02T08:10:00Z
+originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020---2024-size-outlook-trend-and-forecast-2020-09-02"
+webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020---2024-size-outlook-trend-and-forecast-2020-09-02"
 type: article
 quality: 54
 heat: 54
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "9oRRNYvcrJiuJpKeG3oiOYS1FPDZJsXKP8XdwbJh0pczxtwEkuuYztr9dg+l9etg4TtodcIHtTgBdCJYXwumvpXI0J5mu5LICgAHIA2AcclrMQnYarBYn1uOjDVrZKpoFD8IrL3wtviSe8vOsWgvqaWqkUpt3qLFb22o4lBugPqGP16B1BFMNZTwmyJ7V+ln16VLNS6zK2+rWet7rRhZJdzX09kaeffVyTwnbIIcW3q1TZuL5oLB76Xzgo56BqdBTZHLw89I2D01rQmJACmWICMv6hcT77fMlxwyH+3TpL+wHlnqVmY9jNRKUEma8GScXqUg7czb5iJ1UzhZSUH7JsXUbmwctuuj1uzFAY3LWQ4=;ThWLmAWd6WL/9xDpdJdgZw=="
+secured: "Q6NcQRKDtcdJZpdLNTMJAI9nZgpVZtCPdmfYIVKpsIG1xUuBDqkfpDXSWvCIMDDFaI4T5GSANVF7Wu6MHssGRKT5/HojuCP+gmD2rfCMTn+u5Pp4oKojr1mB7z8QlNtDj3VPi0cdch2gwowPTwDhzyn2r5WH1V5b8e1UJiVuBv7CQMPd5cuFJe3bxOi+Sy1XsDQ3ZgnECGGw8Ir3+atEU4YioXlWCFLuWq5qwIHzJm9Y7S9OLJHhUixgoD+uJmwAGjDk0M6DBwswDEc52e862XAPjez/pA5fuhi4ooWVmkeQsTeUcryUuDZRrIg4Qxwi4GZg5c1boEPGXMky+OstClBp7nDBsxbd+IbRPkNfaPE=;VvfKoAvcQqwvuHdXhIGSiA=="
 ---
 

@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-05-can-big-data-analytics-and-machine-learning-help-contain-wildfire-next-time.md",
+      "title": "Can Big Data Analytics and Machine Learning Help Contain Wildfire Next Time?",
+      "excerpt": "Researchers are developing tools to predict wildfire leveraging technology, real-time data to prevent devastation",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
+      "originalUrl": "https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/41411/california-fire.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
+      "publishedDateTime": "2020-09-05T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellen",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition.md",
       "title": "The fourth generation of AI is here, and it’s called ‘Artificial Intuition’",
       "excerpt": "Artificial Intelligence (AI) is one of the most powerful technologies ever developed, but it’s not nearly as new as you might think. In fact, it’s undergone several evolutions since its inception in the 1950s.",
@@ -1342,56 +1383,6 @@
         "AI",
         "AI in Finance",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-throwing-a-fastball-how-the-minnesota-twins-are-using-machine-learning-to-analyze-mounds-of-data.md",
-      "title": "Throwing a fastball: How the Minnesota Twins are using machine learning to analyze mounds of data",
-      "excerpt": "For baseball stat geeks, the data mined with machine learning is a game-changer. Here's how one MLB team is using it to its advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/throwing-a-fastball-how-the-minnesota-twins-are-using-machine-learning-to-analyze-mounds-of-data/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/08/20/2f98c64a-7115-4526-9444-e6789caa8ec3/resize/1200x/4099a21013ed7a2f802d7238fdfcba2c/20200818-baseball-karen-2.jpg",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/throwing-a-fastball-how-the-minnesota-twins-are-using-machine-learning-to-analyze-mounds-of-data/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/throwing-a-fastball-how-the-minnesota-twins-are-using-machine-learning-to-analyze-mounds-of-data/",
-      "publishedDateTime": "2020-08-20T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

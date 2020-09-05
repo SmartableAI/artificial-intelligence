@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-w
 ampWebUrl: "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/amp/"
 type: article
-quality: 100
-heat: 170
+quality: 200
+heat: 270
 published: true
 
 provider:
@@ -134,6 +134,6 @@ related:
         height: 1035
         isCached: true
 
-secured: "zYuu/br1EUE1aXHjjiHHAFugcnswU2aWq+PxgLwuy0hm4ZQOxziIpF4PGlebhk6RVjLQogNPbAKhopabAf/bW38o/v+KpyTfP87t4FZZ29k8AiwQIxh/Ud1Hi73xY8r0y89Fpw1BhXYtZsYCBi6eEtnsuTpEuqQ70Mo/VEZuJUYXVpqi7JjdnmTuET1iSkBy90VpbPYnNZEuhaosy97yo26T2SuCDikkmp5PHYyfB9buOTZ22xdWleYC3gQeEH9WKss/Vf6kwmxnY7RTlcxb4NVMu2pZ5HCxwm8Ai6/UWYrYwzYpx1nDyzbYWL70SQSj+Z+2Heo2hBb+8JQEwTzObqrMGFeV3JnC+et+YzKxkGgfD2VlXynKjgMbeteToAULz8gXbskZddSYb4UNpknmGw9B35rHUJmUv8amwm4NgbAvgcy7h9ox1WzfhqY8xAfh9Hfo+YkIOiHCkPH6XzxVV+8dC4xC24SjoateBf9nf8y2Z3oGDd50/6Vwx8h3KjLQ6T3omwUYEAJBhhbAl/GqakkH5vFzCNcWyWo1lF5i8Vg=;YGvdVrSdhhCKAnJ8M8Hkrw=="
+secured: "WAxaNOXCkFrg/rCDOknc78uI37+3dnWNaumOsrHhg6VenqTqyyQCLKmGCPH0+ifWDG/9E4ztfItegU2/KhbRF2Dhc8GzwkTd7HK1e5Wvt5dzYYR5kV0hW1ikF/09yqD08n5T+mv53pZ1BjMKAaJJE25RoEDnKoZeZbXv8j6vfRbinbsrLCb8An2gAD934psXpwZjUUq7k4tjormlfeyRlRdYWpIYs2Ybg5UFjOiDDb5BGcGkAz0lJoUCzbPIa7S3QKPwtuiSNhXMh5Q+hD+7vS4hQS1vGsZsdglKH3DhF4f7rEjBxP/Aw4dKQzzGcE0Y48iadq1R9+lFr/kjJuU3umZ4GwgTHVH1jLjzrU9ktSpcKTm+2G3cai/NdZBwJ0y8uY3nEUFdmGmhK+mF3uuDf/iKqrB5CURiFRaSn1IWQJKNKpmId1oYMZOKO2LcNKIJ9B9Yoz8rSxeGrgw44hteQH1/n/JSEb8JkRGcLu27fu8IQRUhGQaHpwZywUUrFQ+WcWAk8YDqEfAb4tq9hNKRUZDG/TgQTeo6pZY17Trukeifrlekk20btqU+7PkbDLJU;n9DZ2d5eWq6oeOdkpjAw1A=="
 ---
 

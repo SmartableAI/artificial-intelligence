@@ -145,20 +145,6 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 6
-  - title: "Global Speech & Voice Recognition Market 2020 Share, Size, Global Trend, Market Analysis and Forecast to 2026"
-    excerpt: "WiseGuyRerports.com Presents \"Global Speech & Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2025\" New Document to its Studies Database. Mark"
-    publishedDateTime: 2020-08-31T20:10:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266262784/global-speech--voice-recognition-market-2020-share-size-global-trend-market-analysis-and-forecast-to-2026"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 5
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1598939951736.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "LnMZmpOGzf8lKtBadz+V0uXDF+A7DlXVfLJvuTANnt7bH0DIc7ahYXEitkLoWBONN8pX+Cs8Dl5hvJa62YnZl41qCmK6bFJ+NJ3ATG67Gx0hAlzJlgbuEXW7LZVRoUpBzeprDAcMVo2Y0zwAT2K9mUnFSgPnXM0Qg+R5TO7QcdFj7qPHdSxh1C/JpnEojfqdSysSB1GGuD5C7Y+3Z5V1Np4MB9Jp9LOvCCnV2y3wxatCdZXxKM7oyJ4QrAdAD6YXlnJPs046oeJPMS1NJGXxQ0uRnegiOOd9Vh4ohHK//XksNnEcZ1pDX8W8H2DzMWcjufkv91rpEQUUeW95m0oJssKLce2kuWWvjyOFrwvQ3A0=;90Zi55tMzDfIQ4x8KKVC/A=="
 ---

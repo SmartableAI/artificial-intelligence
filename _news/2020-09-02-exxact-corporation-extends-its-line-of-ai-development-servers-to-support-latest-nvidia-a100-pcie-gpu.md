@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Exxact Corporation Extends its Line of AI Development Servers to Support Latest NVIDIA A100 PCIe GPU"
-excerpt: "Exxact Corporation, a leading provider of high performance computing (HPC), artificial intelligence (AI), and data center solutions, announced that they are now offering a wide selection of servers for AI featuring the new NVIDIA A100 PCIe GPU."
-publishedDateTime: 2020-09-02T12:05:00Z
-originalUrl: "https://apnews.com/PR Newswire/c61e85c620c8c3152226f8a40a8abb81"
-webUrl: "https://apnews.com/PR Newswire/c61e85c620c8c3152226f8a40a8abb81"
+excerpt: "The NVIDIA A100 Tensor Core GPU is at the heart of the new server line, so users can tackle tough computing challenges and deliver unprecedented acceleration at every scale for AI ..."
+publishedDateTime: 2020-09-02T12:41:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu-1029555946"
+webUrl: "https://markets.businessinsider.com/news/stocks/exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu-1029555946"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu-1029555946"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu-1029555946"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "6VqowM9bLP2BFHVwy1LP1Gh0d8kGjgKmVhIVyTX75imnaXodVE1P/Zha07dNyzfSUk25EwWjGWgkMTCGCqkNg1GdBZSXG0HudAkOe47L6Yg34VZMb8pprDmToFC6LlS9IL54njnlKdK0XttKyZCMOfpGkDPrX/sOqAGszbRNz9kntD616T6T5lOiNtRWblPjdmhywyfkO/A4LahVZ1Nbq7t1x6dTvf6ELuj6bkylLxEgowZ7K+YZGEfySLVAt044uy2JPnwjBmvmv3sRy+ybVJoS98XkD+Sp9+Q31U9VAWnFY0a/Tg4voxZBvPn4wb4i1XVzql4jV8Eb926xA8xlalK5BPEGkjZh+mP9nbildkU=;XQekd3ZlHkAelloIDix7JA=="
+secured: "hJtwneAo+9xoOrnv3Pb2GDV+hyXZVUPMxlLacS/7FFLOueNUP0yStOEDzXD9QsIqes3QAGSCH1XrZLYcm1oPLYBHPZ64pSt7j78EzIQXDTd47CiFURKVEGfOjIlRgXHWa+QVW463Hq4L6E9G9vJ06Rdxoy6q1zx0wLDwBq9RkHGC2xYb5stW5WL3q0/qsSm0XQZLiAX6QyPBw6e7Y2isFHHON4q1wQmyo1C9DMgNRic8rNV//uTABZr1UMJdjr0BuSvARFbI2ee+PBykTYmaOlQXPZRQNJ0jNZ1gJHfgMAgyW47z2X8viAfgkDTWrxWwJDCF42BOQ6++/pxBvXutriWu9BQrAL6aTtCaYgJY6Rw=;9+xlUGmUIM4SOusQJlIY+A=="
 ---
 

@@ -2,6 +2,55 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-08-25-this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset.md",
+      "title": "This AI just found 50 new planets in a huge NASA dataset",
+      "excerpt": "Scientists from Warwick University made the discovery by analyzing data collected by space telescopes, such as NASA‘s Kepler and TESS. These telescopes capture signs of planets passing in front ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/",
+      "originalUrl": "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/",
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-25T134309.041-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/amp/",
+      "publishedDateTime": "2020-08-25T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-socure-raises-30-million-to-combat-payments-fraud-with-ai.md",
       "title": "Socure raises $30 million to combat payments fraud with AI",
       "excerpt": "Socure, a startup developing an AI-driven platform to combat payment fraud, has raised $35 million in an equity financing round.",
@@ -39,6 +88,46 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-crunchbase-unveils-salesforce-integration-for-pro-users.md",
+      "title": "Crunchbase unveils Salesforce integration for Pro users",
+      "excerpt": "The integration allows Crunchbase Pro users to avoid spending time manually exporting prospects from Crunchbase into their customer relationship management applications. The integration supports the ability to enrich all new and existing Salesforce records with Crunchbase’s financial data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crunchbase.com/organization/largo",
+      "originalUrl": "https://siliconangle.com/2020/08/25/crunchbase-unveils-salesforce-integration-pro-users/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/xzbucmgx773fdawadksv",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1044,88 +1133,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions.md",
-      "title": "StradVision to collaborate with leading custom SoC supplier Socionext to provide efficient ADAS solutions",
-      "excerpt": "StradVision has announced a collaboration with Socionext Inc., a leading supplier of System-on-Chip (SoC) solutions, to bring StradVision’s deep learning-based camera perception software SVNet, to the global market.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/PR Newswire/0f7c90ea95af269d94b86c19e9136ec1",
-      "originalUrl": "https://apnews.com/PR Newswire/0f7c90ea95af269d94b86c19e9136ec1",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program.md",
-      "title": "HGS DIGITAL Joins AWS Contact Center Intelligence Solutions Partner Program",
-      "excerpt": "services such as Amazon SageMaker, Amazon Comprehend, Amazon Transcribe, and Amazon Lex, to gain greater efficiencies and deliver increasingly tailored customer experiences. With 61 delivery ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program/article_10eb404c-d0a4-5495-8ee2-2a647b273f7a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program/article_10eb404c-d0a4-5495-8ee2-2a647b273f7a.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

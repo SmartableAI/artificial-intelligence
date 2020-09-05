@@ -43,22 +43,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Qualcomm ups gaming focus with latest mid-tier chip"
-    excerpt: "Qualcomm moved to fend off advances from chip rival MediaTek in the gaming smartphone segment, bolstering its mid-tier line of processors with a new Snapdragon 732G chipset offering faster performance,"
-    publishedDateTime: 2020-08-31T19:12:00Z
-    webUrl: "https://www.mobileworldlive.com/devices/news-devices/qualcomm-ups-gaming-focus-with-latest-mid-tier-chip"
-    ampWebUrl: "https://www.mobileworldlive.com/devices/news-devices/qualcomm-ups-gaming-focus-with-latest-mid-tier-chip/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/devices/news-devices/qualcomm-ups-gaming-focus-with-latest-mid-tier-chip/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://i2.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/02/Qualcomm-signage-650.jpg?fit=650%2C400&#038;ssl=1"
-        width: 650
-        height: 400
-        isCached: true
   - title: "MediaTek, Qualcomm intro AI chips for gaming smartphones"
     excerpt: "MediaTek and Qualcomm have introduced their new AI-capable mobile SoC chips designed specifically for gaming smartphones - the Helio G95 and Snapdragon 732G respectively."
     publishedDateTime: 2020-09-02T04:13:00Z

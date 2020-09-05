@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201</loc>
+    <lastmod>2020-09-05T06:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/</loc>
     <lastmod>2020-09-05T03:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -79,8 +85,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/</loc>
-    <lastmod>2020-09-03T21:40:00-07:00</lastmod>
+    <loc>https://www.abqjournal.com/1493210/daimler-trucks-using-nm-to-test-selfdriving-vehicles.html</loc>
+    <lastmod>2020-09-03T21:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -907,7 +913,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1803,6 +1809,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/</loc>
     <lastmod>2020-08-25T06:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.crunchbase.com/organization/largo</loc>
+    <lastmod>2020-08-25T06:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -7731,6 +7743,12 @@
   <url>
     <loc>https://www.imperial.ac.uk/news/200533/new-deepmind-scholarships-create-ai-study/</loc>
     <lastmod>2020-07-24T03:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://inside.com/</loc>
+    <lastmod>2020-07-24T01:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
