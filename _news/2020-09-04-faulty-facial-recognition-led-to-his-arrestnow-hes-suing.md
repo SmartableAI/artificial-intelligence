@@ -3,10 +3,10 @@ category: news
 title: "Faulty Facial Recognition Led to His Arrest—Now He’s Suing"
 excerpt: "Michael Oliver is the second Black man found to be wrongfully arrested by Detroit police because of the technology—and his lawyers suspect there are many more."
 publishedDateTime: 2020-09-04T14:08:00Z
-originalUrl: "https://www.vice.com/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-webUrl: "https://www.vice.com/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-ampWebUrl: "https://www.vice.com/amp/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+originalUrl: "https://www.vice.com/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+webUrl: "https://www.vice.com/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+ampWebUrl: "https://www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
 type: article
 quality: 89
 heat: -1
@@ -182,20 +182,6 @@ related:
         width: 800
         height: 392
         isCached: true
-  - title: "The twisted case of facial recognition"
-    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
-    publishedDateTime: 2020-09-04T04:04:00Z
-    webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 39
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "TSA is testing facial recognition at security checkpoints"
     excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
     publishedDateTime: 2020-09-04T14:34:00Z
@@ -326,6 +312,6 @@ related:
         height: 270
         isCached: true
 
-secured: "4mTF9MFXcqmi1g29I7V7RMXoFF4vi9OREcU+8gZRAz2qoKlam97Cedry0DNFoBAmjBKlUXhLaopXJfMWwlDTdoAaEK8mmw002vqcDfJUSOiVsAQHZRHrw9AC9y/4RAiJ81Z1q9LCFyB9tHcoTdI89Y2DlxVDWLUh1P49TdLuHcz1q+L8Co8jRmE/bjypxKNScYSox/Nn7hWC/0diB4FpR2jacBwJMa4Ivd32R65oZnRWrSzfPThYU2QHxDcic/yBh7E5Itz+sVQCQFz667z/cV0AVbbYpGy+Rqz/933+jw8Z8hqr6XCEMp9rvT04ASMmExtGn8cCN+1uLQYgLVoc9Vnyf8MeAnoE3nZWx8GVGAM=;7+gZi/CpM4fF6YbGWSS4tQ=="
+secured: "0VMrzFOBespmZuWZ+lUi8lEdR7/1hN7lL1d7zzhK225PlJQ08l+Oe7Pqe3F08OqJfag288TS/PlUkFOgn6GZpcnpG84MBAu8FjrfoqojiHnT+7nPhaiJfL9TMWU0WoFrlRPqvrHttCdM0nQ1j0UZPWQDZXDKMmsSeZbIfrmwQz8aetQ9cWlelTRiEpmqtx7X1npq/TnktTC3jRS3To0u8qthbAzvOHdmKQZgSF3m4ojLW96bU5OPZ+zAlZp+Bk/v0uZ4H8Qtyo3V7nER4vkAuevVhNZGB5ZPYdJlJprNk433V2UlxQQ+50grXQ8kmfmRhf35Pzbbxh18Tim+ZsVPzU+HPTnehzPUkwnMkZDBXXA=;CJdofzPEBA/3ChlzhSrgqw=="
 ---
 
