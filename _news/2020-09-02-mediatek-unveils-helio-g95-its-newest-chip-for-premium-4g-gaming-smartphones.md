@@ -9,7 +9,7 @@ ampWebUrl: "https://www.voicendata.com/mediatek-unveils-helio-g95-newest-chip-pr
 cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/mediatek-unveils-helio-g95-newest-chip-premium-4g-gaming-smartphones/amp/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "MediaTek, Qualcomm intro AI chips for gaming smartphones"
-    excerpt: "MediaTek and Qualcomm have introduced their new AI-capable mobile SoC chips designed specifically for gaming smartphones - the Helio G95 and Snapdragon 732G respectively."
-    publishedDateTime: 2020-09-02T04:13:00Z
-    webUrl: "https://www.digitimes.com/news/a20200902PD206.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200902PD206_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "MediaTek unveils new chip for 5G smartphones"
     excerpt: "\"MediaTek is focused on giving consumers more options and expanding access to 5G devices so that everyone can enjoy the premium features and speeds that are defining the next era of mobile computing,\" Yenchi Lee,"
     publishedDateTime: 2020-09-04T11:36:00Z

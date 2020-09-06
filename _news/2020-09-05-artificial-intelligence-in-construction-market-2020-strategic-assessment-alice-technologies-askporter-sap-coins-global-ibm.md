@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2020-strategic-assessment-alice-technologies-askporter-sap-coins-global-ibm-2020-09-05"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -28,19 +28,61 @@ images:
     isCached: true
 
 related:
-  - title: "Latest Research Report AI Translation Market with Major Companies like IBM Corporation, Microsoft Corporation, SDL PLC, Lionbridge Technologies"
-    excerpt: "The latest report on the AI Translation Market, as found on Qualiket Research website, is an extensive study of the"
-    publishedDateTime: 2020-09-02T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-research-report-ai-translation-market-with-major-companies-like-ibm-corporation-microsoft-corporation-sdl-plc-lionbridge-technologies-2020-09-02?mod=mw_quote_news"
+  - title: "Global Edge AI Chips Market 2020 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2025"
+    excerpt: "Global Edge AI Chips Market 2020 by Manufacturers, Type and Application, Forecast to 2025 aims to deliver an expert and inside and out examination of the industry status and outlook of the market. The report mainly focuses on the accurate and primary analysis of business growth statistics,"
+    publishedDateTime: 2020-09-02T05:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2025-2020-09-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 33
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global AI over Edge Computing Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
+    excerpt: "MarketsandResearch.biz has introduced a new report titled Global AI over Edge Computing Market 2020 by Company, Type and Application, Forecast to 2025 that offers an all-encompassing analysis of recent and upcoming states of this industry,"
+    publishedDateTime: 2020-09-06T19:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2020-09-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence for Drug Discovery and Development Market to Reach $4.81 Billion by 2027: AMR"
+    excerpt: "Surge in cross industry co"
+    publishedDateTime: 2020-09-02T12:50:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-09-01/global-artificial-intelligence-for-drug-discovery-and-development-market-to-reach-4-81-billion-by-2027-amr"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 48
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Covid-19 Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 - Dynamics, Trends, Revenue, Forecast to 2026"
+    excerpt: "Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 ndash Dynamics Trends Revenue Forecast to 2026"
+    publishedDateTime: 2020-09-03T11:59:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266288531/covid-19-impact-on-global-artificial-intelligence-education-technology-market-analysis-2020---dynamics-trends-revenue-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 4
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1599124582181.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "O83E0LFlf3Q9/yBBZHdyBThyUksxLIVA5sFjMZXDuE27hDf/BmdDzxNqKah5JS7GrIhE/jaF8k4oIjIPxeGxBnZtmE1GxPmfNLQQ3/Rd5vW+aQYusLmsVE4TE2177k4rWreYp5s1R9HqLcpecNw3lFw7q/fKqY0kyAs14kgreChHyrUpRa3W5ugOnMc9DsTYwGrW38jUm/ovP6qHT268CP8Q3tbjKkgV8dILXOfOoZ9mHl81FDfAplMkVWv99zA9ccGD8Av8efbL7FRw9tlbi2RFbCSl/76k/oQJAtgdoRL9/OFYutswMFjG2G59Bs92u65UgRF/R8N8JFsJRs6cWtRT7QJZCgWngT27ncUKEfg=;RvLg6FyrJQDqM7tAfEK35w=="

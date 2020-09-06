@@ -147,6 +147,22 @@ related:
         width: 800
         height: 392
         isCached: true
+  - title: "Face masks and facial recognition will both be common in the future. How will they co-exist?"
+    excerpt: "With face masks now compulsory or recommended in various parts of the country, how are facial recognition systems functioning?"
+    publishedDateTime: 2020-09-06T20:13:00Z
+    webUrl: "https://theconversation.com/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417"
+    ampWebUrl: "https://theconversation.com/amp/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 48
+    images:
+      - url: "https://images.theconversation.com/files/353221/original/file-20200817-24-10qf4oa.png?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=267&fit=crop"
+        width: 320
+        height: 267
+        isCached: true
   - title: "The twisted case of facial recognition"
     excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
     publishedDateTime: 2020-09-04T04:04:00Z

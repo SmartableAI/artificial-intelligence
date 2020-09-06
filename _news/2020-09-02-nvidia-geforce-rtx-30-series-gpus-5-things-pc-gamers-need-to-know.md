@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://static.toiimg.com/photo/msid-77888361/77888361.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Nvidia announces GeForce RTX 30 series GPUs"
-    excerpt: "The GPUs take advantage of the second-generation Nvidia RTX PC gaming platform to provide real-time ray tracing and AI gaming. The RTX 30 series was unveiled during a virtual launch event by Nvidia founder and CEO Jensen Huang, who also announced that ..."
-    publishedDateTime: 2020-09-02T03:53:00Z
-    webUrl: "https://www.digitimes.com/news/a20200902PR200.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200902PR200_files/2_b.jpg"
-        width: 640
-        height: 426
         isCached: true
   - title: "NVIDIA’s GeForce RTX 30 Series GPU Is The Greatest-Ever Generational Leap"
     excerpt: "Jensen Huang, CEO and founder of Nvidia, has unveiled its all-new GeForce RTX 30 Series GPUs from the kitchen of his Silicon-valley home."

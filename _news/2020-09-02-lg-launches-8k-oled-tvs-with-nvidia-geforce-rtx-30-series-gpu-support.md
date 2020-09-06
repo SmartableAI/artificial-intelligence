@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia announces GeForce RTX 30 series GPUs"
-    excerpt: "The GPUs take advantage of the second-generation Nvidia RTX PC gaming platform to provide real-time ray tracing and AI gaming. The RTX 30 series was unveiled during a virtual launch event by Nvidia founder and CEO Jensen Huang, who also announced that ..."
-    publishedDateTime: 2020-09-02T03:53:00Z
-    webUrl: "https://www.digitimes.com/news/a20200902PR200.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200902PR200_files/2_b.jpg"
-        width: 640
-        height: 426
-        isCached: true
   - title: "NVIDIA’s GeForce RTX 30 Series GPU Is The Greatest-Ever Generational Leap"
     excerpt: "Jensen Huang, CEO and founder of Nvidia, has unveiled its all-new GeForce RTX 30 Series GPUs from the kitchen of his Silicon-valley home."
     publishedDateTime: 2020-09-05T04:37:00Z

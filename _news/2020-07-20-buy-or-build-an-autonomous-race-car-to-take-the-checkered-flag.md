@@ -3,6 +3,7 @@ category: news
 title: "Buy Or Build An Autonomous Race Car To Take The Checkered Flag"
 excerpt: "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles."
 publishedDateTime: 2020-07-20T00:00:00Z
+originalUrl: "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/"
 webUrl: "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/"
 type: article
 quality: 24
