@@ -56,34 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Security Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 – 2025"
-    excerpt: "Artificial intelligence in cyber security will increase efficiency and precision of the system to observe any potential threat in organization's system. Organizations increasing their horizon to completely different geographies are generating voluminous data to realize insights and are using analysis techniques to enhance their product offerings."
-    publishedDateTime: 2020-09-01T07:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2025-2020-09-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automated Material Handling Equipment Market Incredible Possibilities, Growth Analysis and Forecast To 2025"
-    excerpt: "Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence, wireless technologies,"
-    publishedDateTime: 2020-09-01T07:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-incredible-possibilities-growth-analysis-and-forecast-to-2025-2020-09-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "1Lu6hu2bPEXq1q0knrGQd10MulZ/QS3kFUYCWoPHtW6tUfVdERk0G08/v5w6aq+wE1NbmMf3Yfc0v6ftm8JbR2oiF5GqRnkr0tdumVEdU7rfHsDupLQWNLtgBiHODLFaF8oi1IimjU0t86N/lqHpC1vyI9kyj+aCpj1tPd5Sff4Q2f++9pQ1wmluHRx28/FIzs6TTT/VenH39ttwXzN3xK1d9W07DvMFf7Hyj6KJ5kuM1fYmEWecC0XhdLn0LuHsr2WUPRBO9D+WGFtn/grHdS94TD8BzfS017bgsyaUrlgcEwc25rwIVgXflf6p4AVSmaA1r/dkll5I5lTYw/2FUD3SVLs0JLaRQIER4gyyi+I=;IYdzJMfoX+Zb+PQmv8vx1Q=="
 ---

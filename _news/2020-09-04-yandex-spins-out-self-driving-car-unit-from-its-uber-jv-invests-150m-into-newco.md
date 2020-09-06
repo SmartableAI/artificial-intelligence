@@ -33,8 +33,8 @@ images:
 related:
   - title: "Yandex spins out self-driving car unit from its Uber JV, invests $150M into new company"
     excerpt: "Self-driving cars are still many years away from becoming a ubiquitous reality, but today, one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do."
-    publishedDateTime: 2020-09-05T01:36:00Z
-    webUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/?share=facebook"
+    publishedDateTime: 2020-09-05T02:10:00Z
+    webUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/"
     ampWebUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/"
     cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/"
     type: article

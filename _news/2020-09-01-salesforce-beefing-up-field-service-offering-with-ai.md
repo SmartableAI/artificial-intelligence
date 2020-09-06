@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/01/salesforce-beefing-up-field-servic
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/01/salesforce-beefing-up-field-service-offering-with-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/06/salesforce-tower-indianapolis-e1571779672792.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Google will reportedly start offering advice on AI ethics, including on mitigating racial bias in algorithms"
-    excerpt: "Google is reportedly planning to launch new AI ethics services this year to advise clients on spotting racial bias and to help them develop ethical guidelines for AI projects."
-    publishedDateTime: 2020-09-01T07:24:00Z
-    webUrl: "https://www.medianama.com/2020/09/223-google-ai-ethics-service/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 35
-    images:
-      - url: "https://i1.wp.com/www.medianama.com/wp-content/uploads/Sundar-Pichai.png?fit=800%2C541&#038;ssl=1"
-        width: 800
-        height: 541
         isCached: true
 
 secured: "SUYEQmclKZaru44LryQcSOhDdopRPD7LDlzbPB6MUw/l057sOfEnA6qaS2xzQpz61jRT6/ONVL/dgwITFFa+mIN6c9KXJp9vSpWUUD6B2uA86FcnSs7FW0QsxjNN8Dbd/gdaK6qdKA8IwOZwjo9FT5MnCUrK1jqfsJlQNUFHKJMbRR8SuQ0WSFQ6L3MIe77mX6Q3Y9Bvtb52qwAcn0ISaJHtllTguJCZJ2ZjA+/0NcJIHB007hkS9iG5ayJGbluwcOfQKmXNMTdQQvn9A3uVbxs7nETugzO2ICmLcz50SxeJJuW8TDxYWbBFSyURNYAOatsjUMsKPt4by5QAGltIWIR+dMJx1Xxm6ZpVOrcaTJIl+G5GvjKAAkL7moiSA0vTx+s+hHjO1fczC1jO6KAAd6ippm1dPYpOCwSPqzjV/8pX2lU/FVbY+Ajv7c5XJJx7124k0h5RRe3hc+eW2IWouXetfEdBfsCar2HEecNa4Np84UU7OoHttR/DW/cFtRmgZZeIlp+eafXHat4kk3duztOCJMEl2pZB8fDlhZyBk1k=;jpyc4R7vxCCQ04QI0ARIcA=="

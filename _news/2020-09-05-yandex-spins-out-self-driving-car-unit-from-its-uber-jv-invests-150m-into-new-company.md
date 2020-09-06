@@ -2,9 +2,9 @@
 category: news
 title: "Yandex spins out self-driving car unit from its Uber JV, invests $150M into new company"
 excerpt: "Self-driving cars are still many years away from becoming a ubiquitous reality, but today, one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do."
-publishedDateTime: 2020-09-05T01:36:00Z
-originalUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/?share=facebook"
-webUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/?share=facebook"
+publishedDateTime: 2020-09-05T02:10:00Z
+originalUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/"
+webUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/"
 ampWebUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/"
 type: article
@@ -48,6 +48,6 @@ related:
         height: 546
         isCached: true
 
-secured: "oGqvJdHaSbsu9GZUQhFV2PT+dJt10CSpEQ6DMz1fpQmc8hgU0AZLGTKtMG5YiTaNepPe262aA0gqoVari4xsKYHVZ18sbPAA/KvqqEq3b5vZDP4dRSN3VlDjuPauyHoINp9BQC9osqBQ5y838BgP9GDfXpXsAyeMapQlu6VNv11xQZ8I+qdBVhs0SgTEtZsewa5Wjf7obIDVnE2rVUIDeLxBfHUQZ00ytbgpkTONUGMIGTIrC3AbAXePItBG+kVOeaejSfVL0wFxNBnSWBodKwv8XwAMBpns+urkUWm/EKngPZYA2AV8LAXQ38L8Pesb1xnIhTtxbHONDnK+2ndM4Ul4/ZEVkdJ481FRZA7yiE8=;SMxwTMAvN7H798BusFgacQ=="
+secured: "aWD8YvXqPs/OkOFMpYjRF6V5tSCHVAgq5OKGGdeDIh5jxiAYbgfzEsYUeIX73drz9+7FaYT2EIZSf/PIdfrmoDbNTZFDru5kymyt2l2GvNkF6kdpynGeNID9OpnA0JiRtgNdb8zmye1jGoiK6ekUqmHhcQA0MfA9EbC25K4vyKnTKTdPp9lFYqvjLyvZNQe6k2O2slnNOLRK5NPcVAhUCNZD1fnMSRYQSk9Dqmor2C9kzPBR4KTQhREN7NJFoX6Tg4Jb+a9IYcVW527gIwnJ4JV0atATT+loQ4DlX//qjoQEzBvvVz+eTh0nEQON6iqkdbd4qq5NAg7uSqsg666ZJ9ds3fG7AjmspcguXa1U1BM=;Bx8q4Ttyn0lWpbtMImDnTA=="
 ---
 
