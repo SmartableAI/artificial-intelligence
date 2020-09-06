@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Worldwide Social Robots Industry to 2025 - Featuring Intuition Robotics, Haapie SAS & Reach Robotics Among Others - ResearchAndMarkets.com"
+    excerpt: "The “Social Robots Market - Growth. Trends and Forecasts (2020-2025)” report has been added to ResearchAndMarkets.com’s offering. The Social Robots market is estimated to grow at a CAGR of about 14% over the forecast period 2020 to 2025."
+    publishedDateTime: 2020-09-03T13:35:00Z
+    webUrl: "https://apnews.com/7b7722170fa84e6da4e3cfabad4c1ecd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Opportunity Outlook: European AI in Social Media Market 2020-2025 - Natural Language Processing (NLP) Expected to Dominate - ResearchAndMarkets.com"
     excerpt: "The European AI In Social Media Market is expected to grow at a formidable rate during the forecast period. The European AI In Social Media Market is driven by the utilization of the AI technology for effective advertising campaigns on different social media platforms."
     publishedDateTime: 2020-09-02T11:29:00Z
@@ -92,6 +106,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Worldwide Augmented Reality in Healthcare Industry to 2025 - Major Players and Strategy Analysis"
+    excerpt: "PRNewswire/ -- The \"Augmented Reality (AR) in Healthcare Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-09-02T18:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-augmented-reality-in-healthcare-industry-to-2025---major-players-and-strategy-analysis-301123220.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 6
 
 secured: "t9HUDcnJzZ2owllA4I0pp9bAxfIa3Nq2mK0kzGsUfk779RDszle03WKMokVJPb8J64REq+OIAQxMH9YL2Uab/2twR8Yd89EwaE9OMs9tEiJ5x2vZDyVXBqInCEv7OSkUjgJBtqgGbYgvepsyll0TSk3/hgZMjtJ0Bvj/Wrbf7hJ/9ZJUDiV2Ik1atTwUmVTmScdFagvaJxmNkCMVsi6qNpP4oEbWAAZffxAeVTa1HOXjbbd04qIukeGQ2YKg7hmEGf+r7OefZ4Cs9KJblJKmoAtpTiwgf3nwnZtLYp3MfUJHSfToaZ+RpdY2JnVHRUVc7bO0+Iqkkim4flzNHzVZ9HKJQfj/D05LCsrQaOOYefPc8DlYyXYW/KwmgDsSEVXrmlxbXJrykqvfBRxAOuEyB10Nj3xi6RhkrhmXU6y14PEDA/vV0jE8imarPdvfrarV0wEfYxEo+d+dq/pITY8L7dGk7xJDgVPD+T9JMJsyn9BgexfbPbaEEyfw5+rP8sCyV1hA/kZ9Inzm740d+ZJ4dKhMyW1qgpSXLlVwnpc+3o8=;9K6RTfi1iOImeqCxpnvb0w=="
 ---

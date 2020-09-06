@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palind
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple May Be Working on a Self-Driving Car Featuring Controlled Doors and VR System"
-    excerpt: "Working in a hidden lab named SG5 in Sunnyvale, California, engineers are hard at work completing Project Titan. Since September 2014, the mega tech company has been working on a car manufacturing, design and self-driving project."
-    publishedDateTime: 2020-09-01T17:06:00Z
-    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20655/Apple-May-Be-Working-on-a-Self-Driving-Car-Featuring-Controlled-Doors-and-VR-System.aspx"
-    ampWebUrl: "https://mobile.engineering.com/amp/20655.html"
-    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20655.html"
-    type: article
-    provider:
-      name: Engineering
-      domain: engineering.com
-    quality: 38
-    images:
-      - url: "https://res.cloudinary.com/engineering-com/image/upload/w_350,c_limit,q_auto,f_auto/37158-69620-apple-patent-application-apple-car-1-xl_qcnbiz.jpg"
-        width: 350
-        height: 265
-        isCached: true
   - title: "Who Becomes Liable When a Self-Driving Car Causes An Accident?"
     excerpt: "While they may seem years away from reality, self-driving cars are indeed going to be the future. Not only are they the next step in ensuring road safety by preventing human error, but also because the world of tomorrow is going to be based around ..."
     publishedDateTime: 2020-09-02T00:00:00Z

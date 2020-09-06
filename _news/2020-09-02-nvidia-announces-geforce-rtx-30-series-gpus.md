@@ -57,38 +57,6 @@ related:
         width: 1200
         height: 781
         isCached: true
-  - title: "Nvidia unveils new GeForce RTX 30 series GPUs"
-    excerpt: "Similar to the Turing GPUs, the Ampere-based 30 series are designed for ray tracing, a rendering technique that creates realistic lighting effects."
-    publishedDateTime: 2020-09-01T18:00:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-unveils-new-geforce-rtx-30-series-gpus/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-geforce-rtx-30-series-gpus/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-geforce-rtx-30-series-gpus/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/09/01/387534a2-ebbb-41f5-914c-5b4cde8b6ad5/geforce-rtx-30-series.png"
-        width: 3840
-        height: 2160
-        isCached: true
-  - title: "Acer and Nvidia team up to offer gaming PCs with GeForce RTX 30 Series GPUs"
-    excerpt: "Acer and Nvidia will provide hardcore PC gamers some very high hardware performance with these newly announced gaming PCs."
-    publishedDateTime: 2020-09-01T18:08:00Z
-    webUrl: "https://www.androidauthority.com/acer-and-nvidia-1153731/"
-    ampWebUrl: "https://www.androidauthority.com/acer-and-nvidia-1153731/amp/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/acer-and-nvidia-1153731/amp/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 87
-    images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2020/09/acer-predator-orion-nvidia-gpu.jpg"
-        width: 1920
-        height: 1046
-        isCached: true
   - title: "Nvidia Reveals RTX 3090, 3080, 3070 GPU: Price, Release Date, And Specs Detailed"
     excerpt: "Nvidia has finally revealed its new line of GPU, which is under the new Ampere architecture--the RTX 3090, 3080, and 3070 cards. The new 3000 series is the second generation of RTX graphics cards that will run features like real-time ray tracing with much higher performance than current RTX cards."
     publishedDateTime: 2020-09-03T23:02:00Z
@@ -104,22 +72,6 @@ related:
       - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3728918-pcgaming_rtx30series_impressions_20200901_site.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "MSI unveils first custom NVIDIA GeForce RTX 30 Series GPU’s"
-    excerpt: "MSI has shared its take on NVIDIA’s exciting new GeForce RTX 30 series GPUs, with graphics cards that unite the latest in graphics technology."
-    publishedDateTime: 2020-09-01T18:20:00Z
-    webUrl: "https://invisioncommunity.co.uk/msi-unveils-first-custom-nvidia-geforce-rtx-30-series-gpus/"
-    ampWebUrl: "https://invisioncommunity.co.uk/msi-unveils-first-custom-nvidia-geforce-rtx-30-series-gpus/?amp"
-    cdnAmpWebUrl: "https://invisioncommunity-co-uk.cdn.ampproject.org/c/s/invisioncommunity.co.uk/msi-unveils-first-custom-nvidia-geforce-rtx-30-series-gpus/?amp"
-    type: article
-    provider:
-      name: invisioncommunity.co.uk
-      domain: invisioncommunity.co.uk
-    quality: 59
-    images:
-      - url: "https://invisioncommunity.co.uk/wp-content/uploads/2020/09/msi-rtx-30.jpg"
-        width: 1000
-        height: 564
         isCached: true
   - title: "Nvidia Rolls Out Next-Generation GeForce RTX 30 Series GPUs"
     excerpt: "Nvidia CEO Jensen Huang called the new cards a 'generational leap,' and introduced other new tech aimed at hardcore gamers."
@@ -137,31 +89,6 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "NVIDIA's new GeForce RTX 3090: world's first 8K 60FPS gaming GPU"
-    excerpt: "NVIDIA's new GeForce RTX 3090 is a powerhouse GPU, the world's first 8K 60FPS gaming GPU which is priced at a huge $1499."
-    publishedDateTime: 2020-09-01T17:29:00Z
-    webUrl: "https://www.tweaktown.com/news/74895/nvidias-new-geforce-rtx-3090-worlds-first-8k-60fps-gaming-gpu/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/74895/nvidias-new-geforce-rtx-3090-worlds-first-8k-60fps-gaming-gpu/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/74895/nvidias-new-geforce-rtx-3090-worlds-first-8k-60fps-gaming-gpu/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
-    images:
-      - url: "https://www.tweaktown.com/images/news/7/4/74895_23_nvidias-new-geforce-rtx-3090-worlds-first-8k-60fps-gaming-gpu.jpg"
-        width: 620
-        height: 320
-        isCached: true
-  - title: "NVIDIA Announces GeForce RTX 30 Series GPU, New Tech"
-    excerpt: "NVIDIA unveiled its GeForce RTX 30 Series GPUs, powered by the NVIDIA Ampere architecture, which delivers the greatest-ever generational leap in GeForce history."
-    publishedDateTime: 2020-09-01T17:06:00Z
-    webUrl: "https://worthplaying.com/article/2020/9/1/news/121526/"
-    type: article
-    provider:
-      name: Worth Playing
-      domain: worthplaying.com
-    quality: 19
 
 secured: "TuP0gUmwfbsEyaE1/G2eg5ysU//AbEQSRv8OSGNaOrl0mjdLO3RI6crKulzRO8sSlCXlIScQtvlystugPSTOTm2oowzedZVa+Ws69NwnLJfTYEZSAEPqNYpmbb3+KjSjdIbrQyigzFUmUH3rmX5KhYUNQaDjpTdErBaJz1nTgRmE0CVXvjlthHAwXIV6GQ8BPYq2qAAW+7VJD4CvCeRdugTqfKZxYwipyy4QuWevM7Vn/qZyYtZvRPQ5YOIf922Wn5X7vG6rbDZNY7jnGunu8+e3/Hd1eVs7lxQqnFnqri83WouReHCemINrF9jq6QV+Vo1sL3OSVWqZrcWYTdGF2F51VjquE0OHdGDA8UGqmQAy9Pk3kgdOwZwF2nmyH6fuZjJQVVbg/LdfQ+K7Kl1uL0Z68N/aRoQc+Yyi0N3WrZV7t3JT6M5h4GTL2e6SYRkEhF07wXAqDbkoCAbQcp5fP2i6hEXvVV93w224bb3Yjjfj16EANOsSvPudaGxQl+QddDY2B//X4k5IpHfSHJ28ZQT5Zg1UAgvnmUaRs87Zzws=;09oAh8AHf/dMa8FtBfBEaA=="
 ---

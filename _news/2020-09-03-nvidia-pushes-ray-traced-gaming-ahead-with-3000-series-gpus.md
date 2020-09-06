@@ -51,20 +51,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Acer Announces Support for the New NVIDIA GeForce RTX 30 Series GPUs Across Its Predator Orion Desktop Portfolio"
-    excerpt: "Acer today announced support for the latest NVIDIA® GeForce RTX™ 30 Series GPUs across its portfolio of Predator Orion gaming desktops. It"
-    publishedDateTime: 2020-09-01T18:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio-301122037.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/1177667/Acer_logo_Logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
 
 secured: "EhTZx9DZ71Hhy3G5/MS0DFp/TSPZ7M1kifTj6nU56Em+xP7XMXi5LZcGQx4MoowpKv0xByNEELgTEDxCiZ9CyuuuyZIEcP0enPJXFqgsobMsIRTqm5q+bFtPYaqwDklrEOb/7Xa8By+R81Sv7yiGpm7qkQO0BKx8W8fxxtvpIGqHvPBlgJH4lia83bMTKEtPkwHEKArwynO9dRbihAUStKlGxelHSVvmT70BOJJLLX/ZGxU1rccMwYcoyrLGKjKS2EyopYVYIcDK4n4s+CmuJxVzSqZLbKrV0BbT2hOsr45XDbC/4yFVsf/GOG1mSkIiqlO/9dEgrk80sTBtcq4xFlfRnvEkWyh3/QfOf6sLoQg=;8PI+7/ovpkUgZMc0K8Mt6g=="
 ---

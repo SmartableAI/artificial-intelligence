@@ -19,75 +19,58 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Robots Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 - 2025"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
-    publishedDateTime: 2020-09-01T17:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2025-2020-09-01"
+  - title: "Worldwide IoT Chip in Healthcare Industry to 2025 - by Connectivity and Geography - ResearchAndMarkets.com"
+    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
+    publishedDateTime: 2020-09-02T13:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200902005651/en/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: Business Wire
+      domain: businesswire.com
+    quality: 38
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mms.businesswire.com/media/20200902005651/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
-        height: 630
+        height: 627
         isCached: true
-  - title: "Machine Learning As A Service Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
-    excerpt: "The global Machine Learning As A Service Market stood at US$ 1,071.6 Mn in 2016. The study projects the global"
-    publishedDateTime: 2020-09-04T12:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-04"
+  - title: "Global IoT Chip in Healthcare Market (2020 to 2025) - Featuring Intel, Qualcomm Technologies & Texas Instruments Among Others"
+    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
+    publishedDateTime: 2020-09-03T12:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17367086/global-iot-chip-in-healthcare-market-2020-to-2025-featuring-intel-qualcomm-technologies-texas-inst"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17367086"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17367086"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
+  - title: "North American Artificial Intelligence in Diagnostics Market 2020-2026 - ResearchAndMarkets.com"
+    excerpt: "The North America Artificial Intelligence in Diagnostics Market is expected to witness market growth of 26.6% CAGR during the forecast period (2020-2026). “North America Artificial Intelligence in Diagnostics Market By Diagnosis Type (Radiology,"
+    publishedDateTime: 2020-09-02T10:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200902005500/en/North-American-Artificial-Intelligence-Diagnostics-Market-2020-2026"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mms.businesswire.com/media/20200902005500/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
-        height: 630
+        height: 627
         isCached: true
-  - title: "Artificial Intelligence Robots Market Outlook, Size, Share and Growth and Forecast Assumptions Through 2023 | Impact of COVID-19 Pandemic"
-    excerpt: "Global AI Robots Market Research Report - by Offering (Software, Hardware), by Type (Service Robots, Industrial Robots),"
-    publishedDateTime: 2020-09-03T11:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-size-share-and-growth-and-forecast-assumptions-through-2023-impact-of-covid-19-pandemic-2020-09-03"
+  - title: "Outlook on the AI Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
+    excerpt: "The \"Global Artificial Intelligence (AI) Chips Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence (AI) chips market is poised to grow by $ 54.03 billion during 2020-2024 progressing at a CAGR of 42% during the forecast period."
+    publishedDateTime: 2020-09-04T12:54:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200904005314/en/Outlook-AI-Global-Market-2024---Key"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: Business Wire
+      domain: businesswire.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mms.businesswire.com/media/20200904005314/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market Growth Prospects and Outlook 2020-2026 | Google, IBM, Intel, Micron Technology, Microsoft, Nvidia"
-    excerpt: "Global Deep Learning Market, delivering a must-read report for industry stakeholders wanting to understand the strategic landscape of this increasing sector. Readers will find an in-depth analysis of the market and how it will impact existing traditional markets,"
-    publishedDateTime: 2020-09-01T17:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-growth-prospects-and-outlook-2020-2026-google-ibm-intel-micron-technology-microsoft-nvidia-2020-09-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Outlook, Size, Share and Growth and Forecast Assumptions Through 2026 | Impact of COVID-19 Pandemic"
-    excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
-    publishedDateTime: 2020-09-03T04:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-outlook-size-share-and-growth-and-forecast-assumptions-through-2026-impact-of-covid-19-pandemic-2020-09-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+        height: 627
         isCached: true
   - title: "Worldwide Social Robots Industry to 2025 - Featuring Intuition Robotics, Haapie SAS & Reach Robotics Among Others - ResearchAndMarkets.com"
     excerpt: "The “Social Robots Market - Growth. Trends and Forecasts (2020-2025)” report has been added to ResearchAndMarkets.com’s offering. The Social Robots market is estimated to grow at a CAGR of about 14% over the forecast period 2020 to 2025."
@@ -103,33 +86,33 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
-    excerpt: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation Demand Growth Trend Opportunity and Forecast to 2026"
-    publishedDateTime: 2020-09-04T06:29:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266296215/global-artificial-intelligence-in-the-medical-imaging-market-2020-segmentation-demand-growth-trend-opportunity-and-forecast-to-2026"
+  - title: "Opportunity Outlook: European AI in Social Media Market 2020-2025 - Natural Language Processing (NLP) Expected to Dominate - ResearchAndMarkets.com"
+    excerpt: "The European AI In Social Media Market is expected to grow at a formidable rate during the forecast period. The European AI In Social Media Market is driven by the utilization of the AI technology for effective advertising campaigns on different social media platforms."
+    publishedDateTime: 2020-09-02T11:29:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200902005546/en/Opportunity-Outlook-European-AI-Social-Media-Market"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 7
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1599177222136.jpg"
-        width: 630
-        height: 420
+      - url: "https://mms.businesswire.com/media/20200902005546/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "Covid-19 Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 - Dynamics, Trends, Revenue, Forecast to 2026"
-    excerpt: "Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 ndash Dynamics Trends Revenue Forecast to 2026"
-    publishedDateTime: 2020-09-03T11:59:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266288531/covid-19-impact-on-global-artificial-intelligence-education-technology-market-analysis-2020---dynamics-trends-revenue-forecast-to-2026"
+  - title: "Global Artificial Intelligence Processor Market to 2025 - Profiling Apple, Huawei & MediaTek Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence Processor Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The Artificial Intelligence (AI) processor market was valued at US$71."
+    publishedDateTime: 2020-09-04T12:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200904005302/en/Global-Artificial-Intelligence-Processor-Market-2025--"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 4
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1599124582181.jpg"
-        width: 630
-        height: 420
+      - url: "https://mms.businesswire.com/media/20200904005302/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "3Nis4To/X3gqzZCx733kT3aRDq3MNPQFqvVTmdBSsf3QFD8YW6j7hg51EwxidreKaxE8MSnUR6w/U3kcemieC3pC1LXZhD0JvsFYdjCDsxFjMeRDKN/2hdGc+0O3tnV2sWaV6yNUJ8r1M+9fdhSBbS82/XcA1uuAvfS1PTX4kLWkX1TWCocY9Gp7D6rgBKbWPjybCs4G+vjM+dKAXyblN2virco2YXtb/kH7i3anId/7nlkUzgDjicYKY1E8BaIK3neBfb1I6fX2s0OPLRBND2kolxPUFmr/AqDADGJUHUWBfU8TXbfqqJU7JY0AwRm9bHVEnWZiQ43mBkv0TffLNpSZF80W+nUpE8MTKeHQq+o=;e6TYjGDUzigQfKLDBZmZDQ=="

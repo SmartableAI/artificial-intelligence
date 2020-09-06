@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple May Be Working on a Self-Driving Car Featuring Controlled Doors and VR System"
-    excerpt: "Working in a hidden lab named SG5 in Sunnyvale, California, engineers are hard at work completing Project Titan. Since September 2014, the mega tech company has been working on a car manufacturing, design and self-driving project."
-    publishedDateTime: 2020-09-01T17:06:00Z
-    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20655/Apple-May-Be-Working-on-a-Self-Driving-Car-Featuring-Controlled-Doors-and-VR-System.aspx"
-    ampWebUrl: "https://mobile.engineering.com/amp/20655.html"
-    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20655.html"
-    type: article
-    provider:
-      name: Engineering
-      domain: engineering.com
-    quality: 38
-    images:
-      - url: "https://res.cloudinary.com/engineering-com/image/upload/w_350,c_limit,q_auto,f_auto/37158-69620-apple-patent-application-apple-car-1-xl_qcnbiz.jpg"
-        width: 350
-        height: 265
-        isCached: true
 
 secured: "j1uqEUHQuYzpyzkoaVCm2p6ZnFNFhez6k3yAIVOes2rxl3FG6QTwpB0BBhrXDVRygDRmiXgi/tMTtlluSBRAhgcnqt1FylyRa/dA0zn9+NwxDW2cPtfHQbqRC//Obigu2vR/sotPq+3dw7UL1GUXxVEJ8hhG56qmKzqAGEfo3B89AJQDkI5ZlDqg/PbUBHHo75rurQTL+kNA2ObdZ1vSsH00B2WTH89+5bDnZnbV5rIDP+p7xtIrTpMbGHdJHdOKKysDbSoqqJrn9QIK0yQzbkqvFJctUiQxpjmNt9BA2uBqf1UEqMO9vAyOdCPSRvRlKTb/dcAd1wxqfvxig6tOiE6aZL8NM+El5Mzi6Qerx72hXAxu8ebPGt6JC9PYlTlCMqIt/5Grc2T15MIGA2spF8FC1CRCNCP8mp2nK/Gqio+opMsVeA5IyY8YqqSZU3em5pm37uOKGurPAuCgJvPuhlwIAbog45T4WTEWrj3TmFu8AT/vPu2oWE8iVHDM4mwZIRDwSevkzQO2xVYT+zBMYs1UOqmVW/2YLDYONRzglng=;AbzfbQgLx/GwQ9AD+4zUxA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/355736"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/355736"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/09/Entropik-Tech_Team-Picture.jpg"
         width: 1433
         height: 948
-        isCached: true
-  - title: "Entropik, Indian Startup That Uses AI To Read User Emotions, Raises Funds"
-    excerpt: "Entropik Tech, a startup that specialises in facial recognition technology to interpret people’s emotion as they watch video and other media, raised $8 million in its fresh funding to strengthen its technology and expand its business."
-    publishedDateTime: 2020-09-01T17:15:00Z
-    webUrl: "https://www.bloombergquint.com/technology/entropik-indian-startup-that-uses-ai-to-read-user-emotions-raises-funds"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 36
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2020-09%2F2c92bb7f-3973-4748-9d46-464c0b3034bb%2F322274447.jpg?rect=0%2C69%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "2QgSB2UTkiMBW5Poe5fBwR6XVcNzcIArBGR2l6jDlXxxkULTVBbpTrolmO/eJE8jmLy6dpsWNJkJZFGb+8aYucjbX52QoelaxmPARsk3CVjaezaE5pvyWcnKzzOpChZNnCDvbj1L5xkf+RIETuzPqa/gWPhJ5D0XYkeqwpq6rc9W04eS858Wfhp3iTZI4jUY2xuZQZyp/5cGNXNur+qCX+Ai8VvoCH5BkpvcwbDaxkQ2jUGRVyhSbYX8VUGnwn+M2gA9OgBq2Twsuy83qbaMafeYgjEz0h3n1Wz+WJ/pgOy4p6sfO/d8JMO7s11lochl8B9/I9VAW1IIJh0+d5nZ6yNkp87ruG/KFZULWGhyCqh/taNABLO6YxBKIMobOVc4RATlvPhRsFQvr8sQRwXRD/WTTvr9cTPBsxzhaDpzADH8FV5CBxu45CyOiJIVLudOelPATH6yS1OFNIMUQtFb2YiKKVS5QIJJeyzfiWpFhB25OnTudi4SmXWYVtmjGfBMKtrvPMhlP0oivfqbG9nfhwAEchrADVZ5HSMF3RKNrBU=;XdFnmpuqxYYOc8pYeAXcYg=="

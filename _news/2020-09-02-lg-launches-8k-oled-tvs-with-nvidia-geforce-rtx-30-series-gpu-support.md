@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/amp_articleshow/77888361.cms"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
-  - title: "Acer Announces Support for the New NVIDIA GeForce RTX 30 Series GPUs Across Its Predator Orion Desktop Portfolio"
-    excerpt: "Acer today announced support for the latest NVIDIA® GeForce RTX™ 30 Series GPUs across its portfolio of Predator Orion gaming desktops. It"
-    publishedDateTime: 2020-09-01T18:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio-301122037.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/1177667/Acer_logo_Logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
 
 secured: "bXNx9VkWV07BUHHPRiGA2lJF6SvUUhJe4tM7O46YhXSWbdJCUfIvpxvHujAhrT66vYAqmmz288WayIFVZacm4q2leFiPmZGR2rs5UivUGbUfXSNk6qMhrxEbN+SLD+yZ5+GcDACWeZ0W4Qw0IEY2b6U336SoVNVnqhKi3ME5t2xF8TkjlctbJtc2pG7g/FOC0Z0QfNDl70ShbRmMmZ253doZdXq3EHcTeyTawKTIAOfsYkVKLEyV28x9sy4VggNvdRYqd0+1jyTPRXF63nhNV6HuYP9iedyv9yn/YYS8r0EdR2u4I7nGfL4xanmCS6wulndJMCbdAvimomnhfZ4VB6W6DgQ6uTQ6ERwMs+Zknzc3P9kj8eSMyHqda0F2Iy+VssF6hy4d22sGX7IMlFxrsgAw3u94OsZpZxYSaGOPl5fPiHS87bZV64VhnQBS6aTfofKaJ3axBVKjfxQMn54Eo6GlsnTnw8GouJghyWLvawNNO74qip2xwjr0TZlem8xhVOkO+B5uOP4fI/i/taGcTw==;fEQDPtVYS/IrEM1bUb43ow=="
 ---

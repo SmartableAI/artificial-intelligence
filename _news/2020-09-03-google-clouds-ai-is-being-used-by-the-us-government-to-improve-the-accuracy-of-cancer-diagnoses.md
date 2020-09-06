@@ -44,20 +44,6 @@ related:
         width: 507
         height: 339
         isCached: true
-  - title: "Microscopes Powered by Google’s AI Could Change Cancer Diagnostics"
-    excerpt: "New augmented-reality microscopes, powered by AI, will change how doctors detect cancer, and finally begin to fulfill the promise of applying artificial intelligence to medical imagery. The Defense Innovation Unit recently awarded a contract to Google Cloud to deliver the AI models to power a pilot program called Predictive Health,"
-    publishedDateTime: 2020-09-01T17:44:00Z
-    webUrl: "https://www.defenseone.com/technology/2020/09/microscopes-powered-googles-ai-could-change-cancer-diagnostics/168146/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 39
-    images:
-      - url: "https://cdn.defenseone.com/media/img/upload/2020/09/01/4240233/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "IjF+CtvnB9U55KQqfjDDiSFNq7gobdLmRCalHo0EmziWCfVWoaP1tW+c/0CuIV4frYxadT67b+SEjRBSsEF0mktuvMpHMZM9bHJb3zxeQt4fOjzJbvVJFgwTcTo+iv0X0dndAd+K75VbxiQbqOvQkXSaNBlj0jtXa9aDsjK9NVNAfDGs2kjG0FAFt3dbgGpgPS5EvSbg4+48A+1762fNVBLQWjznjFTO4+VNp4oCWkQD3TlUxusKOul35ygdhioGvJLEjRT/ijFWDieni/v/vfdDARnqUkHytAE0gofl+tlb1T7tq/SvrliJjGdybCC6GzXlqHfxZkAM3LQ7LJk9cFN4r6MTF+2/+AWrb0t2eFJsZjSiG2NY+0jPX25EwN5scX1xPRp7yb190L6zicY6ZFYEGkahCfcZeRI0gAEi4lNDkVTRy/zcs7OhO0hzoM0KKQso3m/EuIu+5oQiy6h8i8QSUu8BcApw+6w3U0DTzhp3A6Px8VKlEwpxtOuTTaYkW4+tSRRRap8HNBT/uS5pdA==;zXHMopNQ1wCmb4Hy2bBTOg=="
 ---

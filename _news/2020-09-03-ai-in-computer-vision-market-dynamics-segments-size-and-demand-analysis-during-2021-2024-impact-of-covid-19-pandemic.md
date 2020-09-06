@@ -3,11 +3,11 @@ category: news
 title: "AI In Computer Vision Market: Dynamics, Segments, Size, and Demand Analysis during 2021-2024 | Impact of COVID-19 Pandemic"
 excerpt: "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,"
 publishedDateTime: 2020-09-03T07:06:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03"
-webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03"
+originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03?mod=mw_quote_news"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -57,7 +57,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Covid-19 Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 - Dynamics, Trends, Revenue, Forecast to 2026"
+    excerpt: "Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 ndash Dynamics Trends Revenue Forecast to 2026"
+    publishedDateTime: 2020-09-03T11:59:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266288531/covid-19-impact-on-global-artificial-intelligence-education-technology-market-analysis-2020---dynamics-trends-revenue-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 4
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1599124582181.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
-secured: "gypb4ilmwptSwvyR5LFGCZCqZUhVtrbCHQ/s6UA3LXDUPdP+4I7alB4N/i0RQRgIORBz8z6C+jOI9nDUWiMV20RwRla9OKos8pTNqz/MmC4K2ZC35IwspHfWcEhjFTdfySSxBtOuumqotZUSaH7/yxTz8jkN75gD9A3lK5hMjWzX4/eLo2NbRc6zqJgfWeyJQNjSfwgSHFrn21KxjqA18VOaWVOkiQQixHWNyuU1viwJ3rjK3JvhfU9qrjA0nekHDQLXErJufifmSoDYvPEo0lezWMYcLxPnlKMovQJABsmXY0Rp7K6Jl57V2JXbf/SuxbrbGvtC7qZAG0CTmwi2CIWhDh/u0fHbvAP+t3JEacU=;fLAjIBZ9nSSDcciqReuluw=="
+secured: "YVukmG6xoTv4P+UTbJbZEW9KELt9GmfdE2dulDddD4r7X++Hc2JhISA0EE+78psSOACN3U1gXy7d2xDlefjU5Zzigr7FUWAaQeGZC405cvKT61aY6QvifkvO9sEvpkMS5OiTTiyYRbGDYOksJ1/7G8za9vGdXU0ti88wnP9smECscbHmvGjlGdAK11Cq2yad35V0XqLgT9RALyWBHfzxN/m7aWhAw+aivpB9V8bB8KNKhDJNMIwl+ULno078sL0Jqi9wOV9E3EIHcYYHQdTLXgfOmCvAs1f+LZ9N6rGUbfJOGTWNHnGYm8khltjaeWYZMbeYDiIZFL1MXwyBK6i3m+vSHb8sk171iBUNaJqUGa0=;+ukd5Y4Kod7NBkFuve9E5Q=="
 ---
 

@@ -32,7 +32,7 @@ related:
   - title: "AI In Computer Vision Market: Dynamics, Segments, Size, and Demand Analysis during 2021-2024 | Impact of COVID-19 Pandemic"
     excerpt: "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,"
     publishedDateTime: 2020-09-03T07:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03"
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
@@ -56,6 +56,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Covid-19 Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 - Dynamics, Trends, Revenue, Forecast to 2026"
+    excerpt: "Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 ndash Dynamics Trends Revenue Forecast to 2026"
+    publishedDateTime: 2020-09-03T11:59:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266288531/covid-19-impact-on-global-artificial-intelligence-education-technology-market-analysis-2020---dynamics-trends-revenue-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 4
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1599124582181.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "/DtHbT1plPTNgEG5CNoX8wQwVgIA+bUSn727MN1SWLFabZIfaxwpNYBKXPCQYJlAzS2WgzItS32daCvtLz4KF1xDEfFweTuREb4AS2Gc0PnWG2Y550VXN+MelbmfTovmlPOmPdq5GOxmDyVRXBpFpEKBlLIS3gOM85KoU40y6byT7qAqIMdzLs/RZ4MHdEwstXHay110irvMD49U7TLiDR4AIKM7FNGLSvnZjTyq5k9GJHh8YMt6Uiks3qq+V+Jf+txawW8yrmH3ys7wfsC2aYkFDW2tiT6BkOf4fqH82y0P3kT1Rjb3gq7DCAQPOU0uyGa1yNvQBEuJAJniKrjMMY2cqzBW9G8J8ZfIpvw+O4w=;ZJvmCxC8cVInLDVlcsYtrQ=="
