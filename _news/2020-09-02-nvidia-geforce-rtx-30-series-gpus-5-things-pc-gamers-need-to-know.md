@@ -47,54 +47,6 @@ related:
         width: 960
         height: 565
         isCached: true
-  - title: "Nvidia pushes ray-traced gaming ahead with new GeForce RTX 3000 GPUs"
-    excerpt: "In a way, this was going to be an easy one. After all, gaming of all varieties, but particularly PC-based gaming, has never been more popular. The pandemic has given people more time, more incentive,"
-    publishedDateTime: 2020-09-01T16:59:00Z
-    webUrl: "https://www.techspot.com/news/86591-nvidia-pushes-ray-traced-gaming-ahead-new-geforce.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/86591-nvidia-pushes-ray-traced-gaming-ahead-new-geforce.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86591-nvidia-pushes-ray-traced-gaming-ahead-new-geforce.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/09/2020-09-01-image-24.jpg"
-        width: 3057
-        height: 1896
-        isCached: true
-  - title: "Nvidia unveils GeForce RTX 3080 GPU with 28 billion transistors"
-    excerpt: "Nvidia has unveiled its 28-billion transistor Ampere-based 30 series graphics chips for PC gamers. The new chips will shore up PC gaming."
-    publishedDateTime: 2020-09-01T16:53:00Z
-    webUrl: "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/"
-    ampWebUrl: "https://venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/nvidia-unveils-geforce-rtx-3080-gpu-with-28-billion-transistors/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/nvidia-GeForce-RTX-30-Series.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "NVIDIA unveils the $699 GeForce RTX 3080, its first 'Ampere' GPU"
-    excerpt: "And it also showed off the $499 RTX 3070. NVIDIA’s latest 30 Series GPUs are officially here, after weeks of seemingly endless leaks. The company unveiled the RTX 3080 and RTX 3070 today, the first consumer offerings based on its new “Ampere” architecture."
-    publishedDateTime: 2020-09-01T16:37:00Z
-    webUrl: "https://www.engadget.com/nvidia-rtx-3080-gpu-ampere-163044861.html"
-    ampWebUrl: "https://www.engadget.com/amp/nvidia-rtx-3080-gpu-ampere-163044861.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidia-rtx-3080-gpu-ampere-163044861.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F2fc9d470-ec70-11ea-9fee-a0c1b0bd255d&client=amp-blogside-v2&signature=027fdd6d85e05239be8f5ea7c78814a3cfcf31b9"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Nvidia unveils new GeForce RTX 30 series GPUs"
     excerpt: "Similar to the Turing GPUs, the Ampere-based 30 series are designed for ray tracing, a rendering technique that creates realistic lighting effects."
     publishedDateTime: 2020-09-01T18:00:00Z

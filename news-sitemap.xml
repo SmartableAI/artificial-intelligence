@@ -43,6 +43,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fool.com/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/</loc>
+    <lastmod>2020-09-05T02:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/ai-startup-hypatos-pitch-deck-funding-2020-9</loc>
     <lastmod>2020-09-05T02:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -463,18 +469,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/cognizant-ctsh-set-to-buy-azure-specialist-10th-magnitude-2020-09-02</loc>
-    <lastmod>2020-09-02T07:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/8-innovative-robotics-stocks-to-buy-right-now-1029556778</loc>
-    <lastmod>2020-09-02T07:27:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/</loc>
     <lastmod>2020-09-02T06:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -601,6 +595,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/</loc>
+    <lastmod>2020-09-01T12:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/</loc>
     <lastmod>2020-09-01T12:29:03-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -621,6 +621,12 @@
   <url>
     <loc>https://www.cnet.com/roadshow/news/future-cars-vehicle-lifecycle-updates/</loc>
     <lastmod>2020-09-01T11:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/09/01/googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh/</loc>
+    <lastmod>2020-09-01T10:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -663,6 +669,12 @@
   <url>
     <loc>https://www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/</loc>
     <lastmod>2020-09-01T08:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reseller.co.nz/article/682585/max-kelsen-serves-automated-rostering-domino-pizza/</loc>
+    <lastmod>2020-09-01T07:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2269,14 +2281,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/nancywang/2020/08/23/first-woman-director-at-mit-cs-ai-lab-want-more-women-in-stem-inspire-them-early/</loc>
-    <lastmod>2020-08-22T23:06:00-07:00</lastmod>
+    <loc>https://www.cnnphilippines.com/business/2020/8/23/Facebook-artificial-intelligence-AI-memory-research.html</loc>
+    <lastmod>2020-08-23T01:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.gwinnettdailypost.com/news/business/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/article_14cd9453-b874-538b-a49d-17ace396180c.html</loc>
-    <lastmod>2020-08-22T14:09:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/nancywang/2020/08/23/first-woman-director-at-mit-cs-ai-lab-want-more-women-in-stem-inspire-them-early/</loc>
+    <lastmod>2020-08-22T23:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

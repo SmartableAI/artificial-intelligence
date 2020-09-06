@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/16767/anti-procrastination-glasses-will
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities?amp=1"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 620
     height: 350
     isCached: true
-
-related:
-  - title: "These ‘anti-procrastination’ smart glasses use AI to monitor what you look at all day"
-    excerpt: "The glasses are called Specs, and they launch today on Indiegogo. The premise is simple: a camera built into the frame of Specs uses machine learning to identify what you’re looking at, whether that’s a laptop,"
-    publishedDateTime: 2020-09-01T15:03:00Z
-    webUrl: "https://www.theverge.com/2020/9/1/21404004/anti-procrastination-smart-glasses-productivity-boosting-auctify-specs-indiegogo"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/1/21404004/anti-procrastination-smart-glasses-productivity-boosting-auctify-specs-indiegogo"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/1/21404004/anti-procrastination-smart-glasses-productivity-boosting-auctify-specs-indiegogo"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 80
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/xnJAPietmZz8u6wN3lcQBJrgB0s=/0x0:1520x855/1400x933/filters:focal(639x307:881x549):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67325939/5e60a2bab4f1c90022ef45cf_optimized_1520.0.jpeg"
-        width: 1400
-        height: 855
-        isCached: true
 
 secured: "WafN6L4lTOXAzfWSUiuiy708e+428YFTUbZnO6apg59Kdf+8gd67SgyY2elVlNE+KaDA+PGenWtLXol44OEWStIsEP/GwTJNuPbm0XZU12B3Z5pzXK9AJkPY8ATmA2w+EmHYdCQ0wnX1dU0TmEs57x5WKSs5aYrIfqYflzDiuF9ML1j/Zk5NllxNxSOgxjasWZI94/6KOkO0Tf3CvSVei7HICGf0T2IvWD6j2kIs2OMFPzNb0m91tmK18ZwW+b4wBKQbaQnF7QFDWA7ot3/BZ1RMNznWz4rp3sZnHPLnuPc0wChH8s+qCRV0wjvwLcr4dEDRwvHcEbc5kuUtjR82ig8eSJB+l3+Qv90B/D66mBc=;+9HEXAwj3cTz5sUaaELoBg=="
 ---

@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market Growth Prospects and Outlook 2020-2026 | Google, IBM, Intel, Micron Technology, Microsoft, Nvidia"
+    excerpt: "Global Deep Learning Market, delivering a must-read report for industry stakeholders wanting to understand the strategic landscape of this increasing sector. Readers will find an in-depth analysis of the market and how it will impact existing traditional markets,"
+    publishedDateTime: 2020-09-01T17:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-growth-prospects-and-outlook-2020-2026-google-ibm-intel-micron-technology-microsoft-nvidia-2020-09-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Worldwide Social Robots Industry to 2025 - Featuring Intuition Robotics, Haapie SAS & Reach Robotics Among Others - ResearchAndMarkets.com"
     excerpt: "The “Social Robots Market - Growth. Trends and Forecasts (2020-2025)” report has been added to ResearchAndMarkets.com’s offering. The Social Robots market is estimated to grow at a CAGR of about 14% over the forecast period 2020 to 2025."
     publishedDateTime: 2020-09-03T13:35:00Z

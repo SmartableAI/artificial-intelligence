@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/09/05/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: The Motley Fool
@@ -30,22 +30,28 @@ images:
     isCached: true
 
 related:
-  - title: "3 Top Artificial Intelligence Stocks to Buy in September"
-    excerpt: "Artificial intelligence (AI) has the potential to influence almost every industry, and the overall economic impact of the tech will exceed what's spent on hardware, software, and services many times over."
-    publishedDateTime: 2020-09-01T16:15:00Z
-    webUrl: "https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/"
+  - title: "8 Innovative Robotics Stocks to Buy Right Now"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Despite the carnage caused by the novel coronavirus, the one investment sector"
+    publishedDateTime: 2020-09-02T14:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/8-innovative-robotics-stocks-to-buy-right-now-1029556778"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/8-innovative-robotics-stocks-to-buy-right-now-1029556778"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/8-innovative-robotics-stocks-to-buy-right-now-1029556778"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+  - title: "2 Fintech Stocks We're Ready to Buy Now"
+    excerpt: "In today's episode, we wish happy birthday to one of the greatest investors ever and talk about two stocks we love right now."
+    publishedDateTime: 2020-09-03T03:15:00Z
+    webUrl: "https://www.fool.com/investing/2020/09/02/2-fintech-stocks-were-ready-to-buy-now/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/09/02/2-fintech-stocks-were-ready-to-buy-now/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/02/2-fintech-stocks-were-ready-to-buy-now/"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 91
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F589831%2Fgettyimages-896358708.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
-        isCached: true
+    quality: 54
 
 secured: "1fRzMdsC3MWp4Q2gTwSiRCUpMjSTWEw0xEb2NB6OiaIBpLjPt6BLw9DKR7v86OWVDCedQapG8zrYeMNbpGP8ZObY+q7DPRjVii/bojbVCNnxWWCG9iP4IGwKZ4k1kQxptZToAHDGxzlJal9Q6sENISIuqYOmCjrakz/XQoBas9Rna/r5p47k9ByF7MFEJGe9o0wuAnpM25GdC/i1O8NK235oZauaF3MBO32nMBQGYA+xiAxAVcL5Tsv7Uj1LVf9w6dMaD0r4Md0ZTnSHxlU44vgbX7uW2xhBalW9AAN16Zt8WBZWhwT1QsZ471qKTPO1MZrTGKaTLjEsHREpZkn8gO3lxq5nTyjESOOYmf3G+VU=;uKQbbCBicd1D1Efk53MACg=="
 ---
