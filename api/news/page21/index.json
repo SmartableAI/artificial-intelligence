@@ -2,6 +2,47 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-08-19-hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work.md",
+      "title": "Hashtag Trending – Facial recognition in New York; Airbnb at Blockbuster; Swiping right at work",
+      "excerpt": "The New York City Police Department uses facial recognition to find a man who allegedly shouted into a police officer’s ear with a bullhorn, you may soon be able to experience the nostalgia of BlockBuster,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1",
+      "publishedDateTime": "2020-08-19T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-meet-your-post-pandemic-coworker-an-ai-bot.md",
       "title": "Meet Your Post-Pandemic Coworker: An AI Bot",
       "excerpt": "Ready to swap your old cube-mate for a disembodied AI? IPsoft CEO Chetan Dube, creator of AI co-worker AMELIA, gives his take on the post-COVID office landscape.",
@@ -1077,56 +1118,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-cerebras-teases-second-generation-wafer-scale-ai-chip.md",
-      "title": "Cerebras teases second-generation wafer-scale AI chip",
-      "excerpt": "The existing Gen-1 has 18 gigabytes of DRAM on die. Lie told the audience to wait for details \"in coming months.\" Cerebras competes with established GPU heavyweight Nvidia and other startups such as Graphcore and Tachyum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cerebras-teases-second-generation-wafer-scale-ai-chip/",
-      "originalUrl": "https://www.zdnet.com/article/cerebras-teases-second-generation-wafer-scale-ai-chip/",
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/08/18/e43119bb-51bc-49d3-8654-5eb388e4b873/cerebras-wse-gen-2-preview-aug-18-2020.png",
-          "width": 3360,
-          "height": 2100,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cerebras-teases-second-generation-wafer-scale-ai-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cerebras-teases-second-generation-wafer-scale-ai-chip/",
-      "publishedDateTime": "2020-08-18T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

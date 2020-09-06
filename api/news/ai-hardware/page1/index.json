@@ -295,34 +295,43 @@
       ]
     },
     {
-      "path": "_news/2020-09-02-lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support.md",
-      "title": "LG launches 8K OLED TVs with NVIDIA GeForce RTX 30 Series GPU support",
-      "excerpt": "Electronics brand LG has expanded its product portfolio with the launch of a new range of 8K OLED TVs. The company is said to be the first TV manufacturer to commercialize 8K OLED",
+      "path": "_news/2020-09-02-nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.md",
+      "title": "Nvidia GeForce RTX 30-series GPUs: 5 things PC gamers need to know",
+      "excerpt": "Nvidia's next-gen GeForce RTX 30-series graphics cards are here, and they're bringing a lot more than just faster frame rates to the table. Here's what PC gamers need to know.",
       "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/articleshow/77888361.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/articleshow/77888361.cms",
+      "webUrl": "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.html",
+      "originalUrl": "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.html",
       "featuredContent": null,
-      "heat": 79,
+      "heat": 149,
       "tags": null,
       "images": [
         {
-          "url": "https://static.toiimg.com/photo/msid-77888361/77888361.jpg",
+          "url": "https://images.idgesg.net/images/article/2020/09/gaming-geforce-rtx-30-100856319-large.jpg",
           "width": 1200,
-          "height": 900,
+          "height": 781,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/amp_articleshow/77888361.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/amp_articleshow/77888361.cms",
-      "publishedDateTime": "2020-09-02T02:48:00-07:00",
+      "ampWebUrl": "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html",
+      "publishedDateTime": "2020-09-02T03:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -904,8 +913,8 @@
       "title": "Nvidia's top GPU has a formidable new AI rival and it's not who you think it is",
       "excerpt": "Tachyum, the company that plans to kill the CPU and GPU with its universal Prodigy processor, this week shared additional details regarding its upcoming chip.   As it turns out, the new processor will support industry-standard open-source development frameworks for AI applications,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "originalUrl": "https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "webUrl": "https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "originalUrl": "https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
       "featuredContent": null,
       "heat": null,
       "tags": null,
@@ -920,8 +929,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "ampWebUrl": "https://www.techradar.com/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
       "publishedDateTime": "2020-08-30T22:00:00-07:00",
       "updatedDateTime": null,
       "provider": {

@@ -2,6 +2,55 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-08-26-coronation-see-the-haunting-trailer-for-ai-weiweis-movie-about-chinas-lockdown.md",
+      "title": "Coronation: See the haunting trailer for Ai Weiwei's movie about China's lockdown",
+      "excerpt": "The Chinese artist and activist directed and produced the documentary from Europe, with ordinary citizens in Wuhan providing footage. It's streaming now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/",
+      "originalUrl": "https://www.cnet.com/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/",
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/ZyRvm2NT1PzwvmdSZk-5wqIGIFI=/2020/08/25/ea810922-d2b4-41ef-b070-ff16382e4bd5/disinfect.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/",
+      "publishedDateTime": "2020-08-26T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-astute-recognized-for-innovative-use-of-ai-in-2020-artificial-intelligence-breakthrough-awards.md",
       "title": "Astute Recognized for Innovative Use of AI in 2020 Artificial Intelligence Breakthrough Awards",
       "excerpt": "Astute, Inc., a leader in customer engagement technology, today announced that it has been selected as the winner of the \"Best Transactional Bot Solution\" award in the 2020 AI Breakthrough Awards program conducted by AI Breakthrough,",
@@ -1121,56 +1170,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-waymo-self-driving-trucks-hit-the-road-in-texas.md",
-      "title": "Waymo self-driving trucks hit the road in Texas",
-      "excerpt": "After deploying its autonomous Chrysler Pacifica prototypes to map roads, Waymo has sent its trucks to Texas interstates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-trucks-texas/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-trucks-texas/",
-      "featuredContent": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/5wSlvlns80O2HBjERxttfvennYQ=/2020/08/25/eda611e2-7365-4317-b88e-79282708064a/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-trucks-texas/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-trucks-texas/",
-      "publishedDateTime": "2020-08-25T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

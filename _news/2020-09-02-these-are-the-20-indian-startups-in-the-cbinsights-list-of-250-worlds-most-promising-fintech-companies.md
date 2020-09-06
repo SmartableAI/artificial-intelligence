@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "CB Insights Lists Onfido as One of This Year’s FinTech Top 250"
-    excerpt: "Onfido has made CB Insights’ third annual FinTech 250. The 2020 list recognizes the best 250 private fintech companies in the world."
-    publishedDateTime: 2020-09-01T20:17:00Z
-    webUrl: "https://findbiometrics.com/cb-insights-lists-onfido-one-this-years-fintech-top-250-090105/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 24
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/ribbon.jpeg"
-        width: 400
-        height: 286
-        isCached: true
   - title: "Six biometric companies included on 2020 CB Insights Fintech 250 List"
     excerpt: "CB Insights has just announced its third annual list for the top 250 leading fintechs that disrupt the industry with innovative technology, and some biometrics companies have found themselves on"
     publishedDateTime: 2020-09-03T17:18:00Z

@@ -75,22 +75,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "TSA Is Testing Facial Recognition Checkpoints"
-    excerpt: "The Transportation Security Administration is starting to use facial recognition, at least on a trial basis. On Tuesday the agency announced that it has begun a pilot of a \"self-service\" checkpoint at the Ronald Reagan Washington National Airport in Washington,"
-    publishedDateTime: 2020-09-01T20:56:00Z
-    webUrl: "https://www.cntraveler.com/story/tsa-is-testing-facial-recognition-checkpoints"
-    ampWebUrl: "https://www.cntraveler.com/story/tsa-is-testing-facial-recognition-checkpoints/amp"
-    cdnAmpWebUrl: "https://www-cntraveler-com.cdn.ampproject.org/c/s/www.cntraveler.com/story/tsa-is-testing-facial-recognition-checkpoints/amp"
-    type: article
-    provider:
-      name: Condé Nast Traveler
-      domain: cntraveler.com
-    quality: 59
-    images:
-      - url: "https://media.cntraveler.com/photos/5f4e90c2b7e21e3517060817/master/pass/GettyImages-1227887112.jpg"
-        width: 4032
-        height: 2268
-        isCached: true
   - title: "Israeli facial recognition tech reduces chance of human bias"
     excerpt: "Just as it is wrong to say machines are ‘biased’ it’s wrong to say machines are not biased, however, AI systems are less biased than people."
     publishedDateTime: 2020-09-02T18:02:00Z

@@ -628,6 +628,55 @@
       ]
     },
     {
+      "path": "_news/2020-09-04-this-ai-predicted-who-will-play-the-next-james-bond-hint-toss-a-coin-to-him.md",
+      "title": "This AI predicted who will play the next James Bond (Hint: Toss a coin to him)",
+      "excerpt": "AI software firm Largo predicted who will play the next Bond by forecasting which of the contenders could outperform Daniel Craig at the box office.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/04/this-ai-predicted-who-will-play-the-next-james-bond-hint-toss-a-coin-to-him/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/04/this-ai-predicted-who-will-play-the-next-james-bond-hint-toss-a-coin-to-him/",
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/3054248165_23e33052c1_o.jpg",
+          "width": 500,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/04/this-ai-predicted-who-will-play-the-next-james-bond-hint-toss-a-coin-to-him/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/04/this-ai-predicted-who-will-play-the-next-james-bond-hint-toss-a-coin-to-him/amp/",
+      "publishedDateTime": "2020-09-04T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-ai-related-jobs-openings-and-searches-have-gone-up-report.md",
       "title": "AI-related jobs openings and searches have gone up: report",
       "excerpt": "Job openings in artificial intelligence (AI) have gone up by 30% in June compared to the same period last year, as per data from jobs site .",
@@ -1135,56 +1184,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-qualcomms-second-gen-laptop-chip-isnt-doing-enough-to-compete-with-apple.md",
-      "title": "Qualcomm's Second-Gen Laptop Chip Isn't Doing Enough to Compete With Apple",
-      "excerpt": "Qualcomm made a big push into the notebook market with its first purpose-built laptop chip—the Snapdragon 8cx. And for 2020, Qualcomm is announcing the Snapdragon 8cx Gen 2 which offers new 5G connectivity along with improved AI and security,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/qualcomms-second-gen-laptop-chip-isnt-doing-enough-to-c-1844937226",
-      "originalUrl": "https://gizmodo.com/qualcomms-second-gen-laptop-chip-isnt-doing-enough-to-c-1844937226",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dwulkkajtogaajypksan.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/qualcomms-second-gen-laptop-chip-isnt-doing-enough-to-c-1844937226/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/qualcomms-second-gen-laptop-chip-isnt-doing-enough-to-c-1844937226/amp",
-      "publishedDateTime": "2020-09-03T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

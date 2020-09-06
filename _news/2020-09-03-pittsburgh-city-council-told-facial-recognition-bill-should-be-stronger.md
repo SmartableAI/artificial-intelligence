@@ -67,22 +67,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "TSA Is Testing Facial Recognition Checkpoints"
-    excerpt: "The Transportation Security Administration is starting to use facial recognition, at least on a trial basis. On Tuesday the agency announced that it has begun a pilot of a \"self-service\" checkpoint at the Ronald Reagan Washington National Airport in Washington,"
-    publishedDateTime: 2020-09-01T20:56:00Z
-    webUrl: "https://www.cntraveler.com/story/tsa-is-testing-facial-recognition-checkpoints"
-    ampWebUrl: "https://www.cntraveler.com/story/tsa-is-testing-facial-recognition-checkpoints/amp"
-    cdnAmpWebUrl: "https://www-cntraveler-com.cdn.ampproject.org/c/s/www.cntraveler.com/story/tsa-is-testing-facial-recognition-checkpoints/amp"
-    type: article
-    provider:
-      name: Condé Nast Traveler
-      domain: cntraveler.com
-    quality: 59
-    images:
-      - url: "https://media.cntraveler.com/photos/5f4e90c2b7e21e3517060817/master/pass/GettyImages-1227887112.jpg"
-        width: 4032
-        height: 2268
-        isCached: true
   - title: "Fears police facial recognition system will falsely accuse Māori"
     excerpt: "It is only a matter of time before a Māori person is wrongfully arrested because of a false match on facial recognition software, a Māori technology expert says. Police have been working on a $23 million upgrade of their biometrics images system run by the US firm Dataworks Plus,"
     publishedDateTime: 2020-09-02T19:12:00Z

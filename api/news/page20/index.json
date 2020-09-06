@@ -2,6 +2,48 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-08-19-microsofts-new-azure-servers-deliver-powerful-nvidia-a100-ampere-ai-supercomputing-boost.md",
+      "title": "Microsoft's New Azure Servers Deliver Powerful NVIDIA A100 Ampere AI Supercomputing Boost",
+      "excerpt": "Therefore, Microsoft’s Azure is announcing their powerful ND A100 v4 virtual machine series. Each device will be kitted out with eight impressive NVIDIA Ampere A100 Tensor Core GPUs. The ND A100 v4 won’t work alone,",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
+      "originalUrl": "https://hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/52579/content/azure-machine-learning.jpg",
+          "width": 708,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
+      "publishedDateTime": "2020-08-19T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-amp-robotics-accelerates-growth-with-key-leadership-hires.md",
       "title": "AMP Robotics Accelerates Growth With Key Leadership Hires",
       "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics used to recover commodities reclaimed as raw materials for the glob",
@@ -1131,47 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work.md",
-      "title": "Hashtag Trending – Facial recognition in New York; Airbnb at Blockbuster; Swiping right at work",
-      "excerpt": "The New York City Police Department uses facial recognition to find a man who allegedly shouted into a police officer’s ear with a bullhorn, you may soon be able to experience the nostalgia of BlockBuster,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1",
-      "publishedDateTime": "2020-08-19T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

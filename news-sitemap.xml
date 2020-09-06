@@ -79,6 +79,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://thenextweb.com/neural/2020/09/04/this-ai-predicted-who-will-play-the-next-james-bond-hint-toss-a-coin-to-him/</loc>
+    <lastmod>2020-09-04T09:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://timesofindia.indiatimes.com/business/india-business/ai-related-jobs-openings-and-searches-have-gone-up-report/articleshow/77935453.cms</loc>
     <lastmod>2020-09-04T08:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -295,7 +301,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03?mod=mw_quote_news</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03</loc>
     <lastmod>2020-09-03T00:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -511,14 +517,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects/</loc>
-    <lastmod>2020-09-02T02:58:00-07:00</lastmod>
+    <loc>https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.html</loc>
+    <lastmod>2020-09-02T03:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://timesofindia.indiatimes.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/articleshow/77888361.cms</loc>
-    <lastmod>2020-09-02T02:48:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/article/python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects/</loc>
+    <lastmod>2020-09-02T02:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -985,7 +991,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

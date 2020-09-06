@@ -25,52 +25,93 @@ images:
     isCached: true
 
 related:
-  - title: "GeForce RTX 3080 is Nvidia’s New Flagship Next-Gen GPU"
-    excerpt: "The RTX 3080 is said to be up to twice as fast as the original RTX 2080. Built on a custom 8N manufacturing process, it has 28 billion transistors, 8704 CUDA Cores, and a 10 GB GDDR6X VRAM. It was also confirmed that the images showing the curved heatsink and bi-directional fans of the GPU that were leaked earlier in the year are indeed accurate."
-    publishedDateTime: 2020-09-01T19:09:00Z
-    webUrl: "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu"
-    ampWebUrl: "https://gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu/amp"
-    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/geforce-rtx-3080-is-nvidias-new-flagship-next-gen-gpu/amp"
+  - title: "Nvidia GeForce RTX 30-series GPUs: 5 things PC gamers need to know"
+    excerpt: "Nvidia's next-gen GeForce RTX 30-series graphics cards are here, and they're bringing a lot more than just faster frame rates to the table. Here's what PC gamers need to know."
+    publishedDateTime: 2020-09-02T10:02:00Z
+    webUrl: "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.html"
+    ampWebUrl: "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html"
     type: article
     provider:
-      name: From Software
-      domain: gamingbolt.com
+      name: PC World
+      domain: pcworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/09/gaming-geforce-rtx-30-100856319-large.jpg"
+        width: 1200
+        height: 781
+        isCached: true
+  - title: "Nvidia tells us more about how well the RTX 3090 GPU performs 8K gaming"
+    excerpt: "Nvidia’s GeForce RTX 3090 launch saw the firm declare that its top-end Ampere graphics card can handle 8K gaming smoothly – meaning at 60 frames per second (fps) – but now further details have been shared on what kind of frame-rates we can expect with various games,"
+    publishedDateTime: 2020-09-06T13:00:00Z
+    webUrl: "https://www.techradar.com/au/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ZY3deEipHnrs5a3gWYKjcZ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "LG launches 8K OLED TVs with NVIDIA GeForce RTX 30 Series GPU support"
+    excerpt: "Electronics brand LG has expanded its product portfolio with the launch of a new range of 8K OLED TVs. The company is said to be the first TV manufacturer to commercialize 8K OLED"
+    publishedDateTime: 2020-09-02T09:48:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/articleshow/77888361.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/amp_articleshow/77888361.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/amp_articleshow/77888361.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://static.toiimg.com/photo/msid-77888361/77888361.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "GeForce RTX 3090, Nvidia’s Ultimate Next-Gen GPU, is an Absolute Beast"
-    excerpt: "Nvidia have revealed the full extent of their next-gen GPUs with the much-anticipated GeForce RTX 30 series. The RTX 3080 is their flagship new GPU, while the RTX 3070 presents a cheaper alternative,"
-    publishedDateTime: 2020-09-01T20:06:00Z
-    webUrl: "https://gamingbolt.com/geforce-rtx-3090-nvidias-ultimate-next-gen-gpu-is-an-absolute-beast"
-    ampWebUrl: "https://gamingbolt.com/geforce-rtx-3090-nvidias-ultimate-next-gen-gpu-is-an-absolute-beast/amp"
-    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/geforce-rtx-3090-nvidias-ultimate-next-gen-gpu-is-an-absolute-beast/amp"
+  - title: "Nvidia Rolls Out Next-Generation GeForce RTX 30 Series GPUs"
+    excerpt: "Nvidia CEO Jensen Huang called the new cards a 'generational leap,' and introduced other new tech aimed at hardcore gamers."
+    publishedDateTime: 2020-09-01T23:03:00Z
+    webUrl: "https://www.thestreet.com/investing/nvidia-rolls-out-new-geforce-rtx-30-series-gpus"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/nvidia-rolls-out-new-geforce-rtx-30-series-gpus"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-rolls-out-new-geforce-rtx-30-series-gpus"
     type: article
     provider:
-      name: From Software
-      domain: gamingbolt.com
+      name: TheStreet.com
+      domain: thestreet.com
     quality: 59
     images:
-      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://content.jwplatform.com/thumbs/7kcZuaxD-720.jpg"
+        width: 720
+        height: 406
         isCached: true
-  - title: "With 28B transistors, Nvidia’s new flagship consumer GPU is fastest ever built"
-    excerpt: "The company’s gaming GPU business generated revenues of $1.65 billion in Nvidia’s most recent quarter after growing 26% year-over-year. Nvidia’s new RTX 30 chips are based on its latest Ampere architecture,"
-    publishedDateTime: 2020-09-01T20:51:00Z
-    webUrl: "https://siliconangle.com/2020/09/01/28b-transistors-nvidias-new-flagship-consumer-gpu-fastest-ever-built/"
+  - title: "Nvidia announces GeForce RTX 30 series GPUs"
+    excerpt: "The GPUs take advantage of the second-generation Nvidia RTX PC gaming platform to provide real-time ray tracing and AI gaming. The RTX 30 series was unveiled during a virtual launch event by Nvidia founder and CEO Jensen Huang, who also announced that ..."
+    publishedDateTime: 2020-09-02T03:53:00Z
+    webUrl: "https://www.digitimes.com/news/a20200902PR200.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/nvidia.png"
-        width: 800
-        height: 450
+      - url: "https://www.digitimes.com/newsshow/20200902PR200_files/2_b.jpg"
+        width: 640
+        height: 426
         isCached: true
+  - title: "Nvidia Pushes Ray-Traced Gaming Ahead With 3000 Series GPUs"
+    excerpt: "The pandemic, in general, has given people more time, more incentive, and frankly, more of a need to game than ever before."
+    publishedDateTime: 2020-09-03T14:34:00Z
+    webUrl: "https://seekingalpha.com/article/4372341-nvidia-pushes-ray-traced-gaming-ahead-3000-series-gpus"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "RAV+4rJGNXxTtrslxgb6N++5s7JaYN2ceqyhQr/fKUJAKIMIrmWt41ZVKmfDbO8/sJpx/GhhJnlOLC9QgEB+LOM+9ZHKxqEB8nOBPX4dwcOoxYaDek4UClMJNVUaV/PaSEYhjiZBtM+BpCSn8C7yHNHWgy+1tOkYTG+R0fc571NVFBJEKphc+feA8exQFKaMVWFFx98MH7KEUIilafHSlFLhyEs90nuqECJayvOnJNzTCstzGM4RhusyC4MbHYW+sjSV0Ou8YPBs6x4w+Sy7H2mQC4YRy838tX9+ktbC+Pk8GZjOvvEn4bKR81/pJk8dY7CrbpKSJgl19hEsPX/WmdPOkANvniRYRBf89y84NWjJ8BWJL7jNfZg3Zi8VwOJ3sAO1zTq424AplZIKaYfECOGlrq6keAEFF/kYTl6qYJ9VfDcNadSPszGqnQlBfmwaHT32pKXIzO2ymScZfk7N33HxblErGEt42A8RRgSODUTogpCSmIQvLg07Y1MrKjXcsdN3Bsarj/nhWN0H/ZuhNA==;FNKOYSg8VZQuMn1lDBU9LQ=="
 ---

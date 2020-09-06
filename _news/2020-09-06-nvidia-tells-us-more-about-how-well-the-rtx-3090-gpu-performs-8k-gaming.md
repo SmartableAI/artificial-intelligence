@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Nvidia Rolls Out Next-Generation GeForce RTX 30 Series GPUs"
-excerpt: "Nvidia CEO Jensen Huang called the new cards a 'generational leap,' and introduced other new tech aimed at hardcore gamers."
-publishedDateTime: 2020-09-01T23:03:00Z
-originalUrl: "https://www.thestreet.com/investing/nvidia-rolls-out-new-geforce-rtx-30-series-gpus"
-webUrl: "https://www.thestreet.com/investing/nvidia-rolls-out-new-geforce-rtx-30-series-gpus"
-ampWebUrl: "https://www.thestreet.com/.amp/investing/nvidia-rolls-out-new-geforce-rtx-30-series-gpus"
-cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-rolls-out-new-geforce-rtx-30-series-gpus"
+title: "Nvidia tells us more about how well the RTX 3090 GPU performs 8K gaming"
+excerpt: "Nvidia’s GeForce RTX 3090 launch saw the firm declare that its top-end Ampere graphics card can handle 8K gaming smoothly – meaning at 60 frames per second (fps) – but now further details have been shared on what kind of frame-rates we can expect with various games,"
+publishedDateTime: 2020-09-06T13:00:00Z
+originalUrl: "https://www.techradar.com/au/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
+webUrl: "https://www.techradar.com/au/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
+ampWebUrl: "https://www.techradar.com/au/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: TheStreet.com
-  domain: thestreet.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://content.jwplatform.com/thumbs/7kcZuaxD-720.jpg"
-    width: 720
-    height: 406
+  - url: "https://cdn.mos.cms.futurecdn.net/ZY3deEipHnrs5a3gWYKjcZ-1200-80.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -43,22 +47,6 @@ related:
         width: 1200
         height: 781
         isCached: true
-  - title: "Nvidia tells us more about how well the RTX 3090 GPU performs 8K gaming"
-    excerpt: "Nvidia’s GeForce RTX 3090 launch saw the firm declare that its top-end Ampere graphics card can handle 8K gaming smoothly – meaning at 60 frames per second (fps) – but now further details have been shared on what kind of frame-rates we can expect with various games,"
-    publishedDateTime: 2020-09-06T13:00:00Z
-    webUrl: "https://www.techradar.com/au/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZY3deEipHnrs5a3gWYKjcZ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "LG launches 8K OLED TVs with NVIDIA GeForce RTX 30 Series GPU support"
     excerpt: "Electronics brand LG has expanded its product portfolio with the launch of a new range of 8K OLED TVs. The company is said to be the first TV manufacturer to commercialize 8K OLED"
     publishedDateTime: 2020-09-02T09:48:00Z
@@ -74,6 +62,22 @@ related:
       - url: "https://static.toiimg.com/photo/msid-77888361/77888361.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Nvidia Rolls Out Next-Generation GeForce RTX 30 Series GPUs"
+    excerpt: "Nvidia CEO Jensen Huang called the new cards a 'generational leap,' and introduced other new tech aimed at hardcore gamers."
+    publishedDateTime: 2020-09-01T23:03:00Z
+    webUrl: "https://www.thestreet.com/investing/nvidia-rolls-out-new-geforce-rtx-30-series-gpus"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/nvidia-rolls-out-new-geforce-rtx-30-series-gpus"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-rolls-out-new-geforce-rtx-30-series-gpus"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://content.jwplatform.com/thumbs/7kcZuaxD-720.jpg"
+        width: 720
+        height: 406
         isCached: true
   - title: "Nvidia announces GeForce RTX 30 series GPUs"
     excerpt: "The GPUs take advantage of the second-generation Nvidia RTX PC gaming platform to provide real-time ray tracing and AI gaming. The RTX 30 series was unveiled during a virtual launch event by Nvidia founder and CEO Jensen Huang, who also announced that ..."
@@ -113,6 +117,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "o/HZjJS1x9OFGroNydqrMzh9/n+gbxiuP8nG3I+Zus1IPGGmjrcfYi45auwMh4oxfMXvVEi0Va4pN86NrV9s2kNUXmq6WfeHIaeDjozugvMRT3QIurGp2i1UOB2IwQX4KMKOFJv4CPzpMnntyHzp1P5FdSexLGvFnk0T5HRBp8nQqvAtw0RLmm0JO/gJODYj88RjvzeHsjQh68CEs8sg1GqlXJthwDhJkSuo9hhVBU9rNW67C/Kik2A0bGXuRPlzHTYzsEVuo849JqMVnOi/UvmIibGNUoGdj9Lvvj0t50nVcIlKMWT08sryy87024ZLhw0JXIsDqRzOqc4wwGB4aVh+VEmzOCO2drNdB3xn3rYd6E9Q7bwY0w/AbSVhfqh1J85iDbFN4xjalsEb/aKpvsGXe4NIx+9u7/Z6uTePkeAygrJCbqrmTHcEMGQ4YtXdpjcWIn6CN/y/jD7CU+9QJS7dGb6/aU/4kggYGPJAbFKPC63SQBLOyt9j0frvHetLzrt7pjGaU0OBGru5hNQZTRiG/xj7wXg2O1q9DtjVnrI=;UVlyUaJgiF2NxAnw3f0bGw=="
+secured: "IH74Pq4SfqxoD3ttf+NKQ2C5S7AOJ73qUuLh7VpgX4buRIdk0InhN7m22YQMYqfwSVclbzbRSecyPD/ClWWQpnuMNT1gApdu08cBsd1Ublt8ceqPVSw+Y+v8T/A6IixlL/0Lfnufs07kM56weHLWfQk3tL9PFbx7Og4ujjAl6fhyoDW3c/qZYTEmLJen80NdYw0z5oy6WONXD8iw8+gw/ycVXIAC8lF0PEWz3gFM2nuYhdn/aEfX0Pu50idOUWVhqLQzjvCcZXk9yvc0tiKPxU8i21oQ3Rz/3wkkyyIh/b1iDwKgDQ6vGlQLbfYwnhR6oYAjCydb3TY9PdJqPQk7/cYdUTQq0Nf5daMY+zYqRNc=;YSimqMikLXPBJKnmma40gA=="
 ---
 
