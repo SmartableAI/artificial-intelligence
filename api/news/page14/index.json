@@ -2,6 +2,55 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-08-25-how-insurers-can-help-enterprises-with-ai-adoption.md",
+      "title": "How Insurers Can Help Enterprises With AI Adoption",
+      "excerpt": "Insurance companies have quantified and mitigated new types of risk for centuries. There's no reason this trend shouldn't continue with AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43baedc0067df365f1cd90%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/amp/",
+      "publishedDateTime": "2020-08-25T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-baidu-creates-worlds-largest-chinese-natural-language-processing-database.md",
       "title": "Baidu creates ‘world’s largest’ Chinese natural language processing database",
       "excerpt": "Baidu launched Qian Yan, which it says is the largest Chinese database for natural language processing, among other AI-related products on Tuesday.",
@@ -1096,57 +1145,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-how-the-human-machine-workforce-is-being-accelerated-by-covid-19.md",
-      "title": "How The Human + Machine Workforce Is Being Accelerated By COVID-19",
-      "excerpt": "Human + Machine partnerships are becoming even more critical and seeing greater investment and adoption as Covid-19 forces companies to innovate and digitally transform businesses faster to stay profitable and meet customers where they are.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/08/24/how-the-human--machine-workforce-is-being-accelerated-by-covid-19/",
-      "originalUrl": "https://www.forbes.com/sites/danielnewman/2020/08/24/how-the-human--machine-workforce-is-being-accelerated-by-covid-19/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f407a4da70df15485083a3b%2F0x0.jpg",
-          "width": 1200,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/08/24/how-the-human--machine-workforce-is-being-accelerated-by-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/08/24/how-the-human--machine-workforce-is-being-accelerated-by-covid-19/amp/",
-      "publishedDateTime": "2020-08-24T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/heres-how-google-maps-uses-ai-t
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 1599
         height: 1066
         isCached: true
+  - title: "Google Maps Adds DeepMind AI to Calculate Your Arrival Time More Accurately"
+    excerpt: "As people traverse over 1 billion km with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine"
+    publishedDateTime: 2020-09-05T09:56:00Z
+    webUrl: "https://www.techshout.com/artificial-intelligence/2020/04/google-maps-adds-deepmind-ai-to-calculate-your-arrival-time-more-accurately/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 17
 
 secured: "tg60+Kj9RgdCd7Atsjc93TzQlOmD+nhij3+bk0dLi4gbCZ9paDMF8KM0j35GNc7Gs8G40AsTA5h2zTNb5Xh+QOFzHCRIrKsd4afDZ3YARnLn4+bNcqm+QrTn2LlSm2Y8DM83jOBRGn9Ioev9AMxslfDh5UA7z7DKJr5rArvF8LA6S9hTs7tAcvXCi89jNAxDJA9sRrJdyUrsyBNQSE5vh/kiH35nUPojGkLhpDK+8tkaAjK7nQQ2h8E42t8+TL40vhfp5zr4koSa58teVGfjWwR+AQybZc7o+XIElIcWkNTXvHMBEsTt+jQHD0B7r7oiBUvg1LHLxQ/fZTBLrCKXH2eW5dPS3zoae4WnX99Sy/4e8etDjL55vi78i04i58rXKtbDBy0h8scksNCtRC15U1OPPblnQlzDgAzEg88VzlG/NO2fufjuJOinEacV15o2tUUHQsXH//pLK6NbTF+/CShlJNZjDCBG1Rz3sHjvvffHH430cU+x/b3hGo5P5P7+hV41FpEMELG8WVL571HRB/UIYUAF39Y6XN5+UrEBNcs=;07vP3ehLYA073YM0y4yhRA=="
 ---

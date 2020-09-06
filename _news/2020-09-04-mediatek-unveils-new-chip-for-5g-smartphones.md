@@ -44,15 +44,6 @@ related:
       name: Voicendata.com
       domain: voicendata.com
     quality: 36
-  - title: "MediaTek unveils chip for premium 4G gaming smartphones"
-    excerpt: "The chip offers an AI Super Resolution' display for superior video calling and video streaming on various platforms like Netflix, Hotstar and Amazon Prime. It can support video qualities ranging ..."
-    publishedDateTime: 2020-09-01T10:58:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200901/3619261.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "MlX8XwDTyTEGZuQzOTXOuSTLHD+KhhsCxLrh465CnsuGiacpOrqw7+3NrnnLOfLidqeTqB/EoXkWjxmFA23c8t19JdFxdYShn4f5Ws7LgcNqhU/0OzUBtYp3gxNbYY+4NvJyO4bNYFOIT+kJj4oQl98LyQ3qV7y7gWmfe3YgNdt6EQvY7zgAVsGwz2b+/op1b/3lqpHJ0Uask2T5c0oDroFOrQ0fTyhoBitYvYB90FfzTeOnGYMVdPSFKxhve6Nt3NqE7hInzLzRzszW8cRiJF3ulkdSCVoflT2gunE672n4RYJ/DF4V+O5m9sCiRQnrJ2rhvyJ1lPDKCu6KJ6TfBfPZxiiLO5eV9sdZcWsaApE=;5DW4FKTQZ8ydb/jJyyMEZA=="
 ---

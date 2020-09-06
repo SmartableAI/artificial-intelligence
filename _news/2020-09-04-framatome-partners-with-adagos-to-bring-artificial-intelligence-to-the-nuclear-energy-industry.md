@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-04T06:37:00Z
 originalUrl: "https://www.powermag.com/press-releases/framatome-partners-with-adagos-to-bring-artificial-intelligence-to-the-nuclear-energy-industry/"
 webUrl: "https://www.powermag.com/press-releases/framatome-partners-with-adagos-to-bring-artificial-intelligence-to-the-nuclear-energy-industry/"
 type: article
-quality: 25
+quality: 27
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.powermag.com/wp-content/uploads/2017/09/fc_pwr_030120.jpg"

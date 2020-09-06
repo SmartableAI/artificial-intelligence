@@ -63,6 +63,15 @@ related:
         width: 1599
         height: 1066
         isCached: true
+  - title: "Google Maps Adds DeepMind AI to Calculate Your Arrival Time More Accurately"
+    excerpt: "As people traverse over 1 billion km with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine"
+    publishedDateTime: 2020-09-05T09:56:00Z
+    webUrl: "https://www.techshout.com/artificial-intelligence/2020/04/google-maps-adds-deepmind-ai-to-calculate-your-arrival-time-more-accurately/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 17
 
 secured: "JcfKb08oxsucvoMd8Qqv82ASxA/eMvHgcU/KJXOc8k1551DJy+fHGnHcB6qup3n2O7LCqb021/vovh6ED96EBxzh/7Qtq7ezuB7qm4jtpgXx0cAaNB1Oaf4Wp5X6/rQ6lCpwRQMwkwgbDhaTJ4IRJxFyl4o9f6jBCVkrHqGPgPL94XzHD2MjsJE/oNa2kywu4+f+hlP5NIY5JjK0YTO/HXBWGjUs+LzAdNsu/wLm++vA0Vl5q6t4uDmbtTLcwybvk8atvCSlZMb2JicKwY/rgxYo2uxBapro31xoAslDI18PmFhz5lgE/T1XUfQf/m61VvxYz+/KUhCfl5lW8hzp1oxNZIgIfK0kqBcAmh6+UkfPf5JBM6x0s4dHUOmomkzGYrBMeNTIlZpFqscZg9XUukWjAKnfDKdy5dllvATi6dLABmrazjV63xTgH+AhVGrSu+b7dnjd2+yGftIVmxaf71tNipFOFx5zB8K83c3sO1D/E0yEDCN+eKz7eAYPJc/WWDM0PvzPEkUWNjMPTI5dejz6b6DqBz8EmHz1MJdx1ng=;wrdRzbd5yiesL1oK4tOIOw=="
 ---

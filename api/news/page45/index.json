@@ -2,6 +2,47 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-07-30-artificial-intelligence-for-healthcare-insights-from-india.md",
+      "title": "Artificial Intelligence for Healthcare: Insights from India",
+      "excerpt": "This paper describes some of the main opportunities and challenges of using AI in healthcare. It then turns to a case study of the use of AI for healthcare purposes in India, discussing key applications, challenges and risks in this context.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chathamhouse.org/publication/artificial-intelligence-healthcare-insights-india",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chathamhouse.org/sites/default/files/styles/main_image_800x460/public/images/GettyImages-691077118.jpg?itok=8IV3dmDG",
+          "width": 800,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chathamhouse.org/publication/artificial-intelligence-healthcare-insights-india?amp",
+      "cdnAmpWebUrl": "https://www-chathamhouse-org.cdn.ampproject.org/c/s/www.chathamhouse.org/publication/artificial-intelligence-healthcare-insights-india?amp",
+      "publishedDateTime": "2020-07-30T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chatham House",
+        "domain": "chathamhouse.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-microsoft-is-taking-this-windows-10-linux-tool-back-fromfacebook.md",
       "title": "Microsoft is taking this Windows 10 Linux tool back from...Facebook?",
       "excerpt": "Microsoft has revealed it has taken control of a popular open-source machine learning library for Windows 10 Linux systems that was originally created by Facebook. Used by developers across Linux and Windows,",
@@ -1067,56 +1108,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-google-claims-its-new-tpus-are-27-times-faster-than-the-previous-generation.md",
-      "title": "Google claims its new TPUs are 2.7 times faster than the previous generation",
-      "excerpt": "Google points to the latest MLPerf benchmark results as evidence its newest TPUs are up to 2.7 times faster than the previous generation in AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/29/google-claims-its-new-tpus-are-2-7-times-faster-than-the-previous-generation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/29/google-claims-its-new-tpus-are-2-7-times-faster-than-the-previous-generation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/29/google-claims-its-new-tpus-are-2-7-times-faster-than-the-previous-generation/amp/",
-      "publishedDateTime": "2020-07-29T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

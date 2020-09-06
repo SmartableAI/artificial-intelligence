@@ -33,7 +33,7 @@ related:
     provider:
       name: POWER Magazine
       domain: powermag.com
-    quality: 25
+    quality: 27
     images:
       - url: "https://www.powermag.com/wp-content/uploads/2017/09/fc_pwr_030120.jpg"
         width: 300

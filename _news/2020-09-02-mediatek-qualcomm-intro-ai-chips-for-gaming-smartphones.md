@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20200902PD206.html"
 webUrl: "https://www.digitimes.com/news/a20200902PD206.html"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: Voicendata.com
       domain: voicendata.com
     quality: 36
-  - title: "MediaTek unveils chip for premium 4G gaming smartphones"
-    excerpt: "The chip offers an AI Super Resolution' display for superior video calling and video streaming on various platforms like Netflix, Hotstar and Amazon Prime. It can support video qualities ranging ..."
-    publishedDateTime: 2020-09-01T10:58:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200901/3619261.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "MediaTek unveils new chip for 5G smartphones"
     excerpt: "\"MediaTek is focused on giving consumers more options and expanding access to 5G devices so that everyone can enjoy the premium features and speeds that are defining the next era of mobile computing,\" Yenchi Lee,"
     publishedDateTime: 2020-09-04T11:36:00Z

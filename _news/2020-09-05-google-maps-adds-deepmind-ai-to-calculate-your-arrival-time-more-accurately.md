@@ -1,30 +1,22 @@
 ---
 category: news
-title: "How Google Maps predicts traffic slowdowns before they happen"
-excerpt: "Google said Google Maps now uses DeepMind AI technology in its algorithms “to better predict whether or not you’ll be affected by a slowdown that may not have even started yet.” Aside from ..."
-publishedDateTime: 2020-09-03T21:59:00Z
-originalUrl: "https://bgr.com/2020/09/03/google-maps-features-waze-incident-reports-deepmind-ai-eta/"
-webUrl: "https://bgr.com/2020/09/03/google-maps-features-waze-incident-reports-deepmind-ai-eta/"
-ampWebUrl: "https://bgr.com/2020/09/03/google-maps-features-waze-incident-reports-deepmind-ai-eta/amp/"
-cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/09/03/google-maps-features-waze-incident-reports-deepmind-ai-eta/amp/"
+title: "Google Maps Adds DeepMind AI to Calculate Your Arrival Time More Accurately"
+excerpt: "As people traverse over 1 billion km with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine"
+publishedDateTime: 2020-09-05T09:56:00Z
+originalUrl: "https://www.techshout.com/artificial-intelligence/2020/04/google-maps-adds-deepmind-ai-to-calculate-your-arrival-time-more-accurately/"
+webUrl: "https://www.techshout.com/artificial-intelligence/2020/04/google-maps-adds-deepmind-ai-to-calculate-your-arrival-time-more-accurately/"
 type: article
-quality: 44
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: BGR
-  domain: bgr.com
+  name: TechShout
+  domain: techshout.com
 
 topics:
-  - Google AI
+  - Machine Learning
   - AI
-
-images:
-  - url: "https://bgr.com/wp-content/uploads/2020/08/google-maps-vs-waze-navigation-apps.jpg?quality=70&#038;strip=all"
-    width: 1599
-    height: 1066
-    isCached: true
 
 related:
   - title: "Here's how Google Maps uses AI to predict traffic and calculate routes"
@@ -59,16 +51,23 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Google Maps Adds DeepMind AI to Calculate Your Arrival Time More Accurately"
-    excerpt: "As people traverse over 1 billion km with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine"
-    publishedDateTime: 2020-09-05T09:56:00Z
-    webUrl: "https://www.techshout.com/artificial-intelligence/2020/04/google-maps-adds-deepmind-ai-to-calculate-your-arrival-time-more-accurately/"
+  - title: "How Google Maps predicts traffic slowdowns before they happen"
+    excerpt: "Google said Google Maps now uses DeepMind AI technology in its algorithms “to better predict whether or not you’ll be affected by a slowdown that may not have even started yet.” Aside from ..."
+    publishedDateTime: 2020-09-03T21:59:00Z
+    webUrl: "https://bgr.com/2020/09/03/google-maps-features-waze-incident-reports-deepmind-ai-eta/"
+    ampWebUrl: "https://bgr.com/2020/09/03/google-maps-features-waze-incident-reports-deepmind-ai-eta/amp/"
+    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/09/03/google-maps-features-waze-incident-reports-deepmind-ai-eta/amp/"
     type: article
     provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 17
+      name: BGR
+      domain: bgr.com
+    quality: 44
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2020/08/google-maps-vs-waze-navigation-apps.jpg?quality=70&#038;strip=all"
+        width: 1599
+        height: 1066
+        isCached: true
 
-secured: "INtDJCNFXZxwDIc7ymhOrWzeChCDU/z83+XxJoJPS5weEiHmkhxbR4AXOKF/k5F+rDHSA+xjDzrgXZ7t3BCMh2z6HQvmYZDtSs5Ge5QO9X+6GVR4SPboJTT3uzlabxVt2yStxm9LYMk1mIQcj2xQbXbCqM0eghlDKvUqB0R3rDomBW0XrYD0qvhkdZflFMFZQk94khCD2xmgUIhwOD9tVt8heiRQ7malo0uX1jtf5+kPJBSXajJVh2MzEtq+kZ2I/ubBIvBbbQ0yzN/YxMYq/8Lp/Ona34pEfuy3rBsyeBCMDY9S2llRhX53fP+1car6df+HT2ZJsGcKLRDN4PphNG5yerZXjxnqMU4JCweuZT95y4rX4S29fuv7U/I1cvqKUDu5mcYofIBeftX4oB5XZPi3jkP8RnINcenbZH8wxBIdVxwa9MZFn9XxlxgPDImjGUWOEXwRHGPPyaUROzySXc38ir+v0I412PlDalPiz5UlRov8tCaKMZ8743SuQey4d4OObrpWiWB81JzB6WTzh+mcYqNkwy678NIPo7Eo53Y=;6isED3O/VgD+Jl7ZbZm5aA=="
+secured: "0OJ3/lWAqPNUlasYYneXhahf+sEsdG12TpgyYt7GrbygFPMYGj8XovMpipmOlgIqD3JMS1rn9Hv6M4MXBqpCB72nxiEPBa2lMUmM0crlVOBO+eHzLSYaoxawYFwPtMUYvDMKSow/SM92tLnX5DVwcV2l2UFkIOw1oRzSu4fU3lBJ8vJ8wKw4gTcWlLsEuuGbLKEX0u5OMJU/oV2uM7Jv98PNiBBfv9AmU0DdnvENSk3yM1Vu6BEBTmdbdYbhrF8i/s2Y2Cgv3MSVi//W3CP2kvtvLj0cQ7TVeqx7hSfv5S6VmvgY9EUOLD5dXkFa44UI1TsCGT9r+Sv93TSjTHN1JsCaKitvecUlfWmjL42emHg=;4E1quVPdlXQIziz/xay1Yw=="
 ---
 

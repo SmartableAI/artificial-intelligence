@@ -2,6 +2,56 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-08-26-microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global.md",
+      "title": "Microsoft researcher Dr. Cecily Morrison will discuss keeping AI “personal” at Sight Tech Global",
+      "excerpt": "For Dr. Cecily Morrison, research into how AI can help people who are blind or visually disabled is deeply personal. It’s not only that the Microsoft Principal Researcher has a 7-year-old son who is blind,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/",
+      "originalUrl": "https://techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/",
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/sight-tech-global-1000px-v2.jpg?w=1000",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/amp/",
+      "publishedDateTime": "2020-08-26T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-us-increases-funding-for-ai-and-quantum-information-science.md",
       "title": "US Increases Funding for AI and Quantum Information Science",
       "excerpt": "US Increases Funding for AI and Quantum Information Science; Penny Stocks Have a Bad Rap but Some of Them May Hold the Future of Technology; Multi-dimensional Quantum Commun",
@@ -1062,55 +1112,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-3-strategies-for-enterprise-ai-success.md",
-      "title": "3 strategies for enterprise AI success",
-      "excerpt": "Especially during turbulent times, AI enables companies to draw customers closer, streamline to reduce costs, and become more agile than competitors.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/",
-      "originalUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-912547822.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/amp/",
-      "publishedDateTime": "2020-08-26T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

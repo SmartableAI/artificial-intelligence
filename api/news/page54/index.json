@@ -2,6 +2,56 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-07-23-how-ai-can-improve-financial-analytics.md",
+      "title": "How AI Can Improve Financial Analytics",
+      "excerpt": "In recent discussions with CIOs and senior management team members at Financial Services firms, a few of which are former students of mine, the topic of how AI and machine learning is revolutionizing the financial services landscape came up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/23/how-ai-can-improve-financial-analytics/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1170740952%2F0x0.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/23/how-ai-can-improve-financial-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/23/how-ai-can-improve-financial-analytics/amp/",
+      "publishedDateTime": "2020-07-23T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-voice-tech-the-past-present-and-future.md",
       "title": "Voice tech: The past, present, and future",
       "excerpt": "A virtual panel made up of executives from NVIDIA Inception, Deepgram, and Sharpen discussed the state of conversational speech technology in the enterprise.",
@@ -1120,55 +1170,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-push-is-on-for-more-artificial-intelligence-in-supply-chains.md",
-      "title": "Push is on for more artificial intelligence in supply chains",
-      "excerpt": "The word on the street is that artificial intelligence efforts have not been delivering the impressive results everyone has been hoping for. The payoff, however, is likely to be found in well-targeted placements in which AI is handling, in real-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/push-is-on-for-more-artificial-intelligence-in-the-supply-chain/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/04/3cd4dc4c-450b-4b23-bc14-c6bfca2f43cf/thumbnail/1200x675/bef5ecfbcd3f707a7894abde7d72b053/data-center-nasa-photo-credit-nasa-office-of-the-cio.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/push-is-on-for-more-artificial-intelligence-in-the-supply-chain/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/push-is-on-for-more-artificial-intelligence-in-the-supply-chain/",
-      "publishedDateTime": "2020-07-22T20:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

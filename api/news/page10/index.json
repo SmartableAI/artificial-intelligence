@@ -1071,36 +1071,27 @@
       ]
     },
     {
-      "path": "_news/2020-08-26-microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global.md",
-      "title": "Microsoft researcher Dr. Cecily Morrison will discuss keeping AI “personal” at Sight Tech Global",
-      "excerpt": "For Dr. Cecily Morrison, research into how AI can help people who are blind or visually disabled is deeply personal. It’s not only that the Microsoft Principal Researcher has a 7-year-old son who is blind,",
+      "path": "_news/2020-08-27-new-neural-network-differentiates-middle-and-late-stone-age-toolkits.md",
+      "title": "New neural network differentiates Middle and Late Stone Age toolkits",
+      "excerpt": "The change from Middle Stone Age (MSA) to Later Stone Age (LSA) marks a major cultural change amongst our hunter-gatherer ancestors, but distinguishing between these two industrial complexes is not straightforward.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/",
-      "originalUrl": "https://techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/08/200826140909.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/08/200826140909.htm",
       "featuredContent": null,
-      "heat": 76,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/sight-tech-global-1000px-v2.jpg?w=1000",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/amp/",
-      "publishedDateTime": "2020-08-26T10:41:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-26T11:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1116,8 +1107,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
+        "Machine Learning",
+        "AI"
       ]
     }
   ],
