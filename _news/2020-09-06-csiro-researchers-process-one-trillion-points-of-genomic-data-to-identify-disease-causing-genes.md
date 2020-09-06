@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "CSIRO uses AI to crunch a trillion genomic data points"
-    excerpt: "CSIRO researchers crunched one trillion genomic data points in the cloud to help locate parts of the human genome that cause disease. The CSIRO's bioinformatics group used its own VariantSpark artificial intelligence (AI) based platform,"
-    publishedDateTime: 2020-09-02T01:51:00Z
-    webUrl: "https://www.itnews.com.au/news/csiro-uses-ai-to-crunch-a-trillion-genomic-data-points-552745"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/dna_genetics_genome_1.jpg"
-        width: 1009
-        height: 673
-        isCached: true
 
 secured: "3UzTD8P1P7CpbdT+XE6Cmpln5BL5I1E4xSDhfSZigX3/8OggQs+CquYppETI65wuvQXHCJoYL16hY0gAr+8mMbCDFvPtly0rZyRuifZUmpwqw39WnTQ8chp9jkt/OY/ujZR0/UUX7Lv3EfA9tgaDyMcSLXZb6TWzVyATbtXgUmhnf3r7Gkn5oZBKIDKzmoCXC7Ne0K1OuqZc/B8mvzL7+fO+qVzu7t3NFPgP6XV1EsWPkwwFyD4wu7Kp9BT0oicdUYvL26Tvo+VnSRGheEHYh30MQpq4uRzT/2SlRs9MrJ7gN3Sj2NqW2SlOTx6e8jEHQO1CQ9CL0msBrcz27I/TfyfkxFisteyOaz5zvvdVMYG9uiNhbF9q6ycqEgcNArnZwLn4gPCxrKZpN3iWqrcoU4JFeVwb2flhfFTS6DbU1nWEE1CXPDxXMGRWHZBD7hvqArhFE6cLMaRWdSwkXZ/CM/o/SDi0aoBjCTBagJe3i9ivmMPGR0bTgLygnp4D6nDIK18WYeFW+K1hCCL3rBi7Ny6fMPOvS9Nz9H0LjDbInkM=;f0cO46qEl1C4sav/0aS+Ug=="
 ---

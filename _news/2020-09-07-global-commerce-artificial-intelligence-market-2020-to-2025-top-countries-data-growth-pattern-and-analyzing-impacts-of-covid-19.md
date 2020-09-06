@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Covid-19 Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 - Dynamics, Trends, Revenue, Forecast to 2026"
-excerpt: "Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 ndash Dynamics Trends Revenue Forecast to 2026"
-publishedDateTime: 2020-09-03T11:59:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/266288531/covid-19-impact-on-global-artificial-intelligence-education-technology-market-analysis-2020---dynamics-trends-revenue-forecast-to-2026"
-webUrl: "https://www.bignewsnetwork.com/news/266288531/covid-19-impact-on-global-artificial-intelligence-education-technology-market-analysis-2020---dynamics-trends-revenue-forecast-to-2026"
+title: "Global Commerce Artificial Intelligence Market 2020 to 2025 Top Countries Data, Growth Pattern and Analyzing Impacts Of COVID-19"
+excerpt: "An analysis report published by MarketsandResearch.biz entitled Global Commerce Artificial Intelligence Market"
+publishedDateTime: 2020-09-06T19:08:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-commerce-artificial-intelligence-market-2020-to-2025-top-countries-data-growth-pattern-and-analyzing-impacts-of-covid-19-2020-09-06"
+webUrl: "https://www.marketwatch.com/press-release/global-commerce-artificial-intelligence-market-2020-to-2025-top-countries-data-growth-pattern-and-analyzing-impacts-of-covid-19-2020-09-06"
 type: article
-quality: 4
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cus1599124582181.jpg"
-    width: 630
-    height: 420
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -66,21 +70,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Commerce Artificial Intelligence Market 2020 to 2025 Top Countries Data, Growth Pattern and Analyzing Impacts Of COVID-19"
-    excerpt: "An analysis report published by MarketsandResearch.biz entitled Global Commerce Artificial Intelligence Market"
-    publishedDateTime: 2020-09-06T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-commerce-artificial-intelligence-market-2020-to-2025-top-countries-data-growth-pattern-and-analyzing-impacts-of-covid-19-2020-09-06"
+  - title: "Covid-19 Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 - Dynamics, Trends, Revenue, Forecast to 2026"
+    excerpt: "Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 ndash Dynamics Trends Revenue Forecast to 2026"
+    publishedDateTime: 2020-09-03T11:59:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266288531/covid-19-impact-on-global-artificial-intelligence-education-technology-market-analysis-2020---dynamics-trends-revenue-forecast-to-2026"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 4
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.bignewsnetwork.com/cus1599124582181.jpg"
+        width: 630
+        height: 420
         isCached: true
 
-secured: "LnMZmpOGzf8lKtBadz+V0uXDF+A7DlXVfLJvuTANnt7bH0DIc7ahYXEitkLoWBONN8pX+Cs8Dl5hvJa62YnZl41qCmK6bFJ+NJ3ATG67Gx0hAlzJlgbuEXW7LZVRoUpBzeprDAcMVo2Y0zwAT2K9mUnFSgPnXM0Qg+R5TO7QcdFj7qPHdSxh1C/JpnEojfqdSysSB1GGuD5C7Y+3Z5V1Np4MB9Jp9LOvCCnV2y3wxatCdZXxKM7oyJ4QrAdAD6YXlnJPs046oeJPMS1NJGXxQ0uRnegiOOd9Vh4ohHK//XksNnEcZ1pDX8W8H2DzMWcjufkv91rpEQUUeW95m0oJssKLce2kuWWvjyOFrwvQ3A0=;90Zi55tMzDfIQ4x8KKVC/A=="
+secured: "rcxT3DYhOpShiU8T4JmFHwofHg7I+R9a4543A3S9y9XeQMdwcAMStpH+jp5QzokAXy8WLvbWKsI5MCuDLrxz5x2UrO3cpC/VS34kFMO80hsBv2vr5iM8jxJ2FAoLQeQ5kxC7TFfg2mNlSRgAFoRlIhlMfRBxDKIKiqWt8p4AZEd76WobLJ/JcRb0/fRO1v9rqfjOIBAeicT7pNpAL24P8wgH84Rro0BefEaWCPi5PMUpLSVG8vfUXP/5JZvRjQKZB15DG/G+S+h5lTP0DRMoh/WpYE10dLY4kcKJlwfBXwYRZxPoSx5ykdI4QmF2Uk2EGifI2L/Nozf5UTB7D9/TOPdi/4WDzmF0/IMoFZtVuts=;s8Y7gA1zNJuc/Xxm+EGxPg=="
 ---
 

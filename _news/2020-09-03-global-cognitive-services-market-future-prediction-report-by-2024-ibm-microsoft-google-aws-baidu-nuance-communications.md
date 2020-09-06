@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-cognitive-service
 webUrl: "https://www.marketwatch.com/press-release/global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications-2020-09-03?mod=mw_quote_news"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI over Edge Computing Market 2020 Competitive Dynamics, Growth Analysis, Segmentation and Worldwide Players Strategies up to 2025"
+    excerpt: "An analysis report published by MarketsandResearch.biz entitled Global AI over Edge Computing Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is an in-depth study and detailed information regarding the market size,"
+    publishedDateTime: 2020-09-06T18:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-competitive-dynamics-growth-analysis-segmentation-and-worldwide-players-strategies-up-to-2025-2020-09-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

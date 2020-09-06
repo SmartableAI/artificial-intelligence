@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 561
         isCached: true
-  - title: "Sarcos Robotics Raises $40 Million in Series C Funding"
-    excerpt: "Today, Sarcos Robotics, a global leader in the production of robots that augment humans to enhance productivity and safety, announced that it has raised $40 million in an oversubscribed Series C financing round."
-    publishedDateTime: 2020-09-02T01:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200901005081/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 69
-    images:
-      - url: "https://mms.businesswire.com/media/20200901005081/en/817041/23/Sarcos_Vertical-blue_2019.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "AI startup Entropik Tech raises $8 million in funding led by Alpha Wave"
     excerpt: "Entropik plans to utilise the funds to expand its presence to the US, European Union and South East Asia, and to deepen its artificial intelligence capabilities"
     publishedDateTime: 2020-09-02T08:51:00Z

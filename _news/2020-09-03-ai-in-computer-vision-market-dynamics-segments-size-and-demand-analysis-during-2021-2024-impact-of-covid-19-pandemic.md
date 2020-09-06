@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Commerce Artificial Intelligence Market 2020 to 2025 Top Countries Data, Growth Pattern and Analyzing Impacts Of COVID-19"
+    excerpt: "An analysis report published by MarketsandResearch.biz entitled Global Commerce Artificial Intelligence Market"
+    publishedDateTime: 2020-09-06T19:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-commerce-artificial-intelligence-market-2020-to-2025-top-countries-data-growth-pattern-and-analyzing-impacts-of-covid-19-2020-09-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

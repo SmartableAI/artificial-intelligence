@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI over Edge Computing Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
+    excerpt: "Sep 06, 2020 (CDN Newswire via Comtex) -- MarketsandResearch.biz has introduced a new report titled Global AI over Edge Computing Market 2020 by Company, Type and Application, Forecast to 2025 that offers an all-encompassing analysis of recent and upcoming ..."
+    publishedDateTime: 2020-09-06T19:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2020-09-06?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence for Drug Discovery and Development Market to Reach $4.81 Billion by 2027: AMR"
     excerpt: "Surge in cross industry co"
     publishedDateTime: 2020-09-02T12:50:00Z

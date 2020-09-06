@@ -3,8 +3,8 @@ category: news
 title: "Dreamcatcher is an A.I. that could help analyze the world’s dreams"
 excerpt: "Researchers from Nokia Bell Labs in the U.K. have built Dreamcatcher, an A.I. tool that can help analyze written reports of dreams and extract meaning."
 publishedDateTime: 2020-09-06T13:28:00Z
-originalUrl: "https://www.digitaltrends.com/features/dreamcatcher-ai-analyze-dreams/?itm_source=3&itm_content=4x6&itm_term=2376926"
-webUrl: "https://www.digitaltrends.com/features/dreamcatcher-ai-analyze-dreams/?itm_source=3&itm_content=4x6&itm_term=2376926"
+originalUrl: "https://www.digitaltrends.com/features/dreamcatcher-ai-analyze-dreams/"
+webUrl: "https://www.digitaltrends.com/features/dreamcatcher-ai-analyze-dreams/"
 ampWebUrl: "https://www.digitaltrends.com/features/dreamcatcher-ai-analyze-dreams/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/dreamcatcher-ai-analyze-dreams/?amp"
 type: article
@@ -24,6 +24,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "pHtrV8WA5jL3WhVSu+29HypzqF5sSQSQJZ2KbgeWrjm9tngj53NV64ZYBHtczXFxgb2G4zY0iwl8tzUzy9b+4tVfyunBM+XOHLCjfZFFeZTMV9QwBDNODTjMtewi+jcowVWb2b2SFw1APGzBZrzDQXGxpk7TV0sg5Qvbk31JvA9mXMRYGj3I/Kg2LeG8xWkMTbdtpsFZowgTR0BzhKgSIMdO2W8hvuWv7afNSqefd83RB//1i0TLI5iHv+IUBVT2dTvZxarYCwNyqVYRSJEprHC2YMawvXhNTv2Ai01YxdfLqNxiY9np0aAllUikjG9VFL4ptK+xhkkaHJO44BPyHvjgFFQ3rZhtjW0dKXi1bDKdThonYkD/Uf1z19/+w3HFbzuRrFoNxJ9x4lnTcC7d3y0ZrX/++Gxii/1BE6bTTN5/pyy2zi9g/8vHNW7rGKQp9evqJrHjzk9qVp0KcXPvHiqYZC6jXkhypUQtqvjZiPG7A4E398xbsZyqP5cINNYCvDEitrtHxsnGWc9NxpkNhYv+WDMlEetQ660AbQYMp88=;pb6vL2+AjPC21ELn5ax4Ng=="
+secured: "5VjzRLlKfopNMRA6TfayXbDRkSSwwMls1oKOmHwMvBBW2aBfb5vri0glAkeXcEgnpuqA6XUOqxt8W+WnN3a9hrbpYkEX18e7oDKMFPQJnPnzdlvushRN3DevdAfuJ/b22hjbipxWW7N5b1jg/41kNAlzQaQM30kiId25saYnOaNlRYaL49xcOlmD0pWDbOfzSU5MeQBSkURGz4EYWkmQ3RVVrPn5Xhal70fZgVixehyuJa8z6k47uS4TI6JBtSEnWzRG5jLRNq8XDkN/pTSPBBRySFBl3frYQu3r76emsSWJLKq8bQLDjwsyqqCQ7+XReRgOzDzzpFeCGccuSncAN74AQ2ei5pen6J6TPrYfACHNw8DToBqs5eGrvku10qPpGTMfB9hx6AAi+ODkF0ak59CKuQCuMGost2mkt9LHLS+en78LUFQun4zsm0heCeIf0f8kYlX96rfdl37ddTuw18RNQXu9wftOgCowthVZxuLRFs1GLFZTQUd6lu5PFzAS2+rxt+QkRTX/QZwdDYRWqMYI9/yjDdEYS+v9j7ZW+yA=;VLPPZTtb+Puf5cD8l7MrBA=="
 ---
 

@@ -72,20 +72,6 @@ related:
         width: 710
         height: 399
         isCached: true
-  - title: "Sarcos Robotics Raises $40 Million in Series C Funding"
-    excerpt: "Today, Sarcos Robotics, a global leader in the production of robots that augment humans to enhance productivity and safety, announced that it has raised $40 million in an oversubscribed Series C financing round."
-    publishedDateTime: 2020-09-02T01:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200901005081/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 69
-    images:
-      - url: "https://mms.businesswire.com/media/20200901005081/en/817041/23/Sarcos_Vertical-blue_2019.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Boston startup Biofourmis raises $100m for remote medical tech"
     excerpt: "As interest in telemedicine grows, the company is using wearable sensors and software to understand patients’ vital signs and help doctors make decisions about their care from afar."
     publishedDateTime: 2020-09-02T22:12:00Z
