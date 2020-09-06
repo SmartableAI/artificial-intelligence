@@ -21,7 +21,7 @@ website: https://research.google/people/RajatMonga/
 twitter:
   username: rajatmonga
   url: https://twitter.com/rajatmonga
-  followers: 14241
+  followers: 14244
 
 linkedin:
   url: https://www.linkedin.com/in/rajatmonga/
