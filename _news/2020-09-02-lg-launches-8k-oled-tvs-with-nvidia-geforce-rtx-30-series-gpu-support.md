@@ -46,9 +46,9 @@ related:
   - title: "Nvidia tells us more about how well the RTX 3090 GPU performs 8K gaming"
     excerpt: "Nvidia’s GeForce RTX 3090 launch saw the firm declare that its top-end Ampere graphics card can handle 8K gaming smoothly – meaning at 60 frames per second (fps) – but now further details have been shared on what kind of frame-rates we can expect with various games,"
     publishedDateTime: 2020-09-06T13:00:00Z
-    webUrl: "https://www.techradar.com/nz/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
+    webUrl: "https://www.techradar.com/in/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
     type: article
     provider:
       name: TechRadar
@@ -58,22 +58,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/ZY3deEipHnrs5a3gWYKjcZ-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Nvidia Rolls Out Next-Generation GeForce RTX 30 Series GPUs"
-    excerpt: "Nvidia CEO Jensen Huang called the new cards a 'generational leap,' and introduced other new tech aimed at hardcore gamers."
-    publishedDateTime: 2020-09-01T23:03:00Z
-    webUrl: "https://www.thestreet.com/investing/nvidia-rolls-out-new-geforce-rtx-30-series-gpus"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/nvidia-rolls-out-new-geforce-rtx-30-series-gpus"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-rolls-out-new-geforce-rtx-30-series-gpus"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://content.jwplatform.com/thumbs/7kcZuaxD-720.jpg"
-        width: 720
-        height: 406
         isCached: true
   - title: "Nvidia announces GeForce RTX 30 series GPUs"
     excerpt: "The GPUs take advantage of the second-generation Nvidia RTX PC gaming platform to provide real-time ray tracing and AI gaming. The RTX 30 series was unveiled during a virtual launch event by Nvidia founder and CEO Jensen Huang, who also announced that ..."

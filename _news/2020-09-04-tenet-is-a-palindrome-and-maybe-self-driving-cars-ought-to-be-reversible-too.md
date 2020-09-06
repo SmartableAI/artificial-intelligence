@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palind
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Who Becomes Liable When a Self-Driving Car Causes An Accident?"
-    excerpt: "While they may seem years away from reality, self-driving cars are indeed going to be the future. Not only are they the next step in ensuring road safety by preventing human error, but also because the world of tomorrow is going to be based around ..."
-    publishedDateTime: 2020-09-02T00:00:00Z
-    webUrl: "https://www.sfexaminer.com/marketplace/who-becomes-liable-when-a-self-driving-car-causes-an-accident/"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 24
-    images:
-      - url: "https://www.sfexaminer.com/wp-content/uploads/2020/09/22596686_web1_injurytrial_1.jpg"
-        width: 432
-        height: 243
-        isCached: true
 
 secured: "oqFZl5yFHpwdH5O2vveoXYcgzjyjs3NVylcR4OJ9080qNzIxdZjdc6UO1hIt4ST9Q6x6ml4IPOFEXr04tZOgT6Vt8/AaCLOZBYco6FX3GhMmUgpA/gYrLWgC13xnu/bWnHWnFUEDLYYovdklDdt9DVW8WkMpOBm979mKieza/ATzeM2L8+ik9TEsGRTy+XZbgZ/+VhOKgqZNP0zDZyl6b6L/EkCSusawrEXTq/Jt6WPBGqsP5TPecO90IfFXokwIBIcwagdl6aCkbm5Fie+tn7HT6NNjfryuJmDFxZYruY0vVKXtPPOmgdzE3rI+OhkBrTyOW9b3/KUj8ssqrMPgdng4gHfGOmSYudKy80pahZ1oVw+LF0qJPBEakMTMENcnNjMllCnWji1kfglqYl3in20G0JGiI3EsTdV2AiKQ7xWgdnc9+oJdbmJVL8U0bujg3Q587gq0EvLFiOy/2r4Ipt088WtZTBGmzNIalnHCUNjbfuhATHAFHZiNt6QWWyTW543T7xjCzjk9uE0FeWlmb5sQxM38djYc8r31gIr7I1I=;IEe6jntXmbiY+dcuw2n5GA=="
 ---
