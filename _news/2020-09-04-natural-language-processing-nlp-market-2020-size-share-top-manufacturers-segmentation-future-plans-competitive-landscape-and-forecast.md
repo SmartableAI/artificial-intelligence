@@ -3,8 +3,8 @@ category: news
 title: "Natural Language Processing (NLP) Market 2020 Size, Share, Top Manufacturers, Segmentation, Future Plans, Competitive Landscape and Forecast to 2025"
 excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in"
 publishedDateTime: 2020-09-04T09:43:00Z
-originalUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-size-share-top-manufacturers-segmentation-future-plans-competitive-landscape-and-forecast-to-2025-2020-09-05?mod=mw_quote_news"
-webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-size-share-top-manufacturers-segmentation-future-plans-competitive-landscape-and-forecast-to-2025-2020-09-05?mod=mw_quote_news"
+originalUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-size-share-top-manufacturers-segmentation-future-plans-competitive-landscape-and-forecast-to-2025-2020-09-05"
+webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-size-share-top-manufacturers-segmentation-future-plans-competitive-landscape-and-forecast-to-2025-2020-09-05"
 type: article
 quality: 30
 heat: 30
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "jPOL/09Myd+SOz9zcgndEpm11zi0h4GsGP9sEajyAWqhjn7kfT/mJfn270bI7st2OlRf9hlfDMnXrrw25JqxJAgIliSCAiGQkcGq3QPrr6KPhDQG8ZiNDIUCL0TVJJTRXTaw6wZ3TO4IAbTTrgpQMeG3qObzEGpkBKTFulz0eo3DJfDzo1mP5CUC4RD8zWgl8V1k4gU95K38Cg2CeoGlJijJW4dj2QNa92MGSzs5mrTfrt0nJte0I/rimjfkFvjApEQdnvgAUW/P9nH7eO0buQkBzVPHprhSo0x4HRi/8bQqO/cYGNeMEL1pOaFdUB1EtFvlDy0g37nXidjfNc/kZZxgYastLtEFdik9E8+cu/E=;BohEOHULzC2zXwPN28KwWA=="
+secured: "EDVFHfmxrvlTLqibBYcnRk4WLw5zUcOlHmBpWwoZG3MJwRQ9r9xA9L2n9rhBBpGMBj1AVwXdPC/eL9HWk2N5PVoeLAs3hghoR0yYrFP+7XyT8vyKyvMRuv/VmXFKmq9POSMMPIh7HoBX0rqAJjzJWRb6RM69ftQu2PjMCUrGvxpIyXfs6oA8JRTI3afUVe3MFjVNpqmSu4bSz16ui771ZRvq6/Ces051Bh8xoURbf71MJl3tkpmPj7oUgIV0tanX52SEsb9/m4SGai0iJ4zG6kYv9wuV6PAdO+yP+fXVq6ejnPaVw3JLk1vBmT018RsHaS3rLLfNn69fbOSsGS6pSKULT6VyyzwyfAXpvkKG7bo=;hcCo2QSsVWwokwa8iC284g=="
 ---
 

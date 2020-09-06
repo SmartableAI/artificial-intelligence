@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Credit Sesame Named to the 2020 CB Insights Fintech 250 List of Fastest-Growing Fintech Startups"
-    excerpt: "CB Insights today named Credit Sesame to the third annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. Since its inception, Credit Sesame has focused on credit and helping consumers improve their financial health."
-    publishedDateTime: 2020-09-01T13:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/credit-sesame-named-to-the-2020-cb-insights-fintech-250-list-of-fastest-growing-fintech-startups-1029552298"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/credit-sesame-named-to-the-2020-cb-insights-fintech-250-list-of-fastest-growing-fintech-startups-1029552298"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/credit-sesame-named-to-the-2020-cb-insights-fintech-250-list-of-fastest-growing-fintech-startups-1029552298"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
   - title: "These are the 20 Indian startups in the CBInsights list of 250 world’s most promising fintech companies"
     excerpt: "There are currently over 2,174 fintech startups, according to a recent MEDICI Global report.From Bharatpe to Cred to Razorypay, here are the startups that have been counted among the world’s most promising fintech cos."
     publishedDateTime: 2020-09-02T10:30:00Z
@@ -80,17 +69,6 @@ related:
         width: 1280
         height: 749
         isCached: true
-  - title: "CB Insights Names CLARA analytics to Fintech 250 List of Fastest-Growing Fintech Startups"
-    excerpt: "CLARA analytics Honored for Achievements in Transforming Commercial Insurance with Artificial Intelligence CB Insights today named CLARA analytics, the leading provider"
-    publishedDateTime: 2020-09-01T13:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/b17328403/cb-insights-names-clara-analytics-to-fintech-250-list-of-fastest-growing-fintech-startups"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17328403"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17328403"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 15
   - title: "CB Insights Names CLARA analytics to Fintech 250 List of Fastest-Growing Fintech Startups"
     excerpt: "CLARA analytics Honored by CB Insights for Achievements in Transforming Commercial Insurance with Artificial Intelligence."
     publishedDateTime: 2020-09-02T01:47:00Z

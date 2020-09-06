@@ -2,6 +2,37 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-07-20-weride-chooses-wekaio-to-manage-its-ai-data-pipeline.md",
+      "title": "WeRide Chooses WekaIO to Manage Its AI Data Pipeline",
+      "excerpt": "WekaIO ™ (Weka), the innovation leader in high-performance and scalable file storage, announced today that WeRide, a smart mobility company with industry-leading autonomous driving technologies, has selected the Weka File System (WekaFS™),",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200720005328/en/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily News",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-sfl-scientific-named-partner-of-the-year-for-ai-services-delivery-by-nvidia.md",
       "title": "SFL Scientific Named Partner of the Year for AI Services Delivery by NVIDIA",
       "excerpt": "SFL Scientific today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Service Delivery Partner of the Year 2019 for the Americas for the second year in a row. The NPN selected SFL Scientific for its AI consulting and development services,",
@@ -1104,47 +1135,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-hope-turns-into-reality-with-robotic-prosthetics-exoskeletons.md",
-      "title": "Hope Turns into Reality with Robotic Prosthetics, Exoskeletons",
-      "excerpt": "starting with a LEGO-inspired robotic hand, and that’s led him to design mind-controlled prosthetics that are affordable for all. Momo is patient zero for Unlimited Tomorrow. She is the first ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.machinedesign.com/mechanical-motion-systems/article/21836407/hope-turns-into-reality-with-robotic-prosthetics-exoskeletons",
-      "originalUrl": "https://www.machinedesign.com/mechanical-motion-systems/article/21836407/hope-turns-into-reality-with-robotic-prosthetics-exoskeletons",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/machinedesign/image/2019/04/machinedesign_14399_sw_med_promo.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Machine Design",
-        "domain": "machinedesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

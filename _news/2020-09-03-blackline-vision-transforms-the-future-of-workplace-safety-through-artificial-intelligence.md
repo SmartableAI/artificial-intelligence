@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19402150.html"
 webUrl: "https://www.lelezard.com/en/news-19402150.html"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 640
     height: 480
     isCached: true
-
-related:
-  - title: "Blackline Vision Transforms the Future of Workplace Safety Through Artificial Intelligence"
-    excerpt: "Blackline Safety's data science team launches client testing program for its first artificial intelligence module that will bring pattern-finding automation to gas leak"
-    publishedDateTime: 2020-09-01T13:17:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/b17328442/blackline-vision-transforms-the-future-of-workplace-safety-through-artificial-intelligence"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17328442"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17328442"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://mms.businesswire.com/media/20200901005410/en/817373/4/2018-08-13_Blackline_Vision_data_science_offering.jpg"
-        width: 480
-        height: 480
-        isCached: true
 
 secured: "cBHut1zPjlPnXEIpU0bR0hLRvDICS0awNNnbx6XpOW9bh5Qn8QV7h47XP7P8bKkDkruhmZTd7eJELCxcCdfSOkBGq8ABX9bpxKooswjU1f8Ydxy/8/w/Ihr8TLVBdAfrmpbInv9MmotI4s11TXMA8O4gYC3dwphnFuRkyba3UfLNnVSdEXFxtHGI4HBNaX+dJ6pjhtY7dIb8ZLf/ZEhzsZSOzketlR6R07PBs00jjYi4TqXigGRySe5I4Sy82Vm0tWYySfVh8iq2yZ2tuVWUxTV5q5wM1lTneLmHYD1Zm4oi43YQF1dEAnLDXedsupS0lrLIF3TvFQa0MUjIgFAwA+mDkx8L60TgeY+fLrKpN7dh7+ok3mn/ZfXt+rY5gT7/6v6L+QqsTq2xOQPD3UZVvBLC2Kjv9rbpR3KthvrYwsYreWdOL0cUgLsDeTUtMJgr6728gxc3nc2/sT+ZcIUGga8K/gKI8QeMOz50ETfnKC45/0d+JXckEPm06+pecLHWdM5PwrHWCH5j2c3RIgLOyg==;fvYSrTmnfCHWDOumFmWyMg=="
 ---

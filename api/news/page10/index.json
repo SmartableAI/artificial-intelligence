@@ -2,6 +2,55 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-08-27-amazon-launches-an-ai-powered-health-and-wellness-band-called-halo.md",
+      "title": "Amazon Launches an AI-Powered Health and Wellness Band Called Halo",
+      "excerpt": "Amazon has today signaled its intention to grab a share of the fitness tracker market by introducing Amazon Halo —a health and wellness band combined with a \"suite of AI-powered health features\" accessed via the Halo app on Android or iOS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/amazon-launches-an-ai-powered-health-and-wellness-band-called-halo",
+      "originalUrl": "https://www.pcmag.com/news/amazon-launches-an-ai-powered-health-and-wellness-band-called-halo",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05103dT048r57vM9FV1xpvK-1.1598538004.fit_lim.size_1200x630.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/amazon-launches-an-ai-powered-health-and-wellness-band-called-halo?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-launches-an-ai-powered-health-and-wellness-band-called-halo?amp=true",
+      "publishedDateTime": "2020-08-27T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up.md",
       "title": "Qualcomm-backed firm releases processor as AI chip race heats up",
       "excerpt": "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc QCOM.O and Alibaba Group Holding Ltd BABA.N, on Thursday announced a new chip",
@@ -1050,55 +1099,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-samsungs-new-washing-machine-will-use-ai-to-take-the-guesswork-out-of-laundry.md",
-      "title": "Samsung's new washing machine will use AI to take the guesswork out of laundry",
-      "excerpt": "Samsung's latest washing machine aims to take the confusion out of doing your laundry. According to the company, its WW9800T washer relies on artificial intelligence to automatically choose the correct cycle settings for the task at hand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/samsungs-washer-will-use-ai-to-take-the-guesswork-out-of-laundry/",
-      "originalUrl": "https://www.cnet.com/news/samsungs-washer-will-use-ai-to-take-the-guesswork-out-of-laundry/",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/7Epr8r5PH0YkPfFfQlQ9-wXve9I=/756x567/2020/08/26/a791c44c-7b8d-4d26-880e-1d86b29019f1/04-ww9800t-upcycling-kv-h.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsungs-washer-will-use-ai-to-take-the-guesswork-out-of-laundry/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsungs-washer-will-use-ai-to-take-the-guesswork-out-of-laundry/",
-      "publishedDateTime": "2020-08-26T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

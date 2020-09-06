@@ -46,7 +46,7 @@ related:
   - title: "Enterprise Artificial Intelligence Market Drivers and Key Players Strategies Analyzed Till 2023 | Impact of COVID-19 Pandemic"
     excerpt: "Enterprises hold a prominent market value considering their services and solution created for different functions and business uses. These enterprises largely deploy technologies such as machine learning,"
     publishedDateTime: 2020-09-04T11:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-drivers-and-key-players-strategies-analyzed-till-2023-impact-of-covid-19-pandemic-2020-09-04?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-drivers-and-key-players-strategies-analyzed-till-2023-impact-of-covid-19-pandemic-2020-09-04"
     type: article
     provider:
       name: MarketWatch

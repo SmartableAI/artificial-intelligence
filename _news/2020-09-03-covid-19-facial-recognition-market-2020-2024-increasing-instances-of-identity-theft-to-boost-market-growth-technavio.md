@@ -3,25 +3,25 @@ category: news
 title: "COVID-19: Facial Recognition Market 2020-2024 | Increasing Instances of Identity Theft to Boost Market Growth | Technavio"
 excerpt: "Technavio has been monitoring the facial recognition market and it is poised to grow by USD 3.35 billion during 2020-2024, progressing at a CAGR of almost 12% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
 publishedDateTime: 2020-09-02T23:00:00Z
-originalUrl: "https://apnews.com/b80d1caef47a4be7b0929cf252a57ecb"
-webUrl: "https://apnews.com/b80d1caef47a4be7b0929cf252a57ecb"
+originalUrl: "https://www.register-herald.com/region/covid-19-facial-recognition-market-2020-2024-increasing-instances-of-identity-theft-to-boost-market/article_3d996266-0c81-57e1-9ca6-09ecd405c29f.html"
+webUrl: "https://www.register-herald.com/region/covid-19-facial-recognition-market-2020-2024-increasing-instances-of-identity-theft-to-boost-market/article_3d996266-0c81-57e1-9ca6-09ecd405c29f.html"
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/8/cd/8cd0dc02-f66d-5aba-aac4-8122f85a2862/5f5027f372ab2.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -167,20 +167,6 @@ related:
         width: 800
         height: 392
         isCached: true
-  - title: "The twisted case of facial recognition"
-    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
-    publishedDateTime: 2020-09-04T04:04:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 41
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "City Council To Discuss Facial Recognition Technology"
     excerpt: "Pittsburgh City Council will be holding an open discussion on the usage of facial recognition technology in policing. KDKA's Lindsay Ward has the latest."
     publishedDateTime: 2020-09-02T09:41:00Z
@@ -205,6 +191,20 @@ related:
       - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/32E3CB40D76BD6BD8CBFB16E23FF2264_800x392.20180506T111644.jpg"
         width: 800
         height: 392
+        isCached: true
+  - title: "The twisted case of facial recognition"
+    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
+    publishedDateTime: 2020-09-04T04:04:00Z
+    webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "TSA is testing facial recognition at security checkpoints"
     excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
@@ -322,6 +322,6 @@ related:
         height: 270
         isCached: true
 
-secured: "sstVixMwsIfkNMAXv0aMOnLxWvqGWQJ2lF4PAeXm/J1U+aFUmwH2vsVcoroIXZdAOQbF1tH0bqKs2fF/WdsH/QofzV7/pBXZr8zCdzxo1/mZiSzHMtKmVSzvRlb07yLTzMn6Mmo2Ar/ytmoRmbqbqRZb64yMFUmK7cTvOIN20INJ4VrDS2D0Hybqoj7SQ95RGPs1pb8YsvXJagaHDUiEm4E6SIwk2pJk7xZn6evlkyp7i+Jw1aZ6jGigxD+uvqp2SyEqfmWc7Tfg2TRTicqzWt+7NDVYUaCwUAKwunI1jSayRRVjdLjBFh/ffw7Zn7e3g9/36upbg5Hwyq3Nu1L8ZxBL1s8Mfqu0+NXeXyfDjVQ=;oNZ1SpBu4oEcj5MyGdfSXA=="
+secured: "08KLeuW0VuyTfX019Y8YZgK1ug6j8y9p62raokJBeXrfKKz2Znmqi4ZL/KdACAGRYTaILaPoQ4orirvRX0VgDe3sfbgOAvkrdTBB/8WtBNkdyLqvCDnAEzjXy4nlHhP9dTBnIf2hhkKu8Yzxc5WiIB6M5P2OU9wTcPeEQZ3YjFTmnjEGycCM6wGkhgVfxRF9tME92TaczC1R+EorSeTTMCHD5AyfApF3AV5Yj29w6LT/01CDC1InxB4PkpChs1RwV4nKPNX0HkjQ8g9VtQ71ns3qtGBRr6nzTbMimCCWPC5kmHLOKtmEYfe0SDvioAlaAT21XW7i5Jv31WskQ+Q6/PR+T7m2vZvGoRgPcCkampI=;YAoPqT3yIPB7rcAxb97KeA=="
 ---
 

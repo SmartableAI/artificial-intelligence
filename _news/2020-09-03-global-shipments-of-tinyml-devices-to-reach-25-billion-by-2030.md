@@ -24,22 +24,6 @@ images:
     height: 825
     isCached: true
 
-related:
-  - title: "Global Artificial Intelligence for Drug Discovery and Development Market to Reach $4.81 Billion by 2027: AMR"
-    excerpt: "Allied Market Research published a report, titled,\" Artificial Intelligence For Drug Development and Discovery Market by Type"
-    publishedDateTime: 2020-09-01T13:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-for-drug-discovery-and-development-market-to-reach-4-81-billion-by-2027-amr-301121545.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1046
-        isCached: true
-
 secured: "R4fWkk51G1W7d+Z5ARUhOs1VaTWUllgugXL27sqw05+cwknXWtlsG1ThAuhBBBcTMz74L8C5EnLgd6RyMFHTjYR7nQWaOwOmoUxrvCMPgrdv1b7ar6Ur71gy2Nld/96BRCI0/jOc1hwrRnsaUYh4sqmwgZv3rbQfiSDjuoIOQ/W/WI86ksmm2fypDCMvko/aL0LTgUEdHwJ705yL9q+Saoyl4rTmEhLdnvM3DtekFK8qRNFDm4wpOdjJQvS3Yzl1PRjR3lqkaXKzfAU82GwVDIuSt2vOuxl5WKo04fBUhGytJCsX4z8M01cjv2TCfvr0f4RopdxdXoQNfbugmMqZcqru4J/V96QQL7zB9k8Fnr8LO1yV3TFwJpiRdk9rYZ9IbsxjqfcDiWXrkgVDwK6LvVtoZ4C4ZGMrZJNSGsSpBQEWACSXJ+wpc04Da+nE/imZG3xwcv5lNvUYwXUZv8KBMRK+U6cETKelP6xL7aAW6Gw6HDrf4BKh+REdeQ71FbJAsnrkWyvyKkc7RCNEyhjYV8EwGlHn9C1zQL1Y/Rl0Dc4=;NyDREJ21YN9yqN6LlztPyg=="
 ---
 

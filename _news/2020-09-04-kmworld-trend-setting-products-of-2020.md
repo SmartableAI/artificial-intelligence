@@ -3,8 +3,8 @@ category: news
 title: "KMWorld Trend-Setting Products of 2020"
 excerpt: "Setting Products. These offerings push the limits of what is possible with knowledge management. Some are mature and have evolved over many years by adding new features and capabilities, while others are newer entrants in the KM market."
 publishedDateTime: 2020-09-04T13:25:00Z
-originalUrl: "https://www.kmworld.com/Articles/Editorial/Features/KMWorld-Trend-Setting-Products-of-2020-142404.aspx"
-webUrl: "https://www.kmworld.com/Articles/Editorial/Features/KMWorld-Trend-Setting-Products-of-2020-142404.aspx"
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142404"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142404"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 336
     isCached: true
 
-secured: "LgK0qkatAX1y6rv4chVfcwSt3fZ+lZIdMoa4JZzy8UTifHdzJW9q6ih0wYuhbeQt9BnV3xDNCpLPCA7DxddB5o+MJeExsPhwKxS0AmhrWBuIRy5jv/maum+3kzUEfiZ5elcokJSP4xmEApFsPUM+VV5xq9W2wIzmv9F+ZbabXSgRyHXnCcrh4X9c7RFpQceaybu15Z0a0DGlfT3sHyK73JCTTqutXsSXErTHenG2Mt/ybT1u6xiEA8hH/Vvf3EIONgu8J/wMXKadVY0a/1COTI2o38Iq49jUx6w+48jIFKpSkxnaKs0OYvpUpS+O+ipl9xBT1JHannteXeC+yPN1K6LiyOBjOy3h3318n/5HIIs=;6/bQVVX8V3/7i9vnS8nhyw=="
+secured: "36LiJOPTLmZLi9tE/358BBT/lwLZcDk5Lrzzi/aavsisVvMM8obSbztYtg3B2/ooFL4Pi22nJXhE64Y2QrVNuXIcYH/o5ZPBuDHOQYGirauHztP9eJzcyx/+bbpIrcUNyscLHdvOinzFdHF6f66R29g6J0G8pFEJ2QSyvoURbMPdHzn2OrTevZ85pPvxEJviKjEDNZHu2smOJQa3KuzwsZ7na2kMM+6LwY7RRvrSls787ZD7vUBIPNB9yh+0BsYO5ebckAa52IhmxddszpnB2uAjwxc0Q+ZUmDqfrIzjj7v+sJUc4YttYknwKviI/usYUdeUuw2QtNYlsNHbjuzcSOJa+c9SJR3QxYLKLuECxwM=;jKINxXjEiWGA+PfuC6J0/A=="
 ---
 

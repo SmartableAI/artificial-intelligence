@@ -7,7 +7,7 @@ originalUrl: "https://insights.globalspec.com/article/14921/sarcos-robotics-rais
 webUrl: "https://insights.globalspec.com/article/14921/sarcos-robotics-raises-40-million-to-commercialize-industrial-exoskeleton"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Sarcos Robotics raises $40 million to develop an exoskeleton for industrial applications"
-    excerpt: "Sarcos Robotics, a startup developing robots for industrial and defense applications, today nabbed $40 million in equity financing."
-    publishedDateTime: 2020-09-01T13:07:00Z
-    webUrl: "https://venturebeat.com/2020/09/01/sarcos-robotics-raises-40-million-to-develop-an-exoskeleton-for-industrial-applications/"
-    ampWebUrl: "https://venturebeat.com/2020/09/01/sarcos-robotics-raises-40-million-to-develop-an-exoskeleton-for-industrial-applications/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/sarcos-robotics-raises-40-million-to-develop-an-exoskeleton-for-industrial-applications/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 110
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/sarcos-hero-e1598912552984.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "i78wK/F7FMIaDMdIbtQnvdv6ttqMThVKo64b7Qq+7nUsjF2CgDtwgr9WEZSpdUp33+D0vPLBt2vr4tKS05MqTgqyh2pqsk/9oUtBXclf4Af07uUZxliQVIixP8fDpzhVGxnJVl/iTxRLkg0NfOrZU+4wFfCB8dVtxduWdsMwIcjj7keo1JaM+5r4QwtmasReXnlXF6KmJWeXJMhra1ZisC3Yc941HHDgswbS84Enm1rAuiM0z2/gBoF99f96KulZx24bLSlLk+t1JWMoE2Ow3K0ZXCW/zXjnM7Lx9LdQAg7itZw3zBnkd9Naie3wP04cHTyKjHo+T4eVL6JAgfDVm6eFJH86R4aDiEXdO8f1rSx+WyD7uk7Zg/IxoOYNimbXwr8sqROpzEvkNuqAH+t6mGU8BI3KQUVqAfa3NZs/q7VhuGNt3yREoWzvVA46JFzNwmawxV47P0QaZo8JtFhHk73CeU/qilZCGn3mS/S3jNyCpLORleWGZlMQUCG1Kv0Z9f2HXmXyEq+NQKNS9B0IqgthRHLAqyjuBnRU9OiKxMg=;rqNLg+gSNqp6+vzpKiou7Q=="
 ---

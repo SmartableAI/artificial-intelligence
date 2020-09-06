@@ -57,22 +57,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Facial recognition for cows"
-    excerpt: "Cows in some districts of Punjab are currently part of an intriguing project that involves machine learning telling one cow apart from the other. Every cow and buffalo are distinguishable as"
-    publishedDateTime: 2020-09-01T14:58:00Z
-    webUrl: "https://www.thesudburystar.com/news/farm-news/facial-recognition-for-cows/wcm/a76b9203-345a-4289-af14-f840d7df0c7c"
-    ampWebUrl: "https://www.thesudburystar.com/news/farm-news/facial-recognition-for-cows/wcm/a76b9203-345a-4289-af14-f840d7df0c7c/amp"
-    cdnAmpWebUrl: "https://www-thesudburystar-com.cdn.ampproject.org/c/s/www.thesudburystar.com/news/farm-news/facial-recognition-for-cows/wcm/a76b9203-345a-4289-af14-f840d7df0c7c/amp"
-    type: article
-    provider:
-      name: Sudbury Star
-      domain: thesudburystar.com
-    quality: 59
-    images:
-      - url: "https://smartcdn.prod.postmedia.digital/nexus/wp-content/uploads/2020/08/co.0811-co-farmgate.jpg"
-        width: 980
-        height: 735
-        isCached: true
   - title: "Snapchat defends procedures after facial recognition class action"
     excerpt: "The popular social media platform Snapchat faces allegations by two Illinois users that it stores information that makes them susceptible to identity theft."
     publishedDateTime: 2020-09-04T01:49:00Z

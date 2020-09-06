@@ -24,22 +24,6 @@ images:
     height: 591
     isCached: true
 
-related:
-  - title: "Medcom Benefit Solutions Integrates Enrich Financial Wellness Platform Into Consumer-Driven Health Plan Portfolio"
-    excerpt: "Medcom Benefit Solutions has partnered with San Diego-based financial education company iGrad to offer its employers and plan participants the award-winning Enrich™ financial wellness platform. Medcom,"
-    publishedDateTime: 2020-09-01T14:46:00Z
-    webUrl: "https://apnews.com/PR.com/7af13fb0e49cee458395fc967a730a7f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "uwJr1sCE0g9tQsh0DJDWSLx/OZzXka+dDG4wcwmx9owNiGRc8VTZFhHMDEx8FotB0gbgNmLcc9jw6lOBOn7OcHifygHJUxniet8m1/NtfIP34KPVr/y+/S7qBmYrKFkZXO5aSTnDqxxw3b5UhREOIarAuhpQ95XYrVc/LvinNLJC30bBPo6XMS0WdztWEQkoNIHlnH+wLXSvjm9vIwChlooR+LISr/LgVTTRtkjb5n5bL3vXwvUnwk0m5KZXALFYfvOe8KkB34w2/tm24jtwTUZwSlgWTqWS8FA/UGKEaq5l97/apYOXoJURgVeXMSnXhiHsyxyVkuTrSyLEa6vx+89z2eWHeZwzaA/p6wlmKB0=;Vra2fdC/dmsltbFhJpg5ww=="
 ---
 

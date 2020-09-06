@@ -3,10 +3,10 @@ category: news
 title: "The twisted case of facial recognition"
 excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
 publishedDateTime: 2020-09-04T04:04:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
+originalUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
+webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: kmworld.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
@@ -297,16 +296,16 @@ related:
   - title: "COVID-19: Facial Recognition Market 2020-2024 | Increasing Instances of Identity Theft to Boost Market Growth | Technavio"
     excerpt: "Technavio has been monitoring the facial recognition market and it is poised to grow by USD 3.35 billion during 2020-2024, progressing at a CAGR of almost 12% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
     publishedDateTime: 2020-09-02T23:00:00Z
-    webUrl: "https://apnews.com/b80d1caef47a4be7b0929cf252a57ecb"
+    webUrl: "https://www.register-herald.com/region/covid-19-facial-recognition-market-2020-2024-increasing-instances-of-identity-theft-to-boost-market/article_3d996266-0c81-57e1-9ca6-09ecd405c29f.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: The Register-Herald
+      domain: register-herald.com
     quality: 14
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/8/cd/8cd0dc02-f66d-5aba-aac4-8122f85a2862/5f5027f372ab2.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Technavio Research: COVID-19: Facial Recognition Market 2020-2024 | Increasing Instances of Identity Theft to Boost Market Growth | Technavio"
     excerpt: "Technavio has been monitoring the facial recognition market and it is poised to grow by USD 3.35 billion during 2020-2024, progressing at a CAGR of almost 12% during the forecast period. The report of"
@@ -323,6 +322,6 @@ related:
         height: 270
         isCached: true
 
-secured: "40XnGKth8Xm2Gkp1T6vGOT6pTWOUq9jie4LJtZcGrFoISWblFP3pSk0ey7W3o/DGNd0dOPveEse92HH0qkim02lBMCwjrOId+lBJ1XJCibmlXnExTFG31uVA+ogBMgqsQMMiFHHrUzZvcRvlhQNuXGMP1LVc2PyQNNPIE7YW/4W9/MytX+NiG6K5w3veOZDn/1FwpFBhVQ4VLxoCiGoYSnk3Fc3y/sUZol4LoEMgLoJgjzHD3rS1TyEHGhzO9fefcS1gz9bJKDkvnh7FZ/lFfHbMbgSykEg3uRCX1OOwc6YNdvuySItT7N2BWt5DGoCGuAxbOP063sf5ydYijnQAZU3znk/hQKLepbIBwCEFkMQ=;Q+VjO87gFUfH511k499ncA=="
+secured: "WKHc/kJD5KVWSaTiLXLeifJWkuAzSRpBT142FtULLGxqT8mHbP9ZR4RSyb5WebFwa9WyrlCruCXkUZoUQ1gbTWlu0lxJIssGdFAau9n1Tk3AaeNMGw7s1tmq+2SV2Z5AQLYNmIcxN/DAe9iTq6FJXr8IqV38CLIyRIqm76i5+IOOPs6v/oBCoVBVQH0fAFdUTPYZhEX/wd83EmQ9PQlrEtXDAULAkFLhnc5MkFN6b06ju+9TMmlmC3u9Tms5pnki53M7kJnz/gZKRu8x/QhEQ6Ygx8JM1G7STgeEpJsu5oCcXiozEm/7h+dHLf2xUbpEexMdQ0eOpneKk1lIQFoF+QMlKUQnYD0kQwaMtwj5mbo=;T1NKKZYe9AqRbgMkXEYDqw=="
 ---
 

@@ -38,20 +38,6 @@ related:
         width: 876
         height: 548
         isCached: true
-  - title: "Venga Global Expands Data Annotation, Collection, and Validation for AI and Machine Learning Services"
-    excerpt: "Venga AI powers NLP AI and machine learning through human-assisted multilingual data collection., San Francisco, CA – Venga Global, a global leader in translat"
-    publishedDateTime: 2020-09-01T15:00:00Z
-    webUrl: "https://slator.com/press-releases/venga-global-expands-data-annotation-collection-and-validation-for-ai-and-machine-learning-services/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 41
-    images:
-      - url: "https://slator.com/assets/2018/02/Venga_2019_Upd_900x600.png"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "daJnCK1Xpij//v6q4Wv1DJEu7H/5HpLb0Yle7jKW9MUbou94AWW4FMXnBWmSlYvFPsiaXsisW5GJLFPuGgmia9lO1wjqbJYNJ6RoO5cscpRZWQhsAxGPkTV2LwBPoQrz34ln2PenUronoqsNyA7Lc3ni2IwjTsZ9hznVHayNnNKQVBJye3/q4YgXdSwbSusormV1igNnorW/sDU2uyF0s//KzTg7TAUNHNISYkL4P0SGOMkCR/PwBawV4K5cB8BSydzEc2TgZlcA4bS87WNNMAzZ3Cv7WWgJwYziXGMqsLPCAtQO5RVnxsw8QI0pUZAnry9ANdO5yhjBQ6CrMj3MRKytefgcVUDYskrvSj4zvow=;8BvasRDWKrUnAjkjBpbB5Q=="
 ---

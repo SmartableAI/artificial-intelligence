@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Venga Global Expands Data Annotation, Collection, and Validation for AI and Machine Learning Services"
-    excerpt: "Venga AI powers NLP AI and machine learning through human-assisted multilingual data collection., San Francisco, CA – Venga Global, a global leader in translat"
-    publishedDateTime: 2020-09-01T15:00:00Z
-    webUrl: "https://slator.com/press-releases/venga-global-expands-data-annotation-collection-and-validation-for-ai-and-machine-learning-services/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 41
-    images:
-      - url: "https://slator.com/assets/2018/02/Venga_2019_Upd_900x600.png"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Unsupervised Learning: An Overview on Emerging Machine Learning/Artificial Intelligence Approaches"
     excerpt: "The \"Towards Being Truly Intelligent: Next Wave of AI Technologies (Wave 1 - Unsupervised Learning)\" report has been added to ResearchAndMarkets.com's offering. As industries across the globe pursue digitization across functions,"
     publishedDateTime: 2020-09-02T09:27:00Z

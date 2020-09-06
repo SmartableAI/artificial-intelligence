@@ -2,6 +2,38 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-08-26-outlook-on-the-self-driving-taxi-global-market-to-2024-key-drivers-challenges-trends-researchandmarketscom.md",
+      "title": "Outlook on the Self-driving Taxi Global Market to 2024 - Key Drivers, Challenges & Trends - ResearchAndMarkets.com",
+      "excerpt": "The \"Global Self-driving Taxi Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The self-driving taxi market is poised to grow by 78588 units during 2020-2024 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20200826005444/outlook-on-the-self-driving-taxi-global-market-to-2024-key-drivers-challenges-trends-researchandmarketscom",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20200826005444/outlook-on-the-self-driving-taxi-global-market-to-2024-key-drivers-challenges-trends-researchandmarketscom",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-26T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services.md",
       "title": "Microsoft Word: How the new transcription feature works and how it compares to other services",
       "excerpt": "Word can now turn a conversation or meeting into text ready to use in a document, but that might not come to desktop Word for a while.",
@@ -1130,55 +1162,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first.md",
-      "title": "AI confirms 50 new planets from old NASA data, in a groundbreaking first",
-      "excerpt": "Our planet-hunting telescopes have gotten so good at their jobs that they've located thousands of possible planets outside our solar system. That means scientists have to sift through a whole lot of data to figure out what's a real planet and what's a pretender.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/",
-      "originalUrl": "https://www.cnet.com/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/",
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/8HHagEPsLQzwF1q7G9siIMXAc6s=/2016/05/10/bfd48cb5-88e5-466a-9605-bf374f2a6abf/keplerall-planetsmay2016.jpg",
-          "width": 985,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/",
-      "publishedDateTime": "2020-08-25T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
