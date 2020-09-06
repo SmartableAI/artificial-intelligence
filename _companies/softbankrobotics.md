@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sbreurope"
   url: "https://twitter.com/sbreurope"
-  followers: 16436
+  followers: 16438
 
 locations:
   - Tokyo, Tokyo
