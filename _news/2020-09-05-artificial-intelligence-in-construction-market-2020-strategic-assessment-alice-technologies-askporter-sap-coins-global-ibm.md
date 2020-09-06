@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence in Construction Market 2020 Strategic Assessment – Alice Technologies, Askporter, SAP, Coins Global, IBM"
 excerpt: "The Artificial Intelligence in Construction Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
 publishedDateTime: 2020-09-05T04:41:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2020-strategic-assessment-alice-technologies-askporter-sap-coins-global-ibm-2020-09-05?mod=mw_quote_news"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2020-strategic-assessment-alice-technologies-askporter-sap-coins-global-ibm-2020-09-05?mod=mw_quote_news"
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2020-strategic-assessment-alice-technologies-askporter-sap-coins-global-ibm-2020-09-05"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2020-strategic-assessment-alice-technologies-askporter-sap-coins-global-ibm-2020-09-05"
 type: article
 quality: 38
 heat: 38
@@ -43,6 +43,6 @@ related:
         height: 630
         isCached: true
 
-secured: "8NMi7D5GjAz529xqWmmoVtr/LDLQcw5mZpho5v432PjX8mH/+jCFS6kMQNTCBbmAgoYb6+yCm0tmac/LCRpPKDX0sZOYJ+SlMx+MChcfjyt82VYIH4mvuRF0iK4CHgu7DckD1S8Q5XNXZqlBSnqODwToDcC57+oQKnCcZUVAhsesot8CeLlh5q5O/B07bHXHGHZ+jTQQzYjwau/msk+g6s57KMdlo/iLQKskZMQg7+eG1bEukeWDVaVhM/lHJAuiDPhQNFDi3G4l2euX+cM20XMq83AmxWCO+/5LCEByrkZ3XjljeUPTHogO6xaFzvsQBqaojnAXtyWuGP7QOyyUVCK1ZaRz2ypMn8+NCX6hAv0=;88plYyHBJ6H6DQ+sSEmBBQ=="
+secured: "O83E0LFlf3Q9/yBBZHdyBThyUksxLIVA5sFjMZXDuE27hDf/BmdDzxNqKah5JS7GrIhE/jaF8k4oIjIPxeGxBnZtmE1GxPmfNLQQ3/Rd5vW+aQYusLmsVE4TE2177k4rWreYp5s1R9HqLcpecNw3lFw7q/fKqY0kyAs14kgreChHyrUpRa3W5ugOnMc9DsTYwGrW38jUm/ovP6qHT268CP8Q3tbjKkgV8dILXOfOoZ9mHl81FDfAplMkVWv99zA9ccGD8Av8efbL7FRw9tlbi2RFbCSl/76k/oQJAtgdoRL9/OFYutswMFjG2G59Bs92u65UgRF/R8N8JFsJRs6cWtRT7QJZCgWngT27ncUKEfg=;RvLg6FyrJQDqM7tAfEK35w=="
 ---
 

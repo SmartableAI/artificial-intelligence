@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "CSIRO researchers process one trillion points of genomic data to identify disease-causing genes"
+    excerpt: "Researchers from the CSIRO have claimed a word-first by processing one trillion points of genomic data through VariantSpark, an artificial intelligence-based platform, which can help pinpoint the location of specific disease-causing genes in the human genome."
+    publishedDateTime: 2020-09-05T21:38:00Z
+    webUrl: "https://itwire.com/health/csiro-researchers-process-one-trillion-points-of-genomic-data-to-identify-disease-causing-genes.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 12
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/68b3becb218d74863b607c3b7da1d95d_M.jpg"
+        width: 375
+        height: 242
+        isCached: true
 
 secured: "EG7JCi0b8Ig6MHWEOXuDb8b1m6FJKpUEFRtXZnPB0/4hQrSqIatTDzkodSTdsT+OCRpkf+K5hMRsOHGVzsck5tSELgDSX/mc4w1HJ4qnNKdXUYc9HySgnnAa8rqY36PEfi+7lOaMXA1b38DQmiA0c+JV5DdS4qwr6BhKsj8LXGsyKzGmGu6FtQhJa3dqA5LA4Ry/KIHTr4eMfNHRhXd/9VZmO67mCNQ7Jn2Ohj/WLDZl2B/Aa9BVJhRc4e+rXNovkIUqqptLdV0qnDgNFhwH6pSWkufs+To7tAuxrT32C2Lf2dZaWfcB2bup8Vtmr7KgYJmHcGovXmij5OW3l26SDWWjSPGTXCLIN+ddyXMtZ/c=;HbZzPnlUmV3TV0d9phNirA=="
 ---

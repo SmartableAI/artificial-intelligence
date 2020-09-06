@@ -41,20 +41,6 @@ related:
         width: 1014
         height: 646
         isCached: true
-  - title: "Facebook And Twitter Remove Russia-Backed Accounts Targeting Left-Leaning Voters"
-    excerpt: "Researchers say one of the operation's goals was to steer left-leaning voters away from the Biden-Harris campaign ahead of the November election."
-    publishedDateTime: 2020-09-01T22:20:00Z
-    webUrl: "https://www.scpr.org/news/2020/09/01/94277/facebook-and-twitter-remove-russia-backed-accounts/"
-    type: article
-    provider:
-      name: KPCC
-      domain: scpr.org
-    quality: 19
-    images:
-      - url: "https://a.scpr.org/i/671958ec310674b544258bf6ccce0580/228111-full.jpg"
-        width: 1024
-        height: 514
-        isCached: true
 
 secured: "cDuduWewZLjZJT0jz712/3J/uWGgV3vG2xfTeOGNTmyK5AY+JXYx3V0Skm4L4vK18RymgRu7/N+ydnpoF36bLh/cLn7A/ZlXHy9YMR8eWnF1V3MIpG5D+4G02RS+8xQGpxiGDbU2jWP3kivRc2D3ySVP54rOPHwVufNvtj/yp/zXMSHDyEQd2+56frlbPOGaqd88slkMKWyaR5ngghXwPlhBtxCUwGJIk32YgsmBEQnymTyOTXaWPLzGTB+HUOhugvJ/PTDsnRolKzv2eOMhSJHHs5sCgZqLOJ9QFiVz9rpvDXZH8HI8qtKDP6e4ySoZ1s9Mj/6A2njihOKHviXZHlHeSPrhYaasld0k+TK6YMM=;f0Bo40WTnKAiZCgkyOzing=="
 ---

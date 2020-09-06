@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Aussie researchers leverage compute power to analyse genomic data and match donors"
-    excerpt: "CSIRO has touted advances in processing data to pinpoint the location of specific disease-causing genes in the human genome, while PathWest is matching bone marrow donors with candidates."
-    publishedDateTime: 2020-09-01T22:30:00Z
-    webUrl: "https://www.zdnet.com/article/aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors/"
+  - title: "Trillion data points to identify disease-causing genes"
+    excerpt: "Researchers from CSIRO, Australia's national science agency, have accomplished a world-first by processing one trillion points of genomic data through VariantSpark, an artificial intelligence-based platform,"
+    publishedDateTime: 2020-09-02T13:37:00Z
+    webUrl: "https://medicalxpress.com/news/2020-09-trillion-disease-causing-genes.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-09-trillion-disease-causing-genes.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-trillion-disease-causing-genes.amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 68
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 44
     images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/01/8aa899a5-377f-4532-bffc-d12e943b8b0a/electronic-skin-2.jpg"
-        width: 4032
-        height: 2268
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/11-dna.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "CSIRO uses AI to crunch a trillion genomic data points"
+    excerpt: "CSIRO researchers crunched one trillion genomic data points in the cloud to help locate parts of the human genome that cause disease. The CSIRO's bioinformatics group used its own VariantSpark artificial intelligence (AI) based platform,"
+    publishedDateTime: 2020-09-02T01:51:00Z
+    webUrl: "https://www.itnews.com.au/news/csiro-uses-ai-to-crunch-a-trillion-genomic-data-points-552745"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/dna_genetics_genome_1.jpg"
+        width: 1009
+        height: 673
         isCached: true
 
 secured: "3UzTD8P1P7CpbdT+XE6Cmpln5BL5I1E4xSDhfSZigX3/8OggQs+CquYppETI65wuvQXHCJoYL16hY0gAr+8mMbCDFvPtly0rZyRuifZUmpwqw39WnTQ8chp9jkt/OY/ujZR0/UUX7Lv3EfA9tgaDyMcSLXZb6TWzVyATbtXgUmhnf3r7Gkn5oZBKIDKzmoCXC7Ne0K1OuqZc/B8mvzL7+fO+qVzu7t3NFPgP6XV1EsWPkwwFyD4wu7Kp9BT0oicdUYvL26Tvo+VnSRGheEHYh30MQpq4uRzT/2SlRs9MrJ7gN3Sj2NqW2SlOTx6e8jEHQO1CQ9CL0msBrcz27I/TfyfkxFisteyOaz5zvvdVMYG9uiNhbF9q6ycqEgcNArnZwLn4gPCxrKZpN3iWqrcoU4JFeVwb2flhfFTS6DbU1nWEE1CXPDxXMGRWHZBD7hvqArhFE6cLMaRWdSwkXZ/CM/o/SDi0aoBjCTBagJe3i9ivmMPGR0bTgLygnp4D6nDIK18WYeFW+K1hCCL3rBi7Ny6fMPOvS9Nz9H0LjDbInkM=;f0cO46qEl1C4sav/0aS+Ug=="

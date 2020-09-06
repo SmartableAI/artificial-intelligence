@@ -2,6 +2,55 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-08-23-ai-pilot-beats-human-in-clean-sweep-of-virtual-f-16-dogfights-human-fails-to-register-a-single-hit.md",
+      "title": "AI pilot beats human in clean sweep of virtual F-16 dogfights, human fails to register a single hit",
+      "excerpt": "An AI pilot defeated a human pilot in a clean sweep of virtual reality dogfights, with experts hailing the victory as a significant moment for artificial intelligence, sources reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/F-16CM-Fighting-Falcon-3-DVIDS.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp",
+      "publishedDateTime": "2020-08-23T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-23-the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars.md",
       "title": "The AI ‘Intelligence Explosion’ Might Happen This Way, Including For AI Self-Driving Cars",
       "excerpt": "Some vehemently assert that we are potentially going to have an AI “intelligence explosion” that will someday occur, and there are various bets that this might happen somewhere between the year 2050 and the year 2100.",
@@ -1077,56 +1126,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-ai-weekly-surveillance-structural-racism-and-the-biden-2020-presidential-campaign.md",
-      "title": "AI Weekly: Surveillance, structural racism, and the Biden 2020 presidential campaign",
-      "excerpt": "What Joe Biden and Kamala Harris said about tech at DNC 2020 and a look at the kinds of AI and algorithmic bias mentioned in the Biden 2020 plan.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/21/ai-weekly-surveillance-structural-racism-and-the-biden-2020-presidential-campaign/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1267430321.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/21/ai-weekly-surveillance-structural-racism-and-the-biden-2020-presidential-campaign/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/ai-weekly-surveillance-structural-racism-and-the-biden-2020-presidential-campaign/amp/",
-      "publishedDateTime": "2020-08-21T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

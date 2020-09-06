@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-to-be-worth-us-dollor-185-bn-by-2027-2020-09-01</loc>
+    <lastmod>2020-09-06T05:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/</loc>
     <lastmod>2020-09-05T13:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -301,7 +307,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03?mod=mw_quote_news</loc>
     <lastmod>2020-09-03T00:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -441,12 +447,6 @@
   <url>
     <loc>https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/</loc>
     <lastmod>2020-09-02T09:15:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/</loc>
-    <lastmod>2020-09-02T08:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -787,6 +787,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs</loc>
+    <lastmod>2020-08-31T17:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source</loc>
     <lastmod>2020-08-31T16:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -991,7 +997,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

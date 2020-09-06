@@ -9,8 +9,8 @@ ampWebUrl: "https://thenextweb.com/neural/2020/09/02/russias-most-notorious-trol
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/02/russias-most-notorious-troll-farm-reportedly-used-deepfakes-to-push-a-fake-news-outlet-on-facebook/amp/"
 type: article
 quality: 60
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: The Next Web
@@ -29,24 +29,6 @@ images:
     width: 796
     height: 417
     isCached: true
-
-related:
-  - title: "Russian agency created fake leftwing news outlet with fictional editors, Facebook says"
-    excerpt: "Internet Research Agency also hired real, unwitting freelance reporters in operation Facebook has removed"
-    publishedDateTime: 2020-09-01T21:16:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/sep/01/facebook-russia-internet-research-agency-fake-news"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/sep/01/facebook-russia-internet-research-agency-fake-news"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/sep/01/facebook-russia-internet-research-agency-fake-news"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 36
-    images:
-      - url: "https://i.guim.co.uk/img/media/6a00c601b5f3c3f15ad8539bf2561636ad8747cf/0_0_4703_2822/master/4703.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ddf89a7b6974a55643932365602e6e85"
-        width: 600
-        height: 360
-        isCached: true
 
 secured: "lcHLr0O0rmN/Gpx5qNWwGeC0r3KjnGm8ZgD9GKAhuziXwEbzqzmoIOPwNtfihDEsBeVhI4F0eMjXOiEuk6IUu5+LcWg63ozbfbQOMZz0QVUD9K6gxsj/93mkZ3MtvJMCmNeQP136ReBjYfClJYINdyxZWviUd0GwXw2xkRnZDt0zLoG1w0VSJRve6+QeSYztPU3S/HdmwVlGaBrgIFzZVABuq2UlzWoM8DnXonHkzcjEipP5zNKVyRp2XssNweqLBHOZAopxXaIOOzmkdXM+bsb1PnPGjd7KQNa0sHj9NxVySqQmcgWuMhCUCd2xzTr5bVO38NdNRRgITnj837zanSCJsua0pNiMipCFrX/6o/GxDbQljcDN/VrY48Qk0m4hHhXbY/uwkw+8BrX0yTqL6hdLeAEpg/qUUg5F/Adjw8XN1aWWRcCE2EEszz9qNLXWdzBMlBoAACUAbqk/5IRV/UfSicD2b5O9VO4XFl88YBc47xFKUETD58IgocOQElv/1+He/XSLxKlSbEIDT1RYLZN+Op9yiWO5JsW0IqmnzHg=;DvA1UrjgwFavjoSBPN//Dw=="
 ---
