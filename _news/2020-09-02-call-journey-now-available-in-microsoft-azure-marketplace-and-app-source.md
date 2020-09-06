@@ -7,8 +7,8 @@ originalUrl: "https://www.cmo.com.au/mediareleases/135281/call-journey-now-avail
 webUrl: "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: cmo.com.au
@@ -23,22 +23,6 @@ images:
     width: 620
     height: 254
     isCached: true
-
-related:
-  - title: "MojoRank's Intelligent Recruiting Solution Now Available on Microsoft AppSource"
-    excerpt: "MojoRank, a leader in artificial intelligence recruiting and diversity hiring solutions for human resource organizations, today announced"
-    publishedDateTime: 2020-09-01T12:38:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mojoranks-intelligent-recruiting-solution-now-available-on-microsoft-appsource-301121068.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 50
-    images:
-      - url: "https://mma.prnewswire.com/media/1246036/Product_home_page.jpg?p=facebook"
-        width: 5157
-        height: 2700
-        isCached: true
 
 secured: "6fgqyiYydMoRAh6Q7tb/9iNemPOnYlZ4VzVeZfgK/I5bdMPtuR92lFoKmBH+mSW9JVtEvBKShUJ/qLDTpOuhHhZe3YnSWeSNEP3TDVT03ZOuH1KUgxDNf9ePYtapIPwomvdtuMGsDPO9o0geMcMpCGlNLOpePG0oB10qoqjiPOlcu4l3gWj3zv0yMrCqF+e0e9StwF904MPM7yvY4RTt5ffRH69ERB76jpzKcU+qOMxMHj9HCQ0KUpcpWaogR2e2qKi0IdCgLupXbIrOWPpg0Ysh/WvsKFGeVe2ZYD1jPhO1spc1RtXC+bwiIH8Vosa547/Yls12xvCu451oyPHS//1lmwgWethnfJ7jLJS8dGI=;5E++KEl4OFmHeGWiUO7mfQ=="
 ---

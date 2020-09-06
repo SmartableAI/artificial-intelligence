@@ -105,20 +105,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Newfront Insurance Named to the 2020 CB Insights Fintech 250 List of Fastest-Growing Fintech Startups"
-    excerpt: "CB Insights today named Newfront Insurance to the third annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. The recognition by CB Insights is the latest in a string of milestones for three-year old Newfront,"
-    publishedDateTime: 2020-09-01T13:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/0db8ebfe0c1cb7b738d3be49ab3df670"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "cu9yK0AwU4UWrgLLr4G0jAJbFywwUdyWWfzVzKJuQvzcHE4FAXmQNH8fr3+Ue+cdUyBbuaN2BnkQAcwQ3cocJXT7+zg59ozB9p3oW2vpCcQXXQI41VRiCiEJ56eNfD04EHTZ9j5dlzBmvTcRUWOu5Qh5pHAe49T0u8uAOhBzvh65gQfyFztz+Ni7rHM1iuEQyNFYQeje0ESBqthu5LS9+eHTkjUaaMXapI/OXXtqQwwu6hTjpdHhxnlL75h7l/R7QneLp/deBjyD0L2jM2ZAJYUoipdJSIq+d+7UGU7U61hB944JbPrkv+6EBEmCIWUlts1ofHTWVFuSNMBpvP356R3E8JU8EqZBihQQ/bHnEKVaBLWsGxXUWL0Y+7mDCWJV0mS14827egS4c+N8ptAqte5JpBrQGjzbMAMkUW/dO33QbuC172YmuqWr4zBwVuCoYNhHAKl8zCeR8ogob9Ecx/HbM9x9+u+h92vxTRoxfCGmL/gDBmdMkYq8c7eJ5ah9JN1jwr+hIQ29scx5iSoq0YeP6TUq4cZBqViVUsKdlXw=;SxtTT52LfYv2qb/v2qPbPw=="
 ---
