@@ -43,8 +43,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-to-2024---featuring-advanced-micro-devices-alphabet-apple-among-others-2020-09-07-51843431</loc>
-    <lastmod>2020-09-07T02:43:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-ai-chips-market-2020-to-2024-featuring-advanced-micro-devices-alphabet-apple-among-others-1029566080</loc>
+    <lastmod>2020-09-07T02:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -439,6 +439,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/</loc>
+    <lastmod>2020-09-02T21:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wsj.com/articles/biofourmis-raises-100-million-financing-led-by-softbank-11599083717</loc>
     <lastmod>2020-09-02T19:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -585,6 +591,12 @@
   <url>
     <loc>https://www.forbes.com/sites/johndunn/2020/09/02/researchers-show-how-ai-could-stop-cyberattacks-messing-with-hospital-ct-scanners/</loc>
     <lastmod>2020-09-02T08:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.eurekalert.org/pub_releases/2020-09/e-ppu090220.php</loc>
+    <lastmod>2020-09-02T07:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -811,12 +823,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reseller.co.nz/article/682585/max-kelsen-serves-automated-rostering-domino-pizza/</loc>
-    <lastmod>2020-09-01T07:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.atlasai.co/about-atlasai.html</loc>
     <lastmod>2020-09-01T07:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -921,6 +927,12 @@
   <url>
     <loc>https://www.neowin.net/news/mediatek-helio-g95-chip-announced-for-gaming-smartphones</loc>
     <lastmod>2020-08-31T22:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.arnnet.com.au/article/682585/max-kelsen-serves-automated-rostering-to-dominos-pizza/</loc>
+    <lastmod>2020-08-31T21:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1227,6 +1239,12 @@
   <url>
     <loc>https://scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour</loc>
     <lastmod>2020-08-28T17:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/</loc>
+    <lastmod>2020-08-28T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1873,8 +1891,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
-    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely</loc>
+    <lastmod>2020-08-25T17:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -2,6 +2,88 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-14-how-artificial-intelligence-and-robotic-industry-is-going-to-upsurge-post-covid-19.md",
+      "title": "How Artificial Intelligence and Robotic industry is going to upsurge post-Covid-19",
+      "excerpt": "In a world that is constantly changing and improving, artificial intelligence and robotics is immensely valuable in adapting to new trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2020/07/web-5371562_640.jpg",
+          "width": 640,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/amp/",
+      "publishedDateTime": "2020-07-14T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-13-camera-clad-rubber-fingertips-allow-robots-to-manipulate-cables-and-wires.md",
+      "title": "Camera-clad rubber fingertips allow robots to manipulate cables and wires",
+      "excerpt": "Tying a knot or plugging a charger into a port are tasks that require human-like dexterity, but thanks to research out of MIT’s Computer Science and Artificial Intelligence Laboratory ... is most likely destined to start in the automotive industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=4&itm_content=2x4&itm_term=2356592",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelsight-research/?amp",
+      "publishedDateTime": "2020-07-13T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-not-just-the-sprinkles-on-top-baking-ethics-into-ai-design.md",
       "title": "Not Just The Sprinkles On Top: Baking Ethics Into AI Design",
       "excerpt": "Chief Marketing Officer at Interactions, a conversational AI company, where he oversees all aspects of communications, sales and marketing. Let’s face it: When a company develops artificial intelligence (AI) that can offer us a medical diagnosis,",

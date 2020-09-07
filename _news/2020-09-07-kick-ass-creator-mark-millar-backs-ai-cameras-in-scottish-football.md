@@ -8,8 +8,8 @@ webUrl: "https://www.bbc.com/sport/football/54062392"
 ampWebUrl: "https://www.bbc.com/sport/amp/football/54062392"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/football/54062392"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/A8F9/production/_114275234_gettyimages-479336231.jpg"
@@ -29,6 +30,6 @@ images:
     height: 576
     isCached: true
 
-secured: "oMxsq3AE77SYETIB3W9MIRvilZgKxvXL8BNAAhCCnhLmJfr6bh8W+8JeazK9N7khj3KRGqFHC6oHmGts/A4oVoVB63JPlZzCXgWQod8d9oVQ7kSwOZQeNoo6oYgc1DSGN0kbLhsV1IEYxq3u3Q07ArQ4tXkknykT618R0uxEjMP/WNkk/UnimLS9zMOaQsp+jVVhXLAJIDhGQYpHUDNreD9rZoiuj2Xsad+mB2pwPt2YzYX5vZlqlhxv16M+oWi3bXxHpm7XhntjNTeQolmI3wdz2p0do67LDBBEsVMAwV9IE3bZcIGXoAP37zUN3h6QSxnbSKpZNKChGVakL2G+z/8lGwqddJM2/ECylFrX4DU=;o6ZF9BSaG/6kz7OFb3a5xQ=="
+secured: "sZrbF5oS8bB0K6CuIjhkdouEi/Knc6tw7+pjKC9EQC8VJLSENkCB7bhR5YXM0V33NR11mQJeIOxQS6NH9+XhMfvgns4FzPLy7wnoDTSLPUxEGNTb73kunY9qZn/pc13CoFCTo0mMqgVdNQE3b2Y5X6lgSARl29SAhdifnmTNdLbWtJHlBSYeqMk32C7OZ6UMt5H1rWOB5os66jLWKGemrAh7yYHUd5XuxQ6ezUO3ECbyf5VraFkBC2PPvCa8DnrQFtwxyNOFfltYW+DQeXGOG1cZkQXh1NR9RllBhumc+iLBQeaQBXmhp9rAKTAmIJu1DcDbUlKP792ZlRgDX8WNswAWsk20KRzYV+W+n6baTpEfFExCgQVeZ6TNK63Reo0xPiOtE/yQM5GdD/XK/bzNZekgTvoAQh5ct3bLiYLhTilsgmUc7fS2XCogvJZkrfXD//E6ptKQKvSazCgkaBiVJ3/G0NopRSc3NRuGrUZxNLUiYUa1CN4q+Uz/QEA2/XMG35y/bFOU3pyOHmy7j0SuuxOREppNEgxC4FU/HmIn88k=;cqGH9yQokJoW2o6/j4LhPg=="
 ---
 

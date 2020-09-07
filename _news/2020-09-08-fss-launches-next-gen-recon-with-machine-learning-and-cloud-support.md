@@ -8,8 +8,8 @@ webUrl: "https://indiaeducationdiary.in/fss-launches-next-gen-recon-with-machine
 ampWebUrl: "https://indiaeducationdiary.in/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support/?amp"
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support/?amp"
 type: article
-quality: 24
-heat: 24
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 related:
   - title: "FSS Launches Next Gen Recon with Machine Learning and Cloud Support"

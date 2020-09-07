@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.in/business/startups/news/softbank-visio
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/startups/news/softbank-vision-fund-2-leads-a-100-million-funding-in-this-indian-founders-global-healthtech-startup/amp_articleshow/77907105.cms"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -26,35 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biofourmis Raises $100 Million Financing Led by SoftBank"
-    excerpt: "Biofourmis, which is using artificial intelligence-based analytics to monitor patients affected by Covid-19, has raised a $100 million financing led by SoftBank Vision Fund 2."
-    publishedDateTime: 2020-09-03T02:55:00Z
-    webUrl: "https://www.wsj.com/articles/biofourmis-raises-100-million-financing-led-by-softbank-11599083717"
+  - title: "SoftBank leads $136m investment in health start-up"
+    excerpt: "SoftBank Group led a US$100 million (S$136 million) investment in Biofourmis, a software start-up that predicts problems for patients with heart conditions.. Read more at straitstimes.com."
+    publishedDateTime: 2020-09-03T21:56:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/softbank-leads-136m-investment-in-health-start-up"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 167
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 22
     images:
-      - url: "https://images.wsj.net/im-227978/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Biofourmis raises $100 million for AI remote medical tools"
-    excerpt: "Biofourmis, a company developing platforms for AI remote patient monitoring and triage, has raised $100 million in venture capital."
-    publishedDateTime: 2020-09-03T04:26:00Z
-    webUrl: "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/"
-    ampWebUrl: "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/e72b0f95-315b-4e77-9a52-734c389a47cd-e1598639733609.png?w=1200&#038;strip=all"
+      - url: "https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg"
         width: 1200
-        height: 561
+        height: 799
         isCached: true
 
 secured: "JF2Th6KHFzmaJGAVyHfcPqdPRLD7oVd+iie6Y3e43P5Lh5RwYwtvJI153hHfgywSZWF6jiwkWARYCSXn1VxwFX/rP6KrynSixiXWNAq586tu0vzQ6OwpudENPHuOJtR5lidxE0cU3CKOY9wRmWQfDdf67z8PENcXOUwNue7d3lieObRxQXOzWl1d0ML2l9oEZHRf9H/KLFLKIHKieBA3rJBmhQ5o+/ETgCpvS4UmS7dzsHOe8luk0Ep/Yr1NDMOtWA0YvfEbPi8IB4eFSV5EW2oG8vvWDevJzuNzmxHJalXpzVpeRIZfBXPkV0ES0WwGC3m5ORL90Q2sBO6UdwSyjqYTGbJWRzKuTBMDXkCdy4Y=;0Wwa/OzChO/AMhi9psUYMg=="

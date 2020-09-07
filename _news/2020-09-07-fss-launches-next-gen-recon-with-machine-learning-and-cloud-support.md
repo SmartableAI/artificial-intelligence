@@ -29,7 +29,7 @@ related:
     provider:
       name: India Education Diary
       domain: indiaeducationdiary.in
-    quality: 24
+    quality: 41
 
 secured: "wMBuu4J0xNT+LPL2X4/LEGaxPt/DwkS4gqq36eU1H95JAlbUZQOpLN19W2ylOqFq/D7OtFeRDJU1FhAQiF0Sc5QGs23rRTvhry1DxC+jN6RKbdFsj3U2RNbgTchgj2LHsz65zGkbyN+BQQflVyjT9SbaMQzqd4wdm38gI3MCGTYyPx5sZy/DHsbIDuTtM3HycTyb1qI5EUAVSoRHDJ4kLSnqb2cjBMkRKo4R0lMrW52E+QWIGO+g6ZKojP+xi/EaWp2WJx+jtaGgLrMMmReuvl9KiTcdmmDGuQq2lbuz6gL8FutL0z1G7PEZFLro1e98pUrFWOzMcrwoq0+AeQw6du9OLoGrPQw/IJCtlE6QLKg=;2jrrxqhNUxXw1S2tpnbcxw=="
 ---
