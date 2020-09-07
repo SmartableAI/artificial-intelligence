@@ -56,19 +56,16 @@ related:
         height: 410
         isCached: true
   - title: "Dubai bus routes to be tweaked using AI algorithms"
-    excerpt: "The step is part of the RTA's endeavours to apply technology in improving the experience of public transport riders."
-    publishedDateTime: 2020-09-07T05:40:00Z
-    webUrl: "https://www.khaleejtimes.com/uae/dubai/dubai-bus-routes-to-be-tweaked-using-ai-algorithms-"
+    excerpt: "The step is part of the RTA's endeavours to apply technology in improving the experience of public transport riders A total of 150 routes used by 2,158 public buses will be revamped using artificial intelligence (AI) technologies, the Roads and Transport ..."
+    publishedDateTime: 2020-09-07T07:13:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Dubai_bus_routes_to_be_tweaked_using_AI_algorithms-SNG_183942594/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_183942594/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_183942594/"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
+      name: Zawya
+      domain: zawya.com
     quality: 37
-    images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20200907/ARTICLE/200909262/AR/0/AR-200909262.jpg&NCS_modified=20200907045909&exif=.jpg"
-        width: 1200
-        height: 759
-        isCached: true
 
 secured: "5onTHjboOosRoY24vlwPtPLUc9CjIfrlpiJdXyclWJRrhtwVtpw0gw8fOW7F/0yF+7S47IJ5D8NDrLyRg9c5VNQKFMPQE5xmGWsqjhA6uWhgjWUal5vYc4kRl7D/1qfBpioJvUeRqDgai+dOCont3+zyyuNNI+hLQ58dYH06HVpw4bBouP14NVBXaorrGGbuF4q4chuGE8VnK69VH0fghYN/eDSJVfZavQmtt1Q1tc+tJYEz4Lo6OOTkMlVsWeZaR2eLclj0Gcv8Uf3i0t+6SfcbrrnGH/4CboHFxoxtpI5Cbl0L7rLX41o1E6VMmqx3bLZ6tfABsPXiZiZ96kFHdoLL8jrStkp+wDbbX18etHDaEcN5GsozPwoeWJjGTmRn5kkP1YM/W6UycvwMg91UDwPvtCpUpMqobKfnyOeeR1MOBCzMcjj3c0mXFsJ5x8OR4sx6mn6ij0erS0PmLr3kLwO2WKMEu4UqdM283JftdYyZDvfT5KiumkiggrEmp2dUUegzqklLXuS9vFCPqaktEE/vv6esl1THWtbI7ExumZM=;RZo9AowhYr623Ls0rMObOw=="
 ---

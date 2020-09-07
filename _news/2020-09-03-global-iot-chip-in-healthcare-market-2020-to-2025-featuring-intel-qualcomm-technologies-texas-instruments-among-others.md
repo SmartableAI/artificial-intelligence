@@ -22,71 +22,34 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Worldwide IoT Chip in Healthcare Industry to 2025 - by Connectivity and Geography - ResearchAndMarkets.com"
-    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
-    publishedDateTime: 2020-09-02T13:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200902005651/en/"
+  - title: "Artificial Intelligence in Construction Market 2020 Strategic Assessment – Alice Technologies, Askporter, SAP, Coins Global, IBM"
+    excerpt: "The Artificial Intelligence in Construction Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
+    publishedDateTime: 2020-09-05T04:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2020-strategic-assessment-alice-technologies-askporter-sap-coins-global-ibm-2020-09-05"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 38
     images:
-      - url: "https://mms.businesswire.com/media/20200902005651/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
         isCached: true
-  - title: "Outlook on the AI Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
-    excerpt: "The \"Global Artificial Intelligence (AI) Chips Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence (AI) chips market is poised to grow by $ 54.03 billion during 2020-2024 progressing at a CAGR of 42% during the forecast period."
-    publishedDateTime: 2020-09-04T12:54:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200904005314/en/Outlook-AI-Global-Market-2024---Key"
+  - title: "Latest Research Report AI Translation Market with Major Companies like IBM Corporation, Microsoft Corporation, SDL PLC, Lionbridge Technologies"
+    excerpt: "The latest report on the AI Translation Market, as found on Qualiket Research website, is an extensive study of the"
+    publishedDateTime: 2020-09-02T19:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-research-report-ai-translation-market-with-major-companies-like-ibm-corporation-microsoft-corporation-sdl-plc-lionbridge-technologies-2020-09-02?mod=mw_quote_news"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
     images:
-      - url: "https://mms.businesswire.com/media/20200904005314/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
         isCached: true
-  - title: "Worldwide Social Robots Industry to 2025 - Featuring Intuition Robotics, Haapie SAS & Reach Robotics Among Others - ResearchAndMarkets.com"
-    excerpt: "The “Social Robots Market - Growth. Trends and Forecasts (2020-2025)” report has been added to ResearchAndMarkets.com’s offering. The Social Robots market is estimated to grow at a CAGR of about 14% over the forecast period 2020 to 2025."
-    publishedDateTime: 2020-09-03T13:35:00Z
-    webUrl: "https://apnews.com/7b7722170fa84e6da4e3cfabad4c1ecd"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Global Artificial Intelligence Processor Market to 2025 - Profiling Apple, Huawei & MediaTek Among Others - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence Processor Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The Artificial Intelligence (AI) processor market was valued at US$71."
-    publishedDateTime: 2020-09-04T12:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200904005302/en/Global-Artificial-Intelligence-Processor-Market-2025--"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
-    images:
-      - url: "https://mms.businesswire.com/media/20200904005302/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Worldwide Augmented Reality in Healthcare Industry to 2025 - Major Players and Strategy Analysis"
-    excerpt: "PRNewswire/ -- The \"Augmented Reality (AR) in Healthcare Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-09-02T18:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-augmented-reality-in-healthcare-industry-to-2025---major-players-and-strategy-analysis-301123220.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 6
 
 secured: "Rn1vJi9KWYz8KRr7hvBNARThg3/cdeeOCSXipi8K1TfpT+KbXFZCRDXUplZPB7PqqPpP8X5XV0NvYf0f8Jq1za0hVxIpjaH8AA+L4flFltUBgbDeUMdhRTej3QETacWSyT9B5MIuYzC3r9UPyKZKEvqayjrE6rpPi7K9oDMKchEDmhoM79QQMZJ9t7WcN1nn+CdxIcPLKvD1CkroA/1OUUgiaV8HvHjbGrsl20hoyZUEj20xqtX7r8uiRckkEJxUjmGFa3Rc7SNBD1l7qulY8GPwBlm5vUWU4u6Z5YdGOKbjJu+69MmnR0wkY0TSCXNsI/4Tb3EWhpSDqi5JbwIY3gIPerQOtm7f0F/qy1zJfcI=;WDMMlnKl8apTLOylqHvBpA=="
 ---

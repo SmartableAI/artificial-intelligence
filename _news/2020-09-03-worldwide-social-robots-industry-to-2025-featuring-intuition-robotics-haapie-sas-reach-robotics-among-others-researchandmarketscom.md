@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/7b7722170fa84e6da4e3cfabad4c1ecd"
 webUrl: "https://apnews.com/7b7722170fa84e6da4e3cfabad4c1ecd"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -26,45 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide IoT Chip in Healthcare Industry to 2025 - by Connectivity and Geography - ResearchAndMarkets.com"
-    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
-    publishedDateTime: 2020-09-02T13:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200902005651/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 38
-    images:
-      - url: "https://mms.businesswire.com/media/20200902005651/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Global IoT Chip in Healthcare Market (2020 to 2025) - Featuring Intel, Qualcomm Technologies & Texas Instruments Among Others"
-    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
-    publishedDateTime: 2020-09-03T12:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17367086/global-iot-chip-in-healthcare-market-2020-to-2025-featuring-intel-qualcomm-technologies-texas-inst"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17367086"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17367086"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
-  - title: "Outlook on the AI Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
-    excerpt: "The \"Global Artificial Intelligence (AI) Chips Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence (AI) chips market is poised to grow by $ 54.03 billion during 2020-2024 progressing at a CAGR of 42% during the forecast period."
-    publishedDateTime: 2020-09-04T12:54:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200904005314/en/Outlook-AI-Global-Market-2024---Key"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
-    images:
-      - url: "https://mms.businesswire.com/media/20200904005314/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Global Artificial Intelligence Processor Market to 2025 - Profiling Apple, Huawei & MediaTek Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Artificial Intelligence Processor Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The Artificial Intelligence (AI) processor market was valued at US$71."
     publishedDateTime: 2020-09-04T12:30:00Z

@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global IoT Chip in Healthcare Market (2020 to 2025) - Featuring Intel, Qualcomm Technologies & Texas Instruments Among Others"
+    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
+    publishedDateTime: 2020-09-03T12:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17367086/global-iot-chip-in-healthcare-market-2020-to-2025-featuring-intel-qualcomm-technologies-texas-inst"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17367086"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17367086"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
 
 secured: "mkWmZbj+TH0A61EKlTnj9xfaIX4DsnLGfqm2GgK5jXyo+VoQ4Wct9G2P+qQul87UpXd9y/OLSbxkx2CVUl01I0zK7FRfbfy6PAzpYLJDZSb0HxElic3z0/EQZVtoN3h4ypVhoB1RSihjaqAY6vOvh+idxvX4NHlk/Rr8Y7D3OPSFC/GsNbmDaYmGmI4nFWHlbz+4MGnPzCIow2y2lZz33k4gIeW2uYuGfE4GelJVbx0WA10EXPx6FhZMEAhmK9DeW84pVLuXqVFhPNXkMgrQRRdMm88OwnHrzgwN3+2ih559ARCZU6aEBODlQYRSv9ye4uIiFruGegvuKCGQkzJPH7u/6ZMeHYDoaZxPuiS/GPs=;Fvp+kDQRsEqA/4UYc7J0Qg=="
 ---

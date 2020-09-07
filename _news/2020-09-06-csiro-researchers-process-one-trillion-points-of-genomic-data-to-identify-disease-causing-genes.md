@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/health/csiro-researchers-process-one-trillion-p
 webUrl: "https://itwire.com/health/csiro-researchers-process-one-trillion-points-of-genomic-data-to-identify-disease-causing-genes.html"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 375
     height: 242
     isCached: true
-
-related:
-  - title: "Trillion data points to identify disease-causing genes"
-    excerpt: "Researchers from CSIRO, Australia's national science agency, have accomplished a world-first by processing one trillion points of genomic data through VariantSpark, an artificial intelligence-based platform,"
-    publishedDateTime: 2020-09-02T13:37:00Z
-    webUrl: "https://medicalxpress.com/news/2020-09-trillion-disease-causing-genes.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-09-trillion-disease-causing-genes.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-trillion-disease-causing-genes.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/11-dna.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "3UzTD8P1P7CpbdT+XE6Cmpln5BL5I1E4xSDhfSZigX3/8OggQs+CquYppETI65wuvQXHCJoYL16hY0gAr+8mMbCDFvPtly0rZyRuifZUmpwqw39WnTQ8chp9jkt/OY/ujZR0/UUX7Lv3EfA9tgaDyMcSLXZb6TWzVyATbtXgUmhnf3r7Gkn5oZBKIDKzmoCXC7Ne0K1OuqZc/B8mvzL7+fO+qVzu7t3NFPgP6XV1EsWPkwwFyD4wu7Kp9BT0oicdUYvL26Tvo+VnSRGheEHYh30MQpq4uRzT/2SlRs9MrJ7gN3Sj2NqW2SlOTx6e8jEHQO1CQ9CL0msBrcz27I/TfyfkxFisteyOaz5zvvdVMYG9uiNhbF9q6ycqEgcNArnZwLn4gPCxrKZpN3iWqrcoU4JFeVwb2flhfFTS6DbU1nWEE1CXPDxXMGRWHZBD7hvqArhFE6cLMaRWdSwkXZ/CM/o/SDi0aoBjCTBagJe3i9ivmMPGR0bTgLygnp4D6nDIK18WYeFW+K1hCCL3rBi7Ny6fMPOvS9Nz9H0LjDbInkM=;f0cO46qEl1C4sav/0aS+Ug=="
 ---

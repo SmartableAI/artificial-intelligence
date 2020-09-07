@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Dubai bus routes to be tweaked using AI algorithms"
-excerpt: "The step is part of the RTA's endeavours to apply technology in improving the experience of public transport riders."
-publishedDateTime: 2020-09-07T05:40:00Z
-originalUrl: "https://www.khaleejtimes.com/uae/dubai/dubai-bus-routes-to-be-tweaked-using-ai-algorithms-"
-webUrl: "https://www.khaleejtimes.com/uae/dubai/dubai-bus-routes-to-be-tweaked-using-ai-algorithms-"
+excerpt: "The step is part of the RTA's endeavours to apply technology in improving the experience of public transport riders A total of 150 routes used by 2,158 public buses will be revamped using artificial intelligence (AI) technologies, the Roads and Transport ..."
+publishedDateTime: 2020-09-07T07:13:00Z
+originalUrl: "https://www.zawya.com/mena/en/business/story/Dubai_bus_routes_to_be_tweaked_using_AI_algorithms-SNG_183942594/"
+webUrl: "https://www.zawya.com/mena/en/business/story/Dubai_bus_routes_to_be_tweaked_using_AI_algorithms-SNG_183942594/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_183942594/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_183942594/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Khaleej Times
-  domain: khaleejtimes.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AI
-
-images:
-  - url: "https://images.khaleejtimes.com/storyimage/KT/20200907/ARTICLE/200909262/AR/0/AR-200909262.jpg&NCS_modified=20200907045909&exif=.jpg"
-    width: 1200
-    height: 759
-    isCached: true
 
 related:
   - title: "Dubai’s RTA applies AI, machine learning to plan better bus routes"
@@ -69,6 +65,6 @@ related:
         height: 410
         isCached: true
 
-secured: "Vab8XuY/35pbceho20W5cMqGpkwRUvD9dwIbsCUK81ZO8fPd5W7eJvnauHCuNTJNPeePPh1cVIWAd2IKUId8aYtNLjPggxZ3oxVtIUonpmhc2D2q31dbmyjn1DROgetBb1ilHvGGfN9GMePtt0N+oyrpttqv+Roph6jZl6CRtIwzeAGidXfKqfJU7URPqYW6YaBaamnVwaAvxXZ7eNDk+XkIqN8LwDKDxZfx3sNyl4o7xX1XuD9KDlAT6EZrcESCpaJP7hcIGFmf4WIlf2vCZ9Ct3Atf/+gu4x/VgT31qjViKbguBI/lgJGLy23L7DNqXNcTV/32LAs/OxuObilItm6YiLltdddnDkm9HvsPV5Y=;whIVj3vbq32Ft6AxSE8x0g=="
+secured: "74Z0anI0cjvbE+cri8kAbJ8VKk1mU/R6eKrVdy+wuxP8OA00VSxzfJbY0EHdqMoseGpygbl4Fa9SMuDIUlwfZ4W4MonmEj6w7GkUu7Iv3aBdyQMrqd1lpicEEj0cpOGQCEuPBhkrRuEtdjb8Xp91HlLMcrtmBRr+uPheB78jy2kRmWfUKboBg+loFo9KAyMe9PTlJ0mxi4MBUiooSnfY23OCJdHYoES7ksk1XhROL9fhkjEiONzojjJYnB2QqcNIQKppzQqm/wwn/7OCOincAew6iUBbwkcgu2r4H9ydiSLxDGI3xnkqW7LRMZfCV+WAsIGEhQCfpmiHTXkJcElWgt6gaLkeZ4D5U9hphMBpaaQ=;tmFg8dT2xqJpUBl9SJxJRQ=="
 ---
 

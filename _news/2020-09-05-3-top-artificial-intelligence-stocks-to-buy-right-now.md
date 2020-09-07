@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/09/05/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "8 Innovative Robotics Stocks to Buy Right Now"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Despite the carnage caused by the novel coronavirus, the one investment sector"
-    publishedDateTime: 2020-09-02T14:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/8-innovative-robotics-stocks-to-buy-right-now-1029556778"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/8-innovative-robotics-stocks-to-buy-right-now-1029556778"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/8-innovative-robotics-stocks-to-buy-right-now-1029556778"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
   - title: "2 Fintech Stocks We're Ready to Buy Now"
     excerpt: "In today's episode, we wish happy birthday to one of the greatest investors ever and talk about two stocks we love right now."
     publishedDateTime: 2020-09-03T03:15:00Z

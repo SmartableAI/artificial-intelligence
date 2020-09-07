@@ -31,7 +31,7 @@ related:
   - title: "AI In Computer Vision Market: Dynamics, Segments, Size, and Demand Analysis during 2021-2024 | Impact of COVID-19 Pandemic"
     excerpt: "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,"
     publishedDateTime: 2020-09-03T07:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03"
     type: article
     provider:
       name: MarketWatch
@@ -65,6 +65,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Is Projected To Grow Vibrantly In The Upcoming Years 2020-2025 (Impact of COVID-19)"
+    excerpt: "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market."
+    publishedDateTime: 2020-09-07T07:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-is-projected-to-grow-vibrantly-in-the-upcoming-years-2020-2025-impact-of-covid-19-2020-09-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

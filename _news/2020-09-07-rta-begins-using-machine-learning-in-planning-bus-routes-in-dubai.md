@@ -56,20 +56,17 @@ related:
         height: 450
         isCached: true
   - title: "Dubai bus routes to be tweaked using AI algorithms"
-    excerpt: "The step is part of the RTA's endeavours to apply technology in improving the experience of public transport riders."
-    publishedDateTime: 2020-09-07T05:40:00Z
-    webUrl: "https://www.khaleejtimes.com/uae/dubai/dubai-bus-routes-to-be-tweaked-using-ai-algorithms-"
+    excerpt: "The step is part of the RTA's endeavours to apply technology in improving the experience of public transport riders A total of 150 routes used by 2,158 public buses will be revamped using artificial intelligence (AI) technologies, the Roads and Transport ..."
+    publishedDateTime: 2020-09-07T07:13:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Dubai_bus_routes_to_be_tweaked_using_AI_algorithms-SNG_183942594/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_183942594/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_183942594/"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
+      name: Zawya
+      domain: zawya.com
     quality: 37
-    images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20200907/ARTICLE/200909262/AR/0/AR-200909262.jpg&NCS_modified=20200907045909&exif=.jpg"
-        width: 1200
-        height: 759
-        isCached: true
 
-secured: "IZo0FaFUlL85R3/qup2GogWnkVo7u5KE5J9diKIIOj2ZBgdLfD8lH1i5JkGAwggIpek0VkYRebEefxbvFrTMhuQxlaCJqmRm+IrAbXDOCDFq1IQfX7eImalRUDqu0mkhUsq/rCIOpO21gOePmc8171hbMkzOFV5YKNSOFM3E+ujQr7VA8WEMGpQI4+Us1Xw90MHntFZcf8hoKhOpbk1+oNkfRVgeDKIl6yiQu4MAKsvl/GOzdVmHzcAmaMFsVVYTfm/HFuHhvDQ1ETTVz9fS/fe7GxbWyeDr7R260hseW+CjiJFXpLVWkBS4zK145F73SJAvseRpXQk4bjEqSDm4qrcN2AewCatohHzyM17565g=;UbVukviS4buvhPoEM4kidw=="
+secured: "LYA7ZxivcjbcnCzUfyzuzRvFAMSa00QkoAC1NcwoyTwiTI/B5MHgD611TCmkEId8jrTsZWL3+E148r8OXCnpY5FlKOhkC1Cz1uYAOZ/FzYEMgkmkQ4K1ycJ3MtBnoywh5iQtI1uMrmOwZKQglZrMiaWeo76piSCfvgnU8uW6cSYmns8gn+q23xa9sWrM44+5S1bq/qlaI+/9sPBar8EJRVlcK351kA6CfXe7akZXCJM7gnwCRXep7h9ISipNxi2uCucWLFUD7sFAqVxZ2FiHjIBvpkVmG5bq5bwoa2g7Z8281/mtS0b9od6hR5wPrRLuCQoFGAPj6pAbJhaHq1mqYZbSIB8+IHoDoJ9v5OUvXdyMprhmtHJ+fodls28LyHJELN7vZ71cwiJp1TUbUdetZgrX6kQnVQjnRsQeex2GpY1pzVe/nJVgtVCl4SG6Zd9af0iteco5e0BZRObdfkX4P/4iYCkzd6EMsNSunuUpoW27ysLwXfJmKDcN4+QXxx1bD/R+x1xjM0WOUMcRA4wq2A==;KbjK4nquTBAVSwpkHwjbfA=="
 ---
 

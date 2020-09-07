@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 1023
         isCached: true
-  - title: "8 Innovative Robotics Stocks to Buy Right Now"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Despite the carnage caused by the novel coronavirus, the one investment sector"
-    publishedDateTime: 2020-09-02T14:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/8-innovative-robotics-stocks-to-buy-right-now-1029556778"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/8-innovative-robotics-stocks-to-buy-right-now-1029556778"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/8-innovative-robotics-stocks-to-buy-right-now-1029556778"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
 
 secured: "ABtZ0L4LdaVjGecR2Rn4KwbBkx2ZlgnKao4PpdjSjsEX9qxX6bBvTkvQsS6S3/bGIswur8C7JCIkJvymnJL9JKY5PatOkOx9D5Cm1phcnNUK3TWscPZ8z5FKpNfPiNv26kZHgT+2K5KiiYhAIHtO/dvA6NuwZPVX+aIqb+5Di54zwI29m4C1OZ6Hp0PZAje6wSX+y2XSTY0KA8g9kIyI8hEUQFWiraFBN1sr6g2737Uii6BZkO6CmD1HwCD8X+w4CrRar2pMVDlO9EyDVj1YG2R2WfAyoRNcJ2d8RIG4bif2KJYJorsyucAW0UI4q945pnF3WLdWYEKP+6Bsw0syld8RGSiS83OVvFOZDjhIIju3JKfrBE69pQ7Lv16kF3vuuvNVNTWA8MOmLAf9d5u05aV7sBz9rmYMSs3V/NIce+QUCJETy2auIznkUnW2auVL+UcoOfjFVWp0TC/15te2aL6NHHzoL2npRHJnmGLFcUynAQ3Fyqkl1KIUmDsSTJ8OfnlnRSKsLpl3c+xOd6J0vNtsBe6sKgmh/AZIFyShix4=;mbGMI/AXM+wJtuBkesfz3w=="
 ---
