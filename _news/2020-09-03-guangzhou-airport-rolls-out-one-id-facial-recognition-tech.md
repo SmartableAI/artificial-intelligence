@@ -85,20 +85,6 @@ related:
         width: 1440
         height: 720
         isCached: true
-  - title: "Vanderbilt Proface X TD Facial Recognition Terminal with Temperature Detection"
-    excerpt: "Powered by the ZKTeco-customized CPU for running the intellectualized engineeringfacial recognition algorithm and the latest computer vision technology, ProFace X [TD] supports both facial and palm verification with large capacity and rapid recognition ..."
-    publishedDateTime: 2020-09-02T23:59:00Z
-    webUrl: "https://www.sourcesecurity.com/vanderbilt-proface-x-td-access-control-reader-technical-details.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 35
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/products/400/proface-x-td-400.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "US CBP deploys facial recognition at 27 US airports as of May-2020"
     excerpt: "US Government Accountability Office reported (03-Sep-2020) as of May-2020, the US Customs and Border Protection (CBP) deployed facial recognition technology at 27 US airports. CBP"
     publishedDateTime: 2020-09-05T13:34:00Z

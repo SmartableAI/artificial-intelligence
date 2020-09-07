@@ -93,20 +93,6 @@ related:
         width: 1440
         height: 720
         isCached: true
-  - title: "Vanderbilt Proface X TD Facial Recognition Terminal with Temperature Detection"
-    excerpt: "Powered by the ZKTeco-customized CPU for running the intellectualized engineeringfacial recognition algorithm and the latest computer vision technology, ProFace X [TD] supports both facial and palm verification with large capacity and rapid recognition ..."
-    publishedDateTime: 2020-09-02T23:59:00Z
-    webUrl: "https://www.sourcesecurity.com/vanderbilt-proface-x-td-access-control-reader-technical-details.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 35
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/products/400/proface-x-td-400.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "CBP Should Address Facial Recognition System Performance and Privacy Issues, GAO Says"
     excerpt: "A Government Accountability Office (GAO) review has found that U.S. Customs and Border Protection (CBP) has made progress testing and deploying facial recognition technology (FRT) at ports of entry to create entry-exit records for foreign nationals as part of its Biometric Entry-Exit Program."
     publishedDateTime: 2020-09-05T14:29:00Z

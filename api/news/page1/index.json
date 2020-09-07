@@ -2,6 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-07-kick-ass-creator-mark-millar-backs-ai-cameras-in-scottish-football.md",
+      "title": "Kick-Ass creator Mark Millar backs AI cameras in Scottish football",
+      "excerpt": "Covid plan for Scottish football, and Albion Rovers being the club I always loved, I wanted to start it here. I'm lucky to be in a position where financially I could help but also have a great contact list,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/sport/football/54062392",
+      "originalUrl": "https://www.bbc.com/sport/football/54062392",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/A8F9/production/_114275234_gettyimages-479336231.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/sport/amp/football/54062392",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/football/54062392",
+      "publishedDateTime": "2020-09-07T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-07-this-us-based-healthcare-startup-is-saving-healthcare-cost-by-unifying-patient-records.md",
       "title": "This US-Based Healthcare Startup Is Saving Healthcare Cost By Unifying Patient Records",
       "excerpt": "Till date, Innovaccer has saved over $600 million in healthcare cost and has unified records for over 24 million lives",
@@ -9,7 +58,7 @@
       "webUrl": "https://www.entrepreneur.com/article/355840",
       "originalUrl": "https://www.entrepreneur.com/article/355840",
       "featuredContent": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1155,55 +1204,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-ai-drawn-voting-districts-could-help-stamp-out-gerrymandering.md",
-      "title": "AI-drawn voting districts could help stamp out gerrymandering",
-      "excerpt": "Gerrymandering is one of the most insidious methods out there of influencing our political process. By legally changing the way votes are collected and counted, the outcomes can be influenced — even fixed in advance for years.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/04/ai-drawn-voting-districts-could-help-stamp-out-gerrymandering/",
-      "originalUrl": "https://techcrunch.com/2020/09/04/ai-drawn-voting-districts-could-help-stamp-out-gerrymandering/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-usa-map-inverted.jpg?w=1024",
-          "width": 1024,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/04/ai-drawn-voting-districts-could-help-stamp-out-gerrymandering/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/ai-drawn-voting-districts-could-help-stamp-out-gerrymandering/amp/",
-      "publishedDateTime": "2020-09-04T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

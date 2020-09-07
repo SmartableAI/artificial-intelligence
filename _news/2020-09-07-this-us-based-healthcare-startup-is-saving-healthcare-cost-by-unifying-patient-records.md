@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/355840"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/355840"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 338
     isCached: true
 
-secured: "lBsSbw8pYNSFjuU0Bgad7FD4HouB2Fj9IYJdFJwCAKFoqksx+0MYUSOcHPhQlhPxRPV27H/JXLM07BkMMyItIuB4eCu0MsEt1PsUiKIKOsKs9ltumTp9eV8Uoj+8tj3PAvHLgVfuaEIPbCcCFA+zWo+dTmrgMWGUD4vjdErdjkXgmp3u69RdpU5N7JvNCUtxTlt4s8XUP5wSl2eKQ+l/A8D/iRSAmFcS3MXgX9k+xzGrV7Vh5NOaY3p66jQr0jDo+ArveE0dros3PLl38idj5buqX5DrkG0Ywlx5asPUFiIz9LjtZyGhuiny7NTUTGUdXzYiJN7a1Dc6NAZsSwnWxP9mlOUSWrp87GzFOS2EmpM=;Kb88uWS9tSraEJj/GYEkbA=="
+related:
+  - title: "How This Startup Is Using AI For Talent Acquisition"
+    excerpt: "Eightfold AI was born to use AI to provide the best career to everyone. The team currently has 200 employees with a strong tech team."
+    publishedDateTime: 2020-09-07T05:32:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-startup-is-using-ai-for-talent-acquisition/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/09/Eightfold-ai-startup.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+
+secured: "XDPRHQ/yxjpvhkHSTxYyLqQdaQrF4fKBooT+78if4oY9t71bgOtCCwrhr74T32F2/VmPqOtbkCXR4ATbVzH2RzVOg+gvLzQNoItQRnyFJRy2tcU8oIQcGSavjJBkprLfErQ4LhjcDftY4x21ocdCNMi5xckMtTR8f+C/VQP0f3ASUhdMzUsi8rcOafOS2MHXQ8aTPGhoabQDWDxZFMBobX1GjwrCNaj0cUKOkTnn/xIWPyGeiZfm/1ewIlv8+axW61M5IMNyPhyL8Jzmr7VOeDai+sZq4/e2oIg4kXqGeXJwcQoSCTanO40V8t7T7DBCfeaI2zFbLf0QlNNaHzuSy2U2OemkpBz1jm4uhClnU5b7uQR36+ffYGtQH/5h5e7BzVhE64jdTeBJweLRljxKWVOMtf1QDhLgiJsTysMlY4MbemsIXOwDF+lvXthNUU2rQjBhhmqWK/pbQSpvQLxQBziiFPLQWXCWKfEk4/WJQv766YPDoFg1TxVI1E5BjeAz2T6SzQv4WWhYtdF/6AKP8g==;9ZYr5ivnixlkXuqWXy1HYQ=="
 ---
 

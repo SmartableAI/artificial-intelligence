@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/biofourmis-raises-100-million-financi
 webUrl: "https://www.wsj.com/articles/biofourmis-raises-100-million-financing-led-by-softbank-11599083717"
 type: article
 quality: 167
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/05/e72b0f95-315b-4e77-9a52-734c389a47cd-e1598639733609.png?w=1200&#038;strip=all"
         width: 1200
         height: 561
-        isCached: true
-  - title: "SoftBank Leads $100 Million Investment In AI And Digital Therapeutics Startup Biofourmis"
-    excerpt: "Kuldeep Singh Rajput quit his PhD program to pursue a lofty goal: use artificial intelligence to predict disease before it happens."
-    publishedDateTime: 2020-09-02T23:16:00Z
-    webUrl: "https://www.forbes.com/sites/katiejennings/2020/09/02/softbank-leads-100-million-investment-in-ai-and-digital-therapeutics-startup-biofourmis/"
-    ampWebUrl: "https://www.forbes.com/sites/katiejennings/2020/09/02/softbank-leads-100-million-investment-in-ai-and-digital-therapeutics-startup-biofourmis/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/09/02/softbank-leads-100-million-investment-in-ai-and-digital-therapeutics-startup-biofourmis/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/trim/0x1307:2700x2825/fit-in/711x399/smart/https://specials-images.forbesimg.com/imageserve/5f502d73e67ec7820f96d91f/0x0.jpg"
-        width: 710
-        height: 399
         isCached: true
   - title: "SoftBank Vision Fund 2 leads a $100 million funding in this Indian founder’s global healthtech startup"
     excerpt: "Japanese investment firm SoftBank ’s Vision Fund 2 has led a $100 million fund in Biofourmis – a digital therapeutics startup. The round also saw participation from the startup’s existing investors Openspace Ventures,"

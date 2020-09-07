@@ -2,6 +2,88 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-08-17-artificial-intelligence-breakthrough-could-allow-ai-to-merge-with-human-brain.md",
+      "title": "Artificial Intelligence: Breakthrough could ‘allow AI to merge with human brain’",
+      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) experts believe the discovery of a cutting-edge material could finally achieve ambitions of fusing the human brain with machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news-1323930.jpg?r=1597682083508",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news/amp",
+      "publishedDateTime": "2020-08-17T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-transperfect-introduces-free-on-demand-translation-tool-for-google-chrome-with-release-of-globallink-now-extension.md",
+      "title": "TransPerfect Introduces Free On-Demand Translation Tool For Google Chrome With Release Of GlobalLink NOW Extension",
+      "excerpt": "By employing neural machine translation and AI technology to securely deliver ... reduces the challenges associated with overcoming language barriers. In addition to performing ad hoc translation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17123177/transperfect-introduces-free-on-demand-translation-tool-for-google-chrome-with-release-of-globalli",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17123177/transperfect-introduces-free-on-demand-translation-tool-for-google-chrome-with-release-of-globalli",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/321003/transperfect_logo.jpg",
+          "width": 400,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17123177",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17123177",
+      "publishedDateTime": "2020-08-17T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-ibm-inks-deal-with-samsung-to-build-its-latest-chip-processor.md",
       "title": "IBM Inks Deal With Samsung to Build its Latest Chip Processor",
       "excerpt": "International Business Machines Corporation IBM recently unveiled its latest chip processor — IBM POWER 10 — which will be manufactured by Samsung Electronics. The chip is primarily meant for use across data center operations and will be based on Samsung’s 7-nanometer (nm) process technology.",
@@ -1009,79 +1091,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership.md",
-      "title": "DBS Bank looks to train 3,000 employees in AI with AWS partnership",
-      "excerpt": "Singapore bank will run online tutorials for DBS employee to pick up fundamentals of artificial intelligence and machine learning, so they can eventually programme their own autonomous race car for the AWS DeepRacer league.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
-      "originalUrl": "https://www.zdnet.com/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
-      "publishedDateTime": "2020-08-16T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-data-lakes-vs-data-warehouses-common-arguments.md",
-      "title": "Data Lakes vs. Data Warehouses – common arguments",
-      "excerpt": "While some data warehouses extend their SQL-based access to offer machine learning functionality, they do not offer native support to run widely available, programmatic data processing frameworks such as Apache Spark, Tensorflow and more. In contrast ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/data-lakes-vs-data-warehouses-common-arguments/",
-      "originalUrl": "https://www.dqindia.com/data-lakes-vs-data-warehouses-common-arguments/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-16T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

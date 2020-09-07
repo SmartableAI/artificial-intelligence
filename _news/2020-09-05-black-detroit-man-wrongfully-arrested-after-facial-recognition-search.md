@@ -57,6 +57,20 @@ related:
         width: 800
         height: 392
         isCached: true
+  - title: "Israeli Facial Recognition Tech Startup AnyVision Raises Additional $43M"
+    excerpt: "AnyVision said that at a time when demand for innovative technologies that help companies meet the challenges of the new reality is soaring, the company sees significant growth for their Touchless Access Control across all verticals within organizations that host large numbers of people in shared spaces."
+    publishedDateTime: 2020-09-07T14:53:00Z
+    webUrl: "https://nocamels.com/2020/09/israeli-facial-recognition-tech-startup-anyvision-raises-additional-43m/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 53
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/09/facialreco.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "The twisted case of facial recognition"
     excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
     publishedDateTime: 2020-09-04T04:04:00Z

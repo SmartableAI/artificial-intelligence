@@ -1,0 +1,77 @@
+---
+category: news
+title: "AI in Fintech Market To See Remarkable Growth By 2025 | Amazon Web Services, Inbenta Technologies, IPsoft"
+excerpt: "An extensive elaboration of the Global AI in Fintech market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market."
+publishedDateTime: 2020-09-07T17:19:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-to-see-remarkable-growth-by-2025-amazon-web-services-inbenta-technologies-ipsoft-2020-09-07"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-to-see-remarkable-growth-by-2025-amazon-web-services-inbenta-technologies-ipsoft-2020-09-07"
+type: article
+quality: 52
+heat: -1
+published: false
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Artificial Intelligence AI in Medical Market to Undertake Strapping Growth at CAGR of the End 2026 | IBM, Intel, Microsoft, SAP"
+    excerpt: "The research report focuses on target groups of customers to help players to effectively market their products and achieve strong sales in the global Artificial Intelligence AI in Medical market. It someone useful and relevant market information as per the business needs of players."
+    publishedDateTime: 2020-09-03T10:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-to-undertake-strapping-growth-at-cagr-of-the-end-2026-ibm-intel-microsoft-sap-2020-09-03?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
+    excerpt: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation Demand Growth Trend Opportunity and Forecast to 2026"
+    publishedDateTime: 2020-09-04T06:29:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266296215/global-artificial-intelligence-in-the-medical-imaging-market-2020-segmentation-demand-growth-trend-opportunity-and-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 7
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1599177222136.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Europe AI in Social Media Market, Forecast to 2025 with Profiles of 10 Leading Players Including Microsoft, Google, AWS, Adobe and Facebook"
+    excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research."
+    publishedDateTime: 2020-09-07T11:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 5
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+
+secured: "uEBJLxvyf7NcmmaS/Pyhw2GOUj/OrJTNXBJIiRPVdh60IRtjXUC7gAvOsMz2dJ/81OOjsVPiDRSbbjynV1ahx1kIZVl4uhxtrxUZNHVwMaTa0j9SHSW3xU8FU071TNV1I9PhA4sTjI/Rr4ZzUVIiYritXeVYNFGPWgbNojjyNydz3WNIdNWArHXH1uqMYE/Wyg8frB5yK5+k9hMmHpSEe43R8C5FCsiRArDoFzIf9gk+splbTFm4AW3GFTc1y2BX45v1gmoF6e1Q3GoJJybzF43Yh2s8Ph9Un3Wz+FPdzAEWgzlZdjSP/YdN3P+HVsaklanxQO+t3FW3Zo8cBW4gTWeOxEElW1F8i42IvUrdmGE=;Re4M0nlGyEcscKUODHgoPw=="
+---
+

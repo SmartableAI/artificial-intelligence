@@ -8,9 +8,9 @@ webUrl: "https://www.ciol.com/iit-delhi-pg-phd-programmes-school-artificial-inte
 ampWebUrl: "https://www.ciol.com/iit-delhi-pg-phd-programmes-school-artificial-intelligence-scai-will-begin-january-2021/amp/"
 cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/iit-delhi-pg-phd-programmes-school-artificial-intelligence-scai-will-begin-january-2021/amp/"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: CIOL
@@ -19,6 +19,13 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
+
+images:
+  - url: "https://www.ciol.com/wp-content/uploads/2020/08/IIT-Delhi.jpg"
+    width: 850
+    height: 400
+    isCached: true
 
 related:
   - title: "IIT-Delhi launches School of Artificial Intelligence; course to begin from Jan 2021"
@@ -38,6 +45,6 @@ related:
         height: 675
         isCached: true
 
-secured: "xEEIJXjmp0Z1K6Xp3IM2JtcRoYzaR0HGmGGn1G2J8+esLXyhR7h6PPOvvdHScfM+gmgoHVfFEqFKyZwlKyARCUlPv+KpGcjXYzvKwcZPyRyfbTmaJY9H1bq7L01Fa7jyMwu8FQvhlN8pzeHPHIB/fCTFYz4oaucfSMwqwE6tDu0Uo8eN5v4RpDfLI713Z9YRdx3OwLxXTMqhD3KKeTVrTHrpXOU/wj127utcSFxtxHampg4rNrLrOjVmA4P+8wxcoZeLJkd8R+qTIEXTPEqeZRrY+ZlyrjxO5aydBPst01LSfu8kpq+nWi1jc5TW2vXfbT32KYyiKdIyapNXDsgs2Ef+iJI/zKT2/QX1paHc0D0xaV4nyczReEokQDUNqPrmrfUQAejwJZOFGpADktunLi7GAJ9/oJZFgWY4GzO9li7/K/9KKcsvSNRt3cvZRJOP/T5emJv4PD7Z+mlb0PVhA3lhY/u5dOkM3nrqeNTMmjgYQt988hky5h6+J0ssCg2QCmd/bfhULB9APOGvEuSXyhXm9hiQP0dzRPmtFoLWEIY=;m3kHqjAHo7AfcWokWHLtGA=="
+secured: "fvgDB7BJcH/wW/XinF8Z3UL4fQZ9Tfoko9VZJ3H9PdZaY2YXqQSgeqAuEV/cKzT7pRGBWe7K/tIUElPcRI1k36DM34KE/iIlonjjJ86vLHjVfVPyPDQXfXWiSSPp3IiewRXMQSZgkxtACNUl7++UllbFjIm2GMHeRKharGRFXklII2FDv5N4UT03Pwz1i5xcyOmFE/yRz+vc4lPSd8cLrBI+u44a9TZcQL2L7MfGyOm8LjoLzQNzZPJnMe17H/GvQB2rqn6sEZpMZtIxjY96xA2vkPFVrfOKbe+oMS+I6rBD8tZrrv84RvrjcyzgoLk2TGkgdUhKURRtSrTrg3LOSTiAJBXdrouW888cPVDUiIw=;OWl1HShbA86a/D8JhRkdZA=="
 ---
 

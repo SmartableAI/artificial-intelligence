@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Technavio Research: COVID-19: Facial Recognition Market 2020-2024 | Increasing Instances of Identity Theft to Boost Market Growth | Technavio"
-    excerpt: "Technavio has been monitoring the facial recognition market and it is poised to grow by USD 3.35 billion during 2020-2024, progressing at a CAGR of almost 12% during the forecast period. The report of"
-    publishedDateTime: 2020-09-02T23:14:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50607174-technavio-research-covid-19-facial-recognition-market-2020-2024-increasing-instances-of-identity-theft-to-boost-market-growth-technavio-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 4
-    images:
-      - url: "https://mms.businesswire.com/media/20200902005152/en/817661/4/IRTNTR44231.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "7vnKxMuGhCx0lY/aiE1OZSoSigByEx+y/wZlUThmBX2VvZnKPT2Q3FfT9qGgUUMyhWDnCqbFsx7Mo0CfCZ7gVkdpmuyxuvqLEM9ksqdDhcM1dR6YYSUazF5Em5nm2hpMh4K/pdpqAG1cseAuUO3X3vwPIngy3NGjYuDWCZqZGJUfkQ5Vio4E5tvGREJxTuFr2kPEXM9AWviCCJiV2mrzLEWtwv2vK3/PX4MJqp+r8EVkIfIgiQOprMgpsOBoaQ5PWW1YmhCh1jEMtwQDUb/yKTe1ESJy9S4tkM+LSZidalNEAOhEd3Wy4dPa9MtqC/x6XTl6b/CRmHLkbbji36x/VM9Y8hRPJ37d82awMfT0pRkVJGZ4WL892ZjcFGMxpNfRGJdKm6WBy6eJNhVGTtjhWhr2/XrT1Mlcc0k7DeVNwzh8e6sXoQwFlZk0P6USgqxtAdZqgRaRfDrfCHkjQFLO6owgjkJ1obQM1aS5QtulWLAj7XF/X2hMZHoTLlN9rdAJnkNl9EG66UmHj2Fe+sgQE1Q56VCG2k1VL4yy9wAh3/Y=;snse+VeExVQYC2tdWZCz9g=="
 ---
