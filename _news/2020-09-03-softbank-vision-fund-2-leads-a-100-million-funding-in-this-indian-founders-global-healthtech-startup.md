@@ -72,17 +72,6 @@ related:
         width: 710
         height: 399
         isCached: true
-  - title: "Boston startup Biofourmis raises $100m for remote medical tech"
-    excerpt: "As interest in telemedicine grows, the company is using wearable sensors and software to understand patients’ vital signs and help doctors make decisions about their care from afar."
-    publishedDateTime: 2020-09-02T22:12:00Z
-    webUrl: "https://www.bostonglobe.com/2020/09/03/business/biofourmis-boston-startup-focused-remote-medicine-raises-100m/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/09/03/business/biofourmis-boston-startup-focused-remote-medicine-raises-100m/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/09/03/business/biofourmis-boston-startup-focused-remote-medicine-raises-100m/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 37
 
 secured: "JF2Th6KHFzmaJGAVyHfcPqdPRLD7oVd+iie6Y3e43P5Lh5RwYwtvJI153hHfgywSZWF6jiwkWARYCSXn1VxwFX/rP6KrynSixiXWNAq586tu0vzQ6OwpudENPHuOJtR5lidxE0cU3CKOY9wRmWQfDdf67z8PENcXOUwNue7d3lieObRxQXOzWl1d0ML2l9oEZHRf9H/KLFLKIHKieBA3rJBmhQ5o+/ETgCpvS4UmS7dzsHOe8luk0Ep/Yr1NDMOtWA0YvfEbPi8IB4eFSV5EW2oG8vvWDevJzuNzmxHJalXpzVpeRIZfBXPkV0ES0WwGC3m5ORL90Q2sBO6UdwSyjqYTGbJWRzKuTBMDXkCdy4Y=;0Wwa/OzChO/AMhi9psUYMg=="
 ---

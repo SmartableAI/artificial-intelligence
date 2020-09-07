@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-health.h
 ampWebUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-health.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-artificial-intelligence-health.amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Machine Learning
   - AI
   - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/ai.jpg"
@@ -27,6 +28,6 @@ images:
     height: 1638
     isCached: true
 
-secured: "ctM6S1fEWiGJwuOYw4z+immkr3YTZvUGexar4xhYZ+86cHB6mWtzwmSSZ+IpHIK8FGYfr+HGqy9MBaOa6AE+qW6W6WA3Xvu8wL44ChVylcOM6mOTXAqCtGkVdn3sqOYE57nz0ObZYCPrT7Qbsv2WRxZ3svPAEuSwlojDq3RzSPLq9NxYKcXuYNUmiCGImvt/psmDBUlIR/h5RDwzgYa2C7PjaQ5AJvTlzrstHMwfmHJaCRFlU2Uf+SIOX7vIaOsoZA3AqHpd55vc0OhY/zsQ3GOkZFnxFJS7uBOIl4dfoeIH1PmMF0nRZ6A0ON6vWkLM0kdt9lFxuFjP/aTYsqbULfIbo8YUT3f339f/43cthH4=;Wj7DE+Qwh3XLP2YZ0Adg1w=="
+secured: "Q2qy7fRmznRo3Vka4SFVRj1Z9A6YZnN5ot7U1osCs0Q/BnjUQdtlseSNw5uB1VMJzxEPAaZjSkH0p6ebxvWwPnCGFX6aU9AvcAbHm609Pcyoi5igaAqchYIfhQ+W+sj3Z3x8EaQCYx+5lsCHoCiqIcreyspMTF8rKRvMpa7+FoovdjQlLPFkJTvhYjV2t9oZjLBuCCvHgeqTmcxwPbOci+WJwftcrqQDUMWaiMutk94TpdxCG07fkyB7yUrjAR7B8alk7O1MDqdLUxC5U963SJ8jLU9kS/8uE0P7jgMVxJNQEGtaJP48myyIWxZF9IgyjUv8caxABiq0rcA58twOzz4sw6OVcl208rDZc/XudNbGo/zAmy+dWWzkm/xTCNj6btg+eK6mMB9Ia0Plx16cRRjhkn/U6dp4MKl8CB1VpaVFbHYmPedtn19qvBtmAKvf4mps8LLnKBgOh/Mbe6lUCm4JLP/WwcfpZfeOAk5H73npv7kPUFX3TU0jGx/AnTfDTQU1KibO4YneD9HHovQyIg==;Rq0CG+PeJ5iKahM/nJhM4g=="
 ---
 

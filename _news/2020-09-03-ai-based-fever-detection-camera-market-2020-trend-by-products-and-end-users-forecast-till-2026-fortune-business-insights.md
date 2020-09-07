@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Worldwide Artificial Intelligence Chipsets Market Outlook to 2026: Emerging Trends and Will Generate New Growth Opportunities Status"
+    excerpt: "Global “Artificial Intelligence Chipsets Market” Market study report covers the global and regional market with an"
+    publishedDateTime: 2020-09-07T14:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/worldwide-artificial-intelligence-chipsets-market-outlook-to-2026-emerging-trends-and-will-generate-new-growth-opportunities-status-2020-09-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "OPyjMrmNoX42N9HkFEEct7cFQcNcWHt2gQ98AzplXc+rT9/2xTYQ7/ulDp+yFgq5vEj2G9ssq6TjYxurH50PVqKe/ls7cFGxZYNyQjNU6NXQvJo2E9EJBnC9rpXfGMIIBRHgdTr7WxTPQMADeKenZlOYxLGz+rZIHXMG2q5EAsr7DtTvkisP2bFo84H2WLf9LuHqaG3R64Z6HkC8dmKVSBd6CQM75UrDXLROH+bFI2fCK6w8w2nSgiWE0Soys/AXY3FwIVNHsLMVHur9tiU0ozRxy86TrvtSRDcK3IotM7KFIu2fCU0qz4SAiJb9hcZfMxfqIVS57I8u7bw/q7mbciJyysWV6bHgAptE+fhd+WE=;NSqzrCsZI22S+/31NdL+dQ=="
 ---

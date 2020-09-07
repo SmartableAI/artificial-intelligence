@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A new NHTSA tool will show you where self-driving cars are in testing"
+    excerpt: "You can now see ongoing driverless testing programs across the US, thanks to a new tool from the National Highway Traffic Safety Administration (NHTSA). The agency has launched the public-facing platform as part of its Automated Vehicle Transparency and Engagement for Safe Testing Initiative,"
+    publishedDateTime: 2020-09-04T05:49:00Z
+    webUrl: "https://www.engadget.com/nhtsa-tool-selfdriving-testing-053546596.html"
+    ampWebUrl: "https://www.engadget.com/amp/nhtsa-tool-selfdriving-testing-053546596.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nhtsa-tool-selfdriving-testing-053546596.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fb9984ac0-ee63-11ea-aefb-1134a8e15673&client=amp-blogside-v2&signature=eda3d9ab26329a0b8c9a76562e4c0b08cd3df60d"
+        width: 600
+        height: 350
+        isCached: true
   - title: "China's Anhui opens 5G-covered road for testing self-driving cars"
     excerpt: "HEFEI (Xinhua): A 5G-covered road for testing self-driving cars was formally opened in Baohe district of Hefei city, East China's Anhui province Thursday (Sept 3), welcoming the first batch of passengers."
     publishedDateTime: 2020-09-03T10:47:00Z

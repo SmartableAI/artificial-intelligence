@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Track self-driving car tests in your area with the latest internet tool"
-    excerpt: "Curious about the locations where autonomous cars are tested? The US Department of Transportation has a new tool for that."
-    publishedDateTime: 2020-09-02T21:05:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-tests-locations-tracking-tool/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-tests-locations-tracking-tool/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "A new NHTSA tool will show you where self-driving cars are in testing"
-    excerpt: "You can now see ongoing driverless testing programs across the US, thanks to a new tool from the National Highway Traffic Safety Administration (NHTSA). The agency has launched the public-facing platform as part of its Automated Vehicle Transparency and Engagement for Safe Testing Initiative,"
-    publishedDateTime: 2020-09-04T05:49:00Z
-    webUrl: "https://www.engadget.com/nhtsa-tool-selfdriving-testing-053546596.html"
-    ampWebUrl: "https://www.engadget.com/amp/nhtsa-tool-selfdriving-testing-053546596.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nhtsa-tool-selfdriving-testing-053546596.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fb9984ac0-ee63-11ea-aefb-1134a8e15673&client=amp-blogside-v2&signature=eda3d9ab26329a0b8c9a76562e4c0b08cd3df60d"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Daimler Trucks Tests Self-Driving Vehicles in US Southwest"
     excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics are expanding their testing of self-driving trucks to public roads in New Mexico along major long-haul freight routes."
     publishedDateTime: 2020-09-03T19:14:00Z
@@ -102,6 +70,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "5G-covered road for self-driving vehicles official opens in China"
+    excerpt: "A 5G-covered road for testing self-driving cars was formally unveiled in Baohe district of Hefei city in east China’s Anhui province on Thursday, September 3."
+    publishedDateTime: 2020-09-03T14:43:00Z
+    webUrl: "https://yen.com.gh/169107-5g-covered-road-driving-vehicles-official-opens-china.html"
+    ampWebUrl: "https://yen.com.gh/amp/169107-5g-covered-road-driving-vehicles-official-opens-china.html"
+    cdnAmpWebUrl: "https://yen-com-gh.cdn.ampproject.org/c/s/yen.com.gh/amp/169107-5g-covered-road-driving-vehicles-official-opens-china.html"
+    type: article
+    provider:
+      name: Yen.com.gh
+      domain: yen.com.gh
+    quality: 44
+    images:
+      - url: "https://netstorage-yen.akamaized.net/images/90287a5f83981aac.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Daimler Tests Self-Driving Trucks in Southwest"
     excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
     publishedDateTime: 2020-09-05T21:38:00Z
@@ -115,6 +99,20 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/09/16x9/AP2060477072155543.5f5245e61426c.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Yandex Restructures Self-Driving Business"
+    excerpt: "Yandex will increase its stake in the new company (Yandex SDG) to 73% and invest an additional $150 million in its future development. MOSCOW and AMSTERDAM, Sept. 04, 2020 (GLOBE"
+    publishedDateTime: 2020-09-04T08:00:00Z
+    webUrl: "https://apnews.com/ba78c51351f156d01b152f506e366b71"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "jZZHRRUsU85me+fIxR7HJ0HZ4qcf9gDI9/gOO7fsd5XUg7wacZDLeE8zqoiipXaAjkWVWTAc9Dyfos10H8TYNcxcRsb4oGGEt8Q4j5O4ixTds46dqzKVbcATqLtP7zDzG686w6+iqwEbQqwzL+NPJVjCD6fepIX2DOedUMtw8n2sV1rQ+S7tfCZ0J1T7rm0Z41j4pjVWUSf7YZjOkC2GWXjTRS77FYW2VcveBWjMYLdMLhS6Az2yNsZ/QSpvM5r7S2qc2NjzFn8rpvMDBkcZgI2cLFPQky4vBtaIeUHvSZu3Ya26ESwRk3hAxV/16n4utUoHD5FAZxCh0aTx4ukXQa9aQgooa8TxoseKrAOaaQ2WtMAm/y39cNBQpVsKWE9k8uqn02Jpm73qdy2rtUDHf0Lu4tZ4qT/9NzTX5fjRwCqE3rcyOb1HAaXWOJBHzby286s/hN6swjJsDrIPDH1rckKBzx91FoCgJTtCqttE6Ig9AIVN27rX57kjXgOsHMyCRPraA6EDzgDMkqM3TOvP2w==;Gi/wh6lirkG8Ldff6x/XgQ=="

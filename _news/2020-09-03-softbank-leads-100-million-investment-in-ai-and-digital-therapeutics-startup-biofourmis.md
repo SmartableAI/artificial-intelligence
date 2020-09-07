@@ -61,17 +61,6 @@ related:
         width: 1200
         height: 561
         isCached: true
-  - title: "Boston startup Biofourmis raises $100m for remote medical tech"
-    excerpt: "As interest in telemedicine grows, the company is using wearable sensors and software to understand patients’ vital signs and help doctors make decisions about their care from afar."
-    publishedDateTime: 2020-09-02T22:12:00Z
-    webUrl: "https://www.bostonglobe.com/2020/09/03/business/biofourmis-boston-startup-focused-remote-medicine-raises-100m/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/09/03/business/biofourmis-boston-startup-focused-remote-medicine-raises-100m/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/09/03/business/biofourmis-boston-startup-focused-remote-medicine-raises-100m/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 37
   - title: "SoftBank Vision Fund 2 leads a $100 million funding in this Indian founder’s global healthtech startup"
     excerpt: "Japanese investment firm SoftBank ’s Vision Fund 2 has led a $100 million fund in Biofourmis – a digital therapeutics startup. The round also saw participation from the startup’s existing investors Openspace Ventures,"
     publishedDateTime: 2020-09-03T07:47:00Z

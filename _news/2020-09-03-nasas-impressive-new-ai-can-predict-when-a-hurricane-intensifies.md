@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "NASA scientists develop AI to predict hurricane strength"
-    excerpt: "A team of scientists, including those at NASA’s Jet Propulsion Laboratory, has developed an artificial intelligence algorithm to predict the rapid intensification of tropical storms and"
-    publishedDateTime: 2020-09-02T21:07:00Z
-    webUrl: "https://bgr.com/posts/5868121/b74974-nasa-scientists-develop-ai-to-predict-hurricane-strength/"
-    ampWebUrl: "https://bgr.com/2020/09/02/hurricane-ai-algorithm-intensity/amp/"
-    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/09/02/hurricane-ai-algorithm-intensity/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 57
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2018/09/hurricane-florence-waves.jpg?quality=70&#038;strip=all"
-        width: 1879
-        height: 889
-        isCached: true
-  - title: "Scientists want AI to help predict dangerous hurricanes"
-    excerpt: "A team of scientists, including those at NASA’s Jet Propulsion Laboratory, has developed an artificial intelligence algorithm to predict the rapid intensification of tropical storms and"
-    publishedDateTime: 2020-09-02T21:10:00Z
-    webUrl: "https://bgr.com/2020/09/02/hurricane-ai-algorithm-intensity/"
-    ampWebUrl: "https://bgr.com/2020/09/02/hurricane-ai-algorithm-intensity/amp/"
-    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/09/02/hurricane-ai-algorithm-intensity/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 57
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2018/09/hurricane-florence-waves.jpg?quality=70&#038;strip=all"
-        width: 1879
-        height: 889
-        isCached: true
   - title: "JPL Machine-Learning Project Could Help Predict Dangerous Hurricane Behavior"
     excerpt: "Scientists at NASA’s Jet Propulsion Laboratory have applied machine learning to predict when hurricanes will suddenly intensify, with potentially damaging and deadly results, with better accuracy than ever before,"
     publishedDateTime: 2020-09-03T21:49:00Z

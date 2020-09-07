@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-to-witness-huge-growth-by-2026-2020-09-02"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
     images:
       - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2020/09/shutterstock_1101332606-800x450.jpg"
         width: 800
-        height: 450
-        isCached: true
-  - title: "COVID-19: Facial Recognition Market 2020-2024 | Increasing Instances of Identity Theft to Boost Market Growth | Technavio"
-    excerpt: "Technavio has been monitoring the facial recognition market and it is poised to grow by USD 3.35 billion during 2020-2024, progressing at a CAGR of almost 12% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
-    publishedDateTime: 2020-09-02T23:00:00Z
-    webUrl: "https://apnews.com/b80d1caef47a4be7b0929cf252a57ecb"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
         height: 450
         isCached: true
   - title: "Technavio Research: COVID-19: Facial Recognition Market 2020-2024 | Increasing Instances of Identity Theft to Boost Market Growth | Technavio"

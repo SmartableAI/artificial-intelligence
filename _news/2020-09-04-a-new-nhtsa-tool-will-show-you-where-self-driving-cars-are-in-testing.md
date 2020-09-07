@@ -31,94 +31,79 @@ images:
     isCached: true
 
 related:
-  - title: "Track self-driving car tests in your area with the latest internet tool"
-    excerpt: "Curious about the locations where autonomous cars are tested? The US Department of Transportation has a new tool for that."
-    publishedDateTime: 2020-09-02T21:05:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-tests-locations-tracking-tool/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-tests-locations-tracking-tool/"
+  - title: "What coronavirus means for the future of self-driving cars"
+    excerpt: "It's 2025 and driverless cars still aren't zooming around everywhere. Where are the chilled out passengers on their phones, or napping, as an invisible \"driver\" navigates a crowded intersection? They're still mostly stuck in the backseat as a human driver shuttles them around."
+    publishedDateTime: 2020-09-03T12:00:00Z
+    webUrl: "https://mashable.com/article/autonomous-vehicles-2025/"
+    ampWebUrl: "https://mashable.com/article/autonomous-vehicles-2025.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicles-2025.amp"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: Mashable
+      domain: mashable.com
     quality: 74
     images:
-      - url: "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg"
+      - url: "https://mondrian.mashable.com/2020%252F09%252F03%252F6f%252Fa6d4e4206f524273a456c835e927fc6a.f164f.jpg%252F1200x630.jpg?signature=Gkxu5UScrquIxeAET3ZxIXak-BE="
         width: 1200
         height: 630
         isCached: true
-  - title: "Daimler Trucks Tests Self-Driving Vehicles in US Southwest"
-    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics are expanding their testing of self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-    publishedDateTime: 2020-09-03T19:14:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest"
-    ampWebUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest?context=amp"
+  - title: "China opens 5G-covered road for testing of self-driving cars"
+    excerpt: "A 5G-covered road for testing self-driving cars was formally opened in Baohe District of Hefei City, east China’s Anhui Province on Thursday"
+    publishedDateTime: 2020-09-03T10:57:00Z
+    webUrl: "https://www.vanguardngr.com/2020/09/china-opens-5g-covered-road-for-testing-of-self-driving-cars/"
+    ampWebUrl: "https://www.vanguardngr.com/2020/09/china-opens-5g-covered-road-for-testing-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/09/china-opens-5g-covered-road-for-testing-of-self-driving-cars/amp/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
-  - title: "Daimler Trucks tests self-driving vehicles in New Mexico"
-    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics are expanding their testing of self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-    publishedDateTime: 2020-09-03T21:29:00Z
-    webUrl: "https://www.kob.com/albuquerque-news/daimler-trucks-tests-self-driving-vehicles-in-new-mexico/5850651/"
-    ampWebUrl: "https://amp.kob.com/articles/daimler-trucks-tests-self-driving-vehicles-in-new-mexico-5850651.html"
-    cdnAmpWebUrl: "https://amp-kob-com.cdn.ampproject.org/c/s/amp.kob.com/articles/daimler-trucks-tests-self-driving-vehicles-in-new-mexico-5850651.html"
-    type: article
-    provider:
-      name: KOB 4
-      domain: kob.com
-    quality: 59
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 44
     images:
-      - url: "https://www.kob.com/KOB_800x450.jpg"
+      - url: "https://i2.wp.com/www.vanguardngr.com/wp-content/uploads/2020/09/5b70f609a310add1c6967fc3.jpeg?fit=1198%2C799&ssl=1"
+        width: 1198
+        height: 799
+        isCached: true
+  - title: "China's Anhui opens 5G-covered road for testing self-driving cars"
+    excerpt: "HEFEI (Xinhua): A 5G-covered road for testing self-driving cars was formally opened in Baohe district of Hefei city, East China's Anhui province Thursday (Sept 3), welcoming the first batch of passengers."
+    publishedDateTime: 2020-09-03T10:47:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2020/09/03/china039s-anhui-opens-5g-covered-road-for-testing-self-driving-cars"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/09/03/845506.jpeg"
+        width: 640
+        height: 426
+        isCached: true
+  - title: "Yandex, Uber to spin off self-driving unit of JV"
+    excerpt: "Yandex and Uber Technologies Inc. will spin off the self-driving car unit of their joint venture into a separate company, giving Yandex more control over the businesses and paving the way for new investors."
+    publishedDateTime: 2020-09-04T10:14:00Z
+    webUrl: "https://www.autonews.com/mobility-report/yandex-uber-spin-self-driving-unit-jv"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Yandex-MAIN_0.jpg"
         width: 800
-        height: 450
+        height: 600
         isCached: true
-  - title: "Daimler Trucks tests self-driving vehicles in US Southwest"
-    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-    publishedDateTime: 2020-09-05T04:10:00Z
-    webUrl: "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
-    ampWebUrl: "https://www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
+  - title: "Self-driving restaurant-on-wheels brings food trucks into the future"
+    excerpt: "The food truck can go where it experiences the highest demand, and can serve as many customers as possible while instituting a safe, social distancing policy. The Streat builds on that idea with an autonomous,"
+    publishedDateTime: 2020-09-06T21:00:00Z
+    webUrl: "https://www.yankodesign.com/2020/09/06/self-driving-restaurant-on-wheels-brings-food-trucks-into-the-future/"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 59
+      name: Yanko Design
+      domain: yankodesign.com
+    quality: 24
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "New Federal Govt Tool Helps Track Self-Driving Vehicle Testing Efforts Across US"
-    excerpt: "The National Highway Traffic Safety Administration (NHTSA) on Wednesday released an online tool to let improve the availability of public information surround the testing of"
-    publishedDateTime: 2020-09-03T08:14:00Z
-    webUrl: "https://www.benzinga.com/government/20/09/17363138/new-federal-govt-tool-helps-track-self-driving-vehicle-testing-efforts-across-us"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17363138"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17363138"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/david-von-diemar-zbwn5dvo0hg-unsplash_0.jpg"
-        width: 5456
-        height: 3284
-        isCached: true
-  - title: "Daimler Tests Self-Driving Trucks in Southwest"
-    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-    publishedDateTime: 2020-09-05T21:38:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21174127/daimler-trucks-tests-selfdriving-vehicles-in-us-southwest"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/09/16x9/AP2060477072155543.5f5245e61426c.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.yankodesign.com/images/design_news/2020/08/Stria_folding_ruler-510x314.jpg"
+        width: 510
+        height: 314
         isCached: true
 
 secured: "O0icCXOsfHDKHS7mi1mGp8WvOFGdTL/JgmGHrpU/2aSAVWh2WKYlQojzjLLu1MGGrJ5dFhgUvvsQr1nblZDTzrIrX0bPZJhp4XiTnKsu1fI+zqsyLMca1bhhgdz1CG1yloBmQaIc3FJeaeoZkBfAjCoZ74FF9aAan4tkSmgJsH/RBh7STjBr8hp6duYxZ2lXo+BwnbZkrdxy1vERl5+U3RWWpSUBUZ70+Nr0CiygbFM7/UlAHWRINb43kdB7e2zFGVSm7WwRxR2ZubuETAzg5qyZ4x7KJqBQt8VFbPUb6tD/NTNZCwbapjO/kldMKNgzzY61xlk5JAJPH9Zn4t2SRlE50ZTAZn04n7+gRbZWDMjFXORlMJ329kIAI18uuRwGACaWDbDW5rM8t0dJGk66OpygC+SXM9lyh/eBGxYdVspWb7Nt9bty3dQ3JnPZO9t2weA9Oz4+wG3bvj4so3ke66pektrJAT1QpbRpicxCj9LdL631YVNegC9W2YBFDhpVXy/dqgs+EQ9wVVa1hbdBuMlhmafzxTQHBiYM2GkZTqI=;H6Se8xwVdd82Xz+rMw2iQQ=="
