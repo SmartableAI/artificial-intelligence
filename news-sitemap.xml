@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.dcvelocity.com/articles/47088-how-ai-and-machine-learning-are-redefining-cybersecurity</loc>
+    <lastmod>2020-09-07T03:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.infoworld.com/article/3573372/amazon-braket-get-started-with-quantum-computing.html</loc>
+    <lastmod>2020-09-07T03:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-to-2024---featuring-advanced-micro-devices-alphabet-apple-among-others-2020-09-07-51843431</loc>
     <lastmod>2020-09-07T02:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -343,6 +355,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-to-undertake-strapping-growth-at-cagr-of-the-end-2026-ibm-intel-microsoft-sap-2020-09-03?mod=mw_quote_news</loc>
+    <lastmod>2020-09-03T03:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206</loc>
     <lastmod>2020-09-03T03:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -529,12 +547,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://m.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02</loc>
-    <lastmod>2020-09-02T07:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/</loc>
     <lastmod>2020-09-02T06:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -591,6 +603,12 @@
   <url>
     <loc>https://www.zdnet.com/article/python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects/</loc>
     <lastmod>2020-09-02T02:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02</loc>
+    <lastmod>2020-09-02T02:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

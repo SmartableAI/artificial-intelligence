@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "U.S. NHTSA’s autonomous vehicle test tracking tool is light on data"
-    excerpt: "In June, the U.S. National Highway Traffic Safety Administration (NHTSA) detailed the Automated Vehicle Transparency and Engagement for Safe Testing (AV TEST), a program that purports to provide a robust source of information about autonomous vehicle testing."
-    publishedDateTime: 2020-09-02T17:50:00Z
-    webUrl: "https://venturebeat.com/2020/09/02/u-s-nhtsas-autonomous-vehicle-test-tracking-tool-is-light-on-data/"
-    ampWebUrl: "https://venturebeat.com/2020/09/02/u-s-nhtsas-autonomous-vehicle-test-tracking-tool-is-light-on-data/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/u-s-nhtsas-autonomous-vehicle-test-tracking-tool-is-light-on-data/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/bb86e4ec-f2f6-4cce-a490-fedc4204a7ef-e1599067344996.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "A new NHTSA tool will show you where self-driving cars are in testing"
     excerpt: "You can now see ongoing driverless testing programs across the US, thanks to a new tool from the National Highway Traffic Safety Administration (NHTSA). The agency has launched the public-facing platform as part of its Automated Vehicle Transparency and Engagement for Safe Testing Initiative,"
     publishedDateTime: 2020-09-04T05:49:00Z

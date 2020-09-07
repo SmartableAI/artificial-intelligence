@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-to-undertake-strapping-growth-at-cagr-of-the-end-2026-ibm-intel-microsoft-sap-2020-09-03?mod=mw_quote_news"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: MarketWatch
@@ -41,6 +41,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1599177222136.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Europe AI in Social Media Market, Forecast to 2025 with Profiles of 10 Leading Players Including Microsoft, Google, AWS, Adobe and Facebook"
+    excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research."
+    publishedDateTime: 2020-09-07T11:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 5
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "dGvTAr7+fgt9zbc88VTakDsfimxriBmOq6dGYurucWY7iZ/qgv4kmRNj2yXzmNu2zbSgq9fFDJ0C/7/03/6RW/VR2YRQU+oDeyMBCKhczpH55gkglkodyzRdLjh6EqsTBCsb0K9zrcdRzjs2gDHSnhzxsjqTHbVYzVB+pSNNlxId1hRCuwYeghU66ObZ8DUgZVKXZmgyatPRX+CAN6SRz4II+9i9OHxwlY5yR0CRomphpSH4fa72wU0CwFr9zWGXQ4ZpWhAxUXyjuK3Wyc0whHJ0zNIqFzp39nHhRj61hBrH9b9q+SDkXfyEr/PbN3IjcQ9l4IgcZdHA4SwbafqTeYWOs+CgmwUthROmQ5dxh58=;tQ2eJ0wBOgoGwAHAn6kBnw=="

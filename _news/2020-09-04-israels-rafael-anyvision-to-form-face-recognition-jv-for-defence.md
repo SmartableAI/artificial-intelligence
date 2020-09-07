@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-fac
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03?amp"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Israeli facial recognition tech reduces chance of human bias"
-    excerpt: "Just as it is wrong to say machines are ‘biased’ it’s wrong to say machines are not biased, however, AI systems are less biased than people."
-    publishedDateTime: 2020-09-02T18:02:00Z
-    webUrl: "https://www.jpost.com/jpost-tech/israeli-facial-recognition-tech-reduces-chance-of-human-bias-640860"
-    ampWebUrl: "https://m.jpost.com/jpost-tech/israeli-facial-recognition-tech-reduces-chance-of-human-bias-640860/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/israeli-facial-recognition-tech-reduces-chance-of-human-bias-640860/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/463006"
-        width: 640
-        height: 428
-        isCached: true
   - title: "From Microsoft dropping out to new collab with Rafael: Israeli AnyVision raises $43M"
     excerpt: "With action packed year behind them including Microsoft backing out and a new partnership with Rafael Technologies, Israeli startup AnyVision scores funding to dominate the world of facial"
     publishedDateTime: 2020-09-04T20:36:00Z

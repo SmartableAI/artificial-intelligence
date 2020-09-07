@@ -19,6 +19,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Healthcare
 
 secured: "isqbWRCP9Iq3NRuPLt+yiHRFoLQZLIY+hbiIc9uY4MLEF8aHYjWeWFi8EgfjSqK626lmaMxDdmk41wHgugLHc1kZmMTpTi9Ef4iCgP2mXq1e1op8HDYe2K5syZqs6jXve+tRWOJmo9yKqH4vWL+KHNCtD7aKXXLwN86dAKRhTvHlOqWXcgkXHQeKE7lsNkJkO3VPDObPuv/0J0bKGy8346QeHFb+xj8JhkR3/9cnZuGAIm6y1Py+S4XavmDI3QxIb5LSv+eykTbUlTbGYXg7XzZnzFODGmuRgqZMCogUIeB2V9xL+k4+mhIUXV41g0O8fZf9zbSiSZj35qxHJiYRofMZCo+aSE0GHnCvSbGRWrQ=;VI+y96tXvifdcsTdxGzAxg=="
 ---

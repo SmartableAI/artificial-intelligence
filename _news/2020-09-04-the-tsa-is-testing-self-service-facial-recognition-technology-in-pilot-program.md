@@ -9,7 +9,7 @@ ampWebUrl: "https://www.travelandleisure.com/airlines-airports/airport-tsa-facia
 cdnAmpWebUrl: "https://www-travelandleisure-com.cdn.ampproject.org/c/s/www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service?amp=true"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "City Councilman Hosting Discussion On Facial Recognition Technology And Policing"
-    excerpt: "Pittsburgh City Councilman Corey O'Conner says police using facial recognition technology would do more harm than good; KDKA's Lindsay Ward reports."
-    publishedDateTime: 2020-09-02T17:08:00Z
-    webUrl: "https://pittsburgh.cbslocal.com/video/4689627-city-councilman-hosting-discussion-on-facial-recognition-technology-and-policing/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4689627-city-councilman-hosting-discussion-on-facial-recognition-technology-and-policing/amp/"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4689627-city-councilman-hosting-discussion-on-facial-recognition-technology-and-policing/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 34
   - title: "IPC and GreenKey Technologies Launch Dictation as a Service"
     excerpt: "Dictation as a Service brings together GreenKey Technologies' industry-leading cloud-based speech recognition (automatic speech recognition) and natural language processing (NLP) engine with IPC's unparalleled Connexus Cloud financial ecosystem."
     publishedDateTime: 2020-09-03T13:20:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03"
 type: article
 quality: 58
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -99,6 +99,17 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Explore Trends and COVID-19 Impact on Russia and NATO Artificial Intelligence in Military Market 2020 Research Report and Industry Forecast till 2026"
+    excerpt: "Pages PDF Report] Facts & Factors (FnF) published a market research report on “Russia and NATO Artificial Intelligence in Military Market: By Size, Share, Growth Factors, Top Players, COVID-19 Analysis and Forecast,"
+    publishedDateTime: 2020-09-07T11:02:00Z
+    webUrl: "https://galusaustralis.com/2020/09/964076/explore-trends-and-covid-19-impact-on-russia-and-nato-artificial-intelligence-in-military-market-2020-research-report-and-industry-forecast-till-2026/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/964076/explore-trends-and-covid-19-impact-on-russia-and-nato-artificial-intelligence-in-military-market-2020-research-report-and-industry-forecast-till-2026/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/964076/explore-trends-and-covid-19-impact-on-russia-and-nato-artificial-intelligence-in-military-market-2020-research-report-and-industry-forecast-till-2026/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 0
 
 secured: "/8jj7h0/e4/exqOnf7tFd7uRHBMNOpbbYE4pnRMP5CF6xerak9JDwI2ulRfOhTuqcA2sOQIHnlP5OrHkr/qElARJau/2IQ7MuQYzEQEBRGR06N8UwJxRhDIly7Q2kcYhz/8LcGCjbVh+6WUPBL/6vuEL1wDItXs3KfNzMnDtHg9R6ga6TnylpTF5ZTo1NMCn0r7q5qjBhaf9znFVKaiYQoPagG5HcXS1o3wZwtTT3ZYZ12wZFBZa9MMHlM1IkEuxfK9xP5UG+bXlszAW5tuGTmAQjfqChgLonkY18PqDXnWgs3qdTQNUEXqJUyWPkIkThokyHSRc5gQNo/u4+IxTHCbjOKMNM+57nsEv32+xG8A=;11WyFmKip98UHq/iV5fCKQ=="
 ---

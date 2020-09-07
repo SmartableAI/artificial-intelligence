@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-se
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-04"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://galusaustralis.com/wp-content/uploads/2020/09/Artificial-Intelligence-AI-in-Education.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Europe Artificial Intelligence (AI) Market: Industry Analysis and Forecast (2019-2026) – by Offering, by Technology, by End user and by Country"
+    excerpt: "Market was valued at 17.20 billion in 2018 and is expected to grow at a CAGR of XX % between the forecast period of 2018 and 2026. The Europe Artificial Intelligence is segmented by offering, by technology,"
+    publishedDateTime: 2020-09-07T09:49:00Z
+    webUrl: "https://galusaustralis.com/2020/09/963429/europe-artificial-intelligence-ai-market-industry-analysis-and-forecast-2019-2026-by-offering-by-technology-by-end-user-and-by-country/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/963429/europe-artificial-intelligence-ai-market-industry-analysis-and-forecast-2019-2026-by-offering-by-technology-by-end-user-and-by-country/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/963429/europe-artificial-intelligence-ai-market-industry-analysis-and-forecast-2019-2026-by-offering-by-technology-by-end-user-and-by-country/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 36
+    images:
+      - url: "https://www.maximizemarketresearch.com/wp-content/uploads/2018/07/Europe-Artificial-Intelligence-AI-Market-By-Offering.png"
+        width: 435
+        height: 279
         isCached: true
   - title: "Global Computer Vision in Healthcare Market: Industry Analysis and Forecast (2018-2026) – by Type, Application, End User, Region."
     excerpt: "Global Computer Vision in Healthcare Market was valued US$ 200 Mn in 2017 and is expected to reach US$ 3450.3 Mn by 2026, at CAGR of 42.76% during forecast period. Growth of computer vision in healthcare market is driven by the increasing demand for computer vision systems in healthcare industry,"
