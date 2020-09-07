@@ -2,6 +2,105 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-08-08-hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-e-commerce.md",
+      "title": "Hypotenuse AI wants to take the strain out of copywriting for e-commerce",
+      "excerpt": "Imagine buying a dress online because a piece of code sold you on its ‘flattering, feminine flair’ — or convinced you ‘romantic floral details’ would outline your figure with ‘timeless style’. The very same day your friend buy the same dress from the same",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1158990325.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/amp/",
+      "publishedDateTime": "2020-08-07T18:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-08-08-how-to-create-an-ai-artificial-intelligence-startup.md",
+      "title": "How To Create An AI (Artificial Intelligence) Startup",
+      "excerpt": "Or another approach is to create a free app that collects data. “What we have found is that to build a successful AI startup, the key is sourcing and building proprietary data,” said Saniya ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/08/how-to-create-an-ai-artificial-intelligence-startup/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/08/how-to-create-an-ai-artificial-intelligence-startup/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2f585f8a220af55402e6bd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7257%26cropY1%3D341%26cropY2%3D4424",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/08/how-to-create-an-ai-artificial-intelligence-startup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/08/08/how-to-create-an-ai-artificial-intelligence-startup/amp/",
+      "publishedDateTime": "2020-08-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-nypd-besieges-a-protest-leader-as-he-broadcasts-live.md",
       "title": "N.Y.P.D. Besieges a Protest Leader as He Broadcasts Live",
       "excerpt": "A helicopter and dozens of officers, some in tactical gear, were deployed for an arrest at a Manhattan apartment but withdrew after protesters arrived.",
@@ -1072,97 +1171,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-microsoft-azure-a-cheat-sheet.md",
-      "title": "Microsoft Azure: A cheat sheet",
-      "excerpt": "Cray supercomputing comes to Microsoft Azure to boost AI workloads in the cloud (TechRepublic) Microsoft is working on an Azure-powered Cloud PC service (ZDNet) One of the core strengths of Microsoft Azure is the ease of transition for organizations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/",
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2016/03/10/094493b1-358a-4ef7-92db-663e6b745668/resize/1200x/c51ec9da1ef26e61c5713906a2fe515f/microsoftazure.png",
-          "width": 1200,
-          "height": 744,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/",
-      "publishedDateTime": "2020-08-06T17:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-ecobank-group-announces-the-2020-fintech-challenge-finalists.md",
-      "title": "Ecobank Group announces the 2020 Fintech Challenge Finalists",
-      "excerpt": "Ecobank Group( announced the finalists from the 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ocdn.eu/pulscms-transforms/1/zb2k9kuTURBXy81OTc0MzEzNS0wYzQyLTQ5MjctOGM2Mi0xZTNlOTBjMTQ0ODQuanBlZ5GTBc0BqczfgaExAA",
-          "width": 425,
-          "height": 223,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp",
-      "cdnAmpWebUrl": "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp",
-      "publishedDateTime": "2020-08-06T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Naija Gist - Latest",
-        "domain": "pulse.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

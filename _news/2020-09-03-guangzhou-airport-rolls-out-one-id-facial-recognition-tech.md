@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Dems Propose 5-Year Wait On Facial Recognition Technology"
+    excerpt: "State legislators want a five-year moratorium on use of any system that would pair facial recognition or biometric surveillance systems on police body cameras. A.10913/S.6776 was introduced in the state Assembly and Senate recently by Assemblywoman Nathalia Fernandez,"
+    publishedDateTime: 2020-09-07T05:31:00Z
+    webUrl: "https://www.post-journal.com/news/local-news/2020/09/dems-propose-5-year-wait-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: The Post-Journal
+      domain: post-journal.com
+    quality: 54
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.post-journal.com/images/2016/10/31144144/fblike.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Snapchat defends procedures after facial recognition class action"
     excerpt: "The popular social media platform Snapchat faces allegations by two Illinois users that it stores information that makes them susceptible to identity theft."
     publishedDateTime: 2020-09-04T01:49:00Z

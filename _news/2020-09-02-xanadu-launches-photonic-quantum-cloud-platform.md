@@ -7,7 +7,7 @@ originalUrl: "https://betakit.com/xanadu-launches-photonic-quantum-cloud-platfor
 webUrl: "https://betakit.com/xanadu-launches-photonic-quantum-cloud-platform/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1024
     height: 595
     isCached: true
-
-related:
-  - title: "Xanadu launches quantum cloud platform, plans to double qubits every 6 months"
-    excerpt: "Xanadu, the quantum computing startup known for Pennylane and Strawberry Fields, has launched its photonics quantum computing platform."
-    publishedDateTime: 2020-09-02T11:24:00Z
-    webUrl: "https://venturebeat.com/2020/09/02/xanadu-photonics-quantum-cloud-platform/"
-    ampWebUrl: "https://venturebeat.com/2020/09/02/xanadu-photonics-quantum-cloud-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/xanadu-photonics-quantum-cloud-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 71
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/xanadu-toronto-office.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "C3IiU5Pev691Vk2eBPA3hzVPSM0feptSiLCpl+Z5Zie1+qw8+r98bnuBFzMVSthU+1lYGBb5dLj9y4JQQ69S2DGfOmt/wnN9qV2HTfj44xwcR0ItX2SnU2xt9fnyw6fftzvqfI1JRqB2Gcgq79M1EJfq88SSFLHjcimBx1Fc8rWyYI99/eEPSmDRLjAs7dl6xVU+kThEAz/7gcl+Xj31nJNsbemWf7VBh1UJtJEndZ7/799wThRjWjV/tYbsAnD8BrB2ULuIxrKWifNqXeNampq/3GnfSm6zbxIGY6E7biO1fiZA6SYYopYpY1kI7sRwciPSpYohbkBvCVACfpyuyuiiDKv8DOIb5wlSFwekb+sm07TKHF6E4V7bfz2FZKjdxz3U34hHHbJdYaxx3zfjw+vcBbPJ6+8Cj2uyMcU7kZdh0HBr5Ci5t/nT9bH3IS0kCTqVycbjOGOulDpgYmeYJWnQtJ7YiBob/+gDgExKlVOmaSDntNLSSidyK5i31VbasVZb7OdPX2t5mbNttYP3rgTaPBtjwoM3MyuWQdyxEnI=;NjujzhSupHkh6n3ynvAwVQ=="
 ---

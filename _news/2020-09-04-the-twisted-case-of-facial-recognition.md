@@ -3,10 +3,10 @@ category: news
 title: "The twisted case of facial recognition"
 excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
 publishedDateTime: 2020-09-04T04:04:00Z
-originalUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
-webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: kmworld.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
@@ -87,17 +88,6 @@ related:
         width: 800
         height: 392
         isCached: true
-  - title: "Reporter Update: Open Hearing On Facial Recognition Technology"
-    excerpt: "Pittsburgh City Council will hold an open hearing today regarding the usage of facial recognition technology by police. One councilman says if they were to get the technology, it would do more harm than good."
-    publishedDateTime: 2020-09-02T11:39:00Z
-    webUrl: "https://pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 39
   - title: "TSA is testing facial recognition at security checkpoints"
     excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
     publishedDateTime: 2020-09-04T14:34:00Z
@@ -138,6 +128,6 @@ related:
       domain: cbslocal.com
     quality: 33
 
-secured: "06wjKBk/UbsHfObq20Xi1u51P9jxi6hWLzHK4vV0sUiZO2lR+OQQv0KoIldZzYQcmzPH64H1pqIKzd5swFg8U4MRfZfll+uX21iihDqqv+zlov7rBPlyT7jxcuw3borsqS+nl4E5X12S/fv7FDI6oVPXKShvpIL3IUqrfwPz7csWwv5lZ8n5bEzfU4fWcTuqncXos2doBkwRS0VSnFlAu9ahXXVHPL54uxLnAywftNRPFFJlD8urh9sQaz1ds/pk/i78IUC6wwIGp8psFHXQLDssZx8LWA/c9q1aI23ErhOf4GBrnTxpNPvxUVwPk/NGWaKOfDMxVnODFhDaYFheqNvuDwbH2CUPCKMZN3va4Is=;gi4w0N3liunkKj/E9Glitg=="
+secured: "woZwpHGL0AvEu4eI9F+3psabDHrOssst9Tvr+Y+TrbQrVVK0xGm/+0hZPndEm95PKhY9t3/SMnuGIiw6NepZ9lsBAZ7jSzcA2VQ2IfMlle3vSi4iW65kk6u6QNv7XOcHpY/MKKDzYiINPyhIdGLxiY8PQBUihcjwV+E9BEFoSzJP5FHmdaX/VFKUIMOSyiAKysHeqqadJc+cGklLpA9bMcJfSlowwuwyrTA6wpS/poMxkxelI/z+SX7DbByTjA8T9Cqwb7nig5AwnGd0+R1kTUeZDI1M55cYicJRo03ocDQZKDdLPJPaZXHDPaPE/1WTGGnSFMukJxrE/gOwXAGJ//VPD8mFOjE4h4wj7fwRSN0=;4dToY93+toT43QC6ftnt5Q=="
 ---
 

@@ -87,26 +87,15 @@ related:
         width: 800
         height: 392
         isCached: true
-  - title: "Reporter Update: Open Hearing On Facial Recognition Technology"
-    excerpt: "Pittsburgh City Council will hold an open hearing today regarding the usage of facial recognition technology by police. One councilman says if they were to get the technology, it would do more harm than good."
-    publishedDateTime: 2020-09-02T11:39:00Z
-    webUrl: "https://pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 39
   - title: "The twisted case of facial recognition"
     excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
     publishedDateTime: 2020-09-04T04:04:00Z
-    webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
     type: article
     provider:
       name: KMWorld Magazine
       domain: kmworld.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
         width: 1200

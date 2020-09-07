@@ -22,37 +22,19 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Partnering with NSF on human-AI collaboration"
-    excerpt: "Today, in partnership with the U.S. National Science Foundation (NSF), we are announcing a National AI Research Institute for Human-AI Interaction and Collaboration. Google will provide $5 million in funding to support the Institute. We will also offer AI expertise, research collaborations, and Cloud"
-    publishedDateTime: 2020-09-02T13:00:00Z
-    webUrl: "https://blog.google/technology/ai/partnering-nsf-human-ai-collaboration/"
-    ampWebUrl: "https://blog.google/technology/ai/partnering-nsf-human-ai-collaboration/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/partnering-nsf-human-ai-collaboration/amp/"
+  - title: "Management AI: Matching AI Models To Business Needs, Unsupervised Learning, Customer Segmentation, And Association"
+    excerpt: "This is part two of my series based on Lomit Patel’s “Lean AI” (O’Reilly, ISBN:978-1-492-05931-8). The first discussed business applications can benefit from supervised learning. This article will discuss unsupervised learning. Again, refer to the ..."
+    publishedDateTime: 2020-09-03T15:58:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2020/09/03/management-ai-matching-ai-models-to-business-needs-unsupervised-learning-customer-segmentation-and-association/?ss=ai"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: Forbes
+      domain: forbes.com
+    quality: 45
     images:
-      - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
-        width: 1000
-        height: 1000
-        isCached: true
-  - title: "Google partners with NSF to fund human-AI research initiative"
-    excerpt: "A new institute will study how humans and AI working together can make better decisions than either on their own."
-    publishedDateTime: 2020-09-02T15:38:00Z
-    webUrl: "https://www.cnet.com/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/k5t5q-1Ql0SeC8jksbL2P0NerxQ=/756x567/2020/07/25/b0b10f7e-1ee0-498f-b535-f20bda6f570f/google-logo-phone-united-states-flag-4506.jpg"
-        width: 756
-        height: 567
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
+        width: 876
+        height: 548
         isCached: true
 
 secured: "NcqfbwGWLfMcxH3UjBfuptGvPG7iOVmO7lwi4vbkPNczBtu7RmO5/VzU2MbqpyHmg0BT5RTkQ5cpYnfcENIWduXvB4yAbAPJrGFbvc4SuoL0BZUK3P81kO6lcjrkUmQwvW+onoUOrK+d/MXvpRPH7FOXJ5ivswAaIkSItxyq6kRWamlhGcCRmjyvmr/NXisq8zXoEbzCf1ZUgxeCZWpJAjtx0VioXKVJiceVRr/Kru8fS+a1qIyhz18zMMftdW9mgf2azMDSsmGhyt1+gUfej8YSsCY3h3XhGGpQhlitd8c3fCt+4UQGfWXBDWo5rEl/GWYhQm8zBN8CgTbQ3kY1yWQk2FZPVBeW3uOr93FlAY4=;Bu/3gUD0KmujA5P0Ph39Eg=="

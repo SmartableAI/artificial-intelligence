@@ -71,6 +71,20 @@ related:
         width: 704
         height: 463
         isCached: true
+  - title: "Dems Propose 5-Year Wait On Facial Recognition Technology"
+    excerpt: "State legislators want a five-year moratorium on use of any system that would pair facial recognition or biometric surveillance systems on police body cameras. A.10913/S.6776 was introduced in the state Assembly and Senate recently by Assemblywoman Nathalia Fernandez,"
+    publishedDateTime: 2020-09-07T05:31:00Z
+    webUrl: "https://www.post-journal.com/news/local-news/2020/09/dems-propose-5-year-wait-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: The Post-Journal
+      domain: post-journal.com
+    quality: 54
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.post-journal.com/images/2016/10/31144144/fblike.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vanderbilt Proface X TD Facial Recognition Terminal with Temperature Detection"
     excerpt: "Powered by the ZKTeco-customized CPU for running the intellectualized engineeringfacial recognition algorithm and the latest computer vision technology, ProFace X [TD] supports both facial and palm verification with large capacity and rapid recognition ..."
     publishedDateTime: 2020-09-02T23:59:00Z

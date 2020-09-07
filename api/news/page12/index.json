@@ -2,6 +2,88 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-08-26-warehouse-picking-robot-startup-xyz-raises-17-million.md",
+      "title": "Warehouse Picking Robot Startup XYZ Raises $17 Million",
+      "excerpt": "The 3D-AI Vision processor, XYZ's core technology ... in Amazon Robotics Challenges for three consecutive years. \"As a young and energetic startup, XYZ Robotics has an extraordinary technical vision and R&D capabilities,\" said Zhe Chen, vice president ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/20/08/17251073/warehouse-picking-robot-startup-xyz-raises-17-million",
+      "originalUrl": "https://www.benzinga.com/news/20/08/17251073/warehouse-picking-robot-startup-xyz-raises-17-million",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/08/Screen-Shot-2020-08-26-at-14.42.06.png",
+          "width": 1085,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17251073",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17251073",
+      "publishedDateTime": "2020-08-26T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-microsofts-immersive-reader-for-azure-cognitive-services-is-now-available.md",
+      "title": "Microsoft’s Immersive Reader for Azure Cognitive Services Is Now Available",
+      "excerpt": "Immersive Reader is now generally available for Azure Cognitive Services following a significant increase in usage of the preview.",
+      "sourceUrl": null,
+      "webUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/",
+      "originalUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/",
+      "featuredContent": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2020/05/Translate-Microsoft-Edge-Immersive-Reader.jpg",
+          "width": 741,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp",
+      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp",
+      "publishedDateTime": "2020-08-26T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech.md",
       "title": "Robotaxi Startup Voyage Loads Self-Driving Vans With Coronavirus-Killing Tech",
       "excerpt": "The self-driving company that provides ride services for senior citizens is outfitting autonomous minivans with an ultraviolet lighting system adapted from ambulances.",
@@ -1063,109 +1145,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-coronavirus-may-help-best-buy-become-a-key-healthcare-player.md",
-      "title": "Coronavirus May Help Best Buy Become A Key Healthcare Player",
-      "excerpt": "Best Buy reported a better-than-expected second-quarter profit as coronavirus led consumers to buy appliances, computers and fitness gear to better their remote working and learning experiences. But the pandemic may also hasten its transition to becoming a major healthcare-industry player.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/",
-      "originalUrl": "https://www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f45998362219be6eb4aa647%2F0x0.jpg",
-          "width": 1200,
-          "height": 804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/amp/",
-      "publishedDateTime": "2020-08-25T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-michael-kanaan-the-us-needs-an-ai-sputnik-moment-to-compete-with-china-and-russia.md",
-      "title": "Michael Kanaan: The U.S. needs an AI ‘Sputnik moment’ to compete with China and Russia",
-      "excerpt": "Minus AI,” Kanaan calls attention to the need for the U.S. to wake up to AI as a matter of global power, in the same way that China and Russia have.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/",
-      "originalUrl": "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/tminus-ai-cover.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/amp/",
-      "publishedDateTime": "2020-08-25T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision"
+        "AI in Healthcare"
       ]
     }
   ],

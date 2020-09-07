@@ -78,20 +78,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Opportunity Outlook: European AI in Social Media Market 2020-2025 - Natural Language Processing (NLP) Expected to Dominate - ResearchAndMarkets.com"
-    excerpt: "The European AI In Social Media Market is expected to grow at a formidable rate during the forecast period. The European AI In Social Media Market is driven by the utilization of the AI technology for effective advertising campaigns on different social media platforms."
-    publishedDateTime: 2020-09-02T11:29:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200902005546/en/Opportunity-Outlook-European-AI-Social-Media-Market"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
-    images:
-      - url: "https://mms.businesswire.com/media/20200902005546/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Worldwide Augmented Reality in Healthcare Industry to 2025 - Major Players and Strategy Analysis"
     excerpt: "PRNewswire/ -- The \"Augmented Reality (AR) in Healthcare Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2020-09-02T18:45:00Z
