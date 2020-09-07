@@ -15,7 +15,7 @@ website: https://t.co/Z06UY9gVRv
 twitter:
   username: jmgduarte
   url: https://twitter.com/jmgduarte
-  followers: 189
+  followers: 188
 
 googleScholar:
   url: https://scholar.google.com/citations?user=GTtW9H0AAAAJ
