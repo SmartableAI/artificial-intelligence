@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03"
 type: article
 quality: 58
-heat: 88
+heat: 108
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global AI over Edge Computing Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
+    excerpt: "MarketsandResearch.biz has introduced a new report titled Global AI over Edge Computing Market 2020 by Company, Type and Application, Forecast to 2025 that offers an all-encompassing analysis of recent and upcoming states of this industry,"
+    publishedDateTime: 2020-09-06T19:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2020-09-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Education Market Dynamics and Competitive Scenario through 2023 | Impact of COVID-19 Pandemic"
     excerpt: "Artificial Intelligence in Education Market Research Report, Application (Content Delivery Systems), Technology"
     publishedDateTime: 2020-09-03T07:06:00Z
@@ -70,6 +84,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Covid-19 Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 - Dynamics, Trends, Revenue, Forecast to 2026"
+    excerpt: "Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 ndash Dynamics Trends Revenue Forecast to 2026"
+    publishedDateTime: 2020-09-03T11:59:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266288531/covid-19-impact-on-global-artificial-intelligence-education-technology-market-analysis-2020---dynamics-trends-revenue-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 4
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1599124582181.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "en9B1+TscRILo1GU5LBVPZ02tZgk15tqcMD2y+njvX7DDEcm1o/AIPbD7gB1qg3ebrAeBXx8beWDgZmfXVw4n4ze7desMdKqQxY4TZYudI9kucbBOE3t3hmcCnsUrJIPaW4N7kiJb726mdchZRxGZdiXd6giLoj934IVlj9r7myqmq8N2AEivqBqAzWrIJAr/S6nzlFOhpruB/6P+KsxfcGCCRRz0sJbyVQ+QfrKSQIPQNSwRpn9KeiBrS7OAv8ef65pFGhuaG4JGCcD6A7purTC7Bd6DDkNio9kz+WdQnIthTwXhCaUlbLjrWLtYmOW0u24Xg5w9T58wA3BVkIRm7iPweGeYVXC98PP6ILUodo=;bK2HDlM4P/DPwLLEO36ypA=="

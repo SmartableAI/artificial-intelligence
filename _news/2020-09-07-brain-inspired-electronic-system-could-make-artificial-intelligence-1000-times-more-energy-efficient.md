@@ -8,8 +8,8 @@ webUrl: "https://scitechdaily.com/brain-inspired-electronic-system-could-make-ar
 ampWebUrl: "https://scitechdaily.com/brain-inspired-electronic-system-could-make-artificial-intelligence-1000-times-more-energy-efficient/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/brain-inspired-electronic-system-could-make-artificial-intelligence-1000-times-more-energy-efficient/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scitechdaily.com/images/Wafer-Memristors-777x515.jpg"
@@ -25,6 +26,6 @@ images:
     height: 515
     isCached: true
 
-secured: "oGdr0rE2Rl8AfBf4qpTXsW6UVRBFGfl/7+iUKfSBRd6yvf3D/eycWU0qwYxBKUxpdMxIx7Bx7BxAiokP4kv2mwzSnXEBQSBDh8hXspLlYHWhJCr/ItVMxv0Grk7dAHxLJ0Tbjm26ZM9LnMnPpE/Zs8/+wEQh7R5/QtuYJdqnR4nimiad2V4SofJ5PPZrAH0nfDYUndmDaeU+ipnr9bgawHfA63K6cqqWITdlH7Sao3EUbGopglH4ly86LXUiLSeruDbGttyl9GfihHxqI8I3V/g9pNFzwD65D+Gq0iA4Vq/yAOBU2ORQQNEb2Po/LYUIefDQYuJCVLCviQTl7CzNjpG15mxs7rZk/dt19giAtig=;kTIasaQsuqp0AeudEzILNw=="
+secured: "G8b+CZD3cb7CTBKhI3gAzPHYAjDZ0WupL984TJ5DwI/Omjhib1IhyNQt38tzbIetkLjONerYCyGnYi7uyJj4SdSWqkMxQfLp3qZXl8ATqiN88ayGnqWizHjtXo4pyBhiVtZcPkdmpZRyNUoir+qovWs9zZYWah0QxfZ//3CxCPBm0sNIVBUJbitsvqbKkwy/VXsOVcOorvalrvfakjTNyZI2sFVFUNYW0CxL6If1lYJx8mYkn1ay4Gov2ESKBzvCyW9VQPx+ezd7bnIp16JAXi/CrbymGVjSNzhtkOhF6QJmDuYOANFxU+YD/WlChZRlo3xCPGTs7ze/n929JL7veltUSMunkcsoy/ie0eInjYEZOd88LZblkJ4qnPek/zOTANuu1jYjIOAIcEPj0nNLqq8sVxk9sPJwMThEBvpTU64Yl5qT2yCoUNUr12OSitIGnpVz7fK95OJcrUY307fAn88OKZGj3GfCcvqbVZcvXim4hE4HFQPbFFwnlvgRsDHZDAwzVHOIU2MnXKJzeYzVdi1PKhHg1CMPCkeZpY/D8r0=;A8bY/u6r5+vvsVlBmp1APg=="
 ---
 

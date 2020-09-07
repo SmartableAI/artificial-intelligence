@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Education Market to Witness Astonishing Growth by 2029 | Google, IBM, Pearson,"
+    excerpt: "Kids Jigsaw Puzzle Market Latest Trends, Global Demands and Business Analysis 2020 to 2025; June 2020 Global Medical Oxygen Therapy Devices Market Research Study 2020 De"
+    publishedDateTime: 2020-09-05T00:30:00Z
+    webUrl: "https://galusaustralis.com/2020/09/955426/artificial-intelligence-ai-in-education-market-to-witness-astonishing-growth-by-2029-google-ibm-pearson/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/955426/artificial-intelligence-ai-in-education-market-to-witness-astonishing-growth-by-2029-google-ibm-pearson/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/955426/artificial-intelligence-ai-in-education-market-to-witness-astonishing-growth-by-2029-google-ibm-pearson/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 54
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2020/09/Artificial-Intelligence-AI-in-Education.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Global Computer Vision in Healthcare Market: Industry Analysis and Forecast (2018-2026) – by Type, Application, End User, Region."
     excerpt: "Global Computer Vision in Healthcare Market was valued US$ 200 Mn in 2017 and is expected to reach US$ 3450.3 Mn by 2026, at CAGR of 42.76% during forecast period. Growth of computer vision in healthcare market is driven by the increasing demand for computer vision systems in healthcare industry,"
     publishedDateTime: 2020-09-05T02:44:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-se
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-04"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Education Market to Witness Astonishing Growth by 2029 | Google, IBM, Pearson,"
+    excerpt: "Kids Jigsaw Puzzle Market Latest Trends, Global Demands and Business Analysis 2020 to 2025; June 2020 Global Medical Oxygen Therapy Devices Market Research Study 2020 De"
+    publishedDateTime: 2020-09-05T00:30:00Z
+    webUrl: "https://galusaustralis.com/2020/09/955426/artificial-intelligence-ai-in-education-market-to-witness-astonishing-growth-by-2029-google-ibm-pearson/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/955426/artificial-intelligence-ai-in-education-market-to-witness-astonishing-growth-by-2029-google-ibm-pearson/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/955426/artificial-intelligence-ai-in-education-market-to-witness-astonishing-growth-by-2029-google-ibm-pearson/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 54
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2020/09/Artificial-Intelligence-AI-in-Education.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Neural Network Software Market Analysis, Size, Regional Outlook, Competitive Strategies and Forecasts to 2027"
     excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
     publishedDateTime: 2020-09-02T07:11:00Z

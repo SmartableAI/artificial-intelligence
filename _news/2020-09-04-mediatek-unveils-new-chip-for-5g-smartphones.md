@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/articles/Science/20200904/362080
 webUrl: "https://news.webindia123.com/news/articles/Science/20200904/3620808.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,19 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "MediaTek Unveils Helio G95, its Newest Chip for Premium 4G Gaming Smartphones"
-    excerpt: "MediaTek Unveils Helio G95 for Premium 4G Gaming Smartphones. The new chip will power major smartphone brands that will hit global markets in September."
-    publishedDateTime: 2020-09-02T06:22:00Z
-    webUrl: "https://www.voicendata.com/mediatek-unveils-helio-g95-newest-chip-premium-4g-gaming-smartphones/"
-    ampWebUrl: "https://www.voicendata.com/mediatek-unveils-helio-g95-newest-chip-premium-4g-gaming-smartphones/amp/"
-    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/mediatek-unveils-helio-g95-newest-chip-premium-4g-gaming-smartphones/amp/"
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 36
 
 secured: "MlX8XwDTyTEGZuQzOTXOuSTLHD+KhhsCxLrh465CnsuGiacpOrqw7+3NrnnLOfLidqeTqB/EoXkWjxmFA23c8t19JdFxdYShn4f5Ws7LgcNqhU/0OzUBtYp3gxNbYY+4NvJyO4bNYFOIT+kJj4oQl98LyQ3qV7y7gWmfe3YgNdt6EQvY7zgAVsGwz2b+/op1b/3lqpHJ0Uask2T5c0oDroFOrQ0fTyhoBitYvYB90FfzTeOnGYMVdPSFKxhve6Nt3NqE7hInzLzRzszW8cRiJF3ulkdSCVoflT2gunE672n4RYJ/DF4V+O5m9sCiRQnrJ2rhvyJ1lPDKCu6KJ6TfBfPZxiiLO5eV9sdZcWsaApE=;5DW4FKTQZ8ydb/jJyyMEZA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.abiresearch.com/press/global-shipments-tinyml-devices-
 webUrl: "https://www.abiresearch.com/press/global-shipments-tinyml-devices-reach-25-billion-2030/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1650
     height: 825
     isCached: true
+
+related:
+  - title: "Global Artificial Intelligence for Drug Discovery and Development Market to Reach $4.81 Billion by 2027: AMR"
+    excerpt: "Surge in cross industry co"
+    publishedDateTime: 2020-09-02T12:50:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-09-01/global-artificial-intelligence-for-drug-discovery-and-development-market-to-reach-4-81-billion-by-2027-amr"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 48
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "R4fWkk51G1W7d+Z5ARUhOs1VaTWUllgugXL27sqw05+cwknXWtlsG1ThAuhBBBcTMz74L8C5EnLgd6RyMFHTjYR7nQWaOwOmoUxrvCMPgrdv1b7ar6Ur71gy2Nld/96BRCI0/jOc1hwrRnsaUYh4sqmwgZv3rbQfiSDjuoIOQ/W/WI86ksmm2fypDCMvko/aL0LTgUEdHwJ705yL9q+Saoyl4rTmEhLdnvM3DtekFK8qRNFDm4wpOdjJQvS3Yzl1PRjR3lqkaXKzfAU82GwVDIuSt2vOuxl5WKo04fBUhGytJCsX4z8M01cjv2TCfvr0f4RopdxdXoQNfbugmMqZcqru4J/V96QQL7zB9k8Fnr8LO1yV3TFwJpiRdk9rYZ9IbsxjqfcDiWXrkgVDwK6LvVtoZ4C4ZGMrZJNSGsSpBQEWACSXJ+wpc04Da+nE/imZG3xwcv5lNvUYwXUZv8KBMRK+U6cETKelP6xL7aAW6Gw6HDrf4BKh+REdeQ71FbJAsnrkWyvyKkc7RCNEyhjYV8EwGlHn9C1zQL1Y/Rl0Dc4=;NyDREJ21YN9yqN6LlztPyg=="
 ---
