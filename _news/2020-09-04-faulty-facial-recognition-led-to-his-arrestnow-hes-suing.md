@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_au/article/bv8k8a/faulty-facial-recognit
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fears police facial recognition system will falsely accuse Māori"
-    excerpt: "It is only a matter of time before a Māori person is wrongfully arrested because of a false match on facial recognition software, a Māori technology expert says. Police have been working on a $23 million upgrade of their biometrics images system run by the US firm Dataworks Plus,"
-    publishedDateTime: 2020-09-02T19:12:00Z
-    webUrl: "https://www.newshub.co.nz/home/new-zealand/2020/09/fears-police-facial-recognition-system-will-falsely-accuse-m-ori.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2020/09/fears-police-facial-recognition-system-will-falsely-accuse-m-ori.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/09/fears-police-facial-recognition-system-will-falsely-accuse-m-ori.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 59
-    images:
-      - url: "https://www.newshub.co.nz/home/new-zealand/2020/02/police-almost-twice-as-likely-to-send-first-time-m-ori-offender-to-court-than-pakeha-study/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1582744929864/getty-CHRISTCHURCH-COURT-GENERIC-1120.jpg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Black Detroit man wrongfully arrested after facial recognition search"
     excerpt: "A Black man from Detroit is suing the city after he was falsely arrested because of a facial recognition match, according to a new report."
     publishedDateTime: 2020-09-04T17:50:00Z

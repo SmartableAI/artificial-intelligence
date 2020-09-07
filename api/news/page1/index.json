@@ -2,6 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-07-this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy.md",
+      "title": "This AI analyzes placentas to predict complications in the next pregnancy",
+      "excerpt": "Researchers from Carnegie Mellon University have used machine learning to analyze placenta samples for signs of health risks in future pregnancies.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/",
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-07T130915.553-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/amp/",
+      "publishedDateTime": "2020-09-07T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-meet-the-8-foot-tall-robot-designed-to-insert-elon-musks-neuralink-ai-brain-chip-heres-how-it-works.md",
+      "title": "Meet the 8-foot-tall robot designed to insert Elon Musk's Neuralink AI brain chip — here's how it works",
+      "excerpt": "Musk founded the neural tech company in 2016, and says the chip will enable a \"symbiosis\" between the human brain and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
+      "originalUrl": "https://www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f529d817ed0ee001e25da6c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
+      "publishedDateTime": "2020-09-07T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-07-how-ai-and-machine-learning-are-redefining-cybersecurity.md",
       "title": "How AI and Machine Learning Are Redefining Cybersecurity",
       "excerpt": "If you've been paying attention to cybersecurity news this past year, then you already know. All of them have experienced truly staggering data breaches in 2020.",
@@ -139,6 +238,56 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event.md",
+      "title": "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event",
+      "excerpt": "Infoworks.io, the leader in Enterprise Data Operations and Orchestration (EDO2) systems, announces that the company is co-sponsoring a Unified Data",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event-2020-08-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event-2020-08-31",
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-06T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -337,8 +486,8 @@
       "title": "Nvidia tells us more about how well the RTX 3090 GPU performs 8K gaming",
       "excerpt": "Nvidia’s GeForce RTX 3090 launch saw the firm declare that its top-end Ampere graphics card can handle 8K gaming smoothly – meaning at 60 frames per second (fps) – but now further details have been shared on what kind of frame-rates we can expect with various games,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
-      "originalUrl": "https://www.techradar.com/in/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
+      "webUrl": "https://www.techradar.com/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
+      "originalUrl": "https://www.techradar.com/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
       "featuredContent": null,
       "heat": 89,
       "tags": null,
@@ -353,8 +502,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
+      "ampWebUrl": "https://www.techradar.com/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
       "publishedDateTime": "2020-09-06T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1054,146 +1203,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-this-ai-predicted-who-will-play-the-next-james-bond-hint-toss-a-coin-to-him.md",
-      "title": "This AI predicted who will play the next James Bond (Hint: Toss a coin to him)",
-      "excerpt": "AI software firm Largo predicted who will play the next Bond by forecasting which of the contenders could outperform Daniel Craig at the box office.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/04/this-ai-predicted-who-will-play-the-next-james-bond-hint-toss-a-coin-to-him/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/04/this-ai-predicted-who-will-play-the-next-james-bond-hint-toss-a-coin-to-him/",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/3054248165_23e33052c1_o.jpg",
-          "width": 500,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/04/this-ai-predicted-who-will-play-the-next-james-bond-hint-toss-a-coin-to-him/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/04/this-ai-predicted-who-will-play-the-next-james-bond-hint-toss-a-coin-to-him/amp/",
-      "publishedDateTime": "2020-09-04T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-ai-related-jobs-openings-and-searches-have-gone-up-report.md",
-      "title": "AI-related jobs openings and searches have gone up: report",
-      "excerpt": "Job openings in artificial intelligence (AI) have gone up by 30% in June compared to the same period last year, as per data from jobs site .",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/ai-related-jobs-openings-and-searches-have-gone-up-report/articleshow/77935453.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/ai-related-jobs-openings-and-searches-have-gone-up-report/articleshow/77935453.cms",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/business/india-business/ai-related-jobs-openings-and-searches-have-gone-up-report/amp_articleshow/77935453.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/ai-related-jobs-openings-and-searches-have-gone-up-report/amp_articleshow/77935453.cms",
-      "publishedDateTime": "2020-09-04T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too.md",
-      "title": "TENET Is A Palindrome And Maybe Self-Driving Cars Ought To Be Reversible Too",
-      "excerpt": "TENET and the reversibility of palindromes and self-driving cars. getty. The new sci-fi thriller Tenet has brought palindromes to the forefront of our minds, along with jolting us",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/",
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4d8f8244d95c174212a597%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/amp/",
-      "publishedDateTime": "2020-09-04T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

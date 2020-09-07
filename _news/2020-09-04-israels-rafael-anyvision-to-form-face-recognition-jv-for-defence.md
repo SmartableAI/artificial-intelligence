@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-fac
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03?amp"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       - url: "https://www.geektime.com/content/images/2020/09/ANYVISION-1599206759.jpg"
         width: 760
         height: 514
-        isCached: true
-  - title: "AnyVision's Fair Face Recognition Challenge Shows Ethnic Bias Can Be Eliminated"
-    excerpt: "Since the wave of protests that swept the U.S after the death of George Floyd, the issue of biases in AI systems and specifically facial recognition h"
-    publishedDateTime: 2020-09-02T20:02:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200902005892/en/AnyVisions-Fair-Face-Recognition-Challenge-Shows-Ethnic"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 50
-    images:
-      - url: "https://mms.businesswire.com/media/20200902005892/en/818051/23/Cameras+PR3x.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "T-Hub, Raytheon Technologies select 3 startup finalists for RTX Innovation Challenge in computer vision"
     excerpt: "The Telangana government run incubator T-Hub and Raytheon Technologies, a global aerospace and defence company, on Thursday announced three."

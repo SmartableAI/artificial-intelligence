@@ -27,22 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Latest Research Report AI Translation Market with Major Companies like IBM Corporation, Microsoft Corporation, SDL PLC, Lionbridge Technologies"
-    excerpt: "The latest report on the AI Translation Market, as found on Qualiket Research website, is an extensive study of the"
-    publishedDateTime: 2020-09-02T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-research-report-ai-translation-market-with-major-companies-like-ibm-corporation-microsoft-corporation-sdl-plc-lionbridge-technologies-2020-09-02?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "O83E0LFlf3Q9/yBBZHdyBThyUksxLIVA5sFjMZXDuE27hDf/BmdDzxNqKah5JS7GrIhE/jaF8k4oIjIPxeGxBnZtmE1GxPmfNLQQ3/Rd5vW+aQYusLmsVE4TE2177k4rWreYp5s1R9HqLcpecNw3lFw7q/fKqY0kyAs14kgreChHyrUpRa3W5ugOnMc9DsTYwGrW38jUm/ovP6qHT268CP8Q3tbjKkgV8dILXOfOoZ9mHl81FDfAplMkVWv99zA9ccGD8Av8efbL7FRw9tlbi2RFbCSl/76k/oQJAtgdoRL9/OFYutswMFjG2G59Bs92u65UgRF/R8N8JFsJRs6cWtRT7QJZCgWngT27ncUKEfg=;RvLg6FyrJQDqM7tAfEK35w=="
 ---
 

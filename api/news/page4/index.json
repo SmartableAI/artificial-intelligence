@@ -2,6 +2,107 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-03-nfl-reveals-new-expected-rush-yards-stat-with-help-from-amazon-web-services.md",
+      "title": "NFL reveals new ‘Expected Rush Yards’ stat, with help from Amazon Web Services",
+      "excerpt": "Football fans wondering whether the next handoff to a running back could be another Beast Quake have another stat to track thanks to Next Gen Stats, the platform powered by Amazon Web Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/",
+      "originalUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/",
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/bigstock-Football-field-114165206-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/amp/",
+      "publishedDateTime": "2020-09-02T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-hypatos-gets-118m-for-a-deep-learning-approach-to-document-processing.md",
+      "title": "Hypatos gets $11.8M for a deep learning approach to document processing",
+      "excerpt": "Process automation startup Hypatos has raised a €10 million (~$11.8M) seed round of funding from investors including Blackfin Tech, Grazia Equity, UVC Partners and Plug & Play Ventures. The Germany- and Poland-based company was spun out of AI for accounting startup,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/",
+      "originalUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/",
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-601035416.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/amp/",
+      "publishedDateTime": "2020-09-02T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-cbp-does-not-make-it-clear-americans-can-opt-out-of-airport-face-scanning-watchdog-says.md",
       "title": "CBP does not make it clear Americans can opt-out of airport face scanning, watchdog says",
       "excerpt": "But the Government Accountability Office (GAO) said in a new report out Wednesday that CBP did “not consistently” provide notices that informed Americans that they would be scanned as they depart the United States.",
@@ -1096,106 +1197,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-five-tech-innovations-that-could-change-healthcare-this-decade.md",
-      "title": "Five Tech Innovations That Could Change Healthcare This Decade",
-      "excerpt": "Modern-day researchers and scientists are rushing against time to invent, implement and imagine life-altering, lifesaving, life-enhancing creations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e47455e0c17f79712a595%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/amp/",
-      "publishedDateTime": "2020-09-02T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.md",
-      "title": "Nvidia GeForce RTX 30-series GPUs: 5 things PC gamers need to know",
-      "excerpt": "Nvidia's next-gen GeForce RTX 30-series graphics cards are here, and they're bringing a lot more than just faster frame rates to the table. Here's what PC gamers need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.html",
-      "originalUrl": "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.html",
-      "featuredContent": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/09/gaming-geforce-rtx-30-100856319-large.jpg",
-          "width": 1200,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html",
-      "publishedDateTime": "2020-09-02T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

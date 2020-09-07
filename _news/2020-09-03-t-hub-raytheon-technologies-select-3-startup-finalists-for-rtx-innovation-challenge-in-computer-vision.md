@@ -54,20 +54,6 @@ related:
         width: 760
         height: 514
         isCached: true
-  - title: "AnyVision's Fair Face Recognition Challenge Shows Ethnic Bias Can Be Eliminated"
-    excerpt: "Since the wave of protests that swept the U.S after the death of George Floyd, the issue of biases in AI systems and specifically facial recognition h"
-    publishedDateTime: 2020-09-02T20:02:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200902005892/en/AnyVisions-Fair-Face-Recognition-Challenge-Shows-Ethnic"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 50
-    images:
-      - url: "https://mms.businesswire.com/media/20200902005892/en/818051/23/Cameras+PR3x.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Rafael, AnyVision shareholders in talks on facial recognition JV"
     excerpt: "Israeli artificial intelligence driven computer vision company AnyVision are in advanced talks about setting up a joint venture in the military-defense sector. The new company would be jointly owned 50-50 by AnyVision's shareholders and Rafael."
     publishedDateTime: 2020-09-03T13:36:00Z

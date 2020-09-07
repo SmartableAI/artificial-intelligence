@@ -27,19 +27,6 @@ images:
     height: 548
     isCached: true
 
-related:
-  - title: "Venga Global expands data annotation, collection, and validation for AI and Machine Learning services"
-    excerpt: "Venga Global, a global leader in translation and localization, has launched \"Venga AI\" to meet growing data transformation and machine learning needs. \"We started offering data services in 2016 focused around natural language processing and data translation,"
-    publishedDateTime: 2020-09-02T21:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/n17360142/venga-global-expands-data-annotation-collection-and-validation-for-ai-and-machine-learning-service"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17360142"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17360142"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-
 secured: "OCa6qh08yqZT98RZ5ro9GYloUCQ/vh8lJKPY4A5nv5OFaK3ajrxXfJL3j7XrWVsj4mkbzM9p0RalTregCMjBsZW0jxrdPHLks5dXoxZuMuTG25YqIRsvlR5FE3GJ+Y2tQzjwjT8R0f5i5a3OmGdy1/V32QFfgAuJ7hqIOZz3GGS893BEpfw9pG+uhJfE0/zwLsrHZeeYnc7Z2yLtyxDJtaRPhUmmVXCcoPc7nDw1K7czQYoEY07SHF5mU1ATzD9y1tj88gUIagt1fBASfsUMjQ7upDHcAO1jWeIvQLp86F/j3k7ktsuriP/zeYUl0jjhQ/zWgoRzEt7WuA9r4mIOBvEGTBKYgZEZHAsJGyM2y1M=;zOtpG7645uSho2chWcla8A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-tests-location
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-tests-locations-tracking-tool/"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -119,20 +119,6 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/09/16x9/AP2060477072155543.5f5245e61426c.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "NHTSA's New Tool to Track Self-Driving Vehicle Testing on Public Roads Is an Interesting Experiment"
-    excerpt: "Do you know if autonomous vehicle testing is taking place in your town? Unless you've actually seen cars with some weird equipment stuck to them, you probably don't have a clue. On Wednesday, the National Highway Traffic Safety Administration (NHTSA ..."
-    publishedDateTime: 2020-09-02T20:57:00Z
-    webUrl: "https://www.thedrive.com/news/36132/nhtsas-new-tool-to-track-self-driving-vehicle-testing-on-public-roads-is-an-interesting-experiment"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 10
-    images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2018/03/jaguar-i-pace-will-be-the-first-premium-self-driving-electric-vehicle-in-waymo_s-fleet.jpg?quality=85"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "U1BdACyld1il+qIpdJYBAuP2oNVBn7i7R7HwuW94Nd3xC8/ypTiU4GTcvaS7xkhM0CZyRYcyOPhcxQkHXMO+ZhoPuSotC6OwojwHYxHdJcJ9guF2nNcvx9vOLLEnWxPf1PxnJMIcKPd0Is13aGyTLFbM/D++HwouyIx2B9Y642CR6nBCnDxK7T0SVjYnDqwcf1WpYFdq5cCDoLrP93fmvyOszaG8omTJ3IZJwUNI4jNWQ8t9y1fDaQxBxrpv8bwlyU6UZjFJ33vKuDU2YeUjU+AKytmf1UsoBnG8P44GVHSH9bawp5Y6XKMCJrjwOiwLX9KAdRavVdBB6pLaNlc/3/TUwDFMIpMo+En9MwFjGGTuovwfoFuQFbQI9Bp5iy73rNHlgiB419qlYoQGNYQl28VfABj0KBLx/yTaTVaCCD40eza+0MjhB89iCLtFEoQ2FjWPgAytfqkmH7pl7ElVTXW+1jixHO8WjNh1wSyeSe+2OS7CY7SGhHBJELzLTnITfL0ZtW4C1csphSUETlzAaW1CTTerrGc0VRMoQ7Cz6b8=;A7BrzIi0cdljDX1XPPSopQ=="

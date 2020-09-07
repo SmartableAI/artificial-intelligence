@@ -7,7 +7,7 @@ originalUrl: "https://www.adnews.com.au/news/jcdecaux-uses-voice-recognition-tec
 webUrl: "https://www.adnews.com.au/news/jcdecaux-uses-voice-recognition-technology-in-r-u-ok-campaign"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "TWB and KoBo Inc develop speech recognition technology to capture voices of speakers of marginalized languages"
-    excerpt: "Translators without Borders (TWB) and KoBo Inc. with funding from the Cisco Foundation, will develop automatic speech recognition technology to help humanitarians better collect data from speakers of marginalized languages in low-literacy contexts."
-    publishedDateTime: 2020-09-02T20:14:00Z
-    webUrl: "https://reliefweb.int/report/world/twb-and-kobo-inc-develop-speech-recognition-technology-capture-voices-speakers"
-    type: article
-    provider:
-      name: ReliefWeb
-      domain: reliefweb.int
-    quality: 19
-    images:
-      - url: "https://reliefweb.int/profiles/reliefweb/themes/kobe/images/metatag/disaster-type/epidemic.png"
-        width: 500
-        height: 438
-        isCached: true
 
 secured: "h/e7njUmdfEodosEBVWPhuzyf/mHud3o8KTAVy4PiSC6tPFfj85tXruGx+CI0IDzUh4dpgn2khgbO14ErVj2GXVlbC5kmMr379L9egVPT3iGtj0KDeHDBz+6lRoBC1aIrmRVeEIJyOfeM84Izz1uIUz+tWPaRNiUhd607rpGtW0WwALLPqs3W/tembBuIsz5eAPkOJQYebi049ArWxbDpEoHTl6FnQtMQ7hgjtG3962Xj/eMsZVhmkkHn6pPvsD6UkV4t+MrQgauX3Q42mKjrH9ydqm/cDsKOY+c/knpQl+k5wvhrlwXRL7EK82PBt2xVe6f8y466RBoOxRwK1sHYHuN+ktbwLY3LVhVsTpUuupdvQJC8eFo9RTH8MZhrozbwLuPPZcH/MFvKr/uyYpzgoffR6kJczbwG9fDLeBmBX/p6qWpqC32NJgfNMdl/6xUqiUTE8DjZ3dHOx8s/Q9wH8fQGuF7NAz8danou9rdH5wNMrwQDBndA1JG2QK6qWrPkVRlkNKkIFWxFj4AG1BdbA==;w80QOCPZmyIBT69fsLJzrA=="
 ---

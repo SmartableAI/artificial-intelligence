@@ -2,6 +2,106 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-02-five-tech-innovations-that-could-change-healthcare-this-decade.md",
+      "title": "Five Tech Innovations That Could Change Healthcare This Decade",
+      "excerpt": "Modern-day researchers and scientists are rushing against time to invent, implement and imagine life-altering, lifesaving, life-enhancing creations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e47455e0c17f79712a595%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/amp/",
+      "publishedDateTime": "2020-09-02T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.md",
+      "title": "Nvidia GeForce RTX 30-series GPUs: 5 things PC gamers need to know",
+      "excerpt": "Nvidia's next-gen GeForce RTX 30-series graphics cards are here, and they're bringing a lot more than just faster frame rates to the table. Here's what PC gamers need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.html",
+      "originalUrl": "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.html",
+      "featuredContent": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/gaming-geforce-rtx-30-100856319-large.jpg",
+          "width": 1200,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html",
+      "publishedDateTime": "2020-09-02T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects.md",
       "title": "Python programming: Microsoft's latest beginners' course looks at developing for NASA projects",
       "excerpt": "Microsoft has teamed up with NASA to create three project-based learning modules that teach entry-level coders how to use the Python programming language and machine-learning algorithms to explore space,",
@@ -1093,107 +1193,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-3-top-artificial-intelligence-stocks-to-buy-in-september.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in September",
-      "excerpt": "Artificial intelligence (AI) has the potential to influence almost every industry, and the overall economic impact of the tech will exceed what's spent on hardware, software, and services many times over.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F589831%2Fgettyimages-896358708.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
-      "publishedDateTime": "2020-09-01T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-a-big-step-for-flood-forecasts-in-india-and-bangladesh.md",
-      "title": "A big step for flood forecasts in India and Bangladesh",
-      "excerpt": "For several years, the Google Flood Forecasting Initiative has been working with governments to develop systems that predict when and where flooding will occur—and keep people safe and informed. Much of this work is centered on India, where floods are a serious risk for hundreds of millions of people.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/",
-      "originalUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/",
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screen_Shot_2020-08-31_at_6.57.16_PM.max-1300x1300.png",
-          "width": 1300,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/flood-forecasts-india-bangladesh/amp/",
-      "publishedDateTime": "2020-09-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

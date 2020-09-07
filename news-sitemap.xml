@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/</loc>
+    <lastmod>2020-09-07T06:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9</loc>
+    <lastmod>2020-09-07T06:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.dcvelocity.com/articles/47088-how-ai-and-machine-learning-are-redefining-cybersecurity</loc>
     <lastmod>2020-09-07T03:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -15,6 +27,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-to-2024---featuring-advanced-micro-devices-alphabet-apple-among-others-2020-09-07-51843431</loc>
     <lastmod>2020-09-07T02:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event-2020-08-31</loc>
+    <lastmod>2020-09-06T21:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -43,7 +61,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/in/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming</loc>
+    <loc>https://www.techradar.com/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming</loc>
     <lastmod>2020-09-06T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -129,12 +147,6 @@
   <url>
     <loc>https://www.techradar.com/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming</loc>
     <lastmod>2020-09-04T11:39:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://thenextweb.com/neural/2020/09/04/this-ai-predicted-who-will-play-the-next-james-bond-hint-toss-a-coin-to-him/</loc>
-    <lastmod>2020-09-04T09:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1093,7 +1105,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1359,6 +1371,12 @@
   <url>
     <loc>https://www.thehindubusinessline.com/info-tech/ai-company-staqu-collaborates-with-microsoft-to-bring-jarvis-on-azure/article32462745.ece</loc>
     <lastmod>2020-08-27T22:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/en-us/azure/machine-learning/studio/studio-classic-overview</loc>
+    <lastmod>2020-08-27T22:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1819,8 +1837,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely</loc>
-    <lastmod>2020-08-25T17:05:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
+    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2145,6 +2163,12 @@
   <url>
     <loc>https://apnews.com/PR%2520Newswire/0f7c90ea95af269d94b86c19e9136ec1</loc>
     <lastmod>2020-08-24T14:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.indiainfoline.com/article/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html</loc>
+    <lastmod>2020-08-24T13:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

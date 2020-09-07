@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-07-infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event.md",
+      "title": "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event",
+      "excerpt": "Infoworks.io, the leader in Enterprise Data Operations and Orchestration (EDO2) systems, announces that the company is co-sponsoring a Unified Data",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event-2020-08-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event-2020-08-31",
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-06T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-05-microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming.md",
       "title": "Microsoft Flight Simulator 2020 finally realizes the true next-generation potential of Azure cloud computing in PC gaming",
       "excerpt": "The core of Flight Simulator lies within Azure. From its hyper realistic flight handling to gorgeous visuals,’s cloud computing elevates the game into a technical marvel. In order to “somewhat accurately” create every inch of the entire globe with incredible detail,",
@@ -668,6 +718,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-28-what-can-i-do-with-machine-learning-studio-classic.md",
+      "title": "What can I do with Machine Learning Studio (classic)?",
+      "excerpt": "Machine Learning Studio (classic) is a drag-and-drop tool for quickly building models from a library of ready-to-use algorithms and modules.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/studio/studio-classic-overview",
+      "originalUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/studio/studio-classic-overview",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/azure/machine-learning/studio/media/what-is-ml-studio/azure-ml-studio-diagram.jpg",
+          "width": 780,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-algorithmia-unveils-mlops-for-teams.md",
       "title": "Algorithmia unveils MLops for teams",
       "excerpt": "Algorithmia Teams delivers machine learning operations and management for small groups as a pay-as-you-go cloud service",
@@ -1262,88 +1362,6 @@
       "provider": {
         "name": "Mint",
         "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-how-microsofts-analytics-strategy-might-evolve-with-a-tiktok-buy.md",
-      "title": "How Microsoft’s Analytics Strategy Might Evolve With a TikTok Buy",
-      "excerpt": "And while Windows is still around, Google's runaway success with its Google Analytics platform, combined with its domination in online search, made Bing a far distant second place choice for consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/how-microsofts-analytics-strategy-might-evolve-with-a-tiktok-buy/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/how-microsofts-analytics-strategy-might-evolve-with-a-tiktok-buy/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/6d55894afd3d41d6a3b931e6380855f6.ashx",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-microsofts-ai-for-health-supports-covid-19-vaccine-development.md",
-      "title": "Microsoft's AI for Health supports COVID-19 vaccine development",
-      "excerpt": "Given the global urgency of the COVID-19 pandemic, Microsoft's AI for Health program has stepped in to support the development and potential deployment of Vaxine's COVAX-19 vaccine with a philanthropic grant.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.html",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/2-microsoftsai.jpg",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.amp",
-      "publishedDateTime": "2020-08-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

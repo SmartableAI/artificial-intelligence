@@ -3,10 +3,10 @@ category: news
 title: "Albuquerque police arrest man with facial recognition software at grocery store"
 excerpt: "An Albuquerque criminal thought he could get away with shoplifting until facial recognition software stopped him in his tracks. Newly released police video"
 publishedDateTime: 2020-09-06T23:32:00Z
-originalUrl: "https://www.krqe.com/news/albuquerque-metro/albuquerque-police-arrest-man-with-facial-recognition-software-at-grocery-store/"
-webUrl: "https://www.krqe.com/news/albuquerque-metro/albuquerque-police-arrest-man-with-facial-recognition-software-at-grocery-store/"
-ampWebUrl: "https://www.krqe.com/news/albuquerque-metro/albuquerque-police-arrest-man-with-facial-recognition-software-at-grocery-store/amp/"
-cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/albuquerque-metro/albuquerque-police-arrest-man-with-facial-recognition-software-at-grocery-store/amp/"
+originalUrl: "https://www.krqe.com/news/crime/albuquerque-police-arrest-man-with-facial-recognition-software-at-grocery-store/"
+webUrl: "https://www.krqe.com/news/crime/albuquerque-police-arrest-man-with-facial-recognition-software-at-grocery-store/"
+ampWebUrl: "https://www.krqe.com/news/crime/albuquerque-police-arrest-man-with-facial-recognition-software-at-grocery-store/amp/"
+cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/crime/albuquerque-police-arrest-man-with-facial-recognition-software-at-grocery-store/amp/"
 type: article
 quality: 55
 heat: 55
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "eMAezFSEsyd6IqDjZf9UJWZOCuoQrVpwdS2C+sbEayNUFzLDCurDbCOrjqX+i01Zh3s3S+QdlQnrVjkwtLlUSsK1E+jXlTAgnWk2hI04sJKIgBB2sKfbz3PLrTHA0nLKsMAZJaGJehfHLpfA8md99Ew1sigMUE2uPC4ewEfZqub2ykn5HOwBnotkF+9mmI7LYeV39V+mFqXIid9736zlXC4SVP6tmy2Ig/3DZpqtLIWXck/d6vSEVn7iJCGqwCKCOLR1noFQBvaWBXyFaGlsZQfoKpp5u9sINhEFMucO0VfoiIAF5K3eBUO4GIkk2fMG7Apz7UeswnrX4d+twVGhHoE+/J08amiAgb64zzNq448=;jmbMRab1CZpxbe0cRCSyOQ=="
+secured: "ATCOwqQsdsI+gJjzpegq+M/5hdIqZRWtJBqDuaunCEoFbt/6WXtE8B4QRg7vxVdUcfwqDdAeKyO/vgMYLETN1d8ueUq5LX2/Ntl7y4xLnIVM8NsSyyPSy6aGtezqmDr8ucDp63FT2IHTM5cTpjC/YtlQKHhzuqKrSSXKnVpKzgP0tLwn+nYTMZA6VIUhfxzROK1pbsRHz4Upi5AYSKlyvvqdcAjS55VKqppaiqDZ5ZVgACYH4+rtZjqy9bU3RRmVZDt8wNUjlZGDX+XKRUi5q55F34YQ4vhJnNGfcPxeJT+An01k5MkO15viyClTChzBvZHJqTMY2J6Y5XAnAurZIKO2hUVUwAeeGYF21FIySSI=;UH9Yky9YEpexDrU8YMSMHA=="
 ---
 

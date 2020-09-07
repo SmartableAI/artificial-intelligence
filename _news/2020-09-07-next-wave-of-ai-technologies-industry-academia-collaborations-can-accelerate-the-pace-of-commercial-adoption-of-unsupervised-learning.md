@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-07T10:30:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/next-wave-of-ai-technologies-industry-academia-collaborations-can-accelerate-the-pace-of-commercial-adoption-of-unsupervised-learning-301125012.html"
 webUrl: "https://www.prnewswire.com/news-releases/next-wave-of-ai-technologies-industry-academia-collaborations-can-accelerate-the-pace-of-commercial-adoption-of-unsupervised-learning-301125012.html"
 type: article
-quality: 7
-heat: 7
+quality: 9
+heat: 9
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
@@ -24,6 +25,6 @@ images:
     height: 419
     isCached: true
 
-secured: "MeV2K4OqczaKlPb0p5Q1s0TxED1J1pu5/rvptupZqRgPgR0oFnY7uSlicchMHKGA8wU2KGPIZpRhdVoErR4Pudb9t+C2I+gbdVo24UJm2VxfhrILgKrCMjHCWNIhoSUMB0B3Meiyqf629d0BWp07v75mXFE6/lGRouj1V2SpuLnUklu8sFZr9rS+d00e+mlaHWC4poU8AOjfxYXqIkNbSPJ8ZewrakCyE+7k/+pAZM1f8VpBxbEvJWpzwcETqL+/AQGyqn7T9dSoMLANZ2TbuSwMXUJx2MNipRbVPmObTMPAk6Fzy1LVUBRBd4iZTZMp2xHRhCA3UlsYCVod3TN4nlPIGM87y7eqOYff0b5lIZM=;0I8Sk3p0iF3kV0jQLWbtXg=="
+secured: "IOhTIMttBM+IDpOgDZpGxO+sIqUhbzJYiLzgcByRtixkNaq+i0k8uHRGyMDMb7PiNUUMcg4OzXlhoDtUb8jNtcdDjtUBUJNiwkWmpPtT17r/CeblEidjqr7ASG/C11JA/3JtLlM0i2UmhRo1czYaRpiHXAeLfUmrVMtliYGymms/tNPrAW/kyKGBSDt624cWNB4kUX6hppvr5SOJ3rs7slA3w3sgK084BOGm4q3ocMYyaFNish4QJ5QLK9/s9d7MFHts+2BWCqk/u8P5v0EYAnz7p9C10fgMTcCsJSC3vP3ACHBmpLknoOGIEAwrHqbqjENufZuH3ar2veEvgtx+9MGCx+uBO+q7svMZVPxZHrqm5wv1px40j0fYbqAQcTE/I6zGcVrnDvah0A4bj1cbaQqqwf+jEwnT4mR5q5TzdPherZwjpRjDZt1JVXQcORLru7beuRLOviOft0+PfddnhZfYW31+n4OtzPc4ju7eg0pbRVzrhM1KywE1MUtiQVquwTvJhRYigcXf5lOIukxlOPG60cDyqseldjEmeqlAWKc=;PqHP7R4YW49JLlzYOOpjXQ=="
 ---
 

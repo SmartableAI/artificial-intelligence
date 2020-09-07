@@ -119,20 +119,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NHTSA's New Tool to Track Self-Driving Vehicle Testing on Public Roads Is an Interesting Experiment"
-    excerpt: "Do you know if autonomous vehicle testing is taking place in your town? Unless you've actually seen cars with some weird equipment stuck to them, you probably don't have a clue. On Wednesday, the National Highway Traffic Safety Administration (NHTSA ..."
-    publishedDateTime: 2020-09-02T20:57:00Z
-    webUrl: "https://www.thedrive.com/news/36132/nhtsas-new-tool-to-track-self-driving-vehicle-testing-on-public-roads-is-an-interesting-experiment"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 10
-    images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2018/03/jaguar-i-pace-will-be-the-first-premium-self-driving-electric-vehicle-in-waymo_s-fleet.jpg?quality=85"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "4czmHJsh2XTRd05xLYPJP/pxwJY/GH1r9Kp8j0ho44RdJoZ/OQUjJ6/aEuM7pn90e8Kl8WqTYFHFjp5wyk/xhQSec8441jPqdx/UcsChUaF8O5FKycf//SONWrK6AsTG7fWdN7HIspol4gJTYk37yrf2IwjPgk/JecLdior/LZ+keCj382pYsXiPn5bPOwCFjqUW8F6aFIIywrOuyCV/pgPua8ulqtyCPwlKG4HZdJWz7Cx1fLvvuyV8dT2GSD+MXbhec/FrVnx548hOzr1orzd5DTY4qNtYgwsZFV5Jy4hTCJO/vCCtjLorNW6XNapBSSp3M9LWUBJJ0Q2Wvq+auI6lm9d56CU2ZLWUIHsyhvfG1/qgjJw+03PUV403bBR5UAfQ/nE0gvNdLh2aL1E3Tm5X9sMDYA9TsRHrJNOBzrUOfNyxipqKBJwvQEGuvzJxFKGGp0nmG/u/pEhdtz+3eRwbnBMgBpns7Q9SapOSreFB42Mo1K8pnzIUXlthEHfnixsehH3uT7gOHu6MFTWCLGCFiiMhX7qiDOyxVzE2Jr0=;jaIYFofYkBkIspaZ4Dv2IA=="
 ---
