@@ -2,7 +2,7 @@
 name: "ZenRobotics"
 overview: "ZenRobotics is the world’s leading supplier of robotic waste separation technology. If waste sorting was invented today, everyone would put robots on the job. That’s because robots provide a new, more efficient solution to an old problem. Robotic waste separation will revolutionize the waste processing industry the same way that industrial robots changed the automotive industry. Only a lot smarter."
 type: "profile"
-heat: 42
+heat: 64
 
 website: https://zenrobotics.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "zenrobotics"
   url: "https://twitter.com/zenrobotics"
-  followers: 1498
+  followers: 1499
 
 size: 11-50 employees
 yearFounded: 2007
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=9I-Th926Ly0"
 
-secured: "ArM1XJ9h+iJNAcrpjU8b8FRbIVMlDjWFPu/FZUaI3du/xVnd1y/x83AFvVJwcYR2CijUw7km2E9s7er79jhCdwEZqpujQaT/SiUfEUTS5WjYsS4OvPlC47I77JnVe7viTIbeHFZDG5GwnNNqQ9cWogEh96GyZgt3HugSZ2rlf0+yi9ssnqg7wIuKWdQf5KRpDgbEQB0NQ9Si4oh13a5aPq6iJS1QJ1rh+Rz4H0vfb07Y8k3fMKe3n3pULLd3LYhUX5/Yd/bpxl3udkPNKLA9n6bkHItk1fmbkGIf36Jmlu6TMC2cyzypmd4joh+XMKGsy2ZZmjNw+0oR8ZzTIh9jl5YatDn0yZluizuD1REE0mnHUCMb0sJoSBDyCrO5UybiOfF9tgkLVUzg+o0M6qX1bHZTbAj8B2CTFTx1tRIVL/k=;i3e67EwmD9anC3NpIzQI7g=="
+secured: "P57aVOJi7q8gmGB47jh9voa+jGI9sQ/v9AqzC/6ZI/fLa01cAnXdbL82s7w2FDWXP7uETu8vGnCBr0yDIOaPH+EdUqWNoXfZTw0RKLkw4LM6iS6yE6hLVzgjWEA/r8EBcfTOaoL8OLZR+rxvvV/wg2JfaPbL+dRPbkfV9imWCMJ8BqEhJJ2bP1brV3dEZMWoaBuwLxW/0BEOj4rcG+hV78mV2+DK1V6mJsyHuMOOTN/EO4DFY7XnAv4mgau9mb8++KNUvafA8Jc/CurycymlesB67PQYKjCOEjXtNz7VpjrNd3+FkA9vk+K4MoOilFvvK1wZRzufBx+4eKQaPzARpH/HR1HE5Xrrcw2O6WTy3nGQOmhno7EuAab0b7WrzVqhuKI74HXlmYsuHgHlmxx9nK9GzokEKJlOv3eJaTJLHqo=;39dgwOL+nCnVaZF8iXYK8w=="
 ---
 

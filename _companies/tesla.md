@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 567
+heat: 550
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 6173569
+  followers: 6174136
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "1nBN5DuwQNoczdS6BJ2qGtBWKACqvhPgJP4gn3jG+m2QjMEgD48YcH689/vupAag298TeX0ZghywdGumGYgZgMQm9gsN9DyiADNm434cyG+mHM1TkEFPwUGblCtXReZxMoDefdvJD6GMnnxq3QuCTUn02sN/+DP25dpVk8Rj36tHnV/pNNe8hrFy4ZKn36w/rOPn+xC4lKvpwmPGJbd5RWgfw49JHQN5BY3y/DSvB+yP7FQY4LtwvZGnhiCMvYiUfMkvTBk9Nt6+jH0bdo97kTlwDr+mIWr8Bet5mnIJOYyWuXnYVUf2ffUjXzLKq79az+2SkXhAbiw3UxSLnCmu8gYAQSjW1oQe1HkAkEjn1IZjEko5YUoWo3+dfBB5aLjJIjFrXYSCn5CeWCiceLcjrUnH39XwdV20oIm13ZojMTM=;jBJWayNLTJzxOyQ+hivVrg=="
+secured: "jYTFnflVdqIpAXrj3/LaXzr4vXwDPUTZhU1vYaQXKYfMZMt46lrSKJuhybsow/UB48wdp6abJXtFkqmDLDDjLUZSenRZpQm2y6AUBs6tFg+4gok2hM3HVWath057udnrik6r1TRbjfukqMkgxdWnuSQSPMyTwPHy8qsE1JZWPpbc5zKkjTh3vNDSHex7mCj/CfW7LPhwoWtCVWPF2Hemw/oPttBkKLPXqFXjQPx0dO4Wz8o/gJt4ukncb4xYxvdoLfi/aN27KsLjAKaNR7eJ5XagDldPVu183PfUnmLTmu+Fya0A9NtDHUkus3ZheGV2+Gv663rl7XACpui7yLzr6jUwCQrsRH79j63vnkSxqyqyLwz1YUtqnCdU+GLaVZBE2YkDJNNpWHsf10Vj4ZkADSXpf2zQwaHpMUHKYeouYHU=;lpTYRxkY+4R9fIHL132/Mg=="
 ---
 
