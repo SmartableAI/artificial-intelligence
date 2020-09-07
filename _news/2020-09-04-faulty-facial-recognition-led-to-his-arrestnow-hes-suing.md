@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_au/article/bv8k8a/faulty-facial-recognit
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
 type: article
 quality: 89
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Police facial recognition discrimination against Māori a matter of time - expert"
-    excerpt: "It is only a matter of time before a Māori person is wrongfully arrested because of a false match on facial recognition software, a Māori technology expert says. Police have been working on a $23 million upgrade of their biometrics images system run by the US firm Dataworks Plus,"
-    publishedDateTime: 2020-09-02T09:29:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/police-facial-recognition-discrimination-against-m-ori-matter-time-expert"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDklMkYwMiUyRnBvbGljZS1mYWNpYWwtcmVjb2duaXRpb24tZGlzY3JpbWluYXRpb24tYWdhaW5zdC1tb3JpLWEtbWF0dGVyLW8="
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDklMkYwMiUyRnBvbGljZS1mYWNpYWwtcmVjb2duaXRpb24tZGlzY3JpbWluYXRpb24tYWdhaW5zdC1tb3JpLWEtbWF0dGVyLW8="
-    type: article
-    provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
-    quality: 69
-    images:
-      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2019/08/15/tech.jpg?w=700&h=393.75&fit=crop&auto=format"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Fears police facial recognition system will falsely accuse Māori"
     excerpt: "It is only a matter of time before a Māori person is wrongfully arrested because of a false match on facial recognition software, a Māori technology expert says. Police have been working on a $23 million upgrade of their biometrics images system run by the US firm Dataworks Plus,"
     publishedDateTime: 2020-09-02T19:12:00Z
@@ -93,31 +77,6 @@ related:
         width: 800
         height: 392
         isCached: true
-  - title: "The twisted case of facial recognition"
-    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
-    publishedDateTime: 2020-09-04T04:04:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 41
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "City Council To Discuss Facial Recognition Technology"
-    excerpt: "Pittsburgh City Council will be holding an open discussion on the usage of facial recognition technology in policing. KDKA's Lindsay Ward has the latest."
-    publishedDateTime: 2020-09-02T09:41:00Z
-    webUrl: "https://pittsburgh.cbslocal.com/video/4688716-city-council-to-discuss-facial-recognition-technology/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4688716-city-council-to-discuss-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4688716-city-council-to-discuss-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 39
   - title: "Reporter Update: Open Hearing On Facial Recognition Technology"
     excerpt: "Pittsburgh City Council will hold an open hearing today regarding the usage of facial recognition technology by police. One councilman says if they were to get the technology, it would do more harm than good."
     publishedDateTime: 2020-09-02T11:39:00Z
@@ -129,6 +88,20 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
+  - title: "The twisted case of facial recognition"
+    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
+    publishedDateTime: 2020-09-04T04:04:00Z
+    webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "TSA is testing facial recognition at security checkpoints"
     excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
     publishedDateTime: 2020-09-04T14:34:00Z
@@ -169,6 +142,6 @@ related:
       domain: cbslocal.com
     quality: 33
 
-secured: "UdJ8T7paa2MFa2Nx6hpEK2b80zR8/zOdxhbl5WMaLyLltvtWhz5KHgThcETaLZhnbJroR8k7ImbbgMTcanuOWVIn4y18msAWcffpoEWsWQxbeWLNUUSvGOuLLSmzt6crWiJnT31221oFNsyFIHvXXxH+RWUQhgaoXHhuqBHLpVblszFApRC7ZPq/m7XdUIuXJLJ8PNlDTrW2dwLFLCFHvX5PxQQo7drPQJfYN9KwVGbm24y+y7VWnaMqj/ZlxvJOOxVbAKt0EufKg1pYGpFXWCZpb6vYYZqZC4JurNDWcfQIqP0oHw/1zLfGvzLFjj8rLZxuFZJYd6JNZojQQrcIzn/9ogpKNNvvqYXt/6LQHx8=;SgD3TsE/DbQ6nhuGWmn3FA=="
+secured: "BL6vYpJmZKJQ+T2Iu9H+uAxzndkUNTDs3/a21MoRFoRYAsGbmzVmL7YtLjpYyOTulm/6apVYHcw06PHMW2z4vTVquZJCY/tgWlzwgCmX1YVkREcOUDGGLHvNdgo4OZi+aiV+hNk9N1PuSADbSI31kJsTre0MKWLJRaT0vWzZj8fVIFXpuMNbaMfI1Bs5vyMuoQJhcx6YeC52RvgZuhkU4HkDukyRlcTBPi+/B0c/esavuRNlIhu5uqXIvhD0Hn80N7kRvYQkxVDy7EmXJBxVucECMxMsy8FTKxoRiMxzzHaNa+bvyP1i6BLfj4xbsmoDKCgXeBwmIIwsEsYMtVGKk3LtO22kFM6ifE/mp/HKpRgHfcJuCU9HqcFcQrc/EbxDq4/QXfVdL+MP6s50q6S/nQU+Cwg+0dGBLpy9gVfsCa2jSaiVq+ps1E/jx1hFnxgJ6v/P74Uw/L5KjO5H9t8a4hlR/n3m3P+WqLbRRFd8HAoPWlMUA6JKrTZDRL0nosvUE7xPsP+SNV2mk8cZajgexg==;zUNHhX2xnMyF1jAgpEKIYQ=="
 ---
 

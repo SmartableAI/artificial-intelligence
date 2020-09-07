@@ -9,7 +9,7 @@ ampWebUrl: "https://m.businesstoday.in/lite/story/iit-delhi-launches-school-of-a
 cdnAmpWebUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/iit-delhi-launches-school-of-artificial-intelligence-course-to-begin-from-jan-2021/1/415054.html"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Delhi establishes School of Artificial Intelligence"
-    excerpt: "Delhi has established an independent “School of Artificial Intelligence (ScAI)” on its campus. The institute is already a leader in the country and"
-    publishedDateTime: 2020-09-02T09:29:00Z
-    webUrl: "https://indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/"
-    ampWebUrl: "https://indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2019/03/IIT-Delhi2.jpg?fit=600%2C314&ssl=1"
-        width: 600
-        height: 314
-        isCached: true
   - title: "IIT Delhi: PG and PhD Programmes at School of Artificial Intelligence (ScAI) will begin January 2021"
     excerpt: "IIT Delhi has set up an independent School of Artificial Intelligence (ScAI) on its campus. The AI school will commence its Ph.D. program from the next admission cycle, i.e. January 2021. IIT Delhi also plans to offer postgraduate (PG) degree courses."
     publishedDateTime: 2020-09-04T04:33:00Z

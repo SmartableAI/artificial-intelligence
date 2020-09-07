@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4372341-nvidia-pushes-ray-traced-
 webUrl: "https://seekingalpha.com/article/4372341-nvidia-pushes-ray-traced-gaming-ahead-3000-series-gpus"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,70 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Nvidia GeForce RTX 30-series GPUs: 5 things PC gamers need to know"
-    excerpt: "Nvidia's next-gen GeForce RTX 30-series graphics cards are here, and they're bringing a lot more than just faster frame rates to the table. Here's what PC gamers need to know."
-    publishedDateTime: 2020-09-02T10:02:00Z
-    webUrl: "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.html"
-    ampWebUrl: "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/09/gaming-geforce-rtx-30-100856319-large.jpg"
-        width: 1200
-        height: 781
-        isCached: true
-  - title: "Nvidia tells us more about how well the RTX 3090 GPU performs 8K gaming"
-    excerpt: "Nvidia’s GeForce RTX 3090 launch saw the firm declare that its top-end Ampere graphics card can handle 8K gaming smoothly – meaning at 60 frames per second (fps) – but now further details have been shared on what kind of frame-rates we can expect with various games,"
-    publishedDateTime: 2020-09-06T13:00:00Z
-    webUrl: "https://www.techradar.com/in/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZY3deEipHnrs5a3gWYKjcZ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "LG launches 8K OLED TVs with NVIDIA GeForce RTX 30 Series GPU support"
-    excerpt: "Electronics brand LG has expanded its product portfolio with the launch of a new range of 8K OLED TVs. The company is said to be the first TV manufacturer to commercialize 8K OLED"
-    publishedDateTime: 2020-09-02T09:48:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/articleshow/77888361.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/amp_articleshow/77888361.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/amp_articleshow/77888361.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-77888361/77888361.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "NVIDIA’s GeForce RTX 30 Series GPU Is The Greatest-Ever Generational Leap"
-    excerpt: "Jensen Huang, CEO and founder of Nvidia, has unveiled its all-new GeForce RTX 30 Series GPUs from the kitchen of his Silicon-valley home."
-    publishedDateTime: 2020-09-05T04:37:00Z
-    webUrl: "https://analyticsindiamag.com/nvidias-geforce-rtx-30-series-gpu-is-the-greatest-ever-generational-leap/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 38
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/Aim_nvidia-compressed.jpg"
-        width: 783
-        height: 535
-        isCached: true
 
 secured: "EhTZx9DZ71Hhy3G5/MS0DFp/TSPZ7M1kifTj6nU56Em+xP7XMXi5LZcGQx4MoowpKv0xByNEELgTEDxCiZ9CyuuuyZIEcP0enPJXFqgsobMsIRTqm5q+bFtPYaqwDklrEOb/7Xa8By+R81Sv7yiGpm7qkQO0BKx8W8fxxtvpIGqHvPBlgJH4lia83bMTKEtPkwHEKArwynO9dRbihAUStKlGxelHSVvmT70BOJJLLX/ZGxU1rccMwYcoyrLGKjKS2EyopYVYIcDK4n4s+CmuJxVzSqZLbKrV0BbT2hOsr45XDbC/4yFVsf/GOG1mSkIiqlO/9dEgrk80sTBtcq4xFlfRnvEkWyh3/QfOf6sLoQg=;8PI+7/ovpkUgZMc0K8Mt6g=="
 ---

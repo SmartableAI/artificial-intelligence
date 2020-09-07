@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/nvidia-tells-us-more-about-how
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: TechRadar
@@ -29,63 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Nvidia GeForce RTX 30-series GPUs: 5 things PC gamers need to know"
-    excerpt: "Nvidia's next-gen GeForce RTX 30-series graphics cards are here, and they're bringing a lot more than just faster frame rates to the table. Here's what PC gamers need to know."
-    publishedDateTime: 2020-09-02T10:02:00Z
-    webUrl: "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.html"
-    ampWebUrl: "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/09/gaming-geforce-rtx-30-100856319-large.jpg"
-        width: 1200
-        height: 781
-        isCached: true
-  - title: "LG launches 8K OLED TVs with NVIDIA GeForce RTX 30 Series GPU support"
-    excerpt: "Electronics brand LG has expanded its product portfolio with the launch of a new range of 8K OLED TVs. The company is said to be the first TV manufacturer to commercialize 8K OLED"
-    publishedDateTime: 2020-09-02T09:48:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/articleshow/77888361.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/amp_articleshow/77888361.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/lg-launches-8k-oled-tvs-with-nvidia-geforce-rtx-30-series-gpu-support/amp_articleshow/77888361.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-77888361/77888361.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "NVIDIA’s GeForce RTX 30 Series GPU Is The Greatest-Ever Generational Leap"
-    excerpt: "Jensen Huang, CEO and founder of Nvidia, has unveiled its all-new GeForce RTX 30 Series GPUs from the kitchen of his Silicon-valley home."
-    publishedDateTime: 2020-09-05T04:37:00Z
-    webUrl: "https://analyticsindiamag.com/nvidias-geforce-rtx-30-series-gpu-is-the-greatest-ever-generational-leap/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 38
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/Aim_nvidia-compressed.jpg"
-        width: 783
-        height: 535
-        isCached: true
-  - title: "Nvidia Pushes Ray-Traced Gaming Ahead With 3000 Series GPUs"
-    excerpt: "The pandemic, in general, has given people more time, more incentive, and frankly, more of a need to game than ever before."
-    publishedDateTime: 2020-09-03T14:34:00Z
-    webUrl: "https://seekingalpha.com/article/4372341-nvidia-pushes-ray-traced-gaming-ahead-3000-series-gpus"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "52ca3OnBakfbWDGuI7ORJNRJKfrMYbJ0b4UvARXGFPm5B8kM0El4skksZuGOvrsqaP+M+M7x2Ybue6N3I7aar49/Lf8OCJ9AiPA3eAgTkEYKNY1ZEG7x267m0m/Asgn/GedRDTiH66W+GJsT5dRfGKtbdE77Addr5GZOY+9C6dcUIeajqbUftTnNuZplX5JEpg3Y7AsdbHq2VDV55iByXrazHl1T62V2lat5nzDeVKvcMGmniyJ75sQGBxi7fPYSQxo9KPhtCapAyi7CEFGmu1QuGqfM9sZcJGbDDdSyBo1wfp9VbOPJIX3G0o1HJ6jtHatiuJsRXRZprhkkf21GWuk558/ueaBhZBzePsonU8SuUCJ+sD6L5zvzscbeBXKKgvu0eT4qZNLbwcT2UkOBAut2+Ai44C7N8qayGyH4aMAWjp8YwTeGKr9f9U+zVZwTpQDs5YVQxq2SrcavRbSdJSIMrgyYcnRwfXBfedSoRpDiRmJNil8Eyw2ZA/S4GHshIvl3qqK+BTXbImzujJ+9uV9+YpXoYyte8iwB7am2j3k=;iTa/AJKYVEs7mJYo27ibTQ=="
 ---

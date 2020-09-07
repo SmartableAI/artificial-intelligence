@@ -2,6 +2,96 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2020-07-15-navistar-plans-to-launch-truly-driverless-class-8-trucks-by-2024.md",
+      "title": "Navistar plans to launch truly driverless Class 8 trucks by 2024",
+      "excerpt": "Navistar plans to launch the driverless technology on its International ... Netradyne is an artificial intelligence (AI) and edge computing technology company that focuses on driver and fleet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21136631/navistar-and-tusimple-plan-to-launch-truly-driverless-highway-trucks-by-2024",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2020/07/16x9/navistar_international_lt_tusimple_truck.5f0e08ee88826.png?auto=format&fit=max&w=1200",
+          "width": 1112,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-drifts-latinx-founders-beat-long-odds-to-build-360-million-ai-powered-sales-startup.md",
+      "title": "Drift’s Latinx Founders Beat Long Odds To Build $360 Million AI-Powered Sales Startup",
+      "excerpt": "Three companies and 12 years later, Cancel and Torres are the founders of Drift, an AI-powered sales software startup that features on Forbes’ second annual AI 50 list of the most promising U.S.-based startups, one of nine companies building productivity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/15/drift-david-cancel-elias-torres-ai-50-interview/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed96235d5799d0007010974%2F0x0.jpg%3FcropX1%3D454%26cropX2%3D5181%26cropY1%3D0%26cropY2%3D3151",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/15/drift-david-cancel-elias-torres-ai-50-interview/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/07/15/drift-david-cancel-elias-torres-ai-50-interview/amp/",
+      "publishedDateTime": "2020-07-15T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-new-constructs-nominated-for-benzinga-fintech-listmakers.md",
       "title": "New Constructs Nominated for Benzinga Fintech Listmakers",
       "excerpt": "The Benzinga Fintech Listmakers is a compilation of companies within various fintech categories that are working to revolutionize the industry. The voting process will close on Oct. 20. Vote for New Constructs at this link.",
@@ -1078,106 +1168,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-aws-and-hsbc-reach-long-term-strategic-cloud-agreement.md",
-      "title": "AWS and HSBC Reach Long-Term Strategic Cloud Agreement",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that HSBC Holdings plc (NYSE: HSBC) has selected AWS as a key,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-and-hsbc-reach-long-term-strategic-cloud-agreement-2020-07-15",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-14T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-unpacking-ais-power-and-its-controversies-at-transform-2020.md",
-      "title": "Unpacking AI’s power and its controversies at Transform 2020",
-      "excerpt": "VB Event Take the latest VB Survey to share how your company is implementing AI today. I can’t wait until Transform 2020 starts tomorrow. It’s our flagship event for enterprise decision-makers to learn how to apply AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/unpacking-ais-power-and-its-controversies-at-transform-2020/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/transform-event-audience.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/unpacking-ais-power-and-its-controversies-at-transform-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/unpacking-ais-power-and-its-controversies-at-transform-2020/amp/",
-      "publishedDateTime": "2020-07-14T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

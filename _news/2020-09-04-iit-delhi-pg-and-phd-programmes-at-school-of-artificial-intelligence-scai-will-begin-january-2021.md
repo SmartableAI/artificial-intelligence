@@ -21,22 +21,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "IIT Delhi establishes School of Artificial Intelligence"
-    excerpt: "Delhi has established an independent “School of Artificial Intelligence (ScAI)” on its campus. The institute is already a leader in the country and"
-    publishedDateTime: 2020-09-02T09:29:00Z
-    webUrl: "https://indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/"
-    ampWebUrl: "https://indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2019/03/IIT-Delhi2.jpg?fit=600%2C314&ssl=1"
-        width: 600
-        height: 314
-        isCached: true
   - title: "IIT-Delhi launches School of Artificial Intelligence; course to begin from Jan 2021"
     excerpt: "The Indian Institute of Technology (IIT) has established an independent \"School of Artificial Intelligence\" (ScAI) that will begin PhD programme from January 2021. The AI school aims to cement IIT Delhi's leadership position on the global map of Artificial Intelligence On the launch of the school of AI,"
     publishedDateTime: 2020-09-03T10:06:00Z

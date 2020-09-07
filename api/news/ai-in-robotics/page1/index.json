@@ -1234,6 +1234,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-26-covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely.md",
+      "title": "COVID 19 Update: Global Healthcare Artificial Intelligence Market Stocks Gain, Rises Immensely",
+      "excerpt": "Healthcare Artificial Intelligence Market” Healthcare Artificial Intelligence (AI) Market Research Report: Information by Component (Hardware, Software,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1598357109.jpeg",
+          "width": 417,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17242858",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17242858",
+      "publishedDateTime": "2020-08-25T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-aerospace-robotics-market-to-reach-usd-778-billion-by-2027-adoption-of-artificial-intelligence-will-boost-growth-says-fortune-business-insights.md",
       "title": "Aerospace Robotics Market to Reach USD 7.78 Billion by 2027; Adoption of Artificial Intelligence will Boost Growth, Says Fortune Business Insights™",
       "excerpt": "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI) by companies for the maintenance of aircraft. This information is given by Fortune Business Insights™ in a new report,",
@@ -1303,56 +1344,6 @@
         "name": "oedigital.com",
         "domain": "oedigital.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon.md",
-      "title": "A Robot Tried to Fix Value Investing and Ended Up Buying Amazon",
-      "excerpt": "Artificial intelligence has been touted as a solution for everything from ending lines at the checkout to rooting out systematic bias in Wall Street hiring. It was almost inevitable that someone would suggest using it to fix value investing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGRK1N7WsVRU/v2/pidjEfPlU1QWZop3vfGKsrX.ke8XuWirGYh1PKgEw44kE/360x-1.png",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon",
-      "publishedDateTime": "2020-08-25T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

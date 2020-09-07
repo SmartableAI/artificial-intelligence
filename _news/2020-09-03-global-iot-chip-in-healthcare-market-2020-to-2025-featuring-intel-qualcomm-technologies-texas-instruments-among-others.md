@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "North American Artificial Intelligence in Diagnostics Market 2020-2026 - ResearchAndMarkets.com"
-    excerpt: "The North America Artificial Intelligence in Diagnostics Market is expected to witness market growth of 26.6% CAGR during the forecast period (2020-2026). “North America Artificial Intelligence in Diagnostics Market By Diagnosis Type (Radiology,"
-    publishedDateTime: 2020-09-02T10:22:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200902005500/en/North-American-Artificial-Intelligence-Diagnostics-Market-2020-2026"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
-    images:
-      - url: "https://mms.businesswire.com/media/20200902005500/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Outlook on the AI Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
     excerpt: "The \"Global Artificial Intelligence (AI) Chips Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence (AI) chips market is poised to grow by $ 54.03 billion during 2020-2024 progressing at a CAGR of 42% during the forecast period."
     publishedDateTime: 2020-09-04T12:54:00Z

@@ -3,10 +3,10 @@ category: news
 title: "The twisted case of facial recognition"
 excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
 publishedDateTime: 2020-09-04T04:04:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
+originalUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
+webUrl: "https://www.kmworld.com/Articles/Columns/Cognitive-Computing/The-twisted-case-of-facial-recognition-142477.aspx"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: kmworld.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
@@ -41,22 +40,6 @@ related:
       - url: "https://video-images.vice.com//articles/5f4fefdd972acd00959db0e6/lede/1599158657813-img1508.jpeg?crop=1xw:0.8743135838150289xh;center,center"
         width: 2689
         height: 1512
-        isCached: true
-  - title: "Police facial recognition discrimination against Māori a matter of time - expert"
-    excerpt: "It is only a matter of time before a Māori person is wrongfully arrested because of a false match on facial recognition software, a Māori technology expert says. Police have been working on a $23 million upgrade of their biometrics images system run by the US firm Dataworks Plus,"
-    publishedDateTime: 2020-09-02T09:29:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/police-facial-recognition-discrimination-against-m-ori-matter-time-expert"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDklMkYwMiUyRnBvbGljZS1mYWNpYWwtcmVjb2duaXRpb24tZGlzY3JpbWluYXRpb24tYWdhaW5zdC1tb3JpLWEtbWF0dGVyLW8="
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDklMkYwMiUyRnBvbGljZS1mYWNpYWwtcmVjb2duaXRpb24tZGlzY3JpbWluYXRpb24tYWdhaW5zdC1tb3JpLWEtbWF0dGVyLW8="
-    type: article
-    provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
-    quality: 69
-    images:
-      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2019/08/15/tech.jpg?w=700&h=393.75&fit=crop&auto=format"
-        width: 700
-        height: 394
         isCached: true
   - title: "Fears police facial recognition system will falsely accuse Māori"
     excerpt: "It is only a matter of time before a Māori person is wrongfully arrested because of a false match on facial recognition software, a Māori technology expert says. Police have been working on a $23 million upgrade of their biometrics images system run by the US firm Dataworks Plus,"
@@ -104,17 +87,6 @@ related:
         width: 800
         height: 392
         isCached: true
-  - title: "City Council To Discuss Facial Recognition Technology"
-    excerpt: "Pittsburgh City Council will be holding an open discussion on the usage of facial recognition technology in policing. KDKA's Lindsay Ward has the latest."
-    publishedDateTime: 2020-09-02T09:41:00Z
-    webUrl: "https://pittsburgh.cbslocal.com/video/4688716-city-council-to-discuss-facial-recognition-technology/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4688716-city-council-to-discuss-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4688716-city-council-to-discuss-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 39
   - title: "Reporter Update: Open Hearing On Facial Recognition Technology"
     excerpt: "Pittsburgh City Council will hold an open hearing today regarding the usage of facial recognition technology by police. One councilman says if they were to get the technology, it would do more harm than good."
     publishedDateTime: 2020-09-02T11:39:00Z
@@ -166,6 +138,6 @@ related:
       domain: cbslocal.com
     quality: 33
 
-secured: "84ksxJr3q567mSkFFovgozKngzSUcCFDRI5x4MP8YfnSsRX01jAhIg5Nb6hYRGJNlS8dQ3AIDLKHqp1z6D7OBekwv3B8PyiWXVVU+YxZVNI+Yp3NeZjdLWq69RjI9YxJXORt20oF0Ot0bmsR9JQzai6FCN4C2duBQgohkxf0kvZ7Hvbr/yitPkjLEt1ZyAWDlWSqNlpSz4qFaXwRih4YPeALFMRiUDF4TOsMWWyOZWePGdfzS9llPK9zddQ01KYSMtppnWplhO69ARHdwTPamYkY8C8J4Qd7ya/AGnsrnA8YgEbGK2dqcrCisRuDnGdRfjZ6SF6f8aHAMHCsVQ8DxSf5kf77SA+Xh1Gs+t7Pxuo=;UY79NHPvGfO7DkyLGrPmJQ=="
+secured: "06wjKBk/UbsHfObq20Xi1u51P9jxi6hWLzHK4vV0sUiZO2lR+OQQv0KoIldZzYQcmzPH64H1pqIKzd5swFg8U4MRfZfll+uX21iihDqqv+zlov7rBPlyT7jxcuw3borsqS+nl4E5X12S/fv7FDI6oVPXKShvpIL3IUqrfwPz7csWwv5lZ8n5bEzfU4fWcTuqncXos2doBkwRS0VSnFlAu9ahXXVHPL54uxLnAywftNRPFFJlD8urh9sQaz1ds/pk/i78IUC6wwIGp8psFHXQLDssZx8LWA/c9q1aI23ErhOf4GBrnTxpNPvxUVwPk/NGWaKOfDMxVnODFhDaYFheqNvuDwbH2CUPCKMZN3va4Is=;gi4w0N3liunkKj/E9Glitg=="
 ---
 

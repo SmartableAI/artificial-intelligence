@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-07-chinas-driverless-car-upstarts-see-robotaxis-scaling-up-in-3-years-as-tech-firms-race-to-get-ahead.md",
+      "title": "China's driverless car upstarts see robotaxis scaling up in 3 years as tech firms race to get ahead",
+      "excerpt": "A number of so-called \"robotaxi\" projects have popped up in the world's second-largest economy over the past two years, with the companies involved eyeing creating viable autonomous ride hailing businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html",
+      "originalUrl": "https://www.cnbc.com/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html",
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106688926-1599111743041-WeRide_in_Guangzhou.jpeg?v=1599111846",
+          "width": 4000,
+          "height": 2250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html",
+      "publishedDateTime": "2020-09-06T19:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-07-why-the-secret-ai-sauce-behind-tiktok-is-such-a-vital-ingredient-in-luring-potential-buyers.md",
       "title": "Why the secret AI sauce behind TikTok is such a vital ingredient in luring potential buyers",
       "excerpt": "The recent Chinese policy change on exports may mean that a quick deal to sell TikTok’s US operations is now in doubt.",
@@ -9,7 +59,7 @@
       "webUrl": "https://www.scmp.com/tech/big-tech/article/3100287/why-secret-ai-sauce-behind-tiktok-such-vital-ingredient-luring",
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3100287/why-secret-ai-sauce-behind-tiktok-such-vital-ingredient-luring",
       "featuredContent": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -138,6 +188,56 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-06-nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming.md",
+      "title": "Nvidia tells us more about how well the RTX 3090 GPU performs 8K gaming",
+      "excerpt": "Nvidia’s GeForce RTX 3090 launch saw the firm declare that its top-end Ampere graphics card can handle 8K gaming smoothly – meaning at 60 frames per second (fps) – but now further details have been shared on what kind of frame-rates we can expect with various games,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
+      "originalUrl": "https://www.techradar.com/in/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZY3deEipHnrs5a3gWYKjcZ-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
+      "publishedDateTime": "2020-09-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1013,7 +1113,7 @@
       "webUrl": "https://www.vice.com/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
       "originalUrl": "https://www.vice.com/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
       "featuredContent": null,
-      "heat": 189,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1102,97 +1202,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco.md",
-      "title": "Yandex spins out self-driving car unit from its Uber JV, invests $150M into newco",
-      "excerpt": "Self-driving cars are still many years away from becoming a ubiquitous reality, but today one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/",
-      "originalUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/04/yandex.jpg?w=1024",
-          "width": 1024,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/",
-      "publishedDateTime": "2020-09-04T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news.md",
-      "title": "Microsoft Launches ‘deepfake’ Detector to Spot AI Altered Fake News",
-      "excerpt": "The tech giant Microsoft has launched new software that can assist in spotting 'deepfake' content that are altered by AI to look authentic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/",
-      "originalUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.phoneworld.com.pk/wp-content/uploads/2020/09/Microsoft-logo_rgb_c-gray-1.png",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/amp/",
-      "cdnAmpWebUrl": "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/amp/",
-      "publishedDateTime": "2020-09-04T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "phoneworld.com.pk",
-        "domain": "phoneworld.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

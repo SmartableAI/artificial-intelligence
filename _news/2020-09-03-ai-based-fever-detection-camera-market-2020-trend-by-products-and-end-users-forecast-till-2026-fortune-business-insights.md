@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Platform Market Trend, Technology Advancements and Global Demand 2020-2025"
-    excerpt: "The report provides a detailed assessment of the 'Global Artificial Intelligence Platform Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
-    publishedDateTime: 2020-09-02T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-trend-technology-advancements-and-global-demand-2020-2025-2020-09-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Marketing Market: Industry Analysis and Opportunity Assessment 2021-2024 | Impact of COVID-19 Pandemic"
     excerpt: "Artificial Intelligence in Marketing Market Research Report, by Application (Ad Optimization, Content Curation),"
     publishedDateTime: 2020-09-03T07:03:00Z
