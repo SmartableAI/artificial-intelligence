@@ -57,20 +57,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Europe AI in Social Media Market, Forecast to 2025 with Profiles of 10 Leading Players Including Microsoft, Google, AWS, Adobe and Facebook"
-    excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research."
-    publishedDateTime: 2020-09-07T11:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 5
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "uEBJLxvyf7NcmmaS/Pyhw2GOUj/OrJTNXBJIiRPVdh60IRtjXUC7gAvOsMz2dJ/81OOjsVPiDRSbbjynV1ahx1kIZVl4uhxtrxUZNHVwMaTa0j9SHSW3xU8FU071TNV1I9PhA4sTjI/Rr4ZzUVIiYritXeVYNFGPWgbNojjyNydz3WNIdNWArHXH1uqMYE/Wyg8frB5yK5+k9hMmHpSEe43R8C5FCsiRArDoFzIf9gk+splbTFm4AW3GFTc1y2BX45v1gmoF6e1Q3GoJJybzF43Yh2s8Ph9Un3Wz+FPdzAEWgzlZdjSP/YdN3P+HVsaklanxQO+t3FW3Zo8cBW4gTWeOxEElW1F8i42IvUrdmGE=;Re4M0nlGyEcscKUODHgoPw=="
 ---

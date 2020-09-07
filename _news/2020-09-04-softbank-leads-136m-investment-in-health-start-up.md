@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/business/companies-markets/softbank-l
 webUrl: "https://www.straitstimes.com/business/companies-markets/softbank-leads-136m-investment-in-health-start-up"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1200
     height: 799
     isCached: true
-
-related:
-  - title: "SoftBank Vision Fund 2 leads a $100 million funding in this Indian founder’s global healthtech startup"
-    excerpt: "Japanese investment firm SoftBank ’s Vision Fund 2 has led a $100 million fund in Biofourmis – a digital therapeutics startup. The round also saw participation from the startup’s existing investors Openspace Ventures,"
-    publishedDateTime: 2020-09-03T07:47:00Z
-    webUrl: "https://www.businessinsider.in/business/startups/news/softbank-vision-fund-2-leads-a-100-million-funding-in-this-indian-founders-global-healthtech-startup/articleshow/77907105.cms"
-    ampWebUrl: "https://www.businessinsider.in/business/startups/news/softbank-vision-fund-2-leads-a-100-million-funding-in-this-indian-founders-global-healthtech-startup/amp_articleshow/77907105.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/startups/news/softbank-vision-fund-2-leads-a-100-million-funding-in-this-indian-founders-global-healthtech-startup/amp_articleshow/77907105.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 26
-    images:
-      - url: "https://www.businessinsider.in/thumb/msid-77907124,height-275,width-412,imgsize-391765/business/startups/news/softbank-vision-fund-2-leads-a-100-million-funding-in-this-indian-founders-global-healthtech-startup/kuldeep-singh-rajput-ceo-biofourmis.jpg"
-        width: 412
-        height: 275
-        isCached: true
 
 secured: "fVrPOtqARUeGCPpuK8RHYbboYoWZuV/hcX/4EggQe3Cwmqkz6HShqPMLsHk3x0qimp3ga8NGzMrVuWHuBaH+ZrqUAstm6ZDqH3eebxP7aSTbuMu5nHmUKqYQ9sLGB6gtThgCO2hFetQJyBd0WxuuaUq6vDjTjAMt3B4dgvyarUBt5jnnateoU0YZcGwv4Wrn4pbRUrQuwJhRkjzTyvI/NKOEA1AkbookFLkh+DrbqBasXG66STbxzGuaKh+gVqQEIqE/hF5SqNU5q/PLh7+k6mDUxmvzzKMS38D5Hbg40+tB90vz+go0XHP8S8YNC0YQKYzNCMjr839TBgdoVxiBxuurW8VpB5jMwBhVhD8FgeI=;445lY0pl00qNO8xq/KHhlw=="
 ---

@@ -22,11 +22,11 @@ topics:
 
 related:
   - title: "From Microsoft dropping out to new collab with Rafael: Israeli AnyVision raises $43M"
-    excerpt: "With action packed year behind them including Microsoft backing out and a new partnership with Rafael Technologies, Israeli startup AnyVision scores funding to dominate the world of facial"
+    excerpt: "With an action packed year behind them that included Microsoft backing out and a new partnership with Rafael Technologies, Israeli startup AnyVision scores funding to dominate the world of facial"
     publishedDateTime: 2020-09-04T20:36:00Z
-    webUrl: "https://www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/"
-    ampWebUrl: "https://www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/amp/"
+    webUrl: "https://www.geektime.com/anyvision-raises-43m/"
+    ampWebUrl: "https://www.geektime.com/anyvision-raises-43m/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/anyvision-raises-43m/amp/"
     type: article
     provider:
       name: Geektime

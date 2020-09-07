@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.in/business/startups/news/softbank-visio
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/startups/news/softbank-vision-fund-2-leads-a-100-million-funding-in-this-indian-founders-global-healthtech-startup/amp_articleshow/77907105.cms"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "SoftBank leads $136m investment in health start-up"
-    excerpt: "SoftBank Group led a US$100 million (S$136 million) investment in Biofourmis, a software start-up that predicts problems for patients with heart conditions.. Read more at straitstimes.com."
-    publishedDateTime: 2020-09-03T21:56:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/softbank-leads-136m-investment-in-health-start-up"
+  - title: "AI startup Justpoint just raised $1 million in funding for its mission to reform the medical malpractice system"
+    excerpt: "Medical errors are currently the third leading cause of death in the US – and often result in financial ruin for survivors that try to sue."
+    publishedDateTime: 2020-09-03T11:29:00Z
+    webUrl: "https://www.businessinsider.com/ai-startup-justpoint-raises-1-million-in-seed-funding-2020-9"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 22
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
     images:
-      - url: "https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg"
-        width: 1200
-        height: 799
+      - url: "https://i.insider.com/5f50c57fe6ff30001d4e6cc4?width=1200&format=jpeg"
+        width: 960
+        height: 480
         isCached: true
 
 secured: "JF2Th6KHFzmaJGAVyHfcPqdPRLD7oVd+iie6Y3e43P5Lh5RwYwtvJI153hHfgywSZWF6jiwkWARYCSXn1VxwFX/rP6KrynSixiXWNAq586tu0vzQ6OwpudENPHuOJtR5lidxE0cU3CKOY9wRmWQfDdf67z8PENcXOUwNue7d3lieObRxQXOzWl1d0ML2l9oEZHRf9H/KLFLKIHKieBA3rJBmhQ5o+/ETgCpvS4UmS7dzsHOe8luk0Ep/Yr1NDMOtWA0YvfEbPi8IB4eFSV5EW2oG8vvWDevJzuNzmxHJalXpzVpeRIZfBXPkV0ES0WwGC3m5ORL90Q2sBO6UdwSyjqYTGbJWRzKuTBMDXkCdy4Y=;0Wwa/OzChO/AMhi9psUYMg=="

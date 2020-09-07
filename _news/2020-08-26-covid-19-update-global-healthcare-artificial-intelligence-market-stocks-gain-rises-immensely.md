@@ -14,9 +14,8 @@ provider:
   domain: benzinga.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://www.abnewswire.com/uploads/1598357109.jpeg"
@@ -24,6 +23,6 @@ images:
     height: 455
     isCached: true
 
-secured: "b9NbZx4eJjU9qljBI39HiDmqZAy0SoHK05ntU/KCSnZrgtOiJo/LEhXApY0Lbj1P8c1d40lh4VTyJyx8waQRcvVdzbBRkPCaIefRirbviVSP+hDjgDpBzAtGk1NYyaEvHC3+hyhD5fskL+y+2xhQd7NhX2HAINB6DsVP8yA4jb5b9sQaLxOJecjjym25Kh/c3shOwAHcBJk3quO8GDBRAE26pQ14XKJb3NNeFBycNgEaghEikcnWiI/RHqnolwBWAhOgaweqJDIC1xcNNxcxWpEyZEajnlww7VqP5CaWXIDqUALN2d7nbGsjOc5te5UUgnXy89WgtEIutuTYFJOst68JtNe0ewhtUBSyU5IW3d8=;eH82qOvZWVM0IanW2uxyBg=="
+secured: "JX+tOazAJxsbJ6QfzLYdhz/JhXsQVtV2vtgfRsxYZPcZ9BsijBdbbFNJhAvcaAHIVTILzvE/1MIQ+3VHXPBnXJsm1Gv3qpKcOvaBcL/GNed2t5wiYqb0XN6RG5hlJMy7CF6dDNvbicixAxSgRul/cv8IlnHLthUPrn49tnjJ9DwGrUMKlYoaiR+cR05v+muVTKxx+GVzvyw85LURay16TCCzyBtxnpvVoeYR1fwyIQaT6J5pSYI5FD7eqduy4uw5xzJxcKa7FQeyeUcVjpo8aQP110KVa2QhfYrqeQW35IQSv4drN/3mQSTl1yt1nu0Xjb6kKvzVc9gBa8dLXwRTtqWZ0xNcwMg1pbnS+ZhC/tI=;I2RNfcIuAgszE/ipAtYPqw=="
 ---
 

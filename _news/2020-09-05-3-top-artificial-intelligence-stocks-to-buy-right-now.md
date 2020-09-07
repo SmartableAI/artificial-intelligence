@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/09/05/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 1023
     isCached: true
-
-related:
-  - title: "2 Fintech Stocks We're Ready to Buy Now"
-    excerpt: "In today's episode, we wish happy birthday to one of the greatest investors ever and talk about two stocks we love right now."
-    publishedDateTime: 2020-09-03T03:15:00Z
-    webUrl: "https://www.fool.com/investing/2020/09/02/2-fintech-stocks-were-ready-to-buy-now/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/09/02/2-fintech-stocks-were-ready-to-buy-now/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/02/2-fintech-stocks-were-ready-to-buy-now/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
 
 secured: "1fRzMdsC3MWp4Q2gTwSiRCUpMjSTWEw0xEb2NB6OiaIBpLjPt6BLw9DKR7v86OWVDCedQapG8zrYeMNbpGP8ZObY+q7DPRjVii/bojbVCNnxWWCG9iP4IGwKZ4k1kQxptZToAHDGxzlJal9Q6sENISIuqYOmCjrakz/XQoBas9Rna/r5p47k9ByF7MFEJGe9o0wuAnpM25GdC/i1O8NK235oZauaF3MBO32nMBQGYA+xiAxAVcL5Tsv7Uj1LVf9w6dMaD0r4Md0ZTnSHxlU44vgbX7uW2xhBalW9AAN16Zt8WBZWhwT1QsZ471qKTPO1MZrTGKaTLjEsHREpZkn8gO3lxq5nTyjESOOYmf3G+VU=;uKQbbCBicd1D1Efk53MACg=="
 ---

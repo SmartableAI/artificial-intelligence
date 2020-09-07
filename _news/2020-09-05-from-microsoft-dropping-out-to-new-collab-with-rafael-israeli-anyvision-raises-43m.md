@@ -1,12 +1,12 @@
 ---
 category: news
 title: "From Microsoft dropping out to new collab with Rafael: Israeli AnyVision raises $43M"
-excerpt: "With action packed year behind them including Microsoft backing out and a new partnership with Rafael Technologies, Israeli startup AnyVision scores funding to dominate the world of facial"
+excerpt: "With an action packed year behind them that included Microsoft backing out and a new partnership with Rafael Technologies, Israeli startup AnyVision scores funding to dominate the world of facial"
 publishedDateTime: 2020-09-04T20:36:00Z
-originalUrl: "https://www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/"
-webUrl: "https://www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/"
-ampWebUrl: "https://www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/amp/"
-cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/from-microsoft-dropping-out-to-collab-with-rafael-israeli-anyvision-raises-43m/amp/"
+originalUrl: "https://www.geektime.com/anyvision-raises-43m/"
+webUrl: "https://www.geektime.com/anyvision-raises-43m/"
+ampWebUrl: "https://www.geektime.com/anyvision-raises-43m/amp/"
+cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/anyvision-raises-43m/amp/"
 type: article
 quality: 52
 heat: -1
@@ -83,6 +83,6 @@ related:
         height: 1005
         isCached: true
 
-secured: "LQI5S06n4LFRNoX1sZmqUkNF/hlqe9gAeqsmGb3/HRMlf9ZTZGNW3TPEqP7uKnnPSA4VI2x4SKLUQ4rxZ5nviIJIjkDVld5jyyELo284s7ZyBSs59Lv0h2jx+kHPJjGmCYSoLqViwOgNi4+FVrCssVFP7luFn9D+G5GZE9cNRw5zsJriIw3FezWbCiuvy2Gudo0NWX9fe1ScGcJch7sLQ7LuyfOuGFNP+DA+NMFoFIYIknayBXckKYQVNOimR4wbiLVb6z34FeXjy3m6P/I4bLtmXx/IsKzSkCAf0dX08hpeTCAHkalmaUuKqJ7F94yE/ck3IBBdFC5HVijWpvM92c1kklEj692wjCs1PizIu8b489Z+HOopVFcFXrGDIHqgvISVQKDNHEfUAQw+cW0Ib+O96O8bMDD7xa4Fhuf3Q3ESSFOf5OYno5Cx0soKUhTqeYxiLLpbcPj6UzSEYfOq2X+KX6PZ+Fvfxsr3OKdcuzvyqmwe0b4Vusv3pKPBELOV0TyDjj6gAuuwG0/ttvl3uw==;0dU4A4Zh7NNYGWd5ndmm6Q=="
+secured: "0dg/g8keSyFmhL2bBA2Rbt6WIqUxNZb+/BA5W+COeoUGAOcZZQcFTJKlA9CjAIhPZD3UYMGQYIqXzSoUHQh2lboQwmHDhVClt9vRJpenKi1n/c+Lw0qdAm/Ua3LW4IHGNMqeQDNso8Feluth5MCF82rYhzAxgOd4HkDYVu9Wq8o2nhNP88CX7kLvyogU7XWQWYNcFCPDC3gF4AFtoffDULu+2zU/tpEW516H1J5fsLxsc+dCIMzC4sHJTGuKUfSfTSpUJfhpjOaDSzKo7rm/CXdUzRfzuodfDSrbTdxCY1iIaUANUWqo8Hx0yqBvZZmZVt1CocuMcUCZo2HAvAmCUdS8BjakLqq0fVFBVyY3+HY=;jK5/ojATErxV7ZYDOH7HVw=="
 ---
 
