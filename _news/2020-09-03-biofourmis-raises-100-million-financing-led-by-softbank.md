@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/biofourmis-raises-100-million-financi
 webUrl: "https://www.wsj.com/articles/biofourmis-raises-100-million-financing-led-by-softbank-11599083717"
 type: article
 quality: 167
-heat: 217
+heat: 207
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/trim/0x1307:2700x2825/fit-in/711x399/smart/https://specials-images.forbesimg.com/imageserve/5f502d73e67ec7820f96d91f/0x0.jpg"
         width: 710
         height: 399
-        isCached: true
-  - title: "AI startup Entropik Tech raises $8 million in funding led by Alpha Wave"
-    excerpt: "Entropik plans to utilise the funds to expand its presence to the US, European Union and South East Asia, and to deepen its artificial intelligence capabilities"
-    publishedDateTime: 2020-09-02T08:51:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave-11599033123889.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave/amp-11599033123889.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/ai-startup-entropik-tech-raises-8-million-in-funding-led-by-alpha-wave/amp-11599033123889.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2020/09/02/600x338/startup-kElG--621x414@LiveMint_1599035331905.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Boston startup Biofourmis raises $100m for remote medical tech"
     excerpt: "As interest in telemedicine grows, the company is using wearable sensors and software to understand patients’ vital signs and help doctors make decisions about their care from afar."

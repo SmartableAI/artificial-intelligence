@@ -32,7 +32,7 @@ related:
     provider:
       name: Insurancenewsnet.com
       domain: insurancenewsnet.com
-    quality: 13
+    quality: 15
     images:
       - url: "https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg"
         width: 1200

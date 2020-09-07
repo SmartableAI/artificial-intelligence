@@ -21,28 +21,12 @@ topics:
   - AI
 
 related:
-  - title: "The best facial recognition security cameras of 2020"
-    excerpt: "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your profile of known faces."
-    publishedDateTime: 2020-09-02T07:49:00Z
-    webUrl: "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/O4onAnkKGXEMUhxqCMsiV1okXi4=/756x567/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
-        width: 756
-        height: 567
-        isCached: true
   - title: "Faulty Facial Recognition Led to His Arrest—Now He’s Suing"
     excerpt: "Michael Oliver is the second Black man found to be wrongfully arrested by Detroit police because of the technology—and his lawyers suspect there are many more."
     publishedDateTime: 2020-09-04T14:08:00Z
-    webUrl: "https://www.vice.com/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-    ampWebUrl: "https://www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    webUrl: "https://www.vice.com/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    ampWebUrl: "https://www.vice.com/amp/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
     type: article
     provider:
       name: VICE
@@ -85,22 +69,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "Israeli facial recognition tech reduces chance of human bias"
-    excerpt: "Just as it is wrong to say machines are ‘biased’ it’s wrong to say machines are not biased, however, AI systems are less biased than people."
-    publishedDateTime: 2020-09-02T18:02:00Z
-    webUrl: "https://www.jpost.com/jpost-tech/israeli-facial-recognition-tech-reduces-chance-of-human-bias-640860"
-    ampWebUrl: "https://m.jpost.com/jpost-tech/israeli-facial-recognition-tech-reduces-chance-of-human-bias-640860/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/israeli-facial-recognition-tech-reduces-chance-of-human-bias-640860/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/463006"
-        width: 640
-        height: 428
-        isCached: true
   - title: "Black Detroit man wrongfully arrested after facial recognition search"
     excerpt: "A Black man from Detroit is suing the city after he was falsely arrested because of a facial recognition match, according to a new report."
     publishedDateTime: 2020-09-04T17:50:00Z
@@ -117,22 +85,6 @@ related:
         width: 2560
         height: 1280
         isCached: true
-  - title: "The TSA Is Testing Self Service Facial Recognition Technology in Pilot Program"
-    excerpt: "The Transportation Security Administration (TSA) has begun testing a self-service facial recognition system in Washington, D.C., to verify traveler IDs and flight information."
-    publishedDateTime: 2020-09-03T21:57:00Z
-    webUrl: "https://www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service"
-    ampWebUrl: "https://www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service?amp=true"
-    cdnAmpWebUrl: "https://www-travelandleisure-com.cdn.ampproject.org/c/s/www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service?amp=true"
-    type: article
-    provider:
-      name: Travel + Leisure
-      domain: travelandleisure.com
-    quality: 55
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F09%2F03%2Ftsa-security-checkpoint-FACETSA0920.jpg"
-        width: 1800
-        height: 938
-        isCached: true
   - title: "Israeli facial recognition co AnyVision raises $43m"
     excerpt: "AnyVision to focus on its commercial and homeland security facial recognition operations. AnyVision said that the new funding will be used \"to scale its Touchless Access Control and Remote Authentication products at a time when demand for innovative technologies that help companies meet the challenges of the new reality is soaring."
     publishedDateTime: 2020-09-04T13:11:00Z
@@ -146,22 +98,6 @@ related:
       - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2020/3F27E375703F21D215C414440800BA8A_800x392.20200904T120738.jpg"
         width: 800
         height: 392
-        isCached: true
-  - title: "Face masks and facial recognition will both be common in the future. How will they co-exist?"
-    excerpt: "With face masks now compulsory or recommended in various parts of the country, how are facial recognition systems functioning?"
-    publishedDateTime: 2020-09-06T20:13:00Z
-    webUrl: "https://theconversation.com/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417"
-    ampWebUrl: "https://theconversation.com/amp/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 48
-    images:
-      - url: "https://images.theconversation.com/files/353221/original/file-20200817-24-10qf4oa.png?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=267&fit=crop"
-        width: 320
-        height: 267
         isCached: true
   - title: "The twisted case of facial recognition"
     excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
@@ -188,20 +124,17 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
-  - title: "Rafael, AnyVision shareholders in talks on facial recognition JV"
-    excerpt: "Israeli artificial intelligence driven computer vision company AnyVision are in advanced talks about setting up a joint venture in the military-defense sector. The new company would be jointly owned 50-50 by AnyVision's shareholders and Rafael."
-    publishedDateTime: 2020-09-03T13:36:00Z
-    webUrl: "https://en.globes.co.il/en/article-rafael-in-talks-with-anyvision-on-facial-recognition-jv-1001341588"
+  - title: "Reporter Update: Open Hearing On Facial Recognition Technology"
+    excerpt: "Pittsburgh City Council will hold an open hearing today regarding the usage of facial recognition technology by police. One councilman says if they were to get the technology, it would do more harm than good."
+    publishedDateTime: 2020-09-02T11:39:00Z
+    webUrl: "https://pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: globes.co.il
-      domain: globes.co.il
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
     quality: 39
-    images:
-      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/32E3CB40D76BD6BD8CBFB16E23FF2264_800x392.20180506T111644.jpg"
-        width: 800
-        height: 392
-        isCached: true
   - title: "TSA is testing facial recognition at security checkpoints"
     excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
     publishedDateTime: 2020-09-04T14:34:00Z
@@ -229,96 +162,6 @@ related:
       - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Commission will ‘not exclude’ potential ban on facial recognition technology"
-    excerpt: "The European Commission has not ruled out a future ban on the use of facial recognition technology in Europe, as the EU executive mulls the findings of a recent public consultation on Artificial Intelligence."
-    publishedDateTime: 2020-09-03T10:01:00Z
-    webUrl: "https://www.euractiv.com/section/data-protection/news/commission-will-not-exclude-potential-ban-on-facial-recognition-technology/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 38
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2020/09/shutterstock_1101332606-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "City Councilman Hosting Discussion On Facial Recognition Technology And Policing"
-    excerpt: "Pittsburgh City Councilman Corey O'Conner says police using facial recognition technology would do more harm than good; KDKA's Lindsay Ward reports."
-    publishedDateTime: 2020-09-02T17:08:00Z
-    webUrl: "https://pittsburgh.cbslocal.com/video/4689627-city-councilman-hosting-discussion-on-facial-recognition-technology-and-policing/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4689627-city-councilman-hosting-discussion-on-facial-recognition-technology-and-policing/amp/"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4689627-city-councilman-hosting-discussion-on-facial-recognition-technology-and-policing/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 34
-  - title: "E&Y sees troubling ethics priority gap between execs and pols on facial recognition"
-    excerpt: "Biometric facial recognition, viewed through an ethics lens, looks markedly different to policy makers and business executives, according to a recent global survey. The perception gap could"
-    publishedDateTime: 2020-09-02T20:38:00Z
-    webUrl: "https://www.biometricupdate.com/202009/ey-sees-troubling-ethics-priority-gap-between-execs-and-pols-on-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
-  - title: "FIDO Alliance Director Draws Line Between Facial Recognition and Facial Authentication"
-    excerpt: "FIDO Alliance Executive Director Andrew Shikiar draws a distinction between facial recognition and facial authentication in a new article"
-    publishedDateTime: 2020-09-02T21:26:00Z
-    webUrl: "https://findbiometrics.com/fido-alliance-director-draws-line-between-facial-recognition-facial-authentication-090208/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 31
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/62157982_thumbnail3-e1436371820805.jpg"
-        width: 551
-        height: 585
-        isCached: true
-  - title: "Pittsburgh City Council told facial recognition bill should be stronger"
-    excerpt: "Restrictions on using facial recognition software and predictive police techniques proposed by Pittsburgh City Councilman Corey O’Connor don’t go far enough, a handful of computer science researchers told council Wednesday."
-    publishedDateTime: 2020-09-02T20:36:00Z
-    webUrl: "https://triblive.com/local/pittsburgh-city-council-told-facial-recognition-bill-should-be-stronger/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 19
-  - title: "COVID-19: Facial Recognition Market 2020-2024 | Increasing Instances of Identity Theft to Boost Market Growth | Technavio"
-    excerpt: "Technavio has been monitoring the facial recognition market and it is poised to grow by USD 3.35 billion during 2020-2024, progressing at a CAGR of almost 12% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
-    publishedDateTime: 2020-09-02T23:00:00Z
-    webUrl: "https://apnews.com/b80d1caef47a4be7b0929cf252a57ecb"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Technavio Research: COVID-19: Facial Recognition Market 2020-2024 | Increasing Instances of Identity Theft to Boost Market Growth | Technavio"
-    excerpt: "Technavio has been monitoring the facial recognition market and it is poised to grow by USD 3.35 billion during 2020-2024, progressing at a CAGR of almost 12% during the forecast period. The report of"
-    publishedDateTime: 2020-09-02T23:14:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50607174-technavio-research-covid-19-facial-recognition-market-2020-2024-increasing-instances-of-identity-theft-to-boost-market-growth-technavio-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 4
-    images:
-      - url: "https://mms.businesswire.com/media/20200902005152/en/817661/4/IRTNTR44231.jpg"
-        width: 480
-        height: 270
         isCached: true
 
 secured: "P7Q4KyuJ0XlKrQSryNdXvQJJebeLQ94TtmQWCtGo63mHlN1CTpFXIBmCQMKBNNtvIdjQsGOyVS1FOEXzhDOF9Vrqt6fqR2/n2mHH0CGawpvB8WZ8aJpd7zE7BDcb+2XDHuN62AP/5MMwM9hiMZzNt2p/yOkE8zeTbD9h/jXLV1MFTvIe3vKgAAAJd8hXeEh95ZdHgWIz5HeaKJOaT1ZrOoG0H0gllBdFMRmYMX14SV8demsNYuM3uvMYDBmpix2pcYjx23XFB8CcLfetyzrmfNj3KJZ8FGVQAVRV4w5a+ZiP//TujzZ4ZgC2k7ymqDmEkqC0bO0DZr9zl0zUKyqr8XanR3H15mjstOMW9XeZfWAOavevh/II5YSyiylsfAMJHK4expVxzI2nFSaxL897gh+bhN/G+uUD53c3J5JJgf4xbivJBKZkC7sAVSFmeZfcBlCTYpMpfZEEQhpKLBnyIHBsALZggQw3Pu38dMX6Z4NcqaxhdzL4T6huOGwFLxJUHPr8FisM1nP1KJn8OiMpMeadIVB/w8Wg9BzRyZnhh7Q=;S/1L4bIhLFmG0G4oaFb1Fw=="

@@ -38,6 +38,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Israeli facial recognition tech reduces chance of human bias"
+    excerpt: "Just as it is wrong to say machines are ‘biased’ it’s wrong to say machines are not biased, however, AI systems are less biased than people."
+    publishedDateTime: 2020-09-02T18:02:00Z
+    webUrl: "https://www.jpost.com/jpost-tech/israeli-facial-recognition-tech-reduces-chance-of-human-bias-640860"
+    ampWebUrl: "https://m.jpost.com/jpost-tech/israeli-facial-recognition-tech-reduces-chance-of-human-bias-640860/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/israeli-facial-recognition-tech-reduces-chance-of-human-bias-640860/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/463006"
+        width: 640
+        height: 428
+        isCached: true
   - title: "AnyVision's Fair Face Recognition Challenge Shows Ethnic Bias Can Be Eliminated"
     excerpt: "Since the wave of protests that swept the U.S after the death of George Floyd, the issue of biases in AI systems and specifically facial recognition h"
     publishedDateTime: 2020-09-02T20:02:00Z
@@ -67,6 +83,20 @@ related:
       - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Rafael, AnyVision shareholders in talks on facial recognition JV"
+    excerpt: "Israeli artificial intelligence driven computer vision company AnyVision are in advanced talks about setting up a joint venture in the military-defense sector. The new company would be jointly owned 50-50 by AnyVision's shareholders and Rafael."
+    publishedDateTime: 2020-09-03T13:36:00Z
+    webUrl: "https://en.globes.co.il/en/article-rafael-in-talks-with-anyvision-on-facial-recognition-jv-1001341588"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 39
+    images:
+      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/32E3CB40D76BD6BD8CBFB16E23FF2264_800x392.20180506T111644.jpg"
+        width: 800
+        height: 392
         isCached: true
   - title: "AnyVision looks to spin off defense operations, negotiates face biometrics JV with Rafael"
     excerpt: "Israeli defense contractor Rafael Advanced Defense Systems is in advanced negotiations to purchase ownership interest in AnyVision’s defense-oriented operations, Ctech by Calcalist writes. Rafael"

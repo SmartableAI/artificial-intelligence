@@ -24,22 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "How IBM and the USTA Are Bringing the 2020 U.S. Open Home"
-    excerpt: "The USTA and IBM teams are delivering a first-of-its-kind, AI-powered tennis experience to fans at the 2020 U.S. Open."
-    publishedDateTime: 2020-09-02T07:02:00Z
-    webUrl: "https://www.sporttechie.com/ibm-usta-2020-us-open-tennis"
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 24
-    images:
-      - url: "https://sporttechie-prod.s3.amazonaws.com/_ibm_2020_us_open_mi_1.png"
-        width: 1500
-        height: 1000
-        isCached: true
-
 secured: "jZQKxrBBxzbXF7Lrk8U0SJ7ta2iyQ+2+bJPb2osbu27xs+kok+3qb0IoGjP89FnS5dWUdyazZVB/lUP1z01/V5Ge2LLX7aFbFoTI3AyCHB1r50otvRf/wxQ07DmCh1hNKYPjzH5k7JD4JFZFSJs1LjIFCRgY1zgO8FMHBmRea7DsTJ964l9xQkMlBCdzw22UfGZjjA3dqeaXuGTNJ7Gbz0b9H3cvaz1zWFwSz7rja3ajbhFB4Z329b9bEuqRIOwhlAj3BPccGBQH78c6sRJ6vnb5DF80PBPcrEbik7m4r8WmqCCCs0qxuN52ohQhfy2urVLhDgZGUeW2dvCjW7A+OT0IWVGCKK7hgf607IrmAOT93+W0R1npWwaIukHaQZ2h+BCat9SMrEs3BZEIgRIPPZ07SwfY9UYkUMyAfcJ5HJacWHyIvilfU5KDgCSaqknf3OyWPfslClo2ixqtwhChoF2B/MHuDS0v1nyyOhUKw5lE7v2jnklIylGzk1bCJwOpBANFQNOed8jg9ti+z/jzkvmAyTFTSAfiUCOLoxFp2zA=;A5D6XUIp42G9roLlgwHvsg=="
 ---
 

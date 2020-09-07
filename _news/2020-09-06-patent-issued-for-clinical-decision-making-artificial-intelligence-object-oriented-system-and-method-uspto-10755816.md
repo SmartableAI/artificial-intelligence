@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-06T07:48:00Z
 originalUrl: "https://insurancenewsnet.com/oarticle/patent-issued-for-clinical-decision-making-artificial-intelligence-object-oriented-system-and-method-uspto-10755816"
 webUrl: "https://insurancenewsnet.com/oarticle/patent-issued-for-clinical-decision-making-artificial-intelligence-object-oriented-system-and-method-uspto-10755816"
 type: article
-quality: 13
-heat: 13
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg"

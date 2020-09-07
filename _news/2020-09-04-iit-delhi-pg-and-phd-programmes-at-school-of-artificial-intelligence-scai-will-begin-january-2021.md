@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IIT Delhi Establishes School of Artificial Intelligence, PhD Program To Begin From January 2021"
-    excerpt: "Delhi has established an independent 'School of Artificial Intelligence (ScAI)' on its campus. The School of Artificial Intelligence (ScAI) aims to cement IIT Delhi’s leadership position in India and improve its global standing."
-    publishedDateTime: 2020-09-02T08:47:00Z
-    webUrl: "https://www.ndtv.com/education/iit-delhi-establishes-school-of-artificial-intelligence-phd-program-begin-from-january-2021"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 27
-    images:
-      - url: "https://cache.careers360.mobi/media/presets/625X400/article_images/2020/9/2/iit_delhi.jpg.png"
-        width: 625
-        height: 400
-        isCached: true
 
 secured: "xEEIJXjmp0Z1K6Xp3IM2JtcRoYzaR0HGmGGn1G2J8+esLXyhR7h6PPOvvdHScfM+gmgoHVfFEqFKyZwlKyARCUlPv+KpGcjXYzvKwcZPyRyfbTmaJY9H1bq7L01Fa7jyMwu8FQvhlN8pzeHPHIB/fCTFYz4oaucfSMwqwE6tDu0Uo8eN5v4RpDfLI713Z9YRdx3OwLxXTMqhD3KKeTVrTHrpXOU/wj127utcSFxtxHampg4rNrLrOjVmA4P+8wxcoZeLJkd8R+qTIEXTPEqeZRrY+ZlyrjxO5aydBPst01LSfu8kpq+nWi1jc5TW2vXfbT32KYyiKdIyapNXDsgs2Ef+iJI/zKT2/QX1paHc0D0xaV4nyczReEokQDUNqPrmrfUQAejwJZOFGpADktunLi7GAJ9/oJZFgWY4GzO9li7/K/9KKcsvSNRt3cvZRJOP/T5emJv4PD7Z+mlb0PVhA3lhY/u5dOkM3nrqeNTMmjgYQt988hky5h6+J0ssCg2QCmd/bfhULB9APOGvEuSXyhXm9hiQP0dzRPmtFoLWEIY=;m3kHqjAHo7AfcWokWHLtGA=="
 ---

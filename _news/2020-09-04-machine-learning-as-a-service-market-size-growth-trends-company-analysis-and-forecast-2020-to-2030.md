@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-se
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-04"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://galusaustralis.com/wp-content/uploads/2020/09/Artificial-Intelligence-AI-in-Education.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Neural Network Software Market Analysis, Size, Regional Outlook, Competitive Strategies and Forecasts to 2027"
-    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
-    publishedDateTime: 2020-09-02T07:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-analysis-size-regional-outlook-competitive-strategies-and-forecasts-to-2027-2020-09-02?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Global Computer Vision in Healthcare Market: Industry Analysis and Forecast (2018-2026) – by Type, Application, End User, Region."
     excerpt: "Global Computer Vision in Healthcare Market was valued US$ 200 Mn in 2017 and is expected to reach US$ 3450.3 Mn by 2026, at CAGR of 42.76% during forecast period. Growth of computer vision in healthcare market is driven by the increasing demand for computer vision systems in healthcare industry,"

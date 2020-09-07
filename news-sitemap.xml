@@ -127,6 +127,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.vice.com/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing</loc>
+    <lastmod>2020-09-04T07:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-04</loc>
     <lastmod>2020-09-04T05:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -153,6 +159,12 @@
   <url>
     <loc>https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/</loc>
     <lastmod>2020-09-03T21:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service</loc>
+    <lastmod>2020-09-03T14:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -703,12 +715,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reseller.co.nz/article/682585/max-kelsen-serves-automated-rostering-domino-pizza/</loc>
-    <lastmod>2020-09-01T07:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.atlasai.co/about-atlasai.html</loc>
     <lastmod>2020-09-01T07:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -813,6 +819,12 @@
   <url>
     <loc>https://www.neowin.net/news/mediatek-helio-g95-chip-announced-for-gaming-smartphones</loc>
     <lastmod>2020-08-31T22:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.arnnet.com.au/article/682585/max-kelsen-serves-automated-rostering-domino-pizza/</loc>
+    <lastmod>2020-08-31T21:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1759,8 +1771,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely</loc>
-    <lastmod>2020-08-25T17:05:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25</loc>
+    <lastmod>2020-08-25T17:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

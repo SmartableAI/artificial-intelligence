@@ -57,20 +57,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Neural Network Software Market Analysis, Size, Regional Outlook, Competitive Strategies and Forecasts to 2027"
-    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
-    publishedDateTime: 2020-09-02T07:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-analysis-size-regional-outlook-competitive-strategies-and-forecasts-to-2027-2020-09-02?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Neural Network Market 2020-2023 | Global Trends, Covid19 Impact, Growth Factors, Analysis, Research Report and Outlook"
     excerpt: "Artificial Neural Network Market Synopsis According to Market Research Future Reports (MRFR), the global artificial neural network market is expected to"
     publishedDateTime: 2020-09-03T15:15:00Z
