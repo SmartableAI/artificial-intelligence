@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/google-cloud-nabs-government-deal-
 webUrl: "https://www.businessinsider.com/google-cloud-nabs-government-deal-for-cancer-research-2020-9"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Business Insider
@@ -28,21 +28,33 @@ images:
     isCached: true
 
 related:
-  - title: "Pentagon picks Google Cloud for AI-assisted cancer diagnoses"
-    excerpt: "The Pentagon's Defense Innovation Unit has chosen Google Cloud to develop artificial intelligence solutions for cancer screenings, the company announced on Wednesday."
-    publishedDateTime: 2020-09-02T16:30:00Z
-    webUrl: "https://www.upi.com/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/"
-    ampWebUrl: "https://www.upi.com/amp/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/09/02/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses/9851599061140/"
+  - title: "Walk-through cancer diagnoses and robotics muscles among groundbreaking projects backed by government"
+    excerpt: "Six pioneering health technology research projects aiming to transform NHS healthcare delivery benefiting from £32 million government investment projects include novel AI X-Ray scanner to diagnose cancer and osteoarthritis more effectively and robotic muscles to assist those who have suffered from a stroke ventures part of the government’s commitment to help advance healthcare outcomes through its ambitious Research and Development (R&D) Roadmap and to increase R&D public spending to £22 billion per year by 2024 to 2025 Debilitating diseases such as cancer and osteoarthritis could be identified and treated faster and more effectively,"
+    publishedDateTime: 2020-09-06T23:17:00Z
+    webUrl: "https://www.gov.uk/government/news/walk-through-cancer-diagnoses-and-robotics-muscles-among-groundbreaking-projects-backed-by-government"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 57
+      name: Department of Health
+      domain: www.gov.uk
+    quality: 39
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/9851599061140/2020/1/15990616567771/v1.5/Pentagon-picks-Google-Cloud-for-AI-assisted-cancer-diagnoses.jpg"
-        width: 507
-        height: 339
+      - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/default_news_organisation_image_data/file/199/s960_beis-sign-1vs.jpg"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "STAT Health Tech: Google’s government contract to use AI in cancer diagnosis & new data on virtual diabetes coaching"
+    excerpt: "In the latest edition of STAT Health Tech, we brief you on new data from diabetes coaching businesses Omada Health and Onduo."
+    publishedDateTime: 2020-09-03T14:42:00Z
+    webUrl: "https://www.statnews.com/2020/09/03/omada-onduo-diabetes-data/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 14
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2019/05/GettyImages-1132277693-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "IjF+CtvnB9U55KQqfjDDiSFNq7gobdLmRCalHo0EmziWCfVWoaP1tW+c/0CuIV4frYxadT67b+SEjRBSsEF0mktuvMpHMZM9bHJb3zxeQt4fOjzJbvVJFgwTcTo+iv0X0dndAd+K75VbxiQbqOvQkXSaNBlj0jtXa9aDsjK9NVNAfDGs2kjG0FAFt3dbgGpgPS5EvSbg4+48A+1762fNVBLQWjznjFTO4+VNp4oCWkQD3TlUxusKOul35ygdhioGvJLEjRT/ijFWDieni/v/vfdDARnqUkHytAE0gofl+tlb1T7tq/SvrliJjGdybCC6GzXlqHfxZkAM3LQ7LJk9cFN4r6MTF+2/+AWrb0t2eFJsZjSiG2NY+0jPX25EwN5scX1xPRp7yb190L6zicY6ZFYEGkahCfcZeRI0gAEi4lNDkVTRy/zcs7OhO0hzoM0KKQso3m/EuIu+5oQiy6h8i8QSUu8BcApw+6w3U0DTzhp3A6Px8VKlEwpxtOuTTaYkW4+tSRRRap8HNBT/uS5pdA==;zXHMopNQ1wCmb4Hy2bBTOg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_au/article/bv8k8a/faulty-facial-recognit
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -119,17 +119,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Reporter Update: City Councilman Looking To Restrict Facial Recognition Technology"
-    excerpt: "KDKA's Lindsay Ward has more on why Pittsburgh City Council is looking at police use of facial recognition technology."
-    publishedDateTime: 2020-09-02T15:50:00Z
-    webUrl: "https://pittsburgh.cbslocal.com/video/4689480-reporter-update-city-councilman-looking-to-restrict-facial-recognition-technology/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4689480-reporter-update-city-councilman-looking-to-restrict-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4689480-reporter-update-city-councilman-looking-to-restrict-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 33
 
 secured: "BL6vYpJmZKJQ+T2Iu9H+uAxzndkUNTDs3/a21MoRFoRYAsGbmzVmL7YtLjpYyOTulm/6apVYHcw06PHMW2z4vTVquZJCY/tgWlzwgCmX1YVkREcOUDGGLHvNdgo4OZi+aiV+hNk9N1PuSADbSI31kJsTre0MKWLJRaT0vWzZj8fVIFXpuMNbaMfI1Bs5vyMuoQJhcx6YeC52RvgZuhkU4HkDukyRlcTBPi+/B0c/esavuRNlIhu5uqXIvhD0Hn80N7kRvYQkxVDy7EmXJBxVucECMxMsy8FTKxoRiMxzzHaNa+bvyP1i6BLfj4xbsmoDKCgXeBwmIIwsEsYMtVGKk3LtO22kFM6ifE/mp/HKpRgHfcJuCU9HqcFcQrc/EbxDq4/QXfVdL+MP6s50q6S/nQU+Cwg+0dGBLpy9gVfsCa2jSaiVq+ps1E/jx1hFnxgJ6v/P74Uw/L5KjO5H9t8a4hlR/n3m3P+WqLbRRFd8HAoPWlMUA6JKrTZDRL0nosvUE7xPsP+SNV2mk8cZajgexg==;zUNHhX2xnMyF1jAgpEKIYQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-dete
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 742
     isCached: true
-
-related:
-  - title: "Microsoft Video Authenticator aims to detect deepfakes by using AI and Azure"
-    excerpt: "Microsoft has launched a new video authenticator tool to combat “deepfakes” to prevent misinformation on social media ahead of the upcoming U.S. election."
-    publishedDateTime: 2020-09-02T16:15:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-video-authenticator-aims-to-detect-deepfakes-by-using-ai-and-azure"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 66
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Ignite-2017-Microsoft-sign.jpg"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "x6yMERmn4sYmSS9k2slWkJU8stP1wHISNg1Q8R+kwb4r0SX8Ge2+n+bIYTNPC4IhUJxAHhHErc31gbzvzrTnL39PLmp5gcN6nyJswYUbVW9YaIugwKwv+ReUMJ9xRD0r2wwAJRkZUL5yr49+TZrfllTAQ18hjfaJm5Yp1yrjghcqGZmTKzrumSVM12vKrmkfUl8m9bVThkoGiQLCMtwL0D69XfK7JZRudb43p3QPKPwQ+xBKZuib5VREeT5wF7272SGO8wGjaWLoKP+ndUAG8vlpIUlFNJT9MypCQPNoLWn1KMaAhrGgMrFLJuOXhELhRfDY9pa8KT0kbhG6nYHq3AprD1wzpyWMu3vB+KDKen0ILvCMm8J5F+vOBCl6VQBkB2KaJyYO8tBHnrAbRp67aPW4OYeHOyQXM+IPu1UkbHdbkK2trIrlt/eBJPDn+Ce095UHq4j7JL6TQ6IxBdmAXw8Kv2OKMF+ovEOYXY0NCqSB/aaSI8LdrpzBmyPIRR4ckQsnTg/YltIPD+5D8GPhVu/rdAPUlZlP4kY3bMLat3U=;IPYXbVKtQDKD5Gwud1hYCQ=="
 ---

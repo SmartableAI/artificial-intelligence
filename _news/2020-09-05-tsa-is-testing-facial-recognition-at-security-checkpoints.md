@@ -115,17 +115,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Reporter Update: City Councilman Looking To Restrict Facial Recognition Technology"
-    excerpt: "KDKA's Lindsay Ward has more on why Pittsburgh City Council is looking at police use of facial recognition technology."
-    publishedDateTime: 2020-09-02T15:50:00Z
-    webUrl: "https://pittsburgh.cbslocal.com/video/4689480-reporter-update-city-councilman-looking-to-restrict-facial-recognition-technology/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4689480-reporter-update-city-councilman-looking-to-restrict-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4689480-reporter-update-city-councilman-looking-to-restrict-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 33
 
 secured: "yR0aBoUv2T3Nof1uyM8JQTQNcCjxu7E4hkZSpiM7Zp9WxoFw/+moHKPudQhjpXTB7JtRWFoN/lYkUsquFfZjC7DuMXdiueebXn8WQgtRtXR7kuestmF8n0JnBNZ9Iyi8Ecpj6weM/TXZHXCqL+1QkUsnKpgI3g91jPDVqSmjscZ4UB6ytDOkLm92jlVdM6wu4ScZk+Zb73pK4DkS7+CguwigIbRWJwYLFQIIOXYPL3ejIpmB1zWcVfumU2kLrY6KnL0HTDwjeSBFbLO7V6LvmtxqhLbAcl+vcl3u0DJBIPt4EpsArSnsgUu8HAj9kn4Y9xtgLUzV2Jd5MbGJI5W8rZ3EzQ1OFugrS6CIeYC3LcG6w+rq+P86quKDIMBfHdOQsZY5OEuiE9JZOoRwNB+RfN1EoXa9MhfYSnYPaCBe5rrxo8RJozDZzNUP2JTM4q7B2m1Q2PJMax9cD/XcVboiY4Dvv32VuTsXjIr6Hsb32DV7iKOzFtcRma/IL39rKkuGb3VkzS/9McHt43yzgoKhogPo6U1VIZNPZPzTcxfzsvI=;Aw+OXmn92g13JlqRl+tTHA=="
 ---

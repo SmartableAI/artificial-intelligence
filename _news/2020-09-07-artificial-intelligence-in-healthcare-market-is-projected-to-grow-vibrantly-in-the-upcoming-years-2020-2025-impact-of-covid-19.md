@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-07T07:28:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-is-projected-to-grow-vibrantly-in-the-upcoming-years-2020-2025-impact-of-covid-19-2020-09-07"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-is-projected-to-grow-vibrantly-in-the-upcoming-years-2020-2025-impact-of-covid-19-2020-09-07"
 type: article
-quality: 38
-heat: -1
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -28,90 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Computer Vision Market: Dynamics, Segments, Size, and Demand Analysis during 2021-2024 | Impact of COVID-19 Pandemic"
-    excerpt: "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,"
-    publishedDateTime: 2020-09-03T07:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03"
+  - title: "Worldwide Augmented Reality in Healthcare Industry to 2025 - Major Players and Strategy Analysis"
+    excerpt: "PRNewswire/ -- The \"Augmented Reality (AR) in Healthcare Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-09-02T18:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-augmented-reality-in-healthcare-industry-to-2025---major-players-and-strategy-analysis-301123220.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI over Edge Computing Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
-    excerpt: "MarketsandResearch.biz has introduced a new report titled Global AI over Edge Computing Market 2020 by Company, Type and Application, Forecast to 2025 that offers an all-encompassing analysis of recent and upcoming states of this industry,"
-    publishedDateTime: 2020-09-06T19:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2020-09-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Education Market Dynamics and Competitive Scenario through 2023 | Impact of COVID-19 Pandemic"
-    excerpt: "Artificial Intelligence in Education Market Research Report, Application (Content Delivery Systems), Technology"
-    publishedDateTime: 2020-09-03T07:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-dynamics-and-competitive-scenario-through-2023-impact-of-covid-19-pandemic-2020-09-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Enterprise Artificial Intelligence Market Drivers and Key Players Strategies Analyzed Till 2023 | Impact of COVID-19 Pandemic"
-    excerpt: "Enterprises hold a prominent market value considering their services and solution created for different functions and business uses. These enterprises largely deploy technologies such as machine learning,"
-    publishedDateTime: 2020-09-04T11:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-drivers-and-key-players-strategies-analyzed-till-2023-impact-of-covid-19-pandemic-2020-09-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Commerce Artificial Intelligence Market 2020 to 2025 Top Countries Data, Growth Pattern and Analyzing Impacts Of COVID-19"
-    excerpt: "An analysis report published by MarketsandResearch.biz entitled Global Commerce Artificial Intelligence Market"
-    publishedDateTime: 2020-09-06T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-commerce-artificial-intelligence-market-2020-to-2025-top-countries-data-growth-pattern-and-analyzing-impacts-of-covid-19-2020-09-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Covid-19 Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 - Dynamics, Trends, Revenue, Forecast to 2026"
-    excerpt: "Impact on Global Artificial Intelligence Education Technology Market Analysis 2020 ndash Dynamics Trends Revenue Forecast to 2026"
-    publishedDateTime: 2020-09-03T11:59:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266288531/covid-19-impact-on-global-artificial-intelligence-education-technology-market-analysis-2020---dynamics-trends-revenue-forecast-to-2026"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 4
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1599124582181.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 6
 
 secured: "EDAO0ENLpzQdOo94MMaFEce8qoC07BwMpfkdeSXnXY1JgU0R3+i26dThLvhXsSzi5V9YotQXOaI06rqzrwzq1KUEwor8uIOx0hsEAdQgu9Zhd++iMhttXETcvtZUvgSB3plwwkIWeAlaTceTJr5OSXoMacb07SWsBwcNCPDYD1IdaqNVJTAtZbuB+NW94T08J8lnWSA7AeLMHqXjR6Cx/kLm6D/cTyhrfJGJBDGxGhd0K/ZpsRothBkBA+LxVWcF5w7UNWir/GjyG5DQQgQ0iHuD8ReDf8lMFxuQG0viGOaHYbKxyXfO+kxMidD6mXuVbFCxixE+NGCmz5yQ/jkqKDNrr4UWZV1gyn565oXRZsI=;hW4itXuXROgcH67T4KSvKg=="
 ---

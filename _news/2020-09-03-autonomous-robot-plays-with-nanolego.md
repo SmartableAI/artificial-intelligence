@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-09-autonomous-robot-nanolego.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-autonomous-robot-nanolego.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1440
     height: 960
     isCached: true
+
+related:
+  - title: "Autonomous Robot Plays with NanoLEGO"
+    excerpt: "Molecules are the building blocks of everyday life. Many materials are composed of them, a little like a LEGO model consists of a multitude of different bricks. But while individual LEGO bricks ca"
+    publishedDateTime: 2020-09-07T05:01:00Z
+    webUrl: "https://www.chemeurope.com/en/news/1167819/autonomous-robot-plays-with-nanolego.html"
+    type: article
+    provider:
+      name: CHEMIE.DE Information Service GmbH
+      domain: chemeurope.com
+    quality: 39
+    images:
+      - url: "https://rs1.chemie.de/images//134938-76.jpg"
+        width: 832
+        height: 624
+        isCached: true
 
 secured: "W3WJvYO3o34imbIpwzBwOB+7a1c4gvcrG43/kzsxC0pzY6uXFCgmUP7mSCpnzZvWMuuNrd8tmIQ9eoXkDFocRQlBfvZRiZEdKcC4dOCuQLuzmVE7c/KS2TGCWr93YnZfSAe8SvlMP/nwrga/OfYB9/7KM8DhS2qc/rrxVl+/SHu/Q/zFtgQOIMWtXTSmyTgPWsHvdMYS9yNQ49DtBDp91dNU9ouaogcvkiMPvsV4KuQlgSQPYQM0wiOIGGIUdSMw5OTXoc3crEmDJqpPSD60jjxKsQecfKmeulK0PIePh/UpLnHSBuz5rDBYIpHBfDTma0h30byIiNAzp5183Ps0TrafUVdnj9eNHkrLjEGUWxlcjby7dfbk1LDWaO6bsKjvHMbNM7OPjK9n1CigVDS6bJM6ZX683THQf6JE6JHY82W88KltfGvATTxKCSSIC9CC1cBiWSStk0/oQwAgyJnpt0oQxFyYy+0SN1/s24xyycRLK3z+tD07Ee66tfIQn1ZJsIoYKe8h+OptzFqLnVVe+OF+wZTzxi4RHEUZIfemco4=;GmXcjREv3WwKfVsGKX5wAQ=="
 ---

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-to-2024---featuring-advanced-micro-devices-alphabet-apple-among-others-2020-09-07-51843431</loc>
+    <lastmod>2020-09-07T02:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnbc.com/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html</loc>
     <lastmod>2020-09-06T19:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -21,12 +27,6 @@
   <url>
     <loc>https://venturebeat.com/2020/09/06/how-ai-will-automate-cybersecurity-in-the-post-covid-world/</loc>
     <lastmod>2020-09-06T10:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.digitaltrends.com/features/dreamcatcher-ai-analyze-dreams/?itm_source=34&amp;itm_content=2x4&amp;itm_term=2356592</loc>
-    <lastmod>2020-09-06T06:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -283,6 +283,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businessinsider.com/google-cloud-nabs-government-deal-for-cancer-research-2020-9</loc>
+    <lastmod>2020-09-03T06:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video</loc>
     <lastmod>2020-09-03T06:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -369,12 +375,6 @@
   <url>
     <loc>https://venturebeat.com/2020/09/02/storelift-launches-autonomous-convenience-stores-using-ai-computer-vision/</loc>
     <lastmod>2020-09-02T23:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.news-medical.net/news/20200903/Machine-learning-approach-can-indicate-health-risks-in-future-pregnancies.aspx</loc>
-    <lastmod>2020-09-02T21:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -525,6 +525,12 @@
   <url>
     <loc>https://www.forbes.com/sites/johndunn/2020/09/02/researchers-show-how-ai-could-stop-cyberattacks-messing-with-hospital-ct-scanners/</loc>
     <lastmod>2020-09-02T08:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://m.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02</loc>
+    <lastmod>2020-09-02T07:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

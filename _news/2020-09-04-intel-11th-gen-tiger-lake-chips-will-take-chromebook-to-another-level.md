@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2020/09/intel-11th-gen-tiger-lake-c
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/09/intel-11th-gen-tiger-lake-chromebook.html/amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Intel Launches 11th Gen Core Tiger Lake: Up to 4.8 GHz at 50 W, 2x GPU with Xe, New Branding"
-    excerpt: "Recapping what we learned at Intel’s Architecture Day 2020, the standard form of Tiger Lake is a quad core processor with an updated graphics architecture built on Intel’s latest manufacturing process."
-    publishedDateTime: 2020-09-02T16:45:00Z
-    webUrl: "https://www.anandtech.com/show/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
-    type: article
-    provider:
-      name: AnandTech
-      domain: anandtech.com
-    quality: 28
-    images:
-      - url: "https://images.anandtech.com/doci/16063/474551355-Intel-Blueprint-Series-11th-Gen-Intel-Core-Processors-pdf-page-014_678x452.jpg"
-        width: 678
-        height: 381
-        isCached: true
 
 secured: "d091Ecnun67PpE0HlHSDytxqKvc7rYLt9R4FS+0tKo7waCPlkhwx0Y4r9sHxN/f5wKgvmR2KoGfFgT2DMNYXUFdEWF8psayMySxU8XRoJqP8TgCHu8kH6Y2yWEFFTgkaa+RU/1x6bdeJyqez555dFd3nOVGRO9SGz6Vj9xuJv5RgW7gf4jbL/T2CemvehbtiE5qZSedqeHWoONhugqf++vns8RuQyakFdipZgq13QMuEsQpMXkW+gB30ACjRWMtzC0rNuJttweUpX8qceVUEQkggMlox3L4KyEwjiVpHhqGdk4opM/kHrOVS60nxjXFdtF0DWqTSNVlA57qWf3NS3GIZDtLu7AiN3GxD1DH4jAz0osaEqrsyzb4dDpiU9W3/oOyUoxnFOJ161fjXnHMtUKldgYh3mqAZup31glyTzFXzAsFQRLbvuEVwjdQwHID7l0nZ4tqYs9ke1aqmxRO6v21SWRuL+vGgtyzN98oDE9a2WJbFXd5uyXtOcBk/H2dyU0jesZVQX0qpwbwTKpIcGV4OHI7gOY8AhkZepP9q48A=;SPiu2KNHQpQr2lnlsliJtQ=="
 ---

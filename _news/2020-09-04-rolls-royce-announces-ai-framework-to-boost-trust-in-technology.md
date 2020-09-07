@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/rolls-royce-announces-a
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/rolls-royce-announces-ai-framework-for-boosting-consumer-trust/article32522078.ece/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 615
     height: 384
     isCached: true
-
-related:
-  - title: "Rolls-Royce announces breakthroughs in Artificial Intelligence ethics and trustworthiness"
-    excerpt: "Royce has announced two breakthroughs in artificial intelligence ethics, which could help gain society’s trust of the technology and accelerate the next generation of"
-    publishedDateTime: 2020-09-02T16:36:00Z
-    webUrl: "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/"
-    ampWebUrl: "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 65
-    images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Rolls-Royce.jpg?fit=400%2C400&ssl=1"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "a/Z6Ci+oo/Ll8eHAmLaQcSIw27zrT5N+SA3rcfKvbhf3uhS5HfW6aysUYyN0a5JjSSqSlh7O1c3Wz4h8YUV3CNEnG+Wy6WvbfjSWoSTMYTYudUFgLXzIOZWaZPR0SPZV9isgBQul5qrwONig1RZgxW9DxnmxBXspplIiKLXCjolTT+p4Mqq2xTGCAaD0LrlQTuE90Ly8pC8/bZn9ZLyF5KmjNcDd+DtveBQk4AVKAqZjTZtMG2cPdZwXA80MCLARQWv1+vbSb1W/CSv/VV7RWPJBL401AcZETixSExLzL43ReQRFmJwtWB2Bo5k86feNHwfHZzqfVD9rmbJjYt+OpHkokujjTAnyRAS906cNu6KU+S+UYJjTXbXOd/DvYrrkYOKfLhgO/w5K5dRNLgNyAr+3XWLjH9LgkiIoj9zjM7R2/ip2/w89J096BUDBU9AMjzG9Dx1zv+OD+702eaR0etjm/Q9B9znYbpEOU0uOJ52x2okKX/GX+WipqM90ESYMvospGztQKQ6Joi533Fbd76pjMgtKuSjFxpai62sCqmg=;z0tpfmSilIu2hduw+L3KPw=="
 ---

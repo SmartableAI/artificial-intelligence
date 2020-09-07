@@ -8,8 +8,8 @@ webUrl: "https://www.telegraph.co.uk/technology/2020/09/07/ai-start-ups-join-fig
 ampWebUrl: "https://www.telegraph.co.uk/technology/2020/09/07/ai-start-ups-join-fight-change-militarys-ways/amp/"
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/09/07/ai-start-ups-join-fight-change-militarys-ways/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.telegraph.co.uk/content/dam/technology/2020/09/04/A-line-of-men-in-suits-and-houses_trans_NvBQzQNjv4BqDcJjTnL2sLzSRqeg3xNTWWy95JRgzgEvjQYudBf6FLg.jpg"

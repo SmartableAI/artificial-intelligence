@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Worldwide Augmented Reality in Healthcare Industry to 2025 - Major Players and Strategy Analysis"
-    excerpt: "PRNewswire/ -- The \"Augmented Reality (AR) in Healthcare Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-09-02T18:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-augmented-reality-in-healthcare-industry-to-2025---major-players-and-strategy-analysis-301123220.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 6
 
 secured: "Lll19uthaWs0ny9PCMo9CR5Awuc2y2TNIVQl+br9xDvdHyr88ei/jxqgyRORUu0dpw7dn47+I8poOdieWRb4k+eCliqLFja6KJlXDfQlgy1ElmRI7/O+U0m4U/I7xktl+wqCZdePdthqTu3G+oM1OxJ42Ogrug7IpO2Kka9UCiTxcoXPdPlzxiAdDWakM57Jaeg/TBbqmU65XOnR2YMKc9UVrNmEezZ3TpUmsopsmHaLPz3VODtbyMZK+F8UDo4V1Gfomq1gVju6XZQmURat4FAiG4R2XWAX+KCV2vZEqOdyFKuiPhIdCDTOtEPaVA9RqC8gWu2rArgCVJvZnjz43ydi0yEOl3CKCze5AGP910U=;nkrS/H96N7BPontWRBtZpw=="
 ---
