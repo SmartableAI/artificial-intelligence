@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-advancements-and-business-opportunities-2020-2025-2020-09-03"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Marketing Market: Industry Analysis and Opportunity Assessment 2021-2024 | Impact of COVID-19 Pandemic"
-    excerpt: "Artificial Intelligence in Marketing Market Research Report, by Application (Ad Optimization, Content Curation),"
-    publishedDateTime: 2020-09-03T07:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-industry-analysis-and-opportunity-assessment-2021-2024-impact-of-covid-19-pandemic-2020-09-03?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

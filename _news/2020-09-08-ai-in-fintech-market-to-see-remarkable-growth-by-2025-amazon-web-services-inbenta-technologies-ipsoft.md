@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
-    excerpt: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation Demand Growth Trend Opportunity and Forecast to 2026"
-    publishedDateTime: 2020-09-04T06:29:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266296215/global-artificial-intelligence-in-the-medical-imaging-market-2020-segmentation-demand-growth-trend-opportunity-and-forecast-to-2026"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 7
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1599177222136.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "uEBJLxvyf7NcmmaS/Pyhw2GOUj/OrJTNXBJIiRPVdh60IRtjXUC7gAvOsMz2dJ/81OOjsVPiDRSbbjynV1ahx1kIZVl4uhxtrxUZNHVwMaTa0j9SHSW3xU8FU071TNV1I9PhA4sTjI/Rr4ZzUVIiYritXeVYNFGPWgbNojjyNydz3WNIdNWArHXH1uqMYE/Wyg8frB5yK5+k9hMmHpSEe43R8C5FCsiRArDoFzIf9gk+splbTFm4AW3GFTc1y2BX45v1gmoF6e1Q3GoJJybzF43Yh2s8Ph9Un3Wz+FPdzAEWgzlZdjSP/YdN3P+HVsaklanxQO+t3FW3Zo8cBW4gTWeOxEElW1F8i42IvUrdmGE=;Re4M0nlGyEcscKUODHgoPw=="
 ---

@@ -47,6 +47,15 @@ related:
         width: 1024
         height: 546
         isCached: true
+  - title: "Yandex increases its stake to 62% in ride-hailing and foodtech JV with Uber and to 73% in restructured self-driving business"
+    excerpt: "Yandex N.V. (NASDAQ:YNDX) has signed an agreement with Uber to contribute the Yandex.Drive car-sharing business from Yandex N.V."
+    publishedDateTime: 2020-09-04T09:51:00Z
+    webUrl: "https://seekingalpha.com/news/3611677-yandex-increases-stake-to-62-in-ride-hailing-and-foodtech-jv-uber-and-to-73-in-restructured"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
 
 secured: "yeMuhfEWlbRl1Zu8sWjlo0qMsgclZyaQv03dew8jgT3o3yo/t5kFGl94IgSABy1od2Amo5/j7VlTChgi3THCsFyiF7d+MJjPIAOLW/JTTQZwDHS0+20PWu1Z1YkJvH8RR4ILRiUifse5d2IVCGIpbT3qdtn9gmH13/1u1r0ipGsBvLfgzgRrJhD4fr4ILN8067sWwuLp5EtnaDDEUO9QGDtr9rV/5zfa+EOJJQ3iLUpGpKxst56XvcLJLoxx5O2kmIeAoI5508aoYgTnypn7w7EqWR0Mbdu+ZFNv2lY2QvCfqIjySHv+Ef9PYTOF3K7dDe5DGMdxl/RGBJUL2xj6WQUGFZ9ijhzvR0kuMM8/6NMla2B+gcXqpOF+BAeLg6xXgFdY+5uZYQVZxmsWuOrFtJoaZ0jSogA36DPNZS8TthfLTaGSJandsQevZqIZcH6Mwn+syHWt5NoGMQ5gGPFkIdw0HGDoFiACJvoDtrkODFHzxn30MpnAtkZ4AdyATGXFiai/zIMOrCmBS5O7gYYrzD+pfP2c8tA4hqXJs6e8aUo=;zSb6tQ8bl7I9fu5whKap+w=="
 ---

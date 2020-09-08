@@ -27,24 +27,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "SoftBank Vision Fund 2 leads a $100 million funding in this Indian founder’s global healthtech startup"
-    excerpt: "Japanese investment firm SoftBank ’s Vision Fund 2 has led a $100 million fund in Biofourmis – a digital therapeutics startup. The round also saw participation from the startup’s existing investors Openspace Ventures,"
-    publishedDateTime: 2020-09-03T07:47:00Z
-    webUrl: "https://www.businessinsider.in/business/startups/news/softbank-vision-fund-2-leads-a-100-million-funding-in-this-indian-founders-global-healthtech-startup/articleshow/77907105.cms"
-    ampWebUrl: "https://www.businessinsider.in/business/startups/news/softbank-vision-fund-2-leads-a-100-million-funding-in-this-indian-founders-global-healthtech-startup/amp_articleshow/77907105.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/startups/news/softbank-vision-fund-2-leads-a-100-million-funding-in-this-indian-founders-global-healthtech-startup/amp_articleshow/77907105.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 26
-    images:
-      - url: "https://www.businessinsider.in/thumb/msid-77907124,height-275,width-412,imgsize-391765/business/startups/news/softbank-vision-fund-2-leads-a-100-million-funding-in-this-indian-founders-global-healthtech-startup/kuldeep-singh-rajput-ceo-biofourmis.jpg"
-        width: 412
-        height: 275
-        isCached: true
-
 secured: "mvz29+0J58gm6rACFChC3Yo7A3AABz61GEAo6NbECYIqc86Nv0y7vB7MCoesj06m17/W35oeZBhFsGuyH052dcrusKGp2VtiqwFxie6CmuouzeObhAOm13PDGG3u9O3dGeSipLmVtTIICQy7DLzzW3ATTRkc73e1ShN0qJlq1amDmhHFU9JWohsP+MmcwNWvcmSX2B3NusEKmGc3dKqHXE7cBLfyDTG/jyPDCsEpO0ytT7y/4XiBj2j9W6M/W+xu1Z7cksE15MF0MNWCtFOhKeUZsjaE8+IOg/GqGusGSxIe0LrQ6WqOC9wfo45zbT1UIdL9r++lmXnv/bBNSIrLxgisLeybUPMx4zATyOR5QHX5NomAuyjNF28GiSn11AcqwEKxQkITA1g6xE39LPuGwrGa+QJHCvw4ge9AFH8Ak8BCgE483TiFuDvKko8nrry8tAnBx8A2Az9niF+lnjWRdaImUdcSMbE9b+9CAKfwq+NTylHmoU7TjAhAZJZNjG7qWq04BzyStUsEGIPVLBOrIQ==;BNtopZfYfCHZ01rRqIVoEA=="
 ---
 

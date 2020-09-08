@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1024
         height: 546
         isCached: true
+  - title: "Yandex increases its stake to 62% in ride-hailing and foodtech JV with Uber and to 73% in restructured self-driving business"
+    excerpt: "Yandex N.V. (NASDAQ:YNDX) has signed an agreement with Uber to contribute the Yandex.Drive car-sharing business from Yandex N.V."
+    publishedDateTime: 2020-09-04T09:51:00Z
+    webUrl: "https://seekingalpha.com/news/3611677-yandex-increases-stake-to-62-in-ride-hailing-and-foodtech-jv-uber-and-to-73-in-restructured"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
 
 secured: "IhPoAbspr3sziE3uMBKVMPJRhcVNFrvoLTjr3ZzASuth4T+iCsJXfQqIy/Zco3HW8s3MQZroElUpP51D01CukwdiCKjYF6E7Ezct5Lekm9nrV12mBwoKB1RPAjhf185gAjdCKB5pcgUxcq87f9Q8TVWIB5xkKBTfC0/TEi2QwwR353b9uyJvxUj/hEYyvxbsaIGAB8jLfcDuBvZDzjlNgZSgR+C0WDbtVrd6AYkBREa+wrrfV1f2PKZaqzLV0Bbr4594eygFUx0MsoKKqUsj737AbmVSlL9MzGnSuuHwSpj3SFwdLlL39Gq+i5S98PxqNlc7NGtp20Ja1sCTR+q4PIxHCpcjwjJSL7mbTKP/C+XmFKaSRVAWh+/xH5i6GtbWW59UHx2u/e0YZRSh2icdYECjhDUvxUfrPLyppW646FK8sSnkk/EoaPimvKfVHb9bNGNJOn+AWyvevwnfH1cn5jBqG6hWgWS+zAfBl3KmSP4nxjmZV2Dtm8ZhDPkRXcak4en6CC1V10utH4LhcIMQlQ6WD7HqNI7rPuxDiLgmKiQ=;nlRukJCZ2rcycJBwvWm4zw=="
 ---

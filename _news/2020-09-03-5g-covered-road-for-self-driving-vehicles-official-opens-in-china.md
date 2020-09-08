@@ -70,21 +70,21 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "New Federal Govt Tool Helps Track Self-Driving Vehicle Testing Efforts Across US"
-    excerpt: "The National Highway Traffic Safety Administration (NHTSA) on Wednesday released an online tool to let improve the availability of public information surround the testing of"
-    publishedDateTime: 2020-09-03T08:14:00Z
-    webUrl: "https://www.benzinga.com/government/20/09/17363138/new-federal-govt-tool-helps-track-self-driving-vehicle-testing-efforts-across-us"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17363138"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17363138"
+  - title: "Amazon parcels could be delivered by self-driving mini trucks in the UK"
+    excerpt: "Britons could soon see their Amazon parcels delivered by a small self-driven vehicle.  The online giant is hiring a team of engineers to develop its Amazon Scout vehicles for use in the UK after online shopping took off during lockdown."
+    publishedDateTime: 2020-09-08T00:15:00Z
+    webUrl: "https://news.sky.com/story/amazon-parcels-could-be-delivered-by-self-driving-mini-trucks-in-the-uk-12066285"
+    ampWebUrl: "https://news.sky.com/story/amp/amazon-parcels-could-be-delivered-by-self-driving-mini-trucks-in-the-uk-12066285"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/amazon-parcels-could-be-delivered-by-self-driving-mini-trucks-in-the-uk-12066285"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
+      name: Sky
+      domain: sky.com
+    quality: 44
     images:
-      - url: "https://www.benzinga.com/files/images/story/2012/david-von-diemar-zbwn5dvo0hg-unsplash_0.jpg"
-        width: 5456
-        height: 3284
+      - url: "https://e3.365dm.com/20/09/1600x900/skynews-amazon-scout_5090073.jpg?20200907234153"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Daimler Tests Self-Driving Trucks in Southwest"
     excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
