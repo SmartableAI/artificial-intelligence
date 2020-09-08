@@ -2,19 +2,23 @@
 category: news
 title: "Can artificial intelligence create a decent dinner?"
 excerpt: "However, I’m trying out Plant Jammer, an app that promises to rustle up a recipe based on whatever food you have lying around, using artificial intelligence. It searches three million recipes to find often-paired items."
-publishedDateTime: 2020-09-08T00:07:00Z
-originalUrl: "https://www.bbc.co.uk/news/business-53794472"
-webUrl: "https://www.bbc.co.uk/news/business-53794472"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/business-53794472"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-53794472"
+publishedDateTime: 2020-09-07T23:55:00Z
+originalUrl: "https://www.bbc.com/news/business-53794472"
+webUrl: "https://www.bbc.com/news/business-53794472"
+ampWebUrl: "https://www.bbc.com/news/amp/business-53794472"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53794472"
 type: article
-quality: 57
-heat: 67
-published: false
+quality: 87
+heat: 97
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -41,6 +45,6 @@ related:
         height: 630
         isCached: true
 
-secured: "EFQbQs8akz4O9z88EtGUH7olb4BKzxGt/s/ZPo+KVvXoBNzer+EO5MCoST7edDquFvLDENvCaid27VHHBi16lS+kfjZT7MpooV0mDunNZLdbwZiwcv0Cbt4XRdnkB0AZ+1j3fS6myQD5Lv93rApkmYAl8C+CTtYUjAO/OzZd1Meh/qWUGObB0s4hHMQEOMN+xTYJCBMp0gZgeYKTrr9mQZh+SKKFbXv5SZ3gNuPNVAs3uQsV/gHRSKCA52zZu3FUY3y/s/juLTrINbeNLHgWAPGq8usrix/EfyjWR6TsAItXQQVXPIvYt7wPHb4UpCM8qkZfk9SgHSUJKyws3m+fcUSmcomL/OluVStxTFAT54A=;7NVQnO4c/4ibZNZkNQ46pA=="
+secured: "KMrwJ6wznPHIWJvGQMrqAtu/OqApCygQzI7ml9leeorI285V8gzFXSxFhMAiWz6oHU+QD00TbvckXkGB5qUaD9w4aDpbhThpOa7Otvo4wDzF1+RMg0d0/wpe2hI+Sm7KRPAWs2rH16dX0af24Tq1t7G9S01gz/Cht1202aRVfg/QefFyVBTcuPvkwHPwBJoopGIkpe+3DdJZtabEeZavqewpH741F6cbswqzA43SrfkVuboq8gqnFSnsZlTvzzpPr7GeJMEqaAvkwuiwlxrXGwMSgHdwaeSPRtog1JFqitSkq5F9TqE1ODhXkShDwEjodJLl4May6f88Gx9AmAxOEv9H0VL1wf99Ee2XiURCcl8=;ikk5r0nFU0drAWam4oYpLw=="
 ---
 

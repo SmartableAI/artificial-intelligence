@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-fac
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03?amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       - url: "https://www.geektime.com/content/images/2020/09/ANYVISION-1599206759.jpg"
         width: 760
         height: 514
-        isCached: true
-  - title: "AnyVision looks to spin off defense operations, negotiates face biometrics JV with Rafael"
-    excerpt: "Israeli defense contractor Rafael Advanced Defense Systems is in advanced negotiations to purchase ownership interest in AnyVision’s defense-oriented operations, Ctech by Calcalist writes. Rafael"
-    publishedDateTime: 2020-09-03T16:48:00Z
-    webUrl: "https://www.biometricupdate.com/202009/anyvision-looks-to-spin-off-defense-operations-negotiates-face-biometrics-jv-with-rafael"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 15
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
-        width: 1920
-        height: 1005
         isCached: true
 
 secured: "+blaZT3BL98R3ZiML98XTFeD+wuh2orfqAdilSmMJ+RVQtmq6CsMyX3XgOcEX5AmQ98ZqZtyK35hnM96qAhk4I7p41O2mjQpRD83T/v4HWjTvggMl3IowlefomF8yUnJtFNKAUK1QxStpTfe13ML+0F/N8oP7Nmq/f+rqDZxC1cDTaoEZmfqOH/7/xIsac9Q6cqkGqOFTH0CnuewH3uGODcgGRwOk/rj/2c4Lxqg7AWAe5/u90reh/8Zs745JlnEn7knFmPUrLlKIsBlm4K1BQlaPCFLWMtLDOGTgPiklbrSZVv8AKeipTk3poCVfY61crhcajFlDJRVdZY8AIH/+akAvOJQ9q24TDfKM0sT+RQ=;0rENTfUyC5bT4eDNPvzd5g=="

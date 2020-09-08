@@ -9,8 +9,8 @@ ampWebUrl: "https://www.11alive.com/amp/article/life/pets/facial-recognition-tec
 cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: 11Alive
@@ -42,20 +42,6 @@ related:
       - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F09%2F03%2Ftsa-security-checkpoint-FACETSA0920.jpg"
         width: 1800
         height: 938
-        isCached: true
-  - title: "Facial recognition technologies see significant advancements"
-    excerpt: "Despite some of the negative connotations associated with the technology, facial recognition has merit across many security applications"
-    publishedDateTime: 2020-09-03T16:21:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21152899/serious-advancements-in-facial-recognition-technologies"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/09/GettyImages_913641954.5f4fdc9f8b8b1.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "qp1KVpykERoTPhCZmLcmA38wUsqttCGJjGbk7jmcgoTyNk0x5Y49+LMkbXM09oea9pkeB6oywThKg3W0zYDg6Pe8oqFp3J0CcYu1kI1LboeVkPr6k+YzXKcCWh3Ay7kFio9ZsA32nM5TC2goCBoDSb916hVAnvkzFg5iRkd2fRJVfoYfnDhrRMz9LvyTM76e1bD0FLp+eV1zuLxOSivVL3DCDtAnHf8AGylEShRIhy39wauIxTz+f03ec6I05KyAHQxLCqqK3k/IbQOQC0i8vECQESFSYUp08aOZlXqm/pjNj+BZhWRqlM7x24rNp2965zN4RK6trtbFMNEJF4JWX32j1GSezJib/x9GFWJa85VwmJ2OXmDrQgGng6v40WOoD2Yt8d44JJ872HHjLx17+2XwchmTw8q+xklvRSAwuoG0TuyMd3Tyu9PgmiTMGkZz8zl+LbyzXxJXDNqMBjlcZTbJy4eEDAAxXxDNBqcsEvjjJeiEA18wOE79ZGTmRS/uJsHDAEwaP5OoyYYqaEyrEyq2TFIW1Shouv2SdsCbG1A=;E6sP2NG627PflkwhyTciEA=="

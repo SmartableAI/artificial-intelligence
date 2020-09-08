@@ -8,8 +8,8 @@ webUrl: "https://www.zawya.com/mena/en/press-releases/story/FSS_launches_next_ge
 ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200908072430/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200908072430/"
 type: article
-quality: 24
-heat: 24
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 related:
   - title: "FSS Launches Next Gen Recon with Machine Learning and Cloud Support"

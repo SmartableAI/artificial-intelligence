@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-maps-and-deepmind-en
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/"
 type: article
 quality: 100
-heat: 180
+heat: 160
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's how Google Maps uses AI to predict traffic and calculate routes"
-    excerpt: "On Thursday, Google shared how it uses artificial intelligence for its Maps app to predict what traffic will look like throughout the day and the best routes it"
-    publishedDateTime: 2020-09-03T15:19:00Z
-    webUrl: "https://www.cnet.com/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/eCYPf_S81xRyqLpavRdSIhgcWnQ=/756x567/2019/12/04/d0f3c47a-94a4-4d44-a2c0-d122b83a02ff/google-maps-logo-phone.jpg"
-        width: 756
-        height: 567
-        isCached: true
   - title: "Google Maps uses DeepMind AI to predict your arrival time"
     excerpt: "Google Maps is using AI machine learning models to predict whether the traffic along your route is heavy or light, an estimated travel time, and an estimated time of arrival (ETA)."
     publishedDateTime: 2020-09-04T06:08:00Z
@@ -110,22 +94,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/52755/content/google-maps-hero-2.jpg"
         width: 708
         height: 398
-        isCached: true
-  - title: "Google Maps ETAs prioritizing recent traffic patterns as DeepMind AI improves predictions"
-    excerpt: "Many habits have changed in response to COVID-19 lockdowns and that is reflected in large services. Google Maps has \"significantly\" improved ETAs"
-    publishedDateTime: 2020-09-03T15:22:00Z
-    webUrl: "https://9to5google.com/2020/09/03/google-maps-etas-prioritizing-recent-traffic-patterns-as-deepmind-ai-improves-predictions/"
-    ampWebUrl: "https://9to5google.com/2020/09/03/google-maps-etas-prioritizing-recent-traffic-patterns-as-deepmind-ai-improves-predictions/amp/"
-    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/09/03/google-maps-etas-prioritizing-recent-traffic-patterns-as-deepmind-ai-improves-predictions/amp/"
-    type: article
-    provider:
-      name: 9to5Google
-      domain: 9to5google.com
-    quality: 65
-    images:
-      - url: "https://9to5google.com/wp-content/uploads/sites/4/2020/03/google_maps_3.jpg?quality=82&strip=all"
-        width: 3000
-        height: 1500
         isCached: true
   - title: "Alphabet’s DeepMind details new AI prediction tech in Google Maps"
     excerpt: "Maps has more than a billion users worldwide who rely on the service to plan their travel routes. One of the service’s most central features is its ability to generate time of arrival estimates, helping drivers view key information such as how soon they need to depart to catch a train."

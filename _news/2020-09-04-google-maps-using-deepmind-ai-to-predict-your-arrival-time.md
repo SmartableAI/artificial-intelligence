@@ -43,22 +43,6 @@ related:
         width: 1055
         height: 554
         isCached: true
-  - title: "Here's how Google Maps uses AI to predict traffic and calculate routes"
-    excerpt: "On Thursday, Google shared how it uses artificial intelligence for its Maps app to predict what traffic will look like throughout the day and the best routes it"
-    publishedDateTime: 2020-09-03T15:19:00Z
-    webUrl: "https://www.cnet.com/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/eCYPf_S81xRyqLpavRdSIhgcWnQ=/756x567/2019/12/04/d0f3c47a-94a4-4d44-a2c0-d122b83a02ff/google-maps-logo-phone.jpg"
-        width: 756
-        height: 567
-        isCached: true
   - title: "Google Maps uses DeepMind AI to predict your arrival time"
     excerpt: "Google Maps is using AI machine learning models to predict whether the traffic along your route is heavy or light, an estimated travel time, and an estimated time of arrival (ETA)."
     publishedDateTime: 2020-09-04T06:08:00Z
@@ -107,22 +91,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Google Maps ETAs prioritizing recent traffic patterns as DeepMind AI improves predictions"
-    excerpt: "Many habits have changed in response to COVID-19 lockdowns and that is reflected in large services. Google Maps has \"significantly\" improved ETAs"
-    publishedDateTime: 2020-09-03T15:22:00Z
-    webUrl: "https://9to5google.com/2020/09/03/google-maps-etas-prioritizing-recent-traffic-patterns-as-deepmind-ai-improves-predictions/"
-    ampWebUrl: "https://9to5google.com/2020/09/03/google-maps-etas-prioritizing-recent-traffic-patterns-as-deepmind-ai-improves-predictions/amp/"
-    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/09/03/google-maps-etas-prioritizing-recent-traffic-patterns-as-deepmind-ai-improves-predictions/amp/"
-    type: article
-    provider:
-      name: 9to5Google
-      domain: 9to5google.com
-    quality: 65
-    images:
-      - url: "https://9to5google.com/wp-content/uploads/sites/4/2020/03/google_maps_3.jpg?quality=82&strip=all"
-        width: 3000
-        height: 1500
-        isCached: true
   - title: "Alphabet’s DeepMind details new AI prediction tech in Google Maps"
     excerpt: "Maps has more than a billion users worldwide who rely on the service to plan their travel routes. One of the service’s most central features is its ability to generate time of arrival estimates, helping drivers view key information such as how soon they need to depart to catch a train."
     publishedDateTime: 2020-09-03T19:05:00Z
@@ -152,6 +120,6 @@ related:
         height: 601
         isCached: true
 
-secured: "TIvJq5Mc16I/oFfedB2BGMY72w0RoKl1Wi6p0UXJ8nOTKDyUnpz1idQEhbA2vFvNvd9WB2c3L1y3T8LufC1TeMH1wP2dLWbYUTUPhjkeDc3nV1z/XIwiIfSTrrxy9IFZ7asmrS4Wj7OzoZW7kv0eyWi5OU/NCPAxEjplKYZk1SJ2c1lGYH8s7G525QCyrbiwIzZQrLO4DbfEY1sLQLF9qLWOVo6zoVTFEhElWYQjPE1L3Rl4DFw9ThpDEJtJsnHVbdeHwq4CJ3eyWVPNPHwJ0UOu/8u6vbWahSgb20Jkj13D8g7q2e8VmI5/JJSSw6V27y1rmec08CCre0R9R9G1zY89M1mztR+kYWQXT07dzLw=;Ma/9XCvowWm1Cnrh1ckkPw=="
+secured: "z1HOkeGA+Fuv3PYA5awdSuwkha2RvWGn9vOonuzTFbuxoJFTrBDb8tATeaxmExpMOU6U6hRXgvaxEP+lJ4K8p8QYDT3armY01hSSSc8uY1e3ZZcnGkuYcEk2DbjZScvMuV7l3I9ErlX5rPdqFemg+xj/pWY+uRGed9UdrFweFg1+6B1oaD8C7A91QTYzF7v5q0x9AeqVqYQZKK4xoqUiGh8lIZLKAPSQgrZsIJGHWq32umA7znxCkukQTFhSgKYWtgm8L3BIaSr9bqzXeFK7kRXIegoTeHG4xYb906w+1Y/Nin0ayuLx2GxBwncejY2H8v5Je3ZoVO3mLC0ybLYX2eF8UDSNWKOwfelWS9GHl5YzqvWt/Kj2yIF71GZdeDrjEngXmLe0x0CVDZ7176jFMy7nNAxBS01TDq4zaSTLvXJ1xPG1mgInAZEIHEqPJB0nJCx6SHRzFdECvwZehhWzNWblr/9GKPei2QD/ZXSWXMOKXBdzomkA+473TF5EMexCoPQthVJjEYDANJTq416XQxprdKY18EqHzPy0lAI6lic=;4oMOC3kZvTov4EkORrlCeA=="
 ---
 

@@ -43,20 +43,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Facial recognition technologies see significant advancements"
-    excerpt: "Despite some of the negative connotations associated with the technology, facial recognition has merit across many security applications"
-    publishedDateTime: 2020-09-03T16:21:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21152899/serious-advancements-in-facial-recognition-technologies"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/09/GettyImages_913641954.5f4fdc9f8b8b1.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "HPWZs0fdFkOEbIhqoV9KqSTOXjKoxBeHCM2Hfqu9YpAGR7BdvQdwUOSNSuLDRim7/a5gJil1pNPiMS2KsyxRA1eRKGJyNc4wn7uSWZX85ja+T/zLB4QQUgRLfzWZNMptmK79g8rNGnPWa5IXC8cHpHfevvYyrzceULUMdzZ2rTuFNkXA7mTAfbQr17wq9O8/H8a/etkZ+NwqKAVFTdIcUcU8rx0EDbpzMyUgVBrmq0AroAgvWbchlelnK+3m0+DeGNS+1gneY30eIVHU/Gl/Obmx7xPnP35+Ddy6euoVcJqamxxThrqSbxWUF3n9b0idqt1/4/sqph2U3SPtBdevUmFBvyAhw418VJFV+jJLMDhezqmOmQFJFcG1wf1sJUMbIyZzaWsFg429ld05wdShoHA4G2onb6QWCCYH0ny8nXe1FQa4suXwYX0D37teNUOfgU6neGFBegK7wuVCxRrsUceIXTBS9zg10shsWBMYyIb6zk35dqUXzVyewSEPtKjdi1UZ1U2IG8w5xc8hszRguLZab6HxM52cpdJH4ofJWT8=;PVN/lZ4iQT74llKsGpWpGg=="
 ---

@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI over Edge Computing Market 2020 Competitive Dynamics, Growth Analysis, Segmentation and Worldwide Players Strategies up to 2025"
+    excerpt: "An analysis report published by MarketsandResearch.biz entitled Global AI over Edge Computing Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is an in-depth study and detailed information regarding the market size,"
+    publishedDateTime: 2020-09-06T18:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-competitive-dynamics-growth-analysis-segmentation-and-worldwide-players-strategies-up-to-2025-2020-09-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Outlook on the AI Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
     excerpt: "The \"Global Artificial Intelligence (AI) Chips Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence (AI) chips market is poised to grow by $ 54.03 billion during 2020-2024 progressing at a CAGR of 42% during the forecast period."
     publishedDateTime: 2020-09-04T12:54:00Z
