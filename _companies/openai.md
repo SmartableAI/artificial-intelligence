@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "OpenAI"
   url: "https://twitter.com/OpenAI"
-  followers: 472185
+  followers: 472217
 
 size: 51-200 employees
 yearFounded: 2015
