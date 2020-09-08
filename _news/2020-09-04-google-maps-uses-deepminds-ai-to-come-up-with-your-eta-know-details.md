@@ -59,22 +59,6 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Google Maps using DeepMind AI to predict your arrival time"
-    excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
-    publishedDateTime: 2020-09-04T05:21:00Z
-    webUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
-    ampWebUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 74
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/9/2020_9$largeimg_1012661407.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "This is how Google Maps uses DeepMind AI to predict your arrival time; read here"
     excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
     publishedDateTime: 2020-09-04T05:52:00Z
@@ -91,20 +75,17 @@ related:
         width: 467
         height: 313
         isCached: true
-  - title: "Google Maps and DeepMind take advantage of AI capabilities to improve the number of paths"
-    excerpt: "Machine learning helped improve expected real-time arrival time by up to 50%. It took nearly 13 years to provide traffic"
-    publishedDateTime: 2020-09-04T04:37:00Z
-    webUrl: "https://www.news24xx.com/2020/09/04/google-maps-and-deepmind-take-advantage-of-ai-capabilities-to-improve-the-number-of-paths/"
+  - title: "Google Maps using DeepMind AI to predict your arrival time"
+    excerpt: "Google has partnered with DeepMind, an Alphabet AI research lab, to improve the accuracy of its traffic prediction capabilities. \"Our ETA predictions already have a very high accuracy bar – in ..."
+    publishedDateTime: 2020-09-04T09:58:00Z
+    webUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+    ampWebUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
     type: article
     provider:
-      name: News24XX.com
-      domain: news24xx.com
-    quality: 45
-    images:
-      - url: "https://www.news24xx.com/wp-content/uploads/2020/09/GettyImages-1208999497-e1599071823905.jpg"
-        width: 1200
-        height: 601
-        isCached: true
+      name: Sify.com
+      domain: sify.com
+    quality: 54
 
 secured: "e7Vf5bCk+M/4LIBSx8e5IT8CEg7wSz0+S+IIiU6u2Ktt3J3ZCH7+HxY8tb1v7DDKPF5DDp3QqWDGwNr1M5aQvtgLiso5y/JQ/oSvDpwthsDuhwXhwRVKowbneN+el56cIYbpYOhkNHGKNWvFzH5/GD30DOheXbME6r8h+v6fxVrWvTK0K7kt9gIqOeQ30gBiEp/otJAns18+hrbvdaSDCbU0qflA3Cgrr3M997tDSCJdzCQf8a9ugOMpICRh5LzmW4J0Tu7bBPblLqeKvL50ka83IPXdviSYZ6n7HKl3oWDmFYOFPg3CN+E4hxwv2o0gNQ7GZ9mukTNN5l4d+NsqfYHZOKVuYVCyyrOMPhol1ZbTPxivKXH89xuPXcffajkAiCgpv3arbYDfYeIMHMEllbeN1WSXNPakk3rrK9YgNxe0Rv6aFLwCVDhL4/iqIFgIRYSawaRbJeo2YI/uzV1UyH8IlnhDvnQXYOF5kS/5UgIKMSTSFKNxYgM1igGkv15t6nGTBue7VspD8DA6P0x9TykzE+g58HxtTlrwkuJ1t30=;+ZbL2XuePqqKk7dMDOtZtA=="
 ---

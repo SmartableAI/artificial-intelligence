@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/amp/"
 type: article
 quality: 83
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 66
-  - title: "Daimler Trucks using NM to test self-driving vehicles"
-    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes. The companies have established a new testing center in ..."
-    publishedDateTime: 2020-09-04T04:05:00Z
-    webUrl: "https://www.abqjournal.com/1493210/daimler-trucks-using-nm-to-test-selfdriving-vehicles.html"
-    ampWebUrl: "https://www.abqjournal.com/1493210/daimler-trucks-using-nm-to-test-selfdriving-vehicles.html/amp"
-    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1493210/daimler-trucks-using-nm-to-test-selfdriving-vehicles.html/amp"
-    type: article
-    provider:
-      name: Albuquerque Journal
-      domain: abqjournal.com
-    quality: 59
-    images:
-      - url: "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2020/09/03/a10_jd_04sept_daimler-630x420.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "RIfhkCVMwvN4UwdZLmI95WAD04AsEvX39+ZdRKY5uZGbawTADCD6D7ZbUKbiioA3pdW4kpQU2/BuRaapLktaX076XW37epnmhBgrUaeSMkEqZruuebDQbw3/HyWsy+p5J3uCobPIF2SoHvQmlZT3JOUPTIrmONCuLDRaLIFonQUxEMKAOTaUC7l737OsZunzBXourkALkZM6HZFPzwQ1hNm0o4JglWT38nosHJk4xFsHw/3yEBAa4b5ROeSBVqQh+vGIsTz4K5U1qCFVcBzTFII4TBJe0Nblsj/M6Q0C3kBra7eztitEuGjUytkfbfsnWLaFLZoE+lwfAILu1+nj0MUhsYcDl08QCPlVa7oTSqbXPfXz8qrdq+68njoCVohT9N1nILamT9fNXrw/iw+Gu7D8nfs9NMHw2SsyEJzEt5f050BMni8fd+XvGi4U6sI2sG/7v0RUlMPpsfT0Z51SPE/AUUlHOeyHykWB3dffDk6CCSpESRJ7IUNTQx/Xl+OI+IcXIG4i/CIFhevbVtFzLB7dEizyqMFPYXzLfhpRDCs=;DB4ZweCSYHj/E/D/gaRYdw=="
 ---

@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Market 2020 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2026"
+    excerpt: "New Study Reports \"Artificial Intelligence (AI) in Medical Market 2020 Global Market Opportunities, Challenges,"
+    publishedDateTime: 2020-09-08T12:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-2020-global-analysis-share-trend-key-players-opportunities-forecast-to-2026-2020-09-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Insights on the IoT Chip in Healthcare Global Market to 2025 - Key Drivers and Restraints"
     excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
     publishedDateTime: 2020-09-07T19:30:00Z

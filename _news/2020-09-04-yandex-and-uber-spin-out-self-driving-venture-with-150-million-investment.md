@@ -74,22 +74,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 66
-  - title: "Daimler Trucks using NM to test self-driving vehicles"
-    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes. The companies have established a new testing center in ..."
-    publishedDateTime: 2020-09-04T04:05:00Z
-    webUrl: "https://www.abqjournal.com/1493210/daimler-trucks-using-nm-to-test-selfdriving-vehicles.html"
-    ampWebUrl: "https://www.abqjournal.com/1493210/daimler-trucks-using-nm-to-test-selfdriving-vehicles.html/amp"
-    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1493210/daimler-trucks-using-nm-to-test-selfdriving-vehicles.html/amp"
-    type: article
-    provider:
-      name: Albuquerque Journal
-      domain: abqjournal.com
-    quality: 59
-    images:
-      - url: "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2020/09/03/a10_jd_04sept_daimler-630x420.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "VB+iTzUhGejoJFAqZ70FoWeSRSqgYnOCA9jC0Q5sobPBDe/1qdPhxM/u+4BUj+sOcPnRY5msH5gLAc3qdZgOIx+13o2bRTTcxp7FU1jR7XCFlpGTW7g1KwjXqXfeAr0Dy7yiza5Rdm30XoebqnyWIRmEgwRz9fCX6aq/Fs3Q3A72zzVM0wu7Z3Dtk5r44UIoQ2NcDqFDdCvY95IMk3HsihA0ne25kXL1u7VFwiagKjzjQZcGL9155tOkmefSGKCCSfQkeeMjH5GR/QH1y82RV0O406CmaYDjmGMVU0o0qXocGuzMC1vmTdF0j60tHuywpZvjvIsbW3CsQyiXedLGhGB9OeGDuXEhV1B57wf7zytubuk/7baYie1Huhjkz2CNTD5VGviM+H9NIwKhXT5f9/3nqKxCoAnS6mt1bfQFFFRiA7IVuLCN7Wh9o4SPr4bahNgqnbRpnj8VmvAb7plE4g6IBFiwZHdtHDYdQugAvX+v1S5KcPpXYnCJ+QV6SnBN2CioajdYP5Kq7ngWYHkQ56/fd0NJw5pfq+DgDsLfwAk=;+JOf2OGz+rZr9Zx0Ts9Z9w=="
 ---

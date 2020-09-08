@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/the-pros-and-cons-of-ai-in-the-courtro
 webUrl: "https://www.zdnet.com/video/the-pros-and-cons-of-ai-in-the-courtroom/"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 370
     height: 278
     isCached: true
-
-related:
-  - title: "3 Predictions For The Role Of Artificial Intelligence In Art And Design"
-    excerpt: "Artificial Intelligence (AI) is transforming many aspects of our lives and businesses, and art and design are no different. In this post we look at the role AI will play in art and design and explore its role in enhancing human creativity as well as autonomous machine creativity."
-    publishedDateTime: 2020-09-04T04:40:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f51c38ba72e09805e578c53%2F0x0.jpg"
-        width: 1199
-        height: 872
-        isCached: true
 
 secured: "F4KGln4q3lrPtCrZ+VqdbQ8FU3Wqo1jDpCSjEV1wLr8VZ8859sn0MN69AdvrUSUBPc82NhMnTDIvOyKI3iJQLHxI3FSbNZymETLI+ECfThpYyR718IXz44fFBDcOgyqK3s851CUc8CjMhBBW7DlC1qMEC+3n4XrBj6+Uqy8WoymfRP7xvb2tu5G0cB8cNWJfndgKT00fL3lE/qPQg9N25djpVCSvALrUZk4n7i4gyduC6zY+yNatFwMcSBrnStxwYjtgXyPa/V4/q7I5sX+T0lMIUyJU1TUHH2Dt49ZCv8UwYCAWusUJ5REUxiQPnnYq4wh13S364yjZrSg8okIu7FqFqcHx8TX0URGu7rXJsIwDMP6I5K8mXHDHjAsFUC2lz5KuJnPge1KwpzcPHykvcoVYGI6k6ZNsJgzcVYdgjwgEGjx6eAp9d+bH266P9ZXHXnvlsIpJ5jXH0whEOqy/0HwuJMKEKOmkQTjTAmq+ggKhcpNPgLVOD/3ai+naItmBRxfD6bZbGEJzw36R0LqIs47YL1zzyIt8t+Ktmorow+A=;Ikdxh0anQ10dq3z3wiED+w=="
 ---

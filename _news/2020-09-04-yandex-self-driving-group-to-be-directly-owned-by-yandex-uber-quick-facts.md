@@ -69,22 +69,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Daimler Trucks using NM to test self-driving vehicles"
-    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes. The companies have established a new testing center in ..."
-    publishedDateTime: 2020-09-04T04:05:00Z
-    webUrl: "https://www.abqjournal.com/1493210/daimler-trucks-using-nm-to-test-selfdriving-vehicles.html"
-    ampWebUrl: "https://www.abqjournal.com/1493210/daimler-trucks-using-nm-to-test-selfdriving-vehicles.html/amp"
-    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1493210/daimler-trucks-using-nm-to-test-selfdriving-vehicles.html/amp"
-    type: article
-    provider:
-      name: Albuquerque Journal
-      domain: abqjournal.com
-    quality: 59
-    images:
-      - url: "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2020/09/03/a10_jd_04sept_daimler-630x420.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "1XhGv3gkrYOCLaIHU6kLwpzDKoNkQeagrykzgG7hbmbQOWl1n579dnKkdmBkOVXuAFm11PegxzQWEdDKRW5py79FoN4/iMidyiCdpxYfQCUxqD+q1r7JP7dqpb513eGb9AM/f7ZXjHzIsfF6+qPgPrFL7yujdsXDMo48dd2XNWvxMf/pLQx5GNPbzc4UvuGXihrAILLp6F+ql30bPFBj2jDSvqq5eLsesEjfGWqDTa9LcIqlP8Y8wOK2aZK+jmOY7FGvWZReW75Ua7Wb64TGYqAfN6QBnx9tZ+mIBpdpQ7EE9nXBpXidaCt3U3QnlE9MJ9BQytwO9UeSYjKh39yIzz/85HKpon5YwkJcMQZ9cWk=;wGHGCu7jRGLxAD1Tw2Qv2A=="
 ---

@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
+    publishedDateTime: 2020-09-08T20:39:00Z
+    webUrl: "https://insidehpc.com/2020/09/nutanix-partners-with-microsoft-azure-for-a-seamless-hybrid-experience/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
 
 secured: "6SqiqtBoXut+BDOaSf0bmQHWgMz/qfhUNE7iaqMNLN8oVNNNvocsJ1A0DANEiuqNNsR7CiJaqu+9n8jE/vR0s1auz6JvP4ndXj7FKkjkvXqjcopsn9BnlHbF43XDUKfTP5rE5OaYgd93FGjn+2UIJpK23j+0QuTjx3plR0wzva80U6yjzYAagFaz3yOihrMQyjfX/CYZWvVATCsyHsLyXzUD2wY+yp+nqYEyEZrRXz1NU1j1VMUjALj4KKXBfecZzc8wZdzNGsg+2JbsfgiwS0v3R3Bolxsf9IQIq3Bix6/eGuWJWrkmKSDJe5E4KRvysVHlGVpgHfjiaprIZ/Gf3QX1QrTiFaqJD7h0vKsnHPQ=;AuEhPV9SDJPjdMJbnj5FlA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-tr
 cdnAmpWebUrl: "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/amp/"
 type: article
 quality: 63
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "US CBP deploys facial recognition at 27 US airports as of May-2020"
-    excerpt: "US Government Accountability Office reported (03-Sep-2020) as of May-2020, the US Customs and Border Protection (CBP) deployed facial recognition technology at 27 US airports. CBP"
-    publishedDateTime: 2020-09-05T13:34:00Z
-    webUrl: "https://centreforaviation.com/news/us-cbp-deploys-facial-recognition-at-27-us-airports-as-of-may-2020-1022070"
-    type: article
-    provider:
-      name: Centreforaviation.com
-      domain: centreforaviation.com
-    quality: 34
   - title: "CBP Should Address Facial Recognition System Performance and Privacy Issues, GAO Says"
     excerpt: "A Government Accountability Office (GAO) review has found that U.S. Customs and Border Protection (CBP) has made progress testing and deploying facial recognition technology (FRT) at ports of entry to create entry-exit records for foreign nationals as part of its Biometric Entry-Exit Program."
     publishedDateTime: 2020-09-05T14:29:00Z
@@ -79,6 +70,6 @@ related:
         height: 1035
         isCached: true
 
-secured: "1QYR6dnPhJExnaFktFe+IKJmurovz/BcD7TKK5KkFtrA8LoYaFa1ub8liK/aWE52vI7kOdoeLWEqZpxccj4ctDH7ROE9l+srzNi11Y29cyc+I/oYpWMtfKcFkSdgf1eVgK9uHN3osDI4LvtW7r1ACrL8VhaJeAN3D83HB3MAuCq8nKo8PkmRYy8pxLZbFNkWEHmeiRX+fb23AcVj441TkRUJzOVh8W9P5wQtm+a9r/y6dnJuAT0xQr0PdJWNu9ddqLb4ZP/lKEnFA7NJKEQnsUGBffgGB/5o2uGCxIW7NRtGlBdTsWZrBMsOFCBHHqotx31TfUPX296NlUPtAZOJDoDA278KoaSb4jzv1YoZqmM=;iPl8k6HWL+UG0N4lc6pkAg=="
+secured: "U15aXMM2IBpr3fyMLXYduZ4G/WTvcDVyUnx7qeVaON70x9Kd+UP8J4+Z56QlmVDwgtaBUnBIaaHrQ2jO0o/n9dhl6k+sJ3/sKJ238F9GZzebdHwQSo2L9JkxGkeHmBxxufhGAZnhRbFbQYCt0t2A9TA+xDsEt95sklsS/Z7u4JfnfShOSih2eWU8XFPCWuuDAva+jg+EUAScS7tPTcO6VnVRoK46BiFy8n9NXtXjLtm5DZsJ6JuHE6lhVR74qaMPaJQQLoRTsTACncLgb4i5lMsdOnu6534m6AzJyTBeGR6DTZmU0f58kmvqHnjHVS60yR3AHng8RwVEum4ohZwd7OguerZLo/h++VBG8UyuyewLXiKM7YWAbBaAd5UOG0H6u2DuGl/QGvVrXuN/1ZHnHG/lWYbMj4ZKp6PuP6a++AdmatY78JXOxl8wC6uI7nh1KkdUFBNRUZde23Bc5Vr92gzYRjmYLYtEvgMvVZIkU3zv2qC6MP9/qycO6J78Qpd3iTpR3Wv5w//vLFMolX86T9xPfyofLfslKyyyt2x6UbQ=;wQhL0Z/WuFzzHjtSUQFoSg=="
 ---
 

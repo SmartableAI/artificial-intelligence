@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Market 2020 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2026"
+    excerpt: "New Study Reports \"Artificial Intelligence (AI) in Medical Market 2020 Global Market Opportunities, Challenges,"
+    publishedDateTime: 2020-09-08T12:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-2020-global-analysis-share-trend-key-players-opportunities-forecast-to-2026-2020-09-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Insurance Market 2020 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2025"
     excerpt: "The new research report entitled, Global Artificial Intelligence (AI) in Insurance Market 2020 by Company, Type"
     publishedDateTime: 2020-09-07T20:06:00Z

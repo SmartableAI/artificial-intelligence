@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-diffblue-uses-ai
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Creating a sophisticated conversational experience using Amazon Lex in Australian English"
+    excerpt: "Amazon Lex is a service for building conversational interfaces into any application using voice and text. To build truly engaging conversational experiences, you need high quality speech recognition and natural language understanding that understands the intent of the customer accurately. We are excited"
+    publishedDateTime: 2020-09-08T21:15:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/creating-a-sophisticated-conversational-experience-using-amazon-lex-in-australian-english/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 80
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+        width: 1260
+        height: 630
+        isCached: true
 
 secured: "tjcVhM73sTve4z8+kz2q97ZLXMS4QL60BeSYxlEKprCorp56LnolLYVg+GmtnzMYS+b+mG9oTDZXkdFvbAEgPc/ljdxaK4hYf/r4qYcoEtDjcNGcjP4sxGiLw4Rg3uA0vCRUdwbVvYveVDt9YlyjGRilhKt173eHUg/X9yrCebn4A8jpj6j4Tpp3MGeqA+oSYM/rAhCZxhDjrVAmih2TzLVP4/Uu+UQOEb1QNVElUbJG5B71M09c6jhz1dfZ3Ye+UNHvZexiIjQozOUvi4hH0hXQRgjUNQTzyQs4wcYX8NsGxliAjKi+Fig1OBoaPmmHQXxoHoB2qx/dovIwGWkkH0YeVB+14Zdl8xC+zzyMmQja4IaWZI0FtTt0FT8MoVJgDLOz83XIZtNCQSaCU5trIblhxDHHWVIw94yYr4O0Bq/EvSwI8C/jN7mWSBjmpciCuJdXZ2o6mLiMtljp1h6Z3OIZAJJcmM2dnhtTS24Uo3P0pVV0uRzRfqSG6En57BgPQQP+Fgx14yFNoU5CYTHbMANogkvgkFlTd6AvwZoIC1k=;y5WhaJNHJ3T642tSA6p1Ow=="
 ---
