@@ -29,20 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide Artificial Intelligence Chipsets Market Outlook to 2026: Emerging Trends and Will Generate New Growth Opportunities Status"
-    excerpt: "Global “Artificial Intelligence Chipsets Market” Market study report covers the global and regional market with an"
-    publishedDateTime: 2020-09-07T14:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/worldwide-artificial-intelligence-chipsets-market-outlook-to-2026-emerging-trends-and-will-generate-new-growth-opportunities-status-2020-09-07"
+  - title: "Global Artificial Intelligence Market Latest Industry Size, Growth Factors and Major Segments, Forecast Research Report"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-09-08T16:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-latest-industry-size-growth-factors-and-major-segments-forecast-research-report-2020-09-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Identified as the New Transformative Vehicle in the Global Car Rental Business Market"
+    excerpt: "For more information about this report visit  About ResearchAndMarkets.com ResearchAndMarkets.com is the world's leading source for international market research reports and market data. We provide you with the latest data on international and regional markets,"
+    publishedDateTime: 2020-09-08T08:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17404644/ai-identified-as-the-new-transformative-vehicle-in-the-global-car-rental-business-market"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17404644"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17404644"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
   - title: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
     excerpt: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation Demand Growth Trend Opportunity and Forecast to 2026"
     publishedDateTime: 2020-09-04T06:29:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Yandex, Uber to spin off self-driving unit of JV"
-excerpt: "Yandex and Uber Technologies Inc. will spin off the self-driving car unit of their joint venture into a separate company, giving Yandex more control over the businesses and paving the way for new investors."
-publishedDateTime: 2020-09-04T10:14:00Z
-originalUrl: "https://www.autonews.com/mobility-report/yandex-uber-spin-self-driving-unit-jv"
-webUrl: "https://www.autonews.com/mobility-report/yandex-uber-spin-self-driving-unit-jv"
+excerpt: "Yandex and Uber will spin off the self-driving car unit of their joint venture into a separate company, giving Yandex more control over the businesses and paving the way for new investors. Russia’s largest internet company will invest $150 million in the new division,"
+publishedDateTime: 2020-09-04T15:24:00Z
+originalUrl: "https://europe.autonews.com/automakers/yandex-uber-spin-self-driving-unit-jv"
+webUrl: "https://europe.autonews.com/automakers/yandex-uber-spin-self-driving-unit-jv"
 type: article
 quality: 24
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Yandex-MAIN_0.jpg"
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Yandex-MAIN_0.jpg"
     width: 800
     height: 600
     isCached: true
@@ -67,6 +67,6 @@ related:
       domain: seekingalpha.com
     quality: 0
 
-secured: "XkRo9v7koY9KqoRj+ysKBbwLScK+48Rve0Z+lc/PcQiQCo5dKY0qCCgXusXHG44OIR9u8WW0xxr9urrY9zg+ez5Q1BFDXCND0M3cMzi0fYkUHAmujCLkIi4LUq9+THROirggZOTk5vQYTXC4Vqvpuh0Dim8fTDWo4QRDkgvfZop9x0CUWnETe1bquGPq072DJ4PdWqy2gbHCoXJxA6zVHg3vuZ03zVDvTyAbHREVI89Y+rYqyy9/ha3Kk3BbWhgxwsp032SvU6sBeQQmHuILcLcngcqiqX8N1vjl3VXB/nEwsVNVzFaaFjAL+/XDnd8OyWby7ThZI/inVqQZDtTqqqbtMqWp1K2aI6ea1ZnBr5Plds4I7GDgItwPryT9wFqYm6GIpN6XE0V/O5opqRvkyklxGuL1eb6ScUjUrkLlD4HW7+pEEk8AwUXxiB3rIWuZLdlIFMk/HOeIfJetT+l1+VI9JHEsaOTyI0EZCAWC9HgZpbIccWs6O3dPgTxZXhI5mSMMzh1U4ayVoiCic9fd0ZWsBqYPR5ArswPJY55oH1E=;JTGb6PMvbVNjgnZ1MnHX1A=="
+secured: "Q3ov351YQPgYd16yakP5RQHzlt6Kf8MeLHqccr1Rm/dU0/gUyQCseEm2lsiATGNwdHt9P+qxkLwU3pw03cc0Tz7e1mGepP64xPL131HOCrSEoM5+F9PBImA0/3h4nVjsWU4RdzmamsJMpY5QMO+g+1Ib9yMusa0riistO4Y7ix35+MdGheb5rdCWLhQGp8JfqujCtKkClo/C7W9nmWs05MnS/LpyKyOiJTRUVGOjxuxriUohcYS76+K+r+aga8K+ll8S27ThBDeweZexNPNPnzpOvjf+/9E5zTUvHmPNc/q1CFqSREMOZTnTYgmbEo3o1H6ZP3BUY3POeU9UOq45Ii4fOWrjiJpmMGytzEr84sI=;k/fNR2ogqPrjieB5nJCeHw=="
 ---
 

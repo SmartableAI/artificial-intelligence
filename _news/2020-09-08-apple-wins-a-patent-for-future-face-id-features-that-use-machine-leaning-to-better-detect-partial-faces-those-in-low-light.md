@@ -7,7 +7,7 @@ originalUrl: "https://www.patentlyapple.com/patently-apple/2020/09/apple-wins-a-
 webUrl: "https://www.patentlyapple.com/patently-apple/2020/09/apple-wins-a-patent-for-future-face-id-features-that-use-machine-leaning-to-better-detect-partial-faces-and-those-in-low-ligh.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 600
     height: 334
     isCached: true
-
-related:
-  - title: "A Deep Computer Vision, Machine Learning Patent Surfaces Covering the Possible use of Specialty cameras for the iPhone & Wearables"
-    excerpt: "Today the US Patent & Trademark Office published a patent application from Apple that relates to the use of a range of cameras for a future headset and smartphone such as infrared cameras, electro-optical cameras capturing visible light"
-    publishedDateTime: 2020-09-04T00:27:00Z
-    webUrl: "https://www.patentlyapple.com/patently-apple/2020/09/a-deep-computer-vision-machine-learning-patent-surfaces-covering-the-possible-use-of-specialty-cameras-for-the-iphone-wear.html"
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 26
-    images:
-      - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c026be40e4c7c200d-600wi"
-        width: 600
-        height: 380
-        isCached: true
 
 secured: "/NB6Xp1iULwRBgOhlUI13xUIBzp6ux8M8/m6129YI0m3uwichevWjdcikyvd7b6337jEZZ+HulLZHP32U6FlfYBU29LpOy6ucPN4LN6mwtmGm35iY2OIaztlHi+yQ8Zd/z2T4cvSHwF/d250+D0V9Q0Di4wM4yRTGrtdG0sKmlgGWvWPzlI6Q+l147K36mZ7F6r/JcfPHkaI9dGMr2F2ceezsLqeRLrb6dXIDwmClEh1dM/cAa70dd/exrnEbhEtQ2c99DSFgmkGAMhbl1TU43jJid+bUCuQpfZJxJQvJwTSQPQrGn9ypJVrXAzFZkrJQH/rK0kK4kxdOukR+YBo/IZSMpEW8NuXpx32wvVNVjZ5bK39JOp4/SbOzpx43s584jS7BCTBv9dXa1RNI9YjONrvFaUmX94NnrWPwnUslHA+DHLv+F1L/wovcQTh4kq41+oul00uP8xEND8n8tjQsybjaYnpIOGeLd804/dAjvRO7C8ZFVYkWb1L+3z24ohgHilMFsdVMNOOB+loPBEtJStz4ScYnT5P2B7PbRBZN8s=;Z+I7uQUykJxccDT1k94V8g=="
 ---

@@ -20,19 +20,47 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Oil and Gas Market 2020 Is Booming Globally | Top Key Players : Google, Inbenta, Royal Dutch Shell, Cisco(NASDAQ: CSCO)"
-    excerpt: "The Artificial Intelligence in Oil and Gas Market report is a compilation of first-hand information, qualitative"
-    publishedDateTime: 2020-09-08T10:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-2020-is-booming-globally-top-key-players-google-inbenta-royal-dutch-shell-cisconasdaq-csco-2020-09-08"
+  - title: "Global Artificial Intelligence Market Latest Industry Size, Growth Factors and Major Segments, Forecast Research Report"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-09-08T16:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-latest-industry-size-growth-factors-and-major-segments-forecast-research-report-2020-09-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 29
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Image Recognition Market Growth Opportunities, Industry Challenges, Size, Future Trends and Demand Analysis by 2026"
+    excerpt: "The global image recognition market is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-09-08T11:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-growth-opportunities-industry-challenges-size-future-trends-and-demand-analysis-by-2026-2020-09-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
+    excerpt: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation Demand Growth Trend Opportunity and Forecast to 2026"
+    publishedDateTime: 2020-09-04T06:29:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266296215/global-artificial-intelligence-in-the-medical-imaging-market-2020-segmentation-demand-growth-trend-opportunity-and-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 7
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1599177222136.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "GAGyQ/+wS58x5A3ECDNTif0m12qqAGzHTjuK7Wmr6FLUjG/+9huB+WtSzgUePUONiJmu57j3F6TfF+ERsDXXj7YA0/Zw+z/qdUCMnDMTgiekLfcRKgPliymMoETqRkZHzqs63awD3UifhbMty68sqwHJeLJ4as96GV5EKTJk/UawcJF8h51eaLA0QUcG0TVxx4qQGUnBFfX7rjEPNMZ61uwNfutAfLC9AFXy9xTt1JuL3DlLvwiCLk24oynFu6lv24k1aS0s/9Irr9Ebv706faxu6dDqbhxCQZTxc3rlAG45IGa6iHK/98Sr+CNmMojvMttVpgoDAeDtVYLLnolilbq1sG/Id9u1hw4jeNpE5c0=;mNSgCWZdD93sQexuhTSyNg=="
