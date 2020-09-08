@@ -9,8 +9,8 @@ ampWebUrl: "https://www.11alive.com/amp/article/life/pets/facial-recognition-tec
 cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: 11Alive
@@ -42,6 +42,34 @@ related:
       - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F09%2F03%2Ftsa-security-checkpoint-FACETSA0920.jpg"
         width: 1800
         height: 938
+        isCached: true
+  - title: "Dems Propose 5-Year Wait On Facial Recognition Technology"
+    excerpt: "State legislators want a five-year moratorium on use of any system that would pair facial recognition or biometric surveillance systems on police body cameras. A.10913/S.6776 was introduced in the state Assembly and Senate recently by Assemblywoman Nathalia Fernandez,"
+    publishedDateTime: 2020-09-07T05:31:00Z
+    webUrl: "https://www.post-journal.com/news/local-news/2020/09/dems-propose-5-year-wait-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: The Post-Journal
+      domain: post-journal.com
+    quality: 54
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.post-journal.com/images/2016/10/31144144/fblike.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "FMPD wants to use face-recognition technology to solve crimes"
+    excerpt: "The Fort Myers Police Department is using facial features to solve crimes. The face-recognition technology is already in place and used on a daily basis by the same organization that issues driver’s licenses."
+    publishedDateTime: 2020-09-08T10:38:00Z
+    webUrl: "https://www.winknews.com/2020/09/08/fmpd-wants-to-use-face-recognition-technology-to-solve-crimes/"
+    type: article
+    provider:
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 24
+    images:
+      - url: "https://cdn.winknews.com/wp-content/uploads/2020/09/DL.jpg"
+        width: 824
+        height: 479
         isCached: true
 
 secured: "qp1KVpykERoTPhCZmLcmA38wUsqttCGJjGbk7jmcgoTyNk0x5Y49+LMkbXM09oea9pkeB6oywThKg3W0zYDg6Pe8oqFp3J0CcYu1kI1LboeVkPr6k+YzXKcCWh3Ay7kFio9ZsA32nM5TC2goCBoDSb916hVAnvkzFg5iRkd2fRJVfoYfnDhrRMz9LvyTM76e1bD0FLp+eV1zuLxOSivVL3DCDtAnHf8AGylEShRIhy39wauIxTz+f03ec6I05KyAHQxLCqqK3k/IbQOQC0i8vECQESFSYUp08aOZlXqm/pjNj+BZhWRqlM7x24rNp2965zN4RK6trtbFMNEJF4JWX32j1GSezJib/x9GFWJa85VwmJ2OXmDrQgGng6v40WOoD2Yt8d44JJ872HHjLx17+2XwchmTw8q+xklvRSAwuoG0TuyMd3Tyu9PgmiTMGkZz8zl+LbyzXxJXDNqMBjlcZTbJy4eEDAAxXxDNBqcsEvjjJeiEA18wOE79ZGTmRS/uJsHDAEwaP5OoyYYqaEyrEyq2TFIW1Shouv2SdsCbG1A=;E6sP2NG627PflkwhyTciEA=="

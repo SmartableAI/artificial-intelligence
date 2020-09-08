@@ -25,102 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "GAO audit finds pervasive problems with U.S. airport facial recognition program"
-    excerpt: "According to the U.S. Government Accountability Office, a facial recognition verification program at U.S. airports has been plagued with problems."
-    publishedDateTime: 2020-09-03T18:51:00Z
-    webUrl: "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/"
-    ampWebUrl: "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/amp/"
+  - title: "Facial recognition technology for pets is launched in Atlanta"
+    excerpt: "In addition to Finding Rover, LifeLine has implemented a \"Lost & Found\" matchmaking program where they check pets reported as lost against those in shelters daily. A new Lost2Foun"
+    publishedDateTime: 2020-09-08T03:25:00Z
+    webUrl: "https://www.11alive.com/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
+    ampWebUrl: "https://www.11alive.com/amp/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 200
+      name: 11Alive
+      domain: 11alive.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://media.11alive.com/assets/WXIA/images/32fcf5e8-6a95-445f-86b8-a7f69f97af91/32fcf5e8-6a95-445f-86b8-a7f69f97af91_750x422.png"
+        width: 750
+        height: 422
         isCached: true
-  - title: "U.S. Needs to Tighten Oversight of How Airlines Use Facial Recognition Data: New Government Report"
-    excerpt: "Facial recognition is popular, but a report published by the U.S. Government Accountability Office has found that U.S. Customs stumbled with the tech."
-    publishedDateTime: 2020-09-04T19:00:00Z
-    webUrl: "https://skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/"
-    ampWebUrl: "https://skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/amp/"
+  - title: "The TSA Is Testing Self Service Facial Recognition Technology in Pilot Program"
+    excerpt: "The Transportation Security Administration (TSA) has begun testing a self-service facial recognition system in Washington, D.C., to verify traveler IDs and flight information."
+    publishedDateTime: 2020-09-03T21:57:00Z
+    webUrl: "https://www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service"
+    ampWebUrl: "https://www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service?amp=true"
+    cdnAmpWebUrl: "https://www-travelandleisure-com.cdn.ampproject.org/c/s/www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service?amp=true"
     type: article
     provider:
-      name: Skift
-      domain: skift.com
-    quality: 60
+      name: Travel + Leisure
+      domain: travelandleisure.com
+    quality: 55
     images:
-      - url: "https://skift.com/wp-content/uploads/2019/10/facial-recognition-delta.jpg"
-        width: 1024
-        height: 683
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F09%2F03%2Ftsa-security-checkpoint-FACETSA0920.jpg"
+        width: 1800
+        height: 938
         isCached: true
-  - title: "Snapchat defends procedures after facial recognition class action"
-    excerpt: "The popular social media platform Snapchat faces allegations by two Illinois users that it stores information that makes them susceptible to identity theft."
-    publishedDateTime: 2020-09-04T01:49:00Z
-    webUrl: "https://legalnewsline.com/stories/510995812-snapchat-defends-procedures-after-facial-recognition-class-action"
+  - title: "FMPD wants to use face-recognition technology to solve crimes"
+    excerpt: "The Fort Myers Police Department is using facial features to solve crimes. The face-recognition technology is already in place and used on a daily basis by the same organization that issues driver’s licenses."
+    publishedDateTime: 2020-09-08T10:38:00Z
+    webUrl: "https://www.winknews.com/2020/09/08/fmpd-wants-to-use-face-recognition-technology-to-solve-crimes/"
     type: article
     provider:
-      name: Legal News Line
-      domain: legalnewsline.com
-    quality: 39
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 24
     images:
-      - url: "https://jnswire.s3.amazonaws.com/jns-media/28/93/178968/phone_06.jpg"
-        width: 1440
-        height: 720
-        isCached: true
-  - title: "US CBP deploys facial recognition at 27 US airports as of May-2020"
-    excerpt: "US Government Accountability Office reported (03-Sep-2020) as of May-2020, the US Customs and Border Protection (CBP) deployed facial recognition technology at 27 US airports. CBP"
-    publishedDateTime: 2020-09-05T13:34:00Z
-    webUrl: "https://centreforaviation.com/news/us-cbp-deploys-facial-recognition-at-27-us-airports-as-of-may-2020-1022070"
-    type: article
-    provider:
-      name: Centreforaviation.com
-      domain: centreforaviation.com
-    quality: 34
-  - title: "CBP Should Address Facial Recognition System Performance and Privacy Issues, GAO Says"
-    excerpt: "A Government Accountability Office (GAO) review has found that U.S. Customs and Border Protection (CBP) has made progress testing and deploying facial recognition technology (FRT) at ports of entry to create entry-exit records for foreign nationals as part of its Biometric Entry-Exit Program."
-    publishedDateTime: 2020-09-05T14:29:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/cbp-should-address-facial-recognition-system-performance-and-privacy-issues-gao-says/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 32
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/09/cbpbiometrics.jpg"
-        width: 1097
-        height: 700
-        isCached: true
-  - title: "Biometric facial recognition audit shows CBP has some privacy and notification work to do"
-    excerpt: "A government performance audit looking into the use of facial biometrics by the U.S. Customs and Border Protection agency found that is not fully safeguarding the privacy of travelers. Although"
-    publishedDateTime: 2020-09-04T21:34:00Z
-    webUrl: "https://www.biometricupdate.com/202009/biometric-facial-recognition-audit-shows-cbp-has-some-privacy-and-notification-work-to-do"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
-  - title: "Facial recognition audit shows U.S. Customs has some privacy and notification work to do"
-    excerpt: "A government performance audit looking into the use of biometric facial recognition by the U.S. Customs and Border Protection agency found that is not fully safeguarding the privacy of travelers."
-    publishedDateTime: 2020-09-04T22:54:00Z
-    webUrl: "https://www.biometricupdate.com/202009/facial-recognition-audit-shows-u-s-customs-has-some-privacy-and-notification-work-to-do"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
+      - url: "https://cdn.winknews.com/wp-content/uploads/2020/09/DL.jpg"
+        width: 824
+        height: 479
         isCached: true
 
 secured: "1BPKxzSJX2XL2gHiOG8+dx9plYf/DTucp60b3lV82Yki4qNANMO6i0RN1GGPprjzQTvRRSVKRmBozCkZTFhTdvnb/FUq/hTrp2gpb6A2wwG+GtKgQSaQm3IUL3tfklvkhTRR1fGpz0Z8UQbNp8ZvGbPuG/lnBxGN1nUGka5jVHdKgOC2JIxEHz5LmhC986KYQAZTABjr+8q8hbfjnxRic673y9Av0okNm5s1XW0xTO6nnTaVKAqXMQpKe7Z7TqKbkFK9VHqlKfp/J+fNklm2x+UPOfeA/f7W1CuPHYnb36QA21xGG15gA9MYlUY4AKkp/aPe+vOfI9DxOVNM4zgx0MXOQ+ix1UFFCSMhVoycD8M=;fv9jAgjJU9T0moNR45I/tg=="

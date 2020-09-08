@@ -25,102 +25,107 @@ images:
     isCached: true
 
 related:
-  - title: "GAO audit finds pervasive problems with U.S. airport facial recognition program"
-    excerpt: "According to the U.S. Government Accountability Office, a facial recognition verification program at U.S. airports has been plagued with problems."
-    publishedDateTime: 2020-09-03T18:51:00Z
-    webUrl: "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/"
-    ampWebUrl: "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/amp/"
+  - title: "Faulty Facial Recognition Led to His Arrest—Now He’s Suing"
+    excerpt: "Michael Oliver is the second Black man found to be wrongfully arrested by Detroit police because of the technology—and his lawyers suspect there are many more."
+    publishedDateTime: 2020-09-04T14:08:00Z
+    webUrl: "https://www.vice.com/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    ampWebUrl: "https://www.vice.com/amp/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 200
+      name: VICE
+      domain: vice.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://video-images.vice.com//articles/5f4fefdd972acd00959db0e6/lede/1599158657813-img1508.jpeg?crop=1xw:0.8743135838150289xh;center,center"
+        width: 2689
+        height: 1512
         isCached: true
-  - title: "U.S. Needs to Tighten Oversight of How Airlines Use Facial Recognition Data: New Government Report"
-    excerpt: "Facial recognition is popular, but a report published by the U.S. Government Accountability Office has found that U.S. Customs stumbled with the tech."
-    publishedDateTime: 2020-09-04T19:00:00Z
-    webUrl: "https://skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/"
-    ampWebUrl: "https://skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/amp/"
+  - title: "Black Detroit man wrongfully arrested after facial recognition search"
+    excerpt: "A Black man from Detroit is suing the city after he was falsely arrested because of a facial recognition match, according to a new report."
+    publishedDateTime: 2020-09-04T17:50:00Z
+    webUrl: "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/"
+    ampWebUrl: "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp"
     type: article
     provider:
-      name: Skift
-      domain: skift.com
-    quality: 60
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
     images:
-      - url: "https://skift.com/wp-content/uploads/2019/10/facial-recognition-delta.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/09/Detroit-Facial-Recognition-scaled.jpg"
+        width: 2560
+        height: 1280
         isCached: true
-  - title: "Dems Propose 5-Year Wait On Facial Recognition Technology"
-    excerpt: "State legislators want a five-year moratorium on use of any system that would pair facial recognition or biometric surveillance systems on police body cameras. A.10913/S.6776 was introduced in the state Assembly and Senate recently by Assemblywoman Nathalia Fernandez,"
-    publishedDateTime: 2020-09-07T05:31:00Z
-    webUrl: "https://www.post-journal.com/news/local-news/2020/09/dems-propose-5-year-wait-on-facial-recognition-technology/"
+  - title: "Israeli facial recognition co AnyVision raises $43m"
+    excerpt: "AnyVision to focus on its commercial and homeland security facial recognition operations. AnyVision said that the new funding will be used \"to scale its Touchless Access Control and Remote Authentication products at a time when demand for innovative technologies that help companies meet the challenges of the new reality is soaring."
+    publishedDateTime: 2020-09-04T13:11:00Z
+    webUrl: "https://en.globes.co.il/en/article-israeli-facial-recognition-co-anyvision-raises-43m-1001341654"
     type: article
     provider:
-      name: The Post-Journal
-      domain: post-journal.com
+      name: globes.co.il
+      domain: globes.co.il
     quality: 54
     images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.post-journal.com/images/2016/10/31144144/fblike.jpg"
+      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2020/3F27E375703F21D215C414440800BA8A_800x392.20200904T120738.jpg"
+        width: 800
+        height: 392
+        isCached: true
+  - title: "Israeli Facial Recognition Tech Startup AnyVision Raises Additional $43M"
+    excerpt: "AnyVision said that at a time when demand for innovative technologies that help companies meet the challenges of the new reality is soaring, the company sees significant growth for their Touchless Access Control across all verticals within organizations that host large numbers of people in shared spaces."
+    publishedDateTime: 2020-09-07T14:53:00Z
+    webUrl: "https://nocamels.com/2020/09/israeli-facial-recognition-tech-startup-anyvision-raises-additional-43m/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 53
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/09/facialreco.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "The twisted case of facial recognition"
+    excerpt: "Machine translation continues to make strides forward. Facial recognition, on the other hand, has entered the twilight zone."
+    publishedDateTime: 2020-09-04T04:04:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142477"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 41
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/128674-1200-BY-630-_2ND-COGNITIVE-COMPUTING-HADLEY-AND-SUE-ORG.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "US CBP deploys facial recognition at 27 US airports as of May-2020"
-    excerpt: "US Government Accountability Office reported (03-Sep-2020) as of May-2020, the US Customs and Border Protection (CBP) deployed facial recognition technology at 27 US airports. CBP"
-    publishedDateTime: 2020-09-05T13:34:00Z
-    webUrl: "https://centreforaviation.com/news/us-cbp-deploys-facial-recognition-at-27-us-airports-as-of-may-2020-1022070"
+  - title: "TSA is testing facial recognition at security checkpoints"
+    excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
+    publishedDateTime: 2020-09-04T14:34:00Z
+    webUrl: "https://www.cbs7.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
     type: article
     provider:
-      name: Centreforaviation.com
-      domain: centreforaviation.com
-    quality: 34
-  - title: "CBP Should Address Facial Recognition System Performance and Privacy Issues, GAO Says"
-    excerpt: "A Government Accountability Office (GAO) review has found that U.S. Customs and Border Protection (CBP) has made progress testing and deploying facial recognition technology (FRT) at ports of entry to create entry-exit records for foreign nationals as part of its Biometric Entry-Exit Program."
-    publishedDateTime: 2020-09-05T14:29:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/cbp-should-address-facial-recognition-system-performance-and-privacy-issues-gao-says/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 32
+      name: CBS 7
+      domain: cbs7.com
+    quality: 39
     images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/09/cbpbiometrics.jpg"
-        width: 1097
-        height: 700
+      - url: "https://gray-kosa-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Biometric facial recognition audit shows CBP has some privacy and notification work to do"
-    excerpt: "A government performance audit looking into the use of facial biometrics by the U.S. Customs and Border Protection agency found that is not fully safeguarding the privacy of travelers. Although"
-    publishedDateTime: 2020-09-04T21:34:00Z
-    webUrl: "https://www.biometricupdate.com/202009/biometric-facial-recognition-audit-shows-cbp-has-some-privacy-and-notification-work-to-do"
+  - title: "TSA is testing facial recognition at security checkpoints"
+    excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
+    publishedDateTime: 2020-09-04T22:13:00Z
+    webUrl: "https://www.wdbj7.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
-  - title: "Facial recognition audit shows U.S. Customs has some privacy and notification work to do"
-    excerpt: "A government performance audit looking into the use of biometric facial recognition by the U.S. Customs and Border Protection agency found that is not fully safeguarding the privacy of travelers."
-    publishedDateTime: 2020-09-04T22:54:00Z
-    webUrl: "https://www.biometricupdate.com/202009/facial-recognition-audit-shows-u-s-customs-has-some-privacy-and-notification-work-to-do"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "RgB3leKKOY532rEE4gr5zouY5V2m94DpNOfqswU+qfuyVHBTtqaSd49nN9VF1Wbd5JU2FAGlHebyLwQh+QZdQSWgqpnBaZDyse3JJ440VK6SNJUCoySmstMZgmBbGhJhyy9d39X/yniBs1VbHoSSCAENcKahgsSwskYWyIqB6Iyvtp3DqkvTzzGatbQVER3WgkBhAX0EklT0Ws/KYRfI1C/Udo88ZWoSeMUMtVwyumdxBgWNX08ONK5K+6RmfW/v61NM0WSv/R95mo/tP580GXJ7DACAxD4F2qmsxSU3gzcGHOeqCd0jp3dgHZNZEThMAHv1xaBYFQKxe3C8tgSfNHJwNNgM3KPjEaZrg5fPocqgnZa9uiNeaojDQJzXOFbOgkXMBPi7BvxGJbYNYYrMbYVMsjqYQxfNBeytj7vQ5A+jAF+VpqvEP49Jj0XRtC0PU144S+M+lv5m0QOfprtoX0mgkpKhbYmZLFw2FsCEp0zbYrrIldAUPvxBMI3TKHqHNODJyJnfVQLeDpgtrKdDrw==;+HjldUDX51o5kU5LMqw5ng=="

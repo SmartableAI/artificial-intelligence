@@ -1,0 +1,41 @@
+---
+category: news
+title: "Matt Hancock announces £50m for healthcare AI projects"
+excerpt: "Health secretary Matt Hancock has promised £50m in funding to drive forward the use of artificial intelligence (AI) and machine learning across the NHS."
+publishedDateTime: 2020-09-08T11:53:00Z
+originalUrl: "https://www.computerweekly.com/news/252488719/Matt-Hancock-announces-50m-for-healthcare-AI-projects"
+webUrl: "https://www.computerweekly.com/news/252488719/Matt-Hancock-announces-50m-for-healthcare-AI-projects"
+ampWebUrl: "https://www.computerweekly.com/news/252488719/Matt-Hancock-announces-50m-for-healthcare-AI-projects?amp=1"
+cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252488719/Matt-Hancock-announces-50m-for-healthcare-AI-projects?amp=1"
+type: article
+quality: 54
+heat: 64
+published: false
+
+provider:
+  name: Computer Weekly
+  domain: computerweekly.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+related:
+  - title: "Scottish universities receive funding for ground-breaking healthcare projects"
+    excerpt: "The money will be used to help identify and treat diseases like cancer and osteoarthritis faster and more effectively"
+    publishedDateTime: 2020-09-07T15:09:00Z
+    webUrl: "https://www.holyrood.com/news/view,scottish-universities-receive-funding-for-groundbreaking-healthcare-projects"
+    type: article
+    provider:
+      name: Holyrood
+      domain: holyrood.com
+    quality: 36
+    images:
+      - url: "https://www.holyrood.com/siteimg/share/ugc-1/fullnews/news/15987/15272_original.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "bSO8T+JDP2oLDksvU9G/sO2fCNzCKGwyPpX6H1LURDSS1p8wCToIfmX+9CfKyU0DKEMCIf8WiXEIYfB/TYBGEeWWICNGm94MjuRP9QNW+ITfzO/C+3CzA3d2JPy7fDZS4plXaUSfRs9mHwcnSvmXUvtubwJoPqPEKvEYl8j7+3+mDdYMGASjo5vkTlgsVPwZ0xbTqRAU/AqeHe8/w7KkjMLkjKWwfQxTCPtdSacLUVGZThfs9cQV2dsMB7579EmLkdfkcFh/A/JM+l5LhiIBpoYcuMrK2TMtLZYnr9F00+/j+xTdOSZFhUj4vmxVreXJxNuZNK78GtgwP65JiQtpZRTsLb8JDTnmQrU9t6DSu4+FOq6AQvg/wZ4G2NyekxQMI7r/5BgqgIGGC+9Hp14ol1OufCFoeh5BKGJnlmdI/l3ff0VhU9ix7GuW7VN9je44BsjJP1ie/Q2P3Qb9uAjyy1yL4EBa5KX8yUc2majr4XXffQDJ/4aRflSbiot6RofL0iEEUqN/oliFIv7pqqPQ1uE9nAihGriboazqlS5qP6E=;5LjLr0hHUxxiyafyECyhcA=="
+---
+

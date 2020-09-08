@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture-2020-09-08"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: MarketWatch
@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Explore Trends and COVID-19 Impact on Russia and NATO Artificial Intelligence in Military Market 2020 Research Report and Industry Forecast till 2026"
+    excerpt: "Pages PDF Report] Facts & Factors (FnF) published a market research report on “Russia and NATO Artificial Intelligence in Military Market: By Size, Share, Growth Factors, Top Players, COVID-19 Analysis and Forecast,"
+    publishedDateTime: 2020-09-07T11:02:00Z
+    webUrl: "https://galusaustralis.com/2020/09/964076/explore-trends-and-covid-19-impact-on-russia-and-nato-artificial-intelligence-in-military-market-2020-research-report-and-industry-forecast-till-2026/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/964076/explore-trends-and-covid-19-impact-on-russia-and-nato-artificial-intelligence-in-military-market-2020-research-report-and-industry-forecast-till-2026/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/964076/explore-trends-and-covid-19-impact-on-russia-and-nato-artificial-intelligence-in-military-market-2020-research-report-and-industry-forecast-till-2026/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 0
 
 secured: "ulN82QEWG78fo4lTaKN+sAIv5OhyUmoxVD/x6IhZ9Z+bLIobYZ09ZH+ujNnmEMBv4czSYb+zKkJHE8lOyVIvDpHKZuP8bqEj4JmlSovh9GPU6TvtoJCnbTFcDEUW4QEjr2bxClvL5PYhZH2UjhgApaKhQqK97DM3nPhda7HwuJiudxWeRS2fpssAsSF+dJcbBD27V/lmMDrGRCmySOfxH73oevthngVwD9IVZQbnNahJk/x9NLu0S7rTK/337XNZvYHnEZbTFhBQl32m0RBCfZjwPSqzXOzfAn8W5LHcZbm0gQ8sf0w9a12/n257FQxzIxAc/nTi4A7JsNnfrBD7s6XyyF2gBspLUJzXIbEshbM=;G3y0t2tAxNLfo8WVYRrsqQ=="
 ---

@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Snapchat defends procedures after facial recognition class action"
+    excerpt: "The popular social media platform Snapchat faces allegations by two Illinois users that it stores information that makes them susceptible to identity theft."
+    publishedDateTime: 2020-09-04T01:49:00Z
+    webUrl: "https://legalnewsline.com/stories/510995812-snapchat-defends-procedures-after-facial-recognition-class-action"
+    type: article
+    provider:
+      name: Legal News Line
+      domain: legalnewsline.com
+    quality: 39
+    images:
+      - url: "https://jnswire.s3.amazonaws.com/jns-media/28/93/178968/phone_06.jpg"
+        width: 1440
+        height: 720
+        isCached: true
   - title: "TSA is testing facial recognition at security checkpoints"
     excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
     publishedDateTime: 2020-09-04T14:34:00Z
