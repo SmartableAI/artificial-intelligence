@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2020-09-
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest?context=amp"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
-        isCached: true
-  - title: "5G-covered road for self-driving vehicles official opens in China"
-    excerpt: "A 5G-covered road for testing self-driving cars was formally unveiled in Baohe district of Hefei city in east China’s Anhui province on Thursday, September 3."
-    publishedDateTime: 2020-09-03T14:43:00Z
-    webUrl: "https://yen.com.gh/169107-5g-covered-road-driving-vehicles-official-opens-china.html"
-    ampWebUrl: "https://yen.com.gh/amp/169107-5g-covered-road-driving-vehicles-official-opens-china.html"
-    cdnAmpWebUrl: "https://yen-com-gh.cdn.ampproject.org/c/s/yen.com.gh/amp/169107-5g-covered-road-driving-vehicles-official-opens-china.html"
-    type: article
-    provider:
-      name: Yen.com.gh
-      domain: yen.com.gh
-    quality: 44
-    images:
-      - url: "https://netstorage-yen.akamaized.net/images/90287a5f83981aac.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Amazon parcels could be delivered by self-driving mini trucks in the UK"
     excerpt: "Britons could soon see their Amazon parcels delivered by a small self-driven vehicle.  The online giant is hiring a team of engineers to develop its Amazon Scout vehicles for use in the UK after online shopping took off during lockdown."

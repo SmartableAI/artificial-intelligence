@@ -41,22 +41,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Google Is Making an Augmented Reality Microscope for the DoD"
-    excerpt: "Google Cloud wins a Defense Innovation Unit (DIU) contract to improve cancer detection using artificial intelligence and augmented reality."
-    publishedDateTime: 2020-09-03T13:54:00Z
-    webUrl: "https://uk.pcmag.com/healthandfitness/128467/google-is-making-an-augmented-reality-microscope-for-the-dod"
-    ampWebUrl: "https://uk.pcmag.com/healthandfitness/128467/google-is-making-an-augmented-reality-microscope-for-the-dod?amp=1"
-    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/healthandfitness/128467/google-is-making-an-augmented-reality-microscope-for-the-dod?amp=1"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 74
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/g/google-is-/google-is-making-an-augmented-reality-microscope-for-the-dod_ygz6.620.jpg"
-        width: 620
-        height: 349
-        isCached: true
 
 secured: "9eqZ4vkjvXN8hZB+l2PK9vTIhlT+/YDECm1woL8IYArcktkdqhV2unIXvLimJvOF1eaZsnspfeyDXsOTPa3S7/p7Vlqeu8qttrhgqmqOYq2JAtDBU4jcnF6ywVjAuKk8JozPLGhMDozSlAEhnfeS+MPyrALpmfMzWs0/Fwm7CAVkY1Oh0iMBoAoc9CrOufG0KYBkL1x3FYVDWf0LgNfw1+ApeycZ8W7Zcy3lO6cHmZDnh5EpSAr73AnwSGzVzrEvuFPsGhkXXlkeITzuaHYLyCM42o6Pyoz1UaBv1lwCGR53qEyIYosZkOFJjH0S60afvhRXA77g3u/SzvJfTiXDGE1IHDkjkrpfG/KpCvKkdzERjnxPUAL9s0QnBaDdTovU8Ak4P9nzWBRViPnCbMsAYqE8ZEC5VndGoHafD5fE6zaMnBaG5OSZSg4E5hzgdCcoeDkCIWNYbbWxPQ0bQ5S7J/MpqTPE/HLoKmjo7/JZ5gDmR+T1aCSCcpPpVLt+EHbba7vL2MqB022cpzTS1mRyTpRGyrKob1p+D5mno9RJJ5c=;dZG29EquGw32oFxj9V1CUw=="
 ---

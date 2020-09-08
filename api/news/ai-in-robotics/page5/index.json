@@ -2,6 +2,39 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-23-robotics-artificial-intelligence-etf-botz-hits-new-52-week-high.md",
+      "title": "Robotics & Artificial Intelligence ETF (BOTZ) Hits New 52-Week High",
+      "excerpt": "Investors seeking momentum may have Global X Robotics & Artificial Intelligence Thematic ETF (BOTZ) on radar now. The fund recently hit a new 52-week high. Shares of BOTZ are up approximately 74.3% from their 52-week low of $14.77/share. But could there ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-hits-new-52-week-high-2020-07-23",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-hits-new-52-week-high-2020-07-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-hits-new-52-week-high-2020-07-23?amp",
+      "publishedDateTime": "2020-07-23T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-amazon-rolls-out-little-delivery-robot-to-more-cities.md",
       "title": "Amazon rolls out little delivery robot to more cities",
       "excerpt": "Amazon is rolling out its robot delivery trial to more cities. The e-commerce giant launched its delivery system, Amazon Scout, in January 2019 using electric, autonomous vehicles that can navigate sidewalks to deliver packages.",
@@ -1272,47 +1305,6 @@
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry.md",
-      "title": "White Castle Selects Miso Robotics for a New Era of Artificial Intelligence in the Fast Food Industry",
-      "excerpt": "PRNewswire/ -- White Castle®, the country's first fast-food hamburger chain, announced today a planned pilot with Miso Robotics – creators of the first autonomous grilling and frying kitchen assistant,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077",
-      "publishedDateTime": "2020-07-14T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

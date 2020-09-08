@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) Chips Market (2020 to 2024) - Featuring Advanced Micro Devices, Alphabet & Apple Among Others"
-excerpt: "Dublin, Sept. 07, 2020 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) Chips"
-publishedDateTime: 2020-09-07T09:43:00Z
-originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-to-2024---featuring-advanced-micro-devices-alphabet-apple-among-others-2020-09-07-51843431"
-webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-to-2024---featuring-advanced-micro-devices-alphabet-apple-among-others-2020-09-07-51843431"
+excerpt: "The \"Global Artificial Intelligence (AI) Chips Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence (AI) chips market is poised to grow by $ 54.03 billion during 2020-2024 progressing at a CAGR of 42% during the forecast period."
+publishedDateTime: 2020-09-07T09:41:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-ai-chips-market-2020-to-2024-featuring-advanced-micro-devices-alphabet-apple-among-others-1029566080"
+webUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-ai-chips-market-2020-to-2024-featuring-advanced-micro-devices-alphabet-apple-among-others-1029566080"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 50
+heat: 60
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,12 +22,22 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
+related:
+  - title: "Insights on the IoT Chip in Healthcare Global Market to 2025 - Key Drivers and Restraints"
+    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
+    publishedDateTime: 2020-09-07T19:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-iot-chip-in-healthcare-global-market-to-2025---key-drivers-and-restraints-301125109.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 45
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
-secured: "6eWlgc8xefqnq6y/cJMtdeAVgB5lT18WCOFgHlBOQYT4FbUIkr5f1T33Qwel5fA/tJSc1oEnA5CDFqgauiC4nT5zV9IY9HDxiL/GO449Ki+F4iA3B3FVKd6XoBOL/KT6genx5+bzlEQLJrRC0FOlbjieUOzZMrk3GZlxtehCO7Y+mprECHejyfzXye8wB6rSBZez2WU3zFS3meqBa1L2KAeCzijWhCWOBIwaqD3i1V39TEAl5MCgUU+EWutMUnRyjvr33kw/danLjZ9WNZ+ZWSelrmAs6FC+euzrtW/f6T7+GaSC5TJcMdQyEQX1QjGT9ob9+Rj8O9RC3bie9Y74j2VVE3YN/jvGE0NsWOGe7dI=;BD0zTqAFml3ZWRXIrcKh7w=="
+secured: "cc3b/tCVg7vi9F1jxYGQt1Kwk+ZRDzqfCD3edakJYAVa30z0KByjnE5xA2WWzMA11V/UAVA5foMZcaD1BOTNXQLP+hSFB1OUubvScWjoJxc9TQYvFzOGJ9plojPbVyqAqbEUgPHIuD98UvQaZl4qCBE8QOPTNzuXUe9pH3UV8DEtZGTHC7r3FECl5ncs3b4sOtV0oFdlMoQIZoRPIF3RUXimyQP3Y6nSWwplXWeylIpjw20BMBf+Omaemj+WL/HhSOJR7h1ZUPFtqosx9dQKt3U3kQx+zBprGLgorZ+mg+yq802qtlhGjT+AWsPgrBNCFDENkUZPX9MNdxHnQActzzXDh0KN5mPG/RKBCfkWPqk=;cgu+vG8q2N/GTo0Q8rzUzQ=="
 ---
 

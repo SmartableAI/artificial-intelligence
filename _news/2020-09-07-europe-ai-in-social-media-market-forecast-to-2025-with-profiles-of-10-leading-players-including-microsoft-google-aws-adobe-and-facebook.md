@@ -25,59 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Insights on the IoT Chip in Healthcare Global Market to 2025 - Key Drivers and Restraints"
-    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
-    publishedDateTime: 2020-09-07T19:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-iot-chip-in-healthcare-global-market-to-2025---key-drivers-and-restraints-301125109.html"
+  - title: "Artificial Intelligence in the U.S. Fashion Market 2020-2025 - Increasing Need for Inventory Management, Growing Influence of Social Media"
+    excerpt: "The \"United States AI in Fashion Market By Component (Solutions and Services), By Deployment Mode (Cloud v/s On-Premises), By Category (Apparel, Accessories, Beauty & Cosmetics, Others), By Application,"
+    publishedDateTime: 2020-09-07T12:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-the-u-s-fashion-market-2020-2025-increasing-need-for-inventory-management-growing-influence-of-social-media-1029566459"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-the-u-s-fashion-market-2020-2025-increasing-need-for-inventory-management-growing-influence-of-social-media-1029566459"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-the-u-s-fashion-market-2020-2025-increasing-need-for-inventory-management-growing-influence-of-social-media-1029566459"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 45
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Global Artificial Intelligence Systems in Healthcare Market Current Trends 2020 | IBM, Brighterion, SAP, Microspft, Salesforce"
-    excerpt: "Global Artificial Intelligence Systems in Healthcare Market 2020 by Company, Type and Application, Forecast to 2025 is specialized and in-depth industry research dealing with all technical and profitable business outlook."
-    publishedDateTime: 2020-09-03T14:26:00Z
-    webUrl: "https://galusaustralis.com/2020/09/949580/global-artificial-intelligence-systems-in-healthcare-market-current-trends-2020-ibm-brighterion-sap-microspft-salesforce/"
-    ampWebUrl: "https://galusaustralis.com/2020/09/949580/global-artificial-intelligence-systems-in-healthcare-market-current-trends-2020-ibm-brighterion-sap-microspft-salesforce/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/949580/global-artificial-intelligence-systems-in-healthcare-market-current-trends-2020-ibm-brighterion-sap-microspft-salesforce/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 26
-  - title: "Worldwide Social Robots Industry to 2025 - Featuring Intuition Robotics, Haapie SAS & Reach Robotics Among Others - ResearchAndMarkets.com"
-    excerpt: "The “Social Robots Market - Growth. Trends and Forecasts (2020-2025)” report has been added to ResearchAndMarkets.com’s offering. The Social Robots market is estimated to grow at a CAGR of about 14% over the forecast period 2020 to 2025."
-    publishedDateTime: 2020-09-03T13:35:00Z
-    webUrl: "https://apnews.com/7b7722170fa84e6da4e3cfabad4c1ecd"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Global Artificial Intelligence Processor Market to 2025 - Profiling Apple, Huawei & MediaTek Among Others - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence Processor Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The Artificial Intelligence (AI) processor market was valued at US$71."
-    publishedDateTime: 2020-09-04T12:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200904005302/en/Global-Artificial-Intelligence-Processor-Market-2025--"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
-    images:
-      - url: "https://mms.businesswire.com/media/20200904005302/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
 
 secured: "Rjw5p7RAr83ns1JZ206JuRKgDE2T2NuOSVPx+YJ17wKERB7LtCuX2OgJ8495hfcXjjlsuLqKAa/xHEtQ6VqFgsPr+4PP/k9tSZSLi1xDqyg8ps1bYuvBe6IFTSlBvJQo1CiV8I5ELMX7jJ1FQhBjXShcmElRJjGYeEpRsU0LJ8eJx4oVRPN4AXClbby9OcpVLS25f1AMPiYONZCfiDsn9mI3DWO8lMG6PvFeMp/YnnnR5NE8PwKYF2K7CudTl2T74bSns8Lf4UkusJ7tQIvbHil/NHnYCwCre92x0PfulpriSierTmzIFHbnof1Jzf96JhsP7HMS6n5U99K4Y6qblgDyH+Y5xCN9XlnkdKqi9ek=;jlyveLxL+KHjHags4Z+2GQ=="
 ---

@@ -19,17 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "FSS Launches Next Gen Recon with Machine Learning and Cloud Support"
-    excerpt: "FSS, a leading payments technology company has launched Smart Recon platform with AI and ML capabilities. The platform provides an end-to-end, automated solution for reconciliation"
-    publishedDateTime: 2020-09-07T17:14:00Z
-    webUrl: "https://indiaeducationdiary.in/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support/"
-    ampWebUrl: "https://indiaeducationdiary.in/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support/?amp"
+  - title: "FSS launches next gen recon with machine learning and cloud support"
+    excerpt: "The new system will leverage ML and automate manually intensive processes and improve the speed, accuracy, and the reliability of the payment reconciliation process"
+    publishedDateTime: 2020-09-08T07:46:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/FSS_launches_next_gen_recon_with_machine_learning_and_cloud_support-ZAWYA20200908072430/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200908072430/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200908072430/"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 41
+      name: Zawya
+      domain: zawya.com
+    quality: 24
 
 secured: "wMBuu4J0xNT+LPL2X4/LEGaxPt/DwkS4gqq36eU1H95JAlbUZQOpLN19W2ylOqFq/D7OtFeRDJU1FhAQiF0Sc5QGs23rRTvhry1DxC+jN6RKbdFsj3U2RNbgTchgj2LHsz65zGkbyN+BQQflVyjT9SbaMQzqd4wdm38gI3MCGTYyPx5sZy/DHsbIDuTtM3HycTyb1qI5EUAVSoRHDJ4kLSnqb2cjBMkRKo4R0lMrW52E+QWIGO+g6ZKojP+xi/EaWp2WJx+jtaGgLrMMmReuvl9KiTcdmmDGuQq2lbuz6gL8FutL0z1G7PEZFLro1e98pUrFWOzMcrwoq0+AeQw6du9OLoGrPQw/IJCtlE6QLKg=;2jrrxqhNUxXw1S2tpnbcxw=="
 ---

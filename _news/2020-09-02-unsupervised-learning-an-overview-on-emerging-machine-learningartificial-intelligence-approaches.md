@@ -22,6 +22,7 @@ topics:
   - AI in Finance
   - AI
   - AI in Autos
+  - Machine Learning
 
 related:
   - title: "Management AI: Matching AI Models To Business Needs, Unsupervised Learning, Customer Segmentation, And Association"

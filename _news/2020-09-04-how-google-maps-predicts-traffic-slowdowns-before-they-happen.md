@@ -27,47 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "Here's how Google Maps uses AI to predict traffic and calculate routes"
-    excerpt: "On Thursday, Google shared how it uses artificial intelligence for its Maps app to predict what traffic will look like throughout the day and the best routes it"
-    publishedDateTime: 2020-09-03T15:19:00Z
-    webUrl: "https://www.cnet.com/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/"
+  - title: "Google Maps partners with DeepMind to better predict the future of traffic"
+    excerpt: "So far, machine learning has improved the accuracy of real-time ETAs by up to 50% in cities around the world, the companies said."
+    publishedDateTime: 2020-09-04T16:22:00Z
+    webUrl: "https://www.techrepublic.com/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: TechRepublic
+      domain: techrepublic.com
     quality: 87
     images:
-      - url: "https://cnet3.cbsistatic.com/img/eCYPf_S81xRyqLpavRdSIhgcWnQ=/756x567/2019/12/04/d0f3c47a-94a4-4d44-a2c0-d122b83a02ff/google-maps-logo-phone.jpg"
-        width: 756
-        height: 567
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/05/20/0fcebbe7-67f1-4908-8260-32f1fef1e499/thumbnail/1200x675/33623cba36b7bd46e414c3e09f8616ce/beeah-cr-mir.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Covid-19 forced Google to change how it predicts traffic in Google Maps"
-    excerpt: "Google on Thursday explained in a blog post how Covid-19 has forced it to rethink how it predicts driving conditions, like traffic, for people who use Google Maps."
-    publishedDateTime: 2020-09-03T14:11:00Z
-    webUrl: "https://www.cnbc.com/2020/09/03/covid-19-forced-google-maps-to-change-how-it-predicts-traffic.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/09/03/covid-19-forced-google-maps-to-change-how-it-predicts-traffic.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/03/covid-19-forced-google-maps-to-change-how-it-predicts-traffic.html"
+  - title: "Google Maps uses DeepMind's AI to come up with your ETA: Know details"
+    excerpt: "By partnering with DeepMind, Google has been able to cut the percentage of inaccurate ETAs even further by using an ML architecture known as Graph Neural Networks."
+    publishedDateTime: 2020-09-04T12:04:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-google-ai-for-eta-deepmind-647212"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-google-ai-for-eta-deepmind-647212"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-google-ai-for-eta-deepmind-647212"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
+      name: India TV
+      domain: indiatvnews.com
     quality: 74
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106141279-1568997651067rtx73nqw.jpg?v=1584104359"
-        width: 2000
-        height: 1333
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/09/google-maps-1599221036.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Google Maps Adds DeepMind AI to Calculate Your Arrival Time More Accurately"
-    excerpt: "As people traverse over 1 billion km with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine"
-    publishedDateTime: 2020-09-05T09:56:00Z
-    webUrl: "https://www.techshout.com/artificial-intelligence/2020/04/google-maps-adds-deepmind-ai-to-calculate-your-arrival-time-more-accurately/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 17
 
 secured: "INtDJCNFXZxwDIc7ymhOrWzeChCDU/z83+XxJoJPS5weEiHmkhxbR4AXOKF/k5F+rDHSA+xjDzrgXZ7t3BCMh2z6HQvmYZDtSs5Ge5QO9X+6GVR4SPboJTT3uzlabxVt2yStxm9LYMk1mIQcj2xQbXbCqM0eghlDKvUqB0R3rDomBW0XrYD0qvhkdZflFMFZQk94khCD2xmgUIhwOD9tVt8heiRQ7malo0uX1jtf5+kPJBSXajJVh2MzEtq+kZ2I/ubBIvBbbQ0yzN/YxMYq/8Lp/Ona34pEfuy3rBsyeBCMDY9S2llRhX53fP+1car6df+HT2ZJsGcKLRDN4PphNG5yerZXjxnqMU4JCweuZT95y4rX4S29fuv7U/I1cvqKUDu5mcYofIBeftX4oB5XZPi3jkP8RnINcenbZH8wxBIdVxwa9MZFn9XxlxgPDImjGUWOEXwRHGPPyaUROzySXc38ir+v0I412PlDalPiz5UlRov8tCaKMZ8743SuQey4d4OObrpWiWB81JzB6WTzh+mcYqNkwy678NIPo7Eo53Y=;6isED3O/VgD+Jl7ZbZm5aA=="
 ---

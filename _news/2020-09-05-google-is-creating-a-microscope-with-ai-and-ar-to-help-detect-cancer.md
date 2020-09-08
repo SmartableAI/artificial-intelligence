@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/86645-google-creating-microscope-a
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Is Making an Augmented Reality Microscope for the DoD"
-    excerpt: "Google Cloud wins a Defense Innovation Unit (DIU) contract to improve cancer detection using artificial intelligence and augmented reality."
-    publishedDateTime: 2020-09-03T13:54:00Z
-    webUrl: "https://uk.pcmag.com/healthandfitness/128467/google-is-making-an-augmented-reality-microscope-for-the-dod"
-    ampWebUrl: "https://uk.pcmag.com/healthandfitness/128467/google-is-making-an-augmented-reality-microscope-for-the-dod?amp=1"
-    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/healthandfitness/128467/google-is-making-an-augmented-reality-microscope-for-the-dod?amp=1"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 74
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/g/google-is-/google-is-making-an-augmented-reality-microscope-for-the-dod_ygz6.620.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Google Working on Augmented Reality Microscope to Improve Cancer Diagnosis"
     excerpt: "In most cancer diagnoses, someone will at some point look through a microscope at a biopsy sample to confirm the presence of cancerous cells. Even pathologists who have been doing this for years can get it wrong occasionally."
     publishedDateTime: 2020-09-04T11:02:00Z

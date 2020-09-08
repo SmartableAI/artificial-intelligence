@@ -136,56 +136,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-07-global-artificial-intelligence-ai-chips-market-2020-to-2024-featuring-advanced-micro-devices-alphabet-apple-among-others.md",
-      "title": "Global Artificial Intelligence (AI) Chips Market (2020 to 2024) - Featuring Advanced Micro Devices, Alphabet & Apple Among Others",
-      "excerpt": "Dublin, Sept. 07, 2020 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) Chips",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-to-2024---featuring-advanced-micro-devices-alphabet-apple-among-others-2020-09-07-51843431",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-to-2024---featuring-advanced-micro-devices-alphabet-apple-among-others-2020-09-07-51843431",
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-07T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-07-why-the-secret-ai-sauce-behind-tiktok-is-such-a-vital-ingredient-in-luring-potential-buyers.md",
       "title": "Why the secret AI sauce behind TikTok is such a vital ingredient in luring potential buyers",
       "excerpt": "The recent Chinese policy change on exports may mean that a quick deal to sell TikTok’s US operations is now in doubt.",
@@ -939,6 +889,47 @@
       "provider": {
         "name": "From Software",
         "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-nvidias-monster-rtx-30-series-gpus-are-listed-with-twice-the-rumoured-core-count.md",
+      "title": "Nvidia's monster RTX 30-series GPUs are listed with twice the rumoured core count",
+      "excerpt": "Hsun Huang threw down the news we’ve all been waiting for—the official specs for the new 30-series Nvidia Ampere graphics cards. Nvidia has pulled up with the next step in the RTX revolution, promising AI powered acceleration with almost twice the performance-per-Watt of the Turing predecessors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/nvidia-ampere-30-series-announcement/",
+      "originalUrl": "https://www.pcgamer.com/nvidia-ampere-30-series-announcement/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/LTiBwMDLNWHiwwViu3LuDb-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/nvidia-ampere-30-series-announcement/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidia-ampere-30-series-announcement/",
+      "publishedDateTime": "2020-09-01T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
         "images": null,
         "publishers": null,
         "authors": null

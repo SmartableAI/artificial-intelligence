@@ -1,25 +1,24 @@
 ---
 category: news
-title: "FSS Launches Next Gen Recon with Machine Learning and Cloud Support"
-excerpt: "FSS, a leading payments technology company has launched Smart Recon platform with AI and ML capabilities. The platform provides an end-to-end, automated solution for reconciliation"
-publishedDateTime: 2020-09-07T17:14:00Z
-originalUrl: "https://indiaeducationdiary.in/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support/"
-webUrl: "https://indiaeducationdiary.in/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support/"
-ampWebUrl: "https://indiaeducationdiary.in/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support/?amp"
-cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support/?amp"
+title: "FSS launches next gen recon with machine learning and cloud support"
+excerpt: "The new system will leverage ML and automate manually intensive processes and improve the speed, accuracy, and the reliability of the payment reconciliation process"
+publishedDateTime: 2020-09-08T07:46:00Z
+originalUrl: "https://www.zawya.com/mena/en/press-releases/story/FSS_launches_next_gen_recon_with_machine_learning_and_cloud_support-ZAWYA20200908072430/"
+webUrl: "https://www.zawya.com/mena/en/press-releases/story/FSS_launches_next_gen_recon_with_machine_learning_and_cloud_support-ZAWYA20200908072430/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200908072430/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200908072430/"
 type: article
-quality: 41
-heat: 41
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: India Education Diary
-  domain: indiaeducationdiary.in
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AI in Finance
   - AI
-  - Machine Learning
 
 related:
   - title: "FSS Launches Next Gen Recon with Machine Learning and Cloud Support"
@@ -32,6 +31,6 @@ related:
       domain: businesswireindia.com
     quality: 4
 
-secured: "lx4xCqIPzCJRlJv+JVZQiK0+PQRr7G6/oLXeW1ojlVdkXIjUzGebL2TEw/7XP8+ZFCGjMrkwQbpSni6mwFbTWccLUdc9VDH3eGxde4BisU1wum+WObSMDxgmUwev7XjrcYchC9HwdSnt7jJEqqEo9Hz975t0AV1WR9um/drnpZcGCgSx+a1gO54vHiVpPqIluzxC3HFpHfHodPrUab7OQW+bW4ZK+LUO++KT7TWYiWQBTSsYD4zdYisQ2PwBJ28lMSgRxEGoIdYmd6cpTfaNMuFi9oysidA2zPNp53x6Lvo4sZuhDaTj1xjkqknMZb/jYtGTvwsuuuWtH4IRhuZcXTw3vjG7PA121UuS1JpPLDI=;h7twByv1lQ6UQGrB2UPgow=="
+secured: "4gGVK/0oMQLgc2EPxZwu8/L5bjvoX9ho1Fr7E0kALS7hRSo0TMdXmZeSvRWB7Ao0x21d5IwAqDdCQgGf96ZhNBl3JtnEOi0NtONWkofcP4V0/kQHhYZ51Ql9a7iFu69UXlVddyfRxm4QJjykZ0NqP1rA5FBcgQdiL8AT8jOPux0mF35UVkqaRjN2evguQFbmMie4SaHm12jgJznDoMuF5WbU78Q2Ybw6lpF0YYgnYgHHIu51zvDhBtQfnjf/hOWWqOKrUTZ3Ze6YTwW/s2SLyk7Py0eKHz1jHxWrDpiSSFPiIjdkR9oClC8B2g2kWUVVhdnpwsTB70Q0N6EvIryjIH9+S0cgc4jlLEYl0DmYmno=;smCCYYaeBX94ISgHackSFw=="
 ---
 

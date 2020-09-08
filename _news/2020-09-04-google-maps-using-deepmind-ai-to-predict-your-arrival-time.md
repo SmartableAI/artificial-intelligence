@@ -1,74 +1,32 @@
 ---
 category: news
 title: "Google Maps using DeepMind AI to predict your arrival time"
-excerpt: "Google has partnered with DeepMind, an Alphabet AI research lab, to improve the accuracy of its traffic prediction capabilities. \"Our ETA predictions already have a very high accuracy bar – in ..."
-publishedDateTime: 2020-09-04T09:58:00Z
-originalUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-webUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-ampWebUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
+publishedDateTime: 2020-09-04T05:21:00Z
+originalUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+webUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+ampWebUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - Google AI
   - AI
 
+images:
+  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/9/2020_9$largeimg_1012661407.jpg"
+    width: 900
+    height: 600
+    isCached: true
+
 related:
-  - title: "Google Maps is improving travel ETAs with DeepMind AI"
-    excerpt: "Google Maps helps users navigate over one billion kilometers in more than 200 countries and territories daily, and Google says its estimated time of arrival (ETA) predictions have been consistently accurate for over 97 percent of trips."
-    publishedDateTime: 2020-09-03T14:14:00Z
-    webUrl: "https://www.engadget.com/google-maps-deep-mind-ai-accuracy-140005698.html"
-    ampWebUrl: "https://www.engadget.com/amp/google-maps-deep-mind-ai-accuracy-140005698.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-maps-deep-mind-ai-accuracy-140005698.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=95&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1800%252C1200%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252Fb0b78f20-80e4-11ea-ad7b-99d4bc7d0814%26client%3Da1acac3e1b3290917d92%26signature%3D7710ab157ce1c73492be616e6e982875fd9c4ced&client=amp-blogside-v2&signature=69a553b53d39c0b9162403452839efda71a2de93"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "How Google Maps uses DeepMind’s AI tools to predict your arrival time"
-    excerpt: "Google Maps is one of the company’s most widely-used products, and its ability to predict upcoming traffic jams makes it indispensable for many drivers. Each day, says Google, more than 1 billion kilometers of road are driven with the app’s help."
-    publishedDateTime: 2020-09-03T14:12:00Z
-    webUrl: "https://www.theverge.com/2020/9/3/21419632/how-google-maps-predicts-traffic-eta-ai-machine-learning-deepmind"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/3/21419632/how-google-maps-predicts-traffic-eta-ai-machine-learning-deepmind"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/3/21419632/how-google-maps-predicts-traffic-eta-ai-machine-learning-deepmind"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 104
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/p8KWXd0ewEmX2DlNj2cyh-FLFOI=/0x0:3704x2469/1400x933/filters:focal(1556x939:2148x1531):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67347095/1211180776.jpg.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "DeepMind claims its AI improved Google Maps travel time estimates by up to 50%"
-    excerpt: "Alphabet's DeepMind collaborated with Google to improve the quality of local traffic predictions. It says ETAs are now up to 50% more accurate than before."
-    publishedDateTime: 2020-09-03T14:03:00Z
-    webUrl: "https://venturebeat.com/2020/09/03/deepmind-claims-its-ai-improved-google-maps-travel-time-estimates-by-up-to-50/"
-    ampWebUrl: "https://venturebeat.com/2020/09/03/deepmind-claims-its-ai-improved-google-maps-travel-time-estimates-by-up-to-50/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/deepmind-claims-its-ai-improved-google-maps-travel-time-estimates-by-up-to-50/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 100
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1208999497-e1599071823905.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 601
-        isCached: true
   - title: "Google Maps and DeepMind enhance AI capabilities to improve route calculations"
     excerpt: "It has been nearly 13 years since Google Maps started providing traffic data to help people navigate their way around, alongside providing detail about whether the traffic along the route is heavy or light,"
     publishedDateTime: 2020-09-04T01:08:00Z
@@ -85,21 +43,21 @@ related:
         width: 1055
         height: 554
         isCached: true
-  - title: "Google Maps partners with DeepMind to better predict the future of traffic"
-    excerpt: "So far, machine learning has improved the accuracy of real-time ETAs by up to 50% in cities around the world, the companies said."
-    publishedDateTime: 2020-09-04T16:22:00Z
-    webUrl: "https://www.techrepublic.com/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/"
+  - title: "Here's how Google Maps uses AI to predict traffic and calculate routes"
+    excerpt: "On Thursday, Google shared how it uses artificial intelligence for its Maps app to predict what traffic will look like throughout the day and the best routes it"
+    publishedDateTime: 2020-09-03T15:19:00Z
+    webUrl: "https://www.cnet.com/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-how-google-maps-uses-ai-to-predict-traffic-and-calculate-routes/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
+      name: CNET
+      domain: cnet.com
     quality: 87
     images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/05/20/0fcebbe7-67f1-4908-8260-32f1fef1e499/thumbnail/1200x675/33623cba36b7bd46e414c3e09f8616ce/beeah-cr-mir.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cnet3.cbsistatic.com/img/eCYPf_S81xRyqLpavRdSIhgcWnQ=/756x567/2019/12/04/d0f3c47a-94a4-4d44-a2c0-d122b83a02ff/google-maps-logo-phone.jpg"
+        width: 756
+        height: 567
         isCached: true
   - title: "Google Maps uses DeepMind AI to predict your arrival time"
     excerpt: "Google Maps is using AI machine learning models to predict whether the traffic along your route is heavy or light, an estimated travel time, and an estimated time of arrival (ETA)."
@@ -116,22 +74,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/3500x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/8de64d17-a6dd-516d-9248-68eb739d76c2&operation=CROP&offset=0x315&resize=3500x1969&webp=false"
         width: 651
         height: 366
-        isCached: true
-  - title: "Google Maps uses DeepMind's AI to come up with your ETA: Know details"
-    excerpt: "By partnering with DeepMind, Google has been able to cut the percentage of inaccurate ETAs even further by using an ML architecture known as Graph Neural Networks."
-    publishedDateTime: 2020-09-04T12:04:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-google-ai-for-eta-deepmind-647212"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-google-ai-for-eta-deepmind-647212"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-google-ai-for-eta-deepmind-647212"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 74
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/09/google-maps-1599221036.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "This is how Google Maps uses DeepMind AI to predict your arrival time; read here"
     excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
@@ -210,6 +152,6 @@ related:
         height: 601
         isCached: true
 
-secured: "zJ6Vk0O7AzWyQzb6rY57EiZIA2y5EkHzKlM57VtZbGQwU2tSbZXsel2YRVQZ/fL33n1OmKwwKsSxBgVsJCSnuGrtRnCx2tuNJxwrMIJ0Eqox2V6TMNz8eHhpxaFJRaAtljMGk1ziNVcGaRsmoi1xgNPeBcG5aAAjGQ60jIzkZVQUnFgyV8pDaEXMPTTwo2g1YRRRhJ1/TSFtNhOJx7kv0XY73ehLsADrxAmW7p5I3TAopZqlICvnwpf1jQfb/2H9BAXAL3eDXAYwdBgzKBbJOi2aTRXKyStNOu7l3jmUAz/pUn2k9B+OLRYjE+JmamAWe/R5Z1G6naXu5hRCRUYl1kO0d6d6AvxoYTQbjm1LQfU=;NYyrhTuyc6Y5jQBBj0hCOw=="
+secured: "TIvJq5Mc16I/oFfedB2BGMY72w0RoKl1Wi6p0UXJ8nOTKDyUnpz1idQEhbA2vFvNvd9WB2c3L1y3T8LufC1TeMH1wP2dLWbYUTUPhjkeDc3nV1z/XIwiIfSTrrxy9IFZ7asmrS4Wj7OzoZW7kv0eyWi5OU/NCPAxEjplKYZk1SJ2c1lGYH8s7G525QCyrbiwIzZQrLO4DbfEY1sLQLF9qLWOVo6zoVTFEhElWYQjPE1L3Rl4DFw9ThpDEJtJsnHVbdeHwq4CJ3eyWVPNPHwJ0UOu/8u6vbWahSgb20Jkj13D8g7q2e8VmI5/JJSSw6V27y1rmec08CCre0R9R9G1zY89M1mztR+kYWQXT07dzLw=;Ma/9XCvowWm1Cnrh1ckkPw=="
 ---
 

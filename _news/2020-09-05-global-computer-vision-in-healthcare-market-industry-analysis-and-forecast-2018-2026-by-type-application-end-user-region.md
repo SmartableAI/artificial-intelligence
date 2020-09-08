@@ -57,15 +57,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Artificial Neural Network Market 2020-2023 | Global Trends, Covid19 Impact, Growth Factors, Analysis, Research Report and Outlook"
-    excerpt: "Artificial Neural Network Market Synopsis According to Market Research Future Reports (MRFR), the global artificial neural network market is expected to"
-    publishedDateTime: 2020-09-03T15:15:00Z
-    webUrl: "https://www.medgadget.com/2020/09/artificial-neural-network-market-2020-2023-global-trends-covid19-impact-growth-factors-analysis-research-report-and-outlook.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "BN0uXf7BfYxoyjPgDZVQ910CP7bI6NAT8+zYOeOMcfstc/yRfR8S5hZtpoqwKATcQ4T7PaZyJLiZWweehyzOfJLqsb9SET74n6yA8JKCp3oNlHupuaGO56FhXiIC5zp2/dmIifnEjjAjpSf6vope0FpHOi6PCKKFAej+1idyexBId5uuODl1X4OOQ4V6deJ3XvUvHf2uHMm/cAXGJKvg/D7uMGozbs4KLlYyC2MXeWlJSqQ4vzQDwRmPi/CBGCFudwFK0XPUTl51icOnsv7RCtzLAuhUU+6nHRoScxTRmUhgv4UIn+tE8YwFSNry5hDqtX8V+D+BZu1mB1jUd3767w8cSuANjBD9YwutFEkqQEI=;LmiZdLupDTYl1e+n1tb5dQ=="
 ---

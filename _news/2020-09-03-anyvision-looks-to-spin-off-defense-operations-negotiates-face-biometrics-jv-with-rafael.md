@@ -52,36 +52,6 @@ related:
         width: 760
         height: 514
         isCached: true
-  - title: "T-Hub, Raytheon Technologies select 3 startup finalists for RTX Innovation Challenge in computer vision"
-    excerpt: "The Telangana government run incubator T-Hub and Raytheon Technologies, a global aerospace and defence company, on Thursday announced three."
-    publishedDateTime: 2020-09-03T14:15:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/india-business/t-hub-raytheon-technologies-select-3-startup-finalists-for-rtx-innovation-challenge-in-computer-vision/articleshow/77914294.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/india-business/t-hub-raytheon-technologies-select-3-startup-finalists-for-rtx-innovation-challenge-in-computer-vision/amp_articleshow/77914294.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/t-hub-raytheon-technologies-select-3-startup-finalists-for-rtx-innovation-challenge-in-computer-vision/amp_articleshow/77914294.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 43
-    images:
-      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Rafael, AnyVision shareholders in talks on facial recognition JV"
-    excerpt: "Israeli artificial intelligence driven computer vision company AnyVision are in advanced talks about setting up a joint venture in the military-defense sector. The new company would be jointly owned 50-50 by AnyVision's shareholders and Rafael."
-    publishedDateTime: 2020-09-03T13:36:00Z
-    webUrl: "https://en.globes.co.il/en/article-rafael-in-talks-with-anyvision-on-facial-recognition-jv-1001341588"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 39
-    images:
-      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/32E3CB40D76BD6BD8CBFB16E23FF2264_800x392.20180506T111644.jpg"
-        width: 800
-        height: 392
-        isCached: true
 
 secured: "su4dbRXMjhkqICcitIyUQaJ0t/sztpku4aymUTxx6Iw2wmBdyGQ0+NdJU3O3zYWnui1GJ1Gu59Jf7pzKjZOASNuZHdIZzWSmjCkMmpYGCvJHozcLl05vMl6A8eHnqWzFfUglVG2dyn3x6v09gnoNlyKoeCbNrAR+b6k/yMANoagLHi4YZkRaT5yhsRFLTEbmjmcuLVaq+sWZs91PKinVgzDDpEUtx6/4L9eqUVvYAYFkx8WfwCf2XOXdHay7+qoi/drSmS9mfDvDdtiUMw1yDqi9MpQbNaJ+87eV20wFH0wnbYZjuw6g0BsdDOIHvh0Acwqj1f1SY3fx9FZ62PPpxAN2RB+HW4U+pKEg9+5HJv4=;iszNfqlN2tVwpnvZBdx6xg=="
 ---

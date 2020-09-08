@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-fac
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03?amp"
 type: article
 quality: 69
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -36,36 +36,6 @@ related:
       - url: "https://www.geektime.com/content/images/2020/09/ANYVISION-1599206759.jpg"
         width: 760
         height: 514
-        isCached: true
-  - title: "T-Hub, Raytheon Technologies select 3 startup finalists for RTX Innovation Challenge in computer vision"
-    excerpt: "The Telangana government run incubator T-Hub and Raytheon Technologies, a global aerospace and defence company, on Thursday announced three."
-    publishedDateTime: 2020-09-03T14:15:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/india-business/t-hub-raytheon-technologies-select-3-startup-finalists-for-rtx-innovation-challenge-in-computer-vision/articleshow/77914294.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/india-business/t-hub-raytheon-technologies-select-3-startup-finalists-for-rtx-innovation-challenge-in-computer-vision/amp_articleshow/77914294.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/t-hub-raytheon-technologies-select-3-startup-finalists-for-rtx-innovation-challenge-in-computer-vision/amp_articleshow/77914294.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 43
-    images:
-      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Rafael, AnyVision shareholders in talks on facial recognition JV"
-    excerpt: "Israeli artificial intelligence driven computer vision company AnyVision are in advanced talks about setting up a joint venture in the military-defense sector. The new company would be jointly owned 50-50 by AnyVision's shareholders and Rafael."
-    publishedDateTime: 2020-09-03T13:36:00Z
-    webUrl: "https://en.globes.co.il/en/article-rafael-in-talks-with-anyvision-on-facial-recognition-jv-1001341588"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 39
-    images:
-      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/32E3CB40D76BD6BD8CBFB16E23FF2264_800x392.20180506T111644.jpg"
-        width: 800
-        height: 392
         isCached: true
   - title: "AnyVision looks to spin off defense operations, negotiates face biometrics JV with Rafael"
     excerpt: "Israeli defense contractor Rafael Advanced Defense Systems is in advanced negotiations to purchase ownership interest in AnyVision’s defense-oriented operations, Ctech by Calcalist writes. Rafael"
