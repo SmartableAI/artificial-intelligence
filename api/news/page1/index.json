@@ -42,7 +42,7 @@
       "webUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645",
       "originalUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645",
       "featuredContent": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -72,7 +72,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -83,7 +84,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/insights-on-the-iot-chip-in-healthcare-global-market-to-2025-key-drivers-and-restraints-1029567150",
       "originalUrl": "https://markets.businessinsider.com/news/stocks/insights-on-the-iot-chip-in-healthcare-global-market-to-2025-key-drivers-and-restraints-1029567150",
       "featuredContent": null,
-      "heat": 145,
+      "heat": 192,
       "tags": null,
       "images": null,
       "type": "article",
@@ -113,7 +114,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

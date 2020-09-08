@@ -35,7 +35,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 75
+    quality: 92
   - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2025"
     excerpt: "MarketsandResearch.biz has published a new report titled, Global Edge Artificial Intelligence (AI) Chip Market"
     publishedDateTime: 2020-09-07T20:21:00Z
@@ -98,6 +98,45 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 29
+  - title: "Global Artificial Intelligence Systems in Healthcare Market Current Trends 2020 | IBM, Brighterion, SAP, Microspft, Salesforce"
+    excerpt: "Global Artificial Intelligence Systems in Healthcare Market 2020 by Company, Type and Application, Forecast to 2025 is specialized and in-depth industry research dealing with all technical and profitable business outlook."
+    publishedDateTime: 2020-09-03T14:26:00Z
+    webUrl: "https://galusaustralis.com/2020/09/949580/global-artificial-intelligence-systems-in-healthcare-market-current-trends-2020-ibm-brighterion-sap-microspft-salesforce/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/949580/global-artificial-intelligence-systems-in-healthcare-market-current-trends-2020-ibm-brighterion-sap-microspft-salesforce/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/949580/global-artificial-intelligence-systems-in-healthcare-market-current-trends-2020-ibm-brighterion-sap-microspft-salesforce/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 26
+  - title: "Worldwide Social Robots Industry to 2025 - Featuring Intuition Robotics, Haapie SAS & Reach Robotics Among Others - ResearchAndMarkets.com"
+    excerpt: "The “Social Robots Market - Growth. Trends and Forecasts (2020-2025)” report has been added to ResearchAndMarkets.com’s offering. The Social Robots market is estimated to grow at a CAGR of about 14% over the forecast period 2020 to 2025."
+    publishedDateTime: 2020-09-03T13:35:00Z
+    webUrl: "https://apnews.com/7b7722170fa84e6da4e3cfabad4c1ecd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Global Artificial Intelligence Processor Market to 2025 - Profiling Apple, Huawei & MediaTek Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence Processor Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The Artificial Intelligence (AI) processor market was valued at US$71."
+    publishedDateTime: 2020-09-04T12:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200904005302/en/Global-Artificial-Intelligence-Processor-Market-2025--"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
+    images:
+      - url: "https://mms.businesswire.com/media/20200904005302/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Europe AI in Social Media Market, Forecast to 2025 with Profiles of 10 Leading Players Including Microsoft, Google, AWS, Adobe and Facebook"
     excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research."
     publishedDateTime: 2020-09-07T11:45:00Z

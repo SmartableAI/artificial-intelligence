@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problem
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/amp/"
 type: article
 quality: 200
-heat: 280
+heat: 270
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://skift.com/wp-content/uploads/2019/10/facial-recognition-delta.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Guangzhou Airport Rolls Out 'One ID' Facial Recognition Tech"
-    excerpt: "Guangzhou Baiyun International Airport has announced that facial recognition ID is operational on domestic routes."
-    publishedDateTime: 2020-09-03T06:07:00Z
-    webUrl: "https://www.thatsmags.com/china/post/31636/chinese-airport-rolls-out-facial-recognition-tech"
-    type: article
-    provider:
-      name: thatsmags.com
-      domain: thatsmags.com
-    quality: 54
-    images:
-      - url: "https://www.thatsmags.com/image/view/202009/scaled.jpg"
-        width: 704
-        height: 463
         isCached: true
   - title: "Dems Propose 5-Year Wait On Facial Recognition Technology"
     excerpt: "State legislators want a five-year moratorium on use of any system that would pair facial recognition or biometric surveillance systems on police body cameras. A.10913/S.6776 was introduced in the state Assembly and Senate recently by Assemblywoman Nathalia Fernandez,"

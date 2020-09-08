@@ -8,8 +8,8 @@ webUrl: "https://www.thedailystar.net/business/news/use-artificial-intelligence-
 ampWebUrl: "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645?amp"
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645?amp"
 type: article
-quality: 71
-heat: 81
+quality: 73
+heat: 83
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/natural-disasters.jpg?itok=avHIeykZ"
@@ -42,6 +43,6 @@ related:
         height: 548
         isCached: true
 
-secured: "O6n4U3qv8GPZpnk1PQ02O8wqyJxKflcrpLtz2DtJpGNzSW74CmNIu3tPMX1gR6Ki6ZmDek0d6LSmzA9utd7wK9gwsxnsjrhOfQHKmwdVxDYSnyIQEkrrOIGv78/lvRBoPG340iF4wKZRdgdaAJ1u7Ut0UhlROTcgHcM7iChEu+pRZEJvDYfoxNVTrWft+DOk0hqOVOfEmSR08qkXCPKsi9QQj8yAAyVNsdE7R1HKb++Kn3nZR8GVN3IlIL9EcTdvH67NodBzuKyTxj/Q8LM97jhfYgyr8RYu/ttk8520HRuK9sBIn2ijHWW0HDQHKkmERs9vl8ff/M8hb6lx6hIbWQndkZhpCgvmYTfTy1WL2ZE=;h5hyd1wxDRCGu3lhme6cxw=="
+secured: "demXYCciVxLREnhO/zuCg32c9cBCiWAyqgcdXIoYMh+Zv17YwNrFk8/yS4FX2bQ8Otq1ywVGHiyiuOFG85ZGPOqy4QIFsDH2WDCU2Lbrb+AKBMW7IhYQARhCzhlUAKMXJwAQD9BQC7yES5F9BpNymBHDOw5T5ciQY41+kb7K1umxXkphY0AIhS4mwENriNpcLuCtccXjdvib3T4d25+Nc+EAWXAXd6o7W5T9zZ+heIcrVsQGFvniKW1QKvcp5kGUr/7qEKc/t2ldAZ30PS2C9Ow1ahSnKsByUgvB9mufSu8fdhGJ+fFrG/pNuIUmyUbSdRTbkhArMJktrOl5dD9pwSpxw9TtGu5DbMwZX0pNLhLZuF7RbxVqQ4rZnOCp4PgIqYYCHLJreTiMmE8JTPtOsimfjcuoVkcA3Weapx/az2kiXfQ6G8CT5rq+Z20CDzTzD5+hdSvfTImg3TPO2WddnvKPJ5ozwEu82M6JfyxBrRtmS04GBnl1/mZoiIGPvCCCTw6H+9YAz9QGWmKbN7N07jRiu/A98WzxKVeTIHOFYwE=;ubEDI6/g/L8Gj5rK76Eywg=="
 ---
 

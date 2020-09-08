@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-07T20:41:00Z
 originalUrl: "https://github.com/australia/aboriginal-flag-cv-model"
 webUrl: "https://github.com/australia/aboriginal-flag-cv-model"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Google AI
 
 images:
   - url: "https://avatars3.githubusercontent.com/u/7444121?s=400&v=4"
@@ -24,6 +25,6 @@ images:
     height: 400
     isCached: true
 
-secured: "AuCWevXFXhYFgt/5X3wXBB8MYdIBRmJQBZiVZ/J/6e4jYZYNr3ORWjutAOQIxrF565xj1iqharupmJGPR/JSS9ltpxV7jSSq1YJU4/NfiqWMURLBYkoTnFK+0LBxkqoE1iba6HV1e+KlhsqSoNG2I1WTT4EHAaKKdXwGbhtS94AEiwmZKaHZYQCC9sC7URqKVQlFxxuknIYeG1nW7dg4RvxUxGX4vrB8oNeUijdNix0zyigQKA57dp5g2GjCmqc9TkLxrVqma0FLakth9fl/gkn5bypWT3y4UBCM8nRlaz9+qD52uD42zTkVhixprzAUNPCpHm2P1sFe/7QtN9/O+pOtg6ug6FkvI9QWiFqvLaI=;+L9PlfnU993DG7tA3mOcxQ=="
+secured: "+iAANvU9MxoJv9+W82l+JQRUHUhyfz63H3cYDo9GTgvUmS7QZuq0itlb7jJkwxZ9Oo+OqPqNDmxmCOGQx9vQxEs3cJUscK4WqREKUB1f2/HTUUERlWvgi0XQ3ISBtIww36ulUd2VFQE2Jn3L9nBSGQoacP3fDBFhGAHg0LdLqG8geZzC0V/I1z6H7dVrDzrwNEETTMaKp604Y9e4A+e6rJeSa7nvpOGIPIB6D66LUCfGjedxxrTKcUj+2SrCixVxiXLNAd1hrV4bfg+jTBBkTT9H8h4cp0QIci91G1H1fzy3zh2oo03AicLaJzusRYUyGXku7JPKyfwe2OYKeORFeQJjKgB6XLZ0uKJzheijCCPuCnDC0ZZNpkX8PNXuweej+bNTQXQy5qebbPFZkk9rHqMG0R+Tb10gTJ0RK8QM0CNe0yGKgOpaOPAQpTTuHumbwKrWDLfkdcToMzKGwWIWszm1POoRBnMVEOVVHld+9iM1nff24+1DMzQ0xXPpL5YxzctlgJdsreTFwPbdgNwQfR5aV5ZmRcDJZRsUmOnN4gI=;slmZquiRcHC78aB0KGf+dQ=="
 ---
 

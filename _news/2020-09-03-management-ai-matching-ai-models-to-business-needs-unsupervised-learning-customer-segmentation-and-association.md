@@ -38,7 +38,7 @@ related:
     provider:
       name: The Daily Star
       domain: thedailystar.net
-    quality: 71
+    quality: 73
     images:
       - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/natural-disasters.jpg?itok=avHIeykZ"
         width: 560

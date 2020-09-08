@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-28-map-out-financial-crime-with-machine-learning.md",
+      "title": "Map Out Financial Crime with Machine Learning",
+      "excerpt": "Discover a smarter risk based approach to fighting financial crime, powered by analytics from Oracle. Learn more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oracle.com/industries/financial-services/aml-and-financial-crime-compliance/machine-learning-aml-financial-crime.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.oracle.com/a/ocom/img/cc01-machine-learning-graph-analytics.jpg",
+          "width": 350,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oracle",
+        "domain": "oracle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-machine-learning-as-a-service-market-segmentation-growth-share-and-sizegoogle-inc-ibm-corporation-microsoft-corporation.md",
       "title": "Machine Learning as a Service Market Segmentation, Growth, Share and Size|Google Inc, IBM Corporation, Microsoft Corporation",
       "excerpt": "MarketResearch.Biz –: The recent report posted via MarketResearch.Biz on Machine Learning as a | eTurboNews | Trends | Travel News |",
