@@ -2,7 +2,7 @@
 name: "DefinedCrowd"
 overview: "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one."
 type: "profile"
-heat: 50
+heat: 65
 
 website: https://www.definedcrowd.com/
 
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "CVlNF4KoyrQjwRJlrvsczfO6p9JFo5irWB/mAbN3w3EJ3y0Sqla8JBml2HV3/o6zLit4nD+6CEl5KvZJD+Cvc9rImMAYLbJYqmnLuiFbHmSLm/TEK+Ur+vVEn6F6VKkj30TdTqCu4lT/up7vpL65KK6DwDxbCWt9Va06ptMvLVfWcnobDV49cXRjzPuHzomsPnEFqWCffyfss8a6hX60D8cN1WO2UKC1c3n8gM3bC0Wf/itXtJPXGpJ4Yr5lFwE6eT11T57GBO5fvq1FzR6/RiyXYR8RclvVYFjBEMvkEIJN2nFV1pYJBXoOOAKQBkKSPsg7/w6PEEt3FuvHXPXtuoEMOBCquLeE21AkGw5XH6hy8uEtaoZT61Y65RsnBvUpNV/qr5K4qEAMlpltVbCGGvU25baYrEYQh5XJdeut4o8=;ORQdkO5XKoO1k4sso2o01w=="
+secured: "YWpW5Ccp2GYbElzt93dBOMRtOz1H9i8B7c7BEOwYple7H8ycV3w34jAnqMOlPHeQRrTT8uWJeXrENmYykBALm04faMYxamAnQ3Y6o4YxfjdlkJBPr5fxdY2+AGvPaOZO/wN9/MajndQKXOWKumtHgUMmG9AtxxrKExbxpK64BfC9I1YrFP4EYWFSHlmSyanYenQCH/67r2zcpeXTOhaGcFHM1TWYldRJAtkXIGk5qUfqoVuQk9bDB6FgE4PuWEaHnIC8qJIiScZhB4fR2r3731sWl3iWQ+7/qDEf6OcI6/7FFxBK2QxxGjCXBeHqTk/WR1dzy5sJzEoBSEOKpAfowoKOzPrkUtGXjJ5BWmDlhYB6D+62FxSLUw0oG90THjn6U/0IyzlRiSHdHOxnHHDXvtT/6G1lGnoTIidTBJmtYkE=;rq4Niu9wYOpMME1hfgREYQ=="
 ---
 
