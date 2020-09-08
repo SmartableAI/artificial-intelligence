@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-se
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Daimler Trucks Tests Self-Driving Vehicles in US Southwest"
-    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics are expanding their testing of self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-    publishedDateTime: 2020-09-03T19:14:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest"
-    ampWebUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
   - title: "Daimler Trucks tests self-driving vehicles in New Mexico"
     excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics are expanding their testing of self-driving trucks to public roads in New Mexico along major long-haul freight routes."
     publishedDateTime: 2020-09-03T21:29:00Z
@@ -133,6 +122,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Nl8ts3u3qPOEp5iGE6ln6xUfmIWpKqJSj/O/0zc5DOYuipHSj5fJfElbiWgSWEaMSc7/u1tU4BxxryXKhCsregCzbRlrBwQFCnkoKIG1T8i8bEu6UXJMqAt6rFe0yX0ldcD/zm0c/wbaKO6WullwL6ekz2pXV9rWjgNddIkXluf3rokcWPfhS251uEwYhTBatXtJL/WDiCDsaIfHWh25XG0p72sOmKTj9LXGGsCxU95ADngq/X1zDqejasIhVKvnvfbfXbnswO90XNd9dve0oatXuTvSbsGRT5jMReDk0k4RHhXUXcCMjJrxlyf/iwmU5ftuxuJGSOKz9SRWsGIjbFgWXtmExQgql5K0YQsgpNU=;8cE7fuuYHgIvMS5znMXD/A=="
+secured: "SeQH36PZ3BWeZNSwoUbKpOeGgUXDTXoEAh51FUsXnDld1vGqQzA69vXwCDdFVn1q3gKJqpbhFO6UDpyJX89306TkoSNwuVVZRcMo4+xBRqHEtxTeeXvTZ47HL5ew9K6hZIeLj30LJZEN8LVgtny/qiX0xdPVfyaPZ6PaDqlDCdEdC34M0nxJiH5uHRSKmXbFY2UZHGdrzuOdmSg/os5AjiQFUqxxFwWbhV7u0M1giJ+rzH4fuaPdPDi7s9fwE2TANXV+4hsAv9pmGK8ZcsRWIraGdYX7yIUz44MvY1Jaba6jk0cIQfAuJet8dF/tkBENlm+eHbH1gjFglhVt8mZWwMuLzlgpG2/9dawCGxcg8wOuuq7+Jn9G5yfK5x09CFwmDQwZ3P6ZWiEHMiyEQKHHOOA0WG4zcaqbCYU9X/8tWuD+Jti9ZfMMVgX9Bk3hYELzl3URcdcre2Usne2mkxQl367wRjmi7b7FYxcdwPl2Fag21yoQ5PoZfluUAIvgZrui50muqqCjqLvmLEObBYdg5uuWf3fVMWFryPA7Zuomm5k=;xOedcReQR26CIT11QmQ2jg=="
 ---
 

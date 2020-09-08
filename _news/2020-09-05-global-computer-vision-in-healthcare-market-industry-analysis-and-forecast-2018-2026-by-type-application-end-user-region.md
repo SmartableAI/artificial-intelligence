@@ -127,19 +127,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI over Edge Computing Market 2020 Competitive Dynamics, Growth Analysis, Segmentation and Worldwide Players Strategies up to 2025"
-    excerpt: "An analysis report published by MarketsandResearch.biz entitled Global AI over Edge Computing Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is an in-depth study and detailed information regarding the market size,"
-    publishedDateTime: 2020-09-06T18:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-competitive-dynamics-growth-analysis-segmentation-and-worldwide-players-strategies-up-to-2025-2020-09-06"
+  - title: "AI in Computer Vision Market Research Report by Component, by Vertical - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "This research report categorizes the AI in Computer Vision to forecast the revenues and analyze the trends in each of the following sub-markets: Based on Component, the AI in Computer Vision Market studied across Hardware and Software."
+    publishedDateTime: 2020-09-08T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ai-in-computer-vision-market-research-report-by-component-by-vertical---global-forecast-to-2025---cumulative-impact-of-covid-19-301125367.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Global Artificial Intelligence Processor Market to 2025 - Profiling Apple, Huawei & MediaTek Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Artificial Intelligence Processor Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The Artificial Intelligence (AI) processor market was valued at US$71."

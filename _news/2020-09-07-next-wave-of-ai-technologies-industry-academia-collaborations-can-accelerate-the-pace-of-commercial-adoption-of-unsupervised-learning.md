@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/next-wave-of-ai-technolog
 webUrl: "https://www.prnewswire.com/news-releases/next-wave-of-ai-technologies-industry-academia-collaborations-can-accelerate-the-pace-of-commercial-adoption-of-unsupervised-learning-301125012.html"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     width: 800
     height: 419
     isCached: true
+
+related:
+  - title: "Content Moderation Solutions Market 2020 Is Booming Worldwide | Leading Key Players – Cogito, Microsoft Azure, Clarifai, Cognizant, Accenture"
+    excerpt: "The report provides a detailed assessment of the 'Global Content Moderation Solutions Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
+    publishedDateTime: 2020-09-08T02:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI over Edge Computing Market 2020 Competitive Dynamics, Growth Analysis, Segmentation and Worldwide Players Strategies up to 2025"
+    excerpt: "An analysis report published by MarketsandResearch.biz entitled Global AI over Edge Computing Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is an in-depth study and detailed information regarding the market size,"
+    publishedDateTime: 2020-09-06T18:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-competitive-dynamics-growth-analysis-segmentation-and-worldwide-players-strategies-up-to-2025-2020-09-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "IOhTIMttBM+IDpOgDZpGxO+sIqUhbzJYiLzgcByRtixkNaq+i0k8uHRGyMDMb7PiNUUMcg4OzXlhoDtUb8jNtcdDjtUBUJNiwkWmpPtT17r/CeblEidjqr7ASG/C11JA/3JtLlM0i2UmhRo1czYaRpiHXAeLfUmrVMtliYGymms/tNPrAW/kyKGBSDt624cWNB4kUX6hppvr5SOJ3rs7slA3w3sgK084BOGm4q3ocMYyaFNish4QJ5QLK9/s9d7MFHts+2BWCqk/u8P5v0EYAnz7p9C10fgMTcCsJSC3vP3ACHBmpLknoOGIEAwrHqbqjENufZuH3ar2veEvgtx+9MGCx+uBO+q7svMZVPxZHrqm5wv1px40j0fYbqAQcTE/I6zGcVrnDvah0A4bj1cbaQqqwf+jEwnT4mR5q5TzdPherZwjpRjDZt1JVXQcORLru7beuRLOviOft0+PfddnhZfYW31+n4OtzPc4ju7eg0pbRVzrhM1KywE1MUtiQVquwTvJhRYigcXf5lOIukxlOPG60cDyqseldjEmeqlAWKc=;PqHP7R4YW49JLlzYOOpjXQ=="
 ---

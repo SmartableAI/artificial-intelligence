@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/ai-startup-hypatos-pitch-deck-fund
 webUrl: "https://www.businessinsider.com/ai-startup-hypatos-pitch-deck-funding-2020-9"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Insider
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "BoostUp just used this pitch deck to raise $6.3 million to help businesses use AI to predict revenue and customer behavior"
+    excerpt: "BoostUp's platform uses AI to help businesses analyze massive amounts of data, including emails, Zoom calls and social media posts."
+    publishedDateTime: 2020-09-08T12:26:00Z
+    webUrl: "https://www.businessinsider.com/boostup-ai-startup-funding-revenue-intelligence-platform-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+    images:
+      - url: "https://i.insider.com/5f5168ffe6ff30001d4e7018?width=600&format=jpeg&auto=webp"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Check out the pitch deck that AI sports app Mustard just raised $1.7 million to bring elite-level baseball pitching coaching to school kids"
     excerpt: "The AI tech is also proving popular at the professional level, with some Major League Baseball organisations expressing interest says Mustard."
     publishedDateTime: 2020-09-04T11:07:00Z

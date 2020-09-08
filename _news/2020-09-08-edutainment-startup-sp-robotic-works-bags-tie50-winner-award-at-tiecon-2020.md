@@ -1,31 +1,31 @@
 ---
 category: news
-title: "Edutainment Startup SP Robotic Works Bags TiE50 Winner Award at TiEcon 2020"
-excerpt: "Pioneering as India’s edutainment learning platform, SP Robotic Works has been selected as a 2020 TiE50 Winner in the prestigious TiE50 Awards Program. This ten-year-old awards"
-publishedDateTime: 2020-09-08T11:02:00Z
-originalUrl: "https://indiaeducationdiary.in/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020/"
-webUrl: "https://indiaeducationdiary.in/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020/"
-ampWebUrl: "https://indiaeducationdiary.in/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020/?amp"
-cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020/?amp"
+title: "Edutainment startup SP Robotic Works bags TiE50 Winner Award at TiEcon 2020"
+excerpt: "Pioneering as India's edutainment learning platform, SP Robotic Works has been selected as a 2020 TiE50 Winner in the prestigious TiE50 Awards Program. This ten-year-old awards competition is"
+publishedDateTime: 2020-09-08T12:30:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020-120090801411_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020-120090801411_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020-120090801411_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020-120090801411_1.html"
 type: article
 quality: 72
 heat: 72
 published: true
 
 provider:
-  name: India Education Diary
-  domain: indiaeducationdiary.in
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/09/unnamed-2.jpg?fit=2048%2C1536&ssl=1"
-    width: 2048
-    height: 1536
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/08/full/20200908170816.jpg"
+    width: 600
+    height: 450
     isCached: true
 
-secured: "C9UhRaq9blIAkM+P4alchMb3JXCPTvUOaClJMwzHA8/xz1WjG1FexbwnsGJ0FAjQ/8M3nNt8eNK+uKG4jWINpq646uhtXOrCp+2Mu7OZtyjak1MVKLQQCmI3si3A5u4FD0z5xMKudT/nlTQLwYkSnjyZaVrPE1WivTzd/pA03DYilC4480vBKbNGS9tdu+BkHS8M5VE4PoVZYLFt5MoYKoLOh0tfQvxVHgtkbEnHHmtocqPyLOCHtMCwP3xlVGvn8HUMgB05cbRzkyPELOA/Y+evJW2ntdrM1VrzVlbtjz587h7w3t4FEeoQk1hZ/WCE8IjV8T+L/iRsSaLaM3nORLavW9N1gr8oP7mAXkqcRqM=;KQm8pIi2Bm9eGKOuUCjfwQ=="
+secured: "3VOohV7WifzIT7ZfpP6qL6fMWvrmJKgKI3OGTQwwWj7GFgMTDHUcdprf8oeHAqC2MRRoHHDFFvryDnwIqvb/yJOlSqFj9NRBkGkJ96Sfs+SBX7t1V+5RJV1XthTCj0Qz9lN0168Z+RihAhJs1Rrnj0ci5YrLoLJxm92tOvmMyLKFn3y/sTyD883TpWEUxFbbWZl3j4ERdJvSwEZcL7rINLRmt308/lbKZkyypq3KdAduiCrcV12odZ7LTBYfZ92GAOhe9/o6wFWDEIn5xqdokxcnrxYqOgZz/31Ua+/+Une4tjpSsjNgE1utL0ZiwXmU7wxnJ9TqAtpe7PMBWOZEJjGQvW0FHT1wccmlm+Cnq60=;iBmCqcRw6SjvKz/oxBW0oA=="
 ---
 

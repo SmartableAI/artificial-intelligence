@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning in Retail Market Detailed Analysis Report by Market Dynamics, Size, Growth, Covid-19 Impact and Forecast to 2024"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning in Retail"
+    publishedDateTime: 2020-09-08T13:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-retail-market-detailed-analysis-report-by-market-dynamics-size-growth-covid-19-impact-and-forecast-to-2024-2020-09-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Explore Trends and COVID-19 Impact on Russia and NATO Artificial Intelligence in Military Market 2020 Research Report and Industry Forecast till 2026"
     excerpt: "Pages PDF Report] Facts & Factors (FnF) published a market research report on “Russia and NATO Artificial Intelligence in Military Market: By Size, Share, Growth Factors, Top Players, COVID-19 Analysis and Forecast,"
     publishedDateTime: 2020-09-07T11:02:00Z

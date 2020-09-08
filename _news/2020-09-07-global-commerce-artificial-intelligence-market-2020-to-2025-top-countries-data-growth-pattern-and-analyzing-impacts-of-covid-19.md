@@ -114,20 +114,6 @@ related:
         width: 435
         height: 279
         isCached: true
-  - title: "Global AI over Edge Computing Market 2020 Competitive Dynamics, Growth Analysis, Segmentation and Worldwide Players Strategies up to 2025"
-    excerpt: "An analysis report published by MarketsandResearch.biz entitled Global AI over Edge Computing Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is an in-depth study and detailed information regarding the market size,"
-    publishedDateTime: 2020-09-06T18:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-competitive-dynamics-growth-analysis-segmentation-and-worldwide-players-strategies-up-to-2025-2020-09-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Computer Vision in Healthcare Market: Industry Analysis and Forecast (2018-2026) – by Type, Application, End User, Region."
     excerpt: "Global Computer Vision in Healthcare Market was valued US$ 200 Mn in 2017 and is expected to reach US$ 3450.3 Mn by 2026, at CAGR of 42.76% during forecast period. Growth of computer vision in healthcare market is driven by the increasing demand for computer vision systems in healthcare industry,"
     publishedDateTime: 2020-09-05T02:44:00Z
@@ -143,6 +129,20 @@ related:
       - url: "https://www.maximizemarketresearch.com/wp-content/uploads/2019/03/Global-Computer-Vision-in-Healthcare-Market-by-Region.png"
         width: 729
         height: 320
+        isCached: true
+  - title: "AI in Computer Vision Market Research Report by Component, by Vertical - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "This research report categorizes the AI in Computer Vision to forecast the revenues and analyze the trends in each of the following sub-markets: Based on Component, the AI in Computer Vision Market studied across Hardware and Software."
+    publishedDateTime: 2020-09-08T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ai-in-computer-vision-market-research-report-by-component-by-vertical---global-forecast-to-2025---cumulative-impact-of-covid-19-301125367.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Global Artificial Intelligence Processor Market to 2025 - Profiling Apple, Huawei & MediaTek Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Artificial Intelligence Processor Market - Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The Artificial Intelligence (AI) processor market was valued at US$71."

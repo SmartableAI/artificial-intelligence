@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/article/how-diffblue-uses-ai-to-automate-u
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2017/06/15/ddccb0d6-7eee-4b5b-b55e-7195ed76fe03/resize/1200x/aef4190f2e6a01d273c61a78be51e83f/aijobs.jpg"
@@ -29,17 +30,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Diffblue Launches World's First AI-Powered Automated Java Unit Testing Solution with Free Community Edition for Developers"
-    excerpt: "Up to 100x faster than writing manual tests, built on a decade of artificial intelligence by (AI) researchers from the University of Oxford and backed by Goldman Sachs OXFORD, United Kingdom, Sept."
-    publishedDateTime: 2020-09-08T10:41:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50644124-diffblue-launches-world-s-first-ai-powered-automated-java-unit-testing-solution-with-free-community-edition-for-developers-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
-
-secured: "e/p6bOtYIPJ00JwV5RNXxhk6QwLt2HE0Q0O4zTsHOeBmVFrd0I9PXatwvikiCUnpbqHEuf/0KQfyUGz0t9YeRVIe8K3y4itOo2fa8hgWuOG4yphl/fuTyZBcGFgmgNScFcY9m4DZDMt185h589V5eXvxBc2CDEW+Wg8IikWug2GbRrJ7fN5tHrHMKmIH89eHAodyUFPKaxS2p7/A1pj5G47+BCXXgvfiA+TRgsXJ2vB33DfOQ+quK+kZRXDri+Dij85rOOftln4QEGJvgr037W3B8aIr5QvOePWvgj3W6w49zW9jiKm9L5lGUW/ntv2iOR4xHIlDLoEIDonbCjQcR9yZ10Gu8rNJxymo014BBxE=;JOlFUU6HQ4drqjNj3GJisQ=="
+secured: "tjcVhM73sTve4z8+kz2q97ZLXMS4QL60BeSYxlEKprCorp56LnolLYVg+GmtnzMYS+b+mG9oTDZXkdFvbAEgPc/ljdxaK4hYf/r4qYcoEtDjcNGcjP4sxGiLw4Rg3uA0vCRUdwbVvYveVDt9YlyjGRilhKt173eHUg/X9yrCebn4A8jpj6j4Tpp3MGeqA+oSYM/rAhCZxhDjrVAmih2TzLVP4/Uu+UQOEb1QNVElUbJG5B71M09c6jhz1dfZ3Ye+UNHvZexiIjQozOUvi4hH0hXQRgjUNQTzyQs4wcYX8NsGxliAjKi+Fig1OBoaPmmHQXxoHoB2qx/dovIwGWkkH0YeVB+14Zdl8xC+zzyMmQja4IaWZI0FtTt0FT8MoVJgDLOz83XIZtNCQSaCU5trIblhxDHHWVIw94yYr4O0Bq/EvSwI8C/jN7mWSBjmpciCuJdXZ2o6mLiMtljp1h6Z3OIZAJJcmM2dnhtTS24Uo3P0pVV0uRzRfqSG6En57BgPQQP+Fgx14yFNoU5CYTHbMANogkvgkFlTd6AvwZoIC1k=;y5WhaJNHJ3T642tSA6p1Ow=="
 ---
 
