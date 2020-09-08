@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/autonomous-vehicles-2025.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicles-2025.amp"
 type: article
 quality: 74
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -42,36 +42,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fb9984ac0-ee63-11ea-aefb-1134a8e15673&client=amp-blogside-v2&signature=eda3d9ab26329a0b8c9a76562e4c0b08cd3df60d"
         width: 600
         height: 350
-        isCached: true
-  - title: "China opens 5G-covered road for testing of self-driving cars"
-    excerpt: "A 5G-covered road for testing self-driving cars was formally opened in Baohe District of Hefei City, east China’s Anhui Province on Thursday"
-    publishedDateTime: 2020-09-03T10:57:00Z
-    webUrl: "https://www.vanguardngr.com/2020/09/china-opens-5g-covered-road-for-testing-of-self-driving-cars/"
-    ampWebUrl: "https://www.vanguardngr.com/2020/09/china-opens-5g-covered-road-for-testing-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/09/china-opens-5g-covered-road-for-testing-of-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 44
-    images:
-      - url: "https://i2.wp.com/www.vanguardngr.com/wp-content/uploads/2020/09/5b70f609a310add1c6967fc3.jpeg?fit=1198%2C799&ssl=1"
-        width: 1198
-        height: 799
-        isCached: true
-  - title: "China's Anhui opens 5G-covered road for testing self-driving cars"
-    excerpt: "HEFEI (Xinhua): A 5G-covered road for testing self-driving cars was formally opened in Baohe district of Hefei city, East China's Anhui province Thursday (Sept 3), welcoming the first batch of passengers."
-    publishedDateTime: 2020-09-03T10:47:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2020/09/03/china039s-anhui-opens-5g-covered-road-for-testing-self-driving-cars"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/09/03/845506.jpeg"
-        width: 640
-        height: 426
         isCached: true
   - title: "Yandex, Uber to spin off self-driving unit of JV"
     excerpt: "Yandex and Uber Technologies Inc. will spin off the self-driving car unit of their joint venture into a separate company, giving Yandex more control over the businesses and paving the way for new investors."

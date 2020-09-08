@@ -57,36 +57,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "China opens 5G-covered road for testing of self-driving cars"
-    excerpt: "A 5G-covered road for testing self-driving cars was formally opened in Baohe District of Hefei City, east China’s Anhui Province on Thursday"
-    publishedDateTime: 2020-09-03T10:57:00Z
-    webUrl: "https://www.vanguardngr.com/2020/09/china-opens-5g-covered-road-for-testing-of-self-driving-cars/"
-    ampWebUrl: "https://www.vanguardngr.com/2020/09/china-opens-5g-covered-road-for-testing-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/09/china-opens-5g-covered-road-for-testing-of-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 44
-    images:
-      - url: "https://i2.wp.com/www.vanguardngr.com/wp-content/uploads/2020/09/5b70f609a310add1c6967fc3.jpeg?fit=1198%2C799&ssl=1"
-        width: 1198
-        height: 799
-        isCached: true
-  - title: "China's Anhui opens 5G-covered road for testing self-driving cars"
-    excerpt: "HEFEI (Xinhua): A 5G-covered road for testing self-driving cars was formally opened in Baohe district of Hefei city, East China's Anhui province Thursday (Sept 3), welcoming the first batch of passengers."
-    publishedDateTime: 2020-09-03T10:47:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2020/09/03/china039s-anhui-opens-5g-covered-road-for-testing-self-driving-cars"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/09/03/845506.jpeg"
-        width: 640
-        height: 426
-        isCached: true
   - title: "Self-driving restaurant-on-wheels brings food trucks into the future"
     excerpt: "The food truck can go where it experiences the highest demand, and can serve as many customers as possible while instituting a safe, social distancing policy. The Streat builds on that idea with an autonomous,"
     publishedDateTime: 2020-09-06T21:00:00Z

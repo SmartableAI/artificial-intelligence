@@ -9,8 +9,8 @@ ampWebUrl: "https://www.travelandleisure.com/airlines-airports/airport-tsa-facia
 cdnAmpWebUrl: "https://www-travelandleisure-com.cdn.ampproject.org/c/s/www.travelandleisure.com/airlines-airports/airport-tsa-facial-recognition-self-service?amp=true"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Travel + Leisure
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition technology for pets is launched in Atlanta"
+    excerpt: "In addition to Finding Rover, LifeLine has implemented a \"Lost & Found\" matchmaking program where they check pets reported as lost against those in shelters daily. A new Lost2Foun"
+    publishedDateTime: 2020-09-08T03:25:00Z
+    webUrl: "https://www.11alive.com/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
+    ampWebUrl: "https://www.11alive.com/amp/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 59
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/32fcf5e8-6a95-445f-86b8-a7f69f97af91/32fcf5e8-6a95-445f-86b8-a7f69f97af91_750x422.png"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Facial recognition technologies see significant advancements"
     excerpt: "Despite some of the negative connotations associated with the technology, facial recognition has merit across many security applications"
     publishedDateTime: 2020-09-03T16:21:00Z
@@ -40,20 +56,6 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/09/GettyImages_913641954.5f4fdc9f8b8b1.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "IPC and GreenKey Technologies Launch Dictation as a Service"
-    excerpt: "Dictation as a Service brings together GreenKey Technologies' industry-leading cloud-based speech recognition (automatic speech recognition) and natural language processing (NLP) engine with IPC's unparalleled Connexus Cloud financial ecosystem."
-    publishedDateTime: 2020-09-03T13:20:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ipc-and-greenkey-technologies-launch-dictation-as-a-service-301123920.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/741264/GreenKey_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
         isCached: true
 
 secured: "HPWZs0fdFkOEbIhqoV9KqSTOXjKoxBeHCM2Hfqu9YpAGR7BdvQdwUOSNSuLDRim7/a5gJil1pNPiMS2KsyxRA1eRKGJyNc4wn7uSWZX85ja+T/zLB4QQUgRLfzWZNMptmK79g8rNGnPWa5IXC8cHpHfevvYyrzceULUMdzZ2rTuFNkXA7mTAfbQr17wq9O8/H8a/etkZ+NwqKAVFTdIcUcU8rx0EDbpzMyUgVBrmq0AroAgvWbchlelnK+3m0+DeGNS+1gneY30eIVHU/Gl/Obmx7xPnP35+Ddy6euoVcJqamxxThrqSbxWUF3n9b0idqt1/4/sqph2U3SPtBdevUmFBvyAhw418VJFV+jJLMDhezqmOmQFJFcG1wf1sJUMbIyZzaWsFg429ld05wdShoHA4G2onb6QWCCYH0ny8nXe1FQa4suXwYX0D37teNUOfgU6neGFBegK7wuVCxRrsUceIXTBS9zg10shsWBMYyIb6zk35dqUXzVyewSEPtKjdi1UZ1U2IG8w5xc8hszRguLZab6HxM52cpdJH4ofJWT8=;PVN/lZ4iQT74llKsGpWpGg=="

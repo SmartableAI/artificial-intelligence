@@ -9,8 +9,8 @@ ampWebUrl: "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-fo
 cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Vanguard
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NITDA plans centre for artificial intelligence, robotics"
-    excerpt: "In an effort to achieve a robust digital economy, the National Information Technology Development Agency, (NITDA) is set to establish a Centre for Artificial Intelligence and Robotics in Nigeria (CFAIR)."
-    publishedDateTime: 2020-09-03T10:14:00Z
-    webUrl: "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206"
-    ampWebUrl: "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206/amp"
-    cdnAmpWebUrl: "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206/amp"
-    type: article
-    provider:
-      name: TODAY
-      domain: today.ng
-    quality: 89
-    images:
-      - url: "https://www.today.ng/wp-content/uploads/2017/08/NITDA.jpg"
-        width: 700
-        height: 500
-        isCached: true
   - title: "NITDA set to establishment centre for Artificial Intelligence, robotics"
     excerpt: "In a bid to achieve a robust digital economy, the NITDA is set to establish a Centre for Artificial Intelligence and Robotics."
     publishedDateTime: 2020-09-03T13:32:00Z

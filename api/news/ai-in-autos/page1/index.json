@@ -252,48 +252,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-04-iit-delhi-pg-and-phd-programmes-at-school-of-artificial-intelligence-scai-will-begin-january-2021.md",
-      "title": "IIT Delhi: PG and PhD Programmes at School of Artificial Intelligence (ScAI) will begin January 2021",
-      "excerpt": "IIT Delhi has set up an independent School of Artificial Intelligence (ScAI) on its campus. The AI school will commence its Ph.D. program from the next admission cycle, i.e. January 2021. IIT Delhi also plans to offer postgraduate (PG) degree courses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ciol.com/iit-delhi-pg-phd-programmes-school-artificial-intelligence-scai-will-begin-january-2021/",
-      "originalUrl": "https://www.ciol.com/iit-delhi-pg-phd-programmes-school-artificial-intelligence-scai-will-begin-january-2021/",
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ciol.com/wp-content/uploads/2020/08/IIT-Delhi.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ciol.com/iit-delhi-pg-phd-programmes-school-artificial-intelligence-scai-will-begin-january-2021/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/iit-delhi-pg-phd-programmes-school-artificial-intelligence-scai-will-begin-january-2021/amp/",
-      "publishedDateTime": "2020-09-03T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-09-04-daimler-trucks-tests-self-driving-vehicles-in-us-southwest.md",
       "title": "Daimler Trucks Tests Self-Driving Vehicles in US Southwest",
       "excerpt": "Daimler Trucks and allied vehicle software company Torc Robotics are expanding their testing of self-driving trucks to public roads in New Mexico along major long-haul freight routes.",
@@ -342,7 +300,7 @@
       "webUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
       "originalUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
       "featuredContent": null,
-      "heat": 124,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1364,6 +1322,38 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-22-better-buy-alphabet-vs-facebook.md",
+      "title": "Better Buy: Alphabet vs. Facebook",
+      "excerpt": "Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) and Facebook (NASDAQ: FB) are the top two companies in the digital ad space. One dominates internet search, while the other holds domain in the social media sphere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/better-buy%3A-alphabet-vs.-facebook-2020-08-22",
+      "originalUrl": "https://www.nasdaq.com/articles/better-buy%3A-alphabet-vs.-facebook-2020-08-22",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/better-buy%3A-alphabet-vs.-facebook-2020-08-22?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/better-buy%3A-alphabet-vs.-facebook-2020-08-22?amp",
+      "publishedDateTime": "2020-08-22T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

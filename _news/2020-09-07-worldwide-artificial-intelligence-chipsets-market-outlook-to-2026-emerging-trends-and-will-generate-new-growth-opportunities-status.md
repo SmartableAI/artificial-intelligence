@@ -42,29 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fintech Market Innovations, Technology Growth and Research 2020 to 2025"
-    excerpt: "The report provides a detailed assessment of the 'Global AI in Fintech Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape, deployment models,"
-    publishedDateTime: 2020-09-03T09:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-innovations-technology-growth-and-research-2020-to-2025-2020-09-03"
+  - title: "Global Artificial Intelligence (AI) in Insurance Market 2020 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2025"
+    excerpt: "The new research report entitled, Global Artificial Intelligence (AI) in Insurance Market 2020 by Company, Type"
+    publishedDateTime: 2020-09-07T20:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-2020-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2025-2020-09-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI-Based Fever Detection Camera Market 2020 Trend By Products And End Users, Forecast Till 2026 | Fortune Business Insights™"
-    excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe global AI-based"
-    publishedDateTime: 2020-09-03T10:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2020-trend-by-products-and-end-users-forecast-till-2026-fortune-business-insightstm-2020-09-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

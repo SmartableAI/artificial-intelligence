@@ -9,8 +9,8 @@ ampWebUrl: "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-
 cdnAmpWebUrl: "https://www-yorkshirepost-co-uk.cdn.ampproject.org/c/s/www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Yorkshire Post
@@ -42,6 +42,20 @@ related:
       - url: "https://www.belfasttelegraph.co.uk/news/uk/167a1/39512586.ece/AUTOCROP/w1240h700/bpanews_625ec148-2837-46ca-8430-14de28480585_1"
         width: 1240
         height: 700
+        isCached: true
+  - title: "Talking Robots could be used in UK care homes to ease loneliness and improve mental health"
+    excerpt: "Robots could be used in care homes after a study found they can improve mental health and have the potential to reduce loneliness in vulnerable older people."
+    publishedDateTime: 2020-09-08T02:27:00Z
+    webUrl: "https://www.manxradio.com/news/uk-news/talking-robots-could-be-used-in-uk-care-homes-to-ease-loneliness-and-improve-mental-health/"
+    type: article
+    provider:
+      name: Manx Radio
+      domain: manxradio.com
+    quality: 29
+    images:
+      - url: "https://e3.365dm.com/20/09/640x380/skynews-pepper-robot-care-home_5090092.jpg?20200908015116"
+        width: 640
+        height: 380
         isCached: true
 
 secured: "+JpbtqRWJMDXAmpZZEz42xfB1tZYYAa5pANAjuM725IIRVilcSZTdywA8bJrzr4rMx5nZvrQKmAE6b+cME2jGBrhpTnCusDw7tucDZa4wpMHkUnm4ayS0N1AxYxeRq7Rnhfs14JSIqYawdDkQEkdxHrGPxqTFhVjuemD5N9BWaRdVsi0BrbOX5MbmnnluJXAiGgA3tw+3mh10Fvrx2o4WBgLQyAUTHxChHPv0BiVOu91jr4iQ+zn5Z0QhsVkBe/jmY09ciqatrQRVq+WEtO0GloLnvnujVDxgpV4LrQOg3OS0DEgDThj6Kfq2suJbtugNMvQIhqrYdz1oxk+cpq4pdLyfp9tLU53z4n/2wBzEaQ=;0QEcK5seLtKg2N8O7yBDZg=="

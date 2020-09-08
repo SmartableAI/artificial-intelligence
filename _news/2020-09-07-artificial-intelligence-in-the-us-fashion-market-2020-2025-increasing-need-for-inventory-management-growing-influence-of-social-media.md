@@ -24,15 +24,34 @@ topics:
   - AI
 
 related:
-  - title: "United States AI in Fashion Market Report 2020-2025 - Analysis by Component, Deployment Mode, Category, Application, End User and Region"
-    excerpt: "The \"United States AI in Fashion Market By Component (Solutions and Services), By Deployment Mode (Cloud v/s On-Premises), By Category (Apparel, Accessories, Beauty & Cosmetics, Others), By Application,"
-    publishedDateTime: 2020-09-03T09:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/united-states-ai-in-fashion-market-report-2020-2025-analysis-by-component-deployment-mode-category-application-end-user-and-region-1029559066"
+  - title: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
+    excerpt: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation Demand Growth Trend Opportunity and Forecast to 2026"
+    publishedDateTime: 2020-09-04T06:29:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266296215/global-artificial-intelligence-in-the-medical-imaging-market-2020-segmentation-demand-growth-trend-opportunity-and-forecast-to-2026"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 16
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 7
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1599177222136.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Europe AI in Social Media Market, Forecast to 2025 with Profiles of 10 Leading Players Including Microsoft, Google, AWS, Adobe and Facebook"
+    excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research."
+    publishedDateTime: 2020-09-07T11:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 5
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "4NHL/+DsxJ8D2ZtI4BNdeHpEOI/RVMZWjSMeMq9TkZBBAlYXAaY1wMNjd5aWtNv0FvRU38xV+0TMyzw//N6ZNuaaln7akC1Ejb4UjEW8yRsheK9KYvs9T8n73h2P9rPX2p9KrNKmHjxNteLpwKh3xVr9xlWiJgZDZmHj0osFwgjRYlTtjZbloMXHPQMlqX3w5enm4pER/2zxmfbcbWO/mAWx9oyS3E1amYxg/kN/st4NPnDKlS3PZ62fiJnbU1iILqe6e2pVzsmG8OJsSjVVnJ6nn7v7SXg8F57HU2H0SXOWjBy9FqwssmYPsjCVB59JHKNNqOfffq8+8xRUKEKmVDkQN8UlOWyvgT06tA4txg0=;2IQ2ekiVQVfUMt0qHgeRxQ=="
 ---

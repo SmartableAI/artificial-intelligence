@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-to-
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-to-see-remarkable-growth-by-2025-amazon-web-services-inbenta-technologies-ipsoft-2020-09-07"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence AI in Medical Market to Undertake Strapping Growth at CAGR of the End 2026 | IBM, Intel, Microsoft, SAP"
-    excerpt: "The research report focuses on target groups of customers to help players to effectively market their products and achieve strong sales in the global Artificial Intelligence AI in Medical market. It someone useful and relevant market information as per the business needs of players."
-    publishedDateTime: 2020-09-03T10:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-to-undertake-strapping-growth-at-cagr-of-the-end-2026-ibm-intel-microsoft-sap-2020-09-03?mod=mw_quote_news"
+  - title: "Artificial Intelligence in Construction Market 2020 Strategic Assessment – Alice Technologies, Askporter, SAP, Coins Global, IBM"
+    excerpt: "The Artificial Intelligence in Construction Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
+    publishedDateTime: 2020-09-05T04:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2020-strategic-assessment-alice-technologies-askporter-sap-coins-global-ibm-2020-09-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
