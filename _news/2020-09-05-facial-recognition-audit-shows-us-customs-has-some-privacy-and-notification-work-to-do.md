@@ -25,6 +25,31 @@ images:
     isCached: true
 
 related:
+  - title: "CBP doesn’t consistently notify air travelers about facial recognition tech use, privacy: GAO"
+    excerpt: "Customs and Border Protection (CBP) is not consistently notifying travelers about its use of facial recognition technology or privacy options in US airports, according to the Government Accountability Office (GAO)."
+    publishedDateTime: 2020-09-08T18:02:00Z
+    webUrl: "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/"
+    ampWebUrl: "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/amp/"
+    cdnAmpWebUrl: "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/amp/"
+    type: article
+    provider:
+      name: The Sociable
+      domain: sociable.co
+    quality: 63
+    images:
+      - url: "https://sociable.co/wp-content/uploads/2020/09/cbp.jpg"
+        width: 640
+        height: 373
+        isCached: true
+  - title: "US CBP deploys facial recognition at 27 US airports as of May-2020"
+    excerpt: "US Government Accountability Office reported (03-Sep-2020) as of May-2020, the US Customs and Border Protection (CBP) deployed facial recognition technology at 27 US airports. CBP"
+    publishedDateTime: 2020-09-05T13:34:00Z
+    webUrl: "https://centreforaviation.com/news/us-cbp-deploys-facial-recognition-at-27-us-airports-as-of-may-2020-1022070"
+    type: article
+    provider:
+      name: Centreforaviation.com
+      domain: centreforaviation.com
+    quality: 34
   - title: "CBP Should Address Facial Recognition System Performance and Privacy Issues, GAO Says"
     excerpt: "A Government Accountability Office (GAO) review has found that U.S. Customs and Border Protection (CBP) has made progress testing and deploying facial recognition technology (FRT) at ports of entry to create entry-exit records for foreign nationals as part of its Biometric Entry-Exit Program."
     publishedDateTime: 2020-09-05T14:29:00Z

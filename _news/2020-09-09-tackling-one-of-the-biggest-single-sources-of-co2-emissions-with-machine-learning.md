@@ -8,9 +8,9 @@ webUrl: "https://venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-s
 ampWebUrl: "https://venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/amp/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: VentureBeat
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-579525105.jpg?w=1200&#038;strip=all"
@@ -30,6 +31,6 @@ images:
     height: 642
     isCached: true
 
-secured: "MuSB2YI2ILP6rLOsIJt0hxZzrGDnqYjt1YnnqzGOCsYK6l0SHuM1YOJDcnHXHddfMEjnJgVY2Df+rBhNtcASq6VKg2LhZRLqXNjF7qrfy0XtpdkJznxUrEFZjtw7x7zeU29R5h5LMEozDgvOeqUAIX5vAXQHXPsM++ppN1QbtoPzISQQYzrkEqG59gXZdCiLIstD6JIdHXSRqmvr0+mGT81MxaC+PpEOWzBFwpvp2qcyMotQ9eKFAiDPgP7DS9HSxORnf2ejYtg45ilvRQLPbn3oFAg4nlK79nMKE4G7dVZQJNRZBOaiUElZHRcNRTD7qB6ImV18/IMgUUVP5gAWkGBkmU6pZDcCXKbP2yIdp3A=;I5tivE3V86RLzFahjLlM/g=="
+secured: "+mcF9oDJxo5dkt/r+AG1GJyYgWGZPvYIZ1QQLkLHnXixCcAt0mVlw8PIO0UofqGfmoa0WP4X5LEt6itWzcdz7hXvS747Y7ZxNOU+aS5fEdf+HKJU1QHQHCB6givWrRbdSpygATCDXrcbQia8ujejoYxaRSIVmYggXFHsEwQKCFHn5S2AiG766uQ+PrhhsiGZgAN7ihs0cbRBNKOMT4Du28WU7vVV58x7nwNsqhQkT7CWmE0KQi6GubH+K54WJx0A9KLWMYb1bx23isZ1/yfmnQyxTyDiQttkwI6PLRRJVtWVLdg22iD6o6282KD+mjH7MlUoVSfumUyYOJ7TbsbpFBNBDZDHe8SsUFofVEZ7xfabzcCPDp0Zy2D+EP9cQJZMnqcmtE+jlBHNgspZ/ETiCayn3hhDg9SdYNvwDFMIdhn1fdl/mqkvOBNw75m/TaNK2Z5OPkeYXqE5nNx4Bx+ujcvzfzeN8kmFPxwYga3FJYfOghmDhb4a11/U0CGX6NHmZDnMgSJPkvj6KrtYp43y7k/0ZsHqRY9p2smsXZHbQ8Q=;x6BVNrqpzBKI12pcmF6uhA=="
 ---
 

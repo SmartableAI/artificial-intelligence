@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-09-cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao.md",
+      "title": "CBP doesn’t consistently notify air travelers about facial recognition tech use, privacy: GAO",
+      "excerpt": "Customs and Border Protection (CBP) is not consistently notifying travelers about its use of facial recognition technology or privacy options in US airports, according to the Government Accountability Office (GAO).",
+      "sourceUrl": null,
+      "webUrl": "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/",
+      "originalUrl": "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/",
+      "featuredContent": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sociable.co/wp-content/uploads/2020/09/cbp.jpg",
+          "width": 640,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/amp/",
+      "cdnAmpWebUrl": "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/amp/",
+      "publishedDateTime": "2020-09-08T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sociable",
+        "domain": "sociable.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-facial-recognition-technology-for-pets-is-launched-in-atlanta.md",
       "title": "Facial recognition technology for pets is launched in Atlanta",
       "excerpt": "In addition to Finding Rover, LifeLine has implemented a \"Lost & Found\" matchmaking program where they check pets reported as lost against those in shelters daily. A new Lost2Foun",
@@ -43,47 +84,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-05-us-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-government-report.md",
-      "title": "U.S. Needs to Tighten Oversight of How Airlines Use Facial Recognition Data: New Government Report",
-      "excerpt": "Facial recognition is popular, but a report published by the U.S. Government Accountability Office has found that U.S. Customs stumbled with the tech.",
-      "sourceUrl": null,
-      "webUrl": "https://skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/",
-      "originalUrl": "https://skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/",
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://skift.com/wp-content/uploads/2019/10/facial-recognition-delta.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/amp/",
-      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/amp/",
-      "publishedDateTime": "2020-09-04T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Skift",
-        "domain": "skift.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-04-faulty-facial-recognition-led-to-his-arrestnow-hes-suing.md",
       "title": "Faulty Facial Recognition Led to His Arrest—Now He’s Suing",
       "excerpt": "Michael Oliver is the second Black man found to be wrongfully arrested by Detroit police because of the technology—and his lawyers suspect there are many more.",
@@ -91,7 +91,7 @@
       "webUrl": "https://www.vice.com/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
       "originalUrl": "https://www.vice.com/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
       "featuredContent": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1072,6 +1072,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-26-automatic-object-recognition-from-satellite-images-using-artificial-neural-network.md",
+      "title": "Automatic Object Recognition From Satellite Images Using Artificial Neural Network",
+      "excerpt": "Object recognition from satellite images is a very important application for various purposes. Objects can be recognized based on certain features and then applying some algorithm to extract those ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/automatic-object-recognition-from-satellite-images-using-artificial-neural-network/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/automatic-object-recognition-from-satellite-images-using-artificial-neural-network/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/automatic-object-recognition-from-satellite-images-using-artificial-neural-network/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/automatic-object-recognition-from-satellite-images-using-artificial-neural-network/",
+      "publishedDateTime": "2020-08-25T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-more-facial-recognition-and-drones-wanted-for-the-us-canada-border.md",
       "title": "More Facial Recognition and Drones Wanted for the US-Canada Border",
       "excerpt": "Industry groups want advanced biometrics to secure the border between the two countries once it reopens after COVID-19.",
@@ -1314,56 +1355,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app.md",
-      "title": "Ever, once accused of building facial recognition tech using customer data, shuts down consumer app",
-      "excerpt": "Cloud photo storage app Ever is shutting down, citing increased competition with the default services offered by Apple and Google as the cause. The company, however, had other issues beyond the plight of a small startup trying to compete with tech giants.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/",
-      "originalUrl": "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/",
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/09/everalbum.png?w=1024",
-          "width": 1024,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/amp/",
-      "publishedDateTime": "2020-08-24T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

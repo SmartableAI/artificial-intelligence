@@ -2,6 +2,187 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-08-28-it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars.md",
+      "title": "It Is Nearly Unthinkable That ‘I Think, Therefore I Am’ Applies To AI, Possibly Even Self-Driving Cars",
+      "excerpt": "You have undoubtedly heard the famous phrase “I think, therefore I am.” Written oftentimes in its Latin form, the saying is known as ergo cogito, ergo sum. If you want to be smarmy and impress your friends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/",
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F599006572%2F0x0.jpg%3FcropX1%3D284%26cropX2%3D4903%26cropY1%3D0%26cropY2%3D3463",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/amp/",
+      "publishedDateTime": "2020-08-28T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-facial-recognition-tech-a-safe-way-forward-for-policing-retail-business.md",
+      "title": "Facial Recognition Tech A Safe Way Forward For Policing, Retail Business",
+      "excerpt": "Art inspires life as life inspires art. Sometimes, technology inspires art too. Bollywood had made a song and dance sequence on face-recognition technology way back in the 90s. It never was a hypothetical question,",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/",
+      "originalUrl": "https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/",
+      "featuredContent": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2020/08/Untitled-design-2020-08-28T205829.270-min-1.jpg",
+          "width": 1360,
+          "height": 1020,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/amp/",
+      "publishedDateTime": "2020-08-28T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-uber-expands-self-driving-safety-report-after-ntsb-slams-culture.md",
+      "title": "Uber Expands Self-Driving Safety Report After NTSB Slams Culture",
+      "excerpt": "Read More: Fatal Self-Driving Uber Crash Prompts Call for Tighter Oversight The fatality occurred around 10 p.m. on March 18, 2018, when a 49-year-old woman was hit by a 2017 Volvo XC90 SUV ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyGf4FGe5VZ4/v0/360x-1.jpg",
+          "width": 360,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
+      "publishedDateTime": "2020-08-28T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-memers-are-making-deepfakes-and-things-are-getting-weird.md",
+      "title": "Memers are making deepfakes, and things are getting weird",
+      "excerpt": "Grace Windheim had heard of deepfakes before. But she had never considered how to make one. It was a viral meme using the technology that led her to research the possibility—and discover that it was super easy and completely free.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/",
+      "originalUrl": "https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/",
+      "featuredContent": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/08/deepfakememes.jpg?w=1920",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/amp/",
+      "publishedDateTime": "2020-08-28T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open.md",
       "title": "IBM Creates New Fan Experiences using AI and Hybrid Cloud for First-Ever Spectator-less US Open",
       "excerpt": "IBM's hybrid cloud architecture with Red Hat OpenShift provided the operational agility and flexibility necessary to quickly develop new experiences powered by IBM Watson's advanced NLP.",
@@ -966,197 +1147,6 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features.md",
-      "title": "Latest NVIDIA SHIELD Update Brings AI Upscaling Enhancements And New Features",
-      "excerpt": "Over and above the excellent hardware, NVIDIA has been religious about consistently releasing updates for the SHIELD TV that only make what was already a great device even better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2020/08/27/latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2020/08/27/latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features/",
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f484190e9c35b243e5a2e95%2F0x0.jpg",
-          "width": 1024,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2020/08/27/latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2020/08/27/latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features/amp/",
-      "publishedDateTime": "2020-08-27T16:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-learn-from-the-first-place-winner-of-the-first-aws-deepcomposer-chartbusters-bach-to-the-future-challenge.md",
-      "title": "Learn from the first place winner of the first AWS DeepComposer Chartbusters Bach to the Future Challenge",
-      "excerpt": "AWS is excited to announce the winner of the first AWS DeepComposer Chartbusters Challenge, Catherine Chui. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). To make the learning more fun, in June 2020 we launched the Chartbusters Challenge, a competition where",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-first-place-winner-for-the-first-aws-deepcomposer-chartbusters-bach-to-the-future-challenge/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-first-place-winner-for-the-first-aws-deepcomposer-chartbusters-bach-to-the-future-challenge/",
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/26/1-Catherine-with-ward.jpg",
-          "width": 401,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-27T15:20:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-this-tiny-ai-chip-obliterates-google-rival-in-a-crucial-metric.md",
-      "title": "This tiny AI chip obliterates Google rival in a crucial metric",
-      "excerpt": "Kneron, a startup from California, has introduced its new neural processing unit (NPU) for edge AI applications. The KL720 NPU promises to enable sophisticated AI-enhanced applications that do not use the cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network",
-      "originalUrl": "https://www.techradar.com/nz/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network",
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/gj9vKtYSZSKase7D2Qg9HZ-1200-80.jpg",
-          "width": 970,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/knerons-tiny-ai-chip-is-said-to-obliterate-google-rival-in-crucial-network",
-      "publishedDateTime": "2020-08-27T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-frost-sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning.md",
-      "title": "Frost & Sullivan Recognizes LinkShadow as Innovation Leader in User and Entity Behavior Analytics Based on Machine Learning",
-      "excerpt": "Frost & Sullivan has named LinkShadow as a top industry innovator in the Frost Radar™: User and Entity Behavior Analytics Based on",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning-832126362.html",
-      "originalUrl": "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning-832126362.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-27T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

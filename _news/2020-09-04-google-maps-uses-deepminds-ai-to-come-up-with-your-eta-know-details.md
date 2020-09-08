@@ -43,6 +43,68 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Maps uses DeepMind AI to predict your arrival time"
+    excerpt: "Google Maps is using AI machine learning models to predict whether the traffic along your route is heavy or light, an estimated travel time, and an estimated time of arrival (ETA)."
+    publishedDateTime: 2020-09-04T06:08:00Z
+    webUrl: "https://www.iol.co.za/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 74
+    images:
+      - url: "https://image-prod.iol.co.za/resize/3500x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/8de64d17-a6dd-516d-9248-68eb739d76c2&operation=CROP&offset=0x315&resize=3500x1969&webp=false"
+        width: 651
+        height: 366
+        isCached: true
+  - title: "Google Maps using DeepMind AI to predict your arrival time"
+    excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
+    publishedDateTime: 2020-09-04T05:21:00Z
+    webUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+    ampWebUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 74
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/9/2020_9$largeimg_1012661407.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "This is how Google Maps uses DeepMind AI to predict your arrival time; read here"
+    excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
+    publishedDateTime: 2020-09-04T05:52:00Z
+    webUrl: "https://www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
+    ampWebUrl: "https://www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 69
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2019/12/Maps.jpg"
+        width: 467
+        height: 313
+        isCached: true
+  - title: "Google Maps and DeepMind take advantage of AI capabilities to improve the number of paths"
+    excerpt: "Machine learning helped improve expected real-time arrival time by up to 50%. It took nearly 13 years to provide traffic"
+    publishedDateTime: 2020-09-04T04:37:00Z
+    webUrl: "https://www.news24xx.com/2020/09/04/google-maps-and-deepmind-take-advantage-of-ai-capabilities-to-improve-the-number-of-paths/"
+    type: article
+    provider:
+      name: News24XX.com
+      domain: news24xx.com
+    quality: 45
+    images:
+      - url: "https://www.news24xx.com/wp-content/uploads/2020/09/GettyImages-1208999497-e1599071823905.jpg"
+        width: 1200
+        height: 601
+        isCached: true
 
 secured: "e7Vf5bCk+M/4LIBSx8e5IT8CEg7wSz0+S+IIiU6u2Ktt3J3ZCH7+HxY8tb1v7DDKPF5DDp3QqWDGwNr1M5aQvtgLiso5y/JQ/oSvDpwthsDuhwXhwRVKowbneN+el56cIYbpYOhkNHGKNWvFzH5/GD30DOheXbME6r8h+v6fxVrWvTK0K7kt9gIqOeQ30gBiEp/otJAns18+hrbvdaSDCbU0qflA3Cgrr3M997tDSCJdzCQf8a9ugOMpICRh5LzmW4J0Tu7bBPblLqeKvL50ka83IPXdviSYZ6n7HKl3oWDmFYOFPg3CN+E4hxwv2o0gNQ7GZ9mukTNN5l4d+NsqfYHZOKVuYVCyyrOMPhol1ZbTPxivKXH89xuPXcffajkAiCgpv3arbYDfYeIMHMEllbeN1WSXNPakk3rrK9YgNxe0Rv6aFLwCVDhL4/iqIFgIRYSawaRbJeo2YI/uzV1UyH8IlnhDvnQXYOF5kS/5UgIKMSTSFKNxYgM1igGkv15t6nGTBue7VspD8DA6P0x9TykzE+g58HxtTlrwkuJ1t30=;+ZbL2XuePqqKk7dMDOtZtA=="
 ---

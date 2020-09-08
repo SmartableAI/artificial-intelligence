@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-17-neurotechnology-releases-new-version-of-sentisightai-image-labeling-and-recognition-platform-powered-by-deep-learning.md",
+      "title": "Neurotechnology Releases New Version of SentiSight.ai Image Labeling and Recognition Platform Powered by Deep Learning",
+      "excerpt": "PRNewswire/ -- Neurotechnology, a provider of deep learning-based solutions and high-precision biometric identification technologies, today announced",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/neurotechnology-releases-new-version-of-sentisightai-image-labeling-and-recognition-platform-powered-by-deep-learning-301112702.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/neurotechnology-releases-new-version-of-sentisightai-image-labeling-and-recognition-platform-powered-by-deep-learning-301112702.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zPTRh8IoOBo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-17T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-ensemble-deep-learning-in-bioinformatics.md",
       "title": "Ensemble deep learning in bioinformatics",
       "excerpt": "The remarkable flexibility and adaptability of ensemble methods and deep learning models have led to the proliferation of their application in bioinformatics research. Traditionally, these two ...",
@@ -1317,56 +1358,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-csiro-using-artificial-intelligence-to-map-17m-australian-grain-paddocks.md",
-      "title": "CSIRO using artificial intelligence to map 1.7m Australian grain paddocks",
-      "excerpt": "It developed ePaddocks for the agriculture sector to better understand the boundaries of grain paddocks across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/07/ce1a2d41-b2cf-4532-b208-75d0b6ba0c14/0000102-epaddocks-australian-paddock-boundaries-550.jpg",
-          "width": 550,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
-      "publishedDateTime": "2020-08-06T17:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

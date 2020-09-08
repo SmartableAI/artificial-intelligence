@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/</loc>
+    <lastmod>2020-09-08T11:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/translating-scanned-pdf-documents-using-amazon-translate-and-amazon-textract/</loc>
+    <lastmod>2020-09-08T11:29:44-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/</loc>
+    <lastmod>2020-09-08T11:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/</loc>
+    <lastmod>2020-09-08T11:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/</loc>
+    <lastmod>2020-09-08T10:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/</loc>
     <lastmod>2020-09-08T09:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -285,12 +315,6 @@
   <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/04/how-the-pandemic-could-accelerate-ai-powered-professional-sports/</loc>
     <lastmod>2020-09-04T12:59:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://skift.com/2020/09/04/u-s-needs-to-tighten-oversight-of-how-airlines-use-facial-recognition-data-new-report/</loc>
-    <lastmod>2020-09-04T12:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1171,7 +1195,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200831005637/en/Artificial-Intelligence-Government-Global-Markets-2020-2025--</loc>
+    <loc>https://www.businesswire.com/news/home/20200831005637/en/</loc>
     <lastmod>2020-08-31T10:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1915,12 +1939,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/ac17244991/how-an-automated-data-labeling-platform-fuels-self-driving-industry</loc>
-    <lastmod>2020-08-26T08:38:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.bloomberg.com/news/articles/2020-08-26/self-driving-shuttles-blast-uv-rays-to-stay-on-road-in-covid-era</loc>
     <lastmod>2020-08-26T08:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2065,6 +2083,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/how-an-automated-data-labeling-platform-fuels-self-driving-industry-1029534590</loc>
+    <lastmod>2020-08-26T01:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.bloomberg.com/news/articles/2020-08-26/china-still-buying-300-billion-of-chips-from-u-s-elsewhere</loc>
     <lastmod>2020-08-26T01:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2125,6 +2149,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.techrepublic.com/resource-library/whitepapers/automatic-object-recognition-from-satellite-images-using-artificial-neural-network/</loc>
+    <lastmod>2020-08-25T11:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/08/25/will-the-uks-housebuilding-algorithm-join-the-governments-growing-ai-graveyard/</loc>
     <lastmod>2020-08-25T11:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2132,6 +2162,12 @@
   </url>
   <url>
     <loc>https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available</loc>
+    <lastmod>2020-08-25T11:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available/</loc>
     <lastmod>2020-08-25T11:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
