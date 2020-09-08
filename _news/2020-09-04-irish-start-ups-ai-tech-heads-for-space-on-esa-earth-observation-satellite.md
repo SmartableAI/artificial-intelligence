@@ -24,37 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Space is the place for Irish AI chip as PhiSat-1 satellite blasts off"
-    excerpt: "The PhiSat-1 is the first European satellite carrying out an experiment to demonstrate how onboard deep learning technology can speed up the rate at which observation data is proessed and transmitted back to Earth."
-    publishedDateTime: 2020-09-03T12:31:00Z
-    webUrl: "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722"
-    ampWebUrl: "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722"
-    cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722"
+  - title: "ESA selects follow-up AI Earth observatory satellite mission"
+    excerpt: "Europe's first artificial intelligence Earth observation mission—plans are already underway for the next innovative state-of-the-art technology, ɸ-sat-2."
+    publishedDateTime: 2020-09-07T12:25:00Z
+    webUrl: "https://phys.org/news/2020-09-esa-follow-up-ai-earth-observatory.html"
+    ampWebUrl: "https://phys.org/news/2020-09-esa-follow-up-ai-earth-observatory.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-esa-follow-up-ai-earth-observatory.amp"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 76
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4345721&origw=1440"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Space the place for Irish AI chip as PhiSat-1 satellite blasts off"
-    excerpt: "An artificial intelligence (AI) processing chip developed in Ireland has been included on board a satellite that blasted off into space from French Guiana early this morning. The PhiSat-1 is the first European satellite carrying out an experiment to demonstrate how on-board deep-learning technology can speed up the rate at which observation data is processed and transmitted to Earth."
-    publishedDateTime: 2020-09-03T18:26:00Z
-    webUrl: "https://www.irishtimes.com/business/innovation/space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722"
-    ampWebUrl: "https://www.irishtimes.com/business/innovation/space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722"
-    cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/innovation/space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 76
-    images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4345721&origw=1440"
-        width: 1200
-        height: 630
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/esaselectsfo.jpg"
+        width: 1352
+        height: 1376
         isCached: true
 
 secured: "nx5y4mwQQ2kf8JDlAiAELuwRv7Mh0gM/b0zlsbWaVqexrLSXJjwDlTR9m6WV+loWHbTmwhvnbdYvlEQIIW3/UK4DSBnGjsp5KGKaaEObjG1GhXCZaCXbOUeZ4kBRH3GYedlHUS3+IoPvvK9utyv1YOfYTnbuR6mxrZfnaH6u4Xlk+hsHO2fYKX5rqqQuUQXjsLTtX/4k8VvNTR3az4dk4QKCOo7qeh+s+/MIGa8V0vm8bH1dOUAMQKhQrAYANutY3aBxuUntucTkQ2NAxN7EM3ZH2jnmuk4UbZETfoC6yBkjNSWhAF9P/QEPPC3JiILuRDq4GqUiNPVh+L5hkDZTYcnm03iza6lIs9U8Xq0MXNk=;6tDAB81zJv6E0s1k5KW2pg=="

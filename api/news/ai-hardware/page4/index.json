@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-30-amd-cdna-gpu-to-rival-nvidia-ampere-in-late-2020.md",
+      "title": "AMD CDNA GPU to rival Nvidia Ampere in late 2020",
+      "excerpt": "AMD’s next attempt on the server GPU front embraces its new CDNA architecture that is tailored primarily for AI as well as HPC and therefore promises to be a better fit for respective customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Bd7dkokF6QEnDo8VEnUrrm-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
+      "publishedDateTime": "2020-07-29T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-nvidia-ai-runs-the-mlperf-table-again.md",
       "title": "NVIDIA AI Runs The Mlperf Table Again",
       "excerpt": "NVIDIA has dominated the AI accelerator business since it created the market, growing it to the point where NVIDIA AI revenues will likely overtake the gaming segment over the next year. It is rare in technology that a single company owns a multi-billion-dollar market space without attracting competition,",
@@ -1317,47 +1367,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-19-global-ai-chip-for-data-centers-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-nvidia-intel-ibm-qualcomm-ceva.md",
-      "title": "Global AI Chip for Data Centers Market 2020- Impact of COVID-19, Future Growth Analysis and Challenges | NVIDIA, Intel, IBM, Qualcomm, CEVA",
-      "excerpt": "The report on the AI Chip for Data Centers Market gives a foot perspective on the present continuing inside the AI Chip for Data Centers market. Further, the report likewise considers the effect of the novel COVID-19 pandemic on the AI Chip for Data Centers market and offers an away from of the anticipated market variances during the estimate time frame.",
-      "sourceUrl": null,
-      "webUrl": "https://galusaustralis.com/2020/07/761396/global-ai-chip-for-data-centers-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-nvidia-intel-ibm-qualcomm-ceva/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://galusaustralis.com/wp-content/uploads/2020/05/Automomobile.jpg",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://galusaustralis.com/2020/07/761396/global-ai-chip-for-data-centers-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-nvidia-intel-ibm-qualcomm-ceva/amp/",
-      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/07/761396/global-ai-chip-for-data-centers-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-nvidia-intel-ibm-qualcomm-ceva/amp/",
-      "publishedDateTime": "2020-07-19T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "galusaustralis.com",
-        "domain": "galusaustralis.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

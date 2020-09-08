@@ -24,6 +24,17 @@ images:
     height: 627
     isCached: true
 
+related:
+  - title: "Chips&Media to Exhibit at the 2020 Embedded Vision Summit"
+    excerpt: "Chips&Media announced today its participation at the 2020 Embedded Vision Summit, the premier event for innovators adding computer vision and AI to products."
+    publishedDateTime: 2020-09-08T05:43:00Z
+    webUrl: "https://www.design-reuse.com/news/48592/chips-media-2020-embedded-vision-summit.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 4
+
 secured: "RYVfYQTyeL/DY2ZWDCDpwNX9CcSG/2JWpmyJHnsOwp9BBhMTQqKi2U1aUmrc3NRr2W02TKzPBiQMB+dEIV5xyDX0qsSNJiXjDJHPeGDiDv9GngLi9TWaacCY0kybAN+8PNn5ks3jQdSJ78GaVhrVLY05NdKCh8U4MmuJzMbP/qcXWXId6xsEI+X89y6s9FYd+YpGNp/Vup7zWDayxt8GO7zPEaKvIU0neC8Kw/wEULpK3Bkr1Oj8odlYvsB7gPMgTH3kGpBqwOnSuDOqYldSl+nIoKHNILBrJ9WWF4swsfqfMcV6jcAOlyI9whIp/Z7cjdEIpScKjtjk6pv9q0xJhDQUr0tpPEaK9Yr6gq/CrWk=;hvUBINy5E8AdgpaXHmLYnw=="
 ---
 

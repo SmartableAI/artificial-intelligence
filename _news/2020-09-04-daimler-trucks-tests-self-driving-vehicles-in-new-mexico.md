@@ -27,92 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Daimler Trucks Tests Self-Driving Vehicles in US Southwest"
-    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics are expanding their testing of self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-    publishedDateTime: 2020-09-03T19:14:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest"
-    ampWebUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2020-09-03/daimler-trucks-tests-self-driving-vehicles-in-us-southwest?context=amp"
+  - title: "A new NHTSA tool will show you where self-driving cars are in testing"
+    excerpt: "You can now see ongoing driverless testing programs across the US, thanks to a new tool from the National Highway Traffic Safety Administration (NHTSA). The agency has launched the public-facing platform as part of its Automated Vehicle Transparency and Engagement for Safe Testing Initiative,"
+    publishedDateTime: 2020-09-04T05:49:00Z
+    webUrl: "https://www.engadget.com/nhtsa-tool-selfdriving-testing-053546596.html"
+    ampWebUrl: "https://www.engadget.com/amp/nhtsa-tool-selfdriving-testing-053546596.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nhtsa-tool-selfdriving-testing-053546596.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
-  - title: "Daimler Trucks tests self-driving vehicles in US Southwest"
-    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-    publishedDateTime: 2020-09-05T04:10:00Z
-    webUrl: "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
-    ampWebUrl: "https://www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 59
+      name: Engadget
+      domain: engadget.com
+    quality: 74
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fb9984ac0-ee63-11ea-aefb-1134a8e15673&client=amp-blogside-v2&signature=eda3d9ab26329a0b8c9a76562e4c0b08cd3df60d"
+        width: 600
+        height: 350
         isCached: true
-  - title: "5G-covered road for self-driving vehicles official opens in China"
-    excerpt: "A 5G-covered road for testing self-driving cars was formally unveiled in Baohe district of Hefei city in east China’s Anhui province on Thursday, September 3."
-    publishedDateTime: 2020-09-03T14:43:00Z
-    webUrl: "https://yen.com.gh/169107-5g-covered-road-driving-vehicles-official-opens-china.html"
-    ampWebUrl: "https://yen.com.gh/amp/169107-5g-covered-road-driving-vehicles-official-opens-china.html"
-    cdnAmpWebUrl: "https://yen-com-gh.cdn.ampproject.org/c/s/yen.com.gh/amp/169107-5g-covered-road-driving-vehicles-official-opens-china.html"
+  - title: "Tesla Full Self-Driving Review"
+    excerpt: "Tesla Motors says it's developing hardware and software to power the world’s first self-driving cars. The software, called, ‘Full Self-Driving Capability’, costs Tesla owners an additional $8,000 to buy."
+    publishedDateTime: 2020-09-04T17:29:00Z
+    webUrl: "https://www.consumerreports.org/video/view/cars/auto-test-track/6185173516001/tesla-full-self-driving-review/"
     type: article
     provider:
-      name: Yen.com.gh
-      domain: yen.com.gh
-    quality: 44
-    images:
-      - url: "https://netstorage-yen.akamaized.net/images/90287a5f83981aac.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Amazon parcels could be delivered by self-driving mini trucks in the UK"
-    excerpt: "Britons could soon see their Amazon parcels delivered by a small self-driven vehicle.  The online giant is hiring a team of engineers to develop its Amazon Scout vehicles for use in the UK after online shopping took off during lockdown."
-    publishedDateTime: 2020-09-08T00:15:00Z
-    webUrl: "https://news.sky.com/story/amazon-parcels-could-be-delivered-by-self-driving-mini-trucks-in-the-uk-12066285"
-    ampWebUrl: "https://news.sky.com/story/amp/amazon-parcels-could-be-delivered-by-self-driving-mini-trucks-in-the-uk-12066285"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/amazon-parcels-could-be-delivered-by-self-driving-mini-trucks-in-the-uk-12066285"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 44
-    images:
-      - url: "https://e3.365dm.com/20/09/1600x900/skynews-amazon-scout_5090073.jpg?20200907234153"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Daimler Tests Self-Driving Trucks in Southwest"
-    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-    publishedDateTime: 2020-09-05T21:38:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21174127/daimler-trucks-tests-selfdriving-vehicles-in-us-southwest"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
+      name: Consumer Reports
+      domain: consumerreports.org
     quality: 39
     images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/09/16x9/AP2060477072155543.5f5245e61426c.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Yandex Restructures Self-Driving Business"
-    excerpt: "Yandex will increase its stake in the new company (Yandex SDG) to 73% and invest an additional $150 million in its future development. MOSCOW and AMSTERDAM, Sept. 04, 2020 (GLOBE"
-    publishedDateTime: 2020-09-04T08:00:00Z
-    webUrl: "https://apnews.com/ba78c51351f156d01b152f506e366b71"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://f1.media.brightcove.com/8/1078702682/1078702682_6171073910001_6171086182001-th.jpg?pubId=1078702682&videoId=6171086182001"
+        width: 580
+        height: 326
         isCached: true
 
 secured: "MYvCzFHpgzltLt5RPa0tFGndlHXBtdc41N890KrTk2d52rM8Ux8RXmDLRVsitkc2hlqegEDPo9veZ/tfjUadzAWBn3LUVgHHmPAL8JedCtyneacBro0FMIYQEkKMF+i5tOI8BAsYANSWbV1F2vlv9rDUwfkN/g2bzL+gz8BnVmpTL3RwUlsUM0I+8KwnDPVh2SybX8r8hLcagKED3GO4gtthCtStQQCu6YOXYV2OgIlRoNnGe2AUxCF7+e7MV92S7nZU4aFW1+SWEFhoSJyxQ+BlYgWyOWo5GLwloKoTxebCBc1p93+WV0gpM/14dMX3xS0psmFNJmAG8YqC8TLcQtZBCJK5Kj9VDz0XJSZbA4A=;femHCB8jYxoBji3Fjfd0Cg=="

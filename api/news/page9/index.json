@@ -2,6 +2,47 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-08-31-elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig.md",
+      "title": "Elon Musk unveils ‘Fitbit in your skull’ brain chip, demonstrates on pig",
+      "excerpt": "Musk said this could eventually help cure people with conditions like memory loss, hearing loss, paralysis, blindness, brain damage, depression and anxiety.",
+      "sourceUrl": null,
+      "webUrl": "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/",
+      "originalUrl": "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/",
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kfor.com/wp-content/uploads/sites/3/2020/08/gertrude-pig.jpg",
+          "width": 716,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/amp/",
+      "cdnAmpWebUrl": "https://kfor-com.cdn.ampproject.org/c/s/kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/amp/",
+      "publishedDateTime": "2020-08-30T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oklahoma's News",
+        "domain": "kfor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem.md",
       "title": "This AI Expert From Senegal Is Helping Showcase Africans In STEM",
       "excerpt": "Not only has Adji Bousso Dieng, an AI researcher from Senegal, contributed to the field of generative modeling and about to become one of the first black female faculty in Computer Science in the Ivy League,",
@@ -1155,56 +1196,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-uber-expands-self-driving-safety-report-after-ntsb-slams-culture.md",
-      "title": "Uber Expands Self-Driving Safety Report After NTSB Slams Culture",
-      "excerpt": "Read More: Fatal Self-Driving Uber Crash Prompts Call for Tighter Oversight The fatality occurred around 10 p.m. on March 18, 2018, when a 49-year-old woman was hit by a 2017 Volvo XC90 SUV ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyGf4FGe5VZ4/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
-      "publishedDateTime": "2020-08-28T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

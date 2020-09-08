@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's 'Full Self-Driving Capability' Falls Short of Its Name"
-    excerpt: "Learn more. The features might be cutting edge, even cool, but we think buyers should be wary of shelling out $8,000 for what electric car company Tesla calls its Full Self-Driving Capability option. Tesla claims every new vehicle it builds includes all ..."
-    publishedDateTime: 2020-09-04T13:54:00Z
-    webUrl: "https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-capability-review-falls-short-of-its-name/"
+  - title: "A new NHTSA tool will show you where self-driving cars are in testing"
+    excerpt: "You can now see ongoing driverless testing programs across the US, thanks to a new tool from the National Highway Traffic Safety Administration (NHTSA). The agency has launched the public-facing platform as part of its Automated Vehicle Transparency and Engagement for Safe Testing Initiative,"
+    publishedDateTime: 2020-09-04T05:49:00Z
+    webUrl: "https://www.engadget.com/nhtsa-tool-selfdriving-testing-053546596.html"
+    ampWebUrl: "https://www.engadget.com/amp/nhtsa-tool-selfdriving-testing-053546596.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nhtsa-tool-selfdriving-testing-053546596.html"
     type: article
     provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 39
+      name: Engadget
+      domain: engadget.com
+    quality: 74
     images:
-      - url: "https://brightcove.hs.llnwd.net/v2/unsecured/media/1078702682/202008/705/1078702682_6186323527001_6185173516001-vs.jpg?pubId=1078702682&videoId=6185173516001"
-        width: 1920
-        height: 1080
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fb9984ac0-ee63-11ea-aefb-1134a8e15673&client=amp-blogside-v2&signature=eda3d9ab26329a0b8c9a76562e4c0b08cd3df60d"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "Daimler Trucks tests self-driving vehicles in New Mexico"
+    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics are expanding their testing of self-driving trucks to public roads in New Mexico along major long-haul freight routes."
+    publishedDateTime: 2020-09-03T21:29:00Z
+    webUrl: "https://www.kob.com/albuquerque-news/daimler-trucks-tests-self-driving-vehicles-in-new-mexico/5850651/"
+    ampWebUrl: "https://amp.kob.com/articles/daimler-trucks-tests-self-driving-vehicles-in-new-mexico-5850651.html"
+    cdnAmpWebUrl: "https://amp-kob-com.cdn.ampproject.org/c/s/amp.kob.com/articles/daimler-trucks-tests-self-driving-vehicles-in-new-mexico-5850651.html"
+    type: article
+    provider:
+      name: KOB 4
+      domain: kob.com
+    quality: 59
+    images:
+      - url: "https://www.kob.com/KOB_800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "ZtIUqS012AQL/JadnN8nhuuhlhpVuFym/9Ia/kSCibdotAJCGYKwylYphBR6MuKGtcfk+9p/AEEz76xyYyq91648E/IdHz1nCZN1g5aZwANcUswxVtlcCUtYMaG/oN7is8hRI+1QN5feH5FTMwLMV+EGi5b/4FJfN4e38+8C1cAke70TcdQ1HznulHfb2QXz2lzmdIx5zAbtt7KNoMJZHOD/b/J/XcLai3Y93IdCuW2CHjTTTw69VOElHZWFJwDdfh2YTcD2x8MxuOEVueCqWpoe2qHLqBR3K5DBywOkJ+XH4+GhVNTU+HhM3mlsQOfL/TltZkEnLOatQNTKk+2J3rZVqE2DUUkS4WDhHAg//x1Re5KnWVHMr/Qywvj/ZfoJaVpxjGBojqGbKPdhPLrlVz3KlblSrbatRd5ZRSh9aGoV235WYOwStnPsaMtAxBlbo35Fr2vlSfHpA/EECtjhlJ9b38NxkzENNJJFqDbOpKOmPweCSM9F1V1F5Zda392n+TpjJGVWMGaqvWxjKwqXOw==;0Y+4yQCUtxN6NcG37zdOvA=="

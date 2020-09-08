@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Google Maps using DeepMind AI to predict your arrival time"
-excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
-publishedDateTime: 2020-09-04T05:21:00Z
-originalUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
-webUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
-ampWebUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
-cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+excerpt: "Google has partnered with DeepMind, an Alphabet AI research lab, to improve the accuracy of its traffic prediction capabilities. \"Our ETA predictions already have a very high accuracy bar – in ..."
+publishedDateTime: 2020-09-04T09:58:00Z
+originalUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+webUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+ampWebUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Tribune
-  domain: tribuneindia.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Google AI
   - AI
-
-images:
-  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/9/2020_9$largeimg_1012661407.jpg"
-    width: 900
-    height: 600
-    isCached: true
 
 related:
   - title: "Google Maps is improving travel ETAs with DeepMind AI"
@@ -216,6 +210,6 @@ related:
         height: 601
         isCached: true
 
-secured: "S3gLchYDBkitc5J18QN3lS4TMkbwbyEW3Iu9XZbILZnqsfiIBOqGfrSYDYnsyWNWN2OwCUIkUJlDw48rPgAVzjDvDpaYuU1CIhZ+YQZSuFPCvLrjphgamDe/TjDOBPQKi33eG5jlYmgTXtbeoa0+eiDm0v5Sfdim3dly6Gg24ri93abkDmwBfMdL34WbBMA/FuEKsGaLAQEAyUrQeHFMuWaczuhjYkVBt1xs9276Lu6l0WzMArKmTST4wwM+isoeyRt+ITI4GZQRZMcFBjbafdKO8IoKF2N62NKzIDA8I48Aw2716XyPrb+dmiOijF6jYPg0GgUPN1W1KQYAME4RlSq6W6Zfv1FjgANRcjZ/3Ow=;L8I5qp4gq/toy40GJFCjng=="
+secured: "zJ6Vk0O7AzWyQzb6rY57EiZIA2y5EkHzKlM57VtZbGQwU2tSbZXsel2YRVQZ/fL33n1OmKwwKsSxBgVsJCSnuGrtRnCx2tuNJxwrMIJ0Eqox2V6TMNz8eHhpxaFJRaAtljMGk1ziNVcGaRsmoi1xgNPeBcG5aAAjGQ60jIzkZVQUnFgyV8pDaEXMPTTwo2g1YRRRhJ1/TSFtNhOJx7kv0XY73ehLsADrxAmW7p5I3TAopZqlICvnwpf1jQfb/2H9BAXAL3eDXAYwdBgzKBbJOi2aTRXKyStNOu7l3jmUAz/pUn2k9B+OLRYjE+JmamAWe/R5Z1G6naXu5hRCRUYl1kO0d6d6AvxoYTQbjm1LQfU=;NYyrhTuyc6Y5jQBBj0hCOw=="
 ---
 

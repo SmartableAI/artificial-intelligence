@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Robots Market Outlook, Size, Share and Growth and Forecast Assumptions Through 2023 | Impact of COVID-19 Pandemic"
-    excerpt: "Global AI Robots Market Research Report - by Offering (Software, Hardware), by Type (Service Robots, Industrial Robots),"
-    publishedDateTime: 2020-09-03T11:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-size-share-and-growth-and-forecast-assumptions-through-2023-impact-of-covid-19-pandemic-2020-09-03"
+  - title: "Deep Learning Market Overview By Share, Size, Industry Players, Revenue and Product Demand Till 2023 | Impact of COVID-19 Pandemic"
+    excerpt: "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,"
+    publishedDateTime: 2020-09-04T12:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-overview-by-share-size-industry-players-revenue-and-product-demand-till-2023-impact-of-covid-19-pandemic-2020-09-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

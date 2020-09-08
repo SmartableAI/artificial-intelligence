@@ -9,8 +9,8 @@ ampWebUrl: "https://www.irishtimes.com/business/innovation/space-the-place-for-i
 cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/innovation/space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Irish Times
@@ -26,38 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Space is the place for Irish AI chip as PhiSat-1 satellite blasts off"
-    excerpt: "The PhiSat-1 is the first European satellite carrying out an experiment to demonstrate how onboard deep learning technology can speed up the rate at which observation data is proessed and transmitted back to Earth."
-    publishedDateTime: 2020-09-03T12:31:00Z
-    webUrl: "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722"
-    ampWebUrl: "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722"
-    cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 76
-    images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4345721&origw=1440"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Irish start-up’s AI tech heads for space on ESA Earth observation satellite"
-    excerpt: "As efforts continue to launch the first Irish satellite into space, Ubotica has brought its technology into orbit aboard a next-gen ESA satellite."
-    publishedDateTime: 2020-09-04T09:43:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/ubotica-cvai-esa-earth-observation-satellite"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 35
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/09/Vega.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "rOJ2ySvz/oJjki50GCpmrHYtSKLHaY0aKj4BHf8WNGOPZNsIZjtZn/7Laaf85ocsgRW57+iQU/ZwdAOtgbkcGj/bs1rIHk+8pQaKw51BcKy5VZ0WByKTPkk4/7D7sACXgLuLcEw13yOi2lp7KcNHo69RsyAlvV1kOatWLboZJXXXaYNoGp2HzzN+i8+XtvYa5CvtNFocUkwJS/LCvauuyvTqa6T+vnz0xAYc77noJVcaNOQpzpF17kuekxF1nC8ietcY9s/rNgNQdVrVGRBiiGGJ5I76NcBeeYYmVcZDNN+qmKk8o9XTNIHQKwUmmdFYkOOtHbbtcf4ZVVrqu5yGOskl+Z10PswQNTMEytJPZfbyHZ0JCoL23BnfIwEWFcxynLlyEM4mHyIR+n1LyrvVpfeD5EnRBd2o5Ym7ocKbGs86EvLHqJuuCwOiDMhgvczNcqKK7bnP3I9mWEOqftsWaKcj9nXvU7JY5YDkpirJyzF8bC5S4woy9832k3T4TV9xQxwxdeGCBTQXxXioqyo4KOp2vXccHAd7oXaO6nbzwnE=;7/JCf8HXs64/9KZqTEHVUg=="
 ---

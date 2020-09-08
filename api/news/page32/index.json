@@ -2,6 +2,55 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-08-12-what-kamala-harris-record-says-about-major-ai-policy-issues.md",
+      "title": "What Kamala Harris’ record says about major AI policy issues",
+      "excerpt": "Sen. Kamala Harris is joining Joe Biden on the Democratic Party's presidential ticket; in the past she's taken positions on issues like algorithmic bias.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/11/what-kamala-harris-record-says-about-major-ai-policy-issues/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/kamala-harris.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/11/what-kamala-harris-record-says-about-major-ai-policy-issues/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/what-kamala-harris-record-says-about-major-ai-policy-issues/amp/",
+      "publishedDateTime": "2020-08-11T20:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-perdana-liga-perempuan-aws-deepracer-resmi-digelar.md",
       "title": "Perdana, Liga Perempuan AWS DeepRacer Resmi Digelar",
       "excerpt": "Liputan6.com, Jakarta - Era teknologi cloud dan tren analitik Big Data di berbagai sektor telah mendongkrak kepopuleran teknologi lain yang saling berkaitan erat, yaitu AI atau kecerdasan buatan dan m",
@@ -1112,55 +1161,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-ai-cybersecurity-startup-elisity-raises-75-million-to-protect-networks-from-attack-with-ai.md",
-      "title": "AI cybersecurity startup Elisity raises $7.5 million to protect networks from attack with AI",
-      "excerpt": "Cybersecurity startup Elisity emerged from stealth with $7.5 million to further develop its tools that protect networks from AI-driven attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/11/ai-cybersecurity-startup-elisity-raises-7-5-million-to-protect-networks-from-attack-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/graphic_auto_x1_auto_x2-e1596667702827.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/11/ai-cybersecurity-startup-elisity-raises-7-5-million-to-protect-networks-from-attack-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/ai-cybersecurity-startup-elisity-raises-7-5-million-to-protect-networks-from-attack-with-ai/amp/",
-      "publishedDateTime": "2020-08-11T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

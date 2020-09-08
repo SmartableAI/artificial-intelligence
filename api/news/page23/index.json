@@ -2,6 +2,56 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-08-19-deep-learning-market-2020-2023-growth-emerging-trends-and-forecast.md",
+      "title": "Deep Learning Market 2020-2023: Growth, Emerging Trends, And Forecast",
+      "excerpt": "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-19T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-ai-health-startup-can-get-15-vital-signs-via-your-phone-camera.md",
       "title": "AI Health Startup Can Get 15 Vital Signs Via Your Phone Camera",
       "excerpt": "And having the results funneled to your personal medical AI engine to monitor you for any signs of poor health, ready to notify your physician if anything looks out of the ordinary. Like higher temperature,",
@@ -1089,55 +1139,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask.md",
-      "title": "Researchers claim their AI can hear if a speaker is wearing a mask",
-      "excerpt": "Researchers at Duke Kunshan University, Wuhan University, Lenovo, and Sun Yat-sen University in Guangzhou claim to have developed an AI system that detects whether a person is wearing a mask from ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/elderly-at-home-covid-19.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/amp/",
-      "publishedDateTime": "2020-08-18T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

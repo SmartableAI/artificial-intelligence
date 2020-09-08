@@ -2,6 +2,47 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-08-14-giant-lawsuit-alleges-instagram-used-face-recognition-illegally.md",
+      "title": "Giant Lawsuit Alleges Instagram Used Face Recognition Illegally",
+      "excerpt": "A new $500 billion class-action lawsuit alleges Instagram collects and stores people's biometric data without their consent.",
+      "sourceUrl": null,
+      "webUrl": "https://nerdist.com/article/lawsuit-instagram-face-recognition-california/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nerdist.com/wp-content/uploads/2020/08/Lawsuit-against-Instagram-feature-image-08132020.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nerdist.com/article/lawsuit-instagram-face-recognition-california/?amp",
+      "cdnAmpWebUrl": "https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/article/lawsuit-instagram-face-recognition-california/?amp",
+      "publishedDateTime": "2020-08-14T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nerdist",
+        "domain": "nerdist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return.md",
       "title": "AI, analytics, and NLP are valuable, despite lack of obvious financial return",
       "excerpt": "Instead of focusing on return to business, consider how technologies can give your business a competitive advantage.",
@@ -1076,47 +1117,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-algorithm-created-by-deep-learning-finds-potential-therapeutic-targets-throughout-the-human-genome.md",
-      "title": "Algorithm created by deep learning finds potential therapeutic targets throughout the human genome",
-      "excerpt": "Researchers at the New Jersey Institute of Technology and the Children's Hospital of Philadelphia have developed an algorithm through machine learning that helps predict sites of DNA methylation -- a process that can change the activity of DNA without changing its overall structure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061&org=NSF&from=news",
-      "originalUrl": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061&org=NSF&from=news",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nsf.gov/news/mmg/media/images/dna_methylation_f.jpg",
-          "width": 350,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nsf.gov",
-        "domain": "nsf.gov",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

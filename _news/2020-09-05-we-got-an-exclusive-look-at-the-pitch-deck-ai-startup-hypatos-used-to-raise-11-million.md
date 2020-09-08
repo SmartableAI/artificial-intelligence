@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/ai-startup-hypatos-pitch-deck-fund
 webUrl: "https://www.businessinsider.com/ai-startup-hypatos-pitch-deck-funding-2020-9"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Business Insider
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's an exclusive look at the pitch deck AI startup Justpoint used to win the backing of Clover Health CEO Vivek Garipalli"
-    excerpt: "A recent study found the average cost of a medical malpractice claim in the US has risen by 50% since 2009."
-    publishedDateTime: 2020-09-03T12:46:00Z
-    webUrl: "https://www.businessinsider.com/clover-health-ceo-backs-ai-startup-justpoint-2020-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
-    images:
-      - url: "https://i.insider.com/5f50c9957ed0ee001e25d308?width=600&format=jpeg&auto=webp"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Check out the pitch deck that AI sports app Mustard just raised $1.7 million to bring elite-level baseball pitching coaching to school kids"
     excerpt: "The AI tech is also proving popular at the professional level, with some Major League Baseball organisations expressing interest says Mustard."
     publishedDateTime: 2020-09-04T11:07:00Z

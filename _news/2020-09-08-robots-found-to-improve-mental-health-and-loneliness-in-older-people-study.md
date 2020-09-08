@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Robots found to improve mental health and loneliness in older people – study"
-excerpt: "Robots could be introduced to help care for the elderly after a study showed they can improve mental health and have the potential to reduce loneliness in older people."
-publishedDateTime: 2020-09-07T22:55:00Z
-originalUrl: "https://www.belfasttelegraph.co.uk/news/uk/robots-found-to-improve-mental-health-and-loneliness-in-older-people-study-39512589.html"
-webUrl: "https://www.belfasttelegraph.co.uk/news/uk/robots-found-to-improve-mental-health-and-loneliness-in-older-people-study-39512589.html"
-ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/robots-found-to-improve-mental-health-and-loneliness-in-older-people-study-39512589.html"
-cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/robots-found-to-improve-mental-health-and-loneliness-in-older-people-study-39512589.html"
+excerpt: "The study marks the first time researchers have collaborated to explore the possibility of developing culturally competent robots. #Technology #Health #Robots #PA"
+publishedDateTime: 2020-09-08T05:11:00Z
+originalUrl: "https://www.newschain.uk/news/robots-found-improve-mental-health-and-loneliness-older-people-study-30819"
+webUrl: "https://www.newschain.uk/news/robots-found-improve-mental-health-and-loneliness-older-people-study-30819"
+ampWebUrl: "https://www.newschain.uk/news/robots-found-improve-mental-health-and-loneliness-older-people-study-30819"
+cdnAmpWebUrl: "https://www-newschain-uk.cdn.ampproject.org/c/s/www.newschain.uk/news/robots-found-improve-mental-health-and-loneliness-older-people-study-30819"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Belfast Telegraph
-  domain: belfasttelegraph.co.uk
+  name: NewsChain
+  domain: newschain.uk
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.belfasttelegraph.co.uk/news/uk/167a1/39512586.ece/AUTOCROP/w1240h700/bpanews_625ec148-2837-46ca-8430-14de28480585_1"
-    width: 1240
-    height: 700
+  - url: "https://www.newschain.uk/bsp-static/image/2020/09/08/05/eda78d565e1856c9ec67db4b7387ce81Y29udGVudHNlYXJjaCwxNTk5NjI4MjU2-2.55380519.jpg?crop=61:45,smart&auto=webp"
+    width: 1564
+    height: 1154
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 380
         isCached: true
 
-secured: "02f8mJIjxadQb2gJGCtmF0L/1SNo0XC/9oUljcc4Lxr/is5V8hHnC9TcxdIYNMMyrSaLnt3zDkBiSHxSVcbnw2uzOWF8mppvJY0M9N+e0to9M3KN7pQoMQaHlzBuBf8dJaQVoAkCZyVZL3qT/z7mnLElbdENMQEaIItumyA5F1WdqJ+Ee3h/h/ow7+S2Ds+uugwMg4FqMG7pjLaLalYjKCrKtGVfW2FXfWAHGQHEJeA0I+RPbblbq7fIEkDbLVuYOKGUPT5VD0yecLmGlZxDWlPQO5aovAbZa3SvB+XJGDvdmelLdCypvFQ87M7GUETJMenU6U8TjHllDi6xJ9rMsLpFBqRKZQaZrpQLXDrn5Zw=;Y7taYO1x5u/xEKor9SBrOQ=="
+secured: "QmW7X9iEVmjGNEs1Yam8ESZn/iCrTXkN+TSy8JNqrorUTF66r16o7STAuw/w2QgYVIrw2gKeL29QTk2mu/l5ycpVzRt36zDj7IcUDjMFIyNu3pw935WI8KMj8NdupgETnKHwBBEkEw/iSmAYHyXhPwvsr3kb5KN/f0CUQ4o1RYcidvUIEyc40SKL6OV+cYO6tcBhZEZnWeG3Zav34CiNmHHMSxqQmp3t+nSUIIZjZQNdzmpit3RrOWvnWkB7LIbkE5wz1LSmiZq05I4DKR7TW919ZGZexACXxK7QhVxbzbPHu+/XDhYcA8KkbUQ10SBNBx4/MHXlq0xkNkq6rO8Q5vJaUy1r4oqNOsNdUvo5ztI=;vNYl273Pi1w0zIqsJOw2Rw=="
 ---
 

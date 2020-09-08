@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-17-ibm-unveils-power10-processor-for-big-data-analytics-and-ai-workloads.md",
+      "title": "IBM unveils Power10 processor for big data analytics and AI workloads",
+      "excerpt": "At the Hot Chips 2020 virtual conference, IBM unveiled the Power10, its first commercial 7-nanometer processor, manufactured by Samsung.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/16/ibm-unveils-power10-processor-for-big-data-analytics-and-ai-workloads/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/POWER-10_06-e1597548323219.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/16/ibm-unveils-power10-processor-for-big-data-analytics-and-ai-workloads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/16/ibm-unveils-power10-processor-for-big-data-analytics-and-ai-workloads/amp/",
+      "publishedDateTime": "2020-08-16T21:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-artificial-intelligence-ai-robots.md",
       "title": "Artificial Intelligence (AI) Robots",
       "excerpt": "Global Artificial Intelligence (AI) Robots Market Professional Survey Report 2019 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making ...",
@@ -1266,56 +1316,6 @@
         "name": "HotHardware",
         "domain": "hothardware.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-amd-cdna-gpu-to-rival-nvidia-ampere-in-late-2020.md",
-      "title": "AMD CDNA GPU to rival Nvidia Ampere in late 2020",
-      "excerpt": "AMD’s next attempt on the server GPU front embraces its new CDNA architecture that is tailored primarily for AI as well as HPC and therefore promises to be a better fit for respective customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Bd7dkokF6QEnDo8VEnUrrm-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "publishedDateTime": "2020-07-29T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.engadget.com/amp/nhtsa-tool-selfdriving-testing-05354659
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nhtsa-tool-selfdriving-testing-053546596.html"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Engadget
@@ -31,49 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "What coronavirus means for the future of self-driving cars"
-    excerpt: "It's 2025 and driverless cars still aren't zooming around everywhere. Where are the chilled out passengers on their phones, or napping, as an invisible \"driver\" navigates a crowded intersection? They're still mostly stuck in the backseat as a human driver shuttles them around."
-    publishedDateTime: 2020-09-03T12:00:00Z
-    webUrl: "https://mashable.com/article/autonomous-vehicles-2025/"
-    ampWebUrl: "https://mashable.com/article/autonomous-vehicles-2025.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicles-2025.amp"
+  - title: "Daimler Trucks tests self-driving vehicles in New Mexico"
+    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics are expanding their testing of self-driving trucks to public roads in New Mexico along major long-haul freight routes."
+    publishedDateTime: 2020-09-03T21:29:00Z
+    webUrl: "https://www.kob.com/albuquerque-news/daimler-trucks-tests-self-driving-vehicles-in-new-mexico/5850651/"
+    ampWebUrl: "https://amp.kob.com/articles/daimler-trucks-tests-self-driving-vehicles-in-new-mexico-5850651.html"
+    cdnAmpWebUrl: "https://amp-kob-com.cdn.ampproject.org/c/s/amp.kob.com/articles/daimler-trucks-tests-self-driving-vehicles-in-new-mexico-5850651.html"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
+      name: KOB 4
+      domain: kob.com
+    quality: 59
     images:
-      - url: "https://mondrian.mashable.com/2020%252F09%252F03%252F6f%252Fa6d4e4206f524273a456c835e927fc6a.f164f.jpg%252F1200x630.jpg?signature=Gkxu5UScrquIxeAET3ZxIXak-BE="
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Yandex, Uber to spin off self-driving unit of JV"
-    excerpt: "Yandex and Uber Technologies Inc. will spin off the self-driving car unit of their joint venture into a separate company, giving Yandex more control over the businesses and paving the way for new investors."
-    publishedDateTime: 2020-09-04T10:14:00Z
-    webUrl: "https://www.autonews.com/mobility-report/yandex-uber-spin-self-driving-unit-jv"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Yandex-MAIN_0.jpg"
+      - url: "https://www.kob.com/KOB_800x450.jpg"
         width: 800
-        height: 600
+        height: 450
         isCached: true
-  - title: "Self-driving restaurant-on-wheels brings food trucks into the future"
-    excerpt: "The food truck can go where it experiences the highest demand, and can serve as many customers as possible while instituting a safe, social distancing policy. The Streat builds on that idea with an autonomous,"
-    publishedDateTime: 2020-09-06T21:00:00Z
-    webUrl: "https://www.yankodesign.com/2020/09/06/self-driving-restaurant-on-wheels-brings-food-trucks-into-the-future/"
+  - title: "Tesla Full Self-Driving Review"
+    excerpt: "Tesla Motors says it's developing hardware and software to power the world’s first self-driving cars. The software, called, ‘Full Self-Driving Capability’, costs Tesla owners an additional $8,000 to buy."
+    publishedDateTime: 2020-09-04T17:29:00Z
+    webUrl: "https://www.consumerreports.org/video/view/cars/auto-test-track/6185173516001/tesla-full-self-driving-review/"
     type: article
     provider:
-      name: Yanko Design
-      domain: yankodesign.com
-    quality: 24
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 39
     images:
-      - url: "https://www.yankodesign.com/images/design_news/2020/08/Stria_folding_ruler-510x314.jpg"
-        width: 510
-        height: 314
+      - url: "https://f1.media.brightcove.com/8/1078702682/1078702682_6171073910001_6171086182001-th.jpg?pubId=1078702682&videoId=6171086182001"
+        width: 580
+        height: 326
         isCached: true
 
 secured: "O0icCXOsfHDKHS7mi1mGp8WvOFGdTL/JgmGHrpU/2aSAVWh2WKYlQojzjLLu1MGGrJ5dFhgUvvsQr1nblZDTzrIrX0bPZJhp4XiTnKsu1fI+zqsyLMca1bhhgdz1CG1yloBmQaIc3FJeaeoZkBfAjCoZ74FF9aAan4tkSmgJsH/RBh7STjBr8hp6duYxZ2lXo+BwnbZkrdxy1vERl5+U3RWWpSUBUZ70+Nr0CiygbFM7/UlAHWRINb43kdB7e2zFGVSm7WwRxR2ZubuETAzg5qyZ4x7KJqBQt8VFbPUb6tD/NTNZCwbapjO/kldMKNgzzY61xlk5JAJPH9Zn4t2SRlE50ZTAZn04n7+gRbZWDMjFXORlMJ329kIAI18uuRwGACaWDbDW5rM8t0dJGk66OpygC+SXM9lyh/eBGxYdVspWb7Nt9bty3dQ3JnPZO9t2weA9Oz4+wG3bvj4so3ke66pektrJAT1QpbRpicxCj9LdL631YVNegC9W2YBFDhpVXy/dqgs+EQ9wVVa1hbdBuMlhmafzxTQHBiYM2GkZTqI=;H6Se8xwVdd82Xz+rMw2iQQ=="

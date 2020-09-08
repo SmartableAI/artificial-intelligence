@@ -2,6 +2,56 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-08-03-how-machine-learning-is-powering-a-new-generation-of-app-development.md",
+      "title": "How Machine Learning Is Powering A New Generation Of App Development",
+      "excerpt": "App development integrates many challenges, and these business decisions will trickle down to your user experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/03/how-machine-learning-is-powering-a-new-generation-of-app-development/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f241e89c6dd7fb1c4cf29d5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/03/how-machine-learning-is-powering-a-new-generation-of-app-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/03/how-machine-learning-is-powering-a-new-generation-of-app-development/amp/",
+      "publishedDateTime": "2020-08-03T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-03-linode-cloud-gpus-outperform-aws-and-others-for-price-performance.md",
       "title": "Linode Cloud GPUs Outperform AWS and Others for Price-Performance",
       "excerpt": "Alternative cloud provider Linode has published a report titled \"GPU Price-Performance Benchmarking,\" highlighting commissioned research by Cloud Spectator evaluating the price-performance of Linode GPU-based virtual machines against those of Amazon Web Services,",
@@ -1066,56 +1116,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-01-security-news-this-week-rite-aid-used-facial-recognition-in-stores-for-nearly-a-decade.md",
-      "title": "Security News This Week: Rite Aid Used Facial Recognition in Stores for Nearly a Decade",
-      "excerpt": "Rite Aid Used Facial Recognition in Hundreds of Stores for 8 Years Reuters this week published a deep investigation into the use of facial recognition technology by Rite Aid, which the drugstore chain deployed to 200 stores over the last eight years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f2458585fa1be63d9469833/master/pass/Security_riteaid_h_15252547.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/amp",
-      "publishedDateTime": "2020-08-01T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

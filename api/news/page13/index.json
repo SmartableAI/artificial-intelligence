@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-08-26-ai-will-revolutionize-healthcare-the-transformation-has-already-begun.md",
+      "title": "AI Will Revolutionize Healthcare. The Transformation Has Already Begun.",
+      "excerpt": "Artificial intelligence offers an unprecedented opportunity to cut this Gordian Knot and reshape the practice of healthcare. Of the many ways in which AI will transform our lives in the coming years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/",
+      "featuredContent": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f45c7bcd65e9b287f6b6c73%2F0x0.jpg%3FcropX1%3D75%26cropX2%3D1005%26cropY1%3D0%26cropY2%3D523",
+          "width": 930,
+          "height": 523,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/amp/",
+      "publishedDateTime": "2020-08-26T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review.md",
       "title": "YouTube removes record number of videos after increasing role of AI in content review",
       "excerpt": "YouTube says it took down a record number of videos in the second quarter of this year due to an increased use of AI in its content review efforts.",
@@ -968,32 +1019,41 @@
     {
       "path": "_news/2020-08-26-covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely.md",
       "title": "COVID 19 Update: Global Healthcare Artificial Intelligence Market Stocks Gain, Rises Immensely",
-      "excerpt": "Healthcare Artificial Intelligence Market” Healthcare Artificial Intelligence (AI) Market Research Report: Information by Component (Hardware, Software,",
+      "excerpt": "The global healthcare artificial intelligence market 2020 is scoring in small-leaps. Its shares have surged, which is a sign that the market’s size is widening after months of leadership by big technology companies after less impact of Coronavirus.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely",
+      "webUrl": "https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely-2020-08-25",
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.abnewswire.com/uploads/1598357109.jpeg",
-          "width": 417,
-          "height": 455,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17242858",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17242858",
-      "publishedDateTime": "2020-08-25T17:05:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T17:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1002,9 +1062,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1107,55 +1166,6 @@
         "AI Ethics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-researchers-ai-can-perform-3d-motion-capture-with-any-off-the-shelf-camera.md",
-      "title": "Researchers’ AI can perform 3D motion capture with any off-the-shelf camera",
-      "excerpt": "In a paper, researchers at the Max Planck Institute and Facebook Reality Labs describe an AI-powered motion capture system that works with any camera.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/25/researchers-ai-can-perform-3d-motion-capture-with-any-off-the-shelf-camera/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/4f0a601e-9a00-42a3-9aca-40583a2423d5-e1598383073277.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/25/researchers-ai-can-perform-3d-motion-capture-with-any-off-the-shelf-camera/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/researchers-ai-can-perform-3d-motion-capture-with-any-off-the-shelf-camera/amp/",
-      "publishedDateTime": "2020-08-25T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

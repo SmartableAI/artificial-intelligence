@@ -273,7 +273,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07",
       "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07",
       "featuredContent": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -608,25 +608,34 @@
     {
       "path": "_news/2020-09-07-global-artificial-intelligence-ai-chips-market-2020-to-2024-featuring-advanced-micro-devices-alphabet-apple-among-others.md",
       "title": "Global Artificial Intelligence (AI) Chips Market (2020 to 2024) - Featuring Advanced Micro Devices, Alphabet & Apple Among Others",
-      "excerpt": "The \"Global Artificial Intelligence (AI) Chips Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence (AI) chips market is poised to grow by $ 54.03 billion during 2020-2024 progressing at a CAGR of 42% during the forecast period.",
+      "excerpt": "Dublin, Sept. 07, 2020 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) Chips",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-ai-chips-market-2020-to-2024-featuring-advanced-micro-devices-alphabet-apple-among-others-1029566080",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-ai-chips-market-2020-to-2024-featuring-advanced-micro-devices-alphabet-apple-among-others-1029566080",
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-to-2024---featuring-advanced-micro-devices-alphabet-apple-among-others-2020-09-07-51843431",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-to-2024---featuring-advanced-micro-devices-alphabet-apple-among-others-2020-09-07-51843431",
       "featuredContent": null,
       "heat": 70,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-07T02:41:00-07:00",
+      "publishedDateTime": "2020-09-07T02:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

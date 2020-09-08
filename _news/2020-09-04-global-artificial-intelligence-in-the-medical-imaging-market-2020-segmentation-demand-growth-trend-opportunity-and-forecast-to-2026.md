@@ -25,30 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in the U.S. Fashion Market 2020-2025 - Increasing Need for Inventory Management, Growing Influence of Social Media"
-    excerpt: "The \"United States AI in Fashion Market By Component (Solutions and Services), By Deployment Mode (Cloud v/s On-Premises), By Category (Apparel, Accessories, Beauty & Cosmetics, Others), By Application,"
-    publishedDateTime: 2020-09-07T12:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-the-u-s-fashion-market-2020-2025-increasing-need-for-inventory-management-growing-influence-of-social-media-1029566459"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-the-u-s-fashion-market-2020-2025-increasing-need-for-inventory-management-growing-influence-of-social-media-1029566459"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-the-u-s-fashion-market-2020-2025-increasing-need-for-inventory-management-growing-influence-of-social-media-1029566459"
+  - title: "Worldwide Artificial Intelligence Chipsets Market Outlook to 2026: Emerging Trends and Will Generate New Growth Opportunities Status"
+    excerpt: "Global “Artificial Intelligence Chipsets Market” Market study report covers the global and regional market with an"
+    publishedDateTime: 2020-09-07T14:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/worldwide-artificial-intelligence-chipsets-market-outlook-to-2026-emerging-trends-and-will-generate-new-growth-opportunities-status-2020-09-07"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
-  - title: "Europe AI in Social Media Market, Forecast to 2025 with Profiles of 10 Leading Players Including Microsoft, Google, AWS, Adobe and Facebook"
-    excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research."
-    publishedDateTime: 2020-09-07T11:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 5
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "8NzSM6W6ZuFBzF0Ecq3KyCg0rGFO749H5wEGrdGREGjCUBoytMsRZ775JVsxeZViERzFJLbwEmxKCRWEPArwIopILEyY/z1gHvSTW1+YrFE4ARcSZHmMKg8ccY28Dn+4DQaKCfWkkiZW0xD2P8jCkk96DeZK932PBJoplK8Dj1xryy/kzIkNus4e35fW61ahWBTdFAplihIdCpOIW/qFz8lERimADB5U78HmyZWmXGrzL5VFHtXNBKIEzLPKXXE8c0qooPAIFjJNq4CDv9tgVT07Dah+IuRMQ3N9oj3DAk53yWG3nWTZOyEhUZM65/uKP2x7arYgIgvrCsPo67QbFQQsVU18Osipokz0tB95G2k=;eR2PILiwccFdODrP03zRiA=="

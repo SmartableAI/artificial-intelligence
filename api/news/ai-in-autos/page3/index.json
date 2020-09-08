@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-11-artificial-intelligence-drug-discovery-startup-atomwise-raises-123m.md",
+      "title": "Artificial intelligence drug discovery startup Atomwise raises $123M",
+      "excerpt": "Artificial intelligence drug discovery startup Atomwise Inc. announced today it has raised $123 million in new funding to scale up its AI technology platform. The Series B round was led by B Capital Group and Sanabil Investments and included DCVC,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/08/11/artificial-intelligence-drug-discovery-startup-atomwise-raises-123m/",
+      "originalUrl": "https://siliconangle.com/2020/08/11/artificial-intelligence-drug-discovery-startup-atomwise-raises-123m/",
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/atom.png",
+          "width": 886,
+          "height": 587,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-11T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-hyundai-aptiv-form-joint-venture-motional-to-develop-self-driving-cars.md",
       "title": "Hyundai, Aptiv form joint venture Motional to develop self-driving cars",
       "excerpt": "Motional . Hey, remember Aptiv? You know, that company that's been operating self-driving BMWs around Las Vegas for the last few years? Well, it looks like it's ditching the Germa",
@@ -1260,47 +1302,6 @@
       "provider": {
         "name": "Al Bawaba News",
         "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-26-audi-working-with-nvidia-to-create-self-driving-ai-cars-by-2020.md",
-      "title": "Audi working with NVIDIA to create self-driving AI cars by 2020",
-      "excerpt": "Audi will have self-driving artificially intelligent cars powered ... world thanks to mapping tie ups with TomTom and HERE plus Baidu in China and ZenRin in Japan. • All the latest from CES ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoexpress.co.uk/car-news/ces-2017/98188/audi-working-with-nvidia-to-create-self-driving-ai-cars-by-2020",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.autoexpress.co.uk/image/private/s--FadMvx4i--/v1562243870/autoexpress/2017/01/100872_4-audiq7.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AutoExpress",
-        "domain": "autoexpress.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

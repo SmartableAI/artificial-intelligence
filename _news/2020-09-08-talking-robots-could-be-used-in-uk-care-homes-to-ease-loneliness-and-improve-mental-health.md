@@ -42,20 +42,20 @@ related:
         height: 843
         isCached: true
   - title: "Robots found to improve mental health and loneliness in older people – study"
-    excerpt: "Robots could be introduced to help care for the elderly after a study showed they can improve mental health and have the potential to reduce loneliness in older people."
-    publishedDateTime: 2020-09-07T22:55:00Z
-    webUrl: "https://www.belfasttelegraph.co.uk/news/uk/robots-found-to-improve-mental-health-and-loneliness-in-older-people-study-39512589.html"
-    ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/robots-found-to-improve-mental-health-and-loneliness-in-older-people-study-39512589.html"
-    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/robots-found-to-improve-mental-health-and-loneliness-in-older-people-study-39512589.html"
+    excerpt: "The study marks the first time researchers have collaborated to explore the possibility of developing culturally competent robots. #Technology #Health #Robots #PA"
+    publishedDateTime: 2020-09-08T05:11:00Z
+    webUrl: "https://www.newschain.uk/news/robots-found-improve-mental-health-and-loneliness-older-people-study-30819"
+    ampWebUrl: "https://www.newschain.uk/news/robots-found-improve-mental-health-and-loneliness-older-people-study-30819"
+    cdnAmpWebUrl: "https://www-newschain-uk.cdn.ampproject.org/c/s/www.newschain.uk/news/robots-found-improve-mental-health-and-loneliness-older-people-study-30819"
     type: article
     provider:
-      name: Belfast Telegraph
-      domain: belfasttelegraph.co.uk
+      name: NewsChain
+      domain: newschain.uk
     quality: 56
     images:
-      - url: "https://www.belfasttelegraph.co.uk/news/uk/167a1/39512586.ece/AUTOCROP/w1240h700/bpanews_625ec148-2837-46ca-8430-14de28480585_1"
-        width: 1240
-        height: 700
+      - url: "https://www.newschain.uk/bsp-static/image/2020/09/08/05/eda78d565e1856c9ec67db4b7387ce81Y29udGVudHNlYXJjaCwxNTk5NjI4MjU2-2.55380519.jpg?crop=61:45,smart&auto=webp"
+        width: 1564
+        height: 1154
         isCached: true
 
 secured: "c4nL7mmo3jEiVmUtJmBRWg0VWYIVsUXz9IVDtZ30Ch2LuDvyiMM/m45b5Q3829jLXU7FaJm9zfZCRh7sMGOxR//EIeX/gfXle/slVyK8naIyV1DYuwS2s/aW+dQVhBh9ybXPedpHsSwoXlzYJdWgW4PaU8SDwdj2TDWs3jdrSemcbXmp0MslExyfS03yQOTPS6S4jJTpbVaeORrHoSPYZ7D5/Y5n5JYDQp8Dg2piCd+d3vLTcCAhRmATF68U8mEWXSg9au5nZthAxx7rOz26wnXxzvoOspOZType+a1JE7ZtapiiLH33pPikhvvR2UZ2XONVJOuYIj90SbisUlivoq4J8ujdnUuONwl7SfmYh4g=;QZPF3SHyIbszdwT964847A=="
