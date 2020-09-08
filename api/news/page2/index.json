@@ -2,6 +2,188 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-07-how-ai-and-machine-learning-are-redefining-cybersecurity.md",
+      "title": "How AI and Machine Learning Are Redefining Cybersecurity",
+      "excerpt": "If you've been paying attention to cybersecurity news this past year, then you already know. All of them have experienced truly staggering data breaches in 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/47088-how-ai-and-machine-learning-are-redefining-cybersecurity",
+      "originalUrl": "https://www.dcvelocity.com/articles/47088-how-ai-and-machine-learning-are-redefining-cybersecurity",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/user-submissions/articles/91b65cfe-1e09-4c2e-83bf-db9225cca11e.jpg?height=635&t=1599470827&width=1200",
+          "width": 600,
+          "height": 283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-07T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-amazon-braket-get-started-with-quantum-computing.md",
+      "title": "Amazon Braket: Get started with quantum computing",
+      "excerpt": "Amazon’s quantum computing service is currently good for learning about quantum computing and developing NISQ-regime quantum algorithms, but stay tuned",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3573372/amazon-braket-get-started-with-quantum-computing.html",
+      "originalUrl": "https://www.infoworld.com/article/3573372/amazon-braket-get-started-with-quantum-computing.html",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/08/quantum_logic_gates_by_rxtreme_cc_by-sa_4-0_2550x3050-100856122-large.jpg",
+          "width": 1200,
+          "height": 1435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3573372/amazon-braket-get-started-with-quantum-computing.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3573372/amazon-braket-get-started-with-quantum-computing.amp.html",
+      "publishedDateTime": "2020-09-07T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-robots-found-to-ease-loneliness-in-older-people-in-care-homes.md",
+      "title": "Robots found to ease loneliness in older people in care homes",
+      "excerpt": "Culturally competent” robots could improve mental health and reduce loneliness in older people, a new study has found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
+      "originalUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.yorkshirepost.co.uk/webimg/QVNIMTE2OTg2NDIz.jpg",
+          "width": 1125,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
+      "cdnAmpWebUrl": "https://www-yorkshirepost-co-uk.cdn.ampproject.org/c/s/www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
+      "publishedDateTime": "2020-09-06T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Yorkshire Post",
+        "domain": "yorkshirepost.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event.md",
+      "title": "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event",
+      "excerpt": "Infoworks.io, the leader in Enterprise Data Operations and Orchestration (EDO2) systems, announces that the company is co-sponsoring a Unified Data",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event-2020-08-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event-2020-08-31",
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-06T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-07-chinas-driverless-car-upstarts-see-robotaxis-scaling-up-in-3-years-as-tech-firms-race-to-get-ahead.md",
       "title": "China's driverless car upstarts see robotaxis scaling up in 3 years as tech firms race to get ahead",
       "excerpt": "A number of so-called \"robotaxi\" projects have popped up in the world's second-largest economy over the past two years, with the companies involved eyeing creating viable autonomous ride hailing businesses.",
@@ -139,55 +321,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-global-ai-over-edge-computing-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025.md",
-      "title": "Global AI over Edge Computing Market 2020 with Covid-19 Impact Analysis and Forecast by 2025",
-      "excerpt": "MarketsandResearch.biz has introduced a new report titled Global AI over Edge Computing Market 2020 by Company, Type and Application, Forecast to 2025 that offers an all-encompassing analysis of recent and upcoming states of this industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2020-09-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2020-09-06",
-      "featuredContent": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-06T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -964,7 +1097,7 @@
       "webUrl": "https://www.techrepublic.com/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/",
       "originalUrl": "https://www.techrepublic.com/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/",
       "featuredContent": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1044,155 +1177,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too.md",
-      "title": "TENET Is A Palindrome And Maybe Self-Driving Cars Ought To Be Reversible Too",
-      "excerpt": "TENET and the reversibility of palindromes and self-driving cars. getty. The new sci-fi thriller Tenet has brought palindromes to the forefront of our minds, along with jolting us",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/",
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4d8f8244d95c174212a597%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/amp/",
-      "publishedDateTime": "2020-09-04T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-mustard-raises-17m-to-improve-athletic-mechanics-with-ai.md",
-      "title": "Mustard raises $1.7M to improve athletic mechanics with AI",
-      "excerpt": "Athletic coaching is a massive, multi-billion-dollar industry. No surprise, really, given the massive revenue some top athletes are able to generate. Mustard is working to supplant — or at least augment — some of that pricey coaching with the launch of a new mobile app designed to analyze an",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/04/mustard-raises-1-7m-to-improve-athletic-mechanics-with-ai/",
-      "originalUrl": "https://techcrunch.com/2020/09/04/mustard-raises-1-7m-to-improve-athletic-mechanics-with-ai/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-03-at-3.17.28-PM.jpg?w=1024",
-          "width": 1024,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/04/mustard-raises-1-7m-to-improve-athletic-mechanics-with-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/mustard-raises-1-7m-to-improve-athletic-mechanics-with-ai/amp/",
-      "publishedDateTime": "2020-09-04T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-faulty-facial-recognition-led-to-his-arrestnow-hes-suing.md",
-      "title": "Faulty Facial Recognition Led to His Arrest—Now He’s Suing",
-      "excerpt": "Michael Oliver is the second Black man found to be wrongfully arrested by Detroit police because of the technology—and his lawyers suspect there are many more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
-      "originalUrl": "https://www.vice.com/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
-      "featuredContent": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f4fefdd972acd00959db0e6/lede/1599158657813-img1508.jpeg?crop=1xw:0.8743135838150289xh;center,center",
-          "width": 2689,
-          "height": 1512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
-      "publishedDateTime": "2020-09-04T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

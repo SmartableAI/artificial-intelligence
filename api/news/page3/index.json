@@ -2,6 +2,155 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-04-tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too.md",
+      "title": "TENET Is A Palindrome And Maybe Self-Driving Cars Ought To Be Reversible Too",
+      "excerpt": "TENET and the reversibility of palindromes and self-driving cars. getty. The new sci-fi thriller Tenet has brought palindromes to the forefront of our minds, along with jolting us",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/",
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4d8f8244d95c174212a597%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/amp/",
+      "publishedDateTime": "2020-09-04T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-mustard-raises-17m-to-improve-athletic-mechanics-with-ai.md",
+      "title": "Mustard raises $1.7M to improve athletic mechanics with AI",
+      "excerpt": "Athletic coaching is a massive, multi-billion-dollar industry. No surprise, really, given the massive revenue some top athletes are able to generate. Mustard is working to supplant — or at least augment — some of that pricey coaching with the launch of a new mobile app designed to analyze an",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/04/mustard-raises-1-7m-to-improve-athletic-mechanics-with-ai/",
+      "originalUrl": "https://techcrunch.com/2020/09/04/mustard-raises-1-7m-to-improve-athletic-mechanics-with-ai/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-03-at-3.17.28-PM.jpg?w=1024",
+          "width": 1024,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/04/mustard-raises-1-7m-to-improve-athletic-mechanics-with-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/mustard-raises-1-7m-to-improve-athletic-mechanics-with-ai/amp/",
+      "publishedDateTime": "2020-09-04T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-faulty-facial-recognition-led-to-his-arrestnow-hes-suing.md",
+      "title": "Faulty Facial Recognition Led to His Arrest—Now He’s Suing",
+      "excerpt": "Michael Oliver is the second Black man found to be wrongfully arrested by Detroit police because of the technology—and his lawyers suspect there are many more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
+      "originalUrl": "https://www.vice.com/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
+      "featuredContent": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f4fefdd972acd00959db0e6/lede/1599158657813-img1508.jpeg?crop=1xw:0.8743135838150289xh;center,center",
+          "width": 2689,
+          "height": 1512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
+      "publishedDateTime": "2020-09-04T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-nigeria-to-establish-centre-for-artificial-intelligence-robotics.md",
       "title": "Nigeria to establish centre for artificial intelligence, robotics",
       "excerpt": "The National Information Technology Development Agency (NITDA) has said it is set to establish a Centre for Artificial Intelligence and Robotics in Nigeria.",
@@ -39,6 +188,56 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030.md",
+      "title": "Machine Learning As A Service Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030",
+      "excerpt": "The global Machine Learning As A Service Market stood at US$ 1,071.6 Mn in 2016. The study projects the global",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-04",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-04T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -991,178 +1190,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-the-zacks-analyst-blog-highlights-amazon-apple-salesforcecom-zoom-and-facebook.md",
-      "title": "The Zacks Analyst Blog Highlights: Amazon, Apple, salesforce.com, Zoom and Facebook",
-      "excerpt": "Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets. Stocks recently featured in the blog include: Amazon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-amazon-apple-salesforce.com-zoom-and-facebook-2020-09",
-      "originalUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-amazon-apple-salesforce.com-zoom-and-facebook-2020-09",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-amazon-apple-salesforce.com-zoom-and-facebook-2020-09?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-amazon-apple-salesforce.com-zoom-and-facebook-2020-09?amp",
-      "publishedDateTime": "2020-09-03T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap.md",
-      "title": "OpenAI reveals the pricing plans for its API — and it ain’t cheap",
-      "excerpt": "The company says developers can apply it “to any language task — semantic search, summarization, sentiment analysis, content generation, translation, and more — with only a few examples or ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-03T133902.980-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/amp/",
-      "publishedDateTime": "2020-09-03T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-nitda-set-to-establish-centre-for-artificial-intelligence-robotics.md",
-      "title": "NITDA set to establish centre for Artificial Intelligence, robotics",
-      "excerpt": "In a bid to achieve a robust digital economy, the NITDA is set to establish a Centre for Artificial Intelligence and Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/",
-      "originalUrl": "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/",
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2020/09/EDoWmv9WwAAdlQf.jpg?fit=1024%2C683&ssl=1",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/amp/",
-      "publishedDateTime": "2020-09-03T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-google-clouds-ai-is-being-used-by-the-us-government-to-improve-the-accuracy-of-cancer-diagnoses.md",
-      "title": "Google Cloud's AI is being used by the US government to improve the accuracy of cancer diagnoses",
-      "excerpt": "The US Department of Defense is using Google Cloud's AI tools to research if they can enhance the accuracy of cancer diagnoses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-cloud-nabs-government-deal-for-cancer-research-2020-9",
-      "originalUrl": "https://www.businessinsider.com/google-cloud-nabs-government-deal-for-cancer-research-2020-9",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ee917341918243f207cec86?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-03T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

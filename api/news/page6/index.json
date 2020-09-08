@@ -2,6 +2,186 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-02-calendarai-changes-how-you-prepare-for-meetings.md",
+      "title": "Calendar.AI changes how you prepare for meetings",
+      "excerpt": "Calendar.AI is the go-getter’s dream because it makes scheduling easier. No matter the task, Sync.AI’s advanced business data streamlines the entire process in the palm of your hand. Ready to break out of the Groundhog Day cycle?",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/calendar-ai-1151284/",
+      "originalUrl": "https://www.androidauthority.com/calendar-ai-1151284/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/08/calendar-ai-feature-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/calendar-ai-1151284/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/calendar-ai-1151284/amp/",
+      "publishedDateTime": "2020-09-02T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-amazon-.md",
+      "title": "Amazon запретил полиции использовать технологию распознавания лиц",
+      "excerpt": "Технологический гигант Amazon запретил полиции использовать программы, которые помогают распознать лицо преступника и быстро найти его \"профиль\" в базе данных, как минимум до конца 2020 года. Это прои",
+      "sourceUrl": null,
+      "webUrl": "https://www.pravda.ru/science/1505941-Amazon/",
+      "originalUrl": "https://www.pravda.ru/science/1505941-Amazon/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.pravda.ru/image/preview/article/9/4/1/1505941_five.jpeg",
+          "width": 585,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pravda.ru/amp/science/1505941-Amazon/",
+      "cdnAmpWebUrl": "https://www-pravda-ru.cdn.ampproject.org/c/s/www.pravda.ru/amp/science/1505941-Amazon/",
+      "publishedDateTime": "2020-09-02T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pravda",
+        "domain": "pravda.ru",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-how-to-make-better-hiring-decisions-with-ai-based-talent-assessments.md",
+      "title": "How To Make Better Hiring Decisions With AI-Based Talent Assessments",
+      "excerpt": "As a talent acquisition manager, you may have to deal with plenty of data about your prospective hires. Remember that what was once done manually can now be processed in a fraction of the time with AI-powered talent assessments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/02/how-to-make-better-hiring-decisions-with-ai-based-talent-assessments/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/02/how-to-make-better-hiring-decisions-with-ai-based-talent-assessments/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4cfbc6819db54761d8eea3%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/02/how-to-make-better-hiring-decisions-with-ai-based-talent-assessments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/09/02/how-to-make-better-hiring-decisions-with-ai-based-talent-assessments/amp/",
+      "publishedDateTime": "2020-09-02T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-elon-musk-unveils-updated-neuralink-brain-implant-design-and-surgical-robot.md",
+      "title": "Elon Musk unveils updated Neuralink brain implant design and surgical robot",
+      "excerpt": "Elon Musk's neuroscience startup Neuralink has revealed the \"dramatically simplified\" design for an implant that aims to create brain-to-machine interfaces, alongside the robot that will insert it and several pigs that have the device installed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/",
+      "originalUrl": "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/",
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.dezeen.com/uploads/2020/09/neuralink-elon-musk-woke-studio-technology_dezeen_2364_hero-1-852x479.jpg",
+          "width": 852,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/amp/",
+      "cdnAmpWebUrl": "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/amp/",
+      "publishedDateTime": "2020-09-02T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dezeen",
+        "domain": "dezeen.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-xanadu-launches-quantum-cloud-platform-plans-to-double-qubits-every-6-months.md",
       "title": "Xanadu launches quantum cloud platform, plans to double qubits every 6 months",
       "excerpt": "Xanadu, the quantum computing startup known for Pennylane and Strawberry Fields, has launched its photonics quantum computing platform.",
@@ -984,206 +1164,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-using-amazon-textract-with-aws-privatelink.md",
-      "title": "Using Amazon Textract with AWS PrivateLink",
-      "excerpt": "Amazon Textract now supports Amazon Virtual Private Cloud (Amazon VPC) endpoints via AWS PrivateLink so you can securely initiate API calls to Amazon Textract from within your VPC and avoid using the public internet. In this post, we show you how to access Amazon Textract APIs from within your VPC without",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-textract-with-aws-privatelink/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-textract-with-aws-privatelink/",
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/31/textract-privatelink.jpg",
-          "width": 1000,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T11:58:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-future-cars-may-live-a-lot-longer-analysts-believe.md",
-      "title": "Future cars may live a lot longer, analysts believe",
-      "excerpt": "Vehicle lifecycles are typically about five years with updates sprinkled in, but the lifespan could double to 10 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/future-cars-vehicle-lifecycle-updates/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/future-cars-vehicle-lifecycle-updates/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/I-FdpHll_2IA0qHIZu-4T82tWYU=/2020/02/03/77404ad3-e112-43aa-b8be-6d451870ba75/ep3gwiew4ayb6cd.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/future-cars-vehicle-lifecycle-updates/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/future-cars-vehicle-lifecycle-updates/",
-      "publishedDateTime": "2020-09-01T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh.md",
-      "title": "Google’s AI-powered flood alerts now cover all of India and parts of Bangladesh",
-      "excerpt": "India, the world’s second most populated nation, sees more than 20% of the global flood-related fatalities each year as overrun riverbanks sweep tens of thousands of homes with them. Two years ago, Google volunteered to help.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/01/googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh/",
-      "originalUrl": "https://techcrunch.com/2020/09/01/googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh/",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1228244500.jpg?w=1024",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/01/googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/01/googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh/amp/",
-      "publishedDateTime": "2020-09-01T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2025.md",
-      "title": "Artificial Intelligence Robots Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020 - 2025",
-      "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2025-2020-09-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2025-2020-09-01",
-      "featuredContent": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

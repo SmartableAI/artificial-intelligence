@@ -35,27 +35,36 @@
       ]
     },
     {
-      "path": "_news/2020-09-08-insights-on-the-iot-chip-in-healthcare-global-market-to-2025-key-drivers-and-restraints.md",
-      "title": "Insights on the IoT Chip in Healthcare Global Market to 2025 - Key Drivers and Restraints",
-      "excerpt": "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),",
+      "path": "_news/2020-09-08-global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025.md",
+      "title": "Global Edge Artificial Intelligence (AI) Chip Market 2020 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2025",
+      "excerpt": "MarketsandResearch.biz has published a new report titled, Global Edge Artificial Intelligence (AI) Chip Market",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/insights-on-the-iot-chip-in-healthcare-global-market-to-2025-key-drivers-and-restraints-1029567150",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/insights-on-the-iot-chip-in-healthcare-global-market-to-2025-key-drivers-and-restraints-1029567150",
+      "webUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07",
       "featuredContent": null,
-      "heat": 145,
+      "heat": 147,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/insights-on-the-iot-chip-in-healthcare-global-market-to-2025-key-drivers-and-restraints-1029567150",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insights-on-the-iot-chip-in-healthcare-global-market-to-2025-key-drivers-and-restraints-1029567150",
-      "publishedDateTime": "2020-09-07T12:51:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-07T13:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1271,8 +1280,8 @@
       "title": "Nvidia's top GPU has a formidable new AI rival and it's not who you think it is",
       "excerpt": "Tachyum, the company that plans to kill the CPU and GPU with its universal Prodigy processor, this week shared additional details regarding its upcoming chip.   As it turns out, the new processor will support industry-standard open-source development frameworks for AI applications,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "originalUrl": "https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "webUrl": "https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "originalUrl": "https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
       "featuredContent": null,
       "heat": null,
       "tags": null,
@@ -1287,8 +1296,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
       "publishedDateTime": "2020-08-30T22:00:00-07:00",
       "updatedDateTime": null,
       "provider": {

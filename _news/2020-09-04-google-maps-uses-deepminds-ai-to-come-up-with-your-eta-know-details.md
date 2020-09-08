@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Google Maps predicts traffic slowdowns before they happen"
-    excerpt: "Google said Google Maps now uses DeepMind AI technology in its algorithms “to better predict whether or not you’ll be affected by a slowdown that may not have even started yet.” Aside from ..."
-    publishedDateTime: 2020-09-03T21:59:00Z
-    webUrl: "https://bgr.com/2020/09/03/google-maps-features-waze-incident-reports-deepmind-ai-eta/"
-    ampWebUrl: "https://bgr.com/2020/09/03/google-maps-features-waze-incident-reports-deepmind-ai-eta/amp/"
-    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/09/03/google-maps-features-waze-incident-reports-deepmind-ai-eta/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 44
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2020/08/google-maps-vs-waze-navigation-apps.jpg?quality=70&#038;strip=all"
-        width: 1599
-        height: 1066
-        isCached: true
 
 secured: "e7Vf5bCk+M/4LIBSx8e5IT8CEg7wSz0+S+IIiU6u2Ktt3J3ZCH7+HxY8tb1v7DDKPF5DDp3QqWDGwNr1M5aQvtgLiso5y/JQ/oSvDpwthsDuhwXhwRVKowbneN+el56cIYbpYOhkNHGKNWvFzH5/GD30DOheXbME6r8h+v6fxVrWvTK0K7kt9gIqOeQ30gBiEp/otJAns18+hrbvdaSDCbU0qflA3Cgrr3M997tDSCJdzCQf8a9ugOMpICRh5LzmW4J0Tu7bBPblLqeKvL50ka83IPXdviSYZ6n7HKl3oWDmFYOFPg3CN+E4hxwv2o0gNQ7GZ9mukTNN5l4d+NsqfYHZOKVuYVCyyrOMPhol1ZbTPxivKXH89xuPXcffajkAiCgpv3arbYDfYeIMHMEllbeN1WSXNPakk3rrK9YgNxe0Rv6aFLwCVDhL4/iqIFgIRYSawaRbJeo2YI/uzV1UyH8IlnhDvnQXYOF5kS/5UgIKMSTSFKNxYgM1igGkv15t6nGTBue7VspD8DA6P0x9TykzE+g58HxtTlrwkuJ1t30=;+ZbL2XuePqqKk7dMDOtZtA=="
 ---

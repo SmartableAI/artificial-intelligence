@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-maps-partners
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/09/google-maps-1599221036.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How Google Maps predicts traffic slowdowns before they happen"
-    excerpt: "Google said Google Maps now uses DeepMind AI technology in its algorithms “to better predict whether or not you’ll be affected by a slowdown that may not have even started yet.” Aside from ..."
-    publishedDateTime: 2020-09-03T21:59:00Z
-    webUrl: "https://bgr.com/2020/09/03/google-maps-features-waze-incident-reports-deepmind-ai-eta/"
-    ampWebUrl: "https://bgr.com/2020/09/03/google-maps-features-waze-incident-reports-deepmind-ai-eta/amp/"
-    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/09/03/google-maps-features-waze-incident-reports-deepmind-ai-eta/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 44
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2020/08/google-maps-vs-waze-navigation-apps.jpg?quality=70&#038;strip=all"
-        width: 1599
-        height: 1066
         isCached: true
 
 secured: "rcy9SnHH7zalwkHRisHsmT8kZgeNnPlUfkqCSjYfTjTIKHV0xVAIQkE8kzmDw1rhT5Tlp2JSCJatdlhmAfK9k7XuGkfFwNV/CNXNPujMKBeb/dQUU647o5BnAA/4Y+mda5dPRSQXaQL0k+QgRPQcrFbvEN1cOlzv1yG7BGjNlbVJF0icmccS+Z0ubr9A9QrLVfuHHCBWa1FpPBlXLkQfnekqIEaqVLMo6QgP2uvSig4CcfPoYOuTE6JsNC0IVsejwLVy+zLjdjeXY/2z0DkntnyQjqUl0YuR5OFm4dtxulCpmHNyfJMrOuqEGax6NvvOr2J+2KuQKALtDnEt7vIrhZNAOSFvrv3vuuUiJjMGI8VshmBPdtEMA00r4d+pfimg761i/m+O4eA58PTGDOb7syhMXlsXjGa4eXkoYps3i1mdxZ0yxLSCfUdVUpydC9O/V/iCFJmq+LYoJAXaXgb4rqOmxF8ExKvekC4vr0t7s+Rf9FWVcWnGwb0gB8pGujRXnEylVfboqr7N0C5h9ukg0RBJY9cU1AT0tkqExleQ8E0=;BkdPl+DK3rglahn0loQ8sA=="

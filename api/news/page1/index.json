@@ -2,6 +2,158 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-08-guardian-publishes-op-ed-written-entirely-by-artificial-intelligence-i-have-no-desire-to-wipe-out-humans.md",
+      "title": "Guardian publishes op-ed written entirely by artificial intelligence: ‘I have no desire to wipe out humans’",
+      "excerpt": "The Guardian published an opinion piece written entirely by artificial intelligence on Tuesday to convince readers that the advanced technology has “no desire to wipe out humans.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/op-ed-written-artificial-intelligence-robot",
+      "originalUrl": "https://www.foxnews.com/media/op-ed-written-artificial-intelligence-robot",
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2019/09/23/694940094001_6088542466001_6088555437001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/op-ed-written-artificial-intelligence-robot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/op-ed-written-artificial-intelligence-robot.amp",
+      "publishedDateTime": "2020-09-08T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-transforming-accounting-with-artificial-intelligence-an-interview-with-eli-fathi-ceo-mindbridgeai.md",
+      "title": "Transforming Accounting With Artificial Intelligence: An Interview With Eli Fathi, CEO Mindbridge.ai",
+      "excerpt": "This blog discusses why the accounting profession is undergoing major changes as a result of AI technologies. An example of a World Economic Forum Winner in the Top 100 2020, Mindbridge.ai is profiled due to their leadership in enabling auditors to to improve forensic accounting practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2020/09/08/transforming-accounting-with-artificial-intelligence-an-interview-with-eli-fathi-ceo-mindbridgeai/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2020/09/08/transforming-accounting-with-artificial-intelligence-an-interview-with-eli-fathi-ceo-mindbridgeai/",
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5798eff6b166bed4d10081%2F0x0.jpg",
+          "width": 1200,
+          "height": 705,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-tech-startup-uses-machine-learning-to-help-workers-learn-new-skills.md",
+      "title": "Tech startup uses machine learning to help workers learn new skills",
+      "excerpt": "The coronavirus crisis has accelerated the need for workers to reskill. EmPath is a skills intelligence startup that uses artificial intelligence to offer companies insights into their workforce to ease upskilling and redeployment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2020/09/08/tech-startup-uses-machine-learning-to-help-workers-learn-new-skills.html",
+      "originalUrl": "https://www.cnbc.com/video/2020/09/08/tech-startup-uses-machine-learning-to-help-workers-learn-new-skills.html",
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106693674-image--46--png?v=1599568096",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-facebook-is-working-on-ar-glasses-with-a-focus-on-audio-clarity.md",
       "title": "Facebook is working on AR glasses with a focus on audio clarity",
       "excerpt": "Facebook's Reality Labs Research wing is currently working on a number of projects designed to help us cut through noisy environments and zero in on folks we're trying to hold a conversation with, or enhance our daily lives when used with AR glasses.",
@@ -291,7 +443,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture-2020-09-08",
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture-2020-09-08",
       "featuredContent": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -440,7 +592,7 @@
       "webUrl": "https://www.11alive.com/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3",
       "originalUrl": "https://www.11alive.com/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3",
       "featuredContent": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -481,7 +633,7 @@
       "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/",
       "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/",
       "featuredContent": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -531,7 +683,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07",
       "originalUrl": "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07",
       "featuredContent": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -748,27 +900,36 @@
       ]
     },
     {
-      "path": "_news/2020-09-08-insights-on-the-iot-chip-in-healthcare-global-market-to-2025-key-drivers-and-restraints.md",
-      "title": "Insights on the IoT Chip in Healthcare Global Market to 2025 - Key Drivers and Restraints",
-      "excerpt": "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),",
+      "path": "_news/2020-09-08-global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025.md",
+      "title": "Global Edge Artificial Intelligence (AI) Chip Market 2020 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2025",
+      "excerpt": "MarketsandResearch.biz has published a new report titled, Global Edge Artificial Intelligence (AI) Chip Market",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/insights-on-the-iot-chip-in-healthcare-global-market-to-2025-key-drivers-and-restraints-1029567150",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/insights-on-the-iot-chip-in-healthcare-global-market-to-2025-key-drivers-and-restraints-1029567150",
+      "webUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07",
       "featuredContent": null,
-      "heat": 145,
+      "heat": 147,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/insights-on-the-iot-chip-in-healthcare-global-market-to-2025-key-drivers-and-restraints-1029567150",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insights-on-the-iot-chip-in-healthcare-global-market-to-2025-key-drivers-and-restraints-1029567150",
-      "publishedDateTime": "2020-09-07T12:51:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-07T13:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -785,6 +946,55 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-kick-ass-creator-mark-millar-backs-ai-cameras-in-scottish-football.md",
+      "title": "Kick-Ass creator Mark Millar backs AI cameras in Scottish football",
+      "excerpt": "Covid plan for Scottish football, and Albion Rovers being the club I always loved, I wanted to start it here. I'm lucky to be in a position where financially I could help but also have a great contact list,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/sport/football/54062392",
+      "originalUrl": "https://www.bbc.com/sport/football/54062392",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/A8F9/production/_114275234_gettyimages-479336231.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/sport/amp/football/54062392",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/football/54062392",
+      "publishedDateTime": "2020-09-07T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -985,188 +1195,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-how-ai-and-machine-learning-are-redefining-cybersecurity.md",
-      "title": "How AI and Machine Learning Are Redefining Cybersecurity",
-      "excerpt": "If you've been paying attention to cybersecurity news this past year, then you already know. All of them have experienced truly staggering data breaches in 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/47088-how-ai-and-machine-learning-are-redefining-cybersecurity",
-      "originalUrl": "https://www.dcvelocity.com/articles/47088-how-ai-and-machine-learning-are-redefining-cybersecurity",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dcvelocity.com/ext/resources/user-submissions/articles/91b65cfe-1e09-4c2e-83bf-db9225cca11e.jpg?height=635&t=1599470827&width=1200",
-          "width": 600,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-07T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-amazon-braket-get-started-with-quantum-computing.md",
-      "title": "Amazon Braket: Get started with quantum computing",
-      "excerpt": "Amazon’s quantum computing service is currently good for learning about quantum computing and developing NISQ-regime quantum algorithms, but stay tuned",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3573372/amazon-braket-get-started-with-quantum-computing.html",
-      "originalUrl": "https://www.infoworld.com/article/3573372/amazon-braket-get-started-with-quantum-computing.html",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/08/quantum_logic_gates_by_rxtreme_cc_by-sa_4-0_2550x3050-100856122-large.jpg",
-          "width": 1200,
-          "height": 1435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3573372/amazon-braket-get-started-with-quantum-computing.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3573372/amazon-braket-get-started-with-quantum-computing.amp.html",
-      "publishedDateTime": "2020-09-07T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-robots-found-to-ease-loneliness-in-older-people-in-care-homes.md",
-      "title": "Robots found to ease loneliness in older people in care homes",
-      "excerpt": "Culturally competent” robots could improve mental health and reduce loneliness in older people, a new study has found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
-      "originalUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.yorkshirepost.co.uk/webimg/QVNIMTE2OTg2NDIz.jpg",
-          "width": 1125,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
-      "cdnAmpWebUrl": "https://www-yorkshirepost-co-uk.cdn.ampproject.org/c/s/www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
-      "publishedDateTime": "2020-09-06T22:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Yorkshire Post",
-        "domain": "yorkshirepost.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event.md",
-      "title": "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event",
-      "excerpt": "Infoworks.io, the leader in Enterprise Data Operations and Orchestration (EDO2) systems, announces that the company is co-sponsoring a Unified Data",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event-2020-08-31",
-      "originalUrl": "https://www.marketwatch.com/press-release/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event-2020-08-31",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-06T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

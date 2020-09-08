@@ -1,0 +1,52 @@
+---
+category: news
+title: "Artificial Intelligence Can Improve Process Management In Construction"
+excerpt: "Construction has reasons, from safety to high cost and more, to be a slower adopter of technologies. What is shown is that artificial intelligence can help the industry and is beginning to make inroads."
+publishedDateTime: 2020-09-08T15:08:00Z
+originalUrl: "https://www.forbes.com/sites/davidteich/2020/09/08/artificial-intelligence-can-improve-process-management-in-construction/"
+webUrl: "https://www.forbes.com/sites/davidteich/2020/09/08/artificial-intelligence-can-improve-process-management-in-construction/"
+ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/09/08/artificial-intelligence-can-improve-process-management-in-construction/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/09/08/artificial-intelligence-can-improve-process-management-in-construction/amp/"
+type: article
+quality: 87
+heat: -1
+published: false
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
+    width: 876
+    height: 548
+    isCached: true
+
+related:
+  - title: "10 Ways AI Improves Pricing And Revenue Management"
+    excerpt: "The global Revenue Management market is expected to grow from $14.5B in 2019 to $22.4B by 2024, attaining a Compound Annual Growth Rate (CAGR) of 9.6%. BCG found that automating revenue management systems' pricing rules with AI can increase revenues up to 5% in less than nine months."
+    publishedDateTime: 2020-09-08T03:21:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f56f0b6dc8bdaa63c303cbb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3840%26cropY1%3D0%26cropY2%3D2160"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "Oh++DJSoLUiY0R20oLIZy4iJpPffDp/mRh1c41rr3zm+q/cEQO8+Zgvd8vJUJ/uF2BsndFULyf8qP2KJiv6mc1Woq6Ie+tXo0CTjSXaHdPYeFa753+EcuXnQIQmSKZwG+kC0jJPlaVoaFEozlO/gKz5CgyBiwinOUA3LQbfKUjpkUrl5BFcd7UjFF5ri9yrhvo3QeMUP+G65H89cRHfsnMSheKGT64SDZVsosxiZLIl2LcwtlFd6uP5sm7y0BPqmF/85ljRwQlMxBp6g9530sZjQuFGuzDpq0fH41Aa8iYJ31nRSTveqx4FEvTgCzihAbHBYVjOJXZSJYzTnTMR2meiVEZrgavfuDqcWyP8NaGM=;sc+45f4urRMkXfG6zkMzyw=="
+---
+

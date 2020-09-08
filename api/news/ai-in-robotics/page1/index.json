@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-08-guardian-publishes-op-ed-written-entirely-by-artificial-intelligence-i-have-no-desire-to-wipe-out-humans.md",
+      "title": "Guardian publishes op-ed written entirely by artificial intelligence: ‘I have no desire to wipe out humans’",
+      "excerpt": "The Guardian published an opinion piece written entirely by artificial intelligence on Tuesday to convince readers that the advanced technology has “no desire to wipe out humans.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/op-ed-written-artificial-intelligence-robot",
+      "originalUrl": "https://www.foxnews.com/media/op-ed-written-artificial-intelligence-robot",
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2019/09/23/694940094001_6088542466001_6088555437001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/op-ed-written-artificial-intelligence-robot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/op-ed-written-artificial-intelligence-robot.amp",
+      "publishedDateTime": "2020-09-08T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020.md",
       "title": "Edutainment startup SP Robotic Works bags TiE50 Winner Award at TiEcon 2020",
       "excerpt": "Pioneering as India's edutainment learning platform, SP Robotic Works has been selected as a 2020 TiE50 Winner in the prestigious TiE50 Awards Program. This ten-year-old awards competition is",
@@ -1287,56 +1337,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-apple-launches-aiml-residency-program-to-attract-niche-experts.md",
-      "title": "Apple launches AI/ML residency program to attract niche experts",
-      "excerpt": "The company behind Siri is looking for U.S. and European residents with programming and niche science backgrounds to immerse in the world of AI and ML.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-program-to-attract-niche-experts/",
-      "originalUrl": "https://venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-program-to-attract-niche-experts/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/apple-siri.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-program-to-attract-niche-experts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-program-to-attract-niche-experts/amp/",
-      "publishedDateTime": "2020-08-28T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

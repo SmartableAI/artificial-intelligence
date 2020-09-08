@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-imp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Can Improve Process Management In Construction"
+    excerpt: "Construction has reasons, from safety to high cost and more, to be a slower adopter of technologies. What is shown is that artificial intelligence can help the industry and is beginning to make inroads."
+    publishedDateTime: 2020-09-08T15:08:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2020/09/08/artificial-intelligence-can-improve-process-management-in-construction/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/09/08/artificial-intelligence-can-improve-process-management-in-construction/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/09/08/artificial-intelligence-can-improve-process-management-in-construction/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
+        width: 876
+        height: 548
+        isCached: true
 
 secured: "jnVvs9xxAEY8tc/NdHN9UnR+usUirgFJgOxWAobdFUlTQ1kMm9WDF24YZ6rwNd68LQrIA4keYVTOsmhfPlwhQOuX0p4e54O0M/B/wSZnvBzrFC1B1HB1CvvXB35/pMO64STUPvpxUSE47IZWUah+kd4sbLdZ+SqQ4l2f9QpNYIqmffGbAPcNSKnxV6d1/9ZBaQFfI0VtG5oHVuNIe3C+F8eSa11eCboTmGr5uqofGlyxk3mdgfNOQ1eKShQERT3g4Ik7njW+CwG4zIA89E+uV8tEvaRCN4NJUwbaVX0yfjaJqSvMDmpf7fNceynVZzrSga4L7ppuUnuqWRpvtN/jzB59tuA1y/Qh+eoDagEoNXAMBskmK+Xla06Nr8aKeVAIOgX9GbqT07fofKgFfgnGINus7kOqn0HK33Va4j/tfgCfC5ZEGJBu852GQ0dtNPPfYV+VvfcAbtoyorJ3bBW2jNk2HHb0BGtJBoBMrIs16mQIN/Dl7FQ+gU/t5dOpV4xl7H8SzlKwfb5iL6LjxRcFd+QhAAmvicxYcwxz+IRVn6s=;VHnEqPYXk7yTs61z1PvVNQ=="
 ---

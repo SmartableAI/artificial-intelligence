@@ -47,21 +47,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Daimler Trucks tests self-driving vehicles in New Mexico"
-    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics are expanding their testing of self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-    publishedDateTime: 2020-09-03T21:29:00Z
-    webUrl: "https://www.kob.com/albuquerque-news/daimler-trucks-tests-self-driving-vehicles-in-new-mexico/5850651/"
-    ampWebUrl: "https://amp.kob.com/articles/daimler-trucks-tests-self-driving-vehicles-in-new-mexico-5850651.html"
-    cdnAmpWebUrl: "https://amp-kob-com.cdn.ampproject.org/c/s/amp.kob.com/articles/daimler-trucks-tests-self-driving-vehicles-in-new-mexico-5850651.html"
+  - title: "Consumer Reports Unmasks Tesla’s Full Self-Driving Mystique, Here’s The Upshot"
+    excerpt: "For those that are already versed in self-driving tech, the assessment by CR is a welcome voice that adds more weight to the ongoing qualm by most such experts concerning Tesla and Elon Musk overpromising on what their so-called Full Self-Driving can currently do (see more at this link here )."
+    publishedDateTime: 2020-09-08T15:36:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/08/consumer-reports-unmasks-teslas-full-self-driving-mystique-heres-the-upshot/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/08/consumer-reports-unmasks-teslas-full-self-driving-mystique-heres-the-upshot/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/08/consumer-reports-unmasks-teslas-full-self-driving-mystique-heres-the-upshot/amp/"
     type: article
     provider:
-      name: KOB 4
-      domain: kob.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 85
     images:
-      - url: "https://www.kob.com/KOB_800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f56d5d3392f374c800bd48f%2F0x0.jpg%3FcropX1%3D393%26cropX2%3D8021%26cropY1%3D958%26cropY2%3D4534"
+        width: 1200
+        height: 563
         isCached: true
   - title: "Daimler Trucks tests self-driving vehicles in US Southwest"
     excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."

@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c0263e9637bd4200b-600wi"
@@ -40,6 +41,6 @@ related:
         height: 380
         isCached: true
 
-secured: "NI6lRDlEiJDWf1Q7wYHOYwSgr7YPkp/ETZ2qRE2AsYWxU57Bln9XdO0A/odJAcU9XGtMBbtAw2x4wg8ePzWjOB9+lNNzasAdwb+r3YM5T0iRI3upusKYMMxkc9OqEPTqgc9Oi7w/p/6oqYEWTZEg6X9WpZE2ybwQUAhnD7i/N8AzY49AvKcVhVlyxhQwtOisGrIVA22ziDsTNgFBReRp8wMgxDUStt19qo/ckhwmXNN/tK5e4lMHwCnIrdeImIqe1SMgt7T86yMVpBNYOa5Xx1Yi4YNUPFxmkMPhfOksE303GoF3y77bcvK0a+P0/XlEoe1q0j24LYwmV4jUENCiPohoFdhQpYDS6AU8QjXzS10=;YoPF19OJ3CN67JXPBpCXZA=="
+secured: "/NB6Xp1iULwRBgOhlUI13xUIBzp6ux8M8/m6129YI0m3uwichevWjdcikyvd7b6337jEZZ+HulLZHP32U6FlfYBU29LpOy6ucPN4LN6mwtmGm35iY2OIaztlHi+yQ8Zd/z2T4cvSHwF/d250+D0V9Q0Di4wM4yRTGrtdG0sKmlgGWvWPzlI6Q+l147K36mZ7F6r/JcfPHkaI9dGMr2F2ceezsLqeRLrb6dXIDwmClEh1dM/cAa70dd/exrnEbhEtQ2c99DSFgmkGAMhbl1TU43jJid+bUCuQpfZJxJQvJwTSQPQrGn9ypJVrXAzFZkrJQH/rK0kK4kxdOukR+YBo/IZSMpEW8NuXpx32wvVNVjZ5bK39JOp4/SbOzpx43s584jS7BCTBv9dXa1RNI9YjONrvFaUmX94NnrWPwnUslHA+DHLv+F1L/wovcQTh4kq41+oul00uP8xEND8n8tjQsybjaYnpIOGeLd804/dAjvRO7C8ZFVYkWb1L+3z24ohgHilMFsdVMNOOB+loPBEtJStz4ScYnT5P2B7PbRBZN8s=;Z+I7uQUykJxccDT1k94V8g=="
 ---
 

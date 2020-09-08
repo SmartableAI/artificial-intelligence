@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraph.co.uk/technology/2020/09/08/deliveroo-backer-l
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/09/08/deliveroo-backer-leads-4m-investment-ai-skin-cancer-detection/amp/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 651
     height: 407
     isCached: true
-
-related:
-  - title: "SoftBank leads $136m investment in health start-up"
-    excerpt: "SoftBank Group led a US$100 million (S$136 million) investment in Biofourmis, a software start-up that predicts problems for patients with heart conditions.. Read more at straitstimes.com."
-    publishedDateTime: 2020-09-03T21:56:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/softbank-leads-136m-investment-in-health-start-up"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 22
-    images:
-      - url: "https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg"
-        width: 1200
-        height: 799
-        isCached: true
 
 secured: "i6ofcomMsSAoE/uETuKCC4VIMviK//rtANqdA19+QJ+/bvu7fZFN0w3kQGvmQ2Pg2abynvHRR7tJzK10FTT9TT/R25+Rk45izwqz6x+FmBuUDck2b2aabG1v9yG4pV/jpCohaNJ2q0Ai4DHMC8zPBJM4Yw7LgrJ7ZbjY5ujScXKQw/64CQtAfnxh0b3i0aLGwLsmLhHisplXBXnIy5ObK7KUS9Bv+9t6WNtAc8Kn2TFM8aPM6reJydK97UK5ex5LN0NElg/kzBcmnm7goLJeSv5drnzHFQ8/FpCJcnA3FOu12v7YIFYkS4y/hhs8dZjTVg5AKA3G7J/jZD3bilnUcHUAKKKZMu9Sbrrok/4Z+WI6xCCIrK555+orNM/yXo6OudqvuhyrLBl82c455NogaDj8JovUXkgzcUpLCS/1/d6Yf8+csDPHB1b2SgH2zLFfs75Uqns9F5TT5Wjp8GZChMMaOSL6niloHoeklE6V0TIFHjNXDdY88yB2RVMxV7aFpPELeCSlbWrS+Y0xirHDUWj2+Lq9TmbmCg8pJz7yURA=;MTCiyU6zXFoWM5693ZDG5A=="
 ---

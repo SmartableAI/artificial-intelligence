@@ -2,6 +2,187 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-08-28-qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up.md",
+      "title": "Qualcomm-backed firm releases processor as AI chip race heats up",
+      "excerpt": "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc and Alibaba Group Holding Ltd, on Thursday announced a new chip aimed at handling artificial intelligence functions on battery-powered devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-kneron-tech-idUSKBN25N23K",
+      "originalUrl": "https://www.reuters.com/article/us-kneron-tech-idUSKBN25N23K",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN25N23K",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25N23K",
+      "publishedDateTime": "2020-08-27T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-how-a-scots-wikipedia-scandal-highlighted-ais-data-problem.md",
+      "title": "How a Scots Wikipedia scandal highlighted AI’s data problem",
+      "excerpt": "A Reddit user discovered that most articles aren't written in Scots, raising questions for AI models trained on Wikipedia data.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1896963/the-scots-wikipedia-page-scandal-highlights-ais-data-problem/",
+      "originalUrl": "https://qz.com/1896963/the-scots-wikipedia-page-scandal-highlights-ais-data-problem/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/08/2012-01-18T120000Z_1666797843_GM1E81I19PS01_RTRMADP_3_INTERNET-PROTEST-e1598552874327.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1896963/the-scots-wikipedia-page-scandal-highlights-ais-data-problem/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1896963/the-scots-wikipedia-page-scandal-highlights-ais-data-problem/amp/",
+      "publishedDateTime": "2020-08-27T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change.md",
+      "title": "AI buoyed businesses during the pandemic, and could accelerate permanent change",
+      "excerpt": "IPSoft found that most businesses plan to return furloughed workers to their jobs, but many think AI will change or eliminate those positions within the next two years, white-collar included.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/",
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2017/02/24/d1f519cf-0c12-47a0-a0e1-9673f8bddb6f/resize/1200x/2c2823643b451563b36e0582248598ac/automation-jpbs.jpg",
+          "width": 1200,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-buoyed-businesses-during-the-pandemic-and-could-accelerate-permanent-change/",
+      "publishedDateTime": "2020-08-27T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-professor-alena-buyx-on-the-embedded-ethics-approach-in-ai-development.md",
+      "title": "Professor Alena Buyx on the embedded ethics approach in AI development",
+      "excerpt": "The increasing use of AI (artificial intelligence) in the development of new medical technologies demands greater attention to ethical aspects. An interdisciplinary team at the Technical University of Munich (TUM) advocates the integration of ethics from the very beginning of the development process of new technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.presseportal.de/en/pm/16314/4691000",
+      "originalUrl": "https://www.presseportal.de/en/pm/16314/4691000",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.presseportal.de/some-default.jpg",
+          "width": 1135,
+          "height": 1135,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.presseportal.de/en/pm/amp/16314/4691000",
+      "cdnAmpWebUrl": "https://www-presseportal-de.cdn.ampproject.org/c/s/www.presseportal.de/en/pm/amp/16314/4691000",
+      "publishedDateTime": "2020-08-27T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Na Presseportal",
+        "domain": "presseportal.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-kneron-launches-its-new-ai-chip-to-challenge-google-and-others.md",
       "title": "Kneron launches its new AI chip to challenge Google and others",
       "excerpt": "Fresh off a $40 million Series A round, edge AI specialist Kneron today announced the launch of its newest custom chip, the Kneron KL 720 SoC. With funding from the likes of Alibaba, Sequoia, Horizons Ventures,",
@@ -937,179 +1118,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-amazon-made-rekognition-software-now-able-to-detect-fear.md",
-      "title": "Amazon-made Rekognition software now able to detect fear",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
-      "originalUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=kObCpPJ-dBTpK78Z0j4YY8TPxt4=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/amazon-rekognition-adds-fear.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp",
-      "publishedDateTime": "2020-08-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-this-self-driving-golf-ball-will-make-you-want-to-enter-the-masters.md",
-      "title": "This ‘self-driving’ golf ball will make you want to enter the Masters",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/self-driving-golf-ball/",
-      "originalUrl": "https://mashable.com/video/self-driving-golf-ball/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F09%252F04%252F38%252Ffed6caf40a424550a3331ba510ae14a9.94e59.png%252F1200x630.png?signature=9D2EyK8rc8mZs26bzWZIFwWP6oI=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/self-driving-golf-ball.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/self-driving-golf-ball.amp",
-      "publishedDateTime": "2020-08-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-enterprise-therapeutics-doses-first-subjects-in-phase-1-trial-for-first-in-class-cystic-fibrosis-therapy-etd002.md",
-      "title": "Enterprise Therapeutics Doses First Subjects in Phase 1 Trial for First-in-Class Cystic Fibrosis Therapy ETD002",
-      "excerpt": "Enterprise Therapeutics Ltd (Enterprise), a biopharmaceutical company dedicated to the discovery and development of novel therapies to improve the lives of patients suffering with respiratory disease,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19380767.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19380767.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-clearview-ai-ceo-says-over-2400-police-agencies-are-using-its-facial-recognition-software.md",
-      "title": "Clearview AI CEO says ‘over 2,400 police agencies’ are using its facial recognition software",
-      "excerpt": "More than 2,400 police agencies have entered contracts with Clearview AI, a controversial facial recognition firm, according to comments made by Clearview AI CEO Hoan Ton-That in an interview with Jason Calacanis on YouTube.",
-      "sourceUrl": null,
-      "webUrl": "https://hoantonthat.com/",
-      "originalUrl": "https://www.theverge.com/2020/8/26/21402978/clearview-ai-ceo-interview-2400-police-agencies-facial-recognition",
-      "featuredContent": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hoantonthat.com/assets/images/card.jpg?v13505373516951",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -2,6 +2,188 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-08-12-5-ways-machine-learning-can-thwart-phishing-attacks.md",
+      "title": "5 Ways Machine Learning Can Thwart Phishing Attacks",
+      "excerpt": "Machine learning algorithms can help strengthen the security on every mobile device, making them suitable as employees’ IDs, alleviating the need for easily-hackable passwords.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine-learning-can-thwart-phishing-attacks/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine-learning-can-thwart-phishing-attacks/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f340796a56dba49b87f8d48%2F0x0.jpg",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine-learning-can-thwart-phishing-attacks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine-learning-can-thwart-phishing-attacks/amp/",
+      "publishedDateTime": "2020-08-12T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-caltech-engineers-use-machine-learning-to-help-robots-get-along.md",
+      "title": "Caltech Engineers Use Machine Learning to Help Robots Get Along",
+      "excerpt": "When several robots in motion inhabit the same space, more challenges arise. Multi-robot scenarios are becoming more common with the advancement of autonomous vehicles (AVs) and use of drones for various applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20591/Caltech-Engineers-Use-Machine-Learning-to-Help-Robots-Get-Along.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.engineering.com/portals/0/BlogFiles/drones.png",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.engineering.com/amp/20591.html",
+      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20591.html",
+      "publishedDateTime": "2020-08-12T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering",
+        "domain": "engineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-facebook-to-engage-external-auditors-to-validate-its-content-review-report.md",
+      "title": "Facebook to engage external auditors to validate its content review report",
+      "excerpt": "Currently, the company reports across 12 areas on Facebook and 10 on Instagram, including bullying, harassment, hate speech, and graphic content.",
+      "sourceUrl": null,
+      "webUrl": "https://transparency.facebook.com/community-standards-enforcement",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/-XM2Nhn2gP6.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning.md",
+      "title": "AI startup steps in to unlock the puzzle of infertility with machine learning",
+      "excerpt": "Computer vision technology helps physicians identify the most viable embyos for implantation, reducing the time to pregnancy for patients on average by 15%.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/12/ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2020/08/12/ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning/",
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-539667929.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/12/ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/12/ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning/amp/",
+      "publishedDateTime": "2020-08-12T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-artificial-intelligence-ethics-a-primary-concern-for-ibm.md",
       "title": "Artificial intelligence ethics a 'primary concern' for IBM",
       "excerpt": "Technology Editor at the Australian David Swan says it is “incredibly important” to address the ethics in artificial intelligence in order to protect the use of Australian data.",
@@ -956,196 +1138,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-brain-net-a-deep-learning-methodology-accurately-predicts-surgeon-certification-scores-based-on-neuroimaging-data.md",
-      "title": "Brain-NET, a deep learning methodology, accurately predicts surgeon certification scores based on neuroimaging data",
-      "excerpt": "Brain-NET, a deep learning methodology, accurately predicts surgeon certification scores based on neuroimaging data New technology could transform training and certification process for surgeons ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/08/200811125049.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/08/200811125049.htm",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-securing-amazon-comprehend-api-calls-with-aws-privatelink.md",
-      "title": "Securing Amazon Comprehend API calls with AWS PrivateLink",
-      "excerpt": "Amazon Comprehend now supports Amazon Virtual Private Cloud (Amazon VPC) endpoints via AWS PrivateLink so you can securely initiate API calls to Amazon Comprehend from within your VPC and avoid using the public internet. Amazon Comprehend is a fully managed natural language processing (NLP) service that",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-comprehend-api-calls-with-aws-privatelink/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T12:31:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-facebook-says-it-will-now-ban-implicit-hate-speech-like-blackface-and-anti-semitic-stereotypes.md",
-      "title": "Facebook says it will now ban 'implicit hate speech' like blackface and anti-Semitic stereotypes",
-      "excerpt": "Facebook has faced mounting pressure from civil rights groups to ramp up its enforcement of anti-hate speech policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facebook-bans-implicit-hate-speech-like-blackface-2020-8",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f32decb4dca684368157591?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facebook-bans-implicit-hate-speech-like-blackface-2020-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-bans-implicit-hate-speech-like-blackface-2020-8?amp",
-      "publishedDateTime": "2020-08-11T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-uncover-hidden-risks-with-ai-enabled-grc-platform.md",
-      "title": "Uncover Hidden Risks with AI-Enabled GRC Platform",
-      "excerpt": "\nEven before the added pressures caused by COVID-19, we had observed a considerable rise in regulatory fines and regulatory pressures across geographies and industries, and we expect this trend to continue. In financial services in 2019 alone, according to Fenergo research, $8.4 billion in fines were",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/08/uncover-hidden-risks-with-ai-enabled-grc-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/08/1153_AI_Innovation_RC_Blog_Leadspace_Final-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T11:28:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

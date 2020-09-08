@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.foxnews.com/media/op-ed-written-artificial-intelligence-robot</loc>
+    <lastmod>2020-09-08T07:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/cindygordon/2020/09/08/transforming-accounting-with-artificial-intelligence-an-interview-with-eli-fathi-ceo-mindbridgeai/</loc>
+    <lastmod>2020-09-08T07:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/video/2020/09/08/tech-startup-uses-machine-learning-to-help-workers-learn-new-skills.html</loc>
+    <lastmod>2020-09-08T07:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/</loc>
     <lastmod>2020-09-08T06:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -97,8 +115,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/insights-on-the-iot-chip-in-healthcare-global-market-to-2025-key-drivers-and-restraints-1029567150</loc>
-    <lastmod>2020-09-07T12:51:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07</loc>
+    <lastmod>2020-09-07T13:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/sport/football/54062392</loc>
+    <lastmod>2020-09-07T09:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -165,12 +189,6 @@
   <url>
     <loc>https://english.alarabiya.net/en/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes</loc>
     <lastmod>2020-09-06T13:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2020-09-06</loc>
-    <lastmod>2020-09-06T12:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -303,6 +321,12 @@
   <url>
     <loc>https://www.today.ng/technology/nigeria-establish-centre-artificial-intelligence-robotics-316386</loc>
     <lastmod>2020-09-04T06:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-04</loc>
+    <lastmod>2020-09-04T05:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1279,7 +1303,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
