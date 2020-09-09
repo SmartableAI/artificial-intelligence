@@ -1,28 +1,44 @@
 ---
 category: news
-title: "UC Davis Receives NSF Funding For Engineering, Sciences, Artificial Intelligence For HSIs"
-excerpt: "Among these awards is the first federally funded HSI grant given to UC Davis, a crucial step toward receiving an official HSI designation and recognition from the Department of Education. The Hispanic Association of Colleges and Universities notes that HSIs — colleges and universities with more than 25 percent Hispanic student enrollment — educate more than two-thirds of the nation's undergraduate Hispanic students."
-publishedDateTime: 2020-09-09T08:10:00Z
-originalUrl: "https://patch.com/california/davis/uc-davis-receives-nsf-funding-engineering-sciences-artificial-intelligence-hsis"
-webUrl: "https://patch.com/california/davis/uc-davis-receives-nsf-funding-engineering-sciences-artificial-intelligence-hsis"
+title: "UC Davis receives NSF funding for engineering, sciences, artificial intelligence for HSIs"
+excerpt: "The University of California, Davis, received more than $1 million in grants from the National Science Foundation to convene and engage faculty, researchers and industry experts in expanding research and undergraduate instruction at Hispanic Serving Institutions and Minority Serving Institutions."
+publishedDateTime: 2020-09-08T20:03:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoc--udr090820.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoc--udr090820.php"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
-  name: Patch
-  domain: patch.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
 
 images:
-  - url: "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png"
-    width: 800
-    height: 600
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "B/zLFo97N2MVaMpdp1E0po6PsmQ53NEiUfmI+C3pkZdA4y1SwqP6idt0rg6XWM8B3FpHkfnkTU+YgTWl/M5Kdh8cLe3lt6pNn5xbSHSrfbsPQ/8wF3CvP112e+9nd1wR56AVE+K3KP3SZjpQYFL6V3N7t+tso35xhMamTvttlxyR4zO1joOj2B67gHmvNIa2B25lvB8swdS+qKtlCV3IIzyjoAWNRNiUrkUyCO5TvXXC7rOFXdiORDVdoFPZIWlQ4b0+ajh04KlvIjVZfmCLUsITYE0nIyCJRBl5TxFJszayAJdV1ibd24hJyYQvIEsZlXS5GKI0qqkRTlNAzz8fwNPmFn0Z/Ewy/DfFzo9kUr0=;Ep7Pfi0DrAgmxWGrS7Ewkg=="
+related:
+  - title: "UAlbany harnessing artificial intelligence for winter storm forecasts"
+    excerpt: "UAlbany's Atmospheric Sciences Research Center just received a $2.4 million, five year National Science Foundation grant to explore and develop ways that AI can better track and predict winter storms."
+    publishedDateTime: 2020-09-08T16:00:00Z
+    webUrl: "https://www.chron.com/news/article/UAlbany-researchers-harnessing-Artificial-15541157.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/11/20/60/19205142/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+
+secured: "GDY8Oe/yScKnVzmxtQHNhVi19J48njM4ssNrC+L2jXCx7V0DltEgg2AEn/oMojrQZb6tJDj3I/U9Tcf/p53RwyT4RE8FX34tOG1++dwES50y0XSLdsGyc/PhYwZgPzdm2mNoTVivgOq4XCfkT0SHMFqbVXBgS5iDcYk09oz2E6igQ2W+98wAQZssSvgAeEX2d3B152AgbyXGn4Kl5SNtKra9sYlRpxYRn8RdKizGabOUjjgkR/Z6+0+wU1RaybMv2mjGYpxMp04oiQc8cZhWooKz/fC9LG2IX4fJoWJjj2DONYCSBL6uJtynl15Jxpnl5yUomZ1e8Tcz9D6NZwRn5DTJulaWmMTyyS7mT+cOow0=;D6q9k8MFAtwubgpoZt2q2A=="
 ---
 

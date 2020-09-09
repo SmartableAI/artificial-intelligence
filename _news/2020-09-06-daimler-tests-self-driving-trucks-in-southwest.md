@@ -73,20 +73,6 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Tesla Full Self-Driving Review"
-    excerpt: "Tesla Motors says it's developing hardware and software to power the world’s first self-driving cars. The software, called, ‘Full Self-Driving Capability’, costs Tesla owners an additional $8,000 to buy."
-    publishedDateTime: 2020-09-04T17:29:00Z
-    webUrl: "https://www.consumerreports.org/video/view/cars/auto-test-track/6185173516001/tesla-full-self-driving-review/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 39
-    images:
-      - url: "https://f1.media.brightcove.com/8/1078702682/1078702682_6171073910001_6171086182001-th.jpg?pubId=1078702682&videoId=6171086182001"
-        width: 580
-        height: 326
-        isCached: true
 
 secured: "k+5hde35AgbNmODlIxPi9k9SgsCu9wIEGWw/gk97wvWAIo2CBoJHPHicNEk9ngoWmvpvnT3GCZ9QTNP0nbepBgm8MgvnyIyyGCEXA/9vtAFniS0z4s8vqedSls7kDI6KbFzYNEFpHkJQFNZJYRyljBQiDEaq5AGGoLGD4zSkXE0v/4ZkBZLMcBcnvg2HQVkPpzn3EN8AxaiOUMgdQBuq2Dek5kYoXY/ss+adsnAW7jgzzPMjTFzSDZEyAoLR/jvVCv9aivVma3G44BsWx6YXHKwmc9jBc6E2Hw9F0wqUYbUN2WdDNhbiC6Mbm/nYYkc/Jhdl9+4dniLBPAJ7o19L3lTs0iHywhDWQoR/w80wujghm5abuyXO7u6SfVnZLQm9CXrE2KznjlZDvaT/S9aJUp8k/naSReViXMSvVk9ARJSB5UjaD3BB8cvsQopaTddwub6IX5j61PNDj66B6BIq95lpKepznU2asJIpEUjvM8CfW6dxuSumVDA0VvTSwivrnDq3MBa+Sdo3zshXTCOlVuPIz/k4mCau6rMLtxLOd5U=;zpQVdzi6QaJl7wCyG4wv2w=="
 ---

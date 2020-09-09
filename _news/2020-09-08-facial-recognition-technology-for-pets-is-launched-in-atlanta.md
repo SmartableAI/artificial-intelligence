@@ -9,7 +9,7 @@ ampWebUrl: "https://www.11alive.com/amp/article/life/pets/facial-recognition-tec
 cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://pamplinmedia.com/images/artimg/00003682419156-0644.jpg"
         width: 600
         height: 600
+        isCached: true
+  - title: "Why Facial Recognition Technology Was Deemed Unlawful"
+    excerpt: "Shutterstock.com. In a landmark decision on 11 August, the Court of Appeal ruled that an ongoing pilot of facial recognition technology was"
+    publishedDateTime: 2020-09-09T07:55:00Z
+    webUrl: "https://www.law.com/international-edition/2020/09/09/why-facial-recognition-technology-was-deemed-unlawful/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2020/01/Facial-Recognition.jpg"
+        width: 4000
+        height: 2110
         isCached: true
   - title: "FMPD wants to use face-recognition technology to solve crimes"
     excerpt: "The Fort Myers Police Department is using facial features to solve crimes. The face-recognition technology is already in place and used on a daily basis by the same organization that issues driver’s licenses."

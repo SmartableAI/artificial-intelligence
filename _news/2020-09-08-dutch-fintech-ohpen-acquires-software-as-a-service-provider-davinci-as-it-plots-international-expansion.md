@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Ohpen acquires mortgage fintech Davinci"
-    excerpt: "Dutch fintech Ohpen has acquired cross-border loan and mortgages Software as a Service (SaaS) provider Davinci."
-    publishedDateTime: 2020-09-08T14:11:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36515/ohpen-acquires-mortgage-fintech-davinci"
+  - title: "Trust Stamp Joins Dubai International Financial Centre FinTech Hive Accelerator Programme"
+    excerpt: "T Stamp Inc. trading as Trust Stamp, an AI-powered authentication company dual headquartered in Atlanta (US) and Cheltenham (UK), has been selected to participate in the largest financial technology accelerator in the Middle East,"
+    publishedDateTime: 2020-09-08T11:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/trust-stamp-joins-dubai-international-financial-centre-fintech-hive-accelerator-programme-1029568849"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/3333.jpg"
-        width: 480
-        height: 270
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
 
 secured: "PI8EfPchpJ/yWkR9r3YGyyAPgZW6J1sUEr4Uner1ZHPRQzsVGR+hgNUGo9X9uCFaPQ3QAaLLZbbUhxEKhIJmETkQ4kuYkznJhfFw45gzdIl0K/XeBE6ogdUqYArfCInIUulB7MF5++78r0vCVpvGYW6XN9swZTHzj9I9qDmRFX90QvlIxau00AQ2qCi0XN7ouwfSy53cgPR7btSv1hRd3iDbR3XWaoYGjJYoTmKFySSNFoHOFR9LaGPMMDtVgHnKXXtoQXAKP5hBNHMHaFTeYeBFI+YSshcpO2cgCFfd7q6cFAqKTiuMIojGPF2ofCA8IjThZfw5Tq1z8EqUos7kV8BPKJOeoYMGc3U/RiugdyOFHMGW5Ux5LYmsiQDj6npAL3+us99jMIjXN562ruSwnKLhBZeYKA1exriX3jhtShqvMNti+c8tn5Iw8VnD7C0zprJI/CK/GTi2Qcy22VW1QUmUrAFmANrWTukr/JYHlKzKmfDmJILBgQZ6ciTi6Y2/hepOxfh9RfxGyHT/VKQr3V1QMM0kjSTxero+EDU/iZk=;cFamQoA6F3LNSrfJBmvhQA=="
 ---

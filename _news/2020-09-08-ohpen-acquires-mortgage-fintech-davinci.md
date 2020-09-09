@@ -24,22 +24,6 @@ images:
     height: 270
     isCached: true
 
-related:
-  - title: "Dutch fintech Ohpen acquires Software as a Service provider Davinci as it plots international expansion"
-    excerpt: "The fintech has set its sights on growth and international expansion following the acquisition of the SaaS provider."
-    publishedDateTime: 2020-09-08T07:04:00Z
-    webUrl: "https://www.altfi.com/article/7015_dutch-fintech-ohpen-acquires-software-as-a-service-provider-davinci-as-it-plots-international-expansion"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 8
-    images:
-      - url: "https://www.altfi.com/images/featured/dutch-fintech-ohpen-acquires-software-as-a-service-provider-davinci-as-it-plots-international-expansion.jpg"
-        width: 1200
-        height: 719
-        isCached: true
-
 secured: "SwqrFmw8iF8ph15PxjNW3xXvR5Gp9I5v27IZ+Cgamc+n9gtnGa7u7McOKu2q/U4JL/P5OPXa69kAQnyVxMKTrReaRGckxhYuqwXw+Kc0m4mILk8COqRPoEhkOcRPnsDY96sGMU62q35FuNI200aHXgJLredECgER0VIQWa+i/j7QQw8m+ZdOMIJYAHaMZ3Lqfj945BnGjSMKsYfiYP7x53ntBKSAMtRZ4A2R4L/RDnzc1kc12bDE9TyQRK08bRjsIkJt7CDDvTqaoGsa/jra43uRQDXEiIKFRpSd9K6dq4VySragvJGeZc4TtDtrSQbrLpjqaujqgH5OxpnkZ8mJ7e5WpdzbpIQIe/bQqG6siFo=;tWcPqpgeISr4AoNblGqcXQ=="
 ---
 

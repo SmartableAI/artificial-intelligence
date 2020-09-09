@@ -3,10 +3,10 @@ category: news
 title: "Nvidia tells us more about how well the RTX 3090 GPU performs 8K gaming"
 excerpt: "Nvidia’s GeForce RTX 3090 launch saw the firm declare that its top-end Ampere graphics card can handle 8K gaming smoothly – meaning at 60 frames per second (fps) – but now further details have been shared on what kind of frame-rates we can expect with various games,"
 publishedDateTime: 2020-09-06T13:00:00Z
-originalUrl: "https://www.techradar.com/au/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
-webUrl: "https://www.techradar.com/au/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
-ampWebUrl: "https://www.techradar.com/au/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
+originalUrl: "https://www.techradar.com/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
+webUrl: "https://www.techradar.com/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
+ampWebUrl: "https://www.techradar.com/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming"
 type: article
 quality: 89
 heat: 89
@@ -30,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "9WcjBGbY+epxG7NTtALNZRPUS3D0hKr6io3sq926Sufkcr0FT+rNafJtbI8sTZJrBewzoc9Tvn/arXCXxwG2DafjjdLsXbzOXFzgJ+7EKUku165gAIA+4hXiQX4bUi1FQ4joYBcFOH6OpKikgJcbp0ABo7gYC6AEQ4vHIZisASPa0ZLMA5F5Rb6Pd+/OlH1EANJ41rg0BY+JJEIb2fiKbCVLxnnkmFidesdXsRzWXr5oo3+XQjdOQ4bDcthrgXQGItaIuXAwUosvf8npzkSx3R1Mabm7YCYunsmzGG5LP/QkrchMoo8SbCNB41b61wc48HBbxDQwu9XyN17K/Ko8r42Ezk+H29fZX0qaHVUWgOc=;ZJSGhnzqCxF0aquxC+mRXQ=="
+secured: "SqvSVqcr/ayHCa8C9rMceNZTi8fTpdTHOtFpAM1evyvNQzBdbAp+7i4iTH9Df6LqcD16neyDWJoYCK3bRhscOW2Kb8HMM/HC+/FwwAIjAOfzKnBgE0REuyx+uIk0Xo7SkI+VVYPP2S420zLEOVf5KSG0x3LJ4wI3bcHwFPUID+HPXToEsmp/eJ9LO7JmfzMVC2UznSeP8kigvw3ko4ct041zcBf/8lE6UjsgLvetilYVVem/Jd/4TCilOwigKWHhI5rXAPTdVrTr+/lDWBRpvrCmMsn7xxu5wF6gPkEtheQ02nqhvpmkFMPngxx+2H7oPCVojMbURB1kJFI70WHYDqniy5gv7aK8mU08K08VX04=;Y62HHAC7ojxGSwNeNyEoZQ=="
 ---
 

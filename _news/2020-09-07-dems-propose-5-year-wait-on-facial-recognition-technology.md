@@ -69,6 +69,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Why Facial Recognition Technology Was Deemed Unlawful"
+    excerpt: "Shutterstock.com. In a landmark decision on 11 August, the Court of Appeal ruled that an ongoing pilot of facial recognition technology was"
+    publishedDateTime: 2020-09-09T07:55:00Z
+    webUrl: "https://www.law.com/international-edition/2020/09/09/why-facial-recognition-technology-was-deemed-unlawful/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2020/01/Facial-Recognition.jpg"
+        width: 4000
+        height: 2110
+        isCached: true
   - title: "FMPD wants to use face-recognition technology to solve crimes"
     excerpt: "The Fort Myers Police Department is using facial features to solve crimes. The face-recognition technology is already in place and used on a daily basis by the same organization that issues driver’s licenses."
     publishedDateTime: 2020-09-08T10:38:00Z

@@ -83,6 +83,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Why Facial Recognition Technology Was Deemed Unlawful"
+    excerpt: "Shutterstock.com. In a landmark decision on 11 August, the Court of Appeal ruled that an ongoing pilot of facial recognition technology was"
+    publishedDateTime: 2020-09-09T07:55:00Z
+    webUrl: "https://www.law.com/international-edition/2020/09/09/why-facial-recognition-technology-was-deemed-unlawful/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2020/01/Facial-Recognition.jpg"
+        width: 4000
+        height: 2110
+        isCached: true
 
 secured: "fujPWgzYjhRlsqF16eWtNlXxMzxmCwsK5iKC2a20Fj/O0FE9ipHH/yZwebWEwGuNMvEJp92A/jARCmLui+jLX/0CQMSnrVhHffodI2nErkNsIDHaymjhWYmWihramVRLeMxdZt7cOOBZn95x1XXVEbyNpeHy1U5aRyPszt94oDSI6qjJxGSvsHifivRnMWN5T7crE/c3xEEycuH9LRxEO6C43ZH+gKfeAQWkUVPo/Ygcq4+4vurxlJxDMnvbBSAJwChkYy6dfQ0svxf6c5VSmc5uGP3CXA39y6Hmu6uIJgyTSD0oVq2FALTB2cJSd2L+z/mARUt0VVlZQtMmteQF/0cn1haOopjalJZ6IKoqGZ6HSUduj64AAjUVkimCbOpAb5kQ9yuT2l13zh534zJ8p38Gzz/rNDHrdfDXcTvxqD/jsetYTwTVRKIR4MQgBoISOUUVNyclAvyi44DZDjaWZ4rBDn3C/Ccr/Yuss5VxRzwWZy5KxzNcm07hactm3BV4DfaXgBzLEGo2gRg1EMUc/Kl9lqJUSHZfztihYZAPGh8=;EQUcPv9PiIRb2dVMY5hZEw=="
 ---

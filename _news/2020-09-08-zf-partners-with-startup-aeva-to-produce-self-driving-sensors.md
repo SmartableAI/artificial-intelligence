@@ -2,9 +2,9 @@
 category: news
 title: "ZF partners with startup Aeva to produce self-driving sensors"
 excerpt: "German supplier ZF Friedrichshafen and Silicon Valley startup Aeva are partnering on a crucial sensor for self-driving vehicles, the companies said on Tuesday. Lidar sensors, which measure distances with a laser light,"
-publishedDateTime: 2020-09-08T13:45:00Z
-originalUrl: "https://www.autonews.com/suppliers/zf-partners-startup-aeva-produce-self-driving-sensors"
-webUrl: "https://www.autonews.com/suppliers/zf-partners-startup-aeva-produce-self-driving-sensors"
+publishedDateTime: 2020-09-08T14:45:00Z
+originalUrl: "https://europe.autonews.com/suppliers/zf-partners-startup-aeva-produce-self-driving-sensors"
+webUrl: "https://europe.autonews.com/suppliers/zf-partners-startup-aeva-produce-self-driving-sensors"
 type: article
 quality: 24
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/styles/800x600/s3/COPY_308309902_AR_1_RTSFDBJUQEYL.jpg"
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/ZF%20logo%20web_0.jpg"
     width: 800
     height: 600
     isCached: true
@@ -37,6 +37,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "a5ZdKUMSZPi6sUiC93AfIWLeHb1I8xLnfiA3sySBPJxbq+ukhL7fKut64wgym4NHV6UTWYNF5+FfToU6GC0LFz5cqv13h5zvBHEOGr4t+hspUVNWVJopCQq0tonyzUeEp/JrNvJhzpx53ueS82MSCnEXcJqVoqYiIrc/It30ESdj194rNjS3nnePJvUy1e3EYBSwyqea71/qqow+gWbu0PrejW4G2gCr/S96Lu1ZMn6613P7GkzTLS+C+uQCJd8W4w/Px/wqZJcFW77alnAgbnUfH+AfaRrdXPREgC0rEy4cVEPLyjXtICPR6kV6WxBXUUKSH26eNadswvoM9r3Sa21DBOujosYGP6IOQ9yh8nkHLd7GMvgKaSa3T6ZUJcsN9a/mETUps7sMnBk8oKPdbwEHJcLK05kXli99ZgwB2ChQLUE//exAh8CYQ/LCQnNrmQTB8gugT/bQEN5HntSOml2L8Sz0ARhM/zKcOVsWUOPm/FZfPk0Ljz/+rHrDb9hQFYqxohWabJleEZrGKycZ/w==;Vj5cYeqyduDThTqJaFfhQQ=="
+secured: "11foDhrvsMwifbWp73LldNGHXFcUYwQPPry+QDKXV/PYEVPaKmbDuoLKDSnfJfYWb5FQuY98FaOZBSLyTQi1kXkPEbPG7CBxl+hIcbTduqrAvLMlT3N8GJR2cU/xqm4D0OINR2bg273pSV+dM/KfRe3dCMaxh20jRQMiEicNfP/deXs3QZN8+eV5g5YIWnaVph3Dzd/55+mIjO3Sx+WD+OZmXiySujlJeCYfN3Q6JpZ6eaWN0eUkjfZb2Rlr2zVN/3SpZmWTPxQvc+OG6XXewh+fX45CGm+tyoo+aNkS9G1mZ8ZuVpPcPru9SaocTGEY1eXGcxvBwxzZyGrHkUvVhFdYyaTvD/m5vprZNKPsBYc=;QuCi6FOOYoAedbKkxAuJAA=="
 ---
 
