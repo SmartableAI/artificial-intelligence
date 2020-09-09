@@ -2,9 +2,9 @@
 category: news
 title: "ZF partners with startup Aeva to produce self-driving sensors"
 excerpt: "German supplier ZF Friedrichshafen and Silicon Valley startup Aeva are partnering on a crucial sensor for self-driving vehicles, the companies said on Tuesday. Lidar sensors, which measure distances with a laser light,"
-publishedDateTime: 2020-09-08T14:45:00Z
-originalUrl: "https://europe.autonews.com/suppliers/zf-partners-startup-aeva-produce-self-driving-sensors"
-webUrl: "https://europe.autonews.com/suppliers/zf-partners-startup-aeva-produce-self-driving-sensors"
+publishedDateTime: 2020-09-08T13:45:00Z
+originalUrl: "https://www.autonews.com/suppliers/zf-partners-startup-aeva-produce-self-driving-sensors"
+webUrl: "https://www.autonews.com/suppliers/zf-partners-startup-aeva-produce-self-driving-sensors"
 type: article
 quality: 24
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/ZF%20logo%20web_0.jpg"
+  - url: "https://s3-prod.autonews.com/styles/800x600/s3/COPY_308309902_AR_1_RTSFDBJUQEYL.jpg"
     width: 800
     height: 600
     isCached: true
@@ -37,6 +37,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "Cgs65dX9d5whYyx36YPToa4ODsmhhfTjGTwd9EkLdwXk+7IW9YOCGrmqQdFpVmEnsUVojVAJTiveL0VLcqN4k0/KQphKT8WxrQ1iN91rNw/L7/pgVKnLLAUKn/SPN1wh73jYL6p+apTTn/EoBrarN/YloYYQ5ZBRTRAymX1PMZ2IMxascqllFNqymv58x3RnyOTU6+mioiqrR3XMCqPbnPiQBAFvOqsljn5Wgn/iWMQPCwyDz7w0vZ0UAhoeVKj4SzW/Z+cOBJRz6HkgDX6zPi/8cJm+94ncgvZDV5BLvqF0/DHSuJhnev0F2bNLMQ+C6fS3o8w/U6FlXDlLBKbhag2fpqPwpNMzZLzp+yGuGHk=;zQ23TVO/d0ZqP173JplsRg=="
+secured: "Jq4GJ43q55RpqrPuqsyNVIjRWMS/PFw04O7sokjeSQLkoizg2dh7+vTO8fYG8/cSPTLAcBzGL21XLF2XCCnn4gwQ6WFO2nNCgQQCcsRIYWYGkzMOC4KEoARpOZB/1DFVXH78HVlPpUgf+22URoB5CXQKGlivgwixdEcSEg53gmiF0OmntRsk7uF8lFrehQS68AXvMvoTzz5vSle8+xipLhb/MQ7jxIGZkcpBcmMc+txOxrYLy+eqi2D3VzcCmpJSguChap9WVAkKeVa8uoVlrqFhov0ztY9Vaa2M1nzeiesU3vSNpZdycFKZoNLd0NX0PSo8z61KrfeuMGViHNrilxBWs8zgEeWhuN8rY2SfpBo=;37heRRFBvNAlia2vzezw2w=="
 ---
 

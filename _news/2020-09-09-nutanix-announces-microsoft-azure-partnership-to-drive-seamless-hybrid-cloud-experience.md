@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
+    excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility."
+    publishedDateTime: 2020-09-08T17:53:00Z
+    webUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+    ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 74
+    images:
+      - url: "https://www.sify.com/uploads/nutanix_ujikoBjihaieg.jpeg"
+        width: 800
+        height: 420
+        isCached: true
   - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
     excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
     publishedDateTime: 2020-09-07T11:19:00Z
@@ -55,17 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
-    excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility."
-    publishedDateTime: 2020-09-08T17:53:00Z
-    webUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-    ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
   - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
     excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
     publishedDateTime: 2020-09-08T20:39:00Z

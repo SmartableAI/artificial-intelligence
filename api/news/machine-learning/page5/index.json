@@ -2,56 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-07-29-juniper-extends-ai-driven-network-insights-to-wan-and-branch-locations.md",
-      "title": "Juniper extends AI-driven network insights to WAN and branch locations",
-      "excerpt": "The new capabilities are a part of Juniper's growing focus on AI-driven operations, which it stepped up last year with its acquisition of Mist Systems. Mist and Juniper have alrea",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/juniper-extends-ai-driven-network-insights-to-wan-and-branch-services/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/26/b9a5e03c-1f56-427f-b6c0-2e5ab9ad719c/thumbnail/1200x675/f35b3b478c191789a778c43322eb74da/fiberopticsistock-1157011931a.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/juniper-extends-ai-driven-network-insights-to-wan-and-branch-services/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/juniper-extends-ai-driven-network-insights-to-wan-and-branch-services/",
-      "publishedDateTime": "2020-07-29T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-29-google-has-made-it-simple-for-anyone-to-tap-into-its-image-recognition-ai.md",
       "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
       "excerpt": "The software is called Cloud AutoML Vision. In an accompanying blog post, the chief scientist of Google’s Cloud AI division explains how the software can help users without machine learning ...",
@@ -1380,6 +1330,38 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-the-autonomous-cars-big-challenge-using-the-hyperscale-server-fleet-to-train-ai-neural-networks.md",
+      "title": "The Autonomous Car’s Big Challenge: Using the Hyperscale Server Fleet to Train AI Neural Networks",
+      "excerpt": "The world knows that artificial intelligence (AI ... The training of the AI model is computationally intensive because neural networks need to use large data sets. The complexity of neural networks requires hyperscale hardware technology to accelerate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/autonomous-cars-big-challenge-using-hyperscale-server-fleet-train-ai-neural",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

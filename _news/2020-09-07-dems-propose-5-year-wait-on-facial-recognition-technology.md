@@ -41,6 +41,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "TSA is testing facial recognition at security checkpoints"
+    excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
+    publishedDateTime: 2020-09-04T22:13:00Z
+    webUrl: "https://www.wdbj7.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
+    type: article
+    provider:
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 39
+    images:
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "FMPD wants to use face-recognition technology to solve crimes"
     excerpt: "The Fort Myers Police Department is using facial features to solve crimes. The face-recognition technology is already in place and used on a daily basis by the same organization that issues driver’s licenses."
     publishedDateTime: 2020-09-08T10:38:00Z

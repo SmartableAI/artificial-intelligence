@@ -2,9 +2,9 @@
 category: news
 title: "Rolls-Royce reports breakthroughs in practical artificial intelligence ethics"
 excerpt: "Royce announced on Wednesday that it had achieved two breakthroughs in the field of artificial intelligence (AI) ethics. These breakthroughs will be fully published later this year on the Rolls-Royce website under a Creative Commons licence."
-publishedDateTime: 2020-09-02T14:07:00Z
-originalUrl: "https://m.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02"
-webUrl: "https://m.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02"
+publishedDateTime: 2020-09-02T09:33:00Z
+originalUrl: "https://www.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02"
+webUrl: "https://www.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "HzYH3sdiz/X4ySH4ZHkw5Z4oIk7aqOPeR2Z1dYjccdZGKitXTMq2yV/LVO6KXPcwZjMynqtGkhNtvhMNLlV3uTqnMbWRZceWo4E0ZzZqj1cpKgVgd1CpDBFMypCY+yzGiGckuiAzQjr6xIG/lz7z/QI9CDaXP7NH96ddNG4OPhrH5lJCaKqcAFaiZO9rStwZ6r9cUPyOdx1ZwnHftKoge7r/7p63fvpX5trDMLR5obpWAvitM4WVs3ZzaAmKqQakutZRkYmAW7tM4bHNPQLVXhR24d6TRkwgLc1lvuBMPH58ZMuGozwBPf4L0ZBIMmztVeX+4jqbcfzDXEp1OJfUgGcloQROz5ARxtk89YE9kig=;0rDlQ9jYgochMrdUiHhclQ=="
+images:
+  - url: "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg"
+    width: 1022
+    height: 575
+    isCached: true
+
+secured: "aJry60VMlBrUGGkL8FOTSps+fqRIS1tQmFmY3hT5BZIcW4gSXSjrSDA3uwAKMMN232TPreo7/zXS4OizV8HtGMB56/tDbmGPHtxw4L2Dg2gvR0PLhm2ODP4DOtrFNprHDbfCe2H+jEyUPGz9isqjYTF9hy+BsA3M+zMj1LbBuB4NGxTOt4xo3OPmsumMtHL4jELxaxxCLwYs1FQ6mIKIPpCMvyDnxl4z1CZB2JvI4vW/LxF5S90U0WM46ag6XYOyPLH2P0mJ/FAZ5fexQMpGUkCKcQZrxqNuqNclxhBEcrnoycPuN5IpZydta0rraoQvcuNy4U8MqfgiEFewBJ3C/i6P9GnVczjzbGebOGR1fgE=;IPB3fn/WRAwF0LzrQDxevg=="
 ---
 

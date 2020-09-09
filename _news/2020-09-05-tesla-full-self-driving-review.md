@@ -73,20 +73,6 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Tesla's 'Full Self-Driving Capability' Falls Short of Its Name"
-    excerpt: "Learn more. The features might be cutting edge, even cool, but we think buyers should be wary of shelling out $8,000 for what electric car company Tesla calls its Full Self-Driving Capability option. Tesla claims every new vehicle it builds includes all ..."
-    publishedDateTime: 2020-09-04T13:54:00Z
-    webUrl: "https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-capability-review-falls-short-of-its-name/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 39
-    images:
-      - url: "https://brightcove.hs.llnwd.net/v2/unsecured/media/1078702682/202008/705/1078702682_6186323527001_6185173516001-vs.jpg?pubId=1078702682&videoId=6185173516001"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Daimler Tests Self-Driving Trucks in Southwest"
     excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
     publishedDateTime: 2020-09-05T21:38:00Z

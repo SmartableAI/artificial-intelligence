@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nasdaq.com/articles/exclusive-baidu-investors-in-talks-to-raise-%25242-bln-for-biotech-startup-source-2020-09-09</loc>
+    <lastmod>2020-09-08T23:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/</loc>
     <lastmod>2020-09-08T21:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -211,12 +217,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.dcvelocity.com/articles/47088-how-ai-and-machine-learning-are-redefining-cybersecurity</loc>
-    <lastmod>2020-09-07T03:12:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.infoworld.com/article/3573372/amazon-braket-get-started-with-quantum-computing.html</loc>
     <lastmod>2020-09-07T03:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -259,7 +259,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming</loc>
+    <loc>https://www.techradar.com/in/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming</loc>
     <lastmod>2020-09-06T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -339,6 +339,12 @@
   <url>
     <loc>https://www.techradar.com/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming</loc>
     <lastmod>2020-09-04T11:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/</loc>
+    <lastmod>2020-09-04T10:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -805,12 +811,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://m.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02</loc>
-    <lastmod>2020-09-02T07:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/</loc>
     <lastmod>2020-09-02T06:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -873,6 +873,12 @@
   <url>
     <loc>https://www.zdnet.com/article/python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects/</loc>
     <lastmod>2020-09-02T02:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02</loc>
+    <lastmod>2020-09-02T02:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -999,6 +1005,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2025-2020-09-01</loc>
     <lastmod>2020-09-01T10:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businesswire.com/news/home/20200901005230/en/Selects-AWS-Preferred-Cloud-Drive-Efficiencies-Global</loc>
+    <lastmod>2020-09-01T10:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

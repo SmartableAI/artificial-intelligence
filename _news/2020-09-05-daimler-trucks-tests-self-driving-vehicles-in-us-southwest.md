@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 563
         isCached: true
-  - title: "Tesla's 'Full Self-Driving Capability' Falls Short of Its Name"
-    excerpt: "Learn more. The features might be cutting edge, even cool, but we think buyers should be wary of shelling out $8,000 for what electric car company Tesla calls its Full Self-Driving Capability option. Tesla claims every new vehicle it builds includes all ..."
-    publishedDateTime: 2020-09-04T13:54:00Z
-    webUrl: "https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-capability-review-falls-short-of-its-name/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 39
-    images:
-      - url: "https://brightcove.hs.llnwd.net/v2/unsecured/media/1078702682/202008/705/1078702682_6186323527001_6185173516001-vs.jpg?pubId=1078702682&videoId=6185173516001"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla Full Self-Driving Review"
     excerpt: "Tesla Motors says it's developing hardware and software to power the world’s first self-driving cars. The software, called, ‘Full Self-Driving Capability’, costs Tesla owners an additional $8,000 to buy."
     publishedDateTime: 2020-09-04T17:29:00Z

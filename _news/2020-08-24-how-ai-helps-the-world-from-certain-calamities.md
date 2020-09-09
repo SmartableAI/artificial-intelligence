@@ -3,6 +3,7 @@ category: news
 title: "How AI helps the world from certain calamities"
 excerpt: "AI has set its feet immovably in our reality. Thus for many tasks where humans cannot use their own capabilities like predicting a natural disaster, AI comes into action owing to its marvelous technological development."
 publishedDateTime: 2020-08-24T04:46:00Z
+originalUrl: "https://newstrackindia.com/newsdetails/2020/8/24/1-How-AI-helps-the-world-from-certain-calamities.html"
 webUrl: "https://newstrackindia.com/newsdetails/2020/8/24/1-How-AI-helps-the-world-from-certain-calamities.html"
 type: article
 quality: 39

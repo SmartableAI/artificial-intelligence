@@ -8,7 +8,7 @@ webUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless
 ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
@@ -19,6 +19,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.sify.com/uploads/nutanix_ujikoBjihaieg.jpeg"
+    width: 800
+    height: 420
+    isCached: true
 
 related:
   - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
@@ -75,6 +81,6 @@ related:
       domain: insidehpc.com
     quality: 34
 
-secured: "jVj9OfdnHE8ANKzewkQlEVW8ho3jP/4YDN2YbNhaDQ+jz7tksMqjTWIRRd5NXmOJAQVhSnEDuIaxQYGaox1AwJSGBW/6tJRGhrlSsfHDpjQbbbaRJdKWUeS3TttPqkhJ2YSLjPJziznisB2OUKixsKs8Ma3nAoEZ/vdtuJs2p/ml8T1wIZHyxtBaE7rJRUagV90ROsFIfuW9NdeW1Po9IgS88hjrPEq6+coA4BOIQQ2EnwX2S2E04si/v3VtT6BHrqTiEgOlL6IEYuOZKRN5l1g74Yw75UWX8sGk1Qq6p7Rh3qdrxLxDMcF7yw8pWv6yWp+7f4P8GoR8TCTGuqBxd8i4pKWvwoAp7jsAbBmLJWY=;sQ9tBpS0uE/rM5VCOswD7w=="
+secured: "io+4mPrCvhHQZkfWu3u4lSd+ynG+MRaGYRXEOgEHRP1N+C5QQjy43BmNrDUWVtjaBERrdnTQK9IigrQi9teKnA0jCIWVzUdYw70nmxHynVijbmBqf/eglvE+xFjxaFspJDoSjM812mnBhkj73IZI85kj91bdLkTpNPeYgOKR2lvjX/FNDTST0arVdWLOxxxhS9wcl5aF4Ac/1RaC/qnw7robAbJcrQW0/DWcslZnmbV950dIhXSFNGSkkaV0L50Ex7Seep7szLnCxlptODWv+ChQJmV0KaItj7B8Wao+xTO0h2L5blqV0HnARFZwb63cyS7drc06hd/NYad5ZF6qQNnbC8OiANl7njVPAiwmDUU=;jJEz42kga/QS708JufDwPQ=="
 ---
 

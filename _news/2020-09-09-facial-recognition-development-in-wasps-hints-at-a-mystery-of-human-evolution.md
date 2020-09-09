@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recogni
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Israeli Facial Recognition Tech Startup AnyVision Raises Additional $43M"
+    excerpt: "AnyVision said that at a time when demand for innovative technologies that help companies meet the challenges of the new reality is soaring, the company sees significant growth for their Touchless Access Control across all verticals within organizations that host large numbers of people in shared spaces."
+    publishedDateTime: 2020-09-07T14:53:00Z
+    webUrl: "https://nocamels.com/2020/09/israeli-facial-recognition-tech-startup-anyvision-raises-additional-43m/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 53
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/09/facialreco.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "US CBP deploys facial recognition at 27 US airports as of May-2020"
     excerpt: "US Government Accountability Office reported (03-Sep-2020) as of May-2020, the US Customs and Border Protection (CBP) deployed facial recognition technology at 27 US airports. CBP"
     publishedDateTime: 2020-09-05T13:34:00Z

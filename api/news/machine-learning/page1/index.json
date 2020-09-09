@@ -196,47 +196,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-07-how-ai-and-machine-learning-are-redefining-cybersecurity.md",
-      "title": "How AI and Machine Learning Are Redefining Cybersecurity",
-      "excerpt": "If you've been paying attention to cybersecurity news this past year, then you already know. All of them have experienced truly staggering data breaches in 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/47088-how-ai-and-machine-learning-are-redefining-cybersecurity",
-      "originalUrl": "https://www.dcvelocity.com/articles/47088-how-ai-and-machine-learning-are-redefining-cybersecurity",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dcvelocity.com/ext/resources/user-submissions/articles/91b65cfe-1e09-4c2e-83bf-db9225cca11e.jpg?height=635&t=1599470827&width=1200",
-          "width": 600,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-07T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-07-dubais-rta-applies-ai-machine-learning-to-plan-better-bus-routes.md",
       "title": "Dubai’s RTA applies AI, machine learning to plan better bus routes",
       "excerpt": "Dubai’s Roads and Transport Authority (RTA) has begun experimenting on the use of Artificial Intelligence technologies and machine learning algorithms in plotting bus routes in Dubai, according to officials.",
@@ -1339,6 +1298,56 @@
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
       "publishedDateTime": "2020-08-26T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more.md",
+      "title": "Tour de France 2020 to feature augmented reality, machine learning, and more",
+      "excerpt": "The historic Tour de France kicks off this weekend. This year's race will include a host of technology solutions to boost fan engagement amid the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
+      "originalUrl": "https://www.techrepublic.com/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/08/26/46475eba-fb95-4125-93d4-d20e8b7520fa/resize/1200x/4181f60c303fec4937ebeec2155b52ca/tdf.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
+      "publishedDateTime": "2020-08-26T06:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRepublic",

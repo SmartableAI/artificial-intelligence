@@ -2,6 +2,37 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-09-exclusive-baidu-investors-in-talks-to-raise-2-bln-for-biotech-startup-source.md",
+      "title": "EXCLUSIVE-Baidu, investors in talks to raise $2 bln for biotech startup -source",
+      "excerpt": "Chinese tech giant Baidu is in talks with investors to raise up to $2 billion over three years for a biotech startup, which will use AI technology to discover new drugs and diagnose diseases, a person with direct knowledge of the matter said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/exclusive-baidu-investors-in-talks-to-raise-%242-bln-for-biotech-startup-source-2020-09-09",
+      "originalUrl": "https://www.nasdaq.com/articles/exclusive-baidu-investors-in-talks-to-raise-%242-bln-for-biotech-startup-source-2020-09-09",
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/exclusive-baidu-investors-in-talks-to-raise-%242-bln-for-biotech-startup-source-2020-09-09?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-baidu-investors-in-talks-to-raise-%242-bln-for-biotech-startup-source-2020-09-09?amp",
+      "publishedDateTime": "2020-09-08T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work.md",
       "title": "3 Ways AI Will Continue To Accelerate The Transition To Remote Work",
       "excerpt": "In response to the Covid-19 pandemic, businesses of all shapes and sizes have had to quickly adapt to remote work. Many experts predict that this year’s rapid transition to remote work constitutes a point of no return.",
@@ -58,7 +89,7 @@
       "webUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/",
       "originalUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/",
       "featuredContent": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -783,7 +814,7 @@
       "webUrl": "https://www.techrepublic.com/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
       "originalUrl": "https://www.techrepublic.com/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
       "featuredContent": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1031,7 +1062,7 @@
       "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/",
       "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/",
       "featuredContent": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1081,7 +1112,7 @@
       "webUrl": "https://www.11alive.com/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3",
       "originalUrl": "https://www.11alive.com/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3",
       "featuredContent": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1162,56 +1193,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture.md",
-      "title": "Content Moderation Solutions Market 2020 Is Booming Worldwide | Leading Key Players – Cogito, Microsoft Azure, Clarifai, Cognizant, Accenture",
-      "excerpt": "The report provides a detailed assessment of the 'Global Content Moderation Solutions Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-07T19:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

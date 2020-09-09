@@ -40,17 +40,6 @@ related:
         width: 600
         height: 283
         isCached: true
-  - title: "NASA Using Machine-Learning AI to Predict Hurricane Intensity"
-    excerpt: "NASA research could help to improve forecasts of whether a hurricane will suddenly intensify, which could give people in its path more time to prepare. In October 2015, Hurricane Patricia in the Northeast Pacific Ocean blew up from a Category 1 storm into a Category 5 monster within 24 hours,"
-    publishedDateTime: 2020-09-04T13:48:00Z
-    webUrl: "https://scitechdaily.com/nasa-using-machine-learning-ai-to-predict-hurricane-intensity/"
-    ampWebUrl: "https://scitechdaily.com/nasa-using-machine-learning-ai-to-predict-hurricane-intensity/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/nasa-using-machine-learning-ai-to-predict-hurricane-intensity/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
 
 secured: "Wsbr2Ogw342Z50gd5P+ZifBwN6zPVcW9egiyroYOm2FcEn8YPyeClIGQ7Ld2mktSlQLk31MWMeC9pq5ZCgFpoJbQPOeDOCVL8qF4A/IXw6BTpnlj4134nfjgemjmFFRP5ikshOZpbNhy/HcFtpbeen+MU/PN0wc7e/97tD0kjWc/HO1glNSpnzXu40LwIvGHMXWHXN2nhL6MEnUf8uQJLawxlLrk559S3d3BcI9L/81fBzoXzDQgrDimTG1UVOkN0AWA//2Am5kmAUVUM8Js1e5U5tEZW8/oAGo8x7PxV7Slow1qzqnQwJYRhEfeYFnbdC3U4O6YkdrtZXpeCBwaXnHobiOL2ej12Kjov0F9B5k=;J9kpECvarE1IV7DwJKinvQ=="
 ---

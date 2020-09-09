@@ -7,8 +7,8 @@ originalUrl: "https://www.dcvelocity.com/articles/47088-how-ai-and-machine-learn
 webUrl: "https://www.dcvelocity.com/articles/47088-how-ai-and-machine-learning-are-redefining-cybersecurity"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: DC Velocity
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NASA Using Machine-Learning AI to Predict Hurricane Intensity"
-    excerpt: "NASA research could help to improve forecasts of whether a hurricane will suddenly intensify, which could give people in its path more time to prepare. In October 2015, Hurricane Patricia in the Northeast Pacific Ocean blew up from a Category 1 storm into a Category 5 monster within 24 hours,"
-    publishedDateTime: 2020-09-04T13:48:00Z
-    webUrl: "https://scitechdaily.com/nasa-using-machine-learning-ai-to-predict-hurricane-intensity/"
-    ampWebUrl: "https://scitechdaily.com/nasa-using-machine-learning-ai-to-predict-hurricane-intensity/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/nasa-using-machine-learning-ai-to-predict-hurricane-intensity/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
   - title: "GoLearn, India's first Artificial Intelligence powered English Language Teaching and Learning (ELTL) platform launched"
     excerpt: "Education News: According to the United Nations, the COVID-19 pandemic has created the largest disruption of education systems in history, affecting nearly 1."
     publishedDateTime: 2020-09-05T04:30:00Z

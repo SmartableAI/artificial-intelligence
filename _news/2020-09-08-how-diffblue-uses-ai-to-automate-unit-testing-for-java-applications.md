@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-diffblue-uses-ai
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
         width: 1260
         height: 630
+        isCached: true
+  - title: "First AI-Driven Unit Testing Solution for Java Goes GA"
+    excerpt: "A UK-based startup founded by University of Oxford researchers launches an AI-powered Java unit testing solution, including a free-for-Java-devs Community Edition."
+    publishedDateTime: 2020-09-09T07:37:00Z
+    webUrl: "https://adtmag.com/articles/2020/09/09/diffblue-launches-ai-java-test-solution.aspx"
+    type: article
+    provider:
+      name: adtmag.com
+      domain: adtmag.com
+    quality: 37
+    images:
+      - url: "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlueSquaresBig.jpg"
+        width: 1665
+        height: 1158
         isCached: true
 
 secured: "tjcVhM73sTve4z8+kz2q97ZLXMS4QL60BeSYxlEKprCorp56LnolLYVg+GmtnzMYS+b+mG9oTDZXkdFvbAEgPc/ljdxaK4hYf/r4qYcoEtDjcNGcjP4sxGiLw4Rg3uA0vCRUdwbVvYveVDt9YlyjGRilhKt173eHUg/X9yrCebn4A8jpj6j4Tpp3MGeqA+oSYM/rAhCZxhDjrVAmih2TzLVP4/Uu+UQOEb1QNVElUbJG5B71M09c6jhz1dfZ3Ye+UNHvZexiIjQozOUvi4hH0hXQRgjUNQTzyQs4wcYX8NsGxliAjKi+Fig1OBoaPmmHQXxoHoB2qx/dovIwGWkkH0YeVB+14Zdl8xC+zzyMmQja4IaWZI0FtTt0FT8MoVJgDLOz83XIZtNCQSaCU5trIblhxDHHWVIw94yYr4O0Bq/EvSwI8C/jN7mWSBjmpciCuJdXZ2o6mLiMtljp1h6Z3OIZAJJcmM2dnhtTS24Uo3P0pVV0uRzRfqSG6En57BgPQQP+Fgx14yFNoU5CYTHbMANogkvgkFlTd6AvwZoIC1k=;y5WhaJNHJ3T642tSA6p1Ow=="

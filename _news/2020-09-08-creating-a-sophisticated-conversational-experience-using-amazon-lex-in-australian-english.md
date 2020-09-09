@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "First AI-Driven Unit Testing Solution for Java Goes GA"
+    excerpt: "A UK-based startup founded by University of Oxford researchers launches an AI-powered Java unit testing solution, including a free-for-Java-devs Community Edition."
+    publishedDateTime: 2020-09-09T07:37:00Z
+    webUrl: "https://adtmag.com/articles/2020/09/09/diffblue-launches-ai-java-test-solution.aspx"
+    type: article
+    provider:
+      name: adtmag.com
+      domain: adtmag.com
+    quality: 37
+    images:
+      - url: "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlueSquaresBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
 
 secured: "6RGtuEHWy3PzYPpd6XFNYVmyppiOoKdxP4cytU3TsjeLMBp2HEW+eTrJh56J4S1/nifnWw93XMhKfFP15CnlrMnTJfyuxL33uqjtI8wnEnTFCqVDTX56TzvzU721mTSV72rDW54A+HrYazUPkXef1tFigMRHA13ejnmQkmnxpex7cn+oWxR7VJsBZb4a3xrQmPNNzuBNOaBYQBYw8b3lRBX6MoW3dKAzVj65JMAdfzaMIJA4uGOwIDP+e2IA8dKLhP01zDy6VZegqSs64MyIWYFTkhA0Mb0hFHIZcxEHmj5nVElg5pcpnmQoyTbU8t8ozlO6upjbRaPIObHGciBcm/iG8iZ1c3Z0BUZg9VB38Wg=;5bbPlj3POKAW7A2JbN/HNw=="
 ---

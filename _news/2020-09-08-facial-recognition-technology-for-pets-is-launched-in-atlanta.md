@@ -9,7 +9,7 @@ ampWebUrl: "https://www.11alive.com/amp/article/life/pets/facial-recognition-tec
 cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "http://d14e0irai0gcaa.cloudfront.net/www.post-journal.com/images/2016/10/31144144/fblike.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "TSA is testing facial recognition at security checkpoints"
+    excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
+    publishedDateTime: 2020-09-04T22:13:00Z
+    webUrl: "https://www.wdbj7.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
+    type: article
+    provider:
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 39
+    images:
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "FMPD wants to use face-recognition technology to solve crimes"
     excerpt: "The Fort Myers Police Department is using facial features to solve crimes. The face-recognition technology is already in place and used on a daily basis by the same organization that issues driver’s licenses."

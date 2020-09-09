@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-a
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Daily Dot
@@ -27,77 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Faulty Facial Recognition Led to His Arrest—Now He’s Suing"
-    excerpt: "Michael Oliver is the second Black man found to be wrongfully arrested by Detroit police because of the technology—and his lawyers suspect there are many more."
-    publishedDateTime: 2020-09-04T14:08:00Z
-    webUrl: "https://www.vice.com/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-    ampWebUrl: "https://www.vice.com/amp/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing"
+  - title: "Albuquerque police arrest man with facial recognition software at grocery store"
+    excerpt: "An Albuquerque criminal thought he could get away with shoplifting until facial recognition software stopped him in his tracks. Newly released police video"
+    publishedDateTime: 2020-09-06T23:32:00Z
+    webUrl: "https://www.krqe.com/news/crime/albuquerque-police-arrest-man-with-facial-recognition-software-at-grocery-store/"
+    ampWebUrl: "https://www.krqe.com/news/crime/albuquerque-police-arrest-man-with-facial-recognition-software-at-grocery-store/amp/"
+    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/crime/albuquerque-police-arrest-man-with-facial-recognition-software-at-grocery-store/amp/"
     type: article
     provider:
-      name: VICE
-      domain: vice.com
-    quality: 89
+      name: KRQE
+      domain: krqe.com
+    quality: 55
     images:
-      - url: "https://video-images.vice.com//articles/5f4fefdd972acd00959db0e6/lede/1599158657813-img1508.jpeg?crop=1xw:0.8743135838150289xh;center,center"
-        width: 2689
-        height: 1512
+      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2020/09/anthony-sena-lapel_frame_36679.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Israeli facial recognition co AnyVision raises $43m"
-    excerpt: "AnyVision to focus on its commercial and homeland security facial recognition operations. AnyVision said that the new funding will be used \"to scale its Touchless Access Control and Remote Authentication products at a time when demand for innovative technologies that help companies meet the challenges of the new reality is soaring."
-    publishedDateTime: 2020-09-04T13:11:00Z
-    webUrl: "https://en.globes.co.il/en/article-israeli-facial-recognition-co-anyvision-raises-43m-1001341654"
+  - title: "Why Facial Recognition Technology Was Deemed Unlawful"
+    excerpt: "Shutterstock.com. In a landmark decision on 11 August, the Court of Appeal ruled that an ongoing pilot of facial recognition technology was"
+    publishedDateTime: 2020-09-09T07:55:00Z
+    webUrl: "https://www.law.com/international-edition/2020/09/09/why-facial-recognition-technology-was-deemed-unlawful/"
     type: article
     provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 54
-    images:
-      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2020/3F27E375703F21D215C414440800BA8A_800x392.20200904T120738.jpg"
-        width: 800
-        height: 392
-        isCached: true
-  - title: "Israeli Facial Recognition Tech Startup AnyVision Raises Additional $43M"
-    excerpt: "AnyVision said that at a time when demand for innovative technologies that help companies meet the challenges of the new reality is soaring, the company sees significant growth for their Touchless Access Control across all verticals within organizations that host large numbers of people in shared spaces."
-    publishedDateTime: 2020-09-07T14:53:00Z
-    webUrl: "https://nocamels.com/2020/09/israeli-facial-recognition-tech-startup-anyvision-raises-additional-43m/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 53
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/09/facialreco.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "TSA is testing facial recognition at security checkpoints"
-    excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
-    publishedDateTime: 2020-09-04T14:34:00Z
-    webUrl: "https://www.cbs7.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
-    type: article
-    provider:
-      name: CBS 7
-      domain: cbs7.com
+      name: Law
+      domain: law.com
     quality: 39
     images:
-      - url: "https://gray-kosa-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "TSA is testing facial recognition at security checkpoints"
-    excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
-    publishedDateTime: 2020-09-04T22:13:00Z
-    webUrl: "https://www.wdbj7.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
-    type: article
-    provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 39
-    images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
-        width: 980
-        height: 551
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2020/01/Facial-Recognition.jpg"
+        width: 4000
+        height: 2110
         isCached: true
 
 secured: "dnWE3FFG88z2UYbfzkjjzjPPqY1HNuRMLcpAmq1OmzBvYzREdq0rZUUMA4mvFGhAeUqyXDzOy9NXjNEAPDSjXUiScA5ZrJJ9SrUD9Ww9/fb9lqxZv1NBVmv1g61I1lX+KMg5GlcsFZfjgKunGIpttYFTwWr5BxJGKEhauQ4hYzpGNd0lnDnp9IDbvZUfUew/fTv0i6oaMzFXn6+QOvV3LggKmr1x5GcvgXfTFxedWHMwgVMjuuJ/GjAUu8QqZalt51vXUepbnepxhVYv6XcaKudQ5taMRYIy7Y0P14epXOux4TUktiN42a7QTWstPaoHhIpVgOkT3ZtiIRhi2AdKUdDurblp/rCqutmc471sNyMI+Lyw1W+z3z0PudKYkAAF9tgGSEiPGdSibzH/c6b11r9va82WIBru84FcG0LNVaLylY+a8n7lVJOeGnJBO5ueBVaDUo0RC5zs4E7kHBhMMKmKRqDX+F/X0l9I3vhUQkHAkLGW2EAzOIew0wzazouFzOPSVQsjUyAJezb1VubXyaep0YMGzhHpcKr5sX3cSzs=;nivxBQIinG5lB1hDJL22ug=="
