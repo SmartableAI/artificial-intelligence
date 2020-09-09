@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07"
 type: article
 quality: 67
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -126,20 +126,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Outlook on the AI Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
-    excerpt: "The \"Global Artificial Intelligence (AI) Chips Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence (AI) chips market is poised to grow by $ 54.03 billion during 2020-2024 progressing at a CAGR of 42% during the forecast period."
-    publishedDateTime: 2020-09-04T12:54:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200904005314/en/Outlook-AI-Global-Market-2024---Key"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
-    images:
-      - url: "https://mms.businesswire.com/media/20200904005314/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "Explore Trends and COVID-19 Impact on Russia and NATO Artificial Intelligence in Military Market 2020 Research Report and Industry Forecast till 2026"
     excerpt: "Pages PDF Report] Facts & Factors (FnF) published a market research report on “Russia and NATO Artificial Intelligence in Military Market: By Size, Share, Growth Factors, Top Players, COVID-19 Analysis and Forecast,"

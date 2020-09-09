@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-maps-partners
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Google Maps uses DeepMind's AI to come up with your ETA: Know details"
-    excerpt: "By partnering with DeepMind, Google has been able to cut the percentage of inaccurate ETAs even further by using an ML architecture known as Graph Neural Networks."
-    publishedDateTime: 2020-09-04T12:04:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-google-ai-for-eta-deepmind-647212"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-google-ai-for-eta-deepmind-647212"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-google-ai-for-eta-deepmind-647212"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 74
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/09/google-maps-1599221036.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "rcy9SnHH7zalwkHRisHsmT8kZgeNnPlUfkqCSjYfTjTIKHV0xVAIQkE8kzmDw1rhT5Tlp2JSCJatdlhmAfK9k7XuGkfFwNV/CNXNPujMKBeb/dQUU647o5BnAA/4Y+mda5dPRSQXaQL0k+QgRPQcrFbvEN1cOlzv1yG7BGjNlbVJF0icmccS+Z0ubr9A9QrLVfuHHCBWa1FpPBlXLkQfnekqIEaqVLMo6QgP2uvSig4CcfPoYOuTE6JsNC0IVsejwLVy+zLjdjeXY/2z0DkntnyQjqUl0YuR5OFm4dtxulCpmHNyfJMrOuqEGax6NvvOr2J+2KuQKALtDnEt7vIrhZNAOSFvrv3vuuUiJjMGI8VshmBPdtEMA00r4d+pfimg761i/m+O4eA58PTGDOb7syhMXlsXjGa4eXkoYps3i1mdxZ0yxLSCfUdVUpydC9O/V/iCFJmq+LYoJAXaXgb4rqOmxF8ExKvekC4vr0t7s+Rf9FWVcWnGwb0gB8pGujRXnEylVfboqr7N0C5h9ukg0RBJY9cU1AT0tkqExleQ8E0=;BkdPl+DK3rglahn0loQ8sA=="
 ---

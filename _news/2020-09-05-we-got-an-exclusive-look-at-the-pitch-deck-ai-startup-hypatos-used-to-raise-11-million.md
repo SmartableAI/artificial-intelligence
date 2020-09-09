@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/ai-startup-hypatos-pitch-deck-fund
 webUrl: "https://www.businessinsider.com/ai-startup-hypatos-pitch-deck-funding-2020-9"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Business Insider
@@ -41,20 +41,6 @@ related:
       - url: "https://i.insider.com/5f5168ffe6ff30001d4e7018?width=600&format=jpeg&auto=webp"
         width: 600
         height: 450
-        isCached: true
-  - title: "Check out the pitch deck that AI sports app Mustard just raised $1.7 million to bring elite-level baseball pitching coaching to school kids"
-    excerpt: "The AI tech is also proving popular at the professional level, with some Major League Baseball organisations expressing interest says Mustard."
-    publishedDateTime: 2020-09-04T11:07:00Z
-    webUrl: "https://www.businessinsider.com/ai-sports-coaching-app-mustard-raised-with-this-pitch-deck-2020-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
-    images:
-      - url: "https://i.insider.com/5f50afbc7ed0ee001e25d2e7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "gHHj4AlLw3gpP43M6bmuM8I7zRf/TjSbo23oBc+Y7UvlrvTYNl0NBiQOVdT240NXfQRqXDxX4/wazAeibqTesWiy1j8O1udaIghQgSvroRwYWYQIfSfHASoT8xqHyaX8ITEFblVrtOnOY8snzsI4sJk63C1OydZ50GzM4x4ht9pte3ATA5aYfGOvfd7eFZgIG6wWtNR9FlJBpaKu2QgfeHaQdj6muIW/wOXAEaNSWUWgO9FwDx4n15MNwhyGGUdBR0oTPyJ19yRlzh6VeasS0v3Eivb34zX/btdUVRRCJXeQMsajPSHwiCZ9YBUAbgylMQSzm1G4obnaDt8e/WzbA05bdG3Z6bRvzcL2jNz48xvwes6RxL5kM6B+TkfSXVLKXJAEn6SnQ7b7Itrp+/ur3aT8up1PWz5kiiprN1+7achGHe57KMkDEzS/vNdxWr6YNW/HQJlCLb++wa2BBAff12aaYevnLfN/9kn7vvFQkxBzzAV0xMfV5Ek/1XlxxGQp3YHGvzjZQlKxVE0e7KIYJg==;/fuPaY5mO8h8TeXzRx5Xsw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Yandex-MAIN_0.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Yandex, Uber to Spin Off Self-Driving Cars Into New Company"
+    excerpt: "Yandex NV and Uber Technologies Inc. will spin off the self-driving car unit of their joint venture into a separate company, giving Yandex more control over the businesses and paving the way for ..."
+    publishedDateTime: 2020-09-04T20:44:00Z
+    webUrl: "https://www.ttnews.com/articles/yandex-uber-spin-self-driving-cars-new-company"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/yandex-uber.jpg?itok=85JbMoQA"
+        width: 470
+        height: 246
         isCached: true
 
 secured: "yeMuhfEWlbRl1Zu8sWjlo0qMsgclZyaQv03dew8jgT3o3yo/t5kFGl94IgSABy1od2Amo5/j7VlTChgi3THCsFyiF7d+MJjPIAOLW/JTTQZwDHS0+20PWu1Z1YkJvH8RR4ILRiUifse5d2IVCGIpbT3qdtn9gmH13/1u1r0ipGsBvLfgzgRrJhD4fr4ILN8067sWwuLp5EtnaDDEUO9QGDtr9rV/5zfa+EOJJQ3iLUpGpKxst56XvcLJLoxx5O2kmIeAoI5508aoYgTnypn7w7EqWR0Mbdu+ZFNv2lY2QvCfqIjySHv+Ef9PYTOF3K7dDe5DGMdxl/RGBJUL2xj6WQUGFZ9ijhzvR0kuMM8/6NMla2B+gcXqpOF+BAeLg6xXgFdY+5uZYQVZxmsWuOrFtJoaZ0jSogA36DPNZS8TthfLTaGSJandsQevZqIZcH6Mwn+syHWt5NoGMQ5gGPFkIdw0HGDoFiACJvoDtrkODFHzxn30MpnAtkZ4AdyATGXFiai/zIMOrCmBS5O7gYYrzD+pfP2c8tA4hqXJs6e8aUo=;zSb6tQ8bl7I9fu5whKap+w=="

@@ -2,9 +2,9 @@
 category: news
 title: "ZF partners with startup Aeva to produce self-driving sensors"
 excerpt: "German supplier ZF Friedrichshafen and Silicon Valley startup Aeva are partnering on a crucial sensor for self-driving vehicles, the companies said on Tuesday. Lidar sensors, which measure distances with a laser light,"
-publishedDateTime: 2020-09-08T13:45:00Z
-originalUrl: "https://www.autonews.com/suppliers/zf-partners-startup-aeva-produce-self-driving-sensors"
-webUrl: "https://www.autonews.com/suppliers/zf-partners-startup-aeva-produce-self-driving-sensors"
+publishedDateTime: 2020-09-08T14:45:00Z
+originalUrl: "https://europe.autonews.com/suppliers/zf-partners-startup-aeva-produce-self-driving-sensors"
+webUrl: "https://europe.autonews.com/suppliers/zf-partners-startup-aeva-produce-self-driving-sensors"
 type: article
 quality: 24
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/styles/800x600/s3/COPY_308309902_AR_1_RTSFDBJUQEYL.jpg"
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/ZF%20logo%20web_0.jpg"
     width: 800
     height: 600
     isCached: true
@@ -37,6 +37,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "+9LvjweTxUgboKRtNpzprLB6r+mTfLc7UAnwQBAofxY1zxppjSeB/NdX95fT+RA8L0QcDq/NwbQOHclcq+ZYueX6ryr80HwVH6sKwWNoj/YHxRpjwxow9qil+0NO+mpibojlV3DtXyLLwMw/ocwAqqez7Xb/DsK34FfX8ich1CDo7OgY4EQ6YeTEC8cGXahu9HxoW6fO76uBOpBBfCNlQqZzut9a7Qevjq+6Lj9Zy0cIz7tMWOTJy4tvKPixmRxbLWYE25sqHAa7NnSSjsJbdB/MQgoAFd7200pg/C4T8rjmRdnKQh2PWfjs8JktThqg3Ammha7A2U0QRyKkAIOh+nup+vGRt7I49pCUXcHPnIaE+uUVWG8fwWFdwsAaFTQ59nOrmM1VstLdwqbtQyGD5smHN54v5N2XG73Ob5HoHNjf5QepmeruisvHKfVx+QEOu/eCXFFTub6w4jvrgNO/s+B+0wEcQ57kqj6bDYLnPV7EGl2ScHJDQk0mbjuWTE9OhtANoj4Ue04aa9x6Ue3lVdG8+Toy1mmOUPUoycdw/pM=;G5WPT/Vtd4FYu7MeHNpxXA=="
+secured: "Cgs65dX9d5whYyx36YPToa4ODsmhhfTjGTwd9EkLdwXk+7IW9YOCGrmqQdFpVmEnsUVojVAJTiveL0VLcqN4k0/KQphKT8WxrQ1iN91rNw/L7/pgVKnLLAUKn/SPN1wh73jYL6p+apTTn/EoBrarN/YloYYQ5ZBRTRAymX1PMZ2IMxascqllFNqymv58x3RnyOTU6+mioiqrR3XMCqPbnPiQBAFvOqsljn5Wgn/iWMQPCwyDz7w0vZ0UAhoeVKj4SzW/Z+cOBJRz6HkgDX6zPi/8cJm+94ncgvZDV5BLvqF0/DHSuJhnev0F2bNLMQ+C6fS3o8w/U6FlXDlLBKbhag2fpqPwpNMzZLzp+yGuGHk=;zQ23TVO/d0ZqP173JplsRg=="
 ---
 

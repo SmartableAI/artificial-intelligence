@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 546
         isCached: true
+  - title: "Yandex, Uber to Spin Off Self-Driving Cars Into New Company"
+    excerpt: "Yandex NV and Uber Technologies Inc. will spin off the self-driving car unit of their joint venture into a separate company, giving Yandex more control over the businesses and paving the way for ..."
+    publishedDateTime: 2020-09-04T20:44:00Z
+    webUrl: "https://www.ttnews.com/articles/yandex-uber-spin-self-driving-cars-new-company"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/yandex-uber.jpg?itok=85JbMoQA"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "Q3ov351YQPgYd16yakP5RQHzlt6Kf8MeLHqccr1Rm/dU0/gUyQCseEm2lsiATGNwdHt9P+qxkLwU3pw03cc0Tz7e1mGepP64xPL131HOCrSEoM5+F9PBImA0/3h4nVjsWU4RdzmamsJMpY5QMO+g+1Ib9yMusa0riistO4Y7ix35+MdGheb5rdCWLhQGp8JfqujCtKkClo/C7W9nmWs05MnS/LpyKyOiJTRUVGOjxuxriUohcYS76+K+r+aga8K+ll8S27ThBDeweZexNPNPnzpOvjf+/9E5zTUvHmPNc/q1CFqSREMOZTnTYgmbEo3o1H6ZP3BUY3POeU9UOq45Ii4fOWrjiJpmMGytzEr84sI=;k/fNR2ogqPrjieB5nJCeHw=="
 ---

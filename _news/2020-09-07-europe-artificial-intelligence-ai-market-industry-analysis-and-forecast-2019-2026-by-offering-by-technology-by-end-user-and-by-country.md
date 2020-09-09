@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Computer Vision in Healthcare Market: Industry Analysis and Forecast (2018-2026) – by Type, Application, End User, Region."
+    excerpt: "Global Computer Vision in Healthcare Market was valued US$ 200 Mn in 2017 and is expected to reach US$ 3450.3 Mn by 2026, at CAGR of 42.76% during forecast period. Growth of computer vision in healthcare market is driven by the increasing demand for computer vision systems in healthcare industry,"
+    publishedDateTime: 2020-09-05T02:44:00Z
+    webUrl: "https://galusaustralis.com/2020/09/952453/global-computer-vision-in-healthcare-market-industry-analysis-and-forecast-2018-2026-by-type-application-end-user-region/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/952453/global-computer-vision-in-healthcare-market-industry-analysis-and-forecast-2018-2026-by-type-application-end-user-region/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/952453/global-computer-vision-in-healthcare-market-industry-analysis-and-forecast-2018-2026-by-type-application-end-user-region/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 30
+    images:
+      - url: "https://www.maximizemarketresearch.com/wp-content/uploads/2019/03/Global-Computer-Vision-in-Healthcare-Market-by-Region.png"
+        width: 729
+        height: 320
+        isCached: true
   - title: "North America AI in Diagnostics Industry, Forecast to 2026 by Diagnosis Type, Component and Country"
     excerpt: "The \"North America Artificial Intelligence in Diagnostics Market By Diagnosis Type (Radiology, Oncology, Neurology, Cardiology, Chest &"
     publishedDateTime: 2020-09-07T19:00:00Z

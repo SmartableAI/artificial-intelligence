@@ -132,20 +132,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Outlook on the AI Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
-    excerpt: "The \"Global Artificial Intelligence (AI) Chips Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence (AI) chips market is poised to grow by $ 54.03 billion during 2020-2024 progressing at a CAGR of 42% during the forecast period."
-    publishedDateTime: 2020-09-04T12:54:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200904005314/en/Outlook-AI-Global-Market-2024---Key"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
-    images:
-      - url: "https://mms.businesswire.com/media/20200904005314/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "u7OEsze5w9pj3ZCsDKmHnCDVWJKK7aMmj0OW/s2fUUR7sjn1Ag8wFgR8jpcqr4n1x8aq+iZiJOPkw2kMrfKFGtgXF0q0v3do957hM5D/B3Tjj/r5w+z3R47lURvm/LoY0SNhR+qM/GBOB01nOt0pfvD9c5Q4kUdZySBUP6N7B4Dt7TuDFMxZbZZ8F4t7CfbvMOXI0x130szWkX9gCRq2O/xmEHT3gv2moh3mOJIafeKz7EmL7QUH73Q1A6xspE4HRW3R9iBMoEKOLod9oNki/ZF8UaU3DvA5tkdangetZuc8iJpfSJi2PQTss/U4BWqyehyHmjwuh8jr30LmWIHeRxuDH15uAPileDw5RdFaem4=;jNqTfRv+r7vYmo/ljb3Ijw=="
 ---
