@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-maps-partners
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Maps using DeepMind AI to predict your arrival time"
-    excerpt: "Google has partnered with DeepMind, an Alphabet AI research lab, to improve the accuracy of its traffic prediction capabilities. \"Our ETA predictions already have a very high accuracy bar – in ..."
-    publishedDateTime: 2020-09-04T09:58:00Z
-    webUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-    ampWebUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
 
 secured: "rcy9SnHH7zalwkHRisHsmT8kZgeNnPlUfkqCSjYfTjTIKHV0xVAIQkE8kzmDw1rhT5Tlp2JSCJatdlhmAfK9k7XuGkfFwNV/CNXNPujMKBeb/dQUU647o5BnAA/4Y+mda5dPRSQXaQL0k+QgRPQcrFbvEN1cOlzv1yG7BGjNlbVJF0icmccS+Z0ubr9A9QrLVfuHHCBWa1FpPBlXLkQfnekqIEaqVLMo6QgP2uvSig4CcfPoYOuTE6JsNC0IVsejwLVy+zLjdjeXY/2z0DkntnyQjqUl0YuR5OFm4dtxulCpmHNyfJMrOuqEGax6NvvOr2J+2KuQKALtDnEt7vIrhZNAOSFvrv3vuuUiJjMGI8VshmBPdtEMA00r4d+pfimg761i/m+O4eA58PTGDOb7syhMXlsXjGa4eXkoYps3i1mdxZ0yxLSCfUdVUpydC9O/V/iCFJmq+LYoJAXaXgb4rqOmxF8ExKvekC4vr0t7s+Rf9FWVcWnGwb0gB8pGujRXnEylVfboqr7N0C5h9ukg0RBJY9cU1AT0tkqExleQ8E0=;BkdPl+DK3rglahn0loQ8sA=="
 ---

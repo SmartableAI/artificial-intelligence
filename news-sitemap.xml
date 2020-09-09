@@ -313,6 +313,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/</loc>
+    <lastmod>2020-09-04T19:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/sabbirrangwala/2020/09/04/lean-sensinga-critical-enabler-for-autonomous-vehicles/</loc>
     <lastmod>2020-09-04T17:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -375,6 +381,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-04</loc>
     <lastmod>2020-09-04T05:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html</loc>
+    <lastmod>2020-09-04T02:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2229,6 +2241,12 @@
   <url>
     <loc>https://pittsburgh.cbslocal.com/video/4678635-city-councilman-introduces-legislation-to-ban-unrestricted-use-of-facial-recognition-and-predictive-policing/</loc>
     <lastmod>2020-08-25T09:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.sciencedaily.com/releases/2020/08/200825110608.htm</loc>
+    <lastmod>2020-08-25T09:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 776
         isCached: true
-  - title: "Yandex and Uber spin out self-driving venture with $150 million investment"
-    excerpt: "Yandex and Uber are spinning out their self-driving venture into a separate company with the Russian tech giant investing $150 million."
-    publishedDateTime: 2020-09-04T10:59:00Z
-    webUrl: "https://venturebeat.com/2020/09/04/yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment/"
-    ampWebUrl: "https://venturebeat.com/2020/09/04/yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/04/yandex-and-uber-spin-out-self-driving-venture-with-150-million-investment/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/Yandex-Self-Driving-026-e1599213974150.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "Pir5Vdnt1SJI+W/NmY5oBdlNk53AylvawXfSwOwnI9n3FAeELBgJsZ6pQM9pcQzG59Bs4NplD9FlrD3grbET+ToNfYfqe1PMJFdDY+xIL7CuvaSS/Phbh/yTWBEG7xoLaMp/cID+E2SdhtdApgaoFILuSuKZehDwHImQFdp89ALEuZLImo0i9vMe4IW4XdoKc5h2vxOPjsUDzeGpcetAFCVw8v8ToVFqh7kh0flD6xi4rV1evXFpPK/Jz2IOiljruIEwffqqk3vfBzGg+f/T/5Z++tnYdWS11hjPgmv8vIK3vHiHELzWzHq0Q0QktcpELv2h95jJrHJhJTglSUJjX+2sten5d9piRlDf4sV7La0HuOBQ3c/ZsGzbLgNZelvHvzxj6ftPVkwxLH0KVE36pm5D7wBioRFSPS5xO58uM8fa9BJEKb+MI40HaM5yyEgtefDjHqCfWLTAZMvYQcWHsFtBPCewiencSkyysMd8KD/vySb+9jjSid2mjv7r0i1ksWqLR6q7p6iLzIOvv5Rxx4EW0oLvkiHIleGsCp9VVAI=;+SGwieh83TBME3Jz1M7bVg=="
 ---

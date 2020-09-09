@@ -8,7 +8,7 @@ webUrl: "https://baltimore.cbslocal.com/2020/09/08/talking-robots-could-be-used-
 ampWebUrl: "https://baltimore.cbslocal.com/2020/09/08/talking-robots-could-be-used-to-combat-loneliness-boost-mental-health-in-care-homes/amp/"
 cdnAmpWebUrl: "https://baltimore-cbslocal-com.cdn.ampproject.org/c/s/baltimore.cbslocal.com/2020/09/08/talking-robots-could-be-used-to-combat-loneliness-boost-mental-health-in-care-homes/amp/"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Robots found to ease loneliness in older people in care homes"

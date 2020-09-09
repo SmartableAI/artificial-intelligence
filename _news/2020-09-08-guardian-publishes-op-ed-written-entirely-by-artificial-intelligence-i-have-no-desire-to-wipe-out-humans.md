@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/op-ed-written-artificial-intelligence-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/op-ed-written-artificial-intelligence-robot.amp"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.insidehook.com/wp-content/uploads/2020/09/ai.jpg?fit=1200%2C800"
         width: 1200
         height: 800
+        isCached: true
+  - title: "'I have no desire to wipe out humans': Artificial intelligence system writes an essay for The Guardian to convince readers that robots will NOT destroy our species"
+    excerpt: "In an Op-Ed for the newspaper, a robot called GPT-3 was tasked with convincing its human readers that robots are harmless and come in peace."
+    publishedDateTime: 2020-09-08T17:21:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8710479/I-no-desire-wipe-humans-AI-writes-article-Guardian.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8710479/amp/I-no-desire-wipe-humans-AI-writes-article-Guardian.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8710479/amp/I-no-desire-wipe-humans-AI-writes-article-Guardian.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 28
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/09/08/17/9856638-0-image-a-4_1599582063876.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "a26eqKViDvslQpFKzF6EGbrxbNJmDUvZOYBK5ApQGfnBZtf3756tW4L7NxPco+E1RyBoF0aauRTpwBxS0Ur3j75S82/YuM++G2BP5IaHJ6bbaiYPhIpx76DEEG1jGyqWeLZUFxyIK2KsCU3o9oYIm5v7GcCcuULNV7VysnDIIo0S4ZIgeBV4aVxfkGWmIDoeGDOyPYaTmTHAy3/6x9io21Ugf7s1X3wuzAOkO7sibUZtIo0npVdu0M1sAP4ZIGhenrbqUCyhmxuc8w+6wEy6ng2RKmDWXeNCNhvj0l/5GT/lw0DupwMlJHjsoi/lKF9D7A/avkHj9Dq4wbyrVGDduJUZB46DypWYzU1T9pKo5cne8gkYkEzYUjGB01QLlY76Dvl2CiCvZXEWkHnTfo57vi3TENklAiQ+v01Zk4FWcmKus0tcH6BWmf7HOwVti+FFYUrrUA5L4l20Z3HNazpI39H+qFqZhFokSbJ9e1W1stDLmFa+2u9/dyqbJ9sgFNGOd3w3MQojS08b9JcxSkOUOqq6pL6eY4xOtf2JcJSfA4s=;BWf1YkRCLQxLjnSwv/sCdg=="

@@ -9,7 +9,7 @@
       "webUrl": "https://www.techspot.com/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
       "originalUrl": "https://www.techspot.com/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
       "featuredContent": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -59,7 +59,7 @@
       "webUrl": "https://www.techrepublic.com/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/",
       "originalUrl": "https://www.techrepublic.com/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/",
       "featuredContent": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -129,6 +129,38 @@
       "provider": {
         "name": "Indiatimes",
         "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-google-maps-using-deepmind-ai-to-predict-your-arrival-time.md",
+      "title": "Google Maps using DeepMind AI to predict your arrival time",
+      "excerpt": "Google has partnered with DeepMind, an Alphabet AI research lab, to improve the accuracy of its traffic prediction capabilities. \"Our ETA predictions already have a very high accuracy bar – in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
+      "originalUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
+      "publishedDateTime": "2020-09-04T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1400,47 +1432,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-animegan-uses-machine-learning-to-turn-photos-into-anime-style-backgrounds.md",
-      "title": "AnimeGan Uses Machine Learning to Turn Photos Into Anime-Style Backgrounds",
-      "excerpt": "A GitHub user recently posted the open-source code for AnimeGAN using machine learning platform Tensorflow for anyone to download and use to create anime-style backgrounds.",
-      "sourceUrl": null,
-      "webUrl": "https://hypebeast.com/2020/8/animegan-machine-learning-turn-photos-anime-style-backgrounds-info",
-      "originalUrl": "https://hypebeast.com/2020/8/animegan-machine-learning-turn-photos-anime-style-backgrounds-info",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F08%2Fanimegan-machine-learning-turn-photos-anime-style-backgrounds-info-tw.jpg?w=960&cbr=1&q=90&fit=max",
-          "width": 960,
-          "height": 481,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://hypebeast.com/2020/8/animegan-machine-learning-turn-photos-anime-style-backgrounds-info",
-      "cdnAmpWebUrl": "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/8/animegan-machine-learning-turn-photos-anime-style-backgrounds-info",
-      "publishedDateTime": "2020-08-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hypebeast",
-        "domain": "hypebeast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

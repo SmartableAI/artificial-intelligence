@@ -2,6 +2,146 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-08-20-researchers-improve-perception-of-robots-with-new-hearing-capabilities.md",
+      "title": "Researchers improve perception of robots with new hearing capabilities",
+      "excerpt": "Carnegie Mellon University researchers said their work is the first large-scale study of the interactions between sound and robotic action.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/researchers-improve-perception-of-robots-with-new-hearing-capabilities/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/11/20/c5767581-65df-4ed5-a246-21b22b3f67bf/resize/1200x/ec160a4f64152df66088e6cdadf73782/human-hand-robot.jpg",
+          "width": 1200,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/researchers-improve-perception-of-robots-with-new-hearing-capabilities/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/researchers-improve-perception-of-robots-with-new-hearing-capabilities/",
+      "publishedDateTime": "2020-08-20T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-oral-bs-absurd-200-ai-toothbrush-is-finally-available.md",
+      "title": "Oral-B's absurd $200 AI toothbrush is finally available",
+      "excerpt": "Oral-B showed off its flashy new AI-powered iO toothbrush at CES 2020. It threw around phrases like “linear magnetic drive” and \"oscillating, rotating movements,” but the company didn’t reveal the price.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/oral-b-io-ai-electric-toothbrush-134200732.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fdea8dcc0-e2e8-11ea-bfb6-b7b4137f6a14&client=amp-blogside-v2&signature=3b0d459a01e7add35947ee45129431c67c45d91a",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/oral-b-io-ai-electric-toothbrush-134200732.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/oral-b-io-ai-electric-toothbrush-134200732.html",
+      "publishedDateTime": "2020-08-20T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware.md",
+      "title": "Who thought it was a good idea to have facial recognition foftware?",
+      "excerpt": "It’s about time someone asked that question about facial recognition software. It would oblige the developers and users of the technology to explain exactly why they think it’",
+      "sourceUrl": null,
+      "webUrl": "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/",
+      "originalUrl": "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.brookings.edu/wp-content/uploads/2020/08/Facial-recognition-technology-cameras.jpg",
+          "width": 5472,
+          "height": 3648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/amp/",
+      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/who-thought-it-was-a-good-idea-to-have-facial-recognition-foftware/amp/",
+      "publishedDateTime": "2020-08-20T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Brookings Institution",
+        "domain": "brookings.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-ai-based-customer-engagement-platform-ikala-raises-17-million-to-expand-in-southeast-asia.md",
       "title": "AI-based customer engagement platform iKala raises $17 million to expand in Southeast Asia",
       "excerpt": "Taiwanese startup iKala, which offers an artificial intelligence-based customer acquisition and engagement platform, will expand into new Southeast Asian markets after raising a $17 million Series B.",
@@ -1052,139 +1192,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-could-machine-learning-help-bring-marginalized-voices-into-historical-archives.md",
-      "title": "Could machine learning help bring marginalized voices into historical archives?",
-      "excerpt": "Researchers at the Montreal AI Ethics Institute and Microsoft propose using AI systems to build more inclusive, less biased historical archives.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/19/could-machine-learning-help-bring-marginalized-voices-into-historical-archives/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Black_Lives_Matter_Hyde_Park_London_protest_3.6.27-e1591395900176.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/19/could-machine-learning-help-bring-marginalized-voices-into-historical-archives/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/could-machine-learning-help-bring-marginalized-voices-into-historical-archives/amp/",
-      "publishedDateTime": "2020-08-19T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-microsofts-new-azure-servers-deliver-powerful-nvidia-a100-ampere-ai-supercomputing-boost.md",
-      "title": "Microsoft's New Azure Servers Deliver Powerful NVIDIA A100 Ampere AI Supercomputing Boost",
-      "excerpt": "Therefore, Microsoft’s Azure is announcing their powerful ND A100 v4 virtual machine series. Each device will be kitted out with eight impressive NVIDIA Ampere A100 Tensor Core GPUs. The ND A100 v4 won’t work alone,",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
-      "originalUrl": "https://hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
-      "featuredContent": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/52579/content/azure-machine-learning.jpg",
-          "width": 708,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
-      "publishedDateTime": "2020-08-19T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-amp-robotics-accelerates-growth-with-key-leadership-hires.md",
-      "title": "AMP Robotics Accelerates Growth With Key Leadership Hires",
-      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics used to recover commodities reclaimed as raw materials for the glob",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200819005638/en/AMP-Robotics-Accelerates-Growth-Key-Leadership-Hires",
-      "originalUrl": "https://www.businesswire.com/news/home/20200819005638/en/AMP-Robotics-Accelerates-Growth-Key-Leadership-Hires",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200819005638/en/813724/23/AMP_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-19T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

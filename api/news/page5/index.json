@@ -2,6 +2,106 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-03-the-distributed-cloud-era-has-arrived.md",
+      "title": "The distributed cloud era has arrived",
+      "excerpt": "The rise of distributed clouds and app-to-app networking dictates the use of cloud-native network and security infrastructure",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.html",
+      "originalUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.html",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/07/cso_nw_cloud_computing_distributed_decentralized_network_connections_iot_internet_of_things_thinkstock_853701240_3x2_1500x1000-100801371-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.amp.html",
+      "publishedDateTime": "2020-09-03T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-using-robotics-and-immersive-technologies-to-support-work-from-home-employees.md",
+      "title": "Using robotics and immersive technologies to support work-from-home employees",
+      "excerpt": "According to a recent enterprise survey by 451 Research, the emerging technology research unit of S&P Global Market Intelligence, 80 percent have implemented or expanded universal work-from-home policies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.html",
+      "originalUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.html",
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/remote_worker_working_from_home_self_employed_contractor_freelancer_digital_nomad_by_allensima_gettyimages-1151404751_2400x1600-100853245-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.amp.html",
+      "publishedDateTime": "2020-09-03T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-qualcomm-promises-better-ai-for-its-next-snapdragon-pc-chip.md",
       "title": "Qualcomm promises better AI for its next Snapdragon PC chip",
       "excerpt": "The Snapdragon 8cx Gen 2 follows up 2018’s Snapdragon 8cx, and back then the company said the “x” in the name stood for “extreme” power. While the actual performance promises of the Snapdragon 8cx Gen 2 don’t seem like a great leap forward,",
@@ -1107,105 +1207,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu.md",
-      "title": "GPU company Imagination Technologies to teach students how to design a CPU",
-      "excerpt": "This does not necessarily bring Imagination back to CPU business right now as it yet has to announce any RISC-V products, but rather demonstrates the company’s interests. The course is called “RVfpga: Understanding Computer Architecture” and it includes theoretical and practical materials to help students understand the basics of processor architecture in general as well as modification or RISC-V cores and microarchitectures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
-      "originalUrl": "https://www.techradar.com/sg/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/3KVYrh3xCBJEz6enRvignB-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
-      "publishedDateTime": "2020-09-02T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms.md",
-      "title": "TikTok Deal Talks Are Snarled Over Fate of App’s Algorithms",
-      "excerpt": "Deal talks for TikTok’s U.S. operations have been complicated by the key question of whether the app’s core algorithms can be included as part of a deal, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674?mod=hp_lead_pos1",
-      "originalUrl": "https://www.wsj.com/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674",
-      "featuredContent": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-227247/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674",
-      "publishedDateTime": "2020-09-02T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Yandex spins out self-driving car unit from its Uber JV, invests $150M into newco"
-    excerpt: "Self-driving cars are still many years away from becoming a ubiquitous reality, but today one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do."
-    publishedDateTime: 2020-09-04T09:49:00Z
-    webUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/"
-    ampWebUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 69
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/04/yandex.jpg?w=1024"
-        width: 1024
-        height: 546
-        isCached: true
   - title: "Yandex spins out self-driving car unit from its Uber JV, invests $150M into new company"
     excerpt: "Self-driving cars are still many years away from becoming a ubiquitous reality, but today, one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do."
     publishedDateTime: 2020-09-05T02:10:00Z
@@ -57,15 +41,6 @@ related:
         width: 1024
         height: 546
         isCached: true
-  - title: "Yandex increases its stake to 62% in ride-hailing and foodtech JV with Uber and to 73% in restructured self-driving business"
-    excerpt: "Yandex N.V. (NASDAQ:YNDX) has signed an agreement with Uber to contribute the Yandex.Drive car-sharing business from Yandex N.V."
-    publishedDateTime: 2020-09-04T09:51:00Z
-    webUrl: "https://seekingalpha.com/news/3611677-yandex-increases-stake-to-62-in-ride-hailing-and-foodtech-jv-uber-and-to-73-in-restructured"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
 
 secured: "Q3ov351YQPgYd16yakP5RQHzlt6Kf8MeLHqccr1Rm/dU0/gUyQCseEm2lsiATGNwdHt9P+qxkLwU3pw03cc0Tz7e1mGepP64xPL131HOCrSEoM5+F9PBImA0/3h4nVjsWU4RdzmamsJMpY5QMO+g+1Ib9yMusa0riistO4Y7ix35+MdGheb5rdCWLhQGp8JfqujCtKkClo/C7W9nmWs05MnS/LpyKyOiJTRUVGOjxuxriUohcYS76+K+r+aga8K+ll8S27ThBDeweZexNPNPnzpOvjf+/9E5zTUvHmPNc/q1CFqSREMOZTnTYgmbEo3o1H6ZP3BUY3POeU9UOq45Ii4fOWrjiJpmMGytzEr84sI=;k/fNR2ogqPrjieB5nJCeHw=="
 ---

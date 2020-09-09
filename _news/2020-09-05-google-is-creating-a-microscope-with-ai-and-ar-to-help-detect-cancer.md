@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/86645-google-creating-microscope-a
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 2560
     height: 1707
     isCached: true
-
-related:
-  - title: "Google Working on Augmented Reality Microscope to Improve Cancer Diagnosis"
-    excerpt: "In most cancer diagnoses, someone will at some point look through a microscope at a biopsy sample to confirm the presence of cancerous cells. Even pathologists who have been doing this for years can get it wrong occasionally."
-    publishedDateTime: 2020-09-04T11:02:00Z
-    webUrl: "https://www.extremetech.com/extreme/314600-google-working-on-augmented-reality-microscope-to-improve-cancer-diagnosis"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 22
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/09/Microscope-Pixabay.jpg"
-        width: 1688
-        height: 948
-        isCached: true
 
 secured: "k3IrWJ2ErkUD6PmnHmSKnvDo5nF2MfldopYIv/5ybMqShmk++XCZVPUXmNukSZ91AIxdVDeXA1/XnftIab1dgVeFr2KQ9mvu0ApsakENi87zNC8TGCHaIEEPAYrLXnlkrkCBerOQefkSsYQpooxXqCRej6+kyAT5GUNFTvaGPIsmQq5PV5BhLTZFavm6VOKSBzsdssdj8MW/t8Kj1XUm6en3eRteNKe12wKOvLZ9xMKJY8vOdXzzzOv6HavZWpEvvq/oHu1TDQvGdwOGuqVX3+DrZVBxlW1txsSrNsvRrjvs0fFBJZDU/W6mJykgr+4eE5+8WAeUV4u5AmmSN6j4aDQns5oiaaSfbQuSjrsLI5BgXE+NIglntokCkQRa9P5qI8+n+e6wddlyerK/ByulumDoIEnHr/A0tNFh9HGW7UUiMwNnitT0+AkUnjMCAqQOA4BuuVDidhVsGpZdDPocg7U5gbRU0CMaUgdDdR2kVSxg2v0fqtLHKeVewpdy+/m0s8t+NcIFAXo4YjUPNyPswrZb5s0sji+02MVoj2gudRo=;Q/5tC78qdWFBZchURHc9cg=="
 ---

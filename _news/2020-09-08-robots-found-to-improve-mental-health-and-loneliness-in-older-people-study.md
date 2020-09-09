@@ -67,7 +67,7 @@ related:
     provider:
       name: CBS Baltimore
       domain: cbslocal.com
-    quality: 32
+    quality: 34
   - title: "Talking Robots could be used in UK care homes to ease loneliness and improve mental health"
     excerpt: "Robots could be used in care homes after a study found they can improve mental health and have the potential to reduce loneliness in vulnerable older people."
     publishedDateTime: 2020-09-08T02:27:00Z

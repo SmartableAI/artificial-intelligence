@@ -2,6 +2,155 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-07-22-amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps.md",
+      "title": "Amazon launches Alexa Conversations in beta, lets developers deep-link skills to mobile apps",
+      "excerpt": "During Alexa Live, a virtual event for Alexa vendors and developer partners, Amazon unveiled tools designed to enable new Alexa voice experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/22/amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/22/amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps/amp/",
+      "publishedDateTime": "2020-07-22T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-google-launches-recommendations-ai-ecommerce-tool-in-public-beta.md",
+      "title": "Google launches Recommendations AI ecommerce tool in public beta",
+      "excerpt": "Following a lengthy preview period, Recommendations AI is available to eligible Google Cloud customers in beta from today.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/22/google-launches-recommendations-ai-in-public-beta/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/new-model-1_2-Converted.gif?w=1200&#038;strip=all",
+          "width": 960,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/22/google-launches-recommendations-ai-in-public-beta/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/google-launches-recommendations-ai-in-public-beta/amp/",
+      "publishedDateTime": "2020-07-22T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars.md",
+      "title": "Airplane Makes Emergency Landing On Busy Highway, Perplexing For Self-Driving Cars",
+      "excerpt": "A news report and an accompanying video clip recently showcased the harrowing escapade of a small airplane that made an emergency landing on a busy highway, doing so amid everyday car traffic. As though we all were a fly-on-the-wall,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216674946%2F0x0.jpg%3FcropX1%3D1043%26cropX2%3D5057%26cropY1%3D70%26cropY2%3D1952",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-07-22T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-waymo-and-fiat-chrysler-agree-to-build-self-driving-delivery-vans.md",
       "title": "Waymo and Fiat Chrysler Agree to Build Self-Driving Delivery Vans",
       "excerpt": "Fiat Chrysler Automobiles (NYSE: FCAU) and Waymo said that they will work together to develop and build a series of self-driving commercial vans, the two companies announced in a statement on Wednesday. Under the deal, Waymo becomes FCA's exclusive ...",
@@ -945,129 +1094,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks.md",
-      "title": "Fiat Chrysler, Waymo deepen partnership to develop self-driving trucks",
-      "excerpt": "Click here to subscribe for free.) Automaker Fiat Chrysler (FCA) and driver-less technology developer Waymo are deepening their ties to build self-driving trucks. The expansion deal will make Waymo FCA’s exclusive partner in developing L4 fully self-driving technology across the automaker’s full product portfolio,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece#!",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/incoming/om0u9d/article32158570.ece/ALTERNATES/LANDSCAPE_615/Waymo",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece/amp/",
-      "publishedDateTime": "2020-07-22T00:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-modern-development-splice-machine-a-new-strategy-for-application-first-storage.md",
-      "title": "Modern development - Splice Machine: A new strategy for application-first storage",
-      "excerpt": "This contribution comes from Monte Zweben, CEO of Splice Machine — the company is known for its scale-out database built with Machine Learning (ML ... and MapR that were late to the cloud. AWS, Azure and GCP nearly eliminate the operational complexity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Modern-development-Splice-Machine-A-new-strategy-for-application-first-storage",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Modern-development-Splice-Machine-A-new-strategy-for-application-first-storage?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/Modern-development-Splice-Machine-A-new-strategy-for-application-first-storage?amp=1",
-      "publishedDateTime": "2020-07-22T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-tencent-and-chinese-scientists-use-deep-learning-to-predict-fatal-covid-19-cases.md",
-      "title": "Tencent and Chinese scientists use deep learning to predict fatal COVID-19 cases",
-      "excerpt": "Tech firms around the world are in an overdrive to help battle the coronavirus pandemic. Research showed that 6.5% of COVID-19 patients can suddenly progress to serious illness, and among them the mortality rate can be as high as 49%.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1209271729.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/",
-      "publishedDateTime": "2020-07-21T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

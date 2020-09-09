@@ -102,6 +102,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-25-small-quake-clusters-cant-hide-from-ai.md",
+      "title": "Small quake clusters can't hide from AI",
+      "excerpt": "A deep learning algorithm analyzes data from a deadly landslide in Greenland to show how it may someday predict seismic events like earthquakes and volcanic eruptions. Researchers at Rice ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/08/200825110608.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/08/200825110608.htm",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-fifty-new-planets-confirmed-in-machine-learning-first.md",
       "title": "Fifty new planets confirmed in machine learning first",
       "excerpt": "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by University of Warwick scientists.",
@@ -1356,38 +1397,6 @@
       "provider": {
         "name": "ST",
         "domain": "st.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-is-sustainable-deep-learning-possible.md",
-      "title": "Is sustainable deep learning possible?",
-      "excerpt": "Training a deep learning machine causes as much pollution as the emissions of five automobiles over their lifetime. Unsurprisingly, researchers are working on new methods with a view to reducing ...",
-      "sourceUrl": null,
-      "webUrl": "https://technology.inquirer.net/103193/is-sustainable-deep-learning-possible",
-      "originalUrl": "https://technology.inquirer.net/103193/is-sustainable-deep-learning-possible",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://technology.inquirer.net/103193/is-sustainable-deep-learning-possible/amp",
-      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/103193/is-sustainable-deep-learning-possible/amp",
-      "publishedDateTime": "2020-08-17T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philippine Daily Inquirer",
-        "domain": "inquirer.net",
         "images": null,
         "publishers": null,
         "authors": null
