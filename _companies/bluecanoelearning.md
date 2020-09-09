@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bluecanoelearn"
   url: "https://twitter.com/bluecanoelearn"
-  followers: 149
+  followers: 150
 
 size: 2-10 employees
 yearFounded: 2016
