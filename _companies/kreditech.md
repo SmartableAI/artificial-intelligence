@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Kreditech"
   url: "https://twitter.com/Kreditech"
-  followers: 4
+  followers: 3
 
 size: 201-500 employees
 yearFounded: 2012
