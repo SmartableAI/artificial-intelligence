@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "LoveKairos"
   url: "https://twitter.com/LoveKairos"
-  followers: 4581
+  followers: 4580
 
 size: 11-50 employees
 yearFounded: 2012
