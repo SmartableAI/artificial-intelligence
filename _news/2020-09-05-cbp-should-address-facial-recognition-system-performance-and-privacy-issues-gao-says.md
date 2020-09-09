@@ -41,6 +41,22 @@ related:
         width: 640
         height: 373
         isCached: true
+  - title: "Norfolk, Va., PD Used Facial Recognition, Not Even Officials Knew"
+    excerpt: "The Clearview AI application was piloted by police in the city, but most city leaders and the public had no idea it was being used. The technology has raised concerns among civil rights and privacy advocates."
+    publishedDateTime: 2020-09-09T21:22:00Z
+    webUrl: "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
+        width: 1119
+        height: 630
+        isCached: true
 
 secured: "bH/7YIHINbqNRE1H0ko/uDpbbDAmr0QH2zYjs9iDoeaRvPP800XpMNfc0Yt2Q+70zDG5n1XRKH/SVBToWrT4PhfbqZD1L7kMpsgHu+ilPXoOH5s5GOVpN7vTaWtux3Hqq6pxNqIlkx4w3RDJ2b+AU+zkMebtSHjePkdxasXps+8f5p0Po5YOr+ACOS8sAvbUWm1ArrRmRHF7Hj73iT5NWXo2mDMbk+QO+HP6gXxsa7sk+030aNHr9TRTH5k4xC/qG6ONBNCW4Rd3NNzMjZ+OsF8kRyIj91l0nd6xnfdg2Izj9XwuAUj8P+v73c1HA8ZGZ/qaLPARfIImVKk/n0x4PNmMWrRwmYU5WsJAfENVCiKAlGuWmGvosd7ZEB3vprPOQcuAW6p7NEr79OI2gbaJ3JkM1FbeUAPJz8GKLOAjz5jgzuZWRgRFVWQNca/WMt9qok/mwU1HhBD0SXJtu1Z5oXOV7kMeckbxPZWdm+A9+P+mMN323PkaqG52ztBe8vRpPMxshczxXfeOD4LvRq/+Q0DpCsMP18LBzgzZIAWNowc=;0S31u1F8+6UKq+/eys/NxQ=="
 ---

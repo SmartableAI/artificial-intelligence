@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/86645-google-creating-microscope-a
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 2560
     height: 1707
     isCached: true
+
+related:
+  - title: "DOD enlisting AR microscopes to spot cancer"
+    excerpt: "The Defense Innovation Unit is partnering with Google Cloud to use machine learning and augmented reality to speed and improve the accuracy of cancer diagnoses."
+    publishedDateTime: 2020-09-09T21:31:00Z
+    webUrl: "https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 24
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2020/September/ARmicroscope.jpg"
+        width: 760
+        height: 368
+        isCached: true
 
 secured: "k3IrWJ2ErkUD6PmnHmSKnvDo5nF2MfldopYIv/5ybMqShmk++XCZVPUXmNukSZ91AIxdVDeXA1/XnftIab1dgVeFr2KQ9mvu0ApsakENi87zNC8TGCHaIEEPAYrLXnlkrkCBerOQefkSsYQpooxXqCRej6+kyAT5GUNFTvaGPIsmQq5PV5BhLTZFavm6VOKSBzsdssdj8MW/t8Kj1XUm6en3eRteNKe12wKOvLZ9xMKJY8vOdXzzzOv6HavZWpEvvq/oHu1TDQvGdwOGuqVX3+DrZVBxlW1txsSrNsvRrjvs0fFBJZDU/W6mJykgr+4eE5+8WAeUV4u5AmmSN6j4aDQns5oiaaSfbQuSjrsLI5BgXE+NIglntokCkQRa9P5qI8+n+e6wddlyerK/ByulumDoIEnHr/A0tNFh9HGW7UUiMwNnitT0+AkUnjMCAqQOA4BuuVDidhVsGpZdDPocg7U5gbRU0CMaUgdDdR2kVSxg2v0fqtLHKeVewpdy+/m0s8t+NcIFAXo4YjUPNyPswrZb5s0sji+02MVoj2gudRo=;Q/5tC78qdWFBZchURHc9cg=="
 ---

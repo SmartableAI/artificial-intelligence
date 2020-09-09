@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 563
         isCached: true
-  - title: "Daimler Trucks tests self-driving vehicles in US Southwest"
-    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-    publishedDateTime: 2020-09-05T04:10:00Z
-    webUrl: "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
-    ampWebUrl: "https://www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 59
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
 
 secured: "k+5hde35AgbNmODlIxPi9k9SgsCu9wIEGWw/gk97wvWAIo2CBoJHPHicNEk9ngoWmvpvnT3GCZ9QTNP0nbepBgm8MgvnyIyyGCEXA/9vtAFniS0z4s8vqedSls7kDI6KbFzYNEFpHkJQFNZJYRyljBQiDEaq5AGGoLGD4zSkXE0v/4ZkBZLMcBcnvg2HQVkPpzn3EN8AxaiOUMgdQBuq2Dek5kYoXY/ss+adsnAW7jgzzPMjTFzSDZEyAoLR/jvVCv9aivVma3G44BsWx6YXHKwmc9jBc6E2Hw9F0wqUYbUN2WdDNhbiC6Mbm/nYYkc/Jhdl9+4dniLBPAJ7o19L3lTs0iHywhDWQoR/w80wujghm5abuyXO7u6SfVnZLQm9CXrE2KznjlZDvaT/S9aJUp8k/naSReViXMSvVk9ARJSB5UjaD3BB8cvsQopaTddwub6IX5j61PNDj66B6BIq95lpKepznU2asJIpEUjvM8CfW6dxuSumVDA0VvTSwivrnDq3MBa+Sdo3zshXTCOlVuPIz/k4mCau6rMLtxLOd5U=;zpQVdzi6QaJl7wCyG4wv2w=="
 ---

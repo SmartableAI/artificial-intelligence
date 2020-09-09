@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Construction Market 2020 Strategic Assessment – Alice Technologies, Askporter, SAP, Coins Global, IBM"
-    excerpt: "The Artificial Intelligence in Construction Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain."
-    publishedDateTime: 2020-09-05T04:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2020-strategic-assessment-alice-technologies-askporter-sap-coins-global-ibm-2020-09-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "+E978kNW6ojPM+ceZSaLVfvP+heBVG4SeXLBd81aFegW+wfYqPwnDmX75WevxIXCb9tcL0pyfuqgMboNda3LJ84vqSrJNwilDXkddi5Fe7ffWaOAyTcQUQrfJUdyncKdlZUeWGfkEnrTfIO0ZDgyV6xxl5r9QKoskxMKzEjTSeXYNrqDax5KtZBQ84m2zf1prC3HGE6nHo8uaB0AqgstVk16dP4BEcxycCnMz1eQg9dfVXDkSQJbpoGf7FpzaQRJfsblmSPJx+77qovMhsT070IsoCjWkhTDG9q1AZUZYT7qCsgr6GoyquOtNl/BJHXvmWSbjS0TwHOZjU2NSaPEd8jR8cigVWFGO8uhGGkVneo=;rHypmL5NNuD7D28SXAG0lg=="
 ---
