@@ -43,38 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Maps uses DeepMind AI to predict your arrival time"
-    excerpt: "Google Maps is using AI machine learning models to predict whether the traffic along your route is heavy or light, an estimated travel time, and an estimated time of arrival (ETA)."
-    publishedDateTime: 2020-09-04T06:08:00Z
-    webUrl: "https://www.iol.co.za/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 74
-    images:
-      - url: "https://image-prod.iol.co.za/resize/3500x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/8de64d17-a6dd-516d-9248-68eb739d76c2&operation=CROP&offset=0x315&resize=3500x1969&webp=false"
-        width: 651
-        height: 366
-        isCached: true
-  - title: "This is how Google Maps uses DeepMind AI to predict your arrival time; read here"
-    excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
-    publishedDateTime: 2020-09-04T05:52:00Z
-    webUrl: "https://www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
-    ampWebUrl: "https://www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
-    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
-    type: article
-    provider:
-      name: orissapost.com
-      domain: orissapost.com
-    quality: 69
-    images:
-      - url: "https://www.orissapost.com/wp-content/uploads/2019/12/Maps.jpg"
-        width: 467
-        height: 313
-        isCached: true
   - title: "Google Maps using DeepMind AI to predict your arrival time"
     excerpt: "Google has partnered with DeepMind, an Alphabet AI research lab, to improve the accuracy of its traffic prediction capabilities. \"Our ETA predictions already have a very high accuracy bar – in ..."
     publishedDateTime: 2020-09-04T09:58:00Z

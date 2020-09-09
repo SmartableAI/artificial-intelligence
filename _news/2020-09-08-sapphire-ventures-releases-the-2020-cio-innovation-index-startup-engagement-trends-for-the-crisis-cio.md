@@ -2,26 +2,26 @@
 category: news
 title: "Sapphire Ventures Releases the 2020 CIO Innovation Index: Startup Engagement Trends for the Crisis CIO"
 excerpt: "Today, Sapphire Ventures, a leading venture capital firm that invests in innovative enterprise software companies and helps them become companies of consequence, released its second annual CIO Innovation Index: Startup Engagement Trends for the Crisis CIO."
-publishedDateTime: 2020-09-08T15:24:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sapphire-ventures-releases-the-2020-cio-innovation-index-startup-engagement-trends-for-the-crisis-cio-1029570415"
-webUrl: "https://markets.businessinsider.com/news/stocks/sapphire-ventures-releases-the-2020-cio-innovation-index-startup-engagement-trends-for-the-crisis-cio-1029570415"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/sapphire-ventures-releases-the-2020-cio-innovation-index-startup-engagement-trends-for-the-crisis-cio-1029570415"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sapphire-ventures-releases-the-2020-cio-innovation-index-startup-engagement-trends-for-the-crisis-cio-1029570415"
+publishedDateTime: 2020-09-08T15:00:00Z
+originalUrl: "https://apnews.com/PR Newswire/bb1fae038fa9e6ffbe444607b7a192bd"
+webUrl: "https://apnews.com/PR Newswire/bb1fae038fa9e6ffbe444607b7a192bd"
 type: article
-quality: 36
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Sapphire's 2020 CIO Innovation Index focuses on startup engagement amid COVID-19"
@@ -36,6 +36,6 @@ related:
       domain: techrepublic.com
     quality: 47
 
-secured: "TDHts5erNYSWatCuVriuc5bJO3kbTim60BZvDUb5EkeDG4NcUqi6RDL5H8/41EQuAwiyZeOUXjvjria7qXs9IL4Ez8TVGd5MWwFX3rg8+mOliEEvFjNAtxVf34GOLa9yO35VDb5MCzycS7gXWgG7cptUhaYXOhaPUQrPxopR5MjZZJdHQrqZsJHsCCs8IoTbVpyoeSnj09BBMdvB/7+xZ9QrazF57ahR1I/eLrxEJXNfiS5aqtZYOlLnUpxjR4RezoE0SOy9cqejmSjsYy0xS3UNxFqJrgCUFDAWq1Y23TrR2n5gaKGy+R0R+ZVv/zCNU55KqQlALO2ToRVRSIfSb3rYxNam+gb4jB94tEWA9Ts=;Kvg0UnplMhEXz1k32Y+Zkw=="
+secured: "YQalpHAkxp1iJcE0x6uFKBkRKXGfMvtfAmmTdFaszijKvmmFCEvIFtKgCuFzjbDnX7imxN0A1ryVgpy+HsWWTV3AG7HG82ej1d+wOLm2qmwCP1ESq1ZBWG1Fmcrjw32EoWwtzCR6lUrH7aLV2AGkRT/UINc5APH2geCJXgfB+Pvuw5gkjQZnv1g5hFwXvI8sgKuewguus+PGAEfD8Ziww2+chWURvC5wSw5xuvsQa+6F7oZKkCJLZtYgRB1Z4t8DJmh+AUXo33enrxU2VrxzJD9lvKzLOde82K4tJfPtmjfFd4+5eZ7DpCUNqtefG4mnI29p9DZzB+QoN/qxCXjhJ4utAvvH4JT/VeOyfNM2G4A=;6TA9peRQc/AOV7JljzHwXA=="
 ---
 

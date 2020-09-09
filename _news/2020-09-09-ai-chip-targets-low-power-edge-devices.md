@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-08T20:22:00Z
 originalUrl: "https://www.embedded.com/ai-chip-targets-low-power-edge-devices/"
 webUrl: "https://www.embedded.com/ai-chip-targets-low-power-edge-devices/"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI Hardware
 
 images:
   - url: "https://www.embedded.com/wp-content/uploads/2020/09/img20200908040356Kneron-s-Next-Gen-AI-SoC-Proce_1.jpg"
@@ -24,6 +25,6 @@ images:
     height: 427
     isCached: true
 
-secured: "rfXD0rst4Ngs6n1Tgwgtp+YJmblz9jnOrnikVhT2wpurQ8As/lrbbWQPQwWfxzS9868d83s4CYHKJAbMPTi1/cLzM9uyx0UEAg1S3EDWiabs/zCfKeDaZBtiAqlytwWWgcoynq+sBURtTwLzPAk1AxukcARHABSAWJA7EfhrTsfypLZq4bam8+7mc0DsctnYmQLgjdxkr/b9s8e4nkkO4mD2lQ4uhX83LqUXDYkQGzxktqZDp0uBNg5jly0up22WFlpunQE7zT7IWhG5zt1791YhrzhMaYsdO6zbwuteEgPO3UxwiWsRF78TK2Ql+5+L3w0ORVaZtou3QOKJ5xWwQjqYD3gANm3f7Kg4LE8RKwQ=;6WL7ptmhprr0DDX5xYwTtw=="
+secured: "Uxjy3Pj0f4ZJmIKt+/kXmCZ8Jl5jcL7SDReUVjt92Bn38p+87O+jUdIFQ1K44emGXaL7PqnE2bTg4oI7+7reEpXp7NccxedLgk9vBqz+z4ljBkO3bomgLe/5uBwT+hfd7BaFwUJzksFD1gTH5ygErG58/pykx/DeuOue9vcTFJxL9HUcxN1jWWEUzMx5aIUjfZ4mAKfMOWBbvlZVJkvMDOtpPHP3XfF8HRck2I/hoR9/FnrK/TMIH+mw9HjvxtKBnoaeHJ3CpI4nFK81jaHczjvuXYZYDDL9dn0nQ3kdnCI6u/UnFVRUa376Z9pQBMkS5PqJ99gqKvsBvZCRppmIzmjeDZzp57LS7YltvGETF0NA+B89gwBeHo0IEl15wl+/jlzCcgJvslTOGP4qijm/VK8XsEg39Qey9SSqgcmd8Cw84t3taKdkepRO7ExLdWo2FgQIZwkdlpKKiquzh/eMpzGw4NS1hwEPnx5nMtIR6WTvKDSfc+PuYcRnwDyX2QMHx5g/5FLXGgcVDcDhwWz6bXYb+e1AwXCpHbTHPLRCA8E=;2RWqe7Yvxay6tjFJdI/BQQ=="
 ---
 

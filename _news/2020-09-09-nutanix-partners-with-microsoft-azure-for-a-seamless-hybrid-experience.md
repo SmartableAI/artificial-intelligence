@@ -48,16 +48,14 @@ related:
         height: 630
         isCached: true
   - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
-    excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility."
-    publishedDateTime: 2020-09-08T17:53:00Z
-    webUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-    ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+    excerpt: "Microsoft Azure customers will be able to use their existing ... Executive Vice President, Cloud and AI, at Microsoft."
+    publishedDateTime: 2020-09-08T23:55:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200909/3623233.html"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
 
 secured: "dISaGcbve9yvND9wwCAnuizoqHIlmYUcM/bt0eds+F3Jji9qXEvE+/V9DRSElis7PucqH3NmoDhGG6YVgy2oWjRhcKwfR/Mxa+kzGGvI3HAaU1ZNhFlQgxxLVDVZ1+vNef6vLZdJt3PVRlBu1fpTBDfmS+P6lz/I8OrV+Cz5iChhHT4g1ERuHFi0lurOlE85LNfw9MMJoony6FpqVKGRHuCm2JgScJbdSsJ5iVYQSVh9ER4jn6uXoP/3xenrz54FcpjhjsnsYFPo/w3So5lXc/pwfVRinL8DJX2JH5T0jxEtKk7M44nvVx3Av5c81Dw/rPH03KglmeyFHGpx7OwQB+ZzzzwCERl5lDOz/hVgPUc=;ocfGD/1kzYv8or+MKaSAYA=="
 ---

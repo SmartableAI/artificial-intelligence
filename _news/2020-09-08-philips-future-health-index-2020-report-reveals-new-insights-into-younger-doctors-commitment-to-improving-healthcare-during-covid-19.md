@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Philips’ Future Health Index 2020 report reveals new insights into younger doctors’ commitment to improving healthcare during COVID-19"
-excerpt: "COVID-19, overtaking artificial intelligence (AI) (53%) 47% of younger doctors reported greater appreciation from patients; 44% experienced greater collaboration with colleagues across different skill sets Only 9% of younger doctors surveyed are more likely to leave medicine as a result of their experiences during COVID-19,"
+excerpt: "September 8, 2020-- 61% of younger doctors ranked telehealth as the digital health technology that would have most improved their experiences during COVID-19, overtaking artificia"
 publishedDateTime: 2020-09-08T08:00:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/1000416281/philips-future-health-index-2020-report-reveals-new-insights-into-younger-doctors-commitment-to-improving-healthcare-during-covid-19"
-webUrl: "https://www.morningstar.com/news/globe-newswire/1000416281/philips-future-health-index-2020-report-reveals-new-insights-into-younger-doctors-commitment-to-improving-healthcare-during-covid-19"
+originalUrl: "https://apnews.com/cc972b4e6f6c2e985110069921b9b756"
+webUrl: "https://apnews.com/cc972b4e6f6c2e985110069921b9b756"
 type: article
-quality: 0
-heat: 0
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "XNP9tK+SBD+7LzqIuSGsunX3R08T9E2Kqnu33GFnrbVrzeLvawdBGzbX31atk5tSUw9GP9ov10WIilhXgw+xXdyoB3Rv1r1ctfjeY3u4dCzjUlogF11hWXEG+gz6uwIQrtqifnxdE5ToIA9hdm+CDVDVGURgGoJr5vuZQzfTvsG8vzlNS0F3isuxK93GDTn7HDKo+52WltN0p7d4q/NdLvhA58pWZcY6SvNHUpH6hNy7VpLOnGS/X23trH1OlDNP4JWQh4rtV90C+Om0Fe02HW30Sa0fRqkQ/k/yNfMtfVuLYhmr9R78Y+UCvtCabHFt5cj5OGeBtO79jCqQP/Vm2+KZS2moIOvX2ShtEyd/guo=;SLDKYi23227HxHHhEQVTeg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "BNNfNckGlSq0hmSvOR4cr6XpdCfid/5NEZ5g9VBskcSbQrK4xMdBjaqx1V5Ufay4QDmkQybYIG2homX1Y9pcc1X6SOte0HApjRrz2AB21zjTVctxwrHddzM6835h7Li1q1AlF+iz/455KWlDzl2oAU1vZpjLHDZDWW69fUIJTRG95fJcc64JIc8pF8Ur5JvV3sWTDifrYIFCR/izX+hM6X/nsX3cEuHVpduvDgriE5r6NgMrbPFQm80puSsjKc8yb4AqcxIDALPW+h4RU7F+rQPbe0wD52BlYDaK4sNUs3dkd/VO03UvbIu2dcMNUV021qEVN7/ok9Xw5g/4xIJ9kWVcZ2UaxhbUbHLMHl+9P2s=;HAak/vq0F7Ctoj75XwBnPg=="
 ---
 

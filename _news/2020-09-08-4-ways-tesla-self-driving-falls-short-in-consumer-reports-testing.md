@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-se
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f56d5d3392f374c800bd48f%2F0x0.jpg%3FcropX1%3D393%26cropX2%3D8021%26cropY1%3D958%26cropY2%3D4534"
         width: 1200
         height: 563
-        isCached: true
-  - title: "A new NHTSA tool will show you where self-driving cars are in testing"
-    excerpt: "You can now see ongoing driverless testing programs across the US, thanks to a new tool from the National Highway Traffic Safety Administration (NHTSA). The agency has launched the public-facing platform as part of its Automated Vehicle Transparency and Engagement for Safe Testing Initiative,"
-    publishedDateTime: 2020-09-04T05:49:00Z
-    webUrl: "https://www.engadget.com/nhtsa-tool-selfdriving-testing-053546596.html"
-    ampWebUrl: "https://www.engadget.com/amp/nhtsa-tool-selfdriving-testing-053546596.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nhtsa-tool-selfdriving-testing-053546596.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fb9984ac0-ee63-11ea-aefb-1134a8e15673&client=amp-blogside-v2&signature=eda3d9ab26329a0b8c9a76562e4c0b08cd3df60d"
-        width: 600
-        height: 350
         isCached: true
   - title: "Daimler Trucks tests self-driving vehicles in US Southwest"
     excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."

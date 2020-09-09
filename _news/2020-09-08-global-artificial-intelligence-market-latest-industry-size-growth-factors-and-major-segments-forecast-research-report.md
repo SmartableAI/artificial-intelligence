@@ -54,20 +54,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 28
-  - title: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2026"
-    excerpt: "Global Artificial Intelligence in the Medical Imaging Market 2020 Segmentation Demand Growth Trend Opportunity and Forecast to 2026"
-    publishedDateTime: 2020-09-04T06:29:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266296215/global-artificial-intelligence-in-the-medical-imaging-market-2020-segmentation-demand-growth-trend-opportunity-and-forecast-to-2026"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 7
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1599177222136.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "NdJbFakz8fE9htamD9l/KZc7Ceb6uw9AHr2dcrn/67hMWB7xQ8xuv2EF4QEXN3BpIW29zMaU66PXzS3ZpR8Ngj6w72RVlllSQWn3X/4Mv6Ft8PHrhpReE5f06IKSkIF3xVm20nkticgmQpGHYb5cOjZfmS1sUkK0hU7Gy2jXuGOkivvgHSeJuLb0ca2xnjcVtMNANYaoQLBj1HFttge9ePlaK7pjfFi8c/Y/8tBp4oObc601sPdjscZIC2WUKirRD5kzXoUOGFJQxFQX8KD9FoiR2R/zD/nywutG6Z6FtMiUGS+d9au0nfmPnO1dLmTMlQc1gNHKA6VBfrQMWiFZJykn7VU0xfpiiyJQ68/uFgw=;xv/2WpT06YKvv0ZdC3YBSA=="
 ---

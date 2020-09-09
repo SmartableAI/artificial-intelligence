@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Maps uses DeepMind AI to predict your arrival time"
-    excerpt: "Google Maps is using AI machine learning models to predict whether the traffic along your route is heavy or light, an estimated travel time, and an estimated time of arrival (ETA)."
-    publishedDateTime: 2020-09-04T06:08:00Z
-    webUrl: "https://www.iol.co.za/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/mobile/google-maps-uses-deepmind-ai-to-predict-your-arrival-time-ea891720-cc3d-4892-9666-24aabb950f60"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 74
-    images:
-      - url: "https://image-prod.iol.co.za/resize/3500x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/8de64d17-a6dd-516d-9248-68eb739d76c2&operation=CROP&offset=0x315&resize=3500x1969&webp=false"
-        width: 651
-        height: 366
-        isCached: true
   - title: "Google Maps uses DeepMind's AI to come up with your ETA: Know details"
     excerpt: "By partnering with DeepMind, Google has been able to cut the percentage of inaccurate ETAs even further by using an ML architecture known as Graph Neural Networks."
     publishedDateTime: 2020-09-04T12:04:00Z
@@ -69,23 +53,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This is how Google Maps uses DeepMind AI to predict your arrival time; read here"
-    excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
-    publishedDateTime: 2020-09-04T05:52:00Z
-    webUrl: "https://www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
-    ampWebUrl: "https://www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
-    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/this-is-how-google-maps-uses-deepmind-ai-to-predict-your-arrival-time-read-here/"
-    type: article
-    provider:
-      name: orissapost.com
-      domain: orissapost.com
-    quality: 69
-    images:
-      - url: "https://www.orissapost.com/wp-content/uploads/2019/12/Maps.jpg"
-        width: 467
-        height: 313
-        isCached: true
 
-secured: "+WdKFyMJtK96zu4gf0Xr9GvacxmgxvvwrU8iOkAnJpNE7Tv1+1UtA/zJqJXOGtJpX65yhG8sUsBW+dDwozYYD5ElSnPQXIVGCAKYSRF64RUkNHOyIY/sxT3Ulzjf3H02d0ApV+e0ljMdhM5shp7HpofrT5hOEBxyTRzVlms0U6XBCOxj9jPIod3Zx7PX71usV+y614RD8WOJXKuPNBe+gt9ywox6YRSyNziCL2pPg9VtYhly3OohvMBClxqaxbEufKeUQf5v4XXeFu07uDD9uGDcFSlgxL4EZPJgBaxLz1iMhvK0ZxtP7QzTPk28oRb6aqXI+8+7rOeRs9gH6/bwMwsCYfljX2rPeQYRhYh/VOQ=;hw5VnnZH3q0ABm/P2VbPNw=="
+secured: "AlFRWV7YyeA6QSLNvSGgN5WSLV3U0hUMqL1qKF0xbAgu742iPebwvr9mBIb2sUDOfwWiwBdoKCGs9MP5co20P6wHFf7MDEN7tAS2K4AsW5yrBBxo09sH4/udrvvK0s+to7UKlGUiNa4rkd8/Md4xufkv/2yUuQ+uR5Rnm7c9ikve8vHUwq9i0C4B4Kir0wurA7QHcBqHQHNYG97NiL3qmGaVFREeyv8vfL3hyJceCJHhHm/5mZWte0rwvXDljRcRV3IGPuwiFP2T4d8JEKCOKjoGQJzlhezd97qvk2CBtJinxhIGHoxgz3x/nVlWu4daWplFweTWUejuOvFgzjGEac0roDlfxspMW91NSf5AzA8=;74CBrEuVkC6avs6LNdedXQ=="
 ---
 

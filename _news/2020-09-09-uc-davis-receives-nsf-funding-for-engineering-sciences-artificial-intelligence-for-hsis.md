@@ -26,12 +26,12 @@ images:
 related:
   - title: "UAlbany harnessing artificial intelligence for winter storm forecasts"
     excerpt: "UAlbany's Atmospheric Sciences Research Center just received a $2.4 million, five year National Science Foundation grant to explore and develop ways that AI can better track and predict winter storms."
-    publishedDateTime: 2020-09-08T16:00:00Z
-    webUrl: "https://www.chron.com/news/article/UAlbany-researchers-harnessing-Artificial-15541157.php"
+    publishedDateTime: 2020-09-08T11:00:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/UAlbany-researchers-harnessing-Artificial-15541157.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: My San Antonio
+      domain: mysanantonio.com
     quality: 37
     images:
       - url: "https://s.hdnux.com/photos/01/11/20/60/19205142/3/rawImage.jpg"
