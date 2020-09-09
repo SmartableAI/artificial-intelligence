@@ -28,7 +28,7 @@ related:
   - title: "Can artificial intelligence create a decent dinner?"
     excerpt: "However, I’m trying out Plant Jammer, an app that promises to rustle up a recipe based on whatever food you have lying around, using artificial intelligence. It searches three million recipes to find often-paired items."
     publishedDateTime: 2020-09-07T23:55:00Z
-    webUrl: "https://www.bbc.com/news/business-53794472?User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F83.0.4103.116+Safari%2F537.36"
+    webUrl: "https://www.bbc.com/news/business-53794472"
     ampWebUrl: "https://www.bbc.com/news/amp/business-53794472"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53794472"
     type: article

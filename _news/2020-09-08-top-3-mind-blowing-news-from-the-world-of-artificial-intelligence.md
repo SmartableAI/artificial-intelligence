@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/09/ab17402382/top-3-mind-blow
 ampWebUrl: "https://amp.benzinga.com/amp/content/17402382"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17402382"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.getnews.info/uploads/fbd4ca8787a85f51ffca3cd403bc093e.jpg"

@@ -8,7 +8,7 @@ webUrl: "https://www.itproportal.com/features/five-ways-artificial-intelligence-
 ampWebUrl: "https://www.itproportal.com/amp/features/five-ways-artificial-intelligence-is-transforming-finance/"
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/five-ways-artificial-intelligence-is-transforming-finance/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/a4prDj5rZ6naQgnnRVKU3K-1200-80.jpg"

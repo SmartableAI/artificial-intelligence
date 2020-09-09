@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI over Edge Computing Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
-    excerpt: "MarketsandResearch.biz has introduced a new report titled Global AI over Edge Computing Market 2020 by Company, Type and Application, Forecast to 2025 that offers an all-encompassing analysis of recent and upcoming states of this industry,"
-    publishedDateTime: 2020-09-06T19:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2020-09-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Insurance Market 2020 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2025"
     excerpt: "The new research report entitled, Global Artificial Intelligence (AI) in Insurance Market 2020 by Company, Type"
     publishedDateTime: 2020-09-07T20:06:00Z

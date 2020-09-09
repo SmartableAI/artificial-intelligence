@@ -12,7 +12,6 @@ provider:
   domain: businesswire.com
 
 topics:
-  - TensorFlow
   - Google AI
   - AI
 
@@ -22,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "cZ0BSxz430E6U/H/Uc3d7yCR5j75YMvwKwAGXPmtptKn/ByimYtYUnaEVTXlHE1C9/yFhfTZcbEnqkA7OFziGa+dDG0TmDxOTbj1Zi9iP+/LBN1huecoWswzt9bNgw94GB4+usUlE6d53lo0q1RM2zRh1jEhTavVtBVJjSt45Ni61ofEVkpF2fEpOZYr6PRwApIiIrq27dFIXKUaHXqwEVJzNqK8B+/9xDQY02yCVumW2HsYjhkGkCZPGQH8iKtg7Pz+nZqzzGAu95aYsoWpyHLkS9sooNJpv3HO1eGclARHXUpVaGyANyTYUN55Mptrz/MvGPz8t8IZTIHB63ZfwtKJfIoPM27DBVJd5R7LanQ=;SWwwjrbAWr9/HR5Me9t3qg=="
+secured: "u+2CO/PINLCeViXtATd4/dZgGjig930VUPV6Bzvq2717SX3QpakxpI9u8Ni17xJLENu/VRQ1/n3sUBJQctEqwtSrJSmB9IgRC/eDoTDBNI5sSYmbAR8ftUekdd8L3MxHWJ0Xs4SCIS2xAuZUsm/O2uK6FLFK8+aPBexkuUIQopik7kBGSA6x0sASNnEJrCTFRdQhd0lljXNw2Tk/3IOystEewfKBWh3zXF4xg+iUJ4qWLIdEJE+9bBiQ2T3q6qAvSao7AJn030HDM7Ml7NKAw8ph1cEAK7cFRLycOlvGZAiMNYk45PoVYfngY1LA0ZHeTiTAaATqMfWlwxvQD3gUHHppsXOBYE5jrvTsJ3zheOE=;QWFypYZdBRFrYsKGre4uSQ=="
 ---
 

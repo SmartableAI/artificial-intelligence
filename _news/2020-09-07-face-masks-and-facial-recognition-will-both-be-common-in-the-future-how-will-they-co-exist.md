@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trueface Provides Biometric Facial Recognition for GigNet’s Digital Community in Mexico"
-    excerpt: "GigNet is providing the digital infrastructure for a new “Digital Community” in Mexico, including facial recognition from Trueface"
-    publishedDateTime: 2020-09-08T21:34:00Z
-    webUrl: "https://findbiometrics.com/trueface-provides-biometric-facial-recognition-gignet-digital-community-mexico-090806/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 31
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/62157982_thumbnail3-e1436371820805.jpg"
-        width: 551
-        height: 585
-        isCached: true
   - title: "Face masks and facial recognition will both be the norm in the future: But how will they co-exist?"
     excerpt: "As experts forecast a future with more pandemics, it’s likely mask-wearing will become the norm. So how will facial recognition tech adapt?"
     publishedDateTime: 2020-09-07T01:15:00Z

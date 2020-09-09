@@ -22,6 +22,7 @@ topics:
   - AI in Robotics
   - AI
   - Computer Vision
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -20,19 +20,49 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Oil and Gas Market 2020 Is Booming Globally | Top Key Players : Google, Inbenta, Royal Dutch Shell, Cisco(NASDAQ: CSCO)"
-    excerpt: "The Artificial Intelligence in Oil and Gas Market report is a compilation of first-hand information, qualitative"
-    publishedDateTime: 2020-09-08T10:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-2020-is-booming-globally-top-key-players-google-inbenta-royal-dutch-shell-cisconasdaq-csco-2020-09-08"
+  - title: "Global Artificial Intelligence (AI) in Drug Discovery Market"
+    excerpt: "The large Artificial intelligence AI in drug discovery market report contains wide ranging and comprehensive market insights which are based on business intelligence A strong research methodology used in this marketing report comprises of data models that include market overview"
+    publishedDateTime: 2020-09-08T11:12:00Z
+    webUrl: "https://www.openpr.com/news/2130111/global-artificial-intelligence-ai-in-drug-discovery-market"
+    ampWebUrl: "https://www.openpr.com/amp/2130111/global-artificial-intelligence-ai-in-drug-discovery-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2130111/global-artificial-intelligence-ai-in-drug-discovery-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/T/9/T908728673_g.jpg"
+        width: 800
+        height: 480
+        isCached: true
+  - title: "Global AI over Edge Computing Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
+    excerpt: "MarketsandResearch.biz has introduced a new report titled Global AI over Edge Computing Market 2020 by Company, Type and Application, Forecast to 2025 that offers an all-encompassing analysis of recent and upcoming states of this industry,"
+    publishedDateTime: 2020-09-06T19:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2020-09-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 29
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI in Computer Vision Market Research Report by Component, by Vertical - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "This research report categorizes the AI in Computer Vision to forecast the revenues and analyze the trends in each of the following sub-markets: Based on Component, the AI in Computer Vision Market studied across Hardware and Software."
+    publishedDateTime: 2020-09-08T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ai-in-computer-vision-market-research-report-by-component-by-vertical---global-forecast-to-2025---cumulative-impact-of-covid-19-301125367.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "GAGyQ/+wS58x5A3ECDNTif0m12qqAGzHTjuK7Wmr6FLUjG/+9huB+WtSzgUePUONiJmu57j3F6TfF+ERsDXXj7YA0/Zw+z/qdUCMnDMTgiekLfcRKgPliymMoETqRkZHzqs63awD3UifhbMty68sqwHJeLJ4as96GV5EKTJk/UawcJF8h51eaLA0QUcG0TVxx4qQGUnBFfX7rjEPNMZ61uwNfutAfLC9AFXy9xTt1JuL3DlLvwiCLk24oynFu6lv24k1aS0s/9Irr9Ebv706faxu6dDqbhxCQZTxc3rlAG45IGa6iHK/98Sr+CNmMojvMttVpgoDAeDtVYLLnolilbq1sG/Id9u1hw4jeNpE5c0=;mNSgCWZdD93sQexuhTSyNg=="

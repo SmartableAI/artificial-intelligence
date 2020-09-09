@@ -41,20 +41,6 @@ related:
         width: 320
         height: 267
         isCached: true
-  - title: "Trueface Provides Biometric Facial Recognition for GigNet’s Digital Community in Mexico"
-    excerpt: "GigNet is providing the digital infrastructure for a new “Digital Community” in Mexico, including facial recognition from Trueface"
-    publishedDateTime: 2020-09-08T21:34:00Z
-    webUrl: "https://findbiometrics.com/trueface-provides-biometric-facial-recognition-gignet-digital-community-mexico-090806/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 31
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/62157982_thumbnail3-e1436371820805.jpg"
-        width: 551
-        height: 585
-        isCached: true
 
 secured: "EW4RnBM9yxZ2b/MYOMRTpvwg1VbMLF2ktW+Bf4KKT4Xm8kJUVYmRqU3bLELzo8eNr7DV2cSo/WT8rZJpTJKWgsc4ov1bgPraV5T6ZnMWKAOW6DxRjmRkn4xfiF1Yfgfpe0ASgTJmHYfBp8AOAjQ8Fzzf01xVZJjSfcGMXyJrQF3KkNdcgj96RWL30Gw3gz9+xKR9JWsiaH5h5hHFkoZS87jUSpeHjOhjQr9UZzb5DmcgQa9Q3I7N7Ohhmn8XjlaPNMYelgOJ/b3u0pUBy77nYE3TYNr5Qh/pivbFnJhwywtK0Chop3gxcmwaaK84o/c3yeGX5fwitsPunEK9fmYmN+1TsG+Z72AEBXFE+oQsscYA0UceegGxIvxDtPbrTgqQbgbzk2qRyYtk/eJEiWVlB288fLNU3jSB4un7Eu+nm4tiOj0WoKnl9SfcRkO6hVwnprjLqRocjB6eIWJC19pnOjlynt5j/ECO9tPlH4wfPbam/T8XuHU8D8mSyFL5XLRbSGNHTAOsrYGqHdZOm5pmvg==;ptJ9pUMWrXKpaZzhnHvekw=="
 ---

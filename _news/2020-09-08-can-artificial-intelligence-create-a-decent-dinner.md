@@ -3,8 +3,8 @@ category: news
 title: "Can artificial intelligence create a decent dinner?"
 excerpt: "However, I’m trying out Plant Jammer, an app that promises to rustle up a recipe based on whatever food you have lying around, using artificial intelligence. It searches three million recipes to find often-paired items."
 publishedDateTime: 2020-09-07T23:55:00Z
-originalUrl: "https://www.bbc.com/news/business-53794472?User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F83.0.4103.116+Safari%2F537.36"
-webUrl: "https://www.bbc.com/news/business-53794472?User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F83.0.4103.116+Safari%2F537.36"
+originalUrl: "https://www.bbc.com/news/business-53794472"
+webUrl: "https://www.bbc.com/news/business-53794472"
 ampWebUrl: "https://www.bbc.com/news/amp/business-53794472"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53794472"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 630
         isCached: true
 
-secured: "KV50zTRzro7nO+jHteZ6plygwWRbuxEwkCQdHtPr+H41ePDt8L+tnjGVA7GmnKEfCzX13I1KoeIotZSnvlGwrWAjU8JNsJSWLrYcexrmJ5N8Fxfn+R9s4D/x5b/Z8oecgUcoUxiJvApBnXS1Vo26sS7DYb0WdQB20g48dSLD8cl/tE7v9FaTRntOQgtom8ojppAHb0PTR4W9CKvn0iDF1jb+ct6cWPn11zAcwkLyjRg3raDhN2CMcGQOCifW9bhRGa5e3tOwm2o3d4IRMWF+LKFV583BgPBq4OYyeZ38pvWqjDKSH8nCou0R6LfaVdL0nffdJ9JhDHs7ysf4BGJf7MIEmzarWGjfADb7LUu40q8=;JIiVfj5G7fApmib8PPlFjg=="
+secured: "nVU7tlVmH6nY/w7LY89w45JWiAxF00Fp21ZJde3lB/eUSl5vEzULb/0EBwMQ3YhoGCtkB+wFIUGUcbp2Mgq1iX1Ug1AKAZ/4tB0zzF+0OoUouiqY6KVdzvExwsHr0p59yxMgSiXDskdia/9m7J18umiLVvDgUvWxSNLRbYsZMYumAM7DqSEcUUhCDMBnnWug0Sx+3FZ0pxrFnRT0ChBXYiqWT/xNyq9RVFb+CJemEZrqkoyInto9x1c5aWrGh/L/bnRsGX+ejGp3v5pal+XecmMi/Siy0Erk37SyOGAWvHxzeIz4Ty2UvstWg03eXn76GRZhyfF4KwWyp6FrRJNpqkkrtauq/7WzvC/4fhclF2c=;quRVOhF8huj/nE+tQEThVg=="
 ---
 

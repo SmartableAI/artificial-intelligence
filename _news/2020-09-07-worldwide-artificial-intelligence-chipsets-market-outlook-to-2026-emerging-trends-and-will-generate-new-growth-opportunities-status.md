@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Natural Language Processing Market Share, Industry Size, Leading Companies Outlook, Upcoming Challenges and Opportunities till 2026"
+    excerpt: "The global “Natural Language Processing Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2020-09-09T14:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-market-share-industry-size-leading-companies-outlook-upcoming-challenges-and-opportunities-till-2026-2020-09-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Image Recognition Market Growth Opportunities, Industry Challenges, Size, Future Trends and Demand Analysis by 2026"
     excerpt: "The global image recognition market is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2020-09-08T11:24:00Z

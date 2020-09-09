@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-09T07:41:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/the-core-algorithm-of-google-and-wimi-helps-the-development-of-hologram-ai-vision-1029572277"
 webUrl: "https://markets.businessinsider.com/news/stocks/the-core-algorithm-of-google-and-wimi-helps-the-development-of-hologram-ai-vision-1029572277"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 related:
   - title: "Computer Vision Market 2020-2023:Size, Share, Top Companies, Emerging Global Trends, Development, Future Growth, Revenue, Demand Forecast"

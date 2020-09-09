@@ -3,8 +3,8 @@ category: news
 title: "Computer chips that can read our brains have moved from sci-fi to reality, for better and worse"
 excerpt: "The near-term applications will mostly benefit society, but the danger of a dystopian future is becoming more real, too."
 publishedDateTime: 2020-09-09T08:32:00Z
-originalUrl: "https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575"
-webUrl: "https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575"
+originalUrl: "https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575?cid=sm_npd_nn_tw_ma"
+webUrl: "https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575?cid=sm_npd_nn_tw_ma"
 ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1239575"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1239575"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 1682
     isCached: true
 
-secured: "w7PDFjug7GTu2LfdL7UNrCDEmNH1YeUTYZJtpz+1TDd/FM/ORORoEmw/EW6s/18Nk0L0JIfAmMfggRAQpy3FwQxs6j+eGAAktxQvcCDDFwfHeuahjxLxIvY+9D4tm8MAnQaHqr0AO3B98UdWsdRTDleOedTs1IrZyiTQczaX0qQdKWnWP53pC9leD18jRh2EybPWoEQulSCAMzbPi/4PIHSdHy45IzGSHYCxRA3H0ZBDwbofTNJh3G0cvy/y0lM4Av3UiR35Y91W1mAxxZx4u35228RKzAStj9Hu0RZN2SFMZ+Ea6iwhHjyRCcB8/fXAAn1CbWOECOG5Mw4a1usoiCmdKbcUTWEKgsBxsKeNU8+TicLo+UdUJ2b2s+GmlJlkSPFO4kJgx33fOxbUvxbi23Em+gBkG6BvkMv0C1eyP/+3hysTEFBdCJjVvLRaU23obivkzpLWyrRwZgRTX4N/3MMhoHes6OJO8R6BEUDt1LAqei0EwOl+EomBztIUqnBbNq6G4JyXtLsZkyhT26V5hbiOwQlY/fhYXEXS3X2Gzv4=;ujYSt1GWzszilAZ9h7maxg=="
+secured: "D0MIp0ySYgegXSz5BKvb7pQfya0P0QNUeUROgaKf7TPlg4eQbFcSBFCzvWxV/7M6S1P8NQGpUkeSPj8rUtMe6Tk4tdBoasvwNiDN/utL5BI3P3mc4eNxKxv7K9mcBCWSttgnoPT0D4abPJe+y85HOWTEwfIodK/kjr5dS0ekUHdlRPqCk1ogiHaCEfCS/qlhz1DoTXadcolV7cFnI+ptLc4aOdhPptI0D0WYSgVSJ3kZFouLGo9JMIkSwFfU+IA+RMx+YB1GSP7owrcuMJ9YrK1mTkInyI4gf0rEbie3b+qF3APbnfcS0v+vD0WmaOlAHCGREpPK97lBtOkuX/yy+mDJv0XsbhZIRXljOGuFHKU=;AqxKu2iWBED1M2AIYc4zNA=="
 ---
 

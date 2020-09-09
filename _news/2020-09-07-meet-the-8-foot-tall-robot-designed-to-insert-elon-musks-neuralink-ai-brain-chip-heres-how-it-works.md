@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/neuralink-and-woke-studios-ai-chip-impl
 ampWebUrl: "https://www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9"
 type: article
-quality: 105
-heat: 105
+quality: 107
+heat: 107
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI in Robotics
   - AI
   - AI Hardware
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/5f529d817ed0ee001e25da6c?width=1200&format=jpeg"

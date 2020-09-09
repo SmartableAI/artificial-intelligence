@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://eurekalert.org/multimedia/pub/web/241709_web.jpg"

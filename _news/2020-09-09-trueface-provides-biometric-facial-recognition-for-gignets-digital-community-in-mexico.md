@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Face masks and facial recognition will both be common in the future. How will they co-exist?"
-    excerpt: "With face masks now compulsory or recommended in various parts of the country, how are facial recognition systems functioning?"
-    publishedDateTime: 2020-09-06T20:13:00Z
-    webUrl: "https://theconversation.com/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417"
-    ampWebUrl: "https://theconversation.com/amp/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417"
+  - title: "Facial recognition tech designed to identify African faces wins engineering award"
+    excerpt: "Racial bias is a well-documented problem in facial recognition technology. But as Charlette N'Guessan shows, it doesn't have to be."
+    publishedDateTime: 2020-09-09T14:22:00Z
+    webUrl: "https://www.cnet.com/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 48
+      name: CNET
+      domain: cnet.com
+    quality: 84
     images:
-      - url: "https://images.theconversation.com/files/353221/original/file-20200817-24-10qf4oa.png?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=267&fit=crop"
-        width: 320
-        height: 267
+      - url: "https://cnet1.cbsistatic.com/img/WxKBvT_4_qpHIQ5vo0oh6izJhgQ=/1200x630/2020/09/09/152d4276-ed4f-403a-be66-aae1df569c9e/ap2019-charlette-jo-13a.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Face masks and facial recognition will both be the norm in the future: But how will they co-exist?"
-    excerpt: "As experts forecast a future with more pandemics, it’s likely mask-wearing will become the norm. So how will facial recognition tech adapt?"
-    publishedDateTime: 2020-09-07T01:15:00Z
-    webUrl: "https://www.smartcompany.com.au/startupsmart/analysis/face-masks-facial-recognition-co-exist/"
+  - title: "Women in Identity, Biometrics Institute, and NIST each to host online events on facial recognition"
+    excerpt: "Three upcoming biometrics events have been announced involving National Institute of Standards and Technology (NIST) experts on facial recognition. Women in Identity, the Biometrics Institute, and"
+    publishedDateTime: 2020-09-07T20:59:00Z
+    webUrl: "https://www.biometricupdate.com/202009/women-in-identity-biometrics-institute-and-nist-each-to-host-online-events-on-facial-recognition"
     type: article
     provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 25
     images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2020/09/Woman-wearing-face-mask.jpg"
-        width: 733
-        height: 358
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/30120947/zoom-meeting.jpg"
+        width: 1000
+        height: 750
         isCached: true
 
 secured: "t3t7PFYqdewGK6GkIFdcDM3Jeq1tmFd+ayzdF/mPH862spcjcPLAgzHoLw+g5BWvC1y6PUcHrbHBb5ScgC9qEZklon20Uf47QV5NMv+sZXToVa3zuCzFa64bwmAzqz1iHnB5rnWGvpne8StTOc4xjYBIjC3bpjjY7tWB4Bv76YifnSNzVLlieGZB6uziS0exKMmzFi7Q9eb0Ym7Hp1I7XBnR8k8jHDrOrPqOdPwBDIhBQ6sfin03WSWEpzWXcnmqpZ29ELUZa7b0c2fMdF3KHCdwYFbWv9ihn7uh0gN0zzYew1zCiu539zo6T8zlLi8H2VBLZbjux4mHRWqXvFe3MuV382GV8bsMK80oO4Nc/3Xu7Y91O+Qv0CEdW0koJAtHXnnO1CqnezseIT7Kuv+JCzZ6M05RBmTuHkwYhM10X1xwFgyjWO6vt7eoBxGxXUPtfppuZvnprFCMZzuS6FSHxvGDGy0EGF1tWCGBULjDA2oaH1yLuzvf01796nVEeh2VvCnyVW5BGg41vY7qj0GHPcSGoCzPZ0B+wAesUfJSniM=;JGQpiNkFTpzTKLNZgqAgaw=="

@@ -33,7 +33,7 @@ related:
     provider:
       name: 11Alive
       domain: 11alive.com
-    quality: 102
+    quality: 119
   - title: "Dems Propose 5-Year Wait On Facial Recognition Technology"
     excerpt: "State legislators want a five-year moratorium on use of any system that would pair facial recognition or biometric surveillance systems on police body cameras. A.10913/S.6776 was introduced in the state Assembly and Senate recently by Assemblywoman Nathalia Fernandez,"
     publishedDateTime: 2020-09-07T05:31:00Z
@@ -47,34 +47,6 @@ related:
       - url: "http://d14e0irai0gcaa.cloudfront.net/www.post-journal.com/images/2016/10/31144144/fblike.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "TSA is testing facial recognition at security checkpoints"
-    excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
-    publishedDateTime: 2020-09-04T22:13:00Z
-    webUrl: "https://www.wdbj7.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
-    type: article
-    provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 39
-    images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "JC Decaux uses voice recognition technology in new R U OK? campaign"
-    excerpt: "JC Decaux has announced a new out of home campaign for not-for-profit organisation R U OK?, utilising voice recognition technology.The announcement:At a time when people around the world are experiencing mental health strain due to the global pandemic,"
-    publishedDateTime: 2020-09-07T22:56:00Z
-    webUrl: "https://mumbrella.com.au/jcdecaux-uses-voice-recognition-technology-in-new-r-u-ok-campaign-642041"
-    type: article
-    provider:
-      name: Mumbrella
-      domain: mumbrella.com.au
-    quality: 39
-    images:
-      - url: "https://mumbrella.com.au/wp-content/uploads/2020/09/JCD_-NSW_-George-Street_-RUOK__-1-scaled.jpg"
-        width: 2560
-        height: 1627
         isCached: true
   - title: "Council to consider banning Face Recognition Technologies"
     excerpt: "The City Council is scheduled to consider what may be the strongest bans on facial recognition technologies in the county on Wednesday. One ordinance would prohibit the acquisition and use of such technologies by city bureaus."
@@ -118,15 +90,6 @@ related:
         width: 824
         height: 479
         isCached: true
-  - title: "JCDecaux uses voice recognition technology in R U OK? campaign"
-    excerpt: "Outdoor specialist JCDecaux, in an industry first, is using an interactive JCDecaux panel that uses voice recognition to trigger both on-screen and verbal responses. Passers-by are prompted via a floor decal placed in front of the panel as well as an on-screen call to action to ask: “R U OK?"
-    publishedDateTime: 2020-09-06T23:43:00Z
-    webUrl: "https://www.adnews.com.au/news/jcdecaux-uses-voice-recognition-technology-in-r-u-ok-campaign"
-    type: article
-    provider:
-      name: AdNews
-      domain: adnews.com.au
-    quality: 19
 
 secured: "bMKDEN8s6QdTFX6nuDMlvCkZsYUb28/H2W+S+5UOpxjbyv9ZY1SmhgrmWhajJ7XrEakphqknmnXz/JMJcY7mHlCpKvcxkEkPfOjXFzCkWcFMEIQVuPboaVH5UY27CtPcpxcqVxVlgpdXjv01gNIDxsQYX03V7lJlRp+KxDeo+s9NzhskP8MyazwhNZO7ve8oe3xNkhMJLAsDTmcp1YEX37Wne4qtfHE7Vw951pmgdO2/FlqJf56whRLIxn99WGA8Yuuwfws6e6loswj3C1v/dpSMNFpr+eQUEjVori+KrvAYBXe6jkwdXYKFvRtYO9bFWEoesUUCpOn3aHyCR+p1Oc6SAWzDm39QJ0tLV2dJl20=;qyjow/PATm6FyDcEdw9C+w=="
 ---

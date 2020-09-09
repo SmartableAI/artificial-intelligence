@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Artificial-Intelligence-3.jpg"
@@ -23,6 +24,6 @@ images:
     height: 841
     isCached: true
 
-secured: "CuW0hH/pxBpgcL0WWH8dQ1YuOjh4L/flpGI3qXBuilDN9w3oXlTKECoxBEMJxuB+x9nn492hmiivXaZNoph7NaBkdDxVRKPTAo41uWMXaMbUan8aWlubEkqHu8rQmklkP1Jm7egT7G6oKESVA2VyHP0RXJkZ4zvy2EijAf/zwbbZgPHiTBYCxQ5mzt78yKunXmePeg0GMaU+32uCntni66poTrei8MQ8sRmFwrWQXXOIXRG6gJi3YXutWro0DQqrggA9oI1FI1YMBCgV6WRs5wmvU21KtC7TY/9pjEGdlc1h/EMkMpP8HogBJMKS4pcxmP9yi9TrcfsugrCRurDe9vf18h97dBeyMKczg85rOrY=;huBaPK4v1tOEwQHhTzXZsQ=="
+secured: "HbqEnjtlWGjsXUfB+lMwkWYi9fvkWHRgTyG2cLOTOIRoGzSSqa2xLd97EB/sSYsH4BN9hrMoWOGjvi698AlficXmmns+Igmn41SIauXbGuVduHgEzrhWIfzFAAdQiSKTx5jxaBbzwwDrSN94pYJfcoeinx3K0kSpBTsRkH9NcGttam+KhgQJU/spZg0Q/9Amu66j8+Nkl1W9fUKKmrLegz9wEtlnSt2Cm9bNjNnfO9NvHKwI0uBixmGpQOBsar4323FrvTPBeYlbKYXk2h3DjYtYcFUf987CplAOwWQQh5xNS60LAgc+H7wy8Cy2HebJJwHV8xXnXVWo9emmzImiVJcCCJ2zaagOWBDAaeT88baY0TvKTN/uyK2cZbZ/ACNExL91pW6J+cXpmgPfVJ2HeNBlI76GlMg3sWS+v1ae9sMtWH/B1egqHWHoxJMh6B8p6BuJnt4ACbkeadJxfgj0T9fToNWHADCK5cudtHwHSKDgtmJfDkkcTGW1r1medM1RN1x/XU1W7kI++1kRWuNROD4imT/OtuMiK+a6WsvmoN4=;Syar0uC3yDpuNmM7OAbX0Q=="
 ---
 

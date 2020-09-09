@@ -1,25 +1,35 @@
 ---
 category: news
 title: "Is Ambarella an Underappreciated Artificial Intelligence Chip Stock?"
-excerpt: "Ambarella (NASDAQ: AMBA), which produces image processing SoCs (system on chips) and computer vision chips, isn't usually mentioned in conversations about artificial intelligence (AI) chips, which often revolve around bigger chipmakers like NVIDIA (NASDAQ: NVDA)."
-publishedDateTime: 2020-09-09T11:40:00Z
-originalUrl: "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09"
-webUrl: "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09"
-ampWebUrl: "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?amp"
+excerpt: "The image processing chipmaker is betting heavily on the AI market, but can it keep pace with its bigger competitors?"
+publishedDateTime: 2020-09-09T15:15:00Z
+originalUrl: "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/"
+webUrl: "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 104
+heat: 104
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
+  - AI Hardware
   - AI
 
-secured: "Ehv5gucMnfJD2CbV+FaruHUkSbC9L0iloHYUdZZExjMDEl11N63/l3DO8+u2XOHOFcyB4usYWO7QoildTgNMpWRHB0zIt0xdly1ZXRDF7eS3OojMROu9KToTFb5TtdbClGEDRyCqSpU82lAkROcUVpZHyPDfXNfEPa006xV/NvFX1o/R6Dru8q5sL7mOe+OoM15eAygN4QOYjQQx5HkGQzOUiSPupwA+rdtF6bCMk9OUZnrXOpDcCfJTk08QCy3JkaqjxGutPyM3vKxRFYgUSYXqr143P68jGiWvrh+kZpCDLO1H7k2t5mT89OS7R9zB+Iw2mqMdKz6pW+TJ1ubKApu84jHTfiSW/scA9sBCiRY=;NptaZ9tsjb00R3qa33P2qA=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F590824%2Fgettyimages-1145990155.jpg&w=1200&op=resize"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "6UAJe2H0rzQ+gxWOKAzu3sT5znNnYSrzB0uEZbI78TxbAN+AhquBAT9sW7UJXHJ+XK7aL1uIjvPjKIL1Ox6lcXMngoJulcDNZjPOmvODqhjTbQODA4WCkNy7SdL+RKFOqNvRcRfRjKN46+NegB4UfWOM8wPQfpIb/SBeooorF4QjJpN+yCR+0ArNrGBem2Z5us/hYlIQWhsdnpqDDFTHfKJ7DTxT9uIRlNIMA45ImLcVGiEt3knBhK7jMKLR5R6nk4ljQrG6LEjjON1orFBUrEuu5h288Vs8lQ3ang/1dCkQKqZ24YD15a38lYRLSipuDhHaQQ0VzK2VqeSNM61HFCt7t7pVxRKLIegZDbO/YvE=;mNFBHlbYED/nzTIow64j9w=="
 ---
 
