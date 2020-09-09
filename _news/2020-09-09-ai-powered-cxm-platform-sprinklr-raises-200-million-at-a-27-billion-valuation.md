@@ -1,0 +1,34 @@
+---
+category: news
+title: "AI-powered CXM platform Sprinklr raises $200 million at a $2.7 billion valuation"
+excerpt: "Sprinklr, an AI-powered customer experience management (CXM) platform, has raised $200 Million at $2.7 billion valuation from Hellman & Friedman."
+publishedDateTime: 2020-09-09T12:00:00Z
+originalUrl: "https://venturebeat.com/2020/09/09/ai-powered-cxm-platform-sprinklr-raises-200-million-at-a-2-7-billion-valuation/"
+webUrl: "https://venturebeat.com/2020/09/09/ai-powered-cxm-platform-sprinklr-raises-200-million-at-a-2-7-billion-valuation/"
+ampWebUrl: "https://venturebeat.com/2020/09/09/ai-powered-cxm-platform-sprinklr-raises-200-million-at-a-2-7-billion-valuation/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/ai-powered-cxm-platform-sprinklr-raises-200-million-at-a-2-7-billion-valuation/amp/"
+type: article
+quality: 82
+heat: 82
+published: true
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/09/SprinklrDashboard.png?w=1200&#038;strip=all"
+    width: 1200
+    height: 823
+    isCached: true
+
+secured: "uScsApDvpJiUotrIPCIy/SbAmfYIHUZJNVhkWGM7154IihLi2wP2ocnCO7EDqQQdrMeNbPUHG+tVUTMxH9hZrWwC7lAYzthhtHF3x721AvEN3iotawMt/t4tL3+C1aUasclRb0C1//rd/4xb7WD1jZCYPK2RAZ6Swn1uHXelJtLj3KQoVDIZBxRY2TrQOrUSyTIqDZtMm+aWBnBPxE59prKvPg85gNRqmZpb101QjdkT4NfxclWRDQTM1CnsRMQiTdefcjiF3hsMAR1Bb4FzxXH9URufu01kGIVvUUn999SQE7fqulmwpNkV4/0QQpTnJEMs1UVulePft358jcSfqBHecbveAciaT08JX+kSOns=;zzWoB+wyOIyK47QXNUMOcw=="
+---
+

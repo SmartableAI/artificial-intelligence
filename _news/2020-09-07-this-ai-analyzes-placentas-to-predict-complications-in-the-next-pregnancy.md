@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 796
     height: 417
     isCached: true
+
+related:
+  - title: "Machine Learning Can Predict Health Risks of Future Pregnancies"
+    excerpt: "A machine learning tool can examine women's placentas after they give birth and predict any health risks of future pregnancies."
+    publishedDateTime: 2020-09-09T13:32:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-can-predict-health-risks-of-future-pregnancies"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-671586040.jpg"
+        width: 590
+        height: 356
+        isCached: true
 
 secured: "+wGJI9n8p8vbNozjcf5/g/ZqbQ4s+o8DpG/t0F1At/KsXvR/LeFoVPkFuUXplGEXKcCu0IfShwG+9qtxQJxiHOa1kLl9ILakjesC0Q+SXRfRm9o1MHG4t+zh4U3WC17BtnWokA4VMYhm3HmlrCqApOECXV7saQyCIMgoiXzUXjovo16TtQsOqivxzL31Y3H4ujp4uVfng52vKHUDjB8jMLLV3HWomfzGxMtQkqNEZAsBd4azgK4F6OrI+Q7mD2XpCoNVTS5kaUrEpi7NZV9vXbc00yosyGx1oZz5TBaAZ60J3kRdqZ2dQsYpAJqF/rHWuX2sQDCakpoJJf5WyCsKE3utYWwGhkD5nW3XlHg7JaoohsVFCKU0dr2kV8ru6Mw8u0cu0Pwo9ja4DpmkvsTFtolevei/wfCBswuAEhpUM6yXnf5yXGPhSDSb+nPmBsDE3ObgTNwb/ODzCqxFfmC4qdoA1Ztuy3bwMStvy6MpzAT8Kd4i++2IV9Qj8+ucKONqlOlYJQnrBGuKRnar9nbQsxPVjIuqfRkocWOoFW6HVXw=;M+0SlBE0uMkP6a0V3U224w=="
 ---

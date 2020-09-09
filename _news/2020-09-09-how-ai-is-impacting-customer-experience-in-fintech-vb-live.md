@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experie
 ampWebUrl: "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/09/NLP.GettyImages-1199031078.jpg?w=1200&#038;strip=all"
@@ -30,6 +31,6 @@ images:
     height: 601
     isCached: true
 
-secured: "8996VH3NNTFES5ttNFVjIaJ6wdOTQRzjYJ4iXDh+Jdne+9m65BIU6LwcnBb/yMlSuRue4mw50xHOBs6OX2wNvhvk12c5/nwckzUJQcpoYmYVgXG/GzZH0mVSoTeYOasyuPXPY0RkhXXgWcN3tu5n762LXyo6xOTj5iYFNpMuhVqIuwQWCM+jLJBBg2xHhcESzkHsMS5+vZQeBuI+BJWeW2rAnBzyW3k7+2TIVaPoEQSgvPSAPrmjc3gu/mMvejIb614uLgAkO6v/WAieGVthW2kDLpglZPqyzQEGZA9kRzcIRKDtKP3jOU8mM/1D3OOtSV5WMp5jweeRLSSxfcvMq4URw78qC9E1tW2tUCL908s=;WLpbW3ZNnGvLRQVAM4WFGQ=="
+secured: "ppdJVwvrwDRJCJY9Vgdd4DFTEuJDi0+/SeocTLAhLZHbyTRc59YBOKM/YzJpUkZeCFMYzrUDdl0MmzFpSgL+BaUfAt0ioJEqslFGiIxVa9POhlqrjgboS1OhqGiP5iQdigVpJ0BrEWwBkwMesyXCvnAcvZGpK3bmT0j24vtt/qHZKjgocL9zAZ9DwMHTljzTTR36MOTivpOMRVRhMVu8hyAorVb65bjrixppJIBIawwRjRLqQmxx9lri/WroxYdsMkOvkoIP7VHbaS2gi7Fu8w2ESIpi3xIPKE6HA4hP/xBNK4pYpS5dFQiTTWff0zsh9LSTjhN7Amouez+714XfV+0vOa8s0tPl1eLzX25AbmRrBcypjjH7sSZC3qM/OC9WbwswDUkO+aX4YupEl9aNXxOzC/QrxvBUkNBI8Fi0S17rM7E0bDT+HY3NmLUvUGQHCYXtECp1jzZR38NYl16o+ZvU+RzzMmLwGRDUzr/mQui3aGopns4mqI6SNhSGO4reO39CosH3g4XAPDUMWP8UTFvyvXR1+m5mr8xSFbWAP74=;C6WEFwyXFGD5SUCSq9MJxw=="
 ---
 

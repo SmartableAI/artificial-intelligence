@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Computer Vision Market Research Report by Component, by Vertical - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-    excerpt: "This research report categorizes the AI in Computer Vision to forecast the revenues and analyze the trends in each of the following sub-markets: Based on Component, the AI in Computer Vision Market studied across Hardware and Software."
-    publishedDateTime: 2020-09-08T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ai-in-computer-vision-market-research-report-by-component-by-vertical---global-forecast-to-2025---cumulative-impact-of-covid-19-301125367.html"
+  - title: "Global Computer Vision in Healthcare Market: Industry Analysis and Forecast (2018-2026) – by Type, Application, End User, Region."
+    excerpt: "Global Computer Vision in Healthcare Market was valued US$ 200 Mn in 2017 and is expected to reach US$ 3450.3 Mn by 2026, at CAGR of 42.76% during forecast period. Growth of computer vision in healthcare market is driven by the increasing demand for computer vision systems in healthcare industry,"
+    publishedDateTime: 2020-09-05T02:44:00Z
+    webUrl: "https://galusaustralis.com/2020/09/952453/global-computer-vision-in-healthcare-market-industry-analysis-and-forecast-2018-2026-by-type-application-end-user-region/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/952453/global-computer-vision-in-healthcare-market-industry-analysis-and-forecast-2018-2026-by-type-application-end-user-region/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/952453/global-computer-vision-in-healthcare-market-industry-analysis-and-forecast-2018-2026-by-type-application-end-user-region/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 30
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.maximizemarketresearch.com/wp-content/uploads/2019/03/Global-Computer-Vision-in-Healthcare-Market-by-Region.png"
+        width: 729
+        height: 320
         isCached: true
 
 secured: "IOrJVsO0ohFzfoOUTIvqFb21qJ2Hutko1iRo2c8WX79ET3O1iTheOmJQ5oLRKBib8xR3/+RHz9SmR7CAuFwWjBSA8bYXn2UdWxIIdRosGnxK+xyKUHq7s/eJrUfGOPAC3C4JP456hP+/Amb+FlHmy7qwLoemXS1K8awoduryQH1aAOqjekqERwg0CZNF/QHSQuXF1rrTq/Z7LAKby9e0oAuF2aULEFSM/2bA3YkM7TE1Ic4l6Ntfw72OQX4wSbV2md8ZvZqKbAXcnedjeq05zVpXdyt8JZ9UKjSeTfmdQmlVYvomWNK759XIqtFcFEs4LkqAHlu6NKoh5vQAXBwXi1rKbuY64zDEGaBqHZ3UZms=;paK89CXScv3FYsxWWHED3A=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/exclusive-baidu-investors-in-talks-t
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-baidu-investors-in-talks-to-raise-%242-bln-for-biotech-startup-source-2020-09-09?amp"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -34,6 +34,15 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "Baidu eyeing $2B investment in biotech startup - Reuters"
+    excerpt: "Reuters sources say Baidu (NASDAQ:BIDU) is talking with investors to potentially raise up to $2B over three years for an AI-backed biotech startup.Baidu won't be the controlling stakeholder of the biotech,"
+    publishedDateTime: 2020-09-09T12:09:00Z
+    webUrl: "https://seekingalpha.com/news/3612425-baidu-eyeing-2b-investment-in-biotech-startup-reuters"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
 secured: "Jf3AA1HZmR1VQpu13hDG81DZrQxbY90j66WhFS2KYkqAVtplqbbrktt2M3Qqok1acl2SYDmX4ZTK0c5N5O+Llo0FxP3a7gJLfeB60uh+zJKXtlwMwGZxVfZmG+gR+sEEB/PGehYIeNtrUFCdea4nlwUBjJGZ6hO9wWqnvtjLSoRcZzMY/MPM0sQK/4M3vAg+6hsb2LtjkWcp4RyQkTMZBsrtN/Kdolec7NstvsE9EfyDPfuNdlUg0ukIs7KhIBe2QUnHeY43q/fTk8x5Z7blbr22cZjVDWQnHlvJwvg53maECcF8s+VC3icMEBxt/e0hBdFzvMd6W+ghlO/lTa1lWfpINVClIJNM4peX4xhxfiR+oXNOu/wGSy++fQBySWv0BYoEyd639oI67M9P7Hasz9+vb6wmE3QAKc3mO5oC07OCu0t1MTn14LZ2uwTAANHliC3N1/gAv3HqobPatIT15xi1uab6N0Jqverx4bZkt7GlyKdPMpLxwJ2cb6tKkPin89QSyeA3a1Pos9bl2wGagw==;NVZbnq37YNTWl8TL2sFTbQ=="
 ---

@@ -25,31 +25,108 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Development In Wasps Hints At A Mystery Of Human Evolution"
-    excerpt: "Scientists have long wondered how prehistoric humans quickly unstuck themselves from the Stone Age and rapidly became as intellectually and socially capable as modern humans. Recent discoveries about wasps and their cognitive abilities may hold a clue."
-    publishedDateTime: 2020-09-08T21:11:00Z
-    webUrl: "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/"
-    ampWebUrl: "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/"
+  - title: "Facial recognition technology for pets is launched in Atlanta"
+    excerpt: "In addition to Finding Rover, LifeLine has implemented a \"Lost & Found\" matchmaking program where they check pets reported as lost against those in shelters daily. A new Lost2Foun"
+    publishedDateTime: 2020-09-08T07:20:00Z
+    webUrl: "https://findingrover.com/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: 11Alive
+      domain: 11alive.com
+    quality: 102
+  - title: "Dems Propose 5-Year Wait On Facial Recognition Technology"
+    excerpt: "State legislators want a five-year moratorium on use of any system that would pair facial recognition or biometric surveillance systems on police body cameras. A.10913/S.6776 was introduced in the state Assembly and Senate recently by Assemblywoman Nathalia Fernandez,"
+    publishedDateTime: 2020-09-07T05:31:00Z
+    webUrl: "https://www.post-journal.com/news/local-news/2020/09/dems-propose-5-year-wait-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: The Post-Journal
+      domain: post-journal.com
+    quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5658c0f32434bb6ab132bf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1882%26cropY1%3D728%26cropY2%3D1785"
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.post-journal.com/images/2016/10/31144144/fblike.jpg"
         width: 1200
-        height: 674
+        height: 630
         isCached: true
-  - title: "US CBP deploys facial recognition at 27 US airports as of May-2020"
-    excerpt: "US Government Accountability Office reported (03-Sep-2020) as of May-2020, the US Customs and Border Protection (CBP) deployed facial recognition technology at 27 US airports. CBP"
-    publishedDateTime: 2020-09-05T13:34:00Z
-    webUrl: "https://centreforaviation.com/news/us-cbp-deploys-facial-recognition-at-27-us-airports-as-of-may-2020-1022070"
+  - title: "TSA is testing facial recognition at security checkpoints"
+    excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
+    publishedDateTime: 2020-09-04T22:13:00Z
+    webUrl: "https://www.wdbj7.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/"
     type: article
     provider:
-      name: Centreforaviation.com
-      domain: centreforaviation.com
-    quality: 34
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 39
+    images:
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "JC Decaux uses voice recognition technology in new R U OK? campaign"
+    excerpt: "JC Decaux has announced a new out of home campaign for not-for-profit organisation R U OK?, utilising voice recognition technology.The announcement:At a time when people around the world are experiencing mental health strain due to the global pandemic,"
+    publishedDateTime: 2020-09-07T22:56:00Z
+    webUrl: "https://mumbrella.com.au/jcdecaux-uses-voice-recognition-technology-in-new-r-u-ok-campaign-642041"
+    type: article
+    provider:
+      name: Mumbrella
+      domain: mumbrella.com.au
+    quality: 39
+    images:
+      - url: "https://mumbrella.com.au/wp-content/uploads/2020/09/JCD_-NSW_-George-Street_-RUOK__-1-scaled.jpg"
+        width: 2560
+        height: 1627
+        isCached: true
+  - title: "Council to consider banning Face Recognition Technologies"
+    excerpt: "The City Council is scheduled to consider what may be the strongest bans on facial recognition technologies in the county on Wednesday. One ordinance would prohibit the acquisition and use of such technologies by city bureaus."
+    publishedDateTime: 2020-09-09T08:39:00Z
+    webUrl: "https://pamplinmedia.com/pt/9-news/479432-387355-council-to-consider-banning-face-recognition-technologies"
+    type: article
+    provider:
+      name: Portland Tribune
+      domain: pamplinmedia.com
+    quality: 39
+    images:
+      - url: "https://pamplinmedia.com/images/artimg/00003682419156-0644.jpg"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "Why Facial Recognition Technology Was Deemed Unlawful"
+    excerpt: "Shutterstock.com. In a landmark decision on 11 August, the Court of Appeal ruled that an ongoing pilot of facial recognition technology was"
+    publishedDateTime: 2020-09-09T07:55:00Z
+    webUrl: "https://www.law.com/international-edition/2020/09/09/why-facial-recognition-technology-was-deemed-unlawful/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2020/01/Facial-Recognition.jpg"
+        width: 4000
+        height: 2110
+        isCached: true
+  - title: "FMPD wants to use face-recognition technology to solve crimes"
+    excerpt: "The Fort Myers Police Department is using facial features to solve crimes. The face-recognition technology is already in place and used on a daily basis by the same organization that issues driver’s licenses."
+    publishedDateTime: 2020-09-08T10:38:00Z
+    webUrl: "https://www.winknews.com/2020/09/08/fmpd-wants-to-use-face-recognition-technology-to-solve-crimes/"
+    type: article
+    provider:
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 24
+    images:
+      - url: "https://cdn.winknews.com/wp-content/uploads/2020/09/DL.jpg"
+        width: 824
+        height: 479
+        isCached: true
+  - title: "JCDecaux uses voice recognition technology in R U OK? campaign"
+    excerpt: "Outdoor specialist JCDecaux, in an industry first, is using an interactive JCDecaux panel that uses voice recognition to trigger both on-screen and verbal responses. Passers-by are prompted via a floor decal placed in front of the panel as well as an on-screen call to action to ask: “R U OK?"
+    publishedDateTime: 2020-09-06T23:43:00Z
+    webUrl: "https://www.adnews.com.au/news/jcdecaux-uses-voice-recognition-technology-in-r-u-ok-campaign"
+    type: article
+    provider:
+      name: AdNews
+      domain: adnews.com.au
+    quality: 19
 
 secured: "bMKDEN8s6QdTFX6nuDMlvCkZsYUb28/H2W+S+5UOpxjbyv9ZY1SmhgrmWhajJ7XrEakphqknmnXz/JMJcY7mHlCpKvcxkEkPfOjXFzCkWcFMEIQVuPboaVH5UY27CtPcpxcqVxVlgpdXjv01gNIDxsQYX03V7lJlRp+KxDeo+s9NzhskP8MyazwhNZO7ve8oe3xNkhMJLAsDTmcp1YEX37Wne4qtfHE7Vw951pmgdO2/FlqJf56whRLIxn99WGA8Yuuwfws6e6loswj3C1v/dpSMNFpr+eQUEjVori+KrvAYBXe6jkwdXYKFvRtYO9bFWEoesUUCpOn3aHyCR+p1Oc6SAWzDm39QJ0tLV2dJl20=;qyjow/PATm6FyDcEdw9C+w=="
 ---

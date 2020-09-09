@@ -3,8 +3,8 @@ category: news
 title: "Can artificial intelligence create a decent dinner?"
 excerpt: "However, I’m trying out Plant Jammer, an app that promises to rustle up a recipe based on whatever food you have lying around, using artificial intelligence. It searches three million recipes to find often-paired items."
 publishedDateTime: 2020-09-07T23:55:00Z
-originalUrl: "https://www.bbc.com/news/business-53794472"
-webUrl: "https://www.bbc.com/news/business-53794472"
+originalUrl: "https://www.bbc.com/news/business-53794472?User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F83.0.4103.116+Safari%2F537.36"
+webUrl: "https://www.bbc.com/news/business-53794472?User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F83.0.4103.116+Safari%2F537.36"
 ampWebUrl: "https://www.bbc.com/news/amp/business-53794472"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53794472"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 630
         isCached: true
 
-secured: "0NNuNaXaDGjyVQvZlHdhWtAB5aDcaleyN0PoZEu9Thrcs0H3+kcjJ90M+AXa8ZZivr3PFeTZI521cb7ZbhkaVrD2jeSKNqXgYeAprVoSNtg1XzXRnW8c6CFa6LzK4tjLu7O9sXQW10bamy85SdbBdZFkOc/PzuRSFVoZm3akA7dBfhjX0aeWSS6Pp/xN2Ae2DAh68EwRSWbI//rReNF+2FltdT+QzRcFHyrJoYPMaW4GEKL9HfCERAxplTl5YxeYSsjJs/qVeuXF8oNbFbc3FuoJ2v3MU3zIxEOAm3Iw/QQ/ptFPo+R7nj2emQrK2wi//5znbd+RlaerutnnMAdO0e4PewVeNg/mofKmUcY0I+7TZ0FI+xrrxExDFM5YrLQWwoQ3yRjoO2CUWID2jt+MsFV5ZqxkQN+NsPoDwmjsygjnqTLf3+n+R3kdEolzh7LoDWgJbu3+FhMxyb6GDNu7jGqFUtNHfY21RPZN2AfQtmAvmtk+C5GyKdX4VUMZg1jFIHvguwNvQQzwHmY0LnIjSS7va//BrfIRXqlrjeqooFM=;weDCnEFNgOgTH447m2KL6A=="
+secured: "KV50zTRzro7nO+jHteZ6plygwWRbuxEwkCQdHtPr+H41ePDt8L+tnjGVA7GmnKEfCzX13I1KoeIotZSnvlGwrWAjU8JNsJSWLrYcexrmJ5N8Fxfn+R9s4D/x5b/Z8oecgUcoUxiJvApBnXS1Vo26sS7DYb0WdQB20g48dSLD8cl/tE7v9FaTRntOQgtom8ojppAHb0PTR4W9CKvn0iDF1jb+ct6cWPn11zAcwkLyjRg3raDhN2CMcGQOCifW9bhRGa5e3tOwm2o3d4IRMWF+LKFV583BgPBq4OYyeZ38pvWqjDKSH8nCou0R6LfaVdL0nffdJ9JhDHs7ysf4BGJf7MIEmzarWGjfADb7LUu40q8=;JIiVfj5G7fApmib8PPlFjg=="
 ---
 

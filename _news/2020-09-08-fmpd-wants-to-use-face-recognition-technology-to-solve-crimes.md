@@ -27,20 +27,13 @@ images:
 related:
   - title: "Facial recognition technology for pets is launched in Atlanta"
     excerpt: "In addition to Finding Rover, LifeLine has implemented a \"Lost & Found\" matchmaking program where they check pets reported as lost against those in shelters daily. A new Lost2Foun"
-    publishedDateTime: 2020-09-08T03:25:00Z
-    webUrl: "https://www.11alive.com/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
-    ampWebUrl: "https://www.11alive.com/amp/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
+    publishedDateTime: 2020-09-08T07:20:00Z
+    webUrl: "https://findingrover.com/"
     type: article
     provider:
       name: 11Alive
       domain: 11alive.com
-    quality: 59
-    images:
-      - url: "https://media.11alive.com/assets/WXIA/images/32fcf5e8-6a95-445f-86b8-a7f69f97af91/32fcf5e8-6a95-445f-86b8-a7f69f97af91_750x422.png"
-        width: 750
-        height: 422
-        isCached: true
+    quality: 102
   - title: "Dems Propose 5-Year Wait On Facial Recognition Technology"
     excerpt: "State legislators want a five-year moratorium on use of any system that would pair facial recognition or biometric surveillance systems on police body cameras. A.10913/S.6776 was introduced in the state Assembly and Senate recently by Assemblywoman Nathalia Fernandez,"
     publishedDateTime: 2020-09-07T05:31:00Z
@@ -55,6 +48,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Israeli Facial Recognition Tech Startup AnyVision Raises Additional $43M"
+    excerpt: "AnyVision said that at a time when demand for innovative technologies that help companies meet the challenges of the new reality is soaring, the company sees significant growth for their Touchless Access Control across all verticals within organizations that host large numbers of people in shared spaces."
+    publishedDateTime: 2020-09-07T14:53:00Z
+    webUrl: "https://nocamels.com/2020/09/israeli-facial-recognition-tech-startup-anyvision-raises-additional-43m/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 53
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/09/facialreco.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "TSA is testing facial recognition at security checkpoints"
     excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
     publishedDateTime: 2020-09-04T22:13:00Z
@@ -68,6 +75,20 @@ related:
       - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "JC Decaux uses voice recognition technology in new R U OK? campaign"
+    excerpt: "JC Decaux has announced a new out of home campaign for not-for-profit organisation R U OK?, utilising voice recognition technology.The announcement:At a time when people around the world are experiencing mental health strain due to the global pandemic,"
+    publishedDateTime: 2020-09-07T22:56:00Z
+    webUrl: "https://mumbrella.com.au/jcdecaux-uses-voice-recognition-technology-in-new-r-u-ok-campaign-642041"
+    type: article
+    provider:
+      name: Mumbrella
+      domain: mumbrella.com.au
+    quality: 39
+    images:
+      - url: "https://mumbrella.com.au/wp-content/uploads/2020/09/JCD_-NSW_-George-Street_-RUOK__-1-scaled.jpg"
+        width: 2560
+        height: 1627
         isCached: true
   - title: "Council to consider banning Face Recognition Technologies"
     excerpt: "The City Council is scheduled to consider what may be the strongest bans on facial recognition technologies in the county on Wednesday. One ordinance would prohibit the acquisition and use of such technologies by city bureaus."
@@ -97,6 +118,15 @@ related:
         width: 4000
         height: 2110
         isCached: true
+  - title: "JCDecaux uses voice recognition technology in R U OK? campaign"
+    excerpt: "Outdoor specialist JCDecaux, in an industry first, is using an interactive JCDecaux panel that uses voice recognition to trigger both on-screen and verbal responses. Passers-by are prompted via a floor decal placed in front of the panel as well as an on-screen call to action to ask: “R U OK?"
+    publishedDateTime: 2020-09-06T23:43:00Z
+    webUrl: "https://www.adnews.com.au/news/jcdecaux-uses-voice-recognition-technology-in-r-u-ok-campaign"
+    type: article
+    provider:
+      name: AdNews
+      domain: adnews.com.au
+    quality: 19
 
 secured: "fujPWgzYjhRlsqF16eWtNlXxMzxmCwsK5iKC2a20Fj/O0FE9ipHH/yZwebWEwGuNMvEJp92A/jARCmLui+jLX/0CQMSnrVhHffodI2nErkNsIDHaymjhWYmWihramVRLeMxdZt7cOOBZn95x1XXVEbyNpeHy1U5aRyPszt94oDSI6qjJxGSvsHifivRnMWN5T7crE/c3xEEycuH9LRxEO6C43ZH+gKfeAQWkUVPo/Ygcq4+4vurxlJxDMnvbBSAJwChkYy6dfQ0svxf6c5VSmc5uGP3CXA39y6Hmu6uIJgyTSD0oVq2FALTB2cJSd2L+z/mARUt0VVlZQtMmteQF/0cn1haOopjalJZ6IKoqGZ6HSUduj64AAjUVkimCbOpAb5kQ9yuT2l13zh534zJ8p38Gzz/rNDHrdfDXcTvxqD/jsetYTwTVRKIR4MQgBoISOUUVNyclAvyi44DZDjaWZ4rBDn3C/Ccr/Yuss5VxRzwWZy5KxzNcm07hactm3BV4DfaXgBzLEGo2gRg1EMUc/Kl9lqJUSHZfztihYZAPGh8=;EQUcPv9PiIRb2dVMY5hZEw=="
 ---

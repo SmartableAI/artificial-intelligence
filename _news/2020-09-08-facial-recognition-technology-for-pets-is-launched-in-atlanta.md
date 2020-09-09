@@ -2,14 +2,12 @@
 category: news
 title: "Facial recognition technology for pets is launched in Atlanta"
 excerpt: "In addition to Finding Rover, LifeLine has implemented a \"Lost & Found\" matchmaking program where they check pets reported as lost against those in shelters daily. A new Lost2Foun"
-publishedDateTime: 2020-09-08T03:25:00Z
+publishedDateTime: 2020-09-08T07:20:00Z
 originalUrl: "https://www.11alive.com/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
-webUrl: "https://www.11alive.com/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
-ampWebUrl: "https://www.11alive.com/amp/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
-cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3"
+webUrl: "https://findingrover.com/"
 type: article
-quality: 59
-heat: 109
+quality: 102
+heat: 182
 published: true
 
 provider:
@@ -17,14 +15,7 @@ provider:
   domain: 11alive.com
 
 topics:
-  - Computer Vision
   - AI
-
-images:
-  - url: "https://media.11alive.com/assets/WXIA/images/32fcf5e8-6a95-445f-86b8-a7f69f97af91/32fcf5e8-6a95-445f-86b8-a7f69f97af91_750x422.png"
-    width: 750
-    height: 422
-    isCached: true
 
 related:
   - title: "Dems Propose 5-Year Wait On Facial Recognition Technology"
@@ -41,6 +32,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Israeli Facial Recognition Tech Startup AnyVision Raises Additional $43M"
+    excerpt: "AnyVision said that at a time when demand for innovative technologies that help companies meet the challenges of the new reality is soaring, the company sees significant growth for their Touchless Access Control across all verticals within organizations that host large numbers of people in shared spaces."
+    publishedDateTime: 2020-09-07T14:53:00Z
+    webUrl: "https://nocamels.com/2020/09/israeli-facial-recognition-tech-startup-anyvision-raises-additional-43m/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 53
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/09/facialreco.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "TSA is testing facial recognition at security checkpoints"
     excerpt: "The Transportation Security Administration is testing touchless facial recognition technology at security checkpoints."
     publishedDateTime: 2020-09-04T22:13:00Z
@@ -54,6 +59,20 @@ related:
       - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/tshioASDOf0fo9xypoCfXf2P69o=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CIZXD3NNWBD3TOIKGEBKUGTBL4.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "JC Decaux uses voice recognition technology in new R U OK? campaign"
+    excerpt: "JC Decaux has announced a new out of home campaign for not-for-profit organisation R U OK?, utilising voice recognition technology.The announcement:At a time when people around the world are experiencing mental health strain due to the global pandemic,"
+    publishedDateTime: 2020-09-07T22:56:00Z
+    webUrl: "https://mumbrella.com.au/jcdecaux-uses-voice-recognition-technology-in-new-r-u-ok-campaign-642041"
+    type: article
+    provider:
+      name: Mumbrella
+      domain: mumbrella.com.au
+    quality: 39
+    images:
+      - url: "https://mumbrella.com.au/wp-content/uploads/2020/09/JCD_-NSW_-George-Street_-RUOK__-1-scaled.jpg"
+        width: 2560
+        height: 1627
         isCached: true
   - title: "Council to consider banning Face Recognition Technologies"
     excerpt: "The City Council is scheduled to consider what may be the strongest bans on facial recognition technologies in the county on Wednesday. One ordinance would prohibit the acquisition and use of such technologies by city bureaus."
@@ -97,7 +116,16 @@ related:
         width: 824
         height: 479
         isCached: true
+  - title: "JCDecaux uses voice recognition technology in R U OK? campaign"
+    excerpt: "Outdoor specialist JCDecaux, in an industry first, is using an interactive JCDecaux panel that uses voice recognition to trigger both on-screen and verbal responses. Passers-by are prompted via a floor decal placed in front of the panel as well as an on-screen call to action to ask: “R U OK?"
+    publishedDateTime: 2020-09-06T23:43:00Z
+    webUrl: "https://www.adnews.com.au/news/jcdecaux-uses-voice-recognition-technology-in-r-u-ok-campaign"
+    type: article
+    provider:
+      name: AdNews
+      domain: adnews.com.au
+    quality: 19
 
-secured: "qp1KVpykERoTPhCZmLcmA38wUsqttCGJjGbk7jmcgoTyNk0x5Y49+LMkbXM09oea9pkeB6oywThKg3W0zYDg6Pe8oqFp3J0CcYu1kI1LboeVkPr6k+YzXKcCWh3Ay7kFio9ZsA32nM5TC2goCBoDSb916hVAnvkzFg5iRkd2fRJVfoYfnDhrRMz9LvyTM76e1bD0FLp+eV1zuLxOSivVL3DCDtAnHf8AGylEShRIhy39wauIxTz+f03ec6I05KyAHQxLCqqK3k/IbQOQC0i8vECQESFSYUp08aOZlXqm/pjNj+BZhWRqlM7x24rNp2965zN4RK6trtbFMNEJF4JWX32j1GSezJib/x9GFWJa85VwmJ2OXmDrQgGng6v40WOoD2Yt8d44JJ872HHjLx17+2XwchmTw8q+xklvRSAwuoG0TuyMd3Tyu9PgmiTMGkZz8zl+LbyzXxJXDNqMBjlcZTbJy4eEDAAxXxDNBqcsEvjjJeiEA18wOE79ZGTmRS/uJsHDAEwaP5OoyYYqaEyrEyq2TFIW1Shouv2SdsCbG1A=;E6sP2NG627PflkwhyTciEA=="
+secured: "W8m0DtJdIqk5M+0Nctf4qJIXY1UpsHkQrCVktvlN+pg4z68SFMFG3+8Ni2t47V9zhepNxgQp8J5eAvI+JF9LgGo1tGY2SZxpp1hDvcjk1/dAsrFhZJy5ztFXMzhtwtadmu5J0Y/1sraIBnQhuUvAc0cP40dZWpjsoVXOYp80cPqKUDZR6WhRqx99Ak7V0WuXwxU/qLI8ZE4hkB7QE5knAkQVyBrPaEba16ikc5zRilG4V58prG5wln+Kcuu+Xi/K+GoqkoRLUGFyYmNG+6HWZQLMtrJUS9H7h375dJYNDp0gjIJx8yohHb1vrPG4LT0ynmRwk2PbElzCUS1mnwess0MQsW0v9Ypt84LXGdjTgJbaBs7Bl2J+VkhF0F3r7gqDpLV5w++MkVaUCnAynis3yYDgLHUwZj/arkXyQTRu8+O3mpFstqdjSE4INCrP+xPTSfKhQtENE6MeNp4uLXp6CjP/ycWNNwkvZZPKgXh2gHzUiRcVRZd/n05YFax8TBVNOJOC1hwwZS+XAnlkY670jmci9HwRovKZvYJv+dMm3rQ=;YcxRLmGQYJe0zZMO7iq2VA=="
 ---
 

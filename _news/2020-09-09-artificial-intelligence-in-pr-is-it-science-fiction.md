@@ -5,10 +5,12 @@ excerpt: "Artificial intelligence (AI) is everywhere, so you knew it was only a 
 publishedDateTime: 2020-09-09T11:45:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/"
+ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/amp/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -27,6 +29,6 @@ images:
     height: 800
     isCached: true
 
-secured: "/kgptmr7FD8+LG6sU9ErDiDmR5oOEDL3FX/enDhiYKEBURv/Sva38v/GNhP0bz9K+0cNYw4LKeqw/K8wIeDbIGoLkmAxv3GM1LSOpW8jXRE+b4HhJvKFFtve84g+d1gUf91I/ZH7v854KoVmjzDRGOXanl/mWoe27bXCROSf3KqncKYkCuY0+nGQ/HVXWp5efaP7YzEURi+FdmpuvG05v1Y/7dAaAw2VBnEsq3odntYv9LFfJS7xrsA/RJZ2x8y5k1YH9074jy9I4BmKT2VsxGObTp7yp66HcLXgAXe5+yErnqx1t9qcmZt/X3C3AIn+2Bm0dlZhOiBE961T8638KGqACDAvMLm81EW+VMD2vGE=;FG2gtkHHgWtFfTsBG6lRPw=="
+secured: "p4BB+TCnD0f03MH+II5BvqP12u8Tv5rNznF6oCARVXOfLm0mILcjrc8aJ7gtY3YN7fWoRUBJ17mhvLPlRWTPjczdLHzK7iBfYzyITmF8OZ2fBu/N8TpB+tksdMH6RHpgUyFE6a/weFu1sSHo1JYn6E3LxiM7wErKtK7MWaKmaYIxZVH5NXUuXq/WRZT/NnxBBnDHe4VPh+Q2pI0Hi9mAbJTH9O+f51A6sWcuT1HKLXHSQiZ5h/r6MC0nb7HXJg2UMDr3P7cRDDGQMVGS0AIlBSqmF6MM7i9q7BMuDlzF7am5Tn0+oY10v1XQY9nEGRStjW113KDS3ajH9hcPOuWmzp7P4XhWB16krhRxKy0NmA9PiJBuvTiJ4OE9Yv19EfugacVRIiQ5/u/VqYf+9UF7rNNyJiF4WE4HYOCsE678scxcdmXpE8K3coDmWilpGwq85Zm6riRe3moVnK2lMyY/vuMxeNeYH0oNoovMUfRwJCf+Oy78kzPygGXKYpln/cfBAqYEC5+TZh1cTnhma5y4VA==;MIRFoWPRfjZMJBT6rvw+wA=="
 ---
 

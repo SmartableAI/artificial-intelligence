@@ -3,8 +3,8 @@ category: news
 title: "Army looks to machine learning to prevent injuries"
 excerpt: "Hoping to reduce costly non-combat muscle and bone injuries to warfighters, the Army turns to a machine learning-based tool used in professional sports."
 publishedDateTime: 2020-09-08T00:40:00Z
-originalUrl: "https://defensesystems.com/articles/2020/09/07/army-ai-injury-prevention.aspx?admgarea=DS"
-webUrl: "https://defensesystems.com/articles/2020/09/07/army-ai-injury-prevention.aspx?admgarea=DS"
+originalUrl: "https://defensesystems.com/articles/2020/09/07/army-ai-injury-prevention.aspx"
+webUrl: "https://defensesystems.com/articles/2020/09/07/army-ai-injury-prevention.aspx"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 368
     isCached: true
 
-secured: "Rv5p7Hh6agdaNl1YHXaSa4LAgFwkL11oHA0SfdpLkHURGzsQeEmhpPZje3iODNfUoNec2SOIKoiJVNZ1o7SaQR28CNpYWqY3V6N84uB22OJ56QbIwP/pLjJ2xA6AyJJARpulMAkmXc/RzxuooOAvHG9L2bL6ofS/uQJKHn6KDvHT5AKlOfp4SBiK07ZMo/4vUyzYipkv8/TBwgcjaEllqHh6c78m8DzMG7WHIpPO4mOQpUDH0yaSBZdBHjFhZjsbxEb4nPMlBGQzxkp+xOoYceOeEJoOZgheAzlcePzKWH0prtQul7eWjgDOsMuUt7UoTIyajyIZIDiiw2GlXjWIrnfCiXehKVSBhFyfO975w8M=;cDUNZiajG18CgAo+wlMQ2w=="
+secured: "mxD/y2ktArN7W6d1HtnD7xXL9dIhl89Vxx0SB+m/uTIeXLr4yhSr4BwOxOaC9h5YNULSoXQyKqtl6CMfOOzPLh8TFtxhuh3MJg3mxfhQPA5ijo8QQcO62tQUpH3tbpkoggSspn6AX5auBKAu1kEtphhxHYmtM8x955aWGp/mq/G4xoNEHLb9W91SM1rhSnBk1GtNV/Zfh2IuyZh5h5GFy2aLF2O6Ct8kCOpSWAAasKOiTt2Ac8V6LaSgIJFX3TfrHOna0ccERq8nvi3eUXUPuOh0lJJpCzQ7WCovkeYG1Igq7EAIITgwFCQmZAqzVBbTZaXS3ytr3StR47tk5toxGCnNuuO5wz5Y/xs1QOVulNs=;ScCxYUTr5NGX1zxtYX0dOQ=="
 ---
 

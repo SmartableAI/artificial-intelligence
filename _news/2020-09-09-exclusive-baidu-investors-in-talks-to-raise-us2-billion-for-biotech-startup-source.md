@@ -36,6 +36,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 63
+  - title: "Baidu eyeing $2B investment in biotech startup - Reuters"
+    excerpt: "Reuters sources say Baidu (NASDAQ:BIDU) is talking with investors to potentially raise up to $2B over three years for an AI-backed biotech startup.Baidu won't be the controlling stakeholder of the biotech,"
+    publishedDateTime: 2020-09-09T12:09:00Z
+    webUrl: "https://seekingalpha.com/news/3612425-baidu-eyeing-2b-investment-in-biotech-startup-reuters"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
 secured: "d7y/MkV3q9GUHgIGkv/6hQchVkhjlNcQcNFOmNOKGslzlrhZVrxqVZiY7BZ2Zlbrqn1jFum7H+7uCMDlGuc9Iw46zBTDbXju0vjuZJAAJr/Nl5nq300KdRd0VD4dp6q+6nY/bWu+tiFqKT2EyAC0Zd1kxhkJnnGlQG5T0Rr8WLX0uF4QeFgABQPsdHGfNvVDz2zNEPF87uCKs0uSiEHwKAgtWM763OUXX5sa97qYWNIN231gs9Bnnc3fuaZKpSP5NAE/QQoMM7Miyc+Et/pESJ7J2F8L9BgNTT1I8F6lE4UBmx6Q9httFV7eSGY2QhYZd6hTdLoUdyoFz9A8mexhImqzxWMxYFP38ERPyTz31S2CSxTygRkrwrc/JjZIfkDe7XcPxxzhcD8iZUa3yopMmntRxVRiRMbYo8s5z0CL0tWdN+uePfl89dKSTagnNinCM3zG3cUF1cM57sYYCvnxeHdH5DW7nhLLwnneSKP+LvyxTwlsrjiPyXFcvhDKD61M1AMdpy5m/gA2e6O/tf5qdzfYl0FldusCQsH+AK1S4sc=;dyjCKivEd5w3m3i4QV5DYA=="
 ---

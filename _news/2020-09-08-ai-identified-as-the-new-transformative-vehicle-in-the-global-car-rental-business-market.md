@@ -20,29 +20,15 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence Market Latest Industry Size, Growth Factors and Major Segments, Forecast Research Report"
-    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2020-09-08T16:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-latest-industry-size-growth-factors-and-major-segments-forecast-research-report-2020-09-08"
+  - title: "Artificial Intelligence in Oil and Gas Market 2020 Is Booming Globally | Top Key Players : Google, Inbenta, Royal Dutch Shell, Cisco(NASDAQ: CSCO)"
+    excerpt: "The Artificial Intelligence in Oil and Gas Market report is a compilation of first-hand information, qualitative"
+    publishedDateTime: 2020-09-08T10:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-2020-is-booming-globally-top-key-players-google-inbenta-royal-dutch-shell-cisconasdaq-csco-2020-09-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Growth Opportunities, Industry Challenges, Size, Future Trends and Demand Analysis by 2026"
-    excerpt: "The global image recognition market is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2020-09-08T11:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-growth-opportunities-industry-challenges-size-future-trends-and-demand-analysis-by-2026-2020-09-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
+    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
