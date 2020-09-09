@@ -15,6 +15,10 @@ published: true
 provider:
   name: Prime News Ghana
   domain: primenewsghana.com
+  images:
+    - url: "/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI

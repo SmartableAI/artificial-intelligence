@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recogni
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 674
     isCached: true
-
-related:
-  - title: "US CBP deploys facial recognition at 27 US airports as of May-2020"
-    excerpt: "US Government Accountability Office reported (03-Sep-2020) as of May-2020, the US Customs and Border Protection (CBP) deployed facial recognition technology at 27 US airports. CBP"
-    publishedDateTime: 2020-09-05T13:34:00Z
-    webUrl: "https://centreforaviation.com/news/us-cbp-deploys-facial-recognition-at-27-us-airports-as-of-may-2020-1022070"
-    type: article
-    provider:
-      name: Centreforaviation.com
-      domain: centreforaviation.com
-    quality: 34
 
 secured: "23BxX74r4K7EXtu9qQdbU7HWM3WXsKuQRekN5XTMco9TA8hufxtWFF+Hnau7WaagIOi2RRwR2cyIz3Q5fI9Agsk+83yyk3cU/z61JJ1jtsEKsMl9V88FOxo59NrAIEf0q8JREftjiQ39KkTYHbKxfxx5nRTENsmTW0NmLKcYvI87b+E/Q1Goz/Lr76uAbzbaCynok9RO+dWk84AuP50Srco0Bf4IaTFvzfGNpLy4d6uZGqVMnpCoKyoYMZ5V8E1OKZh96sbp/vgdgJu3ScePHhHdx/FQRKFiYI++ieBly/j/v04GF8gQIxFBm543H0amCXfFLkoGsPjEyYESmSFB0MxLuuiU4mWGztqGmmmQz6kGB+RGz2WkPEaxFvKojC7wWhmdpGo3StZ/1vixbs5NKDfgX8y1GtQkXR8pwBPRn1I7TQYqOTCkdF436QAP48JzZ2CTiFcHOtQNU3rDcBh1zyH1lZYpMnn5GMIGQMAC1BSTsMQzfguLmrIyI1/OuN2w4LQILubarWgFBRzHKc5PLN5uL57xuPa4GUTWmJAcSxM=;0uIJrKJGhlA0NJWok1FMWQ=="
 ---

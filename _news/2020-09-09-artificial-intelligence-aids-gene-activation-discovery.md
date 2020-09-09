@@ -40,6 +40,22 @@ related:
         width: 1196
         height: 771
         isCached: true
+  - title: "Artificial Intelligence Aids UCSD Gene Activation Discovery"
+    excerpt: "With the help of artificial intelligence, the UCSD researchers say they have identified a DNA activation code that's used at least as frequently as the TATA box in humans. The discovery, which they named the downstream core promoter region — or DPR — opens up possibilities for another major portion of our genes."
+    publishedDateTime: 2020-09-09T19:01:00Z
+    webUrl: "https://patch.com/california/san-diego/artificial-intelligence-aids-ucsd-gene-activation-discovery"
+    ampWebUrl: "https://patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 72
+    images:
+      - url: "https://patch.com/img/cdn20/users/22880694/20200909/021941/styles/patch_image/public/lab-testing-shutterstock-203211934___09141226582.jpg?width=984"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "l89VKyMJCib3fHq64HejF938XKrXbLyXKkE4CsFqyKhX9tXHq7BEdOAw2Qmr2cLZbM/SVg39ITrX7tpBAGwjGZYllCAoktlWJOEFM0RKpRPPz9kpTZwWENxx6UftZ4QCfDnd0PgkH5dn5/mcmzMKGK+r03E8N5ZVRcHEouV+G72onlyIsoZSQPe379yU55f6yAQXyVRISjTlsGzwiFa7wZXUtiDqwF1kuYxNgO171njtr1aoheSrzbWJZ8QLsvahN6dK1zfpzahq6QIwjEQvFHkPzVz9fyL8dOrIkIjJWmMcMzmsfeLsHn9VI4bj6Uj0ZEUiIsNfLXaui8p1iGAz/HHvsNT020YaHKcUqUAruEsX70p/O+xboqPLUPa+mWv1hkeXomUIlVQX8hHfxfr7hw6pSk5OVLozhKN2YV9qAwb0TV6DMBDiEvkoBevwkZf/VM1gUnzjNVKLSGzmNKXAD2vaFPTa2XPQ7rx3mjDKri3EsFHCWDgv8Qcd22+0cNv7d4x9+WdJFlUpnq8uBj1o6bDDZW7/0vk7p4cBNyyz6Sk=;2XVkyc6xp53WYb3BUoFEGQ=="
 ---

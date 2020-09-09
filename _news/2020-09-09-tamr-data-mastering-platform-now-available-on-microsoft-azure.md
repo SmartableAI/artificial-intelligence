@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platf
 webUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tamr on Azure Provides Flexible Approach to Data Mastering"
+    excerpt: "Tamr, Inc., the provider of cloud-native data mastering solutions, is offering its cloud-native capabilities on Microsoft Azure, allowing companies to master their enterprise data using Tamr while taking advantage of the flexibility,"
+    publishedDateTime: 2020-09-09T18:23:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Tamr-on-Azure-Provides-Flexible-Approach-to-Data-Mastering-142769.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 39
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Think AI Chatbot Now Available on Microsoft AppSource"
     excerpt: "Think Ai Consulting Corporation today announced the availability of the Think Ai Chatbot on Microsoft AppSource, an online cloud marketplace providing tailored line-of-business solutions."
     publishedDateTime: 2020-09-06T07:10:00Z

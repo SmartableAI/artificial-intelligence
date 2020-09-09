@@ -1,0 +1,54 @@
+---
+category: news
+title: "Tamr on Azure Provides Flexible Approach to Data Mastering"
+excerpt: "Tamr, Inc., the provider of cloud-native data mastering solutions, is offering its cloud-native capabilities on Microsoft Azure, allowing companies to master their enterprise data using Tamr while taking advantage of the flexibility,"
+publishedDateTime: 2020-09-09T18:23:00Z
+originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Tamr-on-Azure-Provides-Flexible-Approach-to-Data-Mastering-142769.aspx"
+webUrl: "https://www.dbta.com/Editorial/News-Flashes/Tamr-on-Azure-Provides-Flexible-Approach-to-Data-Mastering-142769.aspx"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: dbta.com
+  domain: dbta.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://www.dbta.com/images/social-logo-2019.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
+    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure."
+    publishedDateTime: 2020-09-09T14:17:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Think AI Chatbot Now Available on Microsoft AppSource"
+    excerpt: "Think Ai Consulting Corporation today announced the availability of the Think Ai Chatbot on Microsoft AppSource, an online cloud marketplace providing tailored line-of-business solutions."
+    publishedDateTime: 2020-09-06T07:10:00Z
+    webUrl: "https://www.pr.com/press-release/820535"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 34
+
+secured: "pX3v9t9VaxNo8MrWyX9ddDvpbumlHtlinRO2CQvz8Wujt2Dwegr943+giuii30suZ3/HjAxK9MFBtvlDH4BljJPvGljuqs8XjbiVbtPxXB+Ne48KYvV6Zo++ckfKc0KeFr4NKSc9js8pCzDXkA3ESbfNPk22CfOKHpaYh69+HwFOxdoa6yCb4efIklJ0GJxUgFtOCeb7Uv2e++bnMc/rkqtHAqjjBBbRQzVoLAwKpBuPQ2k8M7TmmnswJnJDRfcgi07WmesWFpKRIlZvbBy/sX6aPsxCD2/m3EBauO/rMjvzjHB6Kxek3SEwJRF/BKLvjCjwoFi1u+82HeyhatBthpa4Ciss1jZJKzvUs954uHY=;ssK8lSLbw2uwmujX9xkoIQ=="
+---
+

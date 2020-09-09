@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f58d99ecc7cbb59fb09fee4%2F0x0.jpg"
@@ -30,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is Artificial Intelligence the Right Investment For Your Business?"
-    excerpt: "Artificial Intelligence is quickly becoming a reality for businesses of all shapes and sizes. With the massive amounts of"
-    publishedDateTime: 2020-09-08T21:19:00Z
-    webUrl: "https://www.business2community.com/business-innovation/is-artificial-intelligence-the-right-investment-for-your-business-02343493"
-    ampWebUrl: "https://www.business2community.com/business-innovation/is-artificial-intelligence-the-right-investment-for-your-business-02343493/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/is-artificial-intelligence-the-right-investment-for-your-business-02343493/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 59
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2020/09/artificial-intelligence-right-investment-for-business.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "4 Ways To Leverage AI In Customer Service"
     excerpt: "The use of Artificial Intelligence (“AI”) in customer service is currently utilized in just under one-quarter of companies today, although, 56 percent of service decision makers say their organizations are actively looking for ways to use AI and AI adoption (forecasted to surge by 143 percent by 2021)."
     publishedDateTime: 2020-09-07T13:21:00Z
@@ -61,6 +46,6 @@ related:
         height: 300
         isCached: true
 
-secured: "7pN0omiJp68/0wzu6fxFy0Q/j1vLq/I0wAppYDi2L4MHws0pj6jNAzFKB78/zH+L6j7cX3XJKTY1NZWUIpp1BW/Pq58S++m3dhvHflQNTghCC4Fdsq72fcwdeCpvIoDiL5Qtq8QSjpa763U6psFBc//XGwKjlTuJfxwDChG6sLcK+KC081oM5JL3cPICmX2lAY8j7Hdvg5c0HQjhbPuc634oZjdQM3+xSsJKzhGDKsuqwIVZDNnLX+ClMTo3Tovy4cztrQ3V/HLQWUx835OUmm1L3n7wxbj/POBCkqPIVD/LkAHBJeFrvix0ulSI3MFFJ19BPz0qnBmGc3BLJaPTXMQihZ4oyG4FrNMuzOCYq6c=;apDA3mS0eSyo2PfA2SZBdw=="
+secured: "WWfGMPVr14EaNuz3lA1lSIQoO1x+iJZFkXfHUGp1vGVGvNr3lFXs/QccyFoBk/lNm4FyahCqOptw05qNdnTviAJB8TefsTV7Xuhk0dDrScQxzBJZmh4A+rmyuOlas3GaG2+gTJbi+Htf4eaip4Srn5pPV8zlIGQvZlyxDLt2glQCGTZEXvw5cELHkB6fyyAHgQ3bfoc8UIAAvKUZGCs9zVZtTOI9TlKKennMzYfC0hbG9W7wTyyJNS5b3ClRYz7aQtXe4D0r3ZV6KS5ubgZTp07E7QTiE8elJF/tFwDGTp37q8g+KS6zm+nOIWrkJXL5dtrKpl0cyOOw35lmSED41k+mVeVh2F4yOS4YrI8JWY+iA1A5VJ1srvgz1VGzBid5nj3tJL9BR+Dw6HaKzZQpFvkh5VcPFSQTJamHepNpdzCSgVrPAOeIqN7AdmSIPDGbC00w7m5aCOaKxxmkMHU1IOFhditWplZTBy4mAPy+rMnwuUV60Mdx0K4ya5GKUJMM+eE+SMz5c1y+of0C3A5NVYwkqcOPKdjRvzG2zSDvvbU=;Y58kr3RCr2qmuSXzsqY1UA=="
 ---
 

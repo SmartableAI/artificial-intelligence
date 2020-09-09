@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Development In Wasps Hints At A Mystery Of Human Evolution"
-    excerpt: "Scientists have long wondered how prehistoric humans quickly unstuck themselves from the Stone Age and rapidly became as intellectually and socially capable as modern humans. Recent discoveries about wasps and their cognitive abilities may hold a clue."
-    publishedDateTime: 2020-09-08T21:11:00Z
-    webUrl: "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/"
-    ampWebUrl: "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/"
+  - title: "Amazon Spent $24,000 To Kill Portland's Facial Recognition Ban"
+    excerpt: "The legislation would be the strongest ban on the technology in the US, blocking both government and commercial use."
+    publishedDateTime: 2020-09-09T19:15:00Z
+    webUrl: "https://www.vice.com/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: VICE
+      domain: vice.com
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5658c0f32434bb6ab132bf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1882%26cropY1%3D728%26cropY2%3D1785"
-        width: 1200
-        height: 674
+      - url: "https://video-images.vice.com//articles/5f592142fafbbe00943f97f5/lede/1599678133842-gettyimages-1220178244.jpeg?crop=1xw:0.8665xh;0xw,0.0392xh"
+        width: 5037
+        height: 2829
         isCached: true
 
 secured: "jsWbpnRUJBLV1euYuznVnGNIG8AJM8TaudDuERAdPmFZcIwsPr4ts7AmeVbEX+EPW+LKVr0JTtEa+gov2QXE+bj54zPWf/1wS2eewv//0o7UjrjebOBIiPVdH6WbNYUIR110cYaBghMPbUWAkYIrtASPYwjeriwanVxGrv6RSYz/hB69nhjT1q0qgCHgJH7DmXazaEXKt3ojzw5Vk82dSyEZbTtKx58gK9xqUDuDS79w+GabqIcAi5eK4GN5Tp5FkEpPu4vmUaAVP3COQqgnEh2EgVsySpdDppmGyGp8iJefIb1siY7MJCRypWvs21hcANiwnCNnWZl5vBXHY24IGIFuOO2xsBQLqmM7VHOS2rA=;Ve91rbIcd3Jx1JVPyBxr3Q=="

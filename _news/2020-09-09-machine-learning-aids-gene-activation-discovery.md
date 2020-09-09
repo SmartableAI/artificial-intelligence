@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-09-machine-aids-gene-discovery.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-machine-aids-gene-discovery.amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Aids UCSD Gene Activation Discovery"
+    excerpt: "With the help of artificial intelligence, the UCSD researchers say they have identified a DNA activation code that's used at least as frequently as the TATA box in humans. The discovery, which they named the downstream core promoter region — or DPR — opens up possibilities for another major portion of our genes."
+    publishedDateTime: 2020-09-09T19:01:00Z
+    webUrl: "https://patch.com/california/san-diego/artificial-intelligence-aids-ucsd-gene-activation-discovery"
+    ampWebUrl: "https://patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 72
+    images:
+      - url: "https://patch.com/img/cdn20/users/22880694/20200909/021941/styles/patch_image/public/lab-testing-shutterstock-203211934___09141226582.jpg?width=984"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Artificial intelligence aids gene activation discovery"
     excerpt: "Scientists have long known that human genes are activated through instructions delivered by the precise order of our DNA. With the aid of artificial intelligence, researchers at UC San Diego have solved a long-standing DNA activation code mystery."
     publishedDateTime: 2020-09-09T15:11:00Z
