@@ -71,6 +71,17 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Talking Robots Could Be Used To Combat Loneliness, Boost Mental Health In Care Homes"
+    excerpt: "Talking robots that interact with older people could be introduced into care homes to help fight loneliness and mental ill health."
+    publishedDateTime: 2020-09-09T01:16:00Z
+    webUrl: "https://baltimore.cbslocal.com/2020/09/08/talking-robots-could-be-used-to-combat-loneliness-boost-mental-health-in-care-homes/"
+    ampWebUrl: "https://baltimore.cbslocal.com/2020/09/08/talking-robots-could-be-used-to-combat-loneliness-boost-mental-health-in-care-homes/amp/"
+    cdnAmpWebUrl: "https://baltimore-cbslocal-com.cdn.ampproject.org/c/s/baltimore.cbslocal.com/2020/09/08/talking-robots-could-be-used-to-combat-loneliness-boost-mental-health-in-care-homes/amp/"
+    type: article
+    provider:
+      name: CBS Baltimore
+      domain: cbslocal.com
+    quality: 32
 
 secured: "c4nL7mmo3jEiVmUtJmBRWg0VWYIVsUXz9IVDtZ30Ch2LuDvyiMM/m45b5Q3829jLXU7FaJm9zfZCRh7sMGOxR//EIeX/gfXle/slVyK8naIyV1DYuwS2s/aW+dQVhBh9ybXPedpHsSwoXlzYJdWgW4PaU8SDwdj2TDWs3jdrSemcbXmp0MslExyfS03yQOTPS6S4jJTpbVaeORrHoSPYZ7D5/Y5n5JYDQp8Dg2piCd+d3vLTcCAhRmATF68U8mEWXSg9au5nZthAxx7rOz26wnXxzvoOspOZType+a1JE7ZtapiiLH33pPikhvvR2UZ2XONVJOuYIj90SbisUlivoq4J8ujdnUuONwl7SfmYh4g=;QZPF3SHyIbszdwT964847A=="
 ---

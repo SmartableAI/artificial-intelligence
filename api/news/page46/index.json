@@ -2,6 +2,106 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-07-31-enhancing-recommendation-filters-by-filtering-on-item-metadata-with-amazon-personalize.md",
+      "title": "Enhancing recommendation filters by filtering on item metadata with Amazon Personalize",
+      "excerpt": "We’re pleased to announce enhancements to recommendation filters in Amazon Personalize, which provide you greater control on recommendations your users receive by allowing you to exclude or include items to recommend based on criteria that you define. For example, when recommending products for your",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-recommendation-filters-by-filtering-on-item-metadata-with-amazon-personalize/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-31T15:08:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit.md",
+      "title": "Facebook raises settlement to $650 million in facial recognition lawsuit",
+      "excerpt": "Facebook Inc raised its settlement offer by $100 million to $650 million related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 223,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200731&t=2&i=1527915704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6U1ST",
+          "width": 831,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN24W313",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W313",
+      "publishedDateTime": "2020-07-31T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-ibm-platform-helps-brands-find-social-influencers-matching-their-values.md",
       "title": "IBM Platform Helps Brands Find Social Influencers Matching Their Values",
       "excerpt": "IBM on Friday launched Watson Advertising Social Targeting with Influential, a new platform that uses AI to help brands identify influencers who best align with their brand values. The new ...",
@@ -1054,97 +1154,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-hillels-tech-corner-kaiai-flips-the-script-on-therapy.md",
-      "title": "Hillel's Tech Corner: Kai.ai flips the script on therapy",
-      "excerpt": "There is, however, some good news. When it comes to artificial intelligence and natural language processing (NLP), we may just have the technological capabilities to offer therapy to those in need using their regular messaging service like WhatsApp and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/461466",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985/amp",
-      "publishedDateTime": "2020-07-30T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-ai-powered-tool-aims-to-help-reduce-bias-and-racially-charged-language-on-websites.md",
-      "title": "AI-powered tool aims to help reduce bias and racially charged language on websites",
-      "excerpt": "Website accessibility tech provider UserWay has released an AI-powered tool designed to help organizations ensure their websites are free from discriminatory, biased, and racially charged language. The tool, Content Moderator, flags content for review ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-powered-tool-aims-to-help-reduce-bias-and-racially-charged-language-on-websites/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/09/b6ab847a-647d-4dd3-8830-b9a2e978c6c2/resize/1200x/cacbd035a68bdef28ec6012ef91f3936/cloud-security-tr.jpg",
-          "width": 1200,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-powered-tool-aims-to-help-reduce-bias-and-racially-charged-language-on-websites/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-powered-tool-aims-to-help-reduce-bias-and-racially-charged-language-on-websites/",
-      "publishedDateTime": "2020-07-30T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,55 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-08-can-artificial-intelligence-create-a-decent-dinner.md",
+      "title": "Can artificial intelligence create a decent dinner?",
+      "excerpt": "However, I’m trying out Plant Jammer, an app that promises to rustle up a recipe based on whatever food you have lying around, using artificial intelligence. It searches three million recipes to find often-paired items.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-53794472",
+      "originalUrl": "https://www.bbc.com/news/business-53794472",
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E191/production/_113954775_53794472.jpg",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/business-53794472",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53794472",
+      "publishedDateTime": "2020-09-07T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life.md",
       "title": "4 Robotics ETFs to Buy as AI Tightens Grip Over All Spheres of Life",
       "excerpt": "We are living in an era largely dominated by AI applications and technological advancements. Amid the coronavirus crisis, demand for online services has increased which in turn has led to the dominance of the AI.",
@@ -474,7 +523,7 @@
       "webUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
       "originalUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
       "featuredContent": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1115,55 +1164,6 @@
         "name": "Montreal News",
         "domain": "montrealgazette.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence (AI) is a hot topic these days. Many companies rely on machine learning and deep data analysis to take their business operations to the next level. Other companies want to supply the needed tools to make a reality out of those AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F590693%2Fdata-security.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 1023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "publishedDateTime": "2020-09-05T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

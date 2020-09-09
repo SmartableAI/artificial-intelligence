@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Neousys Technology Launches NRU-120S, NVIDIA Jetson AGX Xavier Powered Edge AI Solution"
-excerpt: "NRU-120S series is a new rugged edge AI-based video analytics solution capable of video recording, transcoding, real-time inference, etc."
-publishedDateTime: 2020-09-08T21:23:00Z
-originalUrl: "https://www.embedded-computing.com/news/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution"
-webUrl: "https://www.embedded-computing.com/news/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution"
+excerpt: "According to the company, Neousys’ NRU-120S offers a solution for edge AI applications by providing a rugged, fanless platform consuming 30W while offering equivalent GPU performances to a mainstream 120W GPU. Neousys NRU-120S offers I/O connections."
+publishedDateTime: 2020-09-08T21:30:00Z
+originalUrl: "https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution"
+webUrl: "https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution"
 type: article
 quality: 31
 heat: 31
@@ -24,6 +24,6 @@ images:
     height: 462
     isCached: true
 
-secured: "GrVDqdQk+qF7kz4fAK7HEDxSxd0+FKi+dkr66wej82AUSLlkT/bHcopoVAN6TgSZPDfXK6L905Lgfs6mXIVLJZEn/RTtWPCm6rbJuSTintmqMH5zMZhN6gdGpvXYfWGk1yXY+KO0LWt69/MZ+FYq9jvEjOS++b12JugrD40Y7ntC8jVe7HIT0lLrpfwheaXJOsiHazBqAbhsmj1peL29QM7QgPoaefOX0K5ZClfQgOzc95YyMvhg5frybza3HdIusnz6kFn6iDH4n9qQgERVGA7pXo1euA1J3B6knpP52tN7k2qWVgDY5FYXWi3w24SZmrVljfdMTZJVhzH55tSURM1hA7emzDSYFgp2S0e4NsI=;tAzprpd9xVeMUmd6obzEqQ=="
+secured: "zQlvXvChl7lA0lOmmIJ0GXiPhZhG8075ehZPCnsRtUGONqTaPK+PGKB4hFY+RNFXMpuTlMnduHir29p6NVZH9AkI/vMsTyeuh5Dqbr6ROpw4Tx6ggcGQ4x91aA08JtuD6wKY1ZJCEUkO7DZiFxSNfUSY8udPfdFQ+aF3AXrujKOTeJxYwyk2kZku2J2+LELfrmHTsY7nev36bt4GcbJV79T4bQsDVct2g0YDLdxkXTB7MoiogupBSIHgsHt3q7XtDJVu7auXkhJcuvXcM1Hia9vbc4S9tfeRzDyzsHDM3M5doZBOm4Tgq1oSRLvIJr8wjIRRbhTu1Lqr5keS05YND2ae3jdiZEZJ44icZKIExm0=;qWLX3H6mvYyE0Z1R/QaDHg=="
 ---
 

@@ -2,23 +2,25 @@
 category: news
 title: "Telix Pharmaceuticals Enters Strategic Collaboration with Varian Medical Systems for Advanced Prostate Imaging"
 excerpt: "(GLOBE NEWSWIRE) -- Telix Pharmaceuticals Limited (ASX: TLX, ‘Telix’, the ‘Company’) today announced it has entered into a strategic collaboration agreement with Palo Alto-based Varian Medical Systems,"
-publishedDateTime: 2020-09-03T00:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/telix-pharmaceuticals-enters-strategic-collaboration-with-varian-medical-systems-for-advanced-prostate-imaging-1029558216"
-webUrl: "https://markets.businessinsider.com/news/stocks/telix-pharmaceuticals-enters-strategic-collaboration-with-varian-medical-systems-for-advanced-prostate-imaging-1029558216"
+publishedDateTime: 2020-09-03T00:00:00Z
+originalUrl: "https://apnews.com/9b9b175758637c609edb95d11560c242"
+webUrl: "https://apnews.com/9b9b175758637c609edb95d11560c242"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "MH2fQ9MyEGaOzCq8VtmI8RzLr6Fbsy3hlqsj55zsQQHs0zubaL2BSdwo+FklExLshf/26ADIVnt/UcLFV6W+NU3605zghjPZK79PPSIMX1dEvS1wCXuCIEuIPelDk2Q9z7a9Yh29sT/m6YCFM8qAUCRIhvzXI9NxOd2JmI3fHRvTWTjPnhO1E7aaAQ81psWyzpqIc6XwGXKN4unPDasCMztXzn6ZJ7e6Z6SA7UKmahEQfayffyCpjUTW57Gmj8duBUaeaMdwMgWYfRrOTY8lqL8WPxVVGMELjp6jPUa7+yqH3MF8p2LpvTXnPNfkGZFK7uivQCmkaV2Xjpd56gNJvc1Fhi34ITilNe1pokRgrIE=;hPcvxAoRE3RUggU+H3GsgA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "T7I2oIAznoc+m+dlGHqBOmB7jPj6MCF7O6uXNKbDc+fmsCg0iHdSS9JEB2HUh6IJhvXkLC0SHFs/gKgzNGlknsa8Vyj4jfZ6gmSjM/6NekGpkvWJjVe3zmXYi6QBXi4dIRfWMFQZky61g9+fGUz7+JA920MSULcyIkpIyPp2Lq5Ceq873+6vKlyS4g3xacD+2uv9dlwphGSSxk/MmSjWstJ7LD27+ryxuzhFwugRa1LvKwlsRswpprcQ6EVyT3+y+/qAmW0+yTAe3fZ5rPDhTguUvEdNPCJuMxK0XQrIExBmyUatbANI7bxup7QVDNMyBW040s2Lb4OJgwIQfeVS9MI6RBx0O47TdeFWPW2jCzI=;TvkGskH5ncgtY9hAZRKfCw=="
 ---
 

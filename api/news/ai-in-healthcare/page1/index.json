@@ -207,30 +207,30 @@
       "title": "Telix Pharmaceuticals Enters Strategic Collaboration with Varian Medical Systems for Advanced Prostate Imaging",
       "excerpt": "(GLOBE NEWSWIRE) -- Telix Pharmaceuticals Limited (ASX: TLX, ‘Telix’, the ‘Company’) today announced it has entered into a strategic collaboration agreement with Palo Alto-based Varian Medical Systems,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/telix-pharmaceuticals-enters-strategic-collaboration-with-varian-medical-systems-for-advanced-prostate-imaging-1029558216",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/telix-pharmaceuticals-enters-strategic-collaboration-with-varian-medical-systems-for-advanced-prostate-imaging-1029558216",
+      "webUrl": "https://apnews.com/9b9b175758637c609edb95d11560c242",
+      "originalUrl": "https://apnews.com/9b9b175758637c609edb95d11560c242",
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T17:14:00-07:00",
+      "publishedDateTime": "2020-09-02T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

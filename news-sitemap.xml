@@ -151,6 +151,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.bbc.com/news/business-53794472</loc>
+    <lastmod>2020-09-07T16:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07</loc>
     <lastmod>2020-09-07T14:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -403,6 +409,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://apnews.com/8cadd96d703080b0c317174623ac1fcb</loc>
+    <lastmod>2020-09-03T15:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/</loc>
     <lastmod>2020-09-03T14:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -637,14 +649,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/telix-pharmaceuticals-enters-strategic-collaboration-with-varian-medical-systems-for-advanced-prostate-imaging-1029558216</loc>
-    <lastmod>2020-09-02T17:14:00-07:00</lastmod>
+    <loc>https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/</loc>
+    <lastmod>2020-09-02T17:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/</loc>
-    <lastmod>2020-09-02T17:06:00-07:00</lastmod>
+    <loc>https://apnews.com/9b9b175758637c609edb95d11560c242</loc>
+    <lastmod>2020-09-02T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -913,6 +925,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.scpr.org/news/2020/09/01/94277/facebook-and-twitter-remove-russia-backed-accounts/</loc>
+    <lastmod>2020-09-01T15:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wsj.com/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924</loc>
     <lastmod>2020-09-01T14:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -921,12 +939,6 @@
   <url>
     <loc>https://www.pcmag.com/news/who-are-the-biggest-attention-hogs-on-cable-news-ask-this-new-ai-tool</loc>
     <lastmod>2020-09-01T13:18:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters</loc>
-    <lastmod>2020-09-01T13:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1357,7 +1369,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

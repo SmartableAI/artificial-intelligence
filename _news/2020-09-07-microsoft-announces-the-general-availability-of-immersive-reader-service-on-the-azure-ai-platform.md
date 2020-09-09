@@ -40,15 +40,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
-    excerpt: "Microsoft Azure customers will be able to use their existing ... Executive Vice President, Cloud and AI, at Microsoft."
-    publishedDateTime: 2020-09-08T23:55:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200909/3623233.html"
+  - title: "Nutanix Announces Microsoft Azure Partnership To Drive Seamless Hybrid Cloud Experience"
+    excerpt: "Nutanix has announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application, data, and license mobility as well as unified management across on-premises and Azure environments,"
+    publishedDateTime: 2020-09-09T01:46:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 66
+    images:
+      - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
+        width: 268
+        height: 250
+        isCached: true
+  - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
+    excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility."
+    publishedDateTime: 2020-09-08T17:53:00Z
+    webUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+    ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 54
   - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
     excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
     publishedDateTime: 2020-09-08T20:39:00Z

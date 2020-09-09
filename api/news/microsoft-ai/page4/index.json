@@ -2,6 +2,47 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-29-microsoft-gijima-launch-ai-varsity-programme-for-graduates.md",
+      "title": "Microsoft, Gijima launch AI varsity programme for graduates",
+      "excerpt": "The Central University of Technology has set up an artificial intelligence programme to help graduates create the next generation of intelligent solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/wbrpOqgY8YZ7DLZn",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/06/Lillian-Barnard-2020.jpg",
+          "width": 816,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.itweb.co.za/content/wbrpOqgY8YZ7DLZn",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/wbrpOqgY8YZ7DLZn",
+      "publishedDateTime": "2020-07-29T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-global-autonomous-data-platform-markets-2020-2025-impact-of-covid-19-and-analysis-by-organization-size-deployment-type-end-user-vertical.md",
       "title": "Global Autonomous Data Platform Markets, 2020-2025 - Impact of COVID-19 and Analysis by Organization Size, Deployment Type, End-user Vertical and Geography - ResearchAndMarkets.com",
       "excerpt": "The growing adoption of cognitive computing technology and advanced ... As autonomous data platforms and services help efficiently address these challenges, their adoption by retailers is expected ...",
@@ -1234,38 +1275,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton.md",
-      "title": "Microsoft (MSFT) Azure to Aid Digital Overhaul of Halliburton",
-      "excerpt": "In November 2019, Microsoft announced a strategic alliance with Baker Hughes and C3.ai to help the former develop and roll out solutions that combine Azure’s cloud computing capabilities with C3.ai’s AI platform. The joint offerings will help customers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp",
-      "publishedDateTime": "2020-07-20T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

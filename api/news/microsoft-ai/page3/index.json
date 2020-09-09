@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-17-microsoft-translator-now-supports-odia-total-11-languages-in-india-know-details.md",
+      "title": "Microsoft Translator now supports Odia, total 11 languages in India: Know details",
+      "excerpt": "Microsoft Translator enables professionals to enhance their business and customer interactions with text and speech translation powered by Translator and Microsoft Speech service, and Azure Cognitive Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
+      "originalUrl": "https://www.indiatvnews.com/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/microsoft-translator-indian-languages-1597657674.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
+      "publishedDateTime": "2020-08-17T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-16-riding-the-cognitive-wave.md",
       "title": "Riding the Cognitive Wave",
       "excerpt": "Many exciting new digital technologies have evolved rapidly this decade–potent mobile devices that perform a myriad of tasks, big data and analytics tools that crunch petabytes of data, and Internet of Things sensors that report continuously on everything from our cars to our coffee pots.",
@@ -1248,47 +1289,6 @@
       "provider": {
         "name": "Windows",
         "domain": "windowsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-microsoft-gijima-launch-ai-varsity-programme-for-graduates.md",
-      "title": "Microsoft, Gijima launch AI varsity programme for graduates",
-      "excerpt": "The Central University of Technology has set up an artificial intelligence programme to help graduates create the next generation of intelligent solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/wbrpOqgY8YZ7DLZn",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/06/Lillian-Barnard-2020.jpg",
-          "width": 816,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.itweb.co.za/content/wbrpOqgY8YZ7DLZn",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/wbrpOqgY8YZ7DLZn",
-      "publishedDateTime": "2020-07-29T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
         "images": null,
         "publishers": null,
         "authors": null

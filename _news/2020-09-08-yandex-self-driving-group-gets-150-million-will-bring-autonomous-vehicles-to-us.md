@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/amp/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -63,17 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Yandex Self Driving Group To Be Directly Owned By Yandex, Uber - Quick Facts"
-    excerpt: "(RTTNews) - Yandex N.V. (YNDX) and Uber (UBER) have entered into agreements to spin off the self-driving vehicles business, Yandex Self Driving Group B.V., from their joint venture, MLU B.V. Yandex will invest $150 million into Yandex SDG,"
-    publishedDateTime: 2020-09-04T08:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04"
-    ampWebUrl: "https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
 
 secured: "RIfhkCVMwvN4UwdZLmI95WAD04AsEvX39+ZdRKY5uZGbawTADCD6D7ZbUKbiioA3pdW4kpQU2/BuRaapLktaX076XW37epnmhBgrUaeSMkEqZruuebDQbw3/HyWsy+p5J3uCobPIF2SoHvQmlZT3JOUPTIrmONCuLDRaLIFonQUxEMKAOTaUC7l737OsZunzBXourkALkZM6HZFPzwQ1hNm0o4JglWT38nosHJk4xFsHw/3yEBAa4b5ROeSBVqQh+vGIsTz4K5U1qCFVcBzTFII4TBJe0Nblsj/M6Q0C3kBra7eztitEuGjUytkfbfsnWLaFLZoE+lwfAILu1+nj0MUhsYcDl08QCPlVa7oTSqbXPfXz8qrdq+68njoCVohT9N1nILamT9fNXrw/iw+Gu7D8nfs9NMHw2SsyEJzEt5f050BMni8fd+XvGi4U6sI2sG/7v0RUlMPpsfT0Z51SPE/AUUlHOeyHykWB3dffDk6CCSpESRJ7IUNTQx/Xl+OI+IcXIG4i/CIFhevbVtFzLB7dEizyqMFPYXzLfhpRDCs=;DB4ZweCSYHj/E/D/gaRYdw=="
 ---

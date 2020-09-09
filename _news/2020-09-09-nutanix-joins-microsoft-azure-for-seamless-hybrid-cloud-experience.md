@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
-excerpt: "Microsoft Azure customers will be able to use their existing ... Executive Vice President, Cloud and AI, at Microsoft."
-publishedDateTime: 2020-09-08T23:55:00Z
-originalUrl: "https://news.webindia123.com/news/articles/Science/20200909/3623233.html"
-webUrl: "https://news.webindia123.com/news/articles/Science/20200909/3623233.html"
+excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility."
+publishedDateTime: 2020-09-08T17:53:00Z
+originalUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+webUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Microsoft AI
@@ -32,6 +34,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Nutanix Announces Microsoft Azure Partnership To Drive Seamless Hybrid Cloud Experience"
+    excerpt: "Nutanix has announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application, data, and license mobility as well as unified management across on-premises and Azure environments,"
+    publishedDateTime: 2020-09-09T01:46:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 66
+    images:
+      - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
+        width: 268
+        height: 250
         isCached: true
   - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
     excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
@@ -57,6 +75,6 @@ related:
       domain: insidehpc.com
     quality: 34
 
-secured: "P+uaDCNpZtTdqAyskU6S1bzBYyu8Fxrqjr6c+7CttC5Bk0beisN64ljR5Ney4EcX0yCywHgiHvS7vyR8gocgEyjfVyZNHn/aGoAaUp+ac3NlleIUS+eN+FM2sq9tE2wyHy766iXMfh294QigHk5DHhpIUfGtHWt//p7s2fm25cxwyTJQr6E2vtYwBUaSWXBmyE2xwiSSBs5tcPSIrrs+ZUvBqazUXHTfewjHBifW/4UG6NQ4oshwA6uty6TUD5SmW0Pd5o4wu+aaCRejQx+rI3xYLTtCo5HhUaYRvrlTxzfp3k+ElTJi+ej58wv7eCujTKHXr3iOrLin03KoEBMOIIMjm7P1qmI8/F/PAhvOUmQ=;B4e9mXr9RrQKu5vX3k64kA=="
+secured: "jVj9OfdnHE8ANKzewkQlEVW8ho3jP/4YDN2YbNhaDQ+jz7tksMqjTWIRRd5NXmOJAQVhSnEDuIaxQYGaox1AwJSGBW/6tJRGhrlSsfHDpjQbbbaRJdKWUeS3TttPqkhJ2YSLjPJziznisB2OUKixsKs8Ma3nAoEZ/vdtuJs2p/ml8T1wIZHyxtBaE7rJRUagV90ROsFIfuW9NdeW1Po9IgS88hjrPEq6+coA4BOIQQ2EnwX2S2E04si/v3VtT6BHrqTiEgOlL6IEYuOZKRN5l1g74Yw75UWX8sGk1Qq6p7Rh3qdrxLxDMcF7yw8pWv6yWp+7f4P8GoR8TCTGuqBxd8i4pKWvwoAp7jsAbBmLJWY=;sQ9tBpS0uE/rM5VCOswD7w=="
 ---
 

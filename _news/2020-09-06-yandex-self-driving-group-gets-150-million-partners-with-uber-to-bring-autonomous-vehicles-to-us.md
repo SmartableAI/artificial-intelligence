@@ -63,17 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Yandex Self Driving Group To Be Directly Owned By Yandex, Uber - Quick Facts"
-    excerpt: "(RTTNews) - Yandex N.V. (YNDX) and Uber (UBER) have entered into agreements to spin off the self-driving vehicles business, Yandex Self Driving Group B.V., from their joint venture, MLU B.V. Yandex will invest $150 million into Yandex SDG,"
-    publishedDateTime: 2020-09-04T08:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04"
-    ampWebUrl: "https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
 
 secured: "Pir5Vdnt1SJI+W/NmY5oBdlNk53AylvawXfSwOwnI9n3FAeELBgJsZ6pQM9pcQzG59Bs4NplD9FlrD3grbET+ToNfYfqe1PMJFdDY+xIL7CuvaSS/Phbh/yTWBEG7xoLaMp/cID+E2SdhtdApgaoFILuSuKZehDwHImQFdp89ALEuZLImo0i9vMe4IW4XdoKc5h2vxOPjsUDzeGpcetAFCVw8v8ToVFqh7kh0flD6xi4rV1evXFpPK/Jz2IOiljruIEwffqqk3vfBzGg+f/T/5Z++tnYdWS11hjPgmv8vIK3vHiHELzWzHq0Q0QktcpELv2h95jJrHJhJTglSUJjX+2sten5d9piRlDf4sV7La0HuOBQ3c/ZsGzbLgNZelvHvzxj6ftPVkwxLH0KVE36pm5D7wBioRFSPS5xO58uM8fa9BJEKb+MI40HaM5yyEgtefDjHqCfWLTAZMvYQcWHsFtBPCewiencSkyysMd8KD/vySb+9jjSid2mjv7r0i1ksWqLR6q7p6iLzIOvv5Rxx4EW0oLvkiHIleGsCp9VVAI=;+SGwieh83TBME3Jz1M7bVg=="
 ---
