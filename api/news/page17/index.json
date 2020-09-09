@@ -2,6 +2,56 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-08-26-microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services.md",
+      "title": "Microsoft Word: How the new transcription feature works and how it compares to other services",
+      "excerpt": "Word can now turn a conversation or meeting into text ready to use in a document, but that might not come to desktop Word for a while.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
+      "featuredContent": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/08/26/6edd296a-482a-40b9-837f-6715b2869887/resize/400x/5cfb2e68f8e346a2d980b56f4a756443/word-transcribe-desktop.jpg",
+          "width": 400,
+          "height": 521,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
+      "publishedDateTime": "2020-08-26T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-3-strategies-for-enterprise-ai-success.md",
       "title": "3 strategies for enterprise AI success",
       "excerpt": "Especially during turbulent times, AI enables companies to draw customers closer, streamline to reduce costs, and become more agile than competitors.",
@@ -1139,56 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-waymo-self-driving-trucks-hit-the-road-in-texas.md",
-      "title": "Waymo self-driving trucks hit the road in Texas",
-      "excerpt": "After deploying its autonomous Chrysler Pacifica prototypes to map roads, Waymo has sent its trucks to Texas interstates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-trucks-texas/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-trucks-texas/",
-      "featuredContent": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/5wSlvlns80O2HBjERxttfvennYQ=/2020/08/25/eda611e2-7365-4317-b88e-79282708064a/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-trucks-texas/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-trucks-texas/",
-      "publishedDateTime": "2020-08-25T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

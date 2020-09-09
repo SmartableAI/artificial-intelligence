@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-09-voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom.md",
+      "title": "Voice assistants don’t work for kids: The problem with speech recognition in the classroom",
+      "excerpt": "Young \"remote learners\" often struggle to navigate the keyboards, menus, and interfaces required to make good on the promise of education technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/09/voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom/",
+      "originalUrl": "https://techcrunch.com/2020/09/09/voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom/",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/vocalpitchchangeswithage.jpg?w=680",
+          "width": 680,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/09/voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/09/voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom/amp/",
+      "publishedDateTime": "2020-09-09T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware.md",
       "title": "Researchers’ data set pinpoints challenges adapting speech recognition models to new hardware",
       "excerpt": "Researchers developed a data set -- Libra-Adapt -- designed to show the challenges in adapting voice recognition models to new devices and settings.",
@@ -1402,56 +1452,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-why-the-nonprofit-openai-made-gpt-3-a-commercial-product.md",
-      "title": "Why the nonprofit OpenAI made GPT-3 a commercial product",
-      "excerpt": "A program that can automate website development. A bot that writes letters on behalf of nature. An AI-written blog that trended on Hacker News. Those are just some of the recent stories written about GPT-3,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/24/why-the-nonprofit-openai-made-gpt-3-a-commercial-product-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/image-2-3-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/24/why-the-nonprofit-openai-made-gpt-3-a-commercial-product-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/24/why-the-nonprofit-openai-made-gpt-3-a-commercial-product-syndication/amp/",
-      "publishedDateTime": "2020-08-24T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

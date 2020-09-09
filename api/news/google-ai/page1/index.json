@@ -837,18 +837,18 @@
     {
       "path": "_news/2020-08-26-tachyum-prodigy-native-ai-supports-tensorflow-and-pytorch.md",
       "title": "Tachyum Prodigy Native AI Supports TensorFlow and PyTorch",
-      "excerpt": "--(BUSINESS WIRE)--Tachyum™ Inc. today announced that it has further expanded the capabilities of its Prodigy Universal Processor through support for TensorFlow and PyTorch ...",
+      "excerpt": "SANTA CLARA, Calif., August 26, 2020 – Tachyum Inc. announced that it has further expanded the capabilities of its Prodigy Universal Processor through support for TensorFlow and PyTorch environments, enabling a faster, less expensive and more dynamic ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200826005129/en/Tachyum-Prodigy-Native-AI-Supports-TensorFlow-PyTorch",
-      "originalUrl": "https://www.businesswire.com/news/home/20200826005129/en/Tachyum-Prodigy-Native-AI-Supports-TensorFlow-PyTorch",
+      "webUrl": "https://www.hpcwire.com/off-the-wire/tachyum-prodigy-native-ai-supports-tensorflow-and-pytorch/",
+      "originalUrl": "https://www.hpcwire.com/off-the-wire/tachyum-prodigy-native-ai-supports-tensorflow-and-pytorch/",
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mms.businesswire.com/media/20200826005129/en/665930/23/tachylogoa.jpg",
-          "width": 1200,
-          "height": 627,
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png",
+          "width": 440,
+          "height": 440,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -857,11 +857,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T05:09:00-07:00",
+      "publishedDateTime": "2020-08-26T09:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
         "images": null,
         "publishers": null,
         "authors": null

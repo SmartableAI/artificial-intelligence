@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/translating-scanned-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/translating-scanned-pdf-documents-using-amazon-translate-and-amazon-textract/"
 type: article
 quality: 104
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "EY is transforming the transaction diligence process with Watson"
+    excerpt: "At EY, our teams look to help clients solve their toughest issues. In a fast-changing and data-driven world, we give them the support they need to reimagine their ecosystems, reshape their portfolios and reinvent themselves for a better future. When considering a transaction, clients are typically evaluating"
+    publishedDateTime: 2020-09-09T17:29:41Z
+    webUrl: "https://www.ibm.com/blogs/watson/2020/09/ey-is-transforming-the-transaction-diligence-process-with-watson/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 117
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/2020_07_15_EY_Blog_Leadspace_v2.jpg"
+        width: 990
+        height: 498
+        isCached: true
   - title: "Five ways Artificial Intelligence is transforming finance"
     excerpt: "Artificial intelligence (AI), machine learning (ML) and deep neural networking (DNN) are disrupting businesses and challenging traditional values in the financial industry."
     publishedDateTime: 2020-09-08T10:00:00Z

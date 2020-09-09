@@ -2,6 +2,56 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2020-07-20-artificial-intelligence-market-size-is-expected-to-exhibit-54-billion-usd-by-2026.md",
+      "title": "Artificial Intelligence Market Size is Expected to Exhibit 54 billion USD by 2026",
+      "excerpt": "Jul 20, 2020 (Market Insight Reports) -- Selbyville, Delaware According to Market Study Report LLC adds new research on Artificial Intelligence market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-is-expected-to-exhibit-54-billion-usd-by-2026-2020-07-20",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-why-facial-recognition-algorithms-cant-be-perfectly-fair.md",
       "title": "Why facial recognition algorithms can’t be perfectly fair",
       "excerpt": "In June 2020, a facial recognition algorithm led to the wrongful arrest of Robert Williams, an African-American, for a crime he did not commit. After a shoplifting incident in in a pricey area of ...",
@@ -1059,47 +1109,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs.md",
-      "title": "Google Launches AI Tool that Translates Ancient Egyptian Hieroglyphs",
-      "excerpt": "The new AI-powered tool from Google decodes ancient Egyptian hieroglyphics, and even lets you translate modern words and emojis into the 5,000-year-old symbols. The tool works by analysing historical records and definitions of the language. It explores the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2020/07/75c5eeba-ancient-egyptian-gods-and-heiroglyphs.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/amp/",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/amp/",
-      "publishedDateTime": "2020-07-20T00:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

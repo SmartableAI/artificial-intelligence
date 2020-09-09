@@ -2,6 +2,106 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-09-facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution.md",
+      "title": "Facial Recognition Development In Wasps Hints At A Mystery Of Human Evolution",
+      "excerpt": "Scientists have long wondered how prehistoric humans quickly unstuck themselves from the Stone Age and rapidly became as intellectually and socially capable as modern humans. Recent discoveries about wasps and their cognitive abilities may hold a clue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/",
+      "originalUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/",
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5658c0f32434bb6ab132bf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1882%26cropY1%3D728%26cropY2%3D1785",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/",
+      "publishedDateTime": "2020-09-08T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-what-do-the-server-quarterly-earnings-tell-us.md",
+      "title": "What Do The Server Quarterly Earnings Tell Us?",
+      "excerpt": "As one could probably tell from my opening statement, I'm not, nor do I pretend to be a financial analyst. My lens on quarterly financials is that of a techie with interest. But, I do believe that following the individual company's earnings and PowerPoint slides used to drive earnings calls can tell a lot about that company's focus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f57e0172f22243576d10081%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D875%26cropY1%3D26%26cropY2%3D518",
+          "width": 875,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/amp/",
+      "publishedDateTime": "2020-09-08T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-sea-tac-airport-rolls-out-self-driving-floor-cleaners-restroom-stall-lights-and-more-pandemic-safety-tech.md",
       "title": "Sea-Tac Airport rolls out self-driving floor cleaners, restroom stall lights and more pandemic safety tech",
       "excerpt": "In addition to the thousands of gallons of hand sanitizer being dispensed around Seattle-Tacoma International Airport, the Port of Seattle is turning to a few new high-tech approaches to cleaning",
@@ -49,56 +149,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-translating-pdf-documents-using-amazon-translate-and-amazon-textract.md",
-      "title": "Translating PDF documents using Amazon Translate and Amazon Textract",
-      "excerpt": "In 1993, the Portable Document Format or the PDF was born and released to the world. Since then, companies across various industries have been creating, scanning, and storing large volumes of documents in this digital format. These documents and the content within them are vital to supporting your business.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translating-scanned-pdf-documents-using-amazon-translate-and-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translating-scanned-pdf-documents-using-amazon-translate-and-amazon-textract/",
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/19/TranslatePDF_Arch-1.png",
-          "width": 515,
-          "height": 243,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T11:29:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -916,7 +966,7 @@
       "webUrl": "https://findingrover.com/",
       "originalUrl": "https://www.11alive.com/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3",
       "featuredContent": null,
-      "heat": 169,
+      "heat": 189,
       "tags": null,
       "images": null,
       "type": "article",
@@ -1137,56 +1187,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture.md",
-      "title": "Content Moderation Solutions Market 2020 Is Booming Worldwide | Leading Key Players – Cogito, Microsoft Azure, Clarifai, Cognizant, Accenture",
-      "excerpt": "The report provides a detailed assessment of the 'Global Content Moderation Solutions Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-07T19:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

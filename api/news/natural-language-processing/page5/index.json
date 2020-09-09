@@ -2,6 +2,56 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-27-how-to-unlock-your-iphone-without-a-pin-or-face-recognition.md",
+      "title": "How to unlock your iPhone without a PIN or face recognition",
+      "excerpt": "Wearing a mask can be a pain when trying to unlock an iPhone using Face ID. Here's how to unlock your iPhone without a PIN or face recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?itm_source=8&itm_content=1x6&itm_term=2361344",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/man-checking-phone-with-mask-getty-1200x630-c-ar1.91-w.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?amp",
+      "publishedDateTime": "2020-07-27T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-expert-system-releases-expertai-natural-language-api.md",
       "title": "Expert System Releases expert.ai Natural Language API",
       "excerpt": "The global Artificial Intelligence company Expert System today announced the release of the expert.ai NL API, the cloud-based Natural",
@@ -1358,57 +1408,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-artie-releases-tool-to-measure-bias-in-speech-recognition-models.md",
-      "title": "Artie releases tool to measure bias in speech recognition models",
-      "excerpt": "Researchers at Artie released a tool to detect bias in speech recognition systems. In a proof of concept, they find evidence of bias in a Google model.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/home-mini-aqua.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/amp/",
-      "publishedDateTime": "2020-07-15T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

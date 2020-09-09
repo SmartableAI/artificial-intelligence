@@ -34,6 +34,22 @@ related:
       name: 11Alive
       domain: 11alive.com
     quality: 119
+  - title: "NIST benchmarks show facial recognition technology still struggles to identify Black faces"
+    excerpt: "NIST benchmarks suggest some facial recognition algorithms haven't corrected historic bias -- and are actually getting worse."
+    publishedDateTime: 2020-09-09T17:08:00Z
+    webUrl: "https://venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/"
+    ampWebUrl: "https://venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 601
+        isCached: true
   - title: "Dems Propose 5-Year Wait On Facial Recognition Technology"
     excerpt: "State legislators want a five-year moratorium on use of any system that would pair facial recognition or biometric surveillance systems on police body cameras. A.10913/S.6776 was introduced in the state Assembly and Senate recently by Assemblywoman Nathalia Fernandez,"
     publishedDateTime: 2020-09-07T05:31:00Z
@@ -61,6 +77,22 @@ related:
       - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/09/facialreco.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "LifeLine Animal Project is using facial recognition tech to reunite lost pets with their owners"
+    excerpt: "LifeLine Animal Project is using the latest in facial recognition technology to help reunite pets with their owners."
+    publishedDateTime: 2020-09-09T15:38:00Z
+    webUrl: "https://www.mdjonline.com/neighbor_newspapers/lifeline-animal-project-is-using-facial-recognition-tech-to-reunite-lost-pets-with-their-owners/article_8ceffe66-f2b2-11ea-9144-9f201222e4ea.html"
+    ampWebUrl: "https://www.mdjonline.com/neighbor_newspapers/lifeline-animal-project-is-using-facial-recognition-tech-to-reunite-lost-pets-with-their-owners/article_8ceffe66-f2b2-11ea-9144-9f201222e4ea.amp.html"
+    cdnAmpWebUrl: "https://www-mdjonline-com.cdn.ampproject.org/c/s/www.mdjonline.com/neighbor_newspapers/lifeline-animal-project-is-using-facial-recognition-tech-to-reunite-lost-pets-with-their-owners/article_8ceffe66-f2b2-11ea-9144-9f201222e4ea.amp.html"
+    type: article
+    provider:
+      name: Marietta Daily Journal
+      domain: mdjonline.com
+    quality: 47
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/9/b2/9b219aca-f2b3-11ea-a402-57cc48af7413/5f58f907707d3.image.jpg?crop=588%2C481%2C0%2C926"
+        width: 588
+        height: 481
         isCached: true
   - title: "Council to consider banning Face Recognition Technologies"
     excerpt: "The City Council is scheduled to consider what may be the strongest bans on facial recognition technologies in the county on Wednesday. One ordinance would prohibit the acquisition and use of such technologies by city bureaus."

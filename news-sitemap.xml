@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.ibm.com/blogs/watson/2020/09/ey-is-transforming-the-transaction-diligence-process-with-watson/</loc>
+    <lastmod>2020-09-09T10:29:41-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/</loc>
+    <lastmod>2020-09-09T10:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/09/09/voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom/</loc>
+    <lastmod>2020-09-09T09:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/</loc>
+    <lastmod>2020-09-09T09:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/</loc>
     <lastmod>2020-09-09T08:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,12 +33,6 @@
   <url>
     <loc>https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/</loc>
     <lastmod>2020-09-09T08:16:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/</loc>
-    <lastmod>2020-09-09T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -109,12 +127,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09</loc>
-    <lastmod>2020-09-09T02:10:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575?cid=sm_npd_nn_tw_ma</loc>
     <lastmod>2020-09-09T01:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -153,12 +165,6 @@
   <url>
     <loc>https://www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/</loc>
     <lastmod>2020-09-08T11:51:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://aws.amazon.com/blogs/machine-learning/translating-scanned-pdf-documents-using-amazon-translate-and-amazon-textract/</loc>
-    <lastmod>2020-09-08T11:29:44-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2179,6 +2185,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.thestar.com.my/tech/tech-news/2020/08/27/vw-to-test-fleet-of-self-driving-cars-in-chinas-newest-ev-hub</loc>
+    <lastmod>2020-08-26T23:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/</loc>
     <lastmod>2020-08-26T19:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2251,12 +2263,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bloomberg.com/news/articles/2020-08-26/vw-to-test-fleet-of-self-driving-cars-in-china-s-newest-ev-hub</loc>
-    <lastmod>2020-08-26T10:17:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems</loc>
     <lastmod>2020-08-26T10:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2265,6 +2271,12 @@
   <url>
     <loc>https://www.techrepublic.com/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/</loc>
     <lastmod>2020-08-26T09:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.hpcwire.com/off-the-wire/tachyum-prodigy-native-ai-supports-tensorflow-and-pytorch/</loc>
+    <lastmod>2020-08-26T09:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2385,12 +2397,6 @@
   <url>
     <loc>https://www.morningstar.com/news/business-wire/20200826005444/outlook-on-the-self-driving-taxi-global-market-to-2024-key-drivers-challenges-trends-researchandmarketscom</loc>
     <lastmod>2020-08-26T05:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businesswire.com/news/home/20200826005129/en/Tachyum-Prodigy-Native-AI-Supports-TensorFlow-PyTorch</loc>
-    <lastmod>2020-08-26T05:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

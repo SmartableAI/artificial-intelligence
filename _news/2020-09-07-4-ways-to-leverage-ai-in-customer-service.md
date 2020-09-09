@@ -7,7 +7,7 @@ originalUrl: "https://www.fieldtechnologiesonline.com/doc/ways-to-leverage-ai-in
 webUrl: "https://www.fieldtechnologiesonline.com/doc/ways-to-leverage-ai-in-customer-service-0001"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,40 @@ images:
     width: 450
     height: 300
     isCached: true
+
+related:
+  - title: "16 Smart Ways You Can Leverage AI To Boost Your Business"
+    excerpt: "AI offers the best way for companies to automate repetitive processes and gain insight into their customer bases."
+    publishedDateTime: 2020-09-09T17:11:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f58d99ecc7cbb59fb09fee4%2F0x0.jpg"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Is Artificial Intelligence the Right Investment For Your Business?"
+    excerpt: "Artificial Intelligence is quickly becoming a reality for businesses of all shapes and sizes. With the massive amounts of"
+    publishedDateTime: 2020-09-08T21:19:00Z
+    webUrl: "https://www.business2community.com/business-innovation/is-artificial-intelligence-the-right-investment-for-your-business-02343493"
+    ampWebUrl: "https://www.business2community.com/business-innovation/is-artificial-intelligence-the-right-investment-for-your-business-02343493/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/is-artificial-intelligence-the-right-investment-for-your-business-02343493/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 59
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2020/09/artificial-intelligence-right-investment-for-business.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "mqvIYClr0p4HhQGrJ4/WGIWFSnPf1AY/QkU+fNKSaasccak5KiBWL1ek8yIj0aFwYNLxhNHZjBP8c6/KjJROqmpl12xfm56JaTxD0s1YRKb4F7Rbzx4g4L4+3kn6493pGvdYMRwoAfLp1aXJ6oRZZ8dv9qBmm41HwVstMz6kcZuCl+gnKnerfRnQcNCkv/MUXLzY4RPjpG1uRQZ646agqU2mCBxPnUlj4ctn9/RYMpCmtrBCzpi/IW29SZXS9A2ZylOOkF89hdeQj/hsarK54A6kcJCvvg+9LtROrKGnWf3QSa0rsAS02FWQhuu2jBupkTw0jPLfS1eRRHfvl5PNk+b/sCzHf3nBdxseNF+6UX/xHfjGpUJt0B8Tn78sgkwkK+PVpnq+jMmiPTeSTNxLZf67Y18RsnZXj/T5qKZrVjD+15RU5K4yFD2JraZ46eXy7c9kQhKwLQcVFshbBR3+uhUkor6CtKOZS2UJyXnwqS/Rcisj4jKqNTm7H3SiMNjqwqKAnVxcUoLbf+sz1pA6ZlzAFJzjNAbwW5ED5VaMYik=;ie5V6hBW++OHrjPD73yChA=="
 ---

@@ -1223,6 +1223,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-27-vw-to-test-fleet-of-self-driving-cars-in-chinas-newest-ev-hub.md",
+      "title": "VW to test fleet of self-driving cars in China’s newest EV hub",
+      "excerpt": "Some of the nation’s biggest names in tech, including Baidu Inc, also are pushing into ... VW announced five planks to underpin the project: self-driving system, battery-electrified vehicle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/08/27/vw-to-test-fleet-of-self-driving-cars-in-chinas-newest-ev-hub",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/08/27/vw-to-test-fleet-of-self-driving-cars-in-chinas-newest-ev-hub",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2020/08/27/835650.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-26T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-this-self-driving-golf-ball-will-make-you-want-to-enter-the-masters.md",
       "title": "This ‘self-driving’ golf ball will make you want to enter the Masters",
       "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
@@ -1311,56 +1352,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-vw-to-test-fleet-of-self-driving-cars-in-chinas-newest-ev-hub.md",
-      "title": "VW to Test Fleet of Self-Driving Cars in China’s Newest EV Hub",
-      "excerpt": "Some of the nation’s biggest names in tech, including Baidu Inc., also are pushing ... VW announced five planks to underpin the project: self-driving system, battery-electrified vehicle, fleet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-26/vw-to-test-fleet-of-self-driving-cars-in-china-s-newest-ev-hub",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-26/vw-to-test-fleet-of-self-driving-cars-in-china-s-newest-ev-hub",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic9s3ksvnN8A/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-26/vw-to-test-fleet-of-self-driving-cars-in-china-s-newest-ev-hub",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-26/vw-to-test-fleet-of-self-driving-cars-in-china-s-newest-ev-hub",
-      "publishedDateTime": "2020-08-26T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {

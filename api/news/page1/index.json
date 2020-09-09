@@ -2,6 +2,195 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-09-ey-is-transforming-the-transaction-diligence-process-with-watson.md",
+      "title": "EY is transforming the transaction diligence process with Watson",
+      "excerpt": "At EY, our teams look to help clients solve their toughest issues. In a fast-changing and data-driven world, we give them the support they need to reimagine their ecosystems, reshape their portfolios and reinvent themselves for a better future. When considering a transaction, clients are typically evaluating",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/09/ey-is-transforming-the-transaction-diligence-process-with-watson/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/ey-is-transforming-the-transaction-diligence-process-with-watson/",
+      "featuredContent": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/2020_07_15_EY_Blog_Leadspace_v2.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T10:29:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-16-smart-ways-you-can-leverage-ai-to-boost-your-business.md",
+      "title": "16 Smart Ways You Can Leverage AI To Boost Your Business",
+      "excerpt": "AI offers the best way for companies to automate repetitive processes and gain insight into their customer bases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/",
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f58d99ecc7cbb59fb09fee4%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/amp/",
+      "publishedDateTime": "2020-09-09T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom.md",
+      "title": "Voice assistants don’t work for kids: The problem with speech recognition in the classroom",
+      "excerpt": "Young \"remote learners\" often struggle to navigate the keyboards, menus, and interfaces required to make good on the promise of education technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/09/voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom/",
+      "originalUrl": "https://techcrunch.com/2020/09/09/voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom/",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/vocalpitchchangeswithage.jpg?w=680",
+          "width": 680,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/09/voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/09/voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom/amp/",
+      "publishedDateTime": "2020-09-09T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-quizlet-is-betting-ai-machine-learning-can-tutor-students-close-homework-gap.md",
+      "title": "Quizlet is betting AI, machine learning can tutor students, close homework gap",
+      "excerpt": "Quizlet is launching Quizlet Learning Assistant, a set of new product features that will combine machine learning and learning science to better tutor students. Learning Assistant",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/",
+      "originalUrl": "https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/",
+      "featuredContent": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/",
+      "publishedDateTime": "2020-09-09T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-facebook-and-dolby-join-amazons-voice-interoperability-initiative.md",
       "title": "Facebook and Dolby join Amazon’s Voice Interoperability Initiative",
       "excerpt": "More than 70 companies now count themselves, members of Amazon's Voice Interoperability Initiative, which recently published a design guide.",
@@ -98,56 +287,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-is-ambarella-an-underappreciated-artificial-intelligence-chip-stock.md",
-      "title": "Is Ambarella an Underappreciated Artificial Intelligence Chip Stock?",
-      "excerpt": "The image processing chipmaker is betting heavily on the AI market, but can it keep pace with its bigger competitors?",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F590824%2Fgettyimages-1145990155.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "publishedDateTime": "2020-09-09T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -846,56 +985,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-09-artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030.md",
-      "title": "Artificial Intelligence in Healthcare Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030",
-      "excerpt": "The Artificial Intelligence in Healthcare market report provides analysis for the period 2018-2030, where in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09",
-      "featuredContent": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-09-09-computer-chips-that-can-read-our-brains-have-moved-from-sci-fi-to-reality-for-better-and-worse.md",
       "title": "Computer chips that can read our brains have moved from sci-fi to reality, for better and worse",
       "excerpt": "The near-term applications will mostly benefit society, but the danger of a dystopian future is becoming more real, too.",
@@ -1053,106 +1142,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution.md",
-      "title": "Facial Recognition Development In Wasps Hints At A Mystery Of Human Evolution",
-      "excerpt": "Scientists have long wondered how prehistoric humans quickly unstuck themselves from the Stone Age and rapidly became as intellectually and socially capable as modern humans. Recent discoveries about wasps and their cognitive abilities may hold a clue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/",
-      "originalUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/",
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5658c0f32434bb6ab132bf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1882%26cropY1%3D728%26cropY2%3D1785",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/",
-      "publishedDateTime": "2020-09-08T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-what-do-the-server-quarterly-earnings-tell-us.md",
-      "title": "What Do The Server Quarterly Earnings Tell Us?",
-      "excerpt": "As one could probably tell from my opening statement, I'm not, nor do I pretend to be a financial analyst. My lens on quarterly financials is that of a techie with interest. But, I do believe that following the individual company's earnings and PowerPoint slides used to drive earnings calls can tell a lot about that company's focus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f57e0172f22243576d10081%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D875%26cropY1%3D26%26cropY2%3D518",
-          "width": 875,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/amp/",
-      "publishedDateTime": "2020-09-08T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

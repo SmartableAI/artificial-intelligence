@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "EY is transforming the transaction diligence process with Watson"
+    excerpt: "At EY, our teams look to help clients solve their toughest issues. In a fast-changing and data-driven world, we give them the support they need to reimagine their ecosystems, reshape their portfolios and reinvent themselves for a better future. When considering a transaction, clients are typically evaluating"
+    publishedDateTime: 2020-09-09T17:29:41Z
+    webUrl: "https://www.ibm.com/blogs/watson/2020/09/ey-is-transforming-the-transaction-diligence-process-with-watson/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 117
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/2020_07_15_EY_Blog_Leadspace_v2.jpg"
+        width: 990
+        height: 498
+        isCached: true
   - title: "Translating PDF documents using Amazon Translate and Amazon Textract"
     excerpt: "In 1993, the Portable Document Format or the PDF was born and released to the world. Since then, companies across various industries have been creating, scanning, and storing large volumes of documents in this digital format. These documents and the content within them are vital to supporting your business."
     publishedDateTime: 2020-09-08T18:29:44Z

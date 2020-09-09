@@ -2,6 +2,56 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-07-31-aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing.md",
+      "title": "AWS And Vodafone Focuses On Unlocking Enterprise Opportunity With 5G And Edge Computing",
+      "excerpt": "AWS Wavelength provides developers with the ability to build ... \"Responsiveness matters when it comes to artificial intelligence, augmented and virtual reality, video analytics, autonomous vehicles, robotics and drone control. These applications require ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/maribellopez/2020/07/31/aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f24b122319cd74a70cf29d5%2F0x0.jpg",
+          "width": 1199,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2020/07/31/aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2020/07/31/aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing/amp/",
+      "publishedDateTime": "2020-07-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-medical-vampire-robot-seeks-human-vein-inserts-needle-sucks-blood.md",
       "title": "Medical “Vampire” Robot Seeks Human Vein, Inserts Needle, Sucks Blood",
       "excerpt": "The Glow NN compiler does better than TensorFlow Lite for comparable ML models (see figure). The i.MX RT685 includes a Tenisilica HiFi4 DSP that delivers the major performance advantage over non ...",
@@ -1064,56 +1114,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-machine-learning-and-organizational-change-at-southern-california-edison.md",
-      "title": "Machine Learning And Organizational Change At Southern California Edison",
-      "excerpt": "The team took all the time needed to get stakeholders engaged. Moore came into the project in the summer of 2018, and he was able to get a machine learning model up and running in a month or so, but presenting it, socializing it, and gaining buy-in for it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/07/30/machine-learning-and-organizational-change-at-southern-california-edison/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f22d3eeae7184e9e77bca33%2F0x0.jpg",
-          "width": 1200,
-          "height": 889,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/07/30/machine-learning-and-organizational-change-at-southern-california-edison/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/07/30/machine-learning-and-organizational-change-at-southern-california-edison/amp/",
-      "publishedDateTime": "2020-07-30T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
