@@ -2,6 +2,97 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-08-facial-recognition-technology-for-pets-is-launched-in-atlanta.md",
+      "title": "Facial recognition technology for pets is launched in Atlanta",
+      "excerpt": "In addition to Finding Rover, LifeLine has implemented a \"Lost & Found\" matchmaking program where they check pets reported as lost against those in shelters daily. A new Lost2Foun",
+      "sourceUrl": null,
+      "webUrl": "https://www.11alive.com/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3",
+      "originalUrl": "https://www.11alive.com/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.11alive.com/assets/WXIA/images/32fcf5e8-6a95-445f-86b8-a7f69f97af91/32fcf5e8-6a95-445f-86b8-a7f69f97af91_750x422.png",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.11alive.com/amp/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3",
+      "cdnAmpWebUrl": "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3",
+      "publishedDateTime": "2020-09-07T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "11Alive",
+        "domain": "11alive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-10-ways-ai-improves-pricing-and-revenue-management.md",
+      "title": "10 Ways AI Improves Pricing And Revenue Management",
+      "excerpt": "The global Revenue Management market is expected to grow from $14.5B in 2019 to $22.4B by 2024, attaining a Compound Annual Growth Rate (CAGR) of 9.6%. BCG found that automating revenue management systems' pricing rules with AI can increase revenues up to 5% in less than nine months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f56f0b6dc8bdaa63c303cbb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3840%26cropY1%3D0%26cropY2%3D2160",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/amp/",
+      "publishedDateTime": "2020-09-07T20:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture.md",
       "title": "Content Moderation Solutions Market 2020 Is Booming Worldwide | Leading Key Players – Cogito, Microsoft Azure, Clarifai, Cognizant, Accenture",
       "excerpt": "The report provides a detailed assessment of the 'Global Content Moderation Solutions Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,",
@@ -233,7 +324,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07",
       "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07",
       "featuredContent": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -272,6 +363,105 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-ai-in-fintech-market-to-see-remarkable-growth-by-2025-amazon-web-services-inbenta-technologies-ipsoft.md",
+      "title": "AI in Fintech Market To See Remarkable Growth By 2025 | Amazon Web Services, Inbenta Technologies, IPsoft",
+      "excerpt": "An extensive elaboration of the Global AI in Fintech market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-to-see-remarkable-growth-by-2025-amazon-web-services-inbenta-technologies-ipsoft-2020-09-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-to-see-remarkable-growth-by-2025-amazon-web-services-inbenta-technologies-ipsoft-2020-09-07",
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-07T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-kick-ass-creator-mark-millar-backs-ai-cameras-in-scottish-football.md",
+      "title": "Kick-Ass creator Mark Millar backs AI cameras in Scottish football",
+      "excerpt": "Ass and Wanted to the big screen, and now he's taking Albion Rovers to your living room via robot cameras. Comic book writer and Hollywood producer Mark Millar is behind a far-out idea that will transport fans to Cliftonhill and other lower league grounds throughout Scotland.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/sport/football/54062392",
+      "originalUrl": "https://www.bbc.com/sport/football/54062392",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/A8F9/production/_114275234_gettyimages-479336231.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/sport/amp/football/54062392",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/football/54062392",
+      "publishedDateTime": "2020-09-07T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -432,7 +622,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/",
       "featuredContent": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -860,8 +1050,8 @@
       "title": "Nvidia tells us more about how well the RTX 3090 GPU performs 8K gaming",
       "excerpt": "Nvidia’s GeForce RTX 3090 launch saw the firm declare that its top-end Ampere graphics card can handle 8K gaming smoothly – meaning at 60 frames per second (fps) – but now further details have been shared on what kind of frame-rates we can expect with various games,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
-      "originalUrl": "https://www.techradar.com/in/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
+      "webUrl": "https://www.techradar.com/au/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
+      "originalUrl": "https://www.techradar.com/au/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
       "featuredContent": null,
       "heat": 89,
       "tags": null,
@@ -876,8 +1066,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
       "publishedDateTime": "2020-09-06T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1003,195 +1193,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers.md",
-      "title": "How Adobe is using an AI chatbot to support its 22,000 remote workers",
-      "excerpt": "When the COVID-19 shutdown began in March, my team at Adobe realized we had to completely rethink our support infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/",
-      "originalUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/chatbot.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/amp/",
-      "publishedDateTime": "2020-09-05T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-google-is-creating-a-microscope-with-ai-and-ar-to-help-detect-cancer.md",
-      "title": "Google is creating a microscope with AI and AR to help detect cancer",
-      "excerpt": "Google plans to train an AI using the open-source platform TensorFlow to detect cancerous cells in photos taken from a microscope. They’ve already started developing the neural networks by using the Google Cloud Healthcare API to de-identify and segment",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
-      "originalUrl": "https://www.techspot.com/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/09/2020-09-05-image-3.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
-      "publishedDateTime": "2020-09-05T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-can-big-data-analytics-and-machine-learning-help-contain-wildfire-next-time.md",
-      "title": "Can Big Data Analytics and Machine Learning Help Contain Wildfire Next Time?",
-      "excerpt": "Researchers are developing tools to predict wildfire leveraging technology, real-time data to prevent devastation",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
-      "originalUrl": "https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.ibtimes.sg/en/full/41411/california-fire.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
-      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
-      "publishedDateTime": "2020-09-05T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ellen",
-        "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-nvidias-dlss-ai-upscaling-sdk-now-supports-vr.md",
-      "title": "Nvidia’s DLSS AI-upscaling SDK now supports VR",
-      "excerpt": "Nvidia's DLSS neural upscaling technology now works with virtual reality titles. This could enable some VR games to make a visual leap.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/",
-      "originalUrl": "https://venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/rtx-3080.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/amp/",
-      "publishedDateTime": "2020-09-05T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

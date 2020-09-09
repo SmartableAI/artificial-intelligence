@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Kick-Ass creator Mark Millar backs AI cameras in Scottish football"
-excerpt: "Covid plan for Scottish football, and Albion Rovers being the club I always loved, I wanted to start it here. I'm lucky to be in a position where financially I could help but also have a great contact list,"
-publishedDateTime: 2020-09-07T16:01:00Z
-originalUrl: "https://www.bbc.co.uk/sport/football/54062392"
-webUrl: "https://www.bbc.co.uk/sport/football/54062392"
+excerpt: "Ass and Wanted to the big screen, and now he's taking Albion Rovers to your living room via robot cameras. Comic book writer and Hollywood producer Mark Millar is behind a far-out idea that will transport fans to Cliftonhill and other lower league grounds throughout Scotland."
+publishedDateTime: 2020-09-07T16:18:00Z
+originalUrl: "https://www.bbc.com/sport/football/54062392"
+webUrl: "https://www.bbc.com/sport/football/54062392"
 ampWebUrl: "https://www.bbc.com/sport/amp/football/54062392"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/football/54062392"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -25,6 +29,6 @@ images:
     height: 576
     isCached: true
 
-secured: "O9o7/pfRiH9+SrDdZsXWOy27NpmQj2pFBSjJUfAgVfO6zwLblJ62FFkEAvdKibxnXQ1p5VQXckOx5lLP5Rd7QNf+8nzE+eSlpn0A15WhFON6kswkQijfDQnXEYLvmrKEzmZXYOTxNxFii/NrbKPfIh2TozVNwyTjOa5TVLNSVZvom03WaoEJkQcOzDvQp3sEl4XkoG1AxswhHlxgyj9Aua5Ps2r3SnxEaA8ilgcIIg5jvjHtewt/sck6/0nxPkePkM/SMYcVk+KqSSI325JbncEUA2SEZ4xbrFempmVp2nBcvP0n7EDbJvvEAE/aeHwn010h8AyQ48H8dgdDc14dFEgDCGMq6aLfmZIIQ2rxBOk=;G7FCbe/jJW5elgoos3syiQ=="
+secured: "F1Nt9Jt770MrWTyj0KCQ6f2+NeH94oAHMvLRtrWa48uc3jK9L8+q9QbPg2MKeeAoaurRL9s5IIg/c7S9kkkxSzrPxH0RpuRSBafVsWxK7hPazP7puiCnrc/cfjH7y7cdTAahzrY+xJxPpRiuCXFMB0n4971qiZZcW1u/6rPz32J0DXn8NZZiU1WmvbFdz2rchwoydSXu2m0vXVONJWT8oLd6ejiH8a1fcsax5oqNl6vxAXHOQoEltFqeOduZrf+KlIA9oGt87OjxlSVfuc4Ck4hQmOr5V5cWTGcyLRsdEm6AAgS0/uK7JMUEWtmz/VaQahhSnkxliQufLaWRv/f5EUp8dcM7j7bIu32DUerto6o=;GFazAj74qyFaQN4JCka8Tg=="
 ---
 

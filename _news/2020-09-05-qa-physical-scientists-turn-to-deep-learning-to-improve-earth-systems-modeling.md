@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-09-qa-physical-scientists-deep-earth.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-qa-physical-scientists-deep-earth.amp"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 600
     height: 870
     isCached: true
-
-related:
-  - title: "Machine learning supports decision making during fertility treatment"
-    excerpt: "Computer scientists at the University of Southampton are using machine learning to help doctors and patients make more informed decisions during fertility treatment. The collaboration between the University's IT Innovation Centre,"
-    publishedDateTime: 2020-09-04T16:30:00Z
-    webUrl: "https://www.ecs.soton.ac.uk/news/6795"
-    type: article
-    provider:
-      name: soton.ac.uk
-      domain: soton.ac.uk
-    quality: 39
-    images:
-      - url: "https://secure.ecs.soton.ac.uk/heights/heights-image-400.php?imgid=news_6795_img&anchor=CM"
-        width: 360
-        height: 270
-        isCached: true
 
 secured: "R9OH6JwF6vf5BVbwC0hbBlr5jRT/qzDXQebWkVOopn5LzUt2xzSfYfokoLxhiCAqED6+SRZS3kYa0rkNLCuutmobUsAJUq7lNoeFUYwdurmrZ+zAg0OV+9vUFlUOgPWcpJ5DL/p5RSCXlemniDxxwwijghoqRsDcWyQBUxsp7ikT3s4mbX34ZT8MsV2KOhq5hZZWt8yJgtryM6vyL/grkkInOVBAPJIrYHDFnzXPjoHQRAEMPHP3iUNN4YVBadk4hMqNJeN5cx4wo0opVD2upv8za0eaR74AhyrnFrX6dNDdAqdMnx7SNBjJgu9OmbJ5X9nW4Opj9lAVjrvi5cqiM3OY8U0vhBDjzD8xAIIoJi1TDDOZ9jdxJ119JXKNPOf8MCHYuEFehaxE2/yVyf4koPmQvCqesINiVZV7HxtVFjWRI3CV7r75/ii2VnB+9L5o8L0gj1hYctaEeQz5nPa/w0tVStYg9OdwgVTVCPO356WfCQM9iIoOgroQj2oLOOlwxmaPcAcp7gQEcZTrDIJklpyFmwnnu08u6sq3YTylcGc=;PhY3QrgCCgBsX2jURePyUw=="
 ---

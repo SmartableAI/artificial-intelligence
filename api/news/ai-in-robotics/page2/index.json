@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-29-robot-boats-leave-autonomous-cars-in-their-wake.md",
+      "title": "Robot Boats Leave Autonomous Cars in Their Wake",
+      "excerpt": "Driverless ships don’t have to worry about crowded roads. And they don’t need bunks—or toilets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
+      "originalUrl": "https://www.wsj.com/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-226255/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
+      "publishedDateTime": "2020-08-29T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-take-a-closer-look-at-elon-musks-neuralink-surgical-robot.md",
       "title": "Take a closer look at Elon Musk’s Neuralink surgical robot",
       "excerpt": "While the science was front-and-center in Elon Musk’s presentation about Neuralink, his human brain computer inference company, the surgical robot the company debuted made a splash of its own. The rounded polycarbonate sci-fi design of the brain surgeon bot looks like something out of the",
@@ -1294,47 +1344,6 @@
       "provider": {
         "name": "Adweek",
         "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-artificial-intelligence-breakthrough-could-allow-ai-to-merge-with-human-brain.md",
-      "title": "Artificial Intelligence: Breakthrough could ‘allow AI to merge with human brain’",
-      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) experts believe the discovery of a cutting-edge material could finally achieve ambitions of fusing the human brain with machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news-1323930.jpg?r=1597682083508",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news/amp",
-      "publishedDateTime": "2020-08-17T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

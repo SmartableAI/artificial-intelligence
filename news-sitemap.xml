@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.ibtimes.sg/future-defense-artificial-intelligence-robotics-driving-modern-day-military-51327</loc>
+    <lastmod>2020-09-09T02:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575</loc>
+    <lastmod>2020-09-09T01:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nasdaq.com/articles/exclusive-baidu-investors-in-talks-to-raise-%25242-bln-for-biotech-startup-source-2020-09-09</loc>
     <lastmod>2020-09-08T23:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -187,6 +199,18 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-to-see-remarkable-growth-by-2025-amazon-web-services-inbenta-technologies-ipsoft-2020-09-07</loc>
+    <lastmod>2020-09-07T10:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/sport/football/54062392</loc>
+    <lastmod>2020-09-07T09:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.entrepreneur.com/article/355840</loc>
     <lastmod>2020-09-07T08:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -259,7 +283,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/in/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming</loc>
+    <loc>https://www.techradar.com/au/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming</loc>
     <lastmod>2020-09-06T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -391,6 +415,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html</loc>
+    <lastmod>2020-09-04T02:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/</loc>
     <lastmod>2020-09-04T02:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -399,12 +429,6 @@
   <url>
     <loc>https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/</loc>
     <lastmod>2020-09-04T02:44:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247</loc>
-    <lastmod>2020-09-03T22:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1177,6 +1201,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://seekingalpha.com/article/4371850-ibm-deep-dive-strategy-shift-driving-growth-attractive-share-price-and-dividend-yield</loc>
+    <lastmod>2020-08-31T19:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.thenewstribune.com/news/nation-world/article245384385.html</loc>
     <lastmod>2020-08-31T18:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1501,6 +1531,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.journaldunet.com/solutions/dsi/1493101-le-machine-learning-automatise-va-t-il-remplacer-les-data-scientists/</loc>
+    <lastmod>2020-08-28T15:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/</loc>
     <lastmod>2020-08-28T14:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1515,6 +1551,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/28/ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios/</loc>
     <lastmod>2020-08-28T13:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://findbiometrics.com/nuance-and-mitre-team-up-to-fight-cancer-with-ai-speech-recognition-and-data-interoperability/</loc>
+    <lastmod>2020-08-28T12:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1885,6 +1927,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.thestar.com.my/tech/tech-news/2020/08/27/vw-to-test-fleet-of-self-driving-cars-in-chinas-newest-ev-hub</loc>
+    <lastmod>2020-08-26T23:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/</loc>
     <lastmod>2020-08-26T19:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1953,12 +2001,6 @@
   <url>
     <loc>https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html</loc>
     <lastmod>2020-08-26T10:23:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.bloomberg.com/news/articles/2020-08-26/vw-to-test-fleet-of-self-driving-cars-in-china-s-newest-ev-hub</loc>
-    <lastmod>2020-08-26T10:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

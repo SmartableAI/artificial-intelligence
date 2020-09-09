@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Yandex, Uber to spin off self-driving unit of JV"
-    excerpt: "Yandex and Uber will spin off the self-driving car unit of their joint venture into a separate company, giving Yandex more control over the businesses and paving the way for new investors. Russia’s largest internet company will invest $150 million in the new division,"
-    publishedDateTime: 2020-09-04T15:24:00Z
-    webUrl: "https://europe.autonews.com/automakers/yandex-uber-spin-self-driving-unit-jv"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Yandex-MAIN_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Yandex, Uber to Spin Off Self-Driving Cars Into New Company"
     excerpt: "Yandex NV and Uber Technologies Inc. will spin off the self-driving car unit of their joint venture into a separate company, giving Yandex more control over the businesses and paving the way for ..."
     publishedDateTime: 2020-09-04T20:44:00Z

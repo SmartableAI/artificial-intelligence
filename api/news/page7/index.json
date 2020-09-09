@@ -2,6 +2,178 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-02-rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics.md",
+      "title": "Rolls-Royce reports breakthroughs in practical artificial intelligence ethics",
+      "excerpt": "Royce announced on Wednesday that it had achieved two breakthroughs in the field of artificial intelligence (AI) ethics. These breakthroughs will be fully published later this year on the Rolls-Royce website under a Creative Commons licence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02",
+      "originalUrl": "https://www.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg",
+          "width": 1022,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering News",
+        "domain": "engineeringnews.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-iit-delhi-establishes-school-of-artificial-intelligence.md",
+      "title": "IIT Delhi establishes School of Artificial Intelligence",
+      "excerpt": "Delhi has established an independent “School of Artificial Intelligence (ScAI)” on its campus. The institute is already a leader in the country and",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/",
+      "originalUrl": "https://indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2019/03/IIT-Delhi2.jpg?fit=600%2C314&ssl=1",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/?amp",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/?amp",
+      "publishedDateTime": "2020-09-02T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-anti-procrastination-glasses-will-use-ai-to-track-your-activities.md",
+      "title": "‘Anti-Procrastination’ Glasses Will Use AI To Track Your Activities",
+      "excerpt": "Speaking of which, new ‘anti-procrastination’ smart glasses have been launched that can keep you from procrastinating by tracking your activities and providing personalized insights. SEE ALSO: This AI Startup Rents Out Robots That Can Do Human Jobs Amid The Coronavirus Pandemic The glasses called the ‘Specs’ have been launched by a startup named Auctify,",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities",
+      "originalUrl": "https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/ai-glasses-specs_n54f.620.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities?amp=1",
+      "publishedDateTime": "2020-09-02T01:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions.md",
+      "title": "The next generation of NLP: how new capabilities empower businesses to make data-informed decisions",
+      "excerpt": "Language is constantly evolving &#8211; it shifts to meet the changing dynamics of our society. The business world is no different &#8211; it has its own vernacular that evolves in response to new innovations, changing consumer expectations and world events. The language of business is documented in",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/09/the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions/",
+      "featuredContent": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/social-tile-2.png",
+          "width": 990,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T01:00:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-the-best-facial-recognition-security-cameras-of-2020.md",
       "title": "The best facial recognition security cameras of 2020",
       "excerpt": "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your profile of known faces.",
@@ -976,207 +1148,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-announcing-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science.md",
-      "title": "Announcing the AWS DeepComposer Chartbusters challenge, The Sounds of Science",
-      "excerpt": "We’re excited to announce the next AWS DeepComposer Chartbusters challenge, in which developers interactively collaborate with AI using the new edit melody feature launching today! Chartbusters is a monthly challenge where you can use AWS DeepComposer to create original compositions on the console using",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/01/sound-of-science-03.jpg",
-          "width": 800,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T09:59:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-nvidia-broadcast-brings-rtx-powered-ai-to-livestreaming-video.md",
-      "title": "Nvidia Broadcast brings RTX-powered AI to livestreaming video",
-      "excerpt": "Nvidia Broadcast is a new tool that brings together all of the companys RTX AI features for creating video and audio content.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/",
-      "originalUrl": "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Nvidia-RTX-Broadcast-e1598971502693.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/amp/",
-      "publishedDateTime": "2020-09-01T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-3-top-artificial-intelligence-stocks-to-buy-in-september.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in September",
-      "excerpt": "Artificial intelligence (AI) has the potential to influence almost every industry, and the overall economic impact of the tech will exceed what's spent on hardware, software, and services many times over.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F589831%2Fgettyimages-896358708.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
-      "publishedDateTime": "2020-09-01T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-a-big-step-for-flood-forecasts-in-india-and-bangladesh.md",
-      "title": "A big step for flood forecasts in India and Bangladesh",
-      "excerpt": "For several years, the Google Flood Forecasting Initiative has been working with governments to develop systems that predict when and where flooding will occur—and keep people safe and informed. Much of this work is centered on India, where floods are a serious risk for hundreds of millions of people.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/",
-      "originalUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/",
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screen_Shot_2020-08-31_at_6.57.16_PM.max-1300x1300.png",
-          "width": 1300,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/flood-forecasts-india-bangladesh/amp/",
-      "publishedDateTime": "2020-09-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

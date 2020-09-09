@@ -69,6 +69,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Council to consider banning Face Recognition Technologies"
+    excerpt: "The City Council is scheduled to consider what may be the strongest bans on facial recognition technologies in the county on Wednesday. One ordinance would prohibit the acquisition and use of such technologies by city bureaus."
+    publishedDateTime: 2020-09-09T08:39:00Z
+    webUrl: "https://pamplinmedia.com/pt/9-news/479432-387355-council-to-consider-banning-face-recognition-technologies"
+    type: article
+    provider:
+      name: Portland Tribune
+      domain: pamplinmedia.com
+    quality: 39
+    images:
+      - url: "https://pamplinmedia.com/images/artimg/00003682419156-0644.jpg"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "fujPWgzYjhRlsqF16eWtNlXxMzxmCwsK5iKC2a20Fj/O0FE9ipHH/yZwebWEwGuNMvEJp92A/jARCmLui+jLX/0CQMSnrVhHffodI2nErkNsIDHaymjhWYmWihramVRLeMxdZt7cOOBZn95x1XXVEbyNpeHy1U5aRyPszt94oDSI6qjJxGSvsHifivRnMWN5T7crE/c3xEEycuH9LRxEO6C43ZH+gKfeAQWkUVPo/Ygcq4+4vurxlJxDMnvbBSAJwChkYy6dfQ0svxf6c5VSmc5uGP3CXA39y6Hmu6uIJgyTSD0oVq2FALTB2cJSd2L+z/mARUt0VVlZQtMmteQF/0cn1haOopjalJZ6IKoqGZ6HSUduj64AAjUVkimCbOpAb5kQ9yuT2l13zh534zJ8p38Gzz/rNDHrdfDXcTvxqD/jsetYTwTVRKIR4MQgBoISOUUVNyclAvyi44DZDjaWZ4rBDn3C/Ccr/Yuss5VxRzwWZy5KxzNcm07hactm3BV4DfaXgBzLEGo2gRg1EMUc/Kl9lqJUSHZfztihYZAPGh8=;EQUcPv9PiIRb2dVMY5hZEw=="
 ---

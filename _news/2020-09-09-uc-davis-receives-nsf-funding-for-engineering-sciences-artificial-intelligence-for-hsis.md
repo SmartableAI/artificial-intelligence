@@ -1,44 +1,28 @@
 ---
 category: news
-title: "UC Davis receives NSF funding for engineering, sciences, artificial intelligence for HSIs"
-excerpt: "The University of California, Davis, received more than $1 million in grants from the National Science Foundation to convene and engage faculty, researchers and industry experts in expanding research and undergraduate instruction at Hispanic Serving Institutions and Minority Serving Institutions."
-publishedDateTime: 2020-09-08T20:03:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoc--udr090820.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoc--udr090820.php"
+title: "UC Davis Receives NSF Funding For Engineering, Sciences, Artificial Intelligence For HSIs"
+excerpt: "Among these awards is the first federally funded HSI grant given to UC Davis, a crucial step toward receiving an official HSI designation and recognition from the Department of Education. The Hispanic Association of Colleges and Universities notes that HSIs — colleges and universities with more than 25 percent Hispanic student enrollment — educate more than two-thirds of the nation's undergraduate Hispanic students."
+publishedDateTime: 2020-09-09T08:10:00Z
+originalUrl: "https://patch.com/california/davis/uc-davis-receives-nsf-funding-engineering-sciences-artificial-intelligence-hsis"
+webUrl: "https://patch.com/california/davis/uc-davis-receives-nsf-funding-engineering-sciences-artificial-intelligence-hsis"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Patch
+  domain: patch.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png"
+    width: 800
+    height: 600
     isCached: true
 
-related:
-  - title: "UAlbany harnessing artificial intelligence for winter storm forecasts"
-    excerpt: "UAlbany's Atmospheric Sciences Research Center just received a $2.4 million, five year National Science Foundation grant to explore and develop ways that AI can better track and predict winter storms."
-    publishedDateTime: 2020-09-08T11:00:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/UAlbany-researchers-harnessing-Artificial-15541157.php"
-    type: article
-    provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/11/20/60/19205142/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-
-secured: "o+Ukc92slfMBgmBNhi8W8Ee5r12QC8wwAsPCqTCuGmJ9mvtnCkElw2xvEiaa7ePN5DJutyUwt+I1bPxe448L6PeLguECTdOeqw5+Uqcz4Ul1dw9DAX5ZVieA/GNkDtQFPr2i+IDi+/WaRLIG4Wif1hBlYqbEdeiPf/czFNmfIhSCytZxYDIRU3q6gXcSSEMhD1wupKTsGhpqeE4nKIkRaLfm9ERnGy+SEh7mnJ451pzABJxRpLDGkxeuxK21B+qfbaOrB+VQCLcYsLf17aCtLqwX+9QqZPOFYEnfZTzDn+gK6fFoY9UUdrsDsux32EMovF04BcUTFzFA0bLaBFex+KpuSuXHNcMyE34EMM7P6vQ=;dioTBkp41CO+4zNgA19cOA=="
+secured: "B/zLFo97N2MVaMpdp1E0po6PsmQ53NEiUfmI+C3pkZdA4y1SwqP6idt0rg6XWM8B3FpHkfnkTU+YgTWl/M5Kdh8cLe3lt6pNn5xbSHSrfbsPQ/8wF3CvP112e+9nd1wR56AVE+K3KP3SZjpQYFL6V3N7t+tso35xhMamTvttlxyR4zO1joOj2B67gHmvNIa2B25lvB8swdS+qKtlCV3IIzyjoAWNRNiUrkUyCO5TvXXC7rOFXdiORDVdoFPZIWlQ4b0+ajh04KlvIjVZfmCLUsITYE0nIyCJRBl5TxFJszayAJdV1ibd24hJyYQvIEsZlXS5GKI0qqkRTlNAzz8fwNPmFn0Z/Ewy/DfFzo9kUr0=;Ep7Pfi0DrAgmxWGrS7Ewkg=="
 ---
 

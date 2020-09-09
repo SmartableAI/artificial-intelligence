@@ -2,6 +2,310 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-08-03-when-hybrid-multicloud-has-technical-advantages.md",
+      "title": "When hybrid multicloud has technical advantages",
+      "excerpt": "Just deploy your new application, microservice, or machine learning model to the public cloud? Well, maybe not so fast",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3568497/when-hybrid-multicloud-has-technical-advantages.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/private_public_hybrid_cloud_technology_sign-100747994-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3568497/when-hybrid-multicloud-has-technical-advantages.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3568497/when-hybrid-multicloud-has-technical-advantages.amp.html",
+      "publishedDateTime": "2020-08-03T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-03-deep-learning-based-quantification-of-pulmonary-hemosiderophages-in-cytology-slides.md",
+      "title": "Deep Learning-Based Quantification of Pulmonary Hemosiderophages in Cytology Slides",
+      "excerpt": "Exercise-induced pulmonary hemorrhage (EIPH) is a common condition in sport horses with negative impact on performance. Cytology of bronchoalveolar lavage fluid by use of a scoring system is considered the most sensitive diagnostic method.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-020-65958-2",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-65958-2/MediaObjects/41598_2020_65958_Fig1_HTML.png",
+          "width": 685,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-03T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-03-the-non-tech-companies-snapping-up-phds-from-americas-elite-ai-programs.md",
+      "title": "The non-tech companies snapping up PhDs from America’s elite AI programs",
+      "excerpt": "Google, Facebook, and Microsoft are competing with carmakers, retailers, and drugmakers for the country's top AI talent.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1887438/the-non-tech-companies-hiring-phds-from-elite-ai-programs/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/07/2019-07-12T142630Z_1076748700_RC1BEB25F160_RTRMADP_3_VOLKSWAGEN-FORD-ALLIANCE-e1596224571405.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1887438/the-non-tech-companies-hiring-phds-from-elite-ai-programs/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1887438/the-non-tech-companies-hiring-phds-from-elite-ai-programs/amp/",
+      "publishedDateTime": "2020-08-03T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-03-solidus-making-waves-in-the-ai-sector.md",
+      "title": "Solidus making waves in the AI sector",
+      "excerpt": "Established 2017 Solidus Technologies have been raising funds and working on building a data centre built for the purpose of High",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n16891775/solidus-making-waves-in-the-ai-sector",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16891775",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16891775",
+      "publishedDateTime": "2020-08-03T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-03-pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer.md",
+      "title": "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer",
+      "excerpt": "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have access to a variety of offerings,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27-81841645",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-02T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-03-explained-what-is-natural-language-processing-gpt-3-and-how-it-works.md",
+      "title": "Explained: What is natural language processing GPT-3, and how it works",
+      "excerpt": "Natural language processing is how a software or programme reads language. It first checks for grammar and then for semantics. The more a software reads, the better it understands. So, if the information fed into the programme increases,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/technology/explained-what-is-natural-language-processing-gpt-3-and-how-it-works/2043078/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2020/08/GPT-3-660.jpg",
+          "width": 660,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/explained-what-is-natural-language-processing-gpt-3-and-how-it-works/2043078/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/explained-what-is-natural-language-processing-gpt-3-and-how-it-works/2043078/lite/",
+      "publishedDateTime": "2020-08-02T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-03-aws-announces-general-availability-of-aws-iot-sitewise.md",
+      "title": "AWS Announces General Availability of AWS IoT SiteWise",
+      "excerpt": "SiteWise makes it easy to collect, organize, and monitor data from industrial equipment at scale Volkswagen, Bayer Crop Science, Pentair, and Genie among customers using SiteWise SEATTLE--(BUSINESS WI",
+      "sourceUrl": null,
+      "webUrl": "https://digitalproducer.com/aws-announces-general-availability-of-aws-iot-sitewise/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://digitalproducer.com/aws-announces-general-availability-of-aws-iot-sitewise/amp/",
+      "cdnAmpWebUrl": "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/aws-announces-general-availability-of-aws-iot-sitewise/amp/",
+      "publishedDateTime": "2020-08-02T19:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "digitalproducer.com",
+        "domain": "digitalproducer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-02-how-ai-can-help-small-and-medium-businesses-compete-against-big-companies.md",
       "title": "How AI Can Help Small And Medium Businesses Compete Against Big Companies",
       "excerpt": "Right now, larger companies are investing in AI because they recognize the opportunity to dominate a market using this technology.",
@@ -837,301 +1141,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-01-nlp-poised-to-revolutionize-the-enterprise.md",
-      "title": "NLP poised to revolutionize the enterprise",
-      "excerpt": "Recent improvements in natural language processing (NLP) are bolstering mainstream technologies with speech and text capabilities, whether that's reading emails aloud in a natural-sounding voice ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3566378/nlp-poised-to-revolutionize-the-enterprise.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-01-whats-this-a-bipartisan-plan-for-ai-and-national-security.md",
-      "title": "What’s this? A bipartisan plan for AI and national security",
-      "excerpt": "Hurd (R-Tex.) and Kelly (D-Ill.) offered suggestions to prevent the US from falling behind China, especially, on applications of AI to defense and national security. They want to cut off China’s access to AI-specific silicon chips and push Congress and federal agencies to devote more resources to advancing and safely deploying AI technology.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2020/08/whats-this-a-bipartisan-plan-for-ai-and-national-security/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/07/business_military_535764174-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-01T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-01-coronavirus-global-cases-top-1m-with-more-than-50000-deaths.md",
-      "title": "Coronavirus: Global cases top 1m with more than 50,000 deaths",
-      "excerpt": "Donald Trump said he was looking “very strongly” at banning domestic air travel, in a dramatic ... location data from individual phones and facial recognition technology, the country’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/travel/article/airports-facial-recognition/index.html",
-      "originalUrl": "https://www.ft.com/content/a5847177-f993-3c8e-af60-747e6109cb7d",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dynaimage.cdn.cnn.com/cnn/w_1200/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F191008102520-facial-recognition-1-super-tease.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnn.com/travel/amp/airports-facial-recognition/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/travel/amp/airports-facial-recognition/index.html",
-      "publishedDateTime": "2020-08-01T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-01-railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid.md",
-      "title": "Railways go hi-tech; use Artificial Intelligence, robotics to fight COVID",
-      "excerpt": "Robots deployed at railway stations to scan passengers and for surveillance; hospitals also use them to talk to COVID-19 patients",
-      "sourceUrl": null,
-      "webUrl": "https://www.mid-day.com/articles/railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid/22910331",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mid-day.com/images/2020/aug/Rakshak_d.jpg",
-          "width": 670,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.mid-day.com/amp/articles/railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid/22910331",
-      "cdnAmpWebUrl": "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid/22910331",
-      "publishedDateTime": "2020-07-31T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mid Day",
-        "domain": "mid-day.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-how-smart-are-ai-chips-really.md",
-      "title": "How Smart Are AI Chips, Really?",
-      "excerpt": "It’s like a GPU without the graphics hardware. Or conversely, a GPU is like an AI accelerator. Even a low-end graphics card or built-in GPU in an older laptop is also an ‘AI engine’ that is ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/02/rifroheader.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-31T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-dhs-analyzed-protester-communications-despite-comments-to-the-contrary.md",
-      "title": "DHS analyzed protester communications despite comments to the contrary",
-      "excerpt": "Arradondo said police had also seized a record number of illegal guns during recent arrests, including ... at a Black Lives Matter protest in Las Vegas has now also been charged with sexual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_us/article/pkyxwv/las-vegas-cops-used-unsuitable-facial-recognition-photos-to-make-arrests",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f2c503ac50991009ef44d5b/lede/1596751220691-pexels-photo-207574.jpeg?crop=1xw:0.84375xh;center,center",
-          "width": 3375,
-          "height": 1898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/pkyxwv/las-vegas-cops-used-unsuitable-facial-recognition-photos-to-make-arrests",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/pkyxwv/las-vegas-cops-used-unsuitable-facial-recognition-photos-to-make-arrests",
-      "publishedDateTime": "2020-07-31T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market – Global Industry Analysis, Size, Share, Trends, and Latest Research Report, 2020-2025",
-      "excerpt": "According to report publish a new market research report on the \"Artificial Intelligence (AI) in Healthcare Market: Global Size, Trends, Competitive, Historical and Forecast Analysis, 2020-2025 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/ab16884717/artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-la",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1596192527.jpeg",
-          "width": 512,
-          "height": 271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16884717",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16884717",
-      "publishedDateTime": "2020-07-31T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,336 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-08-19-deep-learning-market-new-innovations-trends-research-global-share-and-growth-factor-till-2027.md",
+      "title": "Deep Learning Market New Innovations Trends, Research, Global Share and Growth Factor till 2027",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Aug 19, 2020 (Global QYResearch via COMTEX) -- The global Deep Learning Market is estimated to grow at a healthy CAGR of over 51.1% from 2020 to 2027 and reach a valuation of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-new-innovations-trends-research-global-share-and-growth-factor-till-2027-2020-08-19?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-19T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-self-driving-bus-of-autopilot-bus-line-1-in-henan.md",
+      "title": "Self-driving bus of autopilot bus line 1 in Henan",
+      "excerpt": "Aerial photo taken on Aug. 18, 2020 shows a self-driving bus of autopilot bus line 1 running on a road in Zhengzhou, central China's Henan Province. Combining technologies like 5G network service and artificial intelligence with smart supervision and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.globaltimes.cn/content/1198278.shtml",
+      "originalUrl": "https://www.globaltimes.cn/content/1198278.shtml",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-08-19/ee7526ca-6d2e-4384-b282-14a438bdb97b.jpeg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-19T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Times",
+        "domain": "globaltimes.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-artificial-intelligence-ai-market-is-estimated-to-achieve-cagr-of-49-by-2027.md",
+      "title": "Artificial Intelligence (AI) Market is Estimated to Achieve CAGR of 49% By 2027",
+      "excerpt": "The global Artificial Intelligence (AI) Market is estimated to grow at a healthy CAGR of over 49% from 2020 to 2027 and reach a valuation of over US$ 49 billion. The report provides an analysis of Artificial Intelligence (AI) Market for the period 2016-2027,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-is-estimated-to-achieve-cagr-of-49-by-2027-2020-08-19",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-19T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-is-your-bi-team-ai-ready-enter-automl-20.md",
+      "title": "Is your BI team AI ready? Enter AutoML 2.0",
+      "excerpt": "The advent of “AutoML” platforms has allowed data science teams to accelerate the testing and training of ML algorithms and accelerate the development of predictive algorithms. However ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/19/is-your-bi-team-ai-ready-enter-automl-2-0/",
+      "originalUrl": "https://venturebeat.com/2020/08/19/is-your-bi-team-ai-ready-enter-automl-2-0/",
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-973708520.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/19/is-your-bi-team-ai-ready-enter-automl-2-0/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/is-your-bi-team-ai-ready-enter-automl-2-0/amp/",
+      "publishedDateTime": "2020-08-19T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-adobe-launches-ai-powered-character-animator-features-in-beta.md",
+      "title": "Adobe launches AI-powered Character Animator features in beta",
+      "excerpt": "The latest beta version of Adobe Character Animator adds AI-powered lip-sync and motion capture tools, as well as revamped timeline features.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/19/adobe-launches-ai-powered-character-animator-features-in-beta/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/adobecharactercreator000-e1597841810397.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/19/adobe-launches-ai-powered-character-animator-features-in-beta/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/adobe-launches-ai-powered-character-animator-features-in-beta/amp/",
+      "publishedDateTime": "2020-08-19T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-microsoft-improves-azure-outage-reporting-with-aiops-in-service-health.md",
+      "title": "Microsoft Improves Azure Outage Reporting with AIOps in Service Health",
+      "excerpt": "Microsoft says it wants to communicate Azure outages better, and is pointing users towards Service Health, which includes AIOps reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://winbuzzer.com/2020/08/19/microsoft-improves-azure-outage-reporting-with-aiops-in-service-health-xcxwbn/",
+      "originalUrl": "https://winbuzzer.com/2020/08/19/microsoft-improves-azure-outage-reporting-with-aiops-in-service-health-xcxwbn/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2018/12/Azure-Availability-Zone-Microsoft.jpg",
+          "width": 1540,
+          "height": 842,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://winbuzzer.com/2020/08/19/microsoft-improves-azure-outage-reporting-with-aiops-in-service-health-xcxwbn/?amp",
+      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/08/19/microsoft-improves-azure-outage-reporting-with-aiops-in-service-health-xcxwbn/?amp",
+      "publishedDateTime": "2020-08-19T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices.md",
+      "title": "How Can Businesses Take Deep Learning Out Of The Lab And Onto Intelligent Edge Devices?",
+      "excerpt": "Despite successful research and developments in lab settings, deep learning has yet to reach its potential in real-world deployments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/",
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdea7cf036822a957572d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/amp/",
+      "publishedDateTime": "2020-08-19T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-the-outside-context-problem-of-the-pandemic-underscores-the-importance-of-human-ai-collaboration.md",
       "title": "The 'Outside Context Problem' Of The Pandemic Underscores The Importance Of Human-AI Collaboration",
       "excerpt": "We’ve learned how humans and our machines can help each other gain crucial contextual awareness in situations where we would be unable to do so alone.",
@@ -820,309 +1150,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-chinese-ai-giant-blacklisted-by-trump-thrives-in-virus-era.md",
-      "title": "Chinese AI Giant Blacklisted by Trump Thrives in Virus Era",
-      "excerpt": "The Hong Kong-based startup’s revenue surged 147% to 5 billion yuan ($720 ... to develop its own tech industry and overtake the U.S. in key sectors. Read more: AI Unicorn SenseTime Is Said to Mull Hong Kong, China IPO In the case of facial recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iclFGm8eeMXk/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
-      "publishedDateTime": "2020-08-18T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-artificial-intelligence-automation-and-robotics.md",
-      "title": "Artificial intelligence, automation and robotics",
-      "excerpt": "We look at how AI and data science are supporting the global push to deal with the coronavirus pandemic. We reveal, and talk to, the man behind the world’s first computer virus pandemic, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/resources/Artificial-intelligence-automation-and-robotics",
-      "originalUrl": "https://www.computerweekly.com/resources/Artificial-intelligence-automation-and-robotics",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T19:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-global-facial-recognition-company-working-closely-with-nz-govt.md",
-      "title": "Global facial recognition company working closely with NZ govt",
-      "excerpt": "NEC itself is on the wrong side of a pushback against facial recognition in the US. There, three tech giants Amazon, IBM and Microsoft in June called a halt to supplying the tech to US police in a moratorium over brutality against black people. But NEC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvnz.co.nz/one-news/new-zealand/global-facial-recognition-company-working-closely-nz-govt",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/08/19/iStock-1188510725.jpg?w=700&h=393.75&fit=crop&auto=format",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDglMkYxOSUyRmZhY2lhbC1yZWNvZ25pdGlvbg==",
-      "cdnAmpWebUrl": "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDglMkYxOSUyRmZhY2lhbC1yZWNvZ25pdGlvbg==",
-      "publishedDateTime": "2020-08-18T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TVNZ 1",
-        "domain": "tvnz.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-the-sound-of-indias-ai-potential.md",
-      "title": "The sound of India’s AI potential",
-      "excerpt": "On August 15, India’s Independence Day, it’s customary to sing Jana Gana Mana: the Indian national anthem, originally composed by the poet Rabindranath Tagore and adopted as the anthem after India gained full independence.  This year, together with Prasar Bharati and Virtual Bharat, we offered Indians",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/500d84ff-924b-400e-9b5f-0c244bc858b2_1.max-1300x1300.png",
-          "width": 1260,
-          "height": 661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/amp/",
-      "publishedDateTime": "2020-08-18T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-is-anthos-the-edge-google-needs-in-enterprise-cloud.md",
-      "title": "Is Anthos the edge Google needs in enterprise cloud?",
-      "excerpt": "In 3rd place in the cloud wars for years, the emergence of Google's Anthos last year was a welcome move that makes a versatile multicloud future for businesses not just a possibility, but a practical option today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/10/2f5cb054-c9f7-4ebb-9c6f-9c1698ba44e9/thumbnail/1200x675/422a12290de5e69249993f300448f6ca/thumb.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/",
-      "publishedDateTime": "2020-08-18T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-artificial-intelligence-loopholes-could-be-deadly.md",
-      "title": "Artificial Intelligence Loopholes Could Be Deadly",
-      "excerpt": "Artificial intelligence (AI) has become an intimate part of our lives. It all started in 1950 when philosopher and mathematician Alan Turing revisited the question of whether machines (or computers) can “think.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly?amp",
-      "publishedDateTime": "2020-08-18T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-a-photo-editing-ai-thought-this-blurry-photo-was-actor-ryan-goslings-face.md",
-      "title": "A photo-editing AI thought this blurry photo was actor Ryan Gosling's face",
-      "excerpt": "When a photographer used Gigapixel AI to enlarge an image, the software reportedly saw Ryan Gosling's face in a fuzzy part of the picture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ryan-gosling-face-photo-editor-gigapixel-ai-2020-8",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f3bf135a3eafa001de06b7a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ryan-gosling-face-photo-editor-gigapixel-ai-2020-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ryan-gosling-face-photo-editor-gigapixel-ai-2020-8?amp",
-      "publishedDateTime": "2020-08-18T17:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

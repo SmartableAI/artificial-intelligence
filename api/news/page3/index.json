@@ -2,6 +2,195 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-05-how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers.md",
+      "title": "How Adobe is using an AI chatbot to support its 22,000 remote workers",
+      "excerpt": "When the COVID-19 shutdown began in March, my team at Adobe realized we had to completely rethink our support infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/",
+      "originalUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/chatbot.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/amp/",
+      "publishedDateTime": "2020-09-05T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-google-is-creating-a-microscope-with-ai-and-ar-to-help-detect-cancer.md",
+      "title": "Google is creating a microscope with AI and AR to help detect cancer",
+      "excerpt": "Google plans to train an AI using the open-source platform TensorFlow to detect cancerous cells in photos taken from a microscope. They’ve already started developing the neural networks by using the Google Cloud Healthcare API to de-identify and segment",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
+      "originalUrl": "https://www.techspot.com/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/09/2020-09-05-image-3.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
+      "publishedDateTime": "2020-09-05T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-can-big-data-analytics-and-machine-learning-help-contain-wildfire-next-time.md",
+      "title": "Can Big Data Analytics and Machine Learning Help Contain Wildfire Next Time?",
+      "excerpt": "Researchers are developing tools to predict wildfire leveraging technology, real-time data to prevent devastation",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
+      "originalUrl": "https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/41411/california-fire.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
+      "publishedDateTime": "2020-09-05T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellen",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-nvidias-dlss-ai-upscaling-sdk-now-supports-vr.md",
+      "title": "Nvidia’s DLSS AI-upscaling SDK now supports VR",
+      "excerpt": "Nvidia's DLSS neural upscaling technology now works with virtual reality titles. This could enable some VR games to make a visual leap.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/",
+      "originalUrl": "https://venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/rtx-3080.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/amp/",
+      "publishedDateTime": "2020-09-05T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-05-artificial-intelligence-expert-moves-to-montreal-because-its-an-ai-hub.md",
       "title": "Artificial intelligence expert moves to Montreal because it's an AI hub",
       "excerpt": "Irina Rish, now a renowned expert in the field of artificial intelligence, first became drawn to the topic as a teenager in the former Soviet republic of Uzbekistan. At 14, she was fascinated by the notion that machines might have their own thought processes.",
@@ -98,7 +287,7 @@
       "webUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/",
       "originalUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/",
       "featuredContent": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -711,6 +900,38 @@
       ]
     },
     {
+      "path": "_news/2020-09-04-google-maps-using-deepmind-ai-to-predict-your-arrival-time.md",
+      "title": "Google Maps using DeepMind AI to predict your arrival time",
+      "excerpt": "Google has partnered with DeepMind, an Alphabet AI research lab, to improve the accuracy of its traffic prediction capabilities. \"Our ETA predictions already have a very high accuracy bar – in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
+      "originalUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
+      "publishedDateTime": "2020-09-04T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco.md",
       "title": "Yandex spins out self-driving car unit from its Uber JV, invests $150M into newco",
       "excerpt": "Self-driving cars are still many years away from becoming a ubiquitous reality, but today one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do.",
@@ -798,47 +1019,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-google-maps-using-deepmind-ai-to-predict-your-arrival-time.md",
-      "title": "Google Maps using DeepMind AI to predict your arrival time",
-      "excerpt": "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247",
-      "originalUrl": "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/9/2020_9$largeimg_1012661407.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247",
-      "publishedDateTime": "2020-09-03T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     },
@@ -987,179 +1167,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-ndivision-inc-lane-sorgen-appointed-to-chief-revenue-officer.md",
-      "title": "nDivision Inc. Lane Sorgen Appointed to Chief Revenue Officer",
-      "excerpt": "DALLAS, TX / ACCESSWIRE / September 3, 2020 / nDivision Inc. (OTCQB:NDVN), the experts in using “digital labor” to reduce costs and increase service levels, today announced the appointment of Lane Sorgen to Chief Revenue Officer.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/8cadd96d703080b0c317174623ac1fcb",
-      "originalUrl": "https://apnews.com/8cadd96d703080b0c317174623ac1fcb",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-03T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-were-entering-the-ai-twilight-zone-between-narrow-and-general-ai.md",
-      "title": "We’re entering the AI twilight zone between narrow and general AI",
-      "excerpt": "OpenAI's GPT-3 transcends the definition of narrow AI. It doesn't qualify as general AI, but it's the first clear sign that we've begun the shift.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/",
-      "originalUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/halfway.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/amp/",
-      "publishedDateTime": "2020-09-03T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-israels-rafael-anyvision-to-form-face-recognition-jv-for-defence.md",
-      "title": "Israel's Rafael, AnyVision to form face recognition JV for defence",
-      "excerpt": "Israel's Rafael Advanced Defense Systems said on Thursday it planned to establish a joint venture with startup AnyVision to apply facial recognition technologies to military systems, while AnyVision raised $43 million in a private funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03",
-      "originalUrl": "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03?amp",
-      "publishedDateTime": "2020-09-03T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-gao-audit-finds-pervasive-problems-with-us-airport-facial-recognition-program.md",
-      "title": "GAO audit finds pervasive problems with U.S. airport facial recognition program",
-      "excerpt": "According to the U.S. Government Accountability Office, a facial recognition verification program at U.S. airports has been plagued with problems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/",
-      "originalUrl": "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/",
-      "featuredContent": null,
-      "heat": 270,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/amp/",
-      "publishedDateTime": "2020-09-03T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

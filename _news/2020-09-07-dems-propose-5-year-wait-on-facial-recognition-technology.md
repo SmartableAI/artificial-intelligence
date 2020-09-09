@@ -55,6 +55,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Council to consider banning Face Recognition Technologies"
+    excerpt: "The City Council is scheduled to consider what may be the strongest bans on facial recognition technologies in the county on Wednesday. One ordinance would prohibit the acquisition and use of such technologies by city bureaus."
+    publishedDateTime: 2020-09-09T08:39:00Z
+    webUrl: "https://pamplinmedia.com/pt/9-news/479432-387355-council-to-consider-banning-face-recognition-technologies"
+    type: article
+    provider:
+      name: Portland Tribune
+      domain: pamplinmedia.com
+    quality: 39
+    images:
+      - url: "https://pamplinmedia.com/images/artimg/00003682419156-0644.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "FMPD wants to use face-recognition technology to solve crimes"
     excerpt: "The Fort Myers Police Department is using facial features to solve crimes. The face-recognition technology is already in place and used on a daily basis by the same organization that issues driver’s licenses."
     publishedDateTime: 2020-09-08T10:38:00Z
