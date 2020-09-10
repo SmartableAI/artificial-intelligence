@@ -38,7 +38,7 @@ tags:
   - Image Recognition
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/955460145814925312/hJG4yBSD_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1304125672919633923/i57xtW41_400x400.jpg"
     width: 400
     height: 400
     isCached: true
