@@ -3,10 +3,10 @@ category: news
 title: "Microsoft joins Nasscom to skill 10 lakh students in AI by 2021"
 excerpt: "Microsoft on Thursday joined hands with industry-driven learning ecosystem Nasscom FutureSkills to launch a nation-wide initiative that aims to skill 10 lakh students in Artificial Intelligence (AI) by 2021."
 publishedDateTime: 2020-09-10T09:14:00Z
-originalUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
-webUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
-ampWebUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
+originalUrl: "https://www.sify.com/news/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-education-ujkjlMhdhfahb.html"
+webUrl: "https://www.sify.com/news/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-education-ujkjlMhdhfahb.html"
+ampWebUrl: "https://www.sify.com/news/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-education-ujkjlMhdhfahb.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-education-ujkjlMhdhfahb.html"
 type: article
 quality: 54
 heat: -1
@@ -81,6 +81,17 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "NASSCOM FutureSkills® and Microsoft launch AI Classroom Series to skill India’s future workforce with AI capabilities"
+    excerpt: "As part of its ongoing efforts to promote skilling as a national priority, NASSCOM FutureSkills and Microsoft have joined hands to launch a nation-wide AI skilling initiative. The"
+    publishedDateTime: 2020-09-10T08:56:00Z
+    webUrl: "https://indiaeducationdiary.in/nasscom-futureskills-and-microsoft-launch-ai-classroom-series-to-skill-indias-future-workforce-with-ai-capabilities/"
+    ampWebUrl: "https://indiaeducationdiary.in/nasscom-futureskills-and-microsoft-launch-ai-classroom-series-to-skill-indias-future-workforce-with-ai-capabilities/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/nasscom-futureskills-and-microsoft-launch-ai-classroom-series-to-skill-indias-future-workforce-with-ai-capabilities/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 31
   - title: "NASSCOM FutureSkills Collaborates with Microsoft to launch AI Classroom Series, a Nation-Wide AI Skilling Initiative"
     excerpt: "NASSCOM FutureSkills Collaborates with Microsoft to launch AI Classroom Series, a Nation-Wide AI Skilling Initiative - NASSCOM FutureSkills and Microsoft have joined hands to launch a nation-wide Artificial Intelligence"
     publishedDateTime: 2020-09-10T07:05:00Z
@@ -96,6 +107,6 @@ related:
         height: 367
         isCached: true
 
-secured: "13+5ITGGsIFCpOGlEizQb4YWXUX4ZCxuP9jNG/x5L3kx3lWTlMnpwBMgxWk30BEnzTi6sOuSFN1TzbL8lgZuXOLkrVrEsJXQWUaGrKqhXBNXjKp+GfguBs1bN09m7/oCDXMnNeqRbcxeyJCvIEIYHqI64skBsl/RfKY+dVy7tWg6eIexv704r044Mvoh9kUe2iCVi8y50qwEfUyeQQP/d0/JPUdIhFxTBbODJoWlpASf6nUOlC3MyL5rB7Di3jsnCTdASbEZeNO8camx3U9doFaCNvCOWmn3tYZ2B20mSk7tF3LcI3UobT/jgQsCih33UXxgn+tAu4he634JmXDdyulQW7CdBrV4n+UxoiKuo3A=;pTrq1jwEHDmQppiEqvJGZQ=="
+secured: "8d+b18QxJ6+NjQWJsOVHFpXNGZpY2w13BPqO8yb0XsLFTmETa9vXZCFxqyLTP+AuVGXKIUNbc3D6NX/tZs8p8ldHsqdKkj4n6pbYcLCddsYRZbpg4ytaJvnXZR3m/a7W3OrbvWwqN+4ACNlRZSgUPCJAssRcCpAE+r0sXc7CtRQQ9IsLemU2trpC7NVeSFfPgOpxC6QzjZaJnIwS5seSibXf6j//yzNSDaVpwG/MAXNZHtXuiRW9GRTxPNsNmAR51W5FUfGlXNqAIIoJiwu1RD/GzSYONApq8CdVB7KWGd11Rx0mR8bGuAWWtgnHWK5fsb3uRLjRXP4ORtbyllBdWrj/4MB+vyyo3bc1hB4ayyk=;krufTvsjxb68umVKKBl99g=="
 ---
 

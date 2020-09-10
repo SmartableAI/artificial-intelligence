@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Facebook And Twitter Remove Russia-Backed Accounts Targeting Left-Leaning Voters"
+    excerpt: "Researchers say one of the operation's goals was to steer left-leaning voters away from the Biden-Harris campaign ahead of the November election."
+    publishedDateTime: 2020-09-10T17:39:00Z
+    webUrl: "https://www.wbur.org/npr/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 19
+    images:
+      - url: "http://media.npr.org/assets/img/2020/09/01/screenshot-333-_custom-6b08ca06fc7d8449576b71fad6349c752230414c.png?s=6"
+        width: 948
+        height: 475
+        isCached: true
+
 secured: "32yLBk1yalT1csBGo602N+lzoeCXZkca5XXp+zBeg0vvcy90q5yfULgot6zv6pFgUOoDm5RNPgJxvIFU39sQFWlIVSSkCoOkXrNcswmTGBPAgoW3YAEeWuqtdpHldCxv58vdUkImwKKE5eVSjLp047FI14sZ5AdsH6o2FcBI08PKaWZaYHSJtED5zej04L6KJ3fxopO5clNQCoWzO8Ei1rNBoqLDoG4WzwMBWR0mqPyZGY7lMwpapcneozNOg5vbC32XxpiqaG2eIUJgTF2qnsvp0Ck8ngmDU7HO+0D+43MQt1Ytwm46Pm3VnKkY5pij/I2Gr6DyDadAx4/vuTiY1/IAsnQuHCtwSwbfJXKS8PBBiOv9l4FBNUaH255QkqjnGHkpTG/ZowPnPKbFxNr+ADTR4mH4BV+ZBmVyjKzYDstbGJCCFVbZRjZJzhLXN43+ISTBenDt/6zNYmPQcIWKdIm6RRRlwNXDhbEoRZLhJu0p/HrWVhqN3SPDnOtUFbOvpVteyUwumHe8/NvHW+VOEw==;6uPaKU7e4wCsoLi4VXSRlQ=="
 ---
 

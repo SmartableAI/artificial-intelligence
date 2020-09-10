@@ -2,25 +2,25 @@
 category: news
 title: "IBM’s Watson is helping tennis fans argue with each other"
 excerpt: "Fans can discuss topics like the most influential players in history, and their arguments will be analyzed by IBM’s Watson technology (using the same AI tool that helped a computer take on a top ..."
-publishedDateTime: 2020-09-01T09:17:00Z
-originalUrl: "https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/"
-webUrl: "https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/"
+publishedDateTime: 2020-09-01T08:17:00Z
+originalUrl: "https://kesq.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/"
+webUrl: "https://kesq.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/"
 type: article
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: KESQ News
+  domain: kesq.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2019/11/Money-logo-new.jpg"
-    width: 1024
-    height: 576
+  - url: "https://kesq.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_day.png"
+    width: 280
+    height: 360
     isCached: true
 
-secured: "DwBYMNO8qz98XPlnikb+6REo58X4t5OwN4TCXCKKvJ9FtbwsgLCOoLMVtuFK43Eo2PG0nsg7gbwTCcdOCol0C4bBpjJIFtmDpzTe+aGADroBETf/OS3qTq0ggAffIhqojYPNfpxZocZj7XjEyE0dj7ypp3g1GOnUtt/LwSjMf7CULw/AihZt0YmaC1xkp/y5WJmEQKSAZg6wo+hZCrhhp11dhoohEsPIf+dnxFGKCMotb9ds9wRHuiSnlpLN5ulnZLacrkCHTz1q8cUGF1Xu+SfRY3nbs1CRcVmgD0r1HzzuVflZwVr/jlKHuveYrRtzuaIFsw+kSSy/w4ZLzuiFWQlzcrxBAC9Bl9WUkxc+lgs=;QHixu0jHiecxvm+JXplYCw=="
+secured: "Eu5+ELp+mSBBPGA50f/yY3YF9uIbBkQLJqriPpUKhtxg8zfAGEPEayN6ipvemE8f4ZXb23NR3zGOoCgY/6dZjY+GkiAgJ+ieNgwYbCZpc7XfHLr2KkT24rltIhrocIp4L1xBMn5KNyl6rgkbU/uI7gWmJpxkEBgaHwDT8vYEZeSqAZjYGenSBrXp/XVltg/0yxwlunmnyL8bf/PikorfTpUFPAdXG/jt1Ivifw+ihuQVPc0EzReKl6dJthrY62oqlR+bNvsBHY180KDBSqaxTyKgxITZityvRQ8PWzDtTDzKva5Xk4rqR5UazAmxSXUitA3vwt6hZ+HORHsa75SgMIHRDUduR7MRfX30MuYItJs=;cqfxRUH3bWWXi6GP40I1YQ=="
 ---
 

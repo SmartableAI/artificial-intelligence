@@ -3,8 +3,8 @@ category: news
 title: "In historic first, Portland bans corporations from using facial recognition tech on the public"
 excerpt: "But Portland residents can still use facial recognition tech, like the kind found in iPhones and Nest cameras."
 publishedDateTime: 2020-09-10T11:18:00Z
-originalUrl: "https://www.fastcompany.com/90549036/in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public?partner=feedburner"
-webUrl: "https://www.fastcompany.com/90549036/in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public?partner=feedburner"
+originalUrl: "https://www.fastcompany.com/90549036/in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public?ref=hvper.com"
+webUrl: "https://www.fastcompany.com/90549036/in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public?ref=hvper.com"
 type: article
 quality: 27
 heat: -1
@@ -360,6 +360,6 @@ related:
       domain: rt.com
     quality: 17
 
-secured: "5GgWisJEko7Y2d9nRNK6qTri1Q5PfT8AQxW1seT5BHVdHkwbA1pVyj1BMUFUizyjZX/6JQrPm3UiGTeWF2H7qyITH53PXrL7vhmYZBjYvdaqBZn0KiMmaDwutl5GgwIOjHfnwGYTAN01YumlDlmNwroSCizNGS3AZCDbftyC8Q32HAsSMAMh8s/RebRdGe+bWXJmOFR7Eb/cW3zVpasfVTFxKmxKRTa6HkFY+mVOk8o/5stvWDK2DoTRtzV96ZksfntOSz4y3lDcKpDg2sdqPbkNk0Inf51hpeDnwkP507zo2B8ZZAzjdJwdadCCHhwdjadlGWG4WFKJerf0yOifi+TeV/uFLuBk+l6Be1x08c0ljXNjnzakrgt7eKd+z9Hs1OBoLSMM72TbfHJrKYJD+vINTACdy7LaQ7QSHElh4b6/TDxooDjHjsf+kkUzKxzr10t92AOjg9n0b3XIPi9hmv/zf0k1bBEJyaBTa5L3HkdIRwo4c6wja8zifeMqNM3x93BnGTkUQenDIsQlxOC/GLkd3v6hUgVO8uEqfjLtGiU=;KmvDYADZfQldKcloDL5xiw=="
+secured: "rZZYjx9dv4/SOM5qJaAgCa1qU7vt2S7vybaU/SFbAXoGQYSkJrH/DZe2x+9b7aSnjkoTjP4h3h5HCOUYB6gEUNjId9pTXweKRCNhQQDzgL0+gMago1KTL9hVFq5cLI5/6m2qtEpZBRDYx69rPPMqvYPrnCANEwcyeX17wgsGpPigX8tO/AeKvD+gwsTMC/mAbiZLuca6C+SYXevoaVE/Btvp/Uw2npgGkCt6w2etpSTRfCxk2fFbr8FpEQeIZSLDQkuI59yAPaOJMJA0tcnGWawRA3a5bsfSeY2l/WwR6mlMrsAtFcq+ckQq0yYRD9FRf8UwAxAXJhu+I/9NjDa/apsohnpGpoTPBWoNJ41Zyy4=;Hiq2u2DkoIx5FDSYW4QfwA=="
 ---
 

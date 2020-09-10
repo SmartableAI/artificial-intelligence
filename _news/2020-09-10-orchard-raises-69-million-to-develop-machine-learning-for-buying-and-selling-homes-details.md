@@ -5,8 +5,10 @@ excerpt: "Orchard has raised $69 million in venture capital to continue the deve
 publishedDateTime: 2020-09-10T12:12:00Z
 originalUrl: "https://elmoudjaweb.com/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes-details/"
 webUrl: "https://elmoudjaweb.com/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes-details/"
+ampWebUrl: "https://elmoudjaweb.com/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes-details/?amp"
+cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes-details/?amp"
 type: article
-quality: 7
+quality: 64
 heat: -1
 published: false
 
@@ -17,6 +19,13 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://elmoudjaweb.com/wp-content/uploads/2020/09/Orchard-raises-69-million-to-develop-machine-learning-for-buying.jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Orchard raises $69 million to develop machine learning for buying and selling homes"
@@ -36,6 +45,6 @@ related:
         height: 600
         isCached: true
 
-secured: "/OdGtraFBqxgWJOQs3+/2YXysg0t5jzAXxyuK+QaJk2J9HM0ECJKB9+DCWiHr6fX2vXyzX0/Cnts+6+Is9HCfc17mzILDWtsAfTX6c6OnCu37OJzTFqpmWfkbT4564BbLFW9pUzaQArEBk5v8WWl0aflY3uIgPRaBpUM6bD/8gBsbizKd0YcvcIKBdWa07DDPJnbk1i4bWLhG+6thuyRM+qt+iwUmuz8CCylF2jZnOzLJcbLZUJMBGGaelK847jRniZB4L+wLplHMkVDaGdekDzRxKEGd0C7WtEZaxGvd4aTdOFd5VOjDvSNpV+SxrK3mCao7+tIhre8ehwUQkxBtuhs5B/EkRg2O+UnjFOavgD7VDXwKqmg3/aVqWtZbkPShOP57hwMVOcu0MmftZQX1d+xqflEkj9aW+5TBKg3+zwRxV0BQ24sgzem4BmYvPBEPxtVw1oJzYS7zVnXcfhTUyMS9GpCZX09uUDhmx8CAhJ+EDp6jFDkf4ivHmViuvBX5uYDPaUdzNZ+oeQC9Pb74A==;l0vSRPE3BUA+gur551/BaQ=="
+secured: "a4LsWZ/I4yXmFEgAF6/7f2VeSly1KaNTlKwacHMPJ3Mpcv3NzGJvnyQIylkLRTYiKdXNPGCmcDtgpVp5T8R3mBQjAIjgBvDEqo9XBthNZcZQnD6FBXk1/5P/pk4aBR826AYjv4LP74SjTpRJSccJDao7Eu5ShsrYkgvdXZyC7T+e+/v7/TvV47FT1gxPsV4/MBmOszgVmTrfF5j7P03iSwkPx3ybIEookGSAKEXyR0ucjkVE0icvyTQHaRfRHkY0BoZVTFFiUEds2szhSVhGxJHmAiKR+C5WzupJwXNLB749jnh4hgmiN5ZJKRqUXG9yp5Gw0FseyvkAYVR0KWjWLHBAzz4s/eXAwkqvz/u7m4g=;8GzQ/0VxhRsam23//bTjIQ=="
 ---
 
