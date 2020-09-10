@@ -20,57 +20,15 @@ topics:
   - AI
 
 related:
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2025"
-    excerpt: "MarketsandResearch.biz has published a new report titled, Global Edge Artificial Intelligence (AI) Chip Market"
-    publishedDateTime: 2020-09-07T20:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07"
+  - title: "Artificial Intelligence in Retail Market 2020-2023: Demand Analysis, Type, Statistics, Regions, and Industry Key Manufacture"
+    excerpt: "Artificial Intelligence is anticipated to disrupt every business and enterprises across the world. One of the major factors that drive the growth of artificial intelligence market"
+    publishedDateTime: 2020-09-08T07:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture-2020-09-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Commerce Artificial Intelligence Market 2020 Key Trends, Sales Growth, Market Value-Chain and Forecast to 2025"
-    excerpt: "MarketsandResearch.biz has introduced a new report titled Global Commerce Artificial Intelligence Market 2020 by Company, Type and Application, Forecast to 2025 that offers an all-encompassing analysis of recent and upcoming states of this industry,"
-    publishedDateTime: 2020-09-06T19:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-commerce-artificial-intelligence-market-2020-key-trends-sales-growth-market-value-chain-and-forecast-to-2025-2020-09-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Medical Market 2020 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2026"
-    excerpt: "New Study Reports \"Artificial Intelligence (AI) in Medical Market 2020 Global Market Opportunities, Challenges,"
-    publishedDateTime: 2020-09-08T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-2020-global-analysis-share-trend-key-players-opportunities-forecast-to-2026-2020-09-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Insurance Market 2020 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2025"
-    excerpt: "The new research report entitled, Global Artificial Intelligence (AI) in Insurance Market 2020 by Company, Type"
-    publishedDateTime: 2020-09-07T20:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-2020-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2025-2020-09-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -90,43 +48,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Insights on the IoT Chip in Healthcare Global Market to 2025 - Key Drivers and Restraints"
-    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
-    publishedDateTime: 2020-09-07T19:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-iot-chip-in-healthcare-global-market-to-2025---key-drivers-and-restraints-301125109.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 45
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Global Commerce Artificial Intelligence Market 2020 to 2025 Top Countries Data, Growth Pattern and Analyzing Impacts Of COVID-19"
-    excerpt: "An analysis report published by MarketsandResearch.biz entitled Global Commerce Artificial Intelligence Market"
-    publishedDateTime: 2020-09-06T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-commerce-artificial-intelligence-market-2020-to-2025-top-countries-data-growth-pattern-and-analyzing-impacts-of-covid-19-2020-09-06"
+  - title: "Neural Network Software Market 2020-2023: Emerging Trends, Top Companies, Future Growth, Revenue Analysis, Demand Forecast"
+    excerpt: "(U.S.), are the leading providers of neural network software in the global market. Recently, Neurala, Inc. has announced their investment in Neural Network AI Software. With this announcement, the company wants to initiate deep learning of neural network platform which is a smart move towards smart products such as toys,"
+    publishedDateTime: 2020-09-08T07:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-2023-emerging-trends-top-companies-future-growth-revenue-analysis-demand-forecast-2020-09-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI over Edge Computing Market 2020 Competitive Dynamics, Growth Analysis, Segmentation and Worldwide Players Strategies up to 2025"
-    excerpt: "An analysis report published by MarketsandResearch.biz entitled Global AI over Edge Computing Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is an in-depth study and detailed information regarding the market size,"
-    publishedDateTime: 2020-09-06T18:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-competitive-dynamics-growth-analysis-segmentation-and-worldwide-players-strategies-up-to-2025-2020-09-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

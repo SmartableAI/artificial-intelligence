@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Tachyum Prodigy Native AI Supports TensorFlow and PyTorch"
-excerpt: "--(BUSINESS WIRE)--Tachyum™ Inc. today announced that it has further expanded the capabilities of its Prodigy Universal Processor through support for TensorFlow and PyTorch ..."
-publishedDateTime: 2020-08-26T12:09:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200826005129/en/Tachyum-Prodigy-Native-AI-Supports-TensorFlow-PyTorch"
-webUrl: "https://www.businesswire.com/news/home/20200826005129/en/Tachyum-Prodigy-Native-AI-Supports-TensorFlow-PyTorch"
+excerpt: "SANTA CLARA, Calif., August 26, 2020 – Tachyum Inc. announced that it has further expanded the capabilities of its Prodigy Universal Processor through support for TensorFlow and PyTorch environments, enabling a faster, less expensive and more dynamic ..."
+publishedDateTime: 2020-08-26T16:06:00Z
+originalUrl: "https://www.hpcwire.com/off-the-wire/tachyum-prodigy-native-ai-supports-tensorflow-and-pytorch/"
+webUrl: "https://www.hpcwire.com/off-the-wire/tachyum-prodigy-native-ai-supports-tensorflow-and-pytorch/"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: HPCwire
+  domain: hpcwire.com
 
 topics:
-  - TensorFlow
   - Google AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200826005129/en/665930/23/tachylogoa.jpg"
-    width: 1200
-    height: 627
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png"
+    width: 440
+    height: 440
     isCached: true
 
-secured: "7fIoNQo4iPYGU7VpGKRAEXA5QNEgPtHK+rUEEaAmwTu6ImCeiF3947s8GnILRGFI3Bg4iJ6cAzAm4xXftrDk8tdhM9Jd9eBNkm8tXgTHQnHFP11X4x2ftdMsqzTqIQVcPU555SK8vNOKPIOh8dFUdHHyhevKaq4e/Gpevcs2OeXMs1PS5kQsFwC8/jTLl/F1XTmknAXkpKdLpH42hKDyKlK2Xd3z9ppo6baifX6d7AdXRAzjnHruzgJkCN0MRNpDAjHVqfyjPc2KjSypN6iNBCgJCCsCkleanZ5+4z6/l3S0K1otNNQTZI1dOn+qBaFhe+e5aiw9OXhLS8InIp8Rth7svYnD1DE0vXh2Vm5nH2w=;xyTGKLG2JFTnJdUYkEBiUw=="
+secured: "mdBGc7n0TtRx/lck+5nEd4/m9cJnYHlpNKDGA8rhsbGAYR455xDU0JY2FiaAl+3NU4b7abzILhSNF/q2PZ43H64UMjAtyiD7VaeXxp+1FTIWO5ji88NtK/ZDD1Z3Khkv3wJxuuNbVwyU+suS9tl7G+MWPoS5hMXirRxOHczjrJzi1ZsH6lcE9GifT7w2pmq+X2faFGuw7voTZOWd5jL1EcR9j3bQcTL42F144WAZoMYCmDlnNxxcF3l+ZkX+s4XcZ6wb3gWigiGkCTi6vlhSE1kbyhN+mn8xazsywPh5xQyAZv4o3S7C4vzGOwY5FAiTkBz85kLUAHtR+9H66GNeutGNHTnIVIl04pkhENJ3c5g=;8LPxVPC6Y2PemkpqNulzWA=="
 ---
 

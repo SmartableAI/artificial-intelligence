@@ -3,11 +3,11 @@ category: news
 title: "How the Trevor Project is using AI to prevent LGBTQ suicides"
 excerpt: "Over the past three years, the nation’s largest suicide prevention organization for LGBTQ youth has undergone a major tech overhaul, most recently using machine learning to assess high-risk outreach."
 publishedDateTime: 2020-09-09T11:00:00Z
-originalUrl: "https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides"
-webUrl: "https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides"
+originalUrl: "https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides?partner=feedburner"
+webUrl: "https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides?partner=feedburner"
 type: article
-quality: 37
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: fastcompany.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -23,24 +24,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "How the VA is using artificial intelligence to improve veterans' mental health"
-    excerpt: "I remember when I was in the military I had to talk to leaders [who] would chastise service members for getting medical support for mental health,” said Becker, who served at the Navy's Bureau of Medicine and Surgery,"
-    publishedDateTime: 2020-09-08T20:52:00Z
-    webUrl: "https://thehill.com/changing-america/well-being/mental-health/515536-how-the-va-is-using-artificial-intelligence-to"
-    ampWebUrl: "https://thehill.com/changing-america/well-being/mental-health/515536-how-the-va-is-using-artificial-intelligence-to?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/515536-how-the-va-is-using-artificial-intelligence-to?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 55
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_mentalhealthhotline_8820istock.jpg"
-        width: 1440
-        height: 880
-        isCached: true
-
-secured: "geJET4fmWRWW2AINOruX6L0Mo29BXUObn/3SFYotLuYythG9RoXIhDNW/5vBbiO2U2SS4D3DR1AZHjzomWhAkUmdJfktbB93oYEb5MbuBzVTi00+FI+jzxZ8O88lb93PYPwrKxccpv1bj8GICmDBZ+7yCuc6mHLukdIWtf3P2VQ6vKoGjxjhYN59yfGEkAFcCHwVKLOymetADTIOEBd/n8CXrVUAvp0iu/eWgRAHX5PCIiAaCClKzFZ4MpgiYX2u0icxbvpaMX4AzFmIHOQ8DwayhhNwLA5rEa8gk2s/ZUppwCfI0D8xae4gmP4EzzhCPs+4NFhdX73ODAbbCFRrsA/1YCWtmhqkzTXUW8In9Q0=;LaA0g6/ckcX3RhH3Ki1OJg=="
+secured: "YEE4MtQJzD8eoBOzYMGjUYiwfY6rzkH6+rzAn+Xlwufyu++kncvCjkUqIBtOOiC2OBTgXa7IqDe/0d8y75/XT14eZR9SsiGRThFRiUCx+/GZpVH9+fyRa20g/svLjVia5MJAzjpEjYNiFtAhBIlsnOTCfNPc1Wae3yDvpfVBH8HxwkyxRk4Vn13x97Z8x48bHChdb87jbe4QrxKbulXhpEtWJ1JBqChZJH9BiU9OTyCilPdY7LrZIKYPfEYwwRBfDzV7yTqPVmkhASiQV+YwA78HO61o1K3eRvncdrX4uLCKi4pzmYCp1fb3AuzS8ADEVCSjcp9A/XEaynPJX1VqZlNikTtytXR6RSjnf/8yi4M=;/efKcssBRWtWuD1Odh0dvQ=="
 ---
 

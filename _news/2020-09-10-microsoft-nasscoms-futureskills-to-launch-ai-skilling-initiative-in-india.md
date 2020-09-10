@@ -1,42 +1,32 @@
 ---
 category: news
-title: "Microsoft joins Nasscom to skill 10 lakh students in AI by 2021"
-excerpt: "Microsoft on Thursday joined hands with industry-driven learning ecosystem Nasscom FutureSkills to launch a nation-wide initiative that aims to skill 10 lakh students in Artificial Intelligence (AI) by 2021."
-publishedDateTime: 2020-09-10T09:14:00Z
-originalUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
-webUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
-ampWebUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
+title: "Microsoft, Nasscom’s FutureSkills to launch AI-skilling initiative in India"
+excerpt: "Microsoft in collaboration with Nasscom’s FutureSkills will launch a nation-wide initiative in India to skill students in Artificial Intelligence. The initiative aims to skill 1 million students by 2021."
+publishedDateTime: 2020-09-10T11:24:00Z
+originalUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece"
+webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece"
+ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece/amp/"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 72
+heat: 122
+published: true
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Business Line
+  domain: thehindubusinessline.com
 
 topics:
   - Microsoft AI
   - AI
 
+images:
+  - url: "https://www.thehindubusinessline.com/info-tech/uofolo/article32569375.ece/ALTERNATES/LANDSCAPE_615/BL11AISKILL"
+    width: 615
+    height: 384
+    isCached: true
+
 related:
-  - title: "Microsoft, Nasscom’s FutureSkills to launch AI-skilling initiative in India"
-    excerpt: "Microsoft in collaboration with Nasscom’s FutureSkills will launch a nation-wide initiative in India to skill students in Artificial Intelligence. The initiative aims to skill 1 million students by 2021."
-    publishedDateTime: 2020-09-10T11:24:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 72
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/uofolo/article32569375.ece/ALTERNATES/LANDSCAPE_615/BL11AISKILL"
-        width: 615
-        height: 384
-        isCached: true
   - title: "NASSCOM FutureSkills and Microsoft to Offer Free Training in Artificial Intelligence for Undergraduate Students"
     excerpt: "The Artificial Intelligence Classroom Series will deliver Microsoft’s AI, machine learning and data science expertise to undergraduate students at no cost"
     publishedDateTime: 2020-09-10T10:44:00Z
@@ -53,6 +43,17 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Microsoft joins Nasscom to skill 10 lakh students in AI by 2021"
+    excerpt: "Microsoft on Thursday joined hands with industry-driven learning ecosystem Nasscom FutureSkills to launch a nation-wide initiative that aims to skill 10 lakh students in Artificial Intelligence (AI) by 2021."
+    publishedDateTime: 2020-09-10T09:14:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
+    ampWebUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 54
   - title: "NASSCOM FutureSkills and Microsoft Launch AI Classroom Series"
     excerpt: "As part of its ongoing efforts to promote skilling as a national priority, NASSCOM FutureSkills and Microsoft have joined hands to launch a nation-wide AI skilling initiative. The initiative aims to skill 1 million students in AI by 2021."
     publishedDateTime: 2020-09-10T08:05:00Z
@@ -96,6 +97,6 @@ related:
         height: 367
         isCached: true
 
-secured: "13+5ITGGsIFCpOGlEizQb4YWXUX4ZCxuP9jNG/x5L3kx3lWTlMnpwBMgxWk30BEnzTi6sOuSFN1TzbL8lgZuXOLkrVrEsJXQWUaGrKqhXBNXjKp+GfguBs1bN09m7/oCDXMnNeqRbcxeyJCvIEIYHqI64skBsl/RfKY+dVy7tWg6eIexv704r044Mvoh9kUe2iCVi8y50qwEfUyeQQP/d0/JPUdIhFxTBbODJoWlpASf6nUOlC3MyL5rB7Di3jsnCTdASbEZeNO8camx3U9doFaCNvCOWmn3tYZ2B20mSk7tF3LcI3UobT/jgQsCih33UXxgn+tAu4he634JmXDdyulQW7CdBrV4n+UxoiKuo3A=;pTrq1jwEHDmQppiEqvJGZQ=="
+secured: "qXz1x8hGv31m0up+IHtM3ntshib0fT/5PTQt6Yg3VmUzogwWWoWyHsdIo2E2wG5ee9iuWvwNBfvbvB3hJa18T77J2+XmNNukwLontgppnrcAtNEenj/WOIOyHqFEouHJ0cUva5mxeZqxhP0D7g0u4fbnRhYVo99iNRSHhoX6oi1AJxmknNdXa9w+M0BdDUbfHTQzBWuZ2XMIqaAuWRVQj+KD8q6WbGdubFw7zOBZYtc2WdyvfPEgf0OoUYzOPP4YJZ2jMFjMj5MTXuevvYO1MrVV886rQmOAtGbp3d23bitJsiESAnMvd4xKvZxmbOlIxIjCsK7Qua6pndDnUEeNgLqKZjs2PCdBAZE+E2ImerI=;fZ9P2hk7JkcsBe0ADTWS3Q=="
 ---
 

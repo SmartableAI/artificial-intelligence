@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Market Size, Growth, Trends and Global Segments Analysis Report"
+    excerpt: "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with"
+    publishedDateTime: 2020-09-10T10:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report-2020-09-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2025"
     excerpt: "MarketsandResearch.biz has published a new report titled, Global Edge Artificial Intelligence (AI) Chip Market"
     publishedDateTime: 2020-09-07T20:21:00Z
@@ -37,6 +51,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
+    excerpt: "The Artificial Intelligence in Healthcare market report provides analysis for the period 2018-2030, where in the"
+    publishedDateTime: 2020-09-09T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -70,6 +98,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence (AI) Market Share, Growth By Top Company, Region, Applications, Drivers, Trends & Forecast to"
+    excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
+    publishedDateTime: 2020-09-10T09:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-share-growth-by-top-company-region-applications-drivers-trends-forecast-to-2020-09-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Machine Learning in Retail Market Detailed Analysis Report by Market Dynamics, Size, Growth, Covid-19 Impact and Forecast to 2024"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning in Retail"
+    publishedDateTime: 2020-09-08T13:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-retail-market-detailed-analysis-report-by-market-dynamics-size-growth-covid-19-impact-and-forecast-to-2024-2020-09-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Insurance Market 2020 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2025"
     excerpt: "The new research report entitled, Global Artificial Intelligence (AI) in Insurance Market 2020 by Company, Type"
     publishedDateTime: 2020-09-07T20:06:00Z
@@ -84,59 +140,100 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "COVID-19 Outbreak- Global Artificial Intelligence in Construction Market 2020 Key Players, Industry Overview, Supply Chain and Analysis to 2026"
-    excerpt: "The global “Artificial Intelligence in Construction Market” report can help to understand the market and strategize"
-    publishedDateTime: 2020-09-10T02:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-outbreak--global-artificial-intelligence-in-construction-market-2020-key-players-industry-overview-supply-chain-and-analysis-to-2026-2020-08-26"
+  - title: "Global Artificial Intelligence Market Latest Industry Size, Growth Factors and Major Segments, Forecast Research Report"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-09-08T16:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-latest-industry-size-growth-factors-and-major-segments-forecast-research-report-2020-09-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Insights on the IoT Chip in Healthcare Global Market to 2025 - Key Drivers and Restraints"
-    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
-    publishedDateTime: 2020-09-07T19:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-iot-chip-in-healthcare-global-market-to-2025---key-drivers-and-restraints-301125109.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
     quality: 45
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Global Commerce Artificial Intelligence Market 2020 to 2025 Top Countries Data, Growth Pattern and Analyzing Impacts Of COVID-19"
-    excerpt: "An analysis report published by MarketsandResearch.biz entitled Global Commerce Artificial Intelligence Market"
-    publishedDateTime: 2020-09-06T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-commerce-artificial-intelligence-market-2020-to-2025-top-countries-data-growth-pattern-and-analyzing-impacts-of-covid-19-2020-09-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Explore Trends and COVID-19 Impact on Russia and NATO Artificial Intelligence in Military Market 2020 Research Report and Industry Forecast till 2026"
-    excerpt: "Pages PDF Report] Facts & Factors (FnF) published a market research report on “Russia and NATO Artificial Intelligence in Military Market: By Size, Share, Growth Factors, Top Players, COVID-19 Analysis and Forecast,"
-    publishedDateTime: 2020-09-07T11:02:00Z
-    webUrl: "https://galusaustralis.com/2020/09/964076/explore-trends-and-covid-19-impact-on-russia-and-nato-artificial-intelligence-in-military-market-2020-research-report-and-industry-forecast-till-2026/"
-    ampWebUrl: "https://galusaustralis.com/2020/09/964076/explore-trends-and-covid-19-impact-on-russia-and-nato-artificial-intelligence-in-military-market-2020-research-report-and-industry-forecast-till-2026/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/964076/explore-trends-and-covid-19-impact-on-russia-and-nato-artificial-intelligence-in-military-market-2020-research-report-and-industry-forecast-till-2026/amp/"
+  - title: "Europe Artificial Intelligence (AI) Market: Industry Analysis and Forecast (2019-2026) – by Offering, by Technology, by End user and by Country"
+    excerpt: "Market was valued at 17.20 billion in 2018 and is expected to grow at a CAGR of XX % between the forecast period of 2018 and 2026. The Europe Artificial Intelligence is segmented by offering, by technology,"
+    publishedDateTime: 2020-09-07T09:49:00Z
+    webUrl: "https://galusaustralis.com/2020/09/963429/europe-artificial-intelligence-ai-market-industry-analysis-and-forecast-2019-2026-by-offering-by-technology-by-end-user-and-by-country/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/963429/europe-artificial-intelligence-ai-market-industry-analysis-and-forecast-2019-2026-by-offering-by-technology-by-end-user-and-by-country/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/963429/europe-artificial-intelligence-ai-market-industry-analysis-and-forecast-2019-2026-by-offering-by-technology-by-end-user-and-by-country/amp/"
     type: article
     provider:
       name: galusaustralis.com
       domain: galusaustralis.com
-    quality: 0
+    quality: 38
+    images:
+      - url: "https://www.maximizemarketresearch.com/wp-content/uploads/2018/07/Europe-Artificial-Intelligence-AI-Market-By-Offering.png"
+        width: 435
+        height: 279
+        isCached: true
+  - title: "Data-storage-market Global Industry Size, Segments, Share and Growth Factor Analysis Research Report 2026"
+    excerpt: "The digitalization of the world led industries to generate a tremendous amount of data. As the paper-based work is"
+    publishedDateTime: 2020-09-10T09:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-storage-market-global-industry-size-segments-share-and-growth-factor-analysis-research-report-2026-2020-09-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition Market Growth Opportunities, Industry Challenges, Size, Future Trends and Demand Analysis by 2026"
+    excerpt: "The global image recognition market is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-09-08T11:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-growth-opportunities-industry-challenges-size-future-trends-and-demand-analysis-by-2026-2020-09-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market : Research Consumption, Companies , Industry Report Analysis and Future Demand"
+    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
+    publishedDateTime: 2020-09-07T20:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-research-consumption-companies-industry-report-analysis-and-future-demand-2020-09-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Emotion Artificial Intelligence Market 2020 Emerging Players, Growth Analysis And Precise Outlook – 2025"
+    excerpt: "Global Emotion Artificial Intelligence Market Size research report with COVID-19 impact is considered to be an accurate and deep assessment of the present industrial conditions along with the overall Emotion Artificial Intelligence market size estimated from 2020 to 2025."
+    publishedDateTime: 2020-09-07T08:00:00Z
+    webUrl: "https://galusaustralis.com/2020/09/962526/emotion-artificial-intelligence-market-2020-emerging-players-growth-analysis-and-precise-outlook-2025/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/962526/emotion-artificial-intelligence-market-2020-emerging-players-growth-analysis-and-precise-outlook-2025/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/962526/emotion-artificial-intelligence-market-2020-emerging-players-growth-analysis-and-precise-outlook-2025/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 22
+  - title: "Global Artificial Intelligence in Fintech Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
+    excerpt: "Summary A New Market Study titled Artificial Intelligence in Fintech Market Upcoming Trends Growth Drivers and Challenges has been featured on WiseGuyReports This report provides in depth study of Artificial Intelligence in Fintech Market using SWOT analysis i e Strength"
+    publishedDateTime: 2020-09-09T15:19:00Z
+    webUrl: "https://www.openpr.com/news/2131190/global-artificial-intelligence-in-fintech-market-2020-key"
+    ampWebUrl: "https://www.openpr.com/amp/2131190/global-artificial-intelligence-in-fintech-market-2020-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2131190/global-artificial-intelligence-in-fintech-market-2020-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
 
 secured: "KwKBgwKfaXM1gCk+TqQ2/McMVvpUqkeKS0NRk0OUT4kPClMwiNqc4tCiq1nKbDY7gry3Q3IpTgGEq+ljUOsMkttCOydCMtzVjTdhE2CXMBMu0pXE8Cjf91cz3iHeUxWl3/7S7GMP8MFkMVG2CxvtsqtRbJ9UMrSZkdh3qVPLZwvG5Vkuifj3KzHIsizjhHAw1MgXcs7pG86uox7EW6FsA8yeh9l6Se8jo67272TfdMXM7FoIlDiX24Wbsgn7fto6aoWIpUhtADymfPzIObFqY5JruBE37MFvhXac8VNM300k0olyLag0Y2Rh5sii2/pAm+mpKQfFTop1Pf8QKaY+9b9c2Q9MgLYv1fxVJCuoBRs=;R4w2Qa8lXX4Xq3TQf6HlGQ=="
 ---

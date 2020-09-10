@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-08T16:00:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html"
 webUrl: "https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html"
 type: article
-quality: 11
-heat: 11
+quality: 9
+heat: 9
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-  - Facebook AI
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
@@ -25,6 +24,6 @@ images:
     height: 315
     isCached: true
 
-secured: "84k3tWMT9rMYeYvb/04ccok+iM/xTdOsZs8mt7zV+n25FgtQn4KIdh+/D0fQqOJL63mW6CiA/9YMpDWt+Ds6pInS2bETk7kA48Z3Xlqoqgs1SvjeG46MRQ+1cAljOfxi++5tRvzttHJO82i0hboQ0874rCYSqrecMD/Yw0lnseo33PfMINBRdNi24hTU4sQX6w22LDNQTpSo26YFRCP5PBhzfWuWv7k3d97+47iPFhOQbNQGeK85X0bzWUtcLfwr6h5Kw4vEXWb+b2HcV0uNDN2bG2LVqFDIGpylSnI45qRgVTDESG26a4Y2xd3jSb/v24AoxLBuxPtEgZQ/2JBgyc03T81n515ktyl3+817Vo0=;CX0VPGYLTES9G4u8+rHdEw=="
+secured: "0Tfb59N+uzjsRMFlenASgMoZ9DzhxSTb5tQaTMS9RM2Q1hd/39lW2nEP+9Nm3oWLIEv9e//AmfQTODv2kpDA0pg56Fov7IVhOaWWYEMbWaRPh2jtN1lh2RBoJbt9AGW40p+pxG0RKwdHHR44Iv3Wwh+oQIYih71HhoEU9/GTTAnoHNV9Etde/QkShQUSABp03c1MsT/e5M6ts8zssC3IZDWl4vn3mo3n39nFDhtZoeN28Tw+Ax0xEznUz3RQayUk5HNCb2RW3pOjC6mg8SOQwjJrGvIq4bZRKwQwIbqYtbVvgsp2zGpxFL5aMuU8jSTvRmtdm+ijdSjdgIa2j9p179Haeb68S6XENJ9ZO2LHlE8=;lo5qvX3PU5URn2gYWPAR5A=="
 ---
 

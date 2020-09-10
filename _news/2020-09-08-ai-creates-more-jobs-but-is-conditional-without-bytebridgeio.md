@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-08T09:00:00Z
 originalUrl: "https://apnews.com/62ed4828008d6849110fcaac5ead45c1"
 webUrl: "https://apnews.com/62ed4828008d6849110fcaac5ead45c1"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
