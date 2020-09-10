@@ -84,15 +84,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
-    excerpt: "The Artificial Intelligence in Healthcare market report provides analysis for the period 2018-2030, where in the"
-    publishedDateTime: 2020-09-09T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09"
+  - title: "COVID-19 Outbreak- Global Artificial Intelligence in Construction Market 2020 Key Players, Industry Overview, Supply Chain and Analysis to 2026"
+    excerpt: "The global “Artificial Intelligence in Construction Market” report can help to understand the market and strategize"
+    publishedDateTime: 2020-09-10T02:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-outbreak--global-artificial-intelligence-in-construction-market-2020-key-players-industry-overview-supply-chain-and-analysis-to-2026-2020-08-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

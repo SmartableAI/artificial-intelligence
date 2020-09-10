@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/</loc>
+    <lastmod>2020-09-09T19:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/visualizing-tensorflow-training-jobs-with-tensorboard/</loc>
     <lastmod>2020-09-09T14:54:23-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -165,6 +171,12 @@
   <url>
     <loc>https://www.ibtimes.sg/future-defense-artificial-intelligence-robotics-driving-modern-day-military-51327</loc>
     <lastmod>2020-09-09T02:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09</loc>
+    <lastmod>2020-09-09T02:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -349,7 +361,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/business-53794472</loc>
+    <loc>https://www.bbc.com/news/business-53794472?User-Agent=Mozilla%252F5.0+%2528Windows+NT+10.0%253B+Win64%253B+x64%2529+AppleWebKit%252F537.36+%2528KHTML%252C+like+Gecko%2529+Chrome%252F83.0.4103.116+Safari%252F537.36</loc>
     <lastmod>2020-09-07T16:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1075,12 +1087,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://m.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02</loc>
-    <lastmod>2020-09-02T07:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/</loc>
     <lastmod>2020-09-02T06:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1143,6 +1149,12 @@
   <url>
     <loc>https://www.zdnet.com/article/python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects/</loc>
     <lastmod>2020-09-02T02:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02</loc>
+    <lastmod>2020-09-02T02:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2839,13 +2851,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions-301117303.html</loc>
-    <lastmod>2020-08-24T14:00:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions/article_c1ccf754-d6de-59b4-9e40-e512448877a7.html</loc>
+    <lastmod>2020-08-24T14:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/PR%2520Newswire/0f7c90ea95af269d94b86c19e9136ec1</loc>
+    <loc>https://www.prnewswire.com/news-releases/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions-301117303.html</loc>
     <lastmod>2020-08-24T14:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

@@ -82,6 +82,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Portland passes strongest facial recognition ban in the US"
+    excerpt: "The Portland City Council has passed the toughest facial recognition ban in the US, blocking both public and private use of the technology. Other cities such as Boston, San Francisco, and Oakland have passed laws barring public institutions from using facial recognition,"
+    publishedDateTime: 2020-09-10T02:47:00Z
+    webUrl: "https://www.theverge.com/2020/9/9/21429960/portland-passes-strongest-facial-recognition-ban-us-public-private-technology"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/9/21429960/portland-passes-strongest-facial-recognition-ban-us-public-private-technology"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/9/21429960/portland-passes-strongest-facial-recognition-ban-us-public-private-technology"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 89
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/LuaUGCrUvBGbck9jMesjkgbXgIY=/1485x0:5632x2880/1400x933/filters:focal(3024x864:4176x2016):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67380178/1177459891.jpg.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Portland City Council votes to ban facial recognition technologies in public places"
     excerpt: "Portland City Council voted to ban the use of facial recognition in public places and by government agencies, including the Portland Police Department."
     publishedDateTime: 2020-09-09T23:17:00Z
@@ -218,6 +234,28 @@ related:
         width: 4000
         height: 2110
         isCached: true
+  - title: "Portland approves strictest ban on facial recognition technology in the U.S."
+    excerpt: "The new Portland facial-recognition ban prohibits businesses from collecting, using or storing people’s facial or biometric information gathered in spaces open to the public, such as parks or grocery stores."
+    publishedDateTime: 2020-09-10T02:40:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/portland-approves-strictest-ban-on-facial-recognition-technology-in-the-u-s/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/portland-approves-strictest-ban-on-facial-recognition-technology-in-the-u-s/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/portland-approves-strictest-ban-on-facial-recognition-technology-in-the-u-s/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 36
+  - title: "Portland passes unprecedented ban on facial recognition tech, despite $24,000 Amazon lobbying effort to kill initiative"
+    excerpt: "Portland lawmakers unanimously passed a sweeping ban on facial recognition technology, becoming the first city to bar both public and private entities from the controversial software and defeating Amazon’s bid to kill the measure."
+    publishedDateTime: 2020-09-10T02:16:00Z
+    webUrl: "https://www.rt.com/usa/500320-portland-bans-facial-recognition/"
+    ampWebUrl: "https://www.rt.com/usa/500320-portland-bans-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/500320-portland-bans-facial-recognition/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 17
 
 secured: "fujPWgzYjhRlsqF16eWtNlXxMzxmCwsK5iKC2a20Fj/O0FE9ipHH/yZwebWEwGuNMvEJp92A/jARCmLui+jLX/0CQMSnrVhHffodI2nErkNsIDHaymjhWYmWihramVRLeMxdZt7cOOBZn95x1XXVEbyNpeHy1U5aRyPszt94oDSI6qjJxGSvsHifivRnMWN5T7crE/c3xEEycuH9LRxEO6C43ZH+gKfeAQWkUVPo/Ygcq4+4vurxlJxDMnvbBSAJwChkYy6dfQ0svxf6c5VSmc5uGP3CXA39y6Hmu6uIJgyTSD0oVq2FALTB2cJSd2L+z/mARUt0VVlZQtMmteQF/0cn1haOopjalJZ6IKoqGZ6HSUduj64AAjUVkimCbOpAb5kQ9yuT2l13zh534zJ8p38Gzz/rNDHrdfDXcTvxqD/jsetYTwTVRKIR4MQgBoISOUUVNyclAvyi44DZDjaWZ4rBDn3C/Ccr/Yuss5VxRzwWZy5KxzNcm07hactm3BV4DfaXgBzLEGo2gRg1EMUc/Kl9lqJUSHZfztihYZAPGh8=;EQUcPv9PiIRb2dVMY5hZEw=="
 ---

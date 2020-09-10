@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-23-facebook-is-using-bots-to-figure-out-how-to-stop-harassment.md",
+      "title": "Facebook is using bots to figure out how to stop harassment",
+      "excerpt": "Facebook says its researchers are developing new technology they hope will aid in ongoing efforts to make its platform’s AI have the ability to snuff out harassment. In the Web-Enabled Simulation (WES),",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/facebook-bots-simulate-harassment-080003548.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Fca2633f0-cb8d-11ea-bfdf-800ad9fc692d&client=amp-blogside-v2&signature=637051b1de4706676fc8b0fb323852b75667e1de",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-bots-simulate-harassment-080003548.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-bots-simulate-harassment-080003548.html",
+      "publishedDateTime": "2020-07-23T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-facebook-is-simulating-users-bad-behavior-using-ai.md",
       "title": "Facebook is simulating users’ bad behavior using AI",
       "excerpt": "The research is being led by Facebook engineer Mark Harman and the company’s AI department in London. Speaking to journalists, Harman said WW was a hugely flexible tool that could be used to limit a wide range of harmful behavior on the site, and he gave ...",

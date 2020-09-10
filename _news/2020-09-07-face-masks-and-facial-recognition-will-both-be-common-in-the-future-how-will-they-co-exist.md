@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Face masks and facial recognition will both be common in the future. How will they co-exist?"
-excerpt: "With face masks now compulsory or recommended in various parts of the country, how are facial recognition systems functioning?"
-publishedDateTime: 2020-09-06T20:13:00Z
-originalUrl: "https://theconversation.com/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417"
-webUrl: "https://theconversation.com/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417"
-ampWebUrl: "https://theconversation.com/amp/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417"
+title: "Face Masks and Facial Recognition Will Both Be Common in the Future — How Will They Co-Exist?"
+excerpt: "It’s surprising how quickly public opinion can change. Winding the clocks back 12 months, many of us would have looked at a masked individual in public with suspicion. Now, some countries have enshrined face mask use in law."
+publishedDateTime: 2020-09-07T03:00:00Z
+originalUrl: "https://www.gizmodo.com.au/2020/09/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist/"
+webUrl: "https://www.gizmodo.com.au/2020/09/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist/"
+ampWebUrl: "https://www.gizmodo.com.au/2020/09/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist/amp/"
+cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/09/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist/amp/"
 type: article
 quality: 48
 heat: 48
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Gizmodo Australia
+  domain: gizmodo.com.au
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/353221/original/file-20200817-24-10qf4oa.png?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=267&fit=crop"
-    width: 320
-    height: 267
+  - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/09/07/facial-recognition-face-masks.png"
+    width: 1140
+    height: 663
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 358
         isCached: true
 
-secured: "TLnILTZlLLiUJQ2VybN3SYzWzO+ENzgkDd8Whm1bOxct4yiX5+fzkkn2qygwUOPEGbTqxkiYBglLj3ATslUA3MDKj9p7W4YTqasqwNJGrwcecPhS0NShHYjS72sBO5V7THYOVz2A1kBilcwDdgwtSREHRv5tQCGpqDNU7GCMCgUQGYyBtDbjz7DYKa3LjI32t/sYcz0eo/qaT4z12479EJzjLTFquw9lloP54wD5m5/zKC2Q9qBLWDuvHDxvAikD5pTQ67Kiiin3q7iyGqWc9DPTEWUtNCSv1ucvkm3JgzoN+8LRZrrkOU1riVzuGr3Db7GYIBRpfXexGzD24YA4nLEhjv7Y8t+S8AMvGkMdnVhdcKaVUdnRlua5kJ/flewI+6YhuLUfx17MmRJ30yqMJGJJiIFOtvyy8v5Ox2Y0IEx/9RBBLcBpNHR9RRVd72X2EHVOIXKLKd72M7ZiyAuJfQ0IFw9reOLVhC9jCH++164ZCziOjAKcZehLvjNq5OxYKn/1m6dmPkG/60f64Sxp7Lp+Bzjt7gJQy4ZKGNYzBzA=;NwpSBISYyvoj9DTCHDet4w=="
+secured: "FY8OWDowj9Oendyl8CaN9AW6IOFEKhdtKEJmnCyuDQ1+kdoso0z9CPOK/9ChwbbdM8UvVhEfL2BS2q69Mjf47RrAdgnyVDxq3xSyK98uD9CHctqJFkirbTYPFR92bHdQ1+ABA7HSGTA3xOOIkB6USF9euAJ5Mfs18oAcDbELykhgYi5ivpq7Iq12g3nofdivAoYgx+EKYYbBugGCMzNkpK5a5gWJVEuWh7v6C0VaDXZEXEZkKLRaRnRgx3QTG/9fNE4at78UuOJp41hJbmVEARPgX/0++mfZvRjXSACIleiIOLfmGZ4QwZSJjzFsBAtTF/LyNROq2NMHcVvIaA+yjcsVus+WFoyWWDLd/DXlVrQ=;Mwap9y2USUmV0yAittH3xg=="
 ---
 

@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Face masks and facial recognition will both be common in the future. How will they co-exist?"
-    excerpt: "With face masks now compulsory or recommended in various parts of the country, how are facial recognition systems functioning?"
-    publishedDateTime: 2020-09-06T20:13:00Z
-    webUrl: "https://theconversation.com/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417"
-    ampWebUrl: "https://theconversation.com/amp/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist-144417"
+  - title: "Face Masks and Facial Recognition Will Both Be Common in the Future — How Will They Co-Exist?"
+    excerpt: "It’s surprising how quickly public opinion can change. Winding the clocks back 12 months, many of us would have looked at a masked individual in public with suspicion. Now, some countries have enshrined face mask use in law."
+    publishedDateTime: 2020-09-07T03:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/09/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/09/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/09/face-masks-and-facial-recognition-will-both-be-common-in-the-future-how-will-they-co-exist/amp/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
     quality: 48
     images:
-      - url: "https://images.theconversation.com/files/353221/original/file-20200817-24-10qf4oa.png?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=267&fit=crop"
-        width: 320
-        height: 267
+      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/09/07/facial-recognition-face-masks.png"
+        width: 1140
+        height: 663
         isCached: true
 
 secured: "EW4RnBM9yxZ2b/MYOMRTpvwg1VbMLF2ktW+Bf4KKT4Xm8kJUVYmRqU3bLELzo8eNr7DV2cSo/WT8rZJpTJKWgsc4ov1bgPraV5T6ZnMWKAOW6DxRjmRkn4xfiF1Yfgfpe0ASgTJmHYfBp8AOAjQ8Fzzf01xVZJjSfcGMXyJrQF3KkNdcgj96RWL30Gw3gz9+xKR9JWsiaH5h5hHFkoZS87jUSpeHjOhjQr9UZzb5DmcgQa9Q3I7N7Ohhmn8XjlaPNMYelgOJ/b3u0pUBy77nYE3TYNr5Qh/pivbFnJhwywtK0Chop3gxcmwaaK84o/c3yeGX5fwitsPunEK9fmYmN+1TsG+Z72AEBXFE+oQsscYA0UceegGxIvxDtPbrTgqQbgbzk2qRyYtk/eJEiWVlB288fLNU3jSB4un7Eu+nm4tiOj0WoKnl9SfcRkO6hVwnprjLqRocjB6eIWJC19pnOjlynt5j/ECO9tPlH4wfPbam/T8XuHU8D8mSyFL5XLRbSGNHTAOsrYGqHdZOm5pmvg==;ptJ9pUMWrXKpaZzhnHvekw=="

@@ -88,6 +88,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Portland passes strongest facial recognition ban in the US"
+    excerpt: "The Portland City Council has passed the toughest facial recognition ban in the US, blocking both public and private use of the technology. Other cities such as Boston, San Francisco, and Oakland have passed laws barring public institutions from using facial recognition,"
+    publishedDateTime: 2020-09-10T02:47:00Z
+    webUrl: "https://www.theverge.com/2020/9/9/21429960/portland-passes-strongest-facial-recognition-ban-us-public-private-technology"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/9/21429960/portland-passes-strongest-facial-recognition-ban-us-public-private-technology"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/9/21429960/portland-passes-strongest-facial-recognition-ban-us-public-private-technology"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 89
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/LuaUGCrUvBGbck9jMesjkgbXgIY=/1485x0:5632x2880/1400x933/filters:focal(3024x864:4176x2016):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67380178/1177459891.jpg.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "NIST benchmarks show facial recognition technology still struggles to identify Black faces"
     excerpt: "NIST benchmarks suggest some facial recognition algorithms haven't corrected historic bias -- and are actually getting worse."
     publishedDateTime: 2020-09-09T17:08:00Z
@@ -208,6 +224,17 @@ related:
         width: 4000
         height: 2110
         isCached: true
+  - title: "Portland approves strictest ban on facial recognition technology in the U.S."
+    excerpt: "The new Portland facial-recognition ban prohibits businesses from collecting, using or storing people’s facial or biometric information gathered in spaces open to the public, such as parks or grocery stores."
+    publishedDateTime: 2020-09-10T02:40:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/portland-approves-strictest-ban-on-facial-recognition-technology-in-the-u-s/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/portland-approves-strictest-ban-on-facial-recognition-technology-in-the-u-s/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/portland-approves-strictest-ban-on-facial-recognition-technology-in-the-u-s/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 36
   - title: "FMPD wants to use face-recognition technology to solve crimes"
     excerpt: "The Fort Myers Police Department is using facial features to solve crimes. The face-recognition technology is already in place and used on a daily basis by the same organization that issues driver’s licenses."
     publishedDateTime: 2020-09-08T10:38:00Z
@@ -222,6 +249,17 @@ related:
         width: 824
         height: 479
         isCached: true
+  - title: "Portland passes unprecedented ban on facial recognition tech, despite $24,000 Amazon lobbying effort to kill initiative"
+    excerpt: "Portland lawmakers unanimously passed a sweeping ban on facial recognition technology, becoming the first city to bar both public and private entities from the controversial software and defeating Amazon’s bid to kill the measure."
+    publishedDateTime: 2020-09-10T02:16:00Z
+    webUrl: "https://www.rt.com/usa/500320-portland-bans-facial-recognition/"
+    ampWebUrl: "https://www.rt.com/usa/500320-portland-bans-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/500320-portland-bans-facial-recognition/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 17
 
 secured: "tq1w5CGy3ubF25af4R9nf0uhd10LpkOBcJZ3G0EAl6XvIX3Uscd8QzykYb3Nad8odI6QIZZS2hDhqRxKzyy2cPENzYAvoKZ8KMsGyZ6wn30OEibi5d1AGpsJaY1lYRV0zoON7zsfNWzFH8+z8DKOsbHWEs+NDA8hErAzcc8CsQRh0cFpWr4q673Hh9FA65BnGcwAigV+GvKoGBkhoJF2pEeRJvpIH0LgfC21EWFg/yg7SUg70jS7y95wjPkTT0uXB9eypgH+rRBfwSFcZBbSRuzpGfTnM/cDaXnsd8R+URFQ5vERq9K08dWUHD4PJr44ovFZRKNmCnerc1es+PImogc7kBHnonV4SxMPuexn8DWGNpqkE8Mee2WvL7DlOumGeJkWq5uyU/PWYyyUrjyjBeQUzX438C2lgY2uknaF3WC6UejpNud35Jwhk6WlhHg1AfiIoHcta3qjd03KLMQ89ima56xHTJW6bXiBTKHk69vyEyMTcTaX4GCI0vAPBzR0mQx5T6LubofeVbuzGbjo+HLNwhhH4bnSZuVzDJ/Mwhk=;ImB4fugNYWXv99aIivj4Yg=="
 ---

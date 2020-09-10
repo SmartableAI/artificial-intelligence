@@ -2,17 +2,17 @@
 category: news
 title: "UAlbany harnessing artificial intelligence for winter storm forecasts"
 excerpt: "UAlbany's Atmospheric Sciences Research Center just received a $2.4 million, five year National Science Foundation grant to explore and develop ways that AI can better track and predict winter storms."
-publishedDateTime: 2020-09-08T11:00:00Z
-originalUrl: "https://www.mysanantonio.com/news/article/UAlbany-researchers-harnessing-Artificial-15541157.php"
-webUrl: "https://www.mysanantonio.com/news/article/UAlbany-researchers-harnessing-Artificial-15541157.php"
+publishedDateTime: 2020-09-08T16:00:00Z
+originalUrl: "https://www.chron.com/news/article/UAlbany-researchers-harnessing-Artificial-15541157.php"
+webUrl: "https://www.chron.com/news/article/UAlbany-researchers-harnessing-Artificial-15541157.php"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: My San Antonio
-  domain: mysanantonio.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 1365
     isCached: true
 
-secured: "AYyukAtyb1XBLisw1gpI2YoX10j2T6WXfyas6xBNkX+3vBeiah8BQdFz04MtEYgSq6DtBYHc41nT99q4PYpj3Gk8PEXl1K5LxBjiod+1iNKQjb/uooXn8LRLZ772D7VLBxQKylLQibU7p46r5BFrvfy+uRSRFSiqyzO+7nXbGeqS7TheMGGN46iEJjhbviwu7QYuGQkqqr51wqdWVJW9iliYYKXA6bNIG3XWyAteuNRp7dgYwiVUg/2EqXDjz0Ndz0Pv/0OI4GtKdFby4Wm6kuUDltzb6aQLf2xok7Y34XJyI8W4bhz1zhh7LE6MnBd7qLXXb7EyK4mVlGGBCuvzILJ4ZbYm5blIY8d71vUVupBC+M4lmIjY4GEXhcemIexZ9Xw9ArbZTbdbywRIza7d6Br8LIseRZGdHQ6z/LKJb/3SdyFqdUDTZjw9+Lleu5ppWLh0O5mMpI5QjG1g9gT4/zu4/Q4IlaoObJuwU6/oRpwFUBf5xUTSufkiLSN4aOAUn1ypBHyfiko5xTN11qvt46smiU/B73RW9fMf9W/WWVk=;M7TRAcgMHOcNjeTYe8lwsg=="
+secured: "RSCHHseaIfcHO5qlg8Qb6Qg2ABhpDEuWdBq39YBb/wGNLELBqBvW4COPjD7KQt/bI90vSx6BzWIQXUERKALvCEFudu/pJ5J1thOlvwmyebSzgqZx7WJ34cmzbMZitdvuN115Tp0Ymh8tXVda044G14q7Fy0MXNJtp+b1hVbVlQ7DGF7tLMGQJouWRb0vxcxjiKR04e8mAWzrgTKn5HIzJ48zhgTFQloNyuCq+7UeX2+MoRuJ7XjqrICGmMRnYPhcIXiAmWr58lvCTRvfXz71Z4sctQ/E0+Gsnys09JNPBUxw1QHjSYNyiAVpxyGNXB4vQAhRwAjBCckClDr2QiNW2tTf2AxUO8G+YF0vGXIZHQo=;IyrsAyLmBq0QmG4V7VIf3w=="
 ---
 
