@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Tachyum Prodigy Native AI Supports TensorFlow and PyTorch"
-excerpt: "SANTA CLARA, Calif., August 26, 2020 – Tachyum Inc. announced that it has further expanded the capabilities of its Prodigy Universal Processor through support for TensorFlow and PyTorch environments, enabling a faster, less expensive and more dynamic ..."
-publishedDateTime: 2020-08-26T16:06:00Z
-originalUrl: "https://www.hpcwire.com/off-the-wire/tachyum-prodigy-native-ai-supports-tensorflow-and-pytorch/"
-webUrl: "https://www.hpcwire.com/off-the-wire/tachyum-prodigy-native-ai-supports-tensorflow-and-pytorch/"
+excerpt: "--(BUSINESS WIRE)--Tachyum™ Inc. today announced that it has further expanded the capabilities of its Prodigy Universal Processor through support for TensorFlow and PyTorch ..."
+publishedDateTime: 2020-08-26T12:09:00Z
+originalUrl: "https://www.businesswire.com/news/home/20200826005129/en/Tachyum-Prodigy-Native-AI-Supports-TensorFlow-PyTorch"
+webUrl: "https://www.businesswire.com/news/home/20200826005129/en/Tachyum-Prodigy-Native-AI-Supports-TensorFlow-PyTorch"
 type: article
 
 provider:
-  name: HPCwire
-  domain: hpcwire.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - TensorFlow
@@ -17,11 +17,11 @@ topics:
   - AI
 
 images:
-  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png"
-    width: 440
-    height: 440
+  - url: "https://mms.businesswire.com/media/20200826005129/en/665930/23/tachylogoa.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "MBd9E9j+OaSIM7cHjPjhEUf1tivNldkgsDp8wqvOePVeFlWomCMA+hZo9Pr2cEOckqDkT6+gQMhQD7MZKTS85p9WVtdgF+frioWNOMapZ7DLl+DXwWf6ZWtTci6f6fKhA3elZsG971yvcO87qzcwUXwVoafd44piWX/n2LglyylTT2+wJDzc3SmYpk7/GR7XljU16Xye6MxQctiEdNP1ug1wPbJhDwmI+6NCtIGry1tbDQm98CkBnLwC7/8QDZaqP4pVa2Zru+74Q50ckdF1IRhRtaNm6u/0kelLTorL3B34+xuxXQGtsQjWqUDB0oNGs4Y3/iDI8jcvWrMy58WcqZ3JLp+sYQF/z8meI6pEQCQ=;3MYkrKGYlbzs8Fhed9U7cQ=="
+secured: "7fIoNQo4iPYGU7VpGKRAEXA5QNEgPtHK+rUEEaAmwTu6ImCeiF3947s8GnILRGFI3Bg4iJ6cAzAm4xXftrDk8tdhM9Jd9eBNkm8tXgTHQnHFP11X4x2ftdMsqzTqIQVcPU555SK8vNOKPIOh8dFUdHHyhevKaq4e/Gpevcs2OeXMs1PS5kQsFwC8/jTLl/F1XTmknAXkpKdLpH42hKDyKlK2Xd3z9ppo6baifX6d7AdXRAzjnHruzgJkCN0MRNpDAjHVqfyjPc2KjSypN6iNBCgJCCsCkleanZ5+4z6/l3S0K1otNNQTZI1dOn+qBaFhe+e5aiw9OXhLS8InIp8Rth7svYnD1DE0vXh2Vm5nH2w=;xyTGKLG2JFTnJdUYkEBiUw=="
 ---
 

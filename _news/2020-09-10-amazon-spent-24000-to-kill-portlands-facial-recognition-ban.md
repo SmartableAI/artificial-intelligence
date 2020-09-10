@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar240
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -74,6 +74,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Portland Votes for First-Ever U.S. Ban on Corporate Use of Facial Recognition"
+    excerpt: "Portland's city council also voted to ban local government bureaus from acquiring or using the controversial surveillance technology. Several U.S. cities, including San Francisco and Oakland, have previously banned government use of facial recognition."
+    publishedDateTime: 2020-09-10T02:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 66
 
 secured: "N8qEM928OJa1pDDw7gbuRzG6E4204Si2MuonPdx22biWSe0HT+cvkIiR59LuHBuWxF2l12vymu1gGY7OjoIJmYZLj8qjzTCF5Zax//q4aNn2hwrjJscXRlZhQmImiK/VWLTuW6j6Iys1I2oTeasYDD33JXk0pOIjiCfIvKmk6lnY/e13dksRAZ+G2GpUH+OfW5jiHP3+uL8JKb7thy/PB5DQs3mL4nfaGN26fJixZuCFJxTSVFxzINukYTIjvpOhZR5eL3arKHCo3g+QEfF0TyhNxoWMBfxBQvD+St7mLI/CzGtq7zVnxZ73hzhEdFkKeBdxODIZ06kfx/S6QWHwz78cefstAvMZmoHBkQsnFxw=;pcjL/jPkBqA9lciOP044IA=="
 ---

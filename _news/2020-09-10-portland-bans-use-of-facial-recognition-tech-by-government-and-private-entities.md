@@ -74,6 +74,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Portland Votes for First-Ever U.S. Ban on Corporate Use of Facial Recognition"
+    excerpt: "Portland's city council also voted to ban local government bureaus from acquiring or using the controversial surveillance technology. Several U.S. cities, including San Francisco and Oakland, have previously banned government use of facial recognition."
+    publishedDateTime: 2020-09-10T02:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 66
 
 secured: "R/Sw/COrH7OSVFzgGSLT/uINgMcTLR7c4pL9sZihzg5D0uhHvUIRX5ugm991z/nwU4rk3TOFCvrzM83ckQrWqhxc4uaGCFLBTWE7Yc1p0fIJep4yV5LiVjYeTQl+8Gk2WVdNP40yk90Fazk3MfZm0/s+ZF53nKigVpzgoaILKDlr1Vju6OxBFbxYFzkFup1KHjwkCr9WEsMc8qZYCrDPoBP4khBCvKtusWhg1pWSDtuWbA5NFCzq/mqI/DXRFpHYvHP+NQbqAZ/o7HQnf2cBuJ+O1lNTIo/pFqk/63irzaENHAkgVHz8Vq/+RXLjyNa6svqrrImObc6by68UFxvU2FIOZSu1U50g0kyeg0DpVnU=;EiohoBiMj/KDRpDyH0uEKg=="
 ---

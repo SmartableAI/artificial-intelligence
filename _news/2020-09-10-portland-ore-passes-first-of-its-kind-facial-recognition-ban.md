@@ -73,6 +73,17 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Portland Votes for First-Ever U.S. Ban on Corporate Use of Facial Recognition"
+    excerpt: "Portland's city council also voted to ban local government bureaus from acquiring or using the controversial surveillance technology. Several U.S. cities, including San Francisco and Oakland, have previously banned government use of facial recognition."
+    publishedDateTime: 2020-09-10T02:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 66
 
 secured: "Ki5NaP7SN8DNo9ey/c5/q6MHr9jMNTxtCRBhhIcs1azoNOevp9p9YggQs628aQIh18dKBleteZKXDABqUCfX8GYn21TCqqT2zh1GjUBFIh4hu/UjhhVUmXhtZnpSjL1B5iszkV7n52HJYmo3MMQ88zxJEKhy10p4bWRISYTS6O3OjGV/VEoWmYaOEI8qkI/3/D9uSXEi50MIeeO4rWNYhgtDJvagiU6RbI8gn6fxxJw/xx73mnyGdelkXL+GjNv37cUlxZE/N4HYual//UbGsDOpSGhhzTnU+FfYLWFp/TOAl02cjZ7FHtw/ICWp/Mt86MWMaSUle96YQ8+3AQRRrPKe3QeJ7qhzMuIwGM9KUMBUcb9h0WMszI4B3alKHWYqSMClLHyer6IhAH9BpO+c2qgjdonUN/Ujvwt3UOX3hyBIhQd2EK7jZdDeAGjdwUh10Rhe3dk8W7T0vaMYzCALURFrcAkAuOmljIjnNFycNsMq8wjUw6TVzErm+w3NCuva4hhn9AaQBAv/TKuoMOt2mfH93T3gRfc9tEz8+cVr890=;dda/hgXKgGnAFhGlbUf54Q=="
 ---

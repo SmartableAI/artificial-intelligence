@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-10T06:34:00Z
 originalUrl: "https://www.militaryaerospace.com/computers/article/14183028/artificial-intelligence-ai-dogfight-unmanned"
 webUrl: "https://www.militaryaerospace.com/computers/article/14183028/artificial-intelligence-ai-dogfight-unmanned"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/09/AlphaDogfight_10_Sept_2020.5f58eae3d70bd.png?auto=format&fit=max&w=1200"
@@ -24,6 +25,6 @@ images:
     height: 447
     isCached: true
 
-secured: "kj1gZsXLPcJC3iDA92BWJilP7stzf7vhPyaoEi+Vux/KMLTUbJpH+45s8lHgzR1UanYyyQUwhDhsQa+xI4zXnxjSEJvMNcIjL8FUI7X4SVb8HFL5/4Obe/5ef2fH/oxWtdRAgp4QwlxG5ky4akBDNoXqkxCOcIWW1S0Dx2klyRLHo/Mtzy6hzP//sATHM5W0v4ytFVwvBCN4LWcLgkU4RleQR1N638JHqY1ZZ4dNKUI3YrHUT8IfugheigvyB1SNXySoIgLsR7k41WzKwWWVJUv8f+Lyu8Ova3dY1353JLYiQbnspV4qkViojbmNEEb0LEZZLrT38IM6k5ApsHosO1aVQMtsuTCfyWWThCPWE8k=;LQZSE0vgMT3liDrqlvntZw=="
+secured: "Zch0qWksJc48ajOm0FhH0SukuBKzDq9HC191QJQsbuArUE2oumHn0AFXx2zKvMERMow39g+wX2I6xokyR+Q/s3LaRcQI5vm5uOahf+DAMlb7OJpfLZJ2vsNqIUlAOT30g8chq3iBiSB6CfAf6QmdoWEAmY+lnuNfrSlU6FUiajHkmkKvcoxbK+CS8fTNCbB1cJDG8dYPTwoXCI+WfXTt7autIr7GD0DSB01tPvNUbGOl7OMHPM7TU7Ye56SoC6JILUJu5IzL7VU2Ks/DLOeuNLakIwDQu778+tJrisOuYZW0dWm6o0juvBiU928afLIehbJjZgGbU1klwxes9dhK3VOpOlr3710NllyajRnbuXawymi6zsM/9xBXvHf0kw/zXti+FVPWjUuakBX6HR8YHvAyHAt5IUo56OuaPA/R03ndR4D6ynPnXSojD7huFo/Q80pRgVoKayMvCmq2YSLliUCNEAH3z/F9bKmZEwbC1Vz/JqXzmJuT5IoVU2intcQ0j4m7Se/QKmbqFdsQRMsbASYJ+axj4Q7K8wbagDBk1vc=;RIeLirsNw7iKIPEmq+aOoQ=="
 ---
 
