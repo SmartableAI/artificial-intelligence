@@ -41,6 +41,22 @@ related:
         width: 5037
         height: 2829
         isCached: true
+  - title: "Portland bans use of facial recognition tech by government and private entities"
+    excerpt: "In a landmark judgment, the city of Portland banned the use of facial recognition technology by government as well as private agencies. A penalty of up to $1,000 a day can be claimed for violations."
+    publishedDateTime: 2020-09-10T06:54:00Z
+    webUrl: "https://www.neowin.net/news/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
+    ampWebUrl: "https://www.neowin.net/amp/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 85
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579885372_libertyfbmatrixv2image2_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Portland passes nation’s strongest facial recognition ban for government and businesses"
     excerpt: "The Portland City Council on Wednesday passed legislation that bans government and private use of facial recognition. It's the strongest ban nationally enforced by local lawmakers. The ban on"
     publishedDateTime: 2020-09-09T23:41:00Z
@@ -57,15 +73,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "US CBP deploys facial recognition at 27 US airports as of May-2020"
-    excerpt: "US Government Accountability Office reported (03-Sep-2020) as of May-2020, the US Customs and Border Protection (CBP) deployed facial recognition technology at 27 US airports. CBP"
-    publishedDateTime: 2020-09-05T13:34:00Z
-    webUrl: "https://centreforaviation.com/news/us-cbp-deploys-facial-recognition-at-27-us-airports-as-of-may-2020-1022070"
-    type: article
-    provider:
-      name: Centreforaviation.com
-      domain: centreforaviation.com
-    quality: 34
 
 secured: "Ki5NaP7SN8DNo9ey/c5/q6MHr9jMNTxtCRBhhIcs1azoNOevp9p9YggQs628aQIh18dKBleteZKXDABqUCfX8GYn21TCqqT2zh1GjUBFIh4hu/UjhhVUmXhtZnpSjL1B5iszkV7n52HJYmo3MMQ88zxJEKhy10p4bWRISYTS6O3OjGV/VEoWmYaOEI8qkI/3/D9uSXEi50MIeeO4rWNYhgtDJvagiU6RbI8gn6fxxJw/xx73mnyGdelkXL+GjNv37cUlxZE/N4HYual//UbGsDOpSGhhzTnU+FfYLWFp/TOAl02cjZ7FHtw/ICWp/Mt86MWMaSUle96YQ8+3AQRRrPKe3QeJ7qhzMuIwGM9KUMBUcb9h0WMszI4B3alKHWYqSMClLHyer6IhAH9BpO+c2qgjdonUN/Ujvwt3UOX3hyBIhQd2EK7jZdDeAGjdwUh10Rhe3dk8W7T0vaMYzCALURFrcAkAuOmljIjnNFycNsMq8wjUw6TVzErm+w3NCuva4hhn9AaQBAv/TKuoMOt2mfH93T3gRfc9tEz8+cVr890=;dda/hgXKgGnAFhGlbUf54Q=="
 ---

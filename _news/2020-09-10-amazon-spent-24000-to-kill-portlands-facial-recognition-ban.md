@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Portland bans use of facial recognition tech by government and private entities"
+    excerpt: "In a landmark judgment, the city of Portland banned the use of facial recognition technology by government as well as private agencies. A penalty of up to $1,000 a day can be claimed for violations."
+    publishedDateTime: 2020-09-10T06:54:00Z
+    webUrl: "https://www.neowin.net/news/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
+    ampWebUrl: "https://www.neowin.net/amp/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 85
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579885372_libertyfbmatrixv2image2_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Portland passes nation’s strongest facial recognition ban for government and businesses"
     excerpt: "The Portland City Council on Wednesday passed legislation that bans government and private use of facial recognition. It's the strongest ban nationally enforced by local lawmakers. The ban on"
     publishedDateTime: 2020-09-09T23:41:00Z
@@ -58,15 +74,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "US CBP deploys facial recognition at 27 US airports as of May-2020"
-    excerpt: "US Government Accountability Office reported (03-Sep-2020) as of May-2020, the US Customs and Border Protection (CBP) deployed facial recognition technology at 27 US airports. CBP"
-    publishedDateTime: 2020-09-05T13:34:00Z
-    webUrl: "https://centreforaviation.com/news/us-cbp-deploys-facial-recognition-at-27-us-airports-as-of-may-2020-1022070"
-    type: article
-    provider:
-      name: Centreforaviation.com
-      domain: centreforaviation.com
-    quality: 34
 
 secured: "N8qEM928OJa1pDDw7gbuRzG6E4204Si2MuonPdx22biWSe0HT+cvkIiR59LuHBuWxF2l12vymu1gGY7OjoIJmYZLj8qjzTCF5Zax//q4aNn2hwrjJscXRlZhQmImiK/VWLTuW6j6Iys1I2oTeasYDD33JXk0pOIjiCfIvKmk6lnY/e13dksRAZ+G2GpUH+OfW5jiHP3+uL8JKb7thy/PB5DQs3mL4nfaGN26fJixZuCFJxTSVFxzINukYTIjvpOhZR5eL3arKHCo3g+QEfF0TyhNxoWMBfxBQvD+St7mLI/CzGtq7zVnxZ73hzhEdFkKeBdxODIZ06kfx/S6QWHwz78cefstAvMZmoHBkQsnFxw=;pcjL/jPkBqA9lciOP044IA=="
 ---

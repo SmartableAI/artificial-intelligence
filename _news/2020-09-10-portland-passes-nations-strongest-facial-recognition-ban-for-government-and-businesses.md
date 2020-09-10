@@ -47,6 +47,22 @@ related:
         width: 5037
         height: 2829
         isCached: true
+  - title: "Portland bans use of facial recognition tech by government and private entities"
+    excerpt: "In a landmark judgment, the city of Portland banned the use of facial recognition technology by government as well as private agencies. A penalty of up to $1,000 a day can be claimed for violations."
+    publishedDateTime: 2020-09-10T06:54:00Z
+    webUrl: "https://www.neowin.net/news/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
+    ampWebUrl: "https://www.neowin.net/amp/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 85
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579885372_libertyfbmatrixv2image2_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Portland, Ore. passes first-of-its-kind facial recognition ban"
     excerpt: "Along with banning city agencies from using facial recognition, the Portland City Council has banned private enterprises from using the technology in public spaces."
     publishedDateTime: 2020-09-10T00:59:00Z
@@ -58,15 +74,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "US CBP deploys facial recognition at 27 US airports as of May-2020"
-    excerpt: "US Government Accountability Office reported (03-Sep-2020) as of May-2020, the US Customs and Border Protection (CBP) deployed facial recognition technology at 27 US airports. CBP"
-    publishedDateTime: 2020-09-05T13:34:00Z
-    webUrl: "https://centreforaviation.com/news/us-cbp-deploys-facial-recognition-at-27-us-airports-as-of-may-2020-1022070"
-    type: article
-    provider:
-      name: Centreforaviation.com
-      domain: centreforaviation.com
-    quality: 34
 
 secured: "v3OOaC1Rdy5tDRWltvyuK/sXOsMw/JXe/dS0yUQWdFECwm/cR1vSRPvMBS3HKa9XSiIdHR9cYLFyiS7w5wAKh4KasEXgpUOv8EtFua8XSPhclhaJ+BkmTjcheKeqdiVWLFE1SJuPh96go4ECQC/Xe1ucqqJ8wc7/kTTsTzhIpv3qFdKnpA9HbsDrNFUBJn+qLgSpO11HHRXCJWyJ9NSVwhNH1K07Xw5YdtDQjzr0AvjFq/LA5LUnwvp+LQWv8HSgWwRpY07qbH7FG08YWy1WHroaxswJqvymwEyQVmjDKY//F1d4g9+VGB/tf0UB7RK+khyV0j0rkAJ28k7WqTGN2Ne5DmBzYsrUBJWixP112dQ4uupGJ3591R3bjt1H+3xH1z2K+3jwNzwuepEBI/FYmylQA+xTO9kIVmFGVuvFbYwpfZVnosGs86nSsmk38ylbxnRsLo+Hj4CVAQ55SkWqqkNKfVN+wz/RZfX63RLo54PkzzYfvdS9ByKq2R5OhH0o2suokTT2UlEqyAN+2vkkvweTMLoXEVVzZuM8EXzOwIg=;dxQmrA9SYNZxjuh0lIxN0w=="
 ---

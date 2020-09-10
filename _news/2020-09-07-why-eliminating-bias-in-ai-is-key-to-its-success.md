@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/why-eliminating-bias-in-ai-
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/why-eliminating-bias-in-ai-is-key-to-its-success/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Eliminating bias is the new frontier of AI innovation"
+    excerpt: "More must be done to accelerate the synthesis of diverse and inclusive perspectives in the AI creation process, says Rudeon Snell, global senior director: Industries & Customer Advisory at SAP."
+    publishedDateTime: 2020-09-10T07:52:00Z
+    webUrl: "https://www.itweb.co.za/content/rW1xL759YzA7Rk6m"
+    ampWebUrl: "https://amp.itweb.co.za/content/rW1xL759YzA7Rk6m"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/rW1xL759YzA7Rk6m"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2020/09/Rudeon-Snell.jpg"
+        width: 400
+        height: 350
+        isCached: true
 
 secured: "IkvyazyuomPOLJ3erfxUKcAf55YXb4r3OH233Dtmj0BeoSbQ8mr+DwanqzXmvwJPAb2RGGYKNssOka9nIm0dfPek/gc8Q9TekENbbmWkGGwsUjLrQr1iJptoF4J9lNVr2STzdalTicI6ES/9xDjS0SCrhBkLO6pypnrVYKqIbZNapZf7yn8H+ooduAU4hFF879P/ZmiaEemH741cmoHiThGi5BVAKL7/eLH+sDV9botbl68s6FExnIX87P4FllrofbbB6XTdcsGt4R+F/bOGVMwYla13AGS9kdQ5WgBKZq29x8n3LcUzZ9wovkkSNhPiVpbdiewtEljCTW2SSFi7a9rMm+sWsnIeV+bPh4WN4slDV+wsHz4YZoKCF3AMN2n+qRi5rWgslm+5g4QcxK/Ttzftr7vlBKS3BXBQsFUxidRAo1Ca9E+xpBCZZCqDaKzPw4jJr6pwL6K/UjdxbdBdPudQaU3eeSCNhImYBsyw4b+ktoq+vqrYNB5eGiD9a+FHn2LH5ZQIiM3Q5rFa3IifjcN54y/vnQuGfX/i8wUtRxY=;x8NA8lC6R6pzJr67smVy6w=="
 ---
