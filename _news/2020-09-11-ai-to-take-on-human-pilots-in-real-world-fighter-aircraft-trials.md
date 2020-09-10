@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "DoD to start live fighter trials with AI pilots by 2024, Esper says"
+    excerpt: "The Pentagon plans to conduct live trials pitting tactical aircraft controlled by artificial intelligence against human pilots, Defense Secretary Mark Esper said this week."
+    publishedDateTime: 2020-09-10T20:11:00Z
+    webUrl: "https://www.upi.com/Defense-News/2020/09/10/DoD-to-start-live-fighter-trials-with-AI-pilots-by-2024-Esper-says/8221599762363/"
+    ampWebUrl: "https://www.upi.com/amp/Defense-News/2020/09/10/DoD-to-start-live-fighter-trials-with-AI-pilots-by-2024-Esper-says/8221599762363/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/09/10/DoD-to-start-live-fighter-trials-with-AI-pilots-by-2024-Esper-says/8221599762363/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/8221599762363/2020/1/fea4f52f57f3ac34e22f047fa26f2f6c/v1.5/DoD-to-start-live-fighter-trials-with-AI-pilots-by-2024-Esper-says.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "AI to dogfight against real-world fighter aircraft in 2024: Pentagon"
     excerpt: "\"We see AI as a tool to free up resources, time and manpower, so our people can focus on higher priority tasks and arrive at the decision point, whether in a lab or on the battlefield, faster and more precise than the competition,"
     publishedDateTime: 2020-09-09T20:34:00Z

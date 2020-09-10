@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-25-nextech-ar-names-sap-tech-leader-eugen-winschel-as-chief-operating-officer.md",
+      "title": "NexTech AR Names SAP Tech Leader Eugen Winschel as Chief Operating Officer",
+      "excerpt": "With NexTech’s InfernoAR platform having augmented reality, AI, end-to-end encryption and built in language translation for 64 languages, the company is well positioned to rapidly take market ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nextech-ar-names-sap-tech-leader-eugen-winschel-as-chief-operating-officer-1029530965",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nextech-ar-names-sap-tech-leader-eugen-winschel-as-chief-operating-officer-1029530965",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-baidu-creates-worlds-largest-chinese-natural-language-processing-database.md",
       "title": "Baidu creates ‘world’s largest’ Chinese natural language processing database",
       "excerpt": "Baidu launched Qian Yan, which it says is the largest Chinese database for natural language processing, among other AI-related products on Tuesday.",
@@ -1335,47 +1376,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-an-introduction-to-natural-language-processing-with-python-for-seos.md",
-      "title": "An Introduction to Natural Language Processing with Python for SEOs",
-      "excerpt": "Natural language processing (NLP) is becoming more important than ever for SEO professionals. It is crucial to start building the skills that will prepare you for all the amazing changes happening ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
-      "originalUrl": "https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/08/an-introduction-to-natural-language-processing-with-python-for-seos-5f3519eeb8368.png",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
-      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
-      "publishedDateTime": "2020-08-14T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Journal",
-        "domain": "searchenginejournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recogni
 webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-research-consumption-companies-industry-report-analysis-and-future-demand-2020-09-04"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -29,35 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Fintech Market To See Remarkable Growth By 2025 | Amazon Web Services, Inbenta Technologies, IPsoft"
-    excerpt: "An extensive elaboration of the Global AI in Fintech market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market."
-    publishedDateTime: 2020-09-07T17:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-to-see-remarkable-growth-by-2025-amazon-web-services-inbenta-technologies-ipsoft-2020-09-07"
+  - title: "Global Facial Recognition Market 2019-2028: Facial Recognition Application in Mobile Security and Drones & Emergence of Facial Analytics - ResearchAndMarkets.com"
+    excerpt: "The \"Global Facial Recognition Market 2019-2028\" report has been added to ResearchAndMarkets.com's offering. The global facial recognition market is expected to witness a CAGR of 14.30% over the forecast period from 2019-2028."
+    publishedDateTime: 2020-09-08T14:12:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200908005722/en/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mms.businesswire.com/media/20200908005722/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI in Fintech Market Investment Plans, Growth Opportunities And Strategic Business Model"
-    excerpt: "Global AI in Fintech Market Report” the new research report adds in Data Bridge Market Research’s reports database. This Research Report spread across 329 Page, 53 No of Tables, And 244 No of Figures with summarizing Top companies,"
-    publishedDateTime: 2020-09-09T15:57:00Z
-    webUrl: "https://galusaustralis.com/2020/09/980448/global-ai-in-fintech-market-investment-plans-growth-opportunities-and-strategic-business-model/"
-    ampWebUrl: "https://galusaustralis.com/2020/09/980448/global-ai-in-fintech-market-investment-plans-growth-opportunities-and-strategic-business-model/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/980448/global-ai-in-fintech-market-investment-plans-growth-opportunities-and-strategic-business-model/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 47
-    images:
-      - url: "https://gnghockey.com/wp-content/uploads/2020/09/Market-To-Set-Magnificent-Growth-2.jpg"
-        width: 800
-        height: 480
+        height: 627
         isCached: true
 
 secured: "+E978kNW6ojPM+ceZSaLVfvP+heBVG4SeXLBd81aFegW+wfYqPwnDmX75WevxIXCb9tcL0pyfuqgMboNda3LJ84vqSrJNwilDXkddi5Fe7ffWaOAyTcQUQrfJUdyncKdlZUeWGfkEnrTfIO0ZDgyV6xxl5r9QKoskxMKzEjTSeXYNrqDax5KtZBQ84m2zf1prC3HGE6nHo8uaB0AqgstVk16dP4BEcxycCnMz1eQg9dfVXDkSQJbpoGf7FpzaQRJfsblmSPJx+77qovMhsT070IsoCjWkhTDG9q1AZUZYT7qCsgr6GoyquOtNl/BJHXvmWSbjS0TwHOZjU2NSaPEd8jR8cigVWFGO8uhGGkVneo=;rHypmL5NNuD7D28SXAG0lg=="

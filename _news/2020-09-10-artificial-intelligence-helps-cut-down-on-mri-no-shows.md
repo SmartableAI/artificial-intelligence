@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-mri-no-s
 ampWebUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-mri-no-shows.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-artificial-intelligence-mri-no-shows.amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/2-mri.jpg"
@@ -25,6 +26,6 @@ images:
     height: 1280
     isCached: true
 
-secured: "CltI7Q+XYIWTGZNhVONa5oVz9tdr7oAVxerdJgNHXyj2MWPcUf2HDuRKA0qJWVP09VhEd++QTcupsp2BFIzBw0MNzaWHD84BkK0JuqQovkTPlmvUHIouIQGZrQoenr2vIZPxSyJw7d/hy1XIy/YzXYeI+jwT8j88ig9AnUnAWr2XzmAjPzX/aSxYOn+Ey40Mnv3HkfROrjCqzKDXAt60QtSZCbx5Nt+uuCWqpKMb39pFAmSu65t+coktrMumX5DioMMdrQlqVO/4uR/eQn+TX6GzMWVvf7PkXqV3LzrlEyX5miIyUiOUEANmawSRNN71KRHLUOh5CIQLx6GeRiz/lYHccxiraiW03vF1IfR17SQ=;y4yzK8GnUQkGcOU4BpiGpA=="
+secured: "/msWY9UOX2m+czYfRlbrQCsQEBwESe8sX4C+41SLh3/6xTZbzSQOdCXsJgVw2VjopAF4Jdy2Fg+VPWv83iTVxOaulLV29ZkThT3u2LpE3g2BWQpLE+28tXBK3BJyCvC0qAmTNEXED3r00C6h8ioJ6KvX0UolCFXQNT0KpTl1o7FPyk8Q/QnCZfuz4+3Wadj4yewYMcxZje1aKgPnMZp5DZuHv0efKTTiarzB/Q30nlpx6PQkVfSiszVCc/ZPhLSE9zBYL/q+pvF6YfzNApyjbXU/igdO0bk6l3DmbEMp4zDNac/uA8zQTGauyooO0uFki+YwWh4NiiBDM4qsRKv9uKp6S1+7grHCwcgDESEqp8BJgk9NsSGsg2eMgiiFLQ+qsOmtNZfMXDYI6FuoRuqWJ8yQFECtBPTnYHdg8+KEh76/nD31TOelB5wWirMFV8ZM0eSO0wccInQDESl1cs295cljeo79QlVJS0J30Dk8588m9/rco9eFntWQhdp4o8DEBM7/1HwrlgM9Y1bHLGRw6A==;QIHrQ1EoheruMaxmVNqJJQ=="
 ---
 

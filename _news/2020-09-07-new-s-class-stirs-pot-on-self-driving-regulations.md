@@ -25,15 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "New S Class stirs pot on self-driving regulations"
-    excerpt: "Major markets such as the United States are not ready for the technology yet. Germany is. Three years ago, government leaders enacted landmark legislation permitting motorists to hand over full driving control of their vehicle to its on-board autonomous systems if specific conditions are met."
-    publishedDateTime: 2020-09-06T04:00:00Z
-    webUrl: "https://www.autonews.com/technology/new-s-class-stirs-pot-self-driving-regulations"
+  - title: "New AAA Study Finds Names Of Self-Driving Features Has Impact On Drivers’ Expectation Of System"
+    excerpt: "A lot, according to new research on the technology in some of today’s vehicles. A number of new cars have some self-driving capabilities, all with different branding, from GM’s Super Cruise to Nissan’s ProPILOT Assist."
+    publishedDateTime: 2020-09-10T20:21:00Z
+    webUrl: "https://miami.cbslocal.com/2020/09/10/aaa-study-names-self-driving-features-impact-drivers-expectation-system/"
+    ampWebUrl: "https://miami.cbslocal.com/2020/09/10/aaa-study-names-self-driving-features-impact-drivers-expectation-system/amp/"
+    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/2020/09/10/aaa-study-names-self-driving-features-impact-drivers-expectation-system/amp/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 4
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 12
 
 secured: "PHtyNRYtpQrCdCKqcLHJfstEZ5T8JCNEZ2q4408g6Tp0tI+4zCz1yBJb5VQeUDWPtZJ7E3KmGxY4Rz+O7TvPjgBE+4+f8xRHStwIrLUrBVV7YwC2PwuJC1wAebmZnBlIcP89qbEZmgrufMcDarF5G+8rxIGSJJxZP4iBQ9qLFSjZIHnepEqAZu7cuwsY7/gjdIAKU8VSzQO8p7DBxuXdrOKRGezhkVzyKqLnl2hQCg7X8B/ZJdaRSrfx4XQZ/UEFyjxRJYxMmy9Z1+NoARm00oK6bdkeGB73N+Z+5JcfiWvMCzYYJlghoZG25uv9v3bK1oy/NEs+TZhTGCGHV+ct9nQ077G5Uw/AtseIRtV+v0o6O19oTTFOlxdGM+Fq3w8J0Owoj4h4JGTKm8M4EJSZQPWEMsPH0/4xDU3BNpM4DVrsaiNfegmArd3YIQ1KMEA8iD3YO0JilXsC1axQ8Z2J8WfjE5XC7Qqgck1RD+BGjJJMI6ZBNX/pCwULQ5RKECJLoMgm5ywKwS74jVsOUAGFxP1uEHR98pA63H9OHQexv4s=;h3/LHDhvNBqFfzTCUFxx5Q=="
 ---

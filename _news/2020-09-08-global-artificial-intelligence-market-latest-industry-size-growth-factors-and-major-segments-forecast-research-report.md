@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Insurance Market 2020 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2025"
-    excerpt: "The new research report entitled, Global Artificial Intelligence (AI) in Insurance Market 2020 by Company, Type"
-    publishedDateTime: 2020-09-07T20:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-2020-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2025-2020-09-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Europe Artificial Intelligence (AI) Market: Industry Analysis and Forecast (2019-2026) – by Offering, by Technology, by End user and by Country"
     excerpt: "Market was valued at 17.20 billion in 2018 and is expected to grow at a CAGR of XX % between the forecast period of 2018 and 2026. The Europe Artificial Intelligence is segmented by offering, by technology,"
     publishedDateTime: 2020-09-07T09:49:00Z

@@ -28,12 +28,12 @@ related:
   - title: "'Victory Garden' Approach Could Aid AI Effort"
     excerpt: "The Defense Department can use the same methods that were used to bolster the war effort during World War II to advance artificial intelligence today, DOD officials say."
     publishedDateTime: 2020-09-10T18:55:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2342401/victory-garden-approach-could-aid-ai-effort/"
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2342401/victory-garden-approach-could-aid-ai-effort-dod-official-says/"
     type: article
     provider:
       name: US Department of Defense
       domain: defense.gov
-    quality: 39
+    quality: 37
     images:
       - url: "https://media.defense.gov/2020/Sep/10/2002494573/1280/1280/0/170506-M-XO599-133A.JPG"
         width: 1280
