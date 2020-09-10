@@ -47,6 +47,17 @@ related:
         width: 5037
         height: 2829
         isCached: true
+  - title: "Portland, Ore. passes first-of-its-kind facial recognition ban"
+    excerpt: "Along with banning city agencies from using facial recognition, the Portland City Council has banned private enterprises from using the technology in public spaces."
+    publishedDateTime: 2020-09-10T00:59:00Z
+    webUrl: "https://www.zdnet.com/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
   - title: "US CBP deploys facial recognition at 27 US airports as of May-2020"
     excerpt: "US Government Accountability Office reported (03-Sep-2020) as of May-2020, the US Customs and Border Protection (CBP) deployed facial recognition technology at 27 US airports. CBP"
     publishedDateTime: 2020-09-05T13:34:00Z
@@ -57,6 +68,6 @@ related:
       domain: centreforaviation.com
     quality: 34
 
-secured: "d93PPKZv+wpzjfPDxskbFE2vykQ30FMrRBv7q77jHYNaSNxvvXPDu99PpDfokhpVlxJzEon6rLgXifaxIuEvQxo19GxniMb0zFPRYQ7hdpDdcIXLGPUtcWW77MAIeIsRl8gc/KUnabPYuIA9CTjWFrUwT15g9rw4i8aExMKOLKfF8VbPn0qQsse2verRY2c1kIR9EM32SKkjzIFUzOCWXJpUJJPzJPf1PcQDGuPxwriL0jkMXaFj7Dq7TUIAToYFsoNoFZadFNMjWEwZhqwQlwoB1GCb2OmM6u1pn3JF8mlvZHxmcnNaltffyycKLPwwhBfW1TtkDH8o9qgjnX6hW3PlObD7ne8wgHdhyLSDAqI=;VSPEJiWVsJN9xW0JBSXvJQ=="
+secured: "v3OOaC1Rdy5tDRWltvyuK/sXOsMw/JXe/dS0yUQWdFECwm/cR1vSRPvMBS3HKa9XSiIdHR9cYLFyiS7w5wAKh4KasEXgpUOv8EtFua8XSPhclhaJ+BkmTjcheKeqdiVWLFE1SJuPh96go4ECQC/Xe1ucqqJ8wc7/kTTsTzhIpv3qFdKnpA9HbsDrNFUBJn+qLgSpO11HHRXCJWyJ9NSVwhNH1K07Xw5YdtDQjzr0AvjFq/LA5LUnwvp+LQWv8HSgWwRpY07qbH7FG08YWy1WHroaxswJqvymwEyQVmjDKY//F1d4g9+VGB/tf0UB7RK+khyV0j0rkAJ28k7WqTGN2Ne5DmBzYsrUBJWixP112dQ4uupGJ3591R3bjt1H+3xH1z2K+3jwNzwuepEBI/FYmylQA+xTO9kIVmFGVuvFbYwpfZVnosGs86nSsmk38ylbxnRsLo+Hj4CVAQ55SkWqqkNKfVN+wz/RZfX63RLo54PkzzYfvdS9ByKq2R5OhH0o2suokTT2UlEqyAN+2vkkvweTMLoXEVVzZuM8EXzOwIg=;dxQmrA9SYNZxjuh0lIxN0w=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-to-
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-to-see-remarkable-growth-by-2025-amazon-web-services-inbenta-technologies-ipsoft-2020-09-07"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global AI in Fintech Market Investment Plans, Growth Opportunities And Strategic Business Model"
+    excerpt: "Global AI in Fintech Market Report” the new research report adds in Data Bridge Market Research’s reports database. This Research Report spread across 329 Page, 53 No of Tables, And 244 No of Figures with summarizing Top companies,"
+    publishedDateTime: 2020-09-09T15:57:00Z
+    webUrl: "https://galusaustralis.com/2020/09/980448/global-ai-in-fintech-market-investment-plans-growth-opportunities-and-strategic-business-model/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/980448/global-ai-in-fintech-market-investment-plans-growth-opportunities-and-strategic-business-model/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/980448/global-ai-in-fintech-market-investment-plans-growth-opportunities-and-strategic-business-model/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 47
+    images:
+      - url: "https://gnghockey.com/wp-content/uploads/2020/09/Market-To-Set-Magnificent-Growth-2.jpg"
+        width: 800
+        height: 480
+        isCached: true
   - title: "Speech and Voice Recognition Market : Research Consumption, Companies , Industry Report Analysis and Future Demand"
     excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
     publishedDateTime: 2020-09-07T20:35:00Z

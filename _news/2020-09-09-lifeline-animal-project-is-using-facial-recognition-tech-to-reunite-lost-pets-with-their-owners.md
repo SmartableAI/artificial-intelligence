@@ -36,6 +36,54 @@ related:
       name: 11Alive
       domain: 11alive.com
     quality: 119
+  - title: "Portland's facial recognition ban is a major win, especially against Amazon"
+    excerpt: "\"The dangers and inequities in the current technology are present and clear,\" explained Portland Mayor Ted Wheeler."
+    publishedDateTime: 2020-09-10T01:11:00Z
+    webUrl: "https://mashable.com/article/portland-bans-facial-recognition-technology/"
+    ampWebUrl: "https://mashable.com/article/portland-bans-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-bans-facial-recognition-technology.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 102
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F09%252F10%252Fa0%252F625cc075eb3d4b72acffa2daaa3fb2de.17453.jpg%252F1200x630.jpg?signature=YwVn_DbOwjdC5xvuZXDlAGIu194="
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Portland, Oregon, passes toughest ban on facial recognition in US"
+    excerpt: "The ordinance outlaws the use of facial recognition not only by government agencies, but also by private businesses."
+    publishedDateTime: 2020-09-10T00:47:00Z
+    webUrl: "https://www.cnet.com/news/portland-passes-the-toughest-ban-on-facial-recognition-in-the-us/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/portland-passes-the-toughest-ban-on-facial-recognition-in-the-us/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/portland-passes-the-toughest-ban-on-facial-recognition-in-the-us/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/KfQmFcy0lsxNTq-PAmtq-iJTSFE=/1200x630/2020/09/09/689424a2-a839-4ec5-bcd3-2b2653528169/gettyimages-1211558665.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Portland passes expansive city ban on facial recognition tech"
+    excerpt: "The city council in Portland, Oregon passed legislation Wednesday that’s widely regarded as the most aggressive municipal ban on facial recognition technology so far. Through a pair of ordinances, Portland will both prohibit city bureaus from using the controversial technology and stop"
+    publishedDateTime: 2020-09-10T00:47:00Z
+    webUrl: "https://techcrunch.com/2020/09/09/facial-recognition-ban-portland-oregon/"
+    ampWebUrl: "https://techcrunch.com/2020/09/09/facial-recognition-ban-portland-oregon/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/09/facial-recognition-ban-portland-oregon/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/police-GettyImages-1228368456.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Portland City Council votes to ban facial recognition technologies in public places"
     excerpt: "Portland City Council voted to ban the use of facial recognition in public places and by government agencies, including the Portland Police Department."
     publishedDateTime: 2020-09-09T23:17:00Z

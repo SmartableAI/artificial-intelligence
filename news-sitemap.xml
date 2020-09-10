@@ -7,6 +7,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.azfamily.com/news/us_world_news/robot-dogs-join-us-air-force-exercise-giving-glimpse-at-potential-battlefield-of-the-future/article_1653dbd5-a080-5c4c-a9f1-d64cd64d1b5c.html</loc>
+    <lastmod>2020-09-09T14:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techrepublic.com/article/scaling-ai-in-your-organization-should-be-deliberate-not-rushed/</loc>
     <lastmod>2020-09-09T12:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -69,6 +75,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/</loc>
     <lastmod>2020-09-09T08:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/</loc>
+    <lastmod>2020-09-09T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -153,12 +165,6 @@
   <url>
     <loc>https://www.ibtimes.sg/future-defense-artificial-intelligence-robotics-driving-modern-day-military-51327</loc>
     <lastmod>2020-09-09T02:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09</loc>
-    <lastmod>2020-09-09T02:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -363,6 +369,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07</loc>
     <lastmod>2020-09-07T13:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-to-see-remarkable-growth-by-2025-amazon-web-services-inbenta-technologies-ipsoft-2020-09-07</loc>
+    <lastmod>2020-09-07T10:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -625,8 +637,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.dailypioneer.com/2020/technology/google-maps-using-deepmind-ai-to-predict-your-arrival-time.html</loc>
-    <lastmod>2020-09-04T00:03:00-07:00</lastmod>
+    <loc>https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247</loc>
+    <lastmod>2020-09-03T22:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

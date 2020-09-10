@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-10-robot-dogs-join-us-air-force-exercise-giving-glimpse-at-potential-battlefield-of-the-future.md",
+      "title": "Robot dogs join US Air Force exercise giving glimpse at potential battlefield of the future",
+      "excerpt": "It looked like a scene from science fiction. Emerging from United States Air Force planes, four-legged robot dogs scampered onto an airfield in the Mojave Desert, offering a possible preview",
+      "sourceUrl": null,
+      "webUrl": "https://www.azfamily.com/news/us_world_news/robot-dogs-join-us-air-force-exercise-giving-glimpse-at-potential-battlefield-of-the-future/article_1653dbd5-a080-5c4c-a9f1-d64cd64d1b5c.html",
+      "originalUrl": "https://www.azfamily.com/news/us_world_news/robot-dogs-join-us-air-force-exercise-giving-glimpse-at-potential-battlefield-of-the-future/article_1653dbd5-a080-5c4c-a9f1-d64cd64d1b5c.html",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/a/6b/a6ba1b57-07af-5666-8b6b-f02d689dea42/5f594a199ab5c.image.jpg?resize=1024%2C569",
+          "width": 1024,
+          "height": 569,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.azfamily.com/news/us_world_news/robot-dogs-join-us-air-force-exercise-giving-glimpse-at-potential-battlefield-of-the-future/article_1653dbd5-a080-5c4c-a9f1-d64cd64d1b5c.amp.html",
+      "cdnAmpWebUrl": "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/robot-dogs-join-us-air-force-exercise-giving-glimpse-at-potential-battlefield-of-the-future/article_1653dbd5-a080-5c4c-a9f1-d64cd64d1b5c.amp.html",
+      "publishedDateTime": "2020-09-09T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZFamily",
+        "domain": "azfamily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-i-have-no-desire-to-wipe-out-humans-robot-writes-in-ominous-op-ed.md",
       "title": "‘I have no desire to wipe out humans,’ robot writes in ominous op-ed",
       "excerpt": "OpenAI’s powerful new language generator, saying exactly what a robot intending to destroy humans might say. In an op-ed for The Guardian — yes, robots write op-eds now — GPT-3 was told to write an essay convincing readers that the machines come in peace.",
@@ -1286,59 +1327,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai.md",
-      "title": "Allen Institute open-sources AllenAct, a framework for research in embodied AI",
-      "excerpt": "Researchers at the Allen Institute for AI today launched AllenAct, a platform intended to promote reproducible research in embodied AI with a focus on modularity and flexibility. AllenAct, which is available in beta,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/",
-      "originalUrl": "https://venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/",
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/dc841940-773e-4eac-b8e4-991a1d03d459-e1585147826530.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/amp/",
-      "publishedDateTime": "2020-08-31T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI",
-        "AI in Robotics",
-        "Google AI"
       ]
     }
   ],

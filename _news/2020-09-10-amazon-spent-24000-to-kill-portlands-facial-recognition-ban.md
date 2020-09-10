@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar240
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Portland, Ore. passes first-of-its-kind facial recognition ban"
+    excerpt: "Along with banning city agencies from using facial recognition, the Portland City Council has banned private enterprises from using the technology in public spaces."
+    publishedDateTime: 2020-09-10T00:59:00Z
+    webUrl: "https://www.zdnet.com/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
   - title: "US CBP deploys facial recognition at 27 US airports as of May-2020"
     excerpt: "US Government Accountability Office reported (03-Sep-2020) as of May-2020, the US Customs and Border Protection (CBP) deployed facial recognition technology at 27 US airports. CBP"
     publishedDateTime: 2020-09-05T13:34:00Z

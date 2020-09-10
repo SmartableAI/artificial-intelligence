@@ -40,6 +40,54 @@ related:
       name: 11Alive
       domain: 11alive.com
     quality: 119
+  - title: "Portland's facial recognition ban is a major win, especially against Amazon"
+    excerpt: "\"The dangers and inequities in the current technology are present and clear,\" explained Portland Mayor Ted Wheeler."
+    publishedDateTime: 2020-09-10T01:11:00Z
+    webUrl: "https://mashable.com/article/portland-bans-facial-recognition-technology/"
+    ampWebUrl: "https://mashable.com/article/portland-bans-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-bans-facial-recognition-technology.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 102
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F09%252F10%252Fa0%252F625cc075eb3d4b72acffa2daaa3fb2de.17453.jpg%252F1200x630.jpg?signature=YwVn_DbOwjdC5xvuZXDlAGIu194="
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Portland, Oregon, passes toughest ban on facial recognition in US"
+    excerpt: "The ordinance outlaws the use of facial recognition not only by government agencies, but also by private businesses."
+    publishedDateTime: 2020-09-10T00:47:00Z
+    webUrl: "https://www.cnet.com/news/portland-passes-the-toughest-ban-on-facial-recognition-in-the-us/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/portland-passes-the-toughest-ban-on-facial-recognition-in-the-us/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/portland-passes-the-toughest-ban-on-facial-recognition-in-the-us/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/KfQmFcy0lsxNTq-PAmtq-iJTSFE=/1200x630/2020/09/09/689424a2-a839-4ec5-bcd3-2b2653528169/gettyimages-1211558665.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Portland passes expansive city ban on facial recognition tech"
+    excerpt: "The city council in Portland, Oregon passed legislation Wednesday that’s widely regarded as the most aggressive municipal ban on facial recognition technology so far. Through a pair of ordinances, Portland will both prohibit city bureaus from using the controversial technology and stop"
+    publishedDateTime: 2020-09-10T00:47:00Z
+    webUrl: "https://techcrunch.com/2020/09/09/facial-recognition-ban-portland-oregon/"
+    ampWebUrl: "https://techcrunch.com/2020/09/09/facial-recognition-ban-portland-oregon/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/09/facial-recognition-ban-portland-oregon/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/police-GettyImages-1228368456.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "NIST benchmarks show facial recognition technology still struggles to identify Black faces"
     excerpt: "NIST benchmarks suggest some facial recognition algorithms haven't corrected historic bias -- and are actually getting worse."
     publishedDateTime: 2020-09-09T17:08:00Z
@@ -175,6 +223,6 @@ related:
         height: 479
         isCached: true
 
-secured: "fRFHoMf1D+rspfHvz8v/IO0+QgtHQke8jFa3EAf+6Fvl9l8jH8Ivuqcj7rEcUEYI7+sszSSSWVooKW2eXZK2+6MELWoLmPjjkbS4RjN6ZX7pqL4Uua4jyM5AuBj7wPL1zGSsJqKt2WYrqVuA/lTO8FxKCEtclQhsoz2uqF2vX/WgLgUtPSreUqt0ML38o20REo/AqagJirtZp9WnGVnChBJBOvYO4bRmwUqaMQ0a1Z0/5Q9eh7/tpJiiK3OfgW0ZBxJuivaw1GoYVz3O9jsM2vMGcmznoU5My2xUFe6YY8xn+yHzOSe5xkg4H65Ci34ro3UL3XC9koG0skcuFG+DzoBzRPt+yTXb4GC+VioHfKw=;pvucUeH3Gil8vq5g+aiUog=="
+secured: "tq1w5CGy3ubF25af4R9nf0uhd10LpkOBcJZ3G0EAl6XvIX3Uscd8QzykYb3Nad8odI6QIZZS2hDhqRxKzyy2cPENzYAvoKZ8KMsGyZ6wn30OEibi5d1AGpsJaY1lYRV0zoON7zsfNWzFH8+z8DKOsbHWEs+NDA8hErAzcc8CsQRh0cFpWr4q673Hh9FA65BnGcwAigV+GvKoGBkhoJF2pEeRJvpIH0LgfC21EWFg/yg7SUg70jS7y95wjPkTT0uXB9eypgH+rRBfwSFcZBbSRuzpGfTnM/cDaXnsd8R+URFQ5vERq9K08dWUHD4PJr44ovFZRKNmCnerc1es+PImogc7kBHnonV4SxMPuexn8DWGNpqkE8Mee2WvL7DlOumGeJkWq5uyU/PWYyyUrjyjBeQUzX438C2lgY2uknaF3WC6UejpNud35Jwhk6WlhHg1AfiIoHcta3qjd03KLMQ89ima56xHTJW6bXiBTKHk69vyEyMTcTaX4GCI0vAPBzR0mQx5T6LubofeVbuzGbjo+HLNwhhH4bnSZuVzDJ/Mwhk=;ImB4fugNYWXv99aIivj4Yg=="
 ---
 

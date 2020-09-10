@@ -15,8 +15,8 @@ provider:
   domain: fastcompany.com
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-1-how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides.jpg"
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "j2Ltuke0sKqUAlAPZWIaPPRfKnrDUDNql6uTgK+iodaEEVl5RQHIpaH4miMcnuMQGlwA0tegjFNU8haY1wUl4NMZ1GGSdFHevBzdA0bCuVgSYvy1ojfKhVw1UcJrp7WyyfRv+CUACX6OuMrUcZg1XxiiKB6zC5pNUQWp7BiRSDERxZus6jO4jrkCwLlVV9aNWppan002+wR4Qfn3yjdU8BqrVdGMdbv26j/a8s587d/XH6mbYCHhn8Pxpgcc1HA7rPMW82nPVSjtLib6Ui90mdoSCm0MZy28Sb7NsyzAlhx1EA3HOrpVRjCOFeitawF7vswtPYmNeFaauVyCeTZsE1x2P2QjGtZ68SMwX3q9PYM=;9Yi7ADGfzCS7qxX2oPvXfA=="
+secured: "KWBqiYiPhRyNH2FvLSljUHnCsJDBdm8r6bTRiza+V0czqoJF8JeYfgIiL4RL5QAtXfcXacDzKby8ToAt+y3TEsZKegiwgnb4fkGGTYik1SzHP84SaI2qOSyvSWNtcaeZrWIxo8yA6dOLQ2SFHxmgrgBE8BQn30opTQS3MxwNvQrxImvWtDLtn8j1zWcAOuDGCPrmjtXc3P4uS8Iaykrgocr4iWkkrh15MgGmhtfDQ8oAEFi4pQMbzEWO3WLenn/HNmVpdw+BxlnYIzr/bk3f6yGgf21ZTfp44xQ9nfPaAgJSp+l7KbNEbC2urjHqFI/oyU2gVhKHJ+YJOmRmXzHpFFDrbZu7Q6XRkkLqCVKBMEw=;+bCuwMXdlWY+4Nyv5UiSXg=="
 ---
 
