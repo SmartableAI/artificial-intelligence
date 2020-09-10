@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://res.infoq.com/news/2020/09/google-bigbird-nlp/en/headerimage/google-bigbird-nlp-header-1598715528952.jpg"

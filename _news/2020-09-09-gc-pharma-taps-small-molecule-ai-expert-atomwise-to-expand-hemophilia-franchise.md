@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "GC Pharma Taps Small Molecule AI Expert Atomwise to Expand Hemophilia Franchise"
+    excerpt: "Atomwise, the leader in using artificial intelligence (AI) for small molecule drug discovery, announced today a partnership with GC Pharma (KRX: 006280), a South Korean biopharmaceutical company formerly known as Green Cross Corporation,"
+    publishedDateTime: 2020-09-09T19:59:00Z
+    webUrl: "https://www.financialbuzz.com/gc-pharma-taps-small-molecule-ai-expert-atomwise-to-expand-hemophilia-franchise/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 15
+
 secured: "YaPv2eL+FbNh126mCo0YCeGrKVlHP0awvV27r0Zd33zNItnZj0WtLK47JSDaKspDa4UhxqjkWSlzSSJe76HlwYw3oSLSYmW0bX5EnpOecK9zJONmZfM+Md60lsvizKxb0yUdOH+v4CMIKu6J05wD+yhgAMF0dHcM4UYN2l9Yr5JHixVLOxAPn0E0IVcDBaoqed3Ec8y+m+C/jcxGHnJQGlnu7VmJAdrervjcU49ObBgl96lkKQntFv27qNjmFRzas0AJFCYnYoCPw4r106P+KqAR4viOH/SgGiHJZj1J0e0oveSIoDwkUsghKFvINW8gflm7y2iw73WAnSUptbmnvpkJlSYmE+sGOeeS1YnyVdA=;5E5Vj51z3vSX19sT99tDqw=="
 ---
 

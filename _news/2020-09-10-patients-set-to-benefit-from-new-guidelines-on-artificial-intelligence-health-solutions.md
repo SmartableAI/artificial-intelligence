@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2020-09-patients-benefit-guidelines-arti
 ampWebUrl: "https://medicalxpress.com/news/2020-09-patients-benefit-guidelines-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-patients-benefit-guidelines-artificial-intelligence.amp"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5-ai.jpg"
@@ -25,6 +26,6 @@ images:
     height: 1920
     isCached: true
 
-secured: "4bMQ8BflChA/Hv3L3uHtVxnx2wG3Ys44etEfn2tpzfQoYBk356iT5tJqP9JoT3tj0UunE5VSbMdYmPB64S0rj1l8g0r2U9ETeM7dwEiEVoLVgO/8cilR3EXpwpMGQKnNur1d1LHM89rC1ND/9ozU3VluPCNEx9e9R3mBUGxOoqgFNhJk/7oBjHcB4qjLEmtbqEiV28A/qEhHmGUrspvS+v1fo4FOvDYyBUkhi3VxPEJeUre9L73t7T0Dh5+maywksQlVT+fjsucHHMKez2IDnOzOJCd8qHzlWgBKMvTjwBbpwvI+3fTOp+oWUeuKrzEGTIMbyUZBpYDhZIoBuX6t6HvxXMMwhfyaoDn9dtuE1hQ=;J1ioYjCu6Tc2Lvgs5ULa1A=="
+secured: "weExMpgaVfOs3SSouWl5Xh60Qw2uaY9rk1wJIKa1RR4Lh2gR+DatqlM8yjVKobA6FDCRWXnygqDiTik4T5NUvgRNWvrLjo9zySzc8sB7vqNoz9lrWo68iQjEdIApqiV75HZ5JH6Ocor4s8LrABo/AS+bSjS7gJzKFsRvpeKvSh9Bs60+PY+SdCFvyCpVyCVh4MBwAa9/M92IKNAqQwUyJTzNdoI0llNlTuOg4JlwIDxLAtQdCTL0apjfq+XTf1gEWYDb3fj9uBwwOdckC0ZojxYunhilQ9vF8PZ7P8wsqkIVE/2ZCtzvCpotZn4FyULnUTucrwBhP6DTafJK+X/7M/lrYFk06Dhw0JuCWK4lvr3sLP4KLGyshd3MagS7vNsMeq0boaBZCsVMBN2RhCdujzt4Lt4ssemB6O2E/e2VgMoNO3nsZyTImlKRVWIUCKiXTfdvWiZlZ8IZI/XTL8X0/lU/ADwTl9oKllkGE3hI28KXG56y6Xjt+IiJUXzEmUKj2K5MZ1KI2+PBbueqhjExEw==;0ZdpT7QnTvuTc7JeY6co6Q=="
 ---
 

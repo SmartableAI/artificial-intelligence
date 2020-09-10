@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Iridium Unveils the World's First Machine Learning Algorithms that Decode the Value of Investor Relations"
-excerpt: "The quality of investor relations can add up to 24.2 percent to a listed company's market capitalization, according to a new data"
-publishedDateTime: 2020-09-02T15:17:00Z
-originalUrl: "https://www.prnewswire.com/ae/news-releases/iridium-unveils-the-worlds-first-machine-learning-algorithms-that-decode-the-value-of-investor-relations-301122842.html"
-webUrl: "https://www.prnewswire.com/ae/news-releases/iridium-unveils-the-worlds-first-machine-learning-algorithms-that-decode-the-value-of-investor-relations-301122842.html"
+excerpt: "Four different Machine Learning algorithms were deployed to analyze 9 million data points across 673 global banks, including 65 GCC banks, to"
+publishedDateTime: 2020-09-02T10:29:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/iridium-unveils-the-world-s-first-machine-learning-algorithms-that-decode-the-value-of-investor-relations-1029555399"
+webUrl: "https://markets.businessinsider.com/news/stocks/iridium-unveils-the-world-s-first-machine-learning-algorithms-that-decode-the-value-of-investor-relations-1029555399"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/iridium-unveils-the-world-s-first-machine-learning-algorithms-that-decode-the-value-of-investor-relations-1029555399"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/iridium-unveils-the-world-s-first-machine-learning-algorithms-that-decode-the-value-of-investor-relations-1029555399"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1247730/Oliver_Schutzmann_Iridium_Advisors.jpg?p=facebook"
-    width: 2700
-    height: 1413
-    isCached: true
-
-secured: "MqjToTEaUtH6/LSNnQKug5LosoL/Rrx4AlWY0eAo4oaDGanJfxUusIssHUiwvsG3exvfgziPUcO0HWbJ2ucFN0Gs+Sw64sDcyyniy5YfvdOvNw3ILBqDGJTrE/KbhispTi7OrkCNK+w3gZnmjc9N+EhAP82sjRQQyIrk7UTY+QBAUGDKFEt4Sjb0jter8M130/xR5lFwkPADuig9mS8qDaSR196kBBYysvwRuAsRJqvotY5yZAkbagwal+hkj3YkEyTMBvI5Mp4F2y4YcmVQGOI+XEWD76NgG/BpIBdXP9HV7p/ORDfMOvsR4wUDjLX13THRdvBU+PHD94AW/jwQvUfN1ucUbqS1tzoMCpScIYc=;BjuKq/S+S7ePJJQlkM8PlA=="
+secured: "f8ReRtlTkjL/BKnefvs7RFC0sxT6agjyYaY06muJIeM5C9pbXs0VaBu9D6HaGEd36Lm0mo37Xlnw9LpKxmCR22roWfRo8Wey4kdwgasJm9yniyszVTUUWll6wBqoMf8T7P/95c3tskHQ569Omq7fC+TKO4JJSXbSrd5VXqLwU7Ykr2kIobQrE08SyZSM1APWFSlJ2tSHjpGayXTXkEw6sIjBXF+4KejJla4q0vN+AXFLcCkfQK0D33Nd6VljpAf32T2Gz2HL68FdJZrarBwQ9ZD0pOJ3vg3uK+U8G4Cb03srMZrgJUe05OeusZlsy5oHKQ8kkw17HeQt41sFExu/G7fWOgPkHhGAHcTKlRlyNrk=;qNB6KwykxwrdWbZpmXcNRA=="
 ---
 

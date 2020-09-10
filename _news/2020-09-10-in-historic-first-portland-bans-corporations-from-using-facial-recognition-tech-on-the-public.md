@@ -130,6 +130,22 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Portland, Oregon Imposes Strict Ban on Facial-Recognition Technology"
+    excerpt: "Private businesses and government agencies can't use facial-recognition technology starting on January 1 next year."
+    publishedDateTime: 2020-09-10T13:58:00Z
+    webUrl: "https://www.entrepreneur.com/article/356019"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/356019"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356019"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1599746294-facial-recognition.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Portland enacts most stringent facial recognition technology ban in US, barring public, some private use"
     excerpt: "Portland City Council members voted unanimously on Wednesday to prohibit the public – and, in some cases, private – use of facial recognition technology."
     publishedDateTime: 2020-09-10T13:39:00Z
@@ -145,6 +161,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Wheeler-Hardesty-Getty.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Portland adopts strictest facial recognition ban in nation to date"
+    excerpt: "The Portland City Council voted on two ordinances related to facial recognition: one prohibiting use by public entities, including the police, and the other limiting its use by private entities. Both measures passed unanimously,"
+    publishedDateTime: 2020-09-10T14:32:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/09/portland-adopts-strictest-facial-recognition-ban-in-nation-to-date/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1140004895-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Portland bans private and public use of facial recognition tech"
     excerpt: "The city of Portland, Oregon has unanimously passed an expansive new piece of legislation that bans both the private and public use of facial recognition tech."
@@ -172,6 +202,22 @@ related:
       - url: "https://thehill.com/sites/default/files/facialrecognitiontech_070319istock.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Portland passes broadest ban on facial recognition technology in US"
+    excerpt: "Councilmembers in Portland unanimously approved to prohibit public and private use of facial recognition technology."
+    publishedDateTime: 2020-09-10T15:15:00Z
+    webUrl: "https://nypost.com/2020/09/10/portland-passes-broad-ban-on-facial-recognition-tech/"
+    ampWebUrl: "https://nypost.com/2020/09/10/portland-passes-broad-ban-on-facial-recognition-tech/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/10/portland-passes-broad-ban-on-facial-recognition-tech/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/200910-portland-ted-wheeler.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Portland passes nation’s toughest restriction on facial recognition technology"
     excerpt: "The private sector ban bars business from using facial recognition technology in public areas within Portland city limits. For example, a private business could not have a camera"
@@ -314,6 +360,6 @@ related:
       domain: rt.com
     quality: 17
 
-secured: "d5izd8WQctKojej9XOFmJFCny7aJu/7maZ2kmWKY+v8gIpmV51zNPuL9mshmkGkljC6zHZrS9ejFfSMUcgEzJqcFdwvsUgisyuhKkr1PbyZb6iTSSFFMv/2HXV1whaDQtw7HYnCjPdOvrhsV5Tp34pDEpeEvn43klzo05vsKwdU6X6R2NFmzkz2/uswjK7uLikhiTixkZzzHVkKe7ozBYsnSLwQ6Ks3cz4OQBypLnIy8VuuMDLgZxpXUxggxz+0f7OLiyPH/QE0CIzysU6urxRERACm1GDOr1nipg93aq16fXnwwSUhnW7wjwb67JDOSahQ8ILezwsTdDdhH75x1bQXdf+uag4NSb5rXuPixuR4=;/MNap0tcwOUQuOh121sRFA=="
+secured: "5GgWisJEko7Y2d9nRNK6qTri1Q5PfT8AQxW1seT5BHVdHkwbA1pVyj1BMUFUizyjZX/6JQrPm3UiGTeWF2H7qyITH53PXrL7vhmYZBjYvdaqBZn0KiMmaDwutl5GgwIOjHfnwGYTAN01YumlDlmNwroSCizNGS3AZCDbftyC8Q32HAsSMAMh8s/RebRdGe+bWXJmOFR7Eb/cW3zVpasfVTFxKmxKRTa6HkFY+mVOk8o/5stvWDK2DoTRtzV96ZksfntOSz4y3lDcKpDg2sdqPbkNk0Inf51hpeDnwkP507zo2B8ZZAzjdJwdadCCHhwdjadlGWG4WFKJerf0yOifi+TeV/uFLuBk+l6Be1x08c0ljXNjnzakrgt7eKd+z9Hs1OBoLSMM72TbfHJrKYJD+vINTACdy7LaQ7QSHElh4b6/TDxooDjHjsf+kkUzKxzr10t92AOjg9n0b3XIPi9hmv/zf0k1bBEJyaBTa5L3HkdIRwo4c6wja8zifeMqNM3x93BnGTkUQenDIsQlxOC/GLkd3v6hUgVO8uEqfjLtGiU=;KmvDYADZfQldKcloDL5xiw=="
 ---
 

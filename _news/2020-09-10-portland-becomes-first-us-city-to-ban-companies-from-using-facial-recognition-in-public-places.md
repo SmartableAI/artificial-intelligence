@@ -47,6 +47,22 @@ related:
         width: 5037
         height: 2829
         isCached: true
+  - title: "Portland Just Passed Our Country's Broadest Ban On Facial Recognition"
+    excerpt: "Portland, Oregon might be best known as the home of bohemian stereotypes a- plenty and some of the wildest donuts you can find in the state. Now it’s also earned the reputation for ambitious privacy legislation after passing the country’s broadest ban on facial recognition technology to date."
+    publishedDateTime: 2020-09-10T15:38:00Z
+    webUrl: "https://gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594"
+    ampWebUrl: "https://gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/tjgsnhla145urojh2w3s.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Portland bans use of facial recognition tech by government and private entities"
     excerpt: "In a landmark judgment, the city of Portland banned the use of facial recognition technology by government as well as private agencies. A penalty of up to $1,000 a day can be claimed for violations."
     publishedDateTime: 2020-09-10T06:54:00Z

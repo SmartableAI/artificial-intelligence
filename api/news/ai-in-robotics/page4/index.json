@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-07-3-daunting-ways-ai-will-transform-the-world-of-work.md",
+      "title": "3 Daunting Ways AI Will Transform The World Of Work",
+      "excerpt": "It shouldn’t be a surprise to anyone that artificial intelligence is going to change the jobs we will do in the future and redefine the role of humans in the workplace. Here we look at the three ways AI will change the world of work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/07/3-daunting-ways-ai-will-transform-the-world-of-work/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2cd5b7552557925d573987%2F0x0.jpg",
+          "width": 1199,
+          "height": 569,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/07/3-daunting-ways-ai-will-transform-the-world-of-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/08/07/3-daunting-ways-ai-will-transform-the-world-of-work/amp/",
+      "publishedDateTime": "2020-08-06T21:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-black-hat-hackers-can-remotely-hijack-enterprise-healthcare-temi-robots.md",
       "title": "Black Hat: Hackers can remotely hijack enterprise, healthcare Temi robots",
       "excerpt": "Robots used in hospitals and care homes to assist patients and the vulnerable can be fully hijacked by cyberattackers.  On Thursday at Black Hat USA, McAfee's Advanced Threat Research (ATR) team disclosed new research into the robots,",
@@ -1285,56 +1335,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-demand-for-autonomous-delivery-robots-rises-as-pandemic-continues.md",
-      "title": "Demand For Autonomous Delivery Robots Rises As Pandemic Continues",
-      "excerpt": "Answering the need for deliveries that minimize human contact, companies are stepping up R&D efforts in autonomous robot development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1f969d138498e307bb28ad%2F0x0.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/amp/",
-      "publishedDateTime": "2020-07-27T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

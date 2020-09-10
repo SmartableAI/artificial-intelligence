@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-10T13:41:00Z
 originalUrl: "https://www.wsj.com/articles/cyber-daily-ambient-ai-in-health-care-raises-privacy-security-debate-irelands-privacy-watchdog-to-curtail-facebook-data-transfers-11599741515"
 webUrl: "https://www.wsj.com/articles/cyber-daily-ambient-ai-in-health-care-raises-privacy-security-debate-irelands-privacy-watchdog-to-curtail-facebook-data-transfers-11599741515"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://s.wsj.net/img/meta/wsj-social-share.png"

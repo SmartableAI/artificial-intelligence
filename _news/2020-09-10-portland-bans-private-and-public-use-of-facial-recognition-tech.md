@@ -130,6 +130,22 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Portland, Oregon Imposes Strict Ban on Facial-Recognition Technology"
+    excerpt: "Private businesses and government agencies can't use facial-recognition technology starting on January 1 next year."
+    publishedDateTime: 2020-09-10T13:58:00Z
+    webUrl: "https://www.entrepreneur.com/article/356019"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/356019"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356019"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1599746294-facial-recognition.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Portland enacts most stringent facial recognition technology ban in US, barring public, some private use"
     excerpt: "Portland City Council members voted unanimously on Wednesday to prohibit the public – and, in some cases, private – use of facial recognition technology."
     publishedDateTime: 2020-09-10T13:39:00Z
@@ -146,6 +162,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Portland adopts strictest facial recognition ban in nation to date"
+    excerpt: "The Portland City Council voted on two ordinances related to facial recognition: one prohibiting use by public entities, including the police, and the other limiting its use by private entities. Both measures passed unanimously,"
+    publishedDateTime: 2020-09-10T14:32:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/09/portland-adopts-strictest-facial-recognition-ban-in-nation-to-date/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1140004895-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Portland adopts landmark facial recognition ordinances"
     excerpt: "The Portland, Ore., City Council on Wednesday unanimously adopted two landmark ordinances banning city and private use of facial recognition technology."
     publishedDateTime: 2020-09-09T23:30:00Z
@@ -161,6 +191,22 @@ related:
       - url: "https://thehill.com/sites/default/files/facialrecognitiontech_070319istock.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Portland passes broadest ban on facial recognition technology in US"
+    excerpt: "Councilmembers in Portland unanimously approved to prohibit public and private use of facial recognition technology."
+    publishedDateTime: 2020-09-10T15:15:00Z
+    webUrl: "https://nypost.com/2020/09/10/portland-passes-broad-ban-on-facial-recognition-tech/"
+    ampWebUrl: "https://nypost.com/2020/09/10/portland-passes-broad-ban-on-facial-recognition-tech/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/10/portland-passes-broad-ban-on-facial-recognition-tech/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/200910-portland-ted-wheeler.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Portland passes nation’s toughest restriction on facial recognition technology"
     excerpt: "The private sector ban bars business from using facial recognition technology in public areas within Portland city limits. For example, a private business could not have a camera"

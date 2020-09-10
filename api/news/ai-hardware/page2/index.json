@@ -2,6 +2,106 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-01-ai-enhanced-displays-are-coming-to-more-affordable-smartphones.md",
+      "title": "AI-enhanced displays are coming to more affordable smartphones",
+      "excerpt": "Pixelworks' i6 display processor boasts AI scene detection to enhance picture quality for more affordable phones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/",
+      "originalUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/04/OnePlus-8-screen-1-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/pixelworks-i6-display-processor-1151116/amp/",
+      "publishedDateTime": "2020-09-01T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-mediatek-helio-g95-chip-announced-for-gaming-smartphones.md",
+      "title": "MediaTek Helio G95 chip announced for gaming smartphones",
+      "excerpt": "MediaTek today announced its latest gaming-focused chipset, the Helio G95. An upgraded version of the G90T, the new chip is slightly faster in CPU and GPU benchmarks and comes with other new features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/mediatek-helio-g95-chip-announced-for-gaming-smartphones",
+      "originalUrl": "https://www.neowin.net/news/mediatek-helio-g95-chip-announced-for-gaming-smartphones",
+      "featuredContent": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1598936959_mediatek-helio-g95_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/mediatek-helio-g95-chip-announced-for-gaming-smartphones/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/mediatek-helio-g95-chip-announced-for-gaming-smartphones/",
+      "publishedDateTime": "2020-08-31T22:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-israeli-ai-chip-developer-hailo-opens-doors-on-japanese-expansion.md",
       "title": "Israeli AI chip developer Hailo opens doors on Japanese expansion",
       "excerpt": "Israeli microprocessor developer Hailo sees a path to support and dominate growing Asian AI chip market by establishing new Japanese",
@@ -136,10 +236,10 @@
     {
       "path": "_news/2020-08-31-nvidias-top-gpu-has-a-formidable-new-ai-rival-and-its-not-who-you-think-it-is.md",
       "title": "Nvidia's top GPU has a formidable new AI rival and it's not who you think it is",
-      "excerpt": "Tachyum, the company that plans to kill the CPU and GPU with its universal Prodigy processor, this week shared additional details regarding its upcoming chip. As it turns out, the new processor will support industry-standard open-source development frameworks for AI applications,",
+      "excerpt": "Tachyum, the company that plans to kill the CPU and GPU with its universal Prodigy processor, this week shared additional details regarding its upcoming chip.   As it turns out, the new processor will support industry-standard open-source development frameworks for AI applications,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "originalUrl": "https://www.techradar.com/au/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "webUrl": "https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "originalUrl": "https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
       "featuredContent": null,
       "heat": null,
       "tags": null,
@@ -154,8 +254,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "ampWebUrl": "https://www.techradar.com/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
       "publishedDateTime": "2020-08-30T22:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1261,107 +1361,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips.md",
-      "title": "Intel: Data bandwidth, sparsity are the two biggest challenges for AI chips",
-      "excerpt": "The movement of data into and out of the processor is the biggest challenge for AI chips, but sparsity looms as an even greater challenge, according to Intel engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
-      "originalUrl": "https://www.zdnet.com/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
-      "featuredContent": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/d7c866cd-2e4e-49d6-a72e-56ffd3c5868a/intel-glimpse-into-the-future-of-connectivity-aug-2020.png",
-          "width": 2948,
-          "height": 1652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
-      "publishedDateTime": "2020-08-17T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-ibm-power10-mega-chip-for-hybrid-cloud-is-revealed.md",
-      "title": "IBM POWER10 Mega Chip For Hybrid Cloud Is Revealed",
-      "excerpt": "The IBM POWER architecture has always delivered high-performance computing for business-critical workloads and looking to build on that legacy, they’ve just released the POWER10, tilting toward support for cloud workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/08/17/ibm-power10-mega-chip-for-hybrid-cloud-is-revealed/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f38a5f091aa14f662ef56fe%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-17T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,105 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-09-ey-is-transforming-the-transaction-diligence-process-with-watson.md",
+      "title": "EY is transforming the transaction diligence process with Watson",
+      "excerpt": "At EY, our teams look to help clients solve their toughest issues. In a fast-changing and data-driven world, we give them the support they need to reimagine their ecosystems, reshape their portfolios and reinvent themselves for a better future. When considering a transaction, clients are typically evaluating",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/09/ey-is-transforming-the-transaction-diligence-process-with-watson/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/ey-is-transforming-the-transaction-diligence-process-with-watson/",
+      "featuredContent": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/2020_07_15_EY_Blog_Leadspace_v2.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T10:29:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-16-smart-ways-you-can-leverage-ai-to-boost-your-business.md",
+      "title": "16 Smart Ways You Can Leverage AI To Boost Your Business",
+      "excerpt": "AI offers the best way for companies to automate repetitive processes and gain insight into their customer bases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f58d99ecc7cbb59fb09fee4%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/amp/",
+      "publishedDateTime": "2020-09-09T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom.md",
       "title": "Voice assistants don’t work for kids: The problem with speech recognition in the classroom",
       "excerpt": "Young \"remote learners\" often struggle to navigate the keyboards, menus, and interfaces required to make good on the promise of education technology.",
@@ -249,7 +348,7 @@
       "webUrl": "https://phys.org/news/2020-09-machine-aids-gene-discovery.html",
       "originalUrl": "https://phys.org/news/2020-09-machine-aids-gene-discovery.html",
       "featuredContent": null,
-      "heat": 104,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -279,6 +378,47 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit.md",
+      "title": "proteanTecs to Host Virtual Panel on Datacenter Uptime at the AI Hardware Summit",
+      "excerpt": "PRNewswire/ -- proteanTecs, a leading developer of Deep Data solutions for electronics' health & performance monitoring, will be participating in a virtual panel discussion at the AI Hardware Summit 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
+      "publishedDateTime": "2020-09-09T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1030,156 +1170,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution.md",
-      "title": "Facial Recognition Development In Wasps Hints At A Mystery Of Human Evolution",
-      "excerpt": "Scientists have long wondered how prehistoric humans quickly unstuck themselves from the Stone Age and rapidly became as intellectually and socially capable as modern humans. Recent discoveries about wasps and their cognitive abilities may hold a clue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/",
-      "originalUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/",
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5658c0f32434bb6ab132bf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1882%26cropY1%3D728%26cropY2%3D1785",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/",
-      "publishedDateTime": "2020-09-08T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-what-do-the-server-quarterly-earnings-tell-us.md",
-      "title": "What Do The Server Quarterly Earnings Tell Us?",
-      "excerpt": "As one could probably tell from my opening statement, I'm not, nor do I pretend to be a financial analyst. My lens on quarterly financials is that of a techie with interest. But, I do believe that following the individual company's earnings and PowerPoint slides used to drive earnings calls can tell a lot about that company's focus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f57e0172f22243576d10081%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D875%26cropY1%3D26%26cropY2%3D518",
-          "width": 875,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/amp/",
-      "publishedDateTime": "2020-09-08T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-sea-tac-airport-rolls-out-self-driving-floor-cleaners-restroom-stall-lights-and-more-pandemic-safety-tech.md",
-      "title": "Sea-Tac Airport rolls out self-driving floor cleaners, restroom stall lights and more pandemic safety tech",
-      "excerpt": "In addition to the thousands of gallons of hand sanitizer being dispensed around Seattle-Tacoma International Airport, the Port of Seattle is turning to a few new high-tech approaches to cleaning",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/",
-      "originalUrl": "https://www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/",
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/self-driving-floor-machine-630x353.jpg",
-          "width": 630,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/amp/",
-      "publishedDateTime": "2020-09-08T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

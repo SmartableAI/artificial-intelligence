@@ -52,6 +52,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-09-proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit.md",
+      "title": "proteanTecs to Host Virtual Panel on Datacenter Uptime at the AI Hardware Summit",
+      "excerpt": "PRNewswire/ -- proteanTecs, a leading developer of Deep Data solutions for electronics' health & performance monitoring, will be participating in a virtual panel discussion at the AI Hardware Summit 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
+      "publishedDateTime": "2020-09-09T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-computer-chips-that-can-read-our-brains-have-moved-from-sci-fi-to-reality-for-better-and-worse.md",
       "title": "Computer chips that can read our brains have moved from sci-fi to reality, for better and worse",
       "excerpt": "The near-term applications will mostly benefit society, but the danger of a dystopian future is becoming more real, too.",
@@ -79,6 +120,47 @@
       "provider": {
         "name": "NBC News",
         "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-nvidia-rtx-3090-3080-3070-gpu-price-release-date-and-specs-detailed.md",
+      "title": "Nvidia RTX 3090, 3080, 3070 GPU: Price, Release Date, And Specs Detailed",
+      "excerpt": "Nvidia revealed its new RTX 3000 line of Ampere-powered GPU earlier in the month--the RTX 3090, 3080, and 3070 cards. The new 3000 series is the second generation of RTX graphics cards that will run features like real-time ray tracing with much higher performance than current RTX cards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/",
+      "originalUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/",
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3728918-pcgaming_rtx30series_impressions_20200901_site.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/",
+      "publishedDateTime": "2020-09-08T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1271,106 +1353,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-ai-enhanced-displays-are-coming-to-more-affordable-smartphones.md",
-      "title": "AI-enhanced displays are coming to more affordable smartphones",
-      "excerpt": "Pixelworks' i6 display processor boasts AI scene detection to enhance picture quality for more affordable phones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/",
-      "originalUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/04/OnePlus-8-screen-1-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/pixelworks-i6-display-processor-1151116/amp/",
-      "publishedDateTime": "2020-09-01T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-mediatek-helio-g95-chip-announced-for-gaming-smartphones.md",
-      "title": "MediaTek Helio G95 chip announced for gaming smartphones",
-      "excerpt": "MediaTek today announced its latest gaming-focused chipset, the Helio G95. An upgraded version of the G90T, the new chip is slightly faster in CPU and GPU benchmarks and comes with other new features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/mediatek-helio-g95-chip-announced-for-gaming-smartphones",
-      "originalUrl": "https://www.neowin.net/news/mediatek-helio-g95-chip-announced-for-gaming-smartphones",
-      "featuredContent": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1598936959_mediatek-helio-g95_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/mediatek-helio-g95-chip-announced-for-gaming-smartphones/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/mediatek-helio-g95-chip-announced-for-gaming-smartphones/",
-      "publishedDateTime": "2020-08-31T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -21,6 +21,12 @@ topics:
   - Google AI
   - AI
 
-secured: "OCdBkJ6j+PzoIQIxaUY8rRIX3mczvC0wyR212be9tCBqY2P5uho5Imd6y2OyBInnLBO6Z5cDU9Ko8qpG5myMcPaZej29WGE+WbrEkUwhytgouDSn5juk4LbiYjjkvScqg+ssGjbJTPJ1CMu2lCftvZsmIpdXjA9152s5X108wu95v+aQrED+aFOdzzSYPVGF8HLkCU2usP89IAXCphv7CG5Ud0yAfu7/bsXc3PX3Ir/JXsTEEYURL3fzA3WzzL+5vqdUDzSVkPDpriT8US9VlIWV+WVjAaEFdqX5dpMCLvf1FyulX1soHZ6mA9Zs9ahC9cMC9GbCC197uqEB7vORWyAud/E1bmhh6hIEppAsCsY=;IevNkrDYkWYfZa+mOlVNKA=="
+images:
+  - url: "https://zdnet2.cbsistatic.com/hub/i/2019/10/18/ef1aeddf-daa9-4a92-a203-d83689b1f7b9/gettyimages-10356842641.jpg"
+    width: 4256
+    height: 2832
+    isCached: true
+
+secured: "q6hZVTNsk/icaHkqp4OpT9MFYsNvroCqSUrQr/AOjNOmvQtYEkilhqi5KuFsv+5q/LXSIujyY0C8E0Zl+0b3SQ5NGr0MkRsi25WS7zZ2BkbSP92rUUX24XdH1vHFePlBy6LGrXXLxvqvXFnyGl+1VhRM1KWK1LD3U6/0gowgGi2yVn8jKyQcyvbYwXZE4/efbOnxNP54bjdVE5d1YWpYjIu1NDPXv7G/q57wh9fjyt9AS5f62nVpptpvRcfe74T73cBmtW00BJnJUl7PVftmRmfRQWGPn29j99BgiTu1gP+HcPM+MDOnUmBWCmBvaKCxiZqd/4PPyuaThd2BYOFT6fnL7JsDYGnTn6m7c+D987U=;8ov0LyCtFif6kGOeG+d3qg=="
 ---
 

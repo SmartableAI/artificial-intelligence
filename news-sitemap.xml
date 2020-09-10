@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/</loc>
+    <lastmod>2020-09-10T07:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/</loc>
+    <lastmod>2020-09-10T07:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/</loc>
     <lastmod>2020-09-10T06:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -187,6 +199,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606</loc>
+    <lastmod>2020-09-09T07:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/</loc>
     <lastmod>2020-09-09T07:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -279,6 +297,12 @@
   <url>
     <loc>https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/</loc>
     <lastmod>2020-09-08T21:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/</loc>
+    <lastmod>2020-09-08T14:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -631,7 +655,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/au/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming</loc>
+    <loc>https://www.techradar.com/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming</loc>
     <lastmod>2020-09-04T11:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -703,12 +727,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html</loc>
-    <lastmod>2020-09-04T02:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/video-analytics-market-size-share-2020-global-industry-analysis-size-share-growth-trends-and-forecasts-2025-says-market-reports-world-2020-09-04</loc>
     <lastmod>2020-09-04T02:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -735,6 +753,12 @@
   <url>
     <loc>https://www.bloomberg.com/professional/blog/covid-fallout-accelerating-financial-sector-tech-race/</loc>
     <lastmod>2020-09-04T01:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247</loc>
+    <lastmod>2020-09-03T22:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1159,12 +1183,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/ae/news-releases/iridium-unveils-the-worlds-first-machine-learning-algorithms-that-decode-the-value-of-investor-relations-301122842.html</loc>
-    <lastmod>2020-09-02T08:17:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/johndunn/2020/09/02/researchers-show-how-ai-could-stop-cyberattacks-messing-with-hospital-ct-scanners/</loc>
     <lastmod>2020-09-02T08:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1227,6 +1245,12 @@
   <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/</loc>
     <lastmod>2020-09-02T04:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/iridium-unveils-the-world-s-first-machine-learning-algorithms-that-decode-the-value-of-investor-relations-1029555399</loc>
+    <lastmod>2020-09-02T03:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1453,6 +1477,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.reseller.co.nz/article/682585/max-kelsen-serves-automated-rostering-domino-pizza/</loc>
+    <lastmod>2020-09-01T07:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.atlasai.co/about-atlasai.html</loc>
     <lastmod>2020-09-01T07:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1569,12 +1599,6 @@
   <url>
     <loc>https://www.neowin.net/news/mediatek-helio-g95-chip-announced-for-gaming-smartphones</loc>
     <lastmod>2020-08-31T22:22:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.arnnet.com.au/article/682585/max-kelsen-serves-automated-rostering-domino-pizza/</loc>
-    <lastmod>2020-08-31T21:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1801,7 +1825,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/au/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

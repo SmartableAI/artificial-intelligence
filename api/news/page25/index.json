@@ -2,6 +2,197 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-08-20-ai-health-startup-captures-up-to-15-vital-signs-via-your-phone-camera.md",
+      "title": "AI Health Startup Captures Up To 15 Vital Signs Via Your Phone Camera",
+      "excerpt": "A health woman.. Look into your camera for thirty seconds. You’ve just given your phone enough information to check your heart rate, oxygen satu",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3ca44b72dedd269d7b253d%2F0x0.jpg",
+          "width": 1000,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/amp/",
+      "publishedDateTime": "2020-08-20T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-cara-unik-aws-pacu-kesetaraaan-dalam-teknologi.md",
+      "title": "Cara Unik AWS Pacu Kesetaraaan dalam Teknologi",
+      "excerpt": "AWS DeepRacer Women’s League merupakan bagian dari hacktaton AWS yang bertajuk Build On, ASEAN 2020. Melalui AWS Build On, ASEAN 2020, AWS memberikan tantangan kepada mahasiswa politeknik, universitas, dan sekolah vokasional untuk menyelesaikan beragam ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jawapos.com/oto-dan-tekno/teknologi/20/08/2020/cara-unik-aws-pacu-kesetaraaan-dalam-teknologi/2/",
+      "originalUrl": "https://www.jawapos.com/oto-dan-tekno/teknologi/20/08/2020/cara-unik-aws-pacu-kesetaraaan-dalam-teknologi/2/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-asset.jawapos.com/wp-content/uploads/2020/08/vincent-race-640x379.jpg",
+          "width": 640,
+          "height": 379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-20T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "JawaPos",
+        "domain": "jawapos.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars.md",
+      "title": "AI As Being Truthful Or A Liar, Including While At The Wheel Of Self-Driving Cars",
+      "excerpt": "AI as teller of truth or potential untruths. getty. Will AI lie to you? Sure, why not. Most people assume that AI is dispassionate, unbiased, objective rather than subjective, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3c3ffe7e15267c1d38cc1a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D455%26cropY2%3D3267",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/20/ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars/amp/",
+      "publishedDateTime": "2020-08-20T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-of-interpreting-machine-learning-models.md",
+      "title": "Explainable AI: From the peak of inflated expectations to the pitfalls of interpreting machine learning models",
+      "excerpt": "We have reached peak hype for explainable AI. But what does this actually mean, and what will it take to get there?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2017/03/29/0c4abc45-b355-444e-845a-a2d15fae3123/group-of-people-on-peak-mountain.jpg",
+          "width": 770,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/explainable-ai-from-the-peak-of-inflated-expectations-to-the-pitfalls-to-avoid-when-interpreting-machine-learning-models/",
+      "publishedDateTime": "2020-08-20T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-ceos-of-servicenow-weyland-tech-cloudmd-and-jumia-discuss-innovation-in-cloud-telemedicine-ai-ecomm-fintech.md",
       "title": "CEOs of ServiceNow, Weyland Tech, CloudMD, and Jumia Discuss Innovation in Cloud, Telemedicine, AI, Ecomm & Fintech:",
       "excerpt": "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights from leaders at ServiceNow, Inc. (NYSE:NOW), Weyland Tech (OTC: WEYL), CloudMD (OTC: DOCRF) and Jumia Technologies (NYSE: JMIA).",
@@ -989,199 +1180,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-aws-reveals-first-quantum-computing-partners.md",
-      "title": "AWS reveals first quantum computing partners",
-      "excerpt": "Amazon Web Services (AWS) has announced that it will allow all existing customers to access quantum computers through its cloud service. The quantum computers are early-stage models provided by three technology companies—D-Wave Systems Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners",
-      "originalUrl": "https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/gKk5CXdZ86gaRYtnGWCw2j-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-reveals-first-quantum-computing-partners",
-      "publishedDateTime": "2020-08-20T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-deepracer-womens-league-to-help-women-develop-machine-learning-skills.md",
-      "title": "DeepRacer Women’s League to help women develop machine learning skills",
-      "excerpt": "The Amazon Web Services DeepRacer Women’s League in Southeast Asia aims to give more women the opportunity to develop or fine-tune their machine learning skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "originalUrl": "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jakpost.net/c/profile/picture/235/235.png",
-          "width": 475,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "publishedDateTime": "2020-08-20T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jakarta Post",
-        "domain": "thejakartapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-3-ways-fintech-can-help-you-automate-your-finances-during-covid-19.md",
-      "title": "3 Ways Fintech Can Help You Automate Your Finances During COVID-19",
-      "excerpt": "Even before the bulk of bank branches temporarily closed their brick-and-mortar doors because of the COVID-19 pandemic, a great deal of personal banking was done via click, tap or swipe. Today, demand for digital financial services is going through the roof.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/personal-finance/ways-fintech-can-help-you-automate-your-finances/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbes.com/advisor/wp-content/uploads/2020/07/getty_automate_fintech_081720pm_jpg_wYwcTH6B.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/advisor/personal-finance/ways-fintech-can-help-you-automate-your-finances/?amp",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/personal-finance/ways-fintech-can-help-you-automate-your-finances/?amp",
-      "publishedDateTime": "2020-08-19T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-chatbots-are-machine-learning-their-way-to-human-language.md",
-      "title": "Chatbots Are Machine Learning Their Way To Human Language",
-      "excerpt": "Computers are good at long division, but really bad at knowing whether humans are referring to football divisions, parliamentary division lobbies or long division for mathematics. This is because mathematics is formulaic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/",
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3b8a4e25cb6511b0099a7f%2F0x0.jpg",
-          "width": 1200,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/amp/",
-      "publishedDateTime": "2020-08-19T22:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

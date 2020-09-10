@@ -47,20 +47,17 @@ related:
         width: 1200
         height: 563
         isCached: true
-  - title: "Daimler Tests Self-Driving Trucks in Southwest"
-    excerpt: "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes."
-    publishedDateTime: 2020-09-05T21:38:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21174127/daimler-trucks-tests-selfdriving-vehicles-in-us-southwest"
+  - title: "Lockdown couldn’t keep Waymo from testing self-driving cars … in a fake city"
+    excerpt: "Waymo uses a 113-acre closed-course testing facility to develop its self-driving cars. Called Castle, the facility became even more valuable during lockdown."
+    publishedDateTime: 2020-09-10T14:37:00Z
+    webUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/?amp"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/09/16x9/AP2060477072155543.5f5245e61426c.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 66
 
 secured: "MU6n1jBvsLMBCKQofmUZ77d3ofPvwIE5BFEzqJ1eDG8jrOHHSeX8PLLfNviy3SZ8/Es+h8XTXtKET2ZaF3O9VY12ivmmQgjGLBjB1mYyOEv86czIO04jEMCGSdiRqrtb3cKhnEuJBmPjS53GyP1p7sJb5idS3yRKVTEcuXXUsl+W53G9w8jFIHbK4oQsNQFvyVNucTTzEOQui0KJytZFlpfysAQ+fBJkSrDuUNQTYSoHSemLT7GCAWBTsZODpnFPzy5Q81qbh+JB/hLbQdbWwkcnBzljfZhF9WOCSGJw7JAM3Jf2w1qUeQsfGtHO01/7oZm32d0FsVtQI/st0Fv8Ix9UPKgj34mjbkBo52GiAf3zRv+RHGqOei5KdoRSJaN7TkmS111IJBdeKEUwxEW2szwHzx9Is2rMp1gmwVuXQeuTLx4YwzlHIxPsdqYbgwEVXX9jVtp0oAZfTtKZV8sXoSrsloADdCvIhKx+8kMwy098mqSk2j6rVJBkwqkTx1e+f6d3aCTzsnp7mp89XZ2ehsw5JlcNy9iCw66AzBZ/MtQ=;yBTErFjD1x2a+55WuKXa7A=="
 ---

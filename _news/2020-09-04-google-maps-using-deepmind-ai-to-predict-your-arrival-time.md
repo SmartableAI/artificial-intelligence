@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Google Maps using DeepMind AI to predict your arrival time"
-excerpt: "Google has partnered with DeepMind, an Alphabet AI research lab, to improve the accuracy of its traffic prediction capabilities. \"Our ETA predictions already have a very high accuracy bar – in ..."
-publishedDateTime: 2020-09-04T09:58:00Z
-originalUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-webUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-ampWebUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
+publishedDateTime: 2020-09-04T05:21:00Z
+originalUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+webUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+ampWebUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
 type: article
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - Google AI
   - AI
 
-secured: "/38QHZDQbaZzDL79RvtRWwXZ1+btodWACbULZYXWeCFKEPmRgp0JwfpjZk9DmMC5Gpz8mypNpmAa/hxplL42m8kGFCEVofVtNB83ELncvmE/p9UgsyvaLC6hj0nHt6Mlp44d4rxw+/Kzd6v8k4pHT7Xxr1vFjpzMcQWTnSPI++62GJ3EU73AlYLusycRwY7K6ILuBpt0RA9lOqKciWYkz1bLnDtS7FV3jHsWURsCsq6WjXKjTooZXg2oT2mg64i+BVEwIKfgpEGunH28UyYqcp+Fc46+0EHRx33l6EYFaxbYarqqNBRY6m0aW2DcEDKkUv4iOakmUUaciYCwn0KBKaa9rCVrBDQMlEhgwgII8Sw=;3AYodM3jNr7Tf2dusMn1Yw=="
+images:
+  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/9/2020_9$largeimg_1012661407.jpg"
+    width: 900
+    height: 600
+    isCached: true
+
+secured: "QOkdI4PJJg3zwcJcYQznsqSrhtLV6lbJ09mkxLIbsiSF1MSVG7ozK1g4vnDe3QzmcrkepGKMpEy5olf6HNuZAM8e+VTP0dded+ZVc0DZYx05XFdzg1B5pgxqACP4n1iZaqHbgb/29wzn43MDuXs6oZZs9tLYhnNjgwlKo88Rf4JDDtgR4uiBH7ihUSAJ5RQ4OzCJayovN2YtKLnJp2ceqCEcqxCqxnkVdKnIuDiLsrtpND6ZVUWmElyDnYY0ZW1QLgYNaqtvs9pPbkmH+COfreojJu0I+W8X35V6lQjBSzvSLYivhZ8oc20jqw6DzFa9tw+97IGbaMLyKEuS59Z+Fag/34enQtuDdJvvq+bWVzk=;CAixjH5F1WtaQDVJyCyx9Q=="
 ---
 

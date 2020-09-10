@@ -2,6 +2,180 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-07-20-its-time-for-a-hard-reset-of-our-financial-services-sector.md",
+      "title": "It’s time for a hard reset of our financial services sector",
+      "excerpt": "As the government announces its review of the UK’s finance sector today, it should put fintech advances such as machine learning and AI at the heart of its thinking",
+      "sourceUrl": null,
+      "webUrl": "https://www.fnlondon.com/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://si.wsj.net/public/resources/images/FN-AK791_fn_vie_P_20200717060410.jpg",
+          "width": 749,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fnlondon.com/amp/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720",
+      "cdnAmpWebUrl": "https://www-fnlondon-com.cdn.ampproject.org/c/s/www.fnlondon.com/amp/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720",
+      "publishedDateTime": "2020-07-20T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial News",
+        "domain": "fnlondon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-2084-what-happens-when-artificial-intelligence-meets-big-brother.md",
+      "title": "2084: What happens when artificial intelligence meets Big Brother",
+      "excerpt": "A professor of mathematics at the University of Oxford, doubling as a philosopher of science and religion, John Lennox has some pretty unique insights to put forward when it comes to the future of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/2084-what-happens-when-artificial-intelligence-meets-big-brother/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/10/621dc6a7-f340-450b-8d06-b36fb968a62d/thumbnail/1200x675/514c5532a548be1da7ad4d60559ea82d/nhs-app.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2084-what-happens-when-artificial-intelligence-meets-big-brother/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2084-what-happens-when-artificial-intelligence-meets-big-brother/",
+      "publishedDateTime": "2020-07-20T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.md",
+      "title": "Japanese robot to clock in at a convenience store in test of retail automation",
+      "excerpt": "By Tim Kelly In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation.",
+      "sourceUrl": null,
+      "webUrl": "https://cyprus-mail.com/2020/07/20/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cyprus-mail.com/wp-content/uploads/2020/07/japan-robot-1024x720.jpg",
+          "width": 1024,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cyprus-mail.com/2020/07/20/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/",
+      "cdnAmpWebUrl": "https://cyprus--mail-com.cdn.ampproject.org/c/s/cyprus-mail.com/2020/07/20/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/",
+      "publishedDateTime": "2020-07-20T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cyprus Mail",
+        "domain": "cyprus-mail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-unesco-invites-public-comments-on-ethics-of-ai.md",
+      "title": "Unesco invites public comments on ethics of AI",
+      "excerpt": "Specialised agency UNESCO has rolled out a global online public consultation process on the ethics of artificial intelligence (AI). This move, according to UNESCO, is to give everyone around the world the opportunity to participate in the work of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/LPwQ57l6xJGqNgkj",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/07/AI-laptop-2020.jpg",
+          "width": 2849,
+          "height": 1472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.itweb.co.za/content/LPwQ57l6xJGqNgkj",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPwQ57l6xJGqNgkj",
+      "publishedDateTime": "2020-07-20T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-corporate-execs-are-starting-to-get-skittish-about-ai.md",
       "title": "Corporate execs are starting to get skittish about AI",
       "excerpt": "Corporate boards have begun to worry about the ethical ramifications of turning so much power over to the machines.",
@@ -957,204 +1131,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-how-4-companies-are-using-ai-to-solve-waste-issues-on-earth-in-space.md",
-      "title": "How 4 Companies Are Using AI To Solve Waste Issues On Earth & In Space",
-      "excerpt": "Waste recognition, space junk, and food waste are a few of the challenges that artificial intelligence is helping humanity tackle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/07/18/how-4-companies-are-using-ai-to-solve-waste-issues-on-earth--in-space/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1387b66398dc0006c88875%2F0x0.jpg%3FcropX1%3D17%26cropX2%3D4000%26cropY1%3D530%26cropY2%3D2770",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/07/18/how-4-companies-are-using-ai-to-solve-waste-issues-on-earth--in-space/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/07/18/how-4-companies-are-using-ai-to-solve-waste-issues-on-earth--in-space/amp/",
-      "publishedDateTime": "2020-07-18T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers.md",
-      "title": "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers",
-      "excerpt": "Before it's here, it's on the Bloomberg Terminal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/press-releases/2020-06-02/tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-18T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-clearview-ai-the-facial-recognition-company-that-scraped-billions-of-faces-off-the-internet-was-just-hit-with-a-data-privacy-complaint-in-europe.md",
-      "title": "Clearview AI, the facial recognition company that scraped billions of faces off the internet, was just hit with a data privacy complaint in Europe",
-      "excerpt": "Controversial facial recognition firm Clearview AI was hit with a data privacy complained filed to France's privacy regulator on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.markets.businessinsider.com/image/5e8dc3f5d5873a252d6b2153",
-          "width": 1747,
-          "height": 1311,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493",
-      "publishedDateTime": "2020-07-18T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-50-of-food-grown-globally-is-wasted-can-ai-fix-it.md",
-      "title": "50% Of Food Grown Globally Is Wasted. Can AI Fix It?",
-      "excerpt": "We waste 1.6 billion tons of food every year while 25 million starve and another billion are malnourished. Can AI fix it? If one startup in Berlin is successful, just maybe. The global food supply chain is mind-bogglingly complex.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/07/18/50-of-food-grown-globally-is-wasted-can-ai-fix-it/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f136ec41e6baf0007127258%2F0x0.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/07/18/50-of-food-grown-globally-is-wasted-can-ai-fix-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/07/18/50-of-food-grown-globally-is-wasted-can-ai-fix-it/amp/",
-      "publishedDateTime": "2020-07-18T15:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -59,6 +59,31 @@ related:
         height: 600
         isCached: true
   - title: "Artificial intelligence aids gene activation discovery"
+    excerpt: "Scientists have long known that human genes are activated through instructions delivered by the precise order of our DNA. With the aid of artificial intelligence, researchers have solved a long-standing DNA activation code mystery."
+    publishedDateTime: 2020-09-09T18:31:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/09/200909114854.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 62
+  - title: "UCSD Scientists Use Machine Learning to Discover Gene Activation Sequences"
+    excerpt: "UC San Diego researchers have identified a frequently used DNA activation code that could eventually be used to control gene activation in biotechnology and biomedical applications."
+    publishedDateTime: 2020-09-09T18:24:00Z
+    webUrl: "https://timesofsandiego.com/tech/2020/09/09/ucsd-scientists-use-machine-learning-to-discover-gene-activation-sequences/"
+    ampWebUrl: "https://timesofsandiego.com/tech/2020/09/09/ucsd-scientists-use-machine-learning-to-discover-gene-activation-sequences/amp/"
+    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/tech/2020/09/09/ucsd-scientists-use-machine-learning-to-discover-gene-activation-sequences/amp/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 57
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2016/08/microscope-275984_640.jpg"
+        width: 640
+        height: 423
+        isCached: true
+  - title: "Artificial intelligence aids gene activation discovery"
     excerpt: "Scientists have long known that human genes are activated through instructions delivered by the precise order of our DNA. With the aid of artificial intelligence, researchers at UC San Diego have solved a long-standing DNA activation code mystery."
     publishedDateTime: 2020-09-09T15:11:00Z
     webUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoc--aia090420.php"

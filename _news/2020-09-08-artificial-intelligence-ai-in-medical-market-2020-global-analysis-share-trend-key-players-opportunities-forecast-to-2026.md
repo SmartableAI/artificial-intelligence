@@ -45,7 +45,7 @@ related:
   - title: "Artificial Intelligence in Healthcare Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
     excerpt: "The Artificial Intelligence in Healthcare market report provides analysis for the period 2018-2030, where in the"
     publishedDateTime: 2020-09-09T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09?tesla=y"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09"
     type: article
     provider:
       name: MarketWatch
