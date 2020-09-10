@@ -5,7 +5,7 @@ otherNames:
   - "Google self-driving car project"
 overview: "Waymo stands for a new way forward in mobility. We started as the Google self-driving car project in 2009, and became an independent self-driving technology company under Alphabet in 2016. Our mission is to make it safer and easier for people and things to move around."
 type: "profile"
-heat: 156
+heat: 172
 
 website: https://www.waymo.com/
 
@@ -19,7 +19,7 @@ crunchbase:
 twitter:
   username: "Waymo"
   url: "https://twitter.com/Waymo"
-  followers: 57100
+  followers: 57103
 
 size: 1,001-5,000 employees
 yearFounded: 2009
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "T1JFh7ZMLKyy8L7rs0NaaDuMzmBtZvQLCpLC80hOjvouOYq/0Cm8xsMys9RLqM9o05r/YixJBLPl5j7QMBBSVHUv8KjPTNpkua9sC9wWA4i9hmDg+KFUgxv8T0qOasjMThHsldZeyuKLShdvYiRPF3JaSHB5HdNp+xNZyPu7hojpK2SjbXMxPGtp0oE6+g/8Gcofqd770XIdwBWUU2CmJyjWyA/RNJIwEUyHLEuVrsII0JIk0BmE8z1DQ/GWtrwfS8RM/+Nbwo56lWkNFNQL0MsoHlVMM+t7PYrOlpV4mYO6uHVAwn1yKGv4SUer4GWWfqGxM4x8y8LIZRJNRNZwX02SIDAWUYsj1rX1XoJiyNsCXQJFENU1+oXjiaX4EbzYtcm3+TzSdWwF8L1D844sVS+aScFVpTfswjXJb1HuzVw=;+55CuFEoJwkJGBRSn2GTdw=="
+secured: "qmuXbbUeK814GgNrcfc3eGTMxuJsG+/ZCWrWNRH2mQYxZznTMngWdlKpuDEE9dJfVWSuHZ1/llKZ90VQl/et1rf/h2yL0I4IsXlhPlCaNIzkUHoABIc209GFFgiKC5RVmpUHt2kPfRg8cGS4x+k7VA7k7OU6LyHQiPsqICc03G9TI5Kqe4fzgjlg6XQcB1KXp4XhMjKrf15iHo2LnJv7YJ3Vl/BI1QYvXrKae+AYfI3VaeSla1FMpxkAaxzvjFluMFeTtJTxKwAwpn85LnFzRwnkbQUBoR8hXusxmCm4fQCO7cZ8Ui/UXr+11w3HW+7g92DxnEJol38hN7I7OTqavd+hvs+oLzKcRGGfes3MwVU+ZloDoy3bgpjvHo6LlcsnboFaYia248k6PNvIfXXTHa/NN6XCVTCT3CFwo8+6RLQ=;ODZM+nQncUv7AhmtuNPW8w=="
 ---
 

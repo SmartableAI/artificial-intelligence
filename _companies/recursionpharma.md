@@ -2,7 +2,7 @@
 name: "Recursion Pharmaceuticals"
 overview: "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City."
 type: "profile"
-heat: 58
+heat: 193
 
 website: https://www.recursionpharma.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "RecursionPharma"
   url: "https://twitter.com/RecursionPharma"
-  followers: 3362
+  followers: 3363
 
 size: 51-200 employees
 yearFounded: 2013
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"
 
-secured: "W5kML72TeHrvk36dpJ57lWSV/aKx1tfL8pSMNTv9VyimP/LNIhsTMOVtSxUqiuf2hOTXXp+OKXSNsK5PWrUjyPXrJ/ozRiIXG5SfUw+YEj/pNAhzMDdCDBg5kamNu8K/VwThws3a7uV7+oPc9JNX5/34ZuDKRDLMvGBOmX0LeRm95+j5Q5dZ6iMQwXXUOw8bTpN4wo7jI4l9wWCZDkQNTrMdiSwgXgbrhp7wc0SJd8J4MIQMV/vkt3FI4A5ORBtM1ZA9kqGfgMoGZN1sQV/RZa8yTp6qCj+x2j+KQ5QV1IwVdigzkBr9HUM8KEUbbL/kFXBTOdNrK7ILmKrvzbBcZO08RRvfGWyY+OcZnsaDclfT4/nrQt0hs83Joi5+i0EVTuB5oNsvThspouvCQ/jbiWw22gjPDK0Fv2N3ZBNXBac=;UinqJ8UvNnpBuLFLcbTx6w=="
+secured: "vMRWJgr+c/XFrcJJ9/ewLXuwh0laIc/aEoVbi79A+tl7QbLV9TNtExKpv3OQ/useHyq5151/lkfNsDzWLXRaRFxKbztG/jne2hJyjuQ5BwEFaEPMZlp0MScY9ad6PE9m29JhT6smlybsD+T4syCCRT/fd51KLaCHNQGfrZIuZFBMR3vZUNYR2mF8LPx8ziSdrvVZS8mnwm90f9YIznTjKGGARMIuY2DYmtkKXfOyp9MXstfXD0wXOeowP5B5MP53RDYg49nZ7gC3MoSFSaWcaaOi+8/EyEZBmJfn1OOnBJCupX1/R3sdohisO0LjA5/X9HTOpXkw0JzNE1TeS29jQQToHL5D8OEmb4tRF2OPhCb0xGMUh7ODf/gQM5Zf6Pwlj29eYB33uXCpPSJO+HHR5ycYT4oCON5RngV9glkcA1U=;IRpbX4xWGABqNIGdOjSJew=="
 ---
 

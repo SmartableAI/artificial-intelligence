@@ -2,7 +2,7 @@
 name: "Graphcore"
 overview: "Graphcore has created a new processor, the Intelligence Processing Unit (IPU), specifically designed for artificial intelligence. The IPU’s unique architecture means developers can run current machine learning models orders of magnitude faster. More importantly, it lets AI researchers undertake entirely new types of work, not possible using current technologies, to drive the next great breakthroughs in general machine intelligence."
 type: "profile"
-heat: 31
+heat: 41
 
 website: https://www.graphcore.ai/
 
@@ -48,6 +48,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Gh-Tff7DdzU"
 
-secured: "kcG5+zJvc6VFkXXQCZ0X9ga2kb2G1WHRSDwF/2jjn+4xTFLdFNjy1WKSfxV0tgVUsSoQfAKJnGQ5Xg9KkOSPDo7+EtqHNgRXvkoH35oBWdi8ud++CTgcIpqYNYdcJh+IE7qFNPj1bR/OAaEAXp7CaZp1ldNT/hIC59NUW9AkOV7KkNZqYRQ6mWCRTm7SbNbm5yL8JNLqz5TJ1893dQg/7uWma8D2PWLjt7UFh5aS2AfhTV2ZS0zqpPp5CeKn/eqZE+yhNgqxNIepyi3UOVxHplpyhevRL/NTL9DiA5jN3JmWz4WXmmmCDLFbK1Y/Z7J+mI41rQTmsZaphXuAbOVX+bPeKYxUfh6cQHZVt4H7eIcxlP+MnG0KvV07CxJCm2diutM+yc0Jx8Erv6eQDGZuxLVZ0bBq7V1gH1Lp/NbMxck=;p2Bqgpumkpy1Tm/Yif3zmw=="
+secured: "pkGTnpjGWCnqhXOSTfgwE1FL6lUgcWZ0kQNGnYx2ySafC+kVKShp148rko+4KORVSVMRcy/7XT69LumvAyfGVcxFiL97bYbCO44mh4dwzCKTPzGRbninTLToTLnpdv41EUwR2T+IT1cbOZEOlP1+MRD0jC6lkEofZMAuaiDJz7JwDkQvYq4GTAkJxW1Erl/3ZihY2pSurPA/uSescOcmMVJkMQlb5yBR01fWdmPJFDOG9L5GnhhvCc0DDCg0v3EO8EADuZvFv8pxq1s/yh5D/Gs0UVzrW6eZew0Q1sTXvnPw7vAPbkO5NCg8F4Xu7RAv/aZ46u9tOTF9SwCq5guNMgAUX5+nui0IApiHY/qNoVWBRLFJa+JtBFLG6yqJF73EAlWTi0wCBmfky+8oi8RfS5YH+8n20vSLhuF+ztgNrUc=;dEAzThxdGDHA+/4CGq/uyQ=="
 ---
 

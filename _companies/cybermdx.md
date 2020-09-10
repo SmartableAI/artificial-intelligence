@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "CyberMDX"
   url: "https://twitter.com/CyberMDX"
-  followers: 1163
+  followers: 1164
 
 size: 51-200 employees
 yearFounded: 2016
@@ -39,6 +39,6 @@ images:
     isCached: true
     title: "CyberMDX"
 
-secured: "eGiHHJxOIxI793M3H1zYe5w1xYJxwSIAiR/ApGeO7Z6QktGSh6KbKKvVACdonucprEauVZHDxKISzgSvNZKacbOmPkdw2yBwK2xV/1QX+VVSjyxO0t/sfmIYyQpKRkd8OdW1f4pAhvmpeR3Qsq+J0FBwEogh9HA4o+i33uAv/UBXnCbbeZhdbt3BzU8H88hhuV+32ajNebFdLia8EkpTOQapzw3FsYTZ/DpcfjSaNNgHmISR/Z//E4tlysSrru+GewbKqtEDgZlxipifhgJ8IR9fLKV13aPsbDxSbqIN8rl5jLZvLS5WpEVpGUlpjGSoIOrIeqxLE8WJwLuOhBGBRdI0dsCt40WUuY0FW9qF3vVQJaMeGggwwPN/SwCoVuglLs55TQgnXZ7wx/ThUJgT9DdvanyXTVA86TWswmzKzZk=;I1ep7PB05UhRaNucWPhDGQ=="
+secured: "ObaQZZhQwHsKH2bh3pd3kQrbQmBVNc6Krq5O9wzohFSBqLJ5vQWqnxxwCaW0tzekupHHYkb+XxfijnDzkibgpkaEYwkO5PJtdSWBzAmJW08NxACnx5eawGSV8FyXphwK8B4hvEa0cFOegNQ8ZgUREz55o67V1HeS1HqGSM7d2WWsxj73wLse5zCjTCGG41u9sQKAiRl1krMsyyRJ8wgHMoX61XkyWXe33P/Ukzvyh1+bdCxuqPylegB+1IEhKwgTxrp3URKrDb/ZvUh3baXtcgscYOU8tK6wMAuHMBjj1eYqUed1rLIi2zO17qjqnBvMC3XlxnoW+ZHVYp7icGVlnnlEqZ/5YWixYBgUNXLpix13ujDh+u0bu4g/fDloL8igh+dhBMQEw+ukqCdXBJynh4oT18eL7R/s0Ka9Ul6K6h8=;xt4gACgsVrrQy4SHOXeqSg=="
 ---
 
