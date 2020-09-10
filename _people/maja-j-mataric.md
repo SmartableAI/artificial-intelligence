@@ -15,7 +15,7 @@ linkedin:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=o5YQMkMAAAAJ
-  citations: 38516
+  citations: 38526
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Maja_Matari%C4%87
