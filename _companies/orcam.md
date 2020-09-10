@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "OrCam"
   url: "https://twitter.com/OrCam"
-  followers: 10225
+  followers: 10254
 
 size: 51-200 employees
 yearFounded: 2010
