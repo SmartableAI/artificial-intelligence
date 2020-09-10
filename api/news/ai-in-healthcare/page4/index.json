@@ -2,6 +2,38 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-16-igrad-partners-with-florida-international-university-to-provide-ai-powered-student-financial-wellness-platform.md",
+      "title": "iGrad Partners with Florida International University to Provide AI-Powered Student Financial Wellness Platform",
+      "excerpt": "Florida International University (FIU) partners with iGrad to offer interactive financial literacy education to its 58,000 college students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pr.com/press-release/817036",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-16T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR",
+        "domain": "pr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-is-turning-to-ai-in-the-midst-of-a-healthcare-crisis-a-good-idea.md",
       "title": "Is Turning To AI In The Midst Of A Healthcare Crisis A Good Idea?",
       "excerpt": "Well, with artificial intelligence (AI), we don't have to ... Especially at the time when our healthcare system is under intense stress. However, my experience in AI security tells me that the implementation of AI into medicine should not be rushed.",

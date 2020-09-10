@@ -2,6 +2,146 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-09-02-the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions.md",
+      "title": "The next generation of NLP: how new capabilities empower businesses to make data-informed decisions",
+      "excerpt": "Language is constantly evolving &#8211; it shifts to meet the changing dynamics of our society. The business world is no different &#8211; it has its own vernacular that evolves in response to new innovations, changing consumer expectations and world events. The language of business is documented in",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/09/the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions/",
+      "featuredContent": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/social-tile-2.png",
+          "width": 990,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T01:00:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-the-best-facial-recognition-security-cameras-of-2020.md",
+      "title": "The best facial recognition security cameras of 2020",
+      "excerpt": "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your profile of known faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
+      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
+      "featuredContent": null,
+      "heat": 299,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/O4onAnkKGXEMUhxqCMsiV1okXi4=/756x567/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
+      "publishedDateTime": "2020-09-02T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-call-journey-now-available-in-microsoft-azure-marketplace-and-app-source.md",
+      "title": "Call Journey Now Available in Microsoft Azure Marketplace and App Source",
+      "excerpt": "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource o",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/",
+      "originalUrl": "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/",
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo_2.jpg",
+          "width": 620,
+          "height": 254,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-beyond-the-court-how-ibm-is-powering-first-ever-spectator-less-us-open.md",
       "title": "Beyond the court: How IBM is powering first-ever spectator-less US Open",
       "excerpt": "AI Sounds: IBM leveraged its AI Highlights technology ... In past years, AI Highlights used Watson to digest video footage and rank the excitement level of each clip to compile a highlight reel ...",
@@ -988,120 +1128,6 @@
       "provider": {
         "name": "pocketnow.com",
         "domain": "pocketnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains.md",
-      "title": "AI and Machine Learning Algorithms are Increasingly being Used to Identify Fraudulent Transactions, Cybersecurity Professional Explains",
-      "excerpt": "AI and ML algorithms are increasingly being used to identify potentially fraudulent transactions, cybersecurity professional explains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2020/09/166016-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains/",
-      "originalUrl": "https://www.crowdfundinsider.com/2020/09/166016-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/50-Euros-Europe-Inspect-Review-Look-600x800.jpeg",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/09/166016-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166016-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains/amp/",
-      "publishedDateTime": "2020-09-01T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-nvidias-monster-rtx-30-series-gpus-are-listed-with-twice-the-rumoured-core-count.md",
-      "title": "Nvidia's monster RTX 30-series GPUs are listed with twice the rumoured core count",
-      "excerpt": "Hsun Huang threw down the news we’ve all been waiting for—the official specs for the new 30-series Nvidia Ampere graphics cards. Nvidia has pulled up with the next step in the RTX revolution, promising AI powered acceleration with almost twice the performance-per-Watt of the Turing predecessors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/nvidia-ampere-30-series-announcement/",
-      "originalUrl": "https://www.pcgamer.com/nvidia-ampere-30-series-announcement/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/LTiBwMDLNWHiwwViu3LuDb-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/nvidia-ampere-30-series-announcement/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidia-ampere-30-series-announcement/",
-      "publishedDateTime": "2020-09-01T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-nvidia-announces-geforce-rtx-30-series-gpu-new-tech.md",
-      "title": "NVIDIA Announces GeForce RTX 30 Series GPU, New Tech",
-      "excerpt": "NVIDIA unveiled its GeForce RTX 30 Series GPUs, powered by the NVIDIA Ampere architecture, which delivers the greatest-ever generational leap in GeForce history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.worthplaying.com/article/2020/9/1/news/121526/",
-      "originalUrl": "https://www.worthplaying.com/article/2020/9/1/news/121526/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Worth Playing",
-        "domain": "worthplaying.com",
         "images": null,
         "publishers": null,
         "authors": null

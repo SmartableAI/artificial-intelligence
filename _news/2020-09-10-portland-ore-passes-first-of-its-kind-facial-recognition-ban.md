@@ -105,6 +105,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Portland’s facial recognition ban: Why businesses — including Amazon — fought the groundbreaking law"
+    excerpt: "The Portland City Council on Wednesday unanimously passed a groundbreaking ban prohibiting use of facial recognition in privately-owned places accessible to the public such as stores, banks and"
+    publishedDateTime: 2020-09-10T16:07:00Z
+    webUrl: "https://www.geekwire.com/2020/portlands-facial-recognition-ban-businesses-including-amazon-fought-groundbreaking-law/"
+    ampWebUrl: "https://www.geekwire.com/2020/portlands-facial-recognition-ban-businesses-including-amazon-fought-groundbreaking-law/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/portlands-facial-recognition-ban-businesses-including-amazon-fought-groundbreaking-law/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 76
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/07/RN-SAFR-Register-3-630x420.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Portland Votes for First-Ever U.S. Ban on Corporate Use of Facial Recognition"
     excerpt: "Portland's city council also voted to ban local government bureaus from acquiring or using the controversial surveillance technology. Several U.S. cities, including San Francisco and Oakland, have previously banned government use of facial recognition."
     publishedDateTime: 2020-09-10T02:28:00Z

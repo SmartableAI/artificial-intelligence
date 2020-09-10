@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/10/toyota-launches-800m-fund-to-boost-mobility-and-ai-focused-companies/</loc>
+    <lastmod>2020-09-10T11:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials/</loc>
     <lastmod>2020-09-10T10:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,6 +15,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/10/cruises-ai-enables-driverless-vehicles-to-navigate-uncommon-scenarios/</loc>
     <lastmod>2020-09-10T10:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.kansas.com/news/business/article245609400.html</loc>
+    <lastmod>2020-09-10T10:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -159,12 +171,6 @@
   <url>
     <loc>https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/</loc>
     <lastmod>2020-09-09T14:21:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.techrepublic.com/article/scaling-ai-in-your-organization-should-be-deliberate-not-rushed/</loc>
-    <lastmod>2020-09-09T12:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -441,6 +447,12 @@
   <url>
     <loc>https://www.business-standard.com/content/press-releases-ani/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020-120090801411_1.html</loc>
     <lastmod>2020-09-08T05:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.computerweekly.com/news/252488719/Matt-Hancock-announces-50m-for-healthcare-AI-projects</loc>
+    <lastmod>2020-09-08T04:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -775,6 +787,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html</loc>
+    <lastmod>2020-09-04T02:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/video-analytics-market-size-share-2020-global-industry-analysis-size-share-growth-trends-and-forecasts-2025-says-market-reports-world-2020-09-04</loc>
     <lastmod>2020-09-04T02:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -793,6 +811,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.scmr.com/article/supply_chain_startup_enabling_the_self_driving_supply_chain</loc>
+    <lastmod>2020-09-04T02:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04</loc>
     <lastmod>2020-09-04T02:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -801,12 +825,6 @@
   <url>
     <loc>https://www.bloomberg.com/professional/blog/covid-fallout-accelerating-financial-sector-tech-race/</loc>
     <lastmod>2020-09-04T01:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247</loc>
-    <lastmod>2020-09-03T22:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1537,12 +1555,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reseller.co.nz/article/682585/max-kelsen-serves-automated-rostering-domino-pizza/</loc>
-    <lastmod>2020-09-01T07:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.atlasai.co/about-atlasai.html</loc>
     <lastmod>2020-09-01T07:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1663,6 +1675,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.arnnet.com.au/article/682585/max-kelsen-serves-automated-rostering-domino-pizza/</loc>
+    <lastmod>2020-08-31T21:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://seekingalpha.com/article/4371850-ibm-deep-dive-strategy-shift-driving-growth-attractive-share-price-and-dividend-yield</loc>
     <lastmod>2020-08-31T19:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1676,6 +1694,12 @@
   </url>
   <url>
     <loc>https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs</loc>
+    <lastmod>2020-08-31T17:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://inside.com/campaigns/inside-ai-2020-08-21-24176/sections/204182</loc>
     <lastmod>2020-08-31T17:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1885,7 +1909,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/uk/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2427,6 +2451,12 @@
   <url>
     <loc>https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/</loc>
     <lastmod>2020-08-26T19:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.asiaone.com/digital/baidu-creates-worlds-largest-chinese-natural-language-processing-database</loc>
+    <lastmod>2020-08-26T18:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

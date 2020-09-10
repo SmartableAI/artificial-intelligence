@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerweekly.com/news/252488719/Matt-Hancock-announces
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252488719/Matt-Hancock-announces-50m-for-healthcare-AI-projects?amp=1"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Computer Weekly
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Perspecta Announces Availability of Healthcare ChatBot 2.0"
+    excerpt: "Perspecta, formerly known as VIIAD Systems, a leading healthcare and workers' compensation technology solutions company, has announced"
+    publishedDateTime: 2020-09-10T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/perspecta-announces-availability-of-healthcare-chatbot-2-0--301127008.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1251577/Perspecta.jpg?p=facebook"
+        width: 1208
+        height: 632
+        isCached: true
   - title: "Scottish universities receive funding for ground-breaking healthcare projects"
     excerpt: "The money will be used to help identify and treat diseases like cancer and osteoarthritis faster and more effectively"
     publishedDateTime: 2020-09-07T15:09:00Z

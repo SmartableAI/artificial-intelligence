@@ -36,6 +36,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 54
+  - title: "Perspecta Announces Availability of Healthcare ChatBot 2.0"
+    excerpt: "Perspecta, formerly known as VIIAD Systems, a leading healthcare and workers' compensation technology solutions company, has announced"
+    publishedDateTime: 2020-09-10T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/perspecta-announces-availability-of-healthcare-chatbot-2-0--301127008.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1251577/Perspecta.jpg?p=facebook"
+        width: 1208
+        height: 632
+        isCached: true
 
 secured: "SpiJgZjx3NVlUcxB6pbYRDAwt+8vNY+zxP+KFFEVPDs/VtwE5H/HuRaRmgun8uWX80To3xqs6F74A1iigN4dTRt5F3UZUK1DaDUheJoPCLEb2g/81Xc0NmTz8NUfQo2wDb43ZkvKfx9vAVGxfb0cVfvmfgPjTowWtUVZ3rPtvBqzXX55ulY4shq4gjfLmsoWFx+J/Dkb4Y+1QgA6hhbkhfKkkjyKoScpARqNulm/1Q4LKdL4acbvl6UkD6c/4iFvB+aQrTEqExCrejw8wjix4h4/FhFdE0gVBg7uxWFEylgZClg5eR6bb4XeY03l1jC+aPGEovhv49Ca0O/v9XnDjgsW3w2wmgWnHXfrCZooxSn7lZE/widVFPgZF/b/HN2/XQG6f8TmMdEMdIS5hSlydhHX7AhfOw9KhLOiMRqLbqxUeC3FpCiES8c7rKdAirpE75yocGzHb2Bx3nnHCgZrJ22nRVTWPBQvOnYbhjgJMQIch02a6Nqp5bdhrgarW5EbSJdxBsh+sjtjbmEwE7Am6A==;pk5SOrxXoqj+Py4H9UPbTA=="
 ---

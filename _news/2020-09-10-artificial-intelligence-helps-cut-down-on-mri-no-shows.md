@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Artificial intelligence helps cut down on MRI no-shows"
-excerpt: "According to ARRS' American Journal of Roentgenology, artificial intelligence predictive analytics performed moderately well in solving complex multifactorial operational problems--outpatient MRI appointment no-shows,"
-publishedDateTime: 2020-09-10T15:55:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/arrs-aih091020.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-09/arrs-aih091020.php"
+excerpt: "According to ARRS' American Journal of Roentgenology (AJR), artificial intelligence (AI) predictive analytics performed moderately well in solving complex multifactorial operational problems—outpatient MRI appointment no-shows,"
+publishedDateTime: 2020-09-10T16:29:00Z
+originalUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-mri-no-shows.html"
+webUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-mri-no-shows.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-mri-no-shows.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-artificial-intelligence-mri-no-shows.amp"
 type: article
-quality: 39
-heat: 39
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://eurekalert.org/multimedia/pub/web/242650_web.jpg"
-    width: 720
-    height: 1740
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/2-mri.jpg"
+    width: 1920
+    height: 1280
     isCached: true
 
-secured: "VjsH2j52CV6+5YvjX8uRN9BcB1/QKuB74sZEXAO0CBGO2Kv2zrH/yBGPzaQlz92jCjxakuX4KQyz7yiDd9I6nf2N4ZYGYz9novJtKrHBYS68x1mlLzmR9brF37UiweD5sVRjuVojO1E2hLulOPOPLIhia1f/OU0eTODUc+1fMd1CkwaJ0j8FPmkYVfmJIIoA3MHPVDP5A4cHheqGuPQMw/aH+CnPPGHPIBLhrYdJK88ekFo6s3lNyflXdyat1mokwnYM0XaIcV6pk62sqqXN6XGGiZs2l3HsNWfoNY0943mDVKk7y74Nuhgflqc7InIQbWQ115Uz+cuvOgnrjuZwOK1hUgIGo9z1Hd5xQNTGzVE=;HRkC1AKl2bMXMLH5wjAc7w=="
+secured: "CltI7Q+XYIWTGZNhVONa5oVz9tdr7oAVxerdJgNHXyj2MWPcUf2HDuRKA0qJWVP09VhEd++QTcupsp2BFIzBw0MNzaWHD84BkK0JuqQovkTPlmvUHIouIQGZrQoenr2vIZPxSyJw7d/hy1XIy/YzXYeI+jwT8j88ig9AnUnAWr2XzmAjPzX/aSxYOn+Ey40Mnv3HkfROrjCqzKDXAt60QtSZCbx5Nt+uuCWqpKMb39pFAmSu65t+coktrMumX5DioMMdrQlqVO/4uR/eQn+TX6GzMWVvf7PkXqV3LzrlEyX5miIyUiOUEANmawSRNN71KRHLUOh5CIQLx6GeRiz/lYHccxiraiW03vF1IfR17SQ=;y4yzK8GnUQkGcOU4BpiGpA=="
 ---
 

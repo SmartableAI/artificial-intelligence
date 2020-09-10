@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar240
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-10T112334.280-796x417.png"
         width: 796
         height: 417
+        isCached: true
+  - title: "Portland’s facial recognition ban: Why businesses — including Amazon — fought the groundbreaking law"
+    excerpt: "The Portland City Council on Wednesday unanimously passed a groundbreaking ban prohibiting use of facial recognition in privately-owned places accessible to the public such as stores, banks and"
+    publishedDateTime: 2020-09-10T16:07:00Z
+    webUrl: "https://www.geekwire.com/2020/portlands-facial-recognition-ban-businesses-including-amazon-fought-groundbreaking-law/"
+    ampWebUrl: "https://www.geekwire.com/2020/portlands-facial-recognition-ban-businesses-including-amazon-fought-groundbreaking-law/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/portlands-facial-recognition-ban-businesses-including-amazon-fought-groundbreaking-law/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 76
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/07/RN-SAFR-Register-3-630x420.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Portland, Ore. passes first-of-its-kind facial recognition ban"
     excerpt: "Along with banning city agencies from using facial recognition, the Portland City Council has banned private enterprises from using the technology in public spaces."

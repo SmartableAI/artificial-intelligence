@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-01-wearable-robot-company-marches-to-big-raise.md",
+      "title": "Wearable robot company marches to big raise",
+      "excerpt": "There's are two reasons I've written glowingly about a Utah-based robotics company called Sarcos, which just locked in an additional $40M in Series C funding. The first is the company's pragmatic approach to becoming a key automation supplier in the near-term.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/wearable-robot-company-marches-to-big-raise/",
+      "originalUrl": "https://www.zdnet.com/article/wearable-robot-company-marches-to-big-raise/",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/wearable-robot-company-marches-to-big-raise/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wearable-robot-company-marches-to-big-raise/",
+      "publishedDateTime": "2020-09-01T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-5-of-the-coolest-prosthetic-arm-breakthroughs.md",
       "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
       "excerpt": "Easton LaChappelle, a young engineer from Cortez, Colorado has set out to develop the world's first mind-controlled robotic limb, and aims to make it affordable as well. The device works in tandem with a headset that reads brainwaves, reading about 12 ...",
@@ -1345,56 +1386,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones.md",
-      "title": "iFarm Raises $4 million to automate urban farming with AI and drones",
-      "excerpt": "Farm has raised $4 million to expand its automated system that uses AI and drones to help farmers grow fruits and vegetables in enclosed spaces.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/iFarm_1.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones/amp/",
-      "publishedDateTime": "2020-08-20T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
