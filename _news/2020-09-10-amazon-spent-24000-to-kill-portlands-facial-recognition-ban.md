@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar240
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Portland passes nation’s strongest facial recognition ban for government and businesses"
+    excerpt: "The Portland City Council on Wednesday passed legislation that bans government and private use of facial recognition. It's the strongest ban nationally enforced by local lawmakers. The ban on"
+    publishedDateTime: 2020-09-09T23:41:00Z
+    webUrl: "https://www.geekwire.com/2020/portland-passes-nations-strongest-facial-recognition-ban-government-businesses/"
+    ampWebUrl: "https://www.geekwire.com/2020/portland-passes-nations-strongest-facial-recognition-ban-government-businesses/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/portland-passes-nations-strongest-facial-recognition-ban-government-businesses/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 81
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/06/bigstock-Portland-Oregon-USA-skyline-247939699-630x420.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "US CBP deploys facial recognition at 27 US airports as of May-2020"
     excerpt: "US Government Accountability Office reported (03-Sep-2020) as of May-2020, the US Customs and Border Protection (CBP) deployed facial recognition technology at 27 US airports. CBP"
     publishedDateTime: 2020-09-05T13:34:00Z

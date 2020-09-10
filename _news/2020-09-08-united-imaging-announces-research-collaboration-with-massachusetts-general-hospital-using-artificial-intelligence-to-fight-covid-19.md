@@ -1,29 +1,29 @@
 ---
 category: news
 title: "United Imaging Announces Research Collaboration with Massachusetts General Hospital Using Artificial Intelligence to Fight COVID-19"
-excerpt: "United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, announced today that its artificial intelligence (AI) teams in Boston and Shanghai will collaborate with Massachusetts General Hospital (MGH) to continue fighting COVID-19."
-publishedDateTime: 2020-09-08T16:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652"
-webUrl: "https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652"
+excerpt: "United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, announced today that its artificial intelligence"
+publishedDateTime: 2020-09-08T16:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html"
+webUrl: "https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html"
 type: article
-quality: 39
-heat: 39
+quality: 9
+heat: 9
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Facebook AI
   - AI
 
-secured: "IlX0PrePuUSkUCC9mKfqlsgKIzYiQ6gKg6y38yHwk81GD5H8vtlC4XgLwJ/vBQjgnmP80k8p99wAgzEeNrlzEOmAf7FfiheX+yI6MVM9FxBsNYGFEQP28Ikcy2K10qvqVXsyKIKOQXpnYo/xvoy0y9+8tDZLHqUg2ojqWik6ejkvvSnYVmnehnz5nPvnp6GEYiEjMmRivTzWRORyA1qG74B9risVKh+mOl5WcT84dbK7at7i52AaCyjgrTBgbUmU6mqUXq1A5LWy7YK/H0JpJIN/3maXZADdPPFpRVdRYLH5AYm1DXk5CVxK/GIDdzKHUkhWSbRnBRAiI2BTxKQlfX4d/pIBrNqGcKtpmu26Qm0=;puQylhCq0XHMfrAp5ZttPA=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "ID6gkqUpcx80hs4x5z0159r96kBaC6uF9xNs1FUjpyuqimBAVOkpVkWO1/VqlN/7sz1Me2M7vh2eIA3ZNHoF7NQXKu1mO39W6RSVqsKUZ7TBRt1Ub0Qsi3A7A1vnZO9JoibT+HZsNJ1LajQLrKPF/fzdH+aHEZJHe7acqvHrs5COvzFnBT9gWPKxNHWx2HEhZMFHec4mwrYi4HssyH0b0ZOBHyJWer7e+OzJeyXAOgeUeS/7vJshWievamcJhjPC0BDO0k2uf6rIDOGgkQHU12g6gybqvbd2dvCoJIGBvZGIIAApgOvK60T3rMsOq2hfw5Hcd7OvyLHGqiC4bqacEvB8hDk6M0R7VWoa0JPm2oM=;ISx24W8jFRQ4IjsvsXO5pA=="
 ---
 

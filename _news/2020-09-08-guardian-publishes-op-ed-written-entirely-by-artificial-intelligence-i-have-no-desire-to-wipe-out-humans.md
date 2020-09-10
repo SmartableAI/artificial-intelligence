@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/op-ed-written-artificial-intelligence-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/op-ed-written-artificial-intelligence-robot.amp"
 type: article
 quality: 71
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,22 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "“The Guardian” Just Published an Op-Ed Written by Artificial Intelligence"
-    excerpt: "Eradicating humanity seems like a rather useless endeavor to me.” Not a convincing argument, considering that this line and most of the rest of a recently published essay in The Guardian was, in fact,"
-    publishedDateTime: 2020-09-08T15:03:00Z
-    webUrl: "https://www.insidehook.com/daily_brief/tech/guardian-op-ed-artificial-intelligence"
-    ampWebUrl: "https://www.insidehook.com/daily_brief/tech/guardian-op-ed-artificial-intelligence/amp"
-    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/guardian-op-ed-artificial-intelligence/amp"
+  - title: "‘I have no desire to wipe out humans,’ robot writes in ominous op-ed"
+    excerpt: "OpenAI’s powerful new language generator, saying exactly what a robot intending to destroy humans might say. In an op-ed for The Guardian — yes, robots write op-eds now — GPT-3 was told to write an essay convincing readers that the machines come in peace."
+    publishedDateTime: 2020-09-09T19:22:00Z
+    webUrl: "https://www.marketwatch.com/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925?siteid=bigcharts&dist=bigcharts"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925"
     type: article
     provider:
-      name: InsideHook
-      domain: insidehook.com
-    quality: 58
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
     images:
-      - url: "https://www.insidehook.com/wp-content/uploads/2020/09/ai.jpg?fit=1200%2C800"
-        width: 1200
-        height: 800
+      - url: "https://images.mktw.net/im-230139/social"
+        width: 1280
+        height: 640
         isCached: true
+  - title: "Stephen Hawking was wrong about AI killing humans (says robot)"
+    excerpt: "Instead, this is GPT-3, an Open AI robot that's just written a column for The Guardian. And what a column. \"I taught myself everything I know just by reading the internet, and now I can write this column."
+    publishedDateTime: 2020-09-09T12:45:00Z
+    webUrl: "https://www.zdnet.com/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "'I have no desire to wipe out humans': Artificial intelligence system writes an essay for The Guardian to convince readers that robots will NOT destroy our species"
     excerpt: "In an Op-Ed for the newspaper, a robot called GPT-3 was tasked with convincing its human readers that robots are harmless and come in peace."
     publishedDateTime: 2020-09-08T17:21:00Z

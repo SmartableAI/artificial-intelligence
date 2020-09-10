@@ -28,7 +28,7 @@ related:
   - title: "Machine learning improves the prediction of febrile neutropenia in Korean inpatients undergoing chemotherapy for breast cancer"
     excerpt: "Febrile neutropenia (FN) is one of the most concerning complications of chemotherapy, and its prediction remains difficult. This study aimed to reveal the risk factors for and build the prediction models of FN using machine learning algorithms."
     publishedDateTime: 2020-09-09T09:17:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-71927-6"
+    webUrl: "https://www.nature.com/articles/s41598-020-71927-6?error=cookies_not_supported&code=fbaadfae-6fa7-48d9-b0ef-bf27a7c509e7"
     type: article
     provider:
       name: Nature

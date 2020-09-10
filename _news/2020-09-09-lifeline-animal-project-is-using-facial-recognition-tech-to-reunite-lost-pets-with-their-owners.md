@@ -36,6 +36,22 @@ related:
       name: 11Alive
       domain: 11alive.com
     quality: 119
+  - title: "Portland City Council votes to ban facial recognition technologies in public places"
+    excerpt: "Portland City Council voted to ban the use of facial recognition in public places and by government agencies, including the Portland Police Department."
+    publishedDateTime: 2020-09-09T23:17:00Z
+    webUrl: "https://venturebeat.com/2020/09/09/portland-city-council-votes-to-ban-facial-recognition-technologies-in-public-places/"
+    ampWebUrl: "https://venturebeat.com/2020/09/09/portland-city-council-votes-to-ban-facial-recognition-technologies-in-public-places/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/portland-city-council-votes-to-ban-facial-recognition-technologies-in-public-places/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "NIST benchmarks show facial recognition technology still struggles to identify Black faces"
     excerpt: "NIST benchmarks suggest some facial recognition algorithms haven't corrected historic bias -- and are actually getting worse."
     publishedDateTime: 2020-09-09T17:08:00Z
@@ -51,6 +67,38 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 601
+        isCached: true
+  - title: "Portland adopts landmark facial recognition ordinances"
+    excerpt: "The Portland, Ore., City Council on Wednesday unanimously adopted two landmark ordinances banning city and private use of facial recognition technology."
+    publishedDateTime: 2020-09-09T23:30:00Z
+    webUrl: "https://thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance"
+    ampWebUrl: "https://thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/sites/default/files/facialrecognitiontech_070319istock.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Portland passes nation’s toughest restriction on facial recognition technology"
+    excerpt: "The private sector ban bars business from using facial recognition technology in public areas within Portland city limits. For example, a private business could not have a camera"
+    publishedDateTime: 2020-09-09T23:53:00Z
+    webUrl: "https://www.opb.org/article/2020/09/09/portland-passes-nations-toughest-restriction-on-facial-recognition-technology/"
+    ampWebUrl: "https://www.opb.org/article/2020/09/09/portland-passes-nations-toughest-restriction-on-facial-recognition-technology/?outputType=amp"
+    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2020/09/09/portland-passes-nations-toughest-restriction-on-facial-recognition-technology/?outputType=amp"
+    type: article
+    provider:
+      name: OPB
+      domain: opb.org
+    quality: 55
+    images:
+      - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/5bh_tgcud1M9pjgSGOqaivcQu3I=/767x0/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/QIWVQXK6FZDY3AW6EBOFOPB7NU.jpg"
+        width: 767
+        height: 511
         isCached: true
   - title: "Dems Propose 5-Year Wait On Facial Recognition Technology"
     excerpt: "State legislators want a five-year moratorium on use of any system that would pair facial recognition or biometric surveillance systems on police body cameras. A.10913/S.6776 was introduced in the state Assembly and Senate recently by Assemblywoman Nathalia Fernandez,"

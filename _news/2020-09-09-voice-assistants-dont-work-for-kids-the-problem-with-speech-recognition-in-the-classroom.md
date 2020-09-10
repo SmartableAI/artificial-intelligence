@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/09/voice-assistants-dont-work-for-kid
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/09/voice-assistants-dont-work-for-kids-the-problem-with-speech-recognition-in-the-classroom/amp/"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 680
     height: 509
     isCached: true
+
+related:
+  - title: "The go-to voice assistants for 8 hospital innovation execs"
+    excerpt: "With increasing adoption of the new technologies, voice assistants from Amazon, Google and Apple have turned into household names. Here, eight chief innovation and digital officers from hospitals and health systems across the U."
+    publishedDateTime: 2020-09-09T20:48:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/the-go-to-voice-assistants-for-8-hospital-innovation-execs.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 24
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "Soxxg61DvWxxpdcC7w+r9s8uRHIvtOuwZfI8HzbaBp12GwpqGSAegjQS+jW4MlsXCAc7nTTClDRNR61J4F/7y6sh3+81deYL55x0QfLfx51rveSB1QWEYbG/uylxNkY/yc2rPYaceoUWg/9NMhMeD4nu1HZvmFCpDr6E6ilhe6ZVs+PHwlS7aF2xsNeL6ZzKwIXVz1KRsrL7mwlWxI20Fpv1k5In1aA5ZvvB7Ff/tQ8TzWADe4bc1hJaxxgdHe8i779ELSwMQeS0qnOWsT/Eg88CGgNWF0niPyDJ/2HehWyxO6et7cwHdYdRi+ykW9jMS4DzX1CddkvH30rc4kFVNQiTCi/oPXiBuK1oyEEBwToOSF5RlaiKF8t0SM9p5qqfD1ybzYznfBsCZ4FxbpHRK1sTBEVMT6wLYjPNXYweYCMgoG8Lc83hQyKslgNG/SZxaz0bC+lUJOgBE+eRXQGNgPJAbe/GLKi27SIDLAAnOkKgTUVJNGigoR1Z9TxoUJUDza64yfWFZV7PSLmMGI/ptd7f7jY3jbNs/Oz0vp1w/xs=;aoY7dKGVrAitV1hbQGUtig=="
 ---

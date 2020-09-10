@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_183939262/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_183939262/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Saudi Arabia to host global artificial intelligence summit in October"
-    excerpt: "LONDON: A data and artificial intelligence (AI) summit will be held in Saudi Arabia in October, it was announced on Friday. The Global AI Summit, under the patronage of Crown Prince Mohammed bin Salman and organized by the Saudi Data & AI Authority (SDAIA ..."
-    publishedDateTime: 2020-09-05T06:35:00Z
-    webUrl: "https://www.zawya.com/saudi-arabia/en/business/story/Saudi_Arabia_to_host_global_artificial_intelligence_summit_in_October-SNG_183798790/"
-    ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/SNG_183798790/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/SNG_183798790/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 57
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/180516221655ZMHF.jpg"
-        width: 1199
-        height: 800
-        isCached: true
 
 secured: "oJ+Jxuei5O6qthxKZPvsUDI1hx2IP1HAdh7VI3FiQyhXH6PwLgGdKcr6eig7wqjyIL30fGRXKLVPgIfukcl3rVgqc1e9Qbms9VFqRP+SkidXU+kk6c0ejEKoNa5KuTEV3YlEqYQbpNWDkeLdCmA4dhNFC1NZ+8b3kBbUnGlhkOP9eAPlnGNs19ykjnRbyrsVAspaOHqJqeZJrjbqkP2zFXB4OM/h4zr1c7Wq4ghBnB7EGN43Wdm03oswIIAA3A9J9q15FgX8kTT0MV5LuNIBWCVr947Nz6gDxDYWCoKScVhMfHn/mjuYK/0E2m8NtxFZMgZlPqBDVDvCjZWFz+FGUbn05rX2VvR0ePxXiVL8OTU=;jjS2LuJOsgs9EzUNA8GDWw=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-09T20:34:00Z
 originalUrl: "https://www.flightglobal.com/fixed-wing/ai-to-dogfight-against-real-world-fighter-aircraft-in-2024-pentagon/140109.article"
 webUrl: "https://www.flightglobal.com/fixed-wing/ai-to-dogfight-against-real-world-fighter-aircraft-in-2024-pentagon/140109.article"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/2000x2000fit/9/5/0/72950_boeing_ats_with_superhornet2_99437.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1000
     isCached: true
 
-secured: "jKX5RG87ZmwDv6sfdd1nH4lHsWb2kGEi93v/Bdd8coRJ8jca1An+jAa1oxCJUHXLLrwXIzkJlmcGlwRibTDGgIOo4vxGDGdCnQbin+dUXSKGTM1JQyZvrUXA9FBjD4nQ3BfllbqmqGGOdhOq57osiOW34zYFtLH+AAPp7WZ267+i+1IaUGXcZ6N8ob+W5FgjXTd4QKZZQjj9/FguegI7SFwi0Lfc42wPdrm3GIOAI6fI+TdKeA3sKCrKd0f4sX6Cv3mVHIiSEQM3Bq87K2h9demNQiyHR75I4tM8zvSnLRB0/4LpBVYwBBXtpdSBxauaMex1eIg5bGQE0YlKgORZly+UgpOFHUQY3LQB08Lp0YQ=;3S+vNKVzLIG+E31FO3W/iQ=="
+secured: "awJZoSfEn6pPYVpLU8CMaqZGbypKtUWDqiQCT8c1NKxMEoZ9T8MHpYrAwLUeFwhAsRr6sMzP90IF3t2e8ih+WIkkQ7vcRd908knKh79u8rcwnVVqybxhNYmin6l3ex4QSPtsc1PhtL+6PehimMPT37eKBq3yAQAZXF3xG4ZawGp0izcntsXpGRXP/e+x6ElRcWnOhTVWZq+JQLMfv62PTz1TC+HuXy/Zp+pKWaeetzdZksscSl53ZYJ4Zy2MMK+Jo8fKRbicEgbyFgYd5NyNOAQnQgpRN8Y/8++Vlj+mPmWt7tE2JP2YjKN5OYENC/Ghk+10oU3nCAClhtNRI27Cf8CM5hdl5q0YXeFW9p0h7tFCyjtXjLOZrKLvyDqG+bHpQX673ufsRcEHAeGy5ZYjUzWC0twPWk/n+YMA8Dz5+cwbOIWqN9afXfLzFqu3pCei1Blt5REttBW1z/sBvy1aJ8vEzdKiliWPAXhs0e7UXM1PGgBEWut66KvC6ftLUG4sikA09+xPmthFjj6j3HaMDw==;CdhXrUDS/uQShEyldhMozA=="
 ---
 

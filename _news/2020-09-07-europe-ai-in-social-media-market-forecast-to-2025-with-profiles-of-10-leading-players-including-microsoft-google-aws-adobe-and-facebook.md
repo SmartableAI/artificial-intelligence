@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 33
+  - title: "Improving The Use Of Social Media For Disaster Management"
+    excerpt: "A machine learning algorithm developed by Texas A&M researchers could quickly identify life-threatening situations through social media posts."
+    publishedDateTime: 2020-09-09T22:16:00Z
+    webUrl: "https://today.tamu.edu/2020/09/09/improving-the-use-of-social-media-for-disaster-management/"
+    type: article
+    provider:
+      name: AgriLife TODAY
+      domain: tamu.edu
+    quality: 24
+    images:
+      - url: "https://today.tamu.edu/wp-content/uploads/2020/09/CSCE-News-Huang-Social-Media-27Aug2020.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "Rjw5p7RAr83ns1JZ206JuRKgDE2T2NuOSVPx+YJ17wKERB7LtCuX2OgJ8495hfcXjjlsuLqKAa/xHEtQ6VqFgsPr+4PP/k9tSZSLi1xDqyg8ps1bYuvBe6IFTSlBvJQo1CiV8I5ELMX7jJ1FQhBjXShcmElRJjGYeEpRsU0LJ8eJx4oVRPN4AXClbby9OcpVLS25f1AMPiYONZCfiDsn9mI3DWO8lMG6PvFeMp/YnnnR5NE8PwKYF2K7CudTl2T74bSns8Lf4UkusJ7tQIvbHil/NHnYCwCre92x0PfulpriSierTmzIFHbnof1Jzf96JhsP7HMS6n5U99K4Y6qblgDyH+Y5xCN9XlnkdKqi9ek=;jlyveLxL+KHjHags4Z+2GQ=="
 ---

@@ -24,6 +24,20 @@ topics:
   - AI
 
 related:
+  - title: "Improving The Use Of Social Media For Disaster Management"
+    excerpt: "A machine learning algorithm developed by Texas A&M researchers could quickly identify life-threatening situations through social media posts."
+    publishedDateTime: 2020-09-09T22:16:00Z
+    webUrl: "https://today.tamu.edu/2020/09/09/improving-the-use-of-social-media-for-disaster-management/"
+    type: article
+    provider:
+      name: AgriLife TODAY
+      domain: tamu.edu
+    quality: 24
+    images:
+      - url: "https://today.tamu.edu/wp-content/uploads/2020/09/CSCE-News-Huang-Social-Media-27Aug2020.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Europe AI in Social Media Market, Forecast to 2025 with Profiles of 10 Leading Players Including Microsoft, Google, AWS, Adobe and Facebook"
     excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research."
     publishedDateTime: 2020-09-07T11:45:00Z
