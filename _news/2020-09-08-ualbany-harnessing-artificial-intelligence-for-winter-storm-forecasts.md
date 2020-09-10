@@ -2,17 +2,17 @@
 category: news
 title: "UAlbany harnessing artificial intelligence for winter storm forecasts"
 excerpt: "UAlbany's Atmospheric Sciences Research Center just received a $2.4 million, five year National Science Foundation grant to explore and develop ways that AI can better track and predict winter storms."
-publishedDateTime: 2020-09-08T16:00:00Z
-originalUrl: "https://www.chron.com/news/article/UAlbany-researchers-harnessing-Artificial-15541157.php"
-webUrl: "https://www.chron.com/news/article/UAlbany-researchers-harnessing-Artificial-15541157.php"
+publishedDateTime: 2020-09-08T11:00:00Z
+originalUrl: "https://www.mysanantonio.com/news/article/UAlbany-researchers-harnessing-Artificial-15541157.php"
+webUrl: "https://www.mysanantonio.com/news/article/UAlbany-researchers-harnessing-Artificial-15541157.php"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: My San Antonio
+  domain: mysanantonio.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 1365
     isCached: true
 
-secured: "RSCHHseaIfcHO5qlg8Qb6Qg2ABhpDEuWdBq39YBb/wGNLELBqBvW4COPjD7KQt/bI90vSx6BzWIQXUERKALvCEFudu/pJ5J1thOlvwmyebSzgqZx7WJ34cmzbMZitdvuN115Tp0Ymh8tXVda044G14q7Fy0MXNJtp+b1hVbVlQ7DGF7tLMGQJouWRb0vxcxjiKR04e8mAWzrgTKn5HIzJ48zhgTFQloNyuCq+7UeX2+MoRuJ7XjqrICGmMRnYPhcIXiAmWr58lvCTRvfXz71Z4sctQ/E0+Gsnys09JNPBUxw1QHjSYNyiAVpxyGNXB4vQAhRwAjBCckClDr2QiNW2tTf2AxUO8G+YF0vGXIZHQo=;IyrsAyLmBq0QmG4V7VIf3w=="
+secured: "2bNXRG7QowV3e7ni8LwHluScMT6Nyngak5++t+dTWMsYZ3UmBXSsaAxfg1RbzB9kdevuU54uw0ZYPAMexvGIxXOrpVd5qQRQXt9OeTk/L8MduVubk2mRDgaCxwGMOdnr7tkVcvQNDwp4FtDvzdZHfA+v73Z2lB4JrS2wDk04QiJhfBxhcvdna9lsWnHZQDDvsh1d/VI8FqNRPykrDihzEsM++zby8sHRo46gKb/Q2kHfWUYjmLjYBrcLeiZlQTSmf1LeMYnz/8UPgGNg84YvY4XfE5KVLWDS9AFGoP1W2Myu+BLbfHWQzK+hNzQC3Vmep+Kw6PBahRmtwxsUJ+WCGKOccB+/SbhL6C39OiulSHA=;wnB5pbOrAjBAHTXxqFGmGQ=="
 ---
 

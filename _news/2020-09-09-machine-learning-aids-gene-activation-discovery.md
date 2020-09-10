@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-09-machine-aids-gene-discovery.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-machine-aids-gene-discovery.amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://patch.com/img/cdn20/users/22880694/20200909/021941/styles/patch_image/public/lab-testing-shutterstock-203211934___09141226582.jpg?width=984"
         width: 800
         height: 600
+        isCached: true
+  - title: "Researchers identify DNA activation code using artificial intelligence"
+    excerpt: "Scientists have long known that human genes spring into action through instructions delivered by the precise order of our DNA, directed by the four different types of individual links, or \"bases,\" coded A,"
+    publishedDateTime: 2020-09-10T05:11:00Z
+    webUrl: "https://www.news-medical.net/news/20200910/Researchers-identify-DNA-activation-code-using-artificial-intelligence.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200910/Researchers-identify-DNA-activation-code-using-artificial-intelligence.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200910/Researchers-identify-DNA-activation-code-using-artificial-intelligence.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "Artificial intelligence aids gene activation discovery"
     excerpt: "Scientists have long known that human genes are activated through instructions delivered by the precise order of our DNA. With the aid of artificial intelligence, researchers at UC San Diego have solved a long-standing DNA activation code mystery."

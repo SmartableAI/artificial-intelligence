@@ -2,56 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-09-08-how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications.md",
-      "title": "How Diffblue uses AI to automate unit testing for Java applications",
-      "excerpt": "On Tuesday Diffblue announced general availability of its flagship Diffblue Cover and Diffblue Cover: Community Edition, a free version created for developers using IntelliJ, the most popular IDE for enterprise Java.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
-      "originalUrl": "https://www.techrepublic.com/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2017/06/15/ddccb0d6-7eee-4b5b-b55e-7195ed76fe03/resize/1200x/aef4190f2e6a01d273c61a78be51e83f/aijobs.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
-      "publishedDateTime": "2020-09-08T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-09-08-how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases.md",
       "title": "How To Separate The Wheat From The Chaff In A Sea Of Ventures With AI Use Cases",
       "excerpt": "Two criteria separate the leaders from the pack of AI ventures. What are they? And what are some of the most promising AI ventures at the moment?",
@@ -159,7 +109,7 @@
       "webUrl": "https://findingrover.com/",
       "originalUrl": "https://www.11alive.com/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3",
       "featuredContent": null,
-      "heat": 279,
+      "heat": 299,
       "tags": null,
       "images": null,
       "type": "article",
@@ -487,8 +437,8 @@
       "title": "Can artificial intelligence create a decent dinner?",
       "excerpt": "However, I’m trying out Plant Jammer, an app that promises to rustle up a recipe based on whatever food you have lying around, using artificial intelligence. It searches three million recipes to find often-paired items.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-53794472?User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F83.0.4103.116+Safari%2F537.36",
-      "originalUrl": "https://www.bbc.com/news/business-53794472?User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F83.0.4103.116+Safari%2F537.36",
+      "webUrl": "https://www.bbc.com/news/business-53794472",
+      "originalUrl": "https://www.bbc.com/news/business-53794472",
       "featuredContent": null,
       "heat": 97,
       "tags": null,
@@ -1193,6 +1143,56 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-why-the-secret-ai-sauce-behind-tiktok-is-such-a-vital-ingredient-in-luring-potential-buyers.md",
+      "title": "Why the secret AI sauce behind TikTok is such a vital ingredient in luring potential buyers",
+      "excerpt": "The recent Chinese policy change on exports may mean that a quick deal to sell TikTok’s US operations is now in doubt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3100287/why-secret-ai-sauce-behind-tiktok-such-vital-ingredient-luring",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3100287/why-secret-ai-sauce-behind-tiktok-such-vital-ingredient-luring",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/05/4f648fee-ee93-11ea-8288-5c49f42eee5c_image_hires_110621.jpg?itok=0-w5Og9g&v=1599275188",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3100287/why-secret-ai-sauce-behind-tiktok-such-vital-ingredient-luring",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3100287/why-secret-ai-sauce-behind-tiktok-such-vital-ingredient-luring",
+      "publishedDateTime": "2020-09-06T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

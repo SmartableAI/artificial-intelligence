@@ -2,38 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2020-08-21-mobius-logic-brings-drone-flight-management-to-microsoft-azure.md",
-      "title": "Mobius Logic brings drone flight management to Microsoft Azure",
-      "excerpt": "PRNewswire-PRWeb/ -- Mobius Logic, Inc. a leader in next-generation digital services, announced today that its Federal Aviation Administration",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17190966",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17190966",
-      "publishedDateTime": "2020-08-21T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-21-artificial-intelligence-in-banking-hong-kong-academy-of-finance-publishes-report-on-ai-and-fintech.md",
       "title": "Artificial Intelligence in Banking: Hong Kong Academy of Finance Publishes Report on AI and Fintech",
       "excerpt": "The Hong Kong Institute for Monetary and Financial Research (HKIMR), the research segment of the Hong Kong Academy of Finance (AoF), has published a on AI and banking. Entitled “Artificial Intelligenc",
@@ -1149,6 +1117,56 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-technology-comes-together-artificial-intelligence-augmented-reality-and-5g-combine-to-aid-surgeons.md",
+      "title": "Technology Comes Together: Artificial Intelligence, Augmented Reality, And 5G Combine To Aid Surgeons",
+      "excerpt": "The last few decades saw a move of computing from the edge to the cloud. While massive amounts of compute will remain in the cloud, the advances that have been gained there are helping to move performance back to the edge for critical issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/08/20/technology-comes-together-artificial-intelligence-augmented-reality-and-5g-combine-to-aid-surgeons/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/08/20/technology-comes-together-artificial-intelligence-augmented-reality-and-5g-combine-to-aid-surgeons/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/08/20/technology-comes-together-artificial-intelligence-augmented-reality-and-5g-combine-to-aid-surgeons/amp/",
+      "publishedDateTime": "2020-08-20T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

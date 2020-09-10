@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu, investors said to be in talks to raise US$2 billion for biotech start-up using AI technology"
+    excerpt: "Baidu is said to be raising money for a start-up that will use AI to discover new drugs and diagnose diseases, amid a trend of increased investment in the health care sector since the start of the Covid-19 pandemic."
+    publishedDateTime: 2020-09-10T04:10:00Z
+    webUrl: "https://www.scmp.com/tech/science-research/article/3100934/baidu-investors-said-be-talks-raise-us2-billion-biotech-start"
+    ampWebUrl: "https://amp.scmp.com/tech/science-research/article/3100934/baidu-investors-said-be-talks-raise-us2-billion-biotech-start"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3100934/baidu-investors-said-be-talks-raise-us2-billion-biotech-start"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 73
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/methode/2020/09/10/e5a2fb74-f304-11ea-8f3b-07283e3f3bd8_image_hires_093026.jpg?itok=15o7AKBJ&v=1599701435"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "EXCLUSIVE-Baidu, investors in talks to raise $2 bln for biotech startup -source"
     excerpt: "Chinese tech giant Baidu is in talks with investors to raise up to $2 billion over three years for a biotech startup, which will use AI technology to discover new drugs and diagnose diseases, a person with direct knowledge of the matter said."
     publishedDateTime: 2020-09-09T06:52:00Z

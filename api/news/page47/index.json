@@ -2,56 +2,6 @@
   "page": 47,
   "value": [
     {
-      "path": "_news/2020-08-03-global-payments-joins-forces-with-aws-to-deliver-the-future-of-payments.md",
-      "title": "Global Payments Joins Forces with AWS to Deliver the Future of Payments",
-      "excerpt": "Global Payments Inc. (NYSE: GPN) and Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced a new, multi-year",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-payments-joins-forces-with-aws-to-deliver-the-future-of-payments-2020-08-03?mod=mw_quote_news&tesla=y",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-03-proposed-voice-analysis-framework-preserves-both-accuracy-and-privacy.md",
       "title": "Proposed voice analysis framework preserves both accuracy and privacy",
       "excerpt": "Imperial College London researchers claim they’ve developed a voice analysis method that supports applications like speech recognition and identification while removing sensitive attributes such ...",
@@ -1126,6 +1076,47 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-agilox-autonomous-mobile-robots-are-substantially-saving-costs-by-applying-artificial-swarm-intelligence.md",
+      "title": "AGILOX Autonomous Mobile Robots are substantially saving costs by applying Artificial Swarm Intelligence",
+      "excerpt": "Swarm Intelligence (SI) and bio-inspired computing have attracted great interest in almost every area of science and engineering, including robotics, over the last two decades.",
+      "sourceUrl": null,
+      "webUrl": "https://roboticstomorrow.com/story/2020/07/agilox-autonomous-mobile-robots-are-substantially-saving-costs-by-applying-artificial-swarm-intelligence/15483/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.roboticstomorrow.com/images/upload/images/Agilox.jpg",
+          "width": 500,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-01T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

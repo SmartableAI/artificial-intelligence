@@ -2,47 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2020-08-26-fast-track-custom-ai-for-the-latest-in-computer-vision-apps.md",
-      "title": "Fast-Track Custom AI for the Latest in Computer Vision Apps",
-      "excerpt": "CSO offers the latest information and best practices on business continuity and data protection, best practices for prevention of social engineering scams, malware and breaches, and tips and advice abut security careers and leadership.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/resources/207586/fast-track-custom-ai-for-the-latest-in-computer-vision-apps",
-      "originalUrl": "https://www.csoonline.com/resources/207586/fast-track-custom-ai-for-the-latest-in-computer-vision-apps",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/cso/CSO_logo_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-26-ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award.md",
       "title": "DDN Recognized for Innovation in Artificial Intelligence Data Management with 2020 AI Breakthrough Award",
       "excerpt": "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today announced that DDN®, the global leader in Artificial Intelligence (AI) and Data Management software and hardware solutions enabling Intelligent Infrastructure,",
@@ -1155,6 +1114,56 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds.md",
+      "title": "Facial recognition designed to detect around face masks are failing, study finds",
+      "excerpt": "Many facial recognition companies have claimed that they can detect people with pinpoint accuracy even while they're wearing face masks, but the latest results from a study show that the coverings are dramatically increasing the error rates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/health/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/",
+      "originalUrl": "https://www.cnet.com/health/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/",
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/x2e96wd1fpkM4UP-mi2c2FVNa-w=/756x567/2020/05/12/e19738c2-f117-4bd8-b48c-e3b7aee37406/01-homemade-face-mask.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/",
+      "publishedDateTime": "2020-08-25T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

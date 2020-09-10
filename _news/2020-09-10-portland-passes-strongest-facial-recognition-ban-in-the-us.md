@@ -120,6 +120,17 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Portland bans private and public use of facial recognition tech"
+    excerpt: "The city of Portland, Oregon has unanimously passed an expansive new piece of legislation that bans both the private and public use of facial recognition tech."
+    publishedDateTime: 2020-09-10T04:34:00Z
+    webUrl: "https://www.digitaltrends.com/computing/portland-facial-recognition-ban/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/portland-facial-recognition-ban/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/portland-facial-recognition-ban/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
   - title: "Portland adopts landmark facial recognition ordinances"
     excerpt: "The Portland, Ore., City Council on Wednesday unanimously adopted two landmark ordinances banning city and private use of facial recognition technology."
     publishedDateTime: 2020-09-09T23:30:00Z
@@ -165,6 +176,22 @@ related:
       - url: "http://d14e0irai0gcaa.cloudfront.net/www.post-journal.com/images/2016/10/31144144/fblike.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Portland becomes the first city to ban the use of facial recognition technology by government agencies and private entities in public spaces"
+    excerpt: "Portland's ban goes further than any other city in the US and allows people to sue private companies and individuals who refuse to follow the law."
+    publishedDateTime: 2020-09-10T04:43:00Z
+    webUrl: "https://www.businessinsider.com/portland-passes-landmark-ban-on-facial-recognition-technology-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/portland-passes-landmark-ban-on-facial-recognition-technology-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/portland-passes-landmark-ban-on-facial-recognition-technology-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://i.insider.com/5e4dd9c52c24b6050b4d6d68?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Israeli Facial Recognition Tech Startup AnyVision Raises Additional $43M"
     excerpt: "AnyVision said that at a time when demand for innovative technologies that help companies meet the challenges of the new reality is soaring, the company sees significant growth for their Touchless Access Control across all verticals within organizations that host large numbers of people in shared spaces."
@@ -261,6 +288,6 @@ related:
       domain: rt.com
     quality: 17
 
-secured: "Ndgw9S+EGiaNYNgBvs5S9jqBraWK1oDSz1DPvVFfnqvzuqPhNVRvpFnWP9OWzAeTqEFv9+yHNphsEgCjUBmhS71bXD8ikhYXMUh2yijNvXXJVKccVhaoZsvYgSMEaHu55hJYFsh69ekCeWTpMIhkgrvHHfhPx8QTPlYHCkAPmAIKx+FZrngOoA/sSnNUqF0Z68nNccb4+60Z4mG41x+mHupXXAlQAHcsoMSbTwpDT8QnLB332wiPmlfXXnXNq3453xYPTOEZx/brwVpJz0/cjuAxwQSNlGDeWq1esJ23VbFWHGxcC4qBURP3lWs3y///oi8k5j+WnoiwwkFgGYuir2e3M2D070GEMPI8ZDR/yGo=;PUT8Qe+jhnnf3pXJN9oTvQ=="
+secured: "CwPEtyhsuVvbshFIG5PCREq2Ye33xt4t6PDhv1Uj8BPEQktcH902GiNTLvdkUWdZGaAwLfM8LPGUKGWLN4b+i1+zsBhkep1fwHaKwgn6feDFoo8ZaRhT78AsGBWaMJ6G54Dzrtm+lyjpUh73B9XNi7rvmIunsvA1vBUd6LZBmyvl9jbDLIwXSoj8dlfQR670ixOKtBRSaISmNldrmuwEI96TgN4otLIqmpyvS4HQYnIkTj8cyDMJvPgJ3HzP90/i8CdKrsxl0BVZE8hmeR+6gm4G/ThvDbSUbBaltmE8QwnTSfWttG92QyDgtkaSDRtdgRMxUAl29UIXbo05xG8F4k2o34Iq9HZAVsrmvbdIi5mgZPx70+2dOzQQeWfZL6NMcpEUA0b6rwY5s+ugTdIMuVVWbHjAM3NckWfS0nNgoXNOFdEZUMNlgoSyaxkCnpUl83jJXmyVc6T72TXTDusUbuIQPwhXNT/mBgVYHkiuTT9rwgApqj8G1LTDxN7GFrnxBI47VafE1adn5HsIRBnc2m/Vy6tmDcFakbhUyHre85U=;BaZqdP54g1h2DHsD0da1/A=="
 ---
 

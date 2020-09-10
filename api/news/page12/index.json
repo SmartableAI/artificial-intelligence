@@ -2,55 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2020-08-31-heading-to-a-job-interview-ai-could-and-should-be-in-the-room.md",
-      "title": "Heading To A Job Interview? AI Could (And Should) Be In The Room",
-      "excerpt": "All will be armed with their top accomplishments and glowing references; all will be hoping for a job offer at the end. There’s just one problem: The job interview doesn’t always work. The interview has been the gold standard — maybe even the only standard — for securing a job for decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f281b7a2378b9f74663653a%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/amp/",
-      "publishedDateTime": "2020-08-31T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-31-50-exoplanets-discovered-in-deep-space-by-advanced-artificial-intelligence.md",
       "title": "50 exoplanets discovered in deep space by advanced artificial intelligence",
       "excerpt": "More than 4,000 exoplanets have been discovered so far by astronomers. Now, artificial intelligence has discovered an additional 50, thanks to old data from NASA.",
@@ -1160,6 +1111,46 @@
         "images": [
           {
             "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-stocks-start-september-in-high-gear-as-apple-and-tesla-split-and-markets-await-the-august-jobs-report.md",
+      "title": "Stocks start September in high gear as Apple and Tesla split, and markets await the August jobs report",
+      "excerpt": "Stocks could start the historically weak month of September on an upswing, after what is so far the best August for the S&P 500 since 1986.",
+      "sourceUrl": null,
+      "webUrl": "https://jobs.apple.com/en-us/search?search=%23aimlresidency&sort=relevance",
+      "originalUrl": "https://www.cnbc.com/2020/08/28/stocks-start-september-in-high-gear-as-apple-and-tesla-split-and-markets-await-the-august-jobs-report.html",
+      "featuredContent": null,
+      "heat": 131,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-28T18:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,55 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-09-03-biofourmis-raises-100-million-for-ai-remote-medical-tools.md",
-      "title": "Biofourmis raises $100 million for AI remote medical tools",
-      "excerpt": "Biofourmis, a company developing platforms for AI remote patient monitoring and triage, has raised $100 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/",
-      "originalUrl": "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/",
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/e72b0f95-315b-4e77-9a52-734c389a47cd-e1598639733609.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 561,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/amp/",
-      "publishedDateTime": "2020-09-02T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-03-biofourmis-raises-100-million-financing-led-by-softbank.md",
       "title": "Biofourmis Raises $100 Million Financing Led by SoftBank",
       "excerpt": "Biofourmis, which is using artificial intelligence-based analytics to monitor patients affected by Covid-19, has raised a $100 million financing led by SoftBank Vision Fund 2.",
@@ -1170,6 +1121,56 @@
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers.md",
+      "title": "To build responsibly, tech needs to do more than just hire chief ethics officers",
+      "excerpt": "Sarah Drinkwater works to fuel the responsible tech movement through her role as director at Omidyar Network. In the last couple of years, we’ve seen new teams in tech companies emerge that ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/",
+      "originalUrl": "https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1162201571.jpg?w=1000",
+          "width": 1000,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/amp/",
+      "publishedDateTime": "2020-09-02T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

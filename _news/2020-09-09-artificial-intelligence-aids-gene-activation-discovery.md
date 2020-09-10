@@ -56,6 +56,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Researchers identify DNA activation code using artificial intelligence"
+    excerpt: "Scientists have long known that human genes spring into action through instructions delivered by the precise order of our DNA, directed by the four different types of individual links, or \"bases,\" coded A,"
+    publishedDateTime: 2020-09-10T05:11:00Z
+    webUrl: "https://www.news-medical.net/news/20200910/Researchers-identify-DNA-activation-code-using-artificial-intelligence.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200910/Researchers-identify-DNA-activation-code-using-artificial-intelligence.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200910/Researchers-identify-DNA-activation-code-using-artificial-intelligence.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "l89VKyMJCib3fHq64HejF938XKrXbLyXKkE4CsFqyKhX9tXHq7BEdOAw2Qmr2cLZbM/SVg39ITrX7tpBAGwjGZYllCAoktlWJOEFM0RKpRPPz9kpTZwWENxx6UftZ4QCfDnd0PgkH5dn5/mcmzMKGK+r03E8N5ZVRcHEouV+G72onlyIsoZSQPe379yU55f6yAQXyVRISjTlsGzwiFa7wZXUtiDqwF1kuYxNgO171njtr1aoheSrzbWJZ8QLsvahN6dK1zfpzahq6QIwjEQvFHkPzVz9fyL8dOrIkIjJWmMcMzmsfeLsHn9VI4bj6Uj0ZEUiIsNfLXaui8p1iGAz/HHvsNT020YaHKcUqUAruEsX70p/O+xboqPLUPa+mWv1hkeXomUIlVQX8hHfxfr7hw6pSk5OVLozhKN2YV9qAwb0TV6DMBDiEvkoBevwkZf/VM1gUnzjNVKLSGzmNKXAD2vaFPTa2XPQ7rx3mjDKri3EsFHCWDgv8Qcd22+0cNv7d4x9+WdJFlUpnq8uBj1o6bDDZW7/0vk7p4cBNyyz6Sk=;2XVkyc6xp53WYb3BUoFEGQ=="
 ---

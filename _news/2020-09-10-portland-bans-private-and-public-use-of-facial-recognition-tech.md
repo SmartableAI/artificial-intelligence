@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Portland adopts landmark facial recognition ordinances"
-excerpt: "The Portland, Ore., City Council on Wednesday unanimously adopted two landmark ordinances banning city and private use of facial recognition technology."
-publishedDateTime: 2020-09-09T23:30:00Z
-originalUrl: "https://thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance"
-webUrl: "https://thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance"
-ampWebUrl: "https://thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance?amp"
+title: "Portland bans private and public use of facial recognition tech"
+excerpt: "The city of Portland, Oregon has unanimously passed an expansive new piece of legislation that bans both the private and public use of facial recognition tech."
+publishedDateTime: 2020-09-10T04:34:00Z
+originalUrl: "https://www.digitaltrends.com/computing/portland-facial-recognition-ban/"
+webUrl: "https://www.digitaltrends.com/computing/portland-facial-recognition-ban/"
+ampWebUrl: "https://www.digitaltrends.com/computing/portland-facial-recognition-ban/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/portland-facial-recognition-ban/?amp"
 type: article
-quality: 59
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Digital Trends
+  domain: digitaltrends.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://thehill.com/sites/default/files/facialrecognitiontech_070319istock.jpg"
-    width: 980
-    height: 551
-    isCached: true
 
 related:
   - title: "Facial recognition technology for pets is launched in Atlanta"
@@ -132,17 +130,22 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "Portland bans private and public use of facial recognition tech"
-    excerpt: "The city of Portland, Oregon has unanimously passed an expansive new piece of legislation that bans both the private and public use of facial recognition tech."
-    publishedDateTime: 2020-09-10T04:34:00Z
-    webUrl: "https://www.digitaltrends.com/computing/portland-facial-recognition-ban/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/portland-facial-recognition-ban/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/portland-facial-recognition-ban/?amp"
+  - title: "Portland adopts landmark facial recognition ordinances"
+    excerpt: "The Portland, Ore., City Council on Wednesday unanimously adopted two landmark ordinances banning city and private use of facial recognition technology."
+    publishedDateTime: 2020-09-09T23:30:00Z
+    webUrl: "https://thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance"
+    ampWebUrl: "https://thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance?amp"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/sites/default/files/facialrecognitiontech_070319istock.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Portland passes nation’s toughest restriction on facial recognition technology"
     excerpt: "The private sector ban bars business from using facial recognition technology in public areas within Portland city limits. For example, a private business could not have a camera"
     publishedDateTime: 2020-09-09T23:53:00Z
@@ -284,6 +287,6 @@ related:
       domain: rt.com
     quality: 17
 
-secured: "J21nz5cp8UDXwMrOIMoSGx7RGHe67S4O8JRVvvJWQ5TVrXRrxx+1SxVZFxpRtJArSdCYu6RfKFWGPidM6FNVnFlTkJoHU3B3iudTRNGpSwv0XGy146g6anosPmR5fu2ntBEX9mRpN2OP3a/1F+xSa6Sp8sRQMICKwB3ClbEsclh0nsE5tqt3gVfkxmkl3Iq4CRvggQWHNE/rvzx2kmJ3KPQ8enOzridX1McluLqAtOnJR02R7JJfMUZ/w7YXOIqsMdmMkpVk/yV24I89QSkDMD4mbpy6sWLnucphSWyHGcrNhkZQyl49Xec9xCGLkNyife9GuZ0Jcazzjzb8kFEcsd4coAKrMg9i+8qhUfyTQEVwqLbAdqxbq06MdFJtD0lmkRhUgMpYSTxwBDztsVC7LhsxNSEVYBcEarDzPF7KaOc+P+qj8KhfIvICB8uw/h9y9IEXH/sahkvOQl1Fvu1v+1kK6HfCQLGHC1maEm0ram409sHidXWTSzTvSlrmO83DJxkah2c/EgcMEoaISdRwz38lXHZUutXZ2GcVuLS92UQ=;DoqBKf/h7rIJuhmoenpHxA=="
+secured: "ya3OUEBKWwGi4bqC+1rQkdMQnjwng7K5cwFEYlgLnvV7v993+I4XYrODIKEu24J/WIITVHdBVPpbrelAPM9mBahDuPs1P9ERrAjWlE53BFLB30Rw9lZVGOBiamv97BlqMBUIQkvDMO7ER2CUdEnk+GezfPrYx60qpS4NHFmxksAmMEjIncLfLLRY/FfNsp6kQ6KnR1Jg4zWEJB7yPri5aqzwCCJNoZxSfEDOD48Zo4Wd9yzw9GXJieoPeq39IK3R4CHm0gJ2s32NCAa5dPn0s4A0DkOs3dYlr6jMs2MajLC7dSmkifNytp6i+Oa6UvMUENvET/mbxVdlYsq/owVV744tbrcYGiqjEtT8929NNdpzLoy/Uz4Ji27Zts6kQmDi/daZRfjMyyrUpAiRrU6/D249dr8qupE1wrwucP037rze90g6rmlU0AEOYygE0g2lDa9Fzqb8dJeOVqabYARzhon1pqFgPxldW3QGAUASS0CwOqqEdomvruM2BAtKtWH0zac4LZEarLhpVnr42pbDbu3E4zqkTE3abO/VLE3VGqs=;B0G82xE9Vh29OQJCPIeyuQ=="
 ---
 

@@ -2,6 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-10-baidu-investors-said-to-be-in-talks-to-raise-us2-billion-for-biotech-start-up-using-ai-technology.md",
+      "title": "Baidu, investors said to be in talks to raise US$2 billion for biotech start-up using AI technology",
+      "excerpt": "Baidu is said to be raising money for a start-up that will use AI to discover new drugs and diagnose diseases, amid a trend of increased investment in the health care sector since the start of the Covid-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/science-research/article/3100934/baidu-investors-said-be-talks-raise-us2-billion-biotech-start",
+      "originalUrl": "https://www.scmp.com/tech/science-research/article/3100934/baidu-investors-said-be-talks-raise-us2-billion-biotech-start",
+      "featuredContent": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/methode/2020/09/10/e5a2fb74-f304-11ea-8f3b-07283e3f3bd8_image_hires_093026.jpg?itok=15o7AKBJ&v=1599701435",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/science-research/article/3100934/baidu-investors-said-be-talks-raise-us2-billion-biotech-start",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3100934/baidu-investors-said-be-talks-raise-us2-billion-biotech-start",
+      "publishedDateTime": "2020-09-09T21:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-ai-ruined-chess-now-its-making-the-game-beautiful-again.md",
       "title": "AI Ruined Chess. Now, It's Making the Game Beautiful Again",
       "excerpt": "A former world champion teams up with the makers of AlphaZero to test variants on the age-old game that can jolt players into creative patterns.",
@@ -9,7 +58,7 @@
       "webUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/",
       "originalUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/",
       "featuredContent": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -48,7 +97,8 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -674,55 +724,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-09-is-ambarella-an-underappreciated-artificial-intelligence-chip-stock.md",
-      "title": "Is Ambarella an Underappreciated Artificial Intelligence Chip Stock?",
-      "excerpt": "The image processing chipmaker is betting heavily on the AI market, but can it keep pace with its bigger competitors?",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F590824%2Fgettyimages-1145990155.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "publishedDateTime": "2020-09-09T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-09-machine-learning-aids-gene-activation-discovery.md",
       "title": "Machine learning aids gene activation discovery",
       "excerpt": "Scientists have long known that human genes spring into action through instructions delivered by the precise order of our DNA, directed by the four different types of individual links, or \"bases,\" coded A,",
@@ -730,7 +731,7 @@
       "webUrl": "https://phys.org/news/2020-09-machine-aids-gene-discovery.html",
       "originalUrl": "https://phys.org/news/2020-09-machine-aids-gene-discovery.html",
       "featuredContent": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {

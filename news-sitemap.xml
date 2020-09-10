@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.scmp.com/tech/science-research/article/3100934/baidu-investors-said-be-talks-raise-us2-billion-biotech-start</loc>
+    <lastmod>2020-09-09T21:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/</loc>
     <lastmod>2020-09-09T19:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -81,12 +87,6 @@
   <url>
     <loc>https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/</loc>
     <lastmod>2020-09-09T08:16:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/</loc>
-    <lastmod>2020-09-09T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -189,12 +189,6 @@
   <url>
     <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-09-09T00:24:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/articles/exclusive-baidu-investors-in-talks-to-raise-%25242-bln-for-biotech-startup-source-2020-09-09</loc>
-    <lastmod>2020-09-08T23:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -361,7 +355,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/business-53794472?User-Agent=Mozilla%252F5.0+%2528Windows+NT+10.0%253B+Win64%253B+x64%2529+AppleWebKit%252F537.36+%2528KHTML%252C+like+Gecko%2529+Chrome%252F83.0.4103.116+Safari%252F537.36</loc>
+    <loc>https://www.bbc.com/news/business-53794472</loc>
     <lastmod>2020-09-07T16:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1477,7 +1471,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.arnnet.com.au/article/682585/max-kelsen-serves-automated-rostering-to-dominos-pizza/</loc>
+    <loc>https://www.arnnet.com.au/article/682585/max-kelsen-serves-automated-rostering-domino-pizza/</loc>
     <lastmod>2020-08-31T21:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

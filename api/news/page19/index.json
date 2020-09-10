@@ -2,55 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2020-08-25-socure-raises-30-million-to-combat-payments-fraud-with-ai.md",
-      "title": "Socure raises $30 million to combat payments fraud with AI",
-      "excerpt": "Socure, a startup developing an AI-driven platform to combat payment fraud, has raised $35 million in an equity financing round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/",
-      "originalUrl": "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/",
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/01/identity.shutterstock_158989667-1-e1597945235962.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/amp/",
-      "publishedDateTime": "2020-08-25T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-25-crunchbase-unveils-salesforce-integration-for-pro-users.md",
       "title": "Crunchbase unveils Salesforce integration for Pro users",
       "excerpt": "The integration allows Crunchbase Pro users to avoid spending time manually exporting prospects from Crunchbase into their customer relationship management applications. The integration supports the ability to enrich all new and existing Salesforce records with Crunchbase’s financial data,",
@@ -1125,6 +1076,47 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions.md",
+      "title": "StradVision to collaborate with leading custom SoC supplier Socionext to provide efficient ADAS solutions",
+      "excerpt": "Through this collaboration, the two companies will provide state-of-the-art object recognition technology with software and hardware specialized for deep learning to the Advanced Driver Assistance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions/article_c1ccf754-d6de-59b4-9e40-e512448877a7.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions/article_c1ccf754-d6de-59b4-9e40-e512448877a7.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-24T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

@@ -323,37 +323,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-09-exclusive-baidu-investors-in-talks-to-raise-2-bln-for-biotech-startup-source.md",
-      "title": "EXCLUSIVE-Baidu, investors in talks to raise $2 bln for biotech startup -source",
-      "excerpt": "Chinese tech giant Baidu is in talks with investors to raise up to $2 billion over three years for a biotech startup, which will use AI technology to discover new drugs and diagnose diseases, a person with direct knowledge of the matter said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/exclusive-baidu-investors-in-talks-to-raise-%242-bln-for-biotech-startup-source-2020-09-09",
-      "originalUrl": "https://www.nasdaq.com/articles/exclusive-baidu-investors-in-talks-to-raise-%242-bln-for-biotech-startup-source-2020-09-09",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/exclusive-baidu-investors-in-talks-to-raise-%242-bln-for-biotech-startup-source-2020-09-09?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-baidu-investors-in-talks-to-raise-%242-bln-for-biotech-startup-source-2020-09-09?amp",
-      "publishedDateTime": "2020-09-08T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-09-3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work.md",
       "title": "3 Ways AI Will Continue To Accelerate The Transition To Remote Work",
       "excerpt": "In response to the Covid-19 pandemic, businesses of all shapes and sizes have had to quickly adapt to remote work. Many experts predict that this year’s rapid transition to remote work constitutes a point of no return.",
@@ -1157,6 +1126,56 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications.md",
+      "title": "How Diffblue uses AI to automate unit testing for Java applications",
+      "excerpt": "On Tuesday Diffblue announced general availability of its flagship Diffblue Cover and Diffblue Cover: Community Edition, a free version created for developers using IntelliJ, the most popular IDE for enterprise Java.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
+      "originalUrl": "https://www.techrepublic.com/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2017/06/15/ddccb0d6-7eee-4b5b-b55e-7195ed76fe03/resize/1200x/aef4190f2e6a01d273c61a78be51e83f/aijobs.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/",
+      "publishedDateTime": "2020-09-08T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

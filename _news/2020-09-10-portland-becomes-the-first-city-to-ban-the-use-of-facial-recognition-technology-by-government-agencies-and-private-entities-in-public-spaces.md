@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Portland adopts landmark facial recognition ordinances"
-excerpt: "The Portland, Ore., City Council on Wednesday unanimously adopted two landmark ordinances banning city and private use of facial recognition technology."
-publishedDateTime: 2020-09-09T23:30:00Z
-originalUrl: "https://thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance"
-webUrl: "https://thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance"
-ampWebUrl: "https://thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance?amp"
+title: "Portland becomes the first city to ban the use of facial recognition technology by government agencies and private entities in public spaces"
+excerpt: "Portland's ban goes further than any other city in the US and allows people to sue private companies and individuals who refuse to follow the law."
+publishedDateTime: 2020-09-10T04:43:00Z
+originalUrl: "https://www.businessinsider.com/portland-passes-landmark-ban-on-facial-recognition-technology-2020-9"
+webUrl: "https://www.businessinsider.com/portland-passes-landmark-ban-on-facial-recognition-technology-2020-9"
+ampWebUrl: "https://www.businessinsider.com/portland-passes-landmark-ban-on-facial-recognition-technology-2020-9?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/portland-passes-landmark-ban-on-facial-recognition-technology-2020-9?amp"
 type: article
-quality: 59
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://thehill.com/sites/default/files/facialrecognitiontech_070319istock.jpg"
-    width: 980
-    height: 551
+  - url: "https://i.insider.com/5e4dd9c52c24b6050b4d6d68?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -143,6 +147,22 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "Portland adopts landmark facial recognition ordinances"
+    excerpt: "The Portland, Ore., City Council on Wednesday unanimously adopted two landmark ordinances banning city and private use of facial recognition technology."
+    publishedDateTime: 2020-09-09T23:30:00Z
+    webUrl: "https://thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance"
+    ampWebUrl: "https://thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/sites/default/files/facialrecognitiontech_070319istock.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Portland passes nation’s toughest restriction on facial recognition technology"
     excerpt: "The private sector ban bars business from using facial recognition technology in public areas within Portland city limits. For example, a private business could not have a camera"
     publishedDateTime: 2020-09-09T23:53:00Z
@@ -172,22 +192,6 @@ related:
       - url: "http://d14e0irai0gcaa.cloudfront.net/www.post-journal.com/images/2016/10/31144144/fblike.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Portland becomes the first city to ban the use of facial recognition technology by government agencies and private entities in public spaces"
-    excerpt: "Portland's ban goes further than any other city in the US and allows people to sue private companies and individuals who refuse to follow the law."
-    publishedDateTime: 2020-09-10T04:43:00Z
-    webUrl: "https://www.businessinsider.com/portland-passes-landmark-ban-on-facial-recognition-technology-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/portland-passes-landmark-ban-on-facial-recognition-technology-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/portland-passes-landmark-ban-on-facial-recognition-technology-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://i.insider.com/5e4dd9c52c24b6050b4d6d68?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Israeli Facial Recognition Tech Startup AnyVision Raises Additional $43M"
     excerpt: "AnyVision said that at a time when demand for innovative technologies that help companies meet the challenges of the new reality is soaring, the company sees significant growth for their Touchless Access Control across all verticals within organizations that host large numbers of people in shared spaces."
@@ -284,6 +288,6 @@ related:
       domain: rt.com
     quality: 17
 
-secured: "J21nz5cp8UDXwMrOIMoSGx7RGHe67S4O8JRVvvJWQ5TVrXRrxx+1SxVZFxpRtJArSdCYu6RfKFWGPidM6FNVnFlTkJoHU3B3iudTRNGpSwv0XGy146g6anosPmR5fu2ntBEX9mRpN2OP3a/1F+xSa6Sp8sRQMICKwB3ClbEsclh0nsE5tqt3gVfkxmkl3Iq4CRvggQWHNE/rvzx2kmJ3KPQ8enOzridX1McluLqAtOnJR02R7JJfMUZ/w7YXOIqsMdmMkpVk/yV24I89QSkDMD4mbpy6sWLnucphSWyHGcrNhkZQyl49Xec9xCGLkNyife9GuZ0Jcazzjzb8kFEcsd4coAKrMg9i+8qhUfyTQEVwqLbAdqxbq06MdFJtD0lmkRhUgMpYSTxwBDztsVC7LhsxNSEVYBcEarDzPF7KaOc+P+qj8KhfIvICB8uw/h9y9IEXH/sahkvOQl1Fvu1v+1kK6HfCQLGHC1maEm0ram409sHidXWTSzTvSlrmO83DJxkah2c/EgcMEoaISdRwz38lXHZUutXZ2GcVuLS92UQ=;DoqBKf/h7rIJuhmoenpHxA=="
+secured: "a6mlIyWQiyZXM7Qi0cprTyye7C3CkWlXBYrnmA2/cYEnVPCdr42pY9ZrhQkF3B2vyNq/+ohc5C3bVg85Sl4w8IZQtBRZaMR7H6n+COo3SYJT5fSSmr0NEpz/oNYt8GTWRUAbH/fY0RhMDyOj28Kwb03GImz8znSSB2Zgia9mcaEcDrt4pV/xQJqL+YB1Vi0yO3qFjHoW5wSqzvjv3qwhE8g5JoywZTs7Rg82CSl9cCjxRDoOi39USKevbxNAw2eiHYMdQSV5lzRrVeJmWXGB2D85Qmy8z2kJ4unzbnJC+nosuwucFndZhBVVJ3/aZ5/brxkArVOeTxA34aLR9qKOZ22zuqPrmo6K9iEN8EBjzic=;O6Z5p4tQQV22gL0eldgaLg=="
 ---
 

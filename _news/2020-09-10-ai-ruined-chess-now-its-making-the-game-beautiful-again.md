@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/"
 ampWebUrl: "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/amp"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Google AI
 
 images:
   - url: "https://media.wired.com/photos/5f592bfb643fbe1f6e6807ec/master/pass/business_chess_1200074974.jpg"
@@ -30,6 +31,6 @@ images:
     height: 1600
     isCached: true
 
-secured: "WpZRt0hA8gG1KYxkdajyyi5uZGHUyV1YLjFhvaVjN5oeOpQZnIKY/vqOO677mhXClYZVVSfVURRlWH8wjIufnnB51PfptPloAXPIOo2x9+gcyaFWXSO3UrL8qNpKwDktq3sUKbTvEIudVF7lkhf4OjGiZt6Q4WgwDn9jhRphCjIJ4b1RnNiWkUJr/iOP5+CDrHASJ9yDrojyuYq3w0USDAncm++dWZL8Wbj7hvCd8VnQqqTrf+kz7rL503603EiJmeEJW5AMGZYJnZsqTPfPYaXHkqlP/PKZ/EHuoS78NV6wzmvxCo6+n5trh9pZvIcdN5rIQRtTCx2zRwH/2mhDEguvL2FJVcyYj3/70Jv0VfU=;qVyzyNcafLkUXN3srYtdVg=="
+secured: "NqKFFi+Kc6B8rVy01r/fmWPZphNAgc+c63bE0AizmjlRHY7Anw5RjT+W/d28yqsX/3CYhBI7BidJx/ZbRjiVMLlqt87L4hCj5uG05/UGOnJRxdTx9CgU8nlrS/kjnNwiWBfh74FgoOCuhnp3VnJcKQeLrfGibi59yMbPq8nVILCWi0PPwaS7+nAMpEcgSq53JN10W8avqf91drrikTBaLt+uvcr6xQeOIO6MlPaC4s32Ps20oYLrCLeE4A/tEt5jasvmbpToazDfL3YgAAVjyzGyXzN69gLqqZRq5TVfJWwop2JGf/giINVnw1bZvNdTVk6qaKm5HDUYbLAL4EmHpKqpJAp08628BwjQ1VKRK4Evczea4vXcnIOl9ZzDS7yhjB0kBZFKXv4JrDm4A2cqFHAMQVd3oWn38skGmOwylW0X+mWKTlWlr6VZJucZ+NwB5mfos7oRTh3m8snznxnAJ0gb1iDQGXbmmEBiMoZkW5G+PfW7IWge/Qb8cNxeepuG9egzp1tvfywWZEBk4EjtX8BYm8Tk8b2N64hpee4Ac44=;vxtL6eM1ZVofB0EL9P/ZAg=="
 ---
 
