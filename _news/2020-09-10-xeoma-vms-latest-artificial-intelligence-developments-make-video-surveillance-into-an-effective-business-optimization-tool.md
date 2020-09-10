@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2131271/xeoma-vms-latest-artificial-intelli
 ampWebUrl: "https://www.openpr.com/amp/2131271/xeoma-vms-latest-artificial-intelligence-developments-make"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2131271/xeoma-vms-latest-artificial-intelligence-developments-make"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://cdn.openpr.com/T/9/T909333116_g.jpg"
@@ -26,6 +27,6 @@ images:
     height: 600
     isCached: true
 
-secured: "ngMa+nZXjpimBSLeNuSmQMbyWhgE10Yr79gEgCfrW9RNMn0edYy+eCN2PHb3M2YUcBcWGbHS3sxoYuLaf0caOTyRojzU1tU7hiq/2AmEO3MBDU16PkCFfR10EDavcZ9uj15hG22HlSLgmzOkMqmA8QeCOl7h9J0BwjZar7AJFaE2OxUsJ51cO8vr+pR0FHoUFT7XDOlXGjZgxxzn3SNOcEZuLtDRUfjRY68Yz7dlkETAnTd+Az/e4V8wP9IU0QsG6b31MVx5a5hbT8R+A58ladhH6EuObjAcnMILi59hxiBVaVEM0iGnj4wQ4Jtf4bg2Pz6A7u00MYQKb5KolCRXFzBQEREZPmJjvJlNHNt19kc=;MwSB47K3k6eHly5mQH/09A=="
+secured: "sBDQRMZEXM7ZX+vMNgGregwde/ILHbSJH9BUVUeial0iu4hta0iNyqrb6T6xaRai/fi4gKjUVsm4Lt5v9ZOdwQQCQhyIhwDUIiDQK4SobVqjKVB1pZb+mj7D7UFZeH7wd62CLGa3r4z16HOQIHk7h1KhPtyJyk0sN2XpPHtSGZxxKvt+HjwMC7QY1CHV9J6IDa/cTbzdj9OlR14FTzyPHMaeKGu4O7ohD5wc2i0pM/ufMvR6Rras/7cJB9YPTqJp3pzOgjmoM/3GJLKcG6g+rQ98K3KJFXlwPcZlS3PTrT/13Ajpp+rq1k3blBLPe+zcSGZDFF9szlZkRoxXBihf2jLbuHfz3r61vPCvMyICBylVonW6vlz9NmWvvn0bC9VPqhK3mZaOksRE+FxWQuI8NdR4TVhNxNZbxpR02U8p4ImgyzeYyXbdAUADI+qegTWQlknwDMryDIz4j5ty87E9wkdevIyFIafQIXtjMynsxH4HcTwLZToNP9m0Vn8STdPAdOSqRn9Pqbqpga3VFA4oqY6z+1xOcxgGFMWfjMJKT+U=;AnjIZWJsbKY5ajex5xWu1w=="
 ---
 

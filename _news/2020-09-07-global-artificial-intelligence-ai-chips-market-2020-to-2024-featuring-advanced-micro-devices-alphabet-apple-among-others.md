@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-
 webUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-ai-chips-market-2020-to-2024-featuring-advanced-micro-devices-alphabet-apple-among-others-1029566080"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -21,22 +21,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Insights on the IoT Chip in Healthcare Global Market to 2025 - Key Drivers and Restraints"
-    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
-    publishedDateTime: 2020-09-07T19:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-iot-chip-in-healthcare-global-market-to-2025---key-drivers-and-restraints-301125109.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 45
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "cc3b/tCVg7vi9F1jxYGQt1Kwk+ZRDzqfCD3edakJYAVa30z0KByjnE5xA2WWzMA11V/UAVA5foMZcaD1BOTNXQLP+hSFB1OUubvScWjoJxc9TQYvFzOGJ9plojPbVyqAqbEUgPHIuD98UvQaZl4qCBE8QOPTNzuXUe9pH3UV8DEtZGTHC7r3FECl5ncs3b4sOtV0oFdlMoQIZoRPIF3RUXimyQP3Y6nSWwplXWeylIpjw20BMBf+Omaemj+WL/HhSOJR7h1ZUPFtqosx9dQKt3U3kQx+zBprGLgorZ+mg+yq802qtlhGjT+AWsPgrBNCFDENkUZPX9MNdxHnQActzzXDh0KN5mPG/RKBCfkWPqk=;cgu+vG8q2N/GTo0Q8rzUzQ=="
 ---

@@ -130,6 +130,22 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Portland enacts most stringent facial recognition technology ban in US, barring public, some private use"
+    excerpt: "Portland City Council members voted unanimously on Wednesday to prohibit the public – and, in some cases, private – use of facial recognition technology."
+    publishedDateTime: 2020-09-10T13:39:00Z
+    webUrl: "https://www.foxnews.com/us/portland-facial-recognition-technology-ban"
+    ampWebUrl: "https://www.foxnews.com/us/portland-facial-recognition-technology-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/portland-facial-recognition-technology-ban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 72
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Wheeler-Hardesty-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Portland bans private and public use of facial recognition tech"
     excerpt: "The city of Portland, Oregon has unanimously passed an expansive new piece of legislation that bans both the private and public use of facial recognition tech."
     publishedDateTime: 2020-09-10T04:34:00Z
@@ -272,6 +288,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 36
+  - title: "In historic first, Portland bans corporations from using facial recognition tech on the public"
+    excerpt: "But Portland residents can still use facial recognition tech, like the kind found in iPhones and Nest cameras."
+    publishedDateTime: 2020-09-10T11:18:00Z
+    webUrl: "https://www.fastcompany.com/90549036/in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public?partner=feedburner"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 27
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-1-in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Portland passes unprecedented ban on facial recognition tech, despite $24,000 Amazon lobbying effort to kill initiative"
     excerpt: "Portland lawmakers unanimously passed a sweeping ban on facial recognition technology, becoming the first city to bar both public and private entities from the controversial software and defeating Amazon’s bid to kill the measure."
     publishedDateTime: 2020-09-10T02:16:00Z

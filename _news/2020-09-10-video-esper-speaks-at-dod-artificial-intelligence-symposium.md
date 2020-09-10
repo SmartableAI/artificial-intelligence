@@ -24,22 +24,6 @@ images:
     height: 853
     isCached: true
 
-related:
-  - title: "Secretary of Defense Remarks for DOD Artificial Intelligence Symposium and Exposition"
-    excerpt: "Defense Secretary Dr. Mark T. Esper provided lunchtime keynote remarks at the virtual 2020 Department of Defense Artificial Intelligence Symposium and Exposition."
-    publishedDateTime: 2020-09-09T16:23:00Z
-    webUrl: "https://www.defense.gov/Newsroom/Speeches/Speech/Article/2341130/secretary-of-defense-remarks-for-dod-artificial-intelligence-symposium-and-expo/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 32
-    images:
-      - url: "https://media.defense.gov/2019/Aug/07/2002167801/1280/1280/0/190807-D-EX074-006.JPG"
-        width: 1280
-        height: 721
-        isCached: true
-
 secured: "zaZ1ovih6DntqZWZZ9RmcjFyxiyp/jAqgHRs421/Z4/MpCONhMcrQ5QwjXgeYWwbl6U+i5dzBzHQoRQ0f/ArY/cJ1NOwkGeLLZWc8D4hQmY/OL1cqWd03yHApPOFzuUFtoqvyApDlqmN2mhbRrQDfg30NsCEFfjp9fif8Mh3GZBNsFBwckjtVvuqXAVeOKijZhcTyPRT0OTJmCOo5RAtiHtXHzglBAP3pb3WOhGBEFEM33lHQnR3cRJNGP8su1xbmw0UOiPDrF+H2dxUaJdIWfmz5fWn7rfYkEGucrRHVKlNrOZcFNfy1GZgMGaN+q2Q2H2GgcOitG8fscqlaG4bS9IdL9DDDQZ/1K5Vf2mS5f1p8KkvPd10YdZK99gyMESL88bbp4Jmom71ATEr+vqaq/F55BtKM8P7kvCwB1cPH4C5taWkBOIvAV+LyyEuiN+tpub+qApj9NBc5BdakHCrYKSVj+0sU94YSX+FNIG5ejYCQz60BsQoth678XF0lTxr4+Js4XY49MmF3gYgKOk1zYLxJxY5tLw8GvvC58OpEjg=;2fpFq/r0szElZ66Ovy+IlA=="
 ---
 

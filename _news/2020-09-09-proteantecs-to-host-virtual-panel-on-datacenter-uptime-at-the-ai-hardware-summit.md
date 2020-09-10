@@ -1,29 +1,29 @@
 ---
 category: news
 title: "proteanTecs to Host Virtual Panel on Datacenter Uptime at the AI Hardware Summit"
-excerpt: "PRNewswire/ -- proteanTecs, a leading developer of Deep Data solutions for electronics' health & performance monitoring, will be participating in a"
-publishedDateTime: 2020-09-09T14:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-301126383.html"
-webUrl: "https://www.prnewswire.com/news-releases/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-301126383.html"
+excerpt: "PRNewswire/ -- proteanTecs, a leading developer of Deep Data solutions for electronics' health & performance monitoring, will be participating in a virtual panel discussion at the AI Hardware Summit 2020."
+publishedDateTime: 2020-09-09T14:55:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606"
+webUrl: "https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606"
 type: article
-quality: 34
-heat: 34
+quality: 64
+heat: 64
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1251051/proteanTecs_at_AI_Hardware_Summit_webinar.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
-
-secured: "IFVLChj0aZjLK7MHXeBiwlJ3nkjIcUseXzkfRwhQHf0ThJFtdc8inNryHYZZyt2Kt11eaGcRQTGvawaVsLRjRsBSorRiY2hUffmBBwuUPMIf9XTufGoh77qLPP3XIzOlRT7cMS31wHWaep7JyreWsLTgQRiuNYlARSFIsOELAwMuYwOIxkKwHe1IIpYSXZsY9ojRyJpLjsBXTVAdhPee8tpYRp/Vh+bmivdKgPygsPSP3AAy69JC93ty5bLTD09U8g1C919yjtZbj+8tXWjqkVv4Is8apzo30ZZfmiWBb1VahnuU8OMAOMqH2CnRRRHle1mnokLPlfU5Jty8bt71NvPYZk2b+hX9Eyei5mId3gA=;unWOEQK0Sttp5wz3K7VkHA=="
+secured: "UQdJcZCWmVqUduzPi7Av6S3fULPNgdPip401064hXq5b0+K1m0b9G8uWNE9Frld9SS/4Rq83k5/oUbzZ2vtoM3uH5IHtq1hxIHZhfX4iKTxPz4a4ivyovmSDOzHWeX2SKZxOUq0DjoRU+WnbB6BtgC6Ai1T4jf0ABH/yrk180ZFdJ8t4utSJJOCOtvjlt4aSNG08rodMDFf4RBZavRNbB15O28B7FBoftI62rT7tK8JtG1XVpnhG2LyyXPBfzq597MBAgmAOrrHibfqtOGuUCK0UaWN05fmeI1fjBQt7+z925l1wkhWlcOVWo+hVshkLcUqkELSYq3hdibwtRtL+9rTZjar3pqSgpzkJort4SGE=;4Guwla6yFMR1YXoFCvYcAA=="
 ---
 

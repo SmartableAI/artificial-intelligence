@@ -63,6 +63,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Portland becomes first US city to ban companies from using facial recognition in public places"
+    excerpt: "Portland is the first city in the US to bar both businesses and public agencies from using facial recognition. Will the rest of the country follow its lead?"
+    publishedDateTime: 2020-09-10T12:02:00Z
+    webUrl: "https://thenextweb.com/neural/2020/09/10/portland-becomes-first-us-city-to-ban-companies-from-using-facial-recognition-in-public-places/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/09/10/portland-becomes-first-us-city-to-ban-companies-from-using-facial-recognition-in-public-places/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/10/portland-becomes-first-us-city-to-ban-companies-from-using-facial-recognition-in-public-places/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 77
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-10T112334.280-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Portland, Ore. passes first-of-its-kind facial recognition ban"
     excerpt: "Along with banning city agencies from using facial recognition, the Portland City Council has banned private enterprises from using the technology in public spaces."
     publishedDateTime: 2020-09-10T00:59:00Z

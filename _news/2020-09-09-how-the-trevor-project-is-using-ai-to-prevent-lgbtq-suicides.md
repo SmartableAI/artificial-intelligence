@@ -3,11 +3,11 @@ category: news
 title: "How the Trevor Project is using AI to prevent LGBTQ suicides"
 excerpt: "Over the past three years, the nation’s largest suicide prevention organization for LGBTQ youth has undergone a major tech overhaul, most recently using machine learning to assess high-risk outreach."
 publishedDateTime: 2020-09-09T11:00:00Z
-originalUrl: "https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides?partner=feedburner"
-webUrl: "https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides?partner=feedburner"
+originalUrl: "https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides"
+webUrl: "https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: -1
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: fastcompany.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -24,6 +23,24 @@ images:
     height: 720
     isCached: true
 
-secured: "YEE4MtQJzD8eoBOzYMGjUYiwfY6rzkH6+rzAn+Xlwufyu++kncvCjkUqIBtOOiC2OBTgXa7IqDe/0d8y75/XT14eZR9SsiGRThFRiUCx+/GZpVH9+fyRa20g/svLjVia5MJAzjpEjYNiFtAhBIlsnOTCfNPc1Wae3yDvpfVBH8HxwkyxRk4Vn13x97Z8x48bHChdb87jbe4QrxKbulXhpEtWJ1JBqChZJH9BiU9OTyCilPdY7LrZIKYPfEYwwRBfDzV7yTqPVmkhASiQV+YwA78HO61o1K3eRvncdrX4uLCKi4pzmYCp1fb3AuzS8ADEVCSjcp9A/XEaynPJX1VqZlNikTtytXR6RSjnf/8yi4M=;/efKcssBRWtWuD1Odh0dvQ=="
+related:
+  - title: "How the VA is using artificial intelligence to improve veterans' mental health"
+    excerpt: "I remember when I was in the military I had to talk to leaders [who] would chastise service members for getting medical support for mental health,” said Becker, who served at the Navy's Bureau of Medicine and Surgery,"
+    publishedDateTime: 2020-09-08T20:52:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/mental-health/515536-how-the-va-is-using-artificial-intelligence-to"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/mental-health/515536-how-the-va-is-using-artificial-intelligence-to?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/515536-how-the-va-is-using-artificial-intelligence-to?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 55
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_mentalhealthhotline_8820istock.jpg"
+        width: 1440
+        height: 880
+        isCached: true
+
+secured: "3v/eL/IxfuESG/U+q0fskLtM7fy9/6qk8P109b4nWuxAjw0cUatFlTsGNmzC11eMDBH88xVzjVqwOEVpw6uvF+OBwa10XfIKye19a3Fy1vC1r6AdnamAKwrku5uzL00dtsaakbTAAI3+R8pCxvMN0gsAHjPCcOYs0bGxxT70f+CsUZm6O+fLOj+0hC32UREvzzF5QxXsFb0jsm/y6O8SfaFrV74h9pEp40oFWEs3ieYFVmBXVmy3pUfZmH7kjbkyn09DmbeqPATNKFGbsK+Pj4CYK6IANbn/fjFkIa1pOztiS6Y6eHjqiZZ/guSa8Fg4en9pr3w3Fh+X0glQfGROV89xAS9K7oFpRKrEm6ld6q0=;E1YfNJ4mVe0lLxg+KgzBZw=="
 ---
 

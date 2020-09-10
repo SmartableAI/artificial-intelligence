@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop
 ampWebUrl: "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/amp/"
 type: article
-quality: 83
-heat: 83
+quality: 100
+heat: 110
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/09/orchard_social-e1599736489458.jpeg?w=1200&#038;strip=all"
@@ -30,6 +31,17 @@ images:
     height: 600
     isCached: true
 
-secured: "vZ7FL2XzfOqNZ9GXi4ECYofjHBbz/TQ3ZLHWpBCapAyv5SsAivM6W459aQKK696OcuIbrs4+tyuQNiKrcBPyTO6jSdaflZpf1lT7f6ISBl1TYbxitM5gsfwgQoKsMqmRLviSDnuWtoUQzbSYAnSx2XfMpxcVyHcIzDu6do0YSxuzquZcIW6qdh43jjYCWlTX/rhxJNy4nPcxw+I97K47GjGvj+xscxkeyR+wvvco9kGCWbQDFbm3yUl1Ltb0VqxNp2v7m/lAoJP7VxsPtJh57RXubHJt9g5U0maE6TRKuPiSszX9xudVAlmJKtF8tG6628RTdZGVAkBIzJKERASJmQSIt2iUpn22MPzu4hrJMR0=;1FuOTJcvA4BjCFtGI4viGg=="
+related:
+  - title: "Orchard raises $69 million to develop machine learning for buying and selling homes – (Details)"
+    excerpt: "Orchard has raised $69 million in venture capital to continue the development of its machine learning technology that aims to make buying a home less complicated. Revolution Growth led the round of funding,"
+    publishedDateTime: 2020-09-10T12:12:00Z
+    webUrl: "https://elmoudjaweb.com/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes-details/"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 7
+
+secured: "CuGZwNdYcGZihJJFO3VG5RkzuBKV30bRInGTjnHLwa/5va++FVkvf6L1sg8dRp/SMD+goNFDKYaKDQuB/9s00FWE1tUhVIt7j45+c2CHkliRNGp/uMsOOjoB8Li0XqfAf/XeOEaKei2TBPrb7kRBBNucn1YqRNnAgJq6kT3X4wmIXYQ8ALstN2IVVcLZAEEjBaBl16pa+CvxcEZaBlBBw7X2oNaO+WP1xeg8mffdzOO72potRUgwKdKwhNqTAqOaWSQ1/6Dc5iR5N0tMzdmBlwvq7idNArxRZhehHefP3d0UZ1lrbEcJrlKtvhaSzg6rC0fqG3KDrv/b6v+m/bdYIHvSpFcmMwZiCDlTVXkDVN4baEHLGP2eakDHMzBkRr6TVFPRFmJQtSMFegzJc/t3fkPxn093Dl/xHSct4wl9t2PuU0E7l8pOPsG4V473vjGghdXCxWGLsPlliTNJirmcSahD0gVDJn2EUZMgS0IddpfsKFc1xzyvR0Xeb+llconYW5JJ+1kTdM2tECR53ZuwMQ==;bsIK8Ka9xUhsd6N4Rf5hNg=="
 ---
 

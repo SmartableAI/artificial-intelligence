@@ -24,6 +24,22 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "Varian Announces Goshen Center for Cancer Care Treats First Patient with Ethos® Therapy, Expanding Access to Personalized Cancer Care"
+    excerpt: "PRNewswire/ -- Varian (NYSE: VAR) today announced the Goshen Center for Cancer Care in Goshen, Ind., treated its first patient with Ethos™ therapy,"
+    publishedDateTime: 2020-09-10T12:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/varian-announces-goshen-center-for-cancer-care-treats-first-patient-with-ethos-therapy-expanding-access-to-personalized-cancer-care-301127211.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+
 secured: "QOXNg1AsUeOWye/57KTKPUzEV7WSWgjjOsgKRIrcWM0LCfIQIGglRf31XN+qnJe6nkgqapRGqfzjXmoNaIG+mqJVbOpGDKvWKnAoE1ZUFmnHh900yGWqKakHI8qzaqGZaOEf6wjJ75WKgIr4GXX/9S7xa3FRtd2J/qzKqMAj4dKWa53uC1jdrjteuK+S1TmcvwdU1Z1ngZY66KTTjZhwkYPzXBH6ZmrV7+OANzSpd5NMYwKl6zeM2lqhR3uEah+JfqZ9XKqIjpxul0dy9pc1Mhy+Su56UhJRi5Ac7DoeiWNw1V6grE+BHhzCdwtMiqPo9eH88QDM0Ym35Q4UrgDJXLt/IFB7tvvPQnBwM/R1ixA=;gGAdT9ueqetwRezuE02Vsw=="
 ---
 

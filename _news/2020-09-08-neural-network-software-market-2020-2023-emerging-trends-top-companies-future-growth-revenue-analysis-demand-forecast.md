@@ -43,31 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "COVID-19 Outbreak- Global Artificial Intelligence in Construction Market 2020 Key Players, Industry Overview, Supply Chain and Analysis to 2026"
-    excerpt: "The global “Artificial Intelligence in Construction Market” report can help to understand the market and strategize"
-    publishedDateTime: 2020-09-10T02:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-outbreak--global-artificial-intelligence-in-construction-market-2020-key-players-industry-overview-supply-chain-and-analysis-to-2026-2020-08-26"
+  - title: "Global Machine Learning in Retail Market Detailed Analysis Report by Market Dynamics, Size, Growth, Covid-19 Impact and Forecast to 2024"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning in Retail"
+    publishedDateTime: 2020-09-08T13:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-retail-market-detailed-analysis-report-by-market-dynamics-size-growth-covid-19-impact-and-forecast-to-2024-2020-09-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Explore Trends and COVID-19 Impact on Russia and NATO Artificial Intelligence in Military Market 2020 Research Report and Industry Forecast till 2026"
-    excerpt: "Pages PDF Report] Facts & Factors (FnF) published a market research report on “Russia and NATO Artificial Intelligence in Military Market: By Size, Share, Growth Factors, Top Players, COVID-19 Analysis and Forecast,"
-    publishedDateTime: 2020-09-07T11:02:00Z
-    webUrl: "https://galusaustralis.com/2020/09/964076/explore-trends-and-covid-19-impact-on-russia-and-nato-artificial-intelligence-in-military-market-2020-research-report-and-industry-forecast-till-2026/"
-    ampWebUrl: "https://galusaustralis.com/2020/09/964076/explore-trends-and-covid-19-impact-on-russia-and-nato-artificial-intelligence-in-military-market-2020-research-report-and-industry-forecast-till-2026/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/964076/explore-trends-and-covid-19-impact-on-russia-and-nato-artificial-intelligence-in-military-market-2020-research-report-and-industry-forecast-till-2026/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 0
 
 secured: "u7aMHv9EhJTRi7gFM9cvahp3RPnRgITV802bJAt7xLNimUBXEk9JAzSGd1Tx2pLGVhrA5Y0D0zrrRhg5oVgRtIoXl7nKMUoC7C4+m7OJGaMn5myCnWQq51suSato5xTyP0CfV0F68En/CHkL6Av+zUv3AYAbu6GaHLwSjUxSxiinV32vObrt8U3TsiBSihzzypVN/PSG6aX9JzPBy16/jC18sEyQn7AJAT2z9kbVApbp2E++xKu6nq4oDVhVQw36la9evqIpllHrsuiVdH9kndapeUl5Qg43TJsuCyeJ9ufiePDvn/38TwVpfI67d5/AitBGzvldpePmYQ22UT0Ace3Kr4PmPNhOT1O1sd4mqN0=;pyTqyVMFmz/dUZNa3EsWfA=="
 ---
