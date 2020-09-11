@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-10T21:29:00Z
 originalUrl: "https://www.nasdaq.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial"
 webUrl: "https://www.nasdaq.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial"
 type: article
-quality: 33
-heat: 33
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 secured: "+5a8t+kpqM2BZE0u7HbNmNT8fYgox6h2fpBFYyW4FrbrE+2D7aSKfEPG5P3TO3Xlz/+FZW5M1cry6GWEekbpe1YraQxXmKCTfbeWYpHFetyIk9e2EzV2AMO1R+zoKyRcCeNhtGFRJUkjMTQRMCdS+3BRfqWCpIiYZxGTgMl1YmHWcgiO5LngcLeTYsOdNCZXxiiIBKYtZq/DJsbsgg0l53rv5Bl95Qqr8jFxyEKel+ba93JRvSz/XhYiFB8Nak/+wP9rdTtzppCUTaZTnSq6p/eAKPoYpzCNrSDmMb/JGKzuviCzUchfM3+IAHp242knasQLtlhEIaBNIFGUUWT3cbti2OC8h5WTq1VuGbpdPgE=;Qp8/UMSHqwJFruCsjf3tdg=="
 ---

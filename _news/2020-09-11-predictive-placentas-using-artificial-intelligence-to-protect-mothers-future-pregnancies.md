@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-11T03:18:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2020/09/200902114358.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/09/200902114358.htm"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "This AI analyzes placentas to predict complications in the next pregnancy"

@@ -26,33 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Image Recognition Market Growth Opportunities, Industry Challenges, Size, Future Trends and Demand Analysis by 2026"
-    excerpt: "The global image recognition market is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2020-09-08T11:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-growth-opportunities-industry-challenges-size-future-trends-and-demand-analysis-by-2026-2020-09-08"
+  - title: "Global Wearable Artificial Organs Market Is Expected to Reach USD 17.48 billion by 2027 : Fior Markets"
+    excerpt: "As per the report published by Fior Markets, the global wearable artificial organs marketis expected to grow from USD 5.26 billion in 2019 and to reach USD 17.48 billion by 2027, growing at a CAGR of 16."
+    publishedDateTime: 2020-09-08T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-wearable-artificial-organs-market-is-expected-to-reach-usd-1748-billion-by-2027-fior-markets-2020-09-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Image Recognition Market May Set New Growth Story | Qualcomm, Honeywell, Hitachi"
-    excerpt: "A New business Strategy report released by HTF MI with title Global Image Recognition Market Study Forecast till 2026 . This Global Image Recognition market report brings data for the estimated year 2020 and forecasted till 2026 in terms of both,"
-    publishedDateTime: 2020-09-08T15:35:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266337205/image-recognition-market-may-set-new-growth-story--qualcomm-honeywell-hitachi"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 19
-    images:
-      - url: "https://cdn.bignewsnetwork.com/voa1599509105.jpg"
-        width: 630
-        height: 420
         isCached: true
 
 secured: "IOrJVsO0ohFzfoOUTIvqFb21qJ2Hutko1iRo2c8WX79ET3O1iTheOmJQ5oLRKBib8xR3/+RHz9SmR7CAuFwWjBSA8bYXn2UdWxIIdRosGnxK+xyKUHq7s/eJrUfGOPAC3C4JP456hP+/Amb+FlHmy7qwLoemXS1K8awoduryQH1aAOqjekqERwg0CZNF/QHSQuXF1rrTq/Z7LAKby9e0oAuF2aULEFSM/2bA3YkM7TE1Ic4l6Ntfw72OQX4wSbV2md8ZvZqKbAXcnedjeq05zVpXdyt8JZ9UKjSeTfmdQmlVYvomWNK759XIqtFcFEs4LkqAHlu6NKoh5vQAXBwXi1rKbuY64zDEGaBqHZ3UZms=;paK89CXScv3FYsxWWHED3A=="

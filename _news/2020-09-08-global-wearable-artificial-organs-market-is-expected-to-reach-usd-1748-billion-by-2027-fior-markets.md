@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-wearable-artifici
 webUrl: "https://www.marketwatch.com/press-release/global-wearable-artificial-organs-market-is-expected-to-reach-usd-1748-billion-by-2027-fior-markets-2020-09-08"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Wearable Artificial Intelligence (AI) Market To Be Worth US Dollor 185 Bn By 2027"
-    excerpt: "The global Wearable Artificial Intelligence (AI) Market is estimated to grow at a healthy CAGR of over 27% from 2020 to 2027 and reach a valuation of over US$ 185 billion. The report provides an analysis of Wearable Artificial Intelligence (AI) Market for the period 2016-2027,"
-    publishedDateTime: 2020-09-06T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-to-be-worth-us-dollor-185-bn-by-2027-2020-09-01"
+  - title: "Global Facial Recognition Market 2019-2028: Facial Recognition Application in Mobile Security and Drones & Emergence of Facial Analytics - ResearchAndMarkets.com"
+    excerpt: "The \"Global Facial Recognition Market 2019-2028\" report has been added to ResearchAndMarkets.com's offering. The global facial recognition market is expected to witness a CAGR of 14.30% over the forecast period from 2019-2028."
+    publishedDateTime: 2020-09-08T14:12:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200908005722/en/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mms.businesswire.com/media/20200908005722/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
-        height: 630
+        height: 627
         isCached: true
 
 secured: "haTPI5l867tWo8EUyVoxOfTfpKn7cF6ln5BeHjC+aeLP7jKv7PbC94+15NTbDs7KHJ42Iq231NIML4GsluqLePRR0hM3m3PO/5Q8Ewm10sGZCGPeyVBlgPDWW0QS5Hetjr2Mf/VjC9tuRPnrIGnfMaE1Zv1hk8dwwfpbRkWV/zie9JkfmiMihSOWNKNwqp/iaHUU0HhrkwdH9PZvKisgixKx/6tH5t6J6yebEkEq6FTFAKkTJDyudwituaJejAS1TlhmSohUyyyCFkWgCVAPXMSudUD6fdDP0OChnzP+vFJLR5ZWz5g8jYxAvuD8ELaPwGOFJVmcABHyWAFIrGSp3OXbNndLmOeRubA/Msb64H8=;tbboQ0wJRDnuRYn7X53NDw=="
