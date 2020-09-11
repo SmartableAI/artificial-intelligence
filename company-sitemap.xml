@@ -601,12 +601,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/company/bluehexagon.ai/</loc>
-    <lastmod>2020-09-07T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/ai/company/bossanova/</loc>
     <lastmod>2020-09-07T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -926,6 +920,12 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/company/bearrobotics.ai/</loc>
+    <lastmod>2020-09-07T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/company/bluehexagon.ai/</loc>
     <lastmod>2020-09-07T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
