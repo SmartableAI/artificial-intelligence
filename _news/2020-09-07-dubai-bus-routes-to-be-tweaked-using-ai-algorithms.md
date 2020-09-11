@@ -36,20 +36,6 @@ related:
         width: 466
         height: 262
         isCached: true
-  - title: "RTA experiments with AI, machine learning algorithms in bus routes"
-    excerpt: "Dubai’s Roads and Transport Authority (RTA) has started experimenting the use of artificial intelligence (AI) technologies (machine learning algorithms) in plotting bus routes."
-    publishedDateTime: 2020-09-06T09:41:00Z
-    webUrl: "https://www.gulftoday.ae/news/2020/09/06/rta-uses-ai-machine-learning-in-planning-bus-routes-based-on-usage"
-    type: article
-    provider:
-      name: The Gulf Today
-      domain: gulftoday.ae
-    quality: 54
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/lifestyle/2020/9/6/rta-bus-1.ashx?h=450&w=750&hash=B2EF636D9422E6CA25D7F1BCB2E75A1C"
-        width: 750
-        height: 450
-        isCached: true
   - title: "RTA begins using machine learning in planning bus routes in Dubai"
     excerpt: "The system allows the transport authority to plan the routes on the basis of their usage by commuters every day. By implementing this technology, the RTA aims to revamp 158 routes used by 2,158 buses in Dubai,"
     publishedDateTime: 2020-09-07T04:26:00Z

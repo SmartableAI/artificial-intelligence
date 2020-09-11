@@ -60,9 +60,9 @@ related:
   - title: "Microsoft joins Nasscom to skill 10 lakh students in AI by 2021"
     excerpt: "Microsoft on Thursday joined hands with industry-driven learning ecosystem Nasscom FutureSkills to launch a nation-wide initiative that aims to skill 10 lakh students in Artificial Intelligence (AI) by 2021."
     publishedDateTime: 2020-09-10T09:14:00Z
-    webUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
-    ampWebUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
+    webUrl: "https://www.sify.com/news/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-education-ujkjlMhdhfahb.html"
+    ampWebUrl: "https://www.sify.com/news/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-education-ujkjlMhdhfahb.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-education-ujkjlMhdhfahb.html"
     type: article
     provider:
       name: Sify.com

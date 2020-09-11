@@ -41,6 +41,15 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Predictive placentas: Using artificial intelligence to protect mothers' future pregnancies"
+    excerpt: "New technology can decrease healthcare costs, allowing a majority of mothers and infants to have access to a microscopic placenta examination, according to a new report."
+    publishedDateTime: 2020-09-11T03:18:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/09/200902114358.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 37
 
 secured: "tDzdtSVr2qvaotqBKxF5v2Zxxs7avPDxTJUB5CRfgqhzNKqf1GFMsyAiWqXKcZY52QSG/nTFvzhE28P76xk4AaZc+0ZUCT048Wpvf7ATTcgXHw1Mb0357oWLQgAsbysYOdmqRaauP4pygQI6nVXPQI5XwZbrVW4297fVAqKe0IlNh/hyHjMKw3UuoFQRsJE6j8YbppqX9bqKzjVXN+XA/5LVHwV2IzhdYcHV6I4b3FRIeIzdCNnRNjfQljJVQF4RWcl84XolBA7Ib+oVMtTRVRVUFYYDy/ey4ez0lgCLdlSEzpJ4YSqQuA8xeaGNlYTmhmMMYrR+wCsCgP5rtXbXB7TTk6EiB7KCSdtO6zq5u1AGCtzsEqT/xKaVj/kFZv6eDCDAqIImkX/h+Al7/4MYJ4C2p8k3S11TssLOTH+G5vfxZJuD4NVozYUirrnwPGTbrr0zVcQi7IDPw4lXTrIZXgI4Xg5OLRQ3KwAnQxR1LXeykFgP+FmHy7hx0EnTHCrNPYNn7mdUtM1ML5s9YgFNalUPFXFyr3xoH6Gt0VFGN+M=;5Edg9fyuRWICmp1Nn0w+7A=="
 ---

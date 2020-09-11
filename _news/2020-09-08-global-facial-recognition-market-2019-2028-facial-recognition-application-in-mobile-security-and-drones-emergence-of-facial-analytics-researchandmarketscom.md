@@ -26,10 +26,10 @@ images:
     isCached: true
 
 related:
-  - title: "Speech and Voice Recognition Market : Research Consumption, Companies , Industry Report Analysis and Future Demand"
-    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
-    publishedDateTime: 2020-09-07T20:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-research-consumption-companies-industry-report-analysis-and-future-demand-2020-09-04"
+  - title: "Image Recognition Market Growth Opportunities, Industry Challenges, Size, Future Trends and Demand Analysis by 2026"
+    excerpt: "The global image recognition market is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-09-08T11:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-growth-opportunities-industry-challenges-size-future-trends-and-demand-analysis-by-2026-2020-09-08"
     type: article
     provider:
       name: MarketWatch
@@ -40,21 +40,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Speech and Voice Recognition Market Investment Plans, Growth Opportunities And Strategic Business Model"
-    excerpt: "Global AI in Fintech Market Investment Plans, Growth Opportunities And Strategic Business Model; In Depth Analysis and Survey of COVID-19 Pandemic Impact on Global 1122"
-    publishedDateTime: 2020-09-09T16:50:00Z
-    webUrl: "https://galusaustralis.com/2020/09/980443/global-speech-and-voice-recognition-market-investment-plans-growth-opportunities-and-strategic-business-model/"
-    ampWebUrl: "https://galusaustralis.com/2020/09/980443/global-speech-and-voice-recognition-market-investment-plans-growth-opportunities-and-strategic-business-model/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/980443/global-speech-and-voice-recognition-market-investment-plans-growth-opportunities-and-strategic-business-model/amp/"
+  - title: "Image Recognition Market May Set New Growth Story | Qualcomm, Honeywell, Hitachi"
+    excerpt: "A New business Strategy report released by HTF MI with title Global Image Recognition Market Study Forecast till 2026 . This Global Image Recognition market report brings data for the estimated year 2020 and forecasted till 2026 in terms of both,"
+    publishedDateTime: 2020-09-08T15:35:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266337205/image-recognition-market-may-set-new-growth-story--qualcomm-honeywell-hitachi"
     type: article
     provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 24
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 19
     images:
-      - url: "https://gnghockey.com/wp-content/uploads/2020/09/Market-To-Set-Magnificent-Growth-2.jpg"
-        width: 800
-        height: 480
+      - url: "https://cdn.bignewsnetwork.com/voa1599509105.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "IOrJVsO0ohFzfoOUTIvqFb21qJ2Hutko1iRo2c8WX79ET3O1iTheOmJQ5oLRKBib8xR3/+RHz9SmR7CAuFwWjBSA8bYXn2UdWxIIdRosGnxK+xyKUHq7s/eJrUfGOPAC3C4JP456hP+/Amb+FlHmy7qwLoemXS1K8awoduryQH1aAOqjekqERwg0CZNF/QHSQuXF1rrTq/Z7LAKby9e0oAuF2aULEFSM/2bA3YkM7TE1Ic4l6Ntfw72OQX4wSbV2md8ZvZqKbAXcnedjeq05zVpXdyt8JZ9UKjSeTfmdQmlVYvomWNK759XIqtFcFEs4LkqAHlu6NKoh5vQAXBwXi1rKbuY64zDEGaBqHZ3UZms=;paK89CXScv3FYsxWWHED3A=="
