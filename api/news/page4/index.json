@@ -2,6 +2,136 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-09-computer-chips-that-can-read-our-brains-have-moved-from-sci-fi-to-reality-for-better-and-worse.md",
+      "title": "Computer chips that can read our brains have moved from sci-fi to reality, for better and worse",
+      "excerpt": "The near-term applications will mostly benefit society, but the danger of a dystopian future is becoming more real, too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575?cid=sm_npd_nn_tw_ma",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575?cid=sm_npd_nn_tw_ma",
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_37/3410638/200908-arnold-schwarzenegger-total-recall-ew-626p_e922fd2ecd3b951d1378390b3b409eef.jpg",
+          "width": 2500,
+          "height": 1682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1239575",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1239575",
+      "publishedDateTime": "2020-09-09T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-inside-politics-boris-johnson-unveils-governments-law-breaking-bill.md",
+      "title": "Inside Politics: Boris Johnson unveils government’s law-breaking bill",
+      "excerpt": "What about the latest of Boris Johnson’s semi-regular political earthquakes? There’s plenty of spilled milk to cry over as his government introduces a new bill to override the withdrawal agreement today – the one that breaks international law.",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-brexit-internal-market-bill-international-law-withdrawal-agreement-b420859.html",
+      "featuredContent": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
+          "width": 414,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work.md",
+      "title": "3 Ways AI Will Continue To Accelerate The Transition To Remote Work",
+      "excerpt": "In response to the Covid-19 pandemic, businesses of all shapes and sizes have had to quickly adapt to remote work. Many experts predict that this year’s rapid transition to remote work constitutes a point of no return.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/",
+      "originalUrl": "https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47310d25c1f0feb8c084b9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/amp/",
+      "publishedDateTime": "2020-09-08T21:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-nvidia-rtx-3090-3080-3070-gpu-price-release-date-and-specs-detailed.md",
       "title": "Nvidia RTX 3090, 3080, 3070 GPU: Price, Release Date, And Specs Detailed",
       "excerpt": "Nvidia revealed its new RTX 3000 line of Ampere-powered GPU earlier in the month--the RTX 3090, 3080, and 3070 cards. The new 3000 series is the second generation of RTX graphics cards that will run features like real-time ray tracing with much higher performance than current RTX cards.",
@@ -39,6 +169,56 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors.md",
+      "title": "Aeva partners with auto supplier ZF to produce key self-driving sensors",
+      "excerpt": "Aeva Inc, a Silicon Valley start-up working on a crucial sensor for self-driving vehicles, and German automotive industry supplier ZF Friedrichshafen AG said on Tuesday they were partnering to put the sensors into production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-aeva-zf-friedrich-idUSKBN25Z2LO",
+      "originalUrl": "https://www.reuters.com/article/us-aeva-zf-friedrich-idUSKBN25Z2LO",
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200908&t=2&i=1532618405&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG871EY",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN25Z2LO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25Z2LO",
+      "publishedDateTime": "2020-09-08T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -381,47 +561,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors.md",
-      "title": "Aeva Partners With Auto Supplier ZF to Produce Key Self-Driving Sensors",
-      "excerpt": "(Reuters) - Aeva Inc, a Silicon Valley start-up working on a crucial sensor for self-driving vehicles, and German automotive industry supplier ZF Friedrichshafen AG said on Tuesday they were partnering to put the sensors into production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors?context=amp",
-      "publishedDateTime": "2020-09-08T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -1013,137 +1152,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-facial-recognition-technology-for-pets-is-launched-in-atlanta.md",
-      "title": "Facial recognition technology for pets is launched in Atlanta",
-      "excerpt": "In addition to Finding Rover, LifeLine has implemented a \"Lost & Found\" matchmaking program where they check pets reported as lost against those in shelters daily. A new Lost2Foun",
-      "sourceUrl": null,
-      "webUrl": "https://findingrover.com/",
-      "originalUrl": "https://www.11alive.com/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3",
-      "featuredContent": null,
-      "heat": 359,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "11Alive",
-        "domain": "11alive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture.md",
-      "title": "Artificial Intelligence in Retail Market 2020-2023: Demand Analysis, Type, Statistics, Regions, and Industry Key Manufacture",
-      "excerpt": "Artificial Intelligence is anticipated to disrupt every business and enterprises across the world. One of the major factors that drive the growth of artificial intelligence market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture-2020-09-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture-2020-09-08",
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-ai-based-video-analytics-making-supply-chains-smarter.md",
-      "title": "AI-based Video Analytics Making Supply Chains Smarter",
-      "excerpt": "Supply chain management, which basically refers to the handling of various processes comprising the production flow, all till the end product is finally delivered to the customer, has become smarter using the next-gen video analytics technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/355869",
-      "originalUrl": "https://www.entrepreneur.com/article/355869",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1599547066-web-4869856.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/355869",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/355869",
-      "publishedDateTime": "2020-09-07T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

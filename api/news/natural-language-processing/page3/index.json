@@ -2,6 +2,38 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-17-google-open-sources-its-language-interpretability-tool.md",
+      "title": "Google open sources its language interpretability tool",
+      "excerpt": "Google AI researchers have made the Language Interpretability Tool (LIT) an open source platform for visualising, understanding and auditing natural language processing (NLP) models for the third-party developers.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/articles/Science/20200817/3610867.html",
+      "originalUrl": "https://news.webindia123.com/news/articles/Science/20200817/3610867.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-17T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-welcome-to-human-computer-co-creation-what-gpt-3-means-for-education.md",
       "title": "Welcome To Human-Computer Co-Creation: What GPT-3 Means For Education",
       "excerpt": "With a little training, it’s a writer, coder, composer, translator, and puzzle solver. It’s the Swiss Army Knife of AI from OpenAI ... is a deep learning language model that produces human ...",
@@ -1362,57 +1394,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-can-machine-learning-for-enterprise-security-advance-like-voice-recognition.md",
-      "title": "Can Machine Learning For Enterprise Security Advance Like Voice Recognition?",
-      "excerpt": "The generally touted answer for pinpointing an attacker is machine learning. Finding signs of an attack or attacker is a big data problem involving finding meaningful signs and an accurate understanding. Machine learning is seen as a way of finding ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea0f35fa37d800062b82f9%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/amp/",
-      "publishedDateTime": "2020-08-05T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

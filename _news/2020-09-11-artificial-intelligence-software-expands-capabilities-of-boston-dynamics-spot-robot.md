@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-11T14:33:00Z
 originalUrl: "https://www.vision-systems.com/unmanned/article/14179537/artificial-intelligence-software-expands-boston-dynamics-spot-robot-capabilities"
 webUrl: "https://www.vision-systems.com/unmanned/article/14179537/artificial-intelligence-software-expands-boston-dynamics-spot-robot-capabilities"
 type: article
-quality: 30
-heat: 30
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://img.vision-systems.com/files/base/ebm/vsd/image/2020/07/Boston_Dynamics__Spot_robot_at_an_oil_and_gas_facility.5f0e0f3cba809.png?auto=format&fit=max&w=1200"
@@ -23,6 +24,6 @@ images:
     height: 405
     isCached: true
 
-secured: "sRPR1x0vQ1FHDiDQPotA3YACDaUYnJwG6i7png0q0AA+/sXZwa/MrxCk5kmTCNk9PsZe454Ivyo7+pgmKPLQv0Y1QTn+JtmhD+Zwt3+9fNyQwkBnmeyRYKIExuksU2asBKfYXA+uveNCypSZq/fQ5ENSwQ6eM2WwaEmcZVgN82+sor0AvVOUwrccEx6ozjTyz0uEvLH7/D5mlKR95Z2zcqGD484l/VwrzqEgQ5iIRitQZ6H3y9VmEK8AenQ/QmTKq/vG8zX4VxZORc4aeAppJyuRlcgB0n+1PapsjDohekiTT95AQJZ+2tiwZ+LOcUTQQP6tO8oUYpEMJVJZvJaBDwFnaPH2TijtMjIGDR1nYK8=;HzbHyudTe0datx0AtKMKgg=="
+secured: "DLG7APLDFa/QTPPyN82OCADrs4FIbejlcf6+ditLeu4QGuNL3jgOyGHWAn1dGAfQDBXHSmqWD+1BIvNELGE8HVr0F2o7fjQRA2oonb1jiRc9BP8QD+8tLvq3LEWdOp7pYy2xw7seLr4PUcJwZDPDrnXyMRcjiwG5FD3v5lKZ1IcsTHeOgPqZIpQHsSPrQCOJ7ZKiH6o9RtHWV394vNhG0M0AbtbcxJenktdpEq+esNdmWjyo7NwIq30F6n9bFGJJ7aYWzLO8Z8BwuvufBGEo+XfJhOQLIx3FoFOdP3BFQDoiFEPs4IyDhEM3uu8KlcFn2J4SzzXpQI0fqBBT9TInO4cArMk8VTwgNOKOiHOcxTznzPKa1kLMdmtoiUAb21zW48v/8QbcL8NxkL3kengoiHKiwg8Y1LNNifBCvJ3hyvDu3KVVhNrwQBNL51w0ifMsHk/x3WbnBdTK+G/R75vBKcuxvvB6cMrj4eIblFyvn5Oqc7sXVDzbwXIG8Ck1oRP8PcQGMgn5ahUHzKPRz6iKfA==;DRb8gkzQLkAPoRXZp2PkHQ=="
 ---
 

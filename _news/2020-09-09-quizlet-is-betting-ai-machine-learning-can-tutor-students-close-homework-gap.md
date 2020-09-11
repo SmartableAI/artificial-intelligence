@@ -3,13 +3,13 @@ category: news
 title: "Quizlet is betting AI, machine learning can tutor students, close homework gap"
 excerpt: "Quizlet is launching Quizlet Learning Assistant, a set of new product features that will combine machine learning and learning science to better tutor students. Learning Assistant"
 publishedDateTime: 2020-09-09T16:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
+originalUrl: "https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
+webUrl: "https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
 type: article
-quality: 80
-heat: 90
+quality: 83
+heat: 93
 published: true
 
 provider:
@@ -21,8 +21,13 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
+
+images:
+  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/f30f7c49-236f-4c12-b59f-1d44a1e7a590/progress-example-1-progress-dashboard.png"
+    width: 1772
+    height: 1006
+    isCached: true
 
 related:
   - title: "Quizlet Introduces New AI-Powered Learning Assistant to Streamline Studying"
@@ -40,6 +45,6 @@ related:
         height: 360
         isCached: true
 
-secured: "AHlZrPi3CPoXQwAGZ4cNqK8HdjKsAPpHz3u6lzXhNdWMDfitDbGEv5sZp75qV/QuDz2NqjDfltkuyDl2RuBFxA0mk86vUMeDfkHdEf/KWJyQjYapcwddQIX8+ulLPlAd2FWSDDHYhBJaeXguoNa2rU8H5eNSvC/xAKCa7UNiMc9US/CVXaCZJL3JVqiOstLZQY/hfBMY+NkJaWTKI247IZPaCF2nYT05sAIN5STM0Vo3VdB0t56FNCS7Ey3Mi0WfGV6+fD8wvLw3xB3Y0DS80QvbOoThYt2Ny5Ga2HYkZRf/DARBHOLT7VK3+4JkBmj3QL32J4fscrdpoPQEdL2P0onPZ3wnWLUM3nBrXA0K/RFbaFOOd5NfpCVTDB+jWw26v42rv4KTjHgyb7FBuqOEar4Zj+ye5A6vkW8m37nSLsEVt1ldgvLH9AvidkXfZNbGZxbP8UIlqNS3JpewOaquY6YoicuySm5ZHTk5LsNIpvcAzqApySsdTo6olgEHoDz5YWHa8t/ACKifFGa3Hy+XaQ==;DyKMxxFJRkTUHBv8zouCnA=="
+secured: "juKVWkT56KgFp69qbukctc2l+DRVcNZvVR02dBcouQ1LphZCffFConm19kAdB3n1IyoYgjUulcW15ZoB/8o1oiajkMybfyJjvAI6klm15PBzpIFBApSPenBpJvr0Vc3ILSQEJIE/UzYg3yX8NWN1li2qYApElKyqax6YU3ls87CnTsPI1/wur6wMjE+QhbZ4yEEKYOz3FmLvPxdVTQqDZJkZQ69ql82ZrCuJ8FQP9v6Yj7I9JlAitD2lSXJ7Qf8pA+0FaRGR+f8uaItE3dNC4JH+BPC9FtCV/7+XiMC4L9NC2Me7q6VONKwwcqMPBTxEdSE+RBdzOMFBwIrmhe+e92e9V/YM5KO9KNVWvznAWGU=;3gmuZB48eQInPlfytUhlhQ=="
 ---
 

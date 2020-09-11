@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-11T14:50:00Z
 originalUrl: "https://www.finextra.com/newsarticle/36542/how-to-combat-payments-fraud-with-machine-learning-in-the-cloud"
 webUrl: "https://www.finextra.com/newsarticle/36542/how-to-combat-payments-fraud-with-machine-learning-in-the-cloud"
 type: article
-quality: 21
+quality: 23
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 related:
   - title: "Using Machine Learning to Combat the Coronavirus"

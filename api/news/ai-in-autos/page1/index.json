@@ -152,6 +152,56 @@
       ]
     },
     {
+      "path": "_news/2020-09-09-aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors.md",
+      "title": "Aeva partners with auto supplier ZF to produce key self-driving sensors",
+      "excerpt": "Aeva Inc, a Silicon Valley start-up working on a crucial sensor for self-driving vehicles, and German automotive industry supplier ZF Friedrichshafen AG said on Tuesday they were partnering to put the sensors into production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-aeva-zf-friedrich-idUSKBN25Z2LO",
+      "originalUrl": "https://www.reuters.com/article/us-aeva-zf-friedrich-idUSKBN25Z2LO",
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200908&t=2&i=1532618405&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG871EY",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN25Z2LO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25Z2LO",
+      "publishedDateTime": "2020-09-08T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-sea-tac-airport-rolls-out-self-driving-floor-cleaners-restroom-stall-lights-and-more-pandemic-safety-tech.md",
       "title": "Sea-Tac Airport rolls out self-driving floor cleaners, restroom stall lights and more pandemic safety tech",
       "excerpt": "In addition to the thousands of gallons of hand sanitizer being dispensed around Seattle-Tacoma International Airport, the Port of Seattle is turning to a few new high-tech approaches to cleaning",
@@ -182,47 +232,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors.md",
-      "title": "Aeva Partners With Auto Supplier ZF to Produce Key Self-Driving Sensors",
-      "excerpt": "(Reuters) - Aeva Inc, a Silicon Valley start-up working on a crucial sensor for self-driving vehicles, and German automotive industry supplier ZF Friedrichshafen AG said on Tuesday they were partnering to put the sensors into production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors?context=amp",
-      "publishedDateTime": "2020-09-08T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

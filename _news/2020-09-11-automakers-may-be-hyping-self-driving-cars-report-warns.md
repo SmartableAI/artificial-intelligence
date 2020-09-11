@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Automakers may be hyping self-driving cars, report warns"
-excerpt: "American Automobile Association warns automakers against focusing on marketing the vehicle’s capabilities over prioritising passenger safety."
-publishedDateTime: 2020-09-11T14:46:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece#!"
-webUrl: "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece#!"
+excerpt: "Automakers may be hyping the capabilities of self-driving vehicles through marketing campaigns. Marketing of auto-driving cars stress on convenience and capabilities, instead of its limitations and safety measures, which can inflate expectations of what ..."
+publishedDateTime: 2020-09-11T14:51:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece"
 ampWebUrl: "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece/amp/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 384
     isCached: true
 
-secured: "6/EnWuPenTDF/wTLBPjAG5T797x1k4jILPiWzEzQ4zxYxAccPYDfd9wTOwdXNCBS6ObBDAfQPbpbqcBEwr1v9Z9/xsdqkyl6Gp4iR53kBAmN2/lVNt1RuwSFbwgxeEE7mbPExaakKuPQLh1oxHHKMlTfFpv7Z9af+/YDTONRPeTxU0yzpT3amk7ohqR2/2mqGZ7n5PAFKTCaDH7YbFCwfybG98l90ZpskjTGxoQmaiyCxszcojEZ/7hE+yCD0NQBOyjCJCgmUCDyFLiFHIFGhCmhCrCw0QxfKp1wzXH5qGlyX3nz6eW2qYiSMxsYmxiJHBppvYZIk//1oddvQClVHF228TpdRttGmwqhx7fxhR0=;cU/vjX1JmPBLPM41XJ2ryw=="
+secured: "S40xFChI6dOo9rkSWrUkvHnY7QTPeKNGAb6PZuZT86DZFHwKuFhmFWFxyy6sHF5cNjSBDwTnE4rzdzZqTLku5MPTCR+frlzSkq16dQKCGMRtJ38x55BMIWRJcOlqvLKMIUaIHq54Wv2vuXB0sHaJ0PtHZ4SWm6Mu1144OGqF/2henT/CWZHraC4HdShdEztxeNMvfO9kYcEJ38Z+jEXPAKyhYZKkUpJfQyjtOPtE/0ZnpnqzBf8yy6jQq+vEFVeV2ebrMA3IhTPQSVhVcNPd6iZwzrN+bKZprbX21oTjxtZrFio8N5VD03zAG8huyLPnFHvWy9xdeRTccu6H1drTJTp44HQI6ap+ipRUlT1Buto=;eo+eRQYekpJ6zfQ5dYY2vg=="
 ---
 

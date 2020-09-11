@@ -3,27 +3,27 @@ category: news
 title: "GreenKey Releases NLP Tool for Hedge Funds"
 excerpt: "GreenKey (GK), creator of natural language processing (NLP) workflows for sales and trading, has released its latest version of the “Focus Studio” application designed specifically for hedge funds. Focus Studio is used by bank sales teams to customize NLP on their desktop,"
 publishedDateTime: 2020-09-11T12:00:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/greenkey-releases-nlp-tool-for-hedge-funds/article_af2d233d-e293-512e-884d-0632ea7af843.html"
-webUrl: "https://www.bakersfield.com/ap/news/greenkey-releases-nlp-tool-for-hedge-funds/article_af2d233d-e293-512e-884d-0632ea7af843.html"
+originalUrl: "https://www.valdostadailytimes.com/news/business/greenkey-releases-nlp-tool-for-hedge-funds/article_71c1ec38-cf2e-54ba-aa59-c9bff12c39c7.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/greenkey-releases-nlp-tool-for-hedge-funds/article_71c1ec38-cf2e-54ba-aa59-c9bff12c39c7.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
+    width: 640
+    height: 336
     isCached: true
 
-secured: "iXa8QuQ0NfHfpTBZ3LGhHg4APhmd1E/Ky2HKLaoQEjCMxet6xFL/Rzl5itUn/VLuEJFT//eQCMBOMuM0lYSS9fUoYGp4+wF/FghjMK7Kd1Ytm1jJ14kMMTKjizGHLBvf7QrshwZmy5wOe/4ThT/xohvQfHq6eonPjCXerqk+Pq6y8iqWVHnplLM07BkE/Qy5dNvjl+/d71KcnPy8n3ZQcKAxKxTyUyfB8T/LEaL/MKq3Mts+JOzvFyZZyIzeyrVPev2zD6TO/l755mSw5mWnltljpoa3kBmzId+5TK5iq4+p2/w7g5VdigTBVJPCeN88FTQkNLNldbDsPOwjt6QY/F3mPnIUz6aAzVco3Ovh/fg=;CQb3hnNXc9xkTubQxwITSQ=="
+secured: "m0M/ZqmowzA/sPpQInB46VfKgxqQdbJ4lnVJ9yOZHh9hZo7atf9ouLBJ4UeTtVF8SoPvg3eHecOS/jE209d+BejMBKY33S07tG8/0kXzzhmCkTEnOYtA4U0mDdU2GMSxL58BXKPIBjAKRUxdKYyWsI5+TPlkAmRc7+Y/A3efuGxZ+R8K84o+4AH10bA4wT5HbYgzDhhONpNtjc9E3hXMTpxgClvMifSBO3qDBTC8nIy7PzbJSKyVYfH9woypOLXo4TQIa/SxTKclDFvbtkH36QhsACSvkuu0gJ6BjZgi7mSuF/4XokGJHzzbOMYcw4CxW9mt7mD0hWBs7O1qVvwnUgrVxMVkBQrZKOsERk2xH6Q=;tr3lIspFAMRjUcl4qMJnRA=="
 ---
 

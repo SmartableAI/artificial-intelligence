@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/davidteich/2020/09/11/convergence-of-financial-institutions-risk-management-aided-by-artificial-intelligence/</loc>
+    <lastmod>2020-09-11T09:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/11/masks-muffle-speech-but-not-enough-to-impact-speech-recognition-systems/</loc>
+    <lastmod>2020-09-11T09:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fool.com/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/</loc>
+    <lastmod>2020-09-11T09:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china</loc>
     <lastmod>2020-09-11T07:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -241,12 +259,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.scmp.com/tech/science-research/article/3100934/baidu-investors-said-be-talks-raise-us2-billion-biotech-start</loc>
-    <lastmod>2020-09-09T21:10:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/</loc>
     <lastmod>2020-09-09T19:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -267,6 +279,12 @@
   <url>
     <loc>https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/</loc>
     <lastmod>2020-09-09T14:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://futurism.com/physicist-entire-universe-neural-network</loc>
+    <lastmod>2020-09-09T13:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -325,7 +343,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/</loc>
+    <loc>https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/</loc>
     <lastmod>2020-09-09T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -457,6 +475,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.reuters.com/article/us-aeva-zf-friedrich-idUSKBN25Z2LO</loc>
+    <lastmod>2020-09-08T14:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/</loc>
     <lastmod>2020-09-08T14:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -495,12 +519,6 @@
   <url>
     <loc>https://venturebeat.com/2020/09/08/tackling-one-of-the-biggest-single-sources-of-co2-emissions-with-machine-learning/</loc>
     <lastmod>2020-09-08T10:17:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors</loc>
-    <lastmod>2020-09-08T09:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -889,12 +907,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html</loc>
-    <lastmod>2020-09-04T02:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/video-analytics-market-size-share-2020-global-industry-analysis-size-share-growth-trends-and-forecasts-2025-says-market-reports-world-2020-09-04</loc>
     <lastmod>2020-09-04T02:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -927,6 +939,12 @@
   <url>
     <loc>https://www.bloomberg.com/professional/blog/covid-fallout-accelerating-financial-sector-tech-race/</loc>
     <lastmod>2020-09-04T01:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247</loc>
+    <lastmod>2020-09-03T22:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3013,7 +3031,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/</loc>
+    <loc>https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?itm_source=16&amp;itm_content=2x2&amp;itm_term=2376504</loc>
     <lastmod>2020-08-25T08:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

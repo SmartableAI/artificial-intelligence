@@ -2,6 +2,38 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-26-speech-and-voice-recognition-technology-market-2020-global-analysis-opportunities-and-forecast-to-2025.md",
+      "title": "Speech and Voice Recognition Technology Market 2020 Global Analysis, Opportunities And Forecast To 2025",
+      "excerpt": "10.13.4 BioTrust (Netherlands) Revenue in Speech and Voice Recognition Technology Business (2015-2020)",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/ab17235849/speech-and-voice-recognition-technology-market-2020-global-analysis-opportunities-and-forecast-to",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/ab17235849/speech-and-voice-recognition-technology-market-2020-global-analysis-opportunities-and-forecast-to",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17235849",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17235849",
+      "publishedDateTime": "2020-08-25T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-microsoft-gives-devs-an-ai-powered-tool-to-build-reading-accessibility-into-their-apps.md",
       "title": "Microsoft gives devs an AI-powered tool to build reading accessibility into their apps",
       "excerpt": "Microsoft today announced the general availability of Immersive Reader, a service that enables apps to present text in more digestible and accessible ways.",
@@ -1344,38 +1376,6 @@
       "provider": {
         "name": "Popular Photography",
         "domain": "popphoto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-google-open-sources-its-language-interpretability-tool.md",
-      "title": "Google open sources its language interpretability tool",
-      "excerpt": "Google AI researchers have made the Language Interpretability Tool (LIT) an open source platform for visualising, understanding and auditing natural language processing (NLP) models for the third-party developers.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/articles/Science/20200817/3610867.html",
-      "originalUrl": "https://news.webindia123.com/news/articles/Science/20200817/3610867.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-17T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
         "images": null,
         "publishers": null,
         "authors": null

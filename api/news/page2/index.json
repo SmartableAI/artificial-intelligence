@@ -2,6 +2,154 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-10-replicant-raises-27-million-to-propel-its-voice-ai-for-customer-service-phone-calls.md",
+      "title": "Replicant Raises $27 Million To Propel Its Voice AI For Customer Service Phone Calls",
+      "excerpt": "Replicant wants to take talking bots like Siri and Alexa to the next level: the highly conversational field of customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/",
+      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/",
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f59af3806cd33cc970dc30b%2F0x0.jpg%3FcropX1%3D293%26cropX2%3D2845%26cropY1%3D0%26cropY2%3D1701",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/amp/",
+      "publishedDateTime": "2020-09-10T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-why-cloud-gaming-is-the-future-of-xbox.md",
+      "title": "Why cloud gaming is the future of Xbox",
+      "excerpt": "Standard gaming consoles cost a few hundred bucks, and while some graphics cards are so powerful they can run full artificial intelligence systems, they are also more expensive than a lot of computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/why-cloud-gaming-is-the-future-of-xbox/",
+      "originalUrl": "https://www.cnet.com/news/why-cloud-gaming-is-the-future-of-xbox/",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/QCdvipeA9j2ulMONU4Ajg-tzpuk=/1200x630/2019/06/09/588eedb7-ad23-409e-ae58-0ffca65b6d42/xbox-pricing.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/why-cloud-gaming-is-the-future-of-xbox/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-cloud-gaming-is-the-future-of-xbox/",
+      "publishedDateTime": "2020-09-10T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools.md",
+      "title": "Intel and Samsung detail AI-powered fetal ultrasound tools",
+      "excerpt": "Intel and Samsung today detailed AI-driven solutions to help doctors accurately and quickly measure a fetus inside the womb.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/",
+      "originalUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/",
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/1ab9a987-4ae0-43aa-b1d2-025974d9a659-e1599164184952.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/amp/",
+      "publishedDateTime": "2020-09-10T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-5g-in-financial-services-evolution-not-revolution.md",
       "title": "5G In Financial Services: Evolution, Not Revolution",
       "excerpt": "G is a leap forward in technology, though the added complexity makes it essential for financial firms to have visibility across their entire network to ensure the best customer experience.",
@@ -714,55 +862,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-10-baidu-investors-said-to-be-in-talks-to-raise-us2-billion-for-biotech-start-up-using-ai-technology.md",
-      "title": "Baidu, investors said to be in talks to raise US$2 billion for biotech start-up using AI technology",
-      "excerpt": "Baidu is said to be raising money for a start-up that will use AI to discover new drugs and diagnose diseases, amid a trend of increased investment in the health care sector since the start of the Covid-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/science-research/article/3100934/baidu-investors-said-be-talks-raise-us2-billion-biotech-start",
-      "originalUrl": "https://www.scmp.com/tech/science-research/article/3100934/baidu-investors-said-be-talks-raise-us2-billion-biotech-start",
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/methode/2020/09/10/e5a2fb74-f304-11ea-8f3b-07283e3f3bd8_image_hires_093026.jpg?itok=15o7AKBJ&v=1599701435",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/science-research/article/3100934/baidu-investors-said-be-talks-raise-us2-billion-biotech-start",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3100934/baidu-investors-said-be-talks-raise-us2-billion-biotech-start",
-      "publishedDateTime": "2020-09-09T21:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-10-ai-ruined-chess-now-its-making-the-game-beautiful-again.md",
       "title": "AI Ruined Chess. Now, It's Making the Game Beautiful Again",
       "excerpt": "A former world champion teams up with the makers of AlphaZero to test variants on the age-old game that can jolt players into creative patterns.",
@@ -955,6 +1054,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-10-physicist-the-entire-universe-might-be-a-neural-network.md",
+      "title": "Physicist: The Entire Universe Might Be a Neural Network",
+      "excerpt": "But in a provocative preprint uploaded to arXiv this summer, a physics professor at the University of Minnesota Duluth named Vitaly Vanchurin attempts to reframe reality in a particularly eye-opening way — suggesting that we’re living inside a massive neural network that governs everything around us.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/physicist-entire-universe-neural-network",
+      "originalUrl": "https://futurism.com/physicist-entire-universe-neural-network",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/09/Physicist-Believes-Universe-Neural-Network-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/physicist-entire-universe-neural-network/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/physicist-entire-universe-neural-network/amp",
+      "publishedDateTime": "2020-09-09T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-i-have-no-desire-to-wipe-out-humans-robot-writes-in-ominous-op-ed.md",
       "title": "‘I have no desire to wipe out humans,’ robot writes in ominous op-ed",
       "excerpt": "OpenAI’s powerful new language generator, saying exactly what a robot intending to destroy humans might say. In an op-ed for The Guardian — yes, robots write op-eds now — GPT-3 was told to write an essay convincing readers that the machines come in peace.",
@@ -1051,148 +1191,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations.md",
-      "title": "Iron Ox raises $20 million to grow robotic greenhouse operations",
-      "excerpt": "Iron Ox plans to expand its robotic growing solution to greenhouses in California and other parts of the U.S. after a $20 million series B funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/",
-      "originalUrl": "https://venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/",
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/unnamed-2-e1599787426725.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/amp/",
-      "publishedDateTime": "2020-09-09T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-the-8-best-ai-stocks-on-the-market-today.md",
-      "title": "The 8 Best AI Stocks on the Market Today",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is one of the hottest and most controversial",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-on-the-market-today-1029575327",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-on-the-market-today-1029575327",
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/best-ai-stocks-on-the-market-today-1029575327",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/best-ai-stocks-on-the-market-today-1029575327",
-      "publishedDateTime": "2020-09-09T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning.md",
-      "title": "Researchers find cutting-edge language models fall short in basic reasoning",
-      "excerpt": "A new paper finds that even cutting-edge language models like OpenAI's GPT-3 perform poorly when it comes to commonsense reasoning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/",
-      "originalUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/",
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/amp/",
-      "publishedDateTime": "2020-09-09T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

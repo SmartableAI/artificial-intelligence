@@ -2,6 +2,146 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-07-28-commentary-the-real-reason-were-afraid-of-robots.md",
+      "title": "Commentary: The real reason we're afraid of robots",
+      "excerpt": "Artificial intelligence is everywhere. It helps drive your car, recognizes your face at the airport's immigration checkpoint, interprets your CT scans, reads your resume, traces your interactions on social media,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fltimes.com/news/nation/commentary-the-real-reason-were-afraid-of-robots/article_34f7f15b-8a65-5b35-a151-d30f23801663.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-advertima-rings-up-175m-for-computer-vision-powered-behavioral-analytics-for-in-store-retail.md",
+      "title": "Advertima rings up $17.5M for computer vision-powered behavioral analytics for in-store retail",
+      "excerpt": "Swiss computer vision startup Advertima has raised a €15 million Series A (~$17.5 million) to build out a machine learning platform for physical retail stores to ‘upgrade’ the shopping experience via real-time shopper behavior analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/28/advertima-rings-up-17-5m-for-computer-vision-powered-behavioral-analytics-for-in-store-retail/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Screenshot-2020-07-28-at-12.54.36.png?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/28/advertima-rings-up-17-5m-for-computer-vision-powered-behavioral-analytics-for-in-store-retail/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/28/advertima-rings-up-17-5m-for-computer-vision-powered-behavioral-analytics-for-in-store-retail/amp/",
+      "publishedDateTime": "2020-07-28T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-this-ai-generates-hilariously-realistic-startup-acquisition-announcements.md",
+      "title": "This AI generates hilariously realistic startup acquisition announcements",
+      "excerpt": "The Acquisition Blog Post Generator leverages AI to create realistically sounding startup acquisition announcements — and it's pretty funny.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/28/startup-acquisition-announcemnet-generator/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/acquisition-blog-post-thisstartupannouncementdoesntexist-796x414.png",
+          "width": 796,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/startup-acquisition-announcemnet-generator/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/startup-acquisition-announcemnet-generator/amp/",
+      "publishedDateTime": "2020-07-28T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-cb-insights-ai-venture-deals-in-q2-2020-slump-to-lowest-since-2017.md",
       "title": "CB Insights: AI venture deals in Q2 2020 slump to lowest since 2017",
       "excerpt": "AI-related startups raised $7.22 billion in 458 deals In Q1 2020, down from $8.4 billion invested in 516 deals during Q1 2020.",
@@ -990,129 +1130,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-ciox-health-acquires-biomedical-nlp-company-medal.md",
-      "title": "Ciox Health Acquires Biomedical NLP Company Medal",
-      "excerpt": "Ciox Health has acquired Medal, Inc., a biomedical Natural Language Processing (biomed-NLP) technology company. – The acquisition will lead Ciox to better and more quickly enable real-world data ...",
-      "sourceUrl": null,
-      "webUrl": "https://hitconsultant.net/2020/07/28/ciox-health-acquires-biomedical-nlp-company-medal/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/07/Medal-part-of-Ciox-scaled.jpg",
-          "width": 6401,
-          "height": 3201,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HIT Consultant",
-        "domain": "hitconsultant.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-creating-ai-that-understands-emotion.md",
-      "title": "Creating AI That Understands Emotion",
-      "excerpt": "Jay Turcot, Affectiva's Director of Applied AI, told an audience during a presentation at the 2017 GPU Technology Conference (GTC). “We believe interacting with technology being a cold experience is a side effect of machines not having empathy.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/creating-ai-understands-emotion",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Affectiva_GTC2017.jpg",
-          "width": 4160,
-          "height": 2340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-erc-proof-of-concept-artificial-intelligence-for-flexible-robots.md",
-      "title": "ERC Proof of Concept: Artificial intelligence for flexible robots",
-      "excerpt": "Programming a robot to solve just one complex motor task has remained a challenging, costly and time-consuming task - artificial intelligence is rarely employed. In fact, manual programming has ...",
-      "sourceUrl": null,
-      "webUrl": "https://eurekalert.org/pub_releases/2020-07/tud-epo072820.php",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

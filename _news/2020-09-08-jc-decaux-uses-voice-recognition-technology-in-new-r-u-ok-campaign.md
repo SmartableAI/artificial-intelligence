@@ -24,17 +24,6 @@ images:
     height: 1627
     isCached: true
 
-related:
-  - title: "JCDecaux uses voice recognition technology in R U OK? campaign"
-    excerpt: "Outdoor specialist JCDecaux, in an industry first, is using an interactive JCDecaux panel that uses voice recognition to trigger both on-screen and verbal responses. Passers-by are prompted via a floor decal placed in front of the panel as well as an on-screen call to action to ask: “R U OK?"
-    publishedDateTime: 2020-09-06T23:43:00Z
-    webUrl: "https://www.adnews.com.au/news/jcdecaux-uses-voice-recognition-technology-in-r-u-ok-campaign"
-    type: article
-    provider:
-      name: AdNews
-      domain: adnews.com.au
-    quality: 19
-
 secured: "9Sk2U6nzZva9ZsKwioh8CBWLCX5A9+DzmFHYUcvwFhp3UvCBpEs4ki9QAFEME9LhAgFgR1PE1yxxkPYWNYuJst7bA+S4atlu0nItAu/hfb7Zi4E4ep1Zyr/VC88wntuu/p+MDpRYP/St4L/nyLDJT/+xHTZUw8wMYj1A+X9vjRX1vYOmWxxl+iiX80frC/Zxg2GWtBwpIIOuPFxqkCk6C4rYqn3+rCJRSNe0rkwMf7OUXG40TikKkilOBt/KNcKOCDo4asKJJ2XTSpyMUIpbXBqvOjjQMlSLGbJXlUx+PoCoqvhPIHwtANDmnQZQ3rO4CWmzPYPHtQczLxcWKXnyBHQs8vLTway2JLKVKxbUbTHMn8PvjU1cV5XPQ/egR2GbPfNBoAKqlus6Rlx1pNmiCI7kPWzrVxTuyxUdWXh8UvqEW29USA+iMbF0c1l8Z7XqVw1gD3Dki9koiWhH6LaynzkE6DJcKimAVxIT467IqCV9YviLbPTMy152gjo7xQLvvJYK86UMNHVtbt94TgVkh3MuuymfwGgn3gVDsbzLQWg=;MjAmddd4rqIWN6oNgjYPzQ=="
 ---
 
