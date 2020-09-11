@@ -2,23 +2,19 @@
 category: news
 title: "Can artificial intelligence create a decent dinner?"
 excerpt: "However, I’m trying out Plant Jammer, an app that promises to rustle up a recipe based on whatever food you have lying around, using artificial intelligence. It searches three million recipes to find often-paired items."
-publishedDateTime: 2020-09-07T23:55:00Z
-originalUrl: "https://www.bbc.com/news/business-53794472"
-webUrl: "https://www.bbc.com/news/business-53794472"
-ampWebUrl: "https://www.bbc.com/news/amp/business-53794472"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-53794472"
+publishedDateTime: 2020-09-08T00:07:00Z
+originalUrl: "https://www.bbc.co.uk/news/business-53794472"
+webUrl: "https://www.bbc.co.uk/news/business-53794472"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/business-53794472"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-53794472"
 type: article
-quality: 87
-heat: 97
-published: true
+quality: 57
+heat: 67
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -45,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "70OJr5zjWn5xCTwU+gAIwFvPH719R0OGIoGZpQyQHvOzgAGUNzuWyP7qZ/OdP7g9uKEMyroReTaiIuD4EDNqDkfdVPwx6I1TJnZq4EwEQWw6PHYemh3KBC37em8mP4X5zbR/RjP8FF9P6ovhyxkj9iSNt7xZbQDesJ/7sK4lg8PSMHlbvn5ybCQUZ2kzZuuJrZBxWbXAf8bGkqT1oUCLDdgnV0gaecsFf+DKgjnPg4xWcvvgTyPRYwzatPctBEJQRaDuqIwr0tANqp4sKunHAVPPUvckKatWP3ZEziLBltDKk/rFJQ4IHfU9IuNYozcIUrBay8uZbQRd4qVt4k0oH0w6tq7wgQ/bMbLU7i/LUxtkNPkG/k563oh/0cGlLLZm38MUi2wHqwxZxXqdTmwAPtUP1DJFZKxegRBqUlWQ+rSY2XeNbG0CPX+ZN7dvxhNuBKLNAZ0GjRWABsmA/LIPSmfooE0A3TaEGDfR4rryN1u3sYWiMUxl4LrFUa3W54CkN4/pItXNNS2UST/+UQO013ZguPxB7umKq5G6NN+vXgY=;PJzQ8AKUXMrsg99bcl4wBw=="
+secured: "a6ZMSWexmwX3afm2kBCks4gRKzoqDqEj3hPvgw7XXKAQmehSbB2vnFyfXRs0oiXeHTyQVqmRmuVuY9dMfcfTAd5OvCbBg57rEW5p/Q57ogXtqHgeu7kFyqEy9BYi0Ivx2jDsPj68Nv0yzZpIYCEMj4xtmiA9hYHjiCiF02D+LyRHHSkxvMc+8UXBg3aI85Ac9ZOkCrd2kXrqMzZDvygTTEFxs2NNRGkbnf8/3QwM8XYAxe8x+oTNnvX4eSrXJ+QtGZMNER7LH35couJpHe+Kv0VAzK/AnEpQp8Nv02F4185qfty59x3KOozikQjhFVOZlKhj3WhqGpOIZUs8LNTRHxol65XCasp3/vRUiQQo7gY=;Zj12ueMJRs6nonnoNScZJA=="
 ---
 

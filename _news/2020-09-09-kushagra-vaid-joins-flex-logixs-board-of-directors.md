@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Kushagra Vaid Joins Flex Logix's Board of Directors"
-excerpt: "Flex Logix Technologies, Inc., a leading supplier of embedded FPGA (eFPGA) and AI Inference IP, chips, boards and software, today announced that it has appointed industry-veteran Kushagra Vaid as an independent member to its Board of Directors."
-publishedDateTime: 2020-09-09T14:57:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/kushagra-vaid-joins-flex-logix-s-board-of-directors-1029574635"
-webUrl: "https://markets.businessinsider.com/news/stocks/kushagra-vaid-joins-flex-logix-s-board-of-directors-1029574635"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/kushagra-vaid-joins-flex-logix-s-board-of-directors-1029574635"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/kushagra-vaid-joins-flex-logix-s-board-of-directors-1029574635"
+excerpt: "Flex Logix Technologies, Inc., a leading supplier of embedded FPGA (eFPGA) and AI Inference IP, chips, boards and software, today"
+publishedDateTime: 2020-09-09T14:38:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/kushagra-vaid-joins-flex-logixs-board-of-directors-301126599.html"
+webUrl: "https://www.prnewswire.com/news-releases/kushagra-vaid-joins-flex-logixs-board-of-directors-301126599.html"
 type: article
-quality: 69
-heat: 69
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Google AI
   - AI
 
-secured: "Jh/Qt9ehH7Or3+ckoM38nQ6s3OE8CWJzXBtGHjHSwYucKJFnAI0n95ZOOXBYc5MkNrKV8TcQoXFhYD2vg/7BCU9p/YPDOjC6Z4YlmKTxr+fvraA0AO+5otPaqk8WZhsFdc1qo6HF4kWyp+ZefLVOB5TrlT7NCcNYPUHf5uy4QVInF6W2hI0gHLUo7kC8UFJJ7ztwEpeKW0U2A1DMwJI84AcdHEYErIGm834UUjr1vkkLl8ciWDz1l+VewEYcPkeO2Cs6h23RWH35tMULHoedOPQHtGy+enFRJogXSxonx+bda2eDQijcvnVSh3c9kzFZKsFw/w7ysKLtKB4FAJPFxxUX8zHspuIQ3MHlCaZvBNA=;KlogHH3YIWcXLu4EnpUU6A=="
+images:
+  - url: "https://mma.prnewswire.com/media/394413/Flex_Logix_Technologies_Logo.jpg?p=facebook"
+    width: 1497
+    height: 785
+    isCached: true
+
+secured: "vDxCx0Vu8IN3kLiO0V7vWwel5Xjun/u+ABfbXQisermPnVjEdfMy8EF3jYeF6/5JYam2FMIVX2isHcXbL0KnMehElcfcgjMRbzrp0r4cMfHg89HLrtr2ioojzb1QLP6T9EEO1tB4+EUFJTdi9yI9CGBYUow3bNh9dX6WBijicvuRTkVHNcOubIxaYAVM7X3o/Fwz6hlwxf7AzUDpbHiEE8ZmnkEoAS4Z/pL4g4AH85gKVxNw9o1m4xVV6VB1oVSxA8wJBK4SKB706QqhKit+z1FXtDpYwg6AO5rwXmQ1Xotb9BjSjJAy2OUj1+VLGePMxYHmTpE7qrpHJPlq+9RBqdWUxRPgdfn+wYa+gnLYoA4=;ToGwbk2R2ujfYwaSnsRFGQ=="
 ---
 

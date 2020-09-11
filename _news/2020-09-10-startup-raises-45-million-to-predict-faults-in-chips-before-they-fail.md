@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/
 webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,20 @@ related:
     excerpt: "Tecs sells tools to identify areas for improvement in new chips and anticipate potential failures in the field. The company said it serves \"some of the largest\" electronics vendors in the data center,"
     publishedDateTime: 2020-09-10T17:16:00Z
     webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-failures-in-chips-before-they-happen"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 52
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/09/28436328267_c1fd36f23d_o.5f5a433841886.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 641
+        isCached: true
+  - title: "Startup Wins $45 Million to Spot Faults in Chips Before They Cause Failures"
+    excerpt: "Tecs sells tools to identify areas for improvement in new chips and anticipate potential failures in the field. The company said it serves \"some of the largest\" electronics vendors in the data center,"
+    publishedDateTime: 2020-09-10T18:29:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-wins-45-million-to-spot-faults-in-chips-before-they-cause-failures"
     type: article
     provider:
       name: Electronic Design

@@ -8,8 +8,8 @@ webUrl: "https://thenextweb.com/neural/2020/09/10/a-beginners-guide-to-ai-separa
 ampWebUrl: "https://thenextweb.com/neural/2020/09/10/a-beginners-guide-to-ai-separating-the-hype-from-the-reality/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/10/a-beginners-guide-to-ai-separating-the-hype-from-the-reality/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/robots_wall-796x417.jpg"
@@ -29,6 +31,6 @@ images:
     height: 417
     isCached: true
 
-secured: "YPjZTmtWgW+bsqS+S1L7/QlEUyghmztfGEZS6M4Ruw5IJ9WJ5q7s1hYUW7MO8YpwU0JY63M5aoWV2sYdw4qIszofuq/Nl7q1ck1IKUmGR94PMr7RUmyZhZxBl9TgFL/rJIzlHorsTgkQ926SwgQGSOJ6mWGtfesexW+nv0nwPVPaanuGyfOPDMXv1G3N5tYh94FdwFQwxdjksiPlACTiQir4NbLGcu7A1Ruls59ltiIP+tuu79P9RDyM4FNW0I/R+cOhi3B6Au9yA+0r3EsxF9vRCun8bURY4fA9Ms50+v+3eUiVuaBqKsGyBN/tFlJrB2CzTWoobXqEO8QbdmpsGs39Bo56KzfopfCopRm/hYs=;ulnUNmtCnkWSVyqQldlVwA=="
+secured: "LpdbHzBd6wiJpcLkggUayrjFrCCP60LA2iKWDnwL2vpV3gp21aUgtbA/YQpp3rS+pu28JuT6u9vRZuI95jB52U/r+ZO3+DhoE1pXutuM63soz5lVIXn4lKolgUjfHX3ygYtT/uqsvBeil4Cn73un+3v7y/nelYWpeWcW0sJ6ObbmvYdw9NrSB4ws4rktu6dRLnjnmWMtFFI5k2jr8abV0fMuGXnS/f9pf/pMBiOAChEXbjd159u7gWYN46k/RqjLudIe2/mLNJNkFpHmxIav9LbBB932tnRwcCnbhrrTt9jviaHSShoZraCu7aXrT2c347x3peboMYH59/CpRb2L8+kLeOQg8jQ20iyDNmL5WAx3EYYhcee8W/ls6tyBBMMX7FuY/qVWeKWeo9yHhXkKl83jvphkDOX8tkXRcIK8/RZbTmSQZ7CcMO98Hq6SwZf08OAMqdfEoyx3dDCQzvD91gtI42Fei3ms8VtPvJ7kfOqVe0qjfGHL7qWr+u1voVa0mDjwvyv9d+IXCSpUNCMqzw==;6oiyQPmcSKyb5VnjQifcdQ=="
 ---
 
