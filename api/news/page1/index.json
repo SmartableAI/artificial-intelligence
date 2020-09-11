@@ -2,6 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-11-california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires.md",
+      "title": "California Utilities Hope Drones, AI Will Lower Risk of Future Wildfires",
+      "excerpt": "Artificial intelligence may be able to spot fire risks created by faulty distribution and transmission equipment, utilities say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires-11599816601",
+      "originalUrl": "https://www.wsj.com/articles/california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires-11599816601",
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-230887/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires-11599816601",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires-11599816601",
+      "publishedDateTime": "2020-09-11T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-ai-regulators-can-learn-a-lesson-from-the-1967-outer-space-treaty.md",
+      "title": "AI regulators can learn a lesson from the 1967 Outer Space Treaty",
+      "excerpt": "Global leaders should take a lesson from the 1967 Outer Space Treaty, which regulated another emerging tech at a time of geopolitical turmoil.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1901942/how-to-regulate-ai-according-to-the-1967-outer-space-treaty/",
+      "originalUrl": "https://qz.com/1901942/how-to-regulate-ai-according-to-the-1967-outer-space-treaty/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/09/415666-e1599769938576.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1901942/how-to-regulate-ai-according-to-the-1967-outer-space-treaty/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1901942/how-to-regulate-ai-according-to-the-1967-outer-space-treaty/amp/",
+      "publishedDateTime": "2020-09-11T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-congress-probes-how-ai-will-impact-us-economic-recovery.md",
       "title": "Congress probes how AI will impact U.S. economic recovery",
       "excerpt": "Congress heard testimony today about how the U.S. government should fund and regulate tech like AI that can eliminate jobs in the midst of a recession.",
@@ -760,7 +859,7 @@
       "webUrl": "https://www.cnet.com/news/why-cloud-gaming-is-the-future-of-xbox/",
       "originalUrl": "https://www.cnet.com/news/why-cloud-gaming-is-the-future-of-xbox/",
       "featuredContent": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1073,104 +1172,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-ai-and-automation-vs-the-covid-19-pandemic-trading-liberty-for-safety.md",
-      "title": "AI and automation vs. the COVID-19 pandemic: Trading liberty for safety",
-      "excerpt": "Reports on the use of AI to respond to COVID-19 may have been greatly exaggerated. But does the rush to pandemic-fighting solutions like thermal scanners, face recognition and immunity passports signal the normalization of surveillance technologies?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
-      "originalUrl": "https://www.zdnet.com/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2016/03/30/24d87bb9-0993-4b2c-85ff-8ed815d4347e/hybrid-cloud-scales.jpg",
-          "width": 770,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
-      "publishedDateTime": "2020-09-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-andurils-new-drone-offers-to-inject-more-ai-into-warfare.md",
-      "title": "Anduril’s New Drone Offers to Inject More AI Into Warfare",
-      "excerpt": "A swarm of Ghost 4s, controlled by a single person on the ground, can perform reconnaissance missions like searching for enemy weapons or soldiers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/",
-      "originalUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f59679f7d996391a1b72bde/master/pass/business_ghost4_studio_01.jpg",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/anduril-new-drone-inject-ai-warfare/amp",
-      "publishedDateTime": "2020-09-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

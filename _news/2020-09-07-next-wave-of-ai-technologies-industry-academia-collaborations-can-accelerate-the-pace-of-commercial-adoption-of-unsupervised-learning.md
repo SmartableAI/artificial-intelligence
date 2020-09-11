@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Education Market Evolving Technology, Trends and Analysis 2020 to 2026 | IBM, Cognizant, Microsoft, Osmo"
+    excerpt: "Artificial Intelligence (AI) in Education market research report analyzes the market status, share, growth rate, future trends, market drivers and challenges, risks and entry barriers, sales channels,"
+    publishedDateTime: 2020-09-11T07:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-evolving-technology-trends-and-analysis-2020-to-2026-ibm-cognizant-microsoft-osmo-2020-09-11?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "IOhTIMttBM+IDpOgDZpGxO+sIqUhbzJYiLzgcByRtixkNaq+i0k8uHRGyMDMb7PiNUUMcg4OzXlhoDtUb8jNtcdDjtUBUJNiwkWmpPtT17r/CeblEidjqr7ASG/C11JA/3JtLlM0i2UmhRo1czYaRpiHXAeLfUmrVMtliYGymms/tNPrAW/kyKGBSDt624cWNB4kUX6hppvr5SOJ3rs7slA3w3sgK084BOGm4q3ocMYyaFNish4QJ5QLK9/s9d7MFHts+2BWCqk/u8P5v0EYAnz7p9C10fgMTcCsJSC3vP3ACHBmpLknoOGIEAwrHqbqjENufZuH3ar2veEvgtx+9MGCx+uBO+q7svMZVPxZHrqm5wv1px40j0fYbqAQcTE/I6zGcVrnDvah0A4bj1cbaQqqwf+jEwnT4mR5q5TzdPherZwjpRjDZt1JVXQcORLru7beuRLOviOft0+PfddnhZfYW31+n4OtzPc4ju7eg0pbRVzrhM1KywE1MUtiQVquwTvJhRYigcXf5lOIukxlOPG60cDyqseldjEmeqlAWKc=;PqHP7R4YW49JLlzYOOpjXQ=="
 ---

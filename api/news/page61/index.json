@@ -2,6 +2,97 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2020-07-24-healthcare-cognitive-computing-market.md",
+      "title": "Healthcare Cognitive Computing Market",
+      "excerpt": "DBMR Analyses the Healthcare Cognitive Computing Market to grow at ... Data Bridge adepts in creating satisfied clients who reckon upon our services and rely on our hard work with certitude.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2096108/healthcare-cognitive-computing-market-witness-excellent",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T724883708_g.jpg",
+          "width": 800,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2096108/healthcare-cognitive-computing-market-witness-excellent",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096108/healthcare-cognitive-computing-market-witness-excellent",
+      "publishedDateTime": "2020-07-24T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-machine-learning-how-embeddings-make-complex-data-simple.md",
+      "title": "Machine learning: How embeddings make complex data simple",
+      "excerpt": "Working with non-numerical data can be tough, even for experienced data scientists. A typical machine learning model expects its features to be numbers, not words, emails, website pages ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/a1-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/amp/",
+      "publishedDateTime": "2020-07-23T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-us-artificial-intelligence-in-manufacturing-market-top-companies-microsoft-ibm-intel-siemens-aws.md",
       "title": "US Artificial Intelligence In Manufacturing Market Top Companies: Microsoft, IBM, Intel, Siemens, AWS",
       "excerpt": "Jul 24, 2020 (Market Insight Reports) -- The 'Artificial Intelligence in Manufacturing Market' research report provides a succinct analysis on the recent market trends. In addition, the report ...",
@@ -1106,88 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-tech-startup-funding-declines-as-pandemic-drags-on.md",
-      "title": "Tech Startup Funding Declines as Pandemic Drags On",
-      "excerpt": "Venture-capital funding for U.S. startups declined in the first half of the year, threatening a key source of information-technology innovation for larger companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-212166/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
-      "publishedDateTime": "2020-07-23T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-microsoft-commercial-cloud-sales-surpass-50bn-for-1st-time-in-fy20.md",
-      "title": "Microsoft commercial cloud sales surpass $50bn for 1st time in FY20",
-      "excerpt": "New Delhi, July 23 (IANS) As the digital tech intensity becomes key to business resilience, the commercial cloud business of Microsoft surpassed $50 ... transactions were processed in Azure Cognitive Services, 2.5 billion messages sent, 9 million hours ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/microsoft-commercial-cloud-sales-surpass-50bn-for-1st-time-in-fy20-news-topnews-uhxnOBfigahhi.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-23T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

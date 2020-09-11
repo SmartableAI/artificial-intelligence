@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.wsj.com/articles/california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires-11599816601</loc>
+    <lastmod>2020-09-11T02:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://qz.com/1901942/how-to-regulate-ai-according-to-the-1967-outer-space-treaty/</loc>
+    <lastmod>2020-09-11T01:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/10/congress-probes-how-ai-will-impact-u-s-economic-recovery/</loc>
     <lastmod>2020-09-10T20:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -451,14 +463,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors</loc>
-    <lastmod>2020-09-08T09:34:00-07:00</lastmod>
+    <loc>https://thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/</loc>
+    <lastmod>2020-09-08T09:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/</loc>
-    <lastmod>2020-09-08T09:30:00-07:00</lastmod>
+    <loc>https://www.nytimes.com/reuters/2020/09/08/technology/08reuters-aeva-zf-friedrich.html</loc>
+    <lastmod>2020-09-08T09:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1441,7 +1453,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sourcesecurity.com/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html</loc>
+    <loc>https://www.sourcesecurity.com/companies/dahua-technology-ltd/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html</loc>
     <lastmod>2020-09-02T00:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1483,12 +1495,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.scpr.org/news/2020/09/01/94277/facebook-and-twitter-remove-russia-backed-accounts/</loc>
-    <lastmod>2020-09-01T15:20:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.wsj.com/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924</loc>
     <lastmod>2020-09-01T14:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1497,6 +1503,12 @@
   <url>
     <loc>https://www.pcmag.com/news/who-are-the-biggest-attention-hogs-on-cable-news-ask-this-new-ai-tool</loc>
     <lastmod>2020-09-01T13:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters</loc>
+    <lastmod>2020-09-01T13:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1585,8 +1597,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://worthplaying.com/article/2020/9/1/news/121526/</loc>
-    <lastmod>2020-09-01T10:06:00-07:00</lastmod>
+    <loc>https://www.worthplaying.com/article/2020/9/1/news/121526/</loc>
+    <lastmod>2020-09-01T10:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1981,7 +1993,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/au/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

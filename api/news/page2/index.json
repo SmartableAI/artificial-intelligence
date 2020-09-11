@@ -2,6 +2,104 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-10-ai-and-automation-vs-the-covid-19-pandemic-trading-liberty-for-safety.md",
+      "title": "AI and automation vs. the COVID-19 pandemic: Trading liberty for safety",
+      "excerpt": "Reports on the use of AI to respond to COVID-19 may have been greatly exaggerated. But does the rush to pandemic-fighting solutions like thermal scanners, face recognition and immunity passports signal the normalization of surveillance technologies?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
+      "originalUrl": "https://www.zdnet.com/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2016/03/30/24d87bb9-0993-4b2c-85ff-8ed815d4347e/hybrid-cloud-scales.jpg",
+          "width": 770,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
+      "publishedDateTime": "2020-09-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-andurils-new-drone-offers-to-inject-more-ai-into-warfare.md",
+      "title": "Anduril’s New Drone Offers to Inject More AI Into Warfare",
+      "excerpt": "A swarm of Ghost 4s, controlled by a single person on the ground, can perform reconnaissance missions like searching for enemy weapons or soldiers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/",
+      "originalUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f59679f7d996391a1b72bde/master/pass/business_ghost4_studio_01.jpg",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/anduril-new-drone-inject-ai-warfare/amp",
+      "publishedDateTime": "2020-09-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes.md",
       "title": "Orchard raises $69 million to develop machine learning for buying and selling homes",
       "excerpt": "Orchard raised $69 million to continue the development of its machine learning technology that aims to make buying a home less complicated.",
@@ -60,7 +158,7 @@
       "webUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece",
       "originalUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece",
       "featuredContent": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -1095,106 +1193,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-combatting-covid-19-misinformation-with-machine-learning-vb-live.md",
-      "title": "Combatting COVID-19 misinformation with machine learning (VB Live)",
-      "excerpt": "To counter misinformed narratives, Novetta Mission Analytics (NMA) is working with Africa CDC to identify narratives and behavior around the disease.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/",
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-498746659.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/amp/",
-      "publishedDateTime": "2020-09-09T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-is-ambarella-an-underappreciated-artificial-intelligence-chip-stock.md",
-      "title": "Is Ambarella an Underappreciated Artificial Intelligence Chip Stock?",
-      "excerpt": "The image processing chipmaker is betting heavily on the AI market, but can it keep pace with its bigger competitors?",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F590824%2Fgettyimages-1145990155.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "publishedDateTime": "2020-09-09T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,28 +2,28 @@
 category: news
 title: "DOD enlisting AR microscopes to spot cancer"
 excerpt: "The Defense Innovation Unit is partnering with Google Cloud to use machine learning and augmented reality to speed and improve the accuracy of cancer diagnoses."
-publishedDateTime: 2020-09-09T23:26:00Z
-originalUrl: "https://washingtontechnology.com/GIG/gcn/Articles/2020/09/09/DIU-Google-AI-cancer-detection.aspx"
-webUrl: "https://washingtontechnology.com/GIG/gcn/Articles/2020/09/09/DIU-Google-AI-cancer-detection.aspx"
+publishedDateTime: 2020-09-09T21:31:00Z
+originalUrl: "https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx?admgarea=TC_EmergingTech"
+webUrl: "https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx?admgarea=TC_EmergingTech"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Washington Technology
-  domain: washingtontechnology.com
+  name: GCN
+  domain: gcn.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://washingtontechnology.com/-/media/GIG/GCN/Redesign/Articles/2020/September/ARmicroscope.jpg"
+  - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2020/September/ARmicroscope.jpg"
     width: 760
     height: 368
     isCached: true
 
-secured: "8dpjO64D+YOFqpLuOiEXDVihoGBlRk/O+IDgPcyutR6JGYyX0+WHmX0AFknTn+Mf7iA6cWGtPCFCaOBXx/OmN3ByhoUY2IBypJGl011YpM8PgGfAe8nNFA46EVQVc1IAt9zJJ9TO/77N8s85MCGqDHyam7SWtSSaLHCg4ipfuK/W3Mymkx07PSWpHENl2N5PeHSHLUbK2SF7TgC4H1HZb8YCnXg6hc/4QVwdygffMF+Ks6QtpGgtO1vqGCy5EcV/7bzQM4IJ8pLybaIO0gdGWhWR8TxIA2E+Ehx2HNFXzmQH2AnVy3R3Btwv+zDSq5SXb8fk81mqPzuwJ+vQ3p+5Vf7/KdUshIDFFRk+1j1Ksew=;IPJ9jCU+l/31xgh/oP0GjA=="
+secured: "urOK+vCco/PP7f+0IEoEJnICKURRIk4XwMfY39/KhsNjR9IFlrFIEBT/hnHIoO30BvL2E63eDOEVhH19mkblBjJsQ06Jcd4s7Ly7jhLJ0uF0p3NpJrl06NWxba+0eJ1HOgbGM7yZVmuLcHweNBYnPKNKhRRCAqTdkUW0X3E//0IwWXk8WpmQGnnMEPIWE+a7mwx1ZH/2oAFHgQyIpsbdoxsiytIIcQrCgTgWzdkz8z7OpDIO+ridb435tT3uesuP6qMnVkUUks+NItsdqVUEw4bqqx4WcNnzChtmE66kVHP0duDBWkHkhTj70d2NE6UkKORgrV11I7+gB/MQAUKb1nU3RZkGe3cG5cx4BDVZXZ4=;CkAJYhiYrgBqD/7bQHjbBA=="
 ---
 

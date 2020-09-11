@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/content-moderation-solut
 webUrl: "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Education Market Evolving Technology, Trends and Analysis 2020 to 2026 | IBM, Cognizant, Microsoft, Osmo"
+    excerpt: "Artificial Intelligence (AI) in Education market research report analyzes the market status, share, growth rate, future trends, market drivers and challenges, risks and entry barriers, sales channels,"
+    publishedDateTime: 2020-09-11T07:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-evolving-technology-trends-and-analysis-2020-to-2026-ibm-cognizant-microsoft-osmo-2020-09-11?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Next Wave of AI Technologies: Industry-academia Collaborations can Accelerate the Pace of Commercial Adoption of Unsupervised Learning"
     excerpt: "Next Wave of AI Technologies (Wave 1 - Unsupervised Learning)\" report has been added to ResearchAndMarkets.com's offering. As industries across the globe pursue digitization across functions, more and more data are being generated and utilized to empower decision-making and insight generation."
     publishedDateTime: 2020-09-07T10:30:00Z

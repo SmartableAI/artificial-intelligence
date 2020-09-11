@@ -8,8 +8,8 @@ webUrl: "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai
 ampWebUrl: "https://www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/"
 type: article
-quality: 104
-heat: 104
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -30,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Gkjg0sMSC43KdkwR6pNl6v8IcyHev758Cwu7vzTIGmAh+rNAMGuqKYzZyN4gJAqr6k4p/aoR1nF2bKnCXzHIPZ++d4dvam75Coq1erFncgowbzEg7MTNcePkPNUTcBjsYs/W3Z5Sd6ZlT0k9vtN/HyKqNYzeWqXkPEkWsvW7IwWTXi9g5QkXZaqo1oJCgHguNoFSrPxBiTrNgOL9yi8iRl5iYpAtAHvyaHRMg2ohhO6CdGjuXn1OfH3B8giak6LgAwyLl0XGNuHInMlkJZ/JqiQuH8tQoGJCz3h52ZGoyjeYsZx/fB+KrFh7RVSOoNmPzp2jaEXsCY7AYk4D4SlXrGb/liXzbldiyBbpazLheu4=;awIyeXuTCQQFgDIs6fcIxw=="
+secured: "oW/3KERSr3S1FkMurhbctjPuO9ePxwTSMZSmqHKdxNASftdd9JxLj0HJTiCjNGzGS70t6ckTB+IssfO2wYepdScfNvkRDxp+Kkm7rkndONbx/k6jyjgxupoeQw1y+OmDVPIjxbbb8/MZaYUlhDjtCf/KhAuss3gDznpI/2MI3uIaSg2uNlMKUyEKxkQi5h0ZkIv/v/khX4b7fnJ2O5UNzZqt5DEmnCpJd/x/IUOLjXBmdIPlhRikUnnzPbnVtzLi/2t7z0+VsLWYbmY2G8msqpjygWV9WieIGbImaGTKd38sjuL2qGq4Xcul6kdmdFHipTPQEjZDRrIwOUyTnjZYrmY+ovEBnXsS0qogUuVKkiQ=;3hru/H5l6JencTSql5raEg=="
 ---
 

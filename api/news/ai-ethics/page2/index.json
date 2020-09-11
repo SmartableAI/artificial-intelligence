@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-08-before-we-put-100-billion-into-ai.md",
+      "title": "Before we put $100 billion into AI",
+      "excerpt": "America is poised to invest billions of dollars in AI, but this funding could have bad effects if it's not tied to accountability for equal opportunity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/billions_of_dollars.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/amp/",
+      "publishedDateTime": "2020-08-08T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-08-08-how-the-federal-governments-ai-center-of-excellence-is-impacting-government-wide-adoption-of-ai.md",
       "title": "How The Federal Government’s AI Center Of Excellence Is Impacting Government-Wide Adoption Of AI",
       "excerpt": "The GSA's AI Center of Excellence aims to improve and enhance AI implementations in the government and help agencies on their journey with AI adoption. The relatively small team at the GSA AI CoE is helping to bring about some very impressive changes within the federal government.",
@@ -1408,56 +1459,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-ivanka-trump-tweets-support-for-goya-foods-in-possible-violation-of-ethics-rules.md",
-      "title": "Ivanka Trump tweets support for Goya Foods in possible violation of ethics rules",
-      "excerpt": "Donald Trump follows daughter’s post with own tweet claiming that boycott backfired and ‘people are buying like crazy’ US President Donald Trump and his daughter and adviser Ivanka Trump are rallying support for Goya Foods on Twitter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/16/36e941ca-c6d5-11ea-86df-6d561651b5f4_image_hires_044115.jpg?itok=ImVw9Yyn&v=1594845867",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
-      "publishedDateTime": "2020-07-15T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -3,10 +3,10 @@ category: news
 title: "Microsoft joins Nasscom to skill 10 lakh students in AI by 2021"
 excerpt: "Microsoft on Thursday joined hands with industry-driven learning ecosystem Nasscom FutureSkills to launch a nation-wide initiative that aims to skill 10 lakh students in Artificial Intelligence (AI) by 2021."
 publishedDateTime: 2020-09-10T09:14:00Z
-originalUrl: "https://www.sify.com/news/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-education-ujkjlMhdhfahb.html"
-webUrl: "https://www.sify.com/news/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-education-ujkjlMhdhfahb.html"
-ampWebUrl: "https://www.sify.com/news/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-education-ujkjlMhdhfahb.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-education-ujkjlMhdhfahb.html"
+originalUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
+webUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
+ampWebUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
 type: article
 quality: 54
 heat: -1
@@ -52,6 +52,22 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "News: NASSCOM FutureSkills(R) & Microsoft collaborate to skill India’s future workforce with AI capabilities"
+    excerpt: "As part of its ongoing efforts to promote skilling as a national priority NASSCOM FutureSkills and Microsoft have joined hands to launch a nation-wide AI skilling initiative The initiative aims to ski"
+    publishedDateTime: 2020-09-11T07:53:00Z
+    webUrl: "https://www.peoplematters.in/news/skilling/nasscom-futureskillsr-microsoft-collaborate-to-skill-indias-future-workforce-with-ai-capabilities-26956"
+    ampWebUrl: "https://www.peoplematters.in/amp-skilling-nasscom-futureskillsr-microsoft-collaborate-to-skill-indias-future-workforce-with-ai-capabilities-26956"
+    cdnAmpWebUrl: "https://www-peoplematters-in.cdn.ampproject.org/c/s/www.peoplematters.in/amp-skilling-nasscom-futureskillsr-microsoft-collaborate-to-skill-indias-future-workforce-with-ai-capabilities-26956"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 55
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto/v1599810638/1599810636.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "NASSCOM FutureSkills and Microsoft Launch AI Classroom Series"
     excerpt: "As part of its ongoing efforts to promote skilling as a national priority, NASSCOM FutureSkills and Microsoft have joined hands to launch a nation-wide AI skilling initiative. The initiative aims to skill 1 million students in AI by 2021."
@@ -107,6 +123,6 @@ related:
         height: 367
         isCached: true
 
-secured: "++YcplFhYloTxQKhVOjYp37ziGHEcQLrNUdiKJh6I72m1MMkss3AIAeEQuhC05YqWf1b2pV6e58ypMldyarui/Pv9QAlbeDkMkEVpgHN+jeehSirGqdadssvasqKaOCh7a+xZ3iY5eOGieuicStfEJRtNd3T4LKZwYWKuVRrbQH8nZPFrQqVHSuQMq/859RqDIWee+7vgEOKkMKbIZ9loEZgfzUCpUr5UsdDTufn8aBdTFq5mdM9uC46SaMUFZkitnmr/gwOQ077t4tsDaVWcXELw9ISQ4yD9Z/578rPPFaNNA7nepxGNAxu0ELEjKM+pQ0E18vFOAsqbH7I0ypc2KV4P/DoCRc0x4llcaV0Z6g=;/houwWUxmVW4FXjZegFQbw=="
+secured: "HVu+5n6kukKinF1nTL86GUOLMKDDrUxwR1wDthA3Cgk7tL7KrxUfagwoeDH12meo0Iee8BlywPzhq4EVrxv4DHOVNjCUh0rlmiYWMVT1OUXp3DPFDU7ZqjPRX+xV2bgMdqYUqmKDv+P4ukLl+wFKk3mp+22R1f0eytMnlP2YnHEvNBlFpfMNPNGCKtkY/OIzyrLR6/Wt9b8ltdOVjQyv5O6v3nHC5e8V/05s0PMvMs2Uum7mFIBaCjgtpM6tOdWs93D6D+Pe+jpHshsgn8OVJYcP619aO7ZATb40eCZ2kwyhpJwToSzuHIhvixJ7ABGmQqos9/f+I3L1uYIZUNbfjrwDDJrrree4EDEmTRbiDlg=;JGW7ONt39SvqecMklZS5HQ=="
 ---
 
